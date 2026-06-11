@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /tennessee-1f4d4c-index/
 description: Focused pages that expand on What Keeps Tennessee's UFO Stories Alive?.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Tennessee_1f4d4c
 parent_title: What Keeps Tennessee's UFO Stories Alive?

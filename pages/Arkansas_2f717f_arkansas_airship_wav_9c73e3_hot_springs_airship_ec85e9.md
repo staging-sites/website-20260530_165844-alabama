@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /airship-wave/
 nav_short_title: Hot Springs
 title: Why the Hot Springs airship tale endured
-title_full: Why the Hot Springs airship tale endured | Airship Wave
+title_full: Why the Hot Springs airship tale endured
 display_title_short: Hot Springs
 display_title: Hot Springs
 heading_title: Why the Hot Springs airship tale endured
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:00:29'
-parent_title: Were Arkansas's Airships Real Machines? | Arkansas UFOs
+parent_title: Were Arkansas's Airships Real Machines?
 parent_permalink: /airship-wave/
 parent_nav_short_title: Airship Wave
 parent_heading_title: Were Arkansas's Airships Real Machines?
@@ -250,12 +250,10 @@ image: /assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_hot_springs_ai
 
 ## Introduction
 
-The Hot Springs airship story is the most vivid and durable [Arkansas]({{ 'what-really-happened-in-arkansas-skies/' | relative_url }}) contribution to the great American [airship wave]({{ 'airship-wave/' | relative_url }}) of 1896–97. On a rainy night in May 1897, two law officers riding through the Ouachita hills claimed they encountered a grounded flying machine, spoke with its crew and were even invited aboard. The account has survived because it contains striking details that later became familiar in UFO folklore: a cigar-shaped craft, mysterious travellers, technical language about advanced flight and a close encounter in a remote landscape. Yet the same story also contains many of the warning signs historians associate with nineteenth-century newspaper tall tales.
+The Hot Springs airship story is the most vivid and durable Arkansas contribution to the great American [airship wave]({{ 'airship-wave/' | relative_url }}) of 1896–97. On a rainy night in May 1897, two law officers riding through the Ouachita hills claimed they encountered a grounded flying machine, spoke with its crew and were even invited aboard. The account has survived because it contains striking details that later became familiar in UFO folklore: a cigar-shaped craft, mysterious travellers, technical language about advanced flight and a close encounter in a remote landscape. Yet the same story also contains many of the warning signs historians associate with nineteenth-century newspaper tall tales.
 
-
-<img src="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_hot_springs_airship_ec85e9-Illustration-1-light.svg" | relative_url }}" alt="Hot Springs illustration 1" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_hot_springs_airship_ec85e9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_hot_springs_airship_ec85e9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_hot_springs_airship_ec85e9-Illustration-1-dark.svg" | relative_url }}" alt="Hot Springs illustration 1" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_hot_springs_airship_ec85e9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_hot_springs_airship_ec85e9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Unlike later UFO incidents tied to radar tracks, military records or multiple independent witnesses, the Hot Springs case survives almost entirely through press reports and retellings. That makes it valuable less as proof of an unknown craft and more as a case study in how extraordinary stories spread during the airship craze. The tension between vivid storytelling and weak evidence is exactly why the tale still appears in discussions of Arkansas UFO history today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exploresouthernhistory.com/arkansasairship.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exploresouthernhistory.com">[Explore Southern History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exploresouthernhistory.com</span><span class="citation-popover-snippet">A lawman from Hot Springs encountered a strange airship and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">ufo sightings 8576</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO Sightings22 Oct 2025 — Perhaps the most prominent of the 1897 sightings in Arkansas occurred in Hot Springs (...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_KWnz9JZkVA" title="Phantom Airships of the 19th Century | The Dark Histories Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_KWnz9JZkVA" target="_blank" rel="noopener noreferrer">Phantom Airships of the 19th Century | The Dark Histories Podcast</a></p><p class="youtube-embed-meta">Channel: Dark Histories &middot; Views: 12.4K &middot; Uploaded: March 2021 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_KWnz9JZkVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_KWnz9JZkVA">Open on YouTube</a></p></div></div></div>
 
@@ -269,7 +267,6 @@ One of the officers supposedly asked whether the object was the famous “air sh
 
 The encounter became especially memorable because the crew allegedly offered the officers a ride. According to the newspaper version, the pilot joked that he could take them somewhere “where it was not raining”. The officers politely declined and watched the craft depart into the darkness. When they later revisited the area, no physical evidence was found. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">ufo sightings 8576</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO Sightings22 Oct 2025 — Perhaps the most prominent of the 1897 sightings in Arkansas occurred in Hot Springs (...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mq0pmfgeAt4" title="Secret Origin of the Mystery Airships! (Phantom Airships, UFO, 1897) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mq0pmfgeAt4" target="_blank" rel="noopener noreferrer">Secret Origin of the Mystery Airships! (Phantom Airships, UFO, 1897) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 15.2K &middot; Uploaded: October 2023 &middot; Length: 1 hour 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mq0pmfgeAt4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mq0pmfgeAt4">Open on YouTube</a></p></div></div></div>
 
 ## The bearded airship crew and the refused invitation
@@ -282,8 +279,7 @@ The language used in the reports also sounds theatrical in retrospect. The invit
 
 Another notable feature is how human and approachable the crew appeared. Later UFO lore often emphasised silence, fear or incomprehensible behaviour. The Hot Springs airship crew instead behaved like polite travellers delayed by bad weather. That tone makes the account memorable, but it also weakens its credibility for many historians because it reads more like a colourful newspaper feature than a frightened eyewitness testimony.
 
-
-<img src="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_hot_springs_airship_ec85e9-Illustration-2-light.svg" | relative_url }}" alt="Hot Springs illustration 2" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_hot_springs_airship_ec85e9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_hot_springs_airship_ec85e9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_hot_springs_airship_ec85e9-Illustration-2-dark.svg" | relative_url }}" alt="Hot Springs illustration 2" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_hot_springs_airship_ec85e9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_hot_springs_airship_ec85e9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the story reads like folklore as much as evidence
 
 The strongest reason for caution is the lack of independent corroboration. No physical traces, photographs, mechanical fragments or official investigative files survive. The story depends heavily on newspaper reporting at a time when sensationalism and humour frequently blended together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">ufo sightings 8576</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO Sightings22 Oct 2025 — Perhaps the most prominent of the 1897 sightings in Arkansas occurred in Hot Springs (...</span></span></span>
@@ -291,7 +287,6 @@ The strongest reason for caution is the lack of independent corroboration. No ph
 The national context also matters. By May 1897 the American press was saturated with airship stories. Newspapers competed aggressively for attention, and readers already expected tales of mysterious craft crossing the skies. Some reports were clearly intended as jokes or publicity stunts. Others mixed genuine sightings of lights or astronomical objects with invented dialogue and dramatic embellishment. The Hot Springs case appeared at the peak of this craze, when audiences were primed to enjoy elaborate airship narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/John_J._Sumpter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">John J. Sumpter</span><span class="citation-popover-snippet">John J. Sumpter</span></span></span>
 
 Several details resemble stock motifs from tall tales:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -309,7 +304,6 @@ The involvement of known local figures nevertheless gave the story staying power
 
 Some later writers tried to connect the incident to experimental aircraft projects in Arkansas. Accounts occasionally mention local inventors working on flying-machine concepts around the same period. While this reflects genuine late nineteenth-century enthusiasm for aviation, no evidence links any real prototype to the Hot Springs encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exploresouthernhistory.com/arkansasairship.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exploresouthernhistory.com">[Explore Southern History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exploresouthernhistory.com</span><span class="citation-popover-snippet">A lawman from Hot Springs encountered a strange airship and...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DoJUsaTknNw" title="Airship Mystery of 1896 and 1897 (Mystery Airships, UFOs) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DoJUsaTknNw" target="_blank" rel="noopener noreferrer">Airship Mystery of 1896 and 1897 (Mystery Airships, UFOs) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 17.6K &middot; Uploaded: October 2023 &middot; Length: 1 hour 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DoJUsaTknNw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DoJUsaTknNw">Open on YouTube</a></p></div></div></div>
 
 ## Why the Hot Springs case still matters in Arkansas UFO history
@@ -320,8 +314,7 @@ For sceptics, the case demonstrates how media excitement and storytelling tradit
 
 The Hot Springs report also reveals how Arkansas participated in a genuinely national phenomenon rather than an isolated local legend. Similar cigar-shaped craft and conversational airship crews appeared in newspapers across the United States during the same months. The Arkansas version endured because it was especially cinematic: rain-soaked mountains, armed officers, lantern-bearing strangers and a vanished machine disappearing into the dark Ouachita sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exploresouthernhistory.com/arkansasairship.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exploresouthernhistory.com">[Explore Southern History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exploresouthernhistory.com</span><span class="citation-popover-snippet">A lawman from Hot Springs encountered a strange airship and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://encyclopediaofarkansas.net/media/ufo-article-11602/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-snippet">UFO SightingsStory depicting an encounter with a UFO from the April 22, 1897, Arkansas Gazette. &quot;Saw the air ship&quot; newspaper clipping.Rea...</span><span class="citation-popover-meta">Published: April 22, 1897</span></span></span>
 
-
-<img src="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_hot_springs_airship_ec85e9-Illustration-3-light.svg" | relative_url }}" alt="Hot Springs illustration 3" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_hot_springs_airship_ec85e9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_hot_springs_airship_ec85e9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_hot_springs_airship_ec85e9-Illustration-3-dark.svg" | relative_url }}" alt="Hot Springs illustration 3" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_hot_springs_airship_ec85e9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_hot_springs_airship_ec85e9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -745,37 +738,37 @@ The Hot Springs report also reveals how Arkansas participated in a genuinely nat
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Mystery airship  
-   Link: [https://en.wikipedia.org/wiki/Mystery_airship](https://en.wikipedia.org/wiki/Mystery_airship)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: John J. Sumpter  
-   Link: [https://en.wikipedia.org/wiki/John_J._Sumpter](https://en.wikipedia.org/wiki/John_J._Sumpter)  
+   Link: <a href="https://en.wikipedia.org/wiki/John_J._Sumpter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/John_J._Sumpter</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Sumpter House  
-   Link: [https://en.wikipedia.org/wiki/Sumpter_House](https://en.wikipedia.org/wiki/Sumpter_House)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sumpter_House" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sumpter_House</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Hot Springs Airship Company  
-   Link: [https://en.wikipedia.org/wiki/Hot_Springs_Airship_Company](https://en.wikipedia.org/wiki/Hot_Springs_Airship_Company)  
+   Link: <a href="https://en.wikipedia.org/wiki/Hot_Springs_Airship_Company" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hot_Springs_Airship_Company</a>  
 
 5. <a id="endnote-5"></a>
    Source: exploresouthernhistory.com  
-   Link: [https://exploresouthernhistory.com/arkansasairship.html](https://exploresouthernhistory.com/arkansasairship.html)  
+   Link: <a href="https://exploresouthernhistory.com/arkansasairship.html" target="_blank" rel="noopener noreferrer nofollow">https://exploresouthernhistory.com/arkansasairship.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A lawman from Hot Springs encountered a strange airship and...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: encyclopediaofarkansas.net  
    Title: ufo sightings 8576  
-   Link: [https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/](https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/)  
+   Link: <a href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia of ArkansasUFO Sightings22 Oct 2025 — Perhaps the most prominent of the 1897 sightings in Arkansas occurred in Hot Springs (...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: encyclopediaofarkansas.net  
-   Link: [https://encyclopediaofarkansas.net/media/ufo-article-11602/](https://encyclopediaofarkansas.net/media/ufo-article-11602/)  
+   Link: <a href="https://encyclopediaofarkansas.net/media/ufo-article-11602/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofarkansas.net/media/ufo-article-11602/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsStory depicting an encounter with a UFO from the April 22, 1897, Arkansas Gazette. &quot;Saw the air ship&quot; newspaper clipping.Rea...</p></details>
    Published: April 22, 1897  
 
@@ -784,63 +777,63 @@ The Hot Springs report also reveals how Arkansas participated in a genuinely nat
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: we are wandering to the edges of the map so to speak where sea serpents and othe  
-   Link: [https://www.facebook.com/darkozarks/posts/we-are-wandering-to-the-edges-of-the-map-so-to-speak-where-sea-serpents-and-othe/459937242286414/](https://www.facebook.com/darkozarks/posts/we-are-wandering-to-the-edges-of-the-map-so-to-speak-where-sea-serpents-and-othe/459937242286414/)  
+   Link: <a href="https://www.facebook.com/darkozarks/posts/we-are-wandering-to-the-edges-of-the-map-so-to-speak-where-sea-serpents-and-othe/459937242286414/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/darkozarks/posts/we-are-wandering-to-the-edges-of-the-map-so-to-speak-where-sea-serpents-and-othe/459937242286414/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dark Ozarks26 Jan 2022 — The alleged incident took place on May 6, 1897 in the Ouachita Mountains near Hot Springs. As the story goes, Co...</p></details>
    Published: May 6, 1897  
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
    Title: before ufos took over the public consciousness there was the 1897 airship scare  
-   Link: [https://www.facebook.com/darkozarks/posts/before-ufos-took-over-the-public-consciousness-there-was-the-1897-airship-scare-/940528084915467/](https://www.facebook.com/darkozarks/posts/before-ufos-took-over-the-public-consciousness-there-was-the-1897-airship-scare-/940528084915467/)  
+   Link: <a href="https://www.facebook.com/darkozarks/posts/before-ufos-took-over-the-public-consciousness-there-was-the-1897-airship-scare-/940528084915467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/darkozarks/posts/before-ufos-took-over-the-public-consciousness-there-was-the-1897-airship-scare-/940528084915467/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>but in 1897, such sights were not yet commonplace, or...26 Jan 2025 — Before UFOs took over the public consciousness, there was the 1897...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: medium.com  
    Title: the night the sky over arkansas went to war 60acb893fca3  
-   Link: [https://medium.com/write-a-catalyst/the-night-the-sky-over-arkansas-went-to-war-60acb893fca3](https://medium.com/write-a-catalyst/the-night-the-sky-over-arkansas-went-to-war-60acb893fca3)  
+   Link: <a href="https://medium.com/write-a-catalyst/the-night-the-sky-over-arkansas-went-to-war-60acb893fca3" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/write-a-catalyst/the-night-the-sky-over-arkansas-went-to-war-60acb893fca3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Night the Sky Over Arkansas Went to WarThe Forgotten 1897 Airship Panic. On a damp April night in 1897, a farmer near Hot Springs ste...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: arkansasstatearchives.blogspot.com  
    Title: Arkansas State Archives Arkansas History's Mysteries  
-   Link: [https://arkansasstatearchives.blogspot.com/2015/08/ufos-and-arkansas.html](https://arkansasstatearchives.blogspot.com/2015/08/ufos-and-arkansas.html)  
+   Link: <a href="https://arkansasstatearchives.blogspot.com/2015/08/ufos-and-arkansas.html" target="_blank" rel="noopener noreferrer nofollow">https://arkansasstatearchives.blogspot.com/2015/08/ufos-and-arkansas.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>airship to make a sketch of it for the newspaper. Perhaps the most prominent of the sightings in Arkansas came on May 7, 1897, near Hot S...</p></details>
    Published: May 7, 1897  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: On today's date 129 years ago, Tuesday,  
-   Link: [https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-tuesday-april-13-1897-during-t/1508580773962060/](https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-tuesday-april-13-1897-during-t/1508580773962060/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 13, 1897...[Arkansas Airship](&amp;#123;&amp;#123; &#x27;airship-wave/&#x27; | relative_url &amp;#125;&amp;#125;) Mystery Date: May 6, 1897 Location: Ouachita Mountains (near Hot Springs), AR One of the most mysteri...</p></details>
+   Link: <a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-tuesday-april-13-1897-during-t/1508580773962060/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-tuesday-april-13-1897-during-t/1508580773962060/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 13, 1897...Arkansas Airship Mystery Date: May 6, 1897 Location: Ouachita Mountains (near Hot Springs), AR One of the most mysteri...</p></details>
    Published: April 13, 1897  
 
 13. <a id="endnote-13"></a>
    Source: explorepinebluff.com  
    Title: Pine Bluff UFO Sightings in Arkansas  
-   Link: [https://www.explorepinebluff.com/post/ufo-sightings-in-arkansas](https://www.explorepinebluff.com/post/ufo-sightings-in-arkansas)  
+   Link: <a href="https://www.explorepinebluff.com/post/ufo-sightings-in-arkansas" target="_blank" rel="noopener noreferrer nofollow">https://www.explorepinebluff.com/post/ufo-sightings-in-arkansas</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Arkansas - Explore Pine Bluff28 Sept 2022 — On May 7, 1897, Constable Sumpter and Deputy Sheriff John McLemore spotted a...</p></details>
    Published: May 7, 1897  
 
 14. <a id="endnote-14"></a>
    Source: onlyinark.com  
    Title: ufo sightings in arkansas  
-   Link: [https://onlyinark.com/featured/ufo-sightings-in-arkansas/](https://onlyinark.com/featured/ufo-sightings-in-arkansas/)  
+   Link: <a href="https://onlyinark.com/featured/ufo-sightings-in-arkansas/" target="_blank" rel="noopener noreferrer nofollow">https://onlyinark.com/featured/ufo-sightings-in-arkansas/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>6 May 2021 — On the evening of May 7, 1897, Constable John J. Sumpter and Deputy Sheriff John McLemore were riding horses outside of Hot...</p></details>
    Published: May 7, 1897  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Mq0pmfgeAt4](https://www.youtube.com/watch?v=Mq0pmfgeAt4)  
+   Link: <a href="https://www.youtube.com/watch?v=Mq0pmfgeAt4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mq0pmfgeAt4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Phantom Airships of the 19th Century | The Dark Histories Podcast...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: fr.findagrave.com  
    Title: extraterrestrial airship pilot alien  
-   Link: [https://fr.findagrave.com/memorial/52130170/extraterrestrial-airship_pilot-alien](https://fr.findagrave.com/memorial/52130170/extraterrestrial-airship_pilot-alien)  
+   Link: <a href="https://fr.findagrave.com/memorial/52130170/extraterrestrial-airship_pilot-alien" target="_blank" rel="noopener noreferrer nofollow">https://fr.findagrave.com/memorial/52130170/extraterrestrial-airship_pilot-alien</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hot Springs, Arkansas, when Deputy Sheriff McLemore and Constable...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: onlyinyourstate.com  
    Title: ufo sighting ar  
-   Link: [https://www.onlyinyourstate.com/state-pride/arkansas/ufo-sighting-ar](https://www.onlyinyourstate.com/state-pride/arkansas/ufo-sighting-ar)  
+   Link: <a href="https://www.onlyinyourstate.com/state-pride/arkansas/ufo-sighting-ar" target="_blank" rel="noopener noreferrer nofollow">https://www.onlyinyourstate.com/state-pride/arkansas/ufo-sighting-ar</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting In Arkansas20 Sept 2023 — While the story remains unconfirmed, the incident happened in 1897 in the Ouachita Mountains near...</p></details>

@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /ashland-case/
 nav_short_title: Missing Time
 title: Can Ashland's missing time be trusted?
-title_full: Can Ashland's missing time be trusted? | Ashland Case
+title_full: Can Ashland's missing time be trusted?
 display_title_short: Missing Time
 display_title: Missing Time
 heading_title: Can Ashland's missing time be trusted?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:45:52'
-parent_title: Why the Ashland Police UFO Case Still Matters | Nebraska UFOs
+parent_title: Why the Ashland Police UFO Case Still Matters
 parent_permalink: /ashland-case/
 parent_nav_short_title: Ashland Case
 parent_heading_title: Why the Ashland Police UFO Case Still Matters
@@ -250,10 +250,9 @@ image: /assets/images/Nebraska_e9c60b_ashland_police_case_69c682_schirmer_missin
 
 ## Introduction
 
-The most controversial part of Herbert Schirmer’s 1967 Ashland UFO report is not the light he said he saw over a [Nebraska]({{ 'what-really-happened-in-nebraskas-ufo/' | relative_url }}) road. It is the claim that roughly 20 minutes of time went missing, followed by memories that emerged under hypnosis months later. Those elements helped turn a local police sighting into one of the better-known UFO cases in American folklore. They also created the strongest reasons for caution.
+The most controversial part of Herbert Schirmer’s 1967 Ashland UFO report is not the light he said he saw over a Nebraska road. It is the claim that roughly 20 minutes of time went missing, followed by memories that emerged under hypnosis months later. Those elements helped turn a local police sighting into one of the better-known UFO cases in American folklore. They also created the strongest reasons for caution.
 
-
-<img src="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_schirmer_missing_tim_5ba490-Illustration-1-light.svg" | relative_url }}" alt="Missing Time illustration 1" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_schirmer_missing_tim_5ba490-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_schirmer_missing_tim_5ba490-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_schirmer_missing_tim_5ba490-Illustration-1-dark.svg" | relative_url }}" alt="Missing Time illustration 1" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_schirmer_missing_tim_5ba490-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_schirmer_missing_tim_5ba490-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Unlike a radar track, photograph or physical trace, missing time is difficult to verify independently. Hypnotically recovered memories are even more problematic because modern psychology treats them as potentially vulnerable to suggestion and reconstruction. In the [Ashland case]({{ 'ashland-case/' | relative_url }}), investigators could confirm that Schirmer believed time had passed differently from what the clock suggested. They could not independently confirm what, if anything, happened during that period. That distinction remains central to understanding the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Scientific Study Of Unidentified Flying Objects</span><span class="citation-popover-snippet">analysis of sighting reports in the light of current knowledge of radar propagation. Thus, atmospheric information was useful in evaluati...</span></span></span>
 
 ## The reported 20-minute gap
@@ -266,12 +265,11 @@ That does not automatically mean the gap was invented. Human beings frequently m
 
 For believers, the missing time suggested that part of the encounter had been suppressed or forgotten. For sceptics, it raised a simpler possibility: that an unexpected sighting, stress, distraction or ordinary memory failure created an inaccurate reconstruction of the timeline.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z_GdL-Pp4g0" title="BrainScratch : Herbert Schirmer&#x27;s Alien Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z_GdL-Pp4g0" target="_blank" rel="noopener noreferrer">BrainScratch : Herbert Schirmer&#x27;s Alien Story</a></p><p class="youtube-embed-meta">Channel: LordanARTS &middot; Views: 25.8K &middot; Uploaded: August 2017 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z_GdL-Pp4g0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z_GdL-Pp4g0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E1o3BHw2gjk" title="Officer Schirmer 1967 UFO Abduction: &quot;Come With Me, Watchmen&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E1o3BHw2gjk" target="_blank" rel="noopener noreferrer">Officer Schirmer 1967 UFO Abduction: &quot;Come With Me, Watchmen&quot;</a></p><p class="youtube-embed-meta">Channel: The UFO Agency &middot; Views: 352 &middot; Uploaded: June 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E1o3BHw2gjk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E1o3BHw2gjk">Open on YouTube</a></p></div></div></div>
 
 ## What hypnosis added to the story
 
-The Ashland report became significantly more dramatic after hypnosis entered the picture. During later sessions, Schirmer described memories that went far beyond the original roadside sighting. Under hypnosis he reportedly recalled being taken aboard a craft and encountering humanoid occupants. Elements of the narrative that later became widely associated with UFO abduction stories emerged from these sessions rather than from his first immediate report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/gastongazette/posts/after-a-host-of-calls-about-ufos-a-woman-disappears-her-husband-a-police-officer/10159050491647478/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookAfter a host of calls about UFOs, a woman disappears. Her...His case was one of those investigated in the Condon Report. He flew...</span></span></span>
+The Ashland report became significantly more dramatic after hypnosis entered the picture. During later sessions, Schirmer described memories that went far beyond the original roadside sighting. Under hypnosis he reportedly recalled being taken aboard a craft and encountering humanoid occupants. Elements of the narrative that later became widely associated with UFO abduction stories emerged from these sessions rather than from his first immediate report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/gastongazette/posts/after-a-host-of-calls-about-ufos-a-woman-disappears-her-husband-a-police-officer/10159050491647478/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">After a host of calls about UFOs, a woman disappears. Her...His case was one of those investigated in the Condon Report. He flew...</span></span></span>
 
 One reason the case attracted attention is that it appeared before the abduction narrative became a major part of popular UFO culture in the 1970s and 1980s. Supporters therefore argued that Schirmer was not merely copying a well-established template. The hypnosis sessions seemed to provide details that were not publicly developed in the same way at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%202.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avalonlibrary.net">[avalonlibrary.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avalonlibrary.net</span><span class="citation-popover-snippet">Volu~e 2: Catalogue of Cases. by. Tho~as E. Bullard. Bloo~ington, Indiana. For. The Fund for UFO Research. 1987. Page...Read more...</span></span></span>
 
@@ -279,8 +277,7 @@ The psychiatrist most often associated with the hypnotic work, Berthold E. Schwa
 
 An important detail is that hypnosis did not independently prove the reality of the new memories. It produced a more elaborate narrative. Whether that narrative reflected genuine hidden memories, symbolic imagery, dreams, confabulation or a mixture of psychological processes remains disputed.
 
-
-<img src="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_schirmer_missing_tim_5ba490-Illustration-2-light.svg" | relative_url }}" alt="Missing Time illustration 2" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_schirmer_missing_tim_5ba490-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_schirmer_missing_tim_5ba490-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_schirmer_missing_tim_5ba490-Illustration-2-dark.svg" | relative_url }}" alt="Missing Time illustration 2" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_schirmer_missing_tim_5ba490-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_schirmer_missing_tim_5ba490-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why confident memory is not proof
 
 One of the strongest misconceptions surrounding cases like Ashland is the idea that a vivid memory must be an accurate memory.
@@ -291,8 +288,7 @@ By the late twentieth century, criticism of forensic hypnosis became increasingl
 
 That issue matters directly in the Ashland case because the most extraordinary parts of the story emerged after hypnosis rather than before it. The roadside sighting, the unusual lights and the perceived time discrepancy belong to the original report. The more detailed abduction-style narrative belongs largely to later recollections. Critics therefore argue that the strongest claims rest on the weakest form of evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: believingthebizarre.com">[Believing the Bizarre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">believingthebizarre.com</span><span class="citation-popover-title">herb schimer ufo encounter and abduction</span><span class="citation-popover-snippet">Believing the BizarreThe Herbert Schirmer Alien AbductionHerbert Schirmer, a Nebraska police officer, reported a 1967 UFO encounter with...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E1o3BHw2gjk" title="Officer Schirmer 1967 UFO Abduction: &quot;Come With Me, Watchmen&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E1o3BHw2gjk" target="_blank" rel="noopener noreferrer">Officer Schirmer 1967 UFO Abduction: &quot;Come With Me, Watchmen&quot;</a></p><p class="youtube-embed-meta">Channel: The UFO Agency &middot; Views: 352 &middot; Uploaded: June 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E1o3BHw2gjk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E1o3BHw2gjk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l5GSEHG3NUU" title="Officer Herbert Schirmer’s 1967 UFO Abduction Interview: A Cop’s Alien Encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l5GSEHG3NUU" target="_blank" rel="noopener noreferrer">Officer Herbert Schirmer’s 1967 UFO Abduction Interview: A Cop’s Alien Encounter</a></p><p class="youtube-embed-meta">Channel: uapcappa &middot; Views: 550 &middot; Uploaded: March 2025 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l5GSEHG3NUU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l5GSEHG3NUU">Open on YouTube</a></p></div></div></div>
 
 ## What investigators could and could not verify
 
@@ -304,8 +300,7 @@ The distinction becomes especially important with the missing-time claim. Invest
 
 No physical evidence demonstrated that an abduction occurred during those minutes. No independent witness observed such an event. No record established where Schirmer was for every moment of the gap. The central mystery therefore remained a personal experience rather than a confirmed historical event.
 
-
-<img src="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_schirmer_missing_tim_5ba490-Illustration-3-light.svg" | relative_url }}" alt="Missing Time illustration 3" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_schirmer_missing_tim_5ba490-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_schirmer_missing_tim_5ba490-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_schirmer_missing_tim_5ba490-Illustration-3-dark.svg" | relative_url }}" alt="Missing Time illustration 3" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_schirmer_missing_tim_5ba490-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_schirmer_missing_tim_5ba490-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the missing-time claim remains disputed
 
 More than half a century later, the missing-time element still sits at the centre of debates about the Ashland case.
@@ -316,9 +311,7 @@ Sceptics focus on a different set of facts. The missing time was never independe
 
 That unresolved tension explains why the Ashland encounter continues to occupy an unusual place in Nebraska UFO history. The missing time is not a solved mystery, but neither is it strong evidence on its own. It remains a claim supported mainly by memory, and memory is precisely the part of the story that investigators have the greatest difficulty testing.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l5GSEHG3NUU" title="Officer Herbert Schirmer’s 1967 UFO Abduction Interview: A Cop’s Alien Encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l5GSEHG3NUU" target="_blank" rel="noopener noreferrer">Officer Herbert Schirmer’s 1967 UFO Abduction Interview: A Cop’s Alien Encounter</a></p><p class="youtube-embed-meta">Channel: uapcappa &middot; Views: 550 &middot; Uploaded: March 2025 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l5GSEHG3NUU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l5GSEHG3NUU">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z_GdL-Pp4g0" title="BrainScratch : Herbert Schirmer&#x27;s Alien Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z_GdL-Pp4g0" target="_blank" rel="noopener noreferrer">BrainScratch : Herbert Schirmer&#x27;s Alien Story</a></p><p class="youtube-embed-meta">Channel: LordanARTS &middot; Views: 25.8K &middot; Uploaded: August 2017 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z_GdL-Pp4g0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z_GdL-Pp4g0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -742,142 +735,142 @@ That unresolved tension explains why the Ashland encounter continues to occupy a
 1. <a id="endnote-1"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Scientific Study Of Unidentified Flying Objects  
-   Link: [https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt](https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt)  
+   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>analysis of sighting reports in the light of current knowledge of radar propagation. Thus, atmospheric information was useful in evaluati...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Forensic hypnosis  
-   Link: [https://en.wikipedia.org/wiki/Forensic_hypnosis](https://en.wikipedia.org/wiki/Forensic_hypnosis)  
+   Link: <a href="https://en.wikipedia.org/wiki/Forensic_hypnosis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Forensic_hypnosis</a>  
 
 3. <a id="endnote-3"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/gastongazette/posts/after-a-host-of-calls-about-ufos-a-woman-disappears-her-husband-a-police-officer/10159050491647478/](https://www.facebook.com/gastongazette/posts/after-a-host-of-calls-about-ufos-a-woman-disappears-her-husband-a-police-officer/10159050491647478/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookAfter a host of calls about UFOs, a woman disappears. Her...His case was one of those investigated in the Condon Report. He flew...</p></details>
+   Link: <a href="https://www.facebook.com/gastongazette/posts/after-a-host-of-calls-about-ufos-a-woman-disappears-her-husband-a-police-officer/10159050491647478/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gastongazette/posts/after-a-host-of-calls-about-ufos-a-woman-disappears-her-husband-a-police-officer/10159050491647478/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>After a host of calls about UFOs, a woman disappears. Her...His case was one of those investigated in the Condon Report. He flew...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: avalonlibrary.net  
-   Link: [https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%202.pdf](https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%202.pdf)  
+   Link: <a href="https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%202.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Volu~e 2: Catalogue of Cases. by. Tho~as E. Bullard. Bloo~ington, Indiana. For. The Fund for UFO Research. 1987. Page...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Berthold E. Schwarz  
-   Link: [https://en.wikipedia.org/wiki/Berthold_E._Schwarz](https://en.wikipedia.org/wiki/Berthold_E._Schwarz)  
+   Link: <a href="https://en.wikipedia.org/wiki/Berthold_E._Schwarz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Berthold_E._Schwarz</a>  
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
    Title: "At 2:30 a.m  
-   Link: [https://www.facebook.com/WorldHerald/posts/patrolman-herb-schirmer-scrawled-a-short-message-summarizing-the-nights-bizarre-/10157200803734630/](https://www.facebook.com/WorldHerald/posts/patrolman-herb-schirmer-scrawled-a-short-message-summarizing-the-nights-bizarre-/10157200803734630/)  
+   Link: <a href="https://www.facebook.com/WorldHerald/posts/patrolman-herb-schirmer-scrawled-a-short-message-summarizing-the-nights-bizarre-/10157200803734630/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WorldHerald/posts/patrolman-herb-schirmer-scrawled-a-short-message-summarizing-the-nights-bizarre-/10157200803734630/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 3, 1967, I saw a UFO...Patrolman Herb Schirmer scrawled a short message summarizing the night&#x27;s bizarre events: &quot;At 2:30 a.m. D...</p></details>
    Published: December 3, 1967  
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/centerforufostudies/posts/on-this-day-in-1987-december-1-1987-715-am-a-former-london-policeman-pseudonym-p/576106418473011/](https://www.facebook.com/centerforufostudies/posts/on-this-day-in-1987-december-1-1987-715-am-a-former-london-policeman-pseudonym-p/576106418473011/)  
+   Link: <a href="https://www.facebook.com/centerforufostudies/posts/on-this-day-in-1987-december-1-1987-715-am-a-former-london-policeman-pseudonym-p/576106418473011/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/centerforufostudies/posts/on-this-day-in-1987-december-1-1987-715-am-a-former-london-policeman-pseudonym-p/576106418473011/</a>  
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: during the cold war as project blue book investigated potential ufo threats a sh  
-   Link: [https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/](https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>During the Cold War, as Project Blue Book investigated...... Condon Report–in 1968. According to the Condon Report, the sightings they e...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheUnXplainedZone/posts/an-expert-shares-the-connection-between-hypnosis-and-alien-abductions-ufofiles/1253958620266901/?locale=bn_IN](https://www.facebook.com/TheUnXplainedZone/posts/an-expert-shares-the-connection-between-hypnosis-and-alien-abductions-ufofiles/1253958620266901/?locale=bn_IN)  
+   Link: <a href="https://www.facebook.com/TheUnXplainedZone/posts/an-expert-shares-the-connection-between-hypnosis-and-alien-abductions-ufofiles/1253958620266901/?locale=bn_IN" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/an-expert-shares-the-connection-between-hypnosis-and-alien-abductions-ufofiles/1253958620266901/?locale=bn_IN</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and has had several missing time experiences myself I find...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/THEUFOFILESGROUP/posts/1637050316732615/](https://www.facebook.com/groups/THEUFOFILESGROUP/posts/1637050316732615/)  
+   Link: <a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/1637050316732615/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/1637050316732615/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Herbert Schirmer of 1967 early case of missing time &amp;...On December 3, 1967, a young police officer in Ashland, Nebraska, named Herbert...</p></details>
    Published: December 3, 1967  
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/weirdfantasticbeautifulandoddd/posts/1307278690219490/](https://www.facebook.com/groups/weirdfantasticbeautifulandoddd/posts/1307278690219490/)  
+   Link: <a href="https://www.facebook.com/groups/weirdfantasticbeautifulandoddd/posts/1307278690219490/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/weirdfantasticbeautifulandoddd/posts/1307278690219490/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ON THIS DAY IN 1967. November 17, 1967. 6:00 p. m.... alien, again experiencing an episode of missing time. I KNEW IT WAS A UFO. In the m...</p></details>
    Published: November 17, 1967  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/664250100353591/posts/1922088181236437/](https://www.facebook.com/groups/664250100353591/posts/1922088181236437/)  
+   Link: <a href="https://www.facebook.com/groups/664250100353591/posts/1922088181236437/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/664250100353591/posts/1922088181236437/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens).Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: [https://en.wikipedia.org/wiki/Condon_Committee](https://en.wikipedia.org/wiki/Condon_Committee)  
+   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon CommitteeThe Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United Sta...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ia803405.us.archive.org  
    Title: The mammoth encyclopedia of extraterrestrial encounters  
-   Link: [https://ia803405.us.archive.org/29/items/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters.pdf](https://ia803405.us.archive.org/29/items/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters.pdf)  
+   Link: <a href="https://ia803405.us.archive.org/29/items/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia803405.us.archive.org/29/items/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Roots: Six Entity Types and Some Possible Earthly Ancestors” by Alvin H. Lawson. First published in the 1979. MUFON UFO Symposium P...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ia600600.us.archive.org  
-   Link: [https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf](https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO book: encyclopedia of the extraterrestrialSome individuals became consumed with UFOs, and by the early 1950s the first UFO organizat...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: believingthebizarre.com  
    Title: herb schimer ufo encounter and abduction  
-   Link: [https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/](https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/)  
+   Link: <a href="https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Believing the BizarreThe Herbert Schirmer Alien AbductionHerbert Schirmer, a Nebraska police officer, reported a 1967 UFO encounter with...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/doc/301430894/Extraordinary-Encounters-An-encyclopedia-of-extraterrestrials-and-otherworldy-beings](https://www.scribd.com/doc/301430894/Extraordinary-Encounters-An-encyclopedia-of-extraterrestrials-and-otherworldy-beings)  
+   Link: <a href="https://www.scribd.com/doc/301430894/Extraordinary-Encounters-An-encyclopedia-of-extraterrestrials-and-otherworldy-beings" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/301430894/Extraordinary-Encounters-An-encyclopedia-of-extraterrestrials-and-otherworldy-beings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien DNA Physical evidence of abduction experiences is hard to come by, and physical evidence of actual aliens is all but...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=z_GdL-Pp4g0](https://www.youtube.com/watch?v=z_GdL-Pp4g0)  
+   Link: <a href="https://www.youtube.com/watch?v=z_GdL-Pp4g0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z_GdL-Pp4g0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BrainScratch: Herbert Schirmer&#x27;s Alien StoryWhat Quantum Computers Just Proved About Reality Is Terrifying · BrainScratch: Cool Teleport...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Report: Case Closed by Capt. James McAndrew, which states alien bodies found at Roswell, NM and Holloman AFB were actually test dummies a...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ibtimes.co.uk  
    Title: International Business Times UKDid Aliens Brand Him?  
-   Link: [https://www.ibtimes.co.uk/did-aliens-brand-him-nebraska-officer-claims-abduction-after-seeing-winged-serpent-logo-1773764](https://www.ibtimes.co.uk/did-aliens-brand-him-nebraska-officer-claims-abduction-after-seeing-winged-serpent-logo-1773764)  
+   Link: <a href="https://www.ibtimes.co.uk/did-aliens-brand-him-nebraska-officer-claims-abduction-after-seeing-winged-serpent-logo-1773764" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/did-aliens-brand-him-nebraska-officer-claims-abduction-after-seeing-winged-serpent-logo-1773764</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nebraska Officer Claims Abduction...26 Jan 2026 — Sceptics argue that hypnosis can produce false memories and that fatigue or stress cou...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: digitalcollections.trentu.ca  
    Title: A History of Canada s UFO Investigation 1950 1995  
-   Link: [https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf](https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf)  
+   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — citizens felt it was their duty to report their sightings, in case it aided...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=E1o3BHw2gjk](https://www.youtube.com/watch?v=E1o3BHw2gjk)  
+   Link: <a href="https://www.youtube.com/watch?v=E1o3BHw2gjk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E1o3BHw2gjk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Herbert Schirmer hypnosis missing time UFO Herbert Schirmer (1967) 👮‍♂️ | Police Sighting, Missing Time &amp; Unexplained Mark The13thTransmi...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=l5GSEHG3NUU](https://www.youtube.com/watch?v=l5GSEHG3NUU)  
+   Link: <a href="https://www.youtube.com/watch?v=l5GSEHG3NUU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l5GSEHG3NUU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Herbert Schirmer’s Night: Patrolman Meets Aliens, Sparks Nebraska’s Enduring Mystery Legend...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/17mvvab/the_earliest_modern_day_reported_sighting_of_a/](https://www.reddit.com/r/aliens/comments/17mvvab/the_earliest_modern_day_reported_sighting_of_a/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/17mvvab/the_earliest_modern_day_reported_sighting_of_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/17mvvab/the_earliest_modern_day_reported_sighting_of_a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>At 2:20am, police officer Herbert Schirmer sees a UFO beside highway 63. UFO took off and he experienced...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html](https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html)  
+   Link: <a href="https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Captured by Aliens?: A History and Analysis of American...Today, ufologists tend to use the terms alien, visitor or grey to describe the...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=JDgL3NjaXYw](https://www.youtube.com/watch?v=JDgL3NjaXYw)  
+   Link: <a href="https://www.youtube.com/watch?v=JDgL3NjaXYw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JDgL3NjaXYw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Alien Abduction Case of a Nebraska Police Officer Herbert Schirmer...</p></details>

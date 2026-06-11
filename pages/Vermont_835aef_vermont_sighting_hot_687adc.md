@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-makes-vermonts-ufo-stories-endure/
 nav_short_title: Hotspots
 title: Why Vermont Keeps Reporting Strange Lights
-title_full: Why Vermont Keeps Reporting Strange Lights | Vermont UFOs
+title_full: Why Vermont Keeps Reporting Strange Lights
 display_title_short: Hotspots
 display_title: Hotspots
 heading_title: Why Vermont Keeps Reporting Strange Lights
@@ -268,17 +268,16 @@ image: /assets/images/Vermont_835aef_vermont_sighting_hot_687adc-overview-social
 
 ## Introduction
 
-Lake Champlain matters in [Vermont]({{ 'what-makes-vermonts-ufo-stories-endure/' | relative_url }})’s UFO history less because it has produced one decisive “classic case” and more because it shows why Vermont keeps generating strange-light reports at all. The lake gives witnesses long, open views across dark water, distant shorelines, aircraft routes, islands and mountain horizons. That makes real lights easier to notice, but harder to judge. A slow orange orb, a line of dots, a flash over the water or a silent object near the horizon can be honestly reported and still remain ambiguous because distance, size, height and speed are being inferred by eye. Modern explanations now sit beside the older folklore: Starlink satellite trains, ordinary aircraft, drones, balloons, meteors, planets, birds and camera artefacts all belong in the same assessment as witness testimony. The useful question is not simply “was it a UFO?”, but “what would make a Lake Champlain report strong enough to stay unresolved after those explanations are checked?”
-
+Lake Champlain matters in Vermont’s UFO history less because it has produced one decisive “classic case” and more because it shows why Vermont keeps generating strange-light reports at all. The lake gives witnesses long, open views across dark water, distant shorelines, aircraft routes, islands and mountain horizons. That makes real lights easier to notice, but harder to judge. A slow orange orb, a line of dots, a flash over the water or a silent object near the horizon can be honestly reported and still remain ambiguous because distance, size, height and speed are being inferred by eye. Modern explanations now sit beside the older folklore: Starlink satellite trains, ordinary aircraft, drones, balloons, meteors, planets, birds and camera artefacts all belong in the same assessment as witness testimony. The useful question is not simply “was it a UFO?”, but “what would make a Lake Champlain report strong enough to stay unresolved after those explanations are checked?”
 
 <img src="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-overview.webp" | relative_url }}" alt="Overview image for Hotspots" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Lake Champlain is a natural strange-light corridor
 
 Lake Champlain creates the kind of viewing conditions that make UFO reports more likely without requiring anything exotic. From Burlington, Colchester, Grand Isle, Isle La Motte, Ferrisburgh, Charlotte or the New York shore, a witness can see lights moving against a broad horizon with few nearby reference points. Over water, there may be no trees, buildings or road traffic beside the object to help judge distance. A light above the far shore can appear to be above the lake; a light over the lake can be much farther away than it looks; an aircraft on approach, a satellite flare or a bright planet low in the sky can seem unusually large or oddly still.
 
-This is why the Lake Champlain area fits Vermont’s wider pattern. Vermont tourism material now markets the state’s dark skies as a stargazing asset, noting that rural areas and low light pollution make faint sky features much more visible than they are in cities. The same conditions that let people see the Milky Way, meteor showers or aurora displays also increase the chance that an unfamiliar moving light will be noticed and remembered. Vermont’s own tourism site says the state is well placed for dark-sky recognition because of its rural land, village-centred development and habit of keeping lights low at night; it also notes that meteor showers, aurorae and seasonal constellations are part of the local skywatching experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vermontvacation.com/stargazing-in-vermont/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vermontvacation.com">[Vermont Tourism]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vermontvacation.com</span><span class="citation-popover-title">Vermont Tourism Stargazing in Vermont | Vermont Tourism</span><span class="citation-popover-snippet">Vermont Tourism Stargazing in Vermont | Vermont Tourism</span></span></span>
+This is why the Lake Champlain area fits Vermont’s wider pattern. Vermont tourism material now markets the state’s dark skies as a stargazing asset, noting that rural areas and low light pollution make faint sky features much more visible than they are in cities. The same conditions that let people see the Milky Way, meteor showers or aurora displays also increase the chance that an unfamiliar moving light will be noticed and remembered. Vermont’s own tourism site says the state is well placed for dark-sky recognition because of its rural land, village-centred development and habit of keeping lights low at night; it also notes that meteor showers, aurorae and seasonal constellations are part of the local skywatching experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vermontvacation.com/stargazing-in-vermont/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vermontvacation.com">[Vermont Tourism]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vermontvacation.com</span><span class="citation-popover-title">Vermont Tourism Stargazing in Vermont &#124; Vermont Tourism</span><span class="citation-popover-snippet">Vermont Tourism Stargazing in Vermont &#124; Vermont Tourism</span></span></span>
 
-Lake Champlain also carries a folklore layer that ordinary UFO databases do not fully capture. The Lake Champlain Region’s own visitor material describes the area as a place where UFO sightings have been “tracked and documented for decades” and points to a claimed Burlington-side sighting as early as 1907, although that kind of tourism-facing reference is better treated as local tradition than as a verified investigative record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lakechamplainregion.com/story/2023/a-hauntingly-good-time-of-year-in-the-lcr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakechamplainregion.com">[Lake Champlain Region]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakechamplainregion.com</span><span class="citation-popover-title">Lake Champlain Region A Hauntingly Good Time of Year in the LCR | Lake Champlain</span><span class="citation-popover-snippet">Lake Champlain Region A Hauntingly Good Time of Year in the LCR | Lake Champlain</span></span></span> The value of the claim is cultural: it shows that the lake has become a recognised backdrop for strange-sky stories, much as it is already a backdrop for the region’s better-known lake-monster folklore.
+Lake Champlain also carries a folklore layer that ordinary UFO databases do not fully capture. The Lake Champlain Region’s own visitor material describes the area as a place where UFO sightings have been “tracked and documented for decades” and points to a claimed Burlington-side sighting as early as 1907, although that kind of tourism-facing reference is better treated as local tradition than as a verified investigative record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lakechamplainregion.com/story/2023/a-hauntingly-good-time-of-year-in-the-lcr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lakechamplainregion.com">[Lake Champlain Region]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lakechamplainregion.com</span><span class="citation-popover-title">Lake Champlain Region A Hauntingly Good Time of Year in the LCR &#124; Lake Champlain</span><span class="citation-popover-snippet">Lake Champlain Region A Hauntingly Good Time of Year in the LCR &#124; Lake Champlain</span></span></span> The value of the claim is cultural: it shows that the lake has become a recognised backdrop for strange-sky stories, much as it is already a backdrop for the region’s better-known lake-monster folklore.
 
 ## The Buff Ledge story ties the lake to Vermont’s most famous UFO claim
 
@@ -288,8 +287,7 @@ Buff Ledge matters here because it shows how the lake can turn a sighting into a
 
 For a state-level Vermont UFO history, Buff Ledge is therefore important but not decisive. It tells readers what the region’s most famous lake-side claim is, but it does not turn Lake Champlain into a proven anomalous zone. It is better read beside modern, more modest reports: lights over the lake, lines of dots, orange orbs, apparent trails, and objects whose descriptions overlap strongly with satellites, aircraft, balloons and meteors.
 
-
-<img src="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-1-light.svg" | relative_url }}" alt="Hotspots illustration 1" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-1-dark.svg" | relative_url }}" alt="Hotspots illustration 1" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What recent Lake Champlain reports actually look like
 
 The National UFO Reporting Center’s Vermont index shows that many state reports are short, self-submitted descriptions rather than complete investigations. The index includes Lake Champlain-adjacent entries from places such as Mallets Bay, Ferrisburgh, Grand Isle, Isle La Motte, North Hero, Charlotte, Colchester and Burlington, with summaries that range from “bright green light” to “triangle”, “orb”, “cigar”, “changing” and “string of ball lights”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lVT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State VT</span><span class="citation-popover-snippet">Reports for State VT</span></span></span> That variety is important: the reports do not describe one repeated craft type so much as a recurring experience of seeing something hard to identify in Vermont skies.
@@ -300,12 +298,11 @@ A 2025 NUFORC report from South Burlington gives another modern example. The wit
 
 A different kind of report comes from Ferrisburgh in August 2022, where two witnesses described a straight line of 12 to 15 lights travelling east away from Lake Champlain and disappearing when directly overhead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sentientorbs.com/explore/sightings/NUFORC-171284" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That pattern is especially significant in the modern era because a line of evenly spaced moving lights is one of the most recognisable ways Starlink satellite trains enter UFO reporting.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sObt0DvN5b4" title="How to see the SpaceX Starlink satellite train (and explanation of Azimuth and Elevation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sObt0DvN5b4" target="_blank" rel="noopener noreferrer">How to see the SpaceX Starlink satellite train (and explanation of Azimuth and Elevation)</a></p><p class="youtube-embed-meta">Channel: ReWildUniversity &middot; Views: 38.7K &middot; Uploaded: May 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sObt0DvN5b4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sObt0DvN5b4">Open on YouTube</a></p></div></div></div>
 
 ## Satellites have changed the shape of Vermont sightings
 
-The single biggest modern change in Vermont strange-light reports is the arrival of bright, easily visible satellite constellations. Starlink satellites can appear as a “string of pearls” or a train of bright lights crossing the night sky, particularly soon after launch and deployment, before they spread out and rise to their operational orbit. Space.com’s explainer notes that they are visible to the unaided eye and are easiest to spot in the first day or two after launch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellites: Facts, tracking and impact on astronomy | Space</span><span class="citation-popover-snippet">Starlink satellites: Facts, tracking and impact on astronomy | Space</span></span></span>
+The single biggest modern change in Vermont strange-light reports is the arrival of bright, easily visible satellite constellations. Starlink satellites can appear as a “string of pearls” or a train of bright lights crossing the night sky, particularly soon after launch and deployment, before they spread out and rise to their operational orbit. Space.com’s explainer notes that they are visible to the unaided eye and are easiest to spot in the first day or two after launch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellites: Facts, tracking and impact on astronomy &#124; Space</span><span class="citation-popover-snippet">Starlink satellites: Facts, tracking and impact on astronomy &#124; Space</span></span></span>
 
 That matters for Lake Champlain because the lake gives observers exactly the sort of open sky in which a satellite train is likely to be seen clearly. A witness who sees a row of lights moving silently over the water may be describing a real event accurately and still be seeing satellites rather than aircraft or a structured craft. The Ferrisburgh report of 12 to 15 lights moving in a line away from Lake Champlain is not automatically “explained” without checking launch and pass data for that date, but its shape, number and straight-line movement fit a pattern that now has to be ruled out first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sentientorbs.com/explore/sightings/NUFORC-171284" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -321,8 +318,7 @@ Drones add another modern layer. Consumer and commercial drones can hover, move 
 
 Vermont’s recent political discussion reflects that shift from “flying saucers” to airspace safety. In 2026, a Burlington legislator introduced a bill to create a Vermont Airspace Safety and Unidentified Anomalous Phenomena Task Force; the bill’s stated purpose was to evaluate UAP reports, assess airspace and public safety risks, coordinate with academic and federal partners, and improve reporting, response and analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0654/H-0654%20As%20Introduced.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislature.vermont.gov">[legislature.vermont.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislature.vermont.gov</span><span class="citation-popover-title">H 0654 As Introduced</span><span class="citation-popover-snippet">H 0654 As Introduced</span></span></span> Seven Days described the proposal as a 10-member panel that would review unexplained-object reports and make recommendations about risks to Vermont airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sevendaysvt.com/arts-culture/from-ufos-to-starlink-vermont-has-a-long-history-of-strange-things-in-the-sky-36630572/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sevendaysvt.com">[Seven Days]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sevendaysvt.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Even if that proposal is separate from any specific Lake Champlain case, it shows how modern Vermont UAP talk is moving towards drones, aircraft safety and better reporting rather than simply retelling older folklore.
 
-
-<img src="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-2-light.svg" | relative_url }}" alt="Hotspots illustration 2" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-2-dark.svg" | relative_url }}" alt="Hotspots illustration 2" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Meteors, planets and sky effects are easy to underestimate
 
 Some Lake Champlain sightings are likely to be astronomical or atmospheric events, especially when they involve brief flashes, falling lights, green or orange fireballs, or stationary bright objects low in the sky. The NUFORC Vermont index itself includes entries where the summary or note points towards ordinary skywatching explanations, such as “meteor like object” and “possible twinkling stars”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=193304" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> NASA’s skywatching guidance similarly lists meteors, fireballs, comets, satellites, balloons, odd clouds and lens or camera effects among things that may be confused with UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -330,7 +326,6 @@ Some Lake Champlain sightings are likely to be astronomical or atmospheric event
 The problem is not that witnesses are foolish. It is that the night sky strips away scale. A meteor can look close even when it is high in the atmosphere. Venus or Jupiter can look like an object hovering over a shoreline. A satellite can brighten, dim or seem to disappear as it moves into Earth’s shadow. A balloon can drift with the wind and appear more purposeful than it is. A bird or group of birds can become a strange formation when seen against dusk, especially if lit from below or caught by infrared or low-light cameras.
 
 The US All-domain Anomaly Resolution Office’s public imagery page shows how often official UAP cases can resolve to mundane sources when there is enough context. Several posted cases are assessed as balloons because their shape and motion match lighter-than-air objects drifting with the wind, while other examples remain unresolved because the footage or data are not enough to determine what the object is. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span> That distinction is central to Lake Champlain: “unresolved” often means “not enough information”, not “extraordinary performance has been demonstrated”.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mC1wKJIuUqc" title="New England Legends Podcast 379 - Vermont’s UFO Invasion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mC1wKJIuUqc" target="_blank" rel="noopener noreferrer">New England Legends Podcast 379 - Vermont’s UFO Invasion</a></p><p class="youtube-embed-meta">Channel: Jeff Belanger &middot; Views: 740 &middot; Uploaded: January 2025 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mC1wKJIuUqc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mC1wKJIuUqc">Open on YouTube</a></p></div></div></div>
 
@@ -342,7 +337,6 @@ NASA’s 2023 UAP independent study report made this point in broader terms. It 
 
 The strongest Lake Champlain reports would therefore have a different profile from most short database entries. They would include multiple independent observers in different places around the lake, time-synchronised video, original metadata, consistent bearings, weather and wind records, aircraft and drone checks, satellite-pass reconstruction and, ideally, radar or other instrument data. Without those, later analysts can identify likely explanations but may not be able to close the case.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a_AAJbzT1Zk" title="Unidentified lights in New Jersey skies: A look into mysterious drone sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a_AAJbzT1Zk" target="_blank" rel="noopener noreferrer">Unidentified lights in New Jersey skies: A look into mysterious drone sightings</a></p><p class="youtube-embed-meta">Channel: PIX11 News &middot; Views: 13.7K &middot; Uploaded: November 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a_AAJbzT1Zk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a_AAJbzT1Zk">Open on YouTube</a></p></div></div></div>
 
 ## How to read Lake Champlain sightings fairly
@@ -350,7 +344,6 @@ The strongest Lake Champlain reports would therefore have a different profile fr
 The fairest approach is to treat Lake Champlain as a strong reporting environment, not as proof of a hidden phenomenon. The lake has dark skies, long sightlines, a history of regional UFO storytelling, active aviation nearby, popular recreation, and a modern sky increasingly filled with satellites and drones. That combination can produce both memorable experiences and mistaken interpretations.
 
 A useful reader’s test is simple:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -364,8 +357,7 @@ A useful reader’s test is simple:
 
 That framework does not erase Lake Champlain’s place in Vermont UFO history. It makes the place more interesting. The lake is where older stories such as Buff Ledge, local hotspot claims, NUFORC-style reports and modern UAP safety language overlap. It is also where the limits of eyewitness skywatching are unusually clear: Vermont’s landscape helps people see more, but it does not always help them know what they have seen.
 
-
-<img src="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-3-light.svg" | relative_url }}" alt="Hotspots illustration 3" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-3-dark.svg" | relative_url }}" alt="Hotspots illustration 3" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_vermont_sighting_hot_687adc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -789,172 +781,172 @@ That framework does not erase Lake Champlain’s place in Vermont UFO history. I
 1. <a id="endnote-1"></a>
    Source: vermontvacation.com  
    Title: Vermont Tourism Stargazing in Vermont | Vermont Tourism  
-   Link: [https://vermontvacation.com/stargazing-in-vermont/](https://vermontvacation.com/stargazing-in-vermont/)  
+   Link: <a href="https://vermontvacation.com/stargazing-in-vermont/" target="_blank" rel="noopener noreferrer nofollow">https://vermontvacation.com/stargazing-in-vermont/</a>  
 
 2. <a id="endnote-2"></a>
    Source: lakechamplainregion.com  
    Title: Lake Champlain Region A Hauntingly Good Time of Year in the LCR | Lake Champlain  
-   Link: [https://www.lakechamplainregion.com/story/2023/a-hauntingly-good-time-of-year-in-the-lcr](https://www.lakechamplainregion.com/story/2023/a-hauntingly-good-time-of-year-in-the-lcr)  
+   Link: <a href="https://www.lakechamplainregion.com/story/2023/a-hauntingly-good-time-of-year-in-the-lcr" target="_blank" rel="noopener noreferrer nofollow">https://www.lakechamplainregion.com/story/2023/a-hauntingly-good-time-of-year-in-the-lcr</a>  
 
 3. <a id="endnote-3"></a>
    Source: sevendaysvt.com  
-   Link: [https://www.sevendaysvt.com/arts-culture/from-ufos-to-starlink-vermont-has-a-long-history-of-strange-things-in-the-sky-36630572/](https://www.sevendaysvt.com/arts-culture/from-ufos-to-starlink-vermont-has-a-long-history-of-strange-things-in-the-sky-36630572/)  
+   Link: <a href="https://www.sevendaysvt.com/arts-culture/from-ufos-to-starlink-vermont-has-a-long-history-of-strange-things-in-the-sky-36630572/" target="_blank" rel="noopener noreferrer nofollow">https://www.sevendaysvt.com/arts-culture/from-ufos-to-starlink-vermont-has-a-long-history-of-strange-things-in-the-sky-36630572/</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Reports for State VT  
-   Link: [https://nuforc.org/subndx/?id=lVT](https://nuforc.org/subndx/?id=lVT)  
+   Link: <a href="https://nuforc.org/subndx/?id=lVT" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lVT</a>  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=81991](https://nuforc.org/sighting/?id=81991)  
+   Link: <a href="https://nuforc.org/sighting/?id=81991" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=81991</a>  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=187037](https://nuforc.org/sighting/?id=187037)  
+   Link: <a href="https://nuforc.org/sighting/?id=187037" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187037</a>  
 
 7. <a id="endnote-7"></a>
    Source: sentientorbs.com  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-171284](https://sentientorbs.com/explore/sightings/NUFORC-171284)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-171284" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-171284</a>  
 
 8. <a id="endnote-8"></a>
    Source: space.com  
    Title: Starlink satellites: Facts, tracking and impact on astronomy | Space  
-   Link: [https://www.space.com/spacex-starlink-satellites.html](https://www.space.com/spacex-starlink-satellites.html)  
+   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
 10. <a id="endnote-10"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration  
-   Link: [https://www.faa.gov/flight_deck/pilot_info/btv.pdf](https://www.faa.gov/flight_deck/pilot_info/btv.pdf)  
+   Link: <a href="https://www.faa.gov/flight_deck/pilot_info/btv.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/flight_deck/pilot_info/btv.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: Science Identifying UFOs and UAPs  
-   Link: [https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/](https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/)  
+   Link: <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/</a>  
 
 12. <a id="endnote-12"></a>
    Source: legislature.vermont.gov  
    Title: H 0654 As Introduced  
-   Link: [https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0654/H-0654%20As%20Introduced.pdf](https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0654/H-0654%20As%20Introduced.pdf)  
+   Link: <a href="https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0654/H-0654%20As%20Introduced.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0654/H-0654%20As%20Introduced.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: sevendaysvt.com  
    Title: Seven Days Vermont Lawmaker Proposes Establishing a UFO Panel | Seven Days  
-   Link: [https://www.sevendaysvt.com/news/vermont-lawmaker-proposes-establishing-a-ufo-panel/](https://www.sevendaysvt.com/news/vermont-lawmaker-proposes-establishing-a-ufo-panel/)  
+   Link: <a href="https://www.sevendaysvt.com/news/vermont-lawmaker-proposes-establishing-a-ufo-panel/" target="_blank" rel="noopener noreferrer nofollow">https://www.sevendaysvt.com/news/vermont-lawmaker-proposes-establishing-a-ufo-panel/</a>  
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=193304](https://nuforc.org/sighting/?id=193304)  
+   Link: <a href="https://nuforc.org/sighting/?id=193304" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193304</a>  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=79361](https://nuforc.org/sighting/?id=79361)  
+   Link: <a href="https://nuforc.org/sighting/?id=79361" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=79361</a>  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=all](https://nuforc.org/subndx/?id=all)  
+   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=119803](https://nuforc.org/sighting/?id=119803)  
+   Link: <a href="https://nuforc.org/sighting/?id=119803" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=119803</a>  
 
 20. <a id="endnote-20"></a>
    Source: adip.faa.gov  
-   Link: [https://adip.faa.gov/agis/public/](https://adip.faa.gov/agis/public/)  
+   Link: <a href="https://adip.faa.gov/agis/public/" target="_blank" rel="noopener noreferrer nofollow">https://adip.faa.gov/agis/public/</a>  
 
 21. <a id="endnote-21"></a>
    Source: space.com  
    Title: starlink satellite train how to see and track it  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
 
 22. <a id="endnote-22"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024](https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024)  
+   Link: <a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
 
 24. <a id="endnote-24"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/unit/AARO/?ref=uaplogbook.com](https://www.dvidshub.net/unit/AARO/?ref=uaplogbook.com)  
+   Link: <a href="https://www.dvidshub.net/unit/AARO/?ref=uaplogbook.com" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/unit/AARO/?ref=uaplogbook.com</a>  
 
 25. <a id="endnote-25"></a>
    Source: independent.co.uk  
-   Link: [https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html](https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html)  
+   Link: <a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
 
 26. <a id="endnote-26"></a>
    Source: spotterguide.net  
    Title: Burlington International Airport  
-   Link: [https://www.spotterguide.net/planespotting/north-america/united-states-of-america/burlington-btv-kbtv/](https://www.spotterguide.net/planespotting/north-america/united-states-of-america/burlington-btv-kbtv/)  
+   Link: <a href="https://www.spotterguide.net/planespotting/north-america/united-states-of-america/burlington-btv-kbtv/" target="_blank" rel="noopener noreferrer nofollow">https://www.spotterguide.net/planespotting/north-america/united-states-of-america/burlington-btv-kbtv/</a>  
 
 27. <a id="endnote-27"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/mysterious-drone-sightings-dont-pose-threat-to-public-or-national-security-us-federal-agencies-say-13275381](https://news.sky.com/story/mysterious-drone-sightings-dont-pose-threat-to-public-or-national-security-us-federal-agencies-say-13275381)  
+   Link: <a href="https://news.sky.com/story/mysterious-drone-sightings-dont-pose-threat-to-public-or-national-security-us-federal-agencies-say-13275381" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mysterious-drone-sightings-dont-pose-threat-to-public-or-national-security-us-federal-agencies-say-13275381</a>  
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: New England Legends Podcast 379  
-   Link: [https://www.youtube.com/watch?v=mC1wKJIuUqc](https://www.youtube.com/watch?v=mC1wKJIuUqc)  
+   Link: <a href="https://www.youtube.com/watch?v=mC1wKJIuUqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mC1wKJIuUqc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Newly released files highlight UFO sightings and local expert skepticism...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Newly released files highlight UFO sightings and local expert skepticism  
-   Link: [https://www.youtube.com/watch?v=UmfLisgm9rg](https://www.youtube.com/watch?v=UmfLisgm9rg)  
+   Link: <a href="https://www.youtube.com/watch?v=UmfLisgm9rg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UmfLisgm9rg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why This UFO Sighting Was Different | Monstrum...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: Why This UFO Sighting Was Different | Monstrum  
-   Link: [https://www.youtube.com/watch?v=dHGn_yPSgg0](https://www.youtube.com/watch?v=dHGn_yPSgg0)  
+   Link: <a href="https://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dHGn_yPSgg0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Activity Surges Across the U.S. | Unidentified: Inside America&#x27;s UFO Investigation...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: New England Legends Podcast 423  
-   Link: [https://www.youtube.com/watch?v=C6_iAK2vFDI](https://www.youtube.com/watch?v=C6_iAK2vFDI)  
+   Link: <a href="https://www.youtube.com/watch?v=C6_iAK2vFDI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C6_iAK2vFDI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New England Legends Podcast 379 - Vermont&#x27;s UFO Invasion...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 33. <a id="endnote-33"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
 34. <a id="endnote-34"></a>
    Source: darkskyvt.org  
-   Link: [https://darkskyvt.org/about-us/](https://darkskyvt.org/about-us/)  
+   Link: <a href="https://darkskyvt.org/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://darkskyvt.org/about-us/</a>  
 
 35. <a id="endnote-35"></a>
    Source: globalair.com  
-   Link: [https://www.globalair.com/airport/apt.procedures.aspx?aptcode=btv](https://www.globalair.com/airport/apt.procedures.aspx?aptcode=btv)  
+   Link: <a href="https://www.globalair.com/airport/apt.procedures.aspx?aptcode=btv" target="_blank" rel="noopener noreferrer nofollow">https://www.globalair.com/airport/apt.procedures.aspx?aptcode=btv</a>  
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/](https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/)  
+   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/</a>  
 
 37. <a id="endnote-37"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/se17qa/this_nowobscure_1968_abduction_in_vermont_known/](https://www.reddit.com/r/aliens/comments/se17qa/this_nowobscure_1968_abduction_in_vermont_known/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/se17qa/this_nowobscure_1968_abduction_in_vermont_known/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/se17qa/this_nowobscure_1968_abduction_in_vermont_known/</a>

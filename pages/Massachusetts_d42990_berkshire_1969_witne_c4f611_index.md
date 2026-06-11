@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /massachusetts-d42990-berkshire-1969/
 description: Focused pages that expand on Berkshires 1969.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Massachusetts_d42990_berkshire_1969_witne_c4f611
-parent_title: Berkshires 1969 | What Really Happened in Massachusetts Skies?
+parent_title: Berkshires 1969
 parent_nav_short_title: Berkshires 1969
 parent_permalink: /berkshires-1969/
 ---

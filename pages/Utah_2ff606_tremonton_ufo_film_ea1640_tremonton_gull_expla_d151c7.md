@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /tremonton-film/
 nav_short_title: Gull Theory
 title: Could Utah gulls explain the bright objects?
-title_full: Could Utah gulls explain the bright objects? | Tremonton Film
+title_full: Could Utah gulls explain the bright objects?
 display_title_short: Gull Theory
 display_title: Gull Theory
 heading_title: Could Utah gulls explain the bright objects?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:19:26'
-parent_title: Did Tremonton's Famous UFO Film Show Birds? | Utah UFOs
+parent_title: Did Tremonton's Famous UFO Film Show Birds?
 parent_permalink: /tremonton-film/
 parent_nav_short_title: Tremonton Film
 parent_heading_title: Did Tremonton's Famous UFO Film Show Birds?
@@ -250,14 +250,12 @@ image: /assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_tremonton_gull_expla
 
 ## Introduction
 
-The strongest sceptical explanation for the 1952 [Tremonton UFO film]({{ 'tremonton-film/' | relative_url }}) is also the simplest: the bright objects may have been ordinary white gulls catching sunlight over northern Utah. The idea has remained central to debates about the film because it directly affects every dramatic claim made about the footage. If the objects were distant craft, their apparent movements could imply extraordinary speed. If they were nearby birds, the same movements become entirely ordinary.
+The strongest sceptical explanation for the 1952 Tremonton UFO film is also the simplest: the bright objects may have been ordinary white gulls catching sunlight over northern Utah. The idea has remained central to debates about the film because it directly affects every dramatic claim made about the footage. If the objects were distant craft, their apparent movements could imply extraordinary speed. If they were nearby birds, the same movements become entirely ordinary.
 
-
-<img src="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_tremonton_gull_expla_d151c7-Illustration-1-light.svg" | relative_url }}" alt="Gull Theory illustration 1" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_tremonton_gull_expla_d151c7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_tremonton_gull_expla_d151c7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_tremonton_gull_expla_d151c7-Illustration-1-dark.svg" | relative_url }}" alt="Gull Theory illustration 1" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_tremonton_gull_expla_d151c7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_tremonton_gull_expla_d151c7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The gull explanation was not an afterthought. It emerged during official reviews of the film and became the preferred conclusion of the 1953 Robertson Panel, which examined one of the most famous UFO motion-picture cases in American history. The argument rested on local geography, bird behaviour, sunlight reflections and the difficulty of estimating distance from a featureless sky. Yet even investigators who thought birds were the most likely answer often admitted that the identification was not completely proven. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS PDF Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">PDF Directory Condon Report, Case 49: Tremonton, Utah</span><span class="citation-popover-snippet">gulls.&quot; The panel members&#x27; favored explanation of what was seen was white gulls which are known to inhabit the Great Salt Lake area. Rupp...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jlY_gHUzPnc" title="Tremonton UFO Footage HD July 2 1952" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jlY_gHUzPnc" target="_blank" rel="noopener noreferrer">Tremonton UFO Footage HD July 2 1952</a></p><p class="youtube-embed-meta">Channel: Tom Anderson &middot; Views: 260 &middot; Uploaded: June 2020 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jlY_gHUzPnc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jlY_gHUzPnc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wH4xofCFFkA" title="Delbert Newhouse UFO footage - Tremonton, Utah - 1952 - Footage only" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wH4xofCFFkA" target="_blank" rel="noopener noreferrer">Delbert Newhouse UFO footage - Tremonton, Utah - 1952 - Footage only</a></p><p class="youtube-embed-meta">Channel: MrCL1O &middot; Views: 25.5K &middot; Uploaded: October 2009 &middot; Length: 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wH4xofCFFkA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wH4xofCFFkA">Open on YouTube</a></p></div></div></div>
 
 ## Why gulls were a plausible local explanation
 
@@ -269,7 +267,6 @@ The panel also rejected a key argument made by Navy photo analysts. Navy investi
 
 This mattered because the film contains little else that can identify the objects. There is no clear horizon, no nearby landmark and no independent distance measurement. Once birds are accepted as a plausible possibility, the entire interpretation of the footage changes.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kOM-F21FuHc" title="The UFO Movie THEY Don&#x27;t Want You to See | UFO Documentary | Full Movie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kOM-F21FuHc" target="_blank" rel="noopener noreferrer">The UFO Movie THEY Don&#x27;t Want You to See | UFO Documentary | Full Movie</a></p><p class="youtube-embed-meta">Channel: Stash - Free Documentaries &middot; Views: 55.7K &middot; Uploaded: April 2024 &middot; Length: 1 hour 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kOM-F21FuHc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kOM-F21FuHc">Open on YouTube</a></p></div></div></div>
 
 ## How bird size changes distance and speed estimates
@@ -278,19 +275,18 @@ The gull theory is fundamentally a distance problem.
 
 The film shows angular movement across the camera's field of view, but angular movement alone cannot reveal true speed. An object's apparent motion depends heavily on how far away it is. A nearby bird can cross a noticeable portion of the sky while travelling at ordinary flying speeds. A distant object making the same apparent movement would have to travel vastly faster.
 
-This issue appeared repeatedly in official and later analyses. Estimates that treated the objects as distant solid craft produced extraordinary speeds. Some calculations suggested hundreds or even thousands of miles per hour depending on the assumed distance. Yet those estimates depended on first assuming that the objects were far away. If the objects were actually gulls perhaps less than a mile distant, the dramatic speed calculations largely disappear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/utah1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Newhouse Film, Tremonton Utah</span><span class="citation-popover-snippet">NICAPThe Newhouse Film, Tremonton Utah - Randle - NICAPSome investigators, including those of the University of COLORADO UFO PROJECT beli...</span></span></span>
+This issue appeared repeatedly in official and later analyses. Estimates that treated the objects as distant solid craft produced extraordinary speeds. Some calculations suggested hundreds or even thousands of miles per hour depending on the assumed distance. Yet those estimates depended on first assuming that the objects were far away. If the objects were actually gulls perhaps less than a mile distant, the dramatic speed calculations largely disappear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/utah1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Newhouse Film, Tremonton Utah</span><span class="citation-popover-snippet">The Newhouse Film, Tremonton Utah - Randle - NICAPSome investigators, including those of the University of COLORADO UFO PROJECT beli...</span></span></span>
 
 The bird explanation therefore attacks the case at its most important weak point. The film itself does not establish range. Because the objects are unresolved bright spots rather than clearly shaped craft, investigators cannot reliably determine whether they were tiny nearby objects or larger distant ones.
 
 Later University of Colorado analysis associated with the Condon Report placed major emphasis on this uncertainty. Investigators argued that if the objects were birds at relatively short range, their apparent brightness and motion became much easier to explain. William K. Hartmann eventually concluded that the observations provided strong evidence that the film showed birds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kevinrandle.blogspot.com/2013/12/delbert-newhouse-and-utah-movie.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">delbert newhouse and utah movie</span><span class="citation-popover-snippet">Kevin Randle&#x27;s BlogDelbert Newhouse and the Utah Movie7 Dec 2013 — Hartmann then made his own analysis, finally concluding, “These observ...</span></span></span>
 
-
-<img src="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_tremonton_gull_expla_d151c7-Illustration-2-light.svg" | relative_url }}" alt="Gull Theory illustration 2" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_tremonton_gull_expla_d151c7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_tremonton_gull_expla_d151c7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_tremonton_gull_expla_d151c7-Illustration-2-dark.svg" | relative_url }}" alt="Gull Theory illustration 2" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_tremonton_gull_expla_d151c7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_tremonton_gull_expla_d151c7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why brightness became the key argument
 
 Supporters of the UFO interpretation often focused on the unusual brightness of the objects.
 
-The Navy's Photo Interpretation Laboratory spent extensive effort analysing the film and concluded that the objects did not behave like ordinary birds, aircraft or balloons. Analysts argued that the lights appeared self-luminous rather than merely reflective. They also believed the intensity changes seen in the footage were inconsistent with simple sunlight glints. Their work became one of the strongest official arguments against the bird explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/utah1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Newhouse Film, Tremonton Utah</span><span class="citation-popover-snippet">NICAPThe Newhouse Film, Tremonton Utah - Randle - NICAPSome investigators, including those of the University of COLORADO UFO PROJECT beli...</span></span></span>
+The Navy's Photo Interpretation Laboratory spent extensive effort analysing the film and concluded that the objects did not behave like ordinary birds, aircraft or balloons. Analysts argued that the lights appeared self-luminous rather than merely reflective. They also believed the intensity changes seen in the footage were inconsistent with simple sunlight glints. Their work became one of the strongest official arguments against the bird explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/utah1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Newhouse Film, Tremonton Utah</span><span class="citation-popover-snippet">The Newhouse Film, Tremonton Utah - Randle - NICAPSome investigators, including those of the University of COLORADO UFO PROJECT beli...</span></span></span>
 
 The Robertson Panel challenged that conclusion on several fronts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel - Wikipedia... panel felt that the Tremonton Utah film most probably showed birds. On... Panel viewed a short film sh...</span></span></span>
 
@@ -298,8 +294,7 @@ Panel members argued that bright sunlight reflecting from white birds could crea
 
 The disagreement reveals why the case survived for decades. Both sides were looking at the same film but interpreting the brightness differently. One side saw evidence against ordinary reflective objects. The other saw exactly the sort of specular reflection that white birds can produce under strong sunlight.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wH4xofCFFkA" title="Delbert Newhouse UFO footage - Tremonton, Utah - 1952 - Footage only" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wH4xofCFFkA" target="_blank" rel="noopener noreferrer">Delbert Newhouse UFO footage - Tremonton, Utah - 1952 - Footage only</a></p><p class="youtube-embed-meta">Channel: MrCL1O &middot; Views: 25.5K &middot; Uploaded: October 2009 &middot; Length: 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wH4xofCFFkA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wH4xofCFFkA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jlY_gHUzPnc" title="Tremonton UFO Footage HD July 2 1952" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jlY_gHUzPnc" target="_blank" rel="noopener noreferrer">Tremonton UFO Footage HD July 2 1952</a></p><p class="youtube-embed-meta">Channel: Tom Anderson &middot; Views: 260 &middot; Uploaded: June 2020 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jlY_gHUzPnc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jlY_gHUzPnc">Open on YouTube</a></p></div></div></div>
 
 ## Why the identification remained disputed
 
@@ -311,10 +306,9 @@ Even some sceptically minded figures expressed caution. Edward Ruppelt, former h
 
 Another reason for continuing disagreement is that the proposed explanation was never demonstrated under precisely matching conditions. The Robertson Panel itself suggested further tests involving birds, balloons and local atmospheric conditions because members believed additional comparison data could produce a positive identification. Those definitive tests never became the widely accepted resolution that sceptics hoped for. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vaultrobertsonpanelreport.pdfTremonton film) were not removed from the plots of the. &quot;single pass plots&quot; at the end of the film...</span></span></span>
 
-As a result, the Tremonton film occupies an unusual place in Utah UFO history. It is not generally regarded as strong evidence of extraterrestrial craft, but neither is it remembered as a straightforward debunking. The gull theory remains persuasive because it explains the location, brightness and apparent movement without invoking anything extraordinary. Yet the film's lack of distance information, combined with continuing disputes over brightness analysis and witness interpretation, means that the explanation remains an argument rather than a conclusively demonstrated fact. NCAS PDF Directory <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/utah1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Newhouse Film, Tremonton Utah</span><span class="citation-popover-snippet">NICAPThe Newhouse Film, Tremonton Utah - Randle - NICAPSome investigators, including those of the University of COLORADO UFO PROJECT beli...</span></span></span>
+As a result, the Tremonton film occupies an unusual place in Utah UFO history. It is not generally regarded as strong evidence of extraterrestrial craft, but neither is it remembered as a straightforward debunking. The gull theory remains persuasive because it explains the location, brightness and apparent movement without invoking anything extraordinary. Yet the film's lack of distance information, combined with continuing disputes over brightness analysis and witness interpretation, means that the explanation remains an argument rather than a conclusively demonstrated fact. NCAS PDF Directory <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/utah1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Newhouse Film, Tremonton Utah</span><span class="citation-popover-snippet">The Newhouse Film, Tremonton Utah - Randle - NICAPSome investigators, including those of the University of COLORADO UFO PROJECT beli...</span></span></span>
 
-
-<img src="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_tremonton_gull_expla_d151c7-Illustration-3-light.svg" | relative_url }}" alt="Gull Theory illustration 3" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_tremonton_gull_expla_d151c7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_tremonton_gull_expla_d151c7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_tremonton_gull_expla_d151c7-Illustration-3-dark.svg" | relative_url }}" alt="Gull Theory illustration 3" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_tremonton_gull_expla_d151c7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_tremonton_gull_expla_d151c7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -402,7 +396,7 @@ As a result, the Tremonton film occupies an unusual place in Utah UFO history. I
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -412,111 +406,36 @@ As a result, the Tremonton film occupies an unusual place in Utah UFO history. I
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-utah-gulls-explain-the-bright-objects-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="could-utah-gulls-explain-the-bright-objects-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="https://i.ebayimg.com/images/g/dA0AAeSwMvVpvRXg/s-l225.jpg" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-utah-gulls-explain-the-bright-objects-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="could-utah-gulls-explain-the-bright-objects-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-utah-gulls-explain-the-bright-objects-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="could-utah-gulls-explain-the-bright-objects-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-utah-gulls-explain-the-bright-objects-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="could-utah-gulls-explain-the-bright-objects-ufo-movie-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,15 +443,15 @@ As a result, the Tremonton film occupies an unusual place in Utah UFO history. I
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-utah-gulls-explain-the-bright-objects-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="could-utah-gulls-explain-the-bright-objects-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/aicAAeSwj6lp1Tof/s-l225.jpg" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-utah-gulls-explain-the-bright-objects-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="could-utah-gulls-explain-the-bright-objects-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-utah-gulls-explain-the-bright-objects-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="could-utah-gulls-explain-the-bright-objects-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-utah-gulls-explain-the-bright-objects-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="could-utah-gulls-explain-the-bright-objects-ufo-movie-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,15 +459,15 @@ As a result, the Tremonton film occupies an unusual place in Utah UFO history. I
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-utah-gulls-explain-the-bright-objects-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="could-utah-gulls-explain-the-bright-objects-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Movie Movie Photo / Poster Up To 36&quot;"><img src="https://i.ebayimg.com/images/g/TKkAAOSwagtm0Zvw/s-l225.jpg" alt="Listing image for UFO Movie Movie Photo / Poster Up To 36&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-utah-gulls-explain-the-bright-objects-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="could-utah-gulls-explain-the-bright-objects-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Movie Movie Photo / Poster Up To 36&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-utah-gulls-explain-the-bright-objects-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="could-utah-gulls-explain-the-bright-objects-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-utah-gulls-explain-the-bright-objects-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="could-utah-gulls-explain-the-bright-objects-ufo-movie-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,15 +475,15 @@ As a result, the Tremonton film occupies an unusual place in Utah UFO history. I
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-utah-gulls-explain-the-bright-objects-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="could-utah-gulls-explain-the-bright-objects-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="https://i.ebayimg.com/images/g/KaEAAOSwEjZnJ6AL/s-l225.jpg" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-utah-gulls-explain-the-bright-objects-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="could-utah-gulls-explain-the-bright-objects-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-utah-gulls-explain-the-bright-objects-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="could-utah-gulls-explain-the-bright-objects-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-utah-gulls-explain-the-bright-objects-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="could-utah-gulls-explain-the-bright-objects-ufo-movie-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -572,7 +491,7 @@ As a result, the Tremonton film occupies an unusual place in Utah UFO history. I
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gull-theory-could-utah-gulls-explain-the-bright-objects-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-utah-gulls-explain-the-bright-objects-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="could-utah-gulls-explain-the-bright-objects-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -649,17 +568,31 @@ As a result, the Tremonton film occupies an unusual place in Utah UFO history. I
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -672,42 +605,73 @@ As a result, the Tremonton film occupies an unusual place in Utah UFO history. I
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -722,12 +686,17 @@ As a result, the Tremonton film occupies an unusual place in Utah UFO history. I
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -738,110 +707,110 @@ As a result, the Tremonton film occupies an unusual place in Utah UFO history. I
 1. <a id="endnote-1"></a>
    Source: files.ncas.org  
    Title: PDF Directory Condon Report, Case 49: Tremonton, Utah  
-   Link: [https://files.ncas.org/condon/text/case49.htm](https://files.ncas.org/condon/text/case49.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case49.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>gulls.&quot; The panel members&#x27; favored explanation of what was seen was white gulls which are known to inhabit the Great Salt Lake area. Rupp...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nicap.org  
    Title: The Newhouse Film, Tremonton Utah  
-   Link: [https://www.nicap.org/reports/utah1.htm](https://www.nicap.org/reports/utah1.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPThe Newhouse Film, Tremonton Utah - Randle - NICAPSome investigators, including those of the University of COLORADO UFO PROJECT beli...</p></details>
+   Link: <a href="https://www.nicap.org/reports/utah1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/utah1.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Newhouse Film, Tremonton Utah - Randle - NICAPSome investigators, including those of the University of COLORADO UFO PROJECT beli...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: US Navy Warrant Officer Delbert C  
-   Link: [https://www.reddit.com/r/UFOs/comments/18kt1c4/us_navy_warrant_officer_delbert_c_newhouse_ufo/](https://www.reddit.com/r/UFOs/comments/18kt1c4/us_navy_warrant_officer_delbert_c_newhouse_ufo/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/18kt1c4/us_navy_warrant_officer_delbert_c_newhouse_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18kt1c4/us_navy_warrant_officer_delbert_c_newhouse_ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Newhouse - UFO footageDecember 17, 2023 — About seven miles after passing through Tremonton, Utah, Norma, my wife, noticed a group of obj...</p></details>
    Published: December 17, 2023  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: what do you think about the 1952 tremonton ufo  
-   Link: [https://www.reddit.com/r/skeptic/comments/178dnia/what_do_you_think_about_the_1952_tremonton_ufo/](https://www.reddit.com/r/skeptic/comments/178dnia/what_do_you_think_about_the_1952_tremonton_ufo/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/178dnia/what_do_you_think_about_the_1952_tremonton_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/178dnia/what_do_you_think_about_the_1952_tremonton_ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>video?What do you think about the 1952 Tremonton UFO video? Sorry, this post was deleted by the person who originally posted it. Upvote 0...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf](https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vaultrobertsonpanelreport.pdfTremonton film) were not removed from the plots of the. &quot;single pass plots&quot; at the end of the film...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Robertson Panel  
-   Link: [https://en.wikipedia.org/wiki/Robertson_Panel](https://en.wikipedia.org/wiki/Robertson_Panel)  
+   Link: <a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robertson Panel - Wikipedia... panel felt that the Tremonton Utah film most probably showed birds. On... Panel viewed a short film sh...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: kevinrandle.blogspot.com  
    Title: delbert newhouse and utah movie  
-   Link: [https://kevinrandle.blogspot.com/2013/12/delbert-newhouse-and-utah-movie.html](https://kevinrandle.blogspot.com/2013/12/delbert-newhouse-and-utah-movie.html)  
+   Link: <a href="https://kevinrandle.blogspot.com/2013/12/delbert-newhouse-and-utah-movie.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2013/12/delbert-newhouse-and-utah-movie.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle&#x27;s BlogDelbert Newhouse and the Utah Movie7 Dec 2013 — Hartmann then made his own analysis, finally concluding, “These observ...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/tremonton.htm](https://ufologie.patrickgross.org/htm/tremonton.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/tremonton.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/tremonton.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>, Utah, UFO Color Film of July 2, 1952November 30, 2003 — There is a complete ignorance that other skeptics explained the film with the s...</p></details>
    Published: July 2, 1952  
 
 9. <a id="endnote-9"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/Robertson-Panel](https://www.britannica.com/topic/Robertson-Panel)  
+   Link: <a href="https://www.britannica.com/topic/Robertson-Panel" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Robertson-Panel</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the hot summer of 1952 a provocative series of radar and visual sightings occurred near National...Read more...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://www.ufologie.patrickgross.org/htm/tremontoncondon.htm](https://www.ufologie.patrickgross.org/htm/tremontoncondon.htm)  
+   Link: <a href="https://www.ufologie.patrickgross.org/htm/tremontoncondon.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/tremontoncondon.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo... gulls.&quot; The panel members&#x27; favored explanation of what was seen was white gulls which are known to inhabit the Great Salt Lake are...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: dokumen.pub  
    Title: [EPUB] The Robertson Panel: The History and Legacy of the Secret  
-   Link: [https://dokumen.pub/download/the-robertson-panel-the-history-and-legacy-of-the-secret-government-committee-that-investigated-ufo-sightings-in-america-9780691641669.html](https://dokumen.pub/download/the-robertson-panel-the-history-and-legacy-of-the-secret-government-committee-that-investigated-ufo-sightings-in-america-9780691641669.html)  
+   Link: <a href="https://dokumen.pub/download/the-robertson-panel-the-history-and-legacy-of-the-secret-government-committee-that-investigated-ufo-sightings-in-america-9780691641669.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/the-robertson-panel-the-history-and-legacy-of-the-secret-government-committee-that-investigated-ufo-sightings-in-america-9780691641669.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>film due to their ability to reflect in high sunlight. Objects seen as “circular bluish-white”[34] would, according to the panel, be expe...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: studylib.net  
    Title: UF O Evidence: NICAP Report on Unidentified Flying Objects  
-   Link: [https://studylib.net/doc/8955695/ufo-evidence-1964](https://studylib.net/doc/8955695/ufo-evidence-1964)  
+   Link: <a href="https://studylib.net/doc/8955695/ufo-evidence-1964" target="_blank" rel="noopener noreferrer nofollow">https://studylib.net/doc/8955695/ufo-evidence-1964</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Utah Film Tracking UFOs,&amp;quot; p.2. (Copy on file at NICAP.) 9. Flying, July... Wilford estimated the UFO&#x27;s speed at 1200 m.p.h. After c...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: socialecologies.wordpress.com  
    Title: the robertson panel cold war era perception management  
-   Link: [https://socialecologies.wordpress.com/2025/11/21/the-robertson-panel-cold-war-era-perception-management/](https://socialecologies.wordpress.com/2025/11/21/the-robertson-panel-cold-war-era-perception-management/)  
+   Link: <a href="https://socialecologies.wordpress.com/2025/11/21/the-robertson-panel-cold-war-era-perception-management/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/11/21/the-robertson-panel-cold-war-era-perception-management/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Robertson Panel: COLD War Era Perception Management21 Nov 2025 — Naval photo analysts had already concluded that the Tremonton and Great...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: en.wikisource.org  
-   Link: [https://en.wikisource.org/wiki/Page%3ARobertson_panel_report.pdf/5](https://en.wikisource.org/wiki/Page%3ARobertson_panel_report.pdf/5)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3ARobertson_panel_report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3ARobertson_panel_report.pdf/5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:Robertson panel report.pdf/5 - Wikisource27 Sept 2023 — Following these remarks, the motion pictures of the sightings...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scribd.com  
    Title: The 1952 Tremonton Utah UFO Fleet  
-   Link: [https://www.scribd.com/document/238137461/The-1952-Tremonton-Utah-UFO-Fleet](https://www.scribd.com/document/238137461/The-1952-Tremonton-Utah-UFO-Fleet)  
+   Link: <a href="https://www.scribd.com/document/238137461/The-1952-Tremonton-Utah-UFO-Fleet" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/238137461/The-1952-Tremonton-Utah-UFO-Fleet</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PDF22 Jun 2009 — Top 100 UFO Cases- Revealed! UFO Archives RARE!!!! 1950-1970 Footage of UFOs. The Newhouse UFO incident 1952 Utah, U.S.A...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MontanaHistoricalSociety/posts/many-folks-may-have-forgotten-or-never-knew-that-the-first-ever-captured-video-f/846846284148500/](https://www.facebook.com/MontanaHistoricalSociety/posts/many-folks-may-have-forgotten-or-never-knew-that-the-first-ever-captured-video-f/846846284148500/)  
+   Link: <a href="https://www.facebook.com/MontanaHistoricalSociety/posts/many-folks-may-have-forgotten-or-never-knew-that-the-first-ever-captured-video-f/846846284148500/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MontanaHistoricalSociety/posts/many-folks-may-have-forgotten-or-never-knew-that-the-first-ever-captured-video-f/846846284148500/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of the actual recorded video...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=v9wUHdXmgQU](https://www.youtube.com/watch?v=v9wUHdXmgQU)  
+   Link: <a href="https://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v9wUHdXmgQU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Movie THEY Don&#x27;t Want You to See | UFO Documentary | Full Movie...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Project Blue Book 16MM film (low-ish quality) with interview  
-   Link: [https://www.youtube.com/watch?v=wH4xofCFFkA](https://www.youtube.com/watch?v=wH4xofCFFkA)  
+   Link: <a href="https://www.youtube.com/watch?v=wH4xofCFFkA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wH4xofCFFkA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Proof Is Out There: SHOCKING Bird Phenomenon Caught on Camera (Season 2) | Exclusive | History...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: The UFO Movie THEY Don't Want You to See | UFO Documentary | Full Movie  
-   Link: [https://www.youtube.com/watch?v=kOM-F21FuHc](https://www.youtube.com/watch?v=kOM-F21FuHc)  
+   Link: <a href="https://www.youtube.com/watch?v=kOM-F21FuHc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kOM-F21FuHc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s Are Real | FULL MOVIE | Aliens Sci-Fi Documentary...</p></details>

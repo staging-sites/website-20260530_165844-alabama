@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /connecticut-ufos-from-colonial-legends/
 nav_short_title: Colonial Sky Stories
 title: Colonial and Early Airship UFO Tales in Connecticut
-title_full: Colonial and Early Airship UFO Tales in Connecticut | Connecticut UFOs
+title_full: Colonial and Early Airship UFO Tales in Connecticut
 display_title_short: Colonial Sky Stories
 display_title: Colonial Sky Stories
 heading_title: Colonial and Early Airship UFO Tales in Connecticut
@@ -268,28 +268,25 @@ image: /assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba-overview-so
 
 ## Introduction
 
-[Connecticut]({{ 'connecticut-ufos-from-colonial-legends/' | relative_url }})’s earliest “UFO” material is not a flying-saucer record in the modern sense. It is a set of older sky stories: most notably the [Ghost Ship]({{ 'ghost-ship/' | relative_url }}) of New Haven, a colonial report of a lost vessel seeming to appear in the air after a storm, and the 1909–1910 “great airship” reports that reached places such as Willimantic. These accounts matter because they show how people in Connecticut interpreted puzzling aerial events before the vocabulary of UFOs existed. In the seventeenth century, a strange sky vision could be read as divine providence. In 1910, similar uncertainty was filtered through the excitement and rumour surrounding early aviation. Neither episode proves extraordinary craft. Both are valuable because they reveal the social pattern that later UFO history would repeat: ambiguous sightings, strong local interpretation, press amplification, and later sceptical re-reading.
-
+Connecticut’s earliest “UFO” material is not a flying-saucer record in the modern sense. It is a set of older sky stories: most notably the [Ghost Ship]({{ 'ghost-ship/' | relative_url }}) of New Haven, a colonial report of a lost vessel seeming to appear in the air after a storm, and the 1909–1910 “great airship” reports that reached places such as Willimantic. These accounts matter because they show how people in Connecticut interpreted puzzling aerial events before the vocabulary of UFOs existed. In the seventeenth century, a strange sky vision could be read as divine providence. In 1910, similar uncertainty was filtered through the excitement and rumour surrounding early aviation. Neither episode proves extraordinary craft. Both are valuable because they reveal the social pattern that later UFO history would repeat: ambiguous sightings, strong local interpretation, press amplification, and later sceptical re-reading.
 
 <img src="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba-overview.webp" | relative_url }}" alt="Overview image for Colonial Sky Stories" loading="eager" decoding="sync" fetchpriority="high">
 ## The Ghost Ship of New Haven
 
-The Ghost Ship of New Haven is the state’s most important early sky-folklore case because it has a named place, a colonial crisis behind it, and unusually durable documentary afterlife. The basic story begins with New Haven Colony’s difficult early economy. The settlement struggled to build profitable direct trade with England, so leading figures arranged for a large ship, later remembered as the “Great Shippe”, to carry passengers and cargo across the Atlantic. Connecticut History describes the vessel as setting out in January 1647 after an exceptionally difficult departure through ice-choked New Haven harbour. Reverend John Davenport’s farewell prayer, preserved in later retellings, included the ominous line asking God, if it were his pleasure to bury the travellers at sea, to save them nonetheless. The ship never returned. <span class="citation-chip-wrap"><a class="citation-chip" href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connecticuthistory.org">[Connecticut History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connecticuthistory.org</span><span class="citation-popover-title">Connecticut History The Ghost Ship of New Haven Sets Sail Shrouded in Mystery</span><span class="citation-popover-snippet">Connecticut HistoryThe Ghost Ship of New Haven Sets Sail Shrouded in Mystery - Connecticut History | a CTHumanities Project...</span></span></span>
+The Ghost Ship of New Haven is the state’s most important early sky-folklore case because it has a named place, a colonial crisis behind it, and unusually durable documentary afterlife. The basic story begins with New Haven Colony’s difficult early economy. The settlement struggled to build profitable direct trade with England, so leading figures arranged for a large ship, later remembered as the “Great Shippe”, to carry passengers and cargo across the Atlantic. Connecticut History describes the vessel as setting out in January 1647 after an exceptionally difficult departure through ice-choked New Haven harbour. Reverend John Davenport’s farewell prayer, preserved in later retellings, included the ominous line asking God, if it were his pleasure to bury the travellers at sea, to save them nonetheless. The ship never returned. <span class="citation-chip-wrap"><a class="citation-chip" href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connecticuthistory.org">[Connecticut History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connecticuthistory.org</span><span class="citation-popover-title">Connecticut History The Ghost Ship of New Haven Sets Sail Shrouded in Mystery</span><span class="citation-popover-snippet">Connecticut HistoryThe Ghost Ship of New Haven Sets Sail Shrouded in Mystery - Connecticut History &#124; a CTHumanities Project...</span></span></span>
 
 The apparition came later, after months of no news. In the version printed by Cotton Mather in *Magnalia Christi Americana*, based on a letter from New Haven minister James Pierpont, a thunderstorm came from the north-west, the sky cleared, and about an hour before sunset a ship appeared in the air near the harbour mouth. Pierpont’s account says the vessel looked like the lost ship, moved against the wind, remained visible for about half an hour, then seemed to lose its masts, capsize and vanish into a smoky cloud. The Colonial Society of Massachusetts preserves this account and also notes an earlier John Winthrop journal entry dated 28 June 1648, in which a ship-like form with masts, rigging, sails and a sword-bearing figure was reportedly seen by many men and women over New Haven harbour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.colonialsociety.org/node/1016" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colonialsociety.org">[Colonial Society of Massachusetts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colonialsociety.org</span><span class="citation-popover-snippet">Colonial Society of MassachusettsDecember Meeting, 1947 - Colonial Society of Massachusetts...</span></span></span>
 
 For Connecticut UFO history, the key point is not that the New Haven witnesses saw a “UFO” in any modern technical sense. They did not describe a disc, spacecraft, aircraft or alien visitor. They described a ship, because a ship was the lost object on everyone’s mind and the central technology of their crisis. The event belonged to maritime grief, colonial insecurity and Puritan religious interpretation before it belonged to later paranormal or UFO folklore.
 
-
-<img src="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba-Illustration-1-light.svg" | relative_url }}" alt="Colonial Sky Stories illustration 1" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba-Illustration-1-dark.svg" | relative_url }}" alt="Colonial Sky Stories illustration 1" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the colonial witnesses read the sky as a message
 
-The Ghost Ship story is often retold today as a haunting, but its earliest meaning was more serious and communal. New Haven’s settlers had invested economic hope, personal relationships and spiritual anxiety in the missing vessel. When a ship-like form was said to appear in the sky after a storm, the community interpreted it as an answer to prayer and a disclosure of the ship’s fate. Connecticut History stresses that New England Puritans often read unusual weather and sky phenomena as signs of God’s judgement, mercy or power, so the apparition made sense within their worldview even if it seems strange to modern readers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connecticuthistory.org">[Connecticut History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connecticuthistory.org</span><span class="citation-popover-title">Connecticut History The Ghost Ship of New Haven Sets Sail Shrouded in Mystery</span><span class="citation-popover-snippet">Connecticut HistoryThe Ghost Ship of New Haven Sets Sail Shrouded in Mystery - Connecticut History | a CTHumanities Project...</span></span></span>
+The Ghost Ship story is often retold today as a haunting, but its earliest meaning was more serious and communal. New Haven’s settlers had invested economic hope, personal relationships and spiritual anxiety in the missing vessel. When a ship-like form was said to appear in the sky after a storm, the community interpreted it as an answer to prayer and a disclosure of the ship’s fate. Connecticut History stresses that New England Puritans often read unusual weather and sky phenomena as signs of God’s judgement, mercy or power, so the apparition made sense within their worldview even if it seems strange to modern readers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connecticuthistory.org">[Connecticut History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connecticuthistory.org</span><span class="citation-popover-title">Connecticut History The Ghost Ship of New Haven Sets Sail Shrouded in Mystery</span><span class="citation-popover-snippet">Connecticut HistoryThe Ghost Ship of New Haven Sets Sail Shrouded in Mystery - Connecticut History &#124; a CTHumanities Project...</span></span></span>
 
 The details also show why this case is stronger as folklore than as physical evidence. The surviving versions are mediated through religious and historical writers. Pierpont was not writing an immediate laboratory-style report; he was relaying what he had received from surviving observers decades later, while Winthrop’s earlier journal account is brief and filtered through the reporting networks of colonial New England. The Colonial Society commentary explicitly notes that later psychological explanations would treat the story as collective hallucination or mass hysteria, while also recognising that the legend’s meaning lies in how perfectly it fitted the colony’s loss and expectation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.colonialsociety.org/node/1016" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colonialsociety.org">[Colonial Society of Massachusetts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colonialsociety.org</span><span class="citation-popover-snippet">Colonial Society of MassachusettsDecember Meeting, 1947 - Colonial Society of Massachusetts...</span></span></span>
 
 That does not mean the witnesses were foolish. A more careful reading is that people used the interpretive tools available to them. In a later UFO age, observers might ask whether an object was a craft, a drone, a meteor, a balloon or a military aircraft. In New Haven in the 1640s, the urgent questions were different: had the ship been lost, had God revealed its end, and what did that loss say about the colony’s hopes?
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Iy7lO7FXDrA" title="12 Creepy Ghost Legends That Still Haunt Connecticut | Brought to Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Iy7lO7FXDrA" target="_blank" rel="noopener noreferrer">12 Creepy Ghost Legends That Still Haunt Connecticut | Brought to Life</a></p><p class="youtube-embed-meta">Channel: History &amp; Legends - United States &middot; Views: 23.9K &middot; Uploaded: August 2025 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Iy7lO7FXDrA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Iy7lO7FXDrA">Open on YouTube</a></p></div></div></div>
 
@@ -305,8 +302,7 @@ A third possibility is that the story grew in retelling. The Winthrop account is
 
 The fairest assessment is therefore “historically important, evidentially weak as an anomalous-object case”. It is a foundational Connecticut sky legend, not a confirmed early UFO.
 
-
-<img src="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba-Illustration-2-light.svg" | relative_url }}" alt="Colonial Sky Stories illustration 2" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba-Illustration-2-dark.svg" | relative_url }}" alt="Colonial Sky Stories illustration 2" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Great Airship reports, 1909–1910
 
 More than two centuries after the Ghost Ship, Connecticut entered a different kind of pre-UFO sky wave: the New England airship excitement of 1909–1910. By then, people no longer needed a divine apparition to explain something strange overhead. Aviation had become the frame. The Wright brothers had flown in 1903, European airships and aircraft were in the news, and the public was primed to believe that a secret inventor might have built a remarkable machine.
@@ -316,7 +312,6 @@ The Connecticut example most often cited occurred over Willimantic in the early 
 Tillinghast had told the press that he had built a revolutionary heavier-than-air machine capable of flights far beyond what established aviation had achieved. Connecticut Magazine summarises the later sceptical conclusion: reporters eventually staked out his home, his claimed aircraft was not produced, and many sightings were likely caused by bright Venus, fire balloons and hoaxes. One Winsted prank involved a balloon and handbills jokingly signed by Tillinghast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
 
 This is where the Willimantic sighting becomes useful rather than merely quaint. It shows the same mechanism later seen in UFO flaps: a claim enters the public imagination, witnesses scan the sky with a new expectation, ambiguous lights acquire a technological identity, and newspapers help spread the pattern.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M17WG2V0XdI" title="Cruisin’ Connecticut – A Historical Haunt with Ghosts of New Haven" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M17WG2V0XdI" target="_blank" rel="noopener noreferrer">Cruisin’ Connecticut – A Historical Haunt with Ghosts of New Haven</a></p><p class="youtube-embed-meta">Channel: WTNH News8 &middot; Views: 4.5K &middot; Uploaded: October 2016 &middot; Length: 2 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M17WG2V0XdI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M17WG2V0XdI">Open on YouTube</a></p></div></div></div>
 
@@ -328,11 +323,10 @@ In colonial New Haven, the sky object was interpreted through religion, mourning
 
 This does not require assuming every witness lied. The more interesting point is that people usually describe the unknown in familiar terms. A seventeenth-century community saw a heavenly ship. An early twentieth-century crowd saw an airship. A mid-twentieth-century witness might have said flying saucer. A twenty-first-century caller might say drone or UAP. Connecticut’s early sky stories therefore help explain why UFO history is not only about objects in the sky, but also about the language and assumptions brought to them.
 
-
-<img src="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba-Illustration-3-light.svg" | relative_url }}" alt="Colonial Sky Stories illustration 3" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba-Illustration-3-dark.svg" | relative_url }}" alt="Colonial Sky Stories illustration 3" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_colonial_airship_sig_5370ba-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What these stories contribute to Connecticut’s UFO history
 
-Connecticut’s early sky folklore gives the state’s UFO record a longer cultural timeline than the modern “flying saucer” era. The Ghost Ship of New Haven belongs to colonial folklore and religious history. The [Willimantic airship]({{ 'airship-wave-82dc77/' | relative_url }}) reports belong to the age of aviation rumour and newspaper-driven sighting waves. Neither should be treated as evidence of extraterrestrial visitation. Yet both belong on a Connecticut UFO history page because they show how local aerial mysteries are made.
+Connecticut’s early sky folklore gives the state’s UFO record a longer cultural timeline than the modern “flying saucer” era. The Ghost Ship of New Haven belongs to colonial folklore and religious history. The Willimantic airship reports belong to the age of aviation rumour and newspaper-driven sighting waves. Neither should be treated as evidence of extraterrestrial visitation. Yet both belong on a Connecticut UFO history page because they show how local aerial mysteries are made.
 
 They contribute three lasting lessons.
 
@@ -341,7 +335,6 @@ They contribute three lasting lessons.
 **Second, witness status helps but does not settle the case.** A police officer in Willimantic and “many” colonial observers in New Haven make the accounts socially interesting, but they do not remove problems of distance, darkness, expectation, memory and retelling.
 
 **Third, later explanations often become clearer than the original event.** The Ghost Ship remains open to atmospheric, psychological and narrative explanations, but cannot be reconstructed. The airship wave is easier to assess because the supposed inventor failed to produce his machine and contemporary-style explanations such as Venus, balloons and hoaxes fit many reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/poRFI0el6dA" title="The Great Scareship Panic of 1909" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=poRFI0el6dA" target="_blank" rel="noopener noreferrer">The Great Scareship Panic of 1909</a></p><p class="youtube-embed-meta">Channel: Catherine Warr &middot; Views: 8.9K &middot; Uploaded: February 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=poRFI0el6dA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=poRFI0el6dA">Open on YouTube</a></p></div></div></div>
 
@@ -437,7 +430,7 @@ The Ghost Ship of New Haven is strongest as a story about loss, providence and t
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -447,111 +440,36 @@ The Ghost Ship of New Haven is strongest as a story about loss, providence and t
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-and-early-airship-ufo-tales-in-connecticut-airship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship model" data-ebay-reference="colonial-and-early-airship-ufo-tales-in-connecticut-airship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROBOTIME 3D Wooden Puzzle Airship Model DIY Build Kit Toys Gift for Kids"><img src="https://i.ebayimg.com/images/g/7VsAAOSws~pkZd9Y/s-l225.jpg" alt="Listing image for ROBOTIME 3D Wooden Puzzle Airship Model DIY Build Kit Toys Gift for Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-and-early-airship-ufo-tales-in-connecticut-airship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship model" data-ebay-reference="colonial-and-early-airship-ufo-tales-in-connecticut-airship-model" target="_blank" rel="sponsored noopener noreferrer">ROBOTIME 3D Wooden Puzzle Airship Model DIY Build Kit Toys Gift for Kids</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-and-early-airship-ufo-tales-in-connecticut-airship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship model" data-ebay-reference="colonial-and-early-airship-ufo-tales-in-connecticut-airship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airship model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-and-early-airship-ufo-tales-in-connecticut-airship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship model" data-ebay-reference="colonial-and-early-airship-ufo-tales-in-connecticut-airship-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -559,15 +477,15 @@ The Ghost Ship of New Haven is strongest as a story about loss, providence and t
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-and-early-airship-ufo-tales-in-connecticut-airship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship model" data-ebay-reference="colonial-and-early-airship-ufo-tales-in-connecticut-airship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Wooden Puzzle Airship Model kits for Adults Model Building Kit Brain Teaser"><img src="https://i.ebayimg.com/images/g/39sAAeSwS~5pkBXi/s-l225.jpg" alt="Listing image for 3D Wooden Puzzle Airship Model kits for Adults Model Building Kit Brain Teaser" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-and-early-airship-ufo-tales-in-connecticut-airship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship model" data-ebay-reference="colonial-and-early-airship-ufo-tales-in-connecticut-airship-model" target="_blank" rel="sponsored noopener noreferrer">3D Wooden Puzzle Airship Model kits for Adults Model Building Kit Brain Teaser</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-and-early-airship-ufo-tales-in-connecticut-airship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship model" data-ebay-reference="colonial-and-early-airship-ufo-tales-in-connecticut-airship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airship model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-and-early-airship-ufo-tales-in-connecticut-airship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship model" data-ebay-reference="colonial-and-early-airship-ufo-tales-in-connecticut-airship-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -575,15 +493,15 @@ The Ghost Ship of New Haven is strongest as a story about loss, providence and t
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-and-early-airship-ufo-tales-in-connecticut-airship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship model" data-ebay-reference="colonial-and-early-airship-ufo-tales-in-connecticut-airship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Wooden Puzzle Airship Model kits for Adults Model Building Kit Brain Tease"><img src="https://i.ebayimg.com/images/g/ucsAAeSwzyppy5wD/s-l225.jpg" alt="Listing image for 3D Wooden Puzzle Airship Model kits for Adults Model Building Kit Brain Tease" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-and-early-airship-ufo-tales-in-connecticut-airship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship model" data-ebay-reference="colonial-and-early-airship-ufo-tales-in-connecticut-airship-model" target="_blank" rel="sponsored noopener noreferrer">3D Wooden Puzzle Airship Model kits for Adults Model Building Kit Brain Tease</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-and-early-airship-ufo-tales-in-connecticut-airship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship model" data-ebay-reference="colonial-and-early-airship-ufo-tales-in-connecticut-airship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airship model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-and-early-airship-ufo-tales-in-connecticut-airship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship model" data-ebay-reference="colonial-and-early-airship-ufo-tales-in-connecticut-airship-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -591,15 +509,15 @@ The Ghost Ship of New Haven is strongest as a story about loss, providence and t
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-and-early-airship-ufo-tales-in-connecticut-airship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship model" data-ebay-reference="colonial-and-early-airship-ufo-tales-in-connecticut-airship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pantasy Steampunk Airship Brick Model Set 1949 Pieces 85021"><img src="https://i.ebayimg.com/images/g/s8IAAeSwGgJqDEV2/s-l225.jpg" alt="Listing image for Pantasy Steampunk Airship Brick Model Set 1949 Pieces 85021" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-and-early-airship-ufo-tales-in-connecticut-airship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship model" data-ebay-reference="colonial-and-early-airship-ufo-tales-in-connecticut-airship-model" target="_blank" rel="sponsored noopener noreferrer">Pantasy Steampunk Airship Brick Model Set 1949 Pieces 85021</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-and-early-airship-ufo-tales-in-connecticut-airship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship model" data-ebay-reference="colonial-and-early-airship-ufo-tales-in-connecticut-airship-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airship model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-and-early-airship-ufo-tales-in-connecticut-airship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship model" data-ebay-reference="colonial-and-early-airship-ufo-tales-in-connecticut-airship-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -607,7 +525,7 @@ The Ghost Ship of New Haven is strongest as a story about loss, providence and t
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-sky-stories-colonial-and-early-airship-ufo-tales-in-connecticut-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=colonial-and-early-airship-ufo-tales-in-connecticut-airship-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship model" data-ebay-reference="colonial-and-early-airship-ufo-tales-in-connecticut-airship-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -684,17 +602,31 @@ The Ghost Ship of New Haven is strongest as a story about loss, providence and t
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -707,42 +639,73 @@ The Ghost Ship of New Haven is strongest as a story about loss, providence and t
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -757,12 +720,17 @@ The Ghost Ship of New Haven is strongest as a story about loss, providence and t
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -773,108 +741,108 @@ The Ghost Ship of New Haven is strongest as a story about loss, providence and t
 1. <a id="endnote-1"></a>
    Source: digitalcommons.usm.maine.edu  
    Title: unto the year of Our Lord,  
-   Link: [https://digitalcommons.usm.maine.edu/oml_rare_books/9/](https://digitalcommons.usm.maine.edu/oml_rare_books/9/)  
+   Link: <a href="https://digitalcommons.usm.maine.edu/oml_rare_books/9/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.usm.maine.edu/oml_rare_books/9/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Magnalia Christi Americana&quot; by Cotton Mather...by C Mather · 1702 · Cited by 524 — Full...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: hoaxes.org  
    Title: the worcester aeroplane hoax  
-   Link: [https://hoaxes.org/archive/permalink/the_worcester_aeroplane_hoax](https://hoaxes.org/archive/permalink/the_worcester_aeroplane_hoax)  
+   Link: <a href="https://hoaxes.org/archive/permalink/the_worcester_aeroplane_hoax" target="_blank" rel="noopener noreferrer nofollow">https://hoaxes.org/archive/permalink/the_worcester_aeroplane_hoax</a>  
 
 3. <a id="endnote-3"></a>
    Source: connecticuthistory.org  
    Title: Connecticut History The Ghost Ship of New Haven Sets Sail Shrouded in Mystery  
-   Link: [https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/](https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/)  
+   Link: <a href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Connecticut HistoryThe Ghost Ship of New Haven Sets Sail Shrouded in Mystery - Connecticut History | a CTHumanities Project...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: colonialsociety.org  
-   Link: [https://www.colonialsociety.org/node/1016](https://www.colonialsociety.org/node/1016)  
+   Link: <a href="https://www.colonialsociety.org/node/1016" target="_blank" rel="noopener noreferrer nofollow">https://www.colonialsociety.org/node/1016</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Colonial Society of MassachusettsDecember Meeting, 1947 - Colonial Society of Massachusetts...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ctinsider.com  
    Title: CT Insider Examining some of Connecticut's most spectacular UFO sightings  
-   Link: [https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php](https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php)  
+   Link: <a href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php</a>  
 
 6. <a id="endnote-6"></a>
    Source: smithsonianmag.com  
    Title: Smithsonian Magazine Fear of Floating  
-   Link: [https://www.smithsonianmag.com/air-space-magazine/fear-of-floating-137226392/](https://www.smithsonianmag.com/air-space-magazine/fear-of-floating-137226392/)  
+   Link: <a href="https://www.smithsonianmag.com/air-space-magazine/fear-of-floating-137226392/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/fear-of-floating-137226392/</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Ghost ship of New Haven  
-   Link: [https://en.wikipedia.org/wiki/Ghost_ship_of_New_Haven](https://en.wikipedia.org/wiki/Ghost_ship_of_New_Haven)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ghost_ship_of_New_Haven" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ghost_ship_of_New_Haven</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Wallace Tillinghast  
-   Link: [https://en.wikipedia.org/wiki/Wallace_Tillinghast](https://en.wikipedia.org/wiki/Wallace_Tillinghast)  
+   Link: <a href="https://en.wikipedia.org/wiki/Wallace_Tillinghast" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wallace_Tillinghast</a>  
 
 9. <a id="endnote-9"></a>
    Source: ctinsider.com  
    Title: The legend of the Ghost Ship of New Haven 17046076  
-   Link: [https://www.ctinsider.com/connecticutmagazine/news-people/article/The-legend-of-the-Ghost-Ship-of-New-Haven-17046076.php](https://www.ctinsider.com/connecticutmagazine/news-people/article/The-legend-of-the-Ghost-Ship-of-New-Haven-17046076.php)  
+   Link: <a href="https://www.ctinsider.com/connecticutmagazine/news-people/article/The-legend-of-the-Ghost-Ship-of-New-Haven-17046076.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/connecticutmagazine/news-people/article/The-legend-of-the-Ghost-Ship-of-New-Haven-17046076.php</a>  
 
 10. <a id="endnote-10"></a>
    Source: catalog.hathitrust.org  
-   Link: [https://catalog.hathitrust.org/Record/011714379](https://catalog.hathitrust.org/Record/011714379)  
+   Link: <a href="https://catalog.hathitrust.org/Record/011714379" target="_blank" rel="noopener noreferrer nofollow">https://catalog.hathitrust.org/Record/011714379</a>  
 
 11. <a id="endnote-11"></a>
    Source: streetsofsalem.com  
    Title: cotton mather  
-   Link: [https://streetsofsalem.com/tag/cotton-mather/](https://streetsofsalem.com/tag/cotton-mather/)  
+   Link: <a href="https://streetsofsalem.com/tag/cotton-mather/" target="_blank" rel="noopener noreferrer nofollow">https://streetsofsalem.com/tag/cotton-mather/</a>  
 
 12. <a id="endnote-12"></a>
    Source: books.google.com  
    Title: Magnalia Christi Americana  
-   Link: [https://books.google.com/books/about/Magnalia_Christi_Americana.html?id=T7a1CMwrvRUC](https://books.google.com/books/about/Magnalia_Christi_Americana.html?id=T7a1CMwrvRUC)  
+   Link: <a href="https://books.google.com/books/about/Magnalia_Christi_Americana.html?id=T7a1CMwrvRUC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Magnalia_Christi_Americana.html?id=T7a1CMwrvRUC</a>  
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: 12 Creepy Ghost Legends That Still Haunt Connecticut | Brought to Life  
-   Link: [https://www.youtube.com/watch?v=Iy7lO7FXDrA](https://www.youtube.com/watch?v=Iy7lO7FXDrA)  
+   Link: <a href="https://www.youtube.com/watch?v=Iy7lO7FXDrA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Iy7lO7FXDrA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A ghost tour may just lift your spirits in New Haven...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: A ghost tour may just lift your spirits in New Haven  
-   Link: [https://www.youtube.com/watch?v=tRwwd6M795w](https://www.youtube.com/watch?v=tRwwd6M795w)  
+   Link: <a href="https://www.youtube.com/watch?v=tRwwd6M795w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tRwwd6M795w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cruisin&#x27; Connecticut – A Historical Haunt with Ghosts of New Haven...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Cruisin' Connecticut – A Historical Haunt with Ghosts of New Haven  
-   Link: [https://www.youtube.com/watch?v=M17WG2V0XdI](https://www.youtube.com/watch?v=M17WG2V0XdI)  
+   Link: <a href="https://www.youtube.com/watch?v=M17WG2V0XdI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M17WG2V0XdI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Legends That Haunted the Early Colonials...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/838955243/Ufos-and-Intelligence](https://www.scribd.com/document/838955243/Ufos-and-Intelligence)  
+   Link: <a href="https://www.scribd.com/document/838955243/Ufos-and-Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/838955243/Ufos-and-Intelligence</a>  
 
 17. <a id="endnote-17"></a>
    Source: nationalhumanitiescenter.org  
-   Link: [https://nationalhumanitiescenter.org/pds/amerbegin/permanence/text3/MatherNewEngland.pdf](https://nationalhumanitiescenter.org/pds/amerbegin/permanence/text3/MatherNewEngland.pdf)  
+   Link: <a href="https://nationalhumanitiescenter.org/pds/amerbegin/permanence/text3/MatherNewEngland.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nationalhumanitiescenter.org/pds/amerbegin/permanence/text3/MatherNewEngland.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and-coverups-059517339x-9780595173396.html](https://dokumen.pub/download/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and-coverups-059517339x-9780595173396.html)  
+   Link: <a href="https://dokumen.pub/download/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and-coverups-059517339x-9780595173396.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and-coverups-059517339x-9780595173396.html</a>  
 
 19. <a id="endnote-19"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/literature-and-writing/magnalia-christi-americana-cotton-mather](https://www.ebsco.com/research-starters/literature-and-writing/magnalia-christi-americana-cotton-mather)  
+   Link: <a href="https://www.ebsco.com/research-starters/literature-and-writing/magnalia-christi-americana-cotton-mather" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/literature-and-writing/magnalia-christi-americana-cotton-mather</a>  
 
 20. <a id="endnote-20"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/magnaliachristia01byumath/magnaliachristia01byumath.pdf](https://archive.org/download/magnaliachristia01byumath/magnaliachristia01byumath.pdf)  
+   Link: <a href="https://archive.org/download/magnaliachristia01byumath/magnaliachristia01byumath.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/magnaliachristia01byumath/magnaliachristia01byumath.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/200654943447427/posts/2616639965182234/](https://www.facebook.com/groups/200654943447427/posts/2616639965182234/)  
+   Link: <a href="https://www.facebook.com/groups/200654943447427/posts/2616639965182234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/200654943447427/posts/2616639965182234/</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-friday-april-16-1897-during-th/1511031263717011/](https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-friday-april-16-1897-during-th/1511031263717011/)  
+   Link: <a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-friday-april-16-1897-during-th/1511031263717011/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-friday-april-16-1897-during-th/1511031263717011/</a>

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /florida-30c2d0-florida-ufo-records/
 description: Focused pages that expand on Witness Reports.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Florida_30c2d0_florida_ufo_records_c88f62
-parent_title: Witness Reports | What Makes Florida a Hotspot for UFO...
+parent_title: Witness Reports
 parent_nav_short_title: Witness Reports
 parent_permalink: /witness-reports-be3fbd/
 ---

@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /gaffney-tale/
 nav_short_title: Footprints
 title: Why the Gaffney Footprints Still Matter
-title_full: Why the Gaffney Footprints Still Matter | Gaffney Tale
+title_full: Why the Gaffney Footprints Still Matter
 display_title_short: Footprints
 display_title: Footprints
 heading_title: Why the Gaffney Footprints Still Matter
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:11:11'
-parent_title: How Strong Is the Gaffney Humanoid Story? | South Carolina UFOs
+parent_title: How Strong Is the Gaffney Humanoid Story?
 parent_permalink: /gaffney-tale/
 parent_nav_short_title: Gaffney Tale
 parent_heading_title: How Strong Is the Gaffney Humanoid Story?
@@ -252,8 +252,7 @@ image: /assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_foot
 
 The reported footprints at the Gaffney landing site are the closest thing the 1966 humanoid story has to physical evidence. They are also the weakest part of the case once examined closely. According to later retellings, police officers returned to the location after the encounter and found fresh tracks where the alleged visitor had stood. Yet no photographs, casts, measurements, sketches, laboratory examinations or preserved police records appear to survive. What remains is only a verbal description.
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_footprints_e_156bf7-Illustration-1-light.svg" | relative_url }}" alt="Footprints illustration 1" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_footprints_e_156bf7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_footprints_e_156bf7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_footprints_e_156bf7-Illustration-1-dark.svg" | relative_url }}" alt="Footprints illustration 1" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_footprints_e_156bf7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_footprints_e_156bf7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That gap matters because physical traces often determine whether a UFO landing report can be tested years later. In Gaffney, the footprints became an important part of the legend while simultaneously illustrating how quickly a potential piece of evidence can disappear from the historical record. The story is remembered; the trace itself is not.
 
 ## Why the Gaffney Footprints Still Matter
@@ -271,8 +270,7 @@ In UFO history, claimed landing traces often become central points of investigat
 
 None of those elements are known to exist for Gaffney. As a result, the footprints cannot be re-examined, compared with ordinary footwear, or checked against later claims. The case moved almost immediately from potential physical evidence into the realm of recollection.
 
-That transition is one reason the footprints remain significant within [South Carolina]({{ 'what-makes-south-carolinas-ufo-story/' | relative_url }}) UFO history. They demonstrate how a case can retain cultural visibility even when its most testable evidence effectively vanishes.
-
+That transition is one reason the footprints remain significant within South Carolina UFO history. They demonstrate how a case can retain cultural visibility even when its most testable evidence effectively vanishes.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q3fZ_ZoPb0M" title="UFO Welcome Center (Bowman, SC)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q3fZ_ZoPb0M" target="_blank" rel="noopener noreferrer">UFO Welcome Center (Bowman, SC)</a></p><p class="youtube-embed-meta">Channel: grimmlifecollective &middot; Views: 10.1K &middot; Uploaded: September 2016 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q3fZ_ZoPb0M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q3fZ_ZoPb0M">Open on YouTube</a></p></div></div></div>
 
@@ -288,8 +286,7 @@ Even within the UFO literature, the footprint description is surprisingly brief.
 
 The result is a curious situation. The footprints are regularly cited as part of the Gaffney story, yet almost nothing verifiable is known about them beyond a few sentences in secondary accounts.
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_footprints_e_156bf7-Illustration-2-light.svg" | relative_url }}" alt="Footprints illustration 2" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_footprints_e_156bf7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_footprints_e_156bf7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_footprints_e_156bf7-Illustration-2-dark.svg" | relative_url }}" alt="Footprints illustration 2" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_footprints_e_156bf7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_footprints_e_156bf7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Casts and Photographs Could Have Changed
 
 The absence of physical documentation is not a minor detail. It is the central evidential problem.
@@ -299,7 +296,6 @@ Had photographs survived, modern researchers could at least inspect the shape an
 Casts would have been even more valuable. In other UFO landing investigations, casts have sometimes allowed later comparisons with footwear, machinery marks or known natural processes. They also preserve details that witnesses may forget or misremember.
 
 Several important questions could potentially have been addressed if documentation existed:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -315,8 +311,7 @@ Because none of that information survives, later investigators cannot independen
 
 This is a recurring problem in older UFO reports. A claimed physical trace may sound impressive in retellings, but once the documentation is missing, the evidence effectively becomes another witness statement.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wCKvKuorwhc" title="UFO Footage 2021 Litchfield Beach, South Carolina | &quot;I Know What I Saw&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wCKvKuorwhc" target="_blank" rel="noopener noreferrer">UFO Footage 2021 Litchfield Beach, South Carolina | &quot;I Know What I Saw&quot;</a></p><p class="youtube-embed-meta">Channel: Matt Walton Channel! &middot; Views: 8.1K &middot; Uploaded: September 2021 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wCKvKuorwhc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wCKvKuorwhc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gwWr2H0q2Jk" title="7 Minutes of Christmas in Gaffney 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gwWr2H0q2Jk" target="_blank" rel="noopener noreferrer">7 Minutes of Christmas in Gaffney 2024</a></p><p class="youtube-embed-meta">Channel: Gaffney Visitors Center &amp; Art Gallery &middot; Views: 492 &middot; Uploaded: December 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gwWr2H0q2Jk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gwWr2H0q2Jk">Open on YouTube</a></p></div></div></div>
 
 ## Alternative Explanations the Record Cannot Rule Out
 
@@ -332,8 +327,7 @@ A further complication is timing. The footprint inspection reportedly occurred t
 
 Importantly, none of these possibilities proves the officers fabricated the story. The evidential issue is narrower. The surviving record simply does not contain enough information to distinguish between extraordinary and ordinary explanations.
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_footprints_e_156bf7-Illustration-3-light.svg" | relative_url }}" alt="Footprints illustration 3" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_footprints_e_156bf7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_footprints_e_156bf7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_footprints_e_156bf7-Illustration-3-dark.svg" | relative_url }}" alt="Footprints illustration 3" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_footprints_e_156bf7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_footprints_e_156bf7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## From Physical Trace to Folklore
 
 The fate of the Gaffney footprints helps explain why the case sits in an ambiguous position within South Carolina UFO history.
@@ -342,11 +336,9 @@ Believers often point to the footprints as evidence that something tangible was 
 
 That distinction is crucial. Researchers today are not evaluating physical evidence from Gaffney. They are evaluating reports about physical evidence that allegedly existed for a short period and then disappeared.
 
-As a result, the footprints function more as a lesson in evidential loss than as evidence in their own right. They show how quickly a potentially important trace can become anecdote when no photographs are taken, no casts are made and no formal documentation survives. More than half a century later, the missing footprints remain one of the clearest examples of how the [Gaffney humanoid]({{ 'gaffney-tale/' | relative_url }}) story moved from an alleged event into enduring local UFO folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — TWO POLICE OFFICERS in Gaffney, South Carolina, had a brief and...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
+As a result, the footprints function more as a lesson in evidential loss than as evidence in their own right. They show how quickly a potentially important trace can become anecdote when no photographs are taken, no casts are made and no formal documentation survives. More than half a century later, the missing footprints remain one of the clearest examples of how the Gaffney humanoid story moved from an alleged event into enduring local UFO folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — TWO POLICE OFFICERS in Gaffney, South Carolina, had a brief and...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gwWr2H0q2Jk" title="7 Minutes of Christmas in Gaffney 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gwWr2H0q2Jk" target="_blank" rel="noopener noreferrer">7 Minutes of Christmas in Gaffney 2024</a></p><p class="youtube-embed-meta">Channel: Gaffney Visitors Center &amp; Art Gallery &middot; Views: 492 &middot; Uploaded: December 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gwWr2H0q2Jk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gwWr2H0q2Jk">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wCKvKuorwhc" title="UFO Footage 2021 Litchfield Beach, South Carolina | &quot;I Know What I Saw&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wCKvKuorwhc" target="_blank" rel="noopener noreferrer">UFO Footage 2021 Litchfield Beach, South Carolina | &quot;I Know What I Saw&quot;</a></p><p class="youtube-embed-meta">Channel: Matt Walton Channel! &middot; Views: 8.1K &middot; Uploaded: September 2021 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wCKvKuorwhc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wCKvKuorwhc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -769,76 +761,76 @@ As a result, the footprints function more as a lesson in evidential loss than as
 
 1. <a id="endnote-1"></a>
    Source: blackbooksdotpub.wordpress.com  
-   Link: [https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf](https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf)  
+   Link: <a href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — TWO POLICE OFFICERS in Gaffney, South Carolina, had a brief and...</p></details>
    Published: December 3, 2021  
 
 2. <a id="endnote-2"></a>
    Source: thinkaboutitdocs.com  
    Title: 1966 november ufo alien sightings  
-   Link: [https://thinkaboutitdocs.com/1966-november-ufo-alien-sightings/](https://thinkaboutitdocs.com/1966-november-ufo-alien-sightings/)  
+   Link: <a href="https://thinkaboutitdocs.com/1966-november-ufo-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/1966-november-ufo-alien-sightings/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>footprints at the site where the little man had stood. There was no return visit by the alien...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: scribd.com  
    Title: John Keel  
-   Link: [https://www.scribd.com/document/342545406/John-Keel-The-Complete-Guide-to-Mysterious-Beings-pdf](https://www.scribd.com/document/342545406/John-Keel-The-Complete-Guide-to-Mysterious-Beings-pdf)  
+   Link: <a href="https://www.scribd.com/document/342545406/John-Keel-The-Complete-Guide-to-Mysterious-Beings-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/342545406/John-Keel-The-Complete-Guide-to-Mysterious-Beings-pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>There were powerful beams of hght scanning the ground from footprints,&quot; Hutchins said. No casts were made. some unknown...Read more...</p></details>
 
 ### Additional References
 
 4. <a id="endnote-4"></a>
    Source: handprint.com  
-   Link: [https://www.handprint.com/UFO/MagoniaCatalog.xlsx](https://www.handprint.com/UFO/MagoniaCatalog.xlsx)  
+   Link: <a href="https://www.handprint.com/UFO/MagoniaCatalog.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/MagoniaCatalog.xlsx</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>passport to magonia ufo sightinGaffney (South Carolina), 04:00, Patrolmen A. G. Huskey and C. Hutchins saw a dark, spherical machine with...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
    Title: december 1979 not far from kilcoy qld this story sent the australian media into  
-   Link: [https://www.facebook.com/yowiehunters.com.au/posts/december-1979-not-far-from-kilcoy-qld-this-story-sent-the-australian-media-into-/2302112859884647/](https://www.facebook.com/yowiehunters.com.au/posts/december-1979-not-far-from-kilcoy-qld-this-story-sent-the-australian-media-into-/2302112859884647/)  
+   Link: <a href="https://www.facebook.com/yowiehunters.com.au/posts/december-1979-not-far-from-kilcoy-qld-this-story-sent-the-australian-media-into-/2302112859884647/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/yowiehunters.com.au/posts/december-1979-not-far-from-kilcoy-qld-this-story-sent-the-australian-media-into-/2302112859884647/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This story sent...A local man discovered and photographed this single, massive, five-toed footprint on a bush track near Canungra Creek...</p></details>
    Published: december 1979  
 
 6. <a id="endnote-6"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/349606645/THE-PERFECT-APPARITION-by-John-A-Keel](https://www.scribd.com/document/349606645/THE-PERFECT-APPARITION-by-John-A-Keel)  
+   Link: <a href="https://www.scribd.com/document/349606645/THE-PERFECT-APPARITION-by-John-A-Keel" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/349606645/THE-PERFECT-APPARITION-by-John-A-Keel</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Free download as PDF File (.pdf) or read online for free. From FLYING SAUCER REVIEW, Volume 17, Number 3...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CarolinasUnknown/posts/the-vampire-of-dillsboro-is-a-cryptid-reportedly-inhabiting-the-town-of-dillsbor/1010526897766944/](https://www.facebook.com/CarolinasUnknown/posts/the-vampire-of-dillsboro-is-a-cryptid-reportedly-inhabiting-the-town-of-dillsbor/1010526897766944/)  
+   Link: <a href="https://www.facebook.com/CarolinasUnknown/posts/the-vampire-of-dillsboro-is-a-cryptid-reportedly-inhabiting-the-town-of-dillsbor/1010526897766944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CarolinasUnknown/posts/the-vampire-of-dillsboro-is-a-cryptid-reportedly-inhabiting-the-town-of-dillsbor/1010526897766944/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and reports of cloven footprints that had been found in yards, woods...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: the gaffney incident south carolina 1966  
-   Link: [https://www.reddit.com/r/UFOs/comments/9kfw2s/the_gaffney_incident_south_carolina_1966/](https://www.reddit.com/r/UFOs/comments/9kfw2s/the_gaffney_incident_south_carolina_1966/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/9kfw2s/the_gaffney_incident_south_carolina_1966/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/9kfw2s/the_gaffney_incident_south_carolina_1966/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gaffney Incident (South Carolina, 1966): r/UFOsThe Gaffney Incident (South Carolina, 1966). Video. Play... The Rendlesham case took...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: keithv.com  
-   Link: [https://keithv.com/data/vocab_100k.txt](https://keithv.com/data/vocab_100k.txt)  
+   Link: <a href="https://keithv.com/data/vocab_100k.txt" target="_blank" rel="noopener noreferrer nofollow">https://keithv.com/data/vocab_100k.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>y&#x27;s cash cashable cashback cashed...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Schoolyard witnesses in mass UFO sighting demand answers | Australian Story  
-   Link: [https://www.youtube.com/watch?v=ABCNewsIn-d](https://www.youtube.com/watch?v=ABCNewsIn-d)  
+   Link: <a href="https://www.youtube.com/watch?v=ABCNewsIn-d" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ABCNewsIn-d</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Footage 2021 Litchfield Beach, South Carolina | &quot;I Know What I Saw&quot;...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Rendlesham Forest mystery: 'It's the perfect storm of a UFO case'  
-   Link: [https://www.youtube.com/watch?v=CharlesHalt](https://www.youtube.com/watch?v=CharlesHalt)  
+   Link: <a href="https://www.youtube.com/watch?v=CharlesHalt" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CharlesHalt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Schoolyard witnesses in mass UFO sighting demand answers | Australian Story...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Gaffney Visitor  
-   Link: [https://www.youtube.com/watch?v=gwWr2H0q2Jk](https://www.youtube.com/watch?v=gwWr2H0q2Jk)  
+   Link: <a href="https://www.youtube.com/watch?v=gwWr2H0q2Jk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gwWr2H0q2Jk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest mystery: &#x27;It&#x27;s the perfect storm of a UFO case&#x27;...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/theuniondemocrat/posts/the-county-has-a-long-history-with-reported-sightings-of-the-mythical-figure/1332187221188871/](https://www.facebook.com/theuniondemocrat/posts/the-county-has-a-long-history-with-reported-sightings-of-the-mythical-figure/1332187221188871/)  
+   Link: <a href="https://www.facebook.com/theuniondemocrat/posts/the-county-has-a-long-history-with-reported-sightings-of-the-mythical-figure/1332187221188871/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theuniondemocrat/posts/the-county-has-a-long-history-with-reported-sightings-of-the-mythical-figure/1332187221188871/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The reports continued...Read more...</p></details>

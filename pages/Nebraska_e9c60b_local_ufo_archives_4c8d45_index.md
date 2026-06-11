@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nebraska-e9c60b-local-ufo-archives/
 description: Focused pages that expand on Local Archives.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Nebraska_e9c60b_local_ufo_archives_4c8d45
-parent_title: Local Archives | What Really Happened in Nebraska's UFO...
+parent_title: Local Archives
 parent_nav_short_title: Local Archives
 parent_permalink: /local-archives/
 ---

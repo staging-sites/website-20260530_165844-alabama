@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /rhode-island-b30a18-banner-plane-case/
 description: Focused pages that expand on Banner Plane.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Rhode_Island_b30a18_banner_plane_case_503c86
-parent_title: Banner Plane | What Rhode Island's UFO Reports Really Show
+parent_title: Banner Plane
 parent_nav_short_title: Banner Plane
 parent_permalink: /banner-plane/
 ---

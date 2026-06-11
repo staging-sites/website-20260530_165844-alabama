@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /missile-tests/
 nav_short_title: Big Sur 1964
 title: What Really Happened During the 1964 Big Sur Missile UFO Sighting?
-title_full: What Really Happened During the 1964 Big Sur Missile UFO Sighting? | Missile Tests
+title_full: What Really Happened During the 1964 Big Sur Missile UFO Sighting?
 display_title_short: Big Sur 1964
 display_title: Big Sur 1964
 heading_title: What Really Happened During the 1964 Big Sur Missile UFO Sighting?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:04:03'
-parent_title: When Secret Tests Look Like UFOs | California UFOs
+parent_title: When Secret Tests Look Like UFOs
 parent_permalink: /missile-tests/
 parent_nav_short_title: Missile Tests
 parent_heading_title: When Secret Tests Look Like UFOs
@@ -250,10 +250,9 @@ image: /assets/images/California_cf386e_vandenberg_secret_sk_09c62c_big_sur_1964
 
 ## Introduction
 
-The so-called Big Sur UFO incident is one of [California]({{ 'why-california-became-a-ufo-hotspot/' | relative_url }})’s most famous missile-era UFO stories, but it is also one of the most disputed. According to former U.S. Air Force officer Robert Jacobs, a 1964 Atlas missile test filmed from a mountain site near Big Sur captured a disc-shaped object circling a dummy warhead and firing beams of light at it. Jacobs later claimed the object caused the missile test to fail and that the footage was quietly removed from circulation. Supporters have treated the case as evidence that unidentified craft were monitoring American nuclear technology during the Cold War.
+The so-called Big Sur UFO incident is one of California’s most famous missile-era UFO stories, but it is also one of the most disputed. According to former U.S. Air Force officer Robert Jacobs, a 1964 Atlas missile test filmed from a mountain site near Big Sur captured a disc-shaped object circling a dummy warhead and firing beams of light at it. Jacobs later claimed the object caused the missile test to fail and that the footage was quietly removed from circulation. Supporters have treated the case as evidence that unidentified craft were monitoring American nuclear technology during the Cold War.
 
-
-<img src="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_big_sur_1964_missile_3dd133-Illustration-1-light.svg" | relative_url }}" alt="Big Sur 1964 illustration 1" data-theme-src-dark="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_big_sur_1964_missile_3dd133-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_big_sur_1964_missile_3dd133-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_big_sur_1964_missile_3dd133-Illustration-1-dark.svg" | relative_url }}" alt="Big Sur 1964 illustration 1" data-theme-src-dark="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_big_sur_1964_missile_3dd133-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_big_sur_1964_missile_3dd133-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Sceptics and several participants in the missile-tracking programme argue something far less extraordinary happened. Their explanation is that the cameras recorded secret decoy devices and radar countermeasures released by the missile itself, technologies that were still highly classified at the time. The Big Sur case matters within California UFO history because it sits directly at the intersection of Cold War secrecy, advanced aerospace testing, incomplete witness knowledge, and later conspiracy culture. It is a useful example of how military projects could generate enduring UFO narratives even when the underlying event may have had a conventional explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Bob Jacobs is not in this picture. In front of George in uniform are Major Florenz Mansmann and Chief Warrant Officer Guy Spooner. The th...</span></span></span>
 
 ## Why Was Big Sur Involved in Missile Tracking?
@@ -272,7 +271,6 @@ A key reason the case survived for decades is that Jacobs was not the only perso
 
 Even so, important limitations remain:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * No publicly available copy of the alleged film has ever surfaced.
@@ -281,7 +279,6 @@ Even so, important limitations remain:
 * There is no surviving official record confirming extraterrestrial interference with the launch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
 
 </div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_kbLEtvzjHg" title="UFO Nuclear Missile Shootdown (Big Sur UFO Incident) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_kbLEtvzjHg" target="_blank" rel="noopener noreferrer">UFO Nuclear Missile Shootdown (Big Sur UFO Incident) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 27.1K &middot; Uploaded: November 2023 &middot; Length: 1 hour 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_kbLEtvzjHg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_kbLEtvzjHg">Open on YouTube</a></p></div></div></div>
 
@@ -299,8 +296,7 @@ The decoy interpretation also helps explain another recurring feature of Cold Wa
 
 Despite sceptical criticism, the Big Sur case remains influential in UFO culture because several aspects continue to intrigue believers.
 
-
-<img src="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_big_sur_1964_missile_3dd133-Illustration-2-light.svg" | relative_url }}" alt="Big Sur 1964 illustration 2" data-theme-src-dark="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_big_sur_1964_missile_3dd133-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_big_sur_1964_missile_3dd133-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_big_sur_1964_missile_3dd133-Illustration-2-dark.svg" | relative_url }}" alt="Big Sur 1964 illustration 2" data-theme-src-dark="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_big_sur_1964_missile_3dd133-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_big_sur_1964_missile_3dd133-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Mansmann’s Supporting Statements
 
 Supporters point to Florenz Mansmann’s letters and comments as evidence that Jacobs did not invent the event. Mansmann appeared to confirm that unusual footage was viewed within a restricted setting and that outside personnel removed parts of the film. To UFO researchers, this implied a genuine cover-up rather than simple misunderstanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/pdfs/hastings.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">UFO shooting down a dummy nuclear warhead over the. Pacific Ocean, in September 1964.Read more...</span><span class="citation-popover-meta">Published: September 1964</span></span></span>
@@ -313,7 +309,6 @@ The case also became central to a broader belief that UFOs show special interest
 
 Because the alleged footage is unavailable, neither side can conclusively prove its interpretation. Believers argue that confiscation itself is suspicious. Sceptics counter that classified military material was routinely restricted and destroyed. The absence of surviving evidence has allowed the story to persist without decisive resolution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and atomic sites</span><span class="citation-popover-snippet">UFO reports and atomic sitesBeginning in 1982, Robert Jacobs, who had overseen the mountaintop team, told of the Big Sur UFO which sup...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X2c3_vG7yhs" title="Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer">Researcher says UAPs and nukes are connected | Reality Check with Ross Coulthart</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 332.0K &middot; Uploaded: October 2024 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X2c3_vG7yhs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X2c3_vG7yhs">Open on YouTube</a></p></div></div></div>
 
 ## How the Story Changed Over Time
@@ -325,7 +320,6 @@ The original event occurred in 1964, but Jacobs first publicised it in tabloid m
 At the same time, sceptics noticed inconsistencies across versions of the account. Some discussions incorrectly described the launch as involving live nuclear weapons rather than dummy re-entry vehicles. Others exaggerated the missile failure or implied the event had been independently verified by official investigations when no such confirmation emerged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Bob Jacobs is not in this picture. In front of George in uniform are Major Florenz Mansmann and Chief Warrant Officer Guy Spooner. The th...</span></span></span>
 
 This does not necessarily mean Jacobs fabricated the incident. Human memory changes over time, particularly when unusual events are repeatedly discussed in emotionally charged settings. But it does weaken the reliability of precise details added long after the original launch. Historians of UFO culture often regard Big Sur as a textbook example of how a partly documented Cold War incident can accumulate mythic layers over decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Bob Jacobs is not in this picture. In front of George in uniform are Major Florenz Mansmann and Chief Warrant Officer Guy Spooner. The th...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jjeJy_5WiQ4" title="UFO attacks Nuclear Missile Warhead - The Big Sur UAP Incident // 3D Animation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jjeJy_5WiQ4" target="_blank" rel="noopener noreferrer">UFO attacks Nuclear Missile Warhead - The Big Sur UAP Incident // 3D Animation</a></p><p class="youtube-embed-meta">Channel: Mac Mave Studios &middot; Views: 313.3K &middot; Uploaded: June 2024 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jjeJy_5WiQ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jjeJy_5WiQ4">Open on YouTube</a></p></div></div></div>
 
@@ -343,8 +337,7 @@ What makes the case historically important is not simply whether a UFO appeared 
 
 Within California’s UFO history, Big Sur stands as one of the clearest examples of the overlap between aerospace testing culture and enduring UFO mythology. Unlike many anonymous sightings, it involved identifiable personnel, a real military operation, and a location deeply connected to American missile development. Yet it also illustrates how extraordinary claims become difficult to evaluate once physical evidence disappears and decades of retelling reshape the original story.
 
-
-<img src="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_big_sur_1964_missile_3dd133-Illustration-3-light.svg" | relative_url }}" alt="Big Sur 1964 illustration 3" data-theme-src-dark="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_big_sur_1964_missile_3dd133-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_big_sur_1964_missile_3dd133-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_big_sur_1964_missile_3dd133-Illustration-3-dark.svg" | relative_url }}" alt="Big Sur 1964 illustration 3" data-theme-src-dark="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_big_sur_1964_missile_3dd133-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_big_sur_1964_missile_3dd133-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -432,7 +425,7 @@ Within California’s UFO history, Big Sur stands as one of the clearest example
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -442,111 +435,36 @@ Within California’s UFO history, Big Sur stands as one of the clearest example
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=atlas+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atlas missile model" data-ebay-reference="what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ATLA-M6871 Atlantis 1/128 U.S. Space Missiles 36 Missiles"><img src="https://i.ebayimg.com/images/g/9zgAAeSwv2hp9QYM/s-l225.jpg" alt="Listing image for ATLA-M6871 Atlantis 1/128 U.S. Space Missiles 36 Missiles" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=atlas+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atlas missile model" data-ebay-reference="what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model" target="_blank" rel="sponsored noopener noreferrer">ATLA-M6871 Atlantis 1/128 U.S. Space Missiles 36 Missiles</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=atlas+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atlas missile model" data-ebay-reference="what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for atlas missile model">Search <span data-ebay-domain-label>eBay.co.uk</span>: atlas missile model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=atlas+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atlas missile model" data-ebay-reference="what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,15 +472,15 @@ Within California’s UFO history, Big Sur stands as one of the clearest example
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=atlas+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atlas missile model" data-ebay-reference="what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1965 Press Photo Model of National Air and Space Museum in Washington, D.C."><img src="https://i.ebayimg.com/images/g/0q4AAeSwyUtot3Xa/s-l225.jpg" alt="Listing image for 1965 Press Photo Model of National Air and Space Museum in Washington, D.C." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=atlas+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atlas missile model" data-ebay-reference="what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model" target="_blank" rel="sponsored noopener noreferrer">1965 Press Photo Model of National Air and Space Museum in Washington, D.C.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=atlas+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atlas missile model" data-ebay-reference="what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for atlas missile model">Search <span data-ebay-domain-label>eBay.co.uk</span>: atlas missile model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=atlas+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atlas missile model" data-ebay-reference="what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -570,15 +488,15 @@ Within California’s UFO history, Big Sur stands as one of the clearest example
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=atlas+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atlas missile model" data-ebay-reference="what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlas F Model Rocket Kit 1/144 100 72 48 Scale"><img src="https://i.ebayimg.com/images/g/JU8AAeSwKe9pUWcm/s-l225.jpg" alt="Listing image for Atlas F Model Rocket Kit 1/144 100 72 48 Scale" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=atlas+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atlas missile model" data-ebay-reference="what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model" target="_blank" rel="sponsored noopener noreferrer">Atlas F Model Rocket Kit 1/144 100 72 48 Scale</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=atlas+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atlas missile model" data-ebay-reference="what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for atlas missile model">Search <span data-ebay-domain-label>eBay.co.uk</span>: atlas missile model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=atlas+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atlas missile model" data-ebay-reference="what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -586,15 +504,15 @@ Within California’s UFO history, Big Sur stands as one of the clearest example
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=atlas+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atlas missile model" data-ebay-reference="what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DeAgostini model Battleship Collection 1:1250 Atlas Editions Collection War Ship"><img src="https://i.ebayimg.com/images/g/dZUAAOSwzJtoQwse/s-l225.jpg" alt="Listing image for DeAgostini model Battleship Collection 1:1250 Atlas Editions Collection War Ship" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=atlas+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atlas missile model" data-ebay-reference="what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model" target="_blank" rel="sponsored noopener noreferrer">DeAgostini model Battleship Collection 1:1250 Atlas Editions Collection War Ship</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=atlas+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atlas missile model" data-ebay-reference="what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for atlas missile model">Search <span data-ebay-domain-label>eBay.co.uk</span>: atlas missile model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=atlas+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atlas missile model" data-ebay-reference="what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -602,7 +520,7 @@ Within California’s UFO history, Big Sur stands as one of the clearest example
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=big-sur-1964-what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-california-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=atlas+missile+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="atlas missile model" data-ebay-reference="what-really-happened-during-the-1964-big-sur-missile-ufo-sighting-atlas-missile-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -679,17 +597,31 @@ Within California’s UFO history, Big Sur stands as one of the clearest example
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -702,42 +634,73 @@ Within California’s UFO history, Big Sur stands as one of the clearest example
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -752,12 +715,17 @@ Within California’s UFO history, Big Sur stands as one of the clearest example
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -768,45 +736,45 @@ Within California’s UFO history, Big Sur stands as one of the clearest example
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Big Sur UFO  
-   Link: [https://en.wikipedia.org/wiki/Big_Sur_UFO](https://en.wikipedia.org/wiki/Big_Sur_UFO)  
+   Link: <a href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Big_Sur_UFO</a>  
 
 2. <a id="endnote-2"></a>
    Source: yumpu.com  
    Title: A Shot Across the Bow  
-   Link: [https://www.yumpu.com/en/document/view/7090706/a-shot-across-the-bow-center-for-ufo-studies](https://www.yumpu.com/en/document/view/7090706/a-shot-across-the-bow-center-for-ufo-studies)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>YumpuA Shot Across the Bow - Center for UFO StudiesJan 2, 2013 — unreserved endorsement of Jacobs&#x27;s published account of&lt;br /&gt;. &lt;strong&gt;t...</p></details>
+   Link: <a href="https://www.yumpu.com/en/document/view/7090706/a-shot-across-the-bow-center-for-ufo-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/7090706/a-shot-across-the-bow-center-for-ufo-studies</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Shot Across the Bow - Center for UFO StudiesJan 2, 2013 — unreserved endorsement of Jacobs&#x27;s published account of&lt;br /&gt;. &lt;strong&gt;t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: [https://en.wikipedia.org/wiki/UFO_reports_and_disinformation](https://en.wikipedia.org/wiki/UFO_reports_and_disinformation)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO reports and atomic sites  
-   Link: [https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites](https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_atomic_sites</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and atomic sitesBeginning in 1982, Robert Jacobs, who had overseen the mountaintop team, told of the Big Sur UFO which sup...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cdn.centerforinquiry.org  
-   Link: [https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf](https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf)  
+   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Jacobs is not in this picture. In front of George in uniform are Major Florenz Mansmann and Chief Warrant Officer Guy Spooner. The th...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cdn.centerforinquiry.org  
-   Link: [https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf](https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf)  
+   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2009/01/22164446/p42.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Inquiry&#x27;Buzzing Bee&#x27; Missile Mythology Flies Againby KA GEORGE · 2009 — Decades later, he concocted a story that we had filmed...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/pdfs/hastings.pdf](https://cufos.org/PDFs/pdfs/hastings.pdf)  
+   Link: <a href="https://cufos.org/PDFs/pdfs/hastings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/hastings.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO shooting down a dummy nuclear warhead over the. Pacific Ocean, in September 1964.Read more...</p></details>
    Published: September 1964  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: The Big Sur  
-   Link: [https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/](https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1janznd/the_big_sur_what_really_happened_in_september_1964/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Happened in September 1964?Timeframe and Incident: The Big Sur UFO incident centers on an Atlas missile test in September 196...</p></details>
    Published: September 1964  
 
@@ -814,54 +782,54 @@ Within California’s UFO history, Big Sur stands as one of the clearest example
 
 9. <a id="endnote-9"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports/bigsur2.htm](https://www.nicap.org/reports/bigsur2.htm)  
+   Link: <a href="https://www.nicap.org/reports/bigsur2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/bigsur2.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deliberate Deception: The Big Sur UFO FilmingIf the tabloids were not paid off to run as many mislead- ins, bizarre stories on UFOs and U...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: independent.com  
-   Link: [https://www.independent.com/2025/12/28/in-new-doc-the-age-of-disclosure-military-servicemen-expose-more-details-about-ufos-at-vandenberg/](https://www.independent.com/2025/12/28/in-new-doc-the-age-of-disclosure-military-servicemen-expose-more-details-about-ufos-at-vandenberg/)  
+   Link: <a href="https://www.independent.com/2025/12/28/in-new-doc-the-age-of-disclosure-military-servicemen-expose-more-details-about-ufos-at-vandenberg/" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.com/2025/12/28/in-new-doc-the-age-of-disclosure-military-servicemen-expose-more-details-about-ufos-at-vandenberg/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at Vandenberg. Depending on Who You Ask — and What You&#x27;re Willing to Believe — Aliens Are Real. And They&#x27;ve Visited Vandenberg Space...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: independent.com  
    Title: big red ufo hovered over vandenberg in 2003 congressional witness testifies  
-   Link: [https://www.independent.com/2023/08/01/big-red-ufo-hovered-over-vandenberg-in-2003-congressional-witness-testifies/](https://www.independent.com/2023/08/01/big-red-ufo-hovered-over-vandenberg-in-2003-congressional-witness-testifies/)  
+   Link: <a href="https://www.independent.com/2023/08/01/big-red-ufo-hovered-over-vandenberg-in-2003-congressional-witness-testifies/" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.com/2023/08/01/big-red-ufo-hovered-over-vandenberg-in-2003-congressional-witness-testifies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Big, Red UFO Hovered over Vandenberg in 2003...1 Aug 2023 — Big, Red UFO Hovered over Vandenberg in 2003, Congressional Witness Testifies...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ufohastings.com  
    Title: big sur ufo film government whistleblower reveals he watched it part 2  
-   Link: [https://www.ufohastings.com/articles/big-sur-ufo-film-government-whistleblower-reveals-he-watched-it-part-2](https://www.ufohastings.com/articles/big-sur-ufo-film-government-whistleblower-reveals-he-watched-it-part-2)  
+   Link: <a href="https://www.ufohastings.com/articles/big-sur-ufo-film-government-whistleblower-reveals-he-watched-it-part-2" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/big-sur-ufo-film-government-whistleblower-reveals-he-watched-it-part-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Big Sur UFO FilmFeb 23, 2024 — So, to recap, among the top CSICOP/CSI UFO “skeptics” who have publicly blasted Bob Jacobs&#x27; and Florenz Ma...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-near-vandenberg-missile-test-in-1964-circling-warhead-with-/1614219114038055/](https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-near-vandenberg-missile-test-in-1964-circling-warhead-with-/1614219114038055/)  
+   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-near-vandenberg-missile-test-in-1964-circling-warhead-with-/1614219114038055/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/disc-shaped-ufo-seen-near-vandenberg-missile-test-in-1964-circling-warhead-with-/1614219114038055/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>haff—countermeasures designed to trick Soviet radar and defense...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: A Missile Mysteriously Collided with a UFO  
-   Link: [https://www.facebook.com/popularmechanics/posts/a-missile-mysteriously-collided-with-a-ufo-an-expert-finally-reveals-the-truth-a/1190281049625796/](https://www.facebook.com/popularmechanics/posts/a-missile-mysteriously-collided-with-a-ufo-an-expert-finally-reveals-the-truth-a/1190281049625796/)  
+   Link: <a href="https://www.facebook.com/popularmechanics/posts/a-missile-mysteriously-collided-with-a-ufo-an-expert-finally-reveals-the-truth-a/1190281049625796/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/popularmechanics/posts/a-missile-mysteriously-collided-with-a-ufo-an-expert-finally-reveals-the-truth-a/1190281049625796/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An Expert...Ex-US Air Force captain reveals aliens assailed nuclear missile base; claims govt hid UFO attack from public A captain in th...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/779220482206901/posts/7552260711569477/](https://www.facebook.com/groups/779220482206901/posts/7552260711569477/)  
+   Link: <a href="https://www.facebook.com/groups/779220482206901/posts/7552260711569477/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/779220482206901/posts/7552260711569477/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>litless Spectrograph² whose purpose was to take the spectra³ of...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: theufochronicles.com  
    Title: fmr lt robert m jacobs who captured ufo  
-   Link: [https://www.theufochronicles.com/2025/09/fmr-lt-robert-m-jacobs-who-captured-ufo.html](https://www.theufochronicles.com/2025/09/fmr-lt-robert-m-jacobs-who-captured-ufo.html)  
+   Link: <a href="https://www.theufochronicles.com/2025/09/fmr-lt-robert-m-jacobs-who-captured-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2025/09/fmr-lt-robert-m-jacobs-who-captured-ufo.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fmr Lt. Robert M. Jacobs Who Captured UFO On Film...Sep 7, 2025 — Fmr Lt. Bob Jacobs, who filmed a UFO shooting a beam at an ICBM missil...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: jimharold.com  
-   Link: [https://jimharold.com/the-big-sur-incident-campfire-185/](https://jimharold.com/the-big-sur-incident-campfire-185/)  
+   Link: <a href="https://jimharold.com/the-big-sur-incident-campfire-185/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-big-sur-incident-campfire-185/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>964 USAF missile test at Vandenberg Air Force Base.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: hindustantimes.com  
-   Link: [https://www.hindustantimes.com/world-news/us-news/ufo-whistleblowers-reveal-how-the-space-shuttle-zapped-the-us-nuke-in-1964-using-laser-beams-101707883306201.html](https://www.hindustantimes.com/world-news/us-news/ufo-whistleblowers-reveal-how-the-space-shuttle-zapped-the-us-nuke-in-1964-using-laser-beams-101707883306201.html)  
+   Link: <a href="https://www.hindustantimes.com/world-news/us-news/ufo-whistleblowers-reveal-how-the-space-shuttle-zapped-the-us-nuke-in-1964-using-laser-beams-101707883306201.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/world-news/us-news/ufo-whistleblowers-reveal-how-the-space-shuttle-zapped-the-us-nuke-in-1964-using-laser-beams-101707883306201.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Decades-old UFO mystery resurfaces as former...Read more...</p></details>

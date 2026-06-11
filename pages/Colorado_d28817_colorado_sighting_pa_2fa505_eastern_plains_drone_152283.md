@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /sightings/
 nav_short_title: Drone Flap
 title: Why the Eastern Plains Drone Scare Became So Confusing
-title_full: Why the Eastern Plains Drone Scare Became So Confusing | Sightings
+title_full: Why the Eastern Plains Drone Scare Became So Confusing
 display_title_short: Drone Flap
 display_title: Drone Flap
 heading_title: Why the Eastern Plains Drone Scare Became So Confusing
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:05:23'
-parent_title: Why Colorado Sightings Are Hard to Prove | Colorado UFOs
+parent_title: Why Colorado Sightings Are Hard to Prove
 parent_permalink: /sightings/
 parent_nav_short_title: Sightings
 parent_heading_title: Why Colorado Sightings Are Hard to Prove
@@ -252,8 +252,7 @@ image: /assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_eastern_plains
 
 In late 2019 and early 2020, rural eastern [Colorado]({{ 'what-really-happened-in-colorados-ufo/' | relative_url }}) became the centre of one of the strangest modern aerial-reporting panics in the United States. Residents across the eastern plains, especially near the Nebraska border, reported formations of large drones flying at night in apparent grid patterns. Sheriffs spoke publicly about repeated [sightings]({{ 'sightings/' | relative_url }}). The FBI, Federal Aviation Administration (FAA), Colorado officials and even military-linked agencies became involved. Yet after weeks of headlines, searches and speculation, investigators still could not clearly establish who was flying the aircraft, how many genuine drones were involved, or whether some reports were misidentified planes, stars and rumours amplified through social media and local anxiety. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5757819/drones-colorado-nebraska/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Officials, including sheriffs and the FAA, are investigating the drones, which remain unidentified. Drones, flying at around 150 to 200 f...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2019%E2%80%9320_Colorado_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2019–20 Colorado drone sightings</span><span class="citation-popover-snippet">2019–20 Colorado drone sightings</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/mysterious-drone-swarms-3-states-fbi-investigation-latest-updates-today-2020-01-06/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Air Force are investigating a mystery in the skies over Colorado, Nebraska and Kansas. Swarms of drones have been spotted...</span></span></span>
 
-
-<img src="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_eastern_plains_drone_152283-Illustration-1-light.svg" | relative_url }}" alt="Drone Flap illustration 1" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_eastern_plains_drone_152283-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_eastern_plains_drone_152283-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_eastern_plains_drone_152283-Illustration-1-dark.svg" | relative_url }}" alt="Drone Flap illustration 1" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_eastern_plains_drone_152283-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_eastern_plains_drone_152283-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within Colorado UFO and UAP history, the eastern plains drone flap matters less because it proved anything extraordinary and more because it demonstrated how quickly uncertain sightings can evolve into a self-sustaining public mystery. It became a textbook example of weak evidence multiplying through repetition, expectation and official uncertainty.
 
 ## Why the Eastern Plains Drone Scare Became So Confusing
@@ -261,7 +260,6 @@ Within Colorado UFO and UAP history, the eastern plains drone flap matters less 
 The original reports began in December 2019 in sparsely populated counties in north-eastern Colorado, including Phillips, Yuma, Morgan and Washington counties, before spreading into western Nebraska and later parts of Kansas. Witnesses described multiple aircraft with blinking lights flying between roughly 7pm and 10pm. Some accounts claimed there were six, ten or even nearly twenty drones visible at once. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpr.org/2020/01/10/drone-mystery-spreads-more-sightings-close-calls-no-answers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpr.org">[Colorado Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpr.org</span><span class="citation-popover-title">drone mystery spreads more sightings close calls no answers</span><span class="citation-popover-snippet">Colorado Public RadioDrone Mystery Spreads: More Sightings, Close Calls, No...10 Jan 2020 — Concerns about the mysterious drones reporte...</span></span></span>
 
 Several factors immediately made the story difficult to verify:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -285,7 +283,6 @@ Local sheriff departments first treated the reports cautiously rather than dismi
 
 By early January 2020, the story had escalated dramatically:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The FBI joined the investigation.
@@ -300,7 +297,6 @@ At one point, authorities searched for a supposed “command vehicle” believed
 The geography of eastern Colorado also mattered. The plains provide enormous sightlines under dark skies. Lights visible at great distance can appear stationary, unusually large or strangely grouped. Once residents began scanning the horizon nightly, the number of reported objects increased rapidly.
 
 Social media accelerated the process. Residents shared photographs, rumours and location updates in real time. Many images were poor-quality night photographs showing isolated lights with no scale or stable reference points. But in a rapidly evolving public story, weak visual evidence often reinforced belief rather than reducing uncertainty.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RlQOLibG3iM" title="FBI investigating drones flying over Colorado and other states" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RlQOLibG3iM" target="_blank" rel="noopener noreferrer">FBI investigating drones flying over Colorado and other states</a></p><p class="youtube-embed-meta">Channel: CBS Mornings &middot; Views: 130.5K &middot; Uploaded: January 2020 &middot; Length: 2 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RlQOLibG3iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RlQOLibG3iM">Open on YouTube</a></p></div></div></div>
 
@@ -318,12 +314,11 @@ Investigators confirmed several important points:
 
 However, later reviews significantly weakened the idea of a giant coordinated drone swarm.
 
-The Colorado Department of Public Safety eventually stated that investigators found no evidence supporting many of the more dramatic claims about large fleets flying in formation. Officials said numerous reports were actually stars, planets, commercial aircraft or ordinary hobby drones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kunc.org/news/2021-07-25/documents-indicate-how-little-officials-knew-about-mysterious-drones-last-year" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kunc.org">[KUNC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kunc.org</span><span class="citation-popover-title">documents indicate how little officials knew about mysterious drones last year</span><span class="citation-popover-snippet">KUNCDocuments Indicate How Little Officials Knew About...Jul 25, 2021 — The Colorado Department of Homeland Security issued a press rele...</span></span></span>
+The Colorado Department of Public Safety eventually stated that investigators found no evidence supporting many of the more dramatic claims about large fleets flying in formation. Officials said numerous reports were actually stars, planets, commercial aircraft or ordinary hobby drones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kunc.org/news/2021-07-25/documents-indicate-how-little-officials-knew-about-mysterious-drones-last-year" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kunc.org">[KUNC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kunc.org</span><span class="citation-popover-title">documents indicate how little officials knew about mysterious drones last year</span><span class="citation-popover-snippet">Documents Indicate How Little Officials Knew About...Jul 25, 2021 — The Colorado Department of Homeland Security issued a press rele...</span></span></span>
 
 Some specific “drone” videos were later identified as conventional aircraft. One widely discussed object recorded in Nebraska was thought likely to be a FedEx Cessna Caravan aircraft rather than a mysterious drone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Colorado" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ColoradoColorado is the eighth-largest U.S. state by area and the 20th by population. The United States Census Bureau estimated the po...</span></span></span>
 
 This distinction is crucial in understanding the flap. The final picture was not “nothing happened”, but neither was it evidence of a massive unknown aerial programme. Instead, investigators appeared to conclude that multiple different phenomena had become merged into one narrative:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -336,13 +331,12 @@ This distinction is crucial in understanding the flap. The final picture was not
 
 </div>
 
-
-<img src="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_eastern_plains_drone_152283-Illustration-2-light.svg" | relative_url }}" alt="Drone Flap illustration 2" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_eastern_plains_drone_152283-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_eastern_plains_drone_152283-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_eastern_plains_drone_152283-Illustration-2-dark.svg" | relative_url }}" alt="Drone Flap illustration 2" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_eastern_plains_drone_152283-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_eastern_plains_drone_152283-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Military Speculation and Missile-Silo Geography
 
-The eastern Colorado plains already carried associations with military secrecy because the wider region contains missile fields connected to F.E. Warren Air Force Base in Wyoming. That context helped drive speculation that the drones were linked to surveillance, defence testing or counter-drone exercises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gazette.com/2020/01/05/colorado-drone-mystery-sightings-finally-might-be-solved-c8d375be-2e6f-11ea-85b7-2335e1d42476/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazette.com">[Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazette.com</span><span class="citation-popover-snippet">GazetteColorado drone mystery sightings finally might be solvedJan 5, 2020 — The mysterious drone swarms spotted over Colorado that have...</span></span></span>
+The eastern Colorado plains already carried associations with military secrecy because the wider region contains missile fields connected to F.E. Warren Air Force Base in Wyoming. That context helped drive speculation that the drones were linked to surveillance, defence testing or counter-drone exercises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gazette.com/2020/01/05/colorado-drone-mystery-sightings-finally-might-be-solved-c8d375be-2e6f-11ea-85b7-2335e1d42476/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazette.com">[Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazette.com</span><span class="citation-popover-snippet">Colorado drone mystery sightings finally might be solvedJan 5, 2020 — The mysterious drone swarms spotted over Colorado that have...</span></span></span>
 
-Reports noted that the Air Force had experience testing drone technologies around missile infrastructure, and some observers suspected the flights were connected to military exercises. Yet publicly available records never produced definitive evidence linking the sightings to a government operation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gazette.com/2020/01/05/colorado-drone-mystery-sightings-finally-might-be-solved-c8d375be-2e6f-11ea-85b7-2335e1d42476/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazette.com">[Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazette.com</span><span class="citation-popover-snippet">GazetteColorado drone mystery sightings finally might be solvedJan 5, 2020 — The mysterious drone swarms spotted over Colorado that have...</span></span></span>
+Reports noted that the Air Force had experience testing drone technologies around missile infrastructure, and some observers suspected the flights were connected to military exercises. Yet publicly available records never produced definitive evidence linking the sightings to a government operation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gazette.com/2020/01/05/colorado-drone-mystery-sightings-finally-might-be-solved-c8d375be-2e6f-11ea-85b7-2335e1d42476/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazette.com">[Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazette.com</span><span class="citation-popover-snippet">Colorado drone mystery sightings finally might be solvedJan 5, 2020 — The mysterious drone swarms spotted over Colorado that have...</span></span></span>
 
 Interestingly, later Freedom of Information Act disclosures suggested that even Air Force personnel were themselves confused and uncertain about what was happening. Internal communications described concern and incomplete information rather than evidence of a concealed operation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/34662/faa-documents-offer-unprecedented-look-into-colorado-drone-mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">faa documents offer unprecedented look into colorado drone mystery</span><span class="citation-popover-snippet">The War ZoneNewly Released FAA Documents Give Unprecedented...Jul 16, 2020 — Hundreds of pages of documents provide consistent detailed...</span></span></span>
 
@@ -353,7 +347,6 @@ That uncertainty helped preserve the mystery. If even military officials appeare
 The eastern Colorado drone flap became an unusually clear demonstration of how sighting waves can feed themselves.
 
 Several mechanisms amplified uncertainty at the same time.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2vCuO5s9sCQ" title="FAA, other agencies investigating mysterious Colorado drone sightings; remote ID rule proposed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2vCuO5s9sCQ" target="_blank" rel="noopener noreferrer">FAA, other agencies investigating mysterious Colorado drone sightings; remote ID rule proposed</a></p><p class="youtube-embed-meta">Channel: Denver7 &middot; Views: 4.6K &middot; Uploaded: January 2020 &middot; Length: 2 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2vCuO5s9sCQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2vCuO5s9sCQ">Open on YouTube</a></p></div></div></div>
 
@@ -373,8 +366,7 @@ Human observers are poor at estimating distance and speed at night, especially a
 
 Once the “drone swarm” narrative became nationally known, unrelated aerial sightings were increasingly folded into the same category. Some later reports probably had no connection to the original incidents at all.
 
-
-<img src="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_eastern_plains_drone_152283-Illustration-3-light.svg" | relative_url }}" alt="Drone Flap illustration 3" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_eastern_plains_drone_152283-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_eastern_plains_drone_152283-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_eastern_plains_drone_152283-Illustration-3-dark.svg" | relative_url }}" alt="Drone Flap illustration 3" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_eastern_plains_drone_152283-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505_eastern_plains_drone_152283-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Lack of closure prolonged speculation
 
 Because authorities never produced a simple final answer, the story remained unresolved in public memory. To believers, that suggested a cover-up or hidden truth. To sceptics, it reflected a more ordinary problem: investigators were dealing with a mixture of real drones, errors and mass suggestion that never formed one coherent event.
@@ -383,8 +375,7 @@ Because authorities never produced a simple final answer, the story remained unr
 
 The eastern Colorado drone episode sits in an unusual space between conventional drone activity and classic UFO culture. Witnesses mostly described identifiable technology rather than impossible craft, yet the reporting dynamics resembled earlier UFO flaps.
 
-Like many historic [Colorado sighting]({{ 'sightings/' | relative_url }}) waves, the case showed how:
-
+Like many historic Colorado sighting waves, the case showed how:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -400,9 +391,7 @@ That shift matters because drones provide a plausible explanation for some sight
 
 In that sense, the eastern Colorado drone flap became less a story about one confirmed mystery object and more a case study in how modern sighting panics develop: a mixture of real technology, incomplete evidence, institutional confusion and rapidly spreading public interpretation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gzFkpr91bII" title="FAA in Dark Over Colorado Mystery Drones – Freedom of Information Exposes Investigation – Geeksvana" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gzFkpr91bII" target="_blank" rel="noopener noreferrer">FAA in Dark Over Colorado Mystery Drones – Freedom of Information Exposes Investigation – Geeksvana</a></p><p class="youtube-embed-meta">Channel: Geeksvana &middot; Views: 499 &middot; Uploaded: July 2020 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gzFkpr91bII" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gzFkpr91bII">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -490,117 +479,423 @@ In that sense, the eastern Colorado drone flap became less a story about one con
   </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-plains-drone-scare-became-so-confusing-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-the-eastern-plains-drone-scare-became-so-confusing-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xiaomi Fimi X8 SE Quadcopter Drone 2019 Model"><img src="https://i.ebayimg.com/images/g/14gAAeSwAdRqHreJ/s-l225.jpg" alt="Listing image for Xiaomi Fimi X8 SE Quadcopter Drone 2019 Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-plains-drone-scare-became-so-confusing-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-the-eastern-plains-drone-scare-became-so-confusing-drone-model" target="_blank" rel="sponsored noopener noreferrer">Xiaomi Fimi X8 SE Quadcopter Drone 2019 Model</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-plains-drone-scare-became-so-confusing-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-the-eastern-plains-drone-scare-became-so-confusing-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-plains-drone-scare-became-so-confusing-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-the-eastern-plains-drone-scare-became-so-confusing-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-plains-drone-scare-became-so-confusing-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-the-eastern-plains-drone-scare-became-so-confusing-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Running Drone Robot Dewey Huey Louie Fully Painted Models Sci-Fi"><img src="https://i.ebayimg.com/images/g/ES0AAeSwxNdqAE1S/s-l225.jpg" alt="Listing image for Silent Running Drone Robot Dewey Huey Louie Fully Painted Models Sci-Fi" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-plains-drone-scare-became-so-confusing-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-the-eastern-plains-drone-scare-became-so-confusing-drone-model" target="_blank" rel="sponsored noopener noreferrer">Silent Running Drone Robot Dewey Huey Louie Fully Painted Models Sci-Fi</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-plains-drone-scare-became-so-confusing-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-the-eastern-plains-drone-scare-became-so-confusing-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-plains-drone-scare-became-so-confusing-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-the-eastern-plains-drone-scare-became-so-confusing-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-plains-drone-scare-became-so-confusing-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-the-eastern-plains-drone-scare-became-so-confusing-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Propel Drone T-65 X-Wing Model Only (Spares) No other parts!"><img src="https://i.ebayimg.com/images/g/EpQAAeSwyuRqG1Xp/s-l225.jpg" alt="Listing image for Star Wars Propel Drone T-65 X-Wing Model Only (Spares) No other parts!" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-plains-drone-scare-became-so-confusing-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-the-eastern-plains-drone-scare-became-so-confusing-drone-model" target="_blank" rel="sponsored noopener noreferrer">Star Wars Propel Drone T-65 X-Wing Model Only (Spares) No other parts!</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-plains-drone-scare-became-so-confusing-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-the-eastern-plains-drone-scare-became-so-confusing-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-plains-drone-scare-became-so-confusing-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-the-eastern-plains-drone-scare-became-so-confusing-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-plains-drone-scare-became-so-confusing-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-the-eastern-plains-drone-scare-became-so-confusing-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Propel Drone 74-Z Speeder Bike Model Only (Spares) No other parts!"><img src="https://i.ebayimg.com/images/g/3MYAAeSweFVp-57F/s-l225.jpg" alt="Listing image for Star Wars Propel Drone 74-Z Speeder Bike Model Only (Spares) No other parts!" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-plains-drone-scare-became-so-confusing-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-the-eastern-plains-drone-scare-became-so-confusing-drone-model" target="_blank" rel="sponsored noopener noreferrer">Star Wars Propel Drone 74-Z Speeder Bike Model Only (Spares) No other parts!</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-plains-drone-scare-became-so-confusing-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-the-eastern-plains-drone-scare-became-so-confusing-drone-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone model">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-plains-drone-scare-became-so-confusing-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-the-eastern-plains-drone-scare-became-so-confusing-drone-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-eastern-plains-drone-scare-became-so-confusing-drone-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone model" data-ebay-reference="why-the-eastern-plains-drone-scare-became-so-confusing-drone-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: 2019–20 Colorado drone sightings  
-   Link: [https://en.wikipedia.org/wiki/2019%E2%80%9320_Colorado_drone_sightings](https://en.wikipedia.org/wiki/2019%E2%80%9320_Colorado_drone_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/2019%E2%80%9320_Colorado_drone_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2019%E2%80%9320_Colorado_drone_sightings</a>  
 
 2. <a id="endnote-2"></a>
    Source: time.com  
-   Link: [https://time.com/5757819/drones-colorado-nebraska/](https://time.com/5757819/drones-colorado-nebraska/)  
+   Link: <a href="https://time.com/5757819/drones-colorado-nebraska/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5757819/drones-colorado-nebraska/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Officials, including sheriffs and the FAA, are investigating the drones, which remain unidentified. Drones, flying at around 150 to 200 f...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: kunc.org  
    Title: documents indicate how little officials knew about mysterious drones last year  
-   Link: [https://www.kunc.org/news/2021-07-25/documents-indicate-how-little-officials-knew-about-mysterious-drones-last-year](https://www.kunc.org/news/2021-07-25/documents-indicate-how-little-officials-knew-about-mysterious-drones-last-year)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KUNCDocuments Indicate How Little Officials Knew About...Jul 25, 2021 — The Colorado Department of Homeland Security issued a press rele...</p></details>
+   Link: <a href="https://www.kunc.org/news/2021-07-25/documents-indicate-how-little-officials-knew-about-mysterious-drones-last-year" target="_blank" rel="noopener noreferrer nofollow">https://www.kunc.org/news/2021-07-25/documents-indicate-how-little-officials-knew-about-mysterious-drones-last-year</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Documents Indicate How Little Officials Knew About...Jul 25, 2021 — The Colorado Department of Homeland Security issued a press rele...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: 9news.com  
-   Link: [https://www.9news.com/article/news/local/colorado-mysterious-drones/73-bf83cbe3-bf35-4c93-a4da-7e1c2e8c1774](https://www.9news.com/article/news/local/colorado-mysterious-drones/73-bf83cbe3-bf35-4c93-a4da-7e1c2e8c1774)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>9NewsWho&#x27;s responsible for the mystery drones in Colorado?Dec 30, 2019 — DARPA is experimenting with using a swarm of drones, but an agen...</p></details>
+   Link: <a href="https://www.9news.com/article/news/local/colorado-mysterious-drones/73-bf83cbe3-bf35-4c93-a4da-7e1c2e8c1774" target="_blank" rel="noopener noreferrer nofollow">https://www.9news.com/article/news/local/colorado-mysterious-drones/73-bf83cbe3-bf35-4c93-a4da-7e1c2e8c1774</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Who&#x27;s responsible for the mystery drones in Colorado?Dec 30, 2019 — DARPA is experimenting with using a swarm of drones, but an agen...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: gazette.com  
-   Link: [https://gazette.com/2020/01/05/colorado-drone-mystery-sightings-finally-might-be-solved-c8d375be-2e6f-11ea-85b7-2335e1d42476/](https://gazette.com/2020/01/05/colorado-drone-mystery-sightings-finally-might-be-solved-c8d375be-2e6f-11ea-85b7-2335e1d42476/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GazetteColorado drone mystery sightings finally might be solvedJan 5, 2020 — The mysterious drone swarms spotted over Colorado that have...</p></details>
+   Link: <a href="https://gazette.com/2020/01/05/colorado-drone-mystery-sightings-finally-might-be-solved-c8d375be-2e6f-11ea-85b7-2335e1d42476/" target="_blank" rel="noopener noreferrer nofollow">https://gazette.com/2020/01/05/colorado-drone-mystery-sightings-finally-might-be-solved-c8d375be-2e6f-11ea-85b7-2335e1d42476/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Colorado drone mystery sightings finally might be solvedJan 5, 2020 — The mysterious drone swarms spotted over Colorado that have...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Colorado](https://en.wikipedia.org/wiki/Colorado)  
+   Link: <a href="https://en.wikipedia.org/wiki/Colorado" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Colorado</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ColoradoColorado is the eighth-largest U.S. state by area and the 20th by population. The United States Census Bureau estimated the po...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/US/drone-task-force-investigating-mysterious-sightings-colorado-nebraska/story?id=68102066](https://abcnews.com/US/drone-task-force-investigating-mysterious-sightings-colorado-nebraska/story?id=68102066)  
+   Link: <a href="https://abcnews.com/US/drone-task-force-investigating-mysterious-sightings-colorado-nebraska/story?id=68102066" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/drone-task-force-investigating-mysterious-sightings-colorado-nebraska/story?id=68102066</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsNew drone task force investigating mysterious sightings...New drone task force investigating mysterious sightings across Colorad...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cpr.org  
    Title: drone mystery spreads more sightings close calls no answers  
-   Link: [https://www.cpr.org/2020/01/10/drone-mystery-spreads-more-sightings-close-calls-no-answers/](https://www.cpr.org/2020/01/10/drone-mystery-spreads-more-sightings-close-calls-no-answers/)  
+   Link: <a href="https://www.cpr.org/2020/01/10/drone-mystery-spreads-more-sightings-close-calls-no-answers/" target="_blank" rel="noopener noreferrer nofollow">https://www.cpr.org/2020/01/10/drone-mystery-spreads-more-sightings-close-calls-no-answers/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Colorado Public RadioDrone Mystery Spreads: More Sightings, Close Calls, No...10 Jan 2020 — Concerns about the mysterious drones reporte...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cpr.org  
    Title: Colorado Public Radio Locals Are Creeped Out  
-   Link: [https://www.cpr.org/2020/01/06/locals-are-creeped-out-authorities-are-concerned-the-colorado-drone-mystery-buzzes-on/](https://www.cpr.org/2020/01/06/locals-are-creeped-out-authorities-are-concerned-the-colorado-drone-mystery-buzzes-on/)  
+   Link: <a href="https://www.cpr.org/2020/01/06/locals-are-creeped-out-authorities-are-concerned-the-colorado-drone-mystery-buzzes-on/" target="_blank" rel="noopener noreferrer nofollow">https://www.cpr.org/2020/01/06/locals-are-creeped-out-authorities-are-concerned-the-colorado-drone-mystery-buzzes-on/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Authorities Are Concerned. The...6 Jan 2020 — People have reported drones flying over northeastern Colorado and southwestern Nebraska fo...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: twz.com  
    Title: faa documents offer unprecedented look into colorado drone mystery  
-   Link: [https://www.twz.com/34662/faa-documents-offer-unprecedented-look-into-colorado-drone-mystery](https://www.twz.com/34662/faa-documents-offer-unprecedented-look-into-colorado-drone-mystery)  
+   Link: <a href="https://www.twz.com/34662/faa-documents-offer-unprecedented-look-into-colorado-drone-mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/34662/faa-documents-offer-unprecedented-look-into-colorado-drone-mystery</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneNewly Released FAA Documents Give Unprecedented...Jul 16, 2020 — Hundreds of pages of documents provide consistent detailed...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: twz.com  
-   Link: [https://www.twz.com/32310/internal-air-force-emails-show-confusion-and-concern-over-colorados-mystery-drones](https://www.twz.com/32310/internal-air-force-emails-show-confusion-and-concern-over-colorados-mystery-drones)  
+   Link: <a href="https://www.twz.com/32310/internal-air-force-emails-show-confusion-and-concern-over-colorados-mystery-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/32310/internal-air-force-emails-show-confusion-and-concern-over-colorados-mystery-drones</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneInternal Air Force Emails Show Confusion And Concern...24 Feb 2020 — Emails obtained through FOIA show that security forces...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/3365255513792975/posts/4451400065178509/](https://www.facebook.com/groups/3365255513792975/posts/4451400065178509/)  
+   Link: <a href="https://www.facebook.com/groups/3365255513792975/posts/4451400065178509/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3365255513792975/posts/4451400065178509/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why facts matter in mystery drone sightingsBefore we jump to conclusions every time someone reports a “mystery drone,” this is a must-rea...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/552059654373970/posts/555402627373006/](https://www.facebook.com/groups/552059654373970/posts/555402627373006/)  
+   Link: <a href="https://www.facebook.com/groups/552059654373970/posts/555402627373006/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/552059654373970/posts/555402627373006/</a>  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: the fbi faa and air force are investigating who is responsible for packs of unma  
-   Link: [https://www.facebook.com/CBSEveningNews/posts/the-fbi-faa-and-air-force-are-investigating-who-is-responsible-for-packs-of-unma/10158224978899073/](https://www.facebook.com/CBSEveningNews/posts/the-fbi-faa-and-air-force-are-investigating-who-is-responsible-for-packs-of-unma/10158224978899073/)  
+   Link: <a href="https://www.facebook.com/CBSEveningNews/posts/the-fbi-faa-and-air-force-are-investigating-who-is-responsible-for-packs-of-unma/10158224978899073/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSEveningNews/posts/the-fbi-faa-and-air-force-are-investigating-who-is-responsible-for-packs-of-unma/10158224978899073/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The FBI, FAA and Air Force are investigating who is...6 Jan 2020 — The FBI, FAA and Air Force are investigating who is responsible for p...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: theguardian.com  
    Title: attack of the drones the mystery of disappearing swarms in the us midwest  
-   Link: [https://www.theguardian.com/world/2021/apr/18/attack-of-the-drones-the-mystery-of-disappearing-swarms-in-the-us-midwest](https://www.theguardian.com/world/2021/apr/18/attack-of-the-drones-the-mystery-of-disappearing-swarms-in-the-us-midwest)  
+   Link: <a href="https://www.theguardian.com/world/2021/apr/18/attack-of-the-drones-the-mystery-of-disappearing-swarms-in-the-us-midwest" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2021/apr/18/attack-of-the-drones-the-mystery-of-disappearing-swarms-in-the-us-midwest</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Attack of the drones: the mystery of disappearing swarms in...Apr 19, 2021 — From December 2019 to January 2020, residents of the three...</p></details>
    Published: December 2019  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=2vCuO5s9sCQ](https://www.youtube.com/watch?v=2vCuO5s9sCQ)  
+   Link: <a href="https://www.youtube.com/watch?v=2vCuO5s9sCQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2vCuO5s9sCQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA, other agencies investigating mysterious Colorado drone...FAA, other agencies investigating mysterious Colorado drone sightings; rem...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=RlQOLibG3iM](https://www.youtube.com/watch?v=RlQOLibG3iM)  
+   Link: <a href="https://www.youtube.com/watch?v=RlQOLibG3iM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RlQOLibG3iM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI investigating drones flying over Colorado and other statesThe FBI is helping investigate the growing mystery of unidentified drones f...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=gzFkpr91bII](https://www.youtube.com/watch?v=gzFkpr91bII)  
+   Link: <a href="https://www.youtube.com/watch?v=gzFkpr91bII" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gzFkpr91bII</a>  
 
 19. <a id="endnote-19"></a>
    Source: cbsnews.com  
-   Link: [https://www.cbsnews.com/news/mysterious-drone-swarms-3-states-fbi-investigation-latest-updates-today-2020-01-06/](https://www.cbsnews.com/news/mysterious-drone-swarms-3-states-fbi-investigation-latest-updates-today-2020-01-06/)  
+   Link: <a href="https://www.cbsnews.com/news/mysterious-drone-swarms-3-states-fbi-investigation-latest-updates-today-2020-01-06/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/mysterious-drone-swarms-3-states-fbi-investigation-latest-updates-today-2020-01-06/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force are investigating a mystery in the skies over Colorado, Nebraska and Kansas. Swarms of drones have been spotted...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: planeandpilotmag.com  
    Title: and 10 p.m. each night, moving in synchronized grid  
-   Link: [https://planeandpilotmag.com/mysteries-of-flight-drone-swarms-in-2019-2020/](https://planeandpilotmag.com/mysteries-of-flight-drone-swarms-in-2019-2020/)  
+   Link: <a href="https://planeandpilotmag.com/mysteries-of-flight-drone-swarms-in-2019-2020/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/mysteries-of-flight-drone-swarms-in-2019-2020/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteries Of Flight: Drone Swarms In 2019-2020Sep 16, 2020 — The swarms, often including as many as 30 drones at once, were observed betw...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/eiqi5u/whats_behind_the_drone_swarms_in_colorado_and/](https://www.reddit.com/r/UnresolvedMysteries/comments/eiqi5u/whats_behind_the_drone_swarms_in_colorado_and/)  
+   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/eiqi5u/whats_behind_the_drone_swarms_in_colorado_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/eiqi5u/whats_behind_the_drone_swarms_in_colorado_and/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>at least 17 drones at a time (a few more recent sources say 30).Read more...</p></details>

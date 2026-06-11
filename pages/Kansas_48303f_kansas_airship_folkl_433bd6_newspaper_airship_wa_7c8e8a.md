@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /folklore/
 nav_short_title: Airship wave
 title: How newspaper airships became Kansas UFO lore
-title_full: How newspaper airships became Kansas UFO lore | Folklore
+title_full: How newspaper airships became Kansas UFO lore
 display_title_short: Airship wave
 display_title: Airship wave
 heading_title: How newspaper airships became Kansas UFO lore
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:28:32'
-parent_title: When Kansas UFO Stories Become Folklore | Kansas UFOs
+parent_title: When Kansas UFO Stories Become Folklore
 parent_permalink: /folklore/
 parent_nav_short_title: Folklore
 parent_heading_title: When Kansas UFO Stories Become Folklore
@@ -250,10 +250,9 @@ image: /assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_newspaper_airshi
 
 ## Introduction
 
-In the late 1890s, long before the term **“UFO”** entered popular language, an extraordinary pattern of reports circulated in American newspapers: the so‑called **mystery airship wave** of 1896–1897. Beginning on the US West Coast and spreading eastward, these reports described unusual aerial objects that, to many contemporaries, seemed more like mechanical flying machines than mere lights in the sky. In [Kansas]({{ 'what-did-kansas-really-see/' | relative_url }}), this media frenzy seeded some of the state’s most persistent early folkloric UFO tales, blending local storytelling with national sensationalism. Examining how newspapers shaped these narratives helps explain why the era’s airship reports still resonate in UFO [folklore]({{ 'folklore/' | relative_url }}) today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
+In the late 1890s, long before the term **“UFO”** entered popular language, an extraordinary pattern of reports circulated in American newspapers: the so‑called **mystery airship wave** of 1896–1897. Beginning on the US West Coast and spreading eastward, these reports described unusual aerial objects that, to many contemporaries, seemed more like mechanical flying machines than mere lights in the sky. In Kansas, this media frenzy seeded some of the state’s most persistent early folkloric UFO tales, blending local storytelling with national sensationalism. Examining how newspapers shaped these narratives helps explain why the era’s airship reports still resonate in UFO [folklore]({{ 'folklore/' | relative_url }}) today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
 
-
-<img src="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_newspaper_airship_wa_7c8e8a-Illustration-1-light.svg" | relative_url }}" alt="Airship wave illustration 1" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_newspaper_airship_wa_7c8e8a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_newspaper_airship_wa_7c8e8a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_newspaper_airship_wa_7c8e8a-Illustration-1-dark.svg" | relative_url }}" alt="Airship wave illustration 1" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_newspaper_airship_wa_7c8e8a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_newspaper_airship_wa_7c8e8a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How the National Airship Scare Reached Kansas
 
 The phenomenon now called the **1896–97 airship wave** began in **California in November 1896**, when residents in cities such as Sacramento and San Francisco reported seeing bright, cigar‑shaped objects moving slowly across the night sky. Initial accounts often included technical details — searchlights, propellers, and distinctive silhouettes — that suggested, at least to newspaper readers, that these were real mechanical craft rather than stars or meteors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
@@ -261,7 +260,6 @@ The phenomenon now called the **1896–97 airship wave** began in **California i
 From these first reports, the story spread through a highly competitive newspaper environment. Editors across the country reprinted and expanded the narratives, adding local sightings and interviews with excited or puzzled witnesses. By early **1897**, accounts of mysterious airships had reached the **Midwest and Plains states**, including **Kansas**, with local papers reporting lights, shapes, and movements “not explainable by known aerial phenomena.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/waves/the-airship-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">UFO Insight The Airship Sightings</span><span class="citation-popover-snippet">UFO InsightThe Airship Sightings - UFO InsightAugust 24, 2019...</span><span class="citation-popover-meta">Published: August 24, 2019</span></span></span>
 
 This spread was not organic in the modern social‑media sense, but it mirrored how national stories were syndicated at the time: a vivid account from the West inspired copycat reports, spur‑of‑the‑moment embellishments, and front‑page speculation in smaller markets. The regional press played a key role in turning isolated reports into a perceived wave. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nThHfFdS8b4" title="1896: Mysterious Airships" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nThHfFdS8b4" target="_blank" rel="noopener noreferrer">1896: Mysterious Airships</a></p><p class="youtube-embed-meta">Channel: The History Guy: History Deserves to Be Remembered &middot; Views: 197.6K &middot; Uploaded: November 2025 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nThHfFdS8b4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nThHfFdS8b4">Open on YouTube</a></p></div></div></div>
 
@@ -271,21 +269,44 @@ One of the curious features of the airship wave was the **mechanical richness** 
 
 Several factors help explain these vivid, machine‑like descriptions:
 
-* **Public fascination with invention**: The late nineteenth century was a time of rapid technological change. The idea that inventors might soon conquer powered flight — years before the Wright brothers — was plausible and exciting. Newspapers tapped into that curiosity, framing sightings as either cutting‑edge aeronautics or evidence of secret prototypes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelks.com">[Travel Kansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelks.com</span><span class="citation-popover-title">Travel Kansas Airship Alert! | KANSAS! Magazine</span><span class="citation-popover-snippet">Travel KansasAirship Alert! | KANSAS! MagazineJune 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
-* **Newspaper competition**: Editors often elaborated stories with mechanical details because dramatic copy sold papers. A column reporting “lights in the sky” might easily become “an airship with wings, searchlights and a propeller” within a day or two of syndication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://disclosdex.com/documents/1896-97-mystery-airship-newspaper-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-title">1896 97 mystery airship newspaper archive</span><span class="citation-popover-snippet">Disclosdex1896-97 Mystery Airship Newspaper Archive | DisclosdexNovember 18, 1896...</span><span class="citation-popover-meta">Published: November 18, 1896</span></span></span>
+* **Public fascination with invention**: The late nineteenth century was a time of rapid technological change. The idea that inventors might soon conquer powered flight — years before the Wright brothers — was plausible and exciting. Newspapers tapped into that curiosity, framing sightings as either cutting‑edge aeronautics or evidence of secret prototypes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelks.com">[Travel Kansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelks.com</span><span class="citation-popover-title">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span><span class="citation-popover-snippet">Travel KansasAirship Alert! &#124; KANSAS! MagazineJune 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+* **Newspaper competition**: Editors often elaborated stories with mechanical details because dramatic copy sold papers. A column reporting “lights in the sky” might easily become “an airship with wings, searchlights and a propeller” within a day or two of syndication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://disclosdex.com/documents/1896-97-mystery-airship-newspaper-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-title">1896 97 mystery airship newspaper archive</span><span class="citation-popover-snippet">1896-97 Mystery Airship Newspaper Archive &#124; DisclosdexNovember 18, 1896...</span><span class="citation-popover-meta">Published: November 18, 1896</span></span></span>
 * **Cultural templates**: Without photographs or rapid communication, many readers relied on familiar mechanical imagery — balloons, dirigibles, carriages — to interpret ambiguous lights. The Victorian imagination was already populated by speculative machines in fiction and lectures, which helped shape how ambiguous sky‑watches were narrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
 
 That cultural mixture meant that when newspapers in **Kansas** reprinted or adapted national airship stories, they did so using a template that emphasised **constructive detail**: a tangible machine, not just an unexplained light.
 
-
-<img src="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_newspaper_airship_wa_7c8e8a-Illustration-2-light.svg" | relative_url }}" alt="Airship wave illustration 2" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_newspaper_airship_wa_7c8e8a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_newspaper_airship_wa_7c8e8a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_newspaper_airship_wa_7c8e8a-Illustration-2-dark.svg" | relative_url }}" alt="Airship wave illustration 2" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_newspaper_airship_wa_7c8e8a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_newspaper_airship_wa_7c8e8a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Later UFO Writers Reinterpreted Airship Tales
 
 Decades after the airship wave faded from daily newspapers, **UFO researchers in the mid‑twentieth century** rediscovered many of these old reports and reframed them as proto‑UFO cases. In the 1960s and 1970s, archives of nineteenth‑century newspapers were systematically combed, and airship narratives were collected in books and articles as early “flying saucers.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
 
-Within this revival, Kansas stories — especially the **Le Roy/Vernon airship account** — became touchstones for how early aerial mysteries cross‑fertilised with modern UFO lore. Writers sometimes suggested that descriptions of crews, mechanical features, or cattle interactions were early parallels to mid‑twentieth‑century UFO narratives involving beings and technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelks.com">[Travel Kansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelks.com</span><span class="citation-popover-title">Travel Kansas Airship Alert! | KANSAS! Magazine</span><span class="citation-popover-snippet">Travel KansasAirship Alert! | KANSAS! MagazineJune 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+Within this revival, Kansas stories — especially the **Le Roy/Vernon airship account** — became touchstones for how early aerial mysteries cross‑fertilised with modern UFO lore. Writers sometimes suggested that descriptions of crews, mechanical features, or cattle interactions were early parallels to mid‑twentieth‑century UFO narratives involving beings and technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelks.com">[Travel Kansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelks.com</span><span class="citation-popover-title">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span><span class="citation-popover-snippet">Travel KansasAirship Alert! &#124; KANSAS! MagazineJune 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
 However, the retelling process often blurred two key factors:
+
+1. **Newspaper dynamics**: Early reports were shaped by editorial elaboration, not independent investigation. Later UFO writers sometimes took the mechanical richness of these reports at face value, without accounting for how competitive journalism of the era might have amplified or invented detail. [Disclosdex](https://disclosdex.com/events/1896-1897-mystery-airship-wave)
+2. **Cultural evolution**: The later framing tended to read nineteenth‑century sightings backward through the lens of twentieth‑century UFO concepts. Objects described with Victorian‑era mechanical terms were retrofitted into a narrative lineage leading to flying saucers. [Wikipedia](#endnote-1 "Endnote 1")
+
+Recent historical research emphasises that this reinterpretation risks conflating **folkloric content** with **objective evidence**. The same newspapers that recorded airship sightings also published hoaxes, parodies, and imagined inventions, and the strongest documented “evidence” of these events remains text printed for readers, not independently verified physical phenomena. [Disclosdex](https://disclosdex.com/documents/1896-97-mystery-airship-newspaper-archive)
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_KWnz9JZkVA" title="Phantom Airships of the 19th Century | The Dark Histories Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_KWnz9JZkVA" target="_blank" rel="noopener noreferrer">Phantom Airships of the 19th Century | The Dark Histories Podcast</a></p><p class="youtube-embed-meta">Channel: Dark Histories &middot; Views: 12.4K &middot; Uploaded: March 2021 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_KWnz9JZkVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_KWnz9JZkVA">Open on YouTube</a></p></div></div></div>
+
+## Airship Reports as Folklore Engines in Kansas
+
+In Kansas and beyond, the airship wave functioned as an **engine of folklore** precisely because of how newspapers mediated the story. Local retellings, whether sincere or embellished, embedded the spectacle into community memory. Over time, these narratives were woven into regional lore, cited by later chroniclers as curious precedents for UFO encounters.
+
+This folklore‑creation mechanism helps explain why certain airship tales persisted: they combined **sensational description**, **local named witnesses**, and **print documentation** in a period before stringent journalistic standards. In that environment, a story with engaging mechanical detail could take on a life of its own, irrespective of its factual basis. [Wikipedia](#endnote-1 "Endnote 1")
+
+By understanding the **airship wave as a media phenomenon**, we can see how nineteenth‑century newspapers helped seed narratives that later UFO writers would revive — not because the original sightings were necessarily inexplicable, but because the stories were vivid, mechanical, and ripe for folklore. [Travel Kansas](#endnote-6 "Snippet: Travel KansasAirship Alert! | KANSAS! MagazineJune 16, 2022")
+
+<img src="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_newspaper_airship_wa_7c8e8a-Illustration-3-dark.svg" | relative_url }}" alt="Airship wave illustration 3" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_newspaper_airship_wa_7c8e8a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_newspaper_airship_wa_7c8e8a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why This Matters in Kansas UFO History
+
+Kansas airship folklore illustrates a broader truth about early UFO history: **not all historical reports can be treated as unexplained phenomena without considering how they were produced and propagated**. The 1896–97 airship narrative shows that sensational reporting, cultural expectations, and the mechanics of news syndication can create enduring mystery long after the original context has faded.
+
+For students of Kansas UFO lore, recognising the **newspaper engine behind the airship wave** helps distinguish between **media‑driven folklore** and **incidents with independently corroborated evidence**. That distinction is essential for sober, evidence‑aware approaches to the state’s rich but complex aerial history. [Wikipedia](#endnote-1 "Endnote 1")
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FFkhH7t7e0w" title="UFO Sightings in 1897 Arkansas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FFkhH7t7e0w" target="_blank" rel="noopener noreferrer">UFO Sightings in 1897 Arkansas</a></p><p class="youtube-embed-meta">Channel: Old State House Museum &middot; Views: 4.6K &middot; Uploaded: November 2015 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FFkhH7t7e0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FFkhH7t7e0w">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -373,7 +394,7 @@ However, the retelling process often blurred two key factors:
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -383,111 +404,36 @@ However, the retelling process often blurred two key factors:
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-newspaper-airships-became-kansas-ufo-lore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="how-newspaper-airships-became-kansas-ufo-lore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Zeppelin Airship Aviation Poster Print A3/A4"><img src="https://i.ebayimg.com/images/g/QFkAAOSwDmxhQhjm/s-l225.jpg" alt="Listing image for Vintage Zeppelin Airship Aviation Poster Print A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-newspaper-airships-became-kansas-ufo-lore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="how-newspaper-airships-became-kansas-ufo-lore-airship-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Zeppelin Airship Aviation Poster Print A3/A4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-newspaper-airships-became-kansas-ufo-lore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="how-newspaper-airships-became-kansas-ufo-lore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-newspaper-airships-became-kansas-ufo-lore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="how-newspaper-airships-became-kansas-ufo-lore-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -495,15 +441,15 @@ However, the retelling process often blurred two key factors:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-newspaper-airships-became-kansas-ufo-lore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="how-newspaper-airships-became-kansas-ufo-lore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cofod Zeppelin Airship Hindenburg Burning Photo Canvas Wall Art Print Poster"><img src="https://i.ebayimg.com/images/g/-bQAAOSwihBkUl8G/s-l225.jpg" alt="Listing image for Cofod Zeppelin Airship Hindenburg Burning Photo Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-newspaper-airships-became-kansas-ufo-lore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="how-newspaper-airships-became-kansas-ufo-lore-airship-poster" target="_blank" rel="sponsored noopener noreferrer">Cofod Zeppelin Airship Hindenburg Burning Photo Canvas Wall Art Print Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-newspaper-airships-became-kansas-ufo-lore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="how-newspaper-airships-became-kansas-ufo-lore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-newspaper-airships-became-kansas-ufo-lore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="how-newspaper-airships-became-kansas-ufo-lore-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -511,15 +457,15 @@ However, the retelling process often blurred two key factors:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-newspaper-airships-became-kansas-ufo-lore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="how-newspaper-airships-became-kansas-ufo-lore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airship in Starry Night Sky Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/qlMAAeSwrDZpwYj3/s-l225.jpg" alt="Listing image for Airship in Starry Night Sky Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-newspaper-airships-became-kansas-ufo-lore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="how-newspaper-airships-became-kansas-ufo-lore-airship-poster" target="_blank" rel="sponsored noopener noreferrer">Airship in Starry Night Sky Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-newspaper-airships-became-kansas-ufo-lore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="how-newspaper-airships-became-kansas-ufo-lore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-newspaper-airships-became-kansas-ufo-lore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="how-newspaper-airships-became-kansas-ufo-lore-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -527,15 +473,15 @@ However, the retelling process often blurred two key factors:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-newspaper-airships-became-kansas-ufo-lore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="how-newspaper-airships-became-kansas-ufo-lore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AIRSHIP ZEPPELIN POSTER PRINT - CHOOSE DESIGN/SIZE/LAMINATE/FRAMED OPTION a"><img src="https://i.ebayimg.com/images/g/1GgAAeSwfwZqGEve/s-l225.jpg" alt="Listing image for AIRSHIP ZEPPELIN POSTER PRINT - CHOOSE DESIGN/SIZE/LAMINATE/FRAMED OPTION a" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-newspaper-airships-became-kansas-ufo-lore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="how-newspaper-airships-became-kansas-ufo-lore-airship-poster" target="_blank" rel="sponsored noopener noreferrer">AIRSHIP ZEPPELIN POSTER PRINT - CHOOSE DESIGN/SIZE/LAMINATE/FRAMED OPTION a</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-newspaper-airships-became-kansas-ufo-lore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="how-newspaper-airships-became-kansas-ufo-lore-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-newspaper-airships-became-kansas-ufo-lore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="how-newspaper-airships-became-kansas-ufo-lore-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -543,7 +489,7 @@ However, the retelling process often blurred two key factors:
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-aea0ef-how-newspaper-airships-became-kansas-ufo-lore-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-newspaper-airships-became-kansas-ufo-lore-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="how-newspaper-airships-became-kansas-ufo-lore-airship-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -620,17 +566,31 @@ However, the retelling process often blurred two key factors:
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -643,42 +603,73 @@ However, the retelling process often blurred two key factors:
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -693,93 +684,71 @@ However, the retelling process often blurred two key factors:
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
-1. **Newspaper dynamics**: Early reports were shaped by editorial elaboration, not independent investigation. Later UFO writers sometimes took the mechanical richness of these reports at face value, without accounting for how competitive journalism of the era might have amplified or invented detail. [Disclosdex](https://disclosdex.com/events/1896-1897-mystery-airship-wave)
-2. **Cultural evolution**: The later framing tended to read nineteenth‑century sightings backward through the lens of twentieth‑century UFO concepts. Objects described with Victorian‑era mechanical terms were retrofitted into a narrative lineage leading to flying saucers. [Wikipedia](#endnote-1 "Endnote 1")
-
-Recent historical research emphasises that this reinterpretation risks conflating **folkloric content** with **objective evidence**. The same newspapers that recorded airship sightings also published hoaxes, parodies, and imagined inventions, and the strongest documented “evidence” of these events remains text printed for readers, not independently verified physical phenomena. [Disclosdex](https://disclosdex.com/documents/1896-97-mystery-airship-newspaper-archive)
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_KWnz9JZkVA" title="Phantom Airships of the 19th Century | The Dark Histories Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_KWnz9JZkVA" target="_blank" rel="noopener noreferrer">Phantom Airships of the 19th Century | The Dark Histories Podcast</a></p><p class="youtube-embed-meta">Channel: Dark Histories &middot; Views: 12.4K &middot; Uploaded: March 2021 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_KWnz9JZkVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_KWnz9JZkVA">Open on YouTube</a></p></div></div></div>
-
-## Airship Reports as Folklore Engines in Kansas
-
-In Kansas and beyond, the airship wave functioned as an **engine of folklore** precisely because of how newspapers mediated the story. Local retellings, whether sincere or embellished, embedded the spectacle into community memory. Over time, these narratives were woven into regional lore, cited by later chroniclers as curious precedents for UFO encounters.
-
-This folklore‑creation mechanism helps explain why certain airship tales persisted: they combined **sensational description**, **local named witnesses**, and **print documentation** in a period before stringent journalistic standards. In that environment, a story with engaging mechanical detail could take on a life of its own, irrespective of its factual basis. [Wikipedia](#endnote-1 "Endnote 1")
-
-By understanding the **airship wave as a media phenomenon**, we can see how nineteenth‑century newspapers helped seed narratives that later UFO writers would revive — not because the original sightings were necessarily inexplicable, but because the stories were vivid, mechanical, and ripe for folklore. [Travel Kansas](#endnote-6 "Snippet: Travel KansasAirship Alert! | KANSAS! MagazineJune 16, 2022")
-
-
-<img src="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_newspaper_airship_wa_7c8e8a-Illustration-3-light.svg" | relative_url }}" alt="Airship wave illustration 3" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_newspaper_airship_wa_7c8e8a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_newspaper_airship_wa_7c8e8a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Why This Matters in Kansas UFO History
-
-Kansas airship folklore illustrates a broader truth about early UFO history: **not all historical reports can be treated as unexplained phenomena without considering how they were produced and propagated**. The 1896–97 airship narrative shows that sensational reporting, cultural expectations, and the mechanics of news syndication can create enduring mystery long after the original context has faded.
-
-For students of Kansas UFO lore, recognising the **newspaper engine behind the airship wave** helps distinguish between **media‑driven folklore** and **incidents with independently corroborated evidence**. That distinction is essential for sober, evidence‑aware approaches to the state’s rich but complex aerial history. [Wikipedia](#endnote-1 "Endnote 1")
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FFkhH7t7e0w" title="UFO Sightings in 1897 Arkansas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FFkhH7t7e0w" target="_blank" rel="noopener noreferrer">UFO Sightings in 1897 Arkansas</a></p><p class="youtube-embed-meta">Channel: Old State House Museum &middot; Views: 4.6K &middot; Uploaded: November 2015 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FFkhH7t7e0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FFkhH7t7e0w">Open on YouTube</a></p></div></div></div>
 
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Mystery airship  
-   Link: [https://en.wikipedia.org/wiki/Mystery_airship](https://en.wikipedia.org/wiki/Mystery_airship)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
 
 2. <a id="endnote-2"></a>
    Source: everything.explained.today  
    Title: Everything Explained Today Mystery airship explained  
-   Link: [https://everything.explained.today/Mystery_airship/](https://everything.explained.today/Mystery_airship/)  
+   Link: <a href="https://everything.explained.today/Mystery_airship/" target="_blank" rel="noopener noreferrer nofollow">https://everything.explained.today/Mystery_airship/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery airship explained...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: disclosdex.com  
    Title: 1896 97 mystery airship newspaper archive  
-   Link: [https://disclosdex.com/documents/1896-97-mystery-airship-newspaper-archive](https://disclosdex.com/documents/1896-97-mystery-airship-newspaper-archive)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosdex1896-97 Mystery Airship Newspaper Archive | DisclosdexNovember 18, 1896...</p></details>
+   Link: <a href="https://disclosdex.com/documents/1896-97-mystery-airship-newspaper-archive" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/documents/1896-97-mystery-airship-newspaper-archive</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>1896-97 Mystery Airship Newspaper Archive | DisclosdexNovember 18, 1896...</p></details>
    Published: November 18, 1896  
 
 4. <a id="endnote-4"></a>
    Source: disclosdex.com  
    Title: L. Lowery, Mayor Adolph Sut  
-   Link: [https://disclosdex.com/events/1896-1897-mystery-airship-wave](https://disclosdex.com/events/1896-1897-mystery-airship-wave)  
+   Link: <a href="https://disclosdex.com/events/1896-1897-mystery-airship-wave" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/events/1896-1897-mystery-airship-wave</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Airship Wave | DisclosdexMYSTERY AIRSHIP WAVE Sighting Newspapers in 1896-1897 reported luminous cigar-shaped airships across Nor...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ufoinsight.com  
    Title: UFO Insight The Airship Sightings  
-   Link: [https://www.ufoinsight.com/ufos/waves/the-airship-sightings](https://www.ufoinsight.com/ufos/waves/the-airship-sightings)  
+   Link: <a href="https://www.ufoinsight.com/ufos/waves/the-airship-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/waves/the-airship-sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightThe Airship Sightings - UFO InsightAugust 24, 2019...</p></details>
    Published: August 24, 2019  
 
 6. <a id="endnote-6"></a>
    Source: travelks.com  
    Title: Travel Kansas Airship Alert! | KANSAS! Magazine  
-   Link: [https://www.travelks.com/kansas-magazine/articles/post/airship-alert/](https://www.travelks.com/kansas-magazine/articles/post/airship-alert/)  
+   Link: <a href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow">https://www.travelks.com/kansas-magazine/articles/post/airship-alert/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travel KansasAirship Alert! | KANSAS! MagazineJune 16, 2022...</p></details>
    Published: June 16, 2022  
 
 7. <a id="endnote-7"></a>
    Source: creativespirits.net  
    Title: Mystery airship | Creativespirits.net  
-   Link: [https://www.creativespirits.net/mystery-airship/](https://www.creativespirits.net/mystery-airship/)  
+   Link: <a href="https://www.creativespirits.net/mystery-airship/" target="_blank" rel="noopener noreferrer nofollow">https://www.creativespirits.net/mystery-airship/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Afterwards, reports and accounts of similar airships came from other areas, generally moving east...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: weeklyuniverse.com  
-   Link: [https://www.weeklyuniverse.com/2004/airships.htm](https://www.weeklyuniverse.com/2004/airships.htm)  
+   Link: <a href="https://www.weeklyuniverse.com/2004/airships.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.weeklyuniverse.com/2004/airships.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arts. [September 26, 2004] [WeeklyUniverse.com] Most people regard UFOs as a fairly recent phenomenon, yet mysterious objects have appear...</p></details>
    Published: September 26, 2004  
 
@@ -788,64 +757,64 @@ For students of Kansas UFO lore, recognising the **newspaper engine behind the a
 9. <a id="endnote-9"></a>
    Source: thetheory.tripod.com  
    Title: which stated that the Lord Commissioner of Mars had sent one of his e  
-   Link: [https://thetheory.tripod.com/believe/airship.htm](https://thetheory.tripod.com/believe/airship.htm)  
+   Link: <a href="https://thetheory.tripod.com/believe/airship.htm" target="_blank" rel="noopener noreferrer nofollow">https://thetheory.tripod.com/believe/airship.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wave of 1896/97AIRSHIP WAVE OF 1896/97 USA 1896 W.A The Sacramento Bee, a local newspaper printed a letter from an alleged Martian known...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: visiontimes.com  
    Title: the great airship wave of 1896 1897 americas forgotten ufo mystery  
-   Link: [https://www.visiontimes.com/2026/04/21/the-great-airship-wave-of-1896-1897-americas-forgotten-ufo-mystery.html](https://www.visiontimes.com/2026/04/21/the-great-airship-wave-of-1896-1897-americas-forgotten-ufo-mystery.html)  
+   Link: <a href="https://www.visiontimes.com/2026/04/21/the-great-airship-wave-of-1896-1897-americas-forgotten-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.visiontimes.com/2026/04/21/the-great-airship-wave-of-1896-1897-americas-forgotten-ufo-mystery.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Great Airship Wave Of 1896–1897: America’s Forgotten UFO Mystery - Vision TimesApril 21, 2026 — THE GREAT AIRSHIP WAVE OF 1896–1897...</p></details>
    Published: April 21, 2026  
 
 11. <a id="endnote-11"></a>
    Source: ufoac.com  
    Title: great panic of 1896 1897 examination of ufo sightings  
-   Link: [https://ufoac.com/great-panic-of-1896-1897-examination-of-ufo-sightings.html](https://ufoac.com/great-panic-of-1896-1897-examination-of-ufo-sightings.html)  
+   Link: <a href="https://ufoac.com/great-panic-of-1896-1897-examination-of-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/great-panic-of-1896-1897-examination-of-ufo-sightings.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examination of UFO sightingsAnd the &quot;saucers&quot; continued to plow the sky from Tacoma, Washington, to Southern California. The first record...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ufomatrix.org  
    Title: great airship wave 1896 1897 mass ufo sightings  
-   Link: [https://www.ufomatrix.org/2025/02/great-airship-wave-1896-1897-mass-ufo-sightings.html](https://www.ufomatrix.org/2025/02/great-airship-wave-1896-1897-mass-ufo-sightings.html)  
+   Link: <a href="https://www.ufomatrix.org/2025/02/great-airship-wave-1896-1897-mass-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomatrix.org/2025/02/great-airship-wave-1896-1897-mass-ufo-sightings.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Great Airship Wave (1896-1897): America’s First Mass UFO SightingsMarch 7, 2025 — THE GREAT AIRSHIP WAVE (1896-1897): AMERICA’S FIRST...</p></details>
    Published: March 7, 2025  
 
 13. <a id="endnote-13"></a>
    Source: mysterylores.com  
    Title: 1896 1897 airship wave ufo sightings america  
-   Link: [https://mysterylores.com/news/1896-1897-airship-wave-ufo-sightings-america/](https://mysterylores.com/news/1896-1897-airship-wave-ufo-sightings-america/)  
+   Link: <a href="https://mysterylores.com/news/1896-1897-airship-wave-ufo-sightings-america/" target="_blank" rel="noopener noreferrer nofollow">https://mysterylores.com/news/1896-1897-airship-wave-ufo-sightings-america/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1896/97 Airship Wave: America&#x27;s First UFO Phenomenon: MysteryLoresJanuary 24, 2026 — AMERICA&#x27;S FIRST MASS UFO EVENT | OVER 100,000 W...</p></details>
    Published: January 24, 2026  
 
 14. <a id="endnote-14"></a>
    Source: history.nebraska.gov  
    Title: look up in the air  
-   Link: [https://history.nebraska.gov/look-up-in-the-air/](https://history.nebraska.gov/look-up-in-the-air/)  
+   Link: <a href="https://history.nebraska.gov/look-up-in-the-air/" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/look-up-in-the-air/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Up in the Air...! - Nebraska State Historical SocietyOctober 29, 2022 — “LOOK! UP IN THE AIR...! Image: HN_icon GHOSTLY AIRSHIPS OF T...</p></details>
    Published: October 29, 2022  
 
 15. <a id="endnote-15"></a>
    Source: commons.wikimedia.org  
    Title: Category:Airships wave of 1896 1897  
-   Link: [https://commons.wikimedia.org/wiki/Category%3AAirships_wave_of_1896-1897](https://commons.wikimedia.org/wiki/Category%3AAirships_wave_of_1896-1897)  
+   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AAirships_wave_of_1896-1897" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AAirships_wave_of_1896-1897</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:Airships wave of 1896-1897 - Wikimedia CommonsAugust 19, 2023 — CATEGORY:AIRSHIPS WAVE OF 1896-1897 &lt;nowiki&gt;aeronav...</p></details>
    Published: August 19, 2023  
 
 16. <a id="endnote-16"></a>
    Source: thinkanomalous.com  
    Title: mystery airship sightings  
-   Link: [https://www.thinkanomalous.com/mystery-airship-sightings.html](https://www.thinkanomalous.com/mystery-airship-sightings.html)  
+   Link: <a href="https://www.thinkanomalous.com/mystery-airship-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkanomalous.com/mystery-airship-sightings.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mystery Airship&quot; Sightings, 1896 - 1897 - Think Anomalous&quot;MYSTERY AIRSHIP&quot; SIGHTINGS, 1896 - 1897 iframe Download audio m4a (right-click...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Phantom Airships of the 19th Century | The Dark Histories Podcast  
-   Link: [https://www.youtube.com/watch?v=_KWnz9JZkVA](https://www.youtube.com/watch?v=_KWnz9JZkVA)  
+   Link: <a href="https://www.youtube.com/watch?v=_KWnz9JZkVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_KWnz9JZkVA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret Origin of the Mystery Airships! (Phantom Airships, UFO, 1897) - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ufologie.patrickgross.org  
    Title: 1873 fortscott kansas  
-   Link: [https://ufologie.patrickgross.org/airship/1873-fortscott-kansas.htm](https://ufologie.patrickgross.org/airship/1873-fortscott-kansas.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/airship/1873-fortscott-kansas.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/airship/1873-fortscott-kansas.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: AIRSHIPCAT, Fort Scott, Kansas, USA, Summer 1873, the mystery airship sighting reports 1896-1897AIRSHIPCAT: ◀ Previo...</p></details>

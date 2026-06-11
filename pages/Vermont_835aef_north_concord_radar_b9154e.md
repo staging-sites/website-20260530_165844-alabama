@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-makes-vermonts-ufo-stories-endure/
 nav_short_title: North Concord
 title: The Radar Base Story Behind the Legend
-title_full: The Radar Base Story Behind the Legend | Vermont UFOs
+title_full: The Radar Base Story Behind the Legend
 display_title_short: North Concord
 display_title: North Concord
 heading_title: The Radar Base Story Behind the Legend
@@ -262,8 +262,7 @@ image: /assets/images/Vermont_835aef_north_concord_radar_b9154e-overview-social.
 
 ## Introduction
 
-The North Concord radar story is one of [Vermont]({{ 'what-makes-vermonts-ufo-stories-endure/' | relative_url }})’s most intriguing but easiest-to-overstate UFO episodes. The core claim is simple: on 19 September 1961, operators at North Concord Air Force Station on East Mountain recorded an unusual [radar target]({{ 'radar-target/' | relative_url }}) for 18 minutes, only hours before Betty and Barney Hill reported their famous encounter in neighbouring New Hampshire. That timing turned a short radar file into a durable piece of regional UFO lore. Yet the connection is weaker than the legend often implies. The Air Force treated the North Concord target as “probably balloon”, later researchers have questioned that explanation, and even pro-UFO catalogues acknowledge that a direct link to the Hill encounter remains speculative rather than demonstrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/09-RADAR_Cases/610919nconcord_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/hillradarweak.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
-
+The North Concord radar story is one of Vermont’s most intriguing but easiest-to-overstate UFO episodes. The core claim is simple: on 19 September 1961, operators at North Concord Air Force Station on East Mountain recorded an unusual [radar target]({{ 'radar-target/' | relative_url }}) for 18 minutes, only hours before Betty and Barney Hill reported their famous encounter in neighbouring New Hampshire. That timing turned a short radar file into a durable piece of regional UFO lore. Yet the connection is weaker than the legend often implies. The Air Force treated the North Concord target as “probably balloon”, later researchers have questioned that explanation, and even pro-UFO catalogues acknowledge that a direct link to the Hill encounter remains speculative rather than demonstrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/09-RADAR_Cases/610919nconcord_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/hillradarweak.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
 <img src="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-overview.webp" | relative_url }}" alt="Overview image for North Concord" loading="eager" decoding="sync" fetchpriority="high">
 For Vermont UFO history, North Concord matters less as a proven “radar confirmation” of the Hill case than as a revealing example of how Cold War military infrastructure, sparse documentation and a famous nearby abduction story can combine into folklore that outlives the original record.
@@ -278,8 +277,7 @@ That context matters because the later UFO legend rests on the credibility impli
 
 The abandoned site has since become a physical anchor for the story. Local and regional coverage often emphasises the decaying towers, the difficult mountain access and the base’s eerie Cold War atmosphere. That landscape helps explain why the North Concord account has travelled so well: it attaches an already dramatic UFO claim to a visible ruin that visitors can still imagine as a watchtower over the night sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vtdigger.org/2013/08/08/a-cold-war-relic-the-east-haven-radar-station-closed-50-years-ago/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vtdigger.org">[VTDigger]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vtdigger.org</span><span class="citation-popover-title">a cold war relic the east haven radar station closed 50 years ago</span><span class="citation-popover-snippet">a cold war relic the east haven radar station closed 50 years ago</span></span></span>
 
-
-<img src="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-1-light.svg" | relative_url }}" alt="North Concord illustration 1" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-1-dark.svg" | relative_url }}" alt="North Concord illustration 1" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The reported 1961 sighting
 
 The radar incident usually cited in connection with the Hill case occurred on 19 September 1961. The key Project Blue Book summary, reproduced in later research material, gives the location as North Concord Air Force Station, Vermont; the observation type as ground radar; the source as military; the duration as 18 minutes; and the number of objects as one. The target was described as a height-finder radar return at about 62,000 feet, first appearing around 196 degrees at 84 miles, with the return later lost near 199 degrees at 80 miles after a course described as erratic. The same summary says the target appeared like an aircraft-sized normal radar target, while the Air Force conclusion was “probably balloon”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/0450-74.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
@@ -290,21 +288,19 @@ The Air Force’s balloon explanation was cautious but not especially satisfying
 
 That leaves the North Concord radar case in a middle category. It is not merely folklore, because there was a Project Blue Book paper trail and a military radar source. It is not a clean “unknown” either, because the Air Force did offer a prosaic explanation and the public file does not provide enough raw radar data to reconstruct the event independently. The most careful reading is that North Concord was a real reported radar anomaly with an official explanation that remains open to criticism.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ph3Sx7w8LA8" title="Surviving Overnight ON TOP Abandoned Military Radar Tower" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ph3Sx7w8LA8" target="_blank" rel="noopener noreferrer">Surviving Overnight ON TOP Abandoned Military Radar Tower</a></p><p class="youtube-embed-meta">Channel: Exploring With Josh &middot; Views: 155.8K &middot; Uploaded: April 2021 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ph3Sx7w8LA8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ph3Sx7w8LA8">Open on YouTube</a></p></div></div></div>
 
 ## Why the Hill encounter changed the meaning of the radar return
 
 The North Concord case would probably be a minor radar entry without Betty and Barney Hill. The Hills, a Portsmouth, New Hampshire couple, reported a strange aerial encounter while driving through the White Mountains on the night of 19–20 September 1961. Their story later became the first widely reported alien-abduction case in the United States, with New Hampshire Public Radio noting that it was commemorated by a state historical marker on Route 3 in Lincoln in 2011. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nhpr.org/nh-news/2014-03-28/marking-history-the-betty-and-barney-hill-incident-in-lincoln" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhpr.org">[New Hampshire Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhpr.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The University of New Hampshire’s guide to the Betty and Barney Hill Papers describes the couple as returning from Montreal to Portsmouth when they saw lights approaching from the sky, later claiming two missing hours, physical after-effects such as Betty’s torn and stained dress and Barney’s scraped shoe, and later hypnotic sessions in which an abduction narrative emerged. The archive itself contains correspondence, journals, essays, manuscripts, clippings, photographs and other material relating to the Hills’ UFO experience and later UFO interest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library | University of New Hampshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-title">betty barney hill papers 1961 2006</span><span class="citation-popover-snippet">betty barney hill papers 1961 2006</span></span></span>
+The University of New Hampshire’s guide to the Betty and Barney Hill Papers describes the couple as returning from Montreal to Portsmouth when they saw lights approaching from the sky, later claiming two missing hours, physical after-effects such as Betty’s torn and stained dress and Barney’s scraped shoe, and later hypnotic sessions in which an abduction narrative emerged. The archive itself contains correspondence, journals, essays, manuscripts, clippings, photographs and other material relating to the Hills’ UFO experience and later UFO interest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library &#124; University of New Hampshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-title">betty barney hill papers 1961 2006</span><span class="citation-popover-snippet">betty barney hill papers 1961 2006</span></span></span>
 
 The possible link between Vermont and the Hill case comes from timing and geography. The North Concord radar track occurred several hours before the Hills’ reported encounter. A separate Pease Air Force Base radar note from 20 September 1961 is also often discussed with the Hill file: the record described an unidentified aircraft appearing on precision-approach radar at 2:14 a.m., making an approach and pulling up, while the tower reportedly saw no aircraft. The Project Blue Book material itself said it was not possible to determine any relationship between observations, though time and distance could “hint” at one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1961fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 This is the point at which interpretation matters. Believers see a cluster: a military radar contact in Vermont, a famous visual and missing-time case in New Hampshire, and a later Pease radar note. Sceptics see coincidence: separate events, different times, incomplete descriptions and no firm tracking continuity between them. Even within UFO research circles, the stronger position is not that North Concord “confirmed” the Hill abduction, but that it became part of the case’s supporting mythology because it was nearby, military and roughly contemporaneous.
 
-
-<img src="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-2-light.svg" | relative_url }}" alt="North Concord illustration 2" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-2-dark.svg" | relative_url }}" alt="North Concord illustration 2" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How folklore outran the records
 
 The North Concord story has grown because it is narratively powerful. A remote Vermont radar station detects something strange; hours later, a couple in the White Mountains reports one of America’s most famous UFO encounters; years later, the radar base is abandoned and left to decay. That is a memorable story, especially for travel writers, podcasters and urban-exploration accounts. But the surviving documents support a narrower claim than many retellings suggest.
@@ -318,7 +314,6 @@ Three distinctions keep the case in proportion:
 **The Pease radar note is weaker than popular retellings imply.** Richard Hall’s MUFON Journal note, republished by NICAP, argued that the radar-Hill connection was weak and that no evidence had been found that the UFO in the Hill case was tracked on radar. Hall described the Pease radar incident as a low-level target in the landing pattern, around 80 miles from the reported abduction site, and said any link to the Hill case was conjectural. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/0450-74.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 The result is a classic UFO-history tension: the story is too documented to dismiss as pure invention, but too underdetermined to carry the weight later folklore puts on it. The record shows a reported military radar anomaly. It does not show a continuous radar track of the Hills’ object, an intercept, a recovered object, a confirmed craft, or an official finding that the radar target and the Hill encounter were the same event.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jl1pVatXwbU" title="Betty Hill: Grandmother of UFO Abductees on her 1961 Encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jl1pVatXwbU" target="_blank" rel="noopener noreferrer">Betty Hill: Grandmother of UFO Abductees on her 1961 Encounter</a></p><p class="youtube-embed-meta">Channel: GBH Archives &middot; Views: 89.9K &middot; Uploaded: November 2013 &middot; Length: 4 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jl1pVatXwbU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jl1pVatXwbU">Open on YouTube</a></p></div></div></div>
 
@@ -336,8 +331,7 @@ Third, there is the **Hill connection**, which is culturally important but evide
 
 That layered reading makes North Concord more interesting, not less. It lets the story be what it is: a small but revealing junction where Vermont’s military landscape, Project Blue Book paperwork, New Hampshire’s most famous UFO legend and later regional storytelling all meet.
 
-
-<img src="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-3-light.svg" | relative_url }}" alt="North Concord illustration 3" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-3-dark.svg" | relative_url }}" alt="North Concord illustration 3" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_north_concord_radar_b9154e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Best evidence and main doubts
 
 The strongest evidence for including North Concord in Vermont’s UFO record is the existence of a Project Blue Book trail. The National Archives states that Project Blue Book records were declassified and transferred for public research, with individual case files arranged chronologically; the Air Force’s own fact sheet says Blue Book collected 12,618 sightings from 1947 to 1969, of which 701 remained unidentified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> Within that broader framework, the North Concord file is a documented report from a military radar station, not a late campfire story.
@@ -348,9 +342,7 @@ The Hill connection is weaker still. It is plausible as folklore because the dat
 
 The fairest conclusion is therefore restrained: North Concord is a legitimate Vermont radar-lore case with a real Air Force paper trail and a famous regional association. It is not a confirmed radar record of the Betty and Barney Hill object. Its significance lies in how a thin but intriguing military record became attached to a much larger legend, and how that attachment still shapes the way Vermont appears in New England UFO history.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qn9ArqHkurA" title="Project Blue Book: Declassified – The True Story of The Hill Abduction | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qn9ArqHkurA" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of The Hill Abduction | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 68.0K &middot; Uploaded: March 2019 &middot; Length: 2 minutes 15 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qn9ArqHkurA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qn9ArqHkurA">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pdFHaioNpk4" title="New England Legends Podcast 286 - Vermont’s Abandoned UFO Base" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pdFHaioNpk4" target="_blank" rel="noopener noreferrer">New England Legends Podcast 286 - Vermont’s Abandoned UFO Base</a></p><p class="youtube-embed-meta">Channel: Jeff Belanger &middot; Views: 341 &middot; Uploaded: February 2023 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pdFHaioNpk4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pdFHaioNpk4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -774,137 +766,137 @@ The fairest conclusion is therefore restrained: North Concord is a legitimate Ve
 1. <a id="endnote-1"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: [https://www.nicap.org/CATEGORIES/09-RADAR_Cases/610919nconcord_dir.htm](https://www.nicap.org/CATEGORIES/09-RADAR_Cases/610919nconcord_dir.htm)  
+   Link: <a href="https://www.nicap.org/CATEGORIES/09-RADAR_Cases/610919nconcord_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/CATEGORIES/09-RADAR_Cases/610919nconcord_dir.htm</a>  
 
 2. <a id="endnote-2"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: [https://www.nicap.org/reports/hillradarweak.htm](https://www.nicap.org/reports/hillradarweak.htm)  
+   Link: <a href="https://www.nicap.org/reports/hillradarweak.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/hillradarweak.htm</a>  
 
 3. <a id="endnote-3"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports/0450-74.htm](https://www.nicap.org/reports/0450-74.htm)  
+   Link: <a href="https://www.nicap.org/reports/0450-74.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/0450-74.htm</a>  
 
 4. <a id="endnote-4"></a>
    Source: anrweb.vt.gov  
    Title: ANR Web  
-   Link: [https://anrweb.vt.gov/PubDocs/DEC/Hazsites/911152.Remedial.Investigation%2C.Final.pdf](https://anrweb.vt.gov/PubDocs/DEC/Hazsites/911152.Remedial.Investigation%2C.Final.pdf)  
+   Link: <a href="https://anrweb.vt.gov/PubDocs/DEC/Hazsites/911152.Remedial.Investigation%2C.Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://anrweb.vt.gov/PubDocs/DEC/Hazsites/911152.Remedial.Investigation%2C.Final.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: radomes.org  
-   Link: [https://www.radomes.org/museum/showsite.php?site=Lyndonville+AFS+%28North+Concord%29%2C+VT](https://www.radomes.org/museum/showsite.php?site=Lyndonville+AFS+%28North+Concord%29%2C+VT)  
+   Link: <a href="https://www.radomes.org/museum/showsite.php?site=Lyndonville+AFS+%28North+Concord%29%2C+VT" target="_blank" rel="noopener noreferrer nofollow">https://www.radomes.org/museum/showsite.php?site=Lyndonville+AFS+%28North+Concord%29%2C+VT</a>  
 
 6. <a id="endnote-6"></a>
    Source: vtdigger.org  
    Title: a cold war relic the east haven radar station closed 50 years ago  
-   Link: [https://vtdigger.org/2013/08/08/a-cold-war-relic-the-east-haven-radar-station-closed-50-years-ago/](https://vtdigger.org/2013/08/08/a-cold-war-relic-the-east-haven-radar-station-closed-50-years-ago/)  
+   Link: <a href="https://vtdigger.org/2013/08/08/a-cold-war-relic-the-east-haven-radar-station-closed-50-years-ago/" target="_blank" rel="noopener noreferrer nofollow">https://vtdigger.org/2013/08/08/a-cold-war-relic-the-east-haven-radar-station-closed-50-years-ago/</a>  
 
 7. <a id="endnote-7"></a>
    Source: library.unh.edu  
    Title: betty barney hill papers 1961 2006  
-   Link: [https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006](https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006)  
+   Link: <a href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006" target="_blank" rel="noopener noreferrer nofollow">https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006</a>  
 
 8. <a id="endnote-8"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: [https://www.nicap.org/reports/610919nconcord_rep2.htm](https://www.nicap.org/reports/610919nconcord_rep2.htm)  
+   Link: <a href="https://www.nicap.org/reports/610919nconcord_rep2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/610919nconcord_rep2.htm</a>  
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 10. <a id="endnote-10"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports/610919nconcord_rep.htm](https://www.nicap.org/reports/610919nconcord_rep.htm)  
+   Link: <a href="https://www.nicap.org/reports/610919nconcord_rep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/610919nconcord_rep.htm</a>  
 
 11. <a id="endnote-11"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1961fullrep.htm](https://www.nicap.org/chronos/1961fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1961fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1961fullrep.htm</a>  
 
 12. <a id="endnote-12"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: history.com  
    Title: project blue book declassified the true story of the hill abduction  
-   Link: [https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-hill-abduction](https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-hill-abduction)  
+   Link: <a href="https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-hill-abduction" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-hill-abduction</a>  
 
 14. <a id="endnote-14"></a>
    Source: nhpr.org  
-   Link: [https://www.nhpr.org/nh-news/2014-03-28/marking-history-the-betty-and-barney-hill-incident-in-lincoln](https://www.nhpr.org/nh-news/2014-03-28/marking-history-the-betty-and-barney-hill-incident-in-lincoln)  
+   Link: <a href="https://www.nhpr.org/nh-news/2014-03-28/marking-history-the-betty-and-barney-hill-incident-in-lincoln" target="_blank" rel="noopener noreferrer nofollow">https://www.nhpr.org/nh-news/2014-03-28/marking-history-the-betty-and-barney-hill-incident-in-lincoln</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 16. <a id="endnote-16"></a>
    Source: military-history.fandom.com  
    Title: Lyndonville Air Force Station  
-   Link: [https://military-history.fandom.com/wiki/Lyndonville_Air_Force_Station](https://military-history.fandom.com/wiki/Lyndonville_Air_Force_Station)  
+   Link: <a href="https://military-history.fandom.com/wiki/Lyndonville_Air_Force_Station" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Lyndonville_Air_Force_Station</a>  
 
 17. <a id="endnote-17"></a>
    Source: abandonedspaces.com  
    Title: north concord radar  
-   Link: [https://www.abandonedspaces.com/conflict/north-concord-radar.html](https://www.abandonedspaces.com/conflict/north-concord-radar.html)  
+   Link: <a href="https://www.abandonedspaces.com/conflict/north-concord-radar.html" target="_blank" rel="noopener noreferrer nofollow">https://www.abandonedspaces.com/conflict/north-concord-radar.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: skeptoid.com  
-   Link: [https://skeptoid.com/episodes/124](https://skeptoid.com/episodes/124)  
+   Link: <a href="https://skeptoid.com/episodes/124" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/124</a>  
 
 19. <a id="endnote-19"></a>
    Source: scenicnh.com  
    Title: Lyndonville Air Force Station  
-   Link: [https://www.scenicnh.com/blog/2013/04/lyndonville-air-force-station-east-haven-vermont/](https://www.scenicnh.com/blog/2013/04/lyndonville-air-force-station-east-haven-vermont/)  
+   Link: <a href="https://www.scenicnh.com/blog/2013/04/lyndonville-air-force-station-east-haven-vermont/" target="_blank" rel="noopener noreferrer nofollow">https://www.scenicnh.com/blog/2013/04/lyndonville-air-force-station-east-haven-vermont/</a>  
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Surviving Overnight ON TOP Abandoned Military Radar Tower  
-   Link: [https://www.youtube.com/watch?v=ph3Sx7w8LA8](https://www.youtube.com/watch?v=ph3Sx7w8LA8)  
+   Link: <a href="https://www.youtube.com/watch?v=ph3Sx7w8LA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ph3Sx7w8LA8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>East Mountain Radar Station, Vermont. Abandoned since 1963! Exploration and Drone video in 4k...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Jl1pVatXwbU](https://www.youtube.com/watch?v=Jl1pVatXwbU)  
+   Link: <a href="https://www.youtube.com/watch?v=Jl1pVatXwbU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jl1pVatXwbU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Surviving Overnight ON TOP Abandoned Military Radar Tower...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: New England Legends Podcast 286  
-   Link: [https://www.youtube.com/watch?v=pdFHaioNpk4](https://www.youtube.com/watch?v=pdFHaioNpk4)  
+   Link: <a href="https://www.youtube.com/watch?v=pdFHaioNpk4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pdFHaioNpk4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Abandoned North Concord Air Force Station In Vermont...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Abandoned North Concord Air Force Station In Vermont  
-   Link: [https://www.youtube.com/watch?v=8ZyRZAAvNyc](https://www.youtube.com/watch?v=8ZyRZAAvNyc)  
+   Link: <a href="https://www.youtube.com/watch?v=8ZyRZAAvNyc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8ZyRZAAvNyc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Betty Hill: Grandmother of UFO Abductees on her 1961 Encounter...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ExploringLegends/posts/newenglandlegends-podcast-286-vermonts-abandoned-ufo-base-we-hike-up-east-mounta/739385377554701/](https://www.facebook.com/ExploringLegends/posts/newenglandlegends-podcast-286-vermonts-abandoned-ufo-base-we-hike-up-east-mounta/739385377554701/)  
+   Link: <a href="https://www.facebook.com/ExploringLegends/posts/newenglandlegends-podcast-286-vermonts-abandoned-ufo-base-we-hike-up-east-mounta/739385377554701/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ExploringLegends/posts/newenglandlegends-podcast-286-vermonts-abandoned-ufo-base-we-hike-up-east-mounta/739385377554701/</a>  
 
 25. <a id="endnote-25"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DCXwFhAArX3/](https://www.instagram.com/p/DCXwFhAArX3/)  
+   Link: <a href="https://www.instagram.com/p/DCXwFhAArX3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DCXwFhAArX3/</a>  
 
 26. <a id="endnote-26"></a>
    Source: outdoors.org  
-   Link: [https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/](https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/)  
+   Link: <a href="https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow">https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/</a>  
 
 27. <a id="endnote-27"></a>
    Source: tripadvisor.co.uk  
-   Link: [https://www.tripadvisor.co.uk/Attraction_Review-g46140-d8612098-Reviews-Betty_and_Barney_Hill_Incident_Historical_Marker-Lincoln_New_Hampshire.html](https://www.tripadvisor.co.uk/Attraction_Review-g46140-d8612098-Reviews-Betty_and_Barney_Hill_Incident_Historical_Marker-Lincoln_New_Hampshire.html)  
+   Link: <a href="https://www.tripadvisor.co.uk/Attraction_Review-g46140-d8612098-Reviews-Betty_and_Barney_Hill_Incident_Historical_Marker-Lincoln_New_Hampshire.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g46140-d8612098-Reviews-Betty_and_Barney_Hill_Incident_Historical_Marker-Lincoln_New_Hampshire.html</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GovernorChrisSununu/videos/just-stopped-by-the-betty-and-barney-hill-historical-marker-site-of-the-first-al/196392692520303/](https://www.facebook.com/GovernorChrisSununu/videos/just-stopped-by-the-betty-and-barney-hill-historical-marker-site-of-the-first-al/196392692520303/)  
+   Link: <a href="https://www.facebook.com/GovernorChrisSununu/videos/just-stopped-by-the-betty-and-barney-hill-historical-marker-site-of-the-first-al/196392692520303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GovernorChrisSununu/videos/just-stopped-by-the-betty-and-barney-hill-historical-marker-site-of-the-first-al/196392692520303/</a>  
 
 29. <a id="endnote-29"></a>
    Source: superstock.com  
-   Link: [https://www.superstock.com/asset/lyndonville-air-force-station-east-mountain-east-haven-vermont-us/1809-17611?srsltid=AfmBOoqXH4E8LFyzCFO9Chme7X5NboyrTM7qQ1ULIiVznZ3BQ2KqfU9V](https://www.superstock.com/asset/lyndonville-air-force-station-east-mountain-east-haven-vermont-us/1809-17611?srsltid=AfmBOoqXH4E8LFyzCFO9Chme7X5NboyrTM7qQ1ULIiVznZ3BQ2KqfU9V)  
+   Link: <a href="https://www.superstock.com/asset/lyndonville-air-force-station-east-mountain-east-haven-vermont-us/1809-17611?srsltid=AfmBOoqXH4E8LFyzCFO9Chme7X5NboyrTM7qQ1ULIiVznZ3BQ2KqfU9V" target="_blank" rel="noopener noreferrer nofollow">https://www.superstock.com/asset/lyndonville-air-force-station-east-mountain-east-haven-vermont-us/1809-17611?srsltid=AfmBOoqXH4E8LFyzCFO9Chme7X5NboyrTM7qQ1ULIiVznZ3BQ2KqfU9V</a>

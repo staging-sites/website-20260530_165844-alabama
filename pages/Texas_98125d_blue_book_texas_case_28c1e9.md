@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-texas-became-a-ufo-archive/
 nav_short_title: Blue Book
 title: What Did Blue Book Make of Texas?
-title_full: What Did Blue Book Make of Texas? | Texas UFOs
+title_full: What Did Blue Book Make of Texas?
 display_title_short: Blue Book
 display_title: Blue Book
 heading_title: What Did Blue Book Make of Texas?
@@ -268,8 +268,7 @@ image: /assets/images/Texas_98125d_blue_book_texas_case_28c1e9-overview-social.j
 
 ## Introduction
 
-Lubbock and Levelland are two of the clearest [Texas]({{ 'why-texas-became-a-ufo-archive/' | relative_url }}) examples of how dramatic local UFO reports entered the United States Air Force’s official investigation system, yet still came out disputed. Lubbock, in 1951, centred on repeated formations of lights seen by Texas Technological College professors and photographed by student Carl Hart Jr. Levelland, in 1957, centred on drivers around Hockley County reporting glowing objects and stalled vehicles. Both cases mattered because they were not just folklore or single-witness stories: they involved multiple witnesses, police or press attention, technical questions, and Project Blue Book files. They also show the weakness of the Blue Book era. Official explanations often tried to reduce reports to birds, weather, electrical phenomena or insufficient data, while critics argued that the investigations were too brief, too selective, or too eager to close awkward cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
+Lubbock and Levelland are two of the clearest Texas examples of how dramatic local UFO reports entered the United States Air Force’s official investigation system, yet still came out disputed. Lubbock, in 1951, centred on repeated formations of lights seen by Texas Technological College professors and photographed by student Carl Hart Jr. Levelland, in 1957, centred on drivers around Hockley County reporting glowing objects and stalled vehicles. Both cases mattered because they were not just folklore or single-witness stories: they involved multiple witnesses, police or press attention, technical questions, and Project Blue Book files. They also show the weakness of the Blue Book era. Official explanations often tried to reduce reports to birds, weather, electrical phenomena or insufficient data, while critics argued that the investigations were too brief, too selective, or too eager to close awkward cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9-overview.webp" | relative_url }}" alt="Overview image for Blue Book" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the Air Force investigated Texas reports
@@ -280,8 +279,7 @@ That matters for Lubbock and Levelland because the question was never simply “
 
 Texas was a particularly good testing ground for this system. The state had open skies, military and aviation activity, oil-field and rural road networks, and communities where a striking sighting could quickly become a newspaper and police matter. Lubbock and Levelland did not prove one single theory about UFOs. Instead, they exposed the practical problem facing Blue Book: how to judge strong witness testimony when physical evidence was thin, instrumental data were missing, and ordinary explanations were plausible but not always fully demonstrated.
 
-
-<img src="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9-Illustration-1-light.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Lubbock Lights and trained witnesses
 
 The Lubbock Lights began in late August 1951, when professors from Texas Technological College reported fast-moving formations of lights over Lubbock. Edward J. Ruppelt, who later directed Project Blue Book and wrote a public account of the case, treated the witnesses as unusually strong. He described the Lubbock material as one of the best combinations of UFO reports he had seen in Air Force files, partly because the witnesses included technically educated observers and partly because the reports were repeated rather than isolated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -293,7 +291,6 @@ Carl Hart Jr.’s photographs made the case nationally memorable. Hart, a Texas 
 The main sceptical explanation was birds reflecting city lights, especially after Lubbock installed new mercury-vapour street lighting. Ruppelt initially considered plovers, and he recorded supporting observations from people who saw birds shining in artificial light. Yet the explanation was contested. Some local experts and witnesses argued the reported speed, size and silence did not fit birds, and attempts to reproduce Hart’s photographs with birds did not provide a neat match. Later, Ruppelt wrote that the professors’ core sightings had been identified as a “commonplace” natural phenomenon, but he did not disclose the details because he had promised anonymity to the person who supplied the explanation. That left a frustrating record: an official investigator claimed a solution, but readers cannot inspect the decisive evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For Texas UFO history, Lubbock’s value is not that it proves an exotic craft. It is that the case sits right at the point where witness credibility, press attention and photographic evidence all look stronger than usual, yet still fail to produce a clean conclusion. Blue Book could not simply dismiss the witnesses as cranks, but the case also showed how even credible observers could produce reports that were hard to measure, hard to reproduce and easy to argue over.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mQl7Dqpsy5E" title="Project Blue Book: Episode Recap - “The Lubbock Lights” (Season 1, Episode 3) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mQl7Dqpsy5E" target="_blank" rel="noopener noreferrer">Project Blue Book: Episode Recap - “The Lubbock Lights” (Season 1, Episode 3) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 55.7K &middot; Uploaded: January 2019 &middot; Length: 4 minutes 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mQl7Dqpsy5E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mQl7Dqpsy5E">Open on YouTube</a></p></div></div></div>
 
@@ -309,13 +306,11 @@ The difficulty is that Levelland’s best-known counterargument also concerns we
 
 Modern science does not make the Levelland question simple. Ball lightning is a real subject of atmospheric research, with proposed mechanisms involving lightning-produced plasma and microwave effects, but the phenomenon is rare, difficult to observe under controlled conditions, and not a tidy match for every reported UFO-like event. Levelland therefore remains a useful cautionary case: “ball lightning” may be a reasonable hypothesis for a luminous object in disturbed weather, but it should not be treated as a magic label that automatically explains vehicle failures, multiple locations and witness sequencing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1411.4784" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Theory of ball lightning</span><span class="citation-popover-snippet">arXiv Theory of ball lightning</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CIhGAev0ZU4" title="Project Blue Book: Declassified – The True Story of the Lubbock Lights | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CIhGAev0ZU4" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of the Lubbock Lights | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 45.0K &middot; Uploaded: February 2019 &middot; Length: 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CIhGAev0ZU4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CIhGAev0ZU4">Open on YouTube</a></p></div></div></div>
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oWwH2zztXc0" title="Project Blue Book 1x03 Promo &quot;The Lubbock Lights&quot; (HD) UFO drama series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oWwH2zztXc0" target="_blank" rel="noopener noreferrer">Project Blue Book 1x03 Promo &quot;The Lubbock Lights&quot; (HD) UFO drama series</a></p><p class="youtube-embed-meta">Channel: TV Promos &middot; Views: 14.8K &middot; Uploaded: January 2019 &middot; Length: 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oWwH2zztXc0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oWwH2zztXc0">Open on YouTube</a></p></div></div></div>
+<img src="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-
-<img src="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9-Illustration-3-light.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<img src="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9-Illustration-2-light.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Blue Book got right and wrong in Texas
 
 Blue Book’s strength was that it created a paper trail. Lubbock and Levelland did not vanish into local rumour alone; they entered a federal system with interviews, summaries, photo analysis, internal debate and later public release. That is why the cases can still be compared with Air Force procedures, witness statements and later sceptical or pro-UFO interpretations. The National Archives’ Blue Book holdings are central to that value, because they preserve the official record rather than leaving researchers dependent only on newspaper retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
@@ -326,9 +321,7 @@ Lubbock shows the limits of even respectable testimony and photographs. The witn
 
 The fairest assessment is that both cases remain historically important and evidentially mixed. Lubbock is a strong witness-and-photo case weakened by ambiguity, conflicting descriptions and possible natural explanations. Levelland is a strong multi-witness close-range case weakened by uncertain reporting chains, limited physical evidence and the difficulty of proving that vehicle failures were caused by the observed light. In the wider Texas UFO archive, they matter because they show the Blue Book era at work: serious enough to investigate, official enough to leave records, but not strong enough to end the argument.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CIhGAev0ZU4" title="Project Blue Book: Declassified – The True Story of the Lubbock Lights | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CIhGAev0ZU4" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of the Lubbock Lights | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 45.0K &middot; Uploaded: February 2019 &middot; Length: 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CIhGAev0ZU4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CIhGAev0ZU4">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oWwH2zztXc0" title="Project Blue Book 1x03 Promo &quot;The Lubbock Lights&quot; (HD) UFO drama series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oWwH2zztXc0" target="_blank" rel="noopener noreferrer">Project Blue Book 1x03 Promo &quot;The Lubbock Lights&quot; (HD) UFO drama series</a></p><p class="youtube-embed-meta">Channel: TV Promos &middot; Views: 14.8K &middot; Uploaded: January 2019 &middot; Length: 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oWwH2zztXc0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oWwH2zztXc0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -752,162 +745,162 @@ The fairest assessment is that both cases remain historically important and evid
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 2. <a id="endnote-2"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
 
 3. <a id="endnote-3"></a>
    Source: nicap.org  
    Title: Levelland Sightings. Texas,  
-   Link: [https://www.nicap.org/reports/571102levell_hynek.htm](https://www.nicap.org/reports/571102levell_hynek.htm)  
+   Link: <a href="https://www.nicap.org/reports/571102levell_hynek.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/571102levell_hynek.htm</a>  
 
 4. <a id="endnote-4"></a>
    Source: esd.whs.mil  
    Title: Defense Acquisition University  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Lubbock Lights  
-   Link: [https://en.wikipedia.org/wiki/Lubbock_Lights](https://en.wikipedia.org/wiki/Lubbock_Lights)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lubbock_Lights</a>  
 
 6. <a id="endnote-6"></a>
    Source: nicap.org  
    Title: Levelland Sightings Rullan  
-   Link: [https://www.nicap.org/reports2/Levelland_Sightings_Rullan.pdf](https://www.nicap.org/reports2/Levelland_Sightings_Rullan.pdf)  
+   Link: <a href="https://www.nicap.org/reports2/Levelland_Sightings_Rullan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports2/Levelland_Sightings_Rullan.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Levelland UFO case  
-   Link: [https://en.wikipedia.org/wiki/Levelland_UFO_case](https://en.wikipedia.org/wiki/Levelland_UFO_case)  
+   Link: <a href="https://en.wikipedia.org/wiki/Levelland_UFO_case" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Levelland_UFO_case</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Theory of ball lightning  
-   Link: [https://arxiv.org/abs/1411.4784](https://arxiv.org/abs/1411.4784)  
+   Link: <a href="https://arxiv.org/abs/1411.4784" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1411.4784</a>  
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 10. <a id="endnote-10"></a>
    Source: obamawhitehouse.archives.gov  
-   Link: [https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/oira_2120/2120_07262011b-1.pdf](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/oira_2120/2120_07262011b-1.pdf)  
+   Link: <a href="https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/oira_2120/2120_07262011b-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/oira_2120/2120_07262011b-1.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: hoover.archives.gov  
-   Link: [https://hoover.archives.gov/research/manuscript-collections/pegler](https://hoover.archives.gov/research/manuscript-collections/pegler)  
+   Link: <a href="https://hoover.archives.gov/research/manuscript-collections/pegler" target="_blank" rel="noopener noreferrer nofollow">https://hoover.archives.gov/research/manuscript-collections/pegler</a>  
 
 12. <a id="endnote-12"></a>
    Source: archives.gov  
    Title: 2007 annual2.txt  
-   Link: [https://www.archives.gov/files/federal-register/the-federal-register/2007-annual2.txt](https://www.archives.gov/files/federal-register/the-federal-register/2007-annual2.txt)  
+   Link: <a href="https://www.archives.gov/files/federal-register/the-federal-register/2007-annual2.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/federal-register/the-federal-register/2007-annual2.txt</a>  
 
 13. <a id="endnote-13"></a>
    Source: georgewbush-whitehouse.archives.gov  
    Title: gov1. Instructions  
-   Link: [https://georgewbush-whitehouse.archives.gov/omb/procurement/fair/2004fair_spreadsheet.xls](https://georgewbush-whitehouse.archives.gov/omb/procurement/fair/2004fair_spreadsheet.xls)  
+   Link: <a href="https://georgewbush-whitehouse.archives.gov/omb/procurement/fair/2004fair_spreadsheet.xls" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/omb/procurement/fair/2004fair_spreadsheet.xls</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 15. <a id="endnote-15"></a>
    Source: history.com  
    Title: lubbock lights ufo sightings  
-   Link: [https://www.history.com/articles/lubbock-lights-ufo-sightings](https://www.history.com/articles/lubbock-lights-ufo-sightings)  
+   Link: <a href="https://www.history.com/articles/lubbock-lights-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/lubbock-lights-ufo-sightings</a>  
 
 16. <a id="endnote-16"></a>
    Source: history.com  
-   Link: [https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-lubbock-lights](https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-lubbock-lights)  
+   Link: <a href="https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-lubbock-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-lubbock-lights</a>  
 
 17. <a id="endnote-17"></a>
    Source: history.com  
    Title: s most infamous ufo sightings  
-   Link: [https://www.history.com/articles/historys-most-infamous-ufo-sightings](https://www.history.com/articles/historys-most-infamous-ufo-sightings)  
+   Link: <a href="https://www.history.com/articles/historys-most-infamous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/historys-most-infamous-ufo-sightings</a>  
 
 18. <a id="endnote-18"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: [https://www.history.com/articles/project-blue-book](https://www.history.com/articles/project-blue-book)  
+   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
 
 19. <a id="endnote-19"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt](https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt)  
+   Link: <a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/708546534557759/posts/1254330919979315/](https://www.facebook.com/groups/708546534557759/posts/1254330919979315/)  
+   Link: <a href="https://www.facebook.com/groups/708546534557759/posts/1254330919979315/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/708546534557759/posts/1254330919979315/</a>  
 
 22. <a id="endnote-22"></a>
    Source: slideshare.net  
-   Link: [https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203](https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203)  
+   Link: <a href="https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203</a>  
 
 23. <a id="endnote-23"></a>
    Source: extraterrestrials.fandom.com  
    Title: Lubbock Lights  
-   Link: [https://extraterrestrials.fandom.com/wiki/Lubbock_Lights](https://extraterrestrials.fandom.com/wiki/Lubbock_Lights)  
+   Link: <a href="https://extraterrestrials.fandom.com/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow">https://extraterrestrials.fandom.com/wiki/Lubbock_Lights</a>  
 
 24. <a id="endnote-24"></a>
    Source: geekchocolate.co.uk  
    Title: project blue book  
-   Link: [https://geekchocolate.co.uk/project-blue-book/](https://geekchocolate.co.uk/project-blue-book/)  
+   Link: <a href="https://geekchocolate.co.uk/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://geekchocolate.co.uk/project-blue-book/</a>  
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Project Blue Book: Episode Recap  
-   Link: [https://www.youtube.com/watch?v=mQl7Dqpsy5E](https://www.youtube.com/watch?v=mQl7Dqpsy5E)  
+   Link: <a href="https://www.youtube.com/watch?v=mQl7Dqpsy5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mQl7Dqpsy5E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Whatever Happened in Levelland, It Became a World-Famous Mystery  
-   Link: [https://www.youtube.com/watch?v=uEFPNmIHz4s](https://www.youtube.com/watch?v=uEFPNmIHz4s)  
+   Link: <a href="https://www.youtube.com/watch?v=uEFPNmIHz4s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uEFPNmIHz4s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Episode Recap - “The Lubbock Lights” (Season 1, Episode 3) | History...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified – The True Story of the Lubbock Lights  
-   Link: [https://www.youtube.com/watch?v=CIhGAev0ZU4](https://www.youtube.com/watch?v=CIhGAev0ZU4)  
+   Link: <a href="https://www.youtube.com/watch?v=CIhGAev0ZU4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CIhGAev0ZU4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Whatever Happened in Levelland, It Became a World-Famous Mystery...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: 10 Cases From Project Blue Book: The CIA's Hunt For UFOs  
-   Link: [https://www.youtube.com/watch?v=OoKm417zKOA](https://www.youtube.com/watch?v=OoKm417zKOA)  
+   Link: <a href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OoKm417zKOA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book 1x03 Promo &quot;The Lubbock Lights&quot; (HD) UFO drama series...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp67b00446r000400030001-4](https://www.cia.gov/readingroom/document/cia-rdp67b00446r000400030001-4)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp67b00446r000400030001-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp67b00446r000400030001-4</a>  
 
 30. <a id="endnote-30"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0005516126.pdf](https://www.cia.gov/readingroom/docs/DOC_0005516126.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0005516126.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005516126.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100170002-7](https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100170002-7)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100170002-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100170002-7</a>  
 
 32. <a id="endnote-32"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
 33. <a id="endnote-33"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp67b00446r000400020005-1](https://www.cia.gov/readingroom/document/cia-rdp67b00446r000400020005-1)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp67b00446r000400020005-1" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp67b00446r000400020005-1</a>  
 
 34. <a id="endnote-34"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp80-01601r001100070001-5](https://www.cia.gov/readingroom/document/cia-rdp80-01601r001100070001-5)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp80-01601r001100070001-5" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp80-01601r001100070001-5</a>

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /utah-2ff606-skinwalker-ranch-cla/
 description: Focused pages that expand on Skinwalker Ranch.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Utah_2ff606_skinwalker_ranch_cla_b38749
-parent_title: Skinwalker Ranch | What Makes Utah's UFO History So Persistent?
+parent_title: Skinwalker Ranch
 parent_nav_short_title: Skinwalker Ranch
 parent_permalink: /skinwalker-ranch/
 ---

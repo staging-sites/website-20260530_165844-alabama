@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /minnesota-60590f-val-johnson-case/
 description: Focused pages that expand on Val Johnson.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Minnesota_60590f_val_johnson_case_25fe4f
-parent_title: Val Johnson | What Really Happened in Minnesota's Skies?
+parent_title: Val Johnson
 parent_nav_short_title: Val Johnson
 parent_permalink: /val-johnson/
 ---

@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /salem-photo/
 nav_short_title: Reflections
 title: Could the Salem lights be window reflections?
-title_full: Could the Salem lights be window reflections? | Salem Photo
+title_full: Could the Salem lights be window reflections?
 display_title_short: Reflections
 display_title: Reflections
 heading_title: Could the Salem lights be window reflections?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:37:23'
-parent_title: Why the Salem UFO Photo Still Divides Readers | Massachusetts UFOs
+parent_title: Why the Salem UFO Photo Still Divides Readers
 parent_permalink: /salem-photo/
 parent_nav_short_title: Salem Photo
 parent_heading_title: Why the Salem UFO Photo Still Divides Readers
@@ -252,8 +252,7 @@ image: /assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_window_
 
 The most persistent sceptical challenge to the famous 1952 Salem Coast Guard photograph is also one of its simplest: the image was taken through a window. For believers, the photograph appears to show four bright objects flying in formation over Salem, [Massachusetts]({{ 'what-really-happened-in-massachusetts/' | relative_url }}). For critics, the fact that the camera was pointed through glass introduces a major uncertainty that the photograph itself cannot eliminate. Decades after the event, window reflections remain one of the strongest ordinary explanations proposed by investigators, including analysts connected with Project [Blue Book]({{ 'blue-book-2762c4/' | relative_url }}). The debate matters because the Salem image is often presented as one of the earliest and most striking daylight UFO photographs, yet its evidential value depends heavily on whether the lights were actually outside the building at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prints.sciencesource.com/featured/salem-ufo-sighting-1952-science-source.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prints.sciencesource.com">[Science Source Prints - Official Website]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prints.sciencesource.com</span><span class="citation-popover-snippet">Science Source Prints - Official WebsiteSalem Ufo Sighting, 1952 by Science Source7 Jul 2014 — A second analysis by Blue Book concluded t...</span></span></span>
 
-
-<img src="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_window_reflect_c80c8f-Illustration-1-light.svg" | relative_url }}" alt="Reflections illustration 1" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_window_reflect_c80c8f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_window_reflect_c80c8f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_window_reflect_c80c8f-Illustration-1-dark.svg" | relative_url }}" alt="Reflections illustration 1" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_window_reflect_c80c8f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_window_reflect_c80c8f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the window matters
 
 The basic problem is straightforward. A camera records light, but a single photograph cannot always show where that light originated. When a picture is taken through glass, bright sources inside or near the building can appear superimposed onto the outdoor scene. Depending on focus, angle and exposure, those reflections may look detached from the window itself.
@@ -268,7 +267,6 @@ The importance of the window is therefore not merely technical. If the bright sh
 
 The reflection argument developed along two related lines.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ApuwmZjHGu4" title="Project Blue Book | Trailer | Watch On SBS On Demand" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ApuwmZjHGu4" target="_blank" rel="noopener noreferrer">Project Blue Book | Trailer | Watch On SBS On Demand</a></p><p class="youtube-embed-meta">Channel: SBS On Demand &middot; Views: 39.7K &middot; Uploaded: March 2019 &middot; Length: 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ApuwmZjHGu4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ApuwmZjHGu4">Open on YouTube</a></p></div></div></div>
 
 ### Interior light reflections
@@ -281,14 +279,13 @@ Supporters of this explanation point out that the objects do not display obvious
 
 ### Reflections from ground lights
 
-Another version of the reflection theory suggested that lights outside at ground level, such as street lamps, could have bounced off the glass and created the apparent formation. Blue Book references to street-lamp reflections became one of the best-known sceptical interpretations of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1d753f3/us_coast_guard_uapufo_photo_1952/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">us coast guard uapufo photo 1952</span><span class="citation-popover-snippet">RedditUS Coast Guard UAP/UFO photo 1952: r/aliensJune 3, 2024 — A second analysis by Blue Book concluded that it was probably reflection...</span><span class="citation-popover-meta">Published: June 3, 2024</span></span></span>
+Another version of the reflection theory suggested that lights outside at ground level, such as street lamps, could have bounced off the glass and created the apparent formation. Blue Book references to street-lamp reflections became one of the best-known sceptical interpretations of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1d753f3/us_coast_guard_uapufo_photo_1952/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">us coast guard uapufo photo 1952</span><span class="citation-popover-snippet">US Coast Guard UAP/UFO photo 1952: r/aliensJune 3, 2024 — A second analysis by Blue Book concluded that it was probably reflection...</span><span class="citation-popover-meta">Published: June 3, 2024</span></span></span>
 
 This possibility gained attention because the photograph includes industrial features and lighting infrastructure in the wider scene. If strong light sources existed at the correct angle relative to the window and camera, their reflected images might have appeared higher in the frame than their real locations.
 
 The challenge is that later researchers have never been able to reconstruct the exact geometry of the room, window, lighting and photographer's position with complete certainty. As a result, the reflection explanation remains plausible rather than conclusively demonstrated.
 
-
-<img src="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_window_reflect_c80c8f-Illustration-2-light.svg" | relative_url }}" alt="Reflections illustration 2" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_window_reflect_c80c8f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_window_reflect_c80c8f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_window_reflect_c80c8f-Illustration-2-dark.svg" | relative_url }}" alt="Reflections illustration 2" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_window_reflect_c80c8f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_window_reflect_c80c8f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What investigators thought they saw
 
 The reflection hypothesis was not created decades later by internet sceptics. It emerged during official examination of the case.
@@ -298,9 +295,6 @@ Blue Book records indicate that investigators experimented with ways ordinary li
 One frequently cited point from later analysis concerned witness observations about the brightness of the objects. According to accounts reproduced by researchers, the apparent lights changed in intensity depending on viewing position inside the room. That behaviour would be expected if reflections were involved because reflected images often brighten or fade as an observer moves relative to the glass surface. <span class="citation-chip-wrap"><a class="citation-chip" href="https://threedollarkit.weebly.com/blog/bright-lights-of-salem-1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: threedollarkit.weebly.com">[Three-Dollar Kit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">threedollarkit.weebly.com</span><span class="citation-popover-title">bright lights of salem 1952</span><span class="citation-popover-snippet">Three-Dollar KitBright lights of Salem, 1952It is believed that the photos represent light reflections from an interior source (probably...</span></span></span>
 
 To sceptics, this detail is more revealing than the photograph itself. A reflection can seem fixed in the outside world until a viewer changes position and notices the illusion. Reports that the lights varied with movement therefore strengthened the reflection argument.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RlAl8Cub2Mo" title="The WASHINGTON FLAP - The most inexplicable UFO incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RlAl8Cub2Mo" target="_blank" rel="noopener noreferrer">The WASHINGTON FLAP - The most inexplicable UFO incident</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE Universe &middot; Views: 59.5K &middot; Uploaded: May 2024 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RlAl8Cub2Mo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RlAl8Cub2Mo">Open on YouTube</a></p></div></div></div>
 
 ## What one photograph cannot rule out
 
@@ -314,12 +308,11 @@ Several uncertainties remain:
 * The image provides no direct depth information.
 * The exact lighting conditions inside the room are imperfectly documented.
 * The geometry of the window, camera position and nearby light sources cannot now be reconstructed with certainty.
-* The visible shapes are bright and diffuse rather than sharply defined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencesource.com/1637969-salem-ufo-sighting-1952-stock-image-rights-managed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencesource.com">[sciencesource.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencesource.com</span><span class="citation-popover-title">1637969 salem ufo sighting 1952 stock image rights managed</span><span class="citation-popover-snippet">Salem UFO Sighting, 1952 | Stock ImageSalem UFO Sighting, 1952 stock photo. On July 16, 1952 at 09:35 AM Coast Guard seaman Shell Alpert...</span><span class="citation-popover-meta">Published: July 16, 1952</span></span></span>
+* The visible shapes are bright and diffuse rather than sharply defined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencesource.com/1637969-salem-ufo-sighting-1952-stock-image-rights-managed.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencesource.com">[sciencesource.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencesource.com</span><span class="citation-popover-title">1637969 salem ufo sighting 1952 stock image rights managed</span><span class="citation-popover-snippet">Salem UFO Sighting, 1952 &#124; Stock ImageSalem UFO Sighting, 1952 stock photo. On July 16, 1952 at 09:35 AM Coast Guard seaman Shell Alpert...</span><span class="citation-popover-meta">Published: July 16, 1952</span></span></span>
 
 These limitations do not prove that the lights were reflections. They simply mean the photograph cannot exclude that possibility.
 
-
-<img src="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_window_reflect_c80c8f-Illustration-3-light.svg" | relative_url }}" alt="Reflections illustration 3" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_window_reflect_c80c8f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_window_reflect_c80c8f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_window_reflect_c80c8f-Illustration-3-dark.svg" | relative_url }}" alt="Reflections illustration 3" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_window_reflect_c80c8f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_window_reflect_c80c8f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the reflection debate still survives
 
 The Salem photograph occupies an unusual place in Massachusetts UFO history because neither side can fully close the case.
@@ -330,9 +323,7 @@ Sceptics respond that the burden of proof works the other way around. Since the 
 
 That tension explains why the Salem photograph remains discussed more than seventy years later. Its strongest visual evidence and its strongest weakness may be the same thing. The photograph is memorable because of the four bright lights, yet the window between the camera and the sky leaves open the possibility that the most mysterious objects in the frame originated much closer to the photographer than they appeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2021/may/29/ufos-uap-america-pentagon-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufos uap america pentagon report</span><span class="citation-popover-snippet">The Guardian&#x27;From hearsay to hard evidence&#x27;: are UFOs about to go...29 May 2021 — This picture, taken through the window of a laboratory...</span><span class="citation-popover-meta">Published: May 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.saturdaynightuforia.com/html/articles/articlehtml/thephotographerstale.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: saturdaynightuforia.com">[2saturdaynightuforia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">saturdaynightuforia.com</span><span class="citation-popover-snippet">The Photographer&#x27;s TaleConclusion: It is believed that the photos represent light reflections from an interior source (probably the ceili...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v9wUHdXmgQU" title="1952 UFO Sighting is Oldest Caught on Camera | The Proof Is Out There (Season 4) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer">1952 UFO Sighting is Oldest Caught on Camera | The Proof Is Out There (Season 4) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 84.7K &middot; Uploaded: October 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v9wUHdXmgQU">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RlAl8Cub2Mo" title="The WASHINGTON FLAP - The most inexplicable UFO incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RlAl8Cub2Mo" target="_blank" rel="noopener noreferrer">The WASHINGTON FLAP - The most inexplicable UFO incident</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE Universe &middot; Views: 59.5K &middot; Uploaded: May 2024 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RlAl8Cub2Mo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RlAl8Cub2Mo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -755,164 +746,164 @@ That tension explains why the Salem photograph remains discussed more than seven
 
 1. <a id="endnote-1"></a>
    Source: prints.sciencesource.com  
-   Link: [https://prints.sciencesource.com/featured/salem-ufo-sighting-1952-science-source.html](https://prints.sciencesource.com/featured/salem-ufo-sighting-1952-science-source.html)  
+   Link: <a href="https://prints.sciencesource.com/featured/salem-ufo-sighting-1952-science-source.html" target="_blank" rel="noopener noreferrer nofollow">https://prints.sciencesource.com/featured/salem-ufo-sighting-1952-science-source.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Source Prints - Official WebsiteSalem Ufo Sighting, 1952 by Science Source7 Jul 2014 — A second analysis by Blue Book concluded t...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: saturdaynightuforia.com  
-   Link: [https://www.saturdaynightuforia.com/html/articles/articlehtml/thephotographerstale.html](https://www.saturdaynightuforia.com/html/articles/articlehtml/thephotographerstale.html)  
+   Link: <a href="https://www.saturdaynightuforia.com/html/articles/articlehtml/thephotographerstale.html" target="_blank" rel="noopener noreferrer nofollow">https://www.saturdaynightuforia.com/html/articles/articlehtml/thephotographerstale.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Photographer&#x27;s TaleConclusion: It is believed that the photos represent light reflections from an interior source (probably the ceili...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencesource.com  
    Title: 1637969 salem ufo sighting 1952 stock image rights managed  
-   Link: [https://www.sciencesource.com/1637969-salem-ufo-sighting-1952-stock-image-rights-managed.html](https://www.sciencesource.com/1637969-salem-ufo-sighting-1952-stock-image-rights-managed.html)  
+   Link: <a href="https://www.sciencesource.com/1637969-salem-ufo-sighting-1952-stock-image-rights-managed.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencesource.com/1637969-salem-ufo-sighting-1952-stock-image-rights-managed.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Salem UFO Sighting, 1952 | Stock ImageSalem UFO Sighting, 1952 stock photo. On July 16, 1952 at 09:35 AM Coast Guard seaman Shell Alpert...</p></details>
    Published: July 16, 1952  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: us coast guard uapufo photo 1952  
-   Link: [https://www.reddit.com/r/aliens/comments/1d753f3/us_coast_guard_uapufo_photo_1952/](https://www.reddit.com/r/aliens/comments/1d753f3/us_coast_guard_uapufo_photo_1952/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditUS Coast Guard UAP/UFO photo 1952: r/aliensJune 3, 2024 — A second analysis by Blue Book concluded that it was probably reflection...</p></details>
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1d753f3/us_coast_guard_uapufo_photo_1952/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1d753f3/us_coast_guard_uapufo_photo_1952/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>US Coast Guard UAP/UFO photo 1952: r/aliensJune 3, 2024 — A second analysis by Blue Book concluded that it was probably reflection...</p></details>
    Published: June 3, 2024  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/rqrx73/1952_salem_massachusetts_ufo_photograph_part_of/](https://www.reddit.com/r/UFOs/comments/rqrx73/1952_salem_massachusetts_ufo_photograph_part_of/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/rqrx73/1952_salem_massachusetts_ufo_photograph_part_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rqrx73/1952_salem_massachusetts_ufo_photograph_part_of/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>project...A second analysis by Blue Book concluded that it was probably reflections of street lamps on a window. Finally, the case was c...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: coast guard photo from 1952 salem  
-   Link: [https://www.reddit.com/r/UFOs/comments/o8fq34/coast_guard_photo_from_1952_salem/](https://www.reddit.com/r/UFOs/comments/o8fq34/coast_guard_photo_from_1952_salem/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/o8fq34/coast_guard_photo_from_1952_salem/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/o8fq34/coast_guard_photo_from_1952_salem/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coast Guard photo from 1952, Salem: r/UFOsWas this UFO reported by local Boston news last year ever debunked? News article link in comme...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: prints.sciencesource.com  
-   Link: [https://prints.sciencesource.com/featured/salem-ufo-sighting-1952-science-source.html?product=art-print](https://prints.sciencesource.com/featured/salem-ufo-sighting-1952-science-source.html?product=art-print)  
+   Link: <a href="https://prints.sciencesource.com/featured/salem-ufo-sighting-1952-science-source.html?product=art-print" target="_blank" rel="noopener noreferrer nofollow">https://prints.sciencesource.com/featured/salem-ufo-sighting-1952-science-source.html?product=art-print</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo Sighting, 1952 Art PrintA second analysis by Blue Book concluded that it was probably reflections of street lamps on a window...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: [https://www.history.com/articles/project-blue-book](https://www.history.com/articles/project-blue-book)  
+   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien, Definition &amp; Files22 Feb 2010 — Project Blue Book in 1952; that project became the longest running of the US government&#x27;s official...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Project Blue Book: America's Obsession with UFOs  
-   Link: [https://www.youtube.com/watch?v=Xu4oTBBI5UE](https://www.youtube.com/watch?v=Xu4oTBBI5UE)  
+   Link: <a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book | Trailer | Watch On SBS On Demand...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Project Blue Book | Trailer | Watch On SBS On Demand  
-   Link: [https://www.youtube.com/watch?v=ApuwmZjHGu4](https://www.youtube.com/watch?v=ApuwmZjHGu4)  
+   Link: <a href="https://www.youtube.com/watch?v=ApuwmZjHGu4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ApuwmZjHGu4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1952 - The Invasion of Washington | Full Documentary...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
    Title: ufos uap america pentagon report  
-   Link: [https://www.theguardian.com/world/2021/may/29/ufos-uap-america-pentagon-report](https://www.theguardian.com/world/2021/may/29/ufos-uap-america-pentagon-report)  
+   Link: <a href="https://www.theguardian.com/world/2021/may/29/ufos-uap-america-pentagon-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2021/may/29/ufos-uap-america-pentagon-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Guardian&#x27;From hearsay to hard evidence&#x27;: are UFOs about to go...29 May 2021 — This picture, taken through the window of a laboratory...</p></details>
    Published: May 2021  
 
 13. <a id="endnote-13"></a>
    Source: theodysseyonline.com  
    Title: 10 astounding ufo photos  
-   Link: [https://www.theodysseyonline.com/10-astounding-ufo-photos](https://www.theodysseyonline.com/10-astounding-ufo-photos)  
+   Link: <a href="https://www.theodysseyonline.com/10-astounding-ufo-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.theodysseyonline.com/10-astounding-ufo-photos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9. Salem, Massachusetts. 1952... window pane, before finally being classified as &quot;unknown&quot;...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: threedollarkit.weebly.com  
    Title: bright lights of salem 1952  
-   Link: [https://threedollarkit.weebly.com/blog/bright-lights-of-salem-1952](https://threedollarkit.weebly.com/blog/bright-lights-of-salem-1952)  
+   Link: <a href="https://threedollarkit.weebly.com/blog/bright-lights-of-salem-1952" target="_blank" rel="noopener noreferrer nofollow">https://threedollarkit.weebly.com/blog/bright-lights-of-salem-1952</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Three-Dollar KitBright lights of Salem, 1952It is believed that the photos represent light reflections from an interior source (probably...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/project](https://dictionary.cambridge.org/dictionary/english/project)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionarya piece of planned work or an activity which is done over a period of time and intended to achiev...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya piece of planned work or an activity which is done over a period of time and intended to achiev...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Project](https://en.wikipedia.org/wiki/Project)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: alamy.com  
    Title: 1952 ufo  
-   Link: [https://www.alamy.com/stock-photo/1952-ufo.html](https://www.alamy.com/stock-photo/1952-ufo.html)  
+   Link: <a href="https://www.alamy.com/stock-photo/1952-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/1952-ufo.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(17) See 1952 ufo stock video clips... A U.S. Coast Guard photographer at Salem, Massachusetts, captures a mysterious sight of...Read more...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: project-audio.com  
-   Link: [https://www.project-audio.com/en/](https://www.project-audio.com/en/)  
+   Link: <a href="https://www.project-audio.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://www.project-audio.com/en/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pro-Ject Audio Systems – Turntables and hifi stereo...Turntables · Tonearms · Cartridges · HiFi Electronics · HiFi Sets · Speakers · Cab...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pmi.org  
-   Link: [https://www.pmi.org/about/what-is-a-project](https://www.pmi.org/about/what-is-a-project)  
+   Link: <a href="https://www.pmi.org/about/what-is-a-project" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/about/what-is-a-project</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Project, Examples and the Project LifecycleA project is a series of structured tasks, activities, and deliverables that are car...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: basedonatruestorypodcast.com  
    Title: That's what we'll look at in this episode of the Based on a True Story podcast  
-   Link: [https://www.basedonatruestorypodcast.com/376-project-blue-book/](https://www.basedonatruestorypodcast.com/376-project-blue-book/)  
+   Link: <a href="https://www.basedonatruestorypodcast.com/376-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.basedonatruestorypodcast.com/376-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>376: Project Blue Book | Based on a True Story Podcast7 Oct 2025 — How accurate is the History Channel&#x27;s Project Blue Book?...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The project, headquartered at Wright-Patterson Air Force Base, Ohio, was...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: popularmechanics.com  
    Title: 50 Years Ago, the Air Force Tried to Make UFOs Go Away  
-   Link: [https://www.popularmechanics.com/military/research/a30257166/project-blue-book-anniversary/](https://www.popularmechanics.com/military/research/a30257166/project-blue-book-anniversary/)  
+   Link: <a href="https://www.popularmechanics.com/military/research/a30257166/project-blue-book-anniversary/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a30257166/project-blue-book-anniversary/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Dec 2019 — Project Blue Book was formed to determine whether UFOs represented a threat to our nation,” Mark O&#x27;Connell, author of The C...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: ocula.com  
-   Link: [https://ocula.com/art-galleries/karma/artworks/keith-mayerson/first-daylight-photo-of-ufos-salem-mass-us-co/](https://ocula.com/art-galleries/karma/artworks/keith-mayerson/first-daylight-photo-of-ufos-salem-mass-us-co/)  
+   Link: <a href="https://ocula.com/art-galleries/karma/artworks/keith-mayerson/first-daylight-photo-of-ufos-salem-mass-us-co/" target="_blank" rel="noopener noreferrer nofollow">https://ocula.com/art-galleries/karma/artworks/keith-mayerson/first-daylight-photo-of-ufos-salem-mass-us-co/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 16, 1952, 2023 by Keith Mayerson at Karma in 188 E 2nd Street, New York...</p></details>
    Published: July 16, 1952  
 
 25. <a id="endnote-25"></a>
    Source: fold3.com  
    Title: us project blue book ufo investigations 1947 1969  
-   Link: [https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969](https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969)  
+   Link: <a href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US, Project Blue Book - UFO Investigations, 1947-196926 Feb 2007 — Records and case files relating to investigations of sightings of unid...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: merriam-webster.com  
    Title: PROJEC T Definition & Meaning3 days ago — 1  
-   Link: [https://www.merriam-webster.com/dictionary/project](https://www.merriam-webster.com/dictionary/project)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/project" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/project</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a: to devise in the mind: design b: to plan, figure, or estimate for the future 2. to throw or cast forward: thrust 3. to put or set...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DLAVRtrMfDv/](https://www.instagram.com/p/DLAVRtrMfDv/)  
+   Link: <a href="https://www.instagram.com/p/DLAVRtrMfDv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLAVRtrMfDv/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 16, 1952, through a window screen. He saw 4...Read more...</p></details>
    Published: July 16, 1952  
 
 28. <a id="endnote-28"></a>
    Source: Wikipedia  
    Title: 1952 Washington, D.C. UFO incident  
-   Link: [https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident](https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1952 Washington, D.C. UFO incidentFrom July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Wa...</p></details>

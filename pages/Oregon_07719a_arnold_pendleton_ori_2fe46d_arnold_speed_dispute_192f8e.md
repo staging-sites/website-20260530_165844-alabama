@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /origins/
 nav_short_title: Speed dispute
 title: Could Arnold really judge the saucers' speed?
-title_full: Could Arnold really judge the saucers' speed? | Origins
+title_full: Could Arnold really judge the saucers' speed?
 display_title_short: Speed dispute
 display_title: Speed dispute
 heading_title: Could Arnold really judge the saucers' speed?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:05:49'
-parent_title: How Oregon Entered The Flying Saucer Age | Oregon UFOs
+parent_title: How Oregon Entered The Flying Saucer Age
 parent_permalink: /origins/
 parent_nav_short_title: Origins
 parent_heading_title: How Oregon Entered The Flying Saucer Age
@@ -252,8 +252,7 @@ image: /assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_arnold_speed_dis
 
 Kenneth Arnold’s 24 June 1947 sighting became famous not only because he reported strange objects near Mount Rainier, but because he claimed they were moving at extraordinary speed. That estimate helped transform a curious aviation story into a national sensation. If Arnold’s calculation was roughly correct, the objects appeared to be travelling far faster than any publicly known aircraft of the period. If the calculation was wrong, then one of the most dramatic elements of the case weakens considerably.
 
-
-<img src="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_arnold_speed_dispute_192f8e-Illustration-1-light.svg" | relative_url }}" alt="Speed dispute illustration 1" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_arnold_speed_dispute_192f8e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_arnold_speed_dispute_192f8e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_arnold_speed_dispute_192f8e-Illustration-1-dark.svg" | relative_url }}" alt="Speed dispute illustration 1" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_arnold_speed_dispute_192f8e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_arnold_speed_dispute_192f8e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The dispute over speed remains one of the most important arguments in the history of the sighting. It is less a debate about stopwatches than about distance, perspective and human judgement. Arnold believed he had timed the objects between Mount Rainier and Mount Adams and concluded that they were moving at around 1,200 mph, with some versions of his calculation reaching more than 1,700 mph. Critics have argued that even a small error in estimating distance could radically change the result. Supporters counter that Arnold was an experienced pilot who deliberately used major landmarks to avoid making a purely visual guess. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting</span></span></span>
 
 ## How Arnold timed the objects between landmarks
@@ -265,9 +264,6 @@ According to his later accounts, he watched a chain of nine bright objects movin
 This detail matters because it gave the sighting an apparently measurable element. Newspapers quickly focused on the extraordinary speed claim. In an era before Chuck Yeager's Bell X-1 flight broke the sound barrier later that year, a reported speed of around 1,200 mph sounded almost impossible. The estimate therefore became one of the main reasons the story spread far beyond the Pacific Northwest and into national headlines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — What Kenneth Arnold saw while flying past Mt. Rainier on June 2...</span></span></span>
 
 Arnold later said he deliberately used the mountain peaks as fixed points because the air was exceptionally clear and because he wanted more than a casual impression. He understood that pilots routinely estimate distance and movement using landmarks. From his perspective, he was applying practical aviation judgement rather than speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://s3.us-west-1.wasabisys.com/luminist/EB/A/Arnold%20-%20I%20Did%20See%20the%20Flying%20Disks.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3.us-west-1.wasabisys.com">[s3.us-west-1.wasabisys.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3.us-west-1.wasabisys.com</span><span class="citation-popover-snippet">I Did See the Flying Disks.pdfI was determined to clock their speed. I had two definite points—Mt. Rainier and Mt. Adams—to clock them by...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/01sVLTO8xmo" title="24th June 1947: The first widely-reported UFO sighting was made by private pilot Kenneth Arnold" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=01sVLTO8xmo" target="_blank" rel="noopener noreferrer">24th June 1947: The first widely-reported UFO sighting was made by private pilot Kenneth Arnold</a></p><p class="youtube-embed-meta">Channel: HistoryPod &middot; Views: 22.6K &middot; Uploaded: June 2021 &middot; Length: 2 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=01sVLTO8xmo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=01sVLTO8xmo">Open on YouTube</a></p></div></div></div>
 
 ## Why distance and size assumptions matter
 
@@ -287,8 +283,7 @@ Several additional uncertainties complicate the calculation:
 
 None of these points proves that the speed estimate was wrong. They do, however, show why later investigators treated the figure as an inference rather than a directly measured fact.
 
-
-<img src="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_arnold_speed_dispute_192f8e-Illustration-2-light.svg" | relative_url }}" alt="Speed dispute illustration 2" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_arnold_speed_dispute_192f8e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_arnold_speed_dispute_192f8e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_arnold_speed_dispute_192f8e-Illustration-2-dark.svg" | relative_url }}" alt="Speed dispute illustration 2" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_arnold_speed_dispute_192f8e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_arnold_speed_dispute_192f8e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the speed claim impressed people in 1947
 
 Part of the dispute can only be understood in historical context.
@@ -297,11 +292,9 @@ In mid-1947 the United States was entering the jet age, but public awareness of 
 
 Military officials initially explored whether Arnold might have seen experimental aircraft. Some early speculation centred on Lockheed P-80 jet fighters, one of the few American aircraft capable of unusually high speeds at the time. Yet even those aircraft fell well short of the figures Arnold reported. This mismatch helped fuel public fascination and encouraged later theories ranging from secret weapons to extraterrestrial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting</span></span></span>
 
-For [Oregon]({{ 'why-oregon-matters-in-ufo-history/' | relative_url }})'s role in the story, this matters because the dramatic speed estimate was already attached to the account when Arnold reached Pendleton and spoke with reporters. The speed claim was one of the elements that made the East Oregonian interview and subsequent Associated Press coverage so newsworthy.
+For Oregon's role in the story, this matters because the dramatic speed estimate was already attached to the account when Arnold reached Pendleton and spoke with reporters. The speed claim was one of the elements that made the East Oregonian interview and subsequent Associated Press coverage so newsworthy.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ap0whDDDU1Y" title="Where Did The Term &#x27;Flying Saucer&#x27; Come From? | Mossback&#x27;s Northwest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer">Where Did The Term &#x27;Flying Saucer&#x27; Come From? | Mossback&#x27;s Northwest</a></p><p class="youtube-embed-meta">Channel: Cascade PBS &middot; Views: 1.9K &middot; Uploaded: July 2019 &middot; Length: 4 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ap0whDDDU1Y">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_arnold_speed_dispute_192f8e-Illustration-3-dark.svg" | relative_url }}" alt="Speed dispute illustration 3" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_arnold_speed_dispute_192f8e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_arnold_speed_dispute_192f8e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Conventional explanations and unresolved doubts
 
 Many sceptical explanations focus less on what the objects were and more on why Arnold may have overestimated their speed.
@@ -314,8 +307,8 @@ Debunker Donald Menzel offered several different explanations over the years, in
 
 Supporters of Arnold's account point to a different issue. They note that he was not an untrained observer. He had thousands of hours of flying experience and immediately recognised that the apparent speed was unusual. They argue that his use of mountain landmarks was a more thoughtful approach than the casual visual estimates found in many later UFO reports. Even if the exact figure was wrong, they contend that something genuinely unusual may still have been observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — What Kenneth Arnold saw while flying past Mt. Rainier on June 2...</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/12uXbLC7Xug" title="The Coming of the Saucers 💖 By Kenneth Arnold, Raymond Palmer. FULL Audiobook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=12uXbLC7Xug" target="_blank" rel="noopener noreferrer">The Coming of the Saucers 💖 By Kenneth Arnold, Raymond Palmer. FULL Audiobook</a></p><p class="youtube-embed-meta">Channel: Best Full Audiobooks &middot; Views: 387 &middot; Uploaded: January 2024 &middot; Length: 6 hours 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=12uXbLC7Xug" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=12uXbLC7Xug">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_arnold_speed_dispute_192f8e-Illustration-3-light.svg" | relative_url }}" alt="Speed dispute illustration 3" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_arnold_speed_dispute_192f8e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_arnold_speed_dispute_192f8e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Did the speed estimate survive later scrutiny?
 
 The strongest modern assessment is neither full confirmation nor complete debunking.
@@ -325,10 +318,6 @@ There is no independent measurement proving that objects crossed the Rainier–A
 At the same time, critics have never produced a universally accepted alternative reconstruction. Proposed explanations involving mirages, birds, clouds or reflections all require their own assumptions, and none has ended the debate. The case therefore remains caught between two uncertainties: uncertainty about the objects themselves and uncertainty about the geometry behind the speed calculation.
 
 That is why the Mount Rainier speed dispute remains central to the wider Kenneth Arnold story. The claim that launched the flying-saucer era was not merely that strange objects existed, but that they seemed to move with impossible performance. Whether Arnold genuinely witnessed something extraordinary or misjudged distance under difficult viewing conditions, the argument over his speed estimate remains one of the most important unresolved questions in the [origins]({{ 'origins/' | relative_url }}) of modern UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MJp-YR34XBs" title="The First UFO Sighting In America | UFOs: The Lost Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MJp-YR34XBs" target="_blank" rel="noopener noreferrer">The First UFO Sighting In America | UFOs: The Lost Evidence</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 182.5K &middot; Uploaded: December 2020 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MJp-YR34XBs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MJp-YR34XBs">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -752,30 +741,30 @@ That is why the Mount Rainier speed dispute remains central to the wider Kenneth
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold UFO sighting  
-   Link: [https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting](https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
 
 2. <a id="endnote-2"></a>
    Source: s3.us-west-1.wasabisys.com  
-   Link: [https://s3.us-west-1.wasabisys.com/luminist/EB/A/Arnold%20-%20I%20Did%20See%20the%20Flying%20Disks.pdf](https://s3.us-west-1.wasabisys.com/luminist/EB/A/Arnold%20-%20I%20Did%20See%20the%20Flying%20Disks.pdf)  
+   Link: <a href="https://s3.us-west-1.wasabisys.com/luminist/EB/A/Arnold%20-%20I%20Did%20See%20the%20Flying%20Disks.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-west-1.wasabisys.com/luminist/EB/A/Arnold%20-%20I%20Did%20See%20the%20Flying%20Disks.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I Did See the Flying Disks.pdfI was determined to clock their speed. I had two definite points—Mt. Rainier and Mt. Adams—to clock them by...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: history.com  
    Title: Kenneth Arnold  
-   Link: [https://www.history.com/articles/kenneth-arnold](https://www.history.com/articles/kenneth-arnold)  
+   Link: <a href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/kenneth-arnold</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, 1947 &amp; Flying SaucerFeb 22, 2010 — On June 24, 1947, the civilian pilot Kenneth Arnold reported seeing nine objects, glowing bright...</p></details>
    Published: June 24, 1947  
 
 4. <a id="endnote-4"></a>
    Source: airandspace.si.edu  
    Title: 1947 year flying saucer  
-   Link: [https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer](https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer)  
+   Link: <a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — What Kenneth Arnold saw while flying past Mt. Rainier on June 2...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: science.howstuffworks.com  
    Title: ufo history  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/ufo-history.htm](https://science.howstuffworks.com/space/aliens-ufos/ufo-history.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-history.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryArnold estimated that the chain they comprised was five miles long. After two and a half minutes, they disappeared, heading south...</p></details>
 
 ### Additional References
@@ -783,55 +772,55 @@ That is why the Mount Rainier speed dispute remains central to the wider Kenneth
 6. <a id="endnote-6"></a>
    Source: scottbakal.com  
    Title: Kenneth Arnold Sighting The Kenneth Arnold Sighting Mount Ranier, Washington  
-   Link: [https://www.scottbakal.com/kennetharnoldsighting](https://www.scottbakal.com/kennetharnoldsighting)  
+   Link: <a href="https://www.scottbakal.com/kennetharnoldsighting" target="_blank" rel="noopener noreferrer nofollow">https://www.scottbakal.com/kennetharnoldsighting</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold SightingThe Kenneth Arnold Sighting Mount Ranier, Washington June 24, 1947. The very first public sighting of a flying &#x27;di...</p></details>
    Published: June 24, 1947  
 
 7. <a id="endnote-7"></a>
    Source: mukundsathe.com  
-   Link: [https://mukundsathe.com/2015/06/24/this-day-in-history-24-jun-1947-kenneth-arnold-makes-the-first-widely-reported-ufo-sighting-near-mount-rainier-washington/](https://mukundsathe.com/2015/06/24/this-day-in-history-24-jun-1947-kenneth-arnold-makes-the-first-widely-reported-ufo-sighting-near-mount-rainier-washington/)  
+   Link: <a href="https://mukundsathe.com/2015/06/24/this-day-in-history-24-jun-1947-kenneth-arnold-makes-the-first-widely-reported-ufo-sighting-near-mount-rainier-washington/" target="_blank" rel="noopener noreferrer nofollow">https://mukundsathe.com/2015/06/24/this-day-in-history-24-jun-1947-kenneth-arnold-makes-the-first-widely-reported-ufo-sighting-near-mount-rainier-washington/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ranier to Mt. Adams. This information would be used to estimate the objects&#x27; speed at 1,200 mph, an...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: discoveryuk.com  
    Title: legendary flying saucer re examining the kenneth arnold ufo sighting  
-   Link: [https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/](https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Re-examining the Kenneth Arnold UFO Sighting8 Oct 2025 — According to Kenneth Arnold, the UFO sighting was measured as moving from Mount...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/2ec69874-2b2e-4f57-b217-75a9e73f5211](https://enigmalabs.io/library/2ec69874-2b2e-4f57-b217-75a9e73f5211)  
+   Link: <a href="https://enigmalabs.io/library/2ec69874-2b2e-4f57-b217-75a9e73f5211" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/2ec69874-2b2e-4f57-b217-75a9e73f5211</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ount Adams, a distance of about 50 miles was just 1 minute and 42 seconds.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
    Title: on june 24 1947 pilot kenneth arnold claimed that  
-   Link: [https://www.reddit.com/r/wikipedia/comments/1lj99pj/on_june_24_1947_pilot_kenneth_arnold_claimed_that/](https://www.reddit.com/r/wikipedia/comments/1lj99pj/on_june_24_1947_pilot_kenneth_arnold_claimed_that/)  
+   Link: <a href="https://www.reddit.com/r/wikipedia/comments/1lj99pj/on_june_24_1947_pilot_kenneth_arnold_claimed_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/wikipedia/comments/1lj99pj/on_june_24_1947_pilot_kenneth_arnold_claimed_that/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On June 24, 1947, pilot Kenneth Arnold claimed that he...Jun 24, 2025 — Kenneth Arnold a pilot claims to have seen 9 UFOs, in a string o...</p></details>
    Published: June 24, 1947  
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/19cc2n4/hours_after_his_sighting_of_9_ufos_pilot_kenneth/](https://www.reddit.com/r/UFOs/comments/19cc2n4/hours_after_his_sighting_of_9_ufos_pilot_kenneth/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/19cc2n4/hours_after_his_sighting_of_9_ufos_pilot_kenneth/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/19cc2n4/hours_after_his_sighting_of_9_ufos_pilot_kenneth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n 1947 passing past Mt.Rainier at a speed of 1200 miles per hour.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: americanghostwalks.com  
    Title: kenneth arnold and the origin of flying saucers  
-   Link: [https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers](https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers)  
+   Link: <a href="https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers" target="_blank" rel="noopener noreferrer nofollow">https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold and the Origin of the Modern UFO Movement24 Jun 2025 — Using the distance between Mount Rainier and Mount Adams, Arnold ca...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/](https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1947 passing past Mt.Rainier at a speed of 1200 miles per hour.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: attitudeofaggression.com  
-   Link: [https://www.attitudeofaggression.com/wp-content/uploads/2026/03/Kenneth-Arnold-Sighting-History-Analysis.docx](https://www.attitudeofaggression.com/wp-content/uploads/2026/03/Kenneth-Arnold-Sighting-History-Analysis.docx)  
+   Link: <a href="https://www.attitudeofaggression.com/wp-content/uploads/2026/03/Kenneth-Arnold-Sighting-History-Analysis.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.attitudeofaggression.com/wp-content/uploads/2026/03/Kenneth-Arnold-Sighting-History-Analysis.docx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>0 miles in 1 minute 42 seconds, which led him to estimate a speed of at...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYfNNWlScj7/](https://www.instagram.com/reel/DYfNNWlScj7/)  
+   Link: <a href="https://www.instagram.com/reel/DYfNNWlScj7/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYfNNWlScj7/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>saw the formation reach Adams in one minute and 42 seconds.Read more...</p></details>

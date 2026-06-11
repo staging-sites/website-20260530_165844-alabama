@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /hanford-made-ufo-reports-matter/
 nav_short_title: Balloon Claims
 title: When Hanford UFOs became balloon cases
-title_full: When Hanford UFOs became balloon cases | Hanford Made UFO Reports Matter Because The Sky Above...
+title_full: When Hanford UFOs became balloon cases
 display_title_short: Balloon Claims
 display_title: Balloon Claims
 heading_title: When Hanford UFOs became balloon cases
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:25:33'
-parent_title: Why Hanford Made UFO Reports Matter | Washington UFOs
+parent_title: Why Hanford Made UFO Reports Matter
 parent_permalink: /hanford-made-ufo-reports-matter/
 parent_nav_short_title: Hanford Made UFO Reports Matter Because The Sky Above...
 parent_heading_title: Why Hanford Made UFO Reports Matter
@@ -250,10 +250,9 @@ image: /assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3_hanford_skyh
 
 ## Introduction
 
-Hanford’s reputation in UFO history often rests on reports that seemed difficult to explain, especially because they occurred near one of the United States’ most sensitive nuclear facilities. Yet some of the most discussed Hanford-area sightings eventually became examples of how Cold War technology could create UFO reports without any exotic cause. High-altitude Skyhook balloons, weather balloons and other conventional aerial objects repeatedly confused pilots, radar operators and ground observers during the late 1940s and early 1950s. Their role matters because it tests a central question in [Washington]({{ 'why-washington-shaped-ufo-history/' | relative_url }})’s UFO history: how much of the Hanford pattern remains genuinely puzzling once the explained cases are removed?
+Hanford’s reputation in UFO history often rests on reports that seemed difficult to explain, especially because they occurred near one of the United States’ most sensitive nuclear facilities. Yet some of the most discussed Hanford-area sightings eventually became examples of how Cold War technology could create UFO reports without any exotic cause. High-altitude Skyhook balloons, weather balloons and other conventional aerial objects repeatedly confused pilots, radar operators and ground observers during the late 1940s and early 1950s. Their role matters because it tests a central question in Washington’s UFO history: how much of the Hanford pattern remains genuinely puzzling once the explained cases are removed?
 
-
-<img src="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3_hanford_skyhook_expl_51f5ca-Illustration-1-light.svg" | relative_url }}" alt="Balloon Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3_hanford_skyhook_expl_51f5ca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3_hanford_skyhook_expl_51f5ca-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3_hanford_skyhook_expl_51f5ca-Illustration-1-dark.svg" | relative_url }}" alt="Balloon Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3_hanford_skyhook_expl_51f5ca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3_hanford_skyhook_expl_51f5ca-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The answer is more complicated than either believers or sceptics sometimes suggest. Balloon explanations resolved some reports and showed how easily unusual objects could be misidentified in the atomic age. At the same time, not every Hanford-related sighting fits neatly into a known balloon launch. The historical value of the balloon cases lies less in “solving” the entire mystery than in showing how investigators tried to separate security concerns, witness testimony and ordinary airborne objects during a period of intense Cold War anxiety.
 
 ## Ruppelt's 1952 Hanford airliner report
@@ -264,7 +263,6 @@ The case is important because it shows the difference between the public appeara
 
 This does not mean every official explanation was automatically correct. UFO researchers have long argued over whether some cases were closed too quickly. But the Hanford airliner report demonstrates that at least some atomic-site sightings entered UFO history before later evidence pointed to a conventional source. It remains one of the clearest examples of a Hanford-area report moving from apparent mystery to probable identification.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9w9RowkJ1yY" title="Balloons! The Forgotten Flights That No One Talks About" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9w9RowkJ1yY" target="_blank" rel="noopener noreferrer">Balloons! The Forgotten Flights That No One Talks About</a></p><p class="youtube-embed-meta">Channel: Rex&#x27;s Hangar &middot; Views: 191.9K &middot; Uploaded: November 2022 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9w9RowkJ1yY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9w9RowkJ1yY">Open on YouTube</a></p></div></div></div>
 
 ## Why Skyhook balloons confused pilots and observers
@@ -274,7 +272,6 @@ To modern readers, a balloon may sound like a weak explanation for reports invol
 Project Skyhook used enormous plastic balloons designed to reach extreme altitudes for scientific and military research. Developed for the US Navy and research organisations, these balloons operated far higher than ordinary weather balloons and could remain visible over long distances. Their reflective surfaces often caught sunlight dramatically, especially near dawn, dusk or when observers viewed them against darker skies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">Ruppelt, detailing his experience running Project...Read more...</span></span></span>
 
 Several characteristics made them particularly prone to UFO reports:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -288,8 +285,7 @@ Several characteristics made them particularly prone to UFO reports:
 
 These factors mattered especially around Hanford. The region already sat inside a security environment dominated by restricted airspace, military aircraft and concerns about Soviet reconnaissance. A strange object above a rural town might be dismissed. A strange object above a plutonium-production complex attracted immediate attention.
 
-
-<img src="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3_hanford_skyhook_expl_51f5ca-Illustration-2-light.svg" | relative_url }}" alt="Balloon Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3_hanford_skyhook_expl_51f5ca-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3_hanford_skyhook_expl_51f5ca-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3_hanford_skyhook_expl_51f5ca-Illustration-2-dark.svg" | relative_url }}" alt="Balloon Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3_hanford_skyhook_expl_51f5ca-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3_hanford_skyhook_expl_51f5ca-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The wider balloon problem in early UFO investigations
 
 Hanford was not unique. Across the United States, Skyhook balloons became entangled with the emerging flying-saucer phenomenon.
@@ -299,7 +295,6 @@ Histories of the programme note that Skyhook launches generated numerous UFO rep
 Ruppelt himself occupied an unusual middle ground. He neither accepted every UFO report as extraordinary nor claimed that balloons explained everything. In his writings, he noted that Blue Book investigators tracked balloon launches carefully because balloons were a known source of reports. Yet he also argued that not all cases could be dismissed in the same way. He even remarked that ordinary weather balloons created more identification problems than the larger Skyhook programme in some circumstances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">We had methods for checking the location, at any time, of every balloon launched anywhere in the...Read more...</span></span></span>
 
 That distinction is useful when evaluating Hanford. The existence of documented balloon misidentifications strengthens sceptical interpretations of some reports. It does not automatically resolve every sighting associated with the site.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k0CYcMU740E" title="The day a US fighter fired on a UFO! Ed Ruppelt and Project Blue Book! - PATREON EXCLUSIVE PREVIEW!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k0CYcMU740E" target="_blank" rel="noopener noreferrer">The day a US fighter fired on a UFO! Ed Ruppelt and Project Blue Book! - PATREON EXCLUSIVE PREVIEW!</a></p><p class="youtube-embed-meta">Channel: The Angry Astronaut &middot; Views: 24.2K &middot; Uploaded: March 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k0CYcMU740E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k0CYcMU740E">Open on YouTube</a></p></div></div></div>
 
@@ -315,8 +310,7 @@ A confirmed balloon identification does not prove that every Hanford report invo
 
 This is why Hanford occupies an unusual place in Washington UFO history. The site produced both kinds of cases: reports that appear less mysterious after closer investigation and reports that remain disputed because the available evidence is incomplete. The Skyhook examples serve as a reminder that the history is strongest when both categories are considered together.
 
-
-<img src="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3_hanford_skyhook_expl_51f5ca-Illustration-3-light.svg" | relative_url }}" alt="Balloon Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3_hanford_skyhook_expl_51f5ca-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3_hanford_skyhook_expl_51f5ca-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3_hanford_skyhook_expl_51f5ca-Illustration-3-dark.svg" | relative_url }}" alt="Balloon Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3_hanford_skyhook_expl_51f5ca-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_hanford_cold_war_ufo_7431a3_hanford_skyhook_expl_51f5ca-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the balloon explanations still matter
 
 For readers looking back at Cold War UFO history, the balloon cases are not a footnote. They are part of the reason the Hanford story remains interesting.
@@ -325,9 +319,7 @@ If every report near the nuclear reservation had stayed unexplained, the record 
 
 In that sense, Skyhook balloons are not merely an alternative explanation to Hanford UFO reports. They are part of the historical environment that created them. The same Cold War system that built reactors, radar stations and interceptor networks also launched unusual objects into the sky. Understanding those balloon programmes helps explain why Hanford became both a UFO hotspot and a place where some of the mystery dissolved under closer scrutiny.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lAxs08z2yZA" title="Project Blue Book: The Real Story Behind the Air Force&#x27;s UFO Investigations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lAxs08z2yZA" target="_blank" rel="noopener noreferrer">Project Blue Book: The Real Story Behind the Air Force&#x27;s UFO Investigations</a></p><p class="youtube-embed-meta">Channel: MostAmazingTop10 &middot; Views: 5.9K &middot; Uploaded: July 2024 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lAxs08z2yZA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lAxs08z2yZA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -415,7 +407,7 @@ In that sense, Skyhook balloons are not merely an alternative explanation to Han
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -425,111 +417,36 @@ In that sense, Skyhook balloons are not merely an alternative explanation to Han
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hanford-ufos-became-balloon-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-hanford-ufos-became-balloon-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hanford-ufos-became-balloon-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-hanford-ufos-became-balloon-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hanford-ufos-became-balloon-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-hanford-ufos-became-balloon-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hanford-ufos-became-balloon-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-hanford-ufos-became-balloon-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,15 +454,15 @@ In that sense, Skyhook balloons are not merely an alternative explanation to Han
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hanford-ufos-became-balloon-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-hanford-ufos-became-balloon-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hanford-ufos-became-balloon-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-hanford-ufos-became-balloon-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hanford-ufos-became-balloon-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-hanford-ufos-became-balloon-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hanford-ufos-became-balloon-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-hanford-ufos-became-balloon-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -553,15 +470,15 @@ In that sense, Skyhook balloons are not merely an alternative explanation to Han
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hanford-ufos-became-balloon-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-hanford-ufos-became-balloon-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hanford-ufos-became-balloon-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-hanford-ufos-became-balloon-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hanford-ufos-became-balloon-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-hanford-ufos-became-balloon-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hanford-ufos-became-balloon-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-hanford-ufos-became-balloon-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -569,15 +486,15 @@ In that sense, Skyhook balloons are not merely an alternative explanation to Han
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hanford-ufos-became-balloon-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-hanford-ufos-became-balloon-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hanford-ufos-became-balloon-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-hanford-ufos-became-balloon-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hanford-ufos-became-balloon-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-hanford-ufos-became-balloon-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hanford-ufos-became-balloon-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-hanford-ufos-became-balloon-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -585,7 +502,7 @@ In that sense, Skyhook balloons are not merely an alternative explanation to Han
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-claims-when-hanford-ufos-became-balloon-cases-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-hanford-ufos-became-balloon-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="when-hanford-ufos-became-balloon-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -662,17 +579,31 @@ In that sense, Skyhook balloons are not merely an alternative explanation to Han
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -685,42 +616,73 @@ In that sense, Skyhook balloons are not merely an alternative explanation to Han
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -735,12 +697,17 @@ In that sense, Skyhook balloons are not merely an alternative explanation to Han
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -751,65 +718,65 @@ In that sense, Skyhook balloons are not merely an alternative explanation to Han
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: The Report on Unidentified Flying Objects  
-   Link: [https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects](https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ruppelt, detailing his experience running Project...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>We had methods for checking the location, at any time, of every balloon launched anywhere in the...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Skyhook balloon  
-   Link: [https://en.wikipedia.org/wiki/Skyhook_balloon](https://en.wikipedia.org/wiki/Skyhook_balloon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Skyhook_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skyhook_balloon</a>  
 
 4. <a id="endnote-4"></a>
    Source: designation-systems.net  
    Title: ws 119l  
-   Link: [https://www.designation-systems.net/dusrm/app4/ws-119l.html](https://www.designation-systems.net/dusrm/app4/ws-119l.html)  
+   Link: <a href="https://www.designation-systems.net/dusrm/app4/ws-119l.html" target="_blank" rel="noopener noreferrer nofollow">https://www.designation-systems.net/dusrm/app4/ws-119l.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Designation SystemsReconnaissance Balloons (WS-119L / WS-461L)21 Mar 2006 — High-flying Skyhook balloons provided an excellent stimulus f...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Mantell UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Mantell_UFO_incident](https://en.wikipedia.org/wiki/Mantell_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mantell_UFO_incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 — While UFOs are culturally associated with the mysterious, they are often later identified, particularly as balloons. Skyhoo...</p></details>
    Published: May 8, 2026  
 
 6. <a id="endnote-6"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346.html](https://www.gutenberg.org/cache/epub/17346/pg17346.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Report on Unidentified Flying ObjectsOne man said that they were all skyhook balloons, but we knew the flight path o...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: [https://en.wikipedia.org/wiki/1947_flying_disc_craze](https://en.wikipedia.org/wiki/1947_flying_disc_craze)  
+   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeBloecher writes: &quot;With scarcely more than a dozen sightings for July 10th, the UFO wave of 1947 had almost compl...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: 1952 Washington, D.C. UFO incident  
-   Link: [https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident](https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1952 Washington, D.C. UFO incidentFrom July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Wa...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: gutenberg.org  
    Title: 66639.txt.utf 8  
-   Link: [https://www.gutenberg.org/ebooks/66639.txt.utf-8](https://www.gutenberg.org/ebooks/66639.txt.utf-8)  
+   Link: <a href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/66639.txt.utf-8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Plain Text UTF-8At a conference with Air Force officials in Washington in April 1952, he... report that the UFO was probably their ballo...</p></details>
    Published: April 1952  
 
 11. <a id="endnote-11"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/rufo/rufo13.htm](https://sacred-texts.com/ufo/rufo/rufo13.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo13.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo13.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Sacred Text ArchiveThe Report on Unidentified Flying Objects: Chapter Eleven...May 30, 1956 — On July 5 the crew of a non-schedu...</p></details>
    Published: May 30, 1956  
 
@@ -817,52 +784,52 @@ In that sense, Skyhook balloons are not merely an alternative explanation to Han
 
 12. <a id="endnote-12"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
 13. <a id="endnote-13"></a>
    Source: medium.com  
-   Link: [https://medium.com/the-haven/are-you-ready-for-the-truth-about-ufo-10-project-blue-book-that-will-blow-your-mind-cd24cfec1433](https://medium.com/the-haven/are-you-ready-for-the-truth-about-ufo-10-project-blue-book-that-will-blow-your-mind-cd24cfec1433)  
+   Link: <a href="https://medium.com/the-haven/are-you-ready-for-the-truth-about-ufo-10-project-blue-book-that-will-blow-your-mind-cd24cfec1433" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-haven/are-you-ready-for-the-truth-about-ufo-10-project-blue-book-that-will-blow-your-mind-cd24cfec1433</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book That Will Blow Your Mind | The HavenThe Air Force also released some information that it was a balloon from a secret na...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: newyorker.com  
-   Link: [https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky](https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky)  
+   Link: <a href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Something in the SkyDURING March of this year, Captain Ruppelt&#x27;s records show, seventeen sightings were reported.... balloons, propeller...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/doc/275519727/Alfred-Loedding-The-Great-Flying-Saucer-Wave-of-1947-Michael-D-Connors-Wendy-A-Hall-pdf](https://www.scribd.com/doc/275519727/Alfred-Loedding-The-Great-Flying-Saucer-Wave-of-1947-Michael-D-Connors-Wendy-A-Hall-pdf)  
+   Link: <a href="https://www.scribd.com/doc/275519727/Alfred-Loedding-The-Great-Flying-Saucer-Wave-of-1947-Michael-D-Connors-Wendy-A-Hall-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/275519727/Alfred-Loedding-The-Great-Flying-Saucer-Wave-of-1947-Michael-D-Connors-Wendy-A-Hall-pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alfred Loedding and the 1947 UFO Wave | PDFWhen UFOs first appeared in numbers during the great flying saucer wave of 1947, few people ma...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/rufo/rufo19.htm](https://sacred-texts.com/ufo/rufo/rufo19.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo19.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo19.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The report didn&#x27;t have many details but it did sound good. It gave the pilot&#x27;s name and said that he could be reached at Moody AFB...Rea...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: [https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/](https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/)  
+   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 5, 2017 — And the alien hysteria had gotten even wackier. By the early 1990s, with scant evidence to support it, a global UFO and ext...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=9w9RowkJ1yY](https://www.youtube.com/watch?v=9w9RowkJ1yY)  
+   Link: <a href="https://www.youtube.com/watch?v=9w9RowkJ1yY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9w9RowkJ1yY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Balloons! The Forgotten Flights That No One Talks AboutToday we&#x27;re taking a brief look at the fascinating evolution of manned balloon fli...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: en.wikisource.org  
    Title: Page:Ruppelt The Report on Unidentified Flying Objects.djvu  
-   Link: [https://en.wikisource.org/wiki/Page%3ARuppelt_-_The_Report_on_Unidentified_Flying_Objects.djvu/40](https://en.wikisource.org/wiki/Page%3ARuppelt_-_The_Report_on_Unidentified_Flying_Objects.djvu/40)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3ARuppelt_-_The_Report_on_Unidentified_Flying_Objects.djvu/40" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3ARuppelt_-_The_Report_on_Unidentified_Flying_Objects.djvu/40</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Jan 2023 — If he could see the objects 20 to 25 miles away, they must have been about 210 feet long instead of the poorly estimated 45...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: todayifoundout.com  
    Title: the secret cold war project behind the roswell ufo incident  
-   Link: [https://www.todayifoundout.com/index.php/2022/12/the-secret-cold-war-project-behind-the-roswell-ufo-incident/](https://www.todayifoundout.com/index.php/2022/12/the-secret-cold-war-project-behind-the-roswell-ufo-incident/)  
+   Link: <a href="https://www.todayifoundout.com/index.php/2022/12/the-secret-cold-war-project-behind-the-roswell-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.todayifoundout.com/index.php/2022/12/the-secret-cold-war-project-behind-the-roswell-ufo-incident/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret Cold War Project Behind the Roswell UFO...Dec 10, 2022 — While the early UFO sightings of the 1940s and 1950s were almost cer...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: greydynamics.com  
-   Link: [https://greydynamics.com/skyhook-fulton-surface-to-air-recovery-system/](https://greydynamics.com/skyhook-fulton-surface-to-air-recovery-system/)  
+   Link: <a href="https://greydynamics.com/skyhook-fulton-surface-to-air-recovery-system/" target="_blank" rel="noopener noreferrer nofollow">https://greydynamics.com/skyhook-fulton-surface-to-air-recovery-system/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skyhook: Fulton surface-to-air Recovery SystemThe Skyhook system consisted of two or three parts, depending on the load in question...</p></details>

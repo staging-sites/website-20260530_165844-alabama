@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /louisiana-b158e0-haynesville-traces/
 description: Focused pages that expand on Haynesville.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Louisiana_b158e0_haynesville_traces_cdce34
-parent_title: Haynesville | What Really Happened in Louisiana's UFO...
+parent_title: Haynesville
 parent_nav_short_title: Haynesville
 parent_permalink: /haynesville/
 ---

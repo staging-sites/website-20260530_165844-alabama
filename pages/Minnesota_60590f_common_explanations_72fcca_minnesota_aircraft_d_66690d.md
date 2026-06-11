@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /explanations-2d29c0/
 nav_short_title: Aircraft & Drones
 title: Could Planes and Drones Explain Minnesota UFO Sightings?
-title_full: Could Planes and Drones Explain Minnesota UFO Sightings? | Explanations
+title_full: Could Planes and Drones Explain Minnesota UFO Sightings?
 display_title_short: Aircraft & Drones
 display_title: Aircraft & Drones
 heading_title: Could Planes and Drones Explain Minnesota UFO Sightings?
@@ -198,7 +198,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:41:45'
-parent_title: What Minnesota Sightings Might Really Be | Minnesota UAP
+parent_title: What Minnesota Sightings Might Really Be
 parent_permalink: /explanations-2d29c0/
 parent_nav_short_title: Explanations
 parent_heading_title: What Minnesota Sightings Might Really Be
@@ -248,16 +248,14 @@ image: /assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_airc
 
 ## Introduction
 
-When residents across **[Minnesota]({{ 'what-really-happened-in-minnesotas-skies/' | relative_url }})** report unusual lights, objects hovering in the night sky, or craft moving in ways that seem unfamiliar, a large proportion of these sightings have **very ordinary [explanations]({{ 'explanations-2d29c0/' | relative_url }}) rooted in human‑made flight activity and known aerial traffic**. Misidentified aircraft, the increasing presence of recreational and commercial drones, and patterns of routine flight paths near urban centres all contribute to why observers sometimes describe what they see as “mysterious” or “unidentified”. This analysis examines how **conventional aircraft, drones, and known flight corridors** intersect with Minnesota’s UFO reporting patterns, helping explain why many sightings credited as unexplained are better understood through familiar aviation and airspace behaviour.
+When residents across **Minnesota** report unusual lights, objects hovering in the night sky, or craft moving in ways that seem unfamiliar, a large proportion of these sightings have **very ordinary [explanations]({{ 'explanations-2d29c0/' | relative_url }}) rooted in human‑made flight activity and known aerial traffic**. Misidentified aircraft, the increasing presence of recreational and commercial drones, and patterns of routine flight paths near urban centres all contribute to why observers sometimes describe what they see as “mysterious” or “unidentified”. This analysis examines how **conventional aircraft, drones, and known flight corridors** intersect with Minnesota’s UFO reporting patterns, helping explain why many sightings credited as unexplained are better understood through familiar aviation and airspace behaviour.
 
-
-<img src="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_aircraft_d_66690d-Illustration-1-light.svg" | relative_url }}" alt="Aircraft &amp; Drones illustration 1" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_aircraft_d_66690d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_aircraft_d_66690d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_aircraft_d_66690d-Illustration-1-dark.svg" | relative_url }}" alt="Aircraft &amp; Drones illustration 1" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_aircraft_d_66690d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_aircraft_d_66690d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Conventional Aircraft and Established Flight Paths
 
 For many Minnesota sighting reports, the first place to look is **regular aviation traffic**. Minnesota’s busiest airport, Minneapolis–Saint Paul International (MSP), sits close to the densely populated [Twin Cities]({{ 'twin-cities/' | relative_url }}) region, and a web of **commercial and general aviation routes** extends outward across the state. Flights taking off or landing, especially at night or in low light, can appear unusual to observers unfamiliar with standard aircraft lighting and behaviour. Lighted aircraft navigation lights — red on the left wingtip, green on the right, and white strobe beacons — can create **optical illusions** at distance, including apparent hovering or slow movement that’s simply a viewing angle effect. People often misinterpret these cues as stationary or erratic UFO motion when what they are observing are conventional planes on normal flight paths elsewhere in the sky. Similar misinterpretations have been widely documented in general UFO research, where aircraft, stars, satellites, and space stations seen at distance are repeatedly mistaken for unidentified craft.[Wikipedia]
 
 Locally, one long‑term Minnesota observer reported objects that matched **consistent flight paths** out of Flying Cloud Airport in Eden Prairie, noting repeated apparent movements along the same corridor even when the airport was closed for the night. Observers assumed unfamiliar craft, yet the **presence of aircraft activity over recognised flight routes** is a strong conventional explanation for such repeated, structured sightings.[FOX 9 Minneapolis-St. Paul]
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ag2pzH6aSpY" title="Newly declassified UFO files reveal unexplained encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ag2pzH6aSpY" target="_blank" rel="noopener noreferrer">Newly declassified UFO files reveal unexplained encounters</a></p><p class="youtube-embed-meta">Channel: FOX NASHVILLE &middot; Views: 1.5K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ag2pzH6aSpY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ag2pzH6aSpY">Open on YouTube</a></p></div></div></div>
 
@@ -265,22 +263,20 @@ Locally, one long‑term Minnesota observer reported objects that matched **cons
 
 In recent years, **drones — unmanned aerial vehicles (UAVs)** — have become increasingly visible in the skies above Minnesota cities and rural areas alike. These range from hobbyist quadcopters with LED lights to commercial utility drones used for photography, mapping, surveillance, and inspections. Their **flight characteristics — hovering, sudden stops, and changes in direction — differ from traditional fixed‑wing aircraft**, which can make them seem unusual or unidentified to an untrained observer at night.
 
-Local reports and social‑media discussions highlight why drones feature in Minnesota UFO reporting: witnesses describe lights moving slowly across treelines or cutting abruptly in new directions, behaviour that aligns more with UAV flight patterns than aircraft on fixed routes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mprnews.org/story/2026/03/13/minnesota-drone-sightings-drove-surveillance-fears-as-ice-surged" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mprnews.org">[MPR News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mprnews.org</span><span class="citation-popover-snippet">MPR NewsDrone sightings drove surveillance fears as ICE surged in Minnesota | MPR NewsMarch 13, 2026...</span><span class="citation-popover-meta">Published: March 13, 2026</span></span></span>
+Local reports and social‑media discussions highlight why drones feature in Minnesota UFO reporting: witnesses describe lights moving slowly across treelines or cutting abruptly in new directions, behaviour that aligns more with UAV flight patterns than aircraft on fixed routes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mprnews.org/story/2026/03/13/minnesota-drone-sightings-drove-surveillance-fears-as-ice-surged" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mprnews.org">[MPR News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mprnews.org</span><span class="citation-popover-snippet">MPR NewsDrone sightings drove surveillance fears as ICE surged in Minnesota &#124; MPR NewsMarch 13, 2026...</span><span class="citation-popover-meta">Published: March 13, 2026</span></span></span>
 
 The broader U.S. experience in recent years reflects a similar pattern: large numbers of drone sightings reported nationwide were ultimately found to be **authorized commercial or hobby drones or misidentified aircraft and light sources**. An official review of the 2024 United States drone sightings concluded that most reports involved either known drones operating legally or **misidentified conventional aircraft and stars**, rather than unknown aerial technology.[Wikipedia]
 
 In Minnesota, a flight report submitted to the National UFO Reporting Center described **multiple small craft with flashing lights moving in atypical patterns over Minneapolis**, where some observers interpreted them as non‑airliner objects. The entry noted varying shapes and speeds that observers had not seen in regular sky traffic. While not definitively identified as drones, such reports illustrate how **unexpected movement patterns can lead to interpretations beyond conventional aircraft**.[nuforc.org]
 
-
-<img src="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_aircraft_d_66690d-Illustration-2-light.svg" | relative_url }}" alt="Aircraft &amp; Drones illustration 2" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_aircraft_d_66690d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_aircraft_d_66690d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_aircraft_d_66690d-Illustration-2-dark.svg" | relative_url }}" alt="Aircraft &amp; Drones illustration 2" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_aircraft_d_66690d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_aircraft_d_66690d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Patterns Near Airports and Radar Coverage
 
-Sightings clustered around **airports and established flight corridors** further emphasise the role of regular flight activity in UFO reporting. Places such as the Twin Cities, Duluth, and smaller municipal airports generate substantial air traffic, particularly at dawn and dusk when light conditions often make navigation lighting appear more striking or mysterious to observers on the ground. Data from local reporting maps shows that **higher sighting counts align with urban areas that sit beneath active flightpaths**, where distant aircraft can be especially apparent against a dark sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/twin-cities/2024/02/21/ufo-sightings-minnesota-map-airport-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Here&#x27;s where UFO sightings were reported in Minnesota</span><span class="citation-popover-snippet">AxiosHere&#x27;s where UFO sightings were reported in Minnesota - Axios Twin CitiesFebruary 21, 2024...</span><span class="citation-popover-meta">Published: February 21, 2024</span></span></span>
+Sightings clustered around **airports and established flight corridors** further emphasise the role of regular flight activity in UFO reporting. Places such as the Twin Cities, Duluth, and smaller municipal airports generate substantial air traffic, particularly at dawn and dusk when light conditions often make navigation lighting appear more striking or mysterious to observers on the ground. Data from local reporting maps shows that **higher sighting counts align with urban areas that sit beneath active flightpaths**, where distant aircraft can be especially apparent against a dark sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/twin-cities/2024/02/21/ufo-sightings-minnesota-map-airport-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Here&#x27;s where UFO sightings were reported in Minnesota</span><span class="citation-popover-snippet">Here&#x27;s where UFO sightings were reported in Minnesota - Axios Twin CitiesFebruary 21, 2024...</span><span class="citation-popover-meta">Published: February 21, 2024</span></span></span>
 
 At times, observers note objects moving at odd hours — for example, after Flying Cloud Airport’s official closure — and expect that no aircraft should be present. Yet **general aviation and non‑scheduled flights can occur outside published operating hours**, and radar returns may not always be visible to local residents checking casually. This disconnect between what residents see and what they expect aircraft traffic to look like fuels the impression of the “unidentified”.[FOX 9 Minneapolis-St. Paul]
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0sM8WSkv7aM" title="Explained or Unexplained? Inside Minnesota&#x27;s recent UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0sM8WSkv7aM" target="_blank" rel="noopener noreferrer">Explained or Unexplained? Inside Minnesota&#x27;s recent UFO sightings</a></p><p class="youtube-embed-meta">Channel: KARE 11 &middot; Views: 22.7K &middot; Uploaded: August 2021 &middot; Length: 4 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0sM8WSkv7aM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0sM8WSkv7aM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d-aZHhFv79A" title="The Twin Cities UFO and Research Group Believes the Truth is Out There" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d-aZHhFv79A" target="_blank" rel="noopener noreferrer">The Twin Cities UFO and Research Group Believes the Truth is Out There</a></p><p class="youtube-embed-meta">Channel: Twin Cities PBS &middot; Views: 812 &middot; Uploaded: January 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d-aZHhFv79A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d-aZHhFv79A">Open on YouTube</a></p></div></div></div>
 
 ## Distinguishing Misidentifications from Truly Unknown Cases
 
@@ -288,17 +284,14 @@ It is important to note that while many reported sightings coincide with aircraf
 
 A key takeaway from both state and broader national experience is that **lack of immediate explanation is not evidence of extraordinary origin**. Researchers in identifying aerial phenomena routinely start with the hypothesis of misidentified light sources, mundane aircraft, satellite passes, or drones before considering more unusual interpretations.[Wikipedia]
 
-
-<img src="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_aircraft_d_66690d-Illustration-3-light.svg" | relative_url }}" alt="Aircraft &amp; Drones illustration 3" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_aircraft_d_66690d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_aircraft_d_66690d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_aircraft_d_66690d-Illustration-3-dark.svg" | relative_url }}" alt="Aircraft &amp; Drones illustration 3" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_aircraft_d_66690d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_aircraft_d_66690d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What This Means for Minnesota Sightings
 
 For residents and observers in Minnesota, understanding how **aircraft patterns, drone activity, and normal flight corridors** shape what people see in the sky offers a grounded framework for interpreting UFO reports. The rapid growth of UAV technology means more objects than ever are overhead, while conventional aviation continues to fill the skies above major urban and transport hubs. Although a small fraction of reports remain unresolved after basic review, the **preponderance of data points to prosaic explanations** once flight paths and aerial technologies are accounted for.
 
 By giving priority to known aerial mechanisms and their visual effects, Minnesota’s UFO reporting can be understood within the context of **observable, human‑controlled flight activity**, aligning witness descriptions with the predictable rhythms of the sky rather than assuming unknown or exotic origins.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d-aZHhFv79A" title="The Twin Cities UFO and Research Group Believes the Truth is Out There" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d-aZHhFv79A" target="_blank" rel="noopener noreferrer">The Twin Cities UFO and Research Group Believes the Truth is Out There</a></p><p class="youtube-embed-meta">Channel: Twin Cities PBS &middot; Views: 812 &middot; Uploaded: January 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d-aZHhFv79A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d-aZHhFv79A">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9ZdYQyFkDWw" title="Suspected UFO sighting involving Anoka police officers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9ZdYQyFkDWw" target="_blank" rel="noopener noreferrer">Suspected UFO sighting involving Anoka police officers</a></p><p class="youtube-embed-meta">Channel: FOX 9 Minneapolis-St. Paul &middot; Views: 3.1K &middot; Uploaded: May 2026 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9ZdYQyFkDWw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9ZdYQyFkDWw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -386,7 +379,7 @@ By giving priority to known aerial mechanisms and their visual effects, Minnesot
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -396,111 +389,36 @@ By giving priority to known aerial mechanisms and their visual effects, Minnesot
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/lGIAAOSw2klmSmMn/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -508,15 +426,15 @@ By giving priority to known aerial mechanisms and their visual effects, Minnesot
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,15 +442,15 @@ By giving priority to known aerial mechanisms and their visual effects, Minnesot
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="https://i.ebayimg.com/images/g/VQ8AAeSwE2Fp1m0Y/s-l225.jpg" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,15 +458,15 @@ By giving priority to known aerial mechanisms and their visual effects, Minnesot
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,7 +474,7 @@ By giving priority to known aerial mechanisms and their visual effects, Minnesot
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-drones-could-planes-and-drones-explain-minnesota-ufo-sightings-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="could-planes-and-drones-explain-minnesota-ufo-sightings-ufo-wall-art-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -633,17 +551,31 @@ By giving priority to known aerial mechanisms and their visual effects, Minnesot
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -656,42 +588,73 @@ By giving priority to known aerial mechanisms and their visual effects, Minnesot
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -706,12 +669,17 @@ By giving priority to known aerial mechanisms and their visual effects, Minnesot
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -722,64 +690,64 @@ By giving priority to known aerial mechanisms and their visual effects, Minnesot
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: [https://en.wikipedia.org/wiki/Identification_studies_of_UFOs](https://en.wikipedia.org/wiki/Identification_studies_of_UFOs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
 2. <a id="endnote-2"></a>
    Source: fox9.com  
    Title: FOX 9 Minneapolis-St  
-   Link: [https://www.fox9.com/news/strangers-in-the-night-ufos-drones-or-govt-surveillance](https://www.fox9.com/news/strangers-in-the-night-ufos-drones-or-govt-surveillance)  
+   Link: <a href="https://www.fox9.com/news/strangers-in-the-night-ufos-drones-or-govt-surveillance" target="_blank" rel="noopener noreferrer nofollow">https://www.fox9.com/news/strangers-in-the-night-ufos-drones-or-govt-surveillance</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PaulStrangers in the night; UFOs, drones or government...November 19, 2020 — 18 Nov 2020 — An Eden Prairie man has reported multiple UFO...</p></details>
    Published: November 19, 2020  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: 2024 United States drone sightings  
-   Link: [https://en.wikipedia.org/wiki/2024_United_States_drone_sightings](https://en.wikipedia.org/wiki/2024_United_States_drone_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2024_United_States_drone_sightings</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=185237](https://nuforc.org/sighting/?id=185237)  
+   Link: <a href="https://nuforc.org/sighting/?id=185237" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185237</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 185237December 16, 2024...</p></details>
    Published: December 16, 2024  
 
 5. <a id="endnote-5"></a>
    Source: axios.com  
    Title: Here's where UFO sightings were reported in Minnesota  
-   Link: [https://www.axios.com/local/twin-cities/2024/02/21/ufo-sightings-minnesota-map-airport-aliens](https://www.axios.com/local/twin-cities/2024/02/21/ufo-sightings-minnesota-map-airport-aliens)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AxiosHere&#x27;s where UFO sightings were reported in Minnesota - Axios Twin CitiesFebruary 21, 2024...</p></details>
+   Link: <a href="https://www.axios.com/local/twin-cities/2024/02/21/ufo-sightings-minnesota-map-airport-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/twin-cities/2024/02/21/ufo-sightings-minnesota-map-airport-aliens</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s where UFO sightings were reported in Minnesota - Axios Twin CitiesFebruary 21, 2024...</p></details>
    Published: February 21, 2024  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=180715](https://nuforc.org/sighting/?id=180715)  
+   Link: <a href="https://nuforc.org/sighting/?id=180715" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=180715</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 180715March 13, 2024 — NUFORC UFO SIGHTING 180715 Occurred: 2024-03-04 19:30 Local Reported: 2024-03-04 21:24 Pacific...</p></details>
    Published: March 4, 2024  
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ag2pzH6aSpY](https://www.youtube.com/watch?v=ag2pzH6aSpY)  
+   Link: <a href="https://www.youtube.com/watch?v=ag2pzH6aSpY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ag2pzH6aSpY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS News...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: CBS News  
-   Link: [https://www.youtube.com/watch?v=9ZdYQyFkDWw](https://www.youtube.com/watch?v=9ZdYQyFkDWw)  
+   Link: <a href="https://www.youtube.com/watch?v=9ZdYQyFkDWw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9ZdYQyFkDWw</a>  
 
 9. <a id="endnote-9"></a>
    Source: mprnews.org  
-   Link: [https://www.mprnews.org/story/2026/03/13/minnesota-drone-sightings-drove-surveillance-fears-as-ice-surged](https://www.mprnews.org/story/2026/03/13/minnesota-drone-sightings-drove-surveillance-fears-as-ice-surged)  
+   Link: <a href="https://www.mprnews.org/story/2026/03/13/minnesota-drone-sightings-drove-surveillance-fears-as-ice-surged" target="_blank" rel="noopener noreferrer nofollow">https://www.mprnews.org/story/2026/03/13/minnesota-drone-sightings-drove-surveillance-fears-as-ice-surged</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MPR NewsDrone sightings drove surveillance fears as ICE surged in Minnesota | MPR NewsMarch 13, 2026...</p></details>
    Published: March 13, 2026  
 
 10. <a id="endnote-10"></a>
    Source: cbsnews.com  
-   Link: [https://www.cbsnews.com/minnesota/news/minnesota-ufo-sighting-anoka-police-fbi/](https://www.cbsnews.com/minnesota/news/minnesota-ufo-sighting-anoka-police-fbi/)  
+   Link: <a href="https://www.cbsnews.com/minnesota/news/minnesota-ufo-sighting-anoka-police-fbi/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/minnesota/news/minnesota-ufo-sighting-anoka-police-fbi/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Feds investigate after Minnesota police...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cbsnews.com  
    Title: He primarily covers breaking news  
-   Link: [https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/](https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/)  
+   Link: <a href="https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A brief history of UFO sightings in Minnesota - CBS MinnesotaJuly 2, 2024 — A BRIEF HISTORY OF UFO SIGHTINGS IN MINNESOTA By Anthony Bett...</p></details>
    Published: July 2, 2024  
 
@@ -787,57 +755,57 @@ By giving priority to known aerial mechanisms and their visual effects, Minnesot
 
 12. <a id="endnote-12"></a>
    Source: fox9.com  
-   Link: [https://www.fox9.com/news/fbi-files-ufo-sighting-anoka-police-department.amp](https://www.fox9.com/news/fbi-files-ufo-sighting-anoka-police-department.amp)  
+   Link: <a href="https://www.fox9.com/news/fbi-files-ufo-sighting-anoka-police-department.amp" target="_blank" rel="noopener noreferrer nofollow">https://www.fox9.com/news/fbi-files-ufo-sighting-anoka-police-department.amp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul3 days ago — FBI DOCUMENTS DETAIL REPORTED UFO SIGHTING INVOLVING ANOKA POLICE OFFICERS By Katie Wermus Published May 26, 2026 2:26 P...</p></details>
    Published: May 26, 2026  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox9kmsp/posts/fbi-documents-released-through-the-national-archives-detail-a-reported-ufo-sight/1469591085210343/](https://www.facebook.com/fox9kmsp/posts/fbi-documents-released-through-the-national-archives-detail-a-reported-ufo-sight/1469591085210343/)  
+   Link: <a href="https://www.facebook.com/fox9kmsp/posts/fbi-documents-released-through-the-national-archives-detail-a-reported-ufo-sight/1469591085210343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox9kmsp/posts/fbi-documents-released-through-the-national-archives-detail-a-reported-ufo-sight/1469591085210343/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI documents released through the National Archives...FBI documents released through the National Archives detail a reported UFO sighti...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1hegyf0/mysterious_sightings_in_minnesota/](https://www.reddit.com/r/UFOs/comments/1hegyf0/mysterious_sightings_in_minnesota/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1hegyf0/mysterious_sightings_in_minnesota/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hegyf0/mysterious_sightings_in_minnesota/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Sightings in Minnesota: r/UFOsUFO Files Reveal Aliens Here And Already Defrauded Minnesota For $20 Billion · r/babylonbee - U...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CBSMinnesota/posts/buried-within-the-national-archives-is-an-unexplained-sighting-from-right-here-i/1440252448142055/](https://www.facebook.com/CBSMinnesota/posts/buried-within-the-national-archives-is-an-unexplained-sighting-from-right-here-i/1440252448142055/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WCCO &amp; CBS News MinnesotaMassive UFO sighting in [northern Minnesota](&amp;#123;&amp;#123; &#x27;northern-skies/&#x27; | relative_url &amp;#125;&amp;#125;). Justyn Osowski ▻ Latest UFO Sightings. 35w · Public · Caught this at...</p></details>
+   Link: <a href="https://www.facebook.com/CBSMinnesota/posts/buried-within-the-national-archives-is-an-unexplained-sighting-from-right-here-i/1440252448142055/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSMinnesota/posts/buried-within-the-national-archives-is-an-unexplained-sighting-from-right-here-i/1440252448142055/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>WCCO &amp; CBS News MinnesotaMassive UFO sighting in northern Minnesota. Justyn Osowski ▻ Latest UFO Sightings. 35w · Public · Caught this at...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ibtimes.co.uk  
-   Link: [https://www.ibtimes.co.uk/mystery-ufo-swarm-spotted-over-minnesota-jellyfish-like-lights-drift-across-night-sky-1775899](https://www.ibtimes.co.uk/mystery-ufo-swarm-spotted-over-minnesota-jellyfish-like-lights-drift-across-night-sky-1775899)  
+   Link: <a href="https://www.ibtimes.co.uk/mystery-ufo-swarm-spotted-over-minnesota-jellyfish-like-lights-drift-across-night-sky-1775899" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/mystery-ufo-swarm-spotted-over-minnesota-jellyfish-like-lights-drift-across-night-sky-1775899</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery UFO Swarm Spotted Over Minnesota as Jellyfish-Like Lights Drift Across Night Sky | IBTimes UKFebruary 3, 2026 — MYSTERY UFO SWARM...</p></details>
    Published: February 3, 2026  
 
 17. <a id="endnote-17"></a>
    Source: boreal.org  
    Title: Mysterious UFOs: A look at sightings in Minnesota | Boreal Community Media  
-   Link: [https://www.boreal.org/2022/09/16/411828/mysterious-ufos-a-look-at-sightings-in-minnesota](https://www.boreal.org/2022/09/16/411828/mysterious-ufos-a-look-at-sightings-in-minnesota)  
+   Link: <a href="https://www.boreal.org/2022/09/16/411828/mysterious-ufos-a-look-at-sightings-in-minnesota" target="_blank" rel="noopener noreferrer nofollow">https://www.boreal.org/2022/09/16/411828/mysterious-ufos-a-look-at-sightings-in-minnesota</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>September 16, 2022 — MYSTERIOUS UFOS: A LOOK AT SIGHTINGS IN MINNESOTA Sep 16, 2022 10:36AM ● By Content Editor Image Photo: A photo from...</p></details>
    Published: September 16, 2022  
 
 18. <a id="endnote-18"></a>
    Source: fox9.com  
    Title: Mysterious UFOs: A look at sightings in Minnesota | FOX 9 Minneapolis-St  
-   Link: [https://www.fox9.com/news/mysterious-ufos-minnesota-2022](https://www.fox9.com/news/mysterious-ufos-minnesota-2022)  
+   Link: <a href="https://www.fox9.com/news/mysterious-ufos-minnesota-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.fox9.com/news/mysterious-ufos-minnesota-2022</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PaulSeptember 14, 2022 — MYSTERIOUS UFOS: A LOOK AT SIGHTINGS IN MINNESOTA By Katie Wermus Published September 14, 2022 4:52 PM CDT Minne...</p></details>
    Published: September 14, 2022  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/552059654373970/posts/589973877249214/](https://www.facebook.com/groups/552059654373970/posts/589973877249214/)  
+   Link: <a href="https://www.facebook.com/groups/552059654373970/posts/589973877249214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/552059654373970/posts/589973877249214/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m in MN by the river valley and different objects have been flying around for months and finally captured...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ufoindex.com  
    Title: Browse the reports below. 17 documented sightings in Mi  
-   Link: [https://www.ufoindex.com/minnesota](https://www.ufoindex.com/minnesota)  
+   Link: <a href="https://www.ufoindex.com/minnesota" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/minnesota</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Minnesota UFO ReportsMINNESOTA UFO REPORTS Witnesses have reported strange lights, unidentified flying objects, and unexplained aerial ph...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CBSMinnesota/posts/three-anoka-police-officers-witnessed-the-object-in-the-sky-with-at-least-one-of/1439371394896827/](https://www.facebook.com/CBSMinnesota/posts/three-anoka-police-officers-witnessed-the-object-in-the-sky-with-at-least-one-of/1439371394896827/)  
+   Link: <a href="https://www.facebook.com/CBSMinnesota/posts/three-anoka-police-officers-witnessed-the-object-in-the-sky-with-at-least-one-of/1439371394896827/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSMinnesota/posts/three-anoka-police-officers-witnessed-the-object-in-the-sky-with-at-least-one-of/1439371394896827/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Clair County, Illinois, and in surrounding areas, at approximately 0410...Read more...</p></details>

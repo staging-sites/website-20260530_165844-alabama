@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-arizona-became-a-ufo-state/
 nav_short_title: Phoenix Lights
 title: What Really Happened During the Phoenix Lights?
-title_full: What Really Happened During the Phoenix Lights? | Arizona UFOs
+title_full: What Really Happened During the Phoenix Lights?
 display_title_short: Phoenix Lights
 display_title: Phoenix Lights
 heading_title: What Really Happened During the Phoenix Lights?
@@ -268,8 +268,7 @@ image: /assets/images/Arizona_104fd3_phoenix_lights_d6a00b-overview-social.jpg
 
 ## Introduction
 
-The Phoenix Lights were not one clean, single UFO sighting. They were a night of overlapping reports across [Arizona]({{ 'why-arizona-became-a-ufo-state/' | relative_url }}) on 13 March 1997, with two main strands: an earlier moving V-shaped pattern seen by witnesses from northern Arizona towards Phoenix, and later bright lights over the south-western horizon that were widely filmed. The best-supported explanation for the later lights is military illumination flares dropped over the Barry M. Goldwater Range. The earlier V remains more disputed, though sceptical investigators argue it was a formation of military aircraft. The case matters because it is Arizona’s defining UFO event: a rare mix of mass witnesses, video, military activity, official mishandling, and lasting public mistrust. Deseret News <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2016/07/SI-JA-16-16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
-
+The Phoenix Lights were not one clean, single UFO sighting. They were a night of overlapping reports across Arizona on 13 March 1997, with two main strands: an earlier moving V-shaped pattern seen by witnesses from northern Arizona towards Phoenix, and later bright lights over the south-western horizon that were widely filmed. The best-supported explanation for the later lights is military illumination flares dropped over the Barry M. Goldwater Range. The earlier V remains more disputed, though sceptical investigators argue it was a formation of military aircraft. The case matters because it is Arizona’s defining UFO event: a rare mix of mass witnesses, video, military activity, official mishandling, and lasting public mistrust. Deseret News <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2016/07/SI-JA-16-16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
 
 <img src="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b-overview.webp" | relative_url }}" alt="Overview image for Phoenix Lights" loading="eager" decoding="sync" fetchpriority="high">
 ## The moving V and the later lights were probably different events
@@ -280,8 +279,7 @@ That distinction changes the evidential picture. The later lights have a strong 
 
 The V-shaped reports also varied. Some witnesses saw separate lights in formation; others perceived a single massive craft blocking out stars or passing silently overhead. That variation does not make the witnesses foolish or dishonest. It is exactly what can happen when people view distant moving lights at night without clear scale, altitude or reference points. A formation of aircraft can look like one object if the lights appear fixed relative to each other, especially against a dark desert sky.
 
-
-<img src="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b-Illustration-1-light.svg" | relative_url }}" alt="Phoenix Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b-Illustration-1-dark.svg" | relative_url }}" alt="Phoenix Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the flare explanation fits the later Phoenix lights
 
 The strongest explanation for the famous row of stationary-looking lights is that they were high-intensity illumination flares dropped by A-10 aircraft during military training. In July 1997, military officials said Maryland Air National Guard A-10s had been flying training missions over the Barry M. Goldwater Air Force Range, about 60 miles south-west of Phoenix, and dropping flares from around 15,000 feet. The flares descended slowly by parachute and illuminated a wide area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News Flares, not UFOs, caused light show, military says</span><span class="citation-popover-snippet">News Flares, not UFOs, caused light show, military says</span></span></span>
@@ -291,7 +289,6 @@ That account matches several visible features of the later videos. Parachute fla
 The geography also matters. The Barry M. Goldwater Range is not a random patch of desert; it is a major military training area in south-western Arizona. Luke Air Force Base’s 56th Range Management Office oversees Barry M. Goldwater Range East and Gila Bend Air Force Auxiliary Field, supporting fighter-pilot training and related operations. Modern official imagery still shows aircraft firing flares over the range, underlining that flare use is normal in that airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.luke.af.mil/Units/56th-Range-Management-Office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: luke.af.mil">[Luke Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">luke.af.mil</span><span class="citation-popover-title">Luke Air Force Base56th Range Management Office</span><span class="citation-popover-snippet">Luke Air Force Base56th Range Management Office</span></span></span>
 
 For many sceptical investigators, the later event is therefore not a mystery in the narrow evidential sense. It has an identified military activity, a plausible mechanism, a direction on the horizon, and visual behaviour consistent with descending illumination flares. The uncertainty lies less in whether flares can explain those later lights and more in why the explanation was slow, fragmented and poorly trusted by the public.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zBfDVzdWeLw" title="What really happened on the night of the &#x27;Phoenix Lights&#x27;? | NewsNation Prime" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zBfDVzdWeLw" target="_blank" rel="noopener noreferrer">What really happened on the night of the &#x27;Phoenix Lights&#x27;? | NewsNation Prime</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 91.1K &middot; Uploaded: May 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zBfDVzdWeLw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zBfDVzdWeLw">Open on YouTube</a></p></div></div></div>
 
@@ -305,8 +302,7 @@ The Mitch Stanley telescope observation is important because it gives the aircra
 
 But witness disagreement remains understandable. A person standing in a neighbourhood, looking up at silent lights crossing the sky, would not have Stanley’s magnified view. If the aircraft were high, distant, moving together and hard to hear, the brain could connect the lights into a single shape. Conversely, people who felt they saw a solid dark object overhead are not easily persuaded by an aircraft-formation explanation, especially when the official response at the time seemed dismissive.
 
-
-<img src="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b-Illustration-2-light.svg" | relative_url }}" alt="Phoenix Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b-Illustration-2-dark.svg" | relative_url }}" alt="Phoenix Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The official response weakened trust
 
 The Phoenix Lights became more than a sighting because the public response was mishandled. In June 1997, Arizona Governor Fife [Symington]({{ 'symington/' | relative_url }}) held a press conference and used an aide dressed as an alien as a joke, saying officials had found who was responsible. Years later, Symington said he had seen something himself that night and described it as large, unexplained and unlike aircraft he knew as a pilot. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
@@ -314,7 +310,6 @@ The Phoenix Lights became more than a sighting because the public response was m
 That reversal deepened public suspicion. To believers, Symington’s later statement looked like confirmation that the original official tone had minimised a serious event. To sceptics, it showed how memory, politics and public mythology can reshape a case over time. Either way, it is central to why the Phoenix Lights stayed alive in Arizona’s UFO culture. The incident was not simply “lights in the sky”; it became a story about whether officials took ordinary witnesses seriously.
 
 Local media also played a major role. Early reporting, later anniversary coverage, documentaries and UFO conference culture kept the event in circulation. Some coverage clarified the two-event structure, while other retellings blurred it, making the flare explanation appear weaker than it is. Tony Ortega, who covered the case critically, argued that the persistent confusion comes from combining the earlier V-shaped aircraft formation and the later flare drop into one blended mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tonyortega.org/the-phoenix-lights-20-years-later-still-the-same-set-of-planes-and-flares-over-arizona/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tonyortega.org">[The Underground Bunker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tonyortega.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AfzducPDYjM" title="Phoenix Lights and UFO Sightings Investigative Documentary - PART 2 | Mysteries Decoded | The CW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AfzducPDYjM" target="_blank" rel="noopener noreferrer">Phoenix Lights and UFO Sightings Investigative Documentary - PART 2 | Mysteries Decoded | The CW</a></p><p class="youtube-embed-meta">Channel: The CW Network &middot; Views: 13.0K &middot; Uploaded: December 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AfzducPDYjM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AfzducPDYjM">Open on YouTube</a></p></div></div></div>
 
@@ -326,8 +321,7 @@ For the later event, video arguably helps the conventional explanation. Many rec
 
 The videos do not resolve the earlier V in the same way. The key evidence there is witness testimony, a small number of recordings, and later analysis of aircraft activity. This is why careful accounts should not say simply “the Phoenix Lights were flares” or “the Phoenix Lights were a giant UFO”. The stronger conclusion is narrower: the filmed later lights are well explained by flares, while the earlier moving formation is disputed but has a plausible aircraft-formation explanation.
 
-
-<img src="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b-Illustration-3-light.svg" | relative_url }}" alt="Phoenix Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b-Illustration-3-dark.svg" | relative_url }}" alt="Phoenix Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case still matters in Arizona UFO history
 
 The Phoenix Lights endure because they sit at the intersection of several Arizona-specific factors: desert visibility, major military training ranges, a large metropolitan audience, and a public already primed by UFO interest during the 1990s. March 1997 was also a period when many people were outside looking at the bright Comet Hale-Bopp, increasing the number of skywatchers who might notice unusual aircraft or flares. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2016/07/SI-JA-16-16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
@@ -336,9 +330,7 @@ Within Arizona’s UFO history, the case remains useful because it teaches three
 
 The most balanced reading is therefore not that the Phoenix Lights were “solved” in every witness’s mind, nor that they prove an extraordinary craft crossed Arizona. The later lights have a strong flare explanation. The earlier V has a credible aircraft-formation explanation, strengthened by the telescope account, but it remains the part that many witnesses dispute most strongly. The case survives because its evidence is not equally strong in every direction: the flares explain a lot, the aircraft explanation explains more than many popular retellings admit, and the human memory of that night still refuses to settle into a single simple story.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dJjd4O1eUzo" title="New revelations, the truth takes flight | UFOS OVER PHOENIX: CONFESSIONS OF A 911 OPERATOR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dJjd4O1eUzo" target="_blank" rel="noopener noreferrer">New revelations, the truth takes flight | UFOS OVER PHOENIX: CONFESSIONS OF A 911 OPERATOR</a></p><p class="youtube-embed-meta">Channel: FilmIsNow Movies &middot; Views: 23.2K &middot; Uploaded: March 2025 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dJjd4O1eUzo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dJjd4O1eUzo">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KKDy1QfBlxs" title="The Phoenix Lights: 28 years later, the mystery endures" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KKDy1QfBlxs" target="_blank" rel="noopener noreferrer">The Phoenix Lights: 28 years later, the mystery endures</a></p><p class="youtube-embed-meta">Channel: ABC15 Arizona &middot; Views: 48.5K &middot; Uploaded: March 2025 &middot; Length: 2 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KKDy1QfBlxs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KKDy1QfBlxs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -762,167 +754,167 @@ The most balanced reading is therefore not that the Phoenix Lights were “solve
 1. <a id="endnote-1"></a>
    Source: deseret.com  
    Title: News Flares, not UFOs, caused light show, military says  
-   Link: [https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/](https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/)  
+   Link: <a href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/</a>  
 
 2. <a id="endnote-2"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2016/07/SI-JA-16-16.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2016/07/SI-JA-16-16.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2016/07/SI-JA-16-16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2016/07/SI-JA-16-16.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/phoenix/](https://nuforc.org/phoenix/)  
+   Link: <a href="https://nuforc.org/phoenix/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/phoenix/</a>  
 
 4. <a id="endnote-4"></a>
    Source: globalsecurity.org  
    Title: Global Security LUU-2 Flare  
-   Link: [https://www.globalsecurity.org/military/systems/munitions/luu2.htm](https://www.globalsecurity.org/military/systems/munitions/luu2.htm)  
+   Link: <a href="https://www.globalsecurity.org/military/systems/munitions/luu2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/systems/munitions/luu2.htm</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Phoenix Lights  
-   Link: [https://en.wikipedia.org/wiki/Phoenix_Lights](https://en.wikipedia.org/wiki/Phoenix_Lights)  
+   Link: <a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Phoenix, Arizona  
-   Link: [https://en.wikipedia.org/wiki/Phoenix%2C_Arizona](https://en.wikipedia.org/wiki/Phoenix%2C_Arizona)  
+   Link: <a href="https://en.wikipedia.org/wiki/Phoenix%2C_Arizona" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix%2C_Arizona</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: [https://en.wikipedia.org/wiki/National_UFO_Reporting_Center](https://en.wikipedia.org/wiki/National_UFO_Reporting_Center)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Phoenix (mythology)  
-   Link: [https://en.wikipedia.org/wiki/Phoenix_%28mythology%29](https://en.wikipedia.org/wiki/Phoenix_%28mythology%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Phoenix_%28mythology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_%28mythology%29</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Barry M. Goldwater Air Force Range  
-   Link: [https://en.wikipedia.org/wiki/Barry_M._Goldwater_Air_Force_Range](https://en.wikipedia.org/wiki/Barry_M._Goldwater_Air_Force_Range)  
+   Link: <a href="https://en.wikipedia.org/wiki/Barry_M._Goldwater_Air_Force_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barry_M._Goldwater_Air_Force_Range</a>  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lAZ](https://nuforc.org/subndx/?id=lAZ)  
+   Link: <a href="https://nuforc.org/subndx/?id=lAZ" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lAZ</a>  
 
 12. <a id="endnote-12"></a>
    Source: phoenix.gov  
-   Link: [https://www.phoenix.gov/](https://www.phoenix.gov/)  
+   Link: <a href="https://www.phoenix.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.phoenix.gov/</a>  
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=dJjd4O1eUzo](https://www.youtube.com/watch?v=dJjd4O1eUzo)  
+   Link: <a href="https://www.youtube.com/watch?v=dJjd4O1eUzo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dJjd4O1eUzo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights - 17 years later...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Phoenix Lights  
-   Link: [https://www.youtube.com/watch?v=8SUJTh6Hs-I](https://www.youtube.com/watch?v=8SUJTh6Hs-I)  
+   Link: <a href="https://www.youtube.com/watch?v=8SUJTh6Hs-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8SUJTh6Hs-I</a>  
 
 15. <a id="endnote-15"></a>
    Source: tucsonweekly.com  
    Title: Tucson Weekly Answering The "Arizona Question" (July 3  
-   Link: [https://www.tucsonweekly.com/tw/07-03-97/curr1.htm](https://www.tucsonweekly.com/tw/07-03-97/curr1.htm)  
+   Link: <a href="https://www.tucsonweekly.com/tw/07-03-97/curr1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.tucsonweekly.com/tw/07-03-97/curr1.htm</a>  
 
 16. <a id="endnote-16"></a>
    Source: luke.af.mil  
    Title: Luke Air Force Base56th Range Management Office  
-   Link: [https://www.luke.af.mil/Units/56th-Range-Management-Office/](https://www.luke.af.mil/Units/56th-Range-Management-Office/)  
+   Link: <a href="https://www.luke.af.mil/Units/56th-Range-Management-Office/" target="_blank" rel="noopener noreferrer nofollow">https://www.luke.af.mil/Units/56th-Range-Management-Office/</a>  
 
 17. <a id="endnote-17"></a>
    Source: tonyortega.org  
-   Link: [https://tonyortega.org/the-phoenix-lights-20-years-later-still-the-same-set-of-planes-and-flares-over-arizona/](https://tonyortega.org/the-phoenix-lights-20-years-later-still-the-same-set-of-planes-and-flares-over-arizona/)  
+   Link: <a href="https://tonyortega.org/the-phoenix-lights-20-years-later-still-the-same-set-of-planes-and-flares-over-arizona/" target="_blank" rel="noopener noreferrer nofollow">https://tonyortega.org/the-phoenix-lights-20-years-later-still-the-same-set-of-planes-and-flares-over-arizona/</a>  
 
 18. <a id="endnote-18"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994](https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994)  
+   Link: <a href="https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BarryMGoldwaterRangeEast/](https://www.facebook.com/BarryMGoldwaterRangeEast/)  
+   Link: <a href="https://www.facebook.com/BarryMGoldwaterRangeEast/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BarryMGoldwaterRangeEast/</a>  
 
 20. <a id="endnote-20"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/volume/no-5-vol-38/](https://skepticalinquirer.org/volume/no-5-vol-38/)  
+   Link: <a href="https://skepticalinquirer.org/volume/no-5-vol-38/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/volume/no-5-vol-38/</a>  
 
 21. <a id="endnote-21"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/volume/no-2-vol-21/](https://skepticalinquirer.org/volume/no-2-vol-21/)  
+   Link: <a href="https://skepticalinquirer.org/volume/no-2-vol-21/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/volume/no-2-vol-21/</a>  
 
 22. <a id="endnote-22"></a>
    Source: azmemory.azlibrary.gov  
-   Link: [https://azmemory.azlibrary.gov/nodes/view/269347](https://azmemory.azlibrary.gov/nodes/view/269347)  
+   Link: <a href="https://azmemory.azlibrary.gov/nodes/view/269347" target="_blank" rel="noopener noreferrer nofollow">https://azmemory.azlibrary.gov/nodes/view/269347</a>  
 
 23. <a id="endnote-23"></a>
    Source: stampaday.wordpress.com  
    Title: the phoenix lights  
-   Link: [https://stampaday.wordpress.com/2019/03/13/the-phoenix-lights/](https://stampaday.wordpress.com/2019/03/13/the-phoenix-lights/)  
+   Link: <a href="https://stampaday.wordpress.com/2019/03/13/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://stampaday.wordpress.com/2019/03/13/the-phoenix-lights/</a>  
 
 24. <a id="endnote-24"></a>
    Source: kids.kiddle.co  
    Title: Phoenix lights  
-   Link: [https://kids.kiddle.co/Phoenix_lights](https://kids.kiddle.co/Phoenix_lights)  
+   Link: <a href="https://kids.kiddle.co/Phoenix_lights" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Phoenix_lights</a>  
 
 25. <a id="endnote-25"></a>
    Source: thisunexplaineduniverse.com  
    Title: phoenix lights  
-   Link: [https://www.thisunexplaineduniverse.com/articles/phoenix-lights](https://www.thisunexplaineduniverse.com/articles/phoenix-lights)  
+   Link: <a href="https://www.thisunexplaineduniverse.com/articles/phoenix-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.thisunexplaineduniverse.com/articles/phoenix-lights</a>  
 
 26. <a id="endnote-26"></a>
    Source: planeandpilotmag.com  
    Title: the phoenix lights  
-   Link: [https://planeandpilotmag.com/the-phoenix-lights/](https://planeandpilotmag.com/the-phoenix-lights/)  
+   Link: <a href="https://planeandpilotmag.com/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/the-phoenix-lights/</a>  
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: The Phoenix Lights: Unravelling the Greatest UFO Mystery in History  
-   Link: [https://www.youtube.com/watch?v=977heKmAXW0](https://www.youtube.com/watch?v=977heKmAXW0)  
+   Link: <a href="https://www.youtube.com/watch?v=977heKmAXW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=977heKmAXW0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights and UFO Sightings Investigative Documentary - PART 2 | Mysteries Decoded | The CW...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Phoenix Lights and UFO Sightings Investigative Documentary  
-   Link: [https://www.youtube.com/watch?v=AfzducPDYjM](https://www.youtube.com/watch?v=AfzducPDYjM)  
+   Link: <a href="https://www.youtube.com/watch?v=AfzducPDYjM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AfzducPDYjM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE PHOENIX LIGHTS: Military activity or paranormal orbs?...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: THE PHOENIX LIGHTS: Military activity or paranormal orbs?  
-   Link: [https://www.youtube.com/watch?v=dacStPcgf6M](https://www.youtube.com/watch?v=dacStPcgf6M)  
+   Link: <a href="https://www.youtube.com/watch?v=dacStPcgf6M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dacStPcgf6M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New revelations, the truth takes flight | UFOS OVER PHOENIX: CONFESSIONS OF A 911 OPERATOR...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DV1STuJkUZA/](https://www.instagram.com/p/DV1STuJkUZA/)  
+   Link: <a href="https://www.instagram.com/p/DV1STuJkUZA/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DV1STuJkUZA/</a>  
 
 31. <a id="endnote-31"></a>
    Source: towndock.net  
-   Link: [https://towndock.net/files/LUU_Parachute_Factsheet.pdf](https://towndock.net/files/LUU_Parachute_Factsheet.pdf)  
+   Link: <a href="https://towndock.net/files/LUU_Parachute_Factsheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://towndock.net/files/LUU_Parachute_Factsheet.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TorquayCoastguard/videos/para-illumination-flares/452879819909709/](https://www.facebook.com/TorquayCoastguard/videos/para-illumination-flares/452879819909709/)  
+   Link: <a href="https://www.facebook.com/TorquayCoastguard/videos/para-illumination-flares/452879819909709/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TorquayCoastguard/videos/para-illumination-flares/452879819909709/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BarryMGoldwaterRangeEast/mentions/](https://www.facebook.com/BarryMGoldwaterRangeEast/mentions/)  
+   Link: <a href="https://www.facebook.com/BarryMGoldwaterRangeEast/mentions/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BarryMGoldwaterRangeEast/mentions/</a>  
 
 34. <a id="endnote-34"></a>
    Source: clui.org  
-   Link: [https://clui.org/ludb/site/barry-m-goldwater-range](https://clui.org/ludb/site/barry-m-goldwater-range)  
+   Link: <a href="https://clui.org/ludb/site/barry-m-goldwater-range" target="_blank" rel="noopener noreferrer nofollow">https://clui.org/ludb/site/barry-m-goldwater-range</a>  
 
 35. <a id="endnote-35"></a>
    Source: alamy.com  
-   Link: [https://www.alamy.com/stock-photo/barry-m-goldwater-range.html](https://www.alamy.com/stock-photo/barry-m-goldwater-range.html)  
+   Link: <a href="https://www.alamy.com/stock-photo/barry-m-goldwater-range.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/barry-m-goldwater-range.html</a>  
 
 36. <a id="endnote-36"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gtyrde/close_up_parachute_flare_theyre_not_ufos/](https://www.reddit.com/r/UFOs/comments/1gtyrde/close_up_parachute_flare_theyre_not_ufos/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gtyrde/close_up_parachute_flare_theyre_not_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gtyrde/close_up_parachute_flare_theyre_not_ufos/</a>

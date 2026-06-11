@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /explanations-34f983/
 nav_short_title: Airspace
 title: When Aircraft Lights Become UFO Reports
-title_full: When Aircraft Lights Become UFO Reports | Explanations
+title_full: When Aircraft Lights Become UFO Reports
 display_title_short: Airspace
 display_title: Airspace
 heading_title: When Aircraft Lights Become UFO Reports
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:44:06'
-parent_title: Why Montana UFO Cases Are Hard to Settle | Montana UFOs
+parent_title: Why Montana UFO Cases Are Hard to Settle
 parent_permalink: /explanations-34f983/
 parent_nav_short_title: Explanations
 parent_heading_title: Why Montana UFO Cases Are Hard to Settle
@@ -250,14 +250,12 @@ image: /assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_air
 
 ## Introduction
 
-[Great Falls]({{ 'great-falls/' | relative_url }}) is one of the most important places in Montana UFO history, but it is also one of the easiest places to misunderstand. Readers often picture wide-open prairie skies with little human activity. In reality, Great Falls sits inside a busy aviation environment shaped by civilian airport traffic, military operations, air-defence history, Air National Guard flights, and decades of activity linked to Malmstrom Air Force Base. That matters because many UFO reports begin with lights, reflections, distant aircraft, or unusual flight paths that can look far stranger than they really are when viewed from the ground. Understanding the local airspace does not automatically explain every sighting, but it is one of the first tests any serious investigation should apply. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airnav.com/airport/GTF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airnav.com">[AirNav]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airnav.com</span><span class="citation-popover-title">Air Nav KGTF</span><span class="citation-popover-snippet">AirNavKGTF - Great Falls International AirportComplete aeronautical information about Great Falls International Airport (Great Falls, MT...</span></span></span> Wikipedia Great Falls therefore occupies an unusual place in Montana's UFO record. Some cases remain debated <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Great_Falls_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Great Falls International Airport</span><span class="citation-popover-snippet">Great Falls International Airport</span></span></span>, including the famous 1950 [Mariana film]({{ 'mariana-film/' | relative_url }}), yet the same region also provides repeated examples of how aircraft lights, military traffic, changing viewing angles, and limited information can turn ordinary aerial activity into convincing UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Great_Falls_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Great Falls International Airport</span><span class="citation-popover-snippet">Great Falls International Airport</span></span></span>
+[Great Falls]({{ 'great-falls/' | relative_url }}) is one of the most important places in Montana UFO history, but it is also one of the easiest places to misunderstand. Readers often picture wide-open prairie skies with little human activity. In reality, Great Falls sits inside a busy aviation environment shaped by civilian airport traffic, military operations, air-defence history, Air National Guard flights, and decades of activity linked to Malmstrom Air Force Base. That matters because many UFO reports begin with lights, reflections, distant aircraft, or unusual flight paths that can look far stranger than they really are when viewed from the ground. Understanding the local airspace does not automatically explain every sighting, but it is one of the first tests any serious investigation should apply. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airnav.com/airport/GTF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airnav.com">[AirNav]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airnav.com</span><span class="citation-popover-title">Air Nav KGTF</span><span class="citation-popover-snippet">KGTF - Great Falls International AirportComplete aeronautical information about Great Falls International Airport (Great Falls, MT...</span></span></span> Wikipedia Great Falls therefore occupies an unusual place in Montana's UFO record. Some cases remain debated <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Great_Falls_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Great Falls International Airport</span><span class="citation-popover-snippet">Great Falls International Airport</span></span></span>, including the famous 1950 [Mariana film]({{ 'mariana-film/' | relative_url }}), yet the same region also provides repeated examples of how aircraft lights, military traffic, changing viewing angles, and limited information can turn ordinary aerial activity into convincing UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Great_Falls_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Great Falls International Airport</span><span class="citation-popover-snippet">Great Falls International Airport</span></span></span>
 
-
-<img src="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_airspace_669109-Illustration-1-light.svg" | relative_url }}" alt="Airspace illustration 1" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_airspace_669109-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_airspace_669109-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_airspace_669109-Illustration-1-dark.svg" | relative_url }}" alt="Airspace illustration 1" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_airspace_669109-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_airspace_669109-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Great Falls airport traffic and controlled airspace
 
-A useful starting point for any Great Falls sighting is recognising that the area is not an empty sky corridor. Great Falls International Airport operates with a control tower, radar services, instrument approaches, approach and departure control frequencies, and regular civilian traffic. FAA and aviation records show a substantial volume of aircraft operations ranging from airline flights to air taxis, general aviation aircraft and military movements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airnav.com/airport/GTF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airnav.com">[AirNav]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airnav.com</span><span class="citation-popover-title">Air Nav KGTF</span><span class="citation-popover-snippet">AirNavKGTF - Great Falls International AirportComplete aeronautical information about Great Falls International Airport (Great Falls, MT...</span></span></span> Wikipedia This creates several common sources of UFO confusion: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Great_Falls_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Great Falls International Airport</span><span class="citation-popover-snippet">Great Falls International Airport</span></span></span>
-
+A useful starting point for any Great Falls sighting is recognising that the area is not an empty sky corridor. Great Falls International Airport operates with a control tower, radar services, instrument approaches, approach and departure control frequencies, and regular civilian traffic. FAA and aviation records show a substantial volume of aircraft operations ranging from airline flights to air taxis, general aviation aircraft and military movements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airnav.com/airport/GTF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airnav.com">[AirNav]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airnav.com</span><span class="citation-popover-title">Air Nav KGTF</span><span class="citation-popover-snippet">KGTF - Great Falls International AirportComplete aeronautical information about Great Falls International Airport (Great Falls, MT...</span></span></span> Wikipedia This creates several common sources of UFO confusion: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Great_Falls_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Great Falls International Airport</span><span class="citation-popover-snippet">Great Falls International Airport</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -269,12 +267,9 @@ A useful starting point for any Great Falls sighting is recognising that the are
 
 </div>
 
-These effects are not unique to [Montana]({{ 'why-montana-became-a-ufo-landmark/' | relative_url }}), but they become especially important in Great Falls because aircraft often transition between civilian and [military airspace]({{ 'explanations-34f983/' | relative_url }}) while remaining visible over a large area. A witness may be watching a legitimate flight without hearing engine noise or recognising the aircraft's shape, particularly at dawn, dusk, or high altitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airnav.com/airport/GTF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airnav.com">[AirNav]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airnav.com</span><span class="citation-popover-title">Air Nav KGTF</span><span class="citation-popover-snippet">AirNavKGTF - Great Falls International AirportComplete aeronautical information about Great Falls International Airport (Great Falls, MT...</span></span></span>
+These effects are not unique to Montana, but they become especially important in Great Falls because aircraft often transition between civilian and military airspace while remaining visible over a large area. A witness may be watching a legitimate flight without hearing engine noise or recognising the aircraft's shape, particularly at dawn, dusk, or high altitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airnav.com/airport/GTF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airnav.com">[AirNav]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airnav.com</span><span class="citation-popover-title">Air Nav KGTF</span><span class="citation-popover-snippet">KGTF - Great Falls International AirportComplete aeronautical information about Great Falls International Airport (Great Falls, MT...</span></span></span>
 
 The region's geography can add to the problem. Clear air, long sightlines and relatively dark surroundings allow lights to remain visible at considerable distances. A bright aircraft several miles away can seem much closer than it actually is. When observers estimate speed, size or altitude without reference points, errors can become dramatic.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DJ2vKHj8rVM" title="The Montana Film: The First Recorded UFO Sighting in the US" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DJ2vKHj8rVM" target="_blank" rel="noopener noreferrer">The Montana Film: The First Recorded UFO Sighting in the US</a></p><p class="youtube-embed-meta">Channel: Montana Historical Society &middot; Views: 3.5K &middot; Uploaded: February 2025 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DJ2vKHj8rVM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DJ2vKHj8rVM">Open on YouTube</a></p></div></div></div>
 
 ## Military activity near Malmstrom and the missile fields
 
@@ -297,9 +292,6 @@ This does not mean every sighting near Malmstrom has a conventional answer. It m
 
 The history of air defence around Great Falls reinforces this point. During the Cold War, the region contained radar, command-and-control systems and military aviation infrastructure intended to monitor and protect North American airspace. The skies above central Montana were part of an active defence network rather than a remote frontier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mariana_UFO_film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mariana UFO film</span><span class="citation-popover-snippet">Mariana UFO film</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UHHLRkYn37Y" title="The Montana Film" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UHHLRkYn37Y" target="_blank" rel="noopener noreferrer">The Montana Film</a></p><p class="youtube-embed-meta">Channel: Montana Historical Society &middot; Views: 486 &middot; Uploaded: November 2024 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UHHLRkYn37Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UHHLRkYn37Y">Open on YouTube</a></p></div></div></div>
-
 ## The Mariana film and the aircraft-light problem
 
 The best-known example of the debate is the 1950 Mariana film. Nick Mariana filmed two bright objects moving across the sky over Great Falls, creating one of the earliest and most famous pieces of UFO footage ever recorded. The film remains significant because it demonstrates how difficult it can be to distinguish an unusual object from an unusual view of an ordinary aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incidentA weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over M...</span></span></span>
@@ -318,8 +310,7 @@ One of the recurring mistakes in UFO discussions is treating witness credibility
 
 A reliable witness can accurately describe what they observed while still misidentifying the source of the observation. Great Falls provides many conditions that encourage this problem:
 
-
-<img src="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_airspace_669109-Illustration-2-light.svg" | relative_url }}" alt="Airspace illustration 2" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_airspace_669109-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_airspace_669109-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_airspace_669109-Illustration-2-dark.svg" | relative_url }}" alt="Airspace illustration 2" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_airspace_669109-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_airspace_669109-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Distance compresses detail
 
 A bright aircraft ten or twenty miles away may appear as a simple light. The observer loses information needed for identification while retaining enough visual information to feel confident that something unusual is present.
@@ -338,9 +329,7 @@ Reports occurring near Malmstrom or other military sites can encourage observers
 
 These factors help explain why apparently dramatic reports can emerge from perfectly ordinary aerial activity without requiring deception or exaggeration.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MBPYf7wT40w" title="UFO Over Montana: The Mariana Incident &amp; The Great Falls Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MBPYf7wT40w" target="_blank" rel="noopener noreferrer">UFO Over Montana: The Mariana Incident &amp; The Great Falls Mystery</a></p><p class="youtube-embed-meta">Channel: Quick Facts Books &middot; Views: 30 &middot; Uploaded: November 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MBPYf7wT40w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MBPYf7wT40w">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_airspace_669109-Illustration-3-dark.svg" | relative_url }}" alt="Airspace illustration 3" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_airspace_669109-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_airspace_669109-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Questions that separate aircraft from unresolved sightings
 
 Investigators examining Great Falls reports often begin with a handful of practical questions before considering more exotic possibilities.
@@ -371,8 +360,6 @@ Radar returns, multiple independent observations, time-stamped imagery and fligh
 
 The strongest unresolved cases tend to survive because they continue to resist these questions. Weak cases usually collapse when flight activity, lighting geometry or observational error is reconstructed.
 
-
-<img src="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_airspace_669109-Illustration-3-light.svg" | relative_url }}" alt="Airspace illustration 3" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_airspace_669109-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_airspace_669109-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Great Falls teaches about Montana UFO reports
 
 Great Falls demonstrates why Montana's UFO history cannot be reduced either to simple debunking or to claims of confirmed mysteries. The city sits at the intersection of commercial aviation, military operations and a long Cold War legacy. That environment creates genuine opportunities for misidentification while also ensuring that unusual sightings attract attention and speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviationviewmagazine.com/great-falls-international-airport-montana-budget/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviationviewmagazine.com">[Aviation View Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviationviewmagazine.com</span><span class="citation-popover-title">Aviation View Magazine Great Falls International Airport</span><span class="citation-popover-snippet">Great Falls International Airport - Montana on a budget7 Jan 2020 — The Great Falls International Airport remained under government contr...</span></span></span>
@@ -465,7 +452,7 @@ The lesson is not that every strange light above Great Falls is an aircraft. It 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -475,111 +462,36 @@ The lesson is not that every strange light above Great Falls is an aircraft. It 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT"><img src="{{ '/assets/images/marketplace-covers/c4fa2fd111d52b7bddcf.jpg' | relative_url }}" alt="Listing image for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display"><img src="{{ '/assets/images/marketplace-covers/27c78e3de724e607809d.jpg' | relative_url }}" alt="Listing image for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/ecc3da59eb1d0848e57f.jpg' | relative_url }}" alt="Listing image for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -587,15 +499,15 @@ The lesson is not that every strange light above Great Falls is an aircraft. It 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -603,15 +515,15 @@ The lesson is not that every strange light above Great Falls is an aircraft. It 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/ecc3da59eb1d0848e57f.jpg' | relative_url }}" alt="Listing image for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -619,15 +531,15 @@ The lesson is not that every strange light above Great Falls is an aircraft. It 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -635,7 +547,7 @@ The lesson is not that every strange light above Great Falls is an aircraft. It 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airspace-when-aircraft-lights-become-ufo-reports-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-aircraft-lights-become-ufo-reports-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -712,17 +624,31 @@ The lesson is not that every strange light above Great Falls is an aircraft. It 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -735,42 +661,73 @@ The lesson is not that every strange light above Great Falls is an aircraft. It 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -785,12 +742,17 @@ The lesson is not that every strange light above Great Falls is an aircraft. It 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -801,112 +763,112 @@ The lesson is not that every strange light above Great Falls is an aircraft. It 
 1. <a id="endnote-1"></a>
    Source: airnav.com  
    Title: Air Nav KGTF  
-   Link: [https://airnav.com/airport/GTF](https://airnav.com/airport/GTF)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AirNavKGTF - Great Falls International AirportComplete aeronautical information about Great Falls International Airport (Great Falls, MT...</p></details>
+   Link: <a href="https://airnav.com/airport/GTF" target="_blank" rel="noopener noreferrer nofollow">https://airnav.com/airport/GTF</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>KGTF - Great Falls International AirportComplete aeronautical information about Great Falls International Airport (Great Falls, MT...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Great Falls International Airport  
-   Link: [https://en.wikipedia.org/wiki/Great_Falls_International_Airport](https://en.wikipedia.org/wiki/Great_Falls_International_Airport)  
+   Link: <a href="https://en.wikipedia.org/wiki/Great_Falls_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Great_Falls_International_Airport</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Great Falls Air Defense Sector  
-   Link: [https://en.wikipedia.org/wiki/Great_Falls_Air_Defense_Sector](https://en.wikipedia.org/wiki/Great_Falls_Air_Defense_Sector)  
+   Link: <a href="https://en.wikipedia.org/wiki/Great_Falls_Air_Defense_Sector" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Great_Falls_Air_Defense_Sector</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Mariana UFO film  
-   Link: [https://en.wikipedia.org/wiki/Mariana_UFO_film](https://en.wikipedia.org/wiki/Mariana_UFO_film)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mariana_UFO_film" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mariana_UFO_film</a>  
 
 5. <a id="endnote-5"></a>
    Source: krtv.com  
    Title: great falls ufo legacy in focus amid pentagon document release  
-   Link: [https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release](https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release)  
+   Link: <a href="https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release" target="_blank" rel="noopener noreferrer nofollow">https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>KRTV NEWS Great FallsGreat Falls&#x27; UFO legacy in focus amid Pentagon document...13 May 2026 — In 1950, Nick Mariana, manager of the Great...</p></details>
    Published: May 2026  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Malmstrom_UFO_incident](https://en.wikipedia.org/wiki/Malmstrom_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom UFO incidentA weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over M...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: abcnews.com  
    Title: ABC News Former Airmen to Govt.: Come Clean on UFOs  
-   Link: [https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715](https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715)  
+   Link: <a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFormer Airmen to Govt.: Come Clean on UFOsSeptember 27, 2010 — Former Airmen to Govt.: Come Clean on UFOs. Former Air Force offic...</p></details>
    Published: September 27, 2010  
 
 8. <a id="endnote-8"></a>
    Source: aviationviewmagazine.com  
    Title: Aviation View Magazine Great Falls International Airport  
-   Link: [https://aviationviewmagazine.com/great-falls-international-airport-montana-budget/](https://aviationviewmagazine.com/great-falls-international-airport-montana-budget/)  
+   Link: <a href="https://aviationviewmagazine.com/great-falls-international-airport-montana-budget/" target="_blank" rel="noopener noreferrer nofollow">https://aviationviewmagazine.com/great-falls-international-airport-montana-budget/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Great Falls International Airport - Montana on a budget7 Jan 2020 — The Great Falls International Airport remained under government contr...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aopa.org  
    Title: Great Falls International Airport  
-   Link: [https://www.aopa.org/destinations/airports/GTF/details](https://www.aopa.org/destinations/airports/GTF/details)  
+   Link: <a href="https://www.aopa.org/destinations/airports/GTF/details" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/destinations/airports/GTF/details</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>KGTFFAA aeronautical and local business information for airport Great Falls International Airport (KGTF), MT, US, covering airport operat...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: globalair.com  
-   Link: [https://www.globalair.com/airport/apt.comms.aspx?aptcode=gtf](https://www.globalair.com/airport/apt.comms.aspx?aptcode=gtf)  
+   Link: <a href="https://www.globalair.com/airport/apt.comms.aspx?aptcode=gtf" target="_blank" rel="noopener noreferrer nofollow">https://www.globalair.com/airport/apt.comms.aspx?aptcode=gtf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GREAT FALLS INTERNATIONAL (KGTF) CommunicationsGet airport communications, satellite services, RADAR data, terminal communications remark...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: us defense officials reported thousands of unidentified glowing orbs observed ne  
-   Link: [https://www.facebook.com/MechanicalEngineersRocks/posts/us-defense-officials-reported-thousands-of-unidentified-glowing-orbs-observed-ne/1347281724102633/](https://www.facebook.com/MechanicalEngineersRocks/posts/us-defense-officials-reported-thousands-of-unidentified-glowing-orbs-observed-ne/1347281724102633/)  
+   Link: <a href="https://www.facebook.com/MechanicalEngineersRocks/posts/us-defense-officials-reported-thousands-of-unidentified-glowing-orbs-observed-ne/1347281724102633/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MechanicalEngineersRocks/posts/us-defense-officials-reported-thousands-of-unidentified-glowing-orbs-observed-ne/1347281724102633/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>• Orbs hovered...In the 1960s and &#x27;70s, repeated UFO sightings emerged at Malmstrom Air Force Base in Montana, a storage site for nuclea...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheUnXplainedZone/posts/two-mysterious-objects-fly-across-the-montana-sky-in-what-may-be-the-first-ufo-v/1290722933257136/](https://www.facebook.com/TheUnXplainedZone/posts/two-mysterious-objects-fly-across-the-montana-sky-in-what-may-be-the-first-ufo-v/1290722933257136/)  
+   Link: <a href="https://www.facebook.com/TheUnXplainedZone/posts/two-mysterious-objects-fly-across-the-montana-sky-in-what-may-be-the-first-ufo-v/1290722933257136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/two-mysterious-objects-fly-across-the-montana-sky-in-what-may-be-the-first-ufo-v/1290722933257136/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Leaked video showing US helicopters intercepting UFO and escorting it to an air force base. Real UFO or new secret weapon testing?Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: greatfallshistorymuseum.org  
    Title: the mariana ufo great falls visiting [voyagers](&#123;&#123; 'voyagers/' | relative_url &#125;&#125;)  
-   Link: [https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers](https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers)  
+   Link: <a href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow">https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mariana UFO Incident: Great Falls&#x27; Visiting Voyagers1 Sept 2025 — Nick Mariana&#x27;s tale of flying discs over Great Falls was one of many in...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/](https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/)  
+   Link: <a href="https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lecting sunlight. However, skeptics argued that the...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: govinfo.gov  
    Title: Federal Register/Vol  
-   Link: [https://www.govinfo.gov/content/pkg/FR-2000-07-24/pdf/00-18578.pdf](https://www.govinfo.gov/content/pkg/FR-2000-07-24/pdf/00-18578.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/FR-2000-07-24/pdf/00-18578.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/FR-2000-07-24/pdf/00-18578.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>65, No. 142/Monday, July 24, 2000/...24 Jul 2000 — The reconfiguration of airspace is necessary due to the closure of the Malmstrom AFB...</p></details>
    Published: July 24, 2000  
 
 16. <a id="endnote-16"></a>
    Source: regulations.gov  
-   Link: [https://www.regulations.gov/document/FAA-2020-1126-0001](https://www.regulations.gov/document/FAA-2020-1126-0001)  
+   Link: <a href="https://www.regulations.gov/document/FAA-2020-1126-0001" target="_blank" rel="noopener noreferrer nofollow">https://www.regulations.gov/document/FAA-2020-1126-0001</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Airspace Designations and Reporting Points: Great Falls, MT15 Jan 2021 — Further, this action proposes to remove Malmstrom AFB from the C...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: distinctlymontana.com  
    Title: when ufos first came great falls  
-   Link: [https://www.distinctlymontana.com/when-ufos-first-came-great-falls](https://www.distinctlymontana.com/when-ufos-first-came-great-falls)  
+   Link: <a href="https://www.distinctlymontana.com/when-ufos-first-came-great-falls" target="_blank" rel="noopener noreferrer nofollow">https://www.distinctlymontana.com/when-ufos-first-came-great-falls</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When UFOs First Came to Great Falls23 Apr 2026 — By the morning of August 15, 1950, when a Great Falls softball manager managed to take a...</p></details>
    Published: August 15, 1950  
 
 18. <a id="endnote-18"></a>
    Source: treasurestatelifestyles.com  
    Title: the mariana ufo incident  
-   Link: [https://treasurestatelifestyles.com/the-mariana-ufo-incident/](https://treasurestatelifestyles.com/the-mariana-ufo-incident/)  
+   Link: <a href="https://treasurestatelifestyles.com/the-mariana-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://treasurestatelifestyles.com/the-mariana-ufo-incident/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Sept 2016 — The Mariana UFO footage depicts two bright, silvery objects moving horizontally across the sky at a speed relative to one a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: flygtf.com  
    Title: Great Falls International Airport (GTF)  
-   Link: [https://flygtf.com/](https://flygtf.com/)  
+   Link: <a href="https://flygtf.com/" target="_blank" rel="noopener noreferrer nofollow">https://flygtf.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by pristine wilderness and water, Great Falls is your Basecamp for discovering Genuine Montana.Read more...</p></details>

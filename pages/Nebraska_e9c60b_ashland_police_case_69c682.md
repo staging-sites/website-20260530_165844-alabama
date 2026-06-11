@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-nebraskas-ufo/
 nav_short_title: Ashland Case
 title: Why the Ashland Police UFO Case Still Matters
-title_full: Why the Ashland Police UFO Case Still Matters | Nebraska UFOs
+title_full: Why the Ashland Police UFO Case Still Matters
 display_title_short: Ashland Case
 display_title: Ashland Case
 heading_title: Why the Ashland Police UFO Case Still Matters
@@ -268,8 +268,7 @@ image: /assets/images/Nebraska_e9c60b_ashland_police_case_69c682-overview-social
 
 ## Introduction
 
-The Ashland police UFO case still matters because it is [Nebraska]({{ 'what-really-happened-in-nebraskas-ufo/' | relative_url }})’s clearest example of the gap between a credible witness and conclusive evidence. In the early hours of 3 December 1967, Ashland police officer Herbert Schirmer reported a strange object near the junction of U.S. Highway 6 and Nebraska Highway 63. The case became famous because Schirmer was a serving police officer, because he described [missing time]({{ 'missing-time/' | relative_url }}) and physical after-effects, and because the incident was examined by the University of Colorado UFO project, commonly known as the Condon Committee. Yet the same investigation found no reliable physical evidence that an extraordinary object had been present. The result is not a simple “solved” or “proved” story. It is a case about evidence: what a sincere officer said, what investigators could check, and why belief in the witness was not enough to establish the event as physically real. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 42: State Trooper Sighting...</span></span></span>
-
+The Ashland police UFO case still matters because it is Nebraska’s clearest example of the gap between a credible witness and conclusive evidence. In the early hours of 3 December 1967, Ashland police officer Herbert Schirmer reported a strange object near the junction of U.S. Highway 6 and Nebraska Highway 63. The case became famous because Schirmer was a serving police officer, because he described [missing time]({{ 'missing-time/' | relative_url }}) and physical after-effects, and because the incident was examined by the University of Colorado UFO project, commonly known as the Condon Committee. Yet the same investigation found no reliable physical evidence that an extraordinary object had been present. The result is not a simple “solved” or “proved” story. It is a case about evidence: what a sincere officer said, what investigators could check, and why belief in the witness was not enough to establish the event as physically real. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 42: State Trooper Sighting...</span></span></span>
 
 <img src="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682-overview.webp" | relative_url }}" alt="Overview image for Ashland Case" loading="eager" decoding="sync" fetchpriority="high">
 ## What Officer Herbert Schirmer reported
@@ -282,8 +281,7 @@ The public identification of the officer as Herbert Schirmer is well established
 
 The case’s appeal is easy to understand. Schirmer was not presented as an anonymous prankster or a vague rumour. He was a young officer claiming that something had happened while he was on duty. The report included a specific time, a specific road junction, a described object, a time gap, later physical discomfort and a small piece of alleged material from the scene. For UFO believers, that combination made the case unusually compelling. For investigators, it created a sharper question: which parts could actually be tested?
 
-
-<img src="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682-Illustration-1-light.svg" | relative_url }}" alt="Ashland Case illustration 1" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682-Illustration-1-dark.svg" | relative_url }}" alt="Ashland Case illustration 1" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Condon investigators found
 
 The University of Colorado investigation is the central reason the Ashland case remains important. The Condon Committee was not a local fan club or a later television reconstruction. It was an Air Force-funded academic study that examined selected UFO reports in the late 1960s. The University of Colorado itself describes the “Condon Report” as a rare official UFO study commissioned by the U.S. Air Force, and notes that its overall conclusion was that UFOs did not warrant further investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colorado.edu">[University of Colorado Boulder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colorado.edu</span><span class="citation-popover-title">condon report cu boulders historic ufo study</span><span class="citation-popover-snippet">condon report cu boulders historic ufo study</span></span></span>
@@ -297,7 +295,6 @@ Other checks were similarly unhelpful to the extraordinary claim. The site was e
 The committee also arranged psychological assessment, with Schirmer’s approval and cooperation. The tests included standard psychological instruments, and a session using partial hypnotic techniques conducted by Dr R. Leo Sprinkle of the University of Wyoming. The report says the hypnosis session produced new information, but that the authenticity of the reported experience remained unestablished. Sprinkle’s opinion, as reported there, was that the officer believed in the reality of what he described. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">sec ii</span><span class="citation-popover-snippet">sec ii</span></span></span>
 
 That distinction is the heart of the evidence problem. The investigation supported the idea that Schirmer was sincere. It did not establish that the object, the missing time or the later expanded contact narrative corresponded to a physically real event. The Condon staff concluded that interviews, psychological assessment and the lack of evidence left them with no confidence that the reported UFO experience was physically real. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">sec ii</span><span class="citation-popover-snippet">sec ii</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s-XpymjSBo0" title="Police officer Herbert Schirmer talks about being taken onboard a UFO, Nebraska, December 3, 1967" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s-XpymjSBo0" target="_blank" rel="noopener noreferrer">Police officer Herbert Schirmer talks about being taken onboard a UFO, Nebraska, December 3, 1967</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 303.7K &middot; Uploaded: August 2022 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s-XpymjSBo0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s-XpymjSBo0">Open on YouTube</a></p></div></div></div>
 
@@ -315,8 +312,7 @@ The Ashland encounter is often retold as an abduction story, but its strongest h
 
 For a public reader, this is the most useful way to understand the Ashland case. The question is not whether Schirmer was “credible” in a general moral sense. The question is whether the available evidence can carry the full weight of the claim. On that test, the case remains weak.
 
-
-<img src="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682-Illustration-2-light.svg" | relative_url }}" alt="Ashland Case illustration 2" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682-Illustration-2-dark.svg" | relative_url }}" alt="Ashland Case illustration 2" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why sincerity was not enough proof
 
 The Schirmer case is a good antidote to a common mistake in UFO discussion: treating honesty as the same thing as verification. A sincere witness can report a real experience without correctly identifying its cause. A sincere witness can also misjudge time, distance, size, speed or sequence, especially at night, under stress, after a long shift, and while trying to interpret lights or movement in an unexpected setting. The Condon account itself notes a distance discrepancy: the officer initially thought the light source was around 40 feet ahead, while the distance was later measured at about 150 feet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">sec ii</span><span class="citation-popover-snippet">sec ii</span></span></span>
@@ -326,7 +322,6 @@ That does not make the report worthless. It makes it human. Many serious UFO and
 Seen from that perspective, the Ashland case is almost a textbook example of insufficient data. There was a single principal witness, no photograph, no radar record, no multiple independent observation stream, no unambiguous landing trace, no unusual radiation and no recovered material that could be convincingly tied to the event. What remained was a sincere report, a puzzling time gap, a tiny ambiguous fragment, and later hypnotic elaboration. That is enough to make the case historically interesting. It is not enough to prove an extraordinary craft or encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">sec ii</span><span class="citation-popover-snippet">sec ii</span></span></span>
 
 The case also shows why polygraph claims should be treated carefully. The Condon report says a polygraph reportedly showed no indications that the UFO report was other than truthful, but a polygraph does not demonstrate that an event happened as described. At most, it may support the narrower idea that the person was not knowingly fabricating the story. That is relevant to character assessment, not decisive physical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">sec ii</span><span class="citation-popover-snippet">sec ii</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PB2OegI6wvI" title="How reliable is your memory? | Elizabeth Loftus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer">How reliable is your memory? | Elizabeth Loftus</a></p><p class="youtube-embed-meta">Channel: TED &middot; Views: 2.7M &middot; Uploaded: September 2013 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PB2OegI6wvI">Open on YouTube</a></p></div></div></div>
 
@@ -340,8 +335,7 @@ But retellings can also inflate weak evidence. The more the story is framed as a
 
 This is why the Ashland case should be read in two layers. As a cultural story, it has clearly grown stronger over time: it remains searchable, retold, locally commemorated and recognisable within Nebraska UFO lore. As an evidential case, later attention has not solved the original weaknesses identified in the Condon investigation. Publicity preserved the story; it did not add the missing corroboration.
 
-
-<img src="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682-Illustration-3-light.svg" | relative_url }}" alt="Ashland Case illustration 3" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682-Illustration-3-dark.svg" | relative_url }}" alt="Ashland Case illustration 3" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the case fits in Nebraska UFO history
 
 Within Nebraska, the Ashland case stands apart because it combines a named law-enforcement witness, a specific late-night road location, claimed physical after-effects, official-style investigation and enduring local memory. Nebraska has older aerial mystery traditions and other UFO-adjacent stories, but the Schirmer case is the one most likely to appear when readers search for a modern Nebraska UFO incident.
@@ -356,9 +350,7 @@ The Ashland police UFO case is best described as a sincere, historically importa
 
 The case still matters because it teaches the central lesson of many serious UFO disputes: credibility begins an investigation, but it does not finish one. Schirmer may well have experienced something frightening and unusual on a Nebraska highway in December 1967. What the public record does not provide is the independent, durable evidence needed to move the case from memorable testimony to confirmed event.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z_GdL-Pp4g0" title="BrainScratch : Herbert Schirmer&#x27;s Alien Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z_GdL-Pp4g0" target="_blank" rel="noopener noreferrer">BrainScratch : Herbert Schirmer&#x27;s Alien Story</a></p><p class="youtube-embed-meta">Channel: LordanARTS &middot; Views: 25.8K &middot; Uploaded: August 2017 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z_GdL-Pp4g0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z_GdL-Pp4g0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -446,7 +438,7 @@ The case still matters because it teaches the central lesson of many serious UFO
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -456,111 +448,36 @@ The case still matters because it teaches the central lesson of many serious UFO
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART"><img src="https://i.ebayimg.com/images/g/nA4AAeSwTU5p~MFM/s-l225.jpg" alt="Listing image for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -568,15 +485,15 @@ The case still matters because it teaches the central lesson of many serious UFO
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster"><img src="https://i.ebayimg.com/images/g/H3QAAOSwSyRmwGFD/s-l225.jpg" alt="Listing image for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -584,15 +501,15 @@ The case still matters because it teaches the central lesson of many serious UFO
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -600,15 +517,15 @@ The case still matters because it teaches the central lesson of many serious UFO
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -616,7 +533,7 @@ The case still matters because it teaches the central lesson of many serious UFO
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ashland-case-why-the-ashland-police-ufo-case-still-matters-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-ashland-police-ufo-case-still-matters-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -693,17 +610,31 @@ The case still matters because it teaches the central lesson of many serious UFO
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -716,42 +647,73 @@ The case still matters because it teaches the central lesson of many serious UFO
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -766,12 +728,17 @@ The case still matters because it teaches the central lesson of many serious UFO
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -781,124 +748,124 @@ The case still matters because it teaches the central lesson of many serious UFO
 
 1. <a id="endnote-1"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/case42.htm](https://files.ncas.org/condon/text/case42.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case42.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Case 42: State Trooper Sighting...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nebraskalegislature.gov  
    Title: Nebraska Legislature  
-   Link: [https://nebraskalegislature.gov/FloorDocs/107/PDF/Intro/LR245.pdf](https://nebraskalegislature.gov/FloorDocs/107/PDF/Intro/LR245.pdf)  
+   Link: <a href="https://nebraskalegislature.gov/FloorDocs/107/PDF/Intro/LR245.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nebraskalegislature.gov/FloorDocs/107/PDF/Intro/LR245.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: 3newsnow.com  
-   Link: [https://www.3newsnow.com/news/local-news/local-ufo-story-revitalized-after-beer-comic-book-comes-out](https://www.3newsnow.com/news/local-news/local-ufo-story-revitalized-after-beer-comic-book-comes-out)  
+   Link: <a href="https://www.3newsnow.com/news/local-news/local-ufo-story-revitalized-after-beer-comic-book-comes-out" target="_blank" rel="noopener noreferrer nofollow">https://www.3newsnow.com/news/local-news/local-ufo-story-revitalized-after-beer-comic-book-comes-out</a>  
 
 4. <a id="endnote-4"></a>
    Source: colorado.edu  
    Title: condon report cu boulders historic ufo study  
-   Link: [https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study](https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study)  
+   Link: <a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
 
 5. <a id="endnote-5"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
 6. <a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: files.ncas.org  
    Title: sec ii  
-   Link: [https://files.ncas.org/condon/text/sec-ii.htm](https://files.ncas.org/condon/text/sec-ii.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/sec-ii.htm</a>  
 
 8. <a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 10. <a id="endnote-10"></a>
    Source: statepatrol.nebraska.gov  
    Title: public records requests  
-   Link: [https://statepatrol.nebraska.gov/services/public-records-requests](https://statepatrol.nebraska.gov/services/public-records-requests)  
+   Link: <a href="https://statepatrol.nebraska.gov/services/public-records-requests" target="_blank" rel="noopener noreferrer nofollow">https://statepatrol.nebraska.gov/services/public-records-requests</a>  
 
 11. <a id="endnote-11"></a>
    Source: omaha.com  
-   Link: [https://omaha.com/lifestyles/article_9e87f69c-96d6-5ff9-96f7-dc0e27c9852c.html](https://omaha.com/lifestyles/article_9e87f69c-96d6-5ff9-96f7-dc0e27c9852c.html)  
+   Link: <a href="https://omaha.com/lifestyles/article_9e87f69c-96d6-5ff9-96f7-dc0e27c9852c.html" target="_blank" rel="noopener noreferrer nofollow">https://omaha.com/lifestyles/article_9e87f69c-96d6-5ff9-96f7-dc0e27c9852c.html</a>  
 
 12. <a id="endnote-12"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated](https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated)  
+   Link: <a href="https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Herbert Schirmer  
-   Link: [https://it.wikipedia.org/wiki/Herbert_Schirmer](https://it.wikipedia.org/wiki/Herbert_Schirmer)  
+   Link: <a href="https://it.wikipedia.org/wiki/Herbert_Schirmer" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Herbert_Schirmer</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: [https://en.wikipedia.org/wiki/Condon_Committee](https://en.wikipedia.org/wiki/Condon_Committee)  
+   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
 
 15. <a id="endnote-15"></a>
    Source: maryevans.com  
    Title: herbert schirmer  
-   Link: [https://www.maryevans.com/contributors/com/herbert-schirmer-45390940.html](https://www.maryevans.com/contributors/com/herbert-schirmer-45390940.html)  
+   Link: <a href="https://www.maryevans.com/contributors/com/herbert-schirmer-45390940.html" target="_blank" rel="noopener noreferrer nofollow">https://www.maryevans.com/contributors/com/herbert-schirmer-45390940.html</a>  
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Police officer Herbert Schirmer talks about being taken onboard a UFO, Nebraska,  
-   Link: [https://www.youtube.com/watch?v=l927-8UCnqU](https://www.youtube.com/watch?v=l927-8UCnqU)  
+   Link: <a href="https://www.youtube.com/watch?v=l927-8UCnqU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l927-8UCnqU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Herbert Schirmer UFO Ashland Nebraska The Herbert Schirmer Abduction: Revisiting Nebraska’s Most Documented UFO Encounter (1967–2025) X-F...</p></details>
    Published: December 3, 1967  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Ashland, Nebraska,  
-   Link: [https://www.youtube.com/watch?v=JMsFFMoKtM8](https://www.youtube.com/watch?v=JMsFFMoKtM8)  
+   Link: <a href="https://www.youtube.com/watch?v=JMsFFMoKtM8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JMsFFMoKtM8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>December 3, 1967. Interviews with Officer Herbert Schirmer, Officer Pat Scholting...</p></details>
    Published: December 3, 1967  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Police officer Herbert Schirmer talks about being taken onboard a UFO, Nebraska,  
-   Link: [https://www.youtube.com/watch?v=s-XpymjSBo0](https://www.youtube.com/watch?v=s-XpymjSBo0)  
+   Link: <a href="https://www.youtube.com/watch?v=s-XpymjSBo0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s-XpymjSBo0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ashland, Nebraska, December 3, 1967. Officer Herbert Schirmer gives an account of his encounter and...</p></details>
    Published: December 3, 1967  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=8SvW4GDkbf0](https://www.youtube.com/watch?v=8SvW4GDkbf0)  
+   Link: <a href="https://www.youtube.com/watch?v=8SvW4GDkbf0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8SvW4GDkbf0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Police officer Herbert Schirmer talks about being taken onboard a UFO, Nebraska, December 3, 1967...</p></details>
    Published: December 3, 1967  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Ashland, Nebraska,  
-   Link: [https://www.youtube.com/watch?v=fsthZPqd4Xs](https://www.youtube.com/watch?v=fsthZPqd4Xs)  
+   Link: <a href="https://www.youtube.com/watch?v=fsthZPqd4Xs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fsthZPqd4Xs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Herbert Schirmer Abduction: Revisiting Nebraska’s Most Documented UFO Encounter (1967–2025)...</p></details>
    Published: December 3, 1967  
 
 21. <a id="endnote-21"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/aigkenham/posts/some-report-communication-with-aliens-and-some-even-claim-to-have-been-taken-abo/3517722971591367/](https://www.facebook.com/aigkenham/posts/some-report-communication-with-aliens-and-some-even-claim-to-have-been-taken-abo/3517722971591367/)  
+   Link: <a href="https://www.facebook.com/aigkenham/posts/some-report-communication-with-aliens-and-some-even-claim-to-have-been-taken-abo/3517722971591367/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aigkenham/posts/some-report-communication-with-aliens-and-some-even-claim-to-have-been-taken-abo/3517722971591367/</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/ancientnexus/posts/2353931454985677/](https://www.facebook.com/groups/ancientnexus/posts/2353931454985677/)  
+   Link: <a href="https://www.facebook.com/groups/ancientnexus/posts/2353931454985677/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ancientnexus/posts/2353931454985677/</a>  
 
 24. <a id="endnote-24"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/041%20MAR%201968.pdf](https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/041%20MAR%201968.pdf)  
+   Link: <a href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/041%20MAR%201968.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/041%20MAR%201968.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/](https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/)  
+   Link: <a href="https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/</a>

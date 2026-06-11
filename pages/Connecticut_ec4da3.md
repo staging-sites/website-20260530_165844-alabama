@@ -258,7 +258,7 @@ sibling_links:
   short_title: Michigan UFOs
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Alabama_d1f92d
   title: Alabama UFOs
@@ -273,9 +273,9 @@ sibling_links:
   permalink: /what-keeps-tennessees-ufo-stories-alive/
   short_title: Tennessee UFOs
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Idaho_18334c
   title: Idaho UFOs
   permalink: /what-makes-idaho-a-key-ufo-hotspot/
@@ -285,9 +285,9 @@ sibling_links:
   permalink: /what-makes-indianas-ufo-history-unique/
   short_title: Indiana UFOs
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: South_Carolina_11d001
   title: South Carolina UFOs
   permalink: /what-makes-south-carolinas-ufo-story/
@@ -476,7 +476,6 @@ image: /assets/images/Connecticut_ec4da3-overview-social.jpg
 
 Long before “flying saucer” entered American language in 1947, Connecticut already had stories of strange things in the sky. The best example is the [Ghost Ship]({{ 'ghost-ship/' | relative_url }}) of New Haven. According to Connecticut History, English settlers in New Haven Colony later told of a lost vessel that seemed to reappear in the sky after a violent summer storm; versions of the story were recorded in print, including by Cotton Mather. This is not a UFO case in the modern sense. It is folklore, shaped by religious interpretation, weather anxiety and the dangers of early colonial trade. But it matters because it shows a recurring pattern in Connecticut sky stories: witnesses see something startling, the community interprets it through the ideas available at the time, and later generations retell the event through a new cultural lens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connecticuthistory.org">[Connecticut History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connecticuthistory.org</span><span class="citation-popover-title">Connecticut History The Ghost Ship of New Haven Sets Sail Shrouded in Mystery</span><span class="citation-popover-snippet">Connecticut History The Ghost Ship of New Haven Sets Sail Shrouded in Mystery</span></span></span>
 
-
 <img src="{{ "/assets/images/Connecticut_ec4da3-overview.webp" | relative_url }}" alt="Overview image for Connecticut UFOs: From Colonial Legends to..." loading="eager" decoding="sync" fetchpriority="high">
 A similar pattern appears in the “great airship” reports of 1909 and 1910. Connecticut Magazine describes a Willimantic sighting on 7 January 1910, when an opera house manager and a police officer reported lights in the sky that seemed to resemble a chain of electric lights. These reports came amid a wider New England excitement after Wallace Tillinghast, a Worcester businessman, claimed to have invented a revolutionary flying machine. Later accounts suggest that Venus, fire balloons and hoaxes helped drive the wave. In other words, the “airship” flap was not just a set of isolated observations; it was a social episode in which expectation, press coverage and ordinary sky objects reinforced one another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
 
@@ -490,8 +489,7 @@ That does not make the Hartford report proof of anything exotic. The surviving p
 
 The broader Project Blue Book context also matters. The U.S. National Archives states that Project Blue Book was declassified, closed in 1969, and transferred to the National Archives; the Air Force fact sheet says 12,618 sightings were reported from 1947 to 1969, with 701 remaining “unidentified”. The same fact sheet says the Air Force found no evidence that unidentified cases represented extraterrestrial vehicles, technological developments beyond then-current scientific knowledge, or a threat to national security. That official conclusion should not be treated as a perfect scientific resolution of every case, but it is the strongest institutional baseline for interpreting Connecticut’s early official-record sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-
-<img src="{{ "/assets/images/Connecticut_ec4da3-Illustration-1-light.svg" | relative_url }}" alt="Connecticut UFOs: From Colonial Legends to... illustration 1" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Connecticut_ec4da3-Illustration-1-dark.svg" | relative_url }}" alt="Connecticut UFOs: From Colonial Legends to... illustration 1" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fairfield County and the Hudson Valley “boomerang”
 
 The most famous UFO flap touching Connecticut is usually known as the Hudson Valley or Westchester Boomerang sightings. Although much of the story centres on New York, Connecticut’s Fairfield County formed part of the sighting region, especially western towns near the New York border such as Danbury, New Fairfield and Ridgefield. Connecticut Magazine summarises reports from 1983 and 1984 as involving large, silent V-shaped or circular objects, outlined by white, red or green lights, with sightings reported across western Connecticut and nearby New York counties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
@@ -501,7 +499,6 @@ This episode matters because it had all the ingredients of a durable UFO flap: m
 The Connecticut angle becomes especially vivid with the 1987 Newtown report by Randy Etting, who said he saw lights in a semicircle while walking near his home and photographed them. Connecticut Magazine notes that hundreds of others reportedly saw similar lights, raising the question of whether the earlier boomerang flap had returned. Yet here again, the reader should separate a compelling local story from a settled explanation. The pattern of lights is memorable; the source base is mixed; and the known role of aircraft formations in the wider regional flap weakens any claim that Connecticut’s reports must have involved a single extraordinary craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
 
 The best reading is not “debunked in every instance” or “confirmed mystery”. It is that Fairfield County was part of a regional flap in which some reports were plausibly explained by aircraft formations, while other witness accounts remained part of UFO lore because the available evidence did not allow a clean case-by-case resolution.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w-gz4_Ge_qY" title="Trooper, motorist report object falling from sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w-gz4_Ge_qY" target="_blank" rel="noopener noreferrer">Trooper, motorist report object falling from sky</a></p><p class="youtube-embed-meta">Channel: WTNH News8 &middot; Views: 2.5K &middot; Uploaded: April 2012 &middot; Length: 1 minute 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w-gz4_Ge_qY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w-gz4_Ge_qY">Open on YouTube</a></p></div></div></div>
 
@@ -521,8 +518,7 @@ Local media sometimes use NUFORC data to identify town-by-town patterns. Patch r
 
 For a reader, the best use of the databases is not to ask “how many alien craft were seen?” but “which reports have enough detail to investigate?” A stronger Connecticut case would usually need a clear time and place, multiple independent witnesses, direction and elevation estimates, weather and astronomical checks, aircraft and satellite comparisons, and ideally radar, video or photographic data that can be examined.
 
-
-<img src="{{ "/assets/images/Connecticut_ec4da3-Illustration-2-light.svg" | relative_url }}" alt="Connecticut UFOs: From Colonial Legends to... illustration 2" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Connecticut_ec4da3-Illustration-2-dark.svg" | relative_url }}" alt="Connecticut UFOs: From Colonial Legends to... illustration 2" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## From UFOs to drones: Connecticut’s modern sky-confusion problem
 
 Recent Connecticut sky stories increasingly involve drones rather than classic UFOs. In December 2024, CT Insider reported a wave of drone sightings across Connecticut and the wider Northeast, including an incident near Bradley International Airport. Audio described by the article had a tower operator and pilot discussing a small object that was not visible on radar and was thought to be a drone; the aircraft was cleared with a caution about possible drone activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
@@ -539,7 +535,6 @@ The debate is revealing because supporters framed the issue less as “aliens”
 
 That makes the proposed study a modern hinge point in Connecticut’s UFO history. Older cases revolved around witnesses, newspapers and federal military files. The 2026 debate revolved around data access, public reassurance, aviation safety, drones and whether state-level institutions should have a way to sort ordinary from unexplained reports. It shows how UFO culture has shifted into UAP policy language without losing the same core question: what are people seeing in the sky?
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dWR0JCY86ag" title="Pentagon unveils UFO/UAP files dating back to 1940s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dWR0JCY86ag" target="_blank" rel="noopener noreferrer">Pentagon unveils UFO/UAP files dating back to 1940s</a></p><p class="youtube-embed-meta">Channel: FOX 11 Los Angeles &middot; Views: 27.9K &middot; Uploaded: May 2026 &middot; Length: 3 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dWR0JCY86ag" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dWR0JCY86ag">Open on YouTube</a></p></div></div></div>
 
 ## How national UAP findings should shape Connecticut claims
@@ -550,14 +545,13 @@ The national evidence cuts both ways. On one hand, the subject is no longer mere
 
 For Connecticut, this means local reports deserve neither ridicule nor automatic belief. A pilot report over Hartford, a flap over Fairfield County, a green object over Bantam Lake and drone reports near Bradley can all be worth recording. But the standard of proof must rise with the claim. “Unidentified” means not identified from the available evidence; it does not by itself mean extraordinary.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E6FVm5M50WY" title="CT &#x27;26 SUNDAY SPOTLIGHT: A bill to study UAP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E6FVm5M50WY" target="_blank" rel="noopener noreferrer">CT &#x27;26 SUNDAY SPOTLIGHT: A bill to study UAP</a></p><p class="youtube-embed-meta">Channel: WFSB 3 &middot; Views: 884 &middot; Uploaded: March 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E6FVm5M50WY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E6FVm5M50WY">Open on YouTube</a></p></div></div></div>
 
 ## A practical way to classify Connecticut cases
 
 The most useful way to read Connecticut’s UFO history is to separate cases into evidence categories rather than treating them all as equally mysterious.
 
-**Historically important, not modern evidence:** The [New Haven ghost ship]({{ 'ghost-ship/' | relative_url }}) and the 1909–1910 [airship wave]({{ 'airship-wave-82dc77/' | relative_url }}) are valuable for understanding how Connecticut communities have interpreted strange sky events, but they are not strong evidence for modern UAP claims. They belong more to folklore, media history and social psychology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connecticuthistory.org">[Connecticut History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connecticuthistory.org</span><span class="citation-popover-title">Connecticut History The Ghost Ship of New Haven Sets Sail Shrouded in Mystery</span><span class="citation-popover-snippet">Connecticut History The Ghost Ship of New Haven Sets Sail Shrouded in Mystery</span></span></span>
+**Historically important, not modern evidence:** The New Haven ghost ship and the 1909–1910 [airship wave]({{ 'airship-wave-82dc77/' | relative_url }}) are valuable for understanding how Connecticut communities have interpreted strange sky events, but they are not strong evidence for modern UAP claims. They belong more to folklore, media history and social psychology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: connecticuthistory.org">[Connecticut History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">connecticuthistory.org</span><span class="citation-popover-title">Connecticut History The Ghost Ship of New Haven Sets Sail Shrouded in Mystery</span><span class="citation-popover-snippet">Connecticut History The Ghost Ship of New Haven Sets Sail Shrouded in Mystery</span></span></span>
 
 **Official-record but thinly documented:** The 1948 Hartford pilot sighting is worth noting because it appears in early official-era UFO cataloguing and involved aircrew. Its weakness is the limited public detail available in easy summaries. It should be described as unresolved in the record, not as confirmed extraordinary technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
 
@@ -567,8 +561,7 @@ The most useful way to read Connecticut’s UFO history is to separate cases int
 
 **Modern safety and identification problem:** The 2024 drone wave and 2026 legislative debate show Connecticut moving into a new phase, where the central issue is less “flying saucers” and more whether the state can identify drones, aircraft, satellites and genuinely unresolved aerial events quickly enough to reassure the public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
 
-
-<img src="{{ "/assets/images/Connecticut_ec4da3-Illustration-3-light.svg" | relative_url }}" alt="Connecticut UFOs: From Colonial Legends to... illustration 3" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Connecticut_ec4da3-Illustration-3-dark.svg" | relative_url }}" alt="Connecticut UFOs: From Colonial Legends to... illustration 3" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The bottom line for Connecticut’s UFO history
 
 Connecticut’s UFO history is strongest as a study in interpretation under uncertainty. The state has produced memorable cases, official-record fragments, regional flap activity and recent policy interest. Yet the evidence rarely supports dramatic conclusions. The more robust explanations — aircraft formations, meteors, bright planets, hoaxes, drones, satellites and ordinary aircraft seen under difficult night conditions — account for much of the pattern without requiring exotic craft.
@@ -997,223 +990,223 @@ That does not make the subject worthless. On the contrary, Connecticut is a usef
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 2. <a id="endnote-2"></a>
    Source: archive.org  
    Title: Internet Archive  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lCT](https://nuforc.org/subndx/?id=lCT)  
+   Link: <a href="https://nuforc.org/subndx/?id=lCT" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lCT</a>  
 
 5. <a id="endnote-5"></a>
    Source: patch.com  
    Title: UFOs Over Connecticut: Town-By-Town Sightings  
-   Link: [https://patch.com/connecticut/across-ct/ufos-over-connecticut-town-town-sightings](https://patch.com/connecticut/across-ct/ufos-over-connecticut-town-town-sightings)  
+   Link: <a href="https://patch.com/connecticut/across-ct/ufos-over-connecticut-town-town-sightings" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/connecticut/across-ct/ufos-over-connecticut-town-town-sightings</a>  
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=191599](https://nuforc.org/sighting/?id=191599)  
+   Link: <a href="https://nuforc.org/sighting/?id=191599" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191599</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=sOther](https://nuforc.org/subndx/?id=sOther)  
+   Link: <a href="https://nuforc.org/subndx/?id=sOther" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=sOther</a>  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=highlights](https://nuforc.org/subndx/?id=highlights)  
+   Link: <a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=sChanging](https://nuforc.org/subndx/?id=sChanging)  
+   Link: <a href="https://nuforc.org/subndx/?id=sChanging" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=sChanging</a>  
 
 12. <a id="endnote-12"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/druffel_firestorm_james_mcdonald_fight_ufo_science/druffel_firestorm_james_mcdonald_fight_ufo_science_djvu.txt](https://archive.org/stream/druffel_firestorm_james_mcdonald_fight_ufo_science/druffel_firestorm_james_mcdonald_fight_ufo_science_djvu.txt)  
+   Link: <a href="https://archive.org/stream/druffel_firestorm_james_mcdonald_fight_ufo_science/druffel_firestorm_james_mcdonald_fight_ufo_science_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/druffel_firestorm_james_mcdonald_fight_ufo_science/druffel_firestorm_james_mcdonald_fight_ufo_science_djvu.txt</a>  
 
 13. <a id="endnote-13"></a>
    Source: ia800503.us.archive.org  
    Title: UFO Newsclipping Service 1993 02 no 283  
-   Link: [https://ia800503.us.archive.org/10/items/UFO_Newsclipping_Service_1993_02_no_283/UFO_Newsclipping_Service_1993_02_no_283.pdf](https://ia800503.us.archive.org/10/items/UFO_Newsclipping_Service_1993_02_no_283/UFO_Newsclipping_Service_1993_02_no_283.pdf)  
+   Link: <a href="https://ia800503.us.archive.org/10/items/UFO_Newsclipping_Service_1993_02_no_283/UFO_Newsclipping_Service_1993_02_no_283.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800503.us.archive.org/10/items/UFO_Newsclipping_Service_1993_02_no_283/UFO_Newsclipping_Service_1993_02_no_283.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: ia800808.us.archive.org  
    Title: Psychic and UFO Revelations in the Last Days  
-   Link: [https://ia800808.us.archive.org/28/items/psychic-and-ufo-revelations-in-the-last-days/Psychic%20and%20UFO%20Revelations%20in%20the%20Last%20Days.pdf](https://ia800808.us.archive.org/28/items/psychic-and-ufo-revelations-in-the-last-days/Psychic%20and%20UFO%20Revelations%20in%20the%20Last%20Days.pdf)  
+   Link: <a href="https://ia800808.us.archive.org/28/items/psychic-and-ufo-revelations-in-the-last-days/Psychic%20and%20UFO%20Revelations%20in%20the%20Last%20Days.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800808.us.archive.org/28/items/psychic-and-ufo-revelations-in-the-last-days/Psychic%20and%20UFO%20Revelations%20in%20the%20Last%20Days.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: archive.org  
    Title: 412589424 Ufos and the Extraterrestrial Contact Movement v1 djvu.txt  
-   Link: [https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt](https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt)  
+   Link: <a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
 
 16. <a id="endnote-16"></a>
    Source: archive.org  
    Title: DTIC ADA326148 djvu.txt  
-   Link: [https://archive.org/stream/DTIC_ADA326148/DTIC_ADA326148_djvu.txt](https://archive.org/stream/DTIC_ADA326148/DTIC_ADA326148_djvu.txt)  
+   Link: <a href="https://archive.org/stream/DTIC_ADA326148/DTIC_ADA326148_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_ADA326148/DTIC_ADA326148_djvu.txt</a>  
 
 17. <a id="endnote-17"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/future-esoteric-the-unseen-rea-brad-olsen/Future%20Esoteric_%20The%20Unseen%20Rea%20-%20Brad%20Olsen_djvu.txt](https://archive.org/stream/future-esoteric-the-unseen-rea-brad-olsen/Future%20Esoteric_%20The%20Unseen%20Rea%20-%20Brad%20Olsen_djvu.txt)  
+   Link: <a href="https://archive.org/stream/future-esoteric-the-unseen-rea-brad-olsen/Future%20Esoteric_%20The%20Unseen%20Rea%20-%20Brad%20Olsen_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/future-esoteric-the-unseen-rea-brad-olsen/Future%20Esoteric_%20The%20Unseen%20Rea%20-%20Brad%20Olsen_djvu.txt</a>  
 
 18. <a id="endnote-18"></a>
    Source: archive.org  
    Title: Full text of "Wonders In The Sky  
-   Link: [https://archive.org/stream/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%2BVallee%2C%2BChris%2BAubeck%2BWonders%2Bin%2Bthe%2BSky%2B%2BUnexplained%2BAerial%2BObjects%2Bfrom%2BAntiquity%2Bto%2BModern%2BTimes_djvu.txt](https://archive.org/stream/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%2BVallee%2C%2BChris%2BAubeck%2BWonders%2Bin%2Bthe%2BSky%2B%2BUnexplained%2BAerial%2BObjects%2Bfrom%2BAntiquity%2Bto%2BModern%2BTimes_djvu.txt)  
+   Link: <a href="https://archive.org/stream/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%2BVallee%2C%2BChris%2BAubeck%2BWonders%2Bin%2Bthe%2BSky%2B%2BUnexplained%2BAerial%2BObjects%2Bfrom%2BAntiquity%2Bto%2BModern%2BTimes_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%2BVallee%2C%2BChris%2BAubeck%2BWonders%2Bin%2Bthe%2BSky%2B%2BUnexplained%2BAerial%2BObjects%2Bfrom%2BAntiquity%2Bto%2BModern%2BTimes_djvu.txt</a>  
 
 19. <a id="endnote-19"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/vallee-jacques-revelations_202012/Vall%C3%A9e%20Jacques%20-%20Revelations_djvu.txt](https://archive.org/stream/vallee-jacques-revelations_202012/Vall%C3%A9e%20Jacques%20-%20Revelations_djvu.txt)  
+   Link: <a href="https://archive.org/stream/vallee-jacques-revelations_202012/Vall%C3%A9e%20Jacques%20-%20Revelations_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/vallee-jacques-revelations_202012/Vall%C3%A9e%20Jacques%20-%20Revelations_djvu.txt</a>  
 
 20. <a id="endnote-20"></a>
    Source: dn790007.ca.archive.org  
-   Link: [https://dn790007.ca.archive.org/0/items/scientificamerican00hopkrich/scientificamerican00hopkrich.pdf](https://dn790007.ca.archive.org/0/items/scientificamerican00hopkrich/scientificamerican00hopkrich.pdf)  
+   Link: <a href="https://dn790007.ca.archive.org/0/items/scientificamerican00hopkrich/scientificamerican00hopkrich.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790007.ca.archive.org/0/items/scientificamerican00hopkrich/scientificamerican00hopkrich.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 22. <a id="endnote-22"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 23. <a id="endnote-23"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
 25. <a id="endnote-25"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 26. <a id="endnote-26"></a>
    Source: patch.com  
    Title: pentagon dump ufo files add intrigue ct sightings  
-   Link: [https://patch.com/connecticut/across-ct/pentagon-dump-ufo-files-add-intrigue-ct-sightings](https://patch.com/connecticut/across-ct/pentagon-dump-ufo-files-add-intrigue-ct-sightings)  
+   Link: <a href="https://patch.com/connecticut/across-ct/pentagon-dump-ufo-files-add-intrigue-ct-sightings" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/connecticut/across-ct/pentagon-dump-ufo-files-add-intrigue-ct-sightings</a>  
 
 27. <a id="endnote-27"></a>
    Source: history.com  
    Title: black triangle ufos facts  
-   Link: [https://www.history.com/articles/black-triangle-ufos-facts](https://www.history.com/articles/black-triangle-ufos-facts)  
+   Link: <a href="https://www.history.com/articles/black-triangle-ufos-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/black-triangle-ufos-facts</a>  
 
 28. <a id="endnote-28"></a>
    Source: ctinsider.com  
    Title: CT Insider Examining some of Connecticut's most spectacular UFO sightings  
-   Link: [https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php](https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php)  
+   Link: <a href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php</a>  
 
 29. <a id="endnote-29"></a>
    Source: ctinsider.com  
    Title: CT Insider Connecticut has seen 'dozens and dozens' of drone reports recently  
-   Link: [https://www.ctinsider.com/connecticut/article/ct-drones-new-jersey-blumenthal-lamont-19983768.php](https://www.ctinsider.com/connecticut/article/ct-drones-new-jersey-blumenthal-lamont-19983768.php)  
+   Link: <a href="https://www.ctinsider.com/connecticut/article/ct-drones-new-jersey-blumenthal-lamont-19983768.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/connecticut/article/ct-drones-new-jersey-blumenthal-lamont-19983768.php</a>  
 
 30. <a id="endnote-30"></a>
    Source: connecticuthistory.org  
    Title: Connecticut History The Ghost Ship of New Haven Sets Sail Shrouded in Mystery  
-   Link: [https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/](https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/)  
+   Link: <a href="https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://connecticuthistory.org/the-ghost-ship-of-new-haven-sets-sail-shrouded-in-mystery/</a>  
 
 31. <a id="endnote-31"></a>
    Source: ctinsider.com  
    Title: CT Insider Drone in CT spotted over Bradley International Airport  
-   Link: [https://www.ctinsider.com/connecticut/article/drones-over-ct-update-bradley-airport-19985637.php](https://www.ctinsider.com/connecticut/article/drones-over-ct-update-bradley-airport-19985637.php)  
+   Link: <a href="https://www.ctinsider.com/connecticut/article/drones-over-ct-update-bradley-airport-19985637.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/connecticut/article/drones-over-ct-update-bradley-airport-19985637.php</a>  
 
 32. <a id="endnote-32"></a>
    Source: cga.ct.gov  
-   Link: [https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05422-R00-HB.PDF](https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05422-R00-HB.PDF)  
+   Link: <a href="https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05422-R00-HB.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05422-R00-HB.PDF</a>  
 
 33. <a id="endnote-33"></a>
    Source: cga.ct.gov  
    Title: Connecticut General Assembly Appropriations Committee  
-   Link: [https://www.cga.ct.gov/2026/JFR/H/PDF/2026HB-05422-R00APP-JFR.PDF](https://www.cga.ct.gov/2026/JFR/H/PDF/2026HB-05422-R00APP-JFR.PDF)  
+   Link: <a href="https://www.cga.ct.gov/2026/JFR/H/PDF/2026HB-05422-R00APP-JFR.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.cga.ct.gov/2026/JFR/H/PDF/2026HB-05422-R00APP-JFR.PDF</a>  
 
 34. <a id="endnote-34"></a>
    Source: ctinsider.com  
    Title: CT Insider UFOs or drones? CT lawmakers push for answers on mysterious lights  
-   Link: [https://www.ctinsider.com/politics/article/connecticut-ufos-legislation-investigate-drones-22183518.php](https://www.ctinsider.com/politics/article/connecticut-ufos-legislation-investigate-drones-22183518.php)  
+   Link: <a href="https://www.ctinsider.com/politics/article/connecticut-ufos-legislation-investigate-drones-22183518.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/politics/article/connecticut-ufos-legislation-investigate-drones-22183518.php</a>  
 
 35. <a id="endnote-35"></a>
    Source: ctinsider.com  
    Title: ufos connecticut legislation uaps uconn study 22072765  
-   Link: [https://www.ctinsider.com/connecticut/article/ufos-connecticut-legislation-uaps-uconn-study-22072765.php](https://www.ctinsider.com/connecticut/article/ufos-connecticut-legislation-uaps-uconn-study-22072765.php)  
+   Link: <a href="https://www.ctinsider.com/connecticut/article/ufos-connecticut-legislation-uaps-uconn-study-22072765.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/connecticut/article/ufos-connecticut-legislation-uaps-uconn-study-22072765.php</a>  
 
 36. <a id="endnote-36"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 37. <a id="endnote-37"></a>
    Source: unsolved.com  
    Title: Hudson Valley UFO  
-   Link: [https://unsolved.com/gallery/hudson-valley-ufo/](https://unsolved.com/gallery/hudson-valley-ufo/)  
+   Link: <a href="https://unsolved.com/gallery/hudson-valley-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/hudson-valley-ufo/</a>  
 
 38. <a id="endnote-38"></a>
    Source: geekchocolate.co.uk  
    Title: project blue book  
-   Link: [https://geekchocolate.co.uk/project-blue-book/](https://geekchocolate.co.uk/project-blue-book/)  
+   Link: <a href="https://geekchocolate.co.uk/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://geekchocolate.co.uk/project-blue-book/</a>  
 
 ### Additional References
 
 39. <a id="endnote-39"></a>
    Source: cga.ct.gov  
-   Link: [https://www.cga.ct.gov/2026/appdata/TMY/2026HB-05422-R000312-Foundation%2C%20Disclosure%2C%20DF%20Testimony%20Re%20Raised%20Bill%205442-The%20Disclosure%20Foundation-Supports-TMY.PDF](https://www.cga.ct.gov/2026/appdata/TMY/2026HB-05422-R000312-Foundation%2C%20Disclosure%2C%20DF%20Testimony%20Re%20Raised%20Bill%205442-The%20Disclosure%20Foundation-Supports-TMY.PDF)  
+   Link: <a href="https://www.cga.ct.gov/2026/appdata/TMY/2026HB-05422-R000312-Foundation%2C%20Disclosure%2C%20DF%20Testimony%20Re%20Raised%20Bill%205442-The%20Disclosure%20Foundation-Supports-TMY.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.cga.ct.gov/2026/appdata/TMY/2026HB-05422-R000312-Foundation%2C%20Disclosure%2C%20DF%20Testimony%20Re%20Raised%20Bill%205442-The%20Disclosure%20Foundation-Supports-TMY.PDF</a>  
 
 40. <a id="endnote-40"></a>
    Source: cga.ct.gov  
-   Link: [https://www.cga.ct.gov/2026/appdata/TMY/2026HB-05422-R000312-Perras%2C%20Kylene%2C%20Asst%20Dean%20Operations-UConn%20College%20of%20Engineering--TMY.PDF](https://www.cga.ct.gov/2026/appdata/TMY/2026HB-05422-R000312-Perras%2C%20Kylene%2C%20Asst%20Dean%20Operations-UConn%20College%20of%20Engineering--TMY.PDF)  
+   Link: <a href="https://www.cga.ct.gov/2026/appdata/TMY/2026HB-05422-R000312-Perras%2C%20Kylene%2C%20Asst%20Dean%20Operations-UConn%20College%20of%20Engineering--TMY.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.cga.ct.gov/2026/appdata/TMY/2026HB-05422-R000312-Perras%2C%20Kylene%2C%20Asst%20Dean%20Operations-UConn%20College%20of%20Engineering--TMY.PDF</a>  
 
 41. <a id="endnote-41"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 42. <a id="endnote-42"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 43. <a id="endnote-43"></a>
    Source: youtube.com  
    Title: Trooper, motorist report object falling from sky  
-   Link: [https://www.youtube.com/watch?v=w-gz4_Ge_qY](https://www.youtube.com/watch?v=w-gz4_Ge_qY)  
+   Link: <a href="https://www.youtube.com/watch?v=w-gz4_Ge_qY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w-gz4_Ge_qY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Video Expert Confirms New England UFO Sightings | UFO Witness...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=dWR0JCY86ag](https://www.youtube.com/watch?v=dWR0JCY86ag)  
+   Link: <a href="https://www.youtube.com/watch?v=dWR0JCY86ag" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dWR0JCY86ag</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trooper, motorist report object falling from sky...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FOX5NY/posts/a-ufo-sighting-was-reported-to-the-national-ufo-reporting-center-with-employees-/1002068051282480/](https://www.facebook.com/FOX5NY/posts/a-ufo-sighting-was-reported-to-the-national-ufo-reporting-center-with-employees-/1002068051282480/)  
+   Link: <a href="https://www.facebook.com/FOX5NY/posts/a-ufo-sighting-was-reported-to-the-national-ufo-reporting-center-with-employees-/1002068051282480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX5NY/posts/a-ufo-sighting-was-reported-to-the-national-ufo-reporting-center-with-employees-/1002068051282480/</a>  
 
 46. <a id="endnote-46"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ctpost/photos/is-something-out-there-watching-us-from-a-galaxy-far-far-awaythe-university-of-c/1393800262759401/](https://www.facebook.com/ctpost/photos/is-something-out-there-watching-us-from-a-galaxy-far-far-awaythe-university-of-c/1393800262759401/)  
+   Link: <a href="https://www.facebook.com/ctpost/photos/is-something-out-there-watching-us-from-a-galaxy-far-far-awaythe-university-of-c/1393800262759401/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ctpost/photos/is-something-out-there-watching-us-from-a-galaxy-far-far-awaythe-university-of-c/1393800262759401/</a>  
 
 47. <a id="endnote-47"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1h5q8m1/connecticut_police_officer_captures_ufo_the_size/](https://www.reddit.com/r/UFOs/comments/1h5q8m1/connecticut_police_officer_captures_ufo_the_size/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1h5q8m1/connecticut_police_officer_captures_ufo_the_size/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h5q8m1/connecticut_police_officer_captures_ufo_the_size/</a>  
 
 48. <a id="endnote-48"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OnSceneMediaNewHavenCounty/posts/-the-truth-is-finally-out-first-major-cache-of-ufo-files-released-to-the-public-/1372114384738309/](https://www.facebook.com/OnSceneMediaNewHavenCounty/posts/-the-truth-is-finally-out-first-major-cache-of-ufo-files-released-to-the-public-/1372114384738309/)  
+   Link: <a href="https://www.facebook.com/OnSceneMediaNewHavenCounty/posts/-the-truth-is-finally-out-first-major-cache-of-ufo-files-released-to-the-public-/1372114384738309/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OnSceneMediaNewHavenCounty/posts/-the-truth-is-finally-out-first-major-cache-of-ufo-files-released-to-the-public-/1372114384738309/</a>

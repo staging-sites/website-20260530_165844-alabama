@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-north/
 nav_short_title: Modern Reports
 title: Why Do UFO Reports Keep Coming From North Carolina?
-title_full: Why Do UFO Reports Keep Coming From North Carolina? | NC UFOs
+title_full: Why Do UFO Reports Keep Coming From North Carolina?
 display_title_short: Modern Reports
 display_title: Modern Reports
 heading_title: Why Do UFO Reports Keep Coming From North Carolina?
@@ -262,8 +262,7 @@ image: /assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5-overview
 
 ## Introduction
 
-Modern UFO reports from [North Carolina]({{ 'what-really-happened-in-north/' | relative_url }}) keep appearing for three main reasons: many people live under busy skies, the state has unusually varied viewing conditions, and today’s cameras and reporting platforms make it easier than ever to turn a brief odd sight into a public claim. Public databases do contain thousands of North Carolina reports, but they are uneven: some include useful dates, locations, directions, durations and witness details; others are short, anonymous, impressionistic, or already suggest ordinary causes such as aircraft, balloons, meteors, drones or satellites. NUFORC’s location index lists North Carolina with 3,917 reports, showing that the state is well represented in civilian UFO archives, but that number should be read as a record of reports rather than a count of unexplained craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
-
+Modern UFO reports from North Carolina keep appearing for three main reasons: many people live under busy skies, the state has unusually varied viewing conditions, and today’s cameras and reporting platforms make it easier than ever to turn a brief odd sight into a public claim. Public databases do contain thousands of North Carolina reports, but they are uneven: some include useful dates, locations, directions, durations and witness details; others are short, anonymous, impressionistic, or already suggest ordinary causes such as aircraft, balloons, meteors, drones or satellites. NUFORC’s location index lists North Carolina with 3,917 reports, showing that the state is well represented in civilian UFO archives, but that number should be read as a record of reports rather than a count of unexplained craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
 <img src="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5-overview.webp" | relative_url }}" alt="Overview image for Modern Reports" loading="eager" decoding="sync" fetchpriority="high">
 The most useful question is not “Are North Carolina UFOs real?” A better question is: when people in Charlotte, Raleigh, Asheville, Wilmington, Fayetteville, the coast or the mountains report strange lights, what patterns repeat, what explanations usually deserve checking first, and what would make a case genuinely hard to dismiss?
@@ -276,12 +275,11 @@ Large population centres are obvious reporting engines. Charlotte, Raleigh, Durh
 
 The Triangle has its own version of the same problem. Raleigh-Durham International Airport is a constant source of ordinary moving lights, approach patterns and low-elevation aircraft views that can look odd when seen from neighbourhoods, car parks or rural edges. A report that says a light “stopped”, “hovered” or “changed direction” may describe something genuinely puzzling, but it may also describe a plane turning toward or away from the observer, a light passing behind cloud, or a bright object seen without distance cues.
 
-Western North Carolina adds a different pattern. Around Asheville, the Blue Ridge Parkway, the valleys and the mountain overlooks, witnesses often describe lights low on the horizon, changing colour, hovering near ridgelines, or moving against dark terrain. A NUFORC report from Asheville in October 2025, for example, described a multicoloured object near the Haw Creek Valley Overlook with an estimated extreme speed, while a Raleigh report from January 2025 described triangular lights that moved, then appeared to “park” in one place. These are useful modern examples because they show both the interest and the difficulty: the claims are specific enough to examine, but the most dramatic estimates depend heavily on witness judgement of distance, size and speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Data Bank | NUFORC</span></span></span>
+Western North Carolina adds a different pattern. Around Asheville, the Blue Ridge Parkway, the valleys and the mountain overlooks, witnesses often describe lights low on the horizon, changing colour, hovering near ridgelines, or moving against dark terrain. A NUFORC report from Asheville in October 2025, for example, described a multicoloured object near the Haw Creek Valley Overlook with an estimated extreme speed, while a Raleigh report from January 2025 described triangular lights that moved, then appeared to “park” in one place. These are useful modern examples because they show both the interest and the difficulty: the claims are specific enough to examine, but the most dramatic estimates depend heavily on witness judgement of distance, size and speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC</span></span></span>
 
-The coast and military-connected eastern counties add another layer. North Carolina hosts major [military aviation]({{ 'military-skies-99e1c8/' | relative_url }}) and training infrastructure, including Marine Corps Air Station Cherry Point, which supports the Second Marine Aircraft Wing, and Seymour Johnson Air Force Base, associated with the F-15E Strike Eagle and the 916th Air Refueling Wing. These do not “explain away” every report, but they do mean that unusual aircraft lighting, training flights, helicopters, flares, refuelling activity and restricted airspace can be relevant checks, especially around Fayetteville, Goldsboro, Havelock, Jacksonville, the Outer Banks and the coastal plain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.milvets.nc.gov/benefits-services/military-bases-north-carolina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: milvets.nc.gov">[milvets.nc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">milvets.nc.gov</span><span class="citation-popover-title">military bases north carolina</span><span class="citation-popover-snippet">military bases north carolina</span></span></span>
+The coast and military-connected eastern counties add another layer. North Carolina hosts major military aviation and training infrastructure, including Marine Corps Air Station Cherry Point, which supports the Second Marine Aircraft Wing, and Seymour Johnson Air Force Base, associated with the F-15E Strike Eagle and the 916th Air Refueling Wing. These do not “explain away” every report, but they do mean that unusual aircraft lighting, training flights, helicopters, flares, refuelling activity and restricted airspace can be relevant checks, especially around Fayetteville, Goldsboro, Havelock, Jacksonville, the Outer Banks and the coastal plain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.milvets.nc.gov/benefits-services/military-bases-north-carolina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: milvets.nc.gov">[milvets.nc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">milvets.nc.gov</span><span class="citation-popover-title">military bases north carolina</span><span class="citation-popover-snippet">military bases north carolina</span></span></span>
 
-
-<img src="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5-Illustration-1-light.svg" | relative_url }}" alt="Modern Reports illustration 1" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5-Illustration-1-dark.svg" | relative_url }}" alt="Modern Reports illustration 1" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The most common modern traps in North Carolina skies
 
 A responsible reading of modern North Carolina UFO reports starts with the objects and conditions most likely to fool sincere witnesses. That approach is not hostile to witnesses. It is the only way to separate a genuinely unresolved case from a report that simply arrived before anyone checked the sky conditions.
@@ -298,7 +296,6 @@ That matters because Starlink can look unlike the older mental picture of a sate
 
 **Balloons, birds and sensor artefacts** sound mundane, but they appear repeatedly in official UAP work. AARO’s official imagery page includes cases assessed as balloons and cases closed as not anomalous, while other entries remain unresolved or under analysis. This is important for North Carolina readers because it shows that “unidentified” is often a temporary status, not a final conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UcS_1XhLPZs" title="What&#x27;s in the North Carolina sky?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UcS_1XhLPZs" target="_blank" rel="noopener noreferrer">What&#x27;s in the North Carolina sky?</a></p><p class="youtube-embed-meta">Channel: CBS 17 &middot; Views: 105.7K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UcS_1XhLPZs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UcS_1XhLPZs">Open on YouTube</a></p></div></div></div>
 
 ## Why many reports feel stronger than they are
@@ -313,8 +310,7 @@ The same caution applies to “hovering”. A light low over trees may be statio
 
 NASA’s 2023 independent UAP study made this broader point in scientific terms: the problem is not a shortage of stories, but a shortage of consistent, detailed, well-calibrated observations. The report called for rigorous data acquisition and noted that current UAP analysis is hampered by limits such as poor sensor calibration, missing metadata and lack of baseline data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
-
-<img src="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5-Illustration-2-light.svg" | relative_url }}" alt="Modern Reports illustration 2" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5-Illustration-2-dark.svg" | relative_url }}" alt="Modern Reports illustration 2" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How official UAP work changes the local conversation
 
 The modern federal shift from “UFO” language to “UAP” language has changed how North Carolina reports are discussed. It has made the topic easier to treat as an aviation, safety and data-quality issue, rather than only as a question about aliens.
@@ -325,7 +321,6 @@ The 2024 consolidated annual UAP report, submitted by the Office of the Director
 
 For North Carolina, this means a good local UFO page should not treat every new report as folklore, but it should also resist upgrading every light into a mystery. A report near a military corridor, airport, coastline or mountain overlook may be interesting precisely because it has many possible explanations. The work is to narrow them, not to pick the most exciting one first.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4Dv3PlmGlyA" title="Donut UFO - Quick Explanation - It&#x27;s Bokeh!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4Dv3PlmGlyA" target="_blank" rel="noopener noreferrer">Donut UFO - Quick Explanation - It&#x27;s Bokeh!</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 14.5K &middot; Uploaded: November 2021 &middot; Length: 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4Dv3PlmGlyA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4Dv3PlmGlyA">Open on YouTube</a></p></div></div></div>
 
 ## How to read a North Carolina sighting report responsibly
@@ -335,7 +330,6 @@ A modern sighting report becomes more useful when it can be checked against inde
 A strong North Carolina report usually includes the exact date and local time; a precise location; direction of view; elevation above the horizon; duration; weather; whether the object made sound; whether aircraft were nearby; whether the witness checked flight trackers, satellite passes or astronomy apps; and whether the image or video includes unedited metadata. A short clip of a dot in the sky is less useful than a less spectacular report with clear timing, direction and comparison points.
 
 A practical first-pass check should ask:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -350,8 +344,7 @@ A practical first-pass check should ask:
 
 Databases such as NUFORC are valuable because they preserve reports that might otherwise disappear, but they are not the same thing as a verified case file. NUFORC itself presents its databank as a large independent collection of first-hand UFO/UAP sighting reports, freely browsable by the public. That makes it an archive of claims and leads, not an adjudication system that proves each report anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=193402" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-
-<img src="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5-Illustration-3-light.svg" | relative_url }}" alt="Modern Reports illustration 3" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5-Illustration-3-dark.svg" | relative_url }}" alt="Modern Reports illustration 3" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What would make a modern case harder to explain?
 
 Most modern North Carolina reports remain weak or unresolved in the ordinary sense: they are not obviously fake, but they also lack enough independent data to establish an extraordinary event. A stronger case would have several features at once: multiple independent witnesses in different locations; original unedited video; clear timing; known camera settings; flight, satellite and weather checks; radar or ADS-B context where relevant; and a documented investigation that rules out common causes rather than simply ignoring them.
@@ -362,9 +355,7 @@ This is where North Carolina’s modern reporting can improve. The state has the
 
 The responsible conclusion is balanced rather than dramatic. North Carolina continues to generate modern UFO reports because it has many observers, many sky stimuli and several landscapes that make distance and motion hard to judge. Some reports will remain unresolved because the data are too thin. Many will probably be explained by satellites, drones, aircraft, meteors, balloons, birds, lights on the ground or camera effects. A smaller number may deserve deeper investigation, especially when they involve trained observers, aviation safety, multiple independent viewpoints or instrument data. The value of studying modern reports is not that they prove a single extraordinary answer, but that they show how mystery is produced, amplified, checked and sometimes resolved in one of the country’s most active state-level UFO records.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kKGocLszh8M" title="VERIFY | Rules for flying drones in North Carolina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kKGocLszh8M" target="_blank" rel="noopener noreferrer">VERIFY | Rules for flying drones in North Carolina</a></p><p class="youtube-embed-meta">Channel: WCNC &middot; Views: 1.7K &middot; Uploaded: December 2024 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kKGocLszh8M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kKGocLszh8M">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -452,7 +443,7 @@ The responsible conclusion is balanced rather than dramatic. North Carolina cont
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -462,111 +453,36 @@ The responsible conclusion is balanced rather than dramatic. North Carolina cont
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display"><img src="{{ '/assets/images/marketplace-covers/27c78e3de724e607809d.jpg' | relative_url }}" alt="Listing image for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT"><img src="{{ '/assets/images/marketplace-covers/c4fa2fd111d52b7bddcf.jpg' | relative_url }}" alt="Listing image for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -574,15 +490,15 @@ The responsible conclusion is balanced rather than dramatic. North Carolina cont
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="https://i.ebayimg.com/images/g/nuEAAOSwVJRnoU9g/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -590,15 +506,15 @@ The responsible conclusion is balanced rather than dramatic. North Carolina cont
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -606,15 +522,15 @@ The responsible conclusion is balanced rather than dramatic. North Carolina cont
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/ecc3da59eb1d0848e57f.jpg' | relative_url }}" alt="Listing image for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -622,7 +538,7 @@ The responsible conclusion is balanced rather than dramatic. North Carolina cont
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-6a42f5-why-do-ufo-reports-keep-coming-from-north-carolina-north-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-do-ufo-reports-keep-coming-from-north-carolina-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -699,17 +615,31 @@ The responsible conclusion is balanced rather than dramatic. North Carolina cont
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -722,42 +652,73 @@ The responsible conclusion is balanced rather than dramatic. North Carolina cont
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -772,12 +733,17 @@ The responsible conclusion is balanced rather than dramatic. North Carolina cont
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -788,173 +754,173 @@ The responsible conclusion is balanced rather than dramatic. North Carolina cont
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
 3. <a id="endnote-3"></a>
    Source: stacker.com  
    Title: cities most ufo sightings north carolina  
-   Link: [https://stacker.com/stories/north-carolina/cities-most-ufo-sightings-north-carolina](https://stacker.com/stories/north-carolina/cities-most-ufo-sightings-north-carolina)  
+   Link: <a href="https://stacker.com/stories/north-carolina/cities-most-ufo-sightings-north-carolina" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/north-carolina/cities-most-ufo-sightings-north-carolina</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=193402](https://nuforc.org/sighting/?id=193402)  
+   Link: <a href="https://nuforc.org/sighting/?id=193402" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193402</a>  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=187282](https://nuforc.org/sighting/?id=187282)  
+   Link: <a href="https://nuforc.org/sighting/?id=187282" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187282</a>  
 
 6. <a id="endnote-6"></a>
    Source: milvets.nc.gov  
    Title: military bases north carolina  
-   Link: [https://www.milvets.nc.gov/benefits-services/military-bases-north-carolina](https://www.milvets.nc.gov/benefits-services/military-bases-north-carolina)  
+   Link: <a href="https://www.milvets.nc.gov/benefits-services/military-bases-north-carolina" target="_blank" rel="noopener noreferrer nofollow">https://www.milvets.nc.gov/benefits-services/military-bases-north-carolina</a>  
 
 7. <a id="endnote-7"></a>
    Source: wral.com  
    Title: News Starlink satellites spotted in North Carolina skies overnight  
-   Link: [https://www.wral.com/news/local/starlink-satellites-spotted-north-carolina-april-2025/](https://www.wral.com/news/local/starlink-satellites-spotted-north-carolina-april-2025/)  
+   Link: <a href="https://www.wral.com/news/local/starlink-satellites-spotted-north-carolina-april-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/news/local/starlink-satellites-spotted-north-carolina-april-2025/</a>  
 
 8. <a id="endnote-8"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>While these formations have fascinated skywatchers, they raise concerns among astronomers due to potential interference with observations...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: faa.gov  
    Title: uas sightings report  
-   Link: [https://www.faa.gov/uas/resources/public_records/uas_sightings_report](https://www.faa.gov/uas/resources/public_records/uas_sightings_report)  
+   Link: <a href="https://www.faa.gov/uas/resources/public_records/uas_sightings_report" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/resources/public_records/uas_sightings_report</a>  
 
 10. <a id="endnote-10"></a>
    Source: faa.gov  
    Title: recreational flyers  
-   Link: [https://www.faa.gov/uas/recreational_flyers](https://www.faa.gov/uas/recreational_flyers)  
+   Link: <a href="https://www.faa.gov/uas/recreational_flyers" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/recreational_flyers</a>  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 12. <a id="endnote-12"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lNC](https://nuforc.org/subndx/?id=lNC)  
+   Link: <a href="https://nuforc.org/subndx/?id=lNC" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNC</a>  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=186276](https://nuforc.org/sighting/?id=186276)  
+   Link: <a href="https://nuforc.org/sighting/?id=186276" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=186276</a>  
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=e202405](https://nuforc.org/subndx/?id=e202405)  
+   Link: <a href="https://nuforc.org/subndx/?id=e202405" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e202405</a>  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=sChanging](https://nuforc.org/subndx/?id=sChanging)  
+   Link: <a href="https://nuforc.org/subndx/?id=sChanging" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=sChanging</a>  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 19. <a id="endnote-19"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 20. <a id="endnote-20"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
 21. <a id="endnote-21"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 22. <a id="endnote-22"></a>
    Source: rdu.com  
-   Link: [https://www.rdu.com/](https://www.rdu.com/)  
+   Link: <a href="https://www.rdu.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.rdu.com/</a>  
 
 23. <a id="endnote-23"></a>
    Source: go.ncsu.edu  
    Title: Go Linksof the American Airlines_ CLT Hub  
-   Link: [https://go.ncsu.edu/americanclthub](https://go.ncsu.edu/americanclthub)  
+   Link: <a href="https://go.ncsu.edu/americanclthub" target="_blank" rel="noopener noreferrer nofollow">https://go.ncsu.edu/americanclthub</a>  
 
 24. <a id="endnote-24"></a>
    Source: washingtonpost.com  
    Title: The Washington Post Fireball appears to explode over southeastern U.S  
-   Link: [https://www.washingtonpost.com/weather/2025/06/26/fireball-exploding-meteor-spotted-southeastern-us/](https://www.washingtonpost.com/weather/2025/06/26/fireball-exploding-meteor-spotted-southeastern-us/)  
+   Link: <a href="https://www.washingtonpost.com/weather/2025/06/26/fireball-exploding-meteor-spotted-southeastern-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/weather/2025/06/26/fireball-exploding-meteor-spotted-southeastern-us/</a>  
 
 25. <a id="endnote-25"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Charlotte Douglas International Airport  
-   Link: [https://en.wikipedia.org/wiki/Charlotte_Douglas_International_Airport](https://en.wikipedia.org/wiki/Charlotte_Douglas_International_Airport)  
+   Link: <a href="https://en.wikipedia.org/wiki/Charlotte_Douglas_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charlotte_Douglas_International_Airport</a>  
 
 27. <a id="endnote-27"></a>
    Source: excelexercises.com  
-   Link: [https://excelexercises.com/UFOData.xlsx](https://excelexercises.com/UFOData.xlsx)  
+   Link: <a href="https://excelexercises.com/UFOData.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://excelexercises.com/UFOData.xlsx</a>  
 
 28. <a id="endnote-28"></a>
    Source: medialaw.unc.edu  
-   Link: [https://medialaw.unc.edu/tag/drones/](https://medialaw.unc.edu/tag/drones/)  
+   Link: <a href="https://medialaw.unc.edu/tag/drones/" target="_blank" rel="noopener noreferrer nofollow">https://medialaw.unc.edu/tag/drones/</a>  
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: Donut UFO  
-   Link: [http://www.youtube.com/watch?v=4Dv3PlmGlyA](http://www.youtube.com/watch?v=4Dv3PlmGlyA)  
+   Link: <a href="http://www.youtube.com/watch?v=4Dv3PlmGlyA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=4Dv3PlmGlyA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mick West UFO flare satellite explanation Why &quot;Racetrack&quot; UFOs are mostly Starlink Flares Mick West...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: war.gov  
    Title: dod announces two solar projects to supply five military installations in north  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3810465/dod-announces-two-solar-projects-to-supply-five-military-installations-in-north/](https://www.war.gov/News/Releases/Release/Article/3810465/dod-announces-two-solar-projects-to-supply-five-military-installations-in-north/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3810465/dod-announces-two-solar-projects-to-supply-five-military-installations-in-north/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3810465/dod-announces-two-solar-projects-to-supply-five-military-installations-in-north/</a>  
 
 32. <a id="endnote-32"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/mysuncoast/posts/star-shaped-ufo-spotted-in-newly-released-video/1473376818162638/](https://www.facebook.com/mysuncoast/posts/star-shaped-ufo-spotted-in-newly-released-video/1473376818162638/)  
+   Link: <a href="https://www.facebook.com/mysuncoast/posts/star-shaped-ufo-spotted-in-newly-released-video/1473376818162638/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mysuncoast/posts/star-shaped-ufo-spotted-in-newly-released-video/1473376818162638/</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FlyingMagazine/posts/a-nasa-commissioned-independent-study-team-urged-the-agency-to-use-everything-fr/713130370843345/](https://www.facebook.com/FlyingMagazine/posts/a-nasa-commissioned-independent-study-team-urged-the-agency-to-use-everything-fr/713130370843345/)  
+   Link: <a href="https://www.facebook.com/FlyingMagazine/posts/a-nasa-commissioned-independent-study-team-urged-the-agency-to-use-everything-fr/713130370843345/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FlyingMagazine/posts/a-nasa-commissioned-independent-study-team-urged-the-agency-to-use-everything-fr/713130370843345/</a>  
 
 35. <a id="endnote-35"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DXxR6LBjSWc/?hl=en](https://www.instagram.com/reel/DXxR6LBjSWc/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DXxR6LBjSWc/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXxR6LBjSWc/?hl=en</a>  
 
 36. <a id="endnote-36"></a>
    Source: veteranpcs.com  
-   Link: [https://www.veteranpcs.com/blog/what-military-bases-are-in-north-carolina](https://www.veteranpcs.com/blog/what-military-bases-are-in-north-carolina)  
+   Link: <a href="https://www.veteranpcs.com/blog/what-military-bases-are-in-north-carolina" target="_blank" rel="noopener noreferrer nofollow">https://www.veteranpcs.com/blog/what-military-bases-are-in-north-carolina</a>  
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/truckerfeed/posts/8725504797546733/](https://www.facebook.com/groups/truckerfeed/posts/8725504797546733/)  
+   Link: <a href="https://www.facebook.com/groups/truckerfeed/posts/8725504797546733/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/truckerfeed/posts/8725504797546733/</a>  
 
 38. <a id="endnote-38"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DXMY5JLgC4h/](https://www.instagram.com/reel/DXMY5JLgC4h/)  
+   Link: <a href="https://www.instagram.com/reel/DXMY5JLgC4h/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXMY5JLgC4h/</a>

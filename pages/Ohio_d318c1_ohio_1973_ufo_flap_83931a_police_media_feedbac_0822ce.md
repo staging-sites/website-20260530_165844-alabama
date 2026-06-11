@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /1973-flap-18a815/
 nav_short_title: Police calls
 title: Did reporting make Ohio's UFO wave bigger?
-title_full: Did reporting make Ohio's UFO wave bigger? | 1973 Flap
+title_full: Did reporting make Ohio's UFO wave bigger?
 display_title_short: Police calls
 display_title: Police calls
 heading_title: Did reporting make Ohio's UFO wave bigger?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:00:58'
-parent_title: How One UFO Wave Spread Across Ohio | Ohio UFOs
+parent_title: How One UFO Wave Spread Across Ohio
 parent_permalink: /1973-flap-18a815/
 parent_nav_short_title: 1973 Flap
 parent_heading_title: How One UFO Wave Spread Across Ohio
@@ -252,8 +252,7 @@ image: /assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_police_media_feedbac
 
 In mid-October 1973, Ohio’s UFO wave grew through more than strange lights in the sky. It also spread through police switchboards, sheriff’s offices, newspaper newsrooms and radio reports. As sightings multiplied, local authorities became informal reporting centres. Newspapers then turned those scattered calls into public stories, which encouraged more people to watch the sky and report what they thought they had seen. The result was a feedback loop: reports generated coverage, coverage generated attention, and attention generated more reports. That mechanism helps explain why Ohio’s UFO flap seemed to erupt across multiple regions at once without requiring every report to describe the same thing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.citybeat.com/news/space-invaders-12184054/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citybeat.com">[Cincinnati CityBeat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citybeat.com</span><span class="citation-popover-title">space invaders 12184054</span><span class="citation-popover-snippet">Cincinnati CityBeat1973 UFO hysteria in the Queen CityJanuary 31, 2012 — 31 Jan 2012 — The Cincinnati police told The Cincinnati Post the...</span><span class="citation-popover-meta">Published: January 31, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dks.library.kent.edu/?a=d&amp;d=dks19731017-01.2.7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dks.library.kent.edu">[DKS Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dks.library.kent.edu</span><span class="citation-popover-snippet">DKS LibraryUFOs reported throughout Ohio17 Oct 1973 — police said they received numerous reports of UFO sightings. A Lockbourne Air Force...</span></span></span>
 
-
-<img src="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_police_media_feedbac_0822ce-Illustration-1-light.svg" | relative_url }}" alt="Police calls illustration 1" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_police_media_feedbac_0822ce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_police_media_feedbac_0822ce-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_police_media_feedbac_0822ce-Illustration-1-dark.svg" | relative_url }}" alt="Police calls illustration 1" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_police_media_feedbac_0822ce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_police_media_feedbac_0822ce-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The pattern matters because it affects how historians and investigators interpret the 1973 wave. Large numbers of reports show that something was happening socially as well as observationally. They demonstrate public concern and widespread sky-watching, but they do not automatically prove that hundreds of witnesses observed a single unexplained phenomenon. Understanding the role of police calls and media circulation is therefore central to understanding Ohio’s most famous UFO month. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.citybeat.com/news/space-invaders-12184054/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citybeat.com">[Cincinnati CityBeat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citybeat.com</span><span class="citation-popover-title">space invaders 12184054</span><span class="citation-popover-snippet">Cincinnati CityBeat1973 UFO hysteria in the Queen CityJanuary 31, 2012 — 31 Jan 2012 — The Cincinnati police told The Cincinnati Post the...</span><span class="citation-popover-meta">Published: January 31, 2012</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://freepress.org/article/ohio-against-universe-50th-anniversary-ufo-wave-during-halloween-1973" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: freepress.org">[Free Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">freepress.org</span><span class="citation-popover-title">ohio against universe 50th anniversary ufo wave during halloween 1973</span><span class="citation-popover-snippet">The United Press International reported that a “hysterical and...Read more...</span></span></span>
 
 ## How police calls became UFO records
@@ -264,9 +263,7 @@ Contemporary reporting from Ohio shows police agencies receiving repeated waves 
 
 The process usually followed a simple chain:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TyV-FFU1BQg" title="Audio Recording of Witness&#x27;s Terrifying UFO Sighting | UFO Witness | Travel Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TyV-FFU1BQg" target="_blank" rel="noopener noreferrer">Audio Recording of Witness&#x27;s Terrifying UFO Sighting | UFO Witness | Travel Channel</a></p><p class="youtube-embed-meta">Channel: Travel Channel &middot; Views: 121.7K &middot; Uploaded: July 2022 &middot; Length: 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TyV-FFU1BQg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TyV-FFU1BQg">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -283,8 +280,7 @@ That sequence converted individual observations into a public event. Once police
 
 Importantly, police logs from a flap period are not equivalent to confirmed observations. A dispatcher may record dozens of calls describing lights in different directions, at different times and from different witnesses. Such records demonstrate reporting activity, but they do not necessarily establish that all callers observed the same object or even something genuinely unusual.
 
-
-<img src="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_police_media_feedbac_0822ce-Illustration-2-light.svg" | relative_url }}" alt="Police calls illustration 2" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_police_media_feedbac_0822ce-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_police_media_feedbac_0822ce-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_police_media_feedbac_0822ce-Illustration-2-dark.svg" | relative_url }}" alt="Police calls illustration 2" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_police_media_feedbac_0822ce-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_police_media_feedbac_0822ce-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Cincinnati and Columbus as feedback examples
 
 South-west Ohio provides one of the clearest examples of the reporting cycle feeding itself. Later reconstructions based on Cincinnati-area newspaper coverage describe police phones “ringing off the hook” as residents reported bright lights over neighbourhoods including Mount Washington, Bond Hill and the area around 14th and Vine. Stories also circulated about alleged low-flying objects and even claimed landings. These reports gained attention precisely because they accumulated night after night through police channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.citybeat.com/news/space-invaders-12184054/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citybeat.com">[Cincinnati CityBeat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citybeat.com</span><span class="citation-popover-title">space invaders 12184054</span><span class="citation-popover-snippet">Cincinnati CityBeat1973 UFO hysteria in the Queen CityJanuary 31, 2012 — 31 Jan 2012 — The Cincinnati police told The Cincinnati Post the...</span><span class="citation-popover-meta">Published: January 31, 2012</span></span></span>
@@ -296,7 +292,6 @@ Central Ohio showed a similar pattern. Reporting cited by later historical revie
 What makes these Columbus accounts significant is not merely the number of reports. The important detail is that local newspapers highlighted the volume itself. Readers were told that authorities were receiving large numbers of calls. That transformed UFO sightings from isolated experiences into a recognised public story unfolding across the region. <span class="citation-chip-wrap"><a class="citation-chip" href="https://freepress.org/article/ohio-against-universe-50th-anniversary-ufo-wave-during-halloween-1973" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: freepress.org">[Free Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">freepress.org</span><span class="citation-popover-title">ohio against universe 50th anniversary ufo wave during halloween 1973</span><span class="citation-popover-snippet">The United Press International reported that a “hysterical and...Read more...</span></span></span>
 
 The same pattern appeared elsewhere in Ohio. Reports from different towns and counties were increasingly presented together as evidence of a statewide wave. Once editors began grouping incidents into a single narrative, witnesses who might never have connected their experiences to events in another city could see themselves as part of a larger phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dks.library.kent.edu/?a=d&amp;d=dks19731017-01.2.7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dks.library.kent.edu">[DKS Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dks.library.kent.edu</span><span class="citation-popover-snippet">DKS LibraryUFOs reported throughout Ohio17 Oct 1973 — police said they received numerous reports of UFO sightings. A Lockbourne Air Force...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rTCZSXMBlKs" title="The Great UFO Invasion of Appalachia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rTCZSXMBlKs" target="_blank" rel="noopener noreferrer">The Great UFO Invasion of Appalachia</a></p><p class="youtube-embed-meta">Channel: Stories of Appalachia &middot; Views: 2.1K &middot; Uploaded: November 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rTCZSXMBlKs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rTCZSXMBlKs">Open on YouTube</a></p></div></div></div>
 
@@ -310,8 +305,7 @@ Wire-service distribution strengthened the effect. Once a local report entered t
 
 The timing was significant. Ohio’s mid-October sightings followed intense national attention to the Pascagoula, Mississippi, abduction claim of 11 October 1973. Whether or not that case was true, it dominated UFO coverage and helped create an atmosphere in which unusual lights were more likely to be interpreted through a UFO framework. Ohio newspapers were reporting local sightings within that wider climate of public attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightings</span></span></span>
 
-
-<img src="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_police_media_feedbac_0822ce-Illustration-3-light.svg" | relative_url }}" alt="Police calls illustration 3" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_police_media_feedbac_0822ce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_police_media_feedbac_0822ce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_police_media_feedbac_0822ce-Illustration-3-dark.svg" | relative_url }}" alt="Police calls illustration 3" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_police_media_feedbac_0822ce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_ohio_1973_ufo_flap_83931a_police_media_feedbac_0822ce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the reporting loop can and cannot prove
 
 The feedback mechanism explains some important features of the Ohio flap, but it does not settle the question of what witnesses actually saw.
@@ -321,7 +315,6 @@ On one hand, the reporting loop clearly inflated awareness. Repeated headlines e
 On the other hand, the feedback explanation is not sufficient by itself. Some reports came from police officers, pilots or multiple witnesses, and a few incidents generated more detailed investigations than a routine phone call. The [Mansfield]({{ 'mansfield/' | relative_url }})–Coyne helicopter encounter on 18 October became famous partly because it involved trained military personnel rather than anonymous callers. Even critics who view most flap-era reports as misidentifications generally distinguish between mass-reporting patterns and a smaller number of stronger cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[Ohio Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-title">the case of ohio s best documented ufo</span><span class="citation-popover-snippet">Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFOWhat happened in the skies near Charles Mill Lake on Oct. 18, 1973, stands as one of t...</span></span></span>
 
 The strongest conclusion is therefore a limited one. The volume of police calls demonstrates that Ohio experienced a genuine social event in October 1973. Large numbers of people believed they were seeing something unusual, and newspapers documented that belief in real time. What those people were actually observing remains harder to determine. Some reports were probably ordinary astronomical or aviation phenomena seen under heightened public attention. Others remain too poorly documented for firm conclusions. A small number continue to be debated because they involved multiple witnesses or more detailed testimony. DKS Library <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[Ohio Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-title">the case of ohio s best documented ufo</span><span class="citation-popover-snippet">Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFOWhat happened in the skies near Charles Mill Lake on Oct. 18, 1973, stands as one of t...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fASFV3vC4Uo" title="SYND 15/10/73 UFO SPOTTED IN THE SKIES OVER OHIO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fASFV3vC4Uo" target="_blank" rel="noopener noreferrer">SYND 15/10/73 UFO SPOTTED IN THE SKIES OVER OHIO</a></p><p class="youtube-embed-meta">Channel: AP Archive &middot; Views: 4.4K &middot; Uploaded: July 2015 &middot; Length: 1 minute 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fASFV3vC4Uo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fASFV3vC4Uo">Open on YouTube</a></p></div></div></div>
 
@@ -417,7 +410,7 @@ Those institutions created a public record that survives long after individual m
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -427,111 +420,36 @@ Those institutions created a public record that survives long after individual m
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="https://i.ebayimg.com/images/g/i9IAAOSwYHFfoEmJ/s-l225.jpg" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -539,15 +457,15 @@ Those institutions created a public record that survives long after individual m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Embroidered Spiritual Eye UFO Sew or Iron on Patch Biker Patch"><img src="https://i.ebayimg.com/images/g/KocAAOSw6cZk~3Sq/s-l225.jpg" alt="Listing image for Embroidered Spiritual Eye UFO Sew or Iron on Patch Biker Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">Embroidered Spiritual Eye UFO Sew or Iron on Patch Biker Patch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -555,15 +473,15 @@ Those institutions created a public record that survives long after individual m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/bcYAAeSwvxlpSWMo/s-l225.jpg" alt="Listing image for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -571,15 +489,15 @@ Those institutions created a public record that survives long after individual m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens UFO Patch Iron On Patch Applique Not From This World NASA"><img src="https://i.ebayimg.com/images/g/dXAAAeSwKiRoldEg/s-l225.jpg" alt="Listing image for Aliens UFO Patch Iron On Patch Applique Not From This World NASA" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">Aliens UFO Patch Iron On Patch Applique Not From This World NASA</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -587,7 +505,7 @@ Those institutions created a public record that survives long after individual m
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-calls-did-reporting-make-ohio-s-ufo-wave-bigger-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-reporting-make-ohio-s-ufo-wave-bigger-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -664,17 +582,31 @@ Those institutions created a public record that survives long after individual m
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -687,42 +619,73 @@ Those institutions created a public record that survives long after individual m
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -737,12 +700,17 @@ Those institutions created a public record that survives long after individual m
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -753,61 +721,61 @@ Those institutions created a public record that survives long after individual m
 1. <a id="endnote-1"></a>
    Source: citybeat.com  
    Title: space invaders 12184054  
-   Link: [https://www.citybeat.com/news/space-invaders-12184054/](https://www.citybeat.com/news/space-invaders-12184054/)  
+   Link: <a href="https://www.citybeat.com/news/space-invaders-12184054/" target="_blank" rel="noopener noreferrer nofollow">https://www.citybeat.com/news/space-invaders-12184054/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cincinnati CityBeat1973 UFO hysteria in the Queen CityJanuary 31, 2012 — 31 Jan 2012 — The Cincinnati police told The Cincinnati Post the...</p></details>
    Published: January 31, 2012  
 
 2. <a id="endnote-2"></a>
    Source: dks.library.kent.edu  
-   Link: [https://dks.library.kent.edu/?a=d&d=dks19731017-01.2.7](https://dks.library.kent.edu/?a=d&d=dks19731017-01.2.7)  
+   Link: <a href="https://dks.library.kent.edu/?a=d&amp;d=dks19731017-01.2.7" target="_blank" rel="noopener noreferrer nofollow">https://dks.library.kent.edu/?a=d&amp;d=dks19731017-01.2.7</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DKS LibraryUFOs reported throughout Ohio17 Oct 1973 — police said they received numerous reports of UFO sightings. A Lockbourne Air Force...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: dks.library.kent.edu  
-   Link: [https://dks.library.kent.edu/?a=d&d=dks19731017-01](https://dks.library.kent.edu/?a=d&d=dks19731017-01)  
+   Link: <a href="https://dks.library.kent.edu/?a=d&amp;d=dks19731017-01" target="_blank" rel="noopener noreferrer nofollow">https://dks.library.kent.edu/?a=d&amp;d=dks19731017-01</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DKS LibraryDaily Kent Stater 17 October 197317 Oct 1973 — UFOs reported throughout Ohio · It&#x27;s fun to be a volunteer. Kissinger, Tho get...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Pascagoula incident  
-   Link: [https://en.wikipedia.org/wiki/Pascagoula_incident](https://en.wikipedia.org/wiki/Pascagoula_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pascagoula_incident</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Bigfoot](https://en.wikipedia.org/wiki/Bigfoot)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bigfoot" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bigfoot</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BigfootIn early March of 2026, a series of alleged Bigfoot sightings reported in Northeast Ohio garnered media attention.... &quot;Police...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: freepress.org  
    Title: ohio against universe 50th anniversary ufo wave during halloween 1973  
-   Link: [https://freepress.org/article/ohio-against-universe-50th-anniversary-ufo-wave-during-halloween-1973](https://freepress.org/article/ohio-against-universe-50th-anniversary-ufo-wave-during-halloween-1973)  
+   Link: <a href="https://freepress.org/article/ohio-against-universe-50th-anniversary-ufo-wave-during-halloween-1973" target="_blank" rel="noopener noreferrer nofollow">https://freepress.org/article/ohio-against-universe-50th-anniversary-ufo-wave-during-halloween-1973</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The United Press International reported that a “hysterical and...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: freepress.org  
-   Link: [https://freepress.org/article/40-years-ago-ohio-experienced-major-ufo-flap-halloween-approaches-will-flying-saucers-be](https://freepress.org/article/40-years-ago-ohio-experienced-major-ufo-flap-halloween-approaches-will-flying-saucers-be)  
+   Link: <a href="https://freepress.org/article/40-years-ago-ohio-experienced-major-ufo-flap-halloween-approaches-will-flying-saucers-be" target="_blank" rel="noopener noreferrer nofollow">https://freepress.org/article/40-years-ago-ohio-experienced-major-ufo-flap-halloween-approaches-will-flying-saucers-be</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Free Press 40 years ago Ohio experienced a major UFO flap...24 Oct 2013 — ” Buzz Kill When October 31st finally arrived in 1973, UFO fev...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ohiomagazine.com  
    Title: the case of ohio s best documented ufo  
-   Link: [https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo](https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo)  
+   Link: <a href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ohio MagazineThe Case of Ohio&#x27;s Best Documented UFOWhat happened in the skies near Charles Mill Lake on Oct. 18, 1973, stands as one of t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1100706627172357/posts/1372407853335565/](https://www.facebook.com/groups/1100706627172357/posts/1372407853335565/)  
+   Link: <a href="https://www.facebook.com/groups/1100706627172357/posts/1372407853335565/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1100706627172357/posts/1372407853335565/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OCTOBER 1973 &#x27;UFO FLAP&#x27; Resultant from spending...OCTOBER 1973 &#x27;UFO FLAP&#x27; Resultant from spending some time looking at newspaper archive...</p></details>
    Published: OCTOBER 1973  
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=rTCZSXMBlKs](https://www.youtube.com/watch?v=rTCZSXMBlKs)  
+   Link: <a href="https://www.youtube.com/watch?v=rTCZSXMBlKs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rTCZSXMBlKs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Great UFO Invasion of AppalachiaOn a few nights in October, 1973 all over Appalachia, from Ohio to Tennessee, there was a wave of UFO...</p></details>
 
 ### Additional References
@@ -815,58 +783,58 @@ Those institutions created a public record that survives long after individual m
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: onthisday 1973 nationwide cameras captured incontrovertible proof of the existen  
-   Link: [https://www.facebook.com/BBCArchive/posts/onthisday-1973-nationwide-cameras-captured-incontrovertible-proof-of-the-existen/1439902209716138/](https://www.facebook.com/BBCArchive/posts/onthisday-1973-nationwide-cameras-captured-incontrovertible-proof-of-the-existen/1439902209716138/)  
+   Link: <a href="https://www.facebook.com/BBCArchive/posts/onthisday-1973-nationwide-cameras-captured-incontrovertible-proof-of-the-existen/1439902209716138/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/posts/onthisday-1973-nationwide-cameras-captured-incontrovertible-proof-of-the-existen/1439902209716138/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nationwide cameras captured incontrovertible proof of the...OCTOBER 1973 &#x27;UFO FLAP&#x27; Resultant from spending some time looking at newspap...</p></details>
    Published: OCTOBER 1973  
 
 13. <a id="endnote-13"></a>
    Source: ashlandsource.com  
    Title: coyne incident over charles mill lake was most credible ufo sighting of 1973  
-   Link: [https://www.ashlandsource.com/2020/10/04/coyne-incident-over-charles-mill-lake-was-most-credible-ufo-sighting-of-1973/](https://www.ashlandsource.com/2020/10/04/coyne-incident-over-charles-mill-lake-was-most-credible-ufo-sighting-of-1973/)  
+   Link: <a href="https://www.ashlandsource.com/2020/10/04/coyne-incident-over-charles-mill-lake-was-most-credible-ufo-sighting-of-1973/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashlandsource.com/2020/10/04/coyne-incident-over-charles-mill-lake-was-most-credible-ufo-sighting-of-1973/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ashland SourceCoyne Incident over Charles Mill Lake was most credible...4 Oct 2020 — LOUDONVILLE — On Oct. 18, 1973, north central ohio...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: knoxpages.com  
-   Link: [https://www.knoxpages.com/2022/04/29/out-of-this-world-coyne-incident-focused-ufo-attention-on-north-central-ohio-in-1973/](https://www.knoxpages.com/2022/04/29/out-of-this-world-coyne-incident-focused-ufo-attention-on-north-central-ohio-in-1973/)  
+   Link: <a href="https://www.knoxpages.com/2022/04/29/out-of-this-world-coyne-incident-focused-ufo-attention-on-north-central-ohio-in-1973/" target="_blank" rel="noopener noreferrer nofollow">https://www.knoxpages.com/2022/04/29/out-of-this-world-coyne-incident-focused-ufo-attention-on-north-central-ohio-in-1973/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18, 1973, UFOs became the centerpiece of conversation in this region and beyond. That was the night the Coyne Incident, or the...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>62- /HQ-83894documents many reports throughout the world of UFOs since that date, and claims that 1965 was the year of the greatest numbe...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TyV-FFU1BQg](https://www.youtube.com/watch?v=TyV-FFU1BQg)  
+   Link: <a href="https://www.youtube.com/watch?v=TyV-FFU1BQg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TyV-FFU1BQg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1973 Ohio UFO wave police media report THE BIGGEST MASS UFO SIGHTING EVER | The Proof Is Out There | #shorts | History HISTORY...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ia803206.us.archive.org  
    Title: David Jacobs The UFO Controversy In America  
-   Link: [https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf](https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf)  
+   Link: <a href="https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Controversy In AmericaWorld War II: The &quot;foo-fighters&quot; spotted dur· ing air battles-were they static electricity, enemy secret weapon...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: Wanted one UFO (Banner-News dated  
-   Link: [https://www.facebook.com/groups/1499639616988509/posts/2407965442822584/](https://www.facebook.com/groups/1499639616988509/posts/2407965442822584/)  
+   Link: <a href="https://www.facebook.com/groups/1499639616988509/posts/2407965442822584/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1499639616988509/posts/2407965442822584/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October 17, 1973)OCTOBER TO BE REMEMBERED, UFO&#x27;S WAVE OF 1973 One policeman, a Sgt. Hugh, claimed to have chased a glowing, humming circu...</p></details>
    Published: October 17, 1973  
 
 19. <a id="endnote-19"></a>
    Source: richlandcountyhistory.com  
    Title: ufos over richland county 1973  
-   Link: [https://richlandcountyhistory.com/2019/09/02/ufos-over-richland-county-1973/](https://richlandcountyhistory.com/2019/09/02/ufos-over-richland-county-1973/)  
+   Link: <a href="https://richlandcountyhistory.com/2019/09/02/ufos-over-richland-county-1973/" target="_blank" rel="noopener noreferrer nofollow">https://richlandcountyhistory.com/2019/09/02/ufos-over-richland-county-1973/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Over Richland County: 19732 Sept 2019 — October 18 in 1973 anybody who was out watching the skies in Richland County may well have c...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: biicl.org  
-   Link: [https://www.biicl.org/documents/146_6467_biicl_citizenship_report_-_final.pdf?showdocument=1](https://www.biicl.org/documents/146_6467_biicl_citizenship_report_-_final.pdf?showdocument=1)  
+   Link: <a href="https://www.biicl.org/documents/146_6467_biicl_citizenship_report_-_final.pdf?showdocument=1" target="_blank" rel="noopener noreferrer nofollow">https://www.biicl.org/documents/146_6467_biicl_citizenship_report_-_final.pdf?showdocument=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lly from her attachments to a nation.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
    Title: Fifty years ago, on Oct  
-   Link: [https://www.facebook.com/wmfdtv/posts/fifty-years-ago-on-oct-18-1973-one-of-the-most-credible-ufo-sightings-of-all-tim/810747241052578/](https://www.facebook.com/wmfdtv/posts/fifty-years-ago-on-oct-18-1973-one-of-the-most-credible-ufo-sightings-of-all-tim/810747241052578/)  
+   Link: <a href="https://www.facebook.com/wmfdtv/posts/fifty-years-ago-on-oct-18-1973-one-of-the-most-credible-ufo-sightings-of-all-tim/810747241052578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wmfdtv/posts/fifty-years-ago-on-oct-18-1973-one-of-the-most-credible-ufo-sightings-of-all-tim/810747241052578/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18, 1973, one of the most credible...The incident began in the early afternoon when the Kentucky State Police reported seeing a strange...</p></details>

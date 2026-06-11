@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-are-alabamas-most-significant-ufo/
 nav_short_title: Falkville Metal Man
 title: What Happened During the 1973 Falkville 'Metal Man' Sighting?
-title_full: What Happened During the 1973 Falkville 'Metal Man' Sighting? | Alabama UFOs
+title_full: What Happened During the 1973 Falkville 'Metal Man' Sighting?
 display_title_short: Falkville Metal Man
 display_title: Falkville Metal Man
 heading_title: What Happened During the 1973 Falkville 'Metal Man' Sighting?
@@ -268,8 +268,7 @@ image: /assets/images/Alabama_d1f92d_falkville_metal_man_0ea265-overview-social.
 
 ## Introduction
 
-The **1973 Falkville “Metal Man” sighting and photographic claims** is one of the most peculiar UFO‑adjacent stories to emerge from [Alabama]({{ 'what-are-alabamas-most-significant-ufo/' | relative_url }})’s long history of anomalous reports. It centres on a rural encounter in the small town of Falkville, Morgan County, where a local police chief claimed to have seen and photographed a strange metallic humanoid figure after responding to a reported unidentified flying object (UFO). The case is best known not for widespread official documentation but for its status as a contested local legend — a story that blended witness testimony, claimed photo evidence, and sceptical reinterpretation into a small but persistent piece of UFO lore in the state.[Wikipedia]
-
+The **1973 Falkville “Metal Man” sighting and photographic claims** is one of the most peculiar UFO‑adjacent stories to emerge from Alabama’s long history of anomalous reports. It centres on a rural encounter in the small town of Falkville, Morgan County, where a local police chief claimed to have seen and photographed a strange metallic humanoid figure after responding to a reported unidentified flying object (UFO). The case is best known not for widespread official documentation but for its status as a contested local legend — a story that blended witness testimony, claimed photo evidence, and sceptical reinterpretation into a small but persistent piece of UFO lore in the state.[Wikipedia]
 
 <img src="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265-overview.webp" | relative_url }}" alt="Overview image for Falkville Metal Man" loading="eager" decoding="sync" fetchpriority="high">
 ## What Happened on the Night of 17 October 1973?
@@ -278,16 +277,14 @@ According to accounts circulating in UFO archives and local retellings, the even
 
 Greenhaw described the object as a **humanoid entity about six feet tall**, clad from head to toe in **highly reflective, metallic material** that caught the light like polished metal or “mercury on nickel” and seemed to lack a distinct separation between head and neck. He claimed it bore an **antenna‑like protrusion** and moved in an **odd, jerky fashion** reminiscent of mechanical motion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.paranormalcatalog.net/ufos/the-falkville-metal-man" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranormalcatalog.net">[PARANORMAL CATALOG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranormalcatalog.net</span><span class="citation-popover-title">PARANORMAL CATALOGThe Falkville Metal Man</span><span class="citation-popover-snippet">February 3, 2023...</span><span class="citation-popover-meta">Published: February 3, 2023</span></span></span> Faced with this strange figure, Greenhaw later said he attempted to speak, then took out his **Polaroid camera and snapped four photos** before the figure suddenly turned and fled into the darkness — allegedly at speeds far exceeding normal human capability. Greenhaw pursued it in his patrol vehicle, reportedly reaching around 35 mph, but lost sight of it after crashing his truck in the field.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cullmantribune.com">[The Cullman Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cullmantribune.com</span><span class="citation-popover-title">do you believe in the metal man</span><span class="citation-popover-snippet">The Cullman TribuneDo you believe in the Metal Man?10 Jul 2021 — On an October night in 1973, the young Falkville Chief of Police, Jeff G...</span></span></span>
 
-
-<img src="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265-Illustration-1-light.svg" | relative_url }}" alt="Falkville Metal Man illustration 1" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265-Illustration-1-dark.svg" | relative_url }}" alt="Falkville Metal Man illustration 1" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Photographic Evidence and Initial Reports
 
-The **four Polaroid images** Greenhaw claimed to have taken form the core of the case’s supposed evidence. According to discussions in UFO enthusiast circles, the first image shows mostly darkness and a flash of silver, while the subsequent frames appear to show a **metallic humanoid form** reflecting the camera’s flash. These claimed photos have circulated in fringe sources and figure prominently in retellings of the encounter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[Cryptopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">FALKVILLE METAL MAN (ALABAMA, USA) | Cryptopia</span><span class="citation-popover-snippet">CryptopiaFALKVILLE METAL MAN (ALABAMA, USA) | Cryptopia - Exploring The Hidden WorldMarch 3, 2010...</span><span class="citation-popover-meta">Published: March 3, 2010</span></span></span>
+The **four Polaroid images** Greenhaw claimed to have taken form the core of the case’s supposed evidence. According to discussions in UFO enthusiast circles, the first image shows mostly darkness and a flash of silver, while the subsequent frames appear to show a **metallic humanoid form** reflecting the camera’s flash. These claimed photos have circulated in fringe sources and figure prominently in retellings of the encounter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[Cryptopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">FALKVILLE METAL MAN (ALABAMA, USA) &#124; Cryptopia</span><span class="citation-popover-snippet">FALKVILLE METAL MAN (ALABAMA, USA) &#124; Cryptopia - Exploring The Hidden WorldMarch 3, 2010...</span><span class="citation-popover-meta">Published: March 3, 2010</span></span></span>
 
 Greenhaw kept the original photographs for several years, but he later reported that in **1983 someone broke into his home and stole** the pictures along with a service revolver and a shotgun — a burglary that he claimed was unusual because the only items taken were those associated with the 1973 incident. After that, he largely withdrew from public life.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cullmantribune.com">[The Cullman Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cullmantribune.com</span><span class="citation-popover-title">do you believe in the metal man</span><span class="citation-popover-snippet">The Cullman TribuneDo you believe in the Metal Man?10 Jul 2021 — On an October night in 1973, the young Falkville Chief of Police, Jeff G...</span></span></span>
 
-The story spread beyond local memory through UFO folklore sites, and the images were said to have been sent to analysts such as Walt Andrus of the Mutual UFO Network (MUFON) for review. Some fringe accounts assert the negatives revealed “UFO‑like” figures that were not immediately obvious in the prints, though no detailed, peer‑reviewed publication of these findings is available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[Cryptopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">FALKVILLE METAL MAN (ALABAMA, USA) | Cryptopia</span><span class="citation-popover-snippet">CryptopiaFALKVILLE METAL MAN (ALABAMA, USA) | Cryptopia - Exploring The Hidden WorldMarch 3, 2010...</span><span class="citation-popover-meta">Published: March 3, 2010</span></span></span>
-
+The story spread beyond local memory through UFO folklore sites, and the images were said to have been sent to analysts such as Walt Andrus of the Mutual UFO Network (MUFON) for review. Some fringe accounts assert the negatives revealed “UFO‑like” figures that were not immediately obvious in the prints, though no detailed, peer‑reviewed publication of these findings is available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[Cryptopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">FALKVILLE METAL MAN (ALABAMA, USA) &#124; Cryptopia</span><span class="citation-popover-snippet">FALKVILLE METAL MAN (ALABAMA, USA) &#124; Cryptopia - Exploring The Hidden WorldMarch 3, 2010...</span><span class="citation-popover-meta">Published: March 3, 2010</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cGYG-FS32VM" title="The Mystery of The Metal Man" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cGYG-FS32VM" target="_blank" rel="noopener noreferrer">The Mystery of The Metal Man</a></p><p class="youtube-embed-meta">Channel: This Paranormal Life &middot; Views: 6.1K &middot; Uploaded: February 2025 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cGYG-FS32VM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cGYG-FS32VM">Open on YouTube</a></p></div></div></div>
 
@@ -296,7 +293,6 @@ The story spread beyond local memory through UFO folklore sites, and the images 
 Immediately and over the decades since, sceptics have largely dismissed the Metal Man incident as **hoax, misinterpretation or local prank**. Multiple elements of the narrative invite critical scrutiny: the description of a figure that could be emulated with reflective materials available in the 1970s; the fact that no official police records or local newspaper reports from the period corroborate the sighting in authoritative detail; and the absence of the original photographic negatives for independent forensic analysis.[Wikipedia]
 
 Common sceptical theories include:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -308,24 +304,20 @@ Common sceptical theories include:
 
 Even within UFO circles, the encounter has never reached the prominence of cases backed by stronger documentation or investigative follow‑up. Many in the sceptical community treat it alongside other alleged encounters from the period — colourful, culturally interesting, but not demonstrably unexplained.[Wikipedia]
 
-
-<img src="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265-Illustration-2-light.svg" | relative_url }}" alt="Falkville Metal Man illustration 2" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265-Illustration-2-dark.svg" | relative_url }}" alt="Falkville Metal Man illustration 2" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Impact on Local UFO Reputation
 
 Within Alabama’s UFO lore, the Falkville Metal Man occupies a niche as a **locally notorious but highly disputed episode**. It lacks the official record of military or aviation testimony seen in stronger cases like the nearby 1948 Chiles‑Whitted sighting, but it persists in UFO subculture because of its vivid imagery and the involvement of a law‑enforcement figure.[Wikipedia]
 
 The story’s endurance illustrates how UFO narratives can take root in small communities, especially when intertwined with compelling elements like claimed [photographic evidence]({{ 'photographic-evidence/' | relative_url }}) and personal cost to the witness. In Falkville’s case, the tale of the Metal Man has become part of the town’s fringe heritage — less a matter of documented mystery and more a **local legend debated between believers and sceptics**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cullmantribune.com">[The Cullman Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cullmantribune.com</span><span class="citation-popover-title">do you believe in the metal man</span><span class="citation-popover-snippet">The Cullman TribuneDo you believe in the Metal Man?10 Jul 2021 — On an October night in 1973, the young Falkville Chief of Police, Jeff G...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OJDf7G7_zgU" title="The Alabama Metal Man" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OJDf7G7_zgU" target="_blank" rel="noopener noreferrer">The Alabama Metal Man</a></p><p class="youtube-embed-meta">Channel: Bedtime Stories &middot; Views: 574.7K &middot; Uploaded: October 2023 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OJDf7G7_zgU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OJDf7G7_zgU">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9EDCm-mRAVA" title="Metal Man of Alabama - Extraterrestrial, Cryptid, or Hoax? Aliens and UFOs in Falkville, AL?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9EDCm-mRAVA" target="_blank" rel="noopener noreferrer">Metal Man of Alabama - Extraterrestrial, Cryptid, or Hoax? Aliens and UFOs in Falkville, AL?</a></p><p class="youtube-embed-meta">Channel: Steven Is Here &middot; Views: 4.8K &middot; Uploaded: February 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9EDCm-mRAVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9EDCm-mRAVA">Open on YouTube</a></p></div></div></div>
 
 ## What This Case Tells Us
 
 For readers interested in UFO history specifically within Alabama, the Falkville incident represents an example of:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -337,8 +329,7 @@ For readers interested in UFO history specifically within Alabama, the Falkville
 
 Unlike cases that entered official investigation channels, the Metal Man sighting remains **unverified and unresolved**, with its primary “evidence” (the original photos) missing and its narrative filtered through every level of speculative retelling. Whether viewed as a hoax, misinterpretation, or something unexplained, it remains a curious footnote in Alabama’s catalogue of UFO‑related anecdotes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cullmantribune.com">[The Cullman Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cullmantribune.com</span><span class="citation-popover-title">do you believe in the metal man</span><span class="citation-popover-snippet">The Cullman TribuneDo you believe in the Metal Man?10 Jul 2021 — On an October night in 1973, the young Falkville Chief of Police, Jeff G...</span></span></span>
 
-
-<img src="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265-Illustration-3-light.svg" | relative_url }}" alt="Falkville Metal Man illustration 3" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265-Illustration-3-dark.svg" | relative_url }}" alt="Falkville Metal Man illustration 3" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -762,79 +753,79 @@ Unlike cases that entered official investigation channels, the Metal Man sightin
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Falkville, Alabama  
-   Link: [https://en.wikipedia.org/wiki/Falkville%2C_Alabama](https://en.wikipedia.org/wiki/Falkville%2C_Alabama)  
+   Link: <a href="https://en.wikipedia.org/wiki/Falkville%2C_Alabama" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falkville%2C_Alabama</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Homme de métal de Falkville  
-   Link: [https://fr.wikipedia.org/wiki/Homme_de_m%C3%A9tal_de_Falkville](https://fr.wikipedia.org/wiki/Homme_de_m%C3%A9tal_de_Falkville)  
+   Link: <a href="https://fr.wikipedia.org/wiki/Homme_de_m%C3%A9tal_de_Falkville" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Homme_de_m%C3%A9tal_de_Falkville</a>  
 
 3. <a id="endnote-3"></a>
    Source: paranormalcatalog.net  
    Title: PARANORMAL CATALOGThe Falkville Metal Man  
-   Link: [https://www.paranormalcatalog.net/ufos/the-falkville-metal-man](https://www.paranormalcatalog.net/ufos/the-falkville-metal-man)  
+   Link: <a href="https://www.paranormalcatalog.net/ufos/the-falkville-metal-man" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormalcatalog.net/ufos/the-falkville-metal-man</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 3, 2023...</p></details>
    Published: February 3, 2023  
 
 4. <a id="endnote-4"></a>
    Source: cryptopia.us  
    Title: FALKVILLE METAL MAN (ALABAMA, USA) | Cryptopia  
-   Link: [https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/](https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CryptopiaFALKVILLE METAL MAN (ALABAMA, USA) | Cryptopia - Exploring The Hidden WorldMarch 3, 2010...</p></details>
+   Link: <a href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow">https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FALKVILLE METAL MAN (ALABAMA, USA) | Cryptopia - Exploring The Hidden WorldMarch 3, 2010...</p></details>
    Published: March 3, 2010  
 
 5. <a id="endnote-5"></a>
    Source: cullmantribune.com  
    Title: do you believe in the metal man  
-   Link: [https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/](https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/)  
+   Link: <a href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow">https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cullman TribuneDo you believe in the Metal Man?10 Jul 2021 — On an October night in 1973, the young Falkville Chief of Police, Jeff G...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: mythicalencyclopedia.com  
    Title: Metal Man  
-   Link: [https://mythicalencyclopedia.com/metal-man/](https://mythicalencyclopedia.com/metal-man/)  
+   Link: <a href="https://mythicalencyclopedia.com/metal-man/" target="_blank" rel="noopener noreferrer nofollow">https://mythicalencyclopedia.com/metal-man/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The first sighting of the Metal Man was reported in Falkville, Alabama, in 1973. The creature was d...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: planet-today.com  
    Title: The Falkville Metal Man  
-   Link: [https://www.planet-today.com/2018/10/the-falkville-metal-man.html](https://www.planet-today.com/2018/10/the-falkville-metal-man.html)  
+   Link: <a href="https://www.planet-today.com/2018/10/the-falkville-metal-man.html" target="_blank" rel="noopener noreferrer nofollow">https://www.planet-today.com/2018/10/the-falkville-metal-man.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Police chief Jeff Greenhaw received a call around 10:00pm that would change his life forever. It was a wom...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: paranormal-strange.fandom.com  
    Title: Falkville Metal Man  
-   Link: [https://paranormal-strange.fandom.com/wiki/Falkville_Metal_Man](https://paranormal-strange.fandom.com/wiki/Falkville_Metal_Man)  
+   Link: <a href="https://paranormal-strange.fandom.com/wiki/Falkville_Metal_Man" target="_blank" rel="noopener noreferrer nofollow">https://paranormal-strange.fandom.com/wiki/Falkville_Metal_Man</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metal Man | Paranormal Strange Wiki | FandomOctober 17, 1973 — FALKVILLE METAL MAN Sign In to Save Save Edit * History * Purge * Talk (0)...</p></details>
    Published: October 17, 1973  
 
 9. <a id="endnote-9"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Alabama Metal Man  
-   Link: [https://unsolvedmysteries.fandom.com/wiki/Alabama_Metal_Man](https://unsolvedmysteries.fandom.com/wiki/Alabama_Metal_Man)  
+   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Alabama_Metal_Man" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Alabama_Metal_Man</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metal Man | Unsolved Mysteries Wiki | FandomOctober 17, 1973 — ALABAMA METAL MAN Sign In to Save Save Edit * Edit source * History * Purg...</p></details>
    Published: October 17, 1973  
 
 10. <a id="endnote-10"></a>
    Source: obscurban-legend.fandom.com  
    Title: Falkville Metal Man  
-   Link: [https://obscurban-legend.fandom.com/wiki/Falkville_Metal_Man](https://obscurban-legend.fandom.com/wiki/Falkville_Metal_Man)  
+   Link: <a href="https://obscurban-legend.fandom.com/wiki/Falkville_Metal_Man" target="_blank" rel="noopener noreferrer nofollow">https://obscurban-legend.fandom.com/wiki/Falkville_Metal_Man</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Metal Man | ObscUrban Legend Wikia | FandomFALKVILLE METAL MAN Sign In to Save Save Edit * History * Purge * Talk (0) iframe Falkville Me...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cryptidz.fandom.com  
-   Link: [https://cryptidz.fandom.com/wiki/Metal_Man](https://cryptidz.fandom.com/wiki/Metal_Man)  
+   Link: <a href="https://cryptidz.fandom.com/wiki/Metal_Man" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Metal_Man</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Man | Cryptid Wiki | FandomMETAL MAN Sign In to Save Save Edit * History * Purge * Talk (0) iframe In Falkville, Alabama, on October 17...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pdsh.fandom.com  
    Title: Falkville Metal Man  
-   Link: [https://pdsh.fandom.com/wiki/Falkville_Metal_Man](https://pdsh.fandom.com/wiki/Falkville_Metal_Man)  
+   Link: <a href="https://pdsh.fandom.com/wiki/Falkville_Metal_Man" target="_blank" rel="noopener noreferrer nofollow">https://pdsh.fandom.com/wiki/Falkville_Metal_Man</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Metal Man | Public Domain Super Heroes | FandomFALKVILLE METAL MAN Sign In to Save Save Edit * History * Purge * Talk (0) iframe Falkvill...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: metacast.app  
-   Link: [https://metacast.app/podcast/mostly-true-alien-stories/jM1Brt2V/the-falkville-metal-man---alabama-s-strangest-alien-encounter/ppwB9dkV](https://metacast.app/podcast/mostly-true-alien-stories/jM1Brt2V/the-falkville-metal-man---alabama-s-strangest-alien-encounter/ppwB9dkV)  
+   Link: <a href="https://metacast.app/podcast/mostly-true-alien-stories/jM1Brt2V/the-falkville-metal-man---alabama-s-strangest-alien-encounter/ppwB9dkV" target="_blank" rel="noopener noreferrer nofollow">https://metacast.app/podcast/mostly-true-alien-stories/jM1Brt2V/the-falkville-metal-man---alabama-s-strangest-alien-encounter/ppwB9dkV</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Falkville Metal Man - Alabama&#x27;s Strangest Alien...16 Apr 2025 — No, everybody that examined the photos and Q, including MUFON, the m...</p></details>
 
 ### Additional References
@@ -842,56 +833,56 @@ Unlike cases that entered official investigation channels, the Metal Man sightin
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: These images were taken by police chief Jeff Greenhaw  
-   Link: [https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/901873058615537/](https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/901873058615537/)  
+   Link: <a href="https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/901873058615537/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/901873058615537/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Apr 2024 — A hoax? A prank? Or something else? The &quot;Metal Man&quot; pics became iconic imagery for a time in the mid-70s, appearing in nume...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: These images were taken by police chief Jeff Greenhaw  
-   Link: [https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1357301373072701/](https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1357301373072701/)  
+   Link: <a href="https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1357301373072701/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1357301373072701/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The “Metal Man of Falkville” became Alabama&#x27;s own X-Files mystery. Some said it was an alien, others a prank, but the photos still creep...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DQbPh8SEQZr/](https://www.instagram.com/reel/DQbPh8SEQZr/)  
+   Link: <a href="https://www.instagram.com/reel/DQbPh8SEQZr/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQbPh8SEQZr/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO legends — a silvery humanoid sprinting into the night...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: instagram.com  
    Title: Now known as the Alabama Metal Man or the Falkville Metal Man.Read more  
-   Link: [https://www.instagram.com/p/C_irL-GOlYy/](https://www.instagram.com/p/C_irL-GOlYy/)  
+   Link: <a href="https://www.instagram.com/p/C_irL-GOlYy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C_irL-GOlYy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Located in Falkville, Alabama in the autumn of 1973 there...Located in Falkville, Alabama in the autumn of 1973 there was once rumored t...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pararational.com  
    Title: The Legendary Falkville Metal Man Encounter  
-   Link: [https://www.pararational.com/falkville-metal-man/](https://www.pararational.com/falkville-metal-man/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ParaRationalImage: falkville metal man THE LEGENDARY FALKVILLE METAL MAN ENCOUNTER * Aliens POLICE CHIEF JEFF GREENHAW OF FALKVILLE, AL W...</p></details>
+   Link: <a href="https://www.pararational.com/falkville-metal-man/" target="_blank" rel="noopener noreferrer nofollow">https://www.pararational.com/falkville-metal-man/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Image: falkville metal man THE LEGENDARY FALKVILLE METAL MAN ENCOUNTER * Aliens POLICE CHIEF JEFF GREENHAW OF FALKVILLE, AL W...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: shadowfrequencypodcast.com  
    Title: the night falkville met the metal man  
-   Link: [https://www.shadowfrequencypodcast.com/blog/the-night-falkville-met-the-metal-man/](https://www.shadowfrequencypodcast.com/blog/the-night-falkville-met-the-metal-man/)  
+   Link: <a href="https://www.shadowfrequencypodcast.com/blog/the-night-falkville-met-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow">https://www.shadowfrequencypodcast.com/blog/the-night-falkville-met-the-metal-man/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>25, 2025 THE NIGHT FALKVILLE MET THE METAL MAN Image: The Night Falkville Met the Metal Man 🌌 THE NIGHT FALKVILLE MET THE METAL MAN By Ju...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/futurama/comments/npf8at/in_1973_and_alabama_police_officer_responded_to/](https://www.reddit.com/r/futurama/comments/npf8at/in_1973_and_alabama_police_officer_responded_to/)  
+   Link: <a href="https://www.reddit.com/r/futurama/comments/npf8at/in_1973_and_alabama_police_officer_responded_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/futurama/comments/npf8at/in_1973_and_alabama_police_officer_responded_to/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1973 Jeff Greenhaw, then 26-year old chief of police of Falkville, Alabama, was responding to a ufo landing...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Metal Man of Alabama  
-   Link: [https://www.youtube.com/watch?v=9EDCm-mRAVA](https://www.youtube.com/watch?v=9EDCm-mRAVA)  
+   Link: <a href="https://www.youtube.com/watch?v=9EDCm-mRAVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9EDCm-mRAVA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Jeff Greenhaw &amp; The Falkville Metal Man&quot; (The Goods from the Woods Episode #351)...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ia600600.us.archive.org  
    Title: UFOs The Definitive Casebook LQ2  
-   Link: [https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf](https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFINITIVE CASEBOOKThe Publishers would like to thank the following organizations and individuals for their kind permission to reproduce...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/episode/0iM3U7GTIAzFDP4bURg9xI](https://open.spotify.com/episode/0iM3U7GTIAzFDP4bURg9xI)  
+   Link: <a href="https://open.spotify.com/episode/0iM3U7GTIAzFDP4bURg9xI" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/0iM3U7GTIAzFDP4bURg9xI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com#18: Falkville Metal Man - The Cryptonaut PodcastIn October of 1973 the police chief of Falkville, Alabama Jeff Greenhaw inves...</p></details>

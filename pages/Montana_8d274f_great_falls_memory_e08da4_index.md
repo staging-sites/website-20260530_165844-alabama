@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /montana-8d274f-great-falls-memory/
 description: Focused pages that expand on Great Falls.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Montana_8d274f_great_falls_memory_e08da4
-parent_title: Great Falls | Why Montana Became a UFO Landmark
+parent_title: Great Falls
 parent_nav_short_title: Great Falls
 parent_permalink: /great-falls/
 ---

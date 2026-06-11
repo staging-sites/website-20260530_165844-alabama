@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /explanations/
 nav_short_title: Human Made Objects
 title: How Aircraft and Drones Are Mistaken for UFOs in Iowa
-title_full: How Aircraft and Drones Are Mistaken for UFOs in Iowa | Explanations
+title_full: How Aircraft and Drones Are Mistaken for UFOs in Iowa
 display_title_short: Human Made Objects
 display_title: Human Made Objects
 heading_title: How Aircraft and Drones Are Mistaken for UFOs in Iowa
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:26:03'
-parent_title: When Is an Iowa UFO Probably Ordinary? | Iowa UFOs
+parent_title: When Is an Iowa UFO Probably Ordinary?
 parent_permalink: /explanations/
 parent_nav_short_title: Explanations
 parent_heading_title: When Is an Iowa UFO Probably Ordinary?
@@ -252,8 +252,7 @@ image: /assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_human_objects_ufos
 
 Many “UFO” reports from Iowa turn out not to be mysterious craft at all but familiar human‑made objects seen in unusual conditions. Ordinary aircraft, hobby drones, weather balloons and other terrestrial technologies can create light patterns and movements that look inexplicable from the ground — especially after sunset or without clear reference points for distance and speed. Understanding how and why these familiar objects are misidentified helps explain a large portion of Iowa’s aerial sightings and places them in context with broader trends in unidentified aerial phenomena reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying object</span></span></span>
 
-
-<img src="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_human_objects_ufos_i_cb160c-Illustration-1-light.svg" | relative_url }}" alt="Human Made Objects illustration 1" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_human_objects_ufos_i_cb160c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_human_objects_ufos_i_cb160c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_human_objects_ufos_i_cb160c-Illustration-1-dark.svg" | relative_url }}" alt="Human Made Objects illustration 1" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_human_objects_ufos_i_cb160c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_human_objects_ufos_i_cb160c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Aircraft Lights Trigger Misidentifications
 
 Even the simplest aircraft can look strange when viewed from the ground at night. Commercial aeroplanes and private flights use standard navigation and anti‑collision lighting — typically red, green and white beacons on wings and fuselage — designed to be visible to other pilots but unfamiliar to casual observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.globalair.com/articles/how-to-tell-an-aircraft-from-a-drone-or-a-ufo/10699" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalair.com">[Globalair.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalair.com</span><span class="citation-popover-title">How to Tell an Aircraft from a Drone</span><span class="citation-popover-snippet">or a UFO?!May 25, 2025 — 25 May 2025 — So you&#x27;re outside enjoying a clear night sky when something zips by with strange lights. Is it an...</span><span class="citation-popover-meta">Published: May 25, 2025</span></span></span>
@@ -263,7 +262,6 @@ For many Iowa witnesses, such lights seen at a distance against a dark sky can a
 This pattern appears in some reported Iowa sightings. For example, a report from Des Moines in late 2022 described bluish‑white light ovals moving across the sky without visible aircraft strobe patterns; the witness noted nearby commercial flights minutes later with clearly visible strobes and different light spacing, implicitly contrasting the unknown lights with normal aircraft signatures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoindex.com/report?report=227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[UFO Index]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">UFO Index UFO Sighting in Des Moines, Iowa</span><span class="citation-popover-snippet">UFO IndexUFO Sighting in Des Moines, Iowa - November 19, 2022November 19, 2022...</span><span class="citation-popover-meta">Published: November 19, 2022</span></span></span>
 
 Professional or military aircraft can be mistaken too. Iowa’s skies are crossed daily by passenger flights and occasional military traffic, and unfamiliar flight paths or altitudes, shadowing over cloud layers, and acoustic absence at distance all contribute to observers assuming lights belong to something extraordinary. In many states, official analysis of unidentified aerial phenomena has found that a substantial proportion of reports ultimately relate to ordinary airborne objects, including aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO Report (U.S. Intelligence</span><span class="citation-popover-snippet">UFO Report (U.S. Intelligence</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0M1J9qQX1TQ" title="Aircraft lights | They&#x27;re not UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer">Aircraft lights | They&#x27;re not UFOs</a></p><p class="youtube-embed-meta">Channel: flight-club &middot; Views: 99.0K &middot; Uploaded: February 2020 &middot; Length: 3 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0M1J9qQX1TQ">Open on YouTube</a></p></div></div></div>
 
@@ -277,17 +275,14 @@ Weather balloons and larger balloons used for research or atmospheric monitoring
 
 Sky lanterns and other festive airborne lights — small lightweight paper lanterns lifted by a candle or fuel cell — can also rise silently after sunset, producing bright points of light that appear to hover or change direction in a gust of wind. These have been among the most common [explanations]({{ 'explanations/' | relative_url }}) for reported UFO lights in many regions when investigations follow up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">May 11, 2026 — 11 May 2026 — 17 things commonly mistaken for UFOs · Military aircraft · Meteor fireballs · Lens flare · The Moon · The In...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
-
-<img src="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_human_objects_ufos_i_cb160c-Illustration-2-light.svg" | relative_url }}" alt="Human Made Objects illustration 2" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_human_objects_ufos_i_cb160c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_human_objects_ufos_i_cb160c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_human_objects_ufos_i_cb160c-Illustration-2-dark.svg" | relative_url }}" alt="Human Made Objects illustration 2" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_human_objects_ufos_i_cb160c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_human_objects_ufos_i_cb160c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Misidentifications Happen: Perception and Expectation
 
 Part of why human‑built objects are misidentified comes down to how people perceive unfamiliar aerial lights. At night and in featureless sky conditions, the human visual system lacks context for judging speed, range and scale. A light that seems to stand still may be an airliner many kilometres away; a grouping of drone LEDs can be misinterpreted as a single solid object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine17 things commonly mistaken for UFOs</span><span class="citation-popover-snippet">May 11, 2026 — 11 May 2026 — 17 things commonly mistaken for UFOs · Military aircraft · Meteor fireballs · Lens flare · The Moon · The In...</span><span class="citation-popover-meta">Published: May 11, 2026</span></span></span>
 
 Scientific reviews of unidentified aerial phenomena stress that most reports, when analysed carefully, resolve to known objects or phenomena — both natural and man‑made. Standard research into UFO reports, including historical Air Force analyses, consistently placed aircraft and other terrestrial technology among the top identified explanations once witness accounts were matched with known flight and atmospheric data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying object</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EVBDR02Ggcg" title="Family spot UFO hovering over road after thinking it was a star – until it started to MOVE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EVBDR02Ggcg" target="_blank" rel="noopener noreferrer">Family spot UFO hovering over road after thinking it was a star – until it started to MOVE</a></p><p class="youtube-embed-meta">Channel: The Sun &middot; Views: 32.2K &middot; Uploaded: September 2021 &middot; Length: 1 minute 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EVBDR02Ggcg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EVBDR02Ggcg">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lnIxGL_fP9E" title="Drones, Airplanes, Or UAPs? How To Tell The Difference | Business Insider" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lnIxGL_fP9E" target="_blank" rel="noopener noreferrer">Drones, Airplanes, Or UAPs? How To Tell The Difference | Business Insider</a></p><p class="youtube-embed-meta">Channel: Business Insider &middot; Views: 262.1K &middot; Uploaded: December 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lnIxGL_fP9E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lnIxGL_fP9E">Open on YouTube</a></p></div></div></div>
 
@@ -299,8 +294,7 @@ In Iowa specifically, many witness accounts with descriptions of bright lights, 
 
 Recognising these patterns doesn’t diminish the genuine curiosity that draws observers to the sky; rather, it helps separate ordinary human technology from the small fraction of genuinely unexplained reports, making Iowa’s UFO history clearer and better grounded in observable evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
 
-
-<img src="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_human_objects_ufos_i_cb160c-Illustration-3-light.svg" | relative_url }}" alt="Human Made Objects illustration 3" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_human_objects_ufos_i_cb160c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_human_objects_ufos_i_cb160c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_human_objects_ufos_i_cb160c-Illustration-3-dark.svg" | relative_url }}" alt="Human Made Objects illustration 3" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_human_objects_ufos_i_cb160c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_human_objects_ufos_i_cb160c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -724,150 +718,150 @@ Recognising these patterns doesn’t diminish the genuine curiosity that draws o
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
 2. <a id="endnote-2"></a>
    Source: globalair.com  
    Title: How to Tell an Aircraft from a Drone  
-   Link: [https://www.globalair.com/articles/how-to-tell-an-aircraft-from-a-drone-or-a-ufo/10699](https://www.globalair.com/articles/how-to-tell-an-aircraft-from-a-drone-or-a-ufo/10699)  
+   Link: <a href="https://www.globalair.com/articles/how-to-tell-an-aircraft-from-a-drone-or-a-ufo/10699" target="_blank" rel="noopener noreferrer nofollow">https://www.globalair.com/articles/how-to-tell-an-aircraft-from-a-drone-or-a-ufo/10699</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>or a UFO?!May 25, 2025 — 25 May 2025 — So you&#x27;re outside enjoying a clear night sky when something zips by with strange lights. Is it an...</p></details>
    Published: May 25, 2025  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO Report (U.S. Intelligence)  
-   Link: [https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29](https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ufoindex.com  
    Title: UFO Index UFO Sighting in Des Moines, Iowa  
-   Link: [https://www.ufoindex.com/report?report=227](https://www.ufoindex.com/report?report=227)  
+   Link: <a href="https://www.ufoindex.com/report?report=227" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/report?report=227</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO IndexUFO Sighting in Des Moines, Iowa - November 19, 2022November 19, 2022...</p></details>
    Published: November 19, 2022  
 
 6. <a id="endnote-6"></a>
    Source: mentalfloss.com  
    Title: Mental Floss11 Objects Mistaken for UFOs  
-   Link: [https://www.mentalfloss.com/article/641697/objects-mistaken-ufos](https://www.mentalfloss.com/article/641697/objects-mistaken-ufos)  
+   Link: <a href="https://www.mentalfloss.com/article/641697/objects-mistaken-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalfloss.com/article/641697/objects-mistaken-ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 11, 2021 — 10 Feb 2021 — Drones, insects, and frozen pee are just a few of the identified objects that have been mistakenly repo...</p></details>
    Published: February 11, 2021  
 
 7. <a id="endnote-7"></a>
    Source: skyatnightmagazine.com  
    Title: Sky at Night Magazine17 things commonly mistaken for UFOs  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026 — 11 May 2026 — 17 things commonly mistaken for UFOs · Military aircraft · Meteor fireballs · Lens flare · The Moon · The In...</p></details>
    Published: May 11, 2026  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=183203](https://nuforc.org/sighting/?id=183203)  
+   Link: <a href="https://nuforc.org/sighting/?id=183203" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=183203</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 183203September 28, 2024 — NUFORC UFO SIGHTING 183203 Occurred: 2024-09-25 20:30 Local Reported: 2024-09-26 04:36 Pac...</p></details>
    Published: September 25, 2024  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=181771](https://nuforc.org/sighting/?id=181771)  
+   Link: <a href="https://nuforc.org/sighting/?id=181771" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=181771</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 181771June 11, 2024 — NUFORC UFO SIGHTING 181771 Occurred: 2024-06-04 02:00 Local Reported: 2024-06-04 21:33 Pacific...</p></details>
    Published: June 4, 2024  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=165599](https://nuforc.org/sighting/?id=165599)  
+   Link: <a href="https://nuforc.org/sighting/?id=165599" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=165599</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 165599December 19, 2021 — NUFORC UFO SIGHTING 165599 Occurred: 2021-11-28 22:00 Local Reported: 2021-11-30 21:15 Paci...</p></details>
    Published: November 28, 2021  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=137342](https://nuforc.org/sighting/?id=137342)  
+   Link: <a href="https://nuforc.org/sighting/?id=137342" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=137342</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 137342November 22, 2017 — NUFORC UFO SIGHTING 137342 Occurred: 2017-11-01 18:45 Local Reported: 2017-11-21 04:30 Paci...</p></details>
    Published: November 1, 2017  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=89346](https://nuforc.org/sighting/?id=89346)  
+   Link: <a href="https://nuforc.org/sighting/?id=89346" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=89346</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 89346June 5, 2012 — NUFORC UFO SIGHTING 89346 Occurred: 2012-06-02 21:00 Local Reported: 2012-06-03 08:01 Pacific Dur...</p></details>
    Published: June 2, 2012  
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=16072](https://nuforc.org/sighting/?id=16072)  
+   Link: <a href="https://nuforc.org/sighting/?id=16072" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=16072</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 16072February 18, 2001 — NUFORC UFO SIGHTING 16072 Occurred: 2001-01-27 22:00 Local Reported: 2001-01-27 00:00 Pacifi...</p></details>
    Published: January 27, 2001  
 
 14. <a id="endnote-14"></a>
    Source: ufoindex.com  
    Title: Browse the reports below. 5 documented sightings in Iowa Iowa c  
-   Link: [https://www.ufoindex.com/iowa](https://www.ufoindex.com/iowa)  
+   Link: <a href="https://www.ufoindex.com/iowa" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/iowa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Iowa UFO ReportsIOWA UFO REPORTS Witnesses have reported strange lights, unidentified flying objects, and unexplained aerial phenomena ac...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=0M1J9qQX1TQ](https://www.youtube.com/watch?v=0M1J9qQX1TQ)  
+   Link: <a href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0M1J9qQX1TQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft lights | They&#x27;re not UFOsAll aeroplanes China specific arrangement of multicolored lights and in this video we&#x27;ll discuss some o...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: liverpool.ac.uk  
-   Link: [https://www.liverpool.ac.uk/~sdb/Talks/UFOs-LTU3A.pdf](https://www.liverpool.ac.uk/~sdb/Talks/UFOs-LTU3A.pdf)  
+   Link: <a href="https://www.liverpool.ac.uk/~sdb/Talks/UFOs-LTU3A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.liverpool.ac.uk/~sdb/Talks/UFOs-LTU3A.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs LTU3AUFOs? Isn&#x27;t It Now Settled? xkcd.com. 4. Google hits for &quot;UFO&quot; &gt; 250 million... &quot; UFO sighting is 100% proof ALIENS are here o...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/funnyoldeworld/posts/debunked-this-ufo-is-a-hollywood-balloonufo-uap-debunked-factcheck/1490978935720145/](https://www.facebook.com/funnyoldeworld/posts/debunked-this-ufo-is-a-hollywood-balloonufo-uap-debunked-factcheck/1490978935720145/)  
+   Link: <a href="https://www.facebook.com/funnyoldeworld/posts/debunked-this-ufo-is-a-hollywood-balloonufo-uap-debunked-factcheck/1490978935720145/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/funnyoldeworld/posts/debunked-this-ufo-is-a-hollywood-balloonufo-uap-debunked-factcheck/1490978935720145/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DEBUNKED: This &quot;Ufo&quot; Is A Hollywood Balloon #...No the US is NOT shooting down aliens - defies logic for aliens to travel... mistaken f...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: inquisitr.com  
-   Link: [https://www.inquisitr.com/cloaked-triangle-ufo-spotted-whizzing-across-the-sky-in-cedar-falls-and-ames-iowa](https://www.inquisitr.com/cloaked-triangle-ufo-spotted-whizzing-across-the-sky-in-cedar-falls-and-ames-iowa)  
+   Link: <a href="https://www.inquisitr.com/cloaked-triangle-ufo-spotted-whizzing-across-the-sky-in-cedar-falls-and-ames-iowa" target="_blank" rel="noopener noreferrer nofollow">https://www.inquisitr.com/cloaked-triangle-ufo-spotted-whizzing-across-the-sky-in-cedar-falls-and-ames-iowa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inquisitr NewsDecember 5, 2015 — ‘CLOAKED’ TRIANGLE UFO SPOTTED WHIZZING ACROSS THE SKY IN CEDAR FALLS AND AMES, IOWA Published on: Decem...</p></details>
    Published: December 5, 2015  
 
 19. <a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: universemagazine.com  
    Title: known flying objects sky phenomena we often mistake for ufos  
-   Link: [https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOor8CRqo-pvrk7nH5L5hQdyjHPBswIcGMS3A-jUBrAZhgFg4WMmG](https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOor8CRqo-pvrk7nH5L5hQdyjHPBswIcGMS3A-jUBrAZhgFg4WMmG)  
+   Link: <a href="https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOor8CRqo-pvrk7nH5L5hQdyjHPBswIcGMS3A-jUBrAZhgFg4WMmG" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOor8CRqo-pvrk7nH5L5hQdyjHPBswIcGMS3A-jUBrAZhgFg4WMmG</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Known Flying Objects: Sky Phenomena We Often Mistake...12 Oct 2024 — In this article, we delve into the subject of UFOs, particularly th...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: sciencefocus.com  
    Title: the ufos that scientists think are real but cant explain  
-   Link: [https://www.sciencefocus.com/space/the-ufos-that-scientists-think-are-real-but-cant-explain](https://www.sciencefocus.com/space/the-ufos-that-scientists-think-are-real-but-cant-explain)  
+   Link: <a href="https://www.sciencefocus.com/space/the-ufos-that-scientists-think-are-real-but-cant-explain" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefocus.com/space/the-ufos-that-scientists-think-are-real-but-cant-explain</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFOs that scientists think are real, but can&#x27;t explain27 Jun 2025 — Conspiracies and FBI secrets: Why we love UFOs · Alien mothership...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: twz.com  
    Title: f 16s find balloons not ufos after sunday scramble norad  
-   Link: [https://www.twz.com/air/f-16s-find-balloons-not-ufos-after-sunday-scramble-norad](https://www.twz.com/air/f-16s-find-balloons-not-ufos-after-sunday-scramble-norad)  
+   Link: <a href="https://www.twz.com/air/f-16s-find-balloons-not-ufos-after-sunday-scramble-norad" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/f-16s-find-balloons-not-ufos-after-sunday-scramble-norad</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>F-16s Find Balloons, Not UFOs, After Sunday Scramble16 Feb 2026 — As we have frequently reported, UFOs, now known as unidentified aerial...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: southeastiowaunion.com  
-   Link: [https://www.southeastiowaunion.com/se-iowa-union-hometown-current/ufo-investigator-exposes-the-process-the-known-the-unknown/](https://www.southeastiowaunion.com/se-iowa-union-hometown-current/ufo-investigator-exposes-the-process-the-known-the-unknown/)  
+   Link: <a href="https://www.southeastiowaunion.com/se-iowa-union-hometown-current/ufo-investigator-exposes-the-process-the-known-the-unknown/" target="_blank" rel="noopener noreferrer nofollow">https://www.southeastiowaunion.com/se-iowa-union-hometown-current/ufo-investigator-exposes-the-process-the-known-the-unknown/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>31, 2024 8:46 pm A slide shows a drawing of a UFO spotted over a cornfield south of Marengo i...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: thinkaboutitdocs.com  
    Title: security guard sees oval ufo with bright headlights  
-   Link: [https://www.thinkaboutitdocs.com/security-guard-sees-oval-ufo-with-bright-headlights/](https://www.thinkaboutitdocs.com/security-guard-sees-oval-ufo-with-bright-headlights/)  
+   Link: <a href="https://www.thinkaboutitdocs.com/security-guard-sees-oval-ufo-with-bright-headlights/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/security-guard-sees-oval-ufo-with-bright-headlights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1977 Walcott Iowa UFO Sighting: Oval Craft &amp; Electrical InterferenceOctober 24, 2012 — 1977: SECURITY GUARD SEES OVAL UFO WITH BRIGHT HEA...</p></details>
    Published: October 24, 2012  
 
 25. <a id="endnote-25"></a>
    Source: axios.com  
    Title: Iowans have reported seeing more than 1,100 UFOs  
-   Link: [https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos](https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos)  
+   Link: <a href="https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Axios Des MoinesJuly 28, 2022 — Jul 28, 2022 - News IOWANS HAVE REPORTED SEEING MORE THAN 1,100 UFOS Image * Jason Clayworth Image: Illus...</p></details>
-   Published: July 28, 2022  
+   Published: July 28, 2022

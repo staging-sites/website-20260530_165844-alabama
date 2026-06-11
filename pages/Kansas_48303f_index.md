@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kansas-48303f-index/
 description: Focused pages that expand on What Did Kansas Really See?.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Kansas_48303f
 parent_title: What Did Kansas Really See?

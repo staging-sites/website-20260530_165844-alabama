@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-hampshire-824569-hill-case-legacy/
 description: Focused pages that expand on Hill Case.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: New_Hampshire_824569_hill_case_legacy_2421b2
-parent_title: Hill Case | Why New Hampshire Became UFO Country
+parent_title: Hill Case
 parent_nav_short_title: Hill Case
 parent_permalink: /hill-case/
 ---

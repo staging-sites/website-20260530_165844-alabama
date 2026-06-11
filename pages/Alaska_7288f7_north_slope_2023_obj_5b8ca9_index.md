@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alaska-7288f7-north-slope-2023-obj/
 description: Focused pages that expand on 2023 Object.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Alaska_7288f7_north_slope_2023_obj_5b8ca9
-parent_title: 2023 Object | What Really Happened in Alaska's UFO Skies?
+parent_title: 2023 Object
 parent_nav_short_title: 2023 Object
 parent_permalink: /2023-object/
 ---

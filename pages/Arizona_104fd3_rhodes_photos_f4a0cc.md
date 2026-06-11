@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-arizona-became-a-ufo-state/
 nav_short_title: Rhodes Photos
 title: Why the Rhodes Photos Still Matter
-title_full: Why the Rhodes Photos Still Matter | Arizona UFOs
+title_full: Why the Rhodes Photos Still Matter
 display_title_short: Rhodes Photos
 display_title: Rhodes Photos
 heading_title: Why the Rhodes Photos Still Matter
@@ -262,8 +262,7 @@ image: /assets/images/Arizona_104fd3_rhodes_photos_f4a0cc-overview-social.jpg
 
 ## Introduction
 
-In the summer of 1947, long before the [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) or later modern UFO discussions, [Arizona]({{ 'why-arizona-became-a-ufo-state/' | relative_url }}) briefly entered the fledgling era of “flying saucer” reports through a pair of photographs taken over Phoenix. Known as the **Rhodes UFO photographs**, these images were among the earliest claimed photographic records of an unidentified flying object (UFO) in the United States and helped embed Arizona in the historical UFO archive right at the start of the post‑World War II “flying disc craze”. Although the photographs were widely circulated at the time and even attracted official attention, their evidential value remains debated. They matter in Arizona’s UFO history because they exemplify how early sightings were documented, how local media framed them, and how government interest intersected with both belief and scepticism in the first years of the modern UFO era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rhodes_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rhodes UFO photographs</span><span class="citation-popover-snippet">Rhodes UFO photographs</span></span></span>
-
+In the summer of 1947, long before the [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) or later modern UFO discussions, Arizona briefly entered the fledgling era of “flying saucer” reports through a pair of photographs taken over Phoenix. Known as the **Rhodes UFO photographs**, these images were among the earliest claimed photographic records of an unidentified flying object (UFO) in the United States and helped embed Arizona in the historical UFO archive right at the start of the post‑World War II “flying disc craze”. Although the photographs were widely circulated at the time and even attracted official attention, their evidential value remains debated. They matter in Arizona’s UFO history because they exemplify how early sightings were documented, how local media framed them, and how government interest intersected with both belief and scepticism in the first years of the modern UFO era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rhodes_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rhodes UFO photographs</span><span class="citation-popover-snippet">Rhodes UFO photographs</span></span></span>
 
 <img src="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc-overview.webp" | relative_url }}" alt="Overview image for Rhodes Photos" loading="eager" decoding="sync" fetchpriority="high">
 ## Phoenix in the 1947 Saucer Wave
@@ -272,20 +271,18 @@ The Rhodes photographs were taken against a backdrop of rapidly spreading “fly
 
 It was into this environment that **William A. Rhodes**, a self‑described amateur astronomer, inventor and electronics enthusiast living in Phoenix, stepped on **7 July 1947**. According to contemporary reports, Rhodes heard an unusual sound near his workshop and looked skyward to see a strange, silent object moving over his neighbourhood. He retrieved his camera and snapped two photographs of the craft as it moved across the Arizona sky. The following day, **The Arizona Republic** published the images under the headline *“Mystery ‘Whatsis’ Photographed over Phoenix”*, describing the object as shaped “like the heel of a shoe, with a small hole in the centre”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
 
-The object in Rhodes’s account was described as grey, elliptical and relatively close—Rhodes later estimated it to be between 20 and 30 feet in diameter and manoeuvring at speed. These details mirrored, in broad strokes, the kinds of shapes and behaviours reported elsewhere during the same summer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.phoenixnewtimes.com/arts-culture/extraterrestrials-in-arizona-the-five-most-infamous-alien-encounters-in-the-state-8300570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phoenixnewtimes.com">[Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phoenixnewtimes.com</span><span class="citation-popover-title">Phoenix New Times Most infamous Arizona alien encounters | Phoenix New Times</span><span class="citation-popover-snippet">Phoenix New TimesMost infamous Arizona alien encounters | Phoenix New TimesMay 29, 2024...</span><span class="citation-popover-meta">Published: May 29, 2024</span></span></span>
+The object in Rhodes’s account was described as grey, elliptical and relatively close—Rhodes later estimated it to be between 20 and 30 feet in diameter and manoeuvring at speed. These details mirrored, in broad strokes, the kinds of shapes and behaviours reported elsewhere during the same summer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.phoenixnewtimes.com/arts-culture/extraterrestrials-in-arizona-the-five-most-infamous-alien-encounters-in-the-state-8300570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phoenixnewtimes.com">[Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phoenixnewtimes.com</span><span class="citation-popover-title">Phoenix New Times Most infamous Arizona alien encounters &#124; Phoenix New Times</span><span class="citation-popover-snippet">Phoenix New TimesMost infamous Arizona alien encounters &#124; Phoenix New TimesMay 29, 2024...</span><span class="citation-popover-meta">Published: May 29, 2024</span></span></span>
 
-
-<img src="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc-Illustration-1-light.svg" | relative_url }}" alt="Rhodes Photos illustration 1" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc-Illustration-1-dark.svg" | relative_url }}" alt="Rhodes Photos illustration 1" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Government Interest and Missing Certainty
 
 The Rhodes photographs did not simply vanish after appearing in a Phoenix newspaper. Within a day or two, the **Federal Bureau of Investigation (FBI)** obtained copies, and through July and August 1947 federal investigators, including Army Counterintelligence Corps personnel, interviewed Rhodes and inspected his photographs and negatives. In 1948, officers from the **Air Materiel Command** and early Air Force UFO study programmes examined the case. Internal records later showed the Rhodes photos were catalogued in the fledgling military UFO files — including what would become **Project Blue Book**, the Air Force’s official UFO investigation archive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rhodes_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rhodes UFO photographs</span><span class="citation-popover-snippet">Rhodes UFO photographs</span></span></span>
 
-Despite this attention, there is no surviving public record of an authoritative explanation from these agencies that definitively identifies what Rhodes saw. Official documents suggest scepticism: in the Air Force chronology the case was marked as a potential hoax, yet some commentators at the time reportedly thought the images were genuine photographic captures rather than lens artefacts or film defects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://marcianitosverdes.haaan.com/2017/12/las-fotografas-rhodes-27/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marcianitosverdes.haaan.com">[Marcianitos Verdes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marcianitosverdes.haaan.com</span><span class="citation-popover-title">Marcianitos Verdes Las fotografías Rhodes (27) | Marcianitos Verdes</span><span class="citation-popover-snippet">Marcianitos VerdesLas fotografías Rhodes (27) | Marcianitos VerdesDecember 10, 2017...</span><span class="citation-popover-meta">Published: December 10, 2017</span></span></span>
+Despite this attention, there is no surviving public record of an authoritative explanation from these agencies that definitively identifies what Rhodes saw. Official documents suggest scepticism: in the Air Force chronology the case was marked as a potential hoax, yet some commentators at the time reportedly thought the images were genuine photographic captures rather than lens artefacts or film defects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://marcianitosverdes.haaan.com/2017/12/las-fotografas-rhodes-27/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marcianitosverdes.haaan.com">[Marcianitos Verdes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marcianitosverdes.haaan.com</span><span class="citation-popover-title">Marcianitos Verdes Las fotografías Rhodes (27) &#124; Marcianitos Verdes</span><span class="citation-popover-snippet">Marcianitos VerdesLas fotografías Rhodes (27) &#124; Marcianitos VerdesDecember 10, 2017...</span><span class="citation-popover-meta">Published: December 10, 2017</span></span></span>
 
 This ambiguity is central to the Rhodes legacy. Government interest lent the case a gravitas that few individual 1947 sightings achieved, but the absence of a clear conclusion left room for competing narratives: believers cited the official scrutiny as validation, while sceptics pointed to the lack of substantive resolution as evidence of misinterpretation or error.
 
-
-<img src="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc-Illustration-3-light.svg" | relative_url }}" alt="Rhodes Photos illustration 3" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc-Illustration-3-dark.svg" | relative_url }}" alt="Rhodes Photos illustration 3" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qdXNAOxs6mo" title="Kenneth Arnold and the First UFOs - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer">Kenneth Arnold and the First UFOs - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 5.1K &middot; Uploaded: June 2019 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qdXNAOxs6mo">Open on YouTube</a></p></div></div></div>
 
@@ -293,24 +290,20 @@ This ambiguity is central to the Rhodes legacy. Government interest lent the cas
 
 The Rhodes photographs are significant partly because visual documentation was rare in 1947. Many early reports were word‑of‑mouth or newspaper anecdotes; images, especially published front‑page in a major local paper, were unusual. That immediacy gave the Phoenix case a kind of archival presence that many other reports lacked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightings</span></span></span>
 
-Yet the photographs themselves raise interpretive challenges. The object’s shape—described as U‑shaped or shoe‑heel‑like—is distinctive, but photographic technology of the era was limited, and the published versions were cropped and reproduced at low resolution. There is ongoing debate over whether the object’s appearance reflects a real airborne craft, a model or artifact, or even a misidentified mundane object. Some later historical commentators have even argued that Rhodes’s own character and background make his claim less reliable, noting that aspects of his self‑presentation did not always withstand scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoexplorations.com/ufos-that-never-were-classic-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoexplorations.com">[ufoexplorations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoexplorations.com</span><span class="citation-popover-title">UFO Explorations | The UFOs That Never Were: Classic Photos Exposed</span><span class="citation-popover-snippet">ufoexplorationsUFO Explorations | The UFOs That Never Were: Classic Photos Exposed...</span></span></span>
+Yet the photographs themselves raise interpretive challenges. The object’s shape—described as U‑shaped or shoe‑heel‑like—is distinctive, but photographic technology of the era was limited, and the published versions were cropped and reproduced at low resolution. There is ongoing debate over whether the object’s appearance reflects a real airborne craft, a model or artifact, or even a misidentified mundane object. Some later historical commentators have even argued that Rhodes’s own character and background make his claim less reliable, noting that aspects of his self‑presentation did not always withstand scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoexplorations.com/ufos-that-never-were-classic-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoexplorations.com">[ufoexplorations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoexplorations.com</span><span class="citation-popover-title">UFO Explorations &#124; The UFOs That Never Were: Classic Photos Exposed</span><span class="citation-popover-snippet">UFO Explorations &#124; The UFOs That Never Were: Classic Photos Exposed...</span></span></span>
 
 The Rhodes case also highlights the broader evidential problem of early UFO photography: single witness photographs, taken without corroborating data such as radar traces or multiple independent observers, are hard to assess reliably. In many cases from the 1947 surge, images that initially seemed persuasive were later reinterpreted as hoaxes, misunderstandings, or commonplace aerial phenomena.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WwGVwkiP11o" title="Did a UFO crash in the valley?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WwGVwkiP11o" target="_blank" rel="noopener noreferrer">Did a UFO crash in the valley?</a></p><p class="youtube-embed-meta">Channel: LiveNOW from FOX &middot; Views: 128.5K &middot; Uploaded: January 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WwGVwkiP11o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WwGVwkiP11o">Open on YouTube</a></p></div></div></div>
 
-
-<img src="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc-Illustration-2-light.svg" | relative_url }}" alt="Rhodes Photos illustration 2" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc-Illustration-2-dark.svg" | relative_url }}" alt="Rhodes Photos illustration 2" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Rhodes Photographs Still Matter
 
 For Arizona’s UFO history, the Rhodes photographs represent a formative moment. They show that long before the Phoenix Lights became a cultural touchstone in the 1990s, Arizonans were already part of the fledgling “flying saucer” narrative playing out across the United States in 1947. The Phoenix images joined a small set of early visual claims — alongside reports elsewhere like the **Frank Ryman** and **Albert Weaver** photos — that contributed to the early mythology of UFOs in American skies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
 
 The case also illustrates enduring themes in UFO reporting: how eyewitness testimony and imagery combine, how media amplification shapes public perception, and how official scrutiny can be interpreted through competing lenses of belief and scepticism. While the Rhodes photographs have never been widely accepted as definitive evidence of extraterrestrial visitation, their place in Arizona’s UFO record is secure as an early, high‑profile claim that captures both the excitement and uncertainty of the very first flying saucer wave. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pdRBvxDWiuc" title="Aliens Uncovered: Origins | The Secrets of Project Blue Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pdRBvxDWiuc" target="_blank" rel="noopener noreferrer">Aliens Uncovered: Origins | The Secrets of Project Blue Book</a></p><p class="youtube-embed-meta">Channel: Best Documentary &middot; Views: 261.2K &middot; Uploaded: July 2024 &middot; Length: 1 hour 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pdRBvxDWiuc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pdRBvxDWiuc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -734,47 +727,47 @@ The case also illustrates enduring themes in UFO reporting: how eyewitness testi
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Rhodes UFO photographs  
-   Link: [https://en.wikipedia.org/wiki/Rhodes_UFO_photographs](https://en.wikipedia.org/wiki/Rhodes_UFO_photographs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Rhodes_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rhodes_UFO_photographs</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 3. <a id="endnote-3"></a>
    Source: ufoexplorations.com  
    Title: UFO Explorations | The UFOs That Never Were: Classic Photos Exposed  
-   Link: [https://www.ufoexplorations.com/ufos-that-never-were-classic-photos](https://www.ufoexplorations.com/ufos-that-never-were-classic-photos)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ufoexplorationsUFO Explorations | The UFOs That Never Were: Classic Photos Exposed...</p></details>
+   Link: <a href="https://www.ufoexplorations.com/ufos-that-never-were-classic-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoexplorations.com/ufos-that-never-were-classic-photos</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Explorations | The UFOs That Never Were: Classic Photos Exposed...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO photographs  
-   Link: [https://en.wikipedia.org/wiki/UFO_photographs](https://en.wikipedia.org/wiki/UFO_photographs)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
 
 5. <a id="endnote-5"></a>
    Source: phoenixnewtimes.com  
    Title: Phoenix New Times Most infamous Arizona alien encounters | Phoenix New Times  
-   Link: [https://www.phoenixnewtimes.com/arts-culture/extraterrestrials-in-arizona-the-five-most-infamous-alien-encounters-in-the-state-8300570/](https://www.phoenixnewtimes.com/arts-culture/extraterrestrials-in-arizona-the-five-most-infamous-alien-encounters-in-the-state-8300570/)  
+   Link: <a href="https://www.phoenixnewtimes.com/arts-culture/extraterrestrials-in-arizona-the-five-most-infamous-alien-encounters-in-the-state-8300570/" target="_blank" rel="noopener noreferrer nofollow">https://www.phoenixnewtimes.com/arts-culture/extraterrestrials-in-arizona-the-five-most-infamous-alien-encounters-in-the-state-8300570/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix New TimesMost infamous Arizona alien encounters | Phoenix New TimesMay 29, 2024...</p></details>
    Published: May 29, 2024  
 
 6. <a id="endnote-6"></a>
    Source: marcianitosverdes.haaan.com  
    Title: Marcianitos Verdes Las fotografías Rhodes (27) | Marcianitos Verdes  
-   Link: [https://marcianitosverdes.haaan.com/2017/12/las-fotografas-rhodes-27/](https://marcianitosverdes.haaan.com/2017/12/las-fotografas-rhodes-27/)  
+   Link: <a href="https://marcianitosverdes.haaan.com/2017/12/las-fotografas-rhodes-27/" target="_blank" rel="noopener noreferrer nofollow">https://marcianitosverdes.haaan.com/2017/12/las-fotografas-rhodes-27/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marcianitos VerdesLas fotografías Rhodes (27) | Marcianitos VerdesDecember 10, 2017...</p></details>
    Published: December 10, 2017  
 
 7. <a id="endnote-7"></a>
    Source: alienconspiracy.tripod.com  
-   Link: [https://alienconspiracy.tripod.com/photos.htm](https://alienconspiracy.tripod.com/photos.htm)  
+   Link: <a href="https://alienconspiracy.tripod.com/photos.htm" target="_blank" rel="noopener noreferrer nofollow">https://alienconspiracy.tripod.com/photos.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accounts of photographs of UFOs are listed below. Rhodes Photo July 7, 1947 Phoenix, Arizona Summary: Some of the first photographs to sh...</p></details>
    Published: July 7, 1947  
 
 8. <a id="endnote-8"></a>
    Source: thenightskyii.org  
-   Link: [https://thenightskyii.org/rhodes1.html](https://thenightskyii.org/rhodes1.html)  
+   Link: <a href="https://thenightskyii.org/rhodes1.html" target="_blank" rel="noopener noreferrer nofollow">https://thenightskyii.org/rhodes1.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhodes PhotographsJuly 7, 1947 — WILLIAM A. RHODES PHOTOGRAPHS Image: William A. Rhodes Photographs DATE: JULY 7, 1947 LOCATION: PHOENIX...</p></details>
    Published: July 7, 1947  
 
@@ -782,61 +775,61 @@ The case also illustrates enduring themes in UFO reporting: how eyewitness testi
 
 9. <a id="endnote-9"></a>
    Source: theufochronicles.com  
-   Link: [https://www.theufochronicles.com/2010/06/counter-intelligence-report-photographs.html](https://www.theufochronicles.com/2010/06/counter-intelligence-report-photographs.html)  
+   Link: <a href="https://www.theufochronicles.com/2010/06/counter-intelligence-report-photographs.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2010/06/counter-intelligence-report-photographs.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 15, 2010 — COUNTER INTELLIGENCE REPORT &amp; PHOTOGRAPHS OF UFO CAPTURED ON FILM OVER PHOENIX, ARIZONA JULY 7, 1947 - click on image(s)...</p></details>
    Published: June 15, 2010  
 
 10. <a id="endnote-10"></a>
    Source: alienconspiracy.tripod.com  
    Title: The man who took the pictures was William A. Rhodes who described  
-   Link: [https://alienconspiracy.tripod.com/photos/rhodes.htm](https://alienconspiracy.tripod.com/photos/rhodes.htm)  
+   Link: <a href="https://alienconspiracy.tripod.com/photos/rhodes.htm" target="_blank" rel="noopener noreferrer nofollow">https://alienconspiracy.tripod.com/photos/rhodes.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PhotosJuly 7, 1947 — JULY 7, 1947 &gt;&gt; PHOENIX, ARIZONA The Rhodes photos were some of the first reported to show a UFO in flight taken in...</p></details>
    Published: July 7, 1947  
 
 11. <a id="endnote-11"></a>
    Source: commons.wikimedia.org  
    Title: Other resolutions: 320 × 111 pixels | 640 × 222 pixels | 1,024  
-   Link: [https://commons.wikimedia.org/wiki/File%3ARhodes_UFO_photos.png](https://commons.wikimedia.org/wiki/File%3ARhodes_UFO_photos.png)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3ARhodes_UFO_photos.png" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARhodes_UFO_photos.png</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Rhodes UFO photos.png - Wikimedia CommonsJuly 9, 1947 — FILE:RHODES UFO PHOTOS.PNG * File * Discussion [Input] English...</p></details>
    Published: July 9, 1947  
 
 12. <a id="endnote-12"></a>
    Source: spacepage.be  
    Title: Het Rhodes UFO-incident: foto's die vragen opriepen  
-   Link: [https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/het-rhodes-ufo-incident-foto-s-die-vragen-opriepen.html](https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/het-rhodes-ufo-incident-foto-s-die-vragen-opriepen.html)  
+   Link: <a href="https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/het-rhodes-ufo-incident-foto-s-die-vragen-opriepen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spacepage.be/artikelen/buitenaards-leven/ufo-waarnemingen/het-rhodes-ufo-incident-foto-s-die-vragen-opriepen.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Christiaens Hoofdcategorie: Buitenaards leven Image Foto: William A. Rhodes Het jaar 1947 neemt een bijzondere plaats...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: rr0.org  
    Title: Les photographies de William Rhodes  
-   Link: [https://rr0.org/science/crypto/ufo/enquete/dossier//Rhodes](https://rr0.org/science/crypto/ufo/enquete/dossier//Rhodes)  
+   Link: <a href="https://rr0.org/science/crypto/ufo/enquete/dossier//Rhodes" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/science/crypto/ufo/enquete/dossier//Rhodes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>La manchette dans l&#x27;Arizona Republic du 9 juillet Image: La manchette dans l&#x27;Arizona Republic du 9 juillet 1ʳᵉ photo: l&#x27;objet &quot;approche&quot;...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Aliens Uncovered: Origins | The Secrets of Project Blue Book  
-   Link: [https://www.youtube.com/watch?v=pdRBvxDWiuc](https://www.youtube.com/watch?v=pdRBvxDWiuc)  
+   Link: <a href="https://www.youtube.com/watch?v=pdRBvxDWiuc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pdRBvxDWiuc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Warning Incident 40 William Rhodes UFO hearing: Whistleblower says he&#x27;s witnessed harm by &quot;non-human&quot; entities Global News...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: kids.kiddle.co  
    Title: Rhodes. These photos supposedly  
-   Link: [https://kids.kiddle.co/Rhodes_UFO_photographs](https://kids.kiddle.co/Rhodes_UFO_photographs)  
+   Link: <a href="https://kids.kiddle.co/Rhodes_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Rhodes_UFO_photographs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO photographs Facts for KidsRHODES UFO PHOTOGRAPHS FACTS FOR KIDS Kids Encyclopedia Facts The Rhodes UFO photographs The Rhodes UFO pho...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bretHCA89bQ](https://www.youtube.com/watch?v=bretHCA89bQ)  
+   Link: <a href="https://www.youtube.com/watch?v=bretHCA89bQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bretHCA89bQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens Uncovered: Origins | The Secrets of Project Blue Book...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Kenneth Arnold and the First UFOs  
-   Link: [https://www.youtube.com/watch?v=qdXNAOxs6mo](https://www.youtube.com/watch?v=qdXNAOxs6mo)  
+   Link: <a href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qdXNAOxs6mo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BW - EP129—001: Radio, Roswell And The Flying Saucer Craze—Kenneth Arnold And The...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: archives.library.rice.edu  
    Title: Haines Ufology pa  
-   Link: [https://archives.library.rice.edu/repositories/2/archival_objects/330019](https://archives.library.rice.edu/repositories/2/archival_objects/330019)  
+   Link: <a href="https://archives.library.rice.edu/repositories/2/archival_objects/330019" target="_blank" rel="noopener noreferrer nofollow">https://archives.library.rice.edu/repositories/2/archival_objects/330019</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>photo: William Albert Rhodes, Arizona, 1947 | ArchivesSpace Public InterfaceUFO PHOTO: WILLIAM ALBERT RHODES, ARIZONA, 1947 File — Box: 1...</p></details>

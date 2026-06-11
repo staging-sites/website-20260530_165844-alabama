@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /records-637b5f/
 nav_short_title: Blue Book Files
 title: Inside New York's Project Blue Book Investigations
-title_full: Inside New York's Project Blue Book Investigations | Records
+title_full: Inside New York's Project Blue Book Investigations
 display_title_short: Blue Book Files
 display_title: Blue Book Files
 heading_title: Inside New York's Project Blue Book Investigations
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:54:34'
-parent_title: What Do New York UFO Records Prove? | New York UFOs
+parent_title: What Do New York UFO Records Prove?
 parent_permalink: /records-637b5f/
 parent_nav_short_title: Records
 parent_heading_title: What Do New York UFO Records Prove?
@@ -250,10 +250,9 @@ image: /assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_blue_book_f
 
 ## Introduction
 
-Project Blue Book’s [New York]({{ 'what-really-happened-in-new-yorks-ufo/' | relative_url }}) files are some of the most revealing official UFO [records]({{ 'records-637b5f/' | relative_url }}) from the Cold War era because they show the investigation process rather than just the sightings themselves. Between the early 1950s and the programme’s closure in 1969, the US Air Force collected reports from pilots, military personnel, police officers, radar operators and ordinary civilians across New York State. Most cases were eventually assigned explanations such as aircraft, balloons, astronomical objects or observational errors. A smaller number remained officially “unidentified”, not because investigators confirmed anything extraordinary, but because the available information was too limited or contradictory to support a firm conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+Project Blue Book’s New York files are some of the most revealing official UFO [records]({{ 'records-637b5f/' | relative_url }}) from the Cold War era because they show the investigation process rather than just the sightings themselves. Between the early 1950s and the programme’s closure in 1969, the US Air Force collected reports from pilots, military personnel, police officers, radar operators and ordinary civilians across New York State. Most cases were eventually assigned explanations such as aircraft, balloons, astronomical objects or observational errors. A smaller number remained officially “unidentified”, not because investigators confirmed anything extraordinary, but because the available information was too limited or contradictory to support a firm conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
-
-<img src="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_blue_book_f_0a5e10-Illustration-1-light.svg" | relative_url }}" alt="Blue Book Files illustration 1" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_blue_book_f_0a5e10-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_blue_book_f_0a5e10-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_blue_book_f_0a5e10-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book Files illustration 1" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_blue_book_f_0a5e10-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_blue_book_f_0a5e10-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For New York UFO history, the value of the Blue Book archive is less about proving remarkable claims than understanding how federal investigators handled uncertainty. The files reveal recurring patterns: reports near military facilities, sightings around major aviation corridors, concerns about national security during the Cold War, and the difficulty of separating genuine anomalies from misidentifications in one of the busiest airspaces in the United States. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-snippet">Pieces of HistorySaucers Over Washington: the History of Project Blue Book19 Dec 2019 — The Federal Government established Project Blue B...</span></span></span>
 
 ## How Blue Book investigated New York reports
@@ -261,7 +260,6 @@ For New York UFO history, the value of the Blue Book archive is less about provi
 Project Blue Book was established in 1952 as the Air Force's formal UFO investigation programme, succeeding earlier efforts known as Project Sign and Project Grudge. Its stated goals were to determine whether reported objects posed a threat to national security and whether any sightings represented technology beyond known scientific understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 When a report arrived from New York, investigators generally followed a fairly standard process:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -274,14 +272,11 @@ When a report arrived from New York, investigators generally followed a fairly s
 
 </div>
 
-The resulting files often contain questionnaires, sketches, correspondence, weather records and military memoranda. Many cases were closed quickly. Others circulated between local bases, intelligence officers and Blue Book headquarters at Wright-Patterson Air Force Base in Ohio. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaProject Blue Book | Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — unidentified flying object (UFO), any...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+The resulting files often contain questionnaires, sketches, correspondence, weather records and military memoranda. Many cases were closed quickly. Others circulated between local bases, intelligence officers and Blue Book headquarters at Wright-Patterson Air Force Base in Ohio. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaProject Blue Book &#124; Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — unidentified flying object (UFO), any...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 New York generated a substantial number of reports because it combined several factors that naturally attracted official attention. The state contained major military installations, busy commercial airports, large population centres, shipping routes along the Atlantic coast, and the air traffic corridors linking the northeastern United States. During the Cold War, any unexplained aerial report near sensitive locations could draw scrutiny even if it later received an ordinary explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-snippet">Pieces of HistorySaucers Over Washington: the History of Project Blue Book19 Dec 2019 — The Federal Government established Project Blue B...</span></span></span>
 
 The files also reveal a tension that appeared throughout Blue Book's existence. Investigators were expected to calm public concern and identify conventional explanations wherever possible, yet they also had to leave room for cases that could not be conclusively resolved. That tension helps explain why some New York reports remained in the programme's unidentified category even though no extraordinary evidence emerged from them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHeZjJgO9Ns" title="UFO Project Blue Book at National Archives Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer">UFO Project Blue Book at National Archives Museum</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 352.6K &middot; Uploaded: December 2019 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHeZjJgO9Ns">Open on YouTube</a></p></div></div></div>
 
 ## The Niagara Falls Air Force Base case trail
 
@@ -295,8 +290,7 @@ The border location added another complication. Aircraft operating over the Grea
 
 For historians of New York UFO reports, Niagara-area files are valuable because they show the Air Force applying its investigative procedures in a region where national-security concerns were genuine. The records demonstrate how seriously some reports were initially treated without demonstrating that unusual craft were actually present.
 
-
-<img src="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_blue_book_f_0a5e10-Illustration-2-light.svg" | relative_url }}" alt="Blue Book Files illustration 2" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_blue_book_f_0a5e10-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_blue_book_f_0a5e10-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_blue_book_f_0a5e10-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book Files illustration 2" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_blue_book_f_0a5e10-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_blue_book_f_0a5e10-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What “unidentified” meant in official records
 
 A common misunderstanding is that a Blue Book case labelled “unidentified” represented official confirmation of something extraordinary. The files do not support that interpretation.
@@ -304,7 +298,6 @@ A common misunderstanding is that a Blue Book case labelled “unidentified” r
 By the end of the programme, the Air Force had processed 12,618 reports, with 701 remaining unidentified. These cases survived the investigative process without receiving a satisfactory conventional explanation, but that outcome often reflected limitations in evidence rather than evidence of unknown technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsThe Project Blue Book ArchiveProject Blue Book was the code name of the U.S. Air Force&#x27;s UFO investigation. Strictly spe...</span></span></span>
 
 Several factors could produce an unidentified classification:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -322,9 +315,7 @@ This distinction is especially important when reading New York cases. Some later
 
 Astronomer J. Allen Hynek, who served as a scientific consultant to Blue Book, later argued that some cases deserved more serious study than they received. Critics of the programme claimed that investigators occasionally favoured conventional explanations too quickly. Supporters of the programme argued that many supposedly mysterious reports simply lacked enough evidence for stronger conclusions. The debate remains part of the historical significance of the archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Internet ArchiveComprehensive Catalog of 1600 Project Blue Book UFO...October 15, 2009 — 2 Oct 2009 — However, in reverse, Hynek re-eval...</span><span class="citation-popover-meta">Published: October 15, 2009</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OoKm417zKOA" title="10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer">10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs</a></p><p class="youtube-embed-meta">Channel: TopTenz &middot; Views: 271.1K &middot; Uploaded: February 2019 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OoKm417zKOA">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_blue_book_f_0a5e10-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book Files illustration 3" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_blue_book_f_0a5e10-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_blue_book_f_0a5e10-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the New York files still matter
 
 The New York Blue Book records remain important because they preserve a detailed picture of how official institutions responded to UFO reports during a period of intense Cold War anxiety. The files capture not only sightings but also investigative habits, bureaucratic assumptions and changing attitudes toward aerial mysteries.
@@ -341,8 +332,6 @@ Several themes stand out across the New York material:
 
 The surviving files therefore occupy an unusual place in New York UFO history. They are neither proof of extraordinary visitors nor evidence that every report was easily explained. Instead, they document the practical reality of investigating unusual aerial sightings in a state where military interests, civilian observers and one of America's busiest skies frequently overlapped.
 
-
-<img src="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_blue_book_f_0a5e10-Illustration-3-light.svg" | relative_url }}" alt="Blue Book Files illustration 3" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_blue_book_f_0a5e10-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_blue_book_f_0a5e10-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reading the archive today
 
 Modern readers can access large portions of the Blue Book collection through the National Archives and other digitised repositories. The archive contains thousands of pages of reports, correspondence and investigative summaries, including cases originating in New York. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — Blue Book operated until December 17, 1969...</span></span></span>
@@ -350,10 +339,6 @@ Modern readers can access large portions of the Blue Book collection through the
 What emerges from those records is less a catalogue of solved mysteries than a record of official attempts to classify the unknown. The most useful lesson from the New York files is methodological rather than sensational. Investigators repeatedly confronted incomplete information, conflicting testimony and ambiguous observations. Sometimes they found convincing explanations. Sometimes they did not.
 
 That ambiguity is precisely why the Blue Book files remain central to New York's UFO history. They show how government investigators approached reports during the Cold War, where the strongest cases came from, why some remained unresolved, and how the label “unidentified” often reflected the limits of evidence rather than the discovery of something proven to be beyond ordinary explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archivesfoundation.org">[National Archives Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archivesfoundation.org</span><span class="citation-popover-title">50 years ago government stops investigating ufos</span><span class="citation-popover-snippet">National Archives Foundation50 Years Ago: Government Stops Investigating UFOsOf the 12,618 UFO sightings reported between 1947 and 1969...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W89jh2C2Ry8" title="&#x27;Project Blue Book&#x27; Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W89jh2C2Ry8" target="_blank" rel="noopener noreferrer">&#x27;Project Blue Book&#x27; Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series</a></p><p class="youtube-embed-meta">Channel: SHOWTIME &middot; Views: 290.8K &middot; Uploaded: August 2021 &middot; Length: 1 minute 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W89jh2C2Ry8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W89jh2C2Ry8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -441,7 +426,7 @@ That ambiguity is precisely why the Blue Book files remain central to New York's
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -451,111 +436,36 @@ That ambiguity is precisely why the Blue Book files remain central to New York's
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-new-york-s-project-blue-book-investigations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-new-york-s-project-blue-book-investigations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-new-york-s-project-blue-book-investigations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-new-york-s-project-blue-book-investigations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-new-york-s-project-blue-book-investigations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-new-york-s-project-blue-book-investigations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-new-york-s-project-blue-book-investigations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-new-york-s-project-blue-book-investigations-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,15 +473,15 @@ That ambiguity is precisely why the Blue Book files remain central to New York's
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-new-york-s-project-blue-book-investigations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-new-york-s-project-blue-book-investigations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-new-york-s-project-blue-book-investigations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-new-york-s-project-blue-book-investigations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-new-york-s-project-blue-book-investigations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-new-york-s-project-blue-book-investigations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-new-york-s-project-blue-book-investigations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-new-york-s-project-blue-book-investigations-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -579,15 +489,15 @@ That ambiguity is precisely why the Blue Book files remain central to New York's
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-new-york-s-project-blue-book-investigations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-new-york-s-project-blue-book-investigations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-new-york-s-project-blue-book-investigations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-new-york-s-project-blue-book-investigations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-new-york-s-project-blue-book-investigations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-new-york-s-project-blue-book-investigations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-new-york-s-project-blue-book-investigations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-new-york-s-project-blue-book-investigations-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -595,15 +505,15 @@ That ambiguity is precisely why the Blue Book files remain central to New York's
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-new-york-s-project-blue-book-investigations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-new-york-s-project-blue-book-investigations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-new-york-s-project-blue-book-investigations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-new-york-s-project-blue-book-investigations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-new-york-s-project-blue-book-investigations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-new-york-s-project-blue-book-investigations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-new-york-s-project-blue-book-investigations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-new-york-s-project-blue-book-investigations-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -611,7 +521,7 @@ That ambiguity is precisely why the Blue Book files remain central to New York's
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-705e58-inside-new-york-s-project-blue-book-investigations-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-new-york-s-project-blue-book-investigations-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="inside-new-york-s-project-blue-book-investigations-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -688,17 +598,31 @@ That ambiguity is precisely why the Blue Book files remain central to New York's
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -711,42 +635,73 @@ That ambiguity is precisely why the Blue Book files remain central to New York's
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -761,12 +716,17 @@ That ambiguity is precisely why the Blue Book files remain central to New York's
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -777,158 +737,158 @@ That ambiguity is precisely why the Blue Book files remain central to New York's
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 2. <a id="endnote-2"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: prologue.blogs.archives.gov  
-   Link: [https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/](https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistorySaucers Over Washington: the History of Project Blue Book19 Dec 2019 — The Federal Government established Project Blue B...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — Blue Book operated until December 17, 1969...</p></details>
    Published: December 17, 1969  
 
 5. <a id="endnote-5"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaProject Blue Book | Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — unidentified flying object (UFO), any...</p></details>
    Published: May 2026  
 
 6. <a id="endnote-6"></a>
    Source: prologue.blogs.archives.gov  
    Title: Pieces of History UFOs: Man-Made, Made Up, and Unknown  
-   Link: [https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/](https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tagged air force, Project Blue Book, UFO. Post navigation. Previous postUFOs: Natural Explanations.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveComprehensive Catalog of 1600 Project Blue Book UFO...October 15, 2009 — 2 Oct 2009 — However, in reverse, Hynek re-eval...</p></details>
    Published: October 15, 2009  
 
 8. <a id="endnote-8"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — Pro-UFO researchers claim that an extraterrestrial spacecra...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: project blue book looking to the film record  
-   Link: [https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/](https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book was actually the third formal analysis of UFO sightings, coming after...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/moving-images-and-sound](https://www.archives.gov/research/topics/uaps/moving-images-and-sound)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FOs and UAPs in the National Archives Catalog...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: [https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/](https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>at the Archives - The Unwritten Record26 Apr 2017 — Project Blue Book: Home Movies in UFO Reports · Project Blue Book: Spotting UFOs in t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/photographs](https://www.archives.gov/research/topics/uaps/photographs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The page is organized by record group, with links to...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: [https://unwritten-record.blogs.archives.gov/tag/ufos/](https://unwritten-record.blogs.archives.gov/tag/ufos/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/tag/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/tag/ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unwritten RecordProject Blue Book was actually the third formal analysis of UFO sightings, coming after … Continue reading Project Bl...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: [https://unwritten-record.blogs.archives.gov/2013/09/](https://unwritten-record.blogs.archives.gov/2013/09/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/09/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/09/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2013 - The Unwritten Record30 Sept 2013 — Project Blue Book was actually the third formal analysis of UFO sightings, coming after … Conti...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: archivesfoundation.org  
    Title: 50 years ago government stops investigating ufos  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives Foundation50 Years Ago: Government Stops Investigating UFOsOf the 12,618 UFO sightings reported between 1947 and 1969...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
 17. <a id="endnote-17"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are more unusual. Early...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: historicmysteries.com  
    Title: project blue book  
-   Link: [https://www.historicmysteries.com/history/project-blue-book/38902/](https://www.historicmysteries.com/history/project-blue-book/38902/)  
+   Link: <a href="https://www.historicmysteries.com/history/project-blue-book/38902/" target="_blank" rel="noopener noreferrer nofollow">https://www.historicmysteries.com/history/project-blue-book/38902/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The... In the 17 years that Project Blue Book operated it compiled over 12,000 UFO...Read more...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: upload.wikimedia.org  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf](https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveProject Blue Book was the code name of the U.S. Air Force&#x27;s UFO investigation. Strictly spe...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: abc7ny.com  
    Title: the black vault project blue book declassified freedom of information act  
-   Link: [https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/](https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/)  
+   Link: <a href="https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC7 New YorkUFO enthusiast releases 130K pages of Air Force docs...20 Jan 2015 — John Greenewald, a UFO enthusiast, spent nearly 20 yea...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=JHeZjJgO9Ns](https://www.youtube.com/watch?v=JHeZjJgO9Ns)  
+   Link: <a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JHeZjJgO9Ns</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Project Blue Book at National Archives MuseumFor more than 20 years, the U.S. Air Force documented and analyzed UFO sightings through...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: blog.myheritage.com  
    Title: chronicles of the unexplained ufo sighting reports in 1960s news  
-   Link: [https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/](https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/)  
+   Link: <a href="https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/" target="_blank" rel="noopener noreferrer nofollow">https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of the Unexplained: UFO Sighting Reports in...9 Aug 2023 — The Reading Eagle from Reading, PA, ran a story in July 1964 about “Project B...</p></details>
    Published: July 1964  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
    Title: During the Cold War, as Project Blue Book investigated  
-   Link: [https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/](https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force- approved Project Blue Book investigated thousands of UFO sightings. Some had explanations, while others are still waiting to b...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: docsteach.org  
    Title: Project Blue Book Status Report Number Eight  
-   Link: [https://docsteach.org/document/project-blue-book-status-report-number-eight/](https://docsteach.org/document/project-blue-book-status-report-number-eight/)  
+   Link: <a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book to collect and evaluate UFO data. Project Blue Book was actually the third in a series of studies on UFOs conducted by...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: vault.fbi.gov  
    Title: Project Blue Book (UFO)  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO)Project Blue Book Originally Project Blue Book was the Air Force name for a project that investigated UFO reports between...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: uk.forceswarrecords.com  
-   Link: [https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969](https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969)  
+   Link: <a href="https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>forceswarrecords.comUS, Project Blue Book - UFO Investigations, 1947-196926 Feb 2007 — The files contain the information the Air Force ga...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: iheart.com  
    Title: How Project Blue Book Worked, Pt II  
-   Link: [https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/](https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/)  
+   Link: <a href="https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stuff You Should KnowA rash of UFO sightings kicks off a new spike in America&#x27;s UFO fever and new headaches for the Air Force, which cont...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR11 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf](https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveProject Blue Book was the code name of the U.S. Air Force&#x27;s UFO investigation. Strictly speaking, this name appl...</p></details>

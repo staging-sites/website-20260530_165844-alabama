@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-makes-idaho-a-key-ufo-hotspot/
 nav_short_title: Emmett Sighting
 title: What the Emmett Airline UFO Case Reveals
-title_full: What the Emmett Airline UFO Case Reveals | Idaho UFOs
+title_full: What the Emmett Airline UFO Case Reveals
 display_title_short: Emmett Sighting
 display_title: Emmett Sighting
 heading_title: What the Emmett Airline UFO Case Reveals
@@ -262,8 +262,7 @@ image: /assets/images/Idaho_18334c_emmett_airline_case_c3d091-overview-social.jp
 
 ## Introduction
 
-The Emmett airline crew sighting is one of [Idaho]({{ 'what-makes-idaho-a-key-ufo-hotspot/' | relative_url }})’s most important early UFO cases because it combines a dramatic claim with unusually credible witnesses: a United Airlines captain, first officer, and stewardess reporting multiple objects from a DC-3 shortly after leaving Boise on 4 July 1947. The case matters less as proof of alien craft than as a test case for how strong eyewitness testimony can still leave weak physical evidence. The crew said the objects were not aircraft, clouds, or smoke, and the report later entered the Project [Blue Book]({{ 'blue-book-3fa5da/' | relative_url }}) record as an “unknown” case. Yet there were no photographs, no radar track, no recovered material, and no precise distance or size measurement. That tension is why the Emmett case still belongs near the centre of Idaho UFO history: it is credible enough to take seriously, but incomplete enough to resist firm conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/Good_Cases/470704emmett_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
-
+The Emmett airline crew sighting is one of Idaho’s most important early UFO cases because it combines a dramatic claim with unusually credible witnesses: a United Airlines captain, first officer, and stewardess reporting multiple objects from a DC-3 shortly after leaving Boise on 4 July 1947. The case matters less as proof of alien craft than as a test case for how strong eyewitness testimony can still leave weak physical evidence. The crew said the objects were not aircraft, clouds, or smoke, and the report later entered the Project [Blue Book]({{ 'blue-book-3fa5da/' | relative_url }}) record as an “unknown” case. Yet there were no photographs, no radar track, no recovered material, and no precise distance or size measurement. That tension is why the Emmett case still belongs near the centre of Idaho UFO history: it is credible enough to take seriously, but incomplete enough to resist firm conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/Good_Cases/470704emmett_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
 <img src="{{ "/assets/images/Idaho_18334c_emmett_airline_case_c3d091-overview.webp" | relative_url }}" alt="Overview image for Emmett Sighting" loading="eager" decoding="sync" fetchpriority="high">
 ## What happened near Emmett?
@@ -276,8 +275,7 @@ The crew’s own reported caution is important. In Edward J. Ruppelt’s 1956 ac
 
 That distinction keeps the case from becoming simpler than it is. The witnesses did not merely see a light and later build a story around it. They observed multiple objects for several minutes from an aircraft cockpit. But they also lacked the information a modern investigator would want most: exact range, angular size, altitude, speed, and independent sensor confirmation.
 
-
-<img src="{{ "/assets/images/Idaho_18334c_emmett_airline_case_c3d091-Illustration-1-light.svg" | relative_url }}" alt="Emmett Sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_emmett_airline_case_c3d091-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_emmett_airline_case_c3d091-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Idaho_18334c_emmett_airline_case_c3d091-Illustration-1-dark.svg" | relative_url }}" alt="Emmett Sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_emmett_airline_case_c3d091-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_emmett_airline_case_c3d091-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the crew’s testimony still carries weight
 
 The Emmett case is stronger than many 1947 “flying saucer” reports because of who made the observation. Airline pilots are not infallible, but they are trained to watch the sky, recognise ordinary aircraft, judge weather conditions, and respond to possible traffic. Smith and Stevens were not standing in a crowd reacting to a rumour; they were operating a commercial aircraft and initially treated the objects as possible traffic. In James E. McDonald’s later account, Stevens first switched on the landing lights because he thought the objects might be aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/ual105.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -287,7 +285,6 @@ The presence of a third crew witness also matters. Smith reportedly called stewa
 The case also stands out because Smith was not presented as an eager saucer believer before the event. Project 1947’s reproduction of Loren Gross’s account says Smith had earlier joked that he would believe in the discs when he saw them, and that the Boise tower had also jokingly warned the departing crew to watch for “flying saucers”. That detail cuts both ways. It supports the picture of Smith as initially sceptical, but it also shows that the idea of flying saucers was already in the air culturally and literally being mentioned to the crew before departure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/ual105.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For Idaho’s UFO history, this is the case’s central human value. It shows how quickly the 1947 saucer wave moved from newspaper curiosity to professional aviation testimony. Ten days after [Kenneth Arnold]({{ 'kenneth-arnold/' | relative_url }})’s famous Mount Rainier report helped popularise the “flying saucer” language, an aircrew leaving Boise reported something that seemed to echo the new pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">1947 year flying saucer</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OarL8ymktIE" title="Kenneth Arnold UFO Sighting, 1947" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OarL8ymktIE" target="_blank" rel="noopener noreferrer">Kenneth Arnold UFO Sighting, 1947</a></p><p class="youtube-embed-meta">Channel: Think Anomalous &middot; Views: 45.2K &middot; Uploaded: October 2016 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OarL8ymktIE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OarL8ymktIE">Open on YouTube</a></p></div></div></div>
 
@@ -303,8 +300,7 @@ The official Blue Book context is more restrained than many UFO retellings. The 
 
 This matters for how the Emmett case should be read. “Unidentified” in Blue Book language does not mean “proven extraordinary”. It means the available information did not allow a confident conventional identification. In the Emmett case, that is a fair description: the witnesses were strong, but the observation record was too thin to settle the matter.
 
-
-<img src="{{ "/assets/images/Idaho_18334c_emmett_airline_case_c3d091-Illustration-2-light.svg" | relative_url }}" alt="Emmett Sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_emmett_airline_case_c3d091-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_emmett_airline_case_c3d091-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Idaho_18334c_emmett_airline_case_c3d091-Illustration-2-dark.svg" | relative_url }}" alt="Emmett Sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_emmett_airline_case_c3d091-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_emmett_airline_case_c3d091-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What investigators could and could not establish
 
 The most persuasive part of the Emmett case is the flight setting. The crew had a known route, a known departure point, and a reasonably narrow time window. Later summaries place the sighting about eight minutes out of Boise, near Emmett, while Flight 105 was climbing from roughly 7,000 to 8,000 feet. Smith reportedly tried to close on the objects but could not gain enough speed in the DC-3 to do so. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/ual105.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -314,7 +310,6 @@ The observational limits are just as important. The crew could not fix the objec
 McDonald’s later pro-UFO analysis argued that the case was strong because it involved experienced observers, clear weather, multiple witnesses, and a relatively long duration. He also reported that Smith stressed the absence of confusing cloud phenomena and refused to speculate about the objects’ origin. Those points strengthen the case against glib dismissal, especially against explanations that require the crew to have imagined the entire event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/ual105.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 But the same record does not prove a structured craft. The description “thin and smooth on the bottom and rough on top” is vivid, yet not technically precise. The objects were seen in twilight or sunset conditions, which the later Air Materiel Command sceptical assessment treated as important because illusory effects are more likely then. A balanced reading has to hold both points together: the witnesses were credible, and the viewing conditions were not ideal for exact identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cCxtUqZA2Zw" title="The 1947 United Airlines Flight UFO Sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cCxtUqZA2Zw" target="_blank" rel="noopener noreferrer">The 1947 United Airlines Flight UFO Sighting</a></p><p class="youtube-embed-meta">Channel: Street of Silence &middot; Views: 1.0K &middot; Uploaded: August 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cCxtUqZA2Zw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cCxtUqZA2Zw">Open on YouTube</a></p></div></div></div>
 
@@ -328,8 +323,7 @@ Balloons or birds are also possible in the abstract, especially when objects are
 
 The cultural setting is another doubt. By 4 July 1947, newspapers were already carrying saucer stories across the United States. The Smithsonian National Air and Space Museum describes how Arnold’s report quickly spread through Associated Press wording such as “saucer-like objects”, and Ruppelt’s account places the Emmett report among a burst of similar July sightings. A crew primed to think about “flying saucers” could still see a real unknown object, but expectation can shape what people notice, how they describe it, and what they rule out too quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">1947 year flying saucer</span></span></span>
 
-
-<img src="{{ "/assets/images/Idaho_18334c_emmett_airline_case_c3d091-Illustration-3-light.svg" | relative_url }}" alt="Emmett Sighting illustration 3" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_emmett_airline_case_c3d091-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_emmett_airline_case_c3d091-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Idaho_18334c_emmett_airline_case_c3d091-Illustration-3-dark.svg" | relative_url }}" alt="Emmett Sighting illustration 3" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_emmett_airline_case_c3d091-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_emmett_airline_case_c3d091-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How later reporting strengthened and weakened the case
 
 Later reporting strengthened the Emmett case by preserving names, timing, route details, and a relatively consistent sequence: Flight 105 leaves Boise; the crew sees five objects; Morrow confirms the sighting; four more objects appear; the pilots attempt to obtain ground confirmation; the objects disappear. The case was prominent enough that it received national attention and later became a staple of historical UFO chronologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bb/BB_Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
@@ -339,7 +333,6 @@ It was also strengthened by later testimony attributed to Smith. McDonald wrote 
 But later reporting also weakened the case in a subtler way, because retellings often harden uncertain details into cleaner claims. Some accounts emphasise “disc-shaped” objects; Ruppelt’s quoted pilot report is more cautious, saying the crew could not be sure whether they were smearlike, oval, or something else. Some summaries treat the total of nine objects as straightforward; the underlying sequence involved one group fading or vanishing and another group appearing. The more precise the retelling sounds, the more careful the reader should be. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The later association of Smith with the Maury Island affair also complicates the surrounding folklore, though it does not by itself discredit the Emmett observation. The Maury Island story is widely regarded as a hoax, and Ruppelt later called it one of the dirtiest hoaxes in UFO history. The important distinction is that the Emmett sighting came first and rests on separate flight-[crew testimony]({{ 'crew-testimony/' | relative_url }}); later involvement in the broader saucer scene belongs to the history of reception, not to the original cockpit observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Maury_Island_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Maury Island incident</span><span class="citation-popover-snippet">Maury Island incident</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ivabTcSu_qU" title="The Report On Unidentified Flying Objects… by EDWARD J. RUPPELT · Audiobook preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ivabTcSu_qU" target="_blank" rel="noopener noreferrer">The Report On Unidentified Flying Objects… by EDWARD J. RUPPELT · Audiobook preview</a></p><p class="youtube-embed-meta">Channel: Google Play Books &middot; Views: 63 &middot; Uploaded: February 2024 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ivabTcSu_qU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ivabTcSu_qU">Open on YouTube</a></p></div></div></div>
 
@@ -441,7 +434,7 @@ The Emmett airline crew case remains one of Idaho’s strongest UFO reports beca
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -451,111 +444,36 @@ The Emmett airline crew case remains one of Idaho’s strongest UFO reports beca
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dc+3+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-emmett-airline-ufo-case-reveals-dc-3-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dc 3 model" data-ebay-reference="what-the-emmett-airline-ufo-case-reveals-dc-3-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corgi Aviation 1:144 Diecast Model Aircraft Douglas DC3 Air France 47110"><img src="https://i.ebayimg.com/images/g/Ju4AAeSw~qpqHBbX/s-l225.jpg" alt="Listing image for Corgi Aviation 1:144 Diecast Model Aircraft Douglas DC3 Air France 47110" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dc+3+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-emmett-airline-ufo-case-reveals-dc-3-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dc 3 model" data-ebay-reference="what-the-emmett-airline-ufo-case-reveals-dc-3-model" target="_blank" rel="sponsored noopener noreferrer">Corgi Aviation 1:144 Diecast Model Aircraft Douglas DC3 Air France 47110</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dc+3+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-emmett-airline-ufo-case-reveals-dc-3-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dc 3 model" data-ebay-reference="what-the-emmett-airline-ufo-case-reveals-dc-3-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dc 3 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: dc 3 model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dc+3+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-emmett-airline-ufo-case-reveals-dc-3-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dc 3 model" data-ebay-reference="what-the-emmett-airline-ufo-case-reveals-dc-3-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,15 +481,15 @@ The Emmett airline crew case remains one of Idaho’s strongest UFO reports beca
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dc+3+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-emmett-airline-ufo-case-reveals-dc-3-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dc 3 model" data-ebay-reference="what-the-emmett-airline-ufo-case-reveals-dc-3-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CORGI DS90336 100 YEARS OF FLIGHT DC-3 AIR ATLANTIQUE AIRCRAFT DIECAST MODEL MIP"><img src="https://i.ebayimg.com/images/g/OnYAAeSwHNFqEhSD/s-l225.jpg" alt="Listing image for CORGI DS90336 100 YEARS OF FLIGHT DC-3 AIR ATLANTIQUE AIRCRAFT DIECAST MODEL MIP" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dc+3+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-emmett-airline-ufo-case-reveals-dc-3-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dc 3 model" data-ebay-reference="what-the-emmett-airline-ufo-case-reveals-dc-3-model" target="_blank" rel="sponsored noopener noreferrer">CORGI DS90336 100 YEARS OF FLIGHT DC-3 AIR ATLANTIQUE AIRCRAFT DIECAST MODEL MIP</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dc+3+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-emmett-airline-ufo-case-reveals-dc-3-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dc 3 model" data-ebay-reference="what-the-emmett-airline-ufo-case-reveals-dc-3-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dc 3 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: dc 3 model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dc+3+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-emmett-airline-ufo-case-reveals-dc-3-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dc 3 model" data-ebay-reference="what-the-emmett-airline-ufo-case-reveals-dc-3-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -579,15 +497,15 @@ The Emmett airline crew case remains one of Idaho’s strongest UFO reports beca
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dc+3+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-emmett-airline-ufo-case-reveals-dc-3-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dc 3 model" data-ebay-reference="what-the-emmett-airline-ufo-case-reveals-dc-3-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DC3 Dakota Metal Model Plane 30cm Memorabilia Gift Home Decor Aluminium"><img src="https://i.ebayimg.com/images/g/S0EAAeSwWuBpJ8n4/s-l225.jpg" alt="Listing image for DC3 Dakota Metal Model Plane 30cm Memorabilia Gift Home Decor Aluminium" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dc+3+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-emmett-airline-ufo-case-reveals-dc-3-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dc 3 model" data-ebay-reference="what-the-emmett-airline-ufo-case-reveals-dc-3-model" target="_blank" rel="sponsored noopener noreferrer">DC3 Dakota Metal Model Plane 30cm Memorabilia Gift Home Decor Aluminium</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dc+3+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-emmett-airline-ufo-case-reveals-dc-3-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dc 3 model" data-ebay-reference="what-the-emmett-airline-ufo-case-reveals-dc-3-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dc 3 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: dc 3 model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dc+3+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-emmett-airline-ufo-case-reveals-dc-3-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dc 3 model" data-ebay-reference="what-the-emmett-airline-ufo-case-reveals-dc-3-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -595,15 +513,15 @@ The Emmett airline crew case remains one of Idaho’s strongest UFO reports beca
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dc+3+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-emmett-airline-ufo-case-reveals-dc-3-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dc 3 model" data-ebay-reference="what-the-emmett-airline-ufo-case-reveals-dc-3-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corgi Aviation 1:144 Scale Diecast Model Douglas DC3 Dakota Lufthansa"><img src="https://i.ebayimg.com/images/g/iZ8AAeSwuzJp4117/s-l225.jpg" alt="Listing image for Corgi Aviation 1:144 Scale Diecast Model Douglas DC3 Dakota Lufthansa" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dc+3+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-emmett-airline-ufo-case-reveals-dc-3-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dc 3 model" data-ebay-reference="what-the-emmett-airline-ufo-case-reveals-dc-3-model" target="_blank" rel="sponsored noopener noreferrer">Corgi Aviation 1:144 Scale Diecast Model Douglas DC3 Dakota Lufthansa</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dc+3+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-emmett-airline-ufo-case-reveals-dc-3-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dc 3 model" data-ebay-reference="what-the-emmett-airline-ufo-case-reveals-dc-3-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dc 3 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: dc 3 model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dc+3+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-emmett-airline-ufo-case-reveals-dc-3-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dc 3 model" data-ebay-reference="what-the-emmett-airline-ufo-case-reveals-dc-3-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -611,7 +529,7 @@ The Emmett airline crew case remains one of Idaho’s strongest UFO reports beca
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emmett-sighting-what-the-emmett-airline-ufo-case-reveals-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=dc+3+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-emmett-airline-ufo-case-reveals-dc-3-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dc 3 model" data-ebay-reference="what-the-emmett-airline-ufo-case-reveals-dc-3-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -688,17 +606,31 @@ The Emmett airline crew case remains one of Idaho’s strongest UFO reports beca
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -711,42 +643,73 @@ The Emmett airline crew case remains one of Idaho’s strongest UFO reports beca
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -761,12 +724,17 @@ The Emmett airline crew case remains one of Idaho’s strongest UFO reports beca
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -776,182 +744,182 @@ The Emmett airline crew case remains one of Idaho’s strongest UFO reports beca
 
 1. <a id="endnote-1"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
 
 2. <a id="endnote-2"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: [https://www.nicap.org/Good_Cases/470704emmett_dir.htm](https://www.nicap.org/Good_Cases/470704emmett_dir.htm)  
+   Link: <a href="https://www.nicap.org/Good_Cases/470704emmett_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/Good_Cases/470704emmett_dir.htm</a>  
 
 3. <a id="endnote-3"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nicap.org  
    Title: 470704emmett e  
-   Link: [https://www.nicap.org/reports/470704emmett_e.htm](https://www.nicap.org/reports/470704emmett_e.htm)  
+   Link: <a href="https://www.nicap.org/reports/470704emmett_e.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/470704emmett_e.htm</a>  
 
 5. <a id="endnote-5"></a>
    Source: project1947.com  
-   Link: [https://www.project1947.com/fig/ual105.htm](https://www.project1947.com/fig/ual105.htm)  
+   Link: <a href="https://www.project1947.com/fig/ual105.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/ual105.htm</a>  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Flight 105 UFO sighting  
-   Link: [https://en.wikipedia.org/wiki/Flight_105_UFO_sighting](https://en.wikipedia.org/wiki/Flight_105_UFO_sighting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flight_105_UFO_sighting</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Maury Island incident  
-   Link: [https://en.wikipedia.org/wiki/Maury_Island_incident](https://en.wikipedia.org/wiki/Maury_Island_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Maury_Island_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Maury_Island_incident</a>  
 
 9. <a id="endnote-9"></a>
    Source: nicap.org  
-   Link: [https://nicap.org/waves/Wave47Rpt/ReportOnWaveOf1947.pdf](https://nicap.org/waves/Wave47Rpt/ReportOnWaveOf1947.pdf)  
+   Link: <a href="https://nicap.org/waves/Wave47Rpt/ReportOnWaveOf1947.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nicap.org/waves/Wave47Rpt/ReportOnWaveOf1947.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: nicap.org  
    Title: swords Sign EOTS  
-   Link: [https://www.nicap.org/papers/swords_Sign_EOTS.htm](https://www.nicap.org/papers/swords_Sign_EOTS.htm)  
+   Link: <a href="https://www.nicap.org/papers/swords_Sign_EOTS.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/papers/swords_Sign_EOTS.htm</a>  
 
 11. <a id="endnote-11"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1947fullrep.htm](https://www.nicap.org/chronos/1947fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1947fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1947fullrep.htm</a>  
 
 12. <a id="endnote-12"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/bb/BB_Unknowns.pdf](https://www.nicap.org/bb/BB_Unknowns.pdf)  
+   Link: <a href="https://www.nicap.org/bb/BB_Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bb/BB_Unknowns.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: nicap.org  
    Title: UFOsand Intelligence  
-   Link: [https://www.nicap.org/Intel/UFOsandIntelligence.pdf](https://www.nicap.org/Intel/UFOsandIntelligence.pdf)  
+   Link: <a href="https://www.nicap.org/Intel/UFOsandIntelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/Intel/UFOsandIntelligence.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1948fullrep.htm](https://www.nicap.org/chronos/1948fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1948fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1948fullrep.htm</a>  
 
 15. <a id="endnote-15"></a>
    Source: nicap.org  
    Title: NSID DBListingby City  
-   Link: [https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf](https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf)  
+   Link: <a href="https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: nicap.org  
    Title: NSID DBListingby Date  
-   Link: [https://www.nicap.org/NSID/NSID_DBListingbyDate.pdf](https://www.nicap.org/NSID/NSID_DBListingbyDate.pdf)  
+   Link: <a href="https://www.nicap.org/NSID/NSID_DBListingbyDate.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyDate.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: nicap.org  
    Title: NSID DBListingby State Country  
-   Link: [https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf](https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf)  
+   Link: <a href="https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold UFO sighting  
-   Link: [https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting](https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: The Report on Unidentified Flying Objects  
-   Link: [https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects](https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects</a>  
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: [https://en.wikipedia.org/wiki/1947_flying_disc_craze](https://en.wikipedia.org/wiki/1947_flying_disc_craze)  
+   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 
 22. <a id="endnote-22"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/ebooks/17346.epub.images](https://www.gutenberg.org/ebooks/17346.epub.images)  
+   Link: <a href="https://www.gutenberg.org/ebooks/17346.epub.images" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/17346.epub.images</a>  
 
 23. <a id="endnote-23"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/ebooks/5883.epub.images](https://www.gutenberg.org/ebooks/5883.epub.images)  
+   Link: <a href="https://www.gutenberg.org/ebooks/5883.epub.images" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/5883.epub.images</a>  
 
 24. <a id="endnote-24"></a>
    Source: time.graphics  
-   Link: [https://time.graphics/event/10182928](https://time.graphics/event/10182928)  
+   Link: <a href="https://time.graphics/event/10182928" target="_blank" rel="noopener noreferrer nofollow">https://time.graphics/event/10182928</a>  
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: FLIGHT 105  
-   Link: [http://www.youtube.com/watch?v=mFVUmmaRdXo](http://www.youtube.com/watch?v=mFVUmmaRdXo)  
+   Link: <a href="http://www.youtube.com/watch?v=mFVUmmaRdXo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mFVUmmaRdXo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1947 United Airlines Flight UFO Sighting...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=OarL8ymktIE](http://www.youtube.com/watch?v=OarL8ymktIE)  
+   Link: <a href="http://www.youtube.com/watch?v=OarL8ymktIE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=OarL8ymktIE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FLIGHT 105 - THE SIGHTING THAT CHANGED EVERYTHING Untold Nightmares · 9 views...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: airandspace.si.edu  
    Title: 1947 year flying saucer  
-   Link: [https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer](https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer)  
+   Link: <a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
 
 28. <a id="endnote-28"></a>
    Source: documents.theblackvault.com  
    Title: Kenneth Arnold  
-   Link: [https://documents.theblackvault.com/documents/MUFON/Pratt/KennethArnold.pdf](https://documents.theblackvault.com/documents/MUFON/Pratt/KennethArnold.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/MUFON/Pratt/KennethArnold.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/MUFON/Pratt/KennethArnold.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: [https://origins.osu.edu/read/air-force-investigation-ufos](https://origins.osu.edu/read/air-force-investigation-ufos)  
+   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
 31. <a id="endnote-31"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v1](https://arxiv.org/html/2502.06794v1)  
+   Link: <a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=yYmvf-KknTQ](http://www.youtube.com/watch?v=yYmvf-KknTQ)  
+   Link: <a href="http://www.youtube.com/watch?v=yYmvf-KknTQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=yYmvf-KknTQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The fascination, history behind UFO sightings in Idaho...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=cCxtUqZA2Zw](http://www.youtube.com/watch?v=cCxtUqZA2Zw)  
+   Link: <a href="http://www.youtube.com/watch?v=cCxtUqZA2Zw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=cCxtUqZA2Zw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United Airlines Crew Encounters MYSTERIOUS UFO on July 4th 1947...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: feralhouse.com  
-   Link: [https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf](https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf)  
+   Link: <a href="https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/](https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/</a>  
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/smithsonianmagazine/posts/as-technologies-of-flight-evolve-so-do-the-descriptions-of-unidentified-flying-o/1336095551715965/](https://www.facebook.com/smithsonianmagazine/posts/as-technologies-of-flight-evolve-so-do-the-descriptions-of-unidentified-flying-o/1336095551715965/)  
+   Link: <a href="https://www.facebook.com/smithsonianmagazine/posts/as-technologies-of-flight-evolve-so-do-the-descriptions-of-unidentified-flying-o/1336095551715965/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/smithsonianmagazine/posts/as-technologies-of-flight-evolve-so-do-the-descriptions-of-unidentified-flying-o/1336095551715965/</a>  
 
 37. <a id="endnote-37"></a>
    Source: ufodossier.com  
-   Link: [https://www.ufodossier.com/incident/1947-gov-captain-smith-and-co-pilot-f47f](https://www.ufodossier.com/incident/1947-gov-captain-smith-and-co-pilot-f47f)  
+   Link: <a href="https://www.ufodossier.com/incident/1947-gov-captain-smith-and-co-pilot-f47f" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodossier.com/incident/1947-gov-captain-smith-and-co-pilot-f47f</a>  
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/prettygrittytours/posts/did-you-know-that-washington-is-the-birthplace-of-the-term-flying-saucer-and-the/936792015046902/](https://www.facebook.com/prettygrittytours/posts/did-you-know-that-washington-is-the-birthplace-of-the-term-flying-saucer-and-the/936792015046902/)  
+   Link: <a href="https://www.facebook.com/prettygrittytours/posts/did-you-know-that-washington-is-the-birthplace-of-the-term-flying-saucer-and-the/936792015046902/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/prettygrittytours/posts/did-you-know-that-washington-is-the-birthplace-of-the-term-flying-saucer-and-the/936792015046902/</a>  
 
 39. <a id="endnote-39"></a>
    Source: jasoncolavito.com  
-   Link: [https://www.jasoncolavito.com/flying-saucers-are-real.html](https://www.jasoncolavito.com/flying-saucers-are-real.html)  
+   Link: <a href="https://www.jasoncolavito.com/flying-saucers-are-real.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/flying-saucers-are-real.html</a>

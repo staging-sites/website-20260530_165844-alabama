@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /rutledge-study/
 nav_short_title: Instruments
 title: What did Rutledge's instruments really prove?
-title_full: What did Rutledge's instruments really prove? | Rutledge Study
+title_full: What did Rutledge's instruments really prove?
 display_title_short: Instruments
 display_title: Instruments
 heading_title: What did Rutledge's instruments really prove?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:32:22'
-parent_title: Did Project Identification Solve Missouri's UFO Mystery? | Missouri UFOs
+parent_title: Did Project Identification Solve Missouri's UFO Mystery?
 parent_permalink: /rutledge-study/
 parent_nav_short_title: Rutledge Study
 parent_heading_title: Did Project Identification Solve Missouri's UFO Mystery?
@@ -250,10 +250,9 @@ image: /assets/images/Missouri_d961c4_rutledge_project_ide_c8789d_rutledge_instr
 
 ## Introduction
 
-Harley Rutledge’s Project Identification became one of the most unusual episodes in [Missouri]({{ 'what-really-happened-in-missouris-ufo/' | relative_url }})’s UFO history because it tried to move beyond stories and into measurement. During the 1973 Piedmont-area sightings, Rutledge and his team did not simply interview witnesses after the fact. They brought telescopes, cameras, optical instruments and electronic sensors into the field and attempted to observe reported objects in real time. That approach raised the evidential standard compared with ordinary UFO reports. It also exposed a harder truth: instruments could document unusual lights and movements, but they could not automatically reveal what those lights actually were. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Harley Rutledge</span><span class="citation-popover-snippet">Harley Rutledge</span></span></span>
+Harley Rutledge’s Project Identification became one of the most unusual episodes in Missouri’s UFO history because it tried to move beyond stories and into measurement. During the 1973 Piedmont-area sightings, Rutledge and his team did not simply interview witnesses after the fact. They brought telescopes, cameras, optical instruments and electronic sensors into the field and attempted to observe reported objects in real time. That approach raised the evidential standard compared with ordinary UFO reports. It also exposed a harder truth: instruments could document unusual lights and movements, but they could not automatically reveal what those lights actually were. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Harley Rutledge</span><span class="citation-popover-snippet">Harley Rutledge</span></span></span>
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_rutledge_project_ide_c8789d_rutledge_instruments_1746ed-Illustration-1-light.svg" | relative_url }}" alt="Instruments illustration 1" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_rutledge_project_ide_c8789d_rutledge_instruments_1746ed-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_rutledge_project_ide_c8789d_rutledge_instruments_1746ed-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Missouri_d961c4_rutledge_project_ide_c8789d_rutledge_instruments_1746ed-Illustration-1-dark.svg" | relative_url }}" alt="Instruments illustration 1" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_rutledge_project_ide_c8789d_rutledge_instruments_1746ed-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_rutledge_project_ide_c8789d_rutledge_instruments_1746ed-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The lasting importance of Project Identification is therefore not that it proved alien craft or some exotic technology. It showed that some Missouri sightings were persistent enough to attract sustained observation by trained investigators, and that at least some observations resisted easy dismissal. At the same time, the measurements never reached the level needed for a secure identification. The equipment produced data, but not a definitive origin story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Harley Rutledge</span><span class="citation-popover-snippet">Harley Rutledge</span></span></span>
 
 ## What equipment the field team used
@@ -264,8 +263,7 @@ Rutledge assembled a field operation that looked very different from the typical
 * **Photographic equipment** allowed sightings to be recorded rather than relying solely on memory.
 * **Spectrum-analysis instruments** were intended to examine the light itself, looking for clues about its source.
 * **Electromagnetic and magnetic sensors** were used in the hope that unusual aerial objects might produce measurable physical effects.
-* **Audio equipment** was intended to detect sounds outside normal human hearing or capture timing information during observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaticanobservatory.org">[Vatican Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaticanobservatory.org</span><span class="citation-popover-title">Vatican Observatory MO UFOs</span><span class="citation-popover-snippet">and Miracles - Vatican...11 Oct 2025 — Harley Rutledge — head of the Physics Department at a nearby university — decided to subject thes...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Harley Rutledge</span><span class="citation-popover-snippet">Harley Rutledge</span></span></span> The choice of equipment reflected Rutledge’s background as a physicist. Instead of treating UFO reports purely as witness testimony, he tried to treat them as observable events that might leave measurable traces. That was unusual enough in the 1970s that later reviews of instrument-based UFO research still cite Project Identification as an early example of a structured field study. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Historical Insights, Current Challenges, and Future Directions</span><span class="citation-popover-snippet">ResearchGateHistorical Insights, Current Challenges, and Future DirectionsJanuary 31, 2024 — We provide an overview of some past and curr...</span><span class="citation-popover-meta">Published: January 31, 2024</span></span></span>
-
+* **Audio equipment** was intended to detect sounds outside normal human hearing or capture timing information during observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaticanobservatory.org">[Vatican Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaticanobservatory.org</span><span class="citation-popover-title">Vatican Observatory MO UFOs</span><span class="citation-popover-snippet">and Miracles - Vatican...11 Oct 2025 — Harley Rutledge — head of the Physics Department at a nearby university — decided to subject thes...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Harley Rutledge</span><span class="citation-popover-snippet">Harley Rutledge</span></span></span> The choice of equipment reflected Rutledge’s background as a physicist. Instead of treating UFO reports purely as witness testimony, he tried to treat them as observable events that might leave measurable traces. That was unusual enough in the 1970s that later reviews of instrument-based UFO research still cite Project Identification as an early example of a structured field study. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Historical Insights, Current Challenges, and Future Directions</span><span class="citation-popover-snippet">Historical Insights, Current Challenges, and Future DirectionsJanuary 31, 2024 — We provide an overview of some past and curr...</span><span class="citation-popover-meta">Published: January 31, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FP0bWr_PDb4" title="Unveiling 50-Year-Old UFO Mysteries | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FP0bWr_PDb4" target="_blank" rel="noopener noreferrer">Unveiling 50-Year-Old UFO Mysteries | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 51.4K &middot; Uploaded: March 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FP0bWr_PDb4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FP0bWr_PDb4">Open on YouTube</a></p></div></div></div>
 
@@ -276,7 +274,6 @@ The strongest contribution of the equipment was not that it solved the mystery. 
 Human observers are often poor judges of distance, altitude and speed at night. A bright light against a dark sky can appear much larger, faster or closer than it really is. Witnesses can also influence one another when discussing what they think they saw. By placing trained observers at known locations and using optical equipment, Rutledge attempted to create a more controlled record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Harley Rutledge</span><span class="citation-popover-snippet">Harley Rutledge</span></span></span>
 
 This allowed investigators to do things that ordinary eyewitnesses could not easily do:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -292,8 +289,7 @@ Rutledge argued that repeated observations by trained teams made it possible to 
 
 A useful example is the project's attention to what Rutledge called "pseudostars" — lights that appeared stationary and blended into familiar star patterns. Such observations highlighted how easily ordinary sky objects could be misperceived and why telescopic observation mattered. Instruments did not merely support extraordinary claims; they also exposed potential errors in perception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaticanobservatory.org">[Vatican Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaticanobservatory.org</span><span class="citation-popover-title">Vatican Observatory MO UFOs</span><span class="citation-popover-snippet">and Miracles - Vatican...11 Oct 2025 — Harley Rutledge — head of the Physics Department at a nearby university — decided to subject thes...</span></span></span>
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_rutledge_project_ide_c8789d_rutledge_instruments_1746ed-Illustration-2-light.svg" | relative_url }}" alt="Instruments illustration 2" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_rutledge_project_ide_c8789d_rutledge_instruments_1746ed-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_rutledge_project_ide_c8789d_rutledge_instruments_1746ed-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Missouri_d961c4_rutledge_project_ide_c8789d_rutledge_instruments_1746ed-Illustration-2-dark.svg" | relative_url }}" alt="Instruments illustration 2" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_rutledge_project_ide_c8789d_rutledge_instruments_1746ed-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_rutledge_project_ide_c8789d_rutledge_instruments_1746ed-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the photographs actually showed
 
 Photographs became some of the most discussed pieces of Project Identification evidence, but they illustrate both the value and the limits of instrumentation.
@@ -304,15 +300,11 @@ Rutledge reported cases in which lights appeared differently in photographs than
 
 For sceptics, photographs of lights were often evidence of the limitations of night photography. For supporters of the project, they were evidence that the events were not purely invented or remembered incorrectly. Neither side could use the images alone to identify the source of the lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaticanobservatory.org">[Vatican Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaticanobservatory.org</span><span class="citation-popover-title">Vatican Observatory MO UFOs</span><span class="citation-popover-snippet">and Miracles - Vatican...11 Oct 2025 — Harley Rutledge — head of the Physics Department at a nearby university — decided to subject thes...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jt6CYeXj6Wk" title="Our airbnb At Clearwater Lake in Piedmont Missouri The UFO capital of Missouri!!! #UFO #VACATION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jt6CYeXj6Wk" target="_blank" rel="noopener noreferrer">Our airbnb At Clearwater Lake in Piedmont Missouri The UFO capital of Missouri!!! #UFO #VACATION</a></p><p class="youtube-embed-meta">Channel: Chandlers Legacy Farm &middot; Views: 572 &middot; Uploaded: January 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jt6CYeXj6Wk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jt6CYeXj6Wk">Open on YouTube</a></p></div></div></div>
-
 ## Why the readings still fell short of identification
 
 The central problem facing Rutledge's equipment was that measuring a phenomenon is not the same thing as explaining it.
 
 Even if observers could establish that a light moved unusually, appeared unexpectedly or produced an unusual photographic result, several critical questions often remained unanswered:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -320,16 +312,15 @@ Even if observers could establish that a light moved unusually, appeared unexpec
 * Was it a single object or an optical effect?
 * Was it atmospheric, astronomical or man-made?
 * Could the observation be reproduced?
-* Did multiple instruments independently confirm the same event? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Historical Insights, Current Challenges, and Future Directions</span><span class="citation-popover-snippet">ResearchGateHistorical Insights, Current Challenges, and Future DirectionsJanuary 31, 2024 — We provide an overview of some past and curr...</span><span class="citation-popover-meta">Published: January 31, 2024</span></span></span>
+* Did multiple instruments independently confirm the same event? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Historical Insights, Current Challenges, and Future Directions</span><span class="citation-popover-snippet">Historical Insights, Current Challenges, and Future DirectionsJanuary 31, 2024 — We provide an overview of some past and curr...</span><span class="citation-popover-meta">Published: January 31, 2024</span></span></span>
 
 </div>
 
-Modern discussions of instrumented UFO research frequently emphasise that convincing identification usually requires several independent forms of evidence operating together, such as calibrated optical data, radar information, infrared imaging and precise positional tracking. Project Identification did not possess that level of coverage. Its equipment was advanced for a civilian field project of the 1970s, but it remained limited compared with military or professional astronomical observation networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Historical Insights, Current Challenges, and Future Directions</span><span class="citation-popover-snippet">ResearchGateHistorical Insights, Current Challenges, and Future DirectionsJanuary 31, 2024 — We provide an overview of some past and curr...</span><span class="citation-popover-meta">Published: January 31, 2024</span></span></span>
+Modern discussions of instrumented UFO research frequently emphasise that convincing identification usually requires several independent forms of evidence operating together, such as calibrated optical data, radar information, infrared imaging and precise positional tracking. Project Identification did not possess that level of coverage. Its equipment was advanced for a civilian field project of the 1970s, but it remained limited compared with military or professional astronomical observation networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Historical Insights, Current Challenges, and Future Directions</span><span class="citation-popover-snippet">Historical Insights, Current Challenges, and Future DirectionsJanuary 31, 2024 — We provide an overview of some past and curr...</span><span class="citation-popover-meta">Published: January 31, 2024</span></span></span>
 
-The electromagnetic and magnetic instruments faced a similar challenge. A sensor might record a fluctuation, but proving that the fluctuation was caused by a specific aerial object is much harder. Correlation is not automatically causation. Without precise tracking and independent confirmation, unusual readings remain suggestive rather than conclusive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Historical Insights, Current Challenges, and Future Directions</span><span class="citation-popover-snippet">ResearchGateHistorical Insights, Current Challenges, and Future DirectionsJanuary 31, 2024 — We provide an overview of some past and curr...</span><span class="citation-popover-meta">Published: January 31, 2024</span></span></span>
+The electromagnetic and magnetic instruments faced a similar challenge. A sensor might record a fluctuation, but proving that the fluctuation was caused by a specific aerial object is much harder. Correlation is not automatically causation. Without precise tracking and independent confirmation, unusual readings remain suggestive rather than conclusive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Historical Insights, Current Challenges, and Future Directions</span><span class="citation-popover-snippet">Historical Insights, Current Challenges, and Future DirectionsJanuary 31, 2024 — We provide an overview of some past and curr...</span><span class="citation-popover-meta">Published: January 31, 2024</span></span></span>
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_rutledge_project_ide_c8789d_rutledge_instruments_1746ed-Illustration-3-light.svg" | relative_url }}" alt="Instruments illustration 3" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_rutledge_project_ide_c8789d_rutledge_instruments_1746ed-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_rutledge_project_ide_c8789d_rutledge_instruments_1746ed-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Missouri_d961c4_rutledge_project_ide_c8789d_rutledge_instruments_1746ed-Illustration-3-dark.svg" | relative_url }}" alt="Instruments illustration 3" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_rutledge_project_ide_c8789d_rutledge_instruments_1746ed-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_rutledge_project_ide_c8789d_rutledge_instruments_1746ed-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest claim the instruments supported
 
 The most defensible conclusion from Rutledge's equipment was relatively modest.
@@ -340,9 +331,7 @@ What the instruments did **not** prove was equally important. They did not estab
 
 That restraint is one reason Project Identification still occupies a distinctive place in Missouri's UFO history. The equipment raised the quality of observation, but it also revealed how difficult identification can be. The instruments could show that something unusual had been seen and recorded. They could not bridge the final gap between an unidentified light and a verified explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Harley Rutledge</span><span class="citation-popover-snippet">Harley Rutledge</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaticanobservatory.org">[Vatican]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaticanobservatory.org</span><span class="citation-popover-title">Vatican Observatory MO UFOs</span><span class="citation-popover-snippet">and Miracles - Vatican...11 Oct 2025 — Harley Rutledge — head of the Physics Department at a nearby university — decided to subject thes...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8MS1s5YlhCM" title="Missouri Mysteries, Chapter Two - Unexplained Lights Near Piedmont, Missouri" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8MS1s5YlhCM" target="_blank" rel="noopener noreferrer">Missouri Mysteries, Chapter Two - Unexplained Lights Near Piedmont, Missouri</a></p><p class="youtube-embed-meta">Channel: State Historical Society of Missouri &middot; Views: 20.0K &middot; Uploaded: October 2021 &middot; Length: 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8MS1s5YlhCM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8MS1s5YlhCM">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jt6CYeXj6Wk" title="Our airbnb At Clearwater Lake in Piedmont Missouri The UFO capital of Missouri!!! #UFO #VACATION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jt6CYeXj6Wk" target="_blank" rel="noopener noreferrer">Our airbnb At Clearwater Lake in Piedmont Missouri The UFO capital of Missouri!!! #UFO #VACATION</a></p><p class="youtube-embed-meta">Channel: Chandlers Legacy Farm &middot; Views: 572 &middot; Uploaded: January 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jt6CYeXj6Wk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jt6CYeXj6Wk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -430,7 +419,7 @@ That restraint is one reason Project Identification still occupies a distinctive
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -440,111 +429,36 @@ That restraint is one reason Project Identification still occupies a distinctive
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-rutledge-s-instruments-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-rutledge-s-instruments-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-rutledge-s-instruments-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-rutledge-s-instruments-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-rutledge-s-instruments-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-rutledge-s-instruments-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-rutledge-s-instruments-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-rutledge-s-instruments-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -552,15 +466,15 @@ That restraint is one reason Project Identification still occupies a distinctive
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-rutledge-s-instruments-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-rutledge-s-instruments-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-rutledge-s-instruments-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-rutledge-s-instruments-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-rutledge-s-instruments-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-rutledge-s-instruments-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-rutledge-s-instruments-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-rutledge-s-instruments-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -568,15 +482,15 @@ That restraint is one reason Project Identification still occupies a distinctive
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-rutledge-s-instruments-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-rutledge-s-instruments-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-rutledge-s-instruments-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-rutledge-s-instruments-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-rutledge-s-instruments-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-rutledge-s-instruments-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-rutledge-s-instruments-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-rutledge-s-instruments-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -584,15 +498,15 @@ That restraint is one reason Project Identification still occupies a distinctive
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-rutledge-s-instruments-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-rutledge-s-instruments-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-rutledge-s-instruments-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-rutledge-s-instruments-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-rutledge-s-instruments-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-rutledge-s-instruments-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-rutledge-s-instruments-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-rutledge-s-instruments-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -600,7 +514,7 @@ That restraint is one reason Project Identification still occupies a distinctive
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=instruments-what-did-rutledge-s-instruments-really-prove-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-rutledge-s-instruments-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-rutledge-s-instruments-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -677,17 +591,31 @@ That restraint is one reason Project Identification still occupies a distinctive
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -700,42 +628,73 @@ That restraint is one reason Project Identification still occupies a distinctive
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -750,12 +709,17 @@ That restraint is one reason Project Identification still occupies a distinctive
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -766,90 +730,90 @@ That restraint is one reason Project Identification still occupies a distinctive
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Harley Rutledge  
-   Link: [https://en.wikipedia.org/wiki/Harley_Rutledge](https://en.wikipedia.org/wiki/Harley_Rutledge)  
+   Link: <a href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harley_Rutledge</a>  
 
 2. <a id="endnote-2"></a>
    Source: books.google.rw  
-   Link: [https://books.google.rw/books?id=3claAAAAYAAJ&source=gbs_navlinks_s](https://books.google.rw/books?id=3claAAAAYAAJ&source=gbs_navlinks_s)  
+   Link: <a href="https://books.google.rw/books?id=3claAAAAYAAJ&amp;source=gbs_navlinks_s" target="_blank" rel="noopener noreferrer nofollow">https://books.google.rw/books?id=3claAAAAYAAJ&amp;source=gbs_navlinks_s</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksThe First Scientific Field Study of UFO PhenomenaProject Identification: The First Scientific Field Study of UFO Phenomena...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv The New Science of Unidentified Aerospace-Undersea  
-   Link: [https://arxiv.org/html/2502.06794v1](https://arxiv.org/html/2502.06794v1)  
+   Link: <a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Review 20 (1) (1974) 12–16, July 1974. [418] H. D. Rutledge, Project Identification: the first scientific field study of UFO phenomena, P...</p></details>
    Published: July 1974  
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate Historical Insights, Current Challenges, and Future Directions  
-   Link: [https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions](https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateHistorical Insights, Current Challenges, and Future DirectionsJanuary 31, 2024 — We provide an overview of some past and curr...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Insights, Current Challenges, and Future DirectionsJanuary 31, 2024 — We provide an overview of some past and curr...</p></details>
    Published: January 31, 2024  
 
 5. <a id="endnote-5"></a>
    Source: vaticanobservatory.org  
    Title: Vatican Observatory MO UFOs  
-   Link: [https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/](https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/)  
+   Link: <a href="https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Miracles - Vatican...11 Oct 2025 — Harley Rutledge — head of the Physics Department at a nearby university — decided to subject thes...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: vaticanobservatory.org  
    Title: ufos in mo  
-   Link: [https://www.vaticanobservatory.org/sacred-space-astronomy/ufos-in-mo/](https://www.vaticanobservatory.org/sacred-space-astronomy/ufos-in-mo/)  
+   Link: <a href="https://www.vaticanobservatory.org/sacred-space-astronomy/ufos-in-mo/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaticanobservatory.org/sacred-space-astronomy/ufos-in-mo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Oct 2025 — He issued a public paper in 1973, which he later turned into a book called Project Identification: The First Scientific Fiel...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010012-8.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010012-8.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010012-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010012-8.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DAILY NEWSIt said that 90 percent of all UFO sightings prove to be plausibly relat- ed to planes, space satellites, bal- loons and variou...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sos.mo.gov  
-   Link: [https://www.sos.mo.gov/symbol/ufo](https://www.sos.mo.gov/symbol/ufo)  
+   Link: <a href="https://www.sos.mo.gov/symbol/ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.sos.mo.gov/symbol/ufo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>State UFO Capitals of MissouriRutledge, Harley D. Project Identification: The First Scientific Field Study of UFO Phenomena. Englewood Cl...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Project-Identification-Harley-D-Rutledge/dp/0137307136](https://www.amazon.co.uk/Project-Identification-Harley-D-Rutledge/dp/0137307136)  
+   Link: <a href="https://www.amazon.co.uk/Project-Identification-Harley-D-Rutledge/dp/0137307136" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Project-Identification-Harley-D-Rutledge/dp/0137307136</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project IdentificationThis book is the result of an investigation headed by the author (who has a Ph.D. in Physics) who used many scienti...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/darkozarks/posts/there-has-only-been-one-real-time-academic-investigation-of-an-ufouap-event-and-/964001345901474/](https://www.facebook.com/darkozarks/posts/there-has-only-been-one-real-time-academic-investigation-of-an-ufouap-event-and-/964001345901474/)  
+   Link: <a href="https://www.facebook.com/darkozarks/posts/there-has-only-been-one-real-time-academic-investigation-of-an-ufouap-event-and-/964001345901474/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/darkozarks/posts/there-has-only-been-one-real-time-academic-investigation-of-an-ufouap-event-and-/964001345901474/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Episode...There has only been one real-time, academic investigation of an UFO/UAP event; and it happened here, in the Ozarks. Pi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: missourinet.com  
    Title: greetings earthlings piedmont opens ufo capital of missouri park  
-   Link: [https://www.missourinet.com/2024/06/14/greetings-earthlings-piedmont-opens-ufo-capital-of-missouri-park/](https://www.missourinet.com/2024/06/14/greetings-earthlings-piedmont-opens-ufo-capital-of-missouri-park/)  
+   Link: <a href="https://www.missourinet.com/2024/06/14/greetings-earthlings-piedmont-opens-ufo-capital-of-missouri-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.missourinet.com/2024/06/14/greetings-earthlings-piedmont-opens-ufo-capital-of-missouri-park/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Greetings, Earthlings: Piedmont opens UFO Capital of...14 Jun 2024 — It includes a 16 foot UFO, a six foot tall alien, and playground eq...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: goodreads.com  
-   Link: [https://www.goodreads.com/en/book/show/2827791-project-identification](https://www.goodreads.com/en/book/show/2827791-project-identification)  
+   Link: <a href="https://www.goodreads.com/en/book/show/2827791-project-identification" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/2827791-project-identification</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>atistical tables--reports on and evaluates the findings of the first scientific field...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: amazon.com  
-   Link: [https://www.amazon.com/Project-Identification-first-scientific-phenomena/dp/0137307136](https://www.amazon.com/Project-Identification-first-scientific-phenomena/dp/0137307136)  
+   Link: <a href="https://www.amazon.com/Project-Identification-first-scientific-phenomena/dp/0137307136" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Project-Identification-first-scientific-phenomena/dp/0137307136</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>atistical tables--reports on and evaluates the findings of the first scientific field...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: Piedmont, Missouri UFO Episode and Project Identification  
-   Link: [https://www.facebook.com/darkozarks/posts/piedmont-missouri-ufo-episode-and-project-identification-part-1it-is-generally-a/724001679901443/](https://www.facebook.com/darkozarks/posts/piedmont-missouri-ufo-episode-and-project-identification-part-1it-is-generally-a/724001679901443/)  
+   Link: <a href="https://www.facebook.com/darkozarks/posts/piedmont-missouri-ufo-episode-and-project-identification-part-1it-is-generally-a/724001679901443/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/darkozarks/posts/piedmont-missouri-ufo-episode-and-project-identification-part-1it-is-generally-a/724001679901443/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Feb 2024 — Piedmont, Missouri UFO Episode and Project Identification. Part 1: It is generally assumed that the Piedmont UFO Episode st...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: worldcat.org  
-   Link: [https://worldcat.org/oclc/7273042](https://worldcat.org/oclc/7273042)  
+   Link: <a href="https://worldcat.org/oclc/7273042" target="_blank" rel="noopener noreferrer nofollow">https://worldcat.org/oclc/7273042</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the first scientific field study of UFO phenomenaProject Identification: the first scientific field study of UFO phenomena...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: yahoo.com  
    Title: piedmont missouri celebrates ufo history 173000645  
-   Link: [https://www.yahoo.com/news/piedmont-missouri-celebrates-ufo-history-173000645.html](https://www.yahoo.com/news/piedmont-missouri-celebrates-ufo-history-173000645.html)  
+   Link: <a href="https://www.yahoo.com/news/piedmont-missouri-celebrates-ufo-history-173000645.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/piedmont-missouri-celebrates-ufo-history-173000645.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Piedmont, Missouri celebrates UFO history with new park30 Jun 2024 — WAYNE COUNTY, Mo. – Piedmont, Missouri, has been named the State UFO...</p></details>

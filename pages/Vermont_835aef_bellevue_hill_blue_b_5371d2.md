@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-makes-vermonts-ufo-stories-endure/
 nav_short_title: Bellevue Hill
 title: Why Bellevue Hill Still Matters
-title_full: Why Bellevue Hill Still Matters | Vermont UFOs
+title_full: Why Bellevue Hill Still Matters
 display_title_short: Bellevue Hill
 display_title: Bellevue Hill
 heading_title: Why Bellevue Hill Still Matters
@@ -262,12 +262,10 @@ image: /assets/images/Vermont_835aef_bellevue_hill_blue_b_5371d2-overview-social
 
 ## Introduction
 
-The Bellevue Hill sighting of 24 April 1952 is the strongest official UFO file attached to [Vermont]({{ 'what-makes-vermonts-ufo-stories-endure/' | relative_url }}) because it sits in the United States Air Force Project Blue Book record, involved a military C-124 aircrew, and was ultimately marked “Unknown” rather than explained as aircraft, balloon or astronomy. That does not make it proof of an extraordinary craft. It means the surviving official paperwork records a puzzling early-morning observation that investigators did not reduce to a conventional cause. For Vermont’s UFO history, Bellevue Hill is therefore less a dramatic legend than a document-led anchor: a Cold War aircrew report, handled through military intelligence channels, preserved in a 12-page case file, and still useful because its strengths and weaknesses are both visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/520424bellevue_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">520424bellevue docs</span><span class="citation-popover-snippet">520424bellevue docs</span></span></span>
-
+The Bellevue Hill sighting of 24 April 1952 is the strongest official UFO file attached to Vermont because it sits in the United States Air Force Project Blue Book record, involved a military C-124 aircrew, and was ultimately marked “Unknown” rather than explained as aircraft, balloon or astronomy. That does not make it proof of an extraordinary craft. It means the surviving official paperwork records a puzzling early-morning observation that investigators did not reduce to a conventional cause. For Vermont’s UFO history, Bellevue Hill is therefore less a dramatic legend than a document-led anchor: a Cold War aircrew report, handled through military intelligence channels, preserved in a 12-page case file, and still useful because its strengths and weaknesses are both visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/520424bellevue_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">520424bellevue docs</span><span class="citation-popover-snippet">520424bellevue docs</span></span></span>
 
 <img src="{{ "/assets/images/Vermont_835aef_bellevue_hill_blue_b_5371d2-overview.webp" | relative_url }}" alt="Overview image for Bellevue Hill" loading="eager" decoding="sync" fetchpriority="high">
 Bellevue Hill also matters because it connects two Vermont Cold War stories that are often treated separately: UFO reporting and air-defence infrastructure. The hill near St Albans later became known for its radar installation and surviving white radome, part of a defence complex operated by the US Air Force from 1951 to 1979. Local reporting and architectural history both place Bellevue Hill inside the wider northern-border surveillance landscape of the early Cold War. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sevendaysvt.com/arts-culture/what-is-that-white-dome-on-a-hill-overlooking-st-albans-5609799/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sevendaysvt.com">[Seven Days]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sevendaysvt.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ApuwmZjHGu4" title="Project Blue Book | Trailer | Watch On SBS On Demand" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ApuwmZjHGu4" target="_blank" rel="noopener noreferrer">Project Blue Book | Trailer | Watch On SBS On Demand</a></p><p class="youtube-embed-meta">Channel: SBS On Demand &middot; Views: 39.7K &middot; Uploaded: March 2019 &middot; Length: 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ApuwmZjHGu4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ApuwmZjHGu4">Open on YouTube</a></p></div></div></div>
 
@@ -281,8 +279,7 @@ That account is why the case has remained prominent in UFO catalogues. The Natio
 
 The aircraft type also matters. A C-124 Globemaster II was not a small private aircraft with one casual observer; it was a large military transport designed for heavy cargo and troop or medical transport. The National Museum of the United States Air Force describes the C-124 as a large cargo aircraft with clamshell loading doors, hydraulic ramps, and capacity for bulky military loads or 200 fully equipped soldiers. In plain terms, the Bellevue Hill witnesses were part of a professional military flying environment rather than a roadside sighting by an anonymous passer-by. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196101/douglas-c-124-globemaster-ii/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalmuseum.af.mil">[Air Force Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalmuseum.af.mil</span><span class="citation-popover-snippet">Douglas C-124 Globemaster II &gt; National Museum of the United States Air Force &gt; Display...</span></span></span>
 
-
-<img src="{{ "/assets/images/Vermont_835aef_bellevue_hill_blue_b_5371d2-Illustration-1-light.svg" | relative_url }}" alt="Bellevue Hill illustration 1" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_bellevue_hill_blue_b_5371d2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_bellevue_hill_blue_b_5371d2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Vermont_835aef_bellevue_hill_blue_b_5371d2-Illustration-1-dark.svg" | relative_url }}" alt="Bellevue Hill illustration 1" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_bellevue_hill_blue_b_5371d2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_bellevue_hill_blue_b_5371d2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Project Blue Book kept it unresolved
 
 The Bellevue Hill file is important because the Air Force did not simply log the report and forget it. The file shows routing through Air Technical Intelligence Center channels and later follow-up asking for information that might identify the sighting. One message asked whether Air Defense Command radar station Site No. 14 reported any unusual or unidentified returns on 24 April 1952; another response said no identification or explanation had yet been made and that the investigation was in progress. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Project Bluebook &quot;Unknowns</span><span class="citation-popover-snippet">The Project Bluebook &quot;Unknowns</span></span></span>
@@ -292,7 +289,6 @@ The radar follow-up weakens the case in one respect and strengthens it in anothe
 At the same time, the official record card still ended with “Unknown” marked in the conclusions box. The alternatives on the card included balloon, aircraft, astronomical cause, other, and insufficient data for evaluation; the checked conclusion was not one of those identifications. The brief summary even includes a sceptical note — sunrise or near sunrise “might cause phenomena” — yet the final card still leaves the case unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Project Bluebook &quot;Unknowns</span><span class="citation-popover-snippet">The Project Bluebook &quot;Unknowns</span></span></span>
 
 That distinction is central. Project Blue Book’s own broader purpose was not to validate extraordinary claims, but to collect, evaluate and classify reports. The National Archives states that the Air Force retired Project Blue Book’s UFO investigation records to the Archives, where declassified case files are available, and that the programme closed in 1969. The same Air Force fact-sheet text says 12,618 sightings were reported from 1947 to 1969 and 701 remained “Unidentified”. Bellevue Hill’s importance comes from belonging to that official unresolved residue, not from proving what the objects were. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G5VAAOsWwA4" title="Ancient Aliens: UFO Cover-Up Mission Inside U.S. Government (Season 5) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G5VAAOsWwA4" target="_blank" rel="noopener noreferrer">Ancient Aliens: UFO Cover-Up Mission Inside U.S. Government (Season 5) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 61.2K &middot; Uploaded: September 2024 &middot; Length: 4 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G5VAAOsWwA4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G5VAAOsWwA4">Open on YouTube</a></p></div></div></div>
 
@@ -306,18 +302,16 @@ The place itself adds a Vermont-specific layer. Bellevue Hill is a real summit i
 
 That does not mean the 1952 UFO report was caused by, confirmed by, or centred on the radar base as later remembered locally. The file’s own aircrew account is the anchor. But Bellevue Hill’s later role as an air-defence site explains why this part of Vermont sits naturally inside the state’s UFO history: it was not merely rural sky country, but part of the Cold War network watching the northern approaches to the United States. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sah-archipedia.org/buildings/VT-01-FR26" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sah-archipedia.org">[SAH ARCHIPEDIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sah-archipedia.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/Vermont_835aef_bellevue_hill_blue_b_5371d2-Illustration-2-light.svg" | relative_url }}" alt="Bellevue Hill illustration 2" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_bellevue_hill_blue_b_5371d2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_bellevue_hill_blue_b_5371d2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Vermont_835aef_bellevue_hill_blue_b_5371d2-Illustration-2-dark.svg" | relative_url }}" alt="Bellevue Hill illustration 2" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_bellevue_hill_blue_b_5371d2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_bellevue_hill_blue_b_5371d2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the file cannot prove
 
-The Bellevue Hill case is strong as an official file, but it is not strong enough to settle the identity of the objects. There are no photographs. The record card explicitly marks “No” under photos. There is no recovered object, no onboard instrument record in the public file, and no clear radar confirmation. The [St Albans radar]({{ 'radar-gap/' | relative_url }}) response is especially important because it shows investigators asked the right kind of question, but the answer did not supply the missing independent track. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Project Bluebook &quot;Unknowns</span><span class="citation-popover-snippet">The Project Bluebook &quot;Unknowns</span></span></span>
+The Bellevue Hill case is strong as an official file, but it is not strong enough to settle the identity of the objects. There are no photographs. The record card explicitly marks “No” under photos. There is no recovered object, no onboard instrument record in the public file, and no clear radar confirmation. The St Albans radar response is especially important because it shows investigators asked the right kind of question, but the answer did not supply the missing independent track. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Project Bluebook &quot;Unknowns</span><span class="citation-popover-snippet">The Project Bluebook &quot;Unknowns</span></span></span>
 
 The file also contains internal uncertainties. The report’s location material is awkward: the case is filed as Bellevue Hill, Vermont, yet later catalogue work notes coordinates that appear to fall in the Atlantic rather than Vermont. Brad Sparks’ catalogue flags this problem directly, listing Bellevue Hill, Vermont, but adding “40°30'?? N, 72°15'?? W <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.baaa-acro.com/crash/crash-douglas-c-124a-globemaster-ii-atlantic-ocean-53-killed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baaa-acro.com">[Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baaa-acro.com</span><span class="citation-popover-snippet">Open source on baaa-acro.com.</span></span></span>”. This does not erase the case, but it does warn against treating every numerical detail in the surviving paperwork as clean and final. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisu.org">[CISU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisu.org</span><span class="citation-popover-title">Centro Italiano Studi Ufologici Microsoft Word</span><span class="citation-popover-snippet">Centro Italiano Studi Ufologici Microsoft Word</span></span></span> - Centro Italiano Studi Ufologici
 
 The sunrise clue is another unresolved point rather than a solution. The record card’s own summary says sunrise or near sunrise might have caused the phenomenon. That is a reasonable line of enquiry because low-angle sunlight can create striking effects on clouds, aircraft, vapour, ice crystals or distant objects. But the card did not mark the event as “astronomical” or “aircraft”; it marked it “Unknown”. The honest reading is that sunrise was considered but not documented as a sufficient explanation in the available file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Project Bluebook &quot;Unknowns</span><span class="citation-popover-snippet">The Project Bluebook &quot;Unknowns</span></span></span>
 
 Witness quality also has limits. Military aircrew are trained observers in an aviation sense, and that makes the report more serious than many casual sightings. But even trained crews can misjudge distance, size, relative motion and altitude when an object is near the horizon and lacks known scale. The report says the objects were estimated at about 50 miles away, but without radar, photography, triangulation or physical reference points, that distance estimate cannot carry the same weight as a measured track. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Project Bluebook &quot;Unknowns</span><span class="citation-popover-snippet">The Project Bluebook &quot;Unknowns</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Vhy58DWiuRc" title="1951 C-124 disappearance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Vhy58DWiuRc" target="_blank" rel="noopener noreferrer">1951 C-124 disappearance</a></p><p class="youtube-embed-meta">Channel: The History Guy: History Deserves to Be Remembered &middot; Views: 241.2K &middot; Uploaded: August 2023 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Vhy58DWiuRc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Vhy58DWiuRc">Open on YouTube</a></p></div></div></div>
 
@@ -329,8 +323,7 @@ For readers comparing Vermont cases, Bellevue Hill is stronger than many famous 
 
 That is why Bellevue Hill still matters within Vermont’s UFO history. It gives the state one case that belongs unmistakably to the official Cold War UFO archive. It also models the right way to read older UFO files: take the witnesses seriously, read the actual documents, separate “unidentified” from “extraordinary”, and treat missing data as part of the evidence rather than a gap to fill with speculation.
 
-
-<img src="{{ "/assets/images/Vermont_835aef_bellevue_hill_blue_b_5371d2-Illustration-3-light.svg" | relative_url }}" alt="Bellevue Hill illustration 3" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_bellevue_hill_blue_b_5371d2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_bellevue_hill_blue_b_5371d2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Vermont_835aef_bellevue_hill_blue_b_5371d2-Illustration-3-dark.svg" | relative_url }}" alt="Bellevue Hill illustration 3" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_bellevue_hill_blue_b_5371d2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_bellevue_hill_blue_b_5371d2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -754,180 +747,180 @@ That is why Bellevue Hill still matters within Vermont’s UFO history. It gives
 1. <a id="endnote-1"></a>
    Source: nicap.org  
    Title: 520424bellevue docs  
-   Link: [https://www.nicap.org/docs/520424bellevue_docs.pdf](https://www.nicap.org/docs/520424bellevue_docs.pdf)  
+   Link: <a href="https://www.nicap.org/docs/520424bellevue_docs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/520424bellevue_docs.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: sah-archipedia.org  
-   Link: [https://sah-archipedia.org/buildings/VT-01-FR26](https://sah-archipedia.org/buildings/VT-01-FR26)  
+   Link: <a href="https://sah-archipedia.org/buildings/VT-01-FR26" target="_blank" rel="noopener noreferrer nofollow">https://sah-archipedia.org/buildings/VT-01-FR26</a>  
 
 3. <a id="endnote-3"></a>
    Source: static1.squarespace.com  
    Title: Unidentified Aerial Phenomena  
-   Link: [https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf](https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf)  
+   Link: <a href="https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02eb46935aac0001690f62/1560472408972/narcap_revised_tr-4.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: nicap.org  
    Title: The Project Bluebook "Unknowns"  
-   Link: [https://www.nicap.org/bluebook/unknowns.htm](https://www.nicap.org/bluebook/unknowns.htm)  
+   Link: <a href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/unknowns.htm</a>  
 
 5. <a id="endnote-5"></a>
    Source: nationalmuseum.af.mil  
    Title: Air Force Museum  
-   Link: [https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196101/douglas-c-124-globemaster-ii/](https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196101/douglas-c-124-globemaster-ii/)  
+   Link: <a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196101/douglas-c-124-globemaster-ii/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196101/douglas-c-124-globemaster-ii/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Douglas C-124 Globemaster II &gt; National Museum of the United States Air Force &gt; Display...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 7. <a id="endnote-7"></a>
    Source: upload.wikimedia.org  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/c/c0/Project_Blue_Book%2C_BBA-PBSR6-300.pdf](https://upload.wikimedia.org/wikipedia/commons/c/c0/Project_Blue_Book%2C_BBA-PBSR6-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/c/c0/Project_Blue_Book%2C_BBA-PBSR6-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/c/c0/Project_Blue_Book%2C_BBA-PBSR6-300.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: cisu.org  
    Title: Centro Italiano Studi Ufologici Microsoft Word  
-   Link: [https://www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf](https://www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf)  
+   Link: <a href="https://www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: prologue.blogs.archives.gov  
    Title: saucers over washington the history of project blue book  
-   Link: [https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/](https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
 
 10. <a id="endnote-10"></a>
    Source: prologue.blogs.archives.gov  
    Title: ufos man made made up and unknown  
-   Link: [https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/](https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/</a>  
 
 11. <a id="endnote-11"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR8 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf](https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/5c/Project_Blue_Book%2C_BBA-PBSR8-300.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR9 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book%2C_BBA-PBSR9-300.pdf](https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book%2C_BBA-PBSR9-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book%2C_BBA-PBSR9-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book%2C_BBA-PBSR9-300.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: war.gov  
    Title: operation colony glacier brings full identification for all 52 fallen service m  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/4375708/operation-colony-glacier-brings-full-identification-for-all-52-fallen-service-m/](https://www.war.gov/News/News-Stories/Article/Article/4375708/operation-colony-glacier-brings-full-identification-for-all-52-fallen-service-m/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/4375708/operation-colony-glacier-brings-full-identification-for-all-52-fallen-service-m/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/4375708/operation-colony-glacier-brings-full-identification-for-all-52-fallen-service-m/</a>  
 
 15. <a id="endnote-15"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: [https://www.history.com/articles/project-blue-book](https://www.history.com/articles/project-blue-book)  
+   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Ancient Aliens: UFO Cover-Up Mission Inside U.S. Government (Season 5)  
-   Link: [https://www.youtube.com/watch?v=G5VAAOsWwA4](https://www.youtube.com/watch?v=G5VAAOsWwA4)  
+   Link: <a href="https://www.youtube.com/watch?v=G5VAAOsWwA4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G5VAAOsWwA4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book | Trailer | Watch On SBS On Demand...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Project Blue Book | Trailer | Watch On SBS On Demand  
-   Link: [https://www.youtube.com/watch?v=ApuwmZjHGu4](https://www.youtube.com/watch?v=ApuwmZjHGu4)  
+   Link: <a href="https://www.youtube.com/watch?v=ApuwmZjHGu4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ApuwmZjHGu4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New England Legends Podcast 379 - Vermont&#x27;s UFO Invasion...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: sevendaysvt.com  
-   Link: [https://www.sevendaysvt.com/arts-culture/what-is-that-white-dome-on-a-hill-overlooking-st-albans-5609799/](https://www.sevendaysvt.com/arts-culture/what-is-that-white-dome-on-a-hill-overlooking-st-albans-5609799/)  
+   Link: <a href="https://www.sevendaysvt.com/arts-culture/what-is-that-white-dome-on-a-hill-overlooking-st-albans-5609799/" target="_blank" rel="noopener noreferrer nofollow">https://www.sevendaysvt.com/arts-culture/what-is-that-white-dome-on-a-hill-overlooking-st-albans-5609799/</a>  
 
 19. <a id="endnote-19"></a>
    Source: edits.nationalmap.gov  
    Title: National Map Edits Geographic Names Information System  
-   Link: [https://edits.nationalmap.gov/apps/gaz-domestic/public/gaz-record/1456380](https://edits.nationalmap.gov/apps/gaz-domestic/public/gaz-record/1456380)  
+   Link: <a href="https://edits.nationalmap.gov/apps/gaz-domestic/public/gaz-record/1456380" target="_blank" rel="noopener noreferrer nofollow">https://edits.nationalmap.gov/apps/gaz-domestic/public/gaz-record/1456380</a>  
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Douglas C 124 Globemaster II  
-   Link: [https://en.wikipedia.org/wiki/Douglas_C-124_Globemaster_II](https://en.wikipedia.org/wiki/Douglas_C-124_Globemaster_II)  
+   Link: <a href="https://en.wikipedia.org/wiki/Douglas_C-124_Globemaster_II" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Douglas_C-124_Globemaster_II</a>  
 
 22. <a id="endnote-22"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 23. <a id="endnote-23"></a>
    Source: aviastar.org  
    Title: Douglas C-124 Globemaster II  
-   Link: [https://www.aviastar.org/air/usa/douglas_globemaster.php?p=13](https://www.aviastar.org/air/usa/douglas_globemaster.php?p=13)  
+   Link: <a href="https://www.aviastar.org/air/usa/douglas_globemaster.php?p=13" target="_blank" rel="noopener noreferrer nofollow">https://www.aviastar.org/air/usa/douglas_globemaster.php?p=13</a>  
 
 24. <a id="endnote-24"></a>
    Source: geo.mytopo.com  
    Title: bellevue hill  
-   Link: [https://geo.mytopo.com/feature/vermont/franklin/summit/1456380/bellevue-hill/](https://geo.mytopo.com/feature/vermont/franklin/summit/1456380/bellevue-hill/)  
+   Link: <a href="https://geo.mytopo.com/feature/vermont/franklin/summit/1456380/bellevue-hill/" target="_blank" rel="noopener noreferrer nofollow">https://geo.mytopo.com/feature/vermont/franklin/summit/1456380/bellevue-hill/</a>  
 
 25. <a id="endnote-25"></a>
    Source: listsofjohn.com  
    Title: Bellevue Hill  
-   Link: [https://listsofjohn.com/peak/103716](https://listsofjohn.com/peak/103716)  
+   Link: <a href="https://listsofjohn.com/peak/103716" target="_blank" rel="noopener noreferrer nofollow">https://listsofjohn.com/peak/103716</a>  
 
 26. <a id="endnote-26"></a>
    Source: origins.osu.edu  
    Title: project blue book  
-   Link: [https://origins.osu.edu/watch/project-blue-book](https://origins.osu.edu/watch/project-blue-book)  
+   Link: <a href="https://origins.osu.edu/watch/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/watch/project-blue-book</a>  
 
 27. <a id="endnote-27"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 28. <a id="endnote-28"></a>
    Source: flugzeuginfo.net  
    Title: Douglas C-124 Globemaster II  
-   Link: [https://www.flugzeuginfo.net/acdata_php/acdata_c124_en.php](https://www.flugzeuginfo.net/acdata_php/acdata_c124_en.php)  
+   Link: <a href="https://www.flugzeuginfo.net/acdata_php/acdata_c124_en.php" target="_blank" rel="noopener noreferrer nofollow">https://www.flugzeuginfo.net/acdata_php/acdata_c124_en.php</a>  
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1039630837990948/posts/1384416280179067/](https://www.facebook.com/groups/1039630837990948/posts/1384416280179067/)  
+   Link: <a href="https://www.facebook.com/groups/1039630837990948/posts/1384416280179067/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1039630837990948/posts/1384416280179067/</a>  
 
 31. <a id="endnote-31"></a>
    Source: aviation-safety.net  
-   Link: [https://aviation-safety.net/wikibase/335466](https://aviation-safety.net/wikibase/335466)  
+   Link: <a href="https://aviation-safety.net/wikibase/335466" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/335466</a>  
 
 32. <a id="endnote-32"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database](https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database)  
+   Link: <a href="https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database</a>  
 
 33. <a id="endnote-33"></a>
    Source: amcmuseum.org  
-   Link: [https://www.amcmuseum.org/at-the-museum/aircraft/c-124a-globemaster-ii/](https://www.amcmuseum.org/at-the-museum/aircraft/c-124a-globemaster-ii/)  
+   Link: <a href="https://www.amcmuseum.org/at-the-museum/aircraft/c-124a-globemaster-ii/" target="_blank" rel="noopener noreferrer nofollow">https://www.amcmuseum.org/at-the-museum/aircraft/c-124a-globemaster-ii/</a>  
 
 34. <a id="endnote-34"></a>
    Source: baaa-acro.com  
-   Link: [https://www.baaa-acro.com/crash/crash-douglas-c-124a-globemaster-ii-atlantic-ocean-53-killed](https://www.baaa-acro.com/crash/crash-douglas-c-124a-globemaster-ii-atlantic-ocean-53-killed)  
+   Link: <a href="https://www.baaa-acro.com/crash/crash-douglas-c-124a-globemaster-ii-atlantic-ocean-53-killed" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/crash/crash-douglas-c-124a-globemaster-ii-atlantic-ocean-53-killed</a>  
 
 35. <a id="endnote-35"></a>
    Source: aerospaceutah.org  
-   Link: [https://www.aerospaceutah.org/museum/our-collections/aircraft-collection/c-124c-globemaster-ii/](https://www.aerospaceutah.org/museum/our-collections/aircraft-collection/c-124c-globemaster-ii/)  
+   Link: <a href="https://www.aerospaceutah.org/museum/our-collections/aircraft-collection/c-124c-globemaster-ii/" target="_blank" rel="noopener noreferrer nofollow">https://www.aerospaceutah.org/museum/our-collections/aircraft-collection/c-124c-globemaster-ii/</a>  
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/](https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/)  
+   Link: <a href="https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/</a>  
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CBSSundayMorning/posts/for-the-past-decade-a-team-has-been-searching-for-52-servicemen-lost-when-their-/10165901074021337/](https://www.facebook.com/CBSSundayMorning/posts/for-the-past-decade-a-team-has-been-searching-for-52-servicemen-lost-when-their-/10165901074021337/)  
+   Link: <a href="https://www.facebook.com/CBSSundayMorning/posts/for-the-past-decade-a-team-has-been-searching-for-52-servicemen-lost-when-their-/10165901074021337/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSSundayMorning/posts/for-the-past-decade-a-team-has-been-searching-for-52-servicemen-lost-when-their-/10165901074021337/</a>  
 
 38. <a id="endnote-38"></a>
    Source: ufocasebook.com  
-   Link: [https://www.ufocasebook.com/pdf/BlueBookUnknown.pdf](https://www.ufocasebook.com/pdf/BlueBookUnknown.pdf)  
+   Link: <a href="https://www.ufocasebook.com/pdf/BlueBookUnknown.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/pdf/BlueBookUnknown.pdf</a>

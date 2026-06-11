@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /coral-lorenzen/
 nav_short_title: Barron sighting
 title: What did Coral Lorenzen see in Barron?
-title_full: What did Coral Lorenzen see in Barron? | Coral Lorenzen
+title_full: What did Coral Lorenzen see in Barron?
 display_title_short: Barron sighting
 display_title: Barron sighting
 heading_title: What did Coral Lorenzen see in Barron?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:29:37'
-parent_title: How Wisconsin Helped Organise UFO Research | Wisconsin UFOs
+parent_title: How Wisconsin Helped Organise UFO Research
 parent_permalink: /coral-lorenzen/
 parent_nav_short_title: Coral Lorenzen
 parent_heading_title: How Wisconsin Helped Organise UFO Research
@@ -250,10 +250,9 @@ image: /assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_
 
 ## Introduction
 
-[Coral Lorenzen]({{ 'coral-lorenzen/' | relative_url }})’s reported sighting in Barron, [Wisconsin]({{ 'what-really-made-wisconsin-a-ufo-state/' | relative_url }}), in 1934 occupies an unusual place in UFO history. It is not an important case because of strong evidence. In fact, by modern investigative standards, the evidence is extremely thin. What makes it significant is that Lorenzen later became one of the most influential civilian UFO researchers in the United States and repeatedly pointed back to this childhood experience as the moment that shaped her interest in unexplained aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</span></span></span>
+[Coral Lorenzen]({{ 'coral-lorenzen/' | relative_url }})’s reported sighting in Barron, Wisconsin, in 1934 occupies an unusual place in UFO history. It is not an important case because of strong evidence. In fact, by modern investigative standards, the evidence is extremely thin. What makes it significant is that Lorenzen later became one of the most influential civilian UFO researchers in the United States and repeatedly pointed back to this childhood experience as the moment that shaped her interest in unexplained aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</span></span></span>
 
-
-<img src="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-1-light.svg" | relative_url }}" alt="Barron sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-1-dark.svg" | relative_url }}" alt="Barron sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For Wisconsin’s UFO history, the Barron sighting functions less as a mystery to solve than as an origin story. The event was never formally investigated, produced no physical evidence, and survives mainly through Lorenzen’s own later recollections. Yet that memory helped motivate the creation of the Aerial Phenomena Research Organization (APRO) in 1952, one of the earliest and most influential civilian UFO research networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aerial Phenomena Research Organization</span><span class="citation-popover-snippet">March 20, 2025 — The Aerial Phenomena Research Organization (APRO) was a UFO research group started in January 1952 by Jim and Coral Lore...</span><span class="citation-popover-meta">Published: March 20, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyominghistoryday.org/theme-topics/collections/items/apro-bulletin-march-april-1965" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyominghistoryday.org">[2wyominghistoryday.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyominghistoryday.org</span><span class="citation-popover-title">apro bulletin march april 1965</span><span class="citation-popover-snippet">The A.P.R.O. Bulletin, March-April 1965Coral (1925-1988) &amp; Jim (1922-1986) Lorenzen founded the Aerial Phenomena Research Organization (A...</span><span class="citation-popover-meta">Published: april 1965</span></span></span>
 
 ## What did Coral Lorenzen see in Barron?
@@ -272,7 +271,6 @@ She also recalled that her father made enquiries after hearing about the inciden
 
 The account was written more than three decades after the event and after Lorenzen had already become deeply involved in UFO research. As a historical source, it therefore tells readers as much about how Lorenzen interpreted her own life as it does about the unidentified object itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Tbu3FpGLVlA" title="729. Allan Lavigne on Travis Walton: First Interview &amp; Much More!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Tbu3FpGLVlA" target="_blank" rel="noopener noreferrer">729. Allan Lavigne on Travis Walton: First Interview &amp; Much More!</a></p><p class="youtube-embed-meta">Channel: Podcast UFO Live Shows &middot; Views: 2.5K &middot; Uploaded: January 2026 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Tbu3FpGLVlA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Tbu3FpGLVlA">Open on YouTube</a></p></div></div></div>
 
 ## Why the evidence remains weak
@@ -280,7 +278,6 @@ The account was written more than three decades after the event and after Lorenz
 The Barron sighting is a useful example of the difference between a culturally important UFO story and a strong UFO case.
 
 Several factors limit its evidential value:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -299,8 +296,7 @@ Another difficulty is that the description itself is open to multiple interpreta
 
 This is why historians of UFO culture generally treat the Barron incident as biographical evidence rather than physical evidence. It demonstrates what Lorenzen remembered and believed, but it does not provide a solid basis for determining the nature of the object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.full-stop.net/2021/03/24/features/essays/lorissa-rinehart/an-arc-of-light-across-the-cold-war-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: full-stop.net">[full-stop.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">full-stop.net</span><span class="citation-popover-title">an arc of light across the cold war sky</span><span class="citation-popover-snippet">24 Mar 2021 — Founded in 1952 by husband and wife, Jim and Coral Lorenzen, APRO stressed a scientific approach to the research of UFOs. I...</span></span></span>
 
-
-<img src="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-2-light.svg" | relative_url }}" alt="Barron sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-2-dark.svg" | relative_url }}" alt="Barron sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How a childhood memory became a research motive
 
 The real historical importance of the Barron sighting appears decades later.
@@ -310,7 +306,6 @@ When the post-1947 flying saucer wave swept across the United States, Lorenzen a
 In January 1952, while living in Sturgeon Bay, Wisconsin, she and her husband Jim Lorenzen founded APRO. The organisation aimed to gather reports, correspond with witnesses and create a more systematic civilian approach to UFO investigation. APRO would eventually develop branches across the United States and become one of the most influential non-government UFO groups of the Cold War era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aerial Phenomena Research Organization</span><span class="citation-popover-snippet">March 20, 2025 — The Aerial Phenomena Research Organization (APRO) was a UFO research group started in January 1952 by Jim and Coral Lore...</span><span class="citation-popover-meta">Published: March 20, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyominghistoryday.org/theme-topics/collections/items/apro-bulletin-march-april-1965" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyominghistoryday.org">[2wyominghistoryday.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyominghistoryday.org</span><span class="citation-popover-title">apro bulletin march april 1965</span><span class="citation-popover-snippet">The A.P.R.O. Bulletin, March-April 1965Coral (1925-1988) &amp; Jim (1922-1986) Lorenzen founded the Aerial Phenomena Research Organization (A...</span><span class="citation-popover-meta">Published: april 1965</span></span></span>
 
 The connection between Barron and APRO is therefore indirect but important. The childhood sighting did not prove anything about UFOs. What it did provide was a personal motivation. Lorenzen repeatedly presented the 1934 experience as the reason she felt unexplained reports deserved attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">coral lorenzen ufo research</span><span class="citation-popover-snippet">Wisconsin FrightsThe Wisconsin Flying Saucer that Changed UFO Research...20 Sept 2018 — After a 1934 UFO sighting in Wisconsin, Coral Lo...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PXP4npmG_wY" title="BEHIND THE SCENES SECRETS filming Wisconsin&#x27;s UFO capital" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PXP4npmG_wY" target="_blank" rel="noopener noreferrer">BEHIND THE SCENES SECRETS filming Wisconsin&#x27;s UFO capital</a></p><p class="youtube-embed-meta">Channel: SightseeingSally &middot; Uploaded: August 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PXP4npmG_wY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PXP4npmG_wY">Open on YouTube</a></p></div></div></div>
 
@@ -322,7 +317,6 @@ Rather than spending her career trying to prove the Barron sighting itself, she 
 
 That legacy explains why the Barron incident still appears in discussions of Wisconsin UFO history. The sighting’s importance lies less in what crossed the sky over Barron than in what happened afterwards: a child’s unresolved experience became the personal narrative behind one of the state's most influential UFO researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">coral lorenzen ufo research</span><span class="citation-popover-snippet">Wisconsin FrightsThe Wisconsin Flying Saucer that Changed UFO Research...20 Sept 2018 — After a 1934 UFO sighting in Wisconsin, Coral Lo...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nyeP0EsXBhU" title="Jim and Coral Lorenzen: The Unsung Heroes of UFO Research (1952) episode 06" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nyeP0EsXBhU" target="_blank" rel="noopener noreferrer">Jim and Coral Lorenzen: The Unsung Heroes of UFO Research (1952) episode 06</a></p><p class="youtube-embed-meta">Channel: UFO TIMELINE PROJECT &middot; Views: 91 &middot; Uploaded: June 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nyeP0EsXBhU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nyeP0EsXBhU">Open on YouTube</a></p></div></div></div>
 
 ## Why the Barron story still matters
@@ -333,8 +327,7 @@ Coral Lorenzen’s 1934 experience belongs firmly in the second category. The ca
 
 Seen in that light, the Barron sighting is best understood as a historical origin story rather than a compelling UFO case. Its significance comes from its consequences: one childhood observation, whether extraordinary or ordinary, helped inspire decades of UFO report collecting, debate and investigation that reached far beyond northern Wisconsin. Wisconsin Frights <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.full-stop.net/2021/03/24/features/essays/lorissa-rinehart/an-arc-of-light-across-the-cold-war-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: full-stop.net">[2full-stop.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">full-stop.net</span><span class="citation-popover-title">an arc of light across the cold war sky</span><span class="citation-popover-snippet">24 Mar 2021 — Founded in 1952 by husband and wife, Jim and Coral Lorenzen, APRO stressed a scientific approach to the research of UFOs. I...</span></span></span>
 
-
-<img src="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-3-light.svg" | relative_url }}" alt="Barron sighting illustration 3" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-3-dark.svg" | relative_url }}" alt="Barron sighting illustration 3" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_barron_origin_sighti_9c5ee5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -422,7 +415,7 @@ Seen in that light, the Barron sighting is best understood as a historical origi
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -432,111 +425,36 @@ Seen in that light, the Barron sighting is best understood as a historical origi
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,15 +462,15 @@ Seen in that light, the Barron sighting is best understood as a historical origi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -560,15 +478,15 @@ Seen in that light, the Barron sighting is best understood as a historical origi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -576,15 +494,15 @@ Seen in that light, the Barron sighting is best understood as a historical origi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -592,7 +510,7 @@ Seen in that light, the Barron sighting is best understood as a historical origi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barron-sighting-what-did-coral-lorenzen-see-in-barron-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-coral-lorenzen-see-in-barron-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-coral-lorenzen-see-in-barron-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -669,17 +587,31 @@ Seen in that light, the Barron sighting is best understood as a historical origi
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -692,42 +624,73 @@ Seen in that light, the Barron sighting is best understood as a historical origi
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -742,12 +705,17 @@ Seen in that light, the Barron sighting is best understood as a historical origi
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -757,99 +725,99 @@ Seen in that light, the Barron sighting is best understood as a historical origi
 
 1. <a id="endnote-1"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt](https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...The beginning of the mystery of UFOs was, for me at least, on...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Aerial Phenomena Research Organization  
-   Link: [https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization](https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization)  
+   Link: <a href="https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 20, 2025 — The Aerial Phenomena Research Organization (APRO) was a UFO research group started in January 1952 by Jim and Coral Lore...</p></details>
    Published: March 20, 2025  
 
 3. <a id="endnote-3"></a>
    Source: wyominghistoryday.org  
    Title: apro bulletin march april 1965  
-   Link: [https://www.wyominghistoryday.org/theme-topics/collections/items/apro-bulletin-march-april-1965](https://www.wyominghistoryday.org/theme-topics/collections/items/apro-bulletin-march-april-1965)  
+   Link: <a href="https://www.wyominghistoryday.org/theme-topics/collections/items/apro-bulletin-march-april-1965" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/theme-topics/collections/items/apro-bulletin-march-april-1965</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The A.P.R.O. Bulletin, March-April 1965Coral (1925-1988) &amp; Jim (1922-1986) Lorenzen founded the Aerial Phenomena Research Organization (A...</p></details>
    Published: april 1965  
 
 4. <a id="endnote-4"></a>
    Source: full-stop.net  
    Title: an arc of light across the cold war sky  
-   Link: [https://www.full-stop.net/2021/03/24/features/essays/lorissa-rinehart/an-arc-of-light-across-the-cold-war-sky/](https://www.full-stop.net/2021/03/24/features/essays/lorissa-rinehart/an-arc-of-light-across-the-cold-war-sky/)  
+   Link: <a href="https://www.full-stop.net/2021/03/24/features/essays/lorissa-rinehart/an-arc-of-light-across-the-cold-war-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.full-stop.net/2021/03/24/features/essays/lorissa-rinehart/an-arc-of-light-across-the-cold-war-sky/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>24 Mar 2021 — Founded in 1952 by husband and wife, Jim and Coral Lorenzen, APRO stressed a scientific approach to the research of UFOs. I...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: slideshare.net  
    Title: Coral Lorenzen  
-   Link: [https://www.slideshare.net/DirkTheDaring11/coral-lorenzen-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space](https://www.slideshare.net/DirkTheDaring11/coral-lorenzen-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space)  
+   Link: <a href="https://www.slideshare.net/DirkTheDaring11/coral-lorenzen-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/DirkTheDaring11/coral-lorenzen-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space</a>  
 
 6. <a id="endnote-6"></a>
    Source: wisconsinfrights.com  
    Title: coral lorenzen ufo research  
-   Link: [https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/](https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/)  
+   Link: <a href="https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wisconsin FrightsThe Wisconsin Flying Saucer that Changed UFO Research...20 Sept 2018 — After a 1934 UFO sighting in Wisconsin, Coral Lo...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: wisconsinfrights.com  
-   Link: [https://www.wisconsinfrights.com/zine/cosmic-encounters/](https://www.wisconsinfrights.com/zine/cosmic-encounters/)  
+   Link: <a href="https://www.wisconsinfrights.com/zine/cosmic-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/zine/cosmic-encounters/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wisconsin UFO Zine - Alien Encounters &amp; UFO HotspotsCoral Lorenzen: The Wisconsin journalist who pioneered UFO investigation after a 1934...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: kjzz.org  
-   Link: [https://www.kjzz.org/the-show/2025-07-03/this-arizona-couple-complied-much-of-what-we-know-about-ufo-encounters-now-their-work-is-on-display](https://www.kjzz.org/the-show/2025-07-03/this-arizona-couple-complied-much-of-what-we-know-about-ufo-encounters-now-their-work-is-on-display)  
+   Link: <a href="https://www.kjzz.org/the-show/2025-07-03/this-arizona-couple-complied-much-of-what-we-know-about-ufo-encounters-now-their-work-is-on-display" target="_blank" rel="noopener noreferrer nofollow">https://www.kjzz.org/the-show/2025-07-03/this-arizona-couple-complied-much-of-what-we-know-about-ufo-encounters-now-their-work-is-on-display</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Arizona couple compiled much of what we know about...3 Jul 2025 — a woman named Coral Lorenzen had a UFO encounter of her own — she...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
    Title: the wisconsin flying saucer that changed ufo research foreverby wisconsin fright  
-   Link: [https://www.facebook.com/TheSkeletonKeyChronicles/posts/the-wisconsin-flying-saucer-that-changed-ufo-research-foreverby-wisconsin-fright/273642456625589/](https://www.facebook.com/TheSkeletonKeyChronicles/posts/the-wisconsin-flying-saucer-that-changed-ufo-research-foreverby-wisconsin-fright/273642456625589/)  
+   Link: <a href="https://www.facebook.com/TheSkeletonKeyChronicles/posts/the-wisconsin-flying-saucer-that-changed-ufo-research-foreverby-wisconsin-fright/273642456625589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheSkeletonKeyChronicles/posts/the-wisconsin-flying-saucer-that-changed-ufo-research-foreverby-wisconsin-fright/273642456625589/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE WISCONSIN FLYING SAUCER THAT CHANGED UFO...“Barron in 1934 was a small town... Coral dedicated her life to UFO research. She... In...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
    Title: inspired by her 1934 sighting in barron wi coral lorenzen founded the first ever  
-   Link: [https://www.facebook.com/wisconsinfrights/posts/inspired-by-her-1934-sighting-in-barron-wi-coral-lorenzen-founded-the-first-ever/2185117191662598/](https://www.facebook.com/wisconsinfrights/posts/inspired-by-her-1934-sighting-in-barron-wi-coral-lorenzen-founded-the-first-ever/2185117191662598/)  
+   Link: <a href="https://www.facebook.com/wisconsinfrights/posts/inspired-by-her-1934-sighting-in-barron-wi-coral-lorenzen-founded-the-first-ever/2185117191662598/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wisconsinfrights/posts/inspired-by-her-1934-sighting-in-barron-wi-coral-lorenzen-founded-the-first-ever/2185117191662598/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inspired by her 1934 sighting in Barron, WI, Coral...Inspired by her 1934 sighting in Barron, WI, Coral Lorenzen founded the first ever...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: in 1960 jim and coral lorenzen moved the aerial phenomena research organization  
-   Link: [https://www.facebook.com/kjzzphoenix/posts/in-1960-jim-and-coral-lorenzen-moved-the-aerial-phenomena-research-organization-/1346690203529499/](https://www.facebook.com/kjzzphoenix/posts/in-1960-jim-and-coral-lorenzen-moved-the-aerial-phenomena-research-organization-/1346690203529499/)  
+   Link: <a href="https://www.facebook.com/kjzzphoenix/posts/in-1960-jim-and-coral-lorenzen-moved-the-aerial-phenomena-research-organization-/1346690203529499/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kjzzphoenix/posts/in-1960-jim-and-coral-lorenzen-moved-the-aerial-phenomena-research-organization-/1346690203529499/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1960, Jim and Coral Lorenzen moved the Aerial...Long story short, they witnessed a 30 foot illuminated Flying Saucer with hovered ove...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/C0KpEbZO6aw/](https://www.instagram.com/reel/C0KpEbZO6aw/)  
+   Link: <a href="https://www.instagram.com/reel/C0KpEbZO6aw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C0KpEbZO6aw/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cribed as “an open umbrella without the ribs or spurs” fly silently across the summer...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en-gb](https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en-gb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cribed as “an open umbrella without the ribs or spurs” fly silently across the summer...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: americanghostwalks.com  
    Title: UF O Day: 10 Unexplained Sightings Over Haunted U.S  
-   Link: [https://www.americanghostwalks.com/happy-world-ufo-day](https://www.americanghostwalks.com/happy-world-ufo-day)  
+   Link: <a href="https://www.americanghostwalks.com/happy-world-ufo-day" target="_blank" rel="noopener noreferrer nofollow">https://www.americanghostwalks.com/happy-world-ufo-day</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Jul 2025 — Ground Observer Coral Lorenzen UFO Flying Saucer - Green Bay Press Gazette Archive... 1934 UFO sighting in Barron. And she...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
    Title: jim and coral lorenzen who founded apro in 1952  
-   Link: [https://www.reddit.com/r/UFObelievers/comments/fustak/jim_and_coral_lorenzen_who_founded_apro_in_1952/](https://www.reddit.com/r/UFObelievers/comments/fustak/jim_and_coral_lorenzen_who_founded_apro_in_1952/)  
+   Link: <a href="https://www.reddit.com/r/UFObelievers/comments/fustak/jim_and_coral_lorenzen_who_founded_apro_in_1952/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFObelievers/comments/fustak/jim_and_coral_lorenzen_who_founded_apro_in_1952/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lorenzen: “The beginning of the mystery of UFOs was, for me at least, on a sunny summer day in Barron, Wisconsin, in 1934,”...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: shepherdexpress.com  
    Title: look up whats that in the wisconsin sky  
-   Link: [https://shepherdexpress.com/culture/milwaukee-history/look-up-whats-that-in-the-wisconsin-sky/](https://shepherdexpress.com/culture/milwaukee-history/look-up-whats-that-in-the-wisconsin-sky/)  
+   Link: <a href="https://shepherdexpress.com/culture/milwaukee-history/look-up-whats-that-in-the-wisconsin-sky/" target="_blank" rel="noopener noreferrer nofollow">https://shepherdexpress.com/culture/milwaukee-history/look-up-whats-that-in-the-wisconsin-sky/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Look Up—What&#x27;s That in the Wisconsin Sky?8 Jun 2022 — The Aerial Phenomena Research Organization (APRO) was a UFO research group started...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: cultofweird.com  
-   Link: [https://www.cultofweird.com/ufo-sightings/[dundee](https://www.cultofweird.com/ufo-sightings/[dundee)  
+   Link: <a href="https://www.cultofweird.com/ufo-sightings/[dundee" target="_blank" rel="noopener noreferrer nofollow">https://www.cultofweird.com/ufo-sightings/[dundee</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dundee, Wisconsin: UFO Capital of the WorldAn unknown object witnessed in rural Barron, WI in 1934 inspired Coral Lorenzen to pioneer UFO...</p></details>

@@ -262,7 +262,7 @@ sibling_links:
   short_title: Michigan UFOs
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Alabama_d1f92d
   title: Alabama UFOs
@@ -277,9 +277,9 @@ sibling_links:
   permalink: /what-keeps-tennessees-ufo-stories-alive/
   short_title: Tennessee UFOs
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Idaho_18334c
   title: Idaho UFOs
   permalink: /what-makes-idaho-a-key-ufo-hotspot/
@@ -289,9 +289,9 @@ sibling_links:
   permalink: /what-makes-indianas-ufo-history-unique/
   short_title: Indiana UFOs
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: South_Carolina_11d001
   title: South Carolina UFOs
   permalink: /what-makes-south-carolinas-ufo-story/
@@ -442,10 +442,10 @@ sibling_links:
   short_title: Washington UFOs
 child_links:
 - basename: Oregon_07719a_mcminnville_photos_f05615
-  title: McMinnville | Why Oregon Matters In UFO History
-  permalink: /mcminnville/
-  short_title: McMinnville
-  heading_title: Were The McMinnville UFO Photos Real?
+  title: Mc Minnville | Why Oregon Matters In UFO History
+  permalink: /mc-minnville/
+  short_title: Mc Minnville
+  heading_title: Were The Mc Minnville UFO Photos Real?
 - basename: Oregon_07719a_arnold_pendleton_ori_2fe46d
   title: Origins | Why Oregon Matters In UFO History
   permalink: /origins/
@@ -481,9 +481,8 @@ image: /assets/images/Oregon_07719a-overview-social.jpg
 
 Oregon’s role in modern UFO history begins just outside its borders but lands squarely in Oregon’s newspapers. On 24 June 1947, private pilot Kenneth Arnold reported seeing nine bright objects near Mount Rainier while flying towards an air show in Pendleton, Oregon. The Smithsonian’s National Air and Space Museum notes that Arnold’s account helped put “flying saucer” into public vocabulary, and that his destination was Pendleton. That detail matters because the early saucer story was not only a Washington mountain sighting; it entered public life through Pacific Northwest aviation routes, regional reporting and Oregon press attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">1947 year flying saucer</span></span></span>
 
-
 <img src="{{ "/assets/images/Oregon_07719a-overview.webp" | relative_url }}" alt="Overview image for Why Oregon Matters In UFO History" loading="eager" decoding="sync" fetchpriority="high">
-The wider point is not that Oregon “started” the UFO age, but that it was present at the start. Within three years, Oregon had produced one of the most famous UFO photo cases in the United States. Within twelve years, it had a radar-and-interceptor case at [Redmond]({{ 'redmond/' | relative_url }}). Later still, McMinnville turned a contested sighting into an annual public festival. That sequence gives Oregon a fuller UFO record than a simple list of sightings: it has photographs, aviation witnesses, official involvement, sceptical controversy and a continuing local memory culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Photographic Case Studies: Cases 46 - 59...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bendsource.com/news/uforegon-16707374/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bendsource.com">[The Source -]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bendsource.com</span><span class="citation-popover-title">The Source</span><span class="citation-popover-snippet">The Source</span></span></span>
+The wider point is not that Oregon “started” the UFO age, but that it was present at the start. Within three years, Oregon had produced one of the most famous UFO photo cases in the United States. Within twelve years, it had a radar-and-interceptor case at Redmond. Later still, McMinnville turned a contested sighting into an annual public festival. That sequence gives Oregon a fuller UFO record than a simple list of sightings: it has photographs, aviation witnesses, official involvement, sceptical controversy and a continuing local memory culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Photographic Case Studies: Cases 46 - 59...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bendsource.com/news/uforegon-16707374/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bendsource.com">[The Source -]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bendsource.com</span><span class="citation-popover-title">The Source</span><span class="citation-popover-snippet">The Source</span></span></span>
 
 ## The McMinnville photographs: Oregon’s landmark UFO case
 
@@ -499,8 +498,7 @@ The main sceptical argument is simpler and still powerful: the object appears be
 
 For a reader assessing the Trent photographs today, the fairest conclusion is cautious. The case is stronger than many anecdotal UFO [reports]({{ 'reports/' | relative_url }}) because it has photographs, named witnesses, early newspaper handling and later technical analysis. It is weaker than believers often imply because the photographs do not independently establish distance, size, speed or origin beyond dispute, and a hoax scenario was never eliminated. The Trent case is therefore best treated as Oregon’s most famous unresolved photographic UFO case, not as confirmed evidence of an alien craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Photographic Case Studies: Cases 46 - 59...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[2files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Photographic Case Studies: Cases 46 - 59...</span></span></span>
 
-
-<img src="{{ "/assets/images/Oregon_07719a-Illustration-1-light.svg" | relative_url }}" alt="Why Oregon Matters In UFO History illustration 1" data-theme-src-dark="{{ "/assets/images/Oregon_07719a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oregon_07719a-Illustration-1-dark.svg" | relative_url }}" alt="Why Oregon Matters In UFO History illustration 1" data-theme-src-dark="{{ "/assets/images/Oregon_07719a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Redmond 1959: when Oregon’s UFO story reached radar and jets
 
 If McMinnville is Oregon’s best-known photographic case, Redmond is its most important aviation-and-radar case. On 24 September 1959, Redmond police officer Robert Dickerson reportedly saw a glowing, mushroom-shaped object moving in the sky. Local reporting summarising the case says it glowed in several colours, was bright enough to illuminate nearby treetops, and appeared to hover for over an hour. The same account says the object was detected by Federal Aviation Administration radar and that six jet interceptors were deployed from Portland Air Base to search the skies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bendsource.com/news/uforegon-16707374/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bendsource.com">[The Source - Bend, Oregon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bendsource.com</span><span class="citation-popover-title">The Source</span><span class="citation-popover-snippet">The Source</span></span></span>
@@ -512,7 +510,6 @@ The sceptical pressure point is the official explanation. The FAA and Air Force 
 The case is also a warning about later embellishment. NICAP’s Redmond page points out that some more sensational retellings, especially claims about jets being on a secret mission to capture the UFO, appeared later and were not present in the earliest accounts. That is an important distinction. The serious core of the case is the police-airport-radar-interceptor episode; the more cinematic versions of jets nearly colliding with a craft or chasing a crewed vehicle should be treated with much greater caution unless tied to primary documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/590924redmond_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">590924redmond dir</span><span class="citation-popover-snippet">590924redmond dir</span></span></span>
 
 Redmond should therefore be classified as stronger than a routine light-in-the-sky report but not settled. Its best evidence is the cluster of official and aviation-linked claims. Its weakest area is the gap between dramatic later UFO literature and what can be securely tied to early records. It remains one of Oregon’s most valuable cases because it asks exactly the right historical question: when an official explanation is offered, does it explain all parts of the event, or only the easiest part? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bendsource.com/news/uforegon-16707374/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bendsource.com">[The Source - Bend, Oregon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bendsource.com</span><span class="citation-popover-title">The Source</span><span class="citation-popover-snippet">The Source</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bendsource.com/news/uforegon-16707374/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bendsource.com">[The Source - Bend, Oregon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bendsource.com</span><span class="citation-popover-title">The Source</span><span class="citation-popover-snippet">The Source</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e9ppdVOoNqk" title="UFO report. Multiple aircraft report unknown objects over Oregon. Real ATC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e9ppdVOoNqk" target="_blank" rel="noopener noreferrer">UFO report. Multiple aircraft report unknown objects over Oregon. Real ATC</a></p><p class="youtube-embed-meta">Channel: You can see ATC &middot; Views: 114.5K &middot; Uploaded: December 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e9ppdVOoNqk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e9ppdVOoNqk">Open on YouTube</a></p></div></div></div>
 
@@ -534,8 +531,7 @@ The December 2024 Oregon pilot reports show why modern cases can spread quickly.
 
 The better way to understand modern Oregon sightings is as aviation-safety and data-quality problems first. NASA’s UAP independent study argued that aviation safety reporting could become a useful route for better UAP data, because pilots and controllers already report unusual or unexpected events through established systems. The FAA’s air-traffic manual now instructs controllers to inform supervisors of reported or observed UAP or unexplained-phenomena activity. That is a shift in seriousness, not a shift into certainty. It means the modern system is better placed to collect reports, but the reports still need corroboration, sensor data and careful elimination of ordinary causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
-
-<img src="{{ "/assets/images/Oregon_07719a-Illustration-2-light.svg" | relative_url }}" alt="Why Oregon Matters In UFO History illustration 2" data-theme-src-dark="{{ "/assets/images/Oregon_07719a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oregon_07719a-Illustration-2-dark.svg" | relative_url }}" alt="Why Oregon Matters In UFO History illustration 2" data-theme-src-dark="{{ "/assets/images/Oregon_07719a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## McMinnville’s UFO Festival and the afterlife of a sighting
 
 Oregon’s UFO story is not only about evidence; it is also about memory. McMinnville’s UFO Festival began as a way to honour the 1950 Trent sighting, and the official festival history still presents the photographs as among the most credible UFO images. Downtown McMinnville describes the event as founded in 2000 at the historic McMenamins Hotel Oregon property and as drawing thousands of visitors to the Willamette Valley town. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofest.com/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofest.com">[UFO Festival]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofest.com</span><span class="citation-popover-title">UFO Festival History</span><span class="citation-popover-snippet">UFO Festival History</span></span></span>
@@ -544,14 +540,12 @@ That festival can be read in two ways. For believers, it keeps alive one of the 
 
 The cultural afterlife matters because UFO history is often shaped by repetition. A case that is retold every year becomes easier to remember, but also easier to simplify. McMinnville’s challenge is therefore the same as Oregon’s wider UFO challenge: to preserve the human story without flattening the evidence. The Trents may have been sincere; the photographs may show a real object; the object may still have been a staged model or something ordinary seen under unusual conditions. A good public account has room for all of those possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Photographic Case Studies: Cases 46 - 59...</span></span></span>
 
-
-<img src="{{ "/assets/images/Oregon_07719a-Illustration-3-light.svg" | relative_url }}" alt="Why Oregon Matters In UFO History illustration 3" data-theme-src-dark="{{ "/assets/images/Oregon_07719a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oregon_07719a-Illustration-3-dark.svg" | relative_url }}" alt="Why Oregon Matters In UFO History illustration 3" data-theme-src-dark="{{ "/assets/images/Oregon_07719a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to judge Oregon UFO cases fairly
 
 The strongest Oregon cases are not necessarily the strangest-sounding ones. They are the cases with early reporting, named witnesses, photographs or radar claims, aviation context, and records that can be checked against later retellings. On that basis, McMinnville and Redmond stand above most Oregon reports: one because of its photographs and technical analysis, the other because of its police, airport, radar and interceptor elements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Photographic Case Studies: Cases 46 - 59...</span></span></span>
 
 A useful grading system for Oregon reports would look like this:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -564,7 +558,6 @@ A useful grading system for Oregon reports would look like this:
 
 This approach avoids two common mistakes. It does not dismiss witnesses simply because a report is unusual, and it does not treat “unidentified” as a synonym for extraterrestrial. That distinction is consistent with the Air Force’s historical position: some cases remained unidentified, but Project Blue Book did not find evidence that unidentified cases represented extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xF1kJQclyIw" title="Where We Live: McMinnville&#x27;s famous UFO Festival" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xF1kJQclyIw" target="_blank" rel="noopener noreferrer">Where We Live: McMinnville&#x27;s famous UFO Festival</a></p><p class="youtube-embed-meta">Channel: KOIN 6 &middot; Views: 11.2K &middot; Uploaded: May 2019 &middot; Length: 2 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xF1kJQclyIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xF1kJQclyIw">Open on YouTube</a></p></div></div></div>
 
 ## What Oregon’s UFO record really shows
@@ -573,9 +566,7 @@ Oregon’s UFO history is best understood as a layered record, not a single myst
 
 The most evidence-led conclusion is neither debunking nor belief. Oregon has produced several UFO cases that deserve serious historical attention, especially McMinnville and Redmond. It has not produced public proof of extraterrestrial craft. Its real value is as a state-level case study in how UFO claims are born, investigated, challenged, archived and remembered: through witnesses looking up, officials trying to classify what was seen, sceptics testing weak points, advocates preserving anomalies, and communities deciding which stories become part of local history.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2gfO4rg3ous" title="Oregon pilot speaks out after seeing UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2gfO4rg3ous" target="_blank" rel="noopener noreferrer">Oregon pilot speaks out after seeing UFO</a></p><p class="youtube-embed-meta">Channel: KEZI 9 &middot; Views: 498.0K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2gfO4rg3ous" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2gfO4rg3ous">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -663,7 +654,7 @@ The most evidence-led conclusion is neither debunking nor belief. Oregon has pro
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -673,111 +664,36 @@ The most evidence-led conclusion is neither debunking nor belief. Oregon has pro
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Out Of This World Embroidered Alien Patch Iron or Sew On Badge applique logo"><img src="https://i.ebayimg.com/images/g/-JgAAOSwMyhkHZzN/s-l225.jpg" alt="Listing image for Ufo Out Of This World Embroidered Alien Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Ufo Out Of This World Embroidered Alien Patch Iron or Sew On Badge applique logo</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -785,15 +701,15 @@ The most evidence-led conclusion is neither debunking nor belief. Oregon has pro
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA"><img src="https://i.ebayimg.com/images/g/DnIAAOSwvt1WSCi5/s-l225.jpg" alt="Listing image for Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -801,15 +717,15 @@ The most evidence-led conclusion is neither debunking nor belief. Oregon has pro
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="https://i.ebayimg.com/images/g/mdEAAOSwa~dkHZjp/s-l225.jpg" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -817,15 +733,15 @@ The most evidence-led conclusion is neither debunking nor belief. Oregon has pro
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien"><img src="https://i.ebayimg.com/images/g/m-UAAOSwNd1iVoqP/s-l225.jpg" alt="Listing image for 3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -833,7 +749,7 @@ The most evidence-led conclusion is neither debunking nor belief. Oregon has pro
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-oregon-matters-in-ufo-history-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -910,17 +826,31 @@ The most evidence-led conclusion is neither debunking nor belief. Oregon has pro
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -933,42 +863,73 @@ The most evidence-led conclusion is neither debunking nor belief. Oregon has pro
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -983,12 +944,17 @@ The most evidence-led conclusion is neither debunking nor belief. Oregon has pro
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -998,318 +964,318 @@ The most evidence-led conclusion is neither debunking nor belief. Oregon has pro
 
 1. <a id="endnote-1"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/case46.htm](https://files.ncas.org/condon/text/case46.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case46.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Photographic Case Studies: Cases 46 - 59...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: bendsource.com  
    Title: The Source  
-   Link: [https://www.bendsource.com/news/uforegon-16707374/](https://www.bendsource.com/news/uforegon-16707374/)  
+   Link: <a href="https://www.bendsource.com/news/uforegon-16707374/" target="_blank" rel="noopener noreferrer nofollow">https://www.bendsource.com/news/uforegon-16707374/</a>  
 
 3. <a id="endnote-3"></a>
    Source: newsweek.com  
    Title: Pilot Encountered Mystery Objects ‘Moving at Extreme Speed’: FAA  
-   Link: [https://www.newsweek.com/pilot-encountered-mystery-objects-moving-extreme-speed-faa-ufo-drones-1999690](https://www.newsweek.com/pilot-encountered-mystery-objects-moving-extreme-speed-faa-ufo-drones-1999690)  
+   Link: <a href="https://www.newsweek.com/pilot-encountered-mystery-objects-moving-extreme-speed-faa-ufo-drones-1999690" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/pilot-encountered-mystery-objects-moving-extreme-speed-faa-ufo-drones-1999690</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Title: Mc Minnville UFO photographs  
-   Link: [https://en.wikipedia.org/wiki/McMinnville_UFO_photographs](https://en.wikipedia.org/wiki/McMinnville_UFO_photographs)  
+   Title: [Mc Minnville](&#123;&#123; 'mc-minnville/' | relative_url &#125;&#125;) UFO photographs  
+   Link: <a href="https://en.wikipedia.org/wiki/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/McMinnville_UFO_photographs</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Mc Minnville, Oregon  
-   Link: [https://en.wikipedia.org/wiki/McMinnville%2C_Oregon](https://en.wikipedia.org/wiki/McMinnville%2C_Oregon)  
+   Link: <a href="https://en.wikipedia.org/wiki/McMinnville%2C_Oregon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/McMinnville%2C_Oregon</a>  
 
 6. <a id="endnote-6"></a>
    Source: nicap.org  
    Title: 590924redmond dir  
-   Link: [https://www.nicap.org/590924redmond_dir.htm](https://www.nicap.org/590924redmond_dir.htm)  
+   Link: <a href="https://www.nicap.org/590924redmond_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/590924redmond_dir.htm</a>  
 
 7. <a id="endnote-7"></a>
    Source: nicap.org  
    Title: The Redman Oregon Case UFO History  
-   Link: [https://www.nicap.org/reports/oregon1.htm](https://www.nicap.org/reports/oregon1.htm)  
+   Link: <a href="https://www.nicap.org/reports/oregon1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/oregon1.htm</a>  
 
 8. <a id="endnote-8"></a>
    Source: 173fw.ang.af.mil  
    Title: 173rd Fighter Wing  
-   Link: [https://www.173fw.ang.af.mil/Home/Welcome/](https://www.173fw.ang.af.mil/Home/Welcome/)  
+   Link: <a href="https://www.173fw.ang.af.mil/Home/Welcome/" target="_blank" rel="noopener noreferrer nofollow">https://www.173fw.ang.af.mil/Home/Welcome/</a>  
 
 9. <a id="endnote-9"></a>
    Source: ang.af.mil  
    Title: Air National Guard  
-   Link: [https://www.ang.af.mil/Media/Article-Display/Article/3838592/f-15ex-eagle-ii-unveiled-at-portland-air-national-guard-base/](https://www.ang.af.mil/Media/Article-Display/Article/3838592/f-15ex-eagle-ii-unveiled-at-portland-air-national-guard-base/)  
+   Link: <a href="https://www.ang.af.mil/Media/Article-Display/Article/3838592/f-15ex-eagle-ii-unveiled-at-portland-air-national-guard-base/" target="_blank" rel="noopener noreferrer nofollow">https://www.ang.af.mil/Media/Article-Display/Article/3838592/f-15ex-eagle-ii-unveiled-at-portland-air-national-guard-base/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>F-15EX Eagle II Unveiled at Portland Air National Guard Base &gt; Air National Guard &gt; Article Display...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
    Title: Reports for State OR  
-   Link: [https://nuforc.org/subndx/?id=lOR](https://nuforc.org/subndx/?id=lOR)  
+   Link: <a href="https://nuforc.org/subndx/?id=lOR" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lOR</a>  
 
 13. <a id="endnote-13"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
 
 15. <a id="endnote-15"></a>
    Source: newspapers.com  
    Title: Oregonian pg. 7  
-   Link: [https://www.newspapers.com/article/the-oregonian-oregonian-pg-7-june-10-1/181905148/](https://www.newspapers.com/article/the-oregonian-oregonian-pg-7-june-10-1/181905148/)  
+   Link: <a href="https://www.newspapers.com/article/the-oregonian-oregonian-pg-7-june-10-1/181905148/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/the-oregonian-oregonian-pg-7-june-10-1/181905148/</a>  
 
 16. <a id="endnote-16"></a>
    Source: newspapers.com  
    Title: corvallis gazette times kenneth arnold u  
-   Link: [https://www.newspapers.com/article/corvallis-gazette-times-kenneth-arnold-u/54076142/?locale=en-GB](https://www.newspapers.com/article/corvallis-gazette-times-kenneth-arnold-u/54076142/?locale=en-GB)  
+   Link: <a href="https://www.newspapers.com/article/corvallis-gazette-times-kenneth-arnold-u/54076142/?locale=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/corvallis-gazette-times-kenneth-arnold-u/54076142/?locale=en-GB</a>  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=all](https://nuforc.org/subndx/?id=all)  
+   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=157912](https://nuforc.org/sighting/?id=157912)  
+   Link: <a href="https://nuforc.org/sighting/?id=157912" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=157912</a>  
 
 20. <a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 21. <a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=197294](https://nuforc.org/sighting/?id=197294)  
+   Link: <a href="https://nuforc.org/sighting/?id=197294" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197294</a>  
 
 22. <a id="endnote-22"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=112070](https://nuforc.org/sighting/?id=112070)  
+   Link: <a href="https://nuforc.org/sighting/?id=112070" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=112070</a>  
 
 23. <a id="endnote-23"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
 24. <a id="endnote-24"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=47486](https://nuforc.org/sighting/?id=47486)  
+   Link: <a href="https://nuforc.org/sighting/?id=47486" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=47486</a>  
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United States  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_States](https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_States)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_States</a>  
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
    Title: UFO photographs  
-   Link: [https://en.wikipedia.org/wiki/UFO_photographs](https://en.wikipedia.org/wiki/UFO_photographs)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
 
 27. <a id="endnote-27"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 28. <a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 29. <a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold UFO sighting  
-   Link: [https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting](https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
 
 30. <a id="endnote-30"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/173rd_Fighter_Wing](https://en.wikipedia.org/wiki/173rd_Fighter_Wing)  
+   Link: <a href="https://en.wikipedia.org/wiki/173rd_Fighter_Wing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/173rd_Fighter_Wing</a>  
 
 31. <a id="endnote-31"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/142nd_Wing](https://en.wikipedia.org/wiki/142nd_Wing)  
+   Link: <a href="https://en.wikipedia.org/wiki/142nd_Wing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/142nd_Wing</a>  
 
 32. <a id="endnote-32"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
 33. <a id="endnote-33"></a>
    Source: Wikipedia  
    Title: UFO Report (U.S. Intelligence)  
-   Link: [https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29](https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29</a>  
 
 34. <a id="endnote-34"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
 35. <a id="endnote-35"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 36. <a id="endnote-36"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 37. <a id="endnote-37"></a>
    Source: history.com  
    Title: ufo dogfight gorman us plane fargo  
-   Link: [https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo](https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo)  
+   Link: <a href="https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo</a>  
 
 38. <a id="endnote-38"></a>
    Source: oregon.gov  
-   Link: [https://www.oregon.gov/omd/bservice/Documents/PAO%20Sentinel/2024-Spring.pdf](https://www.oregon.gov/omd/bservice/Documents/PAO%20Sentinel/2024-Spring.pdf)  
+   Link: <a href="https://www.oregon.gov/omd/bservice/Documents/PAO%20Sentinel/2024-Spring.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oregon.gov/omd/bservice/Documents/PAO%20Sentinel/2024-Spring.pdf</a>  
 
 39. <a id="endnote-39"></a>
    Source: airandspace.si.edu  
    Title: 1947 year flying saucer  
-   Link: [https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer](https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer)  
+   Link: <a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
 
 40. <a id="endnote-40"></a>
    Source: eastoregonian.com  
    Title: the sighting  
-   Link: [https://eastoregonian.com/2017/06/16/the-sighting/](https://eastoregonian.com/2017/06/16/the-sighting/)  
+   Link: <a href="https://eastoregonian.com/2017/06/16/the-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://eastoregonian.com/2017/06/16/the-sighting/</a>  
 
 41. <a id="endnote-41"></a>
    Source: downtownmcminnville.com  
-   Link: [https://downtownmcminnville.com/ufo-festival/](https://downtownmcminnville.com/ufo-festival/)  
+   Link: <a href="https://downtownmcminnville.com/ufo-festival/" target="_blank" rel="noopener noreferrer nofollow">https://downtownmcminnville.com/ufo-festival/</a>  
 
 42. <a id="endnote-42"></a>
    Source: ufofest.com  
    Title: UFO Festival History  
-   Link: [https://ufofest.com/history/](https://ufofest.com/history/)  
+   Link: <a href="https://ufofest.com/history/" target="_blank" rel="noopener noreferrer nofollow">https://ufofest.com/history/</a>  
 
 43. <a id="endnote-43"></a>
    Source: oregonmufon.com  
    Title: Mc Minnville Photo Case  
-   Link: [https://oregonmufon.com/PDFs/McMinnvillePhotoCase.pdf](https://oregonmufon.com/PDFs/McMinnvillePhotoCase.pdf)  
+   Link: <a href="https://oregonmufon.com/PDFs/McMinnvillePhotoCase.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oregonmufon.com/PDFs/McMinnvillePhotoCase.pdf</a>  
 
 44. <a id="endnote-44"></a>
    Source: reddit.com  
    Title: Mc Minnville  
-   Link: [https://www.reddit.com/r/UFOs/comments/10w8t21/mcminnville_may_11_1950/](https://www.reddit.com/r/UFOs/comments/10w8t21/mcminnville_may_11_1950/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/10w8t21/mcminnville_may_11_1950/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/10w8t21/mcminnville_may_11_1950/</a>  
 
 45. <a id="endnote-45"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/rn86u9/mcminnville_oregon_ufo_photo_with_enhanced/](https://www.reddit.com/r/UFOs/comments/rn86u9/mcminnville_oregon_ufo_photo_with_enhanced/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/rn86u9/mcminnville_oregon_ufo_photo_with_enhanced/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rn86u9/mcminnville_oregon_ufo_photo_with_enhanced/</a>  
 
 46. <a id="endnote-46"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 47. <a id="endnote-47"></a>
    Source: thetimes.com  
    Title: mcminnville oregon ufo festival in photos nth3crqrg  
-   Link: [https://www.thetimes.com/uk/photography-uk/article/mcminnville-oregon-ufo-festival-in-photos-nth3crqrg](https://www.thetimes.com/uk/photography-uk/article/mcminnville-oregon-ufo-festival-in-photos-nth3crqrg)  
+   Link: <a href="https://www.thetimes.com/uk/photography-uk/article/mcminnville-oregon-ufo-festival-in-photos-nth3crqrg" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/photography-uk/article/mcminnville-oregon-ufo-festival-in-photos-nth3crqrg</a>  
 
 48. <a id="endnote-48"></a>
    Source: scottbakal.com  
-   Link: [https://www.scottbakal.com/mcminnvilleufo](https://www.scottbakal.com/mcminnvilleufo)  
+   Link: <a href="https://www.scottbakal.com/mcminnvilleufo" target="_blank" rel="noopener noreferrer nofollow">https://www.scottbakal.com/mcminnvilleufo</a>  
 
 49. <a id="endnote-49"></a>
    Source: kpcnotebook.scholastic.com  
    Title: mcminnville holds annual ufo fest  
-   Link: [https://kpcnotebook.scholastic.com/post/mcminnville-holds-annual-ufo-fest](https://kpcnotebook.scholastic.com/post/mcminnville-holds-annual-ufo-fest)  
+   Link: <a href="https://kpcnotebook.scholastic.com/post/mcminnville-holds-annual-ufo-fest" target="_blank" rel="noopener noreferrer nofollow">https://kpcnotebook.scholastic.com/post/mcminnville-holds-annual-ufo-fest</a>  
 
 50. <a id="endnote-50"></a>
    Source: ufofest.com  
-   Link: [https://ufofest.com/wp-content/uploads/2018/10/UFOHistory3.05.pdf](https://ufofest.com/wp-content/uploads/2018/10/UFOHistory3.05.pdf)  
+   Link: <a href="https://ufofest.com/wp-content/uploads/2018/10/UFOHistory3.05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufofest.com/wp-content/uploads/2018/10/UFOHistory3.05.pdf</a>  
 
 51. <a id="endnote-51"></a>
    Source: [origins](&#123;&#123; 'origins/' | relative_url &#125;&#125;). osu.edu  
    Title: air force investigation ufos  
-   Link: [https://origins.osu.edu/read/air-force-investigation-ufos](https://origins.osu.edu/read/air-force-investigation-ufos)  
+   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
 
 52. <a id="endnote-52"></a>
    Source: ada-nuforc-analysis.github.io  
-   Link: [https://ada-nuforc-analysis.github.io/](https://ada-nuforc-analysis.github.io/)  
+   Link: <a href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/</a>  
 
 53. <a id="endnote-53"></a>
    Source: ripleys.com  
-   Link: [https://www.ripleys.com/stories/mcminnville](https://www.ripleys.com/stories/mcminnville)  
+   Link: <a href="https://www.ripleys.com/stories/mcminnville" target="_blank" rel="noopener noreferrer nofollow">https://www.ripleys.com/stories/mcminnville</a>  
 
 54. <a id="endnote-54"></a>
    Source: alamy.com  
-   Link: [https://www.alamy.com/stock-photo/mcminnville-oregon-ufo.html](https://www.alamy.com/stock-photo/mcminnville-oregon-ufo.html)  
+   Link: <a href="https://www.alamy.com/stock-photo/mcminnville-oregon-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/mcminnville-oregon-ufo.html</a>  
 
 55. <a id="endnote-55"></a>
    Source: matadornetwork.com  
    Title: mcminnville ufo festival mcmenamins  
-   Link: [https://matadornetwork.com/read/mcminnville-ufo-festival-mcmenamins/](https://matadornetwork.com/read/mcminnville-ufo-festival-mcmenamins/)  
+   Link: <a href="https://matadornetwork.com/read/mcminnville-ufo-festival-mcmenamins/" target="_blank" rel="noopener noreferrer nofollow">https://matadornetwork.com/read/mcminnville-ufo-festival-mcmenamins/</a>  
 
 56. <a id="endnote-56"></a>
    Source: oregonencyclopedia.org  
-   Link: [https://www.oregonencyclopedia.org/articles/mcminnville/](https://www.oregonencyclopedia.org/articles/mcminnville/)  
+   Link: <a href="https://www.oregonencyclopedia.org/articles/mcminnville/" target="_blank" rel="noopener noreferrer nofollow">https://www.oregonencyclopedia.org/articles/mcminnville/</a>  
 
 57. <a id="endnote-57"></a>
    Source: kids.kiddle.co  
    Title: Mc Minnville UFO photographs  
-   Link: [https://kids.kiddle.co/McMinnville_UFO_photographs](https://kids.kiddle.co/McMinnville_UFO_photographs)  
+   Link: <a href="https://kids.kiddle.co/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/McMinnville_UFO_photographs</a>  
 
 ### Additional References
 
 58. <a id="endnote-58"></a>
    Source: newyorker.com  
-   Link: [https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography](https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography)  
+   Link: <a href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical and purportedly authentic U.F.O. photographs, such as Paul Trent’s 1950 images and a 1971 Costa Rica photo, continue to spark...</p></details>
 
 59. <a id="endnote-59"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=8ffYJukz62A](https://www.youtube.com/watch?v=8ffYJukz62A)  
+   Link: <a href="https://www.youtube.com/watch?v=8ffYJukz62A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8ffYJukz62A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
 60. <a id="endnote-60"></a>
    Source: youtube.com  
    Title: How the Mc Minnville UFO sighting inspired Oregon's famous UFO festival  
-   Link: [https://www.youtube.com/watch?v=I70VGsQ6ZVw](https://www.youtube.com/watch?v=I70VGsQ6ZVw)  
+   Link: <a href="https://www.youtube.com/watch?v=I70VGsQ6ZVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I70VGsQ6ZVw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Famous McMinnville UFO. Flew Over Our 1917 Schoolhouse 76 Years Ago-Here&#x27;s the Proof...</p></details>
 
 61. <a id="endnote-61"></a>
    Source: youtube.com  
    Title: Kenneth Arnold UFO Sighting The First UFOs  
-   Link: [https://www.youtube.com/watch?v=xLuHgsXGpqc](https://www.youtube.com/watch?v=xLuHgsXGpqc)  
+   Link: <a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xLuHgsXGpqc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold and the First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
 62. <a id="endnote-62"></a>
    Source: youtube.com  
    Title: Kenneth Arnold and the First UFOs  
-   Link: [https://www.youtube.com/watch?v=qdXNAOxs6mo](https://www.youtube.com/watch?v=qdXNAOxs6mo)  
+   Link: <a href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qdXNAOxs6mo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report. Multiple aircraft report unknown objects over Oregon. Real ATC...</p></details>
 
 63. <a id="endnote-63"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 64. <a id="endnote-64"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/142WG/posts/the-acting-director-of-the-air-national-guard-spent-this-past-week-in-portland-w/1410039371165868/](https://www.facebook.com/142WG/posts/the-acting-director-of-the-air-national-guard-spent-this-past-week-in-portland-w/1410039371165868/)  
+   Link: <a href="https://www.facebook.com/142WG/posts/the-acting-director-of-the-air-national-guard-spent-this-past-week-in-portland-w/1410039371165868/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/142WG/posts/the-acting-director-of-the-air-national-guard-spent-this-past-week-in-portland-w/1410039371165868/</a>  
 
 65. <a id="endnote-65"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Boeing/posts/15-never-looked-this-goodf-15-ex15-has-officially-joined-the-142nd-wing-oregon-a/1294749399346325/](https://www.facebook.com/Boeing/posts/15-never-looked-this-goodf-15-ex15-has-officially-joined-the-142nd-wing-oregon-a/1294749399346325/)  
+   Link: <a href="https://www.facebook.com/Boeing/posts/15-never-looked-this-goodf-15-ex15-has-officially-joined-the-142nd-wing-oregon-a/1294749399346325/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Boeing/posts/15-never-looked-this-goodf-15-ex15-has-officially-joined-the-142nd-wing-oregon-a/1294749399346325/</a>  
 
 66. <a id="endnote-66"></a>
    Source: pdxmonthly.com  
-   Link: [https://www.pdxmonthly.com/news-and-city-life/2012/04/oregon-ufo-guide-may-2012](https://www.pdxmonthly.com/news-and-city-life/2012/04/oregon-ufo-guide-may-2012)  
+   Link: <a href="https://www.pdxmonthly.com/news-and-city-life/2012/04/oregon-ufo-guide-may-2012" target="_blank" rel="noopener noreferrer nofollow">https://www.pdxmonthly.com/news-and-city-life/2012/04/oregon-ufo-guide-may-2012</a>  
 
 67. <a id="endnote-67"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/foxsanantonio/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-sparking-renewed-public-in/1396808059161361/](https://www.facebook.com/foxsanantonio/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-sparking-renewed-public-in/1396808059161361/)  
+   Link: <a href="https://www.facebook.com/foxsanantonio/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-sparking-renewed-public-in/1396808059161361/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxsanantonio/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-sparking-renewed-public-in/1396808059161361/</a>

@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /blue-book-a06dab/
 nav_short_title: Portage Chase
 title: Why the Portage County UFO Chase Still Divides Readers
-title_full: Why the Portage County UFO Chase Still Divides Readers | Blue Book
+title_full: Why the Portage County UFO Chase Still Divides Readers
 display_title_short: Portage Chase
 display_title: Portage Chase
 heading_title: Why the Portage County UFO Chase Still Divides Readers
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:01:12'
-parent_title: What Did Blue Book Really Prove? | Ohio UFOs
+parent_title: What Did Blue Book Really Prove?
 parent_permalink: /blue-book-a06dab/
 parent_nav_short_title: Blue Book
 parent_heading_title: What Did Blue Book Really Prove?
@@ -250,18 +250,16 @@ image: /assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_portage_county_cha
 
 ## Introduction
 
-The Portage County UFO chase remains one of Ohio’s most disputed UFO cases because the argument is no longer only about what police officers saw in the sky. It is also about how Project [Blue Book]({{ 'blue-book-a06dab/' | relative_url }}) handled the report afterwards. In April 1966, several law-enforcement officers in north-east Ohio and western Pennsylvania reported pursuing a bright airborne object for dozens of miles before dawn. Within days, the Air Force’s official UFO programme concluded that the officers had misidentified astronomical objects, principally a satellite and the planet Venus. Critics argued that the explanation was rushed, incomplete and dismissive. Supporters of Blue Book replied that excitement, darkness and misperception can produce dramatic but mistaken observations. More than half a century later, the case still serves as one of the clearest examples of the credibility gap that developed between UFO witnesses and official investigators in Ohio. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-April171966-Ravenna-Mantua-Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">p,.-v-c Ff,, 7-r&#x27;&gt;&#x27;· --/f·l·f&#x27;Portage County Ohio sheriff&#x27;s</span><span class="citation-popover-snippet">\\.hen the picture. was de- deputies... &quot;Project Blue Book,&#x27;&#x27; the Air. Force oCricial UFO in&quot;csti:a· 1 tion projtd...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports2/660417portage.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPThe Portage County Ohio UFO ChaseOne of the most dramatic encounters by police officers with an apparently structured, low-level UFO...</span></span></span>
+The Portage County UFO chase remains one of Ohio’s most disputed UFO cases because the argument is no longer only about what police officers saw in the sky. It is also about how Project [Blue Book]({{ 'blue-book-a06dab/' | relative_url }}) handled the report afterwards. In April 1966, several law-enforcement officers in north-east Ohio and western Pennsylvania reported pursuing a bright airborne object for dozens of miles before dawn. Within days, the Air Force’s official UFO programme concluded that the officers had misidentified astronomical objects, principally a satellite and the planet Venus. Critics argued that the explanation was rushed, incomplete and dismissive. Supporters of Blue Book replied that excitement, darkness and misperception can produce dramatic but mistaken observations. More than half a century later, the case still serves as one of the clearest examples of the credibility gap that developed between UFO witnesses and official investigators in Ohio. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-April171966-Ravenna-Mantua-Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">p,.-v-c Ff,, 7-r&#x27;&gt;&#x27;· --/f·l·f&#x27;Portage County Ohio sheriff&#x27;s</span><span class="citation-popover-snippet">\\.hen the picture. was de- deputies... &quot;Project Blue Book,&#x27;&#x27; the Air. Force oCricial UFO in&quot;csti:a· 1 tion projtd...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports2/660417portage.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">The Portage County Ohio UFO ChaseOne of the most dramatic encounters by police officers with an apparently structured, low-level UFO...</span></span></span>
 
-
-<img src="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_portage_county_chase_c51786-Illustration-1-light.svg" | relative_url }}" alt="Portage Chase illustration 1" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_portage_county_chase_c51786-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_portage_county_chase_c51786-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_portage_county_chase_c51786-Illustration-1-dark.svg" | relative_url }}" alt="Portage Chase illustration 1" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_portage_county_chase_c51786-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_portage_county_chase_c51786-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What officers reported during the chase
 
 The incident began in the early hours of 17 April 1966 near Ravenna in Portage County. Deputy sheriffs Dale Spaur and Wilbur Neff reported seeing a bright object rise from a wooded area while they were investigating a parked vehicle. According to their accounts, the object appeared metallic or disc-shaped and emitted an intense light from below. They radioed their observations and began following it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports2/660417portage2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Two Articles About the Ravenna / Portage Co</span><span class="citation-popover-snippet">Ohio UFO ChaseSpaur and Neff were checking on a car parked alongside U.S. 224 between Randolph and Atwater. The car was filled with radio...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/660417ravenna_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">660417ravenna dir</span><span class="citation-popover-snippet">UFO Report1966. Deputy Sheriff Dale Spaur and Mandalay Village Police Chief, Gerald Booker, give their narratives of the UFO chase incide...</span></span></span>
 
-What transformed the sighting into a national story was the length of the pursuit. The officers claimed they followed the object across large stretches of Ohio and into Pennsylvania. Additional police officers reportedly joined or observed parts of the chase after hearing radio communications. Witnesses described the object as moving ahead of them, sometimes appearing to stop, descend or change position before continuing onward. Estimates of the distance travelled varied, but contemporary accounts commonly placed the pursuit at roughly 80 to 90 miles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports2/660417portage.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPThe Portage County Ohio UFO ChaseOne of the most dramatic encounters by police officers with an apparently structured, low-level UFO...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/on-the-trail-of-the-saucers/something-happened-to-dale-68c2ac39d5a8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Something Happened to Dale&#x27; | Point of Contact JUST BEFORE DAWN on Sunday,</span><span class="citation-popover-snippet">Something Happened to Dale&#x27; | Point of ContactJUST BEFORE DAWN on Sunday, April 17, 1966, police officers pursued a UFO for nearly 90 mi...</span><span class="citation-popover-meta">Published: April 17, 1966</span></span></span>
+What transformed the sighting into a national story was the length of the pursuit. The officers claimed they followed the object across large stretches of Ohio and into Pennsylvania. Additional police officers reportedly joined or observed parts of the chase after hearing radio communications. Witnesses described the object as moving ahead of them, sometimes appearing to stop, descend or change position before continuing onward. Estimates of the distance travelled varied, but contemporary accounts commonly placed the pursuit at roughly 80 to 90 miles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports2/660417portage.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">The Portage County Ohio UFO ChaseOne of the most dramatic encounters by police officers with an apparently structured, low-level UFO...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/on-the-trail-of-the-saucers/something-happened-to-dale-68c2ac39d5a8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Something Happened to Dale&#x27; &#124; Point of Contact JUST BEFORE DAWN on Sunday,</span><span class="citation-popover-snippet">Something Happened to Dale&#x27; &#124; Point of ContactJUST BEFORE DAWN on Sunday, April 17, 1966, police officers pursued a UFO for nearly 90 mi...</span><span class="citation-popover-meta">Published: April 17, 1966</span></span></span>
 
 Several features made the case unusually difficult to dismiss outright:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -274,7 +272,6 @@ Several features made the case unusually difficult to dismiss outright:
 
 At the same time, the reports were not identical. Witness descriptions differed on altitude, shape and movement. The observation occurred before sunrise under conditions where bright celestial objects, atmospheric effects and changing viewing angles could complicate judgement. Those ambiguities would become central to later sceptical interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c_7XQDu5yM0" title="A UFO in Ohio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c_7XQDu5yM0" target="_blank" rel="noopener noreferrer">A UFO in Ohio</a></p><p class="youtube-embed-meta">Channel: Curious History &middot; Views: 5.7K &middot; Uploaded: August 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c_7XQDu5yM0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c_7XQDu5yM0">Open on YouTube</a></p></div></div></div>
 
 ## How Blue Book explained the sightings
@@ -285,10 +282,9 @@ Major Hector Quintanilla, then head of Project Blue Book, announced an explanati
 
 The explanation immediately attracted criticism. The officers insisted that what they observed behaved unlike a fixed celestial object. They argued that it appeared to manoeuvre, change altitude and respond to their movements. Critics also pointed out that Blue Book had interviewed only a limited number of participants before issuing its public conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reportsThe Michigan &quot;swamp gas&quot; UFO reports were two mass sightings of unidentified flying objects during the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports2/660417portage2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Two Articles About the Ravenna / Portage Co</span><span class="citation-popover-snippet">Ohio UFO ChaseSpaur and Neff were checking on a car parked alongside U.S. 224 between Randolph and Atwater. The car was filled with radio...</span></span></span>
 
-Astronomer J. Allen Hynek, who served as Blue Book’s scientific consultant, became an important part of the controversy. Although Hynek did not endorse extraterrestrial claims, he reportedly disagreed with the simplicity of the official explanation. His view was that some witness observations may indeed have involved Venus or other astronomical objects, but he considered the Air Force’s public account overly reductive. Later retellings often cite the case as one of several incidents that contributed to Hynek’s growing frustration with Blue Book’s handling of difficult reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/portage66.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Ufologiethe 1966 Portage County police UFO chase7 Nov 2003 — J. Allen Hynek, the respected astronomer who was supposed to &quot;explain&quot; UFO c...</span></span></span> The disagreement exposed a deeper problem. Even if some portion of the sighting could be explained astronomically, many observers felt Blue Book had not convincingly reconstructed the entire sequence of events. The gap between “partially explained” and “case closed” became a recurring criticism of the programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+Astronomer J. Allen Hynek, who served as Blue Book’s scientific consultant, became an important part of the controversy. Although Hynek did not endorse extraterrestrial claims, he reportedly disagreed with the simplicity of the official explanation. His view was that some witness observations may indeed have involved Venus or other astronomical objects, but he considered the Air Force’s public account overly reductive. Later retellings often cite the case as one of several incidents that contributed to Hynek’s growing frustration with Blue Book’s handling of difficult reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/portage66.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">the 1966 Portage County police UFO chase7 Nov 2003 — J. Allen Hynek, the respected astronomer who was supposed to &quot;explain&quot; UFO c...</span></span></span> The disagreement exposed a deeper problem. Even if some portion of the sighting could be explained astronomically, many observers felt Blue Book had not convincingly reconstructed the entire sequence of events. The gap between “partially explained” and “case closed” became a recurring criticism of the programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
-
-<img src="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_portage_county_chase_c51786-Illustration-2-light.svg" | relative_url }}" alt="Portage Chase illustration 2" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_portage_county_chase_c51786-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_portage_county_chase_c51786-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_portage_county_chase_c51786-Illustration-2-dark.svg" | relative_url }}" alt="Portage Chase illustration 2" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_portage_county_chase_c51786-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_portage_county_chase_c51786-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case damaged public trust
 
 The Portage County chase mattered because it arrived during a period when confidence in official UFO investigations was already weakening. Earlier in 1966, public controversy over Michigan sightings and the infamous “swamp gas” explanation had fuelled accusations that authorities were more interested in defusing publicity than pursuing difficult cases. Against that backdrop, the Ohio chase became another test of credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics J</span><span class="citation-popover-snippet">Allen Hynek &amp; Project Blue Book: UFO Secrets RevealedApril 12, 2026 — 12 Apr 2026 — Explore the UFO mysteries J. Allen Hynek uncovered wi...</span><span class="citation-popover-meta">Published: April 12, 2026</span></span></span>
@@ -296,7 +292,6 @@ The Portage County chase mattered because it arrived during a period when confid
 For many readers and reporters, the central question was simple: if trained police officers could describe a dramatic event and receive an explanation they considered absurd, how seriously was Blue Book investigating reports at all? The issue was not necessarily whether the officers had seen an alien craft. It was whether the investigative process appeared fair and thorough. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">1966 Portage County UFO Chase case have both been associated with astronomical sources. In 2009, Peter Davenport, Director of the Nationa...</span></span></span>
 
 Critics focused on several points:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -311,7 +306,6 @@ Supporters of Blue Book responded that extraordinary claims require strong evide
 
 The problem was that Blue Book increasingly struggled to persuade sceptical members of the public that its explanations were the result of careful investigation rather than institutional convenience. The Portage County case became one of the examples repeatedly cited by organisations such as NICAP, which accused the Air Force of dismissing reports too readily. NICAP <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/Portage-County/1966_04_17_US_OH_Portage-County_NICAP_Weitzel_P-13_UFO_Reportr.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Preliminary NICAP investigation by William B</span><span class="citation-popover-snippet">Weitzel (1966)to the Portage County UFO sightings. You have truly amazed me by the... UFO sightings by Project Blue vestigator and chair...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lLNy9Nax120" title="The Great UFO Chase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lLNy9Nax120" target="_blank" rel="noopener noreferrer">The Great UFO Chase</a></p><p class="youtube-embed-meta">Channel: Ohio Mysteries &middot; Views: 16.6K &middot; Uploaded: March 2022 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lLNy9Nax120" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lLNy9Nax120">Open on YouTube</a></p></div></div></div>
 
 ## Did later reporting strengthen or weaken the original claim?
@@ -320,10 +314,9 @@ Later research has not produced decisive evidence that resolves the case. No rad
 
 At the same time, later sceptical analysis has continued to argue that the pursuit can be understood through a combination of astronomical misidentification, expectation and the psychological effects of a prolonged chase. The fact that different witnesses may have been observing different lights at different moments complicates any attempt to treat the event as a single continuous encounter with one object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reportsThe Michigan &quot;swamp gas&quot; UFO reports were two mass sightings of unidentified flying objects during the...</span></span></span>
 
-The human aftermath also became part of the story. Dale Spaur in particular was frequently portrayed in later accounts as a witness whose life was damaged by publicity, ridicule and controversy. Whether or not one accepts his interpretation of the event, the personal consequences helped cement the case in UFO folklore and contributed to its reputation as more than a simple sighting report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/pen5gw/i_made_an_hour_long_video_about_the_portage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">I made an hour long video about the Portage County Chase</span><span class="citation-popover-snippet">RedditI made an hour long video about the Portage County Chase...August 30, 2021 — Dale Spaur was gaslighted by Hector Quintanilla of pr...</span><span class="citation-popover-meta">Published: August 30, 2021</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/the-portager/seeing-a-ufo-ruined-dale-spaurs-life-f86bab152368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Seeing a UFO ruined Dale Spaur&#x27;s life | by Ben WolfordAn Ohio police chief took the only picture of the UFO that Sheriff&#x27;s Deputy Dale Sp...</span></span></span>
+The human aftermath also became part of the story. Dale Spaur in particular was frequently portrayed in later accounts as a witness whose life was damaged by publicity, ridicule and controversy. Whether or not one accepts his interpretation of the event, the personal consequences helped cement the case in UFO folklore and contributed to its reputation as more than a simple sighting report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/pen5gw/i_made_an_hour_long_video_about_the_portage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">I made an hour long video about the Portage County Chase</span><span class="citation-popover-snippet">I made an hour long video about the Portage County Chase...August 30, 2021 — Dale Spaur was gaslighted by Hector Quintanilla of pr...</span><span class="citation-popover-meta">Published: August 30, 2021</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/the-portager/seeing-a-ufo-ruined-dale-spaurs-life-f86bab152368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Seeing a UFO ruined Dale Spaur&#x27;s life &#124; by Ben WolfordAn Ohio police chief took the only picture of the UFO that Sheriff&#x27;s Deputy Dale Sp...</span></span></span>
 
-
-<img src="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_portage_county_chase_c51786-Illustration-3-light.svg" | relative_url }}" alt="Portage Chase illustration 3" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_portage_county_chase_c51786-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_portage_county_chase_c51786-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_portage_county_chase_c51786-Illustration-3-dark.svg" | relative_url }}" alt="Portage Chase illustration 3" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_portage_county_chase_c51786-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_portage_county_chase_c51786-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Portage County chase still matters in Ohio UFO history
 
 Many Ohio UFO cases are remembered because of what witnesses claimed to see. The Portage County chase is remembered because of what happened afterwards. It became a symbol of the growing divide between official explanations and public confidence in those explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reportsThe Michigan &quot;swamp gas&quot; UFO reports were two mass sightings of unidentified flying objects during the...</span></span></span>
@@ -332,9 +325,7 @@ Within the broader story of Project Blue Book’s Ohio legacy, the case illustra
 
 That is why the case remains unresolved in a broader historical sense. The question is no longer only whether the officers chased a UFO. The lasting question is whether Project Blue Book convinced the public that it had genuinely answered them. For many readers of Ohio UFO history, the answer to that second question remains as contested as the sighting itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufohistoryfiles.com/wp-content/uploads/2014/08/145C.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohistoryfiles.com">[2ufohistoryfiles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohistoryfiles.com</span><span class="citation-popover-title">Portage County material</span><span class="citation-popover-snippet">Portage County, Chio... Project Blue Book&#x27;s actions regarding the April 17 UFO sighting which began.Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CImntZnz45Y" title="The Parajournal: UFO chase from Portage, Ohio, to Conway, Pa." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CImntZnz45Y" target="_blank" rel="noopener noreferrer">The Parajournal: UFO chase from Portage, Ohio, to Conway, Pa.</a></p><p class="youtube-embed-meta">Channel: The Beaver County Times &middot; Views: 9.1K &middot; Uploaded: October 2018 &middot; Length: 4 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CImntZnz45Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CImntZnz45Y">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -422,7 +413,7 @@ That is why the case remains unresolved in a broader historical sense. The quest
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -432,111 +423,36 @@ That is why the case remains unresolved in a broader historical sense. The quest
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="https://i.ebayimg.com/images/g/YVIAAOSwd71n7DAx/s-l225.jpg" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,15 +460,15 @@ That is why the case remains unresolved in a broader historical sense. The quest
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/6qMAAeSwlL9odlp9/s-l225.jpg" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -560,15 +476,15 @@ That is why the case remains unresolved in a broader historical sense. The quest
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets"><img src="https://i.ebayimg.com/images/g/sWkAAeSwmOFplQNw/s-l225.jpg" alt="Listing image for UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -576,15 +492,15 @@ That is why the case remains unresolved in a broader historical sense. The quest
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy"><img src="https://i.ebayimg.com/images/g/~qcAAOSwAetdLK5G/s-l225.jpg" alt="Listing image for Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer">Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -592,7 +508,7 @@ That is why the case remains unresolved in a broader historical sense. The quest
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=portage-chase-958a62-why-the-portage-county-ufo-chase-still-divides-readers-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-the-portage-county-ufo-chase-still-divides-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -669,17 +585,31 @@ That is why the case remains unresolved in a broader historical sense. The quest
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -692,42 +622,73 @@ That is why the case remains unresolved in a broader historical sense. The quest
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -742,12 +703,17 @@ That is why the case remains unresolved in a broader historical sense. The quest
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -758,148 +724,148 @@ That is why the case remains unresolved in a broader historical sense. The quest
 1. <a id="endnote-1"></a>
    Source: documents2.theblackvault.com  
    Title: p,.-v-c Ff,, 7-r'>'· --/f·l·f'Portage County Ohio sheriff's  
-   Link: [https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-April171966-Ravenna-Mantua-Ohio.pdf](https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-April171966-Ravenna-Mantua-Ohio.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-April171966-Ravenna-Mantua-Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-April171966-Ravenna-Mantua-Ohio.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>\\.hen the picture. was de- deputies... &quot;Project Blue Book,&#x27;&#x27; the Air. Force oCricial UFO in&quot;csti:a· 1 tion projtd...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports2/660417portage.htm](https://www.nicap.org/reports2/660417portage.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPThe Portage County Ohio UFO ChaseOne of the most dramatic encounters by police officers with an apparently structured, low-level UFO...</p></details>
+   Link: <a href="https://www.nicap.org/reports2/660417portage.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports2/660417portage.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Portage County Ohio UFO ChaseOne of the most dramatic encounters by police officers with an apparently structured, low-level UFO...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 4. <a id="endnote-4"></a>
    Source: nicap.org  
    Title: Two Articles About the Ravenna / Portage Co  
-   Link: [https://www.nicap.org/reports2/660417portage2.htm](https://www.nicap.org/reports2/660417portage2.htm)  
+   Link: <a href="https://www.nicap.org/reports2/660417portage2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports2/660417portage2.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ohio UFO ChaseSpaur and Neff were checking on a car parked alongside U.S. 224 between Randolph and Atwater. The car was filled with radio...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: medium.com  
    Title: 'Something Happened to Dale' | Point of Contact JUST BEFORE DAWN on Sunday,  
-   Link: [https://medium.com/on-the-trail-of-the-saucers/something-happened-to-dale-68c2ac39d5a8](https://medium.com/on-the-trail-of-the-saucers/something-happened-to-dale-68c2ac39d5a8)  
+   Link: <a href="https://medium.com/on-the-trail-of-the-saucers/something-happened-to-dale-68c2ac39d5a8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/something-happened-to-dale-68c2ac39d5a8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Something Happened to Dale&#x27; | Point of ContactJUST BEFORE DAWN on Sunday, April 17, 1966, police officers pursued a UFO for nearly 90 mi...</p></details>
    Published: April 17, 1966  
 
 6. <a id="endnote-6"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/ca/podcast/audioblog-a-1966-ufo-police-chase/id483046074?i=1000721527313](https://podcasts.apple.com/ca/podcast/audioblog-a-1966-ufo-police-chase/id483046074?i=1000721527313)  
+   Link: <a href="https://podcasts.apple.com/ca/podcast/audioblog-a-1966-ufo-police-chase/id483046074?i=1000721527313" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/ca/podcast/audioblog-a-1966-ufo-police-chase/id483046074?i=1000721527313</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsAudioBlog- A 1966 UFO Police ChaseOn the morning of April 17, 1966, two sheriff deputies, Dale Spaur and Wilbur “Barney” Ne...</p></details>
    Published: April 17, 1966  
 
 7. <a id="endnote-7"></a>
    Source: nicap.org  
    Title: 660417ravenna dir  
-   Link: [https://www.nicap.org/660417ravenna_dir.htm](https://www.nicap.org/660417ravenna_dir.htm)  
+   Link: <a href="https://www.nicap.org/660417ravenna_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/660417ravenna_dir.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report1966. Deputy Sheriff Dale Spaur and Mandalay Village Police Chief, Gerald Booker, give their narratives of the UFO chase incide...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/us/podcast/audioblog-a-1966-ufo-police-chase/id483046074?i=1000721527313](https://podcasts.apple.com/us/podcast/audioblog-a-1966-ufo-police-chase/id483046074?i=1000721527313)  
+   Link: <a href="https://podcasts.apple.com/us/podcast/audioblog-a-1966-ufo-police-chase/id483046074?i=1000721527313" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/audioblog-a-1966-ufo-police-chase/id483046074?i=1000721527313</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsAudioBlog- A 1966 UFO Police ChaseAccording to Project Blue Book Director Hector Quintanilla, the officers chased the plane...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ufohistoryfiles.com  
    Title: Portage County material  
-   Link: [https://ufohistoryfiles.com/wp-content/uploads/2014/08/145C.pdf](https://ufohistoryfiles.com/wp-content/uploads/2014/08/145C.pdf)  
+   Link: <a href="https://ufohistoryfiles.com/wp-content/uploads/2014/08/145C.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufohistoryfiles.com/wp-content/uploads/2014/08/145C.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Portage County, Chio... Project Blue Book&#x27;s actions regarding the April 17 UFO sighting which began.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: [https://en.wikipedia.org/wiki/Identification_studies_of_UFOs](https://en.wikipedia.org/wiki/Identification_studies_of_UFOs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1966 Portage County UFO Chase case have both been associated with astronomical sources. In 2009, Peter Davenport, Director of the Nationa...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
    Title: I made an hour long video about the Portage County Chase  
-   Link: [https://www.reddit.com/r/UFOs/comments/pen5gw/i_made_an_hour_long_video_about_the_portage/](https://www.reddit.com/r/UFOs/comments/pen5gw/i_made_an_hour_long_video_about_the_portage/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditI made an hour long video about the Portage County Chase...August 30, 2021 — Dale Spaur was gaslighted by Hector Quintanilla of pr...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/pen5gw/i_made_an_hour_long_video_about_the_portage/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/pen5gw/i_made_an_hour_long_video_about_the_portage/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>I made an hour long video about the Portage County Chase...August 30, 2021 — Dale Spaur was gaslighted by Hector Quintanilla of pr...</p></details>
    Published: August 30, 2021  
 
 12. <a id="endnote-12"></a>
    Source: medium.com  
-   Link: [https://medium.com/the-portager/seeing-a-ufo-ruined-dale-spaurs-life-f86bab152368](https://medium.com/the-portager/seeing-a-ufo-ruined-dale-spaurs-life-f86bab152368)  
+   Link: <a href="https://medium.com/the-portager/seeing-a-ufo-ruined-dale-spaurs-life-f86bab152368" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-portager/seeing-a-ufo-ruined-dale-spaurs-life-f86bab152368</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Seeing a UFO ruined Dale Spaur&#x27;s life | by Ben WolfordAn Ohio police chief took the only picture of the UFO that Sheriff&#x27;s Deputy Dale Sp...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
    Title: Ford Press Releases  
-   Link: [https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download](https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download)  
+   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesBulk Downloads for Records Related to Unidentified...ARCHIVES: NATIONAL: PROJECT BLUE BOOK: UFO SIGHTINGS · catalog-exp...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: medium.com  
    Title: the ufo chase you saw in close encounters 649637923267  
-   Link: [https://medium.com/on-the-trail-of-the-saucers/the-ufo-chase-you-saw-in-close-encounters-649637923267](https://medium.com/on-the-trail-of-the-saucers/the-ufo-chase-you-saw-in-close-encounters-649637923267)  
+   Link: <a href="https://medium.com/on-the-trail-of-the-saucers/the-ufo-chase-you-saw-in-close-encounters-649637923267" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/the-ufo-chase-you-saw-in-close-encounters-649637923267</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Chase You Saw in &#x27;Close Encounters&#x27;In 1966, Ohio police pursued a UFO at high speeds, inspiring &#x27;Close... File card for April 17...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
    Title: in 1966 3 police officers chased a ufo for 86  
-   Link: [https://www.reddit.com/r/nonmurdermysteries/comments/pg6wss/in_1966_3_police_officers_chased_a_ufo_for_86/](https://www.reddit.com/r/nonmurdermysteries/comments/pg6wss/in_1966_3_police_officers_chased_a_ufo_for_86/)  
+   Link: <a href="https://www.reddit.com/r/nonmurdermysteries/comments/pg6wss/in_1966_3_police_officers_chased_a_ufo_for_86/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nonmurdermysteries/comments/pg6wss/in_1966_3_police_officers_chased_a_ufo_for_86/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1966, 3 police officers chased a UFO for 86 miles, across...Project Blue Book Case No. 10270 - sighting of an antigravity vehicle wit...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/sa/podcast/audioblog-a-1966-ufo-police-chase/id483046074?i=1000721527313](https://podcasts.apple.com/sa/podcast/audioblog-a-1966-ufo-police-chase/id483046074?i=1000721527313)  
+   Link: <a href="https://podcasts.apple.com/sa/podcast/audioblog-a-1966-ufo-police-chase/id483046074?i=1000721527313" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/sa/podcast/audioblog-a-1966-ufo-police-chase/id483046074?i=1000721527313</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.comAudioBlog- A 1966 UFO Police ChaseOn the morning of April 17, 1966, two sheriff deputies, Dale Spaur and Wilbur “Barney” Neff, c...</p></details>
    Published: April 17, 1966  
 
 17. <a id="endnote-17"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects25 Jun 2024 — Pro-UFO researchers claim that an extraterrestrial spacecraft and its alien occupants were recov...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Michigan "swamp gas" UFO reports  
-   Link: [https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports](https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports)  
+   Link: <a href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Michigan &quot;swamp gas&quot; UFO reportsThe Michigan &quot;swamp gas&quot; UFO reports were two mass sightings of unidentified flying objects during the...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: clevescene.com  
    Title: strangers in the night 1485939  
-   Link: [https://www.clevescene.com/news/strangers-in-the-night-1485939/](https://www.clevescene.com/news/strangers-in-the-night-1485939/)  
+   Link: <a href="https://www.clevescene.com/news/strangers-in-the-night-1485939/" target="_blank" rel="noopener noreferrer nofollow">https://www.clevescene.com/news/strangers-in-the-night-1485939/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cleveland SceneStrangers in the Night31 Mar 2004 — In 1966, Ohio cops chased a UFO into Pennsylvania. Then the government got involved, a...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/portage66.htm](https://ufologie.patrickgross.org/htm/portage66.htm)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufologiethe 1966 Portage County police UFO chase7 Nov 2003 — J. Allen Hynek, the respected astronomer who was supposed to &quot;explain&quot; UFO c...</p></details>
+   Link: <a href="https://ufologie.patrickgross.org/htm/portage66.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/portage66.htm</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>the 1966 Portage County police UFO chase7 Nov 2003 — J. Allen Hynek, the respected astronomer who was supposed to &quot;explain&quot; UFO c...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: popularmechanics.com  
    Title: Popular Mechanics J  
-   Link: [https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/](https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/)  
+   Link: <a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek &amp; Project Blue Book: UFO Secrets RevealedApril 12, 2026 — 12 Apr 2026 — Explore the UFO mysteries J. Allen Hynek uncovered wi...</p></details>
    Published: April 12, 2026  
 
 22. <a id="endnote-22"></a>
    Source: cufos.org  
    Title: Center for UFO Studies Preliminary NICAP investigation by William B  
-   Link: [https://cufos.org/PDFs/Portage-County/1966_04_17_US_OH_Portage-County_NICAP_Weitzel_P-13_UFO_Reportr.pdf](https://cufos.org/PDFs/Portage-County/1966_04_17_US_OH_Portage-County_NICAP_Weitzel_P-13_UFO_Reportr.pdf)  
+   Link: <a href="https://cufos.org/PDFs/Portage-County/1966_04_17_US_OH_Portage-County_NICAP_Weitzel_P-13_UFO_Reportr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/Portage-County/1966_04_17_US_OH_Portage-County_NICAP_Weitzel_P-13_UFO_Reportr.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Weitzel (1966)to the Portage County UFO sightings. You have truly amazed me by the... UFO sightings by Project Blue vestigator and chair...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=44698](https://nuforc.org/sighting/?id=44698)  
+   Link: <a href="https://nuforc.org/sighting/?id=44698" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=44698</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 44698Jul 5, 2005 — Much of the material is on the NICAP web site, just search under Portage County Ohio UFO Chase. Ho...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: shadowfrequencypodcast.com  
    Title: the portage county ufo chase  
-   Link: [https://www.shadowfrequencypodcast.com/blog/the-portage-county-ufo-chase/](https://www.shadowfrequencypodcast.com/blog/the-portage-county-ufo-chase/)  
+   Link: <a href="https://www.shadowfrequencypodcast.com/blog/the-portage-county-ufo-chase/" target="_blank" rel="noopener noreferrer nofollow">https://www.shadowfrequencypodcast.com/blog/the-portage-county-ufo-chase/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 day ago — In Episode 315, The Shadow Frequency investigates the 1966 Portage County UFO Chase, where Ohio deputies pursued a glowing ob...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: oreohio.org  
    Title: Portage County UFO Chase | OREohio  
-   Link: [https://oreohio.org/portage-county-ufo-chase](https://oreohio.org/portage-county-ufo-chase)  
+   Link: <a href="https://oreohio.org/portage-county-ufo-chase" target="_blank" rel="noopener noreferrer nofollow">https://oreohio.org/portage-county-ufo-chase</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 17, 1966... Deputy Dale Spaur and Deputy Barney Neff at 5:00 AM responded to a call.... “Portage County Ohio UFO Chase.” NICAP.ORG...</p></details>
    Published: April 17, 1966  
 
@@ -907,57 +873,57 @@ That is why the case remains unresolved in a broader historical sense. The quest
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/12117541695/posts/10161336608271696/](https://www.facebook.com/groups/12117541695/posts/10161336608271696/)  
+   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10161336608271696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161336608271696/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Police chase cone shaped UFO across state linesPortage Ohio UFO Chase This is probably the most famous UFO sighting in Ohio. On the morni...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: thislocallife.com  
-   Link: [https://www.thislocallife.com/5-ufo-cases-in-ohio](https://www.thislocallife.com/5-ufo-cases-in-ohio)  
+   Link: <a href="https://www.thislocallife.com/5-ufo-cases-in-ohio" target="_blank" rel="noopener noreferrer nofollow">https://www.thislocallife.com/5-ufo-cases-in-ohio</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Venus, a scientist who assisted in the investigation at Wright...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: tusccountystories.com  
    Title: mystery in the woods the ufo incident of 1966  
-   Link: [https://tusccountystories.com/2024/09/05/mystery-in-the-woods-the-ufo-incident-of-1966/](https://tusccountystories.com/2024/09/05/mystery-in-the-woods-the-ufo-incident-of-1966/)  
+   Link: <a href="https://tusccountystories.com/2024/09/05/mystery-in-the-woods-the-ufo-incident-of-1966/" target="_blank" rel="noopener noreferrer nofollow">https://tusccountystories.com/2024/09/05/mystery-in-the-woods-the-ufo-incident-of-1966/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery in the Woods: The “UFO” Incident of 19665 Sept 2024 — In the spring of 1966, as UFO sightings gripped Ohio with intrigue and fear...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: fordlibrarymuseum.gov  
    Title: Ford Press Releases  
-   Link: [https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf](https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf)  
+   Link: <a href="https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, 1966... Project Blue Book responsibilities of receiving, investigating and evaluating UFO reports. END. (DOD Release No. 388-66, May...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: theohioproject.net  
    Title: ohio and the great ufo chase of 1966  
-   Link: [https://theohioproject.net/history/ohio-and-the-great-ufo-chase-of-1966/](https://theohioproject.net/history/ohio-and-the-great-ufo-chase-of-1966/)  
+   Link: <a href="https://theohioproject.net/history/ohio-and-the-great-ufo-chase-of-1966/" target="_blank" rel="noopener noreferrer nofollow">https://theohioproject.net/history/ohio-and-the-great-ufo-chase-of-1966/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ohio ProjectThe film features one scene that is said to be inspired by the Portage County UFO Chase, in which a small group of police...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: yahoo.com  
    Title: project blue book 12 000 020900953  
-   Link: [https://www.yahoo.com/news/project-blue-book-12-000-020900953.html](https://www.yahoo.com/news/project-blue-book-12-000-020900953.html)  
+   Link: <a href="https://www.yahoo.com/news/project-blue-book-12-000-020900953.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/project-blue-book-12-000-020900953.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: 12000-plus UFO reports were once...Jan 12, 2024 — —A Blue Book investigation in July 1965 showed that a UFO seen by t...</p></details>
    Published: July 1965  
 
 32. <a id="endnote-32"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR1 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf](https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveIn addition to individual UFO reports the Archive includes administrative files that provide insight into Projec...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: studyguides.com  
    Title: Blue Book, Project (UFO)  
-   Link: [https://studyguides.com/topics/cmhnd9pqg4qqw018egspouemq](https://studyguides.com/topics/cmhnd9pqg4qqw018egspouemq)  
+   Link: <a href="https://studyguides.com/topics/cmhnd9pqg4qqw018egspouemq" target="_blank" rel="noopener noreferrer nofollow">https://studyguides.com/topics/cmhnd9pqg4qqw018egspouemq</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OverviewThe Portage County Chase in 1966, involving a police pursuit of an unidentified object, is also significant due to the detailed a...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO) part 1 of 1alisting of UFO-related materials currently available. Since the termination of. Project Blue. Book, no eviden...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Project-BlueBook-Ravenna-Mantua-Ohio-Intelligence-Collection-ebook/dp/B09DBYZ3LV](https://www.amazon.co.uk/Project-BlueBook-Ravenna-Mantua-Ohio-Intelligence-Collection-ebook/dp/B09DBYZ3LV)  
+   Link: <a href="https://www.amazon.co.uk/Project-BlueBook-Ravenna-Mantua-Ohio-Intelligence-Collection-ebook/dp/B09DBYZ3LV" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Project-BlueBook-Ravenna-Mantua-Ohio-Intelligence-Collection-ebook/dp/B09DBYZ3LV</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dale F. Spaur, Badge #15, Portage County Sheriff&#x27;s Office, Ravenna, Ohio., 17 Apr 66. Sighting between 0300 and 0600...Read more...</p></details>

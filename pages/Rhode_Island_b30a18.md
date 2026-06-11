@@ -262,7 +262,7 @@ sibling_links:
   short_title: Michigan UFOs
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Alabama_d1f92d
   title: Alabama UFOs
@@ -277,9 +277,9 @@ sibling_links:
   permalink: /what-keeps-tennessees-ufo-stories-alive/
   short_title: Tennessee UFOs
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Idaho_18334c
   title: Idaho UFOs
   permalink: /what-makes-idaho-a-key-ufo-hotspot/
@@ -289,9 +289,9 @@ sibling_links:
   permalink: /what-makes-indianas-ufo-history-unique/
   short_title: Indiana UFOs
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: South_Carolina_11d001
   title: South Carolina UFOs
   permalink: /what-makes-south-carolinas-ufo-story/
@@ -481,7 +481,6 @@ image: /assets/images/Rhode_Island_b30a18-overview-social.jpg
 
 Rhode Island’s small size shapes its UFO record. Reports often involve coastal views, aircraft corridors, summer activity, fireworks nights, offshore lights, and objects seen near towns rather than remote deserts or large restricted military ranges. That does not make the reports unimportant; it changes how they should be read. A light over Narragansett Bay, Block Island, Newport, or South Kingstown sits in a busy visual environment where aircraft, boats, advertising aircraft, drones, satellites, planets, flares, fireworks, and weather effects can all compete with more exotic interpretations.
 
-
 <img src="{{ "/assets/images/Rhode_Island_b30a18-overview.webp" | relative_url }}" alt="Overview image for What Rhode Island&#x27;s UFO Reports Really Show" loading="eager" decoding="sync" fetchpriority="high">
 The state also lacks a well-known Project Blue Book “unknown” case that dominates its public UFO identity. The National Archives explains that Project Blue Book, the US Air Force UFO investigation programme, collected 12,618 sightings from 1947 to 1969, with 701 left “unidentified”; the Air Force later ended the programme in December 1969. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The Air Force’s own fact sheet gives the same broad figures and says the decision to discontinue investigations followed the conclusion that the reports did not show a national-security threat or evidence of extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For Rhode Island, this means the useful question is less “where is the state’s single great case?” and more “what kinds of reports recur, how were they recorded, and which ones have enough detail to test?”
 
@@ -502,8 +501,7 @@ Several recurring Rhode Island categories stand out:
 
 The value of the Rhode Island record is therefore cumulative rather than decisive. It shows what people in the state report, when and where they report it, and which kinds of sightings need better documentation before stronger claims can be made.
 
-
-<img src="{{ "/assets/images/Rhode_Island_b30a18-Illustration-1-light.svg" | relative_url }}" alt="What Rhode Island&#x27;s UFO Reports Really Show illustration 1" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Rhode_Island_b30a18-Illustration-1-dark.svg" | relative_url }}" alt="What Rhode Island&#x27;s UFO Reports Really Show illustration 1" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 2012 Rhode Island “UFO” that became a useful lesson in investigation
 
 One of the best Rhode Island cases for readers is not famous because it remained mysterious, but because it was investigated and plausibly solved. In a 2014 Skeptical Inquirer account, Chip Taylor described seeing an odd object in September 2012 that at first did not seem to fit a familiar aircraft, balloon, or astronomical explanation. The case became useful because he followed up rather than stopping at the first impression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/investigating-the-rhode-island-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">investigating the rhode island ufo</span><span class="citation-popover-snippet">investigating the rhode island ufo</span></span></span>
@@ -523,7 +521,6 @@ This is one of the more memorable modern Rhode Island-linked stories because it 
 The report is best treated as **unresolved in public**, not as proven anomalous. A pilot report deserves attention because pilots are trained observers and because near-aircraft unknowns can matter for safety. But pilot testimony alone can still be affected by speed, angle, parallax, lighting, distance uncertainty, and the difficulty of judging a small object in flight. A balloon, drone, debris, reflective object, or another airborne item may be difficult to identify in the moment, especially if the encounter is brief.
 
 The broader aviation context has changed since the old Project Blue Book era. The FAA issued a public notice in 2025 on “Unidentified Anomalous Phenomena Reports”, showing that official reporting pathways have been formalised in modern air-traffic practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">document ID</span><span class="citation-popover-snippet">document ID</span></span></span> AARO, the US All-domain Anomaly Resolution Office, also frames UAP as objects or phenomena that are not immediately identifiable, and it lists common causes and reporting routes rather than treating every case as extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> For Rhode Island readers, the practical takeaway is that aviation-linked sightings should be logged, checked and compared against data before being interpreted.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eJJCHOMajGo" title="‘Good Luck With Aliens’: Pilot-ATC Conversation After &#x27;UFO&#x27;-Aircraft Encounter Over Rhode Island" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eJJCHOMajGo" target="_blank" rel="noopener noreferrer">‘Good Luck With Aliens’: Pilot-ATC Conversation After &#x27;UFO&#x27;-Aircraft Encounter Over Rhode Island</a></p><p class="youtube-embed-meta">Channel: Times Of India &middot; Views: 8.4K &middot; Uploaded: December 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eJJCHOMajGo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eJJCHOMajGo">Open on YouTube</a></p></div></div></div>
 
@@ -545,8 +542,7 @@ For a public-facing Rhode Island UFO history, recent reports are therefore best 
 
 This tiered approach prevents two common mistakes: dismissing all witnesses as confused, or treating every database entry as equal evidence.
 
-
-<img src="{{ "/assets/images/Rhode_Island_b30a18-Illustration-2-light.svg" | relative_url }}" alt="What Rhode Island&#x27;s UFO Reports Really Show illustration 2" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Rhode_Island_b30a18-Illustration-2-dark.svg" | relative_url }}" alt="What Rhode Island&#x27;s UFO Reports Really Show illustration 2" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What official UFO history can and cannot tell us about Rhode Island
 
 The federal record provides essential context, but it does not solve Rhode Island’s local cases. Project Blue Book’s national archive shows that the US Air Force once treated UFO reports as a formal subject of investigation, especially from 1947 to 1969. The National Archives says those records are now available for research and that 701 of 12,618 reports remained unidentified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The Air Force states that none of the investigated and evaluated sightings showed a threat to national security or evidence of extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -565,8 +561,7 @@ The old Blue Book system itself was military-run, but Rhode Island does not have
 
 That does not make the aviation angle irrelevant. It means it should be treated as a verification route. For any serious Rhode Island case near Providence, Warwick, North Kingstown, Newport, Block Island, Westerly or the coast, the first checks should include aircraft traffic, airport operations, banner towing, drone activity, weather balloons, military notices, maritime lights, and satellite visibility. The 2012 banner-plane case shows how quickly a strange-looking object can become understandable once local aviation context is checked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/investigating-the-rhode-island-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">investigating the rhode island ufo</span><span class="citation-popover-snippet">investigating the rhode island ufo</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GcOCIabFnLE" title="Project Blue Book UFO Interview USAF (1966)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer">Project Blue Book UFO Interview USAF (1966)</a></p><p class="youtube-embed-meta">Channel: AIRBOYD &middot; Views: 783 &middot; Uploaded: November 2025 &middot; Length: 4 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GcOCIabFnLE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wySWWI2gMuM" title="Light in Sky Over Rhode Island Update" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wySWWI2gMuM" target="_blank" rel="noopener noreferrer">Light in Sky Over Rhode Island Update</a></p><p class="youtube-embed-meta">Channel: WPRI &middot; Views: 30.7K &middot; Uploaded: September 2022 &middot; Length: 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wySWWI2gMuM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wySWWI2gMuM">Open on YouTube</a></p></div></div></div>
 
 ## The most likely explanations in Rhode Island cases
 
@@ -584,14 +579,12 @@ A balanced Rhode Island UFO page should not assume one explanation covers all re
 
 The key is not to force an explanation. The key is to ask which explanation best fits the time, direction, duration, motion, witness position and available data.
 
-
-<img src="{{ "/assets/images/Rhode_Island_b30a18-Illustration-3-light.svg" | relative_url }}" alt="What Rhode Island&#x27;s UFO Reports Really Show illustration 3" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Rhode_Island_b30a18-Illustration-3-dark.svg" | relative_url }}" alt="What Rhode Island&#x27;s UFO Reports Really Show illustration 3" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read Rhode Island UFO reports without falling into either trap
 
 The first trap is credulity: treating every report as evidence of a craft. The second trap is lazy dismissal: assuming every witness is wrong without checking. Rhode Island’s record rewards a middle approach because many reports are interesting but under-documented.
 
 A useful reading method is to ask five questions:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -599,6 +592,29 @@ A useful reading method is to ask five questions:
 2. **How many witnesses were there, and were they independent?** Eight people in one group is not the same as eight observers in separate locations.
 3. **What data exist beyond memory?** Original photographs, metadata, radar, flight tracks, weather, astronomical checks and police or airport logs matter more than later retellings.
 4. **What ordinary activity was present?** Airports, shoreline advertising flights, fireworks, drones, satellites and boats can all create unusual impressions.
+5. **Did later investigation strengthen or weaken the claim?** The 2012 Rhode Island case became weaker as an anomaly but stronger as a teaching case once banner towing explained the observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/investigating-the-rhode-island-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">investigating the rhode island ufo</span><span class="citation-popover-snippet">investigating the rhode island ufo</span></span></span>
+
+</div>
+
+This approach also helps separate local folklore from local evidence. A story can be culturally interesting without being evidentially strong. A weakly sourced report should not be erased, but it should be labelled honestly.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eAljWqV_sA0" title="Pentagon releases UFO report, 700 new cases reported with several unexplained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eAljWqV_sA0" target="_blank" rel="noopener noreferrer">Pentagon releases UFO report, 700 new cases reported with several unexplained</a></p><p class="youtube-embed-meta">Channel: NBC 10 WJAR &middot; Views: 7.7K &middot; Uploaded: November 2024 &middot; Length: 2 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eAljWqV_sA0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eAljWqV_sA0">Open on YouTube</a></p></div></div></div>
+
+## Where Rhode Island fits in New England UFO history
+
+Rhode Island’s UFO history is best understood as part of a wider New England pattern, but not swallowed by it. Nearby states have more famous cases, including New Hampshire’s Exeter incident and the Betty and Barney Hill abduction story, which tend to dominate regional UFO memory. Rhode Island’s record is less iconic and more diffuse: shoreline lights, database reports, aviation confusion, and recent UAP-era media stories.
+
+That relative quiet is itself informative. It shows that state UFO histories do not all have the same shape. Some are built around a single dramatic incident. Rhode Island’s is built around recurring ordinary-mystery conditions: compact geography, busy skies, coastal sightlines, seasonal tourism, airports, and a reporting culture that has moved from newspapers and official forms to NUFORC, apps, social media and local news.
+
+The result is a state UFO record that is useful less for proving a spectacular thesis and more for showing how unexplained reports are made, amplified, checked, explained, or left unresolved. Rhode Island’s most valuable cases are therefore the ones with enough detail to compare against known aircraft, banners, satellites, drones, balloons and weather — not necessarily the most dramatic stories.
+
+## What would make a Rhode Island case genuinely strong?
+
+A genuinely strong Rhode Island UFO case would not simply be stranger than the others. It would be better documented. The strongest future case would include multiple independent witnesses from different locations, original images or video with metadata, precise time and coordinates, weather and astronomical checks, flight-tracking exclusions, drone and balloon checks, and ideally radar or official aviation records.
+
+NASA’s UAP work makes this point in broader scientific language: the problem is not just whether people see unusual things, but whether the available data are good enough to analyse. NASA’s study focus on data collection and scientific evaluation is directly relevant to small-state cases like Rhode Island’s, where many sightings are remembered vividly but recorded thinly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> AARO’s public-facing material similarly treats UAP as a data and resolution problem, listing common causes and official reporting channels rather than assuming extraordinary conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">UAP Records</span></span></span>
+
+Until that level of evidence appears, Rhode Island’s UFO history should be described with careful language: reported, observed, claimed, unresolved, plausibly explained, or insufficiently documented. Those words may sound cautious, but they are what make the history credible. The most honest reading is that Rhode Island has a real UFO-reporting record, several instructive cases, and continuing public interest — but no publicly available evidence that turns the state’s sightings into confirmed extraordinary craft.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -686,7 +702,7 @@ A useful reading method is to ask five questions:
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -696,111 +712,36 @@ A useful reading method is to ask five questions:
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -808,15 +749,15 @@ A useful reading method is to ask five questions:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/o-YAAOSwKopk5fnY/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -824,15 +765,15 @@ A useful reading method is to ask five questions:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grateful Dead Bertha UFO Maxi Poster"><img src="https://i.ebayimg.com/images/g/pM4AAeSwvQporxeM/s-l225.jpg" alt="Listing image for Grateful Dead Bertha UFO Maxi Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Grateful Dead Bertha UFO Maxi Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -840,15 +781,15 @@ A useful reading method is to ask five questions:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -856,7 +797,7 @@ A useful reading method is to ask five questions:
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-islands-ufo-reports-really-what-rhode-island-s-ufo-reports-really-show-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-rhode-island-s-ufo-reports-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -933,17 +874,31 @@ A useful reading method is to ask five questions:
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -956,42 +911,73 @@ A useful reading method is to ask five questions:
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -1006,239 +992,219 @@ A useful reading method is to ask five questions:
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
 
-5. **Did later investigation strengthen or weaken the claim?** The 2012 Rhode Island case became weaker as an anomaly but stronger as a teaching case once banner towing explained the observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/investigating-the-rhode-island-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">investigating the rhode island ufo</span><span class="citation-popover-snippet">investigating the rhode island ufo</span></span></span>
-
-</div>
-
-This approach also helps separate local folklore from local evidence. A story can be culturally interesting without being evidentially strong. A weakly sourced report should not be erased, but it should be labelled honestly.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wySWWI2gMuM" title="Light in Sky Over Rhode Island Update" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wySWWI2gMuM" target="_blank" rel="noopener noreferrer">Light in Sky Over Rhode Island Update</a></p><p class="youtube-embed-meta">Channel: WPRI &middot; Views: 30.7K &middot; Uploaded: September 2022 &middot; Length: 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wySWWI2gMuM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wySWWI2gMuM">Open on YouTube</a></p></div></div></div>
-
-## Where Rhode Island fits in New England UFO history
-
-Rhode Island’s UFO history is best understood as part of a wider New England pattern, but not swallowed by it. Nearby states have more famous cases, including New Hampshire’s Exeter incident and the Betty and Barney Hill abduction story, which tend to dominate regional UFO memory. Rhode Island’s record is less iconic and more diffuse: shoreline lights, database reports, aviation confusion, and recent UAP-era media stories.
-
-That relative quiet is itself informative. It shows that state UFO histories do not all have the same shape. Some are built around a single dramatic incident. Rhode Island’s is built around recurring ordinary-mystery conditions: compact geography, busy skies, coastal sightlines, seasonal tourism, airports, and a reporting culture that has moved from newspapers and official forms to NUFORC, apps, social media and local news.
-
-The result is a state UFO record that is useful less for proving a spectacular thesis and more for showing how unexplained reports are made, amplified, checked, explained, or left unresolved. Rhode Island’s most valuable cases are therefore the ones with enough detail to compare against known aircraft, banners, satellites, drones, balloons and weather — not necessarily the most dramatic stories.
-
-## What would make a Rhode Island case genuinely strong?
-
-A genuinely strong Rhode Island UFO case would not simply be stranger than the others. It would be better documented. The strongest future case would include multiple independent witnesses from different locations, original images or video with metadata, precise time and coordinates, weather and astronomical checks, flight-tracking exclusions, drone and balloon checks, and ideally radar or official aviation records.
-
-NASA’s UAP work makes this point in broader scientific language: the problem is not just whether people see unusual things, but whether the available data are good enough to analyse. NASA’s study focus on data collection and scientific evaluation is directly relevant to small-state cases like Rhode Island’s, where many sightings are remembered vividly but recorded thinly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> AARO’s public-facing material similarly treats UAP as a data and resolution problem, listing common causes and official reporting channels rather than assuming extraordinary conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">UAP Records</span></span></span>
-
-Until that level of evidence appears, Rhode Island’s UFO history should be described with careful language: reported, observed, claimed, unresolved, plausibly explained, or insufficiently documented. Those words may sound cautious, but they are what make the history credible. The most honest reading is that Rhode Island has a real UFO-reporting record, several instructive cases, and continuing public interest — but no publicly available evidence that turns the state’s sightings into confirmed extraordinary craft.
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lRI](https://nuforc.org/subndx/?id=lRI)  
+   Link: <a href="https://nuforc.org/subndx/?id=lRI" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lRI</a>  
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 3. <a id="endnote-3"></a>
    Source: brobible.com  
    Title: Bro Bible ATC Tells Pilot 'Good Luck With The Aliens' After UFO  
-   Link: [https://brobible.com/culture/article/air-traffic-controller-pilot-good-luck-aliens-ufo/](https://brobible.com/culture/article/air-traffic-controller-pilot-good-luck-aliens-ufo/)  
+   Link: <a href="https://brobible.com/culture/article/air-traffic-controller-pilot-good-luck-aliens-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/air-traffic-controller-pilot-good-luck-aliens-ufo/</a>  
 
 4. <a id="endnote-4"></a>
    Source: faa.gov  
    Title: document ID  
-   Link: [https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303](https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303)  
+   Link: <a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303</a>  
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 6. <a id="endnote-6"></a>
    Source: patch.com  
    Title: Pentagon Dump Of UFO Files Add Intrigue To RI Sightings  
-   Link: [https://patch.com/rhode-island/across-ri/pentagon-dump-ufo-files-add-intrigue-ri-sightings](https://patch.com/rhode-island/across-ri/pentagon-dump-ufo-files-add-intrigue-ri-sightings)  
+   Link: <a href="https://patch.com/rhode-island/across-ri/pentagon-dump-ufo-files-add-intrigue-ri-sightings" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/rhode-island/across-ri/pentagon-dump-ufo-files-add-intrigue-ri-sightings</a>  
 
 7. <a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 8. <a id="endnote-8"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=79829](https://nuforc.org/sighting/?id=79829)  
+   Link: <a href="https://nuforc.org/sighting/?id=79829" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=79829</a>  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=86627](https://nuforc.org/sighting/?id=86627)  
+   Link: <a href="https://nuforc.org/sighting/?id=86627" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=86627</a>  
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=196171](https://nuforc.org/sighting/?id=196171)  
+   Link: <a href="https://nuforc.org/sighting/?id=196171" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=196171</a>  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lOH](https://nuforc.org/subndx/?id=lOH)  
+   Link: <a href="https://nuforc.org/subndx/?id=lOH" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lOH</a>  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=92130](https://nuforc.org/sighting/?id=92130)  
+   Link: <a href="https://nuforc.org/sighting/?id=92130" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=92130</a>  
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=28195](https://nuforc.org/sighting/?id=28195)  
+   Link: <a href="https://nuforc.org/sighting/?id=28195" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=28195</a>  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=39563](https://nuforc.org/sighting/?id=39563)  
+   Link: <a href="https://nuforc.org/sighting/?id=39563" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=39563</a>  
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=14127](https://nuforc.org/sighting/?id=14127)  
+   Link: <a href="https://nuforc.org/sighting/?id=14127" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=14127</a>  
 
 20. <a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=62873](https://nuforc.org/sighting/?id=62873)  
+   Link: <a href="https://nuforc.org/sighting/?id=62873" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=62873</a>  
 
 21. <a id="endnote-21"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt](https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt)  
+   Link: <a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
 
 23. <a id="endnote-23"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 24. <a id="endnote-24"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 25. <a id="endnote-25"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Submit-A-Report/](https://www.aaro.mil/Submit-A-Report/)  
+   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
 
 26. <a id="endnote-26"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250801-fy25-jan25-mar25.xlsx](https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250801-fy25-jan25-mar25.xlsx)  
+   Link: <a href="https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250801-fy25-jan25-mar25.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250801-fy25-jan25-mar25.xlsx</a>  
 
 27. <a id="endnote-27"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2403.15368](https://arxiv.org/pdf/2403.15368)  
+   Link: <a href="https://arxiv.org/pdf/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.15368</a>  
 
 28. <a id="endnote-28"></a>
    Source: patch.com  
    Title: see whats been spotted ri skies world ufo day approaches  
-   Link: [https://patch.com/rhode-island/across-ri/see-whats-been-spotted-ri-skies-world-ufo-day-approaches](https://patch.com/rhode-island/across-ri/see-whats-been-spotted-ri-skies-world-ufo-day-approaches)  
+   Link: <a href="https://patch.com/rhode-island/across-ri/see-whats-been-spotted-ri-skies-world-ufo-day-approaches" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/rhode-island/across-ri/see-whats-been-spotted-ri-skies-world-ufo-day-approaches</a>  
 
 29. <a id="endnote-29"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
 30. <a id="endnote-30"></a>
    Source: skepticalinquirer.org  
    Title: investigating the rhode island ufo  
-   Link: [https://skepticalinquirer.org/newsletter/investigating-the-rhode-island-ufo/](https://skepticalinquirer.org/newsletter/investigating-the-rhode-island-ufo/)  
+   Link: <a href="https://skepticalinquirer.org/newsletter/investigating-the-rhode-island-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/investigating-the-rhode-island-ufo/</a>  
 
 31. <a id="endnote-31"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2025/12/21/us-news/pilot-reports-silver-cannister-ufo-to-air-traffic-control-told-good-luck-with-the-aliens/](https://nypost.com/2025/12/21/us-news/pilot-reports-silver-cannister-ufo-to-air-traffic-control-told-good-luck-with-the-aliens/)  
+   Link: <a href="https://nypost.com/2025/12/21/us-news/pilot-reports-silver-cannister-ufo-to-air-traffic-control-told-good-luck-with-the-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/12/21/us-news/pilot-reports-silver-cannister-ufo-to-air-traffic-control-told-good-luck-with-the-aliens/</a>  
 
 32. <a id="endnote-32"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 33. <a id="endnote-33"></a>
    Source: Wikipedia  
    Title: Exeter incident  
-   Link: [https://en.wikipedia.org/wiki/Exeter_incident](https://en.wikipedia.org/wiki/Exeter_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exeter_incident</a>  
 
 34. <a id="endnote-34"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/newsletter-volume/sb-23-3/](https://skepticalinquirer.org/newsletter-volume/sb-23-3/)  
+   Link: <a href="https://skepticalinquirer.org/newsletter-volume/sb-23-3/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter-volume/sb-23-3/</a>  
 
 35. <a id="endnote-35"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 36. <a id="endnote-36"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
 ### Additional References
 
 37. <a id="endnote-37"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
 38. <a id="endnote-38"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/ufo/](https://www.war.gov/ufo/)  
+   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
 39. <a id="endnote-39"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=eJJCHOMajGo](https://www.youtube.com/watch?v=eJJCHOMajGo)  
+   Link: <a href="https://www.youtube.com/watch?v=eJJCHOMajGo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eJJCHOMajGo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Light in Sky Over Rhode Island Update...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/docs/650812springfield_docs.pdf](https://www.nicap.org/docs/650812springfield_docs.pdf)  
+   Link: <a href="https://www.nicap.org/docs/650812springfield_docs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/650812springfield_docs.pdf</a>  
 
 42. <a id="endnote-42"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TimesofIndia/videos/a-privatejet-pilot-flying-over-rhodeisland-reported-a-bizarre-encounter-with-a-s/1956134165330066/](https://www.facebook.com/TimesofIndia/videos/a-privatejet-pilot-flying-over-rhodeisland-reported-a-bizarre-encounter-with-a-s/1956134165330066/)  
+   Link: <a href="https://www.facebook.com/TimesofIndia/videos/a-privatejet-pilot-flying-over-rhodeisland-reported-a-bizarre-encounter-with-a-s/1956134165330066/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/videos/a-privatejet-pilot-flying-over-rhodeisland-reported-a-bizarre-encounter-with-a-s/1956134165330066/</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/toiworldnews/videos/a-privatejet-pilot-flying-over-rhodeisland-reported-a-bizarre-encounter-with-a-s/1357292832217707/](https://www.facebook.com/toiworldnews/videos/a-privatejet-pilot-flying-over-rhodeisland-reported-a-bizarre-encounter-with-a-s/1357292832217707/)  
+   Link: <a href="https://www.facebook.com/toiworldnews/videos/a-privatejet-pilot-flying-over-rhodeisland-reported-a-bizarre-encounter-with-a-s/1357292832217707/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/toiworldnews/videos/a-privatejet-pilot-flying-over-rhodeisland-reported-a-bizarre-encounter-with-a-s/1357292832217707/</a>  
 
 44. <a id="endnote-44"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ProvidenceJournal/posts/a-ufo-was-recently-reported-near-warren-rhode-island-how-many-other-sightings-ha/1407735110930066/](https://www.facebook.com/ProvidenceJournal/posts/a-ufo-was-recently-reported-near-warren-rhode-island-how-many-other-sightings-ha/1407735110930066/)  
+   Link: <a href="https://www.facebook.com/ProvidenceJournal/posts/a-ufo-was-recently-reported-near-warren-rhode-island-how-many-other-sightings-ha/1407735110930066/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ProvidenceJournal/posts/a-ufo-was-recently-reported-near-warren-rhode-island-how-many-other-sightings-ha/1407735110930066/</a>  
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/news4reno/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1311265874464016/](https://www.facebook.com/news4reno/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1311265874464016/)  
+   Link: <a href="https://www.facebook.com/news4reno/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1311265874464016/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/news4reno/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1311265874464016/</a>  
 
 46. <a id="endnote-46"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox6news/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1443376540709165/](https://www.facebook.com/fox6news/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1443376540709165/)  
+   Link: <a href="https://www.facebook.com/fox6news/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1443376540709165/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox6news/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1443376540709165/</a>

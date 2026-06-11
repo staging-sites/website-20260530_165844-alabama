@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /exeter-case/
 nav_short_title: Tanker theory
 title: Did a tanker explain the Exeter lights?
-title_full: Did a tanker explain the Exeter lights? | Exeter Case
+title_full: Did a tanker explain the Exeter lights?
 display_title_short: Tanker theory
 display_title: Tanker theory
 heading_title: Did a tanker explain the Exeter lights?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:48:46'
-parent_title: Why Did Exeter Become a Classic UFO Case? | New Hampshire UFOs
+parent_title: Why Did Exeter Become a Classic UFO Case?
 parent_permalink: /exeter-case/
 parent_nav_short_title: Exeter Case
 parent_heading_title: Why Did Exeter Become a Classic UFO Case?
@@ -250,10 +250,9 @@ image: /assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_kc97_ta
 
 ## Introduction
 
-The most substantial conventional explanation for the [Exeter incident]({{ 'exeter-case/' | relative_url }}) did not emerge in 1965. It arrived decades later, when sceptical researchers argued that the [witnesses]({{ 'witnesses/' | relative_url }}) may have been observing a military refuelling aircraft rather than an unknown object. The so-called KC-97 tanker theory became important because it addressed details that earlier Air Force explanations struggled to explain, especially the reported sequence of flashing red lights. Yet the theory remains debated. Supporters argue that it matches the light pattern, military activity and geography of the case. Critics counter that it still does not fully account for the witnesses’ descriptions of silence, apparent proximity, movement and intensity. As a result, the Exeter sighting remains a useful example of how a famous UFO case can move from weak official explanations to a more technically informed conventional interpretation without reaching universal agreement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Exeter Incident&#x27; Solved!by ACUFO Case · 2011 — Blue Book noted that “the town of Exeter is within the traffic pattern utilized by Air Tr...</span></span></span>
+The most substantial conventional explanation for the Exeter incident did not emerge in 1965. It arrived decades later, when sceptical researchers argued that the [witnesses]({{ 'witnesses/' | relative_url }}) may have been observing a military refuelling aircraft rather than an unknown object. The so-called KC-97 tanker theory became important because it addressed details that earlier Air Force explanations struggled to explain, especially the reported sequence of flashing red lights. Yet the theory remains debated. Supporters argue that it matches the light pattern, military activity and geography of the case. Critics counter that it still does not fully account for the witnesses’ descriptions of silence, apparent proximity, movement and intensity. As a result, the Exeter sighting remains a useful example of how a famous UFO case can move from weak official explanations to a more technically informed conventional interpretation without reaching universal agreement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Exeter Incident&#x27; Solved!by ACUFO Case · 2011 — Blue Book noted that “the town of Exeter is within the traffic pattern utilized by Air Tr...</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_kc97_tanker_t_2936dd-Illustration-1-light.svg" | relative_url }}" alt="Tanker theory illustration 1" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_kc97_tanker_t_2936dd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_kc97_tanker_t_2936dd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_kc97_tanker_t_2936dd-Illustration-1-dark.svg" | relative_url }}" alt="Tanker theory illustration 1" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_kc97_tanker_t_2936dd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_kc97_tanker_t_2936dd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Blue Book's changing explanations
 
 One reason the [Exeter case]({{ 'exeter-case/' | relative_url }}) gained such staying power is that the official explanations shifted over time.
@@ -268,8 +267,7 @@ The witnesses rejected both versions. Bertrand and Hunt wrote directly to the Ai
 
 That sequence matters because Exeter is often remembered less for a single explanation than for the appearance that official explanations kept changing. For believers, that suggested institutional confusion. For sceptics, it showed the difficulty of reconstructing a brief night-time event from incomplete information.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LXeIUnE9ejk" title="Exeter History Minute - Exeter UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LXeIUnE9ejk" target="_blank" rel="noopener noreferrer">Exeter History Minute - Exeter UFO</a></p><p class="youtube-embed-meta">Channel: Exeter Historical Society &middot; Views: 15.3K &middot; Uploaded: August 2015 &middot; Length: 3 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LXeIUnE9ejk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LXeIUnE9ejk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yF7nmFfvZ8k" title="Tom Muscarello and George Dufour on The Incident at Exeter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yF7nmFfvZ8k" target="_blank" rel="noopener noreferrer">Tom Muscarello and George Dufour on The Incident at Exeter</a></p><p class="youtube-embed-meta">Channel: The Bard&#x27;s Archive &middot; Views: 395 &middot; Uploaded: September 2022 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yF7nmFfvZ8k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yF7nmFfvZ8k">Open on YouTube</a></p></div></div></div>
 
 ## Why the KC-97 light pattern mattered
 
@@ -283,8 +281,7 @@ The theory also attempted to explain another unusual feature. Witnesses describe
 
 Location is another reason the theory attracted attention. Pease Air Force Base, near Portsmouth, was a Strategic Air Command installation that operated tanker aircraft. Military flights in the region were not unusual, and Blue Book records themselves noted significant military air activity on the night of the incident. The KC-97 explanation therefore placed the sighting within an environment where refuelling aircraft were genuinely present rather than introducing an entirely new hypothesis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_kc97_tanker_t_2936dd-Illustration-2-light.svg" | relative_url }}" alt="Tanker theory illustration 2" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_kc97_tanker_t_2936dd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_kc97_tanker_t_2936dd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_kc97_tanker_t_2936dd-Illustration-2-dark.svg" | relative_url }}" alt="Tanker theory illustration 2" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_kc97_tanker_t_2936dd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_kc97_tanker_t_2936dd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the theory explains
 
 The KC-97 interpretation is generally regarded as stronger than the early Pentagon explanations because it attempts to match multiple witness details at once.
@@ -298,8 +295,7 @@ Several aspects of the Exeter reports fit reasonably well with the tanker scenar
 
 For sceptical investigators, the tanker theory has an advantage that earlier explanations lacked: it engages directly with the witnesses' actual descriptions rather than dismissing them as simple mistakes.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yF7nmFfvZ8k" title="Tom Muscarello and George Dufour on The Incident at Exeter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yF7nmFfvZ8k" target="_blank" rel="noopener noreferrer">Tom Muscarello and George Dufour on The Incident at Exeter</a></p><p class="youtube-embed-meta">Channel: The Bard&#x27;s Archive &middot; Views: 395 &middot; Uploaded: September 2022 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yF7nmFfvZ8k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yF7nmFfvZ8k">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sdoLNXXkWB0" title="1965 UFO ENCOUNTER AT EXETER, NEW HAMPSHIRE - UNEXPLAINABLE MYSTERY!!!!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sdoLNXXkWB0" target="_blank" rel="noopener noreferrer">1965 UFO ENCOUNTER AT EXETER, NEW HAMPSHIRE - UNEXPLAINABLE MYSTERY!!!!!</a></p><p class="youtube-embed-meta">Channel: Dennis Morrison &middot; Views: 87 &middot; Uploaded: January 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sdoLNXXkWB0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sdoLNXXkWB0">Open on YouTube</a></p></div></div></div>
 
 ## What remains disputed
 
@@ -313,17 +309,14 @@ The reports of **illumination and animal reactions** are also harder to test. Wi
 
 Finally, some researchers have challenged the KC-97 reconstruction itself, arguing that flight paths, viewing geometry or technical assumptions do not align perfectly with the witness accounts. These objections do not necessarily prove an unknown object was present, but they illustrate why Exeter remains contested even among investigators who favour conventional explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/1038/660" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[journalofscientificexploration.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">JSE 301 online.inddMarch 16, 2016 — a KC-97 refueling tanker was responsible for a famous 1965 UFO incident...</span><span class="citation-popover-meta">Published: March 16, 2016</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_kc97_tanker_t_2936dd-Illustration-3-light.svg" | relative_url }}" alt="Tanker theory illustration 3" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_kc97_tanker_t_2936dd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_kc97_tanker_t_2936dd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_kc97_tanker_t_2936dd-Illustration-3-dark.svg" | relative_url }}" alt="Tanker theory illustration 3" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_kc97_tanker_t_2936dd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0_exeter_kc97_tanker_t_2936dd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Exeter debate still matters
 
 The tanker theory changed the discussion around Exeter because it replaced broad dismissal with a specific aviation-based mechanism. For many sceptics, it is the most persuasive conventional explanation yet proposed. It links the sighting to known aircraft, known military operations and a documented lighting system that resembles key witness descriptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Exeter Incident&#x27; Solved!by ACUFO Case · 2011 — Blue Book noted that “the town of Exeter is within the traffic pattern utilized by Air Tr...</span></span></span>
 
 At the same time, the theory highlights a recurring feature of [New Hampshire]({{ 'why-new-hampshire-became-ufo-country/' | relative_url }})'s most famous UFO cases: a sighting can remain historically important even when a plausible explanation exists. Exeter is not widely remembered because it proved extraterrestrial visitation. It remains notable because reliable witnesses described something they found extraordinary, official explanations shifted over time, and later investigators continued to argue over what the evidence actually supports. The KC-97 theory may explain much of the case, but the continuing disagreement over witness perception, distance, sound and interpretation is precisely why the Exeter incident still occupies a central place in New Hampshire UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[2cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">Exeter Incident&#x27; Solved!by ACUFO Case · 2011 — Blue Book noted that “the town of Exeter is within the traffic pattern utilized by Air Tr...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sdoLNXXkWB0" title="1965 UFO ENCOUNTER AT EXETER, NEW HAMPSHIRE - UNEXPLAINABLE MYSTERY!!!!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sdoLNXXkWB0" target="_blank" rel="noopener noreferrer">1965 UFO ENCOUNTER AT EXETER, NEW HAMPSHIRE - UNEXPLAINABLE MYSTERY!!!!!</a></p><p class="youtube-embed-meta">Channel: Dennis Morrison &middot; Views: 87 &middot; Uploaded: January 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sdoLNXXkWB0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sdoLNXXkWB0">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LXeIUnE9ejk" title="Exeter History Minute - Exeter UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LXeIUnE9ejk" target="_blank" rel="noopener noreferrer">Exeter History Minute - Exeter UFO</a></p><p class="youtube-embed-meta">Channel: Exeter Historical Society &middot; Views: 15.3K &middot; Uploaded: August 2015 &middot; Length: 3 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LXeIUnE9ejk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LXeIUnE9ejk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -746,23 +739,23 @@ At the same time, the theory highlights a recurring feature of [New Hampshire]({
 
 1. <a id="endnote-1"></a>
    Source: cdn.centerforinquiry.org  
-   Link: [https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf](https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf)  
+   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Exeter Incident&#x27; Solved!by ACUFO Case · 2011 — Blue Book noted that “the town of Exeter is within the traffic pattern utilized by Air Tr...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: martinshough.com  
    Title: Exeunt Exeter?  
-   Link: [https://www.martinshough.com/aerialphenomena/EXETER%20N.H.%20Sep%202-3%201965.pdf](https://www.martinshough.com/aerialphenomena/EXETER%20N.H.%20Sep%202-3%201965.pdf)  
+   Link: <a href="https://www.martinshough.com/aerialphenomena/EXETER%20N.H.%20Sep%202-3%201965.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.martinshough.com/aerialphenomena/EXETER%20N.H.%20Sep%202-3%201965.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Physics2) The KC-97&#x27;s refuelling boom would have hung out of the tail making an angle of around. 60 deg with the horizontal axis of the p...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Exeter incident  
-   Link: [https://en.wikipedia.org/wiki/Exeter_incident](https://en.wikipedia.org/wiki/Exeter_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exeter_incident</a>  
 
 4. <a id="endnote-4"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/1038/660](https://journalofscientificexploration.org/index.php/jse/article/view/1038/660)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/1038/660" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/1038/660</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>JSE 301 online.inddMarch 16, 2016 — a KC-97 refueling tanker was responsible for a famous 1965 UFO incident...</p></details>
    Published: March 16, 2016  
 
@@ -770,56 +763,56 @@ At the same time, the theory highlights a recurring feature of [New Hampshire]({
 
 5. <a id="endnote-5"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation establishi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: data.jncc.gov.uk  
-   Link: [https://data.jncc.gov.uk/data/d4c43bd4-a38d-439e-a93f-95d29636cb17/NNSSR-5-AoO-v1.0.xlsx](https://data.jncc.gov.uk/data/d4c43bd4-a38d-439e-a93f-95d29636cb17/NNSSR-5-AoO-v1.0.xlsx)  
+   Link: <a href="https://data.jncc.gov.uk/data/d4c43bd4-a38d-439e-a93f-95d29636cb17/NNSSR-5-AoO-v1.0.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://data.jncc.gov.uk/data/d4c43bd4-a38d-439e-a93f-95d29636cb17/NNSSR-5-AoO-v1.0.xlsx</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>on OperationsChange in incident light via anthropogenic means. Direct inputs of light from anthropogenic activities, i.e. lighting on str...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: were near the 60th anniversary of michigans most famous ufo sighting will we fin  
-   Link: [https://www.facebook.com/wwj950/posts/were-near-the-60th-anniversary-of-michigans-most-famous-ufo-sighting-will-we-fin/1528643802604108/](https://www.facebook.com/wwj950/posts/were-near-the-60th-anniversary-of-michigans-most-famous-ufo-sighting-will-we-fin/1528643802604108/)  
+   Link: <a href="https://www.facebook.com/wwj950/posts/were-near-the-60th-anniversary-of-michigans-most-famous-ufo-sighting-will-we-fin/1528643802604108/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wwj950/posts/were-near-the-60th-anniversary-of-michigans-most-famous-ufo-sighting-will-we-fin/1528643802604108/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>We&#x27;re near the 60th anniversary of Michigan&#x27;s most famous...Remember, it was in Michigan where J Allen Hynek came up with the swamp gas...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html](https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html)  
+   Link: <a href="https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Outsider&#x27;S Guide to Ufos: Volume 1: Mystery and...Based on the Condon report&#x27;s conclusions, Project Blue Book was officially...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: webapps.bgs.ac.uk  
    Title: bgs.ac.uka brief explanation of the Isle of Wight Geological Sheet  
-   Link: [https://webapps.bgs.ac.uk/memoirs/docs/B07302.html](https://webapps.bgs.ac.uk/memoirs/docs/B07302.html)  
+   Link: <a href="https://webapps.bgs.ac.uk/memoirs/docs/B07302.html" target="_blank" rel="noopener noreferrer nofollow">https://webapps.bgs.ac.uk/memoirs/docs/B07302.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>are major worldwide environmental changes in the transition from the latest Triassic into the earliest Jurassic and this r...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/pdfs/Skeptical_explanations_for_UFOs.pdf](https://cufos.org/PDFs/pdfs/Skeptical_explanations_for_UFOs.pdf)  
+   Link: <a href="https://cufos.org/PDFs/pdfs/Skeptical_explanations_for_UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/Skeptical_explanations_for_UFOs.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>unconventional raise further questions, while the identity of UFOs as alien...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: archive.org  
    Title: Full text of "Parallels Ancient Insights Into Modern UFO  
-   Link: [https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt](https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt)  
+   Link: <a href="https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle and Donald Schmitt in 1991 under the title UFO Crash at Roswell.... witnesses frequently report eye irritation caused by b...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
    Title: 20131128 mod whitehall library resources 1700to1989.csv  
-   Link: [https://assets.publishing.service.gov.uk/media/5a7caf90ed915d63cc65c397/20131128-mod-whitehall-library-resources-1700to1989.csv](https://assets.publishing.service.gov.uk/media/5a7caf90ed915d63cc65c397/20131128-mod-whitehall-library-resources-1700to1989.csv)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7caf90ed915d63cc65c397/20131128-mod-whitehall-library-resources-1700to1989.csv" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7caf90ed915d63cc65c397/20131128-mod-whitehall-library-resources-1700to1989.csv</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>publishing.service.gov.uk1700 to 1989... witness in Abyssinia: with Marshal Badoglio&#x27;s forces to Addis Ababa... alien, refugee and priso...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — Project Blue Book, from March 1952 to December 1969—the long...</p></details>
-   Published: March 1952  
+   Published: March 1952

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /north-dakota-0b6838-index/
 description: Focused pages that expand on Why North Dakota Matters in UFO History.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: North_Dakota_0b6838
 parent_title: Why North Dakota Matters in UFO History

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alaska-7288f7-elmendorf-cold-war-s/
 description: Focused pages that expand on Elmendorf.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Alaska_7288f7_elmendorf_cold_war_s_aa6628
-parent_title: Elmendorf | What Really Happened in Alaska's UFO Skies?
+parent_title: Elmendorf
 parent_nav_short_title: Elmendorf
 parent_permalink: /elmendorf/
 ---

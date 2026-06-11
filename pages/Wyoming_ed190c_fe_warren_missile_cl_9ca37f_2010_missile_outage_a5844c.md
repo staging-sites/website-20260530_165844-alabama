@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /f-e-warren/
 nav_short_title: 2010 Outage
 title: Did a UFO affect F.E. Warren missiles?
-title_full: Did a UFO affect F.E. Warren missiles? | F E Warren
+title_full: Did a UFO affect F.E. Warren missiles?
 display_title_short: 2010 Outage
 display_title: 2010 Outage
 heading_title: Did a UFO affect F.E. Warren missiles?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:32:54'
-parent_title: Do Wyoming Missile Sites Strengthen UFO Claims? | Wyoming UFOs
+parent_title: Do Wyoming Missile Sites Strengthen UFO Claims?
 parent_permalink: /f-e-warren/
 parent_nav_short_title: F E Warren
 parent_heading_title: Do Wyoming Missile Sites Strengthen UFO Claims?
@@ -250,19 +250,18 @@ image: /assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_2010_missile_ou
 
 ## Introduction
 
-In October 2010, F.E. Warren Air Force Base in [Wyoming]({{ 'what-really-happened-in-wyoming-skies/' | relative_url }}) experienced one of the most unusual nuclear command-and-control failures of the post-Cold War era. For a period of roughly 45 minutes, launch control centres lost normal communications with 50 Minuteman III intercontinental ballistic missiles belonging to the 319th Missile Squadron. The incident quickly became national news because it temporarily affected about one-ninth of the United States' land-based nuclear missile force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Communication With 50 Nuke Missiles Dropped in ICBM</span><span class="citation-popover-snippet">WIREDCommunication With 50 Nuke Missiles Dropped in ICBM...October 26, 2010 — 26 Oct 2010 — Multiple error codes were reported, includin...</span><span class="citation-popover-meta">Published: October 26, 2010</span></span></span> RadioFreeEurope What transformed a serious technical failure into a Wyoming UFO story was not the outage itself <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/news/news-desk/world-war-three-by-mistake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[newyorker.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">to falsely believe it was under Soviet nuclear attack, raising awareness of the inherent risks and errors within nuclear command-and-cont...</span></span></span>, but later claims that unidentified objects had been seen in the missile field around the same time. UFO researcher Robert Hastings and several sources he cited argued that unusual aerial activity coincided with the disruption. The Air Force, however, maintained that the communications problem resulted from a hardware fault and stated that investigators found no evidence of sabotage, hacking or any external interference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prnewswire.com/news-releases/robert-hastings-unidentified-aerial-object-sighted-during-october-2010-nuclear-missile-incident-124199869.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-snippet">PR NewswireRobert Hastings: Unidentified Aerial Object Sighted During...Jun 20, 2011 — Warren AFB, Hastings emphasizes, &quot;My sources have...</span><span class="citation-popover-meta">Published: october 2010</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufohastings.com/articles/huge-ufo-sighted-near-nuclear-missiles-during-october-2010-launch-system-disruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohastings.com">[UFO Hastings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohastings.com</span><span class="citation-popover-snippet">UFO HastingsUFOs &amp; Nukes21 Jun 2011 — Warren Air Force Base, in Cheyenne, Wyoming, temporarily lost the ability to communicate with 50 of...</span><span class="citation-popover-meta">Published: october 2010</span></span></span>
+In October 2010, F.E. Warren Air Force Base in Wyoming experienced one of the most unusual nuclear command-and-control failures of the post-Cold War era. For a period of roughly 45 minutes, launch control centres lost normal communications with 50 Minuteman III intercontinental ballistic missiles belonging to the 319th Missile Squadron. The incident quickly became national news because it temporarily affected about one-ninth of the United States' land-based nuclear missile force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Communication With 50 Nuke Missiles Dropped in ICBM</span><span class="citation-popover-snippet">Communication With 50 Nuke Missiles Dropped in ICBM...October 26, 2010 — 26 Oct 2010 — Multiple error codes were reported, includin...</span><span class="citation-popover-meta">Published: October 26, 2010</span></span></span> RadioFreeEurope What transformed a serious technical failure into a Wyoming UFO story was not the outage itself <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/news/news-desk/world-war-three-by-mistake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[newyorker.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">to falsely believe it was under Soviet nuclear attack, raising awareness of the inherent risks and errors within nuclear command-and-cont...</span></span></span>, but later claims that unidentified objects had been seen in the missile field around the same time. UFO researcher Robert Hastings and several sources he cited argued that unusual aerial activity coincided with the disruption. The Air Force, however, maintained that the communications problem resulted from a hardware fault and stated that investigators found no evidence of sabotage, hacking or any external interference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prnewswire.com/news-releases/robert-hastings-unidentified-aerial-object-sighted-during-october-2010-nuclear-missile-incident-124199869.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-snippet">PR NewswireRobert Hastings: Unidentified Aerial Object Sighted During...Jun 20, 2011 — Warren AFB, Hastings emphasizes, &quot;My sources have...</span><span class="citation-popover-meta">Published: october 2010</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufohastings.com/articles/huge-ufo-sighted-near-nuclear-missiles-during-october-2010-launch-system-disruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohastings.com">[UFO Hastings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohastings.com</span><span class="citation-popover-snippet">UFO HastingsUFOs &amp; Nukes21 Jun 2011 — Warren Air Force Base, in Cheyenne, Wyoming, temporarily lost the ability to communicate with 50 of...</span><span class="citation-popover-meta">Published: october 2010</span></span></span>
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_2010_missile_outage_a5844c-Illustration-1-light.svg" | relative_url }}" alt="2010 Outage illustration 1" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_2010_missile_outage_a5844c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_2010_missile_outage_a5844c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_2010_missile_outage_a5844c-Illustration-1-dark.svg" | relative_url }}" alt="2010 Outage illustration 1" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_2010_missile_outage_a5844c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_2010_missile_outage_a5844c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key question is therefore narrower than many retellings suggest: not whether the outage happened—it unquestionably did—but whether there is credible evidence that a UFO caused it.
 
 ## What the Air Force said happened
 
-The communications disruption occurred on 23 October 2010 within part of F.E. Warren's missile network. Launch officers received "Launch Facility Down" warnings as communication links between five launch control centres and 50 missiles failed. Although operators temporarily lost their normal ability to communicate with the missiles, backup procedures remained available and the weapons did not become uncontrolled or capable of launching on their own. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Communication With 50 Nuke Missiles Dropped in ICBM</span><span class="citation-popover-snippet">WIREDCommunication With 50 Nuke Missiles Dropped in ICBM...October 26, 2010 — 26 Oct 2010 — Multiple error codes were reported, includin...</span><span class="citation-popover-meta">Published: October 26, 2010</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/news/news-desk/world-war-three-by-mistake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">to falsely believe it was under Soviet nuclear attack, raising awareness of the inherent risks and errors within nuclear command-and-cont...</span></span></span>
+The communications disruption occurred on 23 October 2010 within part of F.E. Warren's missile network. Launch officers received "Launch Facility Down" warnings as communication links between five launch control centres and 50 missiles failed. Although operators temporarily lost their normal ability to communicate with the missiles, backup procedures remained available and the weapons did not become uncontrolled or capable of launching on their own. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Communication With 50 Nuke Missiles Dropped in ICBM</span><span class="citation-popover-snippet">Communication With 50 Nuke Missiles Dropped in ICBM...October 26, 2010 — 26 Oct 2010 — Multiple error codes were reported, includin...</span><span class="citation-popover-meta">Published: October 26, 2010</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/news/news-desk/world-war-three-by-mistake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">to falsely believe it was under Soviet nuclear attack, raising awareness of the inherent risks and errors within nuclear command-and-cont...</span></span></span>
 
-Contemporary reporting emphasised that the problem appeared to stem from the command network rather than the missiles themselves. Investigators eventually focused on a hardware-related communications fault. Air Force officials stated that a mechanical or electronic failure had caused data transmissions to fall out of sequence, creating a communications bottleneck. They also said there was no evidence of malicious activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Communication With 50 Nuke Missiles Dropped in ICBM</span><span class="citation-popover-snippet">WIREDCommunication With 50 Nuke Missiles Dropped in ICBM...October 26, 2010 — 26 Oct 2010 — Multiple error codes were reported, includin...</span><span class="citation-popover-meta">Published: October 26, 2010</span></span></span>
+Contemporary reporting emphasised that the problem appeared to stem from the command network rather than the missiles themselves. Investigators eventually focused on a hardware-related communications fault. Air Force officials stated that a mechanical or electronic failure had caused data transmissions to fall out of sequence, creating a communications bottleneck. They also said there was no evidence of malicious activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Communication With 50 Nuke Missiles Dropped in ICBM</span><span class="citation-popover-snippet">Communication With 50 Nuke Missiles Dropped in ICBM...October 26, 2010 — 26 Oct 2010 — Multiple error codes were reported, includin...</span><span class="citation-popover-meta">Published: October 26, 2010</span></span></span>
 
-This explanation matters because the UFO interpretation often emerged after the basic technical account had already been established. In official reporting, the outage was treated as a reliability and command-system issue rather than a mystery intrusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Communication With 50 Nuke Missiles Dropped in ICBM</span><span class="citation-popover-snippet">WIREDCommunication With 50 Nuke Missiles Dropped in ICBM...October 26, 2010 — 26 Oct 2010 — Multiple error codes were reported, includin...</span><span class="citation-popover-meta">Published: October 26, 2010</span></span></span>
+This explanation matters because the UFO interpretation often emerged after the basic technical account had already been established. In official reporting, the outage was treated as a reliability and command-system issue rather than a mystery intrusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Communication With 50 Nuke Missiles Dropped in ICBM</span><span class="citation-popover-snippet">Communication With 50 Nuke Missiles Dropped in ICBM...October 26, 2010 — 26 Oct 2010 — Multiple error codes were reported, includin...</span><span class="citation-popover-meta">Published: October 26, 2010</span></span></span>
 
 ### Why the outage attracted so much attention
 
@@ -270,8 +269,7 @@ The event sounded more dramatic than many routine military equipment failures be
 
 The incident also occurred only weeks after a highly publicised September 2010 press conference in Washington, where retired military personnel and UFO researcher Robert Hastings again promoted claims that unidentified objects had interfered with nuclear weapons systems during the Cold War. That timing would later become important in how the outage was interpreted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Francis_E._Warren_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Francis E. Warren Air Force Base</span><span class="citation-popover-snippet">Francis E. Warren Air Force Base</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/syGME_XtHkg" title="Military Can&#x27;t Explain These UFOs at US &amp; Russian Nuclear Weapons Sites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=syGME_XtHkg" target="_blank" rel="noopener noreferrer">Military Can&#x27;t Explain These UFOs at US &amp; Russian Nuclear Weapons Sites</a></p><p class="youtube-embed-meta">Channel: The Infographics Show &middot; Views: 1.7M &middot; Uploaded: June 2020 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=syGME_XtHkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=syGME_XtHkg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3jUU4Z8QdHI" title="Disclosure Conference, National Press Club, 27 September 2010 (extended version, English subtitles)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3jUU4Z8QdHI" target="_blank" rel="noopener noreferrer">Disclosure Conference, National Press Club, 27 September 2010 (extended version, English subtitles)</a></p><p class="youtube-embed-meta">Channel: AlphaZebra &middot; Views: 263.6K &middot; Uploaded: October 2010 &middot; Length: 1 hour 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3jUU4Z8QdHI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3jUU4Z8QdHI">Open on YouTube</a></p></div></div></div>
 
 ## How the UFO claim entered the story
 
@@ -281,8 +279,7 @@ Hastings argued that the event resembled earlier allegations from Malmstrom Air 
 
 An important detail often lost in later retellings is that Hastings himself publicly acknowledged a distinction between correlation and causation. In statements promoting the story, he noted that his sources had not directly claimed the observed object caused the communications disruption and that the Air Force had officially attributed the failure to a hardware problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prnewswire.com/news-releases/robert-hastings-unidentified-aerial-object-sighted-during-october-2010-nuclear-missile-incident-124199869.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-snippet">PR NewswireRobert Hastings: Unidentified Aerial Object Sighted During...Jun 20, 2011 — Warren AFB, Hastings emphasizes, &quot;My sources have...</span><span class="citation-popover-meta">Published: october 2010</span></span></span>
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_2010_missile_outage_a5844c-Illustration-2-light.svg" | relative_url }}" alt="2010 Outage illustration 2" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_2010_missile_outage_a5844c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_2010_missile_outage_a5844c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_2010_missile_outage_a5844c-Illustration-2-dark.svg" | relative_url }}" alt="2010 Outage illustration 2" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_2010_missile_outage_a5844c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_2010_missile_outage_a5844c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Claims that went beyond the official timeline
 
 Some witnesses cited by Hastings disputed aspects of the official account. They reportedly claimed the communications difficulties were intermittent and lasted longer than the approximately hour-long outage described in early news reports. These assertions became part of the UFO narrative because they suggested a larger and more complex event than the public initially understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prnewswire.com/news-releases/robert-hastings-unidentified-aerial-object-sighted-during-october-2010-nuclear-missile-incident-124199869.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-snippet">PR NewswireRobert Hastings: Unidentified Aerial Object Sighted During...Jun 20, 2011 — Warren AFB, Hastings emphasizes, &quot;My sources have...</span><span class="citation-popover-meta">Published: october 2010</span></span></span>
@@ -295,7 +292,7 @@ The strongest fact in the entire story is the communications outage. The weakest
 
 Several issues complicate any attempt to connect the two.
 
-**No released evidence directly links the outage to an aerial object.** Public reporting on the failure identified communications hardware problems, while no official investigation has publicly concluded that an unidentified craft interfered with missile systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Communication With 50 Nuke Missiles Dropped in ICBM</span><span class="citation-popover-snippet">WIREDCommunication With 50 Nuke Missiles Dropped in ICBM...October 26, 2010 — 26 Oct 2010 — Multiple error codes were reported, includin...</span><span class="citation-popover-meta">Published: October 26, 2010</span></span></span>
+**No released evidence directly links the outage to an aerial object.** Public reporting on the failure identified communications hardware problems, while no official investigation has publicly concluded that an unidentified craft interfered with missile systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Communication With 50 Nuke Missiles Dropped in ICBM</span><span class="citation-popover-snippet">Communication With 50 Nuke Missiles Dropped in ICBM...October 26, 2010 — 26 Oct 2010 — Multiple error codes were reported, includin...</span><span class="citation-popover-meta">Published: October 26, 2010</span></span></span>
 
 **The sightings and the outage are different categories of evidence.** Even if unusual lights or objects were present in the missile field, that alone would not demonstrate that they affected command electronics. Establishing causation would require technical evidence showing that the object's presence produced the communications failure. Such evidence has not been publicly presented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prnewswire.com/news-releases/robert-hastings-unidentified-aerial-object-sighted-during-october-2010-nuclear-missile-incident-124199869.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-snippet">PR NewswireRobert Hastings: Unidentified Aerial Object Sighted During...Jun 20, 2011 — Warren AFB, Hastings emphasizes, &quot;My sources have...</span><span class="citation-popover-meta">Published: october 2010</span></span></span>
 
@@ -303,8 +300,7 @@ Several issues complicate any attempt to connect the two.
 
 **The case arrived in an already established UFO narrative.** Because Hastings and others had spent years arguing that UFOs monitored nuclear weapons sites, observers sympathetic to that theory were primed to interpret the Wyoming outage through that lens. Critics argue that this can encourage confirmation bias, where unrelated events become linked because they fit an existing pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3jUU4Z8QdHI" title="Disclosure Conference, National Press Club, 27 September 2010 (extended version, English subtitles)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3jUU4Z8QdHI" target="_blank" rel="noopener noreferrer">Disclosure Conference, National Press Club, 27 September 2010 (extended version, English subtitles)</a></p><p class="youtube-embed-meta">Channel: AlphaZebra &middot; Views: 263.6K &middot; Uploaded: October 2010 &middot; Length: 1 hour 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3jUU4Z8QdHI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3jUU4Z8QdHI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/syGME_XtHkg" title="Military Can&#x27;t Explain These UFOs at US &amp; Russian Nuclear Weapons Sites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=syGME_XtHkg" target="_blank" rel="noopener noreferrer">Military Can&#x27;t Explain These UFOs at US &amp; Russian Nuclear Weapons Sites</a></p><p class="youtube-embed-meta">Channel: The Infographics Show &middot; Views: 1.7M &middot; Uploaded: June 2020 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=syGME_XtHkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=syGME_XtHkg">Open on YouTube</a></p></div></div></div>
 
 ## The shadow of the Malmstrom missile stories
 
@@ -314,17 +310,14 @@ In those accounts, former officers claimed UFO activity coincided with missile s
 
 This is one reason the F.E. Warren outage remains significant in Wyoming UFO history. It sits at the intersection of a documented military malfunction and a much larger cultural narrative about UFOs and nuclear weapons. The debate is not simply about one night's events in 2010. It is also about whether decades of similar stories should be viewed as a meaningful pattern or as a chain of loosely connected anecdotes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufohastings.com/articles/huge-ufo-sighted-near-nuclear-missiles-during-october-2010-launch-system-disruption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufohastings.com">[UFO Hastings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufohastings.com</span><span class="citation-popover-snippet">UFO HastingsUFOs &amp; Nukes21 Jun 2011 — Warren Air Force Base, in Cheyenne, Wyoming, temporarily lost the ability to communicate with 50 of...</span><span class="citation-popover-meta">Published: october 2010</span></span></span>
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_2010_missile_outage_a5844c-Illustration-3-light.svg" | relative_url }}" alt="2010 Outage illustration 3" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_2010_missile_outage_a5844c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_2010_missile_outage_a5844c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_2010_missile_outage_a5844c-Illustration-3-dark.svg" | relative_url }}" alt="2010 Outage illustration 3" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_2010_missile_outage_a5844c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_2010_missile_outage_a5844c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the case looks today
 
-More than a decade later, the October 2010 outage remains a genuine and noteworthy military incident. The communications failure occurred, it affected 50 missiles, and it raised legitimate questions about the reliability of nuclear command systems. Those points are well documented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Communication With 50 Nuke Missiles Dropped in ICBM</span><span class="citation-popover-snippet">WIREDCommunication With 50 Nuke Missiles Dropped in ICBM...October 26, 2010 — 26 Oct 2010 — Multiple error codes were reported, includin...</span><span class="citation-popover-meta">Published: October 26, 2010</span></span></span> RadioFreeEurope The UFO component is far less firmly established. Reports of unusual aerial objects came from later witness accounts and UFO researchers rath <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/news/news-desk/world-war-three-by-mistake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[newyorker.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">to falsely believe it was under Soviet nuclear attack, raising awareness of the inherent risks and errors within nuclear command-and-cont...</span></span></span> er than from official findings released about the outage. No publicly available evidence has demonstrated that a UFO disabled missile communications, and even some proponents of the UFO interpretation have stopped short of claiming a proven causal connection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prnewswire.com/news-releases/robert-hastings-unidentified-aerial-object-sighted-during-october-2010-nuclear-missile-incident-124199869.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-snippet">PR NewswireRobert Hastings: Unidentified Aerial Object Sighted During...Jun 20, 2011 — Warren AFB, Hastings emphasizes, &quot;My sources have...</span><span class="citation-popover-meta">Published: october 2010</span></span></span>
+More than a decade later, the October 2010 outage remains a genuine and noteworthy military incident. The communications failure occurred, it affected 50 missiles, and it raised legitimate questions about the reliability of nuclear command systems. Those points are well documented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Communication With 50 Nuke Missiles Dropped in ICBM</span><span class="citation-popover-snippet">Communication With 50 Nuke Missiles Dropped in ICBM...October 26, 2010 — 26 Oct 2010 — Multiple error codes were reported, includin...</span><span class="citation-popover-meta">Published: October 26, 2010</span></span></span> RadioFreeEurope The UFO component is far less firmly established. Reports of unusual aerial objects came from later witness accounts and UFO researchers rath <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/news/news-desk/world-war-three-by-mistake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[newyorker.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">to falsely believe it was under Soviet nuclear attack, raising awareness of the inherent risks and errors within nuclear command-and-cont...</span></span></span> er than from official findings released about the outage. No publicly available evidence has demonstrated that a UFO disabled missile communications, and even some proponents of the UFO interpretation have stopped short of claiming a proven causal connection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prnewswire.com/news-releases/robert-hastings-unidentified-aerial-object-sighted-during-october-2010-nuclear-missile-incident-124199869.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-snippet">PR NewswireRobert Hastings: Unidentified Aerial Object Sighted During...Jun 20, 2011 — Warren AFB, Hastings emphasizes, &quot;My sources have...</span><span class="citation-popover-meta">Published: october 2010</span></span></span>
 
-For Wyoming's UFO history, that distinction is crucial. The 2010 F.E. Warren event is best understood not as a confirmed case of a UFO affecting nuclear weapons, but as a documented missile communications failure onto which a UFO interpretation was later attached. The outage remains real; the claimed cause remains unproven. That combination is precisely why the incident continues to occupy an important, disputed place in discussions of UFO reports around America's nuclear missile fields. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Communication With 50 Nuke Missiles Dropped in ICBM</span><span class="citation-popover-snippet">WIREDCommunication With 50 Nuke Missiles Dropped in ICBM...October 26, 2010 — 26 Oct 2010 — Multiple error codes were reported, includin...</span><span class="citation-popover-meta">Published: October 26, 2010</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prnewswire.com/news-releases/robert-hastings-unidentified-aerial-object-sighted-during-october-2010-nuclear-missile-incident-124199869.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-snippet">PR NewswireRobert Hastings: Unidentified Aerial Object Sighted During...Jun 20, 2011 — Warren AFB, Hastings emphasizes, &quot;My sources have...</span><span class="citation-popover-meta">Published: october 2010</span></span></span>
-
+For Wyoming's UFO history, that distinction is crucial. The 2010 F.E. Warren event is best understood not as a confirmed case of a UFO affecting nuclear weapons, but as a documented missile communications failure onto which a UFO interpretation was later attached. The outage remains real; the claimed cause remains unproven. That combination is precisely why the incident continues to occupy an important, disputed place in discussions of UFO reports around America's nuclear missile fields. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Communication With 50 Nuke Missiles Dropped in ICBM</span><span class="citation-popover-snippet">Communication With 50 Nuke Missiles Dropped in ICBM...October 26, 2010 — 26 Oct 2010 — Multiple error codes were reported, includin...</span><span class="citation-popover-meta">Published: October 26, 2010</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prnewswire.com/news-releases/robert-hastings-unidentified-aerial-object-sighted-during-october-2010-nuclear-missile-incident-124199869.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prnewswire.com">[PR Newswire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prnewswire.com</span><span class="citation-popover-snippet">PR NewswireRobert Hastings: Unidentified Aerial Object Sighted During...Jun 20, 2011 — Warren AFB, Hastings emphasizes, &quot;My sources have...</span><span class="citation-popover-meta">Published: october 2010</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ghYZTG4z5eI" title="UFOs and Nukes: The Pentagon&#x27;s Nuclear Secret" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ghYZTG4z5eI" target="_blank" rel="noopener noreferrer">UFOs and Nukes: The Pentagon&#x27;s Nuclear Secret</a></p><p class="youtube-embed-meta">Channel: The Good Trouble Show with Matt Ford &middot; Views: 27.6K &middot; Uploaded: March 2025 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ghYZTG4z5eI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ghYZTG4z5eI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -412,7 +405,7 @@ For Wyoming's UFO history, that distinction is crucial. The 2010 F.E. Warren eve
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -422,111 +415,36 @@ For Wyoming's UFO history, that distinction is crucial. The 2010 F.E. Warren eve
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +452,15 @@ For Wyoming's UFO history, that distinction is crucial. The 2010 F.E. Warren eve
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/lGIAAOSw2klmSmMn/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,15 +468,15 @@ For Wyoming's UFO history, that distinction is crucial. The 2010 F.E. Warren eve
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -566,15 +484,15 @@ For Wyoming's UFO history, that distinction is crucial. The 2010 F.E. Warren eve
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="https://i.ebayimg.com/images/g/VQ8AAeSwE2Fp1m0Y/s-l225.jpg" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -582,7 +500,7 @@ For Wyoming's UFO history, that distinction is crucial. The 2010 F.E. Warren eve
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2010-outage-did-a-ufo-affect-f-e-warren-missiles-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-affect-f-e-warren-missiles-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -659,17 +577,31 @@ For Wyoming's UFO history, that distinction is crucial. The 2010 F.E. Warren eve
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -682,42 +614,73 @@ For Wyoming's UFO history, that distinction is crucial. The 2010 F.E. Warren eve
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -732,12 +695,17 @@ For Wyoming's UFO history, that distinction is crucial. The 2010 F.E. Warren eve
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -748,44 +716,44 @@ For Wyoming's UFO history, that distinction is crucial. The 2010 F.E. Warren eve
 1. <a id="endnote-1"></a>
    Source: wired.com  
    Title: Communication With 50 Nuke Missiles Dropped in ICBM  
-   Link: [https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu/](https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIREDCommunication With 50 Nuke Missiles Dropped in ICBM...October 26, 2010 — 26 Oct 2010 — Multiple error codes were reported, includin...</p></details>
+   Link: <a href="https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Communication With 50 Nuke Missiles Dropped in ICBM...October 26, 2010 — 26 Oct 2010 — Multiple error codes were reported, includin...</p></details>
    Published: October 26, 2010  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Francis E. Warren Air Force Base  
-   Link: [https://en.wikipedia.org/wiki/Francis_E._Warren_Air_Force_Base](https://en.wikipedia.org/wiki/Francis_E._Warren_Air_Force_Base)  
+   Link: <a href="https://en.wikipedia.org/wiki/Francis_E._Warren_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Francis_E._Warren_Air_Force_Base</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Robert Hastings (ufologist)  
-   Link: [https://en.wikipedia.org/wiki/Robert_Hastings_%28ufologist%29](https://en.wikipedia.org/wiki/Robert_Hastings_%28ufologist%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Robert_Hastings_%28ufologist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Hastings_%28ufologist%29</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Malmstrom_UFO_incident](https://en.wikipedia.org/wiki/Malmstrom_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Robert Sheaffer  
-   Link: [https://en.wikipedia.org/wiki/Robert_Sheaffer](https://en.wikipedia.org/wiki/Robert_Sheaffer)  
+   Link: <a href="https://en.wikipedia.org/wiki/Robert_Sheaffer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Sheaffer</a>  
 
 6. <a id="endnote-6"></a>
    Source: newyorker.com  
-   Link: [https://www.newyorker.com/news/news-desk/world-war-three-by-mistake](https://www.newyorker.com/news/news-desk/world-war-three-by-mistake)  
+   Link: <a href="https://www.newyorker.com/news/news-desk/world-war-three-by-mistake" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/news/news-desk/world-war-three-by-mistake</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>to falsely believe it was under Soviet nuclear attack, raising awareness of the inherent risks and errors within nuclear command-and-cont...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: prnewswire.com  
-   Link: [https://www.prnewswire.com/news-releases/robert-hastings-unidentified-aerial-object-sighted-during-october-2010-nuclear-missile-incident-124199869.html](https://www.prnewswire.com/news-releases/robert-hastings-unidentified-aerial-object-sighted-during-october-2010-nuclear-missile-incident-124199869.html)  
+   Link: <a href="https://www.prnewswire.com/news-releases/robert-hastings-unidentified-aerial-object-sighted-during-october-2010-nuclear-missile-incident-124199869.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/robert-hastings-unidentified-aerial-object-sighted-during-october-2010-nuclear-missile-incident-124199869.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PR NewswireRobert Hastings: Unidentified Aerial Object Sighted During...Jun 20, 2011 — Warren AFB, Hastings emphasizes, &quot;My sources have...</p></details>
    Published: october 2010  
 
 8. <a id="endnote-8"></a>
    Source: ufohastings.com  
-   Link: [https://www.ufohastings.com/articles/huge-ufo-sighted-near-nuclear-missiles-during-october-2010-launch-system-disruption](https://www.ufohastings.com/articles/huge-ufo-sighted-near-nuclear-missiles-during-october-2010-launch-system-disruption)  
+   Link: <a href="https://www.ufohastings.com/articles/huge-ufo-sighted-near-nuclear-missiles-during-october-2010-launch-system-disruption" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/huge-ufo-sighted-near-nuclear-missiles-during-october-2010-launch-system-disruption</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO HastingsUFOs &amp; Nukes21 Jun 2011 — Warren Air Force Base, in [Cheyenne](&amp;#123;&amp;#123; &#x27;cheyenne/&#x27; | relative_url &amp;#125;&amp;#125;), Wyoming, temporarily lost the ability to communicate with 50 of...</p></details>
    Published: october 2010  
 
@@ -793,55 +761,55 @@ For Wyoming's UFO history, that distinction is crucial. The 2010 F.E. Warren eve
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1572893699951268/posts/2107164983190801/](https://www.facebook.com/groups/1572893699951268/posts/2107164983190801/)  
+   Link: <a href="https://www.facebook.com/groups/1572893699951268/posts/2107164983190801/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1572893699951268/posts/2107164983190801/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots confirm UFOs disable nuclear missiles midThere is no evidence that UFOs have ever shut down missile sites. The incident you are re...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/LosAlamosNationalLab/posts/ufos-at-los-alamos-explore-some-of-the-otherworldly-freedom-of-information-act-f/1020322276794064/](https://www.facebook.com/LosAlamosNationalLab/posts/ufos-at-los-alamos-explore-some-of-the-otherworldly-freedom-of-information-act-f/1020322276794064/)  
+   Link: <a href="https://www.facebook.com/LosAlamosNationalLab/posts/ufos-at-los-alamos-explore-some-of-the-otherworldly-freedom-of-information-act-f/1020322276794064/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LosAlamosNationalLab/posts/ufos-at-los-alamos-explore-some-of-the-otherworldly-freedom-of-information-act-f/1020322276794064/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at Los Alamos? 👽 Explore some of the otherworldly...UFOs at Los Alamos? Explore some of the otherworldly Freedom of Information Act...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: heres something terrifying in 1980 a nuclear missile silo in wyoming went silent  
-   Link: [https://www.facebook.com/mrballen/posts/heres-something-terrifying-in-1980-a-nuclear-missile-silo-in-wyoming-went-silent/819326627132839/](https://www.facebook.com/mrballen/posts/heres-something-terrifying-in-1980-a-nuclear-missile-silo-in-wyoming-went-silent/819326627132839/)  
+   Link: <a href="https://www.facebook.com/mrballen/posts/heres-something-terrifying-in-1980-a-nuclear-missile-silo-in-wyoming-went-silent/819326627132839/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrballen/posts/heres-something-terrifying-in-1980-a-nuclear-missile-silo-in-wyoming-went-silent/819326627132839/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1980, a nuclear missile silo in Wyoming went silent...... UFOs appear over nuclear facilities → systems malfunction → UFOs depart → s...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: telegraph.co.uk  
    Title: Aliens tried to warn US and Russia they were playing with fire during Cold War  
-   Link: [https://www.telegraph.co.uk/news/newstopics/howaboutthat/ufo/8029045/Aliens-tried-to-warn-US-and-Russia-they-were-playing-with-fire-during-Cold-War.html](https://www.telegraph.co.uk/news/newstopics/howaboutthat/ufo/8029045/Aliens-tried-to-warn-US-and-Russia-they-were-playing-with-fire-during-Cold-War.html)  
+   Link: <a href="https://www.telegraph.co.uk/news/newstopics/howaboutthat/ufo/8029045/Aliens-tried-to-warn-US-and-Russia-they-were-playing-with-fire-during-Cold-War.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/newstopics/howaboutthat/ufo/8029045/Aliens-tried-to-warn-US-and-Russia-they-were-playing-with-fire-during-Cold-War.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens &#x27;tried to warn US and Russia they were playing with...28 Sept 2010 — Aliens may have interfered with US and Soviet nuclear weapon...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: rferl.org  
    Title: Radio Free Europe/Radio Liberty Mystery Failure Knocks One-Ninth Of U.S  
-   Link: [https://www.rferl.org/a/Mystery_Failure_Knocks_Many_US_Nuclear_Missiles_OffLine/2202329.html](https://www.rferl.org/a/Mystery_Failure_Knocks_Many_US_Nuclear_Missiles_OffLine/2202329.html)  
+   Link: <a href="https://www.rferl.org/a/Mystery_Failure_Knocks_Many_US_Nuclear_Missiles_OffLine/2202329.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rferl.org/a/Mystery_Failure_Knocks_Many_US_Nuclear_Missiles_OffLine/2202329.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nukes Off-Line27 Oct 2010 —... failure three days later... Officials are quoted as saying the computer communications break occurred on...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo-crashretrievals-status-report-iii-amassing-the-e vidence... Blue Book file that shows Howard Cross from Battelle reported he witness...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Science of Unidentified Aerospace-Undersea...In doing so, our objective is to clarify the existing global and historical scienti...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ryan-sprague51.medium.com  
    Title: the ufo incident over [f e warren](&#123;&#123; 'f-e-warren/' | relative_url &#125;&#125;) air force base 29e1afe34948  
-   Link: [https://ryan-sprague51.medium.com/the-ufo-incident-over-f-e-warren-air-force-base-29e1afe34948](https://ryan-sprague51.medium.com/the-ufo-incident-over-f-e-warren-air-force-base-29e1afe34948)  
+   Link: <a href="https://ryan-sprague51.medium.com/the-ufo-incident-over-f-e-warren-air-force-base-29e1afe34948" target="_blank" rel="noopener noreferrer nofollow">https://ryan-sprague51.medium.com/the-ufo-incident-over-f-e-warren-air-force-base-29e1afe34948</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Incident over F.E. Warren Air Force BaseThe History of UFOs and Nukes... The 2010 F.E. Warren incident is not an isolated case when...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theufochronicles.com  
-   Link: [https://www.theufochronicles.com/2011/06/huge-ufo-sighted-near-nuclear-missiles_19.html](https://www.theufochronicles.com/2011/06/huge-ufo-sighted-near-nuclear-missiles_19.html)  
+   Link: <a href="https://www.theufochronicles.com/2011/06/huge-ufo-sighted-near-nuclear-missiles_19.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2011/06/huge-ufo-sighted-near-nuclear-missiles_19.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Huge UFO Sighted Near Nuclear Missiles During October...Jun 21, 2011 — If the reported UFO managed to interfere with the missile-communi...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cleveland19.com  
-   Link: [https://www.cleveland19.com/story/13241483/encounter-former-us-air-force-members-say-u-f-os-and-aliens-may-exist/](https://www.cleveland19.com/story/13241483/encounter-former-us-air-force-members-say-u-f-os-and-aliens-may-exist/)  
+   Link: <a href="https://www.cleveland19.com/story/13241483/encounter-former-us-air-force-members-say-u-f-os-and-aliens-may-exist/" target="_blank" rel="noopener noreferrer nofollow">https://www.cleveland19.com/story/13241483/encounter-former-us-air-force-members-say-u-f-os-and-aliens-may-exist/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force members say U-F-O&#x27;s...29 Sept 2010 — CLEVELAND, OH (WOIO) - A U-F-O researcher and more than a half-dozen retired Air Force me...</p></details>

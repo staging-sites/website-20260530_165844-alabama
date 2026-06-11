@@ -262,7 +262,7 @@ sibling_links:
   short_title: Michigan UFOs
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Alabama_d1f92d
   title: Alabama UFOs
@@ -277,9 +277,9 @@ sibling_links:
   permalink: /what-keeps-tennessees-ufo-stories-alive/
   short_title: Tennessee UFOs
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Idaho_18334c
   title: Idaho UFOs
   permalink: /what-makes-idaho-a-key-ufo-hotspot/
@@ -289,9 +289,9 @@ sibling_links:
   permalink: /what-makes-indianas-ufo-history-unique/
   short_title: Indiana UFOs
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: South_Carolina_11d001
   title: South Carolina UFOs
   permalink: /what-makes-south-carolinas-ufo-story/
@@ -479,18 +479,16 @@ image: /assets/images/West_Virginia_be1c72-overview-social.jpg
 
 ## Introduction
 
-West Virginia’s UFO history is unusually concentrated around two stories: the 1952 [Flatwoods Monster]({{ 'flatwoods/' | relative_url }}) encounter in Braxton County and the 1966–67 Mothman flap around Point Pleasant. Both are famous because they sit at the border between UFO reporting, local witness testimony, Cold War anxiety and Appalachian folklore. The strongest reading is not that either case proves alien visitation, but that West Virginia became one of the few states where local sightings turned into durable public memory, tourism and debate. The best-supported facts are the dates, locations, witness reports, later archival interest and official context; the weakest parts are the claims of crashed craft, non-human beings and prophetic links to disaster. The state also matters because [Green Bank]({{ 'green-bank/' | relative_url }}) is a real centre of scientific listening for possible extraterrestrial signals, separate from UFO lore but often confused with it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://greenbankobservatory.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greenbankobservatory.org">[Green Bank Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greenbankobservatory.org</span><span class="citation-popover-snippet">Green Bank Observatory</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[3U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">U.S. Air Force</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
-
+West Virginia’s UFO history is unusually concentrated around two stories: the 1952 [Flatwoods]({{ 'flatwoods/' | relative_url }}) Monster encounter in Braxton County and the 1966–67 Mothman flap around Point Pleasant. Both are famous because they sit at the border between UFO reporting, local witness testimony, Cold War anxiety and Appalachian folklore. The strongest reading is not that either case proves alien visitation, but that West Virginia became one of the few states where local sightings turned into durable public memory, tourism and debate. The best-supported facts are the dates, locations, witness reports, later archival interest and official context; the weakest parts are the claims of crashed craft, non-human beings and prophetic links to disaster. The state also matters because [Green Bank]({{ 'green-bank/' | relative_url }}) is a real centre of scientific listening for possible extraterrestrial signals, separate from UFO lore but often confused with it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://greenbankobservatory.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greenbankobservatory.org">[Green Bank Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greenbankobservatory.org</span><span class="citation-popover-snippet">Green Bank Observatory</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[3U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">U.S. Air Force</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 <img src="{{ "/assets/images/West_Virginia_be1c72-overview.webp" | relative_url }}" alt="Overview image for What Really Haunts West Virginia&#x27;s UFO Lore?" loading="eager" decoding="sync" fetchpriority="high">
 ## Why West Virginia stands out in American UFO lore
 
 West Virginia is not the state with the largest number of UFO reports, but it has a distinctive place in the subject because its best-known cases have become cultural landmarks. The National UFO Reporting Center maintains a state listing for West Virginia, and a 2021 Stacker analysis using NUFORC data counted 621 reports for the state at that time. That figure is useful as a rough public-reporting indicator, not as a measure of unexplained craft: NUFORC is a witness-report database, and its entries vary widely in detail, reliability and likely explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lWV" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for State WV</span><span class="citation-popover-snippet">NUFOR C Reports for State WV</span></span></span>
 
-The state’s UFO identity is also shaped by terrain. Mountain roads, dark skies, wooded ridges, small communities and former military or industrial sites provide dramatic settings for unusual lights and creatures. Those features do not make the claims true, but they help explain why brief sightings can become powerful stories. In West Virginia, the memorable cases are rarely just “lights in the sky”; they are attached to named places: [Flatwoods]({{ 'flatwoods/' | relative_url }}), Point Pleasant, the [TNT area]({{ 'tnt-area/' | relative_url }}), Green Bank and the Ohio River crossing at the Silver Bridge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wvexplorer.com/2025/10/03/west-virginia-ufo-seti-green-bank-flatwoods-mothman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvexplorer.com">[WVExplorer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvexplorer.com</span><span class="citation-popover-title">Investigator: West Virginia ground-zero for UFO research, ET encounters</span><span class="citation-popover-snippet">Investigator: West Virginia ground-zero for UFO research, ET encounters</span></span></span>
+The state’s UFO identity is also shaped by terrain. Mountain roads, dark skies, wooded ridges, small communities and former military or industrial sites provide dramatic settings for unusual lights and creatures. Those features do not make the claims true, but they help explain why brief sightings can become powerful stories. In West Virginia, the memorable cases are rarely just “lights in the sky”; they are attached to named places: Flatwoods, Point Pleasant, the [TNT area]({{ 'tnt-area/' | relative_url }}), Green Bank and the Ohio River crossing at the Silver Bridge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wvexplorer.com/2025/10/03/west-virginia-ufo-seti-green-bank-flatwoods-mothman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvexplorer.com">[WVExplorer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvexplorer.com</span><span class="citation-popover-title">Investigator: West Virginia ground-zero for UFO research, ET encounters</span><span class="citation-popover-snippet">Investigator: West Virginia ground-zero for UFO research, ET encounters</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pex7x4Z9htw" title="The Most Puzzling UFO Case of the 20th Century | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer">The Most Puzzling UFO Case of the 20th Century | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied &middot; Views: 550.4K &middot; Uploaded: July 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pex7x4Z9htw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7TH9iCUgrG4" title="Project Blue Book: Declassified – The True Story of the Flatwoods Monster | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7TH9iCUgrG4" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of the Flatwoods Monster | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 130.9K &middot; Uploaded: February 2019 &middot; Length: 2 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7TH9iCUgrG4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7TH9iCUgrG4">Open on YouTube</a></p></div></div></div>
 
 ## Flatwoods: the 1952 case that gave West Virginia its classic UFO monster
 
@@ -502,18 +500,16 @@ The strongest sceptical explanation is a layered one rather than a single debunk
 
 Flatwoods remains valuable precisely because it shows how a UFO case can be both sincere and weak as evidence. Multiple witnesses, a specific date and a strong local tradition make it historically important. But the chain from “bright light” to “landed craft” to “alien occupant” is not secure. The better-supported conclusion is that Flatwoods became a classic UFO-era folklore case, with enough witness texture to remain interesting and enough ordinary explanations to prevent it from standing as strong evidence of an extraordinary event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalism.wvu.edu/wv-today/wvtoday-story/2025/10/30/cryptid-craze-w-va-s-folklore-festivals-show-the-shift-from-marginal-to-mainstream" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalism.wvu.edu">[journalism.wvu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalism.wvu.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/West_Virginia_be1c72-Illustration-1-light.svg" | relative_url }}" alt="What Really Haunts West Virginia&#x27;s UFO Lore? illustration 1" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/West_Virginia_be1c72-Illustration-1-dark.svg" | relative_url }}" alt="What Really Haunts West Virginia&#x27;s UFO Lore? illustration 1" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Mothman: a UFO-adjacent flap, not a simple flying-saucer case
 
 [Mothman]({{ 'mothman/' | relative_url }}) is often placed in UFO history, but it is not a conventional UFO case. The core reports concerned a large winged, man-like creature seen around Point Pleasant in 1966 and 1967, especially near the abandoned wartime TNT area. Some accounts linked it with strange lights, “men in black” stories and wider paranormal claims, which is why it entered UFO culture as well as cryptid folklore. The Mothman Museum says its collection includes original press clippings, Silver Bridge material, UFO activity articles and handwritten police reports from original eyewitnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mothmanmuseum.com/mothman-museum.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mothmanmuseum.com">[mothmanmuseum.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mothmanmuseum.com</span><span class="citation-popover-title">Mothman Museum</span><span class="citation-popover-snippet">Mothman Museum</span></span></span>
 
-The most famous reported sighting involved two young couples who said they saw a large creature with glowing red eyes near Point Pleasant. The setting mattered: the TNT area was an abandoned former munitions site with concrete “igloos”, isolation and an atmosphere that helped the story grow. Sceptical treatments have proposed large birds, especially owls or cranes, as possible sources for at least some sightings. Audubon, for example, has examined the owl explanation, noting that eyeshine from nocturnal birds can look striking when caught in headlights or torches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.audubon.org/magazine/mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[Audubon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl? | Audubon</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl? | Audubon</span></span></span>
+The most famous reported sighting involved two young couples who said they saw a large creature with glowing red eyes near Point Pleasant. The setting mattered: the TNT area was an abandoned former munitions site with concrete “igloos”, isolation and an atmosphere that helped the story grow. Sceptical treatments have proposed large birds, especially owls or cranes, as possible sources for at least some sightings. Audubon, for example, has examined the owl explanation, noting that eyeshine from nocturnal birds can look striking when caught in headlights or torches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.audubon.org/magazine/mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[Audubon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl? &#124; Audubon</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl? &#124; Audubon</span></span></span>
 
 The case became much darker because of the Silver Bridge disaster. On 15 December 1967, the bridge connecting Point Pleasant, West Virginia, with Kanauga, Ohio, collapsed during rush hour, killing 46 people. The National Transportation Safety Board found the cause to be a fracture in eyebar 330, caused by a critical flaw that developed over the bridge’s life through stress corrosion and corrosion fatigue; the flaw was inaccessible to ordinary visual inspection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ntsb.gov/investigations/Pages/80267.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntsb.gov">[NTSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntsb.gov</span><span class="citation-popover-snippet">Open source on ntsb.gov.</span></span></span>
 
 That official engineering finding matters because it separates tragedy from legend. Later writers and films made the bridge collapse central to the Mothman myth, sometimes treating the creature as a warning or omen. There is no official evidence that the sightings caused, predicted or explained the bridge failure. The reasonable historical view is that the collapse gave the Mothman story emotional force and lasting symbolic power, while the physical cause of the disaster belongs to bridge engineering, not UFO evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ntsb.gov/investigations/AccidentReports/Reports/HAR7101.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntsb.gov">[NTSB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntsb.gov</span><span class="citation-popover-snippet">Open source on ntsb.gov.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qnWR7A0Qiy8" title="How SETI Designed A Telescope To Look For Extraterrestrial Civilizations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qnWR7A0Qiy8" target="_blank" rel="noopener noreferrer">How SETI Designed A Telescope To Look For Extraterrestrial Civilizations</a></p><p class="youtube-embed-meta">Channel: Scott Manley &middot; Views: 234.6K &middot; Uploaded: October 2025 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qnWR7A0Qiy8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qnWR7A0Qiy8">Open on YouTube</a></p></div></div></div>
 
@@ -525,22 +521,19 @@ The Green Bank area is also protected by the National Radio [Quiet Zone]({{ 'qui
 
 For a reader, the key distinction is simple: SETI searches for distant signals using instruments and repeatable methods; UFO reports are usually eyewitness accounts of events in the sky. Both involve the question of whether humans are alone, but they are not the same kind of evidence. Green Bank strengthens West Virginia’s extraterrestrial-science relevance, while Flatwoods and Mothman belong mainly to witness history, folklore and contested interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.seti.org/research/seti-101/project-ozma/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seti.org">[SETI Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seti.org</span><span class="citation-popover-title">project ozma</span><span class="citation-popover-snippet">project ozma</span></span></span>
 
-
-<img src="{{ "/assets/images/West_Virginia_be1c72-Illustration-2-light.svg" | relative_url }}" alt="What Really Haunts West Virginia&#x27;s UFO Lore? illustration 2" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/West_Virginia_be1c72-Illustration-2-dark.svg" | relative_url }}" alt="What Really Haunts West Virginia&#x27;s UFO Lore? illustration 2" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the evidence can and cannot support
 
 West Virginia’s UFO record is strongest as a history of reporting, belief and local memory. The Flatwoods and Mothman cases have named witnesses, specific places, surviving press traditions, museums and later investigations. They are not merely internet legends invented after the fact. Their endurance is also visible in tourism and public culture: Point Pleasant has embraced Mothman through a museum and festival culture, while Braxton County has turned the Flatwoods Monster into a local emblem with a museum, public art and visitor attractions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mothmanmuseum.com/mothman-museum.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mothmanmuseum.com">[mothmanmuseum.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mothmanmuseum.com</span><span class="citation-popover-title">Mothman Museum</span><span class="citation-popover-snippet">Mothman Museum</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalism.wvu.edu/wv-today/wvtoday-story/2025/10/30/cryptid-craze-w-va-s-folklore-festivals-show-the-shift-from-marginal-to-mainstream" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalism.wvu.edu">[2journalism.wvu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalism.wvu.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The evidence is weaker when the claims become more extraordinary. A meteor plus aircraft beacons plus an owl is a plausible explanation for Flatwoods, even if it cannot reconstruct every witness impression. Owls, cranes or other large birds are plausible for some Mothman reports, especially where descriptions involve wings, glowing eyes and brief night-time encounters. But these explanations also have limits: witnesses did not all describe the same thing, and later retellings may have sharpened vague impressions into a more consistent monster image. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiptcomics.com/2019/01/16/history-channels-project-blue-book-the-real-story-of-the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiptcomics.com">[AIPT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiptcomics.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.audubon.org/magazine/mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[audubon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl? | Audubon</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl? | Audubon</span></span></span> Modern report databases add breadth but not necessarily strength. NUFORC-style records can show where and when people say they saw lights, discs, triangles or fireballs, yet most entries lack the kind of corroboration needed for a firm conclusion: radar data, multiple independent angles, recovered material, verified flight tracks or controlled photographic evidence. For West Virginia, as elsewhere, the useful question is not “How many reports exist?” but “Which reports have enough independent evidence to resist ordinary explanations?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+The evidence is weaker when the claims become more extraordinary. A meteor plus aircraft beacons plus an owl is a plausible explanation for Flatwoods, even if it cannot reconstruct every witness impression. Owls, cranes or other large birds are plausible for some Mothman reports, especially where descriptions involve wings, glowing eyes and brief night-time encounters. But these explanations also have limits: witnesses did not all describe the same thing, and later retellings may have sharpened vague impressions into a more consistent monster image. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiptcomics.com/2019/01/16/history-channels-project-blue-book-the-real-story-of-the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiptcomics.com">[AIPT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiptcomics.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.audubon.org/magazine/mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audubon.org">[audubon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audubon.org</span><span class="citation-popover-title">Is the Mothman of West Virginia an Owl? &#124; Audubon</span><span class="citation-popover-snippet">Is the Mothman of West Virginia an Owl? &#124; Audubon</span></span></span> Modern report databases add breadth but not necessarily strength. NUFORC-style records can show where and when people say they saw lights, discs, triangles or fireballs, yet most entries lack the kind of corroboration needed for a firm conclusion: radar data, multiple independent angles, recovered material, verified flight tracks or controlled photographic evidence. For West Virginia, as elsewhere, the useful question is not “How many reports exist?” but “Which reports have enough independent evidence to resist ordinary explanations?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-
-<img src="{{ "/assets/images/West_Virginia_be1c72-Illustration-3-light.svg" | relative_url }}" alt="What Really Haunts West Virginia&#x27;s UFO Lore? illustration 3" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/West_Virginia_be1c72-Illustration-3-dark.svg" | relative_url }}" alt="What Really Haunts West Virginia&#x27;s UFO Lore? illustration 3" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read West Virginia UFO stories fairly
 
 A balanced reading avoids two easy mistakes. The first is to treat every strange account as proof of alien activity. The second is to dismiss the witnesses as foolish because later explanations seem possible. Flatwoods and Mothman both involved people trying to describe frightening or unusual experiences in difficult viewing conditions, later filtered through newspapers, investigators, sceptics, local pride and popular entertainment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiptcomics.com/2019/01/16/history-channels-project-blue-book-the-real-story-of-the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiptcomics.com">[AIPT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiptcomics.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A useful credibility test for West Virginia cases asks four questions: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/flatwoods-monster-west-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">flatwoods monster west virginia</span><span class="citation-popover-snippet">flatwoods monster west virginia</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -553,9 +546,7 @@ A useful credibility test for West Virginia cases asks four questions: <span cla
 
 By those standards, West Virginia’s UFO history is important but mixed. Flatwoods is a landmark early-1950s case with plausible natural and misidentification explanations. Mothman is a powerful UFO-adjacent flap whose strongest documentary value lies in folklore, witness culture and the way a community processed fear before and after a real disaster. Green Bank is the state’s clearest connection to serious extraterrestrial research, though it belongs to astronomy rather than saucer lore. Together, these strands make West Virginia one of the most distinctive state-level UFO landscapes in the United States: not a place where the evidence proves visitors from elsewhere, but a place where sky mysteries became unusually vivid, local and lasting.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L2SrgXpyDok" title="We FACED the Mothman, Haunted Mansions &amp; UFO Sightings… and We REGRET It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L2SrgXpyDok" target="_blank" rel="noopener noreferrer">We FACED the Mothman, Haunted Mansions &amp; UFO Sightings… and We REGRET It</a></p><p class="youtube-embed-meta">Channel: BuzzFeed Unsolved Network &middot; Views: 168.1K &middot; Uploaded: February 2025 &middot; Length: 2 hours 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L2SrgXpyDok" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L2SrgXpyDok">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -643,7 +634,7 @@ By those standards, West Virginia’s UFO history is important but mixed. Flatwo
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -653,111 +644,36 @@ By those standards, West Virginia’s UFO history is important but mixed. Flatwo
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display"><img src="{{ '/assets/images/marketplace-covers/27c78e3de724e607809d.jpg' | relative_url }}" alt="Listing image for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT"><img src="{{ '/assets/images/marketplace-covers/c4fa2fd111d52b7bddcf.jpg' | relative_url }}" alt="Listing image for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -765,15 +681,15 @@ By those standards, West Virginia’s UFO history is important but mixed. Flatwo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/~C4AAOSwhchnoVIr/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -781,15 +697,15 @@ By those standards, West Virginia’s UFO history is important but mixed. Flatwo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW"><img src="https://i.ebayimg.com/images/g/2CYAAOSwbhVgJDbB/s-l225.jpg" alt="Listing image for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -797,15 +713,15 @@ By those standards, West Virginia’s UFO history is important but mixed. Flatwo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/ecc3da59eb1d0848e57f.jpg' | relative_url }}" alt="Listing image for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/pB8AAOSwX81mSmKS/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -813,7 +729,7 @@ By those standards, West Virginia’s UFO history is important but mixed. Flatwo
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginias-ufo-what-really-haunts-west-virginia-s-ufo-lore-west-virginia-ufo-memorabilia-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-haunts-west-virginia-s-ufo-lore-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -890,17 +806,31 @@ By those standards, West Virginia’s UFO history is important but mixed. Flatwo
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -913,42 +843,73 @@ By those standards, West Virginia’s UFO history is important but mixed. Flatwo
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -963,12 +924,17 @@ By those standards, West Virginia’s UFO history is important but mixed. Flatwo
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -979,281 +945,281 @@ By those standards, West Virginia’s UFO history is important but mixed. Flatwo
 1. <a id="endnote-1"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 3. <a id="endnote-3"></a>
    Source: seti.org  
    Title: project ozma  
-   Link: [https://www.seti.org/research/seti-101/project-ozma/](https://www.seti.org/research/seti-101/project-ozma/)  
+   Link: <a href="https://www.seti.org/research/seti-101/project-ozma/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/research/seti-101/project-ozma/</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports for State WV  
-   Link: [https://nuforc.org/subndx/?id=lWV](https://nuforc.org/subndx/?id=lWV)  
+   Link: <a href="https://nuforc.org/subndx/?id=lWV" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lWV</a>  
 
 5. <a id="endnote-5"></a>
    Source: stacker.com  
    Title: See How Many UFO Sightings Have Occurred in West Virginia | Stacker  
-   Link: [https://stacker.com/stories/west-virginia/see-how-many-ufo-sightings-have-occurred-west-virginia](https://stacker.com/stories/west-virginia/see-how-many-ufo-sightings-have-occurred-west-virginia)  
+   Link: <a href="https://stacker.com/stories/west-virginia/see-how-many-ufo-sightings-have-occurred-west-virginia" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/west-virginia/see-how-many-ufo-sightings-have-occurred-west-virginia</a>  
 
 6. <a id="endnote-6"></a>
    Source: wvexplorer.com  
    Title: Investigator: West Virginia ground-zero for UFO research, ET encounters  
-   Link: [https://wvexplorer.com/2025/10/03/west-virginia-ufo-seti-green-bank-flatwoods-mothman/](https://wvexplorer.com/2025/10/03/west-virginia-ufo-seti-green-bank-flatwoods-mothman/)  
+   Link: <a href="https://wvexplorer.com/2025/10/03/west-virginia-ufo-seti-green-bank-flatwoods-mothman/" target="_blank" rel="noopener noreferrer nofollow">https://wvexplorer.com/2025/10/03/west-virginia-ufo-seti-green-bank-flatwoods-mothman/</a>  
 
 7. <a id="endnote-7"></a>
    Source: aiptcomics.com  
-   Link: [https://aiptcomics.com/2019/01/16/history-channels-project-blue-book-the-real-story-of-the-flatwoods-monster/](https://aiptcomics.com/2019/01/16/history-channels-project-blue-book-the-real-story-of-the-flatwoods-monster/)  
+   Link: <a href="https://aiptcomics.com/2019/01/16/history-channels-project-blue-book-the-real-story-of-the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow">https://aiptcomics.com/2019/01/16/history-channels-project-blue-book-the-real-story-of-the-flatwoods-monster/</a>  
 
 8. <a id="endnote-8"></a>
    Source: journalism.wvu.edu  
-   Link: [https://journalism.wvu.edu/wv-today/wvtoday-story/2025/10/30/cryptid-craze-w-va-s-folklore-festivals-show-the-shift-from-marginal-to-mainstream](https://journalism.wvu.edu/wv-today/wvtoday-story/2025/10/30/cryptid-craze-w-va-s-folklore-festivals-show-the-shift-from-marginal-to-mainstream)  
+   Link: <a href="https://journalism.wvu.edu/wv-today/wvtoday-story/2025/10/30/cryptid-craze-w-va-s-folklore-festivals-show-the-shift-from-marginal-to-mainstream" target="_blank" rel="noopener noreferrer nofollow">https://journalism.wvu.edu/wv-today/wvtoday-story/2025/10/30/cryptid-craze-w-va-s-folklore-festivals-show-the-shift-from-marginal-to-mainstream</a>  
 
 9. <a id="endnote-9"></a>
    Source: mothmanmuseum.com  
    Title: Mothman Museum  
-   Link: [https://www.mothmanmuseum.com/mothman-museum.html](https://www.mothmanmuseum.com/mothman-museum.html)  
+   Link: <a href="https://www.mothmanmuseum.com/mothman-museum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mothmanmuseum.com/mothman-museum.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: audubon.org  
    Title: Is the Mothman of West Virginia an Owl? | Audubon  
-   Link: [https://www.audubon.org/magazine/mothman-west-virginia-owl](https://www.audubon.org/magazine/mothman-west-virginia-owl)  
+   Link: <a href="https://www.audubon.org/magazine/mothman-west-virginia-owl" target="_blank" rel="noopener noreferrer nofollow">https://www.audubon.org/magazine/mothman-west-virginia-owl</a>  
 
 11. <a id="endnote-11"></a>
    Source: ntsb.gov  
-   Link: [https://www.ntsb.gov/investigations/Pages/80267.aspx](https://www.ntsb.gov/investigations/Pages/80267.aspx)  
+   Link: <a href="https://www.ntsb.gov/investigations/Pages/80267.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/investigations/Pages/80267.aspx</a>  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=142723](https://nuforc.org/sighting/?id=142723)  
+   Link: <a href="https://nuforc.org/sighting/?id=142723" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=142723</a>  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=74308](https://nuforc.org/sighting/?id=74308)  
+   Link: <a href="https://nuforc.org/sighting/?id=74308" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=74308</a>  
 
 15. <a id="endnote-15"></a>
    Source: ntsb.gov  
-   Link: [https://www.ntsb.gov/investigations/AccidentReports/Reports/HAR7101.pdf](https://www.ntsb.gov/investigations/AccidentReports/Reports/HAR7101.pdf)  
+   Link: <a href="https://www.ntsb.gov/investigations/AccidentReports/Reports/HAR7101.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/investigations/AccidentReports/Reports/HAR7101.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: ntsb.gov  
-   Link: [https://www.ntsb.gov/investigations/AccidentReports/Reports/HAR0803.pdf](https://www.ntsb.gov/investigations/AccidentReports/Reports/HAR0803.pdf)  
+   Link: <a href="https://www.ntsb.gov/investigations/AccidentReports/Reports/HAR0803.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ntsb.gov/investigations/AccidentReports/Reports/HAR0803.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 18. <a id="endnote-18"></a>
    Source: wvexplorer.com  
-   Link: [https://wvexplorer.com/travel/communities/regions/national-radio-quiet-zone/](https://wvexplorer.com/travel/communities/regions/national-radio-quiet-zone/)  
+   Link: <a href="https://wvexplorer.com/travel/communities/regions/national-radio-quiet-zone/" target="_blank" rel="noopener noreferrer nofollow">https://wvexplorer.com/travel/communities/regions/national-radio-quiet-zone/</a>  
 
 19. <a id="endnote-19"></a>
    Source: astronomy.com  
    Title: april 8 1960 frank drake begins project ozma  
-   Link: [https://www.astronomy.com/today-in-the-history-of-astronomy/april-8-1960-frank-drake-begins-project-ozma/](https://www.astronomy.com/today-in-the-history-of-astronomy/april-8-1960-frank-drake-begins-project-ozma/)  
+   Link: <a href="https://www.astronomy.com/today-in-the-history-of-astronomy/april-8-1960-frank-drake-begins-project-ozma/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/today-in-the-history-of-astronomy/april-8-1960-frank-drake-begins-project-ozma/</a>  
 
 20. <a id="endnote-20"></a>
    Source: stacker.com  
    Title: cities most ufo sightings west virginia  
-   Link: [https://stacker.com/stories/west-virginia/cities-most-ufo-sightings-west-virginia](https://stacker.com/stories/west-virginia/cities-most-ufo-sightings-west-virginia)  
+   Link: <a href="https://stacker.com/stories/west-virginia/cities-most-ufo-sightings-west-virginia" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/west-virginia/cities-most-ufo-sightings-west-virginia</a>  
 
 21. <a id="endnote-21"></a>
    Source: history.com  
    Title: flatwoods monster west virginia  
-   Link: [https://www.history.com/articles/flatwoods-monster-west-virginia](https://www.history.com/articles/flatwoods-monster-west-virginia)  
+   Link: <a href="https://www.history.com/articles/flatwoods-monster-west-virginia" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/flatwoods-monster-west-virginia</a>  
 
 22. <a id="endnote-22"></a>
    Source: history.com  
    Title: project ozma launches search extraterrestrial life  
-   Link: [https://www.history.com/this-day-in-history/april-12/project-ozma-launches-search-extraterrestrial-life](https://www.history.com/this-day-in-history/april-12/project-ozma-launches-search-extraterrestrial-life)  
+   Link: <a href="https://www.history.com/this-day-in-history/april-12/project-ozma-launches-search-extraterrestrial-life" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/april-12/project-ozma-launches-search-extraterrestrial-life</a>  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: How SETI Designed A Telescope To Look For Extraterrestrial Civilizations  
-   Link: [https://www.youtube.com/watch?v=qnWR7A0Qiy8](https://www.youtube.com/watch?v=qnWR7A0Qiy8)  
+   Link: <a href="https://www.youtube.com/watch?v=qnWR7A0Qiy8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qnWR7A0Qiy8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Green Bank Observatory SETI Tours Takes Visitors Behind The Scenes, This West Virginia Morning...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=T5vvK2L1FL8](https://www.youtube.com/watch?v=T5vvK2L1FL8)  
+   Link: <a href="https://www.youtube.com/watch?v=T5vvK2L1FL8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T5vvK2L1FL8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This selection of videos highlights West Virginia&#x27;s notable historic encounters, covering both the Flatwoods Monster case and the Mothman...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: greenbankobservatory.org  
-   Link: [https://greenbankobservatory.org/about/national-radio-quiet-zone/](https://greenbankobservatory.org/about/national-radio-quiet-zone/)  
+   Link: <a href="https://greenbankobservatory.org/about/national-radio-quiet-zone/" target="_blank" rel="noopener noreferrer nofollow">https://greenbankobservatory.org/about/national-radio-quiet-zone/</a>  
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Flatwoods monster  
-   Link: [https://en.wikipedia.org/wiki/Flatwoods_monster](https://en.wikipedia.org/wiki/Flatwoods_monster)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flatwoods_monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flatwoods_monster</a>  
 
 27. <a id="endnote-27"></a>
    Source: greenbankobservatory.org  
    Title: green bank observatory mourns the loss of frank drake  
-   Link: [https://greenbankobservatory.org/front-page-news/green-bank-observatory-mourns-the-loss-of-frank-drake/](https://greenbankobservatory.org/front-page-news/green-bank-observatory-mourns-the-loss-of-frank-drake/)  
+   Link: <a href="https://greenbankobservatory.org/front-page-news/green-bank-observatory-mourns-the-loss-of-frank-drake/" target="_blank" rel="noopener noreferrer nofollow">https://greenbankobservatory.org/front-page-news/green-bank-observatory-mourns-the-loss-of-frank-drake/</a>  
 
 28. <a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 29. <a id="endnote-29"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Mothman](https://en.wikipedia.org/wiki/Mothman)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mothman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mothman</a>  
 
 30. <a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Silver Bridge  
-   Link: [https://en.wikipedia.org/wiki/Silver_Bridge](https://en.wikipedia.org/wiki/Silver_Bridge)  
+   Link: <a href="https://en.wikipedia.org/wiki/Silver_Bridge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Silver_Bridge</a>  
 
 31. <a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Project Ozma  
-   Link: [https://en.wikipedia.org/wiki/Project_Ozma](https://en.wikipedia.org/wiki/Project_Ozma)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Ozma" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Ozma</a>  
 
 32. <a id="endnote-32"></a>
    Source: lairofmythics.com  
    Title: flatwoods monster  
-   Link: [https://lairofmythics.com/blogs/cryptid-case-files/flatwoods-monster](https://lairofmythics.com/blogs/cryptid-case-files/flatwoods-monster)  
+   Link: <a href="https://lairofmythics.com/blogs/cryptid-case-files/flatwoods-monster" target="_blank" rel="noopener noreferrer nofollow">https://lairofmythics.com/blogs/cryptid-case-files/flatwoods-monster</a>  
 
 33. <a id="endnote-33"></a>
    Source: reddit.com  
    Title: Project Blue Book  
-   Link: [https://www.reddit.com/r/ProjectBlueBookTV/comments/ag2ldc/project_blue_book_episode_2_the_flatwoods_monster/](https://www.reddit.com/r/ProjectBlueBookTV/comments/ag2ldc/project_blue_book_episode_2_the_flatwoods_monster/)  
+   Link: <a href="https://www.reddit.com/r/ProjectBlueBookTV/comments/ag2ldc/project_blue_book_episode_2_the_flatwoods_monster/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ProjectBlueBookTV/comments/ag2ldc/project_blue_book_episode_2_the_flatwoods_monster/</a>  
 
 34. <a id="endnote-34"></a>
    Source: public.nrao.edu  
    Title: frank drake  
-   Link: [https://public.nrao.edu/gallery/frank-drake/](https://public.nrao.edu/gallery/frank-drake/)  
+   Link: <a href="https://public.nrao.edu/gallery/frank-drake/" target="_blank" rel="noopener noreferrer nofollow">https://public.nrao.edu/gallery/frank-drake/</a>  
 
 35. <a id="endnote-35"></a>
    Source: historyarchive.wordpress.com  
    Title: west virginia  
-   Link: [https://historyarchive.wordpress.com/tag/west-virginia/](https://historyarchive.wordpress.com/tag/west-virginia/)  
+   Link: <a href="https://historyarchive.wordpress.com/tag/west-virginia/" target="_blank" rel="noopener noreferrer nofollow">https://historyarchive.wordpress.com/tag/west-virginia/</a>  
 
 36. <a id="endnote-36"></a>
    Source: greenbankobservatory.org  
    Title: Green Bank Observatory  
-   Link: [https://greenbankobservatory.org/](https://greenbankobservatory.org/)  
+   Link: <a href="https://greenbankobservatory.org/" target="_blank" rel="noopener noreferrer nofollow">https://greenbankobservatory.org/</a>  
 
 37. <a id="endnote-37"></a>
    Source: greenbankobservatory.org  
    Title: ozma at 60  
-   Link: [https://greenbankobservatory.org/science/meetings-and-workshops/ozma-at-60/](https://greenbankobservatory.org/science/meetings-and-workshops/ozma-at-60/)  
+   Link: <a href="https://greenbankobservatory.org/science/meetings-and-workshops/ozma-at-60/" target="_blank" rel="noopener noreferrer nofollow">https://greenbankobservatory.org/science/meetings-and-workshops/ozma-at-60/</a>  
 
 38. <a id="endnote-38"></a>
    Source: greenbankobservatory.org  
    Title: seti tour  
-   Link: [https://greenbankobservatory.org/events/seti-tour/](https://greenbankobservatory.org/events/seti-tour/)  
+   Link: <a href="https://greenbankobservatory.org/events/seti-tour/" target="_blank" rel="noopener noreferrer nofollow">https://greenbankobservatory.org/events/seti-tour/</a>  
 
 39. <a id="endnote-39"></a>
    Source: greenbankobservatory.org  
-   Link: [https://greenbankobservatory.org/what-is-the-green-bank-observatory/](https://greenbankobservatory.org/what-is-the-green-bank-observatory/)  
+   Link: <a href="https://greenbankobservatory.org/what-is-the-green-bank-observatory/" target="_blank" rel="noopener noreferrer nofollow">https://greenbankobservatory.org/what-is-the-green-bank-observatory/</a>  
 
 40. <a id="endnote-40"></a>
    Source: wvpublic.org  
    Title: green bank observatory offers behind the scenes seti tours  
-   Link: [https://wvpublic.org/story/health-science/green-bank-observatory-offers-behind-the-scenes-seti-tours/](https://wvpublic.org/story/health-science/green-bank-observatory-offers-behind-the-scenes-seti-tours/)  
+   Link: <a href="https://wvpublic.org/story/health-science/green-bank-observatory-offers-behind-the-scenes-seti-tours/" target="_blank" rel="noopener noreferrer nofollow">https://wvpublic.org/story/health-science/green-bank-observatory-offers-behind-the-scenes-seti-tours/</a>  
 
 41. <a id="endnote-41"></a>
    Source: vocal.media  
    Title: The Flatwoods Monster | 01  
-   Link: [https://vocal.media/01/the-flatwoods-monster-m2snv0ojg](https://vocal.media/01/the-flatwoods-monster-m2snv0ojg)  
+   Link: <a href="https://vocal.media/01/the-flatwoods-monster-m2snv0ojg" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/01/the-flatwoods-monster-m2snv0ojg</a>  
 
 42. <a id="endnote-42"></a>
    Source: vocal.media  
    Title: The Flatwoods Monster | FYI  
-   Link: [https://vocal.media/fyi/the-flatwoods-monster](https://vocal.media/fyi/the-flatwoods-monster)  
+   Link: <a href="https://vocal.media/fyi/the-flatwoods-monster" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/fyi/the-flatwoods-monster</a>  
 
 43. <a id="endnote-43"></a>
    Source: britannica.com  
    Title: Extraterrestrial intelligence  
-   Link: [https://www.britannica.com/science/extraterrestrial-intelligence/Radio-searches](https://www.britannica.com/science/extraterrestrial-intelligence/Radio-searches)  
+   Link: <a href="https://www.britannica.com/science/extraterrestrial-intelligence/Radio-searches" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/extraterrestrial-intelligence/Radio-searches</a>  
 
 44. <a id="endnote-44"></a>
    Source: lindahall.org  
    Title: frank drake  
-   Link: [https://www.lindahall.org/about/news/scientist-of-the-day/frank-drake/](https://www.lindahall.org/about/news/scientist-of-the-day/frank-drake/)  
+   Link: <a href="https://www.lindahall.org/about/news/scientist-of-the-day/frank-drake/" target="_blank" rel="noopener noreferrer nofollow">https://www.lindahall.org/about/news/scientist-of-the-day/frank-drake/</a>  
 
 45. <a id="endnote-45"></a>
    Source: youtube.com  
    Title: Project Blue Book  
-   Link: [https://www.youtube.com/watch?v=_xyesq1k3Ns](https://www.youtube.com/watch?v=_xyesq1k3Ns)  
+   Link: <a href="https://www.youtube.com/watch?v=_xyesq1k3Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_xyesq1k3Ns</a>  
 
 46. <a id="endnote-46"></a>
    Source: ufospensacolabeach.com  
    Title: The Flatwoods Monster  
-   Link: [https://www.ufospensacolabeach.com/the-flatwoods-monster/](https://www.ufospensacolabeach.com/the-flatwoods-monster/)  
+   Link: <a href="https://www.ufospensacolabeach.com/the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufospensacolabeach.com/the-flatwoods-monster/</a>  
 
 47. <a id="endnote-47"></a>
    Source: aps.org  
    Title: green bank observatory radio silent  
-   Link: [https://www.aps.org/apsnews/2024/01/green-bank-observatory-radio-silent](https://www.aps.org/apsnews/2024/01/green-bank-observatory-radio-silent)  
+   Link: <a href="https://www.aps.org/apsnews/2024/01/green-bank-observatory-radio-silent" target="_blank" rel="noopener noreferrer nofollow">https://www.aps.org/apsnews/2024/01/green-bank-observatory-radio-silent</a>  
 
 48. <a id="endnote-48"></a>
    Source: wvencyclopedia.org  
-   Link: [https://www.wvencyclopedia.org/entries/1369](https://www.wvencyclopedia.org/entries/1369)  
+   Link: <a href="https://www.wvencyclopedia.org/entries/1369" target="_blank" rel="noopener noreferrer nofollow">https://www.wvencyclopedia.org/entries/1369</a>  
 
 49. <a id="endnote-49"></a>
    Source: beyondhaunted.com  
    Title: flatwoods monster  
-   Link: [https://beyondhaunted.com/blog/flatwoods-monster](https://beyondhaunted.com/blog/flatwoods-monster)  
+   Link: <a href="https://beyondhaunted.com/blog/flatwoods-monster" target="_blank" rel="noopener noreferrer nofollow">https://beyondhaunted.com/blog/flatwoods-monster</a>  
 
 ### Additional References
 
 50. <a id="endnote-50"></a>
    Source: youtube.com  
    Title: Mothman Mystery: Eyewitnesses, Fear and the Unexplained | Full Documentary  
-   Link: [https://www.youtube.com/watch?v=YlPPoMBWObw](https://www.youtube.com/watch?v=YlPPoMBWObw)  
+   Link: <a href="https://www.youtube.com/watch?v=YlPPoMBWObw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YlPPoMBWObw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We FACED the Mothman, Haunted Mansions &amp; UFO Sightings… and We REGRET It...</p></details>
 
 51. <a id="endnote-51"></a>
    Source: youtube.com  
    Title: We FACED the Mothman, Haunted Mansions & UFO Sightings… and We REGRET It  
-   Link: [https://www.youtube.com/watch?v=L2SrgXpyDok](https://www.youtube.com/watch?v=L2SrgXpyDok)  
+   Link: <a href="https://www.youtube.com/watch?v=L2SrgXpyDok" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L2SrgXpyDok</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How SETI Designed A Telescope To Look For Extraterrestrial Civilizations...</p></details>
 
 52. <a id="endnote-52"></a>
    Source: youtube.com  
    Title: The Most Puzzling UFO Case of the 20th Century | Monstrum  
-   Link: [https://www.youtube.com/watch?v=Pex7x4Z9htw](https://www.youtube.com/watch?v=Pex7x4Z9htw)  
+   Link: <a href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pex7x4Z9htw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman Mystery: Eyewitnesses, Fear and the Unexplained | Full Documentary...</p></details>
 
 53. <a id="endnote-53"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wboy12news/posts/a-new-analysis-places-west-virginia-among-the-states-where-abduction-style-ufo-r/1343143154514870/](https://www.facebook.com/wboy12news/posts/a-new-analysis-places-west-virginia-among-the-states-where-abduction-style-ufo-r/1343143154514870/)  
+   Link: <a href="https://www.facebook.com/wboy12news/posts/a-new-analysis-places-west-virginia-among-the-states-where-abduction-style-ufo-r/1343143154514870/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wboy12news/posts/a-new-analysis-places-west-virginia-among-the-states-where-abduction-style-ufo-r/1343143154514870/</a>  
 
 54. <a id="endnote-54"></a>
    Source: newengland.com  
-   Link: [https://newengland.com/yankee/history/ufo-sightings-alien-sightings/](https://newengland.com/yankee/history/ufo-sightings-alien-sightings/)  
+   Link: <a href="https://newengland.com/yankee/history/ufo-sightings-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://newengland.com/yankee/history/ufo-sightings-alien-sightings/</a>  
 
 55. <a id="endnote-55"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/](https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
 
 56. <a id="endnote-56"></a>
    Source: bigear.org  
-   Link: [https://www.bigear.org/CSMO/HTML/CS01/cs01p10.htm](https://www.bigear.org/CSMO/HTML/CS01/cs01p10.htm)  
+   Link: <a href="https://www.bigear.org/CSMO/HTML/CS01/cs01p10.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bigear.org/CSMO/HTML/CS01/cs01p10.htm</a>  
 
 57. <a id="endnote-57"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Starlink/comments/171bq1a/good_news_for_greenbanknational_radio_quiet_zone/](https://www.reddit.com/r/Starlink/comments/171bq1a/good_news_for_greenbanknational_radio_quiet_zone/)  
+   Link: <a href="https://www.reddit.com/r/Starlink/comments/171bq1a/good_news_for_greenbanknational_radio_quiet_zone/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/171bq1a/good_news_for_greenbanknational_radio_quiet_zone/</a>  
 
 58. <a id="endnote-58"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1oeehoa/has_the_flatwoods_monster_been_debunked/](https://www.reddit.com/r/aliens/comments/1oeehoa/has_the_flatwoods_monster_been_debunked/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1oeehoa/has_the_flatwoods_monster_been_debunked/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1oeehoa/has_the_flatwoods_monster_been_debunked/</a>  
 
 59. <a id="endnote-59"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NOVApbs/posts/hear-a-first-hand-account-of-the-collapse-of-west-virginias-silver-bridge-a-cata/1349930777181303/](https://www.facebook.com/NOVApbs/posts/hear-a-first-hand-account-of-the-collapse-of-west-virginias-silver-bridge-a-cata/1349930777181303/)  
+   Link: <a href="https://www.facebook.com/NOVApbs/posts/hear-a-first-hand-account-of-the-collapse-of-west-virginias-silver-bridge-a-cata/1349930777181303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOVApbs/posts/hear-a-first-hand-account-of-the-collapse-of-west-virginias-silver-bridge-a-cata/1349930777181303/</a>

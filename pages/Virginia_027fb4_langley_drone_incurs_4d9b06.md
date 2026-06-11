@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-over-virginia/
 nav_short_title: Langley Drones
 title: When Unidentified Means a Real Security Problem
-title_full: When Unidentified Means a Real Security Problem | Virginia UFOs
+title_full: When Unidentified Means a Real Security Problem
 display_title_short: Langley Drones
 display_title: Langley Drones
 heading_title: When Unidentified Means a Real Security Problem
@@ -262,8 +262,7 @@ image: /assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06-overview-socia
 
 ## Introduction
 
-In December 2023, Langley Air Force Base in Hampton, [Virginia]({{ 'what-really-happened-over-virginia/' | relative_url }}), experienced repeated incursions by unauthorised unmanned aerial systems, or drones. The case matters in Virginia’s UFO history because it shows a modern version of the old “unidentified object” problem: the objects were unidentified, the airspace was sensitive, and the incident was serious, but the strongest public evidence points to a base-security and counter-drone problem rather than an exotic one. Pentagon officials later confirmed the incursions, said the number of drones varied, and stated that they did not appear to show hostile intent, while still treating them as a safety and security concern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Dec/05/2003599149/-1/-1/0/FACT-SHEET-STRATEGY-FOR-COUNTERING-UNMANNED-SYSTEMS.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War Fact Sheet: Do D Strategy for Countering Unmanned Systems</span><span class="citation-popover-snippet">U.S. Department of War Fact Sheet: Do D Strategy for Countering Unmanned Systems</span></span></span>(#endnote-1 "Endnote 1")
-
+In December 2023, Langley Air Force Base in Hampton, Virginia, experienced repeated incursions by unauthorised unmanned aerial systems, or drones. The case matters in Virginia’s UFO history because it shows a modern version of the old “unidentified object” problem: the objects were unidentified, the airspace was sensitive, and the incident was serious, but the strongest public evidence points to a base-security and counter-drone problem rather than an exotic one. Pentagon officials later confirmed the incursions, said the number of drones varied, and stated that they did not appear to show hostile intent, while still treating them as a safety and security concern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Dec/05/2003599149/-1/-1/0/FACT-SHEET-STRATEGY-FOR-COUNTERING-UNMANNED-SYSTEMS.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War Fact Sheet: Do D Strategy for Countering Unmanned Systems</span><span class="citation-popover-snippet">U.S. Department of War Fact Sheet: Do D Strategy for Countering Unmanned Systems</span></span></span>(#endnote-1 "Endnote 1")
 
 <img src="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06-overview.webp" | relative_url }}" alt="Overview image for Langley Drones" loading="eager" decoding="sync" fetchpriority="high">
 Langley is not just another airport. It is part of Joint Base Langley-Eustis, one of Virginia’s most important military sites, and the 1st Fighter Wing there operates a major share of the US Air Force’s F-22 Raptor inventory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jble.af.mil/About-Us/Units/Langley-AFB/1st-Fighter-Wing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jble.af.mil">[JB Lewis-McChord]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jble.af.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That is why the incident sits at the intersection of UFO reporting, drone technology, restricted airspace, aviation safety and homeland defence.
@@ -278,8 +277,7 @@ The reported characteristics were unusual enough to attract national attention w
 
 The response also appears to have been more than routine. *The War Zone* reported that the incursions were troubling and persistent enough to bring in advanced assets from around the US government, including a NASA WB-57F high-altitude research aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drones swarmed langley afb for weeks</span><span class="citation-popover-snippet">mysterious drones swarmed langley afb for weeks</span></span></span> *Task & Purpose* reported that the FBI, Defence Department officials and personnel from the All-domain Anomaly Resolution Office, the Pentagon office associated with unidentified-object cases, took part in meetings about the incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://taskandpurpose.com/news/mystery-drones-langley-afb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taskandpurpose.com">[Task &amp; Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taskandpurpose.com</span><span class="citation-popover-title">mystery drones langley afb</span><span class="citation-popover-snippet">mystery drones langley afb</span></span></span> That does not mean the drones were “UFOs” in the alien sense. It means the origin, operators and full purpose had not been publicly resolved.
 
-
-<img src="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06-Illustration-1-light.svg" | relative_url }}" alt="Langley Drones illustration 1" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06-Illustration-1-dark.svg" | relative_url }}" alt="Langley Drones illustration 1" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this became a Virginia UFO case
 
 Langley belongs in Virginia’s UFO history because the case has the same core ingredients that have long driven serious UFO files: repeated sightings, restricted airspace, military witnesses, incomplete identification and official concern. The difference is that the modern label is often “UAS incursion” rather than “flying saucer” or “UAP”.
@@ -299,7 +297,6 @@ Langley illustrates that problem because the objects were reportedly variable. P
 Drone detection also has limits. Small unmanned aircraft can fly low, exploit gaps in radar coverage, operate close to cluttered urban or coastal environments, or blend into ordinary air traffic when seen from the ground. The FAA’s UAS Facility Maps exist because routine drone operations near controlled airports require altitude and airspace authorisation decisions; they show how much drone management depends on matching a specific aircraft, location, altitude and operator to the surrounding airspace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/uas/commercial_operators/uas_facility_maps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">uas facility maps</span><span class="citation-popover-snippet">uas facility maps</span></span></span> When the operator is unknown and the aircraft is near a military installation, the problem becomes much harder.
 
 This is also why Langley should not be read like a classic single-witness UFO sighting. The case is less about one dramatic object and more about repeated airspace management failure: objects were seen, the operator was not publicly identified, and the response had to balance detection, attribution, aviation safety, law enforcement and military security. That is a very different kind of mystery from a fleeting light over a rural road.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d_aIqISaVKo" title="Drone swarms inside the U.S. could be spying — and the ability to detect, track them is lagging" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d_aIqISaVKo" target="_blank" rel="noopener noreferrer">Drone swarms inside the U.S. could be spying — and the ability to detect, track them is lagging</a></p><p class="youtube-embed-meta">Channel: 60 Minutes &middot; Views: 1.3M &middot; Uploaded: March 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d_aIqISaVKo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d_aIqISaVKo">Open on YouTube</a></p></div></div></div>
 
@@ -329,8 +326,7 @@ FOIA-based reporting adds another layer, but it should be weighed with caution. 
 
 The evidence is therefore strong for an unresolved drone-security incident and weak for anything beyond that. No public source has shown recovered hardware, a named operator, a definitive flight path, a full sensor package, or a conclusive technical analysis proving advanced foreign systems, domestic hobbyists, contractors, misidentifications or anything more exotic.
 
-
-<img src="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06-Illustration-2-light.svg" | relative_url }}" alt="Langley Drones illustration 2" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06-Illustration-2-dark.svg" | relative_url }}" alt="Langley Drones illustration 2" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What remains doubtful or unresolved
 
 The biggest unresolved question is attribution: who operated the drones, and why? Public reporting has raised possibilities such as foreign surveillance, domestic operators, testing, contractors, hobbyists or mixed explanations, but no publicly available evidence has settled the question. Defence officials have been cautious, saying the systems did not appear to show hostile intent while still acknowledging that unauthorised objects in restricted airspace are a threat to safety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Dec/05/2003599149/-1/-1/0/FACT-SHEET-STRATEGY-FOR-COUNTERING-UNMANNED-SYSTEMS.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War Fact Sheet: Do D Strategy for Countering Unmanned Systems</span><span class="citation-popover-snippet">U.S. Department of War Fact Sheet: Do D Strategy for Countering Unmanned Systems</span></span></span>(#endnote-1 "Endnote 1")
@@ -341,7 +337,6 @@ There is also the “drone” label itself. In official usage, UAS means an unma
 
 Finally, there is a transparency problem. Military bases have legitimate reasons not to reveal sensors, response tactics or vulnerabilities. But that same secrecy leaves local residents and UFO researchers with a partial picture. Langley’s case is therefore likely to remain “unresolved” in public memory even if classified or law-enforcement channels know more than has been released.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g2cykxcaBJ8" title="Mystery drones did not exhibit hostile intent: Pentagon | Morning in America" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g2cykxcaBJ8" target="_blank" rel="noopener noreferrer">Mystery drones did not exhibit hostile intent: Pentagon | Morning in America</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 53.2K &middot; Uploaded: October 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g2cykxcaBJ8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g2cykxcaBJ8">Open on YouTube</a></p></div></div></div>
 
 ## How later reporting changed the story
@@ -351,7 +346,6 @@ The story did not stay confined to December 2023. It became more important after
 By late 2024 and 2025, the Langley case was being discussed alongside drone activity near other US or allied military sites. That comparison can be useful, but it can also mislead. Incidents in New Jersey, the UK, California or Nevada may involve different operators, different aircraft, different legal frameworks and different degrees of public confusion. The relevant takeaway for Virginia is narrower: Langley showed that a major US base could face repeated unauthorised drone activity and still struggle, at least publicly, with attribution and response.
 
 The Defence Department’s December 2024 counter-unmanned-systems strategy strengthened that interpretation. Its unclassified fact sheet does not solve Langley, but it makes clear that the Pentagon sees unmanned systems as a broad and growing challenge to installations, assets and forces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Dec/05/2003599149/-1/-1/0/FACT-SHEET-STRATEGY-FOR-COUNTERING-UNMANNED-SYSTEMS.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War Fact Sheet: Do D Strategy for Countering Unmanned Systems</span><span class="citation-popover-snippet">U.S. Department of War Fact Sheet: Do D Strategy for Countering Unmanned Systems</span></span></span>(#endnote-1 "Endnote 1") In hindsight, Langley looks less like an isolated oddity and more like an early, highly visible example of a problem the military is still trying to govern.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LQe1LxRvdnA" title="Pentagon confirms unidentified drones flew over Langley Air Force Base" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LQe1LxRvdnA" target="_blank" rel="noopener noreferrer">Pentagon confirms unidentified drones flew over Langley Air Force Base</a></p><p class="youtube-embed-meta">Channel: 13News Now &middot; Views: 47.8K &middot; Uploaded: October 2024 &middot; Length: 1 minute 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LQe1LxRvdnA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LQe1LxRvdnA">Open on YouTube</a></p></div></div></div>
 
@@ -369,8 +363,7 @@ The case also helps separate three categories that are often blurred:
 
 For Virginia, this makes Langley a bridge between classic UFO lore and modern UAP governance. It sits naturally beside other state-level aviation cases, military-linked reports and coastal sightings, but its lesson is distinct: the future of “UFO” reporting may involve drones, data gaps, legal authorities and base defence as much as strange lights and eyewitness mystery.
 
-
-<img src="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06-Illustration-3-light.svg" | relative_url }}" alt="Langley Drones illustration 3" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06-Illustration-3-dark.svg" | relative_url }}" alt="Langley Drones illustration 3" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_langley_drone_incurs_4d9b06-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -794,155 +787,155 @@ For Virginia, this makes Langley a bridge between classic UFO lore and modern UA
 1. <a id="endnote-1"></a>
    Source: war.gov  
    Title: deputy pentagon press secretary sabrina singh holds a press briefing  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3936130/deputy-pentagon-press-secretary-sabrina-singh-holds-a-press-briefing/](https://www.war.gov/News/Transcripts/Transcript/Article/3936130/deputy-pentagon-press-secretary-sabrina-singh-holds-a-press-briefing/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3936130/deputy-pentagon-press-secretary-sabrina-singh-holds-a-press-briefing/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3936130/deputy-pentagon-press-secretary-sabrina-singh-holds-a-press-briefing/</a>  
 
 2. <a id="endnote-2"></a>
    Source: whro.org  
    Title: the pentagon confirmed a swarm of drones violated langley airspace  
-   Link: [https://www.whro.org/military-veterans/2024-10-15/the-pentagon-confirmed-a-swarm-of-drones-violated-langley-airspace](https://www.whro.org/military-veterans/2024-10-15/the-pentagon-confirmed-a-swarm-of-drones-violated-langley-airspace)  
+   Link: <a href="https://www.whro.org/military-veterans/2024-10-15/the-pentagon-confirmed-a-swarm-of-drones-violated-langley-airspace" target="_blank" rel="noopener noreferrer nofollow">https://www.whro.org/military-veterans/2024-10-15/the-pentagon-confirmed-a-swarm-of-drones-violated-langley-airspace</a>  
 
 3. <a id="endnote-3"></a>
    Source: faa.gov  
    Title: uas facility maps  
-   Link: [https://www.faa.gov/uas/commercial_operators/uas_facility_maps](https://www.faa.gov/uas/commercial_operators/uas_facility_maps)  
+   Link: <a href="https://www.faa.gov/uas/commercial_operators/uas_facility_maps" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/commercial_operators/uas_facility_maps</a>  
 
 4. <a id="endnote-4"></a>
    Source: wired.com  
    Title: Why the US Military Can't Just Shoot Down the Mystery Drones  
-   Link: [https://www.wired.com/story/us-military-mystery-drones-response](https://www.wired.com/story/us-military-mystery-drones-response)  
+   Link: <a href="https://www.wired.com/story/us-military-mystery-drones-response" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/us-military-mystery-drones-response</a>  
 
 5. <a id="endnote-5"></a>
    Source: war.gov  
    Title: dod announces strategy for countering unmanned systems  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3986597/dod-announces-strategy-for-countering-unmanned-systems/](https://www.war.gov/News/Releases/Release/Article/3986597/dod-announces-strategy-for-countering-unmanned-systems/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3986597/dod-announces-strategy-for-countering-unmanned-systems/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3986597/dod-announces-strategy-for-countering-unmanned-systems/</a>  
 
 6. <a id="endnote-6"></a>
    Source: liberationtimes.com  
-   Link: [https://www.liberationtimes.com/home/witness-statements-reveal-alarming-drone-incursions-over-langley-air-force-base-as-dronebusters-failed-to-intercept-objects](https://www.liberationtimes.com/home/witness-statements-reveal-alarming-drone-incursions-over-langley-air-force-base-as-dronebusters-failed-to-intercept-objects)  
+   Link: <a href="https://www.liberationtimes.com/home/witness-statements-reveal-alarming-drone-incursions-over-langley-air-force-base-as-dronebusters-failed-to-intercept-objects" target="_blank" rel="noopener noreferrer nofollow">https://www.liberationtimes.com/home/witness-statements-reveal-alarming-drone-incursions-over-langley-air-force-base-as-dronebusters-failed-to-intercept-objects</a>  
 
 7. <a id="endnote-7"></a>
    Source: liberationtimes.com  
-   Link: [https://www.liberationtimes.com/home/f-22-near-miss-with-unidentified-object-outside-langley-afb-drone-incursions-extended-beyond-december-2023-as-questions-are-raised-about-usaf-transparency](https://www.liberationtimes.com/home/f-22-near-miss-with-unidentified-object-outside-langley-afb-drone-incursions-extended-beyond-december-2023-as-questions-are-raised-about-usaf-transparency)  
+   Link: <a href="https://www.liberationtimes.com/home/f-22-near-miss-with-unidentified-object-outside-langley-afb-drone-incursions-extended-beyond-december-2023-as-questions-are-raised-about-usaf-transparency" target="_blank" rel="noopener noreferrer nofollow">https://www.liberationtimes.com/home/f-22-near-miss-with-unidentified-object-outside-langley-afb-drone-incursions-extended-beyond-december-2023-as-questions-are-raised-about-usaf-transparency</a>  
    Published: december 2023  
 
 8. <a id="endnote-8"></a>
    Source: adip.faa.gov  
-   Link: [https://adip.faa.gov/agis/public/](https://adip.faa.gov/agis/public/)  
+   Link: <a href="https://adip.faa.gov/agis/public/" target="_blank" rel="noopener noreferrer nofollow">https://adip.faa.gov/agis/public/</a>  
 
 9. <a id="endnote-9"></a>
    Source: faa.gov  
    Title: UAS Detection Mitigation Systems ARC Final Report 02052024  
-   Link: [https://www.faa.gov/regulations_policies/rulemaking/committees/documents/media/UAS-Detection-Mitigation-Systems-ARC_Final-Report_02052024.pdf](https://www.faa.gov/regulations_policies/rulemaking/committees/documents/media/UAS-Detection-Mitigation-Systems-ARC_Final-Report_02052024.pdf)  
+   Link: <a href="https://www.faa.gov/regulations_policies/rulemaking/committees/documents/media/UAS-Detection-Mitigation-Systems-ARC_Final-Report_02052024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/rulemaking/committees/documents/media/UAS-Detection-Mitigation-Systems-ARC_Final-Report_02052024.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: war.gov  
    Title: reports of drone incursions taken seriously dod spokesman says  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/4008836/reports-of-drone-incursions-taken-seriously-dod-spokesman-says/](https://www.war.gov/News/News-Stories/Article/Article/4008836/reports-of-drone-incursions-taken-seriously-dod-spokesman-says/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/4008836/reports-of-drone-incursions-taken-seriously-dod-spokesman-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/4008836/reports-of-drone-incursions-taken-seriously-dod-spokesman-says/</a>  
 
 11. <a id="endnote-11"></a>
    Source: whro.org  
    Title: the military is updating the way it handles drones flying over us bases  
-   Link: [https://www.whro.org/military-veterans/2025-05-01/the-military-is-updating-the-way-it-handles-drones-flying-over-us-bases](https://www.whro.org/military-veterans/2025-05-01/the-military-is-updating-the-way-it-handles-drones-flying-over-us-bases)  
+   Link: <a href="https://www.whro.org/military-veterans/2025-05-01/the-military-is-updating-the-way-it-handles-drones-flying-over-us-bases" target="_blank" rel="noopener noreferrer nofollow">https://www.whro.org/military-veterans/2025-05-01/the-military-is-updating-the-way-it-handles-drones-flying-over-us-bases</a>  
 
 12. <a id="endnote-12"></a>
    Source: whro.org  
-   Link: [https://www.whro.org/military-veterans/2026-05-14/the-f-22s-transition-to-joint-base-langley-eustis-is-nearly-complete-with-the-opening-of-a-new-hangar](https://www.whro.org/military-veterans/2026-05-14/the-f-22s-transition-to-joint-base-langley-eustis-is-nearly-complete-with-the-opening-of-a-new-hangar)  
+   Link: <a href="https://www.whro.org/military-veterans/2026-05-14/the-f-22s-transition-to-joint-base-langley-eustis-is-nearly-complete-with-the-opening-of-a-new-hangar" target="_blank" rel="noopener noreferrer nofollow">https://www.whro.org/military-veterans/2026-05-14/the-f-22s-transition-to-joint-base-langley-eustis-is-nearly-complete-with-the-opening-of-a-new-hangar</a>  
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=d_aIqISaVKo](https://www.youtube.com/watch?v=d_aIqISaVKo)  
+   Link: <a href="https://www.youtube.com/watch?v=d_aIqISaVKo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d_aIqISaVKo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS News...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: jble.af.mil  
-   Link: [https://www.jble.af.mil/About-Us/Units/Langley-AFB/1st-Fighter-Wing/](https://www.jble.af.mil/About-Us/Units/Langley-AFB/1st-Fighter-Wing/)  
+   Link: <a href="https://www.jble.af.mil/About-Us/Units/Langley-AFB/1st-Fighter-Wing/" target="_blank" rel="noopener noreferrer nofollow">https://www.jble.af.mil/About-Us/Units/Langley-AFB/1st-Fighter-Wing/</a>  
 
 15. <a id="endnote-15"></a>
    Source: jble.af.mil  
-   Link: [https://www.jble.af.mil/About-Us/Fact-Sheets/show/Article/257723/f-22-raptor/](https://www.jble.af.mil/About-Us/Fact-Sheets/show/Article/257723/f-22-raptor/)  
+   Link: <a href="https://www.jble.af.mil/About-Us/Fact-Sheets/show/Article/257723/f-22-raptor/" target="_blank" rel="noopener noreferrer nofollow">https://www.jble.af.mil/About-Us/Fact-Sheets/show/Article/257723/f-22-raptor/</a>  
 
 16. <a id="endnote-16"></a>
    Source: twz.com  
    Title: mysterious drones swarmed langley afb for weeks  
-   Link: [https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks](https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks)  
+   Link: <a href="https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks</a>  
 
 17. <a id="endnote-17"></a>
    Source: taskandpurpose.com  
    Title: mystery drones langley afb  
-   Link: [https://taskandpurpose.com/news/mystery-drones-langley-afb/](https://taskandpurpose.com/news/mystery-drones-langley-afb/)  
+   Link: <a href="https://taskandpurpose.com/news/mystery-drones-langley-afb/" target="_blank" rel="noopener noreferrer nofollow">https://taskandpurpose.com/news/mystery-drones-langley-afb/</a>  
 
 18. <a id="endnote-18"></a>
    Source: twz.com  
    Title: heres what norads commander just told us about the langley afb drone incursions  
-   Link: [https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions](https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions)  
+   Link: <a href="https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions</a>  
 
 19. <a id="endnote-19"></a>
    Source: cbsnews.com  
    Title: CBS News How the U.S. is confronting the threat posed by drones  
-   Link: [https://www.cbsnews.com/news/drone-swarms-national-security-60-minutes-transcript-2025-06-29/](https://www.cbsnews.com/news/drone-swarms-national-security-60-minutes-transcript-2025-06-29/)  
+   Link: <a href="https://www.cbsnews.com/news/drone-swarms-national-security-60-minutes-transcript-2025-06-29/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/drone-swarms-national-security-60-minutes-transcript-2025-06-29/</a>  
 
 20. <a id="endnote-20"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War Fact Sheet: Do D Strategy for Countering Unmanned Systems  
-   Link: [https://media.defense.gov/2024/Dec/05/2003599149/-1/-1/0/FACT-SHEET-STRATEGY-FOR-COUNTERING-UNMANNED-SYSTEMS.PDF](https://media.defense.gov/2024/Dec/05/2003599149/-1/-1/0/FACT-SHEET-STRATEGY-FOR-COUNTERING-UNMANNED-SYSTEMS.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Dec/05/2003599149/-1/-1/0/FACT-SHEET-STRATEGY-FOR-COUNTERING-UNMANNED-SYSTEMS.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Dec/05/2003599149/-1/-1/0/FACT-SHEET-STRATEGY-FOR-COUNTERING-UNMANNED-SYSTEMS.PDF</a>  
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Langley Air Force Base  
-   Link: [https://en.wikipedia.org/wiki/Langley_Air_Force_Base](https://en.wikipedia.org/wiki/Langley_Air_Force_Base)  
+   Link: <a href="https://en.wikipedia.org/wiki/Langley_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Langley_Air_Force_Base</a>  
 
 22. <a id="endnote-22"></a>
    Source: cbsnews.com  
    Title: drone swarms national security 60 minutes transcript  
-   Link: [https://www.cbsnews.com/news/drone-swarms-national-security-60-minutes-transcript/](https://www.cbsnews.com/news/drone-swarms-national-security-60-minutes-transcript/)  
+   Link: <a href="https://www.cbsnews.com/news/drone-swarms-national-security-60-minutes-transcript/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/drone-swarms-national-security-60-minutes-transcript/</a>  
 
 23. <a id="endnote-23"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/887460/f-22s-relocate-jble](https://www.dvidshub.net/video/887460/f-22s-relocate-jble)  
+   Link: <a href="https://www.dvidshub.net/video/887460/f-22s-relocate-jble" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/887460/f-22s-relocate-jble</a>  
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Pentagon confirms unidentified drones flew over Langley Air Force Base  
-   Link: [https://www.youtube.com/watch?v=LQe1LxRvdnA](https://www.youtube.com/watch?v=LQe1LxRvdnA)  
+   Link: <a href="https://www.youtube.com/watch?v=LQe1LxRvdnA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LQe1LxRvdnA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon confirms drones flew in restricted air space over Langley Air Force base...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: langleyok.gov  
-   Link: [https://www.langleyok.gov/](https://www.langleyok.gov/)  
+   Link: <a href="https://www.langleyok.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.langleyok.gov/</a>  
 
 26. <a id="endnote-26"></a>
    Source: oversight.house.gov  
-   Link: [https://oversight.house.gov/release/timmons-opens-hearing-on-addressing-unauthorized-drone-activity-over-military-installations/](https://oversight.house.gov/release/timmons-opens-hearing-on-addressing-unauthorized-drone-activity-over-military-installations/)  
+   Link: <a href="https://oversight.house.gov/release/timmons-opens-hearing-on-addressing-unauthorized-drone-activity-over-military-installations/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/timmons-opens-hearing-on-addressing-unauthorized-drone-activity-over-military-installations/</a>  
 
 27. <a id="endnote-27"></a>
    Source: dhs.gov  
    Title: feature article st continues counter unmanned aerial system technologies testing  
-   Link: [https://www.dhs.gov/science-and-technology/news/2024/10/24/feature-article-st-continues-counter-unmanned-aerial-system-technologies-testing](https://www.dhs.gov/science-and-technology/news/2024/10/24/feature-article-st-continues-counter-unmanned-aerial-system-technologies-testing)  
+   Link: <a href="https://www.dhs.gov/science-and-technology/news/2024/10/24/feature-article-st-continues-counter-unmanned-aerial-system-technologies-testing" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/science-and-technology/news/2024/10/24/feature-article-st-continues-counter-unmanned-aerial-system-technologies-testing</a>  
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Drones Swarm Langley AFB?  
-   Link: [https://www.youtube.com/watch?v=nJ4IhbPVWrI](https://www.youtube.com/watch?v=nJ4IhbPVWrI)  
+   Link: <a href="https://www.youtube.com/watch?v=nJ4IhbPVWrI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nJ4IhbPVWrI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone swarms inside the U.S. could be spying — and the ability to detect, track them is lagging...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/anews/posts/us-officials-detected-unidentified-drones-above-an-army-base-in-washington-where/1339451348214615/](https://www.facebook.com/anews/posts/us-officials-detected-unidentified-drones-above-an-army-base-in-washington-where/1339451348214615/)  
+   Link: <a href="https://www.facebook.com/anews/posts/us-officials-detected-unidentified-drones-above-an-army-base-in-washington-where/1339451348214615/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/anews/posts/us-officials-detected-unidentified-drones-above-an-army-base-in-washington-where/1339451348214615/</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ForcesTV/posts/187-drones-10-months-one-growing-threat-the-ministry-of-defence-says-drones-are-/875963141756368/](https://www.facebook.com/ForcesTV/posts/187-drones-10-months-one-growing-threat-the-ministry-of-defence-says-drones-are-/875963141756368/)  
+   Link: <a href="https://www.facebook.com/ForcesTV/posts/187-drones-10-months-one-growing-threat-the-ministry-of-defence-says-drones-are-/875963141756368/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ForcesTV/posts/187-drones-10-months-one-growing-threat-the-ministry-of-defence-says-drones-are-/875963141756368/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ABCNews/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-united-states-air-/1358320519488158/](https://www.facebook.com/ABCNews/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-united-states-air-/1358320519488158/)  
+   Link: <a href="https://www.facebook.com/ABCNews/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-united-states-air-/1358320519488158/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-united-states-air-/1358320519488158/</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/a-fleet-of-objects-was-spotted-over-langley-air-force-base-in-december-of-2023-i/561432642930424/](https://www.facebook.com/NewsNationNow/posts/a-fleet-of-objects-was-spotted-over-langley-air-force-base-in-december-of-2023-i/561432642930424/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-fleet-of-objects-was-spotted-over-langley-air-force-base-in-december-of-2023-i/561432642930424/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-fleet-of-objects-was-spotted-over-langley-air-force-base-in-december-of-2023-i/561432642930424/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/air-force-officials-have-confirmed-several-drones-flew-over-langley-air-force-ba/561616736245348/](https://www.facebook.com/NewsNationNow/posts/air-force-officials-have-confirmed-several-drones-flew-over-langley-air-force-ba/561616736245348/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/air-force-officials-have-confirmed-several-drones-flew-over-langley-air-force-ba/561616736245348/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/air-force-officials-have-confirmed-several-drones-flew-over-langley-air-force-ba/561616736245348/</a>

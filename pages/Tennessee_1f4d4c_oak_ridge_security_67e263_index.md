@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /tennessee-1f4d4c-oak-ridge-security/
 description: Focused pages that expand on Oak Ridge.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Tennessee_1f4d4c_oak_ridge_security_67e263
-parent_title: Oak Ridge | What Keeps Tennessee's UFO Stories Alive?
+parent_title: Oak Ridge
 parent_nav_short_title: Oak Ridge
 parent_permalink: /oak-ridge/
 ---

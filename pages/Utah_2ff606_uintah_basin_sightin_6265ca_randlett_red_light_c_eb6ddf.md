@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /uintah-basin/
 nav_short_title: Randlett Case
 title: What did the Randlett children really see?
-title_full: What did the Randlett children really see? | Uintah Basin
+title_full: What did the Randlett children really see?
 display_title_short: Randlett Case
 display_title: Randlett Case
 heading_title: What did the Randlett children really see?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:20:13'
-parent_title: Why Did the Uintah Basin Become a UFO Hotspot? | Utah UFOs
+parent_title: Why Did the Uintah Basin Become a UFO Hotspot?
 parent_permalink: /uintah-basin/
 parent_nav_short_title: Uintah Basin
 parent_heading_title: Why Did the Uintah Basin Become a UFO Hotspot?
@@ -250,20 +250,18 @@ image: /assets/images/Utah_2ff606_uintah_basin_sightin_6265ca_randlett_red_light
 
 ## Introduction
 
-The 1966 Randlett case is one of the most frequently repeated stories from the [Uintah Basin]({{ 'uintah-basin/' | relative_url }}) UFO files collected by schoolteacher and local investigator Joseph “Junior” Hicks. It stands out because the witnesses were children, because the reported object was described in unusually vivid detail, and because the account included more than a distant light in the sky. According to later retellings, the children reported a bright red light, a humming sound and an object positioned above or near their home. Yet the same features that make the story memorable also expose a central problem running through much of the Uintah Basin record: detailed testimony does not automatically produce reliable measurements, clear identification or scientific certainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Ebooks2GoUtah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
+The 1966 Randlett case is one of the most frequently repeated stories from the [Uintah Basin]({{ 'uintah-basin/' | relative_url }}) UFO files collected by schoolteacher and local investigator Joseph “Junior” Hicks. It stands out because the witnesses were children, because the reported object was described in unusually vivid detail, and because the account included more than a distant light in the sky. According to later retellings, the children reported a bright red light, a humming sound and an object positioned above or near their home. Yet the same features that make the story memorable also expose a central problem running through much of the Uintah Basin record: detailed testimony does not automatically produce reliable measurements, clear identification or scientific certainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Utah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
 
-
-<img src="{{ "/assets/images/Utah_2ff606_uintah_basin_sightin_6265ca_randlett_red_light_c_eb6ddf-Illustration-1-light.svg" | relative_url }}" alt="Randlett Case illustration 1" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_uintah_basin_sightin_6265ca_randlett_red_light_c_eb6ddf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_uintah_basin_sightin_6265ca_randlett_red_light_c_eb6ddf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For historians of Utah UFO reports, the Randlett incident matters less as proof of an extraordinary craft than as an example of how eyewitness evidence can be simultaneously rich and fragile. The case illustrates why Hicks and biologist Frank B. Salisbury considered some Basin reports worthy of preservation, while sceptics point out that striking descriptions can still leave crucial questions unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Ebooks2GoUtah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
+<img src="{{ "/assets/images/Utah_2ff606_uintah_basin_sightin_6265ca_randlett_red_light_c_eb6ddf-Illustration-1-dark.svg" | relative_url }}" alt="Randlett Case illustration 1" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_uintah_basin_sightin_6265ca_randlett_red_light_c_eb6ddf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_uintah_basin_sightin_6265ca_randlett_red_light_c_eb6ddf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+For historians of Utah UFO reports, the Randlett incident matters less as proof of an extraordinary craft than as an example of how eyewitness evidence can be simultaneously rich and fragile. The case illustrates why Hicks and biologist Frank B. Salisbury considered some Basin reports worthy of preservation, while sceptics point out that striking descriptions can still leave crucial questions unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Utah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
 
 ## What did the Randlett children report?
 
-Randlett is a small community in the western part of Uintah County, within the wider Uintah Basin region that generated many of the reports later assembled in *The Utah UFO Display*. The Basin's combination of isolated settlements, wide night skies and strong local communication networks helped unusual sightings spread quickly through communities and eventually reach Hicks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Ebooks2GoUtah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
+Randlett is a small community in the western part of Uintah County, within the wider Uintah Basin region that generated many of the reports later assembled in *The Utah UFO Display*. The Basin's combination of isolated settlements, wide night skies and strong local communication networks helped unusual sightings spread quickly through communities and eventually reach Hicks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Utah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
 
-Accounts associated with the Randlett case describe children observing a bright red light near their home during 1966. The light was reportedly accompanied by a humming or buzzing sound, and witnesses believed an object was present above the house rather than a simple distant light. In UFO literature, those details are often presented as reasons the sighting deserves attention. A witness who reports colour, sound, apparent movement and proximity is generally offering more information than someone who merely notices a light crossing the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Ebooks2GoUtah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
+Accounts associated with the Randlett case describe children observing a bright red light near their home during 1966. The light was reportedly accompanied by a humming or buzzing sound, and witnesses believed an object was present above the house rather than a simple distant light. In UFO literature, those details are often presented as reasons the sighting deserves attention. A witness who reports colour, sound, apparent movement and proximity is generally offering more information than someone who merely notices a light crossing the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Utah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
 
-The case became part of the wider Hicks collection because it appeared to involve direct observation at relatively close range. That distinction mattered to investigators. Many UFO reports collapse under scrutiny because witnesses saw only a point of light at unknown distance. The Randlett story seemed, at least on the surface, to offer something more substantial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Ebooks2GoUtah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
-
+The case became part of the wider Hicks collection because it appeared to involve direct observation at relatively close range. That distinction mattered to investigators. Many UFO reports collapse under scrutiny because witnesses saw only a point of light at unknown distance. The Randlett story seemed, at least on the surface, to offer something more substantial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Utah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Izjwzxcll1k" title="STRANGE EYEWITNESS DRAWINGS Reveal New Information (S2) | The Secret of Skinwalker Ranch | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Izjwzxcll1k" target="_blank" rel="noopener noreferrer">STRANGE EYEWITNESS DRAWINGS Reveal New Information (S2) | The Secret of Skinwalker Ranch | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 428.7K &middot; Uploaded: July 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Izjwzxcll1k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Izjwzxcll1k">Open on YouTube</a></p></div></div></div>
 
@@ -272,7 +270,6 @@ The case became part of the wider Hicks collection because it appeared to involv
 The most important lesson from the Randlett case is that descriptive richness is not the same thing as reliable measurement.
 
 Witnesses may honestly describe a red glow, a humming noise or an apparent object overhead, yet still be unable to answer the questions investigators most need answered:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -285,48 +282,43 @@ Witnesses may honestly describe a red glow, a humming noise or an apparent objec
 
 </div>
 
-These problems become even more difficult when the primary witnesses are children. That does not mean children are unreliable by definition. In some situations they may report unusual events with less concern about social embarrassment than adults. However, children are generally less experienced at judging distance, altitude, size and speed, especially at night. A bright light against a dark sky can appear much closer or larger than it really is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Ebooks2GoUtah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
+These problems become even more difficult when the primary witnesses are children. That does not mean children are unreliable by definition. In some situations they may report unusual events with less concern about social embarrassment than adults. However, children are generally less experienced at judging distance, altitude, size and speed, especially at night. A bright light against a dark sky can appear much closer or larger than it really is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Utah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
 
 This is one reason UFO researchers and sceptical investigators often reach different conclusions from the same testimony. Supporters focus on the consistency and vividness of the account. Critics focus on the missing physical measurements and the possibility of perceptual error.
 
-
-<img src="{{ "/assets/images/Utah_2ff606_uintah_basin_sightin_6265ca_randlett_red_light_c_eb6ddf-Illustration-2-light.svg" | relative_url }}" alt="Randlett Case illustration 2" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_uintah_basin_sightin_6265ca_randlett_red_light_c_eb6ddf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_uintah_basin_sightin_6265ca_randlett_red_light_c_eb6ddf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Utah_2ff606_uintah_basin_sightin_6265ca_randlett_red_light_c_eb6ddf-Illustration-2-dark.svg" | relative_url }}" alt="Randlett Case illustration 2" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_uintah_basin_sightin_6265ca_randlett_red_light_c_eb6ddf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_uintah_basin_sightin_6265ca_randlett_red_light_c_eb6ddf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The distance problem at the heart of many Basin sightings
 
 The Randlett report highlights a weakness that appears repeatedly throughout the Uintah Basin files collected by Hicks.
 
 Human observers are surprisingly poor at estimating the distance of lights seen against a featureless night sky. Without known reference points, a light several miles away can seem close, while a relatively nearby object can appear distant. Once distance becomes uncertain, every other estimate becomes unstable. A witness who believes an object is fifty metres away may infer a small craft. If the same object was actually half a mile away, it would need to be enormously larger. The observation itself has not changed, but the interpretation changes completely.
 
-This is why investigators place such importance on corroborating evidence. Radar returns, photographs with identifiable landmarks, multiple observation points or physical traces can help establish scale. The Randlett case appears to lack that kind of independent measurement. As a result, the story remains memorable but difficult to evaluate scientifically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Ebooks2GoUtah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
+This is why investigators place such importance on corroborating evidence. Radar returns, photographs with identifiable landmarks, multiple observation points or physical traces can help establish scale. The Randlett case appears to lack that kind of independent measurement. As a result, the story remains memorable but difficult to evaluate scientifically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Utah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
 
 The problem is not unique to UFO reports. It affects eyewitness accounts of aircraft, meteors, satellites and atmospheric phenomena. In the Randlett case, the reported humming sound adds another layer of uncertainty because witnesses may associate a noise with a visible light even when the two originate from different sources.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1Bc7ALOJ3eE" title="Episode 9 - Utah &amp; The Paranormal: The Rise of Rural Filmmaking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1Bc7ALOJ3eE" target="_blank" rel="noopener noreferrer">Episode 9 - Utah &amp; The Paranormal: The Rise of Rural Filmmaking</a></p><p class="youtube-embed-meta">Channel: Small Town Comeback &middot; Views: 1.2K &middot; Uploaded: January 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1Bc7ALOJ3eE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1Bc7ALOJ3eE">Open on YouTube</a></p></div></div></div>
 
 ## Why Hicks and Salisbury still considered reports like this important
 
-One reason the Randlett account survived in UFO literature is that Hicks did not treat every local report as equally persuasive. Salisbury wrote that Hicks believed many reports could be explained as stars, satellites or other ordinary phenomena. Only a smaller portion of the hundreds of sightings he encountered were regarded as genuinely puzzling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Ebooks2GoUtah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
+One reason the Randlett account survived in UFO literature is that Hicks did not treat every local report as equally persuasive. Salisbury wrote that Hicks believed many reports could be explained as stars, satellites or other ordinary phenomena. Only a smaller portion of the hundreds of sightings he encountered were regarded as genuinely puzzling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Utah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
 
-The value of a case like Randlett, from Hicks's perspective, was not necessarily that it proved an extraordinary explanation. Rather, it showed recurring patterns in local testimony. Across the Basin, witnesses repeatedly described glowing objects, coloured lights, unusual movements and occasional sounds. Investigators looked for similarities between cases in the hope that consistent patterns might reveal something meaningful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Ebooks2GoUtah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
+The value of a case like Randlett, from Hicks's perspective, was not necessarily that it proved an extraordinary explanation. Rather, it showed recurring patterns in local testimony. Across the Basin, witnesses repeatedly described glowing objects, coloured lights, unusual movements and occasional sounds. Investigators looked for similarities between cases in the hope that consistent patterns might reveal something meaningful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Utah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
 
-At the same time, Salisbury's scientific background pushed him toward a more cautious approach than many popular UFO writers. His work preserved witness accounts but also acknowledged the difficulties of interpreting anecdotal evidence. The Randlett case sits directly within that tension: interesting enough to document, but not strong enough to settle the question of what was actually seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Ebooks2GoUtah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
+At the same time, Salisbury's scientific background pushed him toward a more cautious approach than many popular UFO writers. His work preserved witness accounts but also acknowledged the difficulties of interpreting anecdotal evidence. The Randlett case sits directly within that tension: interesting enough to document, but not strong enough to settle the question of what was actually seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Utah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
 
-
-<img src="{{ "/assets/images/Utah_2ff606_uintah_basin_sightin_6265ca_randlett_red_light_c_eb6ddf-Illustration-3-light.svg" | relative_url }}" alt="Randlett Case illustration 3" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_uintah_basin_sightin_6265ca_randlett_red_light_c_eb6ddf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_uintah_basin_sightin_6265ca_randlett_red_light_c_eb6ddf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Utah_2ff606_uintah_basin_sightin_6265ca_randlett_red_light_c_eb6ddf-Illustration-3-dark.svg" | relative_url }}" alt="Randlett Case illustration 3" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_uintah_basin_sightin_6265ca_randlett_red_light_c_eb6ddf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_uintah_basin_sightin_6265ca_randlett_red_light_c_eb6ddf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Randlett case fits the wider Uintah Basin pattern
 
 The broader significance of the Randlett incident lies in what it reveals about the Basin's UFO reputation before later attention focused on places such as [Skinwalker Ranch]({{ 'skinwalker-ranch/' | relative_url }}).
 
-Many famous UFO cases rely on a single dramatic event. The Uintah Basin record is different. Its reputation emerged from the accumulation of numerous local stories gathered over years by a trusted community figure. The Randlett account is one example of the kind of report that gave the region its character: ordinary residents, unusual lights, a strong sense that something strange had occurred, and a lack of definitive physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Ebooks2GoUtah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
+Many famous UFO cases rely on a single dramatic event. The Uintah Basin record is different. Its reputation emerged from the accumulation of numerous local stories gathered over years by a trusted community figure. The Randlett account is one example of the kind of report that gave the region its character: ordinary residents, unusual lights, a strong sense that something strange had occurred, and a lack of definitive physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Utah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
 
 In that sense, the case is historically useful even if it remains scientifically unresolved. It demonstrates how witness testimony can create a durable local tradition. A story involving children, a glowing red object and a mysterious humming sound is exactly the sort of account likely to be remembered, retold and folded into regional folklore. Yet when investigators attempt to move from narrative to measurement, the uncertainties become obvious.
 
-That combination of vivid memory and weak verification is one of the defining features of the Uintah Basin files. The Randlett case remains noteworthy not because it provides clear answers, but because it captures the central challenge of the entire collection: witnesses may describe something sincerely and in detail, while the most important questions about distance, size and identity remain unanswered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Ebooks2GoUtah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
-
+That combination of vivid memory and weak verification is one of the defining features of the Uintah Basin files. The Randlett case remains noteworthy not because it provides clear answers, but because it captures the central challenge of the entire collection: witnesses may describe something sincerely and in detail, while the most important questions about distance, size and identity remain unanswered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebooks2go.com">[Ebooks2Go]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebooks2go.com</span><span class="citation-popover-title">Utah UFO Display</span><span class="citation-popover-snippet">Utah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</span><span class="citation-popover-meta">Published: February 14, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l_sAu_KK-NM" title="Unexplained Light in the Desert | Alien Encounters: Fact or Fiction | Discovery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l_sAu_KK-NM" target="_blank" rel="noopener noreferrer">Unexplained Light in the Desert | Alien Encounters: Fact or Fiction | Discovery</a></p><p class="youtube-embed-meta">Channel: Discovery &middot; Views: 5.3K &middot; Uploaded: August 2024 &middot; Length: 3 minutes 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l_sAu_KK-NM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l_sAu_KK-NM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -414,7 +406,7 @@ That combination of vivid memory and weak verification is one of the defining fe
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -424,111 +416,36 @@ That combination of vivid memory and weak verification is one of the defining fe
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-randlett-children-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-randlett-children-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-randlett-children-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-randlett-children-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-randlett-children-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-randlett-children-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-randlett-children-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-randlett-children-really-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -536,15 +453,15 @@ That combination of vivid memory and weak verification is one of the defining fe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-randlett-children-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-randlett-children-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-randlett-children-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-randlett-children-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-randlett-children-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-randlett-children-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-randlett-children-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-randlett-children-really-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -552,15 +469,15 @@ That combination of vivid memory and weak verification is one of the defining fe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-randlett-children-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-randlett-children-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-randlett-children-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-randlett-children-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-randlett-children-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-randlett-children-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-randlett-children-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-randlett-children-really-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -568,15 +485,15 @@ That combination of vivid memory and weak verification is one of the defining fe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-randlett-children-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-randlett-children-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-randlett-children-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-randlett-children-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-randlett-children-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-randlett-children-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-randlett-children-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-randlett-children-really-see-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -584,7 +501,7 @@ That combination of vivid memory and weak verification is one of the defining fe
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=randlett-case-what-did-the-randlett-children-really-see-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-randlett-children-really-see-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-randlett-children-really-see-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -661,17 +578,31 @@ That combination of vivid memory and weak verification is one of the defining fe
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -684,42 +615,73 @@ That combination of vivid memory and weak verification is one of the defining fe
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -734,12 +696,17 @@ That combination of vivid memory and weak verification is one of the defining fe
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -750,60 +717,60 @@ That combination of vivid memory and weak verification is one of the defining fe
 1. <a id="endnote-1"></a>
    Source: ebooks2go.com  
    Title: Utah UFO Display  
-   Link: [https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf](https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ebooks2GoUtah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</p></details>
+   Link: <a href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Utah UFO Display - eBooks2goFebruary 14, 2023 — Because many Native American children were in Junior&#x27;s classes, he has made frie...</p></details>
    Published: February 14, 2023  
 
 ### Additional References
 
 2. <a id="endnote-2"></a>
    Source: mhl.org  
-   Link: [https://mhl.org/sites/default/files/newspapers/LAM-1898-07.pdf](https://mhl.org/sites/default/files/newspapers/LAM-1898-07.pdf)  
+   Link: <a href="https://mhl.org/sites/default/files/newspapers/LAM-1898-07.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mhl.org/sites/default/files/newspapers/LAM-1898-07.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AMERICAN... house was handsomely deeorat- bd by Thornton and presented a charm- ing appearance. Mr. and Mrs. E. W.. P&amp;fton assisted in th...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: rustyquill.com  
-   Link: [https://rustyquill.com/show/rusty-quill-gaming-podcast/](https://rustyquill.com/show/rusty-quill-gaming-podcast/)  
+   Link: <a href="https://rustyquill.com/show/rusty-quill-gaming-podcast/" target="_blank" rel="noopener noreferrer nofollow">https://rustyquill.com/show/rusty-quill-gaming-podcast/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rusty Quill Gaming PodcastThe Rusty Quill Gaming podcast is an actual play podcast following a mixed ability group of comedians, improvis...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: goodreads.com  
-   Link: [https://www.goodreads.com/en/book/show/8589238-the-utah-ufo-display](https://www.goodreads.com/en/book/show/8589238-the-utah-ufo-display)  
+   Link: <a href="https://www.goodreads.com/en/book/show/8589238-the-utah-ufo-display" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/8589238-the-utah-ufo-display</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Utah UFO Display: A Scientist&#x27;s ReportDo UFOs really exist? Shedding new light on the UFO mystery, noted biologist Frank B. Salisbury...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/ufos-and-close-encounters-1502968088-9781502968081.html](https://dokumen.pub/download/ufos-and-close-encounters-1502968088-9781502968081.html)  
+   Link: <a href="https://dokumen.pub/download/ufos-and-close-encounters-1502968088-9781502968081.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/ufos-and-close-encounters-1502968088-9781502968081.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs AND CLOSE ENCOUNTERS (The Best of Fate...My children came running into the bedroom to say, &quot;Dad, we&#x27;re watching this UFO out over O...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ebay.co.uk  
-   Link: [https://www.ebay.co.uk/urw/Utah-UFO-Display-A-Biologist-s-Report-by-Frank-B-Salisbury-and-Joseph-Junior-Hicks-2010-Trade-Paperback-/product-reviews/84556620](https://www.ebay.co.uk/urw/Utah-UFO-Display-A-Biologist-s-Report-by-Frank-B-Salisbury-and-Joseph-Junior-Hicks-2010-Trade-Paperback-/product-reviews/84556620)  
+   Link: <a href="https://www.ebay.co.uk/urw/Utah-UFO-Display-A-Biologist-s-Report-by-Frank-B-Salisbury-and-Joseph-Junior-Hicks-2010-Trade-Paperback-/product-reviews/84556620" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.co.uk/urw/Utah-UFO-Display-A-Biologist-s-Report-by-Frank-B-Salisbury-and-Joseph-Junior-Hicks-2010-Trade-Paperback-/product-reviews/84556620</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was written before UFOs were on TV and became mainstream. A great read for anyone who is a fan of Skinwalker Ranch. Verified...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: blackwells.co.uk  
    Title: The Utah UFO Display by Frank B Salisbury Joseph [Junior Hicks](&#123;&#123; 'junior-hicks/' | relative_url &#125;&#125;)  
-   Link: [https://blackwells.co.uk/bookshop/product/The-Utah-UFO-Display-by-Frank-B-Salisbury-Joseph-Junior-Hicks/9781599554051?srsltid=AfmBOooYvxzc-ZSFVX046olhgs_XUXWmSpyNENEXQCqXp2bOIBQ3aqN1](https://blackwells.co.uk/bookshop/product/The-Utah-UFO-Display-by-Frank-B-Salisbury-Joseph-Junior-Hicks/9781599554051?srsltid=AfmBOooYvxzc-ZSFVX046olhgs_XUXWmSpyNENEXQCqXp2bOIBQ3aqN1)  
+   Link: <a href="https://blackwells.co.uk/bookshop/product/The-Utah-UFO-Display-by-Frank-B-Salisbury-Joseph-Junior-Hicks/9781599554051?srsltid=AfmBOooYvxzc-ZSFVX046olhgs_XUXWmSpyNENEXQCqXp2bOIBQ3aqN1" target="_blank" rel="noopener noreferrer nofollow">https://blackwells.co.uk/bookshop/product/The-Utah-UFO-Display-by-Frank-B-Salisbury-Joseph-Junior-Hicks/9781599554051?srsltid=AfmBOooYvxzc-ZSFVX046olhgs_XUXWmSpyNENEXQCqXp2bOIBQ3aqN1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Utah UFO Display: Frank B. Salisbury: 9781599554051UFOs and extraterrestrial beings. The Utah UFO Display A Scientist&#x27;s Report. Fr...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: worldofbooks.com  
    Title: utah ufo display book frank salisbury 9781599554051  
-   Link: [https://www.worldofbooks.com/products/utah-ufo-display-book-frank-salisbury-9781599554051](https://www.worldofbooks.com/products/utah-ufo-display-book-frank-salisbury-9781599554051)  
+   Link: <a href="https://www.worldofbooks.com/products/utah-ufo-display-book-frank-salisbury-9781599554051" target="_blank" rel="noopener noreferrer nofollow">https://www.worldofbooks.com/products/utah-ufo-display-book-frank-salisbury-9781599554051</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Utah UFO Display By Frank Salisbury8 Jul 2010 — Do UFOs really exist? Noted scientist Frank B. Salisbury, in collaboration with Josep...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/20722646442/posts/10159093977851443/](https://www.facebook.com/groups/20722646442/posts/10159093977851443/)  
+   Link: <a href="https://www.facebook.com/groups/20722646442/posts/10159093977851443/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/20722646442/posts/10159093977851443/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>silvery blue, talking to woman on the street I was cycling on, it...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Izjwzxcll1k](https://www.youtube.com/watch?v=Izjwzxcll1k)  
+   Link: <a href="https://www.youtube.com/watch?v=Izjwzxcll1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Izjwzxcll1k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Phil and Jessica Try To Communicate With UFOs In Utah&#x27;s Most Mysterious Valley | Expedition X S4 Ep8...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Utah-UFO-Display-Scientist-Sightings-ebook/dp/B004AM5AOA](https://www.amazon.co.uk/Utah-UFO-Display-Scientist-Sightings-ebook/dp/B004AM5AOA)  
+   Link: <a href="https://www.amazon.co.uk/Utah-UFO-Display-Scientist-Sightings-ebook/dp/B004AM5AOA" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Utah-UFO-Display-Scientist-Sightings-ebook/dp/B004AM5AOA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>amatic eyewitness accounts that address this timeworn puzzle from a...</p></details>

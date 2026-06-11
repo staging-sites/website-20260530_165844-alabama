@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-keeps-tennessees-ufo-stories-alive/
 nav_short_title: Memphis
 title: Why Memphis Became a UFO Story Hub
-title_full: Why Memphis Became a UFO Story Hub | Tennessee UFOs
+title_full: Why Memphis Became a UFO Story Hub
 display_title_short: Memphis
 display_title: Memphis
 heading_title: Why Memphis Became a UFO Story Hub
@@ -270,11 +270,10 @@ image: /assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39-overview-soci
 
 Memphis became a UFO story hub not because it has one settled, proven case, but because several forces came together there: a memorable police-witness account, local MUFON activity, television and newspaper attention, and a city sky full of ordinary things that can be misread under the right conditions. The central Memphis story is the 1977 Lamar Todd and Jerry Jeter sighting near Pine Hill Golf Course, described as a large triangular object seen by police officers in the early hours of the morning. It remains interesting because the witnesses were trained observers and because later retellings placed the case at the centre of Memphis UFO culture. It remains uncertain because the public record is largely testimony, not hard sensor data, and because Memphis has obvious mundane sky traffic: aircraft, cargo operations, balloons, birds, meteors, satellites, fireworks debris and optical effects. PBS <span class="citation-chip-wrap"><a class="citation-chip" href="https://flymemphis.com/properties-and-cargo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flymemphis.com">[Memphis International Airport - MEM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flymemphis.com</span><span class="citation-popover-title">Memphis International Airport</span><span class="citation-popover-snippet">MEMProperties and Cargo – Memphis International Airport – MEM...</span></span></span>
 
-
 <img src="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39-overview.webp" | relative_url }}" alt="Overview image for Memphis" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the Lamar Todd case still defines Memphis UFO talk
 
-The best-known Memphis UFO witness is Lamar Todd, a retired Memphis police officer featured in WKNO’s documentary *UFOs Over Memphis*. The programme presents him not as an anonymous caller but as a recognisable local figure: a former officer, auctioneer and repeat witness whose story became attached to a specific place in South Memphis. According to the documentary transcript, Todd said his first odd experience came in 1973, when he was alone in a police car and saw a bright circular light around the vehicle; he checked whether the police helicopter was airborne and was told it was not. He also said he did not formally report that first episode because he expected disbelief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/video/ufos-over-memphis-ibgvha/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">UFOs Over Memphis | PBS</span><span class="citation-popover-snippet">PBSUFOs Over Memphis | PBS...</span></span></span>
+The best-known Memphis UFO witness is Lamar Todd, a retired Memphis police officer featured in WKNO’s documentary *UFOs Over Memphis*. The programme presents him not as an anonymous caller but as a recognisable local figure: a former officer, auctioneer and repeat witness whose story became attached to a specific place in South Memphis. According to the documentary transcript, Todd said his first odd experience came in 1973, when he was alone in a police car and saw a bright circular light around the vehicle; he checked whether the police helicopter was airborne and was told it was not. He also said he did not formally report that first episode because he expected disbelief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/video/ufos-over-memphis-ibgvha/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">UFOs Over Memphis &#124; PBS</span><span class="citation-popover-snippet">UFOs Over Memphis &#124; PBS...</span></span></span>
 
 The more important case came on 17 May 1977. Todd said he and his partner, Jerry Jeter, were on patrol near Norris Road and Pine Hill Golf Course when they saw something above the power lines. In Todd’s account, the object was triangular, carried three lights, hovered low, made no engine or wind noise, and was watched for several minutes before moving away extremely quickly. He also said he contacted the dispatcher and asked whether Memphis Ground had an unidentified object in the area, receiving a negative answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/show/ufos-over-memphis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">Open source on pbs.org.</span></span></span>
 
@@ -282,11 +281,10 @@ That combination is why the case has lasted. Police officers are often treated a
 
 But “better documented” should not be read as “proved”. The strongest public evidence is still witness testimony, later interview material and local media treatment. The public sources do not provide a clear radar plot, physical trace, original dispatch recording, recovered material or independent technical reconstruction. That does not make the officers dishonest. It does mean the case belongs in the category of memorable, unresolved witness history rather than confirmed extraordinary craft.
 
-
-<img src="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39-Illustration-1-light.svg" | relative_url }}" alt="Memphis illustration 1" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39-Illustration-1-dark.svg" | relative_url }}" alt="Memphis illustration 1" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Police testimony helps the story — but does not settle it
 
-Police-witness UFO cases have a particular power in public memory. They seem to offer a solution to the usual objection that a witness may have been careless, intoxicated, imaginative or attention-seeking. In the Memphis case, Todd and Jeter were on duty; Todd described a location, a time window, a shape, a duration and follow-up contact with dispatch; and later accounts emphasised additional officers and citizens. Those details are more useful than a vague “light in the sky” story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/video/ufos-over-memphis-ibgvha/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">UFOs Over Memphis | PBS</span><span class="citation-popover-snippet">PBSUFOs Over Memphis | PBS...</span></span></span>
+Police-witness UFO cases have a particular power in public memory. They seem to offer a solution to the usual objection that a witness may have been careless, intoxicated, imaginative or attention-seeking. In the Memphis case, Todd and Jeter were on duty; Todd described a location, a time window, a shape, a duration and follow-up contact with dispatch; and later accounts emphasised additional officers and citizens. Those details are more useful than a vague “light in the sky” story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/video/ufos-over-memphis-ibgvha/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">UFOs Over Memphis &#124; PBS</span><span class="citation-popover-snippet">UFOs Over Memphis &#124; PBS...</span></span></span>
 
 The limits are just as important. Even trained witnesses can misjudge size, distance, speed and altitude at night, especially when there is no known object beside the target for scale. A triangular shape can be created by three lights on an aircraft, by separate lights seen as one form, or by a dark area inferred between points of light. A sudden departure can be a real acceleration, but it can also be a perception produced by changing angle, loss of visual reference, occlusion by trees or buildings, or a light turning off.
 
@@ -294,16 +292,15 @@ The Todd case is therefore strongest as a witness case, not as a technical case.
 
 ## MUFON, WKNO and the making of a local UFO scene
 
-Memphis did not become a UFO hub through the Todd case alone. Local investigators, broadcasters and event organisers gave the story a public afterlife. WKNO reported in July 2015 that Pine Hill Park and Community Center, near the place associated with Todd’s 1977 sighting, was being used for a World UFO Day event. The same report described it as the first MUFON conference to be held in Memphis and said the event would include speakers, films and public participation rather than only specialist investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wknofm.org/news-and-features/2015-07-01/close-encounters-of-the-memphis-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wknofm.org">[WKNO-FM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wknofm.org</span><span class="citation-popover-title">WKNO-FMClose Encounters of the Memphis Kind | WKNO FM</span><span class="citation-popover-snippet">WKNO-FMClose Encounters of the Memphis Kind | WKNO FM</span></span></span>
+Memphis did not become a UFO hub through the Todd case alone. Local investigators, broadcasters and event organisers gave the story a public afterlife. WKNO reported in July 2015 that Pine Hill Park and Community Center, near the place associated with Todd’s 1977 sighting, was being used for a World UFO Day event. The same report described it as the first MUFON conference to be held in Memphis and said the event would include speakers, films and public participation rather than only specialist investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wknofm.org/news-and-features/2015-07-01/close-encounters-of-the-memphis-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wknofm.org">[WKNO-FM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wknofm.org</span><span class="citation-popover-title">WKNO-FMClose Encounters of the Memphis Kind &#124; WKNO FM</span><span class="citation-popover-snippet">WKNO-FMClose Encounters of the Memphis Kind &#124; WKNO FM</span></span></span>
 
 The PBS page for *UFOs Over Memphis* shows how that local interest was packaged for a mainstream audience. The documentary brought together Todd, MUFON field investigator Bridgett Sanders, area author James Renford Powell and UFO commentator Peter Robbins, while also including local experts on history, science and popular culture. That mixture matters: it made the subject less like a private believers’ meeting and more like a Memphis culture story with witnesses, archives, scepticism and entertainment all in the same frame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/show/ufos-over-memphis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">Open source on pbs.org.</span></span></span>
 
-MUFON’s role is especially important because it sits between witness support and investigation. WKNO quoted [Tennessee]({{ 'what-keeps-tennessees-ufo-stories-alive/' | relative_url }}) MUFON director Eddie Middleton saying the organisation received at least one UFO report a week and that many reports were “unknown”, while also acknowledging that “unknown” does not mean “aliens” and that evidence is often too vague to decide. That tension is the Memphis UFO scene in miniature: serious witnesses want to be heard, investigators want patterns, and sceptics point out that weak data can only carry so much weight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wknofm.org/news-and-features/2015-07-01/close-encounters-of-the-memphis-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wknofm.org">[WKNO-FM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wknofm.org</span><span class="citation-popover-title">WKNO-FMClose Encounters of the Memphis Kind | WKNO FM</span><span class="citation-popover-snippet">WKNO-FMClose Encounters of the Memphis Kind | WKNO FM</span></span></span>
+MUFON’s role is especially important because it sits between witness support and investigation. WKNO quoted Tennessee MUFON director Eddie Middleton saying the organisation received at least one UFO report a week and that many reports were “unknown”, while also acknowledging that “unknown” does not mean “aliens” and that evidence is often too vague to decide. That tension is the Memphis UFO scene in miniature: serious witnesses want to be heard, investigators want patterns, and sceptics point out that weak data can only carry so much weight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wknofm.org/news-and-features/2015-07-01/close-encounters-of-the-memphis-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wknofm.org">[WKNO-FM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wknofm.org</span><span class="citation-popover-title">WKNO-FMClose Encounters of the Memphis Kind &#124; WKNO FM</span><span class="citation-popover-snippet">WKNO-FMClose Encounters of the Memphis Kind &#124; WKNO FM</span></span></span>
 
 Memphis Flyer coverage from 2012 shows that this interest predates the 2015 documentary wave. It reported on a “UFO Experience” conference at the University of Memphis Holiday Inn, sponsored by the Tennessee division of MUFON, with UFO sightings and abduction claims discussed in a local setting. That gives Memphis a modest but real investigator-and-audience infrastructure: conferences, local press, public television, recurring witnesses and state-level MUFON activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/flying-saucers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">Memphis Flyer Flying Saucers</span><span class="citation-popover-snippet">Memphis Flyer Flying Saucers</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PSgTuE7HFx0" title="MUFON – The Truth Behind UFOs and Alien Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer">MUFON – The Truth Behind UFOs and Alien Encounters</a></p><p class="youtube-embed-meta">Channel: J. Horton Films &middot; Views: 48.3K &middot; Uploaded: January 2023 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PSgTuE7HFx0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E63u90DGzyo" title="UFO files released, new TN congressional maps and local police involved in crashes 📱" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E63u90DGzyo" target="_blank" rel="noopener noreferrer">UFO files released, new TN congressional maps and local police involved in crashes 📱</a></p><p class="youtube-embed-meta">Channel: FOX NASHVILLE &middot; Views: 1.9K &middot; Uploaded: May 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E63u90DGzyo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E63u90DGzyo">Open on YouTube</a></p></div></div></div>
 
 ## Local media made Memphis sightings more visible
 
@@ -313,10 +310,9 @@ WMC Action News 5 reported in January 2015 on a white object filmed in the Memph
 
 The same WMC piece is revealing because it shows how a local news segment can turn an unclear image into a community question. A small white object in daytime footage might be a bird, aircraft, balloon, drone, wind-blown object or camera artefact. By asking a UFO investigator to assess it, the report gave the sighting a UFO frame before any firm identification was possible. That is not necessarily irresponsible; it reflects what viewers were asking. But it shows how quickly “unidentified in a video” can become “possible UFO” in public memory.
 
-WKNO’s 2015 coverage also made clear that the Memphis scene included humour and pop culture. Bridgett Sanders expected not only experiencers but science-fiction fans and comic-book fans at the World UFO Day gathering, and the event included playful elements alongside speakers and films. That mix helps explain why Memphis UFO interest survived: it was not only an evidence debate, but also a local identity story, a festival story and a way for witnesses to speak without being entirely isolated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wknofm.org/news-and-features/2015-07-01/close-encounters-of-the-memphis-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wknofm.org">[WKNO-FM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wknofm.org</span><span class="citation-popover-title">WKNO-FMClose Encounters of the Memphis Kind | WKNO FM</span><span class="citation-popover-snippet">WKNO-FMClose Encounters of the Memphis Kind | WKNO FM</span></span></span>
+WKNO’s 2015 coverage also made clear that the Memphis scene included humour and pop culture. Bridgett Sanders expected not only experiencers but science-fiction fans and comic-book fans at the World UFO Day gathering, and the event included playful elements alongside speakers and films. That mix helps explain why Memphis UFO interest survived: it was not only an evidence debate, but also a local identity story, a festival story and a way for witnesses to speak without being entirely isolated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wknofm.org/news-and-features/2015-07-01/close-encounters-of-the-memphis-kind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wknofm.org">[WKNO-FM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wknofm.org</span><span class="citation-popover-title">WKNO-FMClose Encounters of the Memphis Kind &#124; WKNO FM</span><span class="citation-popover-snippet">WKNO-FMClose Encounters of the Memphis Kind &#124; WKNO FM</span></span></span>
 
-
-<img src="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39-Illustration-2-light.svg" | relative_url }}" alt="Memphis illustration 2" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39-Illustration-2-dark.svg" | relative_url }}" alt="Memphis illustration 2" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common explanations that fit many Memphis reports
 
 The sceptical explanations for Memphis sightings are not exotic. They are the same explanations that recur in national UAP work, but Memphis’ geography and airport economy make some of them especially relevant.
@@ -333,15 +329,13 @@ The sceptical explanations for Memphis sightings are not exotic. They are the sa
 
 None of these explanations automatically solves the Todd case. A large, low, silent triangular object watched by police officers for several minutes is not as easy to dismiss as a distant dot in a video. But the common-explanation list matters because most Memphis reports are not Todd-level cases. They are brief, poorly measured, filmed from one angle, or reported long after the event.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nsxgymkGZP8" title="UFOs over Memphis - Originally Aired July 30, 2015" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nsxgymkGZP8" target="_blank" rel="noopener noreferrer">UFOs over Memphis - Originally Aired July 30, 2015</a></p><p class="youtube-embed-meta">Channel: WKNO &middot; Views: 1.0M &middot; Uploaded: August 2021 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nsxgymkGZP8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nsxgymkGZP8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/keq6wUP5EyY" title="Spooky Tennessee: The UFOs of Oak Ridge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=keq6wUP5EyY" target="_blank" rel="noopener noreferrer">Spooky Tennessee: The UFOs of Oak Ridge</a></p><p class="youtube-embed-meta">Channel: Nashville Public Library &middot; Views: 462 &middot; Uploaded: November 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=keq6wUP5EyY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=keq6wUP5EyY">Open on YouTube</a></p></div></div></div>
 
 ## What would strengthen a Memphis case today?
 
 The useful lesson from Memphis is not that all witnesses are wrong or that every unexplained report is extraordinary. It is that the city’s strongest stories sit in the gap between credible testimony and insufficient data. NASA’s independent UAP study made the same general point in scientific terms: UAP analysis is hampered by poor sensor calibration, lack of multiple measurements, lack of metadata and lack of baseline data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 For a Memphis sighting to move from intriguing to genuinely strong, it would need more than a sincere witness. Useful evidence would include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -358,8 +352,7 @@ For a Memphis sighting to move from intriguing to genuinely strong, it would nee
 
 That standard is demanding, but not unfair. It protects witnesses as well as sceptics. Without it, a case can be pulled in two bad directions: believers may turn an unclear report into a dramatic claim, while sceptics may flatten a genuinely puzzling event into an easy joke.
 
-
-<img src="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39-Illustration-3-light.svg" | relative_url }}" alt="Memphis illustration 3" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39-Illustration-3-dark.svg" | relative_url }}" alt="Memphis illustration 3" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read Memphis in Tennessee UFO history
 
 Memphis occupies a different place in Tennessee UFO history from [Oak Ridge]({{ 'oak-ridge/' | relative_url }}) or military-centred cases. Oak Ridge draws attention because of atomic-era secrecy and national-security records. Memphis draws attention because of people: police witnesses, local investigators, television producers, conference organisers and ordinary residents who saw something they could not place.
@@ -368,9 +361,7 @@ The 1977 Todd-Jeter account remains the anchor because it has a memorable witnes
 
 The cautious verdict is that Memphis is best understood as a UFO story hub, not a proven UFO hotspot. It has credible-sounding testimony, investigator activity and media continuity, but the public evidence still points to a mixed record: a few notable unresolved stories surrounded by many weaker sightings that could plausibly be aircraft, balloons, birds, meteors, satellites, fireworks effects or camera problems. That is precisely why Memphis matters within the Tennessee project. It shows how UFO history is made not only by what appears in the sky, but by who reports it, who investigates it, who broadcasts it and how carefully later readers separate mystery from evidence.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E63u90DGzyo" title="UFO files released, new TN congressional maps and local police involved in crashes 📱" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E63u90DGzyo" target="_blank" rel="noopener noreferrer">UFO files released, new TN congressional maps and local police involved in crashes 📱</a></p><p class="youtube-embed-meta">Channel: FOX NASHVILLE &middot; Views: 1.9K &middot; Uploaded: May 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E63u90DGzyo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E63u90DGzyo">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PSgTuE7HFx0" title="MUFON – The Truth Behind UFOs and Alien Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer">MUFON – The Truth Behind UFOs and Alien Encounters</a></p><p class="youtube-embed-meta">Channel: J. Horton Films &middot; Views: 48.3K &middot; Uploaded: January 2023 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PSgTuE7HFx0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -458,7 +449,7 @@ The cautious verdict is that Memphis is best understood as a UFO story hub, not 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -468,111 +459,36 @@ The cautious verdict is that Memphis is best understood as a UFO story hub, not 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART"><img src="https://i.ebayimg.com/images/g/nA4AAeSwTU5p~MFM/s-l225.jpg" alt="Listing image for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -580,15 +496,15 @@ The cautious verdict is that Memphis is best understood as a UFO story hub, not 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/lGIAAOSw2klmSmMn/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -596,15 +512,15 @@ The cautious verdict is that Memphis is best understood as a UFO story hub, not 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/BEsAAOSw-UdmSmNz/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -612,15 +528,15 @@ The cautious verdict is that Memphis is best understood as a UFO story hub, not 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/kR8AAOSwouBmSmNQ/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -628,7 +544,7 @@ The cautious verdict is that Memphis is best understood as a UFO story hub, not 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-why-memphis-became-a-ufo-story-hub-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-memphis-became-a-ufo-story-hub-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -705,17 +621,31 @@ The cautious verdict is that Memphis is best understood as a UFO story hub, not 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -728,42 +658,73 @@ The cautious verdict is that Memphis is best understood as a UFO story hub, not 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -778,12 +739,17 @@ The cautious verdict is that Memphis is best understood as a UFO story hub, not 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -794,133 +760,133 @@ The cautious verdict is that Memphis is best understood as a UFO story hub, not 
 1. <a id="endnote-1"></a>
    Source: pbs.org  
    Title: UFOs Over Memphis | PBS  
-   Link: [https://www.pbs.org/video/ufos-over-memphis-ibgvha/](https://www.pbs.org/video/ufos-over-memphis-ibgvha/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PBSUFOs Over Memphis | PBS...</p></details>
+   Link: <a href="https://www.pbs.org/video/ufos-over-memphis-ibgvha/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/video/ufos-over-memphis-ibgvha/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Over Memphis | PBS...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: flymemphis.com  
    Title: Memphis International Airport  
-   Link: [https://flymemphis.com/properties-and-cargo/](https://flymemphis.com/properties-and-cargo/)  
+   Link: <a href="https://flymemphis.com/properties-and-cargo/" target="_blank" rel="noopener noreferrer nofollow">https://flymemphis.com/properties-and-cargo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MEMProperties and Cargo – Memphis International Airport – MEM...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
    Title: Unclassified Final DSD AARO Historical Report  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: wknofm.org  
    Title: WKNO-FMClose Encounters of the Memphis Kind | WKNO FM  
-   Link: [https://www.wknofm.org/news-and-features/2015-07-01/close-encounters-of-the-memphis-kind](https://www.wknofm.org/news-and-features/2015-07-01/close-encounters-of-the-memphis-kind)  
+   Link: <a href="https://www.wknofm.org/news-and-features/2015-07-01/close-encounters-of-the-memphis-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.wknofm.org/news-and-features/2015-07-01/close-encounters-of-the-memphis-kind</a>  
 
 5. <a id="endnote-5"></a>
    Source: actionnews5.com  
-   Link: [https://www.actionnews5.com/story/27965766/ufo-expert-analyzes-recent-mid-south-sightings/](https://www.actionnews5.com/story/27965766/ufo-expert-analyzes-recent-mid-south-sightings/)  
+   Link: <a href="https://www.actionnews5.com/story/27965766/ufo-expert-analyzes-recent-mid-south-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.actionnews5.com/story/27965766/ufo-expert-analyzes-recent-mid-south-sightings/</a>  
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
    Title: Project [BLUE BOOK](&#123;&#123; 'blue-book-68b442/' | relative_url &#125;&#125;)  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 10. <a id="endnote-10"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/show/ufos-over-memphis/](https://www.pbs.org/show/ufos-over-memphis/)  
+   Link: <a href="https://www.pbs.org/show/ufos-over-memphis/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/show/ufos-over-memphis/</a>  
 
 11. <a id="endnote-11"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings](https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings)  
+   Link: <a href="https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings</a>  
 
 12. <a id="endnote-12"></a>
    Source: local.fedex.com  
-   Link: [https://local.fedex.com/en-us/tn/memphis/olvrt](https://local.fedex.com/en-us/tn/memphis/olvrt)  
+   Link: <a href="https://local.fedex.com/en-us/tn/memphis/olvrt" target="_blank" rel="noopener noreferrer nofollow">https://local.fedex.com/en-us/tn/memphis/olvrt</a>  
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: UFOs over Memphis  
-   Link: [https://www.youtube.com/watch?v=nsxgymkGZP8](https://www.youtube.com/watch?v=nsxgymkGZP8)  
+   Link: <a href="https://www.youtube.com/watch?v=nsxgymkGZP8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nsxgymkGZP8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spooky Tennessee: The UFOs of Oak Ridge...</p></details>
    Published: July 30, 2015  
 
 14. <a id="endnote-14"></a>
    Source: memphisflyer.com  
    Title: Memphis Flyer Flying Saucers  
-   Link: [https://www.memphisflyer.com/flying-saucers/](https://www.memphisflyer.com/flying-saucers/)  
+   Link: <a href="https://www.memphisflyer.com/flying-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://www.memphisflyer.com/flying-saucers/</a>  
 
 15. <a id="endnote-15"></a>
    Source: memphisflyer.com  
    Title: world ufo day  
-   Link: [https://www.memphisflyer.com/world-ufo-day/](https://www.memphisflyer.com/world-ufo-day/)  
+   Link: <a href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow">https://www.memphisflyer.com/world-ufo-day/</a>  
 
 16. <a id="endnote-16"></a>
    Source: flymemphis.com  
-   Link: [https://flymemphis.com/](https://flymemphis.com/)  
+   Link: <a href="https://flymemphis.com/" target="_blank" rel="noopener noreferrer nofollow">https://flymemphis.com/</a>  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=10537](https://nuforc.org/sighting/?id=10537)  
+   Link: <a href="https://nuforc.org/sighting/?id=10537" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=10537</a>  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=16938](https://nuforc.org/sighting/?id=16938)  
+   Link: <a href="https://nuforc.org/sighting/?id=16938" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=16938</a>  
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=E63u90DGzyo](https://www.youtube.com/watch?v=E63u90DGzyo)  
+   Link: <a href="https://www.youtube.com/watch?v=E63u90DGzyo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E63u90DGzyo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON – The Truth Behind UFOs and Alien Encounters...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
 21. <a id="endnote-21"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Spooky Tennessee: The UFOs of Oak Ridge  
-   Link: [https://www.youtube.com/watch?v=keq6wUP5EyY](https://www.youtube.com/watch?v=keq6wUP5EyY)  
+   Link: <a href="https://www.youtube.com/watch?v=keq6wUP5EyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=keq6wUP5EyY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files released, new TN congressional maps and local police involved in crashes...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: MUFON – The Truth Behind UFOs and Alien Encounters  
-   Link: [https://www.youtube.com/watch?v=PSgTuE7HFx0](https://www.youtube.com/watch?v=PSgTuE7HFx0)  
+   Link: <a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PSgTuE7HFx0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nashville astronomer weighs in on Congressional UFO hearing...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP](https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP)  
+   Link: <a href="https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP</a>  
 
 25. <a id="endnote-25"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DTxdKiTDtAY/](https://www.instagram.com/p/DTxdKiTDtAY/)  
+   Link: <a href="https://www.instagram.com/p/DTxdKiTDtAY/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTxdKiTDtAY/</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Transimpexllc.am/posts/90-of-fedex-planes-fly-at-night-so-your-packages-are-always-on-timethats-why-mem/875339235099761/](https://www.facebook.com/Transimpexllc.am/posts/90-of-fedex-planes-fly-at-night-so-your-packages-are-always-on-timethats-why-mem/875339235099761/)  
+   Link: <a href="https://www.facebook.com/Transimpexllc.am/posts/90-of-fedex-planes-fly-at-night-so-your-packages-are-always-on-timethats-why-mem/875339235099761/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Transimpexllc.am/posts/90-of-fedex-planes-fly-at-night-so-your-packages-are-always-on-timethats-why-mem/875339235099761/</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/218676792817854/posts/1380216686663853/](https://www.facebook.com/groups/218676792817854/posts/1380216686663853/)  
+   Link: <a href="https://www.facebook.com/groups/218676792817854/posts/1380216686663853/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/218676792817854/posts/1380216686663853/</a>  
 
 28. <a id="endnote-28"></a>
    Source: gettyimages.com  
-   Link: [https://www.gettyimages.com/detail/video/an-apparent-disc-shaped-ufo-was-recently-spotted-over-news-footage/464730080](https://www.gettyimages.com/detail/video/an-apparent-disc-shaped-ufo-was-recently-spotted-over-news-footage/464730080)  
+   Link: <a href="https://www.gettyimages.com/detail/video/an-apparent-disc-shaped-ufo-was-recently-spotted-over-news-footage/464730080" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/detail/video/an-apparent-disc-shaped-ufo-was-recently-spotted-over-news-footage/464730080</a>

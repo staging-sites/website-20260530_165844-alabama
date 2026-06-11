@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /modern-reports-dd8097/
 nav_short_title: Airports & Coast
 title: Why Airports and Coastlines Make Ordinary Lights Seem Unusual
-title_full: Why Airports and Coastlines Make Ordinary Lights Seem Unusual | Modern Reports
+title_full: Why Airports and Coastlines Make Ordinary Lights Seem Unusual
 display_title_short: Airports & Coast
 display_title: Airports & Coast
 heading_title: Why Airports and Coastlines Make Ordinary Lights Seem Unusual
@@ -198,7 +198,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:37:32'
-parent_title: Why Massachusetts UFO Reports Often Stay Unclear | Massachusetts UFOs
+parent_title: Why Massachusetts UFO Reports Often Stay Unclear
 parent_permalink: /modern-reports-dd8097/
 parent_nav_short_title: Modern Reports
 parent_heading_title: Why Massachusetts UFO Reports Often Stay Unclear
@@ -250,8 +250,7 @@ image: /assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed_airports_
 
 In [Massachusetts]({{ 'what-really-happened-in-massachusetts/' | relative_url }}), a state with busy skies and long coastlines, many modern “unidentified flying object’’ reports can be traced back to familiar sources — especially ordinary aviation and atmospheric effects. A common thread in local sightings is the way ordinary aircraft lights, coastal atmospheric conditions, and approach patterns into busy airports like Boston Logan can be misperceived by ground observers. This page explains why these environments frequently generate reports of strange lights and movements, how human perception can misread them, and what typical mechanisms underlie such misinterpretations.
 
-
-<img src="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed_airports_coastal_eff_ea5ba9-Illustration-1-light.svg" | relative_url }}" alt="Airports &amp; Coast illustration 1" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed_airports_coastal_eff_ea5ba9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed_airports_coastal_eff_ea5ba9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed_airports_coastal_eff_ea5ba9-Illustration-1-dark.svg" | relative_url }}" alt="Airports &amp; Coast illustration 1" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed_airports_coastal_eff_ea5ba9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed_airports_coastal_eff_ea5ba9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Airport Approach Paths Confuse Observers
 
 Around major airports, especially Boston Logan International Airport with its dense arrival and departure traffic, people on the ground often see aircraft moving at unfamiliar angles and with unusual lighting patterns. Aircraft on approach for landing or taking off have bright navigation and landing lights, which can appear as a single, intense point of light when viewed from a distance, particularly at night; these lights may be mistaken for an unexplained object rather than a plane with known light configurations. Official aviation identification studies note that aircraft heading directly towards an observer can appear to linger or hover because the usual cues used to judge motion and distance are absent or misleading from that angle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
@@ -259,7 +258,6 @@ Around major airports, especially Boston Logan International Airport with its de
 A well‑studied phenomenon in aviation is the so‑called *black hole illusion* and related visual disorientation during night approaches over featureless terrain or water. When a pilot (and by extension a ground observer) sees only the runway lights against a dark background with few surrounding visual references, the brain can misjudge altitude and motion, making lights appear closer, slower, or stationary than they actually are. This contributes to witnesses perceiving aircraft movement as irregular or “unknown” rather than consistent with normal approach paths. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>
 
 Even trained pilots can misjudge visual cues under these conditions. Research into aviation visual perception notes that limited reference points and lighting can cause an “autokinetic” effect, where a steady light in the dark appears to move even when it does not, and other illusions where motion, distance, posture, or relative position is misinterpreted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Atmospheric refraction</span><span class="citation-popover-snippet">Atmospheric refraction</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lnIxGL_fP9E" title="Drones, Airplanes, Or UAPs? How To Tell The Difference | Business Insider" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lnIxGL_fP9E" target="_blank" rel="noopener noreferrer">Drones, Airplanes, Or UAPs? How To Tell The Difference | Business Insider</a></p><p class="youtube-embed-meta">Channel: Business Insider &middot; Views: 262.1K &middot; Uploaded: December 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lnIxGL_fP9E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lnIxGL_fP9E">Open on YouTube</a></p></div></div></div>
 
@@ -271,21 +269,18 @@ More dramatic refractive effects can occur under specific conditions. A *Fata Mo
 
 Coastal haze, layered fog, or temperature inversions common in late summer mornings and evenings over offshore waters can also blur or elongate light sources. These effects may make distant aircraft, ships, or even celestial bodies appear unusually large, shifted, or multi‑coloured to observers on shore, especially without binoculars or reference points to judge scale.
 
-
-<img src="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed_airports_coastal_eff_ea5ba9-Illustration-2-light.svg" | relative_url }}" alt="Airports &amp; Coast illustration 2" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed_airports_coastal_eff_ea5ba9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed_airports_coastal_eff_ea5ba9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed_airports_coastal_eff_ea5ba9-Illustration-2-dark.svg" | relative_url }}" alt="Airports &amp; Coast illustration 2" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed_airports_coastal_eff_ea5ba9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed_airports_coastal_eff_ea5ba9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Case Examples and Ordinary Explanations
 
-In local social‑media discussions, many Massachusetts residents have shared videos or accounts of strange light formations near Logan’s airspace, only to have experienced observers point out that these correspond with recognised aircraft patterns. For instance, sightings of clustered or “hovering’’ lights are frequently explained by aircraft in holding patterns, helicopters, or the way navigation lights appear at different angles when seen from the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1j2k13b/footage_of_dozens_of_unexplained_lightsuaps_in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Footage of dozens of unexplained lights/UAPs in Boston</span><span class="citation-popover-snippet">RedditFootage of dozens of unexplained lights/UAPs in Boston...March 3, 2025 — Towards the end of the flight, one of the lights that was...</span><span class="citation-popover-meta">Published: March 3, 2025</span></span></span>
+In local social‑media discussions, many Massachusetts residents have shared videos or accounts of strange light formations near Logan’s airspace, only to have experienced observers point out that these correspond with recognised aircraft patterns. For instance, sightings of clustered or “hovering’’ lights are frequently explained by aircraft in holding patterns, helicopters, or the way navigation lights appear at different angles when seen from the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1j2k13b/footage_of_dozens_of_unexplained_lightsuaps_in/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Footage of dozens of unexplained lights/UAPs in Boston</span><span class="citation-popover-snippet">Footage of dozens of unexplained lights/UAPs in Boston...March 3, 2025 — Towards the end of the flight, one of the lights that was...</span><span class="citation-popover-meta">Published: March 3, 2025</span></span></span>
 
 Observers familiar with the local flight paths often report that lights which initially look stationary or inexplicable still match known patterns when tracked with flight‑radar tools or by watching for subsequent movements consistent with standard approaches. The brain’s tendency to seek patterns and assume purposeful motion in ambiguous visual input can amplify such misinterpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>
 
 Similarly, coastal optical illusions can be dramatic. Phenomena like mirages over the sea horizon have been widely documented — for instance, sightings of objects that seem to float above the water line have been explained by refracted light from ships or distant coastline features under specific atmospheric conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.futura-sciences.com/en/shocking-sky-illusion-why-boats-appear-to-float-above-the-ocean-right-now_31930/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futura-sciences.com">[Futura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futura-sciences.com</span><span class="citation-popover-snippet">Futurawhy boats appear to float above the ocean right nowMay 12, 2026 — 12 May 2026 — Shocking sky illusion: why boats appear to float ab...</span><span class="citation-popover-meta">Published: May 12, 2026</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uFI1xiiJl4w" title="Black Hole Illusion Recognition and Avoidance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uFI1xiiJl4w" target="_blank" rel="noopener noreferrer">Black Hole Illusion Recognition and Avoidance</a></p><p class="youtube-embed-meta">Channel: AeroMedical Research and Design &middot; Views: 6.2K &middot; Uploaded: November 2019 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uFI1xiiJl4w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uFI1xiiJl4w">Open on YouTube</a></p></div></div></div>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q7pyHDEyegc" title="WingTip: Black Hole Approaches" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q7pyHDEyegc" target="_blank" rel="noopener noreferrer">WingTip: Black Hole Approaches</a></p><p class="youtube-embed-meta">Channel: FlyingLikeThePros &middot; Views: 28.5K &middot; Uploaded: March 2012 &middot; Length: 3 minutes 15 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q7pyHDEyegc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q7pyHDEyegc">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6BD9fyyIJzY" title="Spatial Disorientation Explained: Deadly Flight Illusions Every Pilot Must Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer">Spatial Disorientation Explained: Deadly Flight Illusions Every Pilot Must Know</a></p><p class="youtube-embed-meta">Channel: Epic Flight Academy &middot; Views: 9.1K &middot; Uploaded: December 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6BD9fyyIJzY">Open on YouTube</a></p></div></div></div>
 
 ## What This Means for Massachusetts UFO Reports
 
@@ -293,8 +288,7 @@ For many “modern’’ reports in Massachusetts of unidentified lights or unus
 
 Understanding these mechanisms does not dismiss witnesses’ experiences; rather, it places them within known human‑perception and environmental variables that regularly affect how we see and interpret the sky above Massachusetts’ airports and shores. Recognising how aviation approach lighting, coastal atmospheric refraction, and perceptual illusions operate gives a grounded framework for interpreting many reported sightings that might otherwise be labelled “unknown’’ without further data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Atmospheric refraction</span><span class="citation-popover-snippet">Atmospheric refraction</span></span></span>
 
-
-<img src="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed_airports_coastal_eff_ea5ba9-Illustration-3-light.svg" | relative_url }}" alt="Airports &amp; Coast illustration 3" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed_airports_coastal_eff_ea5ba9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed_airports_coastal_eff_ea5ba9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed_airports_coastal_eff_ea5ba9-Illustration-3-dark.svg" | relative_url }}" alt="Airports &amp; Coast illustration 3" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed_airports_coastal_eff_ea5ba9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed_airports_coastal_eff_ea5ba9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -382,7 +376,7 @@ Understanding these mechanisms does not dismiss witnesses’ experiences; rather
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -392,111 +386,36 @@ Understanding these mechanisms does not dismiss witnesses’ experiences; rather
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOAC Fly To USA Vintage Airline Advert Airways Travel Aviation Holidays Poster"><img src="https://i.ebayimg.com/images/g/ICcAAOSwEHlhbrfh/s-l225.jpg" alt="Listing image for BOAC Fly To USA Vintage Airline Advert Airways Travel Aviation Holidays Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">BOAC Fly To USA Vintage Airline Advert Airways Travel Aviation Holidays Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -504,15 +423,15 @@ Understanding these mechanisms does not dismiss witnesses’ experiences; rather
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Classic Movie Posters 2000s Film Poster Films HD Borderless Printing"><img src="https://i.ebayimg.com/images/g/ENMAAOSwHuhfS6Ad/s-l225.jpg" alt="Listing image for Poster Classic Movie Posters 2000s Film Poster Films HD Borderless Printing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Poster Classic Movie Posters 2000s Film Poster Films HD Borderless Printing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -520,15 +439,15 @@ Understanding these mechanisms does not dismiss witnesses’ experiences; rather
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32"><img src="https://i.ebayimg.com/images/g/0nMAAOSw9VRmBxDw/s-l225.jpg" alt="Listing image for 1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">1930s Flying Lesson Poster &quot;Learn to Fly&quot; Vintage Style Aviation Poster - 24x32</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -536,15 +455,15 @@ Understanding these mechanisms does not dismiss witnesses’ experiences; rather
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="https://i.ebayimg.com/images/g/2Q0AAeSwRXpo1A63/s-l225.jpg" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -552,7 +471,7 @@ Understanding these mechanisms does not dismiss witnesses’ experiences; rather
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airports-coast-why-airports-and-coastlines-make-ordinary-lights-seem-unusual-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="why-airports-and-coastlines-make-ordinary-lights-seem-unusual-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -629,17 +548,31 @@ Understanding these mechanisms does not dismiss witnesses’ experiences; rather
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -652,42 +585,73 @@ Understanding these mechanisms does not dismiss witnesses’ experiences; rather
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -702,12 +666,17 @@ Understanding these mechanisms does not dismiss witnesses’ experiences; rather
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -718,33 +687,33 @@ Understanding these mechanisms does not dismiss witnesses’ experiences; rather
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: [https://en.wikipedia.org/wiki/Identification_studies_of_UFOs](https://en.wikipedia.org/wiki/Identification_studies_of_UFOs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Sensory illusions in aviation  
-   Link: [https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation](https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Atmospheric refraction  
-   Link: [https://en.wikipedia.org/wiki/Atmospheric_refraction](https://en.wikipedia.org/wiki/Atmospheric_refraction)  
+   Link: <a href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Atmospheric_refraction</a>  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: Footage of dozens of unexplained lights/UAPs in Boston  
-   Link: [https://www.reddit.com/r/ufo/comments/1j2k13b/footage_of_dozens_of_unexplained_lightsuaps_in/](https://www.reddit.com/r/ufo/comments/1j2k13b/footage_of_dozens_of_unexplained_lightsuaps_in/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditFootage of dozens of unexplained lights/UAPs in Boston...March 3, 2025 — Towards the end of the flight, one of the lights that was...</p></details>
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1j2k13b/footage_of_dozens_of_unexplained_lightsuaps_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1j2k13b/footage_of_dozens_of_unexplained_lightsuaps_in/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Footage of dozens of unexplained lights/UAPs in Boston...March 3, 2025 — Towards the end of the flight, one of the lights that was...</p></details>
    Published: March 3, 2025  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/technology/comments/yc4vv1/puzzled_pilots_spot_ufos_over_the_pacific_ocean/](https://www.reddit.com/r/technology/comments/yc4vv1/puzzled_pilots_spot_ufos_over_the_pacific_ocean/)  
+   Link: <a href="https://www.reddit.com/r/technology/comments/yc4vv1/puzzled_pilots_spot_ufos_over_the_pacific_ocean/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/technology/comments/yc4vv1/puzzled_pilots_spot_ufos_over_the_pacific_ocean/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>pt going in circles.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: futura-sciences.com  
-   Link: [https://www.futura-sciences.com/en/shocking-sky-illusion-why-boats-appear-to-float-above-the-ocean-right-now_31930/](https://www.futura-sciences.com/en/shocking-sky-illusion-why-boats-appear-to-float-above-the-ocean-right-now_31930/)  
+   Link: <a href="https://www.futura-sciences.com/en/shocking-sky-illusion-why-boats-appear-to-float-above-the-ocean-right-now_31930/" target="_blank" rel="noopener noreferrer nofollow">https://www.futura-sciences.com/en/shocking-sky-illusion-why-boats-appear-to-float-above-the-ocean-right-now_31930/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Futurawhy boats appear to float above the ocean right nowMay 12, 2026 — 12 May 2026 — Shocking sky illusion: why boats appear to float ab...</p></details>
    Published: May 12, 2026  
 
@@ -752,51 +721,51 @@ Understanding these mechanisms does not dismiss witnesses’ experiences; rather
 
 7. <a id="endnote-7"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-023-49527-x](https://www.nature.com/articles/s41598-023-49527-x)  
+   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 14, 2023 — An environmental analysis of public UAP sightings and sky view potential Download PDF Download PDF * Article * Open a...</p></details>
    Published: December 14, 2023  
 
 8. <a id="endnote-8"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/data_research/research/med_humanfacs/oamtechreports/1980s/1982/198206](https://www.faa.gov/data_research/research/med_humanfacs/oamtechreports/1980s/1982/198206)  
+   Link: <a href="https://www.faa.gov/data_research/research/med_humanfacs/oamtechreports/1980s/1982/198206" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/data_research/research/med_humanfacs/oamtechreports/1980s/1982/198206</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Aerospace Medicine Technical Reports | Federal Aviation AdministrationOFFICE OF AEROSPACE MEDICINE TECHNICAL REPORTS FAA Office...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cufon.org  
-   Link: [https://www.cufon.org/cufon/wash_nat/wash_faa.htm](https://www.cufon.org/cufon/wash_nat/wash_faa.htm)  
+   Link: <a href="https://www.cufon.org/cufon/wash_nat/wash_faa.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/wash_nat/wash_faa.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ed, by study and correlation of official records, and by first-hand observation of numerous targets on the Washington Microwave-Early-War...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/index.php/articles/pilot-perception](https://skybrary.aero/index.php/articles/pilot-perception)  
+   Link: <a href="https://skybrary.aero/index.php/articles/pilot-perception" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/index.php/articles/pilot-perception</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot Perception | SKYbrary Aviation SafetyPERCEPTUAL ILLUSIONS The perceptual illusions that pilots encounter which most affect flight s...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0169814124000672](https://www.sciencedirect.com/science/article/pii/S0169814124000672)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectINTERNATIONAL JOURNAL OF INDUSTRIAL ERGONOMICS Volume 102, July 2024, 103611 QUANTITATIVE ANALYSES AND EMPIRICAL TESTS OF PE...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0169814124000672" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0169814124000672</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>INTERNATIONAL JOURNAL OF INDUSTRIAL ERGONOMICS Volume 102, July 2024, 103611 QUANTITATIVE ANALYSES AND EMPIRICAL TESTS OF PE...</p></details>
    Published: July 2024  
 
 12. <a id="endnote-12"></a>
    Source: bostonglobe.com  
-   Link: [https://www.bostonglobe.com/2023/03/12/metro/serious-close-calls-bostons-airport-are-rare-overall-runway-incursions-are-rise/](https://www.bostonglobe.com/2023/03/12/metro/serious-close-calls-bostons-airport-are-rare-overall-runway-incursions-are-rise/)  
+   Link: <a href="https://www.bostonglobe.com/2023/03/12/metro/serious-close-calls-bostons-airport-are-rare-overall-runway-incursions-are-rise/" target="_blank" rel="noopener noreferrer nofollow">https://www.bostonglobe.com/2023/03/12/metro/serious-close-calls-bostons-airport-are-rare-overall-runway-incursions-are-rise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Boston GlobeMarch 12, 2023 — SERIOUS CLOSE CALLS AT BOSTON’S AIRPORT ARE RARE, BUT OVERALL ‘RUNWAY INCURSIONS’ ARE ON THE RISE Image...</p></details>
    Published: March 12, 2023  
 
 13. <a id="endnote-13"></a>
    Source: citizen.com  
-   Link: [https://citizen.com/-LHHgFtiFat-3OJNAY-B](https://citizen.com/-LHHgFtiFat-3OJNAY-B)  
+   Link: <a href="https://citizen.com/-LHHgFtiFat-3OJNAY-B" target="_blank" rel="noopener noreferrer nofollow">https://citizen.com/-LHHgFtiFat-3OJNAY-B</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ship Lights Created Optical IllusionMaybe it was a UFO lol. OperationCPUJul 14 at 11:07 PM. Are aliens trying to take over our planet. Op...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: eoas.ubc.ca  
-   Link: [https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/](https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/)  
+   Link: <a href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PhenomenaOptical phenomena, an interaction between light and the atmosphere. These are not illusions; they are real images that can be ph...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
 16. <a id="endnote-16"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYZjV-Nk1Cd/](https://www.instagram.com/p/DYZjV-Nk1Cd/)  
+   Link: <a href="https://www.instagram.com/p/DYZjV-Nk1Cd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYZjV-Nk1Cd/</a>

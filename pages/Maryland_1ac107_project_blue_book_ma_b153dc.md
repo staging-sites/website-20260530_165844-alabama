@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /marylands-ufo-mysteries-close-encounters/
 nav_short_title: Blue Book Records
 title: How Project Blue Book Shaped Maryland UFO History
-title_full: How Project Blue Book Shaped Maryland UFO History | Maryland UFOs
+title_full: How Project Blue Book Shaped Maryland UFO History
 display_title_short: Blue Book Records
 display_title: Blue Book Records
 heading_title: How Project Blue Book Shaped Maryland UFO History
@@ -268,8 +268,7 @@ image: /assets/images/Maryland_1ac107_project_blue_book_ma_b153dc-overview-socia
 
 ## Introduction
 
-Project Blue Book matters to [Maryland]({{ 'marylands-ufo-mysteries-close-encounters/' | relative_url }}) UFO history because it explains what an official “unidentified” label did — and did not — mean. In the state’s best-known federal-era case, the 1958 [Loch Raven]({{ 'loch-raven/' | relative_url }}) Reservoir incident near Baltimore, the Air Force classification helped preserve the report as an unresolved case, but it did not confirm an extraterrestrial craft. Blue Book was a Cold War record-keeping and threat-assessment programme: it gathered reports, sorted them, looked for national-security implications, and often closed cases as aircraft, balloons, astronomical objects, weather effects or insufficient evidence. Maryland’s value in that record lies less in sensational proof than in showing how federal review turned local witness stories into archival cases that later researchers could check, challenge and reinterpret. The same caution applies today: modern UAP reviews use different language and better intelligence structures, but they still separate “not identified yet” from “proved extraordinary”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
-
+Project Blue Book matters to Maryland UFO history because it explains what an official “unidentified” label did — and did not — mean. In the state’s best-known federal-era case, the 1958 [Loch Raven]({{ 'loch-raven/' | relative_url }}) Reservoir incident near Baltimore, the Air Force classification helped preserve the report as an unresolved case, but it did not confirm an extraterrestrial craft. Blue Book was a Cold War record-keeping and threat-assessment programme: it gathered reports, sorted them, looked for national-security implications, and often closed cases as aircraft, balloons, astronomical objects, weather effects or insufficient evidence. Maryland’s value in that record lies less in sensational proof than in showing how federal review turned local witness stories into archival cases that later researchers could check, challenge and reinterpret. The same caution applies today: modern UAP reviews use different language and better intelligence structures, but they still separate “not identified yet” from “proved extraordinary”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 <img src="{{ "/assets/images/Maryland_1ac107_project_blue_book_ma_b153dc-overview.webp" | relative_url }}" alt="Overview image for Blue Book Records" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Blue Book became the filter for Maryland reports
@@ -282,8 +281,6 @@ For Maryland readers, this is the central interpretive point. A Blue Book “unk
 
 The National Archives’ own historical explanation frames Blue Book as a Cold War response to public anxiety, possible Soviet technology and mass reporting. Civilians were given packets asking where they were, how the object moved, what it sounded like and even space to draw it. That standardisation is one reason Maryland cases can still be discussed with more precision than ordinary folklore, but it also reminds us that the system depended heavily on human reports and variable follow-up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/Maryland_1ac107_project_blue_book_ma_b153dc-Illustration-1-light.svg" | relative_url }}" alt="Blue Book Records illustration 1" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_project_blue_book_ma_b153dc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_project_blue_book_ma_b153dc-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Loch Raven shows what an “unknown” could preserve
 
 The Loch Raven Reservoir case is the clearest Maryland example of how Blue Book shaped later UFO history. On 26 October 1958, Phillip Small and Alvin Cohen reportedly saw a large, flat, egg-shaped object over a bridge near Loch Raven Dam. Later summaries of the Blue Book-era material describe the car’s electrical system failing as they approached, a brilliant flash, a loud noise, heat felt by the witnesses, and the object rising quickly before disappearing. UFO researcher Brad Sparks’s catalogue lists the case as Project Blue Book case 6148 and places it among the programme’s “unknowns”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span></span></span>
@@ -294,9 +291,7 @@ Yet the Blue Book label should be read carefully. “Unknown” preserved the ca
 
 This distinction also helps explain why Loch Raven works well as a bridge between Maryland’s local UFO culture and national archives. A purely local legend can become exaggerated over time. A federal case file can become over-interpreted too, but it gives later readers a firmer starting point: date, place, classification, reported effects and a record of how the authorities treated it.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hdH3h_Wa6gE" title="Project Blue Book Sneak Peek: The True Story Behind the Government&#x27;s UFO Investigation - IGN First" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hdH3h_Wa6gE" target="_blank" rel="noopener noreferrer">Project Blue Book Sneak Peek: The True Story Behind the Government&#x27;s UFO Investigation - IGN First</a></p><p class="youtube-embed-meta">Channel: IGN &middot; Views: 413.4K &middot; Uploaded: September 2018 &middot; Length: 1 minute 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hdH3h_Wa6gE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hdH3h_Wa6gE">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Maryland_1ac107_project_blue_book_ma_b153dc-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book Records illustration 1" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_project_blue_book_ma_b153dc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_project_blue_book_ma_b153dc-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## “Unidentified” was a category, not a verdict of alien origin
 
 The most common misunderstanding about Project Blue Book is the idea that “unidentified” means “proved beyond ordinary explanation”. In practice, it was a classification reached after the available evidence failed to support a satisfactory identification. That could be because the report was impressive, but it could also be because key details were missing. The Air Force’s own conclusion explicitly separated the unresolved category from claims of advanced technology or extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
@@ -307,8 +302,6 @@ Blue Book’s structure also affects how Maryland sightings should be ranked. A 
 
 The Air Force closure statements also show why federal review can frustrate UFO enthusiasts. Once a case was filed as unidentified, the programme did not necessarily turn it into a deep scientific research project. J. Allen Hynek, the astronomer associated with Air Force UFO work, later criticised aspects of Blue Book’s methods and argued that “unknowns” should have been the beginning of serious inquiry rather than the end of administrative classification. That criticism is relevant to Maryland because Loch Raven’s enduring appeal partly comes from the feeling that the file was classified but not fully resolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/the-ufo-experience-evidence-behind-close-encounters-project-blue-book-and-the-search-for-answers-9781590033081-9781633412903-1590033086-q-4845629.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/Maryland_1ac107_project_blue_book_ma_b153dc-Illustration-2-light.svg" | relative_url }}" alt="Blue Book Records illustration 2" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_project_blue_book_ma_b153dc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_project_blue_book_ma_b153dc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Maryland’s federal setting made official review especially important
 
 Maryland is not just another state in UFO history. It sits beside Washington, DC, contains major aviation corridors, military and government facilities, and has coastal and Chesapeake Bay environments where lights, aircraft, ships, weather and reflections can be difficult to interpret. That geography gives federal review a special role: unusual reports in or near Maryland could raise questions about airspace, military awareness and public reassurance as much as about mystery objects.
@@ -319,9 +312,7 @@ This regional context should not be used to make every Maryland report sound mor
 
 For Loch Raven, the location north of Baltimore and the alleged vehicle interference make it a classic “close encounter” case rather than a radar-airspace case. For other Maryland reports, especially in the Baltimore-Washington corridor, the aviation environment may be more important than the strangeness of the witness description. Federal review helps separate a memorable story from a tested case.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.3K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Maryland_1ac107_project_blue_book_ma_b153dc-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book Records illustration 2" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_project_blue_book_ma_b153dc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_project_blue_book_ma_b153dc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Modern AARO reviews echo Blue Book’s caution, with different tools
 
 Modern federal UAP review is not simply Project Blue Book revived under a new name. The All-domain Anomaly Resolution Office, or AARO, was created in a different security and sensor environment, with attention to air, space, sea and possible cross-domain observations. Its historical report says it reviewed official US government investigatory efforts since 1945, researched classified and unclassified archives, conducted interviews, and worked with intelligence and defence officials. It describes the recurring government concern as whether UAP represent flight-safety risks, competitor technology, or evidence of off-world technology under intelligent control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
@@ -332,14 +323,12 @@ The 2021 Office of the Director of National Intelligence preliminary assessment 
 
 AARO’s public case imagery page also shows how current review can resolve some cases while leaving others open for prosaic reasons. Some posted cases are assessed as balloons or birds with high confidence; others remain unresolved because the data are insufficient to determine performance, origin or even whether a heat signature comes from a physical source or a sensor/environmental effect. That is a useful model for reading Maryland history: “unresolved” can mean “interesting but underdetermined”, not “confirmed exotic”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_at_Annual_Transportation_Research_Board-January_11_2023_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">AARO Brief at Annual Transportation Research Board January 11 2023 508</span><span class="citation-popover-snippet">AARO Brief at Annual Transportation Research Board January 11 2023 508</span></span></span>
 
-
-<img src="{{ "/assets/images/Maryland_1ac107_project_blue_book_ma_b153dc-Illustration-3-light.svg" | relative_url }}" alt="Blue Book Records illustration 3" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_project_blue_book_ma_b153dc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_project_blue_book_ma_b153dc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maryland_1ac107_project_blue_book_ma_b153dc-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book Records illustration 3" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_project_blue_book_ma_b153dc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_project_blue_book_ma_b153dc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How federal records should guide Maryland UFO research
 
 The best use of Project Blue Book in Maryland is as a sorting tool, not a belief system. It helps readers distinguish between cases with a federal paper trail and cases known only from later retellings. It also gives a vocabulary for uncertainty: identified, probably identified, insufficient information, and unidentified. Those categories are less exciting than “real” or “fake”, but they are much more useful.
 
 A careful Maryland UFO reader can apply five practical tests:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -353,8 +342,7 @@ A careful Maryland UFO reader can apply five practical tests:
 
 On those tests, Loch Raven remains one of Maryland’s most important UFO cases, but its importance is historical and evidential rather than conclusive. It is a strong example of how a local report entered the federal system, how an “unknown” label preserved public interest, and how later researchers could keep debating the case. It is not strong enough to prove a non-human craft over Baltimore County.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1cO5K1np2Ig" title="Project Blue Book Exposed (2020) [Documentary]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer">Project Blue Book Exposed (2020) [Documentary]</a></p><p class="youtube-embed-meta">Channel: CiNENET - Full movies in English &middot; Views: 16.8K &middot; Uploaded: January 2025 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1cO5K1np2Ig">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hdH3h_Wa6gE" title="Project Blue Book Sneak Peek: The True Story Behind the Government&#x27;s UFO Investigation - IGN First" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hdH3h_Wa6gE" target="_blank" rel="noopener noreferrer">Project Blue Book Sneak Peek: The True Story Behind the Government&#x27;s UFO Investigation - IGN First</a></p><p class="youtube-embed-meta">Channel: IGN &middot; Views: 413.4K &middot; Uploaded: September 2018 &middot; Length: 1 minute 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hdH3h_Wa6gE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hdH3h_Wa6gE">Open on YouTube</a></p></div></div></div>
 
 ## What Blue Book still changes about Maryland’s UFO story
 
@@ -450,7 +438,7 @@ For Maryland, that is the real value of federal review. It keeps the state’s U
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -460,111 +448,36 @@ For Maryland, that is the real value of federal review. It keeps the state’s U
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed."><img src="https://i.ebayimg.com/images/g/GWYAAeSwgidpwAEt/s-l225.jpg" alt="Listing image for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -572,15 +485,15 @@ For Maryland, that is the real value of federal review. It keeps the state’s U
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/MykAAOSwkRVk5Rd3/s-l225.jpg" alt="Listing image for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -588,15 +501,15 @@ For Maryland, that is the real value of federal review. It keeps the state’s U
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/HvAAAOSw08Vk5SIm/s-l225.jpg" alt="Listing image for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -604,15 +517,15 @@ For Maryland, that is the real value of federal review. It keeps the state’s U
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55"><img src="https://i.ebayimg.com/images/g/2G0AAOSwjIpgTIcl/s-l225.jpg" alt="Listing image for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -620,7 +533,7 @@ For Maryland, that is the real value of federal review. It keeps the state’s U
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-records-how-project-blue-book-shaped-maryland-ufo-history-maryland-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-shaped-maryland-ufo-history-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -697,17 +610,31 @@ For Maryland, that is the real value of federal review. It keeps the state’s U
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -720,42 +647,73 @@ For Maryland, that is the real value of federal review. It keeps the state’s U
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -770,12 +728,17 @@ For Maryland, that is the real value of federal review. It keeps the state’s U
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -786,184 +749,184 @@ For Maryland, that is the real value of federal review. It keeps the state’s U
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 2. <a id="endnote-2"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: prologue.blogs.archives.gov  
-   Link: [https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/](https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
 
 4. <a id="endnote-4"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/the-ufo-experience-evidence-behind-close-encounters-project-blue-book-and-the-search-for-answers-9781590033081-9781633412903-1590033086-q-4845629.html](https://dokumen.pub/the-ufo-experience-evidence-behind-close-encounters-project-blue-book-and-the-search-for-answers-9781590033081-9781633412903-1590033086-q-4845629.html)  
+   Link: <a href="https://dokumen.pub/the-ufo-experience-evidence-behind-close-encounters-project-blue-book-and-the-search-for-answers-9781590033081-9781633412903-1590033086-q-4845629.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-ufo-experience-evidence-behind-close-encounters-project-blue-book-and-the-search-for-answers-9781590033081-9781633412903-1590033086-q-4845629.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
    Title: Unclassified Final DSD AARO Historical Report  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: dni.gov  
    Title: Director of National Intelligence  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
    Title: AARO Brief at Annual Transportation Research Board January 11 2023 508  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_at_Annual_Transportation_Research_Board-January_11_2023_508.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_at_Annual_Transportation_Research_Board-January_11_2023_508.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_at_Annual_Transportation_Research_Board-January_11_2023_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_at_Annual_Transportation_Research_Board-January_11_2023_508.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf](https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 12. <a id="endnote-12"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: project blue book looking to the film record  
-   Link: [https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/](https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/</a>  
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download](https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download)  
+   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
 
 15. <a id="endnote-15"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: [https://unwritten-record.blogs.archives.gov/2013/09/](https://unwritten-record.blogs.archives.gov/2013/09/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/09/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/09/</a>  
 
 16. <a id="endnote-16"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf](https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf)  
+   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: [https://unwritten-record.blogs.archives.gov/page/69/](https://unwritten-record.blogs.archives.gov/page/69/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/page/69/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/page/69/</a>  
 
 18. <a id="endnote-18"></a>
    Source: prologue.blogs.archives.gov  
    Title: ufos natural explanations  
-   Link: [https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/](https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
 
 19. <a id="endnote-19"></a>
    Source: archives.gov  
    Title: 1977 annual report  
-   Link: [https://www.archives.gov/files/about/history/sources/reports/1977-annual-report.pdf](https://www.archives.gov/files/about/history/sources/reports/1977-annual-report.pdf)  
+   Link: <a href="https://www.archives.gov/files/about/history/sources/reports/1977-annual-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/about/history/sources/reports/1977-annual-report.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: archives.gov  
    Title: presidential libraries  
-   Link: [https://www.archives.gov/research/topics/uaps/presidential-libraries](https://www.archives.gov/research/topics/uaps/presidential-libraries)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
 
 21. <a id="endnote-21"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 22. <a id="endnote-22"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/news/articles](https://www.archives.gov/news/articles)  
+   Link: <a href="https://www.archives.gov/news/articles" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles</a>  
 
 23. <a id="endnote-23"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 24. <a id="endnote-24"></a>
    Source: history.navy.mil  
    Title: u2s ufos and operation blue book  
-   Link: [https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html](https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html)  
+   Link: <a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
 
 25. <a id="endnote-25"></a>
    Source: isaackoi.com  
    Title: 19581026 loch raven dam incident  
-   Link: [https://isaackoi.com/ufo-history/ufo/19581026-loch-raven-dam-incident/](https://isaackoi.com/ufo-history/ufo/19581026-loch-raven-dam-incident/)  
+   Link: <a href="https://isaackoi.com/ufo-history/ufo/19581026-loch-raven-dam-incident/" target="_blank" rel="noopener noreferrer nofollow">https://isaackoi.com/ufo-history/ufo/19581026-loch-raven-dam-incident/</a>  
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Loch Raven Reservoir  
-   Link: [https://en.wikipedia.org/wiki/Loch_Raven_Reservoir](https://en.wikipedia.org/wiki/Loch_Raven_Reservoir)  
+   Link: <a href="https://en.wikipedia.org/wiki/Loch_Raven_Reservoir" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch_Raven_Reservoir</a>  
 
 27. <a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 28. <a id="endnote-28"></a>
    Source: mapuap.com  
-   Link: [https://mapuap.com/sightings/maryland](https://mapuap.com/sightings/maryland)  
+   Link: <a href="https://mapuap.com/sightings/maryland" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sightings/maryland</a>  
 
 29. <a id="endnote-29"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 30. <a id="endnote-30"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: [https://origins.osu.edu/read/air-force-investigation-ufos](https://origins.osu.edu/read/air-force-investigation-ufos)  
+   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
 
 32. <a id="endnote-32"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 33. <a id="endnote-33"></a>
    Source: greydynamics.com  
-   Link: [https://greydynamics.com/all-domain-anomaly-resolution-office-pentagons-alien-hunters/](https://greydynamics.com/all-domain-anomaly-resolution-office-pentagons-alien-hunters/)  
+   Link: <a href="https://greydynamics.com/all-domain-anomaly-resolution-office-pentagons-alien-hunters/" target="_blank" rel="noopener noreferrer nofollow">https://greydynamics.com/all-domain-anomaly-resolution-office-pentagons-alien-hunters/</a>  
 
 34. <a id="endnote-34"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf](https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/](https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
 
 36. <a id="endnote-36"></a>
    Source: amazon.ca  
-   Link: [https://www.amazon.ca/Into-Mike-John/dp/B0GD2851CH](https://www.amazon.ca/Into-Mike-John/dp/B0GD2851CH)  
+   Link: <a href="https://www.amazon.ca/Into-Mike-John/dp/B0GD2851CH" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.ca/Into-Mike-John/dp/B0GD2851CH</a>  
 
 37. <a id="endnote-37"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/AstroCosmoNews/posts/3169113986727486/](https://www.facebook.com/groups/AstroCosmoNews/posts/3169113986727486/)  
+   Link: <a href="https://www.facebook.com/groups/AstroCosmoNews/posts/3169113986727486/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/AstroCosmoNews/posts/3169113986727486/</a>  
 
 39. <a id="endnote-39"></a>
    Source: studylib.net  
-   Link: [https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns](https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns)  
+   Link: <a href="https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns" target="_blank" rel="noopener noreferrer nofollow">https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns</a>  
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/](https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/)  
+   Link: <a href="https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/</a>

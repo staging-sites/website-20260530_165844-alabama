@@ -262,7 +262,7 @@ sibling_links:
   short_title: Michigan UFOs
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Alabama_d1f92d
   title: Alabama UFOs
@@ -277,9 +277,9 @@ sibling_links:
   permalink: /what-keeps-tennessees-ufo-stories-alive/
   short_title: Tennessee UFOs
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Idaho_18334c
   title: Idaho UFOs
   permalink: /what-makes-idaho-a-key-ufo-hotspot/
@@ -289,9 +289,9 @@ sibling_links:
   permalink: /what-makes-indianas-ufo-history-unique/
   short_title: Indiana UFOs
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: South_Carolina_11d001
   title: South Carolina UFOs
   permalink: /what-makes-south-carolinas-ufo-story/
@@ -481,7 +481,6 @@ image: /assets/images/Hawaii_a1be95-overview-social.jpg
 
 The state’s UFO record is still worth examining. Hawaii sits at a strategic crossroads of the Pacific, with military facilities, long over-water flight routes, major observatories, and unusually visible night-sky conditions. That combination makes it a natural place for dramatic reports, but also a place where ordinary objects can look extraordinary when seen over dark ocean, low cloud, mountain ridges, or unfamiliar satellite paths. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lHI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State HI</span><span class="citation-popover-snippet">Reports for State HI</span></span></span>
 
-
 <img src="{{ "/assets/images/Hawaii_a1be95-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Hawaii&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
 ## Why Hawaii produces distinctive UFO reports
 
@@ -495,15 +494,14 @@ That does not mean every report should be dismissed. It means Hawaii sightings n
 
 One of the more striking Hawaii-linked historical cases is the 1952 account involving Secretary of the Navy Dan A. Kimball and a flight between Pearl Harbor and Guam. In contemporary UFO literature, the story is usually presented as a military-aviation case: Kimball was reportedly travelling at night across the Pacific, with another aircraft trailing behind, when the crew of his plane saw a “flying saucer” appear, fly near the aircraft, race ahead, and climb out of sight. According to a 1952 press account reproduced by Project 1947, a second aircraft in the party then radioed that a similar object had flown near its wingtip before disappearing upward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1952a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The case matters because of who was allegedly involved. Kimball was not an anonymous witness, and the account places the sighting in a military aviation context over the Pacific rather than in a casual backyard setting. UFO researchers later connected the story with Admiral Arthur Radford and with Navy interest in reports that may not have fitted neatly into Air Force [Project Blue Book]({{ 'blue-book-6b1d39/' | relative_url }}) channels. NICAP’s case page, however, marks the date as uncertain, gives “March 14 (?) 1952”, and notes the route as between Pearl Harbor and Guam rather than a confirmed point over the Hawaiian Islands themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/520314hawaii_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">520314hawaii dir</span><span class="citation-popover-snippet">520314hawaii dir</span></span></span>
+The case matters because of who was allegedly involved. Kimball was not an anonymous witness, and the account places the sighting in a military aviation context over the Pacific rather than in a casual backyard setting. UFO researchers later connected the story with Admiral Arthur Radford and with Navy interest in reports that may not have fitted neatly into Air Force Project [Blue Book]({{ 'blue-book-6b1d39/' | relative_url }}) channels. NICAP’s case page, however, marks the date as uncertain, gives “March 14 (?) 1952”, and notes the route as between Pearl Harbor and Guam rather than a confirmed point over the Hawaiian Islands themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/520314hawaii_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">520314hawaii dir</span><span class="citation-popover-snippet">520314hawaii dir</span></span></span>
 
 That uncertainty is the main caution. The case is vivid, but much of the public trail runs through newspaper retellings, later UFO researchers, and secondary compilations rather than a clean, easily inspected official case file with radar data, crew statements, and a settled chronology. It belongs in Hawaii’s UFO history because Pearl Harbor and the Pacific route are central to the story, but it should not be treated as a proven encounter. It is better understood as a notable, high-status, partly documented claim that remains historically interesting and evidentially incomplete.
 
-
-<img src="{{ "/assets/images/Hawaii_a1be95-Illustration-1-light.svg" | relative_url }}" alt="What Really Happened in Hawaii&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Hawaii_a1be95-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Hawaii&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Project Blue Book gives Hawaii a national frame, but not a simple answer
 
-For Hawaii, Project [Blue Book]({{ 'blue-book-6b1d39/' | relative_url }}) is less a single local story than the official framework through which mid-century American UFO reports were channelled. The National Archives states that Project Blue Book’s records are declassified and available for examination, including chronological case files and finding aids by date and location. The Air Force fact sheet reproduced by the Archives says the programme received 12,618 UFO reports from 1947 to 1969, of which 701 remained “Unidentified”. It also states that no investigated UFO was found to represent a national-security threat, advanced technology beyond scientific knowledge, or extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+For Hawaii, Project Blue Book is less a single local story than the official framework through which mid-century American UFO reports were channelled. The National Archives states that Project Blue Book’s records are declassified and available for examination, including chronological case files and finding aids by date and location. The Air Force fact sheet reproduced by the Archives says the programme received 12,618 UFO reports from 1947 to 1969, of which 701 remained “Unidentified”. It also states that no investigated UFO was found to represent a national-security threat, advanced technology beyond scientific knowledge, or extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 That official conclusion does not make the archive useless. For a Hawaii page, it is important because it sets the standard for what “unidentified” meant in the Air Force context. It did not mean “alien”; it meant that a case could not be confidently matched to a known explanation with the information available. Conversely, a case marked explained was only as strong as the investigation behind it. The National Archives also makes clear that Project Blue Book closed in 1969 and that its personnel no longer receive or investigate UFO reports, so later Hawaii incidents fall outside that historical Air Force process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
@@ -515,10 +513,9 @@ The best-known recent Hawaii UFO story is the blue object reported over Leeward 
 
 This case spread because it had the ingredients modern UFO stories need: multiple witnesses, phone video, a dramatic colour, a possible ocean entry, police contact, and an official “no aircraft incident” statement. It was not just a vague light in the sky; it was a local news event with named locations and a follow-up question for aviation authorities. That makes it more useful than many anonymous reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hawaiinewsnow.com/2019/11/14/strange-lights-returned-hawaii-skies-along-with-an-explanation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hawaiinewsnow.com">[https://www.hawaiinewsnow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hawaiinewsnow.com</span><span class="citation-popover-snippet">Open source on hawaiinewsnow.com.</span></span></span>
 
-The sceptical reading is also substantial. Kenny Biddle’s analysis in Skeptical Inquirer argued that the widely shared footage was actually two videos cut together, with the first shot near Haleakala Avenue and Farrington Highway and the second showing the light after it had apparently reached the water. Biddle suggested the object looked motionless or gently floating in parts of the footage and explored the possibility of illuminated balloons, possibly several strung together, descending after losing lift. He did not prove that explanation beyond doubt, but he showed why “no aircraft accident” does not automatically mean “unknown craft”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/hawaiian-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer Hawaiian ‘UFO’ Sighting | Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer Hawaiian ‘UFO’ Sighting | Skeptical Inquirer</span></span></span>
+The sceptical reading is also substantial. Kenny Biddle’s analysis in Skeptical Inquirer argued that the widely shared footage was actually two videos cut together, with the first shot near Haleakala Avenue and Farrington Highway and the second showing the light after it had apparently reached the water. Biddle suggested the object looked motionless or gently floating in parts of the footage and explored the possibility of illuminated balloons, possibly several strung together, descending after losing lift. He did not prove that explanation beyond doubt, but he showed why “no aircraft accident” does not automatically mean “unknown craft”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/hawaiian-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer Hawaiian ‘UFO’ Sighting &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer Hawaiian ‘UFO’ Sighting &#124; Skeptical Inquirer</span></span></span>
 
 The balanced assessment is that the [Oahu blue object]({{ 'oahu-blue-object/' | relative_url }}) remains a genuinely interesting public sighting, not a settled extraordinary event. The best evidence is the local reporting, multiple witnesses, video clips, and FAA statement about no known aircraft accident. The main doubts are the short footage, uncertain distance and scale, lack of radar or recovery evidence in the public record, and plausible balloon-like behaviour. It is unresolved in the popular sense, but not strong evidence for anything beyond an unidentified lighted object.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U19MCY5npZY" title="UFO Recorded in Hawaii Dec 30 - Witnessed By Multiple Sources" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U19MCY5npZY" target="_blank" rel="noopener noreferrer">UFO Recorded in Hawaii Dec 30 - Witnessed By Multiple Sources</a></p><p class="youtube-embed-meta">Channel: THE HANNIBAL TV &middot; Views: 259.1K &middot; Uploaded: January 2021 &middot; Length: 4 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U19MCY5npZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U19MCY5npZY">Open on YouTube</a></p></div></div></div>
 
@@ -534,15 +531,14 @@ Later that month, the same Maunakea camera captured pulsing green laser light. S
 
 These explained events should not be treated as embarrassments to UFO history. They are part of the history. They show why Hawaii’s skywatching environment is unusually productive: clear skies, observatory cameras, military and civilian aviation, satellite constellations, and rocket activity all create visual events that can look unfamiliar even to careful witnesses.
 
-
-<img src="{{ "/assets/images/Hawaii_a1be95-Illustration-2-light.svg" | relative_url }}" alt="What Really Happened in Hawaii&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Hawaii_a1be95-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Hawaii&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What public databases show — and what they cannot prove
 
 NUFORC’s Hawaii index is a useful map of reported experiences, not a verified catalogue of unknown craft. The listing includes reports from the mid-1990s onwards as well as older events submitted later: triangular objects near Makapuu Point and Kaneohe, disk reports from Waikiki and Manoa Valley, fireballs over Kilauea and Honolulu, light formations over Diamond Head, and military-area reports such as Schofield Barracks. Some entries carry possible explanations, such as a “possible satellite” note on moving-star reports from Keaau in 2004. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=11942" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 This pattern is exactly what a reader should expect from a broad self-reporting database. It contains intriguing witness language, but the evidential quality varies sharply. A report from one person years after the event is not the same as a same-night multi-witness case with video, independent media contact, aviation checks, and physical follow-up. A database entry can help identify clusters and recurring descriptions, but it cannot by itself establish that a sighting was extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=79219" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-Stacker’s 2025 Hawaii ranking, based on NUFORC data since 1995, also underlines a useful point: reported sightings tend to cluster where people are present and looking up, not necessarily where unknown objects are more common. Honolulu’s prominence in public reporting may reflect population, tourism, flight paths, and visibility as much as anything anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/hawaii/cities-most-ufo-sightings-hawaii" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Hawaii | Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Hawaii | Stacker</span></span></span>
+Stacker’s 2025 Hawaii ranking, based on NUFORC data since 1995, also underlines a useful point: reported sightings tend to cluster where people are present and looking up, not necessarily where unknown objects are more common. Honolulu’s prominence in public reporting may reflect population, tourism, flight paths, and visibility as much as anything anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/hawaii/cities-most-ufo-sightings-hawaii" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Hawaii &#124; Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Hawaii &#124; Stacker</span></span></span>
 
 ## Military and aviation links are important, but easy to overstate
 
@@ -551,7 +547,6 @@ Hawaii’s military geography gives UFO claims an obvious hook. Pearl Harbor, Sc
 But military proximity is not proof of an extraordinary object. It can cut both ways. On one hand, pilots, radar operators, and service members may be trained observers with access to useful context. On the other, military regions are exactly where aircraft, exercises, flares, drones, classified tests, balloons, satellites, and restricted information can complicate public interpretation. The official Blue Book position was that no investigated UFO showed evidence of a national-security threat or extraterrestrial vehicle, while modern AARO reporting continues to stress data quality and sensor limitations as major barriers to resolution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 The best approach is therefore not to treat “near a base” as a trump card. It is a reason to ask better questions: Was there radar? Were aircraft operating? Was the observation logged immediately? Were there multiple independent witnesses? Was the object seen from more than one location? Did any official agency release a conclusion? Without those details, the military setting makes a case more interesting, not necessarily stronger.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4jGBpIsRLR8" title="&quot;Mysterious&quot; spiral appears in night sky over Hawaii" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4jGBpIsRLR8" target="_blank" rel="noopener noreferrer">&quot;Mysterious&quot; spiral appears in night sky over Hawaii</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 991.7K &middot; Uploaded: January 2023 &middot; Length: 1 minute 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4jGBpIsRLR8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4jGBpIsRLR8">Open on YouTube</a></p></div></div></div>
 
@@ -563,7 +558,6 @@ A weak case usually lacks one or more basics: no exact time, no direction, no du
 
 A debunked or plausibly explained case is still useful if the explanation fits the observation better than the exotic claim. Starlink trains explain many strings of lights. Rocket fuel venting explains some spirals and expanding clouds. Satellite lidar explains brief green laser sweeps. Balloons may explain slow, silent, illuminated objects that drift or descend. Meteors and re-entering debris can explain fast fireballs, flashes and trails, especially when multiple reports occur at the same time across a broad area. [subarutelescope.org+3https://www.hawaiinewsnow.com+3https://www.hawaiinewsnow.com]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JcZdpjZplhA" title="Bright blue UFO seen crashing into ocean near Hawaii prompts calls to 911, FAA | ABC7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JcZdpjZplhA" target="_blank" rel="noopener noreferrer">Bright blue UFO seen crashing into ocean near Hawaii prompts calls to 911, FAA | ABC7</a></p><p class="youtube-embed-meta">Channel: ABC7 &middot; Views: 2.1M &middot; Uploaded: January 2021 &middot; Length: 2 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JcZdpjZplhA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JcZdpjZplhA">Open on YouTube</a></p></div></div></div>
 
 ## What Hawaii’s UFO record really shows
@@ -572,8 +566,7 @@ Hawaii’s UFO history is strongest when read as a record of contested observati
 
 The evidence does not support a confident claim that Hawaii has hosted extraterrestrial craft. It does support a more careful conclusion: Hawaii is a high-quality setting for UFO perception, reporting and misinterpretation, with a small number of cases that remain interesting because they involve multiple witnesses, aviation context, or unusual public documentation. The most honest state-level history keeps those categories separate — unresolved, weak, explained, and historically notable — rather than turning every strange light over the Pacific into the same story.
 
-
-<img src="{{ "/assets/images/Hawaii_a1be95-Illustration-3-light.svg" | relative_url }}" alt="What Really Happened in Hawaii&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Hawaii_a1be95-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Hawaii&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -661,7 +654,7 @@ The evidence does not support a confident claim that Hawaii has hosted extraterr
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -671,111 +664,36 @@ The evidence does not support a confident claim that Hawaii has hosted extraterr
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaii-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-hawaii-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaii-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-hawaii-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaii-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-hawaii-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaii-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-hawaii-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -783,15 +701,15 @@ The evidence does not support a confident claim that Hawaii has hosted extraterr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaii-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-hawaii-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaii-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-hawaii-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaii-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-hawaii-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaii-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-hawaii-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -799,15 +717,15 @@ The evidence does not support a confident claim that Hawaii has hosted extraterr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaii-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-hawaii-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaii-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-hawaii-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaii-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-hawaii-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaii-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-hawaii-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -815,15 +733,15 @@ The evidence does not support a confident claim that Hawaii has hosted extraterr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaii-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-hawaii-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaii-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-hawaii-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaii-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-hawaii-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaii-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-hawaii-s-ufo-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -831,7 +749,7 @@ The evidence does not support a confident claim that Hawaii has hosted extraterr
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaiis-ufo-what-really-happened-in-hawaii-s-ufo-stories-hawaii-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-hawaii-s-ufo-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-hawaii-s-ufo-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -908,17 +826,31 @@ The evidence does not support a confident claim that Hawaii has hosted extraterr
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -931,42 +863,73 @@ The evidence does not support a confident claim that Hawaii has hosted extraterr
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -981,12 +944,17 @@ The evidence does not support a confident claim that Hawaii has hosted extraterr
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -997,215 +965,215 @@ The evidence does not support a confident claim that Hawaii has hosted extraterr
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 2. <a id="endnote-2"></a>
    Source: hawaiinewsnow.com  
-   Link: [https://www.hawaiinewsnow.com/2020/12/31/faa-notified-after-mysterious-ufo-seen-above-oahu-appeared-drop-into-ocean/](https://www.hawaiinewsnow.com/2020/12/31/faa-notified-after-mysterious-ufo-seen-above-oahu-appeared-drop-into-ocean/)  
+   Link: <a href="https://www.hawaiinewsnow.com/2020/12/31/faa-notified-after-mysterious-ufo-seen-above-oahu-appeared-drop-into-ocean/" target="_blank" rel="noopener noreferrer nofollow">https://www.hawaiinewsnow.com/2020/12/31/faa-notified-after-mysterious-ufo-seen-above-oahu-appeared-drop-into-ocean/</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Reports for State HI  
-   Link: [https://nuforc.org/subndx/?id=lHI](https://nuforc.org/subndx/?id=lHI)  
+   Link: <a href="https://nuforc.org/subndx/?id=lHI" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lHI</a>  
 
 4. <a id="endnote-4"></a>
    Source: tpr.org  
-   Link: [https://www.tpr.org/2023-01-31/a-mysterious-flying-spiral-above-hawaiian-night-sky-likely-caused-by-spacex-launch](https://www.tpr.org/2023-01-31/a-mysterious-flying-spiral-above-hawaiian-night-sky-likely-caused-by-spacex-launch)  
+   Link: <a href="https://www.tpr.org/2023-01-31/a-mysterious-flying-spiral-above-hawaiian-night-sky-likely-caused-by-spacex-launch" target="_blank" rel="noopener noreferrer nofollow">https://www.tpr.org/2023-01-31/a-mysterious-flying-spiral-above-hawaiian-night-sky-likely-caused-by-spacex-launch</a>  
 
 5. <a id="endnote-5"></a>
    Source: subarutelescope.org  
-   Link: [https://subarutelescope.org/en/news/topics/2023/02/15/3233.html](https://subarutelescope.org/en/news/topics/2023/02/15/3233.html)  
+   Link: <a href="https://subarutelescope.org/en/news/topics/2023/02/15/3233.html" target="_blank" rel="noopener noreferrer nofollow">https://subarutelescope.org/en/news/topics/2023/02/15/3233.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: project1947.com  
-   Link: [https://www.project1947.com/fig/1952a.htm](https://www.project1947.com/fig/1952a.htm)  
+   Link: <a href="https://www.project1947.com/fig/1952a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/1952a.htm</a>  
 
 7. <a id="endnote-7"></a>
    Source: nicap.org  
    Title: 520314hawaii dir  
-   Link: [https://www.nicap.org/520314hawaii_dir.htm](https://www.nicap.org/520314hawaii_dir.htm)  
+   Link: <a href="https://www.nicap.org/520314hawaii_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/520314hawaii_dir.htm</a>  
 
 8. <a id="endnote-8"></a>
    Source: nicap.org  
    Title: kimball swords  
-   Link: [https://www.nicap.org/reports/kimball_swords.htm](https://www.nicap.org/reports/kimball_swords.htm)  
+   Link: <a href="https://www.nicap.org/reports/kimball_swords.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/kimball_swords.htm</a>  
 
 9. <a id="endnote-9"></a>
    Source: hawaiinewsnow.com  
-   Link: [https://www.hawaiinewsnow.com/2019/11/14/strange-lights-returned-hawaii-skies-along-with-an-explanation/](https://www.hawaiinewsnow.com/2019/11/14/strange-lights-returned-hawaii-skies-along-with-an-explanation/)  
+   Link: <a href="https://www.hawaiinewsnow.com/2019/11/14/strange-lights-returned-hawaii-skies-along-with-an-explanation/" target="_blank" rel="noopener noreferrer nofollow">https://www.hawaiinewsnow.com/2019/11/14/strange-lights-returned-hawaii-skies-along-with-an-explanation/</a>  
 
 10. <a id="endnote-10"></a>
    Source: hawaiinewsnow.com  
-   Link: [https://www.hawaiinewsnow.com/2020/02/05/string-lights-was-seen-over-hawaii-skies-heres-what-it-was/](https://www.hawaiinewsnow.com/2020/02/05/string-lights-was-seen-over-hawaii-skies-heres-what-it-was/)  
+   Link: <a href="https://www.hawaiinewsnow.com/2020/02/05/string-lights-was-seen-over-hawaii-skies-heres-what-it-was/" target="_blank" rel="noopener noreferrer nofollow">https://www.hawaiinewsnow.com/2020/02/05/string-lights-was-seen-over-hawaii-skies-heres-what-it-was/</a>  
 
 11. <a id="endnote-11"></a>
    Source: stacker.com  
    Title: Cities With the Most UFO Sightings in Hawaii | Stacker  
-   Link: [https://stacker.com/stories/hawaii/cities-most-ufo-sightings-hawaii](https://stacker.com/stories/hawaii/cities-most-ufo-sightings-hawaii)  
+   Link: <a href="https://stacker.com/stories/hawaii/cities-most-ufo-sightings-hawaii" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/hawaii/cities-most-ufo-sightings-hawaii</a>  
 
 12. <a id="endnote-12"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1952NEW.htm](https://www.nicap.org/chronos/1952NEW.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1952NEW.htm</a>  
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-1423.pdf](https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-1423.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-1423.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-1423.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 16. <a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 17. <a id="endnote-17"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf](https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Submit-A-Report/](https://www.aaro.mil/Submit-A-Report/)  
+   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=163458](https://nuforc.org/sighting/?id=163458)  
+   Link: <a href="https://nuforc.org/sighting/?id=163458" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=163458</a>  
 
 20. <a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=151656](https://nuforc.org/sighting/?id=151656)  
+   Link: <a href="https://nuforc.org/sighting/?id=151656" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=151656</a>  
 
 21. <a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=11942](https://nuforc.org/sighting/?id=11942)  
+   Link: <a href="https://nuforc.org/sighting/?id=11942" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=11942</a>  
 
 22. <a id="endnote-22"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=79219](https://nuforc.org/sighting/?id=79219)  
+   Link: <a href="https://nuforc.org/sighting/?id=79219" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=79219</a>  
 
 23. <a id="endnote-23"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=190737](https://nuforc.org/sighting/?id=190737)  
+   Link: <a href="https://nuforc.org/sighting/?id=190737" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190737</a>  
 
 24. <a id="endnote-24"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=175258](https://nuforc.org/sighting/?id=175258)  
+   Link: <a href="https://nuforc.org/sighting/?id=175258" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=175258</a>  
 
 25. <a id="endnote-25"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=190910](https://nuforc.org/sighting/?id=190910)  
+   Link: <a href="https://nuforc.org/sighting/?id=190910" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190910</a>  
 
 26. <a id="endnote-26"></a>
    Source: history.navy.mil  
    Title: u2s ufos and operation blue book  
-   Link: [https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html](https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html)  
+   Link: <a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
 
 27. <a id="endnote-27"></a>
    Source: history.navy.mil  
-   Link: [https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html](https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html)  
+   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html</a>  
 
 28. <a id="endnote-28"></a>
    Source: hawaiinewsnow.com  
-   Link: [https://www.hawaiinewsnow.com/video/2020/02/05/line-lights-spotted-over-hawaii-skies-believed-be-spacex-starlink-satellites/](https://www.hawaiinewsnow.com/video/2020/02/05/line-lights-spotted-over-hawaii-skies-believed-be-spacex-starlink-satellites/)  
+   Link: <a href="https://www.hawaiinewsnow.com/video/2020/02/05/line-lights-spotted-over-hawaii-skies-believed-be-spacex-starlink-satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.hawaiinewsnow.com/video/2020/02/05/line-lights-spotted-over-hawaii-skies-believed-be-spacex-starlink-satellites/</a>  
 
 29. <a id="endnote-29"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 30. <a id="endnote-30"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 31. <a id="endnote-31"></a>
    Source: history.com  
-   Link: [https://www.history.com/shows/project-blue-book](https://www.history.com/shows/project-blue-book)  
+   Link: <a href="https://www.history.com/shows/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/project-blue-book</a>  
 
 32. <a id="endnote-32"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: [https://www.history.com/articles/project-blue-book](https://www.history.com/articles/project-blue-book)  
+   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
 
 33. <a id="endnote-33"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/newsroom/statements/accident_incidents](https://www.faa.gov/newsroom/statements/accident_incidents)  
+   Link: <a href="https://www.faa.gov/newsroom/statements/accident_incidents" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/statements/accident_incidents</a>  
 
 34. <a id="endnote-34"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer Hawaiian ‘UFO’ Sighting | Skeptical Inquirer  
-   Link: [https://skepticalinquirer.org/exclusive/hawaiian-ufo-sighting/](https://skepticalinquirer.org/exclusive/hawaiian-ufo-sighting/)  
+   Link: <a href="https://skepticalinquirer.org/exclusive/hawaiian-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/hawaiian-ufo-sighting/</a>  
 
 35. <a id="endnote-35"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 36. <a id="endnote-36"></a>
    Source: blog.fold3.com  
-   Link: [https://blog.fold3.com/author/laura/page/3/](https://blog.fold3.com/author/laura/page/3/)  
+   Link: <a href="https://blog.fold3.com/author/laura/page/3/" target="_blank" rel="noopener noreferrer nofollow">https://blog.fold3.com/author/laura/page/3/</a>  
 
 37. <a id="endnote-37"></a>
    Source: history.uscg.mil  
-   Link: [https://www.history.uscg.mil/research/chronology/](https://www.history.uscg.mil/research/chronology/)  
+   Link: <a href="https://www.history.uscg.mil/research/chronology/" target="_blank" rel="noopener noreferrer nofollow">https://www.history.uscg.mil/research/chronology/</a>  
 
 38. <a id="endnote-38"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 39. <a id="endnote-39"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
    Title: "Mysterious" spiral appears in night sky over Hawaii  
-   Link: [https://www.youtube.com/watch?v=4jGBpIsRLR8](https://www.youtube.com/watch?v=4jGBpIsRLR8)  
+   Link: <a href="https://www.youtube.com/watch?v=4jGBpIsRLR8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4jGBpIsRLR8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious green lights in Kona sky leave astronomers searching for answers...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 42. <a id="endnote-42"></a>
    Source: youtube.com  
    Title: UFO Recorded in Hawaii Dec 30  
-   Link: [https://www.youtube.com/watch?v=U19MCY5npZY](https://www.youtube.com/watch?v=U19MCY5npZY)  
+   Link: <a href="https://www.youtube.com/watch?v=U19MCY5npZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U19MCY5npZY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious flying object alerts military aircraft...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 44. <a id="endnote-44"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/timesofmalta/posts/a-brief-history-of-air-tragedies-and-the-lives-lost-in-the-decades-after-world-w/1288527369990077/](https://www.facebook.com/timesofmalta/posts/a-brief-history-of-air-tragedies-and-the-lives-lost-in-the-decades-after-world-w/1288527369990077/)  
+   Link: <a href="https://www.facebook.com/timesofmalta/posts/a-brief-history-of-air-tragedies-and-the-lives-lost-in-the-decades-after-world-w/1288527369990077/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/timesofmalta/posts/a-brief-history-of-air-tragedies-and-the-lives-lost-in-the-decades-after-world-w/1288527369990077/</a>  
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/trtworld/posts/a-camera-atop-hawaiis-tallest-mountain-has-captured-a-white-orb-swirling-through/570931268402452/](https://www.facebook.com/trtworld/posts/a-camera-atop-hawaiis-tallest-mountain-has-captured-a-white-orb-swirling-through/570931268402452/)  
+   Link: <a href="https://www.facebook.com/trtworld/posts/a-camera-atop-hawaiis-tallest-mountain-has-captured-a-white-orb-swirling-through/570931268402452/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/trtworld/posts/a-camera-atop-hawaiis-tallest-mountain-has-captured-a-white-orb-swirling-through/570931268402452/</a>  
 
 46. <a id="endnote-46"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wavytv10/posts/a-strange-glow-in-the-night-sky-over-hawai%CA%BBi-island-is-raising-eyebrows-and-ques/1425538626286674/](https://www.facebook.com/wavytv10/posts/a-strange-glow-in-the-night-sky-over-hawai%CA%BBi-island-is-raising-eyebrows-and-ques/1425538626286674/)  
+   Link: <a href="https://www.facebook.com/wavytv10/posts/a-strange-glow-in-the-night-sky-over-hawai%CA%BBi-island-is-raising-eyebrows-and-ques/1425538626286674/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wavytv10/posts/a-strange-glow-in-the-night-sky-over-hawai%CA%BBi-island-is-raising-eyebrows-and-ques/1425538626286674/</a>  
 
 47. <a id="endnote-47"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox8news/posts/a-strange-glow-in-the-night-sky-over-hawai%CA%BBi-is-raising-eyebrows-after-a-residen/1506080681115020/](https://www.facebook.com/fox8news/posts/a-strange-glow-in-the-night-sky-over-hawai%CA%BBi-is-raising-eyebrows-after-a-residen/1506080681115020/)  
+   Link: <a href="https://www.facebook.com/fox8news/posts/a-strange-glow-in-the-night-sky-over-hawai%CA%BBi-is-raising-eyebrows-after-a-residen/1506080681115020/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox8news/posts/a-strange-glow-in-the-night-sky-over-hawai%CA%BBi-is-raising-eyebrows-after-a-residen/1506080681115020/</a>  
 
 48. <a id="endnote-48"></a>
    Source: aui.edu  
-   Link: [https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/](https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
 49. <a id="endnote-49"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DXwwDelmukT/](https://www.instagram.com/reel/DXwwDelmukT/)  
+   Link: <a href="https://www.instagram.com/reel/DXwwDelmukT/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXwwDelmukT/</a>

@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /myrtle-beach/
 nav_short_title: Likely Causes
 title: Are Myrtle Beach UFOs just coastal lights?
-title_full: Are Myrtle Beach UFOs just coastal lights? | Myrtle Beach
+title_full: Are Myrtle Beach UFOs just coastal lights?
 display_title_short: Likely Causes
 display_title: Likely Causes
 heading_title: Are Myrtle Beach UFOs just coastal lights?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:12:34'
-parent_title: Are Myrtle Beach UFO Reports Really Unusual? | South Carolina UFOs
+parent_title: Are Myrtle Beach UFO Reports Really Unusual?
 parent_permalink: /myrtle-beach/
 parent_nav_short_title: Myrtle Beach
 parent_heading_title: Are Myrtle Beach UFO Reports Really Unusual?
@@ -252,8 +252,7 @@ image: /assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_coastal_
 
 Many [Myrtle Beach]({{ 'myrtle-beach/' | relative_url }}) UFO reports become less mysterious when viewed through the realities of a busy tourist coastline. The Grand Strand combines commercial aviation, military activity, pleasure boats, fishing vessels, drones and wide, dark ocean views. At night, those ingredients can produce lights that appear to hover, split apart, change colour or vanish completely. What looks extraordinary from a hotel balcony may be an aircraft on approach, a maritime flare drifting under a parachute, or a vessel beyond obvious visual reference points.
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_coastal_lights_expla_94a452-Illustration-1-light.svg" | relative_url }}" alt="Likely Causes illustration 1" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_coastal_lights_expla_94a452-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_coastal_lights_expla_94a452-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_coastal_lights_expla_94a452-Illustration-1-dark.svg" | relative_url }}" alt="Likely Causes illustration 1" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_coastal_lights_expla_94a452-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_coastal_lights_expla_94a452-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That does not mean every report can be explained with certainty. Some accounts are too brief, too poorly documented or too ambiguous for a confident conclusion. However, the recurring pattern of orange or red lights over the Atlantic has led many investigators and sceptics to focus first on ordinary coastal light sources before considering more exotic explanations. In Myrtle Beach, the question is often not whether [witnesses]({{ 'witnesses-e3b4f1/' | relative_url }}) saw a real light, but whether distance, darkness and the ocean horizon disguised what that light actually was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.myrtlebeach.com/blog/ufo-sightings-in-myrtle-beach/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: myrtlebeach.com">[MyrtleBeach.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">myrtlebeach.com</span><span class="citation-popover-title">Myrtle Beach.com UF O Sightings in Myrtle Beach</span><span class="citation-popover-snippet">Orange globe appeared in sky over ocean.. split into 4 in a straight line. Then back to 2. Then...Read more...</span></span></span>
 
 ## How aircraft approach lights can fool viewers
@@ -265,7 +264,6 @@ Landing lights are extremely bright and are designed to be visible from long dis
 The problem is perspective. When an aircraft is flying almost directly toward a witness rather than across their field of view, its sideways movement becomes difficult to perceive. The light appears fixed in one place even though the aircraft is closing the distance rapidly. Witnesses frequently describe such lights as "hovering", "watching" or remaining motionless for long periods before suddenly moving away. Similar discussions appear in aviation communities and eyewitness forums whenever apparently stationary lights are later identified as aircraft on approach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/MyrtleBeach/comments/8xsv4k/unusual_lights_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Unusual lights in the sky: r/MyrtleBeachI was told they are flares used in off-shore nighttime rescue drills. The way they moved and wen...</span></span></span>
 
 The coastal setting amplifies the effect because:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -280,7 +278,6 @@ FAA guidance on visual illusions warns that isolated lights in darkness can appe
 
 This helps explain why many Myrtle Beach reports describe lights that seem stationary, pulse in brightness or suddenly disappear. An aircraft turning away from the observer can cause bright landing lights to vanish almost instantly even though the aircraft remains present.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IY8BHSPhv90" title="Watch Over the Shoulder F-16 Demonstration Flight at the Myrtle Beach Airshow!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IY8BHSPhv90" target="_blank" rel="noopener noreferrer">Watch Over the Shoulder F-16 Demonstration Flight at the Myrtle Beach Airshow!</a></p><p class="youtube-embed-meta">Channel: Afterburn Defense &middot; Views: 43.3M &middot; Uploaded: April 2021 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IY8BHSPhv90" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IY8BHSPhv90">Open on YouTube</a></p></div></div></div>
 
 ## Why maritime flares resemble orange orbs
@@ -290,7 +287,6 @@ Orange "fireballs" and glowing red orbs are among the most common descriptions i
 A flare deployed over water often burns with a warm orange, red or yellow glow. Depending on the type, it may descend slowly under a parachute, creating the impression of a hovering light. Seen from miles away over a dark ocean, the descent can be difficult to detect. Witnesses may instead perceive a bright object hanging in the sky before fading out. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Experiencers/comments/16m1u2l/i_saw_a_plane_stationary_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">I saw a plane, stationary in the sky: r/Experiencers</span><span class="citation-popover-snippet">I live by a major airport, see that phenomenon here and there. It is caused by you driving on the highway in one...Read more...</span></span></span>
 
 Several characteristics repeatedly reported in Myrtle Beach cases fit known flare behaviour:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -308,8 +304,7 @@ Even so, the flare hypothesis remains important because the Carolinas lie near a
 
 The key point is that a flare does not need to look exactly like a flare from close range in order to create a UFO report. At several miles' distance, many of the visual cues that would normally reveal its identity disappear.
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_coastal_lights_expla_94a452-Illustration-2-light.svg" | relative_url }}" alt="Likely Causes illustration 2" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_coastal_lights_expla_94a452-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_coastal_lights_expla_94a452-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_coastal_lights_expla_94a452-Illustration-2-dark.svg" | relative_url }}" alt="Likely Causes illustration 2" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_coastal_lights_expla_94a452-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_coastal_lights_expla_94a452-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What boat, drone and horizon cues hide from witnesses
 
 The ocean removes many of the clues people unconsciously use to judge distance and size. A light over land can often be compared against trees, buildings, roads or terrain. A light over open water frequently cannot.
@@ -324,7 +319,6 @@ Investigators studying famous coastal UFO cases elsewhere have repeatedly propos
 
 The comparison matters because Myrtle Beach witnesses often report distant lights over the Atlantic rather than close encounters with structured objects.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3RlbqOl_4NA" title="UFO spotted by US fighter jet pilots, new footage reveals - BBC News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3RlbqOl_4NA" target="_blank" rel="noopener noreferrer">UFO spotted by US fighter jet pilots, new footage reveals - BBC News</a></p><p class="youtube-embed-meta">Channel: BBC News &middot; Views: 3.7M &middot; Uploaded: December 2017 &middot; Length: 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3RlbqOl_4NA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3RlbqOl_4NA">Open on YouTube</a></p></div></div></div>
 
 ### Drones
@@ -332,7 +326,6 @@ The comparison matters because Myrtle Beach witnesses often report distant light
 Consumer drones add another layer of confusion. Modern drones can carry bright LEDs, hover in place and perform coordinated movements. From a beach at night, it may be impossible to estimate whether a light is a small drone a few hundred metres away or something much larger at a greater distance.
 
 Unlike aircraft, drones can stop, reverse direction and maintain a fixed position. Those capabilities allow them to mimic several behaviours that witnesses traditionally associated with UFO reports.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Vblz0O8YQR4" title="UFO&#x27;s Over Myrtle Beach S.C. - Oct. 24 2012" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Vblz0O8YQR4" target="_blank" rel="noopener noreferrer">UFO&#x27;s Over Myrtle Beach S.C. - Oct. 24 2012</a></p><p class="youtube-embed-meta">Channel: Thatcher Forest Farm &middot; Views: 10.5K &middot; Uploaded: October 2012 &middot; Length: 2 minutes 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Vblz0O8YQR4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Vblz0O8YQR4">Open on YouTube</a></p></div></div></div>
 
@@ -344,15 +337,14 @@ The effect becomes especially strong when observers stare at a single isolated l
 
 In practical terms, a witness can sincerely report that a light moved, hovered or darted when the underlying source remained largely stationary.
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_coastal_lights_expla_94a452-Illustration-3-light.svg" | relative_url }}" alt="Likely Causes illustration 3" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_coastal_lights_expla_94a452-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_coastal_lights_expla_94a452-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_coastal_lights_expla_94a452-Illustration-3-dark.svg" | relative_url }}" alt="Likely Causes illustration 3" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_coastal_lights_expla_94a452-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_coastal_lights_expla_94a452-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why some Myrtle Beach reports still feel strange
 
-The ordinary explanations are persuasive because they match the overall pattern better than a single extraordinary cause. Myrtle Beach reports overwhelmingly involve lights rather than detailed craft descriptions. Orange glows, flashing points, grouped lights and objects over the Atlantic are exactly the types of observations most vulnerable to distance and horizon effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.myrtlebeach.com/blog/ufo-sightings-in-myrtle-beach/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: myrtlebeach.com">[MyrtleBeach.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">myrtlebeach.com</span><span class="citation-popover-title">Myrtle Beach.com UF O Sightings in Myrtle Beach</span><span class="citation-popover-snippet">Orange globe appeared in sky over ocean.. split into 4 in a straight line. Then back to 2. Then...Read more...</span></span></span> Reddit Yet some reports continue to attract attention because witnesses describe combinations of behaviour that seem harder to reconcile with one si <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/MyrtleBeach/comments/8xsv4k/unusual_lights_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Unusual lights in the sky: r/MyrtleBeachI was told they are flares used in off-shore nighttime rescue drills. The way they moved and wen...</span></span></span> mple source. Accounts sometimes include lights separating and rejoining, remaining visible for long periods, or appearing in organised formations. In online discussions, observers often reject explanations involving flares or aircraft because the lights did not seem to descend, blink in a standard pattern or follow an obvious flight path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1tk693t/atlantic_beach_nc_5212026_955_pm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">atlantic beach nc 5212026 955 pm</span><span class="citation-popover-snippet">RedditAtlantic beach N.C. 5/21/2026 9:55 pm: r/UFOsMay 22, 2026 — Aircraft like C-130s routinely drop flares there.1142d7 Flares create...</span><span class="citation-popover-meta">Published: May 22, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/MyrtleBeach/comments/254l68/lights_in_the_sky_over_the_ocean_in_myrtle_beach/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Lights in the sky over the ocean in Myrtle BeachThe only plausible explanation is that it is some type of military flare or something, bu...</span></span></span>
+The ordinary explanations are persuasive because they match the overall pattern better than a single extraordinary cause. Myrtle Beach reports overwhelmingly involve lights rather than detailed craft descriptions. Orange glows, flashing points, grouped lights and objects over the Atlantic are exactly the types of observations most vulnerable to distance and horizon effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.myrtlebeach.com/blog/ufo-sightings-in-myrtle-beach/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: myrtlebeach.com">[MyrtleBeach.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">myrtlebeach.com</span><span class="citation-popover-title">Myrtle Beach.com UF O Sightings in Myrtle Beach</span><span class="citation-popover-snippet">Orange globe appeared in sky over ocean.. split into 4 in a straight line. Then back to 2. Then...Read more...</span></span></span> Reddit Yet some reports continue to attract attention because witnesses describe combinations of behaviour that seem harder to reconcile with one si <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/MyrtleBeach/comments/8xsv4k/unusual_lights_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Unusual lights in the sky: r/MyrtleBeachI was told they are flares used in off-shore nighttime rescue drills. The way they moved and wen...</span></span></span> mple source. Accounts sometimes include lights separating and rejoining, remaining visible for long periods, or appearing in organised formations. In online discussions, observers often reject explanations involving flares or aircraft because the lights did not seem to descend, blink in a standard pattern or follow an obvious flight path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1tk693t/atlantic_beach_nc_5212026_955_pm/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">atlantic beach nc 5212026 955 pm</span><span class="citation-popover-snippet">Atlantic beach N.C. 5/21/2026 9:55 pm: r/UFOsMay 22, 2026 — Aircraft like C-130s routinely drop flares there.1142d7 Flares create...</span><span class="citation-popover-meta">Published: May 22, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/MyrtleBeach/comments/254l68/lights_in_the_sky_over_the_ocean_in_myrtle_beach/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Lights in the sky over the ocean in Myrtle BeachThe only plausible explanation is that it is some type of military flare or something, bu...</span></span></span>
 
 The difficulty is that most such reports lack the information needed for a definitive assessment. Without radar data, precise timing, aircraft tracking records, photographs from multiple locations or independent investigation, it is often impossible to determine exactly what was seen.
 
-That uncertainty helps explain why Myrtle Beach remains a [South Carolina]({{ 'what-makes-south-carolinas-ufo-story/' | relative_url }}) UFO hotspot. The area consistently produces sightings, but many of the strongest candidate explanations are also the kinds of things that become hardest to identify over a dark ocean. The result is a repeating cycle: genuine lights are observed, witnesses struggle to judge distance and motion, and ordinary coastal activity acquires an appearance that can seem far stranger than it really is.
+That uncertainty helps explain why Myrtle Beach remains a South Carolina UFO hotspot. The area consistently produces sightings, but many of the strongest candidate explanations are also the kinds of things that become hardest to identify over a dark ocean. The result is a repeating cycle: genuine lights are observed, witnesses struggle to judge distance and motion, and ordinary coastal activity acquires an appearance that can seem far stranger than it really is.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -440,7 +432,7 @@ That uncertainty helps explain why Myrtle Beach remains a [South Carolina]({{ 'w
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -450,111 +442,36 @@ That uncertainty helps explain why Myrtle Beach remains a [South Carolina]({{ 'w
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufos-just-coastal-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-myrtle-beach-ufos-just-coastal-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufos-just-coastal-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-myrtle-beach-ufos-just-coastal-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufos-just-coastal-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-myrtle-beach-ufos-just-coastal-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufos-just-coastal-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-myrtle-beach-ufos-just-coastal-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -562,15 +479,15 @@ That uncertainty helps explain why Myrtle Beach remains a [South Carolina]({{ 'w
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufos-just-coastal-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-myrtle-beach-ufos-just-coastal-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufos-just-coastal-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-myrtle-beach-ufos-just-coastal-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufos-just-coastal-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-myrtle-beach-ufos-just-coastal-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufos-just-coastal-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-myrtle-beach-ufos-just-coastal-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -578,15 +495,15 @@ That uncertainty helps explain why Myrtle Beach remains a [South Carolina]({{ 'w
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufos-just-coastal-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-myrtle-beach-ufos-just-coastal-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufos-just-coastal-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-myrtle-beach-ufos-just-coastal-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufos-just-coastal-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-myrtle-beach-ufos-just-coastal-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufos-just-coastal-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-myrtle-beach-ufos-just-coastal-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -594,15 +511,15 @@ That uncertainty helps explain why Myrtle Beach remains a [South Carolina]({{ 'w
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufos-just-coastal-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-myrtle-beach-ufos-just-coastal-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufos-just-coastal-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-myrtle-beach-ufos-just-coastal-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufos-just-coastal-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-myrtle-beach-ufos-just-coastal-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufos-just-coastal-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-myrtle-beach-ufos-just-coastal-lights-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -610,7 +527,7 @@ That uncertainty helps explain why Myrtle Beach remains a [South Carolina]({{ 'w
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=likely-causes-are-myrtle-beach-ufos-just-coastal-lights-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufos-just-coastal-lights-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="are-myrtle-beach-ufos-just-coastal-lights-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -687,17 +604,31 @@ That uncertainty helps explain why Myrtle Beach remains a [South Carolina]({{ 'w
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -710,42 +641,73 @@ That uncertainty helps explain why Myrtle Beach remains a [South Carolina]({{ 'w
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -760,12 +722,17 @@ That uncertainty helps explain why Myrtle Beach remains a [South Carolina]({{ 'w
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -776,71 +743,71 @@ That uncertainty helps explain why Myrtle Beach remains a [South Carolina]({{ 'w
 1. <a id="endnote-1"></a>
    Source: myrtlebeach.com  
    Title: Myrtle Beach.com UF O Sightings in Myrtle Beach  
-   Link: [https://www.myrtlebeach.com/blog/ufo-sightings-in-myrtle-beach/](https://www.myrtlebeach.com/blog/ufo-sightings-in-myrtle-beach/)  
+   Link: <a href="https://www.myrtlebeach.com/blog/ufo-sightings-in-myrtle-beach/" target="_blank" rel="noopener noreferrer nofollow">https://www.myrtlebeach.com/blog/ufo-sightings-in-myrtle-beach/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Orange globe appeared in sky over ocean.. split into 4 in a straight line. Then back to 2. Then...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/MyrtleBeach/comments/8xsv4k/unusual_lights_in_the_sky/](https://www.reddit.com/r/MyrtleBeach/comments/8xsv4k/unusual_lights_in_the_sky/)  
+   Link: <a href="https://www.reddit.com/r/MyrtleBeach/comments/8xsv4k/unusual_lights_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MyrtleBeach/comments/8xsv4k/unusual_lights_in_the_sky/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unusual lights in the sky: r/MyrtleBeachI was told they are flares used in off-shore nighttime rescue drills. The way they moved and wen...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Landing lights  
-   Link: [https://en.wikipedia.org/wiki/Landing_lights](https://en.wikipedia.org/wiki/Landing_lights)  
+   Link: <a href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Landing_lights</a>  
 
 4. <a id="endnote-4"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAirplane Flying Handbook (3C) Chapter 11In the dark, a stationary light will appear to move about when sta...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: I saw a plane, stationary in the sky: r/Experiencers  
-   Link: [https://www.reddit.com/r/Experiencers/comments/16m1u2l/i_saw_a_plane_stationary_in_the_sky/](https://www.reddit.com/r/Experiencers/comments/16m1u2l/i_saw_a_plane_stationary_in_the_sky/)  
+   Link: <a href="https://www.reddit.com/r/Experiencers/comments/16m1u2l/i_saw_a_plane_stationary_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Experiencers/comments/16m1u2l/i_saw_a_plane_stationary_in_the_sky/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I live by a major airport, see that phenomenon here and there. It is caused by you driving on the highway in one...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Sensory illusions in aviation  
-   Link: [https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation](https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: atlantic beach nc 5212026 955 pm  
-   Link: [https://www.reddit.com/r/UFOs/comments/1tk693t/atlantic_beach_nc_5212026_955_pm/](https://www.reddit.com/r/UFOs/comments/1tk693t/atlantic_beach_nc_5212026_955_pm/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAtlantic beach N.C. 5/21/2026 9:55 pm: r/UFOsMay 22, 2026 — Aircraft like C-130s routinely drop flares there.1142d7 Flares create...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1tk693t/atlantic_beach_nc_5212026_955_pm/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tk693t/atlantic_beach_nc_5212026_955_pm/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Atlantic beach N.C. 5/21/2026 9:55 pm: r/UFOsMay 22, 2026 — Aircraft like C-130s routinely drop flares there.1142d7 Flares create...</p></details>
    Published: May 22, 2026  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Kaikōura lights  
-   Link: [https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights](https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights</a>  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/MyrtleBeach/comments/254l68/lights_in_the_sky_over_the_ocean_in_myrtle_beach/](https://www.reddit.com/r/MyrtleBeach/comments/254l68/lights_in_the_sky_over_the_ocean_in_myrtle_beach/)  
+   Link: <a href="https://www.reddit.com/r/MyrtleBeach/comments/254l68/lights_in_the_sky_over_the_ocean_in_myrtle_beach/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MyrtleBeach/comments/254l68/lights_in_the_sky_over_the_ocean_in_myrtle_beach/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lights in the sky over the ocean in Myrtle BeachThe only plausible explanation is that it is some type of military flare or something, bu...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1nj1h3p/strange_lights_just_hovering_and_pulsing_in_the/](https://www.reddit.com/r/UFOs/comments/1nj1h3p/strange_lights_just_hovering_and_pulsing_in_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1nj1h3p/strange_lights_just_hovering_and_pulsing_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1nj1h3p/strange_lights_just_hovering_and_pulsing_in_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>moving at all - just kinda sat there and would pulse on, then off...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
    Title: Spotted last night off the Carolina coast: r/aliens  
-   Link: [https://www.reddit.com/r/aliens/comments/1sya2mf/spotted_last_night_off_the_carolina_coast/](https://www.reddit.com/r/aliens/comments/1sya2mf/spotted_last_night_off_the_carolina_coast/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1sya2mf/spotted_last_night_off_the_carolina_coast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1sya2mf/spotted_last_night_off_the_carolina_coast/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They did not move in an organic way. They did not drop like flares. They hovered and would go...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1qbuvva/mysterious_blinking_light_in_the_night_sky_over/](https://www.reddit.com/r/UFOs/comments/1qbuvva/mysterious_blinking_light_in_the_night_sky_over/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1qbuvva/mysterious_blinking_light_in_the_night_sky_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1qbuvva/mysterious_blinking_light_in_the_night_sky_over/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d in the night sky. I&#x27;ve been trying to find a logical explanation...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: couriermail.com.au  
-   Link: [https://www.couriermail.com.au/news/queensland/gympie/army-claims-flares-are-behind-strange-gympie-lights-but-witnesses-disagree/news-story/8bf311082f24969ea0597f606a5ad817](https://www.couriermail.com.au/news/queensland/gympie/army-claims-flares-are-behind-strange-gympie-lights-but-witnesses-disagree/news-story/8bf311082f24969ea0597f606a5ad817)  
+   Link: <a href="https://www.couriermail.com.au/news/queensland/gympie/army-claims-flares-are-behind-strange-gympie-lights-but-witnesses-disagree/news-story/8bf311082f24969ea0597f606a5ad817" target="_blank" rel="noopener noreferrer nofollow">https://www.couriermail.com.au/news/queensland/gympie/army-claims-flares-are-behind-strange-gympie-lights-but-witnesses-disagree/news-story/8bf311082f24969ea0597f606a5ad817</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Katy McCallum, owner of Kilkivan General Store and a former police officer, shared images and described years-long observations of these...</p></details>
 
 ### Additional References
@@ -848,53 +815,53 @@ That uncertainty helps explain why Myrtle Beach remains a [South Carolina]({{ 'w
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: on a warm summer night in 1973 the quiet skies over myrtle beach were about to b  
-   Link: [https://www.facebook.com/MyrtleBeachSouthCarolin/posts/on-a-warm-summer-night-in-1973-the-quiet-skies-over-myrtle-beach-were-about-to-b/1187628316746364/](https://www.facebook.com/MyrtleBeachSouthCarolin/posts/on-a-warm-summer-night-in-1973-the-quiet-skies-over-myrtle-beach-were-about-to-b/1187628316746364/)  
+   Link: <a href="https://www.facebook.com/MyrtleBeachSouthCarolin/posts/on-a-warm-summer-night-in-1973-the-quiet-skies-over-myrtle-beach-were-about-to-b/1187628316746364/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MyrtleBeachSouthCarolin/posts/on-a-warm-summer-night-in-1973-the-quiet-skies-over-myrtle-beach-were-about-to-b/1187628316746364/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Myrtle Beach, SCThe Unexplained 1973 UFO Sighting over Myrtle Beach During the summer of 1973, residents and people visiting the Grand St...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: the unexplained 1973 ufo sighting over myrtle beachduring the summer of 1973 res  
-   Link: [https://www.facebook.com/TheLanternNewsandMediaGroup/posts/the-unexplained-1973-ufo-sighting-over-myrtle-beachduring-the-summer-of-1973-res/1308466011278191/](https://www.facebook.com/TheLanternNewsandMediaGroup/posts/the-unexplained-1973-ufo-sighting-over-myrtle-beachduring-the-summer-of-1973-res/1308466011278191/)  
+   Link: <a href="https://www.facebook.com/TheLanternNewsandMediaGroup/posts/the-unexplained-1973-ufo-sighting-over-myrtle-beachduring-the-summer-of-1973-res/1308466011278191/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheLanternNewsandMediaGroup/posts/the-unexplained-1973-ufo-sighting-over-myrtle-beachduring-the-summer-of-1973-res/1308466011278191/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unexplained 1973 UFO Sighting over Myrtle Beach...At first, it appeared to be just a faint glow—an orange-red light that pulsed gent...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MikeyMcBryan/posts/the-737-night-crew-early-this-morning-saw-some-strange-lights-ufo-over-the-airpo/1324493835702569/](https://www.facebook.com/MikeyMcBryan/posts/the-737-night-crew-early-this-morning-saw-some-strange-lights-ufo-over-the-airpo/1324493835702569/)  
+   Link: <a href="https://www.facebook.com/MikeyMcBryan/posts/the-737-night-crew-early-this-morning-saw-some-strange-lights-ufo-over-the-airpo/1324493835702569/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MikeyMcBryan/posts/the-737-night-crew-early-this-morning-saw-some-strange-lights-ufo-over-the-airpo/1324493835702569/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I realized it was too high to be a plane. There were no lights seen associated with aircraft. Then to my astonishment.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/EdPiotrowskiWPDE/videos/strange-lights-over-myrtle-beach/10155328410587716/](https://www.facebook.com/EdPiotrowskiWPDE/videos/strange-lights-over-myrtle-beach/10155328410587716/)  
+   Link: <a href="https://www.facebook.com/EdPiotrowskiWPDE/videos/strange-lights-over-myrtle-beach/10155328410587716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EdPiotrowskiWPDE/videos/strange-lights-over-myrtle-beach/10155328410587716/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Army Golden Knights Parachute Team performing at the Sun Fun Festival. They were to land on the beach near...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ancientwhispers/posts/chilling-piece-of-footage-appears-to-show-an-aircraft-being-surrounded-by-multip/935869349432487/](https://www.facebook.com/ancientwhispers/posts/chilling-piece-of-footage-appears-to-show-an-aircraft-being-surrounded-by-multip/935869349432487/)  
+   Link: <a href="https://www.facebook.com/ancientwhispers/posts/chilling-piece-of-footage-appears-to-show-an-aircraft-being-surrounded-by-multip/935869349432487/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/chilling-piece-of-footage-appears-to-show-an-aircraft-being-surrounded-by-multip/935869349432487/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ike anything typically seen in conventional aviation Witnesses and...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/648677616005071/posts/1929623904577096/](https://www.facebook.com/groups/648677616005071/posts/1929623904577096/)  
+   Link: <a href="https://www.facebook.com/groups/648677616005071/posts/1929623904577096/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/648677616005071/posts/1929623904577096/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>over me about 1,000 feet above... at the speed it&#x27;s...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: x.com  
-   Link: [https://x.com/MCCCANM/status/1867120274430366048](https://x.com/MCCCANM/status/1867120274430366048)  
+   Link: <a href="https://x.com/MCCCANM/status/1867120274430366048" target="_blank" rel="noopener noreferrer nofollow">https://x.com/MCCCANM/status/1867120274430366048</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to the airplane. It&#x27;s to help avoid mid-air collisions.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/physicsisfun109/posts/998401532838691/](https://www.facebook.com/groups/physicsisfun109/posts/998401532838691/)  
+   Link: <a href="https://www.facebook.com/groups/physicsisfun109/posts/998401532838691/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/physicsisfun109/posts/998401532838691/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ctly 37000 feet—every single day** ✈️ Commercial pilots have...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: instagram.com  
    Title: Here's what you need to know! Tap the link in bio to learn more  
-   Link: [https://www.instagram.com/reel/DDtOFssOLxd/?hl=en-gb](https://www.instagram.com/reel/DDtOFssOLxd/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/reel/DDtOFssOLxd/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DDtOFssOLxd/?hl=en-gb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The FAA on Instagram: &quot;Ever spotted moving lights in the night...The FAA requires all aircraft flying at night, including drones, to hav...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
    Title: What could this strange red glow be?  
-   Link: [https://www.facebook.com/dohanews/posts/what-could-this-strange-red-glow-be%EF%B8%8F-a-pilot-flying-over-the-pacific-ocean-captu/10159208037458683/](https://www.facebook.com/dohanews/posts/what-could-this-strange-red-glow-be%EF%B8%8F-a-pilot-flying-over-the-pacific-ocean-captu/10159208037458683/)  
+   Link: <a href="https://www.facebook.com/dohanews/posts/what-could-this-strange-red-glow-be%EF%B8%8F-a-pilot-flying-over-the-pacific-ocean-captu/10159208037458683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dohanews/posts/what-could-this-strange-red-glow-be%EF%B8%8F-a-pilot-flying-over-the-pacific-ocean-captu/10159208037458683/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>👨🏽‍✈️ A pilot flying...This describes an underwater volcanic eruption. Although it is not happening in a tectonically active region of t...</p></details>

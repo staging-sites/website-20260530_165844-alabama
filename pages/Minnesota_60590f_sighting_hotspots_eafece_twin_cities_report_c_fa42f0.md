@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /hotspots-f7f5aa/
 nav_short_title: Twin Cities
 title: Do the Twin Cities really have stranger skies?
-title_full: Do the Twin Cities really have stranger skies? | Hotspots
+title_full: Do the Twin Cities really have stranger skies?
 display_title_short: Twin Cities
 display_title: Twin Cities
 heading_title: Do the Twin Cities really have stranger skies?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:41:31'
-parent_title: Where Minnesota UFO Reports Cluster | Minnesota UAP
+parent_title: Where Minnesota UFO Reports Cluster
 parent_permalink: /hotspots-f7f5aa/
 parent_nav_short_title: Hotspots
 parent_heading_title: Where Minnesota UFO Reports Cluster
@@ -250,13 +250,12 @@ image: /assets/images/Minnesota_60590f_sighting_hotspots_eafece_twin_cities_repo
 
 ## Introduction
 
-The Twin Cities dominate [Minnesota]({{ 'what-really-happened-in-minnesotas-skies/' | relative_url }})’s UFO reporting totals for a simple reason: most Minnesotans live, travel and look at the sky there. Minneapolis, St Paul and their surrounding suburbs consistently produce the state’s largest clusters of reports, but raw numbers alone do not show that the metro area experiences more genuinely unexplained phenomena than the rest of Minnesota. They show where the conditions for reporting are strongest. Dense population, heavy road traffic, constant aircraft movements, widespread smartphone use and a larger pool of people familiar with online reporting systems all increase the odds that unusual lights or objects will be noticed and submitted to databases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/minnesota/cities-most-ufo-sightings-minnesota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">cities most ufo sightings minnesota</span><span class="citation-popover-snippet">StackerCities With the Most UFO Sightings in Minnesota12 May 2025 — Stacker compiled a ranking of cities with the most UFO sightings in M...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> That does not make Twin Cities reports meaningless. On the contrary, the metro area offers a useful case study in how UFO reporting works. The region combines huge numbers of observers with one of the busiest aviation environments in the Upper Midwest, creating a steady flow of sightings that investigators must sort into aircraft, satellites, atmospheric effects, drones and the smaller category of reports that remain unresolved.
+The Twin Cities dominate Minnesota’s UFO reporting totals for a simple reason: most Minnesotans live, travel and look at the sky there. Minneapolis, St Paul and their surrounding suburbs consistently produce the state’s largest clusters of reports, but raw numbers alone do not show that the metro area experiences more genuinely unexplained phenomena than the rest of Minnesota. They show where the conditions for reporting are strongest. Dense population, heavy road traffic, constant aircraft movements, widespread smartphone use and a larger pool of people familiar with online reporting systems all increase the odds that unusual lights or objects will be noticed and submitted to databases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/minnesota/cities-most-ufo-sightings-minnesota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">cities most ufo sightings minnesota</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Minnesota12 May 2025 — Stacker compiled a ranking of cities with the most UFO sightings in M...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> That does not make Twin Cities reports meaningless. On the contrary, the metro area offers a useful case study in how UFO reporting works. The region combines huge numbers of observers with one of the busiest aviation environments in the Upper Midwest, creating a steady flow of sightings that investigators must sort into aircraft, satellites, atmospheric effects, drones and the smaller category of reports that remain unresolved.
 
-
-<img src="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_twin_cities_report_c_fa42f0-Illustration-1-light.svg" | relative_url }}" alt="Twin Cities illustration 1" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_twin_cities_report_c_fa42f0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_twin_cities_report_c_fa42f0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_twin_cities_report_c_fa42f0-Illustration-1-dark.svg" | relative_url }}" alt="Twin Cities illustration 1" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_twin_cities_report_c_fa42f0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_twin_cities_report_c_fa42f0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Raw counts from Minneapolis, St Paul and the suburbs
 
-Minnesota UFO databases repeatedly show the same pattern: the largest concentration of reports sits around Minneapolis and St Paul. Rankings based on National UFO Reporting Center (NUFORC) data place Minneapolis first in the state and St Paul second, with suburbs and nearby communities also appearing prominently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/minnesota/cities-most-ufo-sightings-minnesota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">cities most ufo sightings minnesota</span><span class="citation-popover-snippet">StackerCities With the Most UFO Sightings in Minnesota12 May 2025 — Stacker compiled a ranking of cities with the most UFO sightings in M...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Minnesota UFO databases repeatedly show the same pattern: the largest concentration of reports sits around Minneapolis and St Paul. Rankings based on National UFO Reporting Center (NUFORC) data place Minneapolis first in the state and St Paul second, with suburbs and nearby communities also appearing prominently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/minnesota/cities-most-ufo-sightings-minnesota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">cities most ufo sightings minnesota</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Minnesota12 May 2025 — Stacker compiled a ranking of cities with the most UFO sightings in M...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 NUFORC's Minnesota archive contains decades of entries from Minneapolis, St Paul, Bloomington, Eagan, Plymouth, Golden Valley and other metro locations. The reports range from brief observations of lights and fireballs to more elaborate descriptions of triangular or cylindrical objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lMN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State MNAugust 20, 2023 — NUFORC Reports for State MN.; Open, 12/18/2024 14:00, Duluth, MN, USA; Open, 12/17/2024 18...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
@@ -270,7 +269,6 @@ A major reason for the Twin Cities concentration is Minneapolis–St Paul Intern
 
 For people living under approach and departure corridors, aircraft are part of the everyday sky. Yet aircraft can look surprisingly strange under certain conditions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Landing jets approaching directly toward an observer can appear nearly stationary.
@@ -283,10 +281,9 @@ For people living under approach and departure corridors, aircraft are part of t
 
 The geography of the Twin Cities increases exposure to these situations. Millions of journeys take place each week across highways, bridges and suburban roads. Drivers frequently view the sky through windshields while moving, a situation that can distort apparent speed, distance and motion.
 
-Researchers studying more than 98,000 public UAP reports found that sightings are strongly influenced by "opportunity to see". Factors including population density, sky visibility and air traffic help determine where reports accumulate. In other words, a reporting hotspot may reflect observation opportunities rather than an underlying concentration of unexplained objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAn environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few investiga...</span></span></span>
+Researchers studying more than 98,000 public UAP reports found that sightings are strongly influenced by "opportunity to see". Factors including population density, sky visibility and air traffic help determine where reports accumulate. In other words, a reporting hotspot may reflect observation opportunities rather than an underlying concentration of unexplained objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few investiga...</span></span></span>
 
 The Twin Cities fit that model almost perfectly. Large numbers of people spend time outdoors, commute after dark, watch aircraft regularly and have immediate access to reporting websites or social media when they see something unusual.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d-aZHhFv79A" title="The Twin Cities UFO and Research Group Believes the Truth is Out There" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d-aZHhFv79A" target="_blank" rel="noopener noreferrer">The Twin Cities UFO and Research Group Believes the Truth is Out There</a></p><p class="youtube-embed-meta">Channel: Twin Cities PBS &middot; Views: 812 &middot; Uploaded: January 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d-aZHhFv79A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d-aZHhFv79A">Open on YouTube</a></p></div></div></div>
 
@@ -306,8 +303,7 @@ Modern satellite constellations have changed the appearance of the night sky. Gr
 
 Because the Twin Cities have a large population and high internet usage, reports of newly launched satellite trains often appear quickly in local databases and social media discussions.
 
-
-<img src="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_twin_cities_report_c_fa42f0-Illustration-2-light.svg" | relative_url }}" alt="Twin Cities illustration 2" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_twin_cities_report_c_fa42f0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_twin_cities_report_c_fa42f0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_twin_cities_report_c_fa42f0-Illustration-2-dark.svg" | relative_url }}" alt="Twin Cities illustration 2" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_twin_cities_report_c_fa42f0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_twin_cities_report_c_fa42f0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Drones over suburbs and parks
 
 Consumer drones have added another source of confusion. Suburban parks, lakes and open spaces around Minneapolis and St Paul provide numerous places where drones can be flown legally. At night, drone navigation lights can produce reports of hovering or manoeuvring objects that seem difficult to identify from a distance.
@@ -318,14 +314,13 @@ Bright planets, especially Venus, have generated UFO reports for decades. Low on
 
 Minnesota's weather also contributes. Ice crystals, haze, low cloud layers and reflections from urban lighting can produce striking visual effects that appear unfamiliar even to experienced observers.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9ZdYQyFkDWw" title="Suspected UFO sighting involving Anoka police officers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9ZdYQyFkDWw" target="_blank" rel="noopener noreferrer">Suspected UFO sighting involving Anoka police officers</a></p><p class="youtube-embed-meta">Channel: FOX 9 Minneapolis-St. Paul &middot; Views: 3.1K &middot; Uploaded: May 2026 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9ZdYQyFkDWw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9ZdYQyFkDWw">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_twin_cities_report_c_fa42f0-Illustration-3-light.svg" | relative_url }}" alt="Twin Cities illustration 3" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_twin_cities_report_c_fa42f0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_twin_cities_report_c_fa42f0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## More reports do not automatically mean better evidence
 
 One reason the Twin Cities matter in Minnesota UFO history is that they show the difference between quantity and quality.
 
 The metro area generates a large volume of reports, photographs and videos. Yet most of those records still suffer from familiar limitations:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -341,9 +336,7 @@ NASA's 2023 independent UAP study stressed that many reports remain hard to anal
 
 This helps explain an apparent paradox. The Twin Cities produce Minnesota's largest UFO database footprint, yet that does not necessarily mean they produce Minnesota's strongest UFO cases. More observers create more reports, but also more opportunities for routine objects to be recorded as mysteries.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0sM8WSkv7aM" title="Explained or Unexplained? Inside Minnesota&#x27;s recent UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0sM8WSkv7aM" target="_blank" rel="noopener noreferrer">Explained or Unexplained? Inside Minnesota&#x27;s recent UFO sightings</a></p><p class="youtube-embed-meta">Channel: KARE 11 &middot; Views: 22.7K &middot; Uploaded: August 2021 &middot; Length: 4 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0sM8WSkv7aM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0sM8WSkv7aM">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_twin_cities_report_c_fa42f0-Illustration-3-dark.svg" | relative_url }}" alt="Twin Cities illustration 3" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_twin_cities_report_c_fa42f0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_twin_cities_report_c_fa42f0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Do the Twin Cities really have stranger skies?
 
 The available evidence suggests that Minneapolis and St Paul do not have uniquely strange skies compared with the rest of Minnesota. What they have is a unique concentration of observers, aircraft, roads, cameras and reporting activity.
@@ -351,10 +344,6 @@ The available evidence suggests that Minneapolis and St Paul do not have uniquel
 The metro area's importance in Minnesota UFO history comes from volume. It acts as the state's largest reporting engine, generating a continuous stream of observations that reveal how people interpret unusual sights above a modern city. Some reports remain unexplained, many turn out to have plausible conventional causes, and a large number sit somewhere between those categories because the evidence is incomplete.
 
 For researchers and curious readers alike, the Twin Cities are less a place of extraordinary skies than a place where extraordinary claims are most likely to be noticed, recorded and shared. That distinction is crucial when reading Minnesota's UFO statistics. Raw counts tell us where reports originate; they do not by themselves tell us what was actually in the sky.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9ZdYQyFkDWw" title="Suspected UFO sighting involving Anoka police officers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9ZdYQyFkDWw" target="_blank" rel="noopener noreferrer">Suspected UFO sighting involving Anoka police officers</a></p><p class="youtube-embed-meta">Channel: FOX 9 Minneapolis-St. Paul &middot; Views: 3.1K &middot; Uploaded: May 2026 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9ZdYQyFkDWw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9ZdYQyFkDWw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -442,7 +431,7 @@ For researchers and curious readers alike, the Twin Cities are less a place of e
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -452,111 +441,36 @@ For researchers and curious readers alike, the Twin Cities are less a place of e
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-twin-cities-really-have-stranger-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-the-twin-cities-really-have-stranger-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-twin-cities-really-have-stranger-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-the-twin-cities-really-have-stranger-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-twin-cities-really-have-stranger-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-the-twin-cities-really-have-stranger-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-twin-cities-really-have-stranger-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-the-twin-cities-really-have-stranger-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -564,15 +478,15 @@ For researchers and curious readers alike, the Twin Cities are less a place of e
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-twin-cities-really-have-stranger-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-the-twin-cities-really-have-stranger-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-twin-cities-really-have-stranger-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-the-twin-cities-really-have-stranger-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-twin-cities-really-have-stranger-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-the-twin-cities-really-have-stranger-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-twin-cities-really-have-stranger-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-the-twin-cities-really-have-stranger-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -580,15 +494,15 @@ For researchers and curious readers alike, the Twin Cities are less a place of e
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-twin-cities-really-have-stranger-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-the-twin-cities-really-have-stranger-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-twin-cities-really-have-stranger-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-the-twin-cities-really-have-stranger-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-twin-cities-really-have-stranger-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-the-twin-cities-really-have-stranger-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-twin-cities-really-have-stranger-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-the-twin-cities-really-have-stranger-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -596,15 +510,15 @@ For researchers and curious readers alike, the Twin Cities are less a place of e
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-twin-cities-really-have-stranger-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-the-twin-cities-really-have-stranger-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-twin-cities-really-have-stranger-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-the-twin-cities-really-have-stranger-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-twin-cities-really-have-stranger-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-the-twin-cities-really-have-stranger-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-twin-cities-really-have-stranger-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-the-twin-cities-really-have-stranger-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -612,7 +526,7 @@ For researchers and curious readers alike, the Twin Cities are less a place of e
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=twin-cities-do-the-twin-cities-really-have-stranger-skies-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-twin-cities-really-have-stranger-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="do-the-twin-cities-really-have-stranger-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -689,17 +603,31 @@ For researchers and curious readers alike, the Twin Cities are less a place of e
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -712,42 +640,73 @@ For researchers and curious readers alike, the Twin Cities are less a place of e
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -762,12 +721,17 @@ For researchers and curious readers alike, the Twin Cities are less a place of e
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -777,113 +741,113 @@ For researchers and curious readers alike, the Twin Cities are less a place of e
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lMN](https://nuforc.org/subndx/?id=lMN)  
+   Link: <a href="https://nuforc.org/subndx/?id=lMN" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lMN</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State MNAugust 20, 2023 — NUFORC Reports for State MN.; Open, 12/18/2024 14:00, Duluth, MN, USA; Open, 12/17/2024 18...</p></details>
    Published: August 20, 2023  
 
 2. <a id="endnote-2"></a>
    Source: stacker.com  
    Title: cities most ufo sightings minnesota  
-   Link: [https://stacker.com/stories/minnesota/cities-most-ufo-sightings-minnesota](https://stacker.com/stories/minnesota/cities-most-ufo-sightings-minnesota)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StackerCities With the Most UFO Sightings in Minnesota12 May 2025 — Stacker compiled a ranking of cities with the most UFO sightings in M...</p></details>
+   Link: <a href="https://stacker.com/stories/minnesota/cities-most-ufo-sightings-minnesota" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/minnesota/cities-most-ufo-sightings-minnesota</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cities With the Most UFO Sightings in Minnesota12 May 2025 — Stacker compiled a ranking of cities with the most UFO sightings in M...</p></details>
    Published: May 2025  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCAn environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few investiga...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few investiga...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</p></details>
    Published: September 13, 2023  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location REPORT COUNT. USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationREPORT COUNT. USA - Unspecified, 120. USA - Alaska, 676. USA - Alabama, 1529. USA... Rosa Orellana on Octahedr...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=187845](https://nuforc.org/sighting/?id=187845)  
+   Link: <a href="https://nuforc.org/sighting/?id=187845" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187845</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 18784528 Feb 2025 — Occurred: 2025-01-17 02:13 Local; Reported: 2025-02-20 21:31 Pacific; Duration: 15 minutes; No...</p></details>
    Published: January 17, 2025  
 
 7. <a id="endnote-7"></a>
    Source: metroairports.org  
    Title: msp airport logs 69 increase passenger growth 2024  
-   Link: [https://metroairports.org/news/msp-airport-logs-69-increase-passenger-growth-2024](https://metroairports.org/news/msp-airport-logs-69-increase-passenger-growth-2024)  
+   Link: <a href="https://metroairports.org/news/msp-airport-logs-69-increase-passenger-growth-2024" target="_blank" rel="noopener noreferrer nofollow">https://metroairports.org/news/msp-airport-logs-69-increase-passenger-growth-2024</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul International Airport (MSP) passenger traffic totaled 37.2 million in 2024, marking a 6.9% increase over 2023...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: metroairports.org  
    Title: msp airports economic impact grows 213 billion annually  
-   Link: [https://metroairports.org/news/msp-airports-economic-impact-grows-213-billion-annually](https://metroairports.org/news/msp-airports-economic-impact-grows-213-billion-annually)  
+   Link: <a href="https://metroairports.org/news/msp-airports-economic-impact-grows-213-billion-annually" target="_blank" rel="noopener noreferrer nofollow">https://metroairports.org/news/msp-airports-economic-impact-grows-213-billion-annually</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>37.2 million total passengers and supporting approximately 342,000 airline and other aircraft operations. The study also confirms MSP&#x27;s...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/metropolitan-airports-commission_just-issued-2024-year-end-stats-show-msp-activity-7290043522609528833-I-kt](https://www.linkedin.com/posts/metropolitan-airports-commission_just-issued-2024-year-end-stats-show-msp-activity-7290043522609528833-I-kt)  
+   Link: <a href="https://www.linkedin.com/posts/metropolitan-airports-commission_just-issued-2024-year-end-stats-show-msp-activity-7290043522609528833-I-kt" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/metropolitan-airports-commission_just-issued-2024-year-end-stats-show-msp-activity-7290043522609528833-I-kt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metropolitan Airports Commission&#x27;s PostJan 28, 2025 — Just-issued 2024 year-end stats show MSP Airport served 37.2 million passengers, ma...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: metroairports.org  
-   Link: [https://metroairports.org/msp-passenger-and-operations-reports](https://metroairports.org/msp-passenger-and-operations-reports)  
+   Link: <a href="https://metroairports.org/msp-passenger-and-operations-reports" target="_blank" rel="noopener noreferrer nofollow">https://metroairports.org/msp-passenger-and-operations-reports</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MSP Passenger and Operations ReportsThe links below provide access to monthly reports on passenger traffic, aircraft operations and cargo...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/bitterfq/nufroc-ufo-sightings](https://www.kaggle.com/datasets/bitterfq/nufroc-ufo-sightings)  
+   Link: <a href="https://www.kaggle.com/datasets/bitterfq/nufroc-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/bitterfq/nufroc-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFROC UFO SIGHTINGSContains the full URL linking to the detailed UFO sighting report on the NUFORC website. This allows users to view th...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: transportenvironment.org  
-   Link: [https://www.transportenvironment.org/articles/new-analysis-debunks-the-assumption-that-air-passenger-growth-drives-economic-growth](https://www.transportenvironment.org/articles/new-analysis-debunks-the-assumption-that-air-passenger-growth-drives-economic-growth)  
+   Link: <a href="https://www.transportenvironment.org/articles/new-analysis-debunks-the-assumption-that-air-passenger-growth-drives-economic-growth" target="_blank" rel="noopener noreferrer nofollow">https://www.transportenvironment.org/articles/new-analysis-debunks-the-assumption-that-air-passenger-growth-drives-economic-growth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New analysis debunks the assumption that air passenger...13 Nov 2025 — The study finds that in specific areas of Northern and Western Eu...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: hot1025.iheart.com  
-   Link: [https://hot1025.iheart.com/content/2025-01-03-beloved-minnesota-city-holds-record-for-most-ufo-sightings-in-the-state/](https://hot1025.iheart.com/content/2025-01-03-beloved-minnesota-city-holds-record-for-most-ufo-sightings-in-the-state/)  
+   Link: <a href="https://hot1025.iheart.com/content/2025-01-03-beloved-minnesota-city-holds-record-for-most-ufo-sightings-in-the-state/" target="_blank" rel="noopener noreferrer nofollow">https://hot1025.iheart.com/content/2025-01-03-beloved-minnesota-city-holds-record-for-most-ufo-sightings-in-the-state/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hot 102.5Beloved Minnesota City Holds Record For &#x27;Most UFO...3 Jan 2025 — Minneapolis has recorded a whopping 152 UFO sightings since 19...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: buried within the national archives is an unexplained sighting from right here i  
-   Link: [https://www.facebook.com/CBSMinnesota/posts/buried-within-the-national-archives-is-an-unexplained-sighting-from-right-here-i/1440252448142055/](https://www.facebook.com/CBSMinnesota/posts/buried-within-the-national-archives-is-an-unexplained-sighting-from-right-here-i/1440252448142055/)  
+   Link: <a href="https://www.facebook.com/CBSMinnesota/posts/buried-within-the-national-archives-is-an-unexplained-sighting-from-right-here-i/1440252448142055/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSMinnesota/posts/buried-within-the-national-archives-is-an-unexplained-sighting-from-right-here-i/1440252448142055/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WCCO &amp; CBS News MinnesotaNUFORC UFO Sighting 194991 Occurred: 2025-09-24 21:20 Local Reported: 2026-01-03 01:47 Pacific Duration: 30 seco...</p></details>
    Published: September 24, 2025  
 
 15. <a id="endnote-15"></a>
    Source: britishaviationgroup.co.uk  
    Title: msp passenger traffic tops 36 million in 2025 as international demand grows  
-   Link: [https://www.britishaviationgroup.co.uk/knowledge/msp-passenger-traffic-tops-36-million-in-2025-as-international-demand-grows/](https://www.britishaviationgroup.co.uk/knowledge/msp-passenger-traffic-tops-36-million-in-2025-as-international-demand-grows/)  
+   Link: <a href="https://www.britishaviationgroup.co.uk/knowledge/msp-passenger-traffic-tops-36-million-in-2025-as-international-demand-grows/" target="_blank" rel="noopener noreferrer nofollow">https://www.britishaviationgroup.co.uk/knowledge/msp-passenger-traffic-tops-36-million-in-2025-as-international-demand-grows/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul International Airport (MSP) served 36,071,627 passengers in 2025, according to year-end data released by the Metropolitan Airports...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: kdhlradio.com  
    Title: minnesota has 36 ufo sightings so far in 2024 heres where  
-   Link: [https://kdhlradio.com/minnesota-has-36-ufo-sightings-so-far-in-2024-heres-where/](https://kdhlradio.com/minnesota-has-36-ufo-sightings-so-far-in-2024-heres-where/)  
+   Link: <a href="https://kdhlradio.com/minnesota-has-36-ufo-sightings-so-far-in-2024-heres-where/" target="_blank" rel="noopener noreferrer nofollow">https://kdhlradio.com/minnesota-has-36-ufo-sightings-so-far-in-2024-heres-where/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Minnesota Has 36 UFO Sightings So Far in 2024, Here&#x27;s...7 Nov 2024 — The NUFORC (wow, so many acronyms); or National Unidentified Flying...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: mymspconnect.com  
    Title: msp airport logs 69 increase passenger growth 2024  
-   Link: [https://www.mymspconnect.com/news-events/news/msp-airport-logs-69-increase-passenger-growth-2024](https://www.mymspconnect.com/news-events/news/msp-airport-logs-69-increase-passenger-growth-2024)  
+   Link: <a href="https://www.mymspconnect.com/news-events/news/msp-airport-logs-69-increase-passenger-growth-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.mymspconnect.com/news-events/news/msp-airport-logs-69-increase-passenger-growth-2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MSP Airport logs 6.9% increase in passenger growth in 2024MSP Airport passenger traffic totaled 37.2 million in 2024, marking a 6.9% incr...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential](https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential)  
+   Link: <a href="https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature. Scientific Reports. December 2023; 13(1). DOI:10.1038...Read more...</p></details>
    Published: December 2023  
 
 19. <a id="endnote-19"></a>
    Source: cbsnews.com  
    Title: a brief history of ufo sightings in minnesota  
-   Link: [https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/](https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/)  
+   Link: <a href="https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Jul 2024 — The database contains hundreds of sightings in St. Paul and Minneapolis. [Val Johnson](&amp;#123;&amp;#123; &#x27;val-johnson/&#x27; | relative_url &amp;#125;&amp;#125;) incident. Minnesota&#x27;s most well-known e...</p></details>

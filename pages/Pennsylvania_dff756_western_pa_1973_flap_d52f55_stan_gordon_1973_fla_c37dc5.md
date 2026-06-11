@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /1973-flap-204864/
 nav_short_title: Stan Gordon
 title: How one investigator shaped the flap
-title_full: How one investigator shaped the flap | 1973 Flap
+title_full: How one investigator shaped the flap
 display_title_short: Stan Gordon
 display_title: Stan Gordon
 heading_title: How one investigator shaped the flap
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:07:55'
-parent_title: When Western Pennsylvania Filled With Reports | Pennsylvania UFOs
+parent_title: When Western Pennsylvania Filled With Reports
 parent_permalink: /1973-flap-204864/
 parent_nav_short_title: 1973 Flap
 parent_heading_title: When Western Pennsylvania Filled With Reports
@@ -250,10 +250,9 @@ image: /assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55_stan_gordo
 
 ## Introduction
 
-The western [Pennsylvania]({{ 'what-really-happened-in-pennsylvanias/' | relative_url }}) UFO flap of 1973 is remembered largely through the work of one investigator: Stan Gordon. Long after newspapers stopped covering strange lights, alleged landings and creature reports, Gordon's files remained one of the main surviving records of what witnesses said they experienced.
+The western Pennsylvania UFO flap of 1973 is remembered largely through the work of one investigator: Stan Gordon. Long after newspapers stopped covering strange lights, alleged landings and creature reports, Gordon's files remained one of the main surviving records of what witnesses said they experienced.
 
-
-<img src="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55_stan_gordon_1973_fla_c37dc5-Illustration-1-light.svg" | relative_url }}" alt="Stan Gordon illustration 1" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55_stan_gordon_1973_fla_c37dc5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55_stan_gordon_1973_fla_c37dc5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55_stan_gordon_1973_fla_c37dc5-Illustration-1-dark.svg" | relative_url }}" alt="Stan Gordon illustration 1" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55_stan_gordon_1973_fla_c37dc5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55_stan_gordon_1973_fla_c37dc5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That role matters because the 1973 wave unfolded after the closure of the US Air Force's Project [Blue Book]({{ 'blue-book-68fdf4/' | relative_url }}). Many reports no longer entered a major government collection. Instead, witnesses often contacted local newspapers, police departments or volunteer investigators. In western Pennsylvania, Gordon became one of the people gathering reports, conducting interviews, comparing cases and preserving documents that might otherwise have disappeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heraldstandard.com/news/2014/oct/07/fayette-countys-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heraldstandard.com">[Herald-Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heraldstandard.com</span><span class="citation-popover-title">fayette countys encounter</span><span class="citation-popover-snippet">Herald-StandardFayette County&#x27;s 1973 encounter7 Oct 2014 — Officials who mention Fayette County&#x27;s 1973 report of Bigfoot and a UFO refer...</span></span></span>
 
 At the same time, his importance creates a challenge for historians and sceptics. Much of what later generations know about the flap comes through Gordon's investigations, publications and archives. His work preserved evidence, but it also helped shape the way the flap has been remembered and interpreted.
@@ -267,7 +266,6 @@ During the 1973 wave, reports arrived from multiple counties and involved differ
 This kind of field investigation filled a gap left by the end of official Air Force UFO inquiries. Instead of a federal case file, many Pennsylvania incidents survived because local researchers gathered notes, witness accounts, photographs, sketches and press clippings. Gordon later described 1973 as a year with "multitudes" of UFO reports across the state, many of which received newspaper coverage at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stangordon.info/wp/2024/01/17/2023-a-major-year-for-ufo-uap-bigfoot-cryptid-reports-and-other-mysterious-activity-in-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-snippet">Some of you will remember the massive UFO and Bigfoot wave that occurred in Pennsylvania during 1973.Read more...</span></span></span>
 
 The famous Fayette County and Uniontown-area reports became closely associated with him. Decades later, local journalists still referred questions about the case to Gordon, reflecting how completely he had become linked with the surviving record. One newspaper noted that officials routinely answered inquiries by saying: "That's Stan's case." <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heraldstandard.com/news/2014/oct/07/fayette-countys-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heraldstandard.com">[Herald-Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heraldstandard.com</span><span class="citation-popover-title">fayette countys encounter</span><span class="citation-popover-snippet">Herald-StandardFayette County&#x27;s 1973 encounter7 Oct 2014 — Officials who mention Fayette County&#x27;s 1973 report of Bigfoot and a UFO refer...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4xLmVgnpems" title="Bikes &amp; Hikes - &quot;Paranormal Exploring w Stan Gordon&quot; - Kecksburg UFO Incident - Bigfoot Sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4xLmVgnpems" target="_blank" rel="noopener noreferrer">Bikes &amp; Hikes - &quot;Paranormal Exploring w Stan Gordon&quot; - Kecksburg UFO Incident - Bigfoot Sightings</a></p><p class="youtube-embed-meta">Channel: Armstrong Neighborhood Channel &middot; Views: 3.6K &middot; Uploaded: October 2022 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4xLmVgnpems" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4xLmVgnpems">Open on YouTube</a></p></div></div></div>
 
@@ -283,8 +281,7 @@ The archive also captures something broader than individual sightings. It shows 
 
 Because western Pennsylvania's 1973 flap mixed UFO reports with Bigfoot-style creature claims, Gordon's records are particularly important for understanding how those narratives became connected. Later commentators often treat the UFO and creature stories as a single phenomenon. The surviving files allow researchers to examine whether those links were present from the beginning or emerged gradually as reports accumulated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sharonahill.com/bigfoot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sharonahill.com">[Sharon A. Hill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sharonahill.com</span><span class="citation-popover-snippet">HillWhen Bigfoot became an alien (around 1973) - Sharon A. Hill2 Jan 2017 — A series of sightings of both UFOs and Bigfoot-like creatures...</span></span></span>
 
-
-<img src="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55_stan_gordon_1973_fla_c37dc5-Illustration-2-light.svg" | relative_url }}" alt="Stan Gordon illustration 2" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55_stan_gordon_1973_fla_c37dc5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55_stan_gordon_1973_fla_c37dc5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55_stan_gordon_1973_fla_c37dc5-Illustration-2-dark.svg" | relative_url }}" alt="Stan Gordon illustration 2" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55_stan_gordon_1973_fla_c37dc5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55_stan_gordon_1973_fla_c37dc5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where preservation becomes interpretation
 
 The strength of Gordon's archive is also the source of an important criticism.
@@ -299,8 +296,7 @@ Sceptical writers have argued that the same events can be understood differently
 
 Because many original reports survive primarily through Gordon's records, it is sometimes difficult to separate raw witness testimony from later narrative framing. Historians therefore have to ask two questions at once: what witnesses claimed in 1973, and how those claims were subsequently organised into the story of a single western Pennsylvania flap.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/29_GPzKTYmI" title="Mysteries and Monsters: Episode 200 Creepy Cryptids and UFOs with Stan Gordon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=29_GPzKTYmI" target="_blank" rel="noopener noreferrer">Mysteries and Monsters: Episode 200 Creepy Cryptids and UFOs with Stan Gordon</a></p><p class="youtube-embed-meta">Channel: Mysteries &amp; Monsters &middot; Views: 2.0K &middot; Uploaded: September 2022 &middot; Length: 1 hour 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=29_GPzKTYmI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=29_GPzKTYmI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I1CMSYKwZNc" title="UFO/Bigfoot Encounters. Stan Gordon, Pennsylvania, 1973." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I1CMSYKwZNc" target="_blank" rel="noopener noreferrer">UFO/Bigfoot Encounters. Stan Gordon, Pennsylvania, 1973.</a></p><p class="youtube-embed-meta">Channel: Humanoid Witness &middot; Views: 1.3K &middot; Uploaded: December 2016 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I1CMSYKwZNc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I1CMSYKwZNc">Open on YouTube</a></p></div></div></div>
 
 ## A bridge between newspapers, witnesses and later researchers
 
@@ -308,12 +304,11 @@ One reason Gordon remains central to Pennsylvania UFO history is that he connect
 
 He gathered reports from ordinary residents, maintained relationships with local media and continued revisiting cases long after public attention faded. As a result, researchers examining Pennsylvania's UFO history decades later often encounter the same chain of sources: a newspaper article, a witness recollection and a Gordon investigation file that preserved additional details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heraldstandard.com/news/2014/oct/07/fayette-countys-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heraldstandard.com">[Herald-Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heraldstandard.com</span><span class="citation-popover-title">fayette countys encounter</span><span class="citation-popover-snippet">Herald-StandardFayette County&#x27;s 1973 encounter7 Oct 2014 — Officials who mention Fayette County&#x27;s 1973 report of Bigfoot and a UFO refer...</span></span></span>
 
-His work also helped keep the 1973 wave visible during periods when mainstream interest in UFOs declined. Books such as *Silent Invasion: The Pennsylvania UFO-Bigfoot Casebook* brought together material from the flap and made it available to new audiences. Whether readers accept extraordinary explanations or not, those publications ensured that western Pennsylvania's reports remained part of the broader discussion of American UFO history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.goodreads.com/en/book/show/9907632-silent-invasion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-snippet">GoodreadsSilent Invasion: The Pennsylvania UFO-Bigfoot CasebookStan Gordon began his journey in field investigations of UFOs and other Pa...</span></span></span>
+His work also helped keep the 1973 wave visible during periods when mainstream interest in UFOs declined. Books such as *Silent Invasion: The Pennsylvania UFO-Bigfoot Casebook* brought together material from the flap and made it available to new audiences. Whether readers accept extraordinary explanations or not, those publications ensured that western Pennsylvania's reports remained part of the broader discussion of American UFO history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.goodreads.com/en/book/show/9907632-silent-invasion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-snippet">Silent Invasion: The Pennsylvania UFO-Bigfoot CasebookStan Gordon began his journey in field investigations of UFOs and other Pa...</span></span></span>
 
 That continuing visibility explains why the 1973 flap still occupies a prominent place in Pennsylvania UFO lore. The sightings themselves were brief. The archive lasted.
 
-
-<img src="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55_stan_gordon_1973_fla_c37dc5-Illustration-3-light.svg" | relative_url }}" alt="Stan Gordon illustration 3" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55_stan_gordon_1973_fla_c37dc5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55_stan_gordon_1973_fla_c37dc5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55_stan_gordon_1973_fla_c37dc5-Illustration-3-dark.svg" | relative_url }}" alt="Stan Gordon illustration 3" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55_stan_gordon_1973_fla_c37dc5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55_stan_gordon_1973_fla_c37dc5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The lasting significance of Gordon's archive
 
 The strongest case for Stan Gordon's importance is straightforward: without his efforts, much of the documentary record surrounding western Pennsylvania's 1973 UFO flap would probably be fragmentary or lost.
@@ -322,9 +317,7 @@ The strongest caution is equally straightforward: because so much surviving mate
 
 Those two facts are not contradictions. They are the reason Gordon occupies such a central place in Pennsylvania UFO history. He helped save witness accounts from disappearance, but he also became one of the main lenses through which those accounts are viewed. Understanding the 1973 flap therefore means understanding both the reports themselves and the role of the investigator who preserved them.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I1CMSYKwZNc" title="UFO/Bigfoot Encounters. Stan Gordon, Pennsylvania, 1973." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I1CMSYKwZNc" target="_blank" rel="noopener noreferrer">UFO/Bigfoot Encounters. Stan Gordon, Pennsylvania, 1973.</a></p><p class="youtube-embed-meta">Channel: Humanoid Witness &middot; Views: 1.3K &middot; Uploaded: December 2016 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I1CMSYKwZNc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I1CMSYKwZNc">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MuYMQzpPEvY" title="UFO Sighting in Pittsburgh Region of Pennsylvania UAP over Westmoreland County Road" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MuYMQzpPEvY" target="_blank" rel="noopener noreferrer">UFO Sighting in Pittsburgh Region of Pennsylvania UAP over Westmoreland County Road</a></p><p class="youtube-embed-meta">Channel: Steel City News &middot; Views: 555 &middot; Uploaded: October 2023 &middot; Length: 2 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MuYMQzpPEvY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MuYMQzpPEvY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -748,130 +741,130 @@ Those two facts are not contradictions. They are the reason Gordon occupies such
 1. <a id="endnote-1"></a>
    Source: podcasts.apple.com  
    Title: Podcasts SO EP:69 BONUS SHOW!  
-   Link: [https://podcasts.apple.com/ca/podcast/so-ep-69-bonus-show-ufos-bigfoot-and-more-with-stan-gordon/id1552990311?i=1000537401452](https://podcasts.apple.com/ca/podcast/so-ep-69-bonus-show-ufos-bigfoot-and-more-with-stan-gordon/id1552990311?i=1000537401452)  
+   Link: <a href="https://podcasts.apple.com/ca/podcast/so-ep-69-bonus-show-ufos-bigfoot-and-more-with-stan-gordon/id1552990311?i=1000537401452" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/ca/podcast/so-ep-69-bonus-show-ufos-bigfoot-and-more-with-stan-gordon/id1552990311?i=1000537401452</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s, Bi…–Sasquatch Odyssey3 Oct 2021 — In 1970, Gordon founded the Westmoreland County UFO Study Group... UFO sightings and other stra...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: goodreads.com  
-   Link: [https://www.goodreads.com/en/book/show/9907632-silent-invasion](https://www.goodreads.com/en/book/show/9907632-silent-invasion)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GoodreadsSilent Invasion: The Pennsylvania UFO-Bigfoot CasebookStan Gordon began his journey in field investigations of UFOs and other Pa...</p></details>
+   Link: <a href="https://www.goodreads.com/en/book/show/9907632-silent-invasion" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/9907632-silent-invasion</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Silent Invasion: The Pennsylvania UFO-Bigfoot CasebookStan Gordon began his journey in field investigations of UFOs and other Pa...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pod.wave.co  
-   Link: [https://pod.wave.co/podcast/bigfoot-collectors-club/supercut-the-pennsylvaniabigfoot-ufo-invasion-w-steve-berg](https://pod.wave.co/podcast/bigfoot-collectors-club/supercut-the-pennsylvaniabigfoot-ufo-invasion-w-steve-berg)  
+   Link: <a href="https://pod.wave.co/podcast/bigfoot-collectors-club/supercut-the-pennsylvaniabigfoot-ufo-invasion-w-steve-berg" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/bigfoot-collectors-club/supercut-the-pennsylvaniabigfoot-ufo-invasion-w-steve-berg</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wave AI Podcast NotesSUPERCUT: &quot;The Pennsylvania/Bigfoot UFO Invasion&quot; w/ Steve...Drawing heavily from Stan Gordon&#x27;s seminal book &quot;Silen...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sharonahill.com  
-   Link: [https://sharonahill.com/bigfoot/](https://sharonahill.com/bigfoot/)  
+   Link: <a href="https://sharonahill.com/bigfoot/" target="_blank" rel="noopener noreferrer nofollow">https://sharonahill.com/bigfoot/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>HillWhen Bigfoot became an alien (around 1973) - Sharon A. Hill2 Jan 2017 — A series of sightings of both UFOs and Bigfoot-like creatures...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: UFO flap  
-   Link: [https://en.wikipedia.org/wiki/UFO_flap](https://en.wikipedia.org/wiki/UFO_flap)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_flap" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_flap</a>  
 
 6. <a id="endnote-6"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/fr/podcast/correlation-of-strangeness-with-stan-gordon/id923527373?i=1000488260285](https://podcasts.apple.com/fr/podcast/correlation-of-strangeness-with-stan-gordon/id923527373?i=1000488260285)  
+   Link: <a href="https://podcasts.apple.com/fr/podcast/correlation-of-strangeness-with-stan-gordon/id923527373?i=1000488260285" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/fr/podcast/correlation-of-strangeness-with-stan-gordon/id923527373?i=1000488260285</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Strangeness with Stan GordonIn his 61 years of research so far, beginning in 1959 at the age of ten, Stan has interviewed thousands of...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: goodreads.com  
    Title: Now after a 12-month scientific investigation, the story  
-   Link: [https://www.goodreads.com/book/similar/14800047-silent-invasion-the-pennsylvania-ufo-bigfoot-casebook](https://www.goodreads.com/book/similar/14800047-silent-invasion-the-pennsylvania-ufo-bigfoot-casebook)  
+   Link: <a href="https://www.goodreads.com/book/similar/14800047-silent-invasion-the-pennsylvania-ufo-bigfoot-casebook" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/similar/14800047-silent-invasion-the-pennsylvania-ufo-bigfoot-casebook</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Readers who enjoyed Silent Invasion: The Pennsylvania UFO-...For 10 years Betty Andreasson could tell no one about her bizarre, terrifyi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: heraldstandard.com  
    Title: fayette countys encounter  
-   Link: [https://www.heraldstandard.com/news/2014/oct/07/fayette-countys-encounter/](https://www.heraldstandard.com/news/2014/oct/07/fayette-countys-encounter/)  
+   Link: <a href="https://www.heraldstandard.com/news/2014/oct/07/fayette-countys-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.heraldstandard.com/news/2014/oct/07/fayette-countys-encounter/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Herald-StandardFayette County&#x27;s 1973 encounter7 Oct 2014 — Officials who mention Fayette County&#x27;s 1973 report of Bigfoot and a UFO refer...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: stangordon.info  
-   Link: [https://www.stangordon.info/wp/2024/01/17/2023-a-major-year-for-ufo-uap-bigfoot-cryptid-reports-and-other-mysterious-activity-in-pennsylvania/](https://www.stangordon.info/wp/2024/01/17/2023-a-major-year-for-ufo-uap-bigfoot-cryptid-reports-and-other-mysterious-activity-in-pennsylvania/)  
+   Link: <a href="https://www.stangordon.info/wp/2024/01/17/2023-a-major-year-for-ufo-uap-bigfoot-cryptid-reports-and-other-mysterious-activity-in-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.stangordon.info/wp/2024/01/17/2023-a-major-year-for-ufo-uap-bigfoot-cryptid-reports-and-other-mysterious-activity-in-pennsylvania/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some of you will remember the massive UFO and Bigfoot wave that occurred in Pennsylvania during 1973.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: stangordon.info  
-   Link: [https://www.stangordon.info/wp/2021/06/07/the-government-needs-to-be-more-forthcoming-about-the-ongoing-ufo-mystery-ufo-sightings-reported-yearly-in-pennsylvania/](https://www.stangordon.info/wp/2021/06/07/the-government-needs-to-be-more-forthcoming-about-the-ongoing-ufo-mystery-ufo-sightings-reported-yearly-in-pennsylvania/)  
+   Link: <a href="https://www.stangordon.info/wp/2021/06/07/the-government-needs-to-be-more-forthcoming-about-the-ongoing-ufo-mystery-ufo-sightings-reported-yearly-in-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.stangordon.info/wp/2021/06/07/the-government-needs-to-be-more-forthcoming-about-the-ongoing-ufo-mystery-ufo-sightings-reported-yearly-in-pennsylvania/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stan GordonUFO Sightings Reported Yearly in PennsylvaniaJun 7, 2021 — The 1970&#x27;s were very active with numerous detailed UFO observations...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: abebooks.co.uk  
    Title: Abe Books UKSilent Invasion: The Pennsylvania UFO-Bigfoot Casebook  
-   Link: [https://www.abebooks.co.uk/9780966610833/Silent-Invasion-Pennsylvania-UFO-Bigfoot-Casebook-0966610830/plp](https://www.abebooks.co.uk/9780966610833/Silent-Invasion-Pennsylvania-UFO-Bigfoot-Casebook-0966610830/plp)  
+   Link: <a href="https://www.abebooks.co.uk/9780966610833/Silent-Invasion-Pennsylvania-UFO-Bigfoot-Casebook-0966610830/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9780966610833/Silent-Invasion-Pennsylvania-UFO-Bigfoot-Casebook-0966610830/plp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Silent Invasion: The Pennsylvania UFO-Bigfoot Casebook...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/484025020082/posts/10168417060650083/](https://www.facebook.com/groups/484025020082/posts/10168417060650083/)  
+   Link: <a href="https://www.facebook.com/groups/484025020082/posts/10168417060650083/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/484025020082/posts/10168417060650083/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious lights seen over Westmoreland County in 1973&quot;These are definitely very significant sightings, says Stan Gordon, director of th...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=29_GPzKTYmI](https://www.youtube.com/watch?v=29_GPzKTYmI)  
+   Link: <a href="https://www.youtube.com/watch?v=29_GPzKTYmI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=29_GPzKTYmI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stan Gordon&quot; - [Kecksburg](&amp;#123;&amp;#123; &#x27;kecksburg/&#x27; | relative_url &amp;#125;&amp;#125;) UFO Incident - Bigfoot Sightings...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: stangordon.info  
-   Link: [https://www.stangordon.info/wp/](https://www.stangordon.info/wp/)  
+   Link: <a href="https://www.stangordon.info/wp/" target="_blank" rel="noopener noreferrer nofollow">https://www.stangordon.info/wp/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s well as other anomalies that have come to my attention during 2026, from across...Read more...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: pabigfoot.com  
-   Link: [https://www.pabigfoot.com/archived-sightings.html](https://www.pabigfoot.com/archived-sightings.html)  
+   Link: <a href="https://www.pabigfoot.com/archived-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pabigfoot.com/archived-sightings.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Archived SightingsThis page is a compilation of archived reports collected from the Pennsylvania Bigfoot Society, Stan Gordon, Dr.... UF...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DTf4j9IDh0Y/](https://www.instagram.com/p/DTf4j9IDh0Y/)  
+   Link: <a href="https://www.instagram.com/p/DTf4j9IDh0Y/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTf4j9IDh0Y/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Last year alone, 13 UFO sightings were reported in CT...STAN GORDON PRESENTS: WHAT WE KNOW ABOUT HE KECKSBURG, PA UFO INCIDENT (WITH UPD...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WVIATVFM/posts/was-it-a-ufo-a-meteor-a-russian-satellite-the-[carbondale](https://www.facebook.com/WVIATVFM/posts/was-it-a-ufo-a-meteor-a-russian-satellite-the-[carbondale)  
+   Link: <a href="https://www.facebook.com/WVIATVFM/posts/was-it-a-ufo-a-meteor-a-russian-satellite-the-[carbondale" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WVIATVFM/posts/was-it-a-ufo-a-meteor-a-russian-satellite-the-[carbondale</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 9, 1974, remains one of PA&#x27;s most debated mysteries. Witnesses recall a glowing object streaking across...</p></details>
    Published: November 9, 1974  
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
    Title: episode 516 the pennsylvania ufo bigfoot invasion  
-   Link: [https://www.reddit.com/r/LPOTL/comments/znom1w/episode_516_the_pennsylvania_ufo_bigfoot_invasion/](https://www.reddit.com/r/LPOTL/comments/znom1w/episode_516_the_pennsylvania_ufo_bigfoot_invasion/)  
+   Link: <a href="https://www.reddit.com/r/LPOTL/comments/znom1w/episode_516_the_pennsylvania_ufo_bigfoot_invasion/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LPOTL/comments/znom1w/episode_516_the_pennsylvania_ufo_bigfoot_invasion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 516: The Pennsylvania UFO Bigfoot Invasion of...The boys bring you the story of The Pennsylvania UFO Bigfoot Invasion of 1973, a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: medium.com  
    Title: the pa ufo bigfoot invasion of 1973 9e34e7ad3875  
-   Link: [https://medium.com/%40weirdones/the-pa-ufo-bigfoot-invasion-of-1973-9e34e7ad3875](https://medium.com/%40weirdones/the-pa-ufo-bigfoot-invasion-of-1973-9e34e7ad3875)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumThe PA UFO Bigfoot Invasion of 1973 | by Weird onesHeading up the investigation of this “double flap” was Stan Gordon. Born in 1949...</p></details>
+   Link: <a href="https://medium.com/%40weirdones/the-pa-ufo-bigfoot-invasion-of-1973-9e34e7ad3875" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40weirdones/the-pa-ufo-bigfoot-invasion-of-1973-9e34e7ad3875</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The PA UFO Bigfoot Invasion of 1973 | by Weird onesHeading up the investigation of this “double flap” was Stan Gordon. Born in 1949...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: shadowfrequencypodcast.com  
-   Link: [https://www.shadowfrequencypodcast.com/blog/unraveling-the-1973-pennsylvania-ufo-bigfoot-flap/](https://www.shadowfrequencypodcast.com/blog/unraveling-the-1973-pennsylvania-ufo-bigfoot-flap/)  
+   Link: <a href="https://www.shadowfrequencypodcast.com/blog/unraveling-the-1973-pennsylvania-ufo-bigfoot-flap/" target="_blank" rel="noopener noreferrer nofollow">https://www.shadowfrequencypodcast.com/blog/unraveling-the-1973-pennsylvania-ufo-bigfoot-flap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unraveling the 1973 Pennsylvania UFO-Bigfoot Flap22 Dec 2025 — By late 1973, it faded mysteriously—no evidence left but Stan Gordon&#x27;s arc...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Bikes & Hikes  
-   Link: [https://www.youtube.com/watch?v=4xLmVgnpems](https://www.youtube.com/watch?v=4xLmVgnpems)  
+   Link: <a href="https://www.youtube.com/watch?v=4xLmVgnpems" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4xLmVgnpems</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Around The Town w/ Marilyn Forbes - Paranormal Investigator Legend Stan Gordon at Kecksburg, PA...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Cryptozoology/comments/1l42u7k/a_rather_bizarre_bigfoot_sighting_from/](https://www.reddit.com/r/Cryptozoology/comments/1l42u7k/a_rather_bizarre_bigfoot_sighting_from/)  
+   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/1l42u7k/a_rather_bizarre_bigfoot_sighting_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/1l42u7k/a_rather_bizarre_bigfoot_sighting_from/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>as fishing at night when he saw the cryptid...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=MuYMQzpPEvY](https://www.youtube.com/watch?v=MuYMQzpPEvY)  
+   Link: <a href="https://www.youtube.com/watch?v=MuYMQzpPEvY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MuYMQzpPEvY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bikes &amp; Hikes - &quot;Paranormal Exploring w Stan Gordon&quot; - Kecksburg UFO Incident...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Around The Town w/ Marilyn Forbes  
-   Link: [https://www.youtube.com/watch?v=NXArmU4fqHs](https://www.youtube.com/watch?v=NXArmU4fqHs)  
+   Link: <a href="https://www.youtube.com/watch?v=NXArmU4fqHs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NXArmU4fqHs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 184 Kecksburg Revisited with Stan Gordon...</p></details>

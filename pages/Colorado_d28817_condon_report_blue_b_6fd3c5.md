@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-colorados-ufo/
 nav_short_title: Condon Report
 title: Did Colorado End Project Blue Book?
-title_full: Did Colorado End Project Blue Book? | Colorado UFOs
+title_full: Did Colorado End Project Blue Book?
 display_title_short: Condon Report
 display_title: Condon Report
 heading_title: Did Colorado End Project Blue Book?
@@ -264,7 +264,6 @@ image: /assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5-overview-socia
 
 [Colorado]({{ 'what-really-happened-in-colorados-ufo/' | relative_url }}) did not single-handedly “solve” UFOs, but a University of Colorado study did help end the US Air Force’s public UFO investigation programme. The Condon Report, formally *Scientific Study of Unidentified Flying Objects*, was produced at Boulder under physicist Edward U. Condon after the Air Force sought an outside scientific judgement on whether UFO reports deserved continued official study. Its central conclusion was that more extensive UFO research was unlikely to advance science, and the Air Force used that judgement, together with a National Academy of Sciences review and earlier Air Force experience, when it terminated Project Blue Book on 17 December 1969. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5-overview.webp" | relative_url }}" alt="Overview image for Condon Report" loading="eager" decoding="sync" fetchpriority="high">
 The importance of the Colorado episode lies less in one spectacular sighting than in governance: who gets to decide when an unexplained report is worth public money, military attention, or scientific effort. For sceptics, the report brought discipline to a confused subject. For critics, it closed the door too firmly, especially because some cases remained unresolved and because the project’s neutrality was disputed from the start.
 
@@ -278,8 +277,7 @@ This is why the Condon Report belongs at the centre of Colorado’s UFO history.
 
 The study also defined “UFO” carefully, and less sensationally than popular culture often did. It treated a UFO as the stimulus for a report made by someone who could not identify what they had seen, not as proof that an exotic craft existed. That distinction is crucial: under the Colorado project’s usage, UFO reports certainly existed, but the key question was what kinds of natural, human-made, perceptual, or other stimuli produced them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5-Illustration-1-light.svg" | relative_url }}" alt="Condon Report illustration 1" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5-Illustration-1-dark.svg" | relative_url }}" alt="Condon Report illustration 1" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the report concluded
 
 The headline conclusion was stark. Condon wrote that studying UFOs over the previous 21 years had added nothing of substance to scientific knowledge, and that further extensive study probably could not be justified on the expectation that science would advance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This did not mean every case had been explained. It meant the project did not see the unexplained residue as strong enough to justify a continuing large-scale government research programme.
@@ -291,7 +289,6 @@ The report also treated ordinary misidentification as a major driver. It noted t
 At the same time, the report was not simply a short dismissal. It was a large technical archive, including discussion of witness reliability, field methods, optics, radar, photographs, claimed physical traces, and the problems of collecting scientific data from rare and fleeting events. CU Boulder’s own retrospective describes the Condon Report as one of the few official UFO studies and notes its scale: 14,885 pages and 59 sighting case studies from 1947 to 1968. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colorado.edu">[University of Colorado Boulder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colorado.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The National Academy of Sciences then reviewed the Colorado report. Its panel agreed that no high priority in UFO investigations was warranted by the data of the previous two decades, while also acknowledging that not all reported sightings were easy to explain. The panel’s conclusion was not that every witness was wrong, but that the evidence did not justify treating extraterrestrial visitation as the likely explanation or maintaining Blue Book as a special unit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/NAS%20Review%20of%20Condon%20Report%201969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">NAS Review of Condon Report 1969</span><span class="citation-popover-snippet">NAS Review of Condon Report 1969</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D3qWyN8rxzw" title="1966 UFO Sightings in Dexter, Michigan - A Mini-Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D3qWyN8rxzw" target="_blank" rel="noopener noreferrer">1966 UFO Sightings in Dexter, Michigan - A Mini-Documentary</a></p><p class="youtube-embed-meta">Channel: Michigan Online &middot; Views: 53.0K &middot; Uploaded: February 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D3qWyN8rxzw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D3qWyN8rxzw">Open on YouTube</a></p></div></div></div>
 
@@ -305,8 +302,7 @@ The Air Force’s closing position had three main parts. It said no UFO investig
 
 That distinction matters for interpreting Colorado’s role. The Condon Report did not erase UFO reports from American culture, and it did not prevent later official interest in unusual aerial reports. It ended a particular model of public Air Force investigation: a named, centralised programme receiving and evaluating civilian UFO reports under the Blue Book label. After Blue Book closed, the Air Force regulation establishing the programme was rescinded, and documentation was transferred for archival access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
-
-<img src="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5-Illustration-2-light.svg" | relative_url }}" alt="Condon Report illustration 2" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5-Illustration-2-dark.svg" | relative_url }}" alt="Condon Report illustration 2" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why critics still dispute it
 
 The most damaging criticism of the Colorado project concerned the Robert Low memorandum, written before the contract was accepted. Low, a University of Colorado administrator involved in setting up the study, suggested that the project could be described to the public as objective while presenting to the scientific community the image of non-believers trying to be objective, with “almost zero expectation” of finding a saucer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/660809lowmemo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Robert Low &quot;trick&quot; memo</span><span class="citation-popover-snippet">Robert Low &quot;trick&quot; memo</span></span></span> For critics, that memo made the project look pre-judged before the fieldwork had properly begun.
@@ -318,7 +314,6 @@ Civilian UFO researchers and some scientists also argued that Condon’s broad c
 A fair reading keeps both points in view. The sceptical case is strong where reports are late, brief, single-witness, poorly documented, or compatible with aircraft, planets, balloons, atmospheric effects, birds, satellites, hoaxes, or perception errors. The critical case is strongest where official closure sounds broader than the data can support. “No sufficient evidence for extraterrestrial craft” is a narrower claim than “nothing interesting ever happened”, and the best version of the Colorado controversy depends on not confusing those two statements.
 
 The report’s own methods also left room for debate. It concluded that old cases were often of limited value because the evidence had gone stale, but that decision inevitably reduced the chance of revisiting famous earlier cases with fresh seriousness. It hoped for rapid-response data collection but found this impractical. It studied photographs and radar questions, yet many UFO advocates wanted more weight given to unusual radar-visual reports or trained witnesses. These disagreements were not just about belief in aliens; they were about what standard of evidence should govern rare, transient events.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_W7SqS6UhE4" title="The Condon Report | NASA&#x27;s Unexplained Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_W7SqS6UhE4" target="_blank" rel="noopener noreferrer">The Condon Report | NASA&#x27;s Unexplained Files</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 17.4K &middot; Uploaded: April 2012 &middot; Length: 1 minute 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_W7SqS6UhE4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_W7SqS6UhE4">Open on YouTube</a></p></div></div></div>
 
@@ -332,8 +327,7 @@ That later shift does not overturn the Condon Report, but it does change how rea
 
 For Colorado’s UFO history, the legacy is therefore double-edged. The state is associated with the report that gave the Air Force a credible route out of public UFO investigation, but also with one of the most persistent disputes in the history of official UFO science. The Condon Report remains useful because it shows how difficult it is to turn sightings into evidence. It remains disputed because many readers think its policy conclusion outran the unresolved cases and the damaged trust surrounding the project.
 
-
-<img src="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5-Illustration-3-light.svg" | relative_url }}" alt="Condon Report illustration 3" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5-Illustration-3-dark.svg" | relative_url }}" alt="Condon Report illustration 3" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The balanced takeaway
 
 Colorado did help end Project Blue Book, but not by disproving every UFO report. It did so by hosting a federally funded academic review that judged the accumulated evidence too weak, too poorly collected, and too scientifically unproductive to justify a continued Air Force UFO programme. The Air Force then adopted that judgement, reinforced by the National Academy of Sciences review, and closed Blue Book in December 1969. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
@@ -342,9 +336,7 @@ The strongest evidence for the official decision is documentary: the Condon Repo
 
 That is why the Colorado story still matters. It is not mainly a tale of a saucer sighting or a secret hangar. It is a case study in how institutions decide when uncertainty is no longer enough to keep an investigation alive.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hdH3h_Wa6gE" title="Project Blue Book Sneak Peek: The True Story Behind the Government&#x27;s UFO Investigation - IGN First" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hdH3h_Wa6gE" target="_blank" rel="noopener noreferrer">Project Blue Book Sneak Peek: The True Story Behind the Government&#x27;s UFO Investigation - IGN First</a></p><p class="youtube-embed-meta">Channel: IGN &middot; Views: 413.4K &middot; Uploaded: September 2018 &middot; Length: 1 minute 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hdH3h_Wa6gE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hdH3h_Wa6gE">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -432,197 +424,503 @@ That is why the Colorado story still matters. It is not mainly a tale of a sauce
   </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-colorado-end-project-blue-book-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-colorado-end-project-blue-book-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/MykAAOSwkRVk5Rd3/s-l225.jpg" alt="Listing image for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-colorado-end-project-blue-book-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-colorado-end-project-blue-book-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-colorado-end-project-blue-book-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-colorado-end-project-blue-book-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-colorado-end-project-blue-book-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-colorado-end-project-blue-book-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-colorado-end-project-blue-book-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-colorado-end-project-blue-book-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/HvAAAOSw08Vk5SIm/s-l225.jpg" alt="Listing image for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-colorado-end-project-blue-book-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-colorado-end-project-blue-book-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-colorado-end-project-blue-book-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-colorado-end-project-blue-book-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-colorado-end-project-blue-book-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-colorado-end-project-blue-book-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-colorado-end-project-blue-book-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-colorado-end-project-blue-book-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55"><img src="https://i.ebayimg.com/images/g/2G0AAOSwjIpgTIcl/s-l225.jpg" alt="Listing image for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-colorado-end-project-blue-book-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-colorado-end-project-blue-book-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-colorado-end-project-blue-book-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-colorado-end-project-blue-book-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-colorado-end-project-blue-book-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-colorado-end-project-blue-book-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-colorado-end-project-blue-book-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-colorado-end-project-blue-book-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed."><img src="https://i.ebayimg.com/images/g/GWYAAeSwgidpwAEt/s-l225.jpg" alt="Listing image for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-colorado-end-project-blue-book-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-colorado-end-project-blue-book-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed.</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-colorado-end-project-blue-book-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-colorado-end-project-blue-book-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-colorado-end-project-blue-book-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-colorado-end-project-blue-book-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-colorado-end-project-blue-book-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-colorado-end-project-blue-book-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/sec-i.htm](https://files.ncas.org/condon/text/sec-i.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/sec-i.htm</a>  
 
 2. <a id="endnote-2"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: files.ncas.org  
    Title: Files Condon Report, Section II  
-   Link: [https://files.ncas.org/condon/text/sec-ii.htm](https://files.ncas.org/condon/text/sec-ii.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/sec-ii.htm</a>  
 
 4. <a id="endnote-4"></a>
    Source: colorado.edu  
-   Link: [https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study](https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study)  
+   Link: <a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
 
 5. <a id="endnote-5"></a>
    Source: nicap.org  
    Title: NAS Review of Condon Report 1969  
-   Link: [https://www.nicap.org/docs/NAS%20Review%20of%20Condon%20Report%201969.pdf](https://www.nicap.org/docs/NAS%20Review%20of%20Condon%20Report%201969.pdf)  
+   Link: <a href="https://www.nicap.org/docs/NAS%20Review%20of%20Condon%20Report%201969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/NAS%20Review%20of%20Condon%20Report%201969.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 7. <a id="endnote-7"></a>
    Source: esd.whs.mil  
    Title: Defense Logistics Agency  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/asdpa1.pdf?ver=2017-05-22-113454-807](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/asdpa1.pdf?ver=2017-05-22-113454-807)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/asdpa1.pdf?ver=2017-05-22-113454-807" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/asdpa1.pdf?ver=2017-05-22-113454-807</a>  
 
 8. <a id="endnote-8"></a>
    Source: nicap.org  
    Title: Robert Low "trick" memo  
-   Link: [https://www.nicap.org/docs/660809lowmemo.htm](https://www.nicap.org/docs/660809lowmemo.htm)  
+   Link: <a href="https://www.nicap.org/docs/660809lowmemo.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/660809lowmemo.htm</a>  
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download](https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download)  
+   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
 
 11. <a id="endnote-11"></a>
    Source: prologue.blogs.archives.gov  
    Title: saucers over washington the history of project blue book  
-   Link: [https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/](https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
 
 12. <a id="endnote-12"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/foia/ufos.html](https://www.archives.gov/foia/ufos.html)  
+   Link: <a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
 
 14. <a id="endnote-14"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 16. <a id="endnote-16"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt](https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt)  
+   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
 
 17. <a id="endnote-17"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf](https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf)  
+   Link: <a href="https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/appndx-a.htm](https://files.ncas.org/condon/text/appndx-a.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/appndx-a.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/appndx-a.htm</a>  
 
 19. <a id="endnote-19"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/](https://files.ncas.org/condon/)  
+   Link: <a href="https://files.ncas.org/condon/" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/</a>  
 
 20. <a id="endnote-20"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: [https://www.history.com/articles/project-blue-book](https://www.history.com/articles/project-blue-book)  
+   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
 
 21. <a id="endnote-21"></a>
    Source: colorado.edu  
    Title: cu site one last government commissioned reports ufos what does it say  
-   Link: [https://www.colorado.edu/today/2021/06/09/cu-site-one-last-government-commissioned-reports-ufos-what-does-it-say](https://www.colorado.edu/today/2021/06/09/cu-site-one-last-government-commissioned-reports-ufos-what-does-it-say)  
+   Link: <a href="https://www.colorado.edu/today/2021/06/09/cu-site-one-last-government-commissioned-reports-ufos-what-does-it-say" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/today/2021/06/09/cu-site-one-last-government-commissioned-reports-ufos-what-does-it-say</a>  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Condon Report | NASA's Unexplained Files  
-   Link: [https://www.youtube.com/watch?v=_W7SqS6UhE4](https://www.youtube.com/watch?v=_W7SqS6UhE4)  
+   Link: <a href="https://www.youtube.com/watch?v=_W7SqS6UhE4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_W7SqS6UhE4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Question: How One Mystery Went From Fringe Story to Global Issue...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 24. <a id="endnote-24"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 25. <a id="endnote-25"></a>
    Source: britannica.com  
    Title: Condon Report  
-   Link: [https://www.britannica.com/topic/Condon-Report](https://www.britannica.com/topic/Condon-Report)  
+   Link: <a href="https://www.britannica.com/topic/Condon-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Condon-Report</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/485702340808422/posts/1003041539074497/](https://www.facebook.com/groups/485702340808422/posts/1003041539074497/)  
+   Link: <a href="https://www.facebook.com/groups/485702340808422/posts/1003041539074497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/485702340808422/posts/1003041539074497/</a>  
 
 27. <a id="endnote-27"></a>
    Source: pubs.aip.org  
    Title: Scientific Study of Unidentified Flying Objects  
-   Link: [https://pubs.aip.org/aapt/ajp/article/37/10/1071/1048124/Scientific-Study-of-Unidentified-Flying-Objects](https://pubs.aip.org/aapt/ajp/article/37/10/1071/1048124/Scientific-Study-of-Unidentified-Flying-Objects)  
+   Link: <a href="https://pubs.aip.org/aapt/ajp/article/37/10/1071/1048124/Scientific-Study-of-Unidentified-Flying-Objects" target="_blank" rel="noopener noreferrer nofollow">https://pubs.aip.org/aapt/ajp/article/37/10/1071/1048124/Scientific-Study-of-Unidentified-Flying-Objects</a>  
 
 28. <a id="endnote-28"></a>
    Source: globalsecurity.orgglobalsecurity.org  
-   Link: [https://www.globalsecurity.orgwww.globalsecurity.org/intell/ops/condon.htm](https://www.globalsecurity.orgwww.globalsecurity.org/intell/ops/condon.htm)  
+   Link: <a href="https://www.globalsecurity.orgwww.globalsecurity.org/intell/ops/condon.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.orgwww.globalsecurity.org/intell/ops/condon.htm</a>  
 
 29. <a id="endnote-29"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: [https://origins.osu.edu/read/air-force-investigation-ufos](https://origins.osu.edu/read/air-force-investigation-ufos)  
+   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
 
 30. <a id="endnote-30"></a>
    Source: slideshare.net  
-   Link: [https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203](https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203)  
+   Link: <a href="https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203</a>  
 
 31. <a id="endnote-31"></a>
    Source: encyclopedia.com  
    Title: condon report  
-   Link: [https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report)  
+   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report</a>  
 
 ### Additional References
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=D3qWyN8rxzw](https://www.youtube.com/watch?v=D3qWyN8rxzw)  
+   Link: <a href="https://www.youtube.com/watch?v=D3qWyN8rxzw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D3qWyN8rxzw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Sneak Peek: The True Story Behind the Government&#x27;s UFO Investigation - IGN First...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: The UFO Question: How One Mystery Went From Fringe Story to Global Issue  
-   Link: [https://www.youtube.com/watch?v=ZsP8-2qpAOQ](https://www.youtube.com/watch?v=ZsP8-2qpAOQ)  
+   Link: <a href="https://www.youtube.com/watch?v=ZsP8-2qpAOQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZsP8-2qpAOQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: Project Blue Book: America's Obsession with UFOs  
-   Link: [https://www.youtube.com/watch?v=Xu4oTBBI5UE](https://www.youtube.com/watch?v=Xu4oTBBI5UE)  
+   Link: <a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1966 UFO Sightings in Dexter, Michigan - A Mini-Documentary...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
 37. <a id="endnote-37"></a>
    Source: amazon.com  
-   Link: [https://www.amazon.com/Report-Historical-Record-Government-Involvement/dp/B0F218QF2L](https://www.amazon.com/Report-Historical-Record-Government-Involvement/dp/B0F218QF2L)  
+   Link: <a href="https://www.amazon.com/Report-Historical-Record-Government-Involvement/dp/B0F218QF2L" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Report-Historical-Record-Government-Involvement/dp/B0F218QF2L</a>  
 
 38. <a id="endnote-38"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/8b477a5ed6a42f99bb13a4518368ce9a](https://apnews.com/article/8b477a5ed6a42f99bb13a4518368ce9a)  
+   Link: <a href="https://apnews.com/article/8b477a5ed6a42f99bb13a4518368ce9a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/8b477a5ed6a42f99bb13a4518368ce9a</a>  
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/](https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/)  
+   Link: <a href="https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/</a>  
 
 40. <a id="endnote-40"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/a255a907-d10f-49f2-89e0-13e57b0e006a](https://enigmalabs.io/library/a255a907-d10f-49f2-89e0-13e57b0e006a)  
+   Link: <a href="https://enigmalabs.io/library/a255a907-d10f-49f2-89e0-13e57b0e006a" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/a255a907-d10f-49f2-89e0-13e57b0e006a</a>  
 
 41. <a id="endnote-41"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>

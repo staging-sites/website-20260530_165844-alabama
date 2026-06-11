@@ -8,32 +8,32 @@ sibling_basenames:
 tags:
 - texas
 - stephenville
-- f-16s
+- f-16-s
 keywords:
 - texas
 - stephenville
-- f-16s
+- f-16-s
 affiliate_category: texas
 show_ads: true
 description: The corrected Air Force statement made jets central to the case, but it did not settle whether every light and radar return was accounted for.
 hero_summary: The corrected Air Force statement made jets central to the case, but it did not settle whether every light and radar return was accounted for.
 layout: default
-permalink: /f-16s/
+permalink: /f-16-s/
 sidebar_expanded_urls:
 - /why-texas-became-a-ufo-archive/
 - /stephenville/
-nav_short_title: F 16s
-title: Were the Stephenville lights just F 16s?
-title_full: Were the Stephenville lights just F 16s? | Stephenville
-display_title_short: F 16s
-display_title: F 16s
-heading_title: Were the Stephenville lights just F 16s?
-page_heading_title: Were the Stephenville lights just F 16s?
+nav_short_title: F 16 s
+title: Were the Stephenville lights just F 16 s?
+title_full: Were the Stephenville lights just F 16 s?
+display_title_short: F 16 s
+display_title: F 16 s
+heading_title: Were the Stephenville lights just F 16 s?
+page_heading_title: Were the Stephenville lights just F 16 s?
 source_count: 39
 infographic_count: 3
 planned_sections:
 - The original denial and later correction
-- What ten F 16s could explain
+- What ten F 16 s could explain
 - Why witnesses still saw a mystery
 focal_unit_type: event_time_window
 topic_lens: critique_risk
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:18:22'
-parent_title: Why Stephenville Became the Modern Texas Case | Texas UFOs
+parent_title: Why Stephenville Became the Modern Texas Case
 parent_permalink: /stephenville/
 parent_nav_short_title: Stephenville
 parent_heading_title: Why Stephenville Became the Modern Texas Case
@@ -252,9 +252,8 @@ image: /assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_f16_
 
 The short answer is that F-16 training probably explained part of the [Stephenville]({{ 'stephenville/' | relative_url }}) sightings, but it did not settle the entire case. The controversy exists because the US military first denied having aircraft in the area on 8 January 2008 and later admitted that ten F-16 fighter jets had been conducting training flights nearby. That correction immediately gave sceptics a plausible explanation for at least some of the lights reported over Erath County. Yet the reversal also deepened suspicion among witnesses, especially those who had already claimed to see military jets pursuing something else. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc13.com/archive/5910159/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc13.com">[ABC13 Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc13.com</span><span class="citation-popover-snippet">F-16 fighter jets were training in the Stephenville area the night dozens of residents reported seeing a UFO. Although Air Force Reserve...</span></span></span>
 
-
-<img src="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_f16_exp_a807d5-Illustration-1-light.svg" | relative_url }}" alt="F 16s illustration 1" data-theme-src-dark="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_f16_exp_a807d5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_f16_exp_a807d5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The debate has never really been about whether F-16s were present. The Air Force eventually confirmed they were. The real question is whether those aircraft accounted for all the reported lights, apparent manoeuvres and radar returns that made Stephenville one of the most discussed [Texas]({{ 'why-texas-became-a-ufo-archive/' | relative_url }}) UFO cases of the internet era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc13.com/archive/5910159/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc13.com">[ABC13 Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc13.com</span><span class="citation-popover-snippet">F-16 fighter jets were training in the Stephenville area the night dozens of residents reported seeing a UFO. Although Air Force Reserve...</span></span></span>
+<img src="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_f16_exp_a807d5-Illustration-1-dark.svg" | relative_url }}" alt="F 16 s illustration 1" data-theme-src-dark="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_f16_exp_a807d5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_f16_exp_a807d5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+The debate has never really been about whether F-16s were present. The Air Force eventually confirmed they were. The real question is whether those aircraft accounted for all the reported lights, apparent manoeuvres and radar returns that made Stephenville one of the most discussed Texas UFO cases of the internet era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc13.com/archive/5910159/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc13.com">[ABC13 Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc13.com</span><span class="citation-popover-snippet">F-16 fighter jets were training in the Stephenville area the night dozens of residents reported seeing a UFO. Although Air Force Reserve...</span></span></span>
 
 ## The original denial and later correction
 
@@ -271,7 +270,6 @@ That admission had two immediate effects:
 
 For many observers, the second point became almost as important as the first. Even people willing to accept that military aircraft were present began asking why officials had initially denied it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HGl-2WagEws" title="No UFO&#x27;s after all in Texas. Military officials now say they did have about ten jets on night traini" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HGl-2WagEws" target="_blank" rel="noopener noreferrer">No UFO&#x27;s after all in Texas. Military officials now say they did have about ten jets on night traini</a></p><p class="youtube-embed-meta">Channel: AP Archive &middot; Views: 2.5K &middot; Uploaded: July 2015 &middot; Length: 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HGl-2WagEws" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HGl-2WagEws">Open on YouTube</a></p></div></div></div>
 
 ## What ten F-16s could explain
@@ -284,7 +282,6 @@ The Air Force stated that the aircraft were operating in military training airsp
 
 The fighter-jet explanation is particularly strong for witnesses who mainly reported:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Bright moving lights rather than a clearly defined craft.
@@ -296,18 +293,16 @@ The fighter-jet explanation is particularly strong for witnesses who mainly repo
 
 The existence of confirmed F-16 flights also means that any interpretation of the event must account for normal military aviation before proposing something more exotic.
 
-
-<img src="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_f16_exp_a807d5-Illustration-2-light.svg" | relative_url }}" alt="F 16s illustration 2" data-theme-src-dark="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_f16_exp_a807d5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_f16_exp_a807d5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_f16_exp_a807d5-Illustration-2-dark.svg" | relative_url }}" alt="F 16 s illustration 2" data-theme-src-dark="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_f16_exp_a807d5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_f16_exp_a807d5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why witnesses still saw a mystery
 
 The F-16 explanation did not persuade everyone because many accounts contained details that witnesses felt did not match ordinary fighter aircraft.
 
-Several residents described what they believed was a single large object rather than separate lights. Some estimated an apparent size far larger than a fighter jet. Others reported a silent passage overhead or claimed that jets appeared to be following an unknown target rather than being the main object themselves. These descriptions may have resulted from misjudged distance and scale, but they remained central to witness testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/netflix-encounters-messengers-stephenville/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">netflix encounters messengers stephenville</span><span class="citation-popover-snippet">VICE15 Years Ago, UFO Sightings Rocked a Small Texas Town....29 Sept 2023 — The so-called Stephenville Lights is considered one of the m...</span></span></span>
+Several residents described what they believed was a single large object rather than separate lights. Some estimated an apparent size far larger than a fighter jet. Others reported a silent passage overhead or claimed that jets appeared to be following an unknown target rather than being the main object themselves. These descriptions may have resulted from misjudged distance and scale, but they remained central to witness testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/netflix-encounters-messengers-stephenville/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">netflix encounters messengers stephenville</span><span class="citation-popover-snippet">15 Years Ago, UFO Sightings Rocked a Small Texas Town....29 Sept 2023 — The so-called Stephenville Lights is considered one of the m...</span></span></span>
 
 The correction from the Air Force also unintentionally reinforced some witness claims. Before the admission, reports of military aircraft in the area could be dismissed as mistaken observations. After officials confirmed ten F-16s were flying nearby, witnesses who had described seeing jets felt partly vindicated. Several residents argued that the new statement supported rather than weakened their recollections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chinadaily.com.cn/world/2008-01/24/content_6419154.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chinadaily.com.cn">[China Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chinadaily.com.cn</span><span class="citation-popover-title">content 6419154</span><span class="citation-popover-snippet">China DailyF-16s were in area where UFO reported24 Jan 2008 — Fighter jets were training nearby the night dozens of Stephenville-area res...</span></span></span>
 
 Another issue is that the witness reports were not identical. Some people may indeed have been seeing F-16s, while others may have been observing unrelated lights, planets, airliners or entirely different events. Stephenville was a regional wave of reports rather than a single carefully documented observation. That makes any one-size-fits-all explanation difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-2008-jun-14-sci-ufo14-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la xpm 2008 jun 14 sci ufo14 story</span><span class="citation-popover-snippet">Los Angeles TimesHow UFOs took over a town14 Jun 2008 — Two weeks after the sighting, a break came in the case. Correcting its earlier st...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_fq7olCEwDQ" title="Residents of Stephenville, Texas say a UFO has been hovering over their small town" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_fq7olCEwDQ" target="_blank" rel="noopener noreferrer">Residents of Stephenville, Texas say a UFO has been hovering over their small town</a></p><p class="youtube-embed-meta">Channel: AP Archive &middot; Views: 82.4K &middot; Uploaded: July 2015 &middot; Length: 2 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_fq7olCEwDQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_fq7olCEwDQ">Open on YouTube</a></p></div></div></div>
 
@@ -323,8 +318,7 @@ Sceptical analyst Tim Printy, for example, argued that some of the radar claims 
 
 The radar material therefore did not resolve the case. Instead, it shifted the discussion from witness testimony alone to competing interpretations of technical data.
 
-
-<img src="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_f16_exp_a807d5-Illustration-3-light.svg" | relative_url }}" alt="F 16s illustration 3" data-theme-src-dark="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_f16_exp_a807d5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_f16_exp_a807d5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_f16_exp_a807d5-Illustration-3-dark.svg" | relative_url }}" alt="F 16 s illustration 3" data-theme-src-dark="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_f16_exp_a807d5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_f16_exp_a807d5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the F-16 answer remains incomplete
 
 The strongest sceptical position is not that every witness invented their experience. It is that a combination of confirmed military aircraft, ordinary aviation traffic, night-time viewing errors and later media amplification can account for most or all of what was reported.
@@ -335,9 +329,7 @@ What makes Stephenville important in Texas UFO history is that both sides can po
 
 More than fifteen years later, the F-16 correction remains one of the most significant developments in the case. It eliminated the claim that no military aircraft were present. It did not, however, conclusively demonstrate that every reported light, every claimed object and every disputed radar return had been identified. That unresolved gap is why Stephenville remains a central reference point in debates about modern UFO investigations, military airspace and the limits of eyewitness evidence. ABC13 Houston <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookSpecial Research Report Stephenville, Texas4 Jul 2008 — Radar data from five different radar sites as well as witness testimo...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O5JLQd34q_I" title="Fighter Jets Pursue UFO | UFOs: Investigating The Unknown | National Geographic UK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O5JLQd34q_I" target="_blank" rel="noopener noreferrer">Fighter Jets Pursue UFO | UFOs: Investigating The Unknown | National Geographic UK</a></p><p class="youtube-embed-meta">Channel: National Geographic UK &middot; Views: 173.3K &middot; Uploaded: May 2023 &middot; Length: 1 minute 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O5JLQd34q_I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O5JLQd34q_I">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yKoxptgdEIs" title="When 300 UFO Sightings Were Reported in Texas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yKoxptgdEIs" target="_blank" rel="noopener noreferrer">When 300 UFO Sightings Were Reported in Texas</a></p><p class="youtube-embed-meta">Channel: VICE &middot; Views: 186.9K &middot; Uploaded: September 2023 &middot; Length: 3 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yKoxptgdEIs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yKoxptgdEIs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -760,112 +752,112 @@ More than fifteen years later, the F-16 correction remains one of the most signi
 
 1. <a id="endnote-1"></a>
    Source: abc13.com  
-   Link: [https://abc13.com/archive/5910159/](https://abc13.com/archive/5910159/)  
+   Link: <a href="https://abc13.com/archive/5910159/" target="_blank" rel="noopener noreferrer nofollow">https://abc13.com/archive/5910159/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>F-16 fighter jets were training in the Stephenville area the night dozens of residents reported seeing a UFO. Although Air Force Reserve...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: kltv.com  
    Title: military now says planes flying in area of ufo reports  
-   Link: [https://www.kltv.com/story/7762832/military-now-says-planes-flying-in-area-of-ufo-reports/](https://www.kltv.com/story/7762832/military-now-says-planes-flying-in-area-of-ufo-reports/)  
+   Link: <a href="https://www.kltv.com/story/7762832/military-now-says-planes-flying-in-area-of-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.kltv.com/story/7762832/military-now-says-planes-flying-in-area-of-ufo-reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.kltv.comMilitary](https://www.kltv.comMilitary) Now Says Planes Flying In Area Of UFO Reports23 Jan 2008 — But now, the Air Force Reserve says 10 of its fig...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: vice.com  
    Title: netflix encounters messengers stephenville  
-   Link: [https://www.vice.com/en/article/netflix-encounters-messengers-stephenville/](https://www.vice.com/en/article/netflix-encounters-messengers-stephenville/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VICE15 Years Ago, UFO Sightings Rocked a Small Texas Town....29 Sept 2023 — The so-called Stephenville Lights is considered one of the m...</p></details>
+   Link: <a href="https://www.vice.com/en/article/netflix-encounters-messengers-stephenville/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/netflix-encounters-messengers-stephenville/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Years Ago, UFO Sightings Rocked a Small Texas Town....29 Sept 2023 — The so-called Stephenville Lights is considered one of the m...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: history.com  
    Title: ufo sightings credible modern  
-   Link: [https://www.history.com/articles/ufo-sightings-credible-modern](https://www.history.com/articles/ufo-sightings-credible-modern)  
+   Link: <a href="https://www.history.com/articles/ufo-sightings-credible-modern" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-sightings-credible-modern</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force revealed weeks later that F-16s were flying in the Brownwood Military Operating Areas (just southwest of Stephenville)...Read...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ufocasebook.com  
-   Link: [https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf](https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf)  
+   Link: <a href="https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CasebookSpecial Research Report Stephenville, Texas4 Jul 2008 — Radar data from five different radar sites as well as witness testimo...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: latimes.com  
    Title: la xpm 2008 jun 14 sci ufo14 story  
-   Link: [https://www.latimes.com/archives/la-xpm-2008-jun-14-sci-ufo14-story.html](https://www.latimes.com/archives/la-xpm-2008-jun-14-sci-ufo14-story.html)  
+   Link: <a href="https://www.latimes.com/archives/la-xpm-2008-jun-14-sci-ufo14-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-2008-jun-14-sci-ufo14-story.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesHow UFOs took over a town14 Jun 2008 — Two weeks after the sighting, a break came in the case. Correcting its earlier st...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: chinadaily.com.cn  
    Title: content 6419154  
-   Link: [https://www.chinadaily.com.cn/world/2008-01/24/content_6419154.htm](https://www.chinadaily.com.cn/world/2008-01/24/content_6419154.htm)  
+   Link: <a href="https://www.chinadaily.com.cn/world/2008-01/24/content_6419154.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.chinadaily.com.cn/world/2008-01/24/content_6419154.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>China DailyF-16s were in area where UFO reported24 Jan 2008 — Fighter jets were training nearby the night dozens of Stephenville-area res...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&page=1](https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&page=1)  
+   Link: <a href="https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&amp;page=1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lights in the Sky15 Sept 2008 — In the Stephenville case, that evidence came in the form of radar data obtained from the Federal Aviation...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: astronomyufo.com  
    Title: Astronomy UFOSTEPHENVILLE, TEXAS UFO CASE  
-   Link: [https://www.astronomyufo.com/UFO/svilletx.htm](https://www.astronomyufo.com/UFO/svilletx.htm)  
+   Link: <a href="https://www.astronomyufo.com/UFO/svilletx.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/svilletx.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tim Printy&#x27;sJan 8, 2008 — The jets ignored them and that indicates to me that the USAF radar knew what the targets were and simply ignore...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/16yj9li/stephenville_radar_data_animation/](https://www.reddit.com/r/UFOs/comments/16yj9li/stephenville_radar_data_animation/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Stephenville radar](&amp;#123;&amp;#123; &#x27;stephenville/&#x27; | relative_url &amp;#125;&amp;#125;) data animation: r/UFOsThere is a comprehensive report on the radar data from the Stephenville sightings from MUFON at...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/16yj9li/stephenville_radar_data_animation/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16yj9li/stephenville_radar_data_animation/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stephenville radar data animation: r/UFOsThere is a comprehensive report on the radar data from the Stephenville sightings from MUFON at...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/086315c0-0ae8-45ed-a6be-650eef506f2b](https://enigmalabs.io/library/086315c0-0ae8-45ed-a6be-650eef506f2b)  
+   Link: <a href="https://enigmalabs.io/library/086315c0-0ae8-45ed-a6be-650eef506f2b" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/086315c0-0ae8-45ed-a6be-650eef506f2b</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingStephenville, Texas SightingOn the evening of January 8, 2008, several residents of Stephenville, Texa...</p></details>
    Published: January 8, 2008  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: on january 8th 2008 in stephenville texas a local pilot sees lights in the sky o  
-   Link: [https://www.facebook.com/NatGeoUK/posts/on-january-8th-2008-in-stephenville-texas-a-local-pilot-sees-lights-in-the-sky-o/10160900243743970/](https://www.facebook.com/NatGeoUK/posts/on-january-8th-2008-in-stephenville-texas-a-local-pilot-sees-lights-in-the-sky-o/10160900243743970/)  
+   Link: <a href="https://www.facebook.com/NatGeoUK/posts/on-january-8th-2008-in-stephenville-texas-a-local-pilot-sees-lights-in-the-sky-o/10160900243743970/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NatGeoUK/posts/on-january-8th-2008-in-stephenville-texas-a-local-pilot-sees-lights-in-the-sky-o/10160900243743970/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On January 8th, 2008 in Stephenville, Texas a local pilot...The Air Force later reversed its position and admitted that ten F-16 Fightin...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: texas mysteriesstephenville lights 2008stephenville texasdozens of witnesses inc  
-   Link: [https://www.facebook.com/txchronicles/posts/texas-mysteriesstephenville-lights-2008stephenville-texasdozens-of-witnesses-inc/1271477624634608/](https://www.facebook.com/txchronicles/posts/texas-mysteriesstephenville-lights-2008stephenville-texasdozens-of-witnesses-inc/1271477624634608/)  
+   Link: <a href="https://www.facebook.com/txchronicles/posts/texas-mysteriesstephenville-lights-2008stephenville-texasdozens-of-witnesses-inc/1271477624634608/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/texas-mysteriesstephenville-lights-2008stephenville-texasdozens-of-witnesses-inc/1271477624634608/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Texas Mysteries Stephenville Lights (2008)...Later they changed course and said there were a group of F-16s conducting training in the a...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pr.com  
    Title: Radar Data Supports Stephenville, Texas UFO Sightings Fort Collins, CO,  
-   Link: [https://www.pr.com/press-release/94809](https://www.pr.com/press-release/94809)  
+   Link: <a href="https://www.pr.com/press-release/94809" target="_blank" rel="noopener noreferrer nofollow">https://www.pr.com/press-release/94809</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Radar Data Supports Stephenville, Texas UFO SightingsFort Collins, CO, July 12, 2008 --(PR.com)-- Radar data obtained by MUFON confirms t...</p></details>
    Published: July 12, 2008  
 
 15. <a id="endnote-15"></a>
    Source: explorescu.org  
    Title: stephenville lights a comprehensive radar and witness report study  
-   Link: [https://www.explorescu.org/post/stephenville-lights-a-comprehensive-radar-and-witness-report-study](https://www.explorescu.org/post/stephenville-lights-a-comprehensive-radar-and-witness-report-study)  
+   Link: <a href="https://www.explorescu.org/post/stephenville-lights-a-comprehensive-radar-and-witness-report-study" target="_blank" rel="noopener noreferrer nofollow">https://www.explorescu.org/post/stephenville-lights-a-comprehensive-radar-and-witness-report-study</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stephenville Lights: A Comprehensive Radar and Witness...18 Dec 2010 — This report presents the results of a lengthy and detailed analys...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: foxnews.com  
    Title: mystery may be solved for texas town abuzz over ufo sightings  
-   Link: [https://www.foxnews.com/story/mystery-may-be-solved-for-texas-town-abuzz-over-ufo-sightings](https://www.foxnews.com/story/mystery-may-be-solved-for-texas-town-abuzz-over-ufo-sightings)  
+   Link: <a href="https://www.foxnews.com/story/mystery-may-be-solved-for-texas-town-abuzz-over-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/story/mystery-may-be-solved-for-texas-town-abuzz-over-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery May Be Solved for Texas Town Abuzz Over UFO...24 Jan 2008 — FORT WORTH, Texas – Fighter jets were training nearby the night doze...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: en.wikinews.org  
    Title: MUFON releases report on UFO sighting in Stephenville, Texas  
-   Link: [https://en.wikinews.org/wiki/MUFON_releases_report_on_UFO_sighting_in_Stephenville%2C_Texas](https://en.wikinews.org/wiki/MUFON_releases_report_on_UFO_sighting_in_Stephenville%2C_Texas)  
+   Link: <a href="https://en.wikinews.org/wiki/MUFON_releases_report_on_UFO_sighting_in_Stephenville%2C_Texas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikinews.org/wiki/MUFON_releases_report_on_UFO_sighting_in_Stephenville%2C_Texas</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>releases report on UFO sighting in Stephenville...18 Jul 2008 — The report is an analysis of radar records from the Federal Aviation Ad...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/17ufz50/tamron_hall_interviews_steve_allen_who_saw_a/](https://www.reddit.com/r/aliens/comments/17ufz50/tamron_hall_interviews_steve_allen_who_saw_a/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/17ufz50/tamron_hall_interviews_steve_allen_who_saw_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/17ufz50/tamron_hall_interviews_steve_allen_who_saw_a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>followed by two F-16 jets in Stephenville, Texas on January 8, 2008.Read more...</p></details>
    Published: January 8, 2008  
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/11p7ml7/what_do_you_guys_think_about_the_stephenville/](https://www.reddit.com/r/UFOs/comments/11p7ml7/what_do_you_guys_think_about_the_stephenville/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/11p7ml7/what_do_you_guys_think_about_the_stephenville/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11p7ml7/what_do_you_guys_think_about_the_stephenville/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sighting, as an unknown object seems to have left radar tracks...Read more...</p></details>

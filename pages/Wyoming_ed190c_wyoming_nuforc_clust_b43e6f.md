@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-wyoming-skies/
 nav_short_title: Sightings Map
 title: Where Do Wyoming UFO Reports Cluster?
-title_full: Where Do Wyoming UFO Reports Cluster? | Wyoming UFOs
+title_full: Where Do Wyoming UFO Reports Cluster?
 display_title_short: Sightings Map
 display_title: Sightings Map
 heading_title: Where Do Wyoming UFO Reports Cluster?
@@ -262,28 +262,25 @@ image: /assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f-overview-social
 
 ## Introduction
 
-Modern NUFORC reports in [Wyoming]({{ 'what-really-happened-in-wyoming-skies/' | relative_url }}) cluster most clearly around the state’s larger communities, especially [Cheyenne]({{ 'cheyenne/' | relative_url }}), Casper and Laramie, with smaller concentrations in Rock Springs, Gillette, Cody, Sheridan, Riverton, Evanston and Lander. That pattern is interesting, but it is not proof that those places are uniquely “visited”. It mostly shows where people live, drive, watch the sky, have internet access, and encounter aircraft, satellites, meteors, drones and military activity. NUFORC’s own Wyoming index currently lists hundreds of state reports, while a 2025 city ranking based on NUFORC data found Cheyenne first with 50 reports, Casper second with 38 and Laramie third with 31 since 1995. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
-
+Modern NUFORC reports in Wyoming cluster most clearly around the state’s larger communities, especially [Cheyenne]({{ 'cheyenne/' | relative_url }}), Casper and Laramie, with smaller concentrations in Rock Springs, Gillette, Cody, Sheridan, Riverton, Evanston and Lander. That pattern is interesting, but it is not proof that those places are uniquely “visited”. It mostly shows where people live, drive, watch the sky, have internet access, and encounter aircraft, satellites, meteors, drones and military activity. NUFORC’s own Wyoming index currently lists hundreds of state reports, while a 2025 city ranking based on NUFORC data found Cheyenne first with 50 reports, Casper second with 38 and Laramie third with 31 since 1995. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
 <img src="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f-overview.webp" | relative_url }}" alt="Overview image for Sightings Map" loading="eager" decoding="sync" fetchpriority="high">
 The useful question, then, is not whether Wyoming’s city clusters prove a single mystery. They do not. The better question is what these clusters reveal about modern UFO reporting in a big-sky state: population concentrates reports, dark horizons make ordinary lights stand out, airports and military facilities add more moving objects, and thin records often make sincere sightings hard to resolve after the fact.
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f-Illustration-3-light.svg" | relative_url }}" alt="Sightings Map illustration 3" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f-Illustration-3-dark.svg" | relative_url }}" alt="Sightings Map illustration 3" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What NUFORC Reports Can and Cannot Show
 
-The National UFO Reporting Center, usually shortened to NUFORC, is a public reporting database rather than an official finding of fact. Its site describes its role as the collection and dissemination of UFO or UAP data, and its database allows readers to browse reports by state, location and individual sighting record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">National UFO Reporting Center | Report a UFO | Report a UAP</span><span class="citation-popover-snippet">National UFO Reporting Center | Report a UFO | Report a UAP</span></span></span> For Wyoming, that makes NUFORC valuable because it preserves many modern accounts that would otherwise disappear into social media posts, local gossip or private memory.
+The National UFO Reporting Center, usually shortened to NUFORC, is a public reporting database rather than an official finding of fact. Its site describes its role as the collection and dissemination of UFO or UAP data, and its database allows readers to browse reports by state, location and individual sighting record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAP</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAP</span></span></span> For Wyoming, that makes NUFORC valuable because it preserves many modern accounts that would otherwise disappear into social media posts, local gossip or private memory.
 
 It also means the data need careful handling. A NUFORC entry usually begins as a witness narrative: a date, location, shape, duration, direction, number of observers and short description. Some reports include photographs or follow-up notes; many do not. The Wyoming index shows this mixture clearly, with entries ranging from brief “light” or “fireball” sightings to longer stories involving repeated lights, alleged craft shapes, aircraft nearby or later personal interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lWY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State WY</span><span class="citation-popover-snippet">Reports for State WY</span></span></span> A cluster in the database therefore marks a cluster of reports, not a confirmed cluster of anomalous objects.
 
-The strongest way to read the Wyoming figures is comparatively. NUFORC’s location page currently lists 449 Wyoming reports, a small total compared with large states such as California or Texas, but still enough to show internal clustering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=192795" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> A 2025 Stacker analysis, using NUFORC data from 1995 onwards and excluding locations listed across multiple cities, ranked the top Wyoming communities as Cheyenne with 50 sightings, Casper with 38, Laramie with 31, Rock Springs with 17, Gillette with 15, Cody with 14, Sheridan and Evanston with 12 each, Riverton with 11 and Lander with 8. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/wyoming/cities-most-ufo-sightings-wyoming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Wyoming | Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Wyoming | Stacker</span></span></span>
+The strongest way to read the Wyoming figures is comparatively. NUFORC’s location page currently lists 449 Wyoming reports, a small total compared with large states such as California or Texas, but still enough to show internal clustering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=192795" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> A 2025 Stacker analysis, using NUFORC data from 1995 onwards and excluding locations listed across multiple cities, ranked the top Wyoming communities as Cheyenne with 50 sightings, Casper with 38, Laramie with 31, Rock Springs with 17, Gillette with 15, Cody with 14, Sheridan and Evanston with 12 each, Riverton with 11 and Lander with 8. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/wyoming/cities-most-ufo-sightings-wyoming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Wyoming &#124; Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Wyoming &#124; Stacker</span></span></span>
 
 Those numbers should not be over-read. They are small, and minor database updates can shift ranks. Cowboy State Daily, writing in January 2025 from a similar NUFORC-based list, gave Cheyenne 50 reports but Casper 37 and Laramie 29, showing how quickly counts can differ by snapshot, inclusion rule or update date. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2025/01/01/cheyenne-reports-more-ufo-sightings-than-anywhere-else-in-wyoming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The stable conclusion is not the exact margin between Casper and Laramie. It is that Wyoming’s modern NUFORC map is led by the same places that dominate the state’s population, roads, airports and public attention.
 
 Academic work on public UAP reports supports that cautious reading. A 2023 Scientific Reports study using NUFORC data modelled more than 98,000 public sightings from 2001 to 2020 and tested environmental variables including light pollution, cloud cover, tree canopy, airports and military installations. The authors framed the issue as “opportunity to see”: people report more phenomena where they have clearer sky views and where there are more potential objects in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That is almost a Wyoming summary in miniature.
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f-Illustration-1-light.svg" | relative_url }}" alt="Sightings Map illustration 1" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f-Illustration-1-dark.svg" | relative_url }}" alt="Sightings Map illustration 1" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Cheyenne, Casper, Laramie and Other Hotspots
 
 Cheyenne sits at the top of the modern Wyoming list for several reasons at once. It is the state capital, one of Wyoming’s largest population centres, close to major roads, served by a regional airport, and linked to F.E. Warren Air Force Base. Cheyenne Regional Airport describes its terminal as close to downtown and Interstate 25, while F.E. Warren’s official materials identify the base as home to the 90th Missile Wing and a Minuteman III intercontinental ballistic missile mission on continuous alert. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cheyenneairport.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cheyenneairport.com">[cheyenneairport.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cheyenneairport.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -300,10 +297,9 @@ Laramie is perhaps the most interesting of the three leaders because it is small
 
 The Laramie reports also show the range inside a single city cluster. NUFORC’s older Wyoming entries include multiple Laramie-area narratives from the late 1980s and early 1990s, some involving lights or craft claims and others involving more unusual personal details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=194812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> A more recent October 2025 Laramie entry, however, is much more straightforward: two witnesses described a large green fireball with a flaming tail descending behind a hill, and NUFORC marks “Meteor - Probable” as the explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=197722" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> The city’s cluster therefore contains both unresolved-feeling anecdotes and reports that point towards familiar sky phenomena.
 
-Beyond the top three, the smaller clusters follow Wyoming’s geography. Rock Springs appears high on the city list with 17 reports, which is notable because Sweetwater County has also drawn recent attention for drone-like lights near the Jim Bridger Power Plant and the Red Desert. That newer drone story is not simply a NUFORC city-count issue, but it shows why south-western Wyoming can generate modern aerial mystery reports around energy infrastructure, open desert and night-time industrial operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/wyoming/cities-most-ufo-sightings-wyoming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Wyoming | Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Wyoming | Stacker</span></span></span>
+Beyond the top three, the smaller clusters follow Wyoming’s geography. Rock Springs appears high on the city list with 17 reports, which is notable because Sweetwater County has also drawn recent attention for drone-like lights near the Jim Bridger Power Plant and the Red Desert. That newer drone story is not simply a NUFORC city-count issue, but it shows why south-western Wyoming can generate modern aerial mystery reports around energy infrastructure, open desert and night-time industrial operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/wyoming/cities-most-ufo-sightings-wyoming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Wyoming &#124; Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Wyoming &#124; Stacker</span></span></span>
 
 Cody and Sheridan show another Wyoming pattern: mountain-edge viewing. Cody’s NUFORC entries include a December 2025 report of repeated white, red and blue orbs seen from behind or near Rattlesnake Mountain over multiple nights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lMT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> Sheridan’s May 2026 report describes red and blue lights moving slowly and then apparently accelerating, but the narrative also includes subjective dream material and anxiety about reporting, which lowers its value as straightforward observational evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=59142" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> These reports are useful cultural and database evidence, but they are not strong physical evidence on their own.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g0Cjv3tDPdE" title="Exploring Wyoming&#x27;s Weird Folklore: Myths and Legends of the United States" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g0Cjv3tDPdE" target="_blank" rel="noopener noreferrer">Exploring Wyoming&#x27;s Weird Folklore: Myths and Legends of the United States</a></p><p class="youtube-embed-meta">Channel: T’s Storytime &middot; Views: 37.7K &middot; Uploaded: May 2026 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g0Cjv3tDPdE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g0Cjv3tDPdE">Open on YouTube</a></p></div></div></div>
 
@@ -319,14 +315,12 @@ Drones add a separate modern complication. Some drone reports are local, low and
 
 Official UAP reporting reinforces this conservative approach. The 2024 ODNI and Department of Defense UAP annual report was formally published for Congress, while AARO’s historical review found no evidence that U.S. government investigations had confirmed extraterrestrial technology and assessed that better data would likely resolve many cases as ordinary objects or phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">4020 uap 2024</span></span></span> That does not mean every Wyoming report is solved. It means that “unidentified” should usually be read literally: not identified from the available information.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2rVvvu7aMQQ" title="Terrifying Account of Alien Abduction | Ghost Adventures | Discovery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2rVvvu7aMQQ" target="_blank" rel="noopener noreferrer">Terrifying Account of Alien Abduction | Ghost Adventures | Discovery</a></p><p class="youtube-embed-meta">Channel: Discovery &middot; Views: 11.1K &middot; Uploaded: November 2025 &middot; Length: 3 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2rVvvu7aMQQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2rVvvu7aMQQ">Open on YouTube</a></p></div></div></div>
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N_IV76eU0Bk" title="Tutorial 4: Making Density (Heat) Maps and Origin-Destination Maps in Tableau" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N_IV76eU0Bk" target="_blank" rel="noopener noreferrer">Tutorial 4: Making Density (Heat) Maps and Origin-Destination Maps in Tableau</a></p><p class="youtube-embed-meta">Channel: Will Jones &middot; Views: 715 &middot; Uploaded: December 2021 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N_IV76eU0Bk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N_IV76eU0Bk">Open on YouTube</a></p></div></div></div>
-
-
-<img src="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f-Illustration-2-light.svg" | relative_url }}" alt="Sightings Map illustration 2" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f-Illustration-2-dark.svg" | relative_url }}" alt="Sightings Map illustration 2" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Read the Wyoming City Pattern
 
-The best reading of modern NUFORC clusters in Wyoming is layered, not sensational. Cheyenne, Casper and Laramie lead because they combine people, open sky and aerial activity. Smaller towns enter the list when they have enough population, tourism, roads, mountain horizons or industrial context to put more observers under visible skies. That is why the Stacker/NUFORC top ten looks less like a map of alien visitation and more like a map of Wyoming’s lived geography: capital city, regional hubs, university town, energy corridor, mountain gateways and county seats. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/wyoming/cities-most-ufo-sightings-wyoming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Wyoming | Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Wyoming | Stacker</span></span></span>
+The best reading of modern NUFORC clusters in Wyoming is layered, not sensational. Cheyenne, Casper and Laramie lead because they combine people, open sky and aerial activity. Smaller towns enter the list when they have enough population, tourism, roads, mountain horizons or industrial context to put more observers under visible skies. That is why the Stacker/NUFORC top ten looks less like a map of alien visitation and more like a map of Wyoming’s lived geography: capital city, regional hubs, university town, energy corridor, mountain gateways and county seats. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/wyoming/cities-most-ufo-sightings-wyoming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Wyoming &#124; Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Wyoming &#124; Stacker</span></span></span>
 
 For readers comparing cases, the useful distinction is between a report cluster and a strong case. A cluster answers “where do people report from?” A strong case would need more: precise time, direction, angular size, weather, astronomical checks, aircraft and satellite checks, photographs or video with metadata, independent witnesses, and ideally radar, flight or official records. Most NUFORC city entries do not reach that level. They are leads, not verdicts.
 
@@ -334,9 +328,7 @@ That still gives them value within Wyoming’s UFO history. The older state stor
 
 The most balanced conclusion is that Wyoming’s city clusters are real as reporting clusters but weak as evidence for any single extraordinary cause. They are strongest when used to identify where sightings are likely to be reported, what ordinary explanations should be checked first, and how modern skywatching differs from older UFO eras. Cheyenne’s military and airport context, Casper’s aviation hub role, Laramie’s high clear-sky setting, and the smaller mountain and energy-town clusters all matter. None of them removes the need for sceptical, case-by-case investigation.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2rVvvu7aMQQ" title="Terrifying Account of Alien Abduction | Ghost Adventures | Discovery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2rVvvu7aMQQ" target="_blank" rel="noopener noreferrer">Terrifying Account of Alien Abduction | Ghost Adventures | Discovery</a></p><p class="youtube-embed-meta">Channel: Discovery &middot; Views: 11.1K &middot; Uploaded: November 2025 &middot; Length: 3 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2rVvvu7aMQQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2rVvvu7aMQQ">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N_IV76eU0Bk" title="Tutorial 4: Making Density (Heat) Maps and Origin-Destination Maps in Tableau" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N_IV76eU0Bk" target="_blank" rel="noopener noreferrer">Tutorial 4: Making Density (Heat) Maps and Origin-Destination Maps in Tableau</a></p><p class="youtube-embed-meta">Channel: Will Jones &middot; Views: 715 &middot; Uploaded: December 2021 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N_IV76eU0Bk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N_IV76eU0Bk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -424,7 +416,7 @@ The most balanced conclusion is that Wyoming’s city clusters are real as repor
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -434,111 +426,36 @@ The most balanced conclusion is that Wyoming’s city clusters are real as repor
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -546,15 +463,15 @@ The most balanced conclusion is that Wyoming’s city clusters are real as repor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -562,15 +479,15 @@ The most balanced conclusion is that Wyoming’s city clusters are real as repor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4"><img src="https://i.ebayimg.com/images/g/Ab0AAeSwSx9p8OkA/s-l225.jpg" alt="Listing image for ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -578,15 +495,15 @@ The most balanced conclusion is that Wyoming’s city clusters are real as repor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -594,7 +511,7 @@ The most balanced conclusion is that Wyoming’s city clusters are real as repor
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-map-a1af37-where-do-wyoming-ufo-reports-cluster-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-wyoming-ufo-reports-cluster-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -671,17 +588,31 @@ The most balanced conclusion is that Wyoming’s city clusters are real as repor
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -694,42 +625,73 @@ The most balanced conclusion is that Wyoming’s city clusters are real as repor
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -744,12 +706,17 @@ The most balanced conclusion is that Wyoming’s city clusters are real as repor
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -760,232 +727,232 @@ The most balanced conclusion is that Wyoming’s city clusters are real as repor
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 2. <a id="endnote-2"></a>
    Source: stacker.com  
    Title: Cities With the Most UFO Sightings in Wyoming | Stacker  
-   Link: [https://stacker.com/stories/wyoming/cities-most-ufo-sightings-wyoming](https://stacker.com/stories/wyoming/cities-most-ufo-sightings-wyoming)  
+   Link: <a href="https://stacker.com/stories/wyoming/cities-most-ufo-sightings-wyoming" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/wyoming/cities-most-ufo-sightings-wyoming</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: National UFO Reporting Center | Report a UFO | Report a UAP  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Reports for State WY  
-   Link: [https://nuforc.org/subndx/?id=lWY](https://nuforc.org/subndx/?id=lWY)  
+   Link: <a href="https://nuforc.org/subndx/?id=lWY" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lWY</a>  
 
 5. <a id="endnote-5"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-023-49527-x](https://www.nature.com/articles/s41598-023-49527-x)  
+   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
 
 6. <a id="endnote-6"></a>
    Source: cheyenneairport.com  
-   Link: [https://www.cheyenneairport.com/](https://www.cheyenneairport.com/)  
+   Link: <a href="https://www.cheyenneairport.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.cheyenneairport.com/</a>  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=192795](https://nuforc.org/sighting/?id=192795)  
+   Link: <a href="https://nuforc.org/sighting/?id=192795" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=192795</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=188231](https://nuforc.org/sighting/?id=188231)  
+   Link: <a href="https://nuforc.org/sighting/?id=188231" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=188231</a>  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=193248](https://nuforc.org/sighting/?id=193248)  
+   Link: <a href="https://nuforc.org/sighting/?id=193248" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193248</a>  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=194812](https://nuforc.org/sighting/?id=194812)  
+   Link: <a href="https://nuforc.org/sighting/?id=194812" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=194812</a>  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=197722](https://nuforc.org/sighting/?id=197722)  
+   Link: <a href="https://nuforc.org/sighting/?id=197722" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197722</a>  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lMT](https://nuforc.org/subndx/?id=lMT)  
+   Link: <a href="https://nuforc.org/subndx/?id=lMT" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lMT</a>  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=59142](https://nuforc.org/sighting/?id=59142)  
+   Link: <a href="https://nuforc.org/sighting/?id=59142" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=59142</a>  
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=195663](https://nuforc.org/sighting/?id=195663)  
+   Link: <a href="https://nuforc.org/sighting/?id=195663" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=195663</a>  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=192185](https://nuforc.org/sighting/?id=192185)  
+   Link: <a href="https://nuforc.org/sighting/?id=192185" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=192185</a>  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=195074](https://nuforc.org/sighting/?id=195074)  
+   Link: <a href="https://nuforc.org/sighting/?id=195074" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=195074</a>  
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=194754](https://nuforc.org/sighting/?id=194754)  
+   Link: <a href="https://nuforc.org/sighting/?id=194754" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=194754</a>  
 
 20. <a id="endnote-20"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 21. <a id="endnote-21"></a>
    Source: aaro.mil  
    Title: AARO Trends 1996 2024 508  
-   Link: [https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf](https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: aaro.mil  
    Title: Satellite Flaring Paper  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2405.13091](https://arxiv.org/pdf/2405.13091)  
+   Link: <a href="https://arxiv.org/pdf/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2405.13091</a>  
 
 24. <a id="endnote-24"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 25. <a id="endnote-25"></a>
    Source: cheyenne.org  
    Title: regional airport  
-   Link: [https://www.cheyenne.org/listing/cheyenne-regional-airport/1075/](https://www.cheyenne.org/listing/cheyenne-regional-airport/1075/)  
+   Link: <a href="https://www.cheyenne.org/listing/cheyenne-regional-airport/1075/" target="_blank" rel="noopener noreferrer nofollow">https://www.cheyenne.org/listing/cheyenne-regional-airport/1075/</a>  
 
 26. <a id="endnote-26"></a>
    Source: cheyenne.org  
-   Link: [https://www.cheyenne.org/listing/f-e-warren-air-force-base/128/](https://www.cheyenne.org/listing/f-e-warren-air-force-base/128/)  
+   Link: <a href="https://www.cheyenne.org/listing/f-e-warren-air-force-base/128/" target="_blank" rel="noopener noreferrer nofollow">https://www.cheyenne.org/listing/f-e-warren-air-force-base/128/</a>  
 
 27. <a id="endnote-27"></a>
    Source: cowboystatedaily.com  
-   Link: [https://cowboystatedaily.com/2025/01/01/cheyenne-reports-more-ufo-sightings-than-anywhere-else-in-wyoming/](https://cowboystatedaily.com/2025/01/01/cheyenne-reports-more-ufo-sightings-than-anywhere-else-in-wyoming/)  
+   Link: <a href="https://cowboystatedaily.com/2025/01/01/cheyenne-reports-more-ufo-sightings-than-anywhere-else-in-wyoming/" target="_blank" rel="noopener noreferrer nofollow">https://cowboystatedaily.com/2025/01/01/cheyenne-reports-more-ufo-sightings-than-anywhere-else-in-wyoming/</a>  
 
 28. <a id="endnote-28"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/flight_deck/cpr](https://www.faa.gov/flight_deck/cpr)  
+   Link: <a href="https://www.faa.gov/flight_deck/cpr" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/flight_deck/cpr</a>  
 
 29. <a id="endnote-29"></a>
    Source: flylaramie.com  
-   Link: [https://www.flylaramie.com/](https://www.flylaramie.com/)  
+   Link: <a href="https://www.flylaramie.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.flylaramie.com/</a>  
 
 30. <a id="endnote-30"></a>
    Source: nypost.com  
    Title: New York Post Wyoming power plant booming with suspected UFO, drone sightings  
-   Link: [https://nypost.com/2025/12/18/us-news/wyoming-power-plant-booming-with-suspected-ufo-drone-sightings-but-still-no-answers-after-a-year/](https://nypost.com/2025/12/18/us-news/wyoming-power-plant-booming-with-suspected-ufo-drone-sightings-but-still-no-answers-after-a-year/)  
+   Link: <a href="https://nypost.com/2025/12/18/us-news/wyoming-power-plant-booming-with-suspected-ufo-drone-sightings-but-still-no-answers-after-a-year/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/12/18/us-news/wyoming-power-plant-booming-with-suspected-ufo-drone-sightings-but-still-no-answers-after-a-year/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Similar drone sightings occurred in Niobrara County and other states such as New Jersey, prompting national concern in previous years. Th...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
 
 32. <a id="endnote-32"></a>
    Source: worldpopulationreview.com  
-   Link: [https://worldpopulationreview.com/us-cities/wyoming](https://worldpopulationreview.com/us-cities/wyoming)  
+   Link: <a href="https://worldpopulationreview.com/us-cities/wyoming" target="_blank" rel="noopener noreferrer nofollow">https://worldpopulationreview.com/us-cities/wyoming</a>  
 
 33. <a id="endnote-33"></a>
    Source: worldpopulationreview.com  
-   Link: [https://worldpopulationreview.com/states/wyoming](https://worldpopulationreview.com/states/wyoming)  
+   Link: <a href="https://worldpopulationreview.com/states/wyoming" target="_blank" rel="noopener noreferrer nofollow">https://worldpopulationreview.com/states/wyoming</a>  
 
 34. <a id="endnote-34"></a>
    Source: dot.state.wy.us  
-   Link: [https://www.dot.state.wy.us/home/aeronautics/air_service/fly-wyoming-1/airports.html](https://www.dot.state.wy.us/home/aeronautics/air_service/fly-wyoming-1/airports.html)  
+   Link: <a href="https://www.dot.state.wy.us/home/aeronautics/air_service/fly-wyoming-1/airports.html" target="_blank" rel="noopener noreferrer nofollow">https://www.dot.state.wy.us/home/aeronautics/air_service/fly-wyoming-1/airports.html</a>  
 
 35. <a id="endnote-35"></a>
    Source: Wikipedia  
    Title: Cheyenne Regional Airport  
-   Link: [https://en.wikipedia.org/wiki/Cheyenne_Regional_Airport](https://en.wikipedia.org/wiki/Cheyenne_Regional_Airport)  
+   Link: <a href="https://en.wikipedia.org/wiki/Cheyenne_Regional_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cheyenne_Regional_Airport</a>  
 
 36. <a id="endnote-36"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Wyoming](https://en.wikipedia.org/wiki/Wyoming)  
+   Link: <a href="https://en.wikipedia.org/wiki/Wyoming" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wyoming</a>  
 
 37. <a id="endnote-37"></a>
    Source: cowboystatedaily.com  
    Title: drone patterns over new jersey similar to those in wyomings niobrara county  
-   Link: [https://cowboystatedaily.com/2024/12/13/drone-patterns-over-new-jersey-similar-to-those-in-wyomings-niobrara-county/](https://cowboystatedaily.com/2024/12/13/drone-patterns-over-new-jersey-similar-to-those-in-wyomings-niobrara-county/)  
+   Link: <a href="https://cowboystatedaily.com/2024/12/13/drone-patterns-over-new-jersey-similar-to-those-in-wyomings-niobrara-county/" target="_blank" rel="noopener noreferrer nofollow">https://cowboystatedaily.com/2024/12/13/drone-patterns-over-new-jersey-similar-to-those-in-wyomings-niobrara-county/</a>  
 
 38. <a id="endnote-38"></a>
    Source: infoplease.com  
-   Link: [https://www.infoplease.com/us/census/wyoming](https://www.infoplease.com/us/census/wyoming)  
+   Link: <a href="https://www.infoplease.com/us/census/wyoming" target="_blank" rel="noopener noreferrer nofollow">https://www.infoplease.com/us/census/wyoming</a>  
 
 39. <a id="endnote-39"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/geography-and-cartography/wyoming](https://www.ebsco.com/research-starters/geography-and-cartography/wyoming)  
+   Link: <a href="https://www.ebsco.com/research-starters/geography-and-cartography/wyoming" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/geography-and-cartography/wyoming</a>  
 
 40. <a id="endnote-40"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/place/Wyoming-state](https://www.britannica.com/place/Wyoming-state)  
+   Link: <a href="https://www.britannica.com/place/Wyoming-state" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Wyoming-state</a>  
 
 41. <a id="endnote-41"></a>
    Source: public.tableau.com  
    Title: National UFOReporting Center NUFORCdata  
-   Link: [https://public.tableau.com/app/profile/chandler.kaiden/viz/NationalUFOReportingCenterNUFORCdata/NationalUFOReportingCenterNUFORCdata](https://public.tableau.com/app/profile/chandler.kaiden/viz/NationalUFOReportingCenterNUFORCdata/NationalUFOReportingCenterNUFORCdata)  
+   Link: <a href="https://public.tableau.com/app/profile/chandler.kaiden/viz/NationalUFOReportingCenterNUFORCdata/NationalUFOReportingCenterNUFORCdata" target="_blank" rel="noopener noreferrer nofollow">https://public.tableau.com/app/profile/chandler.kaiden/viz/NationalUFOReportingCenterNUFORCdata/NationalUFOReportingCenterNUFORCdata</a>  
 
 42. <a id="endnote-42"></a>
    Source: sk.sagepub.com  
-   Link: [https://sk.sagepub.com/ency/edvol/political-encyclopedia-of-us-states-and-regions/chpt/wyoming](https://sk.sagepub.com/ency/edvol/political-encyclopedia-of-us-states-and-regions/chpt/wyoming)  
+   Link: <a href="https://sk.sagepub.com/ency/edvol/political-encyclopedia-of-us-states-and-regions/chpt/wyoming" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/political-encyclopedia-of-us-states-and-regions/chpt/wyoming</a>  
 
 ### Additional References
 
 43. <a id="endnote-43"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Mww3arniyt0](https://www.youtube.com/watch?v=Mww3arniyt0)  
+   Link: <a href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mww3arniyt0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tutorial 4: Making Density (Heat) Maps and Origin-Destination Maps in Tableau...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
    Title: A hunter's encounter with aliens in Wyoming defies all logic  
-   Link: [https://www.youtube.com/watch?v=J-iB49RaXIQ](https://www.youtube.com/watch?v=J-iB49RaXIQ)  
+   Link: <a href="https://www.youtube.com/watch?v=J-iB49RaXIQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J-iB49RaXIQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: youtube.com  
    Title: Exploring Wyoming's Weird Folklore: Myths and Legends of the United States  
-   Link: [https://www.youtube.com/watch?v=g0Cjv3tDPdE](https://www.youtube.com/watch?v=g0Cjv3tDPdE)  
+   Link: <a href="https://www.youtube.com/watch?v=g0Cjv3tDPdE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g0Cjv3tDPdE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A hunter&#x27;s encounter with aliens in Wyoming defies all logic...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: youtube.com  
    Title: Tutorial 4: Making Density (Heat) Maps and Origin-Destination Maps in Tableau  
-   Link: [https://www.youtube.com/watch?v=N_IV76eU0Bk](https://www.youtube.com/watch?v=N_IV76eU0Bk)  
+   Link: <a href="https://www.youtube.com/watch?v=N_IV76eU0Bk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N_IV76eU0Bk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US releases files on UFOs, decades of sightings revealed...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: census.gov  
    Title: U.S. Census Bureau Quick Facts: Cheyenne city, Wyoming Population, Census,  
-   Link: [https://www.census.gov/quickfacts/fact/table/cheyennecitywyoming/PST045225](https://www.census.gov/quickfacts/fact/table/cheyennecitywyoming/PST045225)  
+   Link: <a href="https://www.census.gov/quickfacts/fact/table/cheyennecitywyoming/PST045225" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/quickfacts/fact/table/cheyennecitywyoming/PST045225</a>  
 
 48. <a id="endnote-48"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1i9iqy3/aaro_paper_on_uap_starlink_flares/](https://www.reddit.com/r/UFOs/comments/1i9iqy3/aaro_paper_on_uap_starlink_flares/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1i9iqy3/aaro_paper_on_uap_starlink_flares/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1i9iqy3/aaro_paper_on_uap_starlink_flares/</a>  
 
 49. <a id="endnote-49"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WGNTV/posts/according-to-a-recent-study-led-by-university-of-utah-geographers-the-best-place/938837964505578/](https://www.facebook.com/WGNTV/posts/according-to-a-recent-study-led-by-university-of-utah-geographers-the-best-place/938837964505578/)  
+   Link: <a href="https://www.facebook.com/WGNTV/posts/according-to-a-recent-study-led-by-university-of-utah-geographers-the-best-place/938837964505578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WGNTV/posts/according-to-a-recent-study-led-by-university-of-utah-geographers-the-best-place/938837964505578/</a>  
 
 50. <a id="endnote-50"></a>
    Source: cheyenneleads.org  
-   Link: [https://cheyenneleads.org/member/cheyenne-regional-airport/](https://cheyenneleads.org/member/cheyenne-regional-airport/)  
+   Link: <a href="https://cheyenneleads.org/member/cheyenne-regional-airport/" target="_blank" rel="noopener noreferrer nofollow">https://cheyenneleads.org/member/cheyenne-regional-airport/</a>  
 
 51. <a id="endnote-51"></a>
    Source: travelwyoming.com  
-   Link: [https://travelwyoming.com/plan-your-trip/resources/arriving-by-air/](https://travelwyoming.com/plan-your-trip/resources/arriving-by-air/)  
+   Link: <a href="https://travelwyoming.com/plan-your-trip/resources/arriving-by-air/" target="_blank" rel="noopener noreferrer nofollow">https://travelwyoming.com/plan-your-trip/resources/arriving-by-air/</a>  
 
 52. <a id="endnote-52"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/fewarrenafb/](https://www.instagram.com/fewarrenafb/)  
+   Link: <a href="https://www.instagram.com/fewarrenafb/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/fewarrenafb/</a>

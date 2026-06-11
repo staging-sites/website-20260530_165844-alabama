@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /cape-legend/
 nav_short_title: Missing records
 title: Why are the 1941 records missing?
-title_full: Why are the 1941 records missing? | Cape Legend
+title_full: Why are the 1941 records missing?
 display_title_short: Missing records
 display_title: Missing records
 heading_title: Why are the 1941 records missing?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:32:09'
-parent_title: How Strong Is the Cape Girardeau Crash Story? | Missouri UFOs
+parent_title: How Strong Is the Cape Girardeau Crash Story?
 parent_permalink: /cape-legend/
 parent_nav_short_title: Cape Legend
 parent_heading_title: How Strong Is the Cape Girardeau Crash Story?
@@ -252,16 +252,14 @@ image: /assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_r
 
 The biggest problem with the alleged 1941 Cape Girardeau UFO crash is not simply that the story sounds extraordinary. It is that the records many researchers would expect to exist have never been produced. The claim involves a rural crash scene, local police, firefighters, a minister, photographers, military personnel, bodies, debris and an alleged recovery operation. If even part of that account happened as described, it would normally leave traces in newspapers, church records, police logs, coroner files, military paperwork, photographs, insurance reports or personal correspondence.
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-1-light.svg" | relative_url }}" alt="Missing records illustration 1" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-1-dark.svg" | relative_url }}" alt="Missing records illustration 1" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 More than eighty years later, investigators still argue over whether those records were destroyed, never existed, remain hidden, or point to a different event altogether. The absence of a verifiable paper trail has become one of the central reasons why the Cape Girardeau story remains a legend rather than a documented historical case. Even writers who support the crash narrative acknowledge that obtaining hard evidence has proved extremely difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-title">alleged ufo crash cape girardeau area</span><span class="citation-popover-snippet">He said the UFO went down in a field somewhere west of the Cape Girardeau Airport between Cape Girardeau and Chaffee.Read more...</span></span></span>
 
 ## What records a real crash might leave
 
-A genuine aviation disaster in southeast [Missouri]({{ 'what-really-happened-in-missouris-ufo/' | relative_url }}) in 1941 would normally be expected to generate multiple independent records rather than a single source.
+A genuine aviation disaster in southeast Missouri in 1941 would normally be expected to generate multiple independent records rather than a single source.
 
 At a minimum, researchers would look for:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -290,7 +288,6 @@ This absence matters because local newspapers of the period regularly covered ac
 
 Supporters of the crash narrative sometimes argue that wartime secrecy or government pressure could explain missing coverage. Critics counter that the United States was not yet fully mobilised for war in April 1941 and that suppressing every local mention would have required a level of coordination for which no documentary evidence has surfaced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-title">alleged ufo crash cape girardeau area</span><span class="citation-popover-snippet">He said the UFO went down in a field somewhere west of the Cape Girardeau Airport between Cape Girardeau and Chaffee.Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dvlgGKf7oq0" title="UFO files: UAP disclosures &amp; evidence for unexplained cases | Backscroll" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dvlgGKf7oq0" target="_blank" rel="noopener noreferrer">UFO files: UAP disclosures &amp; evidence for unexplained cases | Backscroll</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 56.2K &middot; Uploaded: May 2026 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dvlgGKf7oq0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dvlgGKf7oq0">Open on YouTube</a></p></div></div></div>
 
 ## The missing police, fire and coroner trail
@@ -302,7 +299,6 @@ Most versions describe local authorities reaching the scene before military pers
 Researchers have repeatedly searched for supporting documentation but have not produced a verified police report, fire log or coroner record tied directly to the alleged event. This does not necessarily prove nothing happened. Small-town records from the early 1940s were not always preserved permanently. Many local agencies kept incomplete archives, and some material was discarded long before anyone connected it to a future UFO story.
 
 Even so, the absence of records means investigators cannot independently establish basic facts such as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -316,8 +312,7 @@ Even so, the absence of records means investigators cannot independently establi
 
 Without those details, the story remains difficult to test against surviving public archives.
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-2-light.svg" | relative_url }}" alt="Missing records illustration 2" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-2-dark.svg" | relative_url }}" alt="Missing records illustration 2" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The military paperwork problem
 
 Military involvement is central to most versions of the Cape Girardeau narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The 1941 Cape Girardeau Conundrum</span><span class="citation-popover-snippet">Academia(PDF) The 1941 Cape Girardeau ConundrumThere was no UFO crash in Cape Girardeau in 1941. Previous books, articles, reenactments a...</span></span></span>
@@ -340,7 +335,6 @@ For investigators, the issue is not only that the image is missing. It is that t
 
 Questions remain unanswered:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Who originally took the photograph?
@@ -353,8 +347,7 @@ Questions remain unanswered:
 
 Because the photograph cannot be examined, it functions more as testimony about evidence than as evidence itself. The same problem affects alleged debris, sketches and other artefacts sometimes mentioned in later retellings. None has been verified in a way that allows independent researchers to test the claims.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CNYfSSKr56E" title="Before &amp; After - The 1941 UFO Crash in Cape Girardeau 4K" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CNYfSSKr56E" target="_blank" rel="noopener noreferrer">Before &amp; After - The 1941 UFO Crash in Cape Girardeau 4K</a></p><p class="youtube-embed-meta">Channel: Morgan Johnson’s Life in Cape Girardeau &middot; Views: 6.5K &middot; Uploaded: September 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CNYfSSKr56E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CNYfSSKr56E">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bjXvAmlzGUs" title="UFO Crash At Cape Girardeau" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bjXvAmlzGUs" target="_blank" rel="noopener noreferrer">UFO Crash At Cape Girardeau</a></p><p class="youtube-embed-meta">Channel: Necronomipod &middot; Views: 22 &middot; Uploaded: February 2026 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bjXvAmlzGUs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bjXvAmlzGUs">Open on YouTube</a></p></div></div></div>
 
 ## Why the date and location remain difficult to verify
 
@@ -368,8 +361,7 @@ When investigators do not know precisely where or when an event occurred, search
 
 As a result, the search for records sometimes becomes circular. The records are needed to confirm the date and location, but the uncertain date and location make finding records far more difficult.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bjXvAmlzGUs" title="UFO Crash At Cape Girardeau" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bjXvAmlzGUs" target="_blank" rel="noopener noreferrer">UFO Crash At Cape Girardeau</a></p><p class="youtube-embed-meta">Channel: Necronomipod &middot; Views: 22 &middot; Uploaded: February 2026 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bjXvAmlzGUs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bjXvAmlzGUs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CNYfSSKr56E" title="Before &amp; After - The 1941 UFO Crash in Cape Girardeau 4K" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CNYfSSKr56E" target="_blank" rel="noopener noreferrer">Before &amp; After - The 1941 UFO Crash in Cape Girardeau 4K</a></p><p class="youtube-embed-meta">Channel: Morgan Johnson’s Life in Cape Girardeau &middot; Views: 6.5K &middot; Uploaded: September 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CNYfSSKr56E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CNYfSSKr56E">Open on YouTube</a></p></div></div></div>
 
 ## How absence of evidence shapes the claim
 
@@ -379,12 +371,11 @@ However, the absence of evidence changes how the claim is assessed.
 
 Cases such as the 1973 southeast Missouri UFO flap investigated by physicist Harley Rutledge generated numerous witnesses, media reports and surviving documentation. Researchers can examine those records directly, compare accounts and test competing explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Harley Rutledge</span><span class="citation-popover-snippet">Harley Rutledge</span></span></span>
 
-The [Cape Girardeau crash]({{ 'cape-legend/' | relative_url }}) operates differently. Its strongest elements are retrospective family testimony, later investigator interviews and stories about evidence that is no longer available. The central question is therefore not whether witnesses believed something unusual happened. It is whether the supporting documentation that should help verify the story can be found.
+The Cape Girardeau crash operates differently. Its strongest elements are retrospective family testimony, later investigator interviews and stories about evidence that is no longer available. The central question is therefore not whether witnesses believed something unusual happened. It is whether the supporting documentation that should help verify the story can be found.
 
 After decades of investigation, no widely accepted cache of newspaper articles, police reports, military files, photographs or physical artefacts has emerged to settle the issue. That evidence gap is why the alleged crash remains one of Missouri's most famous UFO legends while also remaining one of its least verifiable. The mystery survives largely because the expected records are missing, and because no explanation for their absence has gained broad acceptance among either believers or sceptics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">The 1941 Cape Girardeau Conundrum</span><span class="citation-popover-snippet">Academia(PDF) The 1941 Cape Girardeau ConundrumThere was no UFO crash in Cape Girardeau in 1941. Previous books, articles, reenactments a...</span></span></span>
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-3-light.svg" | relative_url }}" alt="Missing records illustration 3" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-3-dark.svg" | relative_url }}" alt="Missing records illustration 3" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_missing_1941_records_0177cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -808,85 +799,85 @@ After decades of investigation, no widely accepted cache of newspaper articles, 
 1. <a id="endnote-1"></a>
    Source: kfvs12.com  
    Title: alleged ufo crash cape girardeau area  
-   Link: [https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/](https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/)  
+   Link: <a href="https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/" target="_blank" rel="noopener noreferrer nofollow">https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>He said the UFO went down in a field somewhere west of the Cape Girardeau Airport between Cape Girardeau and Chaffee.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: academia.edu  
    Title: The 1941 Cape Girardeau Conundrum  
-   Link: [https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum](https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum)  
+   Link: <a href="https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) The 1941 Cape Girardeau ConundrumThere was no UFO crash in Cape Girardeau in 1941. Previous books, articles, reenactments a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Harley Rutledge  
-   Link: [https://en.wikipedia.org/wiki/Harley_Rutledge](https://en.wikipedia.org/wiki/Harley_Rutledge)  
+   Link: <a href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harley_Rutledge</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: kfvs12.com  
    Title: story alleged ufo crash near cape girardeau  
-   Link: [https://www.kfvs12.com/video/2021/05/26/story-alleged-ufo-crash-near-cape-girardeau/](https://www.kfvs12.com/video/2021/05/26/story-alleged-ufo-crash-near-cape-girardeau/)  
+   Link: <a href="https://www.kfvs12.com/video/2021/05/26/story-alleged-ufo-crash-near-cape-girardeau/" target="_blank" rel="noopener noreferrer nofollow">https://www.kfvs12.com/video/2021/05/26/story-alleged-ufo-crash-near-cape-girardeau/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Story of alleged UFO crash of 1941 near Cape GirardeauA UFO allegedly crashed in a field near Cape Girardeau in 1941.... A Missouri sena...</p></details>
 
 ### Additional References
 
 6. <a id="endnote-6"></a>
    Source: medium.com  
-   Link: [https://medium.com/never-stop-writing/the-night-a-priest-was-called-to-a-ufo-crash-89ec746b046d](https://medium.com/never-stop-writing/the-night-a-priest-was-called-to-a-ufo-crash-89ec746b046d)  
+   Link: <a href="https://medium.com/never-stop-writing/the-night-a-priest-was-called-to-a-ufo-crash-89ec746b046d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/never-stop-writing/the-night-a-priest-was-called-to-a-ufo-crash-89ec746b046d</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Night A Priest Was Called To A UFO CrashI Used an LLM to Analyze 140,000 UFO Reports. The Aliens Are Real… Level Up Coding. In.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sosupernaturalpodcast.com  
-   Link: [https://sosupernaturalpodcast.com/alien-cape-girardeau-incident/](https://sosupernaturalpodcast.com/alien-cape-girardeau-incident/)  
+   Link: <a href="https://sosupernaturalpodcast.com/alien-cape-girardeau-incident/" target="_blank" rel="noopener noreferrer nofollow">https://sosupernaturalpodcast.com/alien-cape-girardeau-incident/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ALIEN: Cape Girardeau IncidentALIEN: Cape Girardeau ALIEN: Cape Girardeau ALIEN: Cape Girardeau. Powered... The 1941 Cape Girardeau UFO...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: audioboom.com  
-   Link: [https://audioboom.com/posts/8818408-before-roswell-the-cape-girardeau-ufo-crash-and-america-s-first-uap-cover-up](https://audioboom.com/posts/8818408-before-roswell-the-cape-girardeau-ufo-crash-and-america-s-first-uap-cover-up)  
+   Link: <a href="https://audioboom.com/posts/8818408-before-roswell-the-cape-girardeau-ufo-crash-and-america-s-first-uap-cover-up" target="_blank" rel="noopener noreferrer nofollow">https://audioboom.com/posts/8818408-before-roswell-the-cape-girardeau-ufo-crash-and-america-s-first-uap-cover-up</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Before Roswell: The Cape Girardeau UFO Crash and...11 Mar 2025 — Six years before Roswell, a reported UFO crash in Cape Girardeau, Misso...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: Revised actual History of the first UFO Crash (Serious)r/aliens  
-   Link: [https://www.reddit.com/r/aliens/comments/1rnngue/revised_actual_history_of_the_first_ufo_crash/](https://www.reddit.com/r/aliens/comments/1rnngue/revised_actual_history_of_the_first_ufo_crash/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1rnngue/revised_actual_history_of_the_first_ufo_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1rnngue/revised_actual_history_of_the_first_ufo_crash/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1941 Cape Girardeau, MO UFO crash with dead occupants. youtube. 27. 9. Alien crash site on Google maps. r/aliens. • 2mo ago...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/15z3aag/six_years_before_roswell_ufo_crash_alien_coverup/](https://www.reddit.com/r/StrangeEarth/comments/15z3aag/six_years_before_roswell_ufo_crash_alien_coverup/)  
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/15z3aag/six_years_before_roswell_ufo_crash_alien_coverup/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15z3aag/six_years_before_roswell_ufo_crash_alien_coverup/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>who saw it confessed everything on his deathbed. Aliens &amp; UFOs.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DOJ3MP_EgOg/?hl=en](https://www.instagram.com/reel/DOJ3MP_EgOg/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DOJ3MP_EgOg/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOJ3MP_EgOg/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>at FBI agents quickly showed up to this site swore everyone to...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: a local legend has people sharing their connection to the story on social media  
-   Link: [https://www.facebook.com/cityofcape/posts/a-local-legend-has-people-sharing-their-connection-to-the-story-on-social-media/1329257749234429/](https://www.facebook.com/cityofcape/posts/a-local-legend-has-people-sharing-their-connection-to-the-story-on-social-media/1329257749234429/)  
+   Link: <a href="https://www.facebook.com/cityofcape/posts/a-local-legend-has-people-sharing-their-connection-to-the-story-on-social-media/1329257749234429/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cityofcape/posts/a-local-legend-has-people-sharing-their-connection-to-the-story-on-social-media/1329257749234429/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reverend William Huffman of the...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: UFO files: UAP disclosures & evidence for unexplained cases | Backscroll  
-   Link: [https://www.youtube.com/watch?v=dvlgGKf7oq0](https://www.youtube.com/watch?v=dvlgGKf7oq0)  
+   Link: <a href="https://www.youtube.com/watch?v=dvlgGKf7oq0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dvlgGKf7oq0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fifth Witness: UFO Crash-Retrievals Uncovered...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Before & After  
-   Link: [https://www.youtube.com/watch?v=CNYfSSKr56E](https://www.youtube.com/watch?v=CNYfSSKr56E)  
+   Link: <a href="https://www.youtube.com/watch?v=CNYfSSKr56E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CNYfSSKr56E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Backstory of The 1941 Cape Girardeau UFO Crash 4K...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/us/podcast/ufo-encounters-ep33-1941-cape-girardeau-ufo-crash/id1602263087?i=1000655776966](https://podcasts.apple.com/us/podcast/ufo-encounters-ep33-1941-cape-girardeau-ufo-crash/id1602263087?i=1000655776966)  
+   Link: <a href="https://podcasts.apple.com/us/podcast/ufo-encounters-ep33-1941-cape-girardeau-ufo-crash/id1602263087?i=1000655776966" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/ufo-encounters-ep33-1941-cape-girardeau-ufo-crash/id1602263087?i=1000655776966</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters Ep33 | 1941 Cape Girardeau UFO CrashMay 16, 2024 — A frequent lecturer on the UFO subject, Ryan has taught college courses and...</p></details>
-   Published: May 16, 2024  
+   Published: May 16, 2024

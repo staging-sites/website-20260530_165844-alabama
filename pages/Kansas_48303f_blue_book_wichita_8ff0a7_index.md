@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kansas-48303f-blue-book-wichita-8ff0a7/
 description: Focused pages that expand on Blue Book.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Kansas_48303f_blue_book_wichita_8ff0a7
-parent_title: Blue Book | What Did Kansas Really See?
+parent_title: Blue Book
 parent_nav_short_title: Blue Book
 parent_permalink: /blue-book-8ea670/
 ---
@@ -18,5 +18,5 @@ parent_permalink: /blue-book-8ea670/
 
 The following pages expand on the main **[Blue Book]({{ '/blue-book-8ea670/' | relative_url }})** page and cover its key branches in more detail.
 
-- [McConnell Probe]({{ '/mcconnell-probe/' | relative_url }})
+- [Mc Connell Probe]({{ '/mc-connell-probe/' | relative_url }})
 - [Wichita Radar]({{ '/wichita-radar/' | relative_url }})

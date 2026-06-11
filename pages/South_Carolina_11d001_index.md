@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /south-carolina-11d001-index/
 description: Focused pages that expand on What Makes South Carolina's UFO Story....
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: South_Carolina_11d001
 parent_title: What Makes South Carolina's UFO Story...

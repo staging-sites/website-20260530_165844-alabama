@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /roswell/
 nav_short_title: Mogul theory
 title: Was Roswell really a secret balloon project?
-title_full: Was Roswell really a secret balloon project? | Roswell
+title_full: Was Roswell really a secret balloon project?
 display_title_short: Mogul theory
 display_title: Mogul theory
 heading_title: Was Roswell really a secret balloon project?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:53:54'
-parent_title: What Really Holds Up in Roswell? | New Mexico UFOs
+parent_title: What Really Holds Up in Roswell?
 parent_permalink: /roswell/
 parent_nav_short_title: Roswell
 parent_heading_title: What Really Holds Up in Roswell?
@@ -250,10 +250,9 @@ image: /assets/images/New_Mexico_45551f_roswell_evidence_0eee44_project_mogul_ba
 
 ## Introduction
 
-The most widely accepted explanation for the [Roswell]({{ 'roswell/' | relative_url }}) debris is not a conventional weather balloon but a classified Cold War programme called Project Mogul. That distinction matters. The original 1947 military explanation referred to a weather balloon, but later Air Force investigations argued that the debris more likely came from a secret array of high-altitude balloons, radar reflectors and scientific equipment designed to detect Soviet nuclear tests. This helps explain one of the central puzzles in [New Mexico]({{ 'why-new-mexico-became-ufo-country/' | relative_url }})’s most famous UFO case: why witnesses described unusual-looking material and why military officials appeared evasive about its origin. The Mogul theory does not settle every argument around Roswell, but it provides a documented historical programme that fits many of the known features of the debris story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces, reco...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">report of air force research regarding the21 July 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the...</span><span class="citation-popover-meta">Published: July 1994</span></span></span>
+The most widely accepted explanation for the [Roswell]({{ 'roswell/' | relative_url }}) debris is not a conventional weather balloon but a classified Cold War programme called Project Mogul. That distinction matters. The original 1947 military explanation referred to a weather balloon, but later Air Force investigations argued that the debris more likely came from a secret array of high-altitude balloons, radar reflectors and scientific equipment designed to detect Soviet nuclear tests. This helps explain one of the central puzzles in New Mexico’s most famous UFO case: why witnesses described unusual-looking material and why military officials appeared evasive about its origin. The Mogul theory does not settle every argument around Roswell, but it provides a documented historical programme that fits many of the known features of the debris story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces, reco...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">report of air force research regarding the21 July 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the...</span><span class="citation-popover-meta">Published: July 1994</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_project_mogul_balloo_68627b-Illustration-1-light.svg" | relative_url }}" alt="Mogul theory illustration 1" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_project_mogul_balloo_68627b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_project_mogul_balloo_68627b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_project_mogul_balloo_68627b-Illustration-1-dark.svg" | relative_url }}" alt="Mogul theory illustration 1" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_project_mogul_balloo_68627b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_project_mogul_balloo_68627b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the wider history of UFO claims in New Mexico, Project Mogul is important because it links Roswell to real military secrecy rather than requiring an extraterrestrial explanation. The debate is therefore less about whether a secret project existed and more about whether the recovered debris can confidently be tied to that project. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces, reco...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia601607.us.archive.org">[2ia601607.us.archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia601607.us.archive.org</span><span class="citation-popover-snippet">The Roswell Report: Fact versus Fiction in the New Mexico...The importance of attachment 32, Lieutenant McAndrew&#x27;s synopsis, derives fro...</span></span></span>
 
 ## What Project Mogul was trying to detect
@@ -263,7 +262,6 @@ Project Mogul emerged during the early Cold War, when American military planners
 The programme was highly classified because its purpose touched directly on nuclear intelligence. Although some of the scientific balloon work was not itself secret, the military objective behind it was. Air Force reviews in the 1990s concluded that records from Project Mogul offered the most plausible explanation for the Roswell debris recovery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces, reco...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">report of air force research regarding the21 July 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the...</span><span class="citation-popover-meta">Published: July 1994</span></span></span>
 
 For readers looking at New Mexico's UFO history, this context matters because the state was already deeply connected to advanced military research. Roswell, Alamogordo, [White Sands]({{ 'white-sands/' | relative_url }}) and nearby installations formed part of a landscape where experimental aircraft, missile testing and classified projects regularly operated outside public view. Project Mogul fits naturally into that environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZltLHh_WsZs" title="The Roswell UFO Crash (Overview) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZltLHh_WsZs" target="_blank" rel="noopener noreferrer">The Roswell UFO Crash (Overview) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 9.8K &middot; Uploaded: July 2019 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZltLHh_WsZs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZltLHh_WsZs">Open on YouTube</a></p></div></div></div>
 
@@ -283,11 +281,10 @@ The radar reflectors are especially significant. These devices helped operators 
 
 The FBI teletype sent during the incident also described an object suspended beneath a balloon and associated with a radar reflector. While brief, that description aligns more closely with balloon-borne equipment than with a crashed spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_project_mogul_balloo_68627b-Illustration-2-light.svg" | relative_url }}" alt="Mogul theory illustration 2" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_project_mogul_balloo_68627b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_project_mogul_balloo_68627b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_project_mogul_balloo_68627b-Illustration-2-dark.svg" | relative_url }}" alt="Mogul theory illustration 2" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_project_mogul_balloo_68627b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_project_mogul_balloo_68627b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Flight 4 became the centre of the theory
 
-The Air Force's reconstruction focused particular attention on a Mogul launch known as Flight 4, launched from New Mexico in June 1947. Investigators argued that debris from this flight could have travelled into the area where rancher Mac Brazel later found scattered material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenberg The Roswell Report: Case Closed, by James Mc Andrew—</span><span class="citation-popover-snippet">New York University under contract to the U.S. Army Air Forces to develop high altitude balloon technology for Project Mogul. Moore launc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/160434858/The-Roswell-Mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Roswell Incident: Project Mogul Explained | PDF | ScienceNew York University Flight #4 carried three of these reflectors and before being...</span></span></span> Supporters of the Mogul explanation point to several factors:
+The Air Force's reconstruction focused particular attention on a Mogul launch known as Flight 4, launched from New Mexico in June 1947. Investigators argued that debris from this flight could have travelled into the area where rancher Mac Brazel later found scattered material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenberg The Roswell Report: Case Closed, by James Mc Andrew—</span><span class="citation-popover-snippet">New York University under contract to the U.S. Army Air Forces to develop high altitude balloon technology for Project Mogul. Moore launc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/160434858/The-Roswell-Mystery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Roswell Incident: Project Mogul Explained &#124; PDF &#124; ScienceNew York University Flight #4 carried three of these reflectors and before being...</span></span></span> Supporters of the Mogul explanation point to several factors:
 
 * The timing broadly matches the period before the debris was reported.
 * Flight 4 used radar reflectors and balloon materials resembling witness descriptions.
@@ -296,14 +293,13 @@ The Air Force's reconstruction focused particular attention on a Mogul launch kn
 
 However, critics of the Mogul explanation have questioned whether records for Flight 4 are complete and whether the exact flight path can be reconstructed with confidence. Some researchers argue that surviving documentation leaves uncertainties about which launches actually occurred and where they travelled. These disputes do not necessarily invalidate the Mogul theory, but they show why Roswell remains debated despite the existence of a plausible official explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/mogul-balloon-explanation-roswell?srsltid=AfmBOoo3WxHUhTPR_AxexTqCAgBLKW3IsjQ9-K3EbBfMMDxFLPLhTWuA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[Hangar1publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-snippet">4, launched June 4, 1947, as the probable source of the debris. And here&#x27;s where skeptics of the Mogul explanation make their...Read more...</span><span class="citation-popover-meta">Published: June 4, 1947</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">Project on Government SecrecyGAO Report on Roswell, NM UFO CrashGAO provided information on the 1947 weather balloon crash at Roswell Air...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TV0Xm9ZgiKQ" title="8th July 1947: First flying saucer as Roswell Army Air Base reports debris of a &#x27;flying disc&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TV0Xm9ZgiKQ" target="_blank" rel="noopener noreferrer">8th July 1947: First flying saucer as Roswell Army Air Base reports debris of a &#x27;flying disc&#x27;</a></p><p class="youtube-embed-meta">Channel: HistoryPod &middot; Views: 3.1K &middot; Uploaded: July 2017 &middot; Length: 2 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TV0Xm9ZgiKQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TV0Xm9ZgiKQ">Open on YouTube</a></p></div></div></div>
 
 ## Why a classified project made the first cover story suspicious
 
 One reason Roswell continues to attract attention is that the military's original explanation really was misleading.
 
-In July 1947, officials first announced recovery of a "flying disc" and then rapidly shifted to a weather-balloon explanation. For many observers, that abrupt reversal looked like evidence of a cover-up. The later revelation that a secret balloon project actually existed appeared to confirm that the government had concealed something. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Roswell incident | Overview, Theories, Hoaxes, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; FactsMay 8, 2026 — Roswell incident, events surrounding the crash...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
+In July 1947, officials first announced recovery of a "flying disc" and then rapidly shifted to a weather-balloon explanation. For many observers, that abrupt reversal looked like evidence of a cover-up. The later revelation that a secret balloon project actually existed appeared to confirm that the government had concealed something. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica Roswell incident &#124; Overview, Theories, Hoaxes, &amp; Facts</span><span class="citation-popover-snippet">Encyclopedia BritannicaRoswell incident &#124; Overview, Theories, Hoaxes, &amp; FactsMay 8, 2026 — Roswell incident, events surrounding the crash...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
 
 The crucial question is what was being concealed.
 
@@ -311,8 +307,7 @@ Under the Mogul interpretation, the cover story protected a classified intellige
 
 This remains one of the strongest points in favour of the Mogul theory. It explains both the unusual debris and the secrecy without requiring additional assumptions about hidden spacecraft, recovered bodies or decades-long suppression of physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces, reco...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia601607.us.archive.org">[2ia601607.us.archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia601607.us.archive.org</span><span class="citation-popover-snippet">The Roswell Report: Fact versus Fiction in the New Mexico...The importance of attachment 32, Lieutenant McAndrew&#x27;s synopsis, derives fro...</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_project_mogul_balloo_68627b-Illustration-3-light.svg" | relative_url }}" alt="Mogul theory illustration 3" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_project_mogul_balloo_68627b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_project_mogul_balloo_68627b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_project_mogul_balloo_68627b-Illustration-3-dark.svg" | relative_url }}" alt="Mogul theory illustration 3" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_project_mogul_balloo_68627b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_project_mogul_balloo_68627b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Mogul explanation still does not fully resolve
 
 The balloon explanation answers many of the questions raised by the original debris recovery, but not every issue raised by later Roswell narratives.
@@ -322,7 +317,6 @@ The biggest unresolved problem is the gap between contemporary records and testi
 There is also continuing disagreement over whether the debris shown in Fort Worth photographs exactly matches what some witnesses remembered. Believers often argue that the displayed material was substituted, while sceptics note that no surviving physical evidence demonstrates such a switch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Us_%282019_film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Us (2019 film</span><span class="citation-popover-snippet">Us (2019 film)Us is a 2019 American psychological horror film written and directed by Jordan Peele, and starring Lupita Nyong&#x27;o, Winst...</span></span></span>
 
 What remains striking is that the strongest documentary evidence comes from [1947 records]({{ '1947-records/' | relative_url }}) and later government investigations, and those sources consistently point toward balloons, radar reflectors and classified military equipment rather than a recovered extraterrestrial craft. The further a claim moves away from those contemporary records, the more heavily it depends on recollections recorded decades after the event. Project on Government Secrecy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces, reco...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xVUC7XK9s1w" title="Episode 442: The Roswell Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xVUC7XK9s1w" target="_blank" rel="noopener noreferrer">Episode 442: The Roswell Incident</a></p><p class="youtube-embed-meta">Channel: 13 O&#x27;Clock Podcast &middot; Views: 941 &middot; Uploaded: February 2025 &middot; Length: 3 hours 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xVUC7XK9s1w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xVUC7XK9s1w">Open on YouTube</a></p></div></div></div>
 
@@ -754,170 +748,170 @@ For that reason, most historians, military researchers and sceptical investigato
 1. <a id="endnote-1"></a>
    Source: nsa.gov  
    Title: report af roswell  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding the21 July 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the...</p></details>
    Published: July 1994  
 
 2. <a id="endnote-2"></a>
    Source: ia601607.us.archive.org  
-   Link: [https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf](https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf)  
+   Link: <a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Fact versus Fiction in the New Mexico...The importance of attachment 32, Lieutenant McAndrew&#x27;s synopsis, derives fro...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: muller.lbl.gov  
-   Link: [https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html](https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html)  
+   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ROSWELL INCIDENT REPORTRecords were located and thoroughly explored concerning a then-TOP SECRET balloon project... Project Mogul balloo...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: [https://en.wikipedia.org/wiki/Project_Mogul](https://en.wikipedia.org/wiki/Project_Mogul)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
 5. <a id="endnote-5"></a>
    Source: muller.lbl.gov  
-   Link: [https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html](https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html)  
+   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulThe objective of this trip, so far as NYU was concerned, was to perfect the handling of large flight trains of meteorologica...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: skepticalinquirer.org  
    Title: NYU/Project Mogul balloon assemblages being launched fairly regularly.Read more  
-   Link: [https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/](https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/)  
+   Link: <a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident at 70: Facts, Not MythsMoore brought with him a radar reflector like the three that were attached to Flight 4...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cdn.centerforinquiry.org  
    Title: The Roswell Incident and Project Mogulballoons used in NYU Flight 4  
-   Link: [https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1995/07/22165104/p17.pdf?_ga=2.167806568.87202448.1674674099-1555719303.1674674099](https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1995/07/22165104/p17.pdf?_ga=2.167806568.87202448.1674674099-1555719303.1674674099)  
+   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1995/07/22165104/p17.pdf?_ga=2.167806568.87202448.1674674099-1555719303.1674674099" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1995/07/22165104/p17.pdf?_ga=2.167806568.87202448.1674674099-1555719303.1674674099</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Much of the Roswell debris—sticks, metallic paper, and strangely marked tape—is similar to material used for die radar reflectors...Read...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: [https://en.wikipedia.org/wiki/Roswell_incident](https://en.wikipedia.org/wiki/Roswell_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
 9. <a id="endnote-9"></a>
    Source: gutenberg.org  
    Title: Project Gutenberg The Roswell Report: Case Closed, by James Mc Andrew—  
-   Link: [https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm](https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm)  
+   Link: <a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>New York University under contract to the U.S. Army Air Forces to develop high altitude balloon technology for Project Mogul. Moore launc...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/160434858/The-Roswell-Mystery](https://www.scribd.com/document/160434858/The-Roswell-Mystery)  
+   Link: <a href="https://www.scribd.com/document/160434858/The-Roswell-Mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/160434858/The-Roswell-Mystery</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Incident: Project Mogul Explained | PDF | ScienceNew York University Flight #4 carried three of these reflectors and before being...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: hangar1publishing.com  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/mogul-balloon-explanation-roswell?srsltid=AfmBOoo3WxHUhTPR_AxexTqCAgBLKW3IsjQ9-K3EbBfMMDxFLPLhTWuA](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/mogul-balloon-explanation-roswell?srsltid=AfmBOoo3WxHUhTPR_AxexTqCAgBLKW3IsjQ9-K3EbBfMMDxFLPLhTWuA)  
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/mogul-balloon-explanation-roswell?srsltid=AfmBOoo3WxHUhTPR_AxexTqCAgBLKW3IsjQ9-K3EbBfMMDxFLPLhTWuA" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/mogul-balloon-explanation-roswell?srsltid=AfmBOoo3WxHUhTPR_AxexTqCAgBLKW3IsjQ9-K3EbBfMMDxFLPLhTWuA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4, launched June 4, 1947, as the probable source of the debris. And here&#x27;s where skeptics of the Mogul explanation make their...Read more...</p></details>
    Published: June 4, 1947  
 
 12. <a id="endnote-12"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Roswell incident | Overview, Theories, Hoaxes, & Facts  
-   Link: [https://www.britannica.com/event/Roswell-incident](https://www.britannica.com/event/Roswell-incident)  
+   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaRoswell incident | Overview, Theories, Hoaxes, &amp; FactsMay 8, 2026 — Roswell incident, events surrounding the crash...</p></details>
    Published: May 8, 2026  
 
 13. <a id="endnote-13"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: [https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf](https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf)  
+   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Project](https://en.wikipedia.org/wiki/Project)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Us (2019 film)  
-   Link: [https://en.wikipedia.org/wiki/Us_%282019_film%29](https://en.wikipedia.org/wiki/Us_%282019_film%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Us_%282019_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Us_%282019_film%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Us (2019 film)Us is a 2019 American psychological horror film written and directed by Jordan Peele, and starring Lupita Nyong&#x27;o, Winst...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: af.mil  
    Title: The Roswell Report  
-   Link: [https://www.af.mil/The-Roswell-Report/](https://www.af.mil/The-Roswell-Report/)  
+   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces, reco...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: sgp.fas.org  
-   Link: [https://sgp.fas.org/othergov/roswell.html](https://sgp.fas.org/othergov/roswell.html)  
+   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project on Government SecrecyGAO Report on Roswell, NM UFO CrashGAO provided information on the 1947 weather balloon crash at Roswell Air...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: sciencefriday.com  
    Title: Science Friday The Real Roswell Cover-Up?  
-   Link: [https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/](https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/)  
+   Link: <a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 July 2017 — Each reflector looked something like a metallic box kite, and Project Mogul in fact contracted with a toy com...</p></details>
    Published: July 2017  
 
 19. <a id="endnote-19"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/project](https://dictionary.cambridge.org/dictionary/english/project)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionarya piece of planned work or an activity which is done over a period of time and intended to achiev...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya piece of planned work or an activity which is done over a period of time and intended to achiev...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: books.google.com  
    Title: The Roswell Report  
-   Link: [https://books.google.com/books/about/The_Roswell_Report.html?id=NLk6zkv20JsC](https://books.google.com/books/about/The_Roswell_Report.html?id=NLk6zkv20JsC)  
+   Link: <a href="https://books.google.com/books/about/The_Roswell_Report.html?id=NLk6zkv20JsC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Roswell_Report.html?id=NLk6zkv20JsC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force, 1995; Original from, Indiana University; Digitized, Dec 29, 2022; ISBN, 016048023X, 9780160480232.Read more...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: daviddarling.info  
-   Link: [https://www.daviddarling.info/encyclopedia/M/Mogul.html](https://www.daviddarling.info/encyclopedia/M/Mogul.html)  
+   Link: <a href="https://www.daviddarling.info/encyclopedia/M/Mogul.html" target="_blank" rel="noopener noreferrer nofollow">https://www.daviddarling.info/encyclopedia/M/Mogul.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project MogulProject Mogul was a program conducted by the U.S. Air Force to develop balloon-borne equipment to give early warning of Sovi...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: dafhistory.af.mil  
-   Link: [https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf](https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf)  
+   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell ReportThe importance of attachment 32, Lieutenant McAndrew&#x27;s synopsis, derives from his description of Project MOGUL, the top...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/](https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The long held Mogul Balloon explanation for the Roswell...The Mogul Balloon explanation is a theory that the DoD has long held to explai...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pmi.org  
-   Link: [https://www.pmi.org/about/what-is-a-project](https://www.pmi.org/about/what-is-a-project)  
+   Link: <a href="https://www.pmi.org/about/what-is-a-project" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/about/what-is-a-project</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Project, Examples and the Project LifecycleA project is a series of structured tasks, activities, and deliverables that are car...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
    Title: in july 1947 strange debris was discovered on a ranch near roswell after reports  
-   Link: [https://www.facebook.com/100090372200308/posts/in-july-1947-strange-debris-was-discovered-on-a-ranch-near-roswell-after-reports/985560514466346/](https://www.facebook.com/100090372200308/posts/in-july-1947-strange-debris-was-discovered-on-a-ranch-near-roswell-after-reports/985560514466346/)  
+   Link: <a href="https://www.facebook.com/100090372200308/posts/in-july-1947-strange-debris-was-discovered-on-a-ranch-near-roswell-after-reports/985560514466346/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100090372200308/posts/in-july-1947-strange-debris-was-discovered-on-a-ranch-near-roswell-after-reports/985560514466346/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In July 1947, strange debris was discovered on a ranch...On July 8, 1947, the RAAF issued a press release stating they had recovered a &quot;...</p></details>
    Published: july 1947  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
    Title: project mogul was a secret program conducted by the us air force and directed by  
-   Link: [https://www.facebook.com/TheWorldsofDavidDarling/posts/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746719187550/](https://www.facebook.com/TheWorldsofDavidDarling/posts/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746719187550/)  
+   Link: <a href="https://www.facebook.com/TheWorldsofDavidDarling/posts/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746719187550/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWorldsofDavidDarling/posts/project-mogul-was-a-secret-program-conducted-by-the-us-air-force-and-directed-by/960746719187550/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Mogul was a secret program conducted by the US...In 1994, declassified Air Force documents revealed the truth: The debris came f...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: smithsonianmag.com  
    Title: in 1947 high altitude balloon crash landed roswell aliens never left 180963917  
-   Link: [https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/](https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/)  
+   Link: <a href="https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smithsonian-institution/in-1947-high-altitude-balloon-crash-landed-roswell-aliens-never-left-180963917/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 5, 2017 — A high-altitude balloon crash landed in Roswell. The aliens never left. Despite its persistence in popular culture, extrate...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: nasw.org  
-   Link: [https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm](https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm)  
+   Link: <a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No aliens Visit Earth, But The Government Covers Up...The army sent an intelligence officer, Major Jesse Marcel, to check out the report...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/unraveling-roswell-really-first-ufo-crash-fresh-look-evidence-meyler-teogc](https://www.linkedin.com/pulse/unraveling-roswell-really-first-ufo-crash-fresh-look-evidence-meyler-teogc)  
+   Link: <a href="https://www.linkedin.com/pulse/unraveling-roswell-really-first-ufo-crash-fresh-look-evidence-meyler-teogc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/unraveling-roswell-really-first-ufo-crash-fresh-look-evidence-meyler-teogc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>acted within hours for a weather balloon explanation. The...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: merriam-webster.com  
    Title: PROJEC T Definition & Meaning6 days ago — 1  
-   Link: [https://www.merriam-webster.com/dictionary/project](https://www.merriam-webster.com/dictionary/project)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/project" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/project</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a: to devise in the mind: design b: to plan, figure, or estimate for the future 2. to throw or cast forward: thrust 3. to put or set...</p></details>

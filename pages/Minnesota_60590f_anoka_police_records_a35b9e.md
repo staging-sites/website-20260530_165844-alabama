@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-minnesotas-skies/
 nav_short_title: Anoka Report
 title: When Police Officers Report a UAP
-title_full: When Police Officers Report a UAP | Minnesota UAP
+title_full: When Police Officers Report a UAP
 display_title_short: Anoka Report
 display_title: Anoka Report
 heading_title: When Police Officers Report a UAP
@@ -262,8 +262,7 @@ image: /assets/images/Minnesota_60590f_anoka_police_records_a35b9e-overview-soci
 
 ## Introduction
 
-In February 2025, local law‑enforcement in **Anoka, [Minnesota]({{ 'what-really-happened-in-minnesotas-skies/' | relative_url }})** became part of a small set of modern UFO/UAP reports when several officers reported an extended sighting of an unusual aerial object. This case is notable not just for *what* was reported – a multicoloured object seen for about **90 minutes** – but because the witness accounts and limited video were preserved in **official federal records**, later **declassified under the U.S. National Archives’ Unidentified Anomalous Phenomena Records Collection**. Those records, derived from an **FBI submission**, give researchers and the public rare insight into how a local sighting enters formal archival channels, even when it does not lead to conclusive identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox9.com/news/fbi-files-ufo-sighting-anoka-police-department.amp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox9.com">[FOX 9 Minneapolis-St. Paul]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox9.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
+In February 2025, local law‑enforcement in **Anoka, Minnesota** became part of a small set of modern UFO/UAP reports when several officers reported an extended sighting of an unusual aerial object. This case is notable not just for *what* was reported – a multicoloured object seen for about **90 minutes** – but because the witness accounts and limited video were preserved in **official federal records**, later **declassified under the U.S. National Archives’ Unidentified Anomalous Phenomena Records Collection**. Those records, derived from an **FBI submission**, give researchers and the public rare insight into how a local sighting enters formal archival channels, even when it does not lead to conclusive identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox9.com/news/fbi-files-ufo-sighting-anoka-police-department.amp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox9.com">[FOX 9 Minneapolis-St. Paul]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox9.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Minnesota_60590f_anoka_police_records_a35b9e-overview.webp" | relative_url }}" alt="Overview image for Anoka Report" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Officers Reported They Saw
@@ -274,18 +273,16 @@ Over the course of roughly 90 minutes, the object was said to hover, shift pos
 
 One officer used binoculars and an iPhone to record video through the optical lenses; the footage released by the National Archives is widely described in media as **short and blurry** rather than a clear test of the sighting’s details. Observers also noted that extreme cold hindered the use of more sophisticated optics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox9.com/news/fbi-files-ufo-sighting-anoka-police-department.amp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox9.com">[FOX 9 Minneapolis-St. Paul]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox9.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/Minnesota_60590f_anoka_police_records_a35b9e-Illustration-1-light.svg" | relative_url }}" alt="Anoka Report illustration 1" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_anoka_police_records_a35b9e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_anoka_police_records_a35b9e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Minnesota_60590f_anoka_police_records_a35b9e-Illustration-1-dark.svg" | relative_url }}" alt="Anoka Report illustration 1" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_anoka_police_records_a35b9e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_anoka_police_records_a35b9e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Video, Distance Estimates, and Limits of the Record
 
 The footage associated with the sighting forms a key part of why this case entered the federal archival system, but it also illustrates typical limitations of unofficial recordings. The released video, published by outlets including **FOX 9**, shows a multicoloured flashing object in the night sky, but remains **unclear and indistinct**, making size, distance and motion difficult to interpret precisely. The FBI documents themselves, as archived, do not include any analytical conclusion about the object’s nature or origin – only the raw witness descriptions and the submitted video.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox9.com/news/fbi-files-ufo-sighting-anoka-police-department.amp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox9.com">[FOX 9 Minneapolis-St. Paul]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox9.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-One witness estimated the object’s altitude as between **10,000 and 30,000 feet** and at times **50 miles distant**, but such estimations from ground observations – especially at night without reference markers – have known limitations. No radar, flight tracking or instrument data are included in the federal records released so far.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aol.com/news/anoka-police-officers-reported-ufo-194940844.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aol.com">[AOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aol.com</span><span class="citation-popover-title">anoka police officers reported ufo 194940844</span><span class="citation-popover-snippet">AOLAnoka police officers reported UFO sighting in early 2025, FBI filing says - AOLYesterday...</span></span></span>
+One witness estimated the object’s altitude as between **10,000 and 30,000 feet** and at times **50 miles distant**, but such estimations from ground observations – especially at night without reference markers – have known limitations. No radar, flight tracking or instrument data are included in the federal records released so far.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aol.com/news/anoka-police-officers-reported-ufo-194940844.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aol.com">[AOL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aol.com</span><span class="citation-popover-title">anoka police officers reported ufo 194940844</span><span class="citation-popover-snippet">Anoka police officers reported UFO sighting in early 2025, FBI filing says - AOLYesterday...</span></span></span>
 
 The records also mention separate instances in Anoka: a similar object seen on **17 February 2025** by a patrolling officer and a **2022 sighting** near the Anoka Ice Arena recorded on a cell phone. These earlier encounters were noted as context but did not appear to lead to additional federal action.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox9.com/news/fbi-files-ufo-sighting-anoka-police-department.amp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox9.com">[FOX 9 Minneapolis-St. Paul]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox9.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/Minnesota_60590f_anoka_police_records_a35b9e-Illustration-3-light.svg" | relative_url }}" alt="Anoka Report illustration 3" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_anoka_police_records_a35b9e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_anoka_police_records_a35b9e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Minnesota_60590f_anoka_police_records_a35b9e-Illustration-3-dark.svg" | relative_url }}" alt="Anoka Report illustration 3" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_anoka_police_records_a35b9e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_anoka_police_records_a35b9e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gss_sbU-Ypc" title="Minnesota’s most notorious UFO sighting remains a mystery four decades later" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gss_sbU-Ypc" target="_blank" rel="noopener noreferrer">Minnesota’s most notorious UFO sighting remains a mystery four decades later</a></p><p class="youtube-embed-meta">Channel: KARE 11 &middot; Views: 643.2K &middot; Uploaded: August 2021 &middot; Length: 3 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gss_sbU-Ypc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gss_sbU-Ypc">Open on YouTube</a></p></div></div></div>
 
@@ -299,20 +296,16 @@ A crucial point for readers interested in Minnesota’s UFO/UAP history is that 
 
 In other words, while these records add to the **corpus of official UAP documentation**, they do not by themselves resolve what the object was or imply that it defies known physical [explanations]({{ 'explanations-2d29c0/' | relative_url }}).
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kH5wsaqGq-Y" title="Feds investigate after Minnesota police officer says they saw a UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kH5wsaqGq-Y" target="_blank" rel="noopener noreferrer">Feds investigate after Minnesota police officer says they saw a UFO</a></p><p class="youtube-embed-meta">Channel: WCCO - CBS Minnesota &middot; Views: 162.0K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kH5wsaqGq-Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kH5wsaqGq-Y">Open on YouTube</a></p></div></div></div>
 
-
-<img src="{{ "/assets/images/Minnesota_60590f_anoka_police_records_a35b9e-Illustration-2-light.svg" | relative_url }}" alt="Anoka Report illustration 2" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_anoka_police_records_a35b9e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_anoka_police_records_a35b9e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Minnesota_60590f_anoka_police_records_a35b9e-Illustration-2-dark.svg" | relative_url }}" alt="Anoka Report illustration 2" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_anoka_police_records_a35b9e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_anoka_police_records_a35b9e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How This Fits Into Broader Official UAP Archival Trends
 
-The Anoka case highlights a broader shift in how government and archival bodies handle reported anomalous phenomena. Under recent federal directives, agencies including the Department of Defense, FBI, NASA and the National Archives are systematically releasing records related to UAP sightings, even when they contain only witness accounts and unverified imagery. This reflects an effort toward transparency and historical completeness rather than a declaration that unexplained sightings are evidence of non‑terrestrial craft. The Anoka Police sighting’s inclusion in this collection emphasises that **official records can preserve reports of unknown phenomena without endorsing any particular interpretation**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hoodline.com/2026/05/cops-watch-bizarre-tie-dye-orb-near-monticello-nuke-plant/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hoodline.com">[Hoodline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hoodline.com</span><span class="citation-popover-title">Anoka Police Multicolored Object In NARA UAP Files</span><span class="citation-popover-snippet">HoodlineAnoka Police Multicolored Object In NARA UAP Files...</span></span></span>
+The Anoka case highlights a broader shift in how government and archival bodies handle reported anomalous phenomena. Under recent federal directives, agencies including the Department of Defense, FBI, NASA and the National Archives are systematically releasing records related to UAP sightings, even when they contain only witness accounts and unverified imagery. This reflects an effort toward transparency and historical completeness rather than a declaration that unexplained sightings are evidence of non‑terrestrial craft. The Anoka Police sighting’s inclusion in this collection emphasises that **official records can preserve reports of unknown phenomena without endorsing any particular interpretation**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hoodline.com/2026/05/cops-watch-bizarre-tie-dye-orb-near-monticello-nuke-plant/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hoodline.com">[Hoodline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hoodline.com</span><span class="citation-popover-title">Anoka Police Multicolored Object In NARA UAP Files</span><span class="citation-popover-snippet">Anoka Police Multicolored Object In NARA UAP Files...</span></span></span>
 
 In Minnesota’s broader UAP history, the Anoka Police report joins older cases such as the famous 1979 [Val Johnson]({{ 'val-johnson/' | relative_url }}) encounter and numerous civilian submissions to databases like NUFORC. Each contributes to understanding public and law‑enforcement perceptions of unexplained aerial phenomena in the state, while underscoring the difference between documented accounts and scientifically confirmed occurrences.[nuforc.org]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ag2pzH6aSpY" title="Newly declassified UFO files reveal unexplained encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ag2pzH6aSpY" target="_blank" rel="noopener noreferrer">Newly declassified UFO files reveal unexplained encounters</a></p><p class="youtube-embed-meta">Channel: FOX NASHVILLE &middot; Views: 1.5K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ag2pzH6aSpY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ag2pzH6aSpY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -736,57 +729,57 @@ In Minnesota’s broader UAP history, the Anoka Police report joins older cases 
 1. <a id="endnote-1"></a>
    Source: hoodline.com  
    Title: Anoka Police Multicolored Object In NARA UAP Files  
-   Link: [https://hoodline.com/2026/05/cops-watch-bizarre-tie-dye-orb-near-monticello-nuke-plant/](https://hoodline.com/2026/05/cops-watch-bizarre-tie-dye-orb-near-monticello-nuke-plant/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HoodlineAnoka Police Multicolored Object In NARA UAP Files...</p></details>
+   Link: <a href="https://hoodline.com/2026/05/cops-watch-bizarre-tie-dye-orb-near-monticello-nuke-plant/" target="_blank" rel="noopener noreferrer nofollow">https://hoodline.com/2026/05/cops-watch-bizarre-tie-dye-orb-near-monticello-nuke-plant/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anoka Police Multicolored Object In NARA UAP Files...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aol.com  
    Title: anoka police officers reported ufo 194940844  
-   Link: [https://www.aol.com/news/anoka-police-officers-reported-ufo-194940844.html](https://www.aol.com/news/anoka-police-officers-reported-ufo-194940844.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AOLAnoka police officers reported UFO sighting in early 2025, FBI filing says - AOLYesterday...</p></details>
+   Link: <a href="https://www.aol.com/news/anoka-police-officers-reported-ufo-194940844.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/news/anoka-police-officers-reported-ufo-194940844.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anoka police officers reported UFO sighting in early 2025, FBI filing says - AOLYesterday...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=186930](https://nuforc.org/sighting/?id=186930)  
+   Link: <a href="https://nuforc.org/sighting/?id=186930" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=186930</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 186930January 27, 2025...</p></details>
    Published: January 27, 2025  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=50833](https://nuforc.org/sighting/?id=50833)  
+   Link: <a href="https://nuforc.org/sighting/?id=50833" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=50833</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 50833July 16, 2006 — NUFORC UFO SIGHTING 50833 Occurred: 2006-06-02 23:45 Local Reported: 2006-06-05 08:36 Pacific Du...</p></details>
    Published: June 2, 2006  
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: Suspected UFO sighting involving Anoka police officers  
-   Link: [https://www.youtube.com/watch?v=9ZdYQyFkDWw](https://www.youtube.com/watch?v=9ZdYQyFkDWw)  
+   Link: <a href="https://www.youtube.com/watch?v=9ZdYQyFkDWw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9ZdYQyFkDWw</a>  
 
 6. <a id="endnote-6"></a>
    Source: fox9.com  
-   Link: [https://www.fox9.com/news/fbi-files-ufo-sighting-anoka-police-department.amp](https://www.fox9.com/news/fbi-files-ufo-sighting-anoka-police-department.amp)  
+   Link: <a href="https://www.fox9.com/news/fbi-files-ufo-sighting-anoka-police-department.amp" target="_blank" rel="noopener noreferrer nofollow">https://www.fox9.com/news/fbi-files-ufo-sighting-anoka-police-department.amp</a>  
 
 7. <a id="endnote-7"></a>
    Source: fox9.com  
-   Link: [https://www.fox9.com/video/fmc-5omqf37a76gdqz2p](https://www.fox9.com/video/fmc-5omqf37a76gdqz2p)  
+   Link: <a href="https://www.fox9.com/video/fmc-5omqf37a76gdqz2p" target="_blank" rel="noopener noreferrer nofollow">https://www.fox9.com/video/fmc-5omqf37a76gdqz2p</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Suspected UFO sighting involving Anoka police officers2 days ago — Image: Suspected UFO sighting involving Anoka police officers SUSPECTE...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: bringmethenews.com  
    Title: anoka police officers reported ufo sighting in early 2025 fbi filing says  
-   Link: [https://bringmethenews.com/minnesota-lifestyle/anoka-police-officers-reported-ufo-sighting-in-early-2025-fbi-filing-says](https://bringmethenews.com/minnesota-lifestyle/anoka-police-officers-reported-ufo-sighting-in-early-2025-fbi-filing-says)  
+   Link: <a href="https://bringmethenews.com/minnesota-lifestyle/anoka-police-officers-reported-ufo-sighting-in-early-2025-fbi-filing-says" target="_blank" rel="noopener noreferrer nofollow">https://bringmethenews.com/minnesota-lifestyle/anoka-police-officers-reported-ufo-sighting-in-early-2025-fbi-filing-says</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anoka police officers reported UFO sighting in early 2025, FBI filing says - Bring Me The NewsYesterday — ANOKA POLICE OFFICERS REPORTED...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: fox9.com  
    Title: Anoka | FOX 9 Minneapolis-St  
-   Link: [https://www.fox9.com/tag/us/mn/anoka-county/anoka](https://www.fox9.com/tag/us/mn/anoka-county/anoka)  
+   Link: <a href="https://www.fox9.com/tag/us/mn/anoka-county/anoka" target="_blank" rel="noopener noreferrer nofollow">https://www.fox9.com/tag/us/mn/anoka-county/anoka</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PaulANOKA Latest news from the city of Anoka in Anoka County, Minnesota. FBI DOCUMENTS DETAIL REPORTED UFO SIGHTING INVOLVING ANOKA POLIC...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: anokamn.gov  
    Title: Police Department | Anoka, MNNEWS & ANNOUNCEMENTS 1  
-   Link: [https://www.anokamn.gov/157/Police-Department](https://www.anokamn.gov/157/Police-Department)  
+   Link: <a href="https://www.anokamn.gov/157/Police-Department" target="_blank" rel="noopener noreferrer nofollow">https://www.anokamn.gov/157/Police-Department</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#### Sign up for notifications New community alert notification system Read on... 2. #### What You Need to Know If you need help, call us...</p></details>
 
 ### Additional References
@@ -794,58 +787,58 @@ In Minnesota’s broader UAP history, the Anoka Police report joins older cases 
 11. <a id="endnote-11"></a>
    Source: fox9.com  
    Title: Suspected UFO sighting involving Anoka police officers | FOX 9 Minneapolis-St  
-   Link: [https://www.fox9.com/video/fmc-5omqf37a76gdqz2p.amp](https://www.fox9.com/video/fmc-5omqf37a76gdqz2p.amp)  
+   Link: <a href="https://www.fox9.com/video/fmc-5omqf37a76gdqz2p.amp" target="_blank" rel="noopener noreferrer nofollow">https://www.fox9.com/video/fmc-5omqf37a76gdqz2p.amp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul2 days ago — [Button: ☰ ] Imageiframe Image: Suspected UFO sighting involving Anoka police officers Image Loading Video… This browser...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cbsnews.com  
    Title: Declassified FBI documents detail UFO sighting by Minnesota police officers  
-   Link: [https://www.cbsnews.com/minnesota/news/minnesota-ufo-sighting-anoka-police-fbi/](https://www.cbsnews.com/minnesota/news/minnesota-ufo-sighting-anoka-police-fbi/)  
+   Link: <a href="https://www.cbsnews.com/minnesota/news/minnesota-ufo-sighting-anoka-police-fbi/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/minnesota/news/minnesota-ufo-sighting-anoka-police-fbi/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS Minnesota2 days ago — DECLASSIFIED FBI DOCUMENTS DETAIL UFO SIGHTING BY MINNESOTA POLICE OFFICERS By Conor Wight Conor Wight Reporter...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: cbsnews.com  
    Title: Feds investigate after Minnesota police officer says they saw a UFO  
-   Link: [https://www.cbsnews.com/minnesota/video/feds-investigate-after-minnesota-police-officer-says-they-saw-a-ufo/](https://www.cbsnews.com/minnesota/video/feds-investigate-after-minnesota-police-officer-says-they-saw-a-ufo/)  
+   Link: <a href="https://www.cbsnews.com/minnesota/video/feds-investigate-after-minnesota-police-officer-says-they-saw-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/minnesota/video/feds-investigate-after-minnesota-police-officer-says-they-saw-a-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS Minnesota* * Minnesota * | * * * * Video * * * All News * [Twin Cities](&amp;#123;&amp;#123; &#x27;twin-cities/&#x27; | relative_url &amp;#125;&amp;#125;) News * Greater Minnesota News * Wisconsin News FEDS INVESTIGATE...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: anokapolice.com  
-   Link: [https://www.anokapolice.com/496/Records-Unit](https://www.anokapolice.com/496/Records-Unit)  
+   Link: <a href="https://www.anokapolice.com/496/Records-Unit" target="_blank" rel="noopener noreferrer nofollow">https://www.anokapolice.com/496/Records-Unit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Our 4 full-time technicians are generally very busy keeping up with the roughly 25,000 reported calls...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: uapradar.com  
    Title: ALL BRIEFINGS Sort [Select] Latest 24 of 110 articles Witness  
-   Link: [https://uapradar.com/articles/generated/are-aliens-real-us-government-s-video-of-a-star-shaped-ufo-raises-worries-of-e.html](https://uapradar.com/articles/generated/are-aliens-real-us-government-s-video-of-a-star-shaped-ufo-raises-worries-of-e.html)  
+   Link: <a href="https://uapradar.com/articles/generated/are-aliens-real-us-government-s-video-of-a-star-shaped-ufo-raises-worries-of-e.html" target="_blank" rel="noopener noreferrer nofollow">https://uapradar.com/articles/generated/are-aliens-real-us-government-s-video-of-a-star-shaped-ufo-raises-worries-of-e.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP News Archive | UAP RadarLATEST UAP NEWS &amp; ARTICLES A full archive view of the current feed across official releases, reporting, resea...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: wjon.com  
    Title: anoka ufo sighting february 2025  
-   Link: [https://wjon.com/ixp/65/p/anoka-ufo-sighting-february-2025/](https://wjon.com/ixp/65/p/anoka-ufo-sighting-february-2025/)  
+   Link: <a href="https://wjon.com/ixp/65/p/anoka-ufo-sighting-february-2025/" target="_blank" rel="noopener noreferrer nofollow">https://wjon.com/ixp/65/p/anoka-ufo-sighting-february-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anoka Police Report UFO Sighting During Training Session2 days ago — Image: A 2025 Minnesota UFO-Police Encounter Released By The FBI A 2...</p></details>
    Published: february 2025  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Minnesota's most notorious UFO sighting remains a mystery four decades later  
-   Link: [https://www.youtube.com/watch?v=Gss_sbU-Ypc](https://www.youtube.com/watch?v=Gss_sbU-Ypc)  
+   Link: <a href="https://www.youtube.com/watch?v=Gss_sbU-Ypc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gss_sbU-Ypc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Val Johnson UFO Encounter: A Sheriff vs. the Unknown...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Feds investigate after Minnesota police officer says they saw a UFO  
-   Link: [https://www.youtube.com/watch?v=kH5wsaqGq-Y](https://www.youtube.com/watch?v=kH5wsaqGq-Y)  
+   Link: <a href="https://www.youtube.com/watch?v=kH5wsaqGq-Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kH5wsaqGq-Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Newly declassified UFO files reveal unexplained encounters...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Newly declassified UFO files reveal unexplained encounters  
-   Link: [https://www.youtube.com/watch?v=ag2pzH6aSpY](https://www.youtube.com/watch?v=ag2pzH6aSpY)  
+   Link: <a href="https://www.youtube.com/watch?v=ag2pzH6aSpY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ag2pzH6aSpY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS News...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: The Val Johnson UFO Encounter: A Sheriff vs. the Unknown  
-   Link: [https://www.youtube.com/watch?v=3FrPXjsL5lE](https://www.youtube.com/watch?v=3FrPXjsL5lE)  
+   Link: <a href="https://www.youtube.com/watch?v=3FrPXjsL5lE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3FrPXjsL5lE</a>

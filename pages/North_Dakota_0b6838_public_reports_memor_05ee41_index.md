@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /north-dakota-0b6838-public-reports/
 description: Focused pages that expand on Local Reports.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: North_Dakota_0b6838_public_reports_memor_05ee41
-parent_title: Local Reports | Why North Dakota Matters in UFO History
+parent_title: Local Reports
 parent_nav_short_title: Local Reports
 parent_permalink: /local-reports/
 ---

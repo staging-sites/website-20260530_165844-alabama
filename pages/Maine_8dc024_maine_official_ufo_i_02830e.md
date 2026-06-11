@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-makes-maine-a-hotspot-for-ufo/
 nav_short_title: Official Investigations
 title: How Authorities Have Investigated Maine's UFOs
-title_full: How Authorities Have Investigated Maine's UFOs | MaineUFOs
+title_full: How Authorities Have Investigated Maine's UFOs
 display_title_short: Official Investigations
 display_title: Official Investigations
 heading_title: How Authorities Have Investigated Maine's UFOs
@@ -202,20 +202,20 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:33:05'
-parent_title: MaineUFOs
+parent_title: Maine UFOs
 parent_permalink: /what-makes-maine-a-hotspot-for-ufo/
-parent_nav_short_title: MaineUFOs
+parent_nav_short_title: Maine UFOs
 parent_heading_title: What Makes Maine a Hotspot for UFO Sightings?
 ancestor_links:
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 breadcrumb_links:
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 sibling_links:
 - basename: Maine_8dc024_allagash_abductions_6349c1
   title: Allagash Case | What Makes Maine a Hotspot for UFO Sightings?
@@ -245,9 +245,9 @@ child_links:
   heading_title: When Does a Maine Sighting Go Federal?
 up_link:
   basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 prev_link:
   basename: Maine_8dc024_allagash_abductions_6349c1
   title: Allagash Case | What Makes Maine a Hotspot for UFO Sightings?
@@ -270,15 +270,14 @@ image: /assets/images/Maine_8dc024_maine_official_ufo_i_02830e-overview-social.j
 
 Official investigation of [Maine UFO reports]({{ 'per-capita/' | relative_url }}) has never followed a single neat channel. Older cases sometimes passed through the U.S. Air Force’s Project [Blue Book]({{ 'blue-book-b982c7/' | relative_url }}), while modern reports are more likely to sit in civilian databases such as the National UFO Reporting Center (NUFORC) or the Mutual UFO Network (MUFON), unless they involve military personnel, aviation safety, or federal sensors. The result is a mixed record: a few Maine cases were formally assessed by government investigators, many were logged but not deeply verified, and most remain useful mainly as witness reports rather than as proof of extraordinary craft.
 
-
 <img src="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e-overview.webp" | relative_url }}" alt="Overview image for Official Investigations" loading="eager" decoding="sync" fetchpriority="high">
-The key lesson is that “unidentified” does not mean “alien”. In the [Maine]({{ 'what-makes-maine-a-hotspot-for-ufo/' | relative_url }}) record, official and semi-official reviewers have repeatedly separated reports into three broad outcomes: cases probably explained by balloons, meteors, aircraft, satellites or spotlights; cases left open because the data were too thin; and a smaller set that remained unresolved after review. That distinction matters because Maine’s dark skies, military history, coastline, airports and rural viewing conditions can all produce sincere but ambiguous reports.
+The key lesson is that “unidentified” does not mean “alien”. In the Maine record, official and semi-official reviewers have repeatedly separated reports into three broad outcomes: cases probably explained by balloons, meteors, aircraft, satellites or spotlights; cases left open because the data were too thin; and a smaller set that remained unresolved after review. That distinction matters because Maine’s dark skies, military history, coastline, airports and rural viewing conditions can all produce sincere but ambiguous reports.
 
 ## Civilian Reporting Networks
 
 For most recent Maine sightings, the first “investigation” is not federal at all. It begins when a witness files a narrative report with NUFORC or MUFON. These organisations are not government agencies, but they have become important because they preserve reports that might otherwise disappear, especially from ordinary residents, pilots, police callers, coastal observers and rural witnesses.
 
-NUFORC’s Maine page shows the range and unevenness of this material. Its public entries include reports from Moosehead Lake, Manchester, York, Yarmouth, Bangor, Portland, Lewiston, Lamoine and many other places, with descriptions ranging from fast green [fireballs]({{ 'fireballs/' | relative_url }}) to triangles, lights, discs, chevrons and alleged close approaches. Some entries include useful details such as time, place, shape and duration; others are brief, retrospective, emotional or unclear. The database also sometimes carries cautious editorial notes, such as a Beals Island entry marked as a probable satellite, which shows the difference between recording a claim and endorsing it as unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lME" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State ME</span><span class="citation-popover-snippet">NUFORCNUFORC Reports for State ME...</span></span></span>
+NUFORC’s Maine page shows the range and unevenness of this material. Its public entries include reports from Moosehead Lake, Manchester, York, Yarmouth, Bangor, Portland, Lewiston, Lamoine and many other places, with descriptions ranging from fast green [fireballs]({{ 'fireballs/' | relative_url }}) to triangles, lights, discs, chevrons and alleged close approaches. Some entries include useful details such as time, place, shape and duration; others are brief, retrospective, emotional or unclear. The database also sometimes carries cautious editorial notes, such as a Beals Island entry marked as a probable satellite, which shows the difference between recording a claim and endorsing it as unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lME" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State ME</span><span class="citation-popover-snippet">NUFORC Reports for State ME...</span></span></span>
 
 MUFON operates differently. It uses volunteer field investigators and a case-management system, with reports usually routed to the state where the event occurred. In Maine, local MUFON figures have described the practical process as trying to eliminate ordinary causes first: celestial objects, space debris, satellites and the International Space Station are among the recurring explanations checked before a case is treated as more puzzling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mainepublic.org/maine/2021-06-28/its-a-big-step-maine-ufo-enthusiasts-react-to-congressional-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mainepublic.org">[Maine Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mainepublic.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -286,8 +285,7 @@ That approach is important for Maine because many reports come from dark, open v
 
 The best use of these databases is therefore comparative. A single report may be weak, but clusters can reveal timing, location, repeated descriptions and possible conventional triggers. If several Maine reports on the same night describe a bright object moving in the same direction, investigators can compare those accounts with satellite passes, meteor showers, aircraft routes, weather, military exercises and local events. When the data do not include exact times, viewing direction, elevation, photographs, radar, or independent witnesses, even a striking report may remain “unidentified” simply because it cannot be reconstructed.
 
-
-<img src="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e-Illustration-1-light.svg" | relative_url }}" alt="Official Investigations illustration 1" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e-Illustration-1-dark.svg" | relative_url }}" alt="Official Investigations illustration 1" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Federal Files and the Maine Paper Trail
 
 Maine’s strongest official UFO records are historical rather than recent. During the mid-twentieth century, the U.S. Air Force’s Project Blue Book and its related files gathered reports from across the country, including Maine. Project Blue Book’s stated purpose was to determine whether UFO reports posed a national-security threat and to analyse them scientifically; by the time it ended, it had collected thousands of reports nationwide, most of which were attributed to conventional causes, while a smaller number remained unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
@@ -301,7 +299,6 @@ Another Maine case appears in lists of Project Blue Book “unknown” files: Au
 A separate 1955 Augusta Project Blue Book item also survives in archived Air Force material. The Internet Archive record identifies it as a U.S. Air Force Project Blue Book file titled “1955-07-6968736-Augusta-Maine”, with a publication date of 1955 and five pages of material. The survival of such files matters because it allows later researchers to distinguish between folklore, newspaper retellings and actual government paperwork. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/1955-07-6968736-Augusta-Maine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">1955 07 6968736 Augusta Maine</span><span class="citation-popover-snippet">1955 07 6968736 Augusta Maine</span></span></span>
 
 Maine also appears in official archival discussion as an example of misidentification. The U.S. National Archives’ Unwritten Record blog, in a piece on Project Blue Book home movies, notes a Maine case in which observers called local police after mistaking a spotlight for a UFO hovering over Augusta. That example is modest but revealing: official records do not only preserve dramatic unknowns; they also preserve mundane resolutions, which are essential for judging the whole pattern fairly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unwritten-record.blogs.archives.gov">[The Unwritten Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unwritten-record.blogs.archives.gov</span><span class="citation-popover-title">The Unwritten Record Project Blue Book: Home Movies in UFO Reports</span><span class="citation-popover-snippet">The Unwritten Record Project Blue Book: Home Movies in UFO Reports</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V5cOeKCZCbs" title="Ancient Aliens: TRUTH UNCOVERED By UFO Investigation (Season 19) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V5cOeKCZCbs" target="_blank" rel="noopener noreferrer">Ancient Aliens: TRUTH UNCOVERED By UFO Investigation (Season 19) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 396.7K &middot; Uploaded: March 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V5cOeKCZCbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V5cOeKCZCbs">Open on YouTube</a></p></div></div></div>
 
@@ -321,8 +318,7 @@ Recent AARO reporting shows how federal review classifies cases nationally. The 
 
 AARO’s public case imagery also shows the federal pattern: some cases are resolved as balloons or birds, some are closed as not anomalous, some remain under analysis, and some are labelled unresolved. That framework is more useful for Maine than a simple yes-or-no question about “real UFOs”, because it shows that investigation is a sorting process rather than a single dramatic verdict. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
-
-<img src="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e-Illustration-2-light.svg" | relative_url }}" alt="Official Investigations illustration 2" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e-Illustration-2-dark.svg" | relative_url }}" alt="Official Investigations illustration 2" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Case Analysis and Outcomes
 
 The most credible examination of Maine UFO reports starts by asking what kind of evidence exists. A brief witness statement, even from a sincere observer, is weaker than a timed multi-witness report. A multi-witness report is stronger if the witnesses were separated, gave consistent descriptions independently, and noted direction, elevation and duration. A photograph or video is helpful only if the original file, location, time and camera data are preserved. Radar, air-traffic, satellite and weather records can strengthen a case, but they can also resolve it.
@@ -335,8 +331,7 @@ NUFORC’s Maine reports show a third outcome: public preservation without full 
 
 MUFON-style review occupies the middle ground. It may involve witness follow-up, local knowledge and attempts to eliminate satellites, aircraft, the ISS, celestial objects and debris. Yet it remains a civilian process, dependent on volunteer capacity and witness cooperation. Maine’s MUFON-linked commentary after the 2021 congressional UAP report is useful because it shows a grounded investigative mindset: before treating a sighting as unexplained, investigators ask whether it was something familiar seen under unfamiliar conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mainepublic.org/maine/2021-06-28/its-a-big-step-maine-ufo-enthusiasts-react-to-congressional-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mainepublic.org">[Maine Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mainepublic.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lpu7gZnKfK4" title="The Allagash Encounter: A TERRIFYING UFO Abduction Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lpu7gZnKfK4" target="_blank" rel="noopener noreferrer">The Allagash Encounter: A TERRIFYING UFO Abduction Story</a></p><p class="youtube-embed-meta">Channel: Scary Mysteries &middot; Views: 256.6K &middot; Uploaded: March 2024 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lpu7gZnKfK4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lpu7gZnKfK4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2r0CHEKmYnA" title="Was that a UFO? Massive collection of reports and sightings finds a new home" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2r0CHEKmYnA" target="_blank" rel="noopener noreferrer">Was that a UFO? Massive collection of reports and sightings finds a new home</a></p><p class="youtube-embed-meta">Channel: NEWS CENTER Maine &middot; Views: 926 &middot; Uploaded: July 2024 &middot; Length: 3 minutes 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2r0CHEKmYnA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2r0CHEKmYnA">Open on YouTube</a></p></div></div></div>
 
 ## What Counts as “Unidentified” in Maine
 
@@ -348,8 +343,7 @@ The strongest unresolved cases are those that survive those checks. A good Maine
 
 That is why later retellings can weaken rather than strengthen a case. If a story gains dramatic detail over time but does not gain better records, independent documents or original data, it becomes more culturally interesting but less evidentially secure. Conversely, a plain report with preserved metadata, multiple independent witnesses and external records may be more valuable than a spectacular story that relies only on memory.
 
-
-<img src="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e-Illustration-3-light.svg" | relative_url }}" alt="Official Investigations illustration 3" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e-Illustration-3-dark.svg" | relative_url }}" alt="Official Investigations illustration 3" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Later Reporting Has Changed the Picture
 
 The modern federal revival of UAP reporting has made Maine sightings easier to discuss seriously, but it has not turned Maine into a confirmed hotspot of extraordinary craft. The 2021 ODNI assessment, NASA’s 2023 study and AARO’s later reports all point in the same broad direction: there are real reports by real observers, some involve aviation safety concerns, many can be explained, and the hardest cases often remain unresolved because the data are poor rather than because the object is demonstrably exotic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
@@ -360,9 +354,7 @@ Civilian archives have also become more valuable because AARO and researchers ha
 
 The most balanced conclusion is that official investigations into Maine UFO reports have produced a layered record, not a single verdict. Some Maine cases were judged probably conventional, some were left with insufficient data, and a small number entered unknown or unresolved listings. The unresolved cases deserve preservation and careful review, but they do not justify stronger claims than the evidence can carry.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2r0CHEKmYnA" title="Was that a UFO? Massive collection of reports and sightings finds a new home" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2r0CHEKmYnA" target="_blank" rel="noopener noreferrer">Was that a UFO? Massive collection of reports and sightings finds a new home</a></p><p class="youtube-embed-meta">Channel: NEWS CENTER Maine &middot; Views: 926 &middot; Uploaded: July 2024 &middot; Length: 3 minutes 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2r0CHEKmYnA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2r0CHEKmYnA">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PSgTuE7HFx0" title="MUFON – The Truth Behind UFOs and Alien Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer">MUFON – The Truth Behind UFOs and Alien Encounters</a></p><p class="youtube-embed-meta">Channel: J. Horton Films &middot; Views: 48.3K &middot; Uploaded: January 2023 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PSgTuE7HFx0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -786,260 +778,260 @@ The most balanced conclusion is that official investigations into Maine UFO repo
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports for State ME  
-   Link: [https://nuforc.org/subndx/?id=lME](https://nuforc.org/subndx/?id=lME)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports for State ME...</p></details>
+   Link: <a href="https://nuforc.org/subndx/?id=lME" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lME</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State ME...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 3. <a id="endnote-3"></a>
    Source: upload.wikimedia.org  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf](https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: archive.org  
    Title: 1955 07 6968736 Augusta Maine  
-   Link: [https://archive.org/details/1955-07-6968736-Augusta-Maine](https://archive.org/details/1955-07-6968736-Augusta-Maine)  
+   Link: <a href="https://archive.org/details/1955-07-6968736-Augusta-Maine" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/1955-07-6968736-Augusta-Maine</a>  
 
 5. <a id="endnote-5"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: The Unwritten Record Project Blue Book: Home Movies in UFO Reports  
-   Link: [https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/](https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/</a>  
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
    Title: Submit A Report  
-   Link: [https://www.aaro.mil/Submit-A-Report/](https://www.aaro.mil/Submit-A-Report/)  
+   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Submit A Report...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/nuforc-aaro-workshop/](https://nuforc.org/nuforc-aaro-workshop/)  
+   Link: <a href="https://nuforc.org/nuforc-aaro-workshop/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/nuforc-aaro-workshop/</a>  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
    Title: 2025 UAP Workshop Paper  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/2018posts/](https://nuforc.org/2018posts/)  
+   Link: <a href="https://nuforc.org/2018posts/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/2018posts/</a>  
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/report-confirmation/](https://nuforc.org/report-confirmation/)  
+   Link: <a href="https://nuforc.org/report-confirmation/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-confirmation/</a>  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/](https://nuforc.org/ndx/)  
+   Link: <a href="https://nuforc.org/ndx/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/</a>  
 
 18. <a id="endnote-18"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/find-a-chapter/](https://mufon.com/find-a-chapter/)  
+   Link: <a href="https://mufon.com/find-a-chapter/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/find-a-chapter/</a>  
 
 19. <a id="endnote-19"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/](https://mufon.com/)  
+   Link: <a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
 
 20. <a id="endnote-20"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/research/](https://mufon.com/research/)  
+   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
 
 21. <a id="endnote-21"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/cms-ifo-info/](https://mufon.com/cms-ifo-info/)  
+   Link: <a href="https://mufon.com/cms-ifo-info/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/cms-ifo-info/</a>  
 
 22. <a id="endnote-22"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/historical/](https://mufon.com/historical/)  
+   Link: <a href="https://mufon.com/historical/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/historical/</a>  
 
 23. <a id="endnote-23"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/ertbio/](https://mufon.com/ertbio/)  
+   Link: <a href="https://mufon.com/ertbio/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/ertbio/</a>  
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Little green men  
-   Link: [https://en.wikipedia.org/wiki/Little_green_men](https://en.wikipedia.org/wiki/Little_green_men)  
+   Link: <a href="https://en.wikipedia.org/wiki/Little_green_men" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Little_green_men</a>  
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
    Title: UFO Report (U.S. Intelligence)  
-   Link: [https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29](https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_Report_%28U.S._Intelligence%29</a>  
 
 27. <a id="endnote-27"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
 28. <a id="endnote-28"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf](https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 30. <a id="endnote-30"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
 31. <a id="endnote-31"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR11 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf](https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 33. <a id="endnote-33"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 34. <a id="endnote-34"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
 35. <a id="endnote-35"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
 36. <a id="endnote-36"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 37. <a id="endnote-37"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
 
 38. <a id="endnote-38"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 39. <a id="endnote-39"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 40. <a id="endnote-40"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 41. <a id="endnote-41"></a>
    Source: mainepublic.org  
-   Link: [https://www.mainepublic.org/maine/2021-06-28/its-a-big-step-maine-ufo-enthusiasts-react-to-congressional-report](https://www.mainepublic.org/maine/2021-06-28/its-a-big-step-maine-ufo-enthusiasts-react-to-congressional-report)  
+   Link: <a href="https://www.mainepublic.org/maine/2021-06-28/its-a-big-step-maine-ufo-enthusiasts-react-to-congressional-report" target="_blank" rel="noopener noreferrer nofollow">https://www.mainepublic.org/maine/2021-06-28/its-a-big-step-maine-ufo-enthusiasts-react-to-congressional-report</a>  
 
 42. <a id="endnote-42"></a>
    Source: theblackvault.com  
    Title: The Black Vault Project Blue Book Unknown Case Files, Complete List  
-   Link: [https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/](https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/</a>  
 
 43. <a id="endnote-43"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
 44. <a id="endnote-44"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
 
 45. <a id="endnote-45"></a>
    Source: mainepublic.org  
    Title: ufo files spanning decades are released by defense department  
-   Link: [https://www.mainepublic.org/npr-news/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department](https://www.mainepublic.org/npr-news/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department)  
+   Link: <a href="https://www.mainepublic.org/npr-news/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department" target="_blank" rel="noopener noreferrer nofollow">https://www.mainepublic.org/npr-news/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department</a>  
 
 46. <a id="endnote-46"></a>
    Source: bostonglobe.com  
-   Link: [https://www.bostonglobe.com/news/nation/2015/02/06/air-force-voluminous-ufo-files-illuminate-bygone-era-new-england/5ZDe8dsNhQunIt13jLwedI/story.html](https://www.bostonglobe.com/news/nation/2015/02/06/air-force-voluminous-ufo-files-illuminate-bygone-era-new-england/5ZDe8dsNhQunIt13jLwedI/story.html)  
+   Link: <a href="https://www.bostonglobe.com/news/nation/2015/02/06/air-force-voluminous-ufo-files-illuminate-bygone-era-new-england/5ZDe8dsNhQunIt13jLwedI/story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bostonglobe.com/news/nation/2015/02/06/air-force-voluminous-ufo-files-illuminate-bygone-era-new-england/5ZDe8dsNhQunIt13jLwedI/story.html</a>  
 
 ### Additional References
 
 47. <a id="endnote-47"></a>
    Source: youtube.com  
    Title: MUFON – The Truth Behind UFOs and Alien Encounters  
-   Link: [https://www.youtube.com/watch?v=PSgTuE7HFx0](https://www.youtube.com/watch?v=PSgTuE7HFx0)  
+   Link: <a href="https://www.youtube.com/watch?v=PSgTuE7HFx0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PSgTuE7HFx0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: TRUTH UNCOVERED By UFO Investigation (Season 19) | History...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: youtube.com  
    Title: Maine ranks in the top 5 for UFO reports in US  
-   Link: [https://www.youtube.com/watch?v=Zie6YAxpH14](https://www.youtube.com/watch?v=Zie6YAxpH14)  
+   Link: <a href="https://www.youtube.com/watch?v=Zie6YAxpH14" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Zie6YAxpH14</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Was that a UFO? Massive collection of reports and sightings finds a new home...</p></details>
 
 49. <a id="endnote-49"></a>
    Source: youtube.com  
    Title: The Allagash Encounter: A TERRIFYING UFO Abduction Story  
-   Link: [https://www.youtube.com/watch?v=lpu7gZnKfK4](https://www.youtube.com/watch?v=lpu7gZnKfK4)  
+   Link: <a href="https://www.youtube.com/watch?v=lpu7gZnKfK4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lpu7gZnKfK4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON – The Truth Behind UFOs and Alien Encounters...</p></details>
 
 50. <a id="endnote-50"></a>
    Source: youtube.com  
    Title: Was that a UFO? Massive collection of reports and sightings finds a new home  
-   Link: [https://www.youtube.com/watch?v=2r0CHEKmYnA](https://www.youtube.com/watch?v=2r0CHEKmYnA)  
+   Link: <a href="https://www.youtube.com/watch?v=2r0CHEKmYnA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2r0CHEKmYnA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Allagash Encounter: A TERRIFYING UFO Abduction Story...</p></details>
 
 51. <a id="endnote-51"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYqCdnbl3qZ/](https://www.instagram.com/reel/DYqCdnbl3qZ/)  
+   Link: <a href="https://www.instagram.com/reel/DYqCdnbl3qZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYqCdnbl3qZ/</a>  
 
 52. <a id="endnote-52"></a>
    Source: aiaa.org  
-   Link: [https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf](https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf)  
+   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
 
 53. <a id="endnote-53"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/5638be273b753253713a478546849e46](https://apnews.com/article/5638be273b753253713a478546849e46)  
+   Link: <a href="https://apnews.com/article/5638be273b753253713a478546849e46" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/5638be273b753253713a478546849e46</a>  
 
 54. <a id="endnote-54"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena](https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena)  
+   Link: <a href="https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena</a>  
 
 55. <a id="endnote-55"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/photo.php?fbid=3812572595487607&id=1605125106232378&set=a.1605374762874079](https://www.facebook.com/photo.php?fbid=3812572595487607&id=1605125106232378&set=a.1605374762874079)  
+   Link: <a href="https://www.facebook.com/photo.php?fbid=3812572595487607&amp;id=1605125106232378&amp;set=a.1605374762874079" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/photo.php?fbid=3812572595487607&amp;id=1605125106232378&amp;set=a.1605374762874079</a>  
 
 56. <a id="endnote-56"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/roadtripnewengland/posts/maine-consistently-ranks-among-the-top-us-states-for-reported-ufo-sightings-when/1466133928658410/](https://www.facebook.com/roadtripnewengland/posts/maine-consistently-ranks-among-the-top-us-states-for-reported-ufo-sightings-when/1466133928658410/)  
+   Link: <a href="https://www.facebook.com/roadtripnewengland/posts/maine-consistently-ranks-among-the-top-us-states-for-reported-ufo-sightings-when/1466133928658410/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/roadtripnewengland/posts/maine-consistently-ranks-among-the-top-us-states-for-reported-ufo-sightings-when/1466133928658410/</a>

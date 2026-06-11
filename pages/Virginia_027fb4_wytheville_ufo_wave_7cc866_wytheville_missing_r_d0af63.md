@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /wytheville/
 nav_short_title: Missing records
 title: Why is Wytheville still unresolved?
-title_full: Why is Wytheville still unresolved? | Wytheville
+title_full: Why is Wytheville still unresolved?
 display_title_short: Missing records
 display_title: Missing records
 heading_title: Why is Wytheville still unresolved?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:23:56'
-parent_title: Why Did Wytheville Become Virginia's UFO Town? | Virginia UFOs
+parent_title: Why Did Wytheville Become Virginia's UFO Town?
 parent_permalink: /wytheville/
 parent_nav_short_title: Wytheville
 parent_heading_title: Why Did Wytheville Become Virginia's UFO Town?
@@ -250,11 +250,10 @@ image: /assets/images/Virginia_027fb4_wytheville_ufo_wave_7cc866_wytheville_miss
 
 ## Introduction
 
-The [Wytheville UFO wave]({{ 'wytheville/' | relative_url }}) remains unresolved partly because the surviving evidence is uneven. Hundreds of witness accounts, local media reports and later retellings still exist, but many of the records that could have tested those claims more rigorously are either unavailable, incomplete, difficult to verify or apparently never preserved in a form accessible to later investigators. That imbalance matters. In UFO cases, testimony often lasts longer than radar logs, military records, air-traffic data, photographic negatives and contemporaneous investigative files. In [Wytheville]({{ 'wytheville/' | relative_url }})'s case, the result is a lingering gap between what people said they saw and what can now be independently reconstructed.
+The [Wytheville]({{ 'wytheville/' | relative_url }}) UFO wave remains unresolved partly because the surviving evidence is uneven. Hundreds of witness accounts, local media reports and later retellings still exist, but many of the [records]({{ 'records-abc79c/' | relative_url }}) that could have tested those claims more rigorously are either unavailable, incomplete, difficult to verify or apparently never preserved in a form accessible to later investigators. That imbalance matters. In UFO cases, testimony often lasts longer than radar logs, military records, air-traffic data, photographic negatives and contemporaneous investigative files. In Wytheville's case, the result is a lingering gap between what people said they saw and what can now be independently reconstructed.
 
-
-<img src="{{ "/assets/images/Virginia_027fb4_wytheville_ufo_wave_7cc866_wytheville_missing_r_d0af63-Illustration-1-light.svg" | relative_url }}" alt="Missing records illustration 1" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_wytheville_ufo_wave_7cc866_wytheville_missing_r_d0af63-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_wytheville_ufo_wave_7cc866_wytheville_missing_r_d0af63-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The problem is not simply that evidence is missing. It is that the missing evidence sits precisely where investigators would expect to find the strongest checks on witness perception. Without those [records]({{ 'records-abc79c/' | relative_url }}), neither believers nor sceptics can fully settle questions about aircraft activity, atmospheric effects, misidentification or something genuinely unusual. The surviving story is therefore stronger as a record of a regional sighting wave than as a conclusively documented aerial event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation |...</span></span></span>
+<img src="{{ "/assets/images/Virginia_027fb4_wytheville_ufo_wave_7cc866_wytheville_missing_r_d0af63-Illustration-1-dark.svg" | relative_url }}" alt="Missing records illustration 1" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_wytheville_ufo_wave_7cc866_wytheville_missing_r_d0af63-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_wytheville_ufo_wave_7cc866_wytheville_missing_r_d0af63-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+The problem is not simply that evidence is missing. It is that the missing evidence sits precisely where investigators would expect to find the strongest checks on witness perception. Without those records, neither believers nor sceptics can fully settle questions about aircraft activity, atmospheric effects, misidentification or something genuinely unusual. The surviving story is therefore stronger as a record of a regional sighting wave than as a conclusively documented aerial event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation &#124;...</span></span></span>
 
 ## What records would help reconstruct the wave
 
@@ -262,11 +261,10 @@ The most useful missing material is not dramatic secret files but ordinary opera
 
 If a modern investigator wanted to reconstruct the 1987–88 Wythe County sightings in detail, several categories of records would be especially valuable:
 
-* Original air-traffic control records covering the main sighting nights.
-* Military flight-operation logs from units active over [Virginia]({{ 'what-really-happened-over-virginia/' | relative_url }}) and neighbouring states.
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
+* Original air-traffic control records covering the main sighting nights.
+* Military flight-operation logs from units active over Virginia and neighbouring states.
 * Radar returns from civilian and military systems.
 * Weather observations matched to exact sighting times.
 * Police dispatch records tied to reported sightings.
@@ -276,7 +274,7 @@ If a modern investigator wanted to reconstruct the 1987–88 Wythe County sighti
 
 </div>
 
-The difficulty is that much of this material was either never publicly released, was not retained long term, or was not collected systematically when the sightings were occurring. By the time national television programmes and UFO researchers focused on Wytheville, many opportunities for preserving contemporaneous evidence had already passed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation |...</span></span></span>
+The difficulty is that much of this material was either never publicly released, was not retained long term, or was not collected systematically when the sightings were occurring. By the time national television programmes and UFO researchers focused on Wytheville, many opportunities for preserving contemporaneous evidence had already passed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation &#124;...</span></span></span>
 
 This creates a common historical problem in UFO research. The most important records are often routine government or aviation documents with limited retention periods. Once those records disappear, later investigators must rely more heavily on memory, interviews and media coverage. That does not automatically invalidate witness testimony, but it makes retrospective verification far harder.
 
@@ -290,16 +288,15 @@ For supporters of the mystery, the lack of radar confirmation does not prove wit
 
 For sceptics, the lack of radar confirmation means there is no independent sensor evidence supporting extraordinary claims either.
 
-As a result, one of the strongest potential forms of corroboration remains largely unavailable in public discussions of the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation |...</span></span></span>
+As a result, one of the strongest potential forms of corroboration remains largely unavailable in public discussions of the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation &#124;...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XrzU0tKX7RY" title="Danny Gordon - Wytheville UFO FEST 6/11/22" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XrzU0tKX7RY" target="_blank" rel="noopener noreferrer">Danny Gordon - Wytheville UFO FEST 6/11/22</a></p><p class="youtube-embed-meta">Channel: MQ 11 &middot; Views: 2.0K &middot; Uploaded: June 2022 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XrzU0tKX7RY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XrzU0tKX7RY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3kbARV7FBrU" title="Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer">Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode</a></p><p class="youtube-embed-meta">Channel: Unsolved Mysteries - Full Episodes &middot; Views: 786.9K &middot; Uploaded: March 2019 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3kbARV7FBrU">Open on YouTube</a></p></div></div></div>
 
 ## Why photographs and testimony are not enough
 
 Wytheville's reputation rests heavily on witness reports and photographs. Those sources are valuable, but they also have limits that become more important when supporting records are absent.
 
-The witness base was unusually broad for a local flap. Reports came from residents, motorists, law-enforcement personnel and radio broadcaster Danny Gordon, whose reporting helped bring national attention to the story. The number of accounts gave the wave credibility beyond a single-observer incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation |...</span></span></span>
+The witness base was unusually broad for a local flap. Reports came from residents, motorists, law-enforcement personnel and radio broadcaster Danny Gordon, whose reporting helped bring national attention to the story. The number of accounts gave the wave credibility beyond a single-observer incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation &#124;...</span></span></span>
 
 Yet large numbers of witnesses do not automatically produce a clear reconstruction of events.
 
@@ -307,12 +304,11 @@ Many reports were made after publicity increased. Once local radio broadcasts, n
 
 The photographic record presents a similar challenge.
 
-According to later retellings associated with the case, some negatives connected to one set of photographs reportedly went missing. The claim itself became part of Wytheville folklore because it suggested the possibility that potentially important evidence could no longer be examined. However, the disappearance of negatives does not establish what those images would have shown. Missing material can generate suspicion, but it cannot function as evidence in its own right. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation |...</span></span></span>
+According to later retellings associated with the case, some negatives connected to one set of photographs reportedly went missing. The claim itself became part of Wytheville folklore because it suggested the possibility that potentially important evidence could no longer be examined. However, the disappearance of negatives does not establish what those images would have shown. Missing material can generate suspicion, but it cannot function as evidence in its own right. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation &#124;...</span></span></span>
 
 More fundamentally, photographs of distant lights rarely resolve the central question in UFO investigations. Without precise location data, camera specifications, exposure information and corroborating records, images often remain open to multiple interpretations. A photograph may confirm that lights were visible. It may not establish what produced them.
 
-
-<img src="{{ "/assets/images/Virginia_027fb4_wytheville_ufo_wave_7cc866_wytheville_missing_r_d0af63-Illustration-2-light.svg" | relative_url }}" alt="Missing records illustration 2" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_wytheville_ufo_wave_7cc866_wytheville_missing_r_d0af63-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_wytheville_ufo_wave_7cc866_wytheville_missing_r_d0af63-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Virginia_027fb4_wytheville_ufo_wave_7cc866_wytheville_missing_r_d0af63-Illustration-2-dark.svg" | relative_url }}" alt="Missing records illustration 2" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_wytheville_ufo_wave_7cc866_wytheville_missing_r_d0af63-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_wytheville_ufo_wave_7cc866_wytheville_missing_r_d0af63-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The memory problem
 
 Another reason the case remains difficult to evaluate is the passage of time.
@@ -321,13 +317,13 @@ Many surviving accounts come from interviews, documentaries, anniversary events 
 
 That does not mean witnesses are unreliable. It means memory alone becomes a weaker investigative tool when contemporaneous documentation is incomplete.
 
-The strongest historical cases usually combine testimony with records created at the moment events occurred. Wytheville has a substantial amount of the first category and a more limited amount of the second. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation |...</span></span></span>
+The strongest historical cases usually combine testimony with records created at the moment events occurred. Wytheville has a substantial amount of the first category and a more limited amount of the second. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation &#124;...</span></span></span>
 
 ## How missing data leaves aircraft explanations open
 
 One reason aircraft explanations have never disappeared from discussions of Wytheville is that the records needed to test them comprehensively are not readily available.
 
-Danny Gordon and others spent considerable time seeking military explanations during the wave. According to accounts later featured on *Unsolved Mysteries*, military representatives denied that experimental aircraft testing was responsible. Another explanation discussed at the time involved aerial refuelling operations. Gordon publicly questioned whether such operations matched the observed altitude and appearance of the reported lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation |...</span></span></span>
+Danny Gordon and others spent considerable time seeking military explanations during the wave. According to accounts later featured on *Unsolved Mysteries*, military representatives denied that experimental aircraft testing was responsible. Another explanation discussed at the time involved aerial refuelling operations. Gordon publicly questioned whether such operations matched the observed altitude and appearance of the reported lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation &#124;...</span></span></span>
 
 The problem is that neither side possesses a complete public evidential record.
 
@@ -335,17 +331,15 @@ If detailed flight logs, [radar tracks]({{ 'radar-tracks/' | relative_url }}) an
 
 For Wytheville, the absence of comprehensive records means both possibilities remain partly open.
 
-The region's location also complicates matters. South-west Virginia sits within broader eastern US aviation corridors and within reach of military activity occurring across several states. Night operations, formation flights, aerial refuelling, unusual lighting configurations and viewing conditions over mountainous terrain can all create confusing visual impressions. Determining whether any specific Wytheville report fits those explanations requires records that are often unavailable or incomplete decades later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation |...</span></span></span>
+The region's location also complicates matters. South-west Virginia sits within broader eastern US aviation corridors and within reach of military activity occurring across several states. Night operations, formation flights, aerial refuelling, unusual lighting configurations and viewing conditions over mountainous terrain can all create confusing visual impressions. Determining whether any specific Wytheville report fits those explanations requires records that are often unavailable or incomplete decades later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation &#124;...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3kbARV7FBrU" title="Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer">Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode</a></p><p class="youtube-embed-meta">Channel: Unsolved Mysteries - Full Episodes &middot; Views: 786.9K &middot; Uploaded: March 2019 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3kbARV7FBrU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XrzU0tKX7RY" title="Danny Gordon - Wytheville UFO FEST 6/11/22" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XrzU0tKX7RY" target="_blank" rel="noopener noreferrer">Danny Gordon - Wytheville UFO FEST 6/11/22</a></p><p class="youtube-embed-meta">Channel: MQ 11 &middot; Views: 2.0K &middot; Uploaded: June 2022 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XrzU0tKX7RY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XrzU0tKX7RY">Open on YouTube</a></p></div></div></div>
 
 ## Why misperception explanations remain difficult to test
 
 The same evidential gaps that prevent definitive confirmation also prevent definitive debunking.
 
 Sceptical interpretations generally focus on several possibilities:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -362,27 +356,24 @@ All of these explanations are plausible in principle. The difficulty is proving 
 
 A witness might describe a huge silent object drifting overhead. To evaluate that account properly, investigators would ideally want weather records, viewing angles, astronomical conditions, aircraft movements and an exact timeline. In many Wytheville cases, that level of documentation is unavailable.
 
-As a result, sceptical explanations often remain possibilities rather than demonstrated solutions. Supporters of the mystery frequently point to that uncertainty. Sceptics point out that uncertainty is not evidence of an extraordinary object. The missing records leave both sides arguing from incomplete information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation |...</span></span></span>
+As a result, sceptical explanations often remain possibilities rather than demonstrated solutions. Supporters of the mystery frequently point to that uncertainty. Sceptics point out that uncertainty is not evidence of an extraordinary object. The missing records leave both sides arguing from incomplete information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation &#124;...</span></span></span>
 
-
-<img src="{{ "/assets/images/Virginia_027fb4_wytheville_ufo_wave_7cc866_wytheville_missing_r_d0af63-Illustration-3-light.svg" | relative_url }}" alt="Missing records illustration 3" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_wytheville_ufo_wave_7cc866_wytheville_missing_r_d0af63-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_wytheville_ufo_wave_7cc866_wytheville_missing_r_d0af63-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Virginia_027fb4_wytheville_ufo_wave_7cc866_wytheville_missing_r_d0af63-Illustration-3-dark.svg" | relative_url }}" alt="Missing records illustration 3" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_wytheville_ufo_wave_7cc866_wytheville_missing_r_d0af63-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_wytheville_ufo_wave_7cc866_wytheville_missing_r_d0af63-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case remains unresolved rather than unexplained
 
 The most important distinction in Wytheville's history is between "unresolved" and "unexplained".
 
 Unresolved means the available evidence is insufficient to reach a confident conclusion. That description fits the case more closely than claims of proven extraterrestrial activity or proven misidentification.
 
-The surviving record clearly establishes that a major sighting wave occurred, that local residents reported unusual aerial phenomena in large numbers, that law-enforcement witnesses contributed to the story, and that the events attracted regional and national attention. Those points are well documented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation |...</span></span></span>
+The surviving record clearly establishes that a major sighting wave occurred, that local residents reported unusual aerial phenomena in large numbers, that law-enforcement witnesses contributed to the story, and that the events attracted regional and national attention. Those points are well documented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation &#124;...</span></span></span>
 
 What remains uncertain is the underlying cause.
 
 The absence of complete radar data, comprehensive flight records, preserved photographic evidence and contemporaneous investigative files means the strongest tests of competing explanations cannot be performed today with confidence. The testimony survived. Much of the supporting infrastructure that could have verified or challenged it did not.
 
-That is why Wytheville occupies an unusual place in Virginia UFO history. It is not remembered because it produced conclusive proof of anything. It is remembered because it demonstrates how a large and sincere body of witness testimony can outlast the records needed to evaluate it fully, leaving a case suspended between belief, scepticism and historical uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation |...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation |...</span></span></span>
+That is why Wytheville occupies an unusual place in Virginia UFO history. It is not remembered because it produced conclusive proof of anything. It is remembered because it demonstrates how a large and sincere body of witness testimony can outlast the records needed to evaluate it fully, leaving a case suspended between belief, scepticism and historical uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation &#124;...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation &#124;...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1cO5K1np2Ig" title="Project Blue Book Exposed (2020) [Documentary]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer">Project Blue Book Exposed (2020) [Documentary]</a></p><p class="youtube-embed-meta">Channel: CiNENET - Full movies in English &middot; Views: 16.8K &middot; Uploaded: January 2025 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1cO5K1np2Ig">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wI9Lur8qp5w" title="WAVY Archive: 1989 Mystery in the Sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wI9Lur8qp5w" target="_blank" rel="noopener noreferrer">WAVY Archive: 1989 Mystery in the Sky</a></p><p class="youtube-embed-meta">Channel: WAVY TV 10 &middot; Views: 1.1K &middot; Uploaded: March 2016 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wI9Lur8qp5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wI9Lur8qp5w">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -470,7 +461,7 @@ That is why Wytheville occupies an unusual place in Virginia UFO history. It is 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -480,111 +471,36 @@ That is why Wytheville occupies an unusual place in Virginia UFO history. It is 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-wytheville-still-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-wytheville-still-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-wytheville-still-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-wytheville-still-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-wytheville-still-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-wytheville-still-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-wytheville-still-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-wytheville-still-unresolved-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -592,15 +508,15 @@ That is why Wytheville occupies an unusual place in Virginia UFO history. It is 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-wytheville-still-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-wytheville-still-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-wytheville-still-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-wytheville-still-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-wytheville-still-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-wytheville-still-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-wytheville-still-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-wytheville-still-unresolved-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -608,15 +524,15 @@ That is why Wytheville occupies an unusual place in Virginia UFO history. It is 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-wytheville-still-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-wytheville-still-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-wytheville-still-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-wytheville-still-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-wytheville-still-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-wytheville-still-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-wytheville-still-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-wytheville-still-unresolved-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -624,15 +540,15 @@ That is why Wytheville occupies an unusual place in Virginia UFO history. It is 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-wytheville-still-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-wytheville-still-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-wytheville-still-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-wytheville-still-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-wytheville-still-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-wytheville-still-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-wytheville-still-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-wytheville-still-unresolved-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -640,7 +556,7 @@ That is why Wytheville occupies an unusual place in Virginia UFO history. It is 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-3e9008-why-is-wytheville-still-unresolved-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-is-wytheville-still-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-is-wytheville-still-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -717,17 +633,31 @@ That is why Wytheville occupies an unusual place in Virginia UFO history. It is 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -740,42 +670,73 @@ That is why Wytheville occupies an unusual place in Virginia UFO history. It is 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -790,12 +751,17 @@ That is why Wytheville occupies an unusual place in Virginia UFO history. It is 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -806,85 +772,85 @@ That is why Wytheville occupies an unusual place in Virginia UFO history. It is 
 1. <a id="endnote-1"></a>
    Source: unsolved.com  
    Title: Mysteries Wytheville UFO Sightings  
-   Link: [https://unsolved.com/gallery/wytheville-ufo-sightings/](https://unsolved.com/gallery/wytheville-ufo-sightings/)  
+   Link: <a href="https://unsolved.com/gallery/wytheville-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/wytheville-ufo-sightings/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesWytheville UFO Sightings - Unsolved MysteriesA wave of UFO sightings fascinate a small town in Virginia &amp; were witnesse...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Unsolved Mysteries Wytheville UFO Sightings  
-   Link: [https://unsolvedmysteries.fandom.com/wiki/Wytheville_UFO_Sightings](https://unsolvedmysteries.fandom.com/wiki/Wytheville_UFO_Sightings)  
+   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Wytheville_UFO_Sightings" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Wytheville_UFO_Sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesWytheville UFO Sightings - Unsolved Mysteries WikiThe UFO phenomenon has apparently ended in Wytheville, as the sightin...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: youtube.com  
    Title: You Tube Danny Gordon  
-   Link: [https://www.youtube.com/watch?v=XrzU0tKX7RY](https://www.youtube.com/watch?v=XrzU0tKX7RY)  
+   Link: <a href="https://www.youtube.com/watch?v=XrzU0tKX7RY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XrzU0tKX7RY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Danny Gordon - Wytheville UFO FEST 6/11/22Danny Gordon speaks about the UFO phenomenon that engulfed the town of Wytheville, VA and surro...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
    Title: Unsolved Mysteries  
-   Link: [https://www.youtube.com/watch?v=3kbARV7FBrU](https://www.youtube.com/watch?v=3kbARV7FBrU)  
+   Link: <a href="https://www.youtube.com/watch?v=3kbARV7FBrU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3kbARV7FBrU</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Season 4, Episode 18Unsolved Mysteries with Robert Stack - Season 4, Episode 18 - Full Episode... Nick Pope&#x27;s Global UFO Investigation |...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: imdb.com  
    Title: "Unsolved Mysteries" Episode #14.97 (TV  
-   Link: [https://www.imdb.com/title/tt1489858/](https://www.imdb.com/title/tt1489858/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IMDbMurder w/ UD: Camilla Lyman. UFO: Wytheville UFO Sightings. Lost Heirs w/ UD: Heirs of Dorothea Allen. Solved: Christopher Kurowski...</p></details>
+   Link: <a href="https://www.imdb.com/title/tt1489858/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt1489858/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Murder w/ UD: Camilla Lyman. UFO: Wytheville UFO Sightings. Lost Heirs w/ UD: Heirs of Dorothea Allen. Solved: Christopher Kurowski...</p></details>
 
 ### Additional References
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2583296958716142/posts/2710811525964684/](https://www.facebook.com/groups/2583296958716142/posts/2710811525964684/)  
+   Link: <a href="https://www.facebook.com/groups/2583296958716142/posts/2710811525964684/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2583296958716142/posts/2710811525964684/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>My favorite Podcast is looking for some Wytheville UFO...UFO sightings in various cities worldwide. Preston Dennett ▻ UFOs, UAPs, Extrat...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: worldufophotosandnews.org  
    Title: WORL D UFO PHOTOS AND NEWS.OR G | ***OVER 5  
-   Link: [https://worldufophotosandnews.org/](https://worldufophotosandnews.org/)  
+   Link: <a href="https://worldufophotosandnews.org/" target="_blank" rel="noopener noreferrer nofollow">https://worldufophotosandnews.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO PHOTO, JOHN MOONER UFO PHOTO, SEPTEMBER 6 2023 TEIGN ESTURARY DEVON ENGLAND UFO PHOTO · INCREDIBLE PHOTOS OF ALIEN CRAFT NEAR A COMME...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: projectaquarius.mufon.com  
    Title: UFO Newsclipping Service 1987 12 no 221  
-   Link: [https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1987-12-no-221.pdf](https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1987-12-no-221.pdf)  
+   Link: <a href="https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1987-12-no-221.pdf" target="_blank" rel="noopener noreferrer nofollow">https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1987-12-no-221.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Newsclipping ServiceHopkins, who has written books about people who say they were abducted by aliens, and other. UFO experts are conducti...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: projectaquarius.mufon.com  
    Title: UFO Newsclipping Service 1989 01 no 234  
-   Link: [https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1989-01-no-234.pdf](https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1989-01-no-234.pdf)  
+   Link: <a href="https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1989-01-no-234.pdf" target="_blank" rel="noopener noreferrer nofollow">https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1989-01-no-234.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Newsclipping Service5 Jan 1989 — With natural phenomenon ruled out, Ackerman is wondering if an alien spacecraft- a UFO- might have cause...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/872217522/Howe-L-M-An-Alien-Harvest-2nd-ed](https://www.scribd.com/document/872217522/Howe-L-M-An-Alien-Harvest-2nd-ed)  
+   Link: <a href="https://www.scribd.com/document/872217522/Howe-L-M-An-Alien-Harvest-2nd-ed" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/872217522/Howe-L-M-An-Alien-Harvest-2nd-ed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tentions. d. Crashed UFOs and UFO Retrievals. e...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: morgangriffith.house.gov  
-   Link: [https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=404211](https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=404211)  
+   Link: <a href="https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=404211" target="_blank" rel="noopener noreferrer nofollow">https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=404211</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Congressman Griffith&#x27;s Weekly E-Newsletter 10.25.2425 Oct 2024 — But many people believe that so-called balloon crash in Roswell was actu...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=1cO5K1np2Ig](https://www.youtube.com/watch?v=1cO5K1np2Ig)  
+   Link: <a href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1cO5K1np2Ig</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This archival broadcast of Unsolved Mysteries focuses on the 1987 Wytheville UFO wave, chronicling the original witness testimonies and e...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: businessinsider.com  
-   Link: [https://www.businessinsider.com/popular-conspiracy-theories-united-states-2019-5](https://www.businessinsider.com/popular-conspiracy-theories-united-states-2019-5)  
+   Link: <a href="https://www.businessinsider.com/popular-conspiracy-theories-united-states-2019-5" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/popular-conspiracy-theories-united-states-2019-5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51 Alien Center in Nevada.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: UF Os over Wytheville?  
-   Link: [https://www.facebook.com/PBSAppalachiaVirginia/posts/ufos-over-wytheville-take-a-trip-back-to-the-1980s-and-explore-one-of-southwest-/1371828788296832/](https://www.facebook.com/PBSAppalachiaVirginia/posts/ufos-over-wytheville-take-a-trip-back-to-the-1980s-and-explore-one-of-southwest-/1371828788296832/)  
+   Link: <a href="https://www.facebook.com/PBSAppalachiaVirginia/posts/ufos-over-wytheville-take-a-trip-back-to-the-1980s-and-explore-one-of-southwest-/1371828788296832/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PBSAppalachiaVirginia/posts/ufos-over-wytheville-take-a-trip-back-to-the-1980s-and-explore-one-of-southwest-/1371828788296832/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Take a trip back to the 1980s and...#wildandweirdwestvirginia #staywildandweird #ufosightings #UFO #phebomona #UAP #disclosure #collecta...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/RepMorganGriffith/posts/featured-in-this-weeks-e-newsletter-is-lifelong-wytheville-native-and-radio-fixt/1068359467994800/](https://www.facebook.com/RepMorganGriffith/posts/featured-in-this-weeks-e-newsletter-is-lifelong-wytheville-native-and-radio-fixt/1068359467994800/)  
+   Link: <a href="https://www.facebook.com/RepMorganGriffith/posts/featured-in-this-weeks-e-newsletter-is-lifelong-wytheville-native-and-radio-fixt/1068359467994800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RepMorganGriffith/posts/featured-in-this-weeks-e-newsletter-is-lifelong-wytheville-native-and-radio-fixt/1068359467994800/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE SCIENCE OF UFO&#x27;S AND ALIENS! 3. 3 reactions ·.Read more...</p></details>

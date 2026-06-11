@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ohio-d318c1-portage-county-chase/
 description: Focused pages that expand on Portage Chase.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Ohio_d318c1_portage_county_chase_c51786
-parent_title: Portage Chase | Why Ohio Became a UFO State
+parent_title: Portage Chase
 parent_nav_short_title: Portage Chase
 parent_permalink: /portage-chase/
 ---

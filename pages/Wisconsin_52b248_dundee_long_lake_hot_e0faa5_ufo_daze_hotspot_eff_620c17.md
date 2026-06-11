@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /dundee/
 nav_short_title: UFO Daze
 title: How UFO Daze made Dundee a hotspot
-title_full: How UFO Daze made Dundee a hotspot | Dundee
+title_full: How UFO Daze made Dundee a hotspot
 display_title_short: UFO Daze
 display_title: UFO Daze
 heading_title: How UFO Daze made Dundee a hotspot
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:30:04'
-parent_title: Why Long Lake Became a UFO Hotspot | Wisconsin UFOs
+parent_title: Why Long Lake Became a UFO Hotspot
 parent_permalink: /dundee/
 parent_nav_short_title: Dundee
 parent_heading_title: Why Long Lake Became a UFO Hotspot
@@ -250,10 +250,9 @@ image: /assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_ufo_daze_hots
 
 ## Introduction
 
-UFO Daze mattered to [Dundee]({{ 'dundee/' | relative_url }})’s reputation because it turned scattered local stories into a recurring public event. For more than three decades, believers, sceptics, curiosity-seekers and holidaymakers gathered at Benson’s Hide-A-Way on Long Lake to swap sightings, watch the night sky and test the claim that this corner of [Wisconsin]({{ 'what-really-made-wisconsin-a-ufo-state/' | relative_url }})’s Kettle Moraine region was unusually active. The festival did not prove that anything extraordinary was happening over Dundee. What it did do was create a social setting where reports were remembered, repeated and expanded upon year after year. In that sense, UFO Daze became one of the mechanisms that kept the Dundee hotspot story alive long after individual sightings might otherwise have faded from memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/wisconsinfrights/posts/the-legend-himself-bill-benson-bill-is-the-proprietor-of-bensons-hideaway-and-co/1911677302339923/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">the legend himself bill benson bill is the proprietor of bensons hideaway and co</span><span class="citation-popover-snippet">Wisconsin Frights18 Jul 2021 — The legend himself, Bill Benson! Bill is the proprietor of Benson&#x27;s Hideaway and co-founder of UFO Daze. T...</span></span></span>
+UFO Daze mattered to [Dundee]({{ 'dundee/' | relative_url }})’s reputation because it turned scattered local stories into a recurring public event. For more than three decades, believers, sceptics, curiosity-seekers and holidaymakers gathered at Benson’s Hide-A-Way on Long Lake to swap sightings, watch the night sky and test the claim that this corner of Wisconsin’s Kettle Moraine region was unusually active. The festival did not prove that anything extraordinary was happening over Dundee. What it did do was create a social setting where reports were remembered, repeated and expanded upon year after year. In that sense, UFO Daze became one of the mechanisms that kept the Dundee hotspot story alive long after individual sightings might otherwise have faded from memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/wisconsinfrights/posts/the-legend-himself-bill-benson-bill-is-the-proprietor-of-bensons-hideaway-and-co/1911677302339923/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">the legend himself bill benson bill is the proprietor of bensons hideaway and co</span><span class="citation-popover-snippet">Wisconsin Frights18 Jul 2021 — The legend himself, Bill Benson! Bill is the proprietor of Benson&#x27;s Hideaway and co-founder of UFO Daze. T...</span></span></span>
 
-
-<img src="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_ufo_daze_hotspot_eff_620c17-Illustration-1-light.svg" | relative_url }}" alt="UFO Daze illustration 1" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_ufo_daze_hotspot_eff_620c17-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_ufo_daze_hotspot_eff_620c17-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_ufo_daze_hotspot_eff_620c17-Illustration-1-dark.svg" | relative_url }}" alt="UFO Daze illustration 1" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_ufo_daze_hotspot_eff_620c17-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_ufo_daze_hotspot_eff_620c17-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Unlike famous UFO cases built around a single dramatic incident, Dundee’s identity grew through repetition. The annual gathering linked local folklore, eyewitness testimony, amateur investigation and community entertainment into one continuing tradition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/wisconsinfrights/posts/the-legend-himself-bill-benson-bill-is-the-proprietor-of-bensons-hideaway-and-co/1911677302339923/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">the legend himself bill benson bill is the proprietor of bensons hideaway and co</span><span class="citation-popover-snippet">Wisconsin Frights18 Jul 2021 — The legend himself, Bill Benson! Bill is the proprietor of Benson&#x27;s Hideaway and co-founder of UFO Daze. T...</span></span></span>
 
 ## How the annual gathering began and grew
@@ -266,7 +265,6 @@ Over time the gathering expanded beyond a small local meeting. Visitors arrived 
 
 This growth was important because it transformed Dundee from a place where sightings were reported into a place where sightings were expected. That distinction helps explain why the community remained visible within Wisconsin UFO culture long after many other local flaps disappeared from public attention.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vkHT1RsmfUQ" title="Outdoor Wisconsin | Program | UFO Days #3606" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vkHT1RsmfUQ" target="_blank" rel="noopener noreferrer">Outdoor Wisconsin | Program | UFO Days #3606</a></p><p class="youtube-embed-meta">Channel: Milwaukee PBS &middot; Views: 4.8K &middot; Uploaded: February 2020 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vkHT1RsmfUQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vkHT1RsmfUQ">Open on YouTube</a></p></div></div></div>
 
 ## Festival-night sightings and the problem of expectation
@@ -278,7 +276,6 @@ Several of Dundee’s best-known modern sightings became linked directly to fest
 Yet the festival environment also complicates interpretation.
 
 A number of factors make eyewitness reports harder to evaluate during an event specifically organised around sky-watching:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -294,18 +291,16 @@ These issues do not automatically mean witnesses were mistaken. They do, however
 
 The festival therefore produced a feedback loop. New reports strengthened Dundee’s reputation. That reputation attracted more visitors. More visitors spent time watching the sky. More sky-watchers created opportunities for additional reports. The hotspot survived partly because the gathering itself kept generating attention.
 
-
-<img src="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_ufo_daze_hotspot_eff_620c17-Illustration-2-light.svg" | relative_url }}" alt="UFO Daze illustration 2" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_ufo_daze_hotspot_eff_620c17-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_ufo_daze_hotspot_eff_620c17-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_ufo_daze_hotspot_eff_620c17-Illustration-2-dark.svg" | relative_url }}" alt="UFO Daze illustration 2" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_ufo_daze_hotspot_eff_620c17-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_ufo_daze_hotspot_eff_620c17-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why UFO Daze became part of Wisconsin UFO culture
 
 Many alleged UFO hotspots fade when local witnesses move away or media attention dries up. Dundee developed a more durable identity because UFO Daze gave the story a fixed annual date.
 
 Each July, people returned to the same shoreline and compared experiences from previous years. Photographs, rumours and sightings were preserved through conversation rather than formal investigation. In practice, the festival functioned as an archive of local memory. A witness who might otherwise have told a story once and stopped talking about it could instead return every year and retell it to a new audience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/wisconsinfrights/posts/the-legend-himself-bill-benson-bill-is-the-proprietor-of-bensons-hideaway-and-co/1911677302339923/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">the legend himself bill benson bill is the proprietor of bensons hideaway and co</span><span class="citation-popover-snippet">Wisconsin Frights18 Jul 2021 — The legend himself, Bill Benson! Bill is the proprietor of Benson&#x27;s Hideaway and co-founder of UFO Daze. T...</span></span></span>
 
-The event also connected Dundee to Wisconsin’s broader network of UFO enthusiasts. By the 2000s, the state had several communities promoting their own UFO histories and festivals. Dundee's gathering became one of the most recognisable examples, helping establish the town's reputation as one of Wisconsin's competing “UFO capital” claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.islands.com/1861995/trio-wisconsin-towns-claim-ufo-capital-of-the-world-dundee-elmwood-belleville/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: islands.com">[Islands]</a><span class="citation-popover" role="note"><span class="citation-popover-source">islands.com</span><span class="citation-popover-title">trio wisconsin towns claim ufo capital of the world dundee elmwood belleville</span><span class="citation-popover-snippet">IslandsThis Trio Of Wisconsin Towns All Claim To Be The &#x27;UFO...23 May 2025 — Dundee, Belleville, and Elmwood each have differing claims...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+The event also connected Dundee to Wisconsin’s broader network of UFO enthusiasts. By the 2000s, the state had several communities promoting their own UFO histories and festivals. Dundee's gathering became one of the most recognisable examples, helping establish the town's reputation as one of Wisconsin's competing “UFO capital” claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.islands.com/1861995/trio-wisconsin-towns-claim-ufo-capital-of-the-world-dundee-elmwood-belleville/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: islands.com">[Islands]</a><span class="citation-popover" role="note"><span class="citation-popover-source">islands.com</span><span class="citation-popover-title">trio wisconsin towns claim ufo capital of the world dundee elmwood belleville</span><span class="citation-popover-snippet">This Trio Of Wisconsin Towns All Claim To Be The &#x27;UFO...23 May 2025 — Dundee, Belleville, and Elmwood each have differing claims...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 Media coverage reinforced the cycle. Local television features, travel pieces, documentaries and online folklore sites repeatedly returned to UFO Daze because it offered colourful visuals and memorable characters. Filmmaker Mark Borchardt's documentary project brought additional attention to the event by focusing not just on UFO claims but on the people who gathered around them. That shift was significant. The festival became interesting as a cultural phenomenon even for viewers who doubted the sightings themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/wisconsinfrights/posts/the-legend-himself-bill-benson-bill-is-the-proprietor-of-bensons-hideaway-and-co/1911677302339923/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">the legend himself bill benson bill is the proprietor of bensons hideaway and co</span><span class="citation-popover-snippet">Wisconsin Frights18 Jul 2021 — The legend himself, Bill Benson! Bill is the proprietor of Benson&#x27;s Hideaway and co-founder of UFO Daze. T...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g2T2k3bqrmg" title="Dundee Project interview with Mark Borchardt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g2T2k3bqrmg" target="_blank" rel="noopener noreferrer">Dundee Project interview with Mark Borchardt</a></p><p class="youtube-embed-meta">Channel: Utah Film Festival &middot; Views: 2.4K &middot; Uploaded: January 2017 &middot; Length: 2 minutes 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g2T2k3bqrmg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g2T2k3bqrmg">Open on YouTube</a></p></div></div></div>
 
@@ -319,8 +314,7 @@ While reports of strange lights and unusual aerial objects can still emerge from
 
 The closure also highlights an important lesson about many regional UFO traditions. Their survival often depends as much on organisers, venues and social networks as on the sightings themselves. Dundee’s reputation was not maintained solely by unexplained lights over Long Lake. It was maintained by a recurring event that gave people a reason to keep watching, keep talking and keep returning.
 
-
-<img src="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_ufo_daze_hotspot_eff_620c17-Illustration-3-light.svg" | relative_url }}" alt="UFO Daze illustration 3" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_ufo_daze_hotspot_eff_620c17-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_ufo_daze_hotspot_eff_620c17-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_ufo_daze_hotspot_eff_620c17-Illustration-3-dark.svg" | relative_url }}" alt="UFO Daze illustration 3" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_ufo_daze_hotspot_eff_620c17-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5_ufo_daze_hotspot_eff_620c17-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What UFO Daze ultimately proves — and what it does not
 
 UFO Daze provides strong evidence that Dundee became one of Wisconsin’s most enduring UFO communities. It demonstrates how a local festival can preserve stories across generations and transform isolated reports into a lasting regional identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/wisconsinfrights/posts/the-legend-himself-bill-benson-bill-is-the-proprietor-of-bensons-hideaway-and-co/1911677302339923/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">the legend himself bill benson bill is the proprietor of bensons hideaway and co</span><span class="citation-popover-snippet">Wisconsin Frights18 Jul 2021 — The legend himself, Bill Benson! Bill is the proprietor of Benson&#x27;s Hideaway and co-founder of UFO Daze. T...</span></span></span>
@@ -329,9 +323,7 @@ What it does not prove is that Dundee was the site of confirmed extraterrestrial
 
 That balance is what makes UFO Daze notable within Wisconsin UFO history. Its significance lies less in any single sighting than in the way it kept a hotspot narrative alive. For more than thirty years, the gathering turned Long Lake into a place where belief, doubt, observation and folklore met on the same shoreline every summer.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eeKJu0gWV3Y" title="The Dundee Project trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eeKJu0gWV3Y" target="_blank" rel="noopener noreferrer">The Dundee Project trailer</a></p><p class="youtube-embed-meta">Channel: Found Footage Fest &middot; Views: 49.8K &middot; Uploaded: March 2017 &middot; Length: 1 minute 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eeKJu0gWV3Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eeKJu0gWV3Y">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DisJCjDwIW8" title="Slamdance Spotlight - THE DUNDEE PROJECT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DisJCjDwIW8" target="_blank" rel="noopener noreferrer">Slamdance Spotlight - THE DUNDEE PROJECT</a></p><p class="youtube-embed-meta">Channel: Slamdance Film Festival &middot; Views: 2.5K &middot; Uploaded: April 2017 &middot; Length: 2 minutes 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DisJCjDwIW8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DisJCjDwIW8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -419,7 +411,7 @@ That balance is what makes UFO Daze notable within Wisconsin UFO history. Its si
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -429,111 +421,36 @@ That balance is what makes UFO Daze notable within Wisconsin UFO history. Its si
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/~C4AAOSwhchnoVIr/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,15 +458,15 @@ That balance is what makes UFO Daze notable within Wisconsin UFO history. Its si
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -557,15 +474,15 @@ That balance is what makes UFO Daze notable within Wisconsin UFO history. Its si
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -573,15 +490,15 @@ That balance is what makes UFO Daze notable within Wisconsin UFO history. Its si
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -589,7 +506,7 @@ That balance is what makes UFO Daze notable within Wisconsin UFO history. Its si
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-daze-how-ufo-daze-made-dundee-a-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ufo-daze-made-dundee-a-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -666,17 +583,31 @@ That balance is what makes UFO Daze notable within Wisconsin UFO history. Its si
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -689,42 +620,73 @@ That balance is what makes UFO Daze notable within Wisconsin UFO history. Its si
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -739,12 +701,17 @@ That balance is what makes UFO Daze notable within Wisconsin UFO history. Its si
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -755,52 +722,52 @@ That balance is what makes UFO Daze notable within Wisconsin UFO history. Its si
 1. <a id="endnote-1"></a>
    Source: islands.com  
    Title: trio wisconsin towns claim ufo capital of the world dundee elmwood belleville  
-   Link: [https://www.islands.com/1861995/trio-wisconsin-towns-claim-ufo-capital-of-the-world-dundee-elmwood-belleville/](https://www.islands.com/1861995/trio-wisconsin-towns-claim-ufo-capital-of-the-world-dundee-elmwood-belleville/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IslandsThis Trio Of Wisconsin Towns All Claim To Be The &#x27;UFO...23 May 2025 — Dundee, Belleville, and Elmwood each have differing claims...</p></details>
+   Link: <a href="https://www.islands.com/1861995/trio-wisconsin-towns-claim-ufo-capital-of-the-world-dundee-elmwood-belleville/" target="_blank" rel="noopener noreferrer nofollow">https://www.islands.com/1861995/trio-wisconsin-towns-claim-ufo-capital-of-the-world-dundee-elmwood-belleville/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>This Trio Of Wisconsin Towns All Claim To Be The &#x27;UFO...23 May 2025 — Dundee, Belleville, and Elmwood each have differing claims...</p></details>
    Published: May 2025  
 
 2. <a id="endnote-2"></a>
    Source: facebook.com  
    Title: the legend himself bill benson bill is the proprietor of bensons hideaway and co  
-   Link: [https://www.facebook.com/wisconsinfrights/posts/the-legend-himself-bill-benson-bill-is-the-proprietor-of-bensons-hideaway-and-co/1911677302339923/](https://www.facebook.com/wisconsinfrights/posts/the-legend-himself-bill-benson-bill-is-the-proprietor-of-bensons-hideaway-and-co/1911677302339923/)  
+   Link: <a href="https://www.facebook.com/wisconsinfrights/posts/the-legend-himself-bill-benson-bill-is-the-proprietor-of-bensons-hideaway-and-co/1911677302339923/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wisconsinfrights/posts/the-legend-himself-bill-benson-bill-is-the-proprietor-of-bensons-hideaway-and-co/1911677302339923/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wisconsin Frights18 Jul 2021 — The legend himself, Bill Benson! Bill is the proprietor of Benson&#x27;s Hideaway and co-founder of UFO Daze. T...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: facebook.com  
    Title: UF O Daze Fan Club  
-   Link: [https://www.facebook.com/groups/54902902022/](https://www.facebook.com/groups/54902902022/)  
+   Link: <a href="https://www.facebook.com/groups/54902902022/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/54902902022/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Daze Fan Club - Benson&#x27;s Hide-a-way Long Lake, WIUFO Daze takes place every 3rd Saturday in July. Located in the Kettle Moraine State...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BackRoadsLore/posts/29th-annual-ufo-dazebensons-hide-a-way-wisconsins-ufo-headquarters-along-long-la/674369756101475/](https://www.facebook.com/BackRoadsLore/posts/29th-annual-ufo-dazebensons-hide-a-way-wisconsins-ufo-headquarters-along-long-la/674369756101475/)  
+   Link: <a href="https://www.facebook.com/BackRoadsLore/posts/29th-annual-ufo-dazebensons-hide-a-way-wisconsins-ufo-headquarters-along-long-la/674369756101475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BackRoadsLore/posts/29th-annual-ufo-dazebensons-hide-a-way-wisconsins-ufo-headquarters-along-long-la/674369756101475/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>er that the area&#x27;s strange activity originates...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/333827440359540/posts/1628161187592819/](https://www.facebook.com/groups/333827440359540/posts/1628161187592819/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bensons hideaway [dundee long lake](&amp;#123;&amp;#123; &#x27;dundee/&#x27; | relative_url &amp;#125;&amp;#125;) area ufo capital bill...bensons hideaway dundee long lake area ufo capital bill passed away in 2021. r...</p></details>
+   Link: <a href="https://www.facebook.com/groups/333827440359540/posts/1628161187592819/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/333827440359540/posts/1628161187592819/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>bensons hideaway dundee long lake area ufo capital bill...bensons hideaway dundee long lake area ufo capital bill passed away in 2021. r...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: wisconsinfrights.com  
    Title: ufo daze  
-   Link: [https://www.wisconsinfrights.com/ufo-daze/](https://www.wisconsinfrights.com/ufo-daze/)  
+   Link: <a href="https://www.wisconsinfrights.com/ufo-daze/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/ufo-daze/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wisconsin FrightsUFO Daze at Benson&#x27;s Hideaway (1988-2021)Benson&#x27;s UFO Headquarters was located on the shore of Long Lake in Dundee, Wisc...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cultofweird.com  
-   Link: [https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/](https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/)  
+   Link: <a href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow">https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cult of WeirdDundee, Wisconsin: UFO Capital of the WorldThe small Wisconsin town in the Kettle Moraine State Forest has a long, weird his...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: wisconsinfrights.com  
    Title: dundee ufo daze documentary  
-   Link: [https://www.wisconsinfrights.com/dundee-ufo-daze-documentary/](https://www.wisconsinfrights.com/dundee-ufo-daze-documentary/)  
+   Link: <a href="https://www.wisconsinfrights.com/dundee-ufo-daze-documentary/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/dundee-ufo-daze-documentary/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wisconsin FrightsUFO Daze: Documentary Spotlights Aliens in Dundee1 Aug 2017 — New film from Mark Borchardt focuses on the Dundee UFO fes...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=vkHT1RsmfUQ](https://www.youtube.com/watch?v=vkHT1RsmfUQ)  
+   Link: <a href="https://www.youtube.com/watch?v=vkHT1RsmfUQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vkHT1RsmfUQ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Outdoor Wisconsin | Program | UFO Days #3606Outdoor Wisconsin visits Horwitz DeRemer Planetarium. Elizabeth Cramer searches for aliens at...</p></details>
 
 ### Additional References
@@ -808,57 +775,57 @@ That balance is what makes UFO Daze notable within Wisconsin UFO history. Its si
 10. <a id="endnote-10"></a>
    Source: foundinwisconsin.com  
    Title: 3 hot spots for ufo sightings in wisconsin  
-   Link: [https://foundinwisconsin.com/2024/05/3-hot-spots-for-ufo-sightings-in-wisconsin/](https://foundinwisconsin.com/2024/05/3-hot-spots-for-ufo-sightings-in-wisconsin/)  
+   Link: <a href="https://foundinwisconsin.com/2024/05/3-hot-spots-for-ufo-sightings-in-wisconsin/" target="_blank" rel="noopener noreferrer nofollow">https://foundinwisconsin.com/2024/05/3-hot-spots-for-ufo-sightings-in-wisconsin/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>22 May 2024 — Dundee: This small community hosts the UFO Daze festival at Benson&#x27;s Hideaway on Long Lake. The area around Dundee Mountain...</p></details>
    Published: May 2024  
 
 11. <a id="endnote-11"></a>
    Source: tumblr.com  
    Title: bensons ufo daze dundee  
-   Link: [https://www.tumblr.com/weirdwisconsin/688692736877084672/bensons-ufo-daze-dundee](https://www.tumblr.com/weirdwisconsin/688692736877084672/bensons-ufo-daze-dundee)  
+   Link: <a href="https://www.tumblr.com/weirdwisconsin/688692736877084672/bensons-ufo-daze-dundee" target="_blank" rel="noopener noreferrer nofollow">https://www.tumblr.com/weirdwisconsin/688692736877084672/bensons-ufo-daze-dundee</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For more than 30 years, Benson&#x27;s Hide-a-Way on the shore...Sadly, proprietor Bill Benson passed away in 2021, bringing an end to the ann...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: thementalshed.com  
    Title: Dundee UFO Travel Poster  
-   Link: [https://www.thementalshed.com/dundee-wi-ufo-travel-poster/](https://www.thementalshed.com/dundee-wi-ufo-travel-poster/)  
+   Link: <a href="https://www.thementalshed.com/dundee-wi-ufo-travel-poster/" target="_blank" rel="noopener noreferrer nofollow">https://www.thementalshed.com/dundee-wi-ufo-travel-poster/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental ShedA travel poster designed to celebrate the decades of UFO sightings and other activity around the small Wisconsin town of Dundee...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=K4-B01SR1Gs](https://www.youtube.com/watch?v=K4-B01SR1Gs)  
+   Link: <a href="https://www.youtube.com/watch?v=K4-B01SR1Gs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K4-B01SR1Gs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dundee Project interview with Mark Borchardt...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: authenticwisconsin.com  
-   Link: [https://authenticwisconsin.com/dundee.html](https://authenticwisconsin.com/dundee.html)  
+   Link: <a href="https://authenticwisconsin.com/dundee.html" target="_blank" rel="noopener noreferrer nofollow">https://authenticwisconsin.com/dundee.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Authentic WisconsinNotable Places | Dundee, WisconsinDundee (Long Lake/Campbellsport) is one of three towns in Wisconsin claiming the tit...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: teakrulos.com  
    Title: Long Lake UFO  
-   Link: [https://teakrulos.com/tag/long-lake-ufo/](https://teakrulos.com/tag/long-lake-ufo/)  
+   Link: <a href="https://teakrulos.com/tag/long-lake-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://teakrulos.com/tag/long-lake-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tea Krulos23 Jul 2021 — Bill Benson, proprietor of Benson&#x27;s Hide-A-Way, has spotted UFOs himself. A nearby marsh is where a mysterious cr...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Dundee Project trailer  
-   Link: [https://www.youtube.com/watch?v=eeKJu0gWV3Y](https://www.youtube.com/watch?v=eeKJu0gWV3Y)  
+   Link: <a href="https://www.youtube.com/watch?v=eeKJu0gWV3Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eeKJu0gWV3Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dundee, WI: Old Mill, UFO&#x27;s over Long Lake?, UFO Daze, Cool Abandoned Houses! Crazy Weather...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Slamdance Spotlight  
-   Link: [https://www.youtube.com/watch?v=DisJCjDwIW8](https://www.youtube.com/watch?v=DisJCjDwIW8)  
+   Link: <a href="https://www.youtube.com/watch?v=DisJCjDwIW8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DisJCjDwIW8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The BIZARRE &amp; EERIE tales behind a Wisconsin town&#x27;s yearly celebration...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Dundee Project interview with Mark Borchardt  
-   Link: [https://www.youtube.com/watch?v=g2T2k3bqrmg](https://www.youtube.com/watch?v=g2T2k3bqrmg)  
+   Link: <a href="https://www.youtube.com/watch?v=g2T2k3bqrmg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g2T2k3bqrmg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Slamdance Spotlight - THE DUNDEE PROJECT...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: The BIZARRE & EERIE tales behind a Wisconsin town's yearly celebration  
-   Link: [https://www.youtube.com/watch?v=2Q9649IgrHc](https://www.youtube.com/watch?v=2Q9649IgrHc)  
+   Link: <a href="https://www.youtube.com/watch?v=2Q9649IgrHc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2Q9649IgrHc</a>

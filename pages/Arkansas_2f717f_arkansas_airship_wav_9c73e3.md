@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-arkansas-skies/
 nav_short_title: Airship Wave
 title: Were Arkansas's Airships Real Machines?
-title_full: Were Arkansas's Airships Real Machines? | Arkansas UFOs
+title_full: Were Arkansas's Airships Real Machines?
 display_title_short: Airship Wave
 display_title: Airship Wave
 heading_title: Were Arkansas's Airships Real Machines?
@@ -262,8 +262,7 @@ image: /assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3-overview-socia
 
 ## Introduction
 
-In the spring of 1897, long before powered flight was a part of everyday life, [Arkansas]({{ 'what-really-happened-in-arkansas-skies/' | relative_url }})—like much of the United States—was drawn into a curious series of newspaper stories and eyewitness accounts about strange “airships” seen in the skies. These reports featured large cigar‑shaped craft, bright lights, and even claims of encounters with their occupants. Today, historians view the 1896–97 airship wave as an early chapter in what later became UFO lore: a mix of vivid witness testimonies, imaginative press coverage and, in some cases, deliberate hoaxes. What makes the Arkansas strands of this wave noteworthy is not confirmed anomalous craft, but the way local reporting and testimony entered a broader national pattern and then faded without corroborating evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/UFO-Sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO Sightings - Encyclopedia of ArkansasOctober 22, 2025...</span><span class="citation-popover-meta">Published: October 22, 2025</span></span></span>
-
+In the spring of 1897, long before powered flight was a part of everyday life, Arkansas—like much of the United States—was drawn into a curious series of newspaper stories and eyewitness accounts about strange “airships” seen in the skies. These reports featured large cigar‑shaped craft, bright lights, and even claims of encounters with their occupants. Today, historians view the 1896–97 airship wave as an early chapter in what later became UFO lore: a mix of vivid witness testimonies, imaginative press coverage and, in some cases, deliberate hoaxes. What makes the Arkansas strands of this wave noteworthy is not confirmed anomalous craft, but the way local reporting and testimony entered a broader national pattern and then faded without corroborating evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/UFO-Sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO Sightings - Encyclopedia of ArkansasOctober 22, 2025...</span><span class="citation-popover-meta">Published: October 22, 2025</span></span></span>
 
 <img src="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3-overview.webp" | relative_url }}" alt="Overview image for Airship Wave" loading="eager" decoding="sync" fetchpriority="high">
 ## Historic Reports from Arkansas: Texarkana and Hot Springs
@@ -275,24 +274,20 @@ The most detailed Arkansas stories from 1897 centre on two locations: **[Texarka
 
 These Arkansas stories, while dramatic, emerged exclusively from **newspaper reporting and witness accounts**; no physical debris, official documentation or independent verification has survived. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/UFO-Sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO Sightings - Encyclopedia of ArkansasOctober 22, 2025...</span><span class="citation-popover-meta">Published: October 22, 2025</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-9Akxx_jPW8" title="Exploring Arkansas&#x27;s Weird Folklore: Myths and Legends of the United States" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-9Akxx_jPW8" target="_blank" rel="noopener noreferrer">Exploring Arkansas&#x27;s Weird Folklore: Myths and Legends of the United States</a></p><p class="youtube-embed-meta">Channel: T’s Storytime &middot; Views: 167.4K &middot; Uploaded: May 2025 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-9Akxx_jPW8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-9Akxx_jPW8">Open on YouTube</a></p></div></div></div>
 
-
-<img src="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3-Illustration-1-light.svg" | relative_url }}" alt="Airship Wave illustration 1" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3-Illustration-1-dark.svg" | relative_url }}" alt="Airship Wave illustration 1" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Newspapers, Hoax Culture and Tall Tales
 
 The Arkansas airship accounts came at the height of a national craze for airship stories. Beginning in California in late 1896, reports of mysterious lights and craft spread eastward through early 1897, with thousands of eyewitnesses across many states claiming to see unusual aerial objects—sometimes with visible “occupants” or mechanical details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span> Newspapers played a central role in transmitting and amplifying these claims, often publishing sensational sketches and interviews.
 
-Historians and sceptics note that **popular culture and competitive press reporting** of the era were fertile ground for tall tales and hoaxes. Some stories were later shown to be deliberate practical jokes, while others were likely misidentifications of natural phenomena such as bright planets, stars or nocturnal lights elevated by suggestible interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/a5a0fe8d-7a9f-4b6e-a2ae-b34a09b14e2c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingAirship Sighting Wave of 1896 to 1897 | Enigma LabsMay 2, 2023...</span><span class="citation-popover-meta">Published: May 2, 2023</span></span></span> | Report a UFO sighting
+Historians and sceptics note that **popular culture and competitive press reporting** of the era were fertile ground for tall tales and hoaxes. Some stories were later shown to be deliberate practical jokes, while others were likely misidentifications of natural phenomena such as bright planets, stars or nocturnal lights elevated by suggestible interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/a5a0fe8d-7a9f-4b6e-a2ae-b34a09b14e2c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingAirship Sighting Wave of 1896 to 1897 &#124; Enigma LabsMay 2, 2023...</span><span class="citation-popover-meta">Published: May 2, 2023</span></span></span> | Report a UFO sighting
 
 In the Arkansas press, the accounts of Hooton, Sumpter and McLemore were treated as intriguing local news, but contemporary reactions included scepticism and mockery. The lack of corroborating evidence soon saw these accounts fade from public consciousness outside folklore circles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/UFO-Sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO Sightings - Encyclopedia of ArkansasOctober 22, 2025...</span><span class="citation-popover-meta">Published: October 22, 2025</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hmNWl96jjCI" title="The Phantom Airship Mystery of 1897: what did the Americans see?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hmNWl96jjCI" target="_blank" rel="noopener noreferrer">The Phantom Airship Mystery of 1897: what did the Americans see?</a></p><p class="youtube-embed-meta">Channel: We Travel by Night &middot; Views: 118.3K &middot; Uploaded: July 2024 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hmNWl96jjCI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hmNWl96jjCI">Open on YouTube</a></p></div></div></div>
 
-
-<img src="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3-Illustration-3-light.svg" | relative_url }}" alt="Airship Wave illustration 3" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3-Illustration-3-dark.svg" | relative_url }}" alt="Airship Wave illustration 3" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nThHfFdS8b4" title="1896: Mysterious Airships" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nThHfFdS8b4" target="_blank" rel="noopener noreferrer">1896: Mysterious Airships</a></p><p class="youtube-embed-meta">Channel: The History Guy: History Deserves to Be Remembered &middot; Views: 197.6K &middot; Uploaded: November 2025 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nThHfFdS8b4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nThHfFdS8b4">Open on YouTube</a></p></div></div></div>
 
@@ -302,8 +297,7 @@ The 1897 Arkansas airship stories matter not because they provide confirmed evid
 
 For Arkansas’s place in UFO history, the 1897 wave serves as an early entry point showing how multiple witnesses, vivid press reports, and later reinterpretation can create enduring tales out of transient events. Such episodes are a reminder of the challenges in assessing historical aerial reports: without corroborating records, material evidence, or independent investigation, they remain **colourful but unverified stories**—valued more for their cultural texture than for proving anomalous aerial technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/UFO-Sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO Sightings - Encyclopedia of ArkansasOctober 22, 2025...</span><span class="citation-popover-meta">Published: October 22, 2025</span></span></span>
 
-
-<img src="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3-Illustration-2-light.svg" | relative_url }}" alt="Airship Wave illustration 2" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3-Illustration-2-dark.svg" | relative_url }}" alt="Airship Wave illustration 2" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -727,33 +721,33 @@ For Arkansas’s place in UFO history, the 1897 wave serves as an early entry po
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Mystery airship  
-   Link: [https://en.wikipedia.org/wiki/Mystery_airship](https://en.wikipedia.org/wiki/Mystery_airship)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
 
 2. <a id="endnote-2"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/a5a0fe8d-7a9f-4b6e-a2ae-b34a09b14e2c](https://enigmalabs.io/library/a5a0fe8d-7a9f-4b6e-a2ae-b34a09b14e2c)  
+   Link: <a href="https://enigmalabs.io/library/a5a0fe8d-7a9f-4b6e-a2ae-b34a09b14e2c" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/a5a0fe8d-7a9f-4b6e-a2ae-b34a09b14e2c</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingAirship Sighting Wave of 1896 to 1897 | Enigma LabsMay 2, 2023...</p></details>
    Published: May 2, 2023  
 
 3. <a id="endnote-3"></a>
    Source: everything.explained.today  
-   Link: [https://everything.explained.today/Mystery_airship/](https://everything.explained.today/Mystery_airship/)  
+   Link: <a href="https://everything.explained.today/Mystery_airship/" target="_blank" rel="noopener noreferrer nofollow">https://everything.explained.today/Mystery_airship/</a>  
 
 4. <a id="endnote-4"></a>
    Source: encyclopediaofarkansas.net  
    Title: Encyclopedia of Arkansas UFO Sightings  
-   Link: [https://encyclopediaofarkansas.net/entries/UFO-Sightings-8576/](https://encyclopediaofarkansas.net/entries/UFO-Sightings-8576/)  
+   Link: <a href="https://encyclopediaofarkansas.net/entries/UFO-Sightings-8576/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofarkansas.net/entries/UFO-Sightings-8576/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia of ArkansasUFO Sightings - Encyclopedia of ArkansasOctober 22, 2025...</p></details>
    Published: October 22, 2025  
 
 5. <a id="endnote-5"></a>
    Source: exploresouthernhistory.com  
-   Link: [https://www.exploresouthernhistory.com/arkansasairship.html](https://www.exploresouthernhistory.com/arkansasairship.html)  
+   Link: <a href="https://www.exploresouthernhistory.com/arkansasairship.html" target="_blank" rel="noopener noreferrer nofollow">https://www.exploresouthernhistory.com/arkansasairship.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore Southern HistoryThe Arkansas Airship of 1897 - A 19th Century UFO Report?...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: weeklyuniverse.com  
-   Link: [https://www.weeklyuniverse.com/2004/airships.htm](https://www.weeklyuniverse.com/2004/airships.htm)  
+   Link: <a href="https://www.weeklyuniverse.com/2004/airships.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.weeklyuniverse.com/2004/airships.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arts. [September 26, 2004] [WeeklyUniverse.com] Most people regard UFOs as a fairly recent phenomenon, yet mysterious objects have appear...</p></details>
    Published: September 26, 2004  
 
@@ -762,64 +756,64 @@ For Arkansas’s place in UFO history, the 1897 wave serves as an early entry po
 7. <a id="endnote-7"></a>
    Source: thetheory.tripod.com  
    Title: which stated that the Lord Commissioner of Mars had sent one of his e  
-   Link: [https://thetheory.tripod.com/believe/airship.htm](https://thetheory.tripod.com/believe/airship.htm)  
+   Link: <a href="https://thetheory.tripod.com/believe/airship.htm" target="_blank" rel="noopener noreferrer nofollow">https://thetheory.tripod.com/believe/airship.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wave of 1896/97AIRSHIP WAVE OF 1896/97 USA 1896 W.A The Sacramento Bee, a local newspaper printed a letter from an alleged Martian known...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: revengerists.fandom.com  
-   Link: [https://revengerists.fandom.com/wiki/Phantom_Airship](https://revengerists.fandom.com/wiki/Phantom_Airship)  
+   Link: <a href="https://revengerists.fandom.com/wiki/Phantom_Airship" target="_blank" rel="noopener noreferrer nofollow">https://revengerists.fandom.com/wiki/Phantom_Airship</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Then, early in 1897, reports and accounts of similar sightings came from other areas, generally mo...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ufomatrix.org  
    Title: great airship wave 1896 1897 mass ufo sightings  
-   Link: [https://www.ufomatrix.org/2025/02/great-airship-wave-1896-1897-mass-ufo-sightings.html](https://www.ufomatrix.org/2025/02/great-airship-wave-1896-1897-mass-ufo-sightings.html)  
+   Link: <a href="https://www.ufomatrix.org/2025/02/great-airship-wave-1896-1897-mass-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomatrix.org/2025/02/great-airship-wave-1896-1897-mass-ufo-sightings.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Great Airship Wave (1896-1897): America’s First Mass UFO SightingsMarch 7, 2025 — THE GREAT AIRSHIP WAVE (1896-1897): AMERICA’S FIRST...</p></details>
    Published: March 7, 2025  
 
 10. <a id="endnote-10"></a>
    Source: tvi.show  
    Title: the 1897 arkansas airship encounter officers sworn testimony of ufo contact  
-   Link: [https://www.tvi.show/nexus/the-1897-arkansas-airship-encounter-officers-sworn-testimony-of-ufo-contact](https://www.tvi.show/nexus/the-1897-arkansas-airship-encounter-officers-sworn-testimony-of-ufo-contact)  
+   Link: <a href="https://www.tvi.show/nexus/the-1897-arkansas-airship-encounter-officers-sworn-testimony-of-ufo-contact" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/nexus/the-1897-arkansas-airship-encounter-officers-sworn-testimony-of-ufo-contact</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Things Visible &amp; InvisibleHistoric UFO Encounter: The 1897 Arkansas Airship Incident...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pbcommercial.com  
    Title: State has long history of UFO sightings  
-   Link: [https://www.pbcommercial.com/state-has-long-history-of-ufo-sightings/](https://www.pbcommercial.com/state-has-long-history-of-ufo-sightings/)  
+   Link: <a href="https://www.pbcommercial.com/state-has-long-history-of-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbcommercial.com/state-has-long-history-of-ufo-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Barnard · Community · October 3, 2022 Save Official PDF Image: State has long history of UFO sightings From 1896 to 1897, people across t...</p></details>
    Published: October 3, 2022  
 
 12. <a id="endnote-12"></a>
    Source: explorepinebluff.com  
    Title: Pine Bluff UFO Sightings in Arkansas  
-   Link: [https://www.explorepinebluff.com/post/ufo-sightings-in-arkansas](https://www.explorepinebluff.com/post/ufo-sightings-in-arkansas)  
+   Link: <a href="https://www.explorepinebluff.com/post/ufo-sightings-in-arkansas" target="_blank" rel="noopener noreferrer nofollow">https://www.explorepinebluff.com/post/ufo-sightings-in-arkansas</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in ArkansasSeptember 28, 2022 — UFO SIGHTINGS IN ARKANSAS * Sep 28, 2022 * 3 min read Updated: Jul 10, 2023 There have been...</p></details>
    Published: September 28, 2022  
 
 13. <a id="endnote-13"></a>
    Source: commons.wikimedia.org  
    Title: Category:Airships wave of 1896 1897  
-   Link: [https://commons.wikimedia.org/wiki/Category%3AAirships_wave_of_1896-1897](https://commons.wikimedia.org/wiki/Category%3AAirships_wave_of_1896-1897)  
+   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AAirships_wave_of_1896-1897" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AAirships_wave_of_1896-1897</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:Airships wave of 1896-1897 - Wikimedia CommonsAugust 19, 2023 — CATEGORY:AIRSHIPS WAVE OF 1896-1897 &lt;nowiki&gt;aeronav...</p></details>
    Published: August 19, 2023  
 
 14. <a id="endnote-14"></a>
    Source: thinkaboutitdocs.com  
    Title: 1897 hot springs arkansas sighting  
-   Link: [https://www.thinkaboutitdocs.com/1897-hot-springs-arkansas-sighting/](https://www.thinkaboutitdocs.com/1897-hot-springs-arkansas-sighting/)  
+   Link: <a href="https://www.thinkaboutitdocs.com/1897-hot-springs-arkansas-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1897-hot-springs-arkansas-sighting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1897: Hot Springs, Arkansas SightingApril 8, 2013 — 1897: HOT SPRINGS, ARKANSAS SIGHTING Orbman April 8, 2013 4 minutes read Image: airsh...</p></details>
    Published: April 8, 2013  
 
 15. <a id="endnote-15"></a>
    Source: ufoinsight.com  
    Title: UFO Insight The Airship Sightings  
-   Link: [https://www.ufoinsight.com/ufos/waves/the-airship-sightings](https://www.ufoinsight.com/ufos/waves/the-airship-sightings)  
+   Link: <a href="https://www.ufoinsight.com/ufos/waves/the-airship-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/waves/the-airship-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Airship Sightings - UFO InsightAugust 24, 2019 — THE AIRSHIP SIGHTINGS By Marcus Lowth Image: Published Date August 24, 2019 Image: L...</p></details>
    Published: August 24, 2019  
 
 16. <a id="endnote-16"></a>
    Source: disclosdex.com  
    Title: L. Lowery, Mayor Adolph Sut  
-   Link: [https://disclosdex.com/events/1896-1897-mystery-airship-wave](https://disclosdex.com/events/1896-1897-mystery-airship-wave)  
+   Link: <a href="https://disclosdex.com/events/1896-1897-mystery-airship-wave" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/events/1896-1897-mystery-airship-wave</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Airship Wave | DisclosdexMYSTERY AIRSHIP WAVE Sighting Newspapers in 1896-1897 reported luminous cigar-shaped airships across Nor...</p></details>

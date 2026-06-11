@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /indiana-5d00be-muncie-1973-flap-995554/
 description: Focused pages that expand on Muncie Flap.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Indiana_5d00be_muncie_1973_flap_995554
-parent_title: Muncie Flap | What Makes Indiana’s UFO History Unique and...
+parent_title: Muncie Flap
 parent_nav_short_title: Muncie Flap
 parent_permalink: /muncie-flap/
 ---

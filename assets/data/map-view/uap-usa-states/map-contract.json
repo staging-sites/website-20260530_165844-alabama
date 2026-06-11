@@ -1,0 +1,10 @@
+{
+  "id": "uap-usa-states",
+  "label": "UFOs and UAP by State",
+  "itemType": "state",
+  "mapSrc": "us.svg",
+  "dataSrc": "items.json",
+  "sourceUrl": "https://simplemaps.com/resources/svg-us",
+  "license": "Free for commercial and personal use; attribution appreciated.",
+  "itemCount": 49
+}

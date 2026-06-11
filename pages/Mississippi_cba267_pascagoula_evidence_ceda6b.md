@@ -11,22 +11,22 @@ sibling_basenames:
 - Mississippi_cba267_modern_sightings_5cfd1d
 - Mississippi_cba267_pascagoula_memory_f91e6e
 tags:
-- mississippi
+- mississippi-cba-267
 - pascagoula
 keywords:
-- mississippi
+- mississippi-cba-267
 - pascagoula
-affiliate_category: mississippi
+affiliate_category: mississippi-cba-267
 show_ads: true
 description: The Pascagoula case remains Mississippi's defining UFO story because its witness testimony is vivid but still lacks hard proof.
 hero_summary: The Pascagoula case remains Mississippi's defining UFO story because its witness testimony is vivid but still lacks hard proof.
 layout: default
 permalink: /pascagoula/
 sidebar_expanded_urls:
-- /mississippi/
+- /mississippi-cba-267/
 nav_short_title: Pascagoula
 title: Why Pascagoula Still Divides UFO Readers
-title_full: Why Pascagoula Still Divides UFO Readers | Mississippi UFOs
+title_full: Why Pascagoula Still Divides UFO Readers
 display_title_short: Pascagoula
 display_title: Pascagoula
 heading_title: Why Pascagoula Still Divides UFO Readers
@@ -203,31 +203,31 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:35:03'
 parent_title: Mississippi UFOs
-parent_permalink: /mississippi/
+parent_permalink: /mississippi-cba-267/
 parent_nav_short_title: Mississippi UFOs
 ancestor_links:
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 breadcrumb_links:
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 sibling_links:
 - basename: Mississippi_cba267_keesler_blue_book_fa9dc5
-  title: Keesler Records | Mississippi
+  title: Keesler Records | Mississippi cba 267
   permalink: /keesler-records/
   short_title: Keesler Records
   heading_title: What Did the Air Force Record in Mississippi?
 - basename: Mississippi_cba267_modern_sightings_5cfd1d
-  title: Modern Sightings | Mississippi
+  title: Modern Sightings | Mississippi cba 267
   permalink: /modern-sightings/
   short_title: Modern Sightings
   heading_title: When Mississippi UFOs Become Identified Objects
 - basename: Mississippi_cba267_pascagoula_memory_f91e6e
-  title: Public Memory | Mississippi
+  title: Public Memory | Mississippi cba 267
   permalink: /public-memory/
   short_title: Public Memory
   heading_title: How Pascagoula Became a UFO Landmark
@@ -245,17 +245,17 @@ child_links:
 up_link:
   basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 prev_link:
   basename: Mississippi_cba267_modern_sightings_5cfd1d
-  title: Modern Sightings | Mississippi
+  title: Modern Sightings | Mississippi cba 267
   permalink: /modern-sightings/
   short_title: Modern Sightings
   heading_title: When Mississippi UFOs Become Identified Objects
 next_link:
   basename: Mississippi_cba267_pascagoula_memory_f91e6e
-  title: Public Memory | Mississippi
+  title: Public Memory | Mississippi cba 267
   permalink: /public-memory/
   short_title: Public Memory
   heading_title: How Pascagoula Became a UFO Landmark
@@ -267,8 +267,7 @@ image: /assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b-overview-soc
 
 ## Introduction
 
-The Pascagoula incident still divides UFO readers because it has unusually strong witness drama but unusually weak hard proof. On 11 October 1973, Charles Hickson and Calvin Parker said they were fishing on the Pascagoula River in [Mississippi]({{ 'mississippi/' | relative_url }}) when a strange craft appeared, beings took them aboard, examined them, and returned them to the riverbank. The case matters in Mississippi UFO history because it moved almost immediately from local police report to national media story, then into decades of books, interviews, sceptical criticism, town memory and tourism. The central problem has never changed: the men appeared frightened and some officers thought they were sincere, but no physical evidence, clear independent observation or official technical finding proves that an extraordinary craft was present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lib.usm.edu/spcol/exhibitions/item_of_the_month/march_2014.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.usm.edu">[lib.usm.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.usm.edu</span><span class="citation-popover-title">University of Southern Mississippi</span><span class="citation-popover-snippet">University of Southern Mississippi</span></span></span>
-
+The Pascagoula incident still divides UFO readers because it has unusually strong witness drama but unusually weak hard proof. On 11 October 1973, Charles Hickson and Calvin Parker said they were fishing on the Pascagoula River in Mississippi when a strange craft appeared, beings took them aboard, examined them, and returned them to the riverbank. The case matters in Mississippi UFO history because it moved almost immediately from local police report to national media story, then into decades of books, interviews, sceptical criticism, town memory and tourism. The central problem has never changed: the men appeared frightened and some officers thought they were sincere, but no physical evidence, clear independent observation or official technical finding proves that an extraordinary craft was present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lib.usm.edu/spcol/exhibitions/item_of_the_month/march_2014.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.usm.edu">[lib.usm.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.usm.edu</span><span class="citation-popover-title">University of Southern Mississippi</span><span class="citation-popover-snippet">University of Southern Mississippi</span></span></span>
 
 <img src="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b-overview.webp" | relative_url }}" alt="Overview image for Pascagoula" loading="eager" decoding="sync" fetchpriority="high">
 ## What Hickson and Parker reported
@@ -281,8 +280,7 @@ The second point is the emotional state described by those who met them. The Ass
 
 That is why the case remains compelling to many readers. The strongest evidence is not a photograph, radar track or recovered object. It is a cluster of human evidence: immediate reporting, two named witnesses, police observation of their distress, the hidden recording, and decades of reluctance or discomfort from Parker, who said the attention disrupted his life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kval.com/news/local/man-says-bizarre-1973-ufo-incident-turned-life-upside-down" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kval.com">[KVAL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kval.com</span><span class="citation-popover-title">man says bizarre 1973 ufo incident turned life upside down</span><span class="citation-popover-snippet">man says bizarre 1973 ufo incident turned life upside down</span></span></span>
 
-
-<img src="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b-Illustration-1-light.svg" | relative_url }}" alt="Pascagoula illustration 1" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b-Illustration-1-dark.svg" | relative_url }}" alt="Pascagoula illustration 1" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the police response still matters
 
 The Jackson County Sheriff’s Department response is central to the case because it created the most memorable piece of evidence: the secretly recorded conversation. The University of Southern Mississippi’s special collections page notes that after questioning the men, police left them alone in a room while the recorder was still running, capturing their discussion when they did not know they were being monitored. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lib.usm.edu/spcol/exhibitions/item_of_the_month/march_2014.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.usm.edu">[lib.usm.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.usm.edu</span><span class="citation-popover-title">University of Southern Mississippi</span><span class="citation-popover-snippet">University of Southern Mississippi</span></span></span>
@@ -292,7 +290,6 @@ For believers, this is the case’s strongest moment. A hoaxer who knows the per
 But sincerity and accuracy are not the same thing. A person can be honestly frightened and still misperceive an event, confuse a memory, or interpret an ambiguous experience through the ideas available to them. The recording is useful evidence about the witnesses’ state of mind; it is not physical evidence of a craft, occupants or abduction. This distinction is the key to reading Pascagoula fairly. The [police tape]({{ 'police-tape/' | relative_url }}) makes a simple “they were obviously laughing frauds” explanation harder. It does not make the alien-abduction claim established.
 
 The same caution applies to officer impressions. Ryder’s later comments are often quoted because they are sympathetic to the witnesses, but they are not a technical investigation. Police could assess whether the men seemed drunk, frightened or evasive; they could not independently verify what happened at the riverbank without corroborating physical traces or reliable outside witnesses. The case therefore sits in an uncomfortable middle ground: stronger than a vague anonymous sighting, weaker than an event supported by material evidence.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QdqrpzsVzbs" title="IN CONTACT rare documentary with Calvin Parker and Charles Hickson on the Pascagoula UFO incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QdqrpzsVzbs" target="_blank" rel="noopener noreferrer">IN CONTACT rare documentary with Calvin Parker and Charles Hickson on the Pascagoula UFO incident</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 21.1K &middot; Uploaded: September 2023 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QdqrpzsVzbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QdqrpzsVzbs">Open on YouTube</a></p></div></div></div>
 
@@ -310,8 +307,7 @@ The Pascagoula story has survived because several features reinforce each other.
 
 **Media persistence.** A 2024 University of Southern Mississippi honours thesis describes Pascagoula as one of the most famous reported extraterrestrial encounters in the United States and compares the hard-news style of 1973 coverage with more analytical modern UFO reporting. That media afterlife matters because it shaped how later readers encountered the evidence, doubts and personalities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aquila.usm.edu/honors_theses/988/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquila.usm.edu">[aquila.usm.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquila.usm.edu</span><span class="citation-popover-title">honors theses</span><span class="citation-popover-snippet">“UFO Reports Swamp Mississippi”: Media Coverage of the 1973 Pascagoula&quot; by Jane Fort...</span></span></span>
 
-
-<img src="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b-Illustration-2-light.svg" | relative_url }}" alt="Pascagoula illustration 2" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b-Illustration-2-dark.svg" | relative_url }}" alt="Pascagoula illustration 2" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why sceptics remain unconvinced
 
 The main doubt is simple: the case lacks hard proof. There is no confirmed physical trace, no clear photograph, no instrument record, no recovered material and no independent official finding that a craft was present. What remains is testimony, officer impressions, media accounts, later books and later claims of additional witnesses. For a normal historical anecdote, that might be enough to say something unusual was reported. For an alien-abduction claim, it falls far short of proof.
@@ -323,7 +319,6 @@ Joe Nickell’s Skeptical Inquirer article is another important sceptical refere
 The polygraph issue is especially easy to overstate. Reports that Hickson, and later Parker, passed lie-detector tests are often presented as if they settle the matter. They do not. A National Academies review explains that [polygraphs]({{ 'polygraphs/' | relative_url }}) infer truthfulness from physiological responses such as heart rate and related measures, but those responses can be affected by fear, anxiety and other states that are not deception. The review found little basis for expecting extremely high accuracy and described the quality of much polygraph-validity evidence as relatively low. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/10420/chapter/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-title">National Academies Read &quot;The Polygraph and Lie Detection&quot; at NAP.edu</span><span class="citation-popover-snippet">National Academies Read &quot;The Polygraph and Lie Detection&quot; at NAP.edu</span></span></span>
 
 That does not mean a passed polygraph is meaningless. It may support the idea that a witness believes what he is saying, or that an examiner did not detect deception under the conditions of that test. It cannot establish that the event described actually happened. In Pascagoula, the distinction is crucial: “not obviously lying” is much weaker than “physically abducted by non-human beings”.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/88uIHInXfFA" title="Beyond Reasonable Doubt: the Pascagoula UFO Case--New Evidence!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=88uIHInXfFA" target="_blank" rel="noopener noreferrer">Beyond Reasonable Doubt: the Pascagoula UFO Case--New Evidence!</a></p><p class="youtube-embed-meta">Channel: Whitley Strieber &middot; Views: 5.9K &middot; Uploaded: October 2023 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=88uIHInXfFA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=88uIHInXfFA">Open on YouTube</a></p></div></div></div>
 
@@ -337,8 +332,7 @@ The city’s later embrace of the incident also affects how readers encounter it
 
 The 2023 death of Calvin Parker further shifted the story from active testimony into historical memory. WLOX described him as known around the world for the Pascagoula abduction tale and noted that both Parker and Hickson had written books about the experience. With both central witnesses now gone, future debate depends on archived recordings, press accounts, books, sceptical analyses and local records rather than new direct questioning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2023/09/02/calvin-parker-who-claimed-he-was-abducted-by-aliens-pascagoula-1973-has-died/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-title">calvin parker who claimed he was abducted by aliens pascagoula 1973 has died</span><span class="citation-popover-snippet">calvin parker who claimed he was abducted by aliens pascagoula 1973 has died</span></span></span>
 
-
-<img src="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b-Illustration-3-light.svg" | relative_url }}" alt="Pascagoula illustration 3" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b-Illustration-3-dark.svg" | relative_url }}" alt="Pascagoula illustration 3" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The fairest reading of Pascagoula
 
 The best evidence in the Pascagoula incident supports a modest conclusion: Hickson and Parker quickly reported a frightening experience, appeared distressed to police, and maintained the broad shape of their story under immediate scrutiny. The hidden recording is the strongest reason not to dismiss the case as a simple joke. The police response and Parker’s later discomfort make the human side of the report unusually strong for a UFO-abduction claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lib.usm.edu/spcol/exhibitions/item_of_the_month/march_2014.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lib.usm.edu">[lib.usm.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lib.usm.edu</span><span class="citation-popover-title">University of Southern Mississippi</span><span class="citation-popover-snippet">University of Southern Mississippi</span></span></span>
@@ -347,9 +341,7 @@ The best doubts are equally important. The case has no decisive physical proof, 
 
 That is why Pascagoula still divides UFO readers. It is too vivid and too well documented as a human episode to be brushed aside as nothing. It is also too dependent on testimony to be treated as proof of extraterrestrial contact. Within Mississippi’s UFO history, its real value is as the state’s clearest example of the gap between witness credibility and evidential certainty: a case where something may well have happened to two frightened men on the Pascagoula River, but the available record still cannot show exactly what that something was.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WJfF0bKUKTU" title="The actual secret recording of Hickson/Parker of the Pascagoula UFO Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WJfF0bKUKTU" target="_blank" rel="noopener noreferrer">The actual secret recording of Hickson/Parker of the Pascagoula UFO Incident</a></p><p class="youtube-embed-meta">Channel: Yaneverknow &middot; Views: 8.3K &middot; Uploaded: September 2016 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WJfF0bKUKTU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WJfF0bKUKTU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -437,7 +429,7 @@ That is why Pascagoula still divides UFO readers. It is too vivid and too well d
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -447,111 +439,36 @@ That is why Pascagoula still divides UFO readers. It is too vivid and too well d
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Out Of This World Embroidered Alien Patch Iron or Sew On Badge applique logo"><img src="https://i.ebayimg.com/images/g/-JgAAOSwMyhkHZzN/s-l225.jpg" alt="Listing image for Ufo Out Of This World Embroidered Alien Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">Ufo Out Of This World Embroidered Alien Patch Iron or Sew On Badge applique logo</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -559,15 +476,15 @@ That is why Pascagoula still divides UFO readers. It is too vivid and too well d
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien"><img src="https://i.ebayimg.com/images/g/m-UAAOSwNd1iVoqP/s-l225.jpg" alt="Listing image for 3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">3&quot; Rendlesham Forest UFO Incident Sublimation Iron / Sew on Patch Badge Alien</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -575,15 +492,15 @@ That is why Pascagoula still divides UFO readers. It is too vivid and too well d
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="https://i.ebayimg.com/images/g/mdEAAOSwa~dkHZjp/s-l225.jpg" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -591,15 +508,15 @@ That is why Pascagoula still divides UFO readers. It is too vivid and too well d
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA"><img src="https://i.ebayimg.com/images/g/DnIAAOSwvt1WSCi5/s-l225.jpg" alt="Listing image for Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">Green Alien Embroidered Iron On Patch Sew On Badge UFO Space Martian Head NASA</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -607,7 +524,7 @@ That is why Pascagoula still divides UFO readers. It is too vivid and too well d
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pascagoula-why-pascagoula-still-divides-ufo-readers-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-pascagoula-still-divides-ufo-readers-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -684,17 +601,31 @@ That is why Pascagoula still divides UFO readers. It is too vivid and too well d
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -707,42 +638,73 @@ That is why Pascagoula still divides UFO readers. It is too vivid and too well d
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -757,12 +719,17 @@ That is why Pascagoula still divides UFO readers. It is too vivid and too well d
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -773,202 +740,202 @@ That is why Pascagoula still divides UFO readers. It is too vivid and too well d
 1. <a id="endnote-1"></a>
    Source: lib.usm.edu  
    Title: University of Southern Mississippi  
-   Link: [https://www.lib.usm.edu/spcol/exhibitions/item_of_the_month/march_2014.html](https://www.lib.usm.edu/spcol/exhibitions/item_of_the_month/march_2014.html)  
+   Link: <a href="https://www.lib.usm.edu/spcol/exhibitions/item_of_the_month/march_2014.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lib.usm.edu/spcol/exhibitions/item_of_the_month/march_2014.html</a>  
 
 2. <a id="endnote-2"></a>
    Source: kval.com  
    Title: man says bizarre 1973 ufo incident turned life upside down  
-   Link: [https://kval.com/news/local/man-says-bizarre-1973-ufo-incident-turned-life-upside-down](https://kval.com/news/local/man-says-bizarre-1973-ufo-incident-turned-life-upside-down)  
+   Link: <a href="https://kval.com/news/local/man-says-bizarre-1973-ufo-incident-turned-life-upside-down" target="_blank" rel="noopener noreferrer nofollow">https://kval.com/news/local/man-says-bizarre-1973-ufo-incident-turned-life-upside-down</a>  
 
 3. <a id="endnote-3"></a>
    Source: wlox.com  
    Title: calvin parker who claimed he was abducted by aliens pascagoula 1973 has died  
-   Link: [https://www.wlox.com/2023/09/02/calvin-parker-who-claimed-he-was-abducted-by-aliens-pascagoula-1973-has-died/](https://www.wlox.com/2023/09/02/calvin-parker-who-claimed-he-was-abducted-by-aliens-pascagoula-1973-has-died/)  
+   Link: <a href="https://www.wlox.com/2023/09/02/calvin-parker-who-claimed-he-was-abducted-by-aliens-pascagoula-1973-has-died/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2023/09/02/calvin-parker-who-claimed-he-was-abducted-by-aliens-pascagoula-1973-has-died/</a>  
 
 4. <a id="endnote-4"></a>
    Source: aquila.usm.edu  
    Title: honors theses  
-   Link: [https://aquila.usm.edu/honors_theses/988/](https://aquila.usm.edu/honors_theses/988/)  
+   Link: <a href="https://aquila.usm.edu/honors_theses/988/" target="_blank" rel="noopener noreferrer nofollow">https://aquila.usm.edu/honors_theses/988/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;“UFO Reports Swamp Mississippi”: Media Coverage of the 1973 Pascagoula&quot; by Jane Fort...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2012/05/famous-alien-abduction-in-pascagoula-reinvestigating-a-cold-case/](https://skepticalinquirer.org/2012/05/famous-alien-abduction-in-pascagoula-reinvestigating-a-cold-case/)  
+   Link: <a href="https://skepticalinquirer.org/2012/05/famous-alien-abduction-in-pascagoula-reinvestigating-a-cold-case/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2012/05/famous-alien-abduction-in-pascagoula-reinvestigating-a-cold-case/</a>  
 
 6. <a id="endnote-6"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-MJ-12.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-MJ-12.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-MJ-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-MJ-12.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: skepticalinquirer.org  
    Title: remembering joe nickell iconic skeptic and investigator  
-   Link: [https://skepticalinquirer.org/exclusive/remembering-joe-nickell-iconic-skeptic-and-investigator/](https://skepticalinquirer.org/exclusive/remembering-joe-nickell-iconic-skeptic-and-investigator/)  
+   Link: <a href="https://skepticalinquirer.org/exclusive/remembering-joe-nickell-iconic-skeptic-and-investigator/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/remembering-joe-nickell-iconic-skeptic-and-investigator/</a>  
 
 8. <a id="endnote-8"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2003/01/amityville-the-horror-of-it-all/](https://skepticalinquirer.org/2003/01/amityville-the-horror-of-it-all/)  
+   Link: <a href="https://skepticalinquirer.org/2003/01/amityville-the-horror-of-it-all/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2003/01/amityville-the-horror-of-it-all/</a>  
 
 9. <a id="endnote-9"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2012/07/enfield-poltergeist/](https://skepticalinquirer.org/2012/07/enfield-poltergeist/)  
+   Link: <a href="https://skepticalinquirer.org/2012/07/enfield-poltergeist/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2012/07/enfield-poltergeist/</a>  
 
 10. <a id="endnote-10"></a>
    Source: skepticalinquirer.org  
    Title: remembering joe nickell 1944 2025  
-   Link: [https://skepticalinquirer.org/exclusive/remembering-joe-nickell-1944-2025/](https://skepticalinquirer.org/exclusive/remembering-joe-nickell-1944-2025/)  
+   Link: <a href="https://skepticalinquirer.org/exclusive/remembering-joe-nickell-1944-2025/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/remembering-joe-nickell-1944-2025/</a>  
 
 11. <a id="endnote-11"></a>
    Source: aquila.usm.edu  
-   Link: [https://aquila.usm.edu/cgi/viewcontent.cgi?article=1985&context=honors_theses](https://aquila.usm.edu/cgi/viewcontent.cgi?article=1985&context=honors_theses)  
+   Link: <a href="https://aquila.usm.edu/cgi/viewcontent.cgi?article=1985&amp;context=honors_theses" target="_blank" rel="noopener noreferrer nofollow">https://aquila.usm.edu/cgi/viewcontent.cgi?article=1985&amp;context=honors_theses</a>  
 
 12. <a id="endnote-12"></a>
    Source: aquila.usm.edu  
    Title: masscomm honors  
-   Link: [https://aquila.usm.edu/masscomm_honors/](https://aquila.usm.edu/masscomm_honors/)  
+   Link: <a href="https://aquila.usm.edu/masscomm_honors/" target="_blank" rel="noopener noreferrer nofollow">https://aquila.usm.edu/masscomm_honors/</a>  
 
 13. <a id="endnote-13"></a>
    Source: polygraph.org  
-   Link: [https://www.polygraph.org/](https://www.polygraph.org/)  
+   Link: <a href="https://www.polygraph.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.polygraph.org/</a>  
 
 14. <a id="endnote-14"></a>
    Source: polygraph.org  
-   Link: [https://www.polygraph.org/polygraph_frequently_asked_que.php](https://www.polygraph.org/polygraph_frequently_asked_que.php)  
+   Link: <a href="https://www.polygraph.org/polygraph_frequently_asked_que.php" target="_blank" rel="noopener noreferrer nofollow">https://www.polygraph.org/polygraph_frequently_asked_que.php</a>  
 
 15. <a id="endnote-15"></a>
    Source: wlox.com  
-   Link: [https://www.wlox.com/2026/05/11/mdeq-issues-water-contact-advisory-comynie-bayou-portion-pascagoula-river/](https://www.wlox.com/2026/05/11/mdeq-issues-water-contact-advisory-comynie-bayou-portion-pascagoula-river/)  
+   Link: <a href="https://www.wlox.com/2026/05/11/mdeq-issues-water-contact-advisory-comynie-bayou-portion-pascagoula-river/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2026/05/11/mdeq-issues-water-contact-advisory-comynie-bayou-portion-pascagoula-river/</a>  
 
 16. <a id="endnote-16"></a>
    Source: wlox.com  
    Title: coast life alleged pascagoula river alien abduction 50 years later  
-   Link: [https://www.wlox.com/2023/10/17/coast-life-alleged-pascagoula-river-alien-abduction-50-years-later/](https://www.wlox.com/2023/10/17/coast-life-alleged-pascagoula-river-alien-abduction-50-years-later/)  
+   Link: <a href="https://www.wlox.com/2023/10/17/coast-life-alleged-pascagoula-river-alien-abduction-50-years-later/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2023/10/17/coast-life-alleged-pascagoula-river-alien-abduction-50-years-later/</a>  
 
 17. <a id="endnote-17"></a>
    Source: wlox.com  
    Title: Crews finishing repair work following sewer main break in Pascagoula  
-   Link: [https://www.wlox.com/video/2026/05/11/crews-finishing-repair-work-following-sewer-main-break-pascagoula/](https://www.wlox.com/video/2026/05/11/crews-finishing-repair-work-following-sewer-main-break-pascagoula/)  
+   Link: <a href="https://www.wlox.com/video/2026/05/11/crews-finishing-repair-work-following-sewer-main-break-pascagoula/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/video/2026/05/11/crews-finishing-repair-work-following-sewer-main-break-pascagoula/</a>  
 
 18. <a id="endnote-18"></a>
    Source: wlox.com  
    Title: Pascagoula residents may hear loud noises from military training exercises  
-   Link: [https://www.wlox.com/2026/05/22/pascagoula-residents-may-hear-loud-noises-military-training-exercises/](https://www.wlox.com/2026/05/22/pascagoula-residents-may-hear-loud-noises-military-training-exercises/)  
+   Link: <a href="https://www.wlox.com/2026/05/22/pascagoula-residents-may-hear-loud-noises-military-training-exercises/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2026/05/22/pascagoula-residents-may-hear-loud-noises-military-training-exercises/</a>  
 
 19. <a id="endnote-19"></a>
    Source: wlox.com  
    Title: historical marker unveiled honoring possible alien abduction pascagoula  
-   Link: [https://www.wlox.com/2019/06/23/historical-marker-unveiled-honoring-possible-alien-abduction-pascagoula/](https://www.wlox.com/2019/06/23/historical-marker-unveiled-honoring-possible-alien-abduction-pascagoula/)  
+   Link: <a href="https://www.wlox.com/2019/06/23/historical-marker-unveiled-honoring-possible-alien-abduction-pascagoula/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2019/06/23/historical-marker-unveiled-honoring-possible-alien-abduction-pascagoula/</a>  
 
 20. <a id="endnote-20"></a>
    Source: nationalacademies.org  
    Title: National Academies Read "The Polygraph and Lie Detection" at NAP.edu  
-   Link: [https://www.nationalacademies.org/read/10420/chapter/2](https://www.nationalacademies.org/read/10420/chapter/2)  
+   Link: <a href="https://www.nationalacademies.org/read/10420/chapter/2" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/10420/chapter/2</a>  
 
 21. <a id="endnote-21"></a>
    Source: washingtonpost.com  
    Title: i floated inside man returns site ufo abduction it gets historical marker  
-   Link: [https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/](https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/)  
+   Link: <a href="https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/</a>  
 
 22. <a id="endnote-22"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/topics/cognitive-neuroscience/polygraph](https://www.apa.org/topics/cognitive-neuroscience/polygraph)  
+   Link: <a href="https://www.apa.org/topics/cognitive-neuroscience/polygraph" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/cognitive-neuroscience/polygraph</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Alien abduction  
-   Link: [https://en.wikipedia.org/wiki/Alien_abduction](https://en.wikipedia.org/wiki/Alien_abduction)  
+   Link: <a href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_abduction</a>  
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Pascagoula incident  
-   Link: [https://en.wikipedia.org/wiki/Pascagoula_incident](https://en.wikipedia.org/wiki/Pascagoula_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pascagoula_incident</a>  
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Joe Nickell  
-   Link: [https://en.wikipedia.org/wiki/Joe_Nickell](https://en.wikipedia.org/wiki/Joe_Nickell)  
+   Link: <a href="https://en.wikipedia.org/wiki/Joe_Nickell" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Joe_Nickell</a>  
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Polygraph](https://en.wikipedia.org/wiki/Polygraph)  
+   Link: <a href="https://en.wikipedia.org/wiki/Polygraph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Polygraph</a>  
 
 27. <a id="endnote-27"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/publications/10420](https://www.nationalacademies.org/publications/10420)  
+   Link: <a href="https://www.nationalacademies.org/publications/10420" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/publications/10420</a>  
 
 28. <a id="endnote-28"></a>
    Source: nationalacademies.org  
    Title: the polygraph and lie detection  
-   Link: [https://www.nationalacademies.org/news/the-polygraph-and-lie-detection](https://www.nationalacademies.org/news/the-polygraph-and-lie-detection)  
+   Link: <a href="https://www.nationalacademies.org/news/the-polygraph-and-lie-detection" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news/the-polygraph-and-lie-detection</a>  
 
 29. <a id="endnote-29"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/10420/chapter/10](https://www.nationalacademies.org/read/10420/chapter/10)  
+   Link: <a href="https://www.nationalacademies.org/read/10420/chapter/10" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/10420/chapter/10</a>  
 
 30. <a id="endnote-30"></a>
    Source: libguides.hindscc.edu  
    Title: pascagoula abduction  
-   Link: [https://libguides.hindscc.edu/paranormalms/pascagoula_abduction](https://libguides.hindscc.edu/paranormalms/pascagoula_abduction)  
+   Link: <a href="https://libguides.hindscc.edu/paranormalms/pascagoula_abduction" target="_blank" rel="noopener noreferrer nofollow">https://libguides.hindscc.edu/paranormalms/pascagoula_abduction</a>  
 
 31. <a id="endnote-31"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/PASCAGOULA-CLOSEST-ENCOUNTER-MY-STORY-ebook/dp/B07HKMYJJK](https://www.amazon.co.uk/PASCAGOULA-CLOSEST-ENCOUNTER-MY-STORY-ebook/dp/B07HKMYJJK)  
+   Link: <a href="https://www.amazon.co.uk/PASCAGOULA-CLOSEST-ENCOUNTER-MY-STORY-ebook/dp/B07HKMYJJK" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/PASCAGOULA-CLOSEST-ENCOUNTER-MY-STORY-ebook/dp/B07HKMYJJK</a>  
 
 32. <a id="endnote-32"></a>
    Source: de173.com  
    Title: Calvin Parker  
-   Link: [https://de173.com/calvin-parker-philip-klass-file/](https://de173.com/calvin-parker-philip-klass-file/)  
+   Link: <a href="https://de173.com/calvin-parker-philip-klass-file/" target="_blank" rel="noopener noreferrer nofollow">https://de173.com/calvin-parker-philip-klass-file/</a>  
 
 33. <a id="endnote-33"></a>
    Source: countryroadsmagazine.com  
    Title: the pascagoula abduction  
-   Link: [https://countryroadsmagazine.com/art-and-culture/people-places/the-pascagoula-abduction/](https://countryroadsmagazine.com/art-and-culture/people-places/the-pascagoula-abduction/)  
+   Link: <a href="https://countryroadsmagazine.com/art-and-culture/people-places/the-pascagoula-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://countryroadsmagazine.com/art-and-culture/people-places/the-pascagoula-abduction/</a>  
 
 ### Additional References
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=QdqrpzsVzbs](https://www.youtube.com/watch?v=QdqrpzsVzbs)  
+   Link: <a href="https://www.youtube.com/watch?v=QdqrpzsVzbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QdqrpzsVzbs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond Reasonable Doubt: the Pascagoula UFO Case--New Evidence...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: Beyond Reasonable Doubt: The Pascagoula Alien Abduction  
-   Link: [https://www.youtube.com/watch?v=YOQ6k4WuhH4](https://www.youtube.com/watch?v=YOQ6k4WuhH4)  
+   Link: <a href="https://www.youtube.com/watch?v=YOQ6k4WuhH4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YOQ6k4WuhH4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pascagoula UFO incident interview evidence doubt Beyond Reasonable Doubt: the Pascagoula UFO Case--New Evidence...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=S8v2WKsf1KA](https://www.youtube.com/watch?v=S8v2WKsf1KA)  
+   Link: <a href="https://www.youtube.com/watch?v=S8v2WKsf1KA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S8v2WKsf1KA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IN CONTACT ~ rare documentary with Calvin Parker and Charles Hickson on the Pascagoula UFO incident...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
    Title: Beyond Reasonable Doubt: the Pascagoula UFO Case--New Evidence!  
-   Link: [https://www.youtube.com/watch?v=88uIHInXfFA](https://www.youtube.com/watch?v=88uIHInXfFA)  
+   Link: <a href="https://www.youtube.com/watch?v=88uIHInXfFA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=88uIHInXfFA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The actual secret recording of Hickson/Parker of the Pascagoula UFO Incident...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: youtube.com  
    Title: The actual secret recording of Hickson/Parker of the Pascagoula UFO Incident  
-   Link: [https://www.youtube.com/watch?v=WJfF0bKUKTU](https://www.youtube.com/watch?v=WJfF0bKUKTU)  
+   Link: <a href="https://www.youtube.com/watch?v=WJfF0bKUKTU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WJfF0bKUKTU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond Reasonable Doubt: The Pascagoula Alien Abduction...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena](https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena)  
+   Link: <a href="https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341443875_Aliens_and_Unidentified_Aerial_Phenomena</a>  
 
 40. <a id="endnote-40"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography](https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography)  
+   Link: <a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
 
 41. <a id="endnote-41"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SuperTalkNews/posts/50th-anniversary-event-to-be-held-in-honor-of-pascagoula-alien-abduction/922835979275777/](https://www.facebook.com/SuperTalkNews/posts/50th-anniversary-event-to-be-held-in-honor-of-pascagoula-alien-abduction/922835979275777/)  
+   Link: <a href="https://www.facebook.com/SuperTalkNews/posts/50th-anniversary-event-to-be-held-in-honor-of-pascagoula-alien-abduction/922835979275777/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SuperTalkNews/posts/50th-anniversary-event-to-be-held-in-honor-of-pascagoula-alien-abduction/922835979275777/</a>  
 
 42. <a id="endnote-42"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40nikyoung/behind-the-pascagoula-abduction-the-most-famous-case-of-alien-abduction-aa341c52eee4](https://medium.com/%40nikyoung/behind-the-pascagoula-abduction-the-most-famous-case-of-alien-abduction-aa341c52eee4)  
+   Link: <a href="https://medium.com/%40nikyoung/behind-the-pascagoula-abduction-the-most-famous-case-of-alien-abduction-aa341c52eee4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nikyoung/behind-the-pascagoula-abduction-the-most-famous-case-of-alien-abduction-aa341c52eee4</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PascagoulaCity/posts/the-city-of-pascagoula-is-saddened-by-the-recent-passing-of-calvin-parker-one-of/710688497764233/](https://www.facebook.com/PascagoulaCity/posts/the-city-of-pascagoula-is-saddened-by-the-recent-passing-of-calvin-parker-one-of/710688497764233/)  
+   Link: <a href="https://www.facebook.com/PascagoulaCity/posts/the-city-of-pascagoula-is-saddened-by-the-recent-passing-of-calvin-parker-one-of/710688497764233/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PascagoulaCity/posts/the-city-of-pascagoula-is-saddened-by-the-recent-passing-of-calvin-parker-one-of/710688497764233/</a>

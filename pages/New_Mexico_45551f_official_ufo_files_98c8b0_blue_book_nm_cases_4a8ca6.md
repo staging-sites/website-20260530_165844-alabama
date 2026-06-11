@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /official-files-825fe7/
 nav_short_title: Blue Book
 title: What Blue Book Really Said About New Mexico
-title_full: What Blue Book Really Said About New Mexico | Official Files
+title_full: What Blue Book Really Said About New Mexico
 display_title_short: Blue Book
 display_title: Blue Book
 heading_title: What Blue Book Really Said About New Mexico
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:53:27'
-parent_title: What the Official Files Actually Show | New Mexico UFOs
+parent_title: What the Official Files Actually Show
 parent_permalink: /official-files-825fe7/
 parent_nav_short_title: Official Files
 parent_heading_title: What the Official Files Actually Show
@@ -250,17 +250,16 @@ image: /assets/images/New_Mexico_45551f_official_ufo_files_98c8b0_blue_book_nm_c
 
 ## Introduction
 
-Project Blue Book’s [New Mexico]({{ 'why-new-mexico-became-ufo-country/' | relative_url }}) files are often cited as evidence that the US Air Force secretly confirmed unexplained craft. The actual records tell a more complicated story. New Mexico generated some of the most discussed UFO reports in the United States because of its mixture of military testing ranges, rocket programmes, remote desert landscapes and active aviation corridors. Some of those reports entered the Air Force’s official investigation system and a small number remained classified as “unidentified”. That designation mattered, but not in the way later popular culture often suggested.
+Project Blue Book’s New Mexico files are often cited as evidence that the US Air Force secretly confirmed unexplained craft. The actual records tell a more complicated story. New Mexico generated some of the most discussed UFO reports in the United States because of its mixture of military testing ranges, rocket programmes, remote desert landscapes and active aviation corridors. Some of those reports entered the Air Force’s official investigation system and a small number remained classified as “unidentified”. That designation mattered, but not in the way later popular culture often suggested.
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0_blue_book_nm_cases_4a8ca6-Illustration-1-light.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0_blue_book_nm_cases_4a8ca6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0_blue_book_nm_cases_4a8ca6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0_blue_book_nm_cases_4a8ca6-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0_blue_book_nm_cases_4a8ca6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0_blue_book_nm_cases_4a8ca6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Blue Book’s New Mexico cases are important because they show how the Air Force handled reports it could not confidently explain. The surviving files reveal witness interviews, field investigations, competing theories and administrative uncertainty. They clarify what investigators actually knew. They do not settle whether any sighting involved extraordinary technology, and they do not show that “unidentified” meant alien spacecraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span>
 
 ## Which New Mexico cases reached Air Force investigators
 
 Project Blue Book collected reports from across the United States between 1947 and 1969. New Mexico appeared repeatedly in the archive because many sightings occurred near military facilities, missile ranges or aviation routes. Some reports were quickly matched to aircraft, balloons, astronomical objects or other conventional explanations. Others remained unresolved because investigators lacked enough information for a firm conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span>
 
-The most important New Mexico case in the Blue Book record is the April 1964 [Socorro]({{ 'socorro/' | relative_url }}) incident involving police officer Lonnie Zamora. While pursuing a speeding vehicle near Socorro, Zamora reported hearing a loud roar and seeing what he initially believed might be an overturned vehicle. He later described an unusual egg-shaped object and reported seeing figures near it before the object departed. The case entered official Air Force files and was investigated rapidly, becoming one of the most closely examined Blue Book incidents. The surviving records show that it was treated as a genuine investigation rather than a rumour collected years later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-Socorro-NewMexico-04-24-1964.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">The Black Vault SOCORRO NM</span><span class="citation-popover-snippet">The Black VaultSOCORRO NM - 24 Apr 196420 Aug 2023 —... unidentified ob-. ~ect was in New Mttx·l. 1co near GaLllu:o by Mftral... One of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fold3.com/document/6977589/socorro-new-mexico-8766-page-1-us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[2Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-snippet">Fold3in US, Project Blue Book - UFO Investigations, 1947-196926 Feb 2007 — Records and case files relating to investigations of sightings...</span></span></span>
+The most important New Mexico case in the Blue Book record is the April 1964 [Socorro]({{ 'socorro/' | relative_url }}) incident involving police officer Lonnie Zamora. While pursuing a speeding vehicle near Socorro, Zamora reported hearing a loud roar and seeing what he initially believed might be an overturned vehicle. He later described an unusual egg-shaped object and reported seeing figures near it before the object departed. The case entered official Air Force files and was investigated rapidly, becoming one of the most closely examined Blue Book incidents. The surviving records show that it was treated as a genuine investigation rather than a rumour collected years later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-Socorro-NewMexico-04-24-1964.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">The Black Vault SOCORRO NM</span><span class="citation-popover-snippet">The Black VaultSOCORRO NM - 24 Apr 196420 Aug 2023 —... unidentified ob-. ~ect was in New Mttx·l. 1co near GaLllu:o by Mftral... One of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fold3.com/document/6977589/socorro-new-mexico-8766-page-1-us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[2Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-snippet">in US, Project Blue Book - UFO Investigations, 1947-196926 Feb 2007 — Records and case files relating to investigations of sightings...</span></span></span>
 
 Socorro stood out for several reasons:
 
@@ -268,7 +267,6 @@ Socorro stood out for several reasons:
 * The report was made immediately rather than years later.
 * Investigators examined the location and recorded alleged physical traces.
 * The case attracted attention from senior Blue Book personnel rather than remaining a routine local report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-Socorro-NewMexico-04-24-1964.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">The Black Vault SOCORRO NM</span><span class="citation-popover-snippet">The Black VaultSOCORRO NM - 24 Apr 196420 Aug 2023 —... unidentified ob-. ~ect was in New Mttx·l. 1co near GaLllu:o by Mftral... One of...</span></span></span> HowStuffWorks Other New Mexico reports also entered Blue Book files <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</span></span></span>, including sightings near military installations and reports of lights or objects observed over sparsely populated areas. However, most never achieved the historical prominence of Socorro because they lacked close-range observation, multiple investigative leads or substantial surviving documentation. The archive contains numerous brief reports that remained unresolved largely because there was too little information to test competing explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part5/302532332.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprojectbluebookarchive.org">[theprojectbluebookarchive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprojectbluebookarchive.org</span><span class="citation-popover-snippet">DATE - The Project Blue Book ArchiveA 20-year-old Edgewood youth says he fired six shot: at one of New Mexico&#x27;s unidentified flying objec...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NhP7lbilXZg" title="The Lonnie Zamora UFO Incident: The Case Project Blue Book Never Debunked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NhP7lbilXZg" target="_blank" rel="noopener noreferrer">The Lonnie Zamora UFO Incident: The Case Project Blue Book Never Debunked</a></p><p class="youtube-embed-meta">Channel: Quiet Mysteries &middot; Views: 630 &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NhP7lbilXZg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NhP7lbilXZg">Open on YouTube</a></p></div></div></div>
 
@@ -279,7 +277,6 @@ One of the biggest misunderstandings in UFO history is the meaning of Blue Book�
 Across the entire programme, Blue Book recorded 12,618 reported sightings. Of those, 701 remained listed as unidentified when the project ended. The Air Force simultaneously maintained that none of its investigations produced evidence of extraterrestrial vehicles or technology beyond known scientific principles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
 
 Several different situations could lead to an unidentified classification:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -293,14 +290,12 @@ Several different situations could lead to an unidentified classification:
 
 This distinction matters when reading New Mexico files. A Blue Book label of “unknown” or “unidentified” reflected investigative limits rather than a hidden conclusion. In practical terms, it often meant the case could not be closed confidently in either direction.
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0_blue_book_nm_cases_4a8ca6-Illustration-2-light.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0_blue_book_nm_cases_4a8ca6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0_blue_book_nm_cases_4a8ca6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0_blue_book_nm_cases_4a8ca6-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0_blue_book_nm_cases_4a8ca6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0_blue_book_nm_cases_4a8ca6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Socorro case became a benchmark
 
 The Socorro incident became one of the most cited Blue Book cases because it combined several features rarely found together. Zamora was regarded as a credible witness by both supporters and sceptics. Investigators found ground markings and reported signs of disturbance at the scene. The event was also reported immediately, reducing some of the problems that affect long-delayed recollections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-Socorro-NewMexico-04-24-1964.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">The Black Vault SOCORRO NM</span><span class="citation-popover-snippet">The Black VaultSOCORRO NM - 24 Apr 196420 Aug 2023 —... unidentified ob-. ~ect was in New Mttx·l. 1co near GaLllu:o by Mftral... One of...</span></span></span>
 
 Even decades later, the case continued to attract attention because it sat in an awkward middle ground. The Air Force did not produce a universally accepted explanation, yet the evidence also fell well short of proving an extraordinary craft. That combination made Socorro unusually durable in UFO literature. HowStuffWorks Supporters of the case often emphasise: <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/socorro-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[science.howstuffworks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">socorro ufo</span><span class="citation-popover-snippet">1964 Socorro UFO Encounter27 Feb 2024 — Officer Lonnie Zamora was chasing a speeder south of Socorro, New Mexico, late on the afternoon o...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -320,7 +315,6 @@ Sceptics focus on different issues:
 
 The debate has endured largely because neither side produced a decisive resolution. Blue Book's files preserved the uncertainty rather than eliminating it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IHWXhL6g9lU" title="UFO Evidence No One Can Explain | Close Encounters 110" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IHWXhL6g9lU" target="_blank" rel="noopener noreferrer">UFO Evidence No One Can Explain | Close Encounters 110</a></p><p class="youtube-embed-meta">Channel: SpaceRip &middot; Views: 63.3K &middot; Uploaded: December 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IHWXhL6g9lU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IHWXhL6g9lU">Open on YouTube</a></p></div></div></div>
 
 ## Why official files clarify but do not settle sightings
@@ -331,8 +325,7 @@ At the same time, official records have important limits. Investigators could on
 
 New Mexico demonstrates this tension particularly well. The state contains some of the most famous UFO stories in American history, yet the official record often looks more cautious than later retellings. Blue Book investigators sometimes found conventional explanations. Sometimes they did not. What survives in the archive is usually evidence of uncertainty rather than certainty.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WDKUH1QIhxQ" title="The one case FBI and the Air Force couldn&#x27;t solve" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WDKUH1QIhxQ" target="_blank" rel="noopener noreferrer">The one case FBI and the Air Force couldn&#x27;t solve</a></p><p class="youtube-embed-meta">Channel: Motech &middot; Views: 17.9K &middot; Uploaded: May 2025 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WDKUH1QIhxQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WDKUH1QIhxQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V3sp5hVIHcw" title="The Flying Green Fireballs of 1948" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V3sp5hVIHcw" target="_blank" rel="noopener noreferrer">The Flying Green Fireballs of 1948</a></p><p class="youtube-embed-meta">Channel: Roberto Magnifico &middot; Views: 1.5K &middot; Uploaded: September 2018 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V3sp5hVIHcw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V3sp5hVIHcw">Open on YouTube</a></p></div></div></div>
 
 ## What the New Mexico unidentified cases really show
 
@@ -340,8 +333,7 @@ Viewed as a whole, Blue Book’s New Mexico files are less a catalogue of proven
 
 The Socorro incident remains the clearest example. It survived official scrutiny without receiving a widely accepted conventional explanation, which is why it continues to occupy a special place in New Mexico UFO history. Yet the same files that preserve its mystery also illustrate the limits of the evidence. Blue Book documented a puzzling event, not a confirmed alien encounter. That distinction remains the most important lesson from New Mexico’s unidentified cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-Socorro-NewMexico-04-24-1964.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">The Black Vault SOCORRO NM</span><span class="citation-popover-snippet">The Black VaultSOCORRO NM - 24 Apr 196420 Aug 2023 —... unidentified ob-. ~ect was in New Mttx·l. 1co near GaLllu:o by Mftral... One of...</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0_blue_book_nm_cases_4a8ca6-Illustration-3-light.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0_blue_book_nm_cases_4a8ca6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0_blue_book_nm_cases_4a8ca6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0_blue_book_nm_cases_4a8ca6-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0_blue_book_nm_cases_4a8ca6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0_blue_book_nm_cases_4a8ca6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -765,143 +757,143 @@ The Socorro incident remains the clearest example. It survived official scrutiny
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: fold3.com  
-   Link: [https://www.fold3.com/document/6977589/socorro-new-mexico-8766-page-1-us-project-blue-book-ufo-investigations-1947-1969](https://www.fold3.com/document/6977589/socorro-new-mexico-8766-page-1-us-project-blue-book-ufo-investigations-1947-1969)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fold3in US, Project Blue Book - UFO Investigations, 1947-196926 Feb 2007 — Records and case files relating to investigations of sightings...</p></details>
+   Link: <a href="https://www.fold3.com/document/6977589/socorro-new-mexico-8766-page-1-us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/6977589/socorro-new-mexico-8766-page-1-us-project-blue-book-ufo-investigations-1947-1969</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>in US, Project Blue Book - UFO Investigations, 1947-196926 Feb 2007 — Records and case files relating to investigations of sightings...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Lonnie_Zamora_incident](https://en.wikipedia.org/wiki/Lonnie_Zamora_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lonnie_Zamora_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lonnie_Zamora_incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lonnie Zamora incidentThe Lonnie Zamora incident was an alleged UFO sighting that occurred on April 24, 1964 near Socorro, New Mexico whe...</p></details>
    Published: April 24, 1964  
 
 4. <a id="endnote-4"></a>
    Source: science.howstuffworks.com  
    Title: socorro ufo  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/socorro-ufo.htm](https://science.howstuffworks.com/space/aliens-ufos/socorro-ufo.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/socorro-ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/socorro-ufo.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1964 Socorro UFO Encounter27 Feb 2024 — Officer Lonnie Zamora was chasing a speeder south of Socorro, New Mexico, late on the afternoon o...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarfbiThe following data were obtained from Officer. Lonnie Zamora, Police Department, Socorro, New Mexico, the night...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: theprojectbluebookarchive.org  
-   Link: [https://www.theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part5/302532332.pdf](https://www.theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part5/302532332.pdf)  
+   Link: <a href="https://www.theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part5/302532332.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part5/302532332.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DATE - The Project Blue Book ArchiveA 20-year-old Edgewood youth says he fired six shot: at one of New Mexico&#x27;s unidentified flying objec...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesDo Records Show Proof of UFOs?9 Feb 2018 — According to a U.S. Air Force Fact Sheet, a total of 12,618 sightings were re...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: skepticalinquirer.org  
    Title: Allen.Read more  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2010/03/p25.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2010/03/p25.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2010/03/p25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2010/03/p25.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Famous Socorro &#x27;UFO Landing&#x27; a Student Prank?The famous Socorro “UFO landing” case of April 24, 1964, has been proclaimed by leading UFO...</p></details>
    Published: April 24, 1964  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: documents2.theblackvault.com  
    Title: The Black Vault SOCORRO NM  
-   Link: [https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-Socorro-NewMexico-04-24-1964.pdf](https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-Socorro-NewMexico-04-24-1964.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-Socorro-NewMexico-04-24-1964.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-Socorro-NewMexico-04-24-1964.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultSOCORRO NM - 24 Apr 196420 Aug 2023 —... unidentified ob-. ~ect was in New Mttx·l. 1co near GaLllu:o by Mftral... One of...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: unsolved.com  
    Title: Socorro UFO  
-   Link: [https://unsolved.com/gallery/socorro-ufo/](https://unsolved.com/gallery/socorro-ufo/)  
+   Link: <a href="https://unsolved.com/gallery/socorro-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/socorro-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesOn April 24, 1964, in the small town of Socorro, New Mexico, Police Officer Lonnie Zamora spotted a local teenager spee...</p></details>
    Published: April 24, 1964  
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/13bn1x2/important_this_might_explain_the_writing_on_the/](https://www.reddit.com/r/aliens/comments/13bn1x2/important_this_might_explain_the_writing_on_the/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/13bn1x2/important_this_might_explain_the_writing_on_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/13bn1x2/important_this_might_explain_the_writing_on_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This Might Explain The Writing On The &#x27;Egg&#x27;...[1964] The Lonnie Zamora incident. A police officer claimed to have observed a silvery egg...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: [https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf](https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf)  
+   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force: &quot;The [Roswell](&amp;#123;&amp;#123; &#x27;roswell/&#x27; | relative_url &amp;#125;&amp;#125;) Report: Case Closed&quot;It appears that UFO proponents have failed to establish the accurate dates for these &quot;alien&quot;...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: [https://origins.osu.edu/read/air-force-investigation-ufos](https://origins.osu.edu/read/air-force-investigation-ufos)  
+   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Investigation into UFOs | Origins22 Dec 2024 — The procedures of Project Blue Book involved the collection of much more technic...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1aq0qd1/a_theory_based_on_the_lonnie_zamora_ufo_incident/](https://www.reddit.com/r/UFOs/comments/1aq0qd1/a_theory_based_on_the_lonnie_zamora_ufo_incident/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1aq0qd1/a_theory_based_on_the_lonnie_zamora_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aq0qd1/a_theory_based_on_the_lonnie_zamora_ufo_incident/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Theory Based on the Lonnie Zamora UFO IncidentOne of the most intriguing cases of a UFO sighting with physical trace evidence is that o...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: socorronm.org  
-   Link: [https://socorronm.org/location-activity/socorro-landing-a-ufo-story/](https://socorronm.org/location-activity/socorro-landing-a-ufo-story/)  
+   Link: <a href="https://socorronm.org/location-activity/socorro-landing-a-ufo-story/" target="_blank" rel="noopener noreferrer nofollow">https://socorronm.org/location-activity/socorro-landing-a-ufo-story/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Socorro Landing: A UFO StoryOne of the best documented UFO sightings in US history was witnessed by City of Socorro Police Officer Lonnie...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1061947753884363/posts/7193435404068870/](https://www.facebook.com/groups/1061947753884363/posts/7193435404068870/)  
+   Link: <a href="https://www.facebook.com/groups/1061947753884363/posts/7193435404068870/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1061947753884363/posts/7193435404068870/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Socorro New Mexico UFO Sighting MonumentSocorro Spaceship erected to commemorate Officer Lonnie Zamora UFO Sighting which occurred on Apr...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OriginsOSU/posts/on-december-17th-1969-the-united-states-air-force-wrapped-up-their-investigation/1764223284896438/](https://www.facebook.com/OriginsOSU/posts/on-december-17th-1969-the-united-states-air-force-wrapped-up-their-investigation/1764223284896438/)  
+   Link: <a href="https://www.facebook.com/OriginsOSU/posts/on-december-17th-1969-the-united-states-air-force-wrapped-up-their-investigation/1764223284896438/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OriginsOSU/posts/on-december-17th-1969-the-united-states-air-force-wrapped-up-their-investigation/1764223284896438/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Investigation into UFOsProject Blue Book investigated approximately 12,618 UFO sightings, of which 701 retained their statu...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/nonmurdermysteries/comments/mzmi5u/what_did_lonnie_zamora_see_in_the_new_mexico/](https://www.reddit.com/r/nonmurdermysteries/comments/mzmi5u/what_did_lonnie_zamora_see_in_the_new_mexico/)  
+   Link: <a href="https://www.reddit.com/r/nonmurdermysteries/comments/mzmi5u/what_did_lonnie_zamora_see_in_the_new_mexico/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nonmurdermysteries/comments/mzmi5u/what_did_lonnie_zamora_see_in_the_new_mexico/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 24, 1964 Socorro, New Mexico police officer Lonnie Zamora was pursuing a speeding vehicle when he heard a...Read more...</p></details>
    Published: April 24, 1964  
 
 21. <a id="endnote-21"></a>
    Source: blog.myheritage.com  
    Title: chronicles of the unexplained ufo sighting reports in 1960s news  
-   Link: [https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/](https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/)  
+   Link: <a href="https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/" target="_blank" rel="noopener noreferrer nofollow">https://blog.myheritage.com/2023/08/chronicles-of-the-unexplained-ufo-sighting-reports-in-1960s-news/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of the Unexplained: UFO Sighting Reports in...9 Aug 2023 — The Reading Eagle from Reading, PA, ran a story in July 1964 about “Project B...</p></details>
    Published: July 1964  
 
 22. <a id="endnote-22"></a>
    Source: abebooks.co.uk  
-   Link: [https://www.abebooks.co.uk/9781513647241/UFO-Landing-Socorro-Zamora-Incident-1513647245/plp](https://www.abebooks.co.uk/9781513647241/UFO-Landing-Socorro-Zamora-Incident-1513647245/plp)  
+   Link: <a href="https://www.abebooks.co.uk/9781513647241/UFO-Landing-Socorro-Zamora-Incident-1513647245/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9781513647241/UFO-Landing-Socorro-Zamora-Incident-1513647245/plp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gil Carlson. Published by Blue Planet Project, Hampton, Virginia, USA, 2019. ISBN 10...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ufofiles.app  
    Title: 75 /100. Alamogordo New Mexico Project Blue Book film  
-   Link: [https://ufofiles.app/case-files/lonnie-zamora-socorro-incident/](https://ufofiles.app/case-files/lonnie-zamora-socorro-incident/)  
+   Link: <a href="https://ufofiles.app/case-files/lonnie-zamora-socorro-incident/" target="_blank" rel="noopener noreferrer nofollow">https://ufofiles.app/case-files/lonnie-zamora-socorro-incident/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lonnie Zamora Socorro Incident | UFOFiles.app - UFO File Archive...Police officer Lonnie Zamora reported seeing an egg-shaped craft and...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: cia.gov  
    Title: how to investigate a flying saucer  
-   Link: [https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/](https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/)  
+   Link: <a href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Jan 2016 — Project BLUE BOOK was based at Wright-Patterson Air Force Base near Dayton, Ohio. Between 1947 and 1969, the Air Force reco...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/rtjd8y/documented_proof_of_the_air_force_project_blue/](https://www.reddit.com/r/UFOs/comments/rtjd8y/documented_proof_of_the_air_force_project_blue/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/rtjd8y/documented_proof_of_the_air_force_project_blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rtjd8y/documented_proof_of_the_air_force_project_blue/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cident. The 4 landings marks, burned areas, and small...Read more...</p></details>

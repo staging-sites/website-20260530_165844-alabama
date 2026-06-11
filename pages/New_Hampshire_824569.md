@@ -262,7 +262,7 @@ sibling_links:
   short_title: Michigan UFOs
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Alabama_d1f92d
   title: Alabama UFOs
@@ -277,9 +277,9 @@ sibling_links:
   permalink: /what-keeps-tennessees-ufo-stories-alive/
   short_title: Tennessee UFOs
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Idaho_18334c
   title: Idaho UFOs
   permalink: /what-makes-idaho-a-key-ufo-hotspot/
@@ -289,9 +289,9 @@ sibling_links:
   permalink: /what-makes-indianas-ufo-history-unique/
   short_title: Indiana UFOs
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: South_Carolina_11d001
   title: South Carolina UFOs
   permalink: /what-makes-south-carolinas-ufo-story/
@@ -481,37 +481,33 @@ image: /assets/images/New_Hampshire_824569-overview-social.jpg
 
 New Hampshire’s UFO reputation is not built on a high volume of spectacular evidence alone. It rests mainly on the way a small number of cases became nationally legible. The Hill case connected a late-night drive through the White Mountains with hypnosis, “[missing time]({{ 'missing-time-25b50b/' | relative_url }})”, civil-rights-era biography and later popular culture. The [Exeter case]({{ 'exeter-case/' | relative_url }}) connected a frightened young witness, local police officers, Pease Air Force Base, Project Blue Book and a public argument over official explanations. Together, they give the state a stronger historical UFO identity than many places with more routine sighting reports.
 
-
 <img src="{{ "/assets/images/New_Hampshire_824569-overview.webp" | relative_url }}" alt="Overview image for Why New Hampshire Became UFO Country" loading="eager" decoding="sync" fetchpriority="high">
 The state also has a useful mix of settings for UFO interpretation. The White Mountains offer dark roads, sparse night-time traffic and dramatic skies; the Seacoast has airports, military aviation, the former Pease Air Force Base and present-day Air National Guard operations; and towns such as Exeter, Portsmouth, Lincoln and Manchester have supplied both local memory and later media attention. Pease remains relevant to the state’s aviation context: the 157th Air Refueling Wing describes Pease Air National Guard Base as the home of the KC-46A Pegasus and New Hampshire’s only Air National Guard base, with a two-mile runway and a substantial air-refuelling mission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.157arw.ang.af.mil/About-Us/Fact-Sheets/Display/Article/2752575/157th-air-refueling-wing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 157arw.ang.af.mil">[157arw.ang.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">157arw.ang.af.mil</span><span class="citation-popover-title">157th air refueling wing</span><span class="citation-popover-snippet">&gt; 157th Air Refueling Wing &gt; Display...</span></span></span>
 
 At the same time, the state’s fame should not be confused with proof. The National Archives notes that Project Blue Book records are declassified and that the programme closed in 1969; it also states that the Archives has no information on sightings after that date. That matters because many modern retellings blur together official files, folklore, later UFO literature and unsupported claims. A careful New Hampshire UFO history has to keep those categories separate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k3FpyY0wKhs" title="Release of UFO files sparks discussion in NH" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k3FpyY0wKhs" target="_blank" rel="noopener noreferrer">Release of UFO files sparks discussion in NH</a></p><p class="youtube-embed-meta">Channel: WMUR-TV &middot; Views: 6.9K &middot; Uploaded: May 2026 &middot; Length: 1 minute 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k3FpyY0wKhs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k3FpyY0wKhs">Open on YouTube</a></p></div></div></div>
 
 ## The Hill encounter: influential, personal and hard to verify
 
-Betty and Barney Hill lived in Portsmouth, New Hampshire. Betty was a social worker and University of New Hampshire graduate; Barney was a postal worker. The University of New Hampshire’s guide to the Betty and Barney Hill Papers says the couple were “catapulted into the international spotlight” after claiming that they were abducted in September 1961 in the White Mountains. The same archive records that the collection includes correspondence, journals, essays, manuscripts, newspaper clippings, photographs, slides and DVDs relating to their UFO experiences and interests, alongside some material on their NAACP involvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library | University of New Hampshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-title">betty barney hill papers 1961 2006</span><span class="citation-popover-snippet">betty barney hill papers 1961 2006</span></span></span>
+Betty and Barney Hill lived in Portsmouth, New Hampshire. Betty was a social worker and University of New Hampshire graduate; Barney was a postal worker. The University of New Hampshire’s guide to the Betty and Barney Hill Papers says the couple were “catapulted into the international spotlight” after claiming that they were abducted in September 1961 in the White Mountains. The same archive records that the collection includes correspondence, journals, essays, manuscripts, newspaper clippings, photographs, slides and DVDs relating to their UFO experiences and interests, alongside some material on their NAACP involvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library &#124; University of New Hampshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-title">betty barney hill papers 1961 2006</span><span class="citation-popover-snippet">betty barney hill papers 1961 2006</span></span></span>
 
-The basic story is now familiar: the Hills reported an unusual aerial object during a late-night drive through northern New Hampshire, later developed a narrative involving missing time, and eventually recovered more detailed memories through [hypnosis]({{ 'hypnosis/' | relative_url }}). UNH’s collection guide says that about a year after the alleged abduction, the couple sought hypnosis therapy to help reveal the events of the missing hours, and that both later told broadly similar stories. That archival statement is important because it establishes what the record contains; it does not establish that the memories recovered under hypnosis were objectively accurate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library | University of New Hampshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-title">betty barney hill papers 1961 2006</span><span class="citation-popover-snippet">betty barney hill papers 1961 2006</span></span></span>
+The basic story is now familiar: the Hills reported an unusual aerial object during a late-night drive through northern New Hampshire, later developed a narrative involving missing time, and eventually recovered more detailed memories through [hypnosis]({{ 'hypnosis/' | relative_url }}). UNH’s collection guide says that about a year after the alleged abduction, the couple sought hypnosis therapy to help reveal the events of the missing hours, and that both later told broadly similar stories. That archival statement is important because it establishes what the record contains; it does not establish that the memories recovered under hypnosis were objectively accurate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library &#124; University of New Hampshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-title">betty barney hill papers 1961 2006</span><span class="citation-popover-snippet">betty barney hill papers 1961 2006</span></span></span>
 
 The [Hill case]({{ 'hill-case/' | relative_url }}) matters for three reasons. First, it became a template for later alien-abduction narratives: a couple on a lonely road, a strange craft, missing time, medical examination claims and remembered beings. Second, it tied UFO culture to real New Hampshire people whose lives were wider than the UFO story. UNH notes that both Hills were active in their Seacoast community, belonged to a local Unitarian church, were members of the NAACP, and that Barney sat on a local board of the U.S. Civil Rights Commission. Third, the case has an unusually visible afterlife in the state: NHPR reported that the story lives on through a historical marker along Route 3 in Lincoln, and Portsmouth Historical Society has treated the Hills’ story as both a UFO narrative and a cultural-history subject. Library | University of New Hampshire <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nhpr.org/nh-news/2014-03-28/marking-history-the-betty-and-barney-hill-incident-in-lincoln" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhpr.org">[New Hampshire Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhpr.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The main doubts are equally important. Hypnosis is not a neutral recording device; it can shape, reinforce or elaborate memory. The Hill story also grew through books, media coverage and UFO-community interpretation, which makes it difficult to separate the original experience from later narrative layers. The strongest historically responsible conclusion is not “the Hills were abducted” or “the Hills invented it”, but that their claim became one of the most culturally consequential UFO narratives in the United States, while the evidential basis remains personal testimony, later recollection and archival documentation of what they said rather than independent proof of what occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library | University of New Hampshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-title">betty barney hill papers 1961 2006</span><span class="citation-popover-snippet">betty barney hill papers 1961 2006</span></span></span>
+The main doubts are equally important. Hypnosis is not a neutral recording device; it can shape, reinforce or elaborate memory. The Hill story also grew through books, media coverage and UFO-community interpretation, which makes it difficult to separate the original experience from later narrative layers. The strongest historically responsible conclusion is not “the Hills were abducted” or “the Hills invented it”, but that their claim became one of the most culturally consequential UFO narratives in the United States, while the evidential basis remains personal testimony, later recollection and archival documentation of what they said rather than independent proof of what occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.unh.edu">[Library &#124; University of New Hampshire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.unh.edu</span><span class="citation-popover-title">betty barney hill papers 1961 2006</span><span class="citation-popover-snippet">betty barney hill papers 1961 2006</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Hampshire_824569-Illustration-1-light.svg" | relative_url }}" alt="Why New Hampshire Became UFO Country illustration 1" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Hampshire_824569-Illustration-1-dark.svg" | relative_url }}" alt="Why New Hampshire Became UFO Country illustration 1" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Exeter and Kensington, 1965: the state’s strongest classic sighting
 
-The [Exeter incident]({{ 'exeter-case/' | relative_url }}) is the New Hampshire case most often treated as a classic “good UFO” sighting because it involved more than one witness, police participation and official investigation. The core event occurred in the early hours of 3 September 1965 near Kensington, just outside Exeter. Norman Muscarello, then 18, reported seeing bright red lights near Route 150. Police officers Eugene Bertrand and David Hunt later became central [witnesses]({{ 'witnesses/' | relative_url }}), which gave the case more weight than a single late-night report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span>
+The Exeter incident is the New Hampshire case most often treated as a classic “good UFO” sighting because it involved more than one witness, police participation and official investigation. The core event occurred in the early hours of 3 September 1965 near Kensington, just outside Exeter. Norman Muscarello, then 18, reported seeing bright red lights near Route 150. Police officers Eugene Bertrand and David Hunt later became central [witnesses]({{ 'witnesses/' | relative_url }}), which gave the case more weight than a single late-night report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span>
 
 Project Blue Book is central to why the case endured. The National Archives confirms that Blue Book was the Air Force’s UFO investigation record set and that its textual records are declassified. Separate NICAP-hosted materials point readers towards the Blue Book documents and related pages for the 3 September 1965 Exeter report, including a UFO summary sheet and report pages. Although NICAP is not itself a government archive, its Exeter document page is valuable because it identifies the Blue Book file trail that later researchers have used. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 The Air Force explanations became part of the controversy. Contemporary and later accounts discussed stars and planets, a temperature inversion, aircraft connected with a SAC/NORAD training exercise known as Operation Big Blast, and possible lights from aircraft or nearby Pease operations. The problem, as critics noted, was that these explanations did not fully satisfy the witnesses or later researchers. Skeptical Inquirer’s 2011 re-examination is useful because it does not simply wave the case away: it lists earlier rejected candidates such as helicopters, balloons and civilian planes, then argues that a U.S. Air Force KC-97 refuelling tanker may have become an “unintentional UFO” under the conditions described. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That sceptical solution is plausible enough to matter, but not universally accepted enough to close the story for everyone. Its strength is that it tries to match the witness description to a real aircraft context rather than relying on a vague “people saw something” dismissal. Its weakness is that it remains a reconstruction, dependent on assumptions about aircraft position, lighting, witness angle and timing. Exeter therefore sits in a middle category: more substantial than a routine anonymous report, weaker than physical or instrumented evidence, and still shaped by disagreement over how well conventional explanations fit.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YSleia44qkU" title="Alien Abduction: Betty and Barney Hill | Official Trailer | discovery+" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YSleia44qkU" target="_blank" rel="noopener noreferrer">Alien Abduction: Betty and Barney Hill | Official Trailer | discovery+</a></p><p class="youtube-embed-meta">Channel: discovery plus &middot; Views: 43.2K &middot; Uploaded: February 2022 &middot; Length: 1 minute 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YSleia44qkU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YSleia44qkU">Open on YouTube</a></p></div></div></div>
 
@@ -523,8 +519,7 @@ For readers, the most useful way to treat these databases is as leads, not verdi
 
 There is still value in the broader pattern. Reports from the Seacoast should be read with aviation context in mind, especially around Pease and Portsmouth. Reports from the White Mountains should be read with dark-sky, terrain and tourism context in mind. Reports from southern New Hampshire towns sit within a busy regional corridor where aircraft, drones, satellites and weather effects are common. None of this disproves witnesses; it simply sets a higher bar before a sighting should be treated as historically important.
 
-
-<img src="{{ "/assets/images/New_Hampshire_824569-Illustration-2-light.svg" | relative_url }}" alt="Why New Hampshire Became UFO Country illustration 2" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Hampshire_824569-Illustration-2-dark.svg" | relative_url }}" alt="Why New Hampshire Became UFO Country illustration 2" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official records, archives and the limits of certainty
 
 New Hampshire’s UFO history is unusually archive-friendly. The Hill papers at UNH preserve a major personal and cultural collection. The National Archives preserves Blue Book as a federal record series. NICAP and later UFO-history sites have circulated Blue Book-related Exeter documents. Local journalism and historical organisations preserve how New Hampshire communities remember these cases. This layered record is one reason the state is more than a collection of campfire stories. Library | University of New Hampshire <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
@@ -532,7 +527,6 @@ New Hampshire’s UFO history is unusually archive-friendly. The Hill papers at 
 The same record also limits what can responsibly be claimed. Blue Book documentation can show that a case was reported, investigated or left unresolved; it cannot by itself prove an extraordinary cause. The Hill archive can show what the Hills wrote, collected, said and did; it cannot independently verify an abduction. NUFORC data can show the continuing flow of public reports; it cannot sort all sightings into known and unknown causes without case-by-case investigation.
 
 Recent U.S. government treatment of UAP reinforces that caution. Reuters reported on the Pentagon’s 2024 historical review by the All-domain Anomaly Resolution Office, which found no evidence that any U.S. government investigation, academic-sponsored research or official review had confirmed a sighting as extraterrestrial technology, while also noting that some cases remain unresolved because of limited data. That national conclusion does not “solve” New Hampshire’s historical cases, but it does set a sensible evidential standard: unresolved should not be treated as synonymous with alien. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Pentagon UFO report says most sightings &#x27;ordinary objects&#x27; and phenomena</span><span class="citation-popover-snippet">Pentagon UFO report says most sightings &#x27;ordinary objects&#x27; and phenomena</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aNmPrH69sRk" title="NH Chronicle: One of the Most Famous UFO Stories Ever Told" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aNmPrH69sRk" target="_blank" rel="noopener noreferrer">NH Chronicle: One of the Most Famous UFO Stories Ever Told</a></p><p class="youtube-embed-meta">Channel: WMUR-TV &middot; Views: 2.9K &middot; Uploaded: May 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aNmPrH69sRk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aNmPrH69sRk">Open on YouTube</a></p></div></div></div>
 
@@ -548,8 +542,7 @@ A fair reading of New Hampshire’s UFO history starts by separating three kinds
 
 The practical test is simple: ask what was observed, who observed it, when it was recorded, what ordinary explanations were checked, and whether later evidence narrowed or widened the uncertainty. By that standard, New Hampshire remains important not because it proves extraterrestrial visitation, but because it offers two of the clearest examples of how UFO cases become history: through witnesses, documents, official responses, sceptical challenges, local identity and the unresolved space between experience and explanation.
 
-
-<img src="{{ "/assets/images/New_Hampshire_824569-Illustration-3-light.svg" | relative_url }}" alt="Why New Hampshire Became UFO Country illustration 3" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Hampshire_824569-Illustration-3-dark.svg" | relative_url }}" alt="Why New Hampshire Became UFO Country illustration 3" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -637,7 +630,7 @@ The practical test is simple: ask what was observed, who observed it, when it wa
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -647,111 +640,36 @@ The practical test is simple: ask what was observed, who observed it, when it wa
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -759,15 +677,15 @@ The practical test is simple: ask what was observed, who observed it, when it wa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/sLkAAOSwaNVmMAOe/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -775,15 +693,15 @@ The practical test is simple: ask what was observed, who observed it, when it wa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture"><img src="https://i.ebayimg.com/images/g/IIUAAeSwQIFqIxPQ/s-l225.jpg" alt="Listing image for Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -791,15 +709,15 @@ The practical test is simple: ask what was observed, who observed it, when it wa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW"><img src="https://i.ebayimg.com/images/g/2CYAAOSwbhVgJDbB/s-l225.jpg" alt="Listing image for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -807,7 +725,7 @@ The practical test is simple: ask what was observed, who observed it, when it wa
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-new-hampshire-became-ufo-country-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -884,17 +802,31 @@ The practical test is simple: ask what was observed, who observed it, when it wa
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -907,42 +839,73 @@ The practical test is simple: ask what was observed, who observed it, when it wa
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -957,12 +920,17 @@ The practical test is simple: ask what was observed, who observed it, when it wa
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -973,185 +941,185 @@ The practical test is simple: ask what was observed, who observed it, when it wa
 1. <a id="endnote-1"></a>
    Source: library.unh.edu  
    Title: betty barney hill papers 1961 2006  
-   Link: [https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006](https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006)  
+   Link: <a href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006" target="_blank" rel="noopener noreferrer nofollow">https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006</a>  
 
 2. <a id="endnote-2"></a>
    Source: nhpr.org  
-   Link: [https://www.nhpr.org/nh-news/2014-03-28/marking-history-the-betty-and-barney-hill-incident-in-lincoln](https://www.nhpr.org/nh-news/2014-03-28/marking-history-the-betty-and-barney-hill-incident-in-lincoln)  
+   Link: <a href="https://www.nhpr.org/nh-news/2014-03-28/marking-history-the-betty-and-barney-hill-incident-in-lincoln" target="_blank" rel="noopener noreferrer nofollow">https://www.nhpr.org/nh-news/2014-03-28/marking-history-the-betty-and-barney-hill-incident-in-lincoln</a>  
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 4. <a id="endnote-4"></a>
    Source: 157arw.ang.af.mil  
    Title: 157th air refueling wing  
-   Link: [https://www.157arw.ang.af.mil/About-Us/Fact-Sheets/Display/Article/2752575/157th-air-refueling-wing/](https://www.157arw.ang.af.mil/About-Us/Fact-Sheets/Display/Article/2752575/157th-air-refueling-wing/)  
+   Link: <a href="https://www.157arw.ang.af.mil/About-Us/Fact-Sheets/Display/Article/2752575/157th-air-refueling-wing/" target="_blank" rel="noopener noreferrer nofollow">https://www.157arw.ang.af.mil/About-Us/Fact-Sheets/Display/Article/2752575/157th-air-refueling-wing/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&gt; 157th Air Refueling Wing &gt; Display...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Exeter incident  
-   Link: [https://en.wikipedia.org/wiki/Exeter_incident](https://en.wikipedia.org/wiki/Exeter_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exeter_incident</a>  
 
 6. <a id="endnote-6"></a>
    Source: nicap.org  
    Title: UF O Report  
-   Link: [https://www.nicap.org/reports/650903exeter_docs3.htm](https://www.nicap.org/reports/650903exeter_docs3.htm)  
+   Link: <a href="https://www.nicap.org/reports/650903exeter_docs3.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/650903exeter_docs3.htm</a>  
 
 7. <a id="endnote-7"></a>
    Source: centerforinquiry.s3.amazonaws.com  
-   Link: [https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf](https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf)  
+   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports for State NH  
-   Link: [https://nuforc.org/subndx/?id=lNH](https://nuforc.org/subndx/?id=lNH)  
+   Link: <a href="https://nuforc.org/subndx/?id=lNH" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNH</a>  
 
 10. <a id="endnote-10"></a>
    Source: reuters.com  
    Title: Pentagon UFO report says most sightings 'ordinary objects' and phenomena  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Barney and Betty Hill incident  
-   Link: [https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident](https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident</a>  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Pease Air National Guard Base  
-   Link: [https://en.wikipedia.org/wiki/Pease_Air_National_Guard_Base](https://en.wikipedia.org/wiki/Pease_Air_National_Guard_Base)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pease_Air_National_Guard_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pease_Air_National_Guard_Base</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Strategic Air Command  
-   Link: [https://en.wikipedia.org/wiki/Strategic_Air_Command](https://en.wikipedia.org/wiki/Strategic_Air_Command)  
+   Link: <a href="https://en.wikipedia.org/wiki/Strategic_Air_Command" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Strategic_Air_Command</a>  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=197430](https://nuforc.org/sighting/?id=197430)  
+   Link: <a href="https://nuforc.org/sighting/?id=197430" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197430</a>  
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=20008](https://nuforc.org/sighting/?id=20008)  
+   Link: <a href="https://nuforc.org/sighting/?id=20008" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=20008</a>  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=191075](https://nuforc.org/sighting/?id=191075)  
+   Link: <a href="https://nuforc.org/sighting/?id=191075" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191075</a>  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=25721](https://nuforc.org/sighting/?id=25721)  
+   Link: <a href="https://nuforc.org/sighting/?id=25721" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=25721</a>  
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=193851](https://nuforc.org/sighting/?id=193851)  
+   Link: <a href="https://nuforc.org/sighting/?id=193851" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193851</a>  
 
 20. <a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 21. <a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=82971](https://nuforc.org/sighting/?id=82971)  
+   Link: <a href="https://nuforc.org/sighting/?id=82971" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=82971</a>  
 
 22. <a id="endnote-22"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/docs/650903exeter_docs1.pdf](https://www.nicap.org/docs/650903exeter_docs1.pdf)  
+   Link: <a href="https://www.nicap.org/docs/650903exeter_docs1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/650903exeter_docs1.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: nhpr.org  
    Title: aliens stay for the history portsmouths new betty and barney exhibition  
-   Link: [https://www.nhpr.org/nh-news/2026-04-13/aliens-stay-for-the-history-portsmouths-new-betty-and-barney-exhibition](https://www.nhpr.org/nh-news/2026-04-13/aliens-stay-for-the-history-portsmouths-new-betty-and-barney-exhibition)  
+   Link: <a href="https://www.nhpr.org/nh-news/2026-04-13/aliens-stay-for-the-history-portsmouths-new-betty-and-barney-exhibition" target="_blank" rel="noopener noreferrer nofollow">https://www.nhpr.org/nh-news/2026-04-13/aliens-stay-for-the-history-portsmouths-new-betty-and-barney-exhibition</a>  
 
 24. <a id="endnote-24"></a>
    Source: nhpr.org  
    Title: ufo festival connected to exeter thanks to unusual incident  
-   Link: [https://www.nhpr.org/all-things-considered/2013-02-01/ufo-festival-connected-to-exeter-thanks-to-unusual-incident](https://www.nhpr.org/all-things-considered/2013-02-01/ufo-festival-connected-to-exeter-thanks-to-unusual-incident)  
+   Link: <a href="https://www.nhpr.org/all-things-considered/2013-02-01/ufo-festival-connected-to-exeter-thanks-to-unusual-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.nhpr.org/all-things-considered/2013-02-01/ufo-festival-connected-to-exeter-thanks-to-unusual-incident</a>  
 
 25. <a id="endnote-25"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104537/kc-46a-pegasus/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104537/kc-46a-pegasus/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104537/kc-46a-pegasus/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104537/kc-46a-pegasus/</a>  
 
 26. <a id="endnote-26"></a>
    Source: 157arw.ang.af.mil  
    Title: mil History  
-   Link: [https://www.157arw.ang.af.mil/About-Us/History/](https://www.157arw.ang.af.mil/About-Us/History/)  
+   Link: <a href="https://www.157arw.ang.af.mil/About-Us/History/" target="_blank" rel="noopener noreferrer nofollow">https://www.157arw.ang.af.mil/About-Us/History/</a>  
 
 27. <a id="endnote-27"></a>
    Source: dn721804.ca.archive.org  
    Title: Bad UFOs critical thinking about UFO claims  
-   Link: [https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf](https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf)  
+   Link: <a href="https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: library.unh.edu  
    Title: using betty barney hill collection  
-   Link: [https://library.unh.edu/find/archives/collections/using-materials/using-betty-barney-hill-collection](https://library.unh.edu/find/archives/collections/using-materials/using-betty-barney-hill-collection)  
+   Link: <a href="https://library.unh.edu/find/archives/collections/using-materials/using-betty-barney-hill-collection" target="_blank" rel="noopener noreferrer nofollow">https://library.unh.edu/find/archives/collections/using-materials/using-betty-barney-hill-collection</a>  
 
 29. <a id="endnote-29"></a>
    Source: whiteman.af.mil  
-   Link: [https://www.whiteman.af.mil/About/History/](https://www.whiteman.af.mil/About/History/)  
+   Link: <a href="https://www.whiteman.af.mil/About/History/" target="_blank" rel="noopener noreferrer nofollow">https://www.whiteman.af.mil/About/History/</a>  
 
 30. <a id="endnote-30"></a>
    Source: newenglandaviationhistory.com  
    Title: Pease Air Force Base  
-   Link: [https://newenglandaviationhistory.com/tag/pease-air-force-base-history/](https://newenglandaviationhistory.com/tag/pease-air-force-base-history/)  
+   Link: <a href="https://newenglandaviationhistory.com/tag/pease-air-force-base-history/" target="_blank" rel="noopener noreferrer nofollow">https://newenglandaviationhistory.com/tag/pease-air-force-base-history/</a>  
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: Alien Abduction: Betty and Barney Hill | Official Trailer | discovery+  
-   Link: [https://www.youtube.com/watch?v=YSleia44qkU](https://www.youtube.com/watch?v=YSleia44qkU)  
+   Link: <a href="https://www.youtube.com/watch?v=YSleia44qkU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YSleia44qkU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NH Chronicle: One of the Most Famous UFO Stories Ever Told...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: NH Chronicle: One of the Most Famous UFO Stories Ever Told  
-   Link: [https://www.youtube.com/watch?v=aNmPrH69sRk](https://www.youtube.com/watch?v=aNmPrH69sRk)  
+   Link: <a href="https://www.youtube.com/watch?v=aNmPrH69sRk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aNmPrH69sRk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About Betty Hill&#x27;s UFO Star Map | UFO: The Lost Evidence...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: visitnh.gov  
-   Link: [https://www.visitnh.gov/blog/undiscovered-nh-spooky-stops](https://www.visitnh.gov/blog/undiscovered-nh-spooky-stops)  
+   Link: <a href="https://www.visitnh.gov/blog/undiscovered-nh-spooky-stops" target="_blank" rel="noopener noreferrer nofollow">https://www.visitnh.gov/blog/undiscovered-nh-spooky-stops</a>  
 
 34. <a id="endnote-34"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf](https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: war.gov  
    Title: pease air national guard base selected to receive kc 46a pegasus aircraft  
-   Link: [https://www.war.gov/News/Releases/Release/Article/605118/pease-air-national-guard-base-selected-to-receive-kc-46a-pegasus-aircraft/](https://www.war.gov/News/Releases/Release/Article/605118/pease-air-national-guard-base-selected-to-receive-kc-46a-pegasus-aircraft/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/605118/pease-air-national-guard-base-selected-to-receive-kc-46a-pegasus-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/605118/pease-air-national-guard-base-selected-to-receive-kc-46a-pegasus-aircraft/</a>  
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ExploringLegends/posts/a-little-betty-and-barney-hill-ufo-abduction-in-new-hampshire-recap-from-wickeds/1324981295661770/](https://www.facebook.com/ExploringLegends/posts/a-little-betty-and-barney-hill-ufo-abduction-in-new-hampshire-recap-from-wickeds/1324981295661770/)  
+   Link: <a href="https://www.facebook.com/ExploringLegends/posts/a-little-betty-and-barney-hill-ufo-abduction-in-new-hampshire-recap-from-wickeds/1324981295661770/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ExploringLegends/posts/a-little-betty-and-barney-hill-ufo-abduction-in-new-hampshire-recap-from-wickeds/1324981295661770/</a>  
 
 37. <a id="endnote-37"></a>
    Source: outdoors.org  
-   Link: [https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/](https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/)  
+   Link: <a href="https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow">https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/</a>  
 
 38. <a id="endnote-38"></a>
    Source: newengland.com  
-   Link: [https://newengland.com/yankee/history/ufo-sightings-alien-sightings/](https://newengland.com/yankee/history/ufo-sightings-alien-sightings/)  
+   Link: <a href="https://newengland.com/yankee/history/ufo-sightings-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://newengland.com/yankee/history/ufo-sightings-alien-sightings/</a>  
 
 39. <a id="endnote-39"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYhj3KAjsXV/](https://www.instagram.com/reel/DYhj3KAjsXV/)  
+   Link: <a href="https://www.instagram.com/reel/DYhj3KAjsXV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYhj3KAjsXV/</a>  
 
 40. <a id="endnote-40"></a>
    Source: tripadvisor.co.uk  
-   Link: [https://www.tripadvisor.co.uk/Attraction_Review-g46140-d8612098-Reviews-Betty_and_Barney_Hill_Incident_Historical_Marker-Lincoln_New_Hampshire.html](https://www.tripadvisor.co.uk/Attraction_Review-g46140-d8612098-Reviews-Betty_and_Barney_Hill_Incident_Historical_Marker-Lincoln_New_Hampshire.html)  
+   Link: <a href="https://www.tripadvisor.co.uk/Attraction_Review-g46140-d8612098-Reviews-Betty_and_Barney_Hill_Incident_Historical_Marker-Lincoln_New_Hampshire.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Attraction_Review-g46140-d8612098-Reviews-Betty_and_Barney_Hill_Incident_Historical_Marker-Lincoln_New_Hampshire.html</a>

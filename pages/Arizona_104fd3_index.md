@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /arizona-104fd3-index/
 description: Focused pages that expand on Why Arizona Became a UFO State.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Arizona_104fd3
 parent_title: Why Arizona Became a UFO State

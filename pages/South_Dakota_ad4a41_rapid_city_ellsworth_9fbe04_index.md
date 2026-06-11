@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /south-dakota-ad4a41-rapid-city/
 description: Focused pages that expand on Rapid City.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: South_Dakota_ad4a41_rapid_city_ellsworth_9fbe04
-parent_title: Rapid City | What Really Happened in South Dakota's UFO...
+parent_title: Rapid City
 parent_nav_short_title: Rapid City
 parent_permalink: /rapid-city/
 ---

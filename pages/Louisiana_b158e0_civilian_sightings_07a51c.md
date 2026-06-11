@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-louisianas-ufo/
 nav_short_title: City Reports
 title: What Do Louisiana's Everyday Reports Really Show?
-title_full: What Do Louisiana's Everyday Reports Really Show? | Louisiana UFOs
+title_full: What Do Louisiana's Everyday Reports Really Show?
 display_title_short: City Reports
 display_title: City Reports
 heading_title: What Do Louisiana's Everyday Reports Really Show?
@@ -268,8 +268,7 @@ image: /assets/images/Louisiana_b158e0_civilian_sightings_07a51c-overview-social
 
 ## Introduction
 
-New Orleans and Baton Rouge do not dominate [Louisiana]({{ 'what-really-happened-in-louisianas-ufo/' | relative_url }})’s UFO history because of one spectacular, well-documented encounter. Their importance is quieter: they show how the state’s everyday UFO record is built from civilian reports, most often brief sightings of lights, shapes, formations or objects seen from streets, bridges, gardens, cars, neighbourhoods, airports and waterways. NUFORC, the National UFO Reporting Center, currently lists more than 1,200 Louisiana reports, but its own database warns that it preserves witness accounts rather than proving them; obvious hoaxes may be omitted, yet most reports are posted in the witness’s own words and NUFORC “makes no claims as to the validity” of the information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
-
+New Orleans and Baton Rouge do not dominate Louisiana’s UFO history because of one spectacular, well-documented encounter. Their importance is quieter: they show how the state’s everyday UFO record is built from civilian reports, most often brief sightings of lights, shapes, formations or objects seen from streets, bridges, gardens, cars, neighbourhoods, airports and waterways. NUFORC, the National UFO Reporting Center, currently lists more than 1,200 Louisiana reports, but its own database warns that it preserves witness accounts rather than proving them; obvious hoaxes may be omitted, yet most reports are posted in the witness’s own words and NUFORC “makes no claims as to the validity” of the information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
 <img src="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c-overview.webp" | relative_url }}" alt="Overview image for City Reports" loading="eager" decoding="sync" fetchpriority="high">
 That distinction is the key to reading New Orleans and [Baton Rouge sightings]({{ 'baton-rouge-sightings/' | relative_url }}) fairly. The pattern is real as a reporting pattern, not as proof of alien craft. It tells us where people look up, what they notice, what gets reported, and why cities with airports, rivers, bridges, festivals, drones, satellites and heavy night-time activity can generate persistent UFO claims even when ordinary explanations remain plausible.
@@ -278,14 +277,13 @@ That distinction is the key to reading New Orleans and [Baton Rouge sightings]({
 
 Louisiana’s everyday UFO record is uneven. It is not simply a map of mysterious aerial events; it is also a map of population, roads, reporting habits and places where people spend time outdoors after dark. New Orleans and Baton Rouge naturally appear because they are large urban centres, but NUFORC entries also recur around Kenner, Slidell, Harvey, Gretna, Prairieville, Destrehan, Gonzales and other communities tied into the same south Louisiana corridor. The result is a crescent of civilian reports around the Mississippi River, Lake Pontchartrain, commuter routes and the airports serving the region. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://flymsy.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flymsy.com">[Louis Armstrong New Orleans Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flymsy.com</span><span class="citation-popover-title">Louis Armstrong New Orleans Airport Official Home</span><span class="citation-popover-snippet">Louis Armstrong New Orleans Airport Official Home</span></span></span>
 
-New Orleans reports tend to have a strongly urban texture. They include claims from the French Quarter, streets near Bourbon Street, the Lake Pontchartrain area, the Causeway corridor, west-bank communities and the wider airport zone near Kenner. A 1995 NUFORC entry is especially revealing because it is not a dramatic saucer story: it says the New Orleans FAA airport traffic control route centre had received a UFO report from a caller. That small entry matters because it shows how some civilian sightings entered the record indirectly, through aviation-facing institutions, without necessarily becoming formal investigations with a known conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Data Bank | NUFORC</span></span></span>
+New Orleans reports tend to have a strongly urban texture. They include claims from the French Quarter, streets near Bourbon Street, the Lake Pontchartrain area, the Causeway corridor, west-bank communities and the wider airport zone near Kenner. A 1995 NUFORC entry is especially revealing because it is not a dramatic saucer story: it says the New Orleans FAA airport traffic control route centre had received a UFO report from a caller. That small entry matters because it shows how some civilian sightings entered the record indirectly, through aviation-facing institutions, without necessarily becoming formal investigations with a known conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC</span></span></span>
 
 Baton Rouge reports, by contrast, often read like suburban or road-based sightings: objects seen while driving home, lights noticed from neighbourhoods, or formations reported from nearby communities such as Denham Springs and Prairieville. NUFORC’s older index includes Baton Rouge entries described as fireballs, lights, triangles and photographic anomalies, while local news has also documented moments when residents across Baton Rouge and nearby towns saw a line of lights that was later attributed to SpaceX Starlink satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lLA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State LA</span><span class="citation-popover-snippet">Reports for State LA</span></span></span>
 
 The two cities therefore contribute different kinds of evidence. New Orleans adds dense urban sightlines, tourism districts, river traffic, lake crossings and airport-adjacent observations. Baton Rouge adds capital-region neighbourhoods, commuter corridors and a useful example of how a mass “strange lights” moment can quickly become less mysterious once satellite visibility is checked.
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c-Illustration-1-light.svg" | relative_url }}" alt="City Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c-Illustration-1-dark.svg" | relative_url }}" alt="City Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What The New Orleans Reports Actually Look Like
 
 The most useful New Orleans entries are not the most sensational ones; they are the ones that show how varied and fragile civilian evidence can be. Some are short, almost administrative. Others are detailed first-person accounts. Many lack photographs, radar confirmation, independent follow-up or precise enough data to rule out aircraft, balloons, drones, reflections, satellites or astronomical objects.
@@ -295,7 +293,6 @@ One of the better-known NUFORC-style New Orleans examples is the 6 February 2001
 Another New Orleans entry, reported in 2001 for an alleged 20 September 2000 sighting, described two boomerang-shaped or triangular craft with warm rectangular panels underneath, moving silently for only about six seconds. The report is vivid, but NUFORC itself noted a weakness: the witness had not clearly stipulated the year, and the centre planned to clarify the date. That kind of internal uncertainty is common in civilian UFO files and is one reason the database is better treated as a lead archive than as a catalogue of established events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=16450" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 The wider New Orleans area also produces reports that fit ordinary-sky patterns. A Slidell witness on New Year’s Eve 2009 described two internally lit, translucent spherical objects travelling on a parallel course towards New Orleans across Lake Pontchartrain. The witness said he was a retired college instructor and former private pilot, which gives the account more observational interest than a casual one-line claim. Yet the timing — New Year’s Eve, outdoor fireworks, night sky, slow glowing objects — also keeps possible explanations such as lanterns, balloons or celebratory aerial objects in play unless corroborating data exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=18682" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AWT8xxGXQmA" title="New FAA Rules for Drone Hobbyists | Laws and Regulations Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AWT8xxGXQmA" target="_blank" rel="noopener noreferrer">New FAA Rules for Drone Hobbyists | Laws and Regulations Explained</a></p><p class="youtube-embed-meta">Channel: Alien Drones &middot; Views: 9.9K &middot; Uploaded: May 2019 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AWT8xxGXQmA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AWT8xxGXQmA">Open on YouTube</a></p></div></div></div>
 
@@ -309,18 +306,16 @@ The clearest modern Baton Rouge lesson came on 7 August 2023, when WBRZ reported
 
 KATC made the same point for Louisiana more broadly, explaining that many viewers had asked about strange lights and that the “extraterrestrial-like” chain was Starlink, a SpaceX satellite internet constellation whose satellites can appear in a line formation. This matters for UFO history because it changes how recent “string of lights” reports should be read: after Starlink, a once-startling formation has become one of the first explanations to check. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.katc.com/news/covering-louisiana/strange-lights-seen-in-louisiana-sky-likely-starlink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: katc.com">[KATC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">katc.com</span><span class="citation-popover-title">News Strange lights seen in Louisiana sky likely &#x27;Starlink</span><span class="citation-popover-snippet">News Strange lights seen in Louisiana sky likely &#x27;Starlink</span></span></span>
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c-Illustration-2-light.svg" | relative_url }}" alt="City Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c-Illustration-2-dark.svg" | relative_url }}" alt="City Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common Shapes, Lights And Likely Explanations
 
 The repeated forms in New Orleans and Baton Rouge reports are familiar across the wider UFO record: lights, fireballs, triangles, cylinders, spheres, formations and fast-moving points. That repetition is interesting, but it is not automatically mysterious. A “light” report may involve an aircraft landing pattern, a satellite, a meteor, a drone, a planet, a flare, a reflection or a distant helicopter. A “triangle” may be a structured object, but it may also be three separate lights perceived as one shape, aircraft lighting, formation flight, drones or a brief perspective effect.
 
-South Louisiana adds several local reasons for caution. New Orleans has a major 24-hour airport in Kenner, a busy river, tourism districts, fireworks, festivals, bridges and broad views across Lake Pontchartrain. Baton Rouge has its own airport, commuter roads, suburban skywatching, nearby industrial corridors and regular air traffic. The FAA’s public drone guidance also reminds operators that airspace restrictions around airports matter because drones can endanger aircraft, while its B4UFLY service exists to show where recreational flyers can and cannot fly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://flymsy.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flymsy.com">[Louis Armstrong New Orleans Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flymsy.com</span><span class="citation-popover-title">Louis Armstrong New Orleans Airport Official Home</span><span class="citation-popover-snippet">Louis Armstrong New Orleans Airport Official Home</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flybtr.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flybtr.com">[Fly BTR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flybtr.com</span><span class="citation-popover-title">Fly BTRBaton Rouge Metropolitan Airport:: BTR | Fly Local</span><span class="citation-popover-snippet">Fly BTRBaton Rouge Metropolitan Airport:: BTR | Fly Local</span></span></span>
+South Louisiana adds several local reasons for caution. New Orleans has a major 24-hour airport in Kenner, a busy river, tourism districts, fireworks, festivals, bridges and broad views across Lake Pontchartrain. Baton Rouge has its own airport, commuter roads, suburban skywatching, nearby industrial corridors and regular air traffic. The FAA’s public drone guidance also reminds operators that airspace restrictions around airports matter because drones can endanger aircraft, while its B4UFLY service exists to show where recreational flyers can and cannot fly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://flymsy.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flymsy.com">[Louis Armstrong New Orleans Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flymsy.com</span><span class="citation-popover-title">Louis Armstrong New Orleans Airport Official Home</span><span class="citation-popover-snippet">Louis Armstrong New Orleans Airport Official Home</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flybtr.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flybtr.com">[Fly BTR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flybtr.com</span><span class="citation-popover-title">Fly BTRBaton Rouge Metropolitan Airport:: BTR &#124; Fly Local</span><span class="citation-popover-snippet">Fly BTRBaton Rouge Metropolitan Airport:: BTR &#124; Fly Local</span></span></span>
 
 The strongest national UAP reviews support this cautious approach. AARO, the Pentagon’s All-domain Anomaly Resolution Office, has said the majority of earlier UAP sightings were probably misidentifications of ordinary phenomena or objects, while modern reports can include rocket plumes, satellite trains and unmanned aircraft systems with unfamiliar shapes. It also notes a recurring problem from Project Blue Book to the present: many sightings have little more than a vague narrative account, and even sensor data is often incomplete or poor quality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
 
 This does not mean witnesses are foolish. It means the sky is difficult to interpret without context. Distance, altitude, speed and size are hard to judge at night. A silent object may simply be farther away than it appears. A “hovering” light may be an aircraft approaching head-on. A fast disappearance may be a satellite entering Earth’s shadow. A glowing orb on a festival night may be a balloon or lantern. The civilian record is valuable precisely because it captures how strange ordinary skies can look when people lack the confirming data that investigators would need.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2Lb-STlkIkI" title="UFO Sightings Data &amp; Trends [Python Data Visualization Project]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2Lb-STlkIkI" target="_blank" rel="noopener noreferrer">UFO Sightings Data &amp; Trends [Python Data Visualization Project]</a></p><p class="youtube-embed-meta">Channel: CodingNomads &middot; Views: 1.2K &middot; Uploaded: August 2022 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2Lb-STlkIkI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2Lb-STlkIkI">Open on YouTube</a></p></div></div></div>
 
@@ -329,7 +324,6 @@ This does not mean witnesses are foolish. It means the sky is difficult to inter
 NUFORC is indispensable for seeing Louisiana’s civilian pattern, but it should not be mistaken for a court of evidence. Its database page describes the archive as a large independent collection of first-hand UFO and UAP sighting reports. It also explains that staff review reports and grade newer ones, but reports before March 2023 had not yet been graded under that system. Most importantly, NUFORC states that it does not claim the reports are valid and that most have been posted as received in the witness’s own words. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=51967" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 That makes the New Orleans and Baton Rouge material a dataset of claims, not a dataset of confirmed anomalies. It is useful for asking questions such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -345,8 +339,7 @@ Project Blue Book offers a useful historical comparison. The National Archives n
 
 Modern civilian databases fill the gap left after official Air Force public reporting ended, but they do so with looser evidence standards. That does not make them worthless. It makes them a starting point. For Louisiana, they preserve the ordinary texture of UFO reporting: the late-night drive, the object over rooftops, the bright line across the sky, the triangle glimpsed for seconds, the sphere over the lake, the report that sounds dramatic until a satellite pass or firework event explains it.
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c-Illustration-3-light.svg" | relative_url }}" alt="City Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c-Illustration-3-dark.svg" | relative_url }}" alt="City Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Everyday Reports Add To Louisiana’s UFO History
 
 New Orleans and Baton Rouge do not replace Louisiana’s more substantial case files, such as the [Haynesville]({{ 'haynesville/' | relative_url }}) incident or aviation-linked reports elsewhere in the state. Instead, they explain the baseline against which stronger cases should be judged. Most Louisiana sightings are not famous incidents with physical traces, formal investigation or trained observers. They are civilian observations made under imperfect conditions and later preserved in public databases.
@@ -357,9 +350,7 @@ New Orleans reports are strongest when they include specific location, behaviour
 
 The practical takeaway is simple: New Orleans and Baton Rouge are important not because they prove a hidden aerial presence, but because they show how Louisiana’s public UFO memory is actually made. It is made from ordinary people noticing something strange, filing a report, local media sometimes checking an explanation, and databases preserving the claim long after the sky has moved on.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wzu-l-gvl44" title="Louisiana experts weigh in on new Pentagon UFO files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wzu-l-gvl44" target="_blank" rel="noopener noreferrer">Louisiana experts weigh in on new Pentagon UFO files</a></p><p class="youtube-embed-meta">Channel: WWLTV &middot; Views: 4.0K &middot; Uploaded: May 2026 &middot; Length: 3 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wzu-l-gvl44" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wzu-l-gvl44">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -783,221 +774,221 @@ The practical takeaway is simple: New Orleans and Baton Rouge are important not 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Reports for State LA  
-   Link: [https://nuforc.org/subndx/?id=lLA](https://nuforc.org/subndx/?id=lLA)  
+   Link: <a href="https://nuforc.org/subndx/?id=lLA" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lLA</a>  
 
 4. <a id="endnote-4"></a>
    Source: flybtr.com  
    Title: Fly BTRBaton Rouge Metropolitan Airport:: BTR | Fly Local  
-   Link: [https://www.flybtr.com/](https://www.flybtr.com/)  
+   Link: <a href="https://www.flybtr.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.flybtr.com/</a>  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
    Title: UFO Sighting 118  
-   Link: [https://nuforc.org/sighting/?id=118](https://nuforc.org/sighting/?id=118)  
+   Link: <a href="https://nuforc.org/sighting/?id=118" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=118</a>  
 
 6. <a id="endnote-6"></a>
    Source: wbrz.com  
-   Link: [https://www.wbrz.com/news/seeing-weird-lights-in-the-sky-starlink-visible-in-southeast-louisiana-on-monday-night/](https://www.wbrz.com/news/seeing-weird-lights-in-the-sky-starlink-visible-in-southeast-louisiana-on-monday-night/)  
+   Link: <a href="https://www.wbrz.com/news/seeing-weird-lights-in-the-sky-starlink-visible-in-southeast-louisiana-on-monday-night/" target="_blank" rel="noopener noreferrer nofollow">https://www.wbrz.com/news/seeing-weird-lights-in-the-sky-starlink-visible-in-southeast-louisiana-on-monday-night/</a>  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=16450](https://nuforc.org/sighting/?id=16450)  
+   Link: <a href="https://nuforc.org/sighting/?id=16450" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=16450</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=18682](https://nuforc.org/sighting/?id=18682)  
+   Link: <a href="https://nuforc.org/sighting/?id=18682" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=18682</a>  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=77109](https://nuforc.org/sighting/?id=77109)  
+   Link: <a href="https://nuforc.org/sighting/?id=77109" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=77109</a>  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=20841](https://nuforc.org/sighting/?id=20841)  
+   Link: <a href="https://nuforc.org/sighting/?id=20841" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=20841</a>  
 
 11. <a id="endnote-11"></a>
    Source: katc.com  
    Title: News Strange lights seen in Louisiana sky likely 'Starlink'  
-   Link: [https://www.katc.com/news/covering-louisiana/strange-lights-seen-in-louisiana-sky-likely-starlink](https://www.katc.com/news/covering-louisiana/strange-lights-seen-in-louisiana-sky-likely-starlink)  
+   Link: <a href="https://www.katc.com/news/covering-louisiana/strange-lights-seen-in-louisiana-sky-likely-starlink" target="_blank" rel="noopener noreferrer nofollow">https://www.katc.com/news/covering-louisiana/strange-lights-seen-in-louisiana-sky-likely-starlink</a>  
 
 12. <a id="endnote-12"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/uas/getting_started/where_can_i_fly](https://www.faa.gov/uas/getting_started/where_can_i_fly)  
+   Link: <a href="https://www.faa.gov/uas/getting_started/where_can_i_fly" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/where_can_i_fly</a>  
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
    Title: Unclassified Final DSD AARO Historical Report  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=51967](https://nuforc.org/sighting/?id=51967)  
+   Link: <a href="https://nuforc.org/sighting/?id=51967" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=51967</a>  
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=197514](https://nuforc.org/sighting/?id=197514)  
+   Link: <a href="https://nuforc.org/sighting/?id=197514" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197514</a>  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=148097](https://nuforc.org/sighting/?id=148097)  
+   Link: <a href="https://nuforc.org/sighting/?id=148097" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=148097</a>  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=43552](https://nuforc.org/sighting/?id=43552)  
+   Link: <a href="https://nuforc.org/sighting/?id=43552" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=43552</a>  
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=61016](https://nuforc.org/sighting/?id=61016)  
+   Link: <a href="https://nuforc.org/sighting/?id=61016" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=61016</a>  
 
 20. <a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=127066](https://nuforc.org/sighting/?id=127066)  
+   Link: <a href="https://nuforc.org/sighting/?id=127066" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=127066</a>  
 
 21. <a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=95235](https://nuforc.org/sighting/?id=95235)  
+   Link: <a href="https://nuforc.org/sighting/?id=95235" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=95235</a>  
 
 22. <a id="endnote-22"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=59062](https://nuforc.org/sighting/?id=59062)  
+   Link: <a href="https://nuforc.org/sighting/?id=59062" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=59062</a>  
 
 23. <a id="endnote-23"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=194817](https://nuforc.org/sighting/?id=194817)  
+   Link: <a href="https://nuforc.org/sighting/?id=194817" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=194817</a>  
 
 24. <a id="endnote-24"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 25. <a id="endnote-25"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=137673](https://nuforc.org/sighting/?id=137673)  
+   Link: <a href="https://nuforc.org/sighting/?id=137673" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=137673</a>  
 
 26. <a id="endnote-26"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=48340](https://nuforc.org/sighting/?id=48340)  
+   Link: <a href="https://nuforc.org/sighting/?id=48340" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=48340</a>  
 
 27. <a id="endnote-27"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=183539](https://nuforc.org/sighting/?id=183539)  
+   Link: <a href="https://nuforc.org/sighting/?id=183539" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=183539</a>  
 
 28. <a id="endnote-28"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=117609](https://nuforc.org/sighting/?id=117609)  
+   Link: <a href="https://nuforc.org/sighting/?id=117609" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=117609</a>  
 
 29. <a id="endnote-29"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=117477](https://nuforc.org/sighting/?id=117477)  
+   Link: <a href="https://nuforc.org/sighting/?id=117477" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=117477</a>  
 
 30. <a id="endnote-30"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=79983](https://nuforc.org/sighting/?id=79983)  
+   Link: <a href="https://nuforc.org/sighting/?id=79983" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=79983</a>  
 
 31. <a id="endnote-31"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/gallery/](https://nuforc.org/gallery/)  
+   Link: <a href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/gallery/</a>  
 
 32. <a id="endnote-32"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 33. <a id="endnote-33"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 34. <a id="endnote-34"></a>
    Source: independent.ie  
-   Link: [https://www.independent.ie/regionals/herald/chinese-lanterns-blamed-in-ufo-scare/27181161.html](https://www.independent.ie/regionals/herald/chinese-lanterns-blamed-in-ufo-scare/27181161.html)  
+   Link: <a href="https://www.independent.ie/regionals/herald/chinese-lanterns-blamed-in-ufo-scare/27181161.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.ie/regionals/herald/chinese-lanterns-blamed-in-ufo-scare/27181161.html</a>  
 
 35. <a id="endnote-35"></a>
    Source: flymsy.com  
    Title: Louis Armstrong New Orleans Airport Official Home  
-   Link: [https://flymsy.com/](https://flymsy.com/)  
+   Link: <a href="https://flymsy.com/" target="_blank" rel="noopener noreferrer nofollow">https://flymsy.com/</a>  
 
 36. <a id="endnote-36"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 37. <a id="endnote-37"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: [https://en.wikipedia.org/wiki/National_UFO_Reporting_Center](https://en.wikipedia.org/wiki/National_UFO_Reporting_Center)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
 
 38. <a id="endnote-38"></a>
    Source: uavcoach.com  
    Title: new orleans  
-   Link: [https://uavcoach.com/where-to-fly-drone/new-orleans/](https://uavcoach.com/where-to-fly-drone/new-orleans/)  
+   Link: <a href="https://uavcoach.com/where-to-fly-drone/new-orleans/" target="_blank" rel="noopener noreferrer nofollow">https://uavcoach.com/where-to-fly-drone/new-orleans/</a>  
 
 39. <a id="endnote-39"></a>
    Source: ufodatalive.com  
-   Link: [https://www.ufodatalive.com/states/louisiana/](https://www.ufodatalive.com/states/louisiana/)  
+   Link: <a href="https://www.ufodatalive.com/states/louisiana/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodatalive.com/states/louisiana/</a>  
 
 ### Additional References
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=UwYgxKOMmsU](http://www.youtube.com/watch?v=UwYgxKOMmsU)  
+   Link: <a href="http://www.youtube.com/watch?v=UwYgxKOMmsU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UwYgxKOMmsU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings New Orleans Baton Rouge Raw Video: Object spotted over Louisiana, Mississippi sky WDSU News...</p></details>
    Published: March 2020  
 
 41. <a id="endnote-41"></a>
    Source: youtube.com  
    Title: Power BI | DAX Query View | Map & Line Charts | UFO Sightings Dataset | Video 2  
-   Link: [http://www.youtube.com/watch?v=W3xQBkCQnSI](http://www.youtube.com/watch?v=W3xQBkCQnSI)  
+   Link: <a href="http://www.youtube.com/watch?v=W3xQBkCQnSI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=W3xQBkCQnSI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[CohPy] March 2020 - Understanding Probabilistic Data Structures with 112,092 UFO Sightings...</p></details>
    Published: March 2020  
 
 42. <a id="endnote-42"></a>
    Source: youtube.com  
    Title: UFO Sightings Data & Trends [Python Data Visualization Project]  
-   Link: [http://www.youtube.com/watch?v=2Lb-STlkIkI](http://www.youtube.com/watch?v=2Lb-STlkIkI)  
+   Link: <a href="http://www.youtube.com/watch?v=2Lb-STlkIkI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2Lb-STlkIkI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Power BI | DAX Query View | Map &amp; Line Charts | UFO Sightings Dataset | Video 2...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: youtube.com  
    Title: I Analyzed 173,747 UFO Reports… Here’s What I Found  
-   Link: [http://www.youtube.com/watch?v=dnQU6Rj1fD8](http://www.youtube.com/watch?v=dnQU6Rj1fD8)  
+   Link: <a href="http://www.youtube.com/watch?v=dnQU6Rj1fD8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=dnQU6Rj1fD8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Data &amp; Trends [Python Data Visualization Project]...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
    Title: Raw Video: Object spotted over Louisiana, Mississippi sky  
-   Link: [http://www.youtube.com/watch?v=udMWX9MPKnQ](http://www.youtube.com/watch?v=udMWX9MPKnQ)  
+   Link: <a href="http://www.youtube.com/watch?v=udMWX9MPKnQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=udMWX9MPKnQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I Analyzed 173,747 UFO Reports… Here’s What I Found...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: [https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/](https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
 
 46. <a id="endnote-46"></a>
    Source: fox8live.com  
-   Link: [https://www.fox8live.com/2026/05/20/star-shaped-ufo-spotted-newly-released-video/](https://www.fox8live.com/2026/05/20/star-shaped-ufo-spotted-newly-released-video/)  
+   Link: <a href="https://www.fox8live.com/2026/05/20/star-shaped-ufo-spotted-newly-released-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.fox8live.com/2026/05/20/star-shaped-ufo-spotted-newly-released-video/</a>  
 
 47. <a id="endnote-47"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/18ep4i3/422_new_reports_posted_at_nuforcorg/](https://www.reddit.com/r/UFOs/comments/18ep4i3/422_new_reports_posted_at_nuforcorg/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/18ep4i3/422_new_reports_posted_at_nuforcorg/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18ep4i3/422_new_reports_posted_at_nuforcorg/</a>  
 
 48. <a id="endnote-48"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/urbancastllc/posts/alexandria-when-central-louisiana-was-nearly-the-ufo-capital-of-the-world-check-/878369384543155/](https://www.facebook.com/urbancastllc/posts/alexandria-when-central-louisiana-was-nearly-the-ufo-capital-of-the-world-check-/878369384543155/)  
+   Link: <a href="https://www.facebook.com/urbancastllc/posts/alexandria-when-central-louisiana-was-nearly-the-ufo-capital-of-the-world-check-/878369384543155/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/urbancastllc/posts/alexandria-when-central-louisiana-was-nearly-the-ufo-capital-of-the-world-check-/878369384543155/</a>  
 
 49. <a id="endnote-49"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MSYAirport/posts/although-the-louis-armstrong-airport-is-not-included-in-the-list-of-40-airports-/1272284474935901/](https://www.facebook.com/MSYAirport/posts/although-the-louis-armstrong-airport-is-not-included-in-the-list-of-40-airports-/1272284474935901/)  
+   Link: <a href="https://www.facebook.com/MSYAirport/posts/although-the-louis-armstrong-airport-is-not-included-in-the-list-of-40-airports-/1272284474935901/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MSYAirport/posts/although-the-louis-armstrong-airport-is-not-included-in-the-list-of-40-airports-/1272284474935901/</a>

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /maine-8dc024-maine-official-ufo-i/
 description: Focused pages that expand on Official Investigations.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Maine_8dc024_maine_official_ufo_i_02830e
-parent_title: Official Investigations | What Makes Maine a Hotspot for UFO...
+parent_title: Official Investigations
 parent_nav_short_title: Official Investigations
 parent_permalink: /official-investigations/
 ---

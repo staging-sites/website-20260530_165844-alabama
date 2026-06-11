@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /portage-chase/
 nav_short_title: Venus theory
 title: Could Venus explain the Portage chase?
-title_full: Could Venus explain the Portage chase? | Portage Chase
+title_full: Could Venus explain the Portage chase?
 display_title_short: Venus theory
 display_title: Venus theory
 heading_title: Could Venus explain the Portage chase?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:01:48'
-parent_title: Why Did Police Chase a UFO? | Ohio UFOs
+parent_title: Why Did Police Chase a UFO?
 parent_permalink: /portage-chase/
 parent_nav_short_title: Portage Chase
 parent_heading_title: Why Did Police Chase a UFO?
@@ -252,8 +252,7 @@ image: /assets/images/Ohio_d318c1_portage_county_chase_c51786_venus_satellite_ex
 
 Could Venus explain the Portage County police chase? That question sits at the centre of one of Ohio’s most argued UFO cases. In April 1966, Project [Blue Book]({{ 'blue-book-a06dab/' | relative_url }}) concluded that the officers involved had first been misled by a communications satellite and then by the planet Venus, with atmospheric conditions helping create the illusion of movement. The explanation was not unusual in UFO investigations of the era. Venus is bright, low on the horizon at certain times, and frequently misidentified. The controversy comes from the officers’ insistence that they were not merely watching a distant light but following something that seemed low, mobile and responsive to their movements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
-
-<img src="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_venus_satellite_expl_aff151-Illustration-1-light.svg" | relative_url }}" alt="Venus theory illustration 1" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_venus_satellite_expl_aff151-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_venus_satellite_expl_aff151-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_venus_satellite_expl_aff151-Illustration-1-dark.svg" | relative_url }}" alt="Venus theory illustration 1" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_venus_satellite_expl_aff151-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_venus_satellite_expl_aff151-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The debate is therefore less about whether Venus can be mistaken for a UFO in general and more about whether it can account for the specific details reported during the Portage County pursuit. The case remains a useful example of the tension between eyewitness certainty and the possibility of large-scale misperception under difficult viewing conditions.
 
 ## How Blue Book framed the explanation
@@ -265,7 +264,6 @@ This explanation followed a pattern common in Blue Book during the mid-1960s. Re
 From an astronomical perspective, the Venus hypothesis was not inherently unreasonable. Venus is bright enough to attract attention, especially before sunrise. When viewed through haze, temperature layers or thin cloud, it can appear larger, distorted or coloured. Observers in moving vehicles can also experience an illusion in which a distant light seems to pace them because its position changes little against the background landscape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Avvistamento_della_contea_di_Portage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Avvistamento della contea di Portage</span><span class="citation-popover-snippet">Avvistamento della contea di Portage</span></span></span>
 
 Blue Book's argument effectively asked the public to treat the pursuit not as a chase of a nearby craft but as a long sequence of misinterpretations driven by distance, expectation and changing viewing conditions.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XeI5XKkFNtc" title="Ohio Mysteries: Backroads Episode 4. The Portage County, Ohio UFO Chase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XeI5XKkFNtc" target="_blank" rel="noopener noreferrer">Ohio Mysteries: Backroads Episode 4. The Portage County, Ohio UFO Chase</a></p><p class="youtube-embed-meta">Channel: North Coast History and Haunts &middot; Views: 864 &middot; Uploaded: October 2023 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XeI5XKkFNtc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XeI5XKkFNtc">Open on YouTube</a></p></div></div></div>
 
@@ -279,14 +277,12 @@ Another source of resistance was procedural rather than observational. Critics n
 
 For supporters of the police account, the central problem was not simply Venus itself. It was the claim that multiple officers from different jurisdictions independently mistook the same planet for a manoeuvring craft over a prolonged period. That seemed, to them, a larger stretch than accepting that an unidentified object had been present.
 
-
-<img src="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_venus_satellite_expl_aff151-Illustration-2-light.svg" | relative_url }}" alt="Venus theory illustration 2" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_venus_satellite_expl_aff151-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_venus_satellite_expl_aff151-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_venus_satellite_expl_aff151-Illustration-2-dark.svg" | relative_url }}" alt="Venus theory illustration 2" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_venus_satellite_expl_aff151-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_venus_satellite_expl_aff151-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What misperception can explain
 
 The most persuasive part of the sceptical case is not that Venus literally chased police cars but that human perception can create a surprisingly convincing illusion of pursuit.
 
 Several mechanisms are relevant:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -302,7 +298,6 @@ These effects become more significant before dawn, when fatigue, darkness and li
 
 From this perspective, the officers' sincerity is not the issue. The sceptical interpretation does not require fabrication. It requires only that honest observers misjudged what they were seeing while driving long distances under unusual conditions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lLNy9Nax120" title="The Great UFO Chase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lLNy9Nax120" target="_blank" rel="noopener noreferrer">The Great UFO Chase</a></p><p class="youtube-embed-meta">Channel: Ohio Mysteries &middot; Views: 16.6K &middot; Uploaded: March 2022 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lLNy9Nax120" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lLNy9Nax120">Open on YouTube</a></p></div></div></div>
 
 ## Where the Venus theory strains
@@ -317,8 +312,7 @@ There is also the satellite component. Blue Book's explanation depended partly o
 
 Yet the alternative interpretation has its own weaknesses. No clear radar track confirmed an extraordinary craft. No photograph settled the matter. No physical evidence established the presence of an unknown vehicle. The strongest evidence remains testimony, and testimony is precisely where psychological and perceptual explanations are most powerful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Avvistamento_della_contea_di_Portage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Avvistamento della contea di Portage</span><span class="citation-popover-snippet">Avvistamento della contea di Portage</span></span></span>
 
-
-<img src="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_venus_satellite_expl_aff151-Illustration-3-light.svg" | relative_url }}" alt="Venus theory illustration 3" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_venus_satellite_expl_aff151-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_venus_satellite_expl_aff151-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_venus_satellite_expl_aff151-Illustration-3-dark.svg" | relative_url }}" alt="Venus theory illustration 3" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_venus_satellite_expl_aff151-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_venus_satellite_expl_aff151-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the argument still matters in Ohio UFO history
 
 The Venus explanation remains important because it highlights a broader question running through Ohio's UFO history: how much weight should be given to trained witnesses when the physical evidence is weak?
@@ -327,9 +321,7 @@ The Portage County case survives not because the Air Force explanation was unive
 
 More than half a century later, the case is best understood as a dispute over interpretation rather than a settled proof of either extraterrestrial visitation or government debunking. Venus can plausibly explain some aspects of the chase, particularly the appearance of a bright object apparently pacing observers across long distances. The challenge is that the witness accounts contain details that many readers still find difficult to fit neatly into that framework. That tension is exactly why the Portage County pursuit remains one of Ohio's most discussed UFO cases.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CImntZnz45Y" title="The Parajournal: UFO chase from Portage, Ohio, to Conway, Pa." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CImntZnz45Y" target="_blank" rel="noopener noreferrer">The Parajournal: UFO chase from Portage, Ohio, to Conway, Pa.</a></p><p class="youtube-embed-meta">Channel: The Beaver County Times &middot; Views: 9.1K &middot; Uploaded: October 2018 &middot; Length: 4 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CImntZnz45Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CImntZnz45Y">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -417,95 +409,401 @@ More than half a century later, the case is best understood as a dispute over in
   </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-the-portage-chase-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-venus-explain-the-portage-chase-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-the-portage-chase-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-venus-explain-the-portage-chase-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-the-portage-chase-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-venus-explain-the-portage-chase-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-the-portage-chase-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-venus-explain-the-portage-chase-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-the-portage-chase-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-venus-explain-the-portage-chase-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-the-portage-chase-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-venus-explain-the-portage-chase-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-the-portage-chase-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-venus-explain-the-portage-chase-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-the-portage-chase-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-venus-explain-the-portage-chase-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-the-portage-chase-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-venus-explain-the-portage-chase-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-the-portage-chase-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-venus-explain-the-portage-chase-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-the-portage-chase-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-venus-explain-the-portage-chase-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-the-portage-chase-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-venus-explain-the-portage-chase-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-the-portage-chase-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-venus-explain-the-portage-chase-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-the-portage-chase-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-venus-explain-the-portage-chase-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-the-portage-chase-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-venus-explain-the-portage-chase-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-the-portage-chase-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-venus-explain-the-portage-chase-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-venus-explain-the-portage-chase-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-venus-explain-the-portage-chase-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: [https://en.wikipedia.org/wiki/Identification_studies_of_UFOs](https://en.wikipedia.org/wiki/Identification_studies_of_UFOs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Avvistamento della contea di Portage  
-   Link: [https://it.wikipedia.org/wiki/Avvistamento_della_contea_di_Portage](https://it.wikipedia.org/wiki/Avvistamento_della_contea_di_Portage)  
+   Link: <a href="https://it.wikipedia.org/wiki/Avvistamento_della_contea_di_Portage" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Avvistamento_della_contea_di_Portage</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Michigan "swamp gas" UFO reports  
-   Link: [https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports](https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports)  
+   Link: <a href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Michigan &quot;swamp gas&quot; UFO reportsThe Michigan &quot;swamp gas&quot; UFO reports were two mass sightings of unidentified flying objects during the...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: kirkmcd.princeton.edu  
-   Link: [https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_asne_67.pdf](https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_asne_67.pdf)  
+   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_asne_67.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_asne_67.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kirk McDonaldUFOsThe Echo-Venus explanation still stands as the official Bluebook explanation of this case, despite the efforts of NICAP...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: clevescene.com  
    Title: strangers in the night 1485939  
-   Link: [https://www.clevescene.com/news/strangers-in-the-night-1485939/](https://www.clevescene.com/news/strangers-in-the-night-1485939/)  
+   Link: <a href="https://www.clevescene.com/news/strangers-in-the-night-1485939/" target="_blank" rel="noopener noreferrer nofollow">https://www.clevescene.com/news/strangers-in-the-night-1485939/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cleveland SceneStrangers in the Night31 Mar 2004 — In 1966, Ohio cops chased a UFO into Pennsylvania. Then the government got involved, a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/12117541695/posts/10159512831086696/](https://www.facebook.com/groups/12117541695/posts/10159512831086696/)  
+   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10159512831086696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10159512831086696/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Portage County UFO case inspired police chase sceneApparently the Police Chase sequence in the movie was inspired by real-life event: The...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/lamontatlarge/posts/this-man-chased-a-ufo-and-was-never-seen-again/731064093268627/](https://www.facebook.com/lamontatlarge/posts/this-man-chased-a-ufo-and-was-never-seen-again/731064093268627/)  
+   Link: <a href="https://www.facebook.com/lamontatlarge/posts/this-man-chased-a-ufo-and-was-never-seen-again/731064093268627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lamontatlarge/posts/this-man-chased-a-ufo-and-was-never-seen-again/731064093268627/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Man Chased a UFO and Was Never Seen AgainSome UFO buffs have added a fourth kind of encounter to the list for those claimed instance...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: medium.com  
-   Link: [https://medium.com/on-the-trail-of-the-saucers/something-happened-to-dale-68c2ac39d5a8](https://medium.com/on-the-trail-of-the-saucers/something-happened-to-dale-68c2ac39d5a8)  
+   Link: <a href="https://medium.com/on-the-trail-of-the-saucers/something-happened-to-dale-68c2ac39d5a8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/something-happened-to-dale-68c2ac39d5a8</a>  
 
 11. <a id="endnote-11"></a>
    Source: medium.com  
-   Link: [https://medium.com/on-the-trail-of-the-saucers/persistence-is-futile-2af535c0800c](https://medium.com/on-the-trail-of-the-saucers/persistence-is-futile-2af535c0800c)  
+   Link: <a href="https://medium.com/on-the-trail-of-the-saucers/persistence-is-futile-2af535c0800c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/persistence-is-futile-2af535c0800c</a>  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/weirdnewjersey/posts/on-this-day-in-new-jersey-history-january-11-1966-the-first-of-a-series-of-ufo-i/354049144151399/](https://www.facebook.com/weirdnewjersey/posts/on-this-day-in-new-jersey-history-january-11-1966-the-first-of-a-series-of-ufo-i/354049144151399/)  
+   Link: <a href="https://www.facebook.com/weirdnewjersey/posts/on-this-day-in-new-jersey-history-january-11-1966-the-first-of-a-series-of-ufo-i/354049144151399/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/weirdnewjersey/posts/on-this-day-in-new-jersey-history-january-11-1966-the-first-of-a-series-of-ufo-i/354049144151399/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 17, 1966 Ravenna, Ohio Brad... Major Hector Quintanilla, Jr., USAFProject Blue Book, takes Officer...Read more...</p></details>
    Published: April 17, 1966  
 
 13. <a id="endnote-13"></a>
    Source: documents2.theblackvault.com  
    Title: ProjectBlueBook April171966 Ravenna Mantua Ohio  
-   Link: [https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-April171966-Ravenna-Mantua-Ohio.pdf](https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-April171966-Ravenna-Mantua-Ohio.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-April171966-Ravenna-Mantua-Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-April171966-Ravenna-Mantua-Ohio.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>p,.-v-cFf,, 7-r&#x27;&gt;&#x27;· --/f·l·f&#x27;Mr. Tom Schley, B~aver County Times, called 0815 hours 18 Apr 66 requesting info on UFO. He mentioned tha...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/ufos-an-air-force-dilemma/quintanilla_djvu.txt](https://archive.org/stream/ufos-an-air-force-dilemma/quintanilla_djvu.txt)  
+   Link: <a href="https://archive.org/stream/ufos-an-air-force-dilemma/quintanilla_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ufos-an-air-force-dilemma/quintanilla_djvu.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>o Dear Major Quintanilla, I would like to offer a plausible...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
    Title: in 1966 3 police officers chased a ufo for 86  
-   Link: [https://www.reddit.com/r/nonmurdermysteries/comments/pg6wss/in_1966_3_police_officers_chased_a_ufo_for_86/](https://www.reddit.com/r/nonmurdermysteries/comments/pg6wss/in_1966_3_police_officers_chased_a_ufo_for_86/)  
+   Link: <a href="https://www.reddit.com/r/nonmurdermysteries/comments/pg6wss/in_1966_3_police_officers_chased_a_ufo_for_86/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nonmurdermysteries/comments/pg6wss/in_1966_3_police_officers_chased_a_ufo_for_86/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1966, 3 police officers chased a UFO for 86 miles, across...A creepy unsolved and true story of a police officer who chased a ufo for...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: medium.com  
-   Link: [https://medium.com/on-the-trail-of-the-saucers/the-ufo-chase-you-saw-in-close-encounters-649637923267](https://medium.com/on-the-trail-of-the-saucers/the-ufo-chase-you-saw-in-close-encounters-649637923267)  
+   Link: <a href="https://medium.com/on-the-trail-of-the-saucers/the-ufo-chase-you-saw-in-close-encounters-649637923267" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/the-ufo-chase-you-saw-in-close-encounters-649637923267</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>saw an Echo communications satellite crossing from...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: thislocallife.com  
-   Link: [https://www.thislocallife.com/5-ufo-cases-in-ohio](https://www.thislocallife.com/5-ufo-cases-in-ohio)  
+   Link: <a href="https://www.thislocallife.com/5-ufo-cases-in-ohio" target="_blank" rel="noopener noreferrer nofollow">https://www.thislocallife.com/5-ufo-cases-in-ohio</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ist who assisted in the investigation at Wright...Read more...</p></details>

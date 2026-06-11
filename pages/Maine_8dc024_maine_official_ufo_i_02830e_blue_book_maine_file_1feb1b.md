@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /official-investigations/
 nav_short_title: Blue Book
 title: What Blue Book Made of Maine UFO Reports
-title_full: What Blue Book Made of Maine UFO Reports | Official Investigations
+title_full: What Blue Book Made of Maine UFO Reports
 display_title_short: Blue Book
 display_title: Blue Book
 heading_title: What Blue Book Made of Maine UFO Reports
@@ -200,15 +200,15 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:34:07'
-parent_title: How Authorities Have Investigated Maine's UFOs | MaineUFOs
+parent_title: How Authorities Have Investigated Maine's UFOs
 parent_permalink: /official-investigations/
 parent_nav_short_title: Official Investigations
 parent_heading_title: How Authorities Have Investigated Maine's UFOs
 ancestor_links:
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: Maine_8dc024_maine_official_ufo_i_02830e
   title: Official Investigations | What Makes Maine a Hotspot for UFO Sightings?
   permalink: /official-investigations/
@@ -216,9 +216,9 @@ ancestor_links:
   heading_title: How Authorities Have Investigated Maine's UFOs
 breadcrumb_links:
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: Maine_8dc024_maine_official_ufo_i_02830e
   title: Official Investigations | What Makes Maine a Hotspot for UFO Sightings?
   permalink: /official-investigations/
@@ -250,10 +250,9 @@ image: /assets/images/Maine_8dc024_maine_official_ufo_i_02830e_blue_book_maine_f
 
 ## Introduction
 
-For [Maine]({{ 'what-makes-maine-a-hotspot-for-ufo/' | relative_url }})’s historical UFO record, Project Blue Book remains the most important official archive. The U.S. Air Force programme collected reports from across the United States between 1952 and 1969, including sightings from Maine towns, military installations and rural communities. Most Maine cases never became famous, but they are useful because they show how official investigators actually worked: some reports were explained as aircraft, astronomical objects or other ordinary causes; some were left unresolved because the evidence was too weak; and a smaller number received the formal label “unknown”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — From 1947 to 1969, a total of 12, 618 sig...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
+For Maine’s historical UFO record, Project Blue Book remains the most important official archive. The U.S. Air Force programme collected reports from across the United States between 1952 and 1969, including sightings from Maine towns, military installations and rural communities. Most Maine cases never became famous, but they are useful because they show how official investigators actually worked: some reports were explained as aircraft, astronomical objects or other ordinary causes; some were left unresolved because the evidence was too weak; and a smaller number received the formal label “unknown”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — From 1947 to 1969, a total of 12, 618 sig...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
 
-
-<img src="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_blue_book_maine_file_1feb1b-Illustration-1-light.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_blue_book_maine_file_1feb1b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_blue_book_maine_file_1feb1b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_blue_book_maine_file_1feb1b-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_blue_book_maine_file_1feb1b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_blue_book_maine_file_1feb1b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters. In popular retellings, an “unidentified” case is often treated as a mystery solved in favour of something extraordinary. Blue Book’s files suggest a more complicated reality. Many Maine reports sat in a grey area where witnesses appeared sincere but investigators lacked enough information to reach a confident conclusion. The Maine record is therefore less a catalogue of spectacular encounters than a case study in how officials separated weak evidence, plausible explanations and genuinely unresolved reports.
 
 ## How Blue Book Classified Maine Reports
@@ -261,7 +260,6 @@ That distinction matters. In popular retellings, an “unidentified” case is o
 Blue Book was created to determine whether reported UFOs posed a security threat and whether they could be explained through known causes. By the end of the programme, the Air Force stated that most reports were misidentifications of conventional objects or natural phenomena, while a minority remained unexplained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — From 1947 to 1969, a total of 12, 618 sig...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
 
 The classification system is important when reading Maine files because three outcomes often get confused:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -275,8 +273,7 @@ Blue Book's statistical studies treated “insufficient information” and “un
 
 For Maine, this distinction explains why some often-cited sightings appear less dramatic in the original files than in later UFO literature.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jjinS2lZAsY" title="Project Blue Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer">Project Blue Book</a></p><p class="youtube-embed-meta">Channel: Daily Dose Documentary &middot; Views: 391 &middot; Uploaded: October 2021 &middot; Length: 3 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jjinS2lZAsY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fb7T1v_VHpE" title="The Unknowns: Mystifying UFO Cases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fb7T1v_VHpE" target="_blank" rel="noopener noreferrer">The Unknowns: Mystifying UFO Cases</a></p><p class="youtube-embed-meta">Channel: LEMMiNO &middot; Views: 13.0M &middot; Uploaded: November 2017 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fb7T1v_VHpE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fb7T1v_VHpE">Open on YouTube</a></p></div></div></div>
 
 ## Old Town 1953 and the Meaning of Insufficient Data
 
@@ -298,8 +295,7 @@ The Augusta report became one of Maine's better-known Blue Book entries because 
 
 The distinction may sound subtle, but it is crucial. In Blue Book's own framework, an unknown case was not evidence of extraterrestrial visitation. It was evidence that the available data failed to support a conventional identification. The Augusta file therefore occupies a middle ground between outright explanation and sensational interpretation.
 
-
-<img src="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_blue_book_maine_file_1feb1b-Illustration-2-light.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_blue_book_maine_file_1feb1b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_blue_book_maine_file_1feb1b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_blue_book_maine_file_1feb1b-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_blue_book_maine_file_1feb1b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_blue_book_maine_file_1feb1b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Mundane Resolutions Matter in the Files
 
 The most historically valuable aspect of Maine's Blue Book record may be the number of cases that received ordinary explanations.
@@ -319,9 +315,7 @@ Blue Book's overall statistics reinforce this point. The majority of cases natio
 
 In the Maine files, mundane resolutions are not merely administrative footnotes. They provide context for judging the unresolved cases. If investigators repeatedly found that unusual lights were often aircraft, astronomical objects or balloons, then any remaining unknown case had to be assessed against that background rather than in isolation.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fb7T1v_VHpE" title="The Unknowns: Mystifying UFO Cases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fb7T1v_VHpE" target="_blank" rel="noopener noreferrer">The Unknowns: Mystifying UFO Cases</a></p><p class="youtube-embed-meta">Channel: LEMMiNO &middot; Views: 13.0M &middot; Uploaded: November 2017 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fb7T1v_VHpE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fb7T1v_VHpE">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_blue_book_maine_file_1feb1b-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_blue_book_maine_file_1feb1b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_blue_book_maine_file_1feb1b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Maine Files Reveal About Blue Book Itself
 
 The Maine records also expose strengths and weaknesses in Project Blue Book's methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — From 1947 to 1969, a total of 12, 618 sig...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
@@ -332,9 +326,6 @@ On the other hand, Blue Book has long been criticised by both sceptics and UFO r
 
 Maine's surviving files fit that broader pattern. They are useful records, but they are not perfect records. Some reports are detailed; others are fragmentary. Some contain enough information to evaluate; others leave modern readers wishing for witness interviews, photographs or radar data that no longer exist.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OoKm417zKOA" title="10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer">10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs</a></p><p class="youtube-embed-meta">Channel: TopTenz &middot; Views: 271.1K &middot; Uploaded: February 2019 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OoKm417zKOA">Open on YouTube</a></p></div></div></div>
-
 ## Why the Maine Blue Book Archive Still Matters
 
 The value of Maine's Blue Book files lies less in proving extraordinary claims than in preserving a documented trail of official responses to unusual reports.
@@ -343,8 +334,7 @@ The Old Town case demonstrates how investigators handled sightings that lacked s
 
 For anyone examining Maine's UFO history, that distinction is essential. The Blue Book archive does not provide proof of alien craft visiting the state. What it does provide is a rare official record of how government investigators tried to sort ambiguous observations into categories ranging from explainable to unresolved. In a field often dominated by rumours and retellings, those surviving verdicts remain one of the clearest windows into how historical UFO reports in Maine were actually assessed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — From 1947 to 1969, a total of 12, 618 sig...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Comprehensive Catalog of 1600 Project Blue Book UFO...2 Oct 2009 — The main purpose of this catalog at present is to help identify and f...</span></span></span>
 
-
-<img src="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_blue_book_maine_file_1feb1b-Illustration-3-light.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_blue_book_maine_file_1feb1b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_blue_book_maine_file_1feb1b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OoKm417zKOA" title="10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer">10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs</a></p><p class="youtube-embed-meta">Channel: TopTenz &middot; Views: 271.1K &middot; Uploaded: February 2019 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OoKm417zKOA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -432,7 +422,7 @@ For anyone examining Maine's UFO history, that distinction is essential. The Blu
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -442,111 +432,36 @@ For anyone examining Maine's UFO history, that distinction is essential. The Blu
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/MykAAOSwkRVk5Rd3/s-l225.jpg" alt="Listing image for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,15 +469,15 @@ For anyone examining Maine's UFO history, that distinction is essential. The Blu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55"><img src="https://i.ebayimg.com/images/g/2G0AAOSwjIpgTIcl/s-l225.jpg" alt="Listing image for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -570,15 +485,15 @@ For anyone examining Maine's UFO history, that distinction is essential. The Blu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/HvAAAOSw08Vk5SIm/s-l225.jpg" alt="Listing image for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -586,15 +501,15 @@ For anyone examining Maine's UFO history, that distinction is essential. The Blu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed."><img src="https://i.ebayimg.com/images/g/GWYAAeSwgidpwAEt/s-l225.jpg" alt="Listing image for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -602,7 +517,7 @@ For anyone examining Maine's UFO history, that distinction is essential. The Blu
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-b982c7-what-blue-book-made-of-maine-ufo-reports-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-blue-book-made-of-maine-ufo-reports-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -679,17 +594,31 @@ For anyone examining Maine's UFO history, that distinction is essential. The Blu
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -702,42 +631,73 @@ For anyone examining Maine's UFO history, that distinction is essential. The Blu
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -752,12 +712,17 @@ For anyone examining Maine's UFO history, that distinction is essential. The Blu
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -767,46 +732,46 @@ For anyone examining Maine's UFO history, that distinction is essential. The Blu
 
 1. <a id="endnote-1"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — From 1947 to 1969, a total of 12, 618 sig...</p></details>
    Published: August 15, 2016  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: [https://en.wikipedia.org/wiki/Identification_studies_of_UFOs](https://en.wikipedia.org/wiki/Identification_studies_of_UFOs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 4. <a id="endnote-4"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehensive Catalog of 1600 Project Blue Book UFO...2 Oct 2009 — The main purpose of this catalog at present is to help identify and f...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: origins.osu.edu  
-   Link: [https://origins.osu.edu/watch/project-blue-book](https://origins.osu.edu/watch/project-blue-book)  
+   Link: <a href="https://origins.osu.edu/watch/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/watch/project-blue-book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book: America&#x27;s Obsession with UFOs | Origins3 Sept 2025 — Headquartered at Wright Patterson Air Force Base near Dayton, OH, Project...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: geekchocolate.co.uk  
    Title: project blue book  
-   Link: [https://geekchocolate.co.uk/project-blue-book/](https://geekchocolate.co.uk/project-blue-book/)  
+   Link: <a href="https://geekchocolate.co.uk/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://geekchocolate.co.uk/project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Jan 2019 — Established to collate and analyse data on unidentified flying objects and determine if they were a threat to the national s...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the United States&#x27; longest-running Air Force pro...</p></details>
    Published: May 2026  
 
@@ -814,59 +779,59 @@ For anyone examining Maine's UFO history, that distinction is essential. The Blu
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/shutupimtalking.net/posts/project-blue-book-the-american-governments-failed-cold-war-era-effort-to-debunk-/1295025952669343/](https://www.facebook.com/shutupimtalking.net/posts/project-blue-book-the-american-governments-failed-cold-war-era-effort-to-debunk-/1295025952669343/)  
+   Link: <a href="https://www.facebook.com/shutupimtalking.net/posts/project-blue-book-the-american-governments-failed-cold-war-era-effort-to-debunk-/1295025952669343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/shutupimtalking.net/posts/project-blue-book-the-american-governments-failed-cold-war-era-effort-to-debunk-/1295025952669343/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The American Government&#x27;s Failed Cold War-EraProject Blue Book had two goals: To determine if UFOs were a threat to national security, an...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/news.now.go/posts/long-discussed-uap-related-files-including-unidentified-flying-objects-and-flyin/1353704246860361/](https://www.facebook.com/news.now.go/posts/long-discussed-uap-related-files-including-unidentified-flying-objects-and-flyin/1353704246860361/)  
+   Link: <a href="https://www.facebook.com/news.now.go/posts/long-discussed-uap-related-files-including-unidentified-flying-objects-and-flyin/1353704246860361/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/news.now.go/posts/long-discussed-uap-related-files-including-unidentified-flying-objects-and-flyin/1353704246860361/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ilitary pilots and sensors, but concluded most could be attributed...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: Project Blue Book was sent to investigate  
-   Link: [https://www.facebook.com/HISTORY/posts/project-blue-book-was-sent-to-investigate-well-uncover-this-mystery-new-episodes/1211857123840595/](https://www.facebook.com/HISTORY/posts/project-blue-book-was-sent-to-investigate-well-uncover-this-mystery-new-episodes/1211857123840595/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/project-blue-book-was-sent-to-investigate-well-uncover-this-mystery-new-episodes/1211857123840595/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/project-blue-book-was-sent-to-investigate-well-uncover-this-mystery-new-episodes/1211857123840595/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We&#x27;ll uncover...... Blue Book looked into. Of those, 701 cases remained “unidentified” even after investigation. ⚠️ What Blue Book Concl...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: vault.fbi.gov  
    Title: Project Blue Book (UFO)  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO)Project Blue Book Originally Project Blue Book was the Air Force name for a project that investigated UFO reports between...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: centurymaine.blogspot.com  
    Title: project bluebook highlightsdocumented  
-   Link: [https://centurymaine.blogspot.com/2015/01/project-bluebook-highlightsdocumented.html](https://centurymaine.blogspot.com/2015/01/project-bluebook-highlightsdocumented.html)  
+   Link: <a href="https://centurymaine.blogspot.com/2015/01/project-bluebook-highlightsdocumented.html" target="_blank" rel="noopener noreferrer nofollow">https://centurymaine.blogspot.com/2015/01/project-bluebook-highlightsdocumented.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Bluebook Highlights/Documented UFO Sightings22 Jan 2015 — A guy named John Greenewald spent years sending hundreds of FOIA reques...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: osi.af.mil  
    Title: project blue book part 1 ufo reports  
-   Link: [https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/](https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/)  
+   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book Part 1 (UFO Reports)6 Aug 2020 — In 1951, UFO investigations continued under the newly named Project Blue Book. The parameters...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: iheart.com  
    Title: How Project Blue Book Worked, Pt II  
-   Link: [https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/](https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/)  
+   Link: <a href="https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stuff You Should KnowA rash of UFO sightings kicks off a new spike in America&#x27;s UFO fever and new headaches for the Air Force, which cont...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR11 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf](https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveKent Hill, Maine. 7 March 1953. I. DESCRIPTION... Insufficient Data. Insufficient Data. Probably Balloon. Was A...</p></details>
    Published: March 1953  
 
 17. <a id="endnote-17"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR1 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf](https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United. States Air Force inve...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: fold3.com  
    Title: U S, Project Blue Book  
-   Link: [https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969](https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969)  
+   Link: <a href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US, Project Blue Book - UFO Investigations, 1947-196926 Feb 2007 — NARA T1206. Records and case files relating to investigations of sight...</p></details>

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /montana-8d274f-mariana-film-eb114c-index/
 description: Focused pages that expand on Mariana Film.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Montana_8d274f_mariana_film_eb114c
-parent_title: Mariana Film | Why Montana Became a UFO Landmark
+parent_title: Mariana Film
 parent_nav_short_title: Mariana Film
 parent_permalink: /mariana-film/
 ---

@@ -6,25 +6,25 @@ child_basenames: []
 sibling_basenames:
 - Mississippi_cba267_keesler_blue_book_fa9dc5_keesler_1952_cylinde_300309
 tags:
-- mississippi
+- mississippi-cba-267
 - keesler-records
 - radar-target
 keywords:
-- mississippi
+- mississippi-cba-267
 - keesler-records
 - radar-target
-affiliate_category: mississippi
+affiliate_category: mississippi-cba-267
 show_ads: true
 description: 'The July 1952 radar case turns on a hard question: did the scope show a strange craft, or a misleading radar return?'
 hero_summary: 'The July 1952 radar case turns on a hard question: did the scope show a strange craft, or a misleading radar return?'
 layout: default
 permalink: /radar-target-edcfc2/
 sidebar_expanded_urls:
-- /mississippi/
+- /mississippi-cba-267/
 - /keesler-records/
 nav_short_title: Radar Target
 title: Was Keesler's radar UFO really an angel?
-title_full: Was Keesler's radar UFO really an angel? | Keesler Records
+title_full: Was Keesler's radar UFO really an angel?
 display_title_short: Radar Target
 display_title: Radar Target
 heading_title: Was Keesler's radar UFO really an angel?
@@ -200,27 +200,27 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:35:12'
-parent_title: What Did the Air Force Record in Mississippi? | Mississippi UFOs
+parent_title: What Did the Air Force Record in Mississippi?
 parent_permalink: /keesler-records/
 parent_nav_short_title: Keesler Records
 parent_heading_title: What Did the Air Force Record in Mississippi?
 ancestor_links:
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Mississippi_cba267_keesler_blue_book_fa9dc5
-  title: Keesler Records | Mississippi
+  title: Keesler Records | Mississippi cba 267
   permalink: /keesler-records/
   short_title: Keesler Records
   heading_title: What Did the Air Force Record in Mississippi?
 breadcrumb_links:
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Mississippi_cba267_keesler_blue_book_fa9dc5
-  title: Keesler Records | Mississippi
+  title: Keesler Records | Mississippi cba 267
   permalink: /keesler-records/
   short_title: Keesler Records
   heading_title: What Did the Air Force Record in Mississippi?
@@ -232,7 +232,7 @@ sibling_links:
   heading_title: What did Keesler witnesses see in 1952?
 up_link:
   basename: Mississippi_cba267_keesler_blue_book_fa9dc5
-  title: Keesler Records | Mississippi
+  title: Keesler Records | Mississippi cba 267
   permalink: /keesler-records/
   short_title: Keesler Records
   heading_title: What Did the Air Force Record in Mississippi?
@@ -250,14 +250,10 @@ image: /assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5_keesler_radar_
 
 ## Introduction
 
-The July 1952 Keesler radar case sits in an awkward but important place in [Mississippi]({{ 'mississippi/' | relative_url }}) UFO history. It is not remembered because of dramatic eyewitness testimony or claims of a landed craft. Instead, it revolves around a technical question that has followed radar-based UFO reports since the early Cold War: when operators saw an unusual target on a scope, were they tracking a real object in the sky or a misleading radar return?
+The July 1952 Keesler radar case sits in an awkward but important place in Mississippi UFO history. It is not remembered because of dramatic eyewitness testimony or claims of a landed craft. Instead, it revolves around a technical question that has followed radar-based UFO reports since the early Cold War: when operators saw an unusual target on a scope, were they tracking a real object in the sky or a misleading radar return?
 
-
-<img src="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5_keesler_radar_angel_32435d-Illustration-1-light.svg" | relative_url }}" alt="Radar Target illustration 1" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5_keesler_radar_angel_32435d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5_keesler_radar_angel_32435d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5_keesler_radar_angel_32435d-Illustration-1-dark.svg" | relative_url }}" alt="Radar Target illustration 1" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5_keesler_radar_angel_32435d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5_keesler_radar_angel_32435d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The Keesler report emerged during the same extraordinary summer that produced some of the most famous American UFO incidents, including the Washington radar sightings that pushed Project Blue Book into the national headlines. What makes the Mississippi case interesting is that it links local Air Force radar activity to a wider debate that still divides researchers. The central explanation offered by sceptics was not an aircraft or a hoax but a radar “angel” — a false or misleading target produced by atmospheric conditions or other radar effects. That explanation is technically plausible, yet it also highlights how difficult it could be for even trained military personnel to separate genuine targets from unusual radar behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The project, headquartered at Wright-Patterson Air Force</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">project blue book 50th anniversary</span><span class="citation-popover-snippet">National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — Project Blue Book, from March 1952 to Decem...</span><span class="citation-popover-meta">Published: March 1952</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xu4oTBBI5UE" title="Project Blue Book: America&#x27;s Obsession with UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer">Project Blue Book: America&#x27;s Obsession with UFOs</a></p><p class="youtube-embed-meta">Channel: Origins OSU &middot; Views: 1.6K &middot; Uploaded: September 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xu4oTBBI5UE">Open on YouTube</a></p></div></div></div>
 
 ## The radar track reported on 30 July 1952
 
@@ -266,9 +262,6 @@ The surviving references to the Keesler incident place it in late July 1952, dur
 Unlike many visual UFO stories, the significance of the Keesler case comes from instrument data rather than dramatic descriptions of a strange craft. Accounts associated with the report describe radar operators detecting a target that appeared unusual enough to be formally noted. The fact that the report entered the broader Project Blue Book record is one reason it continues to appear in discussions of Mississippi's military-linked UFO history. Blue Book was specifically interested in reports involving radar because radar returns could, at least in theory, provide a more objective record than eyewitness memory alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Radar_angels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Radar angels</span><span class="citation-popover-snippet">Radar angels</span></span></span>
 
 Yet radar was never treated as infallible. By 1952 the Air Force already knew that radar screens could display targets that did not correspond to conventional aircraft. Operators had long encountered unexplained blips, clutter and anomalous returns. The challenge was determining whether a particular target represented a real airborne object, weather effects, birds, atmospheric layers or something else entirely. That uncertainty sits at the centre of the Keesler case.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/azW33jxaHPs" title="Images of UAPs: Objects Discovered Same Day UFOs Flew Over D.C. in 1952 with Beatriz Villarroel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=azW33jxaHPs" target="_blank" rel="noopener noreferrer">Images of UAPs: Objects Discovered Same Day UFOs Flew Over D.C. in 1952 with Beatriz Villarroel</a></p><p class="youtube-embed-meta">Channel: Event Horizon &middot; Views: 186.3K &middot; Uploaded: December 2023 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=azW33jxaHPs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=azW33jxaHPs">Open on YouTube</a></p></div></div></div>
 
 ## Temperature inversion, angels and anomalous returns
 
@@ -282,8 +275,7 @@ The inversion explanation became famous because Air Force officials used it to e
 
 That does not mean the explanation is automatically correct. One of the recurring complaints from radar operators involved in famous UFO cases was that they believed investigators sometimes invoked temperature inversions too casually. Several radar witnesses in other 1952 cases argued that the targets they observed behaved differently from ordinary atmospheric clutter and appeared on multiple systems. Those disagreements became a lasting part of UFO history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
 
-
-<img src="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5_keesler_radar_angel_32435d-Illustration-2-light.svg" | relative_url }}" alt="Radar Target illustration 2" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5_keesler_radar_angel_32435d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5_keesler_radar_angel_32435d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5_keesler_radar_angel_32435d-Illustration-2-dark.svg" | relative_url }}" alt="Radar Target illustration 2" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5_keesler_radar_angel_32435d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5_keesler_radar_angel_32435d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the angel explanation was attractive to investigators
 
 From an Air Force perspective, the angel explanation solved several problems at once.
@@ -296,8 +288,7 @@ Third, weather-based explanations were especially relevant for radar cases becau
 
 For investigators trying to classify hundreds of reports during the intense UFO wave of 1952, that was a practical and scientifically grounded explanation.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nbC6dFb35Jo" title="Former Military Radar Technician Reacts to Newly Declassified UAP Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nbC6dFb35Jo" target="_blank" rel="noopener noreferrer">Former Military Radar Technician Reacts to Newly Declassified UAP Evidence</a></p><p class="youtube-embed-meta">Channel: Wes O&#x27;Donnell &middot; Views: 11.6K &middot; Uploaded: May 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nbC6dFb35Jo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nbC6dFb35Jo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/azW33jxaHPs" title="Images of UAPs: Objects Discovered Same Day UFOs Flew Over D.C. in 1952 with Beatriz Villarroel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=azW33jxaHPs" target="_blank" rel="noopener noreferrer">Images of UAPs: Objects Discovered Same Day UFOs Flew Over D.C. in 1952 with Beatriz Villarroel</a></p><p class="youtube-embed-meta">Channel: Event Horizon &middot; Views: 186.3K &middot; Uploaded: December 2023 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=azW33jxaHPs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=azW33jxaHPs">Open on YouTube</a></p></div></div></div>
 
 ## Why the case remains interesting but not proof
 
@@ -311,8 +302,7 @@ At the same time, the case does not provide strong evidence for an extraordinary
 
 In that sense, the Keesler radar target is most valuable as a window into how Cold War radar systems, military reporting procedures and UFO investigations intersected. The enduring question is not whether Mississippi produced evidence of an alien craft in July 1952. It is whether the radar operators were seeing a genuine airborne target or one of the atmospheric and electronic illusions that radar technology could sometimes create. More than seventy years later, that question remains easier to ask than to answer.
 
-
-<img src="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5_keesler_radar_angel_32435d-Illustration-3-light.svg" | relative_url }}" alt="Radar Target illustration 3" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5_keesler_radar_angel_32435d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5_keesler_radar_angel_32435d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5_keesler_radar_angel_32435d-Illustration-3-dark.svg" | relative_url }}" alt="Radar Target illustration 3" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5_keesler_radar_angel_32435d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_keesler_blue_book_fa9dc5_keesler_radar_angel_32435d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -400,7 +390,7 @@ In that sense, the Keesler radar target is most valuable as a window into how Co
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -410,111 +400,36 @@ In that sense, the Keesler radar target is most valuable as a window into how Co
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/BEsAAOSw-UdmSmNz/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,15 +437,15 @@ In that sense, the Keesler radar target is most valuable as a window into how Co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/kR8AAOSwouBmSmNQ/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,15 +453,15 @@ In that sense, the Keesler radar target is most valuable as a window into how Co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART"><img src="https://i.ebayimg.com/images/g/nA4AAeSwTU5p~MFM/s-l225.jpg" alt="Listing image for ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL ABSTRACT 12x16 ACRYLIC PAINTING BLUE SKY UFO SURREAL BEDROOM WALL ART</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,15 +469,15 @@ In that sense, the Keesler radar target is most valuable as a window into how Co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/sLkAAOSwaNVmMAOe/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -570,7 +485,7 @@ In that sense, the Keesler radar target is most valuable as a window into how Co
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-target-edcfc2-was-keesler-s-radar-ufo-really-an-angel-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-keesler-s-radar-ufo-really-an-angel-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -647,17 +562,31 @@ In that sense, the Keesler radar target is most valuable as a window into how Co
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -670,42 +599,73 @@ In that sense, the Keesler radar target is most valuable as a window into how Co
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -720,12 +680,17 @@ In that sense, the Keesler radar target is most valuable as a window into how Co
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -736,123 +701,123 @@ In that sense, the Keesler radar target is most valuable as a window into how Co
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — Project Blue Book, from March 1952 to Decem...</p></details>
    Published: March 1952  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Radar angels  
-   Link: [https://en.wikipedia.org/wiki/Radar_angels](https://en.wikipedia.org/wiki/Radar_angels)  
+   Link: <a href="https://en.wikipedia.org/wiki/Radar_angels" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Radar_angels</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 4. <a id="endnote-4"></a>
    Source: wral.com  
    Title: a radar blip a flash of light how ufos exploded into public view  
-   Link: [https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17745227/](https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17745227/)  
+   Link: <a href="https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17745227/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17745227/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WRAL NewsA Radar Blip, a Flash of Light: How UFOs &#x27;Exploded&#x27; Into...3 Aug 2018 — One theory promoted by the Air Force was that a layer o...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: 1952 Washington, D.C. UFO incident  
-   Link: [https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident](https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
 
 6. <a id="endnote-6"></a>
    Source: science.howstuffworks.com  
    Title: ufo government5  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/ufo-government5.htm](https://science.howstuffworks.com/space/aliens-ufos/ufo-government5.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government5.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-government5.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1952 Washington D.C. UFO IncidentRoy James&#x27; off-the-cuff suggestion that temperature inversions had caused the radar blips. James, a UFO...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: wral.com  
-   Link: [https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17744754/](https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17744754/)  
+   Link: <a href="https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17744754/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17744754/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Radar Blip, a Flash of Light: How UFOs &#x27;Exploded&#x27; Into...3 Aug 2018 — In the spring of 1952, though, numerous mysterious sightings had...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: af.mil  
    Title: The project, headquartered at Wright-Patterson Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: wearethemighty.com  
    Title: 1952 washington ufo incident  
-   Link: [https://www.wearethemighty.com/history/1952-washington-ufo-incident/](https://www.wearethemighty.com/history/1952-washington-ufo-incident/)  
+   Link: <a href="https://www.wearethemighty.com/history/1952-washington-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.wearethemighty.com/history/1952-washington-ufo-incident/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>We Are The MightyThe 1952 UFO Washington sighting that upended decades...28 Dec 2025 — He attributed the radar sightings to a temperatur...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
    Title: For 17 years, the U.S  
-   Link: [https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/](https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/)  
+   Link: <a href="https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force chased lights in the sky....From 1952 to 1969, under a classified program called Project Blue Book, the military investigated...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force...Read more...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: kinofenster.de  
-   Link: [https://www.kinofenster.de/48566/project-blue-book](https://www.kinofenster.de/48566/project-blue-book)  
+   Link: <a href="https://www.kinofenster.de/48566/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.kinofenster.de/48566/project-blue-book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookThe aim is to investigate apparently inexplicable phenomena whereby the witness or witnesses are convinced that they saw...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sacred-texts.com  
    Title: The Report on Unidentified Flying Objects: Chapter Ten  
-   Link: [https://sacred-texts.com/ufo/rufo/rufo12.htm](https://sacred-texts.com/ufo/rufo/rufo12.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo12.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo12.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>it was within about 30 miles of the station, the radar operator switched his set to a shorter range and lost both the F-94 and the uniden...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: enigmalabs.io  
    Title: Washington D.C. Incident At 11:40 p.m. on Saturday,  
-   Link: [https://enigmalabs.io/library/ca7fafd2-c59e-4b29-a1ec-5dbb92d02fd8](https://enigmalabs.io/library/ca7fafd2-c59e-4b29-a1ec-5dbb92d02fd8)  
+   Link: <a href="https://enigmalabs.io/library/ca7fafd2-c59e-4b29-a1ec-5dbb92d02fd8" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/ca7fafd2-c59e-4b29-a1ec-5dbb92d02fd8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Washington D.C. IncidentAt 11:40 p.m. on Saturday, July 19, 1952, an air traffic controller at Washington National Airport spotted seven...</p></details>
    Published: July 19, 1952  
 
 15. <a id="endnote-15"></a>
    Source: cia.gov  
    Title: cia rdp81r00560r000100010001 0  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...The celebrated Washington radar sightings of July 1952 occurred during a period when typical...</p></details>
    Published: July 1952  
 
 16. <a id="endnote-16"></a>
    Source: iheart.com  
    Title: How Project Blue Book Worked, Pt II  
-   Link: [https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/](https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/)  
+   Link: <a href="https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stuff You Should KnowPolice Tinker Air Force Base and a meteorologist in Oklahoma who was using weather radar at the time, all independen...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/](https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>shocking 1955 sighting in Kentucky pushed the U.S. Air...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: crystalinks.com  
-   Link: [https://www.crystalinks.com/1952WashintonUFOIncident.html](https://www.crystalinks.com/1952WashintonUFOIncident.html)  
+   Link: <a href="https://www.crystalinks.com/1952WashintonUFOIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://www.crystalinks.com/1952WashintonUFOIncident.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1952 Washington D.C. UFO IncidentJames, told the President that the sightings might have been caused by temperature inversion, in which a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified  
-   Link: [https://www.youtube.com/watch?v=UKzI3uu_oTQ](https://www.youtube.com/watch?v=UKzI3uu_oTQ)  
+   Link: <a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UKzI3uu_oTQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY&#x27;s upcoming new drama series &#x27;Project Blue Book&#x27; is based on the true, top-secret investigations into Unidentified Flying Objects...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Former Military Radar Technician Reacts to Newly Declassified UAP Evidence  
-   Link: [https://www.youtube.com/watch?v=nbC6dFb35Jo](https://www.youtube.com/watch?v=nbC6dFb35Jo)  
+   Link: <a href="https://www.youtube.com/watch?v=nbC6dFb35Jo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nbC6dFb35Jo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Interview USAF (1966)...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Project Blue Book: America's Obsession with UFOs  
-   Link: [https://www.youtube.com/watch?v=Xu4oTBBI5UE](https://www.youtube.com/watch?v=Xu4oTBBI5UE)  
+   Link: <a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Military Radar Technician Reacts to Newly Declassified UAP Evidence...</p></details>

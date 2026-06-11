@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /investigations/
 nav_short_title: Eglin case
 title: Why did the Eglin UAP case fade?
-title_full: Why did the Eglin UAP case fade? | Investigations
+title_full: Why did the Eglin UAP case fade?
 display_title_short: Eglin case
 display_title: Eglin case
 heading_title: Why did the Eglin UAP case fade?
@@ -200,15 +200,15 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:12:26'
-parent_title: 'Investigating Florida UFO Sightings: Fact vs Hoax | FloridaUFOs'
+parent_title: 'Investigating Florida UFO Sightings: Fact vs Hoax'
 parent_permalink: /investigations/
 parent_nav_short_title: Investigations
 parent_heading_title: 'Investigating Florida UFO Sightings: Fact vs Hoax'
 ancestor_links:
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Florida_30c2d0_florida_ufo_investig_8fa137
   title: Investigations | What Makes Florida a Hotspot for UFO Sightings?
   permalink: /investigations/
@@ -216,9 +216,9 @@ ancestor_links:
   heading_title: 'Investigating Florida UFO Sightings: Fact vs Hoax'
 breadcrumb_links:
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Florida_30c2d0_florida_ufo_investig_8fa137
   title: Investigations | What Makes Florida a Hotspot for UFO Sightings?
   permalink: /investigations/
@@ -250,26 +250,24 @@ image: /assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_eglin_uap_ballo
 
 ## Introduction
 
-The Eglin pilot UAP case became one of [Florida]({{ 'what-makes-florida-a-hotspot-for-ufo/' | relative_url }})’s most discussed modern military UFO incidents because it appeared to contain several elements that believers often treat as strong evidence: a trained pilot, airborne sensors, a military training range, multiple objects on radar, and reported equipment problems during the encounter. Yet the same case also became an example of how later technical review can steadily reduce the mystery without fully satisfying everyone who followed the story.
+The Eglin pilot UAP case became one of Florida’s most discussed modern military UFO incidents because it appeared to contain several elements that believers often treat as strong evidence: a trained pilot, airborne sensors, a military training range, multiple objects on radar, and reported equipment problems during the encounter. Yet the same case also became an example of how later technical review can steadily reduce the mystery without fully satisfying everyone who followed the story.
 
-
-<img src="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_eglin_uap_balloon_ca_cc18ba-Illustration-1-light.svg" | relative_url }}" alt="Eglin case illustration 1" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_eglin_uap_balloon_ca_cc18ba-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_eglin_uap_balloon_ca_cc18ba-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_eglin_uap_balloon_ca_cc18ba-Illustration-1-dark.svg" | relative_url }}" alt="Eglin case illustration 1" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_eglin_uap_balloon_ca_cc18ba-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_eglin_uap_balloon_ca_cc18ba-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The incident took place in January 2023 near the Eglin Air Force Base training range over the Gulf of Mexico. Early public descriptions, amplified by political comments and online UFO discussion, made the encounter sound dramatic. But when the Pentagon’s All-domain Anomaly Resolution Office (AARO) later released a formal case resolution, investigators argued that the most likely explanation was not exotic technology but a lighter-than-air object, probably a commercial or hobby-style balloon. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">eglin afb pilot likely saw a lighting balloon not a ufo pentagon concludes</span><span class="citation-popover-snippet">The War ZoneEglin AFB Pilot Likely Saw A Lighting Balloon, Not A UFO...24 Apr 2024 — AARO reported that was “a close visual match to the...</span></span></span>
 
 The case matters within Florida UFO history because it shows the gap between an initial “unidentified” report and the slower process of reconstruction using imagery analysis, radar interpretation, environmental conditions, and known object profiles.
 
 ## What the pilot reported in the Florida training range
 
-According to AARO’s published case summary, the event occurred on 26 January 2023 while a military pilot was operating in the Eglin training range. The pilot initially detected four airborne objects on radar at roughly 16,000 to 18,000 feet and believed they appeared to be moving in formation. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.outkick.com/culture/ufo-2023-military-pilot-florida-finding" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: outkick.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">outkick.com</span><span class="citation-popover-title">ufo 2023 military pilot florida finding</span><span class="citation-popover-snippet">Government Releases Report On Major UFO Sighting | OutKick29 Apr 2024 — On 26 January 2023, a military pilot reported four potential unid...</span><span class="citation-popover-meta">Published: January 2023</span></span></span>
+According to AARO’s published case summary, the event occurred on 26 January 2023 while a military pilot was operating in the Eglin training range. The pilot initially detected four airborne objects on radar at roughly 16,000 to 18,000 feet and believed they appeared to be moving in formation. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.outkick.com/culture/ufo-2023-military-pilot-florida-finding" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: outkick.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">outkick.com</span><span class="citation-popover-title">ufo 2023 military pilot florida finding</span><span class="citation-popover-snippet">Government Releases Report On Major UFO Sighting &#124; OutKick29 Apr 2024 — On 26 January 2023, a military pilot reported four potential unid...</span><span class="citation-popover-meta">Published: January 2023</span></span></span>
 
-As the aircraft closed distance, the pilot reportedly obtained visual contact with only one object. The object was later described as resembling an Apollo capsule or cone-like structure, with a darker upper section and an illuminated orange or reddish underside. The pilot also captured infrared imagery using the aircraft’s electro-optical and infrared targeting system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROEglin UAP Case Resolution(U) The pilot reported that upon closing to within 4,000 feet of the object, the radar on the aircraft malfu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1b88fn3/air_force_releases_details_about_2023_uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Air Force Releases Details About 2023 UAP Sighting...Notably, upon approaching within 4,000 feet of the lead UAP, the pilot&#x27;s radar...</span></span></span>
+As the aircraft closed distance, the pilot reportedly obtained visual contact with only one object. The object was later described as resembling an Apollo capsule or cone-like structure, with a darker upper section and an illuminated orange or reddish underside. The pilot also captured infrared imagery using the aircraft’s electro-optical and infrared targeting system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case Resolution(U) The pilot reported that upon closing to within 4,000 feet of the object, the radar on the aircraft malfu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/1b88fn3/air_force_releases_details_about_2023_uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Air Force Releases Details About 2023 UAP Sighting...Notably, upon approaching within 4,000 feet of the lead UAP, the pilot&#x27;s radar...</span></span></span>
 
 One feature of the story attracted particular attention online and in Congress: the pilot stated that the aircraft radar malfunctioned after approaching within about 4,000 feet of the object. Post-flight maintenance reportedly could not determine a definitive cause for the malfunction. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eurasiantimes.com/jammed-its-radar-moving-with-beyond-human-capabilities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurasiantimes.com">[EURASIAN TIMES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurasiantimes.com</span><span class="citation-popover-title">jammed its radar moving with beyond human capabilities</span><span class="citation-popover-snippet">US Air Force: UFO That &quot;Jammed&quot; Fighter Jet&#x27;s Radar...25 Apr 2024 — The report concluded with “moderate confidence” that the pilot had i...</span></span></span>
 
 That radar issue became central to later speculation. In UFO discussion spaces, it was often treated as evidence of electronic interference or advanced technology. But investigators did not conclude that the object caused the malfunction. AARO instead treated the radar problem as unresolved but not necessarily connected to anything extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</span></span></span>
 
-The case gained wider public attention after Representative Matt Gaetz referred to a striking Eglin-related pilot encounter during a congressional hearing in 2023. Although public retellings sometimes merged details from different reports, the Eglin story quickly entered the modern UAP narrative as a supposedly difficult military case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/pnjnews/posts/us-rep-matt-gaetz-said-military-pilots-took-photos-of-ufo-near-eglin-air-force-b/664687152366206/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookU.S. Rep. Matt Gaetz said military pilots took photos of UFO...U.S. Rep. Matt Gaetz said military pilots took photos of UFO near...</span></span></span>
-
+The case gained wider public attention after Representative Matt Gaetz referred to a striking Eglin-related pilot encounter during a congressional hearing in 2023. Although public retellings sometimes merged details from different reports, the Eglin story quickly entered the modern UAP narrative as a supposedly difficult military case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/pnjnews/posts/us-rep-matt-gaetz-said-military-pilots-took-photos-of-ufo-near-eglin-air-force-b/664687152366206/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">U.S. Rep. Matt Gaetz said military pilots took photos of UFO...U.S. Rep. Matt Gaetz said military pilots took photos of UFO near...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kb1-FLzGIbU" title="AARO Pretends Eglin Air Force Base UFOs Were Balloons, Get Called Out for Obvious Disinfo!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kb1-FLzGIbU" target="_blank" rel="noopener noreferrer">AARO Pretends Eglin Air Force Base UFOs Were Balloons, Get Called Out for Obvious Disinfo!</a></p><p class="youtube-embed-meta">Channel: Cosmic Road &middot; Views: 4.0K &middot; Uploaded: April 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kb1-FLzGIbU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kb1-FLzGIbU">Open on YouTube</a></p></div></div></div>
 
@@ -287,12 +285,11 @@ Another important factor was timing. The encounter happened only weeks before th
 
 The Eglin case therefore landed in a cultural moment when UAP discussion was expanding rapidly but before the public fully appreciated how often balloons, drifting objects, and sensor ambiguity appear in military reporting.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XF99eQk1VSU" title="Military pilot close encounter with UFO: &#x27;This is going to sound weird&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XF99eQk1VSU" target="_blank" rel="noopener noreferrer">Military pilot close encounter with UFO: &#x27;This is going to sound weird&#x27;</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 1.7M &middot; Uploaded: February 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XF99eQk1VSU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XF99eQk1VSU">Open on YouTube</a></p></div></div></div>
 
 ## How radar, imagery, and object behaviour were checked
 
-AARO’s later investigation focused heavily on reconstruction rather than speculation. Investigators reviewed pilot testimony, radar information, environmental data, and the infrared imagery collected during the encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROEglin UAP Case Resolution(U) The pilot reported that upon closing to within 4,000 feet of the object, the radar on the aircraft malfu...</span></span></span>
+AARO’s later investigation focused heavily on reconstruction rather than speculation. Investigators reviewed pilot testimony, radar information, environmental data, and the infrared imagery collected during the encounter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case Resolution(U) The pilot reported that upon closing to within 4,000 feet of the object, the radar on the aircraft malfu...</span></span></span>
 
 The office concluded that the evidence did not support claims of extraordinary manoeuvres or advanced propulsion. One key issue was that the “formation” detected on radar may not have represented four solid craft travelling together in a controlled way. Radar tracks can fragment, merge, or generate misleading returns depending on range, angle, clutter, and atmospheric conditions. AARO ultimately concentrated on the single visually observed object rather than treating all four radar returns as confirmed vehicles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</span></span></span>
 
@@ -302,8 +299,7 @@ The reported orange-red colour may also have had a mundane source. According to 
 
 Importantly, AARO did not present the balloon explanation as absolute certainty. The office used moderate-confidence language rather than claiming the case had been solved beyond dispute. That distinction matters because some elements of the encounter remained incomplete or ambiguous, especially the radar malfunction and the limited imagery available publicly. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eurasiantimes.com/jammed-its-radar-moving-with-beyond-human-capabilities/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurasiantimes.com">[EURASIAN TIMES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurasiantimes.com</span><span class="citation-popover-title">jammed its radar moving with beyond human capabilities</span><span class="citation-popover-snippet">US Air Force: UFO That &quot;Jammed&quot; Fighter Jet&#x27;s Radar...25 Apr 2024 — The report concluded with “moderate confidence” that the pilot had i...</span></span></span>
 
-
-<img src="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_eglin_uap_balloon_ca_cc18ba-Illustration-2-light.svg" | relative_url }}" alt="Eglin case illustration 2" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_eglin_uap_balloon_ca_cc18ba-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_eglin_uap_balloon_ca_cc18ba-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_eglin_uap_balloon_ca_cc18ba-Illustration-2-dark.svg" | relative_url }}" alt="Eglin case illustration 2" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_eglin_uap_balloon_ca_cc18ba-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_eglin_uap_balloon_ca_cc18ba-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why AARO favoured a lighter-than-air explanation
 
 The balloon explanation was not based on one single clue. It emerged from the cumulative fit between the object’s appearance, its apparent movement, environmental conditions, and known characteristics of reflective lighter-than-air objects.
@@ -320,8 +316,7 @@ This reflected a broader pattern in modern Pentagon UAP work. AARO and earlier i
 
 For sceptical investigators, the Eglin incident therefore became less important as evidence of something exotic and more important as a demonstration of investigative discipline. The initial account sounded extraordinary. The later technical review pulled the case back toward a conventional explanation without claiming complete certainty.
 
-
-<img src="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_eglin_uap_balloon_ca_cc18ba-Illustration-3-light.svg" | relative_url }}" alt="Eglin case illustration 3" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_eglin_uap_balloon_ca_cc18ba-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_eglin_uap_balloon_ca_cc18ba-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_eglin_uap_balloon_ca_cc18ba-Illustration-3-dark.svg" | relative_url }}" alt="Eglin case illustration 3" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_eglin_uap_balloon_ca_cc18ba-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_eglin_uap_balloon_ca_cc18ba-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why some UFO researchers still dispute the conclusion
 
 Not everyone accepted AARO’s resolution.
@@ -342,9 +337,7 @@ That does not mean the pilot fabricated the encounter or that the event was triv
 
 Within Florida’s UFO history, the Eglin case stands as a useful modern example of how serious-sounding UAP incidents can move from dramatic speculation toward a narrower, more conventional interpretation once investigators compare testimony against sensor limitations, atmospheric effects, and known airborne objects.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Dcigf4t3I3E" title="Preparing for war in space: inside a Space Force base | Reality Check with Ross Coulthart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Dcigf4t3I3E" target="_blank" rel="noopener noreferrer">Preparing for war in space: inside a Space Force base | Reality Check with Ross Coulthart</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 1.2M &middot; Uploaded: May 2024 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Dcigf4t3I3E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Dcigf4t3I3E">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -767,146 +760,146 @@ Within Florida’s UFO history, the Eglin case stands as a useful modern example
 
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf](https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROEglin UAP Case Resolution(U) The pilot reported that upon closing to within 4,000 feet of the object, the radar on the aircraft malfu...</p></details>
+   Link: <a href="https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eglin UAP Case Resolution(U) The pilot reported that upon closing to within 4,000 feet of the object, the radar on the aircraft malfu...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: twz.com  
    Title: eglin afb pilot likely saw a lighting balloon not a ufo pentagon concludes  
-   Link: [https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes](https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes)  
+   Link: <a href="https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneEglin AFB Pilot Likely Saw A Lighting Balloon, Not A UFO...24 Apr 2024 — AARO reported that was “a close visual match to the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1b88fn3/air_force_releases_details_about_2023_uap/](https://www.reddit.com/r/ufo/comments/1b88fn3/air_force_releases_details_about_2023_uap/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1b88fn3/air_force_releases_details_about_2023_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1b88fn3/air_force_releases_details_about_2023_uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Releases Details About 2023 UAP Sighting...Notably, upon approaching within 4,000 feet of the lead UAP, the pilot&#x27;s radar...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: war.gov  
    Title: dod working to better understand resolve anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Working to Better Understand, Resolve Anomalous...19 Apr 2023 — &#x27; The majority of unidentified objects reported to...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/pnjnews/posts/us-rep-matt-gaetz-said-military-pilots-took-photos-of-ufo-near-eglin-air-force-b/664687152366206/](https://www.facebook.com/pnjnews/posts/us-rep-matt-gaetz-said-military-pilots-took-photos-of-ufo-near-eglin-air-force-b/664687152366206/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookU.S. Rep. Matt Gaetz said military pilots took photos of UFO...U.S. Rep. Matt Gaetz said military pilots took photos of UFO near...</p></details>
+   Link: <a href="https://www.facebook.com/pnjnews/posts/us-rep-matt-gaetz-said-military-pilots-took-photos-of-ufo-near-eglin-air-force-b/664687152366206/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pnjnews/posts/us-rep-matt-gaetz-said-military-pilots-took-photos-of-ufo-near-eglin-air-force-b/664687152366206/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Rep. Matt Gaetz said military pilots took photos of UFO...U.S. Rep. Matt Gaetz said military pilots took photos of UFO near...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: 2023 Chinese balloon incident  
-   Link: [https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident](https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident</a>  
 
 8. <a id="endnote-8"></a>
    Source: defensescoop.com  
    Title: uap aaro chief unveils pentagon annual caseload analysis new efforts  
-   Link: [https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/](https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/)  
+   Link: <a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DefenseScoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases i...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
    Title: Recap of the Eglin UFO Sighting Controversy  
-   Link: [https://www.reddit.com/r/UFOs/comments/1crfpi2/recap_of_the_eglin_ufo_sighting_controversy/](https://www.reddit.com/r/UFOs/comments/1crfpi2/recap_of_the_eglin_ufo_sighting_controversy/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1crfpi2/recap_of_the_eglin_ufo_sighting_controversy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1crfpi2/recap_of_the_eglin_ufo_sighting_controversy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1.9K; Why do most UFO/alien incidents seem to come from the US? r/UFOs - Why do most UFO/alien incidents...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ke1n8m/aaros_analysis_determined_the_jellyfish_uap_is_a/](https://www.reddit.com/r/UFOs/comments/1ke1n8m/aaros_analysis_determined_the_jellyfish_uap_is_a/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ke1n8m/aaros_analysis_determined_the_jellyfish_uap_is_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ke1n8m/aaros_analysis_determined_the_jellyfish_uap_is_a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO used full-motion video and pixel analyses to inform its assessment...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
    Title: aaro released its resolution for the case known  
-   Link: [https://www.reddit.com/r/UFOs/comments/1cc7fx2/aaro_released_its_resolution_for_the_case_known/](https://www.reddit.com/r/UFOs/comments/1cc7fx2/aaro_released_its_resolution_for_the_case_known/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cc7fx2/aaro_released_its_resolution_for_the_case_known/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cc7fx2/aaro_released_its_resolution_for_the_case_known/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>as...24 Apr 2024 — Today, AARO released its resolution for the case known as the &quot;Eglin UAP.&quot; It presents AARO&#x27;s analysis of a January 2...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1fqhn02/wikipedia_says_aaro_has_resolved_half_of_its_510/](https://www.reddit.com/r/UFOs/comments/1fqhn02/wikipedia_says_aaro_has_resolved_half_of_its_510/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fqhn02/wikipedia_says_aaro_has_resolved_half_of_its_510/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fqhn02/wikipedia_says_aaro_has_resolved_half_of_its_510/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s of &quot;weather balloons&quot;. AARO has resolved only four cases...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ci1mjs/coulthart_this_aaro_foia_response_acknowledges_a/](https://www.reddit.com/r/UFOs/comments/1ci1mjs/coulthart_this_aaro_foia_response_acknowledges_a/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ci1mjs/coulthart_this_aaro_foia_response_acknowledges_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ci1mjs/coulthart_this_aaro_foia_response_acknowledges_a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Coulthart] This AARO FOIA response acknowledges a video...This@DoD_AAROFOIA response acknowledges a video does exist from the Jan 2023...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Releases the Annual Report on...14 Nov 2024 — AARO received 757 UAP reports during this period; 485 of these repor...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KOAT7/posts/a-tranche-of-information-involving-unidentified-anomalous-phenomena-published-by/1425167519639273/](https://www.facebook.com/KOAT7/posts/a-tranche-of-information-involving-unidentified-anomalous-phenomena-published-by/1425167519639273/)  
+   Link: <a href="https://www.facebook.com/KOAT7/posts/a-tranche-of-information-involving-unidentified-anomalous-phenomena-published-by/1425167519639273/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KOAT7/posts/a-tranche-of-information-involving-unidentified-anomalous-phenomena-published-by/1425167519639273/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ved, and the 21 anomalous cases are under further investigation.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeIn March 2024, AARO released a report titled &quot;Report on the Historical Record of U.S...</p></details>
    Published: March 2024  
 
 20. <a id="endnote-20"></a>
    Source: thedebrief.org  
    Title: The Debrief Incident at Eglin Air Force Base  
-   Link: [https://thedebrief.org/incident-at-eglin-air-force-base/](https://thedebrief.org/incident-at-eglin-air-force-base/)  
+   Link: <a href="https://thedebrief.org/incident-at-eglin-air-force-base/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/incident-at-eglin-air-force-base/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Incident at Eglin Air Force BaseMay 2, 2024 — In January 2023, a U.S. military pilot reported an encounter with a group of unusual object...</p></details>
    Published: May 2, 2024  
 
 21. <a id="endnote-21"></a>
    Source: outkick.com  
    Title: ufo 2023 military pilot florida finding  
-   Link: [https://www.outkick.com/culture/ufo-2023-military-pilot-florida-finding](https://www.outkick.com/culture/ufo-2023-military-pilot-florida-finding)  
+   Link: <a href="https://www.outkick.com/culture/ufo-2023-military-pilot-florida-finding" target="_blank" rel="noopener noreferrer nofollow">https://www.outkick.com/culture/ufo-2023-military-pilot-florida-finding</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Releases Report On Major UFO Sighting | OutKick29 Apr 2024 — On 26 January 2023, a military pilot reported four potential unid...</p></details>
    Published: January 2023  
 
 22. <a id="endnote-22"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/aaro-has-only-moderate-confidence-in-findings-from-its-latest-uap-investigation-its-easy-to-see-why/](https://thedebrief.org/aaro-has-only-moderate-confidence-in-findings-from-its-latest-uap-investigation-its-easy-to-see-why/)  
+   Link: <a href="https://thedebrief.org/aaro-has-only-moderate-confidence-in-findings-from-its-latest-uap-investigation-its-easy-to-see-why/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/aaro-has-only-moderate-confidence-in-findings-from-its-latest-uap-investigation-its-easy-to-see-why/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefAARO Has Only “Moderate Confidence” in Findings From...25 Apr 2024 — The Pentagon&#x27;s AARO has released a report on its finding...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: eurasiantimes.com  
    Title: jammed its radar moving with beyond human capabilities  
-   Link: [https://www.eurasiantimes.com/jammed-its-radar-moving-with-beyond-human-capabilities/](https://www.eurasiantimes.com/jammed-its-radar-moving-with-beyond-human-capabilities/)  
+   Link: <a href="https://www.eurasiantimes.com/jammed-its-radar-moving-with-beyond-human-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://www.eurasiantimes.com/jammed-its-radar-moving-with-beyond-human-capabilities/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Air Force: UFO That &quot;Jammed&quot; Fighter Jet&#x27;s Radar...25 Apr 2024 — The report concluded with “moderate confidence” that the pilot had i...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: ufotransparency.com  
-   Link: [https://ufotransparency.com/files/decade-2020s-aaro-eglin-uap-case-resolution-2023-case-resolution-of-eglin-uap-2-508](https://ufotransparency.com/files/decade-2020s-aaro-eglin-uap-case-resolution-2023-case-resolution-of-eglin-uap-2-508)  
+   Link: <a href="https://ufotransparency.com/files/decade-2020s-aaro-eglin-uap-case-resolution-2023-case-resolution-of-eglin-uap-2-508" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-eglin-uap-case-resolution-2023-case-resolution-of-eglin-uap-2-508</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyAARO Eglin AFB Case Resolution, October 2023, All-domain...The S&amp;T partner assesses that the image is consistent with a...</p></details>
    Published: October 2023  
 
 25. <a id="endnote-25"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — misidentified, drones, balloons, aircraft, rockets, rocket exhaust... involve UAP exploita...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/this-well-known-ufo-debunker-is-skeptical-of-the-dods-recent-[investigations](https://thedebrief.org/this-well-known-ufo-debunker-is-skeptical-of-the-dods-recent-[investigations)  
+   Link: <a href="https://thedebrief.org/this-well-known-ufo-debunker-is-skeptical-of-the-dods-recent-[investigations" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/this-well-known-ufo-debunker-is-skeptical-of-the-dods-recent-[investigations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This Well-Known UFO Debunker is Skeptical of the DoD&#x27;s...7 May 2024 — Although West concedes this point, he also notes that AARO&#x27;s repor...</p></details>
    Published: May 2024  
 
@@ -914,57 +907,57 @@ Within Florida’s UFO history, the Eglin case stands as a useful modern example
 
 27. <a id="endnote-27"></a>
    Source: mightytravels.com  
-   Link: [https://www.mightytravels.com/2024/05/7-intriguing-facts-about-the-unidentified-aircraft-spotted-over-eglin-air-force-base/](https://www.mightytravels.com/2024/05/7-intriguing-facts-about-the-unidentified-aircraft-spotted-over-eglin-air-force-base/)  
+   Link: <a href="https://www.mightytravels.com/2024/05/7-intriguing-facts-about-the-unidentified-aircraft-spotted-over-eglin-air-force-base/" target="_blank" rel="noopener noreferrer nofollow">https://www.mightytravels.com/2024/05/7-intriguing-facts-about-the-unidentified-aircraft-spotted-over-eglin-air-force-base/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots Report Unidentified Aircraft Over Eglin Air Force Base21 May 2024 — The recent UAP sighting near Eglin Air Force Base has been res...</p></details>
    Published: May 2024  
 
 28. <a id="endnote-28"></a>
    Source: read-me.org  
    Title: fiscal year 2024 consolidated annual report on unidentified anomalous phenomena  
-   Link: [https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena](https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena)  
+   Link: <a href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — AARO resolved 118 cases during the reporting period, all of which resolve...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: aliensarerunningoperations.com  
-   Link: [https://www.aliensarerunningoperations.com/](https://www.aliensarerunningoperations.com/)  
+   Link: <a href="https://www.aliensarerunningoperations.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliensarerunningoperations.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Files | Aliens Are Running Operations Documentation...Access declassified documents, witness testimonies, and official reports from...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: brobible.com  
    Title: pentagon ufo office report air force encounter gulf mexico  
-   Link: [https://brobible.com/sports/article/pentagon-ufo-office-report-air-force-encounter-gulf-mexico/](https://brobible.com/sports/article/pentagon-ufo-office-report-air-force-encounter-gulf-mexico/)  
+   Link: <a href="https://brobible.com/sports/article/pentagon-ufo-office-report-air-force-encounter-gulf-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/sports/article/pentagon-ufo-office-report-air-force-encounter-gulf-mexico/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UFO Office Releases Report On Air Force...29 Apr 2024 — The UFO encounter occurred on January 26th, 2023 and was reported by...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: san.com  
    Title: annual ufo report finds 21 cases that cant be explained  
-   Link: [https://san.com/cc/annual-ufo-report-finds-21-cases-that-cant-be-explained/](https://san.com/cc/annual-ufo-report-finds-21-cases-that-cant-be-explained/)  
+   Link: <a href="https://san.com/cc/annual-ufo-report-finds-21-cases-that-cant-be-explained/" target="_blank" rel="noopener noreferrer nofollow">https://san.com/cc/annual-ufo-report-finds-21-cases-that-cant-be-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Annual UFO report finds 21 cases that can&#x27;t be explainedNov 15, 2024 — Pentagon investigates 700+ UFO sightings, unable to explain 21; no...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: dni.gov  
    Title: Unclassified 2022 Annual Report UAP  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2022 Annual Report on Unidentified Aerial Phenomena25 Jun 2021 — Per the NDAA, AARO delivers quarterly reports on UAP to policymakers tha...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: theblackvault.com  
    Title: aaro releases final report on eglin uap incident  
-   Link: [https://www.theblackvault.com/documentarchive/aaro-releases-final-report-on-eglin-uap-incident/](https://www.theblackvault.com/documentarchive/aaro-releases-final-report-on-eglin-uap-incident/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/aaro-releases-final-report-on-eglin-uap-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/aaro-releases-final-report-on-eglin-uap-incident/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Releases Final Report on “Eglin UAP” Incident24 Apr 2024 — AARO&#x27;s analysis concluded that the UAP was “very likely a lighter-than-ai...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: dvidshub.net  
    Title: pr 005 uap report resolved balloon europe 2022  
-   Link: [https://www.dvidshub.net/video/977834/pr-005-uap-report-resolved-balloon-europe-2022](https://www.dvidshub.net/video/977834/pr-005-uap-report-resolved-balloon-europe-2022)  
+   Link: <a href="https://www.dvidshub.net/video/977834/pr-005-uap-report-resolved-balloon-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/977834/pr-005-uap-report-resolved-balloon-europe-2022</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-005, UAP Report Resolved as a Balloon, Europe 2022AARO bases its assessment on the object&#x27;s strong morphological consistency with othe...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/20137882](https://zenodo.org/records/20137882)  
+   Link: <a href="https://zenodo.org/records/20137882" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/20137882</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The establishment of PURSUE officially supersedes AARO...Read more...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: flyingmag.com  
-   Link: [https://www.flyingmag.com/unpacking-pentagon-latest-uap-release/](https://www.flyingmag.com/unpacking-pentagon-latest-uap-release/)  
+   Link: <a href="https://www.flyingmag.com/unpacking-pentagon-latest-uap-release/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyingmag.com/unpacking-pentagon-latest-uap-release/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(UAP) answers a few questions but raises many more.Read more...</p></details>

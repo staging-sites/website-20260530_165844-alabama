@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-california-became-a-ufo-hotspot/
 nav_short_title: Missile Tests
 title: When Secret Tests Look Like UFOs
-title_full: When Secret Tests Look Like UFOs | California UFOs
+title_full: When Secret Tests Look Like UFOs
 display_title_short: Missile Tests
 display_title: Missile Tests
 heading_title: When Secret Tests Look Like UFOs
@@ -268,8 +268,7 @@ image: /assets/images/California_cf386e_vandenberg_secret_sk_09c62c-overview-soc
 
 ## Introduction
 
-Much of [California]({{ 'why-california-became-a-ufo-hotspot/' | relative_url }})’s UFO lore intersects with its Cold War aerospace history, and nowhere is that clearer than at **Vandenberg Space Force Base** on the Central Coast. From the late 1950s onward, this U.S. military installation was a hub for testing ballistic missiles and space‑launch vehicles; its operations produced unusual sights in the sky long before civilian rocket launches became familiar. In several well‑circulated incidents, observers — both veterans and civilian witnesses — have linked missile tests and optical instrumentation work to reports of unexplained objects, beams of light, or anomalous flight behaviours. While some episodes attracted attention as supposed evidence of **unidentified aerial phenomena (UAP)**, closer scrutiny often points to earthly explanations rooted in classified defence technology and optical misinterpretation. This page examines the key ‘secret‑sky’ claims tied to Vandenberg missile tests, what eyewitnesses and critics have said, and how these narratives fit into California’s broader UFO history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Vandenberg_Space_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Vandenberg Space Force Base</span><span class="citation-popover-snippet">Vandenberg Space Force Base</span></span></span>
-
+Much of California’s UFO lore intersects with its Cold War aerospace history, and nowhere is that clearer than at **Vandenberg Space Force Base** on the Central Coast. From the late 1950s onward, this U.S. military installation was a hub for testing ballistic missiles and space‑launch vehicles; its operations produced unusual sights in the sky long before civilian rocket launches became familiar. In several well‑circulated incidents, observers — both veterans and civilian witnesses — have linked missile tests and optical instrumentation work to reports of unexplained objects, beams of light, or anomalous flight behaviours. While some episodes attracted attention as supposed evidence of **unidentified aerial phenomena (UAP)**, closer scrutiny often points to earthly explanations rooted in classified defence technology and optical misinterpretation. This page examines the key ‘secret‑sky’ claims tied to Vandenberg missile tests, what eyewitnesses and critics have said, and how these narratives fit into California’s broader UFO history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Vandenberg_Space_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Vandenberg Space Force Base</span><span class="citation-popover-snippet">Vandenberg Space Force Base</span></span></span>
 
 <img src="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c-overview.webp" | relative_url }}" alt="Overview image for Missile Tests" loading="eager" decoding="sync" fetchpriority="high">
 ## When Missile Tests Became “Mystery Skycraft”: Key Episodes
@@ -284,18 +283,16 @@ However, detailed scrutiny challenges the extraordinary interpretation. Skeptica
 
 This explanation illustrates a longstanding pattern in aerospace‑UFO history: advanced or secret defence mechanisms can look mysterious to observers without access to operational context.
 
-
-<img src="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c-Illustration-1-light.svg" | relative_url }}" alt="Missile Tests illustration 1" data-theme-src-dark="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c-Illustration-1-dark.svg" | relative_url }}" alt="Missile Tests illustration 1" data-theme-src-dark="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### 1963 Tracking Film and Astronomical Misidentification
 
 Another documented case that entered UFO reporting occurred on 5 December 1963, when tracking cameras at Vandenberg recorded a bright star‑like object near a **Thor‑Agena** rocket launch. Initially unidentified to at least one observer on camera, the object was later conclusively linked to the planet **Venus** after analysis of the optical data. This was included in the official *Condon Report* on UFO science and investigation — a landmark 1960s Air Force‑sponsored study that found many such sightings involved misidentified conventional phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">NCAS FilesCondon Report, Case 51: Vandenberg AFBDecember 5, 1963...</span><span class="citation-popover-meta">Published: December 5, 1963</span></span></span>
 
 ### Contemporary Reports: The 2003 “Red Square” Sighting
 
-Decades after the Big Sur episode, another Vandenberg‑related incident surfaced during a 2023 **U.S. House Oversight Committee hearing on UAPs**. Former U.S. Navy pilot Ryan Graves recounted testimony from civilian contractors who claimed to see a **large red square‑shaped object** — about the size of a football field — hovering low over a launch complex before departing rapidly. Reports also said that evening sightings saw objects behaving aggressively near security guards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sacbee.com/news/california/article277755233.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacbee.com">[Sacramento Bee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacbee.com</span><span class="citation-popover-snippet">Sacramento BeeRed UFO hovered over Vandenberg Air Force Base, witness says | Sacramento BeeJuly 28, 2023...</span><span class="citation-popover-meta">Published: July 28, 2023</span></span></span>
+Decades after the Big Sur episode, another Vandenberg‑related incident surfaced during a 2023 **U.S. House Oversight Committee hearing on UAPs**. Former U.S. Navy pilot Ryan Graves recounted testimony from civilian contractors who claimed to see a **large red square‑shaped object** — about the size of a football field — hovering low over a launch complex before departing rapidly. Reports also said that evening sightings saw objects behaving aggressively near security guards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sacbee.com/news/california/article277755233.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacbee.com">[Sacramento Bee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacbee.com</span><span class="citation-popover-snippet">Sacramento BeeRed UFO hovered over Vandenberg Air Force Base, witness says &#124; Sacramento BeeJuly 28, 2023...</span><span class="citation-popover-meta">Published: July 28, 2023</span></span></span>
 
 Such descriptions have been widely shared in media coverage and UAP advocacy contexts, but no unclassified photographic or radar evidence has been made public to corroborate the event beyond eyewitness testimony. The Department of Defense and the U.S. Space Force have not released official confirmation of anomalous technology in connection with this specific report.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XdZr19VCq8M" title="Unarmed Minuteman III ICBM carrying a re-entry vehicle launched by Space Force" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XdZr19VCq8M" target="_blank" rel="noopener noreferrer">Unarmed Minuteman III ICBM carrying a re-entry vehicle launched by Space Force</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 15.4K &middot; Uploaded: June 2024 &middot; Length: 1 minute 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XdZr19VCq8M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XdZr19VCq8M">Open on YouTube</a></p></div></div></div>
 
@@ -305,19 +302,16 @@ Such descriptions have been widely shared in media coverage and UAP advocacy con
 
 Vandenberg’s role as a missile test range and spaceflight site means it routinely uses advanced, sometimes classified systems — from decoys and chaff to radar calibration gear and specialised cameras — that can produce unfamiliar visual phenomena. Photographers and optical teams, especially in the 1960s before widespread satellite tracking and public range scheduling, were often the first to document rocket launches and related particles. Without contemporaneous mission data, unusual flares, release patterns, or light effects could easily be misread as anomalous objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
 
-
-<img src="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c-Illustration-2-light.svg" | relative_url }}" alt="Missile Tests illustration 2" data-theme-src-dark="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c-Illustration-2-dark.svg" | relative_url }}" alt="Missile Tests illustration 2" data-theme-src-dark="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Atmospheric Contrails and Sunset Illusions
 
-Routine test launches can produce spectacular contrails and illumination effects in California’s skies, particularly around dawn or dusk. For example, simultaneous reports from multiple locations across the state in September 2002 described colourful trails that corresponded to a **Minuteman III ICBM launch** from Vandenberg, seen as glowing spirals and light streaks against a twilight sky. These distinctive sights often spark UFO reports in community databases like the National UFO Reporting Center (NUFORC) before context is added. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=25160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 25160September 28, 2002...</span><span class="citation-popover-meta">Published: September 28, 2002</span></span></span>
-
+Routine test launches can produce spectacular contrails and illumination effects in California’s skies, particularly around dawn or dusk. For example, simultaneous reports from multiple locations across the state in September 2002 described colourful trails that corresponded to a **Minuteman III ICBM launch** from Vandenberg, seen as glowing spirals and light streaks against a twilight sky. These distinctive sights often spark UFO reports in community databases like the National UFO Reporting Center (NUFORC) before context is added. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=25160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 25160September 28, 2002...</span><span class="citation-popover-meta">Published: September 28, 2002</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1PN_8CaQeYg" title="Unidentified Flying Object (UFO) Sighting: Atlas Missile Launch, 1962 Vintage Film : Stock Footage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1PN_8CaQeYg" target="_blank" rel="noopener noreferrer">Unidentified Flying Object (UFO) Sighting: Atlas Missile Launch, 1962 Vintage Film : Stock Footage</a></p><p class="youtube-embed-meta">Channel: Christopher Seufert &middot; Views: 2.2K &middot; Uploaded: December 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1PN_8CaQeYg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1PN_8CaQeYg">Open on YouTube</a></p></div></div></div>
 
 ### Witness Credibility and Perception Constraints
 
 In several accounts linked to Vandenberg, observers — whether military veterans or civilian contractors — describe startling experiences decades after the fact, often in interviews or through advocacy groups. While these firsthand accounts deserve respect for personal sincerity, they occur without independently verifiable data and are sometimes coloured by memory distortion, cultural expectations about UFOs, or hearsay. Without contemporaneous documentation (such as declassified radar tracks or official launch logs), such narratives remain unverified as evidence of non‑human technology.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hq-GlQmRCQQ" title="&#x27;UFOs repeatedly visited defence site…&#x27;: Air Force Veteran shares shocking details of UAP sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hq-GlQmRCQQ" target="_blank" rel="noopener noreferrer">&#x27;UFOs repeatedly visited defence site…&#x27;: Air Force Veteran shares shocking details of UAP sighting</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 39.8K &middot; Uploaded: September 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hq-GlQmRCQQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hq-GlQmRCQQ">Open on YouTube</a></p></div></div></div>
 
@@ -331,8 +325,7 @@ Vandenberg’s unique position in California’s aerospace landscape offers a wi
 
 These dynamics have played out in California’s UFO history beyond Vandenberg — in aircraft corridors near Los Angeles, radar returns off naval ranges, and other military-linked incidents. Vandenberg’s missile tests, while dramatic in their own right as Cold War landmarks, fit into that broader pattern.
 
-
-<img src="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c-Illustration-3-light.svg" | relative_url }}" alt="Missile Tests illustration 3" data-theme-src-dark="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c-Illustration-3-dark.svg" | relative_url }}" alt="Missile Tests illustration 3" data-theme-src-dark="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Summary
 
 California’s UFO record cannot be separated from the state’s aerospace heritage. At Vandenberg, routine missile tests have intersected with optical experiments, atmospheric effects, and witness reports that sometimes evolve into “secret sky” claims. Detailed investigation shows that many of the most dramatic narratives — from 1960s film footage to [2003 red square]({{ '2003-red-square/' | relative_url }}) sightings — rest on eyewitness testimony without independent corroboration, or on misidentified classified test phenomena. In this way, Vandenberg underscores a central lesson of the state’s UFO history: advanced technology in restricted environments can generate extraordinary impressions, but the strongest explanations remain grounded in documented physics and operational context rather than unverified hypotheses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Big Sur UFO</span><span class="citation-popover-snippet">Big Sur UFO</span></span></span>
@@ -759,53 +752,53 @@ California’s UFO record cannot be separated from the state’s aerospace herit
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Vandenberg Space Force Base  
-   Link: [https://en.wikipedia.org/wiki/Vandenberg_Space_Force_Base](https://en.wikipedia.org/wiki/Vandenberg_Space_Force_Base)  
+   Link: <a href="https://en.wikipedia.org/wiki/Vandenberg_Space_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vandenberg_Space_Force_Base</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Big Sur UFO  
-   Link: [https://en.wikipedia.org/wiki/Big_Sur_UFO](https://en.wikipedia.org/wiki/Big_Sur_UFO)  
+   Link: <a href="https://en.wikipedia.org/wiki/Big_Sur_UFO" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Big_Sur_UFO</a>  
 
 3. <a id="endnote-3"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/case51.htm](https://files.ncas.org/condon/text/case51.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/case51.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case51.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NCAS FilesCondon Report, Case 51: Vandenberg AFBDecember 5, 1963...</p></details>
    Published: December 5, 1963  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=25160](https://nuforc.org/sighting/?id=25160)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 25160September 28, 2002...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=25160" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=25160</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 25160September 28, 2002...</p></details>
    Published: September 28, 2002  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=25165](https://nuforc.org/sighting/?id=25165)  
+   Link: <a href="https://nuforc.org/sighting/?id=25165" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=25165</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 25165September 28, 2002 — NUFORC UFO SIGHTING 25165 Occurred: 2002-09-19 19:36 Local Reported: 2002-09-19 20:09 Pacif...</p></details>
    Published: September 19, 2002  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=25163](https://nuforc.org/sighting/?id=25163)  
+   Link: <a href="https://nuforc.org/sighting/?id=25163" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=25163</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 25163September 28, 2002 — NUFORC UFO SIGHTING 25163 Occurred: 2002-09-19 19:30 Local Reported: 2002-09-19 20:04 Pacif...</p></details>
    Published: September 19, 2002  
 
 7. <a id="endnote-7"></a>
    Source: doyletatum.com  
    Title: Doyle's Space Big Sur UFO: A Vandenberg AFB UFO Incident – Doyle's Space  
-   Link: [https://doyletatum.com/2025/01/26/big-sur-ufo-a-vandenberg-afb-ufo-incident/](https://doyletatum.com/2025/01/26/big-sur-ufo-a-vandenberg-afb-ufo-incident/)  
+   Link: <a href="https://doyletatum.com/2025/01/26/big-sur-ufo-a-vandenberg-afb-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://doyletatum.com/2025/01/26/big-sur-ufo-a-vandenberg-afb-ufo-incident/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Doyle&#x27;s SpaceBig Sur UFO: A Vandenberg AFB UFO Incident – Doyle&#x27;s SpaceJanuary 26, 2025...</p></details>
    Published: January 26, 2025  
 
 8. <a id="endnote-8"></a>
    Source: sacbee.com  
-   Link: [https://www.sacbee.com/news/california/article277755233.html](https://www.sacbee.com/news/california/article277755233.html)  
+   Link: <a href="https://www.sacbee.com/news/california/article277755233.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sacbee.com/news/california/article277755233.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sacramento BeeRed UFO hovered over Vandenberg Air Force Base, witness says | Sacramento BeeJuly 28, 2023...</p></details>
    Published: July 28, 2023  
 
 9. <a id="endnote-9"></a>
    Source: uforia.net  
-   Link: [https://uforia.net/vandenberg.html](https://uforia.net/vandenberg.html)  
+   Link: <a href="https://uforia.net/vandenberg.html" target="_blank" rel="noopener noreferrer nofollow">https://uforia.net/vandenberg.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Peaty April 6, 2025 In a congressional hearing on July 26, 2023, former U.S. Navy fighter pilot Ry...</p></details>
    Published: April 6, 2025  
 
@@ -813,62 +806,62 @@ California’s UFO record cannot be separated from the state’s aerospace herit
 
 10. <a id="endnote-10"></a>
    Source: usufocenter.com  
-   Link: [https://www.usufocenter.com/ufologist/mcclelland/UFO-atlas-missle-test.html](https://www.usufocenter.com/ufologist/mcclelland/UFO-atlas-missle-test.html)  
+   Link: <a href="https://www.usufocenter.com/ufologist/mcclelland/UFO-atlas-missle-test.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufologist/mcclelland/UFO-atlas-missle-test.html</a>  
 
 11. <a id="endnote-11"></a>
    Source: ibtimes.co.uk  
-   Link: [https://www.ibtimes.co.uk/nuclear-missile-guard-claims-chilling-ufo-abduction-non-human-encounter-us-base-1777756](https://www.ibtimes.co.uk/nuclear-missile-guard-claims-chilling-ufo-abduction-non-human-encounter-us-base-1777756)  
+   Link: <a href="https://www.ibtimes.co.uk/nuclear-missile-guard-claims-chilling-ufo-abduction-non-human-encounter-us-base-1777756" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/nuclear-missile-guard-claims-chilling-ufo-abduction-non-human-encounter-us-base-1777756</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Missile Guard Claims Chilling UFO Abduction and &#x27;Non Human&#x27; Encounter at US Base | IBTimes UKFebruary 10, 2026 — NUCLEAR MISSILE...</p></details>
    Published: February 10, 2026  
 
 12. <a id="endnote-12"></a>
    Source: ufocasebook.com  
    Title: By Bob Jacobs, Ph.D. It is a sad and curious fact that much of the litera  
-   Link: [https://www.ufocasebook.com/bigsur.html](https://www.ufocasebook.com/bigsur.html)  
+   Link: <a href="https://www.ufocasebook.com/bigsur.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/bigsur.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Big Sur UFO Filming: 1964, (Vandenburg AFB)THE BIG SUR UFO FILMING: 1964 Image: Depiction of UFO A Critical Analysis of the Curious E...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: latimes.com  
    Title: UF O hearing in Congress details sighting at California launch site  
-   Link: [https://www.latimes.com/california/story/2023-08-04/ufo-hearing-congress-sighting-at-california-vandenberg-air-force-base](https://www.latimes.com/california/story/2023-08-04/ufo-hearing-congress-sighting-at-california-vandenberg-air-force-base)  
+   Link: <a href="https://www.latimes.com/california/story/2023-08-04/ufo-hearing-congress-sighting-at-california-vandenberg-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/california/story/2023-08-04/ufo-hearing-congress-sighting-at-california-vandenberg-air-force-base</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ONE STRANGE SIGHTING CAME AT THIS CALIFORNIA LAUNCH SITE Image: A Delta 4 Heavy rocket lifts off from Vandenberg Air Force Base. A Delta...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theufochronicles.com  
    Title: Big Sur UFO Film: Government Whistleblower Reveals He Watched It  
-   Link: [https://www.theufochronicles.com/2024/02/big-sur-ufo-film-government_19.html](https://www.theufochronicles.com/2024/02/big-sur-ufo-film-government_19.html)  
+   Link: <a href="https://www.theufochronicles.com/2024/02/big-sur-ufo-film-government_19.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2024/02/big-sur-ufo-film-government_19.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PART 2February 18, 2024 — Consequently, George could not possibly have viewed the same film at Vandenberg AFB “weeks” after the missile l...</p></details>
    Published: February 18, 2024  
 
 15. <a id="endnote-15"></a>
    Source: unidentifiedphenomena.com  
    Title: vandenburg afb ufo encounter with atlas missile nosecone 1964  
-   Link: [https://unidentifiedphenomena.com/incidents/vandenburg-afb-ufo-encounter-with-atlas-missile-nosecone-1964/](https://unidentifiedphenomena.com/incidents/vandenburg-afb-ufo-encounter-with-atlas-missile-nosecone-1964/)  
+   Link: <a href="https://unidentifiedphenomena.com/incidents/vandenburg-afb-ufo-encounter-with-atlas-missile-nosecone-1964/" target="_blank" rel="noopener noreferrer nofollow">https://unidentifiedphenomena.com/incidents/vandenburg-afb-ufo-encounter-with-atlas-missile-nosecone-1964/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vandenburg AFB UFO Encounter with Atlas Missile Nosecone (1964) – Unidentified PhenomenaFebruary 16, 2023 — Unidentified Phenomena My UFO...</p></details>
    Published: February 16, 2023  
 
 16. <a id="endnote-16"></a>
    Source: popsci.com  
    Title: What that UFO might actually be | Popular Science  
-   Link: [https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/](https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/)  
+   Link: <a href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IT WAS PROBABLY ONE OF THESE THINGS. How to turn your strange sighting into a perfectly identifiable flying object. By Jon Kelvey Publish...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: unacknowledged.info  
    Title: Robert Jacobs appeared on many TV programs wit  
-   Link: [https://www.unacknowledged.info/ufo-shoots-down-missle-at-vandenberg/](https://www.unacknowledged.info/ufo-shoots-down-missle-at-vandenberg/)  
+   Link: <a href="https://www.unacknowledged.info/ufo-shoots-down-missle-at-vandenberg/" target="_blank" rel="noopener noreferrer nofollow">https://www.unacknowledged.info/ufo-shoots-down-missle-at-vandenberg/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Shoots Down a Missile Over the Vandenberg AFB » unacknowledged.info | unacknowledged.infoJuly 23, 2013 — * # UFO Shoots Down a Missil...</p></details>
    Published: July 23, 2013  
 
 18. <a id="endnote-18"></a>
    Source: unidentifiedphenomena.com  
    Title: red square ufo vandenberg air force base 2003  
-   Link: [https://unidentifiedphenomena.com/incidents/red-square-ufo-vandenberg-air-force-base-2003/](https://unidentifiedphenomena.com/incidents/red-square-ufo-vandenberg-air-force-base-2003/)  
+   Link: <a href="https://unidentifiedphenomena.com/incidents/red-square-ufo-vandenberg-air-force-base-2003/" target="_blank" rel="noopener noreferrer nofollow">https://unidentifiedphenomena.com/incidents/red-square-ufo-vandenberg-air-force-base-2003/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Square UFO Vandenberg Air Force Base (2003) – Unidentified PhenomenaFebruary 4, 2024 — Unidentified Phenomena My UFO and Alien Abduct...</p></details>
    Published: February 4, 2024  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Unarmed Minuteman III ICBM carrying a re-entry vehicle launched by Space Force  
-   Link: [https://www.youtube.com/watch?v=XdZr19VCq8M](https://www.youtube.com/watch?v=XdZr19VCq8M)  
+   Link: <a href="https://www.youtube.com/watch?v=XdZr19VCq8M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XdZr19VCq8M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Object (UFO) Sighting: Atlas Missile Launch, 1962 Vintage Film: Stock Footage...</p></details>

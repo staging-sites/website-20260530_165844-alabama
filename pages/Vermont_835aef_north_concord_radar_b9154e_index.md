@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /vermont-835aef-north-concord-radar/
 description: Focused pages that expand on North Concord.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Vermont_835aef_north_concord_radar_b9154e
-parent_title: North Concord | What Makes Vermont's UFO Stories Endure?
+parent_title: North Concord
 parent_nav_short_title: North Concord
 parent_permalink: /north-concord/
 ---

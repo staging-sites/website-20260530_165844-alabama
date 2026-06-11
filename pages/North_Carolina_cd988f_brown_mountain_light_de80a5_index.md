@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /north-carolina-cd988f-brown-mountain/
 description: Focused pages that expand on Brown Mountain.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: North_Carolina_cd988f_brown_mountain_light_de80a5
-parent_title: Brown Mountain | What Really Happened in North Carolina's UFO...
+parent_title: Brown Mountain
 parent_nav_short_title: Brown Mountain
 parent_permalink: /brown-mountain/
 ---

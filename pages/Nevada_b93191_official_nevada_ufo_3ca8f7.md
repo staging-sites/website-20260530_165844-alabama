@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-nevada-became-ufo-country/
 nav_short_title: Official Records
 title: What Nevada's UFO Files Actually Show
-title_full: What Nevada's UFO Files Actually Show | Nevada UFOs
+title_full: What Nevada's UFO Files Actually Show
 display_title_short: Official Records
 display_title: Official Records
 heading_title: What Nevada's UFO Files Actually Show
@@ -270,7 +270,6 @@ image: /assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7-overview-social.j
 
 Official records give [Nevada]({{ 'why-nevada-became-ufo-country/' | relative_url }})’s UFO history a paper trail that rumour alone cannot provide. The most useful files are not secret proof of alien craft; they are case cards, correspondence, radar notes, witness reports and later reviews that show how investigators tried, and often struggled, to sort unusual sightings from aircraft, meteors, balloons, radar artefacts and incomplete testimony. Project Blue Book left 701 cases nationally as “unidentified”, but the Air Force’s public conclusion was still that no investigated UFO showed evidence of a national-security threat, unknown scientific principle or extraterrestrial vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-
 <img src="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7-overview.webp" | relative_url }}" alt="Overview image for Official Records" loading="eager" decoding="sync" fetchpriority="high">
 For Nevada, the value of the records lies in the pattern. The state had real military airspace, real secrecy, real radar sites and real witnesses, but also unusually high chances of misidentification. The unresolved file is therefore not a verdict; it is a label for a case that resisted the available investigation. That distinction matters more in Nevada than almost anywhere else.
 
@@ -284,8 +283,7 @@ Blue Book’s own stated method also explains why Nevada cases can look both ser
 
 That wording is crucial. In official usage, “unidentified” did not mean “alien”; it meant that the available information did not permit a conventional identification. “Insufficient data” was a separate category for reports missing essentials such as duration, time, location, weather, sky position or manner of appearance and disappearance. In Nevada, where military flights, restricted airspace and desert observing conditions are part of the background, those categories are a better guide than the later folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Electronic Service Desk</span><span class="citation-popover-snippet">Electronic Service Desk</span></span></span>
 
-
-<img src="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7-Illustration-1-light.svg" | relative_url }}" alt="Official Records illustration 1" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7-Illustration-1-dark.svg" | relative_url }}" alt="Official Records illustration 1" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Nevada cases that show the archive at work
 
 Nevada’s official-record value is clearest in cases where the sighting was tied to military infrastructure or where later researchers could point to Blue Book documents. These cases are not equally strong, and some are better treated as “case families” than as single solved-or-unsolved events.
@@ -304,7 +302,6 @@ This incident is often retold online as a “Las Vegas UFO crash”, but that ph
 
 A smaller but still relevant late-Blue-Book Nevada entry appears on 17 September 1968 at Nellis AFB. The catalogue notes two air-traffic controllers, including a supervisor, who reportedly observed a nocturnal light for about 40 minutes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span> On its own, that is not a spectacular case. In context, however, it underlines a recurring Nevada pattern: the most interesting reports are often not from casual tourists, but from people working in or near aviation systems who still could not immediately identify what they saw.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F8owqkrtHe8" title="$22 Million Spent On Pentagon UFO Research - Declassified 2017 - New York Times Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F8owqkrtHe8" target="_blank" rel="noopener noreferrer">$22 Million Spent On Pentagon UFO Research - Declassified 2017 - New York Times Story</a></p><p class="youtube-embed-meta">Channel: Wisdom Land &middot; Views: 36.3K &middot; Uploaded: December 2017 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F8owqkrtHe8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F8owqkrtHe8">Open on YouTube</a></p></div></div></div>
 
 ## Green fireballs and why early federal concern was not the same as alien evidence
@@ -317,8 +314,7 @@ The surviving Project Twinkle material shows the official mindset well. A 1949 A
 
 That is one of the most useful lessons for Nevada UFO history. Official interest can be real without the explanation being extraordinary. Project Twinkle was not a casual dismissal, but it also did not become proof of visitors. LANL summarises the outcome bluntly: the programme was never fully implemented, was discontinued after two years, and the official conclusion was that the green fireballs were likely natural in origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lanl.gov">[Los Alamos National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lanl.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7-Illustration-2-light.svg" | relative_url }}" alt="Official Records illustration 2" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7-Illustration-2-dark.svg" | relative_url }}" alt="Official Records illustration 2" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Nevada produces hard-to-read official records
 
 Nevada’s records are unusually difficult to interpret because the state’s sky is not an ordinary sky. The Nevada Test and Training Range, headquartered through Nellis Air Force Base, is described by Nellis as the largest contiguous air-and-ground space available for peacetime military operations in the free world, with 2.9 million acres of land, restricted airspace and military operating areas used for testing and training. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nellis.af.mil/About/Fact-Sheets/Display/Article/284170/nevada-test-and-training-range/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nellis.af.mil">[nellis.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nellis.af.mil</span><span class="citation-popover-title">Nevada Test and Training Range</span><span class="citation-popover-snippet">Nevada Test and Training Range</span></span></span> A Nellis high-end training page describes aircraft operating across more than 15,000 square miles of airspace and 4,700 square miles of restricted land. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nellis.af.mil/About/High-End-Training/videoid/871504/dvpTag/RAF/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nellis.af.mil">[nellis.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nellis.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
@@ -328,7 +324,6 @@ That environment creates two opposite risks. The first is over-belief: any unexp
 Project Blue Book’s own explanatory list shows why both risks matter. The Air Force named common sources of UFO reports, including missiles, balloons, birds, kites, searchlights, aircraft lights, jet exhaust, condensation trails, astronomical bodies and meteorological phenomena. It also noted that aircraft and special training flights could be checked through Air Force and civil air-control channels, although local flights could still complicate evaluation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[whs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">Electronic Service Desk</span><span class="citation-popover-snippet">Electronic Service Desk</span></span></span>
 
 In Nevada, those conventional possibilities are not an afterthought; they are part of the terrain. A radar return near a military range may be more interesting than a vague light over a city, but it may also be exposed to more unusual aircraft, exercises, electronic effects and restricted information than a normal civilian case. That is why the best Nevada records should be read as investigation files, not as courtroom verdicts.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pbiqisA35d8" title="Marathon: UFOs and aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pbiqisA35d8" target="_blank" rel="noopener noreferrer">Marathon: UFOs and aliens</a></p><p class="youtube-embed-meta">Channel: CBS Sunday Morning &middot; Views: 117.0K &middot; Uploaded: February 2026 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pbiqisA35d8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pbiqisA35d8">Open on YouTube</a></p></div></div></div>
 
@@ -342,19 +337,16 @@ That last point is especially important for Nevada. A case can be unresolved bec
 
 The most balanced reading is therefore neither “nothing happened” nor “the files prove aliens”. Nevada’s official UFO record shows that credible people sometimes reported puzzling events, that military agencies sometimes took them seriously, and that some cases were not convincingly explained in the public record. It also shows that the official unresolved label is a data problem before it is a belief statement.
 
-
-<img src="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7-Illustration-3-light.svg" | relative_url }}" alt="Official Records illustration 3" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7-Illustration-3-dark.svg" | relative_url }}" alt="Official Records illustration 3" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Nevada’s UFO files actually show
 
 Nevada’s official UFO paper trail shows a state where the boundary between mystery and military aviation has always been unusually blurred. The archive contains serious Cold War procedures, technical categories, case files and later federal reviews. It also contains weak cases, incomplete reports, dramatic claims that outrun the documentation, and interpretive disputes among later researchers.
 
-The highest-value Nevada examples are not the loudest legends, but the cases where the record has something specific to examine: the 1957 [Angel Peak radar]({{ 'angel-peak/' | relative_url }})/IFF report, the Tonopah close-encounter claim, the 1962 Nellis-linked air-defence case, the late Nellis controller report, and the wider green-fireball investigations that brought scientific and security agencies into early UFO study. Together, they show why Nevada became a durable UFO setting without proving the most sensational claims attached to it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lanl.gov">[Los Alamos National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lanl.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
+The highest-value Nevada examples are not the loudest legends, but the cases where the record has something specific to examine: the 1957 Angel Peak radar/IFF report, the Tonopah close-encounter claim, the 1962 Nellis-linked air-defence case, the late Nellis controller report, and the wider green-fireball investigations that brought scientific and security agencies into early UFO study. Together, they show why Nevada became a durable UFO setting without proving the most sensational claims attached to it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lanl.gov">[Los Alamos National Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lanl.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
 
 For readers trying to judge any Nevada case, the best question is not “Was it explained?” but “What kind of evidence survived?” A named witness, radar record, contemporaneous report and official case file deserve more weight than a retold story with no date or document trail. But even a strong paper trail has limits. In Nevada UFO history, the files are most useful when they keep two truths in view at once: official records preserve real mysteries, and real mysteries are not the same as confirmed extraordinary craft.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EZ8uLaWP0qo" title="BD-0120 Lt Col Robert J Friend Project Blue Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EZ8uLaWP0qo" target="_blank" rel="noopener noreferrer">BD-0120 Lt Col Robert J Friend Project Blue Book</a></p><p class="youtube-embed-meta">Channel: San Diego Air and Space Museum Archives &middot; Views: 20.1K &middot; Uploaded: December 2016 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EZ8uLaWP0qo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EZ8uLaWP0qo">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YdD7Tw2sHfQ" title="US releases files on UFOs, decades of sightings revealed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YdD7Tw2sHfQ" target="_blank" rel="noopener noreferrer">US releases files on UFOs, decades of sightings revealed</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 63.8K &middot; Uploaded: May 2026 &middot; Length: 1 minute 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YdD7Tw2sHfQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YdD7Tw2sHfQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -442,7 +434,7 @@ For readers trying to judge any Nevada case, the best question is not “Was it 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -452,111 +444,36 @@ For readers trying to judge any Nevada case, the best question is not “Was it 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/o-YAAOSwKopk5fnY/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -564,15 +481,15 @@ For readers trying to judge any Nevada case, the best question is not “Was it 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -580,15 +497,15 @@ For readers trying to judge any Nevada case, the best question is not “Was it 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="https://i.ebayimg.com/images/g/B7QAAeSw73loHdMA/s-l225.jpg" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -596,15 +513,15 @@ For readers trying to judge any Nevada case, the best question is not “Was it 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -612,7 +529,7 @@ For readers trying to judge any Nevada case, the best question is not “Was it 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-3cff98-what-nevada-s-ufo-files-actually-show-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-nevada-s-ufo-files-actually-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -689,17 +606,31 @@ For readers trying to judge any Nevada case, the best question is not “Was it 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -712,42 +643,73 @@ For readers trying to judge any Nevada case, the best question is not “Was it 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -762,12 +724,17 @@ For readers trying to judge any Nevada case, the best question is not “Was it 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -778,240 +745,240 @@ For readers trying to judge any Nevada case, the best question is not “Was it 
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 2. <a id="endnote-2"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: esd.whs.mil  
    Title: Electronic Service Desk  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
 
 4. <a id="endnote-4"></a>
    Source: archive.org  
    Title: Internet Archive  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: nicap.org  
    Title: UF O Report  
-   Link: [https://www.nicap.org/620418adc_alert_dir.htm](https://www.nicap.org/620418adc_alert_dir.htm)  
+   Link: <a href="https://www.nicap.org/620418adc_alert_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/620418adc_alert_dir.htm</a>  
 
 6. <a id="endnote-6"></a>
    Source: lanl.gov  
-   Link: [https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center](https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center)  
+   Link: <a href="https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-security-research-center</a>  
 
 7. <a id="endnote-7"></a>
    Source: documents2.theblackvault.com  
    Title: ProjectTwinkle November1951  
-   Link: [https://documents2.theblackvault.com/documents/projectbluebook/ProjectTwinkle-November1951.pdf](https://documents2.theblackvault.com/documents/projectbluebook/ProjectTwinkle-November1951.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectTwinkle-November1951.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/ProjectTwinkle-November1951.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: nellis.af.mil  
    Title: Nevada Test and Training Range  
-   Link: [https://www.nellis.af.mil/About/Fact-Sheets/Display/Article/284170/nevada-test-and-training-range/](https://www.nellis.af.mil/About/Fact-Sheets/Display/Article/284170/nevada-test-and-training-range/)  
+   Link: <a href="https://www.nellis.af.mil/About/Fact-Sheets/Display/Article/284170/nevada-test-and-training-range/" target="_blank" rel="noopener noreferrer nofollow">https://www.nellis.af.mil/About/Fact-Sheets/Display/Article/284170/nevada-test-and-training-range/</a>  
 
 9. <a id="endnote-9"></a>
    Source: nellis.af.mil  
-   Link: [https://www.nellis.af.mil/About/High-End-Training/videoid/871504/dvpTag/RAF/](https://www.nellis.af.mil/About/High-End-Training/videoid/871504/dvpTag/RAF/)  
+   Link: <a href="https://www.nellis.af.mil/About/High-End-Training/videoid/871504/dvpTag/RAF/" target="_blank" rel="noopener noreferrer nofollow">https://www.nellis.af.mil/About/High-End-Training/videoid/871504/dvpTag/RAF/</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 12. <a id="endnote-12"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1962fullrep.htm](https://www.nicap.org/chronos/1962fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1962fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1962fullrep.htm</a>  
 
 13. <a id="endnote-13"></a>
    Source: nicap.org  
    Title: The Las Vegas UFO Crash  
-   Link: [https://www.nicap.org/reports/vegas_randle.htm](https://www.nicap.org/reports/vegas_randle.htm)  
+   Link: <a href="https://www.nicap.org/reports/vegas_randle.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/vegas_randle.htm</a>  
 
 14. <a id="endnote-14"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports/570716lasvegas_rep.htm](https://www.nicap.org/reports/570716lasvegas_rep.htm)  
+   Link: <a href="https://www.nicap.org/reports/570716lasvegas_rep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/570716lasvegas_rep.htm</a>  
 
 15. <a id="endnote-15"></a>
    Source: nicap.org  
    Title: UFO Evidence 1964  
-   Link: [https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf](https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf)  
+   Link: <a href="https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: nicap.org  
    Title: ReportUFOWave1947 SectionIII  
-   Link: [https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionIII.htm](https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionIII.htm)  
+   Link: <a href="https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionIII.htm" target="_blank" rel="noopener noreferrer nofollow">https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionIII.htm</a>  
 
 17. <a id="endnote-17"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1961fullrep.htm](https://www.nicap.org/chronos/1961fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1961fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1961fullrep.htm</a>  
 
 18. <a id="endnote-18"></a>
    Source: nicap.org  
-   Link: [https://nicap.org/waves/Wave47Rpt/ReportOnWaveOf1947.pdf](https://nicap.org/waves/Wave47Rpt/ReportOnWaveOf1947.pdf)  
+   Link: <a href="https://nicap.org/waves/Wave47Rpt/ReportOnWaveOf1947.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nicap.org/waves/Wave47Rpt/ReportOnWaveOf1947.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1959fullrep.htm](https://www.nicap.org/chronos/1959fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1959fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1959fullrep.htm</a>  
 
 20. <a id="endnote-20"></a>
    Source: nicap.org  
    Title: Loedding Book  
-   Link: [https://www.nicap.org/loedding/LoeddingBook.pdf](https://www.nicap.org/loedding/LoeddingBook.pdf)  
+   Link: <a href="https://www.nicap.org/loedding/LoeddingBook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/loedding/LoeddingBook.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf](https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: nellis.af.mil  
    Title: High End Training  
-   Link: [https://www.nellis.af.mil/About/High-End-Training/?dvpTag=amsus&dvpmoduleid=50951](https://www.nellis.af.mil/About/High-End-Training/?dvpTag=amsus&dvpmoduleid=50951)  
+   Link: <a href="https://www.nellis.af.mil/About/High-End-Training/?dvpTag=amsus&amp;dvpmoduleid=50951" target="_blank" rel="noopener noreferrer nofollow">https://www.nellis.af.mil/About/High-End-Training/?dvpTag=amsus&amp;dvpmoduleid=50951</a>  
 
 23. <a id="endnote-23"></a>
    Source: nellis.af.mil  
    Title: mil RE D FLAG 10-3  
-   Link: [https://www.nellis.af.mil/About/High-End-Training/Red-Flag-Nellis/igphoto/2000391622/](https://www.nellis.af.mil/About/High-End-Training/Red-Flag-Nellis/igphoto/2000391622/)  
+   Link: <a href="https://www.nellis.af.mil/About/High-End-Training/Red-Flag-Nellis/igphoto/2000391622/" target="_blank" rel="noopener noreferrer nofollow">https://www.nellis.af.mil/About/High-End-Training/Red-Flag-Nellis/igphoto/2000391622/</a>  
 
 24. <a id="endnote-24"></a>
    Source: archive.org  
    Title: project twinkle november 1951  
-   Link: [https://archive.org/details/project-twinkle-november-1951](https://archive.org/details/project-twinkle-november-1951)  
+   Link: <a href="https://archive.org/details/project-twinkle-november-1951" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/project-twinkle-november-1951</a>  
    Published: november 1951  
 
 25. <a id="endnote-25"></a>
    Source: archive.org  
    Title: scientificstudyo0000unse l5t2  
-   Link: [https://archive.org/details/scientificstudyo0000unse_l5t2](https://archive.org/details/scientificstudyo0000unse_l5t2)  
+   Link: <a href="https://archive.org/details/scientificstudyo0000unse_l5t2" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/scientificstudyo0000unse_l5t2</a>  
 
 26. <a id="endnote-26"></a>
    Source: esd.whs.mil  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/nas_re1.pdf?ver=2017-05-22-113513-883](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/nas_re1.pdf?ver=2017-05-22-113513-883)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/nas_re1.pdf?ver=2017-05-22-113513-883" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/nas_re1.pdf?ver=2017-05-22-113513-883</a>  
 
 27. <a id="endnote-27"></a>
    Source: esd.whs.mil  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/2d_af_1.pdf](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/2d_af_1.pdf)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/2d_af_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/2d_af_1.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: space.com  
    Title: project blue book ufos season two  
-   Link: [https://www.space.com/project-blue-book-ufos-season-two.html](https://www.space.com/project-blue-book-ufos-season-two.html)  
+   Link: <a href="https://www.space.com/project-blue-book-ufos-season-two.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/project-blue-book-ufos-season-two.html</a>  
 
 29. <a id="endnote-29"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
 30. <a id="endnote-30"></a>
    Source: vault.fbi.gov  
    Title: Project Blue Book (UFO)  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
 
 31. <a id="endnote-31"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 32. <a id="endnote-32"></a>
    Source: history.com  
    Title: of UFOs  
-   Link: [https://www.history.com/articles/history-of-ufos](https://www.history.com/articles/history-of-ufos)  
+   Link: <a href="https://www.history.com/articles/history-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/history-of-ufos</a>  
 
 33. <a id="endnote-33"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: [https://www.history.com/articles/project-blue-book](https://www.history.com/articles/project-blue-book)  
+   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
 
 34. <a id="endnote-34"></a>
    Source: archives.gov  
    Title: uap bulk download  
-   Link: [https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download](https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download)  
+   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
 
 35. <a id="endnote-35"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 36. <a id="endnote-36"></a>
    Source: Wikipedia  
    Title: Green fireballs  
-   Link: [https://en.wikipedia.org/wiki/Green_fireballs](https://en.wikipedia.org/wiki/Green_fireballs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Green_fireballs</a>  
 
 37. <a id="endnote-37"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 38. <a id="endnote-38"></a>
    Source: Wikipedia  
    Title: Nellis Air Force Base  
-   Link: [https://en.wikipedia.org/wiki/Nellis_Air_Force_Base](https://en.wikipedia.org/wiki/Nellis_Air_Force_Base)  
+   Link: <a href="https://en.wikipedia.org/wiki/Nellis_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nellis_Air_Force_Base</a>  
 
 39. <a id="endnote-39"></a>
    Source: Wikipedia  
    Title: Nevada Test and Training Range  
-   Link: [https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range](https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range)  
+   Link: <a href="https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range</a>  
 
 40. <a id="endnote-40"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: [https://origins.osu.edu/read/air-force-investigation-ufos](https://origins.osu.edu/read/air-force-investigation-ufos)  
+   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
 
 41. <a id="endnote-41"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
 42. <a id="endnote-42"></a>
    Source: youtube.com  
    Title: $22 Million Spent On Pentagon UFO Research  
-   Link: [https://www.youtube.com/watch?v=F8owqkrtHe8](https://www.youtube.com/watch?v=F8owqkrtHe8)  
+   Link: <a href="https://www.youtube.com/watch?v=F8owqkrtHe8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F8owqkrtHe8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They Just Declassified The UFO Files. Here&#x27;s What They Actually Say...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
    Title: They Just Declassified The UFO Files. Here's What They Actually Say  
-   Link: [https://www.youtube.com/watch?v=u79WMCZJlsw](https://www.youtube.com/watch?v=u79WMCZJlsw)  
+   Link: <a href="https://www.youtube.com/watch?v=u79WMCZJlsw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u79WMCZJlsw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BD-0120 Lt Col Robert J Friend Project Blue Book...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=EZ8uLaWP0qo](https://www.youtube.com/watch?v=EZ8uLaWP0qo)  
+   Link: <a href="https://www.youtube.com/watch?v=EZ8uLaWP0qo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EZ8uLaWP0qo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US releases files on UFOs, decades of sightings revealed...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: blaze.tv  
-   Link: [https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book](https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book)  
+   Link: <a href="https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book</a>  
 
 47. <a id="endnote-47"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/177620292284538/posts/2547575945288949/](https://www.facebook.com/groups/177620292284538/posts/2547575945288949/)  
+   Link: <a href="https://www.facebook.com/groups/177620292284538/posts/2547575945288949/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/177620292284538/posts/2547575945288949/</a>  
 
 48. <a id="endnote-48"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Crash-When-UfoS-Fall-Sky/dp/1601631006](https://www.amazon.co.uk/Crash-When-UfoS-Fall-Sky/dp/1601631006)  
+   Link: <a href="https://www.amazon.co.uk/Crash-When-UfoS-Fall-Sky/dp/1601631006" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Crash-When-UfoS-Fall-Sky/dp/1601631006</a>  
 
 49. <a id="endnote-49"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/ivsmf/dr_j_allen_hynek_astronomer_and_chief/](https://www.reddit.com/r/space/comments/ivsmf/dr_j_allen_hynek_astronomer_and_chief/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/ivsmf/dr_j_allen_hynek_astronomer_and_chief/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/ivsmf/dr_j_allen_hynek_astronomer_and_chief/</a>  
 
 50. <a id="endnote-50"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/192717159/Final-Report-of-the-Scientific-Study-of-Unidentified-Flying-Objects](https://www.scribd.com/document/192717159/Final-Report-of-the-Scientific-Study-of-Unidentified-Flying-Objects)  
+   Link: <a href="https://www.scribd.com/document/192717159/Final-Report-of-the-Scientific-Study-of-Unidentified-Flying-Objects" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/192717159/Final-Report-of-the-Scientific-Study-of-Unidentified-Flying-Objects</a>  
 
 51. <a id="endnote-51"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/rufo/rufo06.htm](https://sacred-texts.com/ufo/rufo/rufo06.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo06.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo06.htm</a>

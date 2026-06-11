@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /1952-radar-flap/
 nav_short_title: Andrews Radar Tracking
 title: How Andrews AFB Documented the 1952 Washington UFOs
-title_full: How Andrews AFB Documented the 1952 Washington UFOs | 1952 Radar Flap
+title_full: How Andrews AFB Documented the 1952 Washington UFOs
 display_title_short: Andrews Radar Tracking
 display_title: Andrews Radar Tracking
 heading_title: How Andrews AFB Documented the 1952 Washington UFOs
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:35:22'
-parent_title: Maryland’s Role in the 1952 Washington Radar UFO Wave | Maryland UFOs
+parent_title: Maryland’s Role in the 1952 Washington Radar UFO Wave
 parent_permalink: /1952-radar-flap/
 parent_nav_short_title: 1952 Radar Flap
 parent_heading_title: Maryland’s Role in the 1952 Washington Radar UFO Wave
@@ -250,10 +250,9 @@ image: /assets/images/Maryland_1ac107_1952_radar_flap_3c6c7b_andrews_afb_radar_a
 
 ## Introduction
 
-In July 1952, Andrews Air Force Base in [Maryland]({{ 'marylands-ufo-mysteries-close-encounters/' | relative_url }}) became one of the most important military locations in the investigation of the Washington radar sightings. While the broader incident is often remembered as a UFO flap over the American capital, Andrews' role was more specific and more significant: its radar operators, controllers and tower personnel provided one of the key independent checks on what Washington National Airport was seeing on its own screens. Because the sightings involved both military and civilian radar systems, Andrews helped transform what might otherwise have been dismissed as a local radar malfunction into a national security concern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
+In July 1952, Andrews Air Force Base in Maryland became one of the most important military locations in the investigation of the Washington radar sightings. While the broader incident is often remembered as a UFO flap over the American capital, Andrews' role was more specific and more significant: its radar operators, controllers and tower personnel provided one of the key independent checks on what Washington National Airport was seeing on its own screens. Because the sightings involved both military and civilian radar systems, Andrews helped transform what might otherwise have been dismissed as a local radar malfunction into a national security concern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
 
-
-<img src="{{ "/assets/images/Maryland_1ac107_1952_radar_flap_3c6c7b_andrews_afb_radar_an_2fac68-Illustration-1-light.svg" | relative_url }}" alt="Andrews Radar Tracking illustration 1" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_1952_radar_flap_3c6c7b_andrews_afb_radar_an_2fac68-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_1952_radar_flap_3c6c7b_andrews_afb_radar_an_2fac68-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Maryland_1ac107_1952_radar_flap_3c6c7b_andrews_afb_radar_an_2fac68-Illustration-1-dark.svg" | relative_url }}" alt="Andrews Radar Tracking illustration 1" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_1952_radar_flap_3c6c7b_andrews_afb_radar_an_2fac68-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_1952_radar_flap_3c6c7b_andrews_afb_radar_an_2fac68-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The Andrews data remain central to debates about the case. Supporters of the unexplained interpretation argue that multiple radar systems tracked the same targets simultaneously, while sceptics point to atmospheric conditions, radar limitations and misidentified visual observations. More than seventy years later, the Andrews records still sit at the heart of the question: were controllers tracking genuine airborne objects, or were they witnessing a combination of radar anomalies and ordinary lights distorted by unusual weather conditions? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical...</span></span></span>
 
 ## How Andrews Radar Entered the Investigation
@@ -276,8 +275,7 @@ On the other hand, sceptics note that 1950s radar technology was far more vulner
 
 The Andrews records therefore became a test case not only for UFO claims but also for the reliability of early radar interpretation under unusual atmospheric conditions.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UKzI3uu_oTQ" title="Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 393.5K &middot; Uploaded: March 2019 &middot; Length: 2 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UKzI3uu_oTQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mPoOW6vXJW4" title="Shocking New Evidence of UFO Invasion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mPoOW6vXJW4" target="_blank" rel="noopener noreferrer">Shocking New Evidence of UFO Invasion</a></p><p class="youtube-embed-meta">Channel: The Infographics Show &middot; Views: 240.1K &middot; Uploaded: March 2024 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mPoOW6vXJW4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mPoOW6vXJW4">Open on YouTube</a></p></div></div></div>
 
 ## The Night of 19–20 July
 
@@ -297,8 +295,7 @@ Project Blue Book documentation relating to the second weekend noted that the mo
 
 The repetition of unusual radar reports on two separate weekends strengthened public interest. If atmospheric conditions were responsible, they had apparently produced remarkably similar results on separate occasions. If the targets represented genuine objects, then they had returned to some of the most sensitive airspace in the United States. Either possibility made the Andrews data difficult to dismiss casually. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical...</span></span></span>
 
-
-<img src="{{ "/assets/images/Maryland_1ac107_1952_radar_flap_3c6c7b_andrews_afb_radar_an_2fac68-Illustration-2-light.svg" | relative_url }}" alt="Andrews Radar Tracking illustration 2" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_1952_radar_flap_3c6c7b_andrews_afb_radar_an_2fac68-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_1952_radar_flap_3c6c7b_andrews_afb_radar_an_2fac68-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maryland_1ac107_1952_radar_flap_3c6c7b_andrews_afb_radar_an_2fac68-Illustration-2-dark.svg" | relative_url }}" alt="Andrews Radar Tracking illustration 2" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_1952_radar_flap_3c6c7b_andrews_afb_radar_an_2fac68-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_1952_radar_flap_3c6c7b_andrews_afb_radar_an_2fac68-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Visual Observations and Their Limits
 
 Although the radar evidence receives most attention, Andrews personnel also made visual reports. These accounts are often presented alongside the radar returns as corroborating evidence. Yet they were not always as strong as later retellings suggest.
@@ -309,13 +306,12 @@ This reversal is important because it illustrates a recurring pattern in the Was
 
 At the same time, not every observer accepted conventional explanations. Some Andrews personnel remained convinced that what they witnessed could not be reduced entirely to stars, meteors or ordinary aircraft. The disagreement among witnesses is one reason the incident remains controversial rather than fully resolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical...</span></span></span>
 
-
-<img src="{{ "/assets/images/Maryland_1ac107_1952_radar_flap_3c6c7b_andrews_afb_radar_an_2fac68-Illustration-3-light.svg" | relative_url }}" alt="Andrews Radar Tracking illustration 3" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_1952_radar_flap_3c6c7b_andrews_afb_radar_an_2fac68-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_1952_radar_flap_3c6c7b_andrews_afb_radar_an_2fac68-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maryland_1ac107_1952_radar_flap_3c6c7b_andrews_afb_radar_an_2fac68-Illustration-3-dark.svg" | relative_url }}" alt="Andrews Radar Tracking illustration 3" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_1952_radar_flap_3c6c7b_andrews_afb_radar_an_2fac68-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_1952_radar_flap_3c6c7b_andrews_afb_radar_an_2fac68-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Andrews Confirmation Still Matters
 
 The strongest argument for the significance of Andrews Air Force Base is not any single visual sighting. It is the existence of multiple reporting channels operating within the same event window.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17744754/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wral.com">[The Washington sightings involved:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wral.com</span><span class="citation-popover-title">a radar blip a flash of light how ufos exploded into public view</span><span class="citation-popover-snippet">A Radar Blip, a Flash of Light: How UFOs &#x27;Exploded&#x27; Into...Aug 3, 2018 — One theory promoted by the Air Force was that a layer of hot ai...</span></span></span>
+The Washington sightings involved: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17744754/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wral.com">[wral.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wral.com</span><span class="citation-popover-title">a radar blip a flash of light how ufos exploded into public view</span><span class="citation-popover-snippet">A Radar Blip, a Flash of Light: How UFOs &#x27;Exploded&#x27; Into...Aug 3, 2018 — One theory promoted by the Air Force was that a layer of hot ai...</span></span></span>
 
 * Civilian radar at Washington National Airport. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">CIA&#x27;s Role in the Study of UFOs, 1947-90On 19 and 20 July, radar scopes at Washington National Airport and Andrews Air Force Base tracked...</span></span></span> * Military radar at Andrews Air Force Base. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">CIA&#x27;s Role in the Study of UFOs, 1947-90On 19 and 20 July, radar scopes at Washington National Airport and Andrews Air Force Base tracked...</span></span></span>
 * Air traffic controllers and military personnel.
@@ -326,8 +322,7 @@ This overlap created the impression of a multi-sensor event decades before the p
 
 For Maryland's UFO history, Andrews occupies a distinctive place because it supplied the military confirmation that elevated the incident from a local curiosity to a national defence issue. Without Andrews, the Washington radar sightings might have remained a story about one airport's radar anomalies. With Andrews involved, the episode triggered Air Force investigations, national headlines and one of the largest Pentagon press conferences since the Second World War. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mPoOW6vXJW4" title="Shocking New Evidence of UFO Invasion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mPoOW6vXJW4" target="_blank" rel="noopener noreferrer">Shocking New Evidence of UFO Invasion</a></p><p class="youtube-embed-meta">Channel: The Infographics Show &middot; Views: 240.1K &middot; Uploaded: March 2024 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mPoOW6vXJW4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mPoOW6vXJW4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/azW33jxaHPs" title="Images of UAPs: Objects Discovered Same Day UFOs Flew Over D.C. in 1952 with Beatriz Villarroel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=azW33jxaHPs" target="_blank" rel="noopener noreferrer">Images of UAPs: Objects Discovered Same Day UFOs Flew Over D.C. in 1952 with Beatriz Villarroel</a></p><p class="youtube-embed-meta">Channel: Event Horizon &middot; Views: 186.3K &middot; Uploaded: December 2023 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=azW33jxaHPs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=azW33jxaHPs">Open on YouTube</a></p></div></div></div>
 
 ## The Continuing Debate Over the Radar Data
 
@@ -339,9 +334,7 @@ Sceptics focus on the meteorological conditions. Air Force investigators, Civil 
 
 What makes the Andrews case historically important is that neither side fully eliminated the other argument. The radar data were substantial enough to spark serious investigation, yet incomplete enough to prevent a definitive conclusion. That unresolved status explains why Andrews Air Force Base remains one of the most frequently discussed Maryland locations in the history of the 1952 Washington sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[2sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">CIA&#x27;s Role in the Study of UFOs, 1947-90On 19 and 20 July, radar scopes at Washington National Airport and Andrews Air Force Base tracked...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/azW33jxaHPs" title="Images of UAPs: Objects Discovered Same Day UFOs Flew Over D.C. in 1952 with Beatriz Villarroel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=azW33jxaHPs" target="_blank" rel="noopener noreferrer">Images of UAPs: Objects Discovered Same Day UFOs Flew Over D.C. in 1952 with Beatriz Villarroel</a></p><p class="youtube-embed-meta">Channel: Event Horizon &middot; Views: 186.3K &middot; Uploaded: December 2023 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=azW33jxaHPs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=azW33jxaHPs">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2k7K5H6Htl8" title="1952 - The Invasion of Washington | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2k7K5H6Htl8" target="_blank" rel="noopener noreferrer">1952 - The Invasion of Washington | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Mediatime Network &middot; Views: 4.8K &middot; Uploaded: December 2024 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2k7K5H6Htl8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2k7K5H6Htl8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -765,77 +758,77 @@ What makes the Andrews case historically important is that neither side fully el
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: 1952 Washington, D.C. UFO incident  
-   Link: [https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident](https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: sgp.fas.org  
-   Link: [https://sgp.fas.org/library/ciaufo.html](https://sgp.fas.org/library/ciaufo.html)  
+   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA&#x27;s Role in the Study of UFOs, 1947-90On 19 and 20 July, radar scopes at Washington National Airport and Andrews Air Force Base tracked...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cufon.org  
    Title: bb 1661  
-   Link: [https://www.cufon.org/cufon/wash_nat/bb_1661.htm](https://www.cufon.org/cufon/wash_nat/bb_1661.htm)  
+   Link: <a href="https://www.cufon.org/cufon/wash_nat/bb_1661.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/wash_nat/bb_1661.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Case 1661 - CUFONUnidentified objects were sighted between 2000E and 2300E on 26 July 1952. The sightings were visual a...</p></details>
    Published: July 1952  
 
 4. <a id="endnote-4"></a>
    Source: wral.com  
    Title: a radar blip a flash of light how ufos exploded into public view  
-   Link: [https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17744754/](https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17744754/)  
+   Link: <a href="https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17744754/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17744754/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Radar Blip, a Flash of Light: How UFOs &#x27;Exploded&#x27; Into...Aug 3, 2018 — One theory promoted by the Air Force was that a layer of hot ai...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: wral.com  
    Title: a radar blip a flash of light how ufos exploded into public view  
-   Link: [https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17745227/](https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17745227/)  
+   Link: <a href="https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17745227/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17745227/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Radar Blip, a Flash of Light: How UFOs &#x27;Exploded&#x27; Into...3 Aug 2018 — “I don&#x27;t think [temperature inversion](&amp;#123;&amp;#123; &#x27;temperature-inversion/&#x27; | relative_url &amp;#125;&amp;#125;) had much to do with it, but...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: history.com  
    Title: Read more  
-   Link: [https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago](https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago)  
+   Link: <a href="https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the US Air Force Investigated UFOs During the Cold...17 Dec 2014 — Perhaps the most extraordinary of all came in July 1952, when a s...</p></details>
    Published: July 1952  
 
 8. <a id="endnote-8"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/rufo/rufo14.htm](https://sacred-texts.com/ufo/rufo/rufo14.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo14.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo14.htm</a>  
 
 9. <a id="endnote-9"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/rufo/rufo13.htm](https://sacred-texts.com/ufo/rufo/rufo13.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo13.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo13.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Sacred Text ArchiveThe Report on Unidentified Flying Objects: Chapter Eleven...In early June 1952, Project Blue Book was operati...</p></details>
    Published: June 1952  
 
 10. <a id="endnote-10"></a>
    Source: cia.gov  
    Title: cia rdp81r00560r000100010001 0  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...The celebrated Washington radar sightings of July 1952 occurred during a period when typical...</p></details>
    Published: July 1952  
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects25 Jun 2024 — Pro-UFO researchers claim that an extraterrestrial spacecraft and its alien occupants were recov...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book | Definition, History, Aliens, UFOs, &amp; FactsIn the hot summer of 1952 a provocative series of radar and visual sighting...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: washingtonian.com  
    Title: dc had multiple ufo sightings 71 years ago  
-   Link: [https://washingtonian.com/2023/02/13/dc-had-multiple-ufo-sightings-71-years-ago/](https://washingtonian.com/2023/02/13/dc-had-multiple-ufo-sightings-71-years-ago/)  
+   Link: <a href="https://washingtonian.com/2023/02/13/dc-had-multiple-ufo-sightings-71-years-ago/" target="_blank" rel="noopener noreferrer nofollow">https://washingtonian.com/2023/02/13/dc-had-multiple-ufo-sightings-71-years-ago/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Airport reported seven unexplained radar blips, including over the White House and Capitol. Other controllers—at National and Andrews Air...</p></details>
 
 ### Additional References
@@ -843,60 +836,60 @@ What makes the Andrews case historically important is that neither side fully el
 14. <a id="endnote-14"></a>
    Source: medium.com  
    Title: ufos and radar targets clutter safety and false certainty c3eab7a878ad  
-   Link: [https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad](https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad)  
+   Link: <a href="https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Radar: Targets, Clutter, Safety, and False CertaintyFrom Washington 1952 to the Nimitz encounter, this story explores UFOs, rada...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: visiontimes.com  
    Title: the 1952 washington d c ufo incidents that shocked the white house  
-   Link: [https://www.visiontimes.com/2026/02/10/the-1952-washington-d-c-ufo-incidents-that-shocked-the-white-house.html](https://www.visiontimes.com/2026/02/10/the-1952-washington-d-c-ufo-incidents-that-shocked-the-white-house.html)  
+   Link: <a href="https://www.visiontimes.com/2026/02/10/the-1952-washington-d-c-ufo-incidents-that-shocked-the-white-house.html" target="_blank" rel="noopener noreferrer nofollow">https://www.visiontimes.com/2026/02/10/the-1952-washington-d-c-ufo-incidents-that-shocked-the-white-house.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Incidents That Shocked...Feb 10, 2026 — Strikingly, when the jets entered the area, the radar targets temporarily vanished; once the...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: dcist.com  
    Title: in the early 1950s d c was obsessed with ufos heres why  
-   Link: [https://dcist.com/story/19/12/09/in-the-early-1950s-d-c-was-obsessed-with-ufos-heres-why/](https://dcist.com/story/19/12/09/in-the-early-1950s-d-c-was-obsessed-with-ufos-heres-why/)  
+   Link: <a href="https://dcist.com/story/19/12/09/in-the-early-1950s-d-c-was-obsessed-with-ufos-heres-why/" target="_blank" rel="noopener noreferrer nofollow">https://dcist.com/story/19/12/09/in-the-early-1950s-d-c-was-obsessed-with-ufos-heres-why/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Was Obsessed With UFOs. Here&#x27;s...Dec 9, 2019 — The incidents over D.C. was one of a number of UFO sightings across the country that the...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: enigmalabs.io  
    Title: Washington D.C. Incident At 11:40 p.m. on Saturday,  
-   Link: [https://enigmalabs.io/library/ca7fafd2-c59e-4b29-a1ec-5dbb92d02fd8](https://enigmalabs.io/library/ca7fafd2-c59e-4b29-a1ec-5dbb92d02fd8)  
+   Link: <a href="https://enigmalabs.io/library/ca7fafd2-c59e-4b29-a1ec-5dbb92d02fd8" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/ca7fafd2-c59e-4b29-a1ec-5dbb92d02fd8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Washington D.C. IncidentAt 11:40 p.m. on Saturday, July 19, 1952, an air traffic controller at Washington National Airport spotted seven...</p></details>
    Published: July 19, 1952  
 
 18. <a id="endnote-18"></a>
    Source: prologue.blogs.archives.gov  
    Title: Saucers over Washington,  
-   Link: [https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/](https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistorySaucers Over Washington: the History of Project Blue Book19 Dec 2019 — The primary purpose of Project Blue Book was to k...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: eurasiantimes.com  
    Title: America's "Most Dramatic" UFO Encounter!  
-   Link: [https://www.eurasiantimes.com/white-house-under-siege-ufos-swarmed-the-white-house/](https://www.eurasiantimes.com/white-house-under-siege-ufos-swarmed-the-white-house/)  
+   Link: <a href="https://www.eurasiantimes.com/white-house-under-siege-ufos-swarmed-the-white-house/" target="_blank" rel="noopener noreferrer nofollow">https://www.eurasiantimes.com/white-house-under-siege-ufos-swarmed-the-white-house/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>73 Years After...11 Jan 2026 —... 1952. On July 19-20, radar operators at Washington National Airport, Andrews Air Force Base, and othe...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOB/comments/1hd9ztr/the_1952_washington_dc_ufo_incident_and/](https://www.reddit.com/r/UFOB/comments/1hd9ztr/the_1952_washington_dc_ufo_incident_and/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe 1952 Washington D.C. UFO Incident and similarities to...- At one point both radar centers at National Airport and the radar at...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/1hd9ztr/the_1952_washington_dc_ufo_incident_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1hd9ztr/the_1952_washington_dc_ufo_incident_and/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1952 Washington D.C. UFO Incident and similarities to...- At one point both radar centers at National Airport and the radar at...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/s3chap05.htm](https://files.ncas.org/condon/text/s3chap05.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap05.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Report, Sec III, Chapter 5: Optical &amp; Radar AnalysisWeather: clear with visibility unlimited; temperature inversion layer with sharp humi...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
    Title: On This Day in Arlington history,  
-   Link: [https://www.facebook.com/ArlingtonHistoricalSociety/posts/on-this-day-in-arlington-history-july-19-1952-harry-s-barnes-the-senior-air-rout/1053390619708592/](https://www.facebook.com/ArlingtonHistoricalSociety/posts/on-this-day-in-arlington-history-july-19-1952-harry-s-barnes-the-senior-air-rout/1053390619708592/)  
+   Link: <a href="https://www.facebook.com/ArlingtonHistoricalSociety/posts/on-this-day-in-arlington-history-july-19-1952-harry-s-barnes-the-senior-air-rout/1053390619708592/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArlingtonHistoricalSociety/posts/on-this-day-in-arlington-history-july-19-1952-harry-s-barnes-the-senior-air-rout/1053390619708592/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 19, 1952...The unknown radar targets could be explained by temperature inversion, which was present in the air over Washington DC...</p></details>
    Published: July 19, 1952  
 
 23. <a id="endnote-23"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR9 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book%2C_BBA-PBSR9-300.pdf](https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book%2C_BBA-PBSR9-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book%2C_BBA-PBSR9-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book%2C_BBA-PBSR9-300.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveAt 0030 EST on 30 November 1952, the CAA radar at Washington National. Airport again began to show &quot;blips&quot; simil...</p></details>
-   Published: November 1952  
+   Published: November 1952

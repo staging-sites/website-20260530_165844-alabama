@@ -7,7 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /connecticut-ec4da3-index/
 description: 'Focused pages that expand on Connecticut UFOs: From Colonial Legends
   to....'
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Connecticut_ec4da3
 parent_title: 'Connecticut UFOs: From Colonial Legends to...'

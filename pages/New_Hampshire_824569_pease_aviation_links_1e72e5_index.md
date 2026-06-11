@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-hampshire-824569-pease-aviation/
 description: Focused pages that expand on Pease Aviation.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: New_Hampshire_824569_pease_aviation_links_1e72e5
-parent_title: Pease Aviation | Why New Hampshire Became UFO Country
+parent_title: Pease Aviation
 parent_nav_short_title: Pease Aviation
 parent_permalink: /pease-aviation/
 ---

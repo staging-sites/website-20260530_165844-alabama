@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-hawaiis-ufo/
 nav_short_title: Sky Clues
 title: Why Hawaii Makes Ordinary Lights Look Strange
-title_full: Why Hawaii Makes Ordinary Lights Look Strange | Hawaii UFOs
+title_full: Why Hawaii Makes Ordinary Lights Look Strange
 display_title_short: Sky Clues
 display_title: Sky Clues
 heading_title: Why Hawaii Makes Ordinary Lights Look Strange
@@ -262,8 +262,7 @@ image: /assets/images/Hawaii_a1be95_hawaii_sky_clues_4b6aed-overview-social.jpg
 
 ## Introduction
 
-[Hawaii]({{ 'what-really-happened-in-hawaiis-ufo/' | relative_url }}) is a good place to see real things in the sky that are easy to misread. The ocean removes distance clues, dark horizons make lights look lower or closer than they are, and the islands sit under busy paths for satellites, aircraft, rocket debris and high-altitude observation cameras. That combination has helped turn ordinary or human-made events into UFO stories: glowing objects said to drop into the sea, strings of lights that look like a silent “craft”, spirals above Maunakea, and green laser streaks caught by observatory cameras.
-
+Hawaii is a good place to see real things in the sky that are easy to misread. The ocean removes distance clues, dark horizons make lights look lower or closer than they are, and the islands sit under busy paths for satellites, aircraft, rocket debris and high-altitude observation cameras. That combination has helped turn ordinary or human-made events into UFO stories: glowing objects said to drop into the sea, strings of lights that look like a silent “craft”, spirals above Maunakea, and green laser streaks caught by observatory cameras.
 
 <img src="{{ "/assets/images/Hawaii_a1be95_hawaii_sky_clues_4b6aed-overview.webp" | relative_url }}" alt="Overview image for Sky Clues" loading="eager" decoding="sync" fetchpriority="high">
 The best lesson from these cases is not that Hawaii sightings are worthless. It is that a report can begin with a sincere observation and still be a false UFO clue. The most useful Hawaii evidence is therefore often the follow-up: the time, direction, camera location, aviation records, satellite predictions, weather, and whether independent observers saw the same thing from different positions.
@@ -278,8 +277,7 @@ Atmospheric refraction and mirage effects add another layer. Over water, tempera
 
 For UFO history, the key point is practical. A coastal witness may truthfully report that a light seemed to pass below the horizon, yet that does not prove a craft entered the ocean. A useful report needs more than a vivid description. It needs a viewing direction, an approximate elevation above the horizon, a duration, a location, and ideally a second viewpoint from another part of the island.
 
-
-<img src="{{ "/assets/images/Hawaii_a1be95_hawaii_sky_clues_4b6aed-Illustration-1-light.svg" | relative_url }}" alt="Sky Clues illustration 1" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95_hawaii_sky_clues_4b6aed-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95_hawaii_sky_clues_4b6aed-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Hawaii_a1be95_hawaii_sky_clues_4b6aed-Illustration-1-dark.svg" | relative_url }}" alt="Sky Clues illustration 1" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95_hawaii_sky_clues_4b6aed-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95_hawaii_sky_clues_4b6aed-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Oahu blue object and the “drop into the sea” problem
 
 The best modern example is the blue object reported over Leeward Oahu on 29 December 2020. Hawaii News Now reported that the sighting happened around 8:30 p.m., that multiple videos showed a glowing oblong mass in the sky and in the water, and that witnesses called 911. The Federal Aviation Administration said there were no aircraft incidents or accidents in the area at the time, while witnesses described a large blue object falling from the sky into the ocean. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hawaiinewsnow.com/2020/12/31/faa-notified-after-mysterious-ufo-seen-above-oahu-appeared-drop-into-ocean/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hawaiinewsnow.com">[https://www.hawaiinewsnow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hawaiinewsnow.com</span><span class="citation-popover-snippet">Open source on hawaiinewsnow.com.</span></span></span>
@@ -291,7 +289,6 @@ Yet those same details also show the limits of the evidence. The FAA’s “no a
 Sceptical investigators quickly compared the blue object with an LED kite or similar illuminated wind-borne object. Metabunk argued that the shape and changing curved line resembled an LED kite, and Skeptical Inquirer treated the case as a useful example of how video compression, motion blur, distance uncertainty and a striking colour can amplify mystery. This is not the same as a conclusive recovery of the object. It is a plausible explanation that fits several visual clues better than a crashed aircraft or exotic craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/blue-ufo-over-hawaii.11526/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">blue ufo over hawaii.11526</span><span class="citation-popover-snippet">blue ufo over hawaii.11526</span></span></span>
 
 The Oahu case therefore sits in a middle category. It was a real public event with witnesses and official notification, but its evidential value is limited because the apparent ocean entry is not, by itself, proof of a sea impact. For Hawaii UFO history, it is more important as a case study in how coastal viewing geometry can create a powerful story than as evidence of an unknown vehicle.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/idKZTWrtgl0" title="Chinese satellite lasers recorded over Hawaii" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=idKZTWrtgl0" target="_blank" rel="noopener noreferrer">Chinese satellite lasers recorded over Hawaii</a></p><p class="youtube-embed-meta">Channel: KHON2 News &middot; Views: 2.7M &middot; Uploaded: February 2023 &middot; Length: 2 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=idKZTWrtgl0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=idKZTWrtgl0">Open on YouTube</a></p></div></div></div>
 
@@ -307,20 +304,18 @@ Starlink and other low-Earth-orbit satellites create a different but related pro
 
 In Hawaii, the ocean horizon makes these satellite effects more dramatic. A train of lights can seem to be travelling “out to sea”. A fading satellite can seem to dive. A newly deployed cluster can look like a structured craft because the human eye tends to connect points into a shape. The 2020 rocket-body case and repeated Starlink confusion show why a Hawaii UFO report with multiple lights is not automatically stronger than a single-light report. Sometimes it is easier to explain, because orbital objects often appear in groups.
 
-
-<img src="{{ "/assets/images/Hawaii_a1be95_hawaii_sky_clues_4b6aed-Illustration-2-light.svg" | relative_url }}" alt="Sky Clues illustration 2" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95_hawaii_sky_clues_4b6aed-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95_hawaii_sky_clues_4b6aed-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Hawaii_a1be95_hawaii_sky_clues_4b6aed-Illustration-2-dark.svg" | relative_url }}" alt="Sky Clues illustration 2" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95_hawaii_sky_clues_4b6aed-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95_hawaii_sky_clues_4b6aed-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Observatory sky cameras: why Maunakea catches “UFOs” before people understand them
 
 Hawaii also has a special modern feature that many states do not: world-class observatory cameras watching dark skies from high mountains. Maunakea’s altitude, clear air and low light pollution make it ideal for astronomy, but those same qualities also make faint artificial events visible in spectacular ways. The result is a new type of UFO-adjacent evidence: not shaky phone footage from a beach, but high-quality observatory video that looks strange before it is identified.
 
-On 18 January 2023, the Subaru-Asahi Star Camera recorded a spiral over Maunakea. Subaru Telescope reported that the spiral was related to a SpaceX satellite launch and likely reflected sunlight during satellite deployment operations. The camera’s high sensitivity and the dark Maunakea sky made the structure especially clear, and viewers on the livestream helped notice and discuss it in real time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://subarutelescope.org/en/news/topics/2023/02/01/3225.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: subarutelescope.org">[subarutelescope.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">subarutelescope.org</span><span class="citation-popover-title">A Flying Spiral over Maunakea | Topics &amp; Announcements | Subaru Telescope</span><span class="citation-popover-snippet">A Flying Spiral over Maunakea | Topics &amp; Announcements | Subaru Telescope</span></span></span>
+On 18 January 2023, the Subaru-Asahi Star Camera recorded a spiral over Maunakea. Subaru Telescope reported that the spiral was related to a SpaceX satellite launch and likely reflected sunlight during satellite deployment operations. The camera’s high sensitivity and the dark Maunakea sky made the structure especially clear, and viewers on the livestream helped notice and discuss it in real time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://subarutelescope.org/en/news/topics/2023/02/01/3225.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: subarutelescope.org">[subarutelescope.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">subarutelescope.org</span><span class="citation-popover-title">A Flying Spiral over Maunakea &#124; Topics &amp; Announcements &#124; Subaru Telescope</span><span class="citation-popover-snippet">A Flying Spiral over Maunakea &#124; Topics &amp; Announcements &#124; Subaru Telescope</span></span></span>
 
 A few days later, on 28 January 2023, the same camera captured pulsing green laser light. Subaru initially thought the source might be NASA’s ICESat-2 satellite, but after discussion with NASA scientists, the lights were identified as most likely coming from Daqi-1, a Chinese atmospheric environment monitoring satellite. Subaru stressed that the laser lights were faint, transitory and invisible to the naked eye, but detectable by the ultra-sensitive camera. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://subarutelescope.org/en/news/topics/2023/02/15/3233.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: subarutelescope.org">[subarutelescope.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">subarutelescope.org</span><span class="citation-popover-snippet">Open source on subarutelescope.org.</span></span></span>
 
 These examples matter because they reverse a common UFO assumption. Better cameras do not always make mysteries disappear immediately. Sometimes they reveal more strange-looking activity because they detect objects and effects ordinary eyes miss. Subaru astronomer Ichi Tanaka later wrote that the blue spiral and green lasers were “rare” looking but related to human activity, and that such events are likely to become more regular as space technology expands. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://subarutelescope.org/en/news/topics/2023/02/23/3237.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: subarutelescope.org">[subarutelescope.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">subarutelescope.org</span><span class="citation-popover-snippet">Open source on subarutelescope.org.</span></span></span>
 
 For Hawaii’s UFO record, Maunakea sky cameras are both a source of confusion and a corrective. They can produce viral images that look extraordinary, but they also provide fixed-location, time-stamped data that allows researchers to compare sightings with launches, satellite passes and known atmospheric events. That is much stronger than a short clip with no direction, time, or location.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Lv1bf0fmAvU" title="Strange lights seen in Illinois sky explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Lv1bf0fmAvU" target="_blank" rel="noopener noreferrer">Strange lights seen in Illinois sky explained</a></p><p class="youtube-embed-meta">Channel: FOX 32 Chicago &middot; Views: 114.2K &middot; Uploaded: April 2022 &middot; Length: 3 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Lv1bf0fmAvU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Lv1bf0fmAvU">Open on YouTube</a></p></div></div></div>
 
@@ -329,7 +324,6 @@ For Hawaii’s UFO record, Maunakea sky cameras are both a source of confusion a
 A Hawaii sighting is not weak merely because it has a possible explanation. It becomes weak when the report lacks enough detail to test that explanation. The best approach is to sort cases by what can be checked, not by how strange they sound.
 
 A useful Hawaii report usually includes several of the following:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -346,8 +340,7 @@ The least useful reports tend to rely on scale words such as “huge”, “low�
 
 The strongest unresolved cases are not the ones with the most dramatic wording. They are the ones that survive ordinary checks: no matching satellite, no aircraft track, no launch or re-entry, no plausible balloon or kite source, consistent independent angles, and original footage that preserves the object’s movement against fixed references. Many Hawaii reports never reach that standard, not because the witnesses are dishonest, but because the island setting makes quick impressions hard to turn into evidence.
 
-
-<img src="{{ "/assets/images/Hawaii_a1be95_hawaii_sky_clues_4b6aed-Illustration-3-light.svg" | relative_url }}" alt="Sky Clues illustration 3" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95_hawaii_sky_clues_4b6aed-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95_hawaii_sky_clues_4b6aed-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Hawaii_a1be95_hawaii_sky_clues_4b6aed-Illustration-3-dark.svg" | relative_url }}" alt="Sky Clues illustration 3" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95_hawaii_sky_clues_4b6aed-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95_hawaii_sky_clues_4b6aed-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why false clues still matter to Hawaii UFO history
 
 False UFO clues are not an embarrassing side issue in Hawaii’s UFO history. They are central to understanding it. The state’s geography creates more reports that sound like ocean-entry events; its dark skies make satellites and rocket debris easier to notice; its military and aviation environment raises the stakes of unknown lights; and its observatories capture strange-looking human activity before casual viewers can identify it.
@@ -356,9 +349,7 @@ The pattern also helps protect genuinely interesting reports from being lost in 
 
 The practical conclusion is balanced. Hawaii has produced real sightings, real videos and real official notifications. Some remain unidentified in the everyday sense that no one recovered the object or proved a single cause. But the state also produces unusually good false clues. Ocean horizons can turn distance into drama. Satellites can turn orbital motion into apparent formations. Rockets can turn debris into a “fleet”. Observatory cameras can turn faint human-made activity into a viral sky mystery. Understanding those mechanisms is one of the best ways to read Hawaii UFO reports without either dismissing witnesses or overclaiming what the evidence can support.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JcZdpjZplhA" title="Bright blue UFO seen crashing into ocean near Hawaii prompts calls to 911, FAA | ABC7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JcZdpjZplhA" target="_blank" rel="noopener noreferrer">Bright blue UFO seen crashing into ocean near Hawaii prompts calls to 911, FAA | ABC7</a></p><p class="youtube-embed-meta">Channel: ABC7 &middot; Views: 2.1M &middot; Uploaded: January 2021 &middot; Length: 2 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JcZdpjZplhA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JcZdpjZplhA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -782,182 +773,182 @@ The practical conclusion is balanced. Hawaii has produced real sightings, real v
 1. <a id="endnote-1"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Spatial D  
-   Link: [https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf](https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf)  
+   Link: <a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate Below the horizon—the physics of extreme visual ranges  
-   Link: [https://www.researchgate.net/publication/341095183_Below_the_horizon-the_physics_of_extreme_visual_ranges](https://www.researchgate.net/publication/341095183_Below_the_horizon-the_physics_of_extreme_visual_ranges)  
+   Link: <a href="https://www.researchgate.net/publication/341095183_Below_the_horizon-the_physics_of_extreme_visual_ranges" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341095183_Below_the_horizon-the_physics_of_extreme_visual_ranges</a>  
 
 3. <a id="endnote-3"></a>
    Source: hawaiinewsnow.com  
-   Link: [https://www.hawaiinewsnow.com/2020/12/31/faa-notified-after-mysterious-ufo-seen-above-oahu-appeared-drop-into-ocean/](https://www.hawaiinewsnow.com/2020/12/31/faa-notified-after-mysterious-ufo-seen-above-oahu-appeared-drop-into-ocean/)  
+   Link: <a href="https://www.hawaiinewsnow.com/2020/12/31/faa-notified-after-mysterious-ufo-seen-above-oahu-appeared-drop-into-ocean/" target="_blank" rel="noopener noreferrer nofollow">https://www.hawaiinewsnow.com/2020/12/31/faa-notified-after-mysterious-ufo-seen-above-oahu-appeared-drop-into-ocean/</a>  
 
 4. <a id="endnote-4"></a>
    Source: metabunk.org  
    Title: blue ufo over hawaii.11526  
-   Link: [https://www.metabunk.org/threads/blue-ufo-over-hawaii.11526/](https://www.metabunk.org/threads/blue-ufo-over-hawaii.11526/)  
+   Link: <a href="https://www.metabunk.org/threads/blue-ufo-over-hawaii.11526/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/blue-ufo-over-hawaii.11526/</a>  
 
 5. <a id="endnote-5"></a>
    Source: hawaii.edu  
-   Link: [https://www.hawaii.edu/news/2020/10/26/ufo-spotted-over-hawaii/](https://www.hawaii.edu/news/2020/10/26/ufo-spotted-over-hawaii/)  
+   Link: <a href="https://www.hawaii.edu/news/2020/10/26/ufo-spotted-over-hawaii/" target="_blank" rel="noopener noreferrer nofollow">https://www.hawaii.edu/news/2020/10/26/ufo-spotted-over-hawaii/</a>  
 
 6. <a id="endnote-6"></a>
    Source: science.nasa.gov  
    Title: Science Skywatching Tips From NASA  
-   Link: [https://science.nasa.gov/skywatching/](https://science.nasa.gov/skywatching/)  
+   Link: <a href="https://science.nasa.gov/skywatching/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/skywatching/</a>  
 
 7. <a id="endnote-7"></a>
    Source: subarutelescope.org  
    Title: A Flying Spiral over Maunakea | Topics & Announcements | Subaru Telescope  
-   Link: [https://subarutelescope.org/en/news/topics/2023/02/01/3225.html](https://subarutelescope.org/en/news/topics/2023/02/01/3225.html)  
+   Link: <a href="https://subarutelescope.org/en/news/topics/2023/02/01/3225.html" target="_blank" rel="noopener noreferrer nofollow">https://subarutelescope.org/en/news/topics/2023/02/01/3225.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: subarutelescope.org  
-   Link: [https://subarutelescope.org/en/news/topics/2023/02/15/3233.html](https://subarutelescope.org/en/news/topics/2023/02/15/3233.html)  
+   Link: <a href="https://subarutelescope.org/en/news/topics/2023/02/15/3233.html" target="_blank" rel="noopener noreferrer nofollow">https://subarutelescope.org/en/news/topics/2023/02/15/3233.html</a>  
 
 9. <a id="endnote-9"></a>
    Source: subarutelescope.org  
-   Link: [https://subarutelescope.org/en/news/topics/2023/02/23/3237.html](https://subarutelescope.org/en/news/topics/2023/02/23/3237.html)  
+   Link: <a href="https://subarutelescope.org/en/news/topics/2023/02/23/3237.html" target="_blank" rel="noopener noreferrer nofollow">https://subarutelescope.org/en/news/topics/2023/02/23/3237.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: subarutelescope.org  
-   Link: [https://subarutelescope.org/en/](https://subarutelescope.org/en/)  
+   Link: <a href="https://subarutelescope.org/en/" target="_blank" rel="noopener noreferrer nofollow">https://subarutelescope.org/en/</a>  
 
 11. <a id="endnote-11"></a>
    Source: subarutelescope.org  
-   Link: [https://subarutelescope.org/en/news/topics/2023/](https://subarutelescope.org/en/news/topics/2023/)  
+   Link: <a href="https://subarutelescope.org/en/news/topics/2023/" target="_blank" rel="noopener noreferrer nofollow">https://subarutelescope.org/en/news/topics/2023/</a>  
 
 12. <a id="endnote-12"></a>
    Source: subarutelescope.org  
-   Link: [https://subarutelescope.org/en/news/topics/activity/](https://subarutelescope.org/en/news/topics/activity/)  
+   Link: <a href="https://subarutelescope.org/en/news/topics/activity/" target="_blank" rel="noopener noreferrer nofollow">https://subarutelescope.org/en/news/topics/activity/</a>  
 
 13. <a id="endnote-13"></a>
    Source: subarutelescope.org  
-   Link: [https://subarutelescope.org/en/news/](https://subarutelescope.org/en/news/)  
+   Link: <a href="https://subarutelescope.org/en/news/" target="_blank" rel="noopener noreferrer nofollow">https://subarutelescope.org/en/news/</a>  
 
 14. <a id="endnote-14"></a>
    Source: faa.gov  
    Title: general statements  
-   Link: [https://www.faa.gov/newsroom/statements/general-statements](https://www.faa.gov/newsroom/statements/general-statements)  
+   Link: <a href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/statements/general-statements</a>  
 
 15. <a id="endnote-15"></a>
    Source: hawaiinewsnow.com  
-   Link: [https://www.hawaiinewsnow.com/video/2020/02/05/line-lights-spotted-over-hawaii-skies-believed-be-spacex-starlink-satellites/](https://www.hawaiinewsnow.com/video/2020/02/05/line-lights-spotted-over-hawaii-skies-believed-be-spacex-starlink-satellites/)  
+   Link: <a href="https://www.hawaiinewsnow.com/video/2020/02/05/line-lights-spotted-over-hawaii-skies-believed-be-spacex-starlink-satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.hawaiinewsnow.com/video/2020/02/05/line-lights-spotted-over-hawaii-skies-believed-be-spacex-starlink-satellites/</a>  
 
 16. <a id="endnote-16"></a>
    Source: hawaiinewsnow.com  
    Title: ufo satellites aircraft some across islands saw strange lights night sky  
-   Link: [https://www.hawaiinewsnow.com/2019/11/13/ufo-satellites-aircraft-some-across-islands-saw-strange-lights-night-sky/](https://www.hawaiinewsnow.com/2019/11/13/ufo-satellites-aircraft-some-across-islands-saw-strange-lights-night-sky/)  
+   Link: <a href="https://www.hawaiinewsnow.com/2019/11/13/ufo-satellites-aircraft-some-across-islands-saw-strange-lights-night-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.hawaiinewsnow.com/2019/11/13/ufo-satellites-aircraft-some-across-islands-saw-strange-lights-night-sky/</a>  
 
 17. <a id="endnote-17"></a>
    Source: hawaiinewsnow.com  
    Title: string lights was seen over hawaii skies heres what it was  
-   Link: [https://www.hawaiinewsnow.com/2020/02/05/string-lights-was-seen-over-hawaii-skies-heres-what-it-was/](https://www.hawaiinewsnow.com/2020/02/05/string-lights-was-seen-over-hawaii-skies-heres-what-it-was/)  
+   Link: <a href="https://www.hawaiinewsnow.com/2020/02/05/string-lights-was-seen-over-hawaii-skies-heres-what-it-was/" target="_blank" rel="noopener noreferrer nofollow">https://www.hawaiinewsnow.com/2020/02/05/string-lights-was-seen-over-hawaii-skies-heres-what-it-was/</a>  
 
 18. <a id="endnote-18"></a>
    Source: hawaiinewsnow.com  
    Title: strange lights returned hawaii skies along with an explanation  
-   Link: [https://www.hawaiinewsnow.com/2019/11/14/strange-lights-returned-hawaii-skies-along-with-an-explanation/](https://www.hawaiinewsnow.com/2019/11/14/strange-lights-returned-hawaii-skies-along-with-an-explanation/)  
+   Link: <a href="https://www.hawaiinewsnow.com/2019/11/14/strange-lights-returned-hawaii-skies-along-with-an-explanation/" target="_blank" rel="noopener noreferrer nofollow">https://www.hawaiinewsnow.com/2019/11/14/strange-lights-returned-hawaii-skies-along-with-an-explanation/</a>  
 
 19. <a id="endnote-19"></a>
    Source: hawaiinewsnow.com  
    Title: more mysterious lights appear night sky over hawaii  
-   Link: [https://www.hawaiinewsnow.com/2020/10/25/more-mysterious-lights-appear-night-sky-over-hawaii/](https://www.hawaiinewsnow.com/2020/10/25/more-mysterious-lights-appear-night-sky-over-hawaii/)  
+   Link: <a href="https://www.hawaiinewsnow.com/2020/10/25/more-mysterious-lights-appear-night-sky-over-hawaii/" target="_blank" rel="noopener noreferrer nofollow">https://www.hawaiinewsnow.com/2020/10/25/more-mysterious-lights-appear-night-sky-over-hawaii/</a>  
 
 20. <a id="endnote-20"></a>
    Source: hawaiinewsnow.com  
    Title: hnl reportedly list airports where faa will reduce flights  
-   Link: [https://www.hawaiinewsnow.com/2025/11/06/hnl-reportedly-list-airports-where-faa-will-reduce-flights/](https://www.hawaiinewsnow.com/2025/11/06/hnl-reportedly-list-airports-where-faa-will-reduce-flights/)  
+   Link: <a href="https://www.hawaiinewsnow.com/2025/11/06/hnl-reportedly-list-airports-where-faa-will-reduce-flights/" target="_blank" rel="noopener noreferrer nofollow">https://www.hawaiinewsnow.com/2025/11/06/hnl-reportedly-list-airports-where-faa-will-reduce-flights/</a>  
 
 21. <a id="endnote-21"></a>
    Source: space.com  
    Title: blue ufo over hawaii  
-   Link: [https://www.space.com/blue-ufo-over-hawaii](https://www.space.com/blue-ufo-over-hawaii)  
+   Link: <a href="https://www.space.com/blue-ufo-over-hawaii" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/blue-ufo-over-hawaii</a>  
 
 22. <a id="endnote-22"></a>
    Source: space.com  
    Title: starlink satellite train how to see and track it  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
 
 23. <a id="endnote-23"></a>
    Source: space.com  
    Title: ufo shaped lenticular clouds keck observatory hawaii  
-   Link: [https://www.space.com/ufo-shaped-lenticular-clouds-keck-observatory-hawaii](https://www.space.com/ufo-shaped-lenticular-clouds-keck-observatory-hawaii)  
+   Link: <a href="https://www.space.com/ufo-shaped-lenticular-clouds-keck-observatory-hawaii" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/ufo-shaped-lenticular-clouds-keck-observatory-hawaii</a>  
 
 24. <a id="endnote-24"></a>
    Source: videos.space.com  
    Title: eerie blue spiral in the sky over hawaii created by spacex rocket  
-   Link: [https://videos.space.com/m/9UiwL6Fy/eerie-blue-spiral-in-the-sky-over-hawaii-created-by-spacex-rocket](https://videos.space.com/m/9UiwL6Fy/eerie-blue-spiral-in-the-sky-over-hawaii-created-by-spacex-rocket)  
+   Link: <a href="https://videos.space.com/m/9UiwL6Fy/eerie-blue-spiral-in-the-sky-over-hawaii-created-by-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow">https://videos.space.com/m/9UiwL6Fy/eerie-blue-spiral-in-the-sky-over-hawaii-created-by-spacex-rocket</a>  
 
 25. <a id="endnote-25"></a>
    Source: hawaii.edu  
    Title: mysterious swirl maunakea telescope  
-   Link: [https://www.hawaii.edu/news/2022/04/26/mysterious-swirl-maunakea-telescope/](https://www.hawaii.edu/news/2022/04/26/mysterious-swirl-maunakea-telescope/)  
+   Link: <a href="https://www.hawaii.edu/news/2022/04/26/mysterious-swirl-maunakea-telescope/" target="_blank" rel="noopener noreferrer nofollow">https://www.hawaii.edu/news/2022/04/26/mysterious-swirl-maunakea-telescope/</a>  
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Horizon](https://en.wikipedia.org/wiki/Horizon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Horizon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Horizon</a>  
 
 27. <a id="endnote-27"></a>
    Source: hyperphysics.phy-astr.gsu.edu  
-   Link: [https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html](https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html)  
+   Link: <a href="https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html" target="_blank" rel="noopener noreferrer nofollow">https://hyperphysics.phy-astr.gsu.edu/hbase/atmos/mirage.html</a>  
 
 28. <a id="endnote-28"></a>
    Source: bencraven.org.uk  
    Title: Atmospheric refraction  
-   Link: [https://bencraven.org.uk/tag/atmospheric-refraction/](https://bencraven.org.uk/tag/atmospheric-refraction/)  
+   Link: <a href="https://bencraven.org.uk/tag/atmospheric-refraction/" target="_blank" rel="noopener noreferrer nofollow">https://bencraven.org.uk/tag/atmospheric-refraction/</a>  
 
 29. <a id="endnote-29"></a>
    Source: chinook-helicopter.com  
    Title: Visual Illusions  
-   Link: [https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html](https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html)  
+   Link: <a href="https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html</a>  
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: Strange lights seen in Illinois sky explained  
-   Link: [https://www.youtube.com/watch?v=Lv1bf0fmAvU](https://www.youtube.com/watch?v=Lv1bf0fmAvU)  
+   Link: <a href="https://www.youtube.com/watch?v=Lv1bf0fmAvU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lv1bf0fmAvU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Maunakea observatory spiral laser satellite UFO explanation &quot;Mysterious&quot; spiral appears in night sky over Hawaii CBS News...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: Spatial Disorientation Explained: Deadly Flight Illusions Every Pilot Must Know  
-   Link: [https://www.youtube.com/watch?v=6BD9fyyIJzY](https://www.youtube.com/watch?v=6BD9fyyIJzY)  
+   Link: <a href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6BD9fyyIJzY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What are these STRANGE CHAINS OF LIGHTS in the Sky?...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: faasafety.gov  
-   Link: [https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf](https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf)  
+   Link: <a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: Chinese satellite lasers recorded over Hawaii  
-   Link: [https://www.youtube.com/watch?v=idKZTWrtgl0](https://www.youtube.com/watch?v=idKZTWrtgl0)  
+   Link: <a href="https://www.youtube.com/watch?v=idKZTWrtgl0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=idKZTWrtgl0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spatial Disorientation Explained: Deadly Flight Illusions Every Pilot Must Know...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/trtworld/posts/a-camera-atop-hawaiis-tallest-mountain-has-captured-a-white-orb-swirling-through/570931268402452/](https://www.facebook.com/trtworld/posts/a-camera-atop-hawaiis-tallest-mountain-has-captured-a-white-orb-swirling-through/570931268402452/)  
+   Link: <a href="https://www.facebook.com/trtworld/posts/a-camera-atop-hawaiis-tallest-mountain-has-captured-a-white-orb-swirling-through/570931268402452/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/trtworld/posts/a-camera-atop-hawaiis-tallest-mountain-has-captured-a-white-orb-swirling-through/570931268402452/</a>  
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/universetoday/posts/a-ghostly-laser-light-show-above-a-telescope-in-hawaii-was-probably-from-a-passi/8998331556875685/](https://www.facebook.com/universetoday/posts/a-ghostly-laser-light-show-above-a-telescope-in-hawaii-was-probably-from-a-passi/8998331556875685/)  
+   Link: <a href="https://www.facebook.com/universetoday/posts/a-ghostly-laser-light-show-above-a-telescope-in-hawaii-was-probably-from-a-passi/8998331556875685/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/universetoday/posts/a-ghostly-laser-light-show-above-a-telescope-in-hawaii-was-probably-from-a-passi/8998331556875685/</a>  
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wavytv10/posts/a-strange-glow-in-the-night-sky-over-hawai%CA%BBi-island-is-raising-eyebrows-and-ques/1425538626286674/](https://www.facebook.com/wavytv10/posts/a-strange-glow-in-the-night-sky-over-hawai%CA%BBi-island-is-raising-eyebrows-and-ques/1425538626286674/)  
+   Link: <a href="https://www.facebook.com/wavytv10/posts/a-strange-glow-in-the-night-sky-over-hawai%CA%BBi-island-is-raising-eyebrows-and-ques/1425538626286674/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wavytv10/posts/a-strange-glow-in-the-night-sky-over-hawai%CA%BBi-island-is-raising-eyebrows-and-ques/1425538626286674/</a>  
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Fox59News/posts/a-strange-green-glow-in-the-night-sky-over-hawai%CA%BBi-island-is-raising-eyebrows-an/1565171035209291/](https://www.facebook.com/Fox59News/posts/a-strange-green-glow-in-the-night-sky-over-hawai%CA%BBi-island-is-raising-eyebrows-an/1565171035209291/)  
+   Link: <a href="https://www.facebook.com/Fox59News/posts/a-strange-green-glow-in-the-night-sky-over-hawai%CA%BBi-island-is-raising-eyebrows-an/1565171035209291/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Fox59News/posts/a-strange-green-glow-in-the-night-sky-over-hawai%CA%BBi-island-is-raising-eyebrows-an/1565171035209291/</a>  
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
    Title: a whole lot of people were asking what was that the morning of dec 4 when an obj  
-   Link: [https://www.facebook.com/KHON2News/posts/a-whole-lot-of-people-were-asking-what-was-that-the-morning-of-dec-4-when-an-obj/1268888465273435/](https://www.facebook.com/KHON2News/posts/a-whole-lot-of-people-were-asking-what-was-that-the-morning-of-dec-4-when-an-obj/1268888465273435/)  
+   Link: <a href="https://www.facebook.com/KHON2News/posts/a-whole-lot-of-people-were-asking-what-was-that-the-morning-of-dec-4-when-an-obj/1268888465273435/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KHON2News/posts/a-whole-lot-of-people-were-asking-what-was-that-the-morning-of-dec-4-when-an-obj/1268888465273435/</a>  
 
 39. <a id="endnote-39"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DXwwDelmukT/](https://www.instagram.com/reel/DXwwDelmukT/)  
+   Link: <a href="https://www.instagram.com/reel/DXwwDelmukT/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXwwDelmukT/</a>

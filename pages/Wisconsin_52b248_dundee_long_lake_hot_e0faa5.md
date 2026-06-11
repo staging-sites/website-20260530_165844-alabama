@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-made-wisconsin-a-ufo-state/
 nav_short_title: Dundee
 title: Why Long Lake Became a UFO Hotspot
-title_full: Why Long Lake Became a UFO Hotspot | Wisconsin UFOs
+title_full: Why Long Lake Became a UFO Hotspot
 display_title_short: Dundee
 display_title: Dundee
 heading_title: Why Long Lake Became a UFO Hotspot
@@ -268,8 +268,7 @@ image: /assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5-overview-soci
 
 ## Introduction
 
-Dundee and Long Lake became one of [Wisconsin]({{ 'what-really-made-wisconsin-a-ufo-state/' | relative_url }})’s most durable UFO hotspot stories because the place offered more than a single strange sighting. It had repeated reports of lights over water and Dundee Mountain, a lakefront gathering point at Benson’s Hide-A-Way, a local keeper of stories in Bill Benson, and an annual event — [UFO Daze]({{ 'ufo-daze/' | relative_url }}) — that turned sky-watching into a community ritual. The result is a classic hotspot pattern: sincere witnesses, recurring night-time observations, folklore, tourism, photographs of uncertain value, and plenty of room for ordinary explanations.
-
+Dundee and Long Lake became one of Wisconsin’s most durable UFO hotspot stories because the place offered more than a single strange sighting. It had repeated reports of lights over water and Dundee Mountain, a lakefront gathering point at Benson’s Hide-A-Way, a local keeper of stories in Bill Benson, and an annual event — [UFO Daze]({{ 'ufo-daze/' | relative_url }}) — that turned sky-watching into a community ritual. The result is a classic hotspot pattern: sincere witnesses, recurring night-time observations, folklore, tourism, photographs of uncertain value, and plenty of room for ordinary explanations.
 
 <img src="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5-overview.webp" | relative_url }}" alt="Overview image for Dundee" loading="eager" decoding="sync" fetchpriority="high">
 The strongest case for Dundee’s importance is cultural and historical rather than scientific. It shows how a rural Wisconsin lake, a dark-sky setting, and repeated storytelling can keep a UFO tradition alive for decades. The weakest part is evidential: most claims rely on eyewitness accounts, low-detail images, local memory, or reports gathered in a festival atmosphere, not on independent instrument data or official investigation.
@@ -288,11 +287,10 @@ Another widely repeated account concerns 17 July 2004, during UFO Daze. A UFO Wi
 
 The pattern is important: Dundee’s reputation does not rest on one clear, well-investigated event. It rests on recurrence. People came to the same shoreline, looked towards the same lake and hill, compared stories in the same social setting, and added new reports to an existing expectation that this was a place where strange things happened.
 
-
-<img src="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5-Illustration-1-light.svg" | relative_url }}" alt="Dundee illustration 1" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5-Illustration-1-dark.svg" | relative_url }}" alt="Dundee illustration 1" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Long Lake was the right setting for a hotspot
 
-Long Lake is not just background scenery in the Dundee story. It helps explain why the reports took the form they did. A lake creates wide sightlines, open horizons, reflected light, and a habit of evening observation. People fish, camp, sit outdoors, cruise on pontoons and look across the water after dark. The DNR notes that Long Lake is a three-mile-long impoundment of the East Branch of the Milwaukee River, with relatively clear water and heavy summer recreational use, especially on weekends. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dnr.wisconsin.gov/topic/parks/kmn/recreation/fishing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dnr.wisconsin.gov">[Wisconsin DNR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dnr.wisconsin.gov</span><span class="citation-popover-title">DNRFishing | Kettle Moraine State Forest</span><span class="citation-popover-snippet">DNRFishing | Kettle Moraine State Forest</span></span></span>
+Long Lake is not just background scenery in the Dundee story. It helps explain why the reports took the form they did. A lake creates wide sightlines, open horizons, reflected light, and a habit of evening observation. People fish, camp, sit outdoors, cruise on pontoons and look across the water after dark. The DNR notes that Long Lake is a three-mile-long impoundment of the East Branch of the Milwaukee River, with relatively clear water and heavy summer recreational use, especially on weekends. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dnr.wisconsin.gov/topic/parks/kmn/recreation/fishing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dnr.wisconsin.gov">[Wisconsin DNR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dnr.wisconsin.gov</span><span class="citation-popover-title">DNRFishing &#124; Kettle Moraine State Forest</span><span class="citation-popover-snippet">DNRFishing &#124; Kettle Moraine State Forest</span></span></span>
 
 Those same features can make sightings more memorable and more ambiguous. A light over a lake may appear isolated from its surroundings. Its reflection may stretch, split or shimmer. A distant aircraft, boat light, campsite light, lantern, flare or sky object can seem harder to place when the viewer has few reference points for distance and height. This does not debunk every Dundee report, but it explains why lakeside settings often produce reports that feel vivid to witnesses while remaining difficult to analyse afterwards.
 
@@ -310,7 +308,6 @@ This matters because hotspot stories need infrastructure. They need a place wher
 
 It also complicates the evidence. A bar full of UFO displays, jokes, costumes and believers is not a neutral observation post. It is a place where expectation is high. That does not mean witnesses lied. It means later readers should separate three things: the original sensory event, the social setting in which it was interpreted, and the folklore that grew around it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eeKJu0gWV3Y" title="The Dundee Project trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eeKJu0gWV3Y" target="_blank" rel="noopener noreferrer">The Dundee Project trailer</a></p><p class="youtube-embed-meta">Channel: Found Footage Fest &middot; Views: 49.8K &middot; Uploaded: March 2017 &middot; Length: 1 minute 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eeKJu0gWV3Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eeKJu0gWV3Y">Open on YouTube</a></p></div></div></div>
 
 ## UFO Daze and the hotspot effect
@@ -325,8 +322,7 @@ The film record strengthened the cultural afterlife of the story. Milwaukee film
 
 That description is valuable because it captures the Dundee paradox. UFO Daze was not a laboratory. It was not an Air Force investigation. It was a community performance of belief, doubt, fun and longing, held in a landscape that already invited strange readings.
 
-
-<img src="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5-Illustration-2-light.svg" | relative_url }}" alt="Dundee illustration 2" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5-Illustration-2-dark.svg" | relative_url }}" alt="Dundee illustration 2" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the best evidence does and does not show
 
 The best evidence for Dundee as a Wisconsin UFO hotspot is the consistency of the local pattern: repeated reports around the same lake and hill, a named gathering place, an annual event, photographs and videos claimed by attendees, and independent media attention from local, regional and paranormal outlets. Those sources show that Dundee mattered within Wisconsin UFO history. They do not show that the reported objects were alien craft.
@@ -338,7 +334,6 @@ The weaker evidence includes blurred light photographs, anecdotal reports of “
 There is also a scale problem. If an object is described as “low” or “large” over a dark lake, that judgement depends heavily on knowing distance. At night, especially over water, humans often lack the visual cues needed to estimate distance and height reliably. FAA material on night visual illusions is aimed at pilots, but the underlying point applies to ground observers too: darkness, sparse cues and isolated lights can mislead even trained observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">12 afh ch11</span><span class="citation-popover-snippet">12 afh ch11</span></span></span>
 
 A fair reading is therefore mixed. Dundee has stronger documentation as a lived UFO tradition than as a solved anomaly. It is a real Wisconsin hotspot story, but the public evidence does not justify treating its sightings as confirmed extraordinary craft.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dChfHqv7i40" title="The Dundee Project Review (2017, Mark Borchardt) | House of Horror | Buddy Candela" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dChfHqv7i40" target="_blank" rel="noopener noreferrer">The Dundee Project Review (2017, Mark Borchardt) | House of Horror | Buddy Candela</a></p><p class="youtube-embed-meta">Channel: Buddy Candela &middot; Views: 846 &middot; Uploaded: October 2019 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dChfHqv7i40" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dChfHqv7i40">Open on YouTube</a></p></div></div></div>
 
@@ -358,8 +353,7 @@ None of these explanations should be applied lazily to every claim. But they are
 
 The most responsible conclusion is that later reporting strengthened Dundee’s status as a cultural hotspot while leaving the underlying sightings mostly unresolved or weakly evidenced. The story became better documented as a tradition, not necessarily better proven as an extraordinary event.
 
-
-<img src="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5-Illustration-3-light.svg" | relative_url }}" alt="Dundee illustration 3" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5-Illustration-3-dark.svg" | relative_url }}" alt="Dundee illustration 3" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_dundee_long_lake_hot_e0faa5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Dundee matters in Wisconsin UFO history
 
 Dundee matters because it represents a different kind of UFO history from military files, radar cases or police reports. It is local, recreational and communal. It shows how a rural Wisconsin location can become a UFO place through repeated stories, a charismatic organiser, a recognisable landscape and an annual ritual.
@@ -368,9 +362,7 @@ Compared with Elmwood or Belleville, Dundee’s identity is more tightly tied to
 
 Dundee also illustrates a wider lesson about hotspots. A hotspot is not simply where unusual things happen. It is where unusual things are noticed, collected, retold and given a name. Long Lake supplied the view. Dundee Mountain supplied the landmark. Benson’s Hide-A-Way supplied the meeting point. UFO Daze supplied the repetition. Together, they made Dundee one of Wisconsin’s clearest examples of how UFO belief, landscape and local culture can reinforce each other over time.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L4n5Ci5VkJI" title="Wisconsin Kettle Moraine State Forest: Long Lake Recreational Area including Parnell Tower." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L4n5Ci5VkJI" target="_blank" rel="noopener noreferrer">Wisconsin Kettle Moraine State Forest: Long Lake Recreational Area including Parnell Tower.</a></p><p class="youtube-embed-meta">Channel: Wisconsin Traveler &middot; Views: 3.2K &middot; Uploaded: December 2022 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L4n5Ci5VkJI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L4n5Ci5VkJI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -458,7 +450,7 @@ Dundee also illustrates a wider lesson about hotspots. A hotspot is not simply w
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -468,111 +460,36 @@ Dundee also illustrates a wider lesson about hotspots. A hotspot is not simply w
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/6qMAAeSwlL9odlp9/s-l225.jpg" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -580,15 +497,15 @@ Dundee also illustrates a wider lesson about hotspots. A hotspot is not simply w
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Embroidered Spiritual Eye UFO Sew or Iron on Patch Biker Patch"><img src="https://i.ebayimg.com/images/g/KocAAOSw6cZk~3Sq/s-l225.jpg" alt="Listing image for Embroidered Spiritual Eye UFO Sew or Iron on Patch Biker Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Embroidered Spiritual Eye UFO Sew or Iron on Patch Biker Patch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -596,15 +513,15 @@ Dundee also illustrates a wider lesson about hotspots. A hotspot is not simply w
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="https://i.ebayimg.com/images/g/i9IAAOSwYHFfoEmJ/s-l225.jpg" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -612,15 +529,15 @@ Dundee also illustrates a wider lesson about hotspots. A hotspot is not simply w
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/bcYAAeSwvxlpSWMo/s-l225.jpg" alt="Listing image for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -628,7 +545,7 @@ Dundee also illustrates a wider lesson about hotspots. A hotspot is not simply w
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dundee-why-long-lake-became-a-ufo-hotspot-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-long-lake-became-a-ufo-hotspot-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -705,17 +622,31 @@ Dundee also illustrates a wider lesson about hotspots. A hotspot is not simply w
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -728,42 +659,73 @@ Dundee also illustrates a wider lesson about hotspots. A hotspot is not simply w
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -778,12 +740,17 @@ Dundee also illustrates a wider lesson about hotspots. A hotspot is not simply w
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -793,212 +760,212 @@ Dundee also illustrates a wider lesson about hotspots. A hotspot is not simply w
 
 1. <a id="endnote-1"></a>
    Source: apps.dnr.wi.gov  
-   Link: [https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=38700](https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=38700)  
+   Link: <a href="https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=38700" target="_blank" rel="noopener noreferrer nofollow">https://apps.dnr.wi.gov/lakes/lakepages/LakeDetail.aspx?wbic=38700</a>  
 
 2. <a id="endnote-2"></a>
    Source: dnr.wisconsin.gov  
    Title: DNRNorthern Unit Kettle Moraine State Forest  
-   Link: [https://dnr.wisconsin.gov/topic/parks/kmn](https://dnr.wisconsin.gov/topic/parks/kmn)  
+   Link: <a href="https://dnr.wisconsin.gov/topic/parks/kmn" target="_blank" rel="noopener noreferrer nofollow">https://dnr.wisconsin.gov/topic/parks/kmn</a>  
 
 3. <a id="endnote-3"></a>
    Source: dnr.wisconsin.gov  
-   Link: [https://dnr.wisconsin.gov/topic/parks/kmn/learn/audiotour](https://dnr.wisconsin.gov/topic/parks/kmn/learn/audiotour)  
+   Link: <a href="https://dnr.wisconsin.gov/topic/parks/kmn/learn/audiotour" target="_blank" rel="noopener noreferrer nofollow">https://dnr.wisconsin.gov/topic/parks/kmn/learn/audiotour</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=23842](https://nuforc.org/sighting/?id=23842)  
+   Link: <a href="https://nuforc.org/sighting/?id=23842" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=23842</a>  
 
 5. <a id="endnote-5"></a>
    Source: ufowisconsin.com  
    Title: r2004 0187 Dundee  
-   Link: [https://www.ufowisconsin.com/county/reports2004/r2004_0187_Dundee.html](https://www.ufowisconsin.com/county/reports2004/r2004_0187_Dundee.html)  
+   Link: <a href="https://www.ufowisconsin.com/county/reports2004/r2004_0187_Dundee.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufowisconsin.com/county/reports2004/r2004_0187_Dundee.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: dnr.wisconsin.gov  
    Title: DNRFishing | Kettle Moraine State Forest  
-   Link: [https://dnr.wisconsin.gov/topic/parks/kmn/recreation/fishing](https://dnr.wisconsin.gov/topic/parks/kmn/recreation/fishing)  
+   Link: <a href="https://dnr.wisconsin.gov/topic/parks/kmn/recreation/fishing" target="_blank" rel="noopener noreferrer nofollow">https://dnr.wisconsin.gov/topic/parks/kmn/recreation/fishing</a>  
 
 7. <a id="endnote-7"></a>
    Source: faa.gov  
    Title: 12 afh ch11  
-   Link: [https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf](https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf)  
+   Link: <a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: spectrumnews1.com  
    Title: wisconsin bar has some out of this world history  
-   Link: [https://spectrumnews1.com/news/2020/12/21/wisconsin-bar-has-some-out-of-this-world-history.html](https://spectrumnews1.com/news/2020/12/21/wisconsin-bar-has-some-out-of-this-world-history.html)  
+   Link: <a href="https://spectrumnews1.com/news/2020/12/21/wisconsin-bar-has-some-out-of-this-world-history.html" target="_blank" rel="noopener noreferrer nofollow">https://spectrumnews1.com/news/2020/12/21/wisconsin-bar-has-some-out-of-this-world-history.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: teakrulos.com  
    Title: Long Lake UFO  
-   Link: [https://teakrulos.com/tag/long-lake-ufo/](https://teakrulos.com/tag/long-lake-ufo/)  
+   Link: <a href="https://teakrulos.com/tag/long-lake-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://teakrulos.com/tag/long-lake-ufo/</a>  
 
 11. <a id="endnote-11"></a>
    Source: dnr.wisconsin.gov  
-   Link: [https://dnr.wisconsin.gov/topic/parks/kmn/recreation/camping](https://dnr.wisconsin.gov/topic/parks/kmn/recreation/camping)  
+   Link: <a href="https://dnr.wisconsin.gov/topic/parks/kmn/recreation/camping" target="_blank" rel="noopener noreferrer nofollow">https://dnr.wisconsin.gov/topic/parks/kmn/recreation/camping</a>  
 
 12. <a id="endnote-12"></a>
    Source: dnr.wisconsin.gov  
-   Link: [https://dnr.wisconsin.gov/topic/parks/kmn/maps](https://dnr.wisconsin.gov/topic/parks/kmn/maps)  
+   Link: <a href="https://dnr.wisconsin.gov/topic/parks/kmn/maps" target="_blank" rel="noopener noreferrer nofollow">https://dnr.wisconsin.gov/topic/parks/kmn/maps</a>  
 
 13. <a id="endnote-13"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf](https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: wisconsinfrights.com  
-   Link: [https://www.wisconsinfrights.com/dundee-ufos/](https://www.wisconsinfrights.com/dundee-ufos/)  
+   Link: <a href="https://www.wisconsinfrights.com/dundee-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/dundee-ufos/</a>  
 
 15. <a id="endnote-15"></a>
    Source: cultofweird.com  
-   Link: [https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/](https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/)  
+   Link: <a href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow">https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/</a>  
 
 16. <a id="endnote-16"></a>
    Source: roadsideamerica.com  
-   Link: [https://www.roadsideamerica.com/tip/4109](https://www.roadsideamerica.com/tip/4109)  
+   Link: <a href="https://www.roadsideamerica.com/tip/4109" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideamerica.com/tip/4109</a>  
 
 17. <a id="endnote-17"></a>
    Source: wisconsinfrights.com  
    Title: ufo daze  
-   Link: [https://www.wisconsinfrights.com/ufo-daze/](https://www.wisconsinfrights.com/ufo-daze/)  
+   Link: <a href="https://www.wisconsinfrights.com/ufo-daze/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/ufo-daze/</a>  
 
 18. <a id="endnote-18"></a>
    Source: milwaukeerecord.com  
    Title: Milwaukee Record You can finally buy Mark Borchardt's UFO documentary, '  
-   Link: [https://milwaukeerecord.com/film/finally-buy-mark-borchardts-ufo-documentary-the-dundee-project/](https://milwaukeerecord.com/film/finally-buy-mark-borchardts-ufo-documentary-the-dundee-project/)  
+   Link: <a href="https://milwaukeerecord.com/film/finally-buy-mark-borchardts-ufo-documentary-the-dundee-project/" target="_blank" rel="noopener noreferrer nofollow">https://milwaukeerecord.com/film/finally-buy-mark-borchardts-ufo-documentary-the-dundee-project/</a>  
 
 19. <a id="endnote-19"></a>
    Source: skyatnightmagazine.com  
    Title: Sky at Night Magazine17 things commonly mistaken for UFOs  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
 
 20. <a id="endnote-20"></a>
    Source: cultofweird.com  
-   Link: [https://www.cultofweird.com/film/dundee-project-review/](https://www.cultofweird.com/film/dundee-project-review/)  
+   Link: <a href="https://www.cultofweird.com/film/dundee-project-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.cultofweird.com/film/dundee-project-review/</a>  
 
 21. <a id="endnote-21"></a>
    Source: cultofweird.com  
    Title: dundee ufo daze 2018  
-   Link: [https://www.cultofweird.com/blog/dundee-ufo-daze-2018/](https://www.cultofweird.com/blog/dundee-ufo-daze-2018/)  
+   Link: <a href="https://www.cultofweird.com/blog/dundee-ufo-daze-2018/" target="_blank" rel="noopener noreferrer nofollow">https://www.cultofweird.com/blog/dundee-ufo-daze-2018/</a>  
 
 22. <a id="endnote-22"></a>
    Source: qsl.net  
    Title: Night Flying  
-   Link: [https://www.qsl.net/wu1m/Night_Flying.pdf](https://www.qsl.net/wu1m/Night_Flying.pdf)  
+   Link: <a href="https://www.qsl.net/wu1m/Night_Flying.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.qsl.net/wu1m/Night_Flying.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=dChfHqv7i40](https://www.youtube.com/watch?v=dChfHqv7i40)  
+   Link: <a href="https://www.youtube.com/watch?v=dChfHqv7i40" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dChfHqv7i40</a>  
 
 24. <a id="endnote-24"></a>
    Source: apps.dnr.wi.gov  
-   Link: [https://apps.dnr.wi.gov/fisheriesmanagement/Public/LakeRegulation/Details?WBIC=38700&WBIC_NAME=Long+Lake](https://apps.dnr.wi.gov/fisheriesmanagement/Public/LakeRegulation/Details?WBIC=38700&WBIC_NAME=Long+Lake)  
+   Link: <a href="https://apps.dnr.wi.gov/fisheriesmanagement/Public/LakeRegulation/Details?WBIC=38700&amp;WBIC_NAME=Long+Lake" target="_blank" rel="noopener noreferrer nofollow">https://apps.dnr.wi.gov/fisheriesmanagement/Public/LakeRegulation/Details?WBIC=38700&amp;WBIC_NAME=Long+Lake</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/333827440359540/posts/1628161187592819/](https://www.facebook.com/groups/333827440359540/posts/1628161187592819/)  
+   Link: <a href="https://www.facebook.com/groups/333827440359540/posts/1628161187592819/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/333827440359540/posts/1628161187592819/</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1064165500670706/posts/1789323901488192/](https://www.facebook.com/groups/1064165500670706/posts/1789323901488192/)  
+   Link: <a href="https://www.facebook.com/groups/1064165500670706/posts/1789323901488192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1064165500670706/posts/1789323901488192/</a>  
 
 27. <a id="endnote-27"></a>
    Source: letterboxd.com  
    Title: the dundee project  
-   Link: [https://letterboxd.com/film/the-dundee-project/](https://letterboxd.com/film/the-dundee-project/)  
+   Link: <a href="https://letterboxd.com/film/the-dundee-project/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/film/the-dundee-project/</a>  
 
 28. <a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Kettle Moraine State Forest  
-   Link: [https://en.wikipedia.org/wiki/Kettle_Moraine_State_Forest](https://en.wikipedia.org/wiki/Kettle_Moraine_State_Forest)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kettle_Moraine_State_Forest" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kettle_Moraine_State_Forest</a>  
 
 29. <a id="endnote-29"></a>
    Source: andrewswant.com  
    Title: The Dundee Project  
-   Link: [https://www.andrewswant.com/the-dundee-project/](https://www.andrewswant.com/the-dundee-project/)  
+   Link: <a href="https://www.andrewswant.com/the-dundee-project/" target="_blank" rel="noopener noreferrer nofollow">https://www.andrewswant.com/the-dundee-project/</a>  
 
 30. <a id="endnote-30"></a>
    Source: staynorthern.com  
    Title: long lake  
-   Link: [https://staynorthern.com/lakes/sheboygan/long-lake](https://staynorthern.com/lakes/sheboygan/long-lake)  
+   Link: <a href="https://staynorthern.com/lakes/sheboygan/long-lake" target="_blank" rel="noopener noreferrer nofollow">https://staynorthern.com/lakes/sheboygan/long-lake</a>  
 
 31. <a id="endnote-31"></a>
    Source: iwonder.com  
    Title: The Dundee Project | Watch documentary  
-   Link: [https://iwonder.com/titles/the-dundee-project-3b20c8afd0d34fc1a0fcb2e1c46bc882?srsltid=AfmBOoq1VkPeRjovduHGPVb3xYajXuXoxNsCsYjTOxS1avGMd_KXEWBH](https://iwonder.com/titles/the-dundee-project-3b20c8afd0d34fc1a0fcb2e1c46bc882?srsltid=AfmBOoq1VkPeRjovduHGPVb3xYajXuXoxNsCsYjTOxS1avGMd_KXEWBH)  
+   Link: <a href="https://iwonder.com/titles/the-dundee-project-3b20c8afd0d34fc1a0fcb2e1c46bc882?srsltid=AfmBOoq1VkPeRjovduHGPVb3xYajXuXoxNsCsYjTOxS1avGMd_KXEWBH" target="_blank" rel="noopener noreferrer nofollow">https://iwonder.com/titles/the-dundee-project-3b20c8afd0d34fc1a0fcb2e1c46bc882?srsltid=AfmBOoq1VkPeRjovduHGPVb3xYajXuXoxNsCsYjTOxS1avGMd_KXEWBH</a>  
 
 32. <a id="endnote-32"></a>
    Source: wisconsinfrights.com  
    Title: dundee ufo daze documentary  
-   Link: [https://www.wisconsinfrights.com/dundee-ufo-daze-documentary/](https://www.wisconsinfrights.com/dundee-ufo-daze-documentary/)  
+   Link: <a href="https://www.wisconsinfrights.com/dundee-ufo-daze-documentary/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/dundee-ufo-daze-documentary/</a>  
 
 33. <a id="endnote-33"></a>
    Source: fdl.com  
    Title: Kettle Moraine State Forest  
-   Link: [https://www.fdl.com/listing/kettle-moraine-state-forest-long-lake-recreation-area/](https://www.fdl.com/listing/kettle-moraine-state-forest-long-lake-recreation-area/)  
+   Link: <a href="https://www.fdl.com/listing/kettle-moraine-state-forest-long-lake-recreation-area/" target="_blank" rel="noopener noreferrer nofollow">https://www.fdl.com/listing/kettle-moraine-state-forest-long-lake-recreation-area/</a>  
 
 34. <a id="endnote-34"></a>
    Source: travelwisconsin.com  
    Title: Kettle Moraine State Forest  
-   Link: [https://www.travelwisconsin.com/outdoors/parks-wildlife-areas/state-parks-forests/kettle-moraine-state-forest-northern-unit](https://www.travelwisconsin.com/outdoors/parks-wildlife-areas/state-parks-forests/kettle-moraine-state-forest-northern-unit)  
+   Link: <a href="https://www.travelwisconsin.com/outdoors/parks-wildlife-areas/state-parks-forests/kettle-moraine-state-forest-northern-unit" target="_blank" rel="noopener noreferrer nofollow">https://www.travelwisconsin.com/outdoors/parks-wildlife-areas/state-parks-forests/kettle-moraine-state-forest-northern-unit</a>  
 
 35. <a id="endnote-35"></a>
    Source: mubi.com  
    Title: the dundee project  
-   Link: [https://mubi.com/en/us/films/the-dundee-project](https://mubi.com/en/us/films/the-dundee-project)  
+   Link: <a href="https://mubi.com/en/us/films/the-dundee-project" target="_blank" rel="noopener noreferrer nofollow">https://mubi.com/en/us/films/the-dundee-project</a>  
 
 36. <a id="endnote-36"></a>
    Source: skyatnightmagazine.com  
    Title: strange flash in the night sky explanation  
-   Link: [https://www.skyatnightmagazine.com/advice/strange-flash-in-the-night-sky-explanation](https://www.skyatnightmagazine.com/advice/strange-flash-in-the-night-sky-explanation)  
+   Link: <a href="https://www.skyatnightmagazine.com/advice/strange-flash-in-the-night-sky-explanation" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/advice/strange-flash-in-the-night-sky-explanation</a>  
 
 ### Additional References
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
    Title: WEIRD WISCONSIN: Eagle River & Joe Simonton's BIZARRE UFO Pancakes  
-   Link: [https://www.youtube.com/watch?v=PXw0AN9S_5A](https://www.youtube.com/watch?v=PXw0AN9S_5A)  
+   Link: <a href="https://www.youtube.com/watch?v=PXw0AN9S_5A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PXw0AN9S_5A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The BIZARRE &amp; EERIE tales behind a Wisconsin town&#x27;s yearly celebration...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: faasafety.gov  
-   Link: [https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf](https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf)  
+   Link: <a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
    Title: The Dundee Project trailer  
-   Link: [https://www.youtube.com/watch?v=eeKJu0gWV3Y](https://www.youtube.com/watch?v=eeKJu0gWV3Y)  
+   Link: <a href="https://www.youtube.com/watch?v=eeKJu0gWV3Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eeKJu0gWV3Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dundee, WI: Old Mill, UFO&#x27;s over Long Lake?, UFO Daze, Cool Abandoned Houses! Crazy Weather...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=K4-B01SR1Gs](https://www.youtube.com/watch?v=K4-B01SR1Gs)  
+   Link: <a href="https://www.youtube.com/watch?v=K4-B01SR1Gs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K4-B01SR1Gs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Dundee Project DVD Trailer...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: authenticwisconsin.com  
-   Link: [https://authenticwisconsin.com/dundee.html](https://authenticwisconsin.com/dundee.html)  
+   Link: <a href="https://authenticwisconsin.com/dundee.html" target="_blank" rel="noopener noreferrer nofollow">https://authenticwisconsin.com/dundee.html</a>  
 
 42. <a id="endnote-42"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/sites/default/files/bookshelf/3720.pdf](https://skybrary.aero/sites/default/files/bookshelf/3720.pdf)  
+   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/3720.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/3720.pdf</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/slappedhamofficial/posts/935688802081418/](https://www.facebook.com/groups/slappedhamofficial/posts/935688802081418/)  
+   Link: <a href="https://www.facebook.com/groups/slappedhamofficial/posts/935688802081418/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/slappedhamofficial/posts/935688802081418/</a>  
 
 44. <a id="endnote-44"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/838955243/Ufos-and-Intelligence](https://www.scribd.com/document/838955243/Ufos-and-Intelligence)  
+   Link: <a href="https://www.scribd.com/document/838955243/Ufos-and-Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/838955243/Ufos-and-Intelligence</a>  
 
 45. <a id="endnote-45"></a>
    Source: lakequality.org  
-   Link: [https://www.lakequality.org/lake/long-lake-fond-du-lac-wi](https://www.lakequality.org/lake/long-lake-fond-du-lac-wi)  
+   Link: <a href="https://www.lakequality.org/lake/long-lake-fond-du-lac-wi" target="_blank" rel="noopener noreferrer nofollow">https://www.lakequality.org/lake/long-lake-fond-du-lac-wi</a>  
 
 46. <a id="endnote-46"></a>
    Source: ridewithgps.com  
-   Link: [https://ridewithgps.com/ambassador_routes/2733-kettle-moraine-state-forest-northern-sec](https://ridewithgps.com/ambassador_routes/2733-kettle-moraine-state-forest-northern-sec)  
+   Link: <a href="https://ridewithgps.com/ambassador_routes/2733-kettle-moraine-state-forest-northern-sec" target="_blank" rel="noopener noreferrer nofollow">https://ridewithgps.com/ambassador_routes/2733-kettle-moraine-state-forest-northern-sec</a>

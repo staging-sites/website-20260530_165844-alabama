@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /missouri-d961c4-rutledge-project-ide/
 description: Focused pages that expand on Rutledge Study.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Missouri_d961c4_rutledge_project_ide_c8789d
-parent_title: Rutledge Study | What Really Happened in Missouri's UFO...
+parent_title: Rutledge Study
 parent_nav_short_title: Rutledge Study
 parent_permalink: /rutledge-study/
 ---

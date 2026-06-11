@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /blue-book-c670c7/
 nav_short_title: Bird Theory
 title: Did Birds Really Explain the Lubbock Lights?
-title_full: Did Birds Really Explain the Lubbock Lights? | Blue Book
+title_full: Did Birds Really Explain the Lubbock Lights?
 display_title_short: Bird Theory
 display_title: Bird Theory
 heading_title: Did Birds Really Explain the Lubbock Lights?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:18:10'
-parent_title: What Did Blue Book Make of Texas? | Texas UFOs
+parent_title: What Did Blue Book Make of Texas?
 parent_permalink: /blue-book-c670c7/
 parent_nav_short_title: Blue Book
 parent_heading_title: What Did Blue Book Make of Texas?
@@ -250,10 +250,9 @@ image: /assets/images/Texas_98125d_blue_book_texas_case_28c1e9_lubbock_bird_expl
 
 ## Introduction
 
-The bird explanation for the 1951 Lubbock Lights remains one of the most debated sceptical interpretations in [Texas]({{ 'why-texas-became-a-ufo-archive/' | relative_url }}) UFO history. It was not a casual dismissal invented decades later. The theory emerged during the original Air Force investigation and was taken seriously by Project [Blue Book]({{ 'blue-book-c670c7/' | relative_url }}) personnel, including Edward J. Ruppelt, one of the programme's most respected figures. The basic idea was that migrating birds, illuminated from below by Lubbock's newly installed mercury-vapour streetlights, created the appearance of fast-moving formations of glowing objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo10.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">When four college professors, a geologist, a chemist, a physicist, and a petroleum engineer, report seeing the same UFO&#x27;s on...Read more...</span></span></span>
+The bird explanation for the 1951 Lubbock Lights remains one of the most debated sceptical interpretations in Texas UFO history. It was not a casual dismissal invented decades later. The theory emerged during the original Air Force investigation and was taken seriously by Project [Blue Book]({{ 'blue-book-c670c7/' | relative_url }}) personnel, including Edward J. Ruppelt, one of the programme's most respected figures. The basic idea was that migrating birds, illuminated from below by Lubbock's newly installed mercury-vapour streetlights, created the appearance of fast-moving formations of glowing objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo10.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">When four college professors, a geologist, a chemist, a physicist, and a petroleum engineer, report seeing the same UFO&#x27;s on...Read more...</span></span></span>
 
-
-<img src="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9_lubbock_bird_explana_1c5be1-Illustration-1-light.svg" | relative_url }}" alt="Bird Theory illustration 1" data-theme-src-dark="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9_lubbock_bird_explana_1c5be1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9_lubbock_bird_explana_1c5be1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9_lubbock_bird_explana_1c5be1-Illustration-1-dark.svg" | relative_url }}" alt="Bird Theory illustration 1" data-theme-src-dark="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9_lubbock_bird_explana_1c5be1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9_lubbock_bird_explana_1c5be1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The reason the explanation still matters is that it solved some parts of the mystery better than others. It offered a plausible mechanism for at least some eyewitness reports, yet it never fully settled disputes about speed, formation shape, silence, or Carl Hart Jr.'s famous photographs. More than seventy years later, the argument is less about whether birds could create strange lights and more about whether birds can account for the entire Lubbock episode. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo10.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">When four college professors, a geologist, a chemist, a physicist, and a petroleum engineer, report seeing the same UFO&#x27;s on...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lubbock Lights</span><span class="citation-popover-snippet">Lubbock Lights</span></span></span>
 
 ## Why the bird explanation emerged
@@ -263,7 +262,6 @@ The bird theory developed after investigators looked for something that could pr
 Investigators also collected supporting observations. One local farmer reportedly watched birds passing over a drive-in theatre and noticed reflected light on their bodies. Another witness pair initially thought they were seeing mysterious lights until the objects circled and could be identified visually and audibly as plovers. Such reports gave the Air Force a real-world example of how ordinary birds might appear extraordinary under night conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lubbock Lights</span><span class="citation-popover-snippet">Lubbock Lights</span></span></span>
 
 From an investigative standpoint, the explanation had advantages. It accounted for:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -277,8 +275,7 @@ From an investigative standpoint, the explanation had advantages. It accounted f
 
 For Blue Book investigators trying to determine whether the sightings represented a defence threat, a migratory-bird explanation was considerably more attractive than an unidentified craft hypothesis.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CIhGAev0ZU4" title="Project Blue Book: Declassified – The True Story of the Lubbock Lights | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CIhGAev0ZU4" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of the Lubbock Lights | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 45.0K &middot; Uploaded: February 2019 &middot; Length: 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CIhGAev0ZU4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CIhGAev0ZU4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oWwH2zztXc0" title="Project Blue Book 1x03 Promo &quot;The Lubbock Lights&quot; (HD) UFO drama series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oWwH2zztXc0" target="_blank" rel="noopener noreferrer">Project Blue Book 1x03 Promo &quot;The Lubbock Lights&quot; (HD) UFO drama series</a></p><p class="youtube-embed-meta">Channel: TV Promos &middot; Views: 14.8K &middot; Uploaded: January 2019 &middot; Length: 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oWwH2zztXc0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oWwH2zztXc0">Open on YouTube</a></p></div></div></div>
 
 ## What the professors and photographers disputed
 
@@ -290,8 +287,7 @@ The disagreement was not simply about interpretation. It extended to the physica
 
 Another challenge came from attempts to recreate the photographs. According to later accounts, newspaper photographers and investigators tried photographing birds illuminated by city lights. These experiments demonstrated that birds could appear as bright points at night, which helped the sceptical case. Yet critics argued that the resulting images failed to match Hart's photographs closely enough to close the issue. William Hams, chief photographer for the *Lubbock Avalanche-Journal*, reportedly could not duplicate the distinctive appearance of the images despite making deliberate attempts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lubbock Lights</span><span class="citation-popover-snippet">Lubbock Lights</span></span></span>
 
-
-<img src="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9_lubbock_bird_explana_1c5be1-Illustration-2-light.svg" | relative_url }}" alt="Bird Theory illustration 2" data-theme-src-dark="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9_lubbock_bird_explana_1c5be1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9_lubbock_bird_explana_1c5be1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9_lubbock_bird_explana_1c5be1-Illustration-2-dark.svg" | relative_url }}" alt="Bird Theory illustration 2" data-theme-src-dark="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9_lubbock_bird_explana_1c5be1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9_lubbock_bird_explana_1c5be1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The unresolved problem of Hart's photographs
 
 The bird explanation is strongest when applied to eyewitness perception and weakest when applied to the photographs.
@@ -302,9 +298,7 @@ For sceptics, the photographs are not necessarily a major obstacle. Night photog
 
 For critics of the bird theory, however, the photographs remain troublesome because they appear unusually structured. The lights look evenly spaced and geometrically organised. Some later commentators have argued that if they were merely birds catching reflected light, investigators should have been able to reproduce the effect more convincingly. The fact that the images remained ambiguous after extensive attention helped preserve the case's reputation within UFO literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lubbock Lights</span><span class="citation-popover-snippet">Lubbock Lights</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oWwH2zztXc0" title="Project Blue Book 1x03 Promo &quot;The Lubbock Lights&quot; (HD) UFO drama series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oWwH2zztXc0" target="_blank" rel="noopener noreferrer">Project Blue Book 1x03 Promo &quot;The Lubbock Lights&quot; (HD) UFO drama series</a></p><p class="youtube-embed-meta">Channel: TV Promos &middot; Views: 14.8K &middot; Uploaded: January 2019 &middot; Length: 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oWwH2zztXc0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oWwH2zztXc0">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9_lubbock_bird_explana_1c5be1-Illustration-3-dark.svg" | relative_url }}" alt="Bird Theory illustration 3" data-theme-src-dark="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9_lubbock_bird_explana_1c5be1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9_lubbock_bird_explana_1c5be1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Ruppelt's own position complicated the debate
 
 Part of the continuing fascination comes from Ruppelt himself.
@@ -318,8 +312,8 @@ This ambiguity had an unintended effect. Rather than ending the argument, it cre
 
 Because Ruppelt was respected by both believers and sceptics, his mixed legacy has helped keep the debate alive.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HvzFPVlbPhk" title="The Report on UFOs by Edward J. Ruppelt (part 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HvzFPVlbPhk" target="_blank" rel="noopener noreferrer">The Report on UFOs by Edward J. Ruppelt (part 1)</a></p><p class="youtube-embed-meta">Channel: Classic Book Club &middot; Views: 346 &middot; Uploaded: June 2021 &middot; Length: 7 hours 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HvzFPVlbPhk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HvzFPVlbPhk">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9_lubbock_bird_explana_1c5be1-Illustration-3-light.svg" | relative_url }}" alt="Bird Theory illustration 3" data-theme-src-dark="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9_lubbock_bird_explana_1c5be1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_blue_book_texas_case_28c1e9_lubbock_bird_explana_1c5be1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case still divides researchers
 
 Today, relatively few researchers argue that the Lubbock Lights provide strong evidence of extraterrestrial craft. The more common disagreement is over whether the case should be regarded as essentially solved or only partially explained.
@@ -329,10 +323,6 @@ Those who view it as mostly solved point to the strengths of the bird hypothesis
 Those who remain unconvinced focus on the gaps. They note the objections from some original witnesses, the uncertainty surrounding the photographs, the disagreement over formation shapes, and the failure of investigators to produce a universally accepted reconstruction. In this view, the bird explanation may account for many reports but not necessarily all of them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lubbock Lights</span><span class="citation-popover-snippet">Lubbock Lights</span></span></span>
 
 That is why the Lubbock Lights occupy an unusual place in Texas UFO history. Unlike cases that collapsed under obvious hoaxes or clear astronomical explanations, Lubbock became a long-running argument about how much explanatory power is enough. The bird theory remains plausible and influential, yet it never achieved the kind of consensus that completely removed the case from UFO discussions. As a result, the Lubbock Lights continue to be cited both as a successful sceptical investigation and as an example of how some Blue Book-era explanations left important witnesses unconvinced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo10.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">When four college professors, a geologist, a chemist, a physicist, and a petroleum engineer, report seeing the same UFO&#x27;s on...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lubbock Lights</span><span class="citation-popover-snippet">Lubbock Lights</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O-Fmax00XbA" title="The Report on UFO [Audiobook part 1] by Edward J. Ruppelt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O-Fmax00XbA" target="_blank" rel="noopener noreferrer">The Report on UFO [Audiobook part 1] by Edward J. Ruppelt</a></p><p class="youtube-embed-meta">Channel: English Audio Books &middot; Views: 124.0K &middot; Uploaded: July 2017 &middot; Length: 8 hours 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O-Fmax00XbA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O-Fmax00XbA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -420,98 +410,404 @@ That is why the Lubbock Lights occupy an unusual place in Texas UFO history. Unl
   </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-birds-really-explain-the-lubbock-lights-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-birds-really-explain-the-lubbock-lights-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55"><img src="https://i.ebayimg.com/images/g/2G0AAOSwjIpgTIcl/s-l225.jpg" alt="Listing image for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-birds-really-explain-the-lubbock-lights-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-birds-really-explain-the-lubbock-lights-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-birds-really-explain-the-lubbock-lights-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-birds-really-explain-the-lubbock-lights-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-birds-really-explain-the-lubbock-lights-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-birds-really-explain-the-lubbock-lights-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-birds-really-explain-the-lubbock-lights-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-birds-really-explain-the-lubbock-lights-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed."><img src="https://i.ebayimg.com/images/g/GWYAAeSwgidpwAEt/s-l225.jpg" alt="Listing image for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-birds-really-explain-the-lubbock-lights-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-birds-really-explain-the-lubbock-lights-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed.</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-birds-really-explain-the-lubbock-lights-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-birds-really-explain-the-lubbock-lights-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-birds-really-explain-the-lubbock-lights-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-birds-really-explain-the-lubbock-lights-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-birds-really-explain-the-lubbock-lights-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-birds-really-explain-the-lubbock-lights-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/HvAAAOSw08Vk5SIm/s-l225.jpg" alt="Listing image for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-birds-really-explain-the-lubbock-lights-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-birds-really-explain-the-lubbock-lights-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-birds-really-explain-the-lubbock-lights-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-birds-really-explain-the-lubbock-lights-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-birds-really-explain-the-lubbock-lights-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-birds-really-explain-the-lubbock-lights-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-birds-really-explain-the-lubbock-lights-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-birds-really-explain-the-lubbock-lights-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/MykAAOSwkRVk5Rd3/s-l225.jpg" alt="Listing image for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-birds-really-explain-the-lubbock-lights-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-birds-really-explain-the-lubbock-lights-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-birds-really-explain-the-lubbock-lights-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-birds-really-explain-the-lubbock-lights-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-birds-really-explain-the-lubbock-lights-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-birds-really-explain-the-lubbock-lights-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-birds-really-explain-the-lubbock-lights-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-birds-really-explain-the-lubbock-lights-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Lubbock Lights  
-   Link: [https://en.wikipedia.org/wiki/Lubbock_Lights](https://en.wikipedia.org/wiki/Lubbock_Lights)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lubbock_Lights</a>  
 
 2. <a id="endnote-2"></a>
    Source: history.com  
    Title: lubbock lights ufo sightings  
-   Link: [https://www.history.com/articles/lubbock-lights-ufo-sightings](https://www.history.com/articles/lubbock-lights-ufo-sightings)  
+   Link: <a href="https://www.history.com/articles/lubbock-lights-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/lubbock-lights-ufo-sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Mystery of the Lubbock Lights UFO Sightings24 Aug 2018 — Explore the true story of a strange pattern of unidentified lights...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: history.com  
-   Link: [https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-lubbock-lights](https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-lubbock-lights)  
+   Link: <a href="https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-lubbock-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-lubbock-lights</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>roup of professors from Texas Technical College in 1951...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ia800501.us.archive.org  
    Title: Edward J Ruppelt The Report on Unidentified Flying Objects  
-   Link: [https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf](https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf)  
+   Link: <a href="https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Unidentified Flying Objects IntroductionCaptain Ruppelt reports that most of the 750 UFO sightings studied by Project Blue Book...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/rufo/rufo10.htm](https://sacred-texts.com/ufo/rufo/rufo10.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo10.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo10.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>When four college professors, a geologist, a chemist, a physicist, and a petroleum engineer, report seeing the same UFO&#x27;s on...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1paa968/1951_lubbock_lights_v_shape_flying_wing_9x_lights/](https://www.reddit.com/r/UFOs/comments/1paa968/1951_lubbock_lights_v_shape_flying_wing_9x_lights/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1paa968/1951_lubbock_lights_v_shape_flying_wing_9x_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1paa968/1951_lubbock_lights_v_shape_flying_wing_9x_lights/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1951 Lubbock Lights - V shape flying wing, 9x lights per wingThis phenomena, known as the Lubbock Lights, was seen by more than a few peo...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: slashlore.com  
    Title: lubbock lights  
-   Link: [https://www.slashlore.com/lubbock-lights/](https://www.slashlore.com/lubbock-lights/)  
+   Link: <a href="https://www.slashlore.com/lubbock-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.slashlore.com/lubbock-lights/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Photos: Real Evidence or Hoax?Explore the famous 1951 Lubbock Lights UFO case. Analyze Carl Hart&#x27;s historic photographs and discover...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: lubbocklights.com  
-   Link: [https://lubbocklights.com/part-of-the-reason-were-named-lubbock-lights-honors-51-ufo-mystery-heres-the-story-of-how-answer-died-with-investigator/](https://lubbocklights.com/part-of-the-reason-were-named-lubbock-lights-honors-51-ufo-mystery-heres-the-story-of-how-answer-died-with-investigator/)  
+   Link: <a href="https://lubbocklights.com/part-of-the-reason-were-named-lubbock-lights-honors-51-ufo-mystery-heres-the-story-of-how-answer-died-with-investigator/" target="_blank" rel="noopener noreferrer nofollow">https://lubbocklights.com/part-of-the-reason-were-named-lubbock-lights-honors-51-ufo-mystery-heres-the-story-of-how-answer-died-with-investigator/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Part of the reason we&#x27;re named Lubbock Lights honors &#x27;51...31 Oct 2024 — LubbockLights.com is named in part for the Lubbock Lights incid...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: casefiles.space  
-   Link: [https://www.casefiles.space/cases/the-lubbock-lights-multiple-witnesses-and-photographic-evidence](https://www.casefiles.space/cases/the-lubbock-lights-multiple-witnesses-and-photographic-evidence)  
+   Link: <a href="https://www.casefiles.space/cases/the-lubbock-lights-multiple-witnesses-and-photographic-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.casefiles.space/cases/the-lubbock-lights-multiple-witnesses-and-photographic-evidence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>orial observers who maintained the Hart photographs did not match their sightings...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/708546534557759/posts/1254330919979315/](https://www.facebook.com/groups/708546534557759/posts/1254330919979315/)  
+   Link: <a href="https://www.facebook.com/groups/708546534557759/posts/1254330919979315/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/708546534557759/posts/1254330919979315/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d a plover.&quot; •. While investigating the Lubbock Lights...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/348518007_Romancing_the_Birds_and_Dinosaurs_Forays_in_Postmodern_Paleontology_httpwwwamazoncomexecobidosASIN1599426064](https://www.researchgate.net/publication/348518007_Romancing_the_Birds_and_Dinosaurs_Forays_in_Postmodern_Paleontology_httpwwwamazoncomexecobidosASIN1599426064)  
+   Link: <a href="https://www.researchgate.net/publication/348518007_Romancing_the_Birds_and_Dinosaurs_Forays_in_Postmodern_Paleontology_httpwwwamazoncomexecobidosASIN1599426064" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/348518007_Romancing_the_Birds_and_Dinosaurs_Forays_in_Postmodern_Paleontology_httpwwwamazoncomexecobidosASIN1599426064</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>urs with credible evidence and biological thought.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: in 1951 dozens of lubbock texas residents reported seeing a formation of mysteri  
-   Link: [https://www.facebook.com/txchronicles/posts/in-1951-dozens-of-lubbock-texas-residents-reported-seeing-a-formation-of-mysteri/1370210314761338/](https://www.facebook.com/txchronicles/posts/in-1951-dozens-of-lubbock-texas-residents-reported-seeing-a-formation-of-mysteri/1370210314761338/)  
+   Link: <a href="https://www.facebook.com/txchronicles/posts/in-1951-dozens-of-lubbock-texas-residents-reported-seeing-a-formation-of-mysteri/1370210314761338/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/in-1951-dozens-of-lubbock-texas-residents-reported-seeing-a-formation-of-mysteri/1370210314761338/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1951, dozens of Lubbock, Texas, residents reported seeing...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CrewOperations/posts/july-13th-1984-multiple-unknown-aerial-phenomenauap-or-ufo-sightings-were-report/1178213217671110/](https://www.facebook.com/CrewOperations/posts/july-13th-1984-multiple-unknown-aerial-phenomenauap-or-ufo-sightings-were-report/1178213217671110/)  
+   Link: <a href="https://www.facebook.com/CrewOperations/posts/july-13th-1984-multiple-unknown-aerial-phenomenauap-or-ufo-sightings-were-report/1178213217671110/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CrewOperations/posts/july-13th-1984-multiple-unknown-aerial-phenomenauap-or-ufo-sightings-were-report/1178213217671110/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 13th, 1984: Multiple Unknown Aerial Phenomena(UAP...The 1951 Lubbock Lights were a series of high-profile UFO sightings in Texas, i...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/in-1951-a-ufo-flew-over-texas-and-an-entire-city-lost-power-the-government-blame/10155711775626184/](https://www.facebook.com/HISTORY/posts/in-1951-a-ufo-flew-over-texas-and-an-entire-city-lost-power-the-government-blame/10155711775626184/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/in-1951-a-ufo-flew-over-texas-and-an-entire-city-lost-power-the-government-blame/10155711775626184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/in-1951-a-ufo-flew-over-texas-and-an-entire-city-lost-power-the-government-blame/10155711775626184/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1951, a UFO flew over Texas and an entire city lost...The 1951 Lubbock Lights were a series of high-profile UFO sightings in Texas, i...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: medium.com  
    Title: the lubbock lights a 1950s ufo sighting c1483dc167dd  
-   Link: [https://medium.com/%40darkkat/the-lubbock-lights-a-1950s-ufo-sighting-c1483dc167dd](https://medium.com/%40darkkat/the-lubbock-lights-a-1950s-ufo-sighting-c1483dc167dd)  
+   Link: <a href="https://medium.com/%40darkkat/the-lubbock-lights-a-1950s-ufo-sighting-c1483dc167dd" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40darkkat/the-lubbock-lights-a-1950s-ufo-sighting-c1483dc167dd</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is best known for a photograph of one of the sightings.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified – The True Story of the Lubbock Lights | History  
-   Link: [https://www.youtube.com/watch?v=CIhGAev0ZU4](https://www.youtube.com/watch?v=CIhGAev0ZU4)  
+   Link: <a href="https://www.youtube.com/watch?v=CIhGAev0ZU4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CIhGAev0ZU4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on UFOs by Edward J. Ruppelt (part 1)...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: The Report on UFO [Audiobook part 1] by Edward J. Ruppelt  
-   Link: [https://www.youtube.com/watch?v=O-Fmax00XbA](https://www.youtube.com/watch?v=O-Fmax00XbA)  
+   Link: <a href="https://www.youtube.com/watch?v=O-Fmax00XbA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O-Fmax00XbA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book 1x03 Promo &quot;The Lubbock Lights&quot; (HD) UFO drama series...</p></details>

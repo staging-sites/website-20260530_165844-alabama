@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /explanations/
 nav_short_title: Astronomical Causes
 title: Which Celestial Objects Trigger UFO Reports in Iowa?
-title_full: Which Celestial Objects Trigger UFO Reports in Iowa? | Explanations
+title_full: Which Celestial Objects Trigger UFO Reports in Iowa?
 display_title_short: Astronomical Causes
 display_title: Astronomical Causes
 heading_title: Which Celestial Objects Trigger UFO Reports in Iowa?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:25:50'
-parent_title: When Is an Iowa UFO Probably Ordinary? | Iowa UFOs
+parent_title: When Is an Iowa UFO Probably Ordinary?
 parent_permalink: /explanations/
 parent_nav_short_title: Explanations
 parent_heading_title: When Is an Iowa UFO Probably Ordinary?
@@ -252,8 +252,7 @@ image: /assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_astronomical_ufos_
 
 When Iowans report lights or objects in the sky that seem mysterious, one of the most frequent and straightforward [explanations]({{ 'explanations/' | relative_url }}) lies not in secret craft or unknown technologies but in ordinary **astronomical objects and phenomena**. Bright planets, meteors, satellites and other celestial visitors can appear startling or unfamiliar to casual observers, especially at dawn or dusk. Once identified against predictable sky patterns or known orbital paths, these “UFOs” often reveal themselves as **natural celestial bodies or man‑made objects reflecting sunlight**, not unknown vehicles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapsightings.org">[uapsightings.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapsightings.org</span><span class="citation-popover-title">Common UAP Misidentifications</span><span class="citation-popover-snippet">August 30, 2023 — A few astronomical objects that commonly result in UAP sightings include planets like Venus, Jupiter, and Mars, as well...</span><span class="citation-popover-meta">Published: August 30, 2023</span></span></span>
 
-
-<img src="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_astronomical_ufos_io_699557-Illustration-1-light.svg" | relative_url }}" alt="Astronomical Causes illustration 1" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_astronomical_ufos_io_699557-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_astronomical_ufos_io_699557-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_astronomical_ufos_io_699557-Illustration-1-dark.svg" | relative_url }}" alt="Astronomical Causes illustration 1" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_astronomical_ufos_io_699557-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_astronomical_ufos_io_699557-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Bright Planets That Often Appear “Unidentified”
 
 **Venus, Jupiter and Mars** are among the planets most commonly mistaken for unexplained UFO lights because they can be extremely bright and deceptively motionless to the naked eye:
@@ -264,7 +263,6 @@ When Iowans report lights or objects in the sky that seem mysterious, one of the
 
 Because planets don’t twinkle like stars and remain fixed relative to the background over minutes, untrained observers may perceive them as odd stationary or slowly drifting lights, especially near the horizon at twilight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/?p=71282" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Identifying UFOs and UAPs</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs - NASA Science...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-tkcY4Dv5K4" title="A Rare Alignment of Six Planets is Happening. You Should Not Miss This." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-tkcY4Dv5K4" target="_blank" rel="noopener noreferrer">A Rare Alignment of Six Planets is Happening. You Should Not Miss This.</a></p><p class="youtube-embed-meta">Channel: The Secrets of the Universe &middot; Views: 227.5K &middot; Uploaded: August 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-tkcY4Dv5K4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-tkcY4Dv5K4">Open on YouTube</a></p></div></div></div>
 
 ## Meteors, Fireballs and Cometary Trails
@@ -273,8 +271,7 @@ Not all bright sky glows are planets. **Meteors** — fragments of rock or dust 
 
 Meteor showers, which occur annually as Earth sweeps through streams of comet debris, can significantly increase the number of bright streaks in the night sky. Even outside of showers, random meteoroids entering the atmosphere produce brief, brilliant flashes that can easily be misreported as unexplained aerial phenomena, particularly when seen without reference points for speed or altitude.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/?p=71282" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Identifying UFOs and UAPs</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs - NASA Science...</span></span></span>
 
-
-<img src="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_astronomical_ufos_io_699557-Illustration-2-light.svg" | relative_url }}" alt="Astronomical Causes illustration 2" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_astronomical_ufos_io_699557-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_astronomical_ufos_io_699557-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_astronomical_ufos_io_699557-Illustration-2-dark.svg" | relative_url }}" alt="Astronomical Causes illustration 2" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_astronomical_ufos_io_699557-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_astronomical_ufos_io_699557-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Artificial Satellites and Space Station Passes
 
 The steady growth of **artificial satellites** — especially large constellations like SpaceX’s Starlink — has introduced a new class of sky objects that are often misinterpreted as unidentified craft. Many satellites reflect sunlight toward observers on the ground as they pass overhead, producing a slow, bright, and linear motion that seems unusual if one doesn’t recognise it as orbital transit.[Wikipedia]
@@ -282,7 +279,6 @@ The steady growth of **artificial satellites** — especially large constellatio
 In addition to satellites, the **International Space Station (ISS)** regularly produces extremely bright, smooth arcs across the night sky shortly after sunset or before sunrise. Because the station reflects sunlight high above Earth’s surface, it can appear as a singular, steady light moving steadily across the sky, leading observers to mistake it for a slow, controlled object.[Facebook]
 
 Such satellite and ISS passes are predictable and charted for specific locations, meaning any apparent “mystery light” that follows a consistent arc over several minutes can often be matched to a known orbital track with a simple search.[Wikipedia]
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nuBMnluJfs0" title="Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer">Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 71.9K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nuBMnluJfs0">Open on YouTube</a></p></div></div></div>
 
@@ -292,21 +288,18 @@ Several factors combine to make celestial objects seem mysterious:
 
 * **Lack of reference points:** In dark, featureless sky scenes, observers have nothing to gauge distance, size or speed against — making bright stationary objects seem oddly positioned.[Wikipedia]
 * **Atmospheric effects:** Haze, humidity, and moving clouds can distort or “animate” the appearance of fixed celestial lights, creating the illusion of motion where there is none.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tvi.show/skywatch-files/how-weather-phenomena-are-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvi.show">[Things Visible &amp; Invisible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvi.show</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **Twilight visibility:** Planets and satellites are most visible around sunrise and sunset, seconds when human vision is already adapting — a combination that can heighten surprise and misinterpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">EarthSkyVisible planets and night sky guide for May and JuneYesterday — Shortly after sunset on June 9, brilliant Venus will still be nea...</span></span></span>
+* **Twilight visibility:** Planets and satellites are most visible around sunrise and sunset, seconds when human vision is already adapting — a combination that can heighten surprise and misinterpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">Visible planets and night sky guide for May and JuneYesterday — Shortly after sunset on June 9, brilliant Venus will still be nea...</span></span></span>
 
 Understanding these mechanisms and checking against known sky maps or satellite tracking tools typically reveals that most bright, unexplained lights reported over Iowa align with **normal astronomical objects or paths** rather than unknown craft.
 
-
-<img src="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_astronomical_ufos_io_699557-Illustration-3-light.svg" | relative_url }}" alt="Astronomical Causes illustration 3" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_astronomical_ufos_io_699557-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_astronomical_ufos_io_699557-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_astronomical_ufos_io_699557-Illustration-3-dark.svg" | relative_url }}" alt="Astronomical Causes illustration 3" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_astronomical_ufos_io_699557-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_ufo_explanation_a59b57_astronomical_ufos_io_699557-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Connecting to Iowa’s UFO Report Patterns
 
 Within the broader context of UFO reports in Iowa, database reviews and sighting logs repeatedly show that many unexplained lights occurred at times and directions when bright planets or satellite passes were present. This pattern reflects a common global trend: a large majority of “UFO” sightings, once cross‑checked with astronomical data, coincide with identifiable celestial events or objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapsightings.org">[uapsightings.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapsightings.org</span><span class="citation-popover-title">Common UAP Misidentifications</span><span class="citation-popover-snippet">August 30, 2023 — A few astronomical objects that commonly result in UAP sightings include planets like Venus, Jupiter, and Mars, as well...</span><span class="citation-popover-meta">Published: August 30, 2023</span></span></span>
 
 For anyone curious about a specific sighting, observers can often use readily available sky‑charting apps or satellite prediction tools to check whether a **planetary conjunction, a meteor shower, or a satellite pass** coincided with what was seen — a practical first step before considering more exotic explanations.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/keDI4dNX9tg" title="UFO &amp; UAP. Your Astronomy Sucks #3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=keDI4dNX9tg" target="_blank" rel="noopener noreferrer">UFO &amp; UAP. Your Astronomy Sucks #3</a></p><p class="youtube-embed-meta">Channel: science out there &middot; Views: 2.6K &middot; Uploaded: July 2021 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=keDI4dNX9tg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=keDI4dNX9tg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -394,7 +387,7 @@ For anyone curious about a specific sighting, observers can often use readily av
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -404,111 +397,36 @@ For anyone curious about a specific sighting, observers can often use readily av
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PLANETS SPACE POSTER ART PRINT GALAXY ORBIT STARS SOLAR SYSTEM A3 A4 SIZE"><img src="https://i.ebayimg.com/images/g/lasAAOSwrVZkvcoz/s-l225.jpg" alt="Listing image for PLANETS SPACE POSTER ART PRINT GALAXY ORBIT STARS SOLAR SYSTEM A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster" target="_blank" rel="sponsored noopener noreferrer">PLANETS SPACE POSTER ART PRINT GALAXY ORBIT STARS SOLAR SYSTEM A3 A4 SIZE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,15 +434,15 @@ For anyone curious about a specific sighting, observers can often use readily av
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Forbidden Planet Art Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/edYAAeSw0fFptrvi/s-l225.jpg" alt="Listing image for Forbidden Planet Art Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster" target="_blank" rel="sponsored noopener noreferrer">Forbidden Planet Art Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,15 +450,15 @@ For anyone curious about a specific sighting, observers can often use readily av
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SOLAR SYSTEM PLANETS SPACE SSPS03 MOVIE POSTER PRINT A4 A3 BUY 2 GET 3RD FREE"><img src="https://i.ebayimg.com/images/g/fWEAAOSw0exaAdPQ/s-l225.jpg" alt="Listing image for SOLAR SYSTEM PLANETS SPACE SSPS03 MOVIE POSTER PRINT A4 A3 BUY 2 GET 3RD FREE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster" target="_blank" rel="sponsored noopener noreferrer">SOLAR SYSTEM PLANETS SPACE SSPS03 MOVIE POSTER PRINT A4 A3 BUY 2 GET 3RD FREE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -548,15 +466,15 @@ For anyone curious about a specific sighting, observers can often use readily av
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Print - Vintage Movie Film Poster - FORBIDDEN PLANET - A4, A3, A2,A1"><img src="https://i.ebayimg.com/images/g/sc8AAOSwVxZi~TQ2/s-l225.jpg" alt="Listing image for Home Wall Print - Vintage Movie Film Poster - FORBIDDEN PLANET - A4, A3, A2,A1" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster" target="_blank" rel="sponsored noopener noreferrer">Home Wall Print - Vintage Movie Film Poster - FORBIDDEN PLANET - A4, A3, A2,A1</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for planet poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: planet poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -564,7 +482,7 @@ For anyone curious about a specific sighting, observers can often use readily av
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomical-causes-which-celestial-objects-trigger-ufo-reports-in-iowa-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=planet+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster" data-ebay-reference="which-celestial-objects-trigger-ufo-reports-in-iowa-planet-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -641,17 +559,31 @@ For anyone curious about a specific sighting, observers can often use readily av
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -664,42 +596,73 @@ For anyone curious about a specific sighting, observers can often use readily av
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -714,12 +677,17 @@ For anyone curious about a specific sighting, observers can often use readily av
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -730,174 +698,174 @@ For anyone curious about a specific sighting, observers can often use readily av
 1. <a id="endnote-1"></a>
    Source: uapsightings.org  
    Title: Common UAP Misidentifications  
-   Link: [https://uapsightings.org/common-uap-misidentifications/](https://uapsightings.org/common-uap-misidentifications/)  
+   Link: <a href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow">https://uapsightings.org/common-uap-misidentifications/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 30, 2023 — A few astronomical objects that commonly result in UAP sightings include planets like Venus, Jupiter, and Mars, as well...</p></details>
    Published: August 30, 2023  
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
    Title: Science Identifying UFOs and UAPs  
-   Link: [https://science.nasa.gov/?p=71282](https://science.nasa.gov/?p=71282)  
+   Link: <a href="https://science.nasa.gov/?p=71282" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/?p=71282</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIdentifying UFOs and UAPs - NASA Science...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Venus](https://en.wikipedia.org/wiki/Venus)  
+   Link: <a href="https://en.wikipedia.org/wiki/Venus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Venus</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Jupiter](https://en.wikipedia.org/wiki/Jupiter)  
+   Link: <a href="https://en.wikipedia.org/wiki/Jupiter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jupiter</a>  
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: Science Meteors and Meteorites: Facts  
-   Link: [https://science.nasa.gov/solar-system/meteors-meteorites/facts/](https://science.nasa.gov/solar-system/meteors-meteorites/facts/)  
+   Link: <a href="https://science.nasa.gov/solar-system/meteors-meteorites/facts/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/meteors-meteorites/facts/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceMeteors and Meteorites: Facts - NASA ScienceFebruary 14, 2025...</p></details>
    Published: February 14, 2025  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Satellite flare  
-   Link: [https://en.wikipedia.org/wiki/Satellite_flare](https://en.wikipedia.org/wiki/Satellite_flare)  
+   Link: <a href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_flare</a>  
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/smartphoneastro/posts/934077345851655/](https://www.facebook.com/groups/smartphoneastro/posts/934077345851655/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookISS often mistaken for ufo after sunsetLot&#x27;s of folks see this and post it on the Internet thinking they filmed a UFO. This is ac...</p></details>
+   Link: <a href="https://www.facebook.com/groups/smartphoneastro/posts/934077345851655/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/smartphoneastro/posts/934077345851655/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ISS often mistaken for ufo after sunsetLot&#x27;s of folks see this and post it on the Internet thinking they filmed a UFO. This is ac...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
 9. <a id="endnote-9"></a>
    Source: earthsky.org  
-   Link: [https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/](https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthSkyVisible planets and night sky guide for May and JuneYesterday — Shortly after sunset on June 9, brilliant Venus will still be nea...</p></details>
+   Link: <a href="https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/visible-planets-tonight-mars-jupiter-venus-saturn-mercury/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visible planets and night sky guide for May and JuneYesterday — Shortly after sunset on June 9, brilliant Venus will still be nea...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
    Title: Black silhouettes of trees line the e  
-   Link: [https://science.nasa.gov/solar-system/skywatching/night-sky-network/nsn-night-lights/](https://science.nasa.gov/solar-system/skywatching/night-sky-network/nsn-night-lights/)  
+   Link: <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/nsn-night-lights/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/night-sky-network/nsn-night-lights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lights: Aurora, Noctilucent Clouds, and the Zodiacal Light - NASA ScienceOctober 15, 2024 — 3 Min Read NIGHT LIGHTS: AURORA, NOCTILUCENT...</p></details>
    Published: October 15, 2024  
 
 11. <a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: gov10 Things: What's That Space Rock?  
-   Link: [https://science.nasa.gov/solar-system/10-things-whats-that-space-rock/](https://science.nasa.gov/solar-system/10-things-whats-that-space-rock/)  
+   Link: <a href="https://science.nasa.gov/solar-system/10-things-whats-that-space-rock/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/10-things-whats-that-space-rock/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceJuly 21, 2022 — 10 THINGS: WHAT’S THAT SPACE ROCK? Image: The headshot image of NASA Science Editorial Team NASA Science Edit...</p></details>
    Published: July 21, 2022  
 
 12. <a id="endnote-12"></a>
    Source: earthsky.org  
    Title: Is that a UFO?!  
-   Link: [https://earthsky.org/space/if-its-not-a-ufo-what-is-it/](https://earthsky.org/space/if-its-not-a-ufo-what-is-it/)  
+   Link: <a href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/if-its-not-a-ufo-what-is-it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s probably an explanation | Human World | EarthSkyDecember 15, 2020 — IS THAT A UFO?! THERE’S PROBABLY AN EXPLANATION Posted by Edd...</p></details>
    Published: December 15, 2020  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: UFO sightings in outer space  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_outer_space](https://en.wikipedia.org/wiki/UFO_sightings_in_outer_space)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_outer_space" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_outer_space</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in outer spaceUnidentified flying objects have been reported by astronauts while in space. These sightings have been cla...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: jpl.nasa.gov  
    Title: keeping an eye on space rocks  
-   Link: [https://www.jpl.nasa.gov/keeping-an-eye-on-space-rocks/](https://www.jpl.nasa.gov/keeping-an-eye-on-space-rocks/)  
+   Link: <a href="https://www.jpl.nasa.gov/keeping-an-eye-on-space-rocks/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/keeping-an-eye-on-space-rocks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Asteroid Ida and its moon Dactyl, imaged by the Galileo spacecraft. Full image and caption Credit: NASA/JPL-Caltech JPL manages NASA&#x27;s Ce...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: science.nasa.gov  
    Title: planetary alignments and planet parades  
-   Link: [https://science.nasa.gov/solar-system/skywatching/planetary-alignments-and-planet-parades/](https://science.nasa.gov/solar-system/skywatching/planetary-alignments-and-planet-parades/)  
+   Link: <a href="https://science.nasa.gov/solar-system/skywatching/planetary-alignments-and-planet-parades/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/planetary-alignments-and-planet-parades/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alignments and Planet Parades4 Feb 2025 — Five planets are visible without optical aid: Mercury, Venus, Mars, Jupiter, and Saturn. Ancien...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: planetary.org  
    Title: night sky what to see this month  
-   Link: [https://www.planetary.org/night-sky/night-sky-what-to-see-this-month](https://www.planetary.org/night-sky/night-sky-what-to-see-this-month)  
+   Link: <a href="https://www.planetary.org/night-sky/night-sky-what-to-see-this-month" target="_blank" rel="noopener noreferrer nofollow">https://www.planetary.org/night-sky/night-sky-what-to-see-this-month</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s up in the night sky: June 2026All Month: Super bright Venus dominates the early evening western sky. All Month: Very bright Jupite...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2333138266919453/posts/4152014018365193/](https://www.facebook.com/groups/2333138266919453/posts/4152014018365193/)  
+   Link: <a href="https://www.facebook.com/groups/2333138266919453/posts/4152014018365193/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2333138266919453/posts/4152014018365193/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ble, venus and Mars I can pick out, not sure about the others...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1918635208971536/posts/2111456399689415/](https://www.facebook.com/groups/1918635208971536/posts/2111456399689415/)  
+   Link: <a href="https://www.facebook.com/groups/1918635208971536/posts/2111456399689415/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1918635208971536/posts/2111456399689415/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronauts spot unidentified objects near space station9 Mar 2026 — Low Earth orbit — the region where the ISS travels — contains thousan...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: farmersalmanac.com  
-   Link: [https://www.farmersalmanac.com/visible-planets-guide](https://www.farmersalmanac.com/visible-planets-guide)  
+   Link: <a href="https://www.farmersalmanac.com/visible-planets-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.farmersalmanac.com/visible-planets-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Farmers&#x27; AlmanacWhat Planets Are Visible Tonight - Farmers&#x27; AlmanacSpot the five naked-eye planets: Mercury, Venus, Mars, Jupiter, and Sa...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: tvi.show  
-   Link: [https://www.tvi.show/skywatch-files/how-weather-phenomena-are-mistaken-for-ufos](https://www.tvi.show/skywatch-files/how-weather-phenomena-are-mistaken-for-ufos)  
+   Link: <a href="https://www.tvi.show/skywatch-files/how-weather-phenomena-are-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/how-weather-phenomena-are-mistaken-for-ufos</a>  
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: ufoac.com  
-   Link: [https://ufoac.com/top-7-phenomena-that-are-often-mistaken-for-ufos.html](https://ufoac.com/top-7-phenomena-that-are-often-mistaken-for-ufos.html)  
+   Link: <a href="https://ufoac.com/top-7-phenomena-that-are-often-mistaken-for-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/top-7-phenomena-that-are-often-mistaken-for-ufos.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 7 phenomena that are often mistaken for UFOs.TOP 7 PHENOMENA OFTEN CONFUSED WITH UFOS Report UFO sightings UFOlogist&#x27;s tools Send mes...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: thenaturenetwork.co.uk  
    Title: Objects in the Night Sky People Always Mistake for UFOs – The Nature Network  
-   Link: [https://thenaturenetwork.co.uk/objects-in-the-night-sky-people-always-mistake-for-ufos/](https://thenaturenetwork.co.uk/objects-in-the-night-sky-people-always-mistake-for-ufos/)  
+   Link: <a href="https://thenaturenetwork.co.uk/objects-in-the-night-sky-people-always-mistake-for-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://thenaturenetwork.co.uk/objects-in-the-night-sky-people-always-mistake-for-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October 3, 2025 — OBJECTS IN THE NIGHT SKY PEOPLE ALWAYS MISTAKE FOR UFOS By Nate Sullivan / 3 October 2025 / Natural Wonders &amp; Space THE...</p></details>
    Published: October 3, 2025  
 
 23. <a id="endnote-23"></a>
    Source: starwalk.space  
    Title: UF O Lights In the Sky: Facts & Pictures | UFO Sightings | Are UFO Real  
-   Link: [https://starwalk.space/en/infographics/ufo-sightings-real-objects](https://starwalk.space/en/infographics/ufo-sightings-real-objects)  
+   Link: <a href="https://starwalk.space/en/infographics/ufo-sightings-real-objects" target="_blank" rel="noopener noreferrer nofollow">https://starwalk.space/en/infographics/ufo-sightings-real-objects</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Lights In the Sky: Facts &amp; Pictures | UFO Sightings | Are UFO RealFebruary 12, 2024 — RELAX, IT&#x27;S NOT ALIENS: MAN-MADE OBJECTS MISTAK...</p></details>
    Published: February 12, 2024  
 
 24. <a id="endnote-24"></a>
    Source: universemagazine.com  
    Title: known flying objects sky phenomena we often mistake for ufos  
-   Link: [https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/](https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/)  
+   Link: <a href="https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Known Flying Objects: Sky Phenomena We Often Mistake for UFOOctober 12, 2024 — October 12, 2024 KNOWN FLYING OBJECTS: SKY PHENOMENA WE OF...</p></details>
    Published: October 12, 2024  
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Astronomy/comments/1mnp8m1/jupiter_and_venus_are_currently_very_close/](https://www.reddit.com/r/Astronomy/comments/1mnp8m1/jupiter_and_venus_are_currently_very_close/)  
+   Link: <a href="https://www.reddit.com/r/Astronomy/comments/1mnp8m1/jupiter_and_venus_are_currently_very_close/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1mnp8m1/jupiter_and_venus_are_currently_very_close/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Does... Sky map says Mars and Venus are next to each other, but I only see one...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: sky-lens.com  
-   Link: [https://sky-lens.com/guide/common-confusables](https://sky-lens.com/guide/common-confusables)  
+   Link: <a href="https://sky-lens.com/guide/common-confusables" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide/common-confusables</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn them, and your false-positive rate drops dramatically. Object | Appearance | Key...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: skyatnightmagazine.com  
    Title: 17 things commonly mistaken for UFOs | BBC Sky at Night Magazine  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Consider the following possibilities... Get monthly inspiration to your door with BBC Sky At Night Magazine - subscribe toda...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1musde8/genuine_question_why_cant_satellitesradars/](https://www.reddit.com/r/UFOs/comments/1musde8/genuine_question_why_cant_satellitesradars/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1musde8/genuine_question_why_cant_satellitesradars/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1musde8/genuine_question_why_cant_satellitesradars/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>we only get to witness the tic tac and other UAP once they&#x27;re spinning around...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: astronomytrek.com  
    Title: UF O Sightings | Explanations Behind the Phenomena  
-   Link: [https://www.astronomytrek.com/common-causes-of-mistaken-ufo-sightings/](https://www.astronomytrek.com/common-causes-of-mistaken-ufo-sightings/)  
+   Link: <a href="https://www.astronomytrek.com/common-causes-of-mistaken-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomytrek.com/common-causes-of-mistaken-ufo-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings | Explanations Behind the PhenomenaMarch 1, 2015 — COMMON EXPLANATIONS FOR MISTAKEN UFO SIGHTINGS James Miller FAQs Image...</p></details>
    Published: March 1, 2015  
 
 30. <a id="endnote-30"></a>
    Source: popsci.com  
    Title: What that UFO might actually be | Popular Science  
-   Link: [https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/](https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/)  
+   Link: <a href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>September 10, 2023 — There have been hearings on Capitol Hill, Pentagon reports, and a NASA working group, all looking into more than 100...</p></details>
-   Published: September 10, 2023  
+   Published: September 10, 2023

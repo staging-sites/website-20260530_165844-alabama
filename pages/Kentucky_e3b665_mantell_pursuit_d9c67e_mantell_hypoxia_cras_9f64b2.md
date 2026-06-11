@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /mantell/
 nav_short_title: Fatal climb
 title: Why Mantell's pursuit turned deadly
-title_full: Why Mantell's pursuit turned deadly | Mantell
+title_full: Why Mantell's pursuit turned deadly
 display_title_short: Fatal climb
 display_title: Fatal climb
 heading_title: Why Mantell's pursuit turned deadly
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:29:28'
-parent_title: Was the Mantell UFO Chase a Balloon? | Kentucky UFOs
+parent_title: Was the Mantell UFO Chase a Balloon?
 parent_permalink: /mantell/
 parent_nav_short_title: Mantell
 parent_heading_title: Was the Mantell UFO Chase a Balloon?
@@ -250,10 +250,9 @@ image: /assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e_mantell_hypoxia_cra
 
 ## Introduction
 
-Captain Thomas [Mantell]({{ 'mantell/' | relative_url }})’s death on 7 January 1948 became one of the defining moments in early American UFO history because it combined two powerful elements: an unexplained object over [Kentucky]({{ 'what-really-happened-in-kentuckys-ufo/' | relative_url }}) and the fatal loss of a military pilot during pursuit. Yet the evidence surrounding the crash points less towards a mysterious attack than towards a familiar aviation danger in high-altitude flight: hypoxia, the loss of mental and physical function caused by insufficient oxygen. The accepted explanation today is that Mantell climbed too high in an unpressurised F-51 Mustang while attempting to identify what was probably a Navy Skyhook balloon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://completely-kentucky.fandom.com/wiki/Mantell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: completely-kentucky.fandom.com">[Completely Kentucky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">completely-kentucky.fandom.com</span><span class="citation-popover-title">Completely Kentucky Mantell UFO Incident</span><span class="citation-popover-snippet">Completely KentuckyMantell UFO Incident - Completely Kentucky Wiki - FandomAccording to the Air Force, once Mantell passed 25,000 feet he...</span></span></span>
+Captain Thomas [Mantell]({{ 'mantell/' | relative_url }})’s death on 7 January 1948 became one of the defining moments in early American UFO history because it combined two powerful elements: an unexplained object over Kentucky and the fatal loss of a military pilot during pursuit. Yet the evidence surrounding the crash points less towards a mysterious attack than towards a familiar aviation danger in high-altitude flight: hypoxia, the loss of mental and physical function caused by insufficient oxygen. The accepted explanation today is that Mantell climbed too high in an unpressurised F-51 Mustang while attempting to identify what was probably a Navy Skyhook balloon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://completely-kentucky.fandom.com/wiki/Mantell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: completely-kentucky.fandom.com">[Completely Kentucky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">completely-kentucky.fandom.com</span><span class="citation-popover-title">Completely Kentucky Mantell UFO Incident</span><span class="citation-popover-snippet">Completely KentuckyMantell UFO Incident - Completely Kentucky Wiki - FandomAccording to the Air Force, once Mantell passed 25,000 feet he...</span></span></span>
 
-
-<img src="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e_mantell_hypoxia_cras_9f64b2-Illustration-1-light.svg" | relative_url }}" alt="Fatal climb illustration 1" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e_mantell_hypoxia_cras_9f64b2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e_mantell_hypoxia_cras_9f64b2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e_mantell_hypoxia_cras_9f64b2-Illustration-1-dark.svg" | relative_url }}" alt="Fatal climb illustration 1" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e_mantell_hypoxia_cras_9f64b2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e_mantell_hypoxia_cras_9f64b2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What keeps the case important is not simply the UFO angle. The Mantell incident shows how quickly experienced pilots in the late 1940s could become impaired at altitude, especially in aircraft with limited oxygen support and no pressurised cockpit. It also illustrates how uncertainty, incomplete information, and Cold War secrecy shaped some of the earliest famous UFO [investigations]({{ 'investigations-ea7b1d/' | relative_url }}) in Kentucky.
 
 ## Mantell’s final radio reports and steep climb
@@ -262,8 +261,7 @@ The pursuit began after observers at Godman Army Airfield near Fort Knox reporte
 
 During the climb, the flight gradually broke apart. Two accompanying pilots turned back because of fuel concerns and limited oxygen availability. One report states that only one accompanying pilot had an oxygen mask fitted and even that supply was running low. Mantell, however, continued upward alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://completely-kentucky.fandom.com/wiki/Mantell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: completely-kentucky.fandom.com">[Completely Kentucky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">completely-kentucky.fandom.com</span><span class="citation-popover-title">Completely Kentucky Mantell UFO Incident</span><span class="citation-popover-snippet">Completely KentuckyMantell UFO Incident - Completely Kentucky Wiki - FandomAccording to the Air Force, once Mantell passed 25,000 feet he...</span></span></span>
 
-His final radio transmissions became central to later debate. Mantell reportedly described the object as “metallic” and “tremendous in size”, and indicated he was still climbing to gain a closer look. He also stated that the object appeared to move slowly compared with his fighter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://avweb.com/aviation-news/fatal-1948-accident-traced-to-erroneous-ufo-sighting-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avweb.com">[AVweb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avweb.com</span><span class="citation-popover-title">fatal 1948 accident traced to erroneous ufo sighting report</span><span class="citation-popover-snippet">AVwebFatal 1948 Accident Traced To Erroneous UFO Sighting...1 Nov 2022 — Mantell led a flight of four Mustangs, scrambled to respond to...</span></span></span> HowStuffWorks Those communications matter because they suggest several things at once: <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[science.howstuffworks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">Thomas Mantell UFO IncidentMantell, Jr., died when his F-51 crashed after chasing what he called, in one of his last radio transmissions...</span></span></span>
-
+His final radio transmissions became central to later debate. Mantell reportedly described the object as “metallic” and “tremendous in size”, and indicated he was still climbing to gain a closer look. He also stated that the object appeared to move slowly compared with his fighter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://avweb.com/aviation-news/fatal-1948-accident-traced-to-erroneous-ufo-sighting-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avweb.com">[AVweb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avweb.com</span><span class="citation-popover-title">fatal 1948 accident traced to erroneous ufo sighting report</span><span class="citation-popover-snippet">Fatal 1948 Accident Traced To Erroneous UFO Sighting...1 Nov 2022 — Mantell led a flight of four Mustangs, scrambled to respond to...</span></span></span> HowStuffWorks Those communications matter because they suggest several things at once: <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[science.howstuffworks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">Thomas Mantell UFO IncidentMantell, Jr., died when his F-51 crashed after chasing what he called, in one of his last radio transmissions...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -276,7 +274,6 @@ His final radio transmissions became central to later debate. Mantell reportedly
 After reaching extreme altitude, radio contact ceased. Witnesses later described the Mustang entering a descending spiral before crashing near Franklin, Kentucky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://completely-kentucky.fandom.com/wiki/Mantell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: completely-kentucky.fandom.com">[Completely Kentucky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">completely-kentucky.fandom.com</span><span class="citation-popover-title">Completely Kentucky Mantell UFO Incident</span><span class="citation-popover-snippet">Completely KentuckyMantell UFO Incident - Completely Kentucky Wiki - FandomAccording to the Air Force, once Mantell passed 25,000 feet he...</span></span></span>
 
 The pattern strongly matched pilot incapacitation rather than combat damage. Investigators found no persuasive evidence that another aircraft, weapon, or explosive force brought the Mustang down. Instead, the aircraft appears to have continued uncontrolled until impact after Mantell himself lost consciousness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_North_American_P-51_Mustang" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Accidents and incidents involving the North American P-51 Mustang</span><span class="citation-popover-snippet">Accidents and incidents involving the North American P-51 Mustang</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_IqWal_EmBg" title="Pilot Declares Emergency Because Of Extreme Hypoxia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_IqWal_EmBg" target="_blank" rel="noopener noreferrer">Pilot Declares Emergency Because Of Extreme Hypoxia</a></p><p class="youtube-embed-meta">Channel: HouieLouy &middot; Views: 1.6M &middot; Uploaded: June 2009 &middot; Length: 4 minutes 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_IqWal_EmBg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_IqWal_EmBg">Open on YouTube</a></p></div></div></div>
 
@@ -299,7 +296,7 @@ One reason the Mantell case remains so debated is that Mantell himself was not a
 
 However, several factors complicate that argument.
 
-First, wartime flying experience did not eliminate the physiological limits of high-altitude flight. Even trained crews could become impaired surprisingly quickly if oxygen equipment malfunctioned, became exhausted, or was not properly connected. Second, the visual fixation of pursuing an unusual object may have distracted Mantell from monitoring altitude and oxygen status carefully. Third, investigators later noted that he had relatively limited experience specifically with the F-51 in peacetime National Guard operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ww2aircraft.net/forum/threads/p-51-vs-ufo.27662/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ww2aircraft.net">[ww2aircraft.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ww2aircraft.net</span><span class="citation-popover-title">P-51 vs</span><span class="citation-popover-snippet">UFO | Aircraft of World War II - WW2Aircraft.net Forums6 Jan 2011 — If a Skyhook balloon was involved in the crash of Mantell&#x27;s aircraft...</span></span></span>
+First, wartime flying experience did not eliminate the physiological limits of high-altitude flight. Even trained crews could become impaired surprisingly quickly if oxygen equipment malfunctioned, became exhausted, or was not properly connected. Second, the visual fixation of pursuing an unusual object may have distracted Mantell from monitoring altitude and oxygen status carefully. Third, investigators later noted that he had relatively limited experience specifically with the F-51 in peacetime National Guard operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ww2aircraft.net/forum/threads/p-51-vs-ufo.27662/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ww2aircraft.net">[ww2aircraft.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ww2aircraft.net</span><span class="citation-popover-title">P-51 vs</span><span class="citation-popover-snippet">UFO &#124; Aircraft of World War II - WW2Aircraft.net Forums6 Jan 2011 — If a Skyhook balloon was involved in the crash of Mantell&#x27;s aircraft...</span></span></span>
 
 There is also uncertainty about the exact condition of Mantell’s oxygen system. Some later commentators argued the equipment may have been functional, while others suggested supply problems or mask issues were possible. No definitive mechanical failure was ever conclusively established from the crash evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kevinrandle.blogspot.com/2016/06/mantel-ruppelt-and-blue-book.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[kevinrandle.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">mantel ruppelt and blue book</span><span class="citation-popover-snippet">A Different Perspective: Mantell, Ruppelt and Blue Book3 Jun 2016 — 3) Mantell was a very experienced pilot and had been a high-altitude...</span></span></span>
 
@@ -310,8 +307,7 @@ That uncertainty matters because it leaves two plausible versions of the same br
 
 Either route leads to the same likely outcome: progressive hypoxia followed by unconsciousness.
 
-
-<img src="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e_mantell_hypoxia_cras_9f64b2-Illustration-2-light.svg" | relative_url }}" alt="Fatal climb illustration 2" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e_mantell_hypoxia_cras_9f64b2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e_mantell_hypoxia_cras_9f64b2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e_mantell_hypoxia_cras_9f64b2-Illustration-2-dark.svg" | relative_url }}" alt="Fatal climb illustration 2" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e_mantell_hypoxia_cras_9f64b2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e_mantell_hypoxia_cras_9f64b2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How hypoxia became the accepted crash explanation
 
 In the immediate aftermath, speculation spread rapidly. Early Air Force discussion included the mistaken idea that the object might have been the planet Venus, an explanation later widely criticised because visibility conditions did not fit witness descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Edward_J._Ruppelt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Edward J. Ruppelt</span><span class="citation-popover-snippet">Edward J. Ruppelt</span></span></span>
@@ -322,9 +318,7 @@ Once the balloon explanation gained traction, the crash itself became easier to 
 
 The sequence proposed by investigators was relatively straightforward:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JvsijgHVuSo" title="1970s U.S. AIR FORCE HYPOXIA TRAINING FILM w/ BRIG. GEN. CHUCK YEAGER, COL. GILES HALL GG45305" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JvsijgHVuSo" target="_blank" rel="noopener noreferrer">1970s U.S. AIR FORCE HYPOXIA TRAINING FILM w/ BRIG. GEN. CHUCK YEAGER, COL. GILES HALL GG45305</a></p><p class="youtube-embed-meta">Channel: PeriscopeFilm &middot; Views: 3.2K &middot; Uploaded: June 2025 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JvsijgHVuSo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JvsijgHVuSo">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -340,15 +334,13 @@ Importantly, this explanation did not require the object itself to behave danger
 
 This distinction shaped later sceptical interpretations of the Mantell incident. Even researchers who remained unconvinced by the [Skyhook theory]({{ 'skyhook-theory/' | relative_url }}) often accepted hypoxia as the most likely cause of the crash itself. The major disagreement usually centred on what Mantell was chasing, not on why he died. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/what-was-pilot-thomas-mantell-chasing-when-his-plane-crashed-in-1948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">what was pilot thomas mantell chasing when his plane crashed in 1948</span><span class="citation-popover-snippet">What Was Pilot Thomas Mantell Chasing When His Plane...15 Feb 2022 — Thomas Mantell did not survive his encounter with whatever anomalou...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IKCMRJHYls8" title="Airmen Fight Against Hypoxia in Simulation Chamber" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IKCMRJHYls8" target="_blank" rel="noopener noreferrer">Airmen Fight Against Hypoxia in Simulation Chamber</a></p><p class="youtube-embed-meta">Channel: AiirSource Military &middot; Views: 70.1K &middot; Uploaded: March 2013 &middot; Length: 2 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IKCMRJHYls8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IKCMRJHYls8">Open on YouTube</a></p></div></div></div>
 
 ## Why the crash still matters in Kentucky UFO history
 
 The Mantell incident occupies a special place in Kentucky’s UFO history because it transformed a sighting report into a national story with fatal consequences. Newspapers across the United States treated the event as evidence that “flying saucers” might represent a real aviation concern. The case helped push the military towards more formal UFO investigation programmes during the late 1940s and early 1950s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span>
 
-At the same time, the crash became an early example of how UFO narratives can grow around incomplete technical understanding. Modern aviation historians generally view the incident as a tragedy rooted in altitude physiology and misidentification rather than extraterrestrial contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://avweb.com/aviation-news/fatal-1948-accident-traced-to-erroneous-ufo-sighting-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avweb.com">[avweb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avweb.com</span><span class="citation-popover-title">fatal 1948 accident traced to erroneous ufo sighting report</span><span class="citation-popover-snippet">AVwebFatal 1948 Accident Traced To Erroneous UFO Sighting...1 Nov 2022 — Mantell led a flight of four Mustangs, scrambled to respond to...</span></span></span> Yet the case remains compelling because several features still resonate with readers today:
-
+At the same time, the crash became an early example of how UFO narratives can grow around incomplete technical understanding. Modern aviation historians generally view the incident as a tragedy rooted in altitude physiology and misidentification rather than extraterrestrial contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://avweb.com/aviation-news/fatal-1948-accident-traced-to-erroneous-ufo-sighting-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avweb.com">[avweb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avweb.com</span><span class="citation-popover-title">fatal 1948 accident traced to erroneous ufo sighting report</span><span class="citation-popover-snippet">Fatal 1948 Accident Traced To Erroneous UFO Sighting...1 Nov 2022 — Mantell led a flight of four Mustangs, scrambled to respond to...</span></span></span> Yet the case remains compelling because several features still resonate with readers today:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -362,8 +354,7 @@ At the same time, the crash became an early example of how UFO narratives can gr
 
 For Kentucky’s UFO history, the Mantell crash therefore represents both an aviation accident and a turning point in public perception. It showed how unidentified aerial [sightings]({{ 'sightings-4a7cde/' | relative_url }}), Cold War secrecy, and genuine flight hazards could merge into a story that still attracts debate decades later.
 
-
-<img src="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e_mantell_hypoxia_cras_9f64b2-Illustration-3-light.svg" | relative_url }}" alt="Fatal climb illustration 3" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e_mantell_hypoxia_cras_9f64b2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e_mantell_hypoxia_cras_9f64b2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e_mantell_hypoxia_cras_9f64b2-Illustration-3-dark.svg" | relative_url }}" alt="Fatal climb illustration 3" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e_mantell_hypoxia_cras_9f64b2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e_mantell_hypoxia_cras_9f64b2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -451,7 +442,7 @@ For Kentucky’s UFO history, the Mantell crash therefore represents both an avi
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -461,111 +452,36 @@ For Kentucky’s UFO history, the Mantell crash therefore represents both an avi
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mantell-s-pursuit-turned-deadly-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="why-mantell-s-pursuit-turned-deadly-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for P-51c Mustang Merlin Engine China 1945 Accurate Miniatures #3419 Model Kit"><img src="https://i.ebayimg.com/images/g/mLEAAeSwB8NqKZuh/s-l225.jpg" alt="Listing image for P-51c Mustang Merlin Engine China 1945 Accurate Miniatures #3419 Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mantell-s-pursuit-turned-deadly-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="why-mantell-s-pursuit-turned-deadly-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer">P-51c Mustang Merlin Engine China 1945 Accurate Miniatures #3419 Model Kit</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mantell-s-pursuit-turned-deadly-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="why-mantell-s-pursuit-turned-deadly-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for p 51 mustang model">Search <span data-ebay-domain-label>eBay.co.uk</span>: p 51 mustang model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mantell-s-pursuit-turned-deadly-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="why-mantell-s-pursuit-turned-deadly-p-51-mustang-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -573,15 +489,15 @@ For Kentucky’s UFO history, the Mantell crash therefore represents both an avi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mantell-s-pursuit-turned-deadly-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="why-mantell-s-pursuit-turned-deadly-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for North American P-51D Mustang &#x27;Big Beautiful Doll&#x27; 1:72 Scale Diecast Model LG12"><img src="https://i.ebayimg.com/images/g/1xQAAOSwJAZmq9KU/s-l225.jpg" alt="Listing image for North American P-51D Mustang &#x27;Big Beautiful Doll&#x27; 1:72 Scale Diecast Model LG12" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mantell-s-pursuit-turned-deadly-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="why-mantell-s-pursuit-turned-deadly-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer">North American P-51D Mustang &#x27;Big Beautiful Doll&#x27; 1:72 Scale Diecast Model LG12</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mantell-s-pursuit-turned-deadly-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="why-mantell-s-pursuit-turned-deadly-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for p 51 mustang model">Search <span data-ebay-domain-label>eBay.co.uk</span>: p 51 mustang model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mantell-s-pursuit-turned-deadly-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="why-mantell-s-pursuit-turned-deadly-p-51-mustang-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -589,15 +505,15 @@ For Kentucky’s UFO history, the Mantell crash therefore represents both an avi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mantell-s-pursuit-turned-deadly-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="why-mantell-s-pursuit-turned-deadly-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for P-51D Mustang 1:32 Scale Unbuilt Plastic Model Kit - 165 Piece Assembly Project"><img src="https://i.ebayimg.com/images/g/dIsAAeSwOnVqJWWP/s-l225.jpg" alt="Listing image for P-51D Mustang 1:32 Scale Unbuilt Plastic Model Kit - 165 Piece Assembly Project" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mantell-s-pursuit-turned-deadly-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="why-mantell-s-pursuit-turned-deadly-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer">P-51D Mustang 1:32 Scale Unbuilt Plastic Model Kit - 165 Piece Assembly Project</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mantell-s-pursuit-turned-deadly-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="why-mantell-s-pursuit-turned-deadly-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for p 51 mustang model">Search <span data-ebay-domain-label>eBay.co.uk</span>: p 51 mustang model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mantell-s-pursuit-turned-deadly-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="why-mantell-s-pursuit-turned-deadly-p-51-mustang-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -605,15 +521,15 @@ For Kentucky’s UFO history, the Mantell crash therefore represents both an avi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mantell-s-pursuit-turned-deadly-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="why-mantell-s-pursuit-turned-deadly-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Del Prado Diecast Model Aircraft 1:100 North American P51 Mustang USAAF"><img src="https://i.ebayimg.com/images/g/4fAAAeSwSfhqJSkI/s-l225.jpg" alt="Listing image for Del Prado Diecast Model Aircraft 1:100 North American P51 Mustang USAAF" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mantell-s-pursuit-turned-deadly-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="why-mantell-s-pursuit-turned-deadly-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer">Del Prado Diecast Model Aircraft 1:100 North American P51 Mustang USAAF</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mantell-s-pursuit-turned-deadly-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="why-mantell-s-pursuit-turned-deadly-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for p 51 mustang model">Search <span data-ebay-domain-label>eBay.co.uk</span>: p 51 mustang model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mantell-s-pursuit-turned-deadly-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="why-mantell-s-pursuit-turned-deadly-p-51-mustang-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -621,7 +537,7 @@ For Kentucky’s UFO history, the Mantell crash therefore represents both an avi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fatal-climb-why-mantell-s-pursuit-turned-deadly-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-mantell-s-pursuit-turned-deadly-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="why-mantell-s-pursuit-turned-deadly-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -698,17 +614,31 @@ For Kentucky’s UFO history, the Mantell crash therefore represents both an avi
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -721,42 +651,73 @@ For Kentucky’s UFO history, the Mantell crash therefore represents both an avi
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -771,12 +732,17 @@ For Kentucky’s UFO history, the Mantell crash therefore represents both an avi
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -787,148 +753,148 @@ For Kentucky’s UFO history, the Mantell crash therefore represents both an avi
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Mantell UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Mantell_UFO_incident](https://en.wikipedia.org/wiki/Mantell_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mantell_UFO_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: avweb.com  
    Title: fatal 1948 accident traced to erroneous ufo sighting report  
-   Link: [https://avweb.com/aviation-news/fatal-1948-accident-traced-to-erroneous-ufo-sighting-report/](https://avweb.com/aviation-news/fatal-1948-accident-traced-to-erroneous-ufo-sighting-report/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AVwebFatal 1948 Accident Traced To Erroneous UFO Sighting...1 Nov 2022 — Mantell led a flight of four Mustangs, scrambled to respond to...</p></details>
+   Link: <a href="https://avweb.com/aviation-news/fatal-1948-accident-traced-to-erroneous-ufo-sighting-report/" target="_blank" rel="noopener noreferrer nofollow">https://avweb.com/aviation-news/fatal-1948-accident-traced-to-erroneous-ufo-sighting-report/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fatal 1948 Accident Traced To Erroneous UFO Sighting...1 Nov 2022 — Mantell led a flight of four Mustangs, scrambled to respond to...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: dvidshub.net  
    Title: questions remain 75 years after mysterious fort knox ufo incident downed pilot  
-   Link: [https://www.dvidshub.net/news/436733/questions-remain-75-years-after-mysterious-fort-knox-ufo-incident-downed-pilot](https://www.dvidshub.net/news/436733/questions-remain-75-years-after-mysterious-fort-knox-ufo-incident-downed-pilot)  
+   Link: <a href="https://www.dvidshub.net/news/436733/questions-remain-75-years-after-mysterious-fort-knox-ufo-incident-downed-pilot" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/436733/questions-remain-75-years-after-mysterious-fort-knox-ufo-incident-downed-pilot</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thomas Mantell&#x27;s flight that afternoon still remains shrouded in mystery. He died while pursuing a UFO that was seen in the skies over Go...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: science.howstuffworks.com  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/ufo-government3.htm](https://science.howstuffworks.com/space/aliens-ufos/ufo-government3.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government3.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-government3.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thomas Mantell UFO IncidentMantell, Jr., died when his F-51 crashed after chasing what he called, in one of his last radio transmissions...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: kevinrandle.blogspot.com  
    Title: mantel ruppelt and blue book  
-   Link: [https://kevinrandle.blogspot.com/2016/06/mantel-ruppelt-and-blue-book.html](https://kevinrandle.blogspot.com/2016/06/mantel-ruppelt-and-blue-book.html)  
+   Link: <a href="https://kevinrandle.blogspot.com/2016/06/mantel-ruppelt-and-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2016/06/mantel-ruppelt-and-blue-book.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Different Perspective: Mantell, Ruppelt and Blue Book3 Jun 2016 — 3) Mantell was a very experienced pilot and had been a high-altitude...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ww2aircraft.net  
    Title: P-51 vs  
-   Link: [https://ww2aircraft.net/forum/threads/p-51-vs-ufo.27662/](https://ww2aircraft.net/forum/threads/p-51-vs-ufo.27662/)  
+   Link: <a href="https://ww2aircraft.net/forum/threads/p-51-vs-ufo.27662/" target="_blank" rel="noopener noreferrer nofollow">https://ww2aircraft.net/forum/threads/p-51-vs-ufo.27662/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO | Aircraft of World War II - WW2Aircraft.net Forums6 Jan 2011 — If a Skyhook balloon was involved in the crash of Mantell&#x27;s aircraft...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Accidents and incidents involving the North American P-51 Mustang  
-   Link: [https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_North_American_P-51_Mustang](https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_North_American_P-51_Mustang)  
+   Link: <a href="https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_North_American_P-51_Mustang" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Accidents_and_incidents_involving_the_North_American_P-51_Mustang</a>  
 
 8. <a id="endnote-8"></a>
    Source: medium.com  
    Title: ufo conflict in the skies 1208f8f3d53f  
-   Link: [https://medium.com/%40Cristina_Gomez/ufo-conflict-in-the-skies-1208f8f3d53f](https://medium.com/%40Cristina_Gomez/ufo-conflict-in-the-skies-1208f8f3d53f)  
+   Link: <a href="https://medium.com/%40Cristina_Gomez/ufo-conflict-in-the-skies-1208f8f3d53f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Cristina_Gomez/ufo-conflict-in-the-skies-1208f8f3d53f</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Conflict in the SkiesThis re-examination, led by Captain Edward Ruppelt of Project Blue Book in the 1950s, shed light on the misident...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Edward J. Ruppelt  
-   Link: [https://en.wikipedia.org/wiki/Edward_J._Ruppelt](https://en.wikipedia.org/wiki/Edward_J._Ruppelt)  
+   Link: <a href="https://en.wikipedia.org/wiki/Edward_J._Ruppelt" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Edward_J._Ruppelt</a>  
 
 11. <a id="endnote-11"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40Titan828/pursuit-to-oblivion-the-death-of-captain-thomas-mantell-the-early-history-of-the-united-states-bc3996cfe410](https://medium.com/%40Titan828/pursuit-to-oblivion-the-death-of-captain-thomas-mantell-the-early-history-of-the-united-states-bc3996cfe410)  
+   Link: <a href="https://medium.com/%40Titan828/pursuit-to-oblivion-the-death-of-captain-thomas-mantell-the-early-history-of-the-united-states-bc3996cfe410" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Titan828/pursuit-to-oblivion-the-death-of-captain-thomas-mantell-the-early-history-of-the-united-states-bc3996cfe410</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>S Air Force created to investigate what were claimed to be Flying Saucers.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: The Report on Unidentified Flying Objects  
-   Link: [https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects](https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ruppelt, detailing his experience running Project...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: completely-kentucky.fandom.com  
    Title: Completely Kentucky Mantell UFO Incident  
-   Link: [https://completely-kentucky.fandom.com/wiki/Mantell_UFO_Incident](https://completely-kentucky.fandom.com/wiki/Mantell_UFO_Incident)  
+   Link: <a href="https://completely-kentucky.fandom.com/wiki/Mantell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://completely-kentucky.fandom.com/wiki/Mantell_UFO_Incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Completely KentuckyMantell UFO Incident - Completely Kentucky Wiki - FandomAccording to the Air Force, once Mantell passed 25,000 feet he...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: thisdayinaviation.com  
    Title: 7 january 1948  
-   Link: [https://www.thisdayinaviation.com/7-january-1948/](https://www.thisdayinaviation.com/7-january-1948/)  
+   Link: <a href="https://www.thisdayinaviation.com/7-january-1948/" target="_blank" rel="noopener noreferrer nofollow">https://www.thisdayinaviation.com/7-january-1948/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Jan 2026 — Captain Mantell led C Flight, four North American Aviation F-51D ² Mustang fighters, in pursuit. Two pilots broke off becaus...</p></details>
    Published: january 1948  
 
 15. <a id="endnote-15"></a>
    Source: thedebrief.org  
    Title: what was pilot thomas mantell chasing when his plane crashed in 1948  
-   Link: [https://thedebrief.org/what-was-pilot-thomas-mantell-chasing-when-his-plane-crashed-in-1948/](https://thedebrief.org/what-was-pilot-thomas-mantell-chasing-when-his-plane-crashed-in-1948/)  
+   Link: <a href="https://thedebrief.org/what-was-pilot-thomas-mantell-chasing-when-his-plane-crashed-in-1948/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/what-was-pilot-thomas-mantell-chasing-when-his-plane-crashed-in-1948/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Was Pilot Thomas Mantell Chasing When His Plane...15 Feb 2022 — Thomas Mantell did not survive his encounter with whatever anomalou...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: x.com  
-   Link: [https://x.com/OnDisasters/status/2008886841710105058](https://x.com/OnDisasters/status/2008886841710105058)  
+   Link: <a href="https://x.com/OnDisasters/status/2008886841710105058" target="_blank" rel="noopener noreferrer nofollow">https://x.com/OnDisasters/status/2008886841710105058</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OTD in 1948: Mantell UFO incident7 Jan 2026 — UFO was likely top-secret high altitude research Skyhook Balloon. P-51 had no extra O2 aboa...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe Report on Unidentified Flying ObjectsThe following chapters present the true and complete UFO story, based on what I...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: otd in 1948 capt thomas mantell of the kentucky air national guard died after he  
-   Link: [https://www.facebook.com/NavalInstitute/posts/otd-in-1948-capt-thomas-mantell-of-the-kentucky-air-national-guard-died-after-he/10158880674387173/](https://www.facebook.com/NavalInstitute/posts/otd-in-1948-capt-thomas-mantell-of-the-kentucky-air-national-guard-died-after-he/10158880674387173/)  
+   Link: <a href="https://www.facebook.com/NavalInstitute/posts/otd-in-1948-capt-thomas-mantell-of-the-kentucky-air-national-guard-died-after-he/10158880674387173/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NavalInstitute/posts/otd-in-1948-capt-thomas-mantell-of-the-kentucky-air-national-guard-died-after-he/10158880674387173/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thomas Mantell of the Kentucky Air...Later investigation by the United States Air Force&#x27;s Project Blue Book indicated that Mantell died...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: wearethemighty.com  
-   Link: [https://www.wearethemighty.com/mighty-history/p-51-mustang-chased-a-ufo-over-kentucky/](https://www.wearethemighty.com/mighty-history/p-51-mustang-chased-a-ufo-over-kentucky/)  
+   Link: <a href="https://www.wearethemighty.com/mighty-history/p-51-mustang-chased-a-ufo-over-kentucky/" target="_blank" rel="noopener noreferrer nofollow">https://www.wearethemighty.com/mighty-history/p-51-mustang-chased-a-ufo-over-kentucky/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We Are The MightyThis is what happened when a P-51 Mustang chased...26 Mar 2021 — One F-51 had to break off the pursuit, due to low oxyg...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/](https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>unidentified aerial objects and the implications of military...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: LOST CONTACT: UFOS AFTER WARTIME | Official Trailer | Documentary | VOD  
-   Link: [https://www.youtube.com/watch?v=G70u2twpeME](https://www.youtube.com/watch?v=G70u2twpeME)  
+   Link: <a href="https://www.youtube.com/watch?v=G70u2twpeME" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G70u2twpeME</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1970s U.S. AIR FORCE HYPOXIA TRAINING FILM w/ BRIG. GEN. CHUCK YEAGER, COL. GILES HALL GG45305...</p></details>
    Published: October 7, 2025  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
    Title: Storytelling with a diorama again  
-   Link: [https://www.facebook.com/groups/812442282225658/posts/3306262639510264/](https://www.facebook.com/groups/812442282225658/posts/3306262639510264/)  
+   Link: <a href="https://www.facebook.com/groups/812442282225658/posts/3306262639510264/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/812442282225658/posts/3306262639510264/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This time, it&#x27;s the famous...... Mantell whose USAF P-51 Mustang aircraft crashed on the 7th. January 1948, shortly after having observe...</p></details>
    Published: January 1948  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=JvsijgHVuSo](https://www.youtube.com/watch?v=JvsijgHVuSo)  
+   Link: <a href="https://www.youtube.com/watch?v=JvsijgHVuSo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JvsijgHVuSo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why you should put YOUR MASK on first. I don&#x27;t remember making parts of it...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Why you should put YOUR MASK on first. I don't remember making parts of it  
-   Link: [https://www.youtube.com/watch?v=_IqWal_EmBg](https://www.youtube.com/watch?v=_IqWal_EmBg)  
+   Link: <a href="https://www.youtube.com/watch?v=_IqWal_EmBg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_IqWal_EmBg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Airmen Fight Against Hypoxia in Simulation Chamber...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Airmen Fight Against Hypoxia in Simulation Chamber  
-   Link: [https://www.youtube.com/watch?v=IKCMRJHYls8](https://www.youtube.com/watch?v=IKCMRJHYls8)  
+   Link: <a href="https://www.youtube.com/watch?v=IKCMRJHYls8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IKCMRJHYls8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot Declares Emergency Because Of Extreme Hypoxia...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: aviation-safety.net  
-   Link: [https://aviation-safety.net/wikibase/174114](https://aviation-safety.net/wikibase/174114)  
+   Link: <a href="https://aviation-safety.net/wikibase/174114" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/174114</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Time: 15:18. Type: Silhouette image of generic P51 model; specific model in this crash may look slightly differentRead more...</p></details>

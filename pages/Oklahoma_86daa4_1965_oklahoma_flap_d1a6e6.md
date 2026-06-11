@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-oklahoma-became-a-ufo-state/
 nav_short_title: 1965 Flap
 title: What Really Happened in the 1965 Flap?
-title_full: What Really Happened in the 1965 Flap? | Oklahoma UFOs
+title_full: What Really Happened in the 1965 Flap?
 display_title_short: 1965 Flap
 display_title: 1965 Flap
 heading_title: What Really Happened in the 1965 Flap?
@@ -268,8 +268,7 @@ image: /assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-overview-social.
 
 ## Introduction
 
-The 1965 [Oklahoma]({{ 'why-oklahoma-became-a-ufo-state/' | relative_url }}) UFO flap was not a single sighting but a short, intense wave of reports that moved from southern Oklahoma towards the Oklahoma City, Edmond and Tulsa areas in late July and early August. Its importance lies in the evidence trail: police officers and Highway Patrol communications were involved, newspapers carried detailed accounts, Tinker Air Force Base was reported to have radar returns, a Tulsa photograph entered the Project Blue Book orbit, and the Air Force’s quick astronomical explanation was sharply disputed by local planetarium expertise. None of that proves that extraordinary craft crossed Oklahoma. It does show why this remains one of the state’s strongest UFO-history episodes: the case sits exactly where mass witness testimony, official caution, radar rumour, media pressure and plausible misidentification all collide.
-
+The 1965 Oklahoma UFO flap was not a single sighting but a short, intense wave of reports that moved from southern Oklahoma towards the Oklahoma City, Edmond and Tulsa areas in late July and early August. Its importance lies in the evidence trail: police officers and Highway Patrol communications were involved, newspapers carried detailed accounts, Tinker Air Force Base was reported to have radar returns, a Tulsa photograph entered the Project Blue Book orbit, and the Air Force’s quick astronomical explanation was sharply disputed by local planetarium expertise. None of that proves that extraordinary craft crossed Oklahoma. It does show why this remains one of the state’s strongest UFO-history episodes: the case sits exactly where mass witness testimony, official caution, radar rumour, media pressure and plausible misidentification all collide.
 
 <img src="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-overview.webp" | relative_url }}" alt="Overview image for 1965 Flap" loading="eager" decoding="sync" fetchpriority="high">
 ## How the sightings spread across Oklahoma
@@ -282,8 +281,7 @@ The wave then widened beyond local curiosity. The Associated Press item reproduc
 
 The movement of the story is important. It did not behave like a tidy single-object case with one fixed description. It behaved like a flap: clustered reports, often at night, with different witnesses using different language for what they saw. Some descriptions sound like bright astronomical objects seen through unstable air; others sound like aircraft, meteors or fireballs; a smaller number were treated by witnesses as stranger because they seemed to hover, change direction or match police-radio reports coming in from elsewhere.
 
-
-<img src="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-1-light.svg" | relative_url }}" alt="1965 Flap illustration 1" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-1-dark.svg" | relative_url }}" alt="1965 Flap illustration 1" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Police, public and planetarium witnesses
 
 The Oklahoma flap gained weight because many reports did not come only from anonymous callers. Police dispatchers, patrol officers, Highway Patrol channels, amateur radio operators and local investigators all became part of the reporting chain. In Ardmore, Desk Sgt. Lem England of the Ardmore Police Department was credited with first reporting the strange objects to The Daily Ardmoreite, and the article said citizen-band and ham radio operators had watched the lights for two hours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oklahomahistory.net/ufo-scare-1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oklahomahistory.net">[oklahomahistory.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oklahomahistory.net</span><span class="citation-popover-title">ufo scare 1965</span><span class="citation-popover-snippet">ufo scare 1965</span></span></span>
@@ -295,7 +293,6 @@ Several Edmond-area witnesses gave more local shape to the case. Wes Pitchford a
 The public did not simply accept the official explanation. Robert Risser, director of the Oklahoma Science and Arts Foundation planetarium, objected strongly to the Air Force’s suggestion that the sightings were probably astronomical. According to the Edmond account, Risser told the Oklahoma Journal that the named planets and stars were on the wrong side of the Earth from Oklahoma City at that season, while allowing that meteors and some “mass hysteria” could explain part of the wave. His position was not that every report was extraordinary; it was that the Air Force’s broad explanation did not fit the reported Oklahoma sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[edmondlifeandleisure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span><span class="citation-popover-snippet">Edmond Underground: in &#x27;65 Edmond abuzz with UCO sightings</span></span></span>
 
 That distinction is central. A sceptical reading does not require treating every witness as foolish. A credible witness can see a real light and still misjudge distance, height, speed or size. But when a blanket explanation is visibly weak, it can make later readers suspect that officials were more concerned with closing the case than with sorting the stronger reports from the weaker ones.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZIPsPRaZP6M" title="The power of inclusive education | Ilene Schwartz | TEDxEastsidePrep" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZIPsPRaZP6M" target="_blank" rel="noopener noreferrer">The power of inclusive education | Ilene Schwartz | TEDxEastsidePrep</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 249.4K &middot; Uploaded: April 2015 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZIPsPRaZP6M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZIPsPRaZP6M">Open on YouTube</a></p></div></div></div>
 
@@ -311,8 +308,7 @@ That is why the later congressional record is so useful. A 1966 House Armed Serv
 
 This does not settle the case. Fuller was writing from a pro-investigation posture and relied in part on NICAP, the National Investigations Committee on Aerial Phenomena, which was critical of Air Force handling of UFO reports. But the hearing record preserves the dispute itself: the Oklahoma flap was not merely “people saw lights”; it became an argument over whether official radar evidence had matched law-enforcement observations or had been overstated in the press.
 
-
-<img src="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-2-light.svg" | relative_url }}" alt="1965 Flap illustration 2" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-2-dark.svg" | relative_url }}" alt="1965 Flap illustration 2" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Tulsa photograph and what it does — and does not — prove
 
 The Oklahoma flap also produced one of the better-known photographic claims from the summer of 1965. The Tulsa case is usually dated to about 1:45 a.m. on 2 August 1965, when 14-year-old Alan R. Smith reportedly photographed a multi-coloured object from his back garden while several witnesses watched it. Later summaries say the object changed from white to red to blue-green and that the image was treated as a Project Blue Book photographic case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1965-tulsa-oklahoma-ufo-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1965 tulsa oklahoma ufo photograph</span><span class="citation-popover-snippet">1965 tulsa oklahoma ufo photograph</span></span></span>
@@ -320,7 +316,6 @@ The Oklahoma flap also produced one of the better-known photographic claims from
 The photograph is tempting because it appears to offer exactly what most flap reports lack: a physical record. But it is also a warning about how fragile UFO evidence can be. Secondary summaries of the Project Blue Book photo analysis say the Air Force Photo Analysis Division considered the image to show a material object less than a mile from the camera and about 30 feet across, but also noted that it resembled the effect produced by photographing a multi-coloured revolving filter floodlight. Later UFO-oriented sources cite a 1977 Ground Saucer Watch computer analysis that treated it as an extraordinary craft, but that is a later civilian interpretation, not a settled official finding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1965-tulsa-oklahoma-ufo-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1965 tulsa oklahoma ufo photograph</span><span class="citation-popover-snippet">1965 tulsa oklahoma ufo photograph</span></span></span>
 
 For a balanced Oklahoma case page, the Tulsa photograph should be treated as intriguing but not decisive. It strengthens the evidence trail by showing that the flap produced more than verbal testimony. At the same time, it does not independently prove that the photographed object was one of the same objects reported by police or tracked by radar. Without the original negative, full chain of custody, camera details, exposure conditions, local lighting checks and a modern independent reanalysis, it remains a contested artefact rather than a clean answer.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7bns_WhNAQM" title="THE “JELLYFISH” UAP : VIDEO #1 : FULL FOOTAGE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7bns_WhNAQM" target="_blank" rel="noopener noreferrer">THE “JELLYFISH” UAP : VIDEO #1 : FULL FOOTAGE</a></p><p class="youtube-embed-meta">Channel: Jeremy Corbell &middot; Views: 439.8K &middot; Uploaded: January 2024 &middot; Length: 2 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7bns_WhNAQM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7bns_WhNAQM">Open on YouTube</a></p></div></div></div>
 
@@ -334,8 +329,7 @@ The Oklahoma dispute was not simply “believers versus sceptics”. The controv
 
 There is still a strong sceptical case for caution. A flap creates feedback. Once people know others are watching the sky, they are more likely to report ordinary lights. Multiple causes can be mixed together: meteors, aircraft, stars near the horizon, military activity, atmospheric distortion, re-entering debris, searchlights, hoaxes or exaggerated retellings. A cluster can therefore be socially real — lots of people really did see and report things — without being physically one coherent phenomenon.
 
-
-<img src="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-3-light.svg" | relative_url }}" alt="1965 Flap illustration 3" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-3-dark.svg" | relative_url }}" alt="1965 Flap illustration 3" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the evidence trail says today
 
 The 1965 Oklahoma flap is best understood as a high-quality historical UFO episode with uneven evidence, not as a solved extraterrestrial event. Its strengths are clear: the reports were numerous, geographically patterned, locally reported at the time, tied to police and Highway Patrol channels, and serious enough to draw Air Force attention. The radar claims and Tulsa photograph make it more substantial than a typical “lights in the sky” story.
@@ -344,9 +338,7 @@ Its weaknesses are just as important. The radar evidence is mostly available thr
 
 Within Oklahoma UFO history, the 1965 flap matters because it became the state’s clearest example of a public evidence chain: witnesses, police, media, local investigators, radar claims, federal explanation and later archival debate. It also connects naturally to other Oklahoma UFO themes: Tinker Air Force Base and radar culture, law-enforcement testimony, Hayden Hewes’s Oklahoma City research network, and the difficulty of separating sincere observation from incomplete evidence in a state with wide skies, busy airspace and a long memory for strange lights.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wg4Dz87aYug" title="Chief Tells Ancient Aliens Crew Not to Say &quot;Aliens&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wg4Dz87aYug" target="_blank" rel="noopener noreferrer">Chief Tells Ancient Aliens Crew Not to Say &quot;Aliens&quot;</a></p><p class="youtube-embed-meta">Channel: StarKnowledgeTV &middot; Views: 18.8K &middot; Uploaded: May 2013 &middot; Length: 2 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wg4Dz87aYug" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wg4Dz87aYug">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -770,112 +762,112 @@ Within Oklahoma UFO history, the 1965 flap matters because it became the state�
 1. <a id="endnote-1"></a>
    Source: edmondlifeandleisure.com  
    Title: Edmond Underground: in '65 Edmond abuzz with UCO sightings  
-   Link: [https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm](https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm)  
+   Link: <a href="https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm" target="_blank" rel="noopener noreferrer nofollow">https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm</a>  
 
 2. <a id="endnote-2"></a>
    Source: oklahomahistory.net  
    Title: ufo scare 1965  
-   Link: [https://oklahomahistory.net/ufo-scare-1965/](https://oklahomahistory.net/ufo-scare-1965/)  
+   Link: <a href="https://oklahomahistory.net/ufo-scare-1965/" target="_blank" rel="noopener noreferrer nofollow">https://oklahomahistory.net/ufo-scare-1965/</a>  
 
 3. <a id="endnote-3"></a>
    Source: ia600300.us.archive.org  
    Title: ufo 1966 1  
-   Link: [https://ia600300.us.archive.org/13/items/ufo_1966_1/ufo_1966_1.pdf](https://ia600300.us.archive.org/13/items/ufo_1966_1/ufo_1966_1.pdf)  
+   Link: <a href="https://ia600300.us.archive.org/13/items/ufo_1966_1/ufo_1966_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600300.us.archive.org/13/items/ufo_1966_1/ufo_1966_1.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 6. <a id="endnote-6"></a>
    Source: ia601405.us.archive.org  
-   Link: [https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf](https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf)  
+   Link: <a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/madronowe303119831984cali/madronowe303119831984cali_djvu.txt](https://archive.org/stream/madronowe303119831984cali/madronowe303119831984cali_djvu.txt)  
+   Link: <a href="https://archive.org/stream/madronowe303119831984cali/madronowe303119831984cali_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/madronowe303119831984cali/madronowe303119831984cali_djvu.txt</a>  
 
 8. <a id="endnote-8"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/bradsteigerstrangersfromtheskies/Brad%20Steiger%20-%20Strangers%20From%20The%20Skies.pdf](https://archive.org/download/bradsteigerstrangersfromtheskies/Brad%20Steiger%20-%20Strangers%20From%20The%20Skies.pdf)  
+   Link: <a href="https://archive.org/download/bradsteigerstrangersfromtheskies/Brad%20Steiger%20-%20Strangers%20From%20The%20Skies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/bradsteigerstrangersfromtheskies/Brad%20Steiger%20-%20Strangers%20From%20The%20Skies.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1965fullrep.htm](https://www.nicap.org/chronos/1965fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1965fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1965fullrep.htm</a>  
 
 10. <a id="endnote-10"></a>
    Source: thinkaboutitdocs.com  
    Title: 1965 tulsa oklahoma ufo photograph  
-   Link: [https://thinkaboutitdocs.com/1965-tulsa-oklahoma-ufo-photograph/](https://thinkaboutitdocs.com/1965-tulsa-oklahoma-ufo-photograph/)  
+   Link: <a href="https://thinkaboutitdocs.com/1965-tulsa-oklahoma-ufo-photograph/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/1965-tulsa-oklahoma-ufo-photograph/</a>  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 12. <a id="endnote-12"></a>
    Source: thinkaboutitdocs.com  
    Title: 1965 august ufo alien sightings  
-   Link: [https://www.thinkaboutitdocs.com/1965-august-ufo-alien-sightings/](https://www.thinkaboutitdocs.com/1965-august-ufo-alien-sightings/)  
+   Link: <a href="https://www.thinkaboutitdocs.com/1965-august-ufo-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1965-august-ufo-alien-sightings/</a>  
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=1964](https://nuforc.org/sighting/?id=1964)  
+   Link: <a href="https://nuforc.org/sighting/?id=1964" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=1964</a>  
 
 14. <a id="endnote-14"></a>
    Source: internationalufobureau.com  
-   Link: [https://www.internationalufobureau.com/pastinvestigations/1965flap](https://www.internationalufobureau.com/pastinvestigations/1965flap)  
+   Link: <a href="https://www.internationalufobureau.com/pastinvestigations/1965flap" target="_blank" rel="noopener noreferrer nofollow">https://www.internationalufobureau.com/pastinvestigations/1965flap</a>  
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Oklahoma Highway Patrol Communications Regarding Cold War Era UFO Flaps  
-   Link: [https://www.youtube.com/watch?v=O1kforufo71](https://www.youtube.com/watch?v=O1kforufo71)  
+   Link: <a href="https://www.youtube.com/watch?v=O1kforufo71" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O1kforufo71</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Evidence Trail of the Great Plains UFO Wave...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Tinker Air Force Base Historical Radar Records and Sky Anomalies  
-   Link: [https://www.youtube.com/watch?v=ZIPsPRaZP6M](https://www.youtube.com/watch?v=ZIPsPRaZP6M)  
+   Link: <a href="https://www.youtube.com/watch?v=ZIPsPRaZP6M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZIPsPRaZP6M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oklahoma Highway Patrol Communications Regarding Cold War Era UFO Flaps...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=7bns_WhNAQM](https://www.youtube.com/watch?v=7bns_WhNAQM)  
+   Link: <a href="https://www.youtube.com/watch?v=7bns_WhNAQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7bns_WhNAQM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tinker Air Force Base Historical Radar Records and Sky Anomalies...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
 19. <a id="endnote-19"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=wg4Dz87aYug](https://www.youtube.com/watch?v=wg4Dz87aYug)  
+   Link: <a href="https://www.youtube.com/watch?v=wg4Dz87aYug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wg4Dz87aYug</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Archives: Unexplained Midwest Sightings of 1965...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1993824053964427/posts/26267900606130100/](https://www.facebook.com/groups/1993824053964427/posts/26267900606130100/)  
+   Link: <a href="https://www.facebook.com/groups/1993824053964427/posts/26267900606130100/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1993824053964427/posts/26267900606130100/</a>  
 
 22. <a id="endnote-22"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/casefiles/desks-project-blue-book/](https://www.theblackvault.com/casefiles/desks-project-blue-book/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/desks-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/desks-project-blue-book/</a>  
 
 23. <a id="endnote-23"></a>
    Source: iapsop.com  
-   Link: [https://iapsop.com/archive/materials/fate_magazine/fate_v18_n11_nov_1965.pdf](https://iapsop.com/archive/materials/fate_magazine/fate_v18_n11_nov_1965.pdf)  
+   Link: <a href="https://iapsop.com/archive/materials/fate_magazine/fate_v18_n11_nov_1965.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iapsop.com/archive/materials/fate_magazine/fate_v18_n11_nov_1965.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: sohp.us  
-   Link: [https://sohp.us/history-of-the-usaf-ufo-programs/8-turning-point.php](https://sohp.us/history-of-the-usaf-ufo-programs/8-turning-point.php)  
+   Link: <a href="https://sohp.us/history-of-the-usaf-ufo-programs/8-turning-point.php" target="_blank" rel="noopener noreferrer nofollow">https://sohp.us/history-of-the-usaf-ufo-programs/8-turning-point.php</a>

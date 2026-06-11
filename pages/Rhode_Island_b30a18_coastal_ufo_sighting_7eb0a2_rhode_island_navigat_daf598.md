@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /coastal-lights-f14302/
 nav_short_title: Harbour Lights
 title: When harbour lights look like UFOs
-title_full: When harbour lights look like UFOs | Coastal Lights
+title_full: When harbour lights look like UFOs
 display_title_short: Harbour Lights
 display_title: Harbour Lights
 heading_title: When harbour lights look like UFOs
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:09:41'
-parent_title: Why Rhode Island's Coast Makes UFOs Harder | Rhode Island UFOs
+parent_title: Why Rhode Island's Coast Makes UFOs Harder
 parent_permalink: /coastal-lights-f14302/
 parent_nav_short_title: Coastal Lights
 parent_heading_title: Why Rhode Island's Coast Makes UFOs Harder
@@ -250,10 +250,9 @@ image: /assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_rhode_isla
 
 ## Introduction
 
-Many [Rhode Island]({{ 'what-rhode-islands-ufo-reports-really/' | relative_url }}) coastal UFO reports begin with a simple but powerful problem: people are looking out across dark water at lights whose true distance is difficult to judge. In Narragansett Bay and the offshore waters beyond it, navigation aids, vessel lighting, lighthouse beams and newer offshore structures can produce patterns that seem far stranger than they really are. A witness may honestly believe they are watching one large object hovering over the sea when they are actually seeing several unrelated lights lined up along different ranges and bearings.
+Many Rhode Island coastal UFO reports begin with a simple but powerful problem: people are looking out across dark water at lights whose true distance is difficult to judge. In Narragansett Bay and the offshore waters beyond it, navigation aids, vessel lighting, lighthouse beams and newer offshore structures can produce patterns that seem far stranger than they really are. A witness may honestly believe they are watching one large object hovering over the sea when they are actually seeing several unrelated lights lined up along different ranges and bearings.
 
-
-<img src="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_rhode_island_navigat_daf598-Illustration-1-light.svg" | relative_url }}" alt="Harbour Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_rhode_island_navigat_daf598-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_rhode_island_navigat_daf598-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_rhode_island_navigat_daf598-Illustration-1-dark.svg" | relative_url }}" alt="Harbour Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_rhode_island_navigat_daf598-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_rhode_island_navigat_daf598-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because some of the most puzzling Rhode Island sightings involve descriptions of stationary lights, triangular formations, glowing objects over the water or apparent craft that suddenly change size. In many cases, the crucial question is not whether the light existed, but whether the witness correctly estimated where it was. Along the state's coast, that is often the hardest part of the observation to establish.
 
 ## What lights fill Narragansett Bay and nearby waters
@@ -263,7 +262,6 @@ Rhode Island's shoreline is heavily marked for marine navigation. Narragansett B
 For a mariner, these lights provide useful information. For someone standing on a beach, headland or harbour road at night, they can create a surprisingly complex visual scene.
 
 Common sources include:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -298,7 +296,6 @@ The explanation is often less dramatic than the geometry suggests. Three unrelat
 
 This effect is especially convincing when the lights move slowly or when atmospheric haze obscures the darker space between them.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/f41WdrRO1N8" title="How Ships&#x27; Lights Work" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=f41WdrRO1N8" target="_blank" rel="noopener noreferrer">How Ships&#x27; Lights Work</a></p><p class="youtube-embed-meta">Channel: Oceanliner Designs &middot; Views: 120.5K &middot; Uploaded: April 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=f41WdrRO1N8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=f41WdrRO1N8">Open on YouTube</a></p></div></div></div>
 
 ### The hovering object
@@ -323,7 +320,6 @@ On a city street, a person can compare a light with buildings, trees, roads and 
 
 Several additional factors worsen the problem:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Darkness removes shoreline detail.
@@ -339,8 +335,7 @@ Under these conditions, witnesses can be highly confident while still being subs
 
 That confidence is important to understanding many Rhode Island reports. A sincere witness is not necessarily describing a false observation. They may be accurately describing what they perceived while unknowingly misjudging the geometry behind it.
 
-
-<img src="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_rhode_island_navigat_daf598-Illustration-2-light.svg" | relative_url }}" alt="Harbour Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_rhode_island_navigat_daf598-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_rhode_island_navigat_daf598-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_rhode_island_navigat_daf598-Illustration-2-dark.svg" | relative_url }}" alt="Harbour Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_rhode_island_navigat_daf598-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_rhode_island_navigat_daf598-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Offshore wind lights add a new source of confusion
 
 Older Rhode Island sighting reports mainly involved lighthouses, buoys and vessel traffic. More recent coastal observations have acquired another source of unusual lights: offshore wind developments.
@@ -354,10 +349,9 @@ Observers unfamiliar with the layout of a wind farm may see:
 * Lights that appear suspended above the horizon.
 * Apparent movement as atmospheric conditions change.
 
-The visual effect can be stronger at night than many people expect. Research on wind-farm lighting notes that such lights can remain visible over long distances and may dominate the nocturnal landscape under suitable atmospheric conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.05981" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivQuantifying the visual impact of wind farm lights on the nocturnal landscapeOctober 4, 2023...</span><span class="citation-popover-meta">Published: October 4, 2023</span></span></span>
+The visual effect can be stronger at night than many people expect. Research on wind-farm lighting notes that such lights can remain visible over long distances and may dominate the nocturnal landscape under suitable atmospheric conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2310.05981" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Quantifying the visual impact of wind farm lights on the nocturnal landscapeOctober 4, 2023...</span><span class="citation-popover-meta">Published: October 4, 2023</span></span></span>
 
-As offshore projects such as Revolution Wind become part of the regional seascape, future Rhode Island UFO reports may increasingly involve lights that did not exist in earlier decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://revolution-wind.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revolution-wind.com">[Revolution Wind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revolution-wind.com</span><span class="citation-popover-snippet">Revolution WindOffshore wind energy for Rhode Island and Connecticut | ØrstedRevolution Wind is the first commercial-scale offshore wind...</span></span></span>
-
+As offshore projects such as Revolution Wind become part of the regional seascape, future Rhode Island UFO reports may increasingly involve lights that did not exist in earlier decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://revolution-wind.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revolution-wind.com">[Revolution Wind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revolution-wind.com</span><span class="citation-popover-snippet">Revolution WindOffshore wind energy for Rhode Island and Connecticut &#124; ØrstedRevolution Wind is the first commercial-scale offshore wind...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DimCQc64CyY" title="How to use Navigation Lights on a Boat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DimCQc64CyY" target="_blank" rel="noopener noreferrer">How to use Navigation Lights on a Boat</a></p><p class="youtube-embed-meta">Channel: Len&#x27;s Cove Lessons in Boating &middot; Views: 80.2K &middot; Uploaded: August 2022 &middot; Length: 4 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DimCQc64CyY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DimCQc64CyY">Open on YouTube</a></p></div></div></div>
 
@@ -366,7 +360,6 @@ As offshore projects such as Revolution Wind become part of the regional seascap
 The strongest way to investigate a coastal light sighting is to reconstruct what the witness was actually looking towards.
 
 A useful analysis normally begins with three questions:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -380,7 +373,7 @@ Once those details are known, several tools become available.
 
 ### Nautical charts
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp2/CPB2_C06_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nauticalcharts.noaa.gov">[Modern nautical charts show:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nauticalcharts.noaa.gov</span><span class="citation-popover-title">Nautical Charts Narragansett Bay</span><span class="citation-popover-snippet">Nautical ChartsNarragansett BayMay 24, 2026 — Navigation of the bay is easy during day or night in clear weather as it is marked by navig...</span><span class="citation-popover-meta">Published: May 24, 2026</span></span></span>
+Modern nautical charts show: <span class="citation-chip-wrap"><a class="citation-chip" href="https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp2/CPB2_C06_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nauticalcharts.noaa.gov">[nauticalcharts.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nauticalcharts.noaa.gov</span><span class="citation-popover-title">Nautical Charts Narragansett Bay</span><span class="citation-popover-snippet">Nautical ChartsNarragansett BayMay 24, 2026 — Navigation of the bay is easy during day or night in clear weather as it is marked by navig...</span><span class="citation-popover-meta">Published: May 24, 2026</span></span></span>
 
 * Lighthouses.
 
@@ -393,10 +386,9 @@ Once those details are known, several tools become available.
 
 </div>
 
-A chart can reveal whether a supposedly mysterious light sits directly along a known navigation route or aligns with a recognised aid to navigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oceangrafix.com/chart/detail/13221-Narragansett-Bay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oceangrafix.com">[OceanGrafix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oceangrafix.com</span><span class="citation-popover-title">13221 Narragansett Bay</span><span class="citation-popover-snippet">OceanGrafixNOAA Nautical Chart 13221 Narragansett BayUp-to-date, print-on-demand NOAA nautical chart for U.S. waters for recreational and...</span></span></span>
+A chart can reveal whether a supposedly mysterious light sits directly along a known navigation route or aligns with a recognised aid to navigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oceangrafix.com/chart/detail/13221-Narragansett-Bay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oceangrafix.com">[OceanGrafix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oceangrafix.com</span><span class="citation-popover-title">13221 Narragansett Bay</span><span class="citation-popover-snippet">NOAA Nautical Chart 13221 Narragansett BayUp-to-date, print-on-demand NOAA nautical chart for U.S. waters for recreational and...</span></span></span>
 
-
-<img src="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_rhode_island_navigat_daf598-Illustration-3-light.svg" | relative_url }}" alt="Harbour Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_rhode_island_navigat_daf598-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_rhode_island_navigat_daf598-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_rhode_island_navigat_daf598-Illustration-3-dark.svg" | relative_url }}" alt="Harbour Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_rhode_island_navigat_daf598-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_rhode_island_navigat_daf598-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Vessel tracking
 
 Many commercial vessels broadcast Automatic Identification System (AIS) signals that record position, course and speed. AIS was developed so ships and coastal authorities could track marine traffic and avoid collisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.org/en/ourwork/safety/pages/ais.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.org">[International Maritime Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.org</span><span class="citation-popover-snippet">International Maritime OrganizationAIS transponders31 Dec 2004 — Automatic identification systems (AIS) transponders are designed to be c...</span></span></span>
@@ -419,9 +411,7 @@ That does not mean every coastal UFO report is solved. Some accounts contain det
 
 In a state where so many sightings occur along the shoreline, the difference between a mysterious craft and a navigational light can be measured not in what was seen, but in how far away it really was.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/07oilur-UmI" title="How to Safely Use Your Boat Navigation Lights | Discover Boating®" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=07oilur-UmI" target="_blank" rel="noopener noreferrer">How to Safely Use Your Boat Navigation Lights | Discover Boating®</a></p><p class="youtube-embed-meta">Channel: Discover Boating &middot; Views: 54.4K &middot; Uploaded: June 2024 &middot; Length: 2 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=07oilur-UmI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=07oilur-UmI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -845,96 +835,96 @@ In a state where so many sightings occur along the shoreline, the difference bet
 1. <a id="endnote-1"></a>
    Source: nauticalcharts.noaa.gov  
    Title: Nautical Charts Narragansett Bay  
-   Link: [https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp2/CPB2_C06_WEB.pdf](https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp2/CPB2_C06_WEB.pdf)  
+   Link: <a href="https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp2/CPB2_C06_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp2/CPB2_C06_WEB.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nautical ChartsNarragansett BayMay 24, 2026 — Navigation of the bay is easy during day or night in clear weather as it is marked by navig...</p></details>
    Published: May 24, 2026  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2310.05981](https://arxiv.org/abs/2310.05981)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivQuantifying the visual impact of wind farm lights on the nocturnal landscapeOctober 4, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2310.05981" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2310.05981</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Quantifying the visual impact of wind farm lights on the nocturnal landscapeOctober 4, 2023...</p></details>
    Published: October 4, 2023  
 
 3. <a id="endnote-3"></a>
    Source: revolution-wind.com  
-   Link: [https://revolution-wind.com/](https://revolution-wind.com/)  
+   Link: <a href="https://revolution-wind.com/" target="_blank" rel="noopener noreferrer nofollow">https://revolution-wind.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Revolution WindOffshore wind energy for Rhode Island and Connecticut | ØrstedRevolution Wind is the first commercial-scale offshore wind...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: oceangrafix.com  
    Title: 13221 Narragansett Bay  
-   Link: [https://www.oceangrafix.com/chart/detail/13221-Narragansett-Bay](https://www.oceangrafix.com/chart/detail/13221-Narragansett-Bay)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OceanGrafixNOAA Nautical Chart 13221 Narragansett BayUp-to-date, print-on-demand NOAA nautical chart for U.S. waters for recreational and...</p></details>
+   Link: <a href="https://www.oceangrafix.com/chart/detail/13221-Narragansett-Bay" target="_blank" rel="noopener noreferrer nofollow">https://www.oceangrafix.com/chart/detail/13221-Narragansett-Bay</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA Nautical Chart 13221 Narragansett BayUp-to-date, print-on-demand NOAA nautical chart for U.S. waters for recreational and...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: marinetraffic.com  
-   Link: [https://www.marinetraffic.com/](https://www.marinetraffic.com/)  
+   Link: <a href="https://www.marinetraffic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.marinetraffic.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover information and vessel positions for vessels around the world. Search the MarineTraffic ships database of more than...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ais.com  
-   Link: [https://www.ais.com/](https://www.ais.com/)  
+   Link: <a href="https://www.ais.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.ais.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AIS helps you unify systems, automate processes, and unlock insights with tailored business applications...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: boem.gov  
-   Link: [https://www.boem.gov/renewable-energy/state-activities/visualization-study-massachusetts-and-rhode-island-wind-energy-0](https://www.boem.gov/renewable-energy/state-activities/visualization-study-massachusetts-and-rhode-island-wind-energy-0)  
+   Link: <a href="https://www.boem.gov/renewable-energy/state-activities/visualization-study-massachusetts-and-rhode-island-wind-energy-0" target="_blank" rel="noopener noreferrer nofollow">https://www.boem.gov/renewable-energy/state-activities/visualization-study-massachusetts-and-rhode-island-wind-energy-0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bureau of Ocean Energy ManagementVisualization Study For The Massachusetts And Rhode...A project to develop daytime and nighttime photom...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: imo.org  
-   Link: [https://www.imo.org/en/ourwork/safety/pages/ais.aspx](https://www.imo.org/en/ourwork/safety/pages/ais.aspx)  
+   Link: <a href="https://www.imo.org/en/ourwork/safety/pages/ais.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.org/en/ourwork/safety/pages/ais.aspx</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Maritime OrganizationAIS transponders31 Dec 2004 — Automatic identification systems (AIS) transponders are designed to be c...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: lloydslistintelligence.com  
-   Link: [https://www.lloydslistintelligence.com/solutions/ais-seaorbis](https://www.lloydslistintelligence.com/solutions/ais-seaorbis)  
+   Link: <a href="https://www.lloydslistintelligence.com/solutions/ais-seaorbis" target="_blank" rel="noopener noreferrer nofollow">https://www.lloydslistintelligence.com/solutions/ais-seaorbis</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AIS SeaOrbisNext-generation AIS vessel tracking with 100% fleet coverage, 98% near real-time positions, and multi-source intelligence for...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: betterbayalliance.org  
-   Link: [https://betterbayalliance.org/education/aids-to-navigation/](https://betterbayalliance.org/education/aids-to-navigation/)  
+   Link: <a href="https://betterbayalliance.org/education/aids-to-navigation/" target="_blank" rel="noopener noreferrer nofollow">https://betterbayalliance.org/education/aids-to-navigation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aids to NavigationTwo Types of Aids to Navigation: Buoys and Beacons; Both have various shapes, sounds and light characteristics. Buoys f...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Automatic_identification_system](https://en.wikipedia.org/wiki/Automatic_identification_system)  
+   Link: <a href="https://en.wikipedia.org/wiki/Automatic_identification_system" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_identification_system</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Automatic identification systemThe automatic identification system (AIS) is an automatic tracking system that uses transponders on shi...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: aishub.net  
-   Link: [https://www.aishub.net/](https://www.aishub.net/)  
+   Link: <a href="https://www.aishub.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.aishub.net/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Free AIS vessel tracking | AIS data exchange | JSON/XML ship...AISHub is a FREE AIS data sharing service which provides access to real t...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sailingissues.com  
-   Link: [https://sailingissues.com/navcourse9.html](https://sailingissues.com/navcourse9.html)  
+   Link: <a href="https://sailingissues.com/navcourse9.html" target="_blank" rel="noopener noreferrer nofollow">https://sailingissues.com/navcourse9.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lights, buoys – aids to navigation RYA courses.Navigational aids, navaid s – also known as aids to navigation, AtoN s – are special struc...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: etsy.com  
-   Link: [https://www.etsy.com/uk/market/narragansett_bay_nautical_map?ref=lp_queries_internal_bottom-15](https://www.etsy.com/uk/market/narragansett_bay_nautical_map?ref=lp_queries_internal_bottom-15)  
+   Link: <a href="https://www.etsy.com/uk/market/narragansett_bay_nautical_map?ref=lp_queries_internal_bottom-15" target="_blank" rel="noopener noreferrer nofollow">https://www.etsy.com/uk/market/narragansett_bay_nautical_map?ref=lp_queries_internal_bottom-15</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Narragansett Bay Nautical MapCheck out our narragansett bay nautical map selection for the very best in unique or custom, handmade pieces...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: rinewstoday.com  
-   Link: [https://rinewstoday.com/nantucketers-werent-supposed-to-see-vineyard-winds-lights-at-night-nantucket-current/](https://rinewstoday.com/nantucketers-werent-supposed-to-see-vineyard-winds-lights-at-night-nantucket-current/)  
+   Link: <a href="https://rinewstoday.com/nantucketers-werent-supposed-to-see-vineyard-winds-lights-at-night-nantucket-current/" target="_blank" rel="noopener noreferrer nofollow">https://rinewstoday.com/nantucketers-werent-supposed-to-see-vineyard-winds-lights-at-night-nantucket-current/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nantucketers weren&#x27;t supposed to see Vineyard Wind&#x27;s...30 Dec 2023 — The company stated it agreed to install an ADLS “to reduce nighttim...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: latimes.com  
-   Link: [https://www.latimes.com/environment/story/2026-04-27/offshore-wind-farms-rise-along-rhode-islands-coast-even-as-trump-tries-to-stop-them](https://www.latimes.com/environment/story/2026-04-27/offshore-wind-farms-rise-along-rhode-islands-coast-even-as-trump-tries-to-stop-them)  
+   Link: <a href="https://www.latimes.com/environment/story/2026-04-27/offshore-wind-farms-rise-along-rhode-islands-coast-even-as-trump-tries-to-stop-them" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/environment/story/2026-04-27/offshore-wind-farms-rise-along-rhode-islands-coast-even-as-trump-tries-to-stop-them</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Offshore wind farms rise along Rhode Island&#x27;s coast, even...27 Apr 2026 — Offshore wind turbines roughly three times the height of the S...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: govinfo.gov  
    Title: GOVPUB I c5d22beb9d285e9cd207cb75e096b1da  
-   Link: [https://www.govinfo.gov/content/pkg/GOVPUB-I-c5d22beb9d285e9cd207cb75e096b1da/pdf/GOVPUB-I-c5d22beb9d285e9cd207cb75e096b1da.pdf](https://www.govinfo.gov/content/pkg/GOVPUB-I-c5d22beb9d285e9cd207cb75e096b1da/pdf/GOVPUB-I-c5d22beb9d285e9cd207cb75e096b1da.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/GOVPUB-I-c5d22beb9d285e9cd207cb75e096b1da/pdf/GOVPUB-I-c5d22beb9d285e9cd207cb75e096b1da.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-I-c5d22beb9d285e9cd207cb75e096b1da/pdf/GOVPUB-I-c5d22beb9d285e9cd207cb75e096b1da.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of Lighting Schemes for Offshore Wind Facilities...Much of the literature appears to be based on direct lighting of the water...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1555527638021902/posts/4021233094784665/](https://www.facebook.com/groups/1555527638021902/posts/4021233094784665/)  
+   Link: <a href="https://www.facebook.com/groups/1555527638021902/posts/4021233094784665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1555527638021902/posts/4021233094784665/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The closest of the turbines in this reel is 21 miles offshore. The near shore oceans...</p></details>

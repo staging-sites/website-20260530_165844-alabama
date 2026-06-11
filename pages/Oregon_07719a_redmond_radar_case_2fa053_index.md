@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /oregon-07719a-redmond-radar-case/
 description: Focused pages that expand on Redmond.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Oregon_07719a_redmond_radar_case_2fa053
-parent_title: Redmond | Why Oregon Matters In UFO History
+parent_title: Redmond
 parent_nav_short_title: Redmond
 parent_permalink: /redmond/
 ---

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /maine-8dc024-allagash-abductions/
 description: Focused pages that expand on Allagash Case.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Maine_8dc024_allagash_abductions_6349c1
-parent_title: Allagash Case | What Makes Maine a Hotspot for UFO...
+parent_title: Allagash Case
 parent_nav_short_title: Allagash Case
 parent_permalink: /allagash-case/
 ---

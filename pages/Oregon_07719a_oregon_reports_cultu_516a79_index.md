@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /oregon-07719a-oregon-reports-cultu/
 description: Focused pages that expand on Reports.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Oregon_07719a_oregon_reports_cultu_516a79
-parent_title: Reports | Why Oregon Matters In UFO History
+parent_title: Reports
 parent_nav_short_title: Reports
 parent_permalink: /reports/
 ---

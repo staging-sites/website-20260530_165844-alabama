@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /military-cases/
 nav_short_title: Blue Book
 title: How Project Blue Book Handled Reports Near Robins AFB
-title_full: How Project Blue Book Handled Reports Near Robins AFB | Military Cases
+title_full: How Project Blue Book Handled Reports Near Robins AFB
 display_title_short: Blue Book
 display_title: Blue Book
 heading_title: How Project Blue Book Handled Reports Near Robins AFB
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:14:43'
-parent_title: How Georgia Air Bases Entered UFO History | Georgia UFOs
+parent_title: How Georgia Air Bases Entered UFO History
 parent_permalink: /military-cases/
 parent_nav_short_title: Military Cases
 parent_heading_title: How Georgia Air Bases Entered UFO History
@@ -250,10 +250,9 @@ image: /assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_robins_afb_blue
 
 ## Introduction
 
-During the Cold War, the United States Air Force maintained an official programme to record and analyse reports of unidentified aerial phenomena, best known as **Project Blue Book**. Though headquartered far from [Georgia]({{ 'what-really-happened-in-georgias-most/' | relative_url }}) at Wright‑Patterson Air Force Base in Ohio, Blue Book’s archived case files include thousands of civilian and military reports from across the United States, preserved today in the **U.S. National Archives** and other declassified collections. Within this expansive dataset, a small number of entries are linked to **Robins Air Force Base** or the surrounding Middle Georgia region, showing how routine sightings in and around the base entered the official UFO record and were handled by the Air Force’s investigative apparatus.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">Air Force Fact Sheet on UFOs and Project BLUE BOOK; Reference Report... Pro-UFO researchers claim that an extraterrestrial spacecraft an...</span></span></span>
+During the Cold War, the United States Air Force maintained an official programme to record and analyse reports of unidentified aerial phenomena, best known as **Project Blue Book**. Though headquartered far from Georgia at Wright‑Patterson Air Force Base in Ohio, Blue Book’s archived case files include thousands of civilian and military reports from across the United States, preserved today in the **U.S. National Archives** and other declassified collections. Within this expansive dataset, a small number of entries are linked to **Robins Air Force Base** or the surrounding Middle Georgia region, showing how routine sightings in and around the base entered the official UFO record and were handled by the Air Force’s investigative apparatus.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">Air Force Fact Sheet on UFOs and Project BLUE BOOK; Reference Report... Pro-UFO researchers claim that an extraterrestrial spacecraft an...</span></span></span>
 
-
-<img src="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_robins_afb_blue_book_5821ef-Illustration-1-light.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_robins_afb_blue_book_5821ef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_robins_afb_blue_book_5821ef-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_robins_afb_blue_book_5821ef-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_robins_afb_blue_book_5821ef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_robins_afb_blue_book_5821ef-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Project Blue Book Collected and Filed Military Reports
 
 Project Blue Book operated from March 1952 until its termination on 17 December 1969, tasked with determining whether reported “unidentified flying objects” posed a threat to U.S. national security and whether they represented unknown technologies. Over its lifespan it logged **12 618 reports**, of which **701 remained officially “unidentified”** after analysis, though most were ultimately linked to misidentifications of natural or human‑made phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
@@ -261,7 +260,6 @@ Project Blue Book operated from March 1952 until its termination on 17 Decem
 Blue Book did not itself operate at individual air bases like Robins AFB; instead, each installation had an officer responsible for collecting UFO reports and forwarding them to the project’s central office. These local officers were meant to document sightings by airmen, radar operators and other trained observers using structured questionnaires and submit them on to the investigators at Wright‑Patterson.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 In practice, most sightings from military installations followed the same pattern as civilian submissions: an initial report by an observer, an entry on a **Blue Book record card (often called Project 10073)** summarising location, date, description and conclusion, and eventual classification by the project’s analysts. Today these record cards and full case files are accessible through National Archives microfilm (publication T‑1206), with indexes arranged by date and location, allowing researchers to trace individual sightings back to their geographic origin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fold3.com/pdf/T1206.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-snippet">project files and an index to individual sightings, entered by date and... FTD UFO Panel (1959-1960):25 pp. Review of Motion Picture “Un...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-IHM6LlM2nk" title="10 Creepiest Discoveries Uncovered After Documents Were Declassified" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-IHM6LlM2nk" target="_blank" rel="noopener noreferrer">10 Creepiest Discoveries Uncovered After Documents Were Declassified</a></p><p class="youtube-embed-meta">Channel: WatchMojo.com &middot; Views: 66.0K &middot; Uploaded: March 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-IHM6LlM2nk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-IHM6LlM2nk">Open on YouTube</a></p></div></div></div>
 
@@ -276,8 +274,7 @@ Two reasons account for this pattern:
 
 Despite these limitations, the existence of an indexed case list and full textual records means that any sighting by personnel stationed at Robins AFB **would have been logged in the Project Blue Book corpus** and categorised according to date and nearest town. The fact that large bases like Robins AFB had official reporting channels ensures that military reports from Georgia were incorporated into the broader Blue Book statistical record, even if they do not independently appear as standout “unidentified” cases in published summaries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
-
-<img src="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_robins_afb_blue_book_5821ef-Illustration-2-light.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_robins_afb_blue_book_5821ef-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_robins_afb_blue_book_5821ef-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_robins_afb_blue_book_5821ef-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_robins_afb_blue_book_5821ef-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_robins_afb_blue_book_5821ef-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Declassified Archives Reveal and Omit
 
 The publicly accessible Project Blue Book records — now housed at the **National Archives and Records Administration** — contain both case files and administrative documentation that can illuminate how reports were processed. These microfilm holdings consist of case files arranged chronologically, organisational correspondence, Office of Special Investigations reports, and finding aids that indicate location and date.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">Air Force Fact Sheet on UFOs and Project BLUE BOOK; Reference Report... Pro-UFO researchers claim that an extraterrestrial spacecraft an...</span></span></span>
@@ -290,9 +287,7 @@ For an interested researcher, several insights emerge:
 
 For state‑level UFO history in Georgia, the importance of Blue Book records linked to Robins AFB lies less in sensational unidentified craft and more in showing how local military observations were subsumed into official Air Force reporting procedures.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7YNAWs9w_88" title="Asheville Included in Project Blue Book UFO Si" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7YNAWs9w_88" target="_blank" rel="noopener noreferrer">Asheville Included in Project Blue Book UFO Si</a></p><p class="youtube-embed-meta">Channel: WLOS News 13 &middot; Views: 3.6K &middot; Uploaded: February 2015 &middot; Length: 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7YNAWs9w_88" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7YNAWs9w_88">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NXgx9QDKSD4" title="The UFO Case That Shook 1955 (Season 1) | MonsterQuest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NXgx9QDKSD4" target="_blank" rel="noopener noreferrer">The UFO Case That Shook 1955 (Season 1) | MonsterQuest</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 14.0K &middot; Uploaded: March 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NXgx9QDKSD4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NXgx9QDKSD4">Open on YouTube</a></p></div></div></div>
 
@@ -306,8 +301,7 @@ Given the prominence of **Robins Air Force Base** in Georgia’s [aviation]({{ '
 
 In sum, while detailed Project Blue Book files tied to Robins AFB and Warner Robins, Georgia, may be present in declassified collections, there is no prominent publicly cited “unknown” case from the base that stands apart in UFO history. What these records do show — when researchers access them through the National Archives or digital repositories — is how routine military reporting from an active base was incorporated into the USAF’s systematic, often sceptical, Cold War investigation of aerial anomalies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">Air Force Fact Sheet on UFOs and Project BLUE BOOK; Reference Report... Pro-UFO researchers claim that an extraterrestrial spacecraft an...</span></span></span>
 
-
-<img src="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_robins_afb_blue_book_5821ef-Illustration-3-light.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_robins_afb_blue_book_5821ef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_robins_afb_blue_book_5821ef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_robins_afb_blue_book_5821ef-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_robins_afb_blue_book_5821ef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_robins_afb_blue_book_5821ef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -395,73 +389,379 @@ In sum, while detailed Project Blue Book files tied to Robins AFB and Warner Rob
   </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed."><img src="https://i.ebayimg.com/images/g/GWYAAeSwgidpwAEt/s-l225.jpg" alt="Listing image for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed.</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/HvAAAOSw08Vk5SIm/s-l225.jpg" alt="Listing image for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55"><img src="https://i.ebayimg.com/images/g/2G0AAOSwjIpgTIcl/s-l225.jpg" alt="Listing image for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/MykAAOSwkRVk5Rd3/s-l225.jpg" alt="Listing image for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="how-project-blue-book-handled-reports-near-robins-afb-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Fact Sheet on UFOs and Project BLUE BOOK; Reference Report... Pro-UFO researchers claim that an extraterrestrial spacecraft an...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 3. <a id="endnote-3"></a>
    Source: fold3.com  
-   Link: [https://www.fold3.com/pdf/T1206.pdf](https://www.fold3.com/pdf/T1206.pdf)  
+   Link: <a href="https://www.fold3.com/pdf/T1206.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/pdf/T1206.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>project files and an index to individual sightings, entered by date and... FTD UFO Panel (1959-1960):25 pp. Review of Motion Picture “Un...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: Do Records Show Proof of UFOs?  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| National ArchivesJuly 24, 2023 — DO RECORDS SHOW PROOF OF UFOS? En Español Image: UFO graphic banner By Kerri Lawrence | National Archi...</p></details>
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesJuly 24, 2023 — DO RECORDS SHOW PROOF OF UFOS? En Español Image: UFO graphic banner By Kerri Lawrence | National Archi...</p></details>
    Published: July 24, 2023  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: Please update your links and bookmarks. C  
-   Link: [https://www.archives.gov/foia/ufos.html](https://www.archives.gov/foia/ufos.html)  
+   Link: <a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project BLUE BOOK - Unidentified Flying Objects | National ArchivesAugust 15, 2016 — PROJECT BLUE BOOK - UNIDENTIFIED FLYING OBJECTS THIS...</p></details>
    Published: August 15, 2016  
 
 7. <a id="endnote-7"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: [https://www.history.com/topics/folklore/project-blue-book](https://www.history.com/topics/folklore/project-blue-book)  
+   Link: <a href="https://www.history.com/topics/folklore/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/topics/folklore/project-blue-book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien, Definition &amp; Files | HISTORYFebruary 22, 2010 — By: HISTORY.com Editors Mysteries &amp; Folklore PROJECT BLUE BOOK HISTORY.com Editors...</p></details>
    Published: February 22, 2010  
 
 8. <a id="endnote-8"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Much more disturbing are the...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: theblackvault.com  
    Title: project blue book  
-   Link: [https://www.theblackvault.com/documentarchive/project-blue-book/](https://www.theblackvault.com/documentarchive/project-blue-book/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Sign, Project Grudge, and Project Blue Book – Air Force UFO Research Programs (1947-1969) - The Black VaultMarch 3, 2021 — PROJEC...</p></details>
    Published: March 3, 2021  
 
 10. <a id="endnote-10"></a>
    Source: cufos.org  
    Title: Project Blue Book  
-   Link: [https://cufos.org/resources/project-blue-book/](https://cufos.org/resources/project-blue-book/)  
+   Link: <a href="https://cufos.org/resources/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>14, as edited by Leon Davidson, July 1966The United States Air Force managed three UFO projects, from 1948 to 1969. The first w...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Other investigations of UFOs · Possible explanations for UFO sightings and alien...</p></details>
    Published: May 2026  
 
@@ -469,49 +769,49 @@ In sum, while detailed Project Blue Book files tied to Robins AFB and Warner Rob
 
 12. <a id="endnote-12"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Bookby UF Sheet · Cited by 3 — Of a total of 12,618 sightings reported to Project...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: newsweek.com  
-   Link: [https://www.newsweek.com/project-blue-book-true-story-reality-tv-show-history-channel-ufo-sightings-1288942](https://www.newsweek.com/project-blue-book-true-story-reality-tv-show-history-channel-ufo-sightings-1288942)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NewsweekJanuary 11, 2019 — ‘PROJECT BLUE BOOK’ TRUE STORY: THE REALITY BEHIND HISTORY CHANNEL’S UFO CONSPIRACY TV SHOW * * * Published Ja...</p></details>
+   Link: <a href="https://www.newsweek.com/project-blue-book-true-story-reality-tv-show-history-channel-ufo-sightings-1288942" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/project-blue-book-true-story-reality-tv-show-history-channel-ufo-sightings-1288942</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 11, 2019 — ‘PROJECT BLUE BOOK’ TRUE STORY: THE REALITY BEHIND HISTORY CHANNEL’S UFO CONSPIRACY TV SHOW * * * Published Ja...</p></details>
    Published: January 11, 2019  
 
 14. <a id="endnote-14"></a>
    Source: theprojectbluebookarchive.org  
-   Link: [https://theprojectbluebookarchive.org/archive](https://theprojectbluebookarchive.org/archive)  
+   Link: <a href="https://theprojectbluebookarchive.org/archive" target="_blank" rel="noopener noreferrer nofollow">https://theprojectbluebookarchive.org/archive</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Project Blue Book ArchiveTHE PROJECT BLUE BOOK ARCHIVE Browse and download declassified UAP investigation files Home | Archive | Abou...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: theprojectbluebookarchive.org  
-   Link: [https://theprojectbluebookarchive.org/](https://theprojectbluebookarchive.org/)  
+   Link: <a href="https://theprojectbluebookarchive.org/" target="_blank" rel="noopener noreferrer nofollow">https://theprojectbluebookarchive.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force ABOUT THE ARCHIVE The Project Blue Book Archive is the most comprehensive public col...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: lupineprotocol.com  
-   Link: [https://lupineprotocol.com/blue-book-archives](https://lupineprotocol.com/blue-book-archives)  
+   Link: <a href="https://lupineprotocol.com/blue-book-archives" target="_blank" rel="noopener noreferrer nofollow">https://lupineprotocol.com/blue-book-archives</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzed. Re-examined. From 1952 to 1969, the United States Air Force conducted it...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: theblackvault.com  
    Title: project blue book unknown case files complete list  
-   Link: [https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/](https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Unknown Case Files, Complete List27 Apr 2015 — Solved Cases · Space Station · Sun Anomalies · UFOs in Space · UFOs · Re...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: archivesfoundation.org  
    Title: 50 Years Ago: Government Stops Investigating UFOs  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>records from the Air Force&#x27;s unidentified flying objects (UFOs) investigations.... For more than 20 years, the U.S. Air Force analyzed U...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
    Title: i built a searchable archive of 5000 project blue  
-   Link: [https://www.reddit.com/r/UFOs/comments/1qepsyf/i_built_a_searchable_archive_of_5000_project_blue/](https://www.reddit.com/r/UFOs/comments/1qepsyf/i_built_a_searchable_archive_of_5000_project_blue/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1qepsyf/i_built_a_searchable_archive_of_5000_project_blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1qepsyf/i_built_a_searchable_archive_of_5000_project_blue/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I built a searchable archive of ~5000 Project Blue Book...I started developing my horror UFO game based on Real Encounters from Project...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/bludet.htm](https://ufologie.patrickgross.org/htm/bludet.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/bludet.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bludet.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Project Blue Book archive contentPROJECT BLUE BOOK: RG 341.15 RECORDS OF PROJECT BLUE BOOK 1947-1969: BRIEF HISTORIC...</p></details>

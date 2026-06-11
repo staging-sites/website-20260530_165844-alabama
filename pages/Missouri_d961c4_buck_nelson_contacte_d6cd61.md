@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-missouris-ufo/
 nav_short_title: Buck Nelson
 title: Why Buck Nelson Became Missouri's Contactee Figure
-title_full: Why Buck Nelson Became Missouri's Contactee Figure | Missouri UFOs
+title_full: Why Buck Nelson Became Missouri's Contactee Figure
 display_title_short: Buck Nelson
 display_title: Buck Nelson
 heading_title: Why Buck Nelson Became Missouri's Contactee Figure
@@ -262,8 +262,7 @@ image: /assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-overview-socia
 
 ## Introduction
 
-Buck Nelson matters in [Missouri]({{ 'what-really-happened-in-missouris-ufo/' | relative_url }}) UFO history because his story shows a side of the subject that is very different from later sighting flaps such as Piedmont. Nelson was not mainly a witness to a puzzling light in the sky. He became a public “contactee”: a man who claimed that friendly space visitors came to his Mountain View farm, cured his ailments, took him to Mars, the Moon and Venus, and gave him messages for humanity. His case is weak as evidence for an extraordinary event, but strong as evidence of how 1950s Missouri UFO culture mixed Cold War anxiety, religion, rural spectacle, self-publishing, local tourism and performance. Between his 1956 booklet and his annual Spacecraft [Conventions]({{ 'conventions/' | relative_url }}), Nelson turned a private claim into an Ozarks public event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
-
+Buck Nelson matters in Missouri UFO history because his story shows a side of the subject that is very different from later sighting flaps such as Piedmont. Nelson was not mainly a witness to a puzzling light in the sky. He became a public “contactee”: a man who claimed that friendly space visitors came to his Mountain View farm, cured his ailments, took him to Mars, the Moon and Venus, and gave him messages for humanity. His case is weak as evidence for an extraordinary event, but strong as evidence of how 1950s Missouri UFO culture mixed Cold War anxiety, religion, rural spectacle, self-publishing, local tourism and performance. Between his 1956 booklet and his annual Spacecraft [Conventions]({{ 'conventions/' | relative_url }}), Nelson turned a private claim into an Ozarks public event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
 
 <img src="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-overview.webp" | relative_url }}" alt="Overview image for Buck Nelson" loading="eager" decoding="sync" fetchpriority="high">
 The useful question is not whether Buck Nelson proved that people from Venus visited Howell County. He did not. The better question is why his story found an audience at all. In that sense, Nelson belongs in Missouri’s UFO history not as a solved aviation case, but as a case study in contactee culture: the point where flying saucers became sermons, fairs, pamphlets, lectures, local jokes and, for some believers, a cosmic mission.
@@ -278,8 +277,7 @@ Those details are part of what makes the case culturally revealing. Nelson’s s
 
 For Missouri readers, the local setting is crucial. Nelson’s farm was not just a backdrop. The Ozarks identity of the tale gave it its power: a plain-spoken rural man, far from Washington or Los Angeles, claimed to have become a messenger for other worlds. Yet that “simple farmer” image should be handled carefully. Springfield-Greene County Library’s local-history account notes that Nelson had lived in Southern California for decades before moving to Missouri, and that his own writing described a varied working life before the Mountain View years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-1-light.svg" | relative_url }}" alt="Buck Nelson illustration 1" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-1-dark.svg" | relative_url }}" alt="Buck Nelson illustration 1" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the story spread beyond one man’s farm
 
 Nelson’s claims did not remain a private anecdote because they were packaged, repeated and performed. His 1956 booklet, *My Trip to Mars, the Moon, and Venus*, gave the story a portable form. It could be sold, mailed, quoted, challenged and remembered. The booklet also helped turn a Missouri farm sighting claim into a contactee narrative with characters, planets, moral messages and a journey structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
@@ -290,7 +288,6 @@ That network explains why the story belongs to contactee culture rather than ord
 
 The Center for UFO Studies’ HUMCAT index preserves the flavour of the claim in a case-summary form: three saucers returned, one circled low over Nelson’s house, spoke in English through a public-address system, and indicated future landings and a trip to Venus. That is not a chain of hard evidence. It is a record of how the story was classified and circulated within UFO reporting circles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/HUMCAT/HUMCAT_Index_1955.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BvxIy7kh-Tc" title="Buck Nelson&#x27;s out of this world trip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BvxIy7kh-Tc" target="_blank" rel="noopener noreferrer">Buck Nelson&#x27;s out of this world trip</a></p><p class="youtube-embed-meta">Channel: KY3 News - Springfield, Mo. &middot; Views: 369 &middot; Uploaded: February 2024 &middot; Length: 3 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BvxIy7kh-Tc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BvxIy7kh-Tc">Open on YouTube</a></p></div></div></div>
 
 ## Spacecraft conventions turned belief into public performance
@@ -300,7 +297,6 @@ Nelson’s annual Spacecraft Conventions are the clearest reason he became Misso
 The 1966 Southeast Missourian account, later republished with photographs by Cape Girardeau History and Photos, shows the event near the end of its life. Nelson’s 40-acre farm, seven miles north-west of Mountain View in Howell County, had hosted the convention annually since the year of his claimed contact, but by 1966 the crowds had dwindled. The same report describes books and postcards for sale, speakers discussing “space brothers”, benches, microphones, refreshments, signs reading “Spaceships Welcome”, and a setting that partly resembled a fairground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capecentralhigh.com">[Cape Girardeau History and Photos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capecentralhigh.com</span><span class="citation-popover-title">Cape Girardeau History and Photos Buck Nelson&#x27;s Spacecraft Convention</span><span class="citation-popover-snippet">Cape Girardeau History and Photos Buck Nelson&#x27;s Spacecraft Convention</span></span></span>
 
 That blend is the mechanism of the case. Nelson’s conventions worked because they did several things at once:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -315,8 +311,7 @@ The 1966 account is especially valuable because it does not read like a clean pr
 
 A surviving July 1966 issue of *Flying Saucers International*, now available in a government-hosted UFO document release, also places Nelson’s 10th Annual Spacecraft Convention within a wider national contactee calendar that included events in California and Nevada. It lists Nelson’s convention as taking place on 25, 26 and 27 June 1966 at Buck’s Mountain View Ranch, Route 1, Box 236, Mountain View, Missouri. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">65 hs1 834228961 62 hq 83894 serial 449</span><span class="citation-popover-snippet">65 hs1 834228961 62 hq 83894 serial 449</span></span></span>
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-2-light.svg" | relative_url }}" alt="Buck Nelson illustration 2" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-2-dark.svg" | relative_url }}" alt="Buck Nelson illustration 2" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What made Nelson’s message persuasive to some people
 
 Nelson’s appeal came from more than a claim about flying saucers. His story offered a complete moral drama. Earth was dangerous because of atomic and hydrogen bombs. The visitors were technically advanced but human-like. Their message was simple enough to repeat: stop misusing destructive power and live more peacefully. In the 1966 convention report, Hill said the main purpose of the “space brothers” was to tell scientists to stop experimenting with hydrogen and atomic bombs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capecentralhigh.com">[Cape Girardeau History and Photos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capecentralhigh.com</span><span class="citation-popover-title">Cape Girardeau History and Photos Buck Nelson&#x27;s Spacecraft Convention</span><span class="citation-popover-snippet">Cape Girardeau History and Photos Buck Nelson&#x27;s Spacecraft Convention</span></span></span>
@@ -326,7 +321,6 @@ That message fitted the contactee era. The early Cold War gave flying saucer sto
 But Nelson’s message was not simply benevolent. A balanced account has to include the uglier part of his worldview. The Springfield-Greene County Library article highlights segregationist material in Nelson’s claims and public activity, including his statement that Venus practised “absolute segregation of all races and nationalities” and evidence that he printed and sold material connected with racist propaganda. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
 
 That matters because it prevents a nostalgic reading of Nelson as only a harmless folk character. His “space people” did not merely reflect cosmic hope; they also carried earthly prejudices. The case shows how UFO contact stories can borrow the language of peace and spiritual uplift while still reproducing local, national and racial politics from the world that produced them.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-9OcspsCjzs" title="Buck Nelson’s Wild Ride Through Space" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-9OcspsCjzs" target="_blank" rel="noopener noreferrer">Buck Nelson’s Wild Ride Through Space</a></p><p class="youtube-embed-meta">Channel: AustinMcConnell &middot; Views: 184.5K &middot; Uploaded: March 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-9OcspsCjzs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-9OcspsCjzs">Open on YouTube</a></p></div></div></div>
 
@@ -340,8 +334,7 @@ This distinction helps place Nelson within Missouri’s wider UFO history. Piedm
 
 Official UFO history also gives useful contrast. Project Blue Book, the US Air Force UFO investigation programme, collected 12,618 reports from 1947 to 1969, with 701 remaining unidentified when the programme ended. That does not validate Nelson’s claims; rather, it shows the difference between an official sighting-report framework and the much looser contactee world of pamphlets, conventions and personal revelation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">briefing guide 12 07 12</span><span class="citation-popover-snippet">briefing guide 12 07 12</span></span></span>
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-3-light.svg" | relative_url }}" alt="Buck Nelson illustration 3" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-3-dark.svg" | relative_url }}" alt="Buck Nelson illustration 3" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How later reporting changed the shape of the legend
 
 Later accounts have generally weakened Nelson’s value as evidence while strengthening his value as folklore. Local-history research has clarified that his biography was more complicated than the homespun legend suggests. The “simple Ozarks farmer” image remains memorable, but records and Nelson’s own claims point to a more travelled life, including years in Southern California before Missouri. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-title">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span><span class="citation-popover-snippet">Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts</span></span></span>
@@ -351,7 +344,6 @@ The decline of the conventions also matters. The Library’s account notes that 
 This arc gives the story a human scale. Nelson’s career did not end with disclosure, proof or official vindication. It faded. The crowds thinned, the contactee movement lost some of its midcentury force, the Space Age made Venus and Mars harder to imagine as homely worlds of overalled people, and Missouri UFO attention later shifted towards more report-driven episodes such as the Piedmont flap.
 
 Yet the story did not disappear. It remains part of Ozarks memory because it is vivid, local and strange: the farmer, the ranch, the dog from space, the pamphlet, the “Spaceships Welcome” signs, the convention benches and the uneasy mix of belief and amusement. For a Missouri UFO history project, Buck Nelson is best understood as a cultural landmark rather than an evidential one.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UNuFALVFU0Y" title="Ozarks Alive: Buck Nelson in Space" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UNuFALVFU0Y" target="_blank" rel="noopener noreferrer">Ozarks Alive: Buck Nelson in Space</a></p><p class="youtube-embed-meta">Channel: Ozarks First &middot; Views: 469 &middot; Uploaded: January 2023 &middot; Length: 3 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UNuFALVFU0Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UNuFALVFU0Y">Open on YouTube</a></p></div></div></div>
 
@@ -785,165 +777,165 @@ Buck Nelson therefore sits at the contactee end of Missouri’s UFO spectrum. At
 1. <a id="endnote-1"></a>
    Source: cdamm.org  
    Title: Extraterrestrial/UFO Religion  
-   Link: [https://www.cdamm.org/articles/extraterrestrial](https://www.cdamm.org/articles/extraterrestrial)  
+   Link: <a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
 
 2. <a id="endnote-2"></a>
    Source: cufos.org  
    Title: Center for UFO Studies  
-   Link: [https://cufos.org/PDFs/HUMCAT/HUMCAT_Index_1955.pdf](https://cufos.org/PDFs/HUMCAT/HUMCAT_Index_1955.pdf)  
+   Link: <a href="https://cufos.org/PDFs/HUMCAT/HUMCAT_Index_1955.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/HUMCAT/HUMCAT_Index_1955.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 serial 449  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/entry-210.pdf](https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/entry-210.pdf)  
+   Link: <a href="https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/entry-210.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/entry-210.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/research/microfilm/m804.pdf](https://www.archives.gov/files/research/microfilm/m804.pdf)  
+   Link: <a href="https://www.archives.gov/files/research/microfilm/m804.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/microfilm/m804.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
    Title: directors microfilm roll list  
-   Link: [https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/directors-microfilm-roll-list.pdf](https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/directors-microfilm-roll-list.pdf)  
+   Link: <a href="https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/directors-microfilm-roll-list.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/directors-microfilm-roll-list.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: bidenwhitehouse.archives.gov  
    Title: ERP 2025  
-   Link: [https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/ERP-2025.pdf](https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/ERP-2025.pdf)  
+   Link: <a href="https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/ERP-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/ERP-2025.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/alic/periodicals/nara-citations/old-army.html](https://www.archives.gov/research/alic/periodicals/nara-citations/old-army.html)  
+   Link: <a href="https://www.archives.gov/research/alic/periodicals/nara-citations/old-army.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/old-army.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/research/military/navy/navy-filing-manual-1941.pdf](https://www.archives.gov/files/research/military/navy/navy-filing-manual-1941.pdf)  
+   Link: <a href="https://www.archives.gov/files/research/military/navy/navy-filing-manual-1941.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/military/navy/navy-filing-manual-1941.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
    Title: accessioned records dc fy13  
-   Link: [https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf](https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf)  
+   Link: <a href="https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/about/history/sources/reports/1938-annual-report.pdf](https://www.archives.gov/files/about/history/sources/reports/1938-annual-report.pdf)  
+   Link: <a href="https://www.archives.gov/files/about/history/sources/reports/1938-annual-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/about/history/sources/reports/1938-annual-report.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html](https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html)  
+   Link: <a href="https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html</a>  
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/publications/prologue/index/2003.html](https://www.archives.gov/publications/prologue/index/2003.html)  
+   Link: <a href="https://www.archives.gov/publications/prologue/index/2003.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/publications/prologue/index/2003.html</a>  
 
 15. <a id="endnote-15"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/textual-and-microfilm](https://www.archives.gov/research/topics/uaps/textual-and-microfilm)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
 
 16. <a id="endnote-16"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
 17. <a id="endnote-17"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: thelibrary.org  
    Title: Springfield-Greene County Library The Ozarks Spaceman: Buck Nelson in 10 Facts  
-   Link: [https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts](https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts)  
+   Link: <a href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts</a>  
 
 19. <a id="endnote-19"></a>
    Source: capecentralhigh.com  
    Title: Cape Girardeau History and Photos Buck Nelson's Spacecraft Convention  
-   Link: [https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/](https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/)  
+   Link: <a href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow">https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/</a>  
 
 20. <a id="endnote-20"></a>
    Source: ozarksalive.com  
-   Link: [https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc](https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc)  
+   Link: <a href="https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc" target="_blank" rel="noopener noreferrer nofollow">https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc</a>  
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Buck Nelson  
-   Link: [https://en.wikipedia.org/wiki/Buck_Nelson](https://en.wikipedia.org/wiki/Buck_Nelson)  
+   Link: <a href="https://en.wikipedia.org/wiki/Buck_Nelson" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Buck_Nelson</a>  
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 23. <a id="endnote-23"></a>
    Source: uk.forceswarrecords.com  
-   Link: [https://uk.forceswarrecords.com/document/9169355](https://uk.forceswarrecords.com/document/9169355)  
+   Link: <a href="https://uk.forceswarrecords.com/document/9169355" target="_blank" rel="noopener noreferrer nofollow">https://uk.forceswarrecords.com/document/9169355</a>  
 
 24. <a id="endnote-24"></a>
    Source: scribd.com  
    Title: Buck Nelson  
-   Link: [https://www.scribd.com/document/90648001/Buck-Nelson-My-Trip-to-Mars-the-Moon-and-Venus](https://www.scribd.com/document/90648001/Buck-Nelson-My-Trip-to-Mars-the-Moon-and-Venus)  
+   Link: <a href="https://www.scribd.com/document/90648001/Buck-Nelson-My-Trip-to-Mars-the-Moon-and-Venus" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/90648001/Buck-Nelson-My-Trip-to-Mars-the-Moon-and-Venus</a>  
 
 25. <a id="endnote-25"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf](https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: richgros.com  
    Title: buck nelson  
-   Link: [https://richgros.com/People/Buck_Nelson/buck_nelson.html](https://richgros.com/People/Buck_Nelson/buck_nelson.html)  
+   Link: <a href="https://richgros.com/People/Buck_Nelson/buck_nelson.html" target="_blank" rel="noopener noreferrer nofollow">https://richgros.com/People/Buck_Nelson/buck_nelson.html</a>  
 
 27. <a id="endnote-27"></a>
    Source: journal.equinoxpub.com  
-   Link: [https://journal.equinoxpub.com/FIR/article/view/24134](https://journal.equinoxpub.com/FIR/article/view/24134)  
+   Link: <a href="https://journal.equinoxpub.com/FIR/article/view/24134" target="_blank" rel="noopener noreferrer nofollow">https://journal.equinoxpub.com/FIR/article/view/24134</a>  
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-spectrum/communications_with_extraterrestrial.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-spectrum/communications_with_extraterrestrial.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-spectrum/communications_with_extraterrestrial.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-spectrum/communications_with_extraterrestrial.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology](https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology)  
+   Link: <a href="https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
 
 30. <a id="endnote-30"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume_1_2](https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume_1_2)  
+   Link: <a href="https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume_1_2" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume_1_2</a>  
 
 31. <a id="endnote-31"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ozarks/comments/1nejz4l/70_years_ago_a_retired_ozarks_farmer_became_a/](https://www.reddit.com/r/ozarks/comments/1nejz4l/70_years_ago_a_retired_ozarks_farmer_became_a/)  
+   Link: <a href="https://www.reddit.com/r/ozarks/comments/1nejz4l/70_years_ago_a_retired_ozarks_farmer_became_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ozarks/comments/1nejz4l/70_years_ago_a_retired_ozarks_farmer_became_a/</a>  
 
 32. <a id="endnote-32"></a>
    Source: pdcnet.org  
-   Link: [https://www.pdcnet.org/collection-anonymous/pdf2image?file_type=pdf&pdfname=asrr_2013_0004_0002_0284_0299.pdf](https://www.pdcnet.org/collection-anonymous/pdf2image?file_type=pdf&pdfname=asrr_2013_0004_0002_0284_0299.pdf)  
+   Link: <a href="https://www.pdcnet.org/collection-anonymous/pdf2image?file_type=pdf&amp;pdfname=asrr_2013_0004_0002_0284_0299.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pdcnet.org/collection-anonymous/pdf2image?file_type=pdf&amp;pdfname=asrr_2013_0004_0002_0284_0299.pdf</a>  
 
 33. <a id="endnote-33"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/220672510/Buck-Nelson-pdf](https://www.scribd.com/document/220672510/Buck-Nelson-pdf)  
+   Link: <a href="https://www.scribd.com/document/220672510/Buck-Nelson-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/220672510/Buck-Nelson-pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: encyclopedia.com  
-   Link: [https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees)  
+   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/contactees</a>  
 
 35. <a id="endnote-35"></a>
    Source: ixtheo.de  
-   Link: [https://ixtheo.de/Record/1738976696](https://ixtheo.de/Record/1738976696)  
+   Link: <a href="https://ixtheo.de/Record/1738976696" target="_blank" rel="noopener noreferrer nofollow">https://ixtheo.de/Record/1738976696</a>  
 
 36. <a id="endnote-36"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/extraterrestrials-and-the-american-zeitgeist-alien-contact-tales-since-the-1950s-0786471166-9780786471164.html](https://dokumen.pub/extraterrestrials-and-the-american-zeitgeist-alien-contact-tales-since-the-1950s-0786471166-9780786471164.html)  
+   Link: <a href="https://dokumen.pub/extraterrestrials-and-the-american-zeitgeist-alien-contact-tales-since-the-1950s-0786471166-9780786471164.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/extraterrestrials-and-the-american-zeitgeist-alien-contact-tales-since-the-1950s-0786471166-9780786471164.html</a>  
 
 37. <a id="endnote-37"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt](https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt)  
+   Link: <a href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt</a>

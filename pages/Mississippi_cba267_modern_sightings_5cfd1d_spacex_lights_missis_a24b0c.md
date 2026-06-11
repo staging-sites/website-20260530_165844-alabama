@@ -6,29 +6,29 @@ child_basenames: []
 sibling_basenames:
 - Mississippi_cba267_modern_sightings_5cfd1d_harrison_county_ball_648d88
 tags:
-- mississippi
+- mississippi-cba-267
 - modern-sightings
-- spacex-lights
+- space-x-lights
 keywords:
-- mississippi
+- mississippi-cba-267
 - modern-sightings
-- spacex-lights
-affiliate_category: mississippi
+- space-x-lights
+affiliate_category: mississippi-cba-267
 show_ads: true
 description: Starlink trains and rocket launches have created some of Mississippi's most dramatic recent sky reports, but they can often be checked quickly.
 hero_summary: Starlink trains and rocket launches have created some of Mississippi's most dramatic recent sky reports, but they can often be checked quickly.
 layout: default
-permalink: /spacex-lights/
+permalink: /space-x-lights/
 sidebar_expanded_urls:
-- /mississippi/
+- /mississippi-cba-267/
 - /modern-sightings/
-nav_short_title: SpaceX lights
-title: Why SpaceX lights fool Mississippi skywatchers
-title_full: Why SpaceX lights fool Mississippi skywatchers | Modern Sightings
-display_title_short: SpaceX lights
-display_title: SpaceX lights
-heading_title: Why SpaceX lights fool Mississippi skywatchers
-page_heading_title: Why SpaceX lights fool Mississippi skywatchers
+nav_short_title: Space X lights
+title: Why Space X lights fool Mississippi skywatchers
+title_full: Why Space X lights fool Mississippi skywatchers
+display_title_short: Space X lights
+display_title: Space X lights
+heading_title: Why Space X lights fool Mississippi skywatchers
+page_heading_title: Why Space X lights fool Mississippi skywatchers
 source_count: 34
 infographic_count: 3
 planned_sections:
@@ -200,27 +200,27 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:35:27'
-parent_title: When Mississippi UFOs Become Identified Objects | Mississippi UFOs
+parent_title: When Mississippi UFOs Become Identified Objects
 parent_permalink: /modern-sightings/
 parent_nav_short_title: Modern Sightings
 parent_heading_title: When Mississippi UFOs Become Identified Objects
 ancestor_links:
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Mississippi_cba267_modern_sightings_5cfd1d
-  title: Modern Sightings | Mississippi
+  title: Modern Sightings | Mississippi cba 267
   permalink: /modern-sightings/
   short_title: Modern Sightings
   heading_title: When Mississippi UFOs Become Identified Objects
 breadcrumb_links:
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Mississippi_cba267_modern_sightings_5cfd1d
-  title: Modern Sightings | Mississippi
+  title: Modern Sightings | Mississippi cba 267
   permalink: /modern-sightings/
   short_title: Modern Sightings
   heading_title: When Mississippi UFOs Become Identified Objects
@@ -232,7 +232,7 @@ sibling_links:
   heading_title: How Harrison County's UFO became a balloon
 up_link:
   basename: Mississippi_cba267_modern_sightings_5cfd1d
-  title: Modern Sightings | Mississippi
+  title: Modern Sightings | Mississippi cba 267
   permalink: /modern-sightings/
   short_title: Modern Sightings
   heading_title: When Mississippi UFOs Become Identified Objects
@@ -250,10 +250,9 @@ image: /assets/images/Mississippi_cba267_modern_sightings_5cfd1d_spacex_lights_m
 
 ## Introduction
 
-Recent [Mississippi]({{ 'mississippi/' | relative_url }}) UFO reports have often turned out not to involve unknown aircraft at all, but highly visible SpaceX activity. Starlink satellite trains, Falcon 9 launches and the unusual light effects created by rockets at high altitude have produced some of the state's most widely shared modern sky mysteries. What makes these cases important is not that witnesses were foolish or careless. Many of the objects genuinely looked strange from the ground. The lesson is that modern UFO investigation increasingly depends on checking satellite passes, launch schedules and aerospace tracking data before assuming a sighting is unexplained.
+Recent Mississippi UFO reports have often turned out not to involve unknown aircraft at all, but highly visible SpaceX activity. Starlink satellite trains, Falcon 9 launches and the unusual light effects created by rockets at high altitude have produced some of the state's most widely shared modern sky mysteries. What makes these cases important is not that witnesses were foolish or careless. Many of the objects genuinely looked strange from the ground. The lesson is that modern UFO investigation increasingly depends on checking satellite passes, launch schedules and aerospace tracking data before assuming a sighting is unexplained.
 
-
-<img src="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_spacex_lights_missis_a24b0c-Illustration-1-light.svg" | relative_url }}" alt="SpaceX lights illustration 1" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_spacex_lights_missis_a24b0c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_spacex_lights_missis_a24b0c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_spacex_lights_missis_a24b0c-Illustration-1-dark.svg" | relative_url }}" alt="Space X lights illustration 1" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_spacex_lights_missis_a24b0c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_spacex_lights_missis_a24b0c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Along the Mississippi Gulf Coast in particular, clear horizons and wide views over the Gulf can make distant space activity surprisingly visible. In several recent cases, reports that initially sounded like classic UFO encounters were identified within hours through publicly available tracking tools and launch information. These episodes have become some of the clearest examples of how ordinary people can mistake space technology for something mysterious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2022/10/21/did-you-see-these-lights-over-coast-last-night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-title">Starlink is a huge constellation of satellites orbiting close to earth.Read more</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: October 21, 2022</span></span></span>
 
 ## The 2022 Starlink train over the Gulf Coast
@@ -262,10 +261,9 @@ One of Mississippi's most discussed recent UFO incidents occurred in October 202
 
 The explanation turned out to be a recently launched group of Starlink satellites. SpaceX deploys many satellites together, and for several days after launch they remain clustered in a visible line before gradually spreading into their operational positions. When viewed shortly after sunset or before sunrise, sunlight can still illuminate the satellites even though observers on the ground are already in darkness. This creates the distinctive "train" effect: a row of evenly spaced lights travelling together across the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2022/10/21/did-you-see-these-lights-over-coast-last-night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-title">Starlink is a huge constellation of satellites orbiting close to earth.Read more</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: October 21, 2022</span></span></span>
 
-What made the sighting so striking was that it did not resemble traditional aviation. The lights showed no obvious blinking navigation lamps, appeared unusually numerous and maintained a precise formation. Those characteristics match many classic UFO descriptions, which helps explain why Starlink trains now generate reports across the United States and elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">starlink satellite train how to see and track it</span><span class="citation-popover-snippet">SpaceStarlink satellite train: how to see and track it in the night sky5 May 2026 — The Starlink satellite train is best seen in the days...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+What made the sighting so striking was that it did not resemble traditional aviation. The lights showed no obvious blinking navigation lamps, appeared unusually numerous and maintained a precise formation. Those characteristics match many classic UFO descriptions, which helps explain why Starlink trains now generate reports across the United States and elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">starlink satellite train how to see and track it</span><span class="citation-popover-snippet">Starlink satellite train: how to see and track it in the night sky5 May 2026 — The Starlink satellite train is best seen in the days...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 For Mississippi investigators, the 2022 case demonstrated how quickly a dramatic sighting can move from mystery to identification. Once observers compared the timing with satellite-tracking resources, the apparent anomaly largely disappeared. WLOX even directed readers to public tracking tools that could predict future passes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2022/10/21/did-you-see-these-lights-over-coast-last-night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-title">Starlink is a huge constellation of satellites orbiting close to earth.Read more</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: October 21, 2022</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H4TzP26dX18" title="SpaceX Starlink satellites seen in Albuquerque night sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H4TzP26dX18" target="_blank" rel="noopener noreferrer">SpaceX Starlink satellites seen in Albuquerque night sky</a></p><p class="youtube-embed-meta">Channel: KRQE &middot; Views: 3.6K &middot; Uploaded: May 2021 &middot; Length: 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H4TzP26dX18" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H4TzP26dX18">Open on YouTube</a></p></div></div></div>
 
@@ -279,8 +277,7 @@ From Mississippi, observers were not seeing the rocket itself in the ordinary se
 
 The incident also highlighted a common feature of modern UFO reporting: the object looked extraordinary because viewers lacked immediate context. Most witnesses were not aware that a Florida launch had occurred shortly beforehand. Once launch records were checked, the event fit a known aerospace activity rather than an unexplained aerial phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2022/10/21/did-you-see-these-lights-over-coast-last-night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-title">Starlink is a huge constellation of satellites orbiting close to earth.Read more</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: October 21, 2022</span></span></span>
 
-
-<img src="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_spacex_lights_missis_a24b0c-Illustration-2-light.svg" | relative_url }}" alt="SpaceX lights illustration 2" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_spacex_lights_missis_a24b0c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_spacex_lights_missis_a24b0c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_spacex_lights_missis_a24b0c-Illustration-2-dark.svg" | relative_url }}" alt="Space X lights illustration 2" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_spacex_lights_missis_a24b0c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_spacex_lights_missis_a24b0c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why rocket launches can look so alien
 
 Rocket launches produce several visual effects that differ sharply from ordinary aircraft behaviour.
@@ -295,7 +292,6 @@ Rocket launches produce several visual effects that differ sharply from ordinary
 
 These characteristics help explain why experienced observers can still be surprised. The visual impression is often genuinely unfamiliar rather than obviously mundane.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GvxF3sUbPrI" title="6 Most Incredible Starlink Satellites Train seen from earth - Elon Musk SpaceX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GvxF3sUbPrI" target="_blank" rel="noopener noreferrer">6 Most Incredible Starlink Satellites Train seen from earth - Elon Musk SpaceX</a></p><p class="youtube-embed-meta">Channel: ViralVideoLab &middot; Views: 1.6K &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GvxF3sUbPrI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GvxF3sUbPrI">Open on YouTube</a></p></div></div></div>
 
 ## How launch and satellite checks prevent false mysteries
@@ -303,7 +299,6 @@ These characteristics help explain why experienced observers can still be surpri
 The strongest lesson from these Mississippi cases is procedural rather than astronomical. Modern investigators can often test a sighting against independent data before deciding whether it remains unexplained.
 
 Useful checks include:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -317,8 +312,7 @@ Useful checks include:
 
 In many recent Mississippi cases, the answer has been available quickly because SpaceX launches are publicly announced and satellite tracking is widely accessible. The process does not discredit witnesses. On the contrary, it treats reports seriously enough to investigate them against known possibilities.
 
-
-<img src="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_spacex_lights_missis_a24b0c-Illustration-3-light.svg" | relative_url }}" alt="SpaceX lights illustration 3" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_spacex_lights_missis_a24b0c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_spacex_lights_missis_a24b0c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_spacex_lights_missis_a24b0c-Illustration-3-dark.svg" | relative_url }}" alt="Space X lights illustration 3" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_spacex_lights_missis_a24b0c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d_spacex_lights_missis_a24b0c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What these sightings mean for Mississippi UFO history
 
 SpaceX and Starlink reports occupy a different place in Mississippi UFO history from older cases such as [Pascagoula]({{ 'pascagoula/' | relative_url }}) or earlier sighting waves. Earlier reports often relied on witness testimony, newspaper accounts and limited physical evidence. [Modern sightings]({{ 'modern-sightings/' | relative_url }}) increasingly occur in an environment where satellite databases, flight-tracking tools and launch schedules can be consulted almost immediately.
@@ -327,9 +321,7 @@ That shift has changed the meaning of an unidentified object. A report is no lon
 
 At the same time, these incidents demonstrate why some modern sightings are solved faster than ever. The same technology that creates unusual lights in the sky also leaves public records behind. For Mississippi skywatchers, the first question after seeing something strange is increasingly not "what was that?" but "what was launched, tracked or passing overhead at that moment?" <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2022/10/21/did-you-see-these-lights-over-coast-last-night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-title">Starlink is a huge constellation of satellites orbiting close to earth.Read more</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: October 21, 2022</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tpsv3co_oTI" title="El lanzamiento de Spacex ilumina el cielo nocturno del sur de California" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tpsv3co_oTI" target="_blank" rel="noopener noreferrer">El lanzamiento de Spacex ilumina el cielo nocturno del sur de California</a></p><p class="youtube-embed-meta">Channel: Negocios TV &middot; Views: 1.8K &middot; Uploaded: September 2025 &middot; Length: 1 minute 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tpsv3co_oTI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tpsv3co_oTI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -753,152 +745,152 @@ At the same time, these incidents demonstrate why some modern sightings are solv
 1. <a id="endnote-1"></a>
    Source: wlox.com  
    Title: Starlink is a huge constellation of satellites orbiting close to earth.Read more  
-   Link: [https://www.wlox.com/2022/10/21/did-you-see-these-lights-over-coast-last-night/](https://www.wlox.com/2022/10/21/did-you-see-these-lights-over-coast-last-night/)  
+   Link: <a href="https://www.wlox.com/2022/10/21/did-you-see-these-lights-over-coast-last-night/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2022/10/21/did-you-see-these-lights-over-coast-last-night/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.wlox.comDid](https://www.wlox.comDid) you see these lights over the Coast last night?October 21, 2022 — 21 Oct 2022 — Turns out the string of lights ma...</p></details>
    Published: October 21, 2022  
 
 2. <a id="endnote-2"></a>
    Source: wlox.com  
    Title: what was mysterious comet like object sky early wednesday morning  
-   Link: [https://www.wlox.com/2024/07/03/what-was-mysterious-comet-like-object-sky-early-wednesday-morning/](https://www.wlox.com/2024/07/03/what-was-mysterious-comet-like-object-sky-early-wednesday-morning/)  
+   Link: <a href="https://www.wlox.com/2024/07/03/what-was-mysterious-comet-like-object-sky-early-wednesday-morning/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2024/07/03/what-was-mysterious-comet-like-object-sky-early-wednesday-morning/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.wlox.comWhat](https://www.wlox.comWhat) was the mysterious comet-like object in the sky early...3 Jul 2024 — Although its appearance made people believ...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: space.com  
    Title: starlink satellite train how to see and track it  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceStarlink satellite train: how to see and track it in the night sky5 May 2026 — The Starlink satellite train is best seen in the days...</p></details>
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite train: how to see and track it in the night sky5 May 2026 — The Starlink satellite train is best seen in the days...</p></details>
    Published: May 2026  
 
 4. <a id="endnote-4"></a>
    Source: findstarlink.com  
    Title: Starlink Satellites Tracker  
-   Link: [https://findstarlink.com/](https://findstarlink.com/)  
+   Link: <a href="https://findstarlink.com/" target="_blank" rel="noopener noreferrer nofollow">https://findstarlink.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Check when you can see it!Calculate when you can see the Starlink satellites above your location...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Twilight phenomenon  
-   Link: [https://en.wikipedia.org/wiki/Twilight_phenomenon](https://en.wikipedia.org/wiki/Twilight_phenomenon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twilight_phenomenon</a>  
 
 6. <a id="endnote-6"></a>
    Source: spacex.com  
    Title: Space XSpace X  
-   Link: [https://www.spacex.com/updates](https://www.spacex.com/updates)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX - UpdatesFalcon 9 Returns to Flight. SpaceX submitted its mishap report to the Federal Aviation Administration (FAA) regarding Fal...</p></details>
+   Link: <a href="https://www.spacex.com/updates" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/updates</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UpdatesFalcon 9 Returns to Flight. SpaceX submitted its mishap report to the Federal Aviation Administration (FAA) regarding Fal...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: wlox.com  
-   Link: [https://www.wlox.com/video/2024/07/03/mysterious-comet-like-object-lights-up-early-morning-sky-above-midlands/](https://www.wlox.com/video/2024/07/03/mysterious-comet-like-object-lights-up-early-morning-sky-above-midlands/)  
+   Link: <a href="https://www.wlox.com/video/2024/07/03/mysterious-comet-like-object-lights-up-early-morning-sky-above-midlands/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/video/2024/07/03/mysterious-comet-like-object-lights-up-early-morning-sky-above-midlands/</a>  
 
 8. <a id="endnote-8"></a>
    Source: wlox.com  
-   Link: [https://www.wlox.com/video/2023/05/05/video-starlink-satellites-spotted-above-lowcountry/](https://www.wlox.com/video/2023/05/05/video-starlink-satellites-spotted-above-lowcountry/)  
+   Link: <a href="https://www.wlox.com/video/2023/05/05/video-starlink-satellites-spotted-above-lowcountry/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/video/2023/05/05/video-starlink-satellites-spotted-above-lowcountry/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>VIDEO: Starlink satellites spotted above the LowcountryVIDEO: Starlink satellites spotted above the Lowcountry. Updated: May 4, 2023 at 8...</p></details>
    Published: May 4, 2023  
 
 9. <a id="endnote-9"></a>
    Source: space.com  
-   Link: [https://www.space.com/news/archive/2024/07](https://www.space.com/news/archive/2024/07)  
+   Link: <a href="https://www.space.com/news/archive/2024/07" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/news/archive/2024/07</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>News Archive | July 202431 Jul 2024 — SpaceX finds cause of Falcon 9 failure, eyes return to flight as soon as July 27... FAA investigat...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: space.com  
    Title: 23013 spacex falcon 9 rocket ufo  
-   Link: [https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html](https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports...30 Sept 2013 — While reports of a UFO abounded, Greg Roberts, an astronomer from...</p></details>
+   Link: <a href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>X Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports...30 Sept 2013 — While reports of a UFO abounded, Greg Roberts, an astronomer from...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: What caused the string of lights in the sky Wednesday night in Texas?  
-   Link: [https://www.youtube.com/watch?v=DKVRBaU_tk8](https://www.youtube.com/watch?v=DKVRBaU_tk8)  
+   Link: <a href="https://www.youtube.com/watch?v=DKVRBaU_tk8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DKVRBaU_tk8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Starlink satellites seen in Albuquerque night sky...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Space X Starlink satellites seen in Albuquerque night sky  
-   Link: [https://www.youtube.com/watch?v=H4TzP26dX18](https://www.youtube.com/watch?v=H4TzP26dX18)  
+   Link: <a href="https://www.youtube.com/watch?v=H4TzP26dX18" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H4TzP26dX18</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX launch lights up Southern California night sky...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Space X launch lights up Southern California night sky  
-   Link: [https://www.youtube.com/watch?v=tpsv3co_oTI](https://www.youtube.com/watch?v=tpsv3co_oTI)  
+   Link: <a href="https://www.youtube.com/watch?v=tpsv3co_oTI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tpsv3co_oTI</a>  
 
 14. <a id="endnote-14"></a>
    Source: wral.com  
    Title: spacex launch visibile may 2026  
-   Link: [https://www.wral.com/news/local/spacex-launch-visibile-may-2026/](https://www.wral.com/news/local/spacex-launch-visibile-may-2026/)  
+   Link: <a href="https://www.wral.com/news/local/spacex-launch-visibile-may-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/news/local/spacex-launch-visibile-may-2026/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WRAL NewsLook up for a &quot;space jellyfish&quot; Thursday morning18 May 2026 — You are actually seeing is sunlight reflecting off the rocket&#x27;s ex...</p></details>
    Published: may 2026  
 
 15. <a id="endnote-15"></a>
    Source: washingtonpost.com  
    Title: The Washington Post Did you see an alien-looking swirl in the sky?  
-   Link: [https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/](https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/)  
+   Link: <a href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</p></details>
    Published: March 24, 2025  
 
 16. <a id="endnote-16"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket](https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket)  
+   Link: <a href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DSzzSRQAtrn/](https://www.instagram.com/p/DSzzSRQAtrn/)  
+   Link: <a href="https://www.instagram.com/p/DSzzSRQAtrn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSzzSRQAtrn/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spacecraft still close together before they spread into their...Read more...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DTOL5aTjKNt/?hl=en](https://www.instagram.com/reel/DTOL5aTjKNt/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DTOL5aTjKNt/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTOL5aTjKNt/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Falcon 9 Twilight Phenomenon! A twilight effect is produced...If you didn&#x27;t know SpaceX was launching, you definitely thought the aliens...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/spaceXverse/posts/3704529019852096/](https://www.facebook.com/groups/spaceXverse/posts/3704529019852096/)  
+   Link: <a href="https://www.facebook.com/groups/spaceXverse/posts/3704529019852096/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spaceXverse/posts/3704529019852096/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Falcon 9 rocket launch creates twilight phenomenon#ufosighting #UFO #Rockets #SpaceX #space #aircraft #area51 #UAP #aliens... launch and...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2](https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2)  
+   Link: <a href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts attribute the phenomenon to a fuel dump from a SpaceX Falcon 9 rocket launched earlier that day from Florida, carrying a national...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/nasa/comments/11rrcim/what_causes_spacexs_jellyfish_plume/](https://www.reddit.com/r/nasa/comments/11rrcim/what_causes_spacexs_jellyfish_plume/)  
+   Link: <a href="https://www.reddit.com/r/nasa/comments/11rrcim/what_causes_spacexs_jellyfish_plume/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/11rrcim/what_causes_spacexs_jellyfish_plume/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What causes SpaceX&#x27;s &quot;jellyfish plume&quot;?: r/nasaHi all! I&#x27;m going to see *hopefully knock on wood* my first space launch this week at the...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: wistv.com  
    Title: mysterious comet like object lights up early morning sky above midlands  
-   Link: [https://www.wistv.com/2024/07/03/mysterious-comet-like-object-lights-up-early-morning-sky-above-midlands/](https://www.wistv.com/2024/07/03/mysterious-comet-like-object-lights-up-early-morning-sky-above-midlands/)  
+   Link: <a href="https://www.wistv.com/2024/07/03/mysterious-comet-like-object-lights-up-early-morning-sky-above-midlands/" target="_blank" rel="noopener noreferrer nofollow">https://www.wistv.com/2024/07/03/mysterious-comet-like-object-lights-up-early-morning-sky-above-midlands/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.wistv.comMysterious](https://www.wistv.comMysterious) comet-like object lights up the early-morning...3 Jul 2024 — While the object might look like a comet or...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: instagram.com  
    Title: My clearest sighting of a Starlink satellite "train" from orbit!  
-   Link: [https://www.instagram.com/reel/DPhlge7jsq_/](https://www.instagram.com/reel/DPhlge7jsq_/)  
+   Link: <a href="https://www.instagram.com/reel/DPhlge7jsq_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPhlge7jsq_/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The SpaceX satellite train is a temporarily visible line of bright, closely spaced satellites launched together for the Starlink internet...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYUmvz7j-D0/](https://www.instagram.com/p/DYUmvz7j-D0/)  
+   Link: <a href="https://www.instagram.com/p/DYUmvz7j-D0/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYUmvz7j-D0/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>plume from a SpaceX Falcon 9 rocket launch high above...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2365809903441367/posts/7085065264849117/](https://www.facebook.com/groups/2365809903441367/posts/7085065264849117/)  
+   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/7085065264849117/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/7085065264849117/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>se are newly launched Starlink Satellites! Over...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: fox5dc.com  
-   Link: [https://www.fox5dc.com/news/bright-glow-over-dc-region-tuesday-likely-space-jellyfish-from-spacex-launch-officials-say](https://www.fox5dc.com/news/bright-glow-over-dc-region-tuesday-likely-space-jellyfish-from-spacex-launch-officials-say)  
+   Link: <a href="https://www.fox5dc.com/news/bright-glow-over-dc-region-tuesday-likely-space-jellyfish-from-spacex-launch-officials-say" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5dc.com/news/bright-glow-over-dc-region-tuesday-likely-space-jellyfish-from-spacex-launch-officials-say</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Falcon 9 rocket launched a Starlink mission...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SpaceLaunchSchedule/posts/-jellyfish-effect-rocket-launch-explained-why-rockets-glow-at-twilightdid-you-se/1285012607175535/](https://www.facebook.com/SpaceLaunchSchedule/posts/-jellyfish-effect-rocket-launch-explained-why-rockets-glow-at-twilightdid-you-se/1285012607175535/)  
+   Link: <a href="https://www.facebook.com/SpaceLaunchSchedule/posts/-jellyfish-effect-rocket-launch-explained-why-rockets-glow-at-twilightdid-you-se/1285012607175535/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpaceLaunchSchedule/posts/-jellyfish-effect-rocket-launch-explained-why-rockets-glow-at-twilightdid-you-se/1285012607175535/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ing a recent launch? One of the most mesmerizing sights...</p></details>

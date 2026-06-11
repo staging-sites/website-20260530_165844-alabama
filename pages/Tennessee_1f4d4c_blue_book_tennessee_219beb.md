@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-keeps-tennessees-ufo-stories-alive/
 nav_short_title: Blue Book
 title: What Did Blue Book Record in Tennessee?
-title_full: What Did Blue Book Record in Tennessee? | Tennessee UFOs
+title_full: What Did Blue Book Record in Tennessee?
 display_title_short: Blue Book
 display_title: Blue Book
 heading_title: What Did Blue Book Record in Tennessee?
@@ -264,20 +264,18 @@ image: /assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb-overview-socia
 
 Project Blue Book’s Tennessee records matter because they show how an official file can preserve a puzzling report without proving an extraordinary explanation. The state’s Blue Book material includes small, sometimes messy case files: a 1954 [Gatlinburg]({{ 'gatlinburg/' | relative_url }}) report marked “Unidentified”, a 1960 report from “5 Mi E Of Ocoll, Tennessee” judged “probably aircraft”, and a fuller 1967 [East Memphis]({{ 'east-memphis/' | relative_url }}) file where investigators could not draw a firm conclusion from the available information. These files are valuable as evidence of what witnesses reported and how the Air Force processed those reports, not as proof that unusual objects were alien craft. The central lesson is cautious: Tennessee’s Blue Book cases are strongest as archival evidence, weakest when treated as final answers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-09-8727038-Gatlinburg-Tennessee.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-09-8727038-Gatlinburg-Tennessee.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span>
 
-
 <img src="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb-overview.webp" | relative_url }}" alt="Overview image for Blue Book" loading="eager" decoding="sync" fetchpriority="high">
 ## How Blue Book handled UFO reports
 
 Project Blue Book was the United States Air Force’s main Cold War UFO investigation programme. The National Archives says the Air Force ended the programme on 17 December 1969, after 12,618 sightings had been reported from 1947 to 1969; 701 remained classified as “Unidentified”. The same Air Force fact sheet concluded that no investigated UFO had shown evidence of a national-security threat, unknown scientific technology, or extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-For [Tennessee]({{ 'what-keeps-tennessees-ufo-stories-alive/' | relative_url }}), that national framework matters because the local files were not written as folklore, newspaper entertainment, or later internet legend. They were working records: forms, questionnaires, summaries, teletypes and evaluative comments. The National Archives explains that Blue Book case files generally contain observer reports, Air Force correspondence, clippings, analysis of photographs or physical evidence where available, and a control sheet summarising the sighting and the Air Force’s conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For Tennessee, that national framework matters because the local files were not written as folklore, newspaper entertainment, or later internet legend. They were working records: forms, questionnaires, summaries, teletypes and evaluative comments. The National Archives explains that Blue Book case files generally contain observer reports, Air Force correspondence, clippings, analysis of photographs or physical evidence where available, and a control sheet summarising the sighting and the Air Force’s conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That process could produce several different outcomes. A case might be labelled as aircraft, balloon, astronomical, insufficient data, or unknown. The labels were administrative conclusions, not courtroom verdicts. A file could be unresolved because the report was genuinely difficult to explain, but also because the information was too thin, too late, too subjective, or unsupported by radar, photographs, physical evidence or independent corroboration.
 
 The Tennessee records illustrate all of those limits. In the 1954 Gatlinburg case, the record card states “UNIDENTIFIED”, but the evidence shown in the surviving summary is brief: two bright silver, “bicycle wheel” shaped objects, one behind the other, moving north to south and flying over the horizon. There were no photos and no physical evidence recorded on the card. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-09-8727038-Gatlinburg-Tennessee.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Commons File:Project Blue Book report</span></span></span>
 
-
-<img src="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb-Illustration-1-light.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Tennessee files show
 
 The clearest way to read the Tennessee Blue Book material is as a small evidence cluster rather than a single dramatic story. The cases do not all point in one direction. Some remained unexplained in the Air Force paperwork; others were given conventional explanations; still others show investigators struggling with incomplete observations.
@@ -287,7 +285,6 @@ The **Gatlinburg file from September 1954** is the most compact example of an un
 The **1960 “5 Mi E Of Ocoll” file** shows a different outcome. The Blue Book Archive identifies it as a 13-page declassified document from Tennessee, case number 7811649. Its Air Force record card marks the observation as civilian ground visual and selects “Probably Aircraft” as the conclusion. The comment section says it was highly probable that the witnesses observed the vapour trail of a high-flying aircraft, with the object changing appearance as it moved near or behind cloud. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/1589" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The **East [Memphis]({{ 'memphis/' | relative_url }}) file from May 1967** is more substantial. The Blue Book Archive lists it as case 9077346, a 14-page file from East Memphis, Tennessee. Its surviving material includes a questionnaire-style record, witness description, Air Force correspondence and evaluative comments. The file is especially useful because it shows the difference between a vivid witness report and a solid evidential conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/1589" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Lj9XiXuOCdI" title="Declassified UFO Photos over East Tennessee NUCLEAR WEAPON Facility" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Lj9XiXuOCdI" target="_blank" rel="noopener noreferrer">Declassified UFO Photos over East Tennessee NUCLEAR WEAPON Facility</a></p><p class="youtube-embed-meta">Channel: The Appalachian Storyteller &middot; Views: 17.6K &middot; Uploaded: May 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Lj9XiXuOCdI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Lj9XiXuOCdI">Open on YouTube</a></p></div></div></div>
 
@@ -303,8 +300,7 @@ That wording is important. It does not mean “the Air Force proved something ex
 
 The East Memphis case therefore sits in a middle category: more interesting than a bare light-in-the-sky anecdote, but still short of a robust evidential record. It has named-place documentation, multiple pages, witness detail and Air Force processing. It lacks the elements that would make it much stronger: clear photographs, radar data, confirmed air-traffic checks, instrument readings, physical traces, or a wider set of independent reports from the same time and place.
 
-
-<img src="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb-Illustration-2-light.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why “unidentified” is not automatic proof
 
 A common mistake in reading Blue Book files is to treat “Unidentified” as if it means “confirmed unknown craft”. It does not. In the Blue Book system, an unidentified classification generally meant that the available information did not support a confident conventional identification. That is narrower than many readers assume.
@@ -315,12 +311,7 @@ The 1960 Tennessee file shows the opposite problem: an unusual-looking event can
 
 The Air Force’s own final position was similarly cautious. It did not say every report had been perfectly explained. It said that, after investigation and review, no UFO reported and evaluated by the Air Force had shown evidence of a national-security threat, technology beyond known science, or extraterrestrial vehicles. That distinction matters for Tennessee: unresolved records remain historically interesting, but they do not overturn the programme’s overall conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iFpZToN6yU" title="UFO Report Project Blue Book 1952" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iFpZToN6yU" target="_blank" rel="noopener noreferrer">UFO Report Project Blue Book 1952</a></p><p class="youtube-embed-meta">Channel: tvdays &middot; Views: 968 &middot; Uploaded: July 2021 &middot; Length: 4 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iFpZToN6yU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iFpZToN6yU">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nsxgymkGZP8" title="UFOs over Memphis - Originally Aired July 30, 2015" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nsxgymkGZP8" target="_blank" rel="noopener noreferrer">UFOs over Memphis - Originally Aired July 30, 2015</a></p><p class="youtube-embed-meta">Channel: WKNO &middot; Views: 1.0M &middot; Uploaded: August 2021 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nsxgymkGZP8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nsxgymkGZP8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What makes the Tennessee records useful today
 
 The Tennessee Blue Book files are useful because they preserve the mechanics of official UFO investigation. They show how civilian witnesses were asked for details, how local reports were reduced into standardised forms, and how Air Force staff tried to fit unusual descriptions into categories such as aircraft, balloon, astronomical, insufficient data or unknown.
@@ -331,8 +322,7 @@ For readers following Tennessee UFO history, these cases connect naturally with 
 
 The most responsible reading is therefore neither dismissive nor credulous. Blue Book did record Tennessee cases that witnesses found strange, and at least one surviving Tennessee card was marked “Unidentified”. But the files also show ordinary investigative limits: incomplete forms, uncertain locations, poor image quality, lack of physical evidence, and conclusions that depended heavily on witness description. That is why these records matter: they preserve unanswered reports, but they do not transform those reports into proof of extraordinary craft.
 
-
-<img src="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb-Illustration-3-light.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nsxgymkGZP8" title="UFOs over Memphis - Originally Aired July 30, 2015" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nsxgymkGZP8" target="_blank" rel="noopener noreferrer">UFOs over Memphis - Originally Aired July 30, 2015</a></p><p class="youtube-embed-meta">Channel: WKNO &middot; Views: 1.0M &middot; Uploaded: August 2021 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nsxgymkGZP8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nsxgymkGZP8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -756,217 +746,217 @@ The most responsible reading is therefore neither dismissive nor credulous. Blue
 1. <a id="endnote-1"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book report 1954 09 8727038 Gatlinburg Tennessee  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/1/14/Project_Blue_Book_report_-_1954-09-8727038-Gatlinburg-Tennessee.pdf](https://upload.wikimedia.org/wikipedia/commons/1/14/Project_Blue_Book_report_-_1954-09-8727038-Gatlinburg-Tennessee.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/1/14/Project_Blue_Book_report_-_1954-09-8727038-Gatlinburg-Tennessee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/1/14/Project_Blue_Book_report_-_1954-09-8727038-Gatlinburg-Tennessee.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book report 1960 04 7811649 5MiEOfOcoll Tennessee  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/9/92/Project_Blue_Book_report_-_1960-04-7811649-5MiEOfOcoll-Tennessee.pdf](https://upload.wikimedia.org/wikipedia/commons/9/92/Project_Blue_Book_report_-_1960-04-7811649-5MiEOfOcoll-Tennessee.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/9/92/Project_Blue_Book_report_-_1960-04-7811649-5MiEOfOcoll-Tennessee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/9/92/Project_Blue_Book_report_-_1960-04-7811649-5MiEOfOcoll-Tennessee.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book report 1967 05 9077346 EastMemphis Tennessee  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/8/89/Project_Blue_Book_report_-_1967-05-9077346-EastMemphis-Tennessee.pdf](https://upload.wikimedia.org/wikipedia/commons/8/89/Project_Blue_Book_report_-_1967-05-9077346-EastMemphis-Tennessee.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/8/89/Project_Blue_Book_report_-_1967-05-9077346-EastMemphis-Tennessee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/8/89/Project_Blue_Book_report_-_1967-05-9077346-EastMemphis-Tennessee.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 6. <a id="endnote-6"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Project Blue Book report  
-   Link: [https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-09-8727038-Gatlinburg-Tennessee.pdf](https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-09-8727038-Gatlinburg-Tennessee.pdf)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-09-8727038-Gatlinburg-Tennessee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-09-8727038-Gatlinburg-Tennessee.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: commons.wikimedia.org  
    Title: File:Project Blue Book report 1967 05 9077346 EastMemphis Tennessee  
-   Link: [https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1967-05-9077346-EastMemphis-Tennessee.pdf](https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1967-05-9077346-EastMemphis-Tennessee.pdf)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1967-05-9077346-EastMemphis-Tennessee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1967-05-9077346-EastMemphis-Tennessee.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: commons.wikimedia.org  
    Title: File:Project Blue Book report 1960 04 7811649 5MiEOfOcoll Tennessee  
-   Link: [https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1960-04-7811649-5MiEOfOcoll-Tennessee.pdf](https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1960-04-7811649-5MiEOfOcoll-Tennessee.pdf)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1960-04-7811649-5MiEOfOcoll-Tennessee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1960-04-7811649-5MiEOfOcoll-Tennessee.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: commons.wikimedia.org  
    Title: Category:UFO sightings in Massachusetts  
-   Link: [https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Massachusetts](https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Massachusetts)  
+   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Massachusetts" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Massachusetts</a>  
 
 10. <a id="endnote-10"></a>
    Source: commons.wikimedia.org  
    Title: Category:UFO sightings in Kansas  
-   Link: [https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Kansas](https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Kansas)  
+   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Kansas" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Kansas</a>  
 
 11. <a id="endnote-11"></a>
    Source: commons.wikimedia.org  
    Title: Category:Washington, D.C. in the 1950s  
-   Link: [https://commons.wikimedia.org/wiki/Category%3AWashington%2C_D.C._in_the_1950s](https://commons.wikimedia.org/wiki/Category%3AWashington%2C_D.C._in_the_1950s)  
+   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AWashington%2C_D.C._in_the_1950s" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AWashington%2C_D.C._in_the_1950s</a>  
 
 12. <a id="endnote-12"></a>
    Source: commons.wikimedia.org  
    Title: Category:Florida in the 1940s  
-   Link: [https://commons.wikimedia.org/wiki/Category%3AFlorida_in_the_1940s](https://commons.wikimedia.org/wiki/Category%3AFlorida_in_the_1940s)  
+   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AFlorida_in_the_1940s" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AFlorida_in_the_1940s</a>  
 
 13. <a id="endnote-13"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR1 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf](https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
    Title: still pictures guide  
-   Link: [https://www.archives.gov/research/guides/still-pictures-guide](https://www.archives.gov/research/guides/still-pictures-guide)  
+   Link: <a href="https://www.archives.gov/research/guides/still-pictures-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guides/still-pictures-guide</a>  
 
 15. <a id="endnote-15"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: [https://unwritten-record.blogs.archives.gov/2014/04/page/2/](https://unwritten-record.blogs.archives.gov/2014/04/page/2/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2014/04/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2014/04/page/2/</a>  
 
 16. <a id="endnote-16"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/preservation/technical/imaging-storage-appendix.html](https://www.archives.gov/preservation/technical/imaging-storage-appendix.html)  
+   Link: <a href="https://www.archives.gov/preservation/technical/imaging-storage-appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/preservation/technical/imaging-storage-appendix.html</a>  
 
 17. <a id="endnote-17"></a>
    Source: archives.gov  
    Title: Federal Records Guide: Alphabetical Index  
-   Link: [https://www.archives.gov/research/guide-fed-records/index-alpha/a.html](https://www.archives.gov/research/guide-fed-records/index-alpha/a.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/index-alpha/a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/a.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/guide-fed-records/groups/059.html](https://www.archives.gov/research/guide-fed-records/groups/059.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/groups/059.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/groups/059.html</a>  
 
 19. <a id="endnote-19"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/digitization/digitized-by-partners](https://www.archives.gov/digitization/digitized-by-partners)  
+   Link: <a href="https://www.archives.gov/digitization/digitized-by-partners" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/digitization/digitized-by-partners</a>  
 
 20. <a id="endnote-20"></a>
    Source: archives.gov  
    Title: entry 214  
-   Link: [https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html](https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html)  
+   Link: <a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html</a>  
 
 21. <a id="endnote-21"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/foia/ufos.html](https://www.archives.gov/foia/ufos.html)  
+   Link: <a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
 
 22. <a id="endnote-22"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/photographs](https://www.archives.gov/research/topics/uaps/photographs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
 
 23. <a id="endnote-23"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 24. <a id="endnote-24"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/textual-and-microfilm](https://www.archives.gov/research/topics/uaps/textual-and-microfilm)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
 
 25. <a id="endnote-25"></a>
    Source: archive.org  
    Title: Disclosure Project Briefing Document djvu.txt  
-   Link: [https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt](https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt)  
+   Link: <a href="https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt</a>  
 
 26. <a id="endnote-26"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/vallee-jacques-revelations_202012/Vall%C3%A9e%20Jacques%20-%20Revelations_djvu.txt](https://archive.org/stream/vallee-jacques-revelations_202012/Vall%C3%A9e%20Jacques%20-%20Revelations_djvu.txt)  
+   Link: <a href="https://archive.org/stream/vallee-jacques-revelations_202012/Vall%C3%A9e%20Jacques%20-%20Revelations_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/vallee-jacques-revelations_202012/Vall%C3%A9e%20Jacques%20-%20Revelations_djvu.txt</a>  
 
 27. <a id="endnote-27"></a>
    Source: ia601904.us.archive.org  
-   Link: [https://ia601904.us.archive.org/30/items/429171208-searching-for-the-string-selected-writings-of-john-a-keel-john-a-keel/429171208-Searching-for-the-String-Selected-Writings-of-John-a-Keel-John-a-Keel.pdf](https://ia601904.us.archive.org/30/items/429171208-searching-for-the-string-selected-writings-of-john-a-keel-john-a-keel/429171208-Searching-for-the-String-Selected-Writings-of-John-a-Keel-John-a-Keel.pdf)  
+   Link: <a href="https://ia601904.us.archive.org/30/items/429171208-searching-for-the-string-selected-writings-of-john-a-keel-john-a-keel/429171208-Searching-for-the-String-Selected-Writings-of-John-a-Keel-John-a-Keel.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601904.us.archive.org/30/items/429171208-searching-for-the-string-selected-writings-of-john-a-keel-john-a-keel/429171208-Searching-for-the-String-Selected-Writings-of-John-a-Keel-John-a-Keel.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: ia601304.us.archive.org  
    Title: John A Keel UFO Operazione Cavallo di Troia (1970) [beta]  
-   Link: [https://ia601304.us.archive.org/21/items/JohnAKeelUFOOperazioneCavalloDiTroia1970beta/John%20A%20Keel%20-%20UFO%20Operazione%20Cavallo%20di%20Troia%20%281970%29%20%5Bbeta%5D.pdf](https://ia601304.us.archive.org/21/items/JohnAKeelUFOOperazioneCavalloDiTroia1970beta/John%20A%20Keel%20-%20UFO%20Operazione%20Cavallo%20di%20Troia%20%281970%29%20%5Bbeta%5D.pdf)  
+   Link: <a href="https://ia601304.us.archive.org/21/items/JohnAKeelUFOOperazioneCavalloDiTroia1970beta/John%20A%20Keel%20-%20UFO%20Operazione%20Cavallo%20di%20Troia%20%281970%29%20%5Bbeta%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601304.us.archive.org/21/items/JohnAKeelUFOOperazioneCavalloDiTroia1970beta/John%20A%20Keel%20-%20UFO%20Operazione%20Cavallo%20di%20Troia%20%281970%29%20%5Bbeta%5D.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: [https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/](https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
 
 30. <a id="endnote-30"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: [https://www.history.com/articles/project-blue-book](https://www.history.com/articles/project-blue-book)  
+   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
 
 31. <a id="endnote-31"></a>
    Source: digitalcommons.memphis.edu  
    Title: govpubs tn blue book  
-   Link: [https://digitalcommons.memphis.edu/govpubs-tn-blue-book/8/](https://digitalcommons.memphis.edu/govpubs-tn-blue-book/8/)  
+   Link: <a href="https://digitalcommons.memphis.edu/govpubs-tn-blue-book/8/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.memphis.edu/govpubs-tn-blue-book/8/</a>  
 
 32. <a id="endnote-32"></a>
    Source: bluebookfiles.org  
-   Link: [https://bluebookfiles.org/doc/1589](https://bluebookfiles.org/doc/1589)  
+   Link: <a href="https://bluebookfiles.org/doc/1589" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/1589</a>  
 
 33. <a id="endnote-33"></a>
    Source: bluebookfiles.org  
-   Link: [https://bluebookfiles.org/doc/11882](https://bluebookfiles.org/doc/11882)  
+   Link: <a href="https://bluebookfiles.org/doc/11882" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/11882</a>  
 
 34. <a id="endnote-34"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 35. <a id="endnote-35"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
 36. <a id="endnote-36"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 37. <a id="endnote-37"></a>
    Source: origins.osu.edu  
    Title: project blue book  
-   Link: [https://origins.osu.edu/watch/project-blue-book](https://origins.osu.edu/watch/project-blue-book)  
+   Link: <a href="https://origins.osu.edu/watch/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/watch/project-blue-book</a>  
 
 ### Additional References
 
 38. <a id="endnote-38"></a>
    Source: youtube.com  
    Title: Declassified UFO Photos over East Tennessee NUCLEAR WEAPON Facility  
-   Link: [https://www.youtube.com/watch?v=Lj9XiXuOCdI](https://www.youtube.com/watch?v=Lj9XiXuOCdI)  
+   Link: <a href="https://www.youtube.com/watch?v=Lj9XiXuOCdI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lj9XiXuOCdI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Project Blue Book UFO Interview USAF (1966)...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
    Title: UFO Project Blue Book at National Archives Museum  
-   Link: [https://www.youtube.com/watch?v=JHeZjJgO9Ns](https://www.youtube.com/watch?v=JHeZjJgO9Ns)  
+   Link: <a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JHeZjJgO9Ns</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/7482584/Project_Blue_Book_Archive](https://www.academia.edu/7482584/Project_Blue_Book_Archive)  
+   Link: <a href="https://www.academia.edu/7482584/Project_Blue_Book_Archive" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7482584/Project_Blue_Book_Archive</a>  
 
 41. <a id="endnote-41"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
 42. <a id="endnote-42"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/](https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
 
 43. <a id="endnote-43"></a>
    Source: docsteach.org  
-   Link: [https://docsteach.org/document/project-blue-book-status-report-number-eight/](https://docsteach.org/document/project-blue-book-status-report-number-eight/)  
+   Link: <a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  
 
 44. <a id="endnote-44"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/798530947/T206](https://www.scribd.com/document/798530947/T206)  
+   Link: <a href="https://www.scribd.com/document/798530947/T206" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/798530947/T206</a>  
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thebaynet/posts/the-pentagon-has-launched-a-new-public-archive-containing-government-records-rel/1308069531516231/](https://www.facebook.com/thebaynet/posts/the-pentagon-has-launched-a-new-public-archive-containing-government-records-rel/1308069531516231/)  
+   Link: <a href="https://www.facebook.com/thebaynet/posts/the-pentagon-has-launched-a-new-public-archive-containing-government-records-rel/1308069531516231/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thebaynet/posts/the-pentagon-has-launched-a-new-public-archive-containing-government-records-rel/1308069531516231/</a>  
 
 46. <a id="endnote-46"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 47. <a id="endnote-47"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/video/ufos-over-memphis-ibgvha/](https://www.pbs.org/video/ufos-over-memphis-ibgvha/)  
+   Link: <a href="https://www.pbs.org/video/ufos-over-memphis-ibgvha/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/video/ufos-over-memphis-ibgvha/</a>

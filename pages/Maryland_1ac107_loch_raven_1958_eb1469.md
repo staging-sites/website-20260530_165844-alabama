@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /marylands-ufo-mysteries-close-encounters/
 nav_short_title: Loch Raven 1958
 title: What Happened at Loch Raven Reservoir in 1958?
-title_full: What Happened at Loch Raven Reservoir in 1958? | Maryland UFOs
+title_full: What Happened at Loch Raven Reservoir in 1958?
 display_title_short: Loch Raven 1958
 display_title: Loch Raven 1958
 heading_title: What Happened at Loch Raven Reservoir in 1958?
@@ -262,8 +262,7 @@ image: /assets/images/Maryland_1ac107_loch_raven_1958_eb1469-overview-social.jpg
 
 ## Introduction
 
-The 1958 [Loch Raven]({{ 'loch-raven/' | relative_url }}) Reservoir encounter is [Maryland]({{ 'marylands-ufo-mysteries-close-encounters/' | relative_url }})’s best-known close-range UFO case because it has more than a dramatic story: it has named witnesses, a precise Baltimore County setting, reported vehicle interference, alleged physical sensations, a prompt police and hospital follow-up, and a surviving Project Blue Book file. The core claim is that Phillip Small and Alvin Cohen saw a large, flat, egg-shaped object near the Loch Raven Dam on 26 October 1958, after which Small’s car reportedly lost power, the men felt heat, heard a loud explosive sound, and watched the object rise vertically out of sight. The case remains unresolved in the Air Force-era record, but “unresolved” does not mean proven extraordinary. Its value is evidential rather than conclusive: it shows how a strong witness narrative can become historically important while still lacking photographs, radar confirmation, physical samples, or a modern forensic reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/581026lochravendam_docs1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">581026lochravendam docs1</span><span class="citation-popover-snippet">581026lochravendam docs1</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/581026lochravendam_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
-
+The 1958 [Loch Raven]({{ 'loch-raven/' | relative_url }}) Reservoir encounter is Maryland’s best-known close-range UFO case because it has more than a dramatic story: it has named witnesses, a precise Baltimore County setting, reported vehicle interference, alleged physical sensations, a prompt police and hospital follow-up, and a surviving Project Blue Book file. The core claim is that Phillip Small and Alvin Cohen saw a large, flat, egg-shaped object near the Loch Raven Dam on 26 October 1958, after which Small’s car reportedly lost power, the men felt heat, heard a loud explosive sound, and watched the object rise vertically out of sight. The case remains unresolved in the Air Force-era record, but “unresolved” does not mean proven extraordinary. Its value is evidential rather than conclusive: it shows how a strong witness narrative can become historically important while still lacking photographs, radar confirmation, physical samples, or a modern forensic reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/581026lochravendam_docs1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">581026lochravendam docs1</span><span class="citation-popover-snippet">581026lochravendam docs1</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/581026lochravendam_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
 <img src="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-overview.webp" | relative_url }}" alt="Overview image for Loch Raven 1958" loading="eager" decoding="sync" fetchpriority="high">
 Loch Raven matters within Maryland UFO history because it is not a distant light report. It is a close encounter claim tied to a familiar local landscape north of Baltimore, near a reservoir that supplies drinking water to Baltimore and sits within a heavily used Baltimore County watershed. That ordinary setting is one reason the story endured: two men on a night drive, a bridge, a dead car, a rush to a telephone, police contact, and a hospital visit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dnr.maryland.gov/wildlife/pages/publiclands/central/lochraven.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dnr.maryland.gov">[maryland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dnr.maryland.gov</span><span class="citation-popover-snippet">The Loch Raven dam...</span></span></span> Department of Natural Resources
@@ -278,8 +277,7 @@ The two men did not immediately flee. According to the Air Force summary, they s
 
 After the car failed, the men got out and used it as cover. From behind the vehicle, they reportedly watched the object for about 30 to 45 seconds. Then, according to the Air Force narrative, it flashed brilliant white, the men felt heat on their faces, and there was a loud noise interpreted as a dull explosion or thunderclap. The object then rose vertically, became very bright and indistinct at the edges, and disappeared within about 5 to 10 seconds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
 
-
-<img src="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-1-light.svg" | relative_url }}" alt="Loch Raven 1958 illustration 1" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-1-dark.svg" | relative_url }}" alt="Loch Raven 1958 illustration 1" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Witness accounts and car interference
 
 The [car interference]({{ 'car-interference/' | relative_url }}) is the strongest and most memorable part of the Loch Raven report, but it is also one of the hardest parts to evaluate. The surviving record does not show a laboratory inspection proving that the vehicle had suffered an unusual external effect. What it does show is that the witnesses consistently reported the motor and lights failing as they approached the object, and the vehicle starting again after the object had gone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
@@ -289,7 +287,6 @@ That sequence is important because ordinary vehicle failure alone would not expl
 The Air Force record card condensed the incident into the elements that investigators considered central: one civilian ground-visual object, a large flat egg-shaped form hovering over a bridge, automobile lights and motor going off as the car approached, a brilliant flash and loud noise as the object rose vertically, and a burning sensation reported by the sources. The same card marked the case as “unidentified” or “unknown” pending investigation, rather than assigning it to a balloon, aircraft or astronomical cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
 
 NICAP, the National Investigations Committee on Aerial Phenomena, later treated Loch Raven as a notable electromagnetic case and identified it as Project Blue Book Unknown 6148. NICAP’s directory summary gives the familiar core details: Phillip Small and Alvin Cohen, a large flat egg-shaped object 100 to 150 feet above the bridge, car electrical effects, burning sensation, and rapid vertical disappearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1YVFmNTRdb8" title="Exploring Maryland&#x27;s Weird Folklore (Volume 1): Myths and Legends of the United States" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1YVFmNTRdb8" target="_blank" rel="noopener noreferrer">Exploring Maryland&#x27;s Weird Folklore (Volume 1): Myths and Legends of the United States</a></p><p class="youtube-embed-meta">Channel: T’s Storytime &middot; Views: 256.6K &middot; Uploaded: March 2025 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1YVFmNTRdb8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1YVFmNTRdb8">Open on YouTube</a></p></div></div></div>
 
@@ -302,7 +299,6 @@ The hospital detail gives the case a useful anchor: the witnesses did something 
 The sound report is also consistent but imprecise. Different documents describe it as a rumble, an explosion, a dull explosion, a thunderclap, or a combination of rumble and explosion. That is typical of witness language under stress: people often reach for familiar comparisons rather than technical descriptions. The important evidential point is not the exact word, but that both the sound and heat were reported as part of the object’s departure rather than as a separate later interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
 
 A further complication is that the object’s appearance changes slightly across documents. Some forms list it as “glowing white” or fluorescent, flat and egg-shaped, while one standardised form says the shape was “unknown” and compares its apparent size to a baseball held at arm’s length. This is not necessarily fatal to the case, because different forms were capturing different kinds of information. It does show, however, why the Loch Raven report should not be treated as a clean technical observation of a measurable craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hdH3h_Wa6gE" title="Project Blue Book Sneak Peek: The True Story Behind the Government&#x27;s UFO Investigation - IGN First" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hdH3h_Wa6gE" target="_blank" rel="noopener noreferrer">Project Blue Book Sneak Peek: The True Story Behind the Government&#x27;s UFO Investigation - IGN First</a></p><p class="youtube-embed-meta">Channel: IGN &middot; Views: 413.4K &middot; Uploaded: September 2018 &middot; Length: 1 minute 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hdH3h_Wa6gE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hdH3h_Wa6gE">Open on YouTube</a></p></div></div></div>
 
@@ -318,8 +314,7 @@ The Air Force summary also noted local conditions. It described the bridge as a 
 
 Those details help narrow the range of easy explanations, but they do not eliminate all ordinary possibilities. Weather data in the file speaks against a thunderstorm explanation for the flash and sound, but it does not rule out aircraft, a bright meteor seen at a misleading angle, an electrical or mechanical car fault, or an unusual light source misperceived near a bridge at night. The final Air Force-style judgement was cautious: no valid conclusion could be reached, the object or phenomenon remained unidentified, and the available evidence did not indicate a threat to US security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
 
-
-<img src="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-2-light.svg" | relative_url }}" alt="Loch Raven 1958 illustration 2" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-2-dark.svg" | relative_url }}" alt="Loch Raven 1958 illustration 2" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the bridge and place matter
 
 The location is not just scenic background. The encounter was tied to a bridge near Loch Raven Dam, and later accounts often note that the bridge involved is no longer there. The Library of Congress record for Matthews Bridge says it was originally known as Mann’s Hill Bridge, later called Matthews Bridge at the time of demolition, and served as the Maryland Route 146 crossing over Loch Raven Reservoir. Historic bridge listings describe that lost Parker through-truss bridge over Loch Raven Reservoir on MD-146 as having been replaced in 1976 and demolished in 1978. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/pictures/item/md1151/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -338,8 +333,7 @@ Yet the weaknesses are equally important. There is no known photograph of the ob
 
 The case therefore sits in a middle category. It is not a debunked hoax, and it was not comfortably explained by the Air Force records available in the public summaries. But it is also not physical proof of an extraordinary craft. The fairest reading is that Loch Raven remains a historically important unresolved close-encounter report, not a confirmed event beyond ordinary explanation.
 
-
-<img src="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-3-light.svg" | relative_url }}" alt="Loch Raven 1958 illustration 3" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-3-dark.svg" | relative_url }}" alt="Loch Raven 1958 illustration 3" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Plausible doubts and ordinary explanations
 
 The most obvious ordinary explanation for many UFO reports — a distant planet, aircraft light or meteor — has trouble accounting for every element of Loch Raven if the witnesses’ sequence is accepted exactly. A planet would not hover over a bridge at close range, trigger a car failure, produce heat on faces, make an explosive sound and rise vertically. A meteor could produce brightness and a dramatic disappearance, but it would normally be brief, high in the sky and unrelated to a car stopping near a bridge. The Air Force file’s own summary noted no thunderstorms and good visibility, which weakens a simple storm-related explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
@@ -349,7 +343,6 @@ However, a sceptical reading does not need one perfect substitute object to rais
 Another weakness is that the object’s reported dimensions depend on distance estimates made in darkness. If the object was not actually at the bridge, then its size could be badly misjudged. If it was closer or farther than assumed, “75 to 100 feet long” becomes a rough impression rather than a measurement. This is especially relevant because some paperwork describes the men as level with or slightly above the object, while other summaries place it 100 to 150 feet above the bridge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UF O Report Loch Raven Dam E-M Case</span><span class="citation-popover-snippet">UF O Report Loch Raven Dam E-M Case</span></span></span>
 
 The most responsible conclusion is not that the witnesses were wrong, but that the evidence cannot force a single answer. The case remains compelling because several reported effects converge; it remains unresolved because all of those effects still pass through witness testimony rather than independent instruments.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jYpJIFiJHTw" title="Delegate continues sounding alarm on 103-year-old bridge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jYpJIFiJHTw" target="_blank" rel="noopener noreferrer">Delegate continues sounding alarm on 103-year-old bridge</a></p><p class="youtube-embed-meta">Channel: WBAL-TV 11 Baltimore &middot; Views: 3.4K &middot; Uploaded: December 2025 &middot; Length: 2 minutes 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jYpJIFiJHTw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jYpJIFiJHTw">Open on YouTube</a></p></div></div></div>
 
@@ -785,159 +778,159 @@ Within the state’s UFO history, Loch Raven remains the case most likely to be 
 1. <a id="endnote-1"></a>
    Source: nicap.org  
    Title: 581026lochravendam docs1  
-   Link: [https://www.nicap.org/docs/581026lochravendam_docs1.pdf](https://www.nicap.org/docs/581026lochravendam_docs1.pdf)  
+   Link: <a href="https://www.nicap.org/docs/581026lochravendam_docs1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/581026lochravendam_docs1.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: dnr.maryland.gov  
-   Link: [https://dnr.maryland.gov/wildlife/pages/publiclands/central/lochraven.aspx](https://dnr.maryland.gov/wildlife/pages/publiclands/central/lochraven.aspx)  
+   Link: <a href="https://dnr.maryland.gov/wildlife/pages/publiclands/central/lochraven.aspx" target="_blank" rel="noopener noreferrer nofollow">https://dnr.maryland.gov/wildlife/pages/publiclands/central/lochraven.aspx</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Loch Raven dam...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: [https://www.nicap.org/581026lochravendam_dir.htm](https://www.nicap.org/581026lochravendam_dir.htm)  
+   Link: <a href="https://www.nicap.org/581026lochravendam_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/581026lochravendam_dir.htm</a>  
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 5. <a id="endnote-5"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: tantor-site-assets.s3.amazonaws.com  
    Title: N8844 UFOExperience BonusPDF  
-   Link: [https://tantor-site-assets.s3.amazonaws.com/bonus-content/N8844_UFOExperience/N8844_UFOExperience_BonusPDF.pdf](https://tantor-site-assets.s3.amazonaws.com/bonus-content/N8844_UFOExperience/N8844_UFOExperience_BonusPDF.pdf)  
+   Link: <a href="https://tantor-site-assets.s3.amazonaws.com/bonus-content/N8844_UFOExperience/N8844_UFOExperience_BonusPDF.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tantor-site-assets.s3.amazonaws.com/bonus-content/N8844_UFOExperience/N8844_UFOExperience_BonusPDF.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: wypr.org  
    Title: out there alien invasions and unexplained ufo sightings in maryland  
-   Link: [https://www.wypr.org/wypr-podcast/2019-01-14/out-there-alien-invasions-and-unexplained-ufo-sightings-in-maryland](https://www.wypr.org/wypr-podcast/2019-01-14/out-there-alien-invasions-and-unexplained-ufo-sightings-in-maryland)  
+   Link: <a href="https://www.wypr.org/wypr-podcast/2019-01-14/out-there-alien-invasions-and-unexplained-ufo-sightings-in-maryland" target="_blank" rel="noopener noreferrer nofollow">https://www.wypr.org/wypr-podcast/2019-01-14/out-there-alien-invasions-and-unexplained-ufo-sightings-in-maryland</a>  
 
 8. <a id="endnote-8"></a>
    Source: nicap.org  
    Title: UF O Report Loch Raven Dam E-M Case  
-   Link: [https://www.nicap.org/reports/581026lochravendam_report2.htm](https://www.nicap.org/reports/581026lochravendam_report2.htm)  
+   Link: <a href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/581026lochravendam_report2.htm</a>  
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/foia/ufos.html](https://www.archives.gov/foia/ufos.html)  
+   Link: <a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: prologue.blogs.archives.gov  
    Title: ufos natural explanations  
-   Link: [https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/](https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
 
 11. <a id="endnote-11"></a>
    Source: msa.maryland.gov  
-   Link: [https://msa.maryland.gov/megafile/msa/speccol/sc1100/sc1198/000000/000002/000000/000059/pdf/mdsa_sc1198_2_59.pdf](https://msa.maryland.gov/megafile/msa/speccol/sc1100/sc1198/000000/000002/000000/000059/pdf/mdsa_sc1198_2_59.pdf)  
+   Link: <a href="https://msa.maryland.gov/megafile/msa/speccol/sc1100/sc1198/000000/000002/000000/000059/pdf/mdsa_sc1198_2_59.pdf" target="_blank" rel="noopener noreferrer nofollow">https://msa.maryland.gov/megafile/msa/speccol/sc1100/sc1198/000000/000002/000000/000059/pdf/mdsa_sc1198_2_59.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: roads.maryland.gov  
    Title: MDBridge Survey  
-   Link: [https://www.roads.maryland.gov/OPPEN/MDBridgeSurvey.pdf](https://www.roads.maryland.gov/OPPEN/MDBridgeSurvey.pdf)  
+   Link: <a href="https://www.roads.maryland.gov/OPPEN/MDBridgeSurvey.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.roads.maryland.gov/OPPEN/MDBridgeSurvey.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: baltimoremagazine.com  
    Title: ufo sightings in maryland  
-   Link: [https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/](https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/)  
+   Link: <a href="https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/" target="_blank" rel="noopener noreferrer nofollow">https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Baltimore MagazineUFO Sightings in Maryland Are More Common Than You Might Think (Published 2022)...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: loc.gov  
-   Link: [https://www.loc.gov/pictures/item/md1151/](https://www.loc.gov/pictures/item/md1151/)  
+   Link: <a href="https://www.loc.gov/pictures/item/md1151/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/pictures/item/md1151/</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Loch](https://en.wikipedia.org/wiki/Loch)  
+   Link: <a href="https://en.wikipedia.org/wiki/Loch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch</a>  
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Loch Raven Reservoir  
-   Link: [https://en.wikipedia.org/wiki/Loch_Raven_Reservoir](https://en.wikipedia.org/wiki/Loch_Raven_Reservoir)  
+   Link: <a href="https://en.wikipedia.org/wiki/Loch_Raven_Reservoir" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch_Raven_Reservoir</a>  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: J. Allen Hynek  
-   Link: [https://en.wikipedia.org/wiki/J._Allen_Hynek](https://en.wikipedia.org/wiki/J._Allen_Hynek)  
+   Link: <a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: Loch Raven Reservoir  
-   Link: [https://www.facebook.com/BaltimoreCityDepartmentofPublicWorks/posts/did-you-loch-raven-reservoir-is-one-of-the-sources-of-our-citys-drinking-water-h/1288533755829665/](https://www.facebook.com/BaltimoreCityDepartmentofPublicWorks/posts/did-you-loch-raven-reservoir-is-one-of-the-sources-of-our-citys-drinking-water-h/1288533755829665/)  
+   Link: <a href="https://www.facebook.com/BaltimoreCityDepartmentofPublicWorks/posts/did-you-loch-raven-reservoir-is-one-of-the-sources-of-our-citys-drinking-water-h/1288533755829665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BaltimoreCityDepartmentofPublicWorks/posts/did-you-loch-raven-reservoir-is-one-of-the-sources-of-our-citys-drinking-water-h/1288533755829665/</a>  
 
 20. <a id="endnote-20"></a>
    Source: findingaids.library.northwestern.edu  
-   Link: [https://findingaids.library.northwestern.edu/repositories/6/resources/373](https://findingaids.library.northwestern.edu/repositories/6/resources/373)  
+   Link: <a href="https://findingaids.library.northwestern.edu/repositories/6/resources/373" target="_blank" rel="noopener noreferrer nofollow">https://findingaids.library.northwestern.edu/repositories/6/resources/373</a>  
 
 21. <a id="endnote-21"></a>
    Source: instagram.com  
    Title: Loch Raven Reservoir  
-   Link: [https://www.instagram.com/reel/DXiX5cCkaEy/](https://www.instagram.com/reel/DXiX5cCkaEy/)  
+   Link: <a href="https://www.instagram.com/reel/DXiX5cCkaEy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXiX5cCkaEy/</a>  
 
 22. <a id="endnote-22"></a>
    Source: scribd.com  
    Title: The UFO Experience  
-   Link: [https://www.scribd.com/document/319738297/The-UFO-Experience-A-Scientific-Inquiry-J-Allen-Hynek](https://www.scribd.com/document/319738297/The-UFO-Experience-A-Scientific-Inquiry-J-Allen-Hynek)  
+   Link: <a href="https://www.scribd.com/document/319738297/The-UFO-Experience-A-Scientific-Inquiry-J-Allen-Hynek" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/319738297/The-UFO-Experience-A-Scientific-Inquiry-J-Allen-Hynek</a>  
 
 23. <a id="endnote-23"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/loch](https://dictionary.cambridge.org/dictionary/english/loch)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/loch" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/loch</a>  
 
 24. <a id="endnote-24"></a>
    Source: birdersguidemddc.org  
    Title: Loch Raven Reservoir  
-   Link: [https://birdersguidemddc.org/site/loch-raven-reservoir/](https://birdersguidemddc.org/site/loch-raven-reservoir/)  
+   Link: <a href="https://birdersguidemddc.org/site/loch-raven-reservoir/" target="_blank" rel="noopener noreferrer nofollow">https://birdersguidemddc.org/site/loch-raven-reservoir/</a>  
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: baltimorecountymd.gov  
-   Link: [https://www.baltimorecountymd.gov/departments/recreation/parks-directory/loch-raven-fishing-center](https://www.baltimorecountymd.gov/departments/recreation/parks-directory/loch-raven-fishing-center)  
+   Link: <a href="https://www.baltimorecountymd.gov/departments/recreation/parks-directory/loch-raven-fishing-center" target="_blank" rel="noopener noreferrer nofollow">https://www.baltimorecountymd.gov/departments/recreation/parks-directory/loch-raven-fishing-center</a>  
 
 26. <a id="endnote-26"></a>
    Source: usgs.gov  
-   Link: [https://www.usgs.gov/publications/sediment-accumulation-and-water-volume-loch-raven-reservoir-baltimore-county-maryland](https://www.usgs.gov/publications/sediment-accumulation-and-water-volume-loch-raven-reservoir-baltimore-county-maryland)  
+   Link: <a href="https://www.usgs.gov/publications/sediment-accumulation-and-water-volume-loch-raven-reservoir-baltimore-county-maryland" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/sediment-accumulation-and-water-volume-loch-raven-reservoir-baltimore-county-maryland</a>  
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=1YVFmNTRdb8](https://www.youtube.com/watch?v=1YVFmNTRdb8)  
+   Link: <a href="https://www.youtube.com/watch?v=1YVFmNTRdb8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1YVFmNTRdb8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in the Skies of Wheaton Maryland...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: visitscotland.com  
-   Link: [https://www.visitscotland.com/things-to-do/landscapes-nature/lochs](https://www.visitscotland.com/things-to-do/landscapes-nature/lochs)  
+   Link: <a href="https://www.visitscotland.com/things-to-do/landscapes-nature/lochs" target="_blank" rel="noopener noreferrer nofollow">https://www.visitscotland.com/things-to-do/landscapes-nature/lochs</a>  
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/maryland/comments/1ovrdbw/16s_exposure_from_the_bridge_over_loch_raven/](https://www.reddit.com/r/maryland/comments/1ovrdbw/16s_exposure_from_the_bridge_over_loch_raven/)  
+   Link: <a href="https://www.reddit.com/r/maryland/comments/1ovrdbw/16s_exposure_from_the_bridge_over_loch_raven/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/maryland/comments/1ovrdbw/16s_exposure_from_the_bridge_over_loch_raven/</a>  
 
 30. <a id="endnote-30"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/48776845/Alien_Reptiles_and_Amphibians_A_Scientific_Compendium_and_Analysis](https://www.academia.edu/48776845/Alien_Reptiles_and_Amphibians_A_Scientific_Compendium_and_Analysis)  
+   Link: <a href="https://www.academia.edu/48776845/Alien_Reptiles_and_Amphibians_A_Scientific_Compendium_and_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/48776845/Alien_Reptiles_and_Amphibians_A_Scientific_Compendium_and_Analysis</a>  
 
 31. <a id="endnote-31"></a>
    Source: bearmanormedia.com  
-   Link: [https://www.bearmanormedia.com/products/flying-saucers-from-beyond-the-earth-a-ufo-researchers-odyssey-softcover-edition-by-gordon-lore?srsltid=AfmBOoqwNmoSc6qrHEsuC1XEDjAh_6cE89_riWyLz8nBsjtlttFTUgqU](https://www.bearmanormedia.com/products/flying-saucers-from-beyond-the-earth-a-ufo-researchers-odyssey-softcover-edition-by-gordon-lore?srsltid=AfmBOoqwNmoSc6qrHEsuC1XEDjAh_6cE89_riWyLz8nBsjtlttFTUgqU)  
+   Link: <a href="https://www.bearmanormedia.com/products/flying-saucers-from-beyond-the-earth-a-ufo-researchers-odyssey-softcover-edition-by-gordon-lore?srsltid=AfmBOoqwNmoSc6qrHEsuC1XEDjAh_6cE89_riWyLz8nBsjtlttFTUgqU" target="_blank" rel="noopener noreferrer nofollow">https://www.bearmanormedia.com/products/flying-saucers-from-beyond-the-earth-a-ufo-researchers-odyssey-softcover-edition-by-gordon-lore?srsltid=AfmBOoqwNmoSc6qrHEsuC1XEDjAh_6cE89_riWyLz8nBsjtlttFTUgqU</a>  
 
 32. <a id="endnote-32"></a>
    Source: history.co.uk  
-   Link: [https://www.history.co.uk/shows/ancient-aliens/articles/famous-ufo-sightings](https://www.history.co.uk/shows/ancient-aliens/articles/famous-ufo-sightings)  
+   Link: <a href="https://www.history.co.uk/shows/ancient-aliens/articles/famous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/ancient-aliens/articles/famous-ufo-sightings</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/](https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/</a>  
 
 34. <a id="endnote-34"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt](https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt)  
+   Link: <a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>

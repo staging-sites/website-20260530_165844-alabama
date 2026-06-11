@@ -262,7 +262,7 @@ sibling_links:
   short_title: Michigan UFOs
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Alabama_d1f92d
   title: Alabama UFOs
@@ -277,9 +277,9 @@ sibling_links:
   permalink: /what-keeps-tennessees-ufo-stories-alive/
   short_title: Tennessee UFOs
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Idaho_18334c
   title: Idaho UFOs
   permalink: /what-makes-idaho-a-key-ufo-hotspot/
@@ -289,9 +289,9 @@ sibling_links:
   permalink: /what-makes-indianas-ufo-history-unique/
   short_title: Indiana UFOs
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: South_Carolina_11d001
   title: South Carolina UFOs
   permalink: /what-makes-south-carolinas-ufo-story/
@@ -481,7 +481,6 @@ image: /assets/images/Texas_98125d-overview-social.jpg
 
 Texas is unusually well suited to UFO history. It is geographically large, has vast rural skies, busy civil aviation corridors, military installations, oil-field and industrial activity, NASA’s Houston connection, and many communities where a spectacular sighting can quickly become a local story. The National UFO Reporting Center maintains a dedicated Texas report index, while its state-by-state location index places Texas among the heavier reporting states in its public database. That does not mean Texas has more “real” unknowns than other places; it means there are more reports to sort, compare and sometimes explain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lTX" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-
 <img src="{{ "/assets/images/Texas_98125d-overview.webp" | relative_url }}" alt="Overview image for Why Texas Became a UFO Archive" loading="eager" decoding="sync" fetchpriority="high">
 The state also sits across several eras of UFO culture. In 1897, Texas newspapers joined the “mystery airship” wave. In the 1950s, cases such as Lubbock and Levelland fed into the US Air Force’s official investigations. In 1980, Cash-Landrum became one of the rare UFO stories built around alleged physical injury. In 2008, Stephenville showed how a modern rural flap could combine local witnesses, fighter-jet claims, radar records and internet-era debate. More recently, Texas has also produced many ordinary-looking “UFO” scares caused by Starlink satellite trains and other visible space activity. TX Almanac <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
@@ -489,7 +488,7 @@ The important point for readers is that “Texas UFO history” is not one categ
 
 ## Aurora 1897: Texas folklore before the flying saucer age
 
-The [Aurora]({{ 'aurora/' | relative_url }}) story is the oldest famous Texas UFO case, and probably the weakest as physical evidence. According to local lore and later retellings, a cigar-shaped airship crashed into Judge J. S. Proctor’s windmill in Aurora, Wise County, on 17 April 1897, killing a pilot said to be “not of this world”. The City of Aurora now presents the tale as the history of “Ned”, the supposed alien buried in Aurora Cemetery, and notes that a Texas Historical Monument briefly describes the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[auroratexas.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-title">History | Aurora, TX</span><span class="citation-popover-snippet">History | Aurora, TX</span></span></span>
+The [Aurora]({{ 'aurora/' | relative_url }}) story is the oldest famous Texas UFO case, and probably the weakest as physical evidence. According to local lore and later retellings, a cigar-shaped airship crashed into Judge J. S. Proctor’s windmill in Aurora, Wise County, on 17 April 1897, killing a pilot said to be “not of this world”. The City of Aurora now presents the tale as the history of “Ned”, the supposed alien buried in Aurora Cemetery, and notes that a Texas Historical Monument briefly describes the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[auroratexas.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-title">History &#124; Aurora, TX</span><span class="citation-popover-snippet">History &#124; Aurora, TX</span></span></span>
 
 Its value is less as a proven crash case than as a window into pre-Roswell UFO culture. The Texas Almanac notes that between 13 and 17 April 1897 there were 38 reported “airship” sightings in 23 Texas counties, mostly in North Central Texas. That regional wave matters because Aurora was not an isolated claim; it was part of a wider press-driven moment when strange aerial machines were being reported before heavier-than-air powered flight became commonplace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">when airships invaded texas</span></span></span>
 
@@ -497,8 +496,7 @@ The sceptical case is strong. The Texas State Historical Association describes S
 
 Aurora therefore matters in Texas UFO history as folklore with staying power. It shows how an ambiguous or invented newspaper tale can become a local identity marker, a tourist curiosity and a durable UFO case. It should not be presented as a confirmed crash.
 
-
-<img src="{{ "/assets/images/Texas_98125d-Illustration-1-light.svg" | relative_url }}" alt="Why Texas Became a UFO Archive illustration 1" data-theme-src-dark="{{ "/assets/images/Texas_98125d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Texas_98125d-Illustration-1-dark.svg" | relative_url }}" alt="Why Texas Became a UFO Archive illustration 1" data-theme-src-dark="{{ "/assets/images/Texas_98125d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1950s: when Texas entered official UFO files
 
 The most serious mid-century Texas cases belong to the period when the US Air Force was formally collecting and evaluating UFO reports. Project Blue Book, the best-known Air Force programme, ran until 1969; the National Archives says its records are declassified and available for examination, and the Air Force fact sheet records 12,618 sightings, of which 701 remained “Unidentified”. The same fact sheet states that Blue Book found no evidence that UFOs represented a national security threat, unknown technology beyond scientific knowledge, or extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
@@ -510,7 +508,6 @@ That official conclusion is important, but it does not make the Texas cases unin
 The Lubbock Lights began in August 1951, when several professors from Texas Technological College, now Texas Tech University, reported formations of lights crossing the sky over Lubbock. The case received national attention because the witnesses included technically educated observers and because photographs later became associated with the sightings. Accounts connected with Project Blue Book describe repeated observations, not just one passing light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
 
 Lubbock remains memorable because the ingredients seem stronger than many UFO reports: multiple witnesses, repeated events, educated observers and imagery. Yet it is also a cautionary case. Lights at night are notoriously difficult to judge for size, distance and altitude. Later explanations have included birds reflecting city lights, astronomical or atmospheric misperception, and unrelated photographic anomalies. The most careful reading is that Lubbock is historically significant and partly unresolved in popular memory, but not a clean demonstration of an unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lubbock Lights</span><span class="citation-popover-snippet">Lubbock Lights</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FfasawhOo6k" title="UFO Sighting Reported by Hundreds of Witnesses | In Search Of (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FfasawhOo6k" target="_blank" rel="noopener noreferrer">UFO Sighting Reported by Hundreds of Witnesses | In Search Of (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 264.8K &middot; Uploaded: November 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FfasawhOo6k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FfasawhOo6k">Open on YouTube</a></p></div></div></div>
 
@@ -532,8 +529,7 @@ The weakness is that the case has never acquired the kind of independent evidenc
 
 For Texas UFO history, Cash-Landrum is best treated as unresolved and disputed rather than debunked in a simple sense or confirmed in an extraordinary one. It deserves attention because of the alleged injuries and litigation, but it also shows why medical claims, aircraft claims and government-responsibility claims need documentation beyond sincere testimony.
 
-
-<img src="{{ "/assets/images/Texas_98125d-Illustration-2-light.svg" | relative_url }}" alt="Why Texas Became a UFO Archive illustration 2" data-theme-src-dark="{{ "/assets/images/Texas_98125d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Texas_98125d-Illustration-2-dark.svg" | relative_url }}" alt="Why Texas Became a UFO Archive illustration 2" data-theme-src-dark="{{ "/assets/images/Texas_98125d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Stephenville 2008: the modern Texas case with radar arguments
 
 The Stephenville sightings of January 2008 are the defining modern Texas UFO flap. Witnesses around Dublin and Stephenville reported large, unusual lights or objects, and some accounts included claims of fighter jets in pursuit. The story quickly became national news because Stephenville was a small rural community, the witnesses were numerous, and the case arrived at a time when internet forums, local television and national media could amplify a sighting rapidly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/netflix-encounters-messengers-stephenville/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">15 Years Ago, UFO Sightings Rocked a Small Texas Town</span><span class="citation-popover-snippet">15 Years Ago, UFO Sightings Rocked a Small Texas Town</span></span></span>
@@ -552,7 +548,6 @@ This pattern is unsurprising. Military aircraft, exercises, flares, afterburners
 
 Texas adds one more factor: space visibility. Launches, satellite trains and re-entering debris can produce striking displays over wide areas. In 2025, for example, reports of strange strings of lights over Texas were widely attributed to SpaceX Starlink satellites after back-to-back launches. That kind of explanation does not solve older cases such as Cash-Landrum or Levelland, but it does show why modern UFO reporting must start with satellite, rocket and aircraft checks before reaching for stranger possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox4news.com/news/strange-lights-sky-texas-starlink-april-may-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox4news.com">[FOX 4 News Dallas-Fort Worth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox4news.com</span><span class="citation-popover-title">strange lights sky texas starlink april may 2025</span><span class="citation-popover-snippet">strange lights sky texas starlink april may 2025</span><span class="citation-popover-meta">Published: may 2025</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CIhGAev0ZU4" title="Project Blue Book: Declassified – The True Story of the Lubbock Lights | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CIhGAev0ZU4" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of the Lubbock Lights | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 45.0K &middot; Uploaded: February 2019 &middot; Length: 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CIhGAev0ZU4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CIhGAev0ZU4">Open on YouTube</a></p></div></div></div>
 
 ## What the best evidence can and cannot show
@@ -562,7 +557,6 @@ Texas’s strongest UFO evidence is not a single photograph or one spectacular w
 The weakest recurring evidence is the kind that appears most dramatic in folklore: alien bodies, secret wreckage, untraceable military recovery teams, vanished artefacts and claims that cannot be independently examined. Aurora is the clearest Texas example. It is a wonderful local legend and a useful cultural case, but as evidence it rests on a fragile foundation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tshaonline.org/texas-day-by-day/entry/118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tshaonline.org">[Texas State Historical Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tshaonline.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The most common mistake is to treat “unidentified” as meaning “extraordinary”. NASA’s UAP material makes the modern scientific point clearly: the limited number of high-quality observations makes it impossible to draw firm conclusions about the nature of many UAP events, and NASA says there are no data supporting the idea that UAP are evidence of alien technologies. That does not mean all reports are false. It means the evidence often cannot carry the weight placed on it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t6sV0LIy7GI" title="The Cash - Landrum UFO Encounter | Dark Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer">The Cash - Landrum UFO Encounter | Dark Mysteries</a></p><p class="youtube-embed-meta">Channel: Hometown Ghost Stories &middot; Views: 416 &middot; Uploaded: November 2025 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t6sV0LIy7GI">Open on YouTube</a></p></div></div></div>
 
@@ -580,8 +574,7 @@ A balanced Texas UFO history should neither laugh off every witness nor accept e
 
 **Did later reporting strengthen or weaken the case?** Stephenville gained seriousness from radar-oriented follow-up, but also gained complexity because military-aircraft explanations and data-interpretation disputes entered the record. Cash-Landrum gained attention from medical and legal claims, but weakened where independent corroboration failed to appear. The Black Vault <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span>
 
-
-<img src="{{ "/assets/images/Texas_98125d-Illustration-3-light.svg" | relative_url }}" alt="Why Texas Became a UFO Archive illustration 3" data-theme-src-dark="{{ "/assets/images/Texas_98125d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Texas_98125d-Illustration-3-dark.svg" | relative_url }}" alt="Why Texas Became a UFO Archive illustration 3" data-theme-src-dark="{{ "/assets/images/Texas_98125d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Texas takeaway
 
 Texas is not a UFO footnote. It is one of the best state-level laboratories for seeing how UFO history is made. Aurora shows folklore forming around a newspaper-era airship tale. Lubbock and Levelland show the strengths and weaknesses of Project Blue Book-era investigation. Cash-Landrum shows how a terrifying personal account can remain unresolved while still lacking decisive corroboration. Stephenville shows how modern flaps are shaped by witnesses, radar data, military explanations and media attention.
@@ -674,7 +667,7 @@ The most honest conclusion is that Texas contains several important unresolved o
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -684,111 +677,36 @@ The most honest conclusion is that Texas contains several important unresolved o
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display"><img src="{{ '/assets/images/marketplace-covers/27c78e3de724e607809d.jpg' | relative_url }}" alt="Listing image for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="https://i.ebayimg.com/images/g/B7QAAeSw73loHdMA/s-l225.jpg" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT"><img src="{{ '/assets/images/marketplace-covers/c4fa2fd111d52b7bddcf.jpg' | relative_url }}" alt="Listing image for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -796,15 +714,15 @@ The most honest conclusion is that Texas contains several important unresolved o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S"><img src="https://i.ebayimg.com/images/g/yRcAAOSwWhdmw231/s-l225.jpg" alt="Listing image for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -812,15 +730,15 @@ The most honest conclusion is that Texas contains several important unresolved o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/o-YAAOSwKopk5fnY/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -828,15 +746,15 @@ The most honest conclusion is that Texas contains several important unresolved o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/ecc3da59eb1d0848e57f.jpg' | relative_url }}" alt="Listing image for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth"><img src="https://i.ebayimg.com/images/g/VF0AAeSwVpBpJZso/s-l225.jpg" alt="Listing image for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -844,7 +762,7 @@ The most honest conclusion is that Texas contains several important unresolved o
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-texas-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-texas-became-a-ufo-archive-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -921,17 +839,31 @@ The most honest conclusion is that Texas contains several important unresolved o
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -944,42 +876,73 @@ The most honest conclusion is that Texas contains several important unresolved o
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -994,12 +957,17 @@ The most honest conclusion is that Texas contains several important unresolved o
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -1010,196 +978,196 @@ The most honest conclusion is that Texas contains several important unresolved o
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
    Title: Unclassified Final DSD AARO Historical Report  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lTX](https://nuforc.org/subndx/?id=lTX)  
+   Link: <a href="https://nuforc.org/subndx/?id=lTX" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lTX</a>  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
    Title: Reports by Location NUFORC Reports by Location; USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 6. <a id="endnote-6"></a>
    Source: fox4news.com  
    Title: strange lights sky texas starlink april may 2025  
-   Link: [https://www.fox4news.com/news/strange-lights-sky-texas-starlink-april-may-2025](https://www.fox4news.com/news/strange-lights-sky-texas-starlink-april-may-2025)  
+   Link: <a href="https://www.fox4news.com/news/strange-lights-sky-texas-starlink-april-may-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.fox4news.com/news/strange-lights-sky-texas-starlink-april-may-2025</a>  
    Published: may 2025  
 
 7. <a id="endnote-7"></a>
    Source: auroratexas.gov  
    Title: History | Aurora, TX  
-   Link: [https://www.auroratexas.gov/community/history/](https://www.auroratexas.gov/community/history/)  
+   Link: <a href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.auroratexas.gov/community/history/</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Aurora, Texas, UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident](https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Lubbock Lights  
-   Link: [https://en.wikipedia.org/wiki/Lubbock_Lights](https://en.wikipedia.org/wiki/Lubbock_Lights)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lubbock_Lights</a>  
 
 10. <a id="endnote-10"></a>
    Source: history.com  
    Title: lubbock lights ufo sightings  
-   Link: [https://www.history.com/articles/lubbock-lights-ufo-sightings](https://www.history.com/articles/lubbock-lights-ufo-sightings)  
+   Link: <a href="https://www.history.com/articles/lubbock-lights-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/lubbock-lights-ufo-sightings</a>  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Levelland UFO case  
-   Link: [https://en.wikipedia.org/wiki/Levelland_UFO_case](https://en.wikipedia.org/wiki/Levelland_UFO_case)  
+   Link: <a href="https://en.wikipedia.org/wiki/Levelland_UFO_case" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Levelland_UFO_case</a>  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: [https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident](https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
 13. <a id="endnote-13"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: vice.com  
    Title: 15 Years Ago, UFO Sightings Rocked a Small Texas Town  
-   Link: [https://www.vice.com/en/article/netflix-encounters-messengers-stephenville/](https://www.vice.com/en/article/netflix-encounters-messengers-stephenville/)  
+   Link: <a href="https://www.vice.com/en/article/netflix-encounters-messengers-stephenville/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/netflix-encounters-messengers-stephenville/</a>  
 
 15. <a id="endnote-15"></a>
    Source: chron.com  
    Title: Declassified UFO files reveal strange sightings over Texas military sites  
-   Link: [https://www.chron.com/news/space/article/texas-fbi-ufo-files-22249510.php](https://www.chron.com/news/space/article/texas-fbi-ufo-files-22249510.php)  
+   Link: <a href="https://www.chron.com/news/space/article/texas-fbi-ufo-files-22249510.php" target="_blank" rel="noopener noreferrer nofollow">https://www.chron.com/news/space/article/texas-fbi-ufo-files-22249510.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Notable cases include a dramatic 1949 sighting at Fort Worth&#x27;s Carswell Air Force Base of a fast-moving, silver, ball-shaped object; and...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 17. <a id="endnote-17"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 21. <a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 22. <a id="endnote-22"></a>
    Source: blog.newspapers.com  
    Title: before roswell there was the aurora spaceship  
-   Link: [https://blog.newspapers.com/before-roswell-there-was-the-aurora-spaceship/](https://blog.newspapers.com/before-roswell-there-was-the-aurora-spaceship/)  
+   Link: <a href="https://blog.newspapers.com/before-roswell-there-was-the-aurora-spaceship/" target="_blank" rel="noopener noreferrer nofollow">https://blog.newspapers.com/before-roswell-there-was-the-aurora-spaceship/</a>  
 
 23. <a id="endnote-23"></a>
    Source: texasalmanac.com  
    Title: when airships invaded texas  
-   Link: [https://www.texasalmanac.com/articles/when-airships-invaded-texas](https://www.texasalmanac.com/articles/when-airships-invaded-texas)  
+   Link: <a href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow">https://www.texasalmanac.com/articles/when-airships-invaded-texas</a>  
 
 24. <a id="endnote-24"></a>
    Source: tshaonline.org  
-   Link: [https://www.tshaonline.org/texas-day-by-day/entry/118](https://www.tshaonline.org/texas-day-by-day/entry/118)  
+   Link: <a href="https://www.tshaonline.org/texas-day-by-day/entry/118" target="_blank" rel="noopener noreferrer nofollow">https://www.tshaonline.org/texas-day-by-day/entry/118</a>  
 
 25. <a id="endnote-25"></a>
    Source: theblackvault.com  
    Title: the vault files the levelland ufo incident 1957  
-   Link: [https://www.theblackvault.com/casefiles/the-vault-files-the-levelland-ufo-incident-1957/](https://www.theblackvault.com/casefiles/the-vault-files-the-levelland-ufo-incident-1957/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/the-vault-files-the-levelland-ufo-incident-1957/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-vault-files-the-levelland-ufo-incident-1957/</a>  
 
 26. <a id="endnote-26"></a>
    Source: documents.theblackvault.com  
    Title: The Black Vault MUFON UFO Journal  
-   Link: [https://documents.theblackvault.com/documents/MUFON/Journals/2008/August_2008.pdf](https://documents.theblackvault.com/documents/MUFON/Journals/2008/August_2008.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/MUFON/Journals/2008/August_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/MUFON/Journals/2008/August_2008.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: newsroom.ap.org  
-   Link: [https://newsroom.ap.org/editorial-photos-videos/detail?allFilters=&b=e78af7&current=6&hits=350&itemid=4a6cc60853217df23beff1e20fe78af7&mediatype=video&orderBy=Relevance&page=1&productType=IncludedProducts&query=UFO&referrer=search&search=%2Fsearch%3Fquery%3DUFO](https://newsroom.ap.org/editorial-photos-videos/detail?allFilters=&b=e78af7&current=6&hits=350&itemid=4a6cc60853217df23beff1e20fe78af7&mediatype=video&orderBy=Relevance&page=1&productType=IncludedProducts&query=UFO&referrer=search&search=%2Fsearch%3Fquery%3DUFO)  
+   Link: <a href="https://newsroom.ap.org/editorial-photos-videos/detail?allFilters=&amp;b=e78af7&amp;current=6&amp;hits=350&amp;itemid=4a6cc60853217df23beff1e20fe78af7&amp;mediatype=video&amp;orderBy=Relevance&amp;page=1&amp;productType=IncludedProducts&amp;query=UFO&amp;referrer=search&amp;search=%2Fsearch%3Fquery%3DUFO" target="_blank" rel="noopener noreferrer nofollow">https://newsroom.ap.org/editorial-photos-videos/detail?allFilters=&amp;b=e78af7&amp;current=6&amp;hits=350&amp;itemid=4a6cc60853217df23beff1e20fe78af7&amp;mediatype=video&amp;orderBy=Relevance&amp;page=1&amp;productType=IncludedProducts&amp;query=UFO&amp;referrer=search&amp;search=%2Fsearch%3Fquery%3DUFO</a>  
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: [https://www.youtube.com/watch?v=t6sV0LIy7GI](https://www.youtube.com/watch?v=t6sV0LIy7GI)  
+   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
 
 29. <a id="endnote-29"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&page=1](https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&page=1)  
+   Link: <a href="https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&amp;page=1</a>  
 
 30. <a id="endnote-30"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/10581488](https://zenodo.org/records/10581488)  
+   Link: <a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
 
 31. <a id="endnote-31"></a>
    Source: unsolved.com  
    Title: Texas UFO  
-   Link: [https://unsolved.com/gallery/texas-ufo/](https://unsolved.com/gallery/texas-ufo/)  
+   Link: <a href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/texas-ufo/</a>  
 
 ### Additional References
 
 32. <a id="endnote-32"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/57c6c3190457d5188d59745df2e0bd3c](https://apnews.com/article/57c6c3190457d5188d59745df2e0bd3c)  
+   Link: <a href="https://apnews.com/article/57c6c3190457d5188d59745df2e0bd3c" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/57c6c3190457d5188d59745df2e0bd3c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The phenomenon gained traction in pop culture with films like &quot;The Flying Saucer&quot; (1950), &quot;Close Encounters of the Third Kind&quot; (1977), an...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified – The True Story of the Lubbock Lights | History  
-   Link: [https://www.youtube.com/watch?v=CIhGAev0ZU4](https://www.youtube.com/watch?v=CIhGAev0ZU4)  
+   Link: <a href="https://www.youtube.com/watch?v=CIhGAev0ZU4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CIhGAev0ZU4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When 300 UFO Sightings Were Reported in Texas...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/UFO/?type=.pdf](https://www.war.gov/UFO/?type=.pdf)  
+   Link: <a href="https://www.war.gov/UFO/?type=.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/?type=.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: Why This UFO Sighting Was Different | Monstrum  
-   Link: [https://www.youtube.com/watch?v=dHGn_yPSgg0](https://www.youtube.com/watch?v=dHGn_yPSgg0)  
+   Link: <a href="https://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dHGn_yPSgg0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Declassified – The True Story of the Lubbock Lights | History...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: The Cash-Landrum Encounter: A Night of Unearthly Light  
-   Link: [https://www.youtube.com/watch?v=gkjzXCGBw-w](https://www.youtube.com/watch?v=gkjzXCGBw-w)  
+   Link: <a href="https://www.youtube.com/watch?v=gkjzXCGBw-w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gkjzXCGBw-w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“You Seeing This?” | Real UFO Stories From Texas...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/foxsanantonio/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-sparking-renewed-public-in/1396808059161361/](https://www.facebook.com/foxsanantonio/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-sparking-renewed-public-in/1396808059161361/)  
+   Link: <a href="https://www.facebook.com/foxsanantonio/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-sparking-renewed-public-in/1396808059161361/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxsanantonio/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-sparking-renewed-public-in/1396808059161361/</a>  
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/foxokc/posts/aliens-or-no-a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh/1408666034639929/](https://www.facebook.com/foxokc/posts/aliens-or-no-a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh/1408666034639929/)  
+   Link: <a href="https://www.facebook.com/foxokc/posts/aliens-or-no-a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh/1408666034639929/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxokc/posts/aliens-or-no-a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh/1408666034639929/</a>  
 
 39. <a id="endnote-39"></a>
    Source: believingthebizarre.com  
-   Link: [https://believingthebizarre.com/aliens/](https://believingthebizarre.com/aliens/)  
+   Link: <a href="https://believingthebizarre.com/aliens/" target="_blank" rel="noopener noreferrer nofollow">https://believingthebizarre.com/aliens/</a>  
 
 40. <a id="endnote-40"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1rdpmnr/can_we_finally_explain_this_infamous_ufo_mystery/](https://www.reddit.com/r/UFOs/comments/1rdpmnr/can_we_finally_explain_this_infamous_ufo_mystery/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1rdpmnr/can_we_finally_explain_this_infamous_ufo_mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rdpmnr/can_we_finally_explain_this_infamous_ufo_mystery/</a>  
 
 41. <a id="endnote-41"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/](https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>

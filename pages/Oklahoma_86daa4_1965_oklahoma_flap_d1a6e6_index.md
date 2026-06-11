@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /oklahoma-86daa4-1965-oklahoma-flap/
 description: Focused pages that expand on 1965 Flap.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6
-parent_title: 1965 Flap | Why Oklahoma Became a UFO State
+parent_title: 1965 Flap
 parent_nav_short_title: 1965 Flap
 parent_permalink: /1965-flap/
 ---

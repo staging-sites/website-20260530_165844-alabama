@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /eagle-river/
 nav_short_title: Pancake Tests
 title: Did the Pancake Tests Prove Anything?
-title_full: Did the Pancake Tests Prove Anything? | Eagle River
+title_full: Did the Pancake Tests Prove Anything?
 display_title_short: Pancake Tests
 display_title: Pancake Tests
 heading_title: Did the Pancake Tests Prove Anything?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:30:18'
-parent_title: Did Eagle River's Pancakes Prove Anything? | Wisconsin UFOs
+parent_title: Did Eagle River's Pancakes Prove Anything?
 parent_permalink: /eagle-river/
 parent_nav_short_title: Eagle River
 parent_heading_title: Did Eagle River's Pancakes Prove Anything?
@@ -252,16 +252,14 @@ image: /assets/images/Wisconsin_52b248_eagle_river_pancakes_746031_pancake_testi
 
 The most unusual part of the 1961 [Eagle River]({{ 'eagle-river/' | relative_url }}) incident was not the reported flying saucer. It was the food. Joe Simonton claimed that occupants of a landed craft handed him several small pancake-like cakes after he provided them with water. Unlike many UFO reports, this story appeared to leave behind a physical object that could be examined in a laboratory.
 
-
-<img src="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031_pancake_testing_limi_b36ce3-Illustration-1-light.svg" | relative_url }}" alt="Pancake Tests illustration 1" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031_pancake_testing_limi_b36ce3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031_pancake_testing_limi_b36ce3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The tests made the case famous, but they also exposed a basic problem in UFO evidence. A laboratory can analyse what an object is made of. It usually cannot determine where that object came from. In the Eagle River case, the reported findings suggested an ordinary terrestrial food product. Yet even if the cakes had contained something unusual, investigators still would have faced questions about how the sample was obtained, preserved and verified. The pancake tests therefore became an important lesson in the limits of physical evidence within [Wisconsin]({{ 'what-really-made-wisconsin-a-ufo-state/' | relative_url }}) UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_NICAP_Simonton-CE-III.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">•f Eagle River,Wisconsin,and also included therein one of the alleged &quot;pan cakes...Read more...</span></span></span>
+<img src="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031_pancake_testing_limi_b36ce3-Illustration-1-dark.svg" | relative_url }}" alt="Pancake Tests illustration 1" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031_pancake_testing_limi_b36ce3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031_pancake_testing_limi_b36ce3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+The tests made the case famous, but they also exposed a basic problem in UFO evidence. A laboratory can analyse what an object is made of. It usually cannot determine where that object came from. In the Eagle River case, the reported findings suggested an ordinary terrestrial food product. Yet even if the cakes had contained something unusual, investigators still would have faced questions about how the sample was obtained, preserved and verified. The pancake tests therefore became an important lesson in the limits of physical evidence within Wisconsin UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_NICAP_Simonton-CE-III.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">•f Eagle River,Wisconsin,and also included therein one of the alleged &quot;pan cakes...Read more...</span></span></span>
 
 ## What laboratories reportedly found in the cakes
 
 The surviving descriptions of the testing are remarkably consistent. Samples were reportedly examined through Air Force channels and by a Food and Drug Administration-associated laboratory within the Department of Health, Education and Welfare. According to later summaries of the findings, microscopic analysis identified common food ingredients rather than unknown substances. The reported composition included hydrogenated fat, starch, buckwheat hulls, wheat bran and soybean hulls. Radiation and bacteriological tests reportedly produced normal results. Chemical and infrared examinations also failed to identify anything extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_NICAP_Simonton-CE-III.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">•f Eagle River,Wisconsin,and also included therein one of the alleged &quot;pan cakes...Read more...</span></span></span> Reddit The conclusion generally attributed to the laboratory work was straightforward: the material appeared to be an ordinary pancake of terrestria <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Throawaylien/comments/oet29f/the_eagle_river_incident_caused_me_thinking_about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Open source on reddit.com.</span></span></span> l origin. In some later retellings, the result was simplified even further into claims that the cakes were essentially buckwheat pancakes. Facebook CriticalPast That finding immediately reduced the evidential value many UFO enthusiasts hoped the samples would provide. The tests did not reveal exotic m <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.criticalpast.com/video/65675039958_Joe-Simonton_flying-saucer_civilian-Joes-experience-to-meet-an-alien_ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: criticalpast.com">[criticalpast.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">criticalpast.com</span><span class="citation-popover-title">Critical Past HD Stock Video Footage</span><span class="citation-popover-snippet">Simonton shares his experience of an encounter with 5 foot tall aliens on the UFO. He says that he gave the alien some water to drink aft...</span></span></span> etals, unknown biological compounds, unusual isotopes or signs of non-terrestrial manufacture. Instead, the laboratory results pointed toward ingredients that could be found in ordinary agricultural products available in rural Wisconsin in 1961. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_NICAP_Simonton-CE-III.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">•f Eagle River,Wisconsin,and also included therein one of the alleged &quot;pan cakes...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Throawaylien/comments/oet29f/the_eagle_river_incident_caused_me_thinking_about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Open source on reddit.com.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a7MmWf8f_wc" title="Mindless Banter 139: Joe Simonton &amp; the Alien Pancakes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a7MmWf8f_wc" target="_blank" rel="noopener noreferrer">Mindless Banter 139: Joe Simonton &amp; the Alien Pancakes</a></p><p class="youtube-embed-meta">Channel: Casual Preppers Podcast &middot; Views: 360 &middot; Uploaded: January 2026 &middot; Length: 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a7MmWf8f_wc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a7MmWf8f_wc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PXw0AN9S_5A" title="WEIRD WISCONSIN: Eagle River &amp; Joe Simonton&#x27;s BIZARRE UFO Pancakes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PXw0AN9S_5A" target="_blank" rel="noopener noreferrer">WEIRD WISCONSIN: Eagle River &amp; Joe Simonton&#x27;s BIZARRE UFO Pancakes</a></p><p class="youtube-embed-meta">Channel: SightseeingSally &middot; Views: 7.2K &middot; Uploaded: September 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PXw0AN9S_5A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PXw0AN9S_5A">Open on YouTube</a></p></div></div></div>
 
 ## Why composition is not the same as origin
 
@@ -269,10 +267,9 @@ The Eagle River case is useful because it highlights a distinction that is often
 
 Suppose the laboratory findings were accepted completely. They would show only that the cakes contained familiar food ingredients. They would not answer several larger questions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Who made them? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/AFmuseum/posts/welcome-back-to-tour-the-vault-tuesday-its-a-bird-its-a-plane-its-apancakeunited/558555496304340/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookNational Museum of the U.S. Air ForceProject Blue Book analysis of the supposed space pancakes showed them to be made of fat, sta...</span></span></span>
+* Who made them? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/AFmuseum/posts/welcome-back-to-tour-the-vault-tuesday-its-a-bird-its-a-plane-its-apancakeunited/558555496304340/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">National Museum of the U.S. Air ForceProject Blue Book analysis of the supposed space pancakes showed them to be made of fat, sta...</span></span></span>
 * When were they made?
 * Where were they made?
 * How did they come into Simonton's possession?
@@ -285,7 +282,6 @@ A laboratory could identify buckwheat hulls and starch. It could not reconstruct
 The reverse problem also applies. Had the cakes contained an unusual ingredient, that still would not automatically have proved extraterrestrial origin. Scientists would have needed to rule out contamination, misidentification, experimental error and terrestrial sources before drawing stronger conclusions. The tests could speak to the material. They could not independently verify the story attached to the material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_NICAP_Simonton-CE-III.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">•f Eagle River,Wisconsin,and also included therein one of the alleged &quot;pan cakes...Read more...</span></span></span>
 
 This is why the [Eagle River pancakes]({{ 'eagle-river/' | relative_url }}) remain an interesting evidential case despite their apparently mundane composition. The gap between analysing an object and proving its provenance became the central issue.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MaKZPy9NPYk" title="We Found Missing Evidence from the Weirdest UFO Encounter | Episode 21 | Haunted Objects Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MaKZPy9NPYk" target="_blank" rel="noopener noreferrer">We Found Missing Evidence from the Weirdest UFO Encounter | Episode 21 | Haunted Objects Podcast</a></p><p class="youtube-embed-meta">Channel: Planet Weird &middot; Views: 92.7K &middot; Uploaded: July 2024 &middot; Length: 1 hour 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MaKZPy9NPYk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MaKZPy9NPYk">Open on YouTube</a></p></div></div></div>
 
@@ -301,7 +297,6 @@ According to accounts from the period, Simonton retained some cakes, ate part of
 
 Several consequences followed:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The tested material was not collected under controlled scientific conditions.
@@ -315,8 +310,7 @@ None of this proves tampering or fraud. It simply means the evidential strength 
 
 In modern terms, investigators were trying to use laboratory science on an object whose history could not be securely documented. The tests could establish what was present in the cake fragments. They could not establish an unbroken connection between those fragments and the extraordinary claim attached to them.
 
-
-<img src="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031_pancake_testing_limi_b36ce3-Illustration-2-light.svg" | relative_url }}" alt="Pancake Tests illustration 2" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031_pancake_testing_limi_b36ce3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031_pancake_testing_limi_b36ce3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031_pancake_testing_limi_b36ce3-Illustration-2-dark.svg" | relative_url }}" alt="Pancake Tests illustration 2" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031_pancake_testing_limi_b36ce3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031_pancake_testing_limi_b36ce3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Hynek and other investigators could actually conclude
 
 One reason the case endured is that some investigators distinguished between the witness and the evidence.
@@ -324,7 +318,6 @@ One reason the case endured is that some investigators distinguished between the
 J. Allen Hynek, who later became one of the most influential figures in UFO research, visited Eagle River and examined the circumstances of the case. Accounts associated with the investigation generally suggest that Hynek did not dismiss Simonton as an obvious liar or publicity-seeker. At the same time, neither Hynek nor the laboratory findings produced evidence capable of confirming the reported encounter as an extraterrestrial event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://strangestrangestrange.com/paranormal/ufo/joe-simonton-and-the-alien-pancakes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strangestrangestrange.com">[Strange Strange Strange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strangestrangestrange.com</span><span class="citation-popover-title">joe simonton and the alien pancakes</span><span class="citation-popover-snippet">Strange Strange Strange1961 Joe Simonton and the Alien Pancakes31 Mar 2023 — In 1961, Joe Simonton, a farmer from Eagle River, Wisconsin...</span></span></span>
 
 That left investigators in an uncomfortable middle position. They could say that:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -337,8 +330,7 @@ That left investigators in an uncomfortable middle position. They could say that
 
 Those conclusions are less dramatic than either believers or sceptics often prefer. Yet they probably describe the actual state of the evidence more accurately than claims that the pancakes either proved alien contact or completely disproved the story.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PXw0AN9S_5A" title="WEIRD WISCONSIN: Eagle River &amp; Joe Simonton&#x27;s BIZARRE UFO Pancakes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PXw0AN9S_5A" target="_blank" rel="noopener noreferrer">WEIRD WISCONSIN: Eagle River &amp; Joe Simonton&#x27;s BIZARRE UFO Pancakes</a></p><p class="youtube-embed-meta">Channel: SightseeingSally &middot; Views: 7.2K &middot; Uploaded: September 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PXw0AN9S_5A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PXw0AN9S_5A">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a7MmWf8f_wc" title="Mindless Banter 139: Joe Simonton &amp; the Alien Pancakes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a7MmWf8f_wc" target="_blank" rel="noopener noreferrer">Mindless Banter 139: Joe Simonton &amp; the Alien Pancakes</a></p><p class="youtube-embed-meta">Channel: Casual Preppers Podcast &middot; Views: 360 &middot; Uploaded: January 2026 &middot; Length: 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a7MmWf8f_wc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a7MmWf8f_wc">Open on YouTube</a></p></div></div></div>
 
 ## Why the pancake tests still matter in Wisconsin UFO history
 
@@ -350,8 +342,7 @@ The tests answered one question reasonably well: what the cakes were made of. Th
 
 That distinction explains why the case still appears in discussions of Wisconsin's UFO history more than sixty years later. The pancakes were real enough to analyse, but the analysis could not bridge the gap between an ordinary food sample and an extraordinary claim. The result was neither confirmation nor complete debunking. Instead, the Eagle River incident became a classic example of the limits of physical evidence when the origin of that evidence cannot be independently established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_NICAP_Simonton-CE-III.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">•f Eagle River,Wisconsin,and also included therein one of the alleged &quot;pan cakes...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/StrangeEarth/comments/14raafw/joe_simontons_grey_alien_encounter_who_said_he/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">it was analyzed and found to be a plain buckwheat pancake.Read more...</span></span></span>
 
-
-<img src="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031_pancake_testing_limi_b36ce3-Illustration-3-light.svg" | relative_url }}" alt="Pancake Tests illustration 3" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031_pancake_testing_limi_b36ce3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031_pancake_testing_limi_b36ce3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031_pancake_testing_limi_b36ce3-Illustration-3-dark.svg" | relative_url }}" alt="Pancake Tests illustration 3" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031_pancake_testing_limi_b36ce3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031_pancake_testing_limi_b36ce3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -774,124 +765,124 @@ That distinction explains why the case still appears in discussions of Wisconsin
 
 1. <a id="endnote-1"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Throawaylien/comments/oet29f/the_eagle_river_incident_caused_me_thinking_about/](https://www.reddit.com/r/Throawaylien/comments/oet29f/the_eagle_river_incident_caused_me_thinking_about/)  
+   Link: <a href="https://www.reddit.com/r/Throawaylien/comments/oet29f/the_eagle_river_incident_caused_me_thinking_about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Throawaylien/comments/oet29f/the_eagle_river_incident_caused_me_thinking_about/</a>  
 
 2. <a id="endnote-2"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AFmuseum/posts/welcome-back-to-tour-the-vault-tuesday-its-a-bird-its-a-plane-its-apancakeunited/558555496304340/](https://www.facebook.com/AFmuseum/posts/welcome-back-to-tour-the-vault-tuesday-its-a-bird-its-a-plane-its-apancakeunited/558555496304340/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookNational Museum of the U.S. Air ForceProject Blue Book analysis of the supposed space pancakes showed them to be made of fat, sta...</p></details>
+   Link: <a href="https://www.facebook.com/AFmuseum/posts/welcome-back-to-tour-the-vault-tuesday-its-a-bird-its-a-plane-its-apancakeunited/558555496304340/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AFmuseum/posts/welcome-back-to-tour-the-vault-tuesday-its-a-bird-its-a-plane-its-apancakeunited/558555496304340/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Museum of the U.S. Air ForceProject Blue Book analysis of the supposed space pancakes showed them to be made of fat, sta...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: criticalpast.com  
    Title: Critical Past HD Stock Video Footage  
-   Link: [https://www.criticalpast.com/video/65675039958_Joe-Simonton_flying-saucer_civilian-Joes-experience-to-meet-an-alien_ufo](https://www.criticalpast.com/video/65675039958_Joe-Simonton_flying-saucer_civilian-Joes-experience-to-meet-an-alien_ufo)  
+   Link: <a href="https://www.criticalpast.com/video/65675039958_Joe-Simonton_flying-saucer_civilian-Joes-experience-to-meet-an-alien_ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalpast.com/video/65675039958_Joe-Simonton_flying-saucer_civilian-Joes-experience-to-meet-an-alien_ufo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simonton shares his experience of an encounter with 5 foot tall aliens on the UFO. He says that he gave the alien some water to drink aft...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BBCArchive/posts/meet-joe-simonton-a-retired-wisconsin-plumber-who-told-dr-stephen-black-about-a-/749396144151982/](https://www.facebook.com/BBCArchive/posts/meet-joe-simonton-a-retired-wisconsin-plumber-who-told-dr-stephen-black-about-a-/749396144151982/)  
+   Link: <a href="https://www.facebook.com/BBCArchive/posts/meet-joe-simonton-a-retired-wisconsin-plumber-who-told-dr-stephen-black-about-a-/749396144151982/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/posts/meet-joe-simonton-a-retired-wisconsin-plumber-who-told-dr-stephen-black-about-a-/749396144151982/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>a bizarre encounter he had with a UFO and three aliens who offered him pancakes.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
    Title: joe simonton holds one of the pancakes made for him by aliens at his home in eag  
-   Link: [https://www.facebook.com/wisconsinfrights/posts/joe-simonton-holds-one-of-the-pancakes-made-for-him-by-aliens-at-his-home-in-eag/1138935153696746/](https://www.facebook.com/wisconsinfrights/posts/joe-simonton-holds-one-of-the-pancakes-made-for-him-by-aliens-at-his-home-in-eag/1138935153696746/)  
+   Link: <a href="https://www.facebook.com/wisconsinfrights/posts/joe-simonton-holds-one-of-the-pancakes-made-for-him-by-aliens-at-his-home-in-eag/1138935153696746/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wisconsinfrights/posts/joe-simonton-holds-one-of-the-pancakes-made-for-him-by-aliens-at-his-home-in-eag/1138935153696746/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is just one of Wisconsin&#x27;s strangest UFO stories.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BBCArchive/videos/1968-flying-saucers-and-the-pancakes-from-outer-space/1250777623109321/](https://www.facebook.com/BBCArchive/videos/1968-flying-saucers-and-the-pancakes-from-outer-space/1250777623109321/)  
+   Link: <a href="https://www.facebook.com/BBCArchive/videos/1968-flying-saucers-and-the-pancakes-from-outer-space/1250777623109321/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/videos/1968-flying-saucers-and-the-pancakes-from-outer-space/1250777623109321/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>out a bizarre encounter he had with a UFO and three aliens who offered him pancakes...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/333827440359540/posts/1116543158754627/](https://www.facebook.com/groups/333827440359540/posts/1116543158754627/)  
+   Link: <a href="https://www.facebook.com/groups/333827440359540/posts/1116543158754627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/333827440359540/posts/1116543158754627/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens came to Wisconsin in 1961 and served Eagle River...Bizarre UFO Encounter Of US Farmer: Three Aliens Gave Him Pancakes? #alien #UF...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/14raafw/joe_simontons_grey_alien_encounter_who_said_he/](https://www.reddit.com/r/StrangeEarth/comments/14raafw/joe_simontons_grey_alien_encounter_who_said_he/)  
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/14raafw/joe_simontons_grey_alien_encounter_who_said_he/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/14raafw/joe_simontons_grey_alien_encounter_who_said_he/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>it was analyzed and found to be a plain buckwheat pancake.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/StrangeEarth/comments/1co75av/joseph_simonton_holding_a_pancake_that_he/](https://www.reddit.com/r/StrangeEarth/comments/1co75av/joseph_simonton_holding_a_pancake_that_he/)  
+   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/1co75av/joseph_simonton_holding_a_pancake_that_he/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/1co75av/joseph_simonton_holding_a_pancake_that_he/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>were inside the UFO. Aliens &amp; UFOs.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/10gml64/alien_lands_and_offers_man_four_pancakes_in/](https://www.reddit.com/r/HighStrangeness/comments/10gml64/alien_lands_and_offers_man_four_pancakes_in/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/10gml64/alien_lands_and_offers_man_four_pancakes_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/10gml64/alien_lands_and_offers_man_four_pancakes_in/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>exchange for...... Eagle River, Wisconsin in 1961. Joe, in his early 60&#x27;s, had an unusual encounter one morning when a silver, dome shap...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_NICAP_Simonton-CE-III.pdf](https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_NICAP_Simonton-CE-III.pdf)  
+   Link: <a href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_NICAP_Simonton-CE-III.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_NICAP_Simonton-CE-III.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>•f Eagle River,Wisconsin,and also included therein one of the alleged &quot;pan cakes...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2021%20No.%201%20Spring%201996.pdf](https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2021%20No.%201%20Spring%201996.pdf)  
+   Link: <a href="https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2021%20No.%201%20Spring%201996.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2021%20No.%201%20Spring%201996.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, wheat bran, and soybean hulls. The material appears to be a portion...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: strangestrangestrange.com  
    Title: joe simonton and the alien pancakes  
-   Link: [https://strangestrangestrange.com/paranormal/ufo/joe-simonton-and-the-alien-pancakes/](https://strangestrangestrange.com/paranormal/ufo/joe-simonton-and-the-alien-pancakes/)  
+   Link: <a href="https://strangestrangestrange.com/paranormal/ufo/joe-simonton-and-the-alien-pancakes/" target="_blank" rel="noopener noreferrer nofollow">https://strangestrangestrange.com/paranormal/ufo/joe-simonton-and-the-alien-pancakes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Strange Strange1961 Joe Simonton and the Alien Pancakes31 Mar 2023 — In 1961, Joe Simonton, a farmer from Eagle River, Wisconsin...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DJ2HfDcyEsA/](https://www.instagram.com/reel/DJ2HfDcyEsA/)  
+   Link: <a href="https://www.instagram.com/reel/DJ2HfDcyEsA/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DJ2HfDcyEsA/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>While most ingredients were common, there was one major mystery—the type of wheat used to make the flour was...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ufoevidence.org  
-   Link: [https://www.ufoevidence.org/cases/case708.htm](https://www.ufoevidence.org/cases/case708.htm)  
+   Link: <a href="https://www.ufoevidence.org/cases/case708.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case708.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(credit: FSR). Two photographs of Joe Simonton with one of the &quot;alien pancakes&quot;. (source of...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: dekedickerson.com  
    Title: joe simonton and the alien pancakes  
-   Link: [https://dekedickerson.com/musings/joe-simonton-and-the-alien-pancakes/](https://dekedickerson.com/musings/joe-simonton-and-the-alien-pancakes/)  
+   Link: <a href="https://dekedickerson.com/musings/joe-simonton-and-the-alien-pancakes/" target="_blank" rel="noopener noreferrer nofollow">https://dekedickerson.com/musings/joe-simonton-and-the-alien-pancakes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Sept 2022 — I read a story about a month ago, before we left on tour, about a 1961 UFO incident involving Eagle River, Wisconsin, chick...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: UFO Day Parade and Festivities return to Belleville  
-   Link: [https://www.youtube.com/watch?v=YkGZ1UI2MiE](https://www.youtube.com/watch?v=YkGZ1UI2MiE)  
+   Link: <a href="https://www.youtube.com/watch?v=YkGZ1UI2MiE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YkGZ1UI2MiE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We Found Missing Evidence from the Weirdest UFO Encounter deep dives into the Project Blue Book investigation and laboratory testing of J...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: wxpr.org  
    Title: a northwoods case for the x files  
-   Link: [https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files](https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files)  
+   Link: <a href="https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Northwoods Case for the X-FilesJul 24, 2019 — A real UFO incident did occur in the Northwoods and could have been the basis for an X-Fi...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/episode/0GOq0U2oKaI0UNKSRhfjFA](https://open.spotify.com/episode/0GOq0U2oKaI0UNKSRhfjFA)  
+   Link: <a href="https://open.spotify.com/episode/0GOq0U2oKaI0UNKSRhfjFA" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/0GOq0U2oKaI0UNKSRhfjFA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eagle River, Wisconsin Known locally as honest and quiet, with no history of... lab tests showed buckwheat, flour, sugar, grease No unus...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: the-sun.com  
-   Link: [https://www.the-sun.com/news/7625220/us-air-forces-secret-probe-alien-pancakes/](https://www.the-sun.com/news/7625220/us-air-forces-secret-probe-alien-pancakes/)  
+   Link: <a href="https://www.the-sun.com/news/7625220/us-air-forces-secret-probe-alien-pancakes/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/7625220/us-air-forces-secret-probe-alien-pancakes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Air Force&#x27;s top-secret probe into &#x27;humanoid alien who...19 Mar 2023 — The FDA microscopic analysis showed the presence of fat, starch...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=MaKZPy9NPYk](https://www.youtube.com/watch?v=MaKZPy9NPYk)  
+   Link: <a href="https://www.youtube.com/watch?v=MaKZPy9NPYk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MaKZPy9NPYk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mindless Banter 139: Joe Simonton &amp; the Alien Pancakes...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: WEIRD WISCONSIN: Eagle River & Joe Simonton's BIZARRE UFO Pancakes  
-   Link: [https://www.youtube.com/watch?v=PXw0AN9S_5A](https://www.youtube.com/watch?v=PXw0AN9S_5A)  
+   Link: <a href="https://www.youtube.com/watch?v=PXw0AN9S_5A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PXw0AN9S_5A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>376: Project Blue Book | Based on a True Story Podcast...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Mindless Banter 139: Joe Simonton & the Alien Pancakes  
-   Link: [https://www.youtube.com/watch?v=a7MmWf8f_wc](https://www.youtube.com/watch?v=a7MmWf8f_wc)  
+   Link: <a href="https://www.youtube.com/watch?v=a7MmWf8f_wc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a7MmWf8f_wc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WEIRD WISCONSIN: Eagle River &amp; Joe Simonton&#x27;s BIZARRE UFO Pancakes...</p></details>

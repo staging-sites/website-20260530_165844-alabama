@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-texas-became-a-ufo-archive/
 nav_short_title: Cash Landrum
 title: Why Cash Landrum Still Divides Readers
-title_full: Why Cash Landrum Still Divides Readers | Texas UFOs
+title_full: Why Cash Landrum Still Divides Readers
 display_title_short: Cash Landrum
 display_title: Cash Landrum
 heading_title: Why Cash Landrum Still Divides Readers
@@ -268,8 +268,7 @@ image: /assets/images/Texas_98125d_cash_landrum_injury_2c62a5-overview-social.jp
 
 ## Introduction
 
-Cash-Landrum is one of the most serious [Texas]({{ 'why-texas-became-a-ufo-archive/' | relative_url }}) UFO cases because it is not built only around a strange light in the sky. The claim is that three named witnesses — Betty Cash, Vickie Landrum and Landrum’s young grandson Colby — encountered a low, heat-emitting object near Huffman on 29 December 1980, then suffered medical problems they believed were caused by exposure from the event. The case still divides readers because the human suffering was real enough to prompt doctors, investigators, journalists, military enquiries and a federal lawsuit, but the central claims have never been decisively corroborated. The alleged object, the reported [helicopters]({{ 'helicopters/' | relative_url }}), the claimed radiation-like injuries and the government-liability argument all depend on testimony, partial records and later interpretation rather than a clear physical trail. That makes Cash-Landrum a landmark Texas UFO case, but also one of the hardest to judge fairly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blueblurrylines.com/2013/11/betty-cashs-medical-records.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
+Cash-Landrum is one of the most serious Texas UFO cases because it is not built only around a strange light in the sky. The claim is that three named witnesses — Betty Cash, Vickie Landrum and Landrum’s young grandson Colby — encountered a low, heat-emitting object near Huffman on 29 December 1980, then suffered medical problems they believed were caused by exposure from the event. The case still divides readers because the human suffering was real enough to prompt doctors, investigators, journalists, military enquiries and a federal lawsuit, but the central claims have never been decisively corroborated. The alleged object, the reported [helicopters]({{ 'helicopters/' | relative_url }}), the claimed radiation-like injuries and the government-liability argument all depend on testimony, partial records and later interpretation rather than a clear physical trail. That makes Cash-Landrum a landmark Texas UFO case, but also one of the hardest to judge fairly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical Inquirer</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blueblurrylines.com/2013/11/betty-cashs-medical-records.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5-overview.webp" | relative_url }}" alt="Overview image for Cash Landrum" loading="eager" decoding="sync" fetchpriority="high">
 ## The encounter near Huffman
@@ -282,8 +281,7 @@ There are already difficulties at the level of basic reconstruction. The Bergstr
 
 The reported object’s appearance also became firmer in later retellings than some early testimony allowed. Sceptical summaries have noted that the “diamond” description, now central to the case, was not equally clear in every early account. This is a common problem in high-profile UFO cases: an image that begins as one witness’s impression can become the standard icon of the event after drawings, television reconstructions and repeated retellings. In Cash-Landrum, the diamond-shaped craft is part of the case’s identity, but it is still a witness description rather than a photographed or independently documented object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-
-<img src="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5-Illustration-1-light.svg" | relative_url }}" alt="Cash Landrum illustration 1" data-theme-src-dark="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5-Illustration-1-dark.svg" | relative_url }}" alt="Cash Landrum illustration 1" data-theme-src-dark="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Injury claims and the helicopter question
 
 The injury claim is what makes Cash-Landrum stand apart from most Texas UFO reports. The witnesses said that after the encounter they experienced symptoms including nausea, weakness, burning sensations, skin problems and eye irritation. Cash’s condition was described as the most severe. Accounts of her later treatment include hospitalisation, hair loss and painful skin symptoms, and the case became widely known as a “radiation” or “radiation sickness” incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
@@ -296,7 +294,6 @@ The helicopter claim faces a different but equally important problem. If numerou
 
 This produces the central split in interpretation. Supporters of the witnesses argue that Cash, Landrum and Colby had no obvious reason to invent such a damaging story, that Cash’s illness was severe, and that Sarran reportedly regarded the main witnesses as credible people rather than hoaxers. Sceptics answer that sincerity is not the same as accuracy, and that an extraordinary helicopter operation involving many aircraft near Houston should have left stronger independent evidence. Both points can be true: the witnesses may have been genuinely distressed, while the military-helicopter claim remains unproven. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blueblurrylines.com/2013/11/betty-cashs-medical-records.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P2HsOUTzyWA" title="The Cash-Landrum UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer">The Cash-Landrum UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Spektator &middot; Views: 283.1K &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P2HsOUTzyWA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P2HsOUTzyWA">Open on YouTube</a></p></div></div></div>
 
 ## The lawsuit raised the stakes but did not settle the facts
@@ -307,8 +304,7 @@ The legal case is often misunderstood. A dismissed lawsuit is not the same thing
 
 That legal outcome shaped the case’s legacy. For believers, the dismissal looked like another official refusal to confront a dangerous incident. For sceptics, it showed that the most testable part of the story — the claimed military presence — failed when pressed in a formal setting. For a cautious reader, the fairest conclusion is narrower: the court process did not prove what the witnesses saw, did not prove a hoax, and did not prove a government cover-up. It showed that the evidence was not strong enough to establish government responsibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
 
-
-<img src="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5-Illustration-2-light.svg" | relative_url }}" alt="Cash Landrum illustration 2" data-theme-src-dark="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5-Illustration-2-dark.svg" | relative_url }}" alt="Cash Landrum illustration 2" data-theme-src-dark="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why corroboration remains the central issue
 
 Cash-Landrum remains troubling because it contains elements that normally make a UFO case feel stronger: named witnesses, a specific date, an alleged close-range encounter, medical consequences, a claimed official connection and later investigation. Yet almost every one of those strengths has a corresponding weakness. The witnesses were identifiable, but the story rests mainly on their testimony. The injuries were serious enough to command attention, but the medical record available to the public is incomplete and disputed. The helicopters would have transformed the case into a military incident, but investigators did not find a matching helicopter operation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[Computer UFO Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blueblurrylines.com/2013/11/betty-cashs-medical-records.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -319,9 +315,7 @@ The case also illustrates a wider problem in Texas UFO history: the most memorab
 
 Later reporting has both preserved and weakened the original claim. It preserved the case by keeping the witnesses’ names, testimony and suffering in public view. It weakened the case by exposing gaps in the medical documentation, inconsistencies or uncertainties in the witness reconstruction, and the failure to identify the alleged helicopter force. The result is not a clean debunking in which every detail collapses, nor a validated physical-injury UFO case. It is a disputed Texas incident in which the most dramatic claim — that a UFO or secret military craft harmed three people near Huffman — remains unproven. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blueblurrylines.com/2013/11/betty-cashs-medical-records.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blueblurrylines.com/2013/11/betty-cashs-medical-records.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tajjlxkn_6c" title="UFOs Revisited: Cash and Landrum | Episode 12 | The 1980 Texas UFO Encounter That Burned Witnesses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tajjlxkn_6c" target="_blank" rel="noopener noreferrer">UFOs Revisited: Cash and Landrum | Episode 12 | The 1980 Texas UFO Encounter That Burned Witnesses</a></p><p class="youtube-embed-meta">Channel: Free4All &middot; Views: 1.8K &middot; Uploaded: November 2025 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tajjlxkn_6c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tajjlxkn_6c">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j_3CfT4I9nk" title="Cash-Landrum UFO Encounter or Something Scarier?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j_3CfT4I9nk" target="_blank" rel="noopener noreferrer">Cash-Landrum UFO Encounter or Something Scarier?</a></p><p class="youtube-embed-meta">Channel: The Mysteria Archive &middot; Views: 4.6K &middot; Uploaded: December 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j_3CfT4I9nk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j_3CfT4I9nk">Open on YouTube</a></p></div></div></div>
 
@@ -331,8 +325,7 @@ The most careful reading starts with sympathy but not certainty. Betty Cash, Vic
 
 For Texas UFO history, Cash-Landrum matters because it marks the point where a local close-encounter story became a medical, legal and military question. It sits between older Texas cases shaped by folklore and mid-century Air Force files, and later cases such as [Stephenville]({{ 'stephenville/' | relative_url }}) where aviation records and radar analysis became central to debate. Cash-Landrum’s enduring value is not that it settles the UFO question. Its value is that it shows how quickly a dramatic sighting can become a test of evidence: witness credibility, medical causation, official denial, legal proof and the difficult gap between “something happened to these people” and “we know what caused it”.
 
-
-<img src="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5-Illustration-3-light.svg" | relative_url }}" alt="Cash Landrum illustration 3" data-theme-src-dark="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5-Illustration-3-dark.svg" | relative_url }}" alt="Cash Landrum illustration 3" data-theme-src-dark="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_cash_landrum_injury_2c62a5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -756,154 +749,154 @@ For Texas UFO history, Cash-Landrum matters because it marks the point where a l
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: [https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident](https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/03/p28.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: upi.com  
    Title: Three suing government over UFO radiation  
-   Link: [https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/](https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/)  
+   Link: <a href="https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1985/09/03/Three-suing-government-over-UFO-radiation/1920494568000/</a>  
 
 4. <a id="endnote-4"></a>
    Source: cufon.org  
-   Link: [https://www.cufon.org/cufon/cashlani.htm](https://www.cufon.org/cufon/cashlani.htm)  
+   Link: <a href="https://www.cufon.org/cufon/cashlani.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/cashlani.htm</a>  
 
 5. <a id="endnote-5"></a>
    Source: blueblurrylines.com  
-   Link: [https://www.blueblurrylines.com/2013/11/betty-cashs-medical-records.html](https://www.blueblurrylines.com/2013/11/betty-cashs-medical-records.html)  
+   Link: <a href="https://www.blueblurrylines.com/2013/11/betty-cashs-medical-records.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/betty-cashs-medical-records.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: blueblurrylines.com  
-   Link: [https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo.html](https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo.html)  
+   Link: <a href="https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: mysanantonio.com  
    Title: My SAThe 5 most famous UFO sightings in Texas' history  
-   Link: [https://www.mysanantonio.com/lifestyle/article/texas-ufo-sightings-20350078.php](https://www.mysanantonio.com/lifestyle/article/texas-ufo-sightings-20350078.php)  
+   Link: <a href="https://www.mysanantonio.com/lifestyle/article/texas-ufo-sightings-20350078.php" target="_blank" rel="noopener noreferrer nofollow">https://www.mysanantonio.com/lifestyle/article/texas-ufo-sightings-20350078.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The first documented case is the 1897 [Aurora](&amp;#123;&amp;#123; &#x27;aurora/&#x27; | relative_url &amp;#125;&amp;#125;) crash, where a &quot;cigar-shaped&quot; airship allegedly collided with a windmill, supposedly leaving...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: blueblurrylines.com  
    Title: the cash landrum ufo original case files  
-   Link: [https://www.blueblurrylines.com/2017/11/the-cash-landrum-ufo-original-case-files.html](https://www.blueblurrylines.com/2017/11/the-cash-landrum-ufo-original-case-files.html)  
+   Link: <a href="https://www.blueblurrylines.com/2017/11/the-cash-landrum-ufo-original-case-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2017/11/the-cash-landrum-ufo-original-case-files.html</a>  
 
 9. <a id="endnote-9"></a>
    Source: blueblurrylines.com  
    Title: cash landrum ufo questions  
-   Link: [https://www.blueblurrylines.com/2024/12/cash-landrum-ufo-questions.html](https://www.blueblurrylines.com/2024/12/cash-landrum-ufo-questions.html)  
+   Link: <a href="https://www.blueblurrylines.com/2024/12/cash-landrum-ufo-questions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2024/12/cash-landrum-ufo-questions.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: blueblurrylines.com  
-   Link: [https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html](https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html)  
+   Link: <a href="https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/07/resource-guide-for-cash-landrum-ufo-case.html</a>  
 
 11. <a id="endnote-11"></a>
    Source: blueblurrylines.com  
    Title: skeptoid challenges cash landrum ufo  
-   Link: [https://www.blueblurrylines.com/2018/12/skeptoid-challenges-cash-landrum-ufo.html](https://www.blueblurrylines.com/2018/12/skeptoid-challenges-cash-landrum-ufo.html)  
+   Link: <a href="https://www.blueblurrylines.com/2018/12/skeptoid-challenges-cash-landrum-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2018/12/skeptoid-challenges-cash-landrum-ufo.html</a>  
 
 12. <a id="endnote-12"></a>
    Source: blueblurrylines.com  
    Title: the daig investigation of cash landrum  
-   Link: [https://www.blueblurrylines.com/2013/11/the-daig-investigation-of-cash-landrum.html](https://www.blueblurrylines.com/2013/11/the-daig-investigation-of-cash-landrum.html)  
+   Link: <a href="https://www.blueblurrylines.com/2013/11/the-daig-investigation-of-cash-landrum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/the-daig-investigation-of-cash-landrum.html</a>  
 
 13. <a id="endnote-13"></a>
    Source: blueblurrylines.com  
    Title: the cash landrum ufo encounter of 1980  
-   Link: [https://www.blueblurrylines.com/2023/12/the-cash-landrum-ufo-encounter-of-1980.html](https://www.blueblurrylines.com/2023/12/the-cash-landrum-ufo-encounter-of-1980.html)  
+   Link: <a href="https://www.blueblurrylines.com/2023/12/the-cash-landrum-ufo-encounter-of-1980.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2023/12/the-cash-landrum-ufo-encounter-of-1980.html</a>  
 
 14. <a id="endnote-14"></a>
    Source: blueblurrylines.com  
    Title: philip klass on cash landrum ufo case  
-   Link: [https://www.blueblurrylines.com/2019/02/philip-klass-on-cash-landrum-ufo-case.html](https://www.blueblurrylines.com/2019/02/philip-klass-on-cash-landrum-ufo-case.html)  
+   Link: <a href="https://www.blueblurrylines.com/2019/02/philip-klass-on-cash-landrum-ufo-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2019/02/philip-klass-on-cash-landrum-ufo-case.html</a>  
 
 15. <a id="endnote-15"></a>
    Source: blueblurrylines.com  
    Title: the cash landrum incident suppressed  
-   Link: [https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html](https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html)  
+   Link: <a href="https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/the-cash-landrum-incident-suppressed.html</a>  
 
 16. <a id="endnote-16"></a>
    Source: blueblurrylines.com  
    Title: the us governments cash landrum ufo 7  
-   Link: [https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo_7.html](https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo_7.html)  
+   Link: <a href="https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo_7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo_7.html</a>  
 
 17. <a id="endnote-17"></a>
    Source: blueblurrylines.com  
    Title: cash landrum ufo disinformation rick  
-   Link: [https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html](https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html)  
+   Link: <a href="https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/06/cash-landrum-ufo-disinformation-rick.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: blueblurrylines.com  
    Title: bill moore on cash landrum case  
-   Link: [https://www.blueblurrylines.com/2012/10/bill-moore-on-cash-landrum-case.html](https://www.blueblurrylines.com/2012/10/bill-moore-on-cash-landrum-case.html)  
+   Link: <a href="https://www.blueblurrylines.com/2012/10/bill-moore-on-cash-landrum-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2012/10/bill-moore-on-cash-landrum-case.html</a>  
 
 19. <a id="endnote-19"></a>
    Source: blueblurrylines.com  
-   Link: [https://www.blueblurrylines.com/2013/11/cash-landrum-ufo-case-legend-of.html](https://www.blueblurrylines.com/2013/11/cash-landrum-ufo-case-legend-of.html)  
+   Link: <a href="https://www.blueblurrylines.com/2013/11/cash-landrum-ufo-case-legend-of.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2013/11/cash-landrum-ufo-case-legend-of.html</a>  
 
 20. <a id="endnote-20"></a>
    Source: blueblurrylines.com  
    Title: the nsa cash landrum ufo document  
-   Link: [https://www.blueblurrylines.com/2022/12/the-nsa-cash-landrum-ufo-document.html](https://www.blueblurrylines.com/2022/12/the-nsa-cash-landrum-ufo-document.html)  
+   Link: <a href="https://www.blueblurrylines.com/2022/12/the-nsa-cash-landrum-ufo-document.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2022/12/the-nsa-cash-landrum-ufo-document.html</a>  
 
 21. <a id="endnote-21"></a>
    Source: unsolved.com  
    Title: Texas UFO  
-   Link: [https://unsolved.com/gallery/texas-ufo/](https://unsolved.com/gallery/texas-ufo/)  
+   Link: <a href="https://unsolved.com/gallery/texas-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/texas-ufo/</a>  
 
 22. <a id="endnote-22"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/10581488](https://zenodo.org/records/10581488)  
+   Link: <a href="https://zenodo.org/records/10581488" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581488</a>  
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: nrc.gov  
-   Link: [https://www.nrc.gov/docs/ML2021/ML20210C960.pdf](https://www.nrc.gov/docs/ML2021/ML20210C960.pdf)  
+   Link: <a href="https://www.nrc.gov/docs/ML2021/ML20210C960.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2021/ML20210C960.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: UFO Files #8: A Radioactive UFO? The Cash-Landrum Case  
-   Link: [https://www.youtube.com/watch?v=CYZDGxptuuo](https://www.youtube.com/watch?v=CYZDGxptuuo)  
+   Link: <a href="https://www.youtube.com/watch?v=CYZDGxptuuo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CYZDGxptuuo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash - Landrum UFO Encounter | Dark Mysteries...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: The Cash-Landrum Encounter: A Night of Unearthly Light  
-   Link: [https://www.youtube.com/watch?v=gkjzXCGBw-w](https://www.youtube.com/watch?v=gkjzXCGBw-w)  
+   Link: <a href="https://www.youtube.com/watch?v=gkjzXCGBw-w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gkjzXCGBw-w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO Incident - The Unexplained [Episode 4]...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Cash-Landrum UFO Encounter or Something Scarier?  
-   Link: [https://www.youtube.com/watch?v=j_3CfT4I9nk](https://www.youtube.com/watch?v=j_3CfT4I9nk)  
+   Link: <a href="https://www.youtube.com/watch?v=j_3CfT4I9nk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j_3CfT4I9nk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files #8: A Radioactive UFO? The Cash-Landrum Case - 1980...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: The Cash  
-   Link: [https://www.youtube.com/watch?v=t6sV0LIy7GI](https://www.youtube.com/watch?v=t6sV0LIy7GI)  
+   Link: <a href="https://www.youtube.com/watch?v=t6sV0LIy7GI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t6sV0LIy7GI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Landrum Encounter: A Night of Unearthly Light...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/](https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1pkg8yn/anyone_new_to_the_uapufo_topic_welcome_the/</a>  
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/](https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/](https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/)  
+   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1165033941945644/](https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1165033941945644/)  
+   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1165033941945644/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1165033941945644/</a>  
 
 32. <a id="endnote-32"></a>
    Source: bleav.com  
-   Link: [https://bleav.com/shows/the-ttt-podcast/episodes/the-cash-landrum-incident-physical-evidence-the-government-cant-explain/](https://bleav.com/shows/the-ttt-podcast/episodes/the-cash-landrum-incident-physical-evidence-the-government-cant-explain/)  
+   Link: <a href="https://bleav.com/shows/the-ttt-podcast/episodes/the-cash-landrum-incident-physical-evidence-the-government-cant-explain/" target="_blank" rel="noopener noreferrer nofollow">https://bleav.com/shows/the-ttt-podcast/episodes/the-cash-landrum-incident-physical-evidence-the-government-cant-explain/</a>

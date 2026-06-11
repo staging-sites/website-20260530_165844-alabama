@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /idaho-18334c-index/
 description: Focused pages that expand on What Makes Idaho a Key UFO Hotspot?.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Idaho_18334c
 parent_title: What Makes Idaho a Key UFO Hotspot?

@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-makes-south-carolinas-ufo-story/
 nav_short_title: New Ellenton
 title: Why New Ellenton Still Matters
-title_full: Why New Ellenton Still Matters | South Carolina UFOs
+title_full: Why New Ellenton Still Matters
 display_title_short: New Ellenton
 display_title: New Ellenton
 heading_title: Why New Ellenton Still Matters
@@ -34,7 +34,7 @@ page_heading_title: Why New Ellenton Still Matters
 source_count: 86
 infographic_count: 3
 planned_sections:
-- What the DuPont witnesses reportedly saw
+- What the Du Pont witnesses reportedly saw
 - Why the Savannah River site changed the stakes
 - What Blue Book unknown status does and does not prove
 focal_unit_type: event_time_window
@@ -242,7 +242,7 @@ child_links:
   title: Witness sequence | New Ellenton
   permalink: /witness-sequence/
   short_title: Witness sequence
-  heading_title: What did the DuPont witnesses actually see?
+  heading_title: What did the Du Pont witnesses actually see?
 up_link:
   basename: South_Carolina_11d001
   title: South Carolina UFOs
@@ -262,8 +262,7 @@ image: /assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-overview-so
 
 ## Introduction
 
-The New Ellenton sighting of 10 May 1952 is [South Carolina]({{ 'what-makes-south-carolinas-ufo-story/' | relative_url }})’s strongest archival UFO case because it combines a specific place, a short but detailed time window, multiple industrial [witnesses]({{ 'witnesses-e3b4f1/' | relative_url }}) and a Cold War nuclear setting. Four DuPont employees at the Savannah River Plant reportedly saw yellow or gold disc-shaped objects pass near the plant’s 400 Area several times between about 10:45 p.m. and 11:15 p.m. One object was said to be low enough that it rose to clear tall tanks, and the report was later carried in Project Blue Book “unknown” lists rather than being assigned a conventional explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPUFO Report... Ellenton, South Carolina. Fran Ridge: May 10, 1952. Savannah River Plant, New... Savannah River Plant, Atomic Energy...</span><span class="citation-popover-meta">Published: May 10, 1952</span></span></span>
-
+The New Ellenton sighting of 10 May 1952 is South Carolina’s strongest archival UFO case because it combines a specific place, a short but detailed time window, multiple industrial [witnesses]({{ 'witnesses-e3b4f1/' | relative_url }}) and a Cold War nuclear setting. Four DuPont employees at the Savannah River Plant reportedly saw yellow or gold disc-shaped objects pass near the plant’s 400 Area several times between about 10:45 p.m. and 11:15 p.m. One object was said to be low enough that it rose to clear tall tanks, and the report was later carried in Project Blue Book “unknown” lists rather than being assigned a conventional explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO Report... Ellenton, South Carolina. Fran Ridge: May 10, 1952. Savannah River Plant, New... Savannah River Plant, Atomic Energy...</span><span class="citation-popover-meta">Published: May 10, 1952</span></span></span>
 
 <img src="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-overview.webp" | relative_url }}" alt="Overview image for New Ellenton" loading="eager" decoding="sync" fetchpriority="high">
 That does not make the incident proof of alien technology, a deliberate nuclear-site surveillance mission or a confirmed intrusion. The surviving public evidence is too thin for that: no photograph, radar track, recovered material or full witness dossier has become the case’s evidential anchor. What makes New Ellenton still matter is more precise. It shows how a puzzling night-time sighting became historically weightier because it occurred beside one of the most sensitive industrial projects in South Carolina, at the moment the Savannah River Plant was being built to produce nuclear weapons materials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.energy.gov/srs/savannah-river-site-history-1950-1989" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-title">savannah river site history 1950 1989</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.govSavannah River Site History 1950-19898 days ago — The Savannah River Site was constructed during the...</span></span></span>
@@ -274,12 +273,11 @@ The central account describes a series of sightings at the Savannah River Plant 
 
 The description is unusually concrete for a short night-time UFO report. The objects were said to be yellow to gold, disc-shaped, apparently about 15 inches in diameter, fast-moving and noiseless. That “15 inches” figure should be treated carefully. Without a known distance, it cannot establish the objects’ physical size; it only tells us how large they appeared to the witnesses. The report also says they were visible for only a few seconds at a time, which sharply limits what any observer could reliably judge about shape, speed, height or distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ncp/ncp-nuc1952.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ncp nuc1952</span><span class="citation-popover-snippet">ncp nuc1952</span></span></span>
 
-The most memorable detail concerns the object seen at about 11:10 p.m. It was reportedly low enough that it had to rise to pass over tall tanks in the 400 Area, while also weaving from left to right but keeping a general course. That detail is the reason the case feels more substantial than a report of vague lights: it seems to place at least one object in relation to plant structures. But it is also the detail most in need of caution, because night-time observers can misjudge altitude and distance when an object has no familiar outline, no audible engine noise and no measured reference point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPUFO Report... Ellenton, South Carolina. Fran Ridge: May 10, 1952. Savannah River Plant, New... Savannah River Plant, Atomic Energy...</span><span class="citation-popover-meta">Published: May 10, 1952</span></span></span>
+The most memorable detail concerns the object seen at about 11:10 p.m. It was reportedly low enough that it had to rise to pass over tall tanks in the 400 Area, while also weaving from left to right but keeping a general course. That detail is the reason the case feels more substantial than a report of vague lights: it seems to place at least one object in relation to plant structures. But it is also the detail most in need of caution, because night-time observers can misjudge altitude and distance when an object has no familiar outline, no audible engine noise and no measured reference point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO Report... Ellenton, South Carolina. Fran Ridge: May 10, 1952. Savannah River Plant, New... Savannah River Plant, Atomic Energy...</span><span class="citation-popover-meta">Published: May 10, 1952</span></span></span>
 
 A useful reading of the witness evidence is therefore balanced. The report is not a casual, anonymous modern internet entry; it names the employer, gives a date, a sequence of times, a location inside the plant, a number of observers and a repeated pattern of movement. Yet the record available to the public does not show the exact vantage point of each witness, their names, their formal interviews, weather checks, air-traffic checks, astronomical analysis or a diagram of the sight lines. That makes the case important, but not self-solving.
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-1-light.svg" | relative_url }}" alt="New Ellenton illustration 1" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-1-dark.svg" | relative_url }}" alt="New Ellenton illustration 1" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Savannah River site changed the stakes
 
 The Savannah River Plant setting is what turns this from a local sky report into a landmark South Carolina UFO case. The Department of Energy states that the Savannah River Site was constructed in the early 1950s to produce materials for nuclear weapons, primarily tritium and plutonium-239. Its facilities included five reactors, chemical separations plants, a heavy-water extraction plant, nuclear fuel and target fabrication, tritium extraction and waste-management facilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.energy.gov/srs/savannah-river-site-history-1950-1989" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-title">savannah river site history 1950 1989</span><span class="citation-popover-snippet">The Department of Energy&#x27;s Energy.govSavannah River Site History 1950-19898 days ago — The Savannah River Site was constructed during the...</span></span></span>
@@ -291,7 +289,6 @@ The 400 Area reference matters because it points to a specific industrial zone r
 That does not prove the reported objects were interested in the plant, but it explains why investigators and later researchers paid attention. A sighting over a nuclear weapons production site carried an obvious national-security charge in 1952. The plant was not a normal factory, and the report did not merely say that something was seen somewhere in the night sky; it placed repeated fast, silent objects near a vital Atomic Energy Commission installation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ncp/ncp-fawcett1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ncp fawcett1</span><span class="citation-popover-snippet">ncp fawcett1</span></span></span>
 
 This is the heart of the nuclear-site question. Did the setting simply make an ambiguous sighting feel more important, or did the location itself form part of the event’s significance? The evidence cannot settle that. What it can show is that New Ellenton belongs among the state’s most serious UFO records because its location was not incidental to the story people preserved.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tbsxZBmGMBA" title="UFOs at Nuclear Sites? | Ancient Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tbsxZBmGMBA" target="_blank" rel="noopener noreferrer">UFOs at Nuclear Sites? | Ancient Aliens</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 201.1K &middot; Uploaded: March 2026 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tbsxZBmGMBA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tbsxZBmGMBA">Open on YouTube</a></p></div></div></div>
 
@@ -307,8 +304,7 @@ That distinction matters for New Ellenton. The unknown status strengthens the ca
 
 Modern official language points in the same direction. The All-domain Anomaly Resolution Office’s historical review reported no evidence that past UFO or UAP investigations had established extraterrestrial origin, while also reflecting renewed government interest in improving how anomalous reports are handled. That does not retroactively explain the 1952 sighting, but it reinforces the sensible standard: unresolved should not be inflated into confirmed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-2-light.svg" | relative_url }}" alt="New Ellenton illustration 2" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-2-dark.svg" | relative_url }}" alt="New Ellenton illustration 2" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest reading of the evidence
 
 The best case for taking New Ellenton seriously is not that any one detail is impossible to explain. It is the combination of details: several witnesses, a restricted industrial setting, repeated observations over roughly 30 minutes, a specific plant area, apparently silent high-speed movement and preservation in Blue Book unknown catalogues. For South Carolina UFO history, that combination makes it more substantial than a vague local legend or a later report without archival footing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ncp/ncp-nuc1952.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ncp nuc1952</span><span class="citation-popover-snippet">ncp nuc1952</span></span></span>
@@ -318,7 +314,6 @@ The main weakness is that the public evidential trail is narrow. Much of what is
 Several conventional possibilities remain open, though none can be confidently imposed from the surviving summary alone. Meteors can be silent, bright and fast, but repeated passes over about half an hour and the claimed low movement near tanks are awkward for a simple meteor explanation. Aircraft can repeat over a site, but the short visibility, apparent disc shape and silence would need further information about altitude, wind, traffic and observer position. Reflections, illuminated birds, insects, balloons or plant-related optical effects may explain some night-time reports, but the specific repeated directional pattern would still need reconstruction.
 
 The strongest sceptical point is not that the witnesses must have been wrong. It is that the report lacks the kind of independent measurements needed to decide between unusual object, ordinary object and misperception. The most dramatic detail — the object rising over tanks — depends on perceived alignment between an object and plant structures. Without a diagram, distance estimate and known viewing position, that perception cannot be turned into a firm altitude claim.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oM9WfDBRNcg" title="UFO&#x27;s Are Real | FULL MOVIE | Aliens Sci-Fi Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oM9WfDBRNcg" target="_blank" rel="noopener noreferrer">UFO&#x27;s Are Real | FULL MOVIE | Aliens Sci-Fi Documentary</a></p><p class="youtube-embed-meta">Channel: Shout! Studios &middot; Views: 740.6K &middot; Uploaded: March 2026 &middot; Length: 1 hour 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oM9WfDBRNcg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oM9WfDBRNcg">Open on YouTube</a></p></div></div></div>
 
@@ -332,8 +327,7 @@ The strongest later material strengthens the archival importance of the incident
 
 No later public source found in the accessible record appears to have added decisive corroboration such as radar confirmation, photographs, a recovered object, or named witness interviews that could be independently tested. The case therefore remains in the same basic category: unresolved in the archival sense, historically important in the South Carolina context, and too thin to support a stronger claim.
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-3-light.svg" | relative_url }}" alt="New Ellenton illustration 3" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-3-dark.svg" | relative_url }}" alt="New Ellenton illustration 3" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_new_ellenton_1952_bdb0b3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why New Ellenton still matters
 
 New Ellenton still matters because it is one of the rare South Carolina UFO cases where the location is as important as the sighting itself. The report came from workers at a major Cold War nuclear production site, in the same year that UFO reporting surged nationally and Project Blue Book became the main Air Force programme for handling such cases. National Archives material notes heavy public interest in 1952 UFO reports, especially during the summer, and Blue Book records show that the period produced many cases later debated by researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
@@ -344,9 +338,7 @@ The case also helps keep the state’s UFO story grounded. South Carolina has la
 
 The most defensible conclusion is modest but significant: on 10 May 1952, multiple DuPont employees reportedly saw fast, silent, yellow disc-like objects near the Savannah River Plant; the case was preserved as unresolved in Blue Book-derived records; and the nuclear setting made the report one of South Carolina’s most important UFO incidents. It remains a serious archival mystery, not a confirmed extraordinary event.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3CIXsWbM1Ng" title="Federal review outlines plutonium pit production plan for Savannah River Site" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3CIXsWbM1Ng" target="_blank" rel="noopener noreferrer">Federal review outlines plutonium pit production plan for Savannah River Site</a></p><p class="youtube-embed-meta">Channel: WRDW News 12 &middot; Views: 99 &middot; Uploaded: April 2026 &middot; Length: 3 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3CIXsWbM1Ng" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3CIXsWbM1Ng">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -769,150 +761,150 @@ The most defensible conclusion is modest but significant: on 10 May 1952, multip
 
 1. <a id="endnote-1"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm](https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPUFO Report... Ellenton, South Carolina. Fran Ridge: May 10, 1952. Savannah River Plant, New... Savannah River Plant, Atomic Energy...</p></details>
+   Link: <a href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report... Ellenton, South Carolina. Fran Ridge: May 10, 1952. Savannah River Plant, New... Savannah River Plant, Atomic Energy...</p></details>
    Published: May 10, 1952  
 
 2. <a id="endnote-2"></a>
    Source: cisu.org  
    Title: Sparks CATALOG BB Unknowns 1.27 Dec 20 2016  
-   Link: [https://www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf](https://www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf)  
+   Link: <a href="https://www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Albuquerque, New Mexico (at 35°03.6&#x27; N. 106°36.3&#x27;W). 3:00 p.m.... Savannah River AEC site, South. Carolina. 10:15-10:36 p.m. (EST). USA...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: energy.gov  
    Title: savannah river site history 1950 1989  
-   Link: [https://www.energy.gov/srs/savannah-river-site-history-1950-1989](https://www.energy.gov/srs/savannah-river-site-history-1950-1989)  
+   Link: <a href="https://www.energy.gov/srs/savannah-river-site-history-1950-1989" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/srs/savannah-river-site-history-1950-1989</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Department of Energy&#x27;s Energy.govSavannah River Site History 1950-19898 days ago — The Savannah River Site was constructed during the...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 5. <a id="endnote-5"></a>
    Source: nicap.org  
    Title: ncp fawcett1  
-   Link: [https://www.nicap.org/ncp/ncp-fawcett1.htm](https://www.nicap.org/ncp/ncp-fawcett1.htm)  
+   Link: <a href="https://www.nicap.org/ncp/ncp-fawcett1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ncp/ncp-fawcett1.htm</a>  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 7. <a id="endnote-7"></a>
    Source: nicap.org  
    Title: ncp nuc1952  
-   Link: [https://www.nicap.org/ncp/ncp-nuc1952.htm](https://www.nicap.org/ncp/ncp-nuc1952.htm)  
+   Link: <a href="https://www.nicap.org/ncp/ncp-nuc1952.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ncp/ncp-nuc1952.htm</a>  
 
 8. <a id="endnote-8"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 9. <a id="endnote-9"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 10. <a id="endnote-10"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: scencyclopedia.org  
    Title: savannah river site  
-   Link: [https://www.scencyclopedia.org/sce/entries/savannah-river-site/](https://www.scencyclopedia.org/sce/entries/savannah-river-site/)  
+   Link: <a href="https://www.scencyclopedia.org/sce/entries/savannah-river-site/" target="_blank" rel="noopener noreferrer nofollow">https://www.scencyclopedia.org/sce/entries/savannah-river-site/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>South Carolina EncyclopediaSavannah River SiteDuring the 1950s five reactors were built, and SRS began to produce nuclear materials, prim...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: scencyclopedia.org  
-   Link: [https://www.scencyclopedia.org/sce/entries/savannah-river-site/view/images/](https://www.scencyclopedia.org/sce/entries/savannah-river-site/view/images/)  
+   Link: <a href="https://www.scencyclopedia.org/sce/entries/savannah-river-site/view/images/" target="_blank" rel="noopener noreferrer nofollow">https://www.scencyclopedia.org/sce/entries/savannah-river-site/view/images/</a>  
 
 13. <a id="endnote-13"></a>
    Source: nationalregister.sc.gov  
-   Link: [https://nationalregister.sc.gov/SurveyReports/HC02002.pdf](https://nationalregister.sc.gov/SurveyReports/HC02002.pdf)  
+   Link: <a href="https://nationalregister.sc.gov/SurveyReports/HC02002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nationalregister.sc.gov/SurveyReports/HC02002.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/May](https://en.wikipedia.org/wiki/May)  
+   Link: <a href="https://en.wikipedia.org/wiki/May" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/May</a>  
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Savannah River Plant  
-   Link: [https://en.wikipedia.org/wiki/Savannah_River_Plant](https://en.wikipedia.org/wiki/Savannah_River_Plant)  
+   Link: <a href="https://en.wikipedia.org/wiki/Savannah_River_Plant" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Savannah_River_Plant</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Savannah River Site  
-   Link: [https://en.wikipedia.org/wiki/Savannah_River_Site](https://en.wikipedia.org/wiki/Savannah_River_Site)  
+   Link: <a href="https://en.wikipedia.org/wiki/Savannah_River_Site" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Savannah_River_Site</a>  
 
 20. <a id="endnote-20"></a>
    Source: public.srs.gov  
-   Link: [https://public.srs.gov/about/](https://public.srs.gov/about/)  
+   Link: <a href="https://public.srs.gov/about/" target="_blank" rel="noopener noreferrer nofollow">https://public.srs.gov/about/</a>  
 
 21. <a id="endnote-21"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Jj3DhKSaw0w](https://www.youtube.com/watch?v=Jj3DhKSaw0w)  
+   Link: <a href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jj3DhKSaw0w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Federal review outlines plutonium pit production plan for Savannah River Site...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Federal review outlines plutonium pit production plan for Savannah River Site  
-   Link: [https://www.youtube.com/watch?v=3CIXsWbM1Ng](https://www.youtube.com/watch?v=3CIXsWbM1Ng)  
+   Link: <a href="https://www.youtube.com/watch?v=3CIXsWbM1Ng" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3CIXsWbM1Ng</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 UAPs, Nuclear Tests, and the 1952 Anomalies | Observers from Another World | EP. 034...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: UFOs at [Nuclear Sites](&#123;&#123; 'nuclear-site/' | relative_url &#125;&#125;)? | Ancient Aliens  
-   Link: [https://www.youtube.com/watch?v=tbsxZBmGMBA](https://www.youtube.com/watch?v=tbsxZBmGMBA)  
+   Link: <a href="https://www.youtube.com/watch?v=tbsxZBmGMBA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tbsxZBmGMBA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: srs.gov  
-   Link: [https://www.srs.gov/general/about/50anniv/SRSat50.pdf](https://www.srs.gov/general/about/50anniv/SRSat50.pdf)  
+   Link: <a href="https://www.srs.gov/general/about/50anniv/SRSat50.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.srs.gov/general/about/50anniv/SRSat50.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database](https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database)  
+   Link: <a href="https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/](https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1551280578478882/posts/3561170600823193/](https://www.facebook.com/groups/1551280578478882/posts/3561170600823193/)  
+   Link: <a href="https://www.facebook.com/groups/1551280578478882/posts/3561170600823193/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1551280578478882/posts/3561170600823193/</a>  
 
 29. <a id="endnote-29"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/may](https://www.merriam-webster.com/dictionary/may)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/may" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/may</a>  
 
 30. <a id="endnote-30"></a>
    Source: collinsdictionary.com  
-   Link: [https://www.collinsdictionary.com/dictionary/english/may](https://www.collinsdictionary.com/dictionary/english/may)  
+   Link: <a href="https://www.collinsdictionary.com/dictionary/english/may" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/may</a>  
 
 31. <a id="endnote-31"></a>
    Source: timeanddate.com  
-   Link: [https://www.timeanddate.com/calendar/months/may.html](https://www.timeanddate.com/calendar/months/may.html)  
+   Link: <a href="https://www.timeanddate.com/calendar/months/may.html" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/calendar/months/may.html</a>

@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-new-mexico-became-ufo-country/
 nav_short_title: Socorro
 title: Why the Socorro Sighting Still Matters
-title_full: Why the Socorro Sighting Still Matters | New Mexico UFOs
+title_full: Why the Socorro Sighting Still Matters
 display_title_short: Socorro
 display_title: Socorro
 heading_title: Why the Socorro Sighting Still Matters
@@ -262,8 +262,7 @@ image: /assets/images/New_Mexico_45551f_socorro_witness_709f69-overview-social.j
 
 ## Introduction
 
-The Socorro landing report still matters because it is one of the rare [New Mexico]({{ 'why-new-mexico-became-ufo-country/' | relative_url }}) UFO cases built around a named, on-duty police witness, a reported landing site and immediate official investigation, rather than a distant light in the sky. On 24 April 1964, Socorro police sergeant Lonnie Zamora said he left a speeding-car pursuit after hearing a roar and seeing a flame near an arroyo south of town. He then reported a whitish, oval object, brief figures near it, a loud take-off, scorched brush and ground impressions. Project [Blue Book]({{ 'blue-book-12faa9/' | relative_url }}), the US Air Force’s UFO investigation, ultimately treated the case as unresolved, while also finding no evidence of extraterrestrial origin or national-security threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/resources/csi/static/Investigation-of-UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">The Investigation of UFO&#x27;s</span><span class="citation-popover-snippet">CIAThe Investigation of UFO&#x27;s...</span></span></span>
-
+The Socorro landing report still matters because it is one of the rare New Mexico UFO cases built around a named, on-duty police witness, a reported landing site and immediate official investigation, rather than a distant light in the sky. On 24 April 1964, Socorro police sergeant Lonnie Zamora said he left a speeding-car pursuit after hearing a roar and seeing a flame near an arroyo south of town. He then reported a whitish, oval object, brief figures near it, a loud take-off, scorched brush and ground impressions. Project [Blue Book]({{ 'blue-book-12faa9/' | relative_url }}), the US Air Force’s UFO investigation, ultimately treated the case as unresolved, while also finding no evidence of extraterrestrial origin or national-security threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/resources/csi/static/Investigation-of-UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">The Investigation of UFO&#x27;s</span><span class="citation-popover-snippet">The Investigation of UFO&#x27;s...</span></span></span>
 
 <img src="{{ "/assets/images/New_Mexico_45551f_socorro_witness_709f69-overview.webp" | relative_url }}" alt="Overview image for Socorro" loading="eager" decoding="sync" fetchpriority="high">
 That combination is what gives the case its staying power. Zamora was regarded as a sober and reliable witness, but the physical evidence was limited, the supporting witnesses were weaker than the legend sometimes suggests, and later sceptical explanations have ranged from New Mexico Tech pranksters to balloons, Surveyor lunar-lander tests and other aerospace activity. The most careful reading is therefore neither “alien landing proved” nor “case closed”, but a more interesting middle position: Socorro is a strong classic close-encounter report that exposes both the value and the risk of relying heavily on one credible witness.
@@ -278,18 +277,16 @@ That sequence is important for credibility because it does not read like a polis
 
 There is, however, a built-in weakness. Zamora’s observation was close but brief, stressful and partly interrupted by terrain, his vehicle and his own attempt to get away from what he feared might explode. The strongest part of the case is not that he calmly inspected a machine at leisure; it is that a police officer gave a consistent, immediate account of a startling event that was then checked by others at the scene.
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f_socorro_witness_709f69-Illustration-1-light.svg" | relative_url }}" alt="Socorro illustration 1" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_socorro_witness_709f69-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_socorro_witness_709f69-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Mexico_45551f_socorro_witness_709f69-Illustration-1-dark.svg" | relative_url }}" alt="Socorro illustration 1" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_socorro_witness_709f69-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_socorro_witness_709f69-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Zamora’s credibility became central
 
-The Socorro case depends unusually heavily on the character and behaviour of one witness. Project Blue Book’s own discussion described Zamora as reliable, calling him a serious police officer and “well versed in recognising airborne vehicles in his area”. It also stated that there was “no doubt” he had seen an object that strongly affected him. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/resources/csi/static/Investigation-of-UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">The Investigation of UFO&#x27;s</span><span class="citation-popover-snippet">CIAThe Investigation of UFO&#x27;s...</span></span></span>
+The Socorro case depends unusually heavily on the character and behaviour of one witness. Project Blue Book’s own discussion described Zamora as reliable, calling him a serious police officer and “well versed in recognising airborne vehicles in his area”. It also stated that there was “no doubt” he had seen an object that strongly affected him. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/resources/csi/static/Investigation-of-UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">The Investigation of UFO&#x27;s</span><span class="citation-popover-snippet">The Investigation of UFO&#x27;s...</span></span></span>
 
 That official respect did not amount to proof. The same Air Force-linked account also said the investigation found no sign that the case involved extraterrestrial origin or a threat to US security. In other words, official investigators could accept Zamora as sincere without accepting the most extraordinary interpretation of what he reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">how to investigate a flying saucer</span><span class="citation-popover-snippet">how to investigate a flying saucer</span></span></span>
 
 Zamora’s later conduct also shaped how the case was remembered. He did not become a long-term UFO celebrity in the way some famous witnesses did. Sceptical Inquirer noted that, for decades, he became unwilling to discuss the incident further and had given no interviews for many years before his death in 2009. That withdrawal can be read in more than one way: as the fatigue of a man who had told his story and did not want the attention, or simply as a reminder that silence does not verify the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2010/03/p25.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Open source on skepticalinquirer.org.</span></span></span>
 
 The human point is easy to miss. A credible witness is not the same as an infallible measuring instrument. Police experience may make a person better than average at observing vehicles, distances and public incidents, but it does not eliminate stress, surprise, angle of view, expectation, memory compression or the possibility of being deceived. Socorro remains compelling because Zamora seems sincere; it remains unresolved because sincerity alone cannot identify the object.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IHWXhL6g9lU" title="UFO Evidence No One Can Explain | Close Encounters 110" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IHWXhL6g9lU" target="_blank" rel="noopener noreferrer">UFO Evidence No One Can Explain | Close Encounters 110</a></p><p class="youtube-embed-meta">Channel: SpaceRip &middot; Views: 63.3K &middot; Uploaded: December 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IHWXhL6g9lU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IHWXhL6g9lU">Open on YouTube</a></p></div></div></div>
 
@@ -303,8 +300,7 @@ That is why the case sits in an awkward evidential category. The traces made the
 
 The Blue Book classification matters because Project Blue Book was not generally eager to expand the number of unsolved cases. In the CIA-hosted account, the Socorro case is introduced as one of 19 reports listed as unidentified in 1964, after that year’s cases had otherwise been sorted into categories such as astronomical, aircraft, balloon, satellite, insufficient data and other explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010007-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f_socorro_witness_709f69-Illustration-2-light.svg" | relative_url }}" alt="Socorro illustration 2" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_socorro_witness_709f69-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_socorro_witness_709f69-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Mexico_45551f_socorro_witness_709f69-Illustration-2-dark.svg" | relative_url }}" alt="Socorro illustration 2" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_socorro_witness_709f69-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_socorro_witness_709f69-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The best case for taking Socorro seriously
 
 The strongest argument for Socorro is cumulative rather than spectacular. It has a named witness on duty, a rapid call-in, a second officer soon at the site, physical marks, burned brush, Air Force attention and a failure to match the report to a known aircraft, balloon, weather event or test vehicle. The official account says investigators checked local and Air Force balloon releases, helicopter activity across New Mexico, government and private aircraft, Holloman and Albuquerque radar, [White Sands]({{ 'white-sands/' | relative_url }}) Missile Range contacts and companies involved in lunar vehicle research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010007-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
@@ -314,7 +310,6 @@ The case also gained weight because J. Allen Hynek, the astronomer who served as
 That phrase “as far as it goes” is the key to a balanced assessment. The report goes further than many UFO cases because it is specific, investigated and tied to a physical site. It does not go far enough to identify the object. Socorro’s strength is that something apparently prompted a real police response and left some environmental signs; its limitation is that the signs were not diagnostic.
 
 The case also fits New Mexico’s distinctive UFO setting. Socorro lies within a state shaped by military ranges, aerospace research, Cold War secrecy and rocket-era experimentation. That makes exotic but human explanations plausible in a way they might not be elsewhere. At the same time, it also makes official denials less satisfying to readers, because New Mexico history includes real classified programmes whose details were not always public at the time.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r1FOPCs8Kps" title="Lonnie Zamora UFO Incident (Socorro, New Mexico; Aliens?) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r1FOPCs8Kps" target="_blank" rel="noopener noreferrer">Lonnie Zamora UFO Incident (Socorro, New Mexico; Aliens?) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 65.9K &middot; Uploaded: November 2022 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r1FOPCs8Kps" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r1FOPCs8Kps">Open on YouTube</a></p></div></div></div>
 
@@ -328,8 +323,7 @@ A third doubt is social context. Socorro was a small college town with New Mexic
 
 The difficulty is that a plausible prank theory is not the same as a demonstrated prank. The strongest versions rely on later recollections, unnamed participants, institutional rumour and fragmentary documentation. That may weaken the alien interpretation, but it does not cleanly close the case.
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f_socorro_witness_709f69-Illustration-3-light.svg" | relative_url }}" alt="Socorro illustration 3" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_socorro_witness_709f69-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_socorro_witness_709f69-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Mexico_45551f_socorro_witness_709f69-Illustration-3-dark.svg" | relative_url }}" alt="Socorro illustration 3" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_socorro_witness_709f69-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_socorro_witness_709f69-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Test craft, hoax and unresolved explanations
 
 The most reasonable explanations fall into three broad families: an experimental human craft, a hoax or prank, or a still-unidentified event that remains beyond the available evidence.
@@ -340,10 +334,9 @@ The Surveyor lunar-lander explanation is one of the more specific versions of th
 
 The student-prank theory is stronger than a casual debunk but weaker than a solved case. Sceptical Inquirer reported that the 1968 Pauling-Colgate correspondence included Stirling Colgate’s note that he had “a good indication” of the student who engineered the hoax and that the student had left. It also presented later claims that a New Mexico Tech student tradition of elaborate pranks could explain the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-MA-10.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">SI MA 10</span><span class="citation-popover-snippet">SI MA 10</span></span></span>
 
-Other later hoax arguments add detail but also add uncertainty. UFO Explorations says Colgate later answered “Yes” when asked whether he still knew the incident was a hoax, but the account also acknowledges that he did not provide a full public explanation of how the supposed prank was done or identify the participants. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoexplorations.com/socorro-ufo-hoax-exposed-as-prank" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoexplorations.com">[ufoexplorations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoexplorations.com</span><span class="citation-popover-title">UFO Explorations | The Socorro UFO Hoax Exposed as College Prank</span><span class="citation-popover-snippet">UFO Explorations | The Socorro UFO Hoax Exposed as College Prank</span></span></span>
+Other later hoax arguments add detail but also add uncertainty. UFO Explorations says Colgate later answered “Yes” when asked whether he still knew the incident was a hoax, but the account also acknowledges that he did not provide a full public explanation of how the supposed prank was done or identify the participants. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoexplorations.com/socorro-ufo-hoax-exposed-as-prank" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoexplorations.com">[ufoexplorations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoexplorations.com</span><span class="citation-popover-title">UFO Explorations &#124; The Socorro UFO Hoax Exposed as College Prank</span><span class="citation-popover-snippet">UFO Explorations &#124; The Socorro UFO Hoax Exposed as College Prank</span></span></span>
 
 A useful sceptical position is therefore not “Zamora lied”. In fact, the more persuasive prank version makes Zamora the target rather than the author of the event. Sceptical Inquirer explicitly argues that a student hoax would shift Zamora from active participant to victim, a reading that fits his apparent distress and the lack of strong evidence that he sought lasting fame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-MA-10.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">SI MA 10</span><span class="citation-popover-snippet">SI MA 10</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hg_f7iPP_ec" title="Lonnie Zamora UFO Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hg_f7iPP_ec" target="_blank" rel="noopener noreferrer">Lonnie Zamora UFO Explained</a></p><p class="youtube-embed-meta">Channel: Lynne Whelden &middot; Views: 5.8K &middot; Uploaded: February 2021 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hg_f7iPP_ec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hg_f7iPP_ec">Open on YouTube</a></p></div></div></div>
 
@@ -779,119 +772,119 @@ The fairest verdict is that Socorro remains one of New Mexico’s strongest clas
 1. <a id="endnote-1"></a>
    Source: cia.gov  
    Title: The Investigation of UFO's  
-   Link: [https://www.cia.gov/resources/csi/static/Investigation-of-UFOs.pdf](https://www.cia.gov/resources/csi/static/Investigation-of-UFOs.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIAThe Investigation of UFO&#x27;s...</p></details>
+   Link: <a href="https://www.cia.gov/resources/csi/static/Investigation-of-UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/Investigation-of-UFOs.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Investigation of UFO&#x27;s...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2010/03/p25.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2010/03/p25.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2010/03/p25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2010/03/p25.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: cufos.org  
    Title: Center for UFO Studies  
-   Link: [https://cufos.org/PDFs/1965_04_24_Socorro/1964_04_24_US_NM_Socorro_CUFOS_Zamora.pdf](https://cufos.org/PDFs/1965_04_24_Socorro/1964_04_24_US_NM_Socorro_CUFOS_Zamora.pdf)  
+   Link: <a href="https://cufos.org/PDFs/1965_04_24_Socorro/1964_04_24_US_NM_Socorro_CUFOS_Zamora.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/1965_04_24_Socorro/1964_04_24_US_NM_Socorro_CUFOS_Zamora.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: metabunk.org  
    Title: what happened in socorro nm april 24 1964.12553  
-   Link: [https://www.metabunk.org/threads/what-happened-in-socorro-nm-april-24-1964.12553/](https://www.metabunk.org/threads/what-happened-in-socorro-nm-april-24-1964.12553/)  
+   Link: <a href="https://www.metabunk.org/threads/what-happened-in-socorro-nm-april-24-1964.12553/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/what-happened-in-socorro-nm-april-24-1964.12553/</a>  
 
 5. <a id="endnote-5"></a>
    Source: ufoexplorations.com  
    Title: UFO Explorations | The Socorro UFO Hoax Exposed as College Prank  
-   Link: [https://www.ufoexplorations.com/socorro-ufo-hoax-exposed-as-prank](https://www.ufoexplorations.com/socorro-ufo-hoax-exposed-as-prank)  
+   Link: <a href="https://www.ufoexplorations.com/socorro-ufo-hoax-exposed-as-prank" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoexplorations.com/socorro-ufo-hoax-exposed-as-prank</a>  
 
 6. <a id="endnote-6"></a>
    Source: cia.gov  
    Title: how to investigate a flying saucer  
-   Link: [https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/](https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/)  
+   Link: <a href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/</a>  
 
 7. <a id="endnote-7"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
 8. <a id="endnote-8"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010007-4.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010007-4.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010007-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010007-4.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: unsolved.com  
    Title: Socorro UFO  
-   Link: [https://unsolved.com/gallery/socorro-ufo/](https://unsolved.com/gallery/socorro-ufo/)  
+   Link: <a href="https://unsolved.com/gallery/socorro-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/socorro-ufo/</a>  
 
 10. <a id="endnote-10"></a>
    Source: skepticalinquirer.org  
    Title: SI MA 10  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-MA-10.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-MA-10.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-MA-10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-MA-10.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: cufos.org  
    Title: 1964 04 24 US NM Socorro CUFOS Zamora Files1&4R  
-   Link: [https://cufos.org/PDFs/1965_04_24_Socorro/1964_04_24_US_NM_Socorro_CUFOS_Zamora_Files1%264R.pdf](https://cufos.org/PDFs/1965_04_24_Socorro/1964_04_24_US_NM_Socorro_CUFOS_Zamora_Files1%264R.pdf)  
+   Link: <a href="https://cufos.org/PDFs/1965_04_24_Socorro/1964_04_24_US_NM_Socorro_CUFOS_Zamora_Files1%264R.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/1965_04_24_Socorro/1964_04_24_US_NM_Socorro_CUFOS_Zamora_Files1%264R.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: socorronm.org  
    Title: Visit Socorro New Mexico Socorro Landing: A UFO Story  
-   Link: [https://socorronm.org/notable-local/socorro-landing-ufo-story/](https://socorronm.org/notable-local/socorro-landing-ufo-story/)  
+   Link: <a href="https://socorronm.org/notable-local/socorro-landing-ufo-story/" target="_blank" rel="noopener noreferrer nofollow">https://socorronm.org/notable-local/socorro-landing-ufo-story/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Visit Socorro New MexicoSocorro Landing: A UFO Story - Visit Socorro New Mexico...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: J. Allen Hynek  
-   Link: [https://en.wikipedia.org/wiki/J._Allen_Hynek](https://en.wikipedia.org/wiki/J._Allen_Hynek)  
+   Link: <a href="https://en.wikipedia.org/wiki/J._Allen_Hynek" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/J._Allen_Hynek</a>  
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 15. <a id="endnote-15"></a>
    Source: biography.com  
    Title: J. Allen Hynek  
-   Link: [https://www.biography.com/scientists/j-allen-hynek](https://www.biography.com/scientists/j-allen-hynek)  
+   Link: <a href="https://www.biography.com/scientists/j-allen-hynek" target="_blank" rel="noopener noreferrer nofollow">https://www.biography.com/scientists/j-allen-hynek</a>  
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Lonnie Zamora UFO Incident (Socorro, New Mexico; Aliens?)  
-   Link: [https://www.youtube.com/watch?v=r1FOPCs8Kps](https://www.youtube.com/watch?v=r1FOPCs8Kps)  
+   Link: <a href="https://www.youtube.com/watch?v=r1FOPCs8Kps" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r1FOPCs8Kps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 328 LIVE: The Socorro Landing, aka the Lonnie Zamora UFO Incident...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Lonnie Zamora UFO Explained  
-   Link: [https://www.youtube.com/watch?v=hg_f7iPP_ec](https://www.youtube.com/watch?v=hg_f7iPP_ec)  
+   Link: <a href="https://www.youtube.com/watch?v=hg_f7iPP_ec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hg_f7iPP_ec</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault Originals: FBI Documents on the Lonnie Zamora Case / Socorro, NM UFO Landing...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1aq0qd1/a_theory_based_on_the_lonnie_zamora_ufo_incident/](https://www.reddit.com/r/UFOs/comments/1aq0qd1/a_theory_based_on_the_lonnie_zamora_ufo_incident/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1aq0qd1/a_theory_based_on_the_lonnie_zamora_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aq0qd1/a_theory_based_on_the_lonnie_zamora_ufo_incident/</a>  
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/rtjd8y/documented_proof_of_the_air_force_project_blue/](https://www.reddit.com/r/UFOs/comments/rtjd8y/documented_proof_of_the_air_force_project_blue/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/rtjd8y/documented_proof_of_the_air_force_project_blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rtjd8y/documented_proof_of_the_air_force_project_blue/</a>  
 
 20. <a id="endnote-20"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt](https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt)  
+   Link: <a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/13bn1x2/important_this_might_explain_the_writing_on_the/](https://www.reddit.com/r/aliens/comments/13bn1x2/important_this_might_explain_the_writing_on_the/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/13bn1x2/important_this_might_explain_the_writing_on_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/13bn1x2/important_this_might_explain_the_writing_on_the/</a>  
 
 22. <a id="endnote-22"></a>
    Source: socorronm.org  
-   Link: [https://socorronm.org/location-activity/socorro-landing-a-ufo-story/](https://socorronm.org/location-activity/socorro-landing-a-ufo-story/)  
+   Link: <a href="https://socorronm.org/location-activity/socorro-landing-a-ufo-story/" target="_blank" rel="noopener noreferrer nofollow">https://socorronm.org/location-activity/socorro-landing-a-ufo-story/</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1061947753884363/posts/7193435404068870/](https://www.facebook.com/groups/1061947753884363/posts/7193435404068870/)  
+   Link: <a href="https://www.facebook.com/groups/1061947753884363/posts/7193435404068870/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1061947753884363/posts/7193435404068870/</a>  
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1q49zvi/the_lonnie_zamora_ufo_incident_the_case_project/](https://www.reddit.com/r/ufo/comments/1q49zvi/the_lonnie_zamora_ufo_incident_the_case_project/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1q49zvi/the_lonnie_zamora_ufo_incident_the_case_project/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1q49zvi/the_lonnie_zamora_ufo_incident_the_case_project/</a>  
 
 25. <a id="endnote-25"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html](https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html)  
+   Link: <a href="https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html</a>

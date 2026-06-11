@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /hudson-wave/
 nav_short_title: Indian Point
 title: Did UFOs really approach Indian Point?
-title_full: Did UFOs really approach Indian Point? | Hudson Wave
+title_full: Did UFOs really approach Indian Point?
 display_title_short: Indian Point
 display_title: Indian Point
 heading_title: Did UFOs really approach Indian Point?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:55:04'
-parent_title: Was the Hudson Valley Boomerang a UFO? | New York UFOs
+parent_title: Was the Hudson Valley Boomerang a UFO?
 parent_permalink: /hudson-wave/
 parent_nav_short_title: Hudson Wave
 parent_heading_title: Was the Hudson Valley Boomerang a UFO?
@@ -250,10 +250,9 @@ image: /assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sig
 
 ## Introduction
 
-The Indian Point sightings became one of the most controversial parts of [New York]({{ 'what-really-happened-in-new-yorks-ufo/' | relative_url }})’s Hudson Valley UFO wave because they appeared to place an unexplained object near one of the region’s most sensitive pieces of infrastructure: the Indian Point nuclear power station on the Hudson River. During the summer of 1984, several security guards and other witnesses reportedly described large illuminated objects near the plant, adding a security dimension that made the claims more dramatic than many ordinary roadside sightings. Yet the case is also a good example of why nuclear-site UFO stories require careful scrutiny. Many of the most striking details came through later UFO investigators rather than official [records]({{ 'records-637b5f/' | relative_url }}), and key claims were disputed by plant officials and police. The result is a case that remains memorable in New York UFO history, but far less clear-cut than later retellings often suggest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
+The Indian Point sightings became one of the most controversial parts of New York’s Hudson Valley UFO wave because they appeared to place an unexplained object near one of the region’s most sensitive pieces of infrastructure: the Indian Point nuclear power station on the Hudson River. During the summer of 1984, several security guards and other witnesses reportedly described large illuminated objects near the plant, adding a security dimension that made the claims more dramatic than many ordinary roadside sightings. Yet the case is also a good example of why nuclear-site UFO stories require careful scrutiny. Many of the most striking details came through later UFO investigators rather than official [records]({{ 'records-637b5f/' | relative_url }}), and key claims were disputed by plant officials and police. The result is a case that remains memorable in New York UFO history, but far less clear-cut than later retellings often suggest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
-
-<img src="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-1-light.svg" | relative_url }}" alt="Indian Point illustration 1" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-1-dark.svg" | relative_url }}" alt="Indian Point illustration 1" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What guards and witnesses reportedly described
 
 Indian Point, located in Buchanan in Westchester County, sat directly within the broader area affected by the [Hudson Valley wave]({{ 'hudson-wave/' | relative_url }}) of 1983–84. Because thousands of residents were already reporting unusual lights and large V-shaped formations, any sighting near the nuclear station immediately attracted extra attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
@@ -262,8 +261,7 @@ The most frequently repeated accounts concern two dates: 14 June and 24 July 198
 
 The July 1984 reports became especially well known because they appeared to overlap with one of the major peaks in Hudson Valley sightings. Video footage taken elsewhere in the region that evening was later linked in UFO literature to the Indian Point incident, creating a narrative that the same object had travelled across multiple counties before appearing near the reactors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=5rt7iaKNzyc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">1984-07-24: Brewster and Indian Point UFO VideoOn this 24 July night in 1984, Hudson Valley sightings peaked once again across Wes...</span></span></span>
 
-As with many Hudson Valley accounts, witnesses emphasised several recurring features: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=syZ9cXHutAU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Hudson Valley Boomerangs</span><span class="citation-popover-snippet">A 1980&#x27;s UFO sightings...Alien Encounters You Won&#x27;t Believe | Ancient Aliens | History · Ancient Aliens: UFO Invasion in New York...</span></span></span>
-
+As with many Hudson Valley accounts, witnesses emphasised several recurring features: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=syZ9cXHutAU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Hudson Valley Boomerangs</span><span class="citation-popover-snippet">A 1980&#x27;s UFO sightings...Alien Encounters You Won&#x27;t Believe &#124; Ancient Aliens &#124; History · Ancient Aliens: UFO Invasion in New York...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -276,7 +274,6 @@ As with many Hudson Valley accounts, witnesses emphasised several recurring feat
 </div>
 
 These descriptions helped make the Indian Point reports a favourite example for investigators who argued that at least some Hudson Valley sightings could not be explained by ordinary aircraft.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9gH3rT9d4ss" title="Mystic Energy Lines Run Through New York? | Ancient Aliens | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9gH3rT9d4ss" target="_blank" rel="noopener noreferrer">Mystic Energy Lines Run Through New York? | Ancient Aliens | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 117.5K &middot; Uploaded: September 2025 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9gH3rT9d4ss" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9gH3rT9d4ss">Open on YouTube</a></p></div></div></div>
 
@@ -308,8 +305,7 @@ Third, some witness descriptions themselves contain clues that point toward mult
 
 None of this proves that every observer saw aircraft. It does show, however, that Indian Point was not an isolated mystery. It occurred in the middle of a regional flap already known to include genuine aircraft-generated sightings.
 
-
-<img src="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-2-light.svg" | relative_url }}" alt="Indian Point illustration 2" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-2-dark.svg" | relative_url }}" alt="Indian Point illustration 2" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why nuclear-site UFO claims need extra caution
 
 Nuclear facilities occupy a special place in UFO culture. Reports near reactors, missile fields or weapons sites often receive greater attention than ordinary sightings because they seem to imply strategic significance. That attention can sometimes distort how evidence is weighed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufos near nuclear facilities uss roosevelt rendlesham</span><span class="citation-popover-snippet">Between 1947 and 1969, a small, top-secret Air Force team called Project Blue Book scientifically investigated some 12,000 UFO...Read more...</span></span></span>
@@ -322,7 +318,6 @@ An unexplained light over a rural road is one thing. The same light near a nucle
 
 In reality, a sensitive location does not automatically produce better evidence. Witnesses can still misjudge distance, altitude, speed and size, especially at night. The location raises the stakes, but not necessarily the quality of the information.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aUgrzNDJkCM" title="Top 20 UFO Sightings That MIGHT BE REAL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aUgrzNDJkCM" target="_blank" rel="noopener noreferrer">Top 20 UFO Sightings That MIGHT BE REAL</a></p><p class="youtube-embed-meta">Channel: WatchMojo.com &middot; Views: 70.7K &middot; Uploaded: October 2024 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aUgrzNDJkCM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aUgrzNDJkCM">Open on YouTube</a></p></div></div></div>
 
 ### Later retellings often become more dramatic
@@ -330,7 +325,6 @@ In reality, a sensitive location does not automatically produce better evidence.
 The Indian Point story grew through books, television programmes and UFO conferences. As often happens in long-running UFO cases, later accounts tended to emphasise the largest object estimates, the strongest security-response claims and the most extraordinary witness interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
 Researchers and readers therefore have to distinguish between:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -342,8 +336,7 @@ Researchers and readers therefore have to distinguish between:
 
 Those are not always the same thing.
 
-
-<img src="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-3-light.svg" | relative_url }}" alt="Indian Point illustration 3" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-3-dark.svg" | relative_url }}" alt="Indian Point illustration 3" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099_indian_point_sightin_2ac6d5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Missing records matter
 
 One of the strongest sceptical points is not that witnesses were dishonest. It is that key supporting records have never surfaced.
@@ -358,9 +351,7 @@ The case is not remembered because it produced definitive evidence. It is rememb
 
 More than forty years later, the Indian Point reports remain unresolved in the narrow sense that no single event was conclusively identified. At the same time, they are far from a proven mystery. The absence of supporting documentation, the existence of a well-established aircraft explanation in the region, and disputes over key witness claims mean the case is best understood as a contested chapter within the larger Hudson Valley wave rather than as independent proof that an unknown craft approached a New York nuclear plant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nrc.gov/docs/ML2117/ML21179A021.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Police at the Indian Point Nuclear Power Station. A search of our files indicates...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0mMgZc0ntq8" title="Unsolved Mysteries with Dennis Farina - Season 1 Episode 20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0mMgZc0ntq8" target="_blank" rel="noopener noreferrer">Unsolved Mysteries with Dennis Farina - Season 1 Episode 20</a></p><p class="youtube-embed-meta">Channel: Unsolved Mysteries - Full Episodes &middot; Views: 272.4K &middot; Uploaded: February 2017 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0mMgZc0ntq8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0mMgZc0ntq8">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xQotYfBKg8g" title="The Hudson Valley UFO Phenomenon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xQotYfBKg8g" target="_blank" rel="noopener noreferrer">The Hudson Valley UFO Phenomenon</a></p><p class="youtube-embed-meta">Channel: Everything Vaguely Paranormal &middot; Views: 287 &middot; Uploaded: April 2024 &middot; Length: 1 hour 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xQotYfBKg8g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xQotYfBKg8g">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -784,140 +775,140 @@ More than forty years later, the Indian Point reports remain unresolved in the n
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: 1984 Hudson Valley UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings](https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings</a>  
 
 2. <a id="endnote-2"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=5rt7iaKNzyc](https://www.youtube.com/watch?v=5rt7iaKNzyc)  
+   Link: <a href="https://www.youtube.com/watch?v=5rt7iaKNzyc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5rt7iaKNzyc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1984-07-24: Brewster and Indian Point UFO VideoOn this 24 July night in 1984, Hudson Valley sightings peaked once again across Wes...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: discoveryuk.com  
    Title: hudson valley ufo americas ufo hotspot  
-   Link: [https://www.discoveryuk.com/mysteries/hudson-valley-ufo-americas-ufo-hotspot/](https://www.discoveryuk.com/mysteries/hudson-valley-ufo-americas-ufo-hotspot/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/hudson-valley-ufo-americas-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/hudson-valley-ufo-americas-ufo-hotspot/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hudson Valley UFO: America&#x27;s UFO Hotspot - Discovery UKJan 15, 2026 — Discover the astonishing story of the Hudson Valley UFO wave, one o...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: history.com  
    Title: ufos near nuclear facilities uss roosevelt rendlesham  
-   Link: [https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham](https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham)  
+   Link: <a href="https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Between 1947 and 1969, a small, top-secret Air Force team called Project Blue Book scientifically investigated some 12,000 UFO...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=xQotYfBKg8g](https://www.youtube.com/watch?v=xQotYfBKg8g)  
+   Link: <a href="https://www.youtube.com/watch?v=xQotYfBKg8g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xQotYfBKg8g</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>4:04 · Go to channel NewsNation · Rep...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=xpYTG2xoc7Y](https://www.youtube.com/watch?v=xpYTG2xoc7Y)  
+   Link: <a href="https://www.youtube.com/watch?v=xpYTG2xoc7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xpYTG2xoc7Y</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ve sparked global curiosity and security concerns...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Hudson Valley Boomerangs  
-   Link: [https://www.youtube.com/watch?v=syZ9cXHutAU](https://www.youtube.com/watch?v=syZ9cXHutAU)  
+   Link: <a href="https://www.youtube.com/watch?v=syZ9cXHutAU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=syZ9cXHutAU</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A 1980&#x27;s UFO sightings...Alien Encounters You Won&#x27;t Believe | Ancient Aliens | History &amp;middot; Ancient Aliens: UFO Invasion in New York...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ddWpdqV2R9o](https://www.youtube.com/watch?v=ddWpdqV2R9o)  
+   Link: <a href="https://www.youtube.com/watch?v=ddWpdqV2R9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ddWpdqV2R9o</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and UFO sightings...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Unsolved Mysteries with Dennis Farina  
-   Link: [https://www.youtube.com/watch?v=0mMgZc0ntq8](https://www.youtube.com/watch?v=0mMgZc0ntq8)  
+   Link: <a href="https://www.youtube.com/watch?v=0mMgZc0ntq8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mMgZc0ntq8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 285 - The Hudson Valley UFO Sightings...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Episode 285  
-   Link: [https://www.youtube.com/watch?v=Os2KocEJ7mE](https://www.youtube.com/watch?v=Os2KocEJ7mE)  
+   Link: <a href="https://www.youtube.com/watch?v=Os2KocEJ7mE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Os2KocEJ7mE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystic Energy Lines Run Through New York? | Ancient Aliens | History...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Mystic Energy Lines Run Through New York? | Ancient Aliens | History  
-   Link: [https://www.youtube.com/watch?v=9gH3rT9d4ss](https://www.youtube.com/watch?v=9gH3rT9d4ss)  
+   Link: <a href="https://www.youtube.com/watch?v=9gH3rT9d4ss" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9gH3rT9d4ss</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Files #10: Invasion of the Flying Boomerangs - 1984...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: UFO Files #10: Invasion of the Flying Boomerangs  
-   Link: [https://www.youtube.com/watch?v=SVV1Tx4intc](https://www.youtube.com/watch?v=SVV1Tx4intc)  
+   Link: <a href="https://www.youtube.com/watch?v=SVV1Tx4intc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SVV1Tx4intc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 20 UFO Sightings That MIGHT BE REAL...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Top 20 UFO Sightings That MIGHT BE REAL  
-   Link: [https://www.youtube.com/watch?v=aUgrzNDJkCM](https://www.youtube.com/watch?v=aUgrzNDJkCM)  
+   Link: <a href="https://www.youtube.com/watch?v=aUgrzNDJkCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aUgrzNDJkCM</a>  
 
 14. <a id="endnote-14"></a>
    Source: nrc.gov  
-   Link: [https://www.nrc.gov/docs/ML2117/ML21179A021.pdf](https://www.nrc.gov/docs/ML2117/ML21179A021.pdf)  
+   Link: <a href="https://www.nrc.gov/docs/ML2117/ML21179A021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2117/ML21179A021.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Police at the Indian Point Nuclear Power Station. A search of our files indicates...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: unsolved.com  
    Title: hudson valley ufo  
-   Link: [https://unsolved.com/gallery/hudson-valley-ufo/](https://unsolved.com/gallery/hudson-valley-ufo/)  
+   Link: <a href="https://unsolved.com/gallery/hudson-valley-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/hudson-valley-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries(Two witnesses) ”…saw an object near…home in Bridgeport, CT, just before 11:00 P.M...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: ufoevidence.org  
-   Link: [https://www.ufoevidence.org/documents/doc689.htm](https://www.ufoevidence.org/documents/doc689.htm)  
+   Link: <a href="https://www.ufoevidence.org/documents/doc689.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/documents/doc689.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Incident At Indian PointThe first time I heard about the sighting over the reactor was on September 2, 1984, about a month and a half aft...</p></details>
    Published: September 2, 1984  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AncientAliensOutofThisWorldMoments/posts/on-new-years-eve-1982-in-a-small-new-york-town-stunned-witnesses-report-seeing-a/1205568818418619/](https://www.facebook.com/AncientAliensOutofThisWorldMoments/posts/on-new-years-eve-1982-in-a-small-new-york-town-stunned-witnesses-report-seeing-a/1205568818418619/)  
+   Link: <a href="https://www.facebook.com/AncientAliensOutofThisWorldMoments/posts/on-new-years-eve-1982-in-a-small-new-york-town-stunned-witnesses-report-seeing-a/1205568818418619/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AncientAliensOutofThisWorldMoments/posts/on-new-years-eve-1982-in-a-small-new-york-town-stunned-witnesses-report-seeing-a/1205568818418619/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On New Year&#x27;s Eve 1982 in a small New York town...- *June 14 and July 24, 1984*: Security guards at the Indian Point Nuclear Power Plant...</p></details>
    Published: July 24, 1984  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/552059654373970/posts/565331069713495/](https://www.facebook.com/groups/552059654373970/posts/565331069713495/)  
+   Link: <a href="https://www.facebook.com/groups/552059654373970/posts/565331069713495/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/552059654373970/posts/565331069713495/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 24, 1984*: Security guards at the Indian Point Nuclear Power Plant reported a 900-foot UFO hovering over the plant for 15...Read more...</p></details>
    Published: July 24, 1984  
 
 19. <a id="endnote-19"></a>
    Source: ryan-sprague51.medium.com  
    Title: ufo incident at nuclear complex still perplexes today e7b115d4a6ce  
-   Link: [https://ryan-sprague51.medium.com/ufo-incident-at-nuclear-complex-still-perplexes-today-e7b115d4a6ce](https://ryan-sprague51.medium.com/ufo-incident-at-nuclear-complex-still-perplexes-today-e7b115d4a6ce)  
+   Link: <a href="https://ryan-sprague51.medium.com/ufo-incident-at-nuclear-complex-still-perplexes-today-e7b115d4a6ce" target="_blank" rel="noopener noreferrer nofollow">https://ryan-sprague51.medium.com/ufo-incident-at-nuclear-complex-still-perplexes-today-e7b115d4a6ce</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Incident at Nuclear Complex Still Perplexes TodayThe Indian Point UFO incident of 1984 is a captivating case in the field of UFOlogy, not...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100028272500453/photos/1801881854097547/](https://www.facebook.com/100028272500453/photos/1801881854097547/)  
+   Link: <a href="https://www.facebook.com/100028272500453/photos/1801881854097547/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100028272500453/photos/1801881854097547/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 14, 1984 Location: Buchahan, New York, United States The object consisted of...Read more...</p></details>
    Published: June 14, 1984  
 
 21. <a id="endnote-21"></a>
    Source: timesunion.com  
    Title: ufo sightings westchester [pine bush](&#123;&#123; 'pine-bush/' | relative_url &#125;&#125;) mystery 19363246  
-   Link: [https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php](https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php)  
+   Link: <a href="https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php" target="_blank" rel="noopener noreferrer nofollow">https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The mysterious history of the Hudson Valley UFO sightingsJul 2, 2024 — In the 1980s and &#x27;90s, the Hudson Valley experienced one of the bi...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: science.howstuffworks.com  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/north-hudson-park-ufo.htm](https://science.howstuffworks.com/space/aliens-ufos/north-hudson-park-ufo.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/north-hudson-park-ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/north-hudson-park-ufo.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>North Hudson Park UFO | HowStuffWorks - ScienceDuring one sighting, the UFO hovered about 30 feet above the Indian Point Nuclear Plant...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DJajwOgpGEU/](https://www.instagram.com/p/DJajwOgpGEU/)  
+   Link: <a href="https://www.instagram.com/p/DJajwOgpGEU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DJajwOgpGEU/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SIGHTINGS FL - 出い New Jersey NewJerseyDrones Drones 2024.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: ufocasebook.com  
-   Link: [https://www.ufocasebook.com/indianpoint1984.html](https://www.ufocasebook.com/indianpoint1984.html)  
+   Link: <a href="https://www.ufocasebook.com/indianpoint1984.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/indianpoint1984.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Incident at Indian Point Reactor Complex, NY 1984The first event entailed the brief flyover of a huge craft, witnessed by three security...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/chinesenorthamericanhistorynetwork/posts/1868522167038839/](https://www.facebook.com/groups/chinesenorthamericanhistorynetwork/posts/1868522167038839/)  
+   Link: <a href="https://www.facebook.com/groups/chinesenorthamericanhistorynetwork/posts/1868522167038839/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/chinesenorthamericanhistorynetwork/posts/1868522167038839/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting in New York City 1974In 1974, John Lennon claimed to have seen a UFO hovering over New York and that, in a second encounter...</p></details>

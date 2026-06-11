@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kentucky-e3b665-official-investigati/
 description: Focused pages that expand on Investigations.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Kentucky_e3b665_official_investigati_21722a
-parent_title: Investigations | What Really Happened in Kentucky's UFO...
+parent_title: Investigations
 parent_nav_short_title: Investigations
 parent_permalink: /investigations-ea7b1d/
 ---

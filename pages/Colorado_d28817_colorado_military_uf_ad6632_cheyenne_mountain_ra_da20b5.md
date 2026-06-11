@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /military-sites/
 nav_short_title: Cheyenne Mountain
 title: Did Cheyenne Mountain really track UFOs?
-title_full: Did Cheyenne Mountain really track UFOs? | Military Sites
+title_full: Did Cheyenne Mountain really track UFOs?
 display_title_short: Cheyenne Mountain
 display_title: Cheyenne Mountain
 heading_title: Did Cheyenne Mountain really track UFOs?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:05:20'
-parent_title: When Colorado UFO Reports Meet Military Airspace | Colorado UFOs
+parent_title: When Colorado UFO Reports Meet Military Airspace
 parent_permalink: /military-sites/
 parent_nav_short_title: Military Sites
 parent_heading_title: When Colorado UFO Reports Meet Military Airspace
@@ -252,8 +252,7 @@ image: /assets/images/Colorado_d28817_colorado_military_uf_ad6632_cheyenne_mount
 
 Cheyenne Mountain has attracted UFO rumours for decades because it sits at the intersection of Cold War secrecy, aerospace surveillance and popular imagination. Built inside a granite mountain near [Colorado]({{ 'what-really-happened-in-colorados-ufo/' | relative_url }}) Springs to survive nuclear war, the NORAD command complex became famous as a place where military personnel watched radar screens for incoming bombers, missiles and unknown objects. That mission naturally encouraged speculation that operators might also have tracked UFOs.
 
-
-<img src="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_cheyenne_mountain_ra_da20b5-Illustration-1-light.svg" | relative_url }}" alt="Cheyenne Mountain illustration 1" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_cheyenne_mountain_ra_da20b5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_cheyenne_mountain_ra_da20b5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_cheyenne_mountain_ra_da20b5-Illustration-1-dark.svg" | relative_url }}" alt="Cheyenne Mountain illustration 1" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_cheyenne_mountain_ra_da20b5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_cheyenne_mountain_ra_da20b5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The problem for researchers is that the evidence behind many of the most dramatic claims is thin. Stories about extraordinary radar contacts, impossible manoeuvres or hidden files often rely on anonymous testimony, second-hand retellings or reports published years after the alleged events. Official records confirm that Cheyenne Mountain monitored huge volumes of aerospace data and occasionally dealt with false alarms or unidentified radar returns, but they do not confirm sensational claims about alien craft. The result is one of Colorado’s most persistent UFO legends: a real military installation with genuine surveillance capabilities surrounded by rumours that are difficult to verify.
 
 ## Why Cheyenne Mountain became a UFO magnet
@@ -263,7 +262,6 @@ The Cheyenne Mountain Complex was designed during the Cold War as the hardened o
 That mission gave the site an unusual public image almost from the beginning. The facility was buried deep inside granite, protected by massive blast doors and connected to radar and satellite systems across the continent. Military secrecy surrounding the base encouraged rumours long before UFO culture became mainstream. During the Cold War, ordinary Americans knew the mountain was watching the skies, but they had little idea exactly what operators inside could see.
 
 Several factors helped turn the complex into a recurring UFO reference point in Colorado lore:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -276,17 +274,15 @@ Several factors helped turn the complex into a recurring UFO reference point in 
 
 Because of this mixture of real secrecy and fictional embellishment, stories about UFO tracking at Cheyenne Mountain often spread easily even when evidence was weak.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/74ud-5Ld48Y" title="Former senior intelligence officer finds UAP by Colorado defense bunker | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=74ud-5Ld48Y" target="_blank" rel="noopener noreferrer">Former senior intelligence officer finds UAP by Colorado defense bunker | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 1.4M &middot; Uploaded: September 2025 &middot; Length: 1 hour 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=74ud-5Ld48Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=74ud-5Ld48Y">Open on YouTube</a></p></div></div></div>
 
 ## The radar stories that fuelled the rumours
 
-The best-known UFO-related claim connected to Cheyenne Mountain comes from a report submitted to the National UFO Reporting Center (NUFORC) decades after the alleged incident. The witness, claiming to be a former Army radar operator, described seeing groups of fast-moving radar contacts over North America during early 1970 while stationed at NORAD facilities linked to Cheyenne Mountain. According to the account, interceptor aircraft were unable to catch the objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=25777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 25777August 20, 2023 — NUFORC UFO Sighting 25777. Occurred: 1970-02-15 00:00 Local (2/70/70 EARLY AM) - Approxi...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+The best-known UFO-related claim connected to Cheyenne Mountain comes from a report submitted to the National UFO Reporting Center (NUFORC) decades after the alleged incident. The witness, claiming to be a former Army radar operator, described seeing groups of fast-moving radar contacts over North America during early 1970 while stationed at NORAD facilities linked to Cheyenne Mountain. According to the account, interceptor aircraft were unable to catch the objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=25777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 25777August 20, 2023 — NUFORC UFO Sighting 25777. Occurred: 1970-02-15 00:00 Local (2/70/70 EARLY AM) - Approxi...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 For UFO enthusiasts, this story became significant because it appeared to involve trained military personnel and radar data rather than ordinary eyewitness observation. Radar-based cases have long carried extra weight in UFO debates because they potentially provide instrument evidence instead of relying solely on human perception.
 
 However, several important problems limit the value of the claim:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -303,7 +299,6 @@ The broader historical context also matters. NORAD systems regularly processed e
 
 That history demonstrates two things at once. First, operators genuinely encountered confusing or alarming radar information. Second, unusual radar returns did not necessarily indicate extraordinary craft. Technical glitches, incomplete data and system errors were real operational problems inside the mountain.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nAHBekea2Fc" title="What&#x27;s really hiding under Cheyenne Mountain in Colorado?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nAHBekea2Fc" target="_blank" rel="noopener noreferrer">What&#x27;s really hiding under Cheyenne Mountain in Colorado?</a></p><p class="youtube-embed-meta">Channel: 9NEWS &middot; Views: 3.2M &middot; Uploaded: October 2016 &middot; Length: 4 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nAHBekea2Fc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nAHBekea2Fc">Open on YouTube</a></p></div></div></div>
 
 ## What official records actually show
@@ -313,7 +308,6 @@ One reason Cheyenne Mountain rumours persist is that the facility undeniably pos
 But there is an important distinction between “tracking unknowns” and “tracking alien spacecraft”.
 
 Military and aerospace systems routinely classify some radar returns as unidentified until additional information becomes available. In practice, such returns may turn out to be:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -332,8 +326,7 @@ Publicly available NORAD and Cheyenne Mountain histories contain extensive discu
 
 Even so, official silence has often been interpreted by believers as evidence of concealment rather than absence. This creates a circular pattern common in UFO mythology: secrecy intended for national security purposes becomes interpreted as proof that something extraordinary must be hidden.
 
-
-<img src="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_cheyenne_mountain_ra_da20b5-Illustration-2-light.svg" | relative_url }}" alt="Cheyenne Mountain illustration 2" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_cheyenne_mountain_ra_da20b5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_cheyenne_mountain_ra_da20b5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_cheyenne_mountain_ra_da20b5-Illustration-2-dark.svg" | relative_url }}" alt="Cheyenne Mountain illustration 2" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_cheyenne_mountain_ra_da20b5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_cheyenne_mountain_ra_da20b5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How fiction and conspiracy culture reshaped the story
 
 Cheyenne Mountain’s role in UFO culture expanded far beyond actual reports from Colorado. By the 1990s and 2000s, the complex had become a symbol of hidden government activity in broader conspiracy culture.
@@ -347,7 +340,6 @@ The result is that many modern rumours about Cheyenne Mountain are difficult to 
 ## Why the lack of corroboration matters
 
 A recurring issue in Cheyenne Mountain UFO stories is the absence of independently verifiable documentation. Researchers evaluating these claims usually look for several forms of corroboration:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -368,7 +360,6 @@ The passage of time also complicates memory. Many accounts surfaced years or dec
 
 That does not mean every witness fabricated experiences. Rather, it means the evidence base remains too weak to support strong conclusions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KE8zAJgFKCA" title="Why Cheyenne Mountain is Totally Forbidden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KE8zAJgFKCA" target="_blank" rel="noopener noreferrer">Why Cheyenne Mountain is Totally Forbidden</a></p><p class="youtube-embed-meta">Channel: IT&#x27;S HISTORY &middot; Views: 299.6K &middot; Uploaded: September 2025 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KE8zAJgFKCA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KE8zAJgFKCA">Open on YouTube</a></p></div></div></div>
 
 ## How sceptics and believers interpret the same evidence differently
@@ -376,7 +367,6 @@ That does not mean every witness fabricated experiences. Rather, it means the ev
 Cheyenne Mountain provides a useful example of how UFO debates often depend less on a single piece of evidence than on competing assumptions about secrecy and uncertainty.
 
 Believers tend to emphasise:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -390,7 +380,6 @@ Believers tend to emphasise:
 
 Sceptics focus on different points:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * the lack of released documentation
@@ -403,8 +392,7 @@ Sceptics focus on different points:
 
 Both sides agree on one thing: Cheyenne Mountain was a real and highly sophisticated military command centre. The disagreement concerns whether rumours surrounding the facility reflect hidden extraordinary events or the natural mythology that grows around secretive military infrastructure.
 
-
-<img src="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_cheyenne_mountain_ra_da20b5-Illustration-3-light.svg" | relative_url }}" alt="Cheyenne Mountain illustration 3" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_cheyenne_mountain_ra_da20b5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_cheyenne_mountain_ra_da20b5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_cheyenne_mountain_ra_da20b5-Illustration-3-dark.svg" | relative_url }}" alt="Cheyenne Mountain illustration 3" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_cheyenne_mountain_ra_da20b5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_cheyenne_mountain_ra_da20b5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Cheyenne Mountain represents in Colorado UFO history
 
 Within Colorado’s wider UFO history, Cheyenne Mountain matters less because of any single confirmed incident and more because of what it symbolises. The complex embodies the overlap between aerospace defence, secrecy and public fascination with the unknown.
@@ -835,114 +823,114 @@ That assumption keeps the mountain at the centre of speculation even when hard e
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cheyenne Mountain Complex  
-   Link: [https://en.wikipedia.org/wiki/Cheyenne_Mountain_Complex](https://en.wikipedia.org/wiki/Cheyenne_Mountain_Complex)  
+   Link: <a href="https://en.wikipedia.org/wiki/Cheyenne_Mountain_Complex" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cheyenne_Mountain_Complex</a>  
 
 2. <a id="endnote-2"></a>
    Source: denver7.com  
-   Link: [https://www.denver7.com/lifestyle/discover-colorado/secrets-of-colorado/13-secrets-of-norad-combat-operations-center-and-cheyenne-mountain-air-force-station](https://www.denver7.com/lifestyle/discover-colorado/secrets-of-colorado/13-secrets-of-norad-combat-operations-center-and-cheyenne-mountain-air-force-station)  
+   Link: <a href="https://www.denver7.com/lifestyle/discover-colorado/secrets-of-colorado/13-secrets-of-norad-combat-operations-center-and-cheyenne-mountain-air-force-station" target="_blank" rel="noopener noreferrer nofollow">https://www.denver7.com/lifestyle/discover-colorado/secrets-of-colorado/13-secrets-of-norad-combat-operations-center-and-cheyenne-mountain-air-force-station</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Denver 7 Colorado News (KMGH)13 secrets of NORAD and Cheyenne MountainJul 27, 2015 — 13 secrets of NORAD and Cheyenne Mountain · 1: Cheye...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=25777](https://nuforc.org/sighting/?id=25777)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 25777August 20, 2023 — NUFORC UFO Sighting 25777. Occurred: 1970-02-15 00:00 Local (2/70/70 EARLY AM) - Approxi...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=25777" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=25777</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 25777August 20, 2023 — NUFORC UFO Sighting 25777. Occurred: 1970-02-15 00:00 Local (2/70/70 EARLY AM) - Approxi...</p></details>
    Published: August 20, 2023  
 
 4. <a id="endnote-4"></a>
    Source: denver7.com  
-   Link: [https://www.denver7.com/news/local-news/a-dive-into-the-most-popular-wildest-conspiracies-surrounding-the-denver-international-airport](https://www.denver7.com/news/local-news/a-dive-into-the-most-popular-wildest-conspiracies-surrounding-the-denver-international-airport)  
+   Link: <a href="https://www.denver7.com/news/local-news/a-dive-into-the-most-popular-wildest-conspiracies-surrounding-the-denver-international-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.denver7.com/news/local-news/a-dive-into-the-most-popular-wildest-conspiracies-surrounding-the-denver-international-airport</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Denver 7 Colorado News (KMGH)Dive into the popular conspiracies at DIAIn fact, some believe the tunnels go all the way to Cheyenne Mounta...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Cheyenne, Wyoming  
-   Link: [https://en.wikipedia.org/wiki/Cheyenne%2C_Wyoming](https://en.wikipedia.org/wiki/Cheyenne%2C_Wyoming)  
+   Link: <a href="https://en.wikipedia.org/wiki/Cheyenne%2C_Wyoming" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cheyenne%2C_Wyoming</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cheyenne, WyomingCheyenne (/ʃaɪˈæn/ shy-AN or /ʃaɪˈɛn/ shy-EN) is the capital and most populous city of the U.S. state of Wyoming. The...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Dulce Base  
-   Link: [https://en.wikipedia.org/wiki/Dulce_Base](https://en.wikipedia.org/wiki/Dulce_Base)  
+   Link: <a href="https://en.wikipedia.org/wiki/Dulce_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dulce_Base</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dulce BaseDulce Base is the subject of a conspiracy theory claiming that a jointly-operated human and alien underground facility exist...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookThousands of UFO reports were collected, analyzed, and filed. As a result of the [Condon Report](&amp;#123;&amp;#123; &#x27;condon-report/&#x27; | relative_url &amp;#125;&amp;#125;), which concluded that...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Cheyenne](https://en.wikipedia.org/wiki/Cheyenne)  
+   Link: <a href="https://en.wikipedia.org/wiki/Cheyenne" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cheyenne</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CheyenneThe main group of Cheyenne, the Tsêhéstáno, was once composed of ten bands that spread across the Great Plains from southern C...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cheyenne.org  
-   Link: [https://www.cheyenne.org/](https://www.cheyenne.org/)  
+   Link: <a href="https://www.cheyenne.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.cheyenne.org/</a>  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=49603](https://nuforc.org/sighting/?id=49603)  
+   Link: <a href="https://nuforc.org/sighting/?id=49603" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=49603</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 49603NUFORC UFO Sighting 49603. Occurred: 1996-08-01 17:00 Local - Approximate Reported: 2006-03-13 13:54 Pacific Dur...</p></details>
    Published: March 13, 2006  
 
 11. <a id="endnote-11"></a>
    Source: northcom.mil  
-   Link: [https://www.northcom.mil/CheyenneMountain/](https://www.northcom.mil/CheyenneMountain/)  
+   Link: <a href="https://www.northcom.mil/CheyenneMountain/" target="_blank" rel="noopener noreferrer nofollow">https://www.northcom.mil/CheyenneMountain/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>North American Aerospace Defense CommandCheyenne Mountain ComplexThe Cheyenne Mountain Complex is located at Cheyenne Mountain Air Force...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/Cheyenne-people](https://www.britannica.com/topic/Cheyenne-people)  
+   Link: <a href="https://www.britannica.com/topic/Cheyenne-people" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Cheyenne-people</a>  
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/firstpostin/posts/vantageonfirstpost-the-us-has-shot-down-a-fourth-mysterious-object-from-its-skie/582284217265903/](https://www.facebook.com/firstpostin/posts/vantageonfirstpost-the-us-has-shot-down-a-fourth-mysterious-object-from-its-skie/582284217265903/)  
+   Link: <a href="https://www.facebook.com/firstpostin/posts/vantageonfirstpost-the-us-has-shot-down-a-fourth-mysterious-object-from-its-skie/582284217265903/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/vantageonfirstpost-the-us-has-shot-down-a-fourth-mysterious-object-from-its-skie/582284217265903/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#VantageOnFirstpost The U.S. has shot down a fourth...Yesterday they spotted another UFO, unidentified flying object, UFO and the Pentag...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: travelwyoming.com  
-   Link: [https://travelwyoming.com/places-to-go/cities/cheyenne/](https://travelwyoming.com/places-to-go/cities/cheyenne/)  
+   Link: <a href="https://travelwyoming.com/places-to-go/cities/cheyenne/" target="_blank" rel="noopener noreferrer nofollow">https://travelwyoming.com/places-to-go/cities/cheyenne/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cheyenne Wyoming | Things To Do And Places To SeeSome of the top attractions in Cheyenne are Terry Bison Ranch Resort, Cheyenne Botanic G...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/](https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For decades, the existence of UFOs was denied...UFO Sightings Are Real, but Aliens Are Not Responsible The U.S. government recently conf...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HistoryColorado/posts/the-subject-of-myth-legend-and-movie-lore-construction-began-on-the-fabled-north/1184293080409877/](https://www.facebook.com/HistoryColorado/posts/the-subject-of-myth-legend-and-movie-lore-construction-began-on-the-fabled-north/1184293080409877/)  
+   Link: <a href="https://www.facebook.com/HistoryColorado/posts/the-subject-of-myth-legend-and-movie-lore-construction-began-on-the-fabled-north/1184293080409877/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoryColorado/posts/the-subject-of-myth-legend-and-movie-lore-construction-began-on-the-fabled-north/1184293080409877/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>History ColoradoThe subject of myth, legend, and movie lore, construction began on the fabled North American Aerospace Defense Command (N...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/983759965442123/posts/1974041013080675/](https://www.facebook.com/groups/983759965442123/posts/1974041013080675/)  
+   Link: <a href="https://www.facebook.com/groups/983759965442123/posts/1974041013080675/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/983759965442123/posts/1974041013080675/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Military Base Repeatedly Swarmed By Unidentified...&quot;Close Encounters At Langley&quot;: US Military Base Repeatedly Swarmed By Unidentified...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cheyennecity.org  
-   Link: [https://www.cheyennecity.org/Home](https://www.cheyennecity.org/Home)  
+   Link: <a href="https://www.cheyennecity.org/Home" target="_blank" rel="noopener noreferrer nofollow">https://www.cheyennecity.org/Home</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Home – City of CheyennePay online, Licenses and Permits, Bids and Proposals, Sanitation Council, Agendas and Minutes, Public Meeting, Zoo...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/ancientnexus/posts/2095449467500545/](https://www.facebook.com/groups/ancientnexus/posts/2095449467500545/)  
+   Link: <a href="https://www.facebook.com/groups/ancientnexus/posts/2095449467500545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ancientnexus/posts/2095449467500545/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>· Why are most UFO sightings closer to Area 51? · Is raiding Area 51 to find aliens...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: onlyinyourstate.com  
-   Link: [https://www.onlyinyourstate.com/experiences/colorado/area-51-co](https://www.onlyinyourstate.com/experiences/colorado/area-51-co)  
+   Link: <a href="https://www.onlyinyourstate.com/experiences/colorado/area-51-co" target="_blank" rel="noopener noreferrer nofollow">https://www.onlyinyourstate.com/experiences/colorado/area-51-co</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t also aliens, with some Cheyenne Mountain conspiracy theorists claiming that...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DX-gWMTySwD/?__d=1%3F%2F](https://www.instagram.com/p/DX-gWMTySwD/?__d=1%3F%2F)  
+   Link: <a href="https://www.instagram.com/p/DX-gWMTySwD/?__d=1%3F%2F" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DX-gWMTySwD/?__d=1%3F%2F</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Greece, 2024 Most UFO cases can be linked to foreign spy technology, plus...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Stargate/comments/rebz2f/unexplainable_soldier_deaths_at_cheyenne_mountain/](https://www.reddit.com/r/Stargate/comments/rebz2f/unexplainable_soldier_deaths_at_cheyenne_mountain/)  
+   Link: <a href="https://www.reddit.com/r/Stargate/comments/rebz2f/unexplainable_soldier_deaths_at_cheyenne_mountain/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Stargate/comments/rebz2f/unexplainable_soldier_deaths_at_cheyenne_mountain/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplainable soldier deaths at Cheyenne mountain.They died from an obvious combat situation, but they aren&#x27;t supposed to be in combat...</p></details>

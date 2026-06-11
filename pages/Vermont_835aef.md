@@ -262,7 +262,7 @@ sibling_links:
   short_title: Michigan UFOs
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Alabama_d1f92d
   title: Alabama UFOs
@@ -277,9 +277,9 @@ sibling_links:
   permalink: /what-keeps-tennessees-ufo-stories-alive/
   short_title: Tennessee UFOs
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Idaho_18334c
   title: Idaho UFOs
   permalink: /what-makes-idaho-a-key-ufo-hotspot/
@@ -289,9 +289,9 @@ sibling_links:
   permalink: /what-makes-indianas-ufo-history-unique/
   short_title: Indiana UFOs
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: South_Carolina_11d001
   title: South Carolina UFOs
   permalink: /what-makes-south-carolinas-ufo-story/
@@ -481,7 +481,6 @@ image: /assets/images/Vermont_835aef-overview-social.jpg
 
 The strongest Vermont cases are not all strong in the same way. The 1952 [Bellevue Hill]({{ 'bellevue-hill/' | relative_url }}) case matters because it sits inside the official US Air Force Project Blue Book record. The 1968 Buff Ledge case matters because it became Vermont’s best-known abduction story, but it depends heavily on later recollection and hypnotic-regression material. The 1961 [North Concord]({{ 'north-concord/' | relative_url }}) radar-base story matters because it links Vermont to the wider Betty and Barney Hill legend, although its evidential status is much less firm than its folklore value. Recent reports, meanwhile, often show how satellites, drones, aircraft, balloons and atmospheric effects can turn a real sighting into an unresolved story when the original data are thin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sevendaysvt.com/arts-culture/from-ufos-to-starlink-vermont-has-a-long-history-of-strange-things-in-the-sky-36630572/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sevendaysvt.com">[Seven Days]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sevendaysvt.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/5505" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/encounteratbuffl0000webb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Vermont_835aef-overview.webp" | relative_url }}" alt="Overview image for What Makes Vermont&#x27;s UFO Stories Endure?" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Vermont keeps appearing in UFO lists
 
@@ -501,8 +500,7 @@ The state’s UFO story therefore works best as a layered record:
 
 </div>
 
-
-<img src="{{ "/assets/images/Vermont_835aef-Illustration-1-light.svg" | relative_url }}" alt="What Makes Vermont&#x27;s UFO Stories Endure? illustration 1" data-theme-src-dark="{{ "/assets/images/Vermont_835aef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Vermont_835aef-Illustration-1-dark.svg" | relative_url }}" alt="What Makes Vermont&#x27;s UFO Stories Endure? illustration 1" data-theme-src-dark="{{ "/assets/images/Vermont_835aef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1952 Bellevue Hill case: Vermont’s clearest official-file anchor
 
 The most substantial Vermont case in the official Cold War record is the Bellevue Hill sighting of 24 April 1952. The Blue Book Archive lists it as a 12-page Project Blue Book document from Bellevue Hill, Vermont, case number 28941533. The OCR text identifies the date, location, observation time of about 5 a.m., and a USAF C-124 crew as witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/5505" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -523,7 +521,6 @@ The case has several features that appeal to UFO researchers: two central witnes
 
 But Buff Ledge is also a good example of why abduction cases need careful handling. The most dramatic parts of the story depend on memories recovered or expanded later, including material associated with regression. The original event was not publicly documented with photographs, radar data, medical evidence or a contemporaneous official investigation of the sort that would allow independent testing. The strongest fair assessment is that Buff Ledge is culturally important in Vermont UFO history and unusually well developed as a narrative case, but evidentially vulnerable because its central claims rest on delayed testimony and interpretive methods that sceptics dispute.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Vhy58DWiuRc" title="1951 C-124 disappearance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Vhy58DWiuRc" target="_blank" rel="noopener noreferrer">1951 C-124 disappearance</a></p><p class="youtube-embed-meta">Channel: The History Guy: History Deserves to Be Remembered &middot; Views: 241.2K &middot; Uploaded: August 2023 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Vhy58DWiuRc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Vhy58DWiuRc">Open on YouTube</a></p></div></div></div>
 
 ## The North Concord radar-base story: Cold War setting, strong atmosphere, thinner proof
@@ -538,14 +535,13 @@ The evidential caution is equally important. The North Concord claim is often re
 
 ## Lake Champlain, Burlington and older local reports
 
-Lake Champlain is one of Vermont’s recurring UFO settings. It supplies broad horizons, reflective water, weather effects and a long local tradition of unusual stories. Seven Days’ timeline of notable [Vermont sightings]({{ 'hotspots-ed9e86/' | relative_url }}) includes a 1907 Burlington report involving Bishop John S. Michaud, former governor Urban Woodbury and A.A. Buell; a 1947 Rutland “flying saucer” report by Mrs Albert Steele; a 1958 East Fairfield “Lost Nation” light-in-the-woods account; a 1965 Route 12 sighting by Dr Richard Woodruff and a Vermont state trooper; a 1966 Bennington-area report near the Battle Monument; the 1968 Buff Ledge case; and a 1980 sighting at Burlington International Airport by air traffic controller Donald Kernan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sevendaysvt.com/arts-culture/from-ufos-to-starlink-vermont-has-a-long-history-of-strange-things-in-the-sky-36630572/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sevendaysvt.com">[Seven Days]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sevendaysvt.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Lake Champlain is one of Vermont’s recurring UFO settings. It supplies broad horizons, reflective water, weather effects and a long local tradition of unusual stories. Seven Days’ timeline of notable Vermont sightings includes a 1907 Burlington report involving Bishop John S. Michaud, former governor Urban Woodbury and A.A. Buell; a 1947 Rutland “flying saucer” report by Mrs Albert Steele; a 1958 East Fairfield “Lost Nation” light-in-the-woods account; a 1965 Route 12 sighting by Dr Richard Woodruff and a Vermont state trooper; a 1966 Bennington-area report near the Battle Monument; the 1968 Buff Ledge case; and a 1980 sighting at Burlington International Airport by air traffic controller Donald Kernan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sevendaysvt.com/arts-culture/from-ufos-to-starlink-vermont-has-a-long-history-of-strange-things-in-the-sky-36630572/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sevendaysvt.com">[Seven Days]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sevendaysvt.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This timeline is useful because it shows that Vermont’s UFO history is not only a post-1970s abduction subculture story. It includes pre-saucer-era and early-saucer-era reports, aviation settings, law-enforcement references and place-based clusters. But it also demonstrates the limits of local chronologies: many entries are brief, rely on old press accounts or retellings, and are not accompanied by the kind of data needed for confident reconstruction.
 
-The [Burlington airport]({{ 'airport-lights-67a8b8/' | relative_url }}) reference is especially interesting because air-traffic and aviation witnesses are often treated as more reliable than casual observers. That should not be overstated. Aviation experience can improve recognition of aircraft, lights and flight behaviour, but it does not remove the basic problems of night observation: unknown distance, unknown size, limited viewing time and incomplete context. A short sighting by a skilled observer can remain unexplained without becoming extraordinary.
+The Burlington airport reference is especially interesting because air-traffic and aviation witnesses are often treated as more reliable than casual observers. That should not be overstated. Aviation experience can improve recognition of aircraft, lights and flight behaviour, but it does not remove the basic problems of night observation: unknown distance, unknown size, limited viewing time and incomplete context. A short sighting by a skilled observer can remain unexplained without becoming extraordinary.
 
-
-<img src="{{ "/assets/images/Vermont_835aef-Illustration-2-light.svg" | relative_url }}" alt="What Makes Vermont&#x27;s UFO Stories Endure? illustration 2" data-theme-src-dark="{{ "/assets/images/Vermont_835aef-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Vermont_835aef-Illustration-2-dark.svg" | relative_url }}" alt="What Makes Vermont&#x27;s UFO Stories Endure? illustration 2" data-theme-src-dark="{{ "/assets/images/Vermont_835aef-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## East Richford and regional flaps: when many reports still need hard sorting
 
 Vermont also has flap-style episodes: periods in which multiple people in a region report strange objects or lights. East Richford in 1982 is one example that has gained renewed attention through New England folklore media. Podcast descriptions of the case refer to a wave of sightings involving black triangles, glowing orbs and saucer-shaped craft, with witnesses described as including police officers, firefighters and local residents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/gb/podcast/vermonts-ufo-invasion-a-new-england-legends-podcast/id1614480816?i=1000688429348" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-title">Podcasts Vermont&#x27;s UFO Invasion</span><span class="citation-popover-snippet">Podcasts Vermont&#x27;s UFO Invasion</span></span></span>
@@ -564,7 +560,6 @@ Modern official UAP work points in the same direction. AARO’s public imagery p
 
 NASA’s 2023 independent UAP study also emphasised the need for better data, transparent reporting and reduced stigma. Its report argued that stigma leads to data loss and that scientific treatment of UAP requires rigorous analysis rather than ridicule or credulity. For a rural state such as Vermont, that lesson is practical: a good sighting report needs time, location, direction, duration, weather, aircraft checks, satellite checks, photographs or video if available, and a willingness to accept mundane explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/06MvdGF2CnY" title="UAP task force proposed in Vermont | Jesse Weber Live" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=06MvdGF2CnY" target="_blank" rel="noopener noreferrer">UAP task force proposed in Vermont | Jesse Weber Live</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 11.1K &middot; Uploaded: January 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=06MvdGF2CnY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=06MvdGF2CnY">Open on YouTube</a></p></div></div></div>
 
 ## Vermont’s 2026 UAP bill: from folklore to airspace safety
@@ -575,8 +570,7 @@ The legislature’s own status page shows H.654 was read first on 13 January 202
 
 That is a notable shift in language. The bill does not simply ask whether flying saucers are real. It defines UAP broadly enough to include unknown aircraft, drones, balloons and anomalous objects, and places the topic in the context of airspace and public safety. That framing mirrors the federal turn from “UFO” as a pop-culture term to “UAP” as an airspace, sensor and reporting problem.
 
-The bill’s existence does not validate any specific [Vermont sighting]({{ 'hotspots-ed9e86/' | relative_url }}). It does show that UFO history in the state is no longer only a matter of old stories and local legend. The modern question is whether Vermont should have a cleaner way to collect reports, filter out known causes and escalate genuinely concerning incidents.
-
+The bill’s existence does not validate any specific Vermont sighting. It does show that UFO history in the state is no longer only a matter of old stories and local legend. The modern question is whether Vermont should have a cleaner way to collect reports, filter out known causes and escalate genuinely concerning incidents.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BYzjwk1O8Ck" title="The Abandoned Cold War Radar Tower Where UFOs Were Seen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BYzjwk1O8Ck" target="_blank" rel="noopener noreferrer">The Abandoned Cold War Radar Tower Where UFOs Were Seen</a></p><p class="youtube-embed-meta">Channel: Erik K Swanson &middot; Views: 10.9K &middot; Uploaded: May 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BYzjwk1O8Ck" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BYzjwk1O8Ck">Open on YouTube</a></p></div></div></div>
 
@@ -594,8 +588,7 @@ The most balanced reading of Vermont’s UFO history separates cases by evidence
 
 **Often explainable modern sightings:** strings of lights, bright moving points and sudden social-media flurries. Starlink, drones, aircraft, balloons and atmospheric effects now account for many reports that feel extraordinary in the moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/Vermont_835aef-Illustration-3-light.svg" | relative_url }}" alt="What Makes Vermont&#x27;s UFO Stories Endure? illustration 3" data-theme-src-dark="{{ "/assets/images/Vermont_835aef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Vermont_835aef-Illustration-3-dark.svg" | relative_url }}" alt="What Makes Vermont&#x27;s UFO Stories Endure? illustration 3" data-theme-src-dark="{{ "/assets/images/Vermont_835aef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Vermont’s UFO history really shows
 
 Vermont’s UFO record is most interesting when treated as a serious but mixed historical file. It contains one clear official Blue Book anchor, one famous abduction narrative, a Cold War radar-site legend, repeated Lake Champlain and rural-sky reports, and a modern political effort to treat UAP as an airspace-safety question. That is enough to make Vermont a meaningful state-level UFO subject, but not enough to justify claims that the state has confirmed evidence of alien visitation.
@@ -690,7 +683,7 @@ The best conclusion is neither debunking-by-default nor belief-by-default. Vermo
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -700,111 +693,36 @@ The best conclusion is neither debunking-by-default nor belief-by-default. Vermo
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/pB8AAOSwX81mSmKS/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -812,15 +730,15 @@ The best conclusion is neither debunking-by-default nor belief-by-default. Vermo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="https://i.ebayimg.com/images/g/nuEAAOSwVJRnoU9g/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -828,15 +746,15 @@ The best conclusion is neither debunking-by-default nor belief-by-default. Vermo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster"><img src="https://i.ebayimg.com/images/g/H3QAAOSwSyRmwGFD/s-l225.jpg" alt="Listing image for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -844,15 +762,15 @@ The best conclusion is neither debunking-by-default nor belief-by-default. Vermo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -860,7 +778,7 @@ The best conclusion is neither debunking-by-default nor belief-by-default. Vermo
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermonts-ufo-stories-endure-what-makes-vermont-s-ufo-stories-endure-vermont-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-vermont-s-ufo-stories-endure-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -937,17 +855,31 @@ The best conclusion is neither debunking-by-default nor belief-by-default. Vermo
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -960,42 +892,73 @@ The best conclusion is neither debunking-by-default nor belief-by-default. Vermo
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -1010,12 +973,17 @@ The best conclusion is neither debunking-by-default nor belief-by-default. Vermo
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -1025,281 +993,281 @@ The best conclusion is neither debunking-by-default nor belief-by-default. Vermo
 
 1. <a id="endnote-1"></a>
    Source: archive.org  
-   Link: [https://archive.org/details/encounteratbuffl0000webb](https://archive.org/details/encounteratbuffl0000webb)  
+   Link: <a href="https://archive.org/details/encounteratbuffl0000webb" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/encounteratbuffl0000webb</a>  
 
 2. <a id="endnote-2"></a>
    Source: journalofscientificexploration.org  
    Title: JS E 282 online.indd  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/724/528](https://journalofscientificexploration.org/index.php/jse/article/view/724/528)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/724/528" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/724/528</a>  
 
 3. <a id="endnote-3"></a>
    Source: nicap.org  
    Title: The Project Bluebook "Unknowns"  
-   Link: [https://www.nicap.org/bluebook/unknowns.htm](https://www.nicap.org/bluebook/unknowns.htm)  
+   Link: <a href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/unknowns.htm</a>  
 
 4. <a id="endnote-4"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/bluebook/bluelist.htm](https://www.nicap.org/bluebook/bluelist.htm)  
+   Link: <a href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/bluelist.htm</a>  
 
 5. <a id="endnote-5"></a>
    Source: nsa.gov  
    Title: National Security Agency  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: anrweb.vt.gov  
    Title: ANR Web  
-   Link: [https://anrweb.vt.gov/PubDocs/DEC/Hazsites/911152.Remedial.Investigation%2C.Final.pdf](https://anrweb.vt.gov/PubDocs/DEC/Hazsites/911152.Remedial.Investigation%2C.Final.pdf)  
+   Link: <a href="https://anrweb.vt.gov/PubDocs/DEC/Hazsites/911152.Remedial.Investigation%2C.Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://anrweb.vt.gov/PubDocs/DEC/Hazsites/911152.Remedial.Investigation%2C.Final.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: podcasts.apple.com  
    Title: Podcasts Vermont's UFO Invasion  
-   Link: [https://podcasts.apple.com/gb/podcast/vermonts-ufo-invasion-a-new-england-legends-podcast/id1614480816?i=1000688429348](https://podcasts.apple.com/gb/podcast/vermonts-ufo-invasion-a-new-england-legends-podcast/id1614480816?i=1000688429348)  
+   Link: <a href="https://podcasts.apple.com/gb/podcast/vermonts-ufo-invasion-a-new-england-legends-podcast/id1614480816?i=1000688429348" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/gb/podcast/vermonts-ufo-invasion-a-new-england-legends-podcast/id1614480816?i=1000688429348</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: legislature.vermont.gov  
    Title: H 0654 As Introduced  
-   Link: [https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0654/H-0654%20As%20Introduced.pdf](https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0654/H-0654%20As%20Introduced.pdf)  
+   Link: <a href="https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0654/H-0654%20As%20Introduced.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0654/H-0654%20As%20Introduced.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: legislature.vermont.gov  
    Title: Bill Status H.654  
-   Link: [https://legislature.vermont.gov/bill/status/2026/H.654?itid=lk_inline_enhanced-template](https://legislature.vermont.gov/bill/status/2026/H.654?itid=lk_inline_enhanced-template)  
+   Link: <a href="https://legislature.vermont.gov/bill/status/2026/H.654?itid=lk_inline_enhanced-template" target="_blank" rel="noopener noreferrer nofollow">https://legislature.vermont.gov/bill/status/2026/H.654?itid=lk_inline_enhanced-template</a>  
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 15. <a id="endnote-15"></a>
    Source: buff.com  
-   Link: [https://www.buff.com/gb/?srsltid=AfmBOooNSJ6YkCLO9kOiaoFgstFgvXyGsfWLZlx1AMlmcKI-wvnhOYWw](https://www.buff.com/gb/?srsltid=AfmBOooNSJ6YkCLO9kOiaoFgstFgvXyGsfWLZlx1AMlmcKI-wvnhOYWw)  
+   Link: <a href="https://www.buff.com/gb/?srsltid=AfmBOooNSJ6YkCLO9kOiaoFgstFgvXyGsfWLZlx1AMlmcKI-wvnhOYWw" target="_blank" rel="noopener noreferrer nofollow">https://www.buff.com/gb/?srsltid=AfmBOooNSJ6YkCLO9kOiaoFgstFgvXyGsfWLZlx1AMlmcKI-wvnhOYWw</a>  
 
 16. <a id="endnote-16"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 17. <a id="endnote-17"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1952FIXED.htm](https://www.nicap.org/chronos/1952FIXED.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1952FIXED.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1952FIXED.htm</a>  
 
 18. <a id="endnote-18"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports/0450-74.htm](https://www.nicap.org/reports/0450-74.htm)  
+   Link: <a href="https://www.nicap.org/reports/0450-74.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/0450-74.htm</a>  
 
 19. <a id="endnote-19"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: legislature.vermont.gov  
    Title: S 0030 As Passed by Both House and Senate Unofficial  
-   Link: [https://legislature.vermont.gov/Documents/2026/Docs/BILLS/S-0030/S-0030%20As%20Passed%20by%20Both%20House%20and%20Senate%20Unofficial.pdf](https://legislature.vermont.gov/Documents/2026/Docs/BILLS/S-0030/S-0030%20As%20Passed%20by%20Both%20House%20and%20Senate%20Unofficial.pdf)  
+   Link: <a href="https://legislature.vermont.gov/Documents/2026/Docs/BILLS/S-0030/S-0030%20As%20Passed%20by%20Both%20House%20and%20Senate%20Unofficial.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legislature.vermont.gov/Documents/2026/Docs/BILLS/S-0030/S-0030%20As%20Passed%20by%20Both%20House%20and%20Senate%20Unofficial.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: legislature.vermont.gov  
-   Link: [https://legislature.vermont.gov/committee/document/2026/16/Bill/612871](https://legislature.vermont.gov/committee/document/2026/16/Bill/612871)  
+   Link: <a href="https://legislature.vermont.gov/committee/document/2026/16/Bill/612871" target="_blank" rel="noopener noreferrer nofollow">https://legislature.vermont.gov/committee/document/2026/16/Bill/612871</a>  
 
 22. <a id="endnote-22"></a>
    Source: legislature.vermont.gov  
    Title: ACT011 As Enacted  
-   Link: [https://legislature.vermont.gov/Documents/2026/Docs/ACTS/ACT011/ACT011%20As%20Enacted.pdf](https://legislature.vermont.gov/Documents/2026/Docs/ACTS/ACT011/ACT011%20As%20Enacted.pdf)  
+   Link: <a href="https://legislature.vermont.gov/Documents/2026/Docs/ACTS/ACT011/ACT011%20As%20Enacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legislature.vermont.gov/Documents/2026/Docs/ACTS/ACT011/ACT011%20As%20Enacted.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: legislature.vermont.gov  
    Title: H 0095 As Introduced  
-   Link: [https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0095/H-0095%20As%20Introduced.pdf](https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0095/H-0095%20As%20Introduced.pdf)  
+   Link: <a href="https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0095/H-0095%20As%20Introduced.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0095/H-0095%20As%20Introduced.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: legislature.vermont.gov  
    Title: W~none~25 P037 Risk Retention Group Holding Company Systems~12 10 2025  
-   Link: [https://legislature.vermont.gov/Documents/2026/Workgroups/LCAR/25-P037%20-%20Risk%20Retention%20Group%20Holding%20Company%20Systems/W~none~25-P037%20-%20Risk%20Retention%20Group%20Holding%20Company%20Systems~12-10-2025.pdf](https://legislature.vermont.gov/Documents/2026/Workgroups/LCAR/25-P037%20-%20Risk%20Retention%20Group%20Holding%20Company%20Systems/W~none~25-P037%20-%20Risk%20Retention%20Group%20Holding%20Company%20Systems~12-10-2025.pdf)  
+   Link: <a href="https://legislature.vermont.gov/Documents/2026/Workgroups/LCAR/25-P037%20-%20Risk%20Retention%20Group%20Holding%20Company%20Systems/W~none~25-P037%20-%20Risk%20Retention%20Group%20Holding%20Company%20Systems~12-10-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legislature.vermont.gov/Documents/2026/Workgroups/LCAR/25-P037%20-%20Risk%20Retention%20Group%20Holding%20Company%20Systems/W~none~25-P037%20-%20Risk%20Retention%20Group%20Holding%20Company%20Systems~12-10-2025.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: legislature.vermont.gov  
    Title: S 0030 As Passed by the Senate Unofficial  
-   Link: [https://legislature.vermont.gov/Documents/2026/Docs/BILLS/S-0030/S-0030%20As%20Passed%20by%20the%20Senate%20Unofficial.pdf](https://legislature.vermont.gov/Documents/2026/Docs/BILLS/S-0030/S-0030%20As%20Passed%20by%20the%20Senate%20Unofficial.pdf)  
+   Link: <a href="https://legislature.vermont.gov/Documents/2026/Docs/BILLS/S-0030/S-0030%20As%20Passed%20by%20the%20Senate%20Unofficial.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legislature.vermont.gov/Documents/2026/Docs/BILLS/S-0030/S-0030%20As%20Passed%20by%20the%20Senate%20Unofficial.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: legislature.vermont.gov  
    Title: W~none~Email Comments Received by Agency~4 21 2026  
-   Link: [https://legislature.vermont.gov/Documents/2026/Workgroups/LCAR/25-P045%20-%20Vermont%20Use%20of%20Public%20Waters%20Rules/W~none~Email%20Comments%20Received%20by%20Agency~4-21-2026.pdf](https://legislature.vermont.gov/Documents/2026/Workgroups/LCAR/25-P045%20-%20Vermont%20Use%20of%20Public%20Waters%20Rules/W~none~Email%20Comments%20Received%20by%20Agency~4-21-2026.pdf)  
+   Link: <a href="https://legislature.vermont.gov/Documents/2026/Workgroups/LCAR/25-P045%20-%20Vermont%20Use%20of%20Public%20Waters%20Rules/W~none~Email%20Comments%20Received%20by%20Agency~4-21-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legislature.vermont.gov/Documents/2026/Workgroups/LCAR/25-P045%20-%20Vermont%20Use%20of%20Public%20Waters%20Rules/W~none~Email%20Comments%20Received%20by%20Agency~4-21-2026.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: legislature.vermont.gov  
-   Link: [https://legislature.vermont.gov/Documents/2026/Workgroups/House%20Energy%20and%20Digital/Bills/H.527/Public%20Comments/Annette%20Smith/H.527~Annette%20Smith~Public%20Comment~1-28-2026.pdf](https://legislature.vermont.gov/Documents/2026/Workgroups/House%20Energy%20and%20Digital/Bills/H.527/Public%20Comments/Annette%20Smith/H.527~Annette%20Smith~Public%20Comment~1-28-2026.pdf)  
+   Link: <a href="https://legislature.vermont.gov/Documents/2026/Workgroups/House%20Energy%20and%20Digital/Bills/H.527/Public%20Comments/Annette%20Smith/H.527~Annette%20Smith~Public%20Comment~1-28-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legislature.vermont.gov/Documents/2026/Workgroups/House%20Energy%20and%20Digital/Bills/H.527/Public%20Comments/Annette%20Smith/H.527~Annette%20Smith~Public%20Comment~1-28-2026.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: legislature.vermont.gov  
-   Link: [https://legislature.vermont.gov/Documents/2026/Docs/CALENDAR/sc250528.pdf](https://legislature.vermont.gov/Documents/2026/Docs/CALENDAR/sc250528.pdf)  
+   Link: <a href="https://legislature.vermont.gov/Documents/2026/Docs/CALENDAR/sc250528.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legislature.vermont.gov/Documents/2026/Docs/CALENDAR/sc250528.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lVT](https://nuforc.org/subndx/?id=lVT)  
+   Link: <a href="https://nuforc.org/subndx/?id=lVT" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lVT</a>  
 
 30. <a id="endnote-30"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=85642](https://nuforc.org/sighting/?id=85642)  
+   Link: <a href="https://nuforc.org/sighting/?id=85642" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=85642</a>  
 
 31. <a id="endnote-31"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=116825](https://nuforc.org/sighting/?id=116825)  
+   Link: <a href="https://nuforc.org/sighting/?id=116825" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=116825</a>  
 
 32. <a id="endnote-32"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: New England Legends Podcast 379  
-   Link: [https://www.youtube.com/watch?v=mC1wKJIuUqc](https://www.youtube.com/watch?v=mC1wKJIuUqc)  
+   Link: <a href="https://www.youtube.com/watch?v=mC1wKJIuUqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mC1wKJIuUqc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New England Legends Podcast 423 - The Buff Ledge UFO Abduction...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: New England Legends Podcast 423  
-   Link: [https://www.youtube.com/watch?v=C6_iAK2vFDI](https://www.youtube.com/watch?v=C6_iAK2vFDI)  
+   Link: <a href="https://www.youtube.com/watch?v=C6_iAK2vFDI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C6_iAK2vFDI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New England Legends Podcast...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: bluebookfiles.org  
-   Link: [https://bluebookfiles.org/doc/5505](https://bluebookfiles.org/doc/5505)  
+   Link: <a href="https://bluebookfiles.org/doc/5505" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/5505</a>  
 
 36. <a id="endnote-36"></a>
    Source: sevendaysvt.com  
-   Link: [https://www.sevendaysvt.com/arts-culture/from-ufos-to-starlink-vermont-has-a-long-history-of-strange-things-in-the-sky-36630572/](https://www.sevendaysvt.com/arts-culture/from-ufos-to-starlink-vermont-has-a-long-history-of-strange-things-in-the-sky-36630572/)  
+   Link: <a href="https://www.sevendaysvt.com/arts-culture/from-ufos-to-starlink-vermont-has-a-long-history-of-strange-things-in-the-sky-36630572/" target="_blank" rel="noopener noreferrer nofollow">https://www.sevendaysvt.com/arts-culture/from-ufos-to-starlink-vermont-has-a-long-history-of-strange-things-in-the-sky-36630572/</a>  
 
 37. <a id="endnote-37"></a>
    Source: ournewenglandlegends.com  
    Title: podcast 286 vermonts abandoned ufo base  
-   Link: [https://ournewenglandlegends.com/podcast-286-vermonts-abandoned-ufo-base/](https://ournewenglandlegends.com/podcast-286-vermonts-abandoned-ufo-base/)  
+   Link: <a href="https://ournewenglandlegends.com/podcast-286-vermonts-abandoned-ufo-base/" target="_blank" rel="noopener noreferrer nofollow">https://ournewenglandlegends.com/podcast-286-vermonts-abandoned-ufo-base/</a>  
 
 38. <a id="endnote-38"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 39. <a id="endnote-39"></a>
    Source: sevendaysvt.com  
    Title: vermont lawmaker proposes establishing a ufo panel  
-   Link: [https://www.sevendaysvt.com/news/vermont-lawmaker-proposes-establishing-a-ufo-panel/](https://www.sevendaysvt.com/news/vermont-lawmaker-proposes-establishing-a-ufo-panel/)  
+   Link: <a href="https://www.sevendaysvt.com/news/vermont-lawmaker-proposes-establishing-a-ufo-panel/" target="_blank" rel="noopener noreferrer nofollow">https://www.sevendaysvt.com/news/vermont-lawmaker-proposes-establishing-a-ufo-panel/</a>  
 
 40. <a id="endnote-40"></a>
    Source: sevendaysvt.com  
    Title: letters to the editor 10 25 22 36782451  
-   Link: [https://www.sevendaysvt.com/news/letters-to-the-editor-10-25-22-36782451/](https://www.sevendaysvt.com/news/letters-to-the-editor-10-25-22-36782451/)  
+   Link: <a href="https://www.sevendaysvt.com/news/letters-to-the-editor-10-25-22-36782451/" target="_blank" rel="noopener noreferrer nofollow">https://www.sevendaysvt.com/news/letters-to-the-editor-10-25-22-36782451/</a>  
 
 41. <a id="endnote-41"></a>
    Source: sevendaysvt.com  
-   Link: [https://www.sevendaysvt.com/arts-culture/book-review-ufo-the-inside-story-of-the-us-governments-search-for-alien-life-here-and-out-there-garrett-graff-39566534/](https://www.sevendaysvt.com/arts-culture/book-review-ufo-the-inside-story-of-the-us-governments-search-for-alien-life-here-and-out-there-garrett-graff-39566534/)  
+   Link: <a href="https://www.sevendaysvt.com/arts-culture/book-review-ufo-the-inside-story-of-the-us-governments-search-for-alien-life-here-and-out-there-garrett-graff-39566534/" target="_blank" rel="noopener noreferrer nofollow">https://www.sevendaysvt.com/arts-culture/book-review-ufo-the-inside-story-of-the-us-governments-search-for-alien-life-here-and-out-there-garrett-graff-39566534/</a>  
 
 42. <a id="endnote-42"></a>
    Source: facebook.com  
    Title: New England Legends Episode 378  
-   Link: [https://www.facebook.com/ExploringLegends/posts/newenglandlegends-episode-378-vermonts-ufo-invasion-jeff-belanger-and-ray-auger-/1145858226907412/](https://www.facebook.com/ExploringLegends/posts/newenglandlegends-episode-378-vermonts-ufo-invasion-jeff-belanger-and-ray-auger-/1145858226907412/)  
+   Link: <a href="https://www.facebook.com/ExploringLegends/posts/newenglandlegends-episode-378-vermonts-ufo-invasion-jeff-belanger-and-ray-auger-/1145858226907412/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ExploringLegends/posts/newenglandlegends-episode-378-vermonts-ufo-invasion-jeff-belanger-and-ray-auger-/1145858226907412/</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
    Title: New England Legends Episode 378  
-   Link: [https://www.facebook.com/ExploringLegends/photos/newenglandlegends-episode-378-vermonts-ufo-invasion-jeff-belanger-and-ray-auger-/1145858216907413/](https://www.facebook.com/ExploringLegends/photos/newenglandlegends-episode-378-vermonts-ufo-invasion-jeff-belanger-and-ray-auger-/1145858216907413/)  
+   Link: <a href="https://www.facebook.com/ExploringLegends/photos/newenglandlegends-episode-378-vermonts-ufo-invasion-jeff-belanger-and-ray-auger-/1145858216907413/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ExploringLegends/photos/newenglandlegends-episode-378-vermonts-ufo-invasion-jeff-belanger-and-ray-auger-/1145858216907413/</a>  
 
 44. <a id="endnote-44"></a>
    Source: facebook.com  
    Title: New England Legends  
-   Link: [https://www.facebook.com/groups/NewEnglandLegends/posts/1576910069621032/](https://www.facebook.com/groups/NewEnglandLegends/posts/1576910069621032/)  
+   Link: <a href="https://www.facebook.com/groups/NewEnglandLegends/posts/1576910069621032/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/NewEnglandLegends/posts/1576910069621032/</a>  
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ExploringLegends/posts/newenglandlegends-podcast-286-vermonts-abandoned-ufo-base-we-hike-up-east-mounta/739385377554701/](https://www.facebook.com/ExploringLegends/posts/newenglandlegends-podcast-286-vermonts-abandoned-ufo-base-we-hike-up-east-mounta/739385377554701/)  
+   Link: <a href="https://www.facebook.com/ExploringLegends/posts/newenglandlegends-podcast-286-vermonts-abandoned-ufo-base-we-hike-up-east-mounta/739385377554701/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ExploringLegends/posts/newenglandlegends-podcast-286-vermonts-abandoned-ufo-base-we-hike-up-east-mounta/739385377554701/</a>  
 
 46. <a id="endnote-46"></a>
    Source: newengland.com  
-   Link: [https://newengland.com/yankee/history/ufo-sightings-alien-sightings/](https://newengland.com/yankee/history/ufo-sightings-alien-sightings/)  
+   Link: <a href="https://newengland.com/yankee/history/ufo-sightings-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://newengland.com/yankee/history/ufo-sightings-alien-sightings/</a>  
 
 47. <a id="endnote-47"></a>
    Source: books.google.com  
    Title: Encounter at Buff Ledge  
-   Link: [https://books.google.com/books/about/Encounter_at_Buff_Ledge.html?id=fYxYAAAAYAAJ](https://books.google.com/books/about/Encounter_at_Buff_Ledge.html?id=fYxYAAAAYAAJ)  
+   Link: <a href="https://books.google.com/books/about/Encounter_at_Buff_Ledge.html?id=fYxYAAAAYAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Encounter_at_Buff_Ledge.html?id=fYxYAAAAYAAJ</a>  
 
 48. <a id="endnote-48"></a>
    Source: gooutdoors.co.uk  
-   Link: [https://www.gooutdoors.co.uk/collections/brand-buff](https://www.gooutdoors.co.uk/collections/brand-buff)  
+   Link: <a href="https://www.gooutdoors.co.uk/collections/brand-buff" target="_blank" rel="noopener noreferrer nofollow">https://www.gooutdoors.co.uk/collections/brand-buff</a>  
 
 49. <a id="endnote-49"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 50. <a id="endnote-50"></a>
    Source: newenglandlegends.libsyn.com  
    Title: vermonts ufo invasion  
-   Link: [https://newenglandlegends.libsyn.com/vermonts-ufo-invasion](https://newenglandlegends.libsyn.com/vermonts-ufo-invasion)  
+   Link: <a href="https://newenglandlegends.libsyn.com/vermonts-ufo-invasion" target="_blank" rel="noopener noreferrer nofollow">https://newenglandlegends.libsyn.com/vermonts-ufo-invasion</a>  
 
 51. <a id="endnote-51"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 ### Additional References
 
 52. <a id="endnote-52"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=OYP5QtUs4Pc](https://www.youtube.com/watch?v=OYP5QtUs4Pc)  
+   Link: <a href="https://www.youtube.com/watch?v=OYP5QtUs4Pc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OYP5QtUs4Pc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The First Historically True Alien Encounter? | Berkshire UFO Incident...</p></details>
 
 53. <a id="endnote-53"></a>
    Source: youtube.com  
    Title: The First Historically True Alien Encounter? | Berkshire UFO Incident  
-   Link: [https://www.youtube.com/watch?v=2T93mdpw0ZA](https://www.youtube.com/watch?v=2T93mdpw0ZA)  
+   Link: <a href="https://www.youtube.com/watch?v=2T93mdpw0ZA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2T93mdpw0ZA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Exposed (2020) [Documentary]...</p></details>
 
 54. <a id="endnote-54"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DTvGRtkAj6Q/?hl=en-gb](https://www.instagram.com/reel/DTvGRtkAj6Q/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/reel/DTvGRtkAj6Q/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTvGRtkAj6Q/?hl=en-gb</a>  
 
 55. <a id="endnote-55"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DCXwFhAArX3/](https://www.instagram.com/p/DCXwFhAArX3/)  
+   Link: <a href="https://www.instagram.com/p/DCXwFhAArX3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DCXwFhAArX3/</a>  
 
 56. <a id="endnote-56"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP](https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP)  
+   Link: <a href="https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400348279_Science_in_a_Stigmatized_Field_Challenges_and_Opportunities_in_the_Emerging_Research_Domain_of_UAP</a>  
 
 57. <a id="endnote-57"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DRxgAnPk4px/](https://www.instagram.com/reel/DRxgAnPk4px/)  
+   Link: <a href="https://www.instagram.com/reel/DRxgAnPk4px/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRxgAnPk4px/</a>  
 
 58. <a id="endnote-58"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database](https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database)  
+   Link: <a href="https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database</a>  
 
 59. <a id="endnote-59"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/](https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/)  
+   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/</a>  
 
 60. <a id="endnote-60"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/buff](https://www.merriam-webster.com/dictionary/buff)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/buff" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/buff</a>  
 
 61. <a id="endnote-61"></a>
    Source: cotswoldoutdoor.com  
-   Link: [https://www.cotswoldoutdoor.com/brands/buff.html](https://www.cotswoldoutdoor.com/brands/buff.html)  
+   Link: <a href="https://www.cotswoldoutdoor.com/brands/buff.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cotswoldoutdoor.com/brands/buff.html</a>

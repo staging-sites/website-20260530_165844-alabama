@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /explanations-34f983/
 nav_short_title: Balloons
 title: Could Weather Balloons Explain Montana UFOs?
-title_full: Could Weather Balloons Explain Montana UFOs? | Explanations
+title_full: Could Weather Balloons Explain Montana UFOs?
 display_title_short: Balloons
 display_title: Balloons
 heading_title: Could Weather Balloons Explain Montana UFOs?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:44:04'
-parent_title: Why Montana UFO Cases Are Hard to Settle | Montana UFOs
+parent_title: Why Montana UFO Cases Are Hard to Settle
 parent_permalink: /explanations-34f983/
 parent_nav_short_title: Explanations
 parent_heading_title: Why Montana UFO Cases Are Hard to Settle
@@ -252,9 +252,8 @@ image: /assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_wea
 
 Weather balloons are one of the most practical ordinary [explanations]({{ 'explanations-34f983/' | relative_url }}) for some Montana UFO reports, especially around [Great Falls]({{ 'great-falls/' | relative_url }}). The city sits beneath a long-running network of upper-air weather observations, and balloons launched into the high atmosphere can appear surprisingly strange from the ground. Bright sunlight, extreme altitude, unusual viewing angles, and the vast openness of Montana skies can make a balloon look like a glowing disc, a hovering object, or a distant craft moving in unexpected ways. That does not explain every Montana sighting, but it helps explain why investigators have repeatedly considered weather balloons when assessing reports of bright daytime objects over north-central Montana. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceCollecting Meteorological Data by Radiosonde or...The radiosonde is a small, expendable instrument package that...</span></span></span>
 
-
-<img src="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_weather_2f6084-Illustration-1-light.svg" | relative_url }}" alt="Balloons illustration 1" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_weather_2f6084-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_weather_2f6084-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader history of [Montana]({{ 'why-montana-became-a-ufo-landmark/' | relative_url }}) UFO claims, weather balloons matter because they offer a documented, routine activity taking place in the same skies where many unusual sightings have been reported. The question is not whether balloons exist in the region—they unquestionably do—but whether a particular report matches the characteristics of a balloon or requires a different explanation.
+<img src="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_weather_2f6084-Illustration-1-dark.svg" | relative_url }}" alt="Balloons illustration 1" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_weather_2f6084-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_weather_2f6084-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Within the broader history of Montana UFO claims, weather balloons matter because they offer a documented, routine activity taking place in the same skies where many unusual sightings have been reported. The question is not whether balloons exist in the region—they unquestionably do—but whether a particular report matches the characteristics of a balloon or requires a different explanation.
 
 ## Why Great Falls launches upper-air balloons
 
@@ -265,7 +264,6 @@ A typical radiosonde balloon rises rapidly through the atmosphere while transmit
 Montana's geography makes these launches especially noticeable. The state's broad plains and comparatively unobstructed horizons allow observers to see distant objects for long periods. A balloon high above Great Falls may remain visible long after it would disappear behind terrain in more mountainous or urban areas.
 
 The existence of routine balloon launches does not automatically solve any individual UFO case. It does, however, establish a verified source of bright, high-altitude objects in the exact region where some sightings occurred.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3JdvUu2Xuuk" title="Launching a weather balloon with the US National Weather Service" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3JdvUu2Xuuk" target="_blank" rel="noopener noreferrer">Launching a weather balloon with the US National Weather Service</a></p><p class="youtube-embed-meta">Channel: Overlook Horizon &middot; Views: 4.1K &middot; Uploaded: November 2017 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3JdvUu2Xuuk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3JdvUu2Xuuk">Open on YouTube</a></p></div></div></div>
 
@@ -293,8 +291,7 @@ The balloon hypothesis faced difficulties, however. Analysts looking at the Mari
 
 That debate is important because it illustrates a broader pattern in Montana UFO history. Weather balloons are often among the first conventional explanations considered, but they do not automatically account for every reported detail.
 
-
-<img src="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_weather_2f6084-Illustration-2-light.svg" | relative_url }}" alt="Balloons illustration 2" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_weather_2f6084-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_weather_2f6084-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_weather_2f6084-Illustration-2-dark.svg" | relative_url }}" alt="Balloons illustration 2" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_weather_2f6084-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_weather_2f6084-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where balloon explanations fit
 
 Balloon explanations are strongest when a report includes several common features:
@@ -310,7 +307,6 @@ These conditions appear regularly in Montana sighting reports. Witnesses often d
 
 The explanation is particularly useful because it does not require extraordinary assumptions. Weather balloons are routinely launched, capable of producing unusual visual effects, and known to travel through the same [airspace]({{ 'airspace/' | relative_url }}) where sightings occur.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pz0vYcc4KiI" title="The Roswell Incident Mystery Finally Solved" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer">The Roswell Incident Mystery Finally Solved</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE &middot; Views: 14.1K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pz0vYcc4KiI">Open on YouTube</a></p></div></div></div>
 
 ## Where balloon explanations fail
@@ -318,7 +314,6 @@ The explanation is particularly useful because it does not require extraordinary
 Not every Montana UFO report resembles a weather balloon.(#endnote-4 "Endnote 4") <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Weather balloon</span><span class="citation-popover-snippet">Weather balloon</span></span></span>
 
 A balloon explanation becomes less convincing when reports involve:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -334,8 +329,7 @@ Even then, investigators must be cautious. Witness estimates of speed, distance,
 
 This is why serious UFO investigations generally compare balloon data with weather records, launch schedules, aircraft activity, astronomical conditions, and military operations before reaching conclusions. A weather balloon is one possible answer, not a universal one.
 
-
-<img src="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_weather_2f6084-Illustration-3-light.svg" | relative_url }}" alt="Balloons illustration 3" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_weather_2f6084-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_weather_2f6084-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_weather_2f6084-Illustration-3-dark.svg" | relative_url }}" alt="Balloons illustration 3" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_weather_2f6084-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_military_airspace_ex_360fdf_great_falls_weather_2f6084-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the balloon explanation remains important in Montana
 
 The value of the weather-balloon explanation is not that it solves every mystery. Its importance is that it anchors Montana UFO history in a documented reality. Great Falls and other Montana locations have hosted routine atmospheric observations for decades, placing reflective high-altitude objects into local skies on a predictable basis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://formontana.net/launch.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: formontana.net">[formontana.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">formontana.net</span><span class="citation-popover-title">Weather Balloon Launch from Great Falls Every day at 5 a.m</span><span class="citation-popover-snippet">and 5 p.m. MDT, weather balloons are released from the centers at Great Falls and Glasgow.... About 10% of the radiosondes launched from...</span></span></span>
@@ -344,9 +338,7 @@ For readers looking at Montana's most famous UFO cases, weather balloons serve a
 
 That tension between routine aerial activity and lingering uncertainty is one of the defining features of Montana's UFO history. Weather balloons remain one of the strongest conventional explanations available, but their role is ultimately case-specific rather than universal.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dLpyTodmfg8" title="Preparing and Launching a Weather Balloon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dLpyTodmfg8" target="_blank" rel="noopener noreferrer">Preparing and Launching a Weather Balloon</a></p><p class="youtube-embed-meta">Channel: National Weather Service (NWS) &middot; Views: 181.5K &middot; Uploaded: September 2013 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dLpyTodmfg8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dLpyTodmfg8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -434,7 +426,7 @@ That tension between routine aerial activity and lingering uncertainty is one of
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -444,111 +436,36 @@ That tension between routine aerial activity and lingering uncertainty is one of
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display"><img src="{{ '/assets/images/marketplace-covers/27c78e3de724e607809d.jpg' | relative_url }}" alt="Listing image for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-weather-balloons-explain-montana-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="could-weather-balloons-explain-montana-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="https://i.ebayimg.com/images/g/HAcAAeSw3Hlo1A1X/s-l225.jpg" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-weather-balloons-explain-montana-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="could-weather-balloons-explain-montana-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-weather-balloons-explain-montana-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="could-weather-balloons-explain-montana-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT"><img src="{{ '/assets/images/marketplace-covers/c4fa2fd111d52b7bddcf.jpg' | relative_url }}" alt="Listing image for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/ecc3da59eb1d0848e57f.jpg' | relative_url }}" alt="Listing image for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-weather-balloons-explain-montana-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="could-weather-balloons-explain-montana-ufos-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,15 +473,15 @@ That tension between routine aerial activity and lingering uncertainty is one of
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-weather-balloons-explain-montana-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="could-weather-balloons-explain-montana-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/KZwAAeSw8P5p39er/s-l225.jpg" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-weather-balloons-explain-montana-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="could-weather-balloons-explain-montana-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-weather-balloons-explain-montana-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="could-weather-balloons-explain-montana-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-weather-balloons-explain-montana-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="could-weather-balloons-explain-montana-ufos-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -572,15 +489,15 @@ That tension between routine aerial activity and lingering uncertainty is one of
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-weather-balloons-explain-montana-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="could-weather-balloons-explain-montana-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print"><img src="https://i.ebayimg.com/images/g/2pEAAOSwje1kLA5-/s-l225.jpg" alt="Listing image for Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-weather-balloons-explain-montana-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="could-weather-balloons-explain-montana-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Eurofighter Typhoon | Military Aviation | RAF | Wall Art | Poster | Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-weather-balloons-explain-montana-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="could-weather-balloons-explain-montana-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-weather-balloons-explain-montana-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="could-weather-balloons-explain-montana-ufos-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -588,15 +505,15 @@ That tension between routine aerial activity and lingering uncertainty is one of
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-weather-balloons-explain-montana-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="could-weather-balloons-explain-montana-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)"><img src="https://i.ebayimg.com/images/g/PgMAAeSw0gNpkH~g/s-l225.jpg" alt="Listing image for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-weather-balloons-explain-montana-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="could-weather-balloons-explain-montana-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-weather-balloons-explain-montana-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="could-weather-balloons-explain-montana-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-weather-balloons-explain-montana-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="could-weather-balloons-explain-montana-ufos-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -604,7 +521,7 @@ That tension between routine aerial activity and lingering uncertainty is one of
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloons-could-weather-balloons-explain-montana-ufos-montana-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-weather-balloons-explain-montana-ufos-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="could-weather-balloons-explain-montana-ufos-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -681,17 +598,31 @@ That tension between routine aerial activity and lingering uncertainty is one of
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -704,42 +635,73 @@ That tension between routine aerial activity and lingering uncertainty is one of
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -754,12 +716,17 @@ That tension between routine aerial activity and lingering uncertainty is one of
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -769,42 +736,42 @@ That tension between routine aerial activity and lingering uncertainty is one of
 
 1. <a id="endnote-1"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/rah/virtualtourballoon](https://www.weather.gov/rah/virtualtourballoon)  
+   Link: <a href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/rah/virtualtourballoon</a>  
 
 2. <a id="endnote-2"></a>
    Source: formontana.net  
    Title: Weather Balloon Launch from Great Falls Every day at 5 a.m  
-   Link: [https://formontana.net/launch.html](https://formontana.net/launch.html)  
+   Link: <a href="https://formontana.net/launch.html" target="_blank" rel="noopener noreferrer nofollow">https://formontana.net/launch.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and 5 p.m. MDT, weather balloons are released from the centers at Great Falls and Glasgow.... About 10% of the radiosondes launched from...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/tfx/](https://www.weather.gov/tfx/)  
+   Link: <a href="https://www.weather.gov/tfx/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/tfx/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceGreat Falls, MTIt will be very warm this week across Central and Southwest Montana. Make sure to take all necessa...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Weather balloon  
-   Link: [https://en.wikipedia.org/wiki/Weather_balloon](https://en.wikipedia.org/wiki/Weather_balloon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Robertson Panel  
-   Link: [https://en.wikipedia.org/wiki/Robertson_Panel](https://en.wikipedia.org/wiki/Robertson_Panel)  
+   Link: <a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Mariana UFO film  
-   Link: [https://en.wikipedia.org/wiki/Mariana_UFO_film](https://en.wikipedia.org/wiki/Mariana_UFO_film)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mariana_UFO_film" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mariana_UFO_film</a>  
 
 7. <a id="endnote-7"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/unr/upper-air-launch](https://www.weather.gov/unr/upper-air-launch)  
+   Link: <a href="https://www.weather.gov/unr/upper-air-launch" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/unr/upper-air-launch</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The sounding, as it is called, is released around 4am/pm or 5am/pm depending on whether daylight savings time is in...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: noaa.gov  
-   Link: [https://www.noaa.gov/jetstream/upperair/radiosondes](https://www.noaa.gov/jetstream/upperair/radiosondes)  
+   Link: <a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric...16 Sept 2025 — This video, from the NWS Tampa Bay office, shows the process of a balloon launch.Read...</p></details>
 
 ### Additional References
@@ -812,60 +779,60 @@ That tension between routine aerial activity and lingering uncertainty is one of
 9. <a id="endnote-9"></a>
    Source: facebook.com  
    Title: its a birdits a planeits a balloon did you catch this mysterious object in the s  
-   Link: [https://www.facebook.com/WINKNewsTV/posts/its-a-birdits-a-planeits-a-balloon-did-you-catch-this-mysterious-object-in-the-s/981890407734505/](https://www.facebook.com/WINKNewsTV/posts/its-a-birdits-a-planeits-a-balloon-did-you-catch-this-mysterious-object-in-the-s/981890407734505/)  
+   Link: <a href="https://www.facebook.com/WINKNewsTV/posts/its-a-birdits-a-planeits-a-balloon-did-you-catch-this-mysterious-object-in-the-s/981890407734505/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WINKNewsTV/posts/its-a-birdits-a-planeits-a-balloon-did-you-catch-this-mysterious-object-in-the-s/981890407734505/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did you catch this...March 23, 2026 — Bradley James ▻ Latest UFO Sightings. 1y · Public · Never seen this... Its not aliens or the Chin...</p></details>
    Published: March 23, 2026  
 
 10. <a id="endnote-10"></a>
    Source: theeyewall.com  
    Title: weather balloon launch cuts an honest look at how it should impact forecasts  
-   Link: [https://theeyewall.com/weather-balloon-launch-cuts-an-honest-look-at-how-it-should-impact-forecasts/](https://theeyewall.com/weather-balloon-launch-cuts-an-honest-look-at-how-it-should-impact-forecasts/)  
+   Link: <a href="https://theeyewall.com/weather-balloon-launch-cuts-an-honest-look-at-how-it-should-impact-forecasts/" target="_blank" rel="noopener noreferrer nofollow">https://theeyewall.com/weather-balloon-launch-cuts-an-honest-look-at-how-it-should-impact-forecasts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather balloon launch cuts: An honest look at how it...23 Mar 2025 — The National Weather Service has announced a series of suspensions...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: Two mysterious objects fly across the Montana sky in what may be  
-   Link: [https://www.facebook.com/TheUnXplainedZone/posts/two-mysterious-objects-fly-across-the-montana-sky-in-what-may-be-the-first-ufo-v/1290722933257136/](https://www.facebook.com/TheUnXplainedZone/posts/two-mysterious-objects-fly-across-the-montana-sky-in-what-may-be-the-first-ufo-v/1290722933257136/)  
+   Link: <a href="https://www.facebook.com/TheUnXplainedZone/posts/two-mysterious-objects-fly-across-the-montana-sky-in-what-may-be-the-first-ufo-v/1290722933257136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/two-mysterious-objects-fly-across-the-montana-sky-in-what-may-be-the-first-ufo-v/1290722933257136/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 22, 2026 — The Montana governor and two congressmen were briefed on a UFO (again, not saying alien) in Montana airspace after NORAD d...</p></details>
    Published: May 22, 2026  
 
 12. <a id="endnote-12"></a>
    Source: krtv.com  
    Title: Great Falls' UFO legacy in focus amid Pentagon document release  
-   Link: [https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release](https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release)  
+   Link: <a href="https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release" target="_blank" rel="noopener noreferrer nofollow">https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 13, 2026 — The so-called Mariana film quickly became the talk of the town and remains one of the earliest UFO sightings ever caught o...</p></details>
    Published: May 13, 2026  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/cnn/videos/coordinated-twice-daily-weather-balloon-launches-make-up-the-backbone-of-weather/1265474851807511/](https://www.facebook.com/cnn/videos/coordinated-twice-daily-weather-balloon-launches-make-up-the-backbone-of-weather/1265474851807511/)  
+   Link: <a href="https://www.facebook.com/cnn/videos/coordinated-twice-daily-weather-balloon-launches-make-up-the-backbone-of-weather/1265474851807511/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/videos/coordinated-twice-daily-weather-balloon-launches-make-up-the-backbone-of-weather/1265474851807511/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>across the United States, including in Nebraska and South Dakota...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NWSJacksonville/videos/get-that-data-our-evening-upper-air-balloon-launch-on-216-the-data-that-the-radi/1180185539613532/](https://www.facebook.com/NWSJacksonville/videos/get-that-data-our-evening-upper-air-balloon-launch-on-216-the-data-that-the-radi/1180185539613532/)  
+   Link: <a href="https://www.facebook.com/NWSJacksonville/videos/get-that-data-our-evening-upper-air-balloon-launch-on-216-the-data-that-the-radi/1180185539613532/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NWSJacksonville/videos/get-that-data-our-evening-upper-air-balloon-launch-on-216-the-data-that-the-radi/1180185539613532/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>collects will help meteorologists diagnose the airmass and fuels...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/882346390/Weather-Balloons](https://www.scribd.com/document/882346390/Weather-Balloons)  
+   Link: <a href="https://www.scribd.com/document/882346390/Weather-Balloons" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/882346390/Weather-Balloons</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>orne radiosondes to collect critical weather data, including...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: gfvoyagers.com  
    Title: 75th Anniversary of Mariana UFO Incident  
-   Link: [https://www.gfvoyagers.com/general/2024-25/releases/20250815](https://www.gfvoyagers.com/general/2024-25/releases/20250815)  
+   Link: <a href="https://www.gfvoyagers.com/general/2024-25/releases/20250815" target="_blank" rel="noopener noreferrer nofollow">https://www.gfvoyagers.com/general/2024-25/releases/20250815</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Great Falls Electrics, Nick Mariana spotted two silver UFO&#x27;s flying in formation over [Voyagers](&amp;#123;&amp;#123; &#x27;voyagers/&#x27; | relative_url &amp;#125;&amp;#125;) Stadium (then called Legion Park). Mariana...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: overlookhorizon.com  
    Title: how to track nws weather balloons  
-   Link: [https://overlookhorizon.com/how-to-launch-weather-balloons/how-to-track-nws-weather-balloons/](https://overlookhorizon.com/how-to-launch-weather-balloons/how-to-track-nws-weather-balloons/)  
+   Link: <a href="https://overlookhorizon.com/how-to-launch-weather-balloons/how-to-track-nws-weather-balloons/" target="_blank" rel="noopener noreferrer nofollow">https://overlookhorizon.com/how-to-launch-weather-balloons/how-to-track-nws-weather-balloons/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Jun 2019 — These weather balloon flights are launched at least twice a day from each upper-air observatory and sometimes more often, u...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: wvtf.org  
    Title: the all important weather balloon  
-   Link: [https://www.wvtf.org/2024-05-13/the-all-important-weather-balloon](https://www.wvtf.org/2024-05-13/the-all-important-weather-balloon)  
+   Link: <a href="https://www.wvtf.org/2024-05-13/the-all-important-weather-balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.wvtf.org/2024-05-13/the-all-important-weather-balloon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The all-important weather balloon...13 May 2024 — Many NWS offices across the country launch balloons twice a day – 7AM and 7PM – and som...</p></details>
-   Published: May 2024  
+   Published: May 2024

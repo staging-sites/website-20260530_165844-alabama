@@ -7,7 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /north-carolina-cd988f-index/
 description: Focused pages that expand on What Really Happened in North Carolina's
   UFO....
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: North_Carolina_cd988f
 parent_title: What Really Happened in North Carolina's UFO...

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /west-virginia-be1c72-green-bank-seti/
 description: Focused pages that expand on Green Bank.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: West_Virginia_be1c72_green_bank_seti_ufo_929ca9
-parent_title: Green Bank | What Really Haunts West Virginia's UFO Lore?
+parent_title: Green Bank
 parent_nav_short_title: Green Bank
 parent_permalink: /green-bank/
 ---

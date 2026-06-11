@@ -12,25 +12,25 @@ sibling_basenames:
 - Oregon_07719a_redmond_radar_case_2fa053
 tags:
 - oregon
-- mcminnville
+- mc-minnville
 keywords:
 - oregon
-- mcminnville
+- mc-minnville
 affiliate_category: oregon
 show_ads: true
 description: The Trent photographs remain Oregon's best-known UFO case because the images are famous, disputed and still open to careful scrutiny.
 hero_summary: The Trent photographs remain Oregon's best-known UFO case because the images are famous, disputed and still open to careful scrutiny.
 layout: default
-permalink: /mcminnville/
+permalink: /mc-minnville/
 sidebar_expanded_urls:
 - /why-oregon-matters-in-ufo-history/
-nav_short_title: McMinnville
-title: Were The McMinnville UFO Photos Real?
-title_full: Were The McMinnville UFO Photos Real? | Oregon UFOs
-display_title_short: McMinnville
-display_title: McMinnville
-heading_title: Were The McMinnville UFO Photos Real?
-page_heading_title: Were The McMinnville UFO Photos Real?
+nav_short_title: Mc Minnville
+title: Were The Mc Minnville UFO Photos Real?
+title_full: Were The Mc Minnville UFO Photos Real?
+display_title_short: Mc Minnville
+display_title: Mc Minnville
+heading_title: Were The Mc Minnville UFO Photos Real?
+page_heading_title: Were The Mc Minnville UFO Photos Real?
 source_count: 60
 infographic_count: 3
 planned_sections:
@@ -234,12 +234,12 @@ sibling_links:
   heading_title: Why Oregon UFO Reports Keep Returning
 child_links:
 - basename: Oregon_07719a_mcminnville_photos_f05615_condon_distance_ques_92c9e7
-  title: Condon study | McMinnville
+  title: Condon study | Mc Minnville
   permalink: /condon-study/
   short_title: Condon study
   heading_title: Why did experts take these photos seriously?
 - basename: Oregon_07719a_mcminnville_photos_f05615_mcminnville_wire_mod_229f32
-  title: Wire theory | McMinnville
+  title: Wire theory | Mc Minnville
   permalink: /wire-theory/
   short_title: Wire theory
   heading_title: Were the photos staged under farm wires?
@@ -262,10 +262,9 @@ image: /assets/images/Oregon_07719a_mcminnville_photos_f05615-overview-social.jp
 
 ## Introduction
 
-The McMinnville UFO photographs are [Oregon]({{ 'why-oregon-matters-in-ufo-history/' | relative_url }})’s most famous UFO case because they give the public what most sightings do not: two still images, a named rural setting, named [witnesses]({{ 'witnesses-a4938b/' | relative_url }}) and decades of technical argument. Paul and Evelyn Trent said the photographs were taken on 11 May 1950 on their farm near McMinnville, more precisely in the Sheridan area, after Evelyn saw a metallic disc-shaped object and Paul photographed it before it moved away. The case matters because the central question has never been simply “UFO or not?” It is whether the images show a distant, unexplained object or a small model suspended near the camera. The best modern reading is cautious: the photographs remain historically important and unusually well studied, but later sceptical work has made a staged model under overhead wires a serious, arguably stronger, explanation than it looked in the late 1960s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Photographic Case Studies: Cases 46 - 59...</span></span></span>
+The McMinnville UFO photographs are Oregon’s most famous UFO case because they give the public what most sightings do not: two still images, a named rural setting, named [witnesses]({{ 'witnesses-a4938b/' | relative_url }}) and decades of technical argument. Paul and Evelyn Trent said the photographs were taken on 11 May 1950 on their farm near McMinnville, more precisely in the Sheridan area, after Evelyn saw a metallic disc-shaped object and Paul photographed it before it moved away. The case matters because the central question has never been simply “UFO or not?” It is whether the images show a distant, unexplained object or a small model suspended near the camera. The best modern reading is cautious: the photographs remain historically important and unusually well studied, but later sceptical work has made a staged model under overhead wires a serious, arguably stronger, explanation than it looked in the late 1960s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Photographic Case Studies: Cases 46 - 59...</span></span></span>
 
-
-<img src="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615-overview.webp" | relative_url }}" alt="Overview image for McMinnville" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615-overview.webp" | relative_url }}" alt="Overview image for Mc Minnville" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Trents said happened
 
 The core story is simple. According to the Condon Report’s Case 46, Evelyn Trent reportedly saw a metallic-looking, disc-shaped object, called her husband, and the pair found their camera in time for Paul Trent to take two photographs before the object disappeared. The reported date was 11 May 1950, with the sighting usually placed at about 7:30 or 7:45 in the evening. The setting was a farm about ten miles south-west of McMinnville, in rolling Oregon farm country. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Photographic Case Studies: Cases 46 - 59...</span></span></span>
@@ -274,8 +273,7 @@ The photographs did not become public immediately. Accounts differ in detail, bu
 
 That publicity helped create the “McMinnville” label, even though the farm was not in central McMinnville. For Oregon UFO history, this is part of the case’s importance. A rural farm incident became attached to the nearest media-recognisable town, then to a newspaper archive, then to a regional memory culture. Later reporting even described the negatives as disputed historical objects, with the Trent family seeking their return and the McMinnville News-Register arguing that they belonged in a permanent Yamhill County display. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kval.com/news/local/fight-over-ufo-photos-pits-family-versus-newspaper" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kval.com">[KVAL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kval.com</span><span class="citation-popover-title">Fight over UFO photos pits family versus newspaper</span><span class="citation-popover-snippet">Fight over UFO photos pits family versus newspaper</span></span></span>
 
-
-<img src="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615-Illustration-1-light.svg" | relative_url }}" alt="McMinnville illustration 1" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615-Illustration-1-dark.svg" | relative_url }}" alt="Mc Minnville illustration 1" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Condon analysis found
 
 The most influential early technical analysis came from the University of Colorado’s Air Force-funded UFO study, usually called the Condon Report. The McMinnville photographs were Case 46, investigated by astronomer William K. Hartmann. Hartmann did not treat the case as a casual newspaper curiosity. He looked at the geometry, image consistency, possible fabrication methods and the brightness of objects in the scene. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Photographic Case Studies: Cases 46 - 59...</span></span></span>
@@ -285,7 +283,6 @@ Several points in Hartmann’s analysis favoured the Trents’ account. He judge
 The strongest pro-authenticity argument in the Condon analysis was photometric. In plain terms, Hartmann asked whether the brightness of the object, especially its pale underside, looked more like something close to the camera or something farther away, affected by the intervening atmosphere. His conclusion was that, if the object’s top and bottom surfaces were made of similar material, the brightness data suggested a distant object, perhaps about 1.3 kilometres away and therefore much larger than a small farmyard model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Photographic Case Studies: Cases 46 - 59...</span></span></span>
 
 But Hartmann’s report also identified the weakness that still drives the hoax debate. In both photographs, the object appears beneath overhead wires, and in roughly the same part of the wire system despite the camera having moved. Hartmann explicitly left open the possibility that the object was a small asymmetric model hanging from a wire by a thread too fine to resolve in the images. His summary narrowed the case to a stark choice: a model suspended under the overhead wire, or an extraordinary flying object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Photographic Case Studies: Cases 46 - 59...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8JgPsVw82Mw" title="ALIEN CHRONICLES (S1E4) - BRUCE MACCABEE - ALIEN AND UFOS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8JgPsVw82Mw" target="_blank" rel="noopener noreferrer">ALIEN CHRONICLES (S1E4) - BRUCE MACCABEE - ALIEN AND UFOS</a></p><p class="youtube-embed-meta">Channel: Extreme Mysteries &middot; Views: 541.5K &middot; Uploaded: May 2022 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8JgPsVw82Mw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8JgPsVw82Mw">Open on YouTube</a></p></div></div></div>
 
@@ -301,8 +298,7 @@ The debate became sharper again in 2013, when Antoine Cousyn, François Louange 
 
 That does not make the case a laboratory-perfect debunking. The IPACO conclusion is a later technical interpretation of old photographic material, not a confession, recovered model or complete reconstruction filmed on the day. Still, it matters because it directly addresses the central vulnerability Hartmann himself recognised: the object’s position below the wires. Once that point is treated not as a vague suspicion but as a geometry-and-thread hypothesis, the hoax explanation becomes much harder to dismiss.
 
-
-<img src="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615-Illustration-2-light.svg" | relative_url }}" alt="McMinnville illustration 2" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615-Illustration-2-dark.svg" | relative_url }}" alt="Mc Minnville illustration 2" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What counts as evidence in this case
 
 The McMinnville photographs are often talked about as if their value lies in being “clear”. In reality, their value lies in being arguable. They are clear enough to invite measurement, but not clear enough to settle distance, size, material, suspension or lighting beyond dispute.
@@ -313,7 +309,6 @@ The main evidence against them is also a bundle: inconsistent retellings of how 
 
 A useful way to read the case is to separate three questions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Were the negatives simply altered?** The strongest analyses generally do not rest on crude retouching or double exposure, and Hartmann rejected those explanations.
@@ -321,7 +316,6 @@ A useful way to read the case is to separate three questions:
 * **Was it an extraordinary craft?** That remains unproven, and later sceptical analysis gives a plausible ordinary mechanism: a small model suspended under the wires.
 
 </div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1aY0tEAm6dI" title="Unexplained Objects In The Sky Caught On Camera - Part 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1aY0tEAm6dI" target="_blank" rel="noopener noreferrer">Unexplained Objects In The Sky Caught On Camera - Part 5</a></p><p class="youtube-embed-meta">Channel: MostAmazingTop10 &middot; Views: 24.6K &middot; Uploaded: April 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1aY0tEAm6dI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1aY0tEAm6dI">Open on YouTube</a></p></div></div></div>
 
@@ -333,8 +327,7 @@ The case also shows a recurring pattern in serious UFO history: the most famous 
 
 For Oregon’s wider UFO record, McMinnville is best treated as the state’s landmark photographic case, not as settled proof. It sits naturally alongside other Oregon topics such as the [Redmond]({{ 'redmond/' | relative_url }}) radar-and-interceptor case, local newspaper reporting, and the later McMinnville UFO Festival. The festival culture keeps the story visible, but the historical case should be judged on the photographs, witness accounts and investigations rather than on local celebration.
 
-
-<img src="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615-Illustration-3-light.svg" | relative_url }}" alt="McMinnville illustration 3" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615-Illustration-3-dark.svg" | relative_url }}" alt="Mc Minnville illustration 3" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_mcminnville_photos_f05615-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## So were the McMinnville photos real?
 
 The fairest answer is that the photographs are real photographs of a real object, but the claim that they show a large, unexplained flying craft is not established. Hartmann’s Condon analysis gave the case unusually serious treatment and found that several simple fake-photo explanations did not work. It also left open the exact possibility that has become the strongest sceptical explanation: a small model suspended from the overhead wires. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Photographic Case Studies: Cases 46 - 59...</span></span></span>
@@ -343,9 +336,7 @@ Later analysis has weakened the case for an extraordinary object more than it ha
 
 That is why McMinnville remains useful rather than merely famous. It teaches readers how a classic UFO photograph can be impressive, historically important and still not decisive. The honest conclusion is not that the Trents were certainly truthful or certainly fraudulent. It is that the photographs have not carried the burden placed on them: they remain a disputed Oregon landmark, with the suspended-model explanation now standing as the most serious challenge to their claim as evidence of an extraordinary flying object.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8ffYJukz62A" title="The Famous McMinnville UFO. Flew Over Our 1917 Schoolhouse 76 Years Ago-Here&#x27;s the Proof" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8ffYJukz62A" target="_blank" rel="noopener noreferrer">The Famous McMinnville UFO. Flew Over Our 1917 Schoolhouse 76 Years Ago-Here&#x27;s the Proof</a></p><p class="youtube-embed-meta">Channel: Bellevue Schoolhouse &middot; Views: 113 &middot; Uploaded: May 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8ffYJukz62A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8ffYJukz62A">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -433,7 +424,7 @@ That is why McMinnville remains useful rather than merely famous. It teaches rea
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -443,111 +434,36 @@ That is why McMinnville remains useful rather than merely famous. It teaches rea
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="https://i.ebayimg.com/images/g/B7QAAeSw73loHdMA/s-l225.jpg" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -555,15 +471,15 @@ That is why McMinnville remains useful rather than merely famous. It teaches rea
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth"><img src="https://i.ebayimg.com/images/g/VF0AAeSwVpBpJZso/s-l225.jpg" alt="Listing image for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -571,15 +487,15 @@ That is why McMinnville remains useful rather than merely famous. It teaches rea
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S"><img src="https://i.ebayimg.com/images/g/yRcAAOSwWhdmw231/s-l225.jpg" alt="Listing image for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -587,15 +503,15 @@ That is why McMinnville remains useful rather than merely famous. It teaches rea
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -603,7 +519,7 @@ That is why McMinnville remains useful rather than merely famous. It teaches rea
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mcminnville-were-the-mcminnville-ufo-photos-real-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="were-the-mcminnville-ufo-photos-real-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -680,17 +596,31 @@ That is why McMinnville remains useful rather than merely famous. It teaches rea
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -703,42 +633,73 @@ That is why McMinnville remains useful rather than merely famous. It teaches rea
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -753,12 +714,17 @@ That is why McMinnville remains useful rather than merely famous. It teaches rea
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -768,120 +734,120 @@ That is why McMinnville remains useful rather than merely famous. It teaches rea
 
 1. <a id="endnote-1"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/case46.htm](https://files.ncas.org/condon/text/case46.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case46.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Photographic Case Studies: Cases 46 - 59...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: offbeatoregon.com  
-   Link: [https://offbeatoregon.com/1807c.mcminnville-ufo-sighting-504.html](https://offbeatoregon.com/1807c.mcminnville-ufo-sighting-504.html)  
+   Link: <a href="https://offbeatoregon.com/1807c.mcminnville-ufo-sighting-504.html" target="_blank" rel="noopener noreferrer nofollow">https://offbeatoregon.com/1807c.mcminnville-ufo-sighting-504.html</a>  
 
 3. <a id="endnote-3"></a>
    Source: ufofest.com  
    Title: UFO Festival  
-   Link: [https://ufofest.com/wp-content/uploads/2018/10/UFOHistory3.05.pdf](https://ufofest.com/wp-content/uploads/2018/10/UFOHistory3.05.pdf)  
+   Link: <a href="https://ufofest.com/wp-content/uploads/2018/10/UFOHistory3.05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufofest.com/wp-content/uploads/2018/10/UFOHistory3.05.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: kval.com  
    Title: Fight over UFO photos pits family versus newspaper  
-   Link: [https://kval.com/news/local/fight-over-ufo-photos-pits-family-versus-newspaper](https://kval.com/news/local/fight-over-ufo-photos-pits-family-versus-newspaper)  
+   Link: <a href="https://kval.com/news/local/fight-over-ufo-photos-pits-family-versus-newspaper" target="_blank" rel="noopener noreferrer nofollow">https://kval.com/news/local/fight-over-ufo-photos-pits-family-versus-newspaper</a>  
 
 5. <a id="endnote-5"></a>
    Source: debunker.com  
    Title: An Investigation of the Mc Minnville UFO Photographs by Robert Sheaffer  
-   Link: [https://www.debunker.com/texts/trent1969.html](https://www.debunker.com/texts/trent1969.html)  
+   Link: <a href="https://www.debunker.com/texts/trent1969.html" target="_blank" rel="noopener noreferrer nofollow">https://www.debunker.com/texts/trent1969.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: debunker.com  
    Title: The Trent UFO Photos  
-   Link: [https://debunker.com/trent.html](https://debunker.com/trent.html)  
+   Link: <a href="https://debunker.com/trent.html" target="_blank" rel="noopener noreferrer nofollow">https://debunker.com/trent.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: nicap.org  
    Title: Dr. Bruce Maccabee Research Website  
-   Link: [https://www.nicap.org/[reports](https://www.nicap.org/[reports)  
+   Link: <a href="https://www.nicap.org/[reports" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/[reports</a>  
 
 8. <a id="endnote-8"></a>
    Source: ipaco.fr  
    Title: Report Mc Minnville  
-   Link: [https://www.ipaco.fr/ReportMcMinnville.pdf](https://www.ipaco.fr/ReportMcMinnville.pdf)  
+   Link: <a href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ipaco.fr/ReportMcMinnville.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports/500511_brumac.8k.com_trent1.pdf](https://www.nicap.org/reports/500511_brumac.8k.com_trent1.pdf)  
+   Link: <a href="https://www.nicap.org/reports/500511_brumac.8k.com_trent1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/500511_brumac.8k.com_trent1.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/Good_Cases/500511mcminnville_dir.htm](https://www.nicap.org/Good_Cases/500511mcminnville_dir.htm)  
+   Link: <a href="https://www.nicap.org/Good_Cases/500511mcminnville_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/Good_Cases/500511mcminnville_dir.htm</a>  
 
 11. <a id="endnote-11"></a>
    Source: nicap.org  
    Title: 500511mcminnville analysiscomments  
-   Link: [https://www.nicap.org/reports/500511mcminnville_analysiscomments.htm](https://www.nicap.org/reports/500511mcminnville_analysiscomments.htm)  
+   Link: <a href="https://www.nicap.org/reports/500511mcminnville_analysiscomments.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/500511mcminnville_analysiscomments.htm</a>  
 
 12. <a id="endnote-12"></a>
    Source: time.com  
-   Link: [https://time.com/archive/6632970/investigations-saucers-end/](https://time.com/archive/6632970/investigations-saucers-end/)  
+   Link: <a href="https://time.com/archive/6632970/investigations-saucers-end/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6632970/investigations-saucers-end/</a>  
 
 13. <a id="endnote-13"></a>
    Source: dn721804.ca.archive.org  
    Title: Bad UFOs critical thinking about UFO claims  
-   Link: [https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf](https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf)  
+   Link: <a href="https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: UFO photographs  
-   Link: [https://en.wikipedia.org/wiki/UFO_photographs](https://en.wikipedia.org/wiki/UFO_photographs)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
 
 15. <a id="endnote-15"></a>
    Source: psionicresearch.com  
-   Link: [https://psionicresearch.com/articles/mcminnville.html](https://psionicresearch.com/articles/mcminnville.html)  
+   Link: <a href="https://psionicresearch.com/articles/mcminnville.html" target="_blank" rel="noopener noreferrer nofollow">https://psionicresearch.com/articles/mcminnville.html</a>  
 
 16. <a id="endnote-16"></a>
    Source: iconicphotos.wordpress.com  
    Title: mcminnville ufo  
-   Link: [https://iconicphotos.wordpress.com/2010/01/22/mcminnville-ufo/](https://iconicphotos.wordpress.com/2010/01/22/mcminnville-ufo/)  
+   Link: <a href="https://iconicphotos.wordpress.com/2010/01/22/mcminnville-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://iconicphotos.wordpress.com/2010/01/22/mcminnville-ufo/</a>  
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=8ffYJukz62A](https://www.youtube.com/watch?v=8ffYJukz62A)  
+   Link: <a href="https://www.youtube.com/watch?v=8ffYJukz62A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8ffYJukz62A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oldest Most Authentic UFO Photos? - McMinnville UFO And The Trent&#x27;s Photos...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Unexplained Objects In The Sky Caught On Camera  
-   Link: [https://www.youtube.com/watch?v=1aY0tEAm6dI](https://www.youtube.com/watch?v=1aY0tEAm6dI)  
+   Link: <a href="https://www.youtube.com/watch?v=1aY0tEAm6dI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1aY0tEAm6dI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 50 CREEPIEST Unsolved Photo Mysteries...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/SheridanWillaminaGrandRondeHometown/posts/1634663346878729/](https://www.facebook.com/groups/SheridanWillaminaGrandRondeHometown/posts/1634663346878729/)  
+   Link: <a href="https://www.facebook.com/groups/SheridanWillaminaGrandRondeHometown/posts/1634663346878729/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SheridanWillaminaGrandRondeHometown/posts/1634663346878729/</a>  
 
 20. <a id="endnote-20"></a>
    Source: ufofest.com  
-   Link: [https://ufofest.com/event/screening-of-trent-ufo-documentary/](https://ufofest.com/event/screening-of-trent-ufo-documentary/)  
+   Link: <a href="https://ufofest.com/event/screening-of-trent-ufo-documentary/" target="_blank" rel="noopener noreferrer nofollow">https://ufofest.com/event/screening-of-trent-ufo-documentary/</a>  
 
 21. <a id="endnote-21"></a>
    Source: dailyemerald.com  
-   Link: [https://dailyemerald.com/43204/archives/secrets-of-the-sky/](https://dailyemerald.com/43204/archives/secrets-of-the-sky/)  
+   Link: <a href="https://dailyemerald.com/43204/archives/secrets-of-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://dailyemerald.com/43204/archives/secrets-of-the-sky/</a>  
 
 22. <a id="endnote-22"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/1977/04/p74.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/1977/04/p74.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/1977/04/p74.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/1977/04/p74.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ck8tm0/the_mcminnville_ufo_photos_still_mystify/](https://www.reddit.com/r/UFOs/comments/1ck8tm0/the_mcminnville_ufo_photos_still_mystify/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ck8tm0/the_mcminnville_ufo_photos_still_mystify/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ck8tm0/the_mcminnville_ufo_photos_still_mystify/</a>  
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1n69tm4/the_trent_ufo_was_a_large_distant_object/](https://www.reddit.com/r/UFOs/comments/1n69tm4/the_trent_ufo_was_a_large_distant_object/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1n69tm4/the_trent_ufo_was_a_large_distant_object/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1n69tm4/the_trent_ufo_was_a_large_distant_object/</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/theoregonian/posts/the-history-of-ufo-sightings-in-the-united-states-cant-be-told-without-the-pacif/1078606407647850/](https://www.facebook.com/theoregonian/posts/the-history-of-ufo-sightings-in-the-united-states-cant-be-told-without-the-pacif/1078606407647850/)  
+   Link: <a href="https://www.facebook.com/theoregonian/posts/the-history-of-ufo-sightings-in-the-united-states-cant-be-told-without-the-pacif/1078606407647850/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theoregonian/posts/the-history-of-ufo-sightings-in-the-united-states-cant-be-told-without-the-pacif/1078606407647850/</a>  
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/17qmriu/mcminnville_oregon_ufo_this_is_one_of_the_few_ufo/](https://www.reddit.com/r/UFOs/comments/17qmriu/mcminnville_oregon_ufo_this_is_one_of_the_few_ufo/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/17qmriu/mcminnville_oregon_ufo_this_is_one_of_the_few_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17qmriu/mcminnville_oregon_ufo_this_is_one_of_the_few_ufo/</a>

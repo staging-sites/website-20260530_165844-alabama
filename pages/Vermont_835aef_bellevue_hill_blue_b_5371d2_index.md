@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /vermont-835aef-bellevue-hill-blue-b/
 description: Focused pages that expand on Bellevue Hill.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Vermont_835aef_bellevue_hill_blue_b_5371d2
-parent_title: Bellevue Hill | What Makes Vermont's UFO Stories Endure?
+parent_title: Bellevue Hill
 parent_nav_short_title: Bellevue Hill
 parent_permalink: /bellevue-hill/
 ---

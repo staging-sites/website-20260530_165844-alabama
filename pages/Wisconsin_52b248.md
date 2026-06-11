@@ -262,7 +262,7 @@ sibling_links:
   short_title: Michigan UFOs
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Alabama_d1f92d
   title: Alabama UFOs
@@ -277,9 +277,9 @@ sibling_links:
   permalink: /what-keeps-tennessees-ufo-stories-alive/
   short_title: Tennessee UFOs
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Idaho_18334c
   title: Idaho UFOs
   permalink: /what-makes-idaho-a-key-ufo-hotspot/
@@ -289,9 +289,9 @@ sibling_links:
   permalink: /what-makes-indianas-ufo-history-unique/
   short_title: Indiana UFOs
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: South_Carolina_11d001
   title: South Carolina UFOs
   permalink: /what-makes-south-carolinas-ufo-story/
@@ -481,7 +481,6 @@ image: /assets/images/Wisconsin_52b248-overview-social.jpg
 
 The key Wisconsin cases include [Coral Lorenzen]({{ 'coral-lorenzen/' | relative_url }})’s early sighting at Barron, the 1961 [Eagle River]({{ 'eagle-river/' | relative_url }}) “alien pancakes” case, the Elmwood police-officer sightings of the 1970s, Belleville’s 1987 flap, and the Dundee/Long Lake cluster that helped create UFO Daze. Wisconsin also appears in Project Blue Book-era records and in modern databases such as the National UFO Reporting Center, where reports continue into 2026. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">Wisconsin Frights The Wisconsin Flying Saucer that Changed UFO Research</span><span class="citation-popover-snippet">Wisconsin Frights The Wisconsin Flying Saucer that Changed UFO Research</span></span></span> [2Fold3]
 
-
 <img src="{{ "/assets/images/Wisconsin_52b248-overview.webp" | relative_url }}" alt="Overview image for What Really Made Wisconsin a UFO State?" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Wisconsin became a UFO state
 
@@ -501,8 +500,7 @@ This matters for Wisconsin because it gives the state a structural role in UFO h
 
 The weakness is also clear. Lorenzen’s original [Barron sighting]({{ 'barron-sighting/' | relative_url }}) was a childhood memory, not a multi-instrument case. It cannot be tested now. Its historical importance lies less in proving what crossed the sky in 1934 and more in showing how one experience helped lead to organised civilian UFO investigation.
 
-
-<img src="{{ "/assets/images/Wisconsin_52b248-Illustration-1-light.svg" | relative_url }}" alt="What Really Made Wisconsin a UFO State? illustration 1" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wisconsin_52b248-Illustration-1-dark.svg" | relative_url }}" alt="What Really Made Wisconsin a UFO State? illustration 1" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Eagle River, 1961: Wisconsin’s strangest famous case
 
 The Eagle River case is the Wisconsin UFO story most likely to sound invented at first hearing. On 18 April 1961, Joe Simonton, a retired plumber living near Eagle River, said a craft landed near his property and that short occupants asked him for water. He claimed they were cooking food and gave him several pancake-like objects. The case entered UFO literature because it mixed a close-encounter narrative with alleged physical material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wxpr.org">[wxpr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wxpr.org</span><span class="citation-popover-title">A Northwoods Case for the X-Files</span><span class="citation-popover-snippet">A Northwoods Case for the X-Files</span></span></span>
@@ -527,7 +525,6 @@ What makes Elmwood important is the combination of witness status and community 
 
 Elmwood is therefore best understood as a case cluster with cultural durability. The original sightings remain contested, but the town’s response made them a lasting part of Wisconsin’s UFO map.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PXw0AN9S_5A" title="WEIRD WISCONSIN: Eagle River &amp; Joe Simonton&#x27;s BIZARRE UFO Pancakes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PXw0AN9S_5A" target="_blank" rel="noopener noreferrer">WEIRD WISCONSIN: Eagle River &amp; Joe Simonton&#x27;s BIZARRE UFO Pancakes</a></p><p class="youtube-embed-meta">Channel: SightseeingSally &middot; Views: 7.2K &middot; Uploaded: September 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PXw0AN9S_5A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PXw0AN9S_5A">Open on YouTube</a></p></div></div></div>
 
 ## Belleville, 1987: when a local flap became a civic ritual
@@ -550,8 +547,7 @@ Dundee’s evidential value is mixed. Crowd sightings can be powerful because th
 
 The most cautious assessment is that Dundee is a regional folklore hotspot with repeated witness claims rather than a single landmark solved-or-unsolved case. Its value for Wisconsin UFO history lies in how it sustained a public reporting culture. People came to talk, watch the sky and compare experiences, which is exactly how many local UFO traditions survive.
 
-
-<img src="{{ "/assets/images/Wisconsin_52b248-Illustration-2-light.svg" | relative_url }}" alt="What Really Made Wisconsin a UFO State? illustration 2" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wisconsin_52b248-Illustration-2-dark.svg" | relative_url }}" alt="What Really Made Wisconsin a UFO State? illustration 2" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Project Blue Book and official records
 
 Project Blue Book is essential for understanding Wisconsin UFO reports from the mid-20th century because it was the U.S. Air Force’s main public UFO investigation programme. The National Archives states that Project Blue Book records have been declassified and are available for examination, while also noting that the project closed in 1969 and that the Archives has no information on sightings after that date. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
@@ -566,12 +562,11 @@ Second, Blue Book’s conclusions should not be treated as a perfect final word.
 
 Modern UFO reporting in Wisconsin is dominated by public databases rather than official state investigations. The National UFO Reporting Center provides a browsable Wisconsin index with reports continuing into 2026, including recent entries from Milwaukee, Kiel, DeForest and other places. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lWI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-NUFORC is valuable because it preserves first-hand accounts quickly and openly. It is also limited because most reports are self-submitted and vary widely in quality. A short report of a light moving over Milwaukee is not equivalent to a pilot radar-visual case, and a database count is not a count of verified anomalous objects. NUFORC itself describes its databank as a large independently collected set of UFO/UAP witness reports, not a catalogue of confirmed extraterrestrial events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Data Bank | NUFORC</span></span></span>
+NUFORC is valuable because it preserves first-hand accounts quickly and openly. It is also limited because most reports are self-submitted and vary widely in quality. A short report of a light moving over Milwaukee is not equivalent to a pilot radar-visual case, and a database count is not a count of verified anomalous objects. NUFORC itself describes its databank as a large independently collected set of UFO/UAP witness reports, not a catalogue of confirmed extraterrestrial events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC</span></span></span>
 
 Recent counts also change depending on the dataset, date and filtering method. One local 2025 analysis using NUFORC figures listed 2,544 Wisconsin sightings since 1947, while another data site using geocoded NUFORC-derived material through 2023 listed 3,234 reported UFO and UAP sightings for Wisconsin. Those differences are a reminder that raw totals should be handled carefully. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tonemadison.com/articles/oddsconsin-ufos-and-alien-abductions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tonemadison.com">[Tone Madison]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tonemadison.com</span><span class="citation-popover-title">Tone Madison Oddsconsin: UFOs and alien abductions</span><span class="citation-popover-snippet">Tone Madison Oddsconsin: UFOs and alien abductions</span></span></span>
 
 The best use of modern databases is not to ask, “How many aliens visited Wisconsin?” It is to ask: where do reports cluster, what shapes and behaviours are commonly described, how often are explanations suggested, and which cases include multiple witnesses, images, law-enforcement involvement or other corroboration?
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K4-B01SR1Gs" title="Dundee, WI: Old Mill, UFO&#x27;s over Long Lake?, UFO Daze, Cool Abandoned Houses! Crazy Weather!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K4-B01SR1Gs" target="_blank" rel="noopener noreferrer">Dundee, WI: Old Mill, UFO&#x27;s over Long Lake?, UFO Daze, Cool Abandoned Houses! Crazy Weather!!</a></p><p class="youtube-embed-meta">Channel: Road Trips With Yogi &middot; Views: 934 &middot; Uploaded: April 2020 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K4-B01SR1Gs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K4-B01SR1Gs">Open on YouTube</a></p></div></div></div>
 
@@ -585,13 +580,11 @@ The Pentagon’s All-domain Anomaly Resolution Office has also argued that many 
 
 For Wisconsin cases, that national context matters. It does not debunk every witness account. It does mean that a responsible state-level history should avoid turning “unexplained to the witness” into “confirmed non-human craft”. The strongest unsolved cases remain interesting because they resist easy explanation, not because they prove the most dramatic explanation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Su8Mr4-kZTY" title="Factory Workers Catch dish-shaped UFO Gliding Across Sky || Dogtooth Media" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Su8Mr4-kZTY" target="_blank" rel="noopener noreferrer">Factory Workers Catch dish-shaped UFO Gliding Across Sky || Dogtooth Media</a></p><p class="youtube-embed-meta">Channel: Dogtooth Media &middot; Views: 148 &middot; Uploaded: November 2025 &middot; Length: 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Su8Mr4-kZTY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Su8Mr4-kZTY">Open on YouTube</a></p></div></div></div>
 
 ## How to judge a Wisconsin UFO case
 
 A useful Wisconsin UFO case is not necessarily the weirdest one. It is the one with the best evidence trail. For readers comparing cases, these criteria help separate strong, weak and folkloric material:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -606,8 +599,7 @@ A useful Wisconsin UFO case is not necessarily the weirdest one. It is the one w
 
 On those criteria, Eagle River is historically famous but evidentially weakened by the ordinary analysis of the alleged food sample. Elmwood and Belleville are stronger as social and witness clusters than as technical cases. Dundee is compelling as a living folklore hotspot, but its public evidence is usually too loose to resolve individual sightings.
 
-
-<img src="{{ "/assets/images/Wisconsin_52b248-Illustration-3-light.svg" | relative_url }}" alt="What Really Made Wisconsin a UFO State? illustration 3" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wisconsin_52b248-Illustration-3-dark.svg" | relative_url }}" alt="What Really Made Wisconsin a UFO State? illustration 3" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Wisconsin adds to wider UFO history
 
 Wisconsin’s UFO history matters because it shows the whole life cycle of American UFO belief at state level. There is an early personal sighting that helped motivate a major civilian research organisation. There is a Blue Book-era close encounter with alleged physical evidence. There are police-witness flaps. There are small towns that turned unsettling reports into festivals. There are modern online databases where new reports keep arriving.
@@ -702,7 +694,7 @@ The balanced conclusion is not that Wisconsin has been proved to host extraterre
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -712,111 +704,36 @@ The balanced conclusion is not that Wisconsin has been proved to host extraterre
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="https://i.ebayimg.com/images/g/YVIAAOSwd71n7DAx/s-l225.jpg" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -824,15 +741,15 @@ The balanced conclusion is not that Wisconsin has been proved to host extraterre
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets"><img src="https://i.ebayimg.com/images/g/sWkAAeSwmOFplQNw/s-l225.jpg" alt="Listing image for UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -840,15 +757,15 @@ The balanced conclusion is not that Wisconsin has been proved to host extraterre
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy"><img src="https://i.ebayimg.com/images/g/~qcAAOSwAetdLK5G/s-l225.jpg" alt="Listing image for Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -856,15 +773,15 @@ The balanced conclusion is not that Wisconsin has been proved to host extraterre
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Rainbow Patch Iron Sew On Alien NASA Space UFO Embroidered Badge"><img src="https://i.ebayimg.com/images/g/DUgAAOSw38JdE18u/s-l225.jpg" alt="Listing image for Flying Saucer Rainbow Patch Iron Sew On Alien NASA Space UFO Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Rainbow Patch Iron Sew On Alien NASA Space UFO Embroidered Badge</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -872,7 +789,7 @@ The balanced conclusion is not that Wisconsin has been proved to host extraterre
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-made-wisconsin-a-ufo-state-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -949,17 +866,31 @@ The balanced conclusion is not that Wisconsin has been proved to host extraterre
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -972,42 +903,73 @@ The balanced conclusion is not that Wisconsin has been proved to host extraterre
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -1022,12 +984,17 @@ The balanced conclusion is not that Wisconsin has been proved to host extraterre
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -1037,263 +1004,263 @@ The balanced conclusion is not that Wisconsin has been proved to host extraterre
 
 1. <a id="endnote-1"></a>
    Source: fold3.com  
-   Link: [https://www.fold3.com/document/8680116/eagle-river-wisconsin-blank-page-73-us-project-blue-book-ufo-investigations-1947-1969](https://www.fold3.com/document/8680116/eagle-river-wisconsin-blank-page-73-us-project-blue-book-ufo-investigations-1947-1969)  
+   Link: <a href="https://www.fold3.com/document/8680116/eagle-river-wisconsin-blank-page-73-us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/8680116/eagle-river-wisconsin-blank-page-73-us-project-blue-book-ufo-investigations-1947-1969</a>  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lWI](https://nuforc.org/subndx/?id=lWI)  
+   Link: <a href="https://nuforc.org/subndx/?id=lWI" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lWI</a>  
 
 3. <a id="endnote-3"></a>
    Source: authenticwisconsin.com  
    Title: Notable Places | Elmwood, Wisconsin  
-   Link: [https://authenticwisconsin.com/elmwood.html](https://authenticwisconsin.com/elmwood.html)  
+   Link: <a href="https://authenticwisconsin.com/elmwood.html" target="_blank" rel="noopener noreferrer nofollow">https://authenticwisconsin.com/elmwood.html</a>  
 
 4. <a id="endnote-4"></a>
    Source: bellevillewi.com  
-   Link: [https://bellevillewi.com/ufo/](https://bellevillewi.com/ufo/)  
+   Link: <a href="https://bellevillewi.com/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://bellevillewi.com/ufo/</a>  
 
 5. <a id="endnote-5"></a>
    Source: authenticwisconsin.com  
-   Link: [https://authenticwisconsin.com/dundee.html](https://authenticwisconsin.com/dundee.html)  
+   Link: <a href="https://authenticwisconsin.com/dundee.html" target="_blank" rel="noopener noreferrer nofollow">https://authenticwisconsin.com/dundee.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt](https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt</a>  
 
 7. <a id="endnote-7"></a>
    Source: archive.org  
-   Link: [https://archive.org/details/apro-bulletin](https://archive.org/details/apro-bulletin)  
+   Link: <a href="https://archive.org/details/apro-bulletin" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/apro-bulletin</a>  
 
 8. <a id="endnote-8"></a>
    Source: wxpr.org  
    Title: A Northwoods Case for the X-Files  
-   Link: [https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files](https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files)  
+   Link: <a href="https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files</a>  
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
 11. <a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 12. <a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/photographs](https://www.archives.gov/research/topics/uaps/photographs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
 
 15. <a id="endnote-15"></a>
    Source: prologue.blogs.archives.gov  
-   Link: [https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf](https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf)  
+   Link: <a href="https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: archives.gov  
    Title: nara documents2  
-   Link: [https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2](https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2)  
+   Link: <a href="https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2</a>  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=p260325](https://nuforc.org/subndx/?id=p260325)  
+   Link: <a href="https://nuforc.org/subndx/?id=p260325" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=p260325</a>  
 
 20. <a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=197364](https://nuforc.org/sighting/?id=197364)  
+   Link: <a href="https://nuforc.org/sighting/?id=197364" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197364</a>  
 
 21. <a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=196051](https://nuforc.org/sighting/?id=196051)  
+   Link: <a href="https://nuforc.org/sighting/?id=196051" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=196051</a>  
 
 22. <a id="endnote-22"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 23. <a id="endnote-23"></a>
    Source: fold3.com  
-   Link: [https://www.fold3.com/document/8407087/williams-bay-wisconsin-blank-page-13-us-project-blue-book-ufo-investigations-1947-1969](https://www.fold3.com/document/8407087/williams-bay-wisconsin-blank-page-13-us-project-blue-book-ufo-investigations-1947-1969)  
+   Link: <a href="https://www.fold3.com/document/8407087/williams-bay-wisconsin-blank-page-13-us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/8407087/williams-bay-wisconsin-blank-page-13-us-project-blue-book-ufo-investigations-1947-1969</a>  
 
 24. <a id="endnote-24"></a>
    Source: wisconsinfrights.com  
    Title: Wisconsin Frights The Wisconsin Flying Saucer that Changed UFO Research  
-   Link: [https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/](https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/)  
+   Link: <a href="https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/coral-lorenzen-ufo-research/</a>  
 
 25. <a id="endnote-25"></a>
    Source: backroadspiercecounty.com  
    Title: Pierce County Tours UFO Sightings (Tuttle Hill)  
-   Link: [https://backroadspiercecounty.com/historic-site/ufo-sightings-tuttle-hill/](https://backroadspiercecounty.com/historic-site/ufo-sightings-tuttle-hill/)  
+   Link: <a href="https://backroadspiercecounty.com/historic-site/ufo-sightings-tuttle-hill/" target="_blank" rel="noopener noreferrer nofollow">https://backroadspiercecounty.com/historic-site/ufo-sightings-tuttle-hill/</a>  
 
 26. <a id="endnote-26"></a>
    Source: milwaukeemag.com  
    Title: Milwaukee Magazine Stories of Strange and Unusual UFO Sightings in Wisconsin  
-   Link: [https://www.milwaukeemag.com/stories-of-strange-and-unusual-ufo-sightings-in-wisconsin/](https://www.milwaukeemag.com/stories-of-strange-and-unusual-ufo-sightings-in-wisconsin/)  
+   Link: <a href="https://www.milwaukeemag.com/stories-of-strange-and-unusual-ufo-sightings-in-wisconsin/" target="_blank" rel="noopener noreferrer nofollow">https://www.milwaukeemag.com/stories-of-strange-and-unusual-ufo-sightings-in-wisconsin/</a>  
 
 27. <a id="endnote-27"></a>
    Source: westernwisconsin.news  
    Title: Western Wisconsin News45th Annual Elmwood UFO Days Celebration was hot and '  
-   Link: [https://westernwisconsin.news/45th-annual-elmwood-ufo-days-celebration-was-hot-and-out-of-this-world/](https://westernwisconsin.news/45th-annual-elmwood-ufo-days-celebration-was-hot-and-out-of-this-world/)  
+   Link: <a href="https://westernwisconsin.news/45th-annual-elmwood-ufo-days-celebration-was-hot-and-out-of-this-world/" target="_blank" rel="noopener noreferrer nofollow">https://westernwisconsin.news/45th-annual-elmwood-ufo-days-celebration-was-hot-and-out-of-this-world/</a>  
 
 28. <a id="endnote-28"></a>
    Source: wisconsinfrights.com  
    Title: Wisconsin Frights UFO Capital of Wisconsin? Explore these 3 UFO Hotspots  
-   Link: [https://www.wisconsinfrights.com/wisconsin-ufo-festivals/](https://www.wisconsinfrights.com/wisconsin-ufo-festivals/)  
+   Link: <a href="https://www.wisconsinfrights.com/wisconsin-ufo-festivals/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/wisconsin-ufo-festivals/</a>  
 
 29. <a id="endnote-29"></a>
    Source: apnews.com  
    Title: AP News Wisconsin community remembers strange lights with UFO  
-   Link: [https://apnews.com/general-news-48bd7339f9ef4c3aaa367fb0046bdbb8](https://apnews.com/general-news-48bd7339f9ef4c3aaa367fb0046bdbb8)  
+   Link: <a href="https://apnews.com/general-news-48bd7339f9ef4c3aaa367fb0046bdbb8" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/general-news-48bd7339f9ef4c3aaa367fb0046bdbb8</a>  
 
 30. <a id="endnote-30"></a>
    Source: cultofweird.com  
    Title: Cult of Weird Dundee, Wisconsin: UFO Capital of the World  
-   Link: [https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/](https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/)  
+   Link: <a href="https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/" target="_blank" rel="noopener noreferrer nofollow">https://www.cultofweird.com/ufo-sightings/dundee-wisconsin-ufo-capital/</a>  
 
 31. <a id="endnote-31"></a>
    Source: wisconsinfrights.com  
    Title: ufo daze  
-   Link: [https://www.wisconsinfrights.com/ufo-daze/](https://www.wisconsinfrights.com/ufo-daze/)  
+   Link: <a href="https://www.wisconsinfrights.com/ufo-daze/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/ufo-daze/</a>  
 
 32. <a id="endnote-32"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
 33. <a id="endnote-33"></a>
    Source: tonemadison.com  
    Title: Tone Madison Oddsconsin: UFOs and alien abductions  
-   Link: [https://tonemadison.com/articles/oddsconsin-ufos-and-alien-abductions/](https://tonemadison.com/articles/oddsconsin-ufos-and-alien-abductions/)  
+   Link: <a href="https://tonemadison.com/articles/oddsconsin-ufos-and-alien-abductions/" target="_blank" rel="noopener noreferrer nofollow">https://tonemadison.com/articles/oddsconsin-ufos-and-alien-abductions/</a>  
 
 34. <a id="endnote-34"></a>
    Source: ufodatalive.com  
-   Link: [https://www.ufodatalive.com/states/wisconsin/](https://www.ufodatalive.com/states/wisconsin/)  
+   Link: <a href="https://www.ufodatalive.com/states/wisconsin/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodatalive.com/states/wisconsin/</a>  
 
 35. <a id="endnote-35"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 36. <a id="endnote-36"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 37. <a id="endnote-37"></a>
    Source: Wikipedia  
    Title: Aerial Phenomena Research Organization  
-   Link: [https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization](https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization)  
+   Link: <a href="https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization</a>  
 
 38. <a id="endnote-38"></a>
    Source: hardcorezen.info  
    Title: alien pancakes  
-   Link: [https://hardcorezen.info/alien-pancakes/7894](https://hardcorezen.info/alien-pancakes/7894)  
+   Link: <a href="https://hardcorezen.info/alien-pancakes/7894" target="_blank" rel="noopener noreferrer nofollow">https://hardcorezen.info/alien-pancakes/7894</a>  
 
 39. <a id="endnote-39"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/history/](https://mufon.com/history/)  
+   Link: <a href="https://mufon.com/history/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/history/</a>  
 
 40. <a id="endnote-40"></a>
    Source: cufos.org  
    Title: project blue book  
-   Link: [https://cufos.org/resources/project-blue-book/](https://cufos.org/resources/project-blue-book/)  
+   Link: <a href="https://cufos.org/resources/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/project-blue-book/</a>  
 
 41. <a id="endnote-41"></a>
    Source: slideshare.net  
    Title: Coral Lorenzen  
-   Link: [https://www.slideshare.net/DirkTheDaring11/coral-lorenzen-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space](https://www.slideshare.net/DirkTheDaring11/coral-lorenzen-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space)  
+   Link: <a href="https://www.slideshare.net/DirkTheDaring11/coral-lorenzen-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/DirkTheDaring11/coral-lorenzen-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space</a>  
 
 42. <a id="endnote-42"></a>
    Source: cultofweird.com  
    Title: wisconsin alien pancakes  
-   Link: [https://www.cultofweird.com/ufo-sightings/wisconsin-alien-pancakes/](https://www.cultofweird.com/ufo-sightings/wisconsin-alien-pancakes/)  
+   Link: <a href="https://www.cultofweird.com/ufo-sightings/wisconsin-alien-pancakes/" target="_blank" rel="noopener noreferrer nofollow">https://www.cultofweird.com/ufo-sightings/wisconsin-alien-pancakes/</a>  
 
 43. <a id="endnote-43"></a>
    Source: wisconsinfrights.com  
    Title: elmwood ufo sightings sign  
-   Link: [https://www.wisconsinfrights.com/elmwood-ufo-sightings-sign/](https://www.wisconsinfrights.com/elmwood-ufo-sightings-sign/)  
+   Link: <a href="https://www.wisconsinfrights.com/elmwood-ufo-sightings-sign/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/elmwood-ufo-sightings-sign/</a>  
 
 44. <a id="endnote-44"></a>
    Source: wisconsinfrights.com  
    Title: dundee ufo daze documentary  
-   Link: [https://www.wisconsinfrights.com/dundee-ufo-daze-documentary/](https://www.wisconsinfrights.com/dundee-ufo-daze-documentary/)  
+   Link: <a href="https://www.wisconsinfrights.com/dundee-ufo-daze-documentary/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/dundee-ufo-daze-documentary/</a>  
 
 45. <a id="endnote-45"></a>
    Source: wisconsinfrights.com  
    Title: Wisconsin UFO Zine  
-   Link: [https://www.wisconsinfrights.com/zine/cosmic-encounters/](https://www.wisconsinfrights.com/zine/cosmic-encounters/)  
+   Link: <a href="https://www.wisconsinfrights.com/zine/cosmic-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/zine/cosmic-encounters/</a>  
 
 46. <a id="endnote-46"></a>
    Source: the-sun.com  
    Title: us air forces secret probe alien pancakes  
-   Link: [https://www.the-sun.com/news/7625220/us-air-forces-secret-probe-alien-pancakes/](https://www.the-sun.com/news/7625220/us-air-forces-secret-probe-alien-pancakes/)  
+   Link: <a href="https://www.the-sun.com/news/7625220/us-air-forces-secret-probe-alien-pancakes/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/7625220/us-air-forces-secret-probe-alien-pancakes/</a>  
 
 47. <a id="endnote-47"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 48. <a id="endnote-48"></a>
    Source: milwaukeemag.com  
    Title: milwaukees flying saucer outbreak alien pancakes and other ufo tales  
-   Link: [https://www.milwaukeemag.com/milwaukees-flying-saucer-outbreak-alien-pancakes-and-other-ufo-tales/](https://www.milwaukeemag.com/milwaukees-flying-saucer-outbreak-alien-pancakes-and-other-ufo-tales/)  
+   Link: <a href="https://www.milwaukeemag.com/milwaukees-flying-saucer-outbreak-alien-pancakes-and-other-ufo-tales/" target="_blank" rel="noopener noreferrer nofollow">https://www.milwaukeemag.com/milwaukees-flying-saucer-outbreak-alien-pancakes-and-other-ufo-tales/</a>  
 
 ### Additional References
 
 49. <a id="endnote-49"></a>
    Source: youtube.com  
    Title: WEIRD WISCONSIN: Eagle River & Joe Simonton's BIZARRE UFO Pancakes  
-   Link: [https://www.youtube.com/watch?v=PXw0AN9S_5A](https://www.youtube.com/watch?v=PXw0AN9S_5A)  
+   Link: <a href="https://www.youtube.com/watch?v=PXw0AN9S_5A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PXw0AN9S_5A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The BIZARRE &amp; EERIE tales behind a Wisconsin town&#x27;s yearly celebration...</p></details>
 
 50. <a id="endnote-50"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
 51. <a id="endnote-51"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/whntnews19/posts/mysterious-lights-a-strange-sight-captured-above-milwaukee-has-created-a-viral-s/10155429232136045/](https://www.facebook.com/whntnews19/posts/mysterious-lights-a-strange-sight-captured-above-milwaukee-has-created-a-viral-s/10155429232136045/)  
+   Link: <a href="https://www.facebook.com/whntnews19/posts/mysterious-lights-a-strange-sight-captured-above-milwaukee-has-created-a-viral-s/10155429232136045/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/whntnews19/posts/mysterious-lights-a-strange-sight-captured-above-milwaukee-has-created-a-viral-s/10155429232136045/</a>  
 
 52. <a id="endnote-52"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MPRnews/posts/a-string-of-lights-that-rolled-across-the-sky-in-parts-of-the-us-on-recent-night/10158745734988591/](https://www.facebook.com/MPRnews/posts/a-string-of-lights-that-rolled-across-the-sky-in-parts-of-the-us-on-recent-night/10158745734988591/)  
+   Link: <a href="https://www.facebook.com/MPRnews/posts/a-string-of-lights-that-rolled-across-the-sky-in-parts-of-the-us-on-recent-night/10158745734988591/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MPRnews/posts/a-string-of-lights-that-rolled-across-the-sky-in-parts-of-the-us-on-recent-night/10158745734988591/</a>  
 
 53. <a id="endnote-53"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/foxokc/posts/aliens-or-no-a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh/1408666034639929/](https://www.facebook.com/foxokc/posts/aliens-or-no-a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh/1408666034639929/)  
+   Link: <a href="https://www.facebook.com/foxokc/posts/aliens-or-no-a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh/1408666034639929/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxokc/posts/aliens-or-no-a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh/1408666034639929/</a>  
 
 54. <a id="endnote-54"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/are-these-ufosresidents-in-the-us-state-of-wisconsin-have-shared-videos-of-stran/2251715988372357/](https://www.facebook.com/WIONews/posts/are-these-ufosresidents-in-the-us-state-of-wisconsin-have-shared-videos-of-stran/2251715988372357/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/are-these-ufosresidents-in-the-us-state-of-wisconsin-have-shared-videos-of-stran/2251715988372357/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/are-these-ufosresidents-in-the-us-state-of-wisconsin-have-shared-videos-of-stran/2251715988372357/</a>  
 
 55. <a id="endnote-55"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_MEBANE_Simonton-CE-III.pdf](https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_MEBANE_Simonton-CE-III.pdf)  
+   Link: <a href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_MEBANE_Simonton-CE-III.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_MEBANE_Simonton-CE-III.pdf</a>  
 
 56. <a id="endnote-56"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/mirrormuseum/posts/check-it-out-heres-the-actual-scan-of-the-newspaper-article-regarding-the-ufo-tr/1295352799042558/](https://www.facebook.com/mirrormuseum/posts/check-it-out-heres-the-actual-scan-of-the-newspaper-article-regarding-the-ufo-tr/1295352799042558/)  
+   Link: <a href="https://www.facebook.com/mirrormuseum/posts/check-it-out-heres-the-actual-scan-of-the-newspaper-article-regarding-the-ufo-tr/1295352799042558/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mirrormuseum/posts/check-it-out-heres-the-actual-scan-of-the-newspaper-article-regarding-the-ufo-tr/1295352799042558/</a>  
 
 57. <a id="endnote-57"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en](https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en</a>  
 
 58. <a id="endnote-58"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en-gb](https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en-gb</a>

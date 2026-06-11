@@ -262,7 +262,7 @@ sibling_links:
   short_title: Michigan UFOs
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Alabama_d1f92d
   title: Alabama UFOs
@@ -277,9 +277,9 @@ sibling_links:
   permalink: /what-keeps-tennessees-ufo-stories-alive/
   short_title: Tennessee UFOs
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Idaho_18334c
   title: Idaho UFOs
   permalink: /what-makes-idaho-a-key-ufo-hotspot/
@@ -289,9 +289,9 @@ sibling_links:
   permalink: /what-makes-indianas-ufo-history-unique/
   short_title: Indiana UFOs
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: South_Carolina_11d001
   title: South Carolina UFOs
   permalink: /what-makes-south-carolinas-ufo-story/
@@ -481,11 +481,10 @@ image: /assets/images/Iowa_08a48b-overview-social.jpg
 
 Iowa is a useful state for UFO history because it does not have the same folklore weight as New Mexico, Nevada or Arizona. That makes the record less glamorous but often more revealing. Reports come from farm roads, college towns, county seats, interstates, fireworks nights and river cities rather than from a single famous military range. The result is a good test of how ordinary people describe unusual things in the sky when there is no obvious local “UFO mythology” to lean on.
 
-
 <img src="{{ "/assets/images/Iowa_08a48b-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Iowa&#x27;s UFO Cases?" loading="eager" decoding="sync" fetchpriority="high">
 The National UFO Reporting Center’s Iowa page lists reports across decades, from older retrospective claims to recent entries, and its state index has included cases from places such as Council Bluffs, Adair County, Mason City, Iowa City, Des Moines, Ames, Cedar Rapids, Bellevue, Red Oak and Fairfield. These records are useful as a public sightings archive, but they are not the same as verified case files: many entries are uncorroborated narratives, some are reported long after the event, and many contain only enough detail to show what the witness believed they saw. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State IA</span><span class="citation-popover-snippet">Reports for State IA</span></span></span>
 
-Recent local reporting also shows the uneven geography of Iowa reports. Axios Des Moines, using NUFORC and Census data, reported that Polk County had at least 183 UFO reports since 2000, the largest raw county total in Iowa, while [Jefferson County]({{ 'jefferson-rate/' | relative_url }}) ranked highest by reports per resident; the same piece noted that Wayne and Cherokee counties had no reports in the dataset at the time. That tells readers something important: “[hotspots]({{ 'hotspots/' | relative_url }})” can reflect population, reporting habits, local culture and database participation as much as unusual aerial activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-hotspots-desmoines-aliens-reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Charted: Iowa&#x27;s UFO hotspots</span><span class="citation-popover-snippet">Charted: Iowa&#x27;s UFO hotspots</span></span></span>
+Recent local reporting also shows the uneven geography of Iowa reports. Axios Des Moines, using NUFORC and Census data, reported that Polk County had at least 183 UFO reports since 2000, the largest raw county total in Iowa, while Jefferson County ranked highest by reports per resident; the same piece noted that Wayne and Cherokee counties had no reports in the dataset at the time. That tells readers something important: “[hotspots]({{ 'hotspots/' | relative_url }})” can reflect population, reporting habits, local culture and database participation as much as unusual aerial activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-hotspots-desmoines-aliens-reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Charted: Iowa&#x27;s UFO hotspots</span><span class="citation-popover-snippet">Charted: Iowa&#x27;s UFO hotspots</span></span></span>
 
 ## Council Bluffs 1977: Iowa’s landmark UFO case
 
@@ -499,8 +498,7 @@ The main sceptical line is not that “nothing happened”. Something hot and me
 
 The fairest assessment is that Council Bluffs remains Iowa’s most interesting UFO-related incident because it combines multiple witnesses, official local response and recoverable material. It is not, however, a clean proof of a craft, let alone an extraterrestrial one. Its best value is as a case study in how far physical evidence can take an investigation — and how many questions can remain when the origin mechanism is not observed clearly enough.
 
-
-<img src="{{ "/assets/images/Iowa_08a48b-Illustration-1-light.svg" | relative_url }}" alt="What Really Happened in Iowa&#x27;s UFO Cases? illustration 1" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Iowa_08a48b-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Iowa&#x27;s UFO Cases? illustration 1" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Project Blue Book layer
 
 Iowa also appears in the broader federal-era record because the US Air Force’s Project [Blue Book]({{ 'blue-book-4c1811/' | relative_url }}) collected and evaluated UFO reports from the late 1940s to 1969. The National Archives summarises the Air Force’s final position: Blue Book was discontinued after the University of Colorado study, National Academy of Sciences review and Air Force experience, with the Air Force concluding that no investigated UFO showed a national-security threat, no “unidentified” case demonstrated technology beyond known science, and no evidence showed extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
@@ -508,7 +506,6 @@ Iowa also appears in the broader federal-era record because the US Air Force’s
 For Iowa, the Blue Book material is less famous than the national headline cases, but it matters because it places local sightings inside the same official sorting system used across the country. A Military Times gallery of Blue Book files, for example, includes a Davenport, Iowa, report from 1969 described as unreliable ground-visual reporting, with the observer also having made earlier reports. That is a good reminder that an official file is not automatically a strong case; sometimes it records a weak, repetitive or hard-to-evaluate claim because the system still had to log and classify it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.militarytimes.com/2017/07/19/ufos-from-the-files-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarytimes.com">[Military Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarytimes.com</span><span class="citation-popover-title">Military Times UFOs from the files of Project Blue Book</span><span class="citation-popover-snippet">Military Times UFOs from the files of Project Blue Book</span></span></span>
 
 This is where Iowa’s UFO history benefits from a restrained reading. The existence of a file can show that a report reached official channels, but the quality of the case depends on the details: timing, direction, duration, weather, witness reliability, radar or photographic support, and whether investigators had enough information to compare ordinary explanations. A filed report is a starting point, not a verdict.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WAvtvrawdKc" title="Iowa organization investigating UFO sightings says 10% of reported cases determined unidentified" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WAvtvrawdKc" target="_blank" rel="noopener noreferrer">Iowa organization investigating UFO sightings says 10% of reported cases determined unidentified</a></p><p class="youtube-embed-meta">Channel: WQAD News 8 &middot; Views: 19.1K &middot; Uploaded: July 2023 &middot; Length: 2 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WAvtvrawdKc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WAvtvrawdKc">Open on YouTube</a></p></div></div></div>
 
@@ -520,8 +517,7 @@ The Ames entries from May and June 2001 show the difficulty. NUFORC lists multip
 
 Fourth of July reports are another useful caution. NUFORC includes Des Moines-area red-light sightings around 4 July 2000, which is exactly the kind of date when fireworks, lanterns, aircraft lights and distracted skywatching can multiply unusual reports. Such entries should not be dismissed automatically, but they sit in a high-noise setting where ordinary explanations become more likely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=54911" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-
-<img src="{{ "/assets/images/Iowa_08a48b-Illustration-2-light.svg" | relative_url }}" alt="What Really Happened in Iowa&#x27;s UFO Cases? illustration 2" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Iowa_08a48b-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Iowa&#x27;s UFO Cases? illustration 2" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aviation and military context without overclaiming
 
 Iowa’s aviation setting matters, but it should not be exaggerated. The state has civil airports, Air National Guard activity, and proximity in western Iowa to the Omaha aviation environment, including Eppley Airfield and Offutt Air Force Base across the Missouri River. The US Air Force recruitment site describes Iowa Air National Guard bases in Des Moines, Fort Dodge and Sioux City, while the Council Bluffs case specifically involved checks with Eppley and Offutt after the molten-metal event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.airforce.com/ways-to-serve/air-national-guard/iowa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airforce.com">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airforce.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -530,7 +526,6 @@ This context helps explain why some sightings are taken seriously enough to chec
 
 Modern official UAP practice reinforces that distinction. AARO’s public imagery page includes cases resolved as balloons, birds or non-anomalous aircraft-like objects, as well as cases left unresolved because data were insufficient. Its reporting-trends page shows that many closed cases resolve into prosaic categories such as balloons, uncrewed aircraft systems, aircraft, rockets or birds. That pattern is directly relevant to Iowa: the common explanations are not boring afterthoughts but central tools for separating the unusual from the merely unfamiliar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eJJCHOMajGo" title="‘Good Luck With Aliens’: Pilot-ATC Conversation After &#x27;UFO&#x27;-Aircraft Encounter Over Rhode Island" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eJJCHOMajGo" target="_blank" rel="noopener noreferrer">‘Good Luck With Aliens’: Pilot-ATC Conversation After &#x27;UFO&#x27;-Aircraft Encounter Over Rhode Island</a></p><p class="youtube-embed-meta">Channel: Times Of India &middot; Views: 8.4K &middot; Uploaded: December 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eJJCHOMajGo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eJJCHOMajGo">Open on YouTube</a></p></div></div></div>
 
 ## How to judge an Iowa UFO case
@@ -538,7 +533,6 @@ Modern official UAP practice reinforces that distinction. AARO’s public imager
 A reader looking at an Iowa sighting should ask different questions depending on the type of evidence. A single witness seeing a light for a few seconds is not the same as multiple independent witnesses, radar, photographs, physical traces or official response. Council Bluffs is important because it has several of those stronger features; many database entries do not.
 
 A practical credibility check looks like this:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -553,17 +547,14 @@ A practical credibility check looks like this:
 
 NASA’s UAP material makes a similar point in broader terms: the scientific problem is not merely whether people report strange things, but whether enough high-quality, well-calibrated data exist to identify them. NASA’s public FAQ says its independent study focused on how to evaluate UAP using data, technology and scientific tools, not on relitigating old cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/Iowa_08a48b-Illustration-3-light.svg" | relative_url }}" alt="What Really Happened in Iowa&#x27;s UFO Cases? illustration 3" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Iowa_08a48b-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Iowa&#x27;s UFO Cases? illustration 3" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What is genuinely unresolved in Iowa
 
 The unresolved part of Iowa’s UFO history is not a hidden answer waiting behind every case. It is the gap between a witness’s experience and the data needed to identify what happened. In most Iowa cases, that gap is large: a light was seen, a shape was inferred, a direction was estimated, and a report was later filed. Those cases may be sincere while still being weak evidence.
 
 Council Bluffs is the exception that proves the rule. It has stronger anchors — named place, date, local response, multiple witnesses and material samples — yet even there the evidence does not cleanly establish an aerial craft. The molten metal can be studied, and witness testimony can be compared, but the key moment linking the material to a specific object remains disputed. That is why the case is still worth discussing, and also why it should be presented with care. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thehistoricalsociety.org/h/ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehistoricalsociety.org">[thehistoricalsociety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehistoricalsociety.org</span><span class="citation-popover-title">UF O Crash at Big Lake Park</span><span class="citation-popover-snippet">UF O Crash at Big Lake Park</span></span></span> ScienceDirect The most balanced conclusion is that Iowa has a serious UFO record in the modest <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>, evidence-led sense: it has archival reports, public databases, local investigators, aviation context, at least one major physical-trace case, and recurring sighting clusters. It does not have a well-supported public case that proves alien visitation or advanced non-human technology. For readers, that makes Iowa less a place of certainty than a useful map of how UFO history actually works: compelling testimony, incomplete records, ordinary explanations, occasional anomalies, and the persistent difficulty of turning a strange sky event into a solved one.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Eb54ZwPYKFQ" title="Iowa Files: UFOs in Iowa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Eb54ZwPYKFQ" target="_blank" rel="noopener noreferrer">Iowa Files: UFOs in Iowa</a></p><p class="youtube-embed-meta">Channel: West Des Moines Historical Society &middot; Views: 2.9K &middot; Uploaded: June 2023 &middot; Length: 1 hour 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Eb54ZwPYKFQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Eb54ZwPYKFQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -651,7 +642,7 @@ Council Bluffs is the exception that proves the rule. It has stronger anchors �
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -661,111 +652,36 @@ Council Bluffs is the exception that proves the rule. It has stronger anchors �
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowa-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iowa-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowa-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iowa-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowa-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iowa-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowa-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iowa-s-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -773,15 +689,15 @@ Council Bluffs is the exception that proves the rule. It has stronger anchors �
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowa-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iowa-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowa-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iowa-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowa-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iowa-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowa-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iowa-s-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -789,15 +705,15 @@ Council Bluffs is the exception that proves the rule. It has stronger anchors �
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowa-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iowa-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowa-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iowa-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowa-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iowa-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowa-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iowa-s-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -805,15 +721,15 @@ Council Bluffs is the exception that proves the rule. It has stronger anchors �
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowa-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iowa-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowa-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iowa-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowa-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iowa-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowa-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iowa-s-ufo-cases-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -821,7 +737,7 @@ Council Bluffs is the exception that proves the rule. It has stronger anchors �
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowas-ufo-cases-what-really-happened-in-iowa-s-ufo-cases-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-iowa-s-ufo-cases-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-iowa-s-ufo-cases-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -898,17 +814,31 @@ Council Bluffs is the exception that proves the rule. It has stronger anchors �
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -921,42 +851,73 @@ Council Bluffs is the exception that proves the rule. It has stronger anchors �
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -971,12 +932,17 @@ Council Bluffs is the exception that proves the rule. It has stronger anchors �
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -987,235 +953,235 @@ Council Bluffs is the exception that proves the rule. It has stronger anchors �
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Reports for State IA  
-   Link: [https://nuforc.org/subndx/?id=lIA](https://nuforc.org/subndx/?id=lIA)  
+   Link: <a href="https://nuforc.org/subndx/?id=lIA" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lIA</a>  
 
 5. <a id="endnote-5"></a>
    Source: axios.com  
    Title: Charted: Iowa's UFO hotspots  
-   Link: [https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-hotspots-desmoines-aliens-reports](https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-hotspots-desmoines-aliens-reports)  
+   Link: <a href="https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-hotspots-desmoines-aliens-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-hotspots-desmoines-aliens-reports</a>  
 
 6. <a id="endnote-6"></a>
    Source: thehistoricalsociety.org  
    Title: UF O Crash at Big Lake Park  
-   Link: [https://www.thehistoricalsociety.org/h/ufo.html](https://www.thehistoricalsociety.org/h/ufo.html)  
+   Link: <a href="https://www.thehistoricalsociety.org/h/ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoricalsociety.org/h/ufo.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/am/pii/S0376042121000907](https://www.sciencedirect.com/science/article/am/pii/S0376042121000907)  
+   Link: <a href="https://www.sciencedirect.com/science/article/am/pii/S0376042121000907" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S0376042121000907</a>  
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0376042121000907](https://www.sciencedirect.com/science/article/abs/pii/S0376042121000907)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0376042121000907" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0376042121000907</a>  
 
 9. <a id="endnote-9"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/is-improved-instrumental-techniques-nolan-vallee-jiang-lemke-2022-a-useful-paper.13286/](https://www.metabunk.org/threads/is-improved-instrumental-techniques-nolan-vallee-jiang-lemke-2022-a-useful-paper.13286/)  
+   Link: <a href="https://www.metabunk.org/threads/is-improved-instrumental-techniques-nolan-vallee-jiang-lemke-2022-a-useful-paper.13286/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/is-improved-instrumental-techniques-nolan-vallee-jiang-lemke-2022-a-useful-paper.13286/</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/](https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/</a>  
 
 11. <a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 13. <a id="endnote-13"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
 14. <a id="endnote-14"></a>
    Source: assets.science.nasa.gov  
    Title: 2020 2024 NASA Science Plan YR 23 Update FINAL V2 Tagged  
-   Link: [https://assets.science.nasa.gov/content/dam/science/cds/about-us/2025/2020-2024-NASA-Science-Plan-YR%2023%20Update_FINAL_V2_Tagged.pdf](https://assets.science.nasa.gov/content/dam/science/cds/about-us/2025/2020-2024-NASA-Science-Plan-YR%2023%20Update_FINAL_V2_Tagged.pdf)  
+   Link: <a href="https://assets.science.nasa.gov/content/dam/science/cds/about-us/2025/2020-2024-NASA-Science-Plan-YR%2023%20Update_FINAL_V2_Tagged.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.science.nasa.gov/content/dam/science/cds/about-us/2025/2020-2024-NASA-Science-Plan-YR%2023%20Update_FINAL_V2_Tagged.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2017/12/2021_agency_foia_log_0.xlsx](https://www.nasa.gov/wp-content/uploads/2017/12/2021_agency_foia_log_0.xlsx)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2017/12/2021_agency_foia_log_0.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2017/12/2021_agency_foia_log_0.xlsx</a>  
 
 16. <a id="endnote-16"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2025/08/2023-agency-foia-log.xlsx?emrc=54069a](https://www.nasa.gov/wp-content/uploads/2025/08/2023-agency-foia-log.xlsx?emrc=54069a)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2025/08/2023-agency-foia-log.xlsx?emrc=54069a" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2025/08/2023-agency-foia-log.xlsx?emrc=54069a</a>  
 
 17. <a id="endnote-17"></a>
    Source: nasa.gov  
    Title: fy 2026 q1 foia log.xlsx  
-   Link: [https://www.nasa.gov/wp-content/uploads/2026/01/fy-2026-q1-foia-log.xlsx?emrc=2566e7](https://www.nasa.gov/wp-content/uploads/2026/01/fy-2026-q1-foia-log.xlsx?emrc=2566e7)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2026/01/fy-2026-q1-foia-log.xlsx?emrc=2566e7" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2026/01/fy-2026-q1-foia-log.xlsx?emrc=2566e7</a>  
 
 18. <a id="endnote-18"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2025/08/2024-agency-foia-log.xlsx?emrc=646ac0](https://www.nasa.gov/wp-content/uploads/2025/08/2024-agency-foia-log.xlsx?emrc=646ac0)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2025/08/2024-agency-foia-log.xlsx?emrc=646ac0" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2025/08/2024-agency-foia-log.xlsx?emrc=646ac0</a>  
 
 19. <a id="endnote-19"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2025/08/2022-agency-foia-log.xlsx?emrc=93a4ff](https://www.nasa.gov/wp-content/uploads/2025/08/2022-agency-foia-log.xlsx?emrc=93a4ff)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2025/08/2022-agency-foia-log.xlsx?emrc=93a4ff" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2025/08/2022-agency-foia-log.xlsx?emrc=93a4ff</a>  
 
 20. <a id="endnote-20"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 23. <a id="endnote-23"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 24. <a id="endnote-24"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Submit-A-Report/](https://www.aaro.mil/Submit-A-Report/)  
+   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
 
 25. <a id="endnote-25"></a>
    Source: aaro.mil  
    Title: AARO Trends 1996 2024 508  
-   Link: [https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf](https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/Images/UAP%20Reporting%20Trends/AARO_Trends_1996_2024_508.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Resources/](https://www.aaro.mil/Resources/)  
+   Link: <a href="https://www.aaro.mil/Resources/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Resources/</a>  
 
 27. <a id="endnote-27"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location NUFORC Reports by Location; USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 28. <a id="endnote-28"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=156528](https://nuforc.org/sighting/?id=156528)  
+   Link: <a href="https://nuforc.org/sighting/?id=156528" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=156528</a>  
 
 29. <a id="endnote-29"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=54911](https://nuforc.org/sighting/?id=54911)  
+   Link: <a href="https://nuforc.org/sighting/?id=54911" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=54911</a>  
 
 30. <a id="endnote-30"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=186715](https://nuforc.org/sighting/?id=186715)  
+   Link: <a href="https://nuforc.org/sighting/?id=186715" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=186715</a>  
 
 31. <a id="endnote-31"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 32. <a id="endnote-32"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
 33. <a id="endnote-33"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=190710](https://nuforc.org/sighting/?id=190710)  
+   Link: <a href="https://nuforc.org/sighting/?id=190710" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190710</a>  
 
 34. <a id="endnote-34"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=37103](https://nuforc.org/sighting/?id=37103)  
+   Link: <a href="https://nuforc.org/sighting/?id=37103" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=37103</a>  
 
 35. <a id="endnote-35"></a>
    Source: axios.com  
    Title: iowans reported seeing ufos  
-   Link: [https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos](https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos)  
+   Link: <a href="https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos</a>  
 
 36. <a id="endnote-36"></a>
    Source: metabunk.org  
    Title: AAR O's Historical UAP Report  
-   Link: [https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/](https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/)  
+   Link: <a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
 
 37. <a id="endnote-37"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
 38. <a id="endnote-38"></a>
    Source: militarytimes.com  
    Title: Military Times UFOs from the files of Project Blue Book  
-   Link: [https://www.militarytimes.com/2017/07/19/ufos-from-the-files-of-project-blue-book/](https://www.militarytimes.com/2017/07/19/ufos-from-the-files-of-project-blue-book/)  
+   Link: <a href="https://www.militarytimes.com/2017/07/19/ufos-from-the-files-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.militarytimes.com/2017/07/19/ufos-from-the-files-of-project-blue-book/</a>  
 
 39. <a id="endnote-39"></a>
    Source: airforce.com  
-   Link: [https://www.airforce.com/ways-to-serve/air-national-guard/iowa](https://www.airforce.com/ways-to-serve/air-national-guard/iowa)  
+   Link: <a href="https://www.airforce.com/ways-to-serve/air-national-guard/iowa" target="_blank" rel="noopener noreferrer nofollow">https://www.airforce.com/ways-to-serve/air-national-guard/iowa</a>  
 
 40. <a id="endnote-40"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 41. <a id="endnote-41"></a>
    Source: Wikipedia  
    Title: Offutt Air Force Base  
-   Link: [https://en.wikipedia.org/wiki/Offutt_Air_Force_Base](https://en.wikipedia.org/wiki/Offutt_Air_Force_Base)  
+   Link: <a href="https://en.wikipedia.org/wiki/Offutt_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Offutt_Air_Force_Base</a>  
 
 42. <a id="endnote-42"></a>
    Source: ufodatalive.com  
-   Link: [https://www.ufodatalive.com/states/iowa/](https://www.ufodatalive.com/states/iowa/)  
+   Link: <a href="https://www.ufodatalive.com/states/iowa/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodatalive.com/states/iowa/</a>  
 
 43. <a id="endnote-43"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=WAvtvrawdKc](https://www.youtube.com/watch?v=WAvtvrawdKc)  
+   Link: <a href="https://www.youtube.com/watch?v=WAvtvrawdKc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WAvtvrawdKc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>KCCI Archive: Go UFO hunting in Iowa in 1993...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
 46. <a id="endnote-46"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
 47. <a id="endnote-47"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 48. <a id="endnote-48"></a>
    Source: youtube.com  
    Title: Iowa Files: UFOs in Iowa  
-   Link: [https://www.youtube.com/watch?v=Eb54ZwPYKFQ](https://www.youtube.com/watch?v=Eb54ZwPYKFQ)  
+   Link: <a href="https://www.youtube.com/watch?v=Eb54ZwPYKFQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Eb54ZwPYKFQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Iowa organization investigating UFO sightings says 10% of reported cases determined unidentified...</p></details>
 
 49. <a id="endnote-49"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP](https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP)  
+   Link: <a href="https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP</a>  
 
 50. <a id="endnote-50"></a>
    Source: medium.com  
-   Link: [https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103](https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103)  
+   Link: <a href="https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103</a>  
 
 51. <a id="endnote-51"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/](https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/</a>  
 
 52. <a id="endnote-52"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/36670679/Complete_Annals_of_the_Journal_of_the_Fortean_Research_Center_Searchable_Part2_pdf](https://www.academia.edu/36670679/Complete_Annals_of_the_Journal_of_the_Fortean_Research_Center_Searchable_Part2_pdf)  
+   Link: <a href="https://www.academia.edu/36670679/Complete_Annals_of_the_Journal_of_the_Fortean_Research_Center_Searchable_Part2_pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/36670679/Complete_Annals_of_the_Journal_of_the_Fortean_Research_Center_Searchable_Part2_pdf</a>  
 
 53. <a id="endnote-53"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DWxNV28iYlq/](https://www.instagram.com/p/DWxNV28iYlq/)  
+   Link: <a href="https://www.instagram.com/p/DWxNV28iYlq/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWxNV28iYlq/</a>

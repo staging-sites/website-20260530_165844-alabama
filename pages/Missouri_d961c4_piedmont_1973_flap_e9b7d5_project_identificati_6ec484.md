@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /piedmont-1973/
 nav_short_title: Project ID
 title: Did Project Identification Find Anything Unusual?
-title_full: Did Project Identification Find Anything Unusual? | Piedmont 1973
+title_full: Did Project Identification Find Anything Unusual?
 display_title_short: Project ID
 display_title: Project ID
 heading_title: Did Project Identification Find Anything Unusual?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:31:30'
-parent_title: Why Piedmont Became Missouri's UFO Capital | Missouri UFOs
+parent_title: Why Piedmont Became Missouri's UFO Capital
 parent_permalink: /piedmont-1973/
 parent_nav_short_title: Piedmont 1973
 parent_heading_title: Why Piedmont Became Missouri's UFO Capital
@@ -250,10 +250,9 @@ image: /assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_project_identifi
 
 ## Introduction
 
-Among all the investigations connected with the 1973 Piedmont sightings, none attracted more attention than **Project Identification**, the field study organised by physicist **Dr Harley D. Rutledge** of Southeast [Missouri]({{ 'what-really-happened-in-missouris-ufo/' | relative_url }}) State University. The project became unusual in UFO history because it attempted something rarely done during a regional sighting wave: systematic observation using trained observers, optical equipment, cameras and electronic [instruments]({{ 'instruments/' | relative_url }}) rather than relying solely on witness reports. Rutledge hoped to determine whether the repeated reports around Piedmont and Clearwater Lake represented misidentifications, ordinary atmospheric effects, or something genuinely unexplained. The project remains one of the most discussed aspects of the Missouri UFO story because it generated a substantial body of observations while also provoking continuing debate over what those observations actually proved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaticanobservatory.org">[Vatican Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaticanobservatory.org</span><span class="citation-popover-snippet">Vatican ObservatoryMO UFOs... and Miracles - Vatican...11 Oct 2025 — My post last week was on UFOs in Missouri (postal abbreviation MO)...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sos.mo.gov/symbol/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sos.mo.gov">[Missouri Secretary of State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sos.mo.gov</span><span class="citation-popover-snippet">Missouri Secretary of StateState UFO Capitals of MissouriHe issued a public paper in 1973, which he later turned into a book called Proje...</span></span></span>
+Among all the investigations connected with the 1973 Piedmont sightings, none attracted more attention than **Project Identification**, the field study organised by physicist **Dr Harley D. Rutledge** of Southeast Missouri State University. The project became unusual in UFO history because it attempted something rarely done during a regional sighting wave: systematic observation using trained observers, optical equipment, cameras and electronic [instruments]({{ 'instruments/' | relative_url }}) rather than relying solely on witness reports. Rutledge hoped to determine whether the repeated reports around Piedmont and Clearwater Lake represented misidentifications, ordinary atmospheric effects, or something genuinely unexplained. The project remains one of the most discussed aspects of the Missouri UFO story because it generated a substantial body of observations while also provoking continuing debate over what those observations actually proved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaticanobservatory.org">[Vatican Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaticanobservatory.org</span><span class="citation-popover-snippet">Vatican ObservatoryMO UFOs... and Miracles - Vatican...11 Oct 2025 — My post last week was on UFOs in Missouri (postal abbreviation MO)...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sos.mo.gov/symbol/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sos.mo.gov">[Missouri Secretary of State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sos.mo.gov</span><span class="citation-popover-snippet">Missouri Secretary of StateState UFO Capitals of MissouriHe issued a public paper in 1973, which he later turned into a book called Proje...</span></span></span>
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_project_identificati_6ec484-Illustration-1-light.svg" | relative_url }}" alt="Project ID illustration 1" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_project_identificati_6ec484-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_project_identificati_6ec484-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_project_identificati_6ec484-Illustration-1-dark.svg" | relative_url }}" alt="Project ID illustration 1" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_project_identificati_6ec484-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_project_identificati_6ec484-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Rutledge Began the Study
 
 When reports multiplied across Wayne County during early 1973, many UFO researchers treated the wave as another local flap. Rutledge approached it differently. As a physics professor, he became interested not simply in individual sightings but in the possibility of studying reported phenomena under controlled conditions while the reports were still occurring. Rather than waiting for witnesses to describe events after the fact, he organised observation teams and travelled repeatedly to the area to watch the skies himself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://s766ce5979770229d.jimcontent.com/download/version/1547748965/module/15234004922/name/Rutledge-Project_Identification.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s766ce5979770229d.jimcontent.com">[Jimdo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s766ce5979770229d.jimcontent.com</span><span class="citation-popover-snippet">JimdoTHE FIRSTSCIENT1FIC FIELD STUDY OF UFO PHENOMENAgoing to Piedmont as a scientific expedition to study UFOs in the field. At... UFO...</span></span></span>
@@ -262,8 +261,7 @@ What made the Piedmont episode attractive for investigation was the concentratio
 
 The resulting work became known as **Project Identification**, a name reflecting the goal of determining what the reported objects actually were rather than assuming an extraordinary explanation from the outset. His findings were first circulated in reports during the 1970s and later expanded into the 1981 book *Project Identification: The First Scientific Field Study of UFO Phenomena*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sos.mo.gov/symbol/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sos.mo.gov">[Missouri Secretary of State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sos.mo.gov</span><span class="citation-popover-snippet">Missouri Secretary of StateState UFO Capitals of MissouriHe issued a public paper in 1973, which he later turned into a book called Proje...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaticanobservatory.org">[Vatican]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaticanobservatory.org</span><span class="citation-popover-snippet">Vatican ObservatoryMO UFOs... and Miracles - Vatican...11 Oct 2025 — My post last week was on UFOs in Missouri (postal abbreviation MO)...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vt5CdK3-psA" title="Piedmont, Mo. to celebrate 50 years since reported UFO incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vt5CdK3-psA" target="_blank" rel="noopener noreferrer">Piedmont, Mo. to celebrate 50 years since reported UFO incident</a></p><p class="youtube-embed-meta">Channel: KFVS12 | Heartland News, Weather &amp; Sports &middot; Views: 571 &middot; Uploaded: April 2023 &middot; Length: 4 minutes 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vt5CdK3-psA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vt5CdK3-psA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JDTIqTJMBZ0" title="How Piedmont became the UFO Capitol of Missouri | Living St. Louis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JDTIqTJMBZ0" target="_blank" rel="noopener noreferrer">How Piedmont became the UFO Capitol of Missouri | Living St. Louis</a></p><p class="youtube-embed-meta">Channel: Nine PBS &middot; Views: 17.7K &middot; Uploaded: September 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JDTIqTJMBZ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JDTIqTJMBZ0">Open on YouTube</a></p></div></div></div>
 
 ## Instruments, Observers and Field Methods
 
@@ -281,8 +279,7 @@ Observers logged large amounts of field time. Rutledge emphasised repeated obser
 
 An important feature of the methodology was that the teams also attempted ordinary identifications. Aircraft, satellites, stars, planets and atmospheric effects were considered possible explanations whenever they fit the evidence. Rutledge himself stressed that many reported UFOs proved to have conventional causes. The project's reputation therefore rests less on claiming every sighting was mysterious and more on the attempt to separate explainable events from those that remained unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Harley Rutledge</span><span class="citation-popover-snippet">the 1981 book Project Identification: The First Scientific Study of UFO Phenomena. Though widely recognized as a UFO expert and frequent...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8MS1s5YlhCM" title="Missouri Mysteries, Chapter Two - Unexplained Lights Near Piedmont, Missouri" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8MS1s5YlhCM" target="_blank" rel="noopener noreferrer">Missouri Mysteries, Chapter Two - Unexplained Lights Near Piedmont, Missouri</a></p><p class="youtube-embed-meta">Channel: State Historical Society of Missouri &middot; Views: 20.0K &middot; Uploaded: October 2021 &middot; Length: 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8MS1s5YlhCM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8MS1s5YlhCM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vt5CdK3-psA" title="Piedmont, Mo. to celebrate 50 years since reported UFO incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vt5CdK3-psA" target="_blank" rel="noopener noreferrer">Piedmont, Mo. to celebrate 50 years since reported UFO incident</a></p><p class="youtube-embed-meta">Channel: KFVS12 | Heartland News, Weather &amp; Sports &middot; Views: 571 &middot; Uploaded: April 2023 &middot; Length: 4 minutes 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vt5CdK3-psA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vt5CdK3-psA">Open on YouTube</a></p></div></div></div>
 
 ## What Evidence Did the Project Actually Produce?
 
@@ -294,14 +291,12 @@ However, the evidential record has important limitations. Most of the observatio
 
 For supporters, the significance lay in the quantity of observations gathered under organised conditions. For critics, the problem was that even a large collection of unusual observations does not necessarily establish an extraordinary cause.
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_project_identificati_6ec484-Illustration-2-light.svg" | relative_url }}" alt="Project ID illustration 2" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_project_identificati_6ec484-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_project_identificati_6ec484-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_project_identificati_6ec484-Illustration-2-dark.svg" | relative_url }}" alt="Project ID illustration 2" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_project_identificati_6ec484-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_project_identificati_6ec484-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Results, Critiques and Lasting Debates
 
 Project Identification occupies an unusual place in Missouri UFO history because both supporters and sceptics can point to aspects of the project that strengthen their case.
 
 Supporters argue that:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -323,8 +318,7 @@ Another point of debate concerns interpretation. Rutledge concluded that a genui
 
 The reaction of other UFO researchers was also mixed. Some regarded Project Identification as one of the most serious field investigations ever conducted during a UFO flap. Others remained unconvinced that the evidence justified its more ambitious implications. Accounts from later researchers note that even prominent UFO investigators who visited Piedmont did not always agree on the significance of what was being observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.professorwham.com/post/project-identification-and-harley-d-rutledge-part-1-challenges-opportunities-synchronicities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: professorwham.com">[Professor Wham]</a><span class="citation-popover" role="note"><span class="citation-popover-source">professorwham.com</span><span class="citation-popover-snippet">In fact, Dr Hynek visited Piedmont early on in the 1973 UFO flap...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LHWxWNy6VO0" title="Investigators Visit The Site Of The 1973 Clearwater Lake UFO Sighting | Alien Highway" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LHWxWNy6VO0" target="_blank" rel="noopener noreferrer">Investigators Visit The Site Of The 1973 Clearwater Lake UFO Sighting | Alien Highway</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 68.9K &middot; Uploaded: July 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LHWxWNy6VO0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LHWxWNy6VO0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8MS1s5YlhCM" title="Missouri Mysteries, Chapter Two - Unexplained Lights Near Piedmont, Missouri" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8MS1s5YlhCM" target="_blank" rel="noopener noreferrer">Missouri Mysteries, Chapter Two - Unexplained Lights Near Piedmont, Missouri</a></p><p class="youtube-embed-meta">Channel: State Historical Society of Missouri &middot; Views: 20.0K &middot; Uploaded: October 2021 &middot; Length: 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8MS1s5YlhCM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8MS1s5YlhCM">Open on YouTube</a></p></div></div></div>
 
 ## Why Project Identification Still Matters
 
@@ -332,8 +326,7 @@ Within the broader story of the 1973 Piedmont sightings and the Ozark UFO flap, 
 
 As a result, discussions of the Missouri flap continue to return to Rutledge's work. To believers, it represents one of the strongest efforts to document unexplained aerial phenomena in real time. To sceptics, it illustrates how difficult it is to convert intriguing observations into conclusive evidence. Either way, Project Identification remains the principal reason the Piedmont sightings are remembered not merely as a local curiosity but as one of the most extensively investigated UFO episodes in Missouri history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://s766ce5979770229d.jimcontent.com/download/version/1547748965/module/15234004922/name/Rutledge-Project_Identification.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s766ce5979770229d.jimcontent.com">[Jimdo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s766ce5979770229d.jimcontent.com</span><span class="citation-popover-snippet">JimdoTHE FIRSTSCIENT1FIC FIELD STUDY OF UFO PHENOMENAgoing to Piedmont as a scientific expedition to study UFOs in the field. At... UFO...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://de.wikipedia.org/wiki/Ufologie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_project_identificati_6ec484-Illustration-3-light.svg" | relative_url }}" alt="Project ID illustration 3" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_project_identificati_6ec484-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_project_identificati_6ec484-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_project_identificati_6ec484-Illustration-3-dark.svg" | relative_url }}" alt="Project ID illustration 3" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_project_identificati_6ec484-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_project_identificati_6ec484-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -421,7 +414,7 @@ As a result, discussions of the Missouri flap continue to return to Rutledge's w
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -431,111 +424,36 @@ As a result, discussions of the Missouri flap continue to return to Rutledge's w
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-identification-find-anything-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-project-identification-find-anything-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-identification-find-anything-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-project-identification-find-anything-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-identification-find-anything-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-project-identification-find-anything-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-identification-find-anything-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-project-identification-find-anything-unusual-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -543,15 +461,15 @@ As a result, discussions of the Missouri flap continue to return to Rutledge's w
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-identification-find-anything-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-project-identification-find-anything-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-identification-find-anything-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-project-identification-find-anything-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-identification-find-anything-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-project-identification-find-anything-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-identification-find-anything-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-project-identification-find-anything-unusual-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -559,15 +477,15 @@ As a result, discussions of the Missouri flap continue to return to Rutledge's w
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-identification-find-anything-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-project-identification-find-anything-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-identification-find-anything-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-project-identification-find-anything-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-identification-find-anything-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-project-identification-find-anything-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-identification-find-anything-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-project-identification-find-anything-unusual-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -575,15 +493,15 @@ As a result, discussions of the Missouri flap continue to return to Rutledge's w
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-identification-find-anything-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-project-identification-find-anything-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-identification-find-anything-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-project-identification-find-anything-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-identification-find-anything-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-project-identification-find-anything-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-identification-find-anything-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-project-identification-find-anything-unusual-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -591,7 +509,7 @@ As a result, discussions of the Missouri flap continue to return to Rutledge's w
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-id-did-project-identification-find-anything-unusual-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-identification-find-anything-unusual-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-project-identification-find-anything-unusual-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -668,17 +586,31 @@ As a result, discussions of the Missouri flap continue to return to Rutledge's w
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -691,42 +623,73 @@ As a result, discussions of the Missouri flap continue to return to Rutledge's w
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -741,12 +704,17 @@ As a result, discussions of the Missouri flap continue to return to Rutledge's w
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -757,109 +725,109 @@ As a result, discussions of the Missouri flap continue to return to Rutledge's w
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Harley Rutledge  
-   Link: [https://en.wikipedia.org/wiki/Harley_Rutledge](https://en.wikipedia.org/wiki/Harley_Rutledge)  
+   Link: <a href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harley_Rutledge</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the 1981 book Project Identification: The First Scientific Study of UFO Phenomena. Though widely recognized as a UFO expert and frequent...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://de.wikipedia.org/wiki/Ufologie](https://de.wikipedia.org/wiki/Ufologie)  
+   Link: <a href="https://de.wikipedia.org/wiki/Ufologie" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Ufologie</a>  
 
 3. <a id="endnote-3"></a>
    Source: vaticanobservatory.org  
-   Link: [https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/](https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/)  
+   Link: <a href="https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vatican ObservatoryMO UFOs... and Miracles - Vatican...11 Oct 2025 — My post last week was on UFOs in Missouri (postal abbreviation MO)...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sos.mo.gov  
-   Link: [https://www.sos.mo.gov/symbol/ufo](https://www.sos.mo.gov/symbol/ufo)  
+   Link: <a href="https://www.sos.mo.gov/symbol/ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.sos.mo.gov/symbol/ufo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missouri Secretary of StateState UFO Capitals of MissouriHe issued a public paper in 1973, which he later turned into a book called Proje...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: s766ce5979770229d.jimcontent.com  
-   Link: [https://s766ce5979770229d.jimcontent.com/download/version/1547748965/module/15234004922/name/Rutledge-Project_Identification.pdf](https://s766ce5979770229d.jimcontent.com/download/version/1547748965/module/15234004922/name/Rutledge-Project_Identification.pdf)  
+   Link: <a href="https://s766ce5979770229d.jimcontent.com/download/version/1547748965/module/15234004922/name/Rutledge-Project_Identification.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s766ce5979770229d.jimcontent.com/download/version/1547748965/module/15234004922/name/Rutledge-Project_Identification.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: stateoftheozarks.net  
    Title: Dr. Harley Rutledge, professor of physics at Southeast  
-   Link: [https://stateoftheozarks.net/showcase/2020/07/24/the-ozark-spooklights/](https://stateoftheozarks.net/showcase/2020/07/24/the-ozark-spooklights/)  
+   Link: <a href="https://stateoftheozarks.net/showcase/2020/07/24/the-ozark-spooklights/" target="_blank" rel="noopener noreferrer nofollow">https://stateoftheozarks.net/showcase/2020/07/24/the-ozark-spooklights/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>State Of the Ozarks ShowcaseThe Ozark Spooklights - State Of the Ozarks ShowcaseJul 24, 2020 — The family associated the lights with UFO&#x27;...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cdn.centerforinquiry.org  
-   Link: [https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1982/04/22165422/p70.pdf](https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1982/04/22165422/p70.pdf)  
+   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1982/04/22165422/p70.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1982/04/22165422/p70.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>During 1973, the best year thus far, one UFO was seen for every three hours of observation. At first, UFOs were seen only on field.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: professorwham.com  
-   Link: [https://www.professorwham.com/post/project-identification-and-harley-d-rutledge-part-1-challenges-opportunities-synchronicities](https://www.professorwham.com/post/project-identification-and-harley-d-rutledge-part-1-challenges-opportunities-synchronicities)  
+   Link: <a href="https://www.professorwham.com/post/project-identification-and-harley-d-rutledge-part-1-challenges-opportunities-synchronicities" target="_blank" rel="noopener noreferrer nofollow">https://www.professorwham.com/post/project-identification-and-harley-d-rutledge-part-1-challenges-opportunities-synchronicities</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In fact, Dr Hynek visited Piedmont early on in the 1973 UFO flap...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: books.google.rw  
    Title: Project Identification  
-   Link: [https://books.google.rw/books/about/Project_Identification.html?id=T4NTAAAAMAAJ](https://books.google.rw/books/about/Project_Identification.html?id=T4NTAAAAMAAJ)  
+   Link: <a href="https://books.google.rw/books/about/Project_Identification.html?id=T4NTAAAAMAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.rw/books/about/Project_Identification.html?id=T4NTAAAAMAAJ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identification: The First Scientific Field Study of UFO...Project Identification: The First Scientific Field Study of UFO Phenomena...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: vaticanobservatory.org  
    Title: ufos in mo  
-   Link: [https://www.vaticanobservatory.org/sacred-space-astronomy/ufos-in-mo/](https://www.vaticanobservatory.org/sacred-space-astronomy/ufos-in-mo/)  
+   Link: <a href="https://www.vaticanobservatory.org/sacred-space-astronomy/ufos-in-mo/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaticanobservatory.org/sacred-space-astronomy/ufos-in-mo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 4, 2025 — He issued a public paper in 1973, which he later turned into a book called Project Identification: The First Scientific Fie...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: federalregister.gov  
-   Link: [https://www.federalregister.gov/documents/2011/10/26/2011-27122/endangered-and-threatened-wildlife-and-plants-review-of-native-species-that-are-candidates-for](https://www.federalregister.gov/documents/2011/10/26/2011-27122/endangered-and-threatened-wildlife-and-plants-review-of-native-species-that-are-candidates-for)  
+   Link: <a href="https://www.federalregister.gov/documents/2011/10/26/2011-27122/endangered-and-threatened-wildlife-and-plants-review-of-native-species-that-are-candidates-for" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2011/10/26/2011-27122/endangered-and-threatened-wildlife-and-plants-review-of-native-species-that-are-candidates-for</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Endangered and Threatened Wildlife and Plants; Review...26 Oct 2011 — Predation by the alien rosy carnivore snail (Euglandina rosea) an...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Project-Identification-First-Scientific-Phenomena/dp/0137307055](https://www.amazon.co.uk/Project-Identification-First-Scientific-Phenomena/dp/0137307055)  
+   Link: <a href="https://www.amazon.co.uk/Project-Identification-First-Scientific-Phenomena/dp/0137307055" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Project-Identification-First-Scientific-Phenomena/dp/0137307055</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Identification: The First Scientific Field Study of Ufo...A survey of UFO phenomena--complete with photographs, diagrams, and st...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: new episode project identification piedmont missouri the real time scientific uf  
-   Link: [https://www.facebook.com/darkozarks/posts/new-episode-project-identification-piedmont-missouri-the-real-time-scientific-uf/726867376281540/](https://www.facebook.com/darkozarks/posts/new-episode-project-identification-piedmont-missouri-the-real-time-scientific-uf/726867376281540/)  
+   Link: <a href="https://www.facebook.com/darkozarks/posts/new-episode-project-identification-piedmont-missouri-the-real-time-scientific-uf/726867376281540/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/darkozarks/posts/new-episode-project-identification-piedmont-missouri-the-real-time-scientific-uf/726867376281540/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dark Ozarks3 Mar 2024 — NEW EPISODE: &quot;Project Identification, Piedmont, Missouri &amp; The Real Time Scientific UFO Field Study &quot; We did a thing...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: Piedmont, Missouri UFO Episode and Project Identification  
-   Link: [https://www.facebook.com/darkozarks/posts/piedmont-missouri-ufo-episode-and-project-identification-part-1it-is-generally-a/724001679901443/](https://www.facebook.com/darkozarks/posts/piedmont-missouri-ufo-episode-and-project-identification-part-1it-is-generally-a/724001679901443/)  
+   Link: <a href="https://www.facebook.com/darkozarks/posts/piedmont-missouri-ufo-episode-and-project-identification-part-1it-is-generally-a/724001679901443/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/darkozarks/posts/piedmont-missouri-ufo-episode-and-project-identification-part-1it-is-generally-a/724001679901443/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Part 1Piedmont, Missouri UFO Episode and Project Identification. Part 1: It is generally assumed that the Piedmont UFO Episode started on...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: dnr.maryland.gov  
    Title: 2025SWAPpubliccommentdraft appendices  
-   Link: [https://dnr.maryland.gov/wildlife/documents/2025SWAPpubliccommentdraft_appendices.pdf](https://dnr.maryland.gov/wildlife/documents/2025SWAPpubliccommentdraft_appendices.pdf)  
+   Link: <a href="https://dnr.maryland.gov/wildlife/documents/2025SWAPpubliccommentdraft_appendices.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dnr.maryland.gov/wildlife/documents/2025SWAPpubliccommentdraft_appendices.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>piedmont streams and rivers overlaps heavily with urbanization in MD. 41... Alien Plants. &amp; Animals. 8.1.3 Aquatic animals. Assess impac...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — This project, codenamed Sign, evaluated 243 reported UFO sig...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: worldcat.org  
-   Link: [https://worldcat.org/oclc/7273042](https://worldcat.org/oclc/7273042)  
+   Link: <a href="https://worldcat.org/oclc/7273042" target="_blank" rel="noopener noreferrer nofollow">https://worldcat.org/oclc/7273042</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the first scientific field study of UFO phenomenaProject Identification: the first scientific field study of UFO phenomena...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: repository.lboro.ac.uk  
-   Link: [https://repository.lboro.ac.uk/ndownloader/files/26376610/1](https://repository.lboro.ac.uk/ndownloader/files/26376610/1)  
+   Link: <a href="https://repository.lboro.ac.uk/ndownloader/files/26376610/1" target="_blank" rel="noopener noreferrer nofollow">https://repository.lboro.ac.uk/ndownloader/files/26376610/1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>alien. American mink and increase their resilience to...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: podcastufo.com  
    Title: the first scientific ufo field study  
-   Link: [https://podcastufo.com/the-first-scientific-ufo-field-study/](https://podcastufo.com/the-first-scientific-ufo-field-study/)  
+   Link: <a href="https://podcastufo.com/the-first-scientific-ufo-field-study/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/the-first-scientific-ufo-field-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Jun 2024 — According to Rutledge, a message was put up on the marquee in front of the Waltrip Motel saying “Welcome UFO People” on one...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Missouri Mysteries, Chapter Two  
-   Link: [https://www.youtube.com/watch?v=8MS1s5YlhCM](https://www.youtube.com/watch?v=8MS1s5YlhCM)  
+   Link: <a href="https://www.youtube.com/watch?v=8MS1s5YlhCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8MS1s5YlhCM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigators Visit The Site Of The 1973 Clearwater Lake UFO Sighting | Alien Highway...</p></details>

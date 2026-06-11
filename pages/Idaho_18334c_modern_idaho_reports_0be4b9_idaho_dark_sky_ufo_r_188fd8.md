@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /modern-reports-7ec70d/
 nav_short_title: Dark Skies
 title: Why Idaho's Darkest Skies Create More UFO Reports
-title_full: Why Idaho's Darkest Skies Create More UFO Reports | Modern Reports
+title_full: Why Idaho's Darkest Skies Create More UFO Reports
 display_title_short: Dark Skies
 display_title: Dark Skies
 heading_title: Why Idaho's Darkest Skies Create More UFO Reports
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:19:16'
-parent_title: Why Idaho Continues to See UFO Activity Today | Idaho UFOs
+parent_title: Why Idaho Continues to See UFO Activity Today
 parent_permalink: /modern-reports-7ec70d/
 parent_nav_short_title: Modern Reports
 parent_heading_title: Why Idaho Continues to See UFO Activity Today
@@ -250,10 +250,9 @@ image: /assets/images/Idaho_18334c_modern_idaho_reports_0be4b9_idaho_dark_sky_uf
 
 ## Introduction
 
-Central central [Idaho]({{ 'what-makes-idaho-a-key-ufo-hotspot/' | relative_url }})’s designation as a Dark Sky Reserve helps explain a persistent pattern in modern Idaho UFO reporting: many unusual sightings are not evidence of unknown craft, but natural or human‑made objects seen under exceptionally dark conditions. In the Sawtooth mountains and valleys where artificial light pollution is almost absent, observers can see stars, meteors, satellites and other phenomena that in brighter skies remain invisible — and that visibility can easily lead to misinterpretations of ordinary aerial lights as something mysterious. This mechanism sits at the heart of the “dark skies → more reports” pattern in Idaho’s modern UFO record.
+Central central Idaho’s designation as a Dark Sky Reserve helps explain a persistent pattern in modern Idaho UFO reporting: many unusual sightings are not evidence of unknown craft, but natural or human‑made objects seen under exceptionally dark conditions. In the Sawtooth mountains and valleys where artificial light pollution is almost absent, observers can see stars, meteors, satellites and other phenomena that in brighter skies remain invisible — and that visibility can easily lead to misinterpretations of ordinary aerial lights as something mysterious. This mechanism sits at the heart of the “dark skies → more reports” pattern in Idaho’s modern UFO record.
 
-
-<img src="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9_idaho_dark_sky_ufo_r_188fd8-Illustration-1-light.svg" | relative_url }}" alt="Dark Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9_idaho_dark_sky_ufo_r_188fd8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9_idaho_dark_sky_ufo_r_188fd8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9_idaho_dark_sky_ufo_r_188fd8-Illustration-1-dark.svg" | relative_url }}" alt="Dark Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9_idaho_dark_sky_ufo_r_188fd8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9_idaho_dark_sky_ufo_r_188fd8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How the Central Idaho Dark Sky Reserve Changed Sky Visibility
 
 The Central Idaho Dark Sky Reserve was formally designated in December 2017 by the International Dark‑Sky Association, becoming the first Gold Tier dark sky reserve in the United States and one of only a handful worldwide certified at that level. The reserve spans roughly 1,400 square miles across Blaine, Boise, Custer and Elmore counties around the Sawtooth National Recreation Area, encompassing public lands and small communities committed to preserving night‑time darkness. Local ordinances have reduced street lighting and shielded outdoor lights, and much of the terrain remains undeveloped and sparsely populated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Central_Idaho_Dark_Sky_Reserve" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Central Idaho Dark Sky Reserve</span><span class="citation-popover-snippet">Central Idaho Dark Sky Reserve</span></span></span>
@@ -261,7 +260,6 @@ The Central Idaho Dark Sky Reserve was formally designated in December 2017 by t
 These protections make Central Idaho’s night skies remarkably dark compared with most of North America. The Milky Way, planets, individual stars and even zodiacal light — a faint glow caused by sunlight scattering off interplanetary dust — can be visible to the naked eye here, whereas they are obscured by light pollution near cities and towns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aroundus.com/p/5717034-central-idaho-dark-sky-reserve" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aroundus.com">[Around Us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aroundus.com</span><span class="citation-popover-title">Around Us Central Idaho Dark Sky Reserve</span><span class="citation-popover-snippet">Around UsCentral Idaho Dark Sky Reserve - Dark sky preserve in Sawtooth National Recreation Area, USMarch 3, 2026...</span><span class="citation-popover-meta">Published: March 3, 2026</span></span></span>
 
 This pristine darkness has two effects that feed into modern UFO reporting. First, it increases the number of luminous objects in the sky that people can see clearly. Satellites, meteors and aircraft become visible where they would ordinarily be lost in urban light glow. Second, those conditions attract stargazers and tourists who are specifically there to look upward, placing more observers under ideal conditions for noticing fast‑moving or bright objects.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ybo60PDSgao" title="The Fireball UFO of Idaho! | UFO Witness S2 E4 | Full Episode | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ybo60PDSgao" target="_blank" rel="noopener noreferrer">The Fireball UFO of Idaho! | UFO Witness S2 E4 | Full Episode | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 202.2K &middot; Uploaded: June 2025 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ybo60PDSgao" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ybo60PDSgao">Open on YouTube</a></p></div></div></div>
 
@@ -276,24 +274,20 @@ Astronomical and artificial objects commonly misidentified as UFOs include:
 * **Planets and bright stars:** Celestial bodies like Venus or Jupiter can appear as bright, non‑blinking points of light that are unfamiliar to casual observers, leading to “unidentified” reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapsightings.org">[uapsightings.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapsightings.org</span><span class="citation-popover-title">Common UAP Misidentifications</span><span class="citation-popover-snippet">August 30, 2023 — A few astronomical objects that commonly result in UAP sightings include planets like Venus, Jupiter, and Mars, as well...</span><span class="citation-popover-meta">Published: August 30, 2023</span></span></span>
 * **Aircraft lights at night:** In open terrain with minimal ground lighting, commercial or private aircraft can appear unmoored and mysterious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying object</span></span></span>
 
-In dark sky regions such as Central Idaho, even familiar events like the annual Perseid meteor shower draw attention. Observers unaccustomed to seeing dozens of meteors per hour may submit reports when they see unusual flashes or movements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/41563-perseid-meteors-central-idaho-dark-sky-reserve.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceWe Watched the Perseid Meteor Shower from the 1st Dark Sky Reserve in the US | SpaceAugust 22, 2018...</span><span class="citation-popover-meta">Published: August 22, 2018</span></span></span>
+In dark sky regions such as Central Idaho, even familiar events like the annual Perseid meteor shower draw attention. Observers unaccustomed to seeing dozens of meteors per hour may submit reports when they see unusual flashes or movements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/41563-perseid-meteors-central-idaho-dark-sky-reserve.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">We Watched the Perseid Meteor Shower from the 1st Dark Sky Reserve in the US &#124; SpaceAugust 22, 2018...</span><span class="citation-popover-meta">Published: August 22, 2018</span></span></span>
 
 The combination of high visibility and lack of reference points — common at high elevation and in open spaces — also contributes to optical illusions and perceptual effects that can make fixed celestial objects appear to move or change. This increases the likelihood that an observer will interpret an ambiguous light as something unknown rather than a known natural or human activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
 
-
-<img src="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9_idaho_dark_sky_ufo_r_188fd8-Illustration-2-light.svg" | relative_url }}" alt="Dark Skies illustration 2" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9_idaho_dark_sky_ufo_r_188fd8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9_idaho_dark_sky_ufo_r_188fd8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9_idaho_dark_sky_ufo_r_188fd8-Illustration-2-dark.svg" | relative_url }}" alt="Dark Skies illustration 2" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9_idaho_dark_sky_ufo_r_188fd8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9_idaho_dark_sky_ufo_r_188fd8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Dark‑Sky Tourism Brings More Reports
 
 Dark‑sky tourism has grown around Central Idaho’s designation. Stargazing events, meteor shower gatherings and astronomy outreach programmes draw both local residents and visitors specifically interested in observing the night sky. The influx of intentional skywatchers increases the number of people present at the right time and place to spot aerial phenomena. Many of these newcomers lack familiarity with the appearance of satellites, meteors or planets in ultra‑dark conditions, leading to higher volumes of “unidentified” reports in public databases — not because more extraordinary phenomena are occurring, but because more people are watching under conditions where ordinary phenomena are conspicuous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://idahodarksky.org/about-the-reserve/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: idahodarksky.org">[idahodarksky.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">idahodarksky.org</span><span class="citation-popover-title">Dark Sky Reserve – IDSA</span><span class="citation-popover-snippet">The Central Idaho Dark Sky Reserve is a treasured resource for local residents and for all Idahoans and visitors from across the world th...</span></span></span>
 
 In practical terms, this means that Central Idaho’s dark skies act like a high‑resolution lens on the night sky: more detail is visible, but without training or context, that detail can be puzzling and more likely to be reported as unexplained. Understanding this mechanism helps situate Idaho’s substantial modern UFO reporting within a broader pattern of environmental and observational factors, rather than implying extraordinary events congregate uniquely in this part of the world. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earth.com/news/ufo-sightings-are-influenced-by-the-environment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earth.com">[Earth.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earth.com</span><span class="citation-popover-title">ufo sightings are influenced by the environment</span><span class="citation-popover-snippet">UFO sightings surprisingly connected to the environment3 Mar 2024 — A new study by geographers at the University of Utah shares a surpris...</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6zqd75TVvO4" title="What’s Up With Idaho’s UFO Sightings?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6zqd75TVvO4" target="_blank" rel="noopener noreferrer">What’s Up With Idaho’s UFO Sightings?</a></p><p class="youtube-embed-meta">Channel: City Cast Boise &middot; Views: 120 &middot; Uploaded: March 2023 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6zqd75TVvO4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6zqd75TVvO4">Open on YouTube</a></p></div></div></div>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E1gIvvxBBj4" title="Watch: &#x27;Fireball&#x27; seen flying across Idaho sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E1gIvvxBBj4" target="_blank" rel="noopener noreferrer">Watch: &#x27;Fireball&#x27; seen flying across Idaho sky</a></p><p class="youtube-embed-meta">Channel: KTVB &middot; Views: 5.9K &middot; Uploaded: July 2022 &middot; Length: 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E1gIvvxBBj4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E1gIvvxBBj4">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XDl1NgleQRM" title="The fascination, history behind UFO sightings in Idaho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XDl1NgleQRM" target="_blank" rel="noopener noreferrer">The fascination, history behind UFO sightings in Idaho</a></p><p class="youtube-embed-meta">Channel: KTVB &middot; Views: 14.1K &middot; Uploaded: February 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XDl1NgleQRM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XDl1NgleQRM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -381,7 +375,7 @@ In practical terms, this means that Central Idaho’s dark skies act like a high
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -391,111 +385,36 @@ In practical terms, this means that Central Idaho’s dark skies act like a high
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dark+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dark sky poster" data-ebay-reference="why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Sky Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/mXEAAeSwmFBpwYQH/s-l225.jpg" alt="Listing image for Dark Sky Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dark+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dark sky poster" data-ebay-reference="why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Dark Sky Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dark+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dark sky poster" data-ebay-reference="why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dark sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: dark sky poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dark+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dark sky poster" data-ebay-reference="why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -503,15 +422,15 @@ In practical terms, this means that Central Idaho’s dark skies act like a high
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dark+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dark sky poster" data-ebay-reference="why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Sky With Lightning Strike Fram Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/nsgAAeSwgS9p1Tp2/s-l225.jpg" alt="Listing image for Dark Sky With Lightning Strike Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dark+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dark sky poster" data-ebay-reference="why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Dark Sky With Lightning Strike Fram Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dark+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dark sky poster" data-ebay-reference="why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dark sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: dark sky poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dark+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dark sky poster" data-ebay-reference="why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -519,15 +438,15 @@ In practical terms, this means that Central Idaho’s dark skies act like a high
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dark+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dark sky poster" data-ebay-reference="why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CLASSIC HORROR MOVIE POSTERS A4 Size Photo Print Film Cinema Wall Decor Fan Art"><img src="https://i.ebayimg.com/images/g/hZ8AAOSwvDRazmrp/s-l225.jpg" alt="Listing image for CLASSIC HORROR MOVIE POSTERS A4 Size Photo Print Film Cinema Wall Decor Fan Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dark+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dark sky poster" data-ebay-reference="why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster" target="_blank" rel="sponsored noopener noreferrer">CLASSIC HORROR MOVIE POSTERS A4 Size Photo Print Film Cinema Wall Decor Fan Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dark+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dark sky poster" data-ebay-reference="why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dark sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: dark sky poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dark+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dark sky poster" data-ebay-reference="why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -535,15 +454,15 @@ In practical terms, this means that Central Idaho’s dark skies act like a high
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=dark+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dark sky poster" data-ebay-reference="why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Forest Trees under a Dark Night Sky Artistic Poster Wall Art Home Decor"><img src="https://i.ebayimg.com/images/g/yuYAAOSw6RlilTEI/s-l225.jpg" alt="Listing image for Forest Trees under a Dark Night Sky Artistic Poster Wall Art Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dark+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dark sky poster" data-ebay-reference="why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster" target="_blank" rel="sponsored noopener noreferrer">Forest Trees under a Dark Night Sky Artistic Poster Wall Art Home Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=dark+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dark sky poster" data-ebay-reference="why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for dark sky poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: dark sky poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=dark+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dark sky poster" data-ebay-reference="why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -551,7 +470,7 @@ In practical terms, this means that Central Idaho’s dark skies act like a high
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dark-skies-why-idaho-s-darkest-skies-create-more-ufo-reports-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=dark+sky+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="dark sky poster" data-ebay-reference="why-idaho-s-darkest-skies-create-more-ufo-reports-dark-sky-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -628,17 +547,31 @@ In practical terms, this means that Central Idaho’s dark skies act like a high
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -651,42 +584,73 @@ In practical terms, this means that Central Idaho’s dark skies act like a high
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -701,12 +665,17 @@ In practical terms, this means that Central Idaho’s dark skies act like a high
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -716,202 +685,201 @@ In practical terms, this means that Central Idaho’s dark skies act like a high
 
 Across UFO research, careful identification studies have shown that a large majority of sightings can ultimately be matched with ordinary causes — astronomical, aerial, optical or otherwise — once additional information and context are available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sightingOn June 24, 1947, private pilot Kenneth Arnold saw what he described as a string of nine shiny unidentified...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span>
 
-In Central Idaho’s context, the key takeaway for modern UFO reporting is this: when the environment makes more objects visible at night and people are primed to look up, reports of “unidentified” lights rise. This does not diminish the sincerity of witnesses, but it does orient interpretation toward observational conditions rather than extraordinary explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookA new analysis of UFO reports found the cities where...A new study led by University of Utah geographers attempts to understand...</span></span></span>
+In Central Idaho’s context, the key takeaway for modern UFO reporting is this: when the environment makes more objects visible at night and people are primed to look up, reports of “unidentified” lights rise. This does not diminish the sincerity of witnesses, but it does orient interpretation toward observational conditions rather than extraordinary explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">A new analysis of UFO reports found the cities where...A new study led by University of Utah geographers attempts to understand...</span></span></span>
 
 By acknowledging how pristine dark skies amplify visibility of natural and artificial objects — and how that blends with human perception — the role of the Central Idaho Dark Sky Reserve becomes clear in shaping UFO reporting patterns in the region without invoking unknown craft.
 
-
-<img src="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9_idaho_dark_sky_ufo_r_188fd8-Illustration-3-light.svg" | relative_url }}" alt="Dark Skies illustration 3" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9_idaho_dark_sky_ufo_r_188fd8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9_idaho_dark_sky_ufo_r_188fd8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9_idaho_dark_sky_ufo_r_188fd8-Illustration-3-dark.svg" | relative_url }}" alt="Dark Skies illustration 3" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9_idaho_dark_sky_ufo_r_188fd8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_modern_idaho_reports_0be4b9_idaho_dark_sky_ufo_r_188fd8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Central Idaho Dark Sky Reserve  
-   Link: [https://en.wikipedia.org/wiki/Central_Idaho_Dark_Sky_Reserve](https://en.wikipedia.org/wiki/Central_Idaho_Dark_Sky_Reserve)  
+   Link: <a href="https://en.wikipedia.org/wiki/Central_Idaho_Dark_Sky_Reserve" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Central_Idaho_Dark_Sky_Reserve</a>  
 
 2. <a id="endnote-2"></a>
    Source: idahodarksky.org  
    Title: Dark Sky Reserve – IDSA  
-   Link: [https://idahodarksky.org/about-the-reserve/](https://idahodarksky.org/about-the-reserve/)  
+   Link: <a href="https://idahodarksky.org/about-the-reserve/" target="_blank" rel="noopener noreferrer nofollow">https://idahodarksky.org/about-the-reserve/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Central Idaho Dark Sky Reserve is a treasured resource for local residents and for all Idahoans and visitors from across the world th...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: attheu.utah.edu  
    Title: At The UThe West is best to spot UFOs  
-   Link: [https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/](https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/)  
+   Link: <a href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>@theU - The University of Utah27 Feb 2024 — A new study led by University of Utah geographers attempts to understand if local environment...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: uapsightings.org  
    Title: Common UAP Misidentifications  
-   Link: [https://uapsightings.org/common-uap-misidentifications/](https://uapsightings.org/common-uap-misidentifications/)  
+   Link: <a href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow">https://uapsightings.org/common-uap-misidentifications/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 30, 2023 — A few astronomical objects that commonly result in UAP sightings include planets like Venus, Jupiter, and Mars, as well...</p></details>
    Published: August 30, 2023  
 
 5. <a id="endnote-5"></a>
    Source: darksky.org  
    Title: how satellite constellations are reshaping astrophotography  
-   Link: [https://darksky.org/news/how-satellite-constellations-are-reshaping-astrophotography/](https://darksky.org/news/how-satellite-constellations-are-reshaping-astrophotography/)  
+   Link: <a href="https://darksky.org/news/how-satellite-constellations-are-reshaping-astrophotography/" target="_blank" rel="noopener noreferrer nofollow">https://darksky.org/news/how-satellite-constellations-are-reshaping-astrophotography/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DarkSky InternationalSatellite constellations and astrophotography8 Dec 2025 — In 2025, DarkSky&#x27;s global astrophotography survey revealed...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
 7. <a id="endnote-7"></a>
    Source: space.com  
-   Link: [https://www.space.com/41563-perseid-meteors-central-idaho-dark-sky-reserve.html](https://www.space.com/41563-perseid-meteors-central-idaho-dark-sky-reserve.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceWe Watched the Perseid Meteor Shower from the 1st Dark Sky Reserve in the US | SpaceAugust 22, 2018...</p></details>
+   Link: <a href="https://www.space.com/41563-perseid-meteors-central-idaho-dark-sky-reserve.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/41563-perseid-meteors-central-idaho-dark-sky-reserve.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>We Watched the Perseid Meteor Shower from the 1st Dark Sky Reserve in the US | SpaceAugust 22, 2018...</p></details>
    Published: August 22, 2018  
 
 8. <a id="endnote-8"></a>
    Source: idahodarksky.org  
    Title: CIDSR 2023 Annual Report  
-   Link: [https://idahodarksky.org/wp-content/uploads/2026/01/CIDSR-2023-Annual-Report.pdf](https://idahodarksky.org/wp-content/uploads/2026/01/CIDSR-2023-Annual-Report.pdf)  
+   Link: <a href="https://idahodarksky.org/wp-content/uploads/2026/01/CIDSR-2023-Annual-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://idahodarksky.org/wp-content/uploads/2026/01/CIDSR-2023-Annual-Report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CENTRAL IDAHO DARK SKY RESERVEFebruary 11, 2026...</p></details>
    Published: February 11, 2026  
 
 9. <a id="endnote-9"></a>
    Source: earth.com  
    Title: ufo sightings are influenced by the environment  
-   Link: [https://www.earth.com/news/ufo-sightings-are-influenced-by-the-environment/](https://www.earth.com/news/ufo-sightings-are-influenced-by-the-environment/)  
+   Link: <a href="https://www.earth.com/news/ufo-sightings-are-influenced-by-the-environment/" target="_blank" rel="noopener noreferrer nofollow">https://www.earth.com/news/ufo-sightings-are-influenced-by-the-environment/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings surprisingly connected to the environment3 Mar 2024 — A new study by geographers at the University of Utah shares a surpris...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: [https://en.wikipedia.org/wiki/Identification_studies_of_UFOs](https://en.wikipedia.org/wiki/Identification_studies_of_UFOs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/](https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookA new analysis of UFO reports found the cities where...A new study led by University of Utah geographers attempts to understand...</p></details>
+   Link: <a href="https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A new analysis of UFO reports found the cities where...A new study led by University of Utah geographers attempts to understand...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: darksky.org  
    Title: Central Idaho | Dark Sky International  
-   Link: [https://darksky.org/places/central-idaho-dark-sky-reserve/](https://darksky.org/places/central-idaho-dark-sky-reserve/)  
+   Link: <a href="https://darksky.org/places/central-idaho-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow">https://darksky.org/places/central-idaho-dark-sky-reserve/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Central Idaho | DarkSky InternationalDecember 18, 2017 — What we do International Dark Sky Places CENTRAL IDAHO Published December 18, 20...</p></details>
    Published: December 18, 2017  
 
 13. <a id="endnote-13"></a>
    Source: idahodarksky.org  
-   Link: [https://idahodarksky.org/about-2/](https://idahodarksky.org/about-2/)  
+   Link: <a href="https://idahodarksky.org/about-2/" target="_blank" rel="noopener noreferrer nofollow">https://idahodarksky.org/about-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dark Sky ReserveImage: Welcome to the Central Idaho Dark Sky Reserve Here in the heart of central Idaho, we celebrate our pristine night...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: idahodarksky.org  
-   Link: [https://idahodarksky.org/reserve-by-night/](https://idahodarksky.org/reserve-by-night/)  
+   Link: <a href="https://idahodarksky.org/reserve-by-night/" target="_blank" rel="noopener noreferrer nofollow">https://idahodarksky.org/reserve-by-night/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>text_align=”left” background_image_as_pattern=”without_pattern”][vc_column][vc_empty_s...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/IntlSpyMuseum/posts/-happy-ufo-day-but-before-you-look-to-the-stars-remember-unidentified-doesnt-alw/1176435724527471/](https://www.facebook.com/IntlSpyMuseum/posts/-happy-ufo-day-but-before-you-look-to-the-stars-remember-unidentified-doesnt-alw/1176435724527471/)  
+   Link: <a href="https://www.facebook.com/IntlSpyMuseum/posts/-happy-ufo-day-but-before-you-look-to-the-stars-remember-unidentified-doesnt-alw/1176435724527471/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IntlSpyMuseum/posts/-happy-ufo-day-but-before-you-look-to-the-stars-remember-unidentified-doesnt-alw/1176435724527471/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>orts are not necessarily caused by visits from space travelers...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/](https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ars and never found any information to suggest they were real...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: [Kenneth Arnold](&#123;&#123; 'kenneth-arnold/' | relative_url &#125;&#125;) UFO sighting  
-   Link: [https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting](https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO sightingOn June 24, 1947, private pilot Kenneth Arnold saw what he described as a string of nine shiny unidentified...</p></details>
    Published: June 24, 1947  
 
 19. <a id="endnote-19"></a>
    Source: astronomy.com  
    Title: But the public is growing increasingly confused by ordinary objects  
-   Link: [https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/](https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/)  
+   Link: <a href="https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/reports-of-rising-ufo-sightings-are-greatly-exaggerated/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports of rising UFO sightings are greatly exaggerated2 Oct 2020 — The pandemic has not sparked a shocking rise in UFO sightings, expert...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: aroundus.com  
    Title: Around Us Central Idaho Dark Sky Reserve  
-   Link: [https://aroundus.com/p/5717034-central-idaho-dark-sky-reserve](https://aroundus.com/p/5717034-central-idaho-dark-sky-reserve)  
+   Link: <a href="https://aroundus.com/p/5717034-central-idaho-dark-sky-reserve" target="_blank" rel="noopener noreferrer nofollow">https://aroundus.com/p/5717034-central-idaho-dark-sky-reserve</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Around UsCentral Idaho Dark Sky Reserve - Dark sky preserve in Sawtooth National Recreation Area, USMarch 3, 2026...</p></details>
    Published: March 3, 2026  
 
 21. <a id="endnote-21"></a>
    Source: skyatnightmagazine.com  
    Title: Here we'll look at some of the most likely suspects  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night Magazine17 things commonly mistaken for UFOsMay 11, 2026 — 11 May 2026 — The vast majority of UFO sightings have Earthly ori...</p></details>
    Published: May 11, 2026  
 
 22. <a id="endnote-22"></a>
    Source: visitsunvalley.com  
    Title: Central Idaho Dark Sky Reserve  
-   Link: [https://visitsunvalley.com/to-do/central-idaho-dark-sky-reserve/](https://visitsunvalley.com/to-do/central-idaho-dark-sky-reserve/)  
+   Link: <a href="https://visitsunvalley.com/to-do/central-idaho-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow">https://visitsunvalley.com/to-do/central-idaho-dark-sky-reserve/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sun Valley IdahoCENTRAL IDAHO DARK SKY RESERVE Website Welcome to the Central Idaho Dark Sky Reserve America’s First Gold-Tier Internatio...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: visitsunvalley.com  
-   Link: [https://visitsunvalley.com/media-press-release/central-idaho-dark-sky-reserve-designation-nations-first/](https://visitsunvalley.com/media-press-release/central-idaho-dark-sky-reserve-designation-nations-first/)  
+   Link: <a href="https://visitsunvalley.com/media-press-release/central-idaho-dark-sky-reserve-designation-nations-first/" target="_blank" rel="noopener noreferrer nofollow">https://visitsunvalley.com/media-press-release/central-idaho-dark-sky-reserve-designation-nations-first/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Central Idaho Dark Sky Reserve Designation First in United States | Visit Sun ValleyCENTRAL IDAHO DARK SKY RESERVE DESIGNATION – NATION’S...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: eastidahonews.com  
-   Link: [https://www.eastidahonews.com/2026/05/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/](https://www.eastidahonews.com/2026/05/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/)  
+   Link: <a href="https://www.eastidahonews.com/2026/05/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/" target="_blank" rel="noopener noreferrer nofollow">https://www.eastidahonews.com/2026/05/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpretation-to-the-public/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bright lights and hot orbs: UFO files shed light on sightings...8 May 2026 — Bright lights and hot orbs: UFO files shed light on sightin...</p></details>
    Published: May 2026  
 
 25. <a id="endnote-25"></a>
    Source: everything.explained.today  
-   Link: [https://everything.explained.today/Central_Idaho_Dark_Sky_Reserve/](https://everything.explained.today/Central_Idaho_Dark_Sky_Reserve/)  
+   Link: <a href="https://everything.explained.today/Central_Idaho_Dark_Sky_Reserve/" target="_blank" rel="noopener noreferrer nofollow">https://everything.explained.today/Central_Idaho_Dark_Sky_Reserve/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Idaho Dark Sky Reserve Explained* Central Idaho Dark Sky Reserve CENTRAL IDAHO DARK SKY RESERVE EXPLAINED Central Idaho Dark Sky Reserve...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: gearjunkie.com  
    Title: And it's now one of just 12 certified night sky 'reserves' worldwide. Wri  
-   Link: [https://gearjunkie.com/news/central-idaho-star-gazing-dark-sky-reserve](https://gearjunkie.com/news/central-idaho-star-gazing-dark-sky-reserve)  
+   Link: <a href="https://gearjunkie.com/news/central-idaho-star-gazing-dark-sky-reserve" target="_blank" rel="noopener noreferrer nofollow">https://gearjunkie.com/news/central-idaho-star-gazing-dark-sky-reserve</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Star Gazing Paradise: Idaho Awarded First US &#x27;Dark Sky Reserve&#x27; | GearJunkieDecember 22, 2017 — STAR GAZING PARADISE: IDAHO AWARDED FIRST...</p></details>
    Published: December 22, 2017  
 
 27. <a id="endnote-27"></a>
    Source: atlasobscura.com  
    Title: STANLEY, IDAHO Added By Holyn Thigpen Image The International Dark-Sky  
-   Link: [https://www.atlasobscura.com/places/cental-idaho-dark-sky-reserve](https://www.atlasobscura.com/places/cental-idaho-dark-sky-reserve)  
+   Link: <a href="https://www.atlasobscura.com/places/cental-idaho-dark-sky-reserve" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/cental-idaho-dark-sky-reserve</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Central Idaho Dark Sky Reserve in StanleyDecember 30, 2025 — CENTRAL IDAHO DARK SKY RESERVE EXPERIENCE THE WONDERS OF A PRISTINE NIGHT SK...</p></details>
    Published: December 30, 2025  
 
 28. <a id="endnote-28"></a>
    Source: ioes.ucla.edu  
    Title: tracking light pollution in the central idaho dark sky reserve  
-   Link: [https://www.ioes.ucla.edu/project/tracking-light-pollution-in-the-central-idaho-dark-sky-reserve/](https://www.ioes.ucla.edu/project/tracking-light-pollution-in-the-central-idaho-dark-sky-reserve/)  
+   Link: <a href="https://www.ioes.ucla.edu/project/tracking-light-pollution-in-the-central-idaho-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow">https://www.ioes.ucla.edu/project/tracking-light-pollution-in-the-central-idaho-dark-sky-reserve/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in Environmental Science * Institute of Environment and Sustainability TRACKING LIGHT POLLUTION IN THE CENTRAL IDAHO DARK SKY RESERVE Whe...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: ras.ac.uk  
    Title: satellites contribute significant light pollution night skies  
-   Link: [https://ras.ac.uk/news-and-press/news/satellites-contribute-significant-light-pollution-night-skies](https://ras.ac.uk/news-and-press/news/satellites-contribute-significant-light-pollution-night-skies)  
+   Link: <a href="https://ras.ac.uk/news-and-press/news/satellites-contribute-significant-light-pollution-night-skies" target="_blank" rel="noopener noreferrer nofollow">https://ras.ac.uk/news-and-press/news/satellites-contribute-significant-light-pollution-night-skies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites contribute significant light pollution to night skies29 Mar 2021 — Scientists reported new research results today suggesting t...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Team ReportUnidentified Anomalous Phenomena (UAP) are one of our planet&#x27;s greatest mysteries. Observations of objects in our skies...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: stanleycc.org  
    Title: A Stargazer’s Guide to the Central Idaho Dark Sky Reserve  
-   Link: [https://stanleycc.org/blog/posts/a-stargazers-guide-to-the-central-idaho-dark-sky-reserve/](https://stanleycc.org/blog/posts/a-stargazers-guide-to-the-central-idaho-dark-sky-reserve/)  
+   Link: <a href="https://stanleycc.org/blog/posts/a-stargazers-guide-to-the-central-idaho-dark-sky-reserve/" target="_blank" rel="noopener noreferrer nofollow">https://stanleycc.org/blog/posts/a-stargazers-guide-to-the-central-idaho-dark-sky-reserve/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 14, 2019 — A STARGAZER’S GUIDE TO THE CENTRAL IDAHO DARK SKY RESERVE event April 14th, 2019 local_offer * Winter Activities * Fall...</p></details>
    Published: April 14, 2019  
 
 32. <a id="endnote-32"></a>
    Source: spokesman.com  
    Title: Stargazers eye the nation's first dark sky reserve in Idaho  
-   Link: [https://www.spokesman.com/stories/2017/sep/15/stargazers-eye-nations-first-dark-sky-reserve-idah/](https://www.spokesman.com/stories/2017/sep/15/stargazers-eye-nations-first-dark-sky-reserve-idah/)  
+   Link: <a href="https://www.spokesman.com/stories/2017/sep/15/stargazers-eye-nations-first-dark-sky-reserve-idah/" target="_blank" rel="noopener noreferrer nofollow">https://www.spokesman.com/stories/2017/sep/15/stargazers-eye-nations-first-dark-sky-reserve-idah/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>15, 2017 This June 4, 2016 photo provided by Nils Ribi Photography shows the Milky Way in the night sky at the foot of the Bou...</p></details>
-   Published: June 4, 2016  
+   Published: June 4, 2016

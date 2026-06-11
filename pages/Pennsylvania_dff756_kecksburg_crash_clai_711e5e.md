@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-pennsylvanias/
 nav_short_title: Kecksburg
 title: Was Kecksburg a Crash or a Fireball?
-title_full: Was Kecksburg a Crash or a Fireball? | Pennsylvania UFOs
+title_full: Was Kecksburg a Crash or a Fireball?
 display_title_short: Kecksburg
 display_title: Kecksburg
 heading_title: Was Kecksburg a Crash or a Fireball?
@@ -268,8 +268,7 @@ image: /assets/images/Pennsylvania_dff756_kecksburg_crash_clai_711e5e-overview-s
 
 ## Introduction
 
-On 9 December 1965, people across parts of the United States and Canada saw a brilliant fireball cross the sky. In Kecksburg, a small community in Westmoreland County, [Pennsylvania]({{ 'what-really-happened-in-pennsylvanias/' | relative_url }}), that wider sky event became something more specific: a claim that an object came down in the woods, was guarded by authorities, and was removed by the military. That is why Kecksburg remains Pennsylvania’s most famous UFO story. The strongest evidence supports a real, dramatic fireball; the weakest part is the leap from that fireball to a recovered craft. Scientific analysis has long favoured a meteor or bolide ending near Lake Erie, while later space-debris and military-recovery claims have kept the case alive as a dispute about local testimony, Cold War secrecy, and missing records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[adsabs.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.debunker.com/Kecksburg.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[2debunker.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">The Kecksburg, Pennsylvania &quot;UFO Crash&quot; -The Kecksburg, Pennsylvania &quot;UFO Crash</span><span class="citation-popover-snippet">The Kecksburg, Pennsylvania &quot;UFO Crash&quot; -The Kecksburg, Pennsylvania &quot;UFO Crash</span></span></span>
-
+On 9 December 1965, people across parts of the United States and Canada saw a brilliant fireball cross the sky. In Kecksburg, a small community in Westmoreland County, Pennsylvania, that wider sky event became something more specific: a claim that an object came down in the woods, was guarded by authorities, and was removed by the military. That is why Kecksburg remains Pennsylvania’s most famous UFO story. The strongest evidence supports a real, dramatic fireball; the weakest part is the leap from that fireball to a recovered craft. Scientific analysis has long favoured a meteor or bolide ending near Lake Erie, while later space-debris and military-recovery claims have kept the case alive as a dispute about local testimony, Cold War secrecy, and missing records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[adsabs.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.debunker.com/Kecksburg.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[2debunker.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">The Kecksburg, Pennsylvania &quot;UFO Crash&quot; -The Kecksburg, Pennsylvania &quot;UFO Crash</span><span class="citation-popover-snippet">The Kecksburg, Pennsylvania &quot;UFO Crash&quot; -The Kecksburg, Pennsylvania &quot;UFO Crash</span></span></span>
 
 <img src="{{ "/assets/images/Pennsylvania_dff756_kecksburg_crash_clai_711e5e-overview.webp" | relative_url }}" alt="Overview image for Kecksburg" loading="eager" decoding="sync" fetchpriority="high">
 Kecksburg matters because it sits at the point where three stories overlap: what witnesses remembered seeing on the ground in Pennsylvania, what astronomers reconstructed from the sky, and what later Freedom of Information Act efforts did or did not reveal about official records. The result is not a confirmed crash, but a durable case study in how a UFO legend can grow from a real event, partial documentation, and unanswered local questions.
@@ -284,8 +283,7 @@ The authority-response claim is just as important as the object claim. Early pre
 
 There are also reasons to treat the local testimony carefully rather than either dismissing it outright or accepting it whole. Many accounts became better known years after the event, especially through television, UFO documentaries, local journalism, and investigators. Memories can harden into a shared narrative, especially when a place becomes known for one event. At the same time, Kecksburg is not a case invented from nothing: the fireball was real, the local search reports were part of the early story, and the community’s memory has remained unusually strong. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kosmos 96</span><span class="citation-popover-snippet">Kosmos 96</span></span></span>
 
-
-<img src="{{ "/assets/images/Pennsylvania_dff756_kecksburg_crash_clai_711e5e-Illustration-1-light.svg" | relative_url }}" alt="Kecksburg illustration 1" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_kecksburg_crash_clai_711e5e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_kecksburg_crash_clai_711e5e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Pennsylvania_dff756_kecksburg_crash_clai_711e5e-Illustration-1-dark.svg" | relative_url }}" alt="Kecksburg illustration 1" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_kecksburg_crash_clai_711e5e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_kecksburg_crash_clai_711e5e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Meteor, space debris, or something else
 
 The most evidence-supported explanation for the sky event is a meteor bolide: a very bright meteor that can produce a fireball, sonic effects, and mistaken impressions of impact. The technical reason is trajectory. A 1967 paper in the Journal of the Royal Astronomical Society of Canada used photographs and other data to reconstruct the 9 December 1965 fireball, placing its path over the Great Lakes region and pointing towards an endpoint around western Lake Erie rather than a crash site in rural Pennsylvania. <span class="citation-chip-wrap"><a class="citation-chip" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[adsabs.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -300,7 +298,6 @@ A third family of explanations tries to preserve the crash claim while avoiding 
 
 The extraterrestrial version is the most culturally famous but the least well evidenced. It grew because the alleged object was described as unusual, because witnesses reported official control of the site, and because the story later echoed Roswell. Yet the central evidential ladder is weak: a real fireball does not prove a local crash; a local search does not prove a recovered craft; missing or disputed records do not prove alien technology. Kecksburg is therefore best read as a contested crash claim built around a well-documented fireball, not as a confirmed recovery case.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CVIKnA8cWak" title="When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CVIKnA8cWak" target="_blank" rel="noopener noreferrer">When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 97.1K &middot; Uploaded: May 2025 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CVIKnA8cWak" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CVIKnA8cWak">Open on YouTube</a></p></div></div></div>
 
 ## Why the record search mattered
@@ -313,8 +310,7 @@ The record-search story did not, however, produce the kind of evidence that woul
 
 The lost-records point should be handled with care. Missing files can be significant, especially when an agency has previously given inconsistent or incomplete explanations. But absence is not the same as proof of a recovered craft. Large agencies misfile, destroy, reuse, or fail to preserve records for ordinary reasons as well as suspicious ones. In Kecksburg, the missing-records issue strengthens the case as a transparency controversy; it does not, by itself, strengthen the claim that an exotic object was taken from the woods.
 
-
-<img src="{{ "/assets/images/Pennsylvania_dff756_kecksburg_crash_clai_711e5e-Illustration-2-light.svg" | relative_url }}" alt="Kecksburg illustration 2" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_kecksburg_crash_clai_711e5e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_kecksburg_crash_clai_711e5e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Pennsylvania_dff756_kecksburg_crash_clai_711e5e-Illustration-2-dark.svg" | relative_url }}" alt="Kecksburg illustration 2" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_kecksburg_crash_clai_711e5e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_kecksburg_crash_clai_711e5e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Kecksburg keeps being compared with Roswell
 
 The “Pennsylvania’s Roswell” label works as shorthand, but it can also mislead. The similarity is narrative rather than evidential: a rural community, an alleged crash, military involvement, disputed official explanations, and later claims that the public was not told the full story. Kecksburg also has a strong local identity marker, the acorn-shaped object, just as Roswell has the crashed-disc and debris mythology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Incident_de_Kecksburg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incident de Kecksburg</span><span class="citation-popover-snippet">Incident de Kecksburg</span></span></span>
@@ -325,7 +321,6 @@ Media treatment helped lock the stronger version of the story into public memory
 
 The Roswell comparison is still useful if it is used carefully. It shows how UFO crash narratives thrive when official explanations arrive late, records are incomplete, witnesses feel dismissed, and local pride turns an uncertain event into heritage. But it should not be taken as evidence that Kecksburg involved the same kind of event, or that either case proves extraterrestrial visitation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lsHWrkQWiQs" title="Real UFO? The &quot;Space Acorn&quot; of Kecksburg Pennsylvania" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer">Real UFO? The &quot;Space Acorn&quot; of Kecksburg Pennsylvania</a></p><p class="youtube-embed-meta">Channel: Ray Out There &middot; Views: 1.9K &middot; Uploaded: May 2023 &middot; Length: 4 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lsHWrkQWiQs">Open on YouTube</a></p></div></div></div>
 
 ## What later reporting strengthened and weakened
@@ -334,8 +329,7 @@ Later reporting strengthened three parts of the Kecksburg story. First, it confi
 
 Later reporting also weakened the strongest crash interpretation. Astronomical reconstruction placed the fireball’s likely endpoint away from Kecksburg. The Kosmos 96 theory, while superficially attractive, runs into timing and trajectory problems. And after decades of attention, no publicly verified fragment, photograph, transport record, or official recovery document has emerged that can anchor the alleged object to a confirmed crash in Pennsylvania. <span class="citation-chip-wrap"><a class="citation-chip" href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsabs.harvard.edu">[adsabs.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsabs.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Wikipedia That leaves the case in a middle category. It is too grounded in a real event and local testimony to dismiss as mere fantasy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kecksburg UFO incident</span><span class="citation-popover-snippet">Kecksburg UFO incident</span></span></span>, but too dependent on late, disputed, or indirect evidence to treat as a demonstrated crash retrieval. For Pennsylvania UFO history, that middle category is exactly why Kecksburg is important. It shows how unresolved cases often survive not because every claim is strong, but because different kinds of evidence point in different directions.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Ka9dOx7ZWY" title="The Kecksburg UFO Case: Finally Solved After 60 Years?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer">The Kecksburg UFO Case: Finally Solved After 60 Years?</a></p><p class="youtube-embed-meta">Channel: Redoubt Productions &middot; Views: 851 &middot; Uploaded: December 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Ka9dOx7ZWY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tU7WSHZye5w" title="Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer">Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 68.0K &middot; Uploaded: March 2025 &middot; Length: 1 hour 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tU7WSHZye5w">Open on YouTube</a></p></div></div></div>
 
 ## A balanced reading of the Kecksburg case
 
@@ -349,8 +343,7 @@ For readers trying to judge the case, the key is to separate three questions:
 
 Kecksburg endures because it is not easily reduced to one neat answer. It is a real fireball, a contested local crash story, a Cold War records dispute, and a piece of Pennsylvania folklore all at once. The case is strongest when treated as a study in uncertainty: a dramatic natural event almost certainly happened, some residents believed something came down nearby, official searches and missing records kept suspicion alive, and later investigation has still not produced the decisive evidence needed to turn Pennsylvania’s most famous UFO story into a confirmed crash.
 
-
-<img src="{{ "/assets/images/Pennsylvania_dff756_kecksburg_crash_clai_711e5e-Illustration-3-light.svg" | relative_url }}" alt="Kecksburg illustration 3" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_kecksburg_crash_clai_711e5e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_kecksburg_crash_clai_711e5e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Pennsylvania_dff756_kecksburg_crash_clai_711e5e-Illustration-3-dark.svg" | relative_url }}" alt="Kecksburg illustration 3" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_kecksburg_crash_clai_711e5e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_kecksburg_crash_clai_711e5e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -773,147 +766,147 @@ Kecksburg endures because it is not easily reduced to one neat answer. It is a r
 
 1. <a id="endnote-1"></a>
    Source: adsabs.harvard.edu  
-   Link: [https://adsabs.harvard.edu/full/1967JRASC..61..184C](https://adsabs.harvard.edu/full/1967JRASC..61..184C)  
+   Link: <a href="https://adsabs.harvard.edu/full/1967JRASC..61..184C" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/1967JRASC..61..184C</a>  
 
 2. <a id="endnote-2"></a>
    Source: debunker.com  
    Title: The Kecksburg, Pennsylvania "UFO Crash" -The Kecksburg, Pennsylvania "UFO Crash"  
-   Link: [https://www.debunker.com/Kecksburg.html](https://www.debunker.com/Kecksburg.html)  
+   Link: <a href="https://www.debunker.com/Kecksburg.html" target="_blank" rel="noopener noreferrer nofollow">https://www.debunker.com/Kecksburg.html</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Kecksburg_UFO_incident](https://en.wikipedia.org/wiki/Kecksburg_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
 4. <a id="endnote-4"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: [https://cneos.jpl.nasa.gov/fireballs/](https://cneos.jpl.nasa.gov/fireballs/)  
+   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Kosmos 96  
-   Link: [https://en.wikipedia.org/wiki/Kosmos_96](https://en.wikipedia.org/wiki/Kosmos_96)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kosmos_96" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kosmos_96</a>  
 
 6. <a id="endnote-6"></a>
    Source: space.com  
    Title: 7589 case finally closed 1965 pennsylvania ufo mystery  
-   Link: [https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html](https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html)  
+   Link: <a href="https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/7589-case-finally-closed-1965-pennsylvania-ufo-mystery.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt](https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt)  
+   Link: <a href="https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheMammothEncyclopediaOfExtraterrestrialEncounters/The%20mammoth%20encyclopedia%20of%20extraterrestrial%20encounters_djvu.txt</a>  
 
 8. <a id="endnote-8"></a>
    Source: archive.org  
    Title: Full text of "Farrell  
-   Link: [https://archive.org/stream/pdfy-pC6_IXVbumNQ_4AB/Farrell%2B-%2BReich%2Bof%2Bthe%2BBlack%2BSun%2B-%2BNazi%2BSecret%2BWeapons%2B%26%2Bthe%2BCold%2BWar%2BAllied%2BLegend%2B%282004%29_djvu.txt](https://archive.org/stream/pdfy-pC6_IXVbumNQ_4AB/Farrell%2B-%2BReich%2Bof%2Bthe%2BBlack%2BSun%2B-%2BNazi%2BSecret%2BWeapons%2B%26%2Bthe%2BCold%2BWar%2BAllied%2BLegend%2B%282004%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/pdfy-pC6_IXVbumNQ_4AB/Farrell%2B-%2BReich%2Bof%2Bthe%2BBlack%2BSun%2B-%2BNazi%2BSecret%2BWeapons%2B%26%2Bthe%2BCold%2BWar%2BAllied%2BLegend%2B%282004%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-pC6_IXVbumNQ_4AB/Farrell%2B-%2BReich%2Bof%2Bthe%2BBlack%2BSun%2B-%2BNazi%2BSecret%2BWeapons%2B%26%2Bthe%2BCold%2BWar%2BAllied%2BLegend%2B%282004%29_djvu.txt</a>  
 
 9. <a id="endnote-9"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/AllAboutTheDiskAircraftOfTheThirdReichNaziAntigravityAerospaceCraftWeaponsDevelopmentPrograms_201703/All%20About%20the%20Disk%20Aircraft%20of%20the%20Third%20Reich%20-%20Nazi%20Antigravity%20Aerospace%20Craft%20Weapons%20Development%20Programs_djvu.txt](https://archive.org/stream/AllAboutTheDiskAircraftOfTheThirdReichNaziAntigravityAerospaceCraftWeaponsDevelopmentPrograms_201703/All%20About%20the%20Disk%20Aircraft%20of%20the%20Third%20Reich%20-%20Nazi%20Antigravity%20Aerospace%20Craft%20Weapons%20Development%20Programs_djvu.txt)  
+   Link: <a href="https://archive.org/stream/AllAboutTheDiskAircraftOfTheThirdReichNaziAntigravityAerospaceCraftWeaponsDevelopmentPrograms_201703/All%20About%20the%20Disk%20Aircraft%20of%20the%20Third%20Reich%20-%20Nazi%20Antigravity%20Aerospace%20Craft%20Weapons%20Development%20Programs_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AllAboutTheDiskAircraftOfTheThirdReichNaziAntigravityAerospaceCraftWeaponsDevelopmentPrograms_201703/All%20About%20the%20Disk%20Aircraft%20of%20the%20Third%20Reich%20-%20Nazi%20Antigravity%20Aerospace%20Craft%20Weapons%20Development%20Programs_djvu.txt</a>  
 
 10. <a id="endnote-10"></a>
    Source: archive.org  
    Title: anon pdf from markdown djvu.txt  
-   Link: [https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt](https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt)  
+   Link: <a href="https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt</a>  
 
 11. <a id="endnote-11"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/](https://www.nasa.gov/)  
+   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
 
 12. <a id="endnote-12"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2017/12/2020_agency_foia_log.xlsx?emrc=2b335e](https://www.nasa.gov/wp-content/uploads/2017/12/2020_agency_foia_log.xlsx?emrc=2b335e)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2017/12/2020_agency_foia_log.xlsx?emrc=2b335e" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2017/12/2020_agency_foia_log.xlsx?emrc=2b335e</a>  
 
 13. <a id="endnote-13"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/nssdc/](https://www.nasa.gov/nssdc/)  
+   Link: <a href="https://www.nasa.gov/nssdc/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/nssdc/</a>  
 
 14. <a id="endnote-14"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: [https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/](https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/)  
+   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-august-2009/</a>  
 
 15. <a id="endnote-15"></a>
    Source: unsolved.com  
    Title: Kecksburg UFO  
-   Link: [https://unsolved.com/gallery/kecksburg-ufo/](https://unsolved.com/gallery/kecksburg-ufo/)  
+   Link: <a href="https://unsolved.com/gallery/kecksburg-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/kecksburg-ufo/</a>  
 
 16. <a id="endnote-16"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/2019M%26PS...54.2027B/abstract](https://ui.adsabs.harvard.edu/abs/2019M%26PS...54.2027B/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/2019M%26PS...54.2027B/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2019M%26PS...54.2027B/abstract</a>  
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Incident de Kecksburg  
-   Link: [https://fr.wikipedia.org/wiki/Incident_de_Kecksburg](https://fr.wikipedia.org/wiki/Incident_de_Kecksburg)  
+   Link: <a href="https://fr.wikipedia.org/wiki/Incident_de_Kecksburg" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Incident_de_Kecksburg</a>  
 
 18. <a id="endnote-18"></a>
    Source: cbsnews.com  
    Title: nasa court ordered to search for ufo docs  
-   Link: [https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/](https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/)  
+   Link: <a href="https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-court-ordered-to-search-for-ufo-docs/</a>  
 
 19. <a id="endnote-19"></a>
    Source: atlasobscura.com  
    Title: Atlas Obscura Space Acorn in Kecksburg  
-   Link: [https://www.atlasobscura.com/places/space-acorn](https://www.atlasobscura.com/places/space-acorn)  
+   Link: <a href="https://www.atlasobscura.com/places/space-acorn" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/space-acorn</a>  
 
 20. <a id="endnote-20"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa](https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa)  
+   Link: <a href="https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2007/nov/11/spaceexploration.usa</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/](https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/)  
+   Link: <a href="https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/historyoasis/posts/on-the-evening-of-december-9-1965-a-massive-brilliant-fireball-blazed-across-the/831788759955399/</a>  
 
 22. <a id="endnote-22"></a>
    Source: post-gazette.com  
-   Link: [https://www.post-gazette.com/breaking/2005/12/08/kecksburg-ufo-records-still-an-alien-concept/stories/200512080509](https://www.post-gazette.com/breaking/2005/12/08/kecksburg-ufo-records-still-an-alien-concept/stories/200512080509)  
+   Link: <a href="https://www.post-gazette.com/breaking/2005/12/08/kecksburg-ufo-records-still-an-alien-concept/stories/200512080509" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/breaking/2005/12/08/kecksburg-ufo-records-still-an-alien-concept/stories/200512080509</a>  
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=tU7WSHZye5w](https://www.youtube.com/watch?v=tU7WSHZye5w)  
+   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: When the UFO Hit the Woods! | UFO Witness | Full Episode | Discovery Channel  
-   Link: [https://www.youtube.com/watch?v=CVIKnA8cWak](https://www.youtube.com/watch?v=CVIKnA8cWak)  
+   Link: <a href="https://www.youtube.com/watch?v=CVIKnA8cWak" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CVIKnA8cWak</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Real UFO? The &quot;Space Acorn&quot; of Kecksburg Pennsylvania...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: The Kecksburg UFO Case: Finally Solved After 60 Years?  
-   Link: [https://www.youtube.com/watch?v=3Ka9dOx7ZWY](https://www.youtube.com/watch?v=3Ka9dOx7ZWY)  
+   Link: <a href="https://www.youtube.com/watch?v=3Ka9dOx7ZWY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3Ka9dOx7ZWY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Case That Shook 1955 (Season 1) | MonsterQuest...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Real UFO? The "Space Acorn" of Kecksburg Pennsylvania  
-   Link: [https://www.youtube.com/watch?v=lsHWrkQWiQs](https://www.youtube.com/watch?v=lsHWrkQWiQs)  
+   Link: <a href="https://www.youtube.com/watch?v=lsHWrkQWiQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lsHWrkQWiQs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kecksburg UFO Case: Finally Solved After 60 Years?...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: medium.com  
-   Link: [https://medium.com/on-the-trail-of-the-saucers/a-professional-skeptic-aims-at-the-kecksburg-ufo-and-misses-b2a0a6623a00](https://medium.com/on-the-trail-of-the-saucers/a-professional-skeptic-aims-at-the-kecksburg-ufo-and-misses-b2a0a6623a00)  
+   Link: <a href="https://medium.com/on-the-trail-of-the-saucers/a-professional-skeptic-aims-at-the-kecksburg-ufo-and-misses-b2a0a6623a00" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/a-professional-skeptic-aims-at-the-kecksburg-ufo-and-misses-b2a0a6623a00</a>  
 
 28. <a id="endnote-28"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0](https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0)  
+   Link: <a href="https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f45bb19d-5803-4ab6-a373-8799f64095c0</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/gravitas-even-as-mystery-over-the-11-dead-or-missing-us-scientists-linked-to-ufo/1332223555683482/](https://www.facebook.com/WIONews/posts/gravitas-even-as-mystery-over-the-11-dead-or-missing-us-scientists-linked-to-ufo/1332223555683482/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/gravitas-even-as-mystery-over-the-11-dead-or-missing-us-scientists-linked-to-ufo/1332223555683482/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/gravitas-even-as-mystery-over-the-11-dead-or-missing-us-scientists-linked-to-ufo/1332223555683482/</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-the-story-i-did-on-the-60th-anniversary-of-the-kecksburg-ufo-we-still-ha/1399476958213112/](https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-the-story-i-did-on-the-60th-anniversary-of-the-kecksburg-ufo-we-still-ha/1399476958213112/)  
+   Link: <a href="https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-the-story-i-did-on-the-60th-anniversary-of-the-kecksburg-ufo-we-still-ha/1399476958213112/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichellewRIGHTNOW/posts/here-is-the-story-i-did-on-the-60th-anniversary-of-the-kecksburg-ufo-we-still-ha/1399476958213112/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/pennsylvaniaphotos/posts/3965626140374425/](https://www.facebook.com/groups/pennsylvaniaphotos/posts/3965626140374425/)  
+   Link: <a href="https://www.facebook.com/groups/pennsylvaniaphotos/posts/3965626140374425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/pennsylvaniaphotos/posts/3965626140374425/</a>  
 
 32. <a id="endnote-32"></a>
    Source: chuckahamilton.yolasite.com  
-   Link: [https://chuckahamilton.yolasite.com/resources/Kecksburg121211.pdf](https://chuckahamilton.yolasite.com/resources/Kecksburg121211.pdf)  
+   Link: <a href="https://chuckahamilton.yolasite.com/resources/Kecksburg121211.pdf" target="_blank" rel="noopener noreferrer nofollow">https://chuckahamilton.yolasite.com/resources/Kecksburg121211.pdf</a>

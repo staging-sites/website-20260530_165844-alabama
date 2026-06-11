@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-haunts-west-virginias-ufo/
 nav_short_title: Green Bank
 title: What Does Green Bank Actually Search For?
-title_full: What Does Green Bank Actually Search For? | West Virginia UFOs
+title_full: What Does Green Bank Actually Search For?
 display_title_short: Green Bank
 display_title: Green Bank
 heading_title: What Does Green Bank Actually Search For?
@@ -268,8 +268,7 @@ image: /assets/images/West_Virginia_be1c72_green_bank_seti_ufo_929ca9-overview-s
 
 ## Introduction
 
-Green Bank matters to [West Virginia]({{ 'what-really-haunts-west-virginias-ufo/' | relative_url }}) UFO history because it is one of the few places in the state where “searching for extraterrestrial intelligence” is not folklore, tourism shorthand or witness rumour, but real scientific work. The confusion is easy to understand: Green Bank Observatory has listened for possible radio signals from distant technological civilisations, while West Virginia’s better-known UFO stories involve people reporting lights, creatures or frightening encounters. Those are not the same kind of claim. SETI looks for repeatable, measurable signals in telescope data; UFO testimony usually begins with human observation under uncertain conditions. Green Bank’s importance is therefore clarifying rather than sensational: it shows how a serious search for life beyond Earth can sit beside, but not validate, the state’s UFO lore. Frank Drake’s [Project Ozma]({{ 'project-ozma/' | relative_url }}) began there in 1960, and later programmes such as Breakthrough Listen have continued using the Green Bank Telescope for technosignature searches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.seti.org/research/seti-101/project-ozma/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seti.org">[SETI Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seti.org</span><span class="citation-popover-title">project ozma</span><span class="citation-popover-snippet">project ozma</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://public.nrao.edu/gallery/project-ozma-hardware/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: public.nrao.edu">[National Radio Astronomy Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">public.nrao.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
+Green Bank matters to West Virginia UFO history because it is one of the few places in the state where “searching for extraterrestrial intelligence” is not folklore, tourism shorthand or witness rumour, but real scientific work. The confusion is easy to understand: Green Bank Observatory has listened for possible radio signals from distant technological civilisations, while West Virginia’s better-known UFO stories involve people reporting lights, creatures or frightening encounters. Those are not the same kind of claim. SETI looks for repeatable, measurable signals in telescope data; UFO testimony usually begins with human observation under uncertain conditions. Green Bank’s importance is therefore clarifying rather than sensational: it shows how a serious search for life beyond Earth can sit beside, but not validate, the state’s UFO lore. Frank Drake’s [Project Ozma]({{ 'project-ozma/' | relative_url }}) began there in 1960, and later programmes such as Breakthrough Listen have continued using the Green Bank Telescope for technosignature searches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.seti.org/research/seti-101/project-ozma/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seti.org">[SETI Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seti.org</span><span class="citation-popover-title">project ozma</span><span class="citation-popover-snippet">project ozma</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://public.nrao.edu/gallery/project-ozma-hardware/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: public.nrao.edu">[National Radio Astronomy Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">public.nrao.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/West_Virginia_be1c72_green_bank_seti_ufo_929ca9-overview.webp" | relative_url }}" alt="Overview image for Green Bank" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Green Bank gets pulled into UFO conversations
@@ -290,8 +289,7 @@ That “no detection” is important. Project Ozma did not prove aliens were pre
 
 The following year, Green Bank also became associated with the Drake equation. The SETI Institute states that the 1961 conference connected with the equation took place at Green Bank, the site of Project Ozma. The equation was less a firm calculation than a way to organise discussion about the factors that would affect the number of detectable civilisations in the galaxy. That origin story deepens Green Bank’s relevance: the place helped shape the vocabulary of scientific extraterrestrial inquiry, not just a single telescope run. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.seti.org/research/seti-101/project-ozma/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seti.org">[SETI Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seti.org</span><span class="citation-popover-title">project ozma</span><span class="citation-popover-snippet">project ozma</span></span></span>
 
-
-<img src="{{ "/assets/images/West_Virginia_be1c72_green_bank_seti_ufo_929ca9-Illustration-1-light.svg" | relative_url }}" alt="Green Bank illustration 1" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72_green_bank_seti_ufo_929ca9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72_green_bank_seti_ufo_929ca9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/West_Virginia_be1c72_green_bank_seti_ufo_929ca9-Illustration-1-dark.svg" | relative_url }}" alt="Green Bank illustration 1" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72_green_bank_seti_ufo_929ca9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72_green_bank_seti_ufo_929ca9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Radio Quiet Zone matters
 
 Green Bank is not simply a picturesque mountain location with a large dish. Its scientific value depends on radio quietness. The National Radio [Quiet Zone]({{ 'quiet-zone/' | relative_url }}) was established in 1958 by the Federal Communications Commission and the Interdepartment Radio Advisory Committee to reduce harmful interference affecting the National Radio Astronomy Observatory at Green Bank and the US Navy radio receiving facilities at Sugar Grove. <span class="citation-chip-wrap"><a class="citation-chip" href="https://greenbankobservatory.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greenbankobservatory.org">[Green Bank Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greenbankobservatory.org</span><span class="citation-popover-snippet">Green Bank Observatory</span></span></span>
@@ -301,7 +299,6 @@ That radio quietness is easily misunderstood. It does not mean the area is mysti
 The rules also make Green Bank feel unusual to visitors. Observatory guidance describes restrictions on intentional radio emitters, including many wireless devices, and notes that only approved diesel vehicles are allowed in the most protected zone because ordinary spark-ignition engines can create interference. The point is practical, not paranormal: reduce local radio noise so instruments can detect weak cosmic signals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://greenbankobservatory.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greenbankobservatory.org">[Green Bank Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greenbankobservatory.org</span><span class="citation-popover-snippet">Green Bank Observatory</span></span></span>
 
 Recent changes show that the Quiet Zone is a managed scientific environment rather than a frozen relic. In 2025, Green Bank Observatory published guidance explaining that Wi-Fi rules depend on overlapping zones, including the state-recognised West Virginia Radio Astronomy Zone within a 10-mile radius of the observatory. The continuing debate over Wi-Fi and interference is a reminder that Green Bank’s “silence” is not absolute; it is a negotiated balance between community needs and sensitive research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://greenbankobservatory.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greenbankobservatory.org">[Green Bank Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greenbankobservatory.org</span><span class="citation-popover-snippet">Green Bank Observatory</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WntZu73iwUA" title="Why the Biggest Radio Telescope Is Practically Useless" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WntZu73iwUA" target="_blank" rel="noopener noreferrer">Why the Biggest Radio Telescope Is Practically Useless</a></p><p class="youtube-embed-meta">Channel: Slidebean &middot; Views: 103.2K &middot; Uploaded: February 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WntZu73iwUA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WntZu73iwUA">Open on YouTube</a></p></div></div></div>
 
@@ -317,8 +314,7 @@ A 2026 UCLA SETI results paper using the Green Bank Telescope reported more than
 
 NASA’s 2023 UAP work helps underline the same principle from the UFO side. Its independent study argued that UAP research needs rigorous, evidence-based methods and better data acquisition. Reuters summarised the panel’s message bluntly: existing data and eyewitness reports alone were insufficient to draw firm conclusions about every UAP event. That does not dismiss [witnesses]({{ 'witnesses-33b724/' | relative_url }}); it explains why testimony and instrument-quality evidence are not equivalent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
-
-<img src="{{ "/assets/images/West_Virginia_be1c72_green_bank_seti_ufo_929ca9-Illustration-2-light.svg" | relative_url }}" alt="Green Bank illustration 2" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72_green_bank_seti_ufo_929ca9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72_green_bank_seti_ufo_929ca9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/West_Virginia_be1c72_green_bank_seti_ufo_929ca9-Illustration-2-dark.svg" | relative_url }}" alt="Green Bank illustration 2" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72_green_bank_seti_ufo_929ca9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72_green_bank_seti_ufo_929ca9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1988 telescope collapse shows how rumours form
 
 One Green Bank episode directly illustrates the gap between dramatic explanation and investigated cause. On 15 November 1988, the observatory’s 300-foot telescope collapsed. NRAO preserves an example of the sensational aftermath under the title “Zapped by Aliens?”, showing a newspaper claim that the telescope had been attacked by “hostile space aliens”. The official explanation was very different: later investigation found that the collapse was caused by a worn or cracked metal connector plate, not by an extraterrestrial attack. <span class="citation-chip-wrap"><a class="citation-chip" href="https://public.nrao.edu/gallery/project-ozma-hardware/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: public.nrao.edu">[National Radio Astronomy Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">public.nrao.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -337,17 +333,15 @@ For a mainstream UFO-curious reader, the takeaway is not “scientists have foun
 
 Green Bank’s public presentation has also changed. Reporting on Green Bank’s SETI tours has noted that visitors can see the historic Project Ozma setting and learn about the observatory’s role in the search for extraterrestrial intelligence. That public-facing “alien hunting” language is understandable and engaging, but it needs careful handling. It should draw people toward science, not encourage them to merge SETI with every West Virginia UFO legend. <span class="citation-chip-wrap"><a class="citation-chip" href="https://greenbankobservatory.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greenbankobservatory.org">[Green Bank Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greenbankobservatory.org</span><span class="citation-popover-snippet">Green Bank Observatory</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0MS5Im9xl3A" title="Inside the Town with No Cell Phones (West Virginia)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0MS5Im9xl3A" target="_blank" rel="noopener noreferrer">Inside the Town with No Cell Phones (West Virginia)</a></p><p class="youtube-embed-meta">Channel: RocaNews &middot; Views: 1.8M &middot; Uploaded: December 2025 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0MS5Im9xl3A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0MS5Im9xl3A">Open on YouTube</a></p></div></div></div>
 
 ## What Green Bank does not prove about West Virginia UFOs
 
-Green Bank does not prove that the [Flatwoods Monster]({{ 'flatwoods/' | relative_url }}) was an alien, that Mothman was connected to extraterrestrial craft, or that unusual lights reported in West Virginia skies are technological visitors. It also does not provide a hidden archive of solved UFO cases. Its relevance is narrower and stronger: it shows that West Virginia has a genuine, documented place in the scientific search for extraterrestrial intelligence.
+Green Bank does not prove that the Flatwoods Monster was an alien, that Mothman was connected to extraterrestrial craft, or that unusual lights reported in West Virginia skies are technological visitors. It also does not provide a hidden archive of solved UFO cases. Its relevance is narrower and stronger: it shows that West Virginia has a genuine, documented place in the scientific search for extraterrestrial intelligence.
 
 That matters because UFO culture often treats all “alien” material as one pile. A monster sighting, a military case file, a radio telescope, a NASA report, a local legend and a speculative headline can be made to look mutually reinforcing when they are really different evidential categories. Green Bank is a useful corrective. It says: yes, scientists have searched for evidence of other technological civilisations from West Virginia; no, that does not automatically upgrade eyewitness UFO reports into confirmed alien events.
 
 The Air Force’s Project Blue Book history gives a useful comparison. The Air Force investigated 12,618 UFO reports from 1947 to 1969 and left 701 classified as unidentified, but “unidentified” did not mean “extraterrestrial”. It meant the available information did not support a firm identification. Green Bank SETI uses the opposite pressure: even a promising candidate signal must survive aggressive attempts to identify it as interference or ordinary human technology before it could become extraordinary evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/apVKobWigMw" title="Sarah Scoles, Author of “They Are Already Here: UFO Culture and Why We See Saucers” (043)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=apVKobWigMw" target="_blank" rel="noopener noreferrer">Sarah Scoles, Author of “They Are Already Here: UFO Culture and Why We See Saucers” (043)</a></p><p class="youtube-embed-meta">Channel: Dr Brian Keating &middot; Views: 6.3K &middot; Uploaded: May 2020 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=apVKobWigMw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=apVKobWigMw">Open on YouTube</a></p></div></div></div>
 
@@ -359,8 +353,7 @@ The two sides can speak to each other, but they should not be collapsed into one
 
 That is why Green Bank is so valuable in this state project. It gives West Virginia a real extraterrestrial-science landmark without requiring any exaggeration of UFO claims. Its legacy is not a confirmed message from another civilisation, nor an official endorsement of flying-saucer lore. Its legacy is a disciplined search: listening carefully, rejecting weak signals, documenting methods, and keeping the difference between curiosity and evidence clear.
 
-
-<img src="{{ "/assets/images/West_Virginia_be1c72_green_bank_seti_ufo_929ca9-Illustration-3-light.svg" | relative_url }}" alt="Green Bank illustration 3" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72_green_bank_seti_ufo_929ca9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72_green_bank_seti_ufo_929ca9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/West_Virginia_be1c72_green_bank_seti_ufo_929ca9-Illustration-3-dark.svg" | relative_url }}" alt="Green Bank illustration 3" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72_green_bank_seti_ufo_929ca9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72_green_bank_seti_ufo_929ca9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -784,329 +777,329 @@ That is why Green Bank is so valuable in this state project. It gives West Virgi
 1. <a id="endnote-1"></a>
    Source: seti.org  
    Title: project ozma  
-   Link: [https://www.seti.org/research/seti-101/project-ozma/](https://www.seti.org/research/seti-101/project-ozma/)  
+   Link: <a href="https://www.seti.org/research/seti-101/project-ozma/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/research/seti-101/project-ozma/</a>  
 
 2. <a id="endnote-2"></a>
    Source: public.nrao.edu  
-   Link: [https://public.nrao.edu/gallery/project-ozma-hardware/](https://public.nrao.edu/gallery/project-ozma-hardware/)  
+   Link: <a href="https://public.nrao.edu/gallery/project-ozma-hardware/" target="_blank" rel="noopener noreferrer nofollow">https://public.nrao.edu/gallery/project-ozma-hardware/</a>  
 
 3. <a id="endnote-3"></a>
    Source: greenbankobservatory.org  
-   Link: [https://greenbankobservatory.org/science/partners/breakthrough-listen/](https://greenbankobservatory.org/science/partners/breakthrough-listen/)  
+   Link: <a href="https://greenbankobservatory.org/science/partners/breakthrough-listen/" target="_blank" rel="noopener noreferrer nofollow">https://greenbankobservatory.org/science/partners/breakthrough-listen/</a>  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Results of ten years of UCLA SETI searches with the Green Bank Telescope  
-   Link: [https://arxiv.org/abs/2605.05408](https://arxiv.org/abs/2605.05408)  
+   Link: <a href="https://arxiv.org/abs/2605.05408" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.05408</a>  
 
 5. <a id="endnote-5"></a>
    Source: wvexplorer.com  
    Title: West Virginia ground-zero for UFO research, ET encounters  
-   Link: [https://wvexplorer.com/west-virginia-ufo-seti-green-bank-flatwoods-mothman/](https://wvexplorer.com/west-virginia-ufo-seti-green-bank-flatwoods-mothman/)  
+   Link: <a href="https://wvexplorer.com/west-virginia-ufo-seti-green-bank-flatwoods-mothman/" target="_blank" rel="noopener noreferrer nofollow">https://wvexplorer.com/west-virginia-ufo-seti-green-bank-flatwoods-mothman/</a>  
 
 6. <a id="endnote-6"></a>
    Source: seti.org  
    Title: drake equation  
-   Link: [https://www.seti.org/research/seti-101/drake-equation/](https://www.seti.org/research/seti-101/drake-equation/)  
+   Link: <a href="https://www.seti.org/research/seti-101/drake-equation/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/research/seti-101/drake-equation/</a>  
 
 7. <a id="endnote-7"></a>
    Source: greenbankobservatory.org  
-   Link: [https://greenbankobservatory.org/about/national-radio-quiet-zone/](https://greenbankobservatory.org/about/national-radio-quiet-zone/)  
+   Link: <a href="https://greenbankobservatory.org/about/national-radio-quiet-zone/" target="_blank" rel="noopener noreferrer nofollow">https://greenbankobservatory.org/about/national-radio-quiet-zone/</a>  
 
 8. <a id="endnote-8"></a>
    Source: science.nrao.edu  
-   Link: [https://science.nrao.edu/spectrum/services/nrqz](https://science.nrao.edu/spectrum/services/nrqz)  
+   Link: <a href="https://science.nrao.edu/spectrum/services/nrqz" target="_blank" rel="noopener noreferrer nofollow">https://science.nrao.edu/spectrum/services/nrqz</a>  
 
 9. <a id="endnote-9"></a>
    Source: greenbankobservatory.org  
-   Link: [https://greenbankobservatory.org/about/interference-protection/](https://greenbankobservatory.org/about/interference-protection/)  
+   Link: <a href="https://greenbankobservatory.org/about/interference-protection/" target="_blank" rel="noopener noreferrer nofollow">https://greenbankobservatory.org/about/interference-protection/</a>  
 
 10. <a id="endnote-10"></a>
    Source: greenbankobservatory.org  
-   Link: [https://greenbankobservatory.org/about/rfi-mitigation/](https://greenbankobservatory.org/about/rfi-mitigation/)  
+   Link: <a href="https://greenbankobservatory.org/about/rfi-mitigation/" target="_blank" rel="noopener noreferrer nofollow">https://greenbankobservatory.org/about/rfi-mitigation/</a>  
 
 11. <a id="endnote-11"></a>
    Source: greenbankobservatory.org  
    Title: Green Bank Observatory Wi Fi in the “Quiet Zone” FAQs  
-   Link: [https://greenbankobservatory.org/news/wifi-in-the-quiet-zone-faqs/](https://greenbankobservatory.org/news/wifi-in-the-quiet-zone-faqs/)  
+   Link: <a href="https://greenbankobservatory.org/news/wifi-in-the-quiet-zone-faqs/" target="_blank" rel="noopener noreferrer nofollow">https://greenbankobservatory.org/news/wifi-in-the-quiet-zone-faqs/</a>  
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2412.05786](https://arxiv.org/abs/2412.05786)  
+   Link: <a href="https://arxiv.org/abs/2412.05786" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.05786</a>  
 
 13. <a id="endnote-13"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: reuters.com  
    Title: nasa panel hold first public meeting ufo study ahead report 2023 05 31  
-   Link: [https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/](https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/)  
+   Link: <a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
 
 15. <a id="endnote-15"></a>
    Source: public.nrao.edu  
-   Link: [https://public.nrao.edu/gallery/zapped-by-aliens/](https://public.nrao.edu/gallery/zapped-by-aliens/)  
+   Link: <a href="https://public.nrao.edu/gallery/zapped-by-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://public.nrao.edu/gallery/zapped-by-aliens/</a>  
 
 16. <a id="endnote-16"></a>
    Source: greenbankobservatory.org  
-   Link: [https://greenbankobservatory.org/about/telescopes/300-foot-telescope/](https://greenbankobservatory.org/about/telescopes/300-foot-telescope/)  
+   Link: <a href="https://greenbankobservatory.org/about/telescopes/300-foot-telescope/" target="_blank" rel="noopener noreferrer nofollow">https://greenbankobservatory.org/about/telescopes/300-foot-telescope/</a>  
 
 17. <a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1707.06024](https://arxiv.org/abs/1707.06024)  
+   Link: <a href="https://arxiv.org/abs/1707.06024" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1707.06024</a>  
 
 18. <a id="endnote-18"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1906.07391](https://arxiv.org/abs/1906.07391)  
+   Link: <a href="https://arxiv.org/abs/1906.07391" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1906.07391</a>  
 
 19. <a id="endnote-19"></a>
    Source: greenbankobservatory.org  
    Title: Green Bank Observatory SETI Tour  
-   Link: [https://greenbankobservatory.org/events/seti-tour/](https://greenbankobservatory.org/events/seti-tour/)  
+   Link: <a href="https://greenbankobservatory.org/events/seti-tour/" target="_blank" rel="noopener noreferrer nofollow">https://greenbankobservatory.org/events/seti-tour/</a>  
 
 20. <a id="endnote-20"></a>
    Source: wvpublic.org  
    Title: green bank observatory offers behind the scenes seti tours  
-   Link: [https://wvpublic.org/story/health-science/green-bank-observatory-offers-behind-the-scenes-seti-tours/](https://wvpublic.org/story/health-science/green-bank-observatory-offers-behind-the-scenes-seti-tours/)  
+   Link: <a href="https://wvpublic.org/story/health-science/green-bank-observatory-offers-behind-the-scenes-seti-tours/" target="_blank" rel="noopener noreferrer nofollow">https://wvpublic.org/story/health-science/green-bank-observatory-offers-behind-the-scenes-seti-tours/</a>  
 
 21. <a id="endnote-21"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
 22. <a id="endnote-22"></a>
    Source: science.nrao.edu  
-   Link: [https://science.nrao.edu/facilities/gbt](https://science.nrao.edu/facilities/gbt)  
+   Link: <a href="https://science.nrao.edu/facilities/gbt" target="_blank" rel="noopener noreferrer nofollow">https://science.nrao.edu/facilities/gbt</a>  
 
 23. <a id="endnote-23"></a>
    Source: info.nrao.edu  
    Title: national radio quiet zone nrqz 1  
-   Link: [https://info.nrao.edu/do/spectrum-management/national-radio-quiet-zone-nrqz-1](https://info.nrao.edu/do/spectrum-management/national-radio-quiet-zone-nrqz-1)  
+   Link: <a href="https://info.nrao.edu/do/spectrum-management/national-radio-quiet-zone-nrqz-1" target="_blank" rel="noopener noreferrer nofollow">https://info.nrao.edu/do/spectrum-management/national-radio-quiet-zone-nrqz-1</a>  
 
 24. <a id="endnote-24"></a>
    Source: gb.nrao.edu  
    Title: drake lecture  
-   Link: [https://www.gb.nrao.edu/OZMA%4050/drake_lecture.html](https://www.gb.nrao.edu/OZMA%4050/drake_lecture.html)  
+   Link: <a href="https://www.gb.nrao.edu/OZMA%4050/drake_lecture.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gb.nrao.edu/OZMA%4050/drake_lecture.html</a>  
 
 25. <a id="endnote-25"></a>
    Source: science.nrao.edu  
-   Link: [https://science.nrao.edu/facilities/gbt/interference-protection/nrqz](https://science.nrao.edu/facilities/gbt/interference-protection/nrqz)  
+   Link: <a href="https://science.nrao.edu/facilities/gbt/interference-protection/nrqz" target="_blank" rel="noopener noreferrer nofollow">https://science.nrao.edu/facilities/gbt/interference-protection/nrqz</a>  
 
 26. <a id="endnote-26"></a>
    Source: science.nrao.edu  
    Title: breakthrough listen  
-   Link: [https://science.nrao.edu/science/meetings/2016/breakthrough_listen](https://science.nrao.edu/science/meetings/2016/breakthrough_listen)  
+   Link: <a href="https://science.nrao.edu/science/meetings/2016/breakthrough_listen" target="_blank" rel="noopener noreferrer nofollow">https://science.nrao.edu/science/meetings/2016/breakthrough_listen</a>  
 
 27. <a id="endnote-27"></a>
    Source: library.nrao.edu  
-   Link: [https://library.nrao.edu/public/collection/02000000000301.pdf](https://library.nrao.edu/public/collection/02000000000301.pdf)  
+   Link: <a href="https://library.nrao.edu/public/collection/02000000000301.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.nrao.edu/public/collection/02000000000301.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: public.nrao.edu  
    Title: achilles heel of the 300foot  
-   Link: [https://public.nrao.edu/gallery/achilles-heel-of-the-300foot/](https://public.nrao.edu/gallery/achilles-heel-of-the-300foot/)  
+   Link: <a href="https://public.nrao.edu/gallery/achilles-heel-of-the-300foot/" target="_blank" rel="noopener noreferrer nofollow">https://public.nrao.edu/gallery/achilles-heel-of-the-300foot/</a>  
 
 29. <a id="endnote-29"></a>
    Source: gb.nrao.edu  
    Title: FCC Docket 11745 NRQZ  
-   Link: [https://www.gb.nrao.edu/nrqz/FCC_Docket_11745_NRQZ.pdf](https://www.gb.nrao.edu/nrqz/FCC_Docket_11745_NRQZ.pdf)  
+   Link: <a href="https://www.gb.nrao.edu/nrqz/FCC_Docket_11745_NRQZ.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gb.nrao.edu/nrqz/FCC_Docket_11745_NRQZ.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: gb.nrao.edu  
    Title: The Enemy Is Us  
-   Link: [https://www.gb.nrao.edu/visitors/TheEnemyIsUs.pdf](https://www.gb.nrao.edu/visitors/TheEnemyIsUs.pdf)  
+   Link: <a href="https://www.gb.nrao.edu/visitors/TheEnemyIsUs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gb.nrao.edu/visitors/TheEnemyIsUs.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Project Ozma  
-   Link: [https://en.wikipedia.org/wiki/Project_Ozma](https://en.wikipedia.org/wiki/Project_Ozma)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Ozma" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Ozma</a>  
 
 32. <a id="endnote-32"></a>
    Source: Wikipedia  
    Title: Breakthrough Listen  
-   Link: [https://en.wikipedia.org/wiki/Breakthrough_Listen](https://en.wikipedia.org/wiki/Breakthrough_Listen)  
+   Link: <a href="https://en.wikipedia.org/wiki/Breakthrough_Listen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Breakthrough_Listen</a>  
 
 33. <a id="endnote-33"></a>
    Source: Wikipedia  
    Title: Drake equation  
-   Link: [https://en.wikipedia.org/wiki/Drake_equation](https://en.wikipedia.org/wiki/Drake_equation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Drake_equation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Drake_equation</a>  
 
 34. <a id="endnote-34"></a>
    Source: Wikipedia  
    Title: Green Bank Telescope  
-   Link: [https://en.wikipedia.org/wiki/Green_Bank_Telescope](https://en.wikipedia.org/wiki/Green_Bank_Telescope)  
+   Link: <a href="https://en.wikipedia.org/wiki/Green_Bank_Telescope" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Green_Bank_Telescope</a>  
 
 35. <a id="endnote-35"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 36. <a id="endnote-36"></a>
    Source: greenbankobservatory.org  
-   Link: [https://greenbankobservatory.org/nrqz-old/interference-protection/](https://greenbankobservatory.org/nrqz-old/interference-protection/)  
+   Link: <a href="https://greenbankobservatory.org/nrqz-old/interference-protection/" target="_blank" rel="noopener noreferrer nofollow">https://greenbankobservatory.org/nrqz-old/interference-protection/</a>  
 
 37. <a id="endnote-37"></a>
    Source: greenbankobservatory.org  
    Title: green bank observatory mourns the loss of frank drake  
-   Link: [https://greenbankobservatory.org/front-page-news/green-bank-observatory-mourns-the-loss-of-frank-drake/](https://greenbankobservatory.org/front-page-news/green-bank-observatory-mourns-the-loss-of-frank-drake/)  
+   Link: <a href="https://greenbankobservatory.org/front-page-news/green-bank-observatory-mourns-the-loss-of-frank-drake/" target="_blank" rel="noopener noreferrer nofollow">https://greenbankobservatory.org/front-page-news/green-bank-observatory-mourns-the-loss-of-frank-drake/</a>  
 
 38. <a id="endnote-38"></a>
    Source: greenbankobservatory.org  
    Title: Green Bank Observatory  
-   Link: [https://greenbankobservatory.org/](https://greenbankobservatory.org/)  
+   Link: <a href="https://greenbankobservatory.org/" target="_blank" rel="noopener noreferrer nofollow">https://greenbankobservatory.org/</a>  
 
 39. <a id="endnote-39"></a>
    Source: greenbankobservatory.org  
-   Link: [https://greenbankobservatory.org/about-old/radio-interference/](https://greenbankobservatory.org/about-old/radio-interference/)  
+   Link: <a href="https://greenbankobservatory.org/about-old/radio-interference/" target="_blank" rel="noopener noreferrer nofollow">https://greenbankobservatory.org/about-old/radio-interference/</a>  
 
 40. <a id="endnote-40"></a>
    Source: greenbankobservatory.org  
    Title: green bank observatory works with local school to allow wifi in the quiet zone  
-   Link: [https://greenbankobservatory.org/front-page-news/green-bank-observatory-works-with-local-school-to-allow-wifi-in-the-quiet-zone/](https://greenbankobservatory.org/front-page-news/green-bank-observatory-works-with-local-school-to-allow-wifi-in-the-quiet-zone/)  
+   Link: <a href="https://greenbankobservatory.org/front-page-news/green-bank-observatory-works-with-local-school-to-allow-wifi-in-the-quiet-zone/" target="_blank" rel="noopener noreferrer nofollow">https://greenbankobservatory.org/front-page-news/green-bank-observatory-works-with-local-school-to-allow-wifi-in-the-quiet-zone/</a>  
 
 41. <a id="endnote-41"></a>
    Source: greenbankobservatory.org  
-   Link: [https://greenbankobservatory.org/quiet-zones/](https://greenbankobservatory.org/quiet-zones/)  
+   Link: <a href="https://greenbankobservatory.org/quiet-zones/" target="_blank" rel="noopener noreferrer nofollow">https://greenbankobservatory.org/quiet-zones/</a>  
 
 42. <a id="endnote-42"></a>
    Source: greenbankobservatory.org  
    Title: ozma at 60  
-   Link: [https://greenbankobservatory.org/science/meetings-and-workshops/ozma-at-60/](https://greenbankobservatory.org/science/meetings-and-workshops/ozma-at-60/)  
+   Link: <a href="https://greenbankobservatory.org/science/meetings-and-workshops/ozma-at-60/" target="_blank" rel="noopener noreferrer nofollow">https://greenbankobservatory.org/science/meetings-and-workshops/ozma-at-60/</a>  
 
 43. <a id="endnote-43"></a>
    Source: greenbankobservatory.org  
-   Link: [https://greenbankobservatory.org/what-is-the-green-bank-observatory/](https://greenbankobservatory.org/what-is-the-green-bank-observatory/)  
+   Link: <a href="https://greenbankobservatory.org/what-is-the-green-bank-observatory/" target="_blank" rel="noopener noreferrer nofollow">https://greenbankobservatory.org/what-is-the-green-bank-observatory/</a>  
 
 44. <a id="endnote-44"></a>
    Source: greenbankobservatory.org  
    Title: breakthrough listen releases 2 pb of data from seti survey of milky way  
-   Link: [https://greenbankobservatory.org/news/breakthrough-listen-releases-2-pb-of-data-from-seti-survey-of-milky-way/](https://greenbankobservatory.org/news/breakthrough-listen-releases-2-pb-of-data-from-seti-survey-of-milky-way/)  
+   Link: <a href="https://greenbankobservatory.org/news/breakthrough-listen-releases-2-pb-of-data-from-seti-survey-of-milky-way/" target="_blank" rel="noopener noreferrer nofollow">https://greenbankobservatory.org/news/breakthrough-listen-releases-2-pb-of-data-from-seti-survey-of-milky-way/</a>  
 
 45. <a id="endnote-45"></a>
    Source: greenbankobservatory.org  
-   Link: [https://greenbankobservatory.org/front-page-news/seti-breakthrough-listen-and-cornell-university-search-for-extraterrestrial-pulses-in-gbt-data/](https://greenbankobservatory.org/front-page-news/seti-breakthrough-listen-and-cornell-university-search-for-extraterrestrial-pulses-in-gbt-data/)  
+   Link: <a href="https://greenbankobservatory.org/front-page-news/seti-breakthrough-listen-and-cornell-university-search-for-extraterrestrial-pulses-in-gbt-data/" target="_blank" rel="noopener noreferrer nofollow">https://greenbankobservatory.org/front-page-news/seti-breakthrough-listen-and-cornell-university-search-for-extraterrestrial-pulses-in-gbt-data/</a>  
 
 46. <a id="endnote-46"></a>
    Source: astronomy.com  
    Title: april 8 1960 frank drake begins project ozma  
-   Link: [https://www.astronomy.com/https%3A/april-8-1960-frank-drake-begins-project-ozma/](https://www.astronomy.com/https%3A/april-8-1960-frank-drake-begins-project-ozma/)  
+   Link: <a href="https://www.astronomy.com/https%3A/april-8-1960-frank-drake-begins-project-ozma/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/https%3A/april-8-1960-frank-drake-begins-project-ozma/</a>  
 
 47. <a id="endnote-47"></a>
    Source: astronomy.com  
    Title: april 8 1960 frank drake begins project ozma  
-   Link: [https://www.astronomy.com/today-in-the-history-of-astronomy/april-8-1960-frank-drake-begins-project-ozma/](https://www.astronomy.com/today-in-the-history-of-astronomy/april-8-1960-frank-drake-begins-project-ozma/)  
+   Link: <a href="https://www.astronomy.com/today-in-the-history-of-astronomy/april-8-1960-frank-drake-begins-project-ozma/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/today-in-the-history-of-astronomy/april-8-1960-frank-drake-begins-project-ozma/</a>  
 
 48. <a id="endnote-48"></a>
    Source: ebsco.com  
    Title: drake equation  
-   Link: [https://www.ebsco.com/research-starters/astronomy-and-astrophysics/drake-equation](https://www.ebsco.com/research-starters/astronomy-and-astrophysics/drake-equation)  
+   Link: <a href="https://www.ebsco.com/research-starters/astronomy-and-astrophysics/drake-equation" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/astronomy-and-astrophysics/drake-equation</a>  
 
 49. <a id="endnote-49"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 50. <a id="endnote-50"></a>
    Source: seti.org  
    Title: a primer on seti at the seti institute  
-   Link: [https://www.seti.org/research/seti-101/a-primer-on-seti-at-the-seti-institute/](https://www.seti.org/research/seti-101/a-primer-on-seti-at-the-seti-institute/)  
+   Link: <a href="https://www.seti.org/research/seti-101/a-primer-on-seti-at-the-seti-institute/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/research/seti-101/a-primer-on-seti-at-the-seti-institute/</a>  
 
 51. <a id="endnote-51"></a>
    Source: seti.org  
    Title: drake equation 55 years old  
-   Link: [https://www.seti.org/news/drake-equation-55-years-old/](https://www.seti.org/news/drake-equation-55-years-old/)  
+   Link: <a href="https://www.seti.org/news/drake-equation-55-years-old/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/news/drake-equation-55-years-old/</a>  
 
 52. <a id="endnote-52"></a>
    Source: astrobites.org  
    Title: drake equation  
-   Link: [https://astrobites.org/2022/09/04/drake-equation/](https://astrobites.org/2022/09/04/drake-equation/)  
+   Link: <a href="https://astrobites.org/2022/09/04/drake-equation/" target="_blank" rel="noopener noreferrer nofollow">https://astrobites.org/2022/09/04/drake-equation/</a>  
 
 53. <a id="endnote-53"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=T5vvK2L1FL8](https://www.youtube.com/watch?v=T5vvK2L1FL8)  
+   Link: <a href="https://www.youtube.com/watch?v=T5vvK2L1FL8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T5vvK2L1FL8</a>  
 
 54. <a id="endnote-54"></a>
    Source: history.com  
    Title: project ozma launches search extraterrestrial life  
-   Link: [https://www.history.com/this-day-in-history/april-12/project-ozma-launches-search-extraterrestrial-life](https://www.history.com/this-day-in-history/april-12/project-ozma-launches-search-extraterrestrial-life)  
+   Link: <a href="https://www.history.com/this-day-in-history/april-12/project-ozma-launches-search-extraterrestrial-life" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/april-12/project-ozma-launches-search-extraterrestrial-life</a>  
 
 55. <a id="endnote-55"></a>
    Source: wdtv.com  
    Title: green bank observatory allows wifi their quiet zone first time  
-   Link: [https://www.wdtv.com/2025/08/06/green-bank-observatory-allows-wifi-their-quiet-zone-first-time/](https://www.wdtv.com/2025/08/06/green-bank-observatory-allows-wifi-their-quiet-zone-first-time/)  
+   Link: <a href="https://www.wdtv.com/2025/08/06/green-bank-observatory-allows-wifi-their-quiet-zone-first-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.wdtv.com/2025/08/06/green-bank-observatory-allows-wifi-their-quiet-zone-first-time/</a>  
 
 56. <a id="endnote-56"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 57. <a id="endnote-57"></a>
    Source: wvexplorer.com  
    Title: national radio quiet zone west virginia  
-   Link: [https://wvexplorer.com/national-radio-quiet-zone-west-virginia/](https://wvexplorer.com/national-radio-quiet-zone-west-virginia/)  
+   Link: <a href="https://wvexplorer.com/national-radio-quiet-zone-west-virginia/" target="_blank" rel="noopener noreferrer nofollow">https://wvexplorer.com/national-radio-quiet-zone-west-virginia/</a>  
 
 58. <a id="endnote-58"></a>
    Source: britannica.com  
    Title: Extraterrestrial intelligence  
-   Link: [https://www.britannica.com/science/extraterrestrial-intelligence/Radio-searches](https://www.britannica.com/science/extraterrestrial-intelligence/Radio-searches)  
+   Link: <a href="https://www.britannica.com/science/extraterrestrial-intelligence/Radio-searches" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/extraterrestrial-intelligence/Radio-searches</a>  
 
 59. <a id="endnote-59"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/event/Project-Ozma](https://www.britannica.com/event/Project-Ozma)  
+   Link: <a href="https://www.britannica.com/event/Project-Ozma" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Project-Ozma</a>  
 
 60. <a id="endnote-60"></a>
    Source: space.com  
    Title: arecibo observatory green bank telescope collapse lessons  
-   Link: [https://www.space.com/arecibo-observatory-green-bank-telescope-collapse-lessons](https://www.space.com/arecibo-observatory-green-bank-telescope-collapse-lessons)  
+   Link: <a href="https://www.space.com/arecibo-observatory-green-bank-telescope-collapse-lessons" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/arecibo-observatory-green-bank-telescope-collapse-lessons</a>  
 
 61. <a id="endnote-61"></a>
    Source: aps.org  
    Title: green bank observatory radio silent  
-   Link: [https://www.aps.org/apsnews/2024/01/green-bank-observatory-radio-silent](https://www.aps.org/apsnews/2024/01/green-bank-observatory-radio-silent)  
+   Link: <a href="https://www.aps.org/apsnews/2024/01/green-bank-observatory-radio-silent" target="_blank" rel="noopener noreferrer nofollow">https://www.aps.org/apsnews/2024/01/green-bank-observatory-radio-silent</a>  
 
 ### Additional References
 
 62. <a id="endnote-62"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/opinions/2025/08/27/wifi-quiet-school-west-virginia-astronomy/](https://www.washingtonpost.com/opinions/2025/08/27/wifi-quiet-school-west-virginia-astronomy/)  
+   Link: <a href="https://www.washingtonpost.com/opinions/2025/08/27/wifi-quiet-school-west-virginia-astronomy/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/opinions/2025/08/27/wifi-quiet-school-west-virginia-astronomy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Various proposals to introduce connectivity without disrupting telescope operations were considered but proved impractical. The new compr...</p></details>
 
 63. <a id="endnote-63"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=apVKobWigMw](https://www.youtube.com/watch?v=apVKobWigMw)  
+   Link: <a href="https://www.youtube.com/watch?v=apVKobWigMw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=apVKobWigMw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OTD in Space – April 11: &#x27;Project Ozma&#x27; Begins Search for Alien Life...</p></details>
 
 64. <a id="endnote-64"></a>
    Source: youtube.com  
    Title: A Tour of the Green Bank Observatory and Breakthrough Listen  
-   Link: [https://www.youtube.com/watch?v=7HVVNujXK2Q](https://www.youtube.com/watch?v=7HVVNujXK2Q)  
+   Link: <a href="https://www.youtube.com/watch?v=7HVVNujXK2Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7HVVNujXK2Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sarah Scoles, Author of “They Are Already Here: UFO Culture and Why We See Saucers” (043)...</p></details>
 
 65. <a id="endnote-65"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 66. <a id="endnote-66"></a>
    Source: youtube.com  
    Title: Why the Biggest Radio Telescope Is Practically Useless  
-   Link: [https://www.youtube.com/watch?v=WntZu73iwUA](https://www.youtube.com/watch?v=WntZu73iwUA)  
+   Link: <a href="https://www.youtube.com/watch?v=WntZu73iwUA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WntZu73iwUA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Does The Mystery Signal From Space Mean?...</p></details>
 
 67. <a id="endnote-67"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GreenBankObservatory/posts/debunking-misconceptions-about-life-in-the-quiet-zones-myth-the-quiet-zone-is-th/1067006448930080/](https://www.facebook.com/GreenBankObservatory/posts/debunking-misconceptions-about-life-in-the-quiet-zones-myth-the-quiet-zone-is-th/1067006448930080/)  
+   Link: <a href="https://www.facebook.com/GreenBankObservatory/posts/debunking-misconceptions-about-life-in-the-quiet-zones-myth-the-quiet-zone-is-th/1067006448930080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GreenBankObservatory/posts/debunking-misconceptions-about-life-in-the-quiet-zones-myth-the-quiet-zone-is-th/1067006448930080/</a>  
 
 68. <a id="endnote-68"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/](https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
 
 69. <a id="endnote-69"></a>
    Source: foothill.edu  
-   Link: [https://www.foothill.edu/attach/938/Drake_equation.pdf](https://www.foothill.edu/attach/938/Drake_equation.pdf)  
+   Link: <a href="https://www.foothill.edu/attach/938/Drake_equation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.foothill.edu/attach/938/Drake_equation.pdf</a>  
 
 70. <a id="endnote-70"></a>
    Source: bigear.org  
-   Link: [https://www.bigear.org/CSMO/HTML/CS01/cs01p10.htm](https://www.bigear.org/CSMO/HTML/CS01/cs01p10.htm)  
+   Link: <a href="https://www.bigear.org/CSMO/HTML/CS01/cs01p10.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bigear.org/CSMO/HTML/CS01/cs01p10.htm</a>  
 
 71. <a id="endnote-71"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>

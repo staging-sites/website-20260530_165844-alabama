@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-montana-became-a-ufo-landmark/
 nav_short_title: Malmstrom
 title: Did UFOs Affect Montana's Missile Fields?
-title_full: Did UFOs Affect Montana's Missile Fields? | Montana UFOs
+title_full: Did UFOs Affect Montana's Missile Fields?
 display_title_short: Malmstrom
 display_title: Malmstrom
 heading_title: Did UFOs Affect Montana's Missile Fields?
@@ -268,8 +268,7 @@ image: /assets/images/Montana_8d274f_malmstrom_missiles_968aa9-overview-social.j
 
 ## Introduction
 
-The Malmstrom missile shutdown controversy is [Montana]({{ 'why-montana-became-a-ufo-landmark/' | relative_url }})’s most serious UFO-and-nuclear-weapons case because it begins with a real military malfunction, not just a sky report. On 16 March 1967, all ten launch facilities in [Echo Flight]({{ 'echo-flight/' | relative_url }}), part of the 341st Strategic Missile Wing at Malmstrom Air Force Base, lost strategic alert nearly simultaneously. The dispute is whether that failure was connected to reports of strange lights near missile sites, as later claimed by former Air Force personnel, or whether the UFO element was rumour, misremembering, misidentified ordinary lights, or a classified technical event later reinterpreted through UFO culture. The safest reading is that a missile failure did occur, but the alleged UFO connection remains contested and weaker than the shutdown record itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
-
+The Malmstrom missile shutdown controversy is Montana’s most serious UFO-and-nuclear-weapons case because it begins with a real military malfunction, not just a sky report. On 16 March 1967, all ten launch facilities in [Echo Flight]({{ 'echo-flight/' | relative_url }}), part of the 341st Strategic Missile Wing at Malmstrom Air Force Base, lost strategic alert nearly simultaneously. The dispute is whether that failure was connected to reports of strange lights near missile sites, as later claimed by former Air Force personnel, or whether the UFO element was rumour, misremembering, misidentified ordinary lights, or a classified technical event later reinterpreted through UFO culture. The safest reading is that a missile failure did occur, but the alleged UFO connection remains contested and weaker than the shutdown record itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
 <img src="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9-overview.webp" | relative_url }}" alt="Overview image for Malmstrom" loading="eager" decoding="sync" fetchpriority="high">
 Malmstrom matters in Montana UFO history because it sits at the exact point where local geography, Cold War secrecy, nuclear command systems, veteran testimony, and later sceptical reconstruction collide. It is not a case that can be responsibly treated as proof of alien intervention. It is a case about how a documented incident in a sensitive military system became one of America’s most durable UFO stories.
@@ -284,8 +283,7 @@ That is why the case is more substantial than many UFO anecdotes. There was a re
 
 This creates the first major tension. The official record confirms the shutdown, but it does not confirm a UFO encounter. In fact, it pushes in the opposite direction. For readers trying to judge the case, that distinction is essential: the best-documented fact is the missile malfunction; the best-known public story is the later claim that unusual aerial objects were present.
 
-
-<img src="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9-Illustration-1-light.svg" | relative_url }}" alt="Malmstrom illustration 1" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9-Illustration-1-dark.svg" | relative_url }}" alt="Malmstrom illustration 1" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Veteran testimony and the UFO claim
 
 The UFO version of the Malmstrom story became widely known decades after the event, especially through former Air Force officer Robert Salas and other veterans or researchers who argued that missile shutdowns coincided with strange lights near nuclear sites. Salas has said that security personnel reported unusual lights and, in the most dramatic version, a glowing red object near a launch facility before missiles went offline. Later accounts associated his experience not with Echo Flight itself but with Oscar Flight, which is one reason the chronology has become so difficult to untangle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usafaclasses.org">[usafaclasses.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usafaclasses.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -296,12 +294,11 @@ The weakness is that testimony emerged long after the event and has had to be re
 
 Other testimony has also been interpreted in different ways. Some UFO writers have cited recollections from missile personnel as corroboration that something unusual was being discussed around the base. Sceptics counter that hearing rumours after a major missile failure is not the same as witnessing a UFO over the affected sites. The difference matters because a nuclear missile failure would naturally produce base-wide concern, gossip, and retrospective attempts to link nearby reports into one pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/09/tinfoil-tuesdays-ufos-neutered-nukes-air-force-officers-claim" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Tinfoil Tuesdays: UFOs Neutered Nukes, Officers Claim</span><span class="citation-popover-snippet">Tinfoil Tuesdays: UFOs Neutered Nukes, Officers Claim</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VgziDyPSUog" title="What Disabled Missiles at Malmstrom Air Force Base?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VgziDyPSUog" target="_blank" rel="noopener noreferrer">What Disabled Missiles at Malmstrom Air Force Base?</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 273.6K &middot; Uploaded: November 2014 &middot; Length: 4 minutes 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VgziDyPSUog" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VgziDyPSUog">Open on YouTube</a></p></div></div></div>
 
 ## Why the timeline remains contested
 
-The most difficult part of the Malmstrom controversy is that several elements are often blended together: the 16 March [Echo Flight shutdown]({{ 'echo-flight/' | relative_url }}), later or separate reports of lights around Montana, Salas’s Oscar Flight account, and the broader UFO-and-nukes narrative promoted in books, press conferences, podcasts, and recent media. Once these are merged into a single story, the case sounds cleaner than the evidence actually is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/dd644338-b5d7-45a8-995a-b72fa4be68d1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Report a UFO sighting
+The most difficult part of the Malmstrom controversy is that several elements are often blended together: the 16 March Echo Flight shutdown, later or separate reports of lights around Montana, Salas’s Oscar Flight account, and the broader UFO-and-nukes narrative promoted in books, press conferences, podcasts, and recent media. Once these are merged into a single story, the case sounds cleaner than the evidence actually is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/dd644338-b5d7-45a8-995a-b72fa4be68d1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Report a UFO sighting
 
 A useful way to read the timeline is to separate three questions:
 
@@ -311,8 +308,7 @@ A useful way to read the timeline is to separate three questions:
 
 This is where many popular retellings become misleading. They often say “UFOs shut down ten nuclear missiles at Malmstrom” as though every part of that sentence is equally documented. A more careful statement is: ten missiles in Echo Flight lost strategic alert; later witnesses and UFO researchers argued that strange lights were connected to this or a similar event; official records and sceptical investigators dispute that connection.
 
-
-<img src="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9-Illustration-2-light.svg" | relative_url }}" alt="Malmstrom illustration 2" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9-Illustration-2-dark.svg" | relative_url }}" alt="Malmstrom illustration 2" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The main sceptical readings
 
 Sceptical interpretations do not usually deny the missile failure. They deny the causal link to UFOs. One line of criticism focuses on the official record: if a UFO had been reported at Echo Flight, critics argue, the Air Force’s UFO reporting procedures should have generated a more direct investigation trail. Instead, the record says rumours were checked and rejected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timhebert.blogspot.com">[timhebert.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timhebert.blogspot.com</span><span class="citation-popover-title">case closed re evaluation of echo</span><span class="citation-popover-snippet">case closed re evaluation of echo</span></span></span>
@@ -322,7 +318,6 @@ Another sceptical line focuses on witness memory and chronology. Brian Dunning�
 The harshest sceptical critiques, including those by James Carlson, go further and accuse UFO advocates of misrepresenting the Echo Flight record. Carlson’s argument draws on the fact that his father, Eric Carlson, was associated with Echo Flight, and he insists that the Echo event involved a missile-system failure, not a UFO encounter. His tone is often combative, but the underlying evidential point is relevant: the people named, the flight involved, and the exact date are not minor details in a case whose importance depends on a precise coincidence between an object and a missile failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unexplained-mysteries.com/column.php?id=195390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[Unexplained Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-title">Unexplained Mysteries James Carlson</span><span class="citation-popover-snippet">Unexplained Mysteries James Carlson</span></span></span>
 
 Scepticism also gained a new layer after 2025 reporting. The Wall Street Journal reported that Pentagon investigators had traced at least one famous UFO-related belief to classified military activity and that the Malmstrom episode involved an electromagnetic pulse-related test rather than alien intervention. Secondary reporting of that account said Salas and others may have been left without an explanation because officials did not want to reveal a vulnerability in nuclear systems. This should be treated carefully: it is a reported explanation, not a full public release of all underlying technical records. But it does weaken any confident claim that the only available explanation is non-human technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">ufo us disinformation 45376f7e</span><span class="citation-popover-snippet">ufo us disinformation 45376f7e</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/10n29IRC8OU" title="1967 Malmstrom Air Force Base Missile Incident w/ Robert Salas - We Are Not Alone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=10n29IRC8OU" target="_blank" rel="noopener noreferrer">1967 Malmstrom Air Force Base Missile Incident w/ Robert Salas - We Are Not Alone</a></p><p class="youtube-embed-meta">Channel: Queen City News &middot; Views: 3.3K &middot; Uploaded: April 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=10n29IRC8OU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=10n29IRC8OU">Open on YouTube</a></p></div></div></div>
 
@@ -334,8 +329,7 @@ That does not, by itself, solve the Malmstrom case. A broad historical conclusio
 
 For Montana’s UFO history, this is an important shift. The Malmstrom controversy no longer sits only between “the Air Force hid aliens” and “nothing happened”. A third possibility is more historically grounded: something did happen in a classified nuclear-weapons environment, but secrecy, compartmentalisation, rumour, and later UFO interpretation may have turned a technical or security incident into an extraterrestrial story.
 
-
-<img src="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9-Illustration-3-light.svg" | relative_url }}" alt="Malmstrom illustration 3" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9-Illustration-3-dark.svg" | relative_url }}" alt="Malmstrom illustration 3" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this case still matters in Montana UFO history
 
 The Malmstrom controversy endures because it has unusually high stakes. A light in the sky is one thing; a claim that nuclear missiles were affected is another. Even if the UFO connection is unproven, the story raises legitimate questions about how nuclear incidents were documented, what information was withheld from personnel, and how Cold War secrecy shaped public understanding of unexplained events in Montana.
@@ -343,7 +337,6 @@ The Malmstrom controversy endures because it has unusually high stakes. A light 
 It also shows why military UFO cases are difficult to assess. The most sensitive settings often produce the least transparent records. Missile fields were designed to be secure, survivable, and secretive. Personnel were trained to follow procedures, not to publish memoirs or preserve public evidence. When later witnesses describe strange events, investigators must weigh their service background and sincerity against time gaps, memory shifts, missing documents, and contradictory official records.
 
 Within Montana’s wider UFO landscape, Malmstrom pairs naturally with the [Great Falls]({{ 'great-falls/' | relative_url }}) [Mariana film]({{ 'mariana-film/' | relative_url }}) as a landmark case, but the two are very different. The Mariana film is a visual-evidence dispute: what did the camera capture? Malmstrom is a systems-and-testimony dispute: what caused a real missile alert failure, and were strange lights genuinely part of the same event? Together, they explain why Montana has remained more prominent in UFO history than its population size might suggest.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8bJZJzjwj70" title="The Air Force Officer Who Saw UFOs Disable Nuclear Weapons | Robert Salas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8bJZJzjwj70" target="_blank" rel="noopener noreferrer">The Air Force Officer Who Saw UFOs Disable Nuclear Weapons | Robert Salas</a></p><p class="youtube-embed-meta">Channel: Best of Danny Jones &middot; Views: 8.5K &middot; Uploaded: March 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8bJZJzjwj70" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8bJZJzjwj70">Open on YouTube</a></p></div></div></div>
 
@@ -775,199 +768,199 @@ That leaves Malmstrom in the “contested and unresolved in public detail” cat
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Malmstrom_UFO_incident](https://en.wikipedia.org/wiki/Malmstrom_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
    Title: Looking for official FOIA documentation regarding  
-   Link: [https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/](https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/</a>  
 
 3. <a id="endnote-3"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/dd644338-b5d7-45a8-995a-b72fa4be68d1](https://enigmalabs.io/library/dd644338-b5d7-45a8-995a-b72fa4be68d1)  
+   Link: <a href="https://enigmalabs.io/library/dd644338-b5d7-45a8-995a-b72fa4be68d1" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/dd644338-b5d7-45a8-995a-b72fa4be68d1</a>  
 
 4. <a id="endnote-4"></a>
    Source: usafaclasses.org  
-   Link: [https://www.usafaclasses.org/1964/Salas_Robert/history.htm](https://www.usafaclasses.org/1964/Salas_Robert/history.htm)  
+   Link: <a href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.usafaclasses.org/1964/Salas_Robert/history.htm</a>  
 
 5. <a id="endnote-5"></a>
    Source: unexplained-mysteries.com  
    Title: Unexplained Mysteries James Carlson  
-   Link: [https://www.unexplained-mysteries.com/column.php?id=195390](https://www.unexplained-mysteries.com/column.php?id=195390)  
+   Link: <a href="https://www.unexplained-mysteries.com/column.php?id=195390" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/column.php?id=195390</a>  
 
 6. <a id="endnote-6"></a>
    Source: wired.com  
    Title: Tinfoil Tuesdays: UFOs Neutered Nukes, Officers Claim  
-   Link: [https://www.wired.com/2010/09/tinfoil-tuesdays-ufos-neutered-nukes-air-force-officers-claim](https://www.wired.com/2010/09/tinfoil-tuesdays-ufos-neutered-nukes-air-force-officers-claim)  
+   Link: <a href="https://www.wired.com/2010/09/tinfoil-tuesdays-ufos-neutered-nukes-air-force-officers-claim" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/09/tinfoil-tuesdays-ufos-neutered-nukes-air-force-officers-claim</a>  
 
 7. <a id="endnote-7"></a>
    Source: timhebert.blogspot.com  
    Title: case closed re evaluation of echo  
-   Link: [https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html](https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html)  
+   Link: <a href="https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html" target="_blank" rel="noopener noreferrer nofollow">https://timhebert.blogspot.com/2011/07/case-closed-re-evaluation-of-echo.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: skeptoid.com  
-   Link: [https://skeptoid.com/episodes/842](https://skeptoid.com/episodes/842)  
+   Link: <a href="https://skeptoid.com/episodes/842" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/842</a>  
 
 9. <a id="endnote-9"></a>
    Source: unexplained-mysteries.com  
    Title: Unexplained Mysteries James Carlson  
-   Link: [https://www.unexplained-mysteries.com/column.php?id=176314](https://www.unexplained-mysteries.com/column.php?id=176314)  
+   Link: <a href="https://www.unexplained-mysteries.com/column.php?id=176314" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/column.php?id=176314</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Incidente di Malmstrom  
-   Link: [https://it.wikipedia.org/wiki/Incidente_di_Malmstrom](https://it.wikipedia.org/wiki/Incidente_di_Malmstrom)  
+   Link: <a href="https://it.wikipedia.org/wiki/Incidente_di_Malmstrom" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Malmstrom</a>  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: [https://en.wikipedia.org/wiki/UFO_reports_and_disinformation](https://en.wikipedia.org/wiki/UFO_reports_and_disinformation)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/341st_Missile_Wing](https://en.wikipedia.org/wiki/341st_Missile_Wing)  
+   Link: <a href="https://en.wikipedia.org/wiki/341st_Missile_Wing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/341st_Missile_Wing</a>  
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
    Title: 1967 malmstrom afb ufo incident how do i balance  
-   Link: [https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/](https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/)  
+   Link: <a href="https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/](https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/</a>  
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Title: 1967 malmstrom afb ufo incident how do i balance  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/1g9mibi/1967_malmstrom_afb_ufo_incident_how_do_i_balance/](https://www.reddit.com/r/HighStrangeness/comments/1g9mibi/1967_malmstrom_afb_ufo_incident_how_do_i_balance/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1g9mibi/1967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1g9mibi/1967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/](https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/fmeyld/the_unexplained_deactivated_nukes_incident_by/](https://www.reddit.com/r/ufo/comments/fmeyld/the_unexplained_deactivated_nukes_incident_by/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/fmeyld/the_unexplained_deactivated_nukes_incident_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/fmeyld/the_unexplained_deactivated_nukes_incident_by/</a>  
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1mlptfr/aaro_deputy_director_timothy_phillips_and_aaro/](https://www.reddit.com/r/UFOs/comments/1mlptfr/aaro_deputy_director_timothy_phillips_and_aaro/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1mlptfr/aaro_deputy_director_timothy_phillips_and_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1mlptfr/aaro_deputy_director_timothy_phillips_and_aaro/</a>  
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1l58uui/wsj_the_pentagon_disinformation_that_fueled/](https://www.reddit.com/r/UFOs/comments/1l58uui/wsj_the_pentagon_disinformation_that_fueled/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1l58uui/wsj_the_pentagon_disinformation_that_fueled/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1l58uui/wsj_the_pentagon_disinformation_that_fueled/</a>  
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
    Title: criticisms against robert salas maelstrom afb  
-   Link: [https://www.reddit.com/r/UFOs/comments/1166clb/criticisms_against_robert_salas_maelstrom_afb/](https://www.reddit.com/r/UFOs/comments/1166clb/criticisms_against_robert_salas_maelstrom_afb/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1166clb/criticisms_against_robert_salas_maelstrom_afb/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1166clb/criticisms_against_robert_salas_maelstrom_afb/</a>  
 
 23. <a id="endnote-23"></a>
    Source: kevinrandle.blogspot.com  
-   Link: [https://kevinrandle.blogspot.com/2023/03/the-belt-montana-ufo-sighting-and.html](https://kevinrandle.blogspot.com/2023/03/the-belt-montana-ufo-sighting-and.html)  
+   Link: <a href="https://kevinrandle.blogspot.com/2023/03/the-belt-montana-ufo-sighting-and.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2023/03/the-belt-montana-ufo-sighting-and.html</a>  
 
 24. <a id="endnote-24"></a>
    Source: kevinrandle.blogspot.com  
    Title: Coast to Coast  
-   Link: [https://kevinrandle.blogspot.com/2020/12/coast-to-coast-belt-montana-part-two.html](https://kevinrandle.blogspot.com/2020/12/coast-to-coast-belt-montana-part-two.html)  
+   Link: <a href="https://kevinrandle.blogspot.com/2020/12/coast-to-coast-belt-montana-part-two.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2020/12/coast-to-coast-belt-montana-part-two.html</a>  
 
 25. <a id="endnote-25"></a>
    Source: skeptoid.com  
    Title: Episode Guide  
-   Link: [https://skeptoid.com/episode_guide.php?cat=8](https://skeptoid.com/episode_guide.php?cat=8)  
+   Link: <a href="https://skeptoid.com/episode_guide.php?cat=8" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episode_guide.php?cat=8</a>  
 
 26. <a id="endnote-26"></a>
    Source: malmstrom.af.mil  
-   Link: [https://www.malmstrom.af.mil/About-Us/Fact-Sheets/Display/Article/346869/341st-missile-wing/](https://www.malmstrom.af.mil/About-Us/Fact-Sheets/Display/Article/346869/341st-missile-wing/)  
+   Link: <a href="https://www.malmstrom.af.mil/About-Us/Fact-Sheets/Display/Article/346869/341st-missile-wing/" target="_blank" rel="noopener noreferrer nofollow">https://www.malmstrom.af.mil/About-Us/Fact-Sheets/Display/Article/346869/341st-missile-wing/</a>  
 
 27. <a id="endnote-27"></a>
    Source: abcnews.com  
    Title: ABC News Former Airmen to Govt.: Come Clean on UFOs  
-   Link: [https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715](https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715)  
+   Link: <a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
 
 28. <a id="endnote-28"></a>
    Source: wsj.com  
    Title: ufo us disinformation 45376f7e  
-   Link: [https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e](https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e)  
+   Link: <a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e</a>  
 
 29. <a id="endnote-29"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Q2News/posts/malmstrom-air-force-base-in-montana-is-famous-in-ufo-lore-for-a-ufo-sighting-in-/10151385851064982/](https://www.facebook.com/Q2News/posts/malmstrom-air-force-base-in-montana-is-famous-in-ufo-lore-for-a-ufo-sighting-in-/10151385851064982/)  
+   Link: <a href="https://www.facebook.com/Q2News/posts/malmstrom-air-force-base-in-montana-is-famous-in-ufo-lore-for-a-ufo-sighting-in-/10151385851064982/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Q2News/posts/malmstrom-air-force-base-in-montana-is-famous-in-ufo-lore-for-a-ufo-sighting-in-/10151385851064982/</a>  
 
 31. <a id="endnote-31"></a>
    Source: malmstrom.af.mil  
-   Link: [https://www.malmstrom.af.mil/About-Us/History/](https://www.malmstrom.af.mil/About-Us/History/)  
+   Link: <a href="https://www.malmstrom.af.mil/About-Us/History/" target="_blank" rel="noopener noreferrer nofollow">https://www.malmstrom.af.mil/About-Us/History/</a>  
 
 32. <a id="endnote-32"></a>
    Source: minutemanmissile.com  
    Title: Wing I  
-   Link: [https://minutemanmissile.com/afbwing1.html](https://minutemanmissile.com/afbwing1.html)  
+   Link: <a href="https://minutemanmissile.com/afbwing1.html" target="_blank" rel="noopener noreferrer nofollow">https://minutemanmissile.com/afbwing1.html</a>  
 
 33. <a id="endnote-33"></a>
    Source: vetfriends.com  
    Title: 341st missile wing  
-   Link: [https://www.vetfriends.com/branches/air-force/units/341st-missile-wing](https://www.vetfriends.com/branches/air-force/units/341st-missile-wing)  
+   Link: <a href="https://www.vetfriends.com/branches/air-force/units/341st-missile-wing" target="_blank" rel="noopener noreferrer nofollow">https://www.vetfriends.com/branches/air-force/units/341st-missile-wing</a>  
 
 ### Additional References
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=10n29IRC8OU](https://www.youtube.com/watch?v=10n29IRC8OU)  
+   Link: <a href="https://www.youtube.com/watch?v=10n29IRC8OU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=10n29IRC8OU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Officer Who Saw UFOs Disable Nuclear Weapons | Robert Salas...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: The Air Force Officer Who Saw UFOs Disable Nuclear Weapons | Robert Salas  
-   Link: [https://www.youtube.com/watch?v=8bJZJzjwj70](https://www.youtube.com/watch?v=8bJZJzjwj70)  
+   Link: <a href="https://www.youtube.com/watch?v=8bJZJzjwj70" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8bJZJzjwj70</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom Incident | Episode 6 | When UFOs Shut Down Nuclear Missiles...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: The Malmstrom Incident | Episode 6 | When UFOs Shut Down Nuclear Missiles  
-   Link: [https://www.youtube.com/watch?v=cFJehKkZOVU](https://www.youtube.com/watch?v=cFJehKkZOVU)  
+   Link: <a href="https://www.youtube.com/watch?v=cFJehKkZOVU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cFJehKkZOVU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Malmstrom Incident! How a UFO Disabled 10 Nuclear Missiles...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
    Title: What Disabled Missiles at Malmstrom Air Force Base?  
-   Link: [https://www.youtube.com/watch?v=VgziDyPSUog](https://www.youtube.com/watch?v=VgziDyPSUog)  
+   Link: <a href="https://www.youtube.com/watch?v=VgziDyPSUog" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VgziDyPSUog</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom Air Force Base Missile Incident w/ Robert Salas - We Are Not Alone...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/unit/341MWPA](https://www.dvidshub.net/unit/341MWPA)  
+   Link: <a href="https://www.dvidshub.net/unit/341MWPA" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/unit/341MWPA</a>  
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/techtimespage/posts/a-wall-street-journal-investigation-reveals-that-the-us-department-of-defense-ha/702829679219440/](https://www.facebook.com/techtimespage/posts/a-wall-street-journal-investigation-reveals-that-the-us-department-of-defense-ha/702829679219440/)  
+   Link: <a href="https://www.facebook.com/techtimespage/posts/a-wall-street-journal-investigation-reveals-that-the-us-department-of-defense-ha/702829679219440/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/techtimespage/posts/a-wall-street-journal-investigation-reveals-that-the-us-department-of-defense-ha/702829679219440/</a>  
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/](https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/)  
+   Link: <a href="https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/</a>  
 
 41. <a id="endnote-41"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/27086614](https://www.jstor.org/stable/27086614)  
+   Link: <a href="https://www.jstor.org/stable/27086614" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/27086614</a>  
 
 42. <a id="endnote-42"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson](https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson)  
+   Link: <a href="https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/nypostvideo/posts/former-air-force-missile-officer-claims-ufos-disabled-nuclear-arsenal-at-montana/1221989743439747/](https://www.facebook.com/nypostvideo/posts/former-air-force-missile-officer-claims-ufos-disabled-nuclear-arsenal-at-montana/1221989743439747/)  
+   Link: <a href="https://www.facebook.com/nypostvideo/posts/former-air-force-missile-officer-claims-ufos-disabled-nuclear-arsenal-at-montana/1221989743439747/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nypostvideo/posts/former-air-force-missile-officer-claims-ufos-disabled-nuclear-arsenal-at-montana/1221989743439747/</a>

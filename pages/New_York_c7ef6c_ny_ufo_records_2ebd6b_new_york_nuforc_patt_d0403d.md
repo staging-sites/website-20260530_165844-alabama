@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /records-637b5f/
 nav_short_title: NUFORC Patterns
 title: What New York's UFO Database Really Measures
-title_full: What New York's UFO Database Really Measures | Records
+title_full: What New York's UFO Database Really Measures
 display_title_short: NUFORC Patterns
 display_title: NUFORC Patterns
 heading_title: What New York's UFO Database Really Measures
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:54:38'
-parent_title: What Do New York UFO Records Prove? | New York UFOs
+parent_title: What Do New York UFO Records Prove?
 parent_permalink: /records-637b5f/
 parent_nav_short_title: Records
 parent_heading_title: What Do New York UFO Records Prove?
@@ -250,11 +250,10 @@ image: /assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_nuforc_patt
 
 ## Introduction
 
-[New York]({{ 'what-really-happened-in-new-yorks-ufo/' | relative_url }})’s NUFORC reporting patterns are useful, but only if they are read for what they actually measure. The National UFO Reporting Center (NUFORC) database [records]({{ 'records-637b5f/' | relative_url }}) what people report seeing, where they report it, and when reporting activity rises or falls. It does not determine whether those sightings were genuinely anomalous. In that sense, the database is best understood as a map of witness behaviour and public perception rather than a catalogue of confirmed unexplained objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
+New York’s NUFORC reporting patterns are useful, but only if they are read for what they actually measure. The National UFO Reporting Center (NUFORC) database [records]({{ 'records-637b5f/' | relative_url }}) what people report seeing, where they report it, and when reporting activity rises or falls. It does not determine whether those sightings were genuinely anomalous. In that sense, the database is best understood as a map of witness behaviour and public perception rather than a catalogue of confirmed unexplained objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
 
-
-<img src="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_nuforc_patt_d0403d-Illustration-1-light.svg" | relative_url }}" alt="NUFORC Patterns illustration 1" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_nuforc_patt_d0403d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_nuforc_patt_d0403d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters because New York consistently ranks among the heavier-reporting states in the NUFORC archive, with more than 6,300 reports logged in the state index. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">NUFORCData Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span> The raw total can look dramatic, but a large reporting volume reflects many factors besides unusual aerial phenomena: population density, air traffic, media attention, local UFO traditions, dark-sky viewing conditions, and the ease of filing online reports. The reliability question is therefore not whether New York produces reports, but whether meaningful patterns can be separated from ordinary misidentifications and reporting biases.
+<img src="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_nuforc_patt_d0403d-Illustration-1-dark.svg" | relative_url }}" alt="NUFORC Patterns illustration 1" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_nuforc_patt_d0403d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_nuforc_patt_d0403d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+That distinction matters because New York consistently ranks among the heavier-reporting states in the NUFORC archive, with more than 6,300 reports logged in the state index. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span> The raw total can look dramatic, but a large reporting volume reflects many factors besides unusual aerial phenomena: population density, air traffic, media attention, local UFO traditions, dark-sky viewing conditions, and the ease of filing online reports. The reliability question is therefore not whether New York produces reports, but whether meaningful patterns can be separated from ordinary misidentifications and reporting biases.
 
 ## Why New York generates so many reports
 
@@ -274,7 +273,6 @@ The most reliable information in the NUFORC archive often comes not from individ
 
 Several New York regions appear repeatedly across decades of reporting:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The New York City metropolitan area.
@@ -292,7 +290,6 @@ The New York City region illustrates the problem clearly. High numbers of report
 The opposite issue appears in darker rural regions. Adirondack and upstate observers often have much better sky visibility. This can increase the number of reports involving satellites, meteors, planets, rocket launches visible from great distances, and astronomical events that urban observers rarely notice.
 
 Because of this, researchers usually treat clusters as leads rather than conclusions. A concentration of reports may indicate something worth investigating, but it cannot by itself establish that an unknown object was present.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6GgT2mjhpAg" title="What Did Steven Spielberg Get Right About UFO Encounters in the Cockpit? - Episode 317" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6GgT2mjhpAg" target="_blank" rel="noopener noreferrer">What Did Steven Spielberg Get Right About UFO Encounters in the Cockpit? - Episode 317</a></p><p class="youtube-embed-meta">Channel: Flight Safety Detectives &middot; Views: 2.9K &middot; Uploaded: February 2026 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6GgT2mjhpAg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6GgT2mjhpAg">Open on YouTube</a></p></div></div></div>
 
@@ -314,7 +311,6 @@ Despite its limitations, NUFORC remains valuable because it preserves informatio
 
 The database is particularly useful for identifying:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Long-term reporting trends.
@@ -326,21 +322,20 @@ The database is particularly useful for identifying:
 
 </div>
 
-It also preserves historical testimony. Some New York reports were filed years after the original sighting, creating a record that might never have entered official archives. The database therefore functions partly as a social and historical archive of unusual experiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationAugust 20, 2023 — NUFORC Reports by Location. LOCATION, REPORT COUNT. USA - Unspecified, 120... USA - Ne...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+It also preserves historical testimony. Some New York reports were filed years after the original sighting, creating a record that might never have entered official archives. The database therefore functions partly as a social and historical archive of unusual experiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORC Reports by LocationAugust 20, 2023 — NUFORC Reports by Location. LOCATION, REPORT COUNT. USA - Unspecified, 120... USA - Ne...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 Researchers can compare reports across time and location, looking for repeated descriptions or correlations with known events such as meteor showers, satellite launches, military exercises, or major media coverage.
 
 In this role, NUFORC serves as a useful starting point rather than a final authority.
 
-
-<img src="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_nuforc_patt_d0403d-Illustration-2-light.svg" | relative_url }}" alt="NUFORC Patterns illustration 2" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_nuforc_patt_d0403d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_nuforc_patt_d0403d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_nuforc_patt_d0403d-Illustration-2-dark.svg" | relative_url }}" alt="NUFORC Patterns illustration 2" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_nuforc_patt_d0403d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_nuforc_patt_d0403d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What makes the patterns less reliable
 
 Several factors reduce the reliability of broad conclusions drawn from the database.
 
 ### Self-selection bias
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationAugust 20, 2023 — NUFORC Reports by Location. LOCATION, REPORT COUNT. USA - Unspecified, 120... USA - Ne...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span> receives voluntary reports. People choose whether to submit them.
+<span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">NUFORC Reports by LocationAugust 20, 2023 — NUFORC Reports by Location. LOCATION, REPORT COUNT. USA - Unspecified, 120... USA - Ne...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span> receives voluntary reports. People choose whether to submit them.
 
 Most unusual lights are never reported. Some witnesses tell friends instead of investigators. Others may not know NUFORC exists. This means the database reflects reporting behaviour rather than the total number of sightings.
 
@@ -350,8 +345,7 @@ Entries range from detailed multi-witness narratives to a few brief sentences.
 
 Some reports contain times, directions, weather conditions, photographs, and duration estimates. Others provide almost no supporting information. A state-wide pattern combines both strong and weak reports together.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XKEf24q6adc" title="A UFO Hotspot in New York (Season 18) | Ancient Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XKEf24q6adc" target="_blank" rel="noopener noreferrer">A UFO Hotspot in New York (Season 18) | Ancient Aliens</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 84.5K &middot; Uploaded: February 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XKEf24q6adc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XKEf24q6adc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lTGJt7Gho0w" title="Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer">Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves</a></p><p class="youtube-embed-meta">Channel: iConnections &middot; Views: 262 &middot; Uploaded: April 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lTGJt7Gho0w">Open on YouTube</a></p></div></div></div>
 
 ### Media influence
 
@@ -369,8 +363,7 @@ Those reports may still be honest, but memory becomes less reliable over time. D
 
 The database openly contains reports later linked to aircraft, satellites, meteors, drones, balloons, astronomical objects, and optical effects. NUFORC itself emphasises that submitted reports are largely posted as received and should not automatically be treated as verified facts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">All NUFORC ReportsNew York, NY, USA, Rectangle. Open, 05/25/2026 23:00, Yates Center, KS, USA, Orb. Open, 05/25/2026 21:35, Wichita, KS...</span></span></span>
 
-
-<img src="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_nuforc_patt_d0403d-Illustration-3-light.svg" | relative_url }}" alt="NUFORC Patterns illustration 3" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_nuforc_patt_d0403d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_nuforc_patt_d0403d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_nuforc_patt_d0403d-Illustration-3-dark.svg" | relative_url }}" alt="NUFORC Patterns illustration 3" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_nuforc_patt_d0403d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b_new_york_nuforc_patt_d0403d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How researchers separate patterns from misidentifications
 
 The strongest investigations do not begin by asking whether a report sounds strange. They ask whether it survives elimination of ordinary explanations.
@@ -389,8 +382,7 @@ Useful filters include:
 
 Academic studies using large NUFORC datasets have attempted to correlate sightings with environmental factors including sky visibility, cloud cover, light pollution, and population density. These studies generally find that reporting patterns are influenced by ordinary observational conditions, even though some cases remain difficult to classify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">This research uses data from the National UFO Reporting Center (NUFORC) online. NUFORC was formed in 1974 and “...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u-2kGzR2-o0" title="Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u-2kGzR2-o0" target="_blank" rel="noopener noreferrer">Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK</a></p><p class="youtube-embed-meta">Channel: National Geographic UK &middot; Views: 1.2K &middot; Uploaded: January 2025 &middot; Length: 1 minute 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u-2kGzR2-o0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u-2kGzR2-o0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XKEf24q6adc" title="A UFO Hotspot in New York (Season 18) | Ancient Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XKEf24q6adc" target="_blank" rel="noopener noreferrer">A UFO Hotspot in New York (Season 18) | Ancient Aliens</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 84.5K &middot; Uploaded: February 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XKEf24q6adc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XKEf24q6adc">Open on YouTube</a></p></div></div></div>
 
 ## What New York's UFO database really measures
 
@@ -488,7 +480,7 @@ For anyone studying New York's UFO history, the NUFORC archive is therefore most
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -498,111 +490,36 @@ For anyone studying New York's UFO history, the NUFORC archive is therefore most
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -610,15 +527,15 @@ For anyone studying New York's UFO history, the NUFORC archive is therefore most
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -626,15 +543,15 @@ For anyone studying New York's UFO history, the NUFORC archive is therefore most
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4"><img src="https://i.ebayimg.com/images/g/Ab0AAeSwSx9p8OkA/s-l225.jpg" alt="Listing image for ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -642,15 +559,15 @@ For anyone studying New York's UFO history, the NUFORC archive is therefore most
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -658,7 +575,7 @@ For anyone studying New York's UFO history, the NUFORC archive is therefore most
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-patterns-what-new-york-s-ufo-database-really-measures-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-york-s-ufo-database-really-measures-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -735,17 +652,31 @@ For anyone studying New York's UFO history, the NUFORC archive is therefore most
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -758,42 +689,73 @@ For anyone studying New York's UFO history, the NUFORC archive is therefore most
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -808,12 +770,17 @@ For anyone studying New York's UFO history, the NUFORC archive is therefore most
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -823,133 +790,133 @@ For anyone studying New York's UFO history, the NUFORC archive is therefore most
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCData Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports by LocationAugust 20, 2023 — NUFORC Reports by Location. LOCATION, REPORT COUNT. USA - Unspecified, 120... USA - Ne...</p></details>
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationAugust 20, 2023 — NUFORC Reports by Location. LOCATION, REPORT COUNT. USA - Unspecified, 120... USA - Ne...</p></details>
    Published: August 20, 2023  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This research uses data from the National UFO Reporting Center (NUFORC) online. NUFORC was formed in 1974 and “...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: 1984 Hudson Valley UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings](https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings</a>  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=all](https://nuforc.org/subndx/?id=all)  
+   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>All NUFORC ReportsNew York, NY, USA, Rectangle. Open, 05/25/2026 23:00, Yates Center, KS, USA, Orb. Open, 05/25/2026 21:35, Wichita, KS...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lNY](https://nuforc.org/subndx/?id=lNY)  
+   Link: <a href="https://nuforc.org/subndx/?id=lNY" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State NYNUFORC Reports for State NY.; Open, 11/04/2025 18:00, Glen Cove, NY, USA; Open, 11/04/2025 18:00, New York...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=197423](https://nuforc.org/sighting/?id=197423)  
+   Link: <a href="https://nuforc.org/sighting/?id=197423" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197423</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1974239 May 2026 — NUFORC UFO Sighting 197423. Occurred: 2026-05-01 15:30 Local Reported: 2026-05-03 12:37 Pacific Du...</p></details>
    Published: May 1, 2026  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
    Title: report a ufo  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>File a UFO Report | NUFORCThe Center&#x27;s hotline at 206-722-3000 is generally reserved for recent UFO reports. However, brief queries may b...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
    Title: drone flap  
-   Link: [https://nuforc.org/drone_flap/](https://nuforc.org/drone_flap/)  
+   Link: <a href="https://nuforc.org/drone_flap/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/drone_flap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Great “Drone” Flap of 2024 | NUFORC22 Dec 2024 — We have received 65 new reports of objects conforming to the general “drone” descrip...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: [https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/](https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/)  
+   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Essex Police can report the following information regarding recorded UFO incidents between 2014 and 2024 from previous FOI disclosures.Re...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: cuny.manifoldapp.org  
    Title: national ufo reporting center  
-   Link: [https://cuny.manifoldapp.org/read/national-ufo-reporting-center](https://cuny.manifoldapp.org/read/national-ufo-reporting-center)  
+   Link: <a href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/national-ufo-reporting-center</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reporting Center2 Apr 2025 — In this way, the project acts as a space for collective memory and emotional processing, where recording...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: foxnews.com  
    Title: NUFORC documents 66 unexplained aerial  
-   Link: [https://www.foxnews.com/us/over-60-ufo-sightings-reported-whizzing-across-state-first-half-2025-national-tracking-group-says](https://www.foxnews.com/us/over-60-ufo-sightings-reported-whizzing-across-state-first-half-2025-national-tracking-group-says)  
+   Link: <a href="https://www.foxnews.com/us/over-60-ufo-sightings-reported-whizzing-across-state-first-half-2025-national-tracking-group-says" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/over-60-ufo-sightings-reported-whizzing-across-state-first-half-2025-national-tracking-group-says</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New York residents report 66 UAP sightings in first half of...7 Jul 2025 — Over 60 UFO sightings reported whizzing across state in first...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BigFrog104/posts/ufo-sightings-in-new-york-are-on-the-rise-66-mysterious-objects-have-been-spotte/1286692886793929/](https://www.facebook.com/BigFrog104/posts/ufo-sightings-in-new-york-are-on-the-rise-66-mysterious-objects-have-been-spotte/1286692886793929/)  
+   Link: <a href="https://www.facebook.com/BigFrog104/posts/ufo-sightings-in-new-york-are-on-the-rise-66-mysterious-objects-have-been-spotte/1286692886793929/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BigFrog104/posts/ufo-sightings-in-new-york-are-on-the-rise-66-mysterious-objects-have-been-spotte/1286692886793929/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in New York are on the rise, 66 mysterious...UFO sightings in New York are on the rise, 66 mysterious objects have been sp...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: researchers recently analyzed data available on the national ufo reporting cente  
-   Link: [https://www.facebook.com/statenislandadvance/posts/researchers-recently-analyzed-data-available-on-the-national-ufo-reporting-cente/1419936793505694/](https://www.facebook.com/statenislandadvance/posts/researchers-recently-analyzed-data-available-on-the-national-ufo-reporting-cente/1419936793505694/)  
+   Link: <a href="https://www.facebook.com/statenislandadvance/posts/researchers-recently-analyzed-data-available-on-the-national-ufo-reporting-cente/1419936793505694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/statenislandadvance/posts/researchers-recently-analyzed-data-available-on-the-national-ufo-reporting-cente/1419936793505694/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers recently analyzed data available on the...Remember that 1984 Hudson Valley UFO sighting? Literally... NUFORC says 81 UFO si...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: cs.ubc.ca  
-   Link: [https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf](https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf)  
+   Link: <a href="https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Want to Believe: A Visualization of UFO Siting Reportsby TSH Guillou — In this work we present an interactive visualization tool for exam...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/](https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I analyzed 80000 UFO sightings from the NUFORC databaseA clear linear trend of sightings increased from 1995 - 2005. Then it peaks and st...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: enigmaticideas.com  
    Title: finding patterns in 152 000 ufo uap sightings  
-   Link: [https://enigmaticideas.com/finding-patterns-in-152-000-ufo-uap-sightings/](https://enigmaticideas.com/finding-patterns-in-152-000-ufo-uap-sightings/)  
+   Link: <a href="https://enigmaticideas.com/finding-patterns-in-152-000-ufo-uap-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://enigmaticideas.com/finding-patterns-in-152-000-ufo-uap-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Finding Patterns in 152,000 UFO/UAP Sightings5 Jan 2026 — I analyzed 152000 UFO sighting reports. Some patterns: triangles almost never a...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40katie.lazell/more-than-meets-the-eye-unsupervised-learning-on-ufo-reports-part-i-f1f5320cc244](https://medium.com/%40katie.lazell/more-than-meets-the-eye-unsupervised-learning-on-ufo-reports-part-i-f1f5320cc244)  
+   Link: <a href="https://medium.com/%40katie.lazell/more-than-meets-the-eye-unsupervised-learning-on-ufo-reports-part-i-f1f5320cc244" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40katie.lazell/more-than-meets-the-eye-unsupervised-learning-on-ufo-reports-part-i-f1f5320cc244</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ports since the 70s, their dataset includes historical...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/145013068/James_Orion_Report_A_Comprehensive_Analysis_of_High_Reliable_UFO_Cases](https://www.academia.edu/145013068/James_Orion_Report_A_Comprehensive_Analysis_of_High_Reliable_UFO_Cases)  
+   Link: <a href="https://www.academia.edu/145013068/James_Orion_Report_A_Comprehensive_Analysis_of_High_Reliable_UFO_Cases" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/145013068/James_Orion_Report_A_Comprehensive_Analysis_of_High_Reliable_UFO_Cases</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ial phenomena (UAP) cases spanning multiple decades...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/hippieaddicted/posts/4100483376914489/](https://www.facebook.com/groups/hippieaddicted/posts/4100483376914489/)  
+   Link: <a href="https://www.facebook.com/groups/hippieaddicted/posts/4100483376914489/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/hippieaddicted/posts/4100483376914489/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>York during the first six months of the year...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=lTGJt7Gho0w](https://www.youtube.com/watch?v=lTGJt7Gho0w)  
+   Link: <a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lTGJt7Gho0w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 285 - The Hudson Valley UFO Sightings...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: The Global Threat (Full Episode) | UFOs: Investigating the Unknown  
-   Link: [https://www.youtube.com/watch?v=6GgT2mjhpAg](https://www.youtube.com/watch?v=6GgT2mjhpAg)  
+   Link: <a href="https://www.youtube.com/watch?v=6GgT2mjhpAg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6GgT2mjhpAg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK...</p></details>

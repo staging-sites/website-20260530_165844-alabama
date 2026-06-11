@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /connecticut-ufos-from-colonial-legends/
 nav_short_title: Hudson Valley Flap
 title: 'Fairfield County UFOs: The Hudson Valley Boomerang Flap'
-title_full: 'Fairfield County UFOs: The Hudson Valley Boomerang Flap | Connecticut UFOs'
+title_full: 'Fairfield County UFOs: The Hudson Valley Boomerang Flap'
 display_title_short: Hudson Valley Flap
 display_title: Hudson Valley Flap
 heading_title: 'Fairfield County UFOs: The Hudson Valley Boomerang Flap'
@@ -262,8 +262,7 @@ image: /assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-overview-so
 
 ## Introduction
 
-In the early 1980s, Fairfield County, [Connecticut]({{ 'connecticut-ufos-from-colonial-legends/' | relative_url }}), became part of one of the most widely reported aerial sighting episodes in northeastern U.S. UFO history — the **Hudson Valley “boomerang” flap**. Across 1983 and 1984, hundreds of residents in western Connecticut towns such as Danbury, New Fairfield and Ridgefield reported seeing large, silent, V‑shaped or boomerang‑like objects in the night sky, often with bright white, red and green lights. These sightings were closely linked with similar reports across the adjoining Hudson Valley of New York and have since come to be collectively known as the **Westchester Boomerang** phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
-
+In the early 1980s, Fairfield County, Connecticut, became part of one of the most widely reported aerial sighting episodes in northeastern U.S. UFO history — the **Hudson Valley “boomerang” flap**. Across 1983 and 1984, hundreds of residents in western Connecticut towns such as Danbury, New Fairfield and Ridgefield reported seeing large, silent, V‑shaped or boomerang‑like objects in the night sky, often with bright white, red and green lights. These sightings were closely linked with similar reports across the adjoining Hudson Valley of New York and have since come to be collectively known as the **Westchester Boomerang** phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
 <img src="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-overview.webp" | relative_url }}" alt="Overview image for Hudson Valley Flap" loading="eager" decoding="sync" fetchpriority="high">
 ## Fairfield County Sightings During the Flap
@@ -276,8 +275,7 @@ One contemporaneous summary in *Connecticut Magazine* noted “hundreds of UFOs�
 
 Eyewitness data collected by civilian researchers at the time suggested that the Fairfield County component of the flap tended to follow the Interstate 84 corridor eastward from sightings first reported north of the state line. One author investigating the episode later remarked that sightings in **Danbury** seemed to be “the missing piece” needed to understand how the phenomenon moved across state boundaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newstimes.com/local/article/Author-seeks-info-on-UFO-sightings-in-1983-9963803.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newstimes.com">[News-Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newstimes.com</span><span class="citation-popover-title">Author seeks info on UFO sightings in 1983 9963803</span><span class="citation-popover-snippet">News-TimesAuthor to seek info on area UFO sightings in 1983October 12, 2016 — 12 Oct 2016 — Zimmermann has organized a UFO conference Sat...</span><span class="citation-popover-meta">Published: October 12, 2016</span></span></span>
 
-
-<img src="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-1-light.svg" | relative_url }}" alt="Hudson Valley Flap illustration 1" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-1-dark.svg" | relative_url }}" alt="Hudson Valley Flap illustration 1" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Common Descriptions and Patterns
 
 Across Fairfield County reports, witnesses often described:
@@ -287,7 +285,6 @@ Across Fairfield County reports, witnesses often described:
 * Sightings that lasted several minutes, with some observers claiming to see them **glide without sound** overhead before disappearing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
 
 While specific individual reports from Fairfield County towns are not as comprehensively archived in mainstream sources as those from the Hudson Valley in New York, regional media reporting at the time picked up enough calls and local accounts to establish that Connecticut observers were seeing essentially the same phenomenon described on the New York side of the border. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3tmIQmUDVtY" title="Ancient Aliens: UFO Invasion in New York&#x27;s Hudson Valley (Season 19) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3tmIQmUDVtY" target="_blank" rel="noopener noreferrer">Ancient Aliens: UFO Invasion in New York&#x27;s Hudson Valley (Season 19) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 360.7K &middot; Uploaded: February 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3tmIQmUDVtY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3tmIQmUDVtY">Open on YouTube</a></p></div></div></div>
 
@@ -301,8 +298,7 @@ One widely cited explanation by law enforcement and aviation officials was that 
 
 According to this account, the aircraft, whose undersides were painted dark to reduce their visible silhouette, would switch navigation and beacon lights in ways that could mimic structural edges or patterns, creating illusions of silent, massive shapes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
-
-<img src="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-2-light.svg" | relative_url }}" alt="Hudson Valley Flap illustration 2" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-2-dark.svg" | relative_url }}" alt="Hudson Valley Flap illustration 2" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Limitations of the Aircraft Explanation
 
 While the pilot‑formation explanation accounts for many of the **typical light‑formation sightings**, several points were raised by researchers and some eyewitnesses that challenged its completeness:
@@ -312,7 +308,6 @@ While the pilot‑formation explanation accounts for many of the **typical light
 * There was a **high density of reports** over multiple nights, leading some civilian investigators to argue that not all sightings could be attributed solely to formation flights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
 
 These disagreements between official explanations and portions of the eyewitness record fuelled ongoing debate about how to interpret the Fairfield County component of the flap.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0mMgZc0ntq8" title="Unsolved Mysteries with Dennis Farina - Season 1 Episode 20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0mMgZc0ntq8" target="_blank" rel="noopener noreferrer">Unsolved Mysteries with Dennis Farina - Season 1 Episode 20</a></p><p class="youtube-embed-meta">Channel: Unsolved Mysteries - Full Episodes &middot; Views: 272.4K &middot; Uploaded: February 2017 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0mMgZc0ntq8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0mMgZc0ntq8">Open on YouTube</a></p></div></div></div>
 
@@ -326,8 +321,7 @@ Although few **authenticated photographs** of the Fairfield County sightings fro
 
 In later years, a handful of former witnesses and local investigators recounted experiences from across western Connecticut, describing similar silhouettes and light arrangements that matched the core descriptions associated with the Hudson Valley boomerang. While such recollections must be treated cautiously, they do reinforce that **Fairfield County was part of the regional pattern** rather than a peripheral afterthought. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">Examining some of Connecticut s most spectacular 17046013</span><span class="citation-popover-snippet">1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</span></span></span>
 
-
-<img src="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-3-light.svg" | relative_url }}" alt="Hudson Valley Flap illustration 3" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-3-dark.svg" | relative_url }}" alt="Hudson Valley Flap illustration 3" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Fairfield County Reports Mean in Context
 
 Within Connecticut’s broader UFO history, the Fairfield County reports during the Hudson Valley flap occupy an important place for several reasons:
@@ -338,9 +332,7 @@ Within Connecticut’s broader UFO history, the Fairfield County reports during 
 
 Taken together, the Fairfield County sightings of the Hudson Valley boomerang period remain a significant regional chapter in Connecticut’s UFO record — not as isolated curiosities, but as part of one of the 20th century’s most discussed mass sighting episodes in the northeastern United States. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Bkb76gXx2DM" title="Alien Hunters SUMMON An Alien &amp; Record The Encounter | Alien Invasion: Hudson Valley" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Bkb76gXx2DM" target="_blank" rel="noopener noreferrer">Alien Hunters SUMMON An Alien &amp; Record The Encounter | Alien Invasion: Hudson Valley</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 15.8K &middot; Uploaded: August 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Bkb76gXx2DM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Bkb76gXx2DM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -764,24 +756,24 @@ Taken together, the Fairfield County sightings of the Hudson Valley boomerang pe
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: 1984 Hudson Valley UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings](https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings</a>  
 
 2. <a id="endnote-2"></a>
    Source: ctinsider.com  
    Title: Examining some of Connecticut s most spectacular 17046013  
-   Link: [https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php](https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php)  
+   Link: <a href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1983 and 1984, people reported hundreds of UFOs in the skies above Connecticut. The sightings primarily took place in Fairfield County an...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: newstimes.com  
    Title: Author seeks info on UFO sightings in 1983 9963803  
-   Link: [https://www.newstimes.com/local/article/Author-seeks-info-on-UFO-sightings-in-1983-9963803.php](https://www.newstimes.com/local/article/Author-seeks-info-on-UFO-sightings-in-1983-9963803.php)  
+   Link: <a href="https://www.newstimes.com/local/article/Author-seeks-info-on-UFO-sightings-in-1983-9963803.php" target="_blank" rel="noopener noreferrer nofollow">https://www.newstimes.com/local/article/Author-seeks-info-on-UFO-sightings-in-1983-9963803.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>News-TimesAuthor to seek info on area UFO sightings in 1983October 12, 2016 — 12 Oct 2016 — Zimmermann has organized a UFO conference Sat...</p></details>
    Published: October 12, 2016  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=30979](https://nuforc.org/sighting/?id=30979)  
+   Link: <a href="https://nuforc.org/sighting/?id=30979" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=30979</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 30979August 28, 2003 — NUFORC UFO SIGHTING 30979 Occurred: 1983-09-15 21:00 Local - Approximate Reported: 2003-08-27...</p></details>
    Published: August 27, 2003  
 
@@ -789,60 +781,60 @@ Taken together, the Fairfield County sightings of the Hudson Valley boomerang pe
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MjP.Video.1029/videos/the-hudson-valley-ufo-flap-of-the-1980s-more-than-25000-people-reported-seeing-a/662169183174768/](https://www.facebook.com/MjP.Video.1029/videos/the-hudson-valley-ufo-flap-of-the-1980s-more-than-25000-people-reported-seeing-a/662169183174768/)  
+   Link: <a href="https://www.facebook.com/MjP.Video.1029/videos/the-hudson-valley-ufo-flap-of-the-1980s-more-than-25000-people-reported-seeing-a/662169183174768/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MjP.Video.1029/videos/the-hudson-valley-ufo-flap-of-the-1980s-more-than-25000-people-reported-seeing-a/662169183174768/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hudson Valley UFO Flap Of The 1980s More than 25,000...The Hudson Valley UFO Flap Of The 1980s More than 25,000 people reported seei...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
    Title: the westchester boomerangby justin santorothe westchester boomerang was a ufo si  
-   Link: [https://www.facebook.com/hudsonrivervalleyinstitute/photos/the-westchester-boomerangby-justin-santorothe-westchester-boomerang-was-a-ufo-si/1438841598271897/](https://www.facebook.com/hudsonrivervalleyinstitute/photos/the-westchester-boomerangby-justin-santorothe-westchester-boomerang-was-a-ufo-si/1438841598271897/)  
+   Link: <a href="https://www.facebook.com/hudsonrivervalleyinstitute/photos/the-westchester-boomerangby-justin-santorothe-westchester-boomerang-was-a-ufo-si/1438841598271897/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hudsonrivervalleyinstitute/photos/the-westchester-boomerangby-justin-santorothe-westchester-boomerang-was-a-ufo-si/1438841598271897/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Westchester Boomerang UFO sightings in New York and...The Hudson Valley UFO sightings occurred between 1983 and 1984, primarily in Westc...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
    Title: the westchester boomerangby justin santorothe westchester boomerang was a ufo si  
-   Link: [https://www.facebook.com/hudsonrivervalleyinstitute/posts/the-westchester-boomerangby-justin-santorothe-westchester-boomerang-was-a-ufo-si/1438841638271893/](https://www.facebook.com/hudsonrivervalleyinstitute/posts/the-westchester-boomerangby-justin-santorothe-westchester-boomerang-was-a-ufo-si/1438841638271893/)  
+   Link: <a href="https://www.facebook.com/hudsonrivervalleyinstitute/posts/the-westchester-boomerangby-justin-santorothe-westchester-boomerang-was-a-ufo-si/1438841638271893/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hudsonrivervalleyinstitute/posts/the-westchester-boomerangby-justin-santorothe-westchester-boomerang-was-a-ufo-si/1438841638271893/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Westchester Boomerang By Justin Santoro...The Hudson Valley UFO sightings occurred between 1983 and 1984, primarily in Westchester...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/wczg9n/the_hudson_valley_ufo_sightings/](https://www.reddit.com/r/UnresolvedMysteries/comments/wczg9n/the_hudson_valley_ufo_sightings/)  
+   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/wczg9n/the_hudson_valley_ufo_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/wczg9n/the_hudson_valley_ufo_sightings/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Throughout the 1980s, thousands of people reported seeing a huge, triangular object in the sky in the Hudson...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler](https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler)  
+   Link: <a href="https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This book is written with the purpose of placing focus on triangular UFO sighting reports...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ctpost.com  
    Title: Revisiting mass UFO sightings in Danbury 11100682  
-   Link: [https://www.ctpost.com/local/article/Revisiting-mass-UFO-sightings-in-Danbury-11100682.php](https://www.ctpost.com/local/article/Revisiting-mass-UFO-sightings-in-Danbury-11100682.php)  
+   Link: <a href="https://www.ctpost.com/local/article/Revisiting-mass-UFO-sightings-in-Danbury-11100682.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctpost.com/local/article/Revisiting-mass-UFO-sightings-in-Danbury-11100682.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting mass UFO sightings in Danbury26 Apr 2017 — A military aerospace historian will revisit the 1980s UFO sightings in greater Danb...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: lionsberg.wiki  
    Title: history. Centered around the Hudson Valley region  
-   Link: [https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_hudson_valley_ufo_wave_%281980s%29](https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_hudson_valley_ufo_wave_%281980s%29)  
+   Link: <a href="https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_hudson_valley_ufo_wave_%281980s%29" target="_blank" rel="noopener noreferrer nofollow">https://lionsberg.wiki/lionsberg_wiki_books/the_cosmic_chronicles/the_hudson_valley_ufo_wave_%281980s%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hudson Valley UFO Wave (1980s) — Lionsberg WikiMay 3, 2026 — THE HUDSON VALLEY UFO WAVE (1980S) Summary: The Hudson Valley UFO Wave...</p></details>
    Published: May 3, 2026  
 
 12. <a id="endnote-12"></a>
    Source: inverse.com  
    Title: Why 3 of the best cases for UFOs might not be in the Pentagon report  
-   Link: [https://www.inverse.com/science/three-ufo-sightings-defy-explanation](https://www.inverse.com/science/three-ufo-sightings-defy-explanation)  
+   Link: <a href="https://www.inverse.com/science/three-ufo-sightings-defy-explanation" target="_blank" rel="noopener noreferrer nofollow">https://www.inverse.com/science/three-ufo-sightings-defy-explanation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1. HUDSON VALLEY, 1983-1986 Something weird was afoot in the Hudson Valley in the mid-1980...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: wikidisc.org  
    Title: 1984 Hudson Valley UFO sightings  
-   Link: [https://www.wikidisc.org/wiki/1984_Hudson_Valley_UFO_sightings](https://www.wikidisc.org/wiki/1984_Hudson_Valley_UFO_sightings)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WikiDiscJanuary 1, 1984 — 1984 HUDSON VALLEY UFO SIGHTINGS [Input] Add languages Add links * Page * Discussion [Input] English * Read * E...</p></details>
+   Link: <a href="https://www.wikidisc.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidisc.org/wiki/1984_Hudson_Valley_UFO_sightings</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 1984 — 1984 HUDSON VALLEY UFO SIGHTINGS [Input] Add languages Add links * Page * Discussion [Input] English * Read * E...</p></details>
    Published: January 1, 1984  
 
 14. <a id="endnote-14"></a>
    Source: uapinvestigations.com  
    Title: hudson valley 1982 1985 ufo wave  
-   Link: [https://uapinvestigations.com/hudson-valley-1982-1985-ufo-wave/](https://uapinvestigations.com/hudson-valley-1982-1985-ufo-wave/)  
+   Link: <a href="https://uapinvestigations.com/hudson-valley-1982-1985-ufo-wave/" target="_blank" rel="noopener noreferrer nofollow">https://uapinvestigations.com/hudson-valley-1982-1985-ufo-wave/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hudson Valley 1982-1985 UFO WaveFebruary 22, 2026 — By UAPI Admin in cases — 22 Feb 2026 HUDSON VALLEY 1982-1985 UFO WAVE Thousands of wi...</p></details>
-   Published: February 22, 2026  
+   Published: February 22, 2026

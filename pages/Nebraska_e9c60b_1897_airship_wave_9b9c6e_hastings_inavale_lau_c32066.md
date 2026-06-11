@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /airship-wave-089275/
 nav_short_title: First Reports
 title: How Nebraska's airship story took off
-title_full: How Nebraska's airship story took off | Airship Wave
+title_full: How Nebraska's airship story took off
 display_title_short: First Reports
 display_title: First Reports
 heading_title: How Nebraska's airship story took off
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:44:58'
-parent_title: Nebraska's Airship Mystery Before Flying Saucers | Nebraska UFOs
+parent_title: Nebraska's Airship Mystery Before Flying Saucers
 parent_permalink: /airship-wave-089275/
 parent_nav_short_title: Airship Wave
 parent_heading_title: Nebraska's Airship Mystery Before Flying Saucers
@@ -250,10 +250,9 @@ image: /assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hastings_inavale_
 
 ## Introduction
 
-The Hastings and Inavale reports of February 1897 are the point at which [Nebraska]({{ 'what-really-happened-in-nebraskas-ufo/' | relative_url }})’s famous [airship wave]({{ 'airship-wave-089275/' | relative_url }}) stopped being a vague rumour and became a recognisable story. What began as a report of an unusual light near Hastings quickly developed into a far more detailed account near Inavale, complete with descriptions of structure, lights, engines and apparent occupants. Within only a few days, newspapers had transformed a strange nocturnal sighting into something that sounded like a mechanical flying craft. That rapid evolution is one reason these early reports remain important in Nebraska’s UFO history. They show how a sighting can gather detail, certainty and narrative force as it moves through witnesses, reporters and competing newspapers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">Nebraska State Historical Society“This Mysterious Light Called an Airship”: Nebraska Saucer...January 2, 2020 — 2 Jan 2020 — On February...</span><span class="citation-popover-meta">Published: January 2, 2020</span></span></span>
+The Hastings and Inavale reports of February 1897 are the point at which Nebraska’s famous [airship wave]({{ 'airship-wave-089275/' | relative_url }}) stopped being a vague rumour and became a recognisable story. What began as a report of an unusual light near Hastings quickly developed into a far more detailed account near Inavale, complete with descriptions of structure, lights, engines and apparent occupants. Within only a few days, newspapers had transformed a strange nocturnal sighting into something that sounded like a mechanical flying craft. That rapid evolution is one reason these early reports remain important in Nebraska’s UFO history. They show how a sighting can gather detail, certainty and narrative force as it moves through witnesses, reporters and competing newspapers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">Nebraska State Historical Society“This Mysterious Light Called an Airship”: Nebraska Saucer...January 2, 2020 — 2 Jan 2020 — On February...</span><span class="citation-popover-meta">Published: January 2, 2020</span></span></span>
 
-
-<img src="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hastings_inavale_lau_c32066-Illustration-1-light.svg" | relative_url }}" alt="First Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hastings_inavale_lau_c32066-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hastings_inavale_lau_c32066-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hastings_inavale_lau_c32066-Illustration-1-dark.svg" | relative_url }}" alt="First Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hastings_inavale_lau_c32066-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hastings_inavale_lau_c32066-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key question is not whether an airship really flew over south-central Nebraska in February 1897. The more revealing question is how the story changed between Hastings and Inavale, and what those changes suggest about evidence, expectation and newspaper culture at the start of the wider airship wave. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">Nebraska State Historical Society“This Mysterious Light Called an Airship”: Nebraska Saucer...January 2, 2020 — 2 Jan 2020 — On February...</span><span class="citation-popover-meta">Published: January 2, 2020</span></span></span>
 
 ## What the Hastings report actually claimed
@@ -265,7 +264,6 @@ What stands out is how little physical description was initially available. The 
 Even in the first days, newspapers reacted in different ways. Some treated the report as a curiosity worth following. Others mocked it. One Nebraska paper joked that the Hastings observers must have been drinking unusually powerful liquor. Such responses show that scepticism appeared immediately rather than emerging only in later historical analysis. The mystery was newsworthy, but it was not universally believed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">Nebraska State Historical Society“This Mysterious Light Called an Airship”: Nebraska Saucer...January 2, 2020 — 2 Jan 2020 — On February...</span><span class="citation-popover-meta">Published: January 2, 2020</span></span></span>
 
 Another revealing feature is the language of anticipation. The report noted that residents were watching for the object's return. Once a community begins expecting another appearance, later observations can become shaped by that expectation. The Hastings story therefore acted as a trigger: it encouraged people across the region to look into the night sky for confirmation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">Nebraska State Historical Society“This Mysterious Light Called an Airship”: Nebraska Saucer...January 2, 2020 — 2 Jan 2020 — On February...</span><span class="citation-popover-meta">Published: January 2, 2020</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/czLMPr8BtPc" title="Mysterious Airships Over America:1897! Rare Photos and Information. No Ai!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=czLMPr8BtPc" target="_blank" rel="noopener noreferrer">Mysterious Airships Over America:1897! Rare Photos and Information. No Ai!</a></p><p class="youtube-embed-meta">Channel: Mysterious Mr. S &middot; Views: 21.7K &middot; Uploaded: January 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=czLMPr8BtPc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=czLMPr8BtPc">Open on YouTube</a></p></div></div></div>
 
@@ -279,12 +277,10 @@ The prayer-meeting detail is particularly significant. Roger Welsch noted that t
 
 The Inavale account also reflects the technological imagination of the 1890s. Newspapers and inventors were already discussing the possibility of practical airships. Readers were therefore primed to interpret unusual lights as experimental flying machines rather than supernatural omens. Once the Hastings report introduced the idea, later observers and reporters had a ready-made framework into which new observations could fit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">Nebraska State Historical Society“This Mysterious Light Called an Airship”: Nebraska Saucer...January 2, 2020 — 2 Jan 2020 — On February...</span><span class="citation-popover-meta">Published: January 2, 2020</span></span></span>
 
-
-<img src="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hastings_inavale_lau_c32066-Illustration-2-light.svg" | relative_url }}" alt="First Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hastings_inavale_lau_c32066-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hastings_inavale_lau_c32066-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hastings_inavale_lau_c32066-Illustration-2-dark.svg" | relative_url }}" alt="First Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hastings_inavale_lau_c32066-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hastings_inavale_lau_c32066-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How a light became an airship
 
 The shift from Hastings to Inavale illustrates a pattern that appears repeatedly in UFO history.
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -298,9 +294,7 @@ The shift from Hastings to Inavale illustrates a pattern that appears repeatedly
 
 This does not automatically mean the witnesses invented what they saw. It does mean that later accounts emerged in an environment where people already knew what an “airship” was supposed to look like. The distinction matters because the historical evidence comes almost entirely through newspapers rather than through independent investigations, photographs or physical traces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">Nebraska State Historical Society“This Mysterious Light Called an Airship”: Nebraska Saucer...January 2, 2020 — 2 Jan 2020 — On February...</span><span class="citation-popover-meta">Published: January 2, 2020</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DoJUsaTknNw" title="Airship Mystery of 1896 and 1897 (Mystery Airships, UFOs) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DoJUsaTknNw" target="_blank" rel="noopener noreferrer">Airship Mystery of 1896 and 1897 (Mystery Airships, UFOs) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 17.6K &middot; Uploaded: October 2023 &middot; Length: 1 hour 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DoJUsaTknNw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DoJUsaTknNw">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hastings_inavale_lau_c32066-Illustration-3-dark.svg" | relative_url }}" alt="First Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hastings_inavale_lau_c32066-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hastings_inavale_lau_c32066-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What early details suggest about evidence and embellishment
 
 Modern readers often focus on the most dramatic parts of the Inavale story: the lights, wings, engine noises and laughter. Yet those are also the elements most vulnerable to exaggeration or embellishment. The reports survive largely because newspapers reproduced them, and late nineteenth-century journalism frequently mixed factual reporting with humour, speculation and sensational storytelling. Nebraska editors were competing for readers, and an airship mystery provided excellent copy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">Nebraska State Historical Society“This Mysterious Light Called an Airship”: Nebraska Saucer...January 2, 2020 — 2 Jan 2020 — On February...</span><span class="citation-popover-meta">Published: January 2, 2020</span></span></span>
@@ -311,17 +305,13 @@ There is also a striking contrast between the two reports. The Hastings sighting
 
 That tension explains why the launch phase of Nebraska’s airship wave remains historically valuable. The records allow readers to watch a mystery taking shape almost in real time. Rather than beginning with a fully formed flying machine, the story evolved from scattered observations into a detailed airborne narrative over the course of a few newspaper editions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">Nebraska State Historical Society“This Mysterious Light Called an Airship”: Nebraska Saucer...January 2, 2020 — 2 Jan 2020 — On February...</span><span class="citation-popover-meta">Published: January 2, 2020</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FwveFW5mfzU" title="The Phantom Airships of 1890s America" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FwveFW5mfzU" target="_blank" rel="noopener noreferrer">The Phantom Airships of 1890s America</a></p><p class="youtube-embed-meta">Channel: Historical Blindness &middot; Views: 35 &middot; Uploaded: July 2025 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FwveFW5mfzU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FwveFW5mfzU">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hastings_inavale_lau_c32066-Illustration-3-light.svg" | relative_url }}" alt="First Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hastings_inavale_lau_c32066-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_1897_airship_wave_9b9c6e_hastings_inavale_lau_c32066-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why these first reports mattered to the wider wave
 
 The Hastings and Inavale sightings did more than generate local curiosity. They established the template for hundreds of later airship reports across Nebraska and the wider Midwest. The combination of a bright light, unusual manoeuvres, mechanical details and apparently respectable witnesses became a recurring formula. Newspapers in other towns could compare new sightings against an existing model, making the story easier to repeat and expand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">Nebraska State Historical Society“This Mysterious Light Called an Airship”: Nebraska Saucer...January 2, 2020 — 2 Jan 2020 — On February...</span><span class="citation-popover-meta">Published: January 2, 2020</span></span></span>
 
 For Nebraska’s UFO history, these reports matter because they reveal the beginning of a process rather than a single unexplained event. The launch of the 1897 wave was not marked by overwhelming evidence. Instead, it emerged from a sequence of reports that became progressively richer as they spread. Hastings supplied the mystery. Inavale supplied the airship. Together they created the narrative foundation on which the rest of Nebraska’s famous 1897 flap would be built. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-snippet">Nebraska State Historical Society“This Mysterious Light Called an Airship”: Nebraska Saucer...January 2, 2020 — 2 Jan 2020 — On February...</span><span class="citation-popover-meta">Published: January 2, 2020</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7d5fpbVzgVs" title="Nebraska&#x27;s 1897 UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7d5fpbVzgVs" target="_blank" rel="noopener noreferrer">Nebraska&#x27;s 1897 UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Nebraska State Historical Society &middot; Views: 170 &middot; Uploaded: August 2025 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7d5fpbVzgVs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7d5fpbVzgVs">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -744,109 +734,109 @@ For Nebraska’s UFO history, these reports matter because they reveal the begin
 
 1. <a id="endnote-1"></a>
    Source: history.nebraska.gov  
-   Link: [https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf](https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf)  
+   Link: <a href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nebraska State Historical Society“This Mysterious Light Called an Airship”: Nebraska Saucer...January 2, 2020 — 2 Jan 2020 — On February...</p></details>
    Published: January 2, 2020  
 
 2. <a id="endnote-2"></a>
    Source: history.nebraska.gov  
-   Link: [https://history.nebraska.gov/wp-content/uploads/2018/01/doc_publications_NH2013Hoax.pdf](https://history.nebraska.gov/wp-content/uploads/2018/01/doc_publications_NH2013Hoax.pdf)  
+   Link: <a href="https://history.nebraska.gov/wp-content/uploads/2018/01/doc_publications_NH2013Hoax.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/wp-content/uploads/2018/01/doc_publications_NH2013Hoax.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nebraska State Historical Society“A Celestial Visitor” Revisited: A Nebraska Newspaper Hoax...26 Jun 2024 — For information on the later...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: history.nebraska.gov  
-   Link: [https://history.nebraska.gov/document-author/roger-l-welsch/](https://history.nebraska.gov/document-author/roger-l-welsch/)  
+   Link: <a href="https://history.nebraska.gov/document-author/roger-l-welsch/" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/document-author/roger-l-welsch/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>L Welsch Archives - Nebraska State Historical Society“This Mysterious Light Called an Airship,” Nebraska “Saucer” Sightings, 1897...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: history.nebraska.gov  
    Title: roger welsch rg3691 am  
-   Link: [https://history.nebraska.gov/collection_section/roger-welsch-rg3691-am/](https://history.nebraska.gov/collection_section/roger-welsch-rg3691-am/)  
+   Link: <a href="https://history.nebraska.gov/collection_section/roger-welsch-rg3691-am/" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/collection_section/roger-welsch-rg3691-am/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Welsch [RG3691.AM] - Nebraska State Historical SocietyThis collection consists of two boxes of papers compiled by Roger Welsch relating t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Omaha Daily Bee  
-   Link: [https://en.wikipedia.org/wiki/Omaha_Daily_Bee](https://en.wikipedia.org/wiki/Omaha_Daily_Bee)  
+   Link: <a href="https://en.wikipedia.org/wiki/Omaha_Daily_Bee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Omaha_Daily_Bee</a>  
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/nehistorical/posts/in-1897-numerous-reports-of-an-unusual-phenomenon-in-the-sky-described-what-some/1215514023951049/](https://www.facebook.com/nehistorical/posts/in-1897-numerous-reports-of-an-unusual-phenomenon-in-the-sky-described-what-some/1215514023951049/)  
+   Link: <a href="https://www.facebook.com/nehistorical/posts/in-1897-numerous-reports-of-an-unusual-phenomenon-in-the-sky-described-what-some/1215514023951049/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nehistorical/posts/in-1897-numerous-reports-of-an-unusual-phenomenon-in-the-sky-described-what-some/1215514023951049/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 2, 1897, the Omaha Bee reported an airship sighting over Hastings, Nebraska, the previous day.[28] · An article in the Albion...</p></details>
    Published: February 2, 1897  
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=7d5fpbVzgVs](https://www.youtube.com/watch?v=7d5fpbVzgVs)  
+   Link: <a href="https://www.youtube.com/watch?v=7d5fpbVzgVs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7d5fpbVzgVs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nebraska&#x27;s 1897 UFO MysteryIn 1897, numerous reports of an unusual phenomenon in the sky described what some thought to be a UFO. A ship...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=DoJUsaTknNw](https://www.youtube.com/watch?v=DoJUsaTknNw)  
+   Link: <a href="https://www.youtube.com/watch?v=DoJUsaTknNw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DoJUsaTknNw</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Airship Mystery of 1896 and 1897 (Mystery Airships, UFOs...Today we&#x27;ll be discussing the origins of the 1890s Airship mystery and we&#x27;ll...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nebraskaauthors.org  
-   Link: [https://nebraskaauthors.org/authors/roger-l-welsch](https://nebraskaauthors.org/authors/roger-l-welsch)  
+   Link: <a href="https://nebraskaauthors.org/authors/roger-l-welsch" target="_blank" rel="noopener noreferrer nofollow">https://nebraskaauthors.org/authors/roger-l-welsch</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roger L. WelschRoger Welsch is an honorary member of the Pawnee Nation and has long served as their representative on the Nebraska Commis...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/vwm47k/accounts_of_airship_sightings_in_nebraska_125/](https://www.reddit.com/r/UFOs/comments/vwm47k/accounts_of_airship_sightings_in_nebraska_125/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/vwm47k/accounts_of_airship_sightings_in_nebraska_125/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vwm47k/accounts_of_airship_sightings_in_nebraska_125/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Accounts of &quot;Airship&quot; Sightings in Nebraska 125 Years AgoThe linked article, authored by Roger L. Welsh, was published the Nebraska Histo...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: an 1897 ufo this clipping is just one of many mystery airship reports that fille  
-   Link: [https://www.facebook.com/newspaperscom/posts/an-1897-ufo-this-clipping-is-just-one-of-many-mystery-airship-reports-that-fille/1415480043926635/](https://www.facebook.com/newspaperscom/posts/an-1897-ufo-this-clipping-is-just-one-of-many-mystery-airship-reports-that-fille/1415480043926635/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This clipping is just one of many &quot;mystery...The 1896-[1897 airship wave](&amp;#123;&amp;#123; &#x27;airship-wave-089275/&#x27; | relative_url &amp;#125;&amp;#125;) is probably the best investigated of all historical anomalies. T...</p></details>
+   Link: <a href="https://www.facebook.com/newspaperscom/posts/an-1897-ufo-this-clipping-is-just-one-of-many-mystery-airship-reports-that-fille/1415480043926635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newspaperscom/posts/an-1897-ufo-this-clipping-is-just-one-of-many-mystery-airship-reports-that-fille/1415480043926635/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>This clipping is just one of many &quot;mystery...The 1896-1897 airship wave is probably the best investigated of all historical anomalies. T...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: this is one of those news items where the word mysterious seems inadequate nebra  
-   Link: [https://www.facebook.com/StrangeCompanyBlog/posts/this-is-one-of-those-news-items-where-the-word-mysterious-seems-inadequate-nebra/4556998797659402/](https://www.facebook.com/StrangeCompanyBlog/posts/this-is-one-of-those-news-items-where-the-word-mysterious-seems-inadequate-nebra/4556998797659402/)  
+   Link: <a href="https://www.facebook.com/StrangeCompanyBlog/posts/this-is-one-of-those-news-items-where-the-word-mysterious-seems-inadequate-nebra/4556998797659402/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StrangeCompanyBlog/posts/this-is-one-of-those-news-items-where-the-word-mysterious-seems-inadequate-nebra/4556998797659402/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Airship,&quot; by Roger Welsch. [https://history.nebraska.gov/podcast/:](https://history.nebraska.gov/podcast/:) Illustration of a 1897 airship sighting in Nebraska for the 1939...Re...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ia600600.us.archive.org  
-   Link: [https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf](https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO book: encyclopedia of the extraterrestrialThe first great UFO wave occurred in the United States between late 1896 and the spring of...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: img1.wsimg.com  
    Title: UFOs and Intelligence A Timeline By Geor (1)  
-   Link: [https://img1.wsimg.com/blobby/go/281cb610-f27d-4d31-9e70-2d0dfbefe262/downloads/UFOs_and_Intelligence_A_Timeline_By_Geor%20%281%29.pdf?ver=1658328641933](https://img1.wsimg.com/blobby/go/281cb610-f27d-4d31-9e70-2d0dfbefe262/downloads/UFOs_and_Intelligence_A_Timeline_By_Geor%20%281%29.pdf?ver=1658328641933)  
+   Link: <a href="https://img1.wsimg.com/blobby/go/281cb610-f27d-4d31-9e70-2d0dfbefe262/downloads/UFOs_and_Intelligence_A_Timeline_By_Geor%20%281%29.pdf?ver=1658328641933" target="_blank" rel="noopener noreferrer nofollow">https://img1.wsimg.com/blobby/go/281cb610-f27d-4d31-9e70-2d0dfbefe262/downloads/UFOs_and_Intelligence_A_Timeline_By_Geor%20%281%29.pdf?ver=1658328641933</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Intelligence: A Timeline31 May 2022 — After an effort of many years, I have prepared a comprehensive timeline of UFO history that wil...</p></details>
    Published: May 2022  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: On today's date 129 years ago, Monday,  
-   Link: [https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-monday-april-19-1897-during-th/1513674570119347/](https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-monday-april-19-1897-during-th/1513674570119347/)  
+   Link: <a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-monday-april-19-1897-during-th/1513674570119347/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-monday-april-19-1897-during-th/1513674570119347/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 19, 1897...☞Today in UFO History -- On today&#x27;s date 128 years ago, Friday, April 16, 1897, during the 1896-1897 wave of “Mystery...</p></details>
    Published: April 19, 1897  
 
 16. <a id="endnote-16"></a>
    Source: academia.edu  
    Title: UF Os and Intelligence: A Timeline  
-   Link: [https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart](https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart)  
+   Link: <a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>By George M. EberhartThis timeline covers the full spectrum of UFO history, from contactee experiences to misidentifications of mundane p...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=czLMPr8BtPc](http://www.youtube.com/watch?v=czLMPr8BtPc)  
+   Link: <a href="http://www.youtube.com/watch?v=czLMPr8BtPc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=czLMPr8BtPc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1897 mystery airship wave nebraska &quot;Mystery Airship&quot; Sightings, 1896 - 1897 Think Anomalous...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/838955243/Ufos-and-Intelligence](https://www.scribd.com/document/838955243/Ufos-and-Intelligence)  
+   Link: <a href="https://www.scribd.com/document/838955243/Ufos-and-Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/838955243/Ufos-and-Intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>) Daily Bee, February 6, 1897, p. 6; Clark III 75; Clark IV 99)Read more...</p></details>
    Published: February 6, 1897  
 
 19. <a id="endnote-19"></a>
    Source: nicap.org  
    Title: UFOsand Intelligence  
-   Link: [https://www.nicap.org/Intel/UFOsandIntelligence.pdf](https://www.nicap.org/Intel/UFOsandIntelligence.pdf)  
+   Link: <a href="https://www.nicap.org/Intel/UFOsandIntelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/Intel/UFOsandIntelligence.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Intelligence: A Timeline15 Sept 2020 — After an effort of many years, I have prepared a comprehensive timeline of UFO history th...</p></details>

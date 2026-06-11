@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /rhodes-photos/
 nav_short_title: Official files
 title: Why Did Officials Study the Rhodes Photos?
-title_full: Why Did Officials Study the Rhodes Photos? | Rhodes Photos
+title_full: Why Did Officials Study the Rhodes Photos?
 display_title_short: Official files
 display_title: Official files
 heading_title: Why Did Officials Study the Rhodes Photos?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 14:58:17'
-parent_title: Why the Rhodes Photos Still Matter | Arizona UFOs
+parent_title: Why the Rhodes Photos Still Matter
 parent_permalink: /rhodes-photos/
 parent_nav_short_title: Rhodes Photos
 parent_heading_title: Why the Rhodes Photos Still Matter
@@ -252,14 +252,12 @@ image: /assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_government_fi_b
 
 The Rhodes photographs became more than a local Phoenix curiosity because federal agencies moved unusually quickly to collect and examine them. Within days of their publication in July 1947, copies had reached the FBI and Army Counterintelligence personnel, and the images were later absorbed into the earliest Air Force UFO case files. That official attention gave the photographs a status many other early “flying saucer” stories never achieved. Yet the surviving records also show a pattern that would become familiar in later UFO history: investigators treated the case as potentially important while simultaneously doubting the witness and considering mundane explanations. The result was not confirmation, but a long-running unresolved file that sat awkwardly between serious inquiry and suspected hoax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Rhodes_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rhodes UFO photographs</span><span class="citation-popover-snippet">Rhodes UFO photographs</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/long-before-the-phoenix-lights-there-was-incident-40/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">long before the phoenix lights there was incident 40</span><span class="citation-popover-snippet">The DebriefLong Before the Phoenix Lights There Was &quot;Incident 40&quot;Mar 25, 2022 — Before the Phoenix Lights, &quot;Incident 40&quot; involved photos...</span></span></span>
 
-
-<img src="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_government_fi_bd4704-Illustration-1-light.svg" | relative_url }}" alt="Official files illustration 1" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_government_fi_bd4704-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_government_fi_bd4704-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_government_fi_bd4704-Illustration-1-dark.svg" | relative_url }}" alt="Official files illustration 1" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_government_fi_bd4704-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_government_fi_bd4704-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Did Officials Study the Rhodes Photos?
 
-William A. Rhodes photographed the object over Phoenix on 7 July 1947 during the first major American “flying saucer” wave. The [Arizona]({{ 'why-arizona-became-a-ufo-state/' | relative_url }}) Republic printed the images on its front page two days later, presenting what appeared to be one of the earliest photographic UFO cases in the country. At that moment, military and intelligence agencies were already under pressure to determine whether reports of strange aircraft reflected foreign technology, public hysteria, hoaxes, or something genuinely unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Rhodes_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rhodes UFO photographs</span><span class="citation-popover-snippet">Rhodes UFO photographs</span></span></span>
+William A. Rhodes photographed the object over Phoenix on 7 July 1947 during the first major American “flying saucer” wave. The Arizona Republic printed the images on its front page two days later, presenting what appeared to be one of the earliest photographic UFO cases in the country. At that moment, military and intelligence agencies were already under pressure to determine whether reports of strange aircraft reflected foreign technology, public hysteria, hoaxes, or something genuinely unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Rhodes_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rhodes UFO photographs</span><span class="citation-popover-snippet">Rhodes UFO photographs</span></span></span>
 
 The Rhodes images attracted attention for several reasons:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -271,7 +269,6 @@ The Rhodes images attracted attention for several reasons:
 </div>
 
 Military analysts later described the incident as unusually significant because the photographs and witness descriptions appeared to match other independent reports from the same period. At least initially, some investigators regarded that consistency as potentially meaningful rather than coincidental. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/long-before-the-phoenix-lights-there-was-incident-40/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">long before the phoenix lights there was incident 40</span><span class="citation-popover-snippet">The DebriefLong Before the Phoenix Lights There Was &quot;Incident 40&quot;Mar 25, 2022 — Before the Phoenix Lights, &quot;Incident 40&quot; involved photos...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Vf41CD5INGU" title="Project Blue Book: Declassified – The True Story of the Foo Fighters | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Vf41CD5INGU" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of the Foo Fighters | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 99.0K &middot; Uploaded: March 2019 &middot; Length: 2 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Vf41CD5INGU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Vf41CD5INGU">Open on YouTube</a></p></div></div></div>
 
@@ -287,8 +284,7 @@ The files also reveal a more sceptical side of the investigation. Agents examine
 
 That dual approach — collecting evidence while scrutinising the witness — became characteristic of later military UFO investigations.
 
-
-<img src="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_government_fi_bd4704-Illustration-2-light.svg" | relative_url }}" alt="Official files illustration 2" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_government_fi_bd4704-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_government_fi_bd4704-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_government_fi_bd4704-Illustration-2-dark.svg" | relative_url }}" alt="Official files illustration 2" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_government_fi_bd4704-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_government_fi_bd4704-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Air Materiel Command and Early Air Force UFO Files
 
 The Rhodes case moved beyond the FBI into the emerging military UFO structure that later evolved into Projects Sign, Grudge and Blue Book. The photographs reached Air Materiel Command at Wright Field, the Air Force technical centre responsible for evaluating unconventional aviation reports after the Second World War. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/long-before-the-phoenix-lights-there-was-incident-40/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">long before the phoenix lights there was incident 40</span><span class="citation-popover-snippet">The DebriefLong Before the Phoenix Lights There Was &quot;Incident 40&quot;Mar 25, 2022 — Before the Phoenix Lights, &quot;Incident 40&quot; involved photos...</span></span></span>
@@ -300,7 +296,6 @@ The surviving evaluations show striking internal tension. Some comments treated 
 Yet the same files quickly shifted toward doubt. Analysts raised concerns about the photographic negatives, the witness’s credibility, and the physical appearance of the object in the prints. By the late 1940s, Air Force reviewers increasingly leaned toward the possibility of fabrication or misidentification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Rhodes_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rhodes UFO photographs</span><span class="citation-popover-snippet">Rhodes UFO photographs</span></span></span>
 
 This inconsistency matters historically. The Rhodes case illustrates that early military UFO investigations were not operating with a settled framework. Officials had not yet decided whether these incidents represented intelligence threats, public-relations problems, psychological phenomena, or aviation mysteries. The Rhodes photographs entered the files during that uncertain transition period.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bYRd-XZGPkY" title="Is This Phoenix UFO Cover-Up Linked To Roswell? | Alien Contact" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bYRd-XZGPkY" target="_blank" rel="noopener noreferrer">Is This Phoenix UFO Cover-Up Linked To Roswell? | Alien Contact</a></p><p class="youtube-embed-meta">Channel: DMAX UK &middot; Views: 9.0K &middot; Uploaded: July 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bYRd-XZGPkY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bYRd-XZGPkY">Open on YouTube</a></p></div></div></div>
 
@@ -318,8 +313,7 @@ Officials also considered the possibility of deliberate fakery. Some later histo
 
 None of these objections fully resolved the case, but together they prevented the photographs from becoming accepted evidence of an unknown craft.
 
-
-<img src="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_government_fi_bd4704-Illustration-3-light.svg" | relative_url }}" alt="Official files illustration 3" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_government_fi_bd4704-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_government_fi_bd4704-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_government_fi_bd4704-Illustration-3-dark.svg" | relative_url }}" alt="Official files illustration 3" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_government_fi_bd4704-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_government_fi_bd4704-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Official Attention Did Not Settle the Case
 
 One reason the Rhodes photographs remain controversial is that government involvement is often misunderstood. Federal scrutiny demonstrated interest, not endorsement.
@@ -329,7 +323,6 @@ The FBI’s role mainly involved collecting information and forwarding material.
 None of those actions amounted to official confirmation that the object was extraordinary.
 
 At the same time, the agencies never produced a definitive public explanation capable of closing the file beyond dispute. The result was a kind of evidential stalemate:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -341,9 +334,7 @@ At the same time, the agencies never produced a definitive public explanation ca
 
 The Rhodes case therefore became historically important less because of what the photographs conclusively showed and more because of what they revealed about early official reactions to UFO reports. Arizona’s role in UFO history began not with certainty, but with a disputed set of images that quickly crossed from local newspaper coverage into the machinery of federal intelligence and military investigation.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2j2YPSSQLQM" title="Project Blue Book UFO Files: 15 True Declassified Cases | Fall Asleep to UFO Stories (Episode 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2j2YPSSQLQM" target="_blank" rel="noopener noreferrer">Project Blue Book UFO Files: 15 True Declassified Cases | Fall Asleep to UFO Stories (Episode 2)</a></p><p class="youtube-embed-meta">Channel: Dreams of Disclosure &middot; Views: 41.3K &middot; Uploaded: October 2025 &middot; Length: 5 hours 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2j2YPSSQLQM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2j2YPSSQLQM">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UKzI3uu_oTQ" title="Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 393.5K &middot; Uploaded: March 2019 &middot; Length: 2 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UKzI3uu_oTQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -767,23 +758,23 @@ The Rhodes case therefore became historically important less because of what the
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Rhodes UFO photographs  
-   Link: [https://en.wikipedia.org/wiki/Rhodes_UFO_photographs](https://en.wikipedia.org/wiki/Rhodes_UFO_photographs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Rhodes_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rhodes_UFO_photographs</a>  
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — The files contain reports from UFO observers, correspondence...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: thedebrief.org  
    Title: long before the [phoenix lights](&#123;&#123; 'phoenix-lights/' | relative_url &#125;&#125;) there was incident 40  
-   Link: [https://thedebrief.org/long-before-the-phoenix-lights-there-was-incident-40/](https://thedebrief.org/long-before-the-phoenix-lights-there-was-incident-40/)  
+   Link: <a href="https://thedebrief.org/long-before-the-phoenix-lights-there-was-incident-40/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/long-before-the-phoenix-lights-there-was-incident-40/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefLong Before the Phoenix Lights There Was &quot;Incident 40&quot;Mar 25, 2022 — Before the Phoenix Lights, &quot;Incident 40&quot; involved photos...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: x.com  
-   Link: [https://x.com/CITDConference/status/1942223203612705218](https://x.com/CITDConference/status/1942223203612705218)  
+   Link: <a href="https://x.com/CITDConference/status/1942223203612705218" target="_blank" rel="noopener noreferrer nofollow">https://x.com/CITDConference/status/1942223203612705218</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 1947, William Rhodes captured two of the earliest...July 1947, William Rhodes captured two of the earliest known UFO photos over Ph...</p></details>
    Published: July 1947  
 
@@ -791,56 +782,56 @@ The Rhodes case therefore became historically important less because of what the
 
 5. <a id="endnote-5"></a>
    Source: weirddarkness.com  
-   Link: [https://weirddarkness.com/the-mysterious-first-appearance-of-the-men-in-black-the-true-story-of-william-rhodes-ufo-encounter/](https://weirddarkness.com/the-mysterious-first-appearance-of-the-men-in-black-the-true-story-of-william-rhodes-ufo-encounter/)  
+   Link: <a href="https://weirddarkness.com/the-mysterious-first-appearance-of-the-men-in-black-the-true-story-of-william-rhodes-ufo-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://weirddarkness.com/the-mysterious-first-appearance-of-the-men-in-black-the-true-story-of-william-rhodes-ufo-encounter/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The TRUE STORY of William Rhodes&#x27; UFO EncounterMar 5, 2025 — When William Rhodes captured shocking photos of a UFO in 1947, mysterious go...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFObelievers/comments/102ccxq/two_pictures_of_the_roswell_ufo_were_taken_on/](https://www.reddit.com/r/UFObelievers/comments/102ccxq/two_pictures_of_the_roswell_ufo_were_taken_on/)  
+   Link: <a href="https://www.reddit.com/r/UFObelievers/comments/102ccxq/two_pictures_of_the_roswell_ufo_were_taken_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFObelievers/comments/102ccxq/two_pictures_of_the_roswell_ufo_were_taken_on/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>William Rhodes Photo of the Roswell craft, July 7... They were among the very first purported UFO photographs and Air Force...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=2j2YPSSQLQM](https://www.youtube.com/watch?v=2j2YPSSQLQM)  
+   Link: <a href="https://www.youtube.com/watch?v=2j2YPSSQLQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2j2YPSSQLQM</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFO Warning&quot; &quot;Incident 40&quot; UFO hearing: Whistleblower says he&#x27;s witnessed harm by &quot;non-human&quot; entities Global News...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aol.com  
-   Link: [https://www.aol.com/articles/pentagon-begins-release-decades-unresolved-151715211.html](https://www.aol.com/articles/pentagon-begins-release-decades-unresolved-151715211.html)  
+   Link: <a href="https://www.aol.com/articles/pentagon-begins-release-decades-unresolved-151715211.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/pentagon-begins-release-decades-unresolved-151715211.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>federal agencies, some dating as far back as the late 1940s.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: air force osi ufo photos 19491958  
-   Link: [https://www.reddit.com/r/UFOs/comments/1arrfqk/air_force_osi_ufo_photos_19491958/](https://www.reddit.com/r/UFOs/comments/1arrfqk/air_force_osi_ufo_photos_19491958/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1arrfqk/air_force_osi_ufo_photos_19491958/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1arrfqk/air_force_osi_ufo_photos_19491958/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force OSI — UFO photos 1949-1958The &quot;batwing&quot; photos have been circulating around for ages and are commonly known as the &quot;Rhodes UFO...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified – The True Story of the Foo Fighters | History  
-   Link: [https://www.youtube.com/watch?v=Vf41CD5INGU](https://www.youtube.com/watch?v=Vf41CD5INGU)  
+   Link: <a href="https://www.youtube.com/watch?v=Vf41CD5INGU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Vf41CD5INGU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Files: 15 True Declassified Cases | Fall Asleep to UFO Stories (Episode 2)...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: dokumen.pub  
    Title: report on the ufo wave of 1947  
-   Link: [https://dokumen.pub/report-on-the-ufo-wave-of-1947.html](https://dokumen.pub/report-on-the-ufo-wave-of-1947.html)  
+   Link: <a href="https://dokumen.pub/report-on-the-ufo-wave-of-1947.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/report-on-the-ufo-wave-of-1947.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It includes a detailed chronology of more than 850 UFO cases for June and July with complete references, primarily from 140 newspapers in...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: [https://origins.osu.edu/read/air-force-investigation-ufos](https://origins.osu.edu/read/air-force-investigation-ufos)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OriginsThe Air Force Investigation into UFOs | Origins22 Dec 2024 — This study, known as Project Sign, was active through 1948. Though Pr...</p></details>
+   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Investigation into UFOs | Origins22 Dec 2024 — This study, known as Project Sign, was active through 1948. Though Pr...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: commons.wikimedia.org  
    Title: File:Rhodes UFO photos.png  
-   Link: [https://commons.wikimedia.org/wiki/File%3ARhodes_UFO_photos.png](https://commons.wikimedia.org/wiki/File%3ARhodes_UFO_photos.png)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3ARhodes_UFO_photos.png" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARhodes_UFO_photos.png</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Rhodes UFO photos.pngInterdimensional UFO hypothesis · Twin Falls saucer hoax · The Coming of the Saucers · Flight 105...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified  
-   Link: [https://www.youtube.com/watch?v=UKzI3uu_oTQ](https://www.youtube.com/watch?v=UKzI3uu_oTQ)  
+   Link: <a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UKzI3uu_oTQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History...</p></details>

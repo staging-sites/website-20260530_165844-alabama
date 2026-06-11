@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /michigan-5110b3-1966-swamp-gas-sight/
 description: Focused pages that expand on 1966 Swamp Gas.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Michigan_5110b3_1966_swamp_gas_sight_5d94ee
-parent_title: 1966 Swamp Gas | Michigan’s Most Notable UFO Sightings and...
+parent_title: 1966 Swamp Gas
 parent_nav_short_title: 1966 Swamp Gas
 parent_permalink: /1966-swamp-gas/
 ---

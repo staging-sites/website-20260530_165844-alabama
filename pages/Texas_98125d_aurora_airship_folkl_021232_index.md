@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /texas-98125d-aurora-airship-folkl/
 description: Focused pages that expand on Aurora.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Texas_98125d_aurora_airship_folkl_021232
-parent_title: Aurora | Why Texas Became a UFO Archive
+parent_title: Aurora
 parent_nav_short_title: Aurora
 parent_permalink: /aurora/
 ---

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /florida-30c2d0-gulf-breeze-ufo-0f6041/
 description: Focused pages that expand on Gulf Breeze.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Florida_30c2d0_gulf_breeze_ufo_0f6041
-parent_title: Gulf Breeze | What Makes Florida a Hotspot for UFO...
+parent_title: Gulf Breeze
 parent_nav_short_title: Gulf Breeze
 parent_permalink: /gulf-breeze/
 ---

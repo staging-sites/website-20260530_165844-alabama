@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /idaho-18334c-twin-falls-hoax-5fccca/
 description: Focused pages that expand on Twin Falls Hoax.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Idaho_18334c_twin_falls_hoax_5fccca
-parent_title: Twin Falls Hoax | What Makes Idaho a Key UFO Hotspot?
+parent_title: Twin Falls Hoax
 parent_nav_short_title: Twin Falls Hoax
 parent_permalink: /twin-falls-hoax/
 ---

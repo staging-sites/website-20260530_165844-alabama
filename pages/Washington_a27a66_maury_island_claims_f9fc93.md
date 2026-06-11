@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-washington-shaped-ufo-history/
 nav_short_title: Maury Island
 title: Why Maury Island Still Divides Readers
-title_full: Why Maury Island Still Divides Readers | Washington UFOs
+title_full: Why Maury Island Still Divides Readers
 display_title_short: Maury Island
 display_title: Maury Island
 heading_title: Why Maury Island Still Divides Readers
@@ -268,32 +268,29 @@ image: /assets/images/Washington_a27a66_maury_island_claims_f9fc93-overview-soci
 
 ## Introduction
 
-Maury Island is one of [Washington]({{ 'why-washington-shaped-ufo-history/' | relative_url }})’s most persistent UFO stories, but it is also one of the weakest as evidence. The claim centres on Harold Dahl and Fred Crisman, who said that on 21 June 1947, near Maury Island in Puget Sound, strange aerial objects dropped debris onto a boat, injuring a person and killing a dog. The story later gained extra force through “men in black” motifs and the fatal crash of a B-25 carrying two Army Air Forces intelligence officers who had looked into the case. Its cultural importance is real; its evidential strength is not. The surviving record points less to a reliable UFO incident than to a Washington legend built from fragmentary testimony, disputed debris, publicity, official confusion and later retelling. HistoryLink describes the case as “exposed as a clumsy hoax”, while Edward J. Ruppelt, later associated with Project Blue Book, called it the “dirtiest hoax” in UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">HistoryLinkDahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
+Maury Island is one of Washington’s most persistent UFO stories, but it is also one of the weakest as evidence. The claim centres on Harold Dahl and Fred Crisman, who said that on 21 June 1947, near Maury Island in Puget Sound, strange aerial objects dropped debris onto a boat, injuring a person and killing a dog. The story later gained extra force through “men in black” motifs and the fatal crash of a B-25 carrying two Army Air Forces intelligence officers who had looked into the case. Its cultural importance is real; its evidential strength is not. The surviving record points less to a reliable UFO incident than to a Washington legend built from fragmentary testimony, disputed debris, publicity, official confusion and later retelling. HistoryLink describes the case as “exposed as a clumsy hoax”, while Edward J. Ruppelt, later associated with Project Blue Book, called it the “dirtiest hoax” in UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93-overview.webp" | relative_url }}" alt="Overview image for Maury Island" loading="eager" decoding="sync" fetchpriority="high">
 ## The alleged Puget Sound encounter
 
-The basic Maury Island story is vivid enough to explain why it survived. Dahl was said to have been on a boat near Maury Island, south-west of Seattle and near Vashon Island, when six large “doughnut-shaped” craft appeared overhead. In the published version later associated with Kenneth Arnold and Ray Palmer, one object seemed to malfunction and shed material onto the boat, supposedly killing Dahl’s dog and injuring his son. Dahl also claimed that photographs had been taken, but those images did not become a reliable piece of public evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">HistoryLinkDahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+The basic Maury Island story is vivid enough to explain why it survived. Dahl was said to have been on a boat near Maury Island, south-west of Seattle and near Vashon Island, when six large “doughnut-shaped” craft appeared overhead. In the published version later associated with Kenneth Arnold and Ray Palmer, one object seemed to malfunction and shed material onto the boat, supposedly killing Dahl’s dog and injuring his son. Dahl also claimed that photographs had been taken, but those images did not become a reliable piece of public evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
 
-The timing mattered. Dahl and Crisman’s claims were reported just after Kenneth Arnold’s 24 June 1947 sighting near Mount Rainier had made “flying saucers” a national news phrase. HistoryLink dates the reporting of the Maury Island story to on or after 26 June, after Arnold’s account had already attracted attention. That sequence is important because it means Maury Island did not emerge in a neutral media environment. It appeared at the opening of the American “summer of saucers”, when newspapers, pulp publishers, pilots, military officers and curious readers were all primed to treat strange aerial claims as a developing national story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">HistoryLinkDahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+The timing mattered. Dahl and Crisman’s claims were reported just after Kenneth Arnold’s 24 June 1947 sighting near Mount Rainier had made “flying saucers” a national news phrase. HistoryLink dates the reporting of the Maury Island story to on or after 26 June, after Arnold’s account had already attracted attention. That sequence is important because it means Maury Island did not emerge in a neutral media environment. It appeared at the opening of the American “summer of saucers”, when newspapers, pulp publishers, pilots, military officers and curious readers were all primed to treat strange aerial claims as a developing national story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
 
 The case also had a built-in narrative advantage over many ordinary sighting reports. It was not just “lights in the sky”. It had a named location in Puget Sound, alleged physical debris, injury, a dead animal, a warning from a mysterious stranger, military attention and a fatal aircraft accident. Those elements made it memorable, but they also make the evidential problem sharper: a story with so many concrete claims should have left stronger, cleaner traces than it did.
 
-
-<img src="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93-Illustration-1-light.svg" | relative_url }}" alt="Maury Island illustration 1" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93-Illustration-1-dark.svg" | relative_url }}" alt="Maury Island illustration 1" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Men in black, debris and the fatal crash
 
 The “men in black” element is the part of Maury Island that has travelled furthest into popular culture. Dahl said a man in a black suit took him to a Tacoma diner and warned him not to talk about the incident. Humanities Washington’s 2024 feature on Steve Edmiston’s public-history work treats Maury Island as a key Washington source for the later men-in-black tradition, while Cascade PBS similarly describes the case as an apparent early source of the MIB motif in UFO lore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.humanities.org/spark/how-washington-state-spawned-the-men-in-black/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: humanities.org">[Humanities Washington]</a><span class="citation-popover" role="note"><span class="citation-popover-source">humanities.org</span><span class="citation-popover-title">Washington How Washington State Spawned the Men in Black</span><span class="citation-popover-snippet">Washington How Washington State Spawned the Men in Black</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cascadepbs.org/culture/2019/07/how-washington-gave-world-flying-saucers-and-men-black/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cascadepbs.org">[Cascade PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cascadepbs.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That cultural legacy should not be confused with proof that the warning occurred as described. A motif can be historically influential even when the underlying event is doubtful. In fact, Maury Island is useful precisely because it shows how a weakly evidenced claim can become a strong piece of folklore. The black-suited visitor, secretive debris and official interest gave later writers a ready-made template: the witness sees something, the authorities know more than they say, and a threatening figure appears to silence the story.
 
-The debris claim is even more central to the evidence question. The alleged fragments were supposed to be the physical link between the Puget Sound encounter and an extraordinary aerial object. Yet later accounts and sceptical summaries identify the material as ordinary slag or beach debris rather than exotic “saucer” remains. Ruppelt wrote that the fragments had “nothing to do with flying saucers” and described them as part of a hoax story sent to a magazine publisher. HistoryLink similarly states that the “debris” consisted of scrap and pumice from a Maury Island beach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">HistoryLinkDahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+The debris claim is even more central to the evidence question. The alleged fragments were supposed to be the physical link between the Puget Sound encounter and an extraordinary aerial object. Yet later accounts and sceptical summaries identify the material as ordinary slag or beach debris rather than exotic “saucer” remains. Ruppelt wrote that the fragments had “nothing to do with flying saucers” and described them as part of a hoax story sent to a magazine publisher. HistoryLink similarly states that the “debris” consisted of scrap and pumice from a Maury Island beach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
 
 The fatal crash then gave the case its tragic and conspiratorial afterlife. Capt. William L. Davidson and 1st Lt. Frank M. Brown, Army Air Forces intelligence officers, had interviewed Dahl and looked into the fragments before leaving McChord Field in a B-25. The aircraft crashed near Kelso, Washington, on 1 August 1947, killing both officers; the crew chief and a passenger survived by parachute. FBI material records that the left engine caught fire, the wing and tail failed, and intelligence officers at McChord advised that there was no indication of sabotage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vault.fbi.gov/UFO/UFO%20Part%2005/at_download/file" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">UFO Part 5 of 16</span><span class="citation-popover-snippet">UFO Part 5 of 16</span></span></span>
 
 That distinction matters. The crash was real. The deaths were real. The leap from those facts to “the aircraft was destroyed because it carried UFO evidence” is the weak part. Ruppelt later wrote that the classified material on the aircraft was a file of reports, not proof of Maury Island debris, and that the crash was caused by an engine fire. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Hvz8yjZngmc" title="TOSC -Shadows Over Puget Sound: The Maury Island UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Hvz8yjZngmc" target="_blank" rel="noopener noreferrer">TOSC -Shadows Over Puget Sound: The Maury Island UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Highline Heritage Museum &middot; Views: 311 &middot; Uploaded: April 2025 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Hvz8yjZngmc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Hvz8yjZngmc">Open on YouTube</a></p></div></div></div>
 
@@ -303,14 +300,13 @@ Maury Island is often retold as though it rests on a chain of mutually reinforci
 
 The witness chain is compromised by changing statements and disputed motives. FBI files include reports that the story was linked to efforts to interest magazine or news outlets, and one memorandum says the anonymous phone calls may have been made to build up the story to the point where it could be profitably sold to a Chicago publication. Another FBI page records a claim that the story was a “plain fantasy” and an “entire hoax”, though the files also contain ambiguity about whether Dahl’s later “hoax” claim was itself a strategy to escape attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vault.fbi.gov/UFO/UFO%20Part%2005/at_download/file" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">UFO Part 5 of 16</span><span class="citation-popover-snippet">UFO Part 5 of 16</span></span></span>
 
-The physical evidence is weaker than the folklore suggests. A truly strong Maury Island case would need preserved fragments with a documented chain of custody, independent laboratory analysis, and a clear reason to think the material could not be ordinary industrial or shoreline debris. Instead, the surviving public accounts point towards mundane material and muddled handling. Ruppelt’s later account says the officers already suspected a hoax and that the fragments were understood as slag, while HistoryLink describes the material as scrap and pumice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">HistoryLinkDahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+The physical evidence is weaker than the folklore suggests. A truly strong Maury Island case would need preserved fragments with a documented chain of custody, independent laboratory analysis, and a clear reason to think the material could not be ordinary industrial or shoreline debris. Instead, the surviving public accounts point towards mundane material and muddled handling. Ruppelt’s later account says the officers already suspected a hoax and that the fragments were understood as slag, while HistoryLink describes the material as scrap and pumice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
 
 The photographs do not rescue the case. Dahl’s reported photographs either did not survive, were said to be unusable, or were never produced in a form that could independently support the claim. For a case that depends on detailed aerial objects, alleged falling material and a close-range boat encounter, the absence of reliable images is a serious evidential gap.
 
 The official record is also often misunderstood. FBI and military attention shows that authorities took the publicity, the crash and possible security implications seriously. It does not show that they confirmed a UFO event. The surviving FBI text points to investigation of claims, anonymous calls, press stories, and the crash circumstances. That is evidence of an official inquiry, not evidence that the alleged objects were real craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vault.fbi.gov/UFO/UFO%20Part%2005/at_download/file" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">UFO Part 5 of 16</span><span class="citation-popover-snippet">UFO Part 5 of 16</span></span></span>
 
-
-<img src="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93-Illustration-2-light.svg" | relative_url }}" alt="Maury Island illustration 2" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93-Illustration-2-dark.svg" | relative_url }}" alt="Maury Island illustration 2" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why later retellings keep the case alive
 
 Maury Island survives because it is a strong story, not because it is a strong case. It sits at a rare intersection in Washington’s UFO history: just after Arnold’s Mount Rainier sighting, before Roswell became the dominant American crash legend, and at the beginning of the modern flying-saucer press cycle. The Washington State Senate’s 2017 resolution acknowledged the seventieth anniversary of the incident, the deaths of Davidson and Brown, the wider “Summer of the Saucers” phenomenon, and the story’s role in popularising figures later known as “men in black”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Senate%20Resolutions/8648-Maury%20Island%20Incident.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawfilesext.leg.wa.gov">[lawfilesext.leg.wa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawfilesext.leg.wa.gov</span><span class="citation-popover-title">8648 Maury Island Incident</span><span class="citation-popover-snippet">8648 Maury Island Incident</span></span></span>
@@ -321,11 +317,9 @@ Recent public-history work has complicated the simple “case closed” framing 
 
 That argument is worth noting, but it does not make Maury Island a strong UFO case. At most, it shows that the record is messy and that “Dahl confessed, therefore nothing else matters” may be too simple. The larger evidential problems remain: no reliable photographs, no persuasive debris, inconsistent witness behaviour, publicity incentives, contested FBI interpretations and a fatal crash that has a documented mechanical explanation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/isizjCOkppo" title="The Maury Island Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=isizjCOkppo" target="_blank" rel="noopener noreferrer">The Maury Island Incident</a></p><p class="youtube-embed-meta">Channel: Pretty Gritty Tours &middot; Views: 11.3K &middot; Uploaded: April 2022 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=isizjCOkppo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=isizjCOkppo">Open on YouTube</a></p></div></div></div>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LOZHTLcKwv0" title="The Maury Island Incident: What the Water Keeps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LOZHTLcKwv0" target="_blank" rel="noopener noreferrer">The Maury Island Incident: What the Water Keeps</a></p><p class="youtube-embed-meta">Channel: Chronicles of the Drift &middot; Views: 2.5K &middot; Uploaded: April 2026 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LOZHTLcKwv0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LOZHTLcKwv0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4ryEcZqsR4M" title="Before Roswell - The Eerie Tale of Maury Island (with Dean Bertram)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4ryEcZqsR4M" target="_blank" rel="noopener noreferrer">Before Roswell - The Eerie Tale of Maury Island (with Dean Bertram)</a></p><p class="youtube-embed-meta">Channel: Curiouscast Podcasts &middot; Views: 100 &middot; Uploaded: August 2025 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4ryEcZqsR4M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4ryEcZqsR4M">Open on YouTube</a></p></div></div></div>
 
 ## How to read Maury Island within Washington UFO history
 
@@ -335,8 +329,7 @@ For readers comparing Washington cases, Maury Island plays a different role from
 
 The practical test is simple: remove the folklore, and ask what remains. There is a reported boat encounter near Maury Island; a debris story that points towards ordinary material; a claimed men-in-black warning that is culturally potent but hard to verify; official inquiries that show concern but not confirmation; and a real B-25 crash with a non-sabotage explanation in the FBI record. That is enough to make Maury Island historically important. It is not enough to make it a strong UFO case.
 
-
-<img src="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93-Illustration-3-light.svg" | relative_url }}" alt="Maury Island illustration 3" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93-Illustration-3-dark.svg" | relative_url }}" alt="Maury Island illustration 3" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -759,118 +752,118 @@ The practical test is simple: remove the folklore, and ask what remains. There i
 
 1. <a id="endnote-1"></a>
    Source: historylink.org  
-   Link: [https://www.historylink.org/File/2068](https://www.historylink.org/File/2068)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryLinkDahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</p></details>
+   Link: <a href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/File/2068</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dahl and Crissman report a June 21, 1947, explosion of a flying saucer over Maury Island on or after June 26, 1947. - HistoryL...</p></details>
    Published: June 21, 1947  
 
 2. <a id="endnote-2"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
 
 3. <a id="endnote-3"></a>
    Source: humanities.org  
    Title: Washington How Washington State Spawned the Men in Black  
-   Link: [https://www.humanities.org/spark/how-washington-state-spawned-the-men-in-black/](https://www.humanities.org/spark/how-washington-state-spawned-the-men-in-black/)  
+   Link: <a href="https://www.humanities.org/spark/how-washington-state-spawned-the-men-in-black/" target="_blank" rel="noopener noreferrer nofollow">https://www.humanities.org/spark/how-washington-state-spawned-the-men-in-black/</a>  
 
 4. <a id="endnote-4"></a>
    Source: cascadepbs.org  
-   Link: [https://www.cascadepbs.org/culture/2019/07/how-washington-gave-world-flying-saucers-and-men-black/](https://www.cascadepbs.org/culture/2019/07/how-washington-gave-world-flying-saucers-and-men-black/)  
+   Link: <a href="https://www.cascadepbs.org/culture/2019/07/how-washington-gave-world-flying-saucers-and-men-black/" target="_blank" rel="noopener noreferrer nofollow">https://www.cascadepbs.org/culture/2019/07/how-washington-gave-world-flying-saucers-and-men-black/</a>  
 
 5. <a id="endnote-5"></a>
    Source: vault.fbi.gov  
    Title: UFO Part 5 of 16  
-   Link: [https://vault.fbi.gov/UFO/UFO%20Part%2005/at_download/file](https://vault.fbi.gov/UFO/UFO%20Part%2005/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/UFO/UFO%20Part%2005/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/UFO/UFO%20Part%2005/at_download/file</a>  
 
 6. <a id="endnote-6"></a>
    Source: lawfilesext.leg.wa.gov  
    Title: 8648 Maury Island Incident  
-   Link: [https://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Senate%20Resolutions/8648-Maury%20Island%20Incident.pdf](https://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Senate%20Resolutions/8648-Maury%20Island%20Incident.pdf)  
+   Link: <a href="https://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Senate%20Resolutions/8648-Maury%20Island%20Incident.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lawfilesext.leg.wa.gov/biennium/2017-18/Pdf/Bills/Senate%20Resolutions/8648-Maury%20Island%20Incident.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: lawfilesext.leg.wa.gov  
-   Link: [https://lawfilesext.leg.wa.gov/biennium/2017-18/Htm/Bills/Senate%20Resolutions/8648-Maury%20Island%20Incident.htm](https://lawfilesext.leg.wa.gov/biennium/2017-18/Htm/Bills/Senate%20Resolutions/8648-Maury%20Island%20Incident.htm)  
+   Link: <a href="https://lawfilesext.leg.wa.gov/biennium/2017-18/Htm/Bills/Senate%20Resolutions/8648-Maury%20Island%20Incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://lawfilesext.leg.wa.gov/biennium/2017-18/Htm/Bills/Senate%20Resolutions/8648-Maury%20Island%20Incident.htm</a>  
 
 8. <a id="endnote-8"></a>
    Source: history.com  
    Title: men in black real origins  
-   Link: [https://www.history.com/articles/men-in-black-real-origins](https://www.history.com/articles/men-in-black-real-origins)  
+   Link: <a href="https://www.history.com/articles/men-in-black-real-origins" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/men-in-black-real-origins</a>  
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: TOSC -Shadows Over Puget Sound: The Maury Island UFO Mystery  
-   Link: [https://www.youtube.com/watch?v=Hvz8yjZngmc](https://www.youtube.com/watch?v=Hvz8yjZngmc)  
+   Link: <a href="https://www.youtube.com/watch?v=Hvz8yjZngmc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Hvz8yjZngmc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Before Roswell - The Eerie Tale of Maury Island (with Dean Bertram)...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Before Roswell  
-   Link: [https://www.youtube.com/watch?v=4ryEcZqsR4M](https://www.youtube.com/watch?v=4ryEcZqsR4M)  
+   Link: <a href="https://www.youtube.com/watch?v=4ryEcZqsR4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4ryEcZqsR4M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Washington...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: seattlesouthside.com  
-   Link: [https://www.seattlesouthside.com/seattle-southside-stories/maury-island-ufo-incident-mural/](https://www.seattlesouthside.com/seattle-southside-stories/maury-island-ufo-incident-mural/)  
+   Link: <a href="https://www.seattlesouthside.com/seattle-southside-stories/maury-island-ufo-incident-mural/" target="_blank" rel="noopener noreferrer nofollow">https://www.seattlesouthside.com/seattle-southside-stories/maury-island-ufo-incident-mural/</a>  
 
 12. <a id="endnote-12"></a>
    Source: ripleys.com  
    Title: maury island ufo  
-   Link: [https://www.ripleys.com/stories/maury-island-ufo](https://www.ripleys.com/stories/maury-island-ufo)  
+   Link: <a href="https://www.ripleys.com/stories/maury-island-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ripleys.com/stories/maury-island-ufo</a>  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: Explore Seattle Southside  
-   Link: [https://www.facebook.com/SeattleSouthside/posts/learn-about-the-first-documented-ufo-sighting-that-happened-in-1947-in-seattle-s/954687166699381/](https://www.facebook.com/SeattleSouthside/posts/learn-about-the-first-documented-ufo-sighting-that-happened-in-1947-in-seattle-s/954687166699381/)  
+   Link: <a href="https://www.facebook.com/SeattleSouthside/posts/learn-about-the-first-documented-ufo-sighting-that-happened-in-1947-in-seattle-s/954687166699381/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SeattleSouthside/posts/learn-about-the-first-documented-ufo-sighting-that-happened-in-1947-in-seattle-s/954687166699381/</a>  
 
 14. <a id="endnote-14"></a>
    Source: seattlesouthside.com  
    Title: ufo history  
-   Link: [https://www.seattlesouthside.com/welcome-back-aliens/ufo-history/](https://www.seattlesouthside.com/welcome-back-aliens/ufo-history/)  
+   Link: <a href="https://www.seattlesouthside.com/welcome-back-aliens/ufo-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.seattlesouthside.com/welcome-back-aliens/ufo-history/</a>  
 
 15. <a id="endnote-15"></a>
    Source: twinpeaks.fandom.com  
    Title: Harold Dahl  
-   Link: [https://twinpeaks.fandom.com/wiki/Harold_Dahl](https://twinpeaks.fandom.com/wiki/Harold_Dahl)  
+   Link: <a href="https://twinpeaks.fandom.com/wiki/Harold_Dahl" target="_blank" rel="noopener noreferrer nofollow">https://twinpeaks.fandom.com/wiki/Harold_Dahl</a>  
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Maury Island Incident: What the Water Keeps  
-   Link: [https://www.youtube.com/watch?v=LOZHTLcKwv0](https://www.youtube.com/watch?v=LOZHTLcKwv0)  
+   Link: <a href="https://www.youtube.com/watch?v=LOZHTLcKwv0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LOZHTLcKwv0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TOSC -Shadows Over Puget Sound: The Maury Island UFO Mystery...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: feralhouse.com  
-   Link: [https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf](https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf)  
+   Link: <a href="https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/u3a87p/been_digging_through_some_wa_state_docs_and_came/](https://www.reddit.com/r/ufo/comments/u3a87p/been_digging_through_some_wa_state_docs_and_came/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/u3a87p/been_digging_through_some_wa_state_docs_and_came/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/u3a87p/been_digging_through_some_wa_state_docs_and_came/</a>  
 
 19. <a id="endnote-19"></a>
    Source: islandinstitute.org  
-   Link: [https://www.islandinstitute.org/wp-content/uploads/2024/10/2010_Island-Journal.pdf](https://www.islandinstitute.org/wp-content/uploads/2024/10/2010_Island-Journal.pdf)  
+   Link: <a href="https://www.islandinstitute.org/wp-content/uploads/2024/10/2010_Island-Journal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.islandinstitute.org/wp-content/uploads/2024/10/2010_Island-Journal.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: feralhouse.com  
-   Link: [https://feralhouse.com/wp/wp-content/uploads/2011/04/JFKUFOExcerpt.pdf](https://feralhouse.com/wp/wp-content/uploads/2011/04/JFKUFOExcerpt.pdf)  
+   Link: <a href="https://feralhouse.com/wp/wp-content/uploads/2011/04/JFKUFOExcerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://feralhouse.com/wp/wp-content/uploads/2011/04/JFKUFOExcerpt.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: crystalinks.com  
-   Link: [https://www.crystalinks.com/mauryisland1947.html](https://www.crystalinks.com/mauryisland1947.html)  
+   Link: <a href="https://www.crystalinks.com/mauryisland1947.html" target="_blank" rel="noopener noreferrer nofollow">https://www.crystalinks.com/mauryisland1947.html</a>  
 
 22. <a id="endnote-22"></a>
    Source: seattlein2025.org  
-   Link: [https://seattlein2025.org/program-and-events/schedule/](https://seattlein2025.org/program-and-events/schedule/)  
+   Link: <a href="https://seattlein2025.org/program-and-events/schedule/" target="_blank" rel="noopener noreferrer nofollow">https://seattlein2025.org/program-and-events/schedule/</a>  
 
 23. <a id="endnote-23"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/527137437/The-Coming-of-the-Saucers](https://www.scribd.com/document/527137437/The-Coming-of-the-Saucers)  
+   Link: <a href="https://www.scribd.com/document/527137437/The-Coming-of-the-Saucers" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/527137437/The-Coming-of-the-Saucers</a>  
 
 24. <a id="endnote-24"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/pdf/2081645.pdf](https://www.jstor.org/stable/pdf/2081645.pdf)  
+   Link: <a href="https://www.jstor.org/stable/pdf/2081645.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/pdf/2081645.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: vocal.media  
-   Link: [https://vocal.media/history/the-maury-island-enigma-uf-os-men-in-black-and-the-shadowy-path-to-jfk-s-fate](https://vocal.media/history/the-maury-island-enigma-uf-os-men-in-black-and-the-shadowy-path-to-jfk-s-fate)  
+   Link: <a href="https://vocal.media/history/the-maury-island-enigma-uf-os-men-in-black-and-the-shadowy-path-to-jfk-s-fate" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/history/the-maury-island-enigma-uf-os-men-in-black-and-the-shadowy-path-to-jfk-s-fate</a>

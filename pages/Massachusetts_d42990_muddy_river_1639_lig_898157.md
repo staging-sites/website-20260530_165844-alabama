@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-massachusetts/
 nav_short_title: Muddy River
 title: Was America's First UFO Really in Boston?
-title_full: Was America's First UFO Really in Boston? | Massachusetts UFOs
+title_full: Was America's First UFO Really in Boston?
 display_title_short: Muddy River
 display_title: Muddy River
 heading_title: Was America's First UFO Really in Boston?
@@ -268,26 +268,23 @@ image: /assets/images/Massachusetts_d42990_muddy_river_1639_lig_898157-overview-
 
 ## Introduction
 
-In early colonial [Massachusetts]({{ 'what-really-happened-in-massachusetts/' | relative_url }}), long before aircraft, satellites, or even modern astronomy, settlers sometimes recorded unusual lights in the sky. One of the earliest and most frequently cited is a 1639 report from near the Muddy River (today part of Boston’s Back Bay/Brookline area). This account, preserved in the journal of Puritan leader **John Winthrop**, has been retold in UFO lore as “America’s first UFO sighting.” In the context of Massachusetts’s long history of unusual‑light reports, it stands out less as evidence of extraterrestrial craft and more as a vivid example of how people in the 17th century described strange luminous phenomena without the frame of modern technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/americas-first-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY CHANNEL ITALIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">americas first ufo sighting</span><span class="citation-popover-snippet">HISTORY CHANNEL ITALIAAmerica’s First UFO Sighting | HISTORYNovember 9, 2016...</span><span class="citation-popover-meta">Published: November 9, 2016</span></span></span>
-
+In early colonial [Massachusetts]({{ 'what-really-happened-in-massachusetts/' | relative_url }}), long before aircraft, satellites, or even modern astronomy, settlers sometimes recorded unusual lights in the sky. One of the earliest and most frequently cited is a 1639 report from near the Muddy River (today part of Boston’s Back Bay/Brookline area). This account, preserved in the journal of Puritan leader **John Winthrop**, has been retold in UFO lore as “America’s first UFO sighting.” In the context of Massachusetts’s long history of unusual‑light reports, it stands out less as evidence of extraterrestrial craft and more as a vivid example of how people in the 17th century described strange luminous phenomena without the frame of modern technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/americas-first-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY CHANNEL ITALIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">americas first ufo sighting</span><span class="citation-popover-snippet">HISTORY CHANNEL ITALIAAmerica’s First UFO Sighting &#124; HISTORYNovember 9, 2016...</span><span class="citation-popover-meta">Published: November 9, 2016</span></span></span>
 
 <img src="{{ "/assets/images/Massachusetts_d42990_muddy_river_1639_lig_898157-overview.webp" | relative_url }}" alt="Overview image for Muddy River" loading="eager" decoding="sync" fetchpriority="high">
 ## What Winthrop’s Journal Actually Describes
 
-On or about 1 March 1639, Winthrop, governor of the **Massachusetts Bay Colony**, recorded in his personal journal an account given to him by James Everell and two companions of an extraordinary light seen at night while they were on the **Muddy River**. According to Winthrop: the light appeared large — about “three yards square” — and “flamed up” when stationary; when it moved it reportedly became “contracted into the figure of a swine,” and darted “as swift as an arrow” back and forth between the river and the village of Charlestown over a span of “two or three hours.” When the light receded, the men found themselves inexplicably “carried quite back against the tide” to their starting point. Winthrop also noted that “divers other credible persons saw the same light, after, about the same place.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/americas-first-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY CHANNEL ITALIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">americas first ufo sighting</span><span class="citation-popover-snippet">HISTORY CHANNEL ITALIAAmerica’s First UFO Sighting | HISTORYNovember 9, 2016...</span><span class="citation-popover-meta">Published: November 9, 2016</span></span></span>
+On or about 1 March 1639, Winthrop, governor of the **Massachusetts Bay Colony**, recorded in his personal journal an account given to him by James Everell and two companions of an extraordinary light seen at night while they were on the **Muddy River**. According to Winthrop: the light appeared large — about “three yards square” — and “flamed up” when stationary; when it moved it reportedly became “contracted into the figure of a swine,” and darted “as swift as an arrow” back and forth between the river and the village of Charlestown over a span of “two or three hours.” When the light receded, the men found themselves inexplicably “carried quite back against the tide” to their starting point. Winthrop also noted that “divers other credible persons saw the same light, after, about the same place.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/americas-first-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY CHANNEL ITALIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">americas first ufo sighting</span><span class="citation-popover-snippet">HISTORY CHANNEL ITALIAAmerica’s First UFO Sighting &#124; HISTORYNovember 9, 2016...</span><span class="citation-popover-meta">Published: November 9, 2016</span></span></span>
 
 In Winthrop’s colonial context, this was simply recorded as an event of interest — not categorised with any notion of extraterrestrial intelligence or science‑fiction craft. His journal covers a wide range of daily life, governance issues, weather and social events alongside unusual phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/John_Winthrop" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">John Winthrop</span><span class="citation-popover-snippet">John Winthrop</span></span></span>
 
-
-<img src="{{ "/assets/images/Massachusetts_d42990_muddy_river_1639_lig_898157-Illustration-1-light.svg" | relative_url }}" alt="Muddy River illustration 1" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_muddy_river_1639_lig_898157-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_muddy_river_1639_lig_898157-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Massachusetts_d42990_muddy_river_1639_lig_898157-Illustration-1-dark.svg" | relative_url }}" alt="Muddy River illustration 1" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_muddy_river_1639_lig_898157-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_muddy_river_1639_lig_898157-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Colonial Context Changes the Question
 
-For modern readers, the 1639 report is fascinating because it predates mechanical flight by centuries and was recorded by a respected colonial governor, whose journal is a cornerstone of early Massachusetts history. However, interpreting it as a “UFO sighting” in the 21st‑century sense imposes contemporary categories on a very different cultural moment. In the 17th century, unexplained lights in the sky were often noted without any technical framework and might be interpreted in religious, portentous or naturalistic terms depending on the observer’s worldview. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.masshist.org/beehiveblog/2020/10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: masshist.org">[Massachusetts Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">masshist.org</span><span class="citation-popover-snippet">Massachusetts Historical SocietyOctober | 2020 | Beehive28 Oct 2020 — It describes a strange light in the sky above the Muddy River: “Whe...</span></span></span>
+For modern readers, the 1639 report is fascinating because it predates mechanical flight by centuries and was recorded by a respected colonial governor, whose journal is a cornerstone of early Massachusetts history. However, interpreting it as a “UFO sighting” in the 21st‑century sense imposes contemporary categories on a very different cultural moment. In the 17th century, unexplained lights in the sky were often noted without any technical framework and might be interpreted in religious, portentous or naturalistic terms depending on the observer’s worldview. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.masshist.org/beehiveblog/2020/10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: masshist.org">[Massachusetts Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">masshist.org</span><span class="citation-popover-snippet">Massachusetts Historical SocietyOctober &#124; 2020 &#124; Beehive28 Oct 2020 — It describes a strange light in the sky above the Muddy River: “Whe...</span></span></span>
 
-Another important point is that the witnesses described what they saw using metaphors familiar to them — for example saying the light “contracted into the figure of a swine” — which almost certainly reflects an attempt to describe shape and behaviour rather than a report of a literal flying animal. Stories like this were recorded alongside other unexplained lights, voices, and celestial phenomena in the same journal, suggesting that colonial observers frequently noted and discussed unusual atmospheric or radiant effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.masshist.org/beehiveblog/2020/10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: masshist.org">[Massachusetts Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">masshist.org</span><span class="citation-popover-snippet">Massachusetts Historical SocietyOctober | 2020 | Beehive28 Oct 2020 — It describes a strange light in the sky above the Muddy River: “Whe...</span></span></span>
+Another important point is that the witnesses described what they saw using metaphors familiar to them — for example saying the light “contracted into the figure of a swine” — which almost certainly reflects an attempt to describe shape and behaviour rather than a report of a literal flying animal. Stories like this were recorded alongside other unexplained lights, voices, and celestial phenomena in the same journal, suggesting that colonial observers frequently noted and discussed unusual atmospheric or radiant effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.masshist.org/beehiveblog/2020/10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: masshist.org">[Massachusetts Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">masshist.org</span><span class="citation-popover-snippet">Massachusetts Historical SocietyOctober &#124; 2020 &#124; Beehive28 Oct 2020 — It describes a strange light in the sky above the Muddy River: “Whe...</span></span></span>
 
-
-<img src="{{ "/assets/images/Massachusetts_d42990_muddy_river_1639_lig_898157-Illustration-3-light.svg" | relative_url }}" alt="Muddy River illustration 3" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_muddy_river_1639_lig_898157-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_muddy_river_1639_lig_898157-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Massachusetts_d42990_muddy_river_1639_lig_898157-Illustration-3-dark.svg" | relative_url }}" alt="Muddy River illustration 3" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_muddy_river_1639_lig_898157-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_muddy_river_1639_lig_898157-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/My3CqCdsg6o" title="History of New England, 1630-1649 by John WINTHROP read by Aaron Decker Part 1/3 | Full Audio Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=My3CqCdsg6o" target="_blank" rel="noopener noreferrer">History of New England, 1630-1649 by John WINTHROP read by Aaron Decker Part 1/3 | Full Audio Book</a></p><p class="youtube-embed-meta">Channel: LibriVox Audiobooks &middot; Views: 5.3K &middot; Uploaded: January 2021 &middot; Length: 7 hours 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=My3CqCdsg6o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=My3CqCdsg6o">Open on YouTube</a></p></div></div></div>
 
@@ -297,18 +294,14 @@ Modern analyses stress that this account lacks the kinds of precise observationa
 
 Many later retellings of the Muddy River tale in UFO literature and popular media emphasise the “first UFO” angle or add speculative interpretations involving missing time or bizarre movement, often without citing the original source or context. This divergence between primary‑source description and later reinterpretation illustrates how stories can shift over time as cultural frames change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.celebrateboston.com/ufo/first-ufo-sighting.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celebrateboston.com">[Celebrate Boston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celebrateboston.com</span><span class="citation-popover-title">first ufo sighting</span><span class="citation-popover-snippet">Celebrate BostonAmerica&#x27;s First UFO Sighting was at Boston in 1639...</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EOMhghOWd1M" title="The Ultimate Alien &amp; UFO Iceberg Explained - The Finale" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EOMhghOWd1M" target="_blank" rel="noopener noreferrer">The Ultimate Alien &amp; UFO Iceberg Explained - The Finale</a></p><p class="youtube-embed-meta">Channel: Connor&#x27;s Curiosities &middot; Views: 412.0K &middot; Uploaded: June 2024 &middot; Length: 2 hours 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EOMhghOWd1M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EOMhghOWd1M">Open on YouTube</a></p></div></div></div>
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WUf77z92dq0" title="Most CHILLING UFO Sightings You Haven&#x27;t Heard About!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WUf77z92dq0" target="_blank" rel="noopener noreferrer">Most CHILLING UFO Sightings You Haven&#x27;t Heard About!</a></p><p class="youtube-embed-meta">Channel: Origins Explained &middot; Views: 63.7K &middot; Uploaded: January 2019 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WUf77z92dq0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WUf77z92dq0">Open on YouTube</a></p></div></div></div>
-
-
-<img src="{{ "/assets/images/Massachusetts_d42990_muddy_river_1639_lig_898157-Illustration-2-light.svg" | relative_url }}" alt="Muddy River illustration 2" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_muddy_river_1639_lig_898157-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_muddy_river_1639_lig_898157-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Massachusetts_d42990_muddy_river_1639_lig_898157-Illustration-2-dark.svg" | relative_url }}" alt="Muddy River illustration 2" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_muddy_river_1639_lig_898157-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_muddy_river_1639_lig_898157-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Case Matters in Massachusetts UFO History
 
-Within Massachusetts’s broader UFO history, the Muddy River 1639 account matters chiefly as a **historical precursor** rather than as a strong case of an unexplained aerial vehicle. It shows that settlers documented strange luminous events long before aviation and radar, offering insight into early encounters with the unknown and how people tried to make sense of them. As part of the state’s UFO heritage, it highlights the importance of understanding the cultural and environmental context when interpreting reports of unusual lights or objects in the sky — be they from colonial journals or modern radar logs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/americas-first-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY CHANNEL ITALIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">americas first ufo sighting</span><span class="citation-popover-snippet">HISTORY CHANNEL ITALIAAmerica’s First UFO Sighting | HISTORYNovember 9, 2016...</span><span class="citation-popover-meta">Published: November 9, 2016</span></span></span>
-
+Within Massachusetts’s broader UFO history, the Muddy River 1639 account matters chiefly as a **historical precursor** rather than as a strong case of an unexplained aerial vehicle. It shows that settlers documented strange luminous events long before aviation and radar, offering insight into early encounters with the unknown and how people tried to make sense of them. As part of the state’s UFO heritage, it highlights the importance of understanding the cultural and environmental context when interpreting reports of unusual lights or objects in the sky — be they from colonial journals or modern radar logs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/americas-first-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY CHANNEL ITALIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">americas first ufo sighting</span><span class="citation-popover-snippet">HISTORY CHANNEL ITALIAAmerica’s First UFO Sighting &#124; HISTORYNovember 9, 2016...</span><span class="citation-popover-meta">Published: November 9, 2016</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YR4mDKwagAA" title="TOP 5 SHOCKING UFO SIGHTINGS IN THE USA | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YR4mDKwagAA" target="_blank" rel="noopener noreferrer">TOP 5 SHOCKING UFO SIGHTINGS IN THE USA | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 1.3M &middot; Uploaded: April 2022 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YR4mDKwagAA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YR4mDKwagAA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -379,7 +372,7 @@ Within Massachusetts’s broader UFO history, the Muddy River 1639 account matte
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -389,111 +382,36 @@ Within Massachusetts’s broader UFO history, the Muddy River 1639 account matte
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="https://i.ebayimg.com/images/g/nuEAAOSwVJRnoU9g/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -501,15 +419,15 @@ Within Massachusetts’s broader UFO history, the Muddy River 1639 account matte
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -517,15 +435,15 @@ Within Massachusetts’s broader UFO history, the Muddy River 1639 account matte
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster"><img src="https://i.ebayimg.com/images/g/H3QAAOSwSyRmwGFD/s-l225.jpg" alt="Listing image for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -533,15 +451,15 @@ Within Massachusetts’s broader UFO history, the Muddy River 1639 account matte
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -549,7 +467,7 @@ Within Massachusetts’s broader UFO history, the Muddy River 1639 account matte
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muddy-river-was-america-s-first-ufo-really-in-boston-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-america-s-first-ufo-really-in-boston-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -626,17 +544,31 @@ Within Massachusetts’s broader UFO history, the Muddy River 1639 account matte
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -649,42 +581,73 @@ Within Massachusetts’s broader UFO history, the Muddy River 1639 account matte
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -699,12 +662,17 @@ Within Massachusetts’s broader UFO history, the Muddy River 1639 account matte
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -715,91 +683,91 @@ Within Massachusetts’s broader UFO history, the Muddy River 1639 account matte
 1. <a id="endnote-1"></a>
    Source: history.com  
    Title: americas first ufo sighting  
-   Link: [https://www.history.com/articles/americas-first-ufo-sighting](https://www.history.com/articles/americas-first-ufo-sighting)  
+   Link: <a href="https://www.history.com/articles/americas-first-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/americas-first-ufo-sighting</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY CHANNEL ITALIAAmerica’s First UFO Sighting | HISTORYNovember 9, 2016...</p></details>
    Published: November 9, 2016  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: John Winthrop  
-   Link: [https://en.wikipedia.org/wiki/John_Winthrop](https://en.wikipedia.org/wiki/John_Winthrop)  
+   Link: <a href="https://en.wikipedia.org/wiki/John_Winthrop" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/John_Winthrop</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Will-o%27-the-wisp](https://en.wikipedia.org/wiki/Will-o%27-the-wisp)  
+   Link: <a href="https://en.wikipedia.org/wiki/Will-o%27-the-wisp" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Will-o%27-the-wisp</a>  
 
 4. <a id="endnote-4"></a>
    Source: masshist.org  
-   Link: [https://www.masshist.org/beehiveblog/2020/10/](https://www.masshist.org/beehiveblog/2020/10/)  
+   Link: <a href="https://www.masshist.org/beehiveblog/2020/10/" target="_blank" rel="noopener noreferrer nofollow">https://www.masshist.org/beehiveblog/2020/10/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Massachusetts Historical SocietyOctober | 2020 | Beehive28 Oct 2020 — It describes a strange light in the sky above the Muddy River: “Whe...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: celebrateboston.com  
    Title: first ufo sighting  
-   Link: [https://www.celebrateboston.com/ufo/first-ufo-sighting.htm](https://www.celebrateboston.com/ufo/first-ufo-sighting.htm)  
+   Link: <a href="https://www.celebrateboston.com/ufo/first-ufo-sighting.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.celebrateboston.com/ufo/first-ufo-sighting.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrate BostonAmerica&#x27;s First UFO Sighting was at Boston in 1639...</p></details>
 
 ### Additional References
 
 6. <a id="endnote-6"></a>
    Source: curiosmos.com  
-   Link: [https://curiosmos.com/colonial-americas-ufo-enigma-earliest-known-sighting-in-us-history-uncovered/](https://curiosmos.com/colonial-americas-ufo-enigma-earliest-known-sighting-in-us-history-uncovered/)  
+   Link: <a href="https://curiosmos.com/colonial-americas-ufo-enigma-earliest-known-sighting-in-us-history-uncovered/" target="_blank" rel="noopener noreferrer nofollow">https://curiosmos.com/colonial-americas-ufo-enigma-earliest-known-sighting-in-us-history-uncovered/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Depositphotos. COLONIAL AMERICA’S UFO ENIGMA: EARLIEST KNOWN SIGHTING IN US HISTORY UNCOVERED Written by ImageIvan Petricevic | Posted on...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
    Title: the first recorded ufo sighting dates to 1639 when long before the era of planes  
-   Link: [https://www.facebook.com/13news/posts/the-first-recorded-ufo-sighting-dates-to-1639-when-long-before-the-era-of-planes/10157783666484364/](https://www.facebook.com/13news/posts/the-first-recorded-ufo-sighting-dates-to-1639-when-long-before-the-era-of-planes/10157783666484364/)  
+   Link: <a href="https://www.facebook.com/13news/posts/the-first-recorded-ufo-sighting-dates-to-1639-when-long-before-the-era-of-planes/10157783666484364/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/13news/posts/the-first-recorded-ufo-sighting-dates-to-1639-when-long-before-the-era-of-planes/10157783666484364/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The first recorded UFO sighting dates to 1639 when, long...“In his diary entry of March 1 that year, Winthrop wrote that a &#x27;sober, discr...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: medium.com  
    Title: first documented american alien abduction case recorded in 1639 409224c904aa  
-   Link: [https://medium.com/89-second-to/first-documented-american-alien-abduction-case-recorded-in-1639-409224c904aa](https://medium.com/89-second-to/first-documented-american-alien-abduction-case-recorded-in-1639-409224c904aa)  
+   Link: <a href="https://medium.com/89-second-to/first-documented-american-alien-abduction-case-recorded-in-1639-409224c904aa" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/89-second-to/first-documented-american-alien-abduction-case-recorded-in-1639-409224c904aa</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>First Documented American Alien Abduction Case Recorded in 1639 | by Chet Dembeck | 89 Seconds To | Sep, 2025 | MediumSeptember 12, 2025...</p></details>
    Published: September 12, 2025  
 
 9. <a id="endnote-9"></a>
    Source: exonews.org  
    Title: Eerie Lights Over Early Massachusetts: The First UFO Sightings in the New  
-   Link: [https://exonews.org/eerie-lights-over-early-massachusetts-the-first-ufo-sightings-in-the-new-world/](https://exonews.org/eerie-lights-over-early-massachusetts-the-first-ufo-sightings-in-the-new-world/)  
+   Link: <a href="https://exonews.org/eerie-lights-over-early-massachusetts-the-first-ufo-sightings-in-the-new-world/" target="_blank" rel="noopener noreferrer nofollow">https://exonews.org/eerie-lights-over-early-massachusetts-the-first-ufo-sightings-in-the-new-world/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 21, 2018 — EERIE LIGHTS OVER EARLY MASSACHUSETTS: THE FIRST UFO SIGHTINGS IN THE NEW WORLD * January 21, 2018 * ExoNews Editor *...</p></details>
    Published: January 21, 2018  
 
 10. <a id="endnote-10"></a>
    Source: bostonmagazine.com  
    Title: When the Great Barrington Historical Society & Museum inducted their st  
-   Link: [https://www.bostonmagazine.com/news/2015/04/28/alien-encounters-in-massachusetts/](https://www.bostonmagazine.com/news/2015/04/28/alien-encounters-in-massachusetts/)  
+   Link: <a href="https://www.bostonmagazine.com/news/2015/04/28/alien-encounters-in-massachusetts/" target="_blank" rel="noopener noreferrer nofollow">https://www.bostonmagazine.com/news/2015/04/28/alien-encounters-in-massachusetts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Is Out There: Alien Encounters in MassachusettsApril 28, 2015 — THE TRUTH IS OUT THERE Since the late ’60s, members of the Reed...</p></details>
    Published: April 28, 2015  
 
 11. <a id="endnote-11"></a>
    Source: salempl.org  
    Title: Original Narratives of Early American History Winthrops Journal vol. 2  
-   Link: [https://salempl.org/wp-content/uploads/2022/06/Original-Narratives-of-Early-American-History-Winthrops-Journal-vol.-2.pdf](https://salempl.org/wp-content/uploads/2022/06/Original-Narratives-of-Early-American-History-Winthrops-Journal-vol.-2.pdf)  
+   Link: <a href="https://salempl.org/wp-content/uploads/2022/06/Original-Narratives-of-Early-American-History-Winthrops-Journal-vol.-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://salempl.org/wp-content/uploads/2022/06/Original-Narratives-of-Early-American-History-Winthrops-Journal-vol.-2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>J. F. J. Page 13. CONTENTS. WINTHROP&#x27;S JOURNAL. &quot;HISTORY OF... Muddy river to Boston, and when it thawed it removed great rocks of above...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
    Title: Swamp luminosity phenomenon (or whatever it is called?  
-   Link: [https://www.reddit.com/r/AskScienceDiscussion/comments/ew5kwq/swamp_luminosity_phenomenon_or_whatever_it_is/](https://www.reddit.com/r/AskScienceDiscussion/comments/ew5kwq/swamp_luminosity_phenomenon_or_whatever_it_is/)  
+   Link: <a href="https://www.reddit.com/r/AskScienceDiscussion/comments/ew5kwq/swamp_luminosity_phenomenon_or_whatever_it_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskScienceDiscussion/comments/ew5kwq/swamp_luminosity_phenomenon_or_whatever_it_is/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>)...It is said that on a moonless night when mist raises over a swamp, strange glow can sometimes be seen in the darkness. Taking photos...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: higgypop.com  
    Title: Many people think Roswell marked America's first UFO  
-   Link: [https://www.higgypop.com/news/americas-first-ufo-sighting-was-way-earlier-than-you-think/](https://www.higgypop.com/news/americas-first-ufo-sighting-was-way-earlier-than-you-think/)  
+   Link: <a href="https://www.higgypop.com/news/americas-first-ufo-sighting-was-way-earlier-than-you-think/" target="_blank" rel="noopener noreferrer nofollow">https://www.higgypop.com/news/americas-first-ufo-sighting-was-way-earlier-than-you-think/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s First UFO Sighting Was Way Earlier Than You Think | HiggypopMarch 23, 2023 — AMERICA&#x27;S FIRST UFO SIGHTING WAS WAY EARLIER THAN...</p></details>
    Published: March 23, 2023  
 
 14. <a id="endnote-14"></a>
    Source: scientificamerican.com  
    Title: marsh will o the wisps sparked by strange chemistry  
-   Link: [https://www.scientificamerican.com/article/marsh-will-o-the-wisps-sparked-by-strange-chemistry/](https://www.scientificamerican.com/article/marsh-will-o-the-wisps-sparked-by-strange-chemistry/)  
+   Link: <a href="https://www.scientificamerican.com/article/marsh-will-o-the-wisps-sparked-by-strange-chemistry/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/marsh-will-o-the-wisps-sparked-by-strange-chemistry/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Marsh Will-o&#x27;-the-Wisps Sparked by Strange Chemistry29 Sept 2025 — Scientists have offered a different explanation: the lights form when...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: Next time you see a light in the woods, stay put  
-   Link: [https://www.facebook.com/theblackdragontavern/videos/the-fools-fire/4296811090531031/](https://www.facebook.com/theblackdragontavern/videos/the-fools-fire/4296811090531031/)  
+   Link: <a href="https://www.facebook.com/theblackdragontavern/videos/the-fools-fire/4296811090531031/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theblackdragontavern/videos/the-fools-fire/4296811090531031/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>🌲🚫 We call...Scientists say it&#x27;s just swamp gas... It will lead you off the path step by step until the ground turns to water and once...</p></details>

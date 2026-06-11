@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /flatwoods/
 nav_short_title: Owl theory
 title: Could an owl explain the Flatwoods Monster?
-title_full: Could an owl explain the Flatwoods Monster? | Flatwoods
+title_full: Could an owl explain the Flatwoods Monster?
 display_title_short: Owl theory
 display_title: Owl theory
 heading_title: Could an owl explain the Flatwoods Monster?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:27:53'
-parent_title: Did Flatwoods See a Monster or a Mistake? | West Virginia UFOs
+parent_title: Did Flatwoods See a Monster or a Mistake?
 parent_permalink: /flatwoods/
 parent_nav_short_title: Flatwoods
 parent_heading_title: Did Flatwoods See a Monster or a Mistake?
@@ -250,10 +250,9 @@ image: /assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods
 
 ## Introduction
 
-The strongest sceptical explanation for the [Flatwoods Monster]({{ 'flatwoods/' | relative_url }}) does not depend on a single mistake. Instead, it argues that several ordinary events happened at the same time and were combined by frightened [witnesses]({{ 'witnesses-33b724/' | relative_url }}) into one extraordinary experience. In this reading, the famous September 1952 encounter began with a genuine fireball in the sky, continued with a distant red light that looked mysterious in the darkness, and ended with a startled barn owl seen under poor viewing conditions. The theory matters because it attempts to explain not only the reported “monster”, but also why multiple witnesses sincerely believed they had seen something inhuman. Rather than accusing the witnesses of inventing the story, sceptics argue that fear, darkness and expectation transformed real sights into a memorable UFO legend. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2000/11/22164839/p15.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">The Flatwoods UFO Monster1 Jun 2000 — Flatwoods Monster is the description of its cry as &quot;something between a hiss and... &quot;Monster&quot; held...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://monster.fandom.com/wiki/Flatwoods_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monster.fandom.com">[Monster Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monster.fandom.com</span><span class="citation-popover-title">Monster Wiki Flatwoods Monster</span><span class="citation-popover-snippet">meteor, that the pulsating red light was likely an aircraft navigation/hazard beacon, and that the creature described by witnesses closel...</span></span></span>
+The strongest sceptical explanation for the [Flatwoods]({{ 'flatwoods/' | relative_url }}) Monster does not depend on a single mistake. Instead, it argues that several ordinary events happened at the same time and were combined by frightened [witnesses]({{ 'witnesses-33b724/' | relative_url }}) into one extraordinary experience. In this reading, the famous September 1952 encounter began with a genuine fireball in the sky, continued with a distant red light that looked mysterious in the darkness, and ended with a startled barn owl seen under poor viewing conditions. The theory matters because it attempts to explain not only the reported “monster”, but also why multiple witnesses sincerely believed they had seen something inhuman. Rather than accusing the witnesses of inventing the story, sceptics argue that fear, darkness and expectation transformed real sights into a memorable UFO legend. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2000/11/22164839/p15.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">The Flatwoods UFO Monster1 Jun 2000 — Flatwoods Monster is the description of its cry as &quot;something between a hiss and... &quot;Monster&quot; held...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://monster.fandom.com/wiki/Flatwoods_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monster.fandom.com">[Monster Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monster.fandom.com</span><span class="citation-popover-title">Monster Wiki Flatwoods Monster</span><span class="citation-popover-snippet">meteor, that the pulsating red light was likely an aircraft navigation/hazard beacon, and that the creature described by witnesses closel...</span></span></span>
 
-
-<img src="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_owl_explan_5ead59-Illustration-1-light.svg" | relative_url }}" alt="Owl theory illustration 1" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_owl_explan_5ead59-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_owl_explan_5ead59-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_owl_explan_5ead59-Illustration-1-dark.svg" | relative_url }}" alt="Owl theory illustration 1" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_owl_explan_5ead59-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_owl_explan_5ead59-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Could an owl explain the Flatwoods Monster?
 
 The owl theory became especially influential after investigations by sceptical researcher Joe Nickell and others who examined how the witnesses described the creature. According to this interpretation, the famous image of a towering figure with glowing eyes, a red face and a hood-like shape can be broken into recognisable visual elements. A barn owl perched on a branch, illuminated by a flashlight, can produce bright reflective eyes. Its pale face can appear oddly shaped at night, while spread wings may create a broad silhouette that looks larger than it really is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2000/11/22164839/p15.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">The Flatwoods UFO Monster1 Jun 2000 — Flatwoods Monster is the description of its cry as &quot;something between a hiss and... &quot;Monster&quot; held...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://monster.fandom.com/wiki/Flatwoods_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monster.fandom.com">[Monster Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monster.fandom.com</span><span class="citation-popover-title">Monster Wiki Flatwoods Monster</span><span class="citation-popover-snippet">meteor, that the pulsating red light was likely an aircraft navigation/hazard beacon, and that the creature described by witnesses closel...</span></span></span>
@@ -266,8 +265,7 @@ Supporters of the owl explanation point to several reported features:
 * The reported hissing or shrieking sounds resemble the unsettling calls made by disturbed owls.
 * The apparent “floating” motion could result from an owl launching from a branch or shifting position in low light.
 * The pleated or skirt-like lower body may have been foliage, branches or shadows beneath the bird.
-* The spade-shaped outline often associated with the [Flatwoods]({{ 'flatwoods/' | relative_url }}) Monster resembles the shape created by wings raised around an owl's head. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2000/11/22164839/p15.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">The Flatwoods UFO Monster1 Jun 2000 — Flatwoods Monster is the description of its cry as &quot;something between a hiss and... &quot;Monster&quot; held...</span></span></span> YouTube The biggest challenge for the theory is scale. Witnesses described something far larger than any owl. Sceptics answer that size estimates mad <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">The Most Puzzling UFO Case of the 20th Century | MonstrumA popular theory is that the Flatwoods Monster was a female barn owl in a tree t...</span></span></span> e in darkness are notoriously unreliable, especially when observers do not know the exact distance to the object they are seeing. A relatively nearby animal can appear enormous if it is assumed to be much farther away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2000/11/22164839/p15.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">The Flatwoods UFO Monster1 Jun 2000 — Flatwoods Monster is the description of its cry as &quot;something between a hiss and... &quot;Monster&quot; held...</span></span></span>
-
+* The spade-shaped outline often associated with the Flatwoods Monster resembles the shape created by wings raised around an owl's head. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2000/11/22164839/p15.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">The Flatwoods UFO Monster1 Jun 2000 — Flatwoods Monster is the description of its cry as &quot;something between a hiss and... &quot;Monster&quot; held...</span></span></span> YouTube The biggest challenge for the theory is scale. Witnesses described something far larger than any owl. Sceptics answer that size estimates mad <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">The Most Puzzling UFO Case of the 20th Century &#124; MonstrumA popular theory is that the Flatwoods Monster was a female barn owl in a tree t...</span></span></span> e in darkness are notoriously unreliable, especially when observers do not know the exact distance to the object they are seeing. A relatively nearby animal can appear enormous if it is assumed to be much farther away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2000/11/22164839/p15.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">The Flatwoods UFO Monster1 Jun 2000 — Flatwoods Monster is the description of its cry as &quot;something between a hiss and... &quot;Monster&quot; held...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QE9pEBEZk4Q" title="Did the Flatwoods Monster Exist?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QE9pEBEZk4Q" target="_blank" rel="noopener noreferrer">Did the Flatwoods Monster Exist?</a></p><p class="youtube-embed-meta">Channel: TREY the Explainer &middot; Views: 1.6M &middot; Uploaded: February 2016 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QE9pEBEZk4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QE9pEBEZk4Q">Open on YouTube</a></p></div></div></div>
 
@@ -279,17 +277,14 @@ This matters because people commonly misjudge where meteors appear to land. A br
 
 The meteor explanation also removes the need for a crashed spacecraft. If the original fireball was a known astronomical event seen across several states, then the later search party may have gone looking for wreckage that never existed. The hilltop encounter becomes a separate event connected psychologically rather than physically to the object in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2000/11/22164839/p15.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">The Flatwoods UFO Monster1 Jun 2000 — Flatwoods Monster is the description of its cry as &quot;something between a hiss and... &quot;Monster&quot; held...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://order-of-the-jackalope.com/worse-than-frankenstein/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: order-of-the-jackalope.com">[2order-of-the-jackalope.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">order-of-the-jackalope.com</span><span class="citation-popover-title">worse than frankenstein</span><span class="citation-popover-snippet">On Friday, September 12, 1952 a meteor entered the Earth&#x27;s atmosphere somewhere above central...Read more...</span><span class="citation-popover-meta">Published: September 12, 1952</span></span></span>
 
-
-<img src="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_owl_explan_5ead59-Illustration-2-light.svg" | relative_url }}" alt="Owl theory illustration 2" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_owl_explan_5ead59-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_owl_explan_5ead59-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_owl_explan_5ead59-Illustration-2-dark.svg" | relative_url }}" alt="Owl theory illustration 2" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_owl_explan_5ead59-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_owl_explan_5ead59-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How a red beacon could join the story
 
 One of the more overlooked parts of the sceptical case concerns the pulsing red light reported near the hillside. Witnesses described a reddish glow before encountering the supposed creature. Nickell and other investigators suggested that aircraft warning beacons or navigation lights visible from the area could account for part of this observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://monster.fandom.com/wiki/Flatwoods_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monster.fandom.com">[Monster Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monster.fandom.com</span><span class="citation-popover-title">Monster Wiki Flatwoods Monster</span><span class="citation-popover-snippet">meteor, that the pulsating red light was likely an aircraft navigation/hazard beacon, and that the creature described by witnesses closel...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fleurdelolly.blogspot.com/2019/11/i-pulled-over-for-this-flatwoods_20.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fleurdelolly.blogspot.com">[2fleurdelolly.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fleurdelolly.blogspot.com</span><span class="citation-popover-snippet">I Pulled Over For This: Flatwoods Monster Museum, Sutton...Nov 20, 2019 — The night of the September 12 sighting, a meteor had been obse...</span></span></span>
 
 In this reconstruction, the witnesses were not responding to a single object. Instead, they were processing several different visual cues at once:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O20h9VELZYU" title="Alien Or Legend: The Flatwoods Monster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O20h9VELZYU" target="_blank" rel="noopener noreferrer">Alien Or Legend: The Flatwoods Monster</a></p><p class="youtube-embed-meta">Channel: BuzzFeed Unsolved Network &middot; Views: 330.3K &middot; Uploaded: July 2020 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O20h9VELZYU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O20h9VELZYU">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -303,19 +298,16 @@ Viewed separately, each element is ordinary. Viewed together by people already e
 
 This aspect of the theory is attractive to sceptics because it explains why reports mention both a strange creature and unusual lights. Rather than treating them as evidence of one object, it treats them as separate stimuli that became fused in memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://monster.fandom.com/wiki/Flatwoods_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monster.fandom.com">[Monster Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monster.fandom.com</span><span class="citation-popover-title">Monster Wiki Flatwoods Monster</span><span class="citation-popover-snippet">meteor, that the pulsating red light was likely an aircraft navigation/hazard beacon, and that the creature described by witnesses closel...</span></span></span>
 
-
-<img src="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_owl_explan_5ead59-Illustration-3-light.svg" | relative_url }}" alt="Owl theory illustration 3" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_owl_explan_5ead59-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_owl_explan_5ead59-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_owl_explan_5ead59-Illustration-3-dark.svg" | relative_url }}" alt="Owl theory illustration 3" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_owl_explan_5ead59-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b_flatwoods_owl_explan_5ead59-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the barn owl theory still matters
 
 The owl explanation remains important because it addresses a broader question in UFO history: how sincere witnesses can report extraordinary things without requiring an extraordinary cause. Flatwoods is often cited as a case study in misperception rather than deliberate invention. The witnesses appear to have been genuinely frightened, and some reported physical distress afterwards. Sceptics generally accept the emotional reality of the experience while disputing the conclusion that an alien entity was present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2000/11/22164839/p15.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">The Flatwoods UFO Monster1 Jun 2000 — Flatwoods Monster is the description of its cry as &quot;something between a hiss and... &quot;Monster&quot; held...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/the-braxton-county-monster-a-mysterious-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">the braxton county monster a mysterious encounter</span><span class="citation-popover-snippet">The Braxton County Monster: A Mysterious Encounter8 Jul 2024 — The &#x27;mass hysteria&#x27; theory suggests the reported sightings of the Flatwood...</span></span></span>
 
 The theory also survives because it explains more details than many casual debunkings. Simply saying “it was an owl” is not enough. The full sceptical argument combines the meteor, the beacon, the owl, darkness, expectation and group fear into a chain of events. Remove any one piece and the explanation becomes weaker. Together, supporters argue, the elements fit the known circumstances reasonably well. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2000/11/22164839/p15.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">The Flatwoods UFO Monster1 Jun 2000 — Flatwoods Monster is the description of its cry as &quot;something between a hiss and... &quot;Monster&quot; held...</span></span></span>
 
-Critics of the owl theory remain unconvinced. Some point to the witnesses' insistence that the figure was much larger than a bird. Others argue that the smell, reported physical reactions and unusual appearance are not fully explained. Believers also note that witnesses maintained their stories for years despite public scepticism. These objections do not prove an extraterrestrial encounter, but they explain why the Flatwoods case remains debated rather than universally accepted as solved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aliens.fandom.com/wiki/Flatwoods_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aliens.fandom.com">[Aliens]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aliens.fandom.com</span><span class="citation-popover-snippet">AliensFlatwoods Monster - Alien Species Wiki - FandomSome have suggested that the UFO was actually a meteor and that the creature was mor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Cryptozoology/comments/jrzroh/flat_woods_monster_of_west_virginia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit Within West Virginia UFO history]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Flat woods Monster of West Virginia: r/CryptozoologyApparently Mrs. May have a report in 1952 of a large hooded monster with a red glowi...</span></span></span>, the owl theory has become almost as famous as the monster itself. The case endures because both sides can point to something real: witnesses who seem sincere and a sceptical explanation that relies on recognisable human errors rather than elaborate conspiracies. More than seventy years later, the Flatwoods Monster remains a classic example of how a meteor in the sky, a distant red light and a frightened glimpse of an animal can become one of America's most enduring UFO legends. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Flatwoods Monster8 Feb 2024 — The legend of the Braxton County or Flatwoods Monster arose near dusk on September 12, 1952, when a group o...</span><span class="citation-popover-meta">Published: September 12, 1952</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2000/11/22164839/p15.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[2cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">The Flatwoods UFO Monster1 Jun 2000 — Flatwoods Monster is the description of its cry as &quot;something between a hiss and... &quot;Monster&quot; held...</span></span></span>
-
+Critics of the owl theory remain unconvinced. Some point to the witnesses' insistence that the figure was much larger than a bird. Others argue that the smell, reported physical reactions and unusual appearance are not fully explained. Believers also note that witnesses maintained their stories for years despite public scepticism. These objections do not prove an extraterrestrial encounter, but they explain why the Flatwoods case remains debated rather than universally accepted as solved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aliens.fandom.com/wiki/Flatwoods_Monster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aliens.fandom.com">[Aliens]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aliens.fandom.com</span><span class="citation-popover-snippet">Flatwoods Monster - Alien Species Wiki - FandomSome have suggested that the UFO was actually a meteor and that the creature was mor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Cryptozoology/comments/jrzroh/flat_woods_monster_of_west_virginia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit Within West Virginia UFO history]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Flat woods Monster of West Virginia: r/CryptozoologyApparently Mrs. May have a report in 1952 of a large hooded monster with a red glowi...</span></span></span>, the owl theory has become almost as famous as the monster itself. The case endures because both sides can point to something real: witnesses who seem sincere and a sceptical explanation that relies on recognisable human errors rather than elaborate conspiracies. More than seventy years later, the Flatwoods Monster remains a classic example of how a meteor in the sky, a distant red light and a frightened glimpse of an animal can become one of America's most enduring UFO legends. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Flatwoods Monster8 Feb 2024 — The legend of the Braxton County or Flatwoods Monster arose near dusk on September 12, 1952, when a group o...</span><span class="citation-popover-meta">Published: September 12, 1952</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2000/11/22164839/p15.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[2cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">The Flatwoods UFO Monster1 Jun 2000 — Flatwoods Monster is the description of its cry as &quot;something between a hiss and... &quot;Monster&quot; held...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6tRUvtyAMOg" title="Flatwoods Monster Solved!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6tRUvtyAMOg" target="_blank" rel="noopener noreferrer">Flatwoods Monster Solved!</a></p><p class="youtube-embed-meta">Channel: TREY the Explainer &middot; Views: 287.8K &middot; Uploaded: March 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6tRUvtyAMOg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6tRUvtyAMOg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -403,180 +395,486 @@ Critics of the owl theory remain unconvinced. Some point to the witnesses' insis
   </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-an-owl-explain-the-flatwoods-monster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-an-owl-explain-the-flatwoods-monster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-an-owl-explain-the-flatwoods-monster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-an-owl-explain-the-flatwoods-monster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-an-owl-explain-the-flatwoods-monster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-an-owl-explain-the-flatwoods-monster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-an-owl-explain-the-flatwoods-monster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-an-owl-explain-the-flatwoods-monster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-an-owl-explain-the-flatwoods-monster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-an-owl-explain-the-flatwoods-monster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-an-owl-explain-the-flatwoods-monster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-an-owl-explain-the-flatwoods-monster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-an-owl-explain-the-flatwoods-monster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-an-owl-explain-the-flatwoods-monster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-an-owl-explain-the-flatwoods-monster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-an-owl-explain-the-flatwoods-monster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-an-owl-explain-the-flatwoods-monster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-an-owl-explain-the-flatwoods-monster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-an-owl-explain-the-flatwoods-monster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-an-owl-explain-the-flatwoods-monster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-an-owl-explain-the-flatwoods-monster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-an-owl-explain-the-flatwoods-monster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-an-owl-explain-the-flatwoods-monster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-an-owl-explain-the-flatwoods-monster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-an-owl-explain-the-flatwoods-monster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-an-owl-explain-the-flatwoods-monster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-an-owl-explain-the-flatwoods-monster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-an-owl-explain-the-flatwoods-monster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-an-owl-explain-the-flatwoods-monster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-an-owl-explain-the-flatwoods-monster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-an-owl-explain-the-flatwoods-monster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-an-owl-explain-the-flatwoods-monster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-an-owl-explain-the-flatwoods-monster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="could-an-owl-explain-the-flatwoods-monster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: cdn.centerforinquiry.org  
-   Link: [https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2000/11/22164839/p15.pdf](https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2000/11/22164839/p15.pdf)  
+   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2000/11/22164839/p15.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2000/11/22164839/p15.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Flatwoods UFO Monster1 Jun 2000 — Flatwoods Monster is the description of its cry as &quot;something between a hiss and... &quot;Monster&quot; held...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: wvencyclopedia.org  
-   Link: [https://www.wvencyclopedia.org/articles/2192](https://www.wvencyclopedia.org/articles/2192)  
+   Link: <a href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow">https://www.wvencyclopedia.org/articles/2192</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flatwoods Monster8 Feb 2024 — The legend of the Braxton County or Flatwoods Monster arose near dusk on September 12, 1952, when a group o...</p></details>
    Published: September 12, 1952  
 
 3. <a id="endnote-3"></a>
    Source: discoveryuk.com  
    Title: the braxton county monster a mysterious encounter  
-   Link: [https://www.discoveryuk.com/mysteries/the-braxton-county-monster-a-mysterious-encounter/](https://www.discoveryuk.com/mysteries/the-braxton-county-monster-a-mysterious-encounter/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/the-braxton-county-monster-a-mysterious-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-braxton-county-monster-a-mysterious-encounter/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Braxton County Monster: A Mysterious Encounter8 Jul 2024 — The &#x27;mass hysteria&#x27; theory suggests the reported sightings of the Flatwood...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Pex7x4Z9htw](https://www.youtube.com/watch?v=Pex7x4Z9htw)  
+   Link: <a href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pex7x4Z9htw</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Puzzling UFO Case of the 20th Century | MonstrumA popular theory is that the Flatwoods Monster was a female barn owl in a tree t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Cryptozoology/comments/jrzroh/flat_woods_monster_of_west_virginia/](https://www.reddit.com/r/Cryptozoology/comments/jrzroh/flat_woods_monster_of_west_virginia/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flat woods Monster of [West Virginia](&amp;#123;&amp;#123; &#x27;what-really-haunts-west-virginias-ufo/&#x27; | relative_url &amp;#125;&amp;#125;): r/CryptozoologyApparently Mrs. May have a report in 1952 of a large hooded monster with a red glowi...</p></details>
+   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/jrzroh/flat_woods_monster_of_west_virginia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/jrzroh/flat_woods_monster_of_west_virginia/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flat woods Monster of West Virginia: r/CryptozoologyApparently Mrs. May have a report in 1952 of a large hooded monster with a red glowi...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: order-of-the-jackalope.com  
    Title: worse than frankenstein  
-   Link: [https://order-of-the-jackalope.com/worse-than-frankenstein/](https://order-of-the-jackalope.com/worse-than-frankenstein/)  
+   Link: <a href="https://order-of-the-jackalope.com/worse-than-frankenstein/" target="_blank" rel="noopener noreferrer nofollow">https://order-of-the-jackalope.com/worse-than-frankenstein/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>On Friday, September 12, 1952 a meteor entered the Earth&#x27;s atmosphere somewhere above central...Read more...</p></details>
    Published: September 12, 1952  
 
 7. <a id="endnote-7"></a>
    Source: fleurdelolly.blogspot.com  
-   Link: [https://fleurdelolly.blogspot.com/2019/11/i-pulled-over-for-this-flatwoods_20.html](https://fleurdelolly.blogspot.com/2019/11/i-pulled-over-for-this-flatwoods_20.html)  
+   Link: <a href="https://fleurdelolly.blogspot.com/2019/11/i-pulled-over-for-this-flatwoods_20.html" target="_blank" rel="noopener noreferrer nofollow">https://fleurdelolly.blogspot.com/2019/11/i-pulled-over-for-this-flatwoods_20.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I Pulled Over For This: Flatwoods Monster Museum, Sutton...Nov 20, 2019 — The night of the September 12 sighting, a meteor had been obse...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: what the hell happened in flatwoods wv in 1952  
-   Link: [https://www.reddit.com/r/cryptids/comments/1i9tqqn/what_the_hell_happened_in_flatwoods_wv_in_1952/](https://www.reddit.com/r/cryptids/comments/1i9tqqn/what_the_hell_happened_in_flatwoods_wv_in_1952/)  
+   Link: <a href="https://www.reddit.com/r/cryptids/comments/1i9tqqn/what_the_hell_happened_in_flatwoods_wv_in_1952/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/cryptids/comments/1i9tqqn/what_the_hell_happened_in_flatwoods_wv_in_1952/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What the hell happened in Flatwoods, WV in 1952? UFOs, a...The Flatwoods Monster isn&#x27;t just just a piece of folklore it&#x27;s a reminder tha...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Cryptozoology/comments/1h02c9r/just_a_guess/](https://www.reddit.com/r/Cryptozoology/comments/1h02c9r/just_a_guess/)  
+   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/1h02c9r/just_a_guess/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/1h02c9r/just_a_guess/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Just a guess: r/CryptozoologyAn owl has actually been the top theory for the Flatwoods monster and [Mothman](&amp;#123;&amp;#123; &#x27;mothman/&#x27; | relative_url &amp;#125;&amp;#125;) for quite a long time. During...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Did the Flatwoods Monster Exist?  
-   Link: [https://www.youtube.com/watch?v=QE9pEBEZk4Q](https://www.youtube.com/watch?v=QE9pEBEZk4Q)  
+   Link: <a href="https://www.youtube.com/watch?v=QE9pEBEZk4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QE9pEBEZk4Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flatwoods Monster Solved...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Flatwoods Monster Solved!  
-   Link: [https://www.youtube.com/watch?v=6tRUvtyAMOg](https://www.youtube.com/watch?v=6tRUvtyAMOg)  
+   Link: <a href="https://www.youtube.com/watch?v=6tRUvtyAMOg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6tRUvtyAMOg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Puzzling UFO Case of the 20th Century | Monstrum...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Braxxie: The Flatwoods Monster Alien Sighting | Grim Gallery #5  
-   Link: [https://www.youtube.com/watch?v=yz5uAi7fNVs](https://www.youtube.com/watch?v=yz5uAi7fNVs)  
+   Link: <a href="https://www.youtube.com/watch?v=yz5uAi7fNVs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yz5uAi7fNVs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Or Legend: The Flatwoods Monster...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Alien Or Legend: The Flatwoods Monster  
-   Link: [https://www.youtube.com/watch?v=O20h9VELZYU](https://www.youtube.com/watch?v=O20h9VELZYU)  
+   Link: <a href="https://www.youtube.com/watch?v=O20h9VELZYU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O20h9VELZYU</a>  
 
 14. <a id="endnote-14"></a>
    Source: monster.fandom.com  
    Title: Monster Wiki Flatwoods Monster  
-   Link: [https://monster.fandom.com/wiki/Flatwoods_Monster](https://monster.fandom.com/wiki/Flatwoods_Monster)  
+   Link: <a href="https://monster.fandom.com/wiki/Flatwoods_Monster" target="_blank" rel="noopener noreferrer nofollow">https://monster.fandom.com/wiki/Flatwoods_Monster</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>meteor, that the pulsating red light was likely an aircraft navigation/hazard beacon, and that the creature described by witnesses closel...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: aliens.fandom.com  
-   Link: [https://aliens.fandom.com/wiki/Flatwoods_Monster](https://aliens.fandom.com/wiki/Flatwoods_Monster)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AliensFlatwoods Monster - Alien Species Wiki - FandomSome have suggested that the UFO was actually a meteor and that the creature was mor...</p></details>
+   Link: <a href="https://aliens.fandom.com/wiki/Flatwoods_Monster" target="_blank" rel="noopener noreferrer nofollow">https://aliens.fandom.com/wiki/Flatwoods_Monster</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flatwoods Monster - Alien Species Wiki - FandomSome have suggested that the UFO was actually a meteor and that the creature was mor...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ballyraven.com  
-   Link: [https://www.ballyraven.com/encyclopedia/flatwoods-monster](https://www.ballyraven.com/encyclopedia/flatwoods-monster)  
+   Link: <a href="https://www.ballyraven.com/encyclopedia/flatwoods-monster" target="_blank" rel="noopener noreferrer nofollow">https://www.ballyraven.com/encyclopedia/flatwoods-monster</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7:15 p.m.. September 12th, 1952. Flatwoods, WV. Three boys (Neil Nunley - age 14, Eddie May - age 13, and Freddie May - age 14)...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: cryptidz.fandom.com  
    Title: Flatwoods Monster  
-   Link: [https://cryptidz.fandom.com/wiki/Flatwoods_Monster](https://cryptidz.fandom.com/wiki/Flatwoods_Monster)  
+   Link: <a href="https://cryptidz.fandom.com/wiki/Flatwoods_Monster" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Flatwoods_Monster</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Monster - Cryptid Wiki - FandomA cryptid sighted in the forests of Flatwoods, West Virginia and Frametown, West Virginia, respectively. I...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: muc.fandom.com  
    Title: The Flatwoods Monster  
-   Link: [https://muc.fandom.com/wiki/The_Flatwoods_Monster](https://muc.fandom.com/wiki/The_Flatwoods_Monster)  
+   Link: <a href="https://muc.fandom.com/wiki/The_Flatwoods_Monster" target="_blank" rel="noopener noreferrer nofollow">https://muc.fandom.com/wiki/The_Flatwoods_Monster</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Some folk theorise that the Flatwoods Monstrosity, is in fact, a barn owl. You see, them kids and locals who went into the dark night up...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: tsemrinpoche.com  
    Title: the flatwoods monster  
-   Link: [https://www.tsemrinpoche.com/tsem-tulku-rinpoche/paranormal/creatures-and-monsters/the-flatwoods-monster.html](https://www.tsemrinpoche.com/tsem-tulku-rinpoche/paranormal/creatures-and-monsters/the-flatwoods-monster.html)  
+   Link: <a href="https://www.tsemrinpoche.com/tsem-tulku-rinpoche/paranormal/creatures-and-monsters/the-flatwoods-monster.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tsemrinpoche.com/tsem-tulku-rinpoche/paranormal/creatures-and-monsters/the-flatwoods-monster.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Jul 2024 — Some sceptics have dismissed the sightings as nothing more than encounters with a barn owl. They say that shock has led the...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: futilitycloset.com  
    Title: the flatwoods monster  
-   Link: [https://www.futilitycloset.com/2012/12/16/the-flatwoods-monster/](https://www.futilitycloset.com/2012/12/16/the-flatwoods-monster/)  
+   Link: <a href="https://www.futilitycloset.com/2012/12/16/the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow">https://www.futilitycloset.com/2012/12/16/the-flatwoods-monster/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dec 16, 2012 — On Sept. 12, 1952, three West Virginia boys saw a floating reddish sphere drop behind a hill, where it emitted a steady gl...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: science.howstuffworks.com  
    Title: flatwoods monster  
-   Link: [https://science.howstuffworks.com/science-vs-myth/strange-creatures/flatwoods-monster.htm](https://science.howstuffworks.com/science-vs-myth/strange-creatures/flatwoods-monster.htm)  
+   Link: <a href="https://science.howstuffworks.com/science-vs-myth/strange-creatures/flatwoods-monster.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/strange-creatures/flatwoods-monster.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The creature had glowing eyes, claw-like hands and a distinct green monster appearance.Read more...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Flatwoods_monster](https://en.wikipedia.org/wiki/Flatwoods_monster)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flatwoods_monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flatwoods_monster</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flatwoods monster... September 12, 1952, after a bright light crossed the night sky. Investigators now suggest the light was a meteor...</p></details>
    Published: September 12, 1952  
 
 23. <a id="endnote-23"></a>
    Source: hangar1publishing.com  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-flatwoods-monster?srsltid=AfmBOop9bCWRTF2DkzgEBb-Uun9Jcf8dq8Ngse15MsvBdnuWDz0WTofE](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-flatwoods-monster?srsltid=AfmBOop9bCWRTF2DkzgEBb-Uun9Jcf8dq8Ngse15MsvBdnuWDz0WTofE)  
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-flatwoods-monster?srsltid=AfmBOop9bCWRTF2DkzgEBb-Uun9Jcf8dq8Ngse15MsvBdnuWDz0WTofE" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-flatwoods-monster?srsltid=AfmBOop9bCWRTF2DkzgEBb-Uun9Jcf8dq8Ngse15MsvBdnuWDz0WTofE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Flatwoods Monster CaseWelcome signs proudly proclaim it as &quot;Home of the Green Monster,&quot; and the annual &quot;Flatwoods Days&quot; festival cele...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: strangeandtwisted.com  
    Title: the twisted guide to the unexplained the flatwoods monster edition  
-   Link: [https://strangeandtwisted.com/blogs/the-twisted-guide-to-the-unexplained/the-twisted-guide-to-the-unexplained-the-flatwoods-monster-edition?srsltid=AfmBOooxLH7ldu35paTW9-lJ_rrTJNVIRhAYyM3NFSjIjLNHTQDduT5f](https://strangeandtwisted.com/blogs/the-twisted-guide-to-the-unexplained/the-twisted-guide-to-the-unexplained-the-flatwoods-monster-edition?srsltid=AfmBOooxLH7ldu35paTW9-lJ_rrTJNVIRhAYyM3NFSjIjLNHTQDduT5f)  
+   Link: <a href="https://strangeandtwisted.com/blogs/the-twisted-guide-to-the-unexplained/the-twisted-guide-to-the-unexplained-the-flatwoods-monster-edition?srsltid=AfmBOooxLH7ldu35paTW9-lJ_rrTJNVIRhAYyM3NFSjIjLNHTQDduT5f" target="_blank" rel="noopener noreferrer nofollow">https://strangeandtwisted.com/blogs/the-twisted-guide-to-the-unexplained/the-twisted-guide-to-the-unexplained-the-flatwoods-monster-edition?srsltid=AfmBOooxLH7ldu35paTW9-lJ_rrTJNVIRhAYyM3NFSjIjLNHTQDduT5f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Probably an aircraft warning beacon on the hill. And the monster itself? A very startled barn owl perched on a low branch...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: strangeandtwisted.com  
    Title: the twisted guide to the unexplained the flatwoods monster edition  
-   Link: [https://strangeandtwisted.com/blogs/the-twisted-guide-to-the-unexplained/the-twisted-guide-to-the-unexplained-the-flatwoods-monster-edition?srsltid=AfmBOoo5SK9br5YZzHA_HIjnHcc44Q2NPxq8QE7U2Jc6ylU4-rx5-X1S](https://strangeandtwisted.com/blogs/the-twisted-guide-to-the-unexplained/the-twisted-guide-to-the-unexplained-the-flatwoods-monster-edition?srsltid=AfmBOoo5SK9br5YZzHA_HIjnHcc44Q2NPxq8QE7U2Jc6ylU4-rx5-X1S)  
+   Link: <a href="https://strangeandtwisted.com/blogs/the-twisted-guide-to-the-unexplained/the-twisted-guide-to-the-unexplained-the-flatwoods-monster-edition?srsltid=AfmBOoo5SK9br5YZzHA_HIjnHcc44Q2NPxq8QE7U2Jc6ylU4-rx5-X1S" target="_blank" rel="noopener noreferrer nofollow">https://strangeandtwisted.com/blogs/the-twisted-guide-to-the-unexplained/the-twisted-guide-to-the-unexplained-the-flatwoods-monster-edition?srsltid=AfmBOoo5SK9br5YZzHA_HIjnHcc44Q2NPxq8QE7U2Jc6ylU4-rx5-X1S</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The creature that proves the universe doesn&#x27;t do subtle warnings. If it wants to tell you something important, it won&#x27;t...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: thecryptidatlas.com  
-   Link: [https://thecryptidatlas.com/flatwoods-monster-the-mysterious-green-cloaked-figure-that-haunted-west-virginia/](https://thecryptidatlas.com/flatwoods-monster-the-mysterious-green-cloaked-figure-that-haunted-west-virginia/)  
+   Link: <a href="https://thecryptidatlas.com/flatwoods-monster-the-mysterious-green-cloaked-figure-that-haunted-west-virginia/" target="_blank" rel="noopener noreferrer nofollow">https://thecryptidatlas.com/flatwoods-monster-the-mysterious-green-cloaked-figure-that-haunted-west-virginia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flatwoods Monster: The Mysterious Green Cloaked Figure...16 Nov 2024 — The creature in question would later be coined the Frametown Monster...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: beyondhaunted.com  
-   Link: [https://beyondhaunted.com/blog/flatwoods-monster](https://beyondhaunted.com/blog/flatwoods-monster)  
+   Link: <a href="https://beyondhaunted.com/blog/flatwoods-monster" target="_blank" rel="noopener noreferrer nofollow">https://beyondhaunted.com/blog/flatwoods-monster</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flatwoods Monster: The 1952 West Virginia Encounter...24 Feb 2026 — Skeptical explanations: meteor, beacons, and a barn owl on a limb...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: strangeandtwisted.com  
-   Link: [https://strangeandtwisted.com/blogs/the-twisted-guide-to-the-unexplained/the-twisted-guide-to-the-unexplained-the-flatwoods-monster-edition?srsltid=AfmBOoq3UA31Jts8nw52uD7Jyp6w7xjZEfXBk-gIQcr3QE_uM1ByqY4w](https://strangeandtwisted.com/blogs/the-twisted-guide-to-the-unexplained/the-twisted-guide-to-the-unexplained-the-flatwoods-monster-edition?srsltid=AfmBOoq3UA31Jts8nw52uD7Jyp6w7xjZEfXBk-gIQcr3QE_uM1ByqY4w)  
+   Link: <a href="https://strangeandtwisted.com/blogs/the-twisted-guide-to-the-unexplained/the-twisted-guide-to-the-unexplained-the-flatwoods-monster-edition?srsltid=AfmBOoq3UA31Jts8nw52uD7Jyp6w7xjZEfXBk-gIQcr3QE_uM1ByqY4w" target="_blank" rel="noopener noreferrer nofollow">https://strangeandtwisted.com/blogs/the-twisted-guide-to-the-unexplained/the-twisted-guide-to-the-unexplained-the-flatwoods-monster-edition?srsltid=AfmBOoq3UA31Jts8nw52uD7Jyp6w7xjZEfXBk-gIQcr3QE_uM1ByqY4w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flatwoods Monster: West Virginia&#x27;s 10-Foot Glowing Alien23 Jan 2026 — A barn owl that had simply had enough of humans poking flashlights...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DQNvQxUk1W_/](https://www.instagram.com/p/DQNvQxUk1W_/)  
+   Link: <a href="https://www.instagram.com/p/DQNvQxUk1W_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQNvQxUk1W_/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d up — alongside author Frank Feschino&#x27;s decades of...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: jamestynioniv.substack.com  
    Title: the department of truth wild fictions 48c  
-   Link: [https://jamestynioniv.substack.com/p/the-department-of-truth-wild-fictions-48c](https://jamestynioniv.substack.com/p/the-department-of-truth-wild-fictions-48c)  
+   Link: <a href="https://jamestynioniv.substack.com/p/the-department-of-truth-wild-fictions-48c" target="_blank" rel="noopener noreferrer nofollow">https://jamestynioniv.substack.com/p/the-department-of-truth-wild-fictions-48c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DEPARTMENT OF TRUTH: WILD FICTIONS 004During the evening of September 12, 1952, a group of teenage boys in Flatwoods, West Virginia, repo...</p></details>
    Published: September 12, 1952  
 
 31. <a id="endnote-31"></a>
    Source: hangar1publishing.com  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-flatwoods-monster?srsltid=AfmBOooqRaIXnVS5BuTIDgHalegfE_Y7d3sRUVlwaWw0qhL2--Ta5s-F](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-flatwoods-monster?srsltid=AfmBOooqRaIXnVS5BuTIDgHalegfE_Y7d3sRUVlwaWw0qhL2--Ta5s-F)  
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-flatwoods-monster?srsltid=AfmBOooqRaIXnVS5BuTIDgHalegfE_Y7d3sRUVlwaWw0qhL2--Ta5s-F" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-flatwoods-monster?srsltid=AfmBOooqRaIXnVS5BuTIDgHalegfE_Y7d3sRUVlwaWw0qhL2--Ta5s-F</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s encountered was most likely a barn owl perched...Read more...</p></details>

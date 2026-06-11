@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /mississippi-cba267-pascagoula-memory/
 description: Focused pages that expand on Public Memory.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Mississippi_cba267_pascagoula_memory_f91e6e
-parent_title: Public Memory | Mississippi
+parent_title: Public Memory
 parent_nav_short_title: Public Memory
 parent_permalink: /public-memory/
 ---

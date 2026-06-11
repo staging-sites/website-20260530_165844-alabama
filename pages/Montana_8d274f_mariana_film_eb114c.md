@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-montana-became-a-ufo-landmark/
 nav_short_title: Mariana Film
 title: What Did the Mariana Film Really Show?
-title_full: What Did the Mariana Film Really Show? | Montana UFOs
+title_full: What Did the Mariana Film Really Show?
 display_title_short: Mariana Film
 display_title: Mariana Film
 heading_title: What Did the Mariana Film Really Show?
@@ -264,9 +264,8 @@ image: /assets/images/Montana_8d274f_mariana_film_eb114c-overview-social.jpg
 
 The Mariana film matters because it is one of the rare early Montana UFO cases with more than a dramatic memory behind it: there were two named witnesses, 16 mm colour film, local newspaper coverage, Air Force handling, later scientific review, and a continuing dispute over whether the most important frames were missing. The clearest fair reading is not that the [Great Falls]({{ 'great-falls/' | relative_url }}) footage proves alien craft, but that it remains a genuinely contested piece of early UFO evidence. The surviving film shows bright objects moving smoothly across the sky, yet it does not preserve enough information to settle distance, size, altitude, or identity. That gap is why the case has lasted: the footage is real, the official [explanations]({{ 'explanations-34f983/' | relative_url }}) shifted, and the doubts never fully disappeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatfallshistorymuseum.org">[The History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatfallshistorymuseum.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Montana_8d274f_mariana_film_eb114c-overview.webp" | relative_url }}" alt="Overview image for Mariana Film" loading="eager" decoding="sync" fetchpriority="high">
-For [Montana]({{ 'why-montana-became-a-ufo-landmark/' | relative_url }})’s UFO history, the case is especially important because it gave Great Falls a durable place in the national UFO record long before later Cold War missile-base stories made the state a recurring point of interest. The Mariana incident is still remembered locally, discussed by the Great Falls History Museum, and even echoed in the later baseball identity of the Great Falls [Voyagers]({{ 'voyagers/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatfallshistorymuseum.org">[The History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatfallshistorymuseum.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For Montana’s UFO history, the case is especially important because it gave Great Falls a durable place in the national UFO record long before later Cold War missile-base stories made the state a recurring point of interest. The Mariana incident is still remembered locally, discussed by the Great Falls History Museum, and even echoed in the later baseball identity of the Great Falls [Voyagers]({{ 'voyagers/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatfallshistorymuseum.org">[The History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatfallshistorymuseum.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## What Mariana and his witness reported
 
@@ -278,8 +277,7 @@ The witness evidence is valuable, but not simple. The Air Force investigator reg
 
 That tension is central to the case. Mariana was not simply an anonymous caller. He was a known local figure with a camera, a witness, and a film that others saw. But he was also a baseball promoter in a period when “flying saucers” were already part of American popular culture, and later investigators treated that public setting as relevant when weighing how memory, publicity, and expectation may have shaped the story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Case 47: Great Falls Movie Film</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film</span></span></span>
 
-
-<img src="{{ "/assets/images/Montana_8d274f_mariana_film_eb114c-Illustration-1-light.svg" | relative_url }}" alt="Mariana Film illustration 1" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_mariana_film_eb114c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_mariana_film_eb114c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Montana_8d274f_mariana_film_eb114c-Illustration-1-dark.svg" | relative_url }}" alt="Mariana Film illustration 1" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_mariana_film_eb114c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_mariana_film_eb114c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the surviving film can and cannot prove
 
 The strongest part of the Mariana case is the existence of moving footage. According to the Condon Report, the surviving sequence shows two intense images maintaining a constant relative orientation as they move smoothly across the sky and pass behind a water tower. The objects fade and dwindle in size over the sequence, and the report notes that the film itself does not show hovering or deceleration near the tower, even though some witness accounts suggested hovering before filming began. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/ufosymposium/baker.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
@@ -290,21 +288,19 @@ But the film’s evidential strength is also its limitation. The objects appear 
 
 This is why the surviving film does not prove Mariana’s estimate that the objects were around 50 feet wide, nor does it prove they were machines. It does, however, give the case more weight than a simple sighting report. The film shows something bright and moving; the dispute is over what physical object or optical effect produced those images. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/ufosymposium/baker.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dnNJMAHprys" title="HISTORY of UFOs 🛸 and ALIENS 👽 - PART 2 - The 1940s and 50s, including the Roswell Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dnNJMAHprys" target="_blank" rel="noopener noreferrer">HISTORY of UFOs 🛸 and ALIENS 👽 - PART 2 - The 1940s and 50s, including the Roswell Incident</a></p><p class="youtube-embed-meta">Channel: The Rest is History &middot; Views: 2.5K &middot; Uploaded: July 2024 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dnNJMAHprys" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dnNJMAHprys">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DJ2vKHj8rVM" title="The Montana Film: The First Recorded UFO Sighting in the US" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DJ2vKHj8rVM" target="_blank" rel="noopener noreferrer">The Montana Film: The First Recorded UFO Sighting in the US</a></p><p class="youtube-embed-meta">Channel: Montana Historical Society &middot; Views: 3.5K &middot; Uploaded: February 2025 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DJ2vKHj8rVM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DJ2vKHj8rVM">Open on YouTube</a></p></div></div></div>
 
 ## Why the Air Force explanation became contested
 
 The early Air Force handling of the film is one of the main reasons the Mariana case stayed controversial. The Condon Report records that the film was submitted to Air Technical Intelligence Center officials and that Edward Ruppelt, later head of Project Blue Book, said Project Grudge had quickly written the objects off as reflections from two F-94 jet fighters in the area. The same Condon account says the initial Air Force response told Mariana that analysts found nothing identifiable of an unusual nature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/ufosymposium/baker.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
 
-[Aircraft reflections]({{ 'jet-reflections/' | relative_url }}) are a plausible kind of explanation in principle. Bright sunlight on a polished or curved aircraft surface can produce intense glints, and a distant aircraft may be hard to recognise if only the reflection is visible. The Robertson Panel, a CIA-convened scientific advisory panel in January 1953, leaned strongly towards this sort of explanation, judging the Great Falls objects to be probably aircraft reflections and specifically suspecting reflections from aircraft known to have been in the area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">The Black Vault Documentsrobertsonpanelreport.pdf</span><span class="citation-popover-snippet">The Black Vault Documentsrobertsonpanelreport.pdf</span></span></span>
+Aircraft reflections are a plausible kind of explanation in principle. Bright sunlight on a polished or curved aircraft surface can produce intense glints, and a distant aircraft may be hard to recognise if only the reflection is visible. The Robertson Panel, a CIA-convened scientific advisory panel in January 1953, leaned strongly towards this sort of explanation, judging the Great Falls objects to be probably aircraft reflections and specifically suspecting reflections from aircraft known to have been in the area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">The Black Vault Documentsrobertsonpanelreport.pdf</span><span class="citation-popover-snippet">The Black Vault Documentsrobertsonpanelreport.pdf</span></span></span>
 
 The difficulty is that later review did not make that explanation clean. The Condon Report says the 1952 Air Force reinvestigation quickly ruled out birds, [balloons]({{ 'balloons/' | relative_url }}), and meteors, leaving aeroplanes as the only tenable conventional alternative. But it also records that the analysis was considered inconclusive and that the case was treated by Ruppelt as being of unknown origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/ufosymposium/baker.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
 
 The F-94 explanation also depends on timing and geometry. If the jets seen after the filming were the same objects captured on film, the case becomes much less mysterious. If Mariana and Raunig saw the jets only after the bright objects had disappeared, as some accounts state, the explanation becomes weaker. Later local and historical summaries continue to highlight this unresolved timing problem, which is why the jet-reflection theory remains plausible but disputed rather than decisive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: krtv.com">[KRTV NEWS Great Falls]</a><span class="citation-popover" role="note"><span class="citation-popover-source">krtv.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/Montana_8d274f_mariana_film_eb114c-Illustration-2-light.svg" | relative_url }}" alt="Mariana Film illustration 2" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_mariana_film_eb114c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_mariana_film_eb114c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Montana_8d274f_mariana_film_eb114c-Illustration-2-dark.svg" | relative_url }}" alt="Mariana Film illustration 2" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_mariana_film_eb114c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_mariana_film_eb114c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The missing-frames dispute
 
 The most famous doubt in the Mariana case is not simply “were they aircraft?” but “was the film returned intact?” Mariana claimed that the first part of the film was missing after the Air Force returned it. In the Condon Report account, he alleged that about 30 frames before the surviving beginning showed larger disk-like images with a notch or band around the edge, visible rotating in unison. If that claim were true and those frames really showed more structure, their loss would be a serious blow to the evidential record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/ufosymposium/baker.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
@@ -315,8 +311,7 @@ There is also a physical-length puzzle. Later accounts note conflicting referenc
 
 The fairest conclusion is that the missing-frames issue weakens confidence in the record but does not prove a cover-up. It leaves two uncomfortable possibilities. Either the Air Force handled and described the film carelessly, losing or cutting material it should have preserved, or Mariana and later supporters overstated what the [missing frames]({{ 'missing-frames/' | relative_url }}) had shown. Both possibilities damage the case in different ways: one damages the official chain of custody; the other damages the witness narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/ufosymposium/baker.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DJ2vKHj8rVM" title="The Montana Film: The First Recorded UFO Sighting in the US" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DJ2vKHj8rVM" target="_blank" rel="noopener noreferrer">The Montana Film: The First Recorded UFO Sighting in the US</a></p><p class="youtube-embed-meta">Channel: Montana Historical Society &middot; Views: 3.5K &middot; Uploaded: February 2025 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DJ2vKHj8rVM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DJ2vKHj8rVM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dnNJMAHprys" title="HISTORY of UFOs 🛸 and ALIENS 👽 - PART 2 - The 1940s and 50s, including the Roswell Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dnNJMAHprys" target="_blank" rel="noopener noreferrer">HISTORY of UFOs 🛸 and ALIENS 👽 - PART 2 - The 1940s and 50s, including the Roswell Incident</a></p><p class="youtube-embed-meta">Channel: The Rest is History &middot; Views: 2.5K &middot; Uploaded: July 2024 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dnNJMAHprys" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dnNJMAHprys">Open on YouTube</a></p></div></div></div>
 
 ## Later analysis strengthened the mystery but not the conclusion
 
@@ -328,8 +323,7 @@ The Condon Report’s final treatment reflects that ambiguity. It reviewed Baker
 
 That middle position is sometimes frustrating to readers because it feels less dramatic than either “solved” or “proof”. Yet it is probably the most responsible assessment. The case survived because serious reviewers could not easily reduce it to birds, balloons, meteors, or a hoax. It also failed to become decisive evidence because the film lacks the detail needed to determine size, range, and physical form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/ufosymposium/baker.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
 
-
-<img src="{{ "/assets/images/Montana_8d274f_mariana_film_eb114c-Illustration-3-light.svg" | relative_url }}" alt="Mariana Film illustration 3" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_mariana_film_eb114c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_mariana_film_eb114c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Montana_8d274f_mariana_film_eb114c-Illustration-3-dark.svg" | relative_url }}" alt="Mariana Film illustration 3" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_mariana_film_eb114c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_mariana_film_eb114c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aircraft reflections, local memory, and modern doubts
 
 Modern discussion of the Mariana film often returns to the same practical question: would viewers today simply recognise jet aircraft or glare where 1950 observers saw “flying saucers”? A 2026 KRTV report on Great Falls’ UFO legacy quoted Troy Hallsell, historian for the 341st Missile Wing at [Malmstrom]({{ 'malmstrom/' | relative_url }}) Air Force Base, suggesting that modern viewers may look at the Mariana film and think “jet aircraft”, while people in 1950 lacked that same everyday familiarity with jet-age visual signatures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: krtv.com">[KRTV NEWS Great Falls]</a><span class="citation-popover" role="note"><span class="citation-popover-source">krtv.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -340,8 +334,7 @@ At the same time, a modern “looks like jets” reaction can oversimplify the o
 
 There is also a cultural layer. Great Falls has kept the Mariana story alive as local history, not only as UFO advocacy. The History Museum notes that copies of the film are held with Project Blue Book material at the US National Archives, and the National Archives confirms that Project Blue Book records were declassified, transferred, and made available for public examination after the Air Force programme ended in 1969. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatfallshistorymuseum.org">[The History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatfallshistorymuseum.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHeZjJgO9Ns" title="UFO Project Blue Book at National Archives Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer">UFO Project Blue Book at National Archives Museum</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 352.6K &middot; Uploaded: December 2019 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHeZjJgO9Ns">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZDiPyC8-Pdc" title="The Ultimate Alien &amp; UFO Iceberg Explained - A New Beginning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZDiPyC8-Pdc" target="_blank" rel="noopener noreferrer">The Ultimate Alien &amp; UFO Iceberg Explained - A New Beginning</a></p><p class="youtube-embed-meta">Channel: Connor&#x27;s Curiosities &middot; Views: 115.2K &middot; Uploaded: October 2024 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZDiPyC8-Pdc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZDiPyC8-Pdc">Open on YouTube</a></p></div></div></div>
 
 ## What the Mariana film really shows
 
@@ -773,108 +766,108 @@ That makes the Mariana film a model Montana UFO case: not a confirmed extraordin
 1. <a id="endnote-1"></a>
    Source: files.ncas.org  
    Title: Case 47: Great Falls Movie Film  
-   Link: [https://files.ncas.org/condon/text/case47.htm](https://files.ncas.org/condon/text/case47.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case47.htm</a>  
 
 2. <a id="endnote-2"></a>
    Source: krtv.com  
-   Link: [https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release](https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release)  
+   Link: <a href="https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release" target="_blank" rel="noopener noreferrer nofollow">https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release</a>  
 
 3. <a id="endnote-3"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: [https://www.nicap.org/500815greatfalls_dir.htm](https://www.nicap.org/500815greatfalls_dir.htm)  
+   Link: <a href="https://www.nicap.org/500815greatfalls_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/500815greatfalls_dir.htm</a>  
 
 4. <a id="endnote-4"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 6. <a id="endnote-6"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/mariana.htm](https://www.nicap.org/mariana.htm)  
+   Link: <a href="https://www.nicap.org/mariana.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/mariana.htm</a>  
 
 7. <a id="endnote-7"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/ufosymposium/baker.html](https://files.ncas.org/ufosymposium/baker.html)  
+   Link: <a href="https://files.ncas.org/ufosymposium/baker.html" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/ufosymposium/baker.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 10. <a id="endnote-10"></a>
    Source: greatfallshistorymuseum.org  
-   Link: [https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers](https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers)  
+   Link: <a href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow">https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers</a>  
 
 11. <a id="endnote-11"></a>
    Source: distinctlymontana.com  
    Title: Distinctly Montana When UFOs First Came to Great Falls  
-   Link: [https://www.distinctlymontana.com/when-ufos-first-came-great-falls](https://www.distinctlymontana.com/when-ufos-first-came-great-falls)  
+   Link: <a href="https://www.distinctlymontana.com/when-ufos-first-came-great-falls" target="_blank" rel="noopener noreferrer nofollow">https://www.distinctlymontana.com/when-ufos-first-came-great-falls</a>  
 
 12. <a id="endnote-12"></a>
    Source: documents.theblackvault.com  
    Title: The Black Vault Documentsrobertsonpanelreport.pdf  
-   Link: [https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf](https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Robertson Panel  
-   Link: [https://en.wikipedia.org/wiki/Robertson_Panel](https://en.wikipedia.org/wiki/Robertson_Panel)  
+   Link: <a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
 
 14. <a id="endnote-14"></a>
    Source: news.sportslogos.net  
-   Link: [https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/](https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/)  
+   Link: <a href="https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/" target="_blank" rel="noopener noreferrer nofollow">https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/</a>  
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: HISTORY of UFOs and ALIENS  
-   Link: [https://www.youtube.com/watch?v=dnNJMAHprys](https://www.youtube.com/watch?v=dnNJMAHprys)  
+   Link: <a href="https://www.youtube.com/watch?v=dnNJMAHprys" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dnNJMAHprys</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ultimate Alien &amp; UFO Iceberg Explained - A New Beginning...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Montana Film: The First Recorded UFO Sighting in the US  
-   Link: [https://www.youtube.com/watch?v=DJ2vKHj8rVM](https://www.youtube.com/watch?v=DJ2vKHj8rVM)  
+   Link: <a href="https://www.youtube.com/watch?v=DJ2vKHj8rVM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DJ2vKHj8rVM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Over Montana: The Mariana Incident &amp; The Great Falls Mystery...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/338058495/520702newhouse-1968-Baker](https://www.scribd.com/document/338058495/520702newhouse-1968-Baker)  
+   Link: <a href="https://www.scribd.com/document/338058495/520702newhouse-1968-Baker" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/338058495/520702newhouse-1968-Baker</a>  
 
 18. <a id="endnote-18"></a>
    Source: hudsonreview.com  
-   Link: [https://hudsonreview.com/2013/08/excerpts-from-a-life-with-marilyn-horne-wailing-in-the-background/](https://hudsonreview.com/2013/08/excerpts-from-a-life-with-marilyn-horne-wailing-in-the-background/)  
+   Link: <a href="https://hudsonreview.com/2013/08/excerpts-from-a-life-with-marilyn-horne-wailing-in-the-background/" target="_blank" rel="noopener noreferrer nofollow">https://hudsonreview.com/2013/08/excerpts-from-a-life-with-marilyn-horne-wailing-in-the-background/</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TreasureStateLifestyles/posts/one-of-the-first-ufo-sightings-to-be-captured-on-film-was-recorded-right-here-in/1457830452481710/](https://www.facebook.com/TreasureStateLifestyles/posts/one-of-the-first-ufo-sightings-to-be-captured-on-film-was-recorded-right-here-in/1457830452481710/)  
+   Link: <a href="https://www.facebook.com/TreasureStateLifestyles/posts/one-of-the-first-ufo-sightings-to-be-captured-on-film-was-recorded-right-here-in/1457830452481710/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TreasureStateLifestyles/posts/one-of-the-first-ufo-sightings-to-be-captured-on-film-was-recorded-right-here-in/1457830452481710/</a>  
 
 20. <a id="endnote-20"></a>
    Source: getty.edu  
-   Link: [https://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/paintedwood4.pdf](https://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/paintedwood4.pdf)  
+   Link: <a href="https://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/paintedwood4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.getty.edu/conservation/publications_resources/pdf_publications/pdf/paintedwood4.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/](https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/)  
+   Link: <a href="https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/</a>  
 
 22. <a id="endnote-22"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
 23. <a id="endnote-23"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart](https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart)  
+   Link: <a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
 
 24. <a id="endnote-24"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/the-robertson-panel-the-history-and-legacy-of-the-secret-government-committee-that-investigated-ufo-sightings-in-america-9780691641669.html](https://dokumen.pub/download/the-robertson-panel-the-history-and-legacy-of-the-secret-government-committee-that-investigated-ufo-sightings-in-america-9780691641669.html)  
+   Link: <a href="https://dokumen.pub/download/the-robertson-panel-the-history-and-legacy-of-the-secret-government-committee-that-investigated-ufo-sightings-in-america-9780691641669.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/the-robertson-panel-the-history-and-legacy-of-the-secret-government-committee-that-investigated-ufo-sightings-in-america-9780691641669.html</a>

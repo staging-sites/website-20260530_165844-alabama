@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /reports/
 nav_short_title: Reports to lore
 title: How sightings become Oregon folklore
-title_full: How sightings become Oregon folklore | Reports
+title_full: How sightings become Oregon folklore
 display_title_short: Reports to lore
 display_title: Reports to lore
 heading_title: How sightings become Oregon folklore
@@ -34,7 +34,7 @@ infographic_count: 3
 planned_sections:
 - What public UFO databases can and cannot prove
 - How local media and investigators preserve sightings
-- Why McMinnville turns disputed evidence into culture
+- Why Mc Minnville turns disputed evidence into culture
 focal_unit_type: mechanism
 topic_lens: mechanism
 topic_granularity: bounded_topic
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:06:17'
-parent_title: Why Oregon UFO Reports Keep Returning | Oregon UFOs
+parent_title: Why Oregon UFO Reports Keep Returning
 parent_permalink: /reports/
 parent_nav_short_title: Reports
 parent_heading_title: Why Oregon UFO Reports Keep Returning
@@ -250,24 +250,22 @@ image: /assets/images/Oregon_07719a_oregon_reports_cultu_516a79_oregon_reports_f
 
 ## Introduction
 
-[Oregon]({{ 'why-oregon-matters-in-ufo-history/' | relative_url }})’s UFO culture is not built only on dramatic sightings. It is built on a chain of reporting, archiving, retelling and local identity that turns uncertain events into lasting public memory. A light seen by a pilot, a photograph published in a newspaper, or a witness account submitted to a reporting database can travel far beyond the original incident. Over time, some [reports]({{ 'reports/' | relative_url }}) fade, some are explained, and a small number become part of Oregon folklore.
+Oregon’s UFO culture is not built only on dramatic sightings. It is built on a chain of reporting, archiving, retelling and local identity that turns uncertain events into lasting public memory. A light seen by a pilot, a photograph published in a newspaper, or a witness account submitted to a reporting database can travel far beyond the original incident. Over time, some [reports]({{ 'reports/' | relative_url }}) fade, some are explained, and a small number become part of Oregon folklore.
 
-
-<img src="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_oregon_reports_folkl_fbf48b-Illustration-1-light.svg" | relative_url }}" alt="Reports to lore illustration 1" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_oregon_reports_folkl_fbf48b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_oregon_reports_folkl_fbf48b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The state offers a useful example of how this process works because it has both a large archive of public reports and one of the best-known UFO festivals in the United States. The famous 1950 Trent photographs near [McMinnville]({{ 'mcminnville/' | relative_url }}) moved from a local newspaper story into national media, decades of investigation, sceptical debate and eventually a tourism and festival culture that still attracts thousands of visitors. At the same time, modern databases continue collecting reports from across Oregon, creating a constantly expanding record of sightings that may later become local legends, cautionary tales or simply forgotten entries in an archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://downtownmcminnville.com/ufo-festival/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: downtownmcminnville.com">[UFO Festival]</a><span class="citation-popover" role="note"><span class="citation-popover-source">downtownmcminnville.com</span><span class="citation-popover-snippet">McMinnville Downtown AssociationUFO Festival27 Apr 2026 — Founded in 2000, this UFO Festival began at the historic McMenamins Hotel Orego...</span></span></span>
+<img src="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_oregon_reports_folkl_fbf48b-Illustration-1-dark.svg" | relative_url }}" alt="Reports to lore illustration 1" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_oregon_reports_folkl_fbf48b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_oregon_reports_folkl_fbf48b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+The state offers a useful example of how this process works because it has both a large archive of public reports and one of the best-known UFO festivals in the United States. The famous 1950 Trent photographs near McMinnville moved from a local newspaper story into national media, decades of investigation, sceptical debate and eventually a tourism and festival culture that still attracts thousands of visitors. At the same time, modern databases continue collecting reports from across Oregon, creating a constantly expanding record of sightings that may later become local legends, cautionary tales or simply forgotten entries in an archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://downtownmcminnville.com/ufo-festival/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: downtownmcminnville.com">[UFO Festival]</a><span class="citation-popover" role="note"><span class="citation-popover-source">downtownmcminnville.com</span><span class="citation-popover-snippet">McMinnville Downtown AssociationUFO Festival27 Apr 2026 — Founded in 2000, this UFO Festival began at the historic McMenamins Hotel Orego...</span></span></span>
 
 ## What public UFO databases can and cannot prove
 
-The first step in Oregon’s folklore pipeline is usually a report. Modern [witnesses]({{ 'witnesses-a4938b/' | relative_url }}) often submit sightings to organisations such as the National UFO Reporting Center (NUFORC), which maintains one of the largest publicly accessible UFO databases. The database contains thousands of Oregon reports spanning decades, from brief observations of lights in the sky to detailed narratives involving pilots, military personnel and multiple witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">NUFORCData Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lOR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State ORNUFORC Reports for State OR.; Open, 02/05/2026 00:27, Portland; Open, 01/16/2026 04:30, North Bend; Open, 0...</span></span></span>
+The first step in Oregon’s folklore pipeline is usually a report. Modern [witnesses]({{ 'witnesses-a4938b/' | relative_url }}) often submit sightings to organisations such as the National UFO Reporting Center (NUFORC), which maintains one of the largest publicly accessible UFO databases. The database contains thousands of Oregon reports spanning decades, from brief observations of lights in the sky to detailed narratives involving pilots, military personnel and multiple witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lOR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State ORNUFORC Reports for State OR.; Open, 02/05/2026 00:27, Portland; Open, 01/16/2026 04:30, North Bend; Open, 0...</span></span></span>
 
-These databases are valuable because they preserve material that might otherwise disappear. A witness who never contacts police, the Federal Aviation Administration or a newspaper can still create a public record. Researchers can search by town, date, object shape or witness description. Patterns can emerge across time, allowing investigators to identify reporting surges, regional clusters or recurring explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location USA</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationUSA - Oregon... NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Rosa...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by MonthNUFORC Reports by Month; 1992/03, 16; 1992/02, 16; 1992/01, 8; 1991/12, 12.Read more...</span></span></span>
+These databases are valuable because they preserve material that might otherwise disappear. A witness who never contacts police, the Federal Aviation Administration or a newspaper can still create a public record. Researchers can search by town, date, object shape or witness description. Patterns can emerge across time, allowing investigators to identify reporting surges, regional clusters or recurring explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location USA</span><span class="citation-popover-snippet">NUFORC Reports by LocationUSA - Oregon... NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Rosa...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by MonthNUFORC Reports by Month; 1992/03, 16; 1992/02, 16; 1992/01, 8; 1991/12, 12.Read more...</span></span></span>
 
-However, databases are often misunderstood. A report in NUFORC is evidence that somebody reported an experience, not evidence that the reported object was extraordinary. The database includes raw witness testimony of widely varying quality. Some reports are detailed and immediate. Others are submitted months or years later. Many contain estimated distances, speeds and sizes that are difficult for observers to judge accurately, especially at night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=183835" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 1838358 Nov 2024 — NUFORC UFO Sighting 183835; Occurred: 2024-11-03 18:00 Local; Reported: 2024-11-03 19:44 P...</span><span class="citation-popover-meta">Published: November 3, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=197294" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 1972942 May 2026 — NUFORC UFO Sighting 197294. Occurred: 2026-02-24 17:00 Local - Approximate Reported: 2026-04-25 23...</span><span class="citation-popover-meta">Published: February 24, 2026</span></span></span>
+However, databases are often misunderstood. A report in NUFORC is evidence that somebody reported an experience, not evidence that the reported object was extraordinary. The database includes raw witness testimony of widely varying quality. Some reports are detailed and immediate. Others are submitted months or years later. Many contain estimated distances, speeds and sizes that are difficult for observers to judge accurately, especially at night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=183835" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 1838358 Nov 2024 — NUFORC UFO Sighting 183835; Occurred: 2024-11-03 18:00 Local; Reported: 2024-11-03 19:44 P...</span><span class="citation-popover-meta">Published: November 3, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=197294" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 1972942 May 2026 — NUFORC UFO Sighting 197294. Occurred: 2026-02-24 17:00 Local - Approximate Reported: 2026-04-25 23...</span><span class="citation-popover-meta">Published: February 24, 2026</span></span></span>
 
 Oregon examples illustrate both the strengths and weaknesses of this material. A report from McMinnville in 2024 described coloured lights in formation and attempted to estimate altitude and size. Another report from North Powder in 2020 described an orange orb descending behind a mountain ridge. These entries preserve witness perceptions, but they do not independently verify what was seen. Without supporting radar data, photographs, astronomical checks or additional investigation, many cases remain unresolved rather than unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=157912" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 157912NUFORC UFO Sighting 157912. Occurred: 2020-07-24 20:45 Local Reported: 2020-07-24 23:22 Pacific Duration: 2 min...</span><span class="citation-popover-meta">Published: July 24, 2020</span></span></span>
 
 The result is a common public misunderstanding. Large numbers of reports can create the impression that Oregon has proven concentrations of unusual aerial activity. In reality, reporting density can also reflect population patterns, media attention, public awareness and the willingness of witnesses to submit reports.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M8gUCGLjea4" title="UFO confirmed!? The McMinnville Mystery | Photographiliac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M8gUCGLjea4" target="_blank" rel="noopener noreferrer">UFO confirmed!? The McMinnville Mystery | Photographiliac</a></p><p class="youtube-embed-meta">Channel: OGbsmitty &middot; Views: 242 &middot; Uploaded: March 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M8gUCGLjea4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M8gUCGLjea4">Open on YouTube</a></p></div></div></div>
 
@@ -275,10 +273,9 @@ The result is a common public misunderstanding. Large numbers of reports can cre
 
 When people encounter maps showing thousands of Oregon UFO reports, it is tempting to read them as maps of mystery. In practice, they are often maps of reporting behaviour.
 
-NUFORC's Oregon archive contains thousands of entries, while investigators associated with Oregon MUFON have noted that reports come from hundreds of communities across the state. That breadth demonstrates how widespread reporting is, but it does not automatically establish that every location is a genuine hotspot of unexplained activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
+NUFORC's Oregon archive contains thousands of entries, while investigators associated with Oregon MUFON have noted that reports come from hundreds of communities across the state. That breadth demonstrates how widespread reporting is, but it does not automatically establish that every location is a genuine hotspot of unexplained activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
 
 Several factors can inflate or distort apparent patterns:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -292,7 +289,6 @@ Several factors can inflate or distort apparent patterns:
 
 This does not mean all reports are mistakes. Rather, it means databases are best understood as collections of human observations rather than direct measurements of unknown phenomena.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2TiJ8bz0frA" title="LIVE: The history of Oregon&#x27;s UFO festival" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2TiJ8bz0frA" target="_blank" rel="noopener noreferrer">LIVE: The history of Oregon&#x27;s UFO festival</a></p><p class="youtube-embed-meta">Channel: KPTV FOX 12 | Local news, weather Portland, Oregon &middot; Views: 3.6K &middot; Uploaded: May 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2TiJ8bz0frA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2TiJ8bz0frA">Open on YouTube</a></p></div></div></div>
 
 ## How local media keep sightings alive
@@ -304,7 +300,6 @@ A sighting enters public memory when newspapers, television stations, radio prog
 The Trent photographs from 1950 are the clearest example. After the photographs appeared in the local *Telephone-Register* newspaper, the story spread through wire services and eventually reached a national audience through *Life* magazine. What began as a local claim became one of the most widely discussed UFO image cases in American history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mc Minnville UFO photographs</span><span class="citation-popover-snippet">Mc Minnville UFO photographs</span></span></span>
 
 Media exposure changes the nature of a report in several ways:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -319,13 +314,12 @@ Modern Oregon cases follow the same pattern, although much faster. Pilot reports
 
 This creates an important tension. Public interest often grows faster than verification.
 
-
-<img src="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_oregon_reports_folkl_fbf48b-Illustration-2-light.svg" | relative_url }}" alt="Reports to lore illustration 2" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_oregon_reports_folkl_fbf48b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_oregon_reports_folkl_fbf48b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_oregon_reports_folkl_fbf48b-Illustration-2-dark.svg" | relative_url }}" alt="Reports to lore illustration 2" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_oregon_reports_folkl_fbf48b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_oregon_reports_folkl_fbf48b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How investigators preserve and reshape the stories
 
 A report that survives beyond the news cycle usually does so because investigators continue working on it.
 
-Oregon has long been connected to private UFO research networks. Organisations such as NUFORC and MUFON collect witness testimony, compare reports and sometimes conduct interviews or follow-up investigations. Their archives preserve sightings that might otherwise disappear from public view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/recent-investigation-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">recent investigation reports</span><span class="citation-popover-snippet">NUFORCJan 11, 2025 — NUFORC investigators dug into several of our best cases from 2024, performing witness interviews and contacting offi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=22557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 22557He saw a glowing yellow oval or egg shaped object fly past his bedroom window from west to east. It originally w...</span></span></span>
+Oregon has long been connected to private UFO research networks. Organisations such as NUFORC and MUFON collect witness testimony, compare reports and sometimes conduct interviews or follow-up investigations. Their archives preserve sightings that might otherwise disappear from public view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/recent-investigation-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">recent investigation reports</span><span class="citation-popover-snippet">Jan 11, 2025 — NUFORC investigators dug into several of our best cases from 2024, performing witness interviews and contacting offi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=22557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 22557He saw a glowing yellow oval or egg shaped object fly past his bedroom window from west to east. It originally w...</span></span></span>
 
 Investigation can strengthen a case, weaken it or leave it unresolved.
 
@@ -343,7 +337,6 @@ What makes this development notable is that the photographs remain disputed. The
 
 Visitors are drawn by several overlapping interests:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Curiosity about the original photographs.
@@ -357,7 +350,6 @@ Visitors are drawn by several overlapping interests:
 As a result, the photographs now function in multiple ways at once. They are evidence to some people, a likely hoax to others, a historical curiosity to many, and an economic and cultural asset to the town itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://downtownmcminnville.com/ufo-festival/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: downtownmcminnville.com">[UFO Festival]</a><span class="citation-popover" role="note"><span class="citation-popover-source">downtownmcminnville.com</span><span class="citation-popover-snippet">McMinnville Downtown AssociationUFO Festival27 Apr 2026 — Founded in 2000, this UFO Festival began at the historic McMenamins Hotel Orego...</span></span></span>
 
 The folklore value of the case no longer depends entirely on whether the original object was extraordinary. The story has acquired an independent cultural life.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xF1kJQclyIw" title="Where We Live: McMinnville&#x27;s famous UFO Festival" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xF1kJQclyIw" target="_blank" rel="noopener noreferrer">Where We Live: McMinnville&#x27;s famous UFO Festival</a></p><p class="youtube-embed-meta">Channel: KOIN 6 &middot; Views: 11.2K &middot; Uploaded: May 2019 &middot; Length: 2 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xF1kJQclyIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xF1kJQclyIw">Open on YouTube</a></p></div></div></div>
 
@@ -379,8 +371,7 @@ Databases preserve witness accounts but cannot by themselves prove extraordinary
 
 The state's best-known UFO story, the Trent photographs near McMinnville, demonstrates the entire cycle. A local report became a national news item, then an investigative controversy, then a regional symbol. The photographs remain disputed, but the folklore surrounding them has become a durable part of Oregon's public identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=xF1kJQclyIw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Visit McMinnville]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Where We Live: Mc Minnville&#x27;s famous UFO Festival</span><span class="citation-popover-snippet">Visit McMinnville...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsMost commonly reported shapes in UFO sightings gathered in the National UFO Reporting Center (NUFORC) On...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://downtownmcminnville.com/ufo-festival/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: downtownmcminnville.com">[UFO Festival]</a><span class="citation-popover" role="note"><span class="citation-popover-source">downtownmcminnville.com</span><span class="citation-popover-snippet">McMinnville Downtown AssociationUFO Festival27 Apr 2026 — Founded in 2000, this UFO Festival began at the historic McMenamins Hotel Orego...</span></span></span>
 
-
-<img src="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_oregon_reports_folkl_fbf48b-Illustration-3-light.svg" | relative_url }}" alt="Reports to lore illustration 3" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_oregon_reports_folkl_fbf48b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_oregon_reports_folkl_fbf48b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_oregon_reports_folkl_fbf48b-Illustration-3-dark.svg" | relative_url }}" alt="Reports to lore illustration 3" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_oregon_reports_folkl_fbf48b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_oregon_reports_folkl_fbf48b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -468,7 +459,7 @@ The state's best-known UFO story, the Trent photographs near McMinnville, demons
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -478,111 +469,36 @@ The state's best-known UFO story, the Trent photographs near McMinnville, demons
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sightings-become-oregon-folklore-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="how-sightings-become-oregon-folklore-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Soviet Movie Poster Alien Ship Sci-fi Space Dog Sputnik Landing Ufo"><img src="https://i.ebayimg.com/images/g/fCUAAeSwuzJp5htX/s-l225.jpg" alt="Listing image for Original Soviet Movie Poster Alien Ship Sci-fi Space Dog Sputnik Landing Ufo" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sightings-become-oregon-folklore-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="how-sightings-become-oregon-folklore-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer">Original Soviet Movie Poster Alien Ship Sci-fi Space Dog Sputnik Landing Ufo</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sightings-become-oregon-folklore-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="how-sightings-become-oregon-folklore-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo festival poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sightings-become-oregon-folklore-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="how-sightings-become-oregon-folklore-ufo-festival-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -590,15 +506,15 @@ The state's best-known UFO story, the Trent photographs near McMinnville, demons
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sightings-become-oregon-folklore-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="how-sightings-become-oregon-folklore-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO USA Tour 1995 Music Poster Festival Premium Photo Print Wall Art 4 Sizes"><img src="https://i.ebayimg.com/images/g/fX8AAeSwmyho98Qj/s-l225.jpg" alt="Listing image for UFO USA Tour 1995 Music Poster Festival Premium Photo Print Wall Art 4 Sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sightings-become-oregon-folklore-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="how-sightings-become-oregon-folklore-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer">UFO USA Tour 1995 Music Poster Festival Premium Photo Print Wall Art 4 Sizes</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sightings-become-oregon-folklore-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="how-sightings-become-oregon-folklore-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo festival poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sightings-become-oregon-folklore-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="how-sightings-become-oregon-folklore-ufo-festival-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -606,15 +522,15 @@ The state's best-known UFO story, the Trent photographs near McMinnville, demons
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sightings-become-oregon-folklore-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="how-sightings-become-oregon-folklore-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michael English poster - Love Festival UFO 67 Limited Edition Official Hapshash"><img src="https://i.ebayimg.com/images/g/uzUAAOSw1exmkkfw/s-l225.jpg" alt="Listing image for Michael English poster - Love Festival UFO 67 Limited Edition Official Hapshash" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sightings-become-oregon-folklore-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="how-sightings-become-oregon-folklore-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer">Michael English poster - Love Festival UFO 67 Limited Edition Official Hapshash</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sightings-become-oregon-folklore-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="how-sightings-become-oregon-folklore-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo festival poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sightings-become-oregon-folklore-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="how-sightings-become-oregon-folklore-ufo-festival-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -622,15 +538,15 @@ The state's best-known UFO story, the Trent photographs near McMinnville, demons
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sightings-become-oregon-folklore-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="how-sightings-become-oregon-folklore-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster PINK FLOYD - UFO Festival London Sep 1967 ca85x60cm NEU 15400"><img src="https://i.ebayimg.com/images/g/qT8AAOSwV95bqPJf/s-l225.jpg" alt="Listing image for Poster PINK FLOYD - UFO Festival London Sep 1967 ca85x60cm NEU 15400" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sightings-become-oregon-folklore-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="how-sightings-become-oregon-folklore-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer">Poster PINK FLOYD - UFO Festival London Sep 1967 ca85x60cm NEU 15400</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sightings-become-oregon-folklore-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="how-sightings-become-oregon-folklore-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo festival poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sightings-become-oregon-folklore-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="how-sightings-become-oregon-folklore-ufo-festival-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -638,7 +554,7 @@ The state's best-known UFO story, the Trent photographs near McMinnville, demons
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-to-lore-how-sightings-become-oregon-folklore-oregon-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-sightings-become-oregon-folklore-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="how-sightings-become-oregon-folklore-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -715,17 +631,31 @@ The state's best-known UFO story, the Trent photographs near McMinnville, demons
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -738,42 +668,73 @@ The state's best-known UFO story, the Trent photographs near McMinnville, demons
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -788,12 +749,17 @@ The state's best-known UFO story, the Trent photographs near McMinnville, demons
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -803,197 +769,197 @@ The state's best-known UFO story, the Trent photographs near McMinnville, demons
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Title: Mc Minnville UFO photographs  
-   Link: [https://en.wikipedia.org/wiki/McMinnville_UFO_photographs](https://en.wikipedia.org/wiki/McMinnville_UFO_photographs)  
+   Title: [Mc Minnville](&#123;&#123; 'mc-minnville/' | relative_url &#125;&#125;) UFO photographs  
+   Link: <a href="https://en.wikipedia.org/wiki/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/McMinnville_UFO_photographs</a>  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCData Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lOR](https://nuforc.org/subndx/?id=lOR)  
+   Link: <a href="https://nuforc.org/subndx/?id=lOR" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lOR</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State ORNUFORC Reports for State OR.; Open, 02/05/2026 00:27, Portland; Open, 01/16/2026 04:30, North Bend; Open, 0...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Reports by Location USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports by LocationUSA - Oregon... NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Rosa...</p></details>
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationUSA - Oregon... NUFORC Participates in AARO-Sponsored Workshop on UAP Narrative Data and Analysis; Rosa...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=event](https://nuforc.org/ndx/?id=event)  
+   Link: <a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by MonthNUFORC Reports by Month; 1992/03, 16; 1992/02, 16; 1992/01, 8; 1991/12, 12.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=183835](https://nuforc.org/sighting/?id=183835)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 1838358 Nov 2024 — NUFORC UFO Sighting 183835; Occurred: 2024-11-03 18:00 Local; Reported: 2024-11-03 19:44 P...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=183835" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=183835</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1838358 Nov 2024 — NUFORC UFO Sighting 183835; Occurred: 2024-11-03 18:00 Local; Reported: 2024-11-03 19:44 P...</p></details>
    Published: November 3, 2024  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=197294](https://nuforc.org/sighting/?id=197294)  
+   Link: <a href="https://nuforc.org/sighting/?id=197294" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197294</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1972942 May 2026 — NUFORC UFO Sighting 197294. Occurred: 2026-02-24 17:00 Local - Approximate Reported: 2026-04-25 23...</p></details>
    Published: February 24, 2026  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=157912](https://nuforc.org/sighting/?id=157912)  
+   Link: <a href="https://nuforc.org/sighting/?id=157912" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=157912</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 157912NUFORC UFO Sighting 157912. Occurred: 2020-07-24 20:45 Local Reported: 2020-07-24 23:22 Pacific Duration: 2 min...</p></details>
    Published: July 24, 2020  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
    Title: recent investigation reports  
-   Link: [https://nuforc.org/recent-investigation-reports/](https://nuforc.org/recent-investigation-reports/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCJan 11, 2025 — NUFORC investigators dug into several of our best cases from 2024, performing witness interviews and contacting offi...</p></details>
+   Link: <a href="https://nuforc.org/recent-investigation-reports/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/recent-investigation-reports/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 11, 2025 — NUFORC investigators dug into several of our best cases from 2024, performing witness interviews and contacting offi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=22557](https://nuforc.org/sighting/?id=22557)  
+   Link: <a href="https://nuforc.org/sighting/?id=22557" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=22557</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 22557He saw a glowing yellow oval or egg shaped object fly past his bedroom window from west to east. It originally w...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/post230519/](https://nuforc.org/post230519/)  
+   Link: <a href="https://nuforc.org/post230519/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/post230519/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>522 New Reports Posted | NUFORC19 May 2023 — In brief, the author describes a prototype system he has built that allows the detection, an...</p></details>
    Published: May 2023  
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=112070](https://nuforc.org/sighting/?id=112070)  
+   Link: <a href="https://nuforc.org/sighting/?id=112070" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=112070</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 112070NUFORC UFO Sighting 112070. Occurred: 2014-07-27 22:00 Local Reported: 2014-07-31 21:05 Pacific Duration: 2 hou...</p></details>
    Published: July 27, 2014  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=all](https://nuforc.org/subndx/?id=all)  
+   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All NUFORC ReportsAll NUFORC Reports.; Open, 05/27/2026 06:27, Mudgee; Open, 05/26/2026 22:30, Caerleon; Open. 05/26/2026 22:26, Cerr...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=47486](https://nuforc.org/sighting/?id=47486)  
+   Link: <a href="https://nuforc.org/sighting/?id=47486" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=47486</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 47486NUFORC UFO Sighting 47486. Occurred: 1967-08-01 19:00 Local - Approximate Reported: 2005-11-06 01:42 Pacific Dur...</p></details>
    Published: November 6, 2005  
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsMost commonly reported shapes in UFO sightings gathered in the National UFO Reporting Center (NUFORC) On...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Where We Live: Mc Minnville's famous UFO Festival  
-   Link: [https://www.youtube.com/watch?v=xF1kJQclyIw](https://www.youtube.com/watch?v=xF1kJQclyIw)  
+   Link: <a href="https://www.youtube.com/watch?v=xF1kJQclyIw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xF1kJQclyIw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Visit McMinnville...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ufofest.com  
-   Link: [https://ufofest.com/](https://ufofest.com/)  
+   Link: <a href="https://ufofest.com/" target="_blank" rel="noopener noreferrer nofollow">https://ufofest.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FestivalMcMenamins UFO FestivalIn 1950 the small town of McMinnville, Oregon was struck with UFO fever when a local couple spotted a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ufofest.com  
-   Link: [https://ufofest.com/history/](https://ufofest.com/history/)  
+   Link: <a href="https://ufofest.com/history/" target="_blank" rel="noopener noreferrer nofollow">https://ufofest.com/history/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FestivalHistoryThe festival began as a way to honor the famous 1950 Trent sighting, in which a local couple witnessed and photographe...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: downtownmcminnville.com  
    Title: ufo festival  
-   Link: [https://downtownmcminnville.com/ufo-festival/](https://downtownmcminnville.com/ufo-festival/)  
+   Link: <a href="https://downtownmcminnville.com/ufo-festival/" target="_blank" rel="noopener noreferrer nofollow">https://downtownmcminnville.com/ufo-festival/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>McMinnville Downtown AssociationUFO Festival27 Apr 2026 — Founded in 2000, this UFO Festival began at the historic McMenamins Hotel Orego...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: visitmcminnville.com  
-   Link: [https://visitmcminnville.com/events/ufo-festival/](https://visitmcminnville.com/events/ufo-festival/)  
+   Link: <a href="https://visitmcminnville.com/events/ufo-festival/" target="_blank" rel="noopener noreferrer nofollow">https://visitmcminnville.com/events/ufo-festival/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FestivalEvery May, McMinnville welcomes Earthlings and extraterrestrials alike for the second-largest UFO festival in the country. In...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ufofest.com  
-   Link: [https://ufofest.com/wp-content/uploads/2018/10/UFOHistory3.05.pdf](https://ufofest.com/wp-content/uploads/2018/10/UFOHistory3.05.pdf)  
+   Link: <a href="https://ufofest.com/wp-content/uploads/2018/10/UFOHistory3.05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufofest.com/wp-content/uploads/2018/10/UFOHistory3.05.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>historYThe photos would become the most hotly debated UFO photographs ever, taking on a life of their own, growing in significance and at...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: visitmcminnville.com  
-   Link: [https://visitmcminnville.com/about/articles/celebrating-ufo-sightings-from-the-1950s-present/](https://visitmcminnville.com/about/articles/celebrating-ufo-sightings-from-the-1950s-present/)  
+   Link: <a href="https://visitmcminnville.com/about/articles/celebrating-ufo-sightings-from-the-1950s-present/" target="_blank" rel="noopener noreferrer nofollow">https://visitmcminnville.com/about/articles/celebrating-ufo-sightings-from-the-1950s-present/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>McMenamins UFOFest: Celebrating UFO sightings from the...8 May 2023 — 23rd annual festival, which will be held at McMenamins Hotel Orego...</p></details>
    Published: May 2023  
 
 24. <a id="endnote-24"></a>
    Source: ada-nuforc-analysis.github.io  
-   Link: [https://ada-nuforc-analysis.github.io/](https://ada-nuforc-analysis.github.io/)  
+   Link: <a href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Report AnalysisThe NUFORC checks each reports for fakes or hoax and comments them accordingly. The reports are classified by their...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: iconicphotos.wordpress.com  
    Title: UFO photograph.Read more  
-   Link: [https://iconicphotos.wordpress.com/2010/01/22/mcminnville-ufo/](https://iconicphotos.wordpress.com/2010/01/22/mcminnville-ufo/)  
+   Link: <a href="https://iconicphotos.wordpress.com/2010/01/22/mcminnville-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://iconicphotos.wordpress.com/2010/01/22/mcminnville-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO - Iconic Photos - WordPress.com22 Jan 2010 — The Oregonian published the photographs the next day, and within a month they were publi...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: travelportland.com  
-   Link: [https://www.travelportland.com/events/ufo-festival-mcminnville/](https://www.travelportland.com/events/ufo-festival-mcminnville/)  
+   Link: <a href="https://www.travelportland.com/events/ufo-festival-mcminnville/" target="_blank" rel="noopener noreferrer nofollow">https://www.travelportland.com/events/ufo-festival-mcminnville/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Festival in McMinnville | The Official Guide to PortlandThe family-friendly UFO Festival includes two days of special events, includi...</p></details>
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: scottbakal.com  
-   Link: [https://www.scottbakal.com/mcminnvilleufo](https://www.scottbakal.com/mcminnvilleufo)  
+   Link: <a href="https://www.scottbakal.com/mcminnvilleufo" target="_blank" rel="noopener noreferrer nofollow">https://www.scottbakal.com/mcminnvilleufo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>McMinnville UFOThe McMinnville UFO photographs, also known as the Trent UFO photos, were taken by a farming couple, Paul and Evelyn Trent...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40sarah.cothron/the-truth-is-out-there-the-mcminnville-ufo-sighting-of-1950-blog-4-54527f7070a2](https://medium.com/%40sarah.cothron/the-truth-is-out-there-the-mcminnville-ufo-sighting-of-1950-blog-4-54527f7070a2)  
+   Link: <a href="https://medium.com/%40sarah.cothron/the-truth-is-out-there-the-mcminnville-ufo-sighting-of-1950-blog-4-54527f7070a2" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40sarah.cothron/the-truth-is-out-there-the-mcminnville-ufo-sighting-of-1950-blog-4-54527f7070a2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Is Out There: The McMinnville UFO Sighting of...After the photos were publicized, first displayed at the Trents&#x27;s bank and the...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings](https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings)  
+   Link: <a href="https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings (Location &amp; Time)All reports come directly from the NUFORC site&#x27;s public database. With this dataset you can uncover everyt...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ck8tm0/the_mcminnville_ufo_photos_still_mystify/](https://www.reddit.com/r/UFOs/comments/1ck8tm0/the_mcminnville_ufo_photos_still_mystify/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ck8tm0/the_mcminnville_ufo_photos_still_mystify/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ck8tm0/the_mcminnville_ufo_photos_still_mystify/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The McMinnville UFO Photos Still MystifySome of the best UFO photos ever captured. 315. 63. One of the best UFO photos ever - taken on a...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: rainydayrabbitholes.com  
-   Link: [https://rainydayrabbitholes.com/podcast/rainy-day-rabbit-holes-presents-mysterious-pacific-northwest-the-mcminnville-ufo-photos](https://rainydayrabbitholes.com/podcast/rainy-day-rabbit-holes-presents-mysterious-pacific-northwest-the-mcminnville-ufo-photos)  
+   Link: <a href="https://rainydayrabbitholes.com/podcast/rainy-day-rabbit-holes-presents-mysterious-pacific-northwest-the-mcminnville-ufo-photos" target="_blank" rel="noopener noreferrer nofollow">https://rainydayrabbitholes.com/podcast/rainy-day-rabbit-holes-presents-mysterious-pacific-northwest-the-mcminnville-ufo-photos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The McMinnville UFO PhotosJun 20, 2025 — The McMinnville UFO photographs were taken on a farm near McMinnville, Oregon, United States, in...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=2TiJ8bz0frA](https://www.youtube.com/watch?v=2TiJ8bz0frA)  
+   Link: <a href="https://www.youtube.com/watch?v=2TiJ8bz0frA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2TiJ8bz0frA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LIVE: The history of Oregon&#x27;s UFO festivalThe 23rd annual UFO Festival is happening in McMinnville that&#x27;s this weekend and we are very ex...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=M8gUCGLjea4](https://www.youtube.com/watch?v=M8gUCGLjea4)  
+   Link: <a href="https://www.youtube.com/watch?v=M8gUCGLjea4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M8gUCGLjea4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO confirmed!? The McMinnville Mystery | PhotographiliacOldest Most Authentic UFO Photos? - McMinnville UFO And The Trent&#x27;s Photos. EDGE...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: stayportland.com  
    Title: Alien costume balls, parades, and otherworldly Oregon fun await  
-   Link: [https://www.stayportland.com/guide/mcmenamins-ufo-festival-2026-portland-weekend-trip](https://www.stayportland.com/guide/mcmenamins-ufo-festival-2026-portland-weekend-trip)  
+   Link: <a href="https://www.stayportland.com/guide/mcmenamins-ufo-festival-2026-portland-weekend-trip" target="_blank" rel="noopener noreferrer nofollow">https://www.stayportland.com/guide/mcmenamins-ufo-festival-2026-portland-weekend-trip</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>McMenamins UFO Festival 2026: Portland&#x27;s Quirkiest...Experience the McMenamins UFO Festival 2026 in McMinnville, just 40 miles from Port...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/ta3xrh/1950_mcminnville_ufo_sighting_one_of_the_oldest/](https://www.reddit.com/r/UFOs/comments/ta3xrh/1950_mcminnville_ufo_sighting_one_of_the_oldest/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/ta3xrh/1950_mcminnville_ufo_sighting_one_of_the_oldest/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ta3xrh/1950_mcminnville_ufo_sighting_one_of_the_oldest/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1950 McMinnville UFO sighting (one of the oldest &amp;...The McMinnville UFO photographs were taken on a farm near McMinnville, Oregon, in 1950...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: alamy.com  
-   Link: [https://www.alamy.com/stock-photo/mcminnville-ufo-photographs.html](https://www.alamy.com/stock-photo/mcminnville-ufo-photographs.html)  
+   Link: <a href="https://www.alamy.com/stock-photo/mcminnville-ufo-photographs.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/mcminnville-ufo-photographs.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mcminnville ufo photographs Stock Photos and ImagesThe McMinnville UFO photographs were taken on a farm near McMinnville, Oregon, in 1950...</p></details>

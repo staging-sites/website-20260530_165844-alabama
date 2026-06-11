@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /local-archives/
 nav_short_title: Kral files
 title: What Kral's UFO Files Really Leave Unexplained
-title_full: What Kral's UFO Files Really Leave Unexplained | Local Archives
+title_full: What Kral's UFO Files Really Leave Unexplained
 display_title_short: Kral files
 display_title: Kral files
 heading_title: What Kral's UFO Files Really Leave Unexplained
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:45:32'
-parent_title: What Nebraska's UFO Archives Can Still Reveal | Nebraska UFOs
+parent_title: What Nebraska's UFO Archives Can Still Reveal
 parent_permalink: /local-archives/
 parent_nav_short_title: Local Archives
 parent_heading_title: What Nebraska's UFO Archives Can Still Reveal
@@ -250,10 +250,9 @@ image: /assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_kral_mufon_unexp
 
 ## Introduction
 
-Earl Kral’s [Nebraska]({{ 'what-really-happened-in-nebraskas-ufo/' | relative_url }}) UFO files are valuable not because they prove extraordinary claims, but because they show what happened when a local investigation network tried to test those claims methodically. The collection, now available through the University of Nebraska–Lincoln archives, preserves dozens of reports gathered through Nebraska’s branch of the Mutual UFO Network (MUFON) during the 1970s and later decades. What makes the archive unusual is that it records not only sightings, but also the attempts to explain them. In most cases, investigators concluded that witnesses had seen planets, aircraft, balloons or other ordinary phenomena. Only a handful of reports remained officially “unexplained”, and even those were not treated as evidence of extraterrestrial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nebraskapublicmedia.org">[Nebraska Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nebraskapublicmedia.org</span><span class="citation-popover-title">Nebraska Public Media Flying saucers over the Sandhills?</span><span class="citation-popover-snippet">UFO investigations now...8 May 2026 — His friends&#x27; early enthusiasm for the potential for real alien encounters “somehow… melted away.”...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Earl Kral’s Nebraska UFO files are valuable not because they prove extraordinary claims, but because they show what happened when a local investigation network tried to test those claims methodically. The collection, now available through the University of Nebraska–Lincoln archives, preserves dozens of reports gathered through Nebraska’s branch of the Mutual UFO Network (MUFON) during the 1970s and later decades. What makes the archive unusual is that it records not only sightings, but also the attempts to explain them. In most cases, investigators concluded that witnesses had seen planets, aircraft, balloons or other ordinary phenomena. Only a handful of reports remained officially “unexplained”, and even those were not treated as evidence of extraterrestrial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nebraskapublicmedia.org">[Nebraska Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nebraskapublicmedia.org</span><span class="citation-popover-title">Nebraska Public Media Flying saucers over the Sandhills?</span><span class="citation-popover-snippet">UFO investigations now...8 May 2026 — His friends&#x27; early enthusiasm for the potential for real alien encounters “somehow… melted away.”...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-
-<img src="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_kral_mufon_unexplain_6c03ee-Illustration-1-light.svg" | relative_url }}" alt="Kral files illustration 1" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_kral_mufon_unexplain_6c03ee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_kral_mufon_unexplain_6c03ee-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_kral_mufon_unexplain_6c03ee-Illustration-1-dark.svg" | relative_url }}" alt="Kral files illustration 1" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_kral_mufon_unexplain_6c03ee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_kral_mufon_unexplain_6c03ee-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters for understanding Nebraska’s UFO history. Kral’s files demonstrate the gap between an unidentified object and a proven mystery. They offer a rare local record of how civilian investigators collected evidence, weighed competing explanations and sometimes admitted that a case could not be fully resolved without claiming that it had therefore become something alien. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nebraskapublicmedia.org">[Nebraska Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nebraskapublicmedia.org</span><span class="citation-popover-title">Nebraska Public Media Flying saucers over the Sandhills?</span><span class="citation-popover-snippet">UFO investigations now...8 May 2026 — His friends&#x27; early enthusiasm for the potential for real alien encounters “somehow… melted away.”...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 ## Who Earl Kral Was and Why His Files Matter
@@ -265,7 +264,6 @@ The University of Nebraska–Lincoln collection reflects those habits. Rather th
 For Nebraska UFO history, the most important part of the collection is Kral’s role as the state's first MUFON director. He helped build a network of investigators and recruited people with scientific and technical backgrounds to evaluate reports. Former Nebraska MUFON figures interviewed about the archive described Kral as someone who wanted investigations conducted carefully and accurately rather than as publicity exercises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nebraskapublicmedia.org">[Nebraska Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nebraskapublicmedia.org</span><span class="citation-popover-title">Nebraska Public Media Flying saucers over the Sandhills?</span><span class="citation-popover-snippet">UFO investigations now...8 May 2026 — His friends&#x27; early enthusiasm for the potential for real alien encounters “somehow… melted away.”...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 That approach makes the files different from many UFO stories that survive only through retellings. The reports often preserve dates, locations, witness descriptions, sketches, photographs, weather information and follow-up correspondence. Readers can see not just the original claim but also the reasoning used to assess it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nebraskapublicmedia.org">[Nebraska Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nebraskapublicmedia.org</span><span class="citation-popover-title">Nebraska Public Media Flying saucers over the Sandhills?</span><span class="citation-popover-snippet">UFO investigations now...8 May 2026 — His friends&#x27; early enthusiasm for the potential for real alien encounters “somehow… melted away.”...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/62tr8fZ-02Q" title="UFO file release May 2008 Part 1 (audio with slides)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer">UFO file release May 2008 Part 1 (audio with slides)</a></p><p class="youtube-embed-meta">Channel: The National Archives UK &middot; Views: 11.2K &middot; Uploaded: June 2008 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=62tr8fZ-02Q">Open on YouTube</a></p></div></div></div>
 
@@ -289,7 +287,6 @@ This is one reason the collection is historically important. Modern discussions 
 
 The files therefore function almost like a local laboratory record. They show investigators testing claims, rejecting weak explanations when evidence did not support them, but also rejecting extraordinary conclusions when ordinary evidence proved sufficient.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mww3arniyt0" title="UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer">UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 260.4K &middot; Uploaded: May 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mww3arniyt0">Open on YouTube</a></p></div></div></div>
 
 ## Why a Few Cases Remained Unexplained
@@ -304,7 +301,6 @@ This distinction is often lost in popular UFO discussions. An unexplained case i
 
 Several possibilities can produce an unresolved outcome:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Insufficient photographs.
@@ -317,8 +313,7 @@ Several possibilities can produce an unresolved outcome:
 
 In other words, a case can remain unidentified because the evidence is weak, not because the phenomenon is necessarily extraordinary.
 
-
-<img src="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_kral_mufon_unexplain_6c03ee-Illustration-2-light.svg" | relative_url }}" alt="Kral files illustration 2" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_kral_mufon_unexplain_6c03ee-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_kral_mufon_unexplain_6c03ee-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_kral_mufon_unexplain_6c03ee-Illustration-2-dark.svg" | relative_url }}" alt="Kral files illustration 2" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_kral_mufon_unexplain_6c03ee-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_kral_mufon_unexplain_6c03ee-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why “Unexplained” Did Not Mean Extraterrestrial
 
 The most important lesson from Kral’s files may be what they reveal about the limits of UFO evidence.
@@ -332,7 +327,6 @@ Because of these limitations, an unexplained designation frequently meant only t
 Former Nebraska MUFON director Jack Kasher noted that some reports were genuinely difficult to dismiss, but he also emphasised the importance of avoiding conclusions unsupported by evidence. The archive's follow-up letters often explain why investigators resisted turning an unresolved report into proof of alien visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nebraskapublicmedia.org">[Nebraska Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nebraskapublicmedia.org</span><span class="citation-popover-title">Nebraska Public Media Flying saucers over the Sandhills?</span><span class="citation-popover-snippet">UFO investigations now...8 May 2026 — His friends&#x27; early enthusiasm for the potential for real alien encounters “somehow… melted away.”...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 That approach mirrors a broader principle found in both scientific and historical research: absence of an explanation is not evidence for a particular explanation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WAKmePJ5i98" title="UFO Sightings That Changed Everything! | UFO’s Over Earth S1 E2 | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WAKmePJ5i98" target="_blank" rel="noopener noreferrer">UFO Sightings That Changed Everything! | UFO’s Over Earth S1 E2 | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 21.7K &middot; Uploaded: October 2025 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WAKmePJ5i98" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WAKmePJ5i98">Open on YouTube</a></p></div></div></div>
 
@@ -356,8 +350,7 @@ For readers exploring Nebraska’s broader UFO history, that makes the archive u
 
 The archive's real value lies in its record of process. It shows how Nebraska investigators gathered evidence, where that evidence proved persuasive, where it failed, and why even the most intriguing unresolved cases remained exactly that: unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nebraskapublicmedia.org">[Nebraska Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nebraskapublicmedia.org</span><span class="citation-popover-title">Nebraska Public Media Flying saucers over the Sandhills?</span><span class="citation-popover-snippet">UFO investigations now...8 May 2026 — His friends&#x27; early enthusiasm for the potential for real alien encounters “somehow… melted away.”...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-
-<img src="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_kral_mufon_unexplain_6c03ee-Illustration-3-light.svg" | relative_url }}" alt="Kral files illustration 3" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_kral_mufon_unexplain_6c03ee-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_kral_mufon_unexplain_6c03ee-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_kral_mufon_unexplain_6c03ee-Illustration-3-dark.svg" | relative_url }}" alt="Kral files illustration 3" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_kral_mufon_unexplain_6c03ee-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_kral_mufon_unexplain_6c03ee-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -445,7 +438,7 @@ The archive's real value lies in its record of process. It shows how Nebraska in
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -455,111 +448,36 @@ The archive's real value lies in its record of process. It shows how Nebraska in
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Rainbow Patch Iron Sew On Alien NASA Space UFO Embroidered Badge"><img src="https://i.ebayimg.com/images/g/DUgAAOSw38JdE18u/s-l225.jpg" alt="Listing image for Flying Saucer Rainbow Patch Iron Sew On Alien NASA Space UFO Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Rainbow Patch Iron Sew On Alien NASA Space UFO Embroidered Badge</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -567,15 +485,15 @@ The archive's real value lies in its record of process. It shows how Nebraska in
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge"><img src="https://i.ebayimg.com/images/g/X7EAAOSwrh9gYv2w/s-l225.jpg" alt="Listing image for Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -583,15 +501,15 @@ The archive's real value lies in its record of process. It shows how Nebraska in
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Planet Space NASA Embroidered Iron On Sew On Patch Badge Fabric Applique Bag"><img src="https://i.ebayimg.com/images/g/o9gAAOSwpwBcHGTF/s-l225.jpg" alt="Listing image for UFO Planet Space NASA Embroidered Iron On Sew On Patch Badge Fabric Applique Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a" target="_blank" rel="sponsored noopener noreferrer">UFO Planet Space NASA Embroidered Iron On Sew On Patch Badge Fabric Applique Bag</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -599,15 +517,15 @@ The archive's real value lies in its record of process. It shows how Nebraska in
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronaut Kiss Sun Embroidered Sew On Iron On Patch Badge Fabric Applique Craft"><img src="https://i.ebayimg.com/images/g/tboAAOSw2gxYrWel/s-l225.jpg" alt="Listing image for Astronaut Kiss Sun Embroidered Sew On Iron On Patch Badge Fabric Applique Craft" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a" target="_blank" rel="sponsored noopener noreferrer">Astronaut Kiss Sun Embroidered Sew On Iron On Patch Badge Fabric Applique Craft</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -615,7 +533,7 @@ The archive's real value lies in its record of process. It shows how Nebraska in
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kral-files-what-kral-s-ufo-files-really-leave-unexplained-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-kral-s-ufo-files-really-leave-unexplained-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-a" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -692,17 +610,31 @@ The archive's real value lies in its record of process. It shows how Nebraska in
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -715,42 +647,73 @@ The archive's real value lies in its record of process. It shows how Nebraska in
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -765,12 +728,17 @@ The archive's real value lies in its record of process. It shows how Nebraska in
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -781,19 +749,19 @@ The archive's real value lies in its record of process. It shows how Nebraska in
 1. <a id="endnote-1"></a>
    Source: archivespec.unl.edu  
    Title: Nationally Distinguished Nebraskans Collection  
-   Link: [https://archivespec.unl.edu/findingaids/ms0352-kral-unl.html](https://archivespec.unl.edu/findingaids/ms0352-kral-unl.html)  
+   Link: <a href="https://archivespec.unl.edu/findingaids/ms0352-kral-unl.html" target="_blank" rel="noopener noreferrer nofollow">https://archivespec.unl.edu/findingaids/ms0352-kral-unl.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kral, an educator, researcher, and writer, grew up on a farm in Saline County, Nebraska, attended Rural School District 97, graduated fro...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: moving images and sound  
-   Link: [https://www.archives.gov/research/topics/uaps/moving-images-and-sound](https://www.archives.gov/research/topics/uaps/moving-images-and-sound)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>sound recordings related to UFOs and UAPs in the National Archives Catalog.... UFO Sighting Over Alaska (National Archives Identifier: 2...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nebraskapublicmedia.org  
    Title: Nebraska Public Media Flying saucers over the Sandhills?  
-   Link: [https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/](https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/)  
+   Link: <a href="https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/" target="_blank" rel="noopener noreferrer nofollow">https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO investigations now...8 May 2026 — His friends&#x27; early enthusiasm for the potential for real alien encounters “somehow… melted away.”...</p></details>
    Published: May 2026  
 
@@ -802,46 +770,46 @@ The archive's real value lies in its record of process. It shows how Nebraska in
 4. <a id="endnote-4"></a>
    Source: facebook.com  
    Title: UF O investigations over Nebraska Sandhills now public Mr Kral GISH  
-   Link: [https://www.facebook.com/groups/181385881928969/posts/26850629627911232/](https://www.facebook.com/groups/181385881928969/posts/26850629627911232/)  
+   Link: <a href="https://www.facebook.com/groups/181385881928969/posts/26850629627911232/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/181385881928969/posts/26850629627911232/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;English [https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-universi...&quot;](https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Nebraska/comments/1t7upsr/nebraska_ufo_investigations_made_public_through/](https://www.reddit.com/r/Nebraska/comments/1t7upsr/nebraska_ufo_investigations_made_public_through/)  
+   Link: <a href="https://www.reddit.com/r/Nebraska/comments/1t7upsr/nebraska_ufo_investigations_made_public_through/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Nebraska/comments/1t7upsr/nebraska_ufo_investigations_made_public_through/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>s and investigations are now available through the...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Mww3arniyt0](https://www.youtube.com/watch?v=Mww3arniyt0)  
+   Link: <a href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mww3arniyt0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, Monsters and Other Nebraska Oddities...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=WAKmePJ5i98](https://www.youtube.com/watch?v=WAKmePJ5i98)  
+   Link: <a href="https://www.youtube.com/watch?v=WAKmePJ5i98" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WAKmePJ5i98</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BrainScratch: Herbert Schirmer&#x27;s Alien Story...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Brain Scratch: Herbert Schirmer's Alien Story  
-   Link: [https://www.youtube.com/watch?v=z_GdL-Pp4g0](https://www.youtube.com/watch?v=z_GdL-Pp4g0)  
+   Link: <a href="https://www.youtube.com/watch?v=z_GdL-Pp4g0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z_GdL-Pp4g0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=7d5fpbVzgVs](https://www.youtube.com/watch?v=7d5fpbVzgVs)  
+   Link: <a href="https://www.youtube.com/watch?v=7d5fpbVzgVs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7d5fpbVzgVs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings That Changed Everything! | UFO&#x27;s Over Earth S1 E2 | Discovery Channel...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=62tr8fZ-02Q](https://www.youtube.com/watch?v=62tr8fZ-02Q)  
+   Link: <a href="https://www.youtube.com/watch?v=62tr8fZ-02Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=62tr8fZ-02Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO file release May 2008 Part 1 (audio with slides)The reports contains sightings of Unidentified Flying Objects (UFOs) gathered from th...</p></details>
    Published: May 2008  
 
 11. <a id="endnote-11"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: [https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008-part-2-audio-with-slides/](https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008-part-2-audio-with-slides/)  
+   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008-part-2-audio-with-slides/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-file-release-may-2008-part-2-audio-with-slides/</a>  
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: UFOs, Monsters and Other Nebraska Oddities  
-   Link: [https://www.youtube.com/watch?v=yVWV500bke0](https://www.youtube.com/watch?v=yVWV500bke0)  
+   Link: <a href="https://www.youtube.com/watch?v=yVWV500bke0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yVWV500bke0</a>

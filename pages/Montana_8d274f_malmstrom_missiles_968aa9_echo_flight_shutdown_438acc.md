@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /malmstrom/
 nav_short_title: Echo Flight
 title: What Really Happened at Echo Flight?
-title_full: What Really Happened at Echo Flight? | Malmstrom
+title_full: What Really Happened at Echo Flight?
 display_title_short: Echo Flight
 display_title: Echo Flight
 heading_title: What Really Happened at Echo Flight?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:43:47'
-parent_title: Did UFOs Affect Montana's Missile Fields? | Montana UFOs
+parent_title: Did UFOs Affect Montana's Missile Fields?
 parent_permalink: /malmstrom/
 parent_nav_short_title: Malmstrom
 parent_heading_title: Did UFOs Affect Montana's Missile Fields?
@@ -250,10 +250,9 @@ image: /assets/images/Montana_8d274f_malmstrom_missiles_968aa9_echo_flight_shutd
 
 ## Introduction
 
-The strongest piece of evidence in the [Malmstrom]({{ 'malmstrom/' | relative_url }}) missile controversy is not a UFO sighting but a documented military malfunction. On 16 March 1967, all ten Minuteman missiles in Echo Flight at Malmstrom Air Force Base in [Montana]({{ 'why-montana-became-a-ufo-landmark/' | relative_url }}) lost strategic alert status within a short period. That event appears in official Air Force records and is not seriously disputed. What remains disputed is whether unusual aerial objects played any role in the shutdown. Official documentation points toward a technical failure and explicitly states that reported UFO rumours were investigated and rejected. Later witness testimony, however, argued that strange lights were seen near missile facilities at roughly the same time. The argument over Echo Flight is therefore less about whether something happened and more about what caused it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+The strongest piece of evidence in the [Malmstrom]({{ 'malmstrom/' | relative_url }}) missile controversy is not a UFO sighting but a documented military malfunction. On 16 March 1967, all ten Minuteman missiles in Echo Flight at Malmstrom Air Force Base in Montana lost strategic alert status within a short period. That event appears in official Air Force records and is not seriously disputed. What remains disputed is whether unusual aerial objects played any role in the shutdown. Official documentation points toward a technical failure and explicitly states that reported UFO rumours were investigated and rejected. Later witness testimony, however, argued that strange lights were seen near missile facilities at roughly the same time. The argument over Echo Flight is therefore less about whether something happened and more about what caused it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
-
-<img src="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_echo_flight_shutdown_438acc-Illustration-1-light.svg" | relative_url }}" alt="Echo Flight illustration 1" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_echo_flight_shutdown_438acc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_echo_flight_shutdown_438acc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_echo_flight_shutdown_438acc-Illustration-1-dark.svg" | relative_url }}" alt="Echo Flight illustration 1" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_echo_flight_shutdown_438acc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_echo_flight_shutdown_438acc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within Montana UFO history, Echo Flight matters because it is one of the rare cases where a dramatic UFO claim is attached to a confirmed military incident. The shutdown is real. The alleged UFO connection remains the part under debate.
 
 ## What the official shutdown record says
@@ -266,14 +265,13 @@ The official history also contains a passage that has become central to later ar
 
 That wording is important because it shows that Air Force personnel were aware of UFO rumours at the time and addressed them directly in the historical record. The official position was not silence or uncertainty. The written conclusion was that the rumours did not explain the shutdown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iOmM9PkTqpk" title="Did UFOs Shut Down Nuclear Missiles at a Military Base? | Malmstrom UFO Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iOmM9PkTqpk" target="_blank" rel="noopener noreferrer">Did UFOs Shut Down Nuclear Missiles at a Military Base? | Malmstrom UFO Incident</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 11.3K &middot; Uploaded: July 2025 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iOmM9PkTqpk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iOmM9PkTqpk">Open on YouTube</a></p></div></div></div>
 
 ## Why the UFO link is contested
 
 The controversy exists because later testimony did not always match the surviving paperwork.
 
-Former missile launch officer Robert Salas became the most visible advocate of the UFO interpretation. Beginning decades after the event, he argued that security personnel reported strange lights and, in some versions of the story, a glowing red object near missile facilities shortly before missiles went offline. Salas maintained that the timing was too striking to dismiss as coincidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/malmstrom67-3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Minuteman Missiles Shutdown</span><span class="citation-popover-snippet">NICAPMinuteman Missiles Shutdown - Robert SalasThe date of the Echo incident is March 16,1967. When we received this information, I assum...</span></span></span>
+Former missile launch officer Robert Salas became the most visible advocate of the UFO interpretation. Beginning decades after the event, he argued that security personnel reported strange lights and, in some versions of the story, a glowing red object near missile facilities shortly before missiles went offline. Salas maintained that the timing was too striking to dismiss as coincidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/malmstrom67-3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Minuteman Missiles Shutdown</span><span class="citation-popover-snippet">Minuteman Missiles Shutdown - Robert SalasThe date of the Echo incident is March 16,1967. When we received this information, I assum...</span></span></span>
 
 The difficulty is that the chronology surrounding Salas's accounts became increasingly complicated. Researchers eventually distinguished between Echo Flight and Oscar Flight, another Malmstrom missile flight involved in separate reports. Critics argued that details from different incidents were sometimes blended together in later retellings. Even among people who accept that unusual lights were reported somewhere in the Malmstrom missile fields during March 1967, there has been disagreement about which flight experienced which events and on what dates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
@@ -281,8 +279,7 @@ Another point of contention is the gap between the event and the public UFO narr
 
 The result is an unusual evidential split. The strongest evidence in the case supports the existence of the missile malfunction. The strongest evidence for a UFO connection comes from retrospective witness testimony rather than from the technical records generated during the shutdown itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
-
-<img src="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_echo_flight_shutdown_438acc-Illustration-2-light.svg" | relative_url }}" alt="Echo Flight illustration 2" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_echo_flight_shutdown_438acc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_echo_flight_shutdown_438acc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_echo_flight_shutdown_438acc-Illustration-2-dark.svg" | relative_url }}" alt="Echo Flight illustration 2" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_echo_flight_shutdown_438acc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_echo_flight_shutdown_438acc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How sceptics and supporters read the same evidence
 
 Supporters of the UFO interpretation focus on several points.
@@ -290,9 +287,9 @@ Supporters of the UFO interpretation focus on several points.
 * The shutdown was real and unusually widespread within a single missile flight.
 * Reports of strange aerial objects circulated close enough to the event to appear in official records.
 * Multiple former military personnel later claimed that unusual lights were observed around missile facilities.
-* The coincidence of a reported aerial anomaly and a major weapons-system malfunction appears difficult to dismiss. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/malmstrom67-3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Minuteman Missiles Shutdown</span><span class="citation-popover-snippet">NICAPMinuteman Missiles Shutdown - Robert SalasThe date of the Echo incident is March 16,1967. When we received this information, I assum...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsFormer Airmen to Govt.: Come Clean on UFOsFormer Air Force officers say UFOs interfered with nuclear missiles... &quot;No UFO reporte...</span></span></span>
+* The coincidence of a reported aerial anomaly and a major weapons-system malfunction appears difficult to dismiss. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/malmstrom67-3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Minuteman Missiles Shutdown</span><span class="citation-popover-snippet">Minuteman Missiles Shutdown - Robert SalasThe date of the Echo incident is March 16,1967. When we received this information, I assum...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsFormer Airmen to Govt.: Come Clean on UFOsFormer Air Force officers say UFOs interfered with nuclear missiles... &quot;No UFO reporte...</span></span></span>
 
-To supporters, the official statement that UFO rumours were disproven does not settle the issue. Some argue that the very presence of that statement suggests investigators were responding to reports that genuinely existed at the time. Salas himself has argued that witness reports were not properly reflected in the surviving documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/malmstrom67-3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Minuteman Missiles Shutdown</span><span class="citation-popover-snippet">NICAPMinuteman Missiles Shutdown - Robert SalasThe date of the Echo incident is March 16,1967. When we received this information, I assum...</span></span></span>
+To supporters, the official statement that UFO rumours were disproven does not settle the issue. Some argue that the very presence of that statement suggests investigators were responding to reports that genuinely existed at the time. Salas himself has argued that witness reports were not properly reflected in the surviving documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/malmstrom67-3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Minuteman Missiles Shutdown</span><span class="citation-popover-snippet">Minuteman Missiles Shutdown - Robert SalasThe date of the Echo incident is March 16,1967. When we received this information, I assum...</span></span></span>
 
 Sceptics read the same material differently.
 
@@ -302,7 +299,6 @@ Some sceptical writers have gone further, arguing that later accounts merged sep
 
 The most recent twist came from reporting about Pentagon historical reviews that cited a classified electromagnetic pulse-related test as the likely explanation for the shutdown. That claim has attracted attention because it offers a potential technical mechanism without invoking unknown aerial objects. However, discussion of the alleged classified test remains tied to later reporting rather than to documentation that has achieved the same prominence as the original 1967 unit history, and debate over its significance continues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KkZWHpP17Rc" title="ET Shuts Down Nuclear Missile Sites l Captain Robert Salas of Air Force Academy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KkZWHpP17Rc" target="_blank" rel="noopener noreferrer">ET Shuts Down Nuclear Missile Sites l Captain Robert Salas of Air Force Academy</a></p><p class="youtube-embed-meta">Channel: Dr. Steven Greer &middot; Views: 137.8K &middot; Uploaded: June 2013 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KkZWHpP17Rc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KkZWHpP17Rc">Open on YouTube</a></p></div></div></div>
 
 ## What can actually be said with confidence
@@ -311,14 +307,21 @@ The safest conclusion is narrower than either believers or debunkers sometimes p
 
 The evidence strongly supports three points:
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VgziDyPSUog" title="What Disabled Missiles at Malmstrom Air Force Base?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VgziDyPSUog" target="_blank" rel="noopener noreferrer">What Disabled Missiles at Malmstrom Air Force Base?</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 273.6K &middot; Uploaded: November 2014 &middot; Length: 4 minutes 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VgziDyPSUog" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VgziDyPSUog">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T6cuPqf1j0U" title="The Connection Between UAP And Nuclear Sites Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T6cuPqf1j0U" target="_blank" rel="noopener noreferrer">The Connection Between UAP And Nuclear Sites Explained</a></p><p class="youtube-embed-meta">Channel: WatchMojo.com &middot; Views: 7.7K &middot; Uploaded: September 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T6cuPqf1j0U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T6cuPqf1j0U">Open on YouTube</a></p></div></div></div>
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Ten missiles in Echo Flight lost alert status on 16 March 1967.
 2. The event was serious enough to appear in official Air Force history.
+3. UFO rumours existed closely enough to the incident that they were specifically addressed in official records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+
+</div>
+
+The evidence is much weaker on the crucial fourth question: whether any unusual aerial object caused the shutdown.
+
+No publicly available document from the time demonstrates such a connection. The official history argues against it. The case for a connection relies largely on later testimony and interpretation rather than contemporaneous technical evidence. That does not prove the witnesses were wrong, but it means the UFO explanation rests on a different and less direct category of evidence than the shutdown itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span> Reddit That distinction is what makes Echo Flight such an enduring part of Montana's UFO history. The shutdown is one of the best-documented militar <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">spheric interference problems related to Echo Flight.Read more...</span></span></span> y incidents associated with a UFO claim. Yet the better documented the shutdown becomes, the more attention shifts to the unresolved question that has never been settled: whether the malfunction and the reported lights were connected at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
+
+<img src="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_echo_flight_shutdown_438acc-Illustration-3-dark.svg" | relative_url }}" alt="Echo Flight illustration 3" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_echo_flight_shutdown_438acc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_echo_flight_shutdown_438acc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -737,102 +740,92 @@ The evidence strongly supports three points:
 </script>
 </section>
 
-3. UFO rumours existed closely enough to the incident that they were specifically addressed in official records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
-
-</div>
-
-The evidence is much weaker on the crucial fourth question: whether any unusual aerial object caused the shutdown.
-
-No publicly available document from the time demonstrates such a connection. The official history argues against it. The case for a connection relies largely on later testimony and interpretation rather than contemporaneous technical evidence. That does not prove the witnesses were wrong, but it means the UFO explanation rests on a different and less direct category of evidence than the shutdown itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span> Reddit That distinction is what makes Echo Flight such an enduring part of Montana's UFO history. The shutdown is one of the best-documented militar <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">spheric interference problems related to Echo Flight.Read more...</span></span></span> y incidents associated with a UFO claim. Yet the better documented the shutdown becomes, the more attention shifts to the unresolved question that has never been settled: whether the malfunction and the reported lights were connected at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
-
-
-<img src="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_echo_flight_shutdown_438acc-Illustration-3-light.svg" | relative_url }}" alt="Echo Flight illustration 3" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_echo_flight_shutdown_438acc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_echo_flight_shutdown_438acc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Malmstrom_UFO_incident](https://en.wikipedia.org/wiki/Malmstrom_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: nicap.org  
    Title: Minuteman Missiles Shutdown  
-   Link: [https://www.nicap.org/malmstrom67-3.htm](https://www.nicap.org/malmstrom67-3.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPMinuteman Missiles Shutdown - Robert SalasThe date of the Echo incident is March 16,1967. When we received this information, I assum...</p></details>
+   Link: <a href="https://www.nicap.org/malmstrom67-3.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/malmstrom67-3.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Minuteman Missiles Shutdown - Robert SalasThe date of the Echo incident is March 16,1967. When we received this information, I assum...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/](https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>spheric interference problems related to Echo Flight.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: 1967 malmstrom afb ufo incident how do i balance  
-   Link: [https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/](https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/)  
+   Link: <a href="https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Screenwriting/comments/1g9mlkv/1967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1967 Malmstrom AFB UFO Incident: How do I balance the...Patrick McDonough, a USAF nuclear missile site geodetic surveyor, says he saw a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715](https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715)  
+   Link: <a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFormer Airmen to Govt.: Come Clean on UFOsFormer Air Force officers say UFOs interfered with nuclear missiles... &quot;No UFO reporte...</p></details>
 
 ### Additional References
 
 6. <a id="endnote-6"></a>
    Source: nsarchive.gwu.edu  
-   Link: [https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2020-03-16/false-warnings-soviet-missile-attacks-during-1979-80-led-alert-actions-us-strategic-forces](https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2020-03-16/false-warnings-soviet-missile-attacks-during-1979-80-led-alert-actions-us-strategic-forces)  
+   Link: <a href="https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2020-03-16/false-warnings-soviet-missile-attacks-during-1979-80-led-alert-actions-us-strategic-forces" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2020-03-16/false-warnings-soviet-missile-attacks-during-1979-80-led-alert-actions-us-strategic-forces</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forces on...16 Mar 2020 — Eight Minutes After Warning Screens Showed 1,400 Soviet Ballistic Missiles Approaching North America, on 9 Nov...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: publications.parliament.uk  
-   Link: [https://publications.parliament.uk/pa/cm200607/cmselect/cmsctech/66/66we79.htm](https://publications.parliament.uk/pa/cm200607/cmselect/cmsctech/66/66we79.htm)  
+   Link: <a href="https://publications.parliament.uk/pa/cm200607/cmselect/cmsctech/66/66we79.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm200607/cmselect/cmsctech/66/66we79.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>use of cookiesTo most people rockets and missiles still meant weapons of war and the ability to deliver nuclear bombs, and few as yet tho...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/](https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/)  
+   Link: <a href="https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/attachments/42303580-echo-flights-of-fantasy-anatomy-of-a-ufo-hoax-by-james-carlson-pdf.47230/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Echo Flights of FantasyMissile Wing and Combat Support Group Command History: &quot;On 16 March 1967 at 0845, all sites in. Echo (E) Flight, M...</p></details>
    Published: March 1967  
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
    Title: former air force missile officer claims ufos disabled nuclear arsenal at montana  
-   Link: [https://www.facebook.com/nypostvideo/posts/former-air-force-missile-officer-claims-ufos-disabled-nuclear-arsenal-at-montana/1221989743439747/](https://www.facebook.com/nypostvideo/posts/former-air-force-missile-officer-claims-ufos-disabled-nuclear-arsenal-at-montana/1221989743439747/)  
+   Link: <a href="https://www.facebook.com/nypostvideo/posts/former-air-force-missile-officer-claims-ufos-disabled-nuclear-arsenal-at-montana/1221989743439747/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nypostvideo/posts/former-air-force-missile-officer-claims-ufos-disabled-nuclear-arsenal-at-montana/1221989743439747/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Air Force missile officer claims UFOs disabled...Confirms that on 16 March 1967, all ten Minuteman missiles at Echo Flight at Mal...</p></details>
    Published: March 1967  
 
 10. <a id="endnote-10"></a>
    Source: enigmalabs.io  
    Title: Malmstrom AFB Incident: UAP Disables Nuclear Missiles References · 1  
-   Link: [https://enigmalabs.io/library/dd644338-b5d7-45a8-995a-b72fa4be68d1](https://enigmalabs.io/library/dd644338-b5d7-45a8-995a-b72fa4be68d1)  
+   Link: <a href="https://enigmalabs.io/library/dd644338-b5d7-45a8-995a-b72fa4be68d1" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/dd644338-b5d7-45a8-995a-b72fa4be68d1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;UFO/Missile Incident (March 16, 1967), Black Vault, [https://www.theblackvault.com/documentarchive/ufo-case-malmstrom-afb-ufomissile-incident...&quot;](https://www.theblackvault.com/documentarchive/ufo-case-malmstrom-afb-ufomissile-incident...</p></details>
    Published: March 16, 1967  
 
 11. <a id="endnote-11"></a>
    Source: thebulletin.org  
    Title: a year later responding to problems in the icbm force  
-   Link: [https://thebulletin.org/2015/02/a-year-later-responding-to-problems-in-the-icbm-force/](https://thebulletin.org/2015/02/a-year-later-responding-to-problems-in-the-icbm-force/)  
+   Link: <a href="https://thebulletin.org/2015/02/a-year-later-responding-to-problems-in-the-icbm-force/" target="_blank" rel="noopener noreferrer nofollow">https://thebulletin.org/2015/02/a-year-later-responding-to-problems-in-the-icbm-force/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>missileers at the 341st Missile Wing at Malmstrom Air Force Base in Montana.... Command, reuniting the strategic bomber and missile forces...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: meer.com  
-   Link: [https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns](https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns)  
+   Link: <a href="https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom nuclear UFO incident (1967) returns23 Jul 2023 — Well, in 1967, I was a missile launch officer at Malmstrom AF Base, Montana...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: billkochman.com  
-   Link: [https://www.billkochman.com/Articles/natalien14.html](https://www.billkochman.com/Articles/natalien14.html)  
+   Link: <a href="https://www.billkochman.com/Articles/natalien14.html" target="_blank" rel="noopener noreferrer nofollow">https://www.billkochman.com/Articles/natalien14.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nature of the Alien: ETs, Demons or a Government Plot?&quot;In central Montana, Thursday morning March 16 1967, Captain Eric Carlson and First...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cbsnews.com  
    Title: ex air force personnel ufos deactivated nukes  
-   Link: [https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/](https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/)  
+   Link: <a href="https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ex-air-force-personnel-ufos-deactivated-nukes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of former Air Force personnel testifying to the existence of UFOs and their ability to neutralize American and Russian nuclear missiles...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: UF Os and NUKEs Documentary The retired U.S  
-   Link: [https://www.facebook.com/groups/326073837423894/posts/1612169115481020/](https://www.facebook.com/groups/326073837423894/posts/1612169115481020/)  
+   Link: <a href="https://www.facebook.com/groups/326073837423894/posts/1612169115481020/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/326073837423894/posts/1612169115481020/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force...Ten missiles of Echo Flight restarted normally following a commonplace commercial power failure on March 16, 1967, being dow...</p></details>
-   Published: March 16, 1967  
+   Published: March 16, 1967

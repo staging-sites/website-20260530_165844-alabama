@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /massachusetts-d42990-modern-reports/
 description: Focused pages that expand on Modern Reports.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Massachusetts_d42990_modern_reports_expla_fcd5ed
-parent_title: Modern Reports | What Really Happened in Massachusetts Skies?
+parent_title: Modern Reports
 parent_nav_short_title: Modern Reports
 parent_permalink: /modern-reports-dd8097/
 ---

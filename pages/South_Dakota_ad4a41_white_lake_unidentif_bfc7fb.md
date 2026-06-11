@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-south-dakotas/
 nav_short_title: White Lake
 title: What Made White Lake Officially Unidentified?
-title_full: What Made White Lake Officially Unidentified? | South Dakota UFOs
+title_full: What Made White Lake Officially Unidentified?
 display_title_short: White Lake
 display_title: White Lake
 heading_title: What Made White Lake Officially Unidentified?
@@ -262,14 +262,12 @@ image: /assets/images/South_Dakota_ad4a41_white_lake_unidentif_bfc7fb-overview-s
 
 ## Introduction
 
-White Lake matters in [South Dakota]({{ 'what-really-happened-in-south-dakotas/' | relative_url }}) UFO history because it shows how powerful, and sometimes misleading, official labels can be. The core case was a 1952 report by a Ground Observer Corps observer near White Lake who described a red, cigar-shaped object, seen through binoculars for roughly half an hour, with three puffs behind it before it moved away. Project [Blue Book]({{ 'blue-book-eb3f6b/' | relative_url }}) later treated it as an “unidentified” case, a rare distinction: historian Lawrence H. Larsen found that Blue Book listed only one South Dakota UFO that way, even though many other state reports were arguable, thinly investigated or still debated. Wikimedia Commons <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book Unknown Case Files, Complete List</span><span class="citation-popover-snippet">The Black Vault Project Blue Book Unknown Case Files, Complete List</span></span></span>
-
+White Lake matters in South Dakota UFO history because it shows how powerful, and sometimes misleading, official labels can be. The core case was a 1952 report by a Ground Observer Corps observer near White Lake who described a red, cigar-shaped object, seen through binoculars for roughly half an hour, with three puffs behind it before it moved away. Project [Blue Book]({{ 'blue-book-eb3f6b/' | relative_url }}) later treated it as an “unidentified” case, a rare distinction: historian Lawrence H. Larsen found that Blue Book listed only one South Dakota UFO that way, even though many other state reports were arguable, thinly investigated or still debated. Wikimedia Commons <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book Unknown Case Files, Complete List</span><span class="citation-popover-snippet">The Black Vault Project Blue Book Unknown Case Files, Complete List</span></span></span>
 
 <img src="{{ "/assets/images/South_Dakota_ad4a41_white_lake_unidentif_bfc7fb-overview.webp" | relative_url }}" alt="Overview image for White Lake" loading="eager" decoding="sync" fetchpriority="high">
 That does not make White Lake proof of an extraordinary craft. It means the Air Force did not close the file with a conventional identification. The difference is important: “unidentified” is an administrative conclusion about evidence, not a verdict that something alien or technologically impossible was present. The White Lake file is therefore most useful as a lesson in how UFO history is shaped by categories, paperwork and what investigators did not know. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GcOCIabFnLE" title="Project Blue Book UFO Interview USAF (1966)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer">Project Blue Book UFO Interview USAF (1966)</a></p><p class="youtube-embed-meta">Channel: AIRBOYD &middot; Views: 783 &middot; Uploaded: November 2025 &middot; Length: 4 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GcOCIabFnLE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pex7x4Z9htw" title="The Most Puzzling UFO Case of the 20th Century | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer">The Most Puzzling UFO Case of the 20th Century | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied &middot; Views: 550.4K &middot; Uploaded: July 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pex7x4Z9htw">Open on YouTube</a></p></div></div></div>
 
 ## The cigar-shaped object report
 
@@ -281,18 +279,16 @@ The White Lake report also contains a second, easily overlooked detail: the obse
 
 The original paperwork is not clean. A later South Dakota historical article gives the date as 14 August 1952, while the Blue Book case file and major catalogues of Blue Book unknowns give 14 September 1952. Larsen’s footnote still identifies the file as Case 2089, White Lake, South Dakota, and the digitised Blue Book report itself lists the date of information as 14 September 1952. For a careful reader, September is the safer date for the underlying Air Force record, while August should be treated as a secondary-source discrepancy rather than a separate White Lake case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">South Dakota Historical Society Press</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/South_Dakota_ad4a41_white_lake_unidentif_bfc7fb-Illustration-1-light.svg" | relative_url }}" alt="White Lake illustration 1" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_white_lake_unidentif_bfc7fb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_white_lake_unidentif_bfc7fb-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Dakota_ad4a41_white_lake_unidentif_bfc7fb-Illustration-1-dark.svg" | relative_url }}" alt="White Lake illustration 1" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_white_lake_unidentif_bfc7fb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_white_lake_unidentif_bfc7fb-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Blue Book treated it differently
 
-Project Blue Book was the Air Force’s best-known UFO investigation programme, operating from 1952 until its termination in 1969. The National Archives states that [Blue Book records]({{ 'blue-book-eb3f6b/' | relative_url }}) have been declassified and transferred for research, including case files arranged chronologically and indexed by date and location. The Air Force fact sheet says the project collected 12,618 reports, of which 701 remained “unidentified”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.nationalarchives.gov.uk/SearchUI/Details?uri=C14488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Project Blue Book was the Air Force’s best-known UFO investigation programme, operating from 1952 until its termination in 1969. The National Archives states that Blue Book records have been declassified and transferred for research, including case files arranged chronologically and indexed by date and location. The Air Force fact sheet says the project collected 12,618 reports, of which 701 remained “unidentified”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.nationalarchives.gov.uk/SearchUI/Details?uri=C14488" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 White Lake appears to have entered that small “unidentified” stream because the file did not offer a firm enough conventional answer. The report itself says the object was “definitely not a plane of any kind” in the observer’s view and “too close and too large” to be a star. It also records that no weather information was reported, no physical evidence was available, no interception or identification action was taken, and air traffic in the area at the time was unknown. Those absences are just as important as the vivid description: they left investigators with a report they could not confidently reduce to aircraft, star, balloon, meteor or hoax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That is why White Lake sits awkwardly between strong and weak cases. It has a named role for the witness, binocular observation, a long duration, a shape, colour, direction of movement and a sketch. It lacks radar, photographs, multiple independent witnesses, weather data, aircraft checks and a recovered physical trace. In practical terms, Blue Book had enough to say the report was not simply empty, but not enough to say what the object was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Larsen’s assessment of Great Plains Blue Book files helps explain why this label stands out. He argued that many Blue Book findings in the region looked arbitrary, unscientific and based on insufficient evidence, with some files consisting only of a record card and a short message. He also noted that the quality of evidence in some “identified” cases differed little from cases closed as insufficient or unidentified. White Lake was therefore not necessarily South Dakota’s “best” sighting in a dramatic sense; it was the one that happened to cross the official threshold into the unidentified category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">South Dakota Historical Society Press</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L7wVNu0fP28" title="Project Blue Book: Declassified – The True Story of The Scoutmaster | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L7wVNu0fP28" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of The Scoutmaster | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 40.5K &middot; Uploaded: March 2019 &middot; Length: 2 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L7wVNu0fP28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L7wVNu0fP28">Open on YouTube</a></p></div></div></div>
 
@@ -308,8 +304,7 @@ The White Lake case is valuable because it separates three ideas that are often 
 
 White Lake, by comparison, did not receive a sturdy mundane identification. Larsen floated one possibility: perhaps the observer saw a missile that had strayed off course, but he immediately added that no one would ever know one way or the other. That is a cautious suggestion, not a documented solution. There is no surviving evidence in the cited file of a confirmed missile launch, tracked aircraft, balloon release or weather condition that closes the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">South Dakota Historical Society Press</span></span></span>
 
-
-<img src="{{ "/assets/images/South_Dakota_ad4a41_white_lake_unidentif_bfc7fb-Illustration-2-light.svg" | relative_url }}" alt="White Lake illustration 2" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_white_lake_unidentif_bfc7fb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_white_lake_unidentif_bfc7fb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Dakota_ad4a41_white_lake_unidentif_bfc7fb-Illustration-2-dark.svg" | relative_url }}" alt="White Lake illustration 2" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_white_lake_unidentif_bfc7fb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_white_lake_unidentif_bfc7fb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the label does, and does not, prove
 
 The strongest argument for taking White Lake seriously is not that it sounds spectacular. It is that the report came from a [skywatcher]({{ 'skywatcher/' | relative_url }}) in an organised Cold War observation role, was made through binoculars, lasted long enough for repeated observation, and was not easily folded into the commonest quick explanations recorded in the file. In a state where Blue Book handled dozens of reports, that official “unidentified” label gives White Lake a distinctive archival status. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -317,7 +312,6 @@ The strongest argument for taking White Lake seriously is not that it sounds spe
 The strongest argument against overstating it is equally clear. The case appears to rest on one principal observer; the apparent puffs behind the object could suggest vapour, cloud, exhaust, smoke, aircraft-related activity, a balloon-associated effect, or some other atmospheric or human-made source; and the file itself says no weather data, air-traffic information, physical evidence or interception action was available. These are not minor gaps. They are exactly the kinds of missing checks that prevent a historical UFO report from becoming a robust evidential case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The Air Force’s own final position also matters. Blue Book’s official conclusion was that no investigated UFO showed a national-security threat, no “unidentified” sighting represented technology beyond scientific knowledge, and no evidence showed that unidentified sightings were extraterrestrial vehicles. That conclusion does not explain White Lake specifically, but it frames what the label meant institutionally: “unidentified” did not equal “alien”; it meant not identified within the available investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d0llEg93sss" title="Preventing a Soviet Union Sneak Attack - The Ground Observer Corps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d0llEg93sss" target="_blank" rel="noopener noreferrer">Preventing a Soviet Union Sneak Attack - The Ground Observer Corps</a></p><p class="youtube-embed-meta">Channel: Minnesota Bricks &middot; Views: 1.1K &middot; Uploaded: October 2024 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d0llEg93sss" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d0llEg93sss">Open on YouTube</a></p></div></div></div>
 
@@ -327,8 +321,7 @@ White Lake is not South Dakota’s most famous UFO story; that role usually belo
 
 That distinction helps readers approach the wider South Dakota UFO record more carefully. A case can be famous without being officially unidentified. A case can be officially identified without being persuasively explained. A case can be unidentified without being strong evidence of anything extraordinary. White Lake sits at the intersection of those categories: credible enough to avoid easy dismissal, too thin to support a confident extraordinary claim, and historically useful because it exposes the machinery behind the label.
 
-
-<img src="{{ "/assets/images/South_Dakota_ad4a41_white_lake_unidentif_bfc7fb-Illustration-3-light.svg" | relative_url }}" alt="White Lake illustration 3" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_white_lake_unidentif_bfc7fb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_white_lake_unidentif_bfc7fb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Dakota_ad4a41_white_lake_unidentif_bfc7fb-Illustration-3-dark.svg" | relative_url }}" alt="White Lake illustration 3" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_white_lake_unidentif_bfc7fb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_white_lake_unidentif_bfc7fb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -751,122 +744,122 @@ That distinction helps readers approach the wider South Dakota UFO record more c
 
 1. <a id="endnote-1"></a>
    Source: upload.wikimedia.org  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf](https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/c/c6/Project_Blue_Book_report_-_1952-09-6383323-WHITELAKE-S-DAK.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: sdhspress.com  
    Title: South Dakota Historical Society Press  
-   Link: [https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf](https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf)  
+   Link: <a href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 5. <a id="endnote-5"></a>
    Source: history.com  
-   Link: [https://www.history.com/articles/ufos-washington-white-house-air-force-coverup](https://www.history.com/articles/ufos-washington-white-house-air-force-coverup)  
+   Link: <a href="https://www.history.com/articles/ufos-washington-white-house-air-force-coverup" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-washington-white-house-air-force-coverup</a>  
 
 6. <a id="endnote-6"></a>
    Source: prologue.blogs.archives.gov  
    Title: saucers over washington the history of project blue book  
-   Link: [https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/](https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 8. <a id="endnote-8"></a>
    Source: archives.gov  
    Title: Federal Records Guide: Alphabetical Index  
-   Link: [https://www.archives.gov/research/guide-fed-records/index-alpha/s.html](https://www.archives.gov/research/guide-fed-records/index-alpha/s.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/index-alpha/s.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/s.html</a>  
 
 9. <a id="endnote-9"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR10 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf](https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: theblackvault.com  
    Title: The Black Vault Project Blue Book Unknown Case Files, Complete List  
-   Link: [https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/](https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/</a>  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Ground Observer Corps  
-   Link: [https://en.wikipedia.org/wiki/Ground_Observer_Corps](https://en.wikipedia.org/wiki/Ground_Observer_Corps)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ground_Observer_Corps" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ground_Observer_Corps</a>  
 
 13. <a id="endnote-13"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 14. <a id="endnote-14"></a>
    Source: discovery.nationalarchives.gov.uk  
-   Link: [https://discovery.nationalarchives.gov.uk/SearchUI/Details?uri=C14488](https://discovery.nationalarchives.gov.uk/SearchUI/Details?uri=C14488)  
+   Link: <a href="https://discovery.nationalarchives.gov.uk/SearchUI/Details?uri=C14488" target="_blank" rel="noopener noreferrer nofollow">https://discovery.nationalarchives.gov.uk/SearchUI/Details?uri=C14488</a>  
 
 15. <a id="endnote-15"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 16. <a id="endnote-16"></a>
    Source: geekchocolate.co.uk  
    Title: project blue book  
-   Link: [https://geekchocolate.co.uk/project-blue-book/](https://geekchocolate.co.uk/project-blue-book/)  
+   Link: <a href="https://geekchocolate.co.uk/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://geekchocolate.co.uk/project-blue-book/</a>  
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified – The True Story of The Scoutmaster | History  
-   Link: [https://www.youtube.com/watch?v=L7wVNu0fP28](https://www.youtube.com/watch?v=L7wVNu0fP28)  
+   Link: <a href="https://www.youtube.com/watch?v=L7wVNu0fP28" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L7wVNu0fP28</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Puzzling UFO Case of the 20th Century | Monstrum...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GcOCIabFnLE](https://www.youtube.com/watch?v=GcOCIabFnLE)  
+   Link: <a href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GcOCIabFnLE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Declassified – The True Story of The Scoutmaster | History...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/docs/520914whitelake_docs.pdf](https://www.nicap.org/docs/520914whitelake_docs.pdf)  
+   Link: <a href="https://www.nicap.org/docs/520914whitelake_docs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/520914whitelake_docs.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database](https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database)  
+   Link: <a href="https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database</a>  
 
 22. <a id="endnote-22"></a>
    Source: spokanehistorical.org  
-   Link: [https://spokanehistorical.org/items/show/828](https://spokanehistorical.org/items/show/828)  
+   Link: <a href="https://spokanehistorical.org/items/show/828" target="_blank" rel="noopener noreferrer nofollow">https://spokanehistorical.org/items/show/828</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ancientwhispers/posts/long-cigar-shaped-object-has-been-captured-hovering-above-a-distant-landscape-ap/932092776476811/](https://www.facebook.com/ancientwhispers/posts/long-cigar-shaped-object-has-been-captured-hovering-above-a-distant-landscape-ap/932092776476811/)  
+   Link: <a href="https://www.facebook.com/ancientwhispers/posts/long-cigar-shaped-object-has-been-captured-hovering-above-a-distant-landscape-ap/932092776476811/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/long-cigar-shaped-object-has-been-captured-hovering-above-a-distant-landscape-ap/932092776476811/</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/](https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/)  
+   Link: <a href="https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/</a>  
 
 25. <a id="endnote-25"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/files/40063/40063-h/40063-h.htm](https://www.gutenberg.org/files/40063/40063-h/40063-h.htm)  
+   Link: <a href="https://www.gutenberg.org/files/40063/40063-h/40063-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/40063/40063-h/40063-h.htm</a>  
 
 26. <a id="endnote-26"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346.html](https://www.gutenberg.org/cache/epub/17346/pg17346.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346.html</a>

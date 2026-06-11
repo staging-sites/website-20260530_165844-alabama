@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /buff-ledge/
 nav_short_title: Hypnosis
 title: Can hypnosis rescue the Buff Ledge story?
-title_full: Can hypnosis rescue the Buff Ledge story? | Buff Ledge
+title_full: Can hypnosis rescue the Buff Ledge story?
 display_title_short: Hypnosis
 display_title: Hypnosis
 heading_title: Can hypnosis rescue the Buff Ledge story?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:21:45'
-parent_title: How Strong Is the Buff Ledge Story? | Vermont UFOs
+parent_title: How Strong Is the Buff Ledge Story?
 parent_permalink: /buff-ledge/
 parent_nav_short_title: Buff Ledge
 parent_heading_title: How Strong Is the Buff Ledge Story?
@@ -250,11 +250,10 @@ image: /assets/images/Vermont_835aef_buff_ledge_abduction_a01612_buff_ledge_hypn
 
 ## Introduction
 
-The [Buff Ledge]({{ 'buff-ledge/' | relative_url }}) case occupies a special place in [Vermont]({{ 'what-makes-vermonts-ufo-stories-endure/' | relative_url }}) UFO history because the most dramatic part of the story did not come from what the witnesses said in 1968. It came from what they later remembered under hypnosis. That fact sits at the centre of the debate. If hypnotic regression helped recover genuine memories of a traumatic event, then Buff Ledge could be one of the strongest alien-abduction claims associated with Vermont. If hypnosis instead reshaped uncertain memories, introduced suggestions or encouraged confabulation, then the case becomes much harder to treat as reliable evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/encounteratbuffl0000webb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">by: Webb, Walter N. Publication date: 1994; Topics: Unidentified flying objects -- Sightings and...Read more...</span></span></span>
+The [Buff Ledge]({{ 'buff-ledge/' | relative_url }}) case occupies a special place in Vermont UFO history because the most dramatic part of the story did not come from what the witnesses said in 1968. It came from what they later remembered under hypnosis. That fact sits at the centre of the debate. If hypnotic regression helped recover genuine memories of a traumatic event, then Buff Ledge could be one of the strongest alien-abduction claims associated with Vermont. If hypnosis instead reshaped uncertain memories, introduced suggestions or encouraged confabulation, then the case becomes much harder to treat as reliable evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/encounteratbuffl0000webb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">by: Webb, Walter N. Publication date: 1994; Topics: Unidentified flying objects -- Sightings and...Read more...</span></span></span>
 
-
-<img src="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612_buff_ledge_hypnosis_d82a6c-Illustration-1-light.svg" | relative_url }}" alt="Hypnosis illustration 1" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612_buff_ledge_hypnosis_d82a6c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612_buff_ledge_hypnosis_d82a6c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The question is not whether the two witnesses believed what they later described. Most investigators, including sceptical ones, have generally treated them as sincere. The harder question is whether memories recovered roughly a decade after the event can be trusted when hypnosis played such a large role in producing the final narrative. Modern memory research has made that problem more serious than it appeared when the case first gained attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/724/528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationThree New England Abduction Stories and One New RealityJune 22, 2014 — Hypnosis is controversial: It can...</span><span class="citation-popover-meta">Published: June 22, 2014</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedMemory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 321 — Those reporting recovered and repress...</span></span></span>
+<img src="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612_buff_ledge_hypnosis_d82a6c-Illustration-1-dark.svg" | relative_url }}" alt="Hypnosis illustration 1" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612_buff_ledge_hypnosis_d82a6c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612_buff_ledge_hypnosis_d82a6c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+The question is not whether the two witnesses believed what they later described. Most investigators, including sceptical ones, have generally treated them as sincere. The harder question is whether memories recovered roughly a decade after the event can be trusted when hypnosis played such a large role in producing the final narrative. Modern memory research has made that problem more serious than it appeared when the case first gained attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/724/528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationThree New England Abduction Stories and One New RealityJune 22, 2014 — Hypnosis is controversial: It can...</span><span class="citation-popover-meta">Published: June 22, 2014</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Memory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 321 — Those reporting recovered and repress...</span></span></span>
 
 ## What did the witnesses reportedly remember before hypnosis?
 
@@ -266,7 +265,6 @@ The later version, which turned Buff Ledge into a famous abduction case, include
 
 This distinction matters because historians of UFO reports generally place greater evidential weight on statements made close to an event. Memories recorded immediately after an incident may still be mistaken, but they are less vulnerable to years of retelling, reinterpretation and outside influence. In the Buff Ledge case, the most extraordinary claims belong to the later layer of recollection rather than the original report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/encounteratbuffl0000webb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">by: Webb, Walter N. Publication date: 1994; Topics: Unidentified flying objects -- Sightings and...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mPHADhObzTI" title="An Alien Abduction Hypnotherapist Explains Extraterrestrial Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mPHADhObzTI" target="_blank" rel="noopener noreferrer">An Alien Abduction Hypnotherapist Explains Extraterrestrial Encounters</a></p><p class="youtube-embed-meta">Channel: VICE &middot; Views: 239.6K &middot; Uploaded: February 2019 &middot; Length: 4 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mPHADhObzTI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mPHADhObzTI">Open on YouTube</a></p></div></div></div>
 
 ## How hypnosis changed the Buff Ledge narrative
@@ -277,10 +275,9 @@ The result was not merely a clarification of existing memories. The story expand
 
 Supporters of the case often point to the apparent consistency of the witnesses' accounts and to the fact that they had been separated for years before some of the later investigative work. To believers, that reduces the likelihood of a deliberate hoax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://beyondtheveilmagazine.com/issues/1982/07/the-buff-ledge-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beyondtheveilmagazine.com">[Beyond the Veil Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beyondtheveilmagazine.com</span><span class="citation-popover-title">Beyond the Veil Magazine The Buff Ledge Abduction</span><span class="citation-popover-snippet">Beyond the Veil MagazineThe Buff Ledge Abduction - Beyond the Veil MagazineHypnotic Regression: The detailed accounts emerged only under...</span></span></span>
 
-Critics respond that consistency alone does not solve the memory problem. People can sincerely share inaccurate memories, particularly when those memories are reconstructed rather than continuously remembered. The issue is not necessarily dishonesty. It is whether the process used to recover the memories was capable of producing distortions without anyone involved intending to do so. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/724/528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationThree New England Abduction Stories and One New RealityJune 22, 2014 — Hypnosis is controversial: It can...</span><span class="citation-popover-meta">Published: June 22, 2014</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedMemory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 321 — Those reporting recovered and repress...</span></span></span>
+Critics respond that consistency alone does not solve the memory problem. People can sincerely share inaccurate memories, particularly when those memories are reconstructed rather than continuously remembered. The issue is not necessarily dishonesty. It is whether the process used to recover the memories was capable of producing distortions without anyone involved intending to do so. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/724/528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationThree New England Abduction Stories and One New RealityJune 22, 2014 — Hypnosis is controversial: It can...</span><span class="citation-popover-meta">Published: June 22, 2014</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Memory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 321 — Those reporting recovered and repress...</span></span></span>
 
-
-<img src="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612_buff_ledge_hypnosis_d82a6c-Illustration-2-light.svg" | relative_url }}" alt="Hypnosis illustration 2" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612_buff_ledge_hypnosis_d82a6c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612_buff_ledge_hypnosis_d82a6c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612_buff_ledge_hypnosis_d82a6c-Illustration-2-dark.svg" | relative_url }}" alt="Hypnosis illustration 2" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612_buff_ledge_hypnosis_d82a6c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612_buff_ledge_hypnosis_d82a6c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why recovered memories create a verification problem
 
 The central difficulty is that hypnosis is not a recording device.
@@ -298,7 +295,6 @@ The Buff Ledge case fits several of the conditions that memory researchers regar
 
 None of these points proves that the memories were false. They do mean that the memories cannot easily be treated as independent confirmation of the event.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FdsAz8r2YFo" title="REAL People Who Were Abducted By Aliens And Have PROOF" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FdsAz8r2YFo" target="_blank" rel="noopener noreferrer">REAL People Who Were Abducted By Aliens And Have PROOF</a></p><p class="youtube-embed-meta">Channel: MostAmazingTop10 &middot; Views: 11.1K &middot; Uploaded: April 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FdsAz8r2YFo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FdsAz8r2YFo">Open on YouTube</a></p></div></div></div>
 
 ## The wider abduction debate behind Buff Ledge
@@ -311,8 +307,7 @@ This dispute appears repeatedly in UFO history. Investigators have often viewed 
 
 Buff Ledge therefore sits at the intersection of two different traditions. One treats hypnotically recovered testimony as potentially revealing genuine but suppressed experiences. The other sees such testimony as precisely the kind of evidence that demands the greatest caution.
 
-
-<img src="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612_buff_ledge_hypnosis_d82a6c-Illustration-3-light.svg" | relative_url }}" alt="Hypnosis illustration 3" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612_buff_ledge_hypnosis_d82a6c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612_buff_ledge_hypnosis_d82a6c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612_buff_ledge_hypnosis_d82a6c-Illustration-3-dark.svg" | relative_url }}" alt="Hypnosis illustration 3" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612_buff_ledge_hypnosis_d82a6c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612_buff_ledge_hypnosis_d82a6c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Does the memory problem weaken the case completely?
 
 Not necessarily, but it changes what kind of case Buff Ledge is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[ufoinsight.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">alien abduction buff ledge</span><span class="citation-popover-snippet">Webb, ISBN 9780929 343600. Marcus Lowth. Marcus Lowth is a writer with a love for UFOs...Read more...</span></span></span>
@@ -321,11 +316,9 @@ If the hypnosis-derived material is set aside, there remains a report that two p
 
 If the hypnosis-derived material is accepted, Buff Ledge becomes a detailed alien-abduction narrative and one of the most famous cases in Vermont's UFO history. The difficulty is that the most extraordinary elements depend heavily on memories recovered long after the event. Because there is no physical evidence that independently confirms those memories, the reliability of the recollections becomes the key issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://beyondtheveilmagazine.com/issues/1982/07/the-buff-ledge-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beyondtheveilmagazine.com">[Beyond the Veil Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beyondtheveilmagazine.com</span><span class="citation-popover-title">Beyond the Veil Magazine The Buff Ledge Abduction</span><span class="citation-popover-snippet">Beyond the Veil MagazineThe Buff Ledge Abduction - Beyond the Veil MagazineHypnotic Regression: The detailed accounts emerged only under...</span></span></span>
 
-That is why the Buff Ledge debate has endured for decades. The case is not simply a question of whether a strange object appeared over Lake Champlain in 1968. It is a test of how much trust should be placed in memories reconstructed years later through hypnosis. Modern research on memory has made that question harder, not easier, and it remains the strongest reason many investigators stop short of treating Buff Ledge as verified evidence of an abduction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedMemory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 321 — Those reporting recovered and repress...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/724/528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationThree New England Abduction Stories and One New RealityJune 22, 2014 — Hypnosis is controversial: It can...</span><span class="citation-popover-meta">Published: June 22, 2014</span></span></span>
-
+That is why the Buff Ledge debate has endured for decades. The case is not simply a question of whether a strange object appeared over Lake Champlain in 1968. It is a test of how much trust should be placed in memories reconstructed years later through hypnosis. Modern research on memory has made that question harder, not easier, and it remains the strongest reason many investigators stop short of treating Buff Ledge as verified evidence of an abduction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Memory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 321 — Those reporting recovered and repress...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/724/528" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationThree New England Abduction Stories and One New RealityJune 22, 2014 — Hypnosis is controversial: It can...</span><span class="citation-popover-meta">Published: June 22, 2014</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nLd8YAFkA8o" title="I Was Put Under HYPNOSIS.. | Alien Abduction Regression |" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nLd8YAFkA8o" target="_blank" rel="noopener noreferrer">I Was Put Under HYPNOSIS.. | Alien Abduction Regression |</a></p><p class="youtube-embed-meta">Channel: Mackie and Amanda &middot; Views: 26.7K &middot; Uploaded: January 2026 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nLd8YAFkA8o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nLd8YAFkA8o">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -748,67 +741,67 @@ That is why the Buff Ledge debate has endured for decades. The case is not simpl
 
 1. <a id="endnote-1"></a>
    Source: archive.org  
-   Link: [https://archive.org/details/encounteratbuffl0000webb](https://archive.org/details/encounteratbuffl0000webb)  
+   Link: <a href="https://archive.org/details/encounteratbuffl0000webb" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/encounteratbuffl0000webb</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>by: Webb, Walter N. Publication date: 1994; Topics: Unidentified flying objects -- Sightings and...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: False memory syndrome  
-   Link: [https://en.wikipedia.org/wiki/False_memory_syndrome](https://en.wikipedia.org/wiki/False_memory_syndrome)  
+   Link: <a href="https://en.wikipedia.org/wiki/False_memory_syndrome" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_memory_syndrome</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: False memory  
-   Link: [https://en.wikipedia.org/wiki/False_memory](https://en.wikipedia.org/wiki/False_memory)  
+   Link: <a href="https://en.wikipedia.org/wiki/False_memory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_memory</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Alien abduction  
-   Link: [https://en.wikipedia.org/wiki/Alien_abduction](https://en.wikipedia.org/wiki/Alien_abduction)  
+   Link: <a href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_abduction</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: The UFO Incident  
-   Link: [https://en.wikipedia.org/wiki/The_UFO_Incident](https://en.wikipedia.org/wiki/The_UFO_Incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_UFO_Incident</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Ilkley Moor UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Ilkley_Moor_UFO_incident](https://en.wikipedia.org/wiki/Ilkley_Moor_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ilkley_Moor_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ilkley_Moor_UFO_incident</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Zanfretta UFO Incident  
-   Link: [https://en.wikipedia.org/wiki/Zanfretta_UFO_Incident](https://en.wikipedia.org/wiki/Zanfretta_UFO_Incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Zanfretta_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Zanfretta_UFO_Incident</a>  
 
 8. <a id="endnote-8"></a>
    Source: files.secure.website  
    Title: Web Starts  
-   Link: [https://files.secure.website/wscfus/10517518/25903939/usa-vermont.pdf](https://files.secure.website/wscfus/10517518/25903939/usa-vermont.pdf)  
+   Link: <a href="https://files.secure.website/wscfus/10517518/25903939/usa-vermont.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.secure.website/wscfus/10517518/25903939/usa-vermont.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WebStartsAUGUST 7, 1968 – BUFF LEDGE CAMP VERMONTInvestigator Walter Webb was. Page 4. assigned to the case, and after hearing Michael&#x27;s...</p></details>
    Published: August 7, 1968  
 
 9. <a id="endnote-9"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/724/528](https://journalofscientificexploration.org/index.php/jse/article/view/724/528)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/724/528" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/724/528</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific ExplorationThree New England Abduction Stories and One New RealityJune 22, 2014 — Hypnosis is controversial: It can...</p></details>
    Published: June 22, 2014  
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/12150421/](https://pubmed.ncbi.nlm.nih.gov/12150421/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedMemory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 321 — Those reporting recovered and repress...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12150421/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 321 — Those reporting recovered and repress...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: beyondtheveilmagazine.com  
    Title: Beyond the Veil Magazine The [Buff Ledge Abduction](&#123;&#123; 'buff-ledge/' | relative_url &#125;&#125;)  
-   Link: [https://beyondtheveilmagazine.com/issues/1982/07/the-buff-ledge-abduction/](https://beyondtheveilmagazine.com/issues/1982/07/the-buff-ledge-abduction/)  
+   Link: <a href="https://beyondtheveilmagazine.com/issues/1982/07/the-buff-ledge-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://beyondtheveilmagazine.com/issues/1982/07/the-buff-ledge-abduction/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond the Veil MagazineThe Buff Ledge Abduction - Beyond the Veil MagazineHypnotic Regression: The detailed accounts emerged only under...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ufoinsight.com  
    Title: alien abduction buff ledge  
-   Link: [https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge](https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge)  
+   Link: <a href="https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Webb, ISBN 9780929 343600. Marcus Lowth. Marcus Lowth is a writer with a love for UFOs...Read more...</p></details>
 
 ### Additional References
@@ -816,57 +809,57 @@ That is why the Buff Ledge debate has endured for decades. The case is not simpl
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: the buff ledge ufoin the summer of 1968 a private girls camp in vermont became t  
-   Link: [https://www.facebook.com/headliners11/posts/the-buff-ledge-ufoin-the-summer-of-1968-a-private-girls-camp-in-vermont-became-t/1045745931046140/](https://www.facebook.com/headliners11/posts/the-buff-ledge-ufoin-the-summer-of-1968-a-private-girls-camp-in-vermont-became-t/1045745931046140/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookThe Buff Ledge UFO “In the summer of 1968, a private girls...Walter Webb investigated the case and suggested regression hypnosis...</p></details>
+   Link: <a href="https://www.facebook.com/headliners11/posts/the-buff-ledge-ufoin-the-summer-of-1968-a-private-girls-camp-in-vermont-became-t/1045745931046140/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/headliners11/posts/the-buff-ledge-ufoin-the-summer-of-1968-a-private-girls-camp-in-vermont-became-t/1045745931046140/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Buff Ledge UFO “In the summer of 1968, a private girls...Walter Webb investigated the case and suggested regression hypnosis...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ufoevidence.org  
-   Link: [https://www.ufoevidence.org/cases/case658.htm](https://www.ufoevidence.org/cases/case658.htm)  
+   Link: <a href="https://www.ufoevidence.org/cases/case658.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case658.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek, wrote a book about his investigation called &quot;Encounter at Buff Ledge: A UFO...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/441148853/The-Buff-Ledge-encounter](https://www.scribd.com/document/441148853/The-Buff-Ledge-encounter)  
+   Link: <a href="https://www.scribd.com/document/441148853/The-Buff-Ledge-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/441148853/The-Buff-Ledge-encounter</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e aliens, he slapped his knee. One alien did likewise. The...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ournewenglandlegends.com  
    Title: podcast 423 the buff ledge ufo abduction  
-   Link: [https://ournewenglandlegends.com/podcast-423-the-buff-ledge-ufo-abduction/](https://ournewenglandlegends.com/podcast-423-the-buff-ledge-ufo-abduction/)  
+   Link: <a href="https://ournewenglandlegends.com/podcast-423-the-buff-ledge-ufo-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://ournewenglandlegends.com/podcast-423-the-buff-ledge-ufo-abduction/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Podcast 423 – The Buff Ledge UFO Abduction20 Nov 2025 — In Episode 423 Jeff Belanger and Ray Auger explore the skies over Colchester, Ver...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: The Buff Ledge UFO Abduction  
-   Link: [https://www.facebook.com/ExploringLegends/posts/newenglandlegends-episode-423-the-buff-ledge-ufo-abduction-jeff-belanger-and-ray/1379408323552400/](https://www.facebook.com/ExploringLegends/posts/newenglandlegends-episode-423-the-buff-ledge-ufo-abduction-jeff-belanger-and-ray/1379408323552400/)  
+   Link: <a href="https://www.facebook.com/ExploringLegends/posts/newenglandlegends-episode-423-the-buff-ledge-ufo-abduction-jeff-belanger-and-ray/1379408323552400/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ExploringLegends/posts/newenglandlegends-episode-423-the-buff-ledge-ufo-abduction-jeff-belanger-and-ray/1379408323552400/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jeff Belanger&#x27;s post“Encounter at Buff Ledge” details the incident and includes testimony from the two witnesses/victims. (Individual hyp...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
    Title: The Buff Ledge Abduction  
-   Link: [https://www.reddit.com/r/truecreepy/comments/1oikifg/the_buff_ledge_abduction_on_the_evening_of_august/](https://www.reddit.com/r/truecreepy/comments/1oikifg/the_buff_ledge_abduction_on_the_evening_of_august/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe Buff Ledge Abduction - on the evening of August 7...Regressive hypnosis is controversial in UFO-research for its tendency to i...</p></details>
+   Link: <a href="https://www.reddit.com/r/truecreepy/comments/1oikifg/the_buff_ledge_abduction_on_the_evening_of_august/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/truecreepy/comments/1oikifg/the_buff_ledge_abduction_on_the_evening_of_august/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Buff Ledge Abduction - on the evening of August 7...Regressive hypnosis is controversial in UFO-research for its tendency to i...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: abebooks.com  
    Title: Encounter at Buff Ledge  
-   Link: [https://www.abebooks.com/Encounter-Buff-Ledge-UFO-Case-History/32401982168/bd](https://www.abebooks.com/Encounter-Buff-Ledge-UFO-Case-History/32401982168/bd)  
+   Link: <a href="https://www.abebooks.com/Encounter-Buff-Ledge-UFO-Case-History/32401982168/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/Encounter-Buff-Ledge-UFO-Case-History/32401982168/bd</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO Case History (Trade...Encounter at Buff Ledge. A UFO Case History (Trade Paperback). Webb, Walter N. Published by J. Allen Hynek C...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: open.spotify.com  
    Title: 0l9Jx SCl Xk3WWAivm26G85  
-   Link: [https://open.spotify.com/episode/0l9JxSClXk3WWAivm26G85](https://open.spotify.com/episode/0l9JxSClXk3WWAivm26G85)  
+   Link: <a href="https://open.spotify.com/episode/0l9JxSClXk3WWAivm26G85" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/0l9JxSClXk3WWAivm26G85</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Buff Ledge UFO Abduction20 Nov 2025 — In Episode 423 Jeff Belanger and Ray Auger explore the skies over Colchester, Vermont, searching fo...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: vermontdailychronicle.com  
    Title: the buff ledge ufo  
-   Link: [https://vermontdailychronicle.com/the-buff-ledge-ufo/](https://vermontdailychronicle.com/the-buff-ledge-ufo/)  
+   Link: <a href="https://vermontdailychronicle.com/the-buff-ledge-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://vermontdailychronicle.com/the-buff-ledge-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Jul 2025 — The case represents a particular type of UFO encounter narrative that emerged in the late 1960s and 1970s, characterized by...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: An Alien Abduction Hypnotherapist Explains Extraterrestrial Encounters  
-   Link: [https://www.youtube.com/watch?v=mPHADhObzTI](https://www.youtube.com/watch?v=mPHADhObzTI)  
+   Link: <a href="https://www.youtube.com/watch?v=mPHADhObzTI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mPHADhObzTI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I Was Put Under HYPNOSIS.. | Alien Abduction Regression...</p></details>

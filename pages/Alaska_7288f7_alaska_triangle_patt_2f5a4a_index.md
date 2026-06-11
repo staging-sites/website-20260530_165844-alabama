@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alaska-7288f7-alaska-triangle-patt/
 description: Focused pages that expand on Triangle.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Alaska_7288f7_alaska_triangle_patt_2f5a4a
-parent_title: Triangle | What Really Happened in Alaska's UFO Skies?
+parent_title: Triangle
 parent_nav_short_title: Triangle
 parent_permalink: /triangle/
 ---

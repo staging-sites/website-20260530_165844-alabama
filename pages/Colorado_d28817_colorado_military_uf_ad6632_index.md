@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /colorado-d28817-colorado-military-uf/
 description: Focused pages that expand on Military Sites.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Colorado_d28817_colorado_military_uf_ad6632
-parent_title: Military Sites | What Really Happened in Colorado's UFO...
+parent_title: Military Sites
 parent_nav_short_title: Military Sites
 parent_permalink: /military-sites/
 ---

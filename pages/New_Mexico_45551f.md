@@ -262,7 +262,7 @@ sibling_links:
   short_title: Michigan UFOs
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Alabama_d1f92d
   title: Alabama UFOs
@@ -277,9 +277,9 @@ sibling_links:
   permalink: /what-keeps-tennessees-ufo-stories-alive/
   short_title: Tennessee UFOs
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Idaho_18334c
   title: Idaho UFOs
   permalink: /what-makes-idaho-a-key-ufo-hotspot/
@@ -289,9 +289,9 @@ sibling_links:
   permalink: /what-makes-indianas-ufo-history-unique/
   short_title: Indiana UFOs
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: South_Carolina_11d001
   title: South Carolina UFOs
   permalink: /what-makes-south-carolinas-ufo-story/
@@ -481,7 +481,6 @@ image: /assets/images/New_Mexico_45551f-overview-social.jpg
 
 New Mexico’s UFO history cannot be understood apart from its military and scientific geography. During and after the Second World War, the state was tied to atomic testing, rocket ranges, balloon research, radar operations and air bases. [White Sands]({{ 'white-sands/' | relative_url }}), Alamogordo, Holloman, Kirtland, Roswell Army Air Field and Sandia created a setting in which unusual lights, debris, classified equipment and restricted explanations were not rare background details; they were part of everyday Cold War infrastructure. That does not make every sighting a secret test, but it does explain why New Mexico produced so many claims that sit between ordinary misidentification and official secrecy.
 
-
 <img src="{{ "/assets/images/New_Mexico_45551f-overview.webp" | relative_url }}" alt="Overview image for Why New Mexico Became UFO Country" loading="eager" decoding="sync" fetchpriority="high">
 This matters because UFO lore often treats secrecy itself as proof of alien origin. In New Mexico, secrecy is better understood as a complicating condition. Project Mogul, for example, really was a classified balloon programme intended to detect Soviet nuclear tests; the Air Force later connected it to the debris found near Roswell in 1947. That official explanation replaced the early “weather balloon” story, which had been misleading but not necessarily alien-related. The result is a classic New Mexico pattern: a mundane or military explanation becomes harder to accept because the first public explanation was incomplete or false. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the claims...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[GovInfo Project Blue Book]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>, the US Air Force’s long-running UFO investigation, gives the broader frame. From 1947 to 1969 it collected 12,618 reports, of which 701 remained listed as “unidentified”; the project closed after official review concluded that the reports showed no evidence of a national-security threat or extraterrestrial technology. The National Archives now holds the declassified [Blue Book]({{ 'blue-book-12faa9/' | relative_url }}) records, while also noting that Roswell itself is not documented within those Project Blue Book files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
@@ -491,12 +490,11 @@ New Mexico also mattered administratively. The Air Force Office of Special Inves
 
 Roswell is the best-known New Mexico UFO story and probably the most famous UFO case in the world. The core event is smaller than the legend. In July 1947, debris found near Roswell Army Air Field led to a brief Army announcement that a “flying disc” had been recovered. Within a day, the story was retracted and the object was described as a weather balloon. Decades later, witnesses, relatives, authors and UFO researchers recast the episode as a crashed extraterrestrial craft with recovered bodies, a claim that became central to modern UFO culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
 
-The official explanation developed in the 1990s after pressure from New Mexico congressman Steven Schiff and a General Accounting Office inquiry. The Air Force concluded that the debris was most likely from Project Mogul, a classified balloon array launched from New Mexico as part of an attempt to detect Soviet nuclear tests. A second Air Force report argued that later “alien body” stories were probably a mixture of misdated memories, anthropomorphic test dummies, crash injuries and other Air Force activities that were retrospectively folded into the Roswell story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the claims...</span></span></span> GovInfo The GAO’s 1995 records search is crucial because it both supports and complicates the official picture. It found only two 1947 records direct <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[govinfo.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GOVPUB D301 PURL gpo92195</span><span class="citation-popover-snippet">GOVPUB D301 PURL gpo92195</span></span></span> ly concerning the Roswell crash: a 509th Bomb Group/Roswell Army Air Field history that mentioned recovery of a “flying disc” later identified by military officials as a radar-tracking balloon, and an FBI teletype saying the military had reported an object resembling a high-altitude weather balloon with a radar reflector. The GAO also found that some Roswell Army Air Field records had been destroyed, and that the destruction paperwork did not identify who destroyed them, when, or under what authority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">GAOResults of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air...</span></span></span>
+The official explanation developed in the 1990s after pressure from New Mexico congressman Steven Schiff and a General Accounting Office inquiry. The Air Force concluded that the debris was most likely from Project Mogul, a classified balloon array launched from New Mexico as part of an attempt to detect Soviet nuclear tests. A second Air Force report argued that later “alien body” stories were probably a mixture of misdated memories, anthropomorphic test dummies, crash injuries and other Air Force activities that were retrospectively folded into the Roswell story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the claims...</span></span></span> GovInfo The GAO’s 1995 records search is crucial because it both supports and complicates the official picture. It found only two 1947 records direct <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[govinfo.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GOVPUB D301 PURL gpo92195</span><span class="citation-popover-snippet">GOVPUB D301 PURL gpo92195</span></span></span> ly concerning the Roswell crash: a 509th Bomb Group/Roswell Army Air Field history that mentioned recovery of a “flying disc” later identified by military officials as a radar-tracking balloon, and an FBI teletype saying the military had reported an object resembling a high-altitude weather balloon with a radar reflector. The GAO also found that some Roswell Army Air Field records had been destroyed, and that the destruction paperwork did not identify who destroyed them, when, or under what authority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air...</span></span></span>
 
 That is why Roswell remains culturally powerful even though the strongest documentary explanation is terrestrial. For sceptics, the Mogul explanation fits the period, the materials and the need for secrecy. For believers, the changing official explanations and [missing records]({{ 'missing-records-0b152e/' | relative_url }}) leave room for suspicion. A balanced reading is that Roswell is not a strong evidential case for alien recovery, but it is an exceptionally strong case study in how secrecy, record gaps, witness memory and media repetition can turn a limited incident into a national myth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the claims...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.justia.com">[justia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.justia.com</span><span class="citation-popover-title">GAO Reports NSIAD-95-187</span><span class="citation-popover-snippet">GAO Reports NSIAD-95-187</span></span></span> Roswell also changed New Mexico’s public identity. The city’s name became shorthand for hidden government knowledge, even though the alleged debris field was outside Roswell and the 1947 story was largely dormant until it was revived in the late 1970s and 1980s. Today, Roswell tourism, museums, festivals and popular media keep the case alive in a form that often blends historical fragments with entertainment. For a reader trying to judge the evidence, the key distinction is between Roswell as a documented 1947 military-debris incident and Roswell as a later cultural story about crashed aliens.
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f-Illustration-1-light.svg" | relative_url }}" alt="Why New Mexico Became UFO Country illustration 1" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Mexico_45551f-Illustration-1-dark.svg" | relative_url }}" alt="Why New Mexico Became UFO Country illustration 1" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Socorro: the strongest classic close-encounter case in the state
 
 If Roswell is New Mexico’s most famous UFO case, Socorro is its most interesting classic sighting. On 24 April 1964, Socorro police officer Lonnie Zamora reported seeing a shiny, oval-like object on the ground near an arroyo, with two small figures nearby. He then described the object lifting off with a roar and flame before flying away. Unlike Roswell, the Socorro case began as an eyewitness sighting by a named law-enforcement officer rather than a later reconstruction around debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lonnie_Zamora_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lonnie Zamora incident</span><span class="citation-popover-snippet">Lonnie Zamora incident</span></span></span>
@@ -506,7 +504,6 @@ Several features made the case unusually durable. Zamora was considered a sober 
 The case is not free from doubt. Sceptical explanations have included a misidentified test craft from the White Sands area, an experimental lunar-lander-related vehicle, or a hoax by students from the nearby New Mexico Institute of Mining and Technology. None of these explanations has achieved the same cultural certainty as the Project Mogul explanation for Roswell. The student-hoax idea has remained plausible to some sceptics because the reported site was near a technical college and because the event contained theatrical elements, but it has not produced a universally accepted documentary solution.
 
 Socorro matters because it shows a different kind of unresolved case. It is not built mainly on recovered bodies, secret hangars or decades-later claims. Its strength is the immediacy of the witness report and the seriousness with which it was investigated. Its weakness is the lack of decisive physical evidence that can be independently tested today. The fair conclusion is that Socorro is a genuinely important unresolved or disputed case within New Mexico’s UFO history, not a proven alien landing.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UESsdUGTPDY" title="The UFO Landing at Holloman Air Force Base // 3D CGI Animation Movie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UESsdUGTPDY" target="_blank" rel="noopener noreferrer">The UFO Landing at Holloman Air Force Base // 3D CGI Animation Movie</a></p><p class="youtube-embed-meta">Channel: Mac Mave Studios &middot; Views: 2.1M &middot; Uploaded: December 2023 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UESsdUGTPDY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UESsdUGTPDY">Open on YouTube</a></p></div></div></div>
 
@@ -528,8 +525,7 @@ This does not mean the area is irrelevant. Alamogordo, White Sands and Holloman 
 
 The careful reader should separate three things. First, New Mexico unquestionably hosted advanced military and scientific activity. Secondly, some witnesses and researchers have made extraordinary claims about alien contact at Holloman or nearby facilities. Thirdly, extraordinary claims require stronger evidence than is usually available in these accounts. Recent official federal reviews, including the All-domain Anomaly Resolution Office’s historical report, have not verified claims that the US government recovered extraterrestrial craft or biological material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Results: Project SAUCER did not find evidence of extraterrestrial tec...</span></span></span>. Department of War
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f-Illustration-2-light.svg" | relative_url }}" alt="Why New Mexico Became UFO Country illustration 2" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Mexico_45551f-Illustration-2-dark.svg" | relative_url }}" alt="Why New Mexico Became UFO Country illustration 2" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What official records do and do not settle
 
 Official records are essential in New Mexico UFO history, but they do not always settle the matter in the way either believers or sceptics want. They can confirm that a report was filed, that an investigation occurred, or that an official explanation was adopted. They rarely prove what every witness saw, and they cannot restore evidence that was never collected or has since been lost.
@@ -540,8 +536,7 @@ The National Archives is particularly important for readers who want to avoid re
 
 Modern UAP work has changed the language but not the evidential burden. NASA’s 2023 UAP independent study argued for more rigorous data collection, better sensors and less stigma around reporting, while not presenting evidence that UAP are extraterrestrial. AARO’s 2024 historical review likewise reported no verifiable evidence that any UAP sighting represented extraterrestrial activity or that the US government possessed alien technology. These findings do not explain every sighting, but they set a high bar for claims that New Mexico cases prove alien visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/odUSnDgU-oo" title="The Mysterious Roswell UFO Incident of 1947" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer">The Mysterious Roswell UFO Incident of 1947</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel &middot; Views: 317.2K &middot; Uploaded: January 2012 &middot; Length: 1 minute 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=odUSnDgU-oo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r1FOPCs8Kps" title="Lonnie Zamora UFO Incident (Socorro, New Mexico; Aliens?) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r1FOPCs8Kps" target="_blank" rel="noopener noreferrer">Lonnie Zamora UFO Incident (Socorro, New Mexico; Aliens?) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 65.9K &middot; Uploaded: November 2022 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r1FOPCs8Kps" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r1FOPCs8Kps">Open on YouTube</a></p></div></div></div>
 
 ## How New Mexico sightings cluster in public reporting
 
@@ -551,8 +546,7 @@ The pattern is still revealing. Reports often cluster around population centres,
 
 This is where New Mexico differs from many other states. A sighting in an ordinary place may remain local. A sighting in New Mexico is often interpreted through an existing story-world of Roswell, White Sands, Kirtland and secret technology. That does not make witnesses dishonest. It means that expectation, media framing and local identity can shape how ambiguous aerial events are noticed, described and remembered.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r1FOPCs8Kps" title="Lonnie Zamora UFO Incident (Socorro, New Mexico; Aliens?) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r1FOPCs8Kps" target="_blank" rel="noopener noreferrer">Lonnie Zamora UFO Incident (Socorro, New Mexico; Aliens?) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 65.9K &middot; Uploaded: November 2022 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r1FOPCs8Kps" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r1FOPCs8Kps">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/J5jnjR1EbMI" title="The Lonnie Zamora Incident - An Unbelievable UFO Story TILLN E75" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=J5jnjR1EbMI" target="_blank" rel="noopener noreferrer">The Lonnie Zamora Incident - An Unbelievable UFO Story TILLN E75</a></p><p class="youtube-embed-meta">Channel: Things I Learned Last Night &middot; Views: 4.9K &middot; Uploaded: June 2021 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=J5jnjR1EbMI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=J5jnjR1EbMI">Open on YouTube</a></p></div></div></div>
 
 ## The main explanations that recur in New Mexico cases
 
@@ -568,8 +562,7 @@ New Mexico UFO reports repeatedly draw on a small set of plausible explanation c
 
 **Still-unresolved cases.** Some reports remain unresolved because evidence was incomplete, not because exotic explanations have been proved. Project Blue Book’s 701 “unidentified” cases show that official investigators could fail to identify a report without endorsing an extraterrestrial answer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f-Illustration-3-light.svg" | relative_url }}" alt="Why New Mexico Became UFO Country illustration 3" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Mexico_45551f-Illustration-3-dark.svg" | relative_url }}" alt="Why New Mexico Became UFO Country illustration 3" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What a balanced reader should take from New Mexico’s UFO history
 
 New Mexico’s UFO record is best read in layers. The first layer is factual: the state hosted major Cold War military and scientific activity, and several important UFO reports and investigations are tied to that environment. The second layer is evidential: Roswell has a strong official terrestrial explanation but lingering archival controversy; Socorro remains a serious disputed sighting; Kirtland shows how radar, trained witnesses and conventional aircraft explanations can collide. The third layer is cultural: New Mexico became a symbolic home of UFO secrecy because its real history made extraordinary stories feel plausible.
@@ -664,7 +657,7 @@ The most honest conclusion is that New Mexico does not provide public proof of e
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -674,111 +667,36 @@ The most honest conclusion is that New Mexico does not provide public proof of e
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets"><img src="https://i.ebayimg.com/images/g/sWkAAeSwmOFplQNw/s-l225.jpg" alt="Listing image for UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -786,15 +704,15 @@ The most honest conclusion is that New Mexico does not provide public proof of e
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="https://i.ebayimg.com/images/g/YVIAAOSwd71n7DAx/s-l225.jpg" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -802,15 +720,15 @@ The most honest conclusion is that New Mexico does not provide public proof of e
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy"><img src="https://i.ebayimg.com/images/g/~qcAAOSwAetdLK5G/s-l225.jpg" alt="Listing image for Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -818,15 +736,15 @@ The most honest conclusion is that New Mexico does not provide public proof of e
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/6qMAAeSwlL9odlp9/s-l225.jpg" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -834,7 +752,7 @@ The most honest conclusion is that New Mexico does not provide public proof of e
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-new-mexico-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-new-mexico-became-ufo-country-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -911,17 +829,31 @@ The most honest conclusion is that New Mexico does not provide public proof of e
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -934,42 +866,73 @@ The most honest conclusion is that New Mexico does not provide public proof of e
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -984,12 +947,17 @@ The most honest conclusion is that New Mexico does not provide public proof of e
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -1000,230 +968,230 @@ The most honest conclusion is that New Mexico does not provide public proof of e
 1. <a id="endnote-1"></a>
    Source: gao.gov  
    Title: nsiad 95 187  
-   Link: [https://www.gao.gov/products/nsiad-95-187](https://www.gao.gov/products/nsiad-95-187)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GAOResults of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air...</p></details>
+   Link: <a href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad-95-187</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/The-Roswell-Report/](https://www.af.mil/The-Roswell-Report/)  
+   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the claims...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — Results: Project SAUCER did not find evidence of extraterrestrial tec...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 5. <a id="endnote-5"></a>
    Source: govinfo.gov  
    Title: GOVPUB D301 PURL gpo92195  
-   Link: [https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf](https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: osi.af.mil  
    Title: Project Blue Book Part 1 (UFO Reports)  
-   Link: [https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/](https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/)  
+   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: [https://en.wikipedia.org/wiki/Roswell_incident](https://en.wikipedia.org/wiki/Roswell_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
 8. <a id="endnote-8"></a>
    Source: gao.justia.com  
    Title: GAO Reports NSIAD-95-187  
-   Link: [https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/](https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/)  
+   Link: <a href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow">https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Lonnie Zamora incident  
-   Link: [https://en.wikipedia.org/wiki/Lonnie_Zamora_incident](https://en.wikipedia.org/wiki/Lonnie_Zamora_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lonnie_Zamora_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lonnie_Zamora_incident</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Kirtland AFB UFO sighting  
-   Link: [https://en.wikipedia.org/wiki/Kirtland_AFB_UFO_sighting](https://en.wikipedia.org/wiki/Kirtland_AFB_UFO_sighting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kirtland_AFB_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kirtland_AFB_UFO_sighting</a>  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 12. <a id="endnote-12"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
 13. <a id="endnote-13"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lNM](https://nuforc.org/subndx/?id=lNM)  
+   Link: <a href="https://nuforc.org/subndx/?id=lNM" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNM</a>  
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 17. <a id="endnote-17"></a>
    Source: archives.gov  
    Title: Federal Records Guide: Alphabetical Index  
-   Link: [https://www.archives.gov/research/guide-fed-records/index-alpha/s.html](https://www.archives.gov/research/guide-fed-records/index-alpha/s.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/index-alpha/s.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/s.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: archives.gov  
    Title: moving images and sound  
-   Link: [https://www.archives.gov/research/topics/uaps/moving-images-and-sound](https://www.archives.gov/research/topics/uaps/moving-images-and-sound)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: [https://en.wikipedia.org/wiki/Project_Mogul](https://en.wikipedia.org/wiki/Project_Mogul)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: UFOs: Past, Present, and Future  
-   Link: [https://en.wikipedia.org/wiki/UFOs%3A_Past%2C_Present%2C_and_Future](https://en.wikipedia.org/wiki/UFOs%3A_Past%2C_Present%2C_and_Future)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFOs%3A_Past%2C_Present%2C_and_Future" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFOs%3A_Past%2C_Present%2C_and_Future</a>  
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: [https://en.wikipedia.org/wiki/UFO_reports_and_disinformation](https://en.wikipedia.org/wiki/UFO_reports_and_disinformation)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 24. <a id="endnote-24"></a>
    Source: vault.fbi.gov  
    Title: Roswell UFO  
-   Link: [https://vault.fbi.gov/Roswell%20UFO](https://vault.fbi.gov/Roswell%20UFO)  
+   Link: <a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
 
 25. <a id="endnote-25"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 26. <a id="endnote-26"></a>
    Source: vault.fbi.gov  
    Title: Project Blue Book (UFO)  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
 
 27. <a id="endnote-27"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
 28. <a id="endnote-28"></a>
    Source: archive.org  
    Title: 1964 04 8694587 Socorro NewMexico djvu.txt  
-   Link: [https://archive.org/stream/1964-04-8694587-Socorro-NewMexico/1964-04-8694587-Socorro-NewMexico_djvu.txt](https://archive.org/stream/1964-04-8694587-Socorro-NewMexico/1964-04-8694587-Socorro-NewMexico_djvu.txt)  
+   Link: <a href="https://archive.org/stream/1964-04-8694587-Socorro-NewMexico/1964-04-8694587-Socorro-NewMexico_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1964-04-8694587-Socorro-NewMexico/1964-04-8694587-Socorro-NewMexico_djvu.txt</a>  
 
 29. <a id="endnote-29"></a>
    Source: ia601607.us.archive.org  
    Title: DTIC ADA326148  
-   Link: [https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf](https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf)  
+   Link: <a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 9  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_9.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_9.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_9.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: documents2.theblackvault.com  
    Title: The Black Vault SOCORRO NM  
-   Link: [https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-Socorro-NewMexico-04-24-1964.pdf](https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-Socorro-NewMexico-04-24-1964.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-Socorro-NewMexico-04-24-1964.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-Socorro-NewMexico-04-24-1964.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/oasd.pdf](https://documents.theblackvault.com/documents/ufos/oasd.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/oasd.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/oasd.pdf</a>  
 
 33. <a id="endnote-33"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: [https://www.britannica.com/event/Roswell-incident](https://www.britannica.com/event/Roswell-incident)  
+   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
 
 34. <a id="endnote-34"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 35. <a id="endnote-35"></a>
    Source: medium.com  
    Title: NUFOR C Geographic Data  
-   Link: [https://medium.com/%40noahhradek/nuforc-geographic-data-15b47158bc42](https://medium.com/%40noahhradek/nuforc-geographic-data-15b47158bc42)  
+   Link: <a href="https://medium.com/%40noahhradek/nuforc-geographic-data-15b47158bc42" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40noahhradek/nuforc-geographic-data-15b47158bc42</a>  
 
 36. <a id="endnote-36"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: [https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html](https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html)  
+   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
 
 37. <a id="endnote-37"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: [https://origins.osu.edu/read/air-force-investigation-ufos](https://origins.osu.edu/read/air-force-investigation-ufos)  
+   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
 
 38. <a id="endnote-38"></a>
    Source: sgp.fas.org  
-   Link: [https://sgp.fas.org/othergov/roswell.html](https://sgp.fas.org/othergov/roswell.html)  
+   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
 
 ### Additional References
 
 39. <a id="endnote-39"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
    Title: The Lonnie Zamora Incident  
-   Link: [https://www.youtube.com/watch?v=J5jnjR1EbMI](https://www.youtube.com/watch?v=J5jnjR1EbMI)  
+   Link: <a href="https://www.youtube.com/watch?v=J5jnjR1EbMI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J5jnjR1EbMI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Incident Mystery Finally Solved...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=odUSnDgU-oo](https://www.youtube.com/watch?v=odUSnDgU-oo)  
+   Link: <a href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=odUSnDgU-oo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lonnie Zamora Incident - An Unbelievable UFO Story TILLN E75...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: youtube.com  
    Title: The Roswell Incident Mystery Finally Solved  
-   Link: [https://www.youtube.com/watch?v=Pz0vYcc4KiI](https://www.youtube.com/watch?v=Pz0vYcc4KiI)  
+   Link: <a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell UFO Crash (Overview) - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: rpubs.com  
-   Link: [https://rpubs.com/jeffery_rodriguez/1430205](https://rpubs.com/jeffery_rodriguez/1430205)  
+   Link: <a href="https://rpubs.com/jeffery_rodriguez/1430205" target="_blank" rel="noopener noreferrer nofollow">https://rpubs.com/jeffery_rodriguez/1430205</a>  
 
 44. <a id="endnote-44"></a>
    Source: cryptonews.net  
-   Link: [https://cryptonews.net/news/finance/32923071/](https://cryptonews.net/news/finance/32923071/)  
+   Link: <a href="https://cryptonews.net/news/finance/32923071/" target="_blank" rel="noopener noreferrer nofollow">https://cryptonews.net/news/finance/32923071/</a>  
 
 45. <a id="endnote-45"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/13bn1x2/important_this_might_explain_the_writing_on_the/](https://www.reddit.com/r/aliens/comments/13bn1x2/important_this_might_explain_the_writing_on_the/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/13bn1x2/important_this_might_explain_the_writing_on_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/13bn1x2/important_this_might_explain_the_writing_on_the/</a>  
 
 46. <a id="endnote-46"></a>
    Source: abqlibrary.org  
-   Link: [https://abqlibrary.org/nmauthors/new-mexico-authors-T](https://abqlibrary.org/nmauthors/new-mexico-authors-T)  
+   Link: <a href="https://abqlibrary.org/nmauthors/new-mexico-authors-T" target="_blank" rel="noopener noreferrer nofollow">https://abqlibrary.org/nmauthors/new-mexico-authors-T</a>  
 
 47. <a id="endnote-47"></a>
    Source: ufofiles.app  
-   Link: [https://ufofiles.app/case-files/lonnie-zamora-socorro-incident/](https://ufofiles.app/case-files/lonnie-zamora-socorro-incident/)  
+   Link: <a href="https://ufofiles.app/case-files/lonnie-zamora-socorro-incident/" target="_blank" rel="noopener noreferrer nofollow">https://ufofiles.app/case-files/lonnie-zamora-socorro-incident/</a>  
 
 48. <a id="endnote-48"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/uridce/lonnie_zamora_incident/](https://www.reddit.com/r/UFOs/comments/uridce/lonnie_zamora_incident/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/uridce/lonnie_zamora_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/uridce/lonnie_zamora_incident/</a>

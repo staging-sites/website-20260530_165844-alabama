@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /michigans-most-notable-ufo-sightings-and/
 nav_short_title: 1966 Swamp Gas
 title: What Really Happened During Michigan’s 1966 UFO Flap?
-title_full: What Really Happened During Michigan’s 1966 UFO Flap? | Michigan UFOs
+title_full: What Really Happened During Michigan’s 1966 UFO Flap?
 display_title_short: 1966 Swamp Gas
 display_title: 1966 Swamp Gas
 heading_title: What Really Happened During Michigan’s 1966 UFO Flap?
@@ -262,14 +262,12 @@ image: /assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee-overview-socia
 
 ## Introduction
 
-In **March 1966**, southeastern [Michigan]({{ 'michigans-most-notable-ufo-sightings-and/' | relative_url }}) became the focal point of one of the most controversial and widely reported waves of unidentified flying object reports in the state’s history. Multiple witnesses — including local residents, sheriff’s deputies, and police officers — described unusual lights and aerial phenomena over **Washtenaw County and beyond**, drawing **national media attention** and prompting an official investigation. The episode became synonymous with the so‑called **“[swamp gas]({{ 'swamp-gas/' | relative_url }})” explanation**, a term coined by the United States Air Force’s civilian consultant **Dr J Allen Hynek** that would stir public debate about how UFO reports are assessed and explained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
-
+In **March 1966**, southeastern Michigan became the focal point of one of the most controversial and widely reported waves of unidentified flying object reports in the state’s history. Multiple witnesses — including local residents, sheriff’s deputies, and police officers — described unusual lights and aerial phenomena over **Washtenaw County and beyond**, drawing **national media attention** and prompting an official investigation. The episode became synonymous with the so‑called **“[swamp gas]({{ 'swamp-gas/' | relative_url }})” explanation**, a term coined by the United States Air Force’s civilian consultant **Dr J Allen Hynek** that would stir public debate about how UFO reports are assessed and explained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
 
 <img src="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee-overview.webp" | relative_url }}" alt="Overview image for 1966 Swamp Gas" loading="eager" decoding="sync" fetchpriority="high">
 This report examines what was reported, how authorities responded, the roots of the **swamp gas** explanation, and why the incident remains a contentious part of Michigan’s UFO history rather than a closed case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
 
-
-<img src="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee-Illustration-3-light.svg" | relative_url }}" alt="1966 Swamp Gas illustration 3" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee-Illustration-3-dark.svg" | relative_url }}" alt="1966 Swamp Gas illustration 3" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Eyewitness Accounts: Lights, Objects and Mass Reports
 
 The wave of sightings began in earnest in mid‑March 1966, with multiple law enforcement personnel and ordinary citizens witnessing **lights and objects in the night sky**. On **14 March 1966**, two Washtenaw County sheriff’s deputies reported several disc‑like lights moving rapidly with sharp manoeuvres across the early‑morning sky. Additional reports came from neighbouring police departments and county sheriff’s offices, and alarms were raised with **Selfridge Air Force Base**, which acknowledged uncorrelated radar returns over Lake Erie during the same period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
@@ -278,8 +276,7 @@ The most detailed eyewitness narrative emerged on **20 March** near **Dexter, 
 
 On the **following night**, similar reports came from **Hillsdale College**, where students and county officials observed unusual lights near campus that appeared to descend close to the ground before disappearing. Together, these clustered accounts suggested a **multi‑night, multi‑site event** involving a variety of credible observers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
 
-
-<img src="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee-Illustration-1-light.svg" | relative_url }}" alt="1966 Swamp Gas illustration 1" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee-Illustration-1-dark.svg" | relative_url }}" alt="1966 Swamp Gas illustration 1" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Air Force Investigation and the “Swamp Gas” Explanation
 
 Amid this intense public interest, the **United States Air Force** dispatched **Dr J Allen Hynek**, an astronomer and consultant on UFO reports under **Project Blue Book**, to investigate the Michigan sightings. After onsite assessment and a **press conference in Detroit on 25 March**, Hynek attributed the lights observed near Dexter and Hillsdale to **marsh gas** — methane and other gases naturally released from swampy areas that, under certain atmospheric conditions, can combust or appear luminous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
@@ -290,7 +287,6 @@ The Reaction of Political Leaders
 
 The response to Hynek’s explanation extended beyond local disbelief. Then‑Michigan Congressman **Gerald R. Ford** publicly criticised what he viewed as an inadequate and dismissive handling of the matter. Ford urged **a formal Congressional investigation** into the sightings, calling attention to the volume and credibility of reports made by citizens and officials alike. Despite his efforts, such a formal federal inquiry specific to the Michigan flap did not materialise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hhJb_vlmnaM" title="The 1960s Conspiracy That Inspired Spielberg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hhJb_vlmnaM" target="_blank" rel="noopener noreferrer">The 1960s Conspiracy That Inspired Spielberg</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel &middot; Views: 289.8K &middot; Uploaded: August 2012 &middot; Length: 4 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hhJb_vlmnaM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hhJb_vlmnaM">Open on YouTube</a></p></div></div></div>
 
 ## Sceptical Re‑Evaluation and Legacy
@@ -299,15 +295,12 @@ In the decades since 1966, the “swamp gas” label has come to symbolise publi
 
 Hynek himself later reflected on the Michigan episode with some regret, acknowledging that while marsh gas might explain some optical effects, it did not fully account for the eyewitness testimonies he encountered. The case has remained a touchstone in discussions about how investigative authorities engage with mass sightings and how scientific and defence establishments communicate explanations to the public.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-snippet">Allen Hynek from a government consultant and UFO skeptic into the foremost advocate for serious scientific study of unidentified flying o...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0I47_FAUhGE" title="Mar. 25, 1966 | Dr. J. Allen Hynek Addresses Michigan UFO Sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0I47_FAUhGE" target="_blank" rel="noopener noreferrer">Mar. 25, 1966 | Dr. J. Allen Hynek Addresses Michigan UFO Sightings</a></p><p class="youtube-embed-meta">Channel: Real Time 1960s &middot; Views: 374 &middot; Uploaded: February 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0I47_FAUhGE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0I47_FAUhGE">Open on YouTube</a></p></div></div></div>
 
-
-<img src="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee-Illustration-2-light.svg" | relative_url }}" alt="1966 Swamp Gas illustration 2" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee-Illustration-2-dark.svg" | relative_url }}" alt="1966 Swamp Gas illustration 2" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_1966_swamp_gas_sight_5d94ee-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Michigan Case Matters
 
 The 1966 Michigan sightings matter in the state’s UFO history for several reasons:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -320,9 +313,7 @@ The 1966 Michigan sightings matter in the state’s UFO history for several reas
 
 While no definitive explanation has emerged that satisfies all eyewitness accounts and sceptics alike, the 1966 Michigan swamp gas sightings remain a **key historical episode** demonstrating the challenges of interpreting and communicating about unidentified aerial phenomena in a way that balances scientific rigour and public credibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Michigan &quot;swamp gas&quot; UFO reports</span><span class="citation-popover-snippet">Michigan &quot;swamp gas&quot; UFO reports</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nOLGWaGQl9M" title="Lights in the sky: A UFO sighting in Michigan nearly 30 years old brought to light on Netflix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nOLGWaGQl9M" target="_blank" rel="noopener noreferrer">Lights in the sky: A UFO sighting in Michigan nearly 30 years old brought to light on Netflix</a></p><p class="youtube-embed-meta">Channel: 13 ON YOUR SIDE &middot; Views: 4.7K &middot; Uploaded: July 2023 &middot; Length: 3 minutes 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nOLGWaGQl9M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nOLGWaGQl9M">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -410,7 +401,7 @@ While no definitive explanation has emerged that satisfies all eyewitness accoun
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -420,111 +411,36 @@ While no definitive explanation has emerged that satisfies all eyewitness accoun
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display"><img src="{{ '/assets/images/marketplace-covers/27c78e3de724e607809d.jpg' | relative_url }}" alt="Listing image for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens UFO Patch Iron On Patch Applique Not From This World NASA"><img src="https://i.ebayimg.com/images/g/dXAAAeSwKiRoldEg/s-l225.jpg" alt="Listing image for Aliens UFO Patch Iron On Patch Applique Not From This World NASA" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer">Aliens UFO Patch Iron On Patch Applique Not From This World NASA</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT"><img src="{{ '/assets/images/marketplace-covers/c4fa2fd111d52b7bddcf.jpg' | relative_url }}" alt="Listing image for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,15 +448,15 @@ While no definitive explanation has emerged that satisfies all eyewitness accoun
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="https://i.ebayimg.com/images/g/i9IAAOSwYHFfoEmJ/s-l225.jpg" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -548,15 +464,15 @@ While no definitive explanation has emerged that satisfies all eyewitness accoun
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/bcYAAeSwvxlpSWMo/s-l225.jpg" alt="Listing image for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer">Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -564,15 +480,15 @@ While no definitive explanation has emerged that satisfies all eyewitness accoun
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Embroidered Spiritual Eye UFO Sew or Iron on Patch Biker Patch"><img src="https://i.ebayimg.com/images/g/KocAAOSw6cZk~3Sq/s-l225.jpg" alt="Listing image for Embroidered Spiritual Eye UFO Sew or Iron on Patch Biker Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer">Embroidered Spiritual Eye UFO Sew or Iron on Patch Biker Patch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -580,7 +496,7 @@ While no definitive explanation has emerged that satisfies all eyewitness accoun
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1966-swamp-gas-what-really-happened-during-michigan-s-1966-ufo-flap-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="what-really-happened-during-michigan-s-1966-ufo-flap-ufo-patch-book-books-gerry-anderson-band-concert-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -657,17 +573,31 @@ While no definitive explanation has emerged that satisfies all eyewitness accoun
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -680,42 +610,73 @@ While no definitive explanation has emerged that satisfies all eyewitness accoun
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -730,12 +691,17 @@ While no definitive explanation has emerged that satisfies all eyewitness accoun
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -746,101 +712,101 @@ While no definitive explanation has emerged that satisfies all eyewitness accoun
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Michigan "swamp gas" UFO reports  
-   Link: [https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports](https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports)  
+   Link: <a href="https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Michigan_%22swamp_gas%22_UFO_reports</a>  
 
 2. <a id="endnote-2"></a>
    Source: ufology.patrickgross.org  
-   Link: [https://www.ufology.patrickgross.org/press/nyt26mar1966.htm](https://www.ufology.patrickgross.org/press/nyt26mar1966.htm)  
+   Link: <a href="https://www.ufology.patrickgross.org/press/nyt26mar1966.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufology.patrickgross.org/press/nyt26mar1966.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo - UFOS at close sight: the newspapers, marsh gas in the daily press, Michigan 1966...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ufoinsight.com  
    Title: michigan 1966 swamp gas incidents  
-   Link: [https://www.ufoinsight.com/ufos/close-encounters/michigan-1966-swamp-gas-incidents](https://www.ufoinsight.com/ufos/close-encounters/michigan-1966-swamp-gas-incidents)  
+   Link: <a href="https://www.ufoinsight.com/ufos/close-encounters/michigan-1966-swamp-gas-incidents" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/michigan-1966-swamp-gas-incidents</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightMichigan, 1966 – The “Swamp Gas” Incidents - UFO InsightSeptember 8, 2018...</p></details>
    Published: September 8, 2018  
 
 4. <a id="endnote-4"></a>
    Source: popularmechanics.com  
-   Link: [https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/](https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/)  
+   Link: <a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek from a government consultant and UFO skeptic into the foremost advocate for serious scientific study of unidentified flying o...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ufoinsight.com  
    Title: michigan 1966 the swamp gas incidents  
-   Link: [https://www.ufoinsight.com/michigan-1966-the-swamp-gas-incidents/](https://www.ufoinsight.com/michigan-1966-the-swamp-gas-incidents/)  
+   Link: <a href="https://www.ufoinsight.com/michigan-1966-the-swamp-gas-incidents/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/michigan-1966-the-swamp-gas-incidents/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Michigan, 1966 – The “Swamp Gas” Incidents - UFO InsightSeptember 8, 2018 — MICHIGAN, 1966 – THE “SWAMP GAS” INCIDENTS By Marcus Lowth Im...</p></details>
    Published: September 8, 2018  
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=0I47_FAUhGE](https://www.youtube.com/watch?v=0I47_FAUhGE)  
+   Link: <a href="https://www.youtube.com/watch?v=0I47_FAUhGE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0I47_FAUhGE</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: michiganpublic.org  
-   Link: [https://www.michiganpublic.org/environment-science/2017-03-28/aliens-or-swamp-gas-the-mystery-of-michigans-most-famous-ufo-sighting-lives-on](https://www.michiganpublic.org/environment-science/2017-03-28/aliens-or-swamp-gas-the-mystery-of-michigans-most-famous-ufo-sighting-lives-on)  
+   Link: <a href="https://www.michiganpublic.org/environment-science/2017-03-28/aliens-or-swamp-gas-the-mystery-of-michigans-most-famous-ufo-sighting-lives-on" target="_blank" rel="noopener noreferrer nofollow">https://www.michiganpublic.org/environment-science/2017-03-28/aliens-or-swamp-gas-the-mystery-of-michigans-most-famous-ufo-sighting-lives-on</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The mystery of Michigan’s most famous UFO sighting lives onMarch 28, 2017 — * * * # Aliens or swamp gas? The mystery of Michigan’s most f...</p></details>
    Published: March 28, 2017  
 
 8. <a id="endnote-8"></a>
    Source: bentley.umich.edu  
    Title: Flying Saucers and Swamp Gas | Bentley Historical Library  
-   Link: [https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/](https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/)  
+   Link: <a href="https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/" target="_blank" rel="noopener noreferrer nofollow">https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saucers and Swamp Gas | Bentley Historical LibraryMAGAZINE Image: Drawing of a UFO by Washtenaw County law enforcement in 1966 FLYING SAU...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: A UFO sighting in Michigan nearly 30 years old brought to light on Netflix  
-   Link: [https://www.youtube.com/watch?v=nOLGWaGQl9M](https://www.youtube.com/watch?v=nOLGWaGQl9M)  
+   Link: <a href="https://www.youtube.com/watch?v=nOLGWaGQl9M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nOLGWaGQl9M</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This video provides an excellent deep dive into the historical analysis of the 1966 events, featuring direct footage of Dr. J. Allen Hyne...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: clickondetroit.com  
    Title: ill believe this to the day i die the michigan ufo craze of 1966  
-   Link: [https://www.clickondetroit.com/features/2024/03/13/ill-believe-this-to-the-day-i-die-the-michigan-ufo-craze-of-1966/](https://www.clickondetroit.com/features/2024/03/13/ill-believe-this-to-the-day-i-die-the-michigan-ufo-craze-of-1966/)  
+   Link: <a href="https://www.clickondetroit.com/features/2024/03/13/ill-believe-this-to-the-day-i-die-the-michigan-ufo-craze-of-1966/" target="_blank" rel="noopener noreferrer nofollow">https://www.clickondetroit.com/features/2024/03/13/ill-believe-this-to-the-day-i-die-the-michigan-ufo-craze-of-1966/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>‘I’ll believe this to the day I die’: The Michigan UFO craze of 1966March 14, 2024 — Ken Haddad, Manager, Coverage and Content...</p></details>
    Published: March 14, 2024  
 
 11. <a id="endnote-11"></a>
    Source: ufodigest.com  
    Title: the 1966 ann arbor swamp gas fiasco and ufo abductions  
-   Link: [https://www.ufodigest.com/article/the-1966-ann-arbor-swamp-gas-fiasco-and-ufo-abductions/](https://www.ufodigest.com/article/the-1966-ann-arbor-swamp-gas-fiasco-and-ufo-abductions/)  
+   Link: <a href="https://www.ufodigest.com/article/the-1966-ann-arbor-swamp-gas-fiasco-and-ufo-abductions/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodigest.com/article/the-1966-ann-arbor-swamp-gas-fiasco-and-ufo-abductions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1966 Ann Arbor &quot;Swamp Gas&quot; fiasco and UFO abductions - UFO DigestSeptember 19, 2010 — THE 1966 ANN ARBOR “SWAMP GAS” FIASCO AND UFO A...</p></details>
    Published: September 19, 2010  
 
 12. <a id="endnote-12"></a>
    Source: thehistoryreader.com  
    Title: Swamp Gas: UFOs and the Ford Administration  
-   Link: [https://www.thehistoryreader.com/military-history/swamp-gas/](https://www.thehistoryreader.com/military-history/swamp-gas/)  
+   Link: <a href="https://www.thehistoryreader.com/military-history/swamp-gas/" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoryreader.com/military-history/swamp-gas/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The History Reader: The History ReaderJuly 12, 2016 — SWAMP GAS: UFOS AND THE FORD ADMINISTRATION BY LARRY HOLCOMBE SWAMP GAS Over a per...</p></details>
    Published: July 12, 2016  
 
 13. <a id="endnote-13"></a>
    Source: articles.ufo-track.com  
    Title: Does This Look Like Swamp Gas to You?  
-   Link: [https://articles.ufo-track.com/swamp-gas-revisited/](https://articles.ufo-track.com/swamp-gas-revisited/)  
+   Link: <a href="https://articles.ufo-track.com/swamp-gas-revisited/" target="_blank" rel="noopener noreferrer nofollow">https://articles.ufo-track.com/swamp-gas-revisited/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LET&#x27;S REVISIT THIS CASE! The full story makes this explanation even more bizarre and unbelievable! Image On the nights of March 20 and 21...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theufodatabase.com  
    Title: dexter michigan ufo march 20 1966  
-   Link: [https://theufodatabase.com/ufos/dexter-michigan-ufo-march-20-1966](https://theufodatabase.com/ufos/dexter-michigan-ufo-march-20-1966)  
+   Link: <a href="https://theufodatabase.com/ufos/dexter-michigan-ufo-march-20-1966" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/ufos/dexter-michigan-ufo-march-20-1966</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dexter, Michigan UFO | The UFO DatabaseDEXTER, MICHIGAN UFO IMAGE: SHARE Image: Dexter, Michigan UFO In March 1966, mysterious phenomena...</p></details>
    Published: March 1966  
 
 15. <a id="endnote-15"></a>
    Source: mysteriousmichigan.com  
    Title: 1966 michigan ufo swamp gas case  
-   Link: [https://mysteriousmichigan.com/1966-michigan-ufo-swamp-gas-case](https://mysteriousmichigan.com/1966-michigan-ufo-swamp-gas-case)  
+   Link: <a href="https://mysteriousmichigan.com/1966-michigan-ufo-swamp-gas-case" target="_blank" rel="noopener noreferrer nofollow">https://mysteriousmichigan.com/1966-michigan-ufo-swamp-gas-case</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Famous 1966 Michigan UFO Swamp Gas Case - Mysterious MichiganFebruary 17, 2016 — THE FAMOUS 1966 MICHIGAN UFO SWAMP GAS CASE Feb 17...</p></details>
    Published: February 17, 2016  
 
 16. <a id="endnote-16"></a>
    Source: wkar.org  
    Title: UF O or swamp gas?  
-   Link: [https://www.wkar.org/radio-made-in-michigan/2016-03-21/ufo-or-swamp-gas-mis-close-encounter-50-years-later](https://www.wkar.org/radio-made-in-michigan/2016-03-21/ufo-or-swamp-gas-mis-close-encounter-50-years-later)  
+   Link: <a href="https://www.wkar.org/radio-made-in-michigan/2016-03-21/ufo-or-swamp-gas-mis-close-encounter-50-years-later" target="_blank" rel="noopener noreferrer nofollow">https://www.wkar.org/radio-made-in-michigan/2016-03-21/ufo-or-swamp-gas-mis-close-encounter-50-years-later</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MI’s “close encounter” 50 years later | WKAR Public MediaMarch 21, 2016 — UFO OR SWAMP GAS? MI’S “CLOSE ENCOUNTER” 50 YEARS LATER WKAR Pu...</p></details>
-   Published: March 21, 2016  
+   Published: March 21, 2016

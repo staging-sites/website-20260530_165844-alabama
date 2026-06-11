@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /blue-book-a06dab/
 nav_short_title: Hangar 18
 title: Did Wright Patterson Really Hide UFO Evidence?
-title_full: Did Wright Patterson Really Hide UFO Evidence? | Blue Book
+title_full: Did Wright Patterson Really Hide UFO Evidence?
 display_title_short: Hangar 18
 display_title: Hangar 18
 heading_title: Did Wright Patterson Really Hide UFO Evidence?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:01:06'
-parent_title: What Did Blue Book Really Prove? | Ohio UFOs
+parent_title: What Did Blue Book Really Prove?
 parent_permalink: /blue-book-a06dab/
 parent_nav_short_title: Blue Book
 parent_heading_title: What Did Blue Book Really Prove?
@@ -252,8 +252,7 @@ image: /assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_hangar_18_wright_p
 
 Wright-Patterson Air Force Base near Dayton sits at the centre of one of the most persistent stories in American UFO culture: the claim that the US military secretly stored crashed flying saucers and alien bodies in a place known as “Hangar 18”. The story became so famous that it inspired books, documentaries, television programmes and a 1980 feature film. Yet the documented historical record connected to Wright-Patterson is much narrower. The base genuinely housed Project [Blue Book]({{ 'blue-book-a06dab/' | relative_url }}), the Air Force’s official UFO investigation programme, and it genuinely accumulated thousands of reports, photographs and case files. What has never emerged is verifiable evidence that alien craft or extraterrestrial remains were stored there. The tension between those two facts helps explain why Ohio became both a real centre of UFO administration and a focal point for enduring conspiracy theories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[2U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
 
-
-<img src="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_hangar_18_wright_pat_dd587f-Illustration-1-light.svg" | relative_url }}" alt="Hangar 18 illustration 1" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_hangar_18_wright_pat_dd587f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_hangar_18_wright_pat_dd587f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_hangar_18_wright_pat_dd587f-Illustration-1-dark.svg" | relative_url }}" alt="Hangar 18 illustration 1" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_hangar_18_wright_pat_dd587f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_hangar_18_wright_pat_dd587f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How the Hangar 18 story developed
 
 The Hangar 18 legend did not begin with a leaked document or a confirmed military disclosure. Instead, it grew gradually from rumours that attached themselves to Wright-Patterson's real role in Air Force UFO investigations.
@@ -266,8 +265,7 @@ The legend gained additional momentum because it overlapped with older rumours s
 
 Popular entertainment reinforced the idea. The film *Hangar 18* portrayed a government cover-up involving recovered alien technology, helping transform a niche UFO claim into a widely recognised cultural reference. By the 1980s and 1990s, Hangar 18 had become one of the standard elements of American UFO mythology, often mentioned alongside Roswell and later alongside Area 51. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Roswell incidentDespite this and a general lack of evidence, many UFO proponents claim that the Roswell debris was in fact derived fro...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YvpN6Imoj44" title="Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer">Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 140.8K &middot; Uploaded: March 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YvpN6Imoj44">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rSlLUvhM-HQ" title="Exploring Ohio&#x27;s Weird Folklore (Volume 2): Myths and Legends of the United States" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rSlLUvhM-HQ" target="_blank" rel="noopener noreferrer">Exploring Ohio&#x27;s Weird Folklore (Volume 2): Myths and Legends of the United States</a></p><p class="youtube-embed-meta">Channel: T’s Storytime &middot; Views: 85.8K &middot; Uploaded: January 2025 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rSlLUvhM-HQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rSlLUvhM-HQ">Open on YouTube</a></p></div></div></div>
 
 ## What Blue Book records actually show
 
@@ -281,8 +279,7 @@ This distinction matters because the existence of unexplained reports is sometim
 
 The National Archives holdings further undercut the idea of a hidden official record. Tens of thousands of pages of Blue Book material have been publicly accessible for decades. Researchers continue to debate particular sightings, but no archival release has produced the kind of documentary proof that the Hangar 18 story would require. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">do records show proof of ufos</span><span class="citation-popover-snippet">National ArchivesDo Records Show Proof of UFOs?Feb 9, 2018 — All of Project Blue Book documentation is available on 94 rolls of microfilm...</span></span></span>
 
-
-<img src="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_hangar_18_wright_pat_dd587f-Illustration-2-light.svg" | relative_url }}" alt="Hangar 18 illustration 2" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_hangar_18_wright_pat_dd587f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_hangar_18_wright_pat_dd587f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_hangar_18_wright_pat_dd587f-Illustration-2-dark.svg" | relative_url }}" alt="Hangar 18 illustration 2" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_hangar_18_wright_pat_dd587f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_hangar_18_wright_pat_dd587f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The recurring problem of second-hand testimony
 
 Most Hangar 18 claims rely on chains of testimony rather than physical evidence.
@@ -290,7 +287,6 @@ Most Hangar 18 claims rely on chains of testimony rather than physical evidence.
 Writers such as Leonard Stringfield collected stories from people who claimed knowledge of recovered UFO materials, secret transport operations or unusual storage facilities. These accounts became influential within UFO research circles because they appeared to come from military or aerospace sources. Yet many were anonymous, second-hand or impossible to verify independently. Even sympathetic investigators often acknowledged the difficulty of separating genuine insider recollections from rumour, misunderstanding or embellishment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 This does not automatically make every witness unreliable. It does, however, create a major historical problem. The documented Blue Book archive can be checked against surviving records. Most Hangar 18 stories cannot.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4yEkCSyTTxg" title="Mystery in Cisco Grove: Don Shrum’s Encounter with UFOs, Aliens and Robots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4yEkCSyTTxg" target="_blank" rel="noopener noreferrer">Mystery in Cisco Grove: Don Shrum’s Encounter with UFOs, Aliens and Robots</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 3.2M &middot; Uploaded: December 2023 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4yEkCSyTTxg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4yEkCSyTTxg">Open on YouTube</a></p></div></div></div>
 
@@ -300,14 +296,13 @@ The end of Project Blue Book did not end public suspicion. In some ways it stren
 
 One reason was the programme's ambiguous legacy. Blue Book officially concluded that it had found no evidence of extraterrestrial vehicles, but hundreds of cases remained unresolved. For sceptics, that reflected the limits of evidence. For believers, it suggested that important questions had been left unanswered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span>
 
-Another factor was secrecy surrounding unrelated military activities. Wright-Patterson handled classified aerospace and defence work throughout the Cold War. When people encountered restricted facilities, missing information or inaccessible records, some interpreted those gaps through the lens of UFO rumours. The existence of genuine military secrecy made extraordinary claims harder to disprove conclusively in the public imagination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/hangar-18-ufos-aliens-wright-patterson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Sarah Pruitt.Read more</span><span class="citation-popover-snippet">HistoryDoes Hangar 18, Legendary Alien Warehouse, Exist?Jan 17, 2020 — Crashed UFOs, alien autopsies and government cover-ups—untangling...</span></span></span>
+Another factor was secrecy surrounding unrelated military activities. Wright-Patterson handled classified aerospace and defence work throughout the Cold War. When people encountered restricted facilities, missing information or inaccessible records, some interpreted those gaps through the lens of UFO rumours. The existence of genuine military secrecy made extraordinary claims harder to disprove conclusively in the public imagination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/hangar-18-ufos-aliens-wright-patterson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Sarah Pruitt.Read more</span><span class="citation-popover-snippet">Does Hangar 18, Legendary Alien Warehouse, Exist?Jan 17, 2020 — Crashed UFOs, alien autopsies and government cover-ups—untangling...</span></span></span>
 
 The Roswell controversy also kept feeding the Ohio story. When the Air Force released reports in the 1990s attributing Roswell debris to Project Mogul and later explaining many "alien body" stories through misremembered military activities and anthropomorphic test dummies, supporters of the cover-up theory generally rejected those explanations. As a result, the alleged destination of recovered Roswell materials remained a subject of speculation, with Wright-Patterson continuing to occupy a central place in the narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">do records show proof of ufos</span><span class="citation-popover-snippet">National ArchivesDo Records Show Proof of UFOs?Feb 9, 2018 — All of Project Blue Book documentation is available on 94 rolls of microfilm...</span></span></span>
 
-Popular culture amplified the cycle. Television specials, books, internet forums and later social media repeatedly revisited Hangar 18. Each retelling introduced the story to new audiences, often without distinguishing between documented Blue Book history and later folklore. The rumour survived not because new evidence emerged, but because the underlying idea remained compelling: if the government possessed proof of extraterrestrial visitation, a major Air Force base associated with UFO investigations seemed like a plausible place to hide it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/hangar-18-ufos-aliens-wright-patterson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Sarah Pruitt.Read more</span><span class="citation-popover-snippet">HistoryDoes Hangar 18, Legendary Alien Warehouse, Exist?Jan 17, 2020 — Crashed UFOs, alien autopsies and government cover-ups—untangling...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://futurism.com/future-society/air-force-major-general-ufo-connection-disappears" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futurism.com">[Futurism]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futurism.com</span><span class="citation-popover-title">air force major general ufo connection disappears</span><span class="citation-popover-snippet">Retired Air Force Major General With UFO Connections...12 Mar 2026 — The base allegedly houses “Hangar 18,” a facility which, according...</span></span></span>
+Popular culture amplified the cycle. Television specials, books, internet forums and later social media repeatedly revisited Hangar 18. Each retelling introduced the story to new audiences, often without distinguishing between documented Blue Book history and later folklore. The rumour survived not because new evidence emerged, but because the underlying idea remained compelling: if the government possessed proof of extraterrestrial visitation, a major Air Force base associated with UFO investigations seemed like a plausible place to hide it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/hangar-18-ufos-aliens-wright-patterson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Sarah Pruitt.Read more</span><span class="citation-popover-snippet">Does Hangar 18, Legendary Alien Warehouse, Exist?Jan 17, 2020 — Crashed UFOs, alien autopsies and government cover-ups—untangling...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://futurism.com/future-society/air-force-major-general-ufo-connection-disappears" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futurism.com">[Futurism]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futurism.com</span><span class="citation-popover-title">air force major general ufo connection disappears</span><span class="citation-popover-snippet">Retired Air Force Major General With UFO Connections...12 Mar 2026 — The base allegedly houses “Hangar 18,” a facility which, according...</span></span></span>
 
-
-<img src="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_hangar_18_wright_pat_dd587f-Illustration-3-light.svg" | relative_url }}" alt="Hangar 18 illustration 3" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_hangar_18_wright_pat_dd587f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_hangar_18_wright_pat_dd587f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_hangar_18_wright_pat_dd587f-Illustration-3-dark.svg" | relative_url }}" alt="Hangar 18 illustration 3" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_hangar_18_wright_pat_dd587f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_blue_book_ohio_legac_985669_hangar_18_wright_pat_dd587f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Wright-Patterson record actually tells us
 
 The historical significance of Wright-Patterson is real, even without Hangar 18.
@@ -318,9 +313,7 @@ At the same time, the strongest documentary evidence points toward an institutio
 
 That contrast explains why Hangar 18 remains such an enduring Ohio UFO story. The legend rests on the genuine historical importance of Wright-Patterson, but it extends far beyond what the available records actually show.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rSlLUvhM-HQ" title="Exploring Ohio&#x27;s Weird Folklore (Volume 2): Myths and Legends of the United States" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rSlLUvhM-HQ" target="_blank" rel="noopener noreferrer">Exploring Ohio&#x27;s Weird Folklore (Volume 2): Myths and Legends of the United States</a></p><p class="youtube-embed-meta">Channel: T’s Storytime &middot; Views: 85.8K &middot; Uploaded: January 2025 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rSlLUvhM-HQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rSlLUvhM-HQ">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4zAnv9aiPyw" title="UFOs and The Military Elite - The BEST UFO Documentary 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4zAnv9aiPyw" target="_blank" rel="noopener noreferrer">UFOs and The Military Elite - The BEST UFO Documentary 2020</a></p><p class="youtube-embed-meta">Channel: Amazing Documentaries &middot; Views: 2.4K &middot; Uploaded: April 2020 &middot; Length: 1 hour 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4zAnv9aiPyw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4zAnv9aiPyw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -408,7 +401,7 @@ That contrast explains why Hangar 18 remains such an enduring Ohio UFO story. Th
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -418,111 +411,36 @@ That contrast explains why Hangar 18 remains such an enduring Ohio UFO story. Th
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="https://i.ebayimg.com/images/g/nuEAAOSwVJRnoU9g/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,15 +448,15 @@ That contrast explains why Hangar 18 remains such an enduring Ohio UFO story. Th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -546,15 +464,15 @@ That contrast explains why Hangar 18 remains such an enduring Ohio UFO story. Th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -562,15 +480,15 @@ That contrast explains why Hangar 18 remains such an enduring Ohio UFO story. Th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -578,7 +496,7 @@ That contrast explains why Hangar 18 remains such an enduring Ohio UFO story. Th
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hangar-18-did-wright-patterson-really-hide-ufo-evidence-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-wright-patterson-really-hide-ufo-evidence-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -655,17 +573,31 @@ That contrast explains why Hangar 18 remains such an enduring Ohio UFO story. Th
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -678,42 +610,73 @@ That contrast explains why Hangar 18 remains such an enduring Ohio UFO story. Th
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -728,12 +691,17 @@ That contrast explains why Hangar 18 remains such an enduring Ohio UFO story. Th
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -744,136 +712,136 @@ That contrast explains why Hangar 18 remains such an enduring Ohio UFO story. Th
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 2. <a id="endnote-2"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookThe project, headquartered at Wright-Patterson Air Force Base, Ohio...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesDo Records Show Proof of UFOs?Feb 9, 2018 — All of Project Blue Book documentation is available on 94 rolls of microfilm...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: history.com  
    Title: Sarah Pruitt.Read more  
-   Link: [https://www.history.com/articles/hangar-18-ufos-aliens-wright-patterson](https://www.history.com/articles/hangar-18-ufos-aliens-wright-patterson)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryDoes Hangar 18, Legendary Alien Warehouse, Exist?Jan 17, 2020 — Crashed UFOs, alien autopsies and government cover-ups—untangling...</p></details>
+   Link: <a href="https://www.history.com/articles/hangar-18-ufos-aliens-wright-patterson" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/hangar-18-ufos-aliens-wright-patterson</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Does Hangar 18, Legendary Alien Warehouse, Exist?Jan 17, 2020 — Crashed UFOs, alien autopsies and government cover-ups—untangling...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Hangar 18 (conspiracy theory)  
-   Link: [https://en.wikipedia.org/wiki/Hangar_18_%28conspiracy_theory%29](https://en.wikipedia.org/wiki/Hangar_18_%28conspiracy_theory%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Hangar_18_%28conspiracy_theory%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hangar_18_%28conspiracy_theory%29</a>  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — Pro-UFO researchers claim that an extraterrestrial spacecra...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Roswell_incident](https://en.wikipedia.org/wiki/Roswell_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDespite this and a general lack of evidence, many UFO proponents claim that the Roswell debris was in fact derived fro...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: futurism.com  
    Title: air force major general ufo connection disappears  
-   Link: [https://futurism.com/future-society/air-force-major-general-ufo-connection-disappears](https://futurism.com/future-society/air-force-major-general-ufo-connection-disappears)  
+   Link: <a href="https://futurism.com/future-society/air-force-major-general-ufo-connection-disappears" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/future-society/air-force-major-general-ufo-connection-disappears</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Air Force Major General With UFO Connections...12 Mar 2026 — The base allegedly houses “Hangar 18,” a facility which, according...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Interest in UFOs Persists 50 Years After Project Blue...Dec 5, 2019 — The Air Force&#x27;s follow-on project, Grudge, evaluated 244 re...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Security AgencyUnidentified Flying Objects and Air Force Project Blue Bookby UF Sheet · Cited by 3 — Of a total of 12,618 sighti...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: archivesfoundation.org  
    Title: National Archives Foundation50 Years Ago: Government Stops Investigating UFOs  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force announced Project Blue Book&#x27;s termination on December 17, 1969. Of the 12,618 UFO sightings reported between 1947 and 1969, 701...</p></details>
    Published: December 17, 1969  
 
 12. <a id="endnote-12"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/The-Roswell-Report/](https://www.af.mil/The-Roswell-Report/)  
+   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the cl...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book | Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — From 1947 to 1969, 12,618 sightings were recorded; of these...</p></details>
    Published: May 2026  
 
 14. <a id="endnote-14"></a>
    Source: history.navy.mil  
    Title: u2s ufos and operation blue book  
-   Link: [https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html](https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html)  
+   Link: <a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>navy.milU-2s, UFOs, and Operation Blue Book24 Jan 2024 — Based at Wright-Patterson, the operation collected all reports of UFO sightings...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/6abcActionNews/posts/retired-air-force-major-general-missing-once-led-wright-patterson-a-base-steeped/1478515890307448/](https://www.facebook.com/6abcActionNews/posts/retired-air-force-major-general-missing-once-led-wright-patterson-a-base-steeped/1478515890307448/)  
+   Link: <a href="https://www.facebook.com/6abcActionNews/posts/retired-air-force-major-general-missing-once-led-wright-patterson-a-base-steeped/1478515890307448/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/6abcActionNews/posts/retired-air-force-major-general-missing-once-led-wright-patterson-a-base-steeped/1478515890307448/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Air Force major general missing once led WrightWright-Patterson Air Force Base UFO Research and Project Blue Book... com/news/ha...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/gw4xms/roswell_wreckage_is_at_wright_patterson_air_force/](https://www.reddit.com/r/ufo/comments/gw4xms/roswell_wreckage_is_at_wright_patterson_air_force/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/gw4xms/roswell_wreckage_is_at_wright_patterson_air_force/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/gw4xms/roswell_wreckage_is_at_wright_patterson_air_force/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell wreckage is at wright patterson air force base in...Also, DeLonge has his whole UFO book&#x27;s project... UFO Wreckages and Alien B...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/rc1f2b/ufo_wreckages_and_alien_bodies_held_in_hanger_18/](https://www.reddit.com/r/aliens/comments/rc1f2b/ufo_wreckages_and_alien_bodies_held_in_hanger_18/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/rc1f2b/ufo_wreckages_and_alien_bodies_held_in_hanger_18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/rc1f2b/ufo_wreckages_and_alien_bodies_held_in_hanger_18/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Wreckages and Alien Bodies Held In Hanger 18 at...Wright-Patterson Airforce Base, &quot;Hangar 18&quot; Crashed UFO&#x27;s &amp; Alien Bodies. Interest...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: esd.whs.mil  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue BookIn the course of accomplishing these objectives, Project Blue Book strives to identify and explain all UFO sightings reported to...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: en.as.com  
-   Link: [https://en.as.com/latest_news/hangar-18-the-truth-behind-the-alien-warehouse-at-wright-patterson-air-force-base-n/](https://en.as.com/latest_news/hangar-18-the-truth-behind-the-alien-warehouse-at-wright-patterson-air-force-base-n/)  
+   Link: <a href="https://en.as.com/latest_news/hangar-18-the-truth-behind-the-alien-warehouse-at-wright-patterson-air-force-base-n/" target="_blank" rel="noopener noreferrer nofollow">https://en.as.com/latest_news/hangar-18-the-truth-behind-the-alien-warehouse-at-wright-patterson-air-force-base-n/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18: The truth behind the alien warehouse at Wright...16 Jun 2025 — Conspiracy theorists say Hangar 18 on an Air Force base in Ohio that...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: edwards.af.mil  
    Title: Its silver, aluminum exterior glinted in the sun as it hovered a few feet off  
-   Link: [https://www.edwards.af.mil/News/Article/110252/declassified-document-shows-real-flying-saucer/](https://www.edwards.af.mil/News/Article/110252/declassified-document-shows-real-flying-saucer/)  
+   Link: <a href="https://www.edwards.af.mil/News/Article/110252/declassified-document-shows-real-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://www.edwards.af.mil/News/Article/110252/declassified-document-shows-real-flying-saucer/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>document shows &#x27;real&#x27; flying saucer &gt; Edwards...Oct 23, 2012 — The grainy film showed a round ship floating out of a hangar...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>alien.ufo/UFOBBS/1000/1953.ufo. (PUBLIC DOMAIN) - April 1988 — NY... division on the extraterrestrial/genetic agenda theory, and an Air...</p></details>
    Published: April 1988  
 
 22. <a id="endnote-22"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/UFO-Secrets-Inside-Wright-Patterson-Eyewitness/dp/1938875184](https://www.amazon.co.uk/UFO-Secrets-Inside-Wright-Patterson-Eyewitness/dp/1938875184)  
+   Link: <a href="https://www.amazon.co.uk/UFO-Secrets-Inside-Wright-Patterson-Eyewitness/dp/1938875184" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/UFO-Secrets-Inside-Wright-Patterson-Eyewitness/dp/1938875184</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon UKUFO Secrets Inside Wright-Patterson: Eyewitness Accounts...UFO Crash of 1947 to where the Air Force policies of cover-up and se...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: basedonatruestorypodcast.com  
    Title: 00:21:05:07 – 00:21:25:11. Dan Le Febvre. Maybe an alien  
-   Link: [https://www.basedonatruestorypodcast.com/376-project-blue-book/](https://www.basedonatruestorypodcast.com/376-project-blue-book/)  
+   Link: <a href="https://www.basedonatruestorypodcast.com/376-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.basedonatruestorypodcast.com/376-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>376: Project Blue Book | Based on a True Story PodcastOct 7, 2025 — This time or a UFO use that term, but it&#x27;s also involving a creature...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: nsa.gov  
    Title: United States Air Force Fact Sheet 95-03United States Air Force Fact Sheet 95-03  
-   Link: [https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/](https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/)  
+   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book...</p></details>

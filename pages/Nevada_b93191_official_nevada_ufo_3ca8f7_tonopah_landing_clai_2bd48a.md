@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /official-records-3cff98/
 nav_short_title: Tonopah
 title: How strong is the Tonopah landing story?
-title_full: How strong is the Tonopah landing story? | Official Records
+title_full: How strong is the Tonopah landing story?
 display_title_short: Tonopah
 display_title: Tonopah
 heading_title: How strong is the Tonopah landing story?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:47:32'
-parent_title: What Nevada's UFO Files Actually Show | Nevada UFOs
+parent_title: What Nevada's UFO Files Actually Show
 parent_permalink: /official-records-3cff98/
 parent_nav_short_title: Official Records
 parent_heading_title: What Nevada's UFO Files Actually Show
@@ -252,8 +252,7 @@ image: /assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7_tonopah_landing_c
 
 The Tonopah landing story sits in an awkward place within [Nevada]({{ 'why-nevada-became-ufo-country/' | relative_url }}) UFO history. It is often remembered as a dramatic close-encounter account involving an alleged landed saucer, vehicle or engine trouble, and reported physical traces on the ground. Yet it is also a good example of how some of Nevada’s most vivid UFO narratives become difficult to evaluate once researchers look for independent witnesses, official documentation and verifiable physical evidence.
 
-
-<img src="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7_tonopah_landing_clai_2bd48a-Illustration-1-light.svg" | relative_url }}" alt="Tonopah illustration 1" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7_tonopah_landing_clai_2bd48a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7_tonopah_landing_clai_2bd48a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7_tonopah_landing_clai_2bd48a-Illustration-1-dark.svg" | relative_url }}" alt="Tonopah illustration 1" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7_tonopah_landing_clai_2bd48a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7_tonopah_landing_clai_2bd48a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That tension is what makes the case interesting. Tonopah lies within a region strongly associated with military testing, restricted airspace and long-running UFO folklore. The setting encourages speculation, but the historical record is much less clear than many retellings suggest. The result is a story that remains memorable while offering a useful lesson about the limits of single-witness evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tonopah_Test_Range" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tonopah Test Range</span><span class="citation-popover-snippet">Tonopah Test Range</span></span></span>
 
 ## The pilot account, engine stall and alleged ground marks
@@ -279,7 +278,6 @@ That final point matters. Tonopah is closely linked to Cold War and post-Cold Wa
 
 For readers encountering the story decades later, the location itself can make the account feel more plausible than an identical report from an ordinary rural area. The setting supplies much of the narrative power.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-l6R3fTdgGY" title="UFO over American &amp; United Engine Blows Up, &amp; Who Flew Warrior Inverted? TakingOff Ep 139" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-l6R3fTdgGY" target="_blank" rel="noopener noreferrer">UFO over American &amp; United Engine Blows Up, &amp; Who Flew Warrior Inverted? TakingOff Ep 139</a></p><p class="youtube-embed-meta">Channel: Taking Off &middot; Views: 46.0K &middot; Uploaded: February 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-l6R3fTdgGY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-l6R3fTdgGY">Open on YouTube</a></p></div></div></div>
 
 ## Why single-witness close encounters are hard to verify
@@ -294,14 +292,12 @@ A radar track, a second observer, police records, air-traffic documentation or c
 
 That does not automatically make the witness unreliable. It does mean there is little opportunity to check whether the reported sequence of events happened as described.
 
-
-<img src="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7_tonopah_landing_clai_2bd48a-Illustration-2-light.svg" | relative_url }}" alt="Tonopah illustration 2" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7_tonopah_landing_clai_2bd48a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7_tonopah_landing_clai_2bd48a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7_tonopah_landing_clai_2bd48a-Illustration-2-dark.svg" | relative_url }}" alt="Tonopah illustration 2" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7_tonopah_landing_clai_2bd48a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7_tonopah_landing_clai_2bd48a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Physical traces are often poorly documented
 
 Ground marks are frequently cited in UFO literature because they appear objective. In practice, many trace reports suffer from incomplete documentation.
 
 Important questions include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -314,7 +310,6 @@ Important questions include:
 
 Without clear answers, the traces become part of the story rather than independently verified evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-r7QXAYzkfI" title="Witnesses swear &#x27;this is not a joke&#x27; after allegedly having close encounter with UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-r7QXAYzkfI" target="_blank" rel="noopener noreferrer">Witnesses swear &#x27;this is not a joke&#x27; after allegedly having close encounter with UFO</a></p><p class="youtube-embed-meta">Channel: WHAS11 &middot; Views: 207.9K &middot; Uploaded: June 2023 &middot; Length: 1 minute 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-r7QXAYzkfI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-r7QXAYzkfI">Open on YouTube</a></p></div></div></div>
 
 ### Mechanical problems have ordinary causes
@@ -322,7 +317,6 @@ Without clear answers, the traces become part of the story rather than independe
 An engine stall sounds dramatic, but engines fail for many reasons. If a witness experiences a frightening or unexpected event at the same time as a mechanical problem, it is easy to connect the two experiences.
 
 Investigators therefore need maintenance records, technical inspections or contemporary reports before treating an engine failure as evidence of an external influence. Those supporting records are generally absent from later retellings of the Tonopah account.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/09uMbh2eoho" title="Unknown object crash near Area 51 fuels cover-up claims" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=09uMbh2eoho" target="_blank" rel="noopener noreferrer">Unknown object crash near Area 51 fuels cover-up claims</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 4.1M &middot; Uploaded: October 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=09uMbh2eoho" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=09uMbh2eoho">Open on YouTube</a></p></div></div></div>
 
@@ -338,8 +332,7 @@ Believers argue that secret aviation projects make unusual sightings more credib
 
 The Tonopah landing story sits directly in that grey area. The location encourages speculation, but the available evidence does not clearly distinguish between a remarkable event, a misperception, an embellished recollection or some encounter involving unusual but terrestrial technology.
 
-
-<img src="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7_tonopah_landing_clai_2bd48a-Illustration-3-light.svg" | relative_url }}" alt="Tonopah illustration 3" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7_tonopah_landing_clai_2bd48a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7_tonopah_landing_clai_2bd48a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7_tonopah_landing_clai_2bd48a-Illustration-3-dark.svg" | relative_url }}" alt="Tonopah illustration 3" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7_tonopah_landing_clai_2bd48a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_official_nevada_ufo_3ca8f7_tonopah_landing_clai_2bd48a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the story fits into Nevada's unresolved UFO record
 
 The Tonopah report is best understood as a cautionary case rather than a decisive one.
@@ -436,7 +429,7 @@ For that reason, the case remains memorable but fragile. It illustrates why dram
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -446,111 +439,36 @@ For that reason, the case remains memorable but fragile. It illustrates why dram
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-tonopah-landing-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-tonopah-landing-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-tonopah-landing-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-tonopah-landing-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-tonopah-landing-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-tonopah-landing-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-tonopah-landing-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-tonopah-landing-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -558,15 +476,15 @@ For that reason, the case remains memorable but fragile. It illustrates why dram
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-tonopah-landing-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-tonopah-landing-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-tonopah-landing-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-tonopah-landing-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-tonopah-landing-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-tonopah-landing-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-tonopah-landing-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-tonopah-landing-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -574,15 +492,15 @@ For that reason, the case remains memorable but fragile. It illustrates why dram
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-tonopah-landing-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-tonopah-landing-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-tonopah-landing-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-tonopah-landing-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-tonopah-landing-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-tonopah-landing-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-tonopah-landing-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-tonopah-landing-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -590,15 +508,15 @@ For that reason, the case remains memorable but fragile. It illustrates why dram
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-tonopah-landing-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-tonopah-landing-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-tonopah-landing-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-tonopah-landing-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-tonopah-landing-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-tonopah-landing-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-tonopah-landing-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-tonopah-landing-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -606,7 +524,7 @@ For that reason, the case remains memorable but fragile. It illustrates why dram
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tonopah-how-strong-is-the-tonopah-landing-story-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-tonopah-landing-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-tonopah-landing-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -683,17 +601,31 @@ For that reason, the case remains memorable but fragile. It illustrates why dram
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -706,42 +638,73 @@ For that reason, the case remains memorable but fragile. It illustrates why dram
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -756,12 +719,17 @@ For that reason, the case remains memorable but fragile. It illustrates why dram
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -772,95 +740,95 @@ For that reason, the case remains memorable but fragile. It illustrates why dram
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Tonopah Test Range  
-   Link: [https://en.wikipedia.org/wiki/Tonopah_Test_Range](https://en.wikipedia.org/wiki/Tonopah_Test_Range)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tonopah_Test_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tonopah_Test_Range</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Tonopah Test Range Airport  
-   Link: [https://en.wikipedia.org/wiki/Tonopah_Test_Range_Airport](https://en.wikipedia.org/wiki/Tonopah_Test_Range_Airport)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tonopah_Test_Range_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tonopah_Test_Range_Airport</a>  
 
 3. <a id="endnote-3"></a>
    Source: handprint.com  
-   Link: [https://www.handprint.com/UFO/MagoniaCatalog.xlsx](https://www.handprint.com/UFO/MagoniaCatalog.xlsx)  
+   Link: <a href="https://www.handprint.com/UFO/MagoniaCatalog.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.handprint.com/UFO/MagoniaCatalog.xlsx</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>passport to magonia ufo sightinThe tractor engine stalled, and the witness was seized by unknown... engine stalled, and landed in a wood...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt](https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>engine stalled, and landed in a wooded area. Six witnesses in two separate groups observed the object, and the police were called. The de...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Tonopah Air Force Station  
-   Link: [https://en.wikipedia.org/wiki/Tonopah_Air_Force_Station](https://en.wikipedia.org/wiki/Tonopah_Air_Force_Station)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tonopah_Air_Force_Station" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tonopah_Air_Force_Station</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: [Area 51](&#123;&#123; 'area-51/' | relative_url &#125;&#125;)  
-   Link: [https://en.wikipedia.org/wiki/Area_51](https://en.wikipedia.org/wiki/Area_51)  
+   Link: <a href="https://en.wikipedia.org/wiki/Area_51" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Area_51</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51The intense secrecy surrounding the base has made it the frequent subject of conspiracy theories and a central component of uni...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf](https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf)  
+   Link: <a href="https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ce-5-close-encounters-of-the-fifth-kind-1999-f-96f-03fa-4e-70790be-7b-062aa-8770dad-5-annas-archive/ce-%205%20close%20encounters%20of%20the%20fifth%20kind%20--%201999%20--%20f96f03fa4e70790be7b062aa8770dad5%20--%20Anna%E2%80%99s%20Archive.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ce- 5 close encounters of the fifth kindHaines, Richard F. CE-5: close encounters of the fifth kind: 242 case files exposing alien contac...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: dreamlandresort.com  
-   Link: [https://www.dreamlandresort.com/area51/dreamland_50years.html](https://www.dreamlandresort.com/area51/dreamland_50years.html)  
+   Link: <a href="https://www.dreamlandresort.com/area51/dreamland_50years.html" target="_blank" rel="noopener noreferrer nofollow">https://www.dreamlandresort.com/area51/dreamland_50years.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DREAMLAND: Fifty Years of Secret Flight Testing in NevadaFour experienced instructor pilots trained three classes in ground school, follo...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/ufo-documents.html](https://dokumen.pub/download/ufo-documents.html)  
+   Link: <a href="https://dokumen.pub/download/ufo-documents.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/ufo-documents.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO documentsThere was the black chopper (a Bell Jet Ranger, he thought) on the ground, the engine still running. Seven men had apparentl...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=09uMbh2eoho](https://www.youtube.com/watch?v=09uMbh2eoho)  
+   Link: <a href="https://www.youtube.com/watch?v=09uMbh2eoho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=09uMbh2eoho</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unknown object crash near Area 51 fuels cover-up claimsA mysterious object of unknown origin fell from the sky and crashed just outside o...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ground Saucer Watch never receives a response from... government is in possession of recovered crashed and landed UFO technology hardwar...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/area51/comments/10xme11/if_a_planes_engine_went_out_in_nevada_and/](https://www.reddit.com/r/area51/comments/10xme11/if_a_planes_engine_went_out_in_nevada_and/)  
+   Link: <a href="https://www.reddit.com/r/area51/comments/10xme11/if_a_planes_engine_went_out_in_nevada_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/area51/comments/10xme11/if_a_planes_engine_went_out_in_nevada_and/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>uch trouble would the pilot get into for putting the plane down...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NatGeoTV/posts/area-51-has-some-of-the-most-heavily-restricted-airspace-on-earth-so-what-happen/1382223766804819/](https://www.facebook.com/NatGeoTV/posts/area-51-has-some-of-the-most-heavily-restricted-airspace-on-earth-so-what-happen/1382223766804819/)  
+   Link: <a href="https://www.facebook.com/NatGeoTV/posts/area-51-has-some-of-the-most-heavily-restricted-airspace-on-earth-so-what-happen/1382223766804819/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NatGeoTV/posts/area-51-has-some-of-the-most-heavily-restricted-airspace-on-earth-so-what-happen/1382223766804819/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The pilot&#x27;s story was that - he took off from Vegas, got lost...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OfficialUnsolvedMysteries/posts/its-only-fitting-for-unsolved-mysteries-to-cover-the-most-famous-ufo-case-of-all/850396467269029/](https://www.facebook.com/OfficialUnsolvedMysteries/posts/its-only-fitting-for-unsolved-mysteries-to-cover-the-most-famous-ufo-case-of-all/850396467269029/)  
+   Link: <a href="https://www.facebook.com/OfficialUnsolvedMysteries/posts/its-only-fitting-for-unsolved-mysteries-to-cover-the-most-famous-ufo-case-of-all/850396467269029/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OfficialUnsolvedMysteries/posts/its-only-fitting-for-unsolved-mysteries-to-cover-the-most-famous-ufo-case-of-all/850396467269029/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>above one of the fires, which immediately became extinguished!Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DSlJTMFjy_q/](https://www.instagram.com/reel/DSlJTMFjy_q/)  
+   Link: <a href="https://www.instagram.com/reel/DSlJTMFjy_q/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSlJTMFjy_q/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Another described technology capable of movements no...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MegynKelly/posts/new-ufo-documentary-and-shocking-interviews-shine-a-new-light-on-potential-encou/1400622358086342/](https://www.facebook.com/MegynKelly/posts/new-ufo-documentary-and-shocking-interviews-shine-a-new-light-on-potential-encou/1400622358086342/)  
+   Link: <a href="https://www.facebook.com/MegynKelly/posts/new-ufo-documentary-and-shocking-interviews-shine-a-new-light-on-potential-encou/1400622358086342/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MegynKelly/posts/new-ufo-documentary-and-shocking-interviews-shine-a-new-light-on-potential-encou/1400622358086342/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d in a field. As they watched it, suddenly a figure...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nsarchive.gwu.edu  
    Title: area 51 file secret aircraft soviet migs  
-   Link: [https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs](https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs)  
+   Link: <a href="https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Security ArchiveThe Area 51 File: Secret Aircraft and Soviet MiGs29 Oct 2013 — A first flight, presumably at Area 51, took place...</p></details>

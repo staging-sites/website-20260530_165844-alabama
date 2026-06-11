@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /gorman-case/
 nav_short_title: Project Sign
 title: How The Air Force Reached The Balloon Conclusion
-title_full: How The Air Force Reached The Balloon Conclusion | Gorman Case
+title_full: How The Air Force Reached The Balloon Conclusion
 display_title_short: Project Sign
 display_title: Project Sign
 heading_title: How The Air Force Reached The Balloon Conclusion
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:59:28'
-parent_title: Was Fargo's Famous UFO Dogfight a Balloon? | North Dakota UFOs
+parent_title: Was Fargo's Famous UFO Dogfight a Balloon?
 parent_permalink: /gorman-case/
 parent_nav_short_title: Gorman Case
 parent_heading_title: Was Fargo's Famous UFO Dogfight a Balloon?
@@ -250,14 +250,12 @@ image: /assets/images/North_Dakota_0b6838_gorman_dogfight_913456_project_sign_fa
 
 ## Introduction
 
-Project Sign’s investigation of the Fargo “dogfight” became one of the most closely watched UFO inquiries of the late 1940s because it involved a trained military pilot, multiple witnesses and a rapid Air Force response. After [North Dakota]({{ 'why-north-dakota-matters-in-ufo-history/' | relative_url }}) Air National Guard pilot George Gorman reported chasing a bright light over Fargo on 1 October 1948, investigators arrived within hours to interview witnesses and inspect his F-51 Mustang. At first, some of the evidence appeared unusual enough to encourage speculation that Gorman had encountered something genuinely unknown. Yet the same investigation eventually moved in the opposite direction. After examining witness testimony, aircraft data and weather records, Project Sign concluded that the most likely explanation was a lighted weather balloon combined with the visual distortions created by a fast-moving night pursuit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman dogfight</span><span class="citation-popover-snippet">Gorman dogfight</span></span></span>
+Project Sign’s investigation of the Fargo “dogfight” became one of the most closely watched UFO inquiries of the late 1940s because it involved a trained military pilot, multiple witnesses and a rapid Air Force response. After North Dakota Air National Guard pilot George Gorman reported chasing a bright light over Fargo on 1 October 1948, investigators arrived within hours to interview witnesses and inspect his F-51 Mustang. At first, some of the evidence appeared unusual enough to encourage speculation that Gorman had encountered something genuinely unknown. Yet the same investigation eventually moved in the opposite direction. After examining witness testimony, aircraft data and weather records, Project Sign concluded that the most likely explanation was a lighted weather balloon combined with the visual distortions created by a fast-moving night pursuit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gorman dogfight</span><span class="citation-popover-snippet">Gorman dogfight</span></span></span>
 
-
-<img src="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456_project_sign_fargo_c_788b9a-Illustration-1-light.svg" | relative_url }}" alt="Project Sign illustration 1" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456_project_sign_fargo_c_788b9a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456_project_sign_fargo_c_788b9a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456_project_sign_fargo_c_788b9a-Illustration-1-dark.svg" | relative_url }}" alt="Project Sign illustration 1" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456_project_sign_fargo_c_788b9a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456_project_sign_fargo_c_788b9a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the history of UFO reports in North Dakota, the significance of the case lies not only in what Gorman claimed to see but also in how the Air Force reached its conclusion. The Fargo incident became an early test of whether dramatic pilot reports could survive detailed investigation.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jOZB_I78Gsc" title="The Gorman Dogfight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jOZB_I78Gsc" target="_blank" rel="noopener noreferrer">The Gorman Dogfight</a></p><p class="youtube-embed-meta">Channel: UAP History &middot; Views: 70 &middot; Uploaded: July 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jOZB_I78Gsc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jOZB_I78Gsc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_ZPbk394_iU" title="Project Blue Book: Declassified - The Gorman Dogfight | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_ZPbk394_iU" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified - The Gorman Dogfight | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 28.1K &middot; Uploaded: February 2019 &middot; Length: 2 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_ZPbk394_iU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_ZPbk394_iU">Open on YouTube</a></p></div></div></div>
 
 ## Witness Interviews And Aircraft Inspection
 
@@ -268,7 +266,6 @@ However, the interviews also exposed an important limitation. While other witnes
 The Air Force also examined Gorman’s aircraft. Because the case emerged during an era of growing anxiety about advanced military technology and atomic research, investigators looked for any physical traces that might support the idea that the pilot had approached an unusual craft. The F-51 Mustang was inspected and compared with other aircraft on the ground. This physical examination became one of the most discussed parts of the entire case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
 
 What made the Fargo investigation stand out was that Project Sign did not simply collect witness statements and close the file. Investigators attempted to test claims against measurable evidence. That effort ultimately weakened some of the most sensational interpretations rather than strengthening them.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-UTGi3d7LAQ" title="The Uncover Up Tapes: The Gorman UFO Dogfight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-UTGi3d7LAQ" target="_blank" rel="noopener noreferrer">The Uncover Up Tapes: The Gorman UFO Dogfight</a></p><p class="youtube-embed-meta">Channel: The Uncover Up &middot; Views: 1.5K &middot; Uploaded: November 2020 &middot; Length: 4 minutes 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-UTGi3d7LAQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-UTGi3d7LAQ">Open on YouTube</a></p></div></div></div>
 
@@ -282,8 +279,7 @@ Yet further investigation undermined that interpretation. Project Sign personnel
 
 This episode is important because it shows the investigation moving away from an extraordinary conclusion rather than towards one. The radiation readings were not ignored; they were re-evaluated and ultimately judged to be poor evidence for the presence of an unusual craft.
 
-
-<img src="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456_project_sign_fargo_c_788b9a-Illustration-2-light.svg" | relative_url }}" alt="Project Sign illustration 2" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456_project_sign_fargo_c_788b9a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456_project_sign_fargo_c_788b9a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456_project_sign_fargo_c_788b9a-Illustration-2-dark.svg" | relative_url }}" alt="Project Sign illustration 2" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456_project_sign_fargo_c_788b9a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456_project_sign_fargo_c_788b9a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Project Sign Accepted The Balloon Explanation
 
 The turning point came when investigators examined meteorological records. The Air Weather Service reported that a lighted weather balloon had been released from Fargo at approximately 8:50 p.m., shortly before Gorman began reporting the object. According to the Air Force's reconstruction, the balloon would have been in roughly the same area where the light was first observed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
@@ -294,8 +290,7 @@ Project Sign also concluded that after losing track of the balloon, Gorman may h
 
 By early 1949 the case had been officially classified as a lighted weather balloon encounter. That judgement was carried forward by Project Sign’s successors, Project Grudge and later Project [Blue Book]({{ 'blue-book-d5f241/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_ZPbk394_iU" title="Project Blue Book: Declassified - The Gorman Dogfight | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_ZPbk394_iU" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified - The Gorman Dogfight | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 28.1K &middot; Uploaded: February 2019 &middot; Length: 2 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_ZPbk394_iU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_ZPbk394_iU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jOZB_I78Gsc" title="The Gorman Dogfight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jOZB_I78Gsc" target="_blank" rel="noopener noreferrer">The Gorman Dogfight</a></p><p class="youtube-embed-meta">Channel: UAP History &middot; Views: 70 &middot; Uploaded: July 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jOZB_I78Gsc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jOZB_I78Gsc">Open on YouTube</a></p></div></div></div>
 
 ## Why The Investigation Still Matters
 
@@ -305,8 +300,7 @@ At the same time, the final conclusion illustrates how easily a compelling aeria
 
 For North Dakota’s UFO history, the investigation is as significant as the sighting. The case became one of the earliest examples of the Air Force attempting to move from witness impressions to physical evidence, and then revising its interpretation when that evidence failed to support the more dramatic claims. Even decades later, supporters and sceptics continue to disagree about whether the balloon explanation accounts for every detail, but the official investigation itself remains a revealing example of how the Air Force evaluated one of its most famous early UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of reported UFO sightings</span><span class="citation-popover-snippet">List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">ufo dogfight gorman us plane fargo</span><span class="citation-popover-snippet">Gorman and a mysterious white orb at high altitude above Fargo, North...Read more...</span></span></span>
 
-
-<img src="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456_project_sign_fargo_c_788b9a-Illustration-3-light.svg" | relative_url }}" alt="Project Sign illustration 3" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456_project_sign_fargo_c_788b9a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456_project_sign_fargo_c_788b9a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456_project_sign_fargo_c_788b9a-Illustration-3-dark.svg" | relative_url }}" alt="Project Sign illustration 3" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456_project_sign_fargo_c_788b9a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_gorman_dogfight_913456_project_sign_fargo_c_788b9a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -394,7 +388,7 @@ For North Dakota’s UFO history, the investigation is as significant as the sig
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -404,111 +398,36 @@ For North Dakota’s UFO history, the investigation is as significant as the sig
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-reached-the-balloon-conclusion-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-the-air-force-reached-the-balloon-conclusion-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF squadron and historic reproduction patches"><img src="https://i.ebayimg.com/images/g/3sEAAeSwsvpqJCmi/s-l225.jpg" alt="Listing image for USAF squadron and historic reproduction patches" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-reached-the-balloon-conclusion-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-the-air-force-reached-the-balloon-conclusion-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">USAF squadron and historic reproduction patches</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-reached-the-balloon-conclusion-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-the-air-force-reached-the-balloon-conclusion-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-reached-the-balloon-conclusion-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-the-air-force-reached-the-balloon-conclusion-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,15 +435,15 @@ For North Dakota’s UFO history, the investigation is as significant as the sig
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-reached-the-balloon-conclusion-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-the-air-force-reached-the-balloon-conclusion-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force Waddington 51 Squadron 110 year Anniversary 3D PVC patch"><img src="https://i.ebayimg.com/images/g/N3oAAeSwziRqIzf5/s-l225.jpg" alt="Listing image for Royal Air Force Waddington 51 Squadron 110 year Anniversary 3D PVC patch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-reached-the-balloon-conclusion-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-the-air-force-reached-the-balloon-conclusion-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force Waddington 51 Squadron 110 year Anniversary 3D PVC patch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-reached-the-balloon-conclusion-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-the-air-force-reached-the-balloon-conclusion-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-reached-the-balloon-conclusion-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-the-air-force-reached-the-balloon-conclusion-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,15 +451,15 @@ For North Dakota’s UFO history, the investigation is as significant as the sig
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-reached-the-balloon-conclusion-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-the-air-force-reached-the-balloon-conclusion-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force Embroidered Iron / Sew On Patch RAF MOD Target Navy Army Badge"><img src="https://i.ebayimg.com/images/g/FaQAAOSwT6pVufe4/s-l225.jpg" alt="Listing image for Royal Air Force Embroidered Iron / Sew On Patch RAF MOD Target Navy Army Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-reached-the-balloon-conclusion-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-the-air-force-reached-the-balloon-conclusion-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force Embroidered Iron / Sew On Patch RAF MOD Target Navy Army Badge</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-reached-the-balloon-conclusion-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-the-air-force-reached-the-balloon-conclusion-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-reached-the-balloon-conclusion-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-the-air-force-reached-the-balloon-conclusion-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -548,15 +467,15 @@ For North Dakota’s UFO history, the investigation is as significant as the sig
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-reached-the-balloon-conclusion-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-the-air-force-reached-the-balloon-conclusion-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force - Morale Patches - Vel-cro"><img src="https://i.ebayimg.com/images/g/i5wAAOSwRgtoW~eX/s-l225.jpg" alt="Listing image for Royal Air Force - Morale Patches - Vel-cro" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-reached-the-balloon-conclusion-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-the-air-force-reached-the-balloon-conclusion-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force - Morale Patches - Vel-cro</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-reached-the-balloon-conclusion-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-the-air-force-reached-the-balloon-conclusion-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-reached-the-balloon-conclusion-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-the-air-force-reached-the-balloon-conclusion-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -564,7 +483,7 @@ For North Dakota’s UFO history, the investigation is as significant as the sig
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-sign-how-the-air-force-reached-the-balloon-conclusion-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-air-force-reached-the-balloon-conclusion-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-the-air-force-reached-the-balloon-conclusion-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -641,17 +560,31 @@ For North Dakota’s UFO history, the investigation is as significant as the sig
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -664,42 +597,73 @@ For North Dakota’s UFO history, the investigation is as significant as the sig
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -714,12 +678,17 @@ For North Dakota’s UFO history, the investigation is as significant as the sig
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -730,46 +699,46 @@ For North Dakota’s UFO history, the investigation is as significant as the sig
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: [Gorman dogfight](&#123;&#123; 'gorman-case/' | relative_url &#125;&#125;)  
-   Link: [https://en.wikipedia.org/wiki/Gorman_dogfight](https://en.wikipedia.org/wiki/Gorman_dogfight)  
+   Link: <a href="https://en.wikipedia.org/wiki/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gorman_dogfight</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: The Report on Unidentified Flying Objects  
-   Link: [https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects](https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 4. <a id="endnote-4"></a>
    Source: history.com  
    Title: ufo dogfight gorman us plane fargo  
-   Link: [https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo](https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo)  
+   Link: <a href="https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gorman and a mysterious white orb at high altitude above Fargo, North...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: history.com  
    Title: Project Blue Book: Declassified  
-   Link: [https://www.history.com/videos/project-blue-book-declassified-the-gorman-dogfight](https://www.history.com/videos/project-blue-book-declassified-the-gorman-dogfight)  
+   Link: <a href="https://www.history.com/videos/project-blue-book-declassified-the-gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/project-blue-book-declassified-the-gorman-dogfight</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gorman Dogfight...Experts recount the puzzling 1948 dogfight between World War II pilot George Gorman and a UFO, which was investiga...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: news.prairiepublic.org  
    Title: gorman dogfight  
-   Link: [https://news.prairiepublic.org/main-street/2018-12-10/gorman-dogfight](https://news.prairiepublic.org/main-street/2018-12-10/gorman-dogfight)  
+   Link: <a href="https://news.prairiepublic.org/main-street/2018-12-10/gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://news.prairiepublic.org/main-street/2018-12-10/gorman-dogfight</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dogfight | Prairie Public10 Dec 2018 — The official explanation the Air Force gave was that the light was merely a lit weather balloon. S...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sutori.com  
    Title: history of ufo uap events t A5F38o AVa Fq QVDWj Dr J2pdi  
-   Link: [https://www.sutori.com/en/story/history-of-ufo-uap-events--tA5F38oAVaFqQVDWjDrJ2pdi](https://www.sutori.com/en/story/history-of-ufo-uap-events--tA5F38oAVaFqQVDWjDrJ2pdi)  
+   Link: <a href="https://www.sutori.com/en/story/history-of-ufo-uap-events--tA5F38oAVaFqQVDWjDrJ2pdi" target="_blank" rel="noopener noreferrer nofollow">https://www.sutori.com/en/story/history-of-ufo-uap-events--tA5F38oAVaFqQVDWjDrJ2pdi</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>History of UFO / UAP Events... Gorman dogfight had been caused by a lighted weather balloon.[2]. en.wikipedia.org. 1948. Share. Project S...</p></details>
 
 ### Additional References
@@ -777,58 +746,58 @@ For North Dakota’s UFO history, the investigation is as significant as the sig
 9. <a id="endnote-9"></a>
    Source: krocnews.com  
    Title: 1948 dogfight with ufo above fargo on history channel video  
-   Link: [https://krocnews.com/1948-dogfight-with-ufo-above-fargo-on-history-channel-video/](https://krocnews.com/1948-dogfight-with-ufo-above-fargo-on-history-channel-video/)  
+   Link: <a href="https://krocnews.com/1948-dogfight-with-ufo-above-fargo-on-history-channel-video/" target="_blank" rel="noopener noreferrer nofollow">https://krocnews.com/1948-dogfight-with-ufo-above-fargo-on-history-channel-video/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1948 Dogfight With UFO Above Fargo On History Channel...A widely publicized UFO incident occurred when 25 years old George Gorman spotte...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100095324142521/posts/flying-his-p-51-mustang-on-a-clear-october-evening-gorman-spotted-something-stra/1007643215756474/](https://www.facebook.com/100095324142521/posts/flying-his-p-51-mustang-on-a-clear-october-evening-gorman-spotted-something-stra/1007643215756474/)  
+   Link: <a href="https://www.facebook.com/100095324142521/posts/flying-his-p-51-mustang-on-a-clear-october-evening-gorman-spotted-something-stra/1007643215756474/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100095324142521/posts/flying-his-p-51-mustang-on-a-clear-october-evening-gorman-spotted-something-stra/1007643215756474/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>they conclude the object was a balloon, with evasive...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/ECFanAddict/posts/2027228630660308/](https://www.facebook.com/groups/ECFanAddict/posts/2027228630660308/)  
+   Link: <a href="https://www.facebook.com/groups/ECFanAddict/posts/2027228630660308/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ECFanAddict/posts/2027228630660308/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the U.S. Air Force&#x27;s Project Sign, Gorman gave this...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ia800501.us.archive.org  
    Title: The Report on Unidentified Flying Objects  
-   Link: [https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf](https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf)  
+   Link: <a href="https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IntroductionWhile the people on Project Sign were pondering over Lieutenant Gorman&#x27;s dogfight with the UFO - at the time they weren&#x27;t eve...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: medium.com  
    Title: ufo conflict in the skies 1208f8f3d53f  
-   Link: [https://medium.com/%40Cristina_Gomez/ufo-conflict-in-the-skies-1208f8f3d53f](https://medium.com/%40Cristina_Gomez/ufo-conflict-in-the-skies-1208f8f3d53f)  
+   Link: <a href="https://medium.com/%40Cristina_Gomez/ufo-conflict-in-the-skies-1208f8f3d53f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Cristina_Gomez/ufo-conflict-in-the-skies-1208f8f3d53f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Conflict in the SkiesThis re-examination, led by Captain Edward Ruppelt of Project Blue Book in the 1950s, shed light on the misident...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: weirddarkness.com  
    Title: gorman dogfight ufo 1948 fargo  
-   Link: [https://weirddarkness.com/gorman-dogfight-ufo-1948-fargo/](https://weirddarkness.com/gorman-dogfight-ufo-1948-fargo/)  
+   Link: <a href="https://weirddarkness.com/gorman-dogfight-ufo-1948-fargo/" target="_blank" rel="noopener noreferrer nofollow">https://weirddarkness.com/gorman-dogfight-ufo-1948-fargo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE GORMAN DOGFIGHT: Did This Fighter Pilot Chase a...16 Aug 2025 — The Air Weather Service revealed they&#x27;d released a lighted weather b...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=eyCziOrLm-U](https://www.youtube.com/watch?v=eyCziOrLm-U)  
+   Link: <a href="https://www.youtube.com/watch?v=eyCziOrLm-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eyCziOrLm-U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gorman UFO dogfight Project Sign The Gorman Dogfight A Night That Changed UFO History...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
    Title: gorman ufo dogfight of 1948  
-   Link: [https://www.reddit.com/r/UFOs/comments/vbdsp8/gorman_ufo_dogfight_of_1948/](https://www.reddit.com/r/UFOs/comments/vbdsp8/gorman_ufo_dogfight_of_1948/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/vbdsp8/gorman_ufo_dogfight_of_1948/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vbdsp8/gorman_ufo_dogfight_of_1948/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gorman dogfight was a UFO incident which took place on October 1, 1948, in the skies over Fargo, North Dakota, United States.Read more...</p></details>
    Published: October 1, 1948  
 
 17. <a id="endnote-17"></a>
    Source: wyominghistoryday.org  
    Title: UF O sighting by George F  
-   Link: [https://www.wyominghistoryday.org/theme-topics/collections/items/ufo-sighting-george-f-gorman-october-1-1948](https://www.wyominghistoryday.org/theme-topics/collections/items/ufo-sighting-george-f-gorman-october-1-1948)  
+   Link: <a href="https://www.wyominghistoryday.org/theme-topics/collections/items/ufo-sighting-george-f-gorman-october-1-1948" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/theme-topics/collections/items/ufo-sighting-george-f-gorman-october-1-1948</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gorman on October 1, 1948.Gorman dogfight was a widely publicized UFO incident which occured on October 1, 1948 near Fargo, North Dakota...</p></details>
    Published: October 1, 1948  
 
 18. <a id="endnote-18"></a>
    Source: hpr1.com  
    Title: the gorman dogfight  
-   Link: [https://hpr1.com/index.php/feature/culture/the-gorman-dogfight](https://hpr1.com/index.php/feature/culture/the-gorman-dogfight)  
+   Link: <a href="https://hpr1.com/index.php/feature/culture/the-gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://hpr1.com/index.php/feature/culture/the-gorman-dogfight</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>​The Gorman dogfight | High Plains Reader, Fargo ND14 Dec 2016 — The strange case of the unidentified flying object over Fargo was offici...</p></details>

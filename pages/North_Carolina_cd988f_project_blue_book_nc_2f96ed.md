@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-north/
 nav_short_title: Blue Book
 title: What Did Project Blue Book Record in North Carolina?
-title_full: What Did Project Blue Book Record in North Carolina? | NC UFOs
+title_full: What Did Project Blue Book Record in North Carolina?
 display_title_short: Blue Book
 display_title: Blue Book
 heading_title: What Did Project Blue Book Record in North Carolina?
@@ -262,8 +262,7 @@ image: /assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed-overview
 
 ## Introduction
 
-Project Blue Book gives [North Carolina]({{ 'what-really-happened-in-north/' | relative_url }}) a documented place in the classic Cold War UFO era, but the files do not tell a simple “aliens visited the state” story. They show something more useful: a chain of Air Force-recorded reports from pilots, military personnel, civilians and base observers, some marked as “unidentified”, many thinly documented, and several clustered around the state’s [military aviation]({{ 'military-skies-99e1c8/' | relative_url }}) landscape. The strongest North Carolina entries include the 1950 Pope AFB and Bonlee reports, the 1952 Southern Pines case, and later Fort Bragg and Pope AFB incidents in 1958. These cases matter because they sit at the overlap of witness testimony, Cold War air defence concerns, and imperfect official investigation. They are historically significant, but “unidentified” meant the Air Force had not found a satisfactory explanation from the available data, not that it had proved an extraordinary origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
-
+Project Blue Book gives North Carolina a documented place in the classic Cold War UFO era, but the files do not tell a simple “aliens visited the state” story. They show something more useful: a chain of Air Force-recorded reports from pilots, military personnel, civilians and base observers, some marked as “unidentified”, many thinly documented, and several clustered around the state’s military aviation landscape. The strongest North Carolina entries include the 1950 [Pope AFB]({{ 'pope-afb/' | relative_url }}) and Bonlee reports, the 1952 Southern Pines case, and later [Fort Bragg]({{ 'fort-bragg/' | relative_url }}) and Pope AFB incidents in 1958. These cases matter because they sit at the overlap of witness testimony, Cold War air defence concerns, and imperfect official investigation. They are historically significant, but “unidentified” meant the Air Force had not found a satisfactory explanation from the available data, not that it had proved an extraordinary origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 <img src="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed-overview.webp" | relative_url }}" alt="Overview image for Blue Book" loading="eager" decoding="sync" fetchpriority="high">
 ## North Carolina cases in the Air Force archive
@@ -272,7 +271,7 @@ Project Blue Book was the best-known Air Force UFO investigation, but the public
 
 North Carolina appears repeatedly in those lists, though not always in the same way. Some cases are in Air Force “unidentified” lists; some are later researcher catalogues of Blue Book-related unknowns; some are specific case files where the final label may be “insufficient data” rather than a strong unknown. For readers, this distinction is crucial. A case in the Blue Book archive is not automatically a strong case. It may be an official record of a report, an unresolved evaluation, or a report too incomplete to judge.
 
-The North Carolina entries also show the variety of the state’s Cold War UFO record. They include daylight sightings by pilots, brief night-light reports, military-base observations, possible radar-adjacent cases, and rural visual sightings. A later comprehensive catalogue of Blue Book “unknowns” includes North Carolina entries at Wilmington in 1948, Wilson and Hamlet-Greenwood in 1949, [Pope AFB]({{ 'pope-afb/' | relative_url }}) and Bonlee in 1950, Southern Pines, Laurinburg-Maxton AFB and Greensboro in 1952, Henderson and Highland in 1956, [Fort Bragg]({{ 'fort-bragg/' | relative_url }}) and Pope AFB in 1958, and several 1960s reports including Burnsville-Mt. Mitchell and Vanceboro. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/pdfs/BB_Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Microsoft Word</span><span class="citation-popover-snippet">Center for UFO Studies Microsoft Word</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/pdfs/BB_Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Microsoft Word</span><span class="citation-popover-snippet">Center for UFO Studies Microsoft Word</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/pdfs/BB_Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Microsoft Word</span><span class="citation-popover-snippet">Center for UFO Studies Microsoft Word</span></span></span>
+The North Carolina entries also show the variety of the state’s Cold War UFO record. They include daylight sightings by pilots, brief night-light reports, military-base observations, possible radar-adjacent cases, and rural visual sightings. A later comprehensive catalogue of Blue Book “unknowns” includes North Carolina entries at Wilmington in 1948, Wilson and Hamlet-Greenwood in 1949, Pope AFB and Bonlee in 1950, Southern Pines, Laurinburg-Maxton AFB and Greensboro in 1952, Henderson and Highland in 1956, Fort Bragg and Pope AFB in 1958, and several 1960s reports including Burnsville-Mt. Mitchell and Vanceboro. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/pdfs/BB_Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Microsoft Word</span><span class="citation-popover-snippet">Center for UFO Studies Microsoft Word</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/pdfs/BB_Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Microsoft Word</span><span class="citation-popover-snippet">Center for UFO Studies Microsoft Word</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/pdfs/BB_Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Microsoft Word</span><span class="citation-popover-snippet">Center for UFO Studies Microsoft Word</span></span></span>
 
 The pattern is not a single statewide “flap” in the way that some UFO histories describe Washington, D.C. in 1952 or Michigan in 1966. Instead, the North Carolina record looks like a scattered sequence of high-strangeness reports, many connected to aviation corridors or military settings, with a few rural cases that became notable because trained or apparently credible witnesses were involved.
 
@@ -288,8 +287,7 @@ Why does this case matter for North Carolina? First, it involves aviation witnes
 
 The doubts are just as important. Distance, size and speed estimates from moving aircraft are notoriously difficult. “Domed disc” descriptions can sound persuasive, but without photographs, radar confirmation, reliable triangulation or surviving detailed interview material, the case remains historically interesting rather than decisive. The Air Force “unknown” label means it resisted the available explanation process; it does not mean the physical nature of the objects was established.
 
-
-<img src="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed-Illustration-1-light.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Bonlee, October 1950: a rural daylight report by an ex-USAF pilot
 
 Eight days after the Pope AFB report, another North Carolina case entered the “unknown” lists: Bonlee, in Chatham County, on 23 October 1950. In the Air Force list, it is case 824, immediately following the Pope AFB entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufologie.patrickgross.org/htm/bluebooku52.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Open source on patrickgross.org.</span></span></span>
@@ -310,9 +308,7 @@ That description makes the case useful but also awkward. “Green ellipse with a
 
 Southern Pines also matters geographically. It lies near the Fort Bragg/Pope military region, making it part of a broader central North Carolina cluster rather than an isolated local curiosity. The case does not prove anything exotic, but it does show how military-linked observers and unusual night-light descriptions entered the official record during the peak 1952 reporting wave.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OoKm417zKOA" title="10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer">10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs</a></p><p class="youtube-embed-meta">Channel: TopTenz &middot; Views: 271.1K &middot; Uploaded: February 2019 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OoKm417zKOA">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Fort Bragg, 1958: two reports in a military setting
 
 Fort Bragg appears in the later 1950s Blue Book-related record in two notable ways. One report, dated 15 May 1958, involved a military pilot named Beck and two civilian airline pilots who reportedly saw an orange round object heading north at high speed for about five minutes. Another, dated 20 June 1958 and listed as Blue Book case 5857, involved Battalion Communication Chief Sergeant First Class A. Parsley, who reportedly saw a silver circular object, partly through a green haze, hover, oscillate slightly and then move away at great speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/pdfs/BB_Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies Microsoft Word</span><span class="citation-popover-snippet">Center for UFO Studies Microsoft Word</span></span></span>
@@ -329,8 +325,8 @@ For a North Carolina UFO history page, this is a key case because it is not simp
 
 The case also illustrates the archive’s frustrating unevenness. The summary is compelling, but it leaves major questions unanswered: what did the tower staff actually see through binoculars, what was the weather, was there radar, what aircraft were nearby, and how did investigators treat the “strange lights” seen inside the cockpit? Without the complete file and careful reconstruction, the case should be treated as important but not conclusive.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7YNAWs9w_88" title="Asheville Included in Project Blue Book UFO Si" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7YNAWs9w_88" target="_blank" rel="noopener noreferrer">Asheville Included in Project Blue Book UFO Si</a></p><p class="youtube-embed-meta">Channel: WLOS News 13 &middot; Views: 3.6K &middot; Uploaded: February 2015 &middot; Length: 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7YNAWs9w_88" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7YNAWs9w_88">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed-Illustration-2-light.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the North Carolina pattern shows
 
 The North Carolina Blue Book record is most interesting when the cases are read together. The state’s entries do not form one neat story, but several patterns stand out.
@@ -343,9 +339,6 @@ Third, the North Carolina entries show how varied “UFO” meant in the archive
 
 Finally, the cases show the difference between historical significance and evidential strength. Pope AFB, Bonlee, Southern Pines and Fort Bragg are historically significant because they are documented in Blue Book-related records and later unknown catalogues. Their evidential strength varies because the surviving summaries often lack the details needed for modern reconstruction.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7YNAWs9w_88" title="Asheville Included in Project Blue Book UFO Si" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7YNAWs9w_88" target="_blank" rel="noopener noreferrer">Asheville Included in Project Blue Book UFO Si</a></p><p class="youtube-embed-meta">Channel: WLOS News 13 &middot; Views: 3.6K &middot; Uploaded: February 2015 &middot; Length: 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7YNAWs9w_88" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7YNAWs9w_88">Open on YouTube</a></p></div></div></div>
-
 ## What “unidentified” did and did not mean
 
 The word “unidentified” is the most misunderstood part of Project Blue Book. In Air Force language, it did not mean “extraterrestrial”. It meant that investigators did not settle on a conventional explanation from the evidence they had. The Air Force’s own public summary stated that none of the investigated and evaluated UFO reports indicated a threat to national security, none showed technological principles beyond modern scientific knowledge, and none provided evidence of extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
@@ -353,7 +346,6 @@ The word “unidentified” is the most misunderstood part of Project Blue Book.
 At the same time, “unidentified” was not meaningless. The Condon Report’s summary defined a UFO as the stimulus for a report made by someone who could not identify what they saw and found it puzzling enough to report; it also stressed that many ordinary objects, including Venus, could become UFOs when not recognised by the observer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Section II</span><span class="citation-popover-snippet">Condon Report, Section II</span></span></span> That is a sober definition, but it does not make every unresolved case trivial. Some reports involved trained witnesses, multiple observers, aircraft operations or military settings.
 
 This is the best way to read North Carolina’s Blue Book cases:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -366,8 +358,7 @@ This is the best way to read North Carolina’s Blue Book cases:
 
 The Air Force’s 1969 termination announcement sharpened this distinction. It said Project Blue Book was being closed partly because the University of Colorado study and National Academy of Sciences review did not justify continued investigation as a scientific or national-security priority. It also repeated the Air Force’s position that “unidentified” cases had not shown evidence of extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/asdpa1.pdf?ver=2017-05-22-113454-807" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed-Illustration-3-light.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_project_blue_book_nc_2f96ed-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why these cases still matter in North Carolina UFO history
 
 North Carolina’s Project Blue Book cases matter because they give the state’s UFO history a documentary backbone. [Brown Mountain]({{ 'brown-mountain/' | relative_url }}) may be the state’s best-known mystery-light tradition, and modern civilian databases may contain far more reports, but Blue Book is different: it preserves an official Cold War record, however imperfect, of what people reported and how the Air Force classified some of those reports.
@@ -377,10 +368,6 @@ The cases also help separate folklore from archive-based history. A dramatic loc
 For North Carolina, the central interpretive point is that the Blue Book cases are strongest as evidence of uncertainty, not as evidence of a single answer. They show that trained observers sometimes reported puzzling aerial events over or near North Carolina. They show that the Air Force sometimes could not match those reports to aircraft, balloons, astronomical objects, meteors or other common explanations. They also show that the official conclusion remained cautious: unresolved cases did not amount to proof of advanced technology, hostile threat or extraterrestrial visitation.
 
 That balanced reading makes the North Carolina cases more interesting, not less. Pope AFB and Fort Bragg connect UFO history with military aviation. Bonlee shows how a rural daylight report by a former pilot could enter the official unknown record. Southern Pines captures the strangeness of the 1952 wave in a compact local incident. Together, they make North Carolina part of the classic Blue Book story: not as a solved mystery, and not as a confirmed extraordinary event, but as a state where Cold War skies, trained witnesses, incomplete records and unresolved observations all crossed paths.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hdH3h_Wa6gE" title="Project Blue Book Sneak Peek: The True Story Behind the Government&#x27;s UFO Investigation - IGN First" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hdH3h_Wa6gE" target="_blank" rel="noopener noreferrer">Project Blue Book Sneak Peek: The True Story Behind the Government&#x27;s UFO Investigation - IGN First</a></p><p class="youtube-embed-meta">Channel: IGN &middot; Views: 413.4K &middot; Uploaded: September 2018 &middot; Length: 1 minute 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hdH3h_Wa6gE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hdH3h_Wa6gE">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -804,135 +791,135 @@ That balanced reading makes the North Carolina cases more interesting, not less.
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 2. <a id="endnote-2"></a>
    Source: esd.whs.mil  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/asdpa1.pdf?ver=2017-05-22-113454-807](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/asdpa1.pdf?ver=2017-05-22-113454-807)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/asdpa1.pdf?ver=2017-05-22-113454-807" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/asdpa1.pdf?ver=2017-05-22-113454-807</a>  
 
 3. <a id="endnote-3"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/blulst.htm](https://ufologie.patrickgross.org/htm/blulst.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/blulst.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/blulst.htm</a>  
 
 4. <a id="endnote-4"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/bluebooku52.htm](https://ufologie.patrickgross.org/htm/bluebooku52.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/bluebooku52.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluebooku52.htm</a>  
 
 5. <a id="endnote-5"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: files.ncas.org  
    Title: Condon Report, Section II  
-   Link: [https://files.ncas.org/condon/text/sec-ii.htm](https://files.ncas.org/condon/text/sec-ii.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/sec-ii.htm</a>  
 
 7. <a id="endnote-7"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/bluebooku50.htm](https://ufologie.patrickgross.org/htm/bluebooku50.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/bluebooku50.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluebooku50.htm</a>  
 
 8. <a id="endnote-8"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt](https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt)  
+   Link: <a href="https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt</a>  
 
 9. <a id="endnote-9"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: archive.org  
    Title: 1957 11 6781964 Ft Bragg NCar  
-   Link: [https://archive.org/details/1957-11-6781964-Ft-Bragg-NCar](https://archive.org/details/1957-11-6781964-Ft-Bragg-NCar)  
+   Link: <a href="https://archive.org/details/1957-11-6781964-Ft-Bragg-NCar" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/1957-11-6781964-Ft-Bragg-NCar</a>  
 
 11. <a id="endnote-11"></a>
    Source: cufos.org  
    Title: Center for UFO Studies Microsoft Word  
-   Link: [https://cufos.org/PDFs/pdfs/BB_Unknowns.pdf](https://cufos.org/PDFs/pdfs/BB_Unknowns.pdf)  
+   Link: <a href="https://cufos.org/PDFs/pdfs/BB_Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/BB_Unknowns.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/project](https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/project)  
+   Link: <a href="https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/project</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Project](https://en.wikipedia.org/wiki/Project)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
 
 15. <a id="endnote-15"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 16. <a id="endnote-16"></a>
    Source: pinestrawmag.com  
-   Link: [https://pinestrawmag.com/category/march-2019/page/2/](https://pinestrawmag.com/category/march-2019/page/2/)  
+   Link: <a href="https://pinestrawmag.com/category/march-2019/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://pinestrawmag.com/category/march-2019/page/2/</a>  
 
 17. <a id="endnote-17"></a>
    Source: vocal.media  
    Title: Project Blue Book | Futurism  
-   Link: [https://vocal.media/futurism/project-blue-book](https://vocal.media/futurism/project-blue-book)  
+   Link: <a href="https://vocal.media/futurism/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/project-blue-book</a>  
 
 18. <a id="endnote-18"></a>
    Source: vocabulary.com  
-   Link: [https://www.vocabulary.com/dictionary/project](https://www.vocabulary.com/dictionary/project)  
+   Link: <a href="https://www.vocabulary.com/dictionary/project" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/project</a>  
 
 19. <a id="endnote-19"></a>
    Source: junyiacademy.org  
-   Link: [https://www.junyiacademy.org/videos/nFcdbY-56w0?topic=junyi-english%2Fenglish-high%2Feng-senior10%2Fv1283-new-topic-231%2Fenglish-vocabulary1%2Fdragon-book2-lesson5-new](https://www.junyiacademy.org/videos/nFcdbY-56w0?topic=junyi-english%2Fenglish-high%2Feng-senior10%2Fv1283-new-topic-231%2Fenglish-vocabulary1%2Fdragon-book2-lesson5-new)  
+   Link: <a href="https://www.junyiacademy.org/videos/nFcdbY-56w0?topic=junyi-english%2Fenglish-high%2Feng-senior10%2Fv1283-new-topic-231%2Fenglish-vocabulary1%2Fdragon-book2-lesson5-new" target="_blank" rel="noopener noreferrer nofollow">https://www.junyiacademy.org/videos/nFcdbY-56w0?topic=junyi-english%2Fenglish-high%2Feng-senior10%2Fv1283-new-topic-231%2Fenglish-vocabulary1%2Fdragon-book2-lesson5-new</a>  
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Asheville Included in Project Blue Book UFO Sightings Report  
-   Link: [https://www.youtube.com/watch?v=7YNAWs9w_88](https://www.youtube.com/watch?v=7YNAWs9w_88)  
+   Link: <a href="https://www.youtube.com/watch?v=7YNAWs9w_88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7YNAWs9w_88</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Project Blue Book&#x27; Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: 'Project Blue Book' Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series  
-   Link: [https://www.youtube.com/watch?v=W89jh2C2Ry8](https://www.youtube.com/watch?v=W89jh2C2Ry8)  
+   Link: <a href="https://www.youtube.com/watch?v=W89jh2C2Ry8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W89jh2C2Ry8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100060001-5](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100060001-5)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100060001-5" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100060001-5</a>  
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: 10 Cases From Project Blue Book: The CIA's Hunt For UFOs  
-   Link: [https://www.youtube.com/watch?v=OoKm417zKOA](https://www.youtube.com/watch?v=OoKm417zKOA)  
+   Link: <a href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OoKm417zKOA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Exposed (2020) [Documentary]...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Project Blue Book: America's Obsession with UFOs  
-   Link: [https://www.youtube.com/watch?v=Xu4oTBBI5UE](https://www.youtube.com/watch?v=Xu4oTBBI5UE)  
+   Link: <a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WCBDNews2/posts/8-firsthand-accounts-of-ufo-sightings-in-horry-county/4894966030514786/](https://www.facebook.com/WCBDNews2/posts/8-firsthand-accounts-of-ufo-sightings-in-horry-county/4894966030514786/)  
+   Link: <a href="https://www.facebook.com/WCBDNews2/posts/8-firsthand-accounts-of-ufo-sightings-in-horry-county/4894966030514786/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WCBDNews2/posts/8-firsthand-accounts-of-ufo-sightings-in-horry-county/4894966030514786/</a>  
 
 27. <a id="endnote-27"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database](https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database)  
+   Link: <a href="https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/](https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
 
 29. <a id="endnote-29"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Flying-saucers-analysis-project-special/dp/B0006BNMN0](https://www.amazon.co.uk/Flying-saucers-analysis-project-special/dp/B0006BNMN0)  
+   Link: <a href="https://www.amazon.co.uk/Flying-saucers-analysis-project-special/dp/B0006BNMN0" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Flying-saucers-analysis-project-special/dp/B0006BNMN0</a>

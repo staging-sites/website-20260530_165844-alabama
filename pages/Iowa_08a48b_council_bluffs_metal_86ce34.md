@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-iowas-ufo-cases/
 nav_short_title: Council Bluffs
 title: Did Something Fall at Council Bluffs?
-title_full: Did Something Fall at Council Bluffs? | Iowa UFOs
+title_full: Did Something Fall at Council Bluffs?
 display_title_short: Council Bluffs
 display_title: Council Bluffs
 heading_title: Did Something Fall at Council Bluffs?
@@ -270,7 +270,6 @@ image: /assets/images/Iowa_08a48b_council_bluffs_metal_86ce34-overview-social.jp
 
 The Council Bluffs molten metal case matters because it is Iowa’s best-known UFO incident with physical material at the centre of the debate. On 17 December 1977, witnesses in Council Bluffs reported a red aerial object or falling fireball near Big Lake Park, followed by a flash, flames and a hot mass of metal on the ground. Police and fire personnel responded, and samples were later analysed. That makes the case stronger than a routine “light in the sky” report, but not strong enough to prove an exotic craft. The best-supported conclusion is narrower: something hot, metallic and unusual was found at the scene, but the material itself appears broadly consistent with terrestrial industrial metal or slag, while the route by which it arrived there remains disputed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thehistoricalsociety.org/h/ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehistoricalsociety.org">[The Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehistoricalsociety.org</span><span class="citation-popover-title">The Historical Society UFO Crash at Big Lake Park</span><span class="citation-popover-snippet">The Historical Society UFO Crash at Big Lake Park</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/8412505/Physical_Analyses_in_Ten_Cases_of_Unexplained_Aerial_Objects_with_Material_Samples" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
 
-
 <img src="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34-overview.webp" | relative_url }}" alt="Overview image for Council Bluffs" loading="eager" decoding="sync" fetchpriority="high">
 ## What witnesses and responders reported
 
@@ -282,8 +281,7 @@ The strongest non-UFO part of the case is the response on the ground. The Histor
 
 Vallée’s 1998 account adds several details that make the physical scene more specific. It describes a burn area about four feet by nine feet, a secondary burn area around 27 feet away, small metal spherules scattered in the area, no crater, and some material embedded in the ground. Those details matter because they complicate both sides of the debate: a real heat event seems to have occurred, but the absence of a crater weakens any simple “object crashed intact from high altitude” interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/8412505/Physical_Analyses_in_Ten_Cases_of_Unexplained_Aerial_Objects_with_Material_Samples" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
 
-
-<img src="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34-Illustration-1-light.svg" | relative_url }}" alt="Council Bluffs illustration 1" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34-Illustration-1-dark.svg" | relative_url }}" alt="Council Bluffs illustration 1" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the metal made this more than a routine sighting
 
 Most Iowa UFO reports depend almost entirely on testimony. Council Bluffs is different because the debate quickly moved from “what did people see?” to “what was the material?” That shift is important. A witness account can be vivid but difficult to test; a sample can at least be weighed, photographed, cut, scanned and chemically analysed. The case therefore became one of the relatively small number of UFO-related incidents in which material evidence, rather than only memory, became the focus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ui.adsabs.harvard.edu/abs/2022PrAeS.12800788N/abstract" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ui.adsabs.harvard.edu">[ADS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ui.adsabs.harvard.edu</span><span class="citation-popover-title">ADSImproved instrumental techniques, including isotopic</span><span class="citation-popover-snippet">ADSImproved instrumental techniques, including isotopic</span></span></span>
@@ -293,7 +291,6 @@ The early descriptions are often more dramatic than the later laboratory finding
 Early analysis pointed away from a meteorite. Vallée’s 1998 paper lists the Council Bluffs material among cases of reported aerial phenomena with recovered residues and says laboratory work had been performed, but it also stresses a broader caution: without a firm chain of evidence and professional field investigation, most such cases cannot yield definite conclusions about the nature of the phenomenon. That caveat applies strongly here. The case has samples and named responders, but not a clean, modern forensic recovery from the first minute onward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/37136826/What_do_we_Know_about_the_Material_Composition_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
 
 The material has generally been described as iron-rich, with other elements or slag-like inclusions. In summaries of the older work, the residue is treated less like a manufactured aerospace component and more like common terrestrial material altered by extreme heat. This is the uncomfortable middle ground that defines the case: the material is real enough to investigate, but its composition does not by itself look exotic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/37136826/What_do_we_Know_about_the_Material_Composition_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XR0JtbuLhPo" title="Professor Garry Nolan &amp; Ross Coulthart: Full interview | UFO UAP News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XR0JtbuLhPo" target="_blank" rel="noopener noreferrer">Professor Garry Nolan &amp; Ross Coulthart: Full interview | UFO UAP News</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 4.3M &middot; Uploaded: December 2023 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XR0JtbuLhPo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XR0JtbuLhPo">Open on YouTube</a></p></div></div></div>
 
@@ -307,8 +304,7 @@ That result narrows the debate. If someone argues that the Council Bluffs materi
 
 The analysis also found inhomogeneity, meaning the sample was not uniform throughout. That matters because a carefully engineered aerospace alloy would usually invite questions about consistent composition, manufacturing pattern and structural purpose. A mixed, slag-like or uneven sample is easier to reconcile with an industrial source, a heat reaction, scrap metal, furnace residue or a messy deposit than with a neatly designed component. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/is-improved-instrumental-techniques-nolan-vallee-jiang-lemke-2022-a-useful-paper.13286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34-Illustration-2-light.svg" | relative_url }}" alt="Council Bluffs illustration 2" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34-Illustration-2-dark.svg" | relative_url }}" alt="Council Bluffs illustration 2" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Mundane explanations and unresolved gaps
 
 The obvious mundane [explanations]({{ 'explanations/' | relative_url }}) have always had problems, which is why the case has not disappeared. A meteorite explanation is weak because iron meteorites normally contain much higher nickel levels than the Council Bluffs material, a point repeated in discussion of the 2022 paper and earlier analysis. Satellite debris is also unconvincing as a direct explanation: the famous Cosmos 954 nuclear-powered Soviet satellite re-entered over Canada on 24 January 1978, more than a month after Council Bluffs, and scattered radioactive debris across a huge northern area. Health Canada describes Cosmos 954 as a January 1978 crash in the Northwest Territories, not an Iowa event in December 1977. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/is-improved-instrumental-techniques-nolan-vallee-jiang-lemke-2022-a-useful-paper.13286/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -320,7 +316,6 @@ The hoax or thermite-style explanation is one of the more serious sceptical poss
 Yet the hoax explanation has its own gaps. It must explain why someone would create a dangerous molten-metal event in a public park, how the timing lined up with multiple witness reports, why no culprit or clear source emerged, and why local responders treated the event as unusual. A hoax is possible; it is not demonstrated simply by saying the material looks terrestrial.
 
 Industrial slag is another plausible category, especially because several analyses and summaries describe the material in terms compatible with slag-like residue or common metal. But slag still needs a delivery mechanism. Slag sitting at a furnace, foundry or industrial site is ordinary. Slag glowing hot in a park after witnesses report a falling light is the unresolved part. That is the difference between identifying the substance and explaining the event.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eze1ikq-sMQ" title="The New Era in UFO Research with Jacques Vallée" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eze1ikq-sMQ" target="_blank" rel="noopener noreferrer">The New Era in UFO Research with Jacques Vallée</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 43.6K &middot; Uploaded: January 2023 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eze1ikq-sMQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eze1ikq-sMQ">Open on YouTube</a></p></div></div></div>
 
@@ -334,17 +329,14 @@ The sceptical response has also become more detailed. Rather than simply mocking
 
 For Iowa’s UFO history, Council Bluffs is therefore best understood as a physical-trace debate, not a solved crash story. It sits between weak anecdote and conclusive evidence. Something hot and metallic was present; witnesses and responders made the case memorable; laboratories found ordinary elements rather than an obvious exotic alloy; and no mundane explanation has closed every gap in a way that satisfies both the local testimony and the material evidence.
 
-
-<img src="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34-Illustration-3-light.svg" | relative_url }}" alt="Council Bluffs illustration 3" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34-Illustration-3-dark.svg" | relative_url }}" alt="Council Bluffs illustration 3" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_council_bluffs_metal_86ce34-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Council Bluffs still matters in Iowa UFO history
 
 Council Bluffs remains Iowa’s landmark UFO-related incident because it forces a better standard of argument. A reader does not have to choose between “nothing happened” and “a spacecraft crashed”. The better reading is more careful: the incident involved a real local emergency, credible enough to draw police and fire attention, but the recovered metal points towards terrestrial material rather than extraordinary manufacture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thehistoricalsociety.org/h/ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thehistoricalsociety.org">[The Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thehistoricalsociety.org</span><span class="citation-popover-title">The Historical Society UFO Crash at Big Lake Park</span><span class="citation-popover-snippet">The Historical Society UFO Crash at Big Lake Park</span></span></span> Academia That makes the case valuable for the wider Iowa project. It shows how a state-level UFO case can be interesting without being conclusive. It <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/8412505/Physical_Analyses_in_Ten_Cases_of_Unexplained_Aerial_Objects_with_Material_Samples" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span> also shows why physical evidence is not automatically decisive. A sample can prove that a substance existed, show what it was made from, and rule out some claims, while still leaving the event sequence uncertain.
 
 The most honest classification is unresolved but constrained. Council Bluffs is not merely folklore, because the hot metal and official response are well attested in the public record. It is not proof of an exotic craft, because the material evidence does not require one. Its lasting importance lies in that tension: the Council Bluffs case is one of the rare Iowa UFO stories where the debate can be anchored to something that was reportedly still hot on the ground, yet the hardest question remains not what the metal was, but how and why it got there.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6We0GMqqoko" title="Implications of UFO Phenomena with Jacques Vallée" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6We0GMqqoko" target="_blank" rel="noopener noreferrer">Implications of UFO Phenomena with Jacques Vallée</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 15.7K &middot; Uploaded: December 2025 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6We0GMqqoko" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6We0GMqqoko">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -767,85 +759,85 @@ The most honest classification is unresolved but constrained. Council Bluffs is 
 
 1. <a id="endnote-1"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/8412505/Physical_Analyses_in_Ten_Cases_of_Unexplained_Aerial_Objects_with_Material_Samples](https://www.academia.edu/8412505/Physical_Analyses_in_Ten_Cases_of_Unexplained_Aerial_Objects_with_Material_Samples)  
+   Link: <a href="https://www.academia.edu/8412505/Physical_Analyses_in_Ten_Cases_of_Unexplained_Aerial_Objects_with_Material_Samples" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/8412505/Physical_Analyses_in_Ten_Cases_of_Unexplained_Aerial_Objects_with_Material_Samples</a>  
 
 2. <a id="endnote-2"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/is-improved-instrumental-techniques-nolan-vallee-jiang-lemke-2022-a-useful-paper.13286/](https://www.metabunk.org/threads/is-improved-instrumental-techniques-nolan-vallee-jiang-lemke-2022-a-useful-paper.13286/)  
+   Link: <a href="https://www.metabunk.org/threads/is-improved-instrumental-techniques-nolan-vallee-jiang-lemke-2022-a-useful-paper.13286/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/is-improved-instrumental-techniques-nolan-vallee-jiang-lemke-2022-a-useful-paper.13286/</a>  
 
 3. <a id="endnote-3"></a>
    Source: ui.adsabs.harvard.edu  
    Title: ADSImproved instrumental techniques, including isotopic  
-   Link: [https://ui.adsabs.harvard.edu/abs/2022PrAeS.12800788N/abstract](https://ui.adsabs.harvard.edu/abs/2022PrAeS.12800788N/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/2022PrAeS.12800788N/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2022PrAeS.12800788N/abstract</a>  
 
 4. <a id="endnote-4"></a>
    Source: medium.com  
    Title: An Inquiry into the Material Evidence of Non-Human  
-   Link: [https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103](https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103)  
+   Link: <a href="https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103</a>  
 
 5. <a id="endnote-5"></a>
    Source: canada.ca  
    Title: cosmos 954  
-   Link: [https://www.canada.ca/en/health-canada/services/health-risks-safety/radiation/radiological-nuclear-emergencies/previous-incidents-accidents/cosmos-954.html](https://www.canada.ca/en/health-canada/services/health-risks-safety/radiation/radiological-nuclear-emergencies/previous-incidents-accidents/cosmos-954.html)  
+   Link: <a href="https://www.canada.ca/en/health-canada/services/health-risks-safety/radiation/radiological-nuclear-emergencies/previous-incidents-accidents/cosmos-954.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/health-canada/services/health-risks-safety/radiation/radiological-nuclear-emergencies/previous-incidents-accidents/cosmos-954.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/37136826/What_do_we_Know_about_the_Material_Composition_of_UFOs](https://www.academia.edu/37136826/What_do_we_Know_about_the_Material_Composition_of_UFOs)  
+   Link: <a href="https://www.academia.edu/37136826/What_do_we_Know_about_the_Material_Composition_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/37136826/What_do_we_Know_about_the_Material_Composition_of_UFOs</a>  
 
 7. <a id="endnote-7"></a>
    Source: thehistoricalsociety.org  
    Title: The Historical Society UFO Crash at Big Lake Park  
-   Link: [https://www.thehistoricalsociety.org/h/ufo.html](https://www.thehistoricalsociety.org/h/ufo.html)  
+   Link: <a href="https://www.thehistoricalsociety.org/h/ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoricalsociety.org/h/ufo.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: kevinrandle.blogspot.com  
-   Link: [https://kevinrandle.blogspot.com/2024/08/given-what-we-have-learned-from.html](https://kevinrandle.blogspot.com/2024/08/given-what-we-have-learned-from.html)  
+   Link: <a href="https://kevinrandle.blogspot.com/2024/08/given-what-we-have-learned-from.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2024/08/given-what-we-have-learned-from.html</a>  
 
 9. <a id="endnote-9"></a>
    Source: kevinrandle.blogspot.com  
    Title: jacques vallee and ten unexplained ufo  
-   Link: [https://kevinrandle.blogspot.com/2021/12/jacques-vallee-and-ten-unexplained-ufo.html](https://kevinrandle.blogspot.com/2021/12/jacques-vallee-and-ten-unexplained-ufo.html)  
+   Link: <a href="https://kevinrandle.blogspot.com/2021/12/jacques-vallee-and-ten-unexplained-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2021/12/jacques-vallee-and-ten-unexplained-ufo.html</a>  
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Professor Garry Nolan & Ross Coulthart: Full interview | UFO UAP News  
-   Link: [https://www.youtube.com/watch?v=XR0JtbuLhPo](https://www.youtube.com/watch?v=XR0JtbuLhPo)  
+   Link: <a href="https://www.youtube.com/watch?v=XR0JtbuLhPo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XR0JtbuLhPo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Garry Nolan &quot;Testing Materials Recovered From UFO Crashes&quot;...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP](https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP)  
+   Link: <a href="https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395858774_Toward_a_Reliability_Scale_for_Assessing_Reports_of_Unidentified_Anomalous_Phenomena_UAP</a>  
 
 12. <a id="endnote-12"></a>
    Source: barnet.gov.uk  
-   Link: [https://www.barnet.gov.uk/](https://www.barnet.gov.uk/)  
+   Link: <a href="https://www.barnet.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.barnet.gov.uk/</a>  
 
 13. <a id="endnote-13"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/presentation/507021259/What-Do-We-Know-About-the-Material-Compo-1](https://www.scribd.com/presentation/507021259/What-Do-We-Know-About-the-Material-Compo-1)  
+   Link: <a href="https://www.scribd.com/presentation/507021259/What-Do-We-Know-About-the-Material-Compo-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/presentation/507021259/What-Do-We-Know-About-the-Material-Compo-1</a>  
 
 14. <a id="endnote-14"></a>
    Source: ealing.gov.uk  
-   Link: [https://www.ealing.gov.uk/](https://www.ealing.gov.uk/)  
+   Link: <a href="https://www.ealing.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.ealing.gov.uk/</a>  
 
 15. <a id="endnote-15"></a>
    Source: stanfordmag.org  
-   Link: [https://stanfordmag.org/contents/first-contact](https://stanfordmag.org/contents/first-contact)  
+   Link: <a href="https://stanfordmag.org/contents/first-contact" target="_blank" rel="noopener noreferrer nofollow">https://stanfordmag.org/contents/first-contact</a>  
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/s27hzr/i_managed_to_get_a_hold_of_the_paper_by_nolan/](https://www.reddit.com/r/UFOs/comments/s27hzr/i_managed_to_get_a_hold_of_the_paper_by_nolan/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/s27hzr/i_managed_to_get_a_hold_of_the_paper_by_nolan/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/s27hzr/i_managed_to_get_a_hold_of_the_paper_by_nolan/</a>  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OfficialUnsolvedMysteries/posts/its-only-fitting-for-unsolved-mysteries-to-cover-the-most-famous-ufo-case-of-all/850396467269029/](https://www.facebook.com/OfficialUnsolvedMysteries/posts/its-only-fitting-for-unsolved-mysteries-to-cover-the-most-famous-ufo-case-of-all/850396467269029/)  
+   Link: <a href="https://www.facebook.com/OfficialUnsolvedMysteries/posts/its-only-fitting-for-unsolved-mysteries-to-cover-the-most-famous-ufo-case-of-all/850396467269029/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OfficialUnsolvedMysteries/posts/its-only-fitting-for-unsolved-mysteries-to-cover-the-most-famous-ufo-case-of-all/850396467269029/</a>  
 
 18. <a id="endnote-18"></a>
    Source: lambeth.gov.uk  
-   Link: [https://www.lambeth.gov.uk/](https://www.lambeth.gov.uk/)  
+   Link: <a href="https://www.lambeth.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.lambeth.gov.uk/</a>  
 
 19. <a id="endnote-19"></a>
    Source: londoncouncils.gov.uk  
-   Link: [https://www.londoncouncils.gov.uk/node/171](https://www.londoncouncils.gov.uk/node/171)  
+   Link: <a href="https://www.londoncouncils.gov.uk/node/171" target="_blank" rel="noopener noreferrer nofollow">https://www.londoncouncils.gov.uk/node/171</a>

@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-iowas-ufo-cases/
 nav_short_title: Hotspots
 title: Where Do Iowa UFO Reports Cluster?
-title_full: Where Do Iowa UFO Reports Cluster? | Iowa UFOs
+title_full: Where Do Iowa UFO Reports Cluster?
 display_title_short: Hotspots
 display_title: Hotspots
 heading_title: Where Do Iowa UFO Reports Cluster?
@@ -262,8 +262,7 @@ image: /assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f-overview-social.jp
 
 ## Introduction
 
-Iowa’s UFO reporting hotspots are best read as reporting clusters, not proof of special aerial activity. The clearest modern pattern is simple: raw report totals gather around population centres such as Polk County and the Des Moines area, while per-person rates can make smaller counties, especially [Jefferson County]({{ 'jefferson-rate/' | relative_url }}), look more prominent. Axios Des Moines, using National UFO Reporting Center and Census data, reported at least 183 Polk County UFO reports since 2000, the highest raw county total in Iowa; but once population was considered, Polk dropped to 37th among Iowa’s 99 counties, while Jefferson County led at about 114 reports per 100,000 residents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-hotspots-desmoines-aliens-reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Charted: Iowa&#x27;s UFO hotspots</span><span class="citation-popover-snippet">Charted: Iowa&#x27;s UFO hotspots</span></span></span>
-
+Iowa’s UFO reporting hotspots are best read as reporting clusters, not proof of special aerial activity. The clearest modern pattern is simple: raw report totals gather around population centres such as Polk County and the Des Moines area, while per-person rates can make smaller counties, especially Jefferson County, look more prominent. Axios Des Moines, using National UFO Reporting Center and Census data, reported at least 183 Polk County UFO reports since 2000, the highest raw county total in Iowa; but once population was considered, Polk dropped to 37th among Iowa’s 99 counties, while Jefferson County led at about 114 reports per 100,000 residents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-hotspots-desmoines-aliens-reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Charted: Iowa&#x27;s UFO hotspots</span><span class="citation-popover-snippet">Charted: Iowa&#x27;s UFO hotspots</span></span></span>
 
 <img src="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f-overview.webp" | relative_url }}" alt="Overview image for Hotspots" loading="eager" decoding="sync" fetchpriority="high">
 That contrast matters because it changes how Iowa’s UFO map should be interpreted. A hotspot may mean more people, more night-time observers, better awareness of reporting databases, local interest in unusual sky stories, or a genuine run of puzzling sightings. Public databases are useful for spotting patterns, but they are not the same as verified investigative files. NUFORC’s Iowa listings show a long, varied stream of reports from cities, college towns, rural roads and river communities, but many entries remain brief witness narratives rather than independently confirmed events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State IA</span><span class="citation-popover-snippet">Reports for State IA</span></span></span>
@@ -276,10 +275,9 @@ The Census Bureau estimated Polk County’s population at 516,185 in July 2024 a
 
 Jefferson County is the opposite kind of hotspot. It does not dominate Iowa by population, but it rises sharply when reports are adjusted per resident. Axios identified Jefferson County as Iowa’s leading county by reports per 100,000 people, and a later local summary repeated the same approximate rate of 114 per 100,000. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/des-moines/2024/10/25/midwest-ufo-sightings-iowa-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">The Midwest is flyover country</span><span class="citation-popover-snippet">The Midwest is flyover country</span></span></span> That makes Jefferson County worth noticing, but the reason is not self-evident. A high per-capita rate in a smaller county can be driven by only a modest number of reports, especially if local residents are unusually willing to report, if a few incidents produce multiple submissions, or if a local community has a stronger culture of skywatching and alternative enquiry.
 
-City-level rankings tell a similar story. Stacker’s Iowa ranking, based on NUFORC data from 1995 onward, placed Des Moines first among Iowa cities, with Cedar Rapids, [Council Bluffs]({{ 'council-bluffs/' | relative_url }}) and Waterloo also high on the list according to a local summary of that dataset. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/iowa/cities-most-ufo-sightings-iowa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Iowa | Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Iowa | Stacker</span></span></span> These are not random names. They are places with sizeable populations, transport corridors, airports, regular outdoor events and more opportunities for people to notice aircraft, meteors, drones, satellites, fireworks, sky lanterns or unusual cloud-lit effects.
+City-level rankings tell a similar story. Stacker’s Iowa ranking, based on NUFORC data from 1995 onward, placed Des Moines first among Iowa cities, with Cedar Rapids, [Council Bluffs]({{ 'council-bluffs/' | relative_url }}) and Waterloo also high on the list according to a local summary of that dataset. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/iowa/cities-most-ufo-sightings-iowa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Iowa &#124; Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Iowa &#124; Stacker</span></span></span> These are not random names. They are places with sizeable populations, transport corridors, airports, regular outdoor events and more opportunities for people to notice aircraft, meteors, drones, satellites, fireworks, sky lanterns or unusual cloud-lit effects.
 
-
-<img src="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f-Illustration-1-light.svg" | relative_url }}" alt="Hotspots illustration 1" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f-Illustration-1-dark.svg" | relative_url }}" alt="Hotspots illustration 1" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why hotspots can reflect people as well as phenomena
 
 A UFO report begins with a person, not with a confirmed object. That sounds obvious, but it is the most important rule for reading Iowa’s hotspot map. Public UFO datasets count submitted observations. They do not automatically count separate unknown craft, verified anomalies, or scientifically controlled events. Axios made this point directly in its Iowa hotspot article, noting that NUFORC volunteers try to remove obvious hoaxes but that anyone can submit to the database. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-hotspots-desmoines-aliens-reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Charted: Iowa&#x27;s UFO hotspots</span><span class="citation-popover-snippet">Charted: Iowa&#x27;s UFO hotspots</span></span></span>
@@ -287,7 +285,6 @@ A UFO report begins with a person, not with a confirmed object. That sounds obvi
 The same caution appears in wider UAP research. NASA’s independent UAP study team warned that analysis is hampered by poor sensor calibration, lack of multiple measurements, missing sensor metadata and lack of baseline data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That problem applies strongly to county-level Iowa maps. A dot on a map may represent a sincere and puzzling observation, but without time-synchronised video, aircraft and satellite checks, weather data, direction, elevation, camera metadata and independent witnesses, it is hard to move from “reported” to “unresolved after investigation”.
 
 Several reporting effects can create the appearance of a hotspot:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -301,7 +298,6 @@ Several reporting effects can create the appearance of a hotspot:
 
 Iowa’s own NUFORC entries show how mixed the raw material is. The state page includes reports described as fireballs, lights, triangles, flashes, spheres, disks and unknown shapes, from places including Des Moines, Cedar Rapids, Fairfield, Council Bluffs, Iowa City, Ames, Ankeny, Waterloo, Red Oak and rural communities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lGA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> That variety is useful historically, but it is also a warning: one county’s “cluster” may be a blend of many different kinds of observation rather than one repeated phenomenon.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WAvtvrawdKc" title="Iowa organization investigating UFO sightings says 10% of reported cases determined unidentified" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WAvtvrawdKc" target="_blank" rel="noopener noreferrer">Iowa organization investigating UFO sightings says 10% of reported cases determined unidentified</a></p><p class="youtube-embed-meta">Channel: WQAD News 8 &middot; Views: 19.1K &middot; Uploaded: July 2023 &middot; Length: 2 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WAvtvrawdKc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WAvtvrawdKc">Open on YouTube</a></p></div></div></div>
 
 ## The Des Moines-area pattern is useful, but easy to overread
@@ -314,8 +310,7 @@ The Des Moines airport context also matters. The airport’s own unmanned aircra
 
 This is why individual Des Moines-area reports should be judged case by case. A report with several independent witnesses, a precise time, direction, duration, video metadata and matching radar or satellite checks is far more useful than an anonymous description of a bright object seen after dark. The hotspot label should encourage investigation, not replace it.
 
-
-<img src="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f-Illustration-2-light.svg" | relative_url }}" alt="Hotspots illustration 2" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f-Illustration-2-dark.svg" | relative_url }}" alt="Hotspots illustration 2" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Jefferson County shows the strength and weakness of per-capita maps
 
 Jefferson County’s high per-person rate is one of the most interesting details in modern Iowa UFO reporting. It prevents the map from being reduced to “big counties have more reports”. A small county can stand out when its residents submit more reports than expected for its size, and that can point researchers towards local history, community habits or a genuine run of unusual observations.
@@ -325,7 +320,6 @@ But per-capita maps can also exaggerate small-number effects. Jefferson County�
 Fairfield, the county seat, also appears in older NUFORC Iowa entries, including reports from the late 1990s and a fireball-type report from 1999. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lIN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> That is a useful local anchor, but not enough by itself to prove a persistent mystery. A serious county-level reading would look for repeated dates, similar descriptions, multiple witnesses, local press coverage, astronomy and meteor records, aircraft activity, and whether the same few people submitted several reports.
 
 Jefferson County therefore matters because it forces a more careful distinction between **volume** and **intensity**. Polk County has volume. Jefferson County has intensity when adjusted for population. Neither measure alone proves that Iowa has a physical UFO corridor; together, they show why hotspot maps need both raw counts and rate-based views.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rEQQY_BR8Ek" title="Where Can I Fly in Iowa? - Every Drone Law 2019 - Des Moines, Cedar Rapids (Episode 15)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rEQQY_BR8Ek" target="_blank" rel="noopener noreferrer">Where Can I Fly in Iowa? - Every Drone Law 2019 - Des Moines, Cedar Rapids (Episode 15)</a></p><p class="youtube-embed-meta">Channel: Nicholas Taylor &middot; Views: 949 &middot; Uploaded: March 2019 &middot; Length: 2 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rEQQY_BR8Ek" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rEQQY_BR8Ek">Open on YouTube</a></p></div></div></div>
 
@@ -339,13 +333,28 @@ Modern satellite constellations add another layer. Axios’s Midwest UAP reporti
 
 This means Iowa hotspot maps are not static historical artefacts. They can change as reporting platforms change, as drone use grows, as satellites become more visible, and as public interest in UAP rises after national news coverage. A county that looks quiet in one database may be more active in another; a “new wave” may partly reflect a new app, a viral news story or a widely seen astronomical event.
 
-
-<img src="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f-Illustration-3-light.svg" | relative_url }}" alt="Hotspots illustration 3" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f-Illustration-3-dark.svg" | relative_url }}" alt="Hotspots illustration 3" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_iowa_sighting_hotspo_9ac50f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read county-level UFO maps carefully
 
 County-level maps are useful when they are treated as starting points. They can show where reports are concentrated, where reporting is absent, and where a case researcher might compare multiple sightings. They become misleading when they are treated as direct maps of alien activity, secret flight paths or confirmed anomalies.
 
 A careful reader should ask three questions of any Iowa hotspot claim:
+
+1. **Is the claim based on raw totals or per-capita rates?** Polk County leads by raw count in the Axios analysis, but Jefferson County leads by reports per resident. Those are different claims and they answer different questions. [Axios](https://www.axios.com/local/des-moines/2024/10/25/midwest-ufo-sightings-iowa-uaps)
+2. **Are the reports independent and detailed?** Ten brief reports of a light seen after fireworks are weaker than three independent reports with matching time, direction, duration and supporting video.
+3. **Have ordinary [explanations]({{ 'explanations/' | relative_url }}) been checked?** The strongest first checks are aircraft, drones, satellites, meteors, fireworks, sky lanterns, planets, weather balloons, searchlights, camera reflections and local events.
+
+This cautious approach does not dismiss witnesses. It protects the best cases from being buried in noise. A sincere report from a farmer outside Fairfield, a commuter near Des Moines, or a student in Ames may deserve attention. But a hotspot map cannot tell us, by itself, whether the cause was extraordinary. It can only show where people reported something they could not identify.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Eb54ZwPYKFQ" title="Iowa Files: UFOs in Iowa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Eb54ZwPYKFQ" target="_blank" rel="noopener noreferrer">Iowa Files: UFOs in Iowa</a></p><p class="youtube-embed-meta">Channel: West Des Moines Historical Society &middot; Views: 2.9K &middot; Uploaded: June 2023 &middot; Length: 1 hour 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Eb54ZwPYKFQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Eb54ZwPYKFQ">Open on YouTube</a></p></div></div></div>
+
+## What Iowa’s hotspot pattern really adds to UFO history
+
+Iowa’s hotspot evidence adds a grounded, data-led layer to the state’s UFO history. The state has landmark individual cases, especially Council Bluffs in 1977, but the modern reporting map tells a different story: everyday reports accumulate around people, roads, cities, reporting tools and seasonal skywatching habits.
+
+That makes Iowa a useful corrective to more sensational UFO geography. The pattern is not simply “where the mystery is”. It is also “where observers are”, “where databases are known”, and “where ordinary sky phenomena are most likely to be noticed and described as strange”. Polk County, Jefferson County, Des Moines, Cedar Rapids, Council Bluffs and Waterloo all matter, but they matter for different reasons: population, per-capita intensity, local history, database visibility and recurring opportunities for misidentification.
+
+The best conclusion is balanced. Iowa has enough reports to justify serious local tracking, and some individual cases may remain unresolved because the data are incomplete. But the hotspot map itself does not show a confirmed hidden pattern in the sky. It shows a pattern of reporting — useful, revealing, sometimes puzzling, and always dependent on the people who looked up and decided the sight was strange enough to record.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -433,7 +442,7 @@ A careful reader should ask three questions of any Iowa hotspot claim:
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -443,111 +452,36 @@ A careful reader should ask three questions of any Iowa hotspot claim:
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-iowa-ufo-reports-cluster-ufo-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster" data-ebay-reference="where-do-iowa-ufo-reports-cluster-ufo-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MINISTRY OF MAGIC VISITORS WELCOME- Harry Potter Decal Vinyl Sticker Bomb Poster"><img src="https://i.ebayimg.com/images/g/mGYAAOSwHbZmcRrL/s-l225.jpg" alt="Listing image for MINISTRY OF MAGIC VISITORS WELCOME- Harry Potter Decal Vinyl Sticker Bomb Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-iowa-ufo-reports-cluster-ufo-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster" data-ebay-reference="where-do-iowa-ufo-reports-cluster-ufo-map-poster" target="_blank" rel="sponsored noopener noreferrer">MINISTRY OF MAGIC VISITORS WELCOME- Harry Potter Decal Vinyl Sticker Bomb Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-iowa-ufo-reports-cluster-ufo-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster" data-ebay-reference="where-do-iowa-ufo-reports-cluster-ufo-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-iowa-ufo-reports-cluster-ufo-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster" data-ebay-reference="where-do-iowa-ufo-reports-cluster-ufo-map-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -555,15 +489,15 @@ A careful reader should ask three questions of any Iowa hotspot claim:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-iowa-ufo-reports-cluster-ufo-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster" data-ebay-reference="where-do-iowa-ufo-reports-cluster-ufo-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO MISSOURI Travel Poster, Sci-fi St. Louis Kansas City Alien UAP Decor"><img src="https://i.ebayimg.com/images/g/~~0AAOSwf4hnXxf6/s-l225.jpg" alt="Listing image for Retro UFO MISSOURI Travel Poster, Sci-fi St. Louis Kansas City Alien UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-iowa-ufo-reports-cluster-ufo-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster" data-ebay-reference="where-do-iowa-ufo-reports-cluster-ufo-map-poster" target="_blank" rel="sponsored noopener noreferrer">Retro UFO MISSOURI Travel Poster, Sci-fi St. Louis Kansas City Alien UAP Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-iowa-ufo-reports-cluster-ufo-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster" data-ebay-reference="where-do-iowa-ufo-reports-cluster-ufo-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-iowa-ufo-reports-cluster-ufo-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster" data-ebay-reference="where-do-iowa-ufo-reports-cluster-ufo-map-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -571,15 +505,15 @@ A careful reader should ask three questions of any Iowa hotspot claim:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-iowa-ufo-reports-cluster-ufo-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster" data-ebay-reference="where-do-iowa-ufo-reports-cluster-ufo-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Map – Mid-20th Century City Known for 1947 UFO Incident"><img src="https://i.ebayimg.com/images/g/kt4AAeSw9JhodZ9s/s-l225.jpg" alt="Listing image for Roswell New Mexico Map – Mid-20th Century City Known for 1947 UFO Incident" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-iowa-ufo-reports-cluster-ufo-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster" data-ebay-reference="where-do-iowa-ufo-reports-cluster-ufo-map-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Map – Mid-20th Century City Known for 1947 UFO Incident</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-iowa-ufo-reports-cluster-ufo-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster" data-ebay-reference="where-do-iowa-ufo-reports-cluster-ufo-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-iowa-ufo-reports-cluster-ufo-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster" data-ebay-reference="where-do-iowa-ufo-reports-cluster-ufo-map-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -587,15 +521,15 @@ A careful reader should ask three questions of any Iowa hotspot claim:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-iowa-ufo-reports-cluster-ufo-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster" data-ebay-reference="where-do-iowa-ufo-reports-cluster-ufo-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stripes Movie Poster I Want You Bill Murray Reproduction Tin Metal Signs 8 x 12"><img src="https://i.ebayimg.com/images/g/x54AAOSw8TBoROnA/s-l225.jpg" alt="Listing image for Stripes Movie Poster I Want You Bill Murray Reproduction Tin Metal Signs 8 x 12" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-iowa-ufo-reports-cluster-ufo-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster" data-ebay-reference="where-do-iowa-ufo-reports-cluster-ufo-map-poster" target="_blank" rel="sponsored noopener noreferrer">Stripes Movie Poster I Want You Bill Murray Reproduction Tin Metal Signs 8 x 12</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-iowa-ufo-reports-cluster-ufo-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster" data-ebay-reference="where-do-iowa-ufo-reports-cluster-ufo-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo map poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-iowa-ufo-reports-cluster-ufo-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster" data-ebay-reference="where-do-iowa-ufo-reports-cluster-ufo-map-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -603,7 +537,7 @@ A careful reader should ask three questions of any Iowa hotspot claim:
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-where-do-iowa-ufo-reports-cluster-iowa-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-iowa-ufo-reports-cluster-ufo-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo map poster" data-ebay-reference="where-do-iowa-ufo-reports-cluster-ufo-map-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -680,17 +614,31 @@ A careful reader should ask three questions of any Iowa hotspot claim:
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -703,42 +651,73 @@ A careful reader should ask three questions of any Iowa hotspot claim:
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -753,210 +732,198 @@ A careful reader should ask three questions of any Iowa hotspot claim:
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
-1. **Is the claim based on raw totals or per-capita rates?** Polk County leads by raw count in the Axios analysis, but Jefferson County leads by reports per resident. Those are different claims and they answer different questions. [Axios](https://www.axios.com/local/des-moines/2024/10/25/midwest-ufo-sightings-iowa-uaps)
-2. **Are the reports independent and detailed?** Ten brief reports of a light seen after fireworks are weaker than three independent reports with matching time, direction, duration and supporting video.
-3. **Have ordinary [explanations]({{ 'explanations/' | relative_url }}) been checked?** The strongest first checks are aircraft, drones, satellites, meteors, fireworks, sky lanterns, planets, weather balloons, searchlights, camera reflections and local events.
-
-This cautious approach does not dismiss witnesses. It protects the best cases from being buried in noise. A sincere report from a farmer outside Fairfield, a commuter near Des Moines, or a student in Ames may deserve attention. But a hotspot map cannot tell us, by itself, whether the cause was extraordinary. It can only show where people reported something they could not identify.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Eb54ZwPYKFQ" title="Iowa Files: UFOs in Iowa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Eb54ZwPYKFQ" target="_blank" rel="noopener noreferrer">Iowa Files: UFOs in Iowa</a></p><p class="youtube-embed-meta">Channel: West Des Moines Historical Society &middot; Views: 2.9K &middot; Uploaded: June 2023 &middot; Length: 1 hour 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Eb54ZwPYKFQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Eb54ZwPYKFQ">Open on YouTube</a></p></div></div></div>
-
-## What Iowa’s hotspot pattern really adds to UFO history
-
-Iowa’s hotspot evidence adds a grounded, data-led layer to the state’s UFO history. The state has landmark individual cases, especially Council Bluffs in 1977, but the modern reporting map tells a different story: everyday reports accumulate around people, roads, cities, reporting tools and seasonal skywatching habits.
-
-That makes Iowa a useful corrective to more sensational UFO geography. The pattern is not simply “where the mystery is”. It is also “where observers are”, “where databases are known”, and “where ordinary sky phenomena are most likely to be noticed and described as strange”. Polk County, Jefferson County, Des Moines, Cedar Rapids, Council Bluffs and Waterloo all matter, but they matter for different reasons: population, per-capita intensity, local history, database visibility and recurring opportunities for misidentification.
-
-The best conclusion is balanced. Iowa has enough reports to justify serious local tracking, and some individual cases may remain unresolved because the data are incomplete. But the hotspot map itself does not show a confirmed hidden pattern in the sky. It shows a pattern of reporting — useful, revealing, sometimes puzzling, and always dependent on the people who looked up and decided the sight was strange enough to record.
 
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: axios.com  
    Title: Charted: Iowa's UFO hotspots  
-   Link: [https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-hotspots-desmoines-aliens-reports](https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-hotspots-desmoines-aliens-reports)  
+   Link: <a href="https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-hotspots-desmoines-aliens-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/des-moines/2024/02/12/charted-iowas-ufo-hotspots-desmoines-aliens-reports</a>  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Reports for State IA  
-   Link: [https://nuforc.org/subndx/?id=lIA](https://nuforc.org/subndx/?id=lIA)  
+   Link: <a href="https://nuforc.org/subndx/?id=lIA" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lIA</a>  
 
 3. <a id="endnote-3"></a>
    Source: census.gov  
    Title: U.S. Census Bureau Quick Facts: Polk County, Iowa Table; Population estimates,  
-   Link: [https://www.census.gov/quickfacts/fact/table/polkcountyiowa/PST045224](https://www.census.gov/quickfacts/fact/table/polkcountyiowa/PST045224)  
+   Link: <a href="https://www.census.gov/quickfacts/fact/table/polkcountyiowa/PST045224" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/quickfacts/fact/table/polkcountyiowa/PST045224</a>  
 
 4. <a id="endnote-4"></a>
    Source: stacker.com  
    Title: Cities With the Most UFO Sightings in Iowa | Stacker  
-   Link: [https://stacker.com/stories/iowa/cities-most-ufo-sightings-iowa](https://stacker.com/stories/iowa/cities-most-ufo-sightings-iowa)  
+   Link: <a href="https://stacker.com/stories/iowa/cities-most-ufo-sightings-iowa" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/iowa/cities-most-ufo-sightings-iowa</a>  
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: census.gov  
-   Link: [https://www.census.gov/quickfacts/fact/table/jeffersoncountyiowa/POP060210](https://www.census.gov/quickfacts/fact/table/jeffersoncountyiowa/POP060210)  
+   Link: <a href="https://www.census.gov/quickfacts/fact/table/jeffersoncountyiowa/POP060210" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/quickfacts/fact/table/jeffersoncountyiowa/POP060210</a>  
 
 7. <a id="endnote-7"></a>
    Source: axios.com  
    Title: Iowans have reported seeing more than 1,100 UFOs  
-   Link: [https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos](https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos)  
+   Link: <a href="https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/des-moines/2022/07/28/iowans-reported-seeing-ufos</a>  
 
 8. <a id="endnote-8"></a>
    Source: axios.com  
    Title: The Midwest is flyover country  
-   Link: [https://www.axios.com/local/des-moines/2024/10/25/midwest-ufo-sightings-iowa-uaps](https://www.axios.com/local/des-moines/2024/10/25/midwest-ufo-sightings-iowa-uaps)  
+   Link: <a href="https://www.axios.com/local/des-moines/2024/10/25/midwest-ufo-sightings-iowa-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/des-moines/2024/10/25/midwest-ufo-sightings-iowa-uaps</a>  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lGA](https://nuforc.org/subndx/?id=lGA)  
+   Link: <a href="https://nuforc.org/subndx/?id=lGA" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lGA</a>  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location NUFORC Reports by Location; USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lIN](https://nuforc.org/subndx/?id=lIN)  
+   Link: <a href="https://nuforc.org/subndx/?id=lIN" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lIN</a>  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=156528](https://nuforc.org/sighting/?id=156528)  
+   Link: <a href="https://nuforc.org/sighting/?id=156528" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=156528</a>  
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=54911](https://nuforc.org/sighting/?id=54911)  
+   Link: <a href="https://nuforc.org/sighting/?id=54911" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=54911</a>  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=e202512](https://nuforc.org/subndx/?id=e202512)  
+   Link: <a href="https://nuforc.org/subndx/?id=e202512" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e202512</a>  
 
 18. <a id="endnote-18"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 19. <a id="endnote-19"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/find-a-chapter/](https://mufon.com/find-a-chapter/)  
+   Link: <a href="https://mufon.com/find-a-chapter/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/find-a-chapter/</a>  
 
 20. <a id="endnote-20"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/2023/07/27/in-the-news-im-convinced-that-theres-something-to-it-iowa-ufo-investigator-details-documented-sightings/](https://mufon.com/2023/07/27/in-the-news-im-convinced-that-theres-something-to-it-iowa-ufo-investigator-details-documented-sightings/)  
+   Link: <a href="https://mufon.com/2023/07/27/in-the-news-im-convinced-that-theres-something-to-it-iowa-ufo-investigator-details-documented-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/2023/07/27/in-the-news-im-convinced-that-theres-something-to-it-iowa-ufo-investigator-details-documented-sightings/</a>  
 
 21. <a id="endnote-21"></a>
    Source: census.gov  
    Title: 2020s counties total  
-   Link: [https://www.census.gov/data/tables/time-series/demo/popest/2020s-counties-total.html](https://www.census.gov/data/tables/time-series/demo/popest/2020s-counties-total.html)  
+   Link: <a href="https://www.census.gov/data/tables/time-series/demo/popest/2020s-counties-total.html" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/data/tables/time-series/demo/popest/2020s-counties-total.html</a>  
 
 22. <a id="endnote-22"></a>
    Source: census.gov  
    Title: state by state  
-   Link: [https://www.census.gov/library/stories/state-by-state.html](https://www.census.gov/library/stories/state-by-state.html)  
+   Link: <a href="https://www.census.gov/library/stories/state-by-state.html" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/library/stories/state-by-state.html</a>  
 
 23. <a id="endnote-23"></a>
    Source: sos.iowa.gov  
-   Link: [https://sos.iowa.gov/elections/pdf/2020census/counties.pdf](https://sos.iowa.gov/elections/pdf/2020census/counties.pdf)  
+   Link: <a href="https://sos.iowa.gov/elections/pdf/2020census/counties.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sos.iowa.gov/elections/pdf/2020census/counties.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: news.sky.com  
    Title: ufo meeting live nasa panel to examine recent sightings for first time 12893723  
-   Link: [https://news.sky.com/story/ufo-meeting-live-nasa-panel-to-examine-recent-sightings-for-first-time-12893723](https://news.sky.com/story/ufo-meeting-live-nasa-panel-to-examine-recent-sightings-for-first-time-12893723)  
+   Link: <a href="https://news.sky.com/story/ufo-meeting-live-nasa-panel-to-examine-recent-sightings-for-first-time-12893723" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-meeting-live-nasa-panel-to-examine-recent-sightings-for-first-time-12893723</a>  
 
 25. <a id="endnote-25"></a>
    Source: flydsm.com  
-   Link: [https://www.flydsm.com/airport-business/operations/unmanned-aerial-systems](https://www.flydsm.com/airport-business/operations/unmanned-aerial-systems)  
+   Link: <a href="https://www.flydsm.com/airport-business/operations/unmanned-aerial-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.flydsm.com/airport-business/operations/unmanned-aerial-systems</a>  
 
 26. <a id="endnote-26"></a>
    Source: amsmeteors.org  
-   Link: [https://amsmeteors.org/fireballs/faqf/](https://amsmeteors.org/fireballs/faqf/)  
+   Link: <a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
 
 27. <a id="endnote-27"></a>
    Source: amsmeteors.org  
-   Link: [https://www.amsmeteors.org/](https://www.amsmeteors.org/)  
+   Link: <a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
 
 28. <a id="endnote-28"></a>
    Source: worldpopulationreview.com  
    Title: polk county  
-   Link: [https://worldpopulationreview.com/us-counties/iowa/polk-county](https://worldpopulationreview.com/us-counties/iowa/polk-county)  
+   Link: <a href="https://worldpopulationreview.com/us-counties/iowa/polk-county" target="_blank" rel="noopener noreferrer nofollow">https://worldpopulationreview.com/us-counties/iowa/polk-county</a>  
 
 29. <a id="endnote-29"></a>
    Source: excelexercises.com  
-   Link: [https://excelexercises.com/UFOData.xlsx](https://excelexercises.com/UFOData.xlsx)  
+   Link: <a href="https://excelexercises.com/UFOData.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://excelexercises.com/UFOData.xlsx</a>  
 
 30. <a id="endnote-30"></a>
    Source: scistarter.org  
    Title: American Meteor Society  
-   Link: [https://scistarter.org/american-meteor-society-meteor-observing](https://scistarter.org/american-meteor-society-meteor-observing)  
+   Link: <a href="https://scistarter.org/american-meteor-society-meteor-observing" target="_blank" rel="noopener noreferrer nofollow">https://scistarter.org/american-meteor-society-meteor-observing</a>  
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=WAvtvrawdKc](https://www.youtube.com/watch?v=WAvtvrawdKc)  
+   Link: <a href="https://www.youtube.com/watch?v=WAvtvrawdKc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WAvtvrawdKc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>KCCI Archive: Go UFO hunting in Iowa in 1993...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/](https://www.faa.gov/)  
+   Link: <a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
 
 33. <a id="endnote-33"></a>
    Source: polkcountyiowa.gov  
-   Link: [https://www.polkcountyiowa.gov/health-department/reports-data/polk-county-census-profile/](https://www.polkcountyiowa.gov/health-department/reports-data/polk-county-census-profile/)  
+   Link: <a href="https://www.polkcountyiowa.gov/health-department/reports-data/polk-county-census-profile/" target="_blank" rel="noopener noreferrer nofollow">https://www.polkcountyiowa.gov/health-department/reports-data/polk-county-census-profile/</a>  
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: Iowa Files: UFOs in Iowa  
-   Link: [https://www.youtube.com/watch?v=Eb54ZwPYKFQ](https://www.youtube.com/watch?v=Eb54ZwPYKFQ)  
+   Link: <a href="https://www.youtube.com/watch?v=Eb54ZwPYKFQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Eb54ZwPYKFQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Iowa organization investigating UFO sightings says 10% of reported cases determined unidentified...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/baltimoresun/posts/a-ranking-of-the-states-with-the-most-reported-ufo-sightings-using-data-from-nuf/10159481222309712/](https://www.facebook.com/baltimoresun/posts/a-ranking-of-the-states-with-the-most-reported-ufo-sightings-using-data-from-nuf/10159481222309712/)  
+   Link: <a href="https://www.facebook.com/baltimoresun/posts/a-ranking-of-the-states-with-the-most-reported-ufo-sightings-using-data-from-nuf/10159481222309712/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/baltimoresun/posts/a-ranking-of-the-states-with-the-most-reported-ufo-sightings-using-data-from-nuf/10159481222309712/</a>  
 
 36. <a id="endnote-36"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf</a>  
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/oilcitywyo/posts/according-to-the-american-meteor-society-website-the-object-was-reportedly-seen-/1518170746982700/](https://www.facebook.com/oilcitywyo/posts/according-to-the-american-meteor-society-website-the-object-was-reportedly-seen-/1518170746982700/)  
+   Link: <a href="https://www.facebook.com/oilcitywyo/posts/according-to-the-american-meteor-society-website-the-object-was-reportedly-seen-/1518170746982700/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/oilcitywyo/posts/according-to-the-american-meteor-society-website-the-object-was-reportedly-seen-/1518170746982700/</a>  
 
 38. <a id="endnote-38"></a>
    Source: iowadatacenter.org  
-   Link: [https://www.iowadatacenter.org/index.php/data-by-source/population-estimates](https://www.iowadatacenter.org/index.php/data-by-source/population-estimates)  
+   Link: <a href="https://www.iowadatacenter.org/index.php/data-by-source/population-estimates" target="_blank" rel="noopener noreferrer nofollow">https://www.iowadatacenter.org/index.php/data-by-source/population-estimates</a>  
 
 39. <a id="endnote-39"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Iowa/comments/1s56x6r/census_data_released_for_all_us_counties/](https://www.reddit.com/r/Iowa/comments/1s56x6r/census_data_released_for_all_us_counties/)  
+   Link: <a href="https://www.reddit.com/r/Iowa/comments/1s56x6r/census_data_released_for_all_us_counties/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Iowa/comments/1s56x6r/census_data_released_for_all_us_counties/</a>  
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheLongIslandWiseGuy/videos/evidently-the-bird-was-not-the-main-character-currently-the-american-meteor-soci/959749483664324/](https://www.facebook.com/TheLongIslandWiseGuy/videos/evidently-the-bird-was-not-the-main-character-currently-the-american-meteor-soci/959749483664324/)  
+   Link: <a href="https://www.facebook.com/TheLongIslandWiseGuy/videos/evidently-the-bird-was-not-the-main-character-currently-the-american-meteor-soci/959749483664324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheLongIslandWiseGuy/videos/evidently-the-bird-was-not-the-main-character-currently-the-american-meteor-soci/959749483664324/</a>

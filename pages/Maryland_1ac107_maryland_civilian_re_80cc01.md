@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /marylands-ufo-mysteries-close-encounters/
 nav_short_title: City Sightings
 title: Where Are UFOs Most Reported in Maryland Today?
-title_full: Where Are UFOs Most Reported in Maryland Today? | Maryland UFOs
+title_full: Where Are UFOs Most Reported in Maryland Today?
 display_title_short: City Sightings
 display_title: City Sightings
 heading_title: Where Are UFOs Most Reported in Maryland Today?
@@ -268,21 +268,19 @@ image: /assets/images/Maryland_1ac107_maryland_civilian_re_80cc01-overview-socia
 
 ## Introduction
 
-Modern civilian reports of unidentified flying objects (UFOs) — or **unidentified aerial phenomena (UAP)** in contemporary parlance — continue to emerge from across *[Maryland]({{ 'marylands-ufo-mysteries-close-encounters/' | relative_url }})’s towns and cities*, often drawing attention because of unfamiliar motion, unusual light patterns, or behaviour that local witnesses cannot readily explain. A substantial body of data from volunteer‑run reporting platforms shows that residents from urban corridors like **Baltimore** to coastal towns like **Ocean City** have submitted detailed sightings in recent years. These modern reports are neither official confirmations of extraterrestrial craft nor dismissals as misidentified aircraft; rather, they represent *public witness patterns and reporting trends* that illuminate how civilian observers interpret unfamiliar aerial events in Maryland’s skies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=192170" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 192170September 16, 2025...</span><span class="citation-popover-meta">Published: September 16, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=186364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 186364...</span></span></span>
-
+Modern civilian reports of unidentified flying objects (UFOs) — or **unidentified aerial phenomena (UAP)** in contemporary parlance — continue to emerge from across *Maryland’s towns and cities*, often drawing attention because of unfamiliar motion, unusual light patterns, or behaviour that local witnesses cannot readily explain. A substantial body of data from volunteer‑run reporting platforms shows that residents from urban corridors like **Baltimore** to coastal towns like **Ocean City** have submitted detailed sightings in recent years. These modern reports are neither official confirmations of extraterrestrial craft nor dismissals as misidentified aircraft; rather, they represent *public witness patterns and reporting trends* that illuminate how civilian observers interpret unfamiliar aerial events in Maryland’s skies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=192170" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 192170September 16, 2025...</span><span class="citation-popover-meta">Published: September 16, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=186364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 186364...</span></span></span>
 
 <img src="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01-overview.webp" | relative_url }}" alt="Overview image for City Sightings" loading="eager" decoding="sync" fetchpriority="high">
 ## Baltimore and Chesapeake Region Clusters
 
 In cities like **Baltimore** and nearby port areas, multiple civilian sightings describe unusual lights or shapes over the urban skyline or harbour:
 
-* **[Baltimore port]({{ 'baltimore-port/' | relative_url }}) sighting (June 2024):** A pilot flying into the region reported seeing two *disk‑shaped objects* with lights hovering in cloud cover near the port before their aircraft passed. The report noted stationary positioning and orbiting light patterns, though the submitter later acknowledged the possibility of aircraft explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">NUFORCData Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
+* **[Baltimore port]({{ 'baltimore-port/' | relative_url }}) sighting (June 2024):** A pilot flying into the region reported seeing two *disk‑shaped objects* with lights hovering in cloud cover near the port before their aircraft passed. The report noted stationary positioning and orbiting light patterns, though the submitter later acknowledged the possibility of aircraft explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
 * **Daily citizen reports:** Independent databases list numerous Maryland sightings from the Baltimore metro area, including bright manoeuvring lights, slow‑moving or hovering objects, and clustered formations over city suburbs. Examples span **Easton, District Heights, Upper Marlboro, and Kingsville**, showing a geographic spread of reported experiences within the wider Chesapeake corridor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoindex.com/maryland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[ufoindex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">Maryland UFO Reports</span><span class="citation-popover-snippet">Maryland UFO Reports</span></span></span>
 
 These clusters reflect not just random events but *areas with high population density and active reporting*, which tends to produce more entries in civilian databases. However, without corroborative radar data or independent confirmation, most of these remain *unresolved eyewitness accounts* rather than confirmed phenomena.
 
-
-<img src="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01-Illustration-1-light.svg" | relative_url }}" alt="City Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01-Illustration-1-dark.svg" | relative_url }}" alt="City Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Coastal and Suburban Sightings
 
 Along Maryland’s **coastal and suburban belt**, civilian reports often describe strange lights or movements above water or twilight skies:
@@ -292,7 +290,6 @@ Along Maryland’s **coastal and suburban belt**, civilian reports often describ
 
 Witnesses in these settings often describe experiences that *defy immediate identification* but remain ambiguous when analysed post hoc: some may be explainable as satellites, aircraft lights, drones, or atmospheric effects once broader context (flight paths, astronomical positions, weather) is considered.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tlbayqTFyjk" title="Concerns grow over drone sightings in New Jersey and Maryland" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tlbayqTFyjk" target="_blank" rel="noopener noreferrer">Concerns grow over drone sightings in New Jersey and Maryland</a></p><p class="youtube-embed-meta">Channel: TODAY &middot; Views: 162.6K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tlbayqTFyjk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tlbayqTFyjk">Open on YouTube</a></p></div></div></div>
 
 ## Trends in Reporting and Database Limitations
@@ -301,30 +298,26 @@ Modern civilian sightings in Maryland must be understood through the lens of **v
 
 * **Sustained reporting volume:** NUFORC’s index shows **nearly 2,000 reported events** from Maryland stretching back decades, with many recent submissions in the past few years alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/baltimore/news/maryland-ufo-uap-sightings-congress-nasa-investigation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsMysteries in the Sky: Hundreds in Maryland report UFO sightings as Congress, NASA investigate, push for transparency - CBS Baltim...</span></span></span>
 * **Citizen witness characteristics:** Many reports are detailed firsthand narratives describing lights, shapes, or motion patterns. However, the database entries typically *lack corroborative sensors, photos, or radar records* that might elevate them from anecdote to analysed case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=42174" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 42174April 16, 2005 — NUFORC UFO SIGHTING 42174 Occurred: 1970-06-10 21:00 Local - Approximate Reported: 2005-02-24 1...</span><span class="citation-popover-meta">Published: February 24, 2005</span></span></span>
-* **No inherent validation:** NUFORC and similar platforms make **no claim about the veracity** or explanation of the reports; rather, they archive them for public interest. This means numbers reflect *reporting culture* as much as any physical phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=192170" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 192170September 16, 2025...</span><span class="citation-popover-meta">Published: September 16, 2025</span></span></span>
+* **No inherent validation:** NUFORC and similar platforms make **no claim about the veracity** or explanation of the reports; rather, they archive them for public interest. This means numbers reflect *reporting culture* as much as any physical phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=192170" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 192170September 16, 2025...</span><span class="citation-popover-meta">Published: September 16, 2025</span></span></span>
 
 Because of these limitations, analysts stress caution: a report labelled “UFO” signals *unidentified at the time of submission*, not necessarily *unexplainable after investigation*. Many sightings may later correlate with commercial aircraft, drones, satellites, or atmospheric phenomena once additional context is obtained.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3bepozDGheY" title="See all the UFO videos that the U.S. government just released" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3bepozDGheY" target="_blank" rel="noopener noreferrer">See all the UFO videos that the U.S. government just released</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 193.0K &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3bepozDGheY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3bepozDGheY">Open on YouTube</a></p></div></div></div>
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2MhbJ6EUp08" title="Drone sightings reported across parts of Maryland" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2MhbJ6EUp08" target="_blank" rel="noopener noreferrer">Drone sightings reported across parts of Maryland</a></p><p class="youtube-embed-meta">Channel: WBAL-TV 11 Baltimore &middot; Views: 41.2K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2MhbJ6EUp08" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2MhbJ6EUp08">Open on YouTube</a></p></div></div></div>
+<img src="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01-Illustration-3-dark.svg" | relative_url }}" alt="City Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-
-<img src="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01-Illustration-3-light.svg" | relative_url }}" alt="City Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<img src="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01-Illustration-2-light.svg" | relative_url }}" alt="City Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01-Illustration-2-dark.svg" | relative_url }}" alt="City Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Balancing Patterns and Plausibility
 
 When examining contemporary civilian reports across Maryland cities, several balanced observations emerge:
 
 * **Urban and coastal bias:** Higher populations and frequent skywatching correlate with more submissions from cities like Baltimore and popular seasonal locations like Ocean City. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoindex.com/maryland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[ufoindex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">Maryland UFO Reports</span><span class="citation-popover-snippet">Maryland UFO Reports</span></span></span>
-* **Ambiguous but meaningful descriptions:** Witnesses often note unusual characteristics — duration, motion, formation — that pique curiosity. Yet, lacking correlating instrument data, most reports remain *unverified*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=186364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 186364...</span></span></span>
+* **Ambiguous but meaningful descriptions:** Witnesses often note unusual characteristics — duration, motion, formation — that pique curiosity. Yet, lacking correlating instrument data, most reports remain *unverified*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=186364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 186364...</span></span></span>
 * **Cultural and observational context:** Increased public awareness of UAP/UFO topics and active reporting platforms likely contribute to higher submission rates, as observers feel more comfortable logging unusual sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/baltimore/news/maryland-ufo-uap-sightings-congress-nasa-investigation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsMysteries in the Sky: Hundreds in Maryland report UFO sightings as Congress, NASA investigate, push for transparency - CBS Baltim...</span></span></span>
 
-In sum, modern civilian UFO reports across Maryland cities map a **pattern of active public observation and reporting** rather than a catalogue of confirmed unexplained craft. These reports are valuable cultural and phenomenological records, signalling where eyewitnesses have encountered aerial events they could not immediately identify — but most lack the independent evidence necessary to conclude extraordinary origins. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">NUFORCData Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
-
+In sum, modern civilian UFO reports across Maryland cities map a **pattern of active public observation and reporting** rather than a catalogue of confirmed unexplained craft. These reports are valuable cultural and phenomenological records, signalling where eyewitnesses have encountered aerial events they could not immediately identify — but most lack the independent evidence necessary to conclude extraordinary origins. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mZWrqWgOAeU" title="Former Gov. Larry Hogan reports seeing drones outside his Maryland home" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mZWrqWgOAeU" target="_blank" rel="noopener noreferrer">Former Gov. Larry Hogan reports seeing drones outside his Maryland home</a></p><p class="youtube-embed-meta">Channel: WUSA9 &middot; Views: 63.9K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mZWrqWgOAeU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mZWrqWgOAeU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -747,48 +740,48 @@ In sum, modern civilian UFO reports across Maryland cities map a **pattern of ac
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=192170](https://nuforc.org/sighting/?id=192170)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 192170September 16, 2025...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=192170" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=192170</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 192170September 16, 2025...</p></details>
    Published: September 16, 2025  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=186364](https://nuforc.org/sighting/?id=186364)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 186364...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=186364" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=186364</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 186364...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ufoindex.com  
    Title: Maryland UFO Reports  
-   Link: [https://www.ufoindex.com/maryland](https://www.ufoindex.com/maryland)  
+   Link: <a href="https://www.ufoindex.com/maryland" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/maryland</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCData Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021...</p></details>
    Published: September 6, 2021  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=122288](https://nuforc.org/sighting/?id=122288)  
+   Link: <a href="https://nuforc.org/sighting/?id=122288" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=122288</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 122288September 29, 2015 — NUFORC UFO SIGHTING 122288 Occurred: 2015-08-15 09:30 Local Reported: 2015-09-26 11:29 Pac...</p></details>
    Published: August 15, 2015  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=42174](https://nuforc.org/sighting/?id=42174)  
+   Link: <a href="https://nuforc.org/sighting/?id=42174" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=42174</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 42174April 16, 2005 — NUFORC UFO SIGHTING 42174 Occurred: 1970-06-10 21:00 Local - Approximate Reported: 2005-02-24 1...</p></details>
    Published: February 24, 2005  
 
 7. <a id="endnote-7"></a>
    Source: cbsnews.com  
-   Link: [https://www.cbsnews.com/baltimore/news/maryland-ufo-uap-sightings-congress-nasa-investigation/](https://www.cbsnews.com/baltimore/news/maryland-ufo-uap-sightings-congress-nasa-investigation/)  
+   Link: <a href="https://www.cbsnews.com/baltimore/news/maryland-ufo-uap-sightings-congress-nasa-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/baltimore/news/maryland-ufo-uap-sightings-congress-nasa-investigation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsMysteries in the Sky: Hundreds in Maryland report UFO sightings as Congress, NASA investigate, push for transparency - CBS Baltim...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cbsnews.com  
    Title: maryland ufo sightings  
-   Link: [https://www.cbsnews.com/baltimore/news/maryland-ufo-sightings/](https://www.cbsnews.com/baltimore/news/maryland-ufo-sightings/)  
+   Link: <a href="https://www.cbsnews.com/baltimore/news/maryland-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/baltimore/news/maryland-ufo-sightings/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>25 UFO Sightings Reported In Maryland During 2018 So Far - CBS BaltimoreJuly 15, 2018 — 25 UFO SIGHTINGS REPORTED IN MARYLAND DURING 2018...</p></details>
    Published: July 15, 2018  
 
@@ -797,63 +790,63 @@ In sum, modern civilian UFO reports across Maryland cities map a **pattern of ac
 9. <a id="endnote-9"></a>
    Source: thebaynet.com  
    Title: UF O Sightings Reported Across Maryland As Pentagon Opens Public Archive  
-   Link: [https://thebaynet.com/ufo-sightings-reported-across-maryland-as-pentagon-opens-public-archive/](https://thebaynet.com/ufo-sightings-reported-across-maryland-as-pentagon-opens-public-archive/)  
+   Link: <a href="https://thebaynet.com/ufo-sightings-reported-across-maryland-as-pentagon-opens-public-archive/" target="_blank" rel="noopener noreferrer nofollow">https://thebaynet.com/ufo-sightings-reported-across-maryland-as-pentagon-opens-public-archive/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Reported Across Maryland As Pentagon Opens Public Archive - The BayNetMay 23, 2026 — UFO SIGHTINGS REPORTED ACROSS MARYLAND...</p></details>
    Published: May 23, 2026  
 
 10. <a id="endnote-10"></a>
    Source: sciencetimes.com  
    Title: marylands unexplained skies ufo hotspot 2 000 sightings 1990s  
-   Link: [https://www.sciencetimes.com/articles/46387/20231006/marylands-unexplained-skies-ufo-hotspot-2-000-sightings-1990s.htm](https://www.sciencetimes.com/articles/46387/20231006/marylands-unexplained-skies-ufo-hotspot-2-000-sightings-1990s.htm)  
+   Link: <a href="https://www.sciencetimes.com/articles/46387/20231006/marylands-unexplained-skies-ufo-hotspot-2-000-sightings-1990s.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencetimes.com/articles/46387/20231006/marylands-unexplained-skies-ufo-hotspot-2-000-sightings-1990s.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Maryland&#x27;s Unexplained Skies: UFO Hotspot With 2,000 Sightings Since the 1990sOctober 6, 2023 — MARYLAND’S UNEXPLAINED SKIES: UFO HOTSPOT...</p></details>
    Published: October 6, 2023  
 
 11. <a id="endnote-11"></a>
    Source: mapsquatch.com  
-   Link: [https://mapsquatch.com/state/MD](https://mapsquatch.com/state/MD)  
+   Link: <a href="https://mapsquatch.com/state/MD" target="_blank" rel="noopener noreferrer nofollow">https://mapsquatch.com/state/MD</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>* For Maryland&#x27;s most recently available data (2014), there were 1 bigfoot sighting. T...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: outkick.com  
    Title: Nearly 2,000 UFO Sightings Reported In Maryland  
-   Link: [https://www.outkick.com/culture/nearly-2000-ufo-sightings-reported-in-maryland](https://www.outkick.com/culture/nearly-2000-ufo-sightings-reported-in-maryland)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>outkick | OutKickOctober 6, 2023 — NEARLY 2,000 UFO SIGHTINGS REPORTED IN MARYLAND David Hookstead PublishedOctober 6, 2023 11:29 AM EDT•...</p></details>
+   Link: <a href="https://www.outkick.com/culture/nearly-2000-ufo-sightings-reported-in-maryland" target="_blank" rel="noopener noreferrer nofollow">https://www.outkick.com/culture/nearly-2000-ufo-sightings-reported-in-maryland</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>OutKickOctober 6, 2023 — NEARLY 2,000 UFO SIGHTINGS REPORTED IN MARYLAND David Hookstead PublishedOctober 6, 2023 11:29 AM EDT•...</p></details>
    Published: October 6, 2023  
 
 13. <a id="endnote-13"></a>
    Source: the-express.com  
    Title: usa ufo hotspot maryland 2000 sightings  
-   Link: [https://www.the-express.com/news/us-news/114068/usa-ufo-hotspot-maryland-2000-sightings](https://www.the-express.com/news/us-news/114068/usa-ufo-hotspot-maryland-2000-sightings)  
+   Link: <a href="https://www.the-express.com/news/us-news/114068/usa-ufo-hotspot-maryland-2000-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.the-express.com/news/us-news/114068/usa-ufo-hotspot-maryland-2000-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LOCALS REPORT ALMOST 2,000 BIZARRE ALIEN SIGHTINGS LOCALS IN MARYLAND HAVE REPORTED SEEING &quot;CLASSIC FLYING SAUCER&quot; SHAPES AS WELL AS A &quot;F...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: alienufoblog.com  
    Title: Baltimore, [Loch Raven](&#123;&#123; 'loch-raven/' | relative_url &#125;&#125;), Marylan  
-   Link: [https://alienufoblog.com/maryland-ufo-sightings/](https://alienufoblog.com/maryland-ufo-sightings/)  
+   Link: <a href="https://alienufoblog.com/maryland-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://alienufoblog.com/maryland-ufo-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Maryland UFO Sightings: A Small State with a lot of UFO ActivityJune 2, 2025 — MARYLAND UFO SIGHTINGS: A SMALL STATE WITH A LOT OF UFO AC...</p></details>
    Published: June 2, 2025  
 
 15. <a id="endnote-15"></a>
    Source: baltimoremagazine.com  
    Title: ufo sightings in maryland  
-   Link: [https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/](https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/)  
+   Link: <a href="https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/" target="_blank" rel="noopener noreferrer nofollow">https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are More Common Than You Might Think (Published 2022)June 20, 2022 — UFO SIGHTINGS IN MARYLAND ARE MORE COMMON THAN YOU MIGHT THINK NINE...</p></details>
    Published: June 20, 2022  
 
 16. <a id="endnote-16"></a>
    Source: ufodatalive.com  
    Title: UF O Data Live | U.S  
-   Link: [https://www.ufodatalive.com/](https://www.ufodatalive.com/)  
+   Link: <a href="https://www.ufodatalive.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodatalive.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Database, UAP Tracker &amp; Disclosure TimelineImage: UFO craft over desert landscape at dusk 37.2431° N 115.7930° W ALT: UNKNO...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Concerns grow over drone sightings in New Jersey and Maryland  
-   Link: [https://www.youtube.com/watch?v=tlbayqTFyjk](https://www.youtube.com/watch?v=tlbayqTFyjk)  
+   Link: <a href="https://www.youtube.com/watch?v=tlbayqTFyjk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tlbayqTFyjk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UMD expert sheds light on reported drone sightings...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Drone sightings reported across parts of Maryland  
-   Link: [https://www.youtube.com/watch?v=2MhbJ6EUp08](https://www.youtube.com/watch?v=2MhbJ6EUp08)  
+   Link: <a href="https://www.youtube.com/watch?v=2MhbJ6EUp08" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2MhbJ6EUp08</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>See all the UFO videos that the U.S. government just released...</p></details>

@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /late-testimony/
 nav_short_title: Missing records
 title: What evidence fades when UFO reports wait?
-title_full: What evidence fades when UFO reports wait? | Late Testimony
+title_full: What evidence fades when UFO reports wait?
 display_title_short: Missing records
 display_title: Missing records
 heading_title: What evidence fades when UFO reports wait?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:33:41'
-parent_title: Can Decades Late UFO Testimony Be Trusted? | Wyoming UFOs
+parent_title: Can Decades Late UFO Testimony Be Trusted?
 parent_permalink: /late-testimony/
 parent_nav_short_title: Late Testimony
 parent_heading_title: Can Decades Late UFO Testimony Be Trusted?
@@ -250,10 +250,9 @@ image: /assets/images/Wyoming_ed190c_delayed_witness_acco_673359_late_ufo_missin
 
 ## Introduction
 
-Many delayed [Wyoming]({{ 'what-really-happened-in-wyoming-skies/' | relative_url }}) UFO stories rise or fall on a simple question: what records still exist from the time of the sighting? A dramatic account given years or decades later may be sincere, detailed and memorable, yet still remain impossible to test if the supporting evidence has disappeared. In a state defined by long highways, isolated ranch country and dark skies, witnesses often describe unusual lights or objects seen far from other observers. When those reports are not documented near the time of the event, investigators lose the ability to compare memory against independent records. The result is one of the central credibility problems in Wyoming UFO history: not necessarily dishonest witnesses, but missing evidence that can no longer confirm, challenge or properly contextualise what they remember.
+Many delayed Wyoming UFO stories rise or fall on a simple question: what records still exist from the time of the sighting? A dramatic account given years or decades later may be sincere, detailed and memorable, yet still remain impossible to test if the supporting evidence has disappeared. In a state defined by long highways, isolated ranch country and dark skies, witnesses often describe unusual lights or objects seen far from other observers. When those reports are not documented near the time of the event, investigators lose the ability to compare memory against independent records. The result is one of the central credibility problems in Wyoming UFO history: not necessarily dishonest witnesses, but missing evidence that can no longer confirm, challenge or properly contextualise what they remember.
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_late_ufo_missing_rec_086767-Illustration-1-light.svg" | relative_url }}" alt="Missing records illustration 1" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_late_ufo_missing_rec_086767-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_late_ufo_missing_rec_086767-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_late_ufo_missing_rec_086767-Illustration-1-dark.svg" | relative_url }}" alt="Missing records illustration 1" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_late_ufo_missing_rec_086767-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_late_ufo_missing_rec_086767-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because some of the strongest UFO investigations have depended less on testimony alone than on records created before anyone knew a case would become controversial. Flight logs, weather observations, police dispatch records, radar returns, diary entries and local newspaper reports can all help establish what happened. Once those records are gone, the discussion shifts from evidence to recollection.
 
 ## Why near-contemporaneous notes matter
@@ -268,7 +267,6 @@ The 2023 NASA Independent Study Team report stressed that eyewitness reports can
 
 That point is highly relevant to delayed Wyoming accounts. An early notebook entry showing that a witness originally described a stationary light, for example, may matter if decades later the same event is remembered as a fast-moving craft. The note does not prove either interpretation, but it preserves evidence about how the event was first understood.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LLrb8XsOJkI" title="No evidence that &#x27;UAP are extraterrestrial in origin,&#x27; NASA independent study team says" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LLrb8XsOJkI" target="_blank" rel="noopener noreferrer">No evidence that &#x27;UAP are extraterrestrial in origin,&#x27; NASA independent study team says</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 9.6K &middot; Uploaded: September 2023 &middot; Length: 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LLrb8XsOJkI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LLrb8XsOJkI">Open on YouTube</a></p></div></div></div>
 
 ## Records investigators can no longer check easily
@@ -278,7 +276,6 @@ When a sighting remains unreported for years, entire categories of evidence ofte
 Some records are only retained for limited periods. Others survive but become extremely difficult to locate. By the time a witness comes forward, investigators may discover that the most useful sources are no longer available.
 
 Common losses include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -294,8 +291,7 @@ Common losses include:
 
 The practical effect is that an investigator is left with a story but not the surrounding context that might explain it.
 
-This problem appears repeatedly in UFO research organisations such as the National UFO Reporting Center, which relies heavily on reports submitted by witnesses themselves. The centre's archive contains large numbers of historical accounts, but the evidential quality varies dramatically depending on how quickly a case entered the record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
-
+This problem appears repeatedly in UFO research organisations such as the National UFO Reporting Center, which relies heavily on reports submitted by witnesses themselves. The centre's archive contains large numbers of historical accounts, but the evidential quality varies dramatically depending on how quickly a case entered the record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K29hnj8UACk" title="NASA &amp; UFO controversy: Private briefings, pilot insights &amp; report findings | Backscroll" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K29hnj8UACk" target="_blank" rel="noopener noreferrer">NASA &amp; UFO controversy: Private briefings, pilot insights &amp; report findings | Backscroll</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 117.2K &middot; Uploaded: August 2025 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K29hnj8UACk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K29hnj8UACk">Open on YouTube</a></p></div></div></div>
 
@@ -323,8 +319,7 @@ Researchers trying to assess older Wyoming cases therefore tend to ask a narrowe
 
 A report describing a giant illuminated object over a major route might be expected to produce additional witnesses, media attention or official records. If none can be found, that does not automatically disprove the sighting, but it weakens confidence in specific details.
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_late_ufo_missing_rec_086767-Illustration-2-light.svg" | relative_url }}" alt="Missing records illustration 2" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_late_ufo_missing_rec_086767-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_late_ufo_missing_rec_086767-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_late_ufo_missing_rec_086767-Illustration-2-dark.svg" | relative_url }}" alt="Missing records illustration 2" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_late_ufo_missing_rec_086767-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_late_ufo_missing_rec_086767-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to separate memory, sincerity and proof
 
 Delayed UFO accounts often become arguments about credibility, but credibility has several layers.
@@ -347,7 +342,6 @@ That depends on surviving records. In many Wyoming cases, the answer remains unc
 
 NASA's UAP study emphasised the need for calibrated sensor data and multiple sources of information rather than reliance on testimony alone. The report noted that many sightings lack the detailed, curated observations needed for strong scientific conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team Reportwitness reports should be considered along with corroborating sensor data in the study of UAP as...</span></span></span> WIRED That framework helps explain why some late Wyoming stories remain intriguing but unresolved. A witness can be honest without providing proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span> A memory can be meaningful without being fully testable.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qSAQyOgiELA" title="NASA: UAP Study Report Highlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qSAQyOgiELA" target="_blank" rel="noopener noreferrer">NASA: UAP Study Report Highlights</a></p><p class="youtube-embed-meta">Channel: IFLScience &middot; Views: 4.8K &middot; Uploaded: September 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qSAQyOgiELA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qSAQyOgiELA">Open on YouTube</a></p></div></div></div>
 
 ## What strengthens a late Wyoming claim?
@@ -355,7 +349,6 @@ NASA's UAP study emphasised the need for calibrated sensor data and multiple sou
 A delayed report is not automatically weak. Some factors can preserve value even when public reporting comes much later.
 
 The most useful elements include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -374,8 +367,7 @@ In Wyoming's UFO history, that distinction is often more important than dramatic
 
 When reports wait years or decades before entering the record, that opportunity is frequently lost. The mystery may remain, but the evidence that could have clarified it has already faded.
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_late_ufo_missing_rec_086767-Illustration-3-light.svg" | relative_url }}" alt="Missing records illustration 3" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_late_ufo_missing_rec_086767-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_late_ufo_missing_rec_086767-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_late_ufo_missing_rec_086767-Illustration-3-dark.svg" | relative_url }}" alt="Missing records illustration 3" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_late_ufo_missing_rec_086767-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_late_ufo_missing_rec_086767-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -463,7 +455,7 @@ When reports wait years or decades before entering the record, that opportunity 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -473,111 +465,36 @@ When reports wait years or decades before entering the record, that opportunity 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture"><img src="https://i.ebayimg.com/images/g/IIUAAeSwQIFqIxPQ/s-l225.jpg" alt="Listing image for Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -585,15 +502,15 @@ When reports wait years or decades before entering the record, that opportunity 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW"><img src="https://i.ebayimg.com/images/g/2CYAAOSwbhVgJDbB/s-l225.jpg" alt="Listing image for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -601,15 +518,15 @@ When reports wait years or decades before entering the record, that opportunity 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -617,15 +534,15 @@ When reports wait years or decades before entering the record, that opportunity 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/sLkAAOSwaNVmMAOe/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -633,7 +550,7 @@ When reports wait years or decades before entering the record, that opportunity 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-records-c17ae4-what-evidence-fades-when-ufo-reports-wait-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-evidence-fades-when-ufo-reports-wait-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -710,17 +627,31 @@ When reports wait years or decades before entering the record, that opportunity 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -733,42 +664,73 @@ When reports wait years or decades before entering the record, that opportunity 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -783,12 +745,17 @@ When reports wait years or decades before entering the record, that opportunity 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -798,107 +765,107 @@ When reports wait years or decades before entering the record, that opportunity 
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team Reportwitness reports should be considered along with corroborating sensor data in the study of UAP as...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use tha...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/nasa-ufos-aliens-report-2023](https://www.wired.com/story/nasa-ufos-aliens-report-2023)  
+   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 — The study took nine months. Afterward, the information was released in a publicly available report. NASA expects to hold a f...</p></details>
    Published: May 2026  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lWY](https://nuforc.org/subndx/?id=lWY)  
+   Link: <a href="https://nuforc.org/subndx/?id=lWY" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lWY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State WYOdd intelligent seeming lights seen during a UFO conference in Laramie, WY. 06/05/2004. Open, 06/05/2004 16:00...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationC E Chamberlain on A New Historical Radar Case Surfaces. Copyright 2026 National UFO Reporting Center, Davenpor...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: [https://en.wikipedia.org/wiki/National_UFO_Reporting_Center](https://en.wikipedia.org/wiki/National_UFO_Reporting_Center)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center... documents UFO / UAP sightings and/or alleged alien contacts. National UFO Reporting Center. Company t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cuny.manifoldapp.org  
    Title: national ufo reporting center  
-   Link: [https://cuny.manifoldapp.org/read/national-ufo-reporting-center](https://cuny.manifoldapp.org/read/national-ufo-reporting-center)  
+   Link: <a href="https://cuny.manifoldapp.org/read/national-ufo-reporting-center" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/national-ufo-reporting-center</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reporting Center2 Apr 2025 — Standardization of submitted UFO reports into summarized structured format of date, location, and sighti...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf](https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenGEPA.N/SEPRA to have access to UFO sighting reports drafted by national and foreign. I airlines crews. To this end, a sighting report...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: axios.com  
-   Link: [https://www.axios.com/2023/09/14/nasa-uap-report-release](https://www.axios.com/2023/09/14/nasa-uap-report-release)  
+   Link: <a href="https://www.axios.com/2023/09/14/nasa-uap-report-release" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/09/14/nasa-uap-report-release</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>government efforts in understanding UAPs. Unlike the Department of Defense&#x27;s often classified data, NASA emphasizes transparency and publ...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings](https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings)  
+   Link: <a href="https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: NASA report says more science and less stigma are...An independent team commissioned by NASA cautions that the negative perceptio...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933](https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933)  
+   Link: <a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eyewitness accounts linked to UAPs - more commonly known as UFOs... NASA admits many recent UFO reports from &#x27;credible witnesses&#x27; - repo...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: they thought it was ufos but it was a classified weapon to attack america via th  
-   Link: [https://www.facebook.com/atlasmirabilium/posts/they-thought-it-was-ufos-but-it-was-a-classified-weapon-to-attack-america-via-th/122181875852803868/](https://www.facebook.com/atlasmirabilium/posts/they-thought-it-was-ufos-but-it-was-a-classified-weapon-to-attack-america-via-th/122181875852803868/)  
+   Link: <a href="https://www.facebook.com/atlasmirabilium/posts/they-thought-it-was-ufos-but-it-was-a-classified-weapon-to-attack-america-via-th/122181875852803868/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/atlasmirabilium/posts/they-thought-it-was-ufos-but-it-was-a-classified-weapon-to-attack-america-via-th/122181875852803868/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They thought it was UFOs, but it was a classified weapon...At a 2023 UFO hearing, journalist George Knapp testified about a story allegi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: news.sky.com  
    Title: ufo meeting live nasa panel to examine recent sightings for first time 12893723  
-   Link: [https://news.sky.com/story/ufo-meeting-live-nasa-panel-to-examine-recent-sightings-for-first-time-12893723](https://news.sky.com/story/ufo-meeting-live-nasa-panel-to-examine-recent-sightings-for-first-time-12893723)  
+   Link: <a href="https://news.sky.com/story/ufo-meeting-live-nasa-panel-to-examine-recent-sightings-for-first-time-12893723" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-meeting-live-nasa-panel-to-examine-recent-sightings-for-first-time-12893723</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>trolled online during UFO sightings meeting31 May 2023 — Mr Evans says the sensitivity and stigma around UAP study means it is &quot;difficult...</p></details>
    Published: May 2023  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/RepBoebert/posts/the-federal-government-has-admitted-to-destroying-records-related-to-one-of-the-/1364620145671843/](https://www.facebook.com/RepBoebert/posts/the-federal-government-has-admitted-to-destroying-records-related-to-one-of-the-/1364620145671843/)  
+   Link: <a href="https://www.facebook.com/RepBoebert/posts/the-federal-government-has-admitted-to-destroying-records-related-to-one-of-the-/1364620145671843/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RepBoebert/posts/the-federal-government-has-admitted-to-destroying-records-related-to-one-of-the-/1364620145671843/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>military and intelligence community have discredited public officials who speak out about UFOs and falsely claimed that...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: arxiv.org  
    Title: Data curation and FAIR data practices are  
-   Link: [https://arxiv.org/pdf/2403.15368](https://arxiv.org/pdf/2403.15368)  
+   Link: <a href="https://arxiv.org/pdf/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.15368</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Closing the Information Gap in Unidentified Anomalous...by GR Stahlman · 2024 · Cited by 8 — As emphasized by NASA [6], UAP-related data...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: wyomingpublicmedia.org  
    Title: ufo files spanning decades are released by defense department  
-   Link: [https://www.wyomingpublicmedia.org/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department](https://www.wyomingpublicmedia.org/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department)  
+   Link: <a href="https://www.wyomingpublicmedia.org/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department" target="_blank" rel="noopener noreferrer nofollow">https://www.wyomingpublicmedia.org/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files spanning decades are released by Defense...8 May 2026 — The records are posted to a specialized web portal, war.gov/UFO, which...</p></details>
    Published: May 2026  
 
 20. <a id="endnote-20"></a>
    Source: scientificamerican.com  
    Title: bad data not aliens may be behind ufo surge nasa team says  
-   Link: [https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/](https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/)  
+   Link: <a href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Data, Not Aliens, May Be behind UFO Surge, NASA...9 Jun 2023 — He concurs with those taking part in the NASA UAP study who see eyewi...</p></details>

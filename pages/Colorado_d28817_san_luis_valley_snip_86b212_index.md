@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /colorado-d28817-san-luis-valley-snip/
 description: Focused pages that expand on San Luis Valley.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Colorado_d28817_san_luis_valley_snip_86b212
-parent_title: San Luis Valley | What Really Happened in Colorado's UFO...
+parent_title: San Luis Valley
 parent_nav_short_title: San Luis Valley
 parent_permalink: /san-luis-valley/
 ---

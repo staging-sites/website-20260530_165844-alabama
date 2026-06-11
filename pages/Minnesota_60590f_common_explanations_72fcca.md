@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-minnesotas-skies/
 nav_short_title: Explanations
 title: What Minnesota Sightings Might Really Be
-title_full: What Minnesota Sightings Might Really Be | Minnesota UAP
+title_full: What Minnesota Sightings Might Really Be
 display_title_short: Explanations
 display_title: Explanations
 heading_title: What Minnesota Sightings Might Really Be
@@ -268,8 +268,7 @@ image: /assets/images/Minnesota_60590f_common_explanations_72fcca-overview-socia
 
 ## Introduction
 
-When people across [Minnesota]({{ 'what-really-happened-in-minnesotas-skies/' | relative_url }}) report **UFOs** (unidentified flying objects) or **UAP** (unidentified aerial phenomena), most of those sightings have explanations grounded in ordinary science and human activity rather than extraterrestrial craft. Sightings registered with databases such as the **National UFO Reporting Center (NUFORC)** often turn out, on closer examination, to be misinterpretations of familiar sky objects or human‑made technologies. Understanding these common explanations helps put Minnesota’s UFO report patterns into context and shows why many seemingly mysterious events have conventional roots. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=kH5wsaqGq-Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Feds investigate after Minnesota police officer says they saw a UFO</span><span class="citation-popover-snippet">CBS News...</span></span></span>
-
+When people across Minnesota report **UFOs** (unidentified flying objects) or **UAP** (unidentified aerial phenomena), most of those sightings have explanations grounded in ordinary science and human activity rather than extraterrestrial craft. Sightings registered with databases such as the **National UFO Reporting Center (NUFORC)** often turn out, on closer examination, to be misinterpretations of familiar sky objects or human‑made technologies. Understanding these common explanations helps put Minnesota’s UFO report patterns into context and shows why many seemingly mysterious events have conventional roots. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=kH5wsaqGq-Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Feds investigate after Minnesota police officer says they saw a UFO</span><span class="citation-popover-snippet">CBS News...</span></span></span>
 
 <img src="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca-overview.webp" | relative_url }}" alt="Overview image for Explanations" loading="eager" decoding="sync" fetchpriority="high">
 ## Aircraft, Drones, and Flight Paths
@@ -282,8 +281,7 @@ Many Minnesota sightings occur along established flight corridors or near airpor
 
 Local news coverage of Minnesota sightings notes that “a handful of observations… were later explained as satellites, drones, or objects like Chinese lanterns.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://krocnews.com/minnesota-ufo-sightings-went-way-up-in-2024-where-were-they-seen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: krocnews.com">[News Talk 1340 KROC-AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">krocnews.com</span><span class="citation-popover-title">minnesota ufo sightings went way up in 2024 where were they seen</span><span class="citation-popover-snippet">News Talk 1340 KROC-AMWhere Were UFO Sightings Reported In Minnesota In 2024?January 24, 2025...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
 
-
-<img src="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca-Illustration-1-light.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca-Illustration-1-dark.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Satellites, Planets, and Night‑Sky Effects
 
 Many reported UFOs are simply **celestial objects or well‑known [sky phenomena]({{ 'sky-phenomena/' | relative_url }})** that look unusual under certain conditions.
@@ -291,7 +289,6 @@ Many reported UFOs are simply **celestial objects or well‑known [sky phenomena
 * **Bright planets and stars:** Venus, Jupiter and Mars are often bright enough to be mistaken for aircraft or hovering lights, especially near the horizon at dusk or dawn. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tvi.show/skywatch-files/how-weather-phenomena-are-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvi.show">[Things Visible &amp; Invisible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvi.show</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * **Satellite trains:** Large constellations of low‑Earth orbit satellites, such as Starlink, produce lines of lights moving steadily across the sky. Observers unfamiliar with these can interpret them as mysterious craft or flares. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapsightings.org">[uapsightings.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapsightings.org</span><span class="citation-popover-title">Common UAP Misidentifications</span><span class="citation-popover-snippet">UAP Sightings Reporting SystemAugust 30, 2023...</span><span class="citation-popover-meta">Published: August 30, 2023</span></span></span>
 * **International Space Station (ISS):** The ISS is large and bright, crossing the sky predictably but sometimes at unexpected times; this has been widely cited in retroactive explanations of “odd” sightings elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-sun.com/news/15383454/nasa-mysterious-ufo-minneapolis-minnesota/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-sun.com">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-sun.com</span><span class="citation-popover-snippet">The officers claimed it reacted to a nearby helicopter but not to a small plane that appeared later. A second similar object was briefly...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kH5wsaqGq-Y" title="Feds investigate after Minnesota police officer says they saw a UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kH5wsaqGq-Y" target="_blank" rel="noopener noreferrer">Feds investigate after Minnesota police officer says they saw a UFO</a></p><p class="youtube-embed-meta">Channel: WCCO - CBS Minnesota &middot; Views: 162.0K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kH5wsaqGq-Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kH5wsaqGq-Y">Open on YouTube</a></p></div></div></div>
 
@@ -302,17 +299,14 @@ Certain weather and optical effects play tricks on the eye:
 * **Haloes, sundogs, and lenticular clouds** can produce odd shapes and glowing effects mistaken for discs or structured objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tvi.show/skywatch-files/how-weather-phenomena-are-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvi.show">[Things Visible &amp; Invisible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvi.show</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * **Light distortion:** Atmospheric turbulence and scattering can make fixed celestial objects appear to move or flicker. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapsightings.org">[uapsightings.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapsightings.org</span><span class="citation-popover-title">Common UAP Misidentifications</span><span class="citation-popover-snippet">UAP Sightings Reporting SystemAugust 30, 2023...</span><span class="citation-popover-meta">Published: August 30, 2023</span></span></span>
 
-
-<img src="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca-Illustration-2-light.svg" | relative_url }}" alt="Explanations illustration 2" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca-Illustration-2-dark.svg" | relative_url }}" alt="Explanations illustration 2" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a Case Stays Unresolved (But Not Alien)
 
 A small percentage of reports remain without a clear explanation even after basic analysis. In Minnesota, as elsewhere, unresolved cases typically lack corroborating data (radar, multiple witnesses, or video footage) rather than showing incontrovertible evidence of exotic craft. Many databases of UFO sightings explicitly categorise reports as “unidentified” when they cannot match what was seen with a known source—but that label reflects **lack of data, not proof of extraterrestrial origin**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapsightings.org">[uapsightings.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapsightings.org</span><span class="citation-popover-title">Common UAP Misidentifications</span><span class="citation-popover-snippet">UAP Sightings Reporting SystemAugust 30, 2023...</span><span class="citation-popover-meta">Published: August 30, 2023</span></span></span>
 
 Unresolved sightings are often strong prompts for further investigation: more precise recording (time, location, motion), cross‑checking with flight trackers or astronomy apps, and comparison with known satellite passes.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bXhjkwhNsLE" title="Finding Minnesota: Deputy&#x27;s UFO Encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bXhjkwhNsLE" target="_blank" rel="noopener noreferrer">Finding Minnesota: Deputy&#x27;s UFO Encounter</a></p><p class="youtube-embed-meta">Channel: WCCO - CBS Minnesota &middot; Views: 63.3K &middot; Uploaded: November 2015 &middot; Length: 3 minutes 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bXhjkwhNsLE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bXhjkwhNsLE">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0sM8WSkv7aM" title="Explained or Unexplained? Inside Minnesota&#x27;s recent UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0sM8WSkv7aM" target="_blank" rel="noopener noreferrer">Explained or Unexplained? Inside Minnesota&#x27;s recent UFO sightings</a></p><p class="youtube-embed-meta">Channel: KARE 11 &middot; Views: 22.7K &middot; Uploaded: August 2021 &middot; Length: 4 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0sM8WSkv7aM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0sM8WSkv7aM">Open on YouTube</a></p></div></div></div>
 
@@ -320,10 +314,9 @@ Unresolved sightings are often strong prompts for further investigation: more pr
 
 Across Minnesota and the United States, systematic studies of UFO reports show that **most sightings resolve to recognised causes** once enough information is available. For example, historical surveys such as the USAF’s Project Blue Book and modern identification guides concur that a large majority—often over 80 %—of sightings can be matched to mundane objects or atmospheric effects when properly analysed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sky-lens.com/guide/common-confusables" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sky-lens.com">[Sky Lens]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sky-lens.com</span><span class="citation-popover-title">Sky Lens Most Commonly Misidentified Sky Objects — Sky Lens Field Guide</span><span class="citation-popover-snippet">Sky Lens Most Commonly Misidentified Sky Objects — Sky Lens Field Guide</span></span></span>
 
-That said, the existence of unexplained reports doesn’t imply extraterrestrial craft; it signals limits in available data or the need for better observation tools. By starting with conventional explanations—aircraft, satellites, planets, drones, and atmospheric optics—most Minnesota UFO reports become easier to interpret, leaving a smaller, properly framed set of genuinely unresolved cases for future study. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.higgypop.com/news/10-most-common-explanations-for-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: higgypop.com">[higgypop.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">higgypop.com</span><span class="citation-popover-title">10 Most Common Explanations For UFO Sightings | Higgypop</span><span class="citation-popover-snippet">January 8, 2017...</span><span class="citation-popover-meta">Published: January 8, 2017</span></span></span>
+That said, the existence of unexplained reports doesn’t imply extraterrestrial craft; it signals limits in available data or the need for better observation tools. By starting with conventional explanations—aircraft, satellites, planets, drones, and atmospheric optics—most Minnesota UFO reports become easier to interpret, leaving a smaller, properly framed set of genuinely unresolved cases for future study. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.higgypop.com/news/10-most-common-explanations-for-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: higgypop.com">[higgypop.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">higgypop.com</span><span class="citation-popover-title">10 Most Common Explanations For UFO Sightings &#124; Higgypop</span><span class="citation-popover-snippet">January 8, 2017...</span><span class="citation-popover-meta">Published: January 8, 2017</span></span></span>
 
-
-<img src="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca-Illustration-3-light.svg" | relative_url }}" alt="Explanations illustration 3" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca-Illustration-3-dark.svg" | relative_url }}" alt="Explanations illustration 3" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -747,115 +740,115 @@ That said, the existence of unexplained reports doesn’t imply extraterrestrial
 1. <a id="endnote-1"></a>
    Source: uapsightings.org  
    Title: Common UAP Misidentifications  
-   Link: [https://uapsightings.org/common-uap-misidentifications/](https://uapsightings.org/common-uap-misidentifications/)  
+   Link: <a href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow">https://uapsightings.org/common-uap-misidentifications/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Sightings Reporting SystemAugust 30, 2023...</p></details>
    Published: August 30, 2023  
 
 2. <a id="endnote-2"></a>
    Source: krocnews.com  
    Title: minnesota ufo sightings went way up in 2024 where were they seen  
-   Link: [https://krocnews.com/minnesota-ufo-sightings-went-way-up-in-2024-where-were-they-seen/](https://krocnews.com/minnesota-ufo-sightings-went-way-up-in-2024-where-were-they-seen/)  
+   Link: <a href="https://krocnews.com/minnesota-ufo-sightings-went-way-up-in-2024-where-were-they-seen/" target="_blank" rel="noopener noreferrer nofollow">https://krocnews.com/minnesota-ufo-sightings-went-way-up-in-2024-where-were-they-seen/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>News Talk 1340 KROC-AMWhere Were UFO Sightings Reported In Minnesota In 2024?January 24, 2025...</p></details>
    Published: January 24, 2025  
 
 3. <a id="endnote-3"></a>
    Source: the-sun.com  
-   Link: [https://www.the-sun.com/news/15383454/nasa-mysterious-ufo-minneapolis-minnesota/](https://www.the-sun.com/news/15383454/nasa-mysterious-ufo-minneapolis-minnesota/)  
+   Link: <a href="https://www.the-sun.com/news/15383454/nasa-mysterious-ufo-minneapolis-minnesota/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/15383454/nasa-mysterious-ufo-minneapolis-minnesota/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The officers claimed it reacted to a nearby helicopter but not to a small plane that appeared later. A second similar object was briefly...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sky-lens.com  
    Title: Sky Lens Most Commonly Misidentified Sky Objects — Sky Lens Field Guide  
-   Link: [https://sky-lens.com/guide/common-confusables](https://sky-lens.com/guide/common-confusables)  
+   Link: <a href="https://sky-lens.com/guide/common-confusables" target="_blank" rel="noopener noreferrer nofollow">https://sky-lens.com/guide/common-confusables</a>  
 
 5. <a id="endnote-5"></a>
    Source: higgypop.com  
    Title: 10 Most Common Explanations For UFO Sightings | Higgypop  
-   Link: [https://www.higgypop.com/news/10-most-common-explanations-for-ufo-sightings/](https://www.higgypop.com/news/10-most-common-explanations-for-ufo-sightings/)  
+   Link: <a href="https://www.higgypop.com/news/10-most-common-explanations-for-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.higgypop.com/news/10-most-common-explanations-for-ufo-sightings/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 8, 2017...</p></details>
    Published: January 8, 2017  
 
 6. <a id="endnote-6"></a>
    Source: everything.explained.today  
-   Link: [https://everything.explained.today/unexplained_aerial_phenomena/](https://everything.explained.today/unexplained_aerial_phenomena/)  
+   Link: <a href="https://everything.explained.today/unexplained_aerial_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://everything.explained.today/unexplained_aerial_phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>flying object explainedSTUDIES UFOs have become a prevalent theme in modern culture,^{[141]} and the social phenomena have been the subje...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Feds investigate after Minnesota police officer says they saw a UFO  
-   Link: [https://www.youtube.com/watch?v=kH5wsaqGq-Y](https://www.youtube.com/watch?v=kH5wsaqGq-Y)  
+   Link: <a href="https://www.youtube.com/watch?v=kH5wsaqGq-Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kH5wsaqGq-Y</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS News...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cbsnews.com  
    Title: CBS News A brief history of UFO sightings in Minnesota  
-   Link: [https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/](https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/)  
+   Link: <a href="https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsA brief history of UFO sightings in Minnesota - CBS MinnesotaJuly 2, 2024...</p></details>
    Published: July 2, 2024  
 
 9. <a id="endnote-9"></a>
    Source: tvi.show  
-   Link: [https://www.tvi.show/skywatch-files/how-weather-phenomena-are-mistaken-for-ufos](https://www.tvi.show/skywatch-files/how-weather-phenomena-are-mistaken-for-ufos)  
+   Link: <a href="https://www.tvi.show/skywatch-files/how-weather-phenomena-are-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/how-weather-phenomena-are-mistaken-for-ufos</a>  
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: patch.com  
-   Link: [https://patch.com/minnesota/across-mn/60-minutes-interview-sheds-light-ufo-sightings-minnesota](https://patch.com/minnesota/across-mn/60-minutes-interview-sheds-light-ufo-sightings-minnesota)  
+   Link: <a href="https://patch.com/minnesota/across-mn/60-minutes-interview-sheds-light-ufo-sightings-minnesota" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/minnesota/across-mn/60-minutes-interview-sheds-light-ufo-sightings-minnesota</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2021 — ‘60 MINUTES’ INTERVIEW SHEDS LIGHT ON UFO SIGHTINGS IN MINNESOTA THE PENTAGON FINALLY SAYS UFOS — OR UNIDENTIFIED AERIAL P...</p></details>
    Published: May 21, 2021  
 
 11. <a id="endnote-11"></a>
    Source: ibtimes.co.uk  
-   Link: [https://www.ibtimes.co.uk/mystery-ufo-swarm-spotted-over-minnesota-jellyfish-like-lights-drift-across-night-sky-1775899](https://www.ibtimes.co.uk/mystery-ufo-swarm-spotted-over-minnesota-jellyfish-like-lights-drift-across-night-sky-1775899)  
+   Link: <a href="https://www.ibtimes.co.uk/mystery-ufo-swarm-spotted-over-minnesota-jellyfish-like-lights-drift-across-night-sky-1775899" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/mystery-ufo-swarm-spotted-over-minnesota-jellyfish-like-lights-drift-across-night-sky-1775899</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery UFO Swarm Spotted Over Minnesota as Jellyfish-Like Lights Drift Across Night Sky | IBTimes UKFebruary 3, 2026 — MYSTERY UFO SWARM...</p></details>
    Published: February 3, 2026  
 
 12. <a id="endnote-12"></a>
    Source: hangar1publishing.com  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/unidentified-aerial-phenomena](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/unidentified-aerial-phenomena)  
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/unidentified-aerial-phenomena</a>  
 
 13. <a id="endnote-13"></a>
    Source: smithsonianmag.com  
    Title: FOR BETTER OR WORSE, SIGHTINGS OF UNIDENTIFIABLE THINGS IN THE SKY HAVE BECOM  
-   Link: [https://www.smithsonianmag.com/air-space-magazine/ufos-uapswhatever-we-call-them-why-do-we-assume-mysterious-flying-objects-are-extraterrestrial-180978374/](https://www.smithsonianmag.com/air-space-magazine/ufos-uapswhatever-we-call-them-why-do-we-assume-mysterious-flying-objects-are-extraterrestrial-180978374/)  
+   Link: <a href="https://www.smithsonianmag.com/air-space-magazine/ufos-uapswhatever-we-call-them-why-do-we-assume-mysterious-flying-objects-are-extraterrestrial-180978374/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/ufos-uapswhatever-we-call-them-why-do-we-assume-mysterious-flying-objects-are-extraterrestrial-180978374/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, UAPs—Whatever We Call Them, Why Do We Assume Mysterious Flying Objects Are Extraterrestrial?August 5, 2021 — Air &amp; Space Magazine U...</p></details>
    Published: August 5, 2021  
 
 14. <a id="endnote-14"></a>
    Source: ufotimelineproject.com  
-   Link: [https://www.ufotimelineproject.com/ufo-sightings](https://www.ufotimelineproject.com/ufo-sightings)  
+   Link: <a href="https://www.ufotimelineproject.com/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.ufotimelineproject.com/ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover Contact us WHY SIGHTINGS MATTER Sightings are the front door of UFO/UAP research. They&#x27;re messy, human, and...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: boreal.org  
    Title: Mysterious UFOs: A look at sightings in Minnesota | Boreal Community Media  
-   Link: [https://www.boreal.org/2022/09/16/411828/mysterious-ufos-a-look-at-sightings-in-minnesota](https://www.boreal.org/2022/09/16/411828/mysterious-ufos-a-look-at-sightings-in-minnesota)  
+   Link: <a href="https://www.boreal.org/2022/09/16/411828/mysterious-ufos-a-look-at-sightings-in-minnesota" target="_blank" rel="noopener noreferrer nofollow">https://www.boreal.org/2022/09/16/411828/mysterious-ufos-a-look-at-sightings-in-minnesota</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>September 16, 2022 — MYSTERIOUS UFOS: A LOOK AT SIGHTINGS IN MINNESOTA Sep 16, 2022 10:36AM ● By Content Editor Image Photo: A photo from...</p></details>
    Published: September 16, 2022  
 
 16. <a id="endnote-16"></a>
    Source: minnesotasnewcountry.com  
    Title: UF O Sightings in Minnesota a Common Occurrence [Area Reports]  
-   Link: [https://minnesotasnewcountry.com/ufo-sightings-in-minnesota-a-common-occurrence-area-reports-2/](https://minnesotasnewcountry.com/ufo-sightings-in-minnesota-a-common-occurrence-area-reports-2/)  
+   Link: <a href="https://minnesotasnewcountry.com/ufo-sightings-in-minnesota-a-common-occurrence-area-reports-2/" target="_blank" rel="noopener noreferrer nofollow">https://minnesotasnewcountry.com/ufo-sightings-in-minnesota-a-common-occurrence-area-reports-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Minnesota a Common Occurrence [Area Reports]March 29, 2017 — Image: UFO Sightings in Minnesota a Common Occurrence [Area...</p></details>
    Published: March 29, 2017  
 
 17. <a id="endnote-17"></a>
    Source: scientificamerican.com  
    Title: no its not a good idea to shoot at new jersey mystery drones  
-   Link: [https://www.scientificamerican.com/article/no-its-not-a-good-idea-to-shoot-at-new-jersey-mystery-drones/](https://www.scientificamerican.com/article/no-its-not-a-good-idea-to-shoot-at-new-jersey-mystery-drones/)  
+   Link: <a href="https://www.scientificamerican.com/article/no-its-not-a-good-idea-to-shoot-at-new-jersey-mystery-drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/no-its-not-a-good-idea-to-shoot-at-new-jersey-mystery-drones/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No, It’s Not a Good Idea to Shoot at New Jersey ‘Mystery Drones’ | Scientific AmericanDecember 16, 2024 — December 16, 2024 4 min read Wh...</p></details>
    Published: December 16, 2024  
 
 18. <a id="endnote-18"></a>
    Source: ufoindex.com  
    Title: Browse the reports below. 17 documented sightings in Mi  
-   Link: [https://www.ufoindex.com/minnesota](https://www.ufoindex.com/minnesota)  
+   Link: <a href="https://www.ufoindex.com/minnesota" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/minnesota</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Minnesota UFO ReportsMINNESOTA UFO REPORTS Witnesses have reported strange lights, unidentified flying objects, and unexplained aerial ph...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: newspaceeconomy.ca  
    Title: Unidentified Anomalous Phenomena: The Current State of Knowledge and Uncertainty  
-   Link: [https://newspaceeconomy.ca/2026/01/07/unidentified-anomalous-phenomena-the-current-state-of-knowledge-and-uncertainty/](https://newspaceeconomy.ca/2026/01/07/unidentified-anomalous-phenomena-the-current-state-of-knowledge-and-uncertainty/)  
+   Link: <a href="https://newspaceeconomy.ca/2026/01/07/unidentified-anomalous-phenomena-the-current-state-of-knowledge-and-uncertainty/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2026/01/07/unidentified-anomalous-phenomena-the-current-state-of-knowledge-and-uncertainty/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These facts are derived from unclassified reports released by the Office of the Director of National...</p></details>

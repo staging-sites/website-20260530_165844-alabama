@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /phoenix-lights/
 nav_short_title: Symington
 title: Why Fife Symington changed his Phoenix Lights story
-title_full: Why Fife Symington changed his Phoenix Lights story | Phoenix Lights
+title_full: Why Fife Symington changed his Phoenix Lights story
 display_title_short: Symington
 display_title: Symington
 heading_title: Why Fife Symington changed his Phoenix Lights story
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 14:58:47'
-parent_title: What Really Happened During the Phoenix Lights? | Arizona UFOs
+parent_title: What Really Happened During the Phoenix Lights?
 parent_permalink: /phoenix-lights/
 parent_nav_short_title: Phoenix Lights
 parent_heading_title: What Really Happened During the Phoenix Lights?
@@ -250,16 +250,14 @@ image: /assets/images/Arizona_104fd3_phoenix_lights_d6a00b_fife_symington_rever_
 
 ## Introduction
 
-One of the most striking twists in the long saga of the **[Phoenix Lights]({{ 'phoenix-lights/' | relative_url }})** — [Arizona]({{ 'why-arizona-became-a-ufo-state/' | relative_url }})’s best‑known UFO event — isn’t just about what people saw in the night sky on 13 March 1997. It is about how **Governor Fife Symington** responded at the time, and how he changed his tune years later. Symington’s very public reversal has become emblematic of the wider *public mistrust* that surrounds this incident. It touches on how authorities communicate about unexplained events, the pressures on public officials, and how a mix of ridicule, secrecy and later confession shaped the Phoenix Lights story in Arizona’s collective memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fife_Symington" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fife Symington</span><span class="citation-popover-snippet">Fife Symington</span></span></span>
+One of the most striking twists in the long saga of the **[Phoenix Lights]({{ 'phoenix-lights/' | relative_url }})** — Arizona’s best‑known UFO event — isn’t just about what people saw in the night sky on 13 March 1997. It is about how **Governor Fife Symington** responded at the time, and how he changed his tune years later. Symington’s very public reversal has become emblematic of the wider *public mistrust* that surrounds this incident. It touches on how authorities communicate about unexplained events, the pressures on public officials, and how a mix of ridicule, secrecy and later confession shaped the Phoenix Lights story in Arizona’s collective memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fife_Symington" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fife Symington</span><span class="citation-popover-snippet">Fife Symington</span></span></span>
 
-
-<img src="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b_fife_symington_rever_bce6b3-Illustration-1-light.svg" | relative_url }}" alt="Symington illustration 1" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b_fife_symington_rever_bce6b3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b_fife_symington_rever_bce6b3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b_fife_symington_rever_bce6b3-Illustration-1-dark.svg" | relative_url }}" alt="Symington illustration 1" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b_fife_symington_rever_bce6b3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b_fife_symington_rever_bce6b3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Early Mockery at the 1997 Press Conference
 
 In the months after the Phoenix Lights sightings, the event drew growing media attention as thousands of Arizonans reported strange lights and [formations]({{ 'formations/' | relative_url }}) over Phoenix. Amid this surge of public curiosity, Governor Symington initially took a notably dismissive tone. In **June 1997**, he called a state press conference ostensibly to update the public on the investigation’s progress. But rather than presenting serious findings, the governor’s office sought to *defuse what it saw as excessive concern* by injecting humour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deseret.com/1997/6/20/19318941/alien-encounter-leaves-media-agog/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News`Alien&#x27; encounter leaves media agog – Deseret News</span><span class="citation-popover-snippet">Deseret News`Alien&#x27; encounter leaves media agog – Deseret NewsJune 20, 1997...</span><span class="citation-popover-meta">Published: June 20, 1997</span></span></span>
 
 At that event, Symington quipped that authorities had “found who was responsible” for the lights and introduced his chief of staff, **Jay Heiler**, dressed in an alien costume and escorted in mock handcuffs. Symington laughed with aides and characterised the stunt as a way to show reporters they were “entirely too serious” about the reports. For many witnesses and UFO researchers at the time, this episode felt like a *public dismissal* of their experiences. Critics argued that instead of addressing a mass sighting with transparent communication, the governor used levity to shift media focus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deseret.com/1997/6/20/19318941/alien-encounter-leaves-media-agog/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News`Alien&#x27; encounter leaves media agog – Deseret News</span><span class="citation-popover-snippet">Deseret News`Alien&#x27; encounter leaves media agog – Deseret NewsJune 20, 1997...</span><span class="citation-popover-meta">Published: June 20, 1997</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2SJXMBHByZY" title="UFO TRUTH Fife Symington ex Gov of Arizona tells the truth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2SJXMBHByZY" target="_blank" rel="noopener noreferrer">UFO TRUTH Fife Symington ex Gov of Arizona tells the truth</a></p><p class="youtube-embed-meta">Channel: ImBehindeU....Buuuh &middot; Views: 61.4K &middot; Uploaded: June 2010 &middot; Length: 4 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2SJXMBHByZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2SJXMBHByZY">Open on YouTube</a></p></div></div></div>
 
@@ -271,13 +269,11 @@ According to his later statements, he did not go public at the time because he f
 
 Symington reiterated his experience in various forums, including televised interviews and documentary panels, and even in a 2017 editorial where he called for renewed investigation and transparency on unexplained aerial phenomena. In those accounts, he didn’t categorically rule out conventional explanations but stressed that what he saw did not resemble known aircraft or flares. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Zxbo2bR0-M" title="I saw a HUGE CRAFT the size of an AIR CRAFT CARRIER - Former Gov of Arizona, Fife Symington" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Zxbo2bR0-M" target="_blank" rel="noopener noreferrer">I saw a HUGE CRAFT the size of an AIR CRAFT CARRIER - Former Gov of Arizona, Fife Symington</a></p><p class="youtube-embed-meta">Channel: UFO Issue &middot; Views: 1.5K &middot; Uploaded: August 2018 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Zxbo2bR0-M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Zxbo2bR0-M">Open on YouTube</a></p></div></div></div>
 
+<img src="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b_fife_symington_rever_bce6b3-Illustration-3-dark.svg" | relative_url }}" alt="Symington illustration 3" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b_fife_symington_rever_bce6b3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b_fife_symington_rever_bce6b3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-<img src="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b_fife_symington_rever_bce6b3-Illustration-3-light.svg" | relative_url }}" alt="Symington illustration 3" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b_fife_symington_rever_bce6b3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b_fife_symington_rever_bce6b3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<img src="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b_fife_symington_rever_bce6b3-Illustration-2-light.svg" | relative_url }}" alt="Symington illustration 2" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b_fife_symington_rever_bce6b3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b_fife_symington_rever_bce6b3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b_fife_symington_rever_bce6b3-Illustration-2-dark.svg" | relative_url }}" alt="Symington illustration 2" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b_fife_symington_rever_bce6b3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_phoenix_lights_d6a00b_fife_symington_rever_bce6b3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Shaping Public Mistrust
 
 Symington’s reversal — from mocking the Phoenix Lights to affirming he had his own unexplained sighting — has had a lasting impact on how the event is remembered in Arizona’s UFO folklore. For many locals who reported lights that night, the initial press conference symbolised a *gap between official messaging and eyewitness testimony*. A gesture intended to reduce speculation instead fed perceptions that authorities were dismissive or even contemptuous of ordinary witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/a-case-study-the-1997-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">a case study the 1997 phoenix lights</span><span class="citation-popover-snippet">UFO InsightThe 1997 Phoenix Lights Incident - UFO Insight...</span></span></span>
@@ -286,9 +282,7 @@ When, years later, a prominent public figure like Symington acknowledged that he
 
 Overall, Symington’s reversal didn’t settle the question of what the Phoenix Lights were — military training, flares, misidentified aircraft or something else — but it has become a pivotal chapter in the story of how Arizona’s largest UFO event was framed, communicated, and later reinterpreted by an eyewitness with unique standing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y2ZW96F_UWs" title="Exclusive Former AZ Gov Fife Symington on Phoenix Lights UFO -- The Interview You Haven&#x27;t Seen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y2ZW96F_UWs" target="_blank" rel="noopener noreferrer">Exclusive Former AZ Gov Fife Symington on Phoenix Lights UFO -- The Interview You Haven&#x27;t Seen</a></p><p class="youtube-embed-meta">Channel: OpenMindsTV &middot; Views: 20.3K &middot; Uploaded: March 2017 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y2ZW96F_UWs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y2ZW96F_UWs">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -712,50 +706,50 @@ Overall, Symington’s reversal didn’t settle the question of what the Phoenix
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Fife Symington  
-   Link: [https://en.wikipedia.org/wiki/Fife_Symington](https://en.wikipedia.org/wiki/Fife_Symington)  
+   Link: <a href="https://en.wikipedia.org/wiki/Fife_Symington" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fife_Symington</a>  
 
 2. <a id="endnote-2"></a>
    Source: deseret.com  
    Title: News`Alien' encounter leaves media agog – Deseret News  
-   Link: [https://www.deseret.com/1997/6/20/19318941/alien-encounter-leaves-media-agog/](https://www.deseret.com/1997/6/20/19318941/alien-encounter-leaves-media-agog/)  
+   Link: <a href="https://www.deseret.com/1997/6/20/19318941/alien-encounter-leaves-media-agog/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1997/6/20/19318941/alien-encounter-leaves-media-agog/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deseret News`Alien&#x27; encounter leaves media agog – Deseret NewsJune 20, 1997...</p></details>
    Published: June 20, 1997  
 
 3. <a id="endnote-3"></a>
    Source: deseret.com  
    Title: News Former governor says he saw UFO – Deseret News  
-   Link: [https://www.deseret.com/2007/3/25/20009206/former-governor-says-he-saw-ufo/](https://www.deseret.com/2007/3/25/20009206/former-governor-says-he-saw-ufo/)  
+   Link: <a href="https://www.deseret.com/2007/3/25/20009206/former-governor-says-he-saw-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/2007/3/25/20009206/former-governor-says-he-saw-ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MDT See More Deseret News Stories In Search Image: Then-Arizona Gov. Fife Symington jokes with aide Jay Heiler, right, on June...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Phoenix Lights  
-   Link: [https://en.wikipedia.org/wiki/Phoenix_Lights](https://en.wikipedia.org/wiki/Phoenix_Lights)  
+   Link: <a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
 
 5. <a id="endnote-5"></a>
    Source: ufoinsight.com  
    Title: a case study the 1997 phoenix lights  
-   Link: [https://www.ufoinsight.com/a-case-study-the-1997-phoenix-lights/](https://www.ufoinsight.com/a-case-study-the-1997-phoenix-lights/)  
+   Link: <a href="https://www.ufoinsight.com/a-case-study-the-1997-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/a-case-study-the-1997-phoenix-lights/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightThe 1997 Phoenix Lights Incident - UFO Insight...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: thisunexplaineduniverse.com  
    Title: phoenix lights  
-   Link: [https://www.thisunexplaineduniverse.com/articles/phoenix-lights](https://www.thisunexplaineduniverse.com/articles/phoenix-lights)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| This Unexplained UniverseFebruary 19, 2026 — WHO WITNESSED THE PHOENIX LIGHTS? What sets the Phoenix Lights apart from most UFO cases i...</p></details>
+   Link: <a href="https://www.thisunexplaineduniverse.com/articles/phoenix-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.thisunexplaineduniverse.com/articles/phoenix-lights</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>This Unexplained UniverseFebruary 19, 2026 — WHO WITNESSED THE PHOENIX LIGHTS? What sets the Phoenix Lights apart from most UFO cases i...</p></details>
    Published: February 19, 2026  
 
 7. <a id="endnote-7"></a>
    Source: national-paranormal-society.org  
    Title: Phoenix Lights  
-   Link: [https://national-paranormal-society.org/phoenix-lights-1997/](https://national-paranormal-society.org/phoenix-lights-1997/)  
+   Link: <a href="https://national-paranormal-society.org/phoenix-lights-1997/" target="_blank" rel="noopener noreferrer nofollow">https://national-paranormal-society.org/phoenix-lights-1997/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1997 - The National Paranormal SocietyJanuary 6, 2014 — Arriving in Phoenix When the triangular formation entered the Phoenix area, Bill...</p></details>
    Published: January 6, 2014  
 
 8. <a id="endnote-8"></a>
    Source: ufology.wikidot.com  
    Title: phoenix lights  
-   Link: [https://ufology.wikidot.com/phoenix-lights](https://ufology.wikidot.com/phoenix-lights)  
+   Link: <a href="https://ufology.wikidot.com/phoenix-lights" target="_blank" rel="noopener noreferrer nofollow">https://ufology.wikidot.com/phoenix-lights</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lights - UfologyJanuary 1, 2008 — REPORTS GOVERNOR In March 2007, former Arizona Governor Fife Symington III said that he had witnessed o...</p></details>
    Published: January 1, 2008  
 
@@ -763,66 +757,66 @@ Overall, Symington’s reversal didn’t settle the question of what the Phoenix
 
 9. <a id="endnote-9"></a>
    Source: sott.net  
-   Link: [https://www.sott.net/article/128866-Former-Arizona-governor-says-he-saw-Phoenix-Lights-UFO](https://www.sott.net/article/128866-Former-Arizona-governor-says-he-saw-Phoenix-Lights-UFO)  
+   Link: <a href="https://www.sott.net/article/128866-Former-Arizona-governor-says-he-saw-Phoenix-Lights-UFO" target="_blank" rel="noopener noreferrer nofollow">https://www.sott.net/article/128866-Former-Arizona-governor-says-he-saw-Phoenix-Lights-UFO</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 19, 2007 — HIGH STRANGENESS Image: UFO FORMER ARIZONA GOVERNOR SAYS HE SAW &#x27;PHOENIX LIGHTS&#x27; UFO Steve Hammons American Chronicle Mo...</p></details>
    Published: March 19, 2007  
 
 10. <a id="endnote-10"></a>
    Source: aftenposten.no  
    Title: Image: Den tidligere Arizona-guvernøren Fife Symington på UFO-pressekonferan  
-   Link: [https://www.aftenposten.no/verden/i/vOaam/jeg-saa-en-diger-ufo](https://www.aftenposten.no/verden/i/vOaam/jeg-saa-en-diger-ufo)  
+   Link: <a href="https://www.aftenposten.no/verden/i/vOaam/jeg-saa-en-diger-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.aftenposten.no/verden/i/vOaam/jeg-saa-en-diger-ufo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jeg så en diger UFONovember 9, 2007 — - JEG SÅ EN DIGER UFO Tidligere Arizona-guvernør Fife Symington mener amerikanske myndigheter må sl...</p></details>
    Published: November 9, 2007  
 
 11. <a id="endnote-11"></a>
    Source: fifesymington.com  
    Title: Former Arizona Governor Now Admits Seeing UFO | The Real Story  
-   Link: [https://www.fifesymington.com/2007/03/former-arizona-governor-now-admits-seeing-ufo/](https://www.fifesymington.com/2007/03/former-arizona-governor-now-admits-seeing-ufo/)  
+   Link: <a href="https://www.fifesymington.com/2007/03/former-arizona-governor-now-admits-seeing-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.fifesymington.com/2007/03/former-arizona-governor-now-admits-seeing-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 19, 2007 — FORMER ARIZONA GOVERNOR NOW ADMITS SEEING UFO March 19, 2007Anderson Cooper, CNN, Newssfdkjwnasdf74 On the tenth anniver...</p></details>
    Published: March 19, 2007  
 
 12. <a id="endnote-12"></a>
    Source: wanttoknow.info  
    Title: Arizona Governor Fife Symington: Phoenix Lights were UFOs  
-   Link: [https://www.wanttoknow.info/a-Arizona-Governor-Fife-Symington-Phoenix-Lights-UFO](https://www.wanttoknow.info/a-Arizona-Governor-Fife-Symington-Phoenix-Lights-UFO)  
+   Link: <a href="https://www.wanttoknow.info/a-Arizona-Governor-Fife-Symington-Phoenix-Lights-UFO" target="_blank" rel="noopener noreferrer nofollow">https://www.wanttoknow.info/a-Arizona-Governor-Fife-Symington-Phoenix-Lights-UFO</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 22, 2007 — ARIZONA GOVERNOR FIFE SYMINGTON: PHOENIX LIGHTS WERE UFOS Key Excerpts from Article on Website of CNN News * * * CNN New...</p></details>
    Published: March 22, 2007  
 
 13. <a id="endnote-13"></a>
    Source: seattletimes.com  
    Title: Fife Symington trotted out an aide dressed as an alie  
-   Link: [https://www.seattletimes.com/nation-world/former-governor-i-saw-a-ufo-10-years-ago/](https://www.seattletimes.com/nation-world/former-governor-i-saw-a-ufo-10-years-ago/)  
+   Link: <a href="https://www.seattletimes.com/nation-world/former-governor-i-saw-a-ufo-10-years-ago/" target="_blank" rel="noopener noreferrer nofollow">https://www.seattletimes.com/nation-world/former-governor-i-saw-a-ufo-10-years-ago/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Former governor: I saw a UFO 10 years ago | The Seattle TimesMarch 24, 2007 — FORMER GOVERNOR: I SAW A UFO 10 YEARS AGO Originally publis...</p></details>
    Published: March 24, 2007  
 
 14. <a id="endnote-14"></a>
    Source: tucson.com  
    Title: UF Os flew over Phoenix in '97, Symington says  
-   Link: [https://tucson.com/news/article_9b90333a-4280-5288-9f4b-f1034df5d833.html](https://tucson.com/news/article_9b90333a-4280-5288-9f4b-f1034df5d833.html)  
+   Link: <a href="https://tucson.com/news/article_9b90333a-4280-5288-9f4b-f1034df5d833.html" target="_blank" rel="noopener noreferrer nofollow">https://tucson.com/news/article_9b90333a-4280-5288-9f4b-f1034df5d833.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs flew over Phoenix in &#x27;97, Symington saysMarch 23, 2007 — UFOS FLEW OVER PHOENIX IN &#x27;97, SYMINGTON SAYS * By Tom Beal ARIZONA DAILY S...</p></details>
    Published: March 23, 2007  
 
 15. <a id="endnote-15"></a>
    Source: tucson.com  
    Title: UF Os flew over Phoenix in '97, Symington says  
-   Link: [https://tucson.com/news/state-and-regional/article_9b90333a-4280-5288-9f4b-f1034df5d833.html](https://tucson.com/news/state-and-regional/article_9b90333a-4280-5288-9f4b-f1034df5d833.html)  
+   Link: <a href="https://tucson.com/news/state-and-regional/article_9b90333a-4280-5288-9f4b-f1034df5d833.html" target="_blank" rel="noopener noreferrer nofollow">https://tucson.com/news/state-and-regional/article_9b90333a-4280-5288-9f4b-f1034df5d833.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs flew over Phoenix in &#x27;97, Symington saysMarch 23, 2007 — UFOS FLEW OVER PHOENIX IN &#x27;97, SYMINGTON SAYS * By Tom Beal ARIZONA DAILY S...</p></details>
    Published: March 23, 2007  
 
 16. <a id="endnote-16"></a>
    Source: tucson.com  
    Title: UF Os flew over Phoenix in '97, Symington says  
-   Link: [https://tucson.com/news/state-and-regional/ufos-flew-over-phoenix-in-97-symington-says/article_9b90333a-4280-5288-9f4b-f1034df5d833.html](https://tucson.com/news/state-and-regional/ufos-flew-over-phoenix-in-97-symington-says/article_9b90333a-4280-5288-9f4b-f1034df5d833.html)  
+   Link: <a href="https://tucson.com/news/state-and-regional/ufos-flew-over-phoenix-in-97-symington-says/article_9b90333a-4280-5288-9f4b-f1034df5d833.html" target="_blank" rel="noopener noreferrer nofollow">https://tucson.com/news/state-and-regional/ufos-flew-over-phoenix-in-97-symington-says/article_9b90333a-4280-5288-9f4b-f1034df5d833.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs flew over Phoenix in &#x27;97, Symington saysMarch 23, 2007 — UFOS FLEW OVER PHOENIX IN &#x27;97, SYMINGTON SAYS * By Tom Beal ARIZONA DAILY S...</p></details>
    Published: March 23, 2007  
 
 17. <a id="endnote-17"></a>
    Source: phoenixnewtimes.com  
-   Link: [https://www.phoenixnewtimes.com/arts-culture/the-phoenix-lights-ufo-sightings-in-1997-an-oral-history-25th-anniversary-13176244/](https://www.phoenixnewtimes.com/arts-culture/the-phoenix-lights-ufo-sightings-in-1997-an-oral-history-25th-anniversary-13176244/)  
+   Link: <a href="https://www.phoenixnewtimes.com/arts-culture/the-phoenix-lights-ufo-sightings-in-1997-an-oral-history-25th-anniversary-13176244/" target="_blank" rel="noopener noreferrer nofollow">https://www.phoenixnewtimes.com/arts-culture/the-phoenix-lights-ufo-sightings-in-1997-an-oral-history-25th-anniversary-13176244/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix New TimesThe Phoenix Lights UFO sightings in 1997: An oral history...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: UFO TRUTH Fife Symington ex Gov of Arizona tells the truth  
-   Link: [https://www.youtube.com/watch?v=2SJXMBHByZY](https://www.youtube.com/watch?v=2SJXMBHByZY)  
+   Link: <a href="https://www.youtube.com/watch?v=2SJXMBHByZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2SJXMBHByZY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Fife Symington&quot; Phoenix Lights Exclusive Former AZ Gov Fife Symington on Phoenix Lights UFO -- The Interview You Haven&#x27;t Seen OpenMindsTV...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /arkansas-2f717f-index/
 description: Focused pages that expand on What Really Happened in Arkansas Skies?.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Arkansas_2f717f
 parent_title: What Really Happened in Arkansas Skies?

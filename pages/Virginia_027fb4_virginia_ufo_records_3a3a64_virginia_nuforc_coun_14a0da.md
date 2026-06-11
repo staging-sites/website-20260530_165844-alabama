@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /records-abc79c/
 nav_short_title: Report Counts
 title: What Virginia UFO report counts really show
-title_full: What Virginia UFO report counts really show | Records
+title_full: What Virginia UFO report counts really show
 display_title_short: Report Counts
 display_title: Report Counts
 heading_title: What Virginia UFO report counts really show
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:24:19'
-parent_title: Where Do Virginia UFO Claims Come From? | Virginia UFOs
+parent_title: Where Do Virginia UFO Claims Come From?
 parent_permalink: /records-abc79c/
 parent_nav_short_title: Records
 parent_heading_title: Where Do Virginia UFO Claims Come From?
@@ -250,22 +250,20 @@ image: /assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_virginia_nufor
 
 ## Introduction
 
-[Virginia]({{ 'what-really-happened-over-virginia/' | relative_url }}) has thousands of UFO reports in the National UFO Reporting Center (NUFORC) database, and those numbers are often presented as evidence that the state is a major hotspot. Yet raw sighting totals can be misleading if they are treated as a count of unexplained events. What NUFORC preserves is primarily a record of reports made by members of the public, not a verified catalogue of mysteries. A high number of entries may reflect population density, reporting habits, media attention, internet access, military air traffic, satellite visibility, or repeated reports of the same event rather than a large number of genuinely unknown objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lVA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC Reports for State VANUFORC Reports for State VA.; Open, 06/04/2025 21:30, Mechanicsville; Open, 05/30/2025 13:42, Virginia...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCFile a UFO Report | NUFORCWelcome to the National UFO Reporting Center On-line Report Form. For 50 years NUFORC has served as the c...</span></span></span>
+Virginia has thousands of UFO reports in the National UFO Reporting Center (NUFORC) database, and those numbers are often presented as evidence that the state is a major hotspot. Yet raw sighting totals can be misleading if they are treated as a count of unexplained events. What NUFORC preserves is primarily a record of reports made by members of the public, not a verified catalogue of mysteries. A high number of entries may reflect population density, reporting habits, media attention, internet access, military air traffic, satellite visibility, or repeated reports of the same event rather than a large number of genuinely unknown objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lVA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State VANUFORC Reports for State VA.; Open, 06/04/2025 21:30, Mechanicsville; Open, 05/30/2025 13:42, Virginia...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">File a UFO Report &#124; NUFORCWelcome to the National UFO Reporting Center On-line Report Form. For 50 years NUFORC has served as the c...</span></span></span>
 
-
-<img src="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_virginia_nuforc_coun_14a0da-Illustration-1-light.svg" | relative_url }}" alt="Report Counts illustration 1" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_virginia_nuforc_coun_14a0da-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_virginia_nuforc_coun_14a0da-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For Virginia's UFO history, NUFORC remains valuable because it captures modern sightings that never entered older federal systems such as Project Blue Book. It provides dates, locations, witness descriptions and, in some cases, later comments or probable explanations. The challenge is understanding what the database can and cannot tell readers about unexplained phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by MonthSIGHTING YEAR/MONTH, REPORT COUNT. 2026/05, 160. 2026/04, 212. 2026/03, 200. 2026/02, 178. 2026/01, 283. 2025/12...</span></span></span>
+<img src="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_virginia_nuforc_coun_14a0da-Illustration-1-dark.svg" | relative_url }}" alt="Report Counts illustration 1" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_virginia_nuforc_coun_14a0da-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_virginia_nuforc_coun_14a0da-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+For Virginia's UFO history, NUFORC remains valuable because it captures modern sightings that never entered older federal systems such as Project Blue Book. It provides dates, locations, witness descriptions and, in some cases, later comments or probable explanations. The challenge is understanding what the database can and cannot tell readers about unexplained phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by MonthSIGHTING YEAR/MONTH, REPORT COUNT. 2026/05, 160. 2026/04, 212. 2026/03, 200. 2026/02, 178. 2026/01, 283. 2025/12...</span></span></span>
 
 ## What NUFORC records preserve for Virginia
 
-The National UFO Reporting Center has become one of the largest public repositories of UFO and UAP reports in the United States. Virginia has accumulated thousands of entries over the years, ranging from brief one-sentence observations to lengthy witness narratives. The state's reports include sightings from major population centres such as Richmond, Virginia Beach and Northern Virginia, as well as rural locations where witnesses often describe unusual lights over farmland, forests or mountain regions. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsls.com/features/2023/07/31/how-often-are-ufos-reported-in-virginia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsls.com">[WSLS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsls.com</span><span class="citation-popover-title">how often are ufos reported in virginia</span><span class="citation-popover-snippet">WSLSHow often are UFOs reported in Virginia?31 Jul 2023 — According to nuforc.org, Virginia as of July 28 had 2,639 reports of UFO sighti...</span></span></span>
+The National UFO Reporting Center has become one of the largest public repositories of UFO and UAP reports in the United States. Virginia has accumulated thousands of entries over the years, ranging from brief one-sentence observations to lengthy witness narratives. The state's reports include sightings from major population centres such as Richmond, Virginia Beach and Northern Virginia, as well as rural locations where witnesses often describe unusual lights over farmland, forests or mountain regions. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsls.com/features/2023/07/31/how-often-are-ufos-reported-in-virginia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsls.com">[WSLS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsls.com</span><span class="citation-popover-title">how often are ufos reported in virginia</span><span class="citation-popover-snippet">How often are UFOs reported in Virginia?31 Jul 2023 — According to nuforc.org, Virginia as of July 28 had 2,639 reports of UFO sighti...</span></span></span>
 
-Unlike Cold War-era Air Force files, NUFORC's Virginia archive captures many events from the internet age. Reports may be submitted within hours of an observation, and they often include details that older official files never recorded, such as estimated viewing angle, weather conditions, colour, duration and the witness's own interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=191652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 191652Aug 12, 2025 — NUFORC UFO Sighting 191652; Occurred: 2025-07-05 22:43 Local; Reported: 2025-08-11 11:15...</span><span class="citation-popover-meta">Published: July 5, 2025</span></span></span>
+Unlike Cold War-era Air Force files, NUFORC's Virginia archive captures many events from the internet age. Reports may be submitted within hours of an observation, and they often include details that older official files never recorded, such as estimated viewing angle, weather conditions, colour, duration and the witness's own interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=191652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 191652Aug 12, 2025 — NUFORC UFO Sighting 191652; Occurred: 2025-07-05 22:43 Local; Reported: 2025-08-11 11:15...</span><span class="citation-popover-meta">Published: July 5, 2025</span></span></span>
 
-The database is especially useful because it preserves claims that would otherwise disappear. A witness in Charlottesville, Richmond or Hampton Roads can file a report even when no police record, military record or news story exists. For historians of Virginia UFO culture, that makes NUFORC an important archive of public perception and witness testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=162207" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 162207Occurred: 2021-02-25 06:15 Local · Reported: 2021-02-25 11:53 Pacific · Duration: Seconds · No of observe...</span><span class="citation-popover-meta">Published: February 25, 2021</span></span></span>
+The database is especially useful because it preserves claims that would otherwise disappear. A witness in Charlottesville, Richmond or Hampton Roads can file a report even when no police record, military record or news story exists. For historians of Virginia UFO culture, that makes NUFORC an important archive of public perception and witness testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=162207" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 162207Occurred: 2021-02-25 06:15 Local · Reported: 2021-02-25 11:53 Pacific · Duration: Seconds · No of observe...</span><span class="citation-popover-meta">Published: February 25, 2021</span></span></span>
 
 At the same time, preservation is not verification. NUFORC [records]({{ 'records-abc79c/' | relative_url }}) what people reported seeing. The existence of a report does not establish what the object actually was. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location NUFORC Reports by Location; USA</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location; USA - Connecticut, 2128; USA - District of Columbia, 160; USA - Delaware, 448...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1BumwqfnzHE" title="Strange drones spotted over Maryland, Virginia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1BumwqfnzHE" target="_blank" rel="noopener noreferrer">Strange drones spotted over Maryland, Virginia</a></p><p class="youtube-embed-meta">Channel: FOX 5 Washington DC &middot; Views: 118.0K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1BumwqfnzHE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1BumwqfnzHE">Open on YouTube</a></p></div></div></div>
 
@@ -273,7 +271,7 @@ At the same time, preservation is not verification. NUFORC [records]({{ 'records
 
 The most common misunderstanding is treating the number of reports as the number of unexplained events.
 
-A headline stating that Virginia has more than 2,600 reported UFO sightings sounds dramatic, but the figure mainly tells readers how many reports were entered into the database. It does not mean that 2,600 separate mysteries were confirmed by investigators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsls.com/features/2023/07/31/how-often-are-ufos-reported-in-virginia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsls.com">[WSLS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsls.com</span><span class="citation-popover-title">how often are ufos reported in virginia</span><span class="citation-popover-snippet">WSLSHow often are UFOs reported in Virginia?31 Jul 2023 — According to nuforc.org, Virginia as of July 28 had 2,639 reports of UFO sighti...</span></span></span>
+A headline stating that Virginia has more than 2,600 reported UFO sightings sounds dramatic, but the figure mainly tells readers how many reports were entered into the database. It does not mean that 2,600 separate mysteries were confirmed by investigators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsls.com/features/2023/07/31/how-often-are-ufos-reported-in-virginia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsls.com">[WSLS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsls.com</span><span class="citation-popover-title">how often are ufos reported in virginia</span><span class="citation-popover-snippet">How often are UFOs reported in Virginia?31 Jul 2023 — According to nuforc.org, Virginia as of July 28 had 2,639 reports of UFO sighti...</span></span></span>
 
 Several factors distort simple state-by-state totals:
 
@@ -281,18 +279,17 @@ Several factors distort simple state-by-state totals:
 * **Public awareness.** Major UFO news stories, congressional hearings or television coverage often encourage reporting.
 * **Reporting culture.** Some communities are more willing than others to submit unusual experiences to public databases.
 * **Internet-era accessibility.** Modern online reporting generates far more records than earlier decades.
-* **Duplicate or related reports.** One highly visible event can generate multiple entries from different witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectOn the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Looking up the sky: unidentified aerial phenomena and...by N Goldstein · 2024 · Cited by 1 — We document a surprising link between UAP s...</span></span></span> Academic work examining large UFO datasets has repeatedly warned that report frequency is influenced by social and environmental conditions.Researchers studying public UAP reporting have found connections between population patterns, reporting behaviour and broader social attention rather than simply the presence of unknown aerial objects. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Looking up the sky: unidentified aerial phenomena and...by N Goldstein · 2024 · Cited by 1 — We document a surprising link between UAP s...</span></span></span> Virginia illustrates the problem clearly. Northern Virginia sits within the wider Washington metropolitan area, contains large populations, major airports, military facilities and heavy air traffic, and has a public that closely follows defence and national-security news. Those conditions alone increase the likelihood that unusual aerial observations will be noticed and reported. High report volume does not automatically imply a higher concentration of unexplained phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxweather.com/earth-space/ufo-sightings-dmv-2023-congress-nasa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxweather.com">[FOX Weather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxweather.com</span><span class="citation-popover-title">ufo sightings dmv 2023 congress nasa</span><span class="citation-popover-snippet">UFO OVER TURKEY? LEARN WHAT MAKES THESE CLOUDS APPEAR SO ALIEN-LIKE. In total, more than 4,600...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">However, given that the...</span></span></span>
+* **Duplicate or related reports.** One highly visible event can generate multiple entries from different witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Looking up the sky: unidentified aerial phenomena and...by N Goldstein · 2024 · Cited by 1 — We document a surprising link between UAP s...</span></span></span> Academic work examining large UFO datasets has repeatedly warned that report frequency is influenced by social and environmental conditions.Researchers studying public UAP reporting have found connections between population patterns, reporting behaviour and broader social attention rather than simply the presence of unknown aerial objects. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Looking up the sky: unidentified aerial phenomena and...by N Goldstein · 2024 · Cited by 1 — We document a surprising link between UAP s...</span></span></span> Virginia illustrates the problem clearly. Northern Virginia sits within the wider Washington metropolitan area, contains large populations, major airports, military facilities and heavy air traffic, and has a public that closely follows defence and national-security news. Those conditions alone increase the likelihood that unusual aerial observations will be noticed and reported. High report volume does not automatically imply a higher concentration of unexplained phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxweather.com/earth-space/ufo-sightings-dmv-2023-congress-nasa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxweather.com">[FOX Weather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxweather.com</span><span class="citation-popover-title">ufo sightings dmv 2023 congress nasa</span><span class="citation-popover-snippet">UFO OVER TURKEY? LEARN WHAT MAKES THESE CLOUDS APPEAR SO ALIEN-LIKE. In total, more than 4,600...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">However, given that the...</span></span></span>
 
 ### Media spikes and reporting waves
 
 Raw counts become even harder to interpret during periods of intense media attention.
 
-Research into large UFO databases has found that reporting behaviour can be influenced by broadcasting, publicity and public discussion. When UFO stories dominate headlines, people are more likely to notice unusual lights, revisit older memories or submit reports they might otherwise ignore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectOn the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span>
+Research into large UFO databases has found that reporting behaviour can be influenced by broadcasting, publicity and public discussion. When UFO stories dominate headlines, people are more likely to notice unusual lights, revisit older memories or submit reports they might otherwise ignore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span>
 
-This means that a sudden increase in Virginia reports may represent a reporting wave rather than a wave of unusual aerial activity. The database records the arrival of reports, but readers must still ask why those reports appeared at that particular moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectOn the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span>
+This means that a sudden increase in Virginia reports may represent a reporting wave rather than a wave of unusual aerial activity. The database records the arrival of reports, but readers must still ask why those reports appeared at that particular moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</span></span></span>
 
-
-<img src="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_virginia_nuforc_coun_14a0da-Illustration-2-light.svg" | relative_url }}" alt="Report Counts illustration 2" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_virginia_nuforc_coun_14a0da-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_virginia_nuforc_coun_14a0da-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_virginia_nuforc_coun_14a0da-Illustration-2-dark.svg" | relative_url }}" alt="Report Counts illustration 2" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_virginia_nuforc_coun_14a0da-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_virginia_nuforc_coun_14a0da-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How probable explanations change a sighting's value
 
 A second problem with raw counts is that they treat all reports as if they have equal evidential weight.
@@ -306,10 +303,9 @@ The same issue appears throughout the database:
 * A brief observation lasting one or two seconds may offer too little information for reliable assessment.
 * Reports involving known aircraft corridors may have conventional explanations.
 * Bright planets, Starlink satellite trains and atmospheric effects have repeatedly generated UFO reports across the United States.
-* Some entries contain very limited detail and cannot be meaningfully investigated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Browse reports, images, videos, maps and more</span><span class="citation-popover-snippet">National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=174255" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 174255NUFORC UFO Sighting 174255... Unexplained movement of one object and 40 or so more objects. On Monday January...</span></span></span>
+* Some entries contain very limited detail and cannot be meaningfully investigated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Browse reports, images, videos, maps and more</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=174255" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 174255NUFORC UFO Sighting 174255... Unexplained movement of one object and 40 or so more objects. On Monday January...</span></span></span>
 
 When readers focus only on totals, these distinctions disappear. A short ambiguous light in the sky counts the same as a detailed report from multiple witnesses, even though the evidential value is very different.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a-Gqs6CKIHM" title="Thousands of East Coast drone sightings spark mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a-Gqs6CKIHM" target="_blank" rel="noopener noreferrer">Thousands of East Coast drone sightings spark mystery</a></p><p class="youtube-embed-meta">Channel: CBS Evening News &middot; Views: 107.9K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a-Gqs6CKIHM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a-Gqs6CKIHM">Open on YouTube</a></p></div></div></div>
 
@@ -331,17 +327,14 @@ This is why some Virginia incidents remain widely discussed while thousands of o
 
 A state with fewer reports but stronger documentation may ultimately provide more useful historical material than a state with a much larger database filled with brief, unverified observations.
 
-
-<img src="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_virginia_nuforc_coun_14a0da-Illustration-3-light.svg" | relative_url }}" alt="Report Counts illustration 3" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_virginia_nuforc_coun_14a0da-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_virginia_nuforc_coun_14a0da-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_virginia_nuforc_coun_14a0da-Illustration-3-dark.svg" | relative_url }}" alt="Report Counts illustration 3" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_virginia_nuforc_coun_14a0da-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_virginia_nuforc_coun_14a0da-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reading Virginia's NUFORC numbers responsibly
 
 NUFORC's Virginia archive remains one of the best public windows into modern sighting claims in the state. It preserves witness experiences that would otherwise be lost and allows researchers to track long-term reporting patterns. It is especially valuable because many post-1969 Virginia sightings never entered a federal investigative system and survive mainly through civilian reporting channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=23375" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 23375Duration: about 3 min. No of observers: 0. Location: Richmond, VA, USA Shape: Triangle Characteristics: Lights o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=190557" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 190557Jun 30, 2025 — Occurred: 2025-06-29 15:41 Local; Reported: 2025-06-29 12:49 Pacific; Duration: 3-5 minutes...</span><span class="citation-popover-meta">Published: June 29, 2025</span></span></span>
 
 The key point is that report counts measure reporting activity, not confirmed mysteries. A rise in sightings may reflect attention, visibility, demographics or reporting behaviour as much as any underlying phenomenon. Individual reports can remain interesting, and some deserve closer examination, but the raw total alone cannot tell readers how many Virginia UFO events were genuinely unexplained. Understanding that distinction is essential when using NUFORC as part of Virginia's broader UFO record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rpubs.com/jeffery_rodriguez/1430205" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rpubs.com">[rpubs.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rpubs.com</span><span class="citation-popover-title">jeffery rodriguez</span><span class="citation-popover-snippet">Mapping the Unknown: A Spatial Analysis of UFO Sighting...26 Apr 2026 — The dataset also includes an implicit bias as it only contains i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">However, given that the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Looking up the sky: unidentified aerial phenomena and...by N Goldstein · 2024 · Cited by 1 — We document a surprising link between UAP s...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NGzMWy8MuxY" title="The Odds: What do Americans think about extraterrestrial life?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NGzMWy8MuxY" target="_blank" rel="noopener noreferrer">The Odds: What do Americans think about extraterrestrial life?</a></p><p class="youtube-embed-meta">Channel: CNN &middot; Views: 22.3K &middot; Uploaded: May 2026 &middot; Length: 3 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NGzMWy8MuxY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NGzMWy8MuxY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -429,7 +422,7 @@ The key point is that report counts measure reporting activity, not confirmed my
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -439,111 +432,36 @@ The key point is that report counts measure reporting activity, not confirmed my
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grateful Dead Bertha UFO Maxi Poster"><img src="https://i.ebayimg.com/images/g/pM4AAeSwvQporxeM/s-l225.jpg" alt="Listing image for Grateful Dead Bertha UFO Maxi Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Grateful Dead Bertha UFO Maxi Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -551,15 +469,15 @@ The key point is that report counts measure reporting activity, not confirmed my
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX"><img src="https://i.ebayimg.com/images/g/D6YAAeSwgIhqJsph/s-l225.jpg" alt="Listing image for UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -567,15 +485,15 @@ The key point is that report counts measure reporting activity, not confirmed my
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -583,15 +501,15 @@ The key point is that report counts measure reporting activity, not confirmed my
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4"><img src="https://i.ebayimg.com/images/g/Ab0AAeSwSx9p8OkA/s-l225.jpg" alt="Listing image for ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -599,7 +517,7 @@ The key point is that report counts measure reporting activity, not confirmed my
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=report-counts-what-virginia-ufo-report-counts-really-show-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-virginia-ufo-report-counts-really-show-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -676,17 +594,31 @@ The key point is that report counts measure reporting activity, not confirmed my
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -699,42 +631,73 @@ The key point is that report counts measure reporting activity, not confirmed my
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -749,12 +712,17 @@ The key point is that report counts measure reporting activity, not confirmed my
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -764,183 +732,183 @@ The key point is that report counts measure reporting activity, not confirmed my
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lVA](https://nuforc.org/subndx/?id=lVA)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports for State VANUFORC Reports for State VA.; Open, 06/04/2025 21:30, Mechanicsville; Open, 05/30/2025 13:42, Virginia...</p></details>
+   Link: <a href="https://nuforc.org/subndx/?id=lVA" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lVA</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State VANUFORC Reports for State VA.; Open, 06/04/2025 21:30, Mechanicsville; Open, 05/30/2025 13:42, Virginia...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCFile a UFO Report | NUFORCWelcome to the National UFO Reporting Center On-line Report Form. For 50 years NUFORC has served as the c...</p></details>
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>File a UFO Report | NUFORCWelcome to the National UFO Reporting Center On-line Report Form. For 50 years NUFORC has served as the c...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295](https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectOn the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378437122005295</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the dynamics of reporting data: A case study of UFO...by FJ Antonio · 2022 · Cited by 7 — In this study, we used data fr...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting reports available on the interne...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: osi.af.mil  
    Title: project blue book part 1 ufo reports  
-   Link: [https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/](https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/)  
+   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Part 1 (UFO Reports)6 Aug 2020 — The reports revealed that OSI agents documented and investigated UFO sightings from 19...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: wsls.com  
    Title: how often are ufos reported in virginia  
-   Link: [https://www.wsls.com/features/2023/07/31/how-often-are-ufos-reported-in-virginia/](https://www.wsls.com/features/2023/07/31/how-often-are-ufos-reported-in-virginia/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WSLSHow often are UFOs reported in Virginia?31 Jul 2023 — According to nuforc.org, Virginia as of July 28 had 2,639 reports of UFO sighti...</p></details>
+   Link: <a href="https://www.wsls.com/features/2023/07/31/how-often-are-ufos-reported-in-virginia/" target="_blank" rel="noopener noreferrer nofollow">https://www.wsls.com/features/2023/07/31/how-often-are-ufos-reported-in-virginia/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How often are UFOs reported in Virginia?31 Jul 2023 — According to nuforc.org, Virginia as of July 28 had 2,639 reports of UFO sighti...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41599-024-04182-z](https://www.nature.com/articles/s41599-024-04182-z)  
+   Link: <a href="https://www.nature.com/articles/s41599-024-04182-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-04182-z</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Looking up the sky: unidentified aerial phenomena and...by N Goldstein · 2024 · Cited by 1 — We document a surprising link between UAP s...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, given that the...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=event](https://nuforc.org/ndx/?id=event)  
+   Link: <a href="https://nuforc.org/ndx/?id=event" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=event</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by MonthSIGHTING YEAR/MONTH, REPORT COUNT. 2026/05, 160. 2026/04, 212. 2026/03, 200. 2026/02, 178. 2026/01, 283. 2025/12...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=191652](https://nuforc.org/sighting/?id=191652)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 191652Aug 12, 2025 — NUFORC UFO Sighting 191652; Occurred: 2025-07-05 22:43 Local; Reported: 2025-08-11 11:15...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=191652" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191652</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 191652Aug 12, 2025 — NUFORC UFO Sighting 191652; Occurred: 2025-07-05 22:43 Local; Reported: 2025-08-11 11:15...</p></details>
    Published: July 5, 2025  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=162207](https://nuforc.org/sighting/?id=162207)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 162207Occurred: 2021-02-25 06:15 Local · Reported: 2021-02-25 11:53 Pacific · Duration: Seconds · No of observe...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=162207" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=162207</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 162207Occurred: 2021-02-25 06:15 Local · Reported: 2021-02-25 11:53 Pacific · Duration: Seconds · No of observe...</p></details>
    Published: February 25, 2021  
 
 12. <a id="endnote-12"></a>
    Source: rpubs.com  
    Title: jeffery rodriguez  
-   Link: [https://rpubs.com/jeffery_rodriguez/1430205](https://rpubs.com/jeffery_rodriguez/1430205)  
+   Link: <a href="https://rpubs.com/jeffery_rodriguez/1430205" target="_blank" rel="noopener noreferrer nofollow">https://rpubs.com/jeffery_rodriguez/1430205</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping the Unknown: A Spatial Analysis of UFO Sighting...26 Apr 2026 — The dataset also includes an implicit bias as it only contains i...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location NUFORC Reports by Location; USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationNUFORC Reports by Location; USA - Connecticut, 2128; USA - District of Columbia, 160; USA - Delaware, 448...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=30517](https://nuforc.org/sighting/?id=30517)  
+   Link: <a href="https://nuforc.org/sighting/?id=30517" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=30517</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 30517NUFORC UFO Sighting 30517. Occurred: 1977-05-15 08:00 Local - Approximate Reported: 2003-08-04 08:23 Pacific Dur...</p></details>
    Published: August 4, 2003  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
    Title: Browse reports, images, videos, maps and more  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=174255](https://nuforc.org/sighting/?id=174255)  
+   Link: <a href="https://nuforc.org/sighting/?id=174255" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=174255</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 174255NUFORC UFO Sighting 174255... Unexplained movement of one object and 40 or so more objects. On Monday January...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=23375](https://nuforc.org/sighting/?id=23375)  
+   Link: <a href="https://nuforc.org/sighting/?id=23375" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=23375</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 23375Duration: about 3 min. No of observers: 0. Location: Richmond, VA, USA Shape: Triangle Characteristics: Lights o...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=190557](https://nuforc.org/sighting/?id=190557)  
+   Link: <a href="https://nuforc.org/sighting/?id=190557" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190557</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 190557Jun 30, 2025 — Occurred: 2025-06-29 15:41 Local; Reported: 2025-06-29 12:49 Pacific; Duration: 3-5 minutes...</p></details>
    Published: June 29, 2025  
 
 20. <a id="endnote-20"></a>
    Source: ada-nuforc-analysis.github.io  
-   Link: [https://ada-nuforc-analysis.github.io/](https://ada-nuforc-analysis.github.io/)  
+   Link: <a href="https://ada-nuforc-analysis.github.io/" target="_blank" rel="noopener noreferrer nofollow">https://ada-nuforc-analysis.github.io/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Report AnalysisThe NUFORC checks each reports for fakes or hoax and comments them accordingly. The reports are classified by their...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: foxweather.com  
    Title: ufo sightings dmv 2023 congress nasa  
-   Link: [https://www.foxweather.com/earth-space/ufo-sightings-dmv-2023-congress-nasa](https://www.foxweather.com/earth-space/ufo-sightings-dmv-2023-congress-nasa)  
+   Link: <a href="https://www.foxweather.com/earth-space/ufo-sightings-dmv-2023-congress-nasa" target="_blank" rel="noopener noreferrer nofollow">https://www.foxweather.com/earth-space/ufo-sightings-dmv-2023-congress-nasa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO OVER TURKEY? LEARN WHAT MAKES THESE CLOUDS APPEAR SO ALIEN-LIKE. In total, more than 4,600...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/](https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/)  
+   Link: <a href="https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC sightings categorized by decade and shapeDec 1, 2025 — 147,890 UFO sightings from NUFORC, scraped on January 16, 2024...</p></details>
    Published: January 16, 2024  
 
 23. <a id="endnote-23"></a>
    Source: frostburg.edu  
-   Link: [https://www.frostburg.edu/personal-arduncan/allegany-county-by-location.php](https://www.frostburg.edu/personal-arduncan/allegany-county-by-location.php)  
+   Link: <a href="https://www.frostburg.edu/personal-arduncan/allegany-county-by-location.php" target="_blank" rel="noopener noreferrer nofollow">https://www.frostburg.edu/personal-arduncan/allegany-county-by-location.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC). [https://nuforc.org/sighting/?id=...Read](https://nuforc.org/sighting/?id=...Read) more...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings](https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings)  
+   Link: <a href="https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsThe National UFO Research Center (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains t...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: huggingface.co  
-   Link: [https://huggingface.co/datasets/kcimc/NUFORC](https://huggingface.co/datasets/kcimc/NUFORC)  
+   Link: <a href="https://huggingface.co/datasets/kcimc/NUFORC" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/datasets/kcimc/NUFORC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>kcimc/NUFORC · Datasets at Hugging FaceNUFORC. 147,890 UFO sightings from NUFORC, scraped on January 16, 2024. The best representation of...</p></details>
    Published: January 16, 2024  
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/dataisbeautiful/comments/xhdjq2/oc_ufo_reports_in_the_contiguous_united_states/](https://www.reddit.com/r/dataisbeautiful/comments/xhdjq2/oc_ufo_reports_in_the_contiguous_united_states/)  
+   Link: <a href="https://www.reddit.com/r/dataisbeautiful/comments/xhdjq2/oc_ufo_reports_in_the_contiguous_united_states/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/dataisbeautiful/comments/xhdjq2/oc_ufo_reports_in_the_contiguous_united_states/</a>  
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Jj3DhKSaw0w](https://www.youtube.com/watch?v=Jj3DhKSaw0w)  
+   Link: <a href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jj3DhKSaw0w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This interview with F-18 Pilot Ryan Graves details the importance of systematic data aggregation for UAP incidents over raw, unverified p...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: steeped.ai  
    Title: ufo sightings data analysis exploring tier 1 reports  
-   Link: [https://steeped.ai/ufo-sightings-data-analysis-exploring-tier-1-reports/](https://steeped.ai/ufo-sightings-data-analysis-exploring-tier-1-reports/)  
+   Link: <a href="https://steeped.ai/ufo-sightings-data-analysis-exploring-tier-1-reports/" target="_blank" rel="noopener noreferrer nofollow">https://steeped.ai/ufo-sightings-data-analysis-exploring-tier-1-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Data Analysis: Exploring 1500+ Tier 1 Reports21 Jan 2026 — As the “National” in NUFORC suggests, these sightings were heavi...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: patch.com  
    Title: pentagon dump ufo files adds intrigue va sightings  
-   Link: [https://patch.com/virginia/across-va/pentagon-dump-ufo-files-adds-intrigue-va-sightings](https://patch.com/virginia/across-va/pentagon-dump-ufo-files-adds-intrigue-va-sightings)  
+   Link: <a href="https://patch.com/virginia/across-va/pentagon-dump-ufo-files-adds-intrigue-va-sightings" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/virginia/across-va/pentagon-dump-ufo-files-adds-intrigue-va-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Dump Of UFO Files Adds Intrigue To VA Sightings14 May 2026 — The Pentagon has spent years declassifying UFO-related documents, f...</p></details>
    Published: May 2026  
 
 30. <a id="endnote-30"></a>
    Source: reddit.com  
    Title: i analyzed 80000 ufo sightings from the nuforc  
-   Link: [https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/](https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14w522g/i_analyzed_80000_ufo_sightings_from_the_nuforc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>databaseThis analysis suggests that orange, white, and red are the most frequently observed colors in the reported UFO sightings, accordi...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
    Title: Does your state have the most UFO sightings?  
-   Link: [https://www.facebook.com/watchdust/posts/does-your-state-have-the-most-ufo-sightings-check-out-the-charts-position-the-te/1595621700605240/](https://www.facebook.com/watchdust/posts/does-your-state-have-the-most-ufo-sightings-check-out-the-charts-position-the-te/1595621700605240/)  
+   Link: <a href="https://www.facebook.com/watchdust/posts/does-your-state-have-the-most-ufo-sightings-check-out-the-charts-position-the-te/1595621700605240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/watchdust/posts/does-your-state-have-the-most-ufo-sightings-check-out-the-charts-position-the-te/1595621700605240/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Check out...Does your state have the most UFO sightings? Check out the charts, position the telescopes, and grab the foil hats! Happy Wo...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100083299660885/posts/this-map-displays-reported-ufo-sightings-from-around-the-world-highlighting-wher/775212205265428/](https://www.facebook.com/100083299660885/posts/this-map-displays-reported-ufo-sightings-from-around-the-world-highlighting-wher/775212205265428/)  
+   Link: <a href="https://www.facebook.com/100083299660885/posts/this-map-displays-reported-ufo-sightings-from-around-the-world-highlighting-wher/775212205265428/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100083299660885/posts/this-map-displays-reported-ufo-sightings-from-around-the-world-highlighting-wher/775212205265428/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>based on larger analysis on the NUFORC UFO Sightings dataset...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox6news/posts/heres-where-people-are-reporting-the-most-ufo-sightings-in-the-us-according-to-t/953905559656268/](https://www.facebook.com/fox6news/posts/heres-where-people-are-reporting-the-most-ufo-sightings-in-the-us-according-to-t/953905559656268/)  
+   Link: <a href="https://www.facebook.com/fox6news/posts/heres-where-people-are-reporting-the-most-ufo-sightings-in-the-us-according-to-t/953905559656268/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox6news/posts/heres-where-people-are-reporting-the-most-ufo-sightings-in-the-us-according-to-t/953905559656268/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>y can&#x27;t figure out where in space it is from.|UFO sightings...</p></details>

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /delaware-5861e4-modern-delaware-hots/
 description: Focused pages that expand on Modern Hotspots.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Delaware_5861e4_modern_delaware_hots_55c072
-parent_title: Modern Hotspots | What Really Happened in Delaware's UFO...
+parent_title: Modern Hotspots
 parent_nav_short_title: Modern Hotspots
 parent_permalink: /modern-hotspots/
 ---

@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-alaskas-ufo/
 nav_short_title: JAL 1628
 title: Why JAL 1628 Still Divides UFO Researchers
-title_full: Why JAL 1628 Still Divides UFO Researchers | Alaska UFOs
+title_full: Why JAL 1628 Still Divides UFO Researchers
 display_title_short: JAL 1628
 display_title: JAL 1628
 heading_title: Why JAL 1628 Still Divides UFO Researchers
@@ -268,8 +268,7 @@ image: /assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606-overview-social.j
 
 ## Introduction
 
-Japan Air Lines Cargo Flight 1628 in November 1986 remains one of the most debated and scrutinised air‑traffic encounters in [Alaska]({{ 'what-really-happened-in-alaskas-ufo/' | relative_url }})’s UFO history. What makes this case stand out for many researchers is not just the vivid testimony of an experienced crew but the radar data linked to the incident and the unusual official response that followed. In this episode, Captain Kenju Terauchi and his two crew members reported seeing and tracking unidentified objects over eastern Alaska for nearly an hour, and some of those reports were reflected—albeit transiently—on government radar systems. Yet in the decades since, careful scrutiny of the radar evidence and official investigations has left the episode unresolved and contested rather than a clear example of unexplained aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/cases/case287.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[UFO Evidence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-snippet">UFO EvidenceJapan Air Lines Flight 1628 Over Alaska - Alaska, United States - November 17, 1986 - UFO EvidenceNovember 17, 1986...</span><span class="citation-popover-meta">Published: November 17, 1986</span></span></span>
-
+Japan Air Lines Cargo Flight 1628 in November 1986 remains one of the most debated and scrutinised air‑traffic encounters in Alaska’s UFO history. What makes this case stand out for many researchers is not just the vivid testimony of an experienced crew but the radar data linked to the incident and the unusual official response that followed. In this episode, Captain Kenju Terauchi and his two crew members reported seeing and tracking unidentified objects over eastern Alaska for nearly an hour, and some of those reports were reflected—albeit transiently—on government radar systems. Yet in the decades since, careful scrutiny of the radar evidence and official investigations has left the episode unresolved and contested rather than a clear example of unexplained aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/cases/case287.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[UFO Evidence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-snippet">UFO EvidenceJapan Air Lines Flight 1628 Over Alaska - Alaska, United States - November 17, 1986 - UFO EvidenceNovember 17, 1986...</span><span class="citation-popover-meta">Published: November 17, 1986</span></span></span>
 
 <img src="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606-overview.webp" | relative_url }}" alt="Overview image for JAL 1628" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Crew Reported Over Alaska
@@ -278,20 +277,18 @@ On 17 November 1986, **Japan Air Lines Flight 1628**, a Boeing 747‑200
 
 The crew’s sighting included both **visual observations** and reports of the objects on **the aircraft’s onboard weather radar**, which added to the seriousness with which air‑traffic controllers and the Federal Aviation Administration (FAA) initially treated the event. When Captain Terauchi reported the sighting to Anchorage flight controllers, they advised him to take evasive action and even permitted a 360‑degree turn to attempt to identify the objects visually. <span class="citation-chip-wrap"><a class="citation-chip" href="https://isgp-studies.com/misc/UFOs/press-reports/1986-11-ap-faa-investigates-jal-flight-1628-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isgp-studies.com">[ISGP Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isgp-studies.com</span><span class="citation-popover-title">1986 11 ap faa investigates jal flight 1628 ufo sighting</span><span class="citation-popover-snippet">ISGP StudiesFAA investigates JAL Flight 1628 UFO Sighting...</span></span></span>
 
-
-<img src="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606-Illustration-1-light.svg" | relative_url }}" alt="JAL 1628 illustration 1" data-theme-src-dark="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606-Illustration-1-dark.svg" | relative_url }}" alt="JAL 1628 illustration 1" data-theme-src-dark="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Radar Data and Official Investigation
 
 Unlike many UFO claims that rest solely on anecdote, **radar evidence played a central role** in how this event was documented and investigated. According to contemporary press accounts and later releases of official material:
 
 * **Primary radar returns**—the raw reflections from airborne objects—were recorded by the Anchorage Air Route Traffic Control Centre. Controllers saw intermittent returns near Flight 1628 that were not immediately identifiable as any known aircraft, and these spiked interest in the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://isgp-studies.com/misc/UFOs/press-reports/1986-11-ap-faa-investigates-jal-flight-1628-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isgp-studies.com">[ISGP Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isgp-studies.com</span><span class="citation-popover-title">1986 11 ap faa investigates jal flight 1628 ufo sighting</span><span class="citation-popover-snippet">ISGP StudiesFAA investigates JAL Flight 1628 UFO Sighting...</span></span></span>
-* Initial reports suggested that both FAA and Alaskan Air Force radar systems detected a secondary target pacing the Japanese freighter, although military radar operators later attributed fleeting contacts to **clutter or interference** rather than a distinct aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">UPIController confirms UFO sighting - UPI ArchivesDecember 30, 1986...</span><span class="citation-popover-meta">Published: December 30, 1986</span></span></span>
+* Initial reports suggested that both FAA and Alaskan Air Force radar systems detected a secondary target pacing the Japanese freighter, although military radar operators later attributed fleeting contacts to **clutter or interference** rather than a distinct aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">Controller confirms UFO sighting - UPI ArchivesDecember 30, 1986...</span><span class="citation-popover-meta">Published: December 30, 1986</span></span></span>
 * The FAA compiled radar tapes, printouts and ATC transcripts into an internal case file and forwarded these to Washington, where analysts re‑examined them at the FAA Technical Centre. These records include controllers’ shift logs, radar plots, and raw data that reflect the reactions of radar personnel at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files 1986 alaska jal flight 1628</span><span class="citation-popover-snippet">The Black VaultThe Vault Files: 1986 Alaska JAL Flight 1628 - The Black Vault Case FilesAugust 25, 2025...</span><span class="citation-popover-meta">Published: August 25, 2025</span></span></span>
 
 This combination of **visual [pilot reports]({{ 'pilot-reports/' | relative_url }})** with **ground‑based radar artefacts** remains the core of the “radar evidence” that keeps the JAL 1628 episode distinct within Alaska’s UFO literature. Yet the nature and interpretation of those returns are highly disputed among investigators.
 
-
-<img src="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606-Illustration-3-light.svg" | relative_url }}" alt="JAL 1628 illustration 3" data-theme-src-dark="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606-Illustration-3-dark.svg" | relative_url }}" alt="JAL 1628 illustration 3" data-theme-src-dark="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jxjc4Nm728M" title="Boeing 747 Followed by a UFO | An Out Of This World Encounter | Japan Air Lines Flight 1628" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jxjc4Nm728M" target="_blank" rel="noopener noreferrer">Boeing 747 Followed by a UFO | An Out Of This World Encounter | Japan Air Lines Flight 1628</a></p><p class="youtube-embed-meta">Channel: TheFlightChannel &middot; Views: 8.6M &middot; Uploaded: March 2018 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jxjc4Nm728M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jxjc4Nm728M">Open on YouTube</a></p></div></div></div>
 
@@ -305,20 +302,16 @@ Despite the initial excitement, the **official interpretation of the radar evide
 
 Importantly, other aircraft asked to visually or electronically confirm the sightings—such as a United Airlines flight and a U.S. Air Force C‑130 nearby at the time—reported seeing nothing unusual on radar or by eye. This contrast underscores the unresolved nature of the evidence: one experienced crew reported sustained contact, but independent corroboration was limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.internationalflyingsaucerbureau.com/japan-air-lines-cargo-flight-1628-incident-november-17-1986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalflyingsaucerbureau.com">[Flying Saucer Bureau]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalflyingsaucerbureau.com</span><span class="citation-popover-title">japan air lines cargo flight 1628 incident november 17 1986</span><span class="citation-popover-snippet">Flying Saucer BureauJapan Air Lines Cargo Flight 1628 incident. November 17, 1986. - International Flying Saucer Bureau (IFSB)...</span><span class="citation-popover-meta">Published: November 17, 1986</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ekykrn0h7ZE" title="JAL Flight 1628 UFO Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ekykrn0h7ZE" target="_blank" rel="noopener noreferrer">JAL Flight 1628 UFO Incident</a></p><p class="youtube-embed-meta">Channel: BusanKevin &middot; Views: 437 &middot; Uploaded: February 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ekykrn0h7ZE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ekykrn0h7ZE">Open on YouTube</a></p></div></div></div>
 
-
-<img src="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606-Illustration-2-light.svg" | relative_url }}" alt="JAL 1628 illustration 2" data-theme-src-dark="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606-Illustration-2-dark.svg" | relative_url }}" alt="JAL 1628 illustration 2" data-theme-src-dark="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alaska_7288f7_jal_1628_radar_case_0e3606-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Case Still Matters in Alaska’s UFO Record
 
-JAL Flight 1628’s significance within Alaska’s UFO history stems from the **combination of professional pilot testimony with radar data and official documentation**. Few other incidents in the state involve such an intersection of skilled observers and recorded instrumental traces at the time. That intersection is precisely what draws interest: it elevates the episode from an anecdote to a case with **multi‑layered evidentiary strands**, even though those strands have not coalesced into a clear, universally accepted explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mykss.com/en/article/japan-airlines-flight-1628-alaska-ufo-encounter-1986-eyewitness-testimonies-cross-examined-again/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mykss.com">[MYKSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mykss.com</span><span class="citation-popover-snippet">MYKSSJapan Airlines Flight 1628 Alaska UFO Encounter 1986 Eyewitness Testimonies Cross Examined Against Official Records | MYKSS...</span></span></span>
+JAL Flight 1628’s significance within Alaska’s UFO history stems from the **combination of professional pilot testimony with radar data and official documentation**. Few other incidents in the state involve such an intersection of skilled observers and recorded instrumental traces at the time. That intersection is precisely what draws interest: it elevates the episode from an anecdote to a case with **multi‑layered evidentiary strands**, even though those strands have not coalesced into a clear, universally accepted explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mykss.com/en/article/japan-airlines-flight-1628-alaska-ufo-encounter-1986-eyewitness-testimonies-cross-examined-again/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mykss.com">[MYKSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mykss.com</span><span class="citation-popover-snippet">Japan Airlines Flight 1628 Alaska UFO Encounter 1986 Eyewitness Testimonies Cross Examined Against Official Records &#124; MYKSS...</span></span></span>
 
 At the same time, the episode illustrates the limits of mid‑20th‑century radar technology, the challenges of interpreting ambiguous returns amidst busy airspace, and how subsequent narrative framing can diverge widely—from official scepticism to accounts alleging cover‑ups or concealed data. For researchers and readers exploring Alaska’s UFO patterns, JAL 1628 remains a touchstone for understanding how **evidence, interpretation and institutional response** interact in high‑profile sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/amp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black VaultThe Vault Files: 1986 Alaska JAL Flight 1628 - The Black Vault Case FilesAugust 25, 2025...</span><span class="citation-popover-meta">Published: August 25, 2025</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SQ5HunKFTtU" title="Boeing 747 Followed by a UFO | Terrifying Moments over Alaska (An Out of this World Encounter)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SQ5HunKFTtU" target="_blank" rel="noopener noreferrer">Boeing 747 Followed by a UFO | Terrifying Moments over Alaska (An Out of this World Encounter)</a></p><p class="youtube-embed-meta">Channel: TheFlightChannel &middot; Views: 566.0K &middot; Uploaded: May 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SQ5HunKFTtU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SQ5HunKFTtU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -406,7 +399,7 @@ At the same time, the episode illustrates the limits of mid‑20th‑century rad
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -416,111 +409,36 @@ At the same time, the episode illustrates the limits of mid‑20th‑century rad
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jal-1628-still-divides-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-jal-1628-still-divides-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jal-1628-still-divides-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-jal-1628-still-divides-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jal-1628-still-divides-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-jal-1628-still-divides-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jal-1628-still-divides-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-jal-1628-still-divides-ufo-researchers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -528,15 +446,15 @@ At the same time, the episode illustrates the limits of mid‑20th‑century rad
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jal-1628-still-divides-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-jal-1628-still-divides-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jal-1628-still-divides-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-jal-1628-still-divides-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jal-1628-still-divides-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-jal-1628-still-divides-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jal-1628-still-divides-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-jal-1628-still-divides-ufo-researchers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,15 +462,15 @@ At the same time, the episode illustrates the limits of mid‑20th‑century rad
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jal-1628-still-divides-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-jal-1628-still-divides-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jal-1628-still-divides-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-jal-1628-still-divides-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jal-1628-still-divides-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-jal-1628-still-divides-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jal-1628-still-divides-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-jal-1628-still-divides-ufo-researchers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -560,15 +478,15 @@ At the same time, the episode illustrates the limits of mid‑20th‑century rad
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jal-1628-still-divides-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-jal-1628-still-divides-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jal-1628-still-divides-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-jal-1628-still-divides-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jal-1628-still-divides-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-jal-1628-still-divides-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jal-1628-still-divides-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-jal-1628-still-divides-ufo-researchers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -576,7 +494,7 @@ At the same time, the episode illustrates the limits of mid‑20th‑century rad
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-why-jal-1628-still-divides-ufo-researchers-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-jal-1628-still-divides-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-jal-1628-still-divides-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -653,17 +571,31 @@ At the same time, the episode illustrates the limits of mid‑20th‑century rad
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -676,42 +608,73 @@ At the same time, the episode illustrates the limits of mid‑20th‑century rad
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -726,12 +689,17 @@ At the same time, the episode illustrates the limits of mid‑20th‑century rad
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -742,77 +710,77 @@ At the same time, the episode illustrates the limits of mid‑20th‑century rad
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Japan Air Lines Cargo Flight 1628  
-   Link: [https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628](https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628)  
+   Link: <a href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628</a>  
 
 2. <a id="endnote-2"></a>
    Source: mykss.com  
-   Link: [https://mykss.com/en/article/japan-airlines-flight-1628-alaska-ufo-encounter-1986-eyewitness-testimonies-cross-examined-again/](https://mykss.com/en/article/japan-airlines-flight-1628-alaska-ufo-encounter-1986-eyewitness-testimonies-cross-examined-again/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MYKSSJapan Airlines Flight 1628 Alaska UFO Encounter 1986 Eyewitness Testimonies Cross Examined Against Official Records | MYKSS...</p></details>
+   Link: <a href="https://mykss.com/en/article/japan-airlines-flight-1628-alaska-ufo-encounter-1986-eyewitness-testimonies-cross-examined-again/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/article/japan-airlines-flight-1628-alaska-ufo-encounter-1986-eyewitness-testimonies-cross-examined-again/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Japan Airlines Flight 1628 Alaska UFO Encounter 1986 Eyewitness Testimonies Cross Examined Against Official Records | MYKSS...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: isgp-studies.com  
    Title: 1986 11 ap faa investigates jal flight 1628 ufo sighting  
-   Link: [https://isgp-studies.com/misc/UFOs/press-reports/1986-11-ap-faa-investigates-jal-flight-1628-ufo-sighting](https://isgp-studies.com/misc/UFOs/press-reports/1986-11-ap-faa-investigates-jal-flight-1628-ufo-sighting)  
+   Link: <a href="https://isgp-studies.com/misc/UFOs/press-reports/1986-11-ap-faa-investigates-jal-flight-1628-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://isgp-studies.com/misc/UFOs/press-reports/1986-11-ap-faa-investigates-jal-flight-1628-ufo-sighting</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISGP StudiesFAA investigates JAL Flight 1628 UFO Sighting...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: upi.com  
    Title: Controller confirms UFO sighting  
-   Link: [https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/](https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPIController confirms UFO sighting - UPI ArchivesDecember 30, 1986...</p></details>
+   Link: <a href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Controller confirms UFO sighting - UPI ArchivesDecember 30, 1986...</p></details>
    Published: December 30, 1986  
 
 5. <a id="endnote-5"></a>
    Source: mykss.com  
-   Link: [https://mykss.com/en/article/japan-airlines-flight-1628-alaska-ufo-encounter-1986-official-reports-and-declassified-governmen/](https://mykss.com/en/article/japan-airlines-flight-1628-alaska-ufo-encounter-1986-official-reports-and-declassified-governmen/)  
+   Link: <a href="https://mykss.com/en/article/japan-airlines-flight-1628-alaska-ufo-encounter-1986-official-reports-and-declassified-governmen/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/article/japan-airlines-flight-1628-alaska-ufo-encounter-1986-official-reports-and-declassified-governmen/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>t Document Index | MYKSSMay 10, 2025 — UFO Major Event Files · Japan Airlines Flight 1628 Alaska UFO Encounter 1986 · Official Reports ·...</p></details>
    Published: May 10, 2025  
 
 6. <a id="endnote-6"></a>
    Source: upi.com  
-   Link: [https://www.upi.com/Archives/1986/12/31/A-veteran-pilot-whose-UFO-sighting-was-confirmed-on/2755536389200/](https://www.upi.com/Archives/1986/12/31/A-veteran-pilot-whose-UFO-sighting-was-confirmed-on/2755536389200/)  
+   Link: <a href="https://www.upi.com/Archives/1986/12/31/A-veteran-pilot-whose-UFO-sighting-was-confirmed-on/2755536389200/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1986/12/31/A-veteran-pilot-whose-UFO-sighting-was-confirmed-on/2755536389200/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UPI ArchivesDecember 31, 1986 — Dec. 31, 1986 A VETERAN PILOT WHOSE UFO SIGHTING WAS CONFIRMED ON... ANCHORAGE, Alaska -- A veteran pilot...</p></details>
    Published: December 31, 1986  
 
 7. <a id="endnote-7"></a>
    Source: upi.com  
    Title: The crew of a Japan Air Lines cargo jet  
-   Link: [https://www.upi.com/Archives/1986/12/29/The-crew-of-a-Japan-Air-Lines-cargo-jet/1302536216400/](https://www.upi.com/Archives/1986/12/29/The-crew-of-a-Japan-Air-Lines-cargo-jet/1302536216400/)  
+   Link: <a href="https://www.upi.com/Archives/1986/12/29/The-crew-of-a-Japan-Air-Lines-cargo-jet/1302536216400/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1986/12/29/The-crew-of-a-Japan-Air-Lines-cargo-jet/1302536216400/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UPI ArchivesDecember 29, 1986 — Dec. 29, 1986 THE CREW OF A JAPAN AIR LINES CARGO JET... ANCHORAGE, Alaska -- The crew of a Japan Air Lin...</p></details>
    Published: December 29, 1986  
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ekykrn0h7ZE](https://www.youtube.com/watch?v=ekykrn0h7ZE)  
+   Link: <a href="https://www.youtube.com/watch?v=ekykrn0h7ZE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ekykrn0h7ZE</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Japan Air Lines Cargo Flight 1628 - UFO Incident Animation...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Gk1WLeuEKJg](https://www.youtube.com/watch?v=Gk1WLeuEKJg)  
+   Link: <a href="https://www.youtube.com/watch?v=Gk1WLeuEKJg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gk1WLeuEKJg</a>  
 
 10. <a id="endnote-10"></a>
    Source: ufoevidence.org  
-   Link: [https://www.ufoevidence.org/cases/case287.htm](https://www.ufoevidence.org/cases/case287.htm)  
+   Link: <a href="https://www.ufoevidence.org/cases/case287.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case287.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO EvidenceJapan Air Lines Flight 1628 Over Alaska - Alaska, United States - November 17, 1986 - UFO EvidenceNovember 17, 1986...</p></details>
    Published: November 17, 1986  
 
 11. <a id="endnote-11"></a>
    Source: theblackvault.com  
    Title: the vault files 1986 alaska jal flight 1628  
-   Link: [https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/](https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultThe Vault Files: 1986 Alaska JAL Flight 1628 - The Black Vault Case FilesAugust 25, 2025...</p></details>
    Published: August 25, 2025  
 
 12. <a id="endnote-12"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/amp/](https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/amp/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/amp/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/amp/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultThe Vault Files: 1986 Alaska JAL Flight 1628 - The Black Vault Case FilesAugust 25, 2025...</p></details>
    Published: August 25, 2025  
 
 13. <a id="endnote-13"></a>
    Source: internationalflyingsaucerbureau.com  
    Title: japan air lines cargo flight 1628 incident november 17 1986  
-   Link: [https://www.internationalflyingsaucerbureau.com/japan-air-lines-cargo-flight-1628-incident-november-17-1986/](https://www.internationalflyingsaucerbureau.com/japan-air-lines-cargo-flight-1628-incident-november-17-1986/)  
+   Link: <a href="https://www.internationalflyingsaucerbureau.com/japan-air-lines-cargo-flight-1628-incident-november-17-1986/" target="_blank" rel="noopener noreferrer nofollow">https://www.internationalflyingsaucerbureau.com/japan-air-lines-cargo-flight-1628-incident-november-17-1986/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucer BureauJapan Air Lines Cargo Flight 1628 incident. November 17, 1986. - International Flying Saucer Bureau (IFSB)...</p></details>
    Published: November 17, 1986  
 
@@ -821,61 +789,61 @@ At the same time, the episode illustrates the limits of mid‑20th‑century rad
 14. <a id="endnote-14"></a>
    Source: ufopulse.com  
    Title: Captain Kenju Terauchi, an experienced pilot with over 10,000 hours of flight  
-   Link: [https://www.ufopulse.com/revisiting-the-1986-japan-airlines-jal-1628-ufo-incident-a-historical-uap-encoun/](https://www.ufopulse.com/revisiting-the-1986-japan-airlines-jal-1628-ufo-incident-a-historical-uap-encoun/)  
+   Link: <a href="https://www.ufopulse.com/revisiting-the-1986-japan-airlines-jal-1628-ufo-incident-a-historical-uap-encoun/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufopulse.com/revisiting-the-1986-japan-airlines-jal-1628-ufo-incident-a-historical-uap-encoun/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting the 1986 Japan Airlines JAL 1628 UFO Incident: A Historical UAP Encounter | UFOPulseMay 6, 2026 — THE FLIGHT PATH AND INITIAL...</p></details>
    Published: May 6, 2026  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=jxjc4Nm728M](https://www.youtube.com/watch?v=jxjc4Nm728M)  
+   Link: <a href="https://www.youtube.com/watch?v=jxjc4Nm728M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jxjc4Nm728M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing 747 Followed by a UFO | Terrifying Moments over Alaska (An Out of this World Encounter)...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: latest-ufo-sightings.net  
    Title: 1986 ufo case japan air lines flight 1628  
-   Link: [https://www.latest-ufo-sightings.net/2014/08/1986-ufo-case-japan-air-lines-flight-1628.html](https://www.latest-ufo-sightings.net/2014/08/1986-ufo-case-japan-air-lines-flight-1628.html)  
+   Link: <a href="https://www.latest-ufo-sightings.net/2014/08/1986-ufo-case-japan-air-lines-flight-1628.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2014/08/1986-ufo-case-japan-air-lines-flight-1628.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1986 UFO Case: Japan Air Lines Flight 1628 • Latest UFO SightingsAugust 30, 2014 — 1986 UFO CASE: JAPAN AIR LINES FLIGHT 1628 August 30...</p></details>
    Published: August 30, 2014  
 
 17. <a id="endnote-17"></a>
    Source: uapedia.ai  
    Title: japan airlines flight jal1628 1986  
-   Link: [https://uapedia.ai/wiki/japan-airlines-flight-jal1628-1986/](https://uapedia.ai/wiki/japan-airlines-flight-jal1628-1986/)  
+   Link: <a href="https://uapedia.ai/wiki/japan-airlines-flight-jal1628-1986/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/japan-airlines-flight-jal1628-1986/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Japan Airlines Flight JAL1628 (1986) - UAPediaOctober 13, 2025 — JAPAN AIRLINES FLIGHT JAL1628 (1986) On November 17, 1986 (local Alaska...</p></details>
    Published: October 13, 2025  
 
 18. <a id="endnote-18"></a>
    Source: xufos.com  
    Title: Data tapes confiscat  
-   Link: [https://xufos.com/jal-1628-1986.php](https://xufos.com/jal-1628-1986.php)  
+   Link: <a href="https://xufos.com/jal-1628-1986.php" target="_blank" rel="noopener noreferrer nofollow">https://xufos.com/jal-1628-1986.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Japan Airlines Flight 1628: November 17, 1986 – The Mothership Over Alaska – XUFOSFAA INVESTIGATION &amp; RADAR DATA * * * FAA Anchorage Cent...</p></details>
    Published: November 17, 1986  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=KARd-HTssbg](https://www.youtube.com/watch?v=KARd-HTssbg)  
+   Link: <a href="https://www.youtube.com/watch?v=KARd-HTssbg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KARd-HTssbg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing 747 Followed by a UFO | An Out Of This World Encounter | Japan Air Lines Flight 1628...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>JAPAN AIR LINES FLIGHT 1628 (1986) On 17 November 1986, Japan Air Lines flight 1628 (JAL 1628) was making its way across Alaska on the Re...</p></details>
    Published: November 1986  
 
 21. <a id="endnote-21"></a>
    Source: bibliotecapleyades.net  
    Title: UF O Briefing Doc  
-   Link: [https://www.bibliotecapleyades.net/ciencia/ufo_briefingdocument/1986b.htm](https://www.bibliotecapleyades.net/ciencia/ufo_briefingdocument/1986b.htm)  
+   Link: <a href="https://www.bibliotecapleyades.net/ciencia/ufo_briefingdocument/1986b.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/ciencia/ufo_briefingdocument/1986b.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Briefing Doc - 1986: JAPAN AIRLINES 747 OVER ALASKA1986: JAPAN AIRLINES 747 OVER ALASKA Japan Air Lines Flight 1628 was near the end...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nicap.org  
    Title: This sighting ga  
-   Link: [https://www.nicap.org/reports/jal1628-2.htm](https://www.nicap.org/reports/jal1628-2.htm)  
+   Link: <a href="https://www.nicap.org/reports/jal1628-2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/jal1628-2.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fantastic Flight of JAL1628The Fantastic Flight OF JAL1628 by Bruce Maccabee INTRODUCTION This is the complete report on the UFO sigh...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ufofiles.fm  
-   Link: [https://ufofiles.fm/documents/jal1628-733667-001-005](https://ufofiles.fm/documents/jal1628-733667-001-005)  
+   Link: <a href="https://ufofiles.fm/documents/jal1628-733667-001-005" target="_blank" rel="noopener noreferrer nofollow">https://ufofiles.fm/documents/jal1628-733667-001-005</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>JAL Flight 1628: FAA Investigation File 733667-001 Page 5 (17 NOV 1986) — OTHER — UFOFILES.FMNovember 17, 1986 — JAL FLIGHT 1628: FAA INV...</p></details>
-   Published: November 17, 1986  
+   Published: November 17, 1986

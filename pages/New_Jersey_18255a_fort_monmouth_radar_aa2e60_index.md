@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-jersey-18255a-fort-monmouth-radar/
 description: Focused pages that expand on Fort Monmouth.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: New_Jersey_18255a_fort_monmouth_radar_aa2e60
-parent_title: Fort Monmouth | What Really Happened in New Jersey's UFO...
+parent_title: Fort Monmouth
 parent_nav_short_title: Fort Monmouth
 parent_permalink: /fort-monmouth/
 ---

@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-louisianas-ufo/
 nav_short_title: Haynesville
 title: Why Haynesville Became Louisiana's Hardest Case
-title_full: Why Haynesville Became Louisiana's Hardest Case | Louisiana UFOs
+title_full: Why Haynesville Became Louisiana's Hardest Case
 display_title_short: Haynesville
 display_title: Haynesville
 heading_title: Why Haynesville Became Louisiana's Hardest Case
@@ -270,16 +270,14 @@ image: /assets/images/Louisiana_b158e0_haynesville_traces_cdce34-overview-social
 
 The **Haynesville incident** on the night of **30 December 1966** is Louisianas most discussed UFO episode because it allegedly left behind **physical traces** burned tree bark in an isolated forest clearing not just a fleeting light in the sky. What makes this case distinct in the states UFO history is that the primary witness was a trained scientist, the event was documented by official investigations, and later researchers have disputed how to interpret the environmental evidence. Yet, nearly six decades later, the physical traces remain controversial: do they signify a truly unexplained phenomenon, or are they ambiguous evidence open to mundane explanations? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
 
-
 <img src="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-overview.webp" | relative_url }}" alt="Overview image for Haynesville" loading="eager" decoding="sync" fetchpriority="high">
 ## What Galloway and the Air Force Recorded in 1966
 
-On **30 December 1966**, **Dr Louie A. Galloway**, then a 31yearold atomic physics professor at Centenary College in Shreveport, [Louisiana]({{ 'what-really-happened-in-louisianas-ufo/' | relative_url }}), was driving with his wife and two young children along Highway79 near Haynesville when they saw a **bright, luminous object near ground level** in a wooded area during fog and light drizzle. According to later summaries, the glow changed from reddishorange to intensely white, washing out the cars headlights and illuminating the surrounding woods; Galloway had to shield his eyes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ovniologia.com.br/2025/08/for-the-first-time-in-history-a-peer-reviewed-scientific-article-on-a-ufo-case-is-accepted-in-progress-in-aerospace-sciences.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovniologia.com.br">[Ovniologia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovniologia.com.br</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+On **30 December 1966**, **Dr Louie A. Galloway**, then a 31yearold atomic physics professor at Centenary College in Shreveport, Louisiana, was driving with his wife and two young children along Highway79 near Haynesville when they saw a **bright, luminous object near ground level** in a wooded area during fog and light drizzle. According to later summaries, the glow changed from reddishorange to intensely white, washing out the cars headlights and illuminating the surrounding woods; Galloway had to shield his eyes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ovniologia.com.br/2025/08/for-the-first-time-in-history-a-peer-reviewed-scientific-article-on-a-ufo-case-is-accepted-in-progress-in-aerospace-sciences.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovniologia.com.br">[Ovniologia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovniologia.com.br</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Galloway reported the incident to **Project Blue Book**, the U.S. Air Forces UFO investigation program, and the case was later reviewed by the University of Colorados **Condon Committee**, a scientific study of UFO reports commissioned by the Air Force. The Condon Report acknowledges the sighting of a pulsating light in the field teams field studies chapter but describes the source as **unidentified** and records that no definitive explanation was found at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case38.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Condon Report, Case 38: Spurious sightings, amateur UFO researchers</span><span class="citation-popover-snippet">Condon Report, Case 38: Spurious sightings, amateur UFO researchers</span></span></span>
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-1-light.svg" | relative_url }}" alt="Haynesville illustration 1" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-1-dark.svg" | relative_url }}" alt="Haynesville illustration 1" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Tree Damage, Energy Estimates, and Later Reviews
 
 Unlike many UFO sightings that involve only visual reports, the Haynesville case gained traction among researchers because of **alleged physical traces** discovered after the event. Galloway and a colleague, Professor John Williams, returned to the supposed site sometime after the original investigation and identified a **clearing about nine metres across** where the **bark of trees at the periphery was blackened toward the centre**. This was interpreted by those investigators as resulting from exposure to an intense light source rather than ordinary heat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
@@ -290,8 +288,7 @@ Decades later, a **2025 peerreviewed study** in *Progress in Aerospace Sciences*
 
 Such physical measurements are rare in UFO reports and place the Haynesville case among a small subgroup of incidents that seem to go beyond eyewitness testimony to include **environmental effects**.
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-3-light.svg" | relative_url }}" alt="Haynesville illustration 3" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-3-dark.svg" | relative_url }}" alt="Haynesville illustration 3" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/thTSuKXXezw" title="&quot;Those UFOs... Do They Really Exist?&quot; (1966)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=thTSuKXXezw" target="_blank" rel="noopener noreferrer">&quot;Those UFOs... Do They Really Exist?&quot; (1966)</a></p><p class="youtube-embed-meta">Channel: UGA Brown Media Archives &middot; Views: 1.2K &middot; Uploaded: June 2021 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=thTSuKXXezw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=thTSuKXXezw">Open on YouTube</a></p></div></div></div>
 
@@ -299,24 +296,20 @@ Such physical measurements are rare in UFO reports and place the Haynesville cas
 
 Despite the unusual details and scientific interest, this case remains **unresolved, not confirmed as anything extraordinary**. Several factors temper claims that the traces unambiguously prove an anomalous craft:
 
-* **Official scepticism and limited original data**: The Condon Committees treatment of the 1966 sighting in its field studies acknowledged the report and atmospheric observations but stopped short of endorsing any extraordinary explanation. It simply classified the case as unidentified due to insufficient data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bibliotecapleyades.net/sociopolitica/condonreport/full_report/contents.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecapleyades.net">[bibliotecapleyades.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecapleyades.net</span><span class="citation-popover-title">Scientific Study of Unidentified Flying Objects</span><span class="citation-popover-snippet">The Condon ReportSCIENTIFIC STUDY OF UNIDENTIFIED FLYING OBJECTS THE CONDON REPORT &gt; TABLE OF CONTENTS | | LETTER OF TRANSMITTAL | iii PR...</span></span></span>
+* **Official scepticism and limited original data**: The Condon Committees treatment of the 1966 sighting in its field studies acknowledged the report and atmospheric observations but stopped short of endorsing any extraordinary explanation. It simply classified the case as unidentified due to insufficient data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bibliotecapleyades.net/sociopolitica/condonreport/full_report/contents.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecapleyades.net">[bibliotecapleyades.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecapleyades.net</span><span class="citation-popover-title">Scientific Study of Unidentified Flying Objects</span><span class="citation-popover-snippet">The Condon ReportSCIENTIFIC STUDY OF UNIDENTIFIED FLYING OBJECTS THE CONDON REPORT &gt; TABLE OF CONTENTS &#124; &#124; LETTER OF TRANSMITTAL &#124; iii PR...</span></span></span>
 * **Ambiguity of physical traces**: Tree bark and burn marks can be caused by various natural and environmental processes. For example, in other reported cases of alleged UFO physical effects, damage to vegetation or clearings has sometimes been attributed to terrestrial causes such as weather events, insect infestations, or even past human activity rather than an aerial object. Analyses of physical trace claims from other 1960s reports often highlight the difficulty of distinguishing anomalous effects from ordinary ecological or meteorological damage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/s3chap03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Introduction 1. Markings Allegedly Made By UFOs 2. Material Allegedly Deposited by UFOs 3. Parts of UFOs, or UFO Equipment 4. Conclusion...</span></span></span>
 * **Lack of contemporaneous documentation**: The most detailed discussion of the tree damage and energy estimates comes from retrospective analysis rather than direct contemporaneous Blue Book documentation. While later scientific work attempts to incorporate and reinterpret the original records, the absence of preserved original samples, detailed site photographs from 1967, or additional sensor data (radar, spectroscopy) means the case cannot be reevaluated with the full suite of modern forensic tools. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
 
 For these reasons, the Haynesville incident stands as a **significant outlier** among Louisianas UFO reports interesting because of its intersection with physical evidence and scientific scrutiny but still **unresolved** in the sense that it lacks a conclusive explanation grounded in widely accepted, conventional science.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iFpZToN6yU" title="UFO Report Project Blue Book 1952" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iFpZToN6yU" target="_blank" rel="noopener noreferrer">UFO Report Project Blue Book 1952</a></p><p class="youtube-embed-meta">Channel: tvdays &middot; Views: 968 &middot; Uploaded: July 2021 &middot; Length: 4 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iFpZToN6yU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iFpZToN6yU">Open on YouTube</a></p></div></div></div>
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-2-light.svg" | relative_url }}" alt="Haynesville illustration 2" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-2-dark.svg" | relative_url }}" alt="Haynesville illustration 2" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Place in Louisianas UFO History
 
 Within the broader context of UFO phenomena in Louisiana, the Haynesville case is valuable not because it proves anything definitive, but because it illustrates *why certain reports attract sustained interest*. It combines a trained observer, a fixed geographic setting, later documented physical traces, and the involvement of official investigations. Even though the physical traces remain disputed and plausible terrestrial explanations have not been ruled out this incident continues to draw analytical attention precisely because clear physical effects are so rare in the UFO record, especially at the state level. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2DjOl1EYgt0" title="History Lives - 1966: The Year UFOs Came to Michigan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2DjOl1EYgt0" target="_blank" rel="noopener noreferrer">History Lives - 1966: The Year UFOs Came to Michigan</a></p><p class="youtube-embed-meta">Channel: LivoniaTV &middot; Views: 6.7K &middot; Uploaded: November 2017 &middot; Length: 1 hour 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2DjOl1EYgt0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2DjOl1EYgt0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -739,123 +732,123 @@ Within the broader context of UFO phenomena in Louisiana, the Haynesville case i
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0376042125000247](https://www.sciencedirect.com/science/article/pii/S0376042125000247)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0376042125000247</a>  
 
 2. <a id="endnote-2"></a>
    Source: files.ncas.org  
    Title: Condon Report, Case 38: Spurious sightings, amateur UFO researchers  
-   Link: [https://files.ncas.org/condon/text/case38.htm](https://files.ncas.org/condon/text/case38.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/case38.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case38.htm</a>  
 
 3. <a id="endnote-3"></a>
    Source: bibliotecapleyades.net  
    Title: Condon Report Section III, Chapter 1: Field Studies  
-   Link: [https://www.bibliotecapleyades.net/sociopolitica/condonreport/full_report/s3chap01.htm](https://www.bibliotecapleyades.net/sociopolitica/condonreport/full_report/s3chap01.htm)  
+   Link: <a href="https://www.bibliotecapleyades.net/sociopolitica/condonreport/full_report/s3chap01.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/sociopolitica/condonreport/full_report/s3chap01.htm</a>  
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0376042125000247?dgcid=rss_sd_all](https://www.sciencedirect.com/science/article/abs/pii/S0376042125000247?dgcid=rss_sd_all)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectJune 1, 2025 PROGRESS IN AEROSPACE SCIENCES Volume 156, 1 June 2025, 101098 ESTIMATES OF RADIATIVE ENERGY VALUES IN GROUND...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0376042125000247?dgcid=rss_sd_all" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0376042125000247?dgcid=rss_sd_all</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 1, 2025 PROGRESS IN AEROSPACE SCIENCES Volume 156, 1 June 2025, 101098 ESTIMATES OF RADIATIVE ENERGY VALUES IN GROUND...</p></details>
    Published: June 1, 2025  
 
 5. <a id="endnote-5"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/s3chap03.htm](https://files.ncas.org/condon/text/s3chap03.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/s3chap03.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap03.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction 1. Markings Allegedly Made By UFOs 2. Material Allegedly Deposited by UFOs 3. Parts of UFOs, or UFO Equipment 4. Conclusion...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/](https://files.ncas.org/condon/)  
+   Link: <a href="https://files.ncas.org/condon/" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>44620-67-C-0035 With the United States Air Force Dr. Edward U. Condon, Scientific Director...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: files.ncas.org  
    Title: * * * | | LETTER OF TRANSMITTAL  
-   Link: [https://files.ncas.org/condon/text/contents.htm](https://files.ncas.org/condon/text/contents.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/contents.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/contents.htm</a>  
 
 8. <a id="endnote-8"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/case42.htm](https://files.ncas.org/condon/text/case42.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case42.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report, Case 42: State Trooper SightingCASE 42 North Central Fall 1967 Investigators: Craig, Ahrens, staff * * * Abstract: A state troope...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: bibliotecapleyades.net  
    Title: Scientific Study of Unidentified Flying Objects  
-   Link: [https://bibliotecapleyades.net/sociopolitica/condonreport/full_report/contents.htm](https://bibliotecapleyades.net/sociopolitica/condonreport/full_report/contents.htm)  
+   Link: <a href="https://bibliotecapleyades.net/sociopolitica/condonreport/full_report/contents.htm" target="_blank" rel="noopener noreferrer nofollow">https://bibliotecapleyades.net/sociopolitica/condonreport/full_report/contents.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Condon ReportSCIENTIFIC STUDY OF UNIDENTIFIED FLYING OBJECTS THE CONDON REPORT &gt; TABLE OF CONTENTS | | LETTER OF TRANSMITTAL | iii PR...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: bibliotecapleyades.net  
    Title: Condon Report, Section II  
-   Link: [https://www.bibliotecapleyades.net/sociopolitica/condonreport/full_report/sec-ii.htm](https://www.bibliotecapleyades.net/sociopolitica/condonreport/full_report/sec-ii.htm)  
+   Link: <a href="https://www.bibliotecapleyades.net/sociopolitica/condonreport/full_report/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/sociopolitica/condonreport/full_report/sec-ii.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>STUDY OF UFO PHOTOGRAPHS The popular UFO literature abounds with photographs of alleged strange objects in the sky, many of which are cle...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ovniologia.com.br  
-   Link: [https://ovniologia.com.br/2025/08/for-the-first-time-in-history-a-peer-reviewed-scientific-article-on-a-ufo-case-is-accepted-in-progress-in-aerospace-sciences.html](https://ovniologia.com.br/2025/08/for-the-first-time-in-history-a-peer-reviewed-scientific-article-on-a-ufo-case-is-accepted-in-progress-in-aerospace-sciences.html)  
+   Link: <a href="https://ovniologia.com.br/2025/08/for-the-first-time-in-history-a-peer-reviewed-scientific-article-on-a-ufo-case-is-accepted-in-progress-in-aerospace-sciences.html" target="_blank" rel="noopener noreferrer nofollow">https://ovniologia.com.br/2025/08/for-the-first-time-in-history-a-peer-reviewed-scientific-article-on-a-ufo-case-is-accepted-in-progress-in-aerospace-sciences.html</a>  
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: ovnihoje.com  
-   Link: [https://www.ovnihoje.com/2025/09/04/artigo-cientifico-revisado-por-pares-sobre-caso-de-ovni-e-aceito/](https://www.ovnihoje.com/2025/09/04/artigo-cientifico-revisado-por-pares-sobre-caso-de-ovni-e-aceito/)  
+   Link: <a href="https://www.ovnihoje.com/2025/09/04/artigo-cientifico-revisado-por-pares-sobre-caso-de-ovni-e-aceito/" target="_blank" rel="noopener noreferrer nofollow">https://www.ovnihoje.com/2025/09/04/artigo-cientifico-revisado-por-pares-sobre-caso-de-ovni-e-aceito/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OVNI Hoje!September 4, 2025 CONTINUAO INVESTIGAES E PROVAS FSICAS O Estudo Condon dedicou quase quatro pginas a uma anlise det...</p></details>
    Published: September 4, 2025  
 
 13. <a id="endnote-13"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/bentwaters56condon.htm](https://ufologie.patrickgross.org/htm/bentwaters56condon.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/bentwaters56condon.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bentwaters56condon.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: the Bentwater 1956 radar, ground, air, and visual case - The Condon Report1956: RADAR/VISUAL JET CHASE OVER BENTWATE...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: thinkaboutitdocs.com  
    Title: april 23 1966 cigar shaped object lands in yorktown iowa  
-   Link: [https://thinkaboutitdocs.com/april-23-1966-cigar-shaped-object-lands-in-yorktown-iowa/](https://thinkaboutitdocs.com/april-23-1966-cigar-shaped-object-lands-in-yorktown-iowa/)  
+   Link: <a href="https://thinkaboutitdocs.com/april-23-1966-cigar-shaped-object-lands-in-yorktown-iowa/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/april-23-1966-cigar-shaped-object-lands-in-yorktown-iowa/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1966 Yorktown Iowa UFO Landing: Cigar-Shaped Craft &amp; Physical TracesOctober 24, 2012 1966: CIGAR-SHAPED OBJECT LANDS IN YORKTOWN, IOWA...</p></details>
    Published: October 24, 2012  
 
 15. <a id="endnote-15"></a>
    Source: thinkaboutitdocs.com  
    Title: 1966 burn marks and holes found after ufo seen  
-   Link: [https://www.thinkaboutitdocs.com/1966-burn-marks-and-holes-found-after-ufo-seen/](https://www.thinkaboutitdocs.com/1966-burn-marks-and-holes-found-after-ufo-seen/)  
+   Link: <a href="https://www.thinkaboutitdocs.com/1966-burn-marks-and-holes-found-after-ufo-seen/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1966-burn-marks-and-holes-found-after-ufo-seen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1966 Gwinner North Dakota UFO: Physical Trace &amp; Burn Marks FoundApril 8, 2013 1966: BURN MARKS AND HOLES FOUND AFTER UFO SEEN Orbman Ap...</p></details>
    Published: April 8, 2013  
 
 16. <a id="endnote-16"></a>
    Source: ufoinsight.com  
    Title: UF O Encounters And Physical Evidence  
-   Link: [https://www.ufoinsight.com/ufos/cover-ups/ufo-encounters-physical-evidence](https://www.ufoinsight.com/ufos/cover-ups/ufo-encounters-physical-evidence)  
+   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/ufo-encounters-physical-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/ufo-encounters-physical-evidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Encounters And Physical Evidence - UFO InsightApril 11, 2020 UFO ENCOUNTERS AND PHYSICAL EVIDENCE By Marcus Lowth Image: Published...</p></details>
    Published: April 11, 2020  
 
 17. <a id="endnote-17"></a>
    Source: bentley.umich.edu  
    Title: flying saucers and swamp gas  
-   Link: [https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/](https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/)  
+   Link: <a href="https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/" target="_blank" rel="noopener noreferrer nofollow">https://bentley.umich.edu/news-events/magazine/flying-saucers-and-swamp-gas/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Saucers and Swamp Gas | Bentley Historical LibraryMAGAZINE Image: Drawing of a UFO by Washtenaw County law enforcement in 1966 FLYING SAU...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: thinkaboutitdocs.com  
    Title: Day/Night: Day Location: N  
-   Link: [https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/](https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/)  
+   Link: <a href="https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/the-1966-tully-saucer-nest/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1966: The Tully Saucer NestApril 8, 2013 1966: THE TULLY SAUCER NEST Orbman April 8, 2013 49 minutes read Image: Tully Nest THINK ABOUT...</p></details>
    Published: April 8, 2013  
 
 19. <a id="endnote-19"></a>
    Source: scribd.com  
    Title: Physical Traces Associated With UFO Sightings  
-   Link: [https://www.scribd.com/document/367857927/Physical-Traces-Associated-With-UFO-Sightings-Ted-Phillips](https://www.scribd.com/document/367857927/Physical-Traces-Associated-With-UFO-Sightings-Ted-Phillips)  
+   Link: <a href="https://www.scribd.com/document/367857927/Physical-Traces-Associated-With-UFO-Sightings-Ted-Phillips" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/367857927/Physical-Traces-Associated-With-UFO-Sightings-Ted-Phillips</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2. RINGS circular traces, burned depressed or dehydrated; the outer perimeter shows damage while th...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thinkaboutitdocs.com  
    Title: 1966 ufo encountered photographed  
-   Link: [https://thinkaboutitdocs.com/1966-ufo-encountered-photographed/](https://thinkaboutitdocs.com/1966-ufo-encountered-photographed/)  
+   Link: <a href="https://thinkaboutitdocs.com/1966-ufo-encountered-photographed/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/1966-ufo-encountered-photographed/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1966 Roaring River Missouri UFO: Disc Photographed Over CampsiteApril 8, 2013 1966: UFO ENCOUNTERED, PHOTOGRAPHED...</p></details>
    Published: April 8, 2013  
 
 21. <a id="endnote-21"></a>
    Source: thinkaboutitdocs.com  
    Title: Day/Night: Nig  
-   Link: [https://www.thinkaboutitdocs.com/1966-michigan-sightings-swamp-gas-case/](https://www.thinkaboutitdocs.com/1966-michigan-sightings-swamp-gas-case/)  
+   Link: <a href="https://www.thinkaboutitdocs.com/1966-michigan-sightings-swamp-gas-case/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1966-michigan-sightings-swamp-gas-case/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1966: The Michigan Sightings / &#x27;Swamp Gas&#x27; CaseAugust 27, 2013 1966: THE MICHIGAN SIGHTINGS / SWAMP GAS CASE Orbman August 27, 2013 1...</p></details>
-   Published: August 27, 2013  
+   Published: August 27, 2013

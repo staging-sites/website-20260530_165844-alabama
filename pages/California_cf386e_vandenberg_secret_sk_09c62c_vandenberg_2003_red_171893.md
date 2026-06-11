@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /missile-tests/
 nav_short_title: 2003 Red Square
 title: Eyewitness Reports of the 2003 Red Square Object at Vandenberg
-title_full: Eyewitness Reports of the 2003 Red Square Object at Vandenberg | Missile Tests
+title_full: Eyewitness Reports of the 2003 Red Square Object at Vandenberg
 display_title_short: 2003 Red Square
 display_title: 2003 Red Square
 heading_title: Eyewitness Reports of the 2003 Red Square Object at Vandenberg
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:03:25'
-parent_title: When Secret Tests Look Like UFOs | California UFOs
+parent_title: When Secret Tests Look Like UFOs
 parent_permalink: /missile-tests/
 parent_nav_short_title: Missile Tests
 parent_heading_title: When Secret Tests Look Like UFOs
@@ -250,12 +250,10 @@ image: /assets/images/California_cf386e_vandenberg_secret_sk_09c62c_vandenberg_2
 
 ## Introduction
 
-In the context of **[California]({{ 'why-california-became-a-ufo-hotspot/' | relative_url }})’s UFO and unidentified aerial phenomena (UAP) history**, one of the most discussed modern incidents attributed by proponents to observable anomalous phenomena involves a **2003 sighting at Vandenberg Space Force Base**. This report — often referred to simply as the *“Red Square” sighting* — resurfaced publicly only decades later when **former U.S. Navy pilot Ryan Graves** brought it up during a **2023 U.S. House Oversight Committee hearing on UAPs**. Graves relayed accounts from contractors and other personnel that described an unusual large, red, square‑shaped object hovering over a launch facility before departing rapidly. The episode has attracted attention because of its striking description and because it connects to broader debates about UAP reporting, military transparency, and how anomalous observations intersect with military aviation and aerospace operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.com/2023/08/01/big-red-ufo-hovered-over-vandenberg-in-2003-congressional-witness-testifies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.com">[The Santa Barbara Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.com</span><span class="citation-popover-title">big red ufo hovered over vandenberg in 2003 congressional witness testifies</span><span class="citation-popover-snippet">The Santa Barbara IndependentBig, Red UFO Hovered over Vandenberg in 2003, Congressional Witness Testifies - The Santa Barbara Independen...</span></span></span>
+In the context of **California’s UFO and unidentified aerial phenomena (UAP) history**, one of the most discussed modern incidents attributed by proponents to observable anomalous phenomena involves a **2003 sighting at Vandenberg Space Force Base**. This report — often referred to simply as the *“Red Square” sighting* — resurfaced publicly only decades later when **former U.S. Navy pilot Ryan Graves** brought it up during a **2023 U.S. House Oversight Committee hearing on UAPs**. Graves relayed accounts from contractors and other personnel that described an unusual large, red, square‑shaped object hovering over a launch facility before departing rapidly. The episode has attracted attention because of its striking description and because it connects to broader debates about UAP reporting, military transparency, and how anomalous observations intersect with military aviation and aerospace operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.com/2023/08/01/big-red-ufo-hovered-over-vandenberg-in-2003-congressional-witness-testifies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.com">[The Santa Barbara Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.com</span><span class="citation-popover-title">big red ufo hovered over vandenberg in 2003 congressional witness testifies</span><span class="citation-popover-snippet">The Santa Barbara IndependentBig, Red UFO Hovered over Vandenberg in 2003, Congressional Witness Testifies - The Santa Barbara Independen...</span></span></span>
 
-
-<img src="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_vandenberg_2003_red_171893-Illustration-1-light.svg" | relative_url }}" alt="2003 Red Square illustration 1" data-theme-src-dark="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_vandenberg_2003_red_171893-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_vandenberg_2003_red_171893-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_vandenberg_2003_red_171893-Illustration-1-dark.svg" | relative_url }}" alt="2003 Red Square illustration 1" data-theme-src-dark="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_vandenberg_2003_red_171893-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_vandenberg_2003_red_171893-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This article examines **what the reported 2003 sightings involved**, **how they entered public and official discussion**, and **why verification and context have been limited**, following available credible sources.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t_B8BwpYvk8" title="Former pilot Ryan Graves details UFO sighting before congress" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t_B8BwpYvk8" target="_blank" rel="noopener noreferrer">Former pilot Ryan Graves details UFO sighting before congress</a></p><p class="youtube-embed-meta">Channel: The Independent &middot; Views: 747 &middot; Uploaded: November 2023 &middot; Length: 1 minute 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t_B8BwpYvk8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t_B8BwpYvk8">Open on YouTube</a></p></div></div></div>
 
@@ -270,7 +268,6 @@ According to testimony delivered to U.S. lawmakers in **July 2023 by Ryan Graves
 
 These accounts paint a picture of **multiple witnesses’ perceptions** of unusual aerial behaviour near a high‑security military installation — an element that, within UFO/UAP lore, often elevates the significance of a case.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TBvj96dls_Y" title="Jeffrey Nuccetelli: &#x27;Red Square&#x27; UFO Hovered Over Missile Site | US House UAP Hearing | APT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TBvj96dls_Y" target="_blank" rel="noopener noreferrer">Jeffrey Nuccetelli: &#x27;Red Square&#x27; UFO Hovered Over Missile Site | US House UAP Hearing | APT</a></p><p class="youtube-embed-meta">Channel: APT &middot; Views: 17.9K &middot; Uploaded: September 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TBvj96dls_Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TBvj96dls_Y">Open on YouTube</a></p></div></div></div>
 
 ## Media and Congressional Reporting
@@ -283,13 +280,12 @@ The primary credible public record for the *Red Square* narrative comes from pre
 
 Media coverage highlighted the dramatic nature of the claim without independently verifying it, leaving the account tied primarily to **witness testimony and Graves’ presentation** rather than corroborated military documentation released into the public domain.
 
-
-<img src="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_vandenberg_2003_red_171893-Illustration-2-light.svg" | relative_url }}" alt="2003 Red Square illustration 2" data-theme-src-dark="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_vandenberg_2003_red_171893-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_vandenberg_2003_red_171893-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_vandenberg_2003_red_171893-Illustration-2-dark.svg" | relative_url }}" alt="2003 Red Square illustration 2" data-theme-src-dark="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_vandenberg_2003_red_171893-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_vandenberg_2003_red_171893-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Challenges in Verification and Official Responses
 
 Despite attention from congressional testimony, several factors complicate assessment of the *Red Square* reports:
 
-* **No public release of official records or imagery** exists that would independently confirm the described object’s appearance, flight path, or behaviour. Graves indicated documents exist, but as of reporting in 2023 there was no public disclosure of such files.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/15bc8m3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditRyan Graves Testimony / Vandenberg AFB Red Squares Incursions of 2003 / Boeing WitnessesJuly 27, 2023...</span><span class="citation-popover-meta">Published: July 27, 2023</span></span></span>
+* **No public release of official records or imagery** exists that would independently confirm the described object’s appearance, flight path, or behaviour. Graves indicated documents exist, but as of reporting in 2023 there was no public disclosure of such files.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/15bc8m3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Ryan Graves Testimony / Vandenberg AFB Red Squares Incursions of 2003 / Boeing WitnessesJuly 27, 2023...</span><span class="citation-popover-meta">Published: July 27, 2023</span></span></span>
 * The U.S. Department of Defense and the base itself did not provide confirming statements through the media; requests for comment from base officials during news reporting were met with **no comment**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksby.com/news/local-news/large-red-object-hovered-over-vandenberg-in-2003-former-navy-pilot-testifies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksby.com">[KSBY News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksby.com</span><span class="citation-popover-title">large red object hovered over vandenberg in 2003 former navy pilot testifies</span><span class="citation-popover-snippet">KSBY NewsLarge, red object hovered over Vandenberg in 2003, former Navy pilot testifies...</span></span></span>
 * The event’s specifics — including time, precise location and sensor data — remain **unverified in official public records**, meaning the sighting is grounded in **second‑hand witness claims rather than independently archived evidence**.
 
@@ -297,13 +293,11 @@ The broader UAP reporting framework in the U.S. has evolved since the incident i
 
 In UFO/UAP literature and enthusiast circles, further claims about additional incidents, footage, and security officer recollections have circulated online, often with colourful details and interpretations. Such narratives are separate from the substantiated congressional testimony and should be treated cautiously, as they often lack independent verification from primary documents or mainstream reporting.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hq-GlQmRCQQ" title="&#x27;UFOs repeatedly visited defence site…&#x27;: Air Force Veteran shares shocking details of UAP sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hq-GlQmRCQQ" target="_blank" rel="noopener noreferrer">&#x27;UFOs repeatedly visited defence site…&#x27;: Air Force Veteran shares shocking details of UAP sighting</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 39.8K &middot; Uploaded: September 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hq-GlQmRCQQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hq-GlQmRCQQ">Open on YouTube</a></p></div></div></div>
 
 ## How This Case Fits into California’s UAP Narrative
 
 Within California’s broader UFO history, the *Red Square* sighting at Vandenberg stands out because it:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -315,8 +309,7 @@ Within California’s broader UFO history, the *Red Square* sighting at Vandenbe
 
 Unlike earlier documented misidentifications (for example, astronomical objects or known missile test artifacts in the 1960s), the 2003 red square account remains unresolved in public records: it has not been corroborated with physical data or official analysis made available to researchers and remains rooted in testimony. Its place in California’s UFO/UAP story underscores both the enduring fascination with anomalous aerial reports and the persistent difficulties in moving such accounts from anecdote to substantiated evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.com/2023/08/01/big-red-ufo-hovered-over-vandenberg-in-2003-congressional-witness-testifies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.com">[The Santa Barbara Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.com</span><span class="citation-popover-title">big red ufo hovered over vandenberg in 2003 congressional witness testifies</span><span class="citation-popover-snippet">The Santa Barbara IndependentBig, Red UFO Hovered over Vandenberg in 2003, Congressional Witness Testifies - The Santa Barbara Independen...</span></span></span>
 
-
-<img src="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_vandenberg_2003_red_171893-Illustration-3-light.svg" | relative_url }}" alt="2003 Red Square illustration 3" data-theme-src-dark="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_vandenberg_2003_red_171893-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_vandenberg_2003_red_171893-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_vandenberg_2003_red_171893-Illustration-3-dark.svg" | relative_url }}" alt="2003 Red Square illustration 3" data-theme-src-dark="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_vandenberg_2003_red_171893-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_vandenberg_secret_sk_09c62c_vandenberg_2003_red_171893-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -740,29 +733,29 @@ Unlike earlier documented misidentifications (for example, astronomical objects 
 1. <a id="endnote-1"></a>
    Source: independent.com  
    Title: big red ufo hovered over vandenberg in 2003 congressional witness testifies  
-   Link: [https://www.independent.com/2023/08/01/big-red-ufo-hovered-over-vandenberg-in-2003-congressional-witness-testifies/](https://www.independent.com/2023/08/01/big-red-ufo-hovered-over-vandenberg-in-2003-congressional-witness-testifies/)  
+   Link: <a href="https://www.independent.com/2023/08/01/big-red-ufo-hovered-over-vandenberg-in-2003-congressional-witness-testifies/" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.com/2023/08/01/big-red-ufo-hovered-over-vandenberg-in-2003-congressional-witness-testifies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Santa Barbara IndependentBig, Red UFO Hovered over Vandenberg in 2003, Congressional Witness Testifies - The Santa Barbara Independen...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ksby.com  
    Title: large red object hovered over vandenberg in 2003 former navy pilot testifies  
-   Link: [https://www.ksby.com/news/local-news/large-red-object-hovered-over-vandenberg-in-2003-former-navy-pilot-testifies](https://www.ksby.com/news/local-news/large-red-object-hovered-over-vandenberg-in-2003-former-navy-pilot-testifies)  
+   Link: <a href="https://www.ksby.com/news/local-news/large-red-object-hovered-over-vandenberg-in-2003-former-navy-pilot-testifies" target="_blank" rel="noopener noreferrer nofollow">https://www.ksby.com/news/local-news/large-red-object-hovered-over-vandenberg-in-2003-former-navy-pilot-testifies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>KSBY NewsLarge, red object hovered over Vandenberg in 2003, former Navy pilot testifies...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/15bc8m3](https://www.reddit.com/r/UFOs/comments/15bc8m3)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditRyan Graves Testimony / Vandenberg AFB Red Squares Incursions of 2003 / Boeing WitnessesJuly 27, 2023...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/15bc8m3" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15bc8m3</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ryan Graves Testimony / Vandenberg AFB Red Squares Incursions of 2003 / Boeing WitnessesJuly 27, 2023...</p></details>
    Published: July 27, 2023  
 
 4. <a id="endnote-4"></a>
    Source: independent.com  
-   Link: [https://www.independent.com/2025/12/28/in-new-doc-the-age-of-disclosure-military-servicemen-expose-more-details-about-ufos-at-vandenberg/](https://www.independent.com/2025/12/28/in-new-doc-the-age-of-disclosure-military-servicemen-expose-more-details-about-ufos-at-vandenberg/)  
+   Link: <a href="https://www.independent.com/2025/12/28/in-new-doc-the-age-of-disclosure-military-servicemen-expose-more-details-about-ufos-at-vandenberg/" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.com/2025/12/28/in-new-doc-the-age-of-disclosure-military-servicemen-expose-more-details-about-ufos-at-vandenberg/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>There are, of course, trillions of galaxies out there. Or maybe, there’s an ancient civilization hidden at the bottom of the ocean — more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: uforia.net  
-   Link: [https://uforia.net/vandenberg.html](https://uforia.net/vandenberg.html)  
+   Link: <a href="https://uforia.net/vandenberg.html" target="_blank" rel="noopener noreferrer nofollow">https://uforia.net/vandenberg.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Peaty April 6, 2025 In a congressional hearing on July 26, 2023, former U.S. Navy fighter pilot Ry...</p></details>
    Published: April 6, 2025  
 
@@ -770,63 +763,63 @@ Unlike earlier documented misidentifications (for example, astronomical objects 
 
 6. <a id="endnote-6"></a>
    Source: latest-ufo-sightings.net  
-   Link: [https://www.latest-ufo-sightings.net/2023/11/2003-ufo-bombshell-giant-flying-object-dwarfs-vandenberg-base-hearings-reveal-mind-blowing-details.html](https://www.latest-ufo-sightings.net/2023/11/2003-ufo-bombshell-giant-flying-object-dwarfs-vandenberg-base-hearings-reveal-mind-blowing-details.html)  
+   Link: <a href="https://www.latest-ufo-sightings.net/2023/11/2003-ufo-bombshell-giant-flying-object-dwarfs-vandenberg-base-hearings-reveal-mind-blowing-details.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2023/11/2003-ufo-bombshell-giant-flying-object-dwarfs-vandenberg-base-hearings-reveal-mind-blowing-details.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hearings Reveal Mind-Blowing Details! • Latest UFO SightingsNovember 28, 2023 — 2003 UFO BOMBSHELL: GIANT FLYING OBJECT DWARFS VANDENBERG...</p></details>
    Published: November 28, 2023  
 
 7. <a id="endnote-7"></a>
    Source: noozhawk.com  
-   Link: [https://www.noozhawk.com/congressional-panel-hears-about-report-of-odd-flying-object-at-vandenberg-in-2003/](https://www.noozhawk.com/congressional-panel-hears-about-report-of-odd-flying-object-at-vandenberg-in-2003/)  
+   Link: <a href="https://www.noozhawk.com/congressional-panel-hears-about-report-of-odd-flying-object-at-vandenberg-in-2003/" target="_blank" rel="noopener noreferrer nofollow">https://www.noozhawk.com/congressional-panel-hears-about-report-of-odd-flying-object-at-vandenberg-in-2003/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Odd Flying Object Hovered at Vandenberg in 2003, Congressional Witness Reports | Local News | NoozhawkJuly 26, 2023 — ODD FLYING OBJECT H...</p></details>
    Published: July 26, 2023  
 
 8. <a id="endnote-8"></a>
    Source: latimes.com  
    Title: UF O hearing in Congress details sighting at California launch site  
-   Link: [https://www.latimes.com/california/story/2023-08-04/ufo-hearing-congress-sighting-at-california-vandenberg-air-force-base](https://www.latimes.com/california/story/2023-08-04/ufo-hearing-congress-sighting-at-california-vandenberg-air-force-base)  
+   Link: <a href="https://www.latimes.com/california/story/2023-08-04/ufo-hearing-congress-sighting-at-california-vandenberg-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/california/story/2023-08-04/ufo-hearing-congress-sighting-at-california-vandenberg-air-force-base</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ONE STRANGE SIGHTING CAME AT THIS CALIFORNIA LAUNCH SITE Image: A Delta 4 Heavy rocket lifts off from Vandenberg Air Force Base. A Delta...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: postapocalypticmedia.com  
    Title: Pilot: Football-Sized Red Square UFO Seen at Vandenberg Base  
-   Link: [https://www.postapocalypticmedia.com/red-square-ufo-vandenberg-base/](https://www.postapocalypticmedia.com/red-square-ufo-vandenberg-base/)  
+   Link: <a href="https://www.postapocalypticmedia.com/red-square-ufo-vandenberg-base/" target="_blank" rel="noopener noreferrer nofollow">https://www.postapocalypticmedia.com/red-square-ufo-vandenberg-base/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 27, 2023 — PILOT: ‘AGGRESSIVE’ RED UFO VISITED AIR FORCE BASE BEFORE ITS TRANSITION TO SPACE FORCE ImageImageStephanieJuly 27, 2023...</p></details>
    Published: July 27, 2023  
 
 10. <a id="endnote-10"></a>
    Source: theverifiedreport.com  
    Title: Pilot: Football-Sized Red Square UFO Seen at Vandenberg Base  
-   Link: [https://theverifiedreport.com/red-ufo-vandenberg-base/](https://theverifiedreport.com/red-ufo-vandenberg-base/)  
+   Link: <a href="https://theverifiedreport.com/red-ufo-vandenberg-base/" target="_blank" rel="noopener noreferrer nofollow">https://theverifiedreport.com/red-ufo-vandenberg-base/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October 16, 2024 — PILOT: ‘AGGRESSIVE’ RED UFO VISITED VANDENBERG AIR FORCE BASE Image: Stephanie Dwilson Last updated: October 16, 2024...</p></details>
    Published: October 16, 2024  
 
 11. <a id="endnote-11"></a>
    Source: ufofeed.com  
    Title: vandenberg red square ufo witness new information  
-   Link: [https://www.ufofeed.com/97440/vandenberg-red-square-ufo-witness-new-information/](https://www.ufofeed.com/97440/vandenberg-red-square-ufo-witness-new-information/)  
+   Link: <a href="https://www.ufofeed.com/97440/vandenberg-red-square-ufo-witness-new-information/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufofeed.com/97440/vandenberg-red-square-ufo-witness-new-information/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vandenberg “RED Square UFO” Witness | New Information – UFO FEEDSeptember 7, 2024 — VANDENBERG “RED SQUARE UFO” WITNESS | NEW INFORMATION...</p></details>
    Published: September 7, 2024  
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=hq-GlQmRCQQ](https://www.youtube.com/watch?v=hq-GlQmRCQQ)  
+   Link: <a href="https://www.youtube.com/watch?v=hq-GlQmRCQQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hq-GlQmRCQQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hearing LIVE: Whistleblowers Testify On Pentagon Transparency &amp; Accountability | US Senate LIVE...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: unidentifiedphenomena.com  
    Title: red square ufo vandenberg air force base 2003  
-   Link: [https://unidentifiedphenomena.com/incidents/red-square-ufo-vandenberg-air-force-base-2003/](https://unidentifiedphenomena.com/incidents/red-square-ufo-vandenberg-air-force-base-2003/)  
+   Link: <a href="https://unidentifiedphenomena.com/incidents/red-square-ufo-vandenberg-air-force-base-2003/" target="_blank" rel="noopener noreferrer nofollow">https://unidentifiedphenomena.com/incidents/red-square-ufo-vandenberg-air-force-base-2003/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Square UFO Vandenberg Air Force Base (2003) – Unidentified PhenomenaFebruary 4, 2024 — Unidentified Phenomena My UFO and Alien Abduct...</p></details>
    Published: February 4, 2024  
 
 14. <a id="endnote-14"></a>
    Source: uapedia.ai  
    Title: Jeffrey Nuccetelli – The Vandenberg Incident  
-   Link: [https://uapedia.ai/wiki/jeff-nuccetelli/](https://uapedia.ai/wiki/jeff-nuccetelli/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPediaOctober 29, 2025 — SIGNIFICANCE WITHIN THE BROADER UAP RECORD * Nuclear/missile‑site adjacency: If accurate, these incidents would...</p></details>
+   Link: <a href="https://uapedia.ai/wiki/jeff-nuccetelli/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/jeff-nuccetelli/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 29, 2025 — SIGNIFICANCE WITHIN THE BROADER UAP RECORD * Nuclear/missile‑site adjacency: If accurate, these incidents would...</p></details>
    Published: October 29, 2025  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TBvj96dls_Y](https://www.youtube.com/watch?v=TBvj96dls_Y)  
+   Link: <a href="https://www.youtube.com/watch?v=TBvj96dls_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TBvj96dls_Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;UFOs repeatedly visited defence site…&#x27;: Air Force Veteran shares shocking details of UAP sighting...</p></details>

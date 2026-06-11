@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /minnesota-60590f-anoka-police-records/
 description: Focused pages that expand on Anoka Report.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Minnesota_60590f_anoka_police_records_a35b9e
-parent_title: Anoka Report | What Really Happened in Minnesota's Skies?
+parent_title: Anoka Report
 parent_nav_short_title: Anoka Report
 parent_permalink: /anoka-report/
 ---

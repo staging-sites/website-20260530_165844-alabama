@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /fyffe-flap/
 nav_short_title: Police Witnesses
 title: Why Fyffe's police witnesses still matter to believers and sceptics
-title_full: Why Fyffe's police witnesses still matter to believers and sceptics | Fyffe Flap
+title_full: Why Fyffe's police witnesses still matter to believers and sceptics
 display_title_short: Police Witnesses
 display_title: Police Witnesses
 heading_title: Why Fyffe's police witnesses still matter to believers and sceptics
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 14:54:11'
-parent_title: How Did Fyffe Become Alabama’s UFO Hotspot? | Alabama UFOs
+parent_title: How Did Fyffe Become Alabama’s UFO Hotspot?
 parent_permalink: /fyffe-flap/
 parent_nav_short_title: Fyffe Flap
 parent_heading_title: How Did Fyffe Become Alabama’s UFO Hotspot?
@@ -250,10 +250,9 @@ image: /assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_
 
 ## Introduction
 
-The Fyffe sightings of February 1989 became unusual in [Alabama]({{ 'what-are-alabamas-most-significant-ufo/' | relative_url }}) UFO history not because of radar evidence or dramatic photographs, but because local police officers publicly described seeing a large silent object themselves. Former police chief Junior Garmany and assistant chief Fred Works were not distant commentators repeating rumours. According to multiple retellings, they responded directly to calls from residents and then reported their own encounter while driving near County Road 43. Their testimony helped turn what might otherwise have been dismissed as a short-lived small-town scare into Alabama’s best-known UFO flap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/pentagon-releases-report-uaps-revisit-104700686.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">pentagon releases report uaps revisit 104700686</span><span class="citation-popover-snippet">YahooAs the Pentagon releases its report on UAPs, we revisit...25 Jun 2021 — Fyffe police Chief Junior Garmany (now deceased) and his as...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.landmarksdekalbal.org/historic-dekalb-county-alabama-history/dekalb-county-alabama-communities/fyffe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: landmarksdekalbal.org">[Landmarks of Dekalb County, Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">landmarksdekalbal.org</span><span class="citation-popover-snippet">Landmarks of Dekalb County, AlabamaFyffeMarch 21, 2016 — Fyffe, was the location of UFO sightings on Friday and Saturday, February 11-12...</span><span class="citation-popover-meta">Published: March 21, 2016</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://visitlookoutmountain.com/fyffe-ufo-day-celebration-and-its-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitlookoutmountain.com">[Visit Lookout Mountain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitlookoutmountain.com</span><span class="citation-popover-snippet">Visit Lookout MountainFyffe UFO Day Celebration and its History on Sand MountainPolice Chief Junior Garmany and Assistant Chief Fred Work...</span></span></span>
+The Fyffe sightings of February 1989 became unusual in Alabama UFO history not because of radar evidence or dramatic photographs, but because local police officers publicly described seeing a large silent object themselves. Former police chief Junior Garmany and assistant chief Fred Works were not distant commentators repeating rumours. According to multiple retellings, they responded directly to calls from residents and then reported their own encounter while driving near County Road 43. Their testimony helped turn what might otherwise have been dismissed as a short-lived small-town scare into Alabama’s best-known UFO flap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/pentagon-releases-report-uaps-revisit-104700686.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">pentagon releases report uaps revisit 104700686</span><span class="citation-popover-snippet">As the Pentagon releases its report on UAPs, we revisit...25 Jun 2021 — Fyffe police Chief Junior Garmany (now deceased) and his as...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.landmarksdekalbal.org/historic-dekalb-county-alabama-history/dekalb-county-alabama-communities/fyffe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: landmarksdekalbal.org">[Landmarks of Dekalb County, Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">landmarksdekalbal.org</span><span class="citation-popover-snippet">Landmarks of Dekalb County, AlabamaFyffeMarch 21, 2016 — Fyffe, was the location of UFO sightings on Friday and Saturday, February 11-12...</span><span class="citation-popover-meta">Published: March 21, 2016</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://visitlookoutmountain.com/fyffe-ufo-day-celebration-and-its-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitlookoutmountain.com">[Visit Lookout Mountain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitlookoutmountain.com</span><span class="citation-popover-snippet">Visit Lookout MountainFyffe UFO Day Celebration and its History on Sand MountainPolice Chief Junior Garmany and Assistant Chief Fred Work...</span></span></span>
 
-
-<img src="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e-Illustration-1-light.svg" | relative_url }}" alt="Police Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e-Illustration-1-dark.svg" | relative_url }}" alt="Police Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The strongest feature of the case remains witness credibility rather than physical proof. Supporters argue that trained law-enforcement observers had little reason to invent a story and consistently returned to the same striking detail: the object appeared extraordinarily quiet for its apparent size. Sceptics counter that police officers are still vulnerable to misjudging distance, altitude and sound at night, especially during a rapidly spreading community sighting wave. The Fyffe police testimony matters because it sits precisely at that tension point between believable witnesses and limited evidence.
 
 ## What officers Junior Garmany and Fred Works reported
@@ -266,17 +265,15 @@ Fred Works later became the most publicly quoted witness. In retrospective inter
 
 One reason the officers’ testimony carried weight locally was the absence of obvious embellishment. Neither man publicly claimed alien contact, landing traces or dramatic supernatural effects. Their accounts stayed comparatively narrow: they saw something large, lit and difficult to identify. In UFO cases, restrained testimony often appears more persuasive to believers because it sounds less theatrical than elaborate paranormal narratives.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gaAyD2LiYd0" title="The Silent Hill f UFO ENDING is AMAZING! (UFO Ending Guide)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gaAyD2LiYd0" target="_blank" rel="noopener noreferrer">The Silent Hill f UFO ENDING is AMAZING! (UFO Ending Guide)</a></p><p class="youtube-embed-meta">Channel: Neon Slice &middot; Views: 36.0K &middot; Uploaded: September 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gaAyD2LiYd0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gaAyD2LiYd0">Open on YouTube</a></p></div></div></div>
 
 ## Why silence became the most repeated detail
 
-The single detail repeated most often in Fyffe retellings is not the shape of the object but its apparent silence. Works repeatedly stated that the object seemed too large to move so quietly if it were a normal aircraft. WAFF’s later reporting highlighted that the lack of sound remained the element he found hardest to explain years later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/pentagon-releases-report-uaps-revisit-104700686.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">pentagon releases report uaps revisit 104700686</span><span class="citation-popover-snippet">YahooAs the Pentagon releases its report on UAPs, we revisit...25 Jun 2021 — Fyffe police Chief Junior Garmany (now deceased) and his as...</span></span></span>
+The single detail repeated most often in Fyffe retellings is not the shape of the object but its apparent silence. Works repeatedly stated that the object seemed too large to move so quietly if it were a normal aircraft. WAFF’s later reporting highlighted that the lack of sound remained the element he found hardest to explain years later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/pentagon-releases-report-uaps-revisit-104700686.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">pentagon releases report uaps revisit 104700686</span><span class="citation-popover-snippet">As the Pentagon releases its report on UAPs, we revisit...25 Jun 2021 — Fyffe police Chief Junior Garmany (now deceased) and his as...</span></span></span>
 
 That detail mattered because witnesses instinctively compare unknown objects with familiar aircraft. Northern Alabama residents in the late 1980s were accustomed to hearing helicopters, military flights and commercial aircraft. A large illuminated object overhead with little or no audible engine noise naturally stood out in memory. The silence therefore became the emotional core of the Fyffe story: witnesses were not only saying they saw something unusual, but something that violated ordinary expectations about how large flying objects behave.
 
 At the same time, silence is one of the hardest UFO claims to verify independently. Several ordinary factors can affect perceived sound:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -291,8 +288,7 @@ These explanations do not prove the officers were mistaken, but they show why si
 
 The Fyffe reports also emerged during a concentrated wave of excitement. Once residents and officers began discussing the object publicly, later witnesses may have unconsciously emphasised the same memorable features. Social reinforcement is common in mass sighting episodes, especially in small communities where neighbours quickly compare experiences.
 
-
-<img src="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e-Illustration-2-light.svg" | relative_url }}" alt="Police Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e-Illustration-2-dark.svg" | relative_url }}" alt="Police Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How police testimony changed local reactions
 
 Police involvement transformed the social meaning of the Fyffe sightings. Anonymous civilian reports can easily be dismissed as hoaxes, exaggeration or misidentification. Named officers speaking publicly created a different atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.landmarksdekalbal.org/historic-dekalb-county-alabama-history/dekalb-county-alabama-communities/fyffe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: landmarksdekalbal.org">[Landmarks of Dekalb County, Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">landmarksdekalbal.org</span><span class="citation-popover-snippet">Landmarks of Dekalb County, AlabamaFyffeMarch 21, 2016 — Fyffe, was the location of UFO sightings on Friday and Saturday, February 11-12...</span><span class="citation-popover-meta">Published: March 21, 2016</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://visitlookoutmountain.com/fyffe-ufo-day-celebration-and-its-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitlookoutmountain.com">[Visit Lookout Mountain]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitlookoutmountain.com</span><span class="citation-popover-snippet">Visit Lookout MountainFyffe UFO Day Celebration and its History on Sand MountainPolice Chief Junior Garmany and Assistant Chief Fred Work...</span></span></span>
@@ -303,12 +299,11 @@ Fyffe’s later identity as Alabama’s “UFO capital” depended heavily on th
 
 The officers’ testimony also helped the case survive beyond the brief news cycle of 1989. Many sighting flaps disappear because witnesses refuse interviews or later retract their statements. Works, by contrast, continued speaking publicly about the incident decades later. That continuity gave later journalists a living witness to interview rather than only archived newspaper clippings.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y5AuZ0e2phc" title="Silent Hill f - Secret UFO Ending" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y5AuZ0e2phc" target="_blank" rel="noopener noreferrer">Silent Hill f - Secret UFO Ending</a></p><p class="youtube-embed-meta">Channel: The Easter Egg Hunter &middot; Views: 38.7K &middot; Uploaded: September 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y5AuZ0e2phc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y5AuZ0e2phc">Open on YouTube</a></p></div></div></div>
 
 ## Why the testimony still divides believers and sceptics
 
-For believers, Fyffe represents a classic “credible witness” case. They argue that trained observers familiar with ordinary night activity encountered something genuinely outside their experience. The consistency of certain details across decades — especially the object’s size and silence — is treated as evidence that the officers were reporting a real event rather than inventing a story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/pentagon-releases-report-uaps-revisit-104700686.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">pentagon releases report uaps revisit 104700686</span><span class="citation-popover-snippet">YahooAs the Pentagon releases its report on UAPs, we revisit...25 Jun 2021 — Fyffe police Chief Junior Garmany (now deceased) and his as...</span></span></span>
+For believers, Fyffe represents a classic “credible witness” case. They argue that trained observers familiar with ordinary night activity encountered something genuinely outside their experience. The consistency of certain details across decades — especially the object’s size and silence — is treated as evidence that the officers were reporting a real event rather than inventing a story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/pentagon-releases-report-uaps-revisit-104700686.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">pentagon releases report uaps revisit 104700686</span><span class="citation-popover-snippet">As the Pentagon releases its report on UAPs, we revisit...25 Jun 2021 — Fyffe police Chief Junior Garmany (now deceased) and his as...</span></span></span>
 
 Sceptics view the same evidence differently. From their perspective, Fyffe demonstrates how quickly collective interpretation can form around ambiguous night-time observations. The lack of photographs, radar data, physical traces or independently verified measurements leaves investigators dependent almost entirely on memory and testimony. Once memory becomes the main evidence, later retellings can gradually sharpen and simplify details into a more coherent narrative than witnesses originally experienced.
 
@@ -316,12 +311,10 @@ Another important sceptical point is that witness reliability is not identical t
 
 That leaves Fyffe in an unresolved middle category familiar to many state-level UFO histories: a case with sincere witnesses and lasting local impact, but without the technical evidence needed for firm conclusions. The police testimony remains significant less because it conclusively proves anything extraordinary and more because it demonstrates how witness authority shapes the public life of a UFO story.
 
-
-<img src="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e-Illustration-3-light.svg" | relative_url }}" alt="Police Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e-Illustration-3-dark.svg" | relative_url }}" alt="Police Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_fyffe_ufo_flap_086733_fyffe_police_witness_dcf40e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Fyffe police accounts still matter in Alabama UFO history
 
 Within Alabama’s wider UFO folklore, the Fyffe police testimony remains unusually durable because it combines several elements rarely found together:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -337,9 +330,7 @@ That combination explains why Fyffe still appears in retrospectives about unexpl
 
 The case also illustrates an important distinction in UFO history between unresolved and unexplained. Fyffe remains unresolved because the available evidence never established exactly what the officers and residents saw. But unresolved does not automatically mean extraterrestrial or technologically impossible. The case survives because the testimony feels credible enough to resist easy dismissal while remaining too limited to settle the question conclusively.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hQkMNQNJ1SE" title="Fyffe Alabama Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hQkMNQNJ1SE" target="_blank" rel="noopener noreferrer">Fyffe Alabama Tour</a></p><p class="youtube-embed-meta">Channel: Danny Fyffe &middot; Views: 592 &middot; Uploaded: June 2022 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hQkMNQNJ1SE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hQkMNQNJ1SE">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -427,7 +418,7 @@ The case also illustrates an important distinction in UFO history between unreso
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -437,111 +428,36 @@ The case also illustrates an important distinction in UFO history between unreso
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo police patch" data-ebay-reference="why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL (Old Vintage) NEW MEXICO Police Patch INDIAN ZIA ART UFO ALIEN 7H"><img src="https://i.ebayimg.com/images/g/01QAAeSw28ppx9Fo/s-l225.jpg" alt="Listing image for ROSWELL (Old Vintage) NEW MEXICO Police Patch INDIAN ZIA ART UFO ALIEN 7H" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo police patch" data-ebay-reference="why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch" target="_blank" rel="sponsored noopener noreferrer">ROSWELL (Old Vintage) NEW MEXICO Police Patch INDIAN ZIA ART UFO ALIEN 7H</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo police patch" data-ebay-reference="why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo police patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo police patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo police patch" data-ebay-reference="why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -549,15 +465,15 @@ The case also illustrates an important distinction in UFO history between unreso
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo police patch" data-ebay-reference="why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CAPE CANAVERAL SPACE CENTER SECURITY FLORIDA Police Patch NASA SHUTTLE UFO 7K"><img src="https://i.ebayimg.com/images/g/5sAAAeSw129qBxI2/s-l225.jpg" alt="Listing image for CAPE CANAVERAL SPACE CENTER SECURITY FLORIDA Police Patch NASA SHUTTLE UFO 7K" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo police patch" data-ebay-reference="why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch" target="_blank" rel="sponsored noopener noreferrer">CAPE CANAVERAL SPACE CENTER SECURITY FLORIDA Police Patch NASA SHUTTLE UFO 7K</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo police patch" data-ebay-reference="why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo police patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo police patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo police patch" data-ebay-reference="why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -565,15 +481,15 @@ The case also illustrates an important distinction in UFO history between unreso
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo police patch" data-ebay-reference="why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I&#x27;m OUT Iron on Patch UFO alien flying saucer spaceship space stars brexit kids"><img src="https://i.ebayimg.com/images/g/HBAAAOSwFnled1Md/s-l225.jpg" alt="Listing image for I&#x27;m OUT Iron on Patch UFO alien flying saucer spaceship space stars brexit kids" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo police patch" data-ebay-reference="why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch" target="_blank" rel="sponsored noopener noreferrer">I&#x27;m OUT Iron on Patch UFO alien flying saucer spaceship space stars brexit kids</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo police patch" data-ebay-reference="why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo police patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo police patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo police patch" data-ebay-reference="why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -581,15 +497,15 @@ The case also illustrates an important distinction in UFO history between unreso
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo police patch" data-ebay-reference="why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Patch ~ UFO TASK FORCE X FILES 👽👾 FBI R/A RESIDENT AGENCY GMAN ROSWELL SET/9"><img src="https://i.ebayimg.com/images/g/XNUAAOSw1RJnF0Nb/s-l225.jpg" alt="Listing image for Patch ~ UFO TASK FORCE X FILES 👽👾 FBI R/A RESIDENT AGENCY GMAN ROSWELL SET/9" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo police patch" data-ebay-reference="why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch" target="_blank" rel="sponsored noopener noreferrer">Patch ~ UFO TASK FORCE X FILES 👽👾 FBI R/A RESIDENT AGENCY GMAN ROSWELL SET/9</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo police patch" data-ebay-reference="why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo police patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo police patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo police patch" data-ebay-reference="why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -597,7 +513,7 @@ The case also illustrates an important distinction in UFO history between unreso
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=police-witnesses-why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+police+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo police patch" data-ebay-reference="why-fyffe-s-police-witnesses-still-matter-to-believers-and-sceptics-ufo-police-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -674,17 +590,31 @@ The case also illustrates an important distinction in UFO history between unreso
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -697,42 +627,73 @@ The case also illustrates an important distinction in UFO history between unreso
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -747,12 +708,17 @@ The case also illustrates an important distinction in UFO history between unreso
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -762,103 +728,103 @@ The case also illustrates an important distinction in UFO history between unreso
 
 1. <a id="endnote-1"></a>
    Source: thecrimsonwhite.com  
-   Link: [https://thecrimsonwhite.com/56148/top-stories/alabamas-ufo-capital-still-has-a-story-to-tell/](https://thecrimsonwhite.com/56148/top-stories/alabamas-ufo-capital-still-has-a-story-to-tell/)  
+   Link: <a href="https://thecrimsonwhite.com/56148/top-stories/alabamas-ufo-capital-still-has-a-story-to-tell/" target="_blank" rel="noopener noreferrer nofollow">https://thecrimsonwhite.com/56148/top-stories/alabamas-ufo-capital-still-has-a-story-to-tell/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Crimson WhiteAlabama&#x27;s UFO Capital still has a story to tell28 Oct 2019 — Works&#x27; UFO experience began earlier that Friday night, when...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: yahoo.com  
    Title: pentagon releases report uaps revisit 104700686  
-   Link: [https://www.yahoo.com/news/pentagon-releases-report-uaps-revisit-104700686.html](https://www.yahoo.com/news/pentagon-releases-report-uaps-revisit-104700686.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>YahooAs the Pentagon releases its report on UAPs, we revisit...25 Jun 2021 — Fyffe police Chief Junior Garmany (now deceased) and his as...</p></details>
+   Link: <a href="https://www.yahoo.com/news/pentagon-releases-report-uaps-revisit-104700686.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/pentagon-releases-report-uaps-revisit-104700686.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>As the Pentagon releases its report on UAPs, we revisit...25 Jun 2021 — Fyffe police Chief Junior Garmany (now deceased) and his as...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: alabama.travel  
-   Link: [https://alabama.travel/upcoming-events/fyffe-ufo-day-2](https://alabama.travel/upcoming-events/fyffe-ufo-day-2)  
+   Link: <a href="https://alabama.travel/upcoming-events/fyffe-ufo-day-2" target="_blank" rel="noopener noreferrer nofollow">https://alabama.travel/upcoming-events/fyffe-ufo-day-2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fyffe UFO FestivalHot Air Balloon Rides showcase this unique family outing! Arts and crafts, children&#x27;s games, food vendors, antique trac...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: essex.police.uk  
    Title: ufo reports 2014 to 2024  
-   Link: [https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/](https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/)  
+   Link: <a href="https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.essex.police.uk/foi-ai/essex-police/other-information/previous-foi-requests/ufo-reports-2014-to-2024/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Essex Police can report the following information regarding recorded UFO incidents between 2014 and 2024 from previous FOI disclosures...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: landmarksdekalbal.org  
-   Link: [https://www.landmarksdekalbal.org/historic-dekalb-county-alabama-history/dekalb-county-alabama-communities/fyffe/](https://www.landmarksdekalbal.org/historic-dekalb-county-alabama-history/dekalb-county-alabama-communities/fyffe/)  
+   Link: <a href="https://www.landmarksdekalbal.org/historic-dekalb-county-alabama-history/dekalb-county-alabama-communities/fyffe/" target="_blank" rel="noopener noreferrer nofollow">https://www.landmarksdekalbal.org/historic-dekalb-county-alabama-history/dekalb-county-alabama-communities/fyffe/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Landmarks of Dekalb County, AlabamaFyffeMarch 21, 2016 — Fyffe, was the location of UFO sightings on Friday and Saturday, February 11-12...</p></details>
    Published: March 21, 2016  
 
 6. <a id="endnote-6"></a>
    Source: visitlookoutmountain.com  
-   Link: [https://visitlookoutmountain.com/fyffe-ufo-day-celebration-and-its-history/](https://visitlookoutmountain.com/fyffe-ufo-day-celebration-and-its-history/)  
+   Link: <a href="https://visitlookoutmountain.com/fyffe-ufo-day-celebration-and-its-history/" target="_blank" rel="noopener noreferrer nofollow">https://visitlookoutmountain.com/fyffe-ufo-day-celebration-and-its-history/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visit Lookout MountainFyffe UFO Day Celebration and its History on Sand MountainPolice Chief Junior Garmany and Assistant Chief Fred Work...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: apr.org  
    Title: fyffe ufo days  
-   Link: [https://www.apr.org/tags/fyffe-ufo-days](https://www.apr.org/tags/fyffe-ufo-days)  
+   Link: <a href="https://www.apr.org/tags/fyffe-ufo-days" target="_blank" rel="noopener noreferrer nofollow">https://www.apr.org/tags/fyffe-ufo-days</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alabama Public RadioFyffe UFO DaysIn 1989, roughly 50 Fyffe residents saw what they claimed to be UFOs. Since that time, town officials h...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: soul-grown.com  
    Title: how a mysterious sighting put this alabama small town on the map  
-   Link: [https://soul-grown.com/how-a-mysterious-sighting-put-this-alabama-small-town-on-the-map/](https://soul-grown.com/how-a-mysterious-sighting-put-this-alabama-small-town-on-the-map/)  
+   Link: <a href="https://soul-grown.com/how-a-mysterious-sighting-put-this-alabama-small-town-on-the-map/" target="_blank" rel="noopener noreferrer nofollow">https://soul-grown.com/how-a-mysterious-sighting-put-this-alabama-small-town-on-the-map/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>While the town...Read more...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: oxfordshirehistory.org.uk  
-   Link: [https://www.oxfordshirehistory.org.uk/public/other_ohc/COS_2024_26_book_compressed.pdf](https://www.oxfordshirehistory.org.uk/public/other_ohc/COS_2024_26_book_compressed.pdf)  
+   Link: <a href="https://www.oxfordshirehistory.org.uk/public/other_ohc/COS_2024_26_book_compressed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oxfordshirehistory.org.uk/public/other_ohc/COS_2024_26_book_compressed.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: encyclopediaofalabama.org  
-   Link: [https://encyclopediaofalabama.org/article/dekalb-county/](https://encyclopediaofalabama.org/article/dekalb-county/)  
+   Link: <a href="https://encyclopediaofalabama.org/article/dekalb-county/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofalabama.org/article/dekalb-county/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DeKalb CountyThe county is also the home of some of the most scenic areas in the state, including the Little River Canyon and its many wa...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: swoy.org.uk  
    Title: 2025 archdiocese of southwark directory  
-   Link: [https://swoy.org.uk/wp-content/uploads/2024/12/2025-archdiocese-of-southwark-directory.pdf](https://swoy.org.uk/wp-content/uploads/2024/12/2025-archdiocese-of-southwark-directory.pdf)  
+   Link: <a href="https://swoy.org.uk/wp-content/uploads/2024/12/2025-archdiocese-of-southwark-directory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://swoy.org.uk/wp-content/uploads/2024/12/2025-archdiocese-of-southwark-directory.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CATHOLIC DIRECTORY 2025This gave witness that young people today are not closed to prayer or faith. I saw first-hand how passionate and i...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: Works described what he saw as  
-   Link: [https://www.facebook.com/WeirdDarkness/posts/february-11-1989-calls-started-flooding-into-the-fyffe-police-department-the-fir/1476725524458874/](https://www.facebook.com/WeirdDarkness/posts/february-11-1989-calls-started-flooding-into-the-fyffe-police-department-the-fir/1476725524458874/)  
+   Link: <a href="https://www.facebook.com/WeirdDarkness/posts/february-11-1989-calls-started-flooding-into-the-fyffe-police-department-the-fir/1476725524458874/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WeirdDarkness/posts/february-11-1989-calls-started-flooding-into-the-fyffe-police-department-the-fir/1476725524458874/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>February 11, 1989: Calls started flooding into the Fyffe Police...Police Chief Junior Garmany and Assistant Chief Fred Works tried to ch...</p></details>
    Published: February 11, 1989  
 
 13. <a id="endnote-13"></a>
    Source: research-repository.st-andrews.ac.uk  
    Title: Jorge Ortiz Sotelo Ph DThesis  
-   Link: [https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/2958/JorgeOrtiz-SoteloPhDThesis.pdf?isAllowed=y&sequence=3](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/2958/JorgeOrtiz-SoteloPhDThesis.pdf?isAllowed=y&sequence=3)  
+   Link: <a href="https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/2958/JorgeOrtiz-SoteloPhDThesis.pdf?isAllowed=y&amp;sequence=3" target="_blank" rel="noopener noreferrer nofollow">https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/2958/JorgeOrtiz-SoteloPhDThesis.pdf?isAllowed=y&amp;sequence=3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ortiz-Sotelo PhD Thesisby J Ortiz-Sotelo · 1998 · Cited by 6 — The protection of British interests in the Pacific was the basic reason to...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: bnc.ox.ac.uk  
    Title: ox.ac.uk The Brazen Nose  
-   Link: [https://www.bnc.ox.ac.uk/wp-content/uploads/2025/12/Brazen-Nose-2009-10-Vol.-44.pdf](https://www.bnc.ox.ac.uk/wp-content/uploads/2025/12/Brazen-Nose-2009-10-Vol.-44.pdf)  
+   Link: <a href="https://www.bnc.ox.ac.uk/wp-content/uploads/2025/12/Brazen-Nose-2009-10-Vol.-44.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bnc.ox.ac.uk/wp-content/uploads/2025/12/Brazen-Nose-2009-10-Vol.-44.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brazen Nose - University of OxfordThe object of the Society shall be the advancement of the welfare and interests of Brasenose College by...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=gaAyD2LiYd0&vl=en](https://www.youtube.com/watch?v=gaAyD2LiYd0&vl=en)  
+   Link: <a href="https://www.youtube.com/watch?v=gaAyD2LiYd0&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gaAyD2LiYd0&amp;vl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nding as well as the cutscene you get for the UFO ending...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=hQkMNQNJ1SE](https://www.youtube.com/watch?v=hQkMNQNJ1SE)  
+   Link: <a href="https://www.youtube.com/watch?v=hQkMNQNJ1SE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hQkMNQNJ1SE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From The Archives: UFO Hunting in Fyffe Alabama...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: infectedbloodinquiry.org.uk  
    Title: IB I: The Report  
-   Link: [https://www.infectedbloodinquiry.org.uk/reports/final-report-volume-2.html](https://www.infectedbloodinquiry.org.uk/reports/final-report-volume-2.html)  
+   Link: <a href="https://www.infectedbloodinquiry.org.uk/reports/final-report-volume-2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.infectedbloodinquiry.org.uk/reports/final-report-volume-2.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IBI: The Report - Volume 2One man discovered he had been infected with Hepatitis C, through blood products to treat von Willebrand disord...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: discovery.ucl.ac.uk  
    Title: Machimoto thesis  
-   Link: [https://discovery.ucl.ac.uk/id/eprint/10136146/1/Machimoto__thesis.pdf](https://discovery.ucl.ac.uk/id/eprint/10136146/1/Machimoto__thesis.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/10136146/1/Machimoto__thesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10136146/1/Machimoto__thesis.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kulturkritik and Philosophical Idealism in Britainby A Machimoto · 2021 — In the history of British philosophy, the period from the 1870s...</p></details>

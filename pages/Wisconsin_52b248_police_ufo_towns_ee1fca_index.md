@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /wisconsin-52b248-police-ufo-towns/
 description: Focused pages that expand on UFO Towns.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Wisconsin_52b248_police_ufo_towns_ee1fca
-parent_title: UFO Towns | What Really Made Wisconsin a UFO State?
+parent_title: UFO Towns
 parent_nav_short_title: UFO Towns
 parent_permalink: /ufo-towns/
 ---

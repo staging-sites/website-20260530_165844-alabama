@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /official-records/
 nav_short_title: Alexandria 1949 Case
 title: What Do Official Records Reveal About Alexandria's 1949 Sighting?
-title_full: What Do Official Records Reveal About Alexandria's 1949 Sighting? | Official Records
+title_full: What Do Official Records Reveal About Alexandria's 1949 Sighting?
 display_title_short: Alexandria 1949 Case
 display_title: Alexandria 1949 Case
 heading_title: What Do Official Records Reveal About Alexandria's 1949 Sighting?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:31:15'
-parent_title: When Does a Louisiana UFO Report Deserve Trust? | Louisiana UFOs
+parent_title: When Does a Louisiana UFO Report Deserve Trust?
 parent_permalink: /official-records/
 parent_nav_short_title: Official Records
 parent_heading_title: When Does a Louisiana UFO Report Deserve Trust?
@@ -250,10 +250,9 @@ image: /assets/images/Louisiana_b158e0_official_records_9b05ad_alexandria_1949_u
 
 ## Introduction
 
-The Alexandria sighting of 7 July 1949 remains one of the more useful [Louisiana]({{ 'what-really-happened-in-louisianas-ufo/' | relative_url }}) UFO cases because it left behind more than a newspaper story. Air Force investigators collected witness statements, reviewed the circumstances and preserved the material in what later became part of the Project Blue Book archive. Unlike many local UFO legends that survive only through retellings, the Alexandria case can be checked against surviving documents, reported observation times and the wider aviation context of 1949. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/6/66/Project_Blue_Book_report_-_1949-07-6310075-Alexandria-Louisiana.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1949 07 6310075 Alexandria Louisiana</span><span class="citation-popover-snippet">2. The following is an item which appeared in the Shreve- port Times, Shreveport, Louisiana, issue of 8 July 1949: &quot;F:lve...</span><span class="citation-popover-meta">Published: July 1949</span></span></span>
+The Alexandria sighting of 7 July 1949 remains one of the more useful Louisiana UFO cases because it left behind more than a newspaper story. Air Force investigators collected witness statements, reviewed the circumstances and preserved the material in what later became part of the Project Blue Book archive. Unlike many local UFO legends that survive only through retellings, the Alexandria case can be checked against surviving documents, reported observation times and the wider aviation context of 1949. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/6/66/Project_Blue_Book_report_-_1949-07-6310075-Alexandria-Louisiana.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1949 07 6310075 Alexandria Louisiana</span><span class="citation-popover-snippet">2. The following is an item which appeared in the Shreve- port Times, Shreveport, Louisiana, issue of 8 July 1949: &quot;F:lve...</span><span class="citation-popover-meta">Published: July 1949</span></span></span>
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_alexandria_1949_ufo_ea0b64-Illustration-1-light.svg" | relative_url }}" alt="Alexandria 1949 Case illustration 1" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_alexandria_1949_ufo_ea0b64-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_alexandria_1949_ufo_ea0b64-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_alexandria_1949_ufo_ea0b64-Illustration-1-dark.svg" | relative_url }}" alt="Alexandria 1949 Case illustration 1" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_alexandria_1949_ufo_ea0b64-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_alexandria_1949_ufo_ea0b64-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That does not mean the sighting was proved to be an unknown craft. The surviving evidence is mixed. Several witnesses described a bright, silent object that appeared to change direction, while investigators tried to determine whether ordinary aircraft, atmospheric conditions or mistaken perceptions could account for the report. The value of the case lies less in its mystery than in its documentation. For anyone studying Louisiana's aviation-linked UFO history, Alexandria offers a rare chance to compare witness claims with an official investigative record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/6/66/Project_Blue_Book_report_-_1949-07-6310075-Alexandria-Louisiana.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1949 07 6310075 Alexandria Louisiana</span><span class="citation-popover-snippet">2. The following is an item which appeared in the Shreve- port Times, Shreveport, Louisiana, issue of 8 July 1949: &quot;F:lve...</span><span class="citation-popover-meta">Published: July 1949</span></span></span>
 
 ## What was reported over Alexandria on 7 July 1949?
@@ -278,7 +277,6 @@ This matters because many UFO stories become distorted over time. Here, investig
 
 The Alexandria report also appeared during a period when public attention to flying saucers was unusually high. The famous Kenneth Arnold sighting had occurred only two years earlier, and newspapers across the United States were carrying regular UFO stories. That wider atmosphere may have influenced how witnesses interpreted unusual lights, but it also helps explain why military intelligence officers took reports seriously enough to document them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Sign" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Sign</span><span class="citation-popover-snippet">Project Sign</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U2teFYr-o2s" title="Declassified: The Air Force&#x27;s Secret UFO Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U2teFYr-o2s" target="_blank" rel="noopener noreferrer">Declassified: The Air Force&#x27;s Secret UFO Files</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel &middot; Views: 362.8K &middot; Uploaded: October 2015 &middot; Length: 3 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U2teFYr-o2s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U2teFYr-o2s">Open on YouTube</a></p></div></div></div>
 
 ## What do the witness statements actually support?
@@ -290,7 +288,6 @@ However, the witness evidence also has important limitations.
 The observers were not trained astronomical observers, military trackers or radar operators. The object was viewed at night against a dark sky, where estimating size, distance and speed becomes extremely difficult. Human observers can reliably report that they saw something unusual, but they are often much less reliable when estimating how far away it was or how rapidly it moved. This is especially true for isolated lights without visible reference points. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/6/66/Project_Blue_Book_report_-_1949-07-6310075-Alexandria-Louisiana.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1949 07 6310075 Alexandria Louisiana</span><span class="citation-popover-snippet">2. The following is an item which appeared in the Shreve- port Times, Shreveport, Louisiana, issue of 8 July 1949: &quot;F:lve...</span><span class="citation-popover-meta">Published: July 1949</span></span></span>
 
 The reported directional changes sound impressive at first glance, yet such movements can be produced by several ordinary effects:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -312,8 +309,7 @@ This distinction matters. Pilot cases usually carry extra evidential value becau
 
 As a result, the case belongs in the category of aviation-related [official records]({{ 'official-records/' | relative_url }}) rather than among the strongest pilot-observation incidents in UFO history.
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_alexandria_1949_ufo_ea0b64-Illustration-2-light.svg" | relative_url }}" alt="Alexandria 1949 Case illustration 2" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_alexandria_1949_ufo_ea0b64-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_alexandria_1949_ufo_ea0b64-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_alexandria_1949_ufo_ea0b64-Illustration-2-dark.svg" | relative_url }}" alt="Alexandria 1949 Case illustration 2" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_alexandria_1949_ufo_ea0b64-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_alexandria_1949_ufo_ea0b64-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Can aircraft explain the sighting?
 
 The most straightforward conventional explanation is an aircraft viewed under unusual conditions.
@@ -332,8 +328,7 @@ Aircraft at sufficient distance can appear silent, especially at night when obse
 
 The surviving file does not appear to contain enough flight-operations data to definitively match the sighting to a specific aircraft. That leaves the aircraft hypothesis plausible but unproven.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xu4oTBBI5UE" title="Project Blue Book: America&#x27;s Obsession with UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer">Project Blue Book: America&#x27;s Obsession with UFOs</a></p><p class="youtube-embed-meta">Channel: Origins OSU &middot; Views: 1.6K &middot; Uploaded: September 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xu4oTBBI5UE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OoKm417zKOA" title="10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer">10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs</a></p><p class="youtube-embed-meta">Channel: TopTenz &middot; Views: 271.1K &middot; Uploaded: February 2019 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OoKm417zKOA">Open on YouTube</a></p></div></div></div>
 
 ## Weather, visibility and the problem of night observations
 
@@ -349,11 +344,29 @@ This creates a recurring problem in historical UFO research. A lack of evidence 
 
 The Alexandria file is valuable because it demonstrates what an actual 1949 investigation looked like. Rather than proving an extraordinary event, it preserves a chain of evidence:
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_alexandria_1949_ufo_ea0b64-Illustration-3-light.svg" | relative_url }}" alt="Alexandria 1949 Case illustration 3" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_alexandria_1949_ufo_ea0b64-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_alexandria_1949_ufo_ea0b64-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_alexandria_1949_ufo_ea0b64-Illustration-3-dark.svg" | relative_url }}" alt="Alexandria 1949 Case illustration 3" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_alexandria_1949_ufo_ea0b64-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad_alexandria_1949_ufo_ea0b64-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 1. Contemporary newspaper reporting.
 2. Named witness interviews.
 3. Military investigative interest.
+4. Written records retained in federal archives and later Blue Book collections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/6/66/Project_Blue_Book_report_-_1949-07-6310075-Alexandria-Louisiana.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1949 07 6310075 Alexandria Louisiana</span><span class="citation-popover-snippet">2. The following is an item which appeared in the Shreve- port Times, Shreveport, Louisiana, issue of 8 July 1949: &quot;F:lve...</span><span class="citation-popover-meta">Published: July 1949</span></span></span>
+
+That makes the case stronger than folklore accounts recorded decades later. At the same time, it falls well short of the most compelling categories of UFO evidence.
+
+The file contains no confirmed radar tracking, no photographs, no recovered physical evidence and no instrumented measurements. Researchers are therefore left with witness testimony and investigative summaries rather than independently verifiable technical data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/6/66/Project_Blue_Book_report_-_1949-07-6310075-Alexandria-Louisiana.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1949 07 6310075 Alexandria Louisiana</span><span class="citation-popover-snippet">2. The following is an item which appeared in the Shreve- port Times, Shreveport, Louisiana, issue of 8 July 1949: &quot;F:lve...</span><span class="citation-popover-meta">Published: July 1949</span></span></span>
+
+The result is a case that is documented but not decisive.
+
+## What does the Alexandria case tell us about Louisiana's UFO history?
+
+The broader significance of Alexandria lies in timing and documentation. The sighting occurred during the transition period between Project Sign and Project Grudge, when the Air Force was still deciding how seriously to treat flying-saucer reports. It also emerged during a brief cluster of Louisiana sightings that attracted regional newspaper attention. Reports from Alexandria helped place central Louisiana within the national UFO conversation of the late 1940s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical...</span></span></span>
+
+For modern readers, the case illustrates an important distinction. An official file is not the same thing as an official endorsement of a UFO claim. The Alexandria documents show that investigators considered the report worth recording and examining. They do not show that investigators confirmed an unknown craft.
+
+That is precisely why the case remains useful. It sits in the middle ground between obvious misidentifications and dramatic but weakly sourced legends. The witnesses appear genuine, the documentation is real and the event clearly happened in the sense that several people reported seeing something unusual. What remains unresolved is the identity of that object.
+
+In Louisiana's catalogue of aviation-linked UFO incidents, that combination of credible witnesses, preserved records and unresolved interpretation is what keeps the Alexandria sighting relevant more than seventy years later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/6/66/Project_Blue_Book_report_-_1949-07-6310075-Alexandria-Louisiana.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1949 07 6310075 Alexandria Louisiana</span><span class="citation-popover-snippet">2. The following is an item which appeared in the Shreve- port Times, Shreveport, Louisiana, issue of 8 July 1949: &quot;F:lve...</span><span class="citation-popover-meta">Published: July 1949</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B0E2PSC_Mo0" title="US Department Of War Opens Massive Classified UFO Archive | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B0E2PSC_Mo0" target="_blank" rel="noopener noreferrer">US Department Of War Opens Massive Classified UFO Archive | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 2.6K &middot; Uploaded: May 2026 &middot; Length: 3 minutes 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B0E2PSC_Mo0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B0E2PSC_Mo0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -441,7 +454,7 @@ The Alexandria file is valuable because it demonstrates what an actual 1949 inve
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -451,111 +464,36 @@ The Alexandria file is valuable because it demonstrates what an actual 1949 inve
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed."><img src="https://i.ebayimg.com/images/g/GWYAAeSwgidpwAEt/s-l225.jpg" alt="Listing image for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,15 +501,15 @@ The Alexandria file is valuable because it demonstrates what an actual 1949 inve
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55"><img src="https://i.ebayimg.com/images/g/2G0AAOSwjIpgTIcl/s-l225.jpg" alt="Listing image for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -579,15 +517,15 @@ The Alexandria file is valuable because it demonstrates what an actual 1949 inve
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/MykAAOSwkRVk5Rd3/s-l225.jpg" alt="Listing image for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -595,15 +533,15 @@ The Alexandria file is valuable because it demonstrates what an actual 1949 inve
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/HvAAAOSw08Vk5SIm/s-l225.jpg" alt="Listing image for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -611,7 +549,7 @@ The Alexandria file is valuable because it demonstrates what an actual 1949 inve
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexandria-1949-case-what-do-official-records-reveal-about-alexandria-s-1949-sighting-louisiana-ufo-poster-book-books-dv&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-official-records-reveal-about-alexandria-s-1949-sighting-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -688,17 +626,31 @@ The Alexandria file is valuable because it demonstrates what an actual 1949 inve
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -711,42 +663,73 @@ The Alexandria file is valuable because it demonstrates what an actual 1949 inve
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -761,165 +744,149 @@ The Alexandria file is valuable because it demonstrates what an actual 1949 inve
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
-4. Written records retained in federal archives and later Blue Book collections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/6/66/Project_Blue_Book_report_-_1949-07-6310075-Alexandria-Louisiana.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1949 07 6310075 Alexandria Louisiana</span><span class="citation-popover-snippet">2. The following is an item which appeared in the Shreve- port Times, Shreveport, Louisiana, issue of 8 July 1949: &quot;F:lve...</span><span class="citation-popover-meta">Published: July 1949</span></span></span>
-
-That makes the case stronger than folklore accounts recorded decades later. At the same time, it falls well short of the most compelling categories of UFO evidence.
-
-The file contains no confirmed radar tracking, no photographs, no recovered physical evidence and no instrumented measurements. Researchers are therefore left with witness testimony and investigative summaries rather than independently verifiable technical data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/6/66/Project_Blue_Book_report_-_1949-07-6310075-Alexandria-Louisiana.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1949 07 6310075 Alexandria Louisiana</span><span class="citation-popover-snippet">2. The following is an item which appeared in the Shreve- port Times, Shreveport, Louisiana, issue of 8 July 1949: &quot;F:lve...</span><span class="citation-popover-meta">Published: July 1949</span></span></span>
-
-The result is a case that is documented but not decisive.
-
-## What does the Alexandria case tell us about Louisiana's UFO history?
-
-The broader significance of Alexandria lies in timing and documentation. The sighting occurred during the transition period between Project Sign and Project Grudge, when the Air Force was still deciding how seriously to treat flying-saucer reports. It also emerged during a brief cluster of Louisiana sightings that attracted regional newspaper attention. Reports from Alexandria helped place central Louisiana within the national UFO conversation of the late 1940s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Report on Unidentified Flying Objects</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical...</span></span></span>
-
-For modern readers, the case illustrates an important distinction. An official file is not the same thing as an official endorsement of a UFO claim. The Alexandria documents show that investigators considered the report worth recording and examining. They do not show that investigators confirmed an unknown craft.
-
-That is precisely why the case remains useful. It sits in the middle ground between obvious misidentifications and dramatic but weakly sourced legends. The witnesses appear genuine, the documentation is real and the event clearly happened in the sense that several people reported seeing something unusual. What remains unresolved is the identity of that object.
-
-In Louisiana's catalogue of aviation-linked UFO incidents, that combination of credible witnesses, preserved records and unresolved interpretation is what keeps the Alexandria sighting relevant more than seventy years later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/6/66/Project_Blue_Book_report_-_1949-07-6310075-Alexandria-Louisiana.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1949 07 6310075 Alexandria Louisiana</span><span class="citation-popover-snippet">2. The following is an item which appeared in the Shreve- port Times, Shreveport, Louisiana, issue of 8 July 1949: &quot;F:lve...</span><span class="citation-popover-meta">Published: July 1949</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GcOCIabFnLE" title="Project Blue Book UFO Interview USAF (1966)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer">Project Blue Book UFO Interview USAF (1966)</a></p><p class="youtube-embed-meta">Channel: AIRBOYD &middot; Views: 783 &middot; Uploaded: November 2025 &middot; Length: 4 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GcOCIabFnLE">Open on YouTube</a></p></div></div></div>
 
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book report 1949 07 6310075 Alexandria Louisiana  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/6/66/Project_Blue_Book_report_-_1949-07-6310075-Alexandria-Louisiana.pdf](https://upload.wikimedia.org/wikipedia/commons/6/66/Project_Blue_Book_report_-_1949-07-6310075-Alexandria-Louisiana.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/6/66/Project_Blue_Book_report_-_1949-07-6310075-Alexandria-Louisiana.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/6/66/Project_Blue_Book_report_-_1949-07-6310075-Alexandria-Louisiana.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2. The following is an item which appeared in the Shreve- port Times, Shreveport, Louisiana, issue of 8 July 1949: &quot;F:lve...</p></details>
    Published: July 1949  
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — Pro-UFO researchers claim that an extraterrestrial spacecraft and its alien...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Grudge  
-   Link: [https://en.wikipedia.org/wiki/Project_Grudge](https://en.wikipedia.org/wiki/Project_Grudge)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Grudge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Grudge</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Project Sign  
-   Link: [https://en.wikipedia.org/wiki/Project_Sign](https://en.wikipedia.org/wiki/Project_Sign)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Sign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Sign</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: The Report on Unidentified Flying Objects  
-   Link: [https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects](https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects</a>  
 
 6. <a id="endnote-6"></a>
    Source: upload.wikimedia.org  
    Title: Commons The Project Blue Book Archive  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book%2C_BBA-PBSR9-300.pdf](https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book%2C_BBA-PBSR9-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book%2C_BBA-PBSR9-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book%2C_BBA-PBSR9-300.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IJOO* - 600(, overcast, with a ground temperature of -3°C*. II* Discussion of Incident.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — The files contain reports from UFO observers, correspondence...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book report 1949 09 6313269 Alexandria La  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/0/04/Project_Blue_Book_report_-_1949-09-6313269-Alexandria-La.pdf](https://upload.wikimedia.org/wikipedia/commons/0/04/Project_Blue_Book_report_-_1949-09-6313269-Alexandria-La.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/0/04/Project_Blue_Book_report_-_1949-09-6313269-Alexandria-La.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/0/04/Project_Blue_Book_report_-_1949-09-6313269-Alexandria-La.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgProject_Blue_Book_report_-_1949-09-6313269-...Is observer ematcur astronomer, pilot, engineer, etc.? 6. Ab~.li ty to determ...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehensive Catalog of 1600 Project Blue Book UFO...2 Oct 2009 — However, in reverse, Hynek re-evaluated 53 Blue Book IFO cases as Une...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: archive.org  
    Title: Mar 28 1980, The Times, #60587, UK (en) djvu.txt  
-   Link: [https://archive.org/stream/NewsUK1980UKEnglish/Mar%2028%201980%2C%20The%20Times%2C%20%2360587%2C%20UK%20%28en%29_djvu.txt](https://archive.org/stream/NewsUK1980UKEnglish/Mar%2028%201980%2C%20The%20Times%2C%20%2360587%2C%20UK%20%28en%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/NewsUK1980UKEnglish/Mar%2028%201980%2C%20The%20Times%2C%20%2360587%2C%20UK%20%28en%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewsUK1980UKEnglish/Mar%2028%201980%2C%20The%20Times%2C%20%2360587%2C%20UK%20%28en%29_djvu.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;The Times, 1980, UK, English&quot;Full text of &quot;The Times, 1980, UK, English&quot;. See other formats. I =h 2S19S0 Steel dispute: T...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: osi.af.mil  
    Title: project blue book part 1 ufo reports  
-   Link: [https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/](https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/)  
+   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Although some pilots enjoy the...Read more...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsThis is a book about unidentified flying objects—UFO&#x27;s—&quot;flying saucers.&quot; It is actually more tha...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: did a rash of 1940s sightings lead to plans for a national ufo conference in lou  
-   Link: [https://www.facebook.com/theadvocateaca/posts/did-a-rash-of-1940s-sightings-lead-to-plans-for-a-national-ufo-conference-in-lou/1442707854528034/](https://www.facebook.com/theadvocateaca/posts/did-a-rash-of-1940s-sightings-lead-to-plans-for-a-national-ufo-conference-in-lou/1442707854528034/)  
+   Link: <a href="https://www.facebook.com/theadvocateaca/posts/did-a-rash-of-1940s-sightings-lead-to-plans-for-a-national-ufo-conference-in-lou/1442707854528034/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theadvocateaca/posts/did-a-rash-of-1940s-sightings-lead-to-plans-for-a-national-ufo-conference-in-lou/1442707854528034/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ALEXANDRIA, La., July 7 - State Trooper R. R. Brasher today reported... Of a total of 12,618 sightings reported to Project Blue Book, 70...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: uk.forceswarrecords.com  
    Title: us project blue book ufo investigations 1947 1969  
-   Link: [https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969](https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969)  
+   Link: <a href="https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>forceswarrecords.comUS, Project Blue Book - UFO Investigations, 1947-196926 Feb 2007 — The files contain reports from UFO observers, corr...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/urbancastllc/posts/alexandria-when-central-louisiana-was-nearly-the-ufo-capital-of-the-world-check-/878369384543155/](https://www.facebook.com/urbancastllc/posts/alexandria-when-central-louisiana-was-nearly-the-ufo-capital-of-the-world-check-/878369384543155/)  
+   Link: <a href="https://www.facebook.com/urbancastllc/posts/alexandria-when-central-louisiana-was-nearly-the-ufo-capital-of-the-world-check-/878369384543155/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/urbancastllc/posts/alexandria-when-central-louisiana-was-nearly-the-ufo-capital-of-the-world-check-/878369384543155/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eck out this article! Did you know Alexandria was once on track...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: countryroadsmagazine.com  
-   Link: [https://countryroadsmagazine.com/art-and-culture/history/look-up-in-the-sky/](https://countryroadsmagazine.com/art-and-culture/history/look-up-in-the-sky/)  
+   Link: <a href="https://countryroadsmagazine.com/art-and-culture/history/look-up-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://countryroadsmagazine.com/art-and-culture/history/look-up-in-the-sky/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Country Roads Magazine&quot;Look, Up in the Sky!&quot; - Country Roads...7 days ago — In July 1949, newspapers reported that several people saw a...</p></details>
    Published: July 1949  
 
 18. <a id="endnote-18"></a>
    Source: stmarynow.com  
    Title: jim bradshaw when ufos appeared over louisiana  
-   Link: [https://www.stmarynow.com/news-local-state-columns/jim-bradshaw-when-ufos-appeared-over-louisiana](https://www.stmarynow.com/news-local-state-columns/jim-bradshaw-when-ufos-appeared-over-louisiana)  
+   Link: <a href="https://www.stmarynow.com/news-local-state-columns/jim-bradshaw-when-ufos-appeared-over-louisiana" target="_blank" rel="noopener noreferrer nofollow">https://www.stmarynow.com/news-local-state-columns/jim-bradshaw-when-ufos-appeared-over-louisiana</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Mrs. Andrew Rhino and two of their neighbors saw a disc in the northwest sky...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: kirkmcd.princeton.edu  
    Title: bloecher 67  
-   Link: [https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf](https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf)  
+   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/bloecher_67.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on the UFO Wave of 1947by T Bloecher · 1967 · Cited by 45 — This book was reproduced (2005) by Jean Waskiewicz, and Francis Ridge with ex...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GcOCIabFnLE](https://www.youtube.com/watch?v=GcOCIabFnLE)  
+   Link: <a href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GcOCIabFnLE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Department Of War Opens Massive Classified UFO Archive | WION Podcast...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Project Blue Book: America's Obsession with UFOs  
-   Link: [https://www.youtube.com/watch?v=Xu4oTBBI5UE](https://www.youtube.com/watch?v=Xu4oTBBI5UE)  
+   Link: <a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: libguides.nmstatelibrary.org  
-   Link: [https://libguides.nmstatelibrary.org/c.php?g=1380278&p=10206047](https://libguides.nmstatelibrary.org/c.php?g=1380278&p=10206047)  
+   Link: <a href="https://libguides.nmstatelibrary.org/c.php?g=1380278&amp;p=10206047" target="_blank" rel="noopener noreferrer nofollow">https://libguides.nmstatelibrary.org/c.php?g=1380278&amp;p=10206047</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force and Flying Saucers12 May 2026 — Project Blue Book was one of several US Air Force investigations into UFOs. Their documentation...</p></details>
-   Published: May 2026  
+   Published: May 2026

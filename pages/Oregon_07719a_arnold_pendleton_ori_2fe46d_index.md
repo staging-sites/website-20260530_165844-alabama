@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /oregon-07719a-arnold-pendleton-ori/
 description: Focused pages that expand on Origins.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Oregon_07719a_arnold_pendleton_ori_2fe46d
-parent_title: Origins | Why Oregon Matters In UFO History
+parent_title: Origins
 parent_nav_short_title: Origins
 parent_permalink: /origins/
 ---

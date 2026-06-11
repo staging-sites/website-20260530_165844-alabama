@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-delawares-ufo/
 nav_short_title: Modern Hotspots
 title: Where Delaware UFO Reports Keep Appearing
-title_full: Where Delaware UFO Reports Keep Appearing | Delaware UFOs
+title_full: Where Delaware UFO Reports Keep Appearing
 display_title_short: Modern Hotspots
 display_title: Modern Hotspots
 heading_title: Where Delaware UFO Reports Keep Appearing
@@ -262,20 +262,18 @@ image: /assets/images/Delaware_5861e4_modern_delaware_hots_55c072-overview-socia
 
 ## Introduction
 
-Modern [Delaware]({{ 'what-really-happened-in-delawares-ufo/' | relative_url }}) UFO reports are best understood as a pattern of recurring sightings, not as proof of extraordinary craft. The reports cluster most visibly around Wilmington, Newark, Dover, Bear, Rehoboth Beach, Lewes, Millsboro and other coastal or Route 1 communities, where ordinary sky traffic can look strange under the right conditions. NUFORC’s Delaware entries include triangles, orange lights, fireballs, hovering points, spheres and fast flashes; the stronger lesson is that Delaware’s geography puts witnesses close to airports, Dover Air Force Base, beach skies, bay horizons, satellites, meteors, drones and aircraft approach paths. That makes the state interesting precisely because many reports are plausible, ambiguous and easy to overread. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lDE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for State DE</span><span class="citation-popover-snippet">NUFOR C Reports for State DE</span></span></span>
-
+Modern Delaware UFO reports are best understood as a pattern of recurring sightings, not as proof of extraordinary craft. The reports cluster most visibly around Wilmington, Newark, Dover, Bear, Rehoboth Beach, Lewes, Millsboro and other coastal or Route 1 communities, where ordinary sky traffic can look strange under the right conditions. NUFORC’s Delaware entries include triangles, orange lights, fireballs, hovering points, spheres and fast flashes; the stronger lesson is that Delaware’s geography puts witnesses close to airports, Dover Air Force Base, beach skies, bay horizons, satellites, meteors, drones and aircraft approach paths. That makes the state interesting precisely because many reports are plausible, ambiguous and easy to overread. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lDE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for State DE</span><span class="citation-popover-snippet">NUFOR C Reports for State DE</span></span></span>
 
 <img src="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072-overview.webp" | relative_url }}" alt="Overview image for Modern Hotspots" loading="eager" decoding="sync" fetchpriority="high">
 ## Where the reports cluster
 
-The most visible modern pattern is urban and corridor-based. A Stacker analysis of National UFO Reporting Center data from 1995 onwards ranks Wilmington first in Delaware with 59 reports, Newark second with 49, Dover third with 35, Bear fourth with 25 and Rehoboth Beach fifth with 18. Lewes, Millsboro, Bethany Beach, Milford and Middletown also appear in the top ten, which roughly matches the state’s population centres, university town, airbase zone, holiday coast and north-south travel routes rather than pointing to one mysterious “UFO window”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/delaware/cities-most-ufo-sightings-delaware" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Delaware | Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Delaware | Stacker</span></span></span>
+The most visible modern pattern is urban and corridor-based. A Stacker analysis of National UFO Reporting Center data from 1995 onwards ranks Wilmington first in Delaware with 59 reports, Newark second with 49, Dover third with 35, Bear fourth with 25 and Rehoboth Beach fifth with 18. Lewes, Millsboro, Bethany Beach, Milford and Middletown also appear in the top ten, which roughly matches the state’s population centres, university town, airbase zone, holiday coast and north-south travel routes rather than pointing to one mysterious “UFO window”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/delaware/cities-most-ufo-sightings-delaware" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Delaware &#124; Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Delaware &#124; Stacker</span></span></span>
 
-That matters because raw sighting counts do not automatically show where unusual objects appear most often. They also show where people live, drive, look up, holiday, carry phones and know how to file reports. Wilmington and Newark sit in northern Delaware’s busy built environment, near the Northeast Corridor and regional air traffic. Wilmington Airport describes itself as an FAA-certificated airport on 1,250 acres in the heart of the Northeast Corridor, with business aviation and scheduled Avelo Airlines passenger service. A bright or oddly moving light over northern Delaware therefore has to be weighed against a dense aviation background before it becomes a strong UFO case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.drba.net/travel/drba-airports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drba.net">[drba.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drba.net</span><span class="citation-popover-title">DRB A Airports in Delaware and New Jersey | Delaware River and Bay Authority</span><span class="citation-popover-snippet">DRB A Airports in Delaware and New Jersey | Delaware River and Bay Authority</span></span></span>
+That matters because raw sighting counts do not automatically show where unusual objects appear most often. They also show where people live, drive, look up, holiday, carry phones and know how to file reports. Wilmington and Newark sit in northern Delaware’s busy built environment, near the Northeast Corridor and regional air traffic. Wilmington Airport describes itself as an FAA-certificated airport on 1,250 acres in the heart of the Northeast Corridor, with business aviation and scheduled Avelo Airlines passenger service. A bright or oddly moving light over northern Delaware therefore has to be weighed against a dense aviation background before it becomes a strong UFO case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.drba.net/travel/drba-airports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drba.net">[drba.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drba.net</span><span class="citation-popover-title">DRB A Airports in Delaware and New Jersey &#124; Delaware River and Bay Authority</span><span class="citation-popover-snippet">DRB A Airports in Delaware and New Jersey &#124; Delaware River and Bay Authority</span></span></span>
 
 Dover is different but equally complicated. Dover Air Force Base is home to the 436th and 512th Airlift Wings, which maintain and operate C-5M and C-17 aircraft and fly hundreds of worldwide missions. Those are large, sometimes slow-seeming aircraft, and their lights, turns, climbs and approaches can appear unfamiliar to observers who are not expecting heavy military transports overhead. This does not explain every Dover-area report, but it explains why the standard of evidence has to be higher near the base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dover.af.mil/About-Dover/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dover.af.mil">[dover.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dover.af.mil</span><span class="citation-popover-title">About Dover</span><span class="citation-popover-snippet">About Dover</span></span></span>
 
-
-<img src="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072-Illustration-1-light.svg" | relative_url }}" alt="Modern Hotspots illustration 1" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072-Illustration-1-dark.svg" | relative_url }}" alt="Modern Hotspots illustration 1" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## NUFORC patterns across Delaware towns
 
 NUFORC’s Delaware list is useful because it preserves local report texture: dates, places, shapes, short witness summaries and occasional editorial notes. In the early 2000s alone, the database includes a Dover “triangle with white lights”, a Smyrna “triangle craft with 3 bright lights”, a Rehoboth Beach bright object over the ocean, a Lewes red-light chevron, a Newark amber light, Wilmington red-green-white lights, and multiple “triangle” reports in Wilmington, Newark, Middletown, Clayton and near Dover. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=164027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
@@ -283,7 +281,6 @@ NUFORC’s Delaware list is useful because it preserves local report texture: da
 The repeated triangle motif is worth noticing, but not treating as a single craft type. A “triangle” in a witness report can mean several different things: three independent lights, aircraft lights seen from an odd angle, a formation, a drone, a low aircraft with landing lights, or a genuine dark shape blocking stars. NUFORC’s own notes sometimes lean towards ordinary explanations; for example, a Wilmington report of a flashing red, green and white light was annotated as a possible sighting of Sirius, and a Hockessin report involving “chemtrails” was annotated as contrails. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 The coastal reports have their own flavour. Rehoboth Beach, Dewey Beach, Lewes, Fenwick Island, Slaughter Beach and the Delaware Bay appear in reports involving lights offshore, formations, flashes or objects seen against open sky and water. A 2021 Rehoboth Beach report described five orange lights forming a U-shape, moving silently together from east to west and flickering “like electric lanterns or candles”; that is a vivid account, but the description also overlaps strongly with lantern-like lights or other small illuminated objects drifting in wind. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=166285" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qUKEvSeGOMY" title="‘Most UFO sightings are explainable but…’: Pentagon AARO chief tells Senate Armed Services Committee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer">‘Most UFO sightings are explainable but…’: Pentagon AARO chief tells Senate Armed Services Committee</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 15.6K &middot; Uploaded: November 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qUKEvSeGOMY">Open on YouTube</a></p></div></div></div>
 
@@ -295,8 +292,7 @@ Fireball reports are especially important in Delaware because the state sits und
 
 Satellites now add another layer. Starlink trains can appear as strings of bright, evenly spaced, silent lights moving in a straight line, often shortly after launch and especially around twilight. A 2024 technical case study found that a recently launched Starlink satellite train had been misidentified as a UAP by commercial pilots, showing that even trained observers can be confused by unusual satellite illumination and geometry. That mechanism is directly relevant to Delaware reports of silent lines, formations and lights crossing the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starwalk.space">[Star Walk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starwalk.space</span><span class="citation-popover-title">Star Walk Starlink Tracker: Find Starlink Satellites Tonight</span><span class="citation-popover-snippet">Star Walk Starlink Tracker: Find Starlink Satellites Tonight</span></span></span>
 
-
-<img src="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072-Illustration-2-light.svg" | relative_url }}" alt="Modern Hotspots illustration 2" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072-Illustration-2-dark.svg" | relative_url }}" alt="Modern Hotspots illustration 2" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the 2024 drone scare matters for Delaware
 
 The late-2024 drone wave across the north-eastern United States is a cautionary episode for modern Delaware sightings. Delaware State Police stated on 20 December 2024 that they were aware of recent reports of potential drone activity throughout the state, reminded the public that drone operation is legal, and asked people to report suspicious activity through the Delaware Anti-Terrorism Tipline so details could be assessed properly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dsp.delaware.gov/2024/12/20/delaware-state-police-urges-public-to-responsibly-report-suspicious-drone-activity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dsp.delaware.gov">[Delaware State Police]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dsp.delaware.gov</span><span class="citation-popover-title">State Police Delaware State Police Urges Public to Responsibly Report</span><span class="citation-popover-snippet">State Police Delaware State Police Urges Public to Responsibly Report</span></span></span>
@@ -305,7 +301,6 @@ This was not happening in isolation. Federal reporting during the wider New Jers
 
 The drone episode does not mean every witness was wrong. It means “drone”, like “UFO”, can become a holding label for things not yet identified. Modern Delaware has real drones, real aircraft, real military aviation, real satellites and real unexplained witness reports. The hard part is separating those layers without dismissing witnesses or inflating uncertainty into a mystery.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pqkxYbVEvAU" title="What do drones look like? Are lights in the night UFOs, planes? Here&#x27;s what to know." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pqkxYbVEvAU" target="_blank" rel="noopener noreferrer">What do drones look like? Are lights in the night UFOs, planes? Here&#x27;s what to know.</a></p><p class="youtube-embed-meta">Channel: NBC10 Boston &middot; Views: 22.8K &middot; Uploaded: December 2024 &middot; Length: 1 minute 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pqkxYbVEvAU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pqkxYbVEvAU">Open on YouTube</a></p></div></div></div>
 
 ## How to weigh ordinary explanations
@@ -313,7 +308,6 @@ The drone episode does not mean every witness was wrong. It means “drone”, l
 A balanced Delaware sighting assessment starts with the question: what would this look like if it were ordinary? That is not a debunking trick; it is the basic filter that makes the remaining cases more meaningful. The Pentagon’s All-domain Anomaly Resolution Office says its UAP work uses a scientific, data-driven approach, and its official imagery pages show how some apparently unusual objects are assessed as balloons when their shape and motion match wind-drift behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
 
 For Delaware, the most useful ordinary checks are practical:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -328,17 +322,14 @@ For Delaware, the most useful ordinary checks are practical:
 
 The strongest modern Delaware reports would be those with multiple independent witnesses from different positions, exact times, direction of view, duration, photos or video with metadata, flight-track checks, weather data and astronomical comparison. A single anonymous report can still be interesting, but it is weak if it gives no bearing, no elevation, no corroboration and no way to test aircraft, satellite or meteor explanations.
 
-
-<img src="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072-Illustration-3-light.svg" | relative_url }}" alt="Modern Hotspots illustration 3" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072-Illustration-3-dark.svg" | relative_url }}" alt="Modern Hotspots illustration 3" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the hotspots really show
 
 Delaware’s modern hotspots show a reporting ecology more than a mystery map. Wilmington and Newark produce numbers because they are populated, connected and full of observers. Dover matters because military aviation makes the sky unusual even before any UFO claim enters the picture. The beaches matter because dark horizons, holiday crowds, lantern-like lights, offshore aircraft, boats, satellites and meteors are all easier to notice over open water. The Route 1 corridor matters because drivers and passengers repeatedly see lights while moving, often with limited time to judge distance or direction.
 
 The most honest conclusion is neither “nothing is happening” nor “Delaware is hiding extraordinary craft”. Something real is happening at the level of human observation: people continue to see and report things they cannot immediately identify. But the best-supported mechanisms are mixed and mostly ordinary: aircraft, airbase activity, drones, planets, satellites, fireballs, balloons, lantern-like lights and perception under imperfect viewing conditions. The unresolved residue is still worth preserving, especially where reports are detailed or clustered, but the modern Delaware record is strongest as a guide to how ambiguous sky events become UFO reports in a small, aviation-rich, coast-facing state.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y1QGBRfcGNY" title="C-5M Super Galaxy Cockpit Video: Gigantic Transport Aircraft Performs ‘Touch-And-Goes’" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y1QGBRfcGNY" target="_blank" rel="noopener noreferrer">C-5M Super Galaxy Cockpit Video: Gigantic Transport Aircraft Performs ‘Touch-And-Goes’</a></p><p class="youtube-embed-meta">Channel: Ultimate Military Channel &middot; Views: 9.2K &middot; Uploaded: October 2018 &middot; Length: 4 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y1QGBRfcGNY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y1QGBRfcGNY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -426,7 +417,7 @@ The most honest conclusion is neither “nothing is happening” nor “Delaware
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -436,111 +427,36 @@ The most honest conclusion is neither “nothing is happening” nor “Delaware
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-delaware-ufo-reports-keep-appearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-delaware-ufo-reports-keep-appearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-delaware-ufo-reports-keep-appearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-delaware-ufo-reports-keep-appearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-delaware-ufo-reports-keep-appearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-delaware-ufo-reports-keep-appearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-delaware-ufo-reports-keep-appearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-delaware-ufo-reports-keep-appearing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -548,15 +464,15 @@ The most honest conclusion is neither “nothing is happening” nor “Delaware
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-delaware-ufo-reports-keep-appearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-delaware-ufo-reports-keep-appearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-delaware-ufo-reports-keep-appearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-delaware-ufo-reports-keep-appearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-delaware-ufo-reports-keep-appearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-delaware-ufo-reports-keep-appearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-delaware-ufo-reports-keep-appearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-delaware-ufo-reports-keep-appearing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -564,15 +480,15 @@ The most honest conclusion is neither “nothing is happening” nor “Delaware
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-delaware-ufo-reports-keep-appearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-delaware-ufo-reports-keep-appearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-delaware-ufo-reports-keep-appearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-delaware-ufo-reports-keep-appearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-delaware-ufo-reports-keep-appearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-delaware-ufo-reports-keep-appearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-delaware-ufo-reports-keep-appearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-delaware-ufo-reports-keep-appearing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -580,15 +496,15 @@ The most honest conclusion is neither “nothing is happening” nor “Delaware
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-delaware-ufo-reports-keep-appearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-delaware-ufo-reports-keep-appearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-delaware-ufo-reports-keep-appearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-delaware-ufo-reports-keep-appearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-delaware-ufo-reports-keep-appearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-delaware-ufo-reports-keep-appearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-delaware-ufo-reports-keep-appearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-delaware-ufo-reports-keep-appearing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -596,7 +512,7 @@ The most honest conclusion is neither “nothing is happening” nor “Delaware
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-hotspots-where-delaware-ufo-reports-keep-appearing-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-delaware-ufo-reports-keep-appearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-delaware-ufo-reports-keep-appearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -673,17 +589,31 @@ The most honest conclusion is neither “nothing is happening” nor “Delaware
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -696,42 +626,73 @@ The most honest conclusion is neither “nothing is happening” nor “Delaware
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -746,12 +707,17 @@ The most honest conclusion is neither “nothing is happening” nor “Delaware
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -762,173 +728,173 @@ The most honest conclusion is neither “nothing is happening” nor “Delaware
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports for State DE  
-   Link: [https://nuforc.org/subndx/?id=lDE](https://nuforc.org/subndx/?id=lDE)  
+   Link: <a href="https://nuforc.org/subndx/?id=lDE" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lDE</a>  
 
 2. <a id="endnote-2"></a>
    Source: stacker.com  
    Title: Cities With the Most UFO Sightings in Delaware | Stacker  
-   Link: [https://stacker.com/stories/delaware/cities-most-ufo-sightings-delaware](https://stacker.com/stories/delaware/cities-most-ufo-sightings-delaware)  
+   Link: <a href="https://stacker.com/stories/delaware/cities-most-ufo-sightings-delaware" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/delaware/cities-most-ufo-sightings-delaware</a>  
 
 3. <a id="endnote-3"></a>
    Source: drba.net  
    Title: DRB A Airports in Delaware and New Jersey | Delaware River and Bay Authority  
-   Link: [https://www.drba.net/travel/drba-airports](https://www.drba.net/travel/drba-airports)  
+   Link: <a href="https://www.drba.net/travel/drba-airports" target="_blank" rel="noopener noreferrer nofollow">https://www.drba.net/travel/drba-airports</a>  
 
 4. <a id="endnote-4"></a>
    Source: dover.af.mil  
    Title: About Dover  
-   Link: [https://www.dover.af.mil/About-Dover/](https://www.dover.af.mil/About-Dover/)  
+   Link: <a href="https://www.dover.af.mil/About-Dover/" target="_blank" rel="noopener noreferrer nofollow">https://www.dover.af.mil/About-Dover/</a>  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=164027](https://nuforc.org/sighting/?id=164027)  
+   Link: <a href="https://nuforc.org/sighting/?id=164027" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=164027</a>  
 
 6. <a id="endnote-6"></a>
    Source: dsp.delaware.gov  
    Title: State Police Delaware State Police Urges Public to Responsibly Report  
-   Link: [https://dsp.delaware.gov/2024/12/20/delaware-state-police-urges-public-to-responsibly-report-suspicious-drone-activity/](https://dsp.delaware.gov/2024/12/20/delaware-state-police-urges-public-to-responsibly-report-suspicious-drone-activity/)  
+   Link: <a href="https://dsp.delaware.gov/2024/12/20/delaware-state-police-urges-public-to-responsibly-report-suspicious-drone-activity/" target="_blank" rel="noopener noreferrer nofollow">https://dsp.delaware.gov/2024/12/20/delaware-state-police-urges-public-to-responsibly-report-suspicious-drone-activity/</a>  
 
 7. <a id="endnote-7"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/](https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/)  
+   Link: <a href="https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/no-evidence-new-jersey-drone-sightings-pose-security-threat-white-house-says-2024-12-12/</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=166285](https://nuforc.org/sighting/?id=166285)  
+   Link: <a href="https://nuforc.org/sighting/?id=166285" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=166285</a>  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=192768](https://nuforc.org/sighting/?id=192768)  
+   Link: <a href="https://nuforc.org/sighting/?id=192768" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=192768</a>  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=sChevron](https://nuforc.org/subndx/?id=sChevron)  
+   Link: <a href="https://nuforc.org/subndx/?id=sChevron" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=sChevron</a>  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=197245](https://nuforc.org/sighting/?id=197245)  
+   Link: <a href="https://nuforc.org/sighting/?id=197245" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197245</a>  
 
 16. <a id="endnote-16"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: technical.ly  
    Title: its world ufo day here are the top 10 ufo sightings in delaware  
-   Link: [https://technical.ly/professional-development/its-world-ufo-day-here-are-the-top-10-ufo-sightings-in-delaware/](https://technical.ly/professional-development/its-world-ufo-day-here-are-the-top-10-ufo-sightings-in-delaware/)  
+   Link: <a href="https://technical.ly/professional-development/its-world-ufo-day-here-are-the-top-10-ufo-sightings-in-delaware/" target="_blank" rel="noopener noreferrer nofollow">https://technical.ly/professional-development/its-world-ufo-day-here-are-the-top-10-ufo-sightings-in-delaware/</a>  
 
 18. <a id="endnote-18"></a>
    Source: doverkentmpo.delaware.gov  
    Title: DAFB Compatible Use Study  
-   Link: [https://doverkentmpo.delaware.gov/files/2025/11/DAFB-Compatible-Use-Study.pdf](https://doverkentmpo.delaware.gov/files/2025/11/DAFB-Compatible-Use-Study.pdf)  
+   Link: <a href="https://doverkentmpo.delaware.gov/files/2025/11/DAFB-Compatible-Use-Study.pdf" target="_blank" rel="noopener noreferrer nofollow">https://doverkentmpo.delaware.gov/files/2025/11/DAFB-Compatible-Use-Study.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: dover.af.mil  
-   Link: [https://www.dover.af.mil/](https://www.dover.af.mil/)  
+   Link: <a href="https://www.dover.af.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.dover.af.mil/</a>  
 
 21. <a id="endnote-21"></a>
    Source: faa.gov  
    Title: recreational flyers  
-   Link: [https://www.faa.gov/uas/recreational_flyers](https://www.faa.gov/uas/recreational_flyers)  
+   Link: <a href="https://www.faa.gov/uas/recreational_flyers" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/recreational_flyers</a>  
 
 22. <a id="endnote-22"></a>
    Source: faa.gov  
    Title: small unmanned aircraft systems uas regulations part 107  
-   Link: [https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107](https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107)  
+   Link: <a href="https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107</a>  
 
 23. <a id="endnote-23"></a>
    Source: time.com  
    Title: balloons ufos what is in the sky  
-   Link: [https://time.com/6255436/balloons-ufos-what-is-in-the-sky/](https://time.com/6255436/balloons-ufos-what-is-in-the-sky/)  
+   Link: <a href="https://time.com/6255436/balloons-ufos-what-is-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6255436/balloons-ufos-what-is-in-the-sky/</a>  
 
 24. <a id="endnote-24"></a>
    Source: military.com  
-   Link: [https://www.military.com/base-guide/dover-air-force-base](https://www.military.com/base-guide/dover-air-force-base)  
+   Link: <a href="https://www.military.com/base-guide/dover-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/base-guide/dover-air-force-base</a>  
 
 25. <a id="endnote-25"></a>
    Source: starwalk.space  
    Title: Star Walk Starlink Tracker: Find Starlink Satellites Tonight  
-   Link: [https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide](https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide)  
+   Link: <a href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow">https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide</a>  
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Dover Air Force Base  
-   Link: [https://en.wikipedia.org/wiki/Dover_Air_Force_Base](https://en.wikipedia.org/wiki/Dover_Air_Force_Base)  
+   Link: <a href="https://en.wikipedia.org/wiki/Dover_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dover_Air_Force_Base</a>  
 
 27. <a id="endnote-27"></a>
    Source: excelexercises.com  
-   Link: [https://excelexercises.com/UFOData.xlsx](https://excelexercises.com/UFOData.xlsx)  
+   Link: <a href="https://excelexercises.com/UFOData.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://excelexercises.com/UFOData.xlsx</a>  
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: ctinsider.com  
-   Link: [https://www.ctinsider.com/news/article/fireball-meteor-sighting-connecticut-22195205.php](https://www.ctinsider.com/news/article/fireball-meteor-sighting-connecticut-22195205.php)  
+   Link: <a href="https://www.ctinsider.com/news/article/fireball-meteor-sighting-connecticut-22195205.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/news/article/fireball-meteor-sighting-connecticut-22195205.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This event took place during what NASA identifies as &quot;peak fireball season,&quot; which spans February through April. Fireballs are a type of...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=y1QGBRfcGNY](http://www.youtube.com/watch?v=y1QGBRfcGNY)  
+   Link: <a href="http://www.youtube.com/watch?v=y1QGBRfcGNY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=y1QGBRfcGNY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drones And UFOs. Why Some (But Not All) UFO Sightings Can Be Explained By Unmanned Aviation...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=rVJGn6hg4MQ](http://www.youtube.com/watch?v=rVJGn6hg4MQ)  
+   Link: <a href="http://www.youtube.com/watch?v=rVJGn6hg4MQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rVJGn6hg4MQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What do drones look like? Are lights in the night UFOs, planes? Here&#x27;s what to know...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=pqkxYbVEvAU](http://www.youtube.com/watch?v=pqkxYbVEvAU)  
+   Link: <a href="http://www.youtube.com/watch?v=pqkxYbVEvAU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=pqkxYbVEvAU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>C-5M Super Galaxy Cockpit Video: Gigantic Transport Aircraft Performs ‘Touch-And-Goes’...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=3L9Yd_xwGvg](http://www.youtube.com/watch?v=3L9Yd_xwGvg)  
+   Link: <a href="http://www.youtube.com/watch?v=3L9Yd_xwGvg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=3L9Yd_xwGvg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Delaware&quot; UFO sightings UFO spotted IN delaware ABANDONED 6.7...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: Aliens in Delaware: UFO Hotspot Unveiled  
-   Link: [http://www.youtube.com/watch?v=ld6uEVyfEQ8](http://www.youtube.com/watch?v=ld6uEVyfEQ8)  
+   Link: <a href="http://www.youtube.com/watch?v=ld6uEVyfEQ8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ld6uEVyfEQ8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Delaware UFO Or 1960’s Futuro House At Eagle Crest Aerodrome In Milton, DE | Roadside Attraction...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DepartmentofWar/posts/didyouknow-that-the-united-states-air-force-c-17-globemaster-iii-has-a-wingspan-/10159407748650719/](https://www.facebook.com/DepartmentofWar/posts/didyouknow-that-the-united-states-air-force-c-17-globemaster-iii-has-a-wingspan-/10159407748650719/)  
+   Link: <a href="https://www.facebook.com/DepartmentofWar/posts/didyouknow-that-the-united-states-air-force-c-17-globemaster-iii-has-a-wingspan-/10159407748650719/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DepartmentofWar/posts/didyouknow-that-the-united-states-air-force-c-17-globemaster-iii-has-a-wingspan-/10159407748650719/</a>  
 
 36. <a id="endnote-36"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/unit/436AW](https://www.dvidshub.net/unit/436AW)  
+   Link: <a href="https://www.dvidshub.net/unit/436AW" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/unit/436AW</a>  
 
 37. <a id="endnote-37"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DWZYdsHgfu8/?hl=en](https://www.instagram.com/reel/DWZYdsHgfu8/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DWZYdsHgfu8/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWZYdsHgfu8/?hl=en</a>

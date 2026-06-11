@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-jersey-18255a-index/
 description: Focused pages that expand on What Really Happened in New Jersey's UFO....
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: New_Jersey_18255a
 parent_title: What Really Happened in New Jersey's UFO...

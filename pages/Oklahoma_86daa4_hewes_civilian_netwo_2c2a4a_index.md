@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /oklahoma-86daa4-hewes-civilian-netwo/
 description: Focused pages that expand on Local Network.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a
-parent_title: Local Network | Why Oklahoma Became a UFO State
+parent_title: Local Network
 parent_nav_short_title: Local Network
 parent_permalink: /local-network/
 ---

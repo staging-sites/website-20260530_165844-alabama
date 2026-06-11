@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /tremonton-film/
 nav_short_title: Witness vs Film
 title: What did Newhouse see before filming?
-title_full: What did Newhouse see before filming? | Tremonton Film
+title_full: What did Newhouse see before filming?
 display_title_short: Witness vs Film
 display_title: Witness vs Film
 heading_title: What did Newhouse see before filming?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:19:18'
-parent_title: Did Tremonton's Famous UFO Film Show Birds? | Utah UFOs
+parent_title: Did Tremonton's Famous UFO Film Show Birds?
 parent_permalink: /tremonton-film/
 parent_nav_short_title: Tremonton Film
 parent_heading_title: Did Tremonton's Famous UFO Film Show Birds?
@@ -250,26 +250,24 @@ image: /assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_newhouse_witness_vs_
 
 ## Introduction
 
-The most enduring argument about the 1952 [Tremonton UFO film]({{ 'tremonton-film/' | relative_url }}) is not really about the film itself. It is about the gap between what Navy photographer Delbert C. Newhouse said he saw with his eyes and what his camera actually recorded.
+The most enduring argument about the 1952 Tremonton UFO film is not really about the film itself. It is about the gap between what Navy photographer Delbert C. Newhouse said he saw with his eyes and what his camera actually recorded.
 
-
-<img src="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_newhouse_witness_vs_fae460-Illustration-1-light.svg" | relative_url }}" alt="Witness vs Film illustration 1" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_newhouse_witness_vs_fae460-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_newhouse_witness_vs_fae460-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Before he began filming, Newhouse described bright, metallic, disc-like objects moving in formation over northern Utah. The surviving Kodachrome footage, however, shows only small white points crossing a blue sky. That mismatch sits at the centre of the case. Supporters have long argued that the witness testimony explains what the camera could not capture. Sceptics have argued the opposite: when investigators look at the film alone, it resembles distant birds or other ordinary reflective objects far more than structured craft. The tension between those two forms of evidence is one reason the Tremonton incident remains one of Utah's most debated UFO cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/tremonton.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Ufologiethe Tremonton, Utah, UFO Color Film of July 2, 195230 Nov 2003 — Newhouse and his wife were driving along a road seven miles from...</span></span></span>
+<img src="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_newhouse_witness_vs_fae460-Illustration-1-dark.svg" | relative_url }}" alt="Witness vs Film illustration 1" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_newhouse_witness_vs_fae460-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_newhouse_witness_vs_fae460-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Before he began filming, Newhouse described bright, metallic, disc-like objects moving in formation over northern Utah. The surviving Kodachrome footage, however, shows only small white points crossing a blue sky. That mismatch sits at the centre of the case. Supporters have long argued that the witness testimony explains what the camera could not capture. Sceptics have argued the opposite: when investigators look at the film alone, it resembles distant birds or other ordinary reflective objects far more than structured craft. The tension between those two forms of evidence is one reason the Tremonton incident remains one of Utah's most debated UFO cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/tremonton.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">the Tremonton, Utah, UFO Color Film of July 2, 195230 Nov 2003 — Newhouse and his wife were driving along a road seven miles from...</span></span></span>
 
 ## What did Newhouse see before filming?
 
-Delbert C. Newhouse was not presented as an ordinary observer. He was a U.S. Navy chief warrant officer and trained photographer, which gave his account added weight in early UFO discussions. According to repeated versions of his report, he and his wife were travelling near Tremonton when they noticed a group of bright objects moving in the sky. Newhouse described them as metallic and disc-shaped, and later accounts stated that at least some appeared close enough for him to form an impression of their structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/tremonton.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Ufologiethe Tremonton, Utah, UFO Color Film of July 2, 195230 Nov 2003 — Newhouse and his wife were driving along a road seven miles from...</span></span></span>
+Delbert C. Newhouse was not presented as an ordinary observer. He was a U.S. Navy chief warrant officer and trained photographer, which gave his account added weight in early UFO discussions. According to repeated versions of his report, he and his wife were travelling near Tremonton when they noticed a group of bright objects moving in the sky. Newhouse described them as metallic and disc-shaped, and later accounts stated that at least some appeared close enough for him to form an impression of their structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/tremonton.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">the Tremonton, Utah, UFO Color Film of July 2, 195230 Nov 2003 — Newhouse and his wife were driving along a road seven miles from...</span></span></span>
 
-The crucial detail is timing. Newhouse's most detailed descriptions refer to the period before he had the camera operating. By the time he retrieved the Bell & Howell movie camera and started filming, the objects were farther away. Later retellings of the case often stressed that Newhouse claimed to have seen more detail with the naked eye than appears in the surviving footage. Some versions even reported that he described shapes resembling two saucers joined rim-to-rim, though such descriptions come primarily from later UFO literature rather than from what can be verified directly on the film. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/p1fq9j/july_2_1952_tremonton_utah_1110_am_navy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">july 2 1952 tremonton utah 1110 am navy</span><span class="citation-popover-snippet">RedditJuly 2, 1952; Tremonton, Utah 11:10 a.m. Navy...August 10, 2021 — When the film was returned to Newhouse following Navy and Air Fo...</span><span class="citation-popover-meta">Published: July 2, 1952</span></span></span>
+The crucial detail is timing. Newhouse's most detailed descriptions refer to the period before he had the camera operating. By the time he retrieved the Bell & Howell movie camera and started filming, the objects were farther away. Later retellings of the case often stressed that Newhouse claimed to have seen more detail with the naked eye than appears in the surviving footage. Some versions even reported that he described shapes resembling two saucers joined rim-to-rim, though such descriptions come primarily from later UFO literature rather than from what can be verified directly on the film. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/p1fq9j/july_2_1952_tremonton_utah_1110_am_navy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">july 2 1952 tremonton utah 1110 am navy</span><span class="citation-popover-snippet">July 2, 1952; Tremonton, Utah 11:10 a.m. Navy...August 10, 2021 — When the film was returned to Newhouse following Navy and Air Fo...</span><span class="citation-popover-meta">Published: July 2, 1952</span></span></span>
 
 This distinction matters because the strongest witness claims and the strongest photographic evidence are not actually the same evidence. The detailed description comes from human observation. The visual record comes from a camera that captured the objects only after conditions had changed.
 
 ### Why Newhouse's background mattered
 
-Newhouse's credibility became part of the case almost immediately. Investigators and UFO researchers repeatedly highlighted that he worked professionally with cameras and visual recording. The argument was not that expertise made him infallible, but that it reduced the chance of a casual misidentification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/tremonton.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Ufologiethe Tremonton, Utah, UFO Color Film of July 2, 195230 Nov 2003 — Newhouse and his wife were driving along a road seven miles from...</span></span></span>
+Newhouse's credibility became part of the case almost immediately. Investigators and UFO researchers repeatedly highlighted that he worked professionally with cameras and visual recording. The argument was not that expertise made him infallible, but that it reduced the chance of a casual misidentification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/tremonton.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">the Tremonton, Utah, UFO Color Film of July 2, 195230 Nov 2003 — Newhouse and his wife were driving along a road seven miles from...</span></span></span>
 
 At the same time, trained observers are still capable of misjudging distance, size and speed when viewing unknown aerial objects against an empty sky. The Tremonton case demonstrates a recurring problem in UFO investigations: a witness may be highly reliable in reporting what was seen, while still being unable to determine exactly what was being observed.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vbLvzgJMsIQ" title="Delbert Newhouse UFO Footage - 1952 - Tremonton Utah." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vbLvzgJMsIQ" target="_blank" rel="noopener noreferrer">Delbert Newhouse UFO Footage - 1952 - Tremonton Utah.</a></p><p class="youtube-embed-meta">Channel: parkerdonaldmusic &middot; Views: 20.7K &middot; Uploaded: September 2012 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vbLvzgJMsIQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vbLvzgJMsIQ">Open on YouTube</a></p></div></div></div>
 
@@ -283,14 +281,12 @@ That limitation became central to later sceptical analysis. If the objects were 
 
 The result is a curious reversal of expectations. Many UFO films are remembered because viewers believe the camera captured something extraordinary. Tremonton is remembered because the witness description is more detailed than the image record.
 
-
-<img src="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_newhouse_witness_vs_fae460-Illustration-2-light.svg" | relative_url }}" alt="Witness vs Film illustration 2" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_newhouse_witness_vs_fae460-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_newhouse_witness_vs_fae460-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_newhouse_witness_vs_fae460-Illustration-2-dark.svg" | relative_url }}" alt="Witness vs Film illustration 2" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_newhouse_witness_vs_fae460-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_newhouse_witness_vs_fae460-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why testimony and film pull in different directions
 
 The case survived for decades largely because neither side could fully eliminate the other's strongest point.
 
 Supporters of the sighting emphasised several factors:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -310,19 +306,17 @@ Sceptics focused on a different set of facts:
 
 What makes the disagreement unusually persistent is that each side relies on different evidence. Believers often start with the witness account and use the film as supporting material. Sceptics often start with the film and treat the witness description as less reliable than the photographic record.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pex7x4Z9htw" title="The Most Puzzling UFO Case of the 20th Century | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer">The Most Puzzling UFO Case of the 20th Century | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied &middot; Views: 550.4K &middot; Uploaded: July 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pex7x4Z9htw">Open on YouTube</a></p></div></div></div>
 
 ### The bird explanation and the witness problem
 
 The Robertson Panel, the CIA-sponsored scientific review group that examined important UFO cases in early 1953, became one of the most influential voices in the debate. After reviewing the Tremonton material and seeing comparison footage of seagulls reflecting sunlight, panel members concluded that birds were a strong explanation for the filmed objects. They specifically argued that reflective surfaces could remain bright without producing the dramatic blinking that Navy analysts had expected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robertson Panel</span><span class="citation-popover-snippet">Robertson Panel</span></span></span>
 
-Yet the bird explanation immediately encounters the witness issue. If the filmed objects were gulls, then Newhouse's earlier description of metallic disc-like forms must have been mistaken. Supporters of the case have argued that this requires dismissing the observations of both Delbert and Mary Newhouse. Sceptics reply that eyewitnesses frequently add certainty, structure and distance estimates that later prove unreliable, especially when viewing unfamiliar aerial objects under unusual conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/tremonton.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Ufologiethe Tremonton, Utah, UFO Color Film of July 2, 195230 Nov 2003 — Newhouse and his wife were driving along a road seven miles from...</span></span></span>
+Yet the bird explanation immediately encounters the witness issue. If the filmed objects were gulls, then Newhouse's earlier description of metallic disc-like forms must have been mistaken. Supporters of the case have argued that this requires dismissing the observations of both Delbert and Mary Newhouse. Sceptics reply that eyewitnesses frequently add certainty, structure and distance estimates that later prove unreliable, especially when viewing unfamiliar aerial objects under unusual conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/tremonton.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">the Tremonton, Utah, UFO Color Film of July 2, 195230 Nov 2003 — Newhouse and his wife were driving along a road seven miles from...</span></span></span>
 
 In other words, the bird explanation works best when the film is treated as primary evidence. The extraordinary-object explanation works best when Newhouse's visual account is given equal or greater weight.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_xyesq1k3Ns" title="Project Blue Book - 1969| Movietone Moment | 17 December 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_xyesq1k3Ns" target="_blank" rel="noopener noreferrer">Project Blue Book - 1969| Movietone Moment | 17 December 2021</a></p><p class="youtube-embed-meta">Channel: British Movietone &middot; Views: 20.1K &middot; Uploaded: December 2021 &middot; Length: 1 minute 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_xyesq1k3Ns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_xyesq1k3Ns">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=_xyesq1k3Ns" target="_blank" rel="noopener noreferrer">Project Blue Book - 1969 | Movietone Moment | 17 December 2021</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_xyesq1k3Ns" target="_blank" rel="noopener noreferrer">Project Blue Book - 1969 | Movietone Moment | 17 December 2021</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_xyesq1k3Ns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_xyesq1k3Ns">Open on YouTube</a></p></div></div></div>
 
 ## The central lesson of the Tremonton case
 
@@ -330,10 +324,9 @@ The Tremonton film remains important in Utah UFO history because it highlights a
 
 Newhouse's account gave the incident its dramatic character. Without his description, the surviving footage would probably be remembered as an ambiguous film of bright objects against an empty sky. Yet without the film, the sighting would likely have become just another eyewitness report from the great UFO wave of 1952.
 
-Instead, the two forms of evidence sit uneasily together. The witness claimed detailed, metallic, disc-like objects. The camera recorded distant bright points. Neither completely cancels the other, but neither fully confirms the other either. That unresolved gap is the reason the Tremonton case still appears in discussions of Utah's most significant UFO incidents more than seventy years later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/tremonton.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Ufologiethe Tremonton, Utah, UFO Color Film of July 2, 195230 Nov 2003 — Newhouse and his wife were driving along a road seven miles from...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kevinrandle.blogspot.com/2013/12/delbert-newhouse-and-utah-movie.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">delbert newhouse and utah movie</span><span class="citation-popover-snippet">Filming them as they headed away from his location. He did a filmed interview at the time and also was in a...Read more...</span></span></span>
+Instead, the two forms of evidence sit uneasily together. The witness claimed detailed, metallic, disc-like objects. The camera recorded distant bright points. Neither completely cancels the other, but neither fully confirms the other either. That unresolved gap is the reason the Tremonton case still appears in discussions of Utah's most significant UFO incidents more than seventy years later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/tremonton.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">the Tremonton, Utah, UFO Color Film of July 2, 195230 Nov 2003 — Newhouse and his wife were driving along a road seven miles from...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kevinrandle.blogspot.com/2013/12/delbert-newhouse-and-utah-movie.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">delbert newhouse and utah movie</span><span class="citation-popover-snippet">Filming them as they headed away from his location. He did a filmed interview at the time and also was in a...Read more...</span></span></span>
 
-
-<img src="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_newhouse_witness_vs_fae460-Illustration-3-light.svg" | relative_url }}" alt="Witness vs Film illustration 3" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_newhouse_witness_vs_fae460-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_newhouse_witness_vs_fae460-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_newhouse_witness_vs_fae460-Illustration-3-dark.svg" | relative_url }}" alt="Witness vs Film illustration 3" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_newhouse_witness_vs_fae460-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_tremonton_ufo_film_ea1640_newhouse_witness_vs_fae460-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -421,7 +414,7 @@ Instead, the two forms of evidence sit uneasily together. The witness claimed de
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -431,111 +424,36 @@ Instead, the two forms of evidence sit uneasily together. The witness claimed de
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-newhouse-see-before-filming-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="what-did-newhouse-see-before-filming-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster"><img src="https://i.ebayimg.com/images/g/tRQAAeSw9s1pqDjD/s-l225.jpg" alt="Listing image for Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-newhouse-see-before-filming-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="what-did-newhouse-see-before-filming-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 A2 A3 Disclosure Day 2026 Spielberg UFO Aliens Movie Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-newhouse-see-before-filming-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="what-did-newhouse-see-before-filming-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-newhouse-see-before-filming-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="what-did-newhouse-see-before-filming-ufo-movie-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -543,15 +461,15 @@ Instead, the two forms of evidence sit uneasily together. The witness claimed de
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-newhouse-see-before-filming-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="what-did-newhouse-see-before-filming-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Invasion Movie Photo / Poster Up To 36&quot;"><img src="https://i.ebayimg.com/images/g/pPIAAOSwGM9m0LIq/s-l225.jpg" alt="Listing image for Ufo Invasion Movie Photo / Poster Up To 36&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-newhouse-see-before-filming-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="what-did-newhouse-see-before-filming-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer">Ufo Invasion Movie Photo / Poster Up To 36&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-newhouse-see-before-filming-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="what-did-newhouse-see-before-filming-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-newhouse-see-before-filming-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="what-did-newhouse-see-before-filming-ufo-movie-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -559,15 +477,15 @@ Instead, the two forms of evidence sit uneasily together. The witness claimed de
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-newhouse-see-before-filming-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="what-did-newhouse-see-before-filming-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”"><img src="https://i.ebayimg.com/images/g/KaEAAOSwEjZnJ6AL/s-l225.jpg" alt="Listing image for ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-newhouse-see-before-filming-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="what-did-newhouse-see-before-filming-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer">ORIGINAL UFO MOVIE POSTER 1956 THE TRUTH ABOUT FLYING SAUCERS 27x41”</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-newhouse-see-before-filming-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="what-did-newhouse-see-before-filming-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-newhouse-see-before-filming-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="what-did-newhouse-see-before-filming-ufo-movie-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -575,15 +493,15 @@ Instead, the two forms of evidence sit uneasily together. The witness claimed de
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-newhouse-see-before-filming-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="what-did-newhouse-see-before-filming-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Movie Movie Photo / Poster Up To 36&quot;"><img src="https://i.ebayimg.com/images/g/TKkAAOSwagtm0Zvw/s-l225.jpg" alt="Listing image for UFO Movie Movie Photo / Poster Up To 36&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-newhouse-see-before-filming-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="what-did-newhouse-see-before-filming-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Movie Movie Photo / Poster Up To 36&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-newhouse-see-before-filming-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="what-did-newhouse-see-before-filming-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO movie poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO movie poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-newhouse-see-before-filming-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="what-did-newhouse-see-before-filming-ufo-movie-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -591,7 +509,7 @@ Instead, the two forms of evidence sit uneasily together. The witness claimed de
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-film-what-did-newhouse-see-before-filming-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+movie+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-newhouse-see-before-filming-ufo-movie-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO movie poster" data-ebay-reference="what-did-newhouse-see-before-filming-ufo-movie-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -668,17 +586,31 @@ Instead, the two forms of evidence sit uneasily together. The witness claimed de
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -691,42 +623,73 @@ Instead, the two forms of evidence sit uneasily together. The witness claimed de
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -741,12 +704,17 @@ Instead, the two forms of evidence sit uneasily together. The witness claimed de
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -757,102 +725,102 @@ Instead, the two forms of evidence sit uneasily together. The witness claimed de
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Robertson Panel  
-   Link: [https://en.wikipedia.org/wiki/Robertson_Panel](https://en.wikipedia.org/wiki/Robertson_Panel)  
+   Link: <a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
    Title: july 2 1952 tremonton utah 1110 am navy  
-   Link: [https://www.reddit.com/r/UFOs/comments/p1fq9j/july_2_1952_tremonton_utah_1110_am_navy/](https://www.reddit.com/r/UFOs/comments/p1fq9j/july_2_1952_tremonton_utah_1110_am_navy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditJuly 2, 1952; Tremonton, Utah 11:10 a.m. Navy...August 10, 2021 — When the film was returned to Newhouse following Navy and Air Fo...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/p1fq9j/july_2_1952_tremonton_utah_1110_am_navy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/p1fq9j/july_2_1952_tremonton_utah_1110_am_navy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 2, 1952; Tremonton, Utah 11:10 a.m. Navy...August 10, 2021 — When the film was returned to Newhouse following Navy and Air Fo...</p></details>
    Published: July 2, 1952  
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: recorded united states military interviews  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ffvedu/recorded_united_states_military_interviews/](https://www.reddit.com/r/UFOs/comments/1ffvedu/recorded_united_states_military_interviews/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ffvedu/recorded_united_states_military_interviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ffvedu/recorded_united_states_military_interviews/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Delbert Newhouse UFO Footage from 1952, Tremonton, UtahThis video includes the segments of the film relating to Delbert C. Newhouse&#x27;s UFO...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/tremonton.htm](https://ufologie.patrickgross.org/htm/tremonton.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufologiethe Tremonton, Utah, UFO Color Film of July 2, 195230 Nov 2003 — Newhouse and his wife were driving along a road seven miles from...</p></details>
+   Link: <a href="https://ufologie.patrickgross.org/htm/tremonton.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/tremonton.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Tremonton, Utah, UFO Color Film of July 2, 195230 Nov 2003 — Newhouse and his wife were driving along a road seven miles from...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: kevinrandle.blogspot.com  
    Title: delbert newhouse and utah movie  
-   Link: [https://kevinrandle.blogspot.com/2013/12/delbert-newhouse-and-utah-movie.html](https://kevinrandle.blogspot.com/2013/12/delbert-newhouse-and-utah-movie.html)  
+   Link: <a href="https://kevinrandle.blogspot.com/2013/12/delbert-newhouse-and-utah-movie.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2013/12/delbert-newhouse-and-utah-movie.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Filming them as they headed away from his location. He did a filmed interview at the time and also was in a...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://www.ufologie.patrickgross.org/htm/tremontoncondon.htm](https://www.ufologie.patrickgross.org/htm/tremontoncondon.htm)  
+   Link: <a href="https://www.ufologie.patrickgross.org/htm/tremontoncondon.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/tremontoncondon.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ufoNewhouse and his wife were driving along a road seven miles from Tremonton and spotted a formation of brilliant metallic looking disc...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: kevinrandle.blogspot.com  
    Title: newhouses tremonton utah movie revisited  
-   Link: [https://kevinrandle.blogspot.com/2013/12/newhouses-tremonton-utah-movie-revisited.html](https://kevinrandle.blogspot.com/2013/12/newhouses-tremonton-utah-movie-revisited.html)  
+   Link: <a href="https://kevinrandle.blogspot.com/2013/12/newhouses-tremonton-utah-movie-revisited.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2013/12/newhouses-tremonton-utah-movie-revisited.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle&#x27;s BlogNewhouse&#x27;s Tremonton, Utah Movie Revisited12 Dec 2013 — Hartmann then made his own analysis, finally concluding, “Thes...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/tremontonanalysis01.htm](https://ufologie.patrickgross.org/htm/tremontonanalysis01.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/tremontonanalysis01.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/tremontonanalysis01.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Newhouse and his wife were driving along a road seven miles from Tremonton and spotted a...Read more...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/ebooks/17346.epub.images](https://www.gutenberg.org/ebooks/17346.epub.images)  
+   Link: <a href="https://www.gutenberg.org/ebooks/17346.epub.images" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/17346.epub.images</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsAirline pilots, military pilots, generals, scientists, and dozens of other people were reporting...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/the-robertson-panel-the-history-and-legacy-of-the-secret-government-committee-that-investigated-ufo-sightings-in-america-9780691641669.html](https://dokumen.pub/download/the-robertson-panel-the-history-and-legacy-of-the-secret-government-committee-that-investigated-ufo-sightings-in-america-9780691641669.html)  
+   Link: <a href="https://dokumen.pub/download/the-robertson-panel-the-history-and-legacy-of-the-secret-government-committee-that-investigated-ufo-sightings-in-america-9780691641669.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/the-robertson-panel-the-history-and-legacy-of-the-secret-government-committee-that-investigated-ufo-sightings-in-america-9780691641669.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Robertson Panel&#x27;s LegacyMore interesting to some was the Newhouse film from Utah. A Naval Chief... In added testimony to the Tremont...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: files.bluebookfiles.org  
-   Link: [https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20NATIONAL%20INVESTIGATIONS%20COMMITTEE%20ON%20AERIAL%20PHENOMENA%20%28NICAP%29%20WASHINGTON%2C%20D.C.%2019%206%204%20%2C%20CIA-RDP81R00560R000100010001-0.pdf](https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20NATIONAL%20INVESTIGATIONS%20COMMITTEE%20ON%20AERIAL%20PHENOMENA%20%28NICAP%29%20WASHINGTON%2C%20D.C.%2019%206%204%20%2C%20CIA-RDP81R00560R000100010001-0.pdf)  
+   Link: <a href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20NATIONAL%20INVESTIGATIONS%20COMMITTEE%20ON%20AERIAL%20PHENOMENA%20%28NICAP%29%20WASHINGTON%2C%20D.C.%2019%206%204%20%2C%20CIA-RDP81R00560R000100010001-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20NATIONAL%20INVESTIGATIONS%20COMMITTEE%20ON%20AERIAL%20PHENOMENA%20%28NICAP%29%20WASHINGTON%2C%20D.C.%2019%206%204%20%2C%20CIA-RDP81R00560R000100010001-0.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NATIONAL INVESTIGATIONS COMMITTEE ON AERIAL...We are also indebted to Isabel Davis, New York City, whose extensive files on UFOs were op...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: the tremonton utah ufo color filmtremonton utah still frame1952 warrant officer  
-   Link: [https://www.facebook.com/61570593867169/posts/the-tremonton-utah-ufo-color-filmtremonton-utah-still-frame1952-warrant-officer-/122152663310686462/](https://www.facebook.com/61570593867169/posts/the-tremonton-utah-ufo-color-filmtremonton-utah-still-frame1952-warrant-officer-/122152663310686462/)  
+   Link: <a href="https://www.facebook.com/61570593867169/posts/the-tremonton-utah-ufo-color-filmtremonton-utah-still-frame1952-warrant-officer-/122152663310686462/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61570593867169/posts/the-tremonton-utah-ufo-color-filmtremonton-utah-still-frame1952-warrant-officer-/122152663310686462/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tremonton, Utah UFO Color Film...High above Tremonton, Utah, a formation of bright, metallic objects was captured on film in 1952 by...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: scribd.com  
    Title: This book reviews the investigation conducted into the flying  
-   Link: [https://www.scribd.com/document/435187388/The-UFO-Evidence](https://www.scribd.com/document/435187388/The-UFO-Evidence)  
+   Link: <a href="https://www.scribd.com/document/435187388/The-UFO-Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/435187388/The-UFO-Evidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Evidence | PDF | Unidentified Flying ObjectThe UFO Evidence - Free download as PDF File (.pdf), Text File (.txt) or read online f...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/782693438555521/posts/1612959432195580/](https://www.facebook.com/groups/782693438555521/posts/1612959432195580/)  
+   Link: <a href="https://www.facebook.com/groups/782693438555521/posts/1612959432195580/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/782693438555521/posts/1612959432195580/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hting” of 1952, where a couple and two children traveling cross-...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/](https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/)  
+   Link: <a href="https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>he images in the film consist of the actual recorded video...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ia803206.us.archive.org  
    Title: David Jacobs The UFO Controversy In America  
-   Link: [https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf](https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf)  
+   Link: <a href="https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Controversy In AmericaWorld War II: The &quot;foo-fighters&quot; spotted dur· ing air battles-were they static electricity, enemy secret weapon...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: stripes.com  
    Title: Stars and Stripes Is the sky falling?  
-   Link: [https://www.stripes.com/theaters/us/1983-01-23/is-the-sky-falling](https://www.stripes.com/theaters/us/1983-01-23/is-the-sky-falling)  
+   Link: <a href="https://www.stripes.com/theaters/us/1983-01-23/is-the-sky-falling" target="_blank" rel="noopener noreferrer nofollow">https://www.stripes.com/theaters/us/1983-01-23/is-the-sky-falling</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This man says maybe not23 Jan 1983 — When a dozen luminous, disc-shaped objects flashed across a clear blue sky on July 2, 1952, near Tre...</p></details>
    Published: July 2, 1952  
 
 18. <a id="endnote-18"></a>
    Source: sohp.us  
    Title: GROSS 1953 Jan Feb  
-   Link: [https://sohp.us/collections/ufos-a-history/pdf/GROSS-1953-Jan-Feb.pdf](https://sohp.us/collections/ufos-a-history/pdf/GROSS-1953-Jan-Feb.pdf)  
+   Link: <a href="https://sohp.us/collections/ufos-a-history/pdf/GROSS-1953-Jan-Feb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sohp.us/collections/ufos-a-history/pdf/GROSS-1953-Jan-Feb.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: A History, 1953: January–FebruaryThe 1952 Tremonton UFO film was so hot its submission to the Roberston panel... The Tremonton foo...</p></details>

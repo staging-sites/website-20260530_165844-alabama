@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /city-reports/
 nav_short_title: Baton Rouge Sightings
 title: Explained and Unexplained UFO Sightings in Baton Rouge
-title_full: Explained and Unexplained UFO Sightings in Baton Rouge | City Reports
+title_full: Explained and Unexplained UFO Sightings in Baton Rouge
 display_title_short: Baton Rouge Sightings
 display_title: Baton Rouge Sightings
 heading_title: Explained and Unexplained UFO Sightings in Baton Rouge
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:31:52'
-parent_title: What Do Louisiana's Everyday Reports Really Show? | Louisiana UFOs
+parent_title: What Do Louisiana's Everyday Reports Really Show?
 parent_permalink: /city-reports/
 parent_nav_short_title: City Reports
 parent_heading_title: What Do Louisiana's Everyday Reports Really Show?
@@ -250,39 +250,35 @@ image: /assets/images/Louisiana_b158e0_civilian_sightings_07a51c_baton_rouge_exp
 
 ## Introduction
 
-Baton Rouge, [Louisiana]({{ 'what-really-happened-in-louisianas-ufo/' | relative_url }})’s capital, has generated its share of civilian UFO reports over the years. These range from brief night‑sky observations of mysterious lights to string‑like formations of glowing points that prompt local discussion. Unlike the rare, high‑profile military or aviation reports elsewhere in the state, Baton Rouge sightings tend to reflect everyday witness encounters — many of which have ordinary explanations once atmospheric, aerospace and satellite phenomena are accounted for. This page looks at documented Baton Rouge reports, highlights examples with clear mundane causes, and explains why ordinary sky activity regularly produces “UFO” descriptions in civilian records.
+Baton Rouge, Louisiana’s capital, has generated its share of civilian UFO reports over the years. These range from brief night‑sky observations of mysterious lights to string‑like formations of glowing points that prompt local discussion. Unlike the rare, high‑profile military or aviation reports elsewhere in the state, Baton Rouge sightings tend to reflect everyday witness encounters — many of which have ordinary explanations once atmospheric, aerospace and satellite phenomena are accounted for. This page looks at documented Baton Rouge reports, highlights examples with clear mundane causes, and explains why ordinary sky activity regularly produces “UFO” descriptions in civilian records.
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c_baton_rouge_explaine_cbf0cf-Illustration-1-light.svg" | relative_url }}" alt="Baton Rouge Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c_baton_rouge_explaine_cbf0cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c_baton_rouge_explaine_cbf0cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c_baton_rouge_explaine_cbf0cf-Illustration-1-dark.svg" | relative_url }}" alt="Baton Rouge Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c_baton_rouge_explaine_cbf0cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c_baton_rouge_explaine_cbf0cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Suburban and Street‑Level Sightings: What People Reported
 
 Civilian UFO logs from Baton Rouge typically describe lights, shapes or formations noticed from neighbourhood streets, highways or while stargazing. These reports are usually short and lack corroborating data such as radar or multi‑observer tracking, which limits definitive conclusions about their causes. For example:
 
-* A recent NUFORC (National UFO Reporting Center) entry describes a triangle of three bright lights, with three smaller lights trailing behind it, seen from the ground on 25 October 2024. The witness thought it was not a plane because of its speed and shape, but no additional sensors confirmed anything unusual. Such sightlines are common in contexts where aircraft, satellites or drones pass within a viewer’s field of vision without clear reference points. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=183539" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 183539November 8, 2024...</span><span class="citation-popover-meta">Published: November 8, 2024</span></span></span>
-* Other Baton Rouge reports include a single white plume with many small white “things” around it, observed in March 2022 and tentatively noted as possibly birds or airborne debris rather than an exotic craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=191584" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 191584August 11, 2025...</span><span class="citation-popover-meta">Published: August 11, 2025</span></span></span>
-* Historical entries show people describing shapes such as orbs or rectangular objects — often lacking images or triangulation — leaving their true nature unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=120245" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 120245July 10, 2015...</span><span class="citation-popover-meta">Published: July 10, 2015</span></span></span>
+* A recent NUFORC (National UFO Reporting Center) entry describes a triangle of three bright lights, with three smaller lights trailing behind it, seen from the ground on 25 October 2024. The witness thought it was not a plane because of its speed and shape, but no additional sensors confirmed anything unusual. Such sightlines are common in contexts where aircraft, satellites or drones pass within a viewer’s field of vision without clear reference points. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=183539" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 183539November 8, 2024...</span><span class="citation-popover-meta">Published: November 8, 2024</span></span></span>
+* Other Baton Rouge reports include a single white plume with many small white “things” around it, observed in March 2022 and tentatively noted as possibly birds or airborne debris rather than an exotic craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=191584" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 191584August 11, 2025...</span><span class="citation-popover-meta">Published: August 11, 2025</span></span></span>
+* Historical entries show people describing shapes such as orbs or rectangular objects — often lacking images or triangulation — leaving their true nature unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=120245" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 120245July 10, 2015...</span><span class="citation-popover-meta">Published: July 10, 2015</span></span></span>
 
 These civilian accounts share qualities found across the wider state’s everyday UFO record: they are real witness experiences but not necessarily evidence of unknown technology. Patterns of movement, duration, and environmental context often align closely with identifiable airborne phenomena once more information is collected.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HXOfCmMOvzQ" title="Why the US government won&#x27;t explain what&#x27;s in our skies | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HXOfCmMOvzQ" target="_blank" rel="noopener noreferrer">Why the US government won&#x27;t explain what&#x27;s in our skies | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 221.6K &middot; Uploaded: April 2026 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HXOfCmMOvzQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HXOfCmMOvzQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qw7p5u3vz9k" title="Green fireball caught on Ring camera sparks UFO panic: ‘That’s an alien ship’" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qw7p5u3vz9k" target="_blank" rel="noopener noreferrer">Green fireball caught on Ring camera sparks UFO panic: ‘That’s an alien ship’</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 37.3K &middot; Uploaded: July 2023 &middot; Length: 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qw7p5u3vz9k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qw7p5u3vz9k">Open on YouTube</a></p></div></div></div>
 
 ## Satellite Trains and Ordinary Astronomical Explanations
 
 One of the clearest examples of explainable UFO reports in the Baton Rouge area involves strings of lights that drew attention across southeast Louisiana. In **September 2022**, residents observed a line of lights moving steadily across the sky in the early morning hours — a formation that prompted local news coverage and multiple community reports. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wafb.com/2022/09/07/string-satellites-spotted-br-sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wafb.com">[www.wafb.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wafb.com</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: September 7, 2022</span></span></span>
 
-Meteorological and space observers later identified these as **SpaceX Starlink satellites** — part of a large broadband satellite constellation. Because newly launched satellites initially orbit close together, they can appear from the ground as a train of evenly spaced points of light. These formations can perplex observers unfamiliar with satellite behaviour, leading to UFO reports before consulting publicly available orbital trackers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teslarati.com/et-like-lights-louisiana-starlink-satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teslarati.com">[TESLARATI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teslarati.com</span><span class="citation-popover-title">ET-like lights over Louisiana turned out to be Starlink satellites</span><span class="citation-popover-snippet">TESLARATIET-like lights over Louisiana turned out to be Starlink satellitesSeptember 7, 2022...</span><span class="citation-popover-meta">Published: September 7, 2022</span></span></span>
+Meteorological and space observers later identified these as **SpaceX Starlink satellites** — part of a large broadband satellite constellation. Because newly launched satellites initially orbit close together, they can appear from the ground as a train of evenly spaced points of light. These formations can perplex observers unfamiliar with satellite behaviour, leading to UFO reports before consulting publicly available orbital trackers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teslarati.com/et-like-lights-louisiana-starlink-satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teslarati.com">[TESLARATI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teslarati.com</span><span class="citation-popover-title">ET-like lights over Louisiana turned out to be Starlink satellites</span><span class="citation-popover-snippet">ET-like lights over Louisiana turned out to be Starlink satellitesSeptember 7, 2022...</span><span class="citation-popover-meta">Published: September 7, 2022</span></span></span>
 
 Similar Starlink visibility events were reported over Baton Rouge and surrounding towns in subsequent years, including **August 2023**, when a group of satellites was seen from Denham Springs and Prairieville. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wbrz.com/news/the-starlink-satellites-spotted-over-baton-rouge/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wbrz.com">[WBRZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wbrz.com</span><span class="citation-popover-title">The Starlink satellites spotted over Baton Rouge</span><span class="citation-popover-snippet">September 7, 2022 — THE STARLINK SATELLITES SPOTTED OVER BATON ROUGE 3 years 1 month 3 days ago Wednesday, September 07 2022 Sep 7, 2022...</span><span class="citation-popover-meta">Published: September 7, 2022</span></span></span>
 
 Satellite trains — particularly from large constellations like Starlink — are among the most frequently misidentified aerial objects in civilian sighting reports nationwide. Their predictable motion, brightness and grouping pattern match many “strange lights” descriptions reported in and around Baton Rouge’s neighbourhoods.
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c_baton_rouge_explaine_cbf0cf-Illustration-2-light.svg" | relative_url }}" alt="Baton Rouge Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c_baton_rouge_explaine_cbf0cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c_baton_rouge_explaine_cbf0cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c_baton_rouge_explaine_cbf0cf-Illustration-2-dark.svg" | relative_url }}" alt="Baton Rouge Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c_baton_rouge_explaine_cbf0cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c_baton_rouge_explaine_cbf0cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Patterns in Baton Rouge Reporting: Lessons and Limits
 
 Citizen sighting reports around Baton Rouge reveal patterns familiar from other urban and suburban UFO datasets:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -294,20 +290,17 @@ Citizen sighting reports around Baton Rouge reveal patterns familiar from other 
 
 These patterns show that Baton Rouge’s UFO reports are dominated by explainable airborne phenomena seen from civilian vantage points, rather than a cluster of inexplicable craft or visitation events. They also demonstrate how increased public awareness of space activity — launches, satellite constellations, augmented aerospace traffic — changes what witnesses notice and report.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ha7VCxn4p3w" title="Sky Lit from Baton Rouge Exxon Mobile Fire || ViralHog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ha7VCxn4p3w" target="_blank" rel="noopener noreferrer">Sky Lit from Baton Rouge Exxon Mobile Fire || ViralHog</a></p><p class="youtube-embed-meta">Channel: ViralHog &middot; Views: 952 &middot; Uploaded: February 2020 &middot; Length: 1 minute 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ha7VCxn4p3w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ha7VCxn4p3w">Open on YouTube</a></p></div></div></div>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qw7p5u3vz9k" title="Green fireball caught on Ring camera sparks UFO panic: ‘That’s an alien ship’" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qw7p5u3vz9k" target="_blank" rel="noopener noreferrer">Green fireball caught on Ring camera sparks UFO panic: ‘That’s an alien ship’</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 37.3K &middot; Uploaded: July 2023 &middot; Length: 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qw7p5u3vz9k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qw7p5u3vz9k">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HXOfCmMOvzQ" title="Why the US government won&#x27;t explain what&#x27;s in our skies | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HXOfCmMOvzQ" target="_blank" rel="noopener noreferrer">Why the US government won&#x27;t explain what&#x27;s in our skies | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 221.6K &middot; Uploaded: April 2026 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HXOfCmMOvzQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HXOfCmMOvzQ">Open on YouTube</a></p></div></div></div>
 
 ## Interpreting the Civilian Record
 
-The Baton Rouge experience fits naturally into Louisiana’s broader pattern of everyday UFO reports: it reflects how ordinary people perceive unknown sights in the sky, often without access to the reference data needed to distinguish between satellites, meteors, aircraft and rare atmospheric events. [Civilian sightings]({{ 'city-reports/' | relative_url }}) are valuable as cultural and observational data points, but they do not constitute definitive evidence of non‑ordinary technology unless supported by independent measurement.
+The Baton Rouge experience fits naturally into Louisiana’s broader pattern of everyday UFO reports: it reflects how ordinary people perceive unknown sights in the sky, often without access to the reference data needed to distinguish between satellites, meteors, aircraft and rare atmospheric events. Civilian sightings are valuable as cultural and observational data points, but they do not constitute definitive evidence of non‑ordinary technology unless supported by independent measurement.
 
 In many Baton Rouge cases, particularly those involving satellite trains like Starlink, later investigation strengthens the mundane interpretation. Other entries remain unresolved, not because they resist explanation, but because the initial report lacks sufficient detail. Recognising these limits helps frame the local civilian record more clearly: the “UFO” label often stands in for unexplained only in the sense of lacking immediate context, rather than suggesting exotic or non‑terrestrial causes.
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c_baton_rouge_explaine_cbf0cf-Illustration-3-light.svg" | relative_url }}" alt="Baton Rouge Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c_baton_rouge_explaine_cbf0cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c_baton_rouge_explaine_cbf0cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c_baton_rouge_explaine_cbf0cf-Illustration-3-dark.svg" | relative_url }}" alt="Baton Rouge Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c_baton_rouge_explaine_cbf0cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_civilian_sightings_07a51c_baton_rouge_explaine_cbf0cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -395,7 +388,7 @@ In many Baton Rouge cases, particularly those involving satellite trains like St
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -405,111 +398,36 @@ In many Baton Rouge cases, particularly those involving satellite trains like St
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge"><img src="https://i.ebayimg.com/images/g/X7EAAOSwrh9gYv2w/s-l225.jpg" alt="Listing image for Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Patch Iron Sew On Clothes Alien NASA Space UFO Embroidered Badge</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -517,15 +435,15 @@ In many Baton Rouge cases, particularly those involving satellite trains like St
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Planet Space NASA Embroidered Iron On Sew On Patch Badge Fabric Applique Bag"><img src="https://i.ebayimg.com/images/g/o9gAAOSwpwBcHGTF/s-l225.jpg" alt="Listing image for UFO Planet Space NASA Embroidered Iron On Sew On Patch Badge Fabric Applique Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO Planet Space NASA Embroidered Iron On Sew On Patch Badge Fabric Applique Bag</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -533,15 +451,15 @@ In many Baton Rouge cases, particularly those involving satellite trains like St
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Rainbow Patch Iron Sew On Alien NASA Space UFO Embroidered Badge"><img src="https://i.ebayimg.com/images/g/DUgAAOSw38JdE18u/s-l225.jpg" alt="Listing image for Flying Saucer Rainbow Patch Iron Sew On Alien NASA Space UFO Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Rainbow Patch Iron Sew On Alien NASA Space UFO Embroidered Badge</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -549,15 +467,15 @@ In many Baton Rouge cases, particularly those involving satellite trains like St
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronaut Kiss Sun Embroidered Sew On Iron On Patch Badge Fabric Applique Craft"><img src="https://i.ebayimg.com/images/g/tboAAOSw2gxYrWel/s-l225.jpg" alt="Listing image for Astronaut Kiss Sun Embroidered Sew On Iron On Patch Badge Fabric Applique Craft" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer">Astronaut Kiss Sun Embroidered Sew On Iron On Patch Badge Fabric Applique Craft</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -565,7 +483,7 @@ In many Baton Rouge cases, particularly those involving satellite trains like St
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baton-rouge-sightings-explained-and-unexplained-ufo-sightings-in-baton-rouge-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="explained-and-unexplained-ufo-sightings-in-baton-rouge-ufo-patch-book-books-gerry-anderson-band-concert-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -642,17 +560,31 @@ In many Baton Rouge cases, particularly those involving satellite trains like St
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -665,42 +597,73 @@ In many Baton Rouge cases, particularly those involving satellite trains like St
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -715,12 +678,17 @@ In many Baton Rouge cases, particularly those involving satellite trains like St
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -730,81 +698,81 @@ In many Baton Rouge cases, particularly those involving satellite trains like St
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=183539](https://nuforc.org/sighting/?id=183539)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 183539November 8, 2024...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=183539" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=183539</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 183539November 8, 2024...</p></details>
    Published: November 8, 2024  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=191584](https://nuforc.org/sighting/?id=191584)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 191584August 11, 2025...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=191584" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191584</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 191584August 11, 2025...</p></details>
    Published: August 11, 2025  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=120245](https://nuforc.org/sighting/?id=120245)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 120245July 10, 2015...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=120245" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=120245</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 120245July 10, 2015...</p></details>
    Published: July 10, 2015  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=117255](https://nuforc.org/sighting/?id=117255)  
+   Link: <a href="https://nuforc.org/sighting/?id=117255" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=117255</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 117255February 12, 2015 — NUFORC UFO SIGHTING 117255 Occurred: 2013-01-15 20:30 Local (01152013) Reported: 2015-02-10...</p></details>
    Published: January 15, 2013  
 
 5. <a id="endnote-5"></a>
    Source: wafb.com  
-   Link: [https://www.wafb.com/2022/09/07/string-satellites-spotted-br-sky/](https://www.wafb.com/2022/09/07/string-satellites-spotted-br-sky/)  
+   Link: <a href="https://www.wafb.com/2022/09/07/string-satellites-spotted-br-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.wafb.com/2022/09/07/string-satellites-spotted-br-sky/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.wafb.comString](https://www.wafb.comString) of Starlink satellites spotted in BR skySeptember 7, 2022...</p></details>
    Published: September 7, 2022  
 
 6. <a id="endnote-6"></a>
    Source: wbrz.com  
    Title: The Starlink satellites spotted over Baton Rouge  
-   Link: [https://www.wbrz.com/news/the-starlink-satellites-spotted-over-baton-rouge/](https://www.wbrz.com/news/the-starlink-satellites-spotted-over-baton-rouge/)  
+   Link: <a href="https://www.wbrz.com/news/the-starlink-satellites-spotted-over-baton-rouge/" target="_blank" rel="noopener noreferrer nofollow">https://www.wbrz.com/news/the-starlink-satellites-spotted-over-baton-rouge/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 7, 2022 — THE STARLINK SATELLITES SPOTTED OVER BATON ROUGE 3 years 1 month 3 days ago Wednesday, September 07 2022 Sep 7, 2022...</p></details>
    Published: September 7, 2022  
 
 7. <a id="endnote-7"></a>
    Source: teslarati.com  
    Title: ET-like lights over Louisiana turned out to be Starlink satellites  
-   Link: [https://www.teslarati.com/et-like-lights-louisiana-starlink-satellites/](https://www.teslarati.com/et-like-lights-louisiana-starlink-satellites/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TESLARATIET-like lights over Louisiana turned out to be Starlink satellitesSeptember 7, 2022...</p></details>
+   Link: <a href="https://www.teslarati.com/et-like-lights-louisiana-starlink-satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.teslarati.com/et-like-lights-louisiana-starlink-satellites/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ET-like lights over Louisiana turned out to be Starlink satellitesSeptember 7, 2022...</p></details>
    Published: September 7, 2022  
 
 8. <a id="endnote-8"></a>
    Source: wbrz.com  
-   Link: [https://www.wbrz.com/news/seeing-weird-lights-in-the-sky-starlink-visible-in-southeast-louisiana-on-monday-night](https://www.wbrz.com/news/seeing-weird-lights-in-the-sky-starlink-visible-in-southeast-louisiana-on-monday-night)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WBRZSeeing weird lights in the sky? Starlink visible in southeast Louisiana on Monday nightAugust 7, 2023...</p></details>
+   Link: <a href="https://www.wbrz.com/news/seeing-weird-lights-in-the-sky-starlink-visible-in-southeast-louisiana-on-monday-night" target="_blank" rel="noopener noreferrer nofollow">https://www.wbrz.com/news/seeing-weird-lights-in-the-sky-starlink-visible-in-southeast-louisiana-on-monday-night</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Seeing weird lights in the sky? Starlink visible in southeast Louisiana on Monday nightAugust 7, 2023...</p></details>
    Published: August 7, 2023  
 
 9. <a id="endnote-9"></a>
    Source: wbrz.com  
-   Link: [https://www.wbrz.com/news/strange-lights-seen-in-sky-above-baton-rouge-most-likely-from-spacex-test-program](https://www.wbrz.com/news/strange-lights-seen-in-sky-above-baton-rouge-most-likely-from-spacex-test-program)  
+   Link: <a href="https://www.wbrz.com/news/strange-lights-seen-in-sky-above-baton-rouge-most-likely-from-spacex-test-program" target="_blank" rel="noopener noreferrer nofollow">https://www.wbrz.com/news/strange-lights-seen-in-sky-above-baton-rouge-most-likely-from-spacex-test-program</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights seen in sky above Baton Rouge, most likely from SpaceX test programMay 30, 2021 — STRANGE LIGHTS SEEN IN SKY ABOVE BATON R...</p></details>
    Published: May 30, 2021  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=139236](https://nuforc.org/sighting/?id=139236)  
+   Link: <a href="https://nuforc.org/sighting/?id=139236" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=139236</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 139236March 23, 2018 — NUFORC UFO SIGHTING 139236 Occurred: 2018-03-22 21:15 Local Reported: 2018-03-22 19:31 Pacific...</p></details>
    Published: March 22, 2018  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=81825](https://nuforc.org/sighting/?id=81825)  
+   Link: <a href="https://nuforc.org/sighting/?id=81825" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=81825</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 81825June 20, 2011 — NUFORC UFO SIGHTING 81825 Occurred: 2011-06-17 10:50 Local Reported: 2011-06-17 23:08 Pacific Du...</p></details>
    Published: June 17, 2011  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=60911](https://nuforc.org/sighting/?id=60911)  
+   Link: <a href="https://nuforc.org/sighting/?id=60911" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=60911</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 60911January 21, 2008 — NUFORC UFO SIGHTING 60911 Occurred: 1979-06-15 19:30 Local - Approximate Reported: 2008-01-16...</p></details>
    Published: January 16, 2008  
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=58147](https://nuforc.org/sighting/?id=58147)  
+   Link: <a href="https://nuforc.org/sighting/?id=58147" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=58147</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 58147August 14, 2007 — NUFORC UFO SIGHTING 58147 Occurred: 2007-08-04 20:30 Local Reported: 2007-08-13 10:33 Pacific...</p></details>
    Published: August 4, 2007  
 
@@ -812,64 +780,64 @@ In many Baton Rouge cases, particularly those involving satellite trains like St
 
 14. <a id="endnote-14"></a>
    Source: tvi.show  
-   Link: [https://www.tvi.show/nexus/paranormal-pet-disappearance-the-mysterious-case-of-the-vanishing-dog](https://www.tvi.show/nexus/paranormal-pet-disappearance-the-mysterious-case-of-the-vanishing-dog)  
+   Link: <a href="https://www.tvi.show/nexus/paranormal-pet-disappearance-the-mysterious-case-of-the-vanishing-dog" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/nexus/paranormal-pet-disappearance-the-mysterious-case-of-the-vanishing-dog</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained Pet Disappearance After UFO EncounterPARANORMAL PET DISAPPEARANCE: THE MYSTERIOUS CASE OF THE VANISHING DOG 19 Apr Written By...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: bayoubrief.com  
-   Link: [https://www.bayoubrief.com/2019/04/30/true-thomas-jefferson-once-reported-claims-of-a-ufo-sighting-in-baton-rouge/](https://www.bayoubrief.com/2019/04/30/true-thomas-jefferson-once-reported-claims-of-a-ufo-sighting-in-baton-rouge/)  
+   Link: <a href="https://www.bayoubrief.com/2019/04/30/true-thomas-jefferson-once-reported-claims-of-a-ufo-sighting-in-baton-rouge/" target="_blank" rel="noopener noreferrer nofollow">https://www.bayoubrief.com/2019/04/30/true-thomas-jefferson-once-reported-claims-of-a-ufo-sighting-in-baton-rouge/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 30, 2019 File this under Obscure Presidential Trivia: On the night of April 5^{th}, 1800...</p></details>
    Published: April 30, 2019  
 
 16. <a id="endnote-16"></a>
    Source: ufoinsight.com  
    Title: The Louisiana Sightings – UFOs In The American Deep South  
-   Link: [https://www.ufoinsight.com/the-louisiana-sightings-ufos-in-the-american-deep-south/](https://www.ufoinsight.com/the-louisiana-sightings-ufos-in-the-american-deep-south/)  
+   Link: <a href="https://www.ufoinsight.com/the-louisiana-sightings-ufos-in-the-american-deep-south/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/the-louisiana-sightings-ufos-in-the-american-deep-south/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightAugust 27, 2018 — THE LOUISIANA SIGHTINGS – UFOS IN THE AMERICAN DEEP SOUTH By Marcus Lowth Image: Published Date August 27, 2...</p></details>
    Published: August 27, 2018  
 
 17. <a id="endnote-17"></a>
    Source: sentientorbs.com  
    Title: Solid lighted aircraft flying in a V formation  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-66122](https://sentientorbs.com/explore/sightings/NUFORC-66122)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Sentient OrbsOctober 8, 2008 — SENTIENT ORBS • DOSSIER VIEW External source report CASE NUFORC-66122 Copy Link ← Back to exploreOpen NU...</p></details>
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-66122" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-66122</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sentient OrbsOctober 8, 2008 — SENTIENT ORBS • DOSSIER VIEW External source report CASE NUFORC-66122 Copy Link ← Back to exploreOpen NU...</p></details>
    Published: October 8, 2008  
 
 18. <a id="endnote-18"></a>
    Source: 999ktdy.com  
    Title: UF O Sighted In The Skies Over Baton Rouge  
-   Link: [https://999ktdy.com/ufo-sighted-in-the-skies-over-baton-rouge/](https://999ktdy.com/ufo-sighted-in-the-skies-over-baton-rouge/)  
+   Link: <a href="https://999ktdy.com/ufo-sighted-in-the-skies-over-baton-rouge/" target="_blank" rel="noopener noreferrer nofollow">https://999ktdy.com/ufo-sighted-in-the-skies-over-baton-rouge/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighted In The Skies Over Baton RougeAugust 29, 2019 — Image: UFO Sighted In The Skies Over Baton Rouge UFO SIGHTED IN THE SKIES OVER...</p></details>
    Published: August 29, 2019  
 
 19. <a id="endnote-19"></a>
    Source: history.com  
    Title: lubbock lights ufo sightings  
-   Link: [https://www.history.com/articles/lubbock-lights-ufo-sightings](https://www.history.com/articles/lubbock-lights-ufo-sightings)  
+   Link: <a href="https://www.history.com/articles/lubbock-lights-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/lubbock-lights-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Mystery of the Lubbock Lights UFO Sightings | HISTORYAugust 24, 2018 — By: Hadley Meares Mysteries &amp; Folklore THE UNSOLVED M...</p></details>
    Published: August 24, 2018  
 
 20. <a id="endnote-20"></a>
    Source: katc.com  
    Title: Well, turns out those extra  
-   Link: [https://www.katc.com/news/covering-louisiana/strange-lights-seen-in-louisiana-sky-likely-starlink](https://www.katc.com/news/covering-louisiana/strange-lights-seen-in-louisiana-sky-likely-starlink)  
+   Link: <a href="https://www.katc.com/news/covering-louisiana/strange-lights-seen-in-louisiana-sky-likely-starlink" target="_blank" rel="noopener noreferrer nofollow">https://www.katc.com/news/covering-louisiana/strange-lights-seen-in-louisiana-sky-likely-starlink</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights seen in Louisiana sky likely &#x27;Starlink&#x27;STRANGE LIGHTS SEEN IN LOUISIANA SKY LIKELY &#x27;STARLINK&#x27; Prev Next By: Akemi Briggs P...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: kpel965.com  
    Title: louisiana ufo sightings  
-   Link: [https://kpel965.com/louisiana-ufo-sightings/](https://kpel965.com/louisiana-ufo-sightings/)  
+   Link: <a href="https://kpel965.com/louisiana-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://kpel965.com/louisiana-ufo-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Louisiana UFO Sightings So Far in 2025July 28, 2025 — Louisiana Has 10 UFO Sightings So Far in 2025 and Here’s Where Louisiana Has 10...</p></details>
    Published: July 28, 2025  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Green fireball caught on Ring camera sparks UFO panic: 'That's an alien ship'  
-   Link: [https://www.youtube.com/watch?v=qw7p5u3vz9k](https://www.youtube.com/watch?v=qw7p5u3vz9k)  
+   Link: <a href="https://www.youtube.com/watch?v=qw7p5u3vz9k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qw7p5u3vz9k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky Lit from Baton Rouge Exxon Mobile Fire || ViralHog...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Why the US government won't explain what's in our skies | Reality Check  
-   Link: [https://www.youtube.com/watch?v=HXOfCmMOvzQ](https://www.youtube.com/watch?v=HXOfCmMOvzQ)  
+   Link: <a href="https://www.youtube.com/watch?v=HXOfCmMOvzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HXOfCmMOvzQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights spotted in Louisiana sky likely &#x27;Starlink&#x27;...</p></details>

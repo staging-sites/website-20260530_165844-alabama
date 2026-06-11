@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nevada-b93191-las-vegas-ufo-sighti/
 description: Focused pages that expand on Las Vegas.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Nevada_b93191_las_vegas_ufo_sighti_15a453
-parent_title: Las Vegas | Why Nevada Became UFO Country
+parent_title: Las Vegas
 parent_nav_short_title: Las Vegas
 parent_permalink: /las-vegas/
 ---

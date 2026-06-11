@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /washington-a27a66-washington-reporting/
 description: Focused pages that expand on Report Clusters.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Washington_a27a66_washington_reporting_6bcbd0
-parent_title: Report Clusters | Why Washington Shaped UFO History
+parent_title: Report Clusters
 parent_nav_short_title: Report Clusters
 parent_permalink: /report-clusters/
 ---

@@ -262,7 +262,7 @@ sibling_links:
   short_title: Michigan UFOs
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Alabama_d1f92d
   title: Alabama UFOs
@@ -277,9 +277,9 @@ sibling_links:
   permalink: /what-keeps-tennessees-ufo-stories-alive/
   short_title: Tennessee UFOs
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Idaho_18334c
   title: Idaho UFOs
   permalink: /what-makes-idaho-a-key-ufo-hotspot/
@@ -289,9 +289,9 @@ sibling_links:
   permalink: /what-makes-indianas-ufo-history-unique/
   short_title: Indiana UFOs
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: South_Carolina_11d001
   title: South Carolina UFOs
   permalink: /what-makes-south-carolinas-ufo-story/
@@ -481,7 +481,6 @@ image: /assets/images/Utah_2ff606-overview-social.jpg
 
 Utah is a good place for sky stories. Much of the state has wide horizons, low population density, high desert visibility and large areas where the night sky is still clearer than in heavily urbanised regions. A University of Utah-led study of more than 98,000 National UFO Reporting Center reports from 2001 to 2020 found that reports were more common where people had more opportunity to see the sky: darker skies, less tree cover and proximity to airports or military installations all mattered. That does not mean the reports were extraordinary; it means the geography of seeing is part of the story. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This matters for Utah because the state’s UFO reputation has often been built from sincere but difficult-to-test sightings: lights crossing the sky, bright objects near mountains, distant formations over desert, and events witnessed from roads, ranches or small communities. In such settings, a report can be both honestly described and still hard to identify. Distance, altitude and size are especially treacherous when the witness has no fixed reference point. A small object nearby can look like a large craft far away; a satellite train can look coordinated; a meteor can be startling enough to prompt police calls and news coverage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13now.com/news/local-news/bright-string-of-lights-flying-above-utah-explained-again" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13now.com">[FOX 13 News Utah (KSTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13now.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13now.com/news/local-news/bright-string-of-lights-flying-above-utah-explained-again" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13now.com">[2FOX 13 News Utah (KSTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13now.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Utah_2ff606-overview.webp" | relative_url }}" alt="Overview image for What Makes Utah&#x27;s UFO History So Persistent?" loading="eager" decoding="sync" fetchpriority="high">
 The modern term “UAP”, or unidentified anomalous phenomena, is useful here because it does not assume an answer. NASA’s independent UAP study reported in 2023 that there was no conclusive evidence in peer-reviewed literature for an extraterrestrial origin, while also stressing that many cases lack the high-quality, repeatable data needed for confident resolution. Utah’s record fits that tension: it has intriguing testimony and a few historically important cases, but the evidence usually remains below the level needed to identify an extraordinary cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
@@ -495,8 +494,7 @@ The main sceptical explanation was that the objects were birds, often described 
 
 The case has remained disputed because some investigators found the bird explanation unsatisfying, especially when they gave weight to Newhouse’s later description of the objects before he began filming. That is a recurring problem in UFO history: the filmed evidence is limited, while the witness account contains more detail than the film can independently verify. A fair assessment is that Tremonton is historically significant and not trivially dismissible as a mere hoax, but the film itself does not settle the matter. Its most likely conventional explanation remains birds or another reflective natural object, but the available evidence leaves room for argument about exactly what Newhouse saw. NCAS PDF Directory <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/utah1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Newhouse Film, Tremonton Utah</span><span class="citation-popover-snippet">The Newhouse Film, Tremonton Utah</span></span></span>
 
-
-<img src="{{ "/assets/images/Utah_2ff606-Illustration-1-light.svg" | relative_url }}" alt="What Makes Utah&#x27;s UFO History So Persistent? illustration 1" data-theme-src-dark="{{ "/assets/images/Utah_2ff606-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Utah_2ff606-Illustration-1-dark.svg" | relative_url }}" alt="What Makes Utah&#x27;s UFO History So Persistent? illustration 1" data-theme-src-dark="{{ "/assets/images/Utah_2ff606-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Uintah Basin: a cluster built from witnesses, not instruments
 
 Eastern Utah’s Uintah Basin has a different place in UFO history. It is less about one famous film and more about an accumulation of local reports. The key early source is Frank B. Salisbury’s 1974 book, *The Utah UFO Display: A Biologist’s Report*, based on work with local science teacher Joseph “Junior” Hicks. The Internet Archive record identifies the book as a 286-page study of Utah sightings and encounters, and later descriptions of the book emphasise its focus on numerous reports from the Uintah Basin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/utahufodisplaybi0000sali" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveThe Utah UFO display: a biologist&#x27;s report11 Apr 2022 — Publication date: 1974; Topics: Unidentified flying objects -- S...</span></span></span>
@@ -506,7 +504,6 @@ Hicks became important because he acted as a local collector of testimony. The 1
 The useful reader question is not “did all these people see alien craft?” but “what kind of evidence does a local flap create?” In the Uintah Basin, the evidence is mainly testimony: repeated reports, local memory, witness drawings, interviews and investigator files. That can reveal patterns in belief, observation and local experience, but it is weaker than calibrated radar, multi-camera tracking or recovered physical material. The basin is therefore best understood as a major Utah witness cluster rather than a solved case.
 
 Salisbury’s involvement also complicates any simple dismissal. He was a biologist, not just a sensationalist writer, and his book framed the reports as something worth documenting and thinking about. But documentation is not confirmation. A collection of hundreds of accounts can still contain misidentified aircraft, planets, meteors, atmospheric effects, military activity, exaggerations and a smaller number of genuinely puzzling observations. The state-level significance is that Utah produced one of the better-known regional UFO catalogues in the American West. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/utahufodisplaybi0000sali" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveThe Utah UFO display: a biologist&#x27;s report11 Apr 2022 — Publication date: 1974; Topics: Unidentified flying objects -- S...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NY47osjbirI" title="Revisiting the Ranch’s Wildest Events | The Secret of Skinwalker Ranch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NY47osjbirI" target="_blank" rel="noopener noreferrer">Revisiting the Ranch’s Wildest Events | The Secret of Skinwalker Ranch</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 216.7K &middot; Uploaded: May 2026 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NY47osjbirI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NY47osjbirI">Open on YouTube</a></p></div></div></div>
 
@@ -520,8 +517,7 @@ The sceptical side is substantial. The Pentagon’s 2024 AARO historical report 
 
 For Utah’s UFO history, Skinwalker Ranch is therefore best treated as a cultural and investigative landmark, not a proven anomaly site. Its strongest claim to importance is not that it has demonstrated alien visitation, but that it became a meeting point for local Uintah Basin sighting traditions, private billionaire-funded investigation, government-adjacent UAP controversy and entertainment media. Later reporting has amplified the ranch’s fame more than it has resolved the underlying claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/Utah_2ff606-Illustration-2-light.svg" | relative_url }}" alt="What Makes Utah&#x27;s UFO History So Persistent? illustration 2" data-theme-src-dark="{{ "/assets/images/Utah_2ff606-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Utah_2ff606-Illustration-2-dark.svg" | relative_url }}" alt="What Makes Utah&#x27;s UFO History So Persistent? illustration 2" data-theme-src-dark="{{ "/assets/images/Utah_2ff606-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Military skies, drones and honest misidentification
 
 Utah’s military and aviation environment gives UFO reports another layer. Hill Air Force Base, Dugway Proving Ground and other defence-related facilities make the state a place where unusual aircraft, restricted activity and public uncertainty can overlap. Not every light near a base is military, and not every military-adjacent report is exotic, but proximity to such sites changes how witnesses interpret what they see.
@@ -531,7 +527,6 @@ A recent example is the 2024 drone concern around Hill Air Force Base. Hill AFB 
 Other Utah reports have had more mundane endings. In 2007, a spike of Salt Lake City UFO reports involving a silver cigar-shaped object was later attributed to a 30-foot remote-controlled “hyperblimp” launched by a local school teacher. That case is valuable because it shows how quickly an unfamiliar human-made object can become a UFO wave, especially when it drifts out of context and witnesses see only the strange final result. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Open source on wired.com.</span></span></span>
 
 Satellites have become a particularly important modern explanation. Utah news outlets have repeatedly had to explain strings of bright lights as SpaceX [Starlink]({{ 'starlink-d20670/' | relative_url }}) satellites, including sightings over Salt Lake City. These events can look eerie because the lights appear in a line, move steadily and seem coordinated. They are a reminder that the sky has become more crowded, and that some twenty-first-century UFO reports are caused by technologies that did not exist during the classic Blue Book era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13now.com/news/local-news/bright-string-of-lights-flying-above-utah-explained-again" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13now.com">[FOX 13 News Utah (KSTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13now.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kutv.com/news/offbeat/ufo-train-of-bright-lights-string-of-glowing-dots-starlink-spacex-elon-musk-satellites-continue-to-startle-earthlings-5-years-after-first-string-of-satellites-launched" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kutv.com">[KUTV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kutv.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LKYcy0n82x8" title="Phil and Jessica Try To Communicate With UFOs In Utah&#x27;s Most Mysterious Valley | Expedition X S4 Ep8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LKYcy0n82x8" target="_blank" rel="noopener noreferrer">Phil and Jessica Try To Communicate With UFOs In Utah&#x27;s Most Mysterious Valley | Expedition X S4 Ep8</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 39.3K &middot; Uploaded: March 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LKYcy0n82x8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LKYcy0n82x8">Open on YouTube</a></p></div></div></div>
 
@@ -549,8 +544,7 @@ The most balanced way to read Utah’s UFO record is to separate cases by eviden
 
 This distinction avoids two common mistakes. The first is credulity: treating every unresolved report as evidence of alien technology. The second is over-dismissal: assuming that because many reports are explained, all witnesses were careless or dishonest. Utah’s UFO history is more interesting than either simplification. It is a record of real observers, difficult viewing conditions, occasional documentation, official interest, local storytelling, and unresolved claims that often remain unresolved because the data were never strong enough to begin with.
 
-
-<img src="{{ "/assets/images/Utah_2ff606-Illustration-3-light.svg" | relative_url }}" alt="What Makes Utah&#x27;s UFO History So Persistent? illustration 3" data-theme-src-dark="{{ "/assets/images/Utah_2ff606-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Utah_2ff606-Illustration-3-dark.svg" | relative_url }}" alt="What Makes Utah&#x27;s UFO History So Persistent? illustration 3" data-theme-src-dark="{{ "/assets/images/Utah_2ff606-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What later research has changed
 
 Recent UAP research has not validated Utah’s famous cases as extraterrestrial events, but it has improved the questions researchers ask. The University of Utah-led environmental study suggests that sighting patterns are partly shaped by where people can see the sky and where aerial objects are likely to be present. That reframes Utah from a mysterious exception into part of a broader western geography of visibility, military activity and open landscapes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ess.utah.edu/blog/posts/2024-2025/11-2024-uap-sightings.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ess.utah.edu">[ESS School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ess.utah.edu</span><span class="citation-popover-title">11 2024 uap sightings</span><span class="citation-popover-snippet">11 2024 uap sightings</span></span></span>
@@ -559,9 +553,7 @@ NASA’s UAP work and AARO’s historical review also push the discussion toward
 
 The strongest conclusion is modest but useful: Utah is one of the more important UFO states because it combines a landmark filmed case, a long-running rural sighting tradition, a famous ranch, dark western skies and modern military/drone relevance. The weakest conclusion would be the dramatic one: that Utah’s UFO history proves alien visitation. The record does not support that. What it does support is a careful state-level history in which some cases were probably misidentified, some remain unresolved, and the most famous stories often reveal as much about investigation, evidence and belief as they do about objects in the sky.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CzL5x420LfY" title="The Most Disturbing Discovery Yet 😨 (S7) | The Secret of Skinwalker Ranch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CzL5x420LfY" target="_blank" rel="noopener noreferrer">The Most Disturbing Discovery Yet 😨 (S7) | The Secret of Skinwalker Ranch</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 144.7K &middot; Uploaded: May 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CzL5x420LfY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CzL5x420LfY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -649,7 +641,7 @@ The strongest conclusion is modest but useful: Utah is one of the more important
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -659,111 +651,36 @@ The strongest conclusion is modest but useful: Utah is one of the more important
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -771,15 +688,15 @@ The strongest conclusion is modest but useful: Utah is one of the more important
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -787,15 +704,15 @@ The strongest conclusion is modest but useful: Utah is one of the more important
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -803,15 +720,15 @@ The strongest conclusion is modest but useful: Utah is one of the more important
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -819,7 +736,7 @@ The strongest conclusion is modest but useful: Utah is one of the more important
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utahs-ufo-history-so-what-makes-utah-s-ufo-history-so-persistent-utah-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-utah-s-ufo-history-so-persistent-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -896,17 +813,31 @@ The strongest conclusion is modest but useful: Utah is one of the more important
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -919,42 +850,73 @@ The strongest conclusion is modest but useful: Utah is one of the more important
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -969,12 +931,17 @@ The strongest conclusion is modest but useful: Utah is one of the more important
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -985,260 +952,260 @@ The strongest conclusion is modest but useful: Utah is one of the more important
 1. <a id="endnote-1"></a>
    Source: files.ncas.org  
    Title: PDF Directory Condon Report, Case 49: Tremonton, Utah  
-   Link: [https://files.ncas.org/condon/text/case49.htm](https://files.ncas.org/condon/text/case49.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case49.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NCAS PDF DirectoryCondon Report, Case 49: Tremonton, Utah - Movie FilmRuppelt (4) suggested that it be stated that &quot;the images were cause...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: archive.org  
-   Link: [https://archive.org/details/utahufodisplaybi0000sali](https://archive.org/details/utahufodisplaybi0000sali)  
+   Link: <a href="https://archive.org/details/utahufodisplaybi0000sali" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/utahufodisplaybi0000sali</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveThe Utah UFO display: a biologist&#x27;s report11 Apr 2022 — Publication date: 1974; Topics: Unidentified flying objects -- S...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-023-49527-x](https://www.nature.com/articles/s41598-023-49527-x)  
+   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 6. <a id="endnote-6"></a>
    Source: hightokolob.substack.com  
    Title: tremontons ufo 1952  
-   Link: [https://hightokolob.substack.com/p/tremontons-ufo-1952](https://hightokolob.substack.com/p/tremontons-ufo-1952)  
+   Link: <a href="https://hightokolob.substack.com/p/tremontons-ufo-1952" target="_blank" rel="noopener noreferrer nofollow">https://hightokolob.substack.com/p/tremontons-ufo-1952</a>  
 
 7. <a id="endnote-7"></a>
    Source: nicap.org  
    Title: The Newhouse Film, Tremonton Utah  
-   Link: [https://www.nicap.org/reports/utah1.htm](https://www.nicap.org/reports/utah1.htm)  
+   Link: <a href="https://www.nicap.org/reports/utah1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/utah1.htm</a>  
 
 8. <a id="endnote-8"></a>
    Source: deseret.com  
    Title: News FREQUENT FLIERS?  
-   Link: [https://www.deseret.com/1996/6/30/19251541/frequent-fliers/](https://www.deseret.com/1996/6/30/19251541/frequent-fliers/)  
+   Link: <a href="https://www.deseret.com/1996/6/30/19251541/frequent-fliers/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1996/6/30/19251541/frequent-fliers/</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/Skinwalker_Ranch](https://en.wikipedia.org/wiki/Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skinwalker_Ranch</a>  
 
 10. <a id="endnote-10"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos](https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos)  
+   Link: <a href="https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/inside-robert-bigelows-decades-long-obsession-with-ufos</a>  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: wired.com  
    Title: UFO Sightings In Utah On The Rise  
-   Link: [https://www.wired.com/2007/06/ufo-sightings-i](https://www.wired.com/2007/06/ufo-sightings-i)  
+   Link: <a href="https://www.wired.com/2007/06/ufo-sightings-i" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2007/06/ufo-sightings-i</a>  
 
 13. <a id="endnote-13"></a>
    Source: kutv.com  
-   Link: [https://kutv.com/news/offbeat/ufo-train-of-bright-lights-string-of-glowing-dots-starlink-spacex-elon-musk-satellites-continue-to-startle-earthlings-5-years-after-first-string-of-satellites-launched](https://kutv.com/news/offbeat/ufo-train-of-bright-lights-string-of-glowing-dots-starlink-spacex-elon-musk-satellites-continue-to-startle-earthlings-5-years-after-first-string-of-satellites-launched)  
+   Link: <a href="https://kutv.com/news/offbeat/ufo-train-of-bright-lights-string-of-glowing-dots-starlink-spacex-elon-musk-satellites-continue-to-startle-earthlings-5-years-after-first-string-of-satellites-launched" target="_blank" rel="noopener noreferrer nofollow">https://kutv.com/news/offbeat/ufo-train-of-bright-lights-string-of-glowing-dots-starlink-spacex-elon-musk-satellites-continue-to-startle-earthlings-5-years-after-first-string-of-satellites-launched</a>  
 
 14. <a id="endnote-14"></a>
    Source: ess.utah.edu  
    Title: 11 2024 uap sightings  
-   Link: [https://ess.utah.edu/blog/posts/2024-2025/11-2024-uap-sightings.php](https://ess.utah.edu/blog/posts/2024-2025/11-2024-uap-sightings.php)  
+   Link: <a href="https://ess.utah.edu/blog/posts/2024-2025/11-2024-uap-sightings.php" target="_blank" rel="noopener noreferrer nofollow">https://ess.utah.edu/blog/posts/2024-2025/11-2024-uap-sightings.php</a>  
 
 15. <a id="endnote-15"></a>
    Source: attheu.utah.edu  
    Title: the west is best to spot ufos  
-   Link: [https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/](https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/)  
+   Link: <a href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/</a>  
 
 16. <a id="endnote-16"></a>
    Source: magazine.utah.edu  
    Title: the truth is out there  
-   Link: [https://magazine.utah.edu/issues/fall-2024/the-truth-is-out-there/](https://magazine.utah.edu/issues/fall-2024/the-truth-is-out-there/)  
+   Link: <a href="https://magazine.utah.edu/issues/fall-2024/the-truth-is-out-there/" target="_blank" rel="noopener noreferrer nofollow">https://magazine.utah.edu/issues/fall-2024/the-truth-is-out-there/</a>  
 
 17. <a id="endnote-17"></a>
    Source: attheu.utah.edu  
    Title: world ufo day  
-   Link: [https://attheu.utah.edu/facultystaff/world-ufo-day/](https://attheu.utah.edu/facultystaff/world-ufo-day/)  
+   Link: <a href="https://attheu.utah.edu/facultystaff/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow">https://attheu.utah.edu/facultystaff/world-ufo-day/</a>  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: The Secret of Skinwalker Ranch  
-   Link: [https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch](https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: [https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims](https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims)  
+   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Robertson Panel  
-   Link: [https://en.wikipedia.org/wiki/Robertson_Panel](https://en.wikipedia.org/wiki/Robertson_Panel)  
+   Link: <a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robertson_Panel</a>  
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: 2024 United States drone sightings  
-   Link: [https://en.wikipedia.org/wiki/2024_United_States_drone_sightings](https://en.wikipedia.org/wiki/2024_United_States_drone_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2024_United_States_drone_sightings</a>  
 
 23. <a id="endnote-23"></a>
    Source: ia803206.us.archive.org  
    Title: David Jacobs The UFO Controversy In America  
-   Link: [https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf](https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf)  
+   Link: <a href="https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: ia800501.us.archive.org  
    Title: Edward J Ruppelt The Report on Unidentified Flying Objects  
-   Link: [https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf](https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf)  
+   Link: <a href="https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: history.com  
    Title: skinwalker ranch paranormal ufos mutilation  
-   Link: [https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation](https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation)  
+   Link: <a href="https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation</a>  
 
 26. <a id="endnote-26"></a>
    Source: history.com  
-   Link: [https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch](https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch)  
+   Link: <a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch</a>  
 
 27. <a id="endnote-27"></a>
    Source: cia.gov  
    Title: DOC 0000015458  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0000015458.pdf](https://www.cia.gov/readingroom/docs/DOC_0000015458.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000015458.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015458.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 29. <a id="endnote-29"></a>
    Source: deseret.com  
    Title: drones spotted recently in vicinity of hill air force base spokesman says  
-   Link: [https://www.deseret.com/utah/2024/12/17/drones-spotted-recently-in-vicinity-of-hill-air-force-base-spokesman-says/](https://www.deseret.com/utah/2024/12/17/drones-spotted-recently-in-vicinity-of-hill-air-force-base-spokesman-says/)  
+   Link: <a href="https://www.deseret.com/utah/2024/12/17/drones-spotted-recently-in-vicinity-of-hill-air-force-base-spokesman-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/utah/2024/12/17/drones-spotted-recently-in-vicinity-of-hill-air-force-base-spokesman-says/</a>  
 
 30. <a id="endnote-30"></a>
    Source: utah.com  
    Title: what is skinwalker ranch and whats really going on there  
-   Link: [https://www.utah.com/articles/post/what-is-skinwalker-ranch-and-whats-really-going-on-there/](https://www.utah.com/articles/post/what-is-skinwalker-ranch-and-whats-really-going-on-there/)  
+   Link: <a href="https://www.utah.com/articles/post/what-is-skinwalker-ranch-and-whats-really-going-on-there/" target="_blank" rel="noopener noreferrer nofollow">https://www.utah.com/articles/post/what-is-skinwalker-ranch-and-whats-really-going-on-there/</a>  
 
 31. <a id="endnote-31"></a>
    Source: standard.net  
    Title: files declassified ufo investigations in utah  
-   Link: [https://www.standard.net/news/military/2015/jan/26/files-declassified-ufo-investigations-in-utah/](https://www.standard.net/news/military/2015/jan/26/files-declassified-ufo-investigations-in-utah/)  
+   Link: <a href="https://www.standard.net/news/military/2015/jan/26/files-declassified-ufo-investigations-in-utah/" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.net/news/military/2015/jan/26/files-declassified-ufo-investigations-in-utah/</a>  
 
 32. <a id="endnote-32"></a>
    Source: fox13now.com  
-   Link: [https://www.fox13now.com/news/local-news/bright-string-of-lights-flying-above-utah-explained-again](https://www.fox13now.com/news/local-news/bright-string-of-lights-flying-above-utah-explained-again)  
+   Link: <a href="https://www.fox13now.com/news/local-news/bright-string-of-lights-flying-above-utah-explained-again" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13now.com/news/local-news/bright-string-of-lights-flying-above-utah-explained-again</a>  
 
 33. <a id="endnote-33"></a>
    Source: fox13now.com  
    Title: comet fireball ufo what was that flash of light seen above utah skies last night  
-   Link: [https://www.fox13now.com/news/local-news/northern-utah/comet-fireball-ufo-what-was-that-flash-of-light-seen-above-utah-skies-last-night](https://www.fox13now.com/news/local-news/northern-utah/comet-fireball-ufo-what-was-that-flash-of-light-seen-above-utah-skies-last-night)  
+   Link: <a href="https://www.fox13now.com/news/local-news/northern-utah/comet-fireball-ufo-what-was-that-flash-of-light-seen-above-utah-skies-last-night" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13now.com/news/local-news/northern-utah/comet-fireball-ufo-what-was-that-flash-of-light-seen-above-utah-skies-last-night</a>  
 
 34. <a id="endnote-34"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/tremonton.htm](https://ufologie.patrickgross.org/htm/tremonton.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/tremonton.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/tremonton.htm</a>  
 
 35. <a id="endnote-35"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 36. <a id="endnote-36"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps](https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps)  
+   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
 
 37. <a id="endnote-37"></a>
    Source: hill.af.mil  
    Title: Hill Air Force Base Small Unmanned Aerial Systems awareness on base  
-   Link: [https://www.hill.af.mil/News/Article-Display/Article/3992742/small-unmanned-aerial-systems-awareness-on-base/](https://www.hill.af.mil/News/Article-Display/Article/3992742/small-unmanned-aerial-systems-awareness-on-base/)  
+   Link: <a href="https://www.hill.af.mil/News/Article-Display/Article/3992742/small-unmanned-aerial-systems-awareness-on-base/" target="_blank" rel="noopener noreferrer nofollow">https://www.hill.af.mil/News/Article-Display/Article/3992742/small-unmanned-aerial-systems-awareness-on-base/</a>  
 
 38. <a id="endnote-38"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=30991](https://nuforc.org/sighting/?id=30991)  
+   Link: <a href="https://nuforc.org/sighting/?id=30991" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=30991</a>  
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
    Title: hill air force base drone incidents  
-   Link: [https://www.facebook.com/AFamnncosnco/posts/hill-air-force-base-drone-incidents-/915553780706232/](https://www.facebook.com/AFamnncosnco/posts/hill-air-force-base-drone-incidents-/915553780706232/)  
+   Link: <a href="https://www.facebook.com/AFamnncosnco/posts/hill-air-force-base-drone-incidents-/915553780706232/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AFamnncosnco/posts/hill-air-force-base-drone-incidents-/915553780706232/</a>  
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/BCAk27KAcQo](https://www.youtube.com/shorts/BCAk27KAcQo)  
+   Link: <a href="https://www.youtube.com/shorts/BCAk27KAcQo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/BCAk27KAcQo</a>  
 
 41. <a id="endnote-41"></a>
    Source: ohdbks.overdrive.com  
-   Link: [https://ohdbks.overdrive.com/ohdbks-clermont/content/media/9605822](https://ohdbks.overdrive.com/ohdbks-clermont/content/media/9605822)  
+   Link: <a href="https://ohdbks.overdrive.com/ohdbks-clermont/content/media/9605822" target="_blank" rel="noopener noreferrer nofollow">https://ohdbks.overdrive.com/ohdbks-clermont/content/media/9605822</a>  
 
 42. <a id="endnote-42"></a>
    Source: mynews4.com  
    Title: hill air force base confirms reports of drones over davis county airspace  
-   Link: [https://mynews4.com/news/nation-world/hill-air-force-base-confirms-reports-of-drones-over-davis-county-airspace](https://mynews4.com/news/nation-world/hill-air-force-base-confirms-reports-of-drones-over-davis-county-airspace)  
+   Link: <a href="https://mynews4.com/news/nation-world/hill-air-force-base-confirms-reports-of-drones-over-davis-county-airspace" target="_blank" rel="noopener noreferrer nofollow">https://mynews4.com/news/nation-world/hill-air-force-base-confirms-reports-of-drones-over-davis-county-airspace</a>  
 
 43. <a id="endnote-43"></a>
    Source: wlos.com  
    Title: hill air force base confirms reports of drones over davis county airspace  
-   Link: [https://wlos.com/news/nation-world/hill-air-force-base-confirms-reports-of-drones-over-davis-county-airspace](https://wlos.com/news/nation-world/hill-air-force-base-confirms-reports-of-drones-over-davis-county-airspace)  
+   Link: <a href="https://wlos.com/news/nation-world/hill-air-force-base-confirms-reports-of-drones-over-davis-county-airspace" target="_blank" rel="noopener noreferrer nofollow">https://wlos.com/news/nation-world/hill-air-force-base-confirms-reports-of-drones-over-davis-county-airspace</a>  
 
 44. <a id="endnote-44"></a>
    Source: ebooks2go.com  
    Title: Utah UFO Display  
-   Link: [https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf](https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf)  
+   Link: <a href="https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ebooks2go.com/img/samplefiles/9781599557786_Sample.pdf</a>  
 
 45. <a id="endnote-45"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens](https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens)  
+   Link: <a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
 
 ### Additional References
 
 46. <a id="endnote-46"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=LKYcy0n82x8](https://www.youtube.com/watch?v=LKYcy0n82x8)  
+   Link: <a href="https://www.youtube.com/watch?v=LKYcy0n82x8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LKYcy0n82x8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 9 - Utah &amp; The Paranormal: The Rise of Rural Filmmaking...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: youtube.com  
    Title: The Most Disturbing Discovery Yet (S7) | The Secret of Skinwalker Ranch  
-   Link: [https://www.youtube.com/watch?v=CzL5x420LfY](https://www.youtube.com/watch?v=CzL5x420LfY)  
+   Link: <a href="https://www.youtube.com/watch?v=CzL5x420LfY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CzL5x420LfY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting the Ranch&#x27;s Wildest Events | The Secret of Skinwalker Ranch...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: youtube.com  
    Title: Episode 9  
-   Link: [https://www.youtube.com/watch?v=1Bc7ALOJ3eE](https://www.youtube.com/watch?v=1Bc7ALOJ3eE)  
+   Link: <a href="https://www.youtube.com/watch?v=1Bc7ALOJ3eE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1Bc7ALOJ3eE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Disturbing Discovery Yet (S7) | The Secret of Skinwalker Ranch...</p></details>
 
 49. <a id="endnote-49"></a>
    Source: youtube.com  
    Title: Revisiting the Ranch's Wildest Events | The Secret of Skinwalker Ranch  
-   Link: [https://www.youtube.com/watch?v=NY47osjbirI](https://www.youtube.com/watch?v=NY47osjbirI)  
+   Link: <a href="https://www.youtube.com/watch?v=NY47osjbirI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NY47osjbirI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and the Paranormal Unraveling Utah UFO Mysteries...</p></details>
 
 50. <a id="endnote-50"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously](https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously)  
+   Link: <a href="https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously</a>  
 
 51. <a id="endnote-51"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/saltlaketribune/posts/a-salt-lake-tribune-review-of-flight-data-identified-a-pattern/1590098503116491/](https://www.facebook.com/saltlaketribune/posts/a-salt-lake-tribune-review-of-flight-data-identified-a-pattern/1590098503116491/)  
+   Link: <a href="https://www.facebook.com/saltlaketribune/posts/a-salt-lake-tribune-review-of-flight-data-identified-a-pattern/1590098503116491/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/saltlaketribune/posts/a-salt-lake-tribune-review-of-flight-data-identified-a-pattern/1590098503116491/</a>  
 
 52. <a id="endnote-52"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/](https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/)  
+   Link: <a href="https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/</a>  
 
 53. <a id="endnote-53"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/](https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/)  
+   Link: <a href="https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/</a>  
 
 54. <a id="endnote-54"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/after-years-of-shocking-investigations-the-team-returns-to-the-secret-of-skinwal/1537911594568478/](https://www.facebook.com/HISTORY/posts/after-years-of-shocking-investigations-the-team-returns-to-the-secret-of-skinwal/1537911594568478/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/after-years-of-shocking-investigations-the-team-returns-to-the-secret-of-skinwal/1537911594568478/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/after-years-of-shocking-investigations-the-team-returns-to-the-secret-of-skinwal/1537911594568478/</a>  
 
 55. <a id="endnote-55"></a>
    Source: fox13now.com  
-   Link: [https://www.fox13now.com/news/local-news/are-we-alone-utahns-debate-importance-of-pentagon-ufo-file-release](https://www.fox13now.com/news/local-news/are-we-alone-utahns-debate-importance-of-pentagon-ufo-file-release)  
+   Link: <a href="https://www.fox13now.com/news/local-news/are-we-alone-utahns-debate-importance-of-pentagon-ufo-file-release" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13now.com/news/local-news/are-we-alone-utahns-debate-importance-of-pentagon-ufo-file-release</a>

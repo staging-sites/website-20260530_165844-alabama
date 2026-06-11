@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /memphis/
 nav_short_title: Pine Hill case
 title: What did the Pine Hill officers really see?
-title_full: What did the Pine Hill officers really see? | Memphis
+title_full: What did the Pine Hill officers really see?
 display_title_short: Pine Hill case
 display_title: Pine Hill case
 heading_title: What did the Pine Hill officers really see?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:15:59'
-parent_title: Why Memphis Became a UFO Story Hub | Tennessee UFOs
+parent_title: Why Memphis Became a UFO Story Hub
 parent_permalink: /memphis/
 parent_nav_short_title: Memphis
 parent_heading_title: Why Memphis Became a UFO Story Hub
@@ -252,14 +252,12 @@ image: /assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_pol
 
 The Pine Hill sighting remains the best-known [Memphis]({{ 'memphis/' | relative_url }}) UFO case because it sits in an awkward middle ground between credibility and proof. In the early hours of 17 May 1977, Memphis police officers Lamar Todd and Jerry Jeter reported seeing a large triangular object hovering near Pine Hill Golf Course in south Memphis. Their account has survived for decades because the witnesses were on-duty officers, because their descriptions were unusually detailed, and because neither man claimed a brief glimpse of a distant light. Yet the case has never produced the kind of evidence that would settle the matter: no publicly available radar record, no photographs, no recovered material and no independently verified technical data. What remains is a witness case whose strengths and weaknesses are both unusually clear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</span></span></span>
 
-
-<img src="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-1-light.svg" | relative_url }}" alt="Pine Hill case illustration 1" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-1-dark.svg" | relative_url }}" alt="Pine Hill case illustration 1" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What happened during the May 1977 patrol?
 
 According to later interviews and retellings, Todd and Jeter were conducting patrol work near Norris Road and Pine Hill Golf Course at about 3:30 a.m. when they noticed an unusual object above the area. They described it as triangular, carrying bright lights at its corners and hovering low enough to attract immediate attention. The officers reportedly left their vehicle to observe it more closely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</span></span></span>
 
 The most repeated elements of their testimony remained consistent over the years:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -273,8 +271,7 @@ The most repeated elements of their testimony remained consistent over the years
 
 One detail that became central to later retellings involved Jeter returning to the vehicle to retrieve a rifle fitted with a telescopic sight so that he could examine the object more closely. According to the story as later reported in Memphis media, the object accelerated away almost immediately afterwards. That moment became part of the case's folklore because it reinforced the impression that the object was under intelligent control, although there is no independent evidence connecting the object's departure to the officer's actions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qYJrwWIVaBk" title="UFO sightings in Middle TN grows" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qYJrwWIVaBk" target="_blank" rel="noopener noreferrer">UFO sightings in Middle TN grows</a></p><p class="youtube-embed-meta">Channel: WKRN News 2 &middot; Views: 30.5K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qYJrwWIVaBk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qYJrwWIVaBk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Lj9XiXuOCdI" title="Declassified UFO Photos over East Tennessee NUCLEAR WEAPON Facility" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Lj9XiXuOCdI" target="_blank" rel="noopener noreferrer">Declassified UFO Photos over East Tennessee NUCLEAR WEAPON Facility</a></p><p class="youtube-embed-meta">Channel: The Appalachian Storyteller &middot; Views: 17.6K &middot; Uploaded: May 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Lj9XiXuOCdI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Lj9XiXuOCdI">Open on YouTube</a></p></div></div></div>
 
 ## Why police testimony carried unusual weight
 
@@ -288,19 +285,17 @@ Supporters of the case point to several factors:
 * The officers were familiar with ordinary aircraft, vehicles and lighting conditions in Memphis.
 * Todd continued discussing the event publicly for decades, suggesting he did not later dismiss it as a mistake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</span></span></span>
 
-These points do not prove the object was extraordinary, but they do explain why the case became more influential than hundreds of routine civilian reports from the same period. Within [Tennessee]({{ 'what-keeps-tennessees-ufo-stories-alive/' | relative_url }}) UFO history, witness credibility is one of the main reasons the Pine Hill incident continues to be discussed.
+These points do not prove the object was extraordinary, but they do explain why the case became more influential than hundreds of routine civilian reports from the same period. Within Tennessee UFO history, witness credibility is one of the main reasons the Pine Hill incident continues to be discussed.
 
 At the same time, police experience has limits. Officers are not automatically experts in aviation, atmospheric optics or human perception. Night-time observations remain vulnerable to errors involving distance, size and speed estimation. A credible witness can honestly report an unusual experience while still misidentifying what was seen.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Lj9XiXuOCdI" title="Declassified UFO Photos over East Tennessee NUCLEAR WEAPON Facility" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Lj9XiXuOCdI" target="_blank" rel="noopener noreferrer">Declassified UFO Photos over East Tennessee NUCLEAR WEAPON Facility</a></p><p class="youtube-embed-meta">Channel: The Appalachian Storyteller &middot; Views: 17.6K &middot; Uploaded: May 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Lj9XiXuOCdI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Lj9XiXuOCdI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E63u90DGzyo" title="UFO files released, new TN congressional maps and local police involved in crashes 📱" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E63u90DGzyo" target="_blank" rel="noopener noreferrer">UFO files released, new TN congressional maps and local police involved in crashes 📱</a></p><p class="youtube-embed-meta">Channel: FOX NASHVILLE &middot; Views: 1.9K &middot; Uploaded: May 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E63u90DGzyo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E63u90DGzyo">Open on YouTube</a></p></div></div></div>
 
 ## The evidence investigators actually had
 
 One reason the case remains unresolved is that the strongest evidence is still testimony.
 
 The surviving public record mainly consists of:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -318,8 +313,7 @@ There is no publicly available photograph of the object. There is no known film 
 
 As a result, investigators evaluating the case have generally relied on witness reliability rather than on measurable technical evidence. That places the sighting in a category common to many famous UFO reports: impressive testimony combined with limited independent verification.
 
-
-<img src="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-2-light.svg" | relative_url }}" alt="Pine Hill case illustration 2" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-2-dark.svg" | relative_url }}" alt="Pine Hill case illustration 2" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the triangular description matters
 
 The triangular shape became one of the most memorable features of the Pine Hill report. Long before black-triangle UFO stories became widespread in the 1980s and 1990s, Todd and Jeter were describing a large triangular object with lights at its points. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: memphisflyer.com">[Memphis Flyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">memphisflyer.com</span><span class="citation-popover-title">world ufo day</span><span class="citation-popover-snippet">Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</span></span></span>
@@ -342,15 +336,13 @@ Atmospheric and perceptual factors also matter. Night observations are notorious
 
 None of these explanations has been conclusively demonstrated using surviving evidence. Equally, none of the available evidence eliminates them.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E63u90DGzyo" title="UFO files released, new TN congressional maps and local police involved in crashes 📱" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E63u90DGzyo" target="_blank" rel="noopener noreferrer">UFO files released, new TN congressional maps and local police involved in crashes 📱</a></p><p class="youtube-embed-meta">Channel: FOX NASHVILLE &middot; Views: 1.9K &middot; Uploaded: May 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E63u90DGzyo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E63u90DGzyo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qYJrwWIVaBk" title="UFO sightings in Middle TN grows" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qYJrwWIVaBk" target="_blank" rel="noopener noreferrer">UFO sightings in Middle TN grows</a></p><p class="youtube-embed-meta">Channel: WKRN News 2 &middot; Views: 30.5K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qYJrwWIVaBk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qYJrwWIVaBk">Open on YouTube</a></p></div></div></div>
 
 ## What the evidence still cannot prove
 
 The Pine Hill case remains important in Memphis UFO history because it demonstrates both the value and the limits of witness testimony.
 
 The strongest points in favour of the sighting's significance are straightforward:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -370,8 +362,7 @@ The strongest limitations are equally clear:
 
 That combination explains why the case has endured. It is neither a trivial light-in-the-sky report nor a solved mystery supported by hard data. Within the history of Tennessee UFO reports, the Pine Hill sighting remains a vivid and credible witness account whose reputation rests largely on who reported it rather than on what investigators were able to prove afterwards.
 
-
-<img src="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-3-light.svg" | relative_url }}" alt="Pine Hill case illustration 3" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-3-dark.svg" | relative_url }}" alt="Pine Hill case illustration 3" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_memphis_witness_cult_5b9f39_pine_hill_police_sig_efddeb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -795,69 +786,69 @@ That combination explains why the case has endured. It is neither a trivial ligh
 1. <a id="endnote-1"></a>
    Source: memphisflyer.com  
    Title: world ufo day  
-   Link: [https://www.memphisflyer.com/world-ufo-day/](https://www.memphisflyer.com/world-ufo-day/)  
+   Link: <a href="https://www.memphisflyer.com/world-ufo-day/" target="_blank" rel="noopener noreferrer nofollow">https://www.memphisflyer.com/world-ufo-day/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Memphis FlyerWorld UFO DayNovember 29, 1 — 2 Jul 2015 — The two officers came in peace, but the craft took off like a shot when Jeter wen...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ufocasebook.com  
-   Link: [https://www.ufocasebook.com/memphistn1977.html](https://www.ufocasebook.com/memphistn1977.html)  
+   Link: <a href="https://www.ufocasebook.com/memphistn1977.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/memphistn1977.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CasebookPolice Encounter Triangle UFO, Memphis, Tennessee-1977The two men reported seeing the object hovering over a municipal golf c...</p></details>
 
 ### Additional References
 
 3. <a id="endnote-3"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KNWAnews/posts/law-enforcement-was-just-as-perplexed-when-they-found-the-strange-object-crashed/736254835210811/](https://www.facebook.com/KNWAnews/posts/law-enforcement-was-just-as-perplexed-when-they-found-the-strange-object-crashed/736254835210811/)  
+   Link: <a href="https://www.facebook.com/KNWAnews/posts/law-enforcement-was-just-as-perplexed-when-they-found-the-strange-object-crashed/736254835210811/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KNWAnews/posts/law-enforcement-was-just-as-perplexed-when-they-found-the-strange-object-crashed/736254835210811/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Law enforcement was just as perplexed when they found...MEMPHIS TENNESSEE “A UFO that hovered over a golf course in Memphis, Tennessee w...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1788148671422069/posts/2438529543050642/](https://www.facebook.com/groups/1788148671422069/posts/2438529543050642/)  
+   Link: <a href="https://www.facebook.com/groups/1788148671422069/posts/2438529543050642/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1788148671422069/posts/2438529543050642/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting explained as police helicopter trailThe two men reported seeing the object hovering over a municipal golf course in... Memp...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
    Title: back in 1977 retired mpd captain lamar todd and his partner were patrolling sout  
-   Link: [https://www.facebook.com/61572914646454/posts/back-in-1977-retired-mpd-captain-lamar-todd-and-his-partner-were-patrolling-sout/122160278408763821/](https://www.facebook.com/61572914646454/posts/back-in-1977-retired-mpd-captain-lamar-todd-and-his-partner-were-patrolling-sout/122160278408763821/)  
+   Link: <a href="https://www.facebook.com/61572914646454/posts/back-in-1977-retired-mpd-captain-lamar-todd-and-his-partner-were-patrolling-sout/122160278408763821/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61572914646454/posts/back-in-1977-retired-mpd-captain-lamar-todd-and-his-partner-were-patrolling-sout/122160278408763821/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MAY 17, 1977 ………MEMPHIS TENNESSEE “A UFO that hovered over a golf course in Memphis, Tennessee was truly enormous, say two police officer...</p></details>
    Published: May 17, 1977  
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
    Title: v shaped ufos reported hovering over memphis highway a tennessee witness at memp  
-   Link: [https://www.facebook.com/UFOSecrecy/posts/v-shaped-ufos-reported-hovering-over-memphis-highway-a-tennessee-witness-at-memp/606595589522856/](https://www.facebook.com/UFOSecrecy/posts/v-shaped-ufos-reported-hovering-over-memphis-highway-a-tennessee-witness-at-memp/606595589522856/)  
+   Link: <a href="https://www.facebook.com/UFOSecrecy/posts/v-shaped-ufos-reported-hovering-over-memphis-highway-a-tennessee-witness-at-memp/606595589522856/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UFOSecrecy/posts/v-shaped-ufos-reported-hovering-over-memphis-highway-a-tennessee-witness-at-memp/606595589522856/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>V-shaped UFOs reported hovering over Memphis highway14 Jul 2016 — The two men reported seeing the object hovering over a municipal golf c...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/whatsoninhowlong/posts/35108819348709079/](https://www.facebook.com/groups/whatsoninhowlong/posts/35108819348709079/)  
+   Link: <a href="https://www.facebook.com/groups/whatsoninhowlong/posts/35108819348709079/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/whatsoninhowlong/posts/35108819348709079/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hovering near golf course... Memphis about three thirty in the morning of May 17, 1977. They got out of their unmarked police van and...</p></details>
    Published: May 17, 1977  
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: ta report of the day 1979marshall county sheriffs 1977 ford ltd ufo car ufo sigh  
-   Link: [https://www.facebook.com/OldSchoolCOPS/posts/ta-report-of-the-day-1979marshall-county-sheriffs-1977-ford-ltd-ufo-car-ufo-sigh/866953515991175/](https://www.facebook.com/OldSchoolCOPS/posts/ta-report-of-the-day-1979marshall-county-sheriffs-1977-ford-ltd-ufo-car-ufo-sigh/866953515991175/)  
+   Link: <a href="https://www.facebook.com/OldSchoolCOPS/posts/ta-report-of-the-day-1979marshall-county-sheriffs-1977-ford-ltd-ufo-car-ufo-sigh/866953515991175/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OldSchoolCOPS/posts/ta-report-of-the-day-1979marshall-county-sheriffs-1977-ford-ltd-ufo-car-ufo-sigh/866953515991175/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nancy... The two men reported seeing the object hovering over a municipal golf course...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=E63u90DGzyo](https://www.youtube.com/watch?v=E63u90DGzyo)  
+   Link: <a href="https://www.youtube.com/watch?v=E63u90DGzyo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E63u90DGzyo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified UFO Photos over East Tennessee NUCLEAR WEAPON Facility...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Declassified UFO Photos over East Tennessee NUCLEAR WEAPON Facility  
-   Link: [https://www.youtube.com/watch?v=Lj9XiXuOCdI](https://www.youtube.com/watch?v=Lj9XiXuOCdI)  
+   Link: <a href="https://www.youtube.com/watch?v=Lj9XiXuOCdI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lj9XiXuOCdI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nashville astronomer weighs in on Congressional UFO hearing...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: UFO sightings in Middle TN grows  
-   Link: [https://www.youtube.com/watch?v=qYJrwWIVaBk](https://www.youtube.com/watch?v=qYJrwWIVaBk)  
+   Link: <a href="https://www.youtube.com/watch?v=qYJrwWIVaBk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qYJrwWIVaBk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files released, new TN congressional maps and local police involved in crashes...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox5dc/posts/in-the-early-stages-of-the-investigation-police-said-it-appeared-the-object-did-/676434004521163/](https://www.facebook.com/fox5dc/posts/in-the-early-stages-of-the-investigation-police-said-it-appeared-the-object-did-/676434004521163/)  
+   Link: <a href="https://www.facebook.com/fox5dc/posts/in-the-early-stages-of-the-investigation-police-said-it-appeared-the-object-did-/676434004521163/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox5dc/posts/in-the-early-stages-of-the-investigation-police-said-it-appeared-the-object-did-/676434004521163/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In the early stages of the investigation, police said it...“I believe what I saw was an unidentified flying object and I believe it was...</p></details>

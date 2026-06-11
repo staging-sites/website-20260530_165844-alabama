@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-york-c7ef6c-pine-bush-ufo-town/
 description: Focused pages that expand on Pine Bush.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: New_York_c7ef6c_pine_bush_ufo_town_c2bcb6
-parent_title: Pine Bush | What Really Happened in New York's UFO...
+parent_title: Pine Bush
 parent_nav_short_title: Pine Bush
 parent_permalink: /pine-bush/
 ---

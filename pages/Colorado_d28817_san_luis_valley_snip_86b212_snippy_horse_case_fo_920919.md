@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /san-luis-valley/
 nav_short_title: Snippy
 title: Did the Snippy Horse Case Really Point to UFOs?
-title_full: Did the Snippy Horse Case Really Point to UFOs? | San Luis Valley
+title_full: Did the Snippy Horse Case Really Point to UFOs?
 display_title_short: Snippy
 display_title: Snippy
 heading_title: Did the Snippy Horse Case Really Point to UFOs?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:05:55'
-parent_title: Why the San Luis Valley Became UFO Country | Colorado UFOs
+parent_title: Why the San Luis Valley Became UFO Country
 parent_permalink: /san-luis-valley/
 parent_nav_short_title: San Luis Valley
 parent_heading_title: Why the San Luis Valley Became UFO Country
@@ -252,8 +252,7 @@ image: /assets/images/Colorado_d28817_san_luis_valley_snip_86b212_snippy_horse_c
 
 The “Snippy” case became one of the most famous UFO-linked animal stories in American history, but not because the evidence strongly pointed to extraterrestrials. Its real importance lies in how a dead horse found near Alamosa, [Colorado]({{ 'what-really-happened-in-colorados-ufo/' | relative_url }}), in 1967 was transformed by newspapers, UFO investigators and later folklore into a lasting symbol of alien mystery. The case helped connect two ideas that would recur for decades in American UFO culture: unexplained livestock deaths and unidentified flying objects. Later waves of cattle-mutilation stories across the western United States often traced their mythology back to this single incident in the [San Luis Valley]({{ 'san-luis-valley/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ourstrangeplanet.com/50-year-anniversary-of-the-snippy-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ourstrangeplanet.com">[Our Strange Planet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ourstrangeplanet.com</span><span class="citation-popover-snippet">Our Strange Planet50-Year Anniversary of the Snippy Case13 Sept 2017 — The horse probably died (or was killed) and disfigured on the nigh...</span></span></span>
 
-
-<img src="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_snippy_horse_case_fo_920919-Illustration-1-light.svg" | relative_url }}" alt="Snippy illustration 1" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_snippy_horse_case_fo_920919-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_snippy_horse_case_fo_920919-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_snippy_horse_case_fo_920919-Illustration-1-dark.svg" | relative_url }}" alt="Snippy illustration 1" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_snippy_horse_case_fo_920919-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_snippy_horse_case_fo_920919-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What makes the story historically interesting is the gap between the dramatic public narrative and the much weaker underlying evidence. Contemporary reporting described precise surgical cuts, missing blood, radiation traces and even signs of a UFO landing. Yet later investigations, including work associated with the University of Colorado’s Condon Committee, found little reason to treat the case as genuinely inexplicable. The story survived anyway, largely because it arrived at exactly the right cultural moment: late-1960s America, when flying-saucer fascination, distrust of authority and sensational tabloid reporting were feeding one another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Final Report of the. Scienti fj c Study of Un;,dentified Flying Objects condllcted by the &#x27;in:&#x27;,ers i ty of Colorado under contract to t~...</span></span></span>
 
 ## What witnesses claimed happened in 1967
@@ -265,7 +264,6 @@ Early newspaper accounts immediately framed the scene as bizarre and possibly su
 Those details mattered because they encouraged readers to interpret the death as something beyond ordinary ranch life. A normal animal death followed by scavenger activity could suddenly be recast as evidence of technology, experimentation or alien intervention. Newspaper headlines pushed that interpretation hard. Stories with titles such as “Flying Saucers Killed My Horse!” spread nationally within days. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
 
 The setting also amplified the effect. The San Luis Valley already possessed a reputation for unusual lights and isolated landscapes. Wide skies, sparse population and local UFO rumours created an atmosphere in which ambiguous events could quickly become extraordinary stories. The Snippy case did not create that reputation on its own, but it gave the valley a vivid and memorable narrative anchor.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1ryEktN2CVA" title="What Happened To Snippy? | Unsolved &amp; Unkempt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1ryEktN2CVA" target="_blank" rel="noopener noreferrer">What Happened To Snippy? | Unsolved &amp; Unkempt</a></p><p class="youtube-embed-meta">Channel: Raleigh Link &middot; Views: 59.9K &middot; Uploaded: May 2023 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1ryEktN2CVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1ryEktN2CVA">Open on YouTube</a></p></div></div></div>
 
@@ -281,8 +279,7 @@ Third, the case appeared during a broader American UFO boom. The late 1960s saw 
 
 The horse itself also became visually iconic. Photographs of the skeletal remains circulated widely and created a stronger emotional impression than the available evidence justified. The image of a mutilated animal in an empty Colorado landscape proved ideal material for tabloids, documentaries and later television specials.
 
-
-<img src="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_snippy_horse_case_fo_920919-Illustration-2-light.svg" | relative_url }}" alt="Snippy illustration 2" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_snippy_horse_case_fo_920919-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_snippy_horse_case_fo_920919-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_snippy_horse_case_fo_920919-Illustration-2-dark.svg" | relative_url }}" alt="Snippy illustration 2" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_snippy_horse_case_fo_920919-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_snippy_horse_case_fo_920919-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Condon Committee and sceptical explanations
 
 The Snippy story became prominent enough to attract attention from investigators linked to the University of Colorado UFO study, better known as the Condon Committee. The committee had been funded by the US Air Force to evaluate UFO reports scientifically during the late 1960s. Its broader conclusion was that UFO study was unlikely to produce major scientific discoveries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_in_film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 in film</span><span class="citation-popover-snippet">1967 in filmFilm debuts · Alice Arno – Only a Coffin · Luke Askew – Hurry Sundown · Joe Don Baker – Cool Hand Luke · Robby Benson – Wa...</span></span></span>
@@ -290,7 +287,6 @@ The Snippy story became prominent enough to attract attention from investigators
 Investigators found no convincing evidence that the horse’s death involved anything paranormal or extraterrestrial. The committee concluded there was “no evidence” connecting the death with abnormal causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mutilation_of_%22Snippy%22_the_horse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mutilation of &quot;Snippy&quot; the horse</span><span class="citation-popover-snippet">Mutilation of &quot;Snippy&quot; the horse</span></span></span>
 
 Sceptical explanations focused on a combination of ordinary animal death, scavenger activity and exaggeration during retelling. Several details that sounded mysterious in newspapers looked less extraordinary under scrutiny:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -307,7 +303,6 @@ Even among civilian UFO researchers, not everyone accepted the extraterrestrial 
 
 The gap between public excitement and investigative conclusions became a recurring pattern in UFO history. Dramatic early reports generated attention, while quieter follow-up investigations attracted far less notice.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U-l3cKx0K1Y" title="UFO Watchtower - Snippy the Alien Abducted Horse - Alligators in Colorado - Great Sand Dunes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U-l3cKx0K1Y" target="_blank" rel="noopener noreferrer">UFO Watchtower - Snippy the Alien Abducted Horse - Alligators in Colorado - Great Sand Dunes</a></p><p class="youtube-embed-meta">Channel: The Carpetbagger &middot; Views: 28.3K &middot; Uploaded: July 2025 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U-l3cKx0K1Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U-l3cKx0K1Y">Open on YouTube</a></p></div></div></div>
 
 ## How Snippy became a lasting Colorado UFO relic
@@ -317,7 +312,6 @@ The real historical importance of Snippy lies in cultural influence rather than 
 Paranormal writers helped keep the story alive. Authors such as John Keel incorporated the case into wider UFO mythology, linking it to ideas about mysterious aerial phenomena and non-human intelligence. Later investigator Linda Moulton Howe revisited the story during the height of cattle-mutilation fears in the 1970s and 1980s, helping embed it within modern alien folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1967_in_film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1967 in film</span><span class="citation-popover-snippet">1967 in filmFilm debuts · Alice Arno – Only a Coffin · Luke Askew – Hurry Sundown · Joe Don Baker – Cool Hand Luke · Robby Benson – Wa...</span></span></span>
 
 Over time, the story shifted from reported incident to tourist heritage. The preserved remains associated with Snippy eventually became part of the San Luis Valley’s UFO economy and were later displayed at the UFO [Watchtower]({{ 'watchtower/' | relative_url }}) near Hooper. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gazette.com/2022/05/22/ufo-legend-horse-found-dead-and-mutilated-55-years-ago-in-colorado-gets-new-life-at-roadside-attraction-130b0e6c-ca4a-11ec-af09-ffeb7d7ab0f4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazette.com">[gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazette.com</span><span class="citation-popover-snippet">UFO legend: Horse found dead and mutilated 55 years ago...22 May 2022 — UFO legend: Horse found dead and mutilated 55 years ago in Color...</span><span class="citation-popover-meta">Published: May 2022</span></span></span> That transition says a great deal about Colorado’s UFO culture. The state’s enduring reputation does not depend mainly on proven extraterrestrial encounters. Instead, it rests on a mixture of local storytelling, dramatic landscapes, recurring sightings, roadside attractions and unresolved folklore. Snippy survives because the story captures all of those elements at once.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Npe0yNZasqw" title="The Animal Connection to the Gods | Ancient Aliens | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Npe0yNZasqw" target="_blank" rel="noopener noreferrer">The Animal Connection to the Gods | Ancient Aliens | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 105.5K &middot; Uploaded: October 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Npe0yNZasqw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Npe0yNZasqw">Open on YouTube</a></p></div></div></div>
 
@@ -329,8 +323,7 @@ Yet dismissing the story entirely misses why it matters within Colorado UFO hist
 
 Within the wider history of the San Luis Valley, Snippy functions less as evidence of aliens and more as the founding myth of a regional UFO identity. It helped turn southern Colorado into one of the country’s best-known centres for UFO tourism and paranormal storytelling, a reputation that still shapes the valley’s image decades later.
 
-
-<img src="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_snippy_horse_case_fo_920919-Illustration-3-light.svg" | relative_url }}" alt="Snippy illustration 3" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_snippy_horse_case_fo_920919-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_snippy_horse_case_fo_920919-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_snippy_horse_case_fo_920919-Illustration-3-dark.svg" | relative_url }}" alt="Snippy illustration 3" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_snippy_horse_case_fo_920919-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_san_luis_valley_snip_86b212_snippy_horse_case_fo_920919-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -754,107 +747,107 @@ Within the wider history of the San Luis Valley, Snippy functions less as eviden
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Mutilation of "Snippy" the horse  
-   Link: [https://en.wikipedia.org/wiki/Mutilation_of_%22Snippy%22_the_horse](https://en.wikipedia.org/wiki/Mutilation_of_%22Snippy%22_the_horse)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mutilation_of_%22Snippy%22_the_horse" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mutilation_of_%22Snippy%22_the_horse</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: [https://en.wikipedia.org/wiki/Condon_Committee](https://en.wikipedia.org/wiki/Condon_Committee)  
+   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
 
 3. <a id="endnote-3"></a>
    Source: gazette.com  
-   Link: [https://gazette.com/2022/05/22/ufo-legend-horse-found-dead-and-mutilated-55-years-ago-in-colorado-gets-new-life-at-roadside-attraction-130b0e6c-ca4a-11ec-af09-ffeb7d7ab0f4/](https://gazette.com/2022/05/22/ufo-legend-horse-found-dead-and-mutilated-55-years-ago-in-colorado-gets-new-life-at-roadside-attraction-130b0e6c-ca4a-11ec-af09-ffeb7d7ab0f4/)  
+   Link: <a href="https://gazette.com/2022/05/22/ufo-legend-horse-found-dead-and-mutilated-55-years-ago-in-colorado-gets-new-life-at-roadside-attraction-130b0e6c-ca4a-11ec-af09-ffeb7d7ab0f4/" target="_blank" rel="noopener noreferrer nofollow">https://gazette.com/2022/05/22/ufo-legend-horse-found-dead-and-mutilated-55-years-ago-in-colorado-gets-new-life-at-roadside-attraction-130b0e6c-ca4a-11ec-af09-ffeb7d7ab0f4/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO legend: Horse found dead and mutilated 55 years ago...22 May 2022 — UFO legend: Horse found dead and mutilated 55 years ago in Color...</p></details>
    Published: May 2022  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/1967](https://en.wikipedia.org/wiki/1967)  
+   Link: <a href="https://en.wikipedia.org/wiki/1967" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1967</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>19671967 (MCMLXVII) was a common year starting on Sunday of the Gregorian calendar, the 1967th year of the Common Era (CE) and Anno Do...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: 1967 in film  
-   Link: [https://en.wikipedia.org/wiki/1967_in_film](https://en.wikipedia.org/wiki/1967_in_film)  
+   Link: <a href="https://en.wikipedia.org/wiki/1967_in_film" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1967_in_film</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1967 in filmFilm debuts · Alice Arno – Only a Coffin · Luke Askew – Hurry Sundown · Joe Don Baker – Cool Hand Luke · Robby Benson – Wa...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: UFO Watchtower  
-   Link: [https://www.youtube.com/watch?v=U-l3cKx0K1Y](https://www.youtube.com/watch?v=U-l3cKx0K1Y)  
+   Link: <a href="https://www.youtube.com/watch?v=U-l3cKx0K1Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U-l3cKx0K1Y</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Colorado&#x27;s Strangest Mysteries Just Got Weirder...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ourstrangeplanet.com  
-   Link: [https://www.ourstrangeplanet.com/50-year-anniversary-of-the-snippy-case/](https://www.ourstrangeplanet.com/50-year-anniversary-of-the-snippy-case/)  
+   Link: <a href="https://www.ourstrangeplanet.com/50-year-anniversary-of-the-snippy-case/" target="_blank" rel="noopener noreferrer nofollow">https://www.ourstrangeplanet.com/50-year-anniversary-of-the-snippy-case/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our Strange Planet50-Year Anniversary of the Snippy Case13 Sept 2017 — The horse probably died (or was killed) and disfigured on the nigh...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf](https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Final Report of the. Scienti fj c Study of Un;,dentified Flying Objects condllcted by the &#x27;in:&#x27;,ers i ty of Colorado under contract to t~...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/year/1967/](https://www.imdb.com/year/1967/)  
+   Link: <a href="https://www.imdb.com/year/1967/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/year/1967/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1967No information is available for this page...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: denvergazette.com  
-   Link: [https://www.denvergazette.com/2021/11/24/looking-back-ufo-blamed-for-horse-mutilation-in-colorado-3011fe21-575b-5545-a2b6-7d5ef9c93601/](https://www.denvergazette.com/2021/11/24/looking-back-ufo-blamed-for-horse-mutilation-in-colorado-3011fe21-575b-5545-a2b6-7d5ef9c93601/)  
+   Link: <a href="https://www.denvergazette.com/2021/11/24/looking-back-ufo-blamed-for-horse-mutilation-in-colorado-3011fe21-575b-5545-a2b6-7d5ef9c93601/" target="_blank" rel="noopener noreferrer nofollow">https://www.denvergazette.com/2021/11/24/looking-back-ufo-blamed-for-horse-mutilation-in-colorado-3011fe21-575b-5545-a2b6-7d5ef9c93601/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LOOKING BACK: UFO blamed for horse mutilation in...24 Nov 2021 — “Flying Saucer Sought in Death of Horse,” read a headline following the...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=1ryEktN2CVA](https://www.youtube.com/watch?v=1ryEktN2CVA)  
+   Link: <a href="https://www.youtube.com/watch?v=1ryEktN2CVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1ryEktN2CVA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Happened To Snippy? | Unsolved &amp; UnkemptWouldn&#x27;t wild animals, even vultures, try to consume the body after death? Snippy looked cle...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: alamosanews.com  
    Title: after 50 years snippy still a mystery,36843  
-   Link: [https://www.alamosanews.com/stories/after-50-years-snippy-still-a-mystery%2C36843](https://www.alamosanews.com/stories/after-50-years-snippy-still-a-mystery%2C36843)  
+   Link: <a href="https://www.alamosanews.com/stories/after-50-years-snippy-still-a-mystery%2C36843" target="_blank" rel="noopener noreferrer nofollow">https://www.alamosanews.com/stories/after-50-years-snippy-still-a-mystery%2C36843</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>After 50 years, Snippy still a mystery29 Sept 2017 — The mutilation was blamed on space aliens, but those who didn&#x27;t believe stories of f...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: audible.com  
-   Link: [https://www.audible.com/pd/Snippy-the-Horse-UFOs-Mutilations-the-Cover-Up-That-Started-It-All-Audiobook/B0F92WK6TB?srsltid=AfmBOooPSrsTzjEIV8M8TCAKDj8RWe6GyMK3HJKqIuFZ53YdzF0vABfj](https://www.audible.com/pd/Snippy-the-Horse-UFOs-Mutilations-the-Cover-Up-That-Started-It-All-Audiobook/B0F92WK6TB?srsltid=AfmBOooPSrsTzjEIV8M8TCAKDj8RWe6GyMK3HJKqIuFZ53YdzF0vABfj)  
+   Link: <a href="https://www.audible.com/pd/Snippy-the-Horse-UFOs-Mutilations-the-Cover-Up-That-Started-It-All-Audiobook/B0F92WK6TB?srsltid=AfmBOooPSrsTzjEIV8M8TCAKDj8RWe6GyMK3HJKqIuFZ53YdzF0vABfj" target="_blank" rel="noopener noreferrer nofollow">https://www.audible.com/pd/Snippy-the-Horse-UFOs-Mutilations-the-Cover-Up-That-Started-It-All-Audiobook/B0F92WK6TB?srsltid=AfmBOooPSrsTzjEIV8M8TCAKDj8RWe6GyMK3HJKqIuFZ53YdzF0vABfj</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Snippy the Horse: UFOs, Mutilations &amp; the Cover-Up That...Snippy the horse hit the newspapers on October 5, 1967, with an impact felt ar...</p></details>
    Published: October 5, 1967  
 
 14. <a id="endnote-14"></a>
    Source: efsa.europa.eu  
    Title: eu Mutilations and blood collections in Equidae  
-   Link: [https://www.efsa.europa.eu/sites/default/files/2024-06/4-mutilations-and-blood-collections-in-horses.pdf](https://www.efsa.europa.eu/sites/default/files/2024-06/4-mutilations-and-blood-collections-in-horses.pdf)  
+   Link: <a href="https://www.efsa.europa.eu/sites/default/files/2024-06/4-mutilations-and-blood-collections-in-horses.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.efsa.europa.eu/sites/default/files/2024-06/4-mutilations-and-blood-collections-in-horses.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 2. 38 European Countries. More than 300.000 members. Page 3. Page 4. Mutilations. Blood collections. Equidae...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skinwalkers/comments/en3dfy/a_skinwalker_killed_my_horse/](https://www.reddit.com/r/skinwalkers/comments/en3dfy/a_skinwalker_killed_my_horse/)  
+   Link: <a href="https://www.reddit.com/r/skinwalkers/comments/en3dfy/a_skinwalker_killed_my_horse/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkers/comments/en3dfy/a_skinwalker_killed_my_horse/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the skin around the eyes being gone as...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: contactinthedesert.com  
    Title: snippy the surge of mutilations  
-   Link: [https://contactinthedesert.com/beyond-contact/snippy-the-surge-of-mutilations/](https://contactinthedesert.com/beyond-contact/snippy-the-surge-of-mutilations/)  
+   Link: <a href="https://contactinthedesert.com/beyond-contact/snippy-the-surge-of-mutilations/" target="_blank" rel="noopener noreferrer nofollow">https://contactinthedesert.com/beyond-contact/snippy-the-surge-of-mutilations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Snippy &amp; The Surge of Mutilations1 Oct 2024 — Cattle mutilations were unheard of until 1967, when the discovery of a horse&#x27;s corpse spark...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: historic-newspapers.com  
    Title: a year in history 1967 timeline  
-   Link: [https://www.historic-newspapers.com/en-gb/blogs/article/a-year-in-history-1967-timeline?srsltid=AfmBOoo8p4HGGBlyVI9PEoKQ9v2RydwMzOTRcZXJeHUyekuBxYz_hMzp](https://www.historic-newspapers.com/en-gb/blogs/article/a-year-in-history-1967-timeline?srsltid=AfmBOoo8p4HGGBlyVI9PEoKQ9v2RydwMzOTRcZXJeHUyekuBxYz_hMzp)  
+   Link: <a href="https://www.historic-newspapers.com/en-gb/blogs/article/a-year-in-history-1967-timeline?srsltid=AfmBOoo8p4HGGBlyVI9PEoKQ9v2RydwMzOTRcZXJeHUyekuBxYz_hMzp" target="_blank" rel="noopener noreferrer nofollow">https://www.historic-newspapers.com/en-gb/blogs/article/a-year-in-history-1967-timeline?srsltid=AfmBOoo8p4HGGBlyVI9PEoKQ9v2RydwMzOTRcZXJeHUyekuBxYz_hMzp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Year in History: 1967 Timeline25 Sept 2025 — THE YEAR 1967 was a turning point in modern history, defined by seismic global conflicts...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: history.denverlibrary.org  
    Title: ufos and horse called snippy  
-   Link: [https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy](https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy)  
+   Link: <a href="https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy" target="_blank" rel="noopener noreferrer nofollow">https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and a Horse Called Snippy20 Oct 2020 — Snippy is mutilated Alamosa County Thur. September 7, 1967. Another... The horse and cattle mutil...</p></details>
    Published: September 7, 1967  
 
 19. <a id="endnote-19"></a>
    Source: 95rockfm.com  
    Title: colorado cattle mutilation  
-   Link: [https://95rockfm.com/colorado-cattle-mutilation/](https://95rockfm.com/colorado-cattle-mutilation/)  
+   Link: <a href="https://95rockfm.com/colorado-cattle-mutilation/" target="_blank" rel="noopener noreferrer nofollow">https://95rockfm.com/colorado-cattle-mutilation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Caused The Cattle Mutilation Panic In Colorado?2 Sept 2025 — A three-year-old horse named Lady, later misnamed as Snippy, was... Al...</p></details>

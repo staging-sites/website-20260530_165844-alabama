@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /modern-reports-627edd/
 nav_short_title: Database Patterns
 title: Understanding Indiana UFO Reports Through NUFORC Data Patterns
-title_full: Understanding Indiana UFO Reports Through NUFORC Data Patterns | Modern Reports
+title_full: Understanding Indiana UFO Reports Through NUFORC Data Patterns
 display_title_short: Database Patterns
 display_title: Database Patterns
 heading_title: Understanding Indiana UFO Reports Through NUFORC Data Patterns
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:24:12'
-parent_title: How Contemporary Indiana UFO Sightings Are Catalogued and Evaluated | Indiana UFOs
+parent_title: How Contemporary Indiana UFO Sightings Are Catalogued and Evaluated
 parent_permalink: /modern-reports-627edd/
 parent_nav_short_title: Modern Reports
 parent_heading_title: How Contemporary Indiana UFO Sightings Are Catalogued and Evaluated
@@ -250,10 +250,9 @@ image: /assets/images/Indiana_5d00be_modern_reports_datab_ac68f4_indiana_ufo_dat
 
 ## Introduction
 
-[Indiana]({{ 'what-makes-indianas-ufo-history-unique/' | relative_url }})’s modern UFO record is shaped as much by databases, reporting habits and media attention as by whatever people believe they saw in the sky. Public indexes such as the National UFO Reporting Center (NUFORC) create the impression of a large, searchable archive of unexplained events, but the data often reveal patterns in human reporting rather than patterns in confirmed anomalies. Indiana’s entries cluster around larger cities, active media markets and periods of heightened public interest, while many individual reports remain too brief or weakly documented to verify independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location USA</span><span class="citation-popover-snippet">NUFORCNUFORC Reports by LocationUSA - Delaware, 448. USA - Florida, 8867. USA - Georgia, 2942. USA - Guam, 3. USA - Hawaii, 706. USA - Io...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacker.com/stories/indiana/cities-most-ufo-sightings-indiana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Indiana</span><span class="citation-popover-snippet">StackerCities With the Most UFO Sightings in IndianaMay 12, 2025 — Stacker compiled a ranking of cities with the most UFO sightings in In...</span><span class="citation-popover-meta">Published: May 12, 2025</span></span></span>
+Indiana’s modern UFO record is shaped as much by databases, reporting habits and media attention as by whatever people believe they saw in the sky. Public indexes such as the National UFO Reporting Center (NUFORC) create the impression of a large, searchable archive of unexplained events, but the data often reveal patterns in human reporting rather than patterns in confirmed anomalies. Indiana’s entries cluster around larger cities, active media markets and periods of heightened public interest, while many individual reports remain too brief or weakly documented to verify independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location USA</span><span class="citation-popover-snippet">NUFORC Reports by LocationUSA - Delaware, 448. USA - Florida, 8867. USA - Georgia, 2942. USA - Guam, 3. USA - Hawaii, 706. USA - Io...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacker.com/stories/indiana/cities-most-ufo-sightings-indiana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Indiana</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in IndianaMay 12, 2025 — Stacker compiled a ranking of cities with the most UFO sightings in In...</span><span class="citation-popover-meta">Published: May 12, 2025</span></span></span>
 
-
-<img src="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4_indiana_ufo_database_b1ed85-Illustration-1-light.svg" | relative_url }}" alt="Database Patterns illustration 1" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4_indiana_ufo_database_b1ed85-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4_indiana_ufo_database_b1ed85-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4_indiana_ufo_database_b1ed85-Illustration-1-dark.svg" | relative_url }}" alt="Database Patterns illustration 1" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4_indiana_ufo_database_b1ed85-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4_indiana_ufo_database_b1ed85-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That does not make the databases useless. They are valuable for tracking how sightings are distributed across the state, which types of objects are most often reported, and how public attention changes over time. But the databases also have important limits: duplicate reports, uncertain witness estimates, incomplete follow-up, and strong selection effects. Understanding those limits is essential before treating Indiana’s UFO maps or raw sighting totals as evidence of extraordinary activity.
 
 ## Geographic and temporal clustering of Indiana sightings
@@ -261,7 +260,6 @@ That does not make the databases useless. They are valuable for tracking how sig
 NUFORC’s Indiana index shows clear geographic concentration around populated corridors such as Indianapolis, Fort Wayne, Evansville, South Bend and the suburban belt around central Indiana. Stacker’s city-by-city analysis of NUFORC data found Indianapolis leading the state, with other population centres consistently producing higher report totals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacker.com/stories/indiana/see-how-many-ufo-sightings-have-occurred-indiana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">see how many ufo sightings have occurred indiana</span><span class="citation-popover-snippet">See How Many UFO Sightings Have Occurred in IndianaDec 21, 2021 — Using data from NUFORC&#x27;s 24/7 hotline, which has been around since 1974...</span></span></span>
 
 At first glance, those concentrations can appear dramatic. A reader browsing the Indiana database may see dozens of reports clustered in particular counties or recurring reports from the same urban region. Yet those clusters usually align closely with predictable social factors:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -277,9 +275,9 @@ This means Indiana’s UFO geography is partly demographic geography. A county w
 
 Temporal clustering is equally important. Reports often spike during nationally publicised UFO discussions, major media coverage or viral online stories. Large jumps in reporting can occur after documentaries, Pentagon disclosures or highly visible astronomical events. The databases therefore capture waves of public attention as well as sightings themselves.
 
-The structure of NUFORC’s archive also contributes to this effect. The system allows reports to be filed long after the event occurred, meaning that some “waves” partly reflect renewed interest rather than a sudden burst of new observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">NUFORCData Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span>
+The structure of NUFORC’s archive also contributes to this effect. The system allows reports to be filed long after the event occurred, meaning that some “waves” partly reflect renewed interest rather than a sudden burst of new observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span>
 
-Indiana follows the same broad pattern seen nationally. The state has a substantial number of reports, but not an unusually exceptional level compared with neighbouring Midwestern states. Illinois, Michigan and Ohio all show larger totals in NUFORC’s location index, broadly tracking population size and reporting culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">All NUFORC Reports</span><span class="citation-popover-snippet">NUFORCAll NUFORC ReportsAugust 20, 2023 — All NUFORC Reports.; Open, 05/23/2026 09:35, Chalfont; Open, 05/23/2026 01:10, Eagle; Open...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+Indiana follows the same broad pattern seen nationally. The state has a substantial number of reports, but not an unusually exceptional level compared with neighbouring Midwestern states. Illinois, Michigan and Ohio all show larger totals in NUFORC’s location index, broadly tracking population size and reporting culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">All NUFORC Reports</span><span class="citation-popover-snippet">All NUFORC ReportsAugust 20, 2023 — All NUFORC Reports.; Open, 05/23/2026 09:35, Chalfont; Open, 05/23/2026 01:10, Eagle; Open...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 ## Why raw sighting counts can mislead
 
@@ -290,7 +288,6 @@ A single event can generate many entries. Bright meteor activity, Starlink satel
 Witness descriptions also vary sharply even for identical events. One observer may describe a “silent triangle”, another a “hovering light”, and another a “sphere”. These labels are usually entered from witness perception rather than from independent technical analysis. NUFORC’s classification system reflects reported impressions, not confirmed object types. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lIN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State INNUFORC Reports for State IN.; Open, 10/26/2024 19:45, Decatur; Open, 10/25/2024 22:57, Indianapolis; Open...</span></span></span>
 
 Indiana’s database illustrates several recurring reporting distortions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -303,7 +300,6 @@ Indiana’s database illustrates several recurring reporting distortions:
 </div>
 
 These issues matter because UFO databases are often read visually. A long list of reports can create a strong impression of accumulating evidence even when many entries describe ordinary or weakly documented phenomena.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.3K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
 
@@ -327,7 +323,6 @@ Despite their weaknesses, Indiana UFO databases remain useful for several kinds 
 
 Large archives make it easier to identify recurring themes. Indiana reports repeatedly feature:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Bright moving lights at night.
@@ -340,8 +335,7 @@ Large archives make it easier to identify recurring themes. Indiana reports repe
 
 Because these descriptions recur so often, investigators can compare new cases against known patterns rather than treating every report as unique.
 
-
-<img src="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4_indiana_ufo_database_b1ed85-Illustration-2-light.svg" | relative_url }}" alt="Database Patterns illustration 2" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4_indiana_ufo_database_b1ed85-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4_indiana_ufo_database_b1ed85-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4_indiana_ufo_database_b1ed85-Illustration-2-dark.svg" | relative_url }}" alt="Database Patterns illustration 2" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4_indiana_ufo_database_b1ed85-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4_indiana_ufo_database_b1ed85-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Tracking reporting behaviour
 
 The databases also reveal how witnesses behave. Many Indiana reports occur shortly after sunset, during weekends or during periods of good weather when more people are outdoors. These behavioural patterns are important because they remind researchers that visibility and human activity affect reporting frequency.
@@ -356,15 +350,13 @@ The archive also demonstrates how many reports remain unresolved simply because 
 
 That point is crucial for interpreting Indiana reports. “Unidentified” often means “insufficient information”, not “alien spacecraft”.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YdD7Tw2sHfQ" title="US releases files on UFOs, decades of sightings revealed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YdD7Tw2sHfQ" target="_blank" rel="noopener noreferrer">US releases files on UFOs, decades of sightings revealed</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 63.8K &middot; Uploaded: May 2026 &middot; Length: 1 minute 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YdD7Tw2sHfQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YdD7Tw2sHfQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lTGJt7Gho0w" title="Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer">Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves</a></p><p class="youtube-embed-meta">Channel: iConnections &middot; Views: 262 &middot; Uploaded: April 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lTGJt7Gho0w">Open on YouTube</a></p></div></div></div>
 
 ## Evaluating dramatic witness descriptions
 
 Indiana’s databases contain many vivid narratives involving silent craft, unusual manoeuvres or glowing triangular objects. Such accounts are often the most memorable entries, but dramatic language alone does not automatically increase evidential value.
 
 Investigators usually look for additional factors:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -383,14 +375,12 @@ This creates a tension common across UFO reporting. Eyewitness testimony is ofte
 
 NASA’s independent UAP report highlighted this broader problem directly, arguing that the main obstacle in UAP research is not the absence of reports but the absence of consistent, high-quality observational data. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span> Indiana’s databases illustrate that challenge clearly. The state contains thousands of reports, yet only a small fraction provide enough information for meaningful technical analysis.
 
-
-<img src="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4_indiana_ufo_database_b1ed85-Illustration-3-light.svg" | relative_url }}" alt="Database Patterns illustration 3" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4_indiana_ufo_database_b1ed85-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4_indiana_ufo_database_b1ed85-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4_indiana_ufo_database_b1ed85-Illustration-3-dark.svg" | relative_url }}" alt="Database Patterns illustration 3" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4_indiana_ufo_database_b1ed85-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4_indiana_ufo_database_b1ed85-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why “unresolved” does not necessarily mean mysterious
 
 One of the easiest mistakes in reading UFO databases is treating unresolved entries as inherently extraordinary. Indiana’s archive contains many cases labelled “unknown”, “unidentified” or simply left open without explanation. That wording can sound dramatic, but the underlying reason is often mundane: there was not enough information to decide.
 
 A brief report like “orange light moved silently across sky” may remain unresolved forever because investigators lack:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -407,10 +397,9 @@ In practical terms, the case becomes impossible to reconstruct properly.
 
 This distinction matters because online UFO culture sometimes treats unresolved cases as cumulative proof of something anomalous. Indiana’s reporting record suggests a more cautious interpretation. Large databases naturally accumulate unresolved entries whenever the available evidence is fragmentary.
 
-The problem becomes more visible as databases grow larger. NUFORC itself presents an enormous archive covering decades of public submissions, but the size of the collection does not guarantee uniform quality or investigative depth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
+The problem becomes more visible as databases grow larger. NUFORC itself presents an enormous archive covering decades of public submissions, but the size of the collection does not guarantee uniform quality or investigative depth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lTGJt7Gho0w" title="Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer">Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves</a></p><p class="youtube-embed-meta">Channel: iConnections &middot; Views: 262 &middot; Uploaded: April 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lTGJt7Gho0w">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YdD7Tw2sHfQ" title="US releases files on UFOs, decades of sightings revealed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YdD7Tw2sHfQ" target="_blank" rel="noopener noreferrer">US releases files on UFOs, decades of sightings revealed</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 63.8K &middot; Uploaded: May 2026 &middot; Length: 1 minute 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YdD7Tw2sHfQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YdD7Tw2sHfQ">Open on YouTube</a></p></div></div></div>
 
 ## What Indiana’s UFO databases ultimately reveal
 
@@ -508,7 +497,7 @@ Indiana’s modern UFO record therefore works best as a study in patterns, perce
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -518,111 +507,36 @@ Indiana’s modern UFO record therefore works best as a study in patterns, perce
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -630,15 +544,15 @@ Indiana’s modern UFO record therefore works best as a study in patterns, perce
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -646,15 +560,15 @@ Indiana’s modern UFO record therefore works best as a study in patterns, perce
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -662,15 +576,15 @@ Indiana’s modern UFO record therefore works best as a study in patterns, perce
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -678,7 +592,7 @@ Indiana’s modern UFO record therefore works best as a study in patterns, perce
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=database-patterns-understanding-indiana-ufo-reports-through-nuforc-data-patterns-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="understanding-indiana-ufo-reports-through-nuforc-data-patterns-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -755,17 +669,31 @@ Indiana’s modern UFO record therefore works best as a study in patterns, perce
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -778,42 +706,73 @@ Indiana’s modern UFO record therefore works best as a study in patterns, perce
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -828,12 +787,17 @@ Indiana’s modern UFO record therefore works best as a study in patterns, perce
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -844,109 +808,109 @@ Indiana’s modern UFO record therefore works best as a study in patterns, perce
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports by LocationUSA - Delaware, 448. USA - Florida, 8867. USA - Georgia, 2942. USA - Guam, 3. USA - Hawaii, 706. USA - Io...</p></details>
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationUSA - Delaware, 448. USA - Florida, 8867. USA - Georgia, 2942. USA - Guam, 3. USA - Hawaii, 706. USA - Io...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: stacker.com  
    Title: Cities With the Most UFO Sightings in Indiana  
-   Link: [https://stacker.com/stories/indiana/cities-most-ufo-sightings-indiana](https://stacker.com/stories/indiana/cities-most-ufo-sightings-indiana)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StackerCities With the Most UFO Sightings in IndianaMay 12, 2025 — Stacker compiled a ranking of cities with the most UFO sightings in In...</p></details>
+   Link: <a href="https://stacker.com/stories/indiana/cities-most-ufo-sightings-indiana" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/indiana/cities-most-ufo-sightings-indiana</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cities With the Most UFO Sightings in IndianaMay 12, 2025 — Stacker compiled a ranking of cities with the most UFO sightings in In...</p></details>
    Published: May 12, 2025  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCData Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
    Title: All NUFORC Reports  
-   Link: [https://nuforc.org/subndx/?id=all](https://nuforc.org/subndx/?id=all)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCAll NUFORC ReportsAugust 20, 2023 — All NUFORC Reports.; Open, 05/23/2026 09:35, Chalfont; Open, 05/23/2026 01:10, Eagle; Open...</p></details>
+   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>All NUFORC ReportsAugust 20, 2023 — All NUFORC Reports.; Open, 05/23/2026 09:35, Chalfont; Open, 05/23/2026 01:10, Eagle; Open...</p></details>
    Published: August 20, 2023  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lIN](https://nuforc.org/subndx/?id=lIN)  
+   Link: <a href="https://nuforc.org/subndx/?id=lIN" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lIN</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State INNUFORC Reports for State IN.; Open, 10/26/2024 19:45, Decatur; Open, 10/25/2024 22:57, Indianapolis; Open...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently co...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe limitation on this data is that at any given time most of the. Earth&#x27;s surface is not covere...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/nasa-ufos-aliens-report-2023](https://www.wired.com/story/nasa-ufos-aliens-report-2023)  
+   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNational UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: stacker.com  
    Title: see how many ufo sightings have occurred indiana  
-   Link: [https://stacker.com/stories/indiana/see-how-many-ufo-sightings-have-occurred-indiana](https://stacker.com/stories/indiana/see-how-many-ufo-sightings-have-occurred-indiana)  
+   Link: <a href="https://stacker.com/stories/indiana/see-how-many-ufo-sightings-have-occurred-indiana" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/indiana/see-how-many-ufo-sightings-have-occurred-indiana</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>See How Many UFO Sightings Have Occurred in IndianaDec 21, 2021 — Using data from NUFORC&#x27;s 24/7 hotline, which has been around since 1974...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lME](https://nuforc.org/subndx/?id=lME)  
+   Link: <a href="https://nuforc.org/subndx/?id=lME" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lME</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State MENUFORC Reports for State ME.; Open, 10/02/2024 22:15, Ellsworth; Open, 09/27/2024 20:41, Dixmont; Open, 08/...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=e200110](https://nuforc.org/subndx/?id=e200110)  
+   Link: <a href="https://nuforc.org/subndx/?id=e200110" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e200110</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 200110NUFORC Reports for Month 200110.; Open, 10/31/2001 23:30, Clinton; Open, 10/31/2001 22:10, Denver; Open...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=highlights](https://nuforc.org/subndx/?id=highlights)  
+   Link: <a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Highlighted NUFORC ReportsLink, Occurred, City, State, Country, Shape. Open! 05/19/2026 21:48, Erattupetta, Kerala, India, Triangle. Ope...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=136313](https://nuforc.org/sighting/?id=136313)  
+   Link: <a href="https://nuforc.org/sighting/?id=136313" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=136313</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 136313Reported: 2017-09-23 00:26 Pacific Duration: &gt;40 minutes. No of observers: 1. Location: Indianapolis, IN, USA S...</p></details>
    Published: September 23, 2017  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=80321](https://nuforc.org/sighting/?id=80321)  
+   Link: <a href="https://nuforc.org/sighting/?id=80321" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=80321</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 80321Location: Fishers, IN, USA Shape: Sphere Characteristics: Lights on object... Extremely fast moving blueish gre...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=165202](https://nuforc.org/sighting/?id=165202)  
+   Link: <a href="https://nuforc.org/sighting/?id=165202" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=165202</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 16520215 Nov 2021 — Reported: 2021-11-09 08:32 Pacific Duration: 2 hours. No of observers: 2. Location: Indianapolis...</p></details>
    Published: November 9, 2021  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=e202101](https://nuforc.org/subndx/?id=e202101)  
+   Link: <a href="https://nuforc.org/subndx/?id=e202101" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e202101</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 202101NUFORC Reports for Month 202101.; Open, 01/31/2021 23:50, Garden City; Open, 01/31/2021 17:51, Pocatello...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lNY](https://nuforc.org/subndx/?id=lNY)  
+   Link: <a href="https://nuforc.org/subndx/?id=lNY" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State NYNUFORC Reports for State NY.; Open, 01/08/2026 19:30, Gasport, NY, USA; Open, 01/03/2026 00:53, New York, NY...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 — NASA&#x27;s UAP independent study was largely focused on aerial phenomena. 7. What did NASA&#x27;s 2023 Independent report on UAPs cov...</p></details>
    Published: May 2026  
 
@@ -954,53 +918,53 @@ Indiana’s modern UFO record therefore works best as a study in patterns, perce
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...I read the report. To summarize: we should reduce stigma for reporting this stuff. we nee...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UAP/comments/16iinsd/nasa_unidentified_anomalous_phenomena_independent/](https://www.reddit.com/r/UAP/comments/16iinsd/nasa_unidentified_anomalous_phenomena_independent/)  
+   Link: <a href="https://www.reddit.com/r/UAP/comments/16iinsd/nasa_unidentified_anomalous_phenomena_independent/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UAP/comments/16iinsd/nasa_unidentified_anomalous_phenomena_independent/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UNIDENTIFIED ANOMALOUS PHENOMENA...1 year to publish a 30 pages report stating: Data must be collected carefully. When we have dat...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/](https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/)  
+   Link: <a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...This report, commissioned by but produced independently of NASA, is not a review or asses...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/ScienceTechnologyAndSocietyDiscussionCorner/posts/10167856401745008/](https://www.facebook.com/groups/ScienceTechnologyAndSocietyDiscussionCorner/posts/10167856401745008/)  
+   Link: <a href="https://www.facebook.com/groups/ScienceTechnologyAndSocietyDiscussionCorner/posts/10167856401745008/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ScienceTechnologyAndSocietyDiscussionCorner/posts/10167856401745008/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel seeks better data to study unidentified aerial...There are currently a limited number of high- quality observations of UAP, w...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: axios.com  
-   Link: [https://www.axios.com/2023/09/14/nasa-uap-report-release](https://www.axios.com/2023/09/14/nasa-uap-report-release)  
+   Link: <a href="https://www.axios.com/2023/09/14/nasa-uap-report-release" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/09/14/nasa-uap-report-release</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>government efforts in understanding UAPs. Unlike the Department of Defense&#x27;s often classified data, NASA emphasizes transparency and publ...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: usaherald.com  
-   Link: [https://usaherald.com/us-government-pentagon-releases-new-ufo-files-sparking-fresh-questions-as-declassified-uap-evidence-surges/](https://usaherald.com/us-government-pentagon-releases-new-ufo-files-sparking-fresh-questions-as-declassified-uap-evidence-surges/)  
+   Link: <a href="https://usaherald.com/us-government-pentagon-releases-new-ufo-files-sparking-fresh-questions-as-declassified-uap-evidence-surges/" target="_blank" rel="noopener noreferrer nofollow">https://usaherald.com/us-government-pentagon-releases-new-ufo-files-sparking-fresh-questions-as-declassified-uap-evidence-surges/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Government: Pentagon Releases New UFO Files...16 hours ago — The Pentagon&#x27;s All-domain Anomaly Resolution Office, known as AARO, main...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2403.15368](https://arxiv.org/pdf/2403.15368)  
+   Link: <a href="https://arxiv.org/pdf/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.15368</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Closing the Information Gap in Unidentified Anomalous...by GR Stahlman · 2024 · Cited by 8 — As emphasized by NASA [6], UAP-related data...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...The team&#x27;s report was released on September 14, 2023, and did not find evidence t...</p></details>
    Published: September 14, 2023  
 
 30. <a id="endnote-30"></a>
    Source: thedebrief.org  
    Title: nasas unidentified anomalous phenomena report key takeaways  
-   Link: [https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/](https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/)  
+   Link: <a href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “Most UAP sightings result in very limited data,” Nelson said, noting that t...</p></details>

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-jersey-18255a-nj-drone-scare/
 description: Focused pages that expand on Drone Scare.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: New_Jersey_18255a_nj_drone_scare_429534
-parent_title: Drone Scare | What Really Happened in New Jersey's UFO...
+parent_title: Drone Scare
 parent_nav_short_title: Drone Scare
 parent_permalink: /drone-scare/
 ---

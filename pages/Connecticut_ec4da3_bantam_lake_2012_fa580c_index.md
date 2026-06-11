@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /connecticut-ec4da3-bantam-lake-2012/
 description: Focused pages that expand on Bantam Lake 2012.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Connecticut_ec4da3_bantam_lake_2012_fa580c
-parent_title: 'Bantam Lake 2012 | Connecticut UFOs: From Colonial Legends to...'
+parent_title: Bantam Lake 2012
 parent_nav_short_title: Bantam Lake 2012
 parent_permalink: /bantam-lake-2012/
 ---

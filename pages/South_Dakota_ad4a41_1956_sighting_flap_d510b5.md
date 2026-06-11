@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-south-dakotas/
 nav_short_title: 1956 Flap
 title: Why Did So Many Towns Report Lights in 1956?
-title_full: Why Did So Many Towns Report Lights in 1956? | South Dakota UFOs
+title_full: Why Did So Many Towns Report Lights in 1956?
 display_title_short: 1956 Flap
 display_title: 1956 Flap
 heading_title: Why Did So Many Towns Report Lights in 1956?
@@ -262,15 +262,14 @@ image: /assets/images/South_Dakota_ad4a41_1956_sighting_flap_d510b5-overview-soc
 
 ## Introduction
 
-The 1956 [South Dakota]({{ 'what-really-happened-in-south-dakotas/' | relative_url }}) sighting flap was not one single famous incident, but a short run of reports from many towns between September and the end of the year. Lights, fireballs and apparently structured objects were reported from places including Rapid City, Redfield, Mobridge, McLaughlin, Lemmon, Aberdeen, Pierre, Mitchell, Martin, [Hot Springs]({{ 'hot-springs-94b856/' | relative_url }}), Onida and Webster. The pattern matters because it shows how a statewide UFO “moment” can form: scattered local observations, some ordinary and some harder to assess, begin to look connected once newspapers, police reports, radio traffic and later UFO catalogues gather them together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhsf.org/news_events/history_articles.html/title/august-2021-is-it-an-airplane-star-or-flying-saucer-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhsf.org">[SD Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhsf.org</span><span class="citation-popover-title">SD Historical Society Monthly History Article | Read about South Dakota History</span><span class="citation-popover-snippet">SD Historical Society Monthly History Article | Read about South Dakota History</span></span></span>
-
+The 1956 South Dakota sighting flap was not one single famous incident, but a short run of reports from many towns between September and the end of the year. Lights, fireballs and apparently structured objects were reported from places including [Rapid City]({{ 'rapid-city/' | relative_url }}), Redfield, Mobridge, McLaughlin, Lemmon, Aberdeen, Pierre, Mitchell, Martin, [Hot Springs]({{ 'hot-springs-94b856/' | relative_url }}), Onida and Webster. The pattern matters because it shows how a statewide UFO “moment” can form: scattered local observations, some ordinary and some harder to assess, begin to look connected once newspapers, police reports, radio traffic and later UFO catalogues gather them together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhsf.org/news_events/history_articles.html/title/august-2021-is-it-an-airplane-star-or-flying-saucer-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhsf.org">[SD Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhsf.org</span><span class="citation-popover-title">SD Historical Society Monthly History Article &#124; Read about South Dakota History</span><span class="citation-popover-snippet">SD Historical Society Monthly History Article &#124; Read about South Dakota History</span></span></span>
 
 <img src="{{ "/assets/images/South_Dakota_ad4a41_1956_sighting_flap_d510b5-overview.webp" | relative_url }}" alt="Overview image for 1956 Flap" loading="eager" decoding="sync" fetchpriority="high">
 The strongest reading is cautious. The 1956 flap is historically interesting because some reports involved official witnesses, possible radar references and an Ellsworth Air Force Base connection, not because it proves anything extraordinary. The evidence is uneven, the surviving accounts are mostly second-hand or press-derived, and some sightings sound very like meteors, aircraft, atmospheric effects or ordinary lights seen under tense conditions. That mix is exactly why the episode belongs in South Dakota’s UFO history.
 
 ## Where the reports clustered
 
-The reported 1956 activity stretched across much of South Dakota rather than staying in one town. A South Dakota Historical Society Foundation article summarises the late-year cluster as reports of strange objects and fireballs from [Rapid City]({{ 'rapid-city/' | relative_url }}), Redfield, Mobridge, McLaughlin, Lemmon, Aberdeen, Pierre, Mitchell, Martin and Hot Springs, with additional named examples from Onida and Webster. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhsf.org/news_events/history_articles.html/title/august-2021-is-it-an-airplane-star-or-flying-saucer-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhsf.org">[SD Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhsf.org</span><span class="citation-popover-title">SD Historical Society Monthly History Article | Read about South Dakota History</span><span class="citation-popover-snippet">SD Historical Society Monthly History Article | Read about South Dakota History</span></span></span>
+The reported 1956 activity stretched across much of South Dakota rather than staying in one town. A South Dakota Historical Society Foundation article summarises the late-year cluster as reports of strange objects and fireballs from Rapid City, Redfield, Mobridge, McLaughlin, Lemmon, Aberdeen, Pierre, Mitchell, Martin and Hot Springs, with additional named examples from Onida and Webster. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhsf.org/news_events/history_articles.html/title/august-2021-is-it-an-airplane-star-or-flying-saucer-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhsf.org">[SD Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhsf.org</span><span class="citation-popover-title">SD Historical Society Monthly History Article &#124; Read about South Dakota History</span><span class="citation-popover-snippet">SD Historical Society Monthly History Article &#124; Read about South Dakota History</span></span></span>
 
 That spread is important. Rapid City and Hot Springs placed the flap near the western side of the state and within the broader orbit of Ellsworth Air Force Base. Pierre and Onida put reports nearer the centre. Aberdeen, Webster, Mobridge, McLaughlin and Lemmon suggest that the story was not simply a Black Hills or air-base rumour. Mitchell and Martin widen the map still further. The result is less a neat flight path than a patchwork of local stories that became a statewide pattern after the fact.
 
@@ -278,8 +277,6 @@ The Redfield account shows how dramatic some individual reports became. A young 
 
 That kind of testimony is vivid, but it also shows the limits of the record. Estimates of size, height and distance in night-sky sightings are notoriously fragile, especially when there is no known object for scale. A light that seems to be “following” a moving witness can be a distant aircraft, planet or other fixed reference point misread against changing foreground scenery. The Redfield story is therefore valuable as an example of how the flap felt to witnesses, but weak as technical evidence unless supported by independent records.
 
-
-<img src="{{ "/assets/images/South_Dakota_ad4a41_1956_sighting_flap_d510b5-Illustration-1-light.svg" | relative_url }}" alt="1956 Flap illustration 1" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_1956_sighting_flap_d510b5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_1956_sighting_flap_d510b5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Police, dispatch and local witness accounts
 
 The most compelling part of the 1956 flap is the involvement of witnesses who were not merely anonymous passers-by. The Pierre-area case, as later summarised in a saucer-periodical account, involved South Dakota Highway Patrolman Don Keim and Jack Peters, a dispatcher for the state police radio system. They reportedly saw a bright red object about 25 miles east of Pierre, watched it for roughly half an hour, and said it appeared to hover low above the ground before seeming to follow their car. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fanac.org/fanzines/Saucer_News/saucer_news_21_v4n1_mosley_1956-12_ufo_us.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fanac.org">[Fanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fanac.org</span><span class="citation-popover-title">saucer news 21 v4n1 mosley 1956 12 ufo us</span><span class="citation-popover-snippet">saucer news 21 v4n1 mosley 1956 12 ufo us</span></span></span>
@@ -294,26 +291,23 @@ A later NICAP summary treated the Hot Springs episode as a radar-visual-aircraft
 
 Those later catalogue entries are useful but need careful handling. NICAP was a civilian UFO organisation, not a neutral government archive, and its summaries often compressed complex reports into short, advocacy-minded entries. Still, the Hot Springs listing matters because it preserves the claim that the flap intersected with police observation, radar talk and Ellsworth jet activity. That makes it one of the hinge points between ordinary local sightings and South Dakota’s more official Cold War UFO record.
 
-
-<img src="{{ "/assets/images/South_Dakota_ad4a41_1956_sighting_flap_d510b5-Illustration-2-light.svg" | relative_url }}" alt="1956 Flap illustration 2" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_1956_sighting_flap_d510b5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_1956_sighting_flap_d510b5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Dakota_ad4a41_1956_sighting_flap_d510b5-Illustration-1-dark.svg" | relative_url }}" alt="1956 Flap illustration 1" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_1956_sighting_flap_d510b5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_1956_sighting_flap_d510b5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fireballs, misidentifications and pattern-spotting
 
 Many accounts in the 1956 flap used words such as “fireball”, “red light”, “bright star” and “flashing light”. Those descriptions do not all point in the same direction. A fireball, in meteor science, is a very bright meteor, roughly brighter than Venus; a bolide is an especially bright fireball that ends in a terminal flash and may fragment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Open source on amsmeteors.org.</span></span></span>
 
 That matters because a meteor can look startlingly large, low and close, especially to an unprepared observer. It can seem to move horizontally, change colour, leave a glowing trail, or produce delayed sound. A cluster of fireball reports from different towns may therefore reflect ordinary celestial events reported widely, not a single object travelling around South Dakota.
 
-At the same time, not every 1956 report fits the simplest fireball model. Onida witnesses reportedly described a red light hovering “like a duck” north-east of town, while two Webster High School boys reported an object giving off an “unearthly, flashing red light”. The Pierre-area report involved a low, lingering red object, and the Hot Springs material included apparent vertical movement, colour changes and alleged aircraft involvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhsf.org/news_events/history_articles.html/title/august-2021-is-it-an-airplane-star-or-flying-saucer-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhsf.org">[SD Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhsf.org</span><span class="citation-popover-title">SD Historical Society Monthly History Article | Read about South Dakota History</span><span class="citation-popover-snippet">SD Historical Society Monthly History Article | Read about South Dakota History</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fanac.org/fanzines/Saucer_News/saucer_news_21_v4n1_mosley_1956-12_ufo_us.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fanac.org">[fanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fanac.org</span><span class="citation-popover-title">saucer news 21 v4n1 mosley 1956 12 ufo us</span><span class="citation-popover-snippet">saucer news 21 v4n1 mosley 1956 12 ufo us</span></span></span> The central difficulty is that“pattern” can be created by reporting as much as by events. Once one town’s story circulates, other witnesses may be more likely to report ambiguous lights. Newspapers may connect separate incidents under a flying-saucer frame. Later cataloguers may then combine fireballs, aircraft lights, low-level objects and radar rumours into a single “flap”. That does not make the reports worthless. It means the flap should be read as a social and evidential cluster, not as a single proven aerial event.
+At the same time, not every 1956 report fits the simplest fireball model. Onida witnesses reportedly described a red light hovering “like a duck” north-east of town, while two Webster High School boys reported an object giving off an “unearthly, flashing red light”. The Pierre-area report involved a low, lingering red object, and the Hot Springs material included apparent vertical movement, colour changes and alleged aircraft involvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhsf.org/news_events/history_articles.html/title/august-2021-is-it-an-airplane-star-or-flying-saucer-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhsf.org">[SD Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhsf.org</span><span class="citation-popover-title">SD Historical Society Monthly History Article &#124; Read about South Dakota History</span><span class="citation-popover-snippet">SD Historical Society Monthly History Article &#124; Read about South Dakota History</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fanac.org/fanzines/Saucer_News/saucer_news_21_v4n1_mosley_1956-12_ufo_us.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fanac.org">[fanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fanac.org</span><span class="citation-popover-title">saucer news 21 v4n1 mosley 1956 12 ufo us</span><span class="citation-popover-snippet">saucer news 21 v4n1 mosley 1956 12 ufo us</span></span></span> The central difficulty is that“pattern” can be created by reporting as much as by events. Once one town’s story circulates, other witnesses may be more likely to report ambiguous lights. Newspapers may connect separate incidents under a flying-saucer frame. Later cataloguers may then combine fireballs, aircraft lights, low-level objects and radar rumours into a single “flap”. That does not make the reports worthless. It means the flap should be read as a social and evidential cluster, not as a single proven aerial event.
 
 South Dakota’s wider Project [Blue Book]({{ 'blue-book-eb3f6b/' | relative_url }}) record reinforces that caution. Historian Lawrence H. Larsen argued in *South Dakota History* that many Air Force evaluations in Great Plains UFO cases were thin, sometimes arbitrary, and often based on incomplete evidence. He also noted that Blue Book listed only one South Dakota UFO as unidentified, while many other cases were classed as identified or insufficient on limited grounds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">South Dakota Historical Society Press</span></span></span>
 
 That cuts both ways. Sceptics can say the 1956 flap resembles the mass of reports that usually resolve into meteors, aircraft, planets, stars, aurora, radar anomalies or insufficient data. UFO proponents can fairly answer that some official explanations in the broader South Dakota record were not always strongly demonstrated. The honest position is that the 1956 material contains both likely misidentifications and a smaller number of reports that remain difficult to judge because the surviving evidence is incomplete.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHeZjJgO9Ns" title="UFO Project Blue Book at National Archives Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer">UFO Project Blue Book at National Archives Museum</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 352.6K &middot; Uploaded: December 2019 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHeZjJgO9Ns">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/South_Dakota_ad4a41_1956_sighting_flap_d510b5-Illustration-3-dark.svg" | relative_url }}" alt="1956 Flap illustration 3" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_1956_sighting_flap_d510b5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_1956_sighting_flap_d510b5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How official investigation frames the 1956 flap
 
-Project Blue Book provides the wider official frame for the 1956 sightings, even where particular South Dakota reports survive mainly through newspapers, civilian UFO literature or later summaries. The National Archives notes that Project [Blue Book records]({{ 'blue-book-eb3f6b/' | relative_url }}) include case files arranged chronologically and an index by date and location, preserved on microfilm for research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
+Project Blue Book provides the wider official frame for the 1956 sightings, even where particular South Dakota reports survive mainly through newspapers, civilian UFO literature or later summaries. The National Archives notes that Project Blue Book records include case files arranged chronologically and an index by date and location, preserved on microfilm for research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 The Air Force’s later public position was firm: between 1947 and 1969, Blue Book collected 12,618 reports, of which 701 remained unidentified, but it concluded that no investigated UFO showed a national-security threat, no evidence of technology beyond modern scientific knowledge, and no evidence of extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
@@ -323,13 +317,12 @@ The 1956 flap also sits in the shadow of South Dakota’s better-known 1953 Rapi
 
 That difference is why the 1956 flap should be treated as a statewide atmosphere of reports rather than as another single landmark incident. It is valuable because it shows how South Dakota UFO history moved beyond one celebrated radar case into a broader public moment, with small towns, police channels, local newspapers and civilian UFO groups all helping to shape the record.
 
-
-<img src="{{ "/assets/images/South_Dakota_ad4a41_1956_sighting_flap_d510b5-Illustration-3-light.svg" | relative_url }}" alt="1956 Flap illustration 3" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_1956_sighting_flap_d510b5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_1956_sighting_flap_d510b5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Dakota_ad4a41_1956_sighting_flap_d510b5-Illustration-2-dark.svg" | relative_url }}" alt="1956 Flap illustration 2" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_1956_sighting_flap_d510b5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_1956_sighting_flap_d510b5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the 1956 flap tells us about South Dakota UFO history
 
 The 1956 reports reveal three things about South Dakota’s place in UFO history.
 
-First, the state’s geography mattered. Wide horizons, long night drives and sparse settlements created conditions in which distant lights could be seen for long periods and interpreted in uncertain ways. A truck driver near Redfield, a highway patrolman east of Pierre, boys in Webster, men near Onida and witnesses in Hot Springs were not watching from a single controlled observation site. They were seeing lights from roads, towns and open country, often at night, with limited means to estimate distance or altitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhsf.org/news_events/history_articles.html/title/august-2021-is-it-an-airplane-star-or-flying-saucer-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhsf.org">[SD Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhsf.org</span><span class="citation-popover-title">SD Historical Society Monthly History Article | Read about South Dakota History</span><span class="citation-popover-snippet">SD Historical Society Monthly History Article | Read about South Dakota History</span></span></span>
+First, the state’s geography mattered. Wide horizons, long night drives and sparse settlements created conditions in which distant lights could be seen for long periods and interpreted in uncertain ways. A truck driver near Redfield, a highway patrolman east of Pierre, boys in Webster, men near Onida and witnesses in Hot Springs were not watching from a single controlled observation site. They were seeing lights from roads, towns and open country, often at night, with limited means to estimate distance or altitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhsf.org/news_events/history_articles.html/title/august-2021-is-it-an-airplane-star-or-flying-saucer-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhsf.org">[SD Historical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhsf.org</span><span class="citation-popover-title">SD Historical Society Monthly History Article &#124; Read about South Dakota History</span><span class="citation-popover-snippet">SD Historical Society Monthly History Article &#124; Read about South Dakota History</span></span></span>
 
 Second, official-sounding witnesses raised the perceived stakes. Police, dispatch and sheriff-linked reports feel different from casual sightings because readers tend to trust trained public servants. Yet official witnesses are still human observers, and their status does not automatically solve problems of distance, darkness, optical illusion or incomplete photography.
 
@@ -423,172 +416,478 @@ The best description is therefore “unresolved in parts, probably mixed in caus
   </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-so-many-towns-report-lights-in-1956-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-so-many-towns-report-lights-in-1956-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-so-many-towns-report-lights-in-1956-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-so-many-towns-report-lights-in-1956-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-so-many-towns-report-lights-in-1956-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-so-many-towns-report-lights-in-1956-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-so-many-towns-report-lights-in-1956-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-so-many-towns-report-lights-in-1956-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-so-many-towns-report-lights-in-1956-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-so-many-towns-report-lights-in-1956-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-so-many-towns-report-lights-in-1956-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-so-many-towns-report-lights-in-1956-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-so-many-towns-report-lights-in-1956-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-so-many-towns-report-lights-in-1956-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-so-many-towns-report-lights-in-1956-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-so-many-towns-report-lights-in-1956-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-so-many-towns-report-lights-in-1956-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-so-many-towns-report-lights-in-1956-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-so-many-towns-report-lights-in-1956-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-so-many-towns-report-lights-in-1956-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-so-many-towns-report-lights-in-1956-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-so-many-towns-report-lights-in-1956-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-so-many-towns-report-lights-in-1956-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-so-many-towns-report-lights-in-1956-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-so-many-towns-report-lights-in-1956-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-so-many-towns-report-lights-in-1956-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-so-many-towns-report-lights-in-1956-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-so-many-towns-report-lights-in-1956-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-so-many-towns-report-lights-in-1956-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-so-many-towns-report-lights-in-1956-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-so-many-towns-report-lights-in-1956-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-so-many-towns-report-lights-in-1956-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-so-many-towns-report-lights-in-1956-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-did-so-many-towns-report-lights-in-1956-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: fanac.org  
    Title: saucer news 21 v4n1 mosley 1956 12 ufo us  
-   Link: [https://fanac.org/fanzines/Saucer_News/saucer_news_21_v4n1_mosley_1956-12_ufo_us.pdf](https://fanac.org/fanzines/Saucer_News/saucer_news_21_v4n1_mosley_1956-12_ufo_us.pdf)  
+   Link: <a href="https://fanac.org/fanzines/Saucer_News/saucer_news_21_v4n1_mosley_1956-12_ufo_us.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fanac.org/fanzines/Saucer_News/saucer_news_21_v4n1_mosley_1956-12_ufo_us.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: nicap.org  
    Title: The UFO Evidence  
-   Link: [https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf](https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf)  
+   Link: <a href="https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufoe/UFO%20Evidence%201964.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: amsmeteors.org  
-   Link: [https://www.amsmeteors.org/fireballs/](https://www.amsmeteors.org/fireballs/)  
+   Link: <a href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/</a>  
 
 4. <a id="endnote-4"></a>
    Source: sdhspress.com  
    Title: South Dakota Historical Society Press  
-   Link: [https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf](https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf)  
+   Link: <a href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 6. <a id="endnote-6"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/bb/BB_Unknowns.pdf](https://www.nicap.org/bb/BB_Unknowns.pdf)  
+   Link: <a href="https://www.nicap.org/bb/BB_Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bb/BB_Unknowns.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/NSID_DBListingbyCat1.pdf](https://www.nicap.org/NSID_DBListingbyCat1.pdf)  
+   Link: <a href="https://www.nicap.org/NSID_DBListingbyCat1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID_DBListingbyCat1.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: nicap.org  
    Title: Challenge of UFOs  
-   Link: [https://www.nicap.org/books/coufo/coufo_complete.htm](https://www.nicap.org/books/coufo/coufo_complete.htm)  
+   Link: <a href="https://www.nicap.org/books/coufo/coufo_complete.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/books/coufo/coufo_complete.htm</a>  
 
 10. <a id="endnote-10"></a>
    Source: nicap.org  
    Title: UFOsand Intelligence  
-   Link: [https://www.nicap.org/Intel/UFOsandIntelligence.pdf](https://www.nicap.org/Intel/UFOsandIntelligence.pdf)  
+   Link: <a href="https://www.nicap.org/Intel/UFOsandIntelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/Intel/UFOsandIntelligence.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/ufoe/ufoe76.htm](https://www.nicap.org/ufoe/ufoe76.htm)  
+   Link: <a href="https://www.nicap.org/ufoe/ufoe76.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufoe/ufoe76.htm</a>  
 
 12. <a id="endnote-12"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1952NEW.htm](https://www.nicap.org/chronos/1952NEW.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1952NEW.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1952NEW.htm</a>  
 
 13. <a id="endnote-13"></a>
    Source: nicap.org  
    Title: NSID DBListingby Date  
-   Link: [https://www.nicap.org/NSID/NSID_DBListingbyDate.pdf](https://www.nicap.org/NSID/NSID_DBListingbyDate.pdf)  
+   Link: <a href="https://www.nicap.org/NSID/NSID_DBListingbyDate.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyDate.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: nicap.org  
    Title: NSID DBListingby City  
-   Link: [https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf](https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf)  
+   Link: <a href="https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: nicap.org  
    Title: NSID DBListingby State Country  
-   Link: [https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf](https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf)  
+   Link: <a href="https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: nicap.org  
    Title: NSID DBListingby Category  
-   Link: [https://www.nicap.org/NSID/NSID_DBListingbyCategory.pdf](https://www.nicap.org/NSID/NSID_DBListingbyCategory.pdf)  
+   Link: <a href="https://www.nicap.org/NSID/NSID_DBListingbyCategory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyCategory.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 18. <a id="endnote-18"></a>
    Source: fireball.amsmeteors.org  
    Title: browse reports  
-   Link: [https://fireball.amsmeteors.org/members/imo_view/browse_reports?country=US&month=1&search_by_month=1&state=FL&year=1956](https://fireball.amsmeteors.org/members/imo_view/browse_reports?country=US&month=1&search_by_month=1&state=FL&year=1956)  
+   Link: <a href="https://fireball.amsmeteors.org/members/imo_view/browse_reports?country=US&amp;month=1&amp;search_by_month=1&amp;state=FL&amp;year=1956" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_reports?country=US&amp;month=1&amp;search_by_month=1&amp;state=FL&amp;year=1956</a>  
 
 19. <a id="endnote-19"></a>
    Source: amsmeteors.org  
    Title: fireball report  
-   Link: [https://www.amsmeteors.org/fireballs/fireball-report/](https://www.amsmeteors.org/fireballs/fireball-report/)  
+   Link: <a href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-report/</a>  
 
 20. <a id="endnote-20"></a>
    Source: amsmeteors.org  
-   Link: [https://amsmeteors.org/videos?video_id=12632](https://amsmeteors.org/videos?video_id=12632)  
+   Link: <a href="https://amsmeteors.org/videos?video_id=12632" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/videos?video_id=12632</a>  
 
 21. <a id="endnote-21"></a>
    Source: amsmeteors.org  
-   Link: [https://www.amsmeteors.org/fireballs/fireball-report/page/4/](https://www.amsmeteors.org/fireballs/fireball-report/page/4/)  
+   Link: <a href="https://www.amsmeteors.org/fireballs/fireball-report/page/4/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-report/page/4/</a>  
 
 22. <a id="endnote-22"></a>
    Source: sdhsf.org  
    Title: SD Historical Society Monthly History Article | Read about South Dakota History  
-   Link: [https://www.sdhsf.org/news_events/history_articles.html/title/august-2021-is-it-an-airplane-star-or-flying-saucer-](https://www.sdhsf.org/news_events/history_articles.html/title/august-2021-is-it-an-airplane-star-or-flying-saucer-)  
+   Link: <a href="https://www.sdhsf.org/news_events/history_articles.html/title/august-2021-is-it-an-airplane-star-or-flying-saucer-" target="_blank" rel="noopener noreferrer nofollow">https://www.sdhsf.org/news_events/history_articles.html/title/august-2021-is-it-an-airplane-star-or-flying-saucer-</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/852591292422526/posts/1717523702595943/](https://www.facebook.com/groups/852591292422526/posts/1717523702595943/)  
+   Link: <a href="https://www.facebook.com/groups/852591292422526/posts/1717523702595943/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/852591292422526/posts/1717523702595943/</a>  
 
 25. <a id="endnote-25"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 26. <a id="endnote-26"></a>
    Source: geekchocolate.co.uk  
    Title: project blue book  
-   Link: [https://geekchocolate.co.uk/project-blue-book/](https://geekchocolate.co.uk/project-blue-book/)  
+   Link: <a href="https://geekchocolate.co.uk/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://geekchocolate.co.uk/project-blue-book/</a>  
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Ellsworth Air Force Base and Cold War Strategic Air Command History  
-   Link: [https://www.youtube.com/watch?v=vV9nO2wQ8b8](https://www.youtube.com/watch?v=vV9nO2wQ8b8)  
+   Link: <a href="https://www.youtube.com/watch?v=vV9nO2wQ8b8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vV9nO2wQ8b8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Newspaper Records and the Formation of Statewide UFO Waves...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=kS6cT7b_gG8](https://www.youtube.com/watch?v=kS6cT7b_gG8)  
+   Link: <a href="https://www.youtube.com/watch?v=kS6cT7b_gG8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kS6cT7b_gG8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Great Plains UFO Sightings and Historical Records...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: locallifesc.com  
-   Link: [https://www.locallifesc.com/ufo-sightings-in-southern-skies/](https://www.locallifesc.com/ufo-sightings-in-southern-skies/)  
+   Link: <a href="https://www.locallifesc.com/ufo-sightings-in-southern-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.locallifesc.com/ufo-sightings-in-southern-skies/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Storyful/posts/a-large-fireball-was-seen-flashing-brightly-over-rapid-city-south-dakota-in-vide/10160600549833541/](https://www.facebook.com/Storyful/posts/a-large-fireball-was-seen-flashing-brightly-over-rapid-city-south-dakota-in-vide/10160600549833541/)  
+   Link: <a href="https://www.facebook.com/Storyful/posts/a-large-fireball-was-seen-flashing-brightly-over-rapid-city-south-dakota-in-vide/10160600549833541/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Storyful/posts/a-large-fireball-was-seen-flashing-brightly-over-rapid-city-south-dakota-in-vide/10160600549833541/</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/county17news/posts/according-to-the-american-meteor-society-website-the-object-was-reportedly-seen-/1540001507711260/](https://www.facebook.com/county17news/posts/according-to-the-american-meteor-society-website-the-object-was-reportedly-seen-/1540001507711260/)  
+   Link: <a href="https://www.facebook.com/county17news/posts/according-to-the-american-meteor-society-website-the-object-was-reportedly-seen-/1540001507711260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/county17news/posts/according-to-the-american-meteor-society-website-the-object-was-reportedly-seen-/1540001507711260/</a>  
 
 33. <a id="endnote-33"></a>
    Source: worldradiohistory.com  
-   Link: [https://www.worldradiohistory.com/Archive-All-Music/Billboard/50s/1959/Billboard%201959-08-03.pdf](https://www.worldradiohistory.com/Archive-All-Music/Billboard/50s/1959/Billboard%201959-08-03.pdf)  
+   Link: <a href="https://www.worldradiohistory.com/Archive-All-Music/Billboard/50s/1959/Billboard%201959-08-03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.worldradiohistory.com/Archive-All-Music/Billboard/50s/1959/Billboard%201959-08-03.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NatGeoUK/posts/the-history-of-ufo-sightings-in-north-america-goes-back-nearly-80-years-explore-/10160926450543970/](https://www.facebook.com/NatGeoUK/posts/the-history-of-ufo-sightings-in-north-america-goes-back-nearly-80-years-explore-/10160926450543970/)  
+   Link: <a href="https://www.facebook.com/NatGeoUK/posts/the-history-of-ufo-sightings-in-north-america-goes-back-nearly-80-years-explore-/10160926450543970/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NatGeoUK/posts/the-history-of-ufo-sightings-in-north-america-goes-back-nearly-80-years-explore-/10160926450543970/</a>  
 
 35. <a id="endnote-35"></a>
    Source: sassnet.com  
-   Link: [https://sassnet.com/uploads/downloads/cowboychronicle/2014/14janchron.pdf](https://sassnet.com/uploads/downloads/cowboychronicle/2014/14janchron.pdf)  
+   Link: <a href="https://sassnet.com/uploads/downloads/cowboychronicle/2014/14janchron.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sassnet.com/uploads/downloads/cowboychronicle/2014/14janchron.pdf</a>  
 
 36. <a id="endnote-36"></a>
    Source: jasoncolavito.com  
-   Link: [https://www.jasoncolavito.com/report-on-ufos.html](https://www.jasoncolavito.com/report-on-ufos.html)  
+   Link: <a href="https://www.jasoncolavito.com/report-on-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/report-on-ufos.html</a>

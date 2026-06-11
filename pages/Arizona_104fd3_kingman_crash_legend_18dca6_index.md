@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /arizona-104fd3-kingman-crash-legend/
 description: Focused pages that expand on Kingman Legend.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Arizona_104fd3_kingman_crash_legend_18dca6
-parent_title: Kingman Legend | Why Arizona Became a UFO State
+parent_title: Kingman Legend
 parent_nav_short_title: Kingman Legend
 parent_permalink: /kingman-legend/
 ---

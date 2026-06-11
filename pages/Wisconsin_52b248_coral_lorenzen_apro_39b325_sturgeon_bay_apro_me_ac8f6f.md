@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /coral-lorenzen/
 nav_short_title: Sturgeon Bay case
 title: The case that tested APRO's methods
-title_full: The case that tested APRO's methods | Coral Lorenzen
+title_full: The case that tested APRO's methods
 display_title_short: Sturgeon Bay case
 display_title: Sturgeon Bay case
 heading_title: The case that tested APRO's methods
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:29:39'
-parent_title: How Wisconsin Helped Organise UFO Research | Wisconsin UFOs
+parent_title: How Wisconsin Helped Organise UFO Research
 parent_permalink: /coral-lorenzen/
 parent_nav_short_title: Coral Lorenzen
 parent_heading_title: How Wisconsin Helped Organise UFO Research
@@ -250,10 +250,9 @@ image: /assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_sturgeon_bay_a
 
 ## Introduction
 
-The Sturgeon Bay sighting of May 1952 became one of the first major tests of the Aerial Phenomena Research Organization (APRO), which Jim and [Coral Lorenzen]({{ 'coral-lorenzen/' | relative_url }}) had founded only months earlier in [Wisconsin]({{ 'what-really-made-wisconsin-a-ufo-state/' | relative_url }}). The case mattered not because it produced decisive proof of an unknown craft, but because it showed how APRO hoped to investigate UFO reports: gather multiple witnesses, compare observations from different locations, estimate altitude and size through triangulation, and challenge official explanations when they seemed incomplete. The same case also exposed the limits of that approach. APRO tried to turn eyewitness accounts into measurements, yet those measurements depended on assumptions that could not be independently verified. The result was a case that became influential in UFO research while remaining open to more conventional explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...” Third Avenue, the main street in Sturgeon Bay, Wisconsin, w...</span></span></span>
+The Sturgeon Bay sighting of May 1952 became one of the first major tests of the Aerial Phenomena Research Organization (APRO), which Jim and [Coral Lorenzen]({{ 'coral-lorenzen/' | relative_url }}) had founded only months earlier in Wisconsin. The case mattered not because it produced decisive proof of an unknown craft, but because it showed how APRO hoped to investigate UFO reports: gather multiple witnesses, compare observations from different locations, estimate altitude and size through triangulation, and challenge official explanations when they seemed incomplete. The same case also exposed the limits of that approach. APRO tried to turn eyewitness accounts into measurements, yet those measurements depended on assumptions that could not be independently verified. The result was a case that became influential in UFO research while remaining open to more conventional explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...” Third Avenue, the main street in Sturgeon Bay, Wisconsin, w...</span></span></span>
 
-
-<img src="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_sturgeon_bay_apro_me_ac8f6f-Illustration-1-light.svg" | relative_url }}" alt="Sturgeon Bay case illustration 1" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_sturgeon_bay_apro_me_ac8f6f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_sturgeon_bay_apro_me_ac8f6f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_sturgeon_bay_apro_me_ac8f6f-Illustration-1-dark.svg" | relative_url }}" alt="Sturgeon Bay case illustration 1" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_sturgeon_bay_apro_me_ac8f6f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_sturgeon_bay_apro_me_ac8f6f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The case that tested APRO's methods
 
 By the spring of 1952, Coral Lorenzen was living in Sturgeon Bay and working as a journalist. On the evening of 21 May 1952, she arrived in the town centre and found people gathered along Third Avenue looking towards the north-east sky. In later accounts she described a silver, elongated object visible above Door County. Witnesses reported that it moved slowly and remained visible for a long period rather than flashing briefly across the sky. According to Lorenzen's recollection, the object attracted enough attention that local residents, newspaper staff and police personnel became involved in observing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...” Third Avenue, the main street in Sturgeon Bay, Wisconsin, w...</span></span></span>
@@ -268,7 +267,6 @@ This was a significant departure from the more common UFO reporting style of the
 
 The witnesses APRO relied upon were not presented merely as members of the public. Lorenzen emphasised that some observers included police officers and military veterans, arguing that their experience made them more reliable judges of direction and angular position. That reasoning became a recurring feature of APRO investigations, which often highlighted witness credentials as part of a case's evidential strength. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...” Third Avenue, the main street in Sturgeon Bay, Wisconsin, w...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PXw0AN9S_5A" title="WEIRD WISCONSIN: Eagle River &amp; Joe Simonton&#x27;s BIZARRE UFO Pancakes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PXw0AN9S_5A" target="_blank" rel="noopener noreferrer">WEIRD WISCONSIN: Eagle River &amp; Joe Simonton&#x27;s BIZARRE UFO Pancakes</a></p><p class="youtube-embed-meta">Channel: SightseeingSally &middot; Views: 7.2K &middot; Uploaded: September 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PXw0AN9S_5A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PXw0AN9S_5A">Open on YouTube</a></p></div></div></div>
 
 ## How APRO turned observations into measurements
@@ -280,7 +278,6 @@ The most ambitious part of the investigation was the attempt at triangulation. W
 APRO's calculations reportedly produced dramatic figures. Lorenzen later wrote that the object could have been roughly 40 miles above the Earth and hundreds of feet across, with estimates approaching 780 feet in diameter. Such numbers helped make the case notable within early UFO literature because they implied something much larger and higher than a conventional aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/sturgeon-bay-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">sturgeon bay flying saucer</span><span class="citation-popover-snippet">Wisconsin FrightsMassive Flying Saucer Witnessed in Sturgeon Bay in 195210 Sept 2018 — On May 21, 1952, Coral Lorenzen, along with countl...</span><span class="citation-popover-meta">Published: May 21, 1952</span></span></span>
 
 However, those figures depended on several assumptions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -295,16 +292,14 @@ These weaknesses are not unique to APRO. They affect many attempts to reconstruc
 
 Even so, the effort reveals something important about APRO's identity. The organisation was not content simply to catalogue strange reports. It wanted to apply geometry, witness comparison and investigative procedure to sightings that most authorities dismissed. In that sense, the Sturgeon Bay case became a prototype for APRO's later work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/aerial-phenomena-research-organization-apro" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">aerial phenomena research organization apro</span><span class="citation-popover-snippet">Aerial Phenomena Research Organization (APRO)Founded in January 1952 in Sturgeon Bay, Wisconsin, to conduct investigations and research i...</span><span class="citation-popover-meta">Published: January 1952</span></span></span>
 
-
-<img src="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_sturgeon_bay_apro_me_ac8f6f-Illustration-2-light.svg" | relative_url }}" alt="Sturgeon Bay case illustration 2" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_sturgeon_bay_apro_me_ac8f6f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_sturgeon_bay_apro_me_ac8f6f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_sturgeon_bay_apro_me_ac8f6f-Illustration-2-dark.svg" | relative_url }}" alt="Sturgeon Bay case illustration 2" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_sturgeon_bay_apro_me_ac8f6f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_sturgeon_bay_apro_me_ac8f6f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the balloon explanation became central
 
 The strongest conventional explanation emerged quickly. General Mills, which operated high-altitude balloon programmes during the period, stated that one of its research balloons could have been responsible for what people saw over Door County. The company had been involved in the Skyhook programme, which launched large plastic balloons into the upper atmosphere for scientific and military research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wisconsinfrights.com/sturgeon-bay-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wisconsinfrights.com">[Wisconsin Frights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wisconsinfrights.com</span><span class="citation-popover-title">sturgeon bay flying saucer</span><span class="citation-popover-snippet">Wisconsin FrightsMassive Flying Saucer Witnessed in Sturgeon Bay in 195210 Sept 2018 — On May 21, 1952, Coral Lorenzen, along with countl...</span><span class="citation-popover-meta">Published: May 21, 1952</span></span></span>
 
 At first glance, several features matched the reports. Skyhook balloons could reach extreme altitudes, appear metallic in sunlight and take on elongated or oval shapes depending on viewing conditions. They were also responsible for a number of famous UFO reports during the late 1940s and early 1950s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Skyhook_balloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Skyhook balloon</span><span class="citation-popover-snippet">Skyhook balloon</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u-2kGzR2-o0" title="Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u-2kGzR2-o0" target="_blank" rel="noopener noreferrer">Stories from Pilots | UFOs: Investigating the Unknown | National Geographic UK</a></p><p class="youtube-embed-meta">Channel: National Geographic UK &middot; Views: 1.2K &middot; Uploaded: January 2025 &middot; Length: 1 minute 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u-2kGzR2-o0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u-2kGzR2-o0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wCB-DQwq3EQ" title="Waszyngtońska fala UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wCB-DQwq3EQ" target="_blank" rel="noopener noreferrer">Waszyngtońska fala UFO</a></p><p class="youtube-embed-meta">Channel: SEKIELSKI BROTHERS STUDIO &middot; Views: 18.5K &middot; Uploaded: December 2025 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wCB-DQwq3EQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wCB-DQwq3EQ">Open on YouTube</a></p></div></div></div>
 
 ### Skyhook balloons and the limits of the case
 
@@ -312,11 +307,9 @@ Lorenzen did not accept the balloon explanation as fully satisfactory. She argue
 
 Sceptics reached a different conclusion. They noted that large high-altitude balloons can appear unusual at sunset, when changing illumination can create colour effects and make an object seem self-luminous. They also pointed out that APRO's size estimates depended entirely on the triangulation calculations, meaning that any error in witness angles could dramatically distort the result. A balloon at a different altitude than assumed could appear far larger or far smaller than APRO's reconstruction suggested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aerial Phenomena Research Organization</span><span class="citation-popover-snippet">Aerial Phenomena Research OrganizationThe Aerial Phenomena Research Organization (APRO) was a UFO research group started in January 19...</span></span></span>
 
-The case therefore sits in an unresolved middle ground. It was not conclusively identified at the time, but neither did it produce evidence strong enough to rule out a balloon. Modern discussions of the incident often focus less on the object itself than on the investigative process that surrounded it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufxufo.org/sturgeon/sturgeon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufxufo.org">[Ufxufo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufxufo.org</span><span class="citation-popover-title">The Sturgeon Bay Incident</span><span class="citation-popover-snippet">UfxufoThe Sturgeon Bay Incident - UFXGeneral Mills balloon group personnel had in fact learned that they were sometimes able to track los...</span></span></span>
+The case therefore sits in an unresolved middle ground. It was not conclusively identified at the time, but neither did it produce evidence strong enough to rule out a balloon. Modern discussions of the incident often focus less on the object itself than on the investigative process that surrounded it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufxufo.org/sturgeon/sturgeon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufxufo.org">[Ufxufo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufxufo.org</span><span class="citation-popover-title">The Sturgeon Bay Incident</span><span class="citation-popover-snippet">The Sturgeon Bay Incident - UFXGeneral Mills balloon group personnel had in fact learned that they were sometimes able to track los...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jj3DhKSaw0w" title="UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer">UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 18.4K &middot; Uploaded: July 2025 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jj3DhKSaw0w">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_sturgeon_bay_apro_me_ac8f6f-Illustration-3-dark.svg" | relative_url }}" alt="Sturgeon Bay case illustration 3" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_sturgeon_bay_apro_me_ac8f6f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_sturgeon_bay_apro_me_ac8f6f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Sturgeon Bay case reveals about APRO
 
 The lasting significance of the Sturgeon Bay sighting lies in what it reveals about early civilian UFO research in Wisconsin. APRO attempted to build a method around witness interviews, cross-checking locations and elementary measurement. Compared with casual newspaper reporting, that represented a more systematic approach. Compared with professional scientific investigation, however, it still faced severe limitations because it relied almost entirely on human observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/aerial-phenomena-research-organization-apro" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">aerial phenomena research organization apro</span><span class="citation-popover-snippet">Aerial Phenomena Research Organization (APRO)Founded in January 1952 in Sturgeon Bay, Wisconsin, to conduct investigations and research i...</span><span class="citation-popover-meta">Published: January 1952</span></span></span>
@@ -324,9 +317,6 @@ The lasting significance of the Sturgeon Bay sighting lies in what it reveals ab
 The case also highlights a tension that would follow APRO throughout its history. The organisation sought scientific credibility, yet it often worked with evidence that could not be independently tested after the fact. The Sturgeon Bay investigation showed both sides of that ambition. APRO demonstrated a genuine effort to gather data rather than rumours, but the final conclusions rested on assumptions that remained open to dispute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/aerial-phenomena-research-organization-apro" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">aerial phenomena research organization apro</span><span class="citation-popover-snippet">Aerial Phenomena Research Organization (APRO)Founded in January 1952 in Sturgeon Bay, Wisconsin, to conduct investigations and research i...</span><span class="citation-popover-meta">Published: January 1952</span></span></span>
 
 Within Wisconsin's UFO history, the event is therefore important less as a proven mystery than as a turning point in method. It was one of the first occasions on which Coral Lorenzen tried to transform a local sighting into a structured civilian investigation. The attempt helped define how APRO would operate for decades, while also illustrating how fragile even the most careful eyewitness-based UFO cases could be. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...” Third Avenue, the main street in Sturgeon Bay, Wisconsin, w...</span></span></span>
-
-
-<img src="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_sturgeon_bay_apro_me_ac8f6f-Illustration-3-light.svg" | relative_url }}" alt="Sturgeon Bay case illustration 3" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_sturgeon_bay_apro_me_ac8f6f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325_sturgeon_bay_apro_me_ac8f6f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -414,7 +404,7 @@ Within Wisconsin's UFO history, the event is therefore important less as a prove
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -424,111 +414,36 @@ Within Wisconsin's UFO history, the event is therefore important less as a prove
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT"><img src="{{ '/assets/images/marketplace-covers/c4fa2fd111d52b7bddcf.jpg' | relative_url }}" alt="Listing image for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-case-that-tested-apro-s-methods-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-case-that-tested-apro-s-methods-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-case-that-tested-apro-s-methods-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-case-that-tested-apro-s-methods-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-case-that-tested-apro-s-methods-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-case-that-tested-apro-s-methods-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display"><img src="{{ '/assets/images/marketplace-covers/27c78e3de724e607809d.jpg' | relative_url }}" alt="Listing image for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-case-that-tested-apro-s-methods-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-case-that-tested-apro-s-methods-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -536,15 +451,15 @@ Within Wisconsin's UFO history, the event is therefore important less as a prove
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-case-that-tested-apro-s-methods-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-case-that-tested-apro-s-methods-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-case-that-tested-apro-s-methods-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-case-that-tested-apro-s-methods-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-case-that-tested-apro-s-methods-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-case-that-tested-apro-s-methods-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-case-that-tested-apro-s-methods-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-case-that-tested-apro-s-methods-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -552,15 +467,15 @@ Within Wisconsin's UFO history, the event is therefore important less as a prove
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-case-that-tested-apro-s-methods-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-case-that-tested-apro-s-methods-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-case-that-tested-apro-s-methods-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-case-that-tested-apro-s-methods-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-case-that-tested-apro-s-methods-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-case-that-tested-apro-s-methods-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-case-that-tested-apro-s-methods-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-case-that-tested-apro-s-methods-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -568,15 +483,15 @@ Within Wisconsin's UFO history, the event is therefore important less as a prove
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-case-that-tested-apro-s-methods-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-case-that-tested-apro-s-methods-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-case-that-tested-apro-s-methods-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-case-that-tested-apro-s-methods-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-case-that-tested-apro-s-methods-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-case-that-tested-apro-s-methods-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-case-that-tested-apro-s-methods-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-case-that-tested-apro-s-methods-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -584,7 +499,7 @@ Within Wisconsin's UFO history, the event is therefore important less as a prove
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sturgeon-bay-case-the-case-that-tested-apro-s-methods-wisconsin-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-case-that-tested-apro-s-methods-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="the-case-that-tested-apro-s-methods-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -661,17 +576,31 @@ Within Wisconsin's UFO history, the event is therefore important less as a prove
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -684,42 +613,73 @@ Within Wisconsin's UFO history, the event is therefore important less as a prove
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -734,12 +694,17 @@ Within Wisconsin's UFO history, the event is therefore important less as a prove
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -749,112 +714,112 @@ Within Wisconsin's UFO history, the event is therefore important less as a prove
 
 1. <a id="endnote-1"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt](https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...” Third Avenue, the main street in Sturgeon Bay, Wisconsin, w...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: encyclopedia.com  
    Title: aerial phenomena research organization apro  
-   Link: [https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/aerial-phenomena-research-organization-apro](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/aerial-phenomena-research-organization-apro)  
+   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/aerial-phenomena-research-organization-apro" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/aerial-phenomena-research-organization-apro</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerial Phenomena Research Organization (APRO)Founded in January 1952 in Sturgeon Bay, Wisconsin, to conduct investigations and research i...</p></details>
    Published: January 1952  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Skyhook balloon  
-   Link: [https://en.wikipedia.org/wiki/Skyhook_balloon](https://en.wikipedia.org/wiki/Skyhook_balloon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Skyhook_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skyhook_balloon</a>  
 
 4. <a id="endnote-4"></a>
    Source: ufxufo.org  
    Title: The Sturgeon Bay Incident  
-   Link: [https://ufxufo.org/sturgeon/sturgeon.htm](https://ufxufo.org/sturgeon/sturgeon.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UfxufoThe Sturgeon Bay Incident - UFXGeneral Mills balloon group personnel had in fact learned that they were sometimes able to track los...</p></details>
+   Link: <a href="https://ufxufo.org/sturgeon/sturgeon.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufxufo.org/sturgeon/sturgeon.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sturgeon Bay Incident - UFXGeneral Mills balloon group personnel had in fact learned that they were sometimes able to track los...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Aerial Phenomena Research Organization  
-   Link: [https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization](https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization)  
+   Link: <a href="https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerial Phenomena Research OrganizationThe Aerial Phenomena Research Organization (APRO) was a UFO research group started in January 19...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ia803206.us.archive.org  
    Title: David Jacobs The UFO Controversy In America  
-   Link: [https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf](https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf)  
+   Link: <a href="https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Controversy In AmericaWorld War II: The &quot;foo-fighters&quot; spotted dur· ing air battles-were they static electricity, enemy secret weapon...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: wisconsinfrights.com  
    Title: sturgeon bay flying saucer  
-   Link: [https://www.wisconsinfrights.com/sturgeon-bay-flying-saucer/](https://www.wisconsinfrights.com/sturgeon-bay-flying-saucer/)  
+   Link: <a href="https://www.wisconsinfrights.com/sturgeon-bay-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://www.wisconsinfrights.com/sturgeon-bay-flying-saucer/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wisconsin FrightsMassive Flying Saucer Witnessed in Sturgeon Bay in 195210 Sept 2018 — On May 21, 1952, Coral Lorenzen, along with countl...</p></details>
    Published: May 21, 1952  
 
 8. <a id="endnote-8"></a>
    Source: slideshare.net  
    Title: Coral Lorenzen  
-   Link: [https://www.slideshare.net/DirkTheDaring11/coral-lorenzen-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space](https://www.slideshare.net/DirkTheDaring11/coral-lorenzen-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space)  
+   Link: <a href="https://www.slideshare.net/DirkTheDaring11/coral-lorenzen-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/DirkTheDaring11/coral-lorenzen-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers - The Startling Evidence...This document describes three early UFO sightings from the 1930s-1950s that helped spark the a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: avalonlibrary.net  
    Title: Coral Lorenzen  
-   Link: [https://avalonlibrary.net/ebooks/Coral%20Lorenzen%20-%20Flying%20Saucers%20-%20The%20Startling%20Evidence%20of%20the%20Invasion%20from%20Outer%20Space.pdf](https://avalonlibrary.net/ebooks/Coral%20Lorenzen%20-%20Flying%20Saucers%20-%20The%20Startling%20Evidence%20of%20the%20Invasion%20from%20Outer%20Space.pdf)  
+   Link: <a href="https://avalonlibrary.net/ebooks/Coral%20Lorenzen%20-%20Flying%20Saucers%20-%20The%20Startling%20Evidence%20of%20the%20Invasion%20from%20Outer%20Space.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/Coral%20Lorenzen%20-%20Flying%20Saucers%20-%20The%20Startling%20Evidence%20of%20the%20Invasion%20from%20Outer%20Space.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers - The Startling Evidence...Despite official attempts to discredit saucer sightings, UFOs have been seen by thousands: inc...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Collected-BULLETIN-PHENOMENA-RESEARCH-ORGANIZATION-ebook/dp/B08DWBTRN9](https://www.amazon.co.uk/Collected-BULLETIN-PHENOMENA-RESEARCH-ORGANIZATION-ebook/dp/B08DWBTRN9)  
+   Link: <a href="https://www.amazon.co.uk/Collected-BULLETIN-PHENOMENA-RESEARCH-ORGANIZATION-ebook/dp/B08DWBTRN9" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Collected-BULLETIN-PHENOMENA-RESEARCH-ORGANIZATION-ebook/dp/B08DWBTRN9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Collected Issues of THE A.P.R.O BULLETIN AERIAL...THE A.P.R.O BULLETIN was published by Coral Lorenzen at Sturgeon Bay, Wisconsin un...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: the wisconsin flying saucer that changed ufo research foreverby wisconsin fright  
-   Link: [https://www.facebook.com/TheSkeletonKeyChronicles/posts/the-wisconsin-flying-saucer-that-changed-ufo-research-foreverby-wisconsin-fright/273642456625589/](https://www.facebook.com/TheSkeletonKeyChronicles/posts/the-wisconsin-flying-saucer-that-changed-ufo-research-foreverby-wisconsin-fright/273642456625589/)  
+   Link: <a href="https://www.facebook.com/TheSkeletonKeyChronicles/posts/the-wisconsin-flying-saucer-that-changed-ufo-research-foreverby-wisconsin-fright/273642456625589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheSkeletonKeyChronicles/posts/the-wisconsin-flying-saucer-that-changed-ufo-research-foreverby-wisconsin-fright/273642456625589/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Skeleton Key Chronicles20 Nov 2018 — ” The Lorenzens were living in Sturgeon Bay when they launched APRO, and Coral soon found hersel...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: in 1960 jim and coral lorenzen moved the aerial phenomena research organization  
-   Link: [https://www.facebook.com/kjzzphoenix/posts/in-1960-jim-and-coral-lorenzen-moved-the-aerial-phenomena-research-organization-/1346690203529499/](https://www.facebook.com/kjzzphoenix/posts/in-1960-jim-and-coral-lorenzen-moved-the-aerial-phenomena-research-organization-/1346690203529499/)  
+   Link: <a href="https://www.facebook.com/kjzzphoenix/posts/in-1960-jim-and-coral-lorenzen-moved-the-aerial-phenomena-research-organization-/1346690203529499/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kjzzphoenix/posts/in-1960-jim-and-coral-lorenzen-moved-the-aerial-phenomena-research-organization-/1346690203529499/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1960, Jim and Coral Lorenzen moved the Aerial...In Sturgeon Bay, Wisconsin, a woman named Coral Lorenzen had a UFO... Research Organ...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: instagram.com  
    Title: Along with onlookers of the Lake Michigan lakeshore community,  
-   Link: [https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en-gb](https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en-gb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Coral Lorenzen was just a young girl of 9 when she witnessed...In 1952, when Lorenzen was in her late twenties, she saw another aerial a...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood](https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood)  
+   Link: <a href="https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An Encyclopedia of Flying Saucers Bowen Wood | PDFCoral Lorenzen, Aerial Phenomena Research Organization, Sturgeon Bay, Wisconsin...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: cultofweird.com  
-   Link: [https://www.cultofweird.com/ufo-sightings/coral-lorenzen/](https://www.cultofweird.com/ufo-sightings/coral-lorenzen/)  
+   Link: <a href="https://www.cultofweird.com/ufo-sightings/coral-lorenzen/" target="_blank" rel="noopener noreferrer nofollow">https://www.cultofweird.com/ufo-sightings/coral-lorenzen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>terious object in the sky over Barron, WI over a decade before Roswell...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: books.google.com  
-   Link: [https://books.google.com/books/about/The_Collected_Issues_of_THE_A_P_R_O_BULL.html?id=fdm-zQEACAAJ](https://books.google.com/books/about/The_Collected_Issues_of_THE_A_P_R_O_BULL.html?id=fdm-zQEACAAJ)  
+   Link: <a href="https://books.google.com/books/about/The_Collected_Issues_of_THE_A_P_R_O_BULL.html?id=fdm-zQEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Collected_Issues_of_THE_A_P_R_O_BULL.html?id=fdm-zQEACAAJ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksThe Collected Issues of THE A.P.R.O BULLETIN AERIAL...THE A.P.R.O BULLETIN was published by Coral Lorenzen at Sturgeon Bay...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: link.springer.com  
    Title: Link UNIDENTIFIED AERIAL PHENOMENA  
-   Link: [https://link.springer.com/content/pdf/10.1007/978-3-031-34398-8.pdf](https://link.springer.com/content/pdf/10.1007/978-3-031-34398-8.pdf)  
+   Link: <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-34398-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/content/pdf/10.1007/978-3-031-34398-8.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on May 21, 1952, hundreds of people witnessed a. UFO at Sturgeon Bay, Door County, Wisconsin, for approximately 40 min. By chance...Read...</p></details>
    Published: May 21, 1952  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Jj3DhKSaw0w](https://www.youtube.com/watch?v=Jj3DhKSaw0w)  
+   Link: <a href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jj3DhKSaw0w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WEIRD WISCONSIN: [Eagle River](&amp;#123;&amp;#123; &#x27;eagle-river/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; Joe Simonton&#x27;s BIZARRE UFO Pancakes...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sohp.us  
    Title: GROSS 1952 Jan May SN  
-   Link: [https://sohp.us/collections/ufos-a-history/pdf/GROSS-1952-Jan-May-SN.pdf](https://sohp.us/collections/ufos-a-history/pdf/GROSS-1952-Jan-May-SN.pdf)  
+   Link: <a href="https://sohp.us/collections/ufos-a-history/pdf/GROSS-1952-Jan-May-SN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sohp.us/collections/ufos-a-history/pdf/GROSS-1952-Jan-May-SN.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: A History, 1952: January–May (Supplemental Notes)The files of APRO, NICAP, MUFON and CUFOS have a lot of cases &quot;gathering dust&quot; so...</p></details>

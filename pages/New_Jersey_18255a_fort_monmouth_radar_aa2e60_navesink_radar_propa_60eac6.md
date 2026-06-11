@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /fort-monmouth/
 nav_short_title: Navesink radar
 title: When radar made a UFO seem faster
-title_full: When radar made a UFO seem faster | Fort Monmouth
+title_full: When radar made a UFO seem faster
 display_title_short: Navesink radar
 display_title: Navesink radar
 heading_title: When radar made a UFO seem faster
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:52:06'
-parent_title: Did Fort Monmouth Change UFO Investigations? | New Jersey UFOs
+parent_title: Did Fort Monmouth Change UFO Investigations?
 parent_permalink: /fort-monmouth/
 parent_nav_short_title: Fort Monmouth
 parent_heading_title: Did Fort Monmouth Change UFO Investigations?
@@ -252,21 +252,18 @@ image: /assets/images/New_Jersey_18255a_fort_monmouth_radar_aa2e60_navesink_rada
 
 The Navesink radar episode became one of the most discussed parts of the 1951 [Fort Monmouth]({{ 'fort-monmouth/' | relative_url }}) UFO reports because it seemed to offer something stronger than a witness description: a radar target apparently performing impossible manoeuvres. In the tense early Cold War atmosphere, radar was widely viewed as an objective instrument. A strange return on a military radar screen could appear more convincing than a report of lights in the sky.
 
+<img src="{{ "/assets/images/New_Jersey_18255a_fort_monmouth_radar_aa2e60_navesink_radar_propa_60eac6-Illustration-1-dark.svg" | relative_url }}" alt="Navesink radar illustration 1" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_fort_monmouth_radar_aa2e60_navesink_radar_propa_60eac6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_fort_monmouth_radar_aa2e60_navesink_radar_propa_60eac6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Yet the Navesink case also became an early lesson in the limits of radar evidence. Air Force investigators eventually argued that the dramatic movements may not have represented a solid object at all. Instead, they pointed to anomalous propagation, a condition in which unusual atmospheric layers bend radar beams and create misleading returns. The dispute matters because it shows how a radar-backed UFO report could look compelling in real time while later analysis suggested a far more ordinary explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/28" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Project Blue Book, complete status reports</span><span class="citation-popover-snippet">Page:Project Blue Book, complete status reports.pdf/28On 10 September 1951, 1515 hours, an SCR 584, serial number 433, tracked...</span><span class="citation-popover-meta">Published: September 1951</span></span></span>
 
-<img src="{{ "/assets/images/New_Jersey_18255a_fort_monmouth_radar_aa2e60_navesink_radar_propa_60eac6-Illustration-1-light.svg" | relative_url }}" alt="Navesink radar illustration 1" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_fort_monmouth_radar_aa2e60_navesink_radar_propa_60eac6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_fort_monmouth_radar_aa2e60_navesink_radar_propa_60eac6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Yet the Navesink case also became an early lesson in the limits of radar evidence. Air Force investigators eventually argued that the dramatic movements may not have represented a solid object at all. Instead, they pointed to anomalous propagation, a condition in which unusual atmospheric layers bend radar beams and create misleading returns. The dispute matters because it shows how a radar-backed UFO report could look compelling in real time while later analysis suggested a far more ordinary explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/28" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Project Blue Book, complete status reports</span><span class="citation-popover-snippet">WikisourcePage:Project Blue Book, complete status reports.pdf/28On 10 September 1951, 1515 hours, an SCR 584, serial number 433, tracked...</span><span class="citation-popover-meta">Published: September 1951</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OoKm417zKOA" title="10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer">10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs</a></p><p class="youtube-embed-meta">Channel: TopTenz &middot; Views: 271.1K &middot; Uploaded: February 2019 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OoKm417zKOA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dHGn_yPSgg0" title="Why This UFO Sighting Was Different | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer">Why This UFO Sighting Was Different | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied &middot; Views: 427.6K &middot; Uploaded: February 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dHGn_yPSgg0">Open on YouTube</a></p></div></div></div>
 
 ## What operators saw on the Navesink radar return
 
 The Navesink report emerged during the wider cluster of Fort Monmouth incidents on 10 and 11 September 1951. Radar operators using SCR-584 tracking radar systems reported unusual targets northeast of Fort Monmouth and near the Navesink area overlooking Sandy Hook Bay and the Atlantic coast. The SCR-584 was not a primitive device. It was one of the most sophisticated radar systems of its era, designed for automatic tracking and capable of following high-speed aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ll.mit.edu/impact/commemorating-scr-584-radar-historical-pioneer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ll.mit.edu">[ll.mit.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ll.mit.edu</span><span class="citation-popover-snippet">Commemorating the SCR-584 radar, a historical pioneerThe SCR-584 was a marvel of its time, able to detect an aircraft out to a distance o...</span></span></span>
 
-According to Project Blue Book records, one of the most puzzling returns appeared on 11 September. Operators reported a target that seemed to hover, climb rapidly and then move south at extraordinary speed. Such behaviour naturally attracted attention because it did not resemble the smooth track expected from an aircraft or weather balloon. The return appeared to show abrupt changes in altitude and velocity that would have exceeded the performance of known aircraft available in 1951. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/28" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Project Blue Book, complete status reports</span><span class="citation-popover-snippet">WikisourcePage:Project Blue Book, complete status reports.pdf/28On 10 September 1951, 1515 hours, an SCR 584, serial number 433, tracked...</span><span class="citation-popover-meta">Published: September 1951</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[wikimedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book, BBA PBSR1 300</span><span class="citation-popover-snippet">Wikimedia CommonsThe Project Blue Book ArchiveThe ~133Q EDST radar sighting on 11 September 1951 rer-ains unknown but it was very possibl...</span><span class="citation-popover-meta">Published: September 1951</span></span></span> Part of the reason the report gained traction was the setting. Fort Monmouth housed Army Signal Corps personnel whose work centred on communications and radar technology. To outside observers, reports from trained operators seemed more credible than reports from casual witnesses. The impression was that experienced technicians had watched an unknown object behave in a way that could not easily be explained away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.infoage.org/history-ia/world-war-ii-radar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infoage.org">[infoage.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infoage.org</span><span class="citation-popover-snippet">World War II &amp; RadarDeveloped at Fort Monmouth&#x27;s Camp Evans, the SCR-584 radar leapfrogged German radar-jamming technology, giving allied...</span></span></span>
+According to Project Blue Book records, one of the most puzzling returns appeared on 11 September. Operators reported a target that seemed to hover, climb rapidly and then move south at extraordinary speed. Such behaviour naturally attracted attention because it did not resemble the smooth track expected from an aircraft or weather balloon. The return appeared to show abrupt changes in altitude and velocity that would have exceeded the performance of known aircraft available in 1951. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/28" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Project Blue Book, complete status reports</span><span class="citation-popover-snippet">Page:Project Blue Book, complete status reports.pdf/28On 10 September 1951, 1515 hours, an SCR 584, serial number 433, tracked...</span><span class="citation-popover-meta">Published: September 1951</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[wikimedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book, BBA PBSR1 300</span><span class="citation-popover-snippet">Wikimedia CommonsThe Project Blue Book ArchiveThe ~133Q EDST radar sighting on 11 September 1951 rer-ains unknown but it was very possibl...</span><span class="citation-popover-meta">Published: September 1951</span></span></span> Part of the reason the report gained traction was the setting. Fort Monmouth housed Army Signal Corps personnel whose work centred on communications and radar technology. To outside observers, reports from trained operators seemed more credible than reports from casual witnesses. The impression was that experienced technicians had watched an unknown object behave in a way that could not easily be explained away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.infoage.org/history-ia/world-war-ii-radar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infoage.org">[infoage.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infoage.org</span><span class="citation-popover-snippet">World War II &amp; RadarDeveloped at Fort Monmouth&#x27;s Camp Evans, the SCR-584 radar leapfrogged German radar-jamming technology, giving allied...</span></span></span>
 
 The difficulty is that radar operators do not directly see aircraft. They see electronic representations created from reflected radio energy. A striking radar display can therefore result either from an unusual object or from unusual radar behaviour.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w3mGvTQ5lyc" title="The Report on Unidentified Flying Objects by Edward J. RUPPELT Part 3/3 | Full Audio Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w3mGvTQ5lyc" target="_blank" rel="noopener noreferrer">The Report on Unidentified Flying Objects by Edward J. RUPPELT Part 3/3 | Full Audio Book</a></p><p class="youtube-embed-meta">Channel: LibriVox Audiobooks &middot; Views: 14.7K &middot; Uploaded: September 2018 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w3mGvTQ5lyc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w3mGvTQ5lyc">Open on YouTube</a></p></div></div></div>
 
@@ -283,20 +280,18 @@ That detail is important. Investigators were not merely arguing that the radar m
 * Ambiguous radar information may have been interpreted as extraordinary movement.
 * The apparent performance of the target could have been an artefact of the display rather than a real flight path. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book, BBA PBSR1 300</span><span class="citation-popover-snippet">Wikimedia CommonsThe Project Blue Book ArchiveThe ~133Q EDST radar sighting on 11 September 1951 rer-ains unknown but it was very possibl...</span><span class="citation-popover-meta">Published: September 1951</span></span></span>
 
-The same Blue Book records classified another radar event from the period as a weather balloon and treated several other returns as less mysterious after closer examination. This reinforced the Air Force view that extraordinary radar tracks did not automatically indicate unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/28" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Project Blue Book, complete status reports</span><span class="citation-popover-snippet">WikisourcePage:Project Blue Book, complete status reports.pdf/28On 10 September 1951, 1515 hours, an SCR 584, serial number 433, tracked...</span><span class="citation-popover-meta">Published: September 1951</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book, BBA PBSR1 300</span><span class="citation-popover-snippet">Wikimedia CommonsThe Project Blue Book ArchiveThe ~133Q EDST radar sighting on 11 September 1951 rer-ains unknown but it was very possibl...</span><span class="citation-popover-meta">Published: September 1951</span></span></span>
+The same Blue Book records classified another radar event from the period as a weather balloon and treated several other returns as less mysterious after closer examination. This reinforced the Air Force view that extraordinary radar tracks did not automatically indicate unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/28" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Project Blue Book, complete status reports</span><span class="citation-popover-snippet">Page:Project Blue Book, complete status reports.pdf/28On 10 September 1951, 1515 hours, an SCR 584, serial number 433, tracked...</span><span class="citation-popover-meta">Published: September 1951</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book, BBA PBSR1 300</span><span class="citation-popover-snippet">Wikimedia CommonsThe Project Blue Book ArchiveThe ~133Q EDST radar sighting on 11 September 1951 rer-ains unknown but it was very possibl...</span><span class="citation-popover-meta">Published: September 1951</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Jersey_18255a_fort_monmouth_radar_aa2e60_navesink_radar_propa_60eac6-Illustration-2-light.svg" | relative_url }}" alt="Navesink radar illustration 2" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_fort_monmouth_radar_aa2e60_navesink_radar_propa_60eac6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_fort_monmouth_radar_aa2e60_navesink_radar_propa_60eac6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Jersey_18255a_fort_monmouth_radar_aa2e60_navesink_radar_propa_60eac6-Illustration-2-dark.svg" | relative_url }}" alt="Navesink radar illustration 2" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_fort_monmouth_radar_aa2e60_navesink_radar_propa_60eac6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_fort_monmouth_radar_aa2e60_navesink_radar_propa_60eac6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the explanation remained controversial
 
 The anomalous propagation explanation never completely satisfied UFO researchers. Critics argued that trained military operators should have recognised common radar artefacts. Some also pointed out that the Fort Monmouth incidents involved multiple reports over two days rather than a single isolated radar blip. To them, the accumulation of radar returns, visual sightings and military interest suggested that something unusual had occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://s3.us-west-1.wasabisys.com/luminist/EB/R/Ruppelt%20-%20The%20Report%20on%20UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: s3.us-west-1.wasabisys.com">[Wasabi Technologies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">s3.us-west-1.wasabisys.com</span><span class="citation-popover-title">Wasabi Technologies The only book about FLYING SAUCERS based</span><span class="citation-popover-snippet">Rup- pelt was chief of the United States Air For e&#x27;s Project Blue. Book, an operation of the Air Technical...</span></span></span>
 
 Supporters of the official explanation countered that precisely because the events occurred during a period of heightened attention, ordinary ambiguities could acquire greater significance. Once a radar room begins discussing strange targets, operators may scrutinise displays more intensely and connect unrelated events into a single narrative. The Blue Book analysis specifically raised the possibility that expectations influenced interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book, BBA PBSR1 300</span><span class="citation-popover-snippet">Wikimedia CommonsThe Project Blue Book ArchiveThe ~133Q EDST radar sighting on 11 September 1951 rer-ains unknown but it was very possibl...</span><span class="citation-popover-meta">Published: September 1951</span></span></span>
 
-Another complication is that surviving records do not provide enough technical data to reconstruct every radar return in detail. Modern analysts therefore work largely from summaries, reports and later recollections rather than complete raw radar recordings. That limits how confidently anyone can settle the matter decades later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/28" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Project Blue Book, complete status reports</span><span class="citation-popover-snippet">WikisourcePage:Project Blue Book, complete status reports.pdf/28On 10 September 1951, 1515 hours, an SCR 584, serial number 433, tracked...</span><span class="citation-popover-meta">Published: September 1951</span></span></span>
+Another complication is that surviving records do not provide enough technical data to reconstruct every radar return in detail. Modern analysts therefore work largely from summaries, reports and later recollections rather than complete raw radar recordings. That limits how confidently anyone can settle the matter decades later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/28" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Project Blue Book, complete status reports</span><span class="citation-popover-snippet">Page:Project Blue Book, complete status reports.pdf/28On 10 September 1951, 1515 hours, an SCR 584, serial number 433, tracked...</span><span class="citation-popover-meta">Published: September 1951</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UKzI3uu_oTQ" title="Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 393.5K &middot; Uploaded: March 2019 &middot; Length: 2 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UKzI3uu_oTQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/okQx0gcQPV0" title="Radar &amp; ARPA Explained | Basics of Marine Radar – Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=okQx0gcQPV0" target="_blank" rel="noopener noreferrer">Radar &amp; ARPA Explained | Basics of Marine Radar – Part 1</a></p><p class="youtube-embed-meta">Channel: Beyond The Horizon &middot; Views: 6.4K &middot; Uploaded: September 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=okQx0gcQPV0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=okQx0gcQPV0">Open on YouTube</a></p></div></div></div>
 
 ## What the case shows about radar evidence
 
@@ -312,10 +307,9 @@ Several lessons emerge from the case:
 
 **Official explanations can be partial rather than absolute.** The Air Force did not claim every detail was fully resolved. Instead, it argued that anomalous propagation offered the most plausible explanation for the most dramatic radar behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book, BBA PBSR1 300</span><span class="citation-popover-snippet">Wikimedia CommonsThe Project Blue Book ArchiveThe ~133Q EDST radar sighting on 11 September 1951 rer-ains unknown but it was very possibl...</span><span class="citation-popover-meta">Published: September 1951</span></span></span>
 
-Within [New Jersey]({{ 'what-really-happened-in-new-jerseys-ufo/' | relative_url }}) UFO history, the Navesink radar return is therefore less important as evidence for an unknown craft than as a case study in how radar reports gain authority. The episode helped shape later debates around Fort Monmouth and Project Blue Book. It demonstrated that a radar target could appear to show impossible speed and manoeuvrability while still leaving investigators asking whether the real mystery lay in the sky or in the atmosphere between the radar and its target. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/28" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Project Blue Book, complete status reports</span><span class="citation-popover-snippet">WikisourcePage:Project Blue Book, complete status reports.pdf/28On 10 September 1951, 1515 hours, an SCR 584, serial number 433, tracked...</span><span class="citation-popover-meta">Published: September 1951</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book, BBA PBSR1 300</span><span class="citation-popover-snippet">Wikimedia CommonsThe Project Blue Book ArchiveThe ~133Q EDST radar sighting on 11 September 1951 rer-ains unknown but it was very possibl...</span><span class="citation-popover-meta">Published: September 1951</span></span></span>
+Within New Jersey UFO history, the Navesink radar return is therefore less important as evidence for an unknown craft than as a case study in how radar reports gain authority. The episode helped shape later debates around Fort Monmouth and Project Blue Book. It demonstrated that a radar target could appear to show impossible speed and manoeuvrability while still leaving investigators asking whether the real mystery lay in the sky or in the atmosphere between the radar and its target. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/28" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:Project Blue Book, complete status reports</span><span class="citation-popover-snippet">Page:Project Blue Book, complete status reports.pdf/28On 10 September 1951, 1515 hours, an SCR 584, serial number 433, tracked...</span><span class="citation-popover-meta">Published: September 1951</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book, BBA PBSR1 300</span><span class="citation-popover-snippet">Wikimedia CommonsThe Project Blue Book ArchiveThe ~133Q EDST radar sighting on 11 September 1951 rer-ains unknown but it was very possibl...</span><span class="citation-popover-meta">Published: September 1951</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Jersey_18255a_fort_monmouth_radar_aa2e60_navesink_radar_propa_60eac6-Illustration-3-light.svg" | relative_url }}" alt="Navesink radar illustration 3" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_fort_monmouth_radar_aa2e60_navesink_radar_propa_60eac6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_fort_monmouth_radar_aa2e60_navesink_radar_propa_60eac6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Jersey_18255a_fort_monmouth_radar_aa2e60_navesink_radar_propa_60eac6-Illustration-3-dark.svg" | relative_url }}" alt="Navesink radar illustration 3" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_fort_monmouth_radar_aa2e60_navesink_radar_propa_60eac6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_fort_monmouth_radar_aa2e60_navesink_radar_propa_60eac6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -403,7 +397,7 @@ Within [New Jersey]({{ 'what-really-happened-in-new-jerseys-ufo/' | relative_url
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -413,111 +407,36 @@ Within [New Jersey]({{ 'what-really-happened-in-new-jerseys-ufo/' | relative_url
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow Spaceship Iron on Patch UFO multicolour teleport ray beam transport"><img src="https://i.ebayimg.com/images/g/cBsAAOSwJItehJhF/s-l225.jpg" alt="Listing image for Rainbow Spaceship Iron on Patch UFO multicolour teleport ray beam transport" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Rainbow Spaceship Iron on Patch UFO multicolour teleport ray beam transport</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +444,15 @@ Within [New Jersey]({{ 'what-really-happened-in-new-jerseys-ufo/' | relative_url
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens UFO Patch Iron On Patch Applique Not From This World NASA"><img src="https://i.ebayimg.com/images/g/dXAAAeSwKiRoldEg/s-l225.jpg" alt="Listing image for Aliens UFO Patch Iron On Patch Applique Not From This World NASA" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Aliens UFO Patch Iron On Patch Applique Not From This World NASA</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,15 +460,15 @@ Within [New Jersey]({{ 'what-really-happened-in-new-jerseys-ufo/' | relative_url
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo"><img src="https://i.ebayimg.com/images/g/mdEAAOSwa~dkHZjp/s-l225.jpg" alt="Listing image for Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Ufology Ufo Abduction Embroidered Patch Iron or Sew On Badge applique logo</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -557,15 +476,15 @@ Within [New Jersey]({{ 'what-really-happened-in-new-jerseys-ufo/' | relative_url
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Out Of This World Embroidered Alien Patch Iron or Sew On Badge applique logo"><img src="https://i.ebayimg.com/images/g/-JgAAOSwMyhkHZzN/s-l225.jpg" alt="Listing image for Ufo Out Of This World Embroidered Alien Patch Iron or Sew On Badge applique logo" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Ufo Out Of This World Embroidered Alien Patch Iron or Sew On Badge applique logo</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -573,7 +492,7 @@ Within [New Jersey]({{ 'what-really-happened-in-new-jerseys-ufo/' | relative_url
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navesink-radar-when-radar-made-a-ufo-seem-faster-new-jersey-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="when-radar-made-a-ufo-seem-faster-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -650,17 +569,31 @@ Within [New Jersey]({{ 'what-really-happened-in-new-jerseys-ufo/' | relative_url
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -673,42 +606,73 @@ Within [New Jersey]({{ 'what-really-happened-in-new-jerseys-ufo/' | relative_url
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -723,12 +687,17 @@ Within [New Jersey]({{ 'what-really-happened-in-new-jerseys-ufo/' | relative_url
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -739,64 +708,64 @@ Within [New Jersey]({{ 'what-really-happened-in-new-jerseys-ufo/' | relative_url
 1. <a id="endnote-1"></a>
    Source: en.wikisource.org  
    Title: Page:Project Blue Book, complete status reports  
-   Link: [https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/28](https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/28)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:Project Blue Book, complete status reports.pdf/28On 10 September 1951, 1515 hours, an SCR 584, serial number 433, tracked...</p></details>
+   Link: <a href="https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/28" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AProject_Blue_Book%2C_complete_status_reports.pdf/28</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:Project Blue Book, complete status reports.pdf/28On 10 September 1951, 1515 hours, an SCR 584, serial number 433, tracked...</p></details>
    Published: September 1951  
 
 2. <a id="endnote-2"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR1 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf](https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveThe ~133Q EDST radar sighting on 11 September 1951 rer-ains unknown but it was very possibl...</p></details>
    Published: September 1951  
 
 3. <a id="endnote-3"></a>
    Source: ll.mit.edu  
-   Link: [https://www.ll.mit.edu/impact/commemorating-scr-584-radar-historical-pioneer](https://www.ll.mit.edu/impact/commemorating-scr-584-radar-historical-pioneer)  
+   Link: <a href="https://www.ll.mit.edu/impact/commemorating-scr-584-radar-historical-pioneer" target="_blank" rel="noopener noreferrer nofollow">https://www.ll.mit.edu/impact/commemorating-scr-584-radar-historical-pioneer</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Commemorating the SCR-584 radar, a historical pioneerThe SCR-584 was a marvel of its time, able to detect an aircraft out to a distance o...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 6  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: infoage.org  
-   Link: [https://www.infoage.org/history-ia/world-war-ii-radar/](https://www.infoage.org/history-ia/world-war-ii-radar/)  
+   Link: <a href="https://www.infoage.org/history-ia/world-war-ii-radar/" target="_blank" rel="noopener noreferrer nofollow">https://www.infoage.org/history-ia/world-war-ii-radar/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World War II &amp; RadarDeveloped at Fort Monmouth&#x27;s Camp Evans, the SCR-584 radar leapfrogged German radar-jamming technology, giving allied...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: army.mil  
    Title: history mystery from the archives  
-   Link: [https://www.army.mil/article/227612/history_mystery_from_the_archives](https://www.army.mil/article/227612/history_mystery_from_the_archives)  
+   Link: <a href="https://www.army.mil/article/227612/history_mystery_from_the_archives" target="_blank" rel="noopener noreferrer nofollow">https://www.army.mil/article/227612/history_mystery_from_the_archives</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Article24 Sept 2019 — The radar anomaly was attributed to user error. The records of &quot;Project Blue Book&quot; have been declassified, and many...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: history.army.mil  
-   Link: [https://history.army.mil/portals/143/Images/Publications/catalog/10-16.pdf](https://history.army.mil/portals/143/Images/Publications/catalog/10-16.pdf)  
+   Link: <a href="https://history.army.mil/portals/143/Images/Publications/catalog/10-16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.army.mil/portals/143/Images/Publications/catalog/10-16.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Signal Corps: The EmergencyThe reader can here follow from birth the history of Army radar and mobile radio, the first steps taken in the...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: infoage.org  
-   Link: [https://www.infoage.org/history-ia/world-war-ii-radar/camp-evans-developed-radar-key-at-anzio-italy/](https://www.infoage.org/history-ia/world-war-ii-radar/camp-evans-developed-radar-key-at-anzio-italy/)  
+   Link: <a href="https://www.infoage.org/history-ia/world-war-ii-radar/camp-evans-developed-radar-key-at-anzio-italy/" target="_blank" rel="noopener noreferrer nofollow">https://www.infoage.org/history-ia/world-war-ii-radar/camp-evans-developed-radar-key-at-anzio-italy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Camp Evans-developed radar key at Anzio, ItalyDeveloped at Fort Monmouth&#x27;s Camp Evans, the SCR-584 radar leapfrogged German radar-jamming...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: SCR-584 radar  
-   Link: [https://en.wikipedia.org/wiki/SCR-584_radar](https://en.wikipedia.org/wiki/SCR-584_radar)  
+   Link: <a href="https://en.wikipedia.org/wiki/SCR-584_radar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/SCR-584_radar</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SCR-584 radarThe SCR-584 (short for Set, Complete, Radio # 584) was an automatic-tracking microwave radar developed by the MIT Radiati...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: s3.us-west-1.wasabisys.com  
    Title: Wasabi Technologies The only book about FLYING SAUCERS based  
-   Link: [https://s3.us-west-1.wasabisys.com/luminist/EB/R/Ruppelt%20-%20The%20Report%20on%20UFOs.pdf](https://s3.us-west-1.wasabisys.com/luminist/EB/R/Ruppelt%20-%20The%20Report%20on%20UFOs.pdf)  
+   Link: <a href="https://s3.us-west-1.wasabisys.com/luminist/EB/R/Ruppelt%20-%20The%20Report%20on%20UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-west-1.wasabisys.com/luminist/EB/R/Ruppelt%20-%20The%20Report%20on%20UFOs.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rup- pelt was chief of the United States Air For e&#x27;s Project Blue. Book, an operation of the Air Technical...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the United States&#x27; longest-running Air Force pro...</p></details>
    Published: May 2026  
 
@@ -804,58 +773,58 @@ Within [New Jersey]({{ 'what-really-happened-in-new-jerseys-ufo/' | relative_url
 
 12. <a id="endnote-12"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo87330/pdf/GOVPUB-D114-PURL-gpo87330.pdf](https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo87330/pdf/GOVPUB-D114-PURL-gpo87330.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo87330/pdf/GOVPUB-D114-PURL-gpo87330.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-D114-PURL-gpo87330/pdf/GOVPUB-D114-PURL-gpo87330.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Signal Corps: The EmergencyThe reader can here follow from birth the history of Army radar and mobile radio, the first steps taken in...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: websail-fe.cs.northwestern.edu  
    Title: edubiennials Feijo BSDs Villalon woodi woods spiders  
-   Link: [https://websail-fe.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/word_list.txt](https://websail-fe.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/word_list.txt)  
+   Link: <a href="https://websail-fe.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/word_list.txt" target="_blank" rel="noopener noreferrer nofollow">https://websail-fe.cs.northwestern.edu/downloads/OTyper_data_aaai18/FIGER_data/word_list.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>anomalous officeholders S26 LANCER Vipiteno Necrophagia Jwaneng pre-tax marshall honeymoon nongovernmental reticuloendothelial Sitka gash...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: The Report on Unidentified Flying Objects  
-   Link: [https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects](https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsThe Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO invest...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: osi.af.mil  
    Title: project blue book part 1 ufo reports  
-   Link: [https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/](https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/)  
+   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book Part 1 (UFO Reports)6 Aug 2020 — In 1951, UFO investigations continued under the newly named Project Blue Book. The parameters...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: antiquewireless.org  
    Title: 1995 AWA Review Vol 09 1  
-   Link: [https://www.antiquewireless.org/wp-content/uploads/1995-AWA-Review-Vol-09-1.pdf](https://www.antiquewireless.org/wp-content/uploads/1995-AWA-Review-Vol-09-1.pdf)  
+   Link: <a href="https://www.antiquewireless.org/wp-content/uploads/1995-AWA-Review-Vol-09-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.antiquewireless.org/wp-content/uploads/1995-AWA-Review-Vol-09-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Volume 9 1995Signal Corps&#x27; SCR-584 10-cm wavelength radar, developed by the. Radiation Lab and the Signal Corps. This radar was specifica...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/rlwdrs/original_photo_from_project_blue_book_taken_in/](https://www.reddit.com/r/UFOs/comments/rlwdrs/original_photo_from_project_blue_book_taken_in/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/rlwdrs/original_photo_from_project_blue_book_taken_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rlwdrs/original_photo_from_project_blue_book_taken_in/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>And even our objective systems for observation (cameras, radar, etc) record anomalous...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified  
-   Link: [https://www.youtube.com/watch?v=UKzI3uu_oTQ](https://www.youtube.com/watch?v=UKzI3uu_oTQ)  
+   Link: <a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UKzI3uu_oTQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY&#x27;s upcoming new drama series &#x27;Project Blue Book&#x27; is based on the true, top-secret investigations into Unidentified Flying Objects...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Edward J. Ruppelt  
-   Link: [https://en.wikipedia.org/wiki/Edward_J._Ruppelt](https://en.wikipedia.org/wiki/Edward_J._Ruppelt)  
+   Link: <a href="https://en.wikipedia.org/wiki/Edward_J._Ruppelt" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Edward_J._Ruppelt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Edward J. RuppeltEdward James Ruppelt (July 17, 1923 – September 15, 1960) was a United States Air Force officer probably best known f...</p></details>
-   Published: July 17, 1923  
+   Published: July 17, 1923

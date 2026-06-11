@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-new-mexico-became-ufo-country/
 nav_short_title: Roswell
 title: What Really Holds Up in Roswell?
-title_full: What Really Holds Up in Roswell? | New Mexico UFOs
+title_full: What Really Holds Up in Roswell?
 display_title_short: Roswell
 display_title: Roswell
 heading_title: What Really Holds Up in Roswell?
@@ -268,8 +268,7 @@ image: /assets/images/New_Mexico_45551f_roswell_evidence_0eee44-overview-social.
 
 ## Introduction
 
-Roswell matters because it is both a real [New Mexico]({{ 'why-new-mexico-became-ufo-country/' | relative_url }}) military-debris incident from July 1947 and a much larger later story about secrecy, [missing records]({{ 'missing-records-0b152e/' | relative_url }}) and alleged alien recovery. What holds up best is modest: ranch debris was found near Roswell, the Army Air Forces briefly announced possession of a “flying disc”, and the story was quickly recast as a weather-balloon recovery. What does not hold up as strongly is the later claim that a crashed extraterrestrial craft and bodies were recovered. The strongest official explanation is that the debris came from Project Mogul, a classified high-altitude balloon programme connected to Cold War attempts to detect Soviet nuclear tests. The evidence problem is that Roswell combines a genuinely misleading early explanation, incomplete surviving records, late witness testimony and decades of retelling. That mix keeps the case culturally powerful, but it has not produced a reliable public chain of evidence for an alien crash. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Roswell UFOOn</span><span class="citation-popover-snippet">Roswell UFOOn</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">nsiad 95 187</span></span></span>
-
+Roswell matters because it is both a real New Mexico military-debris incident from July 1947 and a much larger later story about secrecy, [missing records]({{ 'missing-records-0b152e/' | relative_url }}) and alleged alien recovery. What holds up best is modest: ranch debris was found near Roswell, the Army Air Forces briefly announced possession of a “flying disc”, and the story was quickly recast as a weather-balloon recovery. What does not hold up as strongly is the later claim that a crashed extraterrestrial craft and bodies were recovered. The strongest official explanation is that the debris came from Project Mogul, a classified high-altitude balloon programme connected to Cold War attempts to detect Soviet nuclear tests. The evidence problem is that Roswell combines a genuinely misleading early explanation, incomplete surviving records, late witness testimony and decades of retelling. That mix keeps the case culturally powerful, but it has not produced a reliable public chain of evidence for an alien crash. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Roswell UFOOn</span><span class="citation-popover-snippet">Roswell UFOOn</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">nsiad 95 187</span></span></span>
 
 <img src="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44-overview.webp" | relative_url }}" alt="Overview image for Roswell" loading="eager" decoding="sync" fetchpriority="high">
 ## What the 1947 debris story actually shows
@@ -280,8 +279,7 @@ The FBI’s surviving 8 July 1947 teletype is a useful anchor because it is cont
 
 The original debris descriptions are also much narrower than the later story. The publicly visible evidence points towards lightweight material, balloon-related equipment and radar-target features. The famous Fort Worth photographs of Brigadier General Roger Ramey, Major Marcel and debris have been argued over ever since, partly because some believers think the displayed material was swapped. Even so, the known photographs themselves do not show a recognisable craft, propulsion system, cabin, bodies or anything like a crash site excavation. Roswell’s evidential core is therefore not a photographed saucer; it is a disputed interpretation of scattered debris and a contradictory military press cycle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">AFD 101027 030</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44-Illustration-1-light.svg" | relative_url }}" alt="Roswell illustration 1" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44-Illustration-1-dark.svg" | relative_url }}" alt="Roswell illustration 1" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Project Mogul became the main official explanation
 
 The Project Mogul explanation matters because it accounts for the two features that make Roswell unusual: strange-looking debris and official secrecy. Mogul was a classified balloon programme using high-altitude balloon trains and acoustic equipment to help detect Soviet nuclear tests. That places Roswell firmly inside New Mexico’s wider Cold War landscape of balloon research, air bases, weapons work and restricted military projects. The official Air Force review in the 1990s concluded that the debris recovered in 1947 was most likely from Mogul, not from an extraterrestrial vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">report af roswell</span></span></span>
@@ -291,7 +289,6 @@ This explanation is stronger than the original “weather balloon” line becaus
 The Government Accountability Office search, requested after political pressure from New Mexico Congressman Steven Schiff, also matters here. Published in 1995, it found only two [1947 records]({{ '1947-records/' | relative_url }}) concerning the Roswell crash: a July 1947 history report by the combined 509th Bomb Group and Roswell Army Air Field, and the FBI teletype of 8 July 1947. GAO reported that some Roswell Army Air Field administrative records had been destroyed, including records for March 1945 to December 1949, and that the disposition form did not show who destroyed them, when, or under what authority. This is one of the strongest reasons Roswell remains an “evidence problem” rather than a cleanly closed historical file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">nsiad 95 187</span></span></span>
 
 But missing records do not automatically strengthen the alien claim. GAO’s search across classified and unclassified government records found no air accident record for an alien craft, no body-recovery file, and no hidden cache of Roswell crash documentation. It also noted that the 1947 records it did locate described a “flying disc” later identified by military officials as a radar-tracking balloon, and an FBI message describing an object resembling a high-altitude weather balloon with a radar reflector. The absence of records is frustrating, but it is not the same as positive evidence for the most dramatic version of the story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Open source on gao.gov.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nrLVpWBxHRA" title="Ross Coulthart weighs in on ‘Roswell Incident’ video | NewsNation Prime" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nrLVpWBxHRA" target="_blank" rel="noopener noreferrer">Ross Coulthart weighs in on ‘Roswell Incident’ video | NewsNation Prime</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 343.3K &middot; Uploaded: September 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nrLVpWBxHRA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nrLVpWBxHRA">Open on YouTube</a></p></div></div></div>
 
@@ -305,8 +302,7 @@ The 1997 Air Force report, *The Roswell Report: Case Closed*, tried to explain t
 
 The Ramey memo is a good example of how Roswell evidence often sits on the edge of readability. In a 1947 photograph, Brigadier General Roger Ramey is holding a document; later researchers have tried to enhance and decipher it. Some claim it refers to “victims of the wreck”, which would be significant if secure. The University of Texas at Arlington, which holds Roswell-related Fort Worth Star-Telegram material, has made high-resolution Ramey memo scans available, and Roswell researchers continue to debate the wording. But even sympathetic recent analysis has acknowledged that decipherment has not produced definitive results that rule out ordinary explanations. In evidence terms, a contested reading of a blurred photographed memo cannot carry the weight of a full alien-recovery claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.libraries.uta.edu">[sites.libraries.uta.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.libraries.uta.edu</span><span class="citation-popover-snippet">Open source on uta.edu.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uta.edu/utamagazine/spring-2017/stories/collected.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uta.edu">[UTA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uta.edu</span><span class="citation-popover-snippet">Open source on uta.edu.</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44-Illustration-2-light.svg" | relative_url }}" alt="Roswell illustration 2" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44-Illustration-2-dark.svg" | relative_url }}" alt="Roswell illustration 2" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the missing records do and do not prove
 
 The destroyed Roswell Army Air Field records are not a trivial detail. For readers sceptical of official accounts, they are one of the most understandable reasons for suspicion. If records covering the relevant years disappeared without a clear destruction authority, then the archive is incomplete at exactly the point where historians would want it to be strongest. GAO’s finding therefore weakens any overconfident claim that the paperwork completely settles Roswell. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/154832.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Open source on gao.gov.</span></span></span>
@@ -314,7 +310,6 @@ The destroyed Roswell Army Air Field records are not a trivial detail. For reade
 Yet an incomplete archive cuts both ways. It prevents a fully satisfying reconstruction, but it does not supply the missing content. The strongest alien-crash version would need corroborating material of a different order: physical debris with a secure chain of custody and non-terrestrial properties; contemporary medical, transport or security records; multiple independent 1947 documents describing bodies or a craft; or photographs and site records that could be authenticated. The surviving official and near-contemporary materials instead point to balloon-like debris, radar-reflector features and a military correction from “flying disc” to balloon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Roswell UFOOn</span><span class="citation-popover-snippet">Roswell UFOOn</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/gao-05-418.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">gao 05 418</span><span class="citation-popover-snippet">gao 05 418</span></span></span>
 
 This is why Roswell remains central to New Mexico UFO history without being strong proof of extraterrestrial visitation. It is a case where real secrecy existed, but secrecy is not the same as alien origin. It is a case where the first military statement was spectacular, but the statement itself may show confusion, haste or public-relations failure rather than secret knowledge of a spacecraft. It is a case where missing records matter, but the surviving record does not point where the legend points. That tension is more historically useful than a simple “true” or “false” verdict.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h54XMccPH-Q" title="The Top Secret Project That Spawned the Roswell UFO Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h54XMccPH-Q" target="_blank" rel="noopener noreferrer">The Top Secret Project That Spawned the Roswell UFO Incident</a></p><p class="youtube-embed-meta">Channel: Fact Quickie &middot; Views: 3.8K &middot; Uploaded: May 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h54XMccPH-Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h54XMccPH-Q">Open on YouTube</a></p></div></div></div>
 
@@ -326,8 +321,7 @@ That does not make the subject worthless. Roswell is valuable precisely because 
 
 Modern media periodically revives Roswell through newly circulated images, archive uploads, television episodes or claims about old memos. These can be interesting as cultural history, but they rarely change the evidential balance unless they add authenticated, specific and independently corroborated material. A newly noticed video, a sharper scan or a dramatic interview may renew attention, but attention is not the same as verification. Roswell has already had decades of attention; the unresolved question is whether any new item can move beyond suggestive interpretation. sites.libraries.uta.edu <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/RANAGT-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">RANAGT 3</span><span class="citation-popover-snippet">RANAGT 3</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44-Illustration-3-light.svg" | relative_url }}" alt="Roswell illustration 3" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44-Illustration-3-dark.svg" | relative_url }}" alt="Roswell illustration 3" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What really holds up in Roswell?
 
 The part that holds up best is the narrow historical incident: in July 1947, debris from an unusual airborne object was recovered in New Mexico; Roswell Army Air Field briefly announced a “flying disc”; the claim was rapidly corrected to a balloon-related explanation; and later official reviews tied the material to Project Mogul. This is enough to make Roswell a landmark in New Mexico UFO history, because it sits at the intersection of local ranching land, the 509th Bomb Group, Cold War secrecy, classified balloon work and national flying-saucer anxiety. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/multimedia-gallery/image/roswell-daily-record-newspaper-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[airandspace.si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">Roswell Daily Record</span><span class="citation-popover-snippet">Roswell Daily Record</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/search?SearchableText=ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-snippet">Open source on fbi.gov.</span></span></span>
@@ -336,9 +330,7 @@ The part that holds up least well is the fully developed alien-crash story. Publ
 
 The fairest conclusion is that Roswell is not best read as a clean debunking tale or as proven alien history. It is best read as an evidence lesson. A misleading early explanation can damage trust for generations. Missing records can keep suspicion alive. Witnesses can be sincere and still mistaken, especially after decades of retelling. Official reports can answer some questions while leaving others emotionally unsatisfying. Within New Mexico’s UFO history, Roswell remains the central case not because it proves the extraordinary claim, but because it shows how secrecy, memory and a thin documentary trail can make one patch of desert debris carry the weight of an entire mythology.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FhuFiUSLFLI" title="Il mistero dell&#x27;incidente di Roswell finalmente risolto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FhuFiUSLFLI" target="_blank" rel="noopener noreferrer">Il mistero dell&#x27;incidente di Roswell finalmente risolto</a></p><p class="youtube-embed-meta">Channel: IL LATO POSITIVO &middot; Views: 762 &middot; Uploaded: May 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FhuFiUSLFLI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FhuFiUSLFLI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -762,219 +754,219 @@ The fairest conclusion is that Roswell is not best read as a clean debunking tal
 1. <a id="endnote-1"></a>
    Source: vault.fbi.gov  
    Title: Roswell UFOOn  
-   Link: [https://vault.fbi.gov/Roswell%20UFO](https://vault.fbi.gov/Roswell%20UFO)  
+   Link: <a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
 
 2. <a id="endnote-2"></a>
    Source: gao.gov  
    Title: nsiad 95 187  
-   Link: [https://www.gao.gov/assets/nsiad-95-187.pdf](https://www.gao.gov/assets/nsiad-95-187.pdf)  
+   Link: <a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: airandspace.si.edu  
    Title: Roswell Daily Record  
-   Link: [https://airandspace.si.edu/multimedia-gallery/image/roswell-daily-record-newspaper-ufo](https://airandspace.si.edu/multimedia-gallery/image/roswell-daily-record-newspaper-ufo)  
+   Link: <a href="https://airandspace.si.edu/multimedia-gallery/image/roswell-daily-record-newspaper-ufo" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/multimedia-gallery/image/roswell-daily-record-newspaper-ufo</a>  
 
 4. <a id="endnote-4"></a>
    Source: en.wikisource.org  
    Title: RAAF Captures Flying Saucer on Ranch in Roswell Region  
-   Link: [https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region](https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region)  
+   Link: <a href="https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Roswell_Daily_Record/1947/RAAF_Captures_Flying_Saucer_on_Ranch_in_Roswell_Region</a>  
 
 5. <a id="endnote-5"></a>
    Source: wired.com  
    Title: 0708army announces roswell new mexico ufo sighting  
-   Link: [https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting](https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting)  
+   Link: <a href="https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/07/0708army-announces-roswell-new-mexico-ufo-sighting</a>  
 
 6. <a id="endnote-6"></a>
    Source: time.com  
    Title: This Is Why People Think UFOs Look Like 'Flying Saucers'  
-   Link: [https://time.com/3930602/first-reported-ufo/](https://time.com/3930602/first-reported-ufo/)  
+   Link: <a href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3930602/first-reported-ufo/</a>  
 
 7. <a id="endnote-7"></a>
    Source: uta.edu  
-   Link: [https://www.uta.edu/utamagazine/spring-2017/stories/collected.php](https://www.uta.edu/utamagazine/spring-2017/stories/collected.php)  
+   Link: <a href="https://www.uta.edu/utamagazine/spring-2017/stories/collected.php" target="_blank" rel="noopener noreferrer nofollow">https://www.uta.edu/utamagazine/spring-2017/stories/collected.php</a>  
 
 8. <a id="endnote-8"></a>
    Source: nsa.gov  
    Title: report af roswell  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: gao.gov  
    Title: nsiad 95 187  
-   Link: [https://www.gao.gov/products/nsiad-95-187](https://www.gao.gov/products/nsiad-95-187)  
+   Link: <a href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad-95-187</a>  
 
 10. <a id="endnote-10"></a>
    Source: time.com  
    Title: How the Roswell UFO Theory Got Started  
-   Link: [https://time.com/3916193/roswell-history/](https://time.com/3916193/roswell-history/)  
+   Link: <a href="https://time.com/3916193/roswell-history/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3916193/roswell-history/</a>  
 
 11. <a id="endnote-11"></a>
    Source: sites.libraries.uta.edu  
-   Link: [https://sites.libraries.uta.edu/roswell/ramey-memo](https://sites.libraries.uta.edu/roswell/ramey-memo)  
+   Link: <a href="https://sites.libraries.uta.edu/roswell/ramey-memo" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/ramey-memo</a>  
 
 12. <a id="endnote-12"></a>
    Source: philpapers.org  
    Title: RANAGT 3  
-   Link: [https://philpapers.org/rec/RANAGT-3](https://philpapers.org/rec/RANAGT-3)  
+   Link: <a href="https://philpapers.org/rec/RANAGT-3" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/RANAGT-3</a>  
 
 13. <a id="endnote-13"></a>
    Source: sites.libraries.uta.edu  
-   Link: [https://sites.libraries.uta.edu/roswell/](https://sites.libraries.uta.edu/roswell/)  
+   Link: <a href="https://sites.libraries.uta.edu/roswell/" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/</a>  
 
 14. <a id="endnote-14"></a>
    Source: sites.libraries.uta.edu  
-   Link: [https://sites.libraries.uta.edu/roswell/node/21](https://sites.libraries.uta.edu/roswell/node/21)  
+   Link: <a href="https://sites.libraries.uta.edu/roswell/node/21" target="_blank" rel="noopener noreferrer nofollow">https://sites.libraries.uta.edu/roswell/node/21</a>  
 
 15. <a id="endnote-15"></a>
    Source: gao.gov  
-   Link: [https://www.gao.gov/](https://www.gao.gov/)  
+   Link: <a href="https://www.gao.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/</a>  
 
 16. <a id="endnote-16"></a>
    Source: gao.gov  
-   Link: [https://www.gao.gov/assets/154832.pdf](https://www.gao.gov/assets/154832.pdf)  
+   Link: <a href="https://www.gao.gov/assets/154832.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/154832.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: gao.gov  
    Title: gao 05 418  
-   Link: [https://www.gao.gov/assets/gao-05-418.pdf](https://www.gao.gov/assets/gao-05-418.pdf)  
+   Link: <a href="https://www.gao.gov/assets/gao-05-418.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/gao-05-418.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: gao.gov  
    Title: rced 92 193r  
-   Link: [https://www.gao.gov/assets/rced-92-193r.pdf](https://www.gao.gov/assets/rced-92-193r.pdf)  
+   Link: <a href="https://www.gao.gov/assets/rced-92-193r.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/rced-92-193r.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: gao.gov  
    Title: emd 81 40  
-   Link: [https://www.gao.gov/assets/emd-81-40.pdf](https://www.gao.gov/assets/emd-81-40.pdf)  
+   Link: <a href="https://www.gao.gov/assets/emd-81-40.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/emd-81-40.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: gao.gov  
-   Link: [https://www.gao.gov/assets/b-119600-108404.pdf](https://www.gao.gov/assets/b-119600-108404.pdf)  
+   Link: <a href="https://www.gao.gov/assets/b-119600-108404.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/b-119600-108404.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: gao.gov  
    Title: b 146759  
-   Link: [https://www.gao.gov/assets/b-146759.pdf](https://www.gao.gov/assets/b-146759.pdf)  
+   Link: <a href="https://www.gao.gov/assets/b-146759.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/b-146759.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: gao.gov  
-   Link: [https://www.gao.gov/assets/nsiad-95-154.pdf](https://www.gao.gov/assets/nsiad-95-154.pdf)  
+   Link: <a href="https://www.gao.gov/assets/nsiad-95-154.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-154.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761379/](https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761379/)  
+   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761379/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761379/</a>  
 
 25. <a id="endnote-25"></a>
    Source: archive.org  
    Title: gov.archives.341 roswell 1  
-   Link: [https://archive.org/details/gov.archives.341-roswell-1](https://archive.org/details/gov.archives.341-roswell-1)  
+   Link: <a href="https://archive.org/details/gov.archives.341-roswell-1" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/gov.archives.341-roswell-1</a>  
 
 26. <a id="endnote-26"></a>
    Source: ia601607.us.archive.org  
    Title: DTIC ADA326148  
-   Link: [https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf](https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf)  
+   Link: <a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/search?SearchableText=ufo](https://vault.fbi.gov/search?SearchableText=ufo)  
+   Link: <a href="https://vault.fbi.gov/search?SearchableText=ufo" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/search?SearchableText=ufo</a>  
 
 28. <a id="endnote-28"></a>
    Source: time.com  
    Title: aliens or dummies  
-   Link: [https://time.com/archive/6930414/aliens-or-dummies/](https://time.com/archive/6930414/aliens-or-dummies/)  
+   Link: <a href="https://time.com/archive/6930414/aliens-or-dummies/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6930414/aliens-or-dummies/</a>  
 
 29. <a id="endnote-29"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/The-Roswell-Report/](https://www.af.mil/The-Roswell-Report/)  
+   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
 
 30. <a id="endnote-30"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: [https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf](https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf)  
+   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: [https://www.britannica.com/event/Roswell-incident](https://www.britannica.com/event/Roswell-incident)  
+   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
 
 32. <a id="endnote-32"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: [https://en.wikipedia.org/wiki/Roswell_incident](https://en.wikipedia.org/wiki/Roswell_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
 33. <a id="endnote-33"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: [https://en.wikipedia.org/wiki/Project_Mogul](https://en.wikipedia.org/wiki/Project_Mogul)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
 34. <a id="endnote-34"></a>
    Source: researchgate.net  
    Title: Roswell Daily Record,  
-   Link: [https://www.researchgate.net/figure/Roswell-Daily-Record-July-8-1947-announcing-the-capture-of-a-flying-saucer-Location_fig1_405192832](https://www.researchgate.net/figure/Roswell-Daily-Record-July-8-1947-announcing-the-capture-of-a-flying-saucer-Location_fig1_405192832)  
+   Link: <a href="https://www.researchgate.net/figure/Roswell-Daily-Record-July-8-1947-announcing-the-capture-of-a-flying-saucer-Location_fig1_405192832" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Roswell-Daily-Record-July-8-1947-announcing-the-capture-of-a-flying-saucer-Location_fig1_405192832</a>  
 
 35. <a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/364919149_The_Roswell_Incident](https://www.researchgate.net/publication/364919149_The_Roswell_Incident)  
+   Link: <a href="https://www.researchgate.net/publication/364919149_The_Roswell_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/364919149_The_Roswell_Incident</a>  
 
 36. <a id="endnote-36"></a>
    Source: sgp.fas.org  
-   Link: [https://sgp.fas.org/othergov/roswell.html](https://sgp.fas.org/othergov/roswell.html)  
+   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
 
 37. <a id="endnote-37"></a>
    Source: picryl.com  
    Title: Roswell Daily Record  
-   Link: [https://picryl.com/media/roswell-daily-record-july-8-1947-raaf-captures-flying-saucer-on-ranch-in-roswell-9d3b83](https://picryl.com/media/roswell-daily-record-july-8-1947-raaf-captures-flying-saucer-on-ranch-in-roswell-9d3b83)  
+   Link: <a href="https://picryl.com/media/roswell-daily-record-july-8-1947-raaf-captures-flying-saucer-on-ranch-in-roswell-9d3b83" target="_blank" rel="noopener noreferrer nofollow">https://picryl.com/media/roswell-daily-record-july-8-1947-raaf-captures-flying-saucer-on-ranch-in-roswell-9d3b83</a>  
 
 38. <a id="endnote-38"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: [https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html](https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html)  
+   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
 
 ### Additional References
 
 39. <a id="endnote-39"></a>
    Source: the-sun.com  
-   Link: [https://www.the-sun.com/news/15220778/ufo-debris-alien-bodies-roswell-incident-video-new-mexico/](https://www.the-sun.com/news/15220778/ufo-debris-alien-bodies-roswell-incident-video-new-mexico/)  
+   Link: <a href="https://www.the-sun.com/news/15220778/ufo-debris-alien-bodies-roswell-incident-video-new-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/15220778/ufo-debris-alien-bodies-roswell-incident-video-new-mexico/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The original incident involved a rancher discovering strange debris and Major Jesse Marcel collecting materials, initially described by t...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: house.gov  
-   Link: [https://www.house.gov/the-house-explained/legislative-branch-partners/government-accountability-office](https://www.house.gov/the-house-explained/legislative-branch-partners/government-accountability-office)  
+   Link: <a href="https://www.house.gov/the-house-explained/legislative-branch-partners/government-accountability-office" target="_blank" rel="noopener noreferrer nofollow">https://www.house.gov/the-house-explained/legislative-branch-partners/government-accountability-office</a>  
 
 41. <a id="endnote-41"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-collections](https://www.archives.gov/research/topics/uaps/rg-collections)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
 
 42. <a id="endnote-42"></a>
    Source: text-message.blogs.archives.gov  
-   Link: [https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/](https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/)  
+   Link: <a href="https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/" target="_blank" rel="noopener noreferrer nofollow">https://text-message.blogs.archives.gov/2017/07/05/see-something-say-something-ufo-reporting-requirements-office-of-military-government-for-bavaria-germany-may-1948/</a>  
    Published: may 1948  
 
 43. <a id="endnote-43"></a>
    Source: youtube.com  
    Title: The Top Secret Project That Spawned the Roswell UFO Incident  
-   Link: [https://www.youtube.com/watch?v=h54XMccPH-Q](https://www.youtube.com/watch?v=h54XMccPH-Q)  
+   Link: <a href="https://www.youtube.com/watch?v=h54XMccPH-Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h54XMccPH-Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Happened In The Roswell UFO Sighting?...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
    Title: The Roswell Incident Mystery Finally Solved  
-   Link: [https://www.youtube.com/watch?v=FhuFiUSLFLI](https://www.youtube.com/watch?v=FhuFiUSLFLI)  
+   Link: <a href="https://www.youtube.com/watch?v=FhuFiUSLFLI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FhuFiUSLFLI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Top Secret Project That Spawned the Roswell UFO Incident...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859](https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859)  
+   Link: <a href="https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/%22A-message-in-a-bottle%3A%22-Confounds-in-deciphering-Houran-Randle/0a08310d1ace75c161c8fef55cd69c68c89f7859</a>  
 
 46. <a id="endnote-46"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf](https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf)  
+   Link: <a href="https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/James-Houran/publication/228706129_A_Message_in_a_Bottle_Confounds_in_Deciphering_the_Ramey_Memo_from_the_Roswell_UFO_Case/links/0deec527833e585cd6000000/A-Message-in-a-Bottle-Confounds-in-Deciphering-the-Ramey-Memo-from-the-Roswell-UFO-Case.pdf</a>  
 
 47. <a id="endnote-47"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/Closeup-of-Brigadier-General-Roger-Ramey-holding-the-document-that-has-been-described-as_fig3_362854511](https://www.researchgate.net/figure/Closeup-of-Brigadier-General-Roger-Ramey-holding-the-document-that-has-been-described-as_fig3_362854511)  
+   Link: <a href="https://www.researchgate.net/figure/Closeup-of-Brigadier-General-Roger-Ramey-holding-the-document-that-has-been-described-as_fig3_362854511" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Closeup-of-Brigadier-General-Roger-Ramey-holding-the-document-that-has-been-described-as_fig3_362854511</a>  
 
 48. <a id="endnote-48"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1t7mqxl/did_the_us_just_quietly_confirm_the_roswell/](https://www.reddit.com/r/ufo/comments/1t7mqxl/did_the_us_just_quietly_confirm_the_roswell/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1t7mqxl/did_the_us_just_quietly_confirm_the_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1t7mqxl/did_the_us_just_quietly_confirm_the_roswell/</a>

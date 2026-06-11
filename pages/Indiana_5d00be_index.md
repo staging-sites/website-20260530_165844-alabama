@@ -7,7 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /indiana-5d00be-index/
 description: Focused pages that expand on What Makes Indiana’s UFO History Unique
   and....
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Indiana_5d00be
 parent_title: What Makes Indiana’s UFO History Unique and...

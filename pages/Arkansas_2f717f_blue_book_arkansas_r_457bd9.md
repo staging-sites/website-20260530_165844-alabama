@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-arkansas-skies/
 nav_short_title: Blue Book
 title: What Did Blue Book Really Add?
-title_full: What Did Blue Book Really Add? | Arkansas UFOs
+title_full: What Did Blue Book Really Add?
 display_title_short: Blue Book
 display_title: Blue Book
 heading_title: What Did Blue Book Really Add?
@@ -268,8 +268,7 @@ image: /assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9-overview-socia
 
 ## Introduction
 
-Project Blue Book gives [Arkansas]({{ 'what-really-happened-in-arkansas-skies/' | relative_url }}) UFO history something many older sightings lack: an official paper trail. Its value is not that it proves extraordinary craft over Arkansas, but that it shows what the US Air Force recorded, what it tried to check, and where the evidence ran out. For Arkansas, the strongest Blue Book anchor is the [Fort Smith case]({{ 'fort-smith-case/' | relative_url }}) file from August 1966, supported by smaller entries from places such as Pine Bluff and Blytheville. These records matter because they move the discussion beyond retold anecdotes, but they also set clear limits: many reports were reduced to lights, estimates, incomplete interviews, possible aircraft, satellites, stars, or “insufficient data”. The useful lesson is cautious. Blue Book can confirm that a report entered the official system; it cannot, by itself, turn a contested sighting into proof of an unknown vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
-
+Project Blue Book gives Arkansas UFO history something many older sightings lack: an official paper trail. Its value is not that it proves extraordinary craft over Arkansas, but that it shows what the US Air Force recorded, what it tried to check, and where the evidence ran out. For Arkansas, the strongest Blue Book anchor is the [Fort Smith case]({{ 'fort-smith-case/' | relative_url }}) file from August 1966, supported by smaller entries from places such as Pine Bluff and Blytheville. These records matter because they move the discussion beyond retold anecdotes, but they also set clear limits: many reports were reduced to lights, estimates, incomplete interviews, possible aircraft, satellites, stars, or “insufficient data”. The useful lesson is cautious. Blue Book can confirm that a report entered the official system; it cannot, by itself, turn a contested sighting into proof of an unknown vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
 <img src="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9-overview.webp" | relative_url }}" alt="Overview image for Blue Book" loading="eager" decoding="sync" fetchpriority="high">
 ## How Arkansas entered the official record
@@ -282,8 +281,7 @@ This is where Blue Book adds real value to Arkansas UFO history. The Fort Smith 
 
 The file also captures the ordinary uncertainty inside a famous case. Sergeant J. W. Gilbreth of the Fort Smith Police Department described four red lights that appeared immobile, with red, green, blinking white, and steady white lights moving in straight lines. His most important sentence is not sensational: he said what people saw were lights, but he could not say what they were on. That distinction is the heart of the case. Blue Book documented a mass sighting, but the recorded observation remained a lights-in-the-sky report rather than a confirmed structured craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span><span class="citation-popover-snippet">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span></span></span>
 
-
-<img src="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9-Illustration-1-light.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Fort Smith file really shows
 
 The Fort Smith record is unusually useful because it includes both the public drama and the investigative narrowing. On the sighting side, the report describes circular lights, red, green and white colours, no tail, no sound, straight flight paths, abrupt disappearances, and observations made from the ground, sometimes with binoculars. The 7 September 1966 Air Force letter says the material followed the basic reporting format but was “not detailed” because of the large number of people and sightings. That phrase is easy to miss, but it is central: even a large crowd did not produce a fully detailed evidential record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span><span class="citation-popover-snippet">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span></span></span>
@@ -293,7 +291,6 @@ On the investigation side, the file records several checks. A 16 August memorand
 That combination makes Fort Smith more interesting than a simple debunking story, but weaker than a “case closed” mystery. Blue Book did not merely ignore the report; it gathered local material, noted witness numbers, and sought aircraft information. At the same time, the evidence was thin in the places that would matter most: no radar confirmation, no physical trace, no complete witness sample, no recovered object, and no photographic negative available for independent checking. The report itself says physical evidence included recordings, news clippings, and photographs under separate cover, but the negative was not obtainable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span><span class="citation-popover-snippet">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span></span></span>
 
 The Air Force’s conclusion also matters. The Fort Smith page was not marked as proof of an unknown craft. It was evaluated as possible aircraft and astronomical objects, with named stars used as part of the analysis. That conclusion may not satisfy every reader, especially because some witness descriptions involved moving lights, but it is the official case outcome in the surviving Blue Book record. The file therefore supports a cautious reading: something prompted widespread observation and concern in Fort Smith, but the Air Force record does not establish an extraordinary vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/12264" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UlmwakUTo3M" title="UFO Interview, 1966" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UlmwakUTo3M" target="_blank" rel="noopener noreferrer">UFO Interview, 1966</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 688.0K &middot; Uploaded: September 2013 &middot; Length: 4 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UlmwakUTo3M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UlmwakUTo3M">Open on YouTube</a></p></div></div></div>
 
@@ -307,8 +304,7 @@ Blytheville adds another kind of limit. A March 1967 Blytheville file, “1967-0
 
 For Arkansas readers, this changes the shape of the state’s UFO history. The archive does not present a long sequence of confirmed anomalies. It presents a patchwork: a major public episode at Fort Smith, a few [smaller cases]({{ 'smaller-cases/' | relative_url }}) that Blue Book treated as satellites or aircraft, and some records that could not be evaluated. That pattern is exactly why Blue Book is useful. It allows a reader to separate a state’s memorable UFO lore from the narrower question of what the federal investigation actually had in hand.
 
-
-<img src="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9-Illustration-2-light.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Blue Book could and could not prove
 
 Blue Book’s official purpose was never to certify local legends. The Air Force later summarised the programme as an investigation of UFO reports from 1947 to 1969, with 12,618 sightings recorded and 701 remaining “unidentified” at the end. Its stated conclusions were that no UFO investigated and evaluated by the Air Force indicated a threat to national security, no evidence showed technology beyond modern scientific knowledge, and no evidence indicated extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
@@ -319,30 +315,26 @@ The official archive also has a structural bias towards what could be processed.
 
 This is the main risk in using Blue Book for Arkansas UFO history: treating paperwork as proof. A federal form can confirm that a sighting was reported and categorised; it cannot make weak observations strong. Conversely, an official explanation does not automatically erase every uncertainty in the witness testimony. The best reading sits between those extremes. Blue Book’s Arkansas files are evidence of investigation, not evidence of alien craft.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GcOCIabFnLE" title="Project Blue Book UFO Interview USAF (1966)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer">Project Blue Book UFO Interview USAF (1966)</a></p><p class="youtube-embed-meta">Channel: AIRBOYD &middot; Views: 783 &middot; Uploaded: November 2025 &middot; Length: 4 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GcOCIabFnLE">Open on YouTube</a></p></div></div></div>
 
 ## Using the archive without overstating it
 
 A careful reader can use the Arkansas [Blue Book files]({{ 'blue-book-file/' | relative_url }}) in three practical ways. First, the files help establish chronology. The Fort Smith case is a documented August 1966 [Blue Book file]({{ 'blue-book-file/' | relative_url }}), even if some later summaries fold the mid-1960s Arkansas reports together with the 1965 north-west Arkansas cluster. Second, the files help identify what investigators considered plausible at the time: aircraft, stars, satellites, or insufficient information. Third, they show which evidential gaps mattered most: missing negatives, limited interviews, no radar confirmation, and incomplete aircraft data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/doc/12264" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span><span class="citation-popover-snippet">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span></span></span>
 
-The Encyclopedia of Arkansas is useful for placing these files inside the wider state story. It identifies the 1896–97 [airship wave]({{ 'airship-wave/' | relative_url }}) and the mid-1960s reports as the state’s most notable multi-witness periods, and it notes the [Fort Smith Blue Book]({{ 'blue-book-file/' | relative_url }}) attention alongside earlier reports from Viney Grove, Fayetteville, and Blytheville. That state-level framing is helpful, but it should be kept separate from the narrower Blue Book file evidence. A local article can summarise a wave; a Blue Book case file shows what the Air Force actually recorded for a particular incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of Arkansas UFO Sightings</span></span></span>
+The Encyclopedia of Arkansas is useful for placing these files inside the wider state story. It identifies the 1896–97 [airship wave]({{ 'airship-wave/' | relative_url }}) and the mid-1960s reports as the state’s most notable multi-witness periods, and it notes the Fort Smith Blue Book attention alongside earlier reports from Viney Grove, Fayetteville, and Blytheville. That state-level framing is helpful, but it should be kept separate from the narrower Blue Book file evidence. A local article can summarise a wave; a Blue Book case file shows what the Air Force actually recorded for a particular incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of Arkansas UFO Sightings</span></span></span>
 
 This distinction is especially important for Arkansas because the state’s UFO history contains very different kinds of material: nineteenth-century newspaper airship stories, Cold War lights-in-the-sky reports, local law-enforcement testimony, later private UFO databases, and modern conference culture. Blue Book only covers one slice of that landscape. It does not adjudicate the 1897 airship stories, and it does not cover sightings after the programme closed in 1969. The National Archives explicitly states that Project Blue Book closed in 1969 and has no information on sightings after that date. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 The strongest archive habit is to ask what each file can actually bear. Does it show an official report? Yes. Does it show multiple witnesses? Sometimes, as in Fort Smith. Does it show radar confirmation, reliable photographs, physical material, or a coherent unknown craft track? In the Arkansas material discussed here, generally no. Does it still matter? Yes, because it gives Arkansas UFO history a checkable record rather than leaving it entirely to memory, rumour, or retelling.
 
-
-<img src="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9-Illustration-3-light.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_blue_book_arkansas_r_457bd9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Arkansas takeaway
 
 Project Blue Book’s Arkansas records are best understood as a filter, not a verdict machine. They filter local sightings through military reporting forms, Air Force procedures, available witness statements, and conventional explanations. The Fort Smith file is the clearest example: a large public sighting, police involvement, Air Force awareness, press attention, and later attempts to compare the reports with aircraft and astronomical objects. It is a serious historical document, but it is not a confirmation of an extraordinary craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span><span class="citation-popover-snippet">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span></span></span>
 
 The smaller Pine Bluff and Blytheville files sharpen that point. Once a sighting becomes a case file, the romance often drains away and the limits become visible: a probable satellite, a probable aircraft, an insufficient-data entry, a short observation, a missing detail, a conflict between versions. For public-facing Arkansas UFO history, that is not a disappointment. It is the value of the archive. Blue Book helps readers see which claims were formally recorded, which were plausibly explained, which remained too thin to judge, and why an official paper trail should be handled with care rather than used as a shortcut to certainty.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0ZAtXM_Dd5E" title="CBS Reports: UFO: Friend, Foe or Fantasy (May 10, 1966)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0ZAtXM_Dd5E" target="_blank" rel="noopener noreferrer">CBS Reports: UFO: Friend, Foe or Fantasy (May 10, 1966)</a></p><p class="youtube-embed-meta">Channel: SabuCat &middot; Views: 654 &middot; Uploaded: November 2025 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0ZAtXM_Dd5E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0ZAtXM_Dd5E">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -766,180 +758,180 @@ The smaller Pine Bluff and Blytheville files sharpen that point. Once a sighting
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 2. <a id="endnote-2"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book report 1966 08 8728209 FortSmith Arkansas  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf](https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: aliens at the archives  
-   Link: [https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/](https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/</a>  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: nara documents2  
-   Link: [https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2](https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2)  
+   Link: <a href="https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2</a>  
 
 6. <a id="endnote-6"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: [https://unwritten-record.blogs.archives.gov/2014/04/page/2/](https://unwritten-record.blogs.archives.gov/2014/04/page/2/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2014/04/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2014/04/page/2/</a>  
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/preservation/technical/imaging-storage-appendix.html](https://www.archives.gov/preservation/technical/imaging-storage-appendix.html)  
+   Link: <a href="https://www.archives.gov/preservation/technical/imaging-storage-appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/preservation/technical/imaging-storage-appendix.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: project blue book looking to the film record  
-   Link: [https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/](https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/</a>  
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
    Title: still pictures guide  
-   Link: [https://www.archives.gov/research/guides/still-pictures-guide](https://www.archives.gov/research/guides/still-pictures-guide)  
+   Link: <a href="https://www.archives.gov/research/guides/still-pictures-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guides/still-pictures-guide</a>  
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
    Title: Federal Records Guide: Alphabetical Index  
-   Link: [https://www.archives.gov/research/guide-fed-records/index-alpha/a.html](https://www.archives.gov/research/guide-fed-records/index-alpha/a.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/index-alpha/a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/a.html</a>  
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/guide-fed-records/groups/059.html](https://www.archives.gov/research/guide-fed-records/groups/059.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/groups/059.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/groups/059.html</a>  
 
 12. <a id="endnote-12"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/digitization/digitized-by-partners](https://www.archives.gov/digitization/digitized-by-partners)  
+   Link: <a href="https://www.archives.gov/digitization/digitized-by-partners" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/digitization/digitized-by-partners</a>  
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
    Title: entry 214  
-   Link: [https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html](https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html)  
+   Link: <a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html</a>  
 
 14. <a id="endnote-14"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book report 1950 06 9615158 Kingman Kan  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/2/2b/Project_Blue_Book_report_-_1950-06-9615158-Kingman-Kan.pdf](https://upload.wikimedia.org/wikipedia/commons/2/2b/Project_Blue_Book_report_-_1950-06-9615158-Kingman-Kan.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/2/2b/Project_Blue_Book_report_-_1950-06-9615158-Kingman-Kan.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/2b/Project_Blue_Book_report_-_1950-06-9615158-Kingman-Kan.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR12 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/8/8e/Project_Blue_Book%2C_BBA-PBSR12-300.pdf](https://upload.wikimedia.org/wikipedia/commons/8/8e/Project_Blue_Book%2C_BBA-PBSR12-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/8/8e/Project_Blue_Book%2C_BBA-PBSR12-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/8/8e/Project_Blue_Book%2C_BBA-PBSR12-300.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt](https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt)  
+   Link: <a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
 
 17. <a id="endnote-17"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/FlyingSaucerMindControlMkultraTechnology/Flying%20Saucer%20Mind%20Control%20Mkultra%20Technology_djvu.txt](https://archive.org/stream/FlyingSaucerMindControlMkultraTechnology/Flying%20Saucer%20Mind%20Control%20Mkultra%20Technology_djvu.txt)  
+   Link: <a href="https://archive.org/stream/FlyingSaucerMindControlMkultraTechnology/Flying%20Saucer%20Mind%20Control%20Mkultra%20Technology_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/FlyingSaucerMindControlMkultraTechnology/Flying%20Saucer%20Mind%20Control%20Mkultra%20Technology_djvu.txt</a>  
 
 18. <a id="endnote-18"></a>
    Source: encyclopedia.com  
    Title: condon report  
-   Link: [https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report)  
+   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report</a>  
 
 19. <a id="endnote-19"></a>
    Source: bluebookfiles.org  
-   Link: [https://bluebookfiles.org/doc/12264](https://bluebookfiles.org/doc/12264)  
+   Link: <a href="https://bluebookfiles.org/doc/12264" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/12264</a>  
 
 20. <a id="endnote-20"></a>
    Source: bluebookfiles.org  
-   Link: [https://bluebookfiles.org/doc/12587](https://bluebookfiles.org/doc/12587)  
+   Link: <a href="https://bluebookfiles.org/doc/12587" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/12587</a>  
 
 21. <a id="endnote-21"></a>
    Source: bluebookfiles.org  
-   Link: [https://bluebookfiles.org/doc/11431](https://bluebookfiles.org/doc/11431)  
+   Link: <a href="https://bluebookfiles.org/doc/11431" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/11431</a>  
 
 22. <a id="endnote-22"></a>
    Source: bluebookfiles.org  
-   Link: [https://bluebookfiles.org/doc/11954](https://bluebookfiles.org/doc/11954)  
+   Link: <a href="https://bluebookfiles.org/doc/11954" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/11954</a>  
 
 23. <a id="endnote-23"></a>
    Source: bluebookfiles.org  
-   Link: [https://bluebookfiles.org/doc/7993](https://bluebookfiles.org/doc/7993)  
+   Link: <a href="https://bluebookfiles.org/doc/7993" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/7993</a>  
 
 24. <a id="endnote-24"></a>
    Source: encyclopediaofarkansas.net  
    Title: Encyclopedia of Arkansas UFO Sightings  
-   Link: [https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/](https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/)  
+   Link: <a href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/</a>  
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 26. <a id="endnote-26"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 27. <a id="endnote-27"></a>
    Source: bahaistudies.net  
    Title: project blue book  
-   Link: [https://www.bahaistudies.net/asma/project_blue_book.pdf](https://www.bahaistudies.net/asma/project_blue_book.pdf)  
+   Link: <a href="https://www.bahaistudies.net/asma/project_blue_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/project_blue_book.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: localtvkfsm.files.wordpress.com  
-   Link: [https://localtvkfsm.files.wordpress.com/2015/01/ufo.pdf](https://localtvkfsm.files.wordpress.com/2015/01/ufo.pdf)  
+   Link: <a href="https://localtvkfsm.files.wordpress.com/2015/01/ufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://localtvkfsm.files.wordpress.com/2015/01/ufo.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: britannica.com  
    Title: Project Blue Book | Definition, History, Aliens, UFOs, & Facts BBC News  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: CBS Reports: UFO: Friend, Foe or Fantasy (  
-   Link: [https://www.youtube.com/watch?v=0ZAtXM_Dd5E](https://www.youtube.com/watch?v=0ZAtXM_Dd5E)  
+   Link: <a href="https://www.youtube.com/watch?v=0ZAtXM_Dd5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0ZAtXM_Dd5E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs...</p></details>
    Published: May 10, 1966  
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: UFO Project Blue Book at National Archives Museum  
-   Link: [https://www.youtube.com/watch?v=JHeZjJgO9Ns](https://www.youtube.com/watch?v=JHeZjJgO9Ns)  
+   Link: <a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JHeZjJgO9Ns</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS Reports: UFO: Friend, Foe or Fantasy (May 10, 1966)...</p></details>
    Published: May 10, 1966  
 
 32. <a id="endnote-32"></a>
    Source: katv.com  
-   Link: [https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft](https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft)  
+   Link: <a href="https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft" target="_blank" rel="noopener noreferrer nofollow">https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft</a>  
 
 33. <a id="endnote-33"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HiddenFactsss/posts/a-massive-spherical-ufo-orb-was-reportedly-seen-hovering-silently-over-the-plain/1620888926704407/](https://www.facebook.com/HiddenFactsss/posts/a-massive-spherical-ufo-orb-was-reportedly-seen-hovering-silently-over-the-plain/1620888926704407/)  
+   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/a-massive-spherical-ufo-orb-was-reportedly-seen-hovering-silently-over-the-plain/1620888926704407/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/a-massive-spherical-ufo-orb-was-reportedly-seen-hovering-silently-over-the-plain/1620888926704407/</a>  
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/](https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
 
 36. <a id="endnote-36"></a>
    Source: denelecampbell.com  
-   Link: [https://denelecampbell.com/category/local-history-2/page/2/](https://denelecampbell.com/category/local-history-2/page/2/)  
+   Link: <a href="https://denelecampbell.com/category/local-history-2/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://denelecampbell.com/category/local-history-2/page/2/</a>  
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/481151978650301/posts/4722648511167272/](https://www.facebook.com/groups/481151978650301/posts/4722648511167272/)  
+   Link: <a href="https://www.facebook.com/groups/481151978650301/posts/4722648511167272/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/481151978650301/posts/4722648511167272/</a>  
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MisawaAirBase/posts/strange-flying-discs-spotted-here-we-love-history-so-much-the-wing-historian-fou/3024093870941418/](https://www.facebook.com/MisawaAirBase/posts/strange-flying-discs-spotted-here-we-love-history-so-much-the-wing-historian-fou/3024093870941418/)  
+   Link: <a href="https://www.facebook.com/MisawaAirBase/posts/strange-flying-discs-spotted-here-we-love-history-so-much-the-wing-historian-fou/3024093870941418/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MisawaAirBase/posts/strange-flying-discs-spotted-here-we-love-history-so-much-the-wing-historian-fou/3024093870941418/</a>  
 
 39. <a id="endnote-39"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>

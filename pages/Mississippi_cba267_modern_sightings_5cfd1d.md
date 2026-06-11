@@ -11,22 +11,22 @@ sibling_basenames:
 - Mississippi_cba267_pascagoula_evidence_ceda6b
 - Mississippi_cba267_pascagoula_memory_f91e6e
 tags:
-- mississippi
+- mississippi-cba-267
 - modern-sightings
 keywords:
-- mississippi
+- mississippi-cba-267
 - modern-sightings
-affiliate_category: mississippi
+affiliate_category: mississippi-cba-267
 show_ads: true
 description: Recent reports show why many strange lights and objects need checks against balloons, aircraft, satellites and local aviation data.
 hero_summary: Recent reports show why many strange lights and objects need checks against balloons, aircraft, satellites and local aviation data.
 layout: default
 permalink: /modern-sightings/
 sidebar_expanded_urls:
-- /mississippi/
+- /mississippi-cba-267/
 nav_short_title: Modern Sightings
 title: When Mississippi UFOs Become Identified Objects
-title_full: When Mississippi UFOs Become Identified Objects | Mississippi UFOs
+title_full: When Mississippi UFOs Become Identified Objects
 display_title_short: Modern Sightings
 display_title: Modern Sightings
 heading_title: When Mississippi UFOs Become Identified Objects
@@ -203,31 +203,31 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:34:38'
 parent_title: Mississippi UFOs
-parent_permalink: /mississippi/
+parent_permalink: /mississippi-cba-267/
 parent_nav_short_title: Mississippi UFOs
 ancestor_links:
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 breadcrumb_links:
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 sibling_links:
 - basename: Mississippi_cba267_keesler_blue_book_fa9dc5
-  title: Keesler Records | Mississippi
+  title: Keesler Records | Mississippi cba 267
   permalink: /keesler-records/
   short_title: Keesler Records
   heading_title: What Did the Air Force Record in Mississippi?
 - basename: Mississippi_cba267_pascagoula_evidence_ceda6b
-  title: Pascagoula | Mississippi
+  title: Pascagoula | Mississippi cba 267
   permalink: /pascagoula/
   short_title: Pascagoula
   heading_title: Why Pascagoula Still Divides UFO Readers
 - basename: Mississippi_cba267_pascagoula_memory_f91e6e
-  title: Public Memory | Mississippi
+  title: Public Memory | Mississippi cba 267
   permalink: /public-memory/
   short_title: Public Memory
   heading_title: How Pascagoula Became a UFO Landmark
@@ -238,24 +238,24 @@ child_links:
   short_title: Balloon trail
   heading_title: How Harrison County's UFO became a balloon
 - basename: Mississippi_cba267_modern_sightings_5cfd1d_spacex_lights_missis_a24b0c
-  title: SpaceX lights | Modern Sightings
-  permalink: /spacex-lights/
-  short_title: SpaceX lights
-  heading_title: Why SpaceX lights fool Mississippi skywatchers
+  title: Space X lights | Modern Sightings
+  permalink: /space-x-lights/
+  short_title: Space X lights
+  heading_title: Why Space X lights fool Mississippi skywatchers
 up_link:
   basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 prev_link:
   basename: Mississippi_cba267_keesler_blue_book_fa9dc5
-  title: Keesler Records | Mississippi
+  title: Keesler Records | Mississippi cba 267
   permalink: /keesler-records/
   short_title: Keesler Records
   heading_title: What Did the Air Force Record in Mississippi?
 next_link:
   basename: Mississippi_cba267_pascagoula_evidence_ceda6b
-  title: Pascagoula | Mississippi
+  title: Pascagoula | Mississippi cba 267
   permalink: /pascagoula/
   short_title: Pascagoula
   heading_title: Why Pascagoula Still Divides UFO Readers
@@ -267,8 +267,7 @@ image: /assets/images/Mississippi_cba267_modern_sightings_5cfd1d-overview-social
 
 ## Introduction
 
-Modern [Mississippi]({{ 'mississippi/' | relative_url }}) UFO reports are less about one dramatic encounter than about repeated misidentification: strings of satellites, rocket launches, ordinary aircraft, reflective balloons and high-altitude platforms crossing a sky that many people are now filming in real time. That does not make every report worthless. It means the first serious question is no longer “could this be extraordinary?”, but “has it been checked against aircraft tracking, satellite passes, launch schedules, wind data and balloon activity?” Recent Gulf Coast cases show why. In 2022, a long line of lights over the Coast was identified as Starlink satellites; in 2024, a comet-like object seen widely was linked to a SpaceX launch; and in 2026, a “UFO” over Harrison County was identified as a high-altitude balloon registered to Sceye Inc. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2022/10/21/did-you-see-these-lights-over-coast-last-night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-snippet">Open source on wlox.com.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2022/10/21/did-you-see-these-lights-over-coast-last-night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-snippet">Open source on wlox.com.</span></span></span>
-
+Modern Mississippi UFO reports are less about one dramatic encounter than about repeated misidentification: strings of satellites, rocket launches, ordinary aircraft, reflective balloons and high-altitude platforms crossing a sky that many people are now filming in real time. That does not make every report worthless. It means the first serious question is no longer “could this be extraordinary?”, but “has it been checked against aircraft tracking, satellite passes, launch schedules, wind data and balloon activity?” Recent Gulf Coast cases show why. In 2022, a long line of lights over the Coast was identified as Starlink satellites; in 2024, a comet-like object seen widely was linked to a SpaceX launch; and in 2026, a “UFO” over Harrison County was identified as a high-altitude balloon registered to Sceye Inc. [https://www.wlox.com+2https://www.wlox.com]
 
 <img src="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d-overview.webp" | relative_url }}" alt="Overview image for Modern Sightings" loading="eager" decoding="sync" fetchpriority="high">
 For Mississippi’s UFO history, these modern cases matter because they change the standard of evidence. Older stories such as [Pascagoula]({{ 'pascagoula/' | relative_url }}) often depend on testimony, memory and local records. Newer sightings can sometimes be checked within hours, using aviation databases, public satellite tools and official explanations. The result is not a debunking habit for its own sake, but a clearer sorting system: some reports become identified objects, some remain too vague to resolve, and a smaller number deserve closer attention because they survive the obvious checks.
@@ -285,8 +284,7 @@ The 2026 Harrison County balloon case adds the most direct Mississippi-specific 
 
 That sequence is important. The object was genuinely unidentified to many observers at first. It only became mundane after checks against aviation and registration data. In modern Mississippi sighting work, “identified” is not an insult to witnesses; it is the successful end of an investigation.
 
-
-<img src="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d-Illustration-1-light.svg" | relative_url }}" alt="Modern Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d-Illustration-1-dark.svg" | relative_url }}" alt="Modern Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common modern sighting patterns in Mississippi
 
 Most recent Mississippi reports that reach local media or public databases fall into a few broad families. They are not identical, but they share enough features that investigators can begin with a short list of likely checks before treating a report as unusual.
@@ -301,7 +299,6 @@ Most recent Mississippi reports that reach local media or public databases fall 
 
 This is where modern Mississippi UFO analysis needs discipline. A report being sincere does not make it unexplained; a report being explainable does not mean the witness was foolish. Most skywatching errors happen because the sky removes familiar reference points. Height, speed, size and distance are extremely difficult to judge when an object is bright, silent and seen against open sky.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3zK-UxaKtQk" title="Sceye Is a Balloon-Like Cell Tower for the Stratosphere" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3zK-UxaKtQk" target="_blank" rel="noopener noreferrer">Sceye Is a Balloon-Like Cell Tower for the Stratosphere</a></p><p class="youtube-embed-meta">Channel: CNET &middot; Views: 50.2K &middot; Uploaded: November 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3zK-UxaKtQk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3zK-UxaKtQk">Open on YouTube</a></p></div></div></div>
 
 ## How balloons are checked before a sighting stays mysterious
@@ -311,7 +308,6 @@ The best balloon explanations do not simply say, “It was probably a balloon.�
 The local check began with institutions that could plausibly know about unusual air activity: emergency management, Keesler Air Force Base and Gulfport-Biloxi International Airport. Then the object was checked on FlightAware and against FAA registration information. That produced a concrete answer: a high-altitude balloon registered to Sceye Inc., associated with telecommunications and climate-monitoring work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2022/10/21/did-you-see-these-lights-over-coast-last-night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-snippet">Open source on wlox.com.</span></span></span> Sceye describes its platforms as stratospheric systems intended for connectivity, climate monitoring, natural-resource monitoring and disaster prevention, which helps explain why such objects can appear in civilian skies without fitting familiar aircraft shapes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sceye.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sceye.com">[Sceye]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sceye.com</span><span class="citation-popover-snippet">Open source on sceye.com.</span></span></span>
 
 There are several signs that make a balloon explanation stronger:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -327,13 +323,12 @@ The same logic appears in federal UAP work. The Pentagon’s All-domain Anomaly 
 
 Weather balloons also belong in the checklist, though they are not the same as large high-altitude platforms. NOAA explains that a radiosonde is a small instrument package carried beneath a hydrogen- or helium-filled balloon to collect upper-air data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> National Weather Service educational material describes observers obtaining air-traffic clearance before release and monitoring data as the radiosonde transmits atmospheric measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/gjt/education_corner_balloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> These flights can create ordinary but unfamiliar visual events, especially near sunrise or sunset.
 
-
-<img src="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d-Illustration-2-light.svg" | relative_url }}" alt="Modern Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d-Illustration-2-dark.svg" | relative_url }}" alt="Modern Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aircraft, satellites and rockets: the other first checks
 
 Balloons are only one explanation. In Mississippi, the practical first-pass checklist should also include civil aircraft, military aircraft, satellites, rockets, drones, meteors and bright astronomical objects. The goal is not to force an explanation, but to remove the common ones before treating a case as unresolved.
 
-Aircraft checks have improved because of ADS-B, a surveillance technology in which equipped aircraft broadcast position information derived from satellite navigation. The FAA says ADS-B gives pilots and controllers traffic information and improves coverage in areas where traditional radar is limited, including Gulf airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/technology/adsb/faq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration ADS-B FAQ | Federal Aviation Administration</span><span class="citation-popover-snippet">Federal Aviation Administration ADS-B FAQ | Federal Aviation Administration</span></span></span> FlightAware says it uses a worldwide network of ADS-B and Mode S receivers, along with government and private data sources, to track equipped aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightaware.com/adsb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightaware.com">[FlightAware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightaware.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This does not mean every aircraft, drone or balloon will appear perfectly on public tracking sites, but it gives investigators a much stronger starting point than eyewitness estimation alone.
+Aircraft checks have improved because of ADS-B, a surveillance technology in which equipped aircraft broadcast position information derived from satellite navigation. The FAA says ADS-B gives pilots and controllers traffic information and improves coverage in areas where traditional radar is limited, including Gulf airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/technology/adsb/faq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration ADS-B FAQ &#124; Federal Aviation Administration</span><span class="citation-popover-snippet">Federal Aviation Administration ADS-B FAQ &#124; Federal Aviation Administration</span></span></span> FlightAware says it uses a worldwide network of ADS-B and Mode S receivers, along with government and private data sources, to track equipped aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightaware.com/adsb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightaware.com">[FlightAware]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightaware.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This does not mean every aircraft, drone or balloon will appear perfectly on public tracking sites, but it gives investigators a much stronger starting point than eyewitness estimation alone.
 
 Satellite checks are equally important. Starlink has become a repeat source of UFO reports because newly launched satellites can appear in lines, clusters or odd reflection geometries. The 2022 Coast lights were identified as Starlink satellites, and the 2024 early-morning object was tied to a SpaceX launch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2022/10/21/did-you-see-these-lights-over-coast-last-night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-snippet">Open source on wlox.com.</span></span></span> A 2024 academic case study on Starlink misidentification by commercial pilots argued that Starlink visibility can generate confusion even among trained observers, especially when recently launched satellites appear under unusual illumination conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -341,8 +336,7 @@ Rocket launches are a separate but related category. A launch from Florida can b
 
 Military and aviation context should be handled carefully. The presence of Keesler Air Force Base, Gulfport-Biloxi International Airport and Gulf aviation routes makes local checking sensible, but it does not make every light a secret aircraft. In the Harrison County case, WLOX’s contact with Keesler and airport sources formed part of a verification process that ended with a high-altitude balloon explanation, not a military mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2022/10/21/did-you-see-these-lights-over-coast-last-night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-snippet">Open source on wlox.com.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OJSYBIkDuh8" title="Is that a UFO? No... StarLink creates train of satellites across night sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OJSYBIkDuh8" target="_blank" rel="noopener noreferrer">Is that a UFO? No... StarLink creates train of satellites across night sky</a></p><p class="youtube-embed-meta">Channel: WRAL &middot; Views: 2.2K &middot; Uploaded: May 2023 &middot; Length: 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OJSYBIkDuh8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OJSYBIkDuh8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fr7a2k4dQl8" title="UFO in South Mississippi identified as high-altitude balloon from New Mexico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fr7a2k4dQl8" target="_blank" rel="noopener noreferrer">UFO in South Mississippi identified as high-altitude balloon from New Mexico</a></p><p class="youtube-embed-meta">Channel: WLOX News &middot; Views: 1.3K &middot; Uploaded: March 2026 &middot; Length: 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fr7a2k4dQl8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fr7a2k4dQl8">Open on YouTube</a></p></div></div></div>
 
 ## Why databases are useful but limited
 
@@ -354,15 +348,13 @@ Newer reporting platforms try to solve part of this problem by standardising wit
 
 The strongest modern Mississippi cases, therefore, are not necessarily the strangest-looking. They are the ones with enough detail to test. A less dramatic report with exact time, location, direction of travel, duration, video, weather conditions and tracking checks is more valuable than a spectacular claim with no verifiable context.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fr7a2k4dQl8" title="UFO in South Mississippi identified as high-altitude balloon from New Mexico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fr7a2k4dQl8" target="_blank" rel="noopener noreferrer">UFO in South Mississippi identified as high-altitude balloon from New Mexico</a></p><p class="youtube-embed-meta">Channel: WLOX News &middot; Views: 1.3K &middot; Uploaded: March 2026 &middot; Length: 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fr7a2k4dQl8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fr7a2k4dQl8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OJSYBIkDuh8" title="Is that a UFO? No... StarLink creates train of satellites across night sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OJSYBIkDuh8" target="_blank" rel="noopener noreferrer">Is that a UFO? No... StarLink creates train of satellites across night sky</a></p><p class="youtube-embed-meta">Channel: WRAL &middot; Views: 2.2K &middot; Uploaded: May 2023 &middot; Length: 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OJSYBIkDuh8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OJSYBIkDuh8">Open on YouTube</a></p></div></div></div>
 
 ## What makes a modern Mississippi report worth closer attention?
 
 A modern report becomes more interesting when it survives the ordinary checks. That does not mean it becomes evidence of extraterrestrial visitation. It means the case has not yet been reduced to a known object, sensor artefact or perception error.
 
 A useful Mississippi sighting report should include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/explore/united-states/mississippi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[enigmalabs.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -378,8 +370,7 @@ A useful Mississippi sighting report should include: <span class="citation-chip-
 
 NASA’s UAP independent study report made a similar point at the national level. It noted that UAP reports exist, but that there are limited high-quality observations and that data is the language science needs to investigate such claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For Mississippi, this means the most useful future sightings will be those that can be reconstructed, not merely remembered.
 
-
-<img src="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d-Illustration-3-light.svg" | relative_url }}" alt="Modern Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d-Illustration-3-dark.svg" | relative_url }}" alt="Modern Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_modern_sightings_5cfd1d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The real lesson of balloon explanations
 
 Balloon explanations can feel deflating because they turn a dramatic sky event into infrastructure, weather science or ordinary drift. Yet they are central to understanding modern Mississippi UFO reports. The Harrison County case shows that a sighting can pass through a full public cycle: witnesses see something strange, a newsroom receives calls, local institutions are contacted, tracking data is checked, registration information is reviewed, and the “UFO” becomes an identified high-altitude balloon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wlox.com/2022/10/21/did-you-see-these-lights-over-coast-last-night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[https://www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-snippet">Open source on wlox.com.</span></span></span>
@@ -809,202 +800,202 @@ Modern Mississippi UFO history will probably continue to be shaped by this tensi
 
 1. <a id="endnote-1"></a>
    Source: wlox.com  
-   Link: [https://www.wlox.com/2022/10/21/did-you-see-these-lights-over-coast-last-night/](https://www.wlox.com/2022/10/21/did-you-see-these-lights-over-coast-last-night/)  
+   Link: <a href="https://www.wlox.com/2022/10/21/did-you-see-these-lights-over-coast-last-night/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2022/10/21/did-you-see-these-lights-over-coast-last-night/</a>  
 
 2. <a id="endnote-2"></a>
    Source: wlox.com  
-   Link: [https://www.wlox.com/2024/07/03/what-was-mysterious-comet-like-object-sky-early-wednesday-morning/](https://www.wlox.com/2024/07/03/what-was-mysterious-comet-like-object-sky-early-wednesday-morning/)  
+   Link: <a href="https://www.wlox.com/2024/07/03/what-was-mysterious-comet-like-object-sky-early-wednesday-morning/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2024/07/03/what-was-mysterious-comet-like-object-sky-early-wednesday-morning/</a>  
 
 3. <a id="endnote-3"></a>
    Source: wlox.com  
-   Link: [https://www.wlox.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/](https://www.wlox.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/)  
+   Link: <a href="https://www.wlox.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2026/03/27/south-mississippi-ufo-identified-high-altitude-balloon-new-mexico/</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports for State MS  
-   Link: [https://nuforc.org/subndx/?id=lMS](https://nuforc.org/subndx/?id=lMS)  
+   Link: <a href="https://nuforc.org/subndx/?id=lMS" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lMS</a>  
 
 5. <a id="endnote-5"></a>
    Source: sceye.com  
-   Link: [https://sceye.com/](https://sceye.com/)  
+   Link: <a href="https://sceye.com/" target="_blank" rel="noopener noreferrer nofollow">https://sceye.com/</a>  
 
 6. <a id="endnote-6"></a>
    Source: sceye.com  
    Title: what are haps and why the stratosphere  
-   Link: [https://sceye.com/what-are-haps-and-why-the-stratosphere/](https://sceye.com/what-are-haps-and-why-the-stratosphere/)  
+   Link: <a href="https://sceye.com/what-are-haps-and-why-the-stratosphere/" target="_blank" rel="noopener noreferrer nofollow">https://sceye.com/what-are-haps-and-why-the-stratosphere/</a>  
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: noaa.gov  
-   Link: [https://www.noaa.gov/jetstream/upperair/radiosondes](https://www.noaa.gov/jetstream/upperair/radiosondes)  
+   Link: <a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
 
 9. <a id="endnote-9"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/gjt/education_corner_balloon](https://www.weather.gov/gjt/education_corner_balloon)  
+   Link: <a href="https://www.weather.gov/gjt/education_corner_balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/gjt/education_corner_balloon</a>  
 
 10. <a id="endnote-10"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration ADS-B FAQ | Federal Aviation Administration  
-   Link: [https://www.faa.gov/air_traffic/technology/adsb/faq](https://www.faa.gov/air_traffic/technology/adsb/faq)  
+   Link: <a href="https://www.faa.gov/air_traffic/technology/adsb/faq" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/adsb/faq</a>  
 
 11. <a id="endnote-11"></a>
    Source: flightaware.com  
-   Link: [https://www.flightaware.com/adsb/](https://www.flightaware.com/adsb/)  
+   Link: <a href="https://www.flightaware.com/adsb/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightaware.com/adsb/</a>  
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
 13. <a id="endnote-13"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/explore/united-states/mississippi](https://enigmalabs.io/explore/united-states/mississippi)  
+   Link: <a href="https://enigmalabs.io/explore/united-states/mississippi" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/united-states/mississippi</a>  
 
 14. <a id="endnote-14"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: wlox.com  
-   Link: [https://www.wlox.com/video/2022/08/22/here-what-those-mystery-lights-sky-were/](https://www.wlox.com/video/2022/08/22/here-what-those-mystery-lights-sky-were/)  
+   Link: <a href="https://www.wlox.com/video/2022/08/22/here-what-those-mystery-lights-sky-were/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/video/2022/08/22/here-what-those-mystery-lights-sky-were/</a>  
 
 16. <a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 17. <a id="endnote-17"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=183132](https://nuforc.org/sighting/?id=183132)  
+   Link: <a href="https://nuforc.org/sighting/?id=183132" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=183132</a>  
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 20. <a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=70621](https://nuforc.org/sighting/?id=70621)  
+   Link: <a href="https://nuforc.org/sighting/?id=70621" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=70621</a>  
 
 21. <a id="endnote-21"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 22. <a id="endnote-22"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap19_section_5.html](https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap19_section_5.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap19_section_5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap19_section_5.html</a>  
 
 23. <a id="endnote-23"></a>
    Source: faa.gov  
    Title: Automatic Dependent Surveillance  
-   Link: [https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b)  
+   Link: <a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
 
 24. <a id="endnote-24"></a>
    Source: sceye.com  
-   Link: [https://sceye.com/press-releases/sceye-completes-historic-12-day-6400-mile-stratospheric-flight-advancing-a-new-layer-of-infrastructure-for-humanity/](https://sceye.com/press-releases/sceye-completes-historic-12-day-6400-mile-stratospheric-flight-advancing-a-new-layer-of-infrastructure-for-humanity/)  
+   Link: <a href="https://sceye.com/press-releases/sceye-completes-historic-12-day-6400-mile-stratospheric-flight-advancing-a-new-layer-of-infrastructure-for-humanity/" target="_blank" rel="noopener noreferrer nofollow">https://sceye.com/press-releases/sceye-completes-historic-12-day-6400-mile-stratospheric-flight-advancing-a-new-layer-of-infrastructure-for-humanity/</a>  
 
 25. <a id="endnote-25"></a>
    Source: x.com  
-   Link: [https://x.com/WLOX/status/2037696691948720210](https://x.com/WLOX/status/2037696691948720210)  
+   Link: <a href="https://x.com/WLOX/status/2037696691948720210" target="_blank" rel="noopener noreferrer nofollow">https://x.com/WLOX/status/2037696691948720210</a>  
 
 26. <a id="endnote-26"></a>
    Source: x.com  
-   Link: [https://x.com/FlynonymousWX/status/2037709690243526987](https://x.com/FlynonymousWX/status/2037709690243526987)  
+   Link: <a href="https://x.com/FlynonymousWX/status/2037709690243526987" target="_blank" rel="noopener noreferrer nofollow">https://x.com/FlynonymousWX/status/2037709690243526987</a>  
 
 27. <a id="endnote-27"></a>
    Source: blog.flightaware.com  
    Title: from radar to revolution the story of ads b  
-   Link: [https://blog.flightaware.com/from-radar-to-revolution-the-story-of-ads-b](https://blog.flightaware.com/from-radar-to-revolution-the-story-of-ads-b)  
+   Link: <a href="https://blog.flightaware.com/from-radar-to-revolution-the-story-of-ads-b" target="_blank" rel="noopener noreferrer nofollow">https://blog.flightaware.com/from-radar-to-revolution-the-story-of-ads-b</a>  
 
 28. <a id="endnote-28"></a>
    Source: blog.flightaware.com  
    Title: 201711 demystifying ads b receiver data  
-   Link: [https://blog.flightaware.com/201711-demystifying-ads-b-receiver-data](https://blog.flightaware.com/201711-demystifying-ads-b-receiver-data)  
+   Link: <a href="https://blog.flightaware.com/201711-demystifying-ads-b-receiver-data" target="_blank" rel="noopener noreferrer nofollow">https://blog.flightaware.com/201711-demystifying-ads-b-receiver-data</a>  
 
 29. <a id="endnote-29"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2411.02401v1](https://arxiv.org/html/2411.02401v1)  
+   Link: <a href="https://arxiv.org/html/2411.02401v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.02401v1</a>  
 
 30. <a id="endnote-30"></a>
    Source: ufodatalive.com  
-   Link: [https://www.ufodatalive.com/states/mississippi/](https://www.ufodatalive.com/states/mississippi/)  
+   Link: <a href="https://www.ufodatalive.com/states/mississippi/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodatalive.com/states/mississippi/</a>  
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=3zK-UxaKtQk](https://www.youtube.com/watch?v=3zK-UxaKtQk)  
+   Link: <a href="https://www.youtube.com/watch?v=3zK-UxaKtQk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3zK-UxaKtQk</a>  
 
 32. <a id="endnote-32"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/explore](https://enigmalabs.io/explore)  
+   Link: <a href="https://enigmalabs.io/explore" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore</a>  
 
 33. <a id="endnote-33"></a>
    Source: enigmalabs.io  
    Title: united states  
-   Link: [https://enigmalabs.io/explore/united-states](https://enigmalabs.io/explore/united-states)  
+   Link: <a href="https://enigmalabs.io/explore/united-states" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/united-states</a>  
 
 34. <a id="endnote-34"></a>
    Source: prnewswire.com  
-   Link: [https://www.prnewswire.com/il/news-releases/sceye-completes-historic-12-day-6-400-mile-stratospheric-flight-advancing-a-new-layer-of-infrastructure-for-humanity-302739779.html](https://www.prnewswire.com/il/news-releases/sceye-completes-historic-12-day-6-400-mile-stratospheric-flight-advancing-a-new-layer-of-infrastructure-for-humanity-302739779.html)  
+   Link: <a href="https://www.prnewswire.com/il/news-releases/sceye-completes-historic-12-day-6-400-mile-stratospheric-flight-advancing-a-new-layer-of-infrastructure-for-humanity-302739779.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/il/news-releases/sceye-completes-historic-12-day-6-400-mile-stratospheric-flight-advancing-a-new-layer-of-infrastructure-for-humanity-302739779.html</a>  
 
 35. <a id="endnote-35"></a>
    Source: stratocat.com.ar  
    Title: SCEY E- STRATOSPHERIC AIRSHIP  
-   Link: [https://stratocat.com.ar/fichas-e/2025/RIC-20250922.htm](https://stratocat.com.ar/fichas-e/2025/RIC-20250922.htm)  
+   Link: <a href="https://stratocat.com.ar/fichas-e/2025/RIC-20250922.htm" target="_blank" rel="noopener noreferrer nofollow">https://stratocat.com.ar/fichas-e/2025/RIC-20250922.htm</a>  
 
 36. <a id="endnote-36"></a>
    Source: aeropuertodeteruel.com  
-   Link: [https://www.aeropuertodeteruel.com/en/activities/sceye](https://www.aeropuertodeteruel.com/en/activities/sceye)  
+   Link: <a href="https://www.aeropuertodeteruel.com/en/activities/sceye" target="_blank" rel="noopener noreferrer nofollow">https://www.aeropuertodeteruel.com/en/activities/sceye</a>  
 
 ### Additional References
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
    Title: UFO in South Mississippi identified as high-altitude balloon from New Mexico  
-   Link: [https://www.youtube.com/watch?v=fr7a2k4dQl8](https://www.youtube.com/watch?v=fr7a2k4dQl8)  
+   Link: <a href="https://www.youtube.com/watch?v=fr7a2k4dQl8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fr7a2k4dQl8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pascagoula holds viewing party for Netflix documentary on 1973 UFO sighting...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=WnCosgkYYH0](https://www.youtube.com/watch?v=WnCosgkYYH0)  
+   Link: <a href="https://www.youtube.com/watch?v=WnCosgkYYH0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WnCosgkYYH0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is that a UFO? No... StarLink creates train of satellites across night sky...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=OJSYBIkDuh8](https://www.youtube.com/watch?v=OJSYBIkDuh8)  
+   Link: <a href="https://www.youtube.com/watch?v=OJSYBIkDuh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OJSYBIkDuh8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX&#x27;s Falcon 9 launch creates confusion over mistaken UFO sighting...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: ecfr.gov  
-   Link: [https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-101](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-101)  
+   Link: <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-101" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-101</a>  
 
 41. <a id="endnote-41"></a>
    Source: ecfr.gov  
-   Link: [https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-101/subpart-D](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-101/subpart-D)  
+   Link: <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-101/subpart-D" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-101/subpart-D</a>  
 
 42. <a id="endnote-42"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/research/](https://mufon.com/research/)  
+   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
 
 43. <a id="endnote-43"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos](https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos)  
+   Link: <a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
 
 44. <a id="endnote-44"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/](https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/)  
+   Link: <a href="https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/</a>  
 
 45. <a id="endnote-45"></a>
    Source: nbaa.org  
-   Link: [https://nbaa.org/aircraft-operations/security/privacy/ads-b-privacy-faq/](https://nbaa.org/aircraft-operations/security/privacy/ads-b-privacy-faq/)  
+   Link: <a href="https://nbaa.org/aircraft-operations/security/privacy/ads-b-privacy-faq/" target="_blank" rel="noopener noreferrer nofollow">https://nbaa.org/aircraft-operations/security/privacy/ads-b-privacy-faq/</a>  
 
 46. <a id="endnote-46"></a>
    Source: superiorskies.org  
-   Link: [https://superiorskies.org/learn/adsb-technology](https://superiorskies.org/learn/adsb-technology)  
+   Link: <a href="https://superiorskies.org/learn/adsb-technology" target="_blank" rel="noopener noreferrer nofollow">https://superiorskies.org/learn/adsb-technology</a>

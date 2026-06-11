@@ -262,7 +262,7 @@ sibling_links:
   short_title: Michigan UFOs
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Alabama_d1f92d
   title: Alabama UFOs
@@ -277,9 +277,9 @@ sibling_links:
   permalink: /what-keeps-tennessees-ufo-stories-alive/
   short_title: Tennessee UFOs
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Idaho_18334c
   title: Idaho UFOs
   permalink: /what-makes-idaho-a-key-ufo-hotspot/
@@ -289,9 +289,9 @@ sibling_links:
   permalink: /what-makes-indianas-ufo-history-unique/
   short_title: Indiana UFOs
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: Utah_2ff606
   title: Utah UFOs
   permalink: /what-makes-utahs-ufo-history-so/
@@ -463,9 +463,9 @@ child_links:
   heading_title: Why New Ellenton Still Matters
 prev_link:
   basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 next_link:
   basename: Utah_2ff606
   title: Utah UFOs
@@ -480,7 +480,6 @@ image: /assets/images/South_Carolina_11d001-overview-social.jpg
 ## Why South Carolina matters in UFO history
 
 South Carolina sits at a useful intersection for UFO research: it has a long Atlantic coastline, tourist beaches with many night-time observers, several military aviation corridors, and one of the most sensitive Cold War industrial sites in the United States. Those conditions do not make any sighting extraordinary by themselves. They do, however, explain why the state produces many reports involving lights over water, aircraft-like formations, alleged objects near military or nuclear facilities, and ambiguous night-time observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.energy.gov/srs/savannah-river-site-history-1950-1989" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: energy.gov">[The Department of Energy&#x27;s Energy.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">energy.gov</span><span class="citation-popover-title">savannah river site history 1950 1989</span><span class="citation-popover-snippet">savannah river site history 1950 1989</span></span></span> 2shaw.af.mil
-
 
 <img src="{{ "/assets/images/South_Carolina_11d001-overview.webp" | relative_url }}" alt="Overview image for What Makes South Carolina&#x27;s UFO Story..." loading="eager" decoding="sync" fetchpriority="high">
 The historical anchor is the early 1950s, when the US Air Force was collecting UFO reports through the projects that became Project Blue Book. The National Archives says Blue Book records were transferred from the Air Force, declassified, and made available for public examination; the archive includes witness reports, correspondence, newspaper clippings, and analysis of photographs or physical evidence. The project formally closed in 1969, so it is useful for South Carolina’s Cold War cases, but not for later coastal sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Public Interest in UFOs Persists 50 Years After Project Blue</span><span class="citation-popover-snippet">National Archives Public Interest in UFOs Persists 50 Years After Project Blue</span></span></span>
@@ -497,8 +496,7 @@ The strongest evidence for the case is not a photograph, radar track, recovered 
 
 The sceptical reading is straightforward: night-time distance, speed and altitude estimates are notoriously unreliable, especially around industrial lighting, river valleys, aircraft routes and restricted facilities. The pro-UFO reading is also straightforward: trained or technically employed witnesses near a strategic plant reported repeated, low, fast, silent objects, and the case survived early official filtering as unexplained. The fair conclusion is that New Ellenton is unresolved in the historical record, but it is not proof of extraterrestrial craft.
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001-Illustration-1-light.svg" | relative_url }}" alt="What Makes South Carolina&#x27;s UFO Story... illustration 1" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Carolina_11d001-Illustration-1-dark.svg" | relative_url }}" alt="What Makes South Carolina&#x27;s UFO Story... illustration 1" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Myrtle Beach and the coastal pattern
 
 For today’s reader, Myrtle Beach is the South Carolina place most likely to appear in UFO search results. Stacker’s 2025 city ranking, based on NUFORC reports since 1995, put Myrtle Beach first in the state with 317 reports, followed by North Myrtle Beach with 139 and Charleston with 82. The rest of the state’s top ten included Columbia, Greenville, Summerville, Surfside Beach, Pawleys Island, Conway and Irmo. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacker.com/stories/south-carolina/cities-most-ufo-sightings-south-carolina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">cities most ufo sightings south carolina</span><span class="citation-popover-snippet">cities most ufo sightings south carolina</span></span></span>
@@ -508,7 +506,6 @@ This does not necessarily mean Myrtle Beach is more mysterious than the rest of 
 The strongest mundane explanation for many Grand Strand reports is military or aviation activity, especially night training. In a 2018 local news piece, Coastal Carolina University astronomy professor Louis Rubbo said that some UFO reports in the Grand Strand area may be linked to training exercises out of Shaw Air Force Base, including flares dropped over the ocean, which can look unfamiliar to tourists and residents at night. That explanation is not a blanket debunking of every report, but it is a good example of how a dramatic coastal light can have an ordinary operational cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wpde.com/news/local/astronomy-professor-explains-grand-strand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wpde.com">[WPDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wpde.com</span><span class="citation-popover-title">Astronomy professor explains Grand Strand UFO sightings</span><span class="citation-popover-snippet">Astronomy professor explains Grand Strand UFO sightings</span></span></span>
 
 Recent NUFORC entries show how the modern pattern works. A 2025 Myrtle Beach report described red and white lights seen for two hours, with aircraft nearby and a haze or trail reported by the witnesses. Such entries are useful as raw testimony, but they are usually not independently verified and often lack triangulation, radar data, calibrated imagery or environmental context. The lesson is not that witnesses are unreliable; it is that modern skywatching is crowded with aircraft, drones, satellites, flares, reflections and camera artefacts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/spINrGMxgKA" title="&#x27;The Gaffney Incident: The Night Police Talked to an Alien&#x27; | Paranormal Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=spINrGMxgKA" target="_blank" rel="noopener noreferrer">&#x27;The Gaffney Incident: The Night Police Talked to an Alien&#x27; | Paranormal Story</a></p><p class="youtube-embed-meta">Channel: Beyond Creepy &middot; Views: 2.3M &middot; Uploaded: September 2017 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=spINrGMxgKA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=spINrGMxgKA">Open on YouTube</a></p></div></div></div>
 
@@ -528,8 +525,7 @@ As a piece of state UFO culture, the Gaffney story is memorable. As evidence, it
 
 That does not mean the story should be ignored. Folklore can show how a local incident becomes part of a state’s UFO identity, especially when police officers are named as witnesses. But a public-facing South Carolina UFO history should treat Gaffney as a contested close-encounter narrative, not as a verified event. The most honest classification is “culturally notable, evidentially fragile”.
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001-Illustration-2-light.svg" | relative_url }}" alt="What Makes South Carolina&#x27;s UFO Story... illustration 2" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Carolina_11d001-Illustration-2-dark.svg" | relative_url }}" alt="What Makes South Carolina&#x27;s UFO Story... illustration 2" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the databases show, and what they cannot prove
 
 NUFORC’s South Carolina index is valuable because it makes reports searchable by date, place and witness description. It shows a long run of reports from coastal, Midlands and Upstate communities: Charleston fireballs, Myrtle Beach discs and lights, Greenville triangles, Columbia reports, Wedgefield sightings near range areas, and many short-lived lights or orbs. The database helps reveal patterns that would be invisible if each sighting were treated as a one-off anecdote. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location USA</span><span class="citation-popover-snippet">NUFOR C Reports by Location USA</span></span></span>
@@ -538,14 +534,12 @@ But the limits are just as important. NUFORC is a witness-report archive, not a 
 
 Official and scientific UAP discussions point in the same direction. NASA’s 2023 independent study said UAP research requires a rigorous, evidence-based approach and better data acquisition methods. The 2024 AARO historical report, covering US government UAP-related investigations since 1945, found no verifiable evidence that any UAP sighting represented extraterrestrial activity or that the US government or industry possessed extraterrestrial technology. Those conclusions do not explain every South Carolina sighting; they set the standard of evidence needed before extraordinary claims should be accepted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001-Illustration-3-light.svg" | relative_url }}" alt="What Makes South Carolina&#x27;s UFO Story... illustration 3" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Carolina_11d001-Illustration-3-dark.svg" | relative_url }}" alt="What Makes South Carolina&#x27;s UFO Story... illustration 3" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to judge a South Carolina UFO report
 
 The most useful question is not “Was it aliens?” but “What would change the assessment?” A South Carolina report becomes stronger when it has multiple independent witnesses, precise time and location, clear direction and elevation, duration, original unedited imagery, weather data, aircraft and satellite checks, and ideally radar or other sensor correlation. It becomes weaker when it is a brief light in the sky, a single witness impression, a social media repost, a heavily compressed video, or a story retold years later without original documentation.
 
 For this state, several checks are especially important:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -559,7 +553,6 @@ For this state, several checks are especially important:
 
 This approach keeps the subject interesting without inflating it. South Carolina’s UFO history is strongest where records, place and witness context overlap, and weakest where stories circulate without traceable primary evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AxM4rWuaLOI" title="The Gaffney Visitor - South Carolina&#x27;s Most Famous UFO Encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AxM4rWuaLOI" target="_blank" rel="noopener noreferrer">The Gaffney Visitor - South Carolina&#x27;s Most Famous UFO Encounter</a></p><p class="youtube-embed-meta">Channel: The Strangest &middot; Views: 2.0K &middot; Uploaded: November 2023 &middot; Length: 4 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AxM4rWuaLOI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AxM4rWuaLOI">Open on YouTube</a></p></div></div></div>
 
 ## The balanced verdict on South Carolina
@@ -568,9 +561,7 @@ South Carolina has one genuinely important Blue Book-era case in the New Ellento
 
 The best evidence does not justify treating South Carolina as proof of extraterrestrial visitation. It does justify treating the state as a serious regional case study in how UFO reports emerge: near sensitive Cold War infrastructure, over tourist coastlines, around military aviation, and through civilian reporting networks that preserve both puzzling testimony and easily misread sky events. The unresolved cases are worth keeping unresolved, rather than forcing them into either ridicule or certainty.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/f3GG6CY8WYQ" title="Myrtle Beach SC Ring Doorbell UFO sighting with beam of light" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=f3GG6CY8WYQ" target="_blank" rel="noopener noreferrer">Myrtle Beach SC Ring Doorbell UFO sighting with beam of light</a></p><p class="youtube-embed-meta">Channel: I Am Beowulf &middot; Views: 1.1K &middot; Uploaded: September 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=f3GG6CY8WYQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=f3GG6CY8WYQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -658,7 +649,7 @@ The best evidence does not justify treating South Carolina as proof of extraterr
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -668,111 +659,36 @@ The best evidence does not justify treating South Carolina as proof of extraterr
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/o-YAAOSwKopk5fnY/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -780,15 +696,15 @@ The best evidence does not justify treating South Carolina as proof of extraterr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -796,15 +712,15 @@ The best evidence does not justify treating South Carolina as proof of extraterr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="https://i.ebayimg.com/images/g/B7QAAeSw73loHdMA/s-l225.jpg" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -812,15 +728,15 @@ The best evidence does not justify treating South Carolina as proof of extraterr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -828,7 +744,7 @@ The best evidence does not justify treating South Carolina as proof of extraterr
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolinas-ufo-story-what-makes-south-carolina-s-ufo-story-different-south-carol-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-makes-south-carolina-s-ufo-story-different-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -905,17 +821,31 @@ The best evidence does not justify treating South Carolina as proof of extraterr
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -928,42 +858,73 @@ The best evidence does not justify treating South Carolina as proof of extraterr
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -978,12 +939,17 @@ The best evidence does not justify treating South Carolina as proof of extraterr
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -994,318 +960,318 @@ The best evidence does not justify treating South Carolina as proof of extraterr
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Public Interest in UFOs Persists 50 Years After Project Blue  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 2. <a id="endnote-2"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
 3. <a id="endnote-3"></a>
    Source: energy.gov  
    Title: savannah river site history 1950 1989  
-   Link: [https://www.energy.gov/srs/savannah-river-site-history-1950-1989](https://www.energy.gov/srs/savannah-river-site-history-1950-1989)  
+   Link: <a href="https://www.energy.gov/srs/savannah-river-site-history-1950-1989" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/srs/savannah-river-site-history-1950-1989</a>  
 
 4. <a id="endnote-4"></a>
    Source: shaw.af.mil  
    Title: shaw air force base  
-   Link: [https://www.shaw.af.mil/About-Us/Fact-Sheets/Display/Article/663885/shaw-air-force-base/](https://www.shaw.af.mil/About-Us/Fact-Sheets/Display/Article/663885/shaw-air-force-base/)  
+   Link: <a href="https://www.shaw.af.mil/About-Us/Fact-Sheets/Display/Article/663885/shaw-air-force-base/" target="_blank" rel="noopener noreferrer nofollow">https://www.shaw.af.mil/About-Us/Fact-Sheets/Display/Article/663885/shaw-air-force-base/</a>  
 
 5. <a id="endnote-5"></a>
    Source: jbcharleston.jb.mil  
    Title: the founding of charleston air force base  
-   Link: [https://www.jbcharleston.jb.mil/News/Commentaries/Display/Article/1156851/the-founding-of-charleston-air-force-base/](https://www.jbcharleston.jb.mil/News/Commentaries/Display/Article/1156851/the-founding-of-charleston-air-force-base/)  
+   Link: <a href="https://www.jbcharleston.jb.mil/News/Commentaries/Display/Article/1156851/the-founding-of-charleston-air-force-base/" target="_blank" rel="noopener noreferrer nofollow">https://www.jbcharleston.jb.mil/News/Commentaries/Display/Article/1156851/the-founding-of-charleston-air-force-base/</a>  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lSC](https://nuforc.org/subndx/?id=lSC)  
+   Link: <a href="https://nuforc.org/subndx/?id=lSC" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lSC</a>  
 
 8. <a id="endnote-8"></a>
    Source: stacker.com  
    Title: cities most ufo sightings south carolina  
-   Link: [https://stacker.com/stories/south-carolina/cities-most-ufo-sightings-south-carolina](https://stacker.com/stories/south-carolina/cities-most-ufo-sightings-south-carolina)  
+   Link: <a href="https://stacker.com/stories/south-carolina/cities-most-ufo-sightings-south-carolina" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/south-carolina/cities-most-ufo-sightings-south-carolina</a>  
 
 9. <a id="endnote-9"></a>
    Source: ufologie.patrickgross.org  
    Title: Project Blue Book unexplained cases summaries with witness  
-   Link: [https://ufologie.patrickgross.org/htm/bluebooku52.htm](https://ufologie.patrickgross.org/htm/bluebooku52.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/bluebooku52.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluebooku52.htm</a>  
 
 10. <a id="endnote-10"></a>
    Source: nicap.org  
    Title: 520510savannah dir  
-   Link: [https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm](https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm)  
+   Link: <a href="https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/CATEGORIES/10-Nuclear_Connection_Cases/520510savannah_dir.htm</a>  
 
 11. <a id="endnote-11"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/bluebook/unknowns.htm](https://www.nicap.org/bluebook/unknowns.htm)  
+   Link: <a href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/unknowns.htm</a>  
 
 12. <a id="endnote-12"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: wpde.com  
    Title: Astronomy professor explains Grand Strand UFO sightings  
-   Link: [https://wpde.com/news/local/astronomy-professor-explains-grand-strand-ufo-sightings](https://wpde.com/news/local/astronomy-professor-explains-grand-strand-ufo-sightings)  
+   Link: <a href="https://wpde.com/news/local/astronomy-professor-explains-grand-strand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://wpde.com/news/local/astronomy-professor-explains-grand-strand-ufo-sightings</a>  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=186681](https://nuforc.org/sighting/?id=186681)  
+   Link: <a href="https://nuforc.org/sighting/?id=186681" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=186681</a>  
 
 15. <a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
    Title: The Gaffney Incident  
-   Link: [https://www.reddit.com/r/UrbanMyths/comments/18m8jzq/the_gaffney_incident_south_carolinas_most_famous/](https://www.reddit.com/r/UrbanMyths/comments/18m8jzq/the_gaffney_incident_south_carolinas_most_famous/)  
+   Link: <a href="https://www.reddit.com/r/UrbanMyths/comments/18m8jzq/the_gaffney_incident_south_carolinas_most_famous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UrbanMyths/comments/18m8jzq/the_gaffney_incident_south_carolinas_most_famous/</a>  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 18. <a id="endnote-18"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/bluebook/bluelist.htm](https://www.nicap.org/bluebook/bluelist.htm)  
+   Link: <a href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/bluelist.htm</a>  
 
 19. <a id="endnote-19"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/ncp/ncp-convisnuc.htm](https://www.nicap.org/ncp/ncp-convisnuc.htm)  
+   Link: <a href="https://www.nicap.org/ncp/ncp-convisnuc.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ncp/ncp-convisnuc.htm</a>  
 
 20. <a id="endnote-20"></a>
    Source: nicap.org  
    Title: UF O Chronology Released  
-   Link: [https://www.nicap.org/chronos/1973fullrep.htm](https://www.nicap.org/chronos/1973fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1973fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1973fullrep.htm</a>  
 
 21. <a id="endnote-21"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/oakridge/oakridgesightings.htm](https://www.nicap.org/oakridge/oakridgesightings.htm)  
+   Link: <a href="https://www.nicap.org/oakridge/oakridgesightings.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/oakridge/oakridgesightings.htm</a>  
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOB/comments/1h4q7j4/black_triangle_greenville_south_carolina_2010_has/](https://www.reddit.com/r/UFOB/comments/1h4q7j4/black_triangle_greenville_south_carolina_2010_has/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/1h4q7j4/black_triangle_greenville_south_carolina_2010_has/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1h4q7j4/black_triangle_greenville_south_carolina_2010_has/</a>  
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/pd9mym/greenville_south_carolina_usa_march_16th_2010/](https://www.reddit.com/r/UFOs/comments/pd9mym/greenville_south_carolina_usa_march_16th_2010/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/pd9mym/greenville_south_carolina_usa_march_16th_2010/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/pd9mym/greenville_south_carolina_usa_march_16th_2010/</a>  
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFObelievers/comments/vcfx0e/ufo_photos_from_april_14_1980_charleston_south/](https://www.reddit.com/r/UFObelievers/comments/vcfx0e/ufo_photos_from_april_14_1980_charleston_south/)  
+   Link: <a href="https://www.reddit.com/r/UFObelievers/comments/vcfx0e/ufo_photos_from_april_14_1980_charleston_south/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFObelievers/comments/vcfx0e/ufo_photos_from_april_14_1980_charleston_south/</a>  
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/18hf2v0/triangle_ufo_sighting_in_rural_sc/](https://www.reddit.com/r/UFOs/comments/18hf2v0/triangle_ufo_sighting_in_rural_sc/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/18hf2v0/triangle_ufo_sighting_in_rural_sc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18hf2v0/triangle_ufo_sighting_in_rural_sc/</a>  
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1fhucaq/what_is_the_story_and_origin_behind_this_image_it/](https://www.reddit.com/r/UFOs/comments/1fhucaq/what_is_the_story_and_origin_behind_this_image_it/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fhucaq/what_is_the_story_and_origin_behind_this_image_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fhucaq/what_is_the_story_and_origin_behind_this_image_it/</a>  
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1p6wvjj/one_of_the_best_black_triangles_ive_seen_captured/](https://www.reddit.com/r/UFOs/comments/1p6wvjj/one_of_the_best_black_triangles_ive_seen_captured/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1p6wvjj/one_of_the_best_black_triangles_ive_seen_captured/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1p6wvjj/one_of_the_best_black_triangles_ive_seen_captured/</a>  
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HistoryPorn/comments/1c3v6nm/the_town_of_ellenton_south_carolina_was_razed_to/](https://www.reddit.com/r/HistoryPorn/comments/1c3v6nm/the_town_of_ellenton_south_carolina_was_razed_to/)  
+   Link: <a href="https://www.reddit.com/r/HistoryPorn/comments/1c3v6nm/the_town_of_ellenton_south_carolina_was_razed_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HistoryPorn/comments/1c3v6nm/the_town_of_ellenton_south_carolina_was_razed_to/</a>  
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1sya2mf/spotted_last_night_off_the_carolina_coast/](https://www.reddit.com/r/aliens/comments/1sya2mf/spotted_last_night_off_the_carolina_coast/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1sya2mf/spotted_last_night_off_the_carolina_coast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1sya2mf/spotted_last_night_off_the_carolina_coast/</a>  
 
 30. <a id="endnote-30"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
 
 31. <a id="endnote-31"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 32. <a id="endnote-32"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=133716](https://nuforc.org/sighting/?id=133716)  
+   Link: <a href="https://nuforc.org/sighting/?id=133716" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=133716</a>  
 
 33. <a id="endnote-33"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=190793](https://nuforc.org/sighting/?id=190793)  
+   Link: <a href="https://nuforc.org/sighting/?id=190793" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190793</a>  
 
 34. <a id="endnote-34"></a>
    Source: nuforc.org  
    Title: 519 new ufo reports posted  
-   Link: [https://nuforc.org/519-new-ufo-reports-posted/](https://nuforc.org/519-new-ufo-reports-posted/)  
+   Link: <a href="https://nuforc.org/519-new-ufo-reports-posted/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/519-new-ufo-reports-posted/</a>  
 
 35. <a id="endnote-35"></a>
    Source: archive.org  
    Title: 1955 07 6968348 Charleston Maine  
-   Link: [https://archive.org/details/1955-07-6968348-Charleston-Maine](https://archive.org/details/1955-07-6968348-Charleston-Maine)  
+   Link: <a href="https://archive.org/details/1955-07-6968348-Charleston-Maine" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/1955-07-6968348-Charleston-Maine</a>  
 
 36. <a id="endnote-36"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 37. <a id="endnote-37"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 38. <a id="endnote-38"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/ufo/](https://www.war.gov/ufo/)  
+   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
 39. <a id="endnote-39"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 40. <a id="endnote-40"></a>
    Source: shaw.af.mil  
    Title: looking back on seven decades of difference  
-   Link: [https://www.shaw.af.mil/News/Features/Display/Article/1049552/looking-back-on-seven-decades-of-difference/](https://www.shaw.af.mil/News/Features/Display/Article/1049552/looking-back-on-seven-decades-of-difference/)  
+   Link: <a href="https://www.shaw.af.mil/News/Features/Display/Article/1049552/looking-back-on-seven-decades-of-difference/" target="_blank" rel="noopener noreferrer nofollow">https://www.shaw.af.mil/News/Features/Display/Article/1049552/looking-back-on-seven-decades-of-difference/</a>  
 
 41. <a id="endnote-41"></a>
    Source: jbcharleston.jb.mil  
    Title: mil Joint Base Charleston The official site of Joint Base Charleston  
-   Link: [https://www.jbcharleston.jb.mil/](https://www.jbcharleston.jb.mil/)  
+   Link: <a href="https://www.jbcharleston.jb.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.jbcharleston.jb.mil/</a>  
 
 42. <a id="endnote-42"></a>
    Source: jbcharleston.jb.mil  
-   Link: [https://www.jbcharleston.jb.mil/About-Us/Fact-Sheets/Article/233018/joint-base-charleston-air-park/](https://www.jbcharleston.jb.mil/About-Us/Fact-Sheets/Article/233018/joint-base-charleston-air-park/)  
+   Link: <a href="https://www.jbcharleston.jb.mil/About-Us/Fact-Sheets/Article/233018/joint-base-charleston-air-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.jbcharleston.jb.mil/About-Us/Fact-Sheets/Article/233018/joint-base-charleston-air-park/</a>  
 
 43. <a id="endnote-43"></a>
    Source: wpde.com  
    Title: somethings out there myrtle beach is a hot spot for ufo sightings  
-   Link: [https://wpde.com/news/local/somethings-out-there-myrtle-beach-is-a-hot-spot-for-ufo-sightings](https://wpde.com/news/local/somethings-out-there-myrtle-beach-is-a-hot-spot-for-ufo-sightings)  
+   Link: <a href="https://wpde.com/news/local/somethings-out-there-myrtle-beach-is-a-hot-spot-for-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://wpde.com/news/local/somethings-out-there-myrtle-beach-is-a-hot-spot-for-ufo-sightings</a>  
 
 44. <a id="endnote-44"></a>
    Source: military.com  
    Title: charleston air force base  
-   Link: [https://www.military.com/base-guide/charleston-air-force-base](https://www.military.com/base-guide/charleston-air-force-base)  
+   Link: <a href="https://www.military.com/base-guide/charleston-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/base-guide/charleston-air-force-base</a>  
 
 45. <a id="endnote-45"></a>
    Source: asadmin.library.charleston.edu  
    Title: archival objects  
-   Link: [https://asadmin.library.charleston.edu/repositories/2/archival_objects/32873](https://asadmin.library.charleston.edu/repositories/2/archival_objects/32873)  
+   Link: <a href="https://asadmin.library.charleston.edu/repositories/2/archival_objects/32873" target="_blank" rel="noopener noreferrer nofollow">https://asadmin.library.charleston.edu/repositories/2/archival_objects/32873</a>  
 
 46. <a id="endnote-46"></a>
    Source: stacker.com  
    Title: see how many ufo sightings have occurred south carolina  
-   Link: [https://stacker.com/stories/south-carolina/see-how-many-ufo-sightings-have-occurred-south-carolina](https://stacker.com/stories/south-carolina/see-how-many-ufo-sightings-have-occurred-south-carolina)  
+   Link: <a href="https://stacker.com/stories/south-carolina/see-how-many-ufo-sightings-have-occurred-south-carolina" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/south-carolina/see-how-many-ufo-sightings-have-occurred-south-carolina</a>  
 
 47. <a id="endnote-47"></a>
    Source: scencyclopedia.org  
    Title: savannah river site  
-   Link: [https://www.scencyclopedia.org/sce/entries/savannah-river-site/](https://www.scencyclopedia.org/sce/entries/savannah-river-site/)  
+   Link: <a href="https://www.scencyclopedia.org/sce/entries/savannah-river-site/" target="_blank" rel="noopener noreferrer nofollow">https://www.scencyclopedia.org/sce/entries/savannah-river-site/</a>  
 
 48. <a id="endnote-48"></a>
    Source: governmentattic.org  
    Title: Government Attic An Annotated Bibliography, Lynn E. Catoe, Prepared by  
-   Link: [https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf](https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf)  
+   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
 
 49. <a id="endnote-49"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 50. <a id="endnote-50"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: [https://en.wikipedia.org/wiki/National_UFO_Reporting_Center](https://en.wikipedia.org/wiki/National_UFO_Reporting_Center)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
 
 51. <a id="endnote-51"></a>
    Source: Wikipedia  
    Title: Savannah River Site  
-   Link: [https://en.wikipedia.org/wiki/Savannah_River_Site](https://en.wikipedia.org/wiki/Savannah_River_Site)  
+   Link: <a href="https://en.wikipedia.org/wiki/Savannah_River_Site" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Savannah_River_Site</a>  
 
 52. <a id="endnote-52"></a>
    Source: Wikipedia  
    Title: Shaw Air Force Base  
-   Link: [https://en.wikipedia.org/wiki/Shaw_Air_Force_Base](https://en.wikipedia.org/wiki/Shaw_Air_Force_Base)  
+   Link: <a href="https://en.wikipedia.org/wiki/Shaw_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Shaw_Air_Force_Base</a>  
 
 53. <a id="endnote-53"></a>
    Source: Wikipedia  
    Title: Joint Base Charleston  
-   Link: [https://en.wikipedia.org/wiki/Joint_Base_Charleston](https://en.wikipedia.org/wiki/Joint_Base_Charleston)  
+   Link: <a href="https://en.wikipedia.org/wiki/Joint_Base_Charleston" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Joint_Base_Charleston</a>  
 
 54. <a id="endnote-54"></a>
    Source: shawhousing.com  
-   Link: [https://www.shawhousing.com/history](https://www.shawhousing.com/history)  
+   Link: <a href="https://www.shawhousing.com/history" target="_blank" rel="noopener noreferrer nofollow">https://www.shawhousing.com/history</a>  
 
 55. <a id="endnote-55"></a>
    Source: jbcharlestonhousing.com  
-   Link: [https://www.jbcharlestonhousing.com/history](https://www.jbcharlestonhousing.com/history)  
+   Link: <a href="https://www.jbcharlestonhousing.com/history" target="_blank" rel="noopener noreferrer nofollow">https://www.jbcharlestonhousing.com/history</a>  
 
 56. <a id="endnote-56"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 57. <a id="endnote-57"></a>
    Source: scencyclopedia.org  
    Title: shaw air force base  
-   Link: [https://www.scencyclopedia.org/sce/entries/shaw-air-force-base/](https://www.scencyclopedia.org/sce/entries/shaw-air-force-base/)  
+   Link: <a href="https://www.scencyclopedia.org/sce/entries/shaw-air-force-base/" target="_blank" rel="noopener noreferrer nofollow">https://www.scencyclopedia.org/sce/entries/shaw-air-force-base/</a>  
 
 58. <a id="endnote-58"></a>
    Source: scencyclopedia.org  
    Title: charleston air force base  
-   Link: [https://www.scencyclopedia.org/sce/entries/charleston-air-force-base/](https://www.scencyclopedia.org/sce/entries/charleston-air-force-base/)  
+   Link: <a href="https://www.scencyclopedia.org/sce/entries/charleston-air-force-base/" target="_blank" rel="noopener noreferrer nofollow">https://www.scencyclopedia.org/sce/entries/charleston-air-force-base/</a>  
 
 59. <a id="endnote-59"></a>
    Source: charlestonafbhousing.com  
-   Link: [https://www.charlestonafbhousing.com/history](https://www.charlestonafbhousing.com/history)  
+   Link: <a href="https://www.charlestonafbhousing.com/history" target="_blank" rel="noopener noreferrer nofollow">https://www.charlestonafbhousing.com/history</a>  
 
 60. <a id="endnote-60"></a>
    Source: slideshare.net  
    Title: Project Blue Book | PDFPilots Ordered To Shoot Down Saucers in Range  
-   Link: [https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203](https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203)  
+   Link: <a href="https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203</a>  
 
 ### Additional References
 
 61. <a id="endnote-61"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_nyIwbBIYCI](https://www.youtube.com/watch?v=_nyIwbBIYCI)  
+   Link: <a href="https://www.youtube.com/watch?v=_nyIwbBIYCI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_nyIwbBIYCI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 ROADSIDE ATTRACTIONS - UFO Alien Welcome Center - Bowman, SC near Charleston Spaceship Flying Saucer...</p></details>
 
 62. <a id="endnote-62"></a>
    Source: youtube.com  
    Title: ROADSIDE ATTRACTIONS  
-   Link: [https://www.youtube.com/watch?v=37bL-lgDyXg](https://www.youtube.com/watch?v=37bL-lgDyXg)  
+   Link: <a href="https://www.youtube.com/watch?v=37bL-lgDyXg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=37bL-lgDyXg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Mysterious sonic boom rattles South Carolina...</p></details>
 
 63. <a id="endnote-63"></a>
    Source: youtube.com  
    Title: Memories of Summerville, South Carolina I UFO Sighting  
-   Link: [https://www.youtube.com/watch?v=XWdUuM5EAMQ](https://www.youtube.com/watch?v=XWdUuM5EAMQ)  
+   Link: <a href="https://www.youtube.com/watch?v=XWdUuM5EAMQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XWdUuM5EAMQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Strange UAP off the coast of Myrtle Beach.May 2 2025 4:42am 58th ave north in Myrtle Beach, SC #uap...</p></details>
 
 64. <a id="endnote-64"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 65. <a id="endnote-65"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf](https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf</a>  
 
 66. <a id="endnote-66"></a>
    Source: locallifesc.com  
-   Link: [https://www.locallifesc.com/ufo-sightings-in-southern-skies/](https://www.locallifesc.com/ufo-sightings-in-southern-skies/)  
+   Link: <a href="https://www.locallifesc.com/ufo-sightings-in-southern-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.locallifesc.com/ufo-sightings-in-southern-skies/</a>  
 
 67. <a id="endnote-67"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
 68. <a id="endnote-68"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/](https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/)  
+   Link: <a href="https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/</a>  
 
 69. <a id="endnote-69"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DUs-9KxjjGn/](https://www.instagram.com/reel/DUs-9KxjjGn/)  
+   Link: <a href="https://www.instagram.com/reel/DUs-9KxjjGn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUs-9KxjjGn/</a>  
 
 70. <a id="endnote-70"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/foxokc/posts/aliens-or-no-a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh/1408666034639929/](https://www.facebook.com/foxokc/posts/aliens-or-no-a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh/1408666034639929/)  
+   Link: <a href="https://www.facebook.com/foxokc/posts/aliens-or-no-a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh/1408666034639929/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxokc/posts/aliens-or-no-a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh/1408666034639929/</a>

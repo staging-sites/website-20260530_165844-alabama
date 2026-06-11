@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-massachusetts/
 nav_short_title: Salem Photo
 title: Why the Salem UFO Photo Still Divides Readers
-title_full: Why the Salem UFO Photo Still Divides Readers | Massachusetts UFOs
+title_full: Why the Salem UFO Photo Still Divides Readers
 display_title_short: Salem Photo
 display_title: Salem Photo
 heading_title: Why the Salem UFO Photo Still Divides Readers
@@ -262,28 +262,23 @@ image: /assets/images/Massachusetts_d42990_salem_1952_photo_720dfc-overview-soci
 
 ## Introduction
 
-On **16 July 1952**, a United States Coast Guard photographer snapped what would become one of the most talked‑about visual records in New England’s UFO history: a grainy **daylight photograph of four bright, roughly elliptical lights in a “V” formation** above the Coast Guard Air Station in **Salem, [Massachusetts]({{ 'what-really-happened-in-massachusetts/' | relative_url }})**. The image, taken by **Shell R. Alpert** through a window screen on a crisp July morning, was entered into the U.S. Air Force’s official UFO archive, **Project [Blue Book]({{ 'blue-book-2762c4/' | relative_url }})**, but even after decades remains **unresolved — its evidence ambiguous, debated, and still without a conclusive explanation**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/item/2007680837/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressFirst daylight photo of - what are they? | Library of CongressJuly 16, 1952...</span><span class="citation-popover-meta">Published: July 16, 1952</span></span></span>
-
+On **16 July 1952**, a United States Coast Guard photographer snapped what would become one of the most talked‑about visual records in New England’s UFO history: a grainy **daylight photograph of four bright, roughly elliptical lights in a “V” formation** above the Coast Guard Air Station in **Salem, [Massachusetts]({{ 'what-really-happened-in-massachusetts/' | relative_url }})**. The image, taken by **Shell R. Alpert** through a window screen on a crisp July morning, was entered into the U.S. Air Force’s official UFO archive, **Project [Blue Book]({{ 'blue-book-2762c4/' | relative_url }})**, but even after decades remains **unresolved — its evidence ambiguous, debated, and still without a conclusive explanation**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/item/2007680837/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressFirst daylight photo of - what are they? &#124; Library of CongressJuly 16, 1952...</span><span class="citation-popover-meta">Published: July 16, 1952</span></span></span>
 
 <img src="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc-overview.webp" | relative_url }}" alt="Overview image for Salem Photo" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Coast Guard Photograph Shows
 
-At **09:35 AM** on 16 July 1952, Alpert was working in the photographic laboratory at the **Coast Guard Air Station Salem**, a functioning U.S. military base on the Massachusetts coast. He noticed four bright luminous shapes arranged in what looked like a **“V” formation** outside his window. Quickly grabbing his camera — which he had been cleaning and was lucky to find loaded — he took a single photograph of the scene through the window screen. The objects appeared against a light sky backdrop, roughly aligned above industrial structures such as power plant smokestacks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spookyvalley.com/events/salem-coast-guard-photo-1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spookyvalley.com">[Spooky Valley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spookyvalley.com</span><span class="citation-popover-title">Spooky Valley The Salem Coast Guard Photograph | Spooky Valley</span><span class="citation-popover-snippet">Spooky ValleyThe Salem Coast Guard Photograph | Spooky ValleyJuly 16, 1952...</span><span class="citation-popover-meta">Published: July 16, 1952</span></span></span>
+At **09:35 AM** on 16 July 1952, Alpert was working in the photographic laboratory at the **Coast Guard Air Station Salem**, a functioning U.S. military base on the Massachusetts coast. He noticed four bright luminous shapes arranged in what looked like a **“V” formation** outside his window. Quickly grabbing his camera — which he had been cleaning and was lucky to find loaded — he took a single photograph of the scene through the window screen. The objects appeared against a light sky backdrop, roughly aligned above industrial structures such as power plant smokestacks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spookyvalley.com/events/salem-coast-guard-photo-1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spookyvalley.com">[Spooky Valley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spookyvalley.com</span><span class="citation-popover-title">Spooky Valley The Salem Coast Guard Photograph &#124; Spooky Valley</span><span class="citation-popover-snippet">Spooky ValleyThe Salem Coast Guard Photograph &#124; Spooky ValleyJuly 16, 1952...</span><span class="citation-popover-meta">Published: July 16, 1952</span></span></span>
 
 Alpert’s colleague, Thomas E. Flaherty, was reportedly called over; reports differ on the clarity of Flaherty’s sighting, but he did witness at least something at the time. Shortly after the image was captured, the lights faded or disappeared altogether. The original print (and, at least according to Blue Book documentation, the negative) was forwarded through Coast Guard channels to Air Force intelligence for analysis and eventually held in the **National Archives (Project Blue Book Case No. 1501)**.[ufologie.patrickgross.org]
 
-Crucially, the photograph was taken **through a window** and shows the texture of a screen or pane, meaning the light sources could have been reflected or refracted through glass rather than being external aerial phenomena. This photographic context is central to later disputes over interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/item/2007680837/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressFirst daylight photo of - what are they? | Library of CongressJuly 16, 1952...</span><span class="citation-popover-meta">Published: July 16, 1952</span></span></span>
+Crucially, the photograph was taken **through a window** and shows the texture of a screen or pane, meaning the light sources could have been reflected or refracted through glass rather than being external aerial phenomena. This photographic context is central to later disputes over interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/item/2007680837/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressFirst daylight photo of - what are they? &#124; Library of CongressJuly 16, 1952...</span><span class="citation-popover-meta">Published: July 16, 1952</span></span></span>
 
-
-<img src="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc-Illustration-1-light.svg" | relative_url }}" alt="Salem Photo illustration 1" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc-Illustration-1-dark.svg" | relative_url }}" alt="Salem Photo illustration 1" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Project Blue Book Handled the Case
 
 The photograph became part of **Project Blue Book**, the U.S. Air Force’s formal programme to investigate UFO reports from 1952 to 1969. Blue Book examined the Salem photo and accompanying witness statements, but unlike some aerial cases, it never produced a definitive identification. In the earliest internal reviews, Air Force analysts suggested mundane explanations: one review described the image as **“probably” a double exposure hoax**, and another concluded it may have been **[reflections]({{ 'reflections/' | relative_url }}) from street lamps on the window** through which the photograph was taken.[ufologie.patrickgross.org]
 
 These assessments reflect the period’s investigative challenges. Air Force staff tested scenarios by photographing controlled light sources and examining how interior reflections could create apparent aerial objects — a common issue with UFO photos taken through glass. Later re‑analysis in **October 1963** leaned toward reflection hypotheses, particularly noting that ordinary ceiling or nearby lights could produce blurred spots when shot through a window on a camera set for distant focus. Nonetheless, **no conclusive conventional cause was officially confirmed**, and the case file in Blue Book remains listed as **“unexplained.”**[RR0]
-
-
-<img src="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc-Illustration-3-light.svg" | relative_url }}" alt="Salem Photo illustration 3" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RlAl8Cub2Mo" title="The WASHINGTON FLAP - The most inexplicable UFO incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RlAl8Cub2Mo" target="_blank" rel="noopener noreferrer">The WASHINGTON FLAP - The most inexplicable UFO incident</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE Universe &middot; Views: 59.5K &middot; Uploaded: May 2024 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RlAl8Cub2Mo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RlAl8Cub2Mo">Open on YouTube</a></p></div></div></div>
 
@@ -292,23 +287,19 @@ These assessments reflect the period’s investigative challenges. Air Force sta
 Decades after the event, the Salem photograph illustrates the enduring evidential difficulty with photographic UFO claims — particularly those from the 1950s when camera technology, photographic literacy, and analytical techniques were limited:
 
 * **Optical Artifacts:** Shooting through window glass almost always introduces potential reflections, ghost images, and artifacts. In the Salem case, lights from inside the building or from nearby ground sources could have bounced off the glass and been captured as fuzzy external objects. Such reflections are notoriously difficult to rule out, especially when only one frame survives for analysis.[ufologie.patrickgross.org]
-* **Single Witness Photograph:** Unlike cases with multiple angles or corroborating instrumentation (radar, multiple cameras, independent observers), this account hinges largely on a **single photograph and one principal witness**. That inherently limits what can be reliably inferred from the image itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/rqrx73" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Reddit1952 Salem Massachusetts UFO photograph part of project Blue BookDecember 28, 2021...</span><span class="citation-popover-meta">Published: December 28, 2021</span></span></span>
+* **Single Witness Photograph:** Unlike cases with multiple angles or corroborating instrumentation (radar, multiple cameras, independent observers), this account hinges largely on a **single photograph and one principal witness**. That inherently limits what can be reliably inferred from the image itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/rqrx73" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">1952 Salem Massachusetts UFO photograph part of project Blue BookDecember 28, 2021...</span><span class="citation-popover-meta">Published: December 28, 2021</span></span></span>
 * **Project Blue Book’s Ambiguous Verdict:** The Air Force’s shifting assessments underscore how interpretations depended heavily on analysts’ experience, available contextual information, and contemporary assumptions about what was “normal” or explainable. Its final “unidentified” classification does not imply a high‑confidence assessment of extraordinary craft; it signals that the available evidence did not definitively match any known natural or man‑made phenomenon.[ufologie.patrickgross.org]
 
-Because of these constraints, the photograph has persisted in UFO literature as **an iconic but unresolved piece of evidence**: visually striking and historically significant — particularly because it emerged amid the **1952 UFO flap** that also saw sightings reported over Washington, D.C. — yet fundamentally ambiguous. Its strength lies less in proving any particular extraordinary claim than in prompting careful consideration of how visual evidence must be treated, how optical effects can mislead even trained observers, and how archival UFO records blend witness experience with analytical uncertainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spookyvalley.com/events/salem-coast-guard-photo-1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spookyvalley.com">[Spooky Valley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spookyvalley.com</span><span class="citation-popover-title">Spooky Valley The Salem Coast Guard Photograph | Spooky Valley</span><span class="citation-popover-snippet">Spooky ValleyThe Salem Coast Guard Photograph | Spooky ValleyJuly 16, 1952...</span><span class="citation-popover-meta">Published: July 16, 1952</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2k7K5H6Htl8" title="1952 - The Invasion of Washington | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2k7K5H6Htl8" target="_blank" rel="noopener noreferrer">1952 - The Invasion of Washington | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Mediatime Network &middot; Views: 4.8K &middot; Uploaded: December 2024 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2k7K5H6Htl8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2k7K5H6Htl8">Open on YouTube</a></p></div></div></div>
-
-
-<img src="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc-Illustration-2-light.svg" | relative_url }}" alt="Salem Photo illustration 2" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## The Salem Photograph in Massachusetts UFO History
-
-Within the broader context of Massachusetts’ UFO record, the Salem 1952 photo occupies a distinctive place: it is **one of the few mid‑century visual records tied to a documented witness with professional photographic training** and mainstream institutional investigation. While the image itself has never settled debates about its subject — nor yielded a clearly identified conventional explanation — its inclusion in Project Blue Book and continued visibility in UFO research make it a touchstone for discussions about photographic evidence and unresolved cases in the state’s aerial anomaly history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/item/2007680837/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressFirst daylight photo of - what are they? | Library of CongressJuly 16, 1952...</span><span class="citation-popover-meta">Published: July 16, 1952</span></span></span>
-
+Because of these constraints, the photograph has persisted in UFO literature as **an iconic but unresolved piece of evidence**: visually striking and historically significant — particularly because it emerged amid the **1952 UFO flap** that also saw sightings reported over Washington, D.C. — yet fundamentally ambiguous. Its strength lies less in proving any particular extraordinary claim than in prompting careful consideration of how visual evidence must be treated, how optical effects can mislead even trained observers, and how archival UFO records blend witness experience with analytical uncertainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spookyvalley.com/events/salem-coast-guard-photo-1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spookyvalley.com">[Spooky Valley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spookyvalley.com</span><span class="citation-popover-title">Spooky Valley The Salem Coast Guard Photograph &#124; Spooky Valley</span><span class="citation-popover-snippet">Spooky ValleyThe Salem Coast Guard Photograph &#124; Spooky ValleyJuly 16, 1952...</span><span class="citation-popover-meta">Published: July 16, 1952</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v9wUHdXmgQU" title="1952 UFO Sighting is Oldest Caught on Camera | The Proof Is Out There (Season 4) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer">1952 UFO Sighting is Oldest Caught on Camera | The Proof Is Out There (Season 4) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 84.7K &middot; Uploaded: October 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v9wUHdXmgQU">Open on YouTube</a></p></div></div></div>
 
+<img src="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc-Illustration-2-dark.svg" | relative_url }}" alt="Salem Photo illustration 2" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The Salem Photograph in Massachusetts UFO History
+
+Within the broader context of Massachusetts’ UFO record, the Salem 1952 photo occupies a distinctive place: it is **one of the few mid‑century visual records tied to a documented witness with professional photographic training** and mainstream institutional investigation. While the image itself has never settled debates about its subject — nor yielded a clearly identified conventional explanation — its inclusion in Project Blue Book and continued visibility in UFO research make it a touchstone for discussions about photographic evidence and unresolved cases in the state’s aerial anomaly history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/item/2007680837/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">The Library of CongressFirst daylight photo of - what are they? &#124; Library of CongressJuly 16, 1952...</span><span class="citation-popover-meta">Published: July 16, 1952</span></span></span>
+
+<img src="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc-Illustration-3-dark.svg" | relative_url }}" alt="Salem Photo illustration 3" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -396,7 +387,7 @@ Within the broader context of Massachusetts’ UFO record, the Salem 1952 photo 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -406,111 +397,36 @@ Within the broader context of Massachusetts’ UFO record, the Salem 1952 photo 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +434,15 @@ Within the broader context of Massachusetts’ UFO record, the Salem 1952 photo 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +450,15 @@ Within the broader context of Massachusetts’ UFO record, the Salem 1952 photo 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,15 +466,15 @@ Within the broader context of Massachusetts’ UFO record, the Salem 1952 photo 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -566,7 +482,7 @@ Within the broader context of Massachusetts’ UFO record, the Salem 1952 photo 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=salem-photo-why-the-salem-ufo-photo-still-divides-readers-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-the-salem-ufo-photo-still-divides-readers-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -643,17 +559,31 @@ Within the broader context of Massachusetts’ UFO record, the Salem 1952 photo 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -666,42 +596,73 @@ Within the broader context of Massachusetts’ UFO record, the Salem 1952 photo 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -716,12 +677,17 @@ Within the broader context of Massachusetts’ UFO record, the Salem 1952 photo 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -731,60 +697,60 @@ Within the broader context of Massachusetts’ UFO record, the Salem 1952 photo 
 
 1. <a id="endnote-1"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/bluebookpics1501.htm](https://ufologie.patrickgross.org/htm/bluebookpics1501.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/bluebookpics1501.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluebookpics1501.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo - UFOs at close sight: Project Blue Book case 1501, Salem, July 16, 1952...</p></details>
    Published: July 16, 1952  
 
 2. <a id="endnote-2"></a>
    Source: rr0.org  
    Title: UFO Sighting ‑ Salem, Massachusetts  
-   Link: [https://rr0.org/time/1/9/5/2/07/17/SalemReport/index.html](https://rr0.org/time/1/9/5/2/07/17/SalemReport/index.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RR0UFO Sighting ‑ Salem, MassachusettsJuly 16, 1952...</p></details>
+   Link: <a href="https://rr0.org/time/1/9/5/2/07/17/SalemReport/index.html" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/time/1/9/5/2/07/17/SalemReport/index.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting ‑ Salem, MassachusettsJuly 16, 1952...</p></details>
    Published: July 16, 1952  
 
 3. <a id="endnote-3"></a>
    Source: rr0.org  
    Title: La photographie de Salem  
-   Link: [https://rr0.org/science/crypto/ufo/enquete/dossier/Salem/](https://rr0.org/science/crypto/ufo/enquete/dossier/Salem/)  
+   Link: <a href="https://rr0.org/science/crypto/ufo/enquete/dossier/Salem/" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/science/crypto/ufo/enquete/dossier/Salem/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>À noter une autre forme de soucoupe, plus petite, posée a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/rqrx73](https://www.reddit.com/r/UFOs/comments/rqrx73)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit1952 Salem Massachusetts UFO photograph part of project Blue BookDecember 28, 2021...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/rqrx73" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rqrx73</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>1952 Salem Massachusetts UFO photograph part of project Blue BookDecember 28, 2021...</p></details>
    Published: December 28, 2021  
 
 5. <a id="endnote-5"></a>
    Source: ufology.patrickgross.org  
    Title: A 09:35 du matin, le témoin, Shell Alpert, a pris cette photogra  
-   Link: [https://ufology.patrickgross.org/htm/bluebookpics1501f.htm](https://ufology.patrickgross.org/htm/bluebookpics1501f.htm)  
+   Link: <a href="https://ufology.patrickgross.org/htm/bluebookpics1501f.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufology.patrickgross.org/htm/bluebookpics1501f.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Les OVNIS vus de près: Le cas 1501 du Projet Blue Book, Salem, 16 juillet 1952LE CAS 1501 DU PROJET BLUE BOOK: SALEM, 16 JUILLET 1952: Le...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/bluepics51.htm](https://ufologie.patrickgross.org/htm/bluepics51.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/bluepics51.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluepics51.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: pictures from Project Blue Book Files, 1950-1951PROJECT BLUE BOOK: PICTURES FROM PROJECT BLUE BOOK: BLUE BOOK PHOTOG...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ufology.patrickgross.org  
-   Link: [https://ufology.patrickgross.org/htm/bluepicsdiv.htm](https://ufology.patrickgross.org/htm/bluepicsdiv.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| Pre-Blue Book pictures, 1950 - 1951. | The McMinnville photographs by Paul Trent. | The Lubboc...</p></details>
+   Link: <a href="https://ufology.patrickgross.org/htm/bluepicsdiv.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufology.patrickgross.org/htm/bluepicsdiv.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pre-Blue Book pictures, 1950 - 1951. | The McMinnville photographs by Paul Trent. | The Lubboc...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/bluepics62.htm](https://ufologie.patrickgross.org/htm/bluepics62.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| Pre-Blue Book pictures, 1950 - 1951. | The McMinnville photographs by Paul Trent. | The Lubboc...</p></details>
+   Link: <a href="https://ufologie.patrickgross.org/htm/bluepics62.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluepics62.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pre-Blue Book pictures, 1950 - 1951. | The McMinnville photographs by Paul Trent. | The Lubboc...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: loc.gov  
-   Link: [https://www.loc.gov/item/2007680837/](https://www.loc.gov/item/2007680837/)  
+   Link: <a href="https://www.loc.gov/item/2007680837/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/item/2007680837/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressFirst daylight photo of - what are they? | Library of CongressJuly 16, 1952...</p></details>
    Published: July 16, 1952  
 
 10. <a id="endnote-10"></a>
    Source: spookyvalley.com  
    Title: Spooky Valley The Salem Coast Guard Photograph | Spooky Valley  
-   Link: [https://spookyvalley.com/events/salem-coast-guard-photo-1952](https://spookyvalley.com/events/salem-coast-guard-photo-1952)  
+   Link: <a href="https://spookyvalley.com/events/salem-coast-guard-photo-1952" target="_blank" rel="noopener noreferrer nofollow">https://spookyvalley.com/events/salem-coast-guard-photo-1952</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spooky ValleyThe Salem Coast Guard Photograph | Spooky ValleyJuly 16, 1952...</p></details>
    Published: July 16, 1952  
 
@@ -792,63 +758,63 @@ Within the broader context of Massachusetts’ UFO record, the Salem 1952 photo 
 
 11. <a id="endnote-11"></a>
    Source: beforeitsnews.com  
-   Link: [https://beforeitsnews.com/paranormal/2026/01/amazing-alien-craft-photo-over-salem-massachusetts-2570793.html](https://beforeitsnews.com/paranormal/2026/01/amazing-alien-craft-photo-over-salem-massachusetts-2570793.html)  
+   Link: <a href="https://beforeitsnews.com/paranormal/2026/01/amazing-alien-craft-photo-over-salem-massachusetts-2570793.html" target="_blank" rel="noopener noreferrer nofollow">https://beforeitsnews.com/paranormal/2026/01/amazing-alien-craft-photo-over-salem-massachusetts-2570793.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 14, 2026 — By World UFO Photos Contributor profile | More stories Story Views Now: | Last hour: | Last 24 hours: | Total: | AMAZI...</p></details>
    Published: January 14, 2026  
 
 12. <a id="endnote-12"></a>
    Source: keithmayerson.com  
    Title: (121.92 × 172.72 cm) Download Notes + First Daylight Photo of UFOs: Salem Mass U  
-   Link: [https://keithmayerson.com/works/first-daylight-photo-of-ufos-salem-mass-us-coast-guard-station-july-16-1952/](https://keithmayerson.com/works/first-daylight-photo-of-ufos-salem-mass-us-coast-guard-station-july-16-1952/)  
+   Link: <a href="https://keithmayerson.com/works/first-daylight-photo-of-ufos-salem-mass-us-coast-guard-station-july-16-1952/" target="_blank" rel="noopener noreferrer nofollow">https://keithmayerson.com/works/first-daylight-photo-of-ufos-salem-mass-us-coast-guard-station-july-16-1952/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>First Daylight Photo of UFOs: Salem Mass US Coast Guard Station, July 16, 1952 | Keith MayersonImage First Daylight Photo of UFOs: Salem...</p></details>
    Published: July 16, 1952  
 
 13. <a id="endnote-13"></a>
    Source: gettyimages.com.mx  
    Title: View of four unidentified flying objects above power plant  
-   Link: [https://www.gettyimages.com.mx/detail/fotograf%C3%ADa-de-noticias/view-of-four-unidentified-flying-objects-above-fotograf%C3%ADa-de-noticias/2206811528](https://www.gettyimages.com.mx/detail/fotograf%C3%ADa-de-noticias/view-of-four-unidentified-flying-objects-above-fotograf%C3%ADa-de-noticias/2206811528)  
+   Link: <a href="https://www.gettyimages.com.mx/detail/fotograf%C3%ADa-de-noticias/view-of-four-unidentified-flying-objects-above-fotograf%C3%ADa-de-noticias/2206811528" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com.mx/detail/fotograf%C3%ADa-de-noticias/view-of-four-unidentified-flying-objects-above-fotograf%C3%ADa-de-noticias/2206811528</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fotografía de noticias - Getty ImagesMarch 25, 2025 — SALEM UFO SIGHTING View of four unidentified flying objects (UFOs) above power plan...</p></details>
    Published: March 25, 2025  
 
 14. <a id="endnote-14"></a>
    Source: davidhalperin.net  
    Title: The Coast Guard (Salem) UFO Photograph – a Pair of Jungian Quaternities?  
-   Link: [https://www.davidhalperin.net/the-coast-guard-salem-ufo-photograph-a-pair-of-jungian-quaternities/](https://www.davidhalperin.net/the-coast-guard-salem-ufo-photograph-a-pair-of-jungian-quaternities/)  
+   Link: <a href="https://www.davidhalperin.net/the-coast-guard-salem-ufo-photograph-a-pair-of-jungian-quaternities/" target="_blank" rel="noopener noreferrer nofollow">https://www.davidhalperin.net/the-coast-guard-salem-ufo-photograph-a-pair-of-jungian-quaternities/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 12, 2021 David Halperin I suppose it qualifies as an iconic photograph. Taken at Salem, Massachusetts...</p></details>
    Published: May 12, 2021  
 
 15. <a id="endnote-15"></a>
    Source: eldritchoculum.com  
    Title: Salem UFO Sighting Original Photograph, c  
-   Link: [https://www.eldritchoculum.com/inventory/p/salem-ufo-sighting-original-photograph-c-1952](https://www.eldritchoculum.com/inventory/p/salem-ufo-sighting-original-photograph-c-1952)  
+   Link: <a href="https://www.eldritchoculum.com/inventory/p/salem-ufo-sighting-original-photograph-c-1952" target="_blank" rel="noopener noreferrer nofollow">https://www.eldritchoculum.com/inventory/p/salem-ufo-sighting-original-photograph-c-1952</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1952 — ELDRITCH OCULUM ANTIQUARIANImage: 22.png Image: IMG_5574.jpeg Image: IMG_5563.jpeg Image: IMG_5568.jpeg [Button: ] [Button: ] Imag...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: UFO Project Blue Book at National Archives Museum  
-   Link: [https://www.youtube.com/watch?v=JHeZjJgO9Ns](https://www.youtube.com/watch?v=JHeZjJgO9Ns)  
+   Link: <a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JHeZjJgO9Ns</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This video analyzes the 1952 Salem Coast Guard photograph using modern image enhancement technology to evaluate the unresolved shapes cap...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: album-online.com  
-   Link: [https://www.album-online.com/detail/fr/OWQwZmYxMA/july-1952-am-coast-guard-seaman-shell-alpert-took-picture-alb3824768](https://www.album-online.com/detail/fr/OWQwZmYxMA/july-1952-am-coast-guard-seaman-shell-alpert-took-picture-alb3824768)  
+   Link: <a href="https://www.album-online.com/detail/fr/OWQwZmYxMA/july-1952-am-coast-guard-seaman-shell-alpert-took-picture-alb3824768" target="_blank" rel="noopener noreferrer nofollow">https://www.album-online.com/detail/fr/OWQwZmYxMA/july-1952-am-coast-guard-seaman-shell-alpert-took-picture-alb3824768</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Salem UFO Sighting, 1952 - Album alb3824768SALEM UFO SIGHTING, 1952 Image: Salem UFO Sighting, 1952 Titre: Salem UFO Sighting, 1952 Légen...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: saucerco.com  
    Title: The Salem UFO – Saucer  
-   Link: [https://saucerco.com/blogs/saucer-encounters/the-salem-ufo](https://saucerco.com/blogs/saucer-encounters/the-salem-ufo)  
+   Link: <a href="https://saucerco.com/blogs/saucer-encounters/the-salem-ufo" target="_blank" rel="noopener noreferrer nofollow">https://saucerco.com/blogs/saucer-encounters/the-salem-ufo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 16, 2022 — 8 comments · Jul 16, 2022 THE SALEM UFO by SAUCER Image: The Salem UFO - July 16, 1952 (Four unidentified luminous object...</p></details>
    Published: July 16, 2022  
 
 19. <a id="endnote-19"></a>
    Source: theufodatabase.com  
    Title: Salem UFO | The UFO Database  
-   Link: [https://theufodatabase.com/photos/salem-ufo](https://theufodatabase.com/photos/salem-ufo)  
+   Link: <a href="https://theufodatabase.com/photos/salem-ufo" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/photos/salem-ufo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alpert, a photographer with the U.S. Coast Guard, took a famous photograph of four bright objects in a &quot;V&quot; formation in...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: theufodatabase.com  
    Title: 1952 salem ufo photo  
-   Link: [https://theufodatabase.com/incidents/1952-salem-ufo-photo](https://theufodatabase.com/incidents/1952-salem-ufo-photo)  
+   Link: <a href="https://theufodatabase.com/incidents/1952-salem-ufo-photo" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/incidents/1952-salem-ufo-photo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Coast Guard photographer, Shell Alpert. He spotted four luminous objects in a &quot;V&quot; formation outside of his photo lab window...</p></details>

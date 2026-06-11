@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-pennsylvanias/
 nav_short_title: 1973 Flap
 title: When Western Pennsylvania Filled With Reports
-title_full: When Western Pennsylvania Filled With Reports | Pennsylvania UFOs
+title_full: When Western Pennsylvania Filled With Reports
 display_title_short: 1973 Flap
 display_title: 1973 Flap
 heading_title: When Western Pennsylvania Filled With Reports
@@ -262,8 +262,7 @@ image: /assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55-overview-s
 
 ## Introduction
 
-Western [Pennsylvania]({{ 'what-really-happened-in-pennsylvanias/' | relative_url }})’s 1973 UFO flap was not one single sighting with one tidy explanation. It was a regional reporting wave in which unusual lights, alleged low-flying objects, police calls, local press interest, volunteer investigators and “creature” stories became tangled together across the western part of the state, especially around Westmoreland and Fayette counties. Its best-known case came near Uniontown on 25 October 1973, when witnesses claimed to see a large red object descend near a pasture and then reported tall, hairy figures near a fence line. The case matters in Pennsylvania UFO history because it shows how a flap works: separate reports pile up, investigators try to sort them, and the boundary between skywatching, folklore, fear and evidence becomes difficult to police.
-
+Western Pennsylvania’s 1973 UFO flap was not one single sighting with one tidy explanation. It was a regional reporting wave in which unusual lights, alleged low-flying objects, police calls, local press interest, volunteer investigators and “creature” stories became tangled together across the western part of the state, especially around Westmoreland and Fayette counties. Its best-known case came near Uniontown on 25 October 1973, when witnesses claimed to see a large red object descend near a pasture and then reported tall, hairy figures near a fence line. The case matters in Pennsylvania UFO history because it shows how a flap works: separate reports pile up, investigators try to sort them, and the boundary between skywatching, folklore, fear and evidence becomes difficult to police.
 
 <img src="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55-overview.webp" | relative_url }}" alt="Overview image for 1973 Flap" loading="eager" decoding="sync" fetchpriority="high">
 The fairest reading is cautious. Some 1973 reports may have had ordinary causes such as planets, aircraft, meteors, satellites, balloons, lanterns or misperceived animals. Even [Stan Gordon]({{ 'stan-gordon/' | relative_url }}), the Greensburg investigator most associated with the flap, has said that a high percentage of strange reports turn out to have natural or man-made explanations. But the 1973 wave remains notable because witnesses, local authorities and private investigators treated at least some reports as serious enough to document, revisit and argue over for decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heraldstandard.com/news/2014/oct/07/fayette-countys-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heraldstandard.com">[Herald-Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heraldstandard.com</span><span class="citation-popover-title">fayette countys encounter</span><span class="citation-popover-snippet">fayette countys encounter</span></span></span>
@@ -278,8 +277,7 @@ The reports were not all of the same kind. Some were classic UFO claims: lights,
 
 That mixture is why the flap is best understood as a case family, not a single case. A single bright light in the sky can often be checked against astronomy, aviation and weather. A cluster involving sky objects, animal reactions, police referrals, alleged landing traces and creature claims is much harder to evaluate because the evidence types do not fit one standard test.
 
-
-<img src="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55-Illustration-1-light.svg" | relative_url }}" alt="1973 Flap illustration 1" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55-Illustration-1-dark.svg" | relative_url }}" alt="1973 Flap illustration 1" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Uniontown case became the flap’s central story
 
 The case most often used to represent the western Pennsylvania flap occurred on 25 October 1973 in countryside near Uniontown, in Fayette County. In a later local newspaper account, officials discussing the incident referred questions to Gordon, who had investigated it and become closely associated with the file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heraldstandard.com/news/2014/oct/07/fayette-countys-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heraldstandard.com">[Herald-Standard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heraldstandard.com</span><span class="citation-popover-title">fayette countys encounter</span><span class="citation-popover-snippet">fayette countys encounter</span></span></span>
@@ -293,7 +291,6 @@ The story escalated further when one of the witnesses reportedly fired tracers a
 Gordon’s own later summary adds the most evidentially interesting detail: he wrote that a state trooper from the Uniontown barracks called his UFO hotline at about 10.30 p.m. after investigating the report. Gordon said the officer told him the area where the object had been was glowing, estimated at more than 100 feet in diameter, extending up from about a foot off the ground, and that farm animals would not approach it. Gordon also stated that his team reached the scene within hours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stangordon.info/wp/2021/06/07/the-government-needs-to-be-more-forthcoming-about-the-ongoing-ufo-mystery-ufo-sightings-reported-yearly-in-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stangordon.info">[Stan Gordon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stangordon.info</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For readers, the important distinction is between “reported” and “established”. The [Uniontown case]({{ 'uniontown-case/' | relative_url }}) is well known because it includes multiple witnesses, a claimed police response and a claimed physical trace. But the public record still relies heavily on Gordon’s summaries and later retellings. That makes it historically significant within Pennsylvania UFO lore, but not independently proven as a landed craft, an unknown creature or a linked UFO-creature event.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DweWvCUv0tM" title="What Caused This Helicopter To Ascend 1,800 Feet in 10 Seconds?! | UFO Witness | Travel Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DweWvCUv0tM" target="_blank" rel="noopener noreferrer">What Caused This Helicopter To Ascend 1,800 Feet in 10 Seconds?! | UFO Witness | Travel Channel</a></p><p class="youtube-embed-meta">Channel: Travel Channel &middot; Views: 38.4K &middot; Uploaded: May 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DweWvCUv0tM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DweWvCUv0tM">Open on YouTube</a></p></div></div></div>
 
@@ -309,8 +306,7 @@ On the other hand, private case files are not the same as a controlled official 
 
 Media coverage added another layer. Local journalism gave the flap public shape, but press interest can also amplify a wave. Once newspapers, radio stations or police dispatchers start receiving reports, people who might otherwise ignore a light in the sky may interpret it through the current story. That does not mean all witnesses are wrong; it means a flap is partly a social process as well as an observational one.
 
-
-<img src="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55-Illustration-2-light.svg" | relative_url }}" alt="1973 Flap illustration 2" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55-Illustration-2-dark.svg" | relative_url }}" alt="1973 Flap illustration 2" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why mixed phenomena complicate the case
 
 The 1973 western Pennsylvania flap is difficult because it combines different categories of claim that normally require different standards of evidence.
@@ -323,8 +319,7 @@ Sceptical interpretations often focus on this compounding problem. Joe Nickell, 
 
 That sceptical frame does not prove the Uniontown witnesses invented their story. It does, however, show why the case cannot be read in isolation. By 1973, American UFO culture, Bigfoot culture and “high strangeness” publishing were already feeding each other. Western Pennsylvania’s flap sits right at that crossroads.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m61jnD_o71o" title="Episode 516: The Pennsylvania UFO Bigfoot Invasion of 1973 - The Double Flap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m61jnD_o71o" target="_blank" rel="noopener noreferrer">Episode 516: The Pennsylvania UFO Bigfoot Invasion of 1973 - The Double Flap</a></p><p class="youtube-embed-meta">Channel: Last Podcast On The Left &middot; Views: 12.1K &middot; Uploaded: March 2023 &middot; Length: 1 hour 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m61jnD_o71o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m61jnD_o71o">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TTDVTCwdKQ0" title="Around The Town - Kecksburg UFO Festival - ft Stan Gordon | Alien Investigators &amp; Bigfoot Society" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TTDVTCwdKQ0" target="_blank" rel="noopener noreferrer">Around The Town - Kecksburg UFO Festival - ft Stan Gordon | Alien Investigators &amp; Bigfoot Society</a></p><p class="youtube-embed-meta">Channel: Armstrong Neighborhood Channel &middot; Views: 1.4K &middot; Uploaded: August 2023 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TTDVTCwdKQ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TTDVTCwdKQ0">Open on YouTube</a></p></div></div></div>
 
 ## What the best evidence does and does not show
 
@@ -338,8 +333,7 @@ Gordon himself has publicly acknowledged the need for caution. In the *Herald-St
 
 The most defensible conclusion is that western Pennsylvania experienced a genuine reporting wave in 1973: people really did make many reports, some reports reached police and investigators, and the wave became an important part of the state’s UFO history. What remains unproven is the extraordinary interpretation that UFOs and unknown creatures were physically present and connected.
 
-
-<img src="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55-Illustration-3-light.svg" | relative_url }}" alt="1973 Flap illustration 3" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55-Illustration-3-dark.svg" | relative_url }}" alt="1973 Flap illustration 3" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_western_pa_1973_flap_d52f55-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why 1973 still matters in Pennsylvania UFO history
 
 The western Pennsylvania flap matters because it shows a different side of the state’s UFO tradition from [Kecksburg]({{ 'kecksburg/' | relative_url }}) or [Presque Isle]({{ 'presque-isle/' | relative_url }}). Kecksburg centres on a disputed crash narrative from 1965. Presque Isle matters partly because of its place in Project Blue Book-era records. The 1973 flap is different: it is a post-Blue Book, regional, citizen-driven wave, where local police and private investigators became the main filters for public uncertainty.
@@ -350,9 +344,7 @@ The 1973 cases also shaped later Pennsylvania paranormal culture. Gordon’s boo
 
 For a Pennsylvania UFO project, the best placement of the 1973 flap is therefore neither “solved hoax” nor “confirmed invasion”. It belongs in the middle category: historically important, heavily reported, locally distinctive, but evidentially messy. Its value lies in showing how western Pennsylvania briefly became a place where lights in the sky, frightened farm families, police calls, creature reports and volunteer investigation all converged into one of the state’s strangest UFO chapters.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TTDVTCwdKQ0" title="Around The Town - Kecksburg UFO Festival - ft Stan Gordon | Alien Investigators &amp; Bigfoot Society" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TTDVTCwdKQ0" target="_blank" rel="noopener noreferrer">Around The Town - Kecksburg UFO Festival - ft Stan Gordon | Alien Investigators &amp; Bigfoot Society</a></p><p class="youtube-embed-meta">Channel: Armstrong Neighborhood Channel &middot; Views: 1.4K &middot; Uploaded: August 2023 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TTDVTCwdKQ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TTDVTCwdKQ0">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/29_GPzKTYmI" title="Mysteries and Monsters: Episode 200 Creepy Cryptids and UFOs with Stan Gordon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=29_GPzKTYmI" target="_blank" rel="noopener noreferrer">Mysteries and Monsters: Episode 200 Creepy Cryptids and UFOs with Stan Gordon</a></p><p class="youtube-embed-meta">Channel: Mysteries &amp; Monsters &middot; Views: 2.0K &middot; Uploaded: September 2022 &middot; Length: 1 hour 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=29_GPzKTYmI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=29_GPzKTYmI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -776,172 +768,172 @@ For a Pennsylvania UFO project, the best placement of the 1973 flap is therefore
 1. <a id="endnote-1"></a>
    Source: heraldstandard.com  
    Title: fayette countys encounter  
-   Link: [https://www.heraldstandard.com/news/2014/oct/07/fayette-countys-encounter/](https://www.heraldstandard.com/news/2014/oct/07/fayette-countys-encounter/)  
+   Link: <a href="https://www.heraldstandard.com/news/2014/oct/07/fayette-countys-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.heraldstandard.com/news/2014/oct/07/fayette-countys-encounter/</a>  
 
 2. <a id="endnote-2"></a>
    Source: stangordon.info  
-   Link: [https://www.stangordon.info/wp/2021/06/07/the-government-needs-to-be-more-forthcoming-about-the-ongoing-ufo-mystery-ufo-sightings-reported-yearly-in-pennsylvania/](https://www.stangordon.info/wp/2021/06/07/the-government-needs-to-be-more-forthcoming-about-the-ongoing-ufo-mystery-ufo-sightings-reported-yearly-in-pennsylvania/)  
+   Link: <a href="https://www.stangordon.info/wp/2021/06/07/the-government-needs-to-be-more-forthcoming-about-the-ongoing-ufo-mystery-ufo-sightings-reported-yearly-in-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.stangordon.info/wp/2021/06/07/the-government-needs-to-be-more-forthcoming-about-the-ongoing-ufo-mystery-ufo-sightings-reported-yearly-in-pennsylvania/</a>  
 
 3. <a id="endnote-3"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: indigo.ca  
-   Link: [https://www.indigo.ca/products/silent-invasion-4](https://www.indigo.ca/products/silent-invasion-4)  
+   Link: <a href="https://www.indigo.ca/products/silent-invasion-4" target="_blank" rel="noopener noreferrer nofollow">https://www.indigo.ca/products/silent-invasion-4</a>  
 
 5. <a id="endnote-5"></a>
    Source: stangordon.info  
-   Link: [https://stangordon.info/stangordon.htm](https://stangordon.info/stangordon.htm)  
+   Link: <a href="https://stangordon.info/stangordon.htm" target="_blank" rel="noopener noreferrer nofollow">https://stangordon.info/stangordon.htm</a>  
 
 6. <a id="endnote-6"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2017/09/bigfoot-as-big-myth-seven-phases-of-mythmaking/](https://skepticalinquirer.org/2017/09/bigfoot-as-big-myth-seven-phases-of-mythmaking/)  
+   Link: <a href="https://skepticalinquirer.org/2017/09/bigfoot-as-big-myth-seven-phases-of-mythmaking/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/09/bigfoot-as-big-myth-seven-phases-of-mythmaking/</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 8. <a id="endnote-8"></a>
    Source: abebooks.co.uk  
    Title: Silent Invasion: The Pennsylvania UFO-Bigfoot Casebook  
-   Link: [https://www.abebooks.co.uk/9780966610833/Silent-Invasion-Pennsylvania-UFO-Bigfoot-Casebook-0966610830/plp](https://www.abebooks.co.uk/9780966610833/Silent-Invasion-Pennsylvania-UFO-Bigfoot-Casebook-0966610830/plp)  
+   Link: <a href="https://www.abebooks.co.uk/9780966610833/Silent-Invasion-Pennsylvania-UFO-Bigfoot-Casebook-0966610830/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9780966610833/Silent-Invasion-Pennsylvania-UFO-Bigfoot-Casebook-0966610830/plp</a>  
 
 9. <a id="endnote-9"></a>
    Source: history.com  
    Title: americas first ufo sighting  
-   Link: [https://www.history.com/articles/americas-first-ufo-sighting](https://www.history.com/articles/americas-first-ufo-sighting)  
+   Link: <a href="https://www.history.com/articles/americas-first-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/americas-first-ufo-sighting</a>  
 
 10. <a id="endnote-10"></a>
    Source: history.com  
    Title: of UFOs  
-   Link: [https://www.history.com/articles/history-of-ufos](https://www.history.com/articles/history-of-ufos)  
+   Link: <a href="https://www.history.com/articles/history-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/history-of-ufos</a>  
 
 11. <a id="endnote-11"></a>
    Source: history.com  
    Title: s most infamous ufo sightings  
-   Link: [https://www.history.com/articles/historys-most-infamous-ufo-sightings](https://www.history.com/articles/historys-most-infamous-ufo-sightings)  
+   Link: <a href="https://www.history.com/articles/historys-most-infamous-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/historys-most-infamous-ufo-sightings</a>  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/484025020082/posts/10168417060650083/](https://www.facebook.com/groups/484025020082/posts/10168417060650083/)  
+   Link: <a href="https://www.facebook.com/groups/484025020082/posts/10168417060650083/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/484025020082/posts/10168417060650083/</a>  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/3238587069499399/posts/24155138130750988/](https://www.facebook.com/groups/3238587069499399/posts/24155138130750988/)  
+   Link: <a href="https://www.facebook.com/groups/3238587069499399/posts/24155138130750988/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3238587069499399/posts/24155138130750988/</a>  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/3238587069499399/posts/9094621143895933/](https://www.facebook.com/groups/3238587069499399/posts/9094621143895933/)  
+   Link: <a href="https://www.facebook.com/groups/3238587069499399/posts/9094621143895933/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3238587069499399/posts/9094621143895933/</a>  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1072965459548818/posts/2893566947488651/](https://www.facebook.com/groups/1072965459548818/posts/2893566947488651/)  
+   Link: <a href="https://www.facebook.com/groups/1072965459548818/posts/2893566947488651/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1072965459548818/posts/2893566947488651/</a>  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/679528593379841/posts/1148778973121465/](https://www.facebook.com/groups/679528593379841/posts/1148778973121465/)  
+   Link: <a href="https://www.facebook.com/groups/679528593379841/posts/1148778973121465/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/679528593379841/posts/1148778973121465/</a>  
 
 17. <a id="endnote-17"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 18. <a id="endnote-18"></a>
    Source: post-gazette.com  
-   Link: [https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146](https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146)  
+   Link: <a href="https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146" target="_blank" rel="noopener noreferrer nofollow">https://www.post-gazette.com/news/science/2015/12/06/50-years-later-the-kecksburg-westmoreland-county-ufo-is-identified-probably/stories/201512060146</a>  
 
 19. <a id="endnote-19"></a>
    Source: keystonebigfoot.wixsite.com  
    Title: Fayette County | Keystone Bigfoot.com  
-   Link: [https://keystonebigfoot.wixsite.com/website/fayette-county](https://keystonebigfoot.wixsite.com/website/fayette-county)  
+   Link: <a href="https://keystonebigfoot.wixsite.com/website/fayette-county" target="_blank" rel="noopener noreferrer nofollow">https://keystonebigfoot.wixsite.com/website/fayette-county</a>  
 
 20. <a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=54491](https://nuforc.org/sighting/?id=54491)  
+   Link: <a href="https://nuforc.org/sighting/?id=54491" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=54491</a>  
 
 21. <a id="endnote-21"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 22. <a id="endnote-22"></a>
    Source: news.sky.com  
    Title: ufo abductee still haunted 40 years on 10431808  
-   Link: [https://news.sky.com/story/ufo-abductee-still-haunted-40-years-on-10431808](https://news.sky.com/story/ufo-abductee-still-haunted-40-years-on-10431808)  
+   Link: <a href="https://news.sky.com/story/ufo-abductee-still-haunted-40-years-on-10431808" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-abductee-still-haunted-40-years-on-10431808</a>  
 
 23. <a id="endnote-23"></a>
    Source: sharonahill.com  
-   Link: [https://sharonahill.com/bigfoot/](https://sharonahill.com/bigfoot/)  
+   Link: <a href="https://sharonahill.com/bigfoot/" target="_blank" rel="noopener noreferrer nofollow">https://sharonahill.com/bigfoot/</a>  
 
 24. <a id="endnote-24"></a>
    Source: stangordon.info  
-   Link: [https://www.stangordon.info/wp/](https://www.stangordon.info/wp/)  
+   Link: <a href="https://www.stangordon.info/wp/" target="_blank" rel="noopener noreferrer nofollow">https://www.stangordon.info/wp/</a>  
 
 25. <a id="endnote-25"></a>
    Source: stangordon.info  
-   Link: [https://www.stangordon.info/wp/2024/01/17/2023-a-major-year-for-ufo-uap-bigfoot-cryptid-reports-and-other-mysterious-activity-in-pennsylvania/](https://www.stangordon.info/wp/2024/01/17/2023-a-major-year-for-ufo-uap-bigfoot-cryptid-reports-and-other-mysterious-activity-in-pennsylvania/)  
+   Link: <a href="https://www.stangordon.info/wp/2024/01/17/2023-a-major-year-for-ufo-uap-bigfoot-cryptid-reports-and-other-mysterious-activity-in-pennsylvania/" target="_blank" rel="noopener noreferrer nofollow">https://www.stangordon.info/wp/2024/01/17/2023-a-major-year-for-ufo-uap-bigfoot-cryptid-reports-and-other-mysterious-activity-in-pennsylvania/</a>  
 
 26. <a id="endnote-26"></a>
    Source: pod.wave.co  
-   Link: [https://pod.wave.co/podcast/bigfoot-collectors-club/supercut-the-pennsylvaniabigfoot-ufo-invasion-w-steve-berg](https://pod.wave.co/podcast/bigfoot-collectors-club/supercut-the-pennsylvaniabigfoot-ufo-invasion-w-steve-berg)  
+   Link: <a href="https://pod.wave.co/podcast/bigfoot-collectors-club/supercut-the-pennsylvaniabigfoot-ufo-invasion-w-steve-berg" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/bigfoot-collectors-club/supercut-the-pennsylvaniabigfoot-ufo-invasion-w-steve-berg</a>  
 
 27. <a id="endnote-27"></a>
    Source: pod.wave.co  
    Title: co"The Pennsylvania Bigfoot/UFO Invasion  
-   Link: [https://pod.wave.co/podcast/bigfoot-collectors-club/the-pennsylvania-bigfootufo-invasion-part-i-w-steve-berg-9de81bf8](https://pod.wave.co/podcast/bigfoot-collectors-club/the-pennsylvania-bigfootufo-invasion-part-i-w-steve-berg-9de81bf8)  
+   Link: <a href="https://pod.wave.co/podcast/bigfoot-collectors-club/the-pennsylvania-bigfootufo-invasion-part-i-w-steve-berg-9de81bf8" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/bigfoot-collectors-club/the-pennsylvania-bigfootufo-invasion-part-i-w-steve-berg-9de81bf8</a>  
 
 28. <a id="endnote-28"></a>
    Source: books.google.com  
    Title: Silent Invasion  
-   Link: [https://books.google.com/books/about/Silent_Invasion.html?id=hMf3TgEACAAJ](https://books.google.com/books/about/Silent_Invasion.html?id=hMf3TgEACAAJ)  
+   Link: <a href="https://books.google.com/books/about/Silent_Invasion.html?id=hMf3TgEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Silent_Invasion.html?id=hMf3TgEACAAJ</a>  
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Kecksburg UFO Festival  
-   Link: [https://www.youtube.com/watch?v=TTDVTCwdKQ0](https://www.youtube.com/watch?v=TTDVTCwdKQ0)  
+   Link: <a href="https://www.youtube.com/watch?v=TTDVTCwdKQ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TTDVTCwdKQ0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Caused This Helicopter To Ascend 1800 Feet in 10 Seconds?! | UFO Witness | Travel Channel...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: Discussing Silent Invasion The Pennsylvania UFO-Bigfoot Casebook  
-   Link: [https://www.youtube.com/watch?v=HTk1ZWk5FjI](https://www.youtube.com/watch?v=HTk1ZWk5FjI)  
+   Link: <a href="https://www.youtube.com/watch?v=HTk1ZWk5FjI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HTk1ZWk5FjI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Festival - ft Stan Gordon | Alien Investigators &amp; Bigfoot Society...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=DweWvCUv0tM](https://www.youtube.com/watch?v=DweWvCUv0tM)  
+   Link: <a href="https://www.youtube.com/watch?v=DweWvCUv0tM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DweWvCUv0tM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Great UFO Invasion of Appalachia...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Cryptozoology/comments/1l42u7k/a_rather_bizarre_bigfoot_sighting_from/](https://www.reddit.com/r/Cryptozoology/comments/1l42u7k/a_rather_bizarre_bigfoot_sighting_from/)  
+   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/1l42u7k/a_rather_bizarre_bigfoot_sighting_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/1l42u7k/a_rather_bizarre_bigfoot_sighting_from/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/acfa.cryptozoology/posts/2120962071600134/](https://www.facebook.com/groups/acfa.cryptozoology/posts/2120962071600134/)  
+   Link: <a href="https://www.facebook.com/groups/acfa.cryptozoology/posts/2120962071600134/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/acfa.cryptozoology/posts/2120962071600134/</a>  
 
 34. <a id="endnote-34"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DMRXk3muHJx/](https://www.instagram.com/reel/DMRXk3muHJx/)  
+   Link: <a href="https://www.instagram.com/reel/DMRXk3muHJx/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMRXk3muHJx/</a>  
 
 35. <a id="endnote-35"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/Cryptozoology_201608/Cryptozoology_djvu.txt](https://archive.org/stream/Cryptozoology_201608/Cryptozoology_djvu.txt)  
+   Link: <a href="https://archive.org/stream/Cryptozoology_201608/Cryptozoology_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Cryptozoology_201608/Cryptozoology_djvu.txt</a>  
 
 36. <a id="endnote-36"></a>
    Source: etsy.com  
-   Link: [https://www.etsy.com/listing/1754689881/kecksburg-ufo-newspaper-headline-art](https://www.etsy.com/listing/1754689881/kecksburg-ufo-newspaper-headline-art)  
+   Link: <a href="https://www.etsy.com/listing/1754689881/kecksburg-ufo-newspaper-headline-art" target="_blank" rel="noopener noreferrer nofollow">https://www.etsy.com/listing/1754689881/kecksburg-ufo-newspaper-headline-art</a>  
 
 37. <a id="endnote-37"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DTf4j9IDh0Y/](https://www.instagram.com/p/DTf4j9IDh0Y/)  
+   Link: <a href="https://www.instagram.com/p/DTf4j9IDh0Y/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTf4j9IDh0Y/</a>  
 
 38. <a id="endnote-38"></a>
    Source: biblio.co.uk  
-   Link: [https://biblio.co.uk/book/1676563465](https://biblio.co.uk/book/1676563465)  
+   Link: <a href="https://biblio.co.uk/book/1676563465" target="_blank" rel="noopener noreferrer nofollow">https://biblio.co.uk/book/1676563465</a>

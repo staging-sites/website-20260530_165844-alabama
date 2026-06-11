@@ -2,6 +2,7 @@
 layout: default
 title: "Search"
 permalink: /search/
+search_page: true
 description: Search all pages on this site.
 ---
 
@@ -12,4 +13,7 @@ description: Search all pages on this site.
     <p class="site-search-status search-page-status" data-search-page-status aria-live="polite"></p>
   </form>
   <div class="site-search-results search-page-results" data-search-page-results></div>
+  <div class="search-page-actions">
+    <button class="nav-pill nav-pill-button search-page-back-to-top" type="button" data-search-page-back-to-top hidden>Back to top</button>
+  </div>
 </section>

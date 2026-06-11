@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /reports/
 nav_short_title: Eugene lights
 title: What did pilots see near Eugene?
-title_full: What did pilots see near Eugene? | Reports
+title_full: What did pilots see near Eugene?
 display_title_short: Eugene lights
 display_title: Eugene lights
 heading_title: What did pilots see near Eugene?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:05:47'
-parent_title: Why Oregon UFO Reports Keep Returning | Oregon UFOs
+parent_title: Why Oregon UFO Reports Keep Returning
 parent_permalink: /reports/
 parent_nav_short_title: Reports
 parent_heading_title: Why Oregon UFO Reports Keep Returning
@@ -252,9 +252,8 @@ image: /assets/images/Oregon_07719a_oregon_reports_cultu_516a79_eugene_pilot_lig
 
 The December 2024 [reports]({{ 'reports/' | relative_url }}) of unusual lights near Eugene became one of Oregon’s most discussed modern aviation-related UFO stories because the [witnesses]({{ 'witnesses-a4938b/' | relative_url }}) were pilots speaking through normal air-traffic-control channels rather than members of the public posting videos online. Yet the case is also a useful example of how credible observations can remain unresolved when the supporting evidence is incomplete.
 
-
-<img src="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_eugene_pilot_lights_b3931c-Illustration-1-light.svg" | relative_url }}" alt="Eugene lights illustration 1" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_eugene_pilot_lights_b3931c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_eugene_pilot_lights_b3931c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-On the evening of 7 December 2024, multiple pilots flying over western [Oregon]({{ 'why-oregon-matters-in-ufo-history/' | relative_url }}) reported strange moving lights, including red circular objects and lights that appeared to change direction or altitude. The Federal Aviation Administration later confirmed that at least one pilot had reported seeing unidentified lights in Seattle Air Route Traffic Control Center airspace. What followed was a familiar pattern in modern UFO reporting: dramatic witness descriptions, widespread media attention, competing explanations and a lack of publicly released technical data capable of settling the question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kval.com/news/local/at-least-one-report-of-ufo-sighting-over-eugene-by-commercial-pilot-faa-confirms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kval.com">[KVAL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kval.com</span><span class="citation-popover-snippet">KVALAt least one report of UFO sighting over Eugene by...Dec 12, 2024 — On Saturday evening, December 7th, during a routine flight near...</span></span></span>
+<img src="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_eugene_pilot_lights_b3931c-Illustration-1-dark.svg" | relative_url }}" alt="Eugene lights illustration 1" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_eugene_pilot_lights_b3931c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_eugene_pilot_lights_b3931c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+On the evening of 7 December 2024, multiple pilots flying over western Oregon reported strange moving lights, including red circular objects and lights that appeared to change direction or altitude. The Federal Aviation Administration later confirmed that at least one pilot had reported seeing unidentified lights in Seattle Air Route Traffic Control Center airspace. What followed was a familiar pattern in modern UFO reporting: dramatic witness descriptions, widespread media attention, competing explanations and a lack of publicly released technical data capable of settling the question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kval.com/news/local/at-least-one-report-of-ufo-sighting-over-eugene-by-commercial-pilot-faa-confirms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kval.com">[KVAL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kval.com</span><span class="citation-popover-snippet">At least one report of UFO sighting over Eugene by...Dec 12, 2024 — On Saturday evening, December 7th, during a routine flight near...</span></span></span>
 
 For Oregon’s UFO history, the most important issue is not whether the lights were extraordinary. It is the evidence gap that remained after the reports became public.
 
@@ -262,26 +261,24 @@ For Oregon’s UFO history, the most important issue is not whether the lights w
 
 The reports emerged from flights operating over western Oregon on the night of 7 December. According to local television coverage, a United Airlines crew flying from Denver to Eugene contacted controllers about unusual lights ahead of them. A medical evacuation flight travelling from Aurora towards North Bend also reported seeing the objects. Pilots described multiple lights at different apparent altitudes and said some seemed to move rapidly or change position. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kptv.com/2024/12/13/oregon-pilots-report-several-ufos-over-eugene/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kptv.com">[www.kptv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kptv.com</span><span class="citation-popover-title">The pilots reported seeing strange, red circular lights zipping around.Read more</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: December 13, 2024</span></span></span>
 
-Air-traffic-control audio that circulated online included pilots asking whether military activity was taking place in the area. Controllers reportedly responded that they were not observing anything on their own systems and that other crews had made similar reports. The recordings quickly spread through news reports, social media and UFO discussion forums. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kptv.com/2024/12/13/oregon-pilots-report-several-ufos-over-eugene/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kptv.com">[www.kptv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kptv.com</span><span class="citation-popover-title">The pilots reported seeing strange, red circular lights zipping around.Read more</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: December 13, 2024</span></span></span> Reddit One reason the incident attracted attention was that several crews appeared to be discussing the same general phenomenon. In UFO history <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1hajed9/multiple_reports_from_pilots_tonight_december_78/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">multiple reports from pilots tonight december 78</span><span class="citation-popover-snippet">RedditMultiple reports from pilots tonight (December 7-8, 2024...Conversation primarily between ATC and a medevac crew describing a ser...</span></span></span>, multiple witnesses can strengthen a case. However, that only helps when investigators can determine whether those witnesses were observing the same object from different positions or different objects entirely. Public reporting never established that point clearly.
+Air-traffic-control audio that circulated online included pilots asking whether military activity was taking place in the area. Controllers reportedly responded that they were not observing anything on their own systems and that other crews had made similar reports. The recordings quickly spread through news reports, social media and UFO discussion forums. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kptv.com/2024/12/13/oregon-pilots-report-several-ufos-over-eugene/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kptv.com">[www.kptv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kptv.com</span><span class="citation-popover-title">The pilots reported seeing strange, red circular lights zipping around.Read more</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: December 13, 2024</span></span></span> Reddit One reason the incident attracted attention was that several crews appeared to be discussing the same general phenomenon. In UFO history <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1hajed9/multiple_reports_from_pilots_tonight_december_78/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">multiple reports from pilots tonight december 78</span><span class="citation-popover-snippet">Multiple reports from pilots tonight (December 7-8, 2024...Conversation primarily between ATC and a medevac crew describing a ser...</span></span></span>, multiple witnesses can strengthen a case. However, that only helps when investigators can determine whether those witnesses were observing the same object from different positions or different objects entirely. Public reporting never established that point clearly.
 
 ## The timeline moved faster than the evidence
 
-The Eugene incident became a news story within days. Local broadcasters reported the pilot accounts and the FAA acknowledged receiving at least one report of unidentified lights. National outlets then amplified the story, often highlighting descriptions of objects moving at extreme speeds or performing unusual manoeuvres. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kval.com/news/local/at-least-one-report-of-ufo-sighting-over-eugene-by-commercial-pilot-faa-confirms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kval.com">[KVAL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kval.com</span><span class="citation-popover-snippet">KVALAt least one report of UFO sighting over Eugene by...Dec 12, 2024 — On Saturday evening, December 7th, during a routine flight near...</span></span></span> Newsweek What did not appear at the same speed was a matching body of technical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/pilot-encountered-mystery-objects-moving-extreme-speed-faa-ufo-drones-1999690" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[newsweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">pilot encountered mystery objects moving extreme speed faa ufo drones 1999690</span><span class="citation-popover-snippet">Pilot Encountered Mystery Objects &#x27;Moving at Extreme Speed&#x27;Dec 12, 2024 — The Federal Aviation Authroity (FAA) has confirmed to Newsweek...</span></span></span>
+The Eugene incident became a news story within days. Local broadcasters reported the pilot accounts and the FAA acknowledged receiving at least one report of unidentified lights. National outlets then amplified the story, often highlighting descriptions of objects moving at extreme speeds or performing unusual manoeuvres. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kval.com/news/local/at-least-one-report-of-ufo-sighting-over-eugene-by-commercial-pilot-faa-confirms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kval.com">[KVAL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kval.com</span><span class="citation-popover-snippet">At least one report of UFO sighting over Eugene by...Dec 12, 2024 — On Saturday evening, December 7th, during a routine flight near...</span></span></span> Newsweek What did not appear at the same speed was a matching body of technical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/pilot-encountered-mystery-objects-moving-extreme-speed-faa-ufo-drones-1999690" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[newsweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">pilot encountered mystery objects moving extreme speed faa ufo drones 1999690</span><span class="citation-popover-snippet">Pilot Encountered Mystery Objects &#x27;Moving at Extreme Speed&#x27;Dec 12, 2024 — The Federal Aviation Authroity (FAA) has confirmed to Newsweek...</span></span></span>
 
 Public discussion relied heavily on:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Pilot testimony.
-* Air-traffic-control recordings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://katu.com/news/local/life-flight-pilot-reports-seeing-ufo-near-eugene" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: katu.com">[katu.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">katu.com</span><span class="citation-popover-title">life flight pilot reports seeing ufo near eugene</span><span class="citation-popover-snippet">KATULife Flight pilot reports seeing &#x27;UFO&#x27; near EugeneDec 13, 2024 — The Federal Aviation Administration (FAA) confirmed that the pilot r...</span></span></span>
+* Air-traffic-control recordings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://katu.com/news/local/life-flight-pilot-reports-seeing-ufo-near-eugene" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: katu.com">[katu.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">katu.com</span><span class="citation-popover-title">life flight pilot reports seeing ufo near eugene</span><span class="citation-popover-snippet">Life Flight pilot reports seeing &#x27;UFO&#x27; near EugeneDec 13, 2024 — The Federal Aviation Administration (FAA) confirmed that the pilot r...</span></span></span>
 * Media summaries of what witnesses said.
 * Social-media reposts and interpretations.
 
 </div>
 
 Less visible were the forms of evidence that aviation investigators normally want when reconstructing an unusual event:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -297,20 +294,19 @@ Less visible were the forms of evidence that aviation investigators normally wan
 
 Without that broader package, the public could hear what pilots experienced but could not independently verify what they were actually observing.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DCm_0dsMxg0" title="Pilot gives insight on mysterious lights over Oregon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DCm_0dsMxg0" target="_blank" rel="noopener noreferrer">Pilot gives insight on mysterious lights over Oregon</a></p><p class="youtube-embed-meta">Channel: KREM 2 News &middot; Views: 15.8K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DCm_0dsMxg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DCm_0dsMxg0">Open on YouTube</a></p></div></div></div>
 
 ## Why aviation witnesses matter but still need data
 
 Pilot reports carry more weight than many casual UFO sightings because pilots are trained observers operating in a professional environment. They routinely identify aircraft lights, weather effects, navigation beacons and other aviation hazards.
 
-That credibility explains why the Eugene reports received serious attention. Several witnesses were experienced aviators making reports through official communication channels rather than describing an event long after it occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://katu.com/news/local/life-flight-pilot-reports-seeing-ufo-near-eugene" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: katu.com">[KATU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">katu.com</span><span class="citation-popover-title">life flight pilot reports seeing ufo near eugene</span><span class="citation-popover-snippet">KATULife Flight pilot reports seeing &#x27;UFO&#x27; near EugeneDec 13, 2024 — The Federal Aviation Administration (FAA) confirmed that the pilot r...</span></span></span>
+That credibility explains why the Eugene reports received serious attention. Several witnesses were experienced aviators making reports through official communication channels rather than describing an event long after it occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://katu.com/news/local/life-flight-pilot-reports-seeing-ufo-near-eugene" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: katu.com">[KATU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">katu.com</span><span class="citation-popover-title">life flight pilot reports seeing ufo near eugene</span><span class="citation-popover-snippet">Life Flight pilot reports seeing &#x27;UFO&#x27; near EugeneDec 13, 2024 — The Federal Aviation Administration (FAA) confirmed that the pilot r...</span></span></span>
 
 However, aviation expertise is not the same as perfect identification.
 
 Night flying creates conditions that can make distance, size and speed difficult to judge. A bright light against a dark background may appear to accelerate when the observer’s own aircraft is turning. Multiple lights at different distances can appear connected. Reflections on cockpit windows can create misleading impressions. A pilot may accurately describe what was seen while still being mistaken about what produced it.
 
-The Eugene case illustrates this distinction. The key question was never whether pilots genuinely observed unusual lights. The FAA’s acknowledgement effectively confirmed that reports were made. The harder question was what physical object or phenomenon generated those observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kval.com/news/local/at-least-one-report-of-ufo-sighting-over-eugene-by-commercial-pilot-faa-confirms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kval.com">[KVAL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kval.com</span><span class="citation-popover-snippet">KVALAt least one report of UFO sighting over Eugene by...Dec 12, 2024 — On Saturday evening, December 7th, during a routine flight near...</span></span></span>
+The Eugene case illustrates this distinction. The key question was never whether pilots genuinely observed unusual lights. The FAA’s acknowledgement effectively confirmed that reports were made. The harder question was what physical object or phenomenon generated those observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kval.com/news/local/at-least-one-report-of-ufo-sighting-over-eugene-by-commercial-pilot-faa-confirms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kval.com">[KVAL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kval.com</span><span class="citation-popover-snippet">At least one report of UFO sighting over Eugene by...Dec 12, 2024 — On Saturday evening, December 7th, during a routine flight near...</span></span></span>
 
 ## The missing radar question
 
@@ -324,8 +320,7 @@ Instead, public reporting largely stopped at the witness stage. Controllers repo
 
 That created a classic evidence gap: strong testimony but limited publicly available instrumentation data.
 
-
-<img src="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_eugene_pilot_lights_b3931c-Illustration-2-light.svg" | relative_url }}" alt="Eugene lights illustration 2" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_eugene_pilot_lights_b3931c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_eugene_pilot_lights_b3931c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_eugene_pilot_lights_b3931c-Illustration-2-dark.svg" | relative_url }}" alt="Eugene lights illustration 2" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_eugene_pilot_lights_b3931c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_eugene_pilot_lights_b3931c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Starlink, reflections and other ordinary checks
 
 The most frequently discussed conventional explanation involved satellites, especially SpaceX’s Starlink network.
@@ -334,12 +329,11 @@ This was not a random sceptical suggestion. During the past several years, pilot
 
 Coverage of the Eugene reports cited researchers who suggested that recently launched Starlink satellites could account for at least some observations. Several aviation commentators also pointed to earlier pilot cases in which unusual lights were eventually attributed to satellites rather than unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://woai.iheart.com/content/2024-12-13-multiple-pilots-report-ufos-moving-at-extreme-speeds-over-oregon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: woai.iheart.com">[News Radio 1200 WOAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">woai.iheart.com</span><span class="citation-popover-title">2024 12 13 multiple pilots report ufos moving at extreme speeds over oregon</span><span class="citation-popover-snippet">News Radio 1200 WOAIMultiple Pilots Report UFOs &#x27;Moving At Extreme Speeds&#x27; Over...Dec 13, 2024 — At least four pilots reported the UFOs...</span></span></span> 2iHeart
 
-Supporters of the UFO interpretation noted that some witnesses described behaviour they believed was inconsistent with satellites, including apparent rapid direction changes and corkscrew-like movements. Pilot Joe Buley, whose medical flight was linked to the reports, publicly expressed doubts that Starlink fully explained what his crew observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://katu.com/news/local/life-flight-pilot-reports-seeing-ufo-near-eugene" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: katu.com">[KATU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">katu.com</span><span class="citation-popover-title">life flight pilot reports seeing ufo near eugene</span><span class="citation-popover-snippet">KATULife Flight pilot reports seeing &#x27;UFO&#x27; near EugeneDec 13, 2024 — The Federal Aviation Administration (FAA) confirmed that the pilot r...</span></span></span>
+Supporters of the UFO interpretation noted that some witnesses described behaviour they believed was inconsistent with satellites, including apparent rapid direction changes and corkscrew-like movements. Pilot Joe Buley, whose medical flight was linked to the reports, publicly expressed doubts that Starlink fully explained what his crew observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://katu.com/news/local/life-flight-pilot-reports-seeing-ufo-near-eugene" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: katu.com">[KATU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">katu.com</span><span class="citation-popover-title">life flight pilot reports seeing ufo near eugene</span><span class="citation-popover-snippet">Life Flight pilot reports seeing &#x27;UFO&#x27; near EugeneDec 13, 2024 — The Federal Aviation Administration (FAA) confirmed that the pilot r...</span></span></span>
 
 The difficulty is that neither side possessed a complete public data set. Without detailed positional analysis matching aircraft locations, sight lines and satellite tracks minute by minute, the debate remained largely interpretive.
 
 Other possibilities discussed by commentators included:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -353,7 +347,6 @@ Other possibilities discussed by commentators included:
 
 None of these explanations was conclusively demonstrated in public reporting, but neither was any extraordinary explanation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e9ppdVOoNqk" title="UFO report. Multiple aircraft report unknown objects over Oregon. Real ATC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e9ppdVOoNqk" target="_blank" rel="noopener noreferrer">UFO report. Multiple aircraft report unknown objects over Oregon. Real ATC</a></p><p class="youtube-embed-meta">Channel: You can see ATC &middot; Views: 114.5K &middot; Uploaded: December 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e9ppdVOoNqk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e9ppdVOoNqk">Open on YouTube</a></p></div></div></div>
 
 ## Why the case mattered beyond the sighting itself
@@ -363,7 +356,6 @@ The Eugene reports arrived during a period when public attention to unexplained 
 For Oregon’s UFO history, the significance of the case lies less in the lights themselves than in what happened afterward.
 
 The event demonstrated that:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -377,19 +369,16 @@ The event demonstrated that:
 
 In that sense, the Eugene incident resembles many earlier aviation UFO cases. Witnesses may be credible, the event may be genuine in the sense that something unusual was observed, yet the available evidence may still be insufficient to identify the cause with confidence.
 
-
-<img src="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_eugene_pilot_lights_b3931c-Illustration-3-light.svg" | relative_url }}" alt="Eugene lights illustration 3" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_eugene_pilot_lights_b3931c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_eugene_pilot_lights_b3931c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_eugene_pilot_lights_b3931c-Illustration-3-dark.svg" | relative_url }}" alt="Eugene lights illustration 3" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_eugene_pilot_lights_b3931c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_oregon_reports_cultu_516a79_eugene_pilot_lights_b3931c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What remains unresolved
 
 The strongest conclusion supported by public evidence is relatively narrow.
 
-Multiple pilots reported unusual lights over western Oregon on 7 December 2024. The FAA confirmed that at least one pilot reported unidentified lights while operating in Seattle Air Route Traffic Control Center airspace. Local news organisations verified that the reports existed and interviewed some of the witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kval.com/news/local/at-least-one-report-of-ufo-sighting-over-eugene-by-commercial-pilot-faa-confirms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kval.com">[KVAL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kval.com</span><span class="citation-popover-snippet">KVALAt least one report of UFO sighting over Eugene by...Dec 12, 2024 — On Saturday evening, December 7th, during a routine flight near...</span></span></span> Newsweek What remains unclear is whether the lights represented satellites <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/pilot-encountered-mystery-objects-moving-extreme-speed-faa-ufo-drones-1999690" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[newsweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">pilot encountered mystery objects moving extreme speed faa ufo drones 1999690</span><span class="citation-popover-snippet">Pilot Encountered Mystery Objects &#x27;Moving at Extreme Speed&#x27;Dec 12, 2024 — The Federal Aviation Authroity (FAA) has confirmed to Newsweek...</span></span></span>, atmospheric effects, aircraft, a combination of different sources, or something else entirely. Public reporting never produced a complete package of radar data, flight-path reconstruction, satellite correlation and sensor evidence capable of decisively resolving the event.
+Multiple pilots reported unusual lights over western Oregon on 7 December 2024. The FAA confirmed that at least one pilot reported unidentified lights while operating in Seattle Air Route Traffic Control Center airspace. Local news organisations verified that the reports existed and interviewed some of the witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kval.com/news/local/at-least-one-report-of-ufo-sighting-over-eugene-by-commercial-pilot-faa-confirms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kval.com">[KVAL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kval.com</span><span class="citation-popover-snippet">At least one report of UFO sighting over Eugene by...Dec 12, 2024 — On Saturday evening, December 7th, during a routine flight near...</span></span></span> Newsweek What remains unclear is whether the lights represented satellites <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/pilot-encountered-mystery-objects-moving-extreme-speed-faa-ufo-drones-1999690" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[newsweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">pilot encountered mystery objects moving extreme speed faa ufo drones 1999690</span><span class="citation-popover-snippet">Pilot Encountered Mystery Objects &#x27;Moving at Extreme Speed&#x27;Dec 12, 2024 — The Federal Aviation Authroity (FAA) has confirmed to Newsweek...</span></span></span>, atmospheric effects, aircraft, a combination of different sources, or something else entirely. Public reporting never produced a complete package of radar data, flight-path reconstruction, satellite correlation and sensor evidence capable of decisively resolving the event.
 
 That unresolved gap is the real lesson of the Eugene case. Even in a heavily monitored aviation environment, unusual sightings can move rapidly into public UFO culture while the underlying evidence remains incomplete. The result is not proof of an extraordinary object, but a reminder that witness testimony and technical confirmation are not the same thing.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2gfO4rg3ous" title="Oregon pilot speaks out after seeing UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2gfO4rg3ous" target="_blank" rel="noopener noreferrer">Oregon pilot speaks out after seeing UFO</a></p><p class="youtube-embed-meta">Channel: KEZI 9 &middot; Views: 498.0K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2gfO4rg3ous" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2gfO4rg3ous">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jJt_L1qfaYE" title="PC-12 pilot reacts to UFO/UAP reports over Oregon | Dec. 8, 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jJt_L1qfaYE" target="_blank" rel="noopener noreferrer">PC-12 pilot reacts to UFO/UAP reports over Oregon | Dec. 8, 2024</a></p><p class="youtube-embed-meta">Channel: Gene Stuart &middot; Views: 1.2K &middot; Uploaded: December 2024 &middot; Length: 4 minutes 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jJt_L1qfaYE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jJt_L1qfaYE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -477,7 +466,7 @@ That unresolved gap is the real lesson of the Eugene case. Even in a heavily mon
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -487,111 +476,36 @@ That unresolved gap is the real lesson of the Eugene case. Even in a heavily mon
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT"><img src="{{ '/assets/images/marketplace-covers/c4fa2fd111d52b7bddcf.jpg' | relative_url }}" alt="Listing image for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-pilots-see-near-eugene-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="what-did-pilots-see-near-eugene-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pink Floyd UFO Festival The Roundhouse London England Poster"><img src="https://i.ebayimg.com/images/g/gV8AAOSwoM9nVhH~/s-l225.jpg" alt="Listing image for Pink Floyd UFO Festival The Roundhouse London England Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-pilots-see-near-eugene-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="what-did-pilots-see-near-eugene-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer">Pink Floyd UFO Festival The Roundhouse London England Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-pilots-see-near-eugene-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="what-did-pilots-see-near-eugene-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo festival poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display"><img src="{{ '/assets/images/marketplace-covers/27c78e3de724e607809d.jpg' | relative_url }}" alt="Listing image for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/ecc3da59eb1d0848e57f.jpg' | relative_url }}" alt="Listing image for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-pilots-see-near-eugene-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="what-did-pilots-see-near-eugene-ufo-festival-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -599,15 +513,15 @@ That unresolved gap is the real lesson of the Eugene case. Even in a heavily mon
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-pilots-see-near-eugene-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="what-did-pilots-see-near-eugene-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic Psychedelic Rock UFO Club Summer 1967 Concert Poster Print 24x36"><img src="https://i.ebayimg.com/images/g/YLkAAeSwnzxplipN/s-l225.jpg" alt="Listing image for Classic Psychedelic Rock UFO Club Summer 1967 Concert Poster Print 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-pilots-see-near-eugene-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="what-did-pilots-see-near-eugene-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer">Classic Psychedelic Rock UFO Club Summer 1967 Concert Poster Print 24x36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-pilots-see-near-eugene-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="what-did-pilots-see-near-eugene-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo festival poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-pilots-see-near-eugene-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="what-did-pilots-see-near-eugene-ufo-festival-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -615,15 +529,15 @@ That unresolved gap is the real lesson of the Eugene case. Even in a heavily mon
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-pilots-see-near-eugene-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="what-did-pilots-see-near-eugene-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO*DEE SNIDER*Steelhouse Festival*2015*ORIGINAL*POSTER*FRAMED*FAST WORLD SHIP"><img src="https://i.ebayimg.com/images/g/7McAAOSw8EhdB15s/s-l225.jpg" alt="Listing image for UFO*DEE SNIDER*Steelhouse Festival*2015*ORIGINAL*POSTER*FRAMED*FAST WORLD SHIP" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-pilots-see-near-eugene-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="what-did-pilots-see-near-eugene-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer">UFO*DEE SNIDER*Steelhouse Festival*2015*ORIGINAL*POSTER*FRAMED*FAST WORLD SHIP</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-pilots-see-near-eugene-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="what-did-pilots-see-near-eugene-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo festival poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-pilots-see-near-eugene-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="what-did-pilots-see-near-eugene-ufo-festival-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -631,15 +545,15 @@ That unresolved gap is the real lesson of the Eugene case. Even in a heavily mon
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/ecc3da59eb1d0848e57f.jpg' | relative_url }}" alt="Listing image for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-pilots-see-near-eugene-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="what-did-pilots-see-near-eugene-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Festival mit ALICE COOPER, SUPERTRAMP, UFO, STATUS QUO von 1975"><img src="https://i.ebayimg.com/images/g/fRUAAOSwDKVlAYKc/s-l225.jpg" alt="Listing image for Festival mit ALICE COOPER, SUPERTRAMP, UFO, STATUS QUO von 1975" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-pilots-see-near-eugene-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="what-did-pilots-see-near-eugene-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer">Festival mit ALICE COOPER, SUPERTRAMP, UFO, STATUS QUO von 1975</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-pilots-see-near-eugene-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="what-did-pilots-see-near-eugene-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo festival poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo festival poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-pilots-see-near-eugene-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="what-did-pilots-see-near-eugene-ufo-festival-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -647,7 +561,7 @@ That unresolved gap is the real lesson of the Eugene case. Even in a heavily mon
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eugene-lights-what-did-pilots-see-near-eugene-oregon-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+festival+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-pilots-see-near-eugene-ufo-festival-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo festival poster" data-ebay-reference="what-did-pilots-see-near-eugene-ufo-festival-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -724,17 +638,31 @@ That unresolved gap is the real lesson of the Eugene case. Even in a heavily mon
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -747,42 +675,73 @@ That unresolved gap is the real lesson of the Eugene case. Even in a heavily mon
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -797,12 +756,17 @@ That unresolved gap is the real lesson of the Eugene case. Even in a heavily mon
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -812,141 +776,141 @@ That unresolved gap is the real lesson of the Eugene case. Even in a heavily mon
 
 1. <a id="endnote-1"></a>
    Source: kval.com  
-   Link: [https://kval.com/news/local/at-least-one-report-of-ufo-sighting-over-eugene-by-commercial-pilot-faa-confirms](https://kval.com/news/local/at-least-one-report-of-ufo-sighting-over-eugene-by-commercial-pilot-faa-confirms)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KVALAt least one report of UFO sighting over Eugene by...Dec 12, 2024 — On Saturday evening, December 7th, during a routine flight near...</p></details>
+   Link: <a href="https://kval.com/news/local/at-least-one-report-of-ufo-sighting-over-eugene-by-commercial-pilot-faa-confirms" target="_blank" rel="noopener noreferrer nofollow">https://kval.com/news/local/at-least-one-report-of-ufo-sighting-over-eugene-by-commercial-pilot-faa-confirms</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>At least one report of UFO sighting over Eugene by...Dec 12, 2024 — On Saturday evening, December 7th, during a routine flight near...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: newsweek.com  
    Title: pilot encountered mystery objects moving extreme speed faa ufo drones 1999690  
-   Link: [https://www.newsweek.com/pilot-encountered-mystery-objects-moving-extreme-speed-faa-ufo-drones-1999690](https://www.newsweek.com/pilot-encountered-mystery-objects-moving-extreme-speed-faa-ufo-drones-1999690)  
+   Link: <a href="https://www.newsweek.com/pilot-encountered-mystery-objects-moving-extreme-speed-faa-ufo-drones-1999690" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/pilot-encountered-mystery-objects-moving-extreme-speed-faa-ufo-drones-1999690</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot Encountered Mystery Objects &#x27;Moving at Extreme Speed&#x27;Dec 12, 2024 — The Federal Aviation Authroity (FAA) has confirmed to Newsweek...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: kptv.com  
    Title: The pilots reported seeing strange, red circular lights zipping around.Read more  
-   Link: [https://www.kptv.com/2024/12/13/oregon-pilots-report-several-ufos-over-eugene/](https://www.kptv.com/2024/12/13/oregon-pilots-report-several-ufos-over-eugene/)  
+   Link: <a href="https://www.kptv.com/2024/12/13/oregon-pilots-report-several-ufos-over-eugene/" target="_blank" rel="noopener noreferrer nofollow">https://www.kptv.com/2024/12/13/oregon-pilots-report-several-ufos-over-eugene/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.kptv.comPilots](https://www.kptv.comPilots) report several UFOs over OregonDecember 13, 2024 — 13 Dec 2024 — Several pilots reported unidentified flying o...</p></details>
    Published: December 13, 2024  
 
 4. <a id="endnote-4"></a>
    Source: katu.com  
    Title: life flight pilot reports seeing ufo near eugene  
-   Link: [https://katu.com/news/local/life-flight-pilot-reports-seeing-ufo-near-eugene](https://katu.com/news/local/life-flight-pilot-reports-seeing-ufo-near-eugene)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KATULife Flight pilot reports seeing &#x27;UFO&#x27; near EugeneDec 13, 2024 — The Federal Aviation Administration (FAA) confirmed that the pilot r...</p></details>
+   Link: <a href="https://katu.com/news/local/life-flight-pilot-reports-seeing-ufo-near-eugene" target="_blank" rel="noopener noreferrer nofollow">https://katu.com/news/local/life-flight-pilot-reports-seeing-ufo-near-eugene</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Life Flight pilot reports seeing &#x27;UFO&#x27; near EugeneDec 13, 2024 — The Federal Aviation Administration (FAA) confirmed that the pilot r...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: multiple reports from pilots tonight december 78  
-   Link: [https://www.reddit.com/r/UFOs/comments/1hajed9/multiple_reports_from_pilots_tonight_december_78/](https://www.reddit.com/r/UFOs/comments/1hajed9/multiple_reports_from_pilots_tonight_december_78/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditMultiple reports from pilots tonight (December 7-8, 2024...Conversation primarily between ATC and a medevac crew describing a ser...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1hajed9/multiple_reports_from_pilots_tonight_december_78/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hajed9/multiple_reports_from_pilots_tonight_december_78/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple reports from pilots tonight (December 7-8, 2024...Conversation primarily between ATC and a medevac crew describing a ser...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: newsweek.com  
    Title: pilots instructed maneuver around oregon ufo alleged audio leak 1999176  
-   Link: [https://www.newsweek.com/pilots-instructed-maneuver-around-oregon-ufo-alleged-audio-leak-1999176](https://www.newsweek.com/pilots-instructed-maneuver-around-oregon-ufo-alleged-audio-leak-1999176)  
+   Link: <a href="https://www.newsweek.com/pilots-instructed-maneuver-around-oregon-ufo-alleged-audio-leak-1999176" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/pilots-instructed-maneuver-around-oregon-ufo-alleged-audio-leak-1999176</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots Told to &#x27;Maneuver&#x27; Around Oregon &#x27;UFO&#x27; in Leaked...Dec 11, 2024 — Two pilots reported seeing unidentified red, circular lights an...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: woai.iheart.com  
    Title: 2024 12 13 multiple pilots report ufos moving at extreme speeds over oregon  
-   Link: [https://woai.iheart.com/content/2024-12-13-multiple-pilots-report-ufos-moving-at-extreme-speeds-over-oregon/](https://woai.iheart.com/content/2024-12-13-multiple-pilots-report-ufos-moving-at-extreme-speeds-over-oregon/)  
+   Link: <a href="https://woai.iheart.com/content/2024-12-13-multiple-pilots-report-ufos-moving-at-extreme-speeds-over-oregon/" target="_blank" rel="noopener noreferrer nofollow">https://woai.iheart.com/content/2024-12-13-multiple-pilots-report-ufos-moving-at-extreme-speeds-over-oregon/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>News Radio 1200 WOAIMultiple Pilots Report UFOs &#x27;Moving At Extreme Speeds&#x27; Over...Dec 13, 2024 — At least four pilots reported the UFOs...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: iheart.com  
    Title: 2024 12 13 multiple pilots report ufos moving at extreme speeds over oregon  
-   Link: [https://www.iheart.com/content/2024-12-13-multiple-pilots-report-ufos-moving-at-extreme-speeds-over-oregon/](https://www.iheart.com/content/2024-12-13-multiple-pilots-report-ufos-moving-at-extreme-speeds-over-oregon/)  
+   Link: <a href="https://www.iheart.com/content/2024-12-13-multiple-pilots-report-ufos-moving-at-extreme-speeds-over-oregon/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/content/2024-12-13-multiple-pilots-report-ufos-moving-at-extreme-speeds-over-oregon/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple Pilots Report UFOs &#x27;Moving At Extreme Speeds&#x27;...13 Dec 2024 — At least four pilots reported seeing unidentified flying objects...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: 2024 United States drone sightings  
-   Link: [https://en.wikipedia.org/wiki/2024_United_States_drone_sightings](https://en.wikipedia.org/wiki/2024_United_States_drone_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2024_United_States_drone_sightings</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1hc747k/leaked_cockpit_audio_shows_pilots_had_to_maneuver/](https://www.reddit.com/r/ufo/comments/1hc747k/leaked_cockpit_audio_shows_pilots_had_to_maneuver/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1hc747k/leaked_cockpit_audio_shows_pilots_had_to_maneuver/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1hc747k/leaked_cockpit_audio_shows_pilots_had_to_maneuver/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>identified lights, as well as objects moving irregularly toward the ocean.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1hck0cr/pilot_encountered_mystery_objects_moving_at/](https://www.reddit.com/r/UFOs/comments/1hck0cr/pilot_encountered_mystery_objects_moving_at/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1hck0cr/pilot_encountered_mystery_objects_moving_at/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hck0cr/pilot_encountered_mystery_objects_moving_at/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rratically toward the ocean and returning at various altitudes...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOB/comments/1hczmlt/kgw_news_reports_ufo_sightings_in_oregon_skies/](https://www.reddit.com/r/UFOB/comments/1hczmlt/kgw_news_reports_ufo_sightings_in_oregon_skies/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/1hczmlt/kgw_news_reports_ufo_sightings_in_oregon_skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1hczmlt/kgw_news_reports_ufo_sightings_in_oregon_skies/</a>  
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Portland/comments/1hcvcr5/you_are_cleared_to_maneuver_to_avoid_the_ufo/](https://www.reddit.com/r/Portland/comments/1hcvcr5/you_are_cleared_to_maneuver_to_avoid_the_ufo/)  
+   Link: <a href="https://www.reddit.com/r/Portland/comments/1hcvcr5/you_are_cleared_to_maneuver_to_avoid_the_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Portland/comments/1hcvcr5/you_are_cleared_to_maneuver_to_avoid_the_ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots report unidentified lights over Oregon: r/PortlandI was heading North on 122nd from Division to Market, and I noticed a pair of v...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/19drzab/im_an_airline_pilot_and_i_saw_the_lights_on/](https://www.reddit.com/r/UFOs/comments/19drzab/im_an_airline_pilot_and_i_saw_the_lights_on/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/19drzab/im_an_airline_pilot_and_i_saw_the_lights_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/19drzab/im_an_airline_pilot_and_i_saw_the_lights_on/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m an airline pilot and I saw “the lights” on January 19, 2024Yes I agree that these &quot;racetrack&quot; lights pilots see frequently are probab...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/newsroom/statements/accident_incidents](https://www.faa.gov/newsroom/statements/accident_incidents)  
+   Link: <a href="https://www.faa.gov/newsroom/statements/accident_incidents" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/statements/accident_incidents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Statements on Aviation Accidents and IncidentsA preliminary FAA report will be posted, usually on the next business day. If known, th...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: kgw.com  
-   Link: [https://www.kgw.com/article/news/investigations/pilots-report-mysterious-lights-oregon-skies-ufo-sightings/283-a0aa588d-a86d-484c-b188-512bd94d81b6](https://www.kgw.com/article/news/investigations/pilots-report-mysterious-lights-oregon-skies-ufo-sightings/283-a0aa588d-a86d-484c-b188-512bd94d81b6)  
+   Link: <a href="https://www.kgw.com/article/news/investigations/pilots-report-mysterious-lights-oregon-skies-ufo-sightings/283-a0aa588d-a86d-484c-b188-512bd94d81b6" target="_blank" rel="noopener noreferrer nofollow">https://www.kgw.com/article/news/investigations/pilots-report-mysterious-lights-oregon-skies-ufo-sightings/283-a0aa588d-a86d-484c-b188-512bd94d81b6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilots spot strange lights in Oregon skiesAt least four commercial pilots encountered mysterious lights over the weekend. Researchers the...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: chronline.com  
-   Link: [https://www.chronline.com/stories/something-is-happening-we-dont-fully-understand-video-shows-mysterious-lights-over-oregon%2C370418](https://www.chronline.com/stories/something-is-happening-we-dont-fully-understand-video-shows-mysterious-lights-over-oregon%2C370418)  
+   Link: <a href="https://www.chronline.com/stories/something-is-happening-we-dont-fully-understand-video-shows-mysterious-lights-over-oregon%2C370418" target="_blank" rel="noopener noreferrer nofollow">https://www.chronline.com/stories/something-is-happening-we-dont-fully-understand-video-shows-mysterious-lights-over-oregon%2C370418</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Video shows mysterious lights over OregonDec 17, 2024 — On the evening of Saturday, Dec. 7, multiple pilots reported unidentified red lig...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nbc16.com  
    Title: faa confirms at least one report of ufo sighting over eugene by commercial pilot  
-   Link: [https://nbc16.com/newsletter-daily/faa-confirms-at-least-one-report-of-ufo-sighting-over-eugene-by-commercial-pilot](https://nbc16.com/newsletter-daily/faa-confirms-at-least-one-report-of-ufo-sighting-over-eugene-by-commercial-pilot)  
+   Link: <a href="https://nbc16.com/newsletter-daily/faa-confirms-at-least-one-report-of-ufo-sighting-over-eugene-by-commercial-pilot" target="_blank" rel="noopener noreferrer nofollow">https://nbc16.com/newsletter-daily/faa-confirms-at-least-one-report-of-ufo-sighting-over-eugene-by-commercial-pilot</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA confirms at least one report of UFO sighting over...12 Dec 2024 — On Saturday evening, December 7th, during a routine flight near Eu...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nbc16.com  
    Title: faa confirms at least one report of ufo sighting over eugene by commercial pilot  
-   Link: [https://nbc16.com/news/local/faa-confirms-at-least-one-report-of-ufo-sighting-over-eugene-by-commercial-pilot](https://nbc16.com/news/local/faa-confirms-at-least-one-report-of-ufo-sighting-over-eugene-by-commercial-pilot)  
+   Link: <a href="https://nbc16.com/news/local/faa-confirms-at-least-one-report-of-ufo-sighting-over-eugene-by-commercial-pilot" target="_blank" rel="noopener noreferrer nofollow">https://nbc16.com/news/local/faa-confirms-at-least-one-report-of-ufo-sighting-over-eugene-by-commercial-pilot</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA confirms at least one report of UFO sighting over...Dec 12, 2024 — The alleged sightings happened between Saturday and Sunday, with...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=DCm_0dsMxg0](https://www.youtube.com/watch?v=DCm_0dsMxg0)  
+   Link: <a href="https://www.youtube.com/watch?v=DCm_0dsMxg0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DCm_0dsMxg0</a>  
 
 22. <a id="endnote-22"></a>
    Source: allsides.com  
    Title: culture pilot encountered mystery objects moving extreme speed faa  
-   Link: [https://www.allsides.com/news/2024-12-12-0800/culture-pilot-encountered-mystery-objects-moving-extreme-speed-faa](https://www.allsides.com/news/2024-12-12-0800/culture-pilot-encountered-mystery-objects-moving-extreme-speed-faa)  
+   Link: <a href="https://www.allsides.com/news/2024-12-12-0800/culture-pilot-encountered-mystery-objects-moving-extreme-speed-faa" target="_blank" rel="noopener noreferrer nofollow">https://www.allsides.com/news/2024-12-12-0800/culture-pilot-encountered-mystery-objects-moving-extreme-speed-faa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot encountered mystery objects &#x27;moving at extreme speed&#x27;Dec 12, 2024 — The Federal Aviation Authroity (FAA) has confirmed to Newsweek...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/theoregonian/posts/what-are-the-red-lights-pilots-spotted-earlier-this-month-over-oregonthe-answer-/970516615123497/](https://www.facebook.com/theoregonian/posts/what-are-the-red-lights-pilots-spotted-earlier-this-month-over-oregonthe-answer-/970516615123497/)  
+   Link: <a href="https://www.facebook.com/theoregonian/posts/what-are-the-red-lights-pilots-spotted-earlier-this-month-over-oregonthe-answer-/970516615123497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theoregonian/posts/what-are-the-red-lights-pilots-spotted-earlier-this-month-over-oregonthe-answer-/970516615123497/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>terious lights zipping through the night sky at mind-bending speeds.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KGWTV8/posts/pilot-joe-buley-has-seen-objects-moving-across-the-night-sky-before-but-the-brig/994960406007983/](https://www.facebook.com/KGWTV8/posts/pilot-joe-buley-has-seen-objects-moving-across-the-night-sky-before-but-the-brig/994960406007983/)  
+   Link: <a href="https://www.facebook.com/KGWTV8/posts/pilot-joe-buley-has-seen-objects-moving-across-the-night-sky-before-but-the-brig/994960406007983/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KGWTV8/posts/pilot-joe-buley-has-seen-objects-moving-across-the-night-sky-before-but-the-brig/994960406007983/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>moved further away, the red glow looked more like a &quot;haze.&quot; R...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/usatoday/posts/glowing-streaks-in-the-oregon-sky-were-spotted-by-its-residents-sparking-debates/1323074482822035/](https://www.facebook.com/usatoday/posts/glowing-streaks-in-the-oregon-sky-were-spotted-by-its-residents-sparking-debates/1323074482822035/)  
+   Link: <a href="https://www.facebook.com/usatoday/posts/glowing-streaks-in-the-oregon-sky-were-spotted-by-its-residents-sparking-debates/1323074482822035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usatoday/posts/glowing-streaks-in-the-oregon-sky-were-spotted-by-its-residents-sparking-debates/1323074482822035/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Glowing streaks in the Oregon sky were spotted by its...One pilot described seeing “colorful lights,” some hovering as high as 50,000 feet...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/theoregonian/posts/on-the-evening-of-saturday-dec-6-multiple-pilots-reported-unidentified-red-light/969738431867982/](https://www.facebook.com/theoregonian/posts/on-the-evening-of-saturday-dec-6-multiple-pilots-reported-unidentified-red-light/969738431867982/)  
+   Link: <a href="https://www.facebook.com/theoregonian/posts/on-the-evening-of-saturday-dec-6-multiple-pilots-reported-unidentified-red-light/969738431867982/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theoregonian/posts/on-the-evening-of-saturday-dec-6-multiple-pilots-reported-unidentified-red-light/969738431867982/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They said it was moving back and forth over the state and...Read more...</p></details>

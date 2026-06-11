@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /cape-legend/
 nav_short_title: Huffman story
 title: How strong is the Huffman testimony?
-title_full: How strong is the Huffman testimony? | Cape Legend
+title_full: How strong is the Huffman testimony?
 display_title_short: Huffman story
 display_title: Huffman story
 heading_title: How strong is the Huffman testimony?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:31:56'
-parent_title: How Strong Is the Cape Girardeau Crash Story? | Missouri UFOs
+parent_title: How Strong Is the Cape Girardeau Crash Story?
 parent_permalink: /cape-legend/
 parent_nav_short_title: Cape Legend
 parent_heading_title: How Strong Is the Cape Girardeau Crash Story?
@@ -250,10 +250,9 @@ image: /assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_huffman_testim
 
 ## Introduction
 
-The [Cape Girardeau crash]({{ 'cape-legend/' | relative_url }}) legend depends less on a documented 1941 event than on a family story that surfaced decades later. At the centre of that story is Reverend William G. Huffman, a [Missouri]({{ 'what-really-happened-in-missouris-ufo/' | relative_url }}) minister who was allegedly called to what he thought was an aircraft crash and instead witnessed a wrecked disc-shaped craft and several non-human bodies. The difficulty is that the most detailed version of the account does not come from a public statement by Huffman in 1941. It comes mainly through later family testimony, especially that of his granddaughter Charlette Mann, who said the story had been passed down within the family. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-title">alleged ufo crash cape girardeau area</span><span class="citation-popover-snippet">He said the UFO went down in a field somewhere west of the Cape Girardeau Airport between Cape Girardeau and Chaffee.Read more...</span></span></span>
+The Cape Girardeau crash legend depends less on a documented 1941 event than on a family story that surfaced decades later. At the centre of that story is Reverend William G. Huffman, a Missouri minister who was allegedly called to what he thought was an aircraft crash and instead witnessed a wrecked disc-shaped craft and several non-human bodies. The difficulty is that the most detailed version of the account does not come from a public statement by Huffman in 1941. It comes mainly through later family testimony, especially that of his granddaughter Charlette Mann, who said the story had been passed down within the family. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-title">alleged ufo crash cape girardeau area</span><span class="citation-popover-snippet">He said the UFO went down in a field somewhere west of the Cape Girardeau Airport between Cape Girardeau and Chaffee.Read more...</span></span></span>
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_huffman_testimony_li_d0a418-Illustration-1-light.svg" | relative_url }}" alt="Huffman story illustration 1" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_huffman_testimony_li_d0a418-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_huffman_testimony_li_d0a418-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_huffman_testimony_li_d0a418-Illustration-1-dark.svg" | relative_url }}" alt="Huffman story illustration 1" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_huffman_testimony_li_d0a418-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_huffman_testimony_li_d0a418-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters. Family testimony can preserve genuine memories and local events. However, when researchers try to evaluate the Cape Girardeau claim as evidence for a UFO crash, they run into a major problem: the story is strongest as an inherited narrative and weakest where contemporary documentation would normally be expected. The question is not simply whether the family believed the story. It is how much weight later recollections can carry when the original witnesses left little or no publicly verifiable record.
 
 ## What the family account says
@@ -265,7 +264,6 @@ The most influential version came through Charlette Mann. She said her grandmoth
 For believers, the story gains credibility because it involves a minister rather than a self-promoting UFO witness. Huffman is often portrayed as a respected local religious figure with little obvious motive to invent such a tale. The account's emotional tone also contributes to its appeal. Family members described him as reluctant to discuss the event and troubled by what he supposedly witnessed. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kltv.com/story/7924765/east-texans-shares-family-secret-of-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kltv.com">[www.kltv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kltv.com</span><span class="citation-popover-title">east texans shares family secret of ufo sighting</span><span class="citation-popover-snippet">Around 9:30 p.m., Charlotte&#x27;s grandfather, Reverend William Huffman, got a call about a...</span></span></span>
 
 Yet those details come through relatives recalling what they were told, not through surviving first-hand statements by Huffman himself.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rh6TBLLqNzI" title="The Biggest UFO Cover Up Of All Time" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rh6TBLLqNzI" target="_blank" rel="noopener noreferrer">The Biggest UFO Cover Up Of All Time</a></p><p class="youtube-embed-meta">Channel: PaytonMoreland &middot; Views: 99.6K &middot; Uploaded: April 2024 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rh6TBLLqNzI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rh6TBLLqNzI">Open on YouTube</a></p></div></div></div>
 
@@ -279,8 +277,7 @@ This route into public awareness is important because it shapes how the evidence
 
 That does not automatically make the testimony false. Many historical events survive partly through oral tradition. However, each retelling introduces opportunities for embellishment, misunderstanding, selective memory, or the merging of separate stories over time.
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_huffman_testimony_li_d0a418-Illustration-2-light.svg" | relative_url }}" alt="Huffman story illustration 2" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_huffman_testimony_li_d0a418-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_huffman_testimony_li_d0a418-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_huffman_testimony_li_d0a418-Illustration-2-dark.svg" | relative_url }}" alt="Huffman story illustration 2" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_huffman_testimony_li_d0a418-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_huffman_testimony_li_d0a418-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where memory, retelling, and proof diverge
 
 The strongest argument in favour of the Huffman account is that multiple family members reportedly treated the story as genuine. The weakest aspect is that researchers cannot easily separate the original event from decades of retelling.
@@ -305,7 +302,6 @@ The frequently mentioned photograph has never been independently authenticated o
 
 These limitations do not prove the story is fictional. They do mean that the testimony alone cannot establish the extraordinary claims attached to it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hBuCNfevV1w" title="4 EXTREMELY Strange But True UFO Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hBuCNfevV1w" target="_blank" rel="noopener noreferrer">4 EXTREMELY Strange But True UFO Encounters</a></p><p class="youtube-embed-meta">Channel: Scary Mysteries &middot; Views: 194.2K &middot; Uploaded: August 2018 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hBuCNfevV1w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hBuCNfevV1w">Open on YouTube</a></p></div></div></div>
 
 ## Why historians and sceptics remain cautious
@@ -318,11 +314,10 @@ Another issue is inconsistency. Different versions of the story place the crash 
 
 Sceptical writers therefore tend to treat the Huffman account as an example of how folklore develops around a dramatic local mystery. Supporters usually respond that the absence of records could itself reflect official suppression. The difficulty is that a cover-up explanation can account for almost any missing evidence, making it hard to test objectively.
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_huffman_testimony_li_d0a418-Illustration-3-light.svg" | relative_url }}" alt="Huffman story illustration 3" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_huffman_testimony_li_d0a418-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_huffman_testimony_li_d0a418-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_huffman_testimony_li_d0a418-Illustration-3-dark.svg" | relative_url }}" alt="Huffman story illustration 3" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_huffman_testimony_li_d0a418-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1_huffman_testimony_li_d0a418-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the testimony can and cannot establish
 
-The Huffman family testimony remains the foundation of the Cape Girardeau crash legend. Without it, there is little case. With it, there is at least a coherent story that has been repeated across generations and has become part of Missouri UFO folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/missouristatearchives/posts/did-you-know-missouri-was-home-to-one-of-the-nations-foremost-ufologists-its-tru/1292364489602246/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookDid you know Missouri was home to...The Cape Girardeau Saucer Crash story originated with Charlette Mann, who in the 80s, began...</span></span></span>
+The Huffman family testimony remains the foundation of the Cape Girardeau crash legend. Without it, there is little case. With it, there is at least a coherent story that has been repeated across generations and has become part of Missouri UFO folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/missouristatearchives/posts/did-you-know-missouri-was-home-to-one-of-the-nations-foremost-ufologists-its-tru/1292364489602246/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Did you know Missouri was home to...The Cape Girardeau Saucer Crash story originated with Charlette Mann, who in the 80s, began...</span></span></span>
 
 What the testimony can reasonably establish is that family members believed Reverend Huffman experienced something unusual and spoke about it within private circles. It also shows how a local narrative survived long enough to become one of the state's most famous UFO stories.
 
@@ -330,9 +325,7 @@ What it cannot establish on its own is that a non-human craft actually crashed n
 
 That is why the case remains suspended between legend and evidence. The family story is vivid and influential, but the gap between inherited memory and verifiable proof remains the central problem in assessing the Cape Girardeau crash claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-title">alleged ufo crash cape girardeau area</span><span class="citation-popover-snippet">He said the UFO went down in a field somewhere west of the Cape Girardeau Airport between Cape Girardeau and Chaffee.Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CNYfSSKr56E" title="Before &amp; After - The 1941 UFO Crash in Cape Girardeau 4K" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CNYfSSKr56E" target="_blank" rel="noopener noreferrer">Before &amp; After - The 1941 UFO Crash in Cape Girardeau 4K</a></p><p class="youtube-embed-meta">Channel: Morgan Johnson’s Life in Cape Girardeau &middot; Views: 6.5K &middot; Uploaded: September 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CNYfSSKr56E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CNYfSSKr56E">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -756,123 +749,123 @@ That is why the case remains suspended between legend and evidence. The family s
 1. <a id="endnote-1"></a>
    Source: kfvs12.com  
    Title: alleged ufo crash cape girardeau area  
-   Link: [https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/](https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/)  
+   Link: <a href="https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/" target="_blank" rel="noopener noreferrer nofollow">https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>He said the UFO went down in a field somewhere west of the Cape Girardeau Airport between Cape Girardeau and Chaffee.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/missouristatearchives/posts/did-you-know-missouri-was-home-to-one-of-the-nations-foremost-ufologists-its-tru/1292364489602246/](https://www.facebook.com/missouristatearchives/posts/did-you-know-missouri-was-home-to-one-of-the-nations-foremost-ufologists-its-tru/1292364489602246/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookDid you know Missouri was home to...The Cape Girardeau Saucer Crash story originated with Charlette Mann, who in the 80s, began...</p></details>
+   Link: <a href="https://www.facebook.com/missouristatearchives/posts/did-you-know-missouri-was-home-to-one-of-the-nations-foremost-ufologists-its-tru/1292364489602246/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/missouristatearchives/posts/did-you-know-missouri-was-home-to-one-of-the-nations-foremost-ufologists-its-tru/1292364489602246/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Did you know Missouri was home to...The Cape Girardeau Saucer Crash story originated with Charlette Mann, who in the 80s, began...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: kltv.com  
    Title: east texans shares family secret of ufo sighting  
-   Link: [https://www.kltv.com/story/7924765/east-texans-shares-family-secret-of-ufo-sighting/](https://www.kltv.com/story/7924765/east-texans-shares-family-secret-of-ufo-sighting/)  
+   Link: <a href="https://www.kltv.com/story/7924765/east-texans-shares-family-secret-of-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.kltv.com/story/7924765/east-texans-shares-family-secret-of-ufo-sighting/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Around 9:30 p.m., Charlotte&#x27;s grandfather, Reverend William Huffman, got a call about a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: academia.edu  
    Title: UFOs and Intelligence: A Timeline  
-   Link: [https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart](https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart)  
+   Link: <a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>By George M. EberhartHuffman&#x27;s wife Floy reveals the story to her granddaughter, Charlette Mann, on her deathbed in 1984, who relates the...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: academia.edu  
    Title: The 1941 Cape Girardeau Conundrum  
-   Link: [https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum](https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum)  
+   Link: <a href="https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The 1941 Cape Girardeau Conundrum... records, obituaries, and grave information. Again, this is public information. Huffman Family...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
    Title: heres a creepy one in 1941 a couple in cape girardeau missouri claimed they stum  
-   Link: [https://www.facebook.com/mrballen/posts/heres-a-creepy-one-in-1941-a-couple-in-cape-girardeau-missouri-claimed-they-stum/805430581855777/](https://www.facebook.com/mrballen/posts/heres-a-creepy-one-in-1941-a-couple-in-cape-girardeau-missouri-claimed-they-stum/805430581855777/)  
+   Link: <a href="https://www.facebook.com/mrballen/posts/heres-a-creepy-one-in-1941-a-couple-in-cape-girardeau-missouri-claimed-they-stum/805430581855777/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mrballen/posts/heres-a-creepy-one-in-1941-a-couple-in-cape-girardeau-missouri-claimed-they-stum/805430581855777/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>family&#x27;s twice-told tale to UFO researchers. According to Mann, her grandfather, the Reverend William Huffman of the Red Star Baptist Chu...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ancientwhispers/posts/in-the-spring-of-1941-an-alleged-ufo-crash-occurred-near-cape-girardeau-6-years-/891787520507337/](https://www.facebook.com/ancientwhispers/posts/in-the-spring-of-1941-an-alleged-ufo-crash-occurred-near-cape-girardeau-6-years-/891787520507337/)  
+   Link: <a href="https://www.facebook.com/ancientwhispers/posts/in-the-spring-of-1941-an-alleged-ufo-crash-occurred-near-cape-girardeau-6-years-/891787520507337/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/in-the-spring-of-1941-an-alleged-ufo-crash-occurred-near-cape-girardeau-6-years-/891787520507337/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the spring of 1941, an alleged UFO crash occurred near...The 1941 Cape Girardeau UFO crash is one of the earliest and most chilling a...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: a local legend has people sharing their connection to the story on social media  
-   Link: [https://www.facebook.com/cityofcape/posts/a-local-legend-has-people-sharing-their-connection-to-the-story-on-social-media/1329257749234429/](https://www.facebook.com/cityofcape/posts/a-local-legend-has-people-sharing-their-connection-to-the-story-on-social-media/1329257749234429/)  
+   Link: <a href="https://www.facebook.com/cityofcape/posts/a-local-legend-has-people-sharing-their-connection-to-the-story-on-social-media/1329257749234429/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cityofcape/posts/a-local-legend-has-people-sharing-their-connection-to-the-story-on-social-media/1329257749234429/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>City of Cape Girardeau, Mo. GovernmentThe 1941 Cape Girardeau UFO crash is one of the earliest and most chilling accounts in American UFO...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
    Title: the 1941 cape girardeau ufo crash is one of the earliest and most chilling accou  
-   Link: [https://www.facebook.com/HiddenFactsss/posts/the-1941-cape-girardeau-ufo-crash-is-one-of-the-earliest-and-most-chilling-accou/1526439606149340/](https://www.facebook.com/HiddenFactsss/posts/the-1941-cape-girardeau-ufo-crash-is-one-of-the-earliest-and-most-chilling-accou/1526439606149340/)  
+   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/the-1941-cape-girardeau-ufo-crash-is-one-of-the-earliest-and-most-chilling-accou/1526439606149340/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/the-1941-cape-girardeau-ufo-crash-is-one-of-the-earliest-and-most-chilling-accou/1526439606149340/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1941 Cape Girardeau UFO crash is one of the earliest...After this event, Reverend Huffman shared his experience with his family, and...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
    Title: strange shapes fell from the sky that nightin the spring of 1941 the small town  
-   Link: [https://www.facebook.com/Historytimee/posts/strange-shapes-fell-from-the-sky-that-nightin-the-spring-of-1941-the-small-town-/904442792566233/](https://www.facebook.com/Historytimee/posts/strange-shapes-fell-from-the-sky-that-nightin-the-spring-of-1941-the-small-town-/904442792566233/)  
+   Link: <a href="https://www.facebook.com/Historytimee/posts/strange-shapes-fell-from-the-sky-that-nightin-the-spring-of-1941-the-small-town-/904442792566233/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Historytimee/posts/strange-shapes-fell-from-the-sky-that-nightin-the-spring-of-1941-the-small-town-/904442792566233/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Shapes Fell From The Sky That Night In the spring...#StrangeTravels #MichaelHuntington #CapeGirardeauUFOCrash1941 #CapeSaucerCra...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: kfvs12.com  
    Title: story alleged ufo crash near cape girardeau  
-   Link: [https://www.kfvs12.com/video/2021/05/26/story-alleged-ufo-crash-near-cape-girardeau/](https://www.kfvs12.com/video/2021/05/26/story-alleged-ufo-crash-near-cape-girardeau/)  
+   Link: <a href="https://www.kfvs12.com/video/2021/05/26/story-alleged-ufo-crash-near-cape-girardeau/" target="_blank" rel="noopener noreferrer nofollow">https://www.kfvs12.com/video/2021/05/26/story-alleged-ufo-crash-near-cape-girardeau/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Story of alleged UFO crash of 1941 near Cape GirardeauA UFO allegedly crashed in a field near Cape Girardeau in 1941...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: medium.com  
-   Link: [https://medium.com/never-stop-writing/the-night-a-priest-was-called-to-a-ufo-crash-89ec746b046d](https://medium.com/never-stop-writing/the-night-a-priest-was-called-to-a-ufo-crash-89ec746b046d)  
+   Link: <a href="https://medium.com/never-stop-writing/the-night-a-priest-was-called-to-a-ufo-crash-89ec746b046d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/never-stop-writing/the-night-a-priest-was-called-to-a-ufo-crash-89ec746b046d</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Night A Priest Was Called To A UFO CrashIt was a warm spring night in Cape Girardeau when Reverend William Huffman got a knock at his...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=rh6TBLLqNzI](https://www.youtube.com/watch?v=rh6TBLLqNzI)  
+   Link: <a href="https://www.youtube.com/watch?v=rh6TBLLqNzI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rh6TBLLqNzI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Biggest UFO Cover Up Of All TimeA silver disc-like object crashed on a rural Farm in Roswell New Mexico. The military moved in and co...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: imdb.com  
    Title: GLUMC I I GLUMICEWillard Carroll "Will" Smith II (born  
-   Link: [https://www.imdb.com/list/ls538492820/](https://www.imdb.com/list/ls538492820/)  
+   Link: <a href="https://www.imdb.com/list/ls538492820/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/list/ls538492820/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GLUMCI I GLUMICEWillard Carroll &quot;Will&quot; Smith II (born September 25, 1968) is an American actor, comedian, producer, rapper, and songwrite...</p></details>
    Published: September 25, 1968  
 
 15. <a id="endnote-15"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/northcarolinaman19871988nort/northcarolinaman19871988nort_djvu.txt](https://archive.org/stream/northcarolinaman19871988nort/northcarolinaman19871988nort_djvu.txt)  
+   Link: <a href="https://archive.org/stream/northcarolinaman19871988nort/northcarolinaman19871988nort_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/northcarolinaman19871988nort/northcarolinaman19871988nort_djvu.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;North Carolina manual [serial]&quot;Early Years: Born in Charlotte, Mecklenburg County, December 26, 1925, to William D...</p></details>
    Published: December 26, 1925  
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
    Title: the 1941 cape girardeau mo ufo crash with dead  
-   Link: [https://www.reddit.com/r/aliens/comments/1cawcrn/the_1941_cape_girardeau_mo_ufo_crash_with_dead/](https://www.reddit.com/r/aliens/comments/1cawcrn/the_1941_cape_girardeau_mo_ufo_crash_with_dead/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1cawcrn/the_1941_cape_girardeau_mo_ufo_crash_with_dead/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1cawcrn/the_1941_cape_girardeau_mo_ufo_crash_with_dead/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1941 Cape Girardeau, MO UFO crash with dead...A silver disc-like object crashed on a rural Farm in Roswell New Mexico. The military...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Title: 1941 cape girardeau ufo crash open skeptical  
-   Link: [https://www.reddit.com/r/aliens/comments/15rhdyq/1941_cape_girardeau_ufo_crash_open_skeptical/](https://www.reddit.com/r/aliens/comments/15rhdyq/1941_cape_girardeau_ufo_crash_open_skeptical/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/15rhdyq/1941_cape_girardeau_ufo_crash_open_skeptical/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/15rhdyq/1941_cape_girardeau_ufo_crash_open_skeptical/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1941 Cape Girardeau UFO Crash: Open Skeptical...[Serious] What happened to UFO/Alien disclosure that was going to happen? r/aliens. • 1y...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/838955243/Ufos-and-Intelligence](https://www.scribd.com/document/838955243/Ufos-and-Intelligence)  
+   Link: <a href="https://www.scribd.com/document/838955243/Ufos-and-Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/838955243/Ufos-and-Intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>84, who relates the story to ufologist Leonard Stringfield.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: finneyinjurylaw.com  
    Title: FinneyInjuryLaw NEWS July2022 REV2  
-   Link: [https://www.finneyinjurylaw.com/library/FinneyInjuryLaw_NEWS_July2022_REV2.pdf](https://www.finneyinjurylaw.com/library/FinneyInjuryLaw_NEWS_July2022_REV2.pdf)  
+   Link: <a href="https://www.finneyinjurylaw.com/library/FinneyInjuryLaw_NEWS_July2022_REV2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.finneyinjurylaw.com/library/FinneyInjuryLaw_NEWS_July2022_REV2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trial Takes an Unfortunate TurnJul 2, 2022 — Mann says her grandfather stated two of the aliens were dead, and one was barely breathing...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: sosupernaturalpodcast.com  
    Title: alien cape girardeau incident  
-   Link: [https://sosupernaturalpodcast.com/alien-cape-girardeau-incident/](https://sosupernaturalpodcast.com/alien-cape-girardeau-incident/)  
+   Link: <a href="https://sosupernaturalpodcast.com/alien-cape-girardeau-incident/" target="_blank" rel="noopener noreferrer nofollow">https://sosupernaturalpodcast.com/alien-cape-girardeau-incident/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>So Supernatural PodcastALIEN: Cape Girardeau IncidentLooking back at alleged UFO crash of 1941 near Cape Girardeau. (online article). Bef...</p></details>

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /mississippi-cba267-keesler-blue-book/
 description: Focused pages that expand on Keesler Records.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Mississippi_cba267_keesler_blue_book_fa9dc5
-parent_title: Keesler Records | Mississippi
+parent_title: Keesler Records
 parent_nav_short_title: Keesler Records
 parent_permalink: /keesler-records/
 ---

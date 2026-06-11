@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-california-became-a-ufo-hotspot/
 nav_short_title: LA Battle
 title: What Was The Battle Of Los Angeles?
-title_full: What Was The Battle Of Los Angeles? | California UFOs
+title_full: What Was The Battle Of Los Angeles?
 display_title_short: LA Battle
 display_title: LA Battle
 heading_title: What Was The Battle Of Los Angeles?
@@ -262,12 +262,10 @@ image: /assets/images/California_cf386e_battle_of_los_angele_dbfc1b-overview-soc
 
 ## Introduction
 
-The Battle of Los Angeles was not a proven UFO encounter. It was a real wartime air-raid scare over Southern [California]({{ 'why-california-became-a-ufo-hotspot/' | relative_url }}) in the early hours of 25 February 1942, when searchlights swept the sky, anti-aircraft guns fired more than 1,400 rounds, and frightened residents believed Los Angeles might be under attack. No enemy aircraft, wreckage or bombs were found afterwards. The case matters in California UFO history because it shows how a genuine emergency response, confused official statements, mass fear and one dramatic newspaper photograph can harden into a long-running mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[San Francisco Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">San Francisco Museum The Battle of Los Angeles</span><span class="citation-popover-snippet">San Francisco MuseumThe Battle of Los Angeles - 1942...</span></span></span>
-
+The Battle of Los Angeles was not a proven UFO encounter. It was a real wartime air-raid scare over Southern California in the early hours of 25 February 1942, when searchlights swept the sky, anti-aircraft guns fired more than 1,400 rounds, and frightened residents believed Los Angeles might be under attack. No enemy aircraft, wreckage or bombs were found afterwards. The case matters in California UFO history because it shows how a genuine emergency response, confused official statements, mass fear and one dramatic newspaper photograph can harden into a long-running mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[San Francisco Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">San Francisco Museum The Battle of Los Angeles</span><span class="citation-popover-snippet">San Francisco MuseumThe Battle of Los Angeles - 1942...</span></span></span>
 
 <img src="{{ "/assets/images/California_cf386e_battle_of_los_angele_dbfc1b-overview.webp" | relative_url }}" alt="Overview image for LA Battle" loading="eager" decoding="sync" fetchpriority="high">
 Its lasting power comes from the gap between what people experienced and what the evidence later supported. The city really did go dark. Guns really did fire. People really were injured and killed indirectly. Yet the best-supported explanation is not an alien craft or a hidden Japanese air raid, but a [false alarm]({{ 'false-alarm/' | relative_url }}) probably intensified by radar uncertainty, balloons, flares, shell bursts, searchlights, wartime nerves and contradictory reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la me fw archives 1942 battle la 20170221 story</span><span class="citation-popover-snippet">Los Angeles TimesFrom the Archives: The 1942 Battle of L.A. - Los Angeles Times...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_rpPzAHoIA4" title="THE UFO BATTLE OF LOS ANGELES | Full SCI-FI DOCUMENTARY HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_rpPzAHoIA4" target="_blank" rel="noopener noreferrer">THE UFO BATTLE OF LOS ANGELES | Full SCI-FI DOCUMENTARY HD</a></p><p class="youtube-embed-meta">Channel: FFF FantaThrills | Free Fantasy &amp; Suspense Films &middot; Views: 9.3K &middot; Uploaded: January 2024 &middot; Length: 2 hours 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_rpPzAHoIA4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_rpPzAHoIA4">Open on YouTube</a></p></div></div></div>
 
@@ -283,20 +281,18 @@ Once the firing began, the situation became self-reinforcing. Shell bursts caugh
 
 The physical consequences were serious even without an enemy attacker. Anti-aircraft batteries fired more than 1,400 rounds, and the all-clear did not come until 7:21 a.m. Contemporary and later accounts report deaths from traffic accidents during the blackout and heart attacks attributed to the shock, along with injuries and property damage from shell fragments. The case is therefore not just a curious UFO footnote. It was a public-safety failure in which panic, command uncertainty and military fire created real harm on the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/history/great-los-angeles-air-raid-terrified-citizenseven-though-no-bombs-were-dropped-180967890/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/California_cf386e_battle_of_los_angele_dbfc1b-Illustration-1-light.svg" | relative_url }}" alt="LA Battle illustration 1" data-theme-src-dark="{{ "/assets/images/California_cf386e_battle_of_los_angele_dbfc1b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_battle_of_los_angele_dbfc1b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/California_cf386e_battle_of_los_angele_dbfc1b-Illustration-1-dark.svg" | relative_url }}" alt="LA Battle illustration 1" data-theme-src-dark="{{ "/assets/images/California_cf386e_battle_of_los_angele_dbfc1b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_battle_of_los_angele_dbfc1b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The searchlight photograph
 
-The Battle of Los Angeles became a UFO legend largely because of one image: the Los Angeles Times photograph showing searchlights converging in the night sky. To later readers, especially those encountering the image in UFO books, documentaries or internet posts, the bright central area can look like an object pinned in the beams. That visual impression has kept the case alive long after most details of the wartime air-raid scare faded from public memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airminded.org">[Airminded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airminded.org</span><span class="citation-popover-title">New light on the Battle of Los Angeles – Airminded</span><span class="citation-popover-snippet">AirmindedNew light on the Battle of Los Angeles – Airminded...</span></span></span>
+The Battle of Los Angeles became a UFO legend largely because of one image: the Los Angeles Times photograph showing searchlights converging in the night sky. To later readers, especially those encountering the image in UFO books, documentaries or internet posts, the bright central area can look like an object pinned in the beams. That visual impression has kept the case alive long after most details of the wartime air-raid scare faded from public memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airminded.org">[Airminded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airminded.org</span><span class="citation-popover-title">New light on the Battle of Los Angeles – Airminded</span><span class="citation-popover-snippet">New light on the Battle of Los Angeles – Airminded...</span></span></span>
 
-The problem is that the photograph is not a clean, neutral record in the modern sense. Aviation historian Brett Holman notes that the famous version published in 1942 was clearly retouched, while a less-retouched version later surfaced in the Los Angeles Times archive. Retouching was not automatically sinister; newspapers often altered photographs to make them reproduce better in print. But it matters here because the UFO claim depends heavily on interpreting the photograph as if it were an untouched scientific image. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airminded.org">[Airminded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airminded.org</span><span class="citation-popover-title">New light on the Battle of Los Angeles – Airminded</span><span class="citation-popover-snippet">AirmindedNew light on the Battle of Los Angeles – Airminded...</span></span></span>
+The problem is that the photograph is not a clean, neutral record in the modern sense. Aviation historian Brett Holman notes that the famous version published in 1942 was clearly retouched, while a less-retouched version later surfaced in the Los Angeles Times archive. Retouching was not automatically sinister; newspapers often altered photographs to make them reproduce better in print. But it matters here because the UFO claim depends heavily on interpreting the photograph as if it were an untouched scientific image. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airminded.org">[Airminded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airminded.org</span><span class="citation-popover-title">New light on the Battle of Los Angeles – Airminded</span><span class="citation-popover-snippet">New light on the Battle of Los Angeles – Airminded...</span></span></span>
 
-A careful reading of the image weakens the “solid craft” interpretation. Holman argues that crossed searchlight beams alone would not create the effect, but that searchlights illuminating a small cloud could. He also points to the small blobs around the illuminated area as likely shell bursts or smoke puffs caught by the beams. In that reading, the photograph shows the visual chaos of the barrage: beams, cloud, smoke and anti-aircraft effects combining into a shape that later viewers could reinterpret as a vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airminded.org">[Airminded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airminded.org</span><span class="citation-popover-title">New light on the Battle of Los Angeles – Airminded</span><span class="citation-popover-snippet">AirmindedNew light on the Battle of Los Angeles – Airminded...</span></span></span>
+A careful reading of the image weakens the “solid craft” interpretation. Holman argues that crossed searchlight beams alone would not create the effect, but that searchlights illuminating a small cloud could. He also points to the small blobs around the illuminated area as likely shell bursts or smoke puffs caught by the beams. In that reading, the photograph shows the visual chaos of the barrage: beams, cloud, smoke and anti-aircraft effects combining into a shape that later viewers could reinterpret as a vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airminded.org">[Airminded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airminded.org</span><span class="citation-popover-title">New light on the Battle of Los Angeles – Airminded</span><span class="citation-popover-snippet">New light on the Battle of Los Angeles – Airminded...</span></span></span>
 
 This is a common pattern in famous UFO imagery: a photograph becomes more persuasive as it is copied, cropped, retouched, captioned and detached from its original circumstances. In the Battle of Los Angeles case, the picture is often asked to carry far more weight than it can bear. It does not establish what radar first detected. It does not prove the reports of aircraft were accurate. It does not show recovered wreckage, flight tracks or a confirmed target. It shows a dramatic wartime sky during a confused anti-aircraft response.
 
 The photograph still has historical value, but not because it proves an extraterrestrial visit. It captures the emotional truth of the night: a city expecting attack, searchlights searching for something to fight, and military fire turning uncertainty into spectacle. That is why the image remains powerful in California UFO culture even though its evidential value is limited.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kIbBCIrorYY" title="The Alien Threat Behind the Battle of LA | History&#x27;s Greatest Mysteries (S5)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kIbBCIrorYY" target="_blank" rel="noopener noreferrer">The Alien Threat Behind the Battle of LA | History&#x27;s Greatest Mysteries (S5)</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 165.5K &middot; Uploaded: March 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kIbBCIrorYY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kIbBCIrorYY">Open on YouTube</a></p></div></div></div>
 
@@ -318,8 +314,7 @@ Several features make the case especially vulnerable to overinterpretation:
 
 **A dramatic location.** Los Angeles was already a symbolic city: aerospace, film, military industry, news media and coastal vulnerability all overlapped there. A strange night over Los Angeles was almost guaranteed to outlive a similar scare in a less visible place.
 
-
-<img src="{{ "/assets/images/California_cf386e_battle_of_los_angele_dbfc1b-Illustration-2-light.svg" | relative_url }}" alt="LA Battle illustration 2" data-theme-src-dark="{{ "/assets/images/California_cf386e_battle_of_los_angele_dbfc1b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_battle_of_los_angele_dbfc1b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/California_cf386e_battle_of_los_angele_dbfc1b-Illustration-2-dark.svg" | relative_url }}" alt="LA Battle illustration 2" data-theme-src-dark="{{ "/assets/images/California_cf386e_battle_of_los_angele_dbfc1b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_battle_of_los_angele_dbfc1b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why it matters in California UFO history
 
 Within California’s UFO history, the Battle of Los Angeles is best understood as a pre-flying-saucer legend. It happened in 1942, five years before the 1947 wave that popularised “flying saucers” in American culture. That timing matters. The people in Los Angeles were not initially interpreting the event through the later UFO framework; they were thinking about Japanese aircraft, submarine-launched planes, sabotage and invasion. The alien reading came later, as the photograph and the story were absorbed into UFO literature and popular entertainment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/4232540/history-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">See 10 Mysterious &#x27;UFO Sighting&#x27; Photos From History</span><span class="citation-popover-snippet">See 10 Mysterious &#x27;UFO Sighting&#x27; Photos From History</span></span></span>
@@ -329,7 +324,6 @@ That makes the case a useful bridge between wartime air-defence scares and later
 It also clarifies a recurring problem in California cases: military context can make both believers and sceptics overreach. Believers may assume that military fire, radar or secrecy implies something extraordinary. Sceptics may too quickly dismiss all witnesses as panicked or foolish. A better reading sits between those extremes. The witnesses were reacting to a frightening wartime situation; the military response was real; some observations were likely honest mistakes; and the surviving evidence does not justify the strongest UFO claims.
 
 For a state-level UFO project, the case also connects naturally to later California incidents involving military or aviation settings. Southern California’s bases, coastline, aerospace industry and media networks helped make ambiguous sky events unusually visible. The 1942 scare foreshadows later debates in which radar traces, pilot reports, photographs and official uncertainty become part of the same interpretive struggle: what counts as evidence, what counts as panic, and what remains genuinely unknown?
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gT7CWL4WPb0" title="Battle of Los Angeles: The 1942 Attack They Can&#x27;t Explain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gT7CWL4WPb0" target="_blank" rel="noopener noreferrer">Battle of Los Angeles: The 1942 Attack They Can&#x27;t Explain</a></p><p class="youtube-embed-meta">Channel: The InBetween &middot; Views: 29.9K &middot; Uploaded: October 2025 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gT7CWL4WPb0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gT7CWL4WPb0">Open on YouTube</a></p></div></div></div>
 
@@ -341,8 +335,7 @@ Where the legend often goes wrong is in turning “unidentified” into “other
 
 The Battle of Los Angeles remains memorable because it sits at the boundary between history and folklore. As history, it is a documented false-alarm air raid in wartime California. As folklore, it is a story about searchlights trapping a mysterious object over one of the world’s most photographed cities. The responsible way to read it is to hold both facts in view: the panic was real, the legend is understandable, and the evidence for a UFO in the extraordinary sense is weak.
 
-
-<img src="{{ "/assets/images/California_cf386e_battle_of_los_angele_dbfc1b-Illustration-3-light.svg" | relative_url }}" alt="LA Battle illustration 3" data-theme-src-dark="{{ "/assets/images/California_cf386e_battle_of_los_angele_dbfc1b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_battle_of_los_angele_dbfc1b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/California_cf386e_battle_of_los_angele_dbfc1b-Illustration-3-dark.svg" | relative_url }}" alt="LA Battle illustration 3" data-theme-src-dark="{{ "/assets/images/California_cf386e_battle_of_los_angele_dbfc1b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_battle_of_los_angele_dbfc1b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -766,126 +759,126 @@ The Battle of Los Angeles remains memorable because it sits at the boundary betw
 1. <a id="endnote-1"></a>
    Source: airminded.org  
    Title: New light on the Battle of Los Angeles – Airminded  
-   Link: [https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/](https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AirmindedNew light on the Battle of Los Angeles – Airminded...</p></details>
+   Link: <a href="https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/" target="_blank" rel="noopener noreferrer nofollow">https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>New light on the Battle of Los Angeles – Airminded...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: time.com  
    Title: See 10 Mysterious 'UFO Sighting' Photos From History  
-   Link: [https://time.com/4232540/history-ufo-sightings/](https://time.com/4232540/history-ufo-sightings/)  
+   Link: <a href="https://time.com/4232540/history-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4232540/history-ufo-sightings/</a>  
 
 3. <a id="endnote-3"></a>
    Source: history.com  
    Title: world war iis bizarre battle of los angeles  
-   Link: [https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles](https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles)  
+   Link: <a href="https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles</a>  
 
 4. <a id="endnote-4"></a>
    Source: military.com  
-   Link: [https://www.military.com/daily-news/investigations-and-features/2025/11/13/wwii-mystery-behind-1942-battle-of-los-angeles-axis-planes-aliens-or-mass-hysteria.html](https://www.military.com/daily-news/investigations-and-features/2025/11/13/wwii-mystery-behind-1942-battle-of-los-angeles-axis-planes-aliens-or-mass-hysteria.html)  
+   Link: <a href="https://www.military.com/daily-news/investigations-and-features/2025/11/13/wwii-mystery-behind-1942-battle-of-los-angeles-axis-planes-aliens-or-mass-hysteria.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/investigations-and-features/2025/11/13/wwii-mystery-behind-1942-battle-of-los-angeles-axis-planes-aliens-or-mass-hysteria.html</a>  
 
 5. <a id="endnote-5"></a>
    Source: sfmuseum.org  
    Title: San Francisco Museum The Battle of Los Angeles  
-   Link: [https://sfmuseum.org/hist9/aaf2.html](https://sfmuseum.org/hist9/aaf2.html)  
+   Link: <a href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow">https://sfmuseum.org/hist9/aaf2.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>San Francisco MuseumThe Battle of Los Angeles - 1942...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: smithsonianmag.com  
-   Link: [https://www.smithsonianmag.com/history/great-los-angeles-air-raid-terrified-citizenseven-though-no-bombs-were-dropped-180967890/](https://www.smithsonianmag.com/history/great-los-angeles-air-raid-terrified-citizenseven-though-no-bombs-were-dropped-180967890/)  
+   Link: <a href="https://www.smithsonianmag.com/history/great-los-angeles-air-raid-terrified-citizenseven-though-no-bombs-were-dropped-180967890/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/great-los-angeles-air-raid-terrified-citizenseven-though-no-bombs-were-dropped-180967890/</a>  
 
 7. <a id="endnote-7"></a>
    Source: latimes.com  
    Title: la me fw archives 1942 battle la 20170221 story  
-   Link: [https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html](https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html)  
+   Link: <a href="https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesFrom the Archives: The 1942 Battle of L.A. - Los Angeles Times...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: latimes.com  
-   Link: [https://www.latimes.com/archives/blogs/show-tracker/story/2011-03-23/tv-skeptic-fact-or-faked-paranormal-files-looks-at-the-real-battle-of-l-a](https://www.latimes.com/archives/blogs/show-tracker/story/2011-03-23/tv-skeptic-fact-or-faked-paranormal-files-looks-at-the-real-battle-of-l-a)  
+   Link: <a href="https://www.latimes.com/archives/blogs/show-tracker/story/2011-03-23/tv-skeptic-fact-or-faked-paranormal-files-looks-at-the-real-battle-of-l-a" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/blogs/show-tracker/story/2011-03-23/tv-skeptic-fact-or-faked-paranormal-files-looks-at-the-real-battle-of-l-a</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Battle of Los Angeles  
-   Link: [https://en.wikipedia.org/wiki/Battle_of_Los_Angeles](https://en.wikipedia.org/wiki/Battle_of_Los_Angeles)  
+   Link: <a href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Battle_of_Los_Angeles</a>  
 
 10. <a id="endnote-10"></a>
    Source: smithsonianmag.com  
    Title: 75 years ago secretary navy blamed japanese americans pearl harbor 180961417  
-   Link: [https://www.smithsonianmag.com/smart-news/75-years-ago-secretary-navy-blamed-japanese-americans-pearl-harbor-180961417/](https://www.smithsonianmag.com/smart-news/75-years-ago-secretary-navy-blamed-japanese-americans-pearl-harbor-180961417/)  
+   Link: <a href="https://www.smithsonianmag.com/smart-news/75-years-ago-secretary-navy-blamed-japanese-americans-pearl-harbor-180961417/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/smart-news/75-years-ago-secretary-navy-blamed-japanese-americans-pearl-harbor-180961417/</a>  
 
 11. <a id="endnote-11"></a>
    Source: ww2today.com  
    Title: The Battle of Los Angeles  
-   Link: [https://www.ww2today.com/p/the-battle-of-los-angeles](https://www.ww2today.com/p/the-battle-of-los-angeles)  
+   Link: <a href="https://www.ww2today.com/p/the-battle-of-los-angeles" target="_blank" rel="noopener noreferrer nofollow">https://www.ww2today.com/p/the-battle-of-los-angeles</a>  
 
 12. <a id="endnote-12"></a>
    Source: sofmag.com  
    Title: battle of los angeles 1942  
-   Link: [https://sofmag.com/battle-of-los-angeles-1942/](https://sofmag.com/battle-of-los-angeles-1942/)  
+   Link: <a href="https://sofmag.com/battle-of-los-angeles-1942/" target="_blank" rel="noopener noreferrer nofollow">https://sofmag.com/battle-of-los-angeles-1942/</a>  
 
 13. <a id="endnote-13"></a>
    Source: blog.eastmanleather.com  
    Title: the battle of los angeles  
-   Link: [https://blog.eastmanleather.com/view-post/the-battle-of-los-angeles](https://blog.eastmanleather.com/view-post/the-battle-of-los-angeles)  
+   Link: <a href="https://blog.eastmanleather.com/view-post/the-battle-of-los-angeles" target="_blank" rel="noopener noreferrer nofollow">https://blog.eastmanleather.com/view-post/the-battle-of-los-angeles</a>  
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 15. <a id="endnote-15"></a>
    Source: militarymuseum.org  
-   Link: [https://www.militarymuseum.org/Ellwood.html](https://www.militarymuseum.org/Ellwood.html)  
+   Link: <a href="https://www.militarymuseum.org/Ellwood.html" target="_blank" rel="noopener noreferrer nofollow">https://www.militarymuseum.org/Ellwood.html</a>  
 
 16. <a id="endnote-16"></a>
    Source: historyanswers.co.uk  
    Title: the battle of los angeles  
-   Link: [https://www.historyanswers.co.uk/history-of-war/the-battle-of-los-angeles/](https://www.historyanswers.co.uk/history-of-war/the-battle-of-los-angeles/)  
+   Link: <a href="https://www.historyanswers.co.uk/history-of-war/the-battle-of-los-angeles/" target="_blank" rel="noopener noreferrer nofollow">https://www.historyanswers.co.uk/history-of-war/the-battle-of-los-angeles/</a>  
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: The Alien Threat Behind the Battle of LA | History's Greatest Mysteries (S5)  
-   Link: [https://www.youtube.com/watch?v=kIbBCIrorYY](https://www.youtube.com/watch?v=kIbBCIrorYY)  
+   Link: <a href="https://www.youtube.com/watch?v=kIbBCIrorYY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kIbBCIrorYY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE UFO BATTLE OF LOS ANGELES | Full SCI-FI DOCUMENTARY HD...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: celebratecalifornia.library.ca.gov  
-   Link: [https://celebratecalifornia.library.ca.gov/february-24-1942-the-battle-of-los-angeles-2/](https://celebratecalifornia.library.ca.gov/february-24-1942-the-battle-of-los-angeles-2/)  
+   Link: <a href="https://celebratecalifornia.library.ca.gov/february-24-1942-the-battle-of-los-angeles-2/" target="_blank" rel="noopener noreferrer nofollow">https://celebratecalifornia.library.ca.gov/february-24-1942-the-battle-of-los-angeles-2/</a>  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: THE UFO BATTLE OF LOS ANGELES | Full SCI-FI DOCUMENTARY HD  
-   Link: [https://www.youtube.com/watch?v=_rpPzAHoIA4](https://www.youtube.com/watch?v=_rpPzAHoIA4)  
+   Link: <a href="https://www.youtube.com/watch?v=_rpPzAHoIA4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_rpPzAHoIA4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Battle of Los Angeles: The 1942 Attack They Can&#x27;t Explain...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=qTJtpbWQPJQ](https://www.youtube.com/watch?v=qTJtpbWQPJQ)  
+   Link: <a href="https://www.youtube.com/watch?v=qTJtpbWQPJQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qTJtpbWQPJQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World War II&#x27;s Bizarre &#x27;Battle of Los Angeles&#x27; | Mystery, Panic &amp; UFO Legends...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=gT7CWL4WPb0](https://www.youtube.com/watch?v=gT7CWL4WPb0)  
+   Link: <a href="https://www.youtube.com/watch?v=gT7CWL4WPb0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gT7CWL4WPb0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Battle of Los Angeles was...strAInge...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MatthewSantoroVideos/posts/battle-of-los-angeles-unexplained-ufo-incident/1407429877409887/](https://www.facebook.com/MatthewSantoroVideos/posts/battle-of-los-angeles-unexplained-ufo-incident/1407429877409887/)  
+   Link: <a href="https://www.facebook.com/MatthewSantoroVideos/posts/battle-of-los-angeles-unexplained-ufo-incident/1407429877409887/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MatthewSantoroVideos/posts/battle-of-los-angeles-unexplained-ufo-incident/1407429877409887/</a>  
 
 23. <a id="endnote-23"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DWc0ObuEcBt/?hl=en](https://www.instagram.com/reel/DWc0ObuEcBt/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DWc0ObuEcBt/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWc0ObuEcBt/?hl=en</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DailyDoseofHistory/posts/in-the-months-immediately-following-the-japanese-attack-on-pearl-harbor-people-o/1238753775017364/](https://www.facebook.com/DailyDoseofHistory/posts/in-the-months-immediately-following-the-japanese-attack-on-pearl-harbor-people-o/1238753775017364/)  
+   Link: <a href="https://www.facebook.com/DailyDoseofHistory/posts/in-the-months-immediately-following-the-japanese-attack-on-pearl-harbor-people-o/1238753775017364/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DailyDoseofHistory/posts/in-the-months-immediately-following-the-japanese-attack-on-pearl-harbor-people-o/1238753775017364/</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/501072207266207/posts/1603785036994913/](https://www.facebook.com/groups/501072207266207/posts/1603785036994913/)  
+   Link: <a href="https://www.facebook.com/groups/501072207266207/posts/1603785036994913/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/501072207266207/posts/1603785036994913/</a>  
 
 26. <a id="endnote-26"></a>
    Source: ladailymirror.com  
-   Link: [https://ladailymirror.com/](https://ladailymirror.com/)  
+   Link: <a href="https://ladailymirror.com/" target="_blank" rel="noopener noreferrer nofollow">https://ladailymirror.com/</a>

@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /explanations-2d29c0/
 nav_short_title: Sky Phenomena
 title: How Stars, Satellites, and Weather Tricks Spark UFO Reports
-title_full: How Stars, Satellites, and Weather Tricks Spark UFO Reports | Explanations
+title_full: How Stars, Satellites, and Weather Tricks Spark UFO Reports
 display_title_short: Sky Phenomena
 display_title: Sky Phenomena
 heading_title: How Stars, Satellites, and Weather Tricks Spark UFO Reports
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:42:01'
-parent_title: What Minnesota Sightings Might Really Be | Minnesota UAP
+parent_title: What Minnesota Sightings Might Really Be
 parent_permalink: /explanations-2d29c0/
 parent_nav_short_title: Explanations
 parent_heading_title: What Minnesota Sightings Might Really Be
@@ -250,10 +250,9 @@ image: /assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_sky_
 
 ## Introduction
 
-Many [Minnesota]({{ 'what-really-happened-in-minnesotas-skies/' | relative_url }}) UFO reports begin with a sincere observation of something unusual in the sky and end with a far more ordinary explanation. Bright planets, satellite trains, the International Space Station (ISS), ice-crystal halos and other atmospheric effects regularly create sightings that can appear strange, especially during clear winter nights or periods of dramatic weather. Minnesota's combination of dark rural skies, long winter evenings and frequent atmospheric ice phenomena makes it a place where unfamiliar sky events are especially noticeable. While some reports remain unresolved, investigators repeatedly find that celestial objects and optical effects account for a substantial share of sightings that initially seem mysterious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">a brief history of ufo sightings in minnesota</span><span class="citation-popover-snippet">CBS NewsA brief history of UFO sightings in Minnesota2 Jul 2024 — For nearly 50 years, the National UFO Reporting Center has tracked and...</span></span></span>
+Many Minnesota UFO reports begin with a sincere observation of something unusual in the sky and end with a far more ordinary explanation. Bright planets, satellite trains, the International Space Station (ISS), ice-crystal halos and other atmospheric effects regularly create sightings that can appear strange, especially during clear winter nights or periods of dramatic weather. Minnesota's combination of dark rural skies, long winter evenings and frequent atmospheric ice phenomena makes it a place where unfamiliar sky events are especially noticeable. While some reports remain unresolved, investigators repeatedly find that celestial objects and optical effects account for a substantial share of sightings that initially seem mysterious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">a brief history of ufo sightings in minnesota</span><span class="citation-popover-snippet">CBS NewsA brief history of UFO sightings in Minnesota2 Jul 2024 — For nearly 50 years, the National UFO Reporting Center has tracked and...</span></span></span>
 
-
-<img src="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_sky_phenom_9156bd-Illustration-1-light.svg" | relative_url }}" alt="Sky Phenomena illustration 1" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_sky_phenom_9156bd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_sky_phenom_9156bd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_sky_phenom_9156bd-Illustration-1-dark.svg" | relative_url }}" alt="Sky Phenomena illustration 1" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_sky_phenom_9156bd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_sky_phenom_9156bd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Understanding these mechanisms helps explain why witnesses often describe hovering lights, sudden colour changes, apparent movement, glowing discs or formations of objects moving silently across the sky. In many cases, the object itself is real; the mystery comes from how human perception interprets it.
 
 ## Why Bright Planets Often Become UFOs
@@ -263,7 +262,6 @@ Among all astronomical sources of UFO reports, Venus has probably generated more
 In Minnesota, where many sightings occur during long winter evenings, observers may watch a bright planet through layers of turbulent air near the horizon. That turbulence causes atmospheric scintillation, the same process that makes stars twinkle. A stationary planet can appear to shimmer, flash red, blue or green, and seem to drift slightly from side to side.
 
 Several factors make these observations feel more unusual than they really are:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -279,7 +277,7 @@ Witnesses frequently estimate such objects as being much closer than they actual
 
 ## Starlink Trains and the New Generation of UFO Reports
 
-The arrival of large satellite constellations has changed the character of many modern UFO reports. Since SpaceX began launching Starlink satellites, observers across North America have reported lines of lights moving silently across the sky in formation. These sightings have often been described as fleets of UFOs, glowing chains or organised aerial formations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">ForbesWhat Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space b...</span></span></span>
+The arrival of large satellite constellations has changed the character of many modern UFO reports. Since SpaceX began launching Starlink satellites, observers across North America have reported lines of lights moving silently across the sky in formation. These sightings have often been described as fleets of UFOs, glowing chains or organised aerial formations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space b...</span></span></span>
 
 The confusion is understandable. Shortly after launch, Starlink satellites travel in closely spaced groups that can stretch across a large section of the sky. Unlike aircraft, they make no sound and maintain a steady speed. To observers unfamiliar with satellite deployments, the formation can look entirely unlike conventional aviation.
 
@@ -296,7 +294,6 @@ Because most people do not routinely check ISS pass schedules, a sudden appearan
 This possibility has appeared in discussions of several recent Minnesota sightings. In some cases, investigators comparing witness reports with orbital data found that the ISS was passing over the region at the time of the reported event. One widely discussed Minnesota case involving police observers and reports of changing coloured lights was later examined against ISS visibility records. Investigators argued that atmospheric distortion acting on a bright ISS pass could account for much of the observed appearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-sun.com/news/15383454/nasa-mysterious-ufo-minneapolis-minnesota/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-sun.com">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-sun.com</span><span class="citation-popover-snippet">The officers claimed it reacted to a nearby helicopter but not to a small plane that appeared later. A second similar object was briefly...</span><span class="citation-popover-meta">Published: October 22, 2025</span></span></span>
 
 The important point is not that every such report has been solved. Rather, it demonstrates how investigators approach sightings: they compare witness testimony against known astronomical and orbital data before considering more exotic [explanations]({{ 'explanations-2d29c0/' | relative_url }}).
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P-ymwG9mDhE" title="Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer">Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 22.9K &middot; Uploaded: March 2012 &middot; Length: 1 minute 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P-ymwG9mDhE">Open on YouTube</a></p></div></div></div>
 
@@ -318,7 +315,6 @@ Near the horizon, light passes through more atmosphere. Variations in temperatur
 
 The result can include:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Apparent changes in position.
@@ -330,8 +326,7 @@ The result can include:
 
 To a witness without a clear reference point, these effects can resemble an object making controlled movements. Reports describing lights that “hovered and then jumped” are often examined for these atmospheric influences before being treated as evidence of unusual flight behaviour.
 
-
-<img src="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_sky_phenom_9156bd-Illustration-2-light.svg" | relative_url }}" alt="Sky Phenomena illustration 2" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_sky_phenom_9156bd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_sky_phenom_9156bd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_sky_phenom_9156bd-Illustration-2-dark.svg" | relative_url }}" alt="Sky Phenomena illustration 2" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_sky_phenom_9156bd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_sky_phenom_9156bd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Winter Halos, Sundogs and Other Minnesota Sky Illusions
 
 Minnesota's climate makes it particularly well suited to spectacular atmospheric optical displays. Ice crystals suspended in cold air can produce some of the most striking sky phenomena seen anywhere in the United States.
@@ -342,12 +337,9 @@ These displays are entirely natural but can look extraordinary.
 
 Sundogs appear as bright spots of light on either side of the Sun. They form when sunlight refracts through hexagonal ice crystals in high clouds or cold air. Depending on conditions, they can look like separate glowing objects accompanying the Sun. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceWhat Causes Halos, Sundogs and Sun Pillars?Halos: A halo is a ring or light that forms around the sun or moon as...</span></span></span>
 
-Because Minnesota regularly experiences cold conditions favourable to ice-crystal formation, sundogs are not uncommon. Dramatic examples have been photographed across the state following winter storms and cold snaps. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/AccuWeather/posts/an-incredible-sun-halo-sun-dog-and-circumzenithal-arc-were-seen-in-graceville-mi/1246953073956003/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookAn incredible sun halo, sun dog, and circumzenithal arc...An incredible sun halo, sun dog, and circumzenithal arc were seen in G...</span></span></span>
+Because Minnesota regularly experiences cold conditions favourable to ice-crystal formation, sundogs are not uncommon. Dramatic examples have been photographed across the state following winter storms and cold snaps. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/AccuWeather/posts/an-incredible-sun-halo-sun-dog-and-circumzenithal-arc-were-seen-in-graceville-mi/1246953073956003/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">An incredible sun halo, sun dog, and circumzenithal arc...An incredible sun halo, sun dog, and circumzenithal arc were seen in G...</span></span></span>
 
 To observers unfamiliar with the phenomenon, especially when viewed through clouds or haze, sundogs can appear surprisingly artificial.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5oQs3KPitug" title="Sun dogs and halos | Weather Wise Lessons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5oQs3KPitug" target="_blank" rel="noopener noreferrer">Sun dogs and halos | Weather Wise Lessons</a></p><p class="youtube-embed-meta">Channel: WHAS11 &middot; Views: 52.2K &middot; Uploaded: April 2020 &middot; Length: 1 minute 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5oQs3KPitug" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5oQs3KPitug">Open on YouTube</a></p></div></div></div>
 
 ### Halos Around the Sun and Moon
 
@@ -361,6 +353,7 @@ Vertical columns of light can appear above streetlights, the Moon or the setting
 
 In winter, Minnesota's cold conditions occasionally create displays dramatic enough to attract attention on social media and local news. For someone encountering the phenomenon unexpectedly, a glowing vertical beam on the horizon can appear distinctly unnatural.
 
+<img src="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_sky_phenom_9156bd-Illustration-3-dark.svg" | relative_url }}" alt="Sky Phenomena illustration 3" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_sky_phenom_9156bd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_sky_phenom_9156bd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Lenticular Clouds and the Classic Flying-Saucer Shape
 
 Although less common in Minnesota than in mountainous regions, lenticular clouds occasionally form when stable air flows over terrain or atmospheric wave patterns.
@@ -368,7 +361,6 @@ Although less common in Minnesota than in mountainous regions, lenticular clouds
 These clouds are famous for one reason: they often resemble the classic flying-saucer image associated with UFO culture.
 
 A lenticular cloud can appear:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -381,14 +373,13 @@ A lenticular cloud can appear:
 
 Because the cloud remains fixed while surrounding clouds move, observers may interpret it as a solid object hovering in place. UFO investigators have long noted that photographs of unusual cloud formations sometimes become embedded in local UFO lore even after meteorologists provide straightforward explanations.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5oQs3KPitug" title="Sun dogs and halos | Weather Wise Lessons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5oQs3KPitug" target="_blank" rel="noopener noreferrer">Sun dogs and halos | Weather Wise Lessons</a></p><p class="youtube-embed-meta">Channel: WHAS11 &middot; Views: 52.2K &middot; Uploaded: April 2020 &middot; Length: 1 minute 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5oQs3KPitug" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5oQs3KPitug">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_sky_phenom_9156bd-Illustration-3-light.svg" | relative_url }}" alt="Sky Phenomena illustration 3" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_sky_phenom_9156bd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_common_explanations_72fcca_minnesota_sky_phenom_9156bd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Investigators Test a Sky-Phenomena Explanation
 
 When Minnesota UFO researchers, journalists or sceptical investigators evaluate a sighting, celestial and atmospheric explanations are usually among the first possibilities examined.
 
 The process often includes checking:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -406,9 +397,6 @@ The process often includes checking:
 Modern tools have made this much easier than in earlier decades. A report that might have remained unexplained in the 1960s can often be compared today against detailed satellite and astronomical databases within minutes.
 
 This does not mean every case is solved. Witness estimates of direction and timing are frequently imprecise, and many reports lack photographs or independent corroboration. However, the growing availability of tracking data has reduced the number of genuinely puzzling cases involving simple lights in the sky.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0sM8WSkv7aM" title="Explained or Unexplained? Inside Minnesota&#x27;s recent UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0sM8WSkv7aM" target="_blank" rel="noopener noreferrer">Explained or Unexplained? Inside Minnesota&#x27;s recent UFO sightings</a></p><p class="youtube-embed-meta">Channel: KARE 11 &middot; Views: 22.7K &middot; Uploaded: August 2021 &middot; Length: 4 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0sM8WSkv7aM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0sM8WSkv7aM">Open on YouTube</a></p></div></div></div>
 
 ## Why These Explanations Matter in Minnesota's UFO History
 
@@ -504,7 +492,7 @@ Recognising these mechanisms does not dismiss witnesses or imply that people are
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -514,111 +502,36 @@ Recognising these mechanisms does not dismiss witnesses or imply that people are
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -626,15 +539,15 @@ Recognising these mechanisms does not dismiss witnesses or imply that people are
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/o-YAAOSwKopk5fnY/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -642,15 +555,15 @@ Recognising these mechanisms does not dismiss witnesses or imply that people are
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="https://i.ebayimg.com/images/g/B7QAAeSw73loHdMA/s-l225.jpg" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -658,15 +571,15 @@ Recognising these mechanisms does not dismiss witnesses or imply that people are
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S"><img src="https://i.ebayimg.com/images/g/yRcAAOSwWhdmw231/s-l225.jpg" alt="Listing image for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -674,7 +587,7 @@ Recognising these mechanisms does not dismiss witnesses or imply that people are
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-phenomena-how-stars-satellites-and-weather-tricks-spark-ufo-reports-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-stars-satellites-and-weather-tricks-spark-ufo-reports-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -751,17 +664,31 @@ Recognising these mechanisms does not dismiss witnesses or imply that people are
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -774,42 +701,73 @@ Recognising these mechanisms does not dismiss witnesses or imply that people are
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -824,12 +782,17 @@ Recognising these mechanisms does not dismiss witnesses or imply that people are
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -839,119 +802,119 @@ Recognising these mechanisms does not dismiss witnesses or imply that people are
 
 1. <a id="endnote-1"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/arx/why_halos_sundogs_pillars](https://www.weather.gov/arx/why_halos_sundogs_pillars)  
+   Link: <a href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/arx/why_halos_sundogs_pillars</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceWhat Causes Halos, Sundogs and Sun Pillars?Halos: A halo is a ring or light that forms around the sun or moon as...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: forbes.com  
-   Link: [https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/](https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ForbesWhat Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space b...</p></details>
+   Link: <a href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space b...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: the-sun.com  
-   Link: [https://www.the-sun.com/news/15383454/nasa-mysterious-ufo-minneapolis-minnesota/](https://www.the-sun.com/news/15383454/nasa-mysterious-ufo-minneapolis-minnesota/)  
+   Link: <a href="https://www.the-sun.com/news/15383454/nasa-mysterious-ufo-minneapolis-minnesota/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/15383454/nasa-mysterious-ufo-minneapolis-minnesota/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The officers claimed it reacted to a nearby helicopter but not to a small plane that appeared later. A second similar object was briefly...</p></details>
    Published: October 22, 2025  
 
 4. <a id="endnote-4"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AccuWeather/posts/an-incredible-sun-halo-sun-dog-and-circumzenithal-arc-were-seen-in-graceville-mi/1246953073956003/](https://www.facebook.com/AccuWeather/posts/an-incredible-sun-halo-sun-dog-and-circumzenithal-arc-were-seen-in-graceville-mi/1246953073956003/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookAn incredible sun halo, sun dog, and circumzenithal arc...An incredible sun halo, sun dog, and circumzenithal arc were seen in G...</p></details>
+   Link: <a href="https://www.facebook.com/AccuWeather/posts/an-incredible-sun-halo-sun-dog-and-circumzenithal-arc-were-seen-in-graceville-mi/1246953073956003/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/an-incredible-sun-halo-sun-dog-and-circumzenithal-arc-were-seen-in-graceville-mi/1246953073956003/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An incredible sun halo, sun dog, and circumzenithal arc...An incredible sun halo, sun dog, and circumzenithal arc were seen in G...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wdaytv/posts/in-this-weather-wednesday-we-explain-an-optical-phenomenon-thats-different-from-/1385481043613364/](https://www.facebook.com/wdaytv/posts/in-this-weather-wednesday-we-explain-an-optical-phenomenon-thats-different-from-/1385481043613364/)  
+   Link: <a href="https://www.facebook.com/wdaytv/posts/in-this-weather-wednesday-we-explain-an-optical-phenomenon-thats-different-from-/1385481043613364/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wdaytv/posts/in-this-weather-wednesday-we-explain-an-optical-phenomenon-thats-different-from-/1385481043613364/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>f light through ice crystals. They are located...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox9kmsp/posts/the-national-archives-has-published-a-video-showing-an-unusual-multi-colored-fla/1470215651814553/](https://www.facebook.com/fox9kmsp/posts/the-national-archives-has-published-a-video-showing-an-unusual-multi-colored-fla/1470215651814553/)  
+   Link: <a href="https://www.facebook.com/fox9kmsp/posts/the-national-archives-has-published-a-video-showing-an-unusual-multi-colored-fla/1470215651814553/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox9kmsp/posts/the-national-archives-has-published-a-video-showing-an-unusual-multi-colored-fla/1470215651814553/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National Archives has published a video showing an...The National Archives has published a video showing an unusual, multi colored f...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/552059654373970/posts/560440853535850/](https://www.facebook.com/groups/552059654373970/posts/560440853535850/)  
+   Link: <a href="https://www.facebook.com/groups/552059654373970/posts/560440853535850/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/552059654373970/posts/560440853535850/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ational/us/ufo-aliens-vehicle-nasa- missing-object-...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/720351209712591/posts/936763341404709/](https://www.facebook.com/groups/720351209712591/posts/936763341404709/)  
+   Link: <a href="https://www.facebook.com/groups/720351209712591/posts/936763341404709/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/720351209712591/posts/936763341404709/</a>  
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/US1033/posts/we-have-two-ufo-videos-showing-something-is-going-on-in-the-skies-over-the-capit/1377792404348528/](https://www.facebook.com/US1033/posts/we-have-two-ufo-videos-showing-something-is-going-on-in-the-skies-over-the-capit/1377792404348528/)  
+   Link: <a href="https://www.facebook.com/US1033/posts/we-have-two-ufo-videos-showing-something-is-going-on-in-the-skies-over-the-capit/1377792404348528/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/US1033/posts/we-have-two-ufo-videos-showing-something-is-going-on-in-the-skies-over-the-capit/1377792404348528/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;l Region. [https://us1033.com/bismarck-ufo-sightings/...&quot;](https://us1033.com/bismarck-ufo-sightings/...&quot;)...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cbsnews.com  
    Title: a brief history of ufo sightings in minnesota  
-   Link: [https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/](https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/)  
+   Link: <a href="https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsA brief history of UFO sightings in Minnesota2 Jul 2024 — For nearly 50 years, the National UFO Reporting Center has tracked and...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: livescience.com  
    Title: Live Science Jupiter and Venus 'Could Be Mistaken for UFOs'  
-   Link: [https://www.livescience.com/33766-jupiter-venus-mistaken-ufos.html](https://www.livescience.com/33766-jupiter-venus-mistaken-ufos.html)  
+   Link: <a href="https://www.livescience.com/33766-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/33766-jupiter-venus-mistaken-ufos.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceJupiter and Venus &#x27;Could Be Mistaken for UFOs&#x27;March 13, 2012 — 13 Mar 2012 — A British astronomer says these planets will pro...</p></details>
    Published: March 13, 2012  
 
 12. <a id="endnote-12"></a>
    Source: popularmechanics.com  
    Title: Popular Mechanics Airline Pilots Couldn't Stop Seeing UFOs  
-   Link: [https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/](https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/)  
+   Link: <a href="https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/space/satellites/a60207287/airline-pilots-starlink-satellites-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Turns Out They...19 Mar 2024 — Airline Pilots Couldn&#x27;t Stop Seeing UFOs. Turns Out They Were Just Starlink Satellites. · Researchers use...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: atmos.uw.edu  
-   Link: [https://atmos.uw.edu/~hakim/101/Chapter19.pdf](https://atmos.uw.edu/~hakim/101/Chapter19.pdf)  
+   Link: <a href="https://atmos.uw.edu/~hakim/101/Chapter19.pdf" target="_blank" rel="noopener noreferrer nofollow">https://atmos.uw.edu/~hakim/101/Chapter19.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>uw.eduLight, Color and Atmospheric OpticsHalos and sundogs form from the refraction of light through ice crystals. Sun pillars are the re...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: hko.gov.hk  
    Title: 00353 indepth anatomy of the atmospheric optical phenomenon sun dog  
-   Link: [https://www.hko.gov.hk/en/education/earth-science/optical-phenomena/00353-indepth-anatomy-of-the-atmospheric-optical-phenomenon-sun-dog.html](https://www.hko.gov.hk/en/education/earth-science/optical-phenomena/00353-indepth-anatomy-of-the-atmospheric-optical-phenomenon-sun-dog.html)  
+   Link: <a href="https://www.hko.gov.hk/en/education/earth-science/optical-phenomena/00353-indepth-anatomy-of-the-atmospheric-optical-phenomenon-sun-dog.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hko.gov.hk/en/education/earth-science/optical-phenomena/00353-indepth-anatomy-of-the-atmospheric-optical-phenomenon-sun-dog.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In-depth anatomy of the atmospheric optical phenomenon18 Aug 2022 — Sun dog is produced by refraction of sun&#x27;s light rays through hexagon...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1hcnble/minnesota_residents_reporting_the_orbs_see_them/](https://www.reddit.com/r/aliens/comments/1hcnble/minnesota_residents_reporting_the_orbs_see_them/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1hcnble/minnesota_residents_reporting_the_orbs_see_them/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1hcnble/minnesota_residents_reporting_the_orbs_see_them/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e sightings come as people on the East Coast report seeing large drones...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The only conventional device which could comply with such an observation,&quot;...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=P-ymwG9mDhE](https://www.youtube.com/watch?v=P-ymwG9mDhE)  
+   Link: <a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P-ymwG9mDhE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;Robert Massey of the Royal Astronomical Society says he would not be surprised if there are...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=0sM8WSkv7aM](https://www.youtube.com/watch?v=0sM8WSkv7aM)  
+   Link: <a href="https://www.youtube.com/watch?v=0sM8WSkv7aM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0sM8WSkv7aM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>esota&#x27;s recent UFO sightings. 22K views · 4 years ago...more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=5oQs3KPitug](https://www.youtube.com/watch?v=5oQs3KPitug)  
+   Link: <a href="https://www.youtube.com/watch?v=5oQs3KPitug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5oQs3KPitug</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sun dogs and halos | Weather Wise LessonsA halo is a ring of light that forms around the Sun or the moon. A sundog also called a mock sun...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/xdl2eKen_BA](https://www.youtube.com/shorts/xdl2eKen_BA)  
+   Link: <a href="https://www.youtube.com/shorts/xdl2eKen_BA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/xdl2eKen_BA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Explained: Starlink Satellites or Something...I believe they&#x27;re starlink satellites but every once in a while you&#x27;ll see a...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: river967.com  
    Title: sartell ufo sighting  
-   Link: [https://river967.com/sartell-ufo-sighting/](https://river967.com/sartell-ufo-sighting/)  
+   Link: <a href="https://river967.com/sartell-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://river967.com/sartell-ufo-sighting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>96.7 The RiverWhat Really Happened During A UFO Sighting In Sartell...17 Nov 2025 — MY &quot;UFO&quot; SIGHTING IN SARTELL · WHAT WERE THE UFOS IN...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: science.howstuffworks.com  
    Title: 1979 minnesota ufo  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/1979-minnesota-ufo.htm](https://science.howstuffworks.com/space/aliens-ufos/1979-minnesota-ufo.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/1979-minnesota-ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/1979-minnesota-ufo.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SightingHudson Valley UFO Wave. Between 1982 and 1986, around 5,000 eyewitnesses reported seeing V-shaped UFOs with multicolored lights f...</p></details>

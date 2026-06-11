@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /pennsylvania-dff756-carbondale-lantern/
 description: Focused pages that expand on Carbondale.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Pennsylvania_dff756_carbondale_lantern_l_53004a
-parent_title: Carbondale | What Really Happened in Pennsylvania's UFO...
+parent_title: Carbondale
 parent_nav_short_title: Carbondale
 parent_permalink: /carbondale/
 ---

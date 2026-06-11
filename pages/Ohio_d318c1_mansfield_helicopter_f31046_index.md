@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ohio-d318c1-mansfield-helicopter/
 description: Focused pages that expand on Mansfield.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Ohio_d318c1_mansfield_helicopter_f31046
-parent_title: Mansfield | Why Ohio Became a UFO State
+parent_title: Mansfield
 parent_nav_short_title: Mansfield
 parent_permalink: /mansfield/
 ---

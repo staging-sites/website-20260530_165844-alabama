@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /muncie-flap/
 nav_short_title: 9 October surge
 title: What did Muncie see on 9 October?
-title_full: What did Muncie see on 9 October? | Muncie Flap
+title_full: What did Muncie see on 9 October?
 display_title_short: 9 October surge
 display_title: 9 October surge
 heading_title: What did Muncie see on 9 October?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:23:42'
-parent_title: Why the 1973 Muncie UFO Wave Became a Cultural Phenomenon | Indiana UFOs
+parent_title: Why the 1973 Muncie UFO Wave Became a Cultural Phenomenon
 parent_permalink: /muncie-flap/
 parent_nav_short_title: Muncie Flap
 parent_heading_title: Why the 1973 Muncie UFO Wave Became a Cultural Phenomenon
@@ -250,16 +250,14 @@ image: /assets/images/Indiana_5d00be_muncie_1973_flap_995554_october_9_muncie_su
 
 ## Introduction
 
-On the night of 9 October 1973, Muncie experienced the moment that turned a scattering of unusual sky reports into one of [Indiana]({{ 'what-makes-indianas-ufo-history-unique/' | relative_url }})’s best-known UFO flaps. Within a matter of hours, police and sheriff’s departments were flooded with calls from residents describing coloured lights, hovering objects and strange movements over Delaware County. What made the episode memorable was not just the number of sightings, but the clash between frightened witnesses and calm official explanations. Police and local experts pointed to helicopters, weather balloons and ordinary aircraft, while many residents insisted they had seen something far stranger. The surge became the anchor event of the wider 1973 [Muncie flap]({{ 'muncie-flap/' | relative_url }}) because it combined mass public attention, heavy media coverage and a genuine sense of local unease. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipm.org/show/journeyindiana/2026-04-27/close-encounters-of-the-muncie-kind-the-muncie-ufo-mania-of-1973" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipm.org">[Indiana Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipm.org</span><span class="citation-popover-title">close encounters of the muncie kind the muncie ufo mania of 1973</span><span class="citation-popover-snippet">Indiana Public MediaThe 1973 Muncie UFO Sightings: Indiana&#x27;s Alien ManiaApr 27, 2026 — In 1973, the skies over Muncie, Indiana lit up wit...</span></span></span>
+On the night of 9 October 1973, Muncie experienced the moment that turned a scattering of unusual sky reports into one of Indiana’s best-known UFO flaps. Within a matter of hours, police and sheriff’s departments were flooded with calls from residents describing coloured lights, hovering objects and strange movements over Delaware County. What made the episode memorable was not just the number of sightings, but the clash between frightened witnesses and calm official explanations. Police and local experts pointed to helicopters, weather balloons and ordinary aircraft, while many residents insisted they had seen something far stranger. The surge became the anchor event of the wider 1973 [Muncie flap]({{ 'muncie-flap/' | relative_url }}) because it combined mass public attention, heavy media coverage and a genuine sense of local unease. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipm.org/show/journeyindiana/2026-04-27/close-encounters-of-the-muncie-kind-the-muncie-ufo-mania-of-1973" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipm.org">[Indiana Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipm.org</span><span class="citation-popover-title">close encounters of the muncie kind the muncie ufo mania of 1973</span><span class="citation-popover-snippet">Indiana Public MediaThe 1973 Muncie UFO Sightings: Indiana&#x27;s Alien ManiaApr 27, 2026 — In 1973, the skies over Muncie, Indiana lit up wit...</span></span></span>
 
-
-<img src="{{ "/assets/images/Indiana_5d00be_muncie_1973_flap_995554_october_9_muncie_sur_727599-Illustration-1-light.svg" | relative_url }}" alt="9 October surge illustration 1" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_muncie_1973_flap_995554_october_9_muncie_sur_727599-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_muncie_1973_flap_995554_october_9_muncie_sur_727599-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Indiana_5d00be_muncie_1973_flap_995554_october_9_muncie_sur_727599-Illustration-1-dark.svg" | relative_url }}" alt="9 October surge illustration 1" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_muncie_1973_flap_995554_october_9_muncie_sur_727599-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_muncie_1973_flap_995554_october_9_muncie_sur_727599-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The night the calls overwhelmed police
 
 The first major wave hit on the evening of 9 October and continued into the early hours of 10 October. Contemporary accounts later cited by local historians describe “mysterious multi-coloured lights” being seen by several hundred people across Muncie and surrounding parts of Delaware County. Sheriff’s departments and city police reportedly received around 100 calls in a short period, with dozens more directed to other emergency lines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exonews.org/ufo-mania-hit-muncie-hard-in-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exonews.org">[Exo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exonews.org</span><span class="citation-popover-title">ufo mania hit muncie hard in 1973</span><span class="citation-popover-snippet">Exo NewsUFO Mania Hit Muncie Hard in 1973In October, 1973, The Muncie Star, in Muncie... For several days in a row, Muncie newspaper rea...</span></span></span>
 
 Witnesses tended to describe similar broad features rather than one clearly defined object. Many reports involved:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -278,7 +276,6 @@ The timing also helped the story grow. October 1973 was already part of a wider 
 
 The most important feature of the 9 October surge was the immediate disagreement over what people had actually seen. Witnesses often spoke in emotional terms, describing fear, confusion or amazement. Officials responded in practical language centred on known aerial activity.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/netKlkFvEbM" title="Alien Contact: The Pascagoula UFO Encounter (2020) [Documentary] 👽 Calvin Parker’s UFO Encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=netKlkFvEbM" target="_blank" rel="noopener noreferrer">Alien Contact: The Pascagoula UFO Encounter (2020) [Documentary] 👽 Calvin Parker’s UFO Encounter</a></p><p class="youtube-embed-meta">Channel: CiNENET - Full movies in English &middot; Views: 5.8K &middot; Uploaded: January 2025 &middot; Length: 1 hour 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=netKlkFvEbM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=netKlkFvEbM">Open on YouTube</a></p></div></div></div>
 
 ### The weather balloon explanation
@@ -286,7 +283,6 @@ The most important feature of the 9 October surge was the immediate disagreement
 One of the earliest explanations came from local authorities and Ball State University observatory director Newton Sprague, who suggested that weather balloons could account for at least some reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exonews.org/ufo-mania-hit-muncie-hard-in-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exonews.org">[Exo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exonews.org</span><span class="citation-popover-title">ufo mania hit muncie hard in 1973</span><span class="citation-popover-snippet">Exo NewsUFO Mania Hit Muncie Hard in 1973In October, 1973, The Muncie Star, in Muncie... For several days in a row, Muncie newspaper rea...</span></span></span>
 
 That explanation was plausible for several reasons:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -300,7 +296,6 @@ Indiana newspapers had already reported another recent UFO scare north of Indian
 
 However, the balloon theory did not satisfy many witnesses. Some residents argued that the lights changed direction too sharply or moved too quickly for drifting balloons. Others insisted the objects appeared lower and more structured than a balloon would. Because the reports varied significantly from person to person, there was never a single explanation capable of addressing every claim at once.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fASFV3vC4Uo" title="SYND 15/10/73 UFO SPOTTED IN THE SKIES OVER OHIO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fASFV3vC4Uo" target="_blank" rel="noopener noreferrer">SYND 15/10/73 UFO SPOTTED IN THE SKIES OVER OHIO</a></p><p class="youtube-embed-meta">Channel: AP Archive &middot; Views: 4.4K &middot; Uploaded: July 2015 &middot; Length: 1 minute 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fASFV3vC4Uo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fASFV3vC4Uo">Open on YouTube</a></p></div></div></div>
 
 ### Helicopters and military aircraft
@@ -308,7 +303,6 @@ However, the balloon theory did not satisfy many witnesses. Some residents argue
 Another explanation soon emerged involving Indiana National Guard helicopters. Reports later collected from newspaper coverage indicate that helicopters were blamed for another burst of sightings only days after the original 9 October surge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exonews.org/ufo-mania-hit-muncie-hard-in-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exonews.org">[Exo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exonews.org</span><span class="citation-popover-title">ufo mania hit muncie hard in 1973</span><span class="citation-popover-snippet">Exo NewsUFO Mania Hit Muncie Hard in 1973In October, 1973, The Muncie Star, in Muncie... For several days in a row, Muncie newspaper rea...</span></span></span>
 
 Helicopters made sense as an explanation because:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -322,14 +316,12 @@ In some cases, witnesses may have combined genuine aircraft observations with ex
 
 At the same time, police responses were cautious rather than openly dismissive. Officers generally avoided declaring that witnesses were fabricating stories. Instead, they acknowledged that people had seen something real in the sky while arguing that the object had likely been misidentified. That distinction helped preserve public interest. Residents could feel taken seriously without authorities endorsing extraterrestrial explanations.
 
-
-<img src="{{ "/assets/images/Indiana_5d00be_muncie_1973_flap_995554_october_9_muncie_sur_727599-Illustration-2-light.svg" | relative_url }}" alt="9 October surge illustration 2" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_muncie_1973_flap_995554_october_9_muncie_sur_727599-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_muncie_1973_flap_995554_october_9_muncie_sur_727599-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Indiana_5d00be_muncie_1973_flap_995554_october_9_muncie_sur_727599-Illustration-2-dark.svg" | relative_url }}" alt="9 October surge illustration 2" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_muncie_1973_flap_995554_october_9_muncie_sur_727599-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_muncie_1973_flap_995554_october_9_muncie_sur_727599-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why the descriptions stayed vague
 
 One striking aspect of the 9 October reports is how few contained detailed physical descriptions. Most accounts focused on lights rather than solid craft. This matters because distant lights are among the hardest aerial phenomena to identify accurately.
 
 Human perception at night is vulnerable to several distortions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -355,14 +347,12 @@ Third, the official explanations themselves helped sustain public fascination. W
 
 Finally, the timing connected Muncie to the broader American UFO wave of 1973. Reports from Indiana arrived alongside famous national cases such as the Pascagoula incident in Mississippi, where two men claimed alien abduction only days later. Newspapers treated these stories as part of a wider pattern, encouraging readers to see Muncie as one piece of a national mystery rather than an isolated local misunderstanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://exonews.org/ufo-mania-hit-muncie-hard-in-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exonews.org">[Exo News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exonews.org</span><span class="citation-popover-title">ufo mania hit muncie hard in 1973</span><span class="citation-popover-snippet">Exo NewsUFO Mania Hit Muncie Hard in 1973In October, 1973, The Muncie Star, in Muncie... For several days in a row, Muncie newspaper rea...</span></span></span>
 
-
-<img src="{{ "/assets/images/Indiana_5d00be_muncie_1973_flap_995554_october_9_muncie_sur_727599-Illustration-3-light.svg" | relative_url }}" alt="9 October surge illustration 3" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_muncie_1973_flap_995554_october_9_muncie_sur_727599-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_muncie_1973_flap_995554_october_9_muncie_sur_727599-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Indiana_5d00be_muncie_1973_flap_995554_october_9_muncie_sur_727599-Illustration-3-dark.svg" | relative_url }}" alt="9 October surge illustration 3" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_muncie_1973_flap_995554_october_9_muncie_sur_727599-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_muncie_1973_flap_995554_october_9_muncie_sur_727599-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How later interpretations changed the picture
 
 Later historical treatments of the Muncie flap became noticeably more sceptical than the reporting published during October 1973 itself. Archivists and local historians reviewing the episode decades later pointed out that many sightings likely involved ordinary aerial objects viewed under unusual conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipm.org/show/journeyindiana/2026-04-27/close-encounters-of-the-muncie-kind-the-muncie-ufo-mania-of-1973" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipm.org">[Indiana Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipm.org</span><span class="citation-popover-title">close encounters of the muncie kind the muncie ufo mania of 1973</span><span class="citation-popover-snippet">Indiana Public MediaThe 1973 Muncie UFO Sightings: Indiana&#x27;s Alien ManiaApr 27, 2026 — In 1973, the skies over Muncie, Indiana lit up wit...</span></span></span>
 
 Some later explanations included:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -377,9 +367,7 @@ That reassessment weakened the case for a genuinely unexplained aerial event, bu
 
 The strongest historical conclusion is therefore not that Muncie experienced confirmed extraterrestrial activity, but that the city became an unusually vivid example of the 1973 American UFO wave at work in real time. The 9 October surge showed how ordinary lights in the sky, once filtered through public anxiety and intense attention, could become one of Indiana’s most enduring UFO stories.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HprgyW7QsYQ" title="PASCAGOULA 73 Official Trailer (2025) Alien Abduction Documentary Film 4K" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HprgyW7QsYQ" target="_blank" rel="noopener noreferrer">PASCAGOULA 73 Official Trailer (2025) Alien Abduction Documentary Film 4K</a></p><p class="youtube-embed-meta">Channel: MovieGasm‍․com &middot; Views: 39.6K &middot; Uploaded: January 2025 &middot; Length: 2 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HprgyW7QsYQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HprgyW7QsYQ">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iDdwVtXNCiY" title="UFOs 1973: Aliens, Abductions and Extraordinary Sightings (2010)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iDdwVtXNCiY" target="_blank" rel="noopener noreferrer">UFOs 1973: Aliens, Abductions and Extraordinary Sightings (2010)</a></p><p class="youtube-embed-meta">Channel: Jack Grimes &middot; Views: 82 &middot; Uploaded: May 2025 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iDdwVtXNCiY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iDdwVtXNCiY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -467,7 +455,7 @@ The strongest historical conclusion is therefore not that Muncie experienced con
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -477,111 +465,36 @@ The strongest historical conclusion is therefore not that Muncie experienced con
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-muncie-see-on-9-october-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-muncie-see-on-9-october-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-muncie-see-on-9-october-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-muncie-see-on-9-october-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-muncie-see-on-9-october-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-muncie-see-on-9-october-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-muncie-see-on-9-october-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-muncie-see-on-9-october-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -589,15 +502,15 @@ The strongest historical conclusion is therefore not that Muncie experienced con
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-muncie-see-on-9-october-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-muncie-see-on-9-october-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-muncie-see-on-9-october-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-muncie-see-on-9-october-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-muncie-see-on-9-october-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-muncie-see-on-9-october-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-muncie-see-on-9-october-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-muncie-see-on-9-october-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -605,15 +518,15 @@ The strongest historical conclusion is therefore not that Muncie experienced con
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-muncie-see-on-9-october-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-muncie-see-on-9-october-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-muncie-see-on-9-october-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-muncie-see-on-9-october-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-muncie-see-on-9-october-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-muncie-see-on-9-october-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-muncie-see-on-9-october-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-muncie-see-on-9-october-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -621,15 +534,15 @@ The strongest historical conclusion is therefore not that Muncie experienced con
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-muncie-see-on-9-october-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-muncie-see-on-9-october-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-muncie-see-on-9-october-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-muncie-see-on-9-october-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-muncie-see-on-9-october-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-muncie-see-on-9-october-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-muncie-see-on-9-october-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-muncie-see-on-9-october-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -637,7 +550,7 @@ The strongest historical conclusion is therefore not that Muncie experienced con
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=9-october-surge-what-did-muncie-see-on-9-october-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-muncie-see-on-9-october-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-muncie-see-on-9-october-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -714,17 +627,31 @@ The strongest historical conclusion is therefore not that Muncie experienced con
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -737,42 +664,73 @@ The strongest historical conclusion is therefore not that Muncie experienced con
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -787,12 +745,17 @@ The strongest historical conclusion is therefore not that Muncie experienced con
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -803,34 +766,34 @@ The strongest historical conclusion is therefore not that Muncie experienced con
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Pascagoula incident  
-   Link: [https://en.wikipedia.org/wiki/Pascagoula_incident](https://en.wikipedia.org/wiki/Pascagoula_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pascagoula_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Possible interpretations of UFO reports  
-   Link: [https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports](https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports)  
+   Link: <a href="https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ipm.org  
    Title: close encounters of the muncie kind the muncie ufo mania of 1973  
-   Link: [https://www.ipm.org/show/journeyindiana/2026-04-27/close-encounters-of-the-muncie-kind-the-muncie-ufo-mania-of-1973](https://www.ipm.org/show/journeyindiana/2026-04-27/close-encounters-of-the-muncie-kind-the-muncie-ufo-mania-of-1973)  
+   Link: <a href="https://www.ipm.org/show/journeyindiana/2026-04-27/close-encounters-of-the-muncie-kind-the-muncie-ufo-mania-of-1973" target="_blank" rel="noopener noreferrer nofollow">https://www.ipm.org/show/journeyindiana/2026-04-27/close-encounters-of-the-muncie-kind-the-muncie-ufo-mania-of-1973</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Indiana Public MediaThe 1973 Muncie UFO Sightings: Indiana&#x27;s Alien ManiaApr 27, 2026 — In 1973, the skies over Muncie, Indiana lit up wit...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: exonews.org  
    Title: ufo mania hit muncie hard in 1973  
-   Link: [https://exonews.org/ufo-mania-hit-muncie-hard-in-1973/](https://exonews.org/ufo-mania-hit-muncie-hard-in-1973/)  
+   Link: <a href="https://exonews.org/ufo-mania-hit-muncie-hard-in-1973/" target="_blank" rel="noopener noreferrer nofollow">https://exonews.org/ufo-mania-hit-muncie-hard-in-1973/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exo NewsUFO Mania Hit Muncie Hard in 1973In October, 1973, The Muncie Star, in Muncie... For several days in a row, Muncie newspaper rea...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: onlyinyourstate.com  
-   Link: [https://www.onlyinyourstate.com/state-pride/indiana/ufos-flap-in-in](https://www.onlyinyourstate.com/state-pride/indiana/ufos-flap-in-in)  
+   Link: <a href="https://www.onlyinyourstate.com/state-pride/indiana/ufos-flap-in-in" target="_blank" rel="noopener noreferrer nofollow">https://www.onlyinyourstate.com/state-pride/indiana/ufos-flap-in-in</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Only In Your StateIn 1973, UFO Sightings In Indiana Rose To Crescendo1 Jan 2024 — Suddenly, a strange call came in: someone in Delaware C...</p></details>
 
 ### Additional References
@@ -838,62 +801,62 @@ The strongest historical conclusion is therefore not that Muncie experienced con
 7. <a id="endnote-7"></a>
    Source: facebook.com  
    Title: in october 1973 muncie was struck by a bizarre string of ufo sightings resident  
-   Link: [https://www.facebook.com/journeyindianatv/posts/-in-october-1973-muncie-was-struck-by-a-bizarre-string-of-ufo-sightings-resident/1478517433941150/](https://www.facebook.com/journeyindianatv/posts/-in-october-1973-muncie-was-struck-by-a-bizarre-string-of-ufo-sightings-resident/1478517433941150/)  
+   Link: <a href="https://www.facebook.com/journeyindianatv/posts/-in-october-1973-muncie-was-struck-by-a-bizarre-string-of-ufo-sightings-resident/1478517433941150/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/journeyindianatv/posts/-in-october-1973-muncie-was-struck-by-a-bizarre-string-of-ufo-sightings-resident/1478517433941150/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>🛸👽 In October 1973, Muncie was struck by a bizarre string...In October 1973, Muncie was struck by a bizarre string of UFO sightings. Res...</p></details>
    Published: october 1973  
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: part 1 of 7 in 1973 the skies over muncie indiana lit up with mysterious lights  
-   Link: [https://www.facebook.com/journeyindianatv/posts/part-1-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights-/1477202747405952/](https://www.facebook.com/journeyindianatv/posts/part-1-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights-/1477202747405952/)  
+   Link: <a href="https://www.facebook.com/journeyindianatv/posts/part-1-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights-/1477202747405952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/journeyindianatv/posts/part-1-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights-/1477202747405952/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1973, the skies over Muncie, Indiana lit up...29 Oct 2025 — Part 1 of 7. In 1973, the skies over Muncie, Indiana lit up with mysterio...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
    Title: part 1 of 7 in 1973 the skies over muncie indiana lit up with mysterious lights  
-   Link: [https://www.facebook.com/journeyindianatv/videos/part-1-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights-/806094319008989/](https://www.facebook.com/journeyindianatv/videos/part-1-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights-/806094319008989/)  
+   Link: <a href="https://www.facebook.com/journeyindianatv/videos/part-1-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights-/806094319008989/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/journeyindianatv/videos/part-1-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights-/806094319008989/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1973, the skies over Muncie, Indiana lit up...In 1973, the skies over Muncie, Indiana lit up with mysterious lights and unexplained s...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
    Title: part 2 of 7 in 1973 the skies over muncie indiana lit up with mysterious lights  
-   Link: [https://www.facebook.com/journeyindianatv/videos/-part-2-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights/1323677452227810/](https://www.facebook.com/journeyindianatv/videos/-part-2-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights/1323677452227810/)  
+   Link: <a href="https://www.facebook.com/journeyindianatv/videos/-part-2-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights/1323677452227810/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/journeyindianatv/videos/-part-2-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights/1323677452227810/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1973, the skies over Muncie, Indiana lit up with...In 1973, the skies over Muncie, Indiana lit up with mysterious lights and unexplai...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: part 6 of 7 in 1973 the skies over muncie indiana lit up with mysterious lights  
-   Link: [https://www.facebook.com/journeyindianatv/videos/part-6-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights-/1347511303501313/](https://www.facebook.com/journeyindianatv/videos/part-6-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights-/1347511303501313/)  
+   Link: <a href="https://www.facebook.com/journeyindianatv/videos/part-6-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights-/1347511303501313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/journeyindianatv/videos/part-6-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights-/1347511303501313/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1973, the skies over Muncie, Indiana lit up...Oct 29, 2025 — Part 6 of 7. In 1973, the skies over Muncie, Indiana lit up with mysteri...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: part 7 of 7 in 1973 the skies over muncie indiana lit up with mysterious lights  
-   Link: [https://www.facebook.com/journeyindianatv/videos/part-7-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights-/1303502494886581/](https://www.facebook.com/journeyindianatv/videos/part-7-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights-/1303502494886581/)  
+   Link: <a href="https://www.facebook.com/journeyindianatv/videos/part-7-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights-/1303502494886581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/journeyindianatv/videos/part-7-of-7-in-1973-the-skies-over-muncie-indiana-lit-up-with-mysterious-lights-/1303502494886581/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1973, the skies over Muncie, Indiana lit up...In 1973, the skies over Muncie, Indiana lit up with mysterious lights and unexplained s...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: in october 1973 muncie was struck by a bizarre string of ufo sightings this ufo  
-   Link: [https://www.facebook.com/journeyindianatv/posts/-in-october-1973-muncie-was-struck-by-a-bizarre-string-of-ufo-sightings-this-ufo/1399747885151439/](https://www.facebook.com/journeyindianatv/posts/-in-october-1973-muncie-was-struck-by-a-bizarre-string-of-ufo-sightings-this-ufo/1399747885151439/)  
+   Link: <a href="https://www.facebook.com/journeyindianatv/posts/-in-october-1973-muncie-was-struck-by-a-bizarre-string-of-ufo-sightings-this-ufo/1399747885151439/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/journeyindianatv/posts/-in-october-1973-muncie-was-struck-by-a-bizarre-string-of-ufo-sightings-this-ufo/1399747885151439/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Journey IndianaIn October 1973, Muncie was struck by a bizarre string of UFO sightings. This UFO mania became so well-known that it even...</p></details>
    Published: october 1973  
 
 14. <a id="endnote-14"></a>
    Source: pbs.org  
    Title: close encounters of the muncie kind the muncie ufo mania of 1973 99kdl6  
-   Link: [https://www.pbs.org/video/close-encounters-of-the-muncie-kind-the-muncie-ufo-mania-of-1973-99kdl6/](https://www.pbs.org/video/close-encounters-of-the-muncie-kind-the-muncie-ufo-mania-of-1973-99kdl6/)  
+   Link: <a href="https://www.pbs.org/video/close-encounters-of-the-muncie-kind-the-muncie-ufo-mania-of-1973-99kdl6/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/video/close-encounters-of-the-muncie-kind-the-muncie-ufo-mania-of-1973-99kdl6/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Journey Indiana | Close Encounters of the Muncie Kind: The...In 1973, the skies over Muncie, Indiana lit up with mysterious lights and u...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: freepress.org  
    Title: ohio against universe 50th anniversary ufo wave during halloween 1973  
-   Link: [https://freepress.org/article/ohio-against-universe-50th-anniversary-ufo-wave-during-halloween-1973](https://freepress.org/article/ohio-against-universe-50th-anniversary-ufo-wave-during-halloween-1973)  
+   Link: <a href="https://freepress.org/article/ohio-against-universe-50th-anniversary-ufo-wave-during-halloween-1973" target="_blank" rel="noopener noreferrer nofollow">https://freepress.org/article/ohio-against-universe-50th-anniversary-ufo-wave-during-halloween-1973</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>50th anniversary of the UFO wave during Halloween 197330 Oct 2023 — On an ink-stained night in late October 1973, sheriffs near Zanesvill...</p></details>
    Published: October 1973  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: close encounters of the muncie kind the muncie ufo mania of 73  
-   Link: [https://www.facebook.com/journeyindianatv/videos/close-encounters-of-the-muncie-kind-the-muncie-ufo-mania-of-73/9846320908807048/](https://www.facebook.com/journeyindianatv/videos/close-encounters-of-the-muncie-kind-the-muncie-ufo-mania-of-73/9846320908807048/)  
+   Link: <a href="https://www.facebook.com/journeyindianatv/videos/close-encounters-of-the-muncie-kind-the-muncie-ufo-mania-of-73/9846320908807048/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/journeyindianatv/videos/close-encounters-of-the-muncie-kind-the-muncie-ufo-mania-of-73/9846320908807048/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>🛸👽 In 1973, the skies over Muncie, Indiana lit up with...In 1973, the skies over Muncie, Indiana lit up with mysterious lights and unexp...</p></details>

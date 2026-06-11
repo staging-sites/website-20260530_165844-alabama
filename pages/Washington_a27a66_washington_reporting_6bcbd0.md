@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-washington-shaped-ufo-history/
 nav_short_title: Report Clusters
 title: Why Washington Keeps Reporting UFOs
-title_full: Why Washington Keeps Reporting UFOs | Washington UFOs
+title_full: Why Washington Keeps Reporting UFOs
 display_title_short: Report Clusters
 display_title: Report Clusters
 heading_title: Why Washington Keeps Reporting UFOs
@@ -262,15 +262,14 @@ image: /assets/images/Washington_a27a66_washington_reporting_6bcbd0-overview-soc
 
 ## Introduction
 
-[Washington]({{ 'why-washington-shaped-ufo-history/' | relative_url }}) keeps reporting UFOs because it combines a famous origin story, a large sky-watching population, varied terrain, busy aviation corridors, military airspace, and an unusually visible civilian reporting culture. The state is not simply “where flying saucers began” with Kenneth Arnold in 1947; it is also one of the clearest examples of how modern UFO history is built from thousands of small public reports rather than a few landmark cases. NUFORC’s current location index lists 7,634 Washington reports, while earlier per-capita analyses placed Washington at or near the top nationally for UFO reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location</span><span class="citation-popover-snippet">NUFOR C Reports by Location</span></span></span>
-
+Washington keeps reporting UFOs because it combines a famous origin story, a large sky-watching population, varied terrain, busy aviation corridors, military airspace, and an unusually visible civilian reporting culture. The state is not simply “where flying saucers began” with Kenneth Arnold in 1947; it is also one of the clearest examples of how modern UFO history is built from thousands of small public reports rather than a few landmark cases. NUFORC’s current location index lists 7,634 Washington reports, while earlier per-capita analyses placed Washington at or near the top nationally for UFO reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports by Location</span><span class="citation-popover-snippet">NUFOR C Reports by Location</span></span></span>
 
 <img src="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0-overview.webp" | relative_url }}" alt="Overview image for Report Clusters" loading="eager" decoding="sync" fetchpriority="high">
 That does not mean Washington has proved anything extraordinary. Civilian databases are best read as evidence of reporting behaviour, repeated observation conditions, and unresolved witness claims. They show where and when people say they saw something, but they rarely supply the radar, calibrated imagery or physical evidence needed to turn a sighting into a firm conclusion. The value of these databases is therefore practical: they help separate genuine clusters from folklore, recurring misidentifications from stronger cases, and state-level patterns from isolated anecdotes.
 
 ## What civilian databases add
 
-Civilian UFO databases matter in Washington because they preserve the ordinary reports that official case histories usually ignore. NUFORC, based in Davenport, Washington, presents itself as a public archive for UFO and UAP witness reports, with entries that can be browsed by date, location, shape and map view. Its databank describes itself as a large independently collected set of UFO or UAP sighting reports available online, and its Washington page shows the uneven, highly local texture of the archive: Seattle, Tacoma, Spokane, Bremerton, Bothell, Auburn and smaller towns all appear in recent and historical entries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Data Bank | NUFORC</span></span></span>
+Civilian UFO databases matter in Washington because they preserve the ordinary reports that official case histories usually ignore. NUFORC, based in Davenport, Washington, presents itself as a public archive for UFO and UAP witness reports, with entries that can be browsed by date, location, shape and map view. Its databank describes itself as a large independently collected set of UFO or UAP sighting reports available online, and its Washington page shows the uneven, highly local texture of the archive: Seattle, Tacoma, Spokane, Bremerton, Bothell, Auburn and smaller towns all appear in recent and historical entries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC</span></span></span>
 
 The most important thing these records add is continuity. Famous Washington cases such as Kenneth Arnold near Mount Rainier or the disputed [Maury Island]({{ 'maury-island/' | relative_url }}) story dominate public memory, but civilian databases show that the state’s UFO profile did not end in 1947. The reports continue through suburbs, highways, mountain towns, coastal areas and eastern Washington communities. Some are brief “light in the sky” accounts; others describe triangular formations, hovering objects, chevrons, discs, fireballs, or changing lights. That breadth makes the database useful for pattern-finding, but it also warns against treating every report as equally strong.
 
@@ -278,8 +277,7 @@ The database format also exposes uncertainty that polished retellings often hide
 
 MUFON also has a Washington presence, with the state organisation saying it investigates sightings and collects data for the wider MUFON database. That gives Washington more than one civilian reporting pathway, although NUFORC is especially important to this state because of its public-facing archive and Washington location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mufonwa.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufonwa.org">[Official WASHINGTON State MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufonwa.org</span><span class="citation-popover-title">Official WASHINGTON State MUFONOfficial WA State MUFON</span><span class="citation-popover-snippet">Official WASHINGTON State MUFONOfficial WA State MUFON</span></span></span>
 
-
-<img src="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0-Illustration-1-light.svg" | relative_url }}" alt="Report Clusters illustration 1" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0-Illustration-1-dark.svg" | relative_url }}" alt="Report Clusters illustration 1" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the reports cluster
 
 Washington’s strongest civilian-reporting clusters are not mysterious dots in empty country. They tend to follow where people live, drive, work, fly and look up. A 2025 Stacker analysis using NUFORC data ranked Seattle first among Washington cities, with 763 sightings, followed by Spokane with 281, Vancouver with 240, Tacoma with 236 and Everett with 174. The next group included Bellingham, Yakima, Olympia, Bellevue and Bremerton. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/washington/cities-most-ufo-sightings-washington" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">cities most ufo sightings washington</span><span class="citation-popover-snippet">cities most ufo sightings washington</span></span></span>
@@ -289,7 +287,6 @@ That city ranking should not be read as a map of alien activity. It is at least 
 There is also a western-Washington effect. Puget Sound gives witnesses long sightlines over water, reflections, low cloud, aircraft approaches, ferry routes and military aviation. A light that is ordinary in origin can look more puzzling when seen across water, through haze, or against broken cloud. Eastern Washington offers a different pattern: darker skies, broader horizons, agricultural land, mountains, the Columbia Basin and military training routes. This does not make either side of the state more “UFO-prone” in a paranormal sense, but it does change what people notice and how confidently they can judge distance, speed and altitude.
 
 The clusters are therefore useful mainly as prompts for better questions. Are reports rising because something unusual is happening, or because more people are watching? Are they concentrated near airports, military training areas, seasonal events, satellite passes or meteor showers? Are multiple witnesses describing the same object from different places, or are separate reports being bundled into a false flap? Civilian databases help ask those questions, but they usually cannot answer them alone.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XvQgfsXXiC8" title="SpaceX Starlink satellites spotted over western Washington" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XvQgfsXXiC8" target="_blank" rel="noopener noreferrer">SpaceX Starlink satellites spotted over western Washington</a></p><p class="youtube-embed-meta">Channel: KING 5 Seattle &middot; Views: 15.7K &middot; Uploaded: February 2021 &middot; Length: 2 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XvQgfsXXiC8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XvQgfsXXiC8">Open on YouTube</a></p></div></div></div>
 
@@ -303,12 +300,10 @@ Military and aviation geography also matters. The Federal Aviation Administratio
 
 For Washington, that is a sensible lens rather than a ready-made answer. Joint Base Lewis-McChord, Naval Air Station Whidbey Island, the Puget Sound naval environment, Boeing-related aerospace activity, commercial airports, and military training routes all create conditions in which unfamiliar aircraft, flares, drones, formation flying or unusual approach paths may be noticed by civilians. The database may preserve a witness’s sincere uncertainty, but the surrounding airspace can still point towards ordinary explanations.
 
-
-<img src="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0-Illustration-2-light.svg" | relative_url }}" alt="Report Clusters illustration 2" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0-Illustration-2-dark.svg" | relative_url }}" alt="Report Clusters illustration 2" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Common triggers behind Washington reports
 
 Several recurring triggers are especially important when reading Washington database clusters:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -322,7 +317,6 @@ Several recurring triggers are especially important when reading Washington data
 
 None of these explanations should be forced onto a report without checking the details. They do, however, explain why a state can produce many sincere reports without those reports adding up to a single extraordinary conclusion.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ew3l9MJAFu4" title="WA, MT, VT top new list for most UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ew3l9MJAFu4" target="_blank" rel="noopener noreferrer">WA, MT, VT top new list for most UFO sightings</a></p><p class="youtube-embed-meta">Channel: FOX 35 Orlando &middot; Views: 25.7K &middot; Uploaded: July 2019 &middot; Length: 1 minute 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ew3l9MJAFu4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ew3l9MJAFu4">Open on YouTube</a></p></div></div></div>
 
 ## How to read clusters without overclaiming
@@ -335,11 +329,10 @@ Washington’s database record contains both kinds of material. Some entries are
 
 Government UAP material reinforces the same caution. AARO’s public imagery page includes cases resolved as birds or balloons, cases still under analysis, and unresolved cases, showing that “unidentified” can mean several different things: not yet analysed, insufficient data, probably ordinary, or genuinely unresolved after review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[Army Audit Readiness Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span> Washington’s civilian databases should be read with the same distinction in mind.
 
-
-<img src="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0-Illustration-3-light.svg" | relative_url }}" alt="Report Clusters illustration 3" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0-Illustration-3-dark.svg" | relative_url }}" alt="Report Clusters illustration 3" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Washington still stands out
 
-Washington stands out because its civilian record is large, persistent and historically resonant. NUFORC’s location index currently lists Washington with thousands of reports, and earlier analysis found the state leading the country in reports per capita. That combination gives Washington a stronger database footprint than many states with equally famous individual stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">File a UFO Report | NUFORC</span><span class="citation-popover-snippet">File a UFO Report | NUFORC</span></span></span>
+Washington stands out because its civilian record is large, persistent and historically resonant. NUFORC’s location index currently lists Washington with thousands of reports, and earlier analysis found the state leading the country in reports per capita. That combination gives Washington a stronger database footprint than many states with equally famous individual stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">File a UFO Report &#124; NUFORC</span><span class="citation-popover-snippet">File a UFO Report &#124; NUFORC</span></span></span>
 
 The state also has a feedback loop. Kenneth Arnold made Washington central to the modern UFO story; that history makes later reports feel more meaningful; local media periodically revisit the ranking data; and civilian databases make it easy for new witnesses to place their experience inside a larger pattern. A person in Seattle, Spokane or Tacoma who sees a strange light is not reporting into a vacuum. They are reporting from a state already known for UFO history.
 
@@ -353,9 +346,7 @@ For a reader trying to understand Washington’s UFO history, the databases are 
 
 Washington keeps reporting UFOs because the state gives people many reasons to look up and many ambiguous things to see. Its databases matter because they record that process in detail: not as a clean catalogue of mysteries solved or unsolved, but as a living record of how a sky-watching state turns lights, aircraft, weather, satellites and occasional genuinely puzzling observations into one of America’s most persistent UFO reporting profiles.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Zryy4k0ekSg" title="A UFO sighting in Kennewick? What one man&#x27;s camera captured" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Zryy4k0ekSg" target="_blank" rel="noopener noreferrer">A UFO sighting in Kennewick? What one man&#x27;s camera captured</a></p><p class="youtube-embed-meta">Channel: Apple Valley News Now - Official &middot; Views: 9.7K &middot; Uploaded: September 2022 &middot; Length: 2 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Zryy4k0ekSg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Zryy4k0ekSg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -779,219 +770,219 @@ Washington keeps reporting UFOs because the state gives people many reasons to l
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lWA](https://nuforc.org/subndx/?id=lWA)  
+   Link: <a href="https://nuforc.org/subndx/?id=lWA" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lWA</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=177297](https://nuforc.org/sighting/?id=177297)  
+   Link: <a href="https://nuforc.org/sighting/?id=177297" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=177297</a>  
 
 5. <a id="endnote-5"></a>
    Source: mufonwa.org  
    Title: Official WASHINGTON State MUFONOfficial WA State MUFON  
-   Link: [https://www.mufonwa.org/](https://www.mufonwa.org/)  
+   Link: <a href="https://www.mufonwa.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.mufonwa.org/</a>  
 
 6. <a id="endnote-6"></a>
    Source: stacker.com  
    Title: cities most ufo sightings washington  
-   Link: [https://stacker.com/stories/washington/cities-most-ufo-sightings-washington](https://stacker.com/stories/washington/cities-most-ufo-sightings-washington)  
+   Link: <a href="https://stacker.com/stories/washington/cities-most-ufo-sightings-washington" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/washington/cities-most-ufo-sightings-washington</a>  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
    Title: File a UFO Report | NUFORC  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
 
 8. <a id="endnote-8"></a>
    Source: rand.org  
-   Link: [https://www.rand.org/pubs/research_reports/RRA2475-1.html](https://www.rand.org/pubs/research_reports/RRA2475-1.html)  
+   Link: <a href="https://www.rand.org/pubs/research_reports/RRA2475-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/research_reports/RRA2475-1.html</a>  
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
    Title: Army Audit Readiness Office  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=99702](https://nuforc.org/sighting/?id=99702)  
+   Link: <a href="https://nuforc.org/sighting/?id=99702" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=99702</a>  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/gribble/](https://nuforc.org/gribble/)  
+   Link: <a href="https://nuforc.org/gribble/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/gribble/</a>  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lNH](https://nuforc.org/subndx/?id=lNH)  
+   Link: <a href="https://nuforc.org/subndx/?id=lNH" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNH</a>  
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lOR](https://nuforc.org/subndx/?id=lOR)  
+   Link: <a href="https://nuforc.org/subndx/?id=lOR" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lOR</a>  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=164134](https://nuforc.org/sighting/?id=164134)  
+   Link: <a href="https://nuforc.org/sighting/?id=164134" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=164134</a>  
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=144348](https://nuforc.org/sighting/?id=144348)  
+   Link: <a href="https://nuforc.org/sighting/?id=144348" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=144348</a>  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=197179](https://nuforc.org/sighting/?id=197179)  
+   Link: <a href="https://nuforc.org/sighting/?id=197179" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197179</a>  
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=all](https://nuforc.org/subndx/?id=all)  
+   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
 
 20. <a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=102706](https://nuforc.org/sighting/?id=102706)  
+   Link: <a href="https://nuforc.org/sighting/?id=102706" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=102706</a>  
 
 21. <a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=24106](https://nuforc.org/sighting/?id=24106)  
+   Link: <a href="https://nuforc.org/sighting/?id=24106" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=24106</a>  
 
 22. <a id="endnote-22"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=197410](https://nuforc.org/sighting/?id=197410)  
+   Link: <a href="https://nuforc.org/sighting/?id=197410" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197410</a>  
 
 23. <a id="endnote-23"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/about-us/](https://nuforc.org/about-us/)  
+   Link: <a href="https://nuforc.org/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/about-us/</a>  
 
 24. <a id="endnote-24"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=31137](https://nuforc.org/sighting/?id=31137)  
+   Link: <a href="https://nuforc.org/sighting/?id=31137" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=31137</a>  
 
 25. <a id="endnote-25"></a>
    Source: nuforc.org  
    Title: Highlighted NUFORC Reports City, State, Country, Shape,  
-   Link: [https://nuforc.org/subndx/?id=highlights](https://nuforc.org/subndx/?id=highlights)  
+   Link: <a href="https://nuforc.org/subndx/?id=highlights" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=highlights</a>  
 
 26. <a id="endnote-26"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=7983](https://nuforc.org/sighting/?id=7983)  
+   Link: <a href="https://nuforc.org/sighting/?id=7983" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=7983</a>  
 
 27. <a id="endnote-27"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lME](https://nuforc.org/subndx/?id=lME)  
+   Link: <a href="https://nuforc.org/subndx/?id=lME" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lME</a>  
 
 28. <a id="endnote-28"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=190375](https://nuforc.org/sighting/?id=190375)  
+   Link: <a href="https://nuforc.org/sighting/?id=190375" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190375</a>  
 
 29. <a id="endnote-29"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/histlnk/PD30Oct2015.pdf](https://nuforc.org/histlnk/PD30Oct2015.pdf)  
+   Link: <a href="https://nuforc.org/histlnk/PD30Oct2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/histlnk/PD30Oct2015.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=162337](https://nuforc.org/sighting/?id=162337)  
+   Link: <a href="https://nuforc.org/sighting/?id=162337" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=162337</a>  
 
 31. <a id="endnote-31"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=27457](https://nuforc.org/sighting/?id=27457)  
+   Link: <a href="https://nuforc.org/sighting/?id=27457" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=27457</a>  
 
 32. <a id="endnote-32"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=196441](https://nuforc.org/sighting/?id=196441)  
+   Link: <a href="https://nuforc.org/sighting/?id=196441" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=196441</a>  
 
 33. <a id="endnote-33"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=196984](https://nuforc.org/sighting/?id=196984)  
+   Link: <a href="https://nuforc.org/sighting/?id=196984" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=196984</a>  
 
 34. <a id="endnote-34"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=47976](https://nuforc.org/sighting/?id=47976)  
+   Link: <a href="https://nuforc.org/sighting/?id=47976" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=47976</a>  
 
 35. <a id="endnote-35"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=195616](https://nuforc.org/sighting/?id=195616)  
+   Link: <a href="https://nuforc.org/sighting/?id=195616" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=195616</a>  
 
 36. <a id="endnote-36"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=19612](https://nuforc.org/sighting/?id=19612)  
+   Link: <a href="https://nuforc.org/sighting/?id=19612" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=19612</a>  
 
 37. <a id="endnote-37"></a>
    Source: rand.org  
    Title: RAND RRA2475 1  
-   Link: [https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf)  
+   Link: <a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf</a>  
 
 38. <a id="endnote-38"></a>
    Source: rand.org  
    Title: not the x files  
-   Link: [https://www.rand.org/nsrd/news/nsrd-upfront/2023/12/not-the-x-files.html](https://www.rand.org/nsrd/news/nsrd-upfront/2023/12/not-the-x-files.html)  
+   Link: <a href="https://www.rand.org/nsrd/news/nsrd-upfront/2023/12/not-the-x-files.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/nsrd/news/nsrd-upfront/2023/12/not-the-x-files.html</a>  
 
 39. <a id="endnote-39"></a>
    Source: foxnews.com  
-   Link: [https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report](https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report)  
+   Link: <a href="https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report</a>  
 
 40. <a id="endnote-40"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
 
 ### Additional References
 
 41. <a id="endnote-41"></a>
    Source: youtube.com  
    Title: UFOs In American Culture: A History Of Intrigue And Denial  
-   Link: [https://www.youtube.com/watch?v=HhLI6W15nQU](https://www.youtube.com/watch?v=HhLI6W15nQU)  
+   Link: <a href="https://www.youtube.com/watch?v=HhLI6W15nQU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HhLI6W15nQU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Inspired Peter Davenport to become Director of the National UFO Reporting Center?...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: youtube.com  
    Title: Kenneth Arnold UFO Sighting The First UFOs  
-   Link: [https://www.youtube.com/watch?v=xLuHgsXGpqc](https://www.youtube.com/watch?v=xLuHgsXGpqc)  
+   Link: <a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xLuHgsXGpqc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs In American Culture: A History Of Intrigue And Denial...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: youtube.com  
    Title: A UFO sighting in Kennewick? What one man's camera captured  
-   Link: [https://www.youtube.com/watch?v=Zryy4k0ekSg](https://www.youtube.com/watch?v=Zryy4k0ekSg)  
+   Link: <a href="https://www.youtube.com/watch?v=Zryy4k0ekSg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Zryy4k0ekSg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
    Title: WA, MT, VT top new list for most UFO sightings  
-   Link: [https://www.youtube.com/watch?v=Ew3l9MJAFu4](https://www.youtube.com/watch?v=Ew3l9MJAFu4)  
+   Link: <a href="https://www.youtube.com/watch?v=Ew3l9MJAFu4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ew3l9MJAFu4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO sighting in Kennewick? What one man&#x27;s camera captured...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/viceuk/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1329936732337739/](https://www.facebook.com/viceuk/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1329936732337739/)  
+   Link: <a href="https://www.facebook.com/viceuk/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1329936732337739/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/viceuk/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1329936732337739/</a>  
 
 46. <a id="endnote-46"></a>
    Source: aiaa.org  
-   Link: [https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf](https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf)  
+   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
 
 47. <a id="endnote-47"></a>
    Source: medium.com  
-   Link: [https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151](https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151)  
+   Link: <a href="https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/data-analysis-everything-youve-ever-wanted-to-know-about-ufo-sightings-e16f2ed34151</a>  
 
 48. <a id="endnote-48"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CentralOregonDaily/posts/have-you-seen-a-ufo-stacker-compiled-a-ranking-of-cities-with-the-most-ufo-sight/1311998387598872/](https://www.facebook.com/CentralOregonDaily/posts/have-you-seen-a-ufo-stacker-compiled-a-ranking-of-cities-with-the-most-ufo-sight/1311998387598872/)  
+   Link: <a href="https://www.facebook.com/CentralOregonDaily/posts/have-you-seen-a-ufo-stacker-compiled-a-ranking-of-cities-with-the-most-ufo-sight/1311998387598872/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CentralOregonDaily/posts/have-you-seen-a-ufo-stacker-compiled-a-ranking-of-cities-with-the-most-ufo-sight/1311998387598872/</a>  
 
 49. <a id="endnote-49"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1rq1nn0/map_shows_states_with_the_most_ufo_sightings/](https://www.reddit.com/r/UFOs/comments/1rq1nn0/map_shows_states_with_the_most_ufo_sightings/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1rq1nn0/map_shows_states_with_the_most_ufo_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rq1nn0/map_shows_states_with_the_most_ufo_sightings/</a>  
 
 50. <a id="endnote-50"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/](https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/)  
+   Link: <a href="https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/</a>

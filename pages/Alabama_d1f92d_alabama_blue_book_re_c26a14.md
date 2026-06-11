@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-are-alabamas-most-significant-ufo/
 nav_short_title: Project Blue Book
 title: What Do Alabama’s UFO Files Reveal About Official Investigations?
-title_full: What Do Alabama’s UFO Files Reveal About Official Investigations? | Alabama UFOs
+title_full: What Do Alabama’s UFO Files Reveal About Official Investigations?
 display_title_short: Project Blue Book
 display_title: Project Blue Book
 heading_title: What Do Alabama’s UFO Files Reveal About Official Investigations?
@@ -262,8 +262,7 @@ image: /assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14-overview-social
 
 ## Introduction
 
-[Alabama]({{ 'what-are-alabamas-most-significant-ufo/' | relative_url }})’s Project Blue Book story is not just about sightings in the sky. It is also about paperwork: witness statements, Air Force forms, intelligence summaries, photographs, microfilm, indexes and later archive copies that allow some reports to be checked rather than merely retold. The most important point is that Alabama sits on both sides of the record trail. Some Alabama incidents, including Montgomery and Auburn-area reports, appear in Blue Book material; and after the Air Force ended the project in 1969, the records were to be retired to the USAF Archives at Maxwell Air Force Base in Alabama before becoming part of the National Archives research record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
-
+Alabama’s Project Blue Book story is not just about sightings in the sky. It is also about paperwork: witness statements, Air Force forms, intelligence summaries, photographs, microfilm, indexes and later archive copies that allow some reports to be checked rather than merely retold. The most important point is that Alabama sits on both sides of the record trail. Some Alabama incidents, including Montgomery and Auburn-area reports, appear in Blue Book material; and after the Air Force ended the project in 1969, the records were to be retired to the USAF Archives at Maxwell Air Force Base in Alabama before becoming part of the National Archives research record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 <img src="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14-overview.webp" | relative_url }}" alt="Overview image for Project Blue Book" loading="eager" decoding="sync" fetchpriority="high">
 That makes the Alabama file trail unusually useful. It does not prove that extraordinary craft visited the state. It shows how official investigators received reports, narrowed many of them into ordinary explanations, left some poorly resolved, and preserved enough documentation for later readers to see both the strengths and weaknesses of the process. For Alabama UFO history, the archives are therefore less a box of answers than a record of how official uncertainty was managed.
@@ -276,8 +275,7 @@ That matters because Maxwell was not the original centre of Blue Book operations
 
 For readers trying to understand Alabama’s place in official UFO history, this is a crucial distinction. Maxwell does not mean that Alabama was the secret headquarters of UFO investigation. It means Alabama became part of the afterlife of the investigation: the preservation, access and later indexing of the federal files. That archival role is more modest than the mythology, but it is more useful for evidence. It is why researchers can still trace how Alabama sightings were written up, cross-referenced and sometimes explained.
 
-
-<img src="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14-Illustration-1-light.svg" | relative_url }}" alt="Project Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14-Illustration-1-dark.svg" | relative_url }}" alt="Project Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the National Archives says is actually in Blue Book
 
 The National Archives describes the Blue Book textual records as three main bodies of material: about 2 cubic feet of unarranged project or administrative files, 37 cubic feet of chronological case files, and 3 cubic feet of Office of Special Investigations material. It also notes that a cubic foot of records is roughly 2,000 pages, so the collection represents a very large paper trail rather than a small curated selection of famous cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
@@ -287,7 +285,6 @@ The key access format is microfilm publication T-1206. The National Archives say
 This structure shapes how Alabama reports are found. A researcher is usually not starting with a dramatic case title. They are more likely to search by place and date: Montgomery, Auburn, Birmingham, Alabama, a month, a roll number, or an incident listing. That is why digitised indexes and commercial/public scans are useful but imperfect. Fold3’s Project Blue Book publication, for example, identifies the record set as NARA T1206 and lists 129,658 records, while the Internet Archive’s Blue Book indexes page describes indexes extracted from redacted National Archives microfilm and from unredacted copies originally held at Maxwell and later rediscovered at the National Archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-title">US, Project Blue Book</span><span class="citation-popover-snippet">US, Project Blue Book</span></span></span>
 
 The files were not only paper. The National Archives also lists still pictures relating to alleged UFO sightings collected for Project Blue Book by the Aerial Phenomena Branch, Foreign Technology Division, US Air Force, covering 1954–66. That matters for Alabama because it shows that visual evidence, where it existed, was treated as a separate archival stream as well as being scattered through case files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UKzI3uu_oTQ" title="Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 393.5K &middot; Uploaded: March 2019 &middot; Length: 2 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UKzI3uu_oTQ">Open on YouTube</a></p></div></div></div>
 
@@ -301,8 +298,7 @@ Another Alabama example appears in Edward J. Ruppelt’s account of the early Bl
 
 A separate Montgomery example survives through a public collection page for “Sighting of Unidentified Flying Object on 21 August 1948 at Montgomery, Alabama”, which identifies the item as copies of Project Blue Book documentation available on National Archives microfilm T1206, roll 90, held in the Richard F. Haines papers at the American Heritage Center. This is a useful reminder that Alabama Blue Book material may now appear in more than one research environment: National Archives microfilm, digitised record sets, private researcher papers and institutional collections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyominghistoryday.org/theme-topics/collections/items/sighting-unidentified-flying-object-21-august-1948-montgomery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyominghistoryday.org">[Wyoming History Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyominghistoryday.org</span><span class="citation-popover-title">sighting unidentified flying object 21 august 1948 montgomery</span><span class="citation-popover-snippet">sighting unidentified flying object 21 august 1948 montgomery</span><span class="citation-popover-meta">Published: august 1948</span></span></span>
 
-
-<img src="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14-Illustration-2-light.svg" | relative_url }}" alt="Project Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14-Illustration-2-dark.svg" | relative_url }}" alt="Project Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the forms and summaries leave out
 
 Blue Book files can look authoritative because they are official, but official does not mean complete. Ruppelt himself wrote that only the best reports could be personally investigated by Blue Book personnel in the field. The vast majority, he said, had to be evaluated from what a local intelligence officer had written, what could be gathered by telephone, or what came back through a questionnaire. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -312,7 +308,6 @@ That limitation is central to reading Alabama’s files fairly. A conclusion suc
 The Office of Special Investigations connection also shows why some reports were treated as security paperwork rather than purely scientific observation. The OSI history office notes that OSI agents documented and investigated UFO sightings from 1948 into the late 1960s, and frames the Cold War concern as partly about possible Soviet origin rather than alien visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[OSCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-snippet">Project Blue Book Part 1 (UFO Reports) &gt; Office of Special Investigations &gt; Display...</span></span></span> That helps explain the tone of many files: practical, terse and security-minded, not written as open-ended scientific case studies.
 
 For Alabama readers, this means the files should be used as evidence of reporting and evaluation, not as final proof of what was physically present in the sky. The paperwork can show that a report was received, who handled it, what explanation was proposed, and how confident the Air Force appeared to be. It usually cannot reconstruct every perception, local rumour, media distortion or later retelling.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHeZjJgO9Ns" title="UFO Project Blue Book at National Archives Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer">UFO Project Blue Book at National Archives Museum</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 352.6K &middot; Uploaded: December 2019 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHeZjJgO9Ns">Open on YouTube</a></p></div></div></div>
 
@@ -326,8 +321,7 @@ At the same time, the existence of the files weakens an overly dismissive readin
 
 That tension is the heart of the archive. Blue Book was both an investigation and a filtering system. It was designed to identify threats and reduce uncertainty, not to build a folklore record or satisfy every witness. Alabama’s reports sit inside that same system.
 
-
-<img src="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14-Illustration-3-light.svg" | relative_url }}" alt="Project Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14-Illustration-3-dark.svg" | relative_url }}" alt="Project Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read an Alabama Blue Book entry without overclaiming
 
 A careful reader should treat each Alabama file as a layered document rather than a simple verdict. The sighting description is one layer. The witness quality is another. The local conditions — time, weather, direction, nearby air traffic, astronomical objects, military activity — are another. The Air Force conclusion is a final administrative layer, not necessarily the whole truth of the event.
@@ -341,7 +335,6 @@ Several practical questions help separate strong records from weak ones:
 * **Does the conclusion match the data?** A “probably” explanation is not the same as a demonstrated explanation, and “insufficient data” is not the same as “unknown craft”.
 
 The Auburn examples show why this discipline matters. A stationary bright object near sunset can plausibly fit an astronomical explanation; a silver object seen over a broader Auburn–Columbus area can plausibly fit a balloon, especially where some witnesses reportedly said the same. Those conclusions are not spectacular, but they are exactly how many state-level UFO records become clearer when read through the files rather than through retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book%2C_BBA-PBSR9-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Commons The Project Blue Book Archive</span><span class="citation-popover-snippet">Commons The Project Blue Book Archive</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2j2YPSSQLQM" title="Project Blue Book UFO Files: 15 True Declassified Cases | Fall Asleep to UFO Stories (Episode 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2j2YPSSQLQM" target="_blank" rel="noopener noreferrer">Project Blue Book UFO Files: 15 True Declassified Cases | Fall Asleep to UFO Stories (Episode 2)</a></p><p class="youtube-embed-meta">Channel: Dreams of Disclosure &middot; Views: 41.3K &middot; Uploaded: October 2025 &middot; Length: 5 hours 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2j2YPSSQLQM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2j2YPSSQLQM">Open on YouTube</a></p></div></div></div>
 
@@ -439,7 +432,7 @@ The best evidence-led reading is cautious. Alabama’s Project Blue Book materia
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -449,111 +442,36 @@ The best evidence-led reading is cautious. Alabama’s Project Blue Book materia
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/HvAAAOSw08Vk5SIm/s-l225.jpg" alt="Listing image for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -561,15 +479,15 @@ The best evidence-led reading is cautious. Alabama’s Project Blue Book materia
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55"><img src="https://i.ebayimg.com/images/g/2G0AAOSwjIpgTIcl/s-l225.jpg" alt="Listing image for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -577,15 +495,15 @@ The best evidence-led reading is cautious. Alabama’s Project Blue Book materia
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed."><img src="https://i.ebayimg.com/images/g/GWYAAeSwgidpwAEt/s-l225.jpg" alt="Listing image for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -593,15 +511,15 @@ The best evidence-led reading is cautious. Alabama’s Project Blue Book materia
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/MykAAOSwkRVk5Rd3/s-l225.jpg" alt="Listing image for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -609,7 +527,7 @@ The best evidence-led reading is cautious. Alabama’s Project Blue Book materia
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=project-blue-book-what-do-alabama-s-ufo-files-reveal-about-official-investigations-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book poster" data-ebay-reference="what-do-alabama-s-ufo-files-reveal-about-official-investigations-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -686,17 +604,31 @@ The best evidence-led reading is cautious. Alabama’s Project Blue Book materia
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -709,42 +641,73 @@ The best evidence-led reading is cautious. Alabama’s Project Blue Book materia
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -759,12 +722,17 @@ The best evidence-led reading is cautious. Alabama’s Project Blue Book materia
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -775,235 +743,235 @@ The best evidence-led reading is cautious. Alabama’s Project Blue Book materia
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 2. <a id="endnote-2"></a>
    Source: esd.whs.mil  
    Title: Defense Logistics Agency  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/asdpa1.pdf?ver=2017-05-22-113454-807](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/asdpa1.pdf?ver=2017-05-22-113454-807)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/asdpa1.pdf?ver=2017-05-22-113454-807" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/asdpa1.pdf?ver=2017-05-22-113454-807</a>  
 
 3. <a id="endnote-3"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: fold3.com  
    Title: US, Project Blue Book  
-   Link: [https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969](https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969)  
+   Link: <a href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969</a>  
 
 5. <a id="endnote-5"></a>
    Source: archive.org  
    Title: Project Blue Book Indexes  
-   Link: [https://archive.org/details/ProjectBlueBookIndexes](https://archive.org/details/ProjectBlueBookIndexes)  
+   Link: <a href="https://archive.org/details/ProjectBlueBookIndexes" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/ProjectBlueBookIndexes</a>  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Guide to the Still Picture Branch Holdings | National Archives  
-   Link: [https://www.archives.gov/research/guides/still-pictures-guide](https://www.archives.gov/research/guides/still-pictures-guide)  
+   Link: <a href="https://www.archives.gov/research/guides/still-pictures-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guides/still-pictures-guide</a>  
 
 7. <a id="endnote-7"></a>
    Source: upload.wikimedia.org  
    Title: Commons The Project Blue Book Archive  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book%2C_BBA-PBSR9-300.pdf](https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book%2C_BBA-PBSR9-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book%2C_BBA-PBSR9-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/c/cd/Project_Blue_Book%2C_BBA-PBSR9-300.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
 
 9. <a id="endnote-9"></a>
    Source: osi.af.mil  
-   Link: [https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/](https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/)  
+   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Part 1 (UFO Reports) &gt; Office of Special Investigations &gt; Display...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sgp.fas.org  
-   Link: [https://sgp.fas.org/library/ciaufo.html](https://sgp.fas.org/library/ciaufo.html)  
+   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
 
 11. <a id="endnote-11"></a>
    Source: prologue.blogs.archives.gov  
-   Link: [https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf](https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf)  
+   Link: <a href="https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: [https://unwritten-record.blogs.archives.gov/2014/04/page/2/](https://unwritten-record.blogs.archives.gov/2014/04/page/2/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2014/04/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2014/04/page/2/</a>  
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
    Title: accessioned records dc fy13  
-   Link: [https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf](https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf)  
+   Link: <a href="https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/preservation/technical/imaging-storage-appendix.html](https://www.archives.gov/preservation/technical/imaging-storage-appendix.html)  
+   Link: <a href="https://www.archives.gov/preservation/technical/imaging-storage-appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/preservation/technical/imaging-storage-appendix.html</a>  
 
 15. <a id="endnote-15"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/foia/ufos.html](https://www.archives.gov/foia/ufos.html)  
+   Link: <a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
 
 16. <a id="endnote-16"></a>
    Source: archives.gov  
    Title: rf 2018 foia log  
-   Link: [https://www.archives.gov/files/foia/pdf/rf-2018-foia-log.pdf](https://www.archives.gov/files/foia/pdf/rf-2018-foia-log.pdf)  
+   Link: <a href="https://www.archives.gov/files/foia/pdf/rf-2018-foia-log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/foia/pdf/rf-2018-foia-log.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: archives.gov  
    Title: Federal Records Guide: Alphabetical Index  
-   Link: [https://www.archives.gov/research/guide-fed-records/index-alpha/a.html](https://www.archives.gov/research/guide-fed-records/index-alpha/a.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/index-alpha/a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/a.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/guide-fed-records/groups/059.html](https://www.archives.gov/research/guide-fed-records/groups/059.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/groups/059.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/groups/059.html</a>  
 
 19. <a id="endnote-19"></a>
    Source: archives.gov  
    Title: Federal Records Guide: Alphabetical Index  
-   Link: [https://www.archives.gov/research/guide-fed-records/index-alpha/p.html](https://www.archives.gov/research/guide-fed-records/index-alpha/p.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/index-alpha/p.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/p.html</a>  
 
 20. <a id="endnote-20"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/digitization/digitized-by-partners](https://www.archives.gov/digitization/digitized-by-partners)  
+   Link: <a href="https://www.archives.gov/digitization/digitized-by-partners" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/digitization/digitized-by-partners</a>  
 
 21. <a id="endnote-21"></a>
    Source: archives.gov  
    Title: entry 214  
-   Link: [https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html](https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html)  
+   Link: <a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html</a>  
 
 22. <a id="endnote-22"></a>
    Source: fold3.com  
    Title: in US, Project Blue Book  
-   Link: [https://www.fold3.com/document/6972652](https://www.fold3.com/document/6972652)  
+   Link: <a href="https://www.fold3.com/document/6972652" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/6972652</a>  
 
 23. <a id="endnote-23"></a>
    Source: fold3.com  
    Title: auburn alabama blank page 4 us project blue book ufo investigations 1947 1969  
-   Link: [https://www.fold3.com/document/9169911/auburn-alabama-blank-page-4-us-project-blue-book-ufo-investigations-1947-1969](https://www.fold3.com/document/9169911/auburn-alabama-blank-page-4-us-project-blue-book-ufo-investigations-1947-1969)  
+   Link: <a href="https://www.fold3.com/document/9169911/auburn-alabama-blank-page-4-us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/9169911/auburn-alabama-blank-page-4-us-project-blue-book-ufo-investigations-1947-1969</a>  
 
 24. <a id="endnote-24"></a>
    Source: fold3.com  
    Title: Sheet [Blank] in US, Census  
-   Link: [https://www.fold3.com/document/163848075/sheet-blank-us-census-federal-1930](https://www.fold3.com/document/163848075/sheet-blank-us-census-federal-1930)  
+   Link: <a href="https://www.fold3.com/document/163848075/sheet-blank-us-census-federal-1930" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/163848075/sheet-blank-us-census-federal-1930</a>  
 
 25. <a id="endnote-25"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: ia803206.us.archive.org  
    Title: David Jacobs The UFO Controversy In America  
-   Link: [https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf](https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf)  
+   Link: <a href="https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/ufos-an-air-force-dilemma/quintanilla_djvu.txt](https://archive.org/stream/ufos-an-air-force-dilemma/quintanilla_djvu.txt)  
+   Link: <a href="https://archive.org/stream/ufos-an-air-force-dilemma/quintanilla_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ufos-an-air-force-dilemma/quintanilla_djvu.txt</a>  
 
 28. <a id="endnote-28"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR11 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf](https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR10 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf](https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 31. <a id="endnote-31"></a>
    Source: wyominghistoryday.org  
    Title: sighting unidentified flying object 21 august 1948 montgomery  
-   Link: [https://www.wyominghistoryday.org/theme-topics/collections/items/sighting-unidentified-flying-object-21-august-1948-montgomery](https://www.wyominghistoryday.org/theme-topics/collections/items/sighting-unidentified-flying-object-21-august-1948-montgomery)  
+   Link: <a href="https://www.wyominghistoryday.org/theme-topics/collections/items/sighting-unidentified-flying-object-21-august-1948-montgomery" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/theme-topics/collections/items/sighting-unidentified-flying-object-21-august-1948-montgomery</a>  
    Published: august 1948  
 
 32. <a id="endnote-32"></a>
    Source: uk.forceswarrecords.com  
-   Link: [https://uk.forceswarrecords.com/document/9169913](https://uk.forceswarrecords.com/document/9169913)  
+   Link: <a href="https://uk.forceswarrecords.com/document/9169913" target="_blank" rel="noopener noreferrer nofollow">https://uk.forceswarrecords.com/document/9169913</a>  
 
 33. <a id="endnote-33"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 34. <a id="endnote-34"></a>
    Source: bahaistudies.net  
    Title: project blue book  
-   Link: [https://www.bahaistudies.net/asma/project_blue_book.pdf](https://www.bahaistudies.net/asma/project_blue_book.pdf)  
+   Link: <a href="https://www.bahaistudies.net/asma/project_blue_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/project_blue_book.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: thoroughlymodernreviewer.com  
    Title: project blue book  
-   Link: [https://thoroughlymodernreviewer.com/tag/project-blue-book/](https://thoroughlymodernreviewer.com/tag/project-blue-book/)  
+   Link: <a href="https://thoroughlymodernreviewer.com/tag/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://thoroughlymodernreviewer.com/tag/project-blue-book/</a>  
 
 36. <a id="endnote-36"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 37. <a id="endnote-37"></a>
    Source: geekchocolate.co.uk  
    Title: project blue book  
-   Link: [https://geekchocolate.co.uk/project-blue-book/](https://geekchocolate.co.uk/project-blue-book/)  
+   Link: <a href="https://geekchocolate.co.uk/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://geekchocolate.co.uk/project-blue-book/</a>  
 
 38. <a id="endnote-38"></a>
    Source: slideshare.net  
-   Link: [https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203](https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203)  
+   Link: <a href="https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203</a>  
 
 39. <a id="endnote-39"></a>
    Source: origins.osu.edu  
    Title: project blue book  
-   Link: [https://origins.osu.edu/watch/project-blue-book](https://origins.osu.edu/watch/project-blue-book)  
+   Link: <a href="https://origins.osu.edu/watch/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/watch/project-blue-book</a>  
 
 ### Additional References
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified  
-   Link: [https://www.youtube.com/watch?v=UKzI3uu_oTQ](https://www.youtube.com/watch?v=UKzI3uu_oTQ)  
+   Link: <a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UKzI3uu_oTQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book National Archives declassified files Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | Histo...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=2j2YPSSQLQM](https://www.youtube.com/watch?v=2j2YPSSQLQM)  
+   Link: <a href="https://www.youtube.com/watch?v=2j2YPSSQLQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2j2YPSSQLQM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Project Blue Book UFO Files: 20 True Declassified Cases | Fall Asleep to UFO Stories (Episode 1)...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=PEB-Y9iDrDA](https://www.youtube.com/watch?v=PEB-Y9iDrDA)  
+   Link: <a href="https://www.youtube.com/watch?v=PEB-Y9iDrDA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PEB-Y9iDrDA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: youtube.com  
    Title: FILE #033: Why Project Blue Book Closed with 701 Unresolved Cases  
-   Link: [https://www.youtube.com/watch?v=Gtfv7_2orzM](https://www.youtube.com/watch?v=Gtfv7_2orzM)  
+   Link: <a href="https://www.youtube.com/watch?v=Gtfv7_2orzM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gtfv7_2orzM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Project Blue Book UFO Files: 15 True Declassified Cases | Fall Asleep to UFO Stories (Episode 2)...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 45. <a id="endnote-45"></a>
    Source: youtube.com  
    Title: UFO Project Blue Book at National Archives Museum  
-   Link: [https://www.youtube.com/watch?v=JHeZjJgO9Ns](https://www.youtube.com/watch?v=JHeZjJgO9Ns)  
+   Link: <a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JHeZjJgO9Ns</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 FILE #033: Why Project Blue Book Closed with 701 Unresolved Cases...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
 47. <a id="endnote-47"></a>
    Source: ebay.com  
-   Link: [https://www.ebay.com/itm/406838145608](https://www.ebay.com/itm/406838145608)  
+   Link: <a href="https://www.ebay.com/itm/406838145608" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.com/itm/406838145608</a>  
 
 48. <a id="endnote-48"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1002lv3/does_anyone_remember_the_story_behind_these_ufo/](https://www.reddit.com/r/UFOs/comments/1002lv3/does_anyone_remember_the_story_behind_these_ufo/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1002lv3/does_anyone_remember_the_story_behind_these_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1002lv3/does_anyone_remember_the_story_behind_these_ufo/</a>  
 
 49. <a id="endnote-49"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/](https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>

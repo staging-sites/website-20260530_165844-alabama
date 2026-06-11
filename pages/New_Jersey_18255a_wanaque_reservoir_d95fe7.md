@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-new-jerseys-ufo/
 nav_short_title: Wanaque
 title: Why Did Wanaque Become New Jersey's Classic Flap?
-title_full: Why Did Wanaque Become New Jersey's Classic Flap? | New Jersey UFOs
+title_full: Why Did Wanaque Become New Jersey's Classic Flap?
 display_title_short: Wanaque
 display_title: Wanaque
 heading_title: Why Did Wanaque Become New Jersey's Classic Flap?
@@ -262,15 +262,14 @@ image: /assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7-overview-social
 
 ## Introduction
 
-Wanaque became [New Jersey]({{ 'what-really-happened-in-new-jerseys-ufo/' | relative_url }})’s classic UFO flap because it had the ingredients that make a local sighting endure: a dramatic winter setting, repeated reports, police and reservoir personnel among the named witnesses, press attention, rumours of photographs, and no single explanation that satisfied everyone. The core story centres on sightings over and around Wanaque Reservoir in 1966, especially the January reports and later autumn claims, but its afterlife is just as important. Wanaque is not the state’s strongest proof of anything extraordinary; it is the clearest example of how an unresolved reservoir sighting can become local folklore when official paperwork is thin, memories are vivid, and later retellings keep adding layers. The case remains historically important in New Jersey UFO culture precisely because the surviving evidence is uneven: some witness testimony is striking, some photo claims are doubtful, and some explanations are plausible without being decisive. ufoexplorations <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
-
+Wanaque became New Jersey’s classic UFO flap because it had the ingredients that make a local sighting endure: a dramatic winter setting, repeated reports, police and reservoir personnel among the named witnesses, press attention, rumours of photographs, and no single explanation that satisfied everyone. The core story centres on sightings over and around Wanaque Reservoir in 1966, especially the January reports and later autumn claims, but its afterlife is just as important. Wanaque is not the state’s strongest proof of anything extraordinary; it is the clearest example of how an unresolved reservoir sighting can become local folklore when official paperwork is thin, memories are vivid, and later retellings keep adding layers. The case remains historically important in New Jersey UFO culture precisely because the surviving evidence is uneven: some witness testimony is striking, some photo claims are doubtful, and some explanations are plausible without being decisive. ufoexplorations <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
 
 <img src="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7-overview.webp" | relative_url }}" alt="Overview image for Wanaque" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the reservoir setting mattered
 
 Wanaque Reservoir was not just a scenic backdrop. It was a large, controlled water-supply site in northern Passaic County, created by the Raymond Dam across the Wanaque River and dedicated as part of New Jersey’s first large-scale regional water-supply system in 1930. That made it a serious civic landscape rather than a casual lake: dams, gate houses, restricted areas, patrols, dark water, wooded ridges and winter ice all shaped how witnesses saw and described lights above it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.njdwsc.com/about-njdwsc/pages/wanaque-project" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: njdwsc.com">[njdwsc.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">njdwsc.com</span><span class="citation-popover-snippet">Open source on njdwsc.com.</span></span></span>
 
-That setting helps explain why Wanaque reports carried unusual local weight. A light over a suburban street could be dismissed as aircraft or a planet; a light over the dam or frozen reservoir seemed to threaten or inspect a vital public utility. Later accounts repeatedly return to details such as the ice, the dam, the gate house and reservoir police, because those features made the story feel grounded in a recognisable place rather than in generic flying-saucer scenery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufoexplorations.com/witness-to-wanaque-great-mass-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoexplorations.com">[ufoexplorations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoexplorations.com</span><span class="citation-popover-title">witness to wanaque great mass ufo</span><span class="citation-popover-snippet">ufoexplorationsWitness to Wanaque: The Great Mass UFO StoryOn October 15 1966, less than a week after the second Wanaque sighting, Police...</span></span></span>
+That setting helps explain why Wanaque reports carried unusual local weight. A light over a suburban street could be dismissed as aircraft or a planet; a light over the dam or frozen reservoir seemed to threaten or inspect a vital public utility. Later accounts repeatedly return to details such as the ice, the dam, the gate house and reservoir police, because those features made the story feel grounded in a recognisable place rather than in generic flying-saucer scenery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufoexplorations.com/witness-to-wanaque-great-mass-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoexplorations.com">[ufoexplorations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoexplorations.com</span><span class="citation-popover-title">witness to wanaque great mass ufo</span><span class="citation-popover-snippet">Witness to Wanaque: The Great Mass UFO StoryOn October 15 1966, less than a week after the second Wanaque sighting, Police...</span></span></span>
 
 The reservoir also gave the story a natural viewing theatre. Hills and roads around the water offered sight lines, while the dark surface and surrounding highlands could make lights appear isolated, enlarged or strangely reflected. That does not solve the case, but it matters when judging it: Wanaque’s geography made both sincere observation and sincere misperception more likely.
 
@@ -282,8 +281,7 @@ The reported object was described in different ways: a glowing light, an oval or
 
 October 1966 added another layer. UFO writer and investigator Anthony Bragalia’s later reconstruction, drawing on older interviews, highlights a report by reservoir police chief John Casazza, who reportedly described a bright, funnel-shaped white light near the dam area. Another later summary says Casazza and a companion reported seeing an elliptical object on 15 October 1966. These accounts are valuable as part of the folklore and witness record, but they also show a problem: the Wanaque story is not one tidy incident. It is a case family, with [January sightings]({{ 'january-sighting/' | relative_url }}), autumn sightings, claimed photographs and later witness recollections often compressed into one legendary event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">THE WANAQUE RESERVOIR 1966 UFO PICTURES</span><span class="citation-popover-snippet">Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7-Illustration-1-light.svg" | relative_url }}" alt="Wanaque illustration 1" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7-Illustration-1-dark.svg" | relative_url }}" alt="Wanaque illustration 1" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How repeated sightings became a local story
 
 Wanaque’s place in New Jersey UFO history depends less on a single night than on repetition. Local stories say people returned to the area hoping to see the object again, and later UFO literature treated the reservoir as a hotspot rather than a one-off location. That pattern is typical of a “flap”: one dramatic report primes a community to watch the sky, later ambiguous lights are interpreted through the first event, and newspapers or enthusiasts preserve the sequence as a continuing mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thebiggeststudy.blogspot.com/2013/02/wanaque-1966-part-one-microcosm-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebiggeststudy.blogspot.com">[The Biggest Study]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebiggeststudy.blogspot.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -294,12 +292,11 @@ That national atmosphere made Wanaque easier to remember. A strange light over a
 
 ## The witness mix: why police testimony raised the stakes
 
-Police and reservoir employees are central to Wanaque’s reputation. In UFO history, law-enforcement witnesses often receive extra attention because they are assumed to be observant, sober and used to giving factual accounts. Wanaque drew strength from that perception: the involvement of officers, a reservoir police chief and other local officials made the reports seem harder to wave away as teenage rumour or anonymous excitement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufoexplorations.com/witness-to-wanaque-great-mass-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoexplorations.com">[ufoexplorations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoexplorations.com</span><span class="citation-popover-title">witness to wanaque great mass ufo</span><span class="citation-popover-snippet">ufoexplorationsWitness to Wanaque: The Great Mass UFO StoryOn October 15 1966, less than a week after the second Wanaque sighting, Police...</span></span></span>
+Police and reservoir employees are central to Wanaque’s reputation. In UFO history, law-enforcement witnesses often receive extra attention because they are assumed to be observant, sober and used to giving factual accounts. Wanaque drew strength from that perception: the involvement of officers, a reservoir police chief and other local officials made the reports seem harder to wave away as teenage rumour or anonymous excitement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ufoexplorations.com/witness-to-wanaque-great-mass-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoexplorations.com">[ufoexplorations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoexplorations.com</span><span class="citation-popover-title">witness to wanaque great mass ufo</span><span class="citation-popover-snippet">Witness to Wanaque: The Great Mass UFO StoryOn October 15 1966, less than a week after the second Wanaque sighting, Police...</span></span></span>
 
 That does not mean police testimony is automatically conclusive. Officers can misjudge distance, altitude and size when looking at lights in the night sky, especially over dark water or hills. The Wanaque case is strongest as evidence that credible local people saw something they could not readily identify. It is weaker as evidence that the object had exotic origin, because witness confidence alone cannot establish distance, speed, structure or cause.
 
 The most balanced reading is that Wanaque had a better witness profile than many local UFO tales, but not enough surviving, cross-checked documentation to settle what was seen. The police element explains why the story endured; it does not by itself prove the extraordinary parts of the legend.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mo1FsSe9apU" title="The Wanaque UFO - The &#x27;Light Beam&#x27; Seen by HUNDREDS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mo1FsSe9apU" target="_blank" rel="noopener noreferrer">The Wanaque UFO - The &#x27;Light Beam&#x27; Seen by HUNDREDS</a></p><p class="youtube-embed-meta">Channel: This Paranormal Life &middot; Views: 9.0K &middot; Uploaded: May 2024 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mo1FsSe9apU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mo1FsSe9apU">Open on YouTube</a></p></div></div></div>
 
@@ -319,8 +316,7 @@ That absence can be read in two ways. Believers may see it as suspicious, especi
 
 This distinction is important for readers. “Poorly documented by Project Blue Book” does not mean “nothing happened”. It means the case rests heavily on local reporting, later interviews, UFO literature and contested photo material rather than on a robust official investigation file with instrument data, original witness statements and a clear analytical conclusion.
 
-
-<img src="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7-Illustration-2-light.svg" | relative_url }}" alt="Wanaque illustration 2" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7-Illustration-2-dark.svg" | relative_url }}" alt="Wanaque illustration 2" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Ordinary explanations: plausible, but not tidy
 
 Several ordinary explanations have been proposed or implied across discussions of Wanaque: aircraft, helicopters, bright astronomical objects, reflections, searchlights, ice effects, camera artefacts and the contagious effect of a local flap. None should be treated as a universal explanation for every Wanaque report, because the case is a cluster rather than a single observation. Still, they are essential to any fair assessment.
@@ -329,14 +325,12 @@ Aircraft and helicopters are plausible for some reports because northern New Jer
 
 The main sceptical strength is that Wanaque’s descriptions vary and the best-known physical evidence is problematic. The main sceptical weakness is that some named witnesses insisted they saw something unusual and were not simply reporting a vague dot in the sky. That leaves Wanaque in the category of historically interesting but evidentially unresolved, not debunked in every detail and not confirmed as extraordinary.
 
-
-<img src="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7-Illustration-3-light.svg" | relative_url }}" alt="Wanaque illustration 3" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7-Illustration-3-dark.svg" | relative_url }}" alt="Wanaque illustration 3" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_wanaque_reservoir_d95fe7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How folklore reshaped the case
 
 Wanaque’s folklore grew because the story works on several levels. It is a local police mystery, a reservoir mystery, a winter-night story, a 1960s UFO-wave story and a New Jersey identity story. The reservoir setting makes it easy to visualise; the official uncertainty leaves room for argument; the photo controversies give enthusiasts something to debate; and the repetition of sightings gives the case a beginning, middle and afterlife.
 
 Later online and regional retellings often call Wanaque one of New Jersey’s most famous UFO episodes, sometimes with dramatic language about beams, government secrecy or objects under ice. Those versions keep the story alive, but they can also flatten the evidence. The most useful modern approach is to separate the durable core from the embellishments:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -349,7 +343,6 @@ Later online and regional retellings often call Wanaque one of New Jersey’s mo
 
 That layered reading does not make the story less interesting. It makes it more useful. Wanaque shows how UFO history is often built from a mixture of sincere testimony, local geography, institutional silence, media repetition and later mythmaking.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/J-lwW4W5MiY" title="Stranger Jersey: UFOs over Wanaque Reservoir" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=J-lwW4W5MiY" target="_blank" rel="noopener noreferrer">Stranger Jersey: UFOs over Wanaque Reservoir</a></p><p class="youtube-embed-meta">Channel: NorthJersey &middot; Views: 6.8K &middot; Uploaded: October 2018 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=J-lwW4W5MiY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=J-lwW4W5MiY">Open on YouTube</a></p></div></div></div>
 
 ## Why Wanaque still matters in New Jersey UFO history
@@ -360,9 +353,7 @@ For a reader trying to decide what to make of it, the fairest judgement is cauti
 
 That is why Wanaque remains New Jersey’s classic flap: not because it proves the skies over the reservoir held a craft from elsewhere, but because it shows how a strange winter light, seen by credible local people in a memorable landscape, can become part of a state’s UFO memory for generations.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7Bihepbgei8" title="Wanaque NJ UFO Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7Bihepbgei8" target="_blank" rel="noopener noreferrer">Wanaque NJ UFO Story</a></p><p class="youtube-embed-meta">Channel: Andrew Jones &middot; Views: 8.2K &middot; Uploaded: February 2014 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7Bihepbgei8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7Bihepbgei8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -786,112 +777,112 @@ That is why Wanaque remains New Jersey’s classic flap: not because it proves t
 1. <a id="endnote-1"></a>
    Source: ufoexplorations.com  
    Title: witness to wanaque great mass ufo  
-   Link: [https://www.ufoexplorations.com/witness-to-wanaque-great-mass-ufo](https://www.ufoexplorations.com/witness-to-wanaque-great-mass-ufo)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ufoexplorationsWitness to Wanaque: The Great Mass UFO StoryOn October 15 1966, less than a week after the second Wanaque sighting, Police...</p></details>
+   Link: <a href="https://www.ufoexplorations.com/witness-to-wanaque-great-mass-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoexplorations.com/witness-to-wanaque-great-mass-ufo</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Witness to Wanaque: The Great Mass UFO StoryOn October 15 1966, less than a week after the second Wanaque sighting, Police...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: academia.edu  
    Title: THE WANAQUE RESERVOIR 1966 UFO PICTURES  
-   Link: [https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES](https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES)  
+   Link: <a href="https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/35633047/THE_WANAQUE_RESERVOIR_1966_UFO_PICTURES</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) THE WANAQUE RESERVOIR 1966 UFO PICTURESIt was a typical example of how a micro-wave develops. This article explores and stu...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: njdwsc.com  
-   Link: [https://www.njdwsc.com/about-njdwsc/pages/wanaque-project](https://www.njdwsc.com/about-njdwsc/pages/wanaque-project)  
+   Link: <a href="https://www.njdwsc.com/about-njdwsc/pages/wanaque-project" target="_blank" rel="noopener noreferrer nofollow">https://www.njdwsc.com/about-njdwsc/pages/wanaque-project</a>  
 
 5. <a id="endnote-5"></a>
    Source: njdwsc.com  
-   Link: [https://www.njdwsc.com/about-njdwsc/pages/history-commission](https://www.njdwsc.com/about-njdwsc/pages/history-commission)  
+   Link: <a href="https://www.njdwsc.com/about-njdwsc/pages/history-commission" target="_blank" rel="noopener noreferrer nofollow">https://www.njdwsc.com/about-njdwsc/pages/history-commission</a>  
 
 6. <a id="endnote-6"></a>
    Source: njdwsc.com  
-   Link: [https://www.njdwsc.com/](https://www.njdwsc.com/)  
+   Link: <a href="https://www.njdwsc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.njdwsc.com/</a>  
 
 7. <a id="endnote-7"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: newspapers.com  
    Title: the daily courier another wanaque ufo cl  
-   Link: [https://www.newspapers.com/article/the-daily-courier-another-wanaque-ufo-cl/4372410/](https://www.newspapers.com/article/the-daily-courier-another-wanaque-ufo-cl/4372410/)  
+   Link: <a href="https://www.newspapers.com/article/the-daily-courier-another-wanaque-ufo-cl/4372410/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/the-daily-courier-another-wanaque-ufo-cl/4372410/</a>  
 
 9. <a id="endnote-9"></a>
    Source: newspapers.com  
    Title: Strange Sightings  
-   Link: [https://www.newspapers.com/article/the-daily-journal-1967-10-04-vineland-nj/127680186/?locale=en-US](https://www.newspapers.com/article/the-daily-journal-1967-10-04-vineland-nj/127680186/?locale=en-US)  
+   Link: <a href="https://www.newspapers.com/article/the-daily-journal-1967-10-04-vineland-nj/127680186/?locale=en-US" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/the-daily-journal-1967-10-04-vineland-nj/127680186/?locale=en-US</a>  
 
 10. <a id="endnote-10"></a>
    Source: ufoexplorations.com  
    Title: copy of home 1  
-   Link: [https://www.ufoexplorations.com/copy-of-home-1](https://www.ufoexplorations.com/copy-of-home-1)  
+   Link: <a href="https://www.ufoexplorations.com/copy-of-home-1" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoexplorations.com/copy-of-home-1</a>  
 
 11. <a id="endnote-11"></a>
    Source: thebiggeststudy.blogspot.com  
-   Link: [https://thebiggeststudy.blogspot.com/2013/02/wanaque-1966-part-one-microcosm-of.html](https://thebiggeststudy.blogspot.com/2013/02/wanaque-1966-part-one-microcosm-of.html)  
+   Link: <a href="https://thebiggeststudy.blogspot.com/2013/02/wanaque-1966-part-one-microcosm-of.html" target="_blank" rel="noopener noreferrer nofollow">https://thebiggeststudy.blogspot.com/2013/02/wanaque-1966-part-one-microcosm-of.html</a>  
 
 12. <a id="endnote-12"></a>
    Source: fordlibrarymuseum.gov  
    Title: Ford Library Museum Ford Press Releases  
-   Link: [https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf](https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf)  
+   Link: <a href="https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Wanaque Reservoir  
-   Link: [https://en.wikipedia.org/wiki/Wanaque_Reservoir](https://en.wikipedia.org/wiki/Wanaque_Reservoir)  
+   Link: <a href="https://en.wikipedia.org/wiki/Wanaque_Reservoir" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wanaque_Reservoir</a>  
 
 14. <a id="endnote-14"></a>
    Source: kids.kiddle.co  
    Title: Wanaque Reservoir  
-   Link: [https://kids.kiddle.co/Wanaque_Reservoir](https://kids.kiddle.co/Wanaque_Reservoir)  
+   Link: <a href="https://kids.kiddle.co/Wanaque_Reservoir" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Wanaque_Reservoir</a>  
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Stranger Jersey: UFOs over Wanaque Reservoir  
-   Link: [https://www.youtube.com/watch?v=J-lwW4W5MiY](https://www.youtube.com/watch?v=J-lwW4W5MiY)  
+   Link: <a href="https://www.youtube.com/watch?v=J-lwW4W5MiY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J-lwW4W5MiY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sunday Live UFO cases with Robert, UFOs Over Power Plants and Water ETC ] - OT Chan Live#296...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nj.gov  
-   Link: [https://www.nj.gov/state/archives/sznor001.html](https://www.nj.gov/state/archives/sznor001.html)  
+   Link: <a href="https://www.nj.gov/state/archives/sznor001.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nj.gov/state/archives/sznor001.html</a>  
 
 17. <a id="endnote-17"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/C8qONrWvJQw/](https://www.instagram.com/reel/C8qONrWvJQw/)  
+   Link: <a href="https://www.instagram.com/reel/C8qONrWvJQw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C8qONrWvJQw/</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/weirdnewjersey/posts/on-this-day-in-new-jersey-history-january-11-1966-the-first-of-a-series-of-ufo-i/354049144151399/](https://www.facebook.com/weirdnewjersey/posts/on-this-day-in-new-jersey-history-january-11-1966-the-first-of-a-series-of-ufo-i/354049144151399/)  
+   Link: <a href="https://www.facebook.com/weirdnewjersey/posts/on-this-day-in-new-jersey-history-january-11-1966-the-first-of-a-series-of-ufo-i/354049144151399/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/weirdnewjersey/posts/on-this-day-in-new-jersey-history-january-11-1966-the-first-of-a-series-of-ufo-i/354049144151399/</a>  
 
 19. <a id="endnote-19"></a>
    Source: slideshare.net  
-   Link: [https://www.slideshare.net/slideshow/operation-trojan-horse-john-keel-44640069/44640069](https://www.slideshare.net/slideshow/operation-trojan-horse-john-keel-44640069/44640069)  
+   Link: <a href="https://www.slideshare.net/slideshow/operation-trojan-horse-john-keel-44640069/44640069" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/operation-trojan-horse-john-keel-44640069/44640069</a>  
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/1kja3rm/roswell_of_the_ramapos_wanaque_nj_mass_ufo/](https://www.reddit.com/r/HighStrangeness/comments/1kja3rm/roswell_of_the_ramapos_wanaque_nj_mass_ufo/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1kja3rm/roswell_of_the_ramapos_wanaque_nj_mass_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1kja3rm/roswell_of_the_ramapos_wanaque_nj_mass_ufo/</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/VisitLitchfieldCT/posts/the-green-whale-ufo-of-bantam-lake-was-it-realbantam-lake-was-moody-this-afterno/133088502206240/](https://www.facebook.com/VisitLitchfieldCT/posts/the-green-whale-ufo-of-bantam-lake-was-it-realbantam-lake-was-moody-this-afterno/133088502206240/)  
+   Link: <a href="https://www.facebook.com/VisitLitchfieldCT/posts/the-green-whale-ufo-of-bantam-lake-was-it-realbantam-lake-was-moody-this-afterno/133088502206240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VisitLitchfieldCT/posts/the-green-whale-ufo-of-bantam-lake-was-it-realbantam-lake-was-moody-this-afterno/133088502206240/</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1714890908806870/posts/3512485622380714/](https://www.facebook.com/groups/1714890908806870/posts/3512485622380714/)  
+   Link: <a href="https://www.facebook.com/groups/1714890908806870/posts/3512485622380714/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1714890908806870/posts/3512485622380714/</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/northjerseycom/posts/this-story-about-a-ufo-sighting-over-the-wanaque-reservoir-in-1966-should-get-yo/10156784111787523/](https://www.facebook.com/northjerseycom/posts/this-story-about-a-ufo-sighting-over-the-wanaque-reservoir-in-1966-should-get-yo/10156784111787523/)  
+   Link: <a href="https://www.facebook.com/northjerseycom/posts/this-story-about-a-ufo-sighting-over-the-wanaque-reservoir-in-1966-should-get-yo/10156784111787523/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/northjerseycom/posts/this-story-about-a-ufo-sighting-over-the-wanaque-reservoir-in-1966-should-get-yo/10156784111787523/</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/atomicretroscifi/posts/ufocolonel-virginia-lakewanda-ventham/1105168078311500/](https://www.facebook.com/atomicretroscifi/posts/ufocolonel-virginia-lakewanda-ventham/1105168078311500/)  
+   Link: <a href="https://www.facebook.com/atomicretroscifi/posts/ufocolonel-virginia-lakewanda-ventham/1105168078311500/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/atomicretroscifi/posts/ufocolonel-virginia-lakewanda-ventham/1105168078311500/</a>

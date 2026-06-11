@@ -262,7 +262,7 @@ sibling_links:
   short_title: Michigan UFOs
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Alabama_d1f92d
   title: Alabama UFOs
@@ -277,9 +277,9 @@ sibling_links:
   permalink: /what-keeps-tennessees-ufo-stories-alive/
   short_title: Tennessee UFOs
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Idaho_18334c
   title: Idaho UFOs
   permalink: /what-makes-idaho-a-key-ufo-hotspot/
@@ -289,9 +289,9 @@ sibling_links:
   permalink: /what-makes-indianas-ufo-history-unique/
   short_title: Indiana UFOs
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: South_Carolina_11d001
   title: South Carolina UFOs
   permalink: /what-makes-south-carolinas-ufo-story/
@@ -481,7 +481,6 @@ image: /assets/images/North_Dakota_0b6838-overview-social.jpg
 
 North Dakota’s UFO record is closely tied to its aviation and military geography. Minot Air Force Base opened in 1957 as a northern air-defence installation and later became a central Cold War base. Today, the base describes itself as the only dual-wing nuclear-capable base in the US Air Force, with the 5th Bomb Wing operating B-52 aircraft and the 91st Missile Wing responsible for 150 intercontinental ballistic missile sites across a vast missile field. That does not make every unusual light near Minot mysterious, but it explains why sightings there attracted sharper official attention than a casual civilian report might have done. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.minot.af.mil/About-Us/Fact-Sheets/Display/Article/264277/minot-air-force-base/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minot.af.mil">[minot.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minot.af.mil</span><span class="citation-popover-title">minot air force base</span><span class="citation-popover-snippet">&gt; Minot Air Force Base &gt; Display...</span></span></span>
 
-
 <img src="{{ "/assets/images/North_Dakota_0b6838-overview.webp" | relative_url }}" alt="Overview image for Why North Dakota Matters in UFO History" loading="eager" decoding="sync" fetchpriority="high">
 The state also sits under big, dark skies where aircraft, satellites, meteors, balloons, military activity and distant lights can be strikingly visible. Modern public reporting databases reflect this mixture: the National UFO Reporting Center lists North Dakota reports from Fargo, Minot, [Grand Forks]({{ 'grand-forks/' | relative_url }}), Bismarck, Williston and smaller communities, with many descriptions involving lights, triangles, fireballs, flashes, or objects that seemed to move oddly. These reports are useful as a public archive of witness testimony, but they are not the same as verified case files; many contain brief narratives, uncertain distances and little independent corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lND" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
@@ -495,8 +494,7 @@ The official explanation for the [Gorman case]({{ 'gorman-case/' | relative_url 
 
 The balanced reading is that the Gorman “dogfight” remains historically important but not evidentially conclusive. It is a major North Dakota UFO case because it involved a trained pilot, multiple observers, immediate investigation and long afterlife in books, television and UFO histories. It is weaker as proof of anything extraordinary because the reported object was small, luminous, visually ambiguous, and plausibly linked to a known balloon release. Its value today is less “what was it?” than “how did early Cold War investigators, pilots and journalists turn ambiguous aerial events into national UFO history?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-06-02/lights-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">lights in the sky</span><span class="citation-popover-snippet">lights in the sky</span></span></span>
 
-
-<img src="{{ "/assets/images/North_Dakota_0b6838-Illustration-1-light.svg" | relative_url }}" alt="Why North Dakota Matters in UFO History illustration 1" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Dakota_0b6838-Illustration-1-dark.svg" | relative_url }}" alt="Why North Dakota Matters in UFO History illustration 1" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Minot, 1968: the state’s most document-rich case
 
 The 24 October 1968 Minot Air Force Base case is North Dakota’s most important UFO file because it combines ground witnesses, a returning B-52 crew, radar claims, missile-field geography and a large surviving documentary record. According to the dedicated Minot case archive compiled by Thomas Tulien, maintenance and security personnel in the Minuteman missile complex around Minot AFB reported one, and at times two, UFOs in the early morning hours. Base Operations, Radar Approach Control and a returning B-52 crew became involved as the reports unfolded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Open source on minotb52ufo.com.</span></span></span>
@@ -509,7 +507,6 @@ The official setting matters too. Project Blue Book was the US Air Force’s UFO
 
 The Minot case therefore sits in a productive tension. UFO researchers treat it as one of the stronger Air Force-era cases because it has multiple witnesses and radar-related material. Sceptical readers focus on the difficulty of reconstructing a fast-moving, pre-dawn military incident from logs, recollections and imperfect technical data. The fairest conclusion is that Minot is genuinely unresolved in a historical sense: not explained away as easily as a lone light, but not strong enough to carry claims of alien craft or deliberate interference with nuclear systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/investigation/section-4.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Open source on minotb52ufo.com.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SoiXiux51uo" title="12 UFO Stories That Will Keep You Up Tonight | Forgotten History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SoiXiux51uo" target="_blank" rel="noopener noreferrer">12 UFO Stories That Will Keep You Up Tonight | Forgotten History</a></p><p class="youtube-embed-meta">Channel: FORGOTTEN HISTORY &middot; Views: 126.4K &middot; Uploaded: April 2025 &middot; Length: 1 hour 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SoiXiux51uo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SoiXiux51uo">Open on YouTube</a></p></div></div></div>
 
 ## Minot and Grand Forks as sighting clusters
@@ -518,10 +515,9 @@ Public history accounts note that Project Blue Book documented dozens of North D
 
 Local reporting also shows how UFO stories become part of regional memory. Minot Daily News has described “Minot’s age of UFOs” as a period when sightings in the 1960s and 1970s sparked public discussion, even when many reports were dismissed as imagination, error or fear. This kind of coverage is important because it captures the social life of UFO cases: people talked about them in newspapers, remembered them locally, and folded them into Cold War-era concerns about secret aircraft, nuclear weapons and unknown visitors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.minotdailynews.com/news/local-news/2016/12/minots-age-of-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotdailynews.com">[minotdailynews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotdailynews.com</span><span class="citation-popover-title">minots age of ufos</span><span class="citation-popover-snippet">minots age of ufos</span></span></span>
 
-Grand Forks appears less prominently than Minot in the best-known case literature, but its role in the state’s UFO geography is still meaningful. North Dakota’s base-centred UFO history is not only about spectacular incidents; it is also about how military towns become repeated reporting zones. The presence of aircraft, security infrastructure and wide rural horizons creates conditions in which ambiguous lights can be noticed, reported and retold. That does not make the reports false, but it does mean location alone should not be treated as evidence of extraordinary origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Data Bank | NUFORC</span></span></span>
+Grand Forks appears less prominently than Minot in the best-known case literature, but its role in the state’s UFO geography is still meaningful. North Dakota’s base-centred UFO history is not only about spectacular incidents; it is also about how military towns become repeated reporting zones. The presence of aircraft, security infrastructure and wide rural horizons creates conditions in which ambiguous lights can be noticed, reported and retold. That does not make the reports false, but it does mean location alone should not be treated as evidence of extraordinary origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC</span></span></span>
 
-
-<img src="{{ "/assets/images/North_Dakota_0b6838-Illustration-2-light.svg" | relative_url }}" alt="Why North Dakota Matters in UFO History illustration 2" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Dakota_0b6838-Illustration-2-dark.svg" | relative_url }}" alt="Why North Dakota Matters in UFO History illustration 2" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the modern report databases add — and what they cannot prove
 
 The National UFO Reporting Center is valuable for seeing the shape of North Dakota’s modern witness record. Its North Dakota index includes reports from the mid-1990s through recent years, with entries from Fargo, Bismarck, Grand Forks, Minot, Williston, Devils Lake and rural locations. The reports show recurring descriptions common across the United States: triangles, orbs, fireballs, flashes, formations, fast lights and objects said to hover or change direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
@@ -529,7 +525,6 @@ The National UFO Reporting Center is valuable for seeing the shape of North Dako
 However, the same database also shows why public UFO data must be handled carefully. Some entries include the centre’s own notes suggesting probable explanations, such as Venus, satellites or spacecraft/ISS-related sightings. Many reports are short, lack photographs or radar confirmation, and are submitted long after the event. For a public-facing North Dakota UFO history, NUFORC is best used as a map of claims and recurring perceptions, not as a catalogue of confirmed anomalous craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 The city pattern is also shaped by population. Fargo, Bismarck, Grand Forks and Minot naturally produce more reports because more people live there and more people are likely to file reports online. Smaller rural locations may produce striking stories, but their scarcity cuts both ways: fewer people can mean darker skies and fewer conventional reference points, but it can also mean fewer independent witnesses and less chance of corroborating evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/north-dakota/cities-most-ufo-sightings-north-dakota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">cities most ufo sightings north dakota</span><span class="citation-popover-snippet">cities most ufo sightings north dakota</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pJ-kDT3sp_A" title="Close call between B-52 and regional jet in North Dakota under investigation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pJ-kDT3sp_A" target="_blank" rel="noopener noreferrer">Close call between B-52 and regional jet in North Dakota under investigation</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 112.9K &middot; Uploaded: July 2025 &middot; Length: 1 minute 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pJ-kDT3sp_A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pJ-kDT3sp_A">Open on YouTube</a></p></div></div></div>
 
@@ -541,8 +536,7 @@ Aircraft are another major source of confusion. North Dakota has long hosted mil
 
 Astronomical and atmospheric causes also matter. Bright planets, meteors, satellite flares, Starlink-style satellite trains, aurora-related effects, distant aircraft lights and temperature inversions can all produce reports that feel vivid and sincere. A good North Dakota case assessment should therefore ask simple questions first: Was the object seen from more than one location? Was there radar or instrument data? Were aircraft, balloons, satellites, planets and meteors checked? Was the account recorded immediately, or years later? <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
 
-
-<img src="{{ "/assets/images/North_Dakota_0b6838-Illustration-3-light.svg" | relative_url }}" alt="Why North Dakota Matters in UFO History illustration 3" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Dakota_0b6838-Illustration-3-dark.svg" | relative_url }}" alt="Why North Dakota Matters in UFO History illustration 3" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What counts as stronger evidence in this state’s record?
 
 North Dakota’s stronger cases share several features: trained observers, multiple witnesses, official records, immediate reporting and connection to aviation systems. The Gorman case had a pilot, tower personnel and a contemporaneous Air Force investigation. The Minot case had military ground observers, a B-52 crew, logs, Blue Book paperwork and radar-related materials. Those features do not guarantee an exotic answer, but they make the cases more serious than anonymous or single-sentence reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Val_Johnson_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Val Johnson incident</span><span class="citation-popover-snippet">Val Johnson incident</span></span></span>
@@ -551,8 +545,7 @@ The weakest reports tend to be isolated lights, delayed memories, claims with no
 
 Recent official and scientific reviews reinforce that caution. NASA’s UAP study materials state that there are no data supporting UAP as evidence of alien technology and that most sightings have limited data, making firm conclusions difficult. The US Department of Defense’s AARO has likewise stated that it has found no verifiable evidence that any UAP sighting represented extraterrestrial activity or that the US government possessed extraterrestrial technology. Those statements do not solve the Gorman or Minot cases retroactively, but they set the evidential bar for extraordinary claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_ZPbk394_iU" title="Project Blue Book: Declassified - The Gorman Dogfight | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_ZPbk394_iU" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified - The Gorman Dogfight | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 28.1K &middot; Uploaded: February 2019 &middot; Length: 2 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_ZPbk394_iU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_ZPbk394_iU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sBGJShP8zTU" title="B-52&#x27;s Depart Minot Air Force Base • BTF 23-2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sBGJShP8zTU" target="_blank" rel="noopener noreferrer">B-52&#x27;s Depart Minot Air Force Base • BTF 23-2</a></p><p class="youtube-embed-meta">Channel: AIRBOYD &middot; Views: 9.2K &middot; Uploaded: March 2023 &middot; Length: 2 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sBGJShP8zTU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sBGJShP8zTU">Open on YouTube</a></p></div></div></div>
 
 ## The best short reading of North Dakota’s UFO history
 
@@ -646,7 +639,7 @@ The state’s broader pattern is also clear. North Dakota reports cluster around
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -656,111 +649,36 @@ The state’s broader pattern is also clear. North Dakota reports cluster around
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX"><img src="https://i.ebayimg.com/images/g/D6YAAeSwgIhqJsph/s-l225.jpg" alt="Listing image for UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -768,15 +686,15 @@ The state’s broader pattern is also clear. North Dakota reports cluster around
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -784,15 +702,15 @@ The state’s broader pattern is also clear. North Dakota reports cluster around
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grateful Dead Bertha UFO Maxi Poster"><img src="https://i.ebayimg.com/images/g/pM4AAeSwvQporxeM/s-l225.jpg" alt="Listing image for Grateful Dead Bertha UFO Maxi Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">Grateful Dead Bertha UFO Maxi Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -800,15 +718,15 @@ The state’s broader pattern is also clear. North Dakota reports cluster around
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -816,7 +734,7 @@ The state’s broader pattern is also clear. North Dakota reports cluster around
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-north-dakota-matters-in-ufo-history-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -893,17 +811,31 @@ The state’s broader pattern is also clear. North Dakota reports cluster around
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -916,42 +848,73 @@ The state’s broader pattern is also clear. North Dakota reports cluster around
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -966,12 +929,17 @@ The state’s broader pattern is also clear. North Dakota reports cluster around
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -982,292 +950,292 @@ The state’s broader pattern is also clear. North Dakota reports cluster around
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: [Gorman dogfight](&#123;&#123; 'gorman-case/' | relative_url &#125;&#125;)  
-   Link: [https://en.wikipedia.org/wiki/Gorman_dogfight](https://en.wikipedia.org/wiki/Gorman_dogfight)  
+   Link: <a href="https://en.wikipedia.org/wiki/Gorman_dogfight" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gorman_dogfight</a>  
 
 2. <a id="endnote-2"></a>
    Source: minotb52ufo.com  
-   Link: [https://minotb52ufo.com/doc.php](https://minotb52ufo.com/doc.php)  
+   Link: <a href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/doc.php</a>  
 
 3. <a id="endnote-3"></a>
    Source: minot.af.mil  
    Title: minot air force base  
-   Link: [https://www.minot.af.mil/About-Us/Fact-Sheets/Display/Article/264277/minot-air-force-base/](https://www.minot.af.mil/About-Us/Fact-Sheets/Display/Article/264277/minot-air-force-base/)  
+   Link: <a href="https://www.minot.af.mil/About-Us/Fact-Sheets/Display/Article/264277/minot-air-force-base/" target="_blank" rel="noopener noreferrer nofollow">https://www.minot.af.mil/About-Us/Fact-Sheets/Display/Article/264277/minot-air-force-base/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&gt; Minot Air Force Base &gt; Display...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lND](https://nuforc.org/subndx/?id=lND)  
+   Link: <a href="https://nuforc.org/subndx/?id=lND" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lND</a>  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
 6. <a id="endnote-6"></a>
    Source: history.com  
    Title: ufo dogfight gorman us plane fargo  
-   Link: [https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo](https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo)  
+   Link: <a href="https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-dogfight-gorman-us-plane-fargo</a>  
 
 7. <a id="endnote-7"></a>
    Source: airandspace.si.edu  
    Title: 1947 year flying saucer  
-   Link: [https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer](https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer)  
+   Link: <a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
 
 8. <a id="endnote-8"></a>
    Source: time.com  
    Title: This Is Why People Think UFOs Look Like 'Flying Saucers'On  
-   Link: [https://time.com/3930602/first-reported-ufo/](https://time.com/3930602/first-reported-ufo/)  
+   Link: <a href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3930602/first-reported-ufo/</a>  
 
 9. <a id="endnote-9"></a>
    Source: minotb52ufo.com  
-   Link: [https://minotb52ufo.com/](https://minotb52ufo.com/)  
+   Link: <a href="https://minotb52ufo.com/" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/</a>  
 
 10. <a id="endnote-10"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: minotdailynews.com  
    Title: minots age of ufos  
-   Link: [https://www.minotdailynews.com/news/local-news/2016/12/minots-age-of-ufos/](https://www.minotdailynews.com/news/local-news/2016/12/minots-age-of-ufos/)  
+   Link: <a href="https://www.minotdailynews.com/news/local-news/2016/12/minots-age-of-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.minotdailynews.com/news/local-news/2016/12/minots-age-of-ufos/</a>  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 13. <a id="endnote-13"></a>
    Source: stacker.com  
    Title: cities most ufo sightings north dakota  
-   Link: [https://stacker.com/stories/north-dakota/cities-most-ufo-sightings-north-dakota](https://stacker.com/stories/north-dakota/cities-most-ufo-sightings-north-dakota)  
+   Link: <a href="https://stacker.com/stories/north-dakota/cities-most-ufo-sightings-north-dakota" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/north-dakota/cities-most-ufo-sightings-north-dakota</a>  
 
 14. <a id="endnote-14"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 15. <a id="endnote-15"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
 16. <a id="endnote-16"></a>
    Source: minotb52ufo.com  
-   Link: [https://minotb52ufo.com/investigation/section-6.php](https://minotb52ufo.com/investigation/section-6.php)  
+   Link: <a href="https://minotb52ufo.com/investigation/section-6.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/investigation/section-6.php</a>  
 
 17. <a id="endnote-17"></a>
    Source: minotb52ufo.com  
-   Link: [https://minotb52ufo.com/investigation/section-4.php](https://minotb52ufo.com/investigation/section-4.php)  
+   Link: <a href="https://minotb52ufo.com/investigation/section-4.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/investigation/section-4.php</a>  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Val Johnson incident  
-   Link: [https://en.wikipedia.org/wiki/Val_Johnson_incident](https://en.wikipedia.org/wiki/Val_Johnson_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Val_Johnson_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Val_Johnson_incident</a>  
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings in the United States  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States</a>  
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold UFO sighting  
-   Link: [https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting](https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold  
-   Link: [https://en.wikipedia.org/wiki/Kenneth_Arnold](https://en.wikipedia.org/wiki/Kenneth_Arnold)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold</a>  
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Minot Air Force Base  
-   Link: [https://en.wikipedia.org/wiki/Minot_Air_Force_Base](https://en.wikipedia.org/wiki/Minot_Air_Force_Base)  
+   Link: <a href="https://en.wikipedia.org/wiki/Minot_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Minot_Air_Force_Base</a>  
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Grand Forks Air Force Base  
-   Link: [https://en.wikipedia.org/wiki/Grand_Forks_Air_Force_Base](https://en.wikipedia.org/wiki/Grand_Forks_Air_Force_Base)  
+   Link: <a href="https://en.wikipedia.org/wiki/Grand_Forks_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Grand_Forks_Air_Force_Base</a>  
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
 27. <a id="endnote-27"></a>
    Source: minot.af.mil  
-   Link: [https://www.minot.af.mil/About-Us/Our-Mission/](https://www.minot.af.mil/About-Us/Our-Mission/)  
+   Link: <a href="https://www.minot.af.mil/About-Us/Our-Mission/" target="_blank" rel="noopener noreferrer nofollow">https://www.minot.af.mil/About-Us/Our-Mission/</a>  
 
 28. <a id="endnote-28"></a>
    Source: minot.af.mil  
-   Link: [https://www.minot.af.mil/](https://www.minot.af.mil/)  
+   Link: <a href="https://www.minot.af.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.minot.af.mil/</a>  
 
 29. <a id="endnote-29"></a>
    Source: minot.af.mil  
-   Link: [https://www.minot.af.mil/About-Us/Fact-Sheets/Display/Article/264269/b-52h-stratofortress/](https://www.minot.af.mil/About-Us/Fact-Sheets/Display/Article/264269/b-52h-stratofortress/)  
+   Link: <a href="https://www.minot.af.mil/About-Us/Fact-Sheets/Display/Article/264269/b-52h-stratofortress/" target="_blank" rel="noopener noreferrer nofollow">https://www.minot.af.mil/About-Us/Fact-Sheets/Display/Article/264269/b-52h-stratofortress/</a>  
 
 30. <a id="endnote-30"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 32. <a id="endnote-32"></a>
    Source: history.com  
    Title: Project Blue Book: Declassified  
-   Link: [https://www.history.com/videos/project-blue-book-declassified-the-gorman-dogfight](https://www.history.com/videos/project-blue-book-declassified-the-gorman-dogfight)  
+   Link: <a href="https://www.history.com/videos/project-blue-book-declassified-the-gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/project-blue-book-declassified-the-gorman-dogfight</a>  
 
 33. <a id="endnote-33"></a>
    Source: history.com  
    Title: Kenneth Arnold  
-   Link: [https://www.history.com/articles/kenneth-arnold](https://www.history.com/articles/kenneth-arnold)  
+   Link: <a href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/kenneth-arnold</a>  
 
 34. <a id="endnote-34"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 35. <a id="endnote-35"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=all](https://nuforc.org/subndx/?id=all)  
+   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
 
 36. <a id="endnote-36"></a>
    Source: nuforc.org  
    Title: report a ufo  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
 
 37. <a id="endnote-37"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=121028](https://nuforc.org/sighting/?id=121028)  
+   Link: <a href="https://nuforc.org/sighting/?id=121028" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=121028</a>  
 
 38. <a id="endnote-38"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 39. <a id="endnote-39"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 40. <a id="endnote-40"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
 41. <a id="endnote-41"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 42. <a id="endnote-42"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 43. <a id="endnote-43"></a>
    Source: military.com  
-   Link: [https://www.military.com/base-guide/minot-air-force-base](https://www.military.com/base-guide/minot-air-force-base)  
+   Link: <a href="https://www.military.com/base-guide/minot-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/base-guide/minot-air-force-base</a>  
 
 44. <a id="endnote-44"></a>
    Source: minotdailynews.com  
    Title: former missile officer ufo whistleblower demonstrates tremendous courage  
-   Link: [https://www.minotdailynews.com/news/local-news/2023/06/former-missile-officer-ufo-whistleblower-demonstrates-tremendous-courage/](https://www.minotdailynews.com/news/local-news/2023/06/former-missile-officer-ufo-whistleblower-demonstrates-tremendous-courage/)  
+   Link: <a href="https://www.minotdailynews.com/news/local-news/2023/06/former-missile-officer-ufo-whistleblower-demonstrates-tremendous-courage/" target="_blank" rel="noopener noreferrer nofollow">https://www.minotdailynews.com/news/local-news/2023/06/former-missile-officer-ufo-whistleblower-demonstrates-tremendous-courage/</a>  
 
 45. <a id="endnote-45"></a>
    Source: news.prairiepublic.org  
    Title: lights in the sky  
-   Link: [https://news.prairiepublic.org/show/dakota-datebook-archive/2022-06-02/lights-in-the-sky](https://news.prairiepublic.org/show/dakota-datebook-archive/2022-06-02/lights-in-the-sky)  
+   Link: <a href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-06-02/lights-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://news.prairiepublic.org/show/dakota-datebook-archive/2022-06-02/lights-in-the-sky</a>  
 
 46. <a id="endnote-46"></a>
    Source: newyorker.com  
-   Link: [https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky](https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky)  
+   Link: <a href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky</a>  
 
 47. <a id="endnote-47"></a>
    Source: news.prairiepublic.org  
    Title: Prairie Public Gorman Dogfight  
-   Link: [https://news.prairiepublic.org/show/dakota-datebook-archive/2022-04-25/gorman-dogfight](https://news.prairiepublic.org/show/dakota-datebook-archive/2022-04-25/gorman-dogfight)  
+   Link: <a href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-04-25/gorman-dogfight" target="_blank" rel="noopener noreferrer nofollow">https://news.prairiepublic.org/show/dakota-datebook-archive/2022-04-25/gorman-dogfight</a>  
 
 48. <a id="endnote-48"></a>
    Source: news.prairiepublic.org  
    Title: Prairie Public Minot UFOs Return  
-   Link: [https://news.prairiepublic.org/show/dakota-datebook-archive/2022-05-29/minot-ufos-return](https://news.prairiepublic.org/show/dakota-datebook-archive/2022-05-29/minot-ufos-return)  
+   Link: <a href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-05-29/minot-ufos-return" target="_blank" rel="noopener noreferrer nofollow">https://news.prairiepublic.org/show/dakota-datebook-archive/2022-05-29/minot-ufos-return</a>  
 
 49. <a id="endnote-49"></a>
    Source: apnews.com  
-   Link: [https://apnews.com/article/d4fb212c7875e89b2e9c7ec29709d74d](https://apnews.com/article/d4fb212c7875e89b2e9c7ec29709d74d)  
+   Link: <a href="https://apnews.com/article/d4fb212c7875e89b2e9c7ec29709d74d" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/d4fb212c7875e89b2e9c7ec29709d74d</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The B-52 was participating in a flyover for the North Dakota State Fair. The incident drew attention due to concerns over military and ci...</p></details>
 
 50. <a id="endnote-50"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=qfHNUwOT0tI](https://www.youtube.com/watch?v=qfHNUwOT0tI)  
+   Link: <a href="https://www.youtube.com/watch?v=qfHNUwOT0tI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qfHNUwOT0tI</a>  
 
 51. <a id="endnote-51"></a>
    Source: news.prairiepublic.org  
    Title: minot missile base ufo  
-   Link: [https://news.prairiepublic.org/show/dakota-datebook-archive/2022-05-02/minot-missile-base-ufo](https://news.prairiepublic.org/show/dakota-datebook-archive/2022-05-02/minot-missile-base-ufo)  
+   Link: <a href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-05-02/minot-missile-base-ufo" target="_blank" rel="noopener noreferrer nofollow">https://news.prairiepublic.org/show/dakota-datebook-archive/2022-05-02/minot-missile-base-ufo</a>  
 
 52. <a id="endnote-52"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/8331502](https://zenodo.org/records/8331502)  
+   Link: <a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
 
 ### Additional References
 
 53. <a id="endnote-53"></a>
    Source: youtube.com  
    Title: 12 UFO Stories That Will Keep You Up Tonight | Forgotten History  
-   Link: [https://www.youtube.com/watch?v=SoiXiux51uo](https://www.youtube.com/watch?v=SoiXiux51uo)  
+   Link: <a href="https://www.youtube.com/watch?v=SoiXiux51uo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SoiXiux51uo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Close call between B-52 and regional jet in North Dakota under investigation...</p></details>
 
 54. <a id="endnote-54"></a>
    Source: youtube.com  
    Title: Close call between B-52 and regional jet in North Dakota under investigation  
-   Link: [https://www.youtube.com/watch?v=pJ-kDT3sp_A](https://www.youtube.com/watch?v=pJ-kDT3sp_A)  
+   Link: <a href="https://www.youtube.com/watch?v=pJ-kDT3sp_A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pJ-kDT3sp_A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Twelve B-52 Nuclear Bombers Depart Minot Air Force Base...</p></details>
 
 55. <a id="endnote-55"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified  
-   Link: [https://www.youtube.com/watch?v=_ZPbk394_iU](https://www.youtube.com/watch?v=_ZPbk394_iU)  
+   Link: <a href="https://www.youtube.com/watch?v=_ZPbk394_iU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_ZPbk394_iU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gorman UFO Incident of 1948 - Forgotten History...</p></details>
 
 56. <a id="endnote-56"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=MqMfNUFvO4E](https://www.youtube.com/watch?v=MqMfNUFvO4E)  
+   Link: <a href="https://www.youtube.com/watch?v=MqMfNUFvO4E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MqMfNUFvO4E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>12 UFO Stories That Will Keep You Up Tonight | Forgotten History...</p></details>
 
 57. <a id="endnote-57"></a>
    Source: hoeven.senate.gov  
    Title: hoeven grand forks taking two major steps forward in counter uas leadership  
-   Link: [https://www.hoeven.senate.gov/newsroom/press-releases/hoeven-grand-forks-taking-two-major-steps-forward-in-counter-uas-leadership](https://www.hoeven.senate.gov/newsroom/press-releases/hoeven-grand-forks-taking-two-major-steps-forward-in-counter-uas-leadership)  
+   Link: <a href="https://www.hoeven.senate.gov/newsroom/press-releases/hoeven-grand-forks-taking-two-major-steps-forward-in-counter-uas-leadership" target="_blank" rel="noopener noreferrer nofollow">https://www.hoeven.senate.gov/newsroom/press-releases/hoeven-grand-forks-taking-two-major-steps-forward-in-counter-uas-leadership</a>  
 
 58. <a id="endnote-58"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin](https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin)  
+   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
 59. <a id="endnote-59"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aviation/comments/1rln52z/b52s_taking_off_from_minot_afb_north_dakota/](https://www.reddit.com/r/aviation/comments/1rln52z/b52s_taking_off_from_minot_afb_north_dakota/)  
+   Link: <a href="https://www.reddit.com/r/aviation/comments/1rln52z/b52s_taking_off_from_minot_afb_north_dakota/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aviation/comments/1rln52z/b52s_taking_off_from_minot_afb_north_dakota/</a>  
 
 60. <a id="endnote-60"></a>
    Source: stratcom.mil  
-   Link: [https://www.stratcom.mil/Media/News/News-Article-View/Article/3663096/bombers-abound-north-dakota-based-b-52s-arrive-in-pacific-provide-strategic-det/](https://www.stratcom.mil/Media/News/News-Article-View/Article/3663096/bombers-abound-north-dakota-based-b-52s-arrive-in-pacific-provide-strategic-det/)  
+   Link: <a href="https://www.stratcom.mil/Media/News/News-Article-View/Article/3663096/bombers-abound-north-dakota-based-b-52s-arrive-in-pacific-provide-strategic-det/" target="_blank" rel="noopener noreferrer nofollow">https://www.stratcom.mil/Media/News/News-Article-View/Article/3663096/bombers-abound-north-dakota-based-b-52s-arrive-in-pacific-provide-strategic-det/</a>  
 
 61. <a id="endnote-61"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wdaytv/posts/do-you-believe-in-extraterrestrial-life-ufoswhether-you-do-or-dont-something-une/709288351232640/](https://www.facebook.com/wdaytv/posts/do-you-believe-in-extraterrestrial-life-ufoswhether-you-do-or-dont-something-une/709288351232640/)  
+   Link: <a href="https://www.facebook.com/wdaytv/posts/do-you-believe-in-extraterrestrial-life-ufoswhether-you-do-or-dont-something-une/709288351232640/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wdaytv/posts/do-you-believe-in-extraterrestrial-life-ufoswhether-you-do-or-dont-something-une/709288351232640/</a>  
 
 62. <a id="endnote-62"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/keyzradio/posts/explore-the-mysterious-ufo-sightings-in-north-dakota-this-article-dives-into-int/1198132215651339/](https://www.facebook.com/keyzradio/posts/explore-the-mysterious-ufo-sightings-in-north-dakota-this-article-dives-into-int/1198132215651339/)  
+   Link: <a href="https://www.facebook.com/keyzradio/posts/explore-the-mysterious-ufo-sightings-in-north-dakota-this-article-dives-into-int/1198132215651339/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/keyzradio/posts/explore-the-mysterious-ufo-sightings-in-north-dakota-this-article-dives-into-int/1198132215651339/</a>

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /missouri-d961c4-cape-girardeau-crash/
 description: Focused pages that expand on Cape Legend.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Missouri_d961c4_cape_girardeau_crash_6274a1
-parent_title: Cape Legend | What Really Happened in Missouri's UFO...
+parent_title: Cape Legend
 parent_nav_short_title: Cape Legend
 parent_permalink: /cape-legend/
 ---

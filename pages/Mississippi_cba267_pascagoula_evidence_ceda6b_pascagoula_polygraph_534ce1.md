@@ -6,25 +6,25 @@ child_basenames: []
 sibling_basenames:
 - Mississippi_cba267_pascagoula_evidence_ceda6b_hidden_police_tape_789e02
 tags:
-- mississippi
+- mississippi-cba-267
 - pascagoula
 - polygraphs
 keywords:
-- mississippi
+- mississippi-cba-267
 - pascagoula
 - polygraphs
-affiliate_category: mississippi
+affiliate_category: mississippi-cba-267
 show_ads: true
 description: Lie-detector claims may suggest belief or stress, but they cannot verify that non-human beings took anyone aboard a craft.
 hero_summary: Lie-detector claims may suggest belief or stress, but they cannot verify that non-human beings took anyone aboard a craft.
 layout: default
 permalink: /polygraphs/
 sidebar_expanded_urls:
-- /mississippi/
+- /mississippi-cba-267/
 - /pascagoula/
 nav_short_title: Polygraphs
 title: Did the polygraphs really settle Pascagoula?
-title_full: Did the polygraphs really settle Pascagoula? | Pascagoula
+title_full: Did the polygraphs really settle Pascagoula?
 display_title_short: Polygraphs
 display_title: Polygraphs
 heading_title: Did the polygraphs really settle Pascagoula?
@@ -200,27 +200,27 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:36:12'
-parent_title: Why Pascagoula Still Divides UFO Readers | Mississippi UFOs
+parent_title: Why Pascagoula Still Divides UFO Readers
 parent_permalink: /pascagoula/
 parent_nav_short_title: Pascagoula
 parent_heading_title: Why Pascagoula Still Divides UFO Readers
 ancestor_links:
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Mississippi_cba267_pascagoula_evidence_ceda6b
-  title: Pascagoula | Mississippi
+  title: Pascagoula | Mississippi cba 267
   permalink: /pascagoula/
   short_title: Pascagoula
   heading_title: Why Pascagoula Still Divides UFO Readers
 breadcrumb_links:
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Mississippi_cba267_pascagoula_evidence_ceda6b
-  title: Pascagoula | Mississippi
+  title: Pascagoula | Mississippi cba 267
   permalink: /pascagoula/
   short_title: Pascagoula
   heading_title: Why Pascagoula Still Divides UFO Readers
@@ -232,7 +232,7 @@ sibling_links:
   heading_title: What did the hidden police tape prove?
 up_link:
   basename: Mississippi_cba267_pascagoula_evidence_ceda6b
-  title: Pascagoula | Mississippi
+  title: Pascagoula | Mississippi cba 267
   permalink: /pascagoula/
   short_title: Pascagoula
   heading_title: Why Pascagoula Still Divides UFO Readers
@@ -252,8 +252,7 @@ image: /assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b_pascagoula_p
 
 The polygraph tests linked to the 1973 [Pascagoula]({{ 'pascagoula/' | relative_url }}) incident are often presented as one of the strongest reasons some people believe Charles Hickson and Calvin Parker were telling the truth. Supporters point out that both men were widely reported to have passed lie-detector examinations after claiming they were taken aboard a strange craft near the Pascagoula River. In UFO literature, those results are frequently treated as evidence that the men were not inventing the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">i floated inside man returns site ufo abduction it gets historical marker</span><span class="citation-popover-snippet">The Washington PostThe men claimed they were abducted by aliens. In...26 Jun 2019 — Each had a puncture wound in one arm. Police tried t...</span></span></span>
 
-
-<img src="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b_pascagoula_polygraph_534ce1-Illustration-1-light.svg" | relative_url }}" alt="Polygraphs illustration 1" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b_pascagoula_polygraph_534ce1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b_pascagoula_polygraph_534ce1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b_pascagoula_polygraph_534ce1-Illustration-1-dark.svg" | relative_url }}" alt="Polygraphs illustration 1" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b_pascagoula_polygraph_534ce1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b_pascagoula_polygraph_534ce1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The problem is that polygraphs do not actually test whether aliens, spacecraft or any other extraordinary event occurred. They measure physiological reactions such as breathing, pulse, blood pressure and perspiration. At best, a polygraph may suggest whether a person appears stressed or deceptive while answering questions. It cannot establish that the content of a belief is factually correct. That distinction sits at the centre of the debate over Pascagoula and remains one of the main reasons sceptics argue that the tests never settled the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jaapl.org/content/38/4/446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jaapl.org">[J Am Acad Psychiatry Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jaapl.org</span><span class="citation-popover-snippet">J Am Acad Psychiatry LawThe Polygraph and Forensic PsychiatryThe polygraph is commonly referred to as a lie detector, but it does not rec...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/cognitive-neuroscience/polygraph" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationDo “lie detectors” work5 Aug 2004 — Despite this ubiquity, scientific evidence suggests that polygraph...</span></span></span>
 
 ## What was claimed about Hickson and Parker's tests
@@ -261,7 +260,6 @@ The problem is that polygraphs do not actually test whether aliens, spacecraft o
 Within days of the reported encounter, news coverage began referring to polygraph examinations given to the witnesses. Contemporary reporting and later summaries generally stated that the tests supported the men's accounts or found no indication that they were deliberately lying. Those reports became a major part of the case's reputation because there was little physical evidence available. The story therefore relied heavily on witness credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aquila.usm.edu/cgi/viewcontent.cgi?article=1985&amp;context=honors_theses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aquila.usm.edu">[aquila.usm.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aquila.usm.edu</span><span class="citation-popover-snippet">Hickson and Parker&#x27;s polygraph tests detected no signs of lying, the story gained traction in the papers. Media Coverage from 1973. The a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://darkhorsepressnow.com/news/top-story/2023-10-10/pascagoula-alien-abductions-of-1973-50-years-later/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darkhorsepressnow.com">[Darkhorse Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darkhorsepressnow.com</span><span class="citation-popover-snippet">Darkhorse PressPascagoula Alien Abductions of 1973: 50 Years later10 Oct 2023 — The two men underwent polygraph examinations later that w...</span></span></span>
 
 For many believers, the logic was straightforward:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -274,10 +272,9 @@ For many believers, the logic was straightforward:
 
 Taken together, these points were seen as evidence that the witnesses sincerely believed what they were reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">i floated inside man returns site ufo abduction it gets historical marker</span><span class="citation-popover-snippet">The Washington PostThe men claimed they were abducted by aliens. In...26 Jun 2019 — Each had a puncture wound in one arm. Police tried t...</span></span></span> 2https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wlox.com/2023/09/02/calvin-parker-who-claimed-he-was-abducted-by-aliens-pascagoula-1973-has-died/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wlox.com">[www.wlox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wlox.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The wording used in some accounts is important. Rather than proving an alien encounter occurred, polygraph findings were often framed as indicating that Hickson was telling the truth "as he believed it" or that examiners found no signs of intentional deception. That is a narrower claim than proving the event itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/oceanspringshistoricalsociety/posts/1715187689027304/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookPascagoula alien abduction story involvement explainedHickson took a polygraph test. The examiner concluded he &quot;told the truth as...</span></span></span>
+The wording used in some accounts is important. Rather than proving an alien encounter occurred, polygraph findings were often framed as indicating that Hickson was telling the truth "as he believed it" or that examiners found no signs of intentional deception. That is a narrower claim than proving the event itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/oceanspringshistoricalsociety/posts/1715187689027304/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Pascagoula alien abduction story involvement explainedHickson took a polygraph test. The examiner concluded he &quot;told the truth as...</span></span></span>
 
 Another complication is that descriptions of the testing vary across later retellings. Some accounts emphasise both men passing examinations, while others note disputes over exactly which tests were administered, by whom and under what conditions. As the story became more famous, the polygraph results were often simplified into a headline claim that the witnesses had been "proved truthful". That is stronger than what polygraph science can actually establish. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxnews.com/us/mississippi-man-who-shunned-spotlight-recalls-alleged-1973-incident-with-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-snippet">Fox NewsMississippi man, who shunned spotlight, recalls alleged...11 Oct 2013 — UFO skeptic Philip Klass believed Hickson and Parker&#x27;s r...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xVO6Z5zOSzA" title="To Tell the Truth #1765: Origin of the Pascagoula Abduction, Peru explorer (Bill Cullen hosts, 1973)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xVO6Z5zOSzA" target="_blank" rel="noopener noreferrer">To Tell the Truth #1765: Origin of the Pascagoula Abduction, Peru explorer (Bill Cullen hosts, 1973)</a></p><p class="youtube-embed-meta">Channel: GarryMooreFan &middot; Views: 7.1K &middot; Uploaded: July 2023 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xVO6Z5zOSzA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xVO6Z5zOSzA">Open on YouTube</a></p></div></div></div>
 
@@ -286,7 +283,6 @@ Another complication is that descriptions of the testing vary across later retel
 The phrase "lie detector" is misleading because polygraphs do not directly detect lies. They record bodily responses associated with emotional arousal and cognitive effort. The underlying assumption is that deceptive answers may produce measurable stress reactions. Scientists have long argued that the relationship is far more complicated than that. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jaapl.org/content/38/4/446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jaapl.org">[J Am Acad Psychiatry Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jaapl.org</span><span class="citation-popover-snippet">J Am Acad Psychiatry LawThe Polygraph and Forensic PsychiatryThe polygraph is commonly referred to as a lie detector, but it does not rec...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://crestresearch.ac.uk/comment/risk-assessment-and-polygraph-testing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crestresearch.ac.uk">[2crestresearch.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crestresearch.ac.uk</span><span class="citation-popover-snippet">Risk assessment and polygraph testing14 Oct 2024 — First, although the polygraph is often called a &#x27;lie detector&#x27;, it doesn&#x27;t detect lies...</span></span></span>
 
 A person may show a strong reaction because they are:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -302,7 +298,6 @@ None of those reactions automatically mean the person is lying. Equally, a calm 
 
 That distinction matters especially in UFO and abduction cases. Even if Hickson and Parker genuinely experienced something frightening, a polygraph cannot determine whether they correctly interpreted what happened. The test cannot distinguish between:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * A fabricated story.
@@ -317,8 +312,7 @@ It can only assess physiological reactions during questioning. <span class="cita
 
 This limitation has been recognised well beyond UFO debates. A major review by the US National Research Council concluded that the scientific evidence supporting polygraph validity was limited and uneven, while psychologists have repeatedly argued that polygraph results should not be treated as direct proof of truthfulness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/10420/chapter/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesThe Polygraph and Lie Detection (2003)The general quality of the evidence for judging polygraph validity is relatively...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/10420/chapter/2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesThe Polygraph and Lie Detection (2003)The general quality of the evidence for judging polygraph validity is relatively...</span></span></span>
 
-
-<img src="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b_pascagoula_polygraph_534ce1-Illustration-2-light.svg" | relative_url }}" alt="Polygraphs illustration 2" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b_pascagoula_polygraph_534ce1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b_pascagoula_polygraph_534ce1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b_pascagoula_polygraph_534ce1-Illustration-2-dark.svg" | relative_url }}" alt="Polygraphs illustration 2" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b_pascagoula_polygraph_534ce1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b_pascagoula_polygraph_534ce1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Pascagoula case is especially vulnerable to this problem
 
 Many UFO cases involve photographs, radar records, multiple independent witnesses or physical traces that can be examined separately from witness testimony. Pascagoula largely rests on the credibility of the witnesses themselves. That makes the polygraph issue unusually important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pascagoula incident</span><span class="citation-popover-snippet">Pascagoula incident</span></span></span>
@@ -331,8 +325,7 @@ A useful comparison is eyewitness testimony after a traumatic accident. A witnes
 
 For that reason, even researchers sympathetic to the witnesses often treat the tests as supporting evidence about credibility rather than decisive evidence about extraterrestrial contact.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_ldhiji54-s" title="The UFO abduction I believe... Pascagoula 1973 | SOUTHVESTIGATIONS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_ldhiji54-s" target="_blank" rel="noopener noreferrer">The UFO abduction I believe... Pascagoula 1973 | SOUTHVESTIGATIONS</a></p><p class="youtube-embed-meta">Channel: The Crafsman Steady Craftin &middot; Views: 46.6K &middot; Uploaded: November 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_ldhiji54-s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_ldhiji54-s">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5CXpd0LJKng" title="What Happened in Pascagoula?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5CXpd0LJKng" target="_blank" rel="noopener noreferrer">What Happened in Pascagoula?</a></p><p class="youtube-embed-meta">Channel: Bedtime Stories &middot; Views: 493.9K &middot; Uploaded: November 2023 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5CXpd0LJKng" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5CXpd0LJKng">Open on YouTube</a></p></div></div></div>
 
 ## How sceptics use the polygraph issue in the case
 
@@ -344,21 +337,19 @@ A second sceptical argument focuses on category error. Even a perfectly administ
 
 A third argument concerns later retellings. Over decades, public discussion sometimes shifted from "the witnesses passed polygraphs" to "the witnesses were proved truthful". Sceptics argue that this exaggerates what the examinations can show and turns a limited credibility indicator into a substitute for physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxnews.com/us/mississippi-man-who-shunned-spotlight-recalls-alleged-1973-incident-with-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxnews.com">[Fox News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxnews.com</span><span class="citation-popover-snippet">Fox NewsMississippi man, who shunned spotlight, recalls alleged...11 Oct 2013 — UFO skeptic Philip Klass believed Hickson and Parker&#x27;s r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2012/05/22164303/p12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[2cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">“inexperienced” polygraph operator and that Hickson refused to take another administered by an expert police exam...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/127_zN40nIM" title="Pascagoula UFO Abduction (1973, Calvin Parker, Charles Hickson) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=127_zN40nIM" target="_blank" rel="noopener noreferrer">Pascagoula UFO Abduction (1973, Calvin Parker, Charles Hickson) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 9.4K &middot; Uploaded: November 2020 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=127_zN40nIM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=127_zN40nIM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dFNuS4ezQ5k" title="Craziest UFO Abduction Story (Passed Lie Detector Tests)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dFNuS4ezQ5k" target="_blank" rel="noopener noreferrer">Craziest UFO Abduction Story (Passed Lie Detector Tests)</a></p><p class="youtube-embed-meta">Channel: The Infographics Show &middot; Views: 173.0K &middot; Uploaded: April 2024 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dFNuS4ezQ5k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dFNuS4ezQ5k">Open on YouTube</a></p></div></div></div>
 
 ## Did the polygraphs really settle Pascagoula?
 
 The short answer is no.
 
-The polygraph results remain relevant because they support the view that Hickson and Parker appeared sincere and distressed rather than obviously fraudulent. In a case built heavily on witness testimony, that is not trivial evidence. It helps explain why the Pascagoula incident became one of [Mississippi]({{ 'mississippi/' | relative_url }})'s most enduring UFO stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">i floated inside man returns site ufo abduction it gets historical marker</span><span class="citation-popover-snippet">The Washington PostThe men claimed they were abducted by aliens. In...26 Jun 2019 — Each had a puncture wound in one arm. Police tried t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://darkhorsepressnow.com/news/top-story/2023-10-10/pascagoula-alien-abductions-of-1973-50-years-later/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darkhorsepressnow.com">[Darkhorse Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darkhorsepressnow.com</span><span class="citation-popover-snippet">Darkhorse PressPascagoula Alien Abductions of 1973: 50 Years later10 Oct 2023 — The two men underwent polygraph examinations later that w...</span></span></span>
+The polygraph results remain relevant because they support the view that Hickson and Parker appeared sincere and distressed rather than obviously fraudulent. In a case built heavily on witness testimony, that is not trivial evidence. It helps explain why the Pascagoula incident became one of Mississippi's most enduring UFO stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">i floated inside man returns site ufo abduction it gets historical marker</span><span class="citation-popover-snippet">The Washington PostThe men claimed they were abducted by aliens. In...26 Jun 2019 — Each had a puncture wound in one arm. Police tried t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://darkhorsepressnow.com/news/top-story/2023-10-10/pascagoula-alien-abductions-of-1973-50-years-later/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darkhorsepressnow.com">[Darkhorse Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darkhorsepressnow.com</span><span class="citation-popover-snippet">Darkhorse PressPascagoula Alien Abductions of 1973: 50 Years later10 Oct 2023 — The two men underwent polygraph examinations later that w...</span></span></span>
 
 Yet the tests cannot answer the central question. They cannot prove that a craft landed on the riverbank, that non-human entities were present or that an abduction occurred. They provide information about the witnesses' reactions, not direct confirmation of the event itself. Modern scientific criticism of polygraph testing has reinforced that distinction rather than removed it. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://jaapl.org/content/38/4/446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jaapl.org">[3J Am Acad Psychiatry Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jaapl.org</span><span class="citation-popover-snippet">J Am Acad Psychiatry LawThe Polygraph and Forensic PsychiatryThe polygraph is commonly referred to as a lie detector, but it does not rec...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/10420/chapter/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">The Polygraph and Lie Detection (2003)We have reviewed the scientific evidence on the polygraph with the goal of assessing its validity f...</span></span></span>
 
 That leaves the Pascagoula polygraphs in an unusual position. They are neither meaningless nor decisive. They strengthen the argument that something genuinely frightened the witnesses, but they do not resolve what that "something" actually was. For supporters, that keeps the case credible. For sceptics, it leaves the most extraordinary claims still unproven. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">i floated inside man returns site ufo abduction it gets historical marker</span><span class="citation-popover-snippet">The Washington PostThe men claimed they were abducted by aliens. In...26 Jun 2019 — Each had a puncture wound in one arm. Police tried t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jaapl.org/content/38/4/446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jaapl.org">[2J Am Acad Psychiatry Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jaapl.org</span><span class="citation-popover-snippet">J Am Acad Psychiatry LawThe Polygraph and Forensic PsychiatryThe polygraph is commonly referred to as a lie detector, but it does not rec...</span></span></span>
 
-
-<img src="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b_pascagoula_polygraph_534ce1-Illustration-3-light.svg" | relative_url }}" alt="Polygraphs illustration 3" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b_pascagoula_polygraph_534ce1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b_pascagoula_polygraph_534ce1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b_pascagoula_polygraph_534ce1-Illustration-3-dark.svg" | relative_url }}" alt="Polygraphs illustration 3" data-theme-src-dark="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b_pascagoula_polygraph_534ce1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mississippi_cba267_pascagoula_evidence_ceda6b_pascagoula_polygraph_534ce1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -446,7 +437,7 @@ That leaves the Pascagoula polygraphs in an unusual position. They are neither m
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -456,111 +447,36 @@ That leaves the Pascagoula polygraphs in an unusual position. They are neither m
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pascagoula+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pascagoula alien figure" data-ebay-reference="did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pascagoula Alien of Mississippi. Weird alien sculpture statue, cryptid gift"><img src="https://i.ebayimg.com/images/g/~JcAAOSwK2BmfLss/s-l225.jpg" alt="Listing image for Pascagoula Alien of Mississippi. Weird alien sculpture statue, cryptid gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pascagoula+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pascagoula alien figure" data-ebay-reference="did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Pascagoula Alien of Mississippi. Weird alien sculpture statue, cryptid gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pascagoula+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pascagoula alien figure" data-ebay-reference="did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pascagoula alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: pascagoula alien figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pascagoula+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pascagoula alien figure" data-ebay-reference="did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -568,15 +484,15 @@ That leaves the Pascagoula polygraphs in an unusual position. They are neither m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pascagoula+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pascagoula alien figure" data-ebay-reference="did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marmit the Alien of Pascagoula Soft Vinyl Figure F/S FEDEX"><img src="https://i.ebayimg.com/images/g/2hQAAeSwxChqBIny/s-l225.jpg" alt="Listing image for Marmit the Alien of Pascagoula Soft Vinyl Figure F/S FEDEX" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pascagoula+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pascagoula alien figure" data-ebay-reference="did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Marmit the Alien of Pascagoula Soft Vinyl Figure F/S FEDEX</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pascagoula+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pascagoula alien figure" data-ebay-reference="did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pascagoula alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: pascagoula alien figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pascagoula+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pascagoula alien figure" data-ebay-reference="did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -584,15 +500,15 @@ That leaves the Pascagoula polygraphs in an unusual position. They are neither m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pascagoula+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pascagoula alien figure" data-ebay-reference="did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marmit little Pascagoula alien Soft Vinyl Figure sofubi UNOPENED"><img src="https://i.ebayimg.com/images/g/IhgAAeSwMHlpqtQL/s-l225.jpg" alt="Listing image for Marmit little Pascagoula alien Soft Vinyl Figure sofubi UNOPENED" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pascagoula+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pascagoula alien figure" data-ebay-reference="did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Marmit little Pascagoula alien Soft Vinyl Figure sofubi UNOPENED</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pascagoula+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pascagoula alien figure" data-ebay-reference="did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pascagoula alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: pascagoula alien figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pascagoula+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pascagoula alien figure" data-ebay-reference="did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -600,15 +516,15 @@ That leaves the Pascagoula polygraphs in an unusual position. They are neither m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=pascagoula+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pascagoula alien figure" data-ebay-reference="did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marmit little Pascagoula alien Soft Vinyl Figure sofubi"><img src="https://i.ebayimg.com/images/g/49cAAeSw2~xpcJFO/s-l225.jpg" alt="Listing image for Marmit little Pascagoula alien Soft Vinyl Figure sofubi" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pascagoula+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pascagoula alien figure" data-ebay-reference="did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Marmit little Pascagoula alien Soft Vinyl Figure sofubi</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=pascagoula+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pascagoula alien figure" data-ebay-reference="did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for pascagoula alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: pascagoula alien figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=pascagoula+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pascagoula alien figure" data-ebay-reference="did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -616,7 +532,7 @@ That leaves the Pascagoula polygraphs in an unusual position. They are neither m
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=polygraphs-did-the-polygraphs-really-settle-pascagoula-mississippi-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=pascagoula+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="pascagoula alien figure" data-ebay-reference="did-the-polygraphs-really-settle-pascagoula-pascagoula-alien-figure" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -693,17 +609,31 @@ That leaves the Pascagoula polygraphs in an unusual position. They are neither m
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -716,42 +646,73 @@ That leaves the Pascagoula polygraphs in an unusual position. They are neither m
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -766,12 +727,17 @@ That leaves the Pascagoula polygraphs in an unusual position. They are neither m
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -781,174 +747,174 @@ That leaves the Pascagoula polygraphs in an unusual position. They are neither m
 
 1. <a id="endnote-1"></a>
    Source: aquila.usm.edu  
-   Link: [https://aquila.usm.edu/cgi/viewcontent.cgi?article=1985&context=honors_theses](https://aquila.usm.edu/cgi/viewcontent.cgi?article=1985&context=honors_theses)  
+   Link: <a href="https://aquila.usm.edu/cgi/viewcontent.cgi?article=1985&amp;context=honors_theses" target="_blank" rel="noopener noreferrer nofollow">https://aquila.usm.edu/cgi/viewcontent.cgi?article=1985&amp;context=honors_theses</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hickson and Parker&#x27;s polygraph tests detected no signs of lying, the story gained traction in the papers. Media Coverage from 1973. The a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Pascagoula incident  
-   Link: [https://en.wikipedia.org/wiki/Pascagoula_incident](https://en.wikipedia.org/wiki/Pascagoula_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pascagoula_incident</a>  
 
 3. <a id="endnote-3"></a>
    Source: wlox.com  
-   Link: [https://www.wlox.com/2023/09/02/calvin-parker-who-claimed-he-was-abducted-by-aliens-pascagoula-1973-has-died/](https://www.wlox.com/2023/09/02/calvin-parker-who-claimed-he-was-abducted-by-aliens-pascagoula-1973-has-died/)  
+   Link: <a href="https://www.wlox.com/2023/09/02/calvin-parker-who-claimed-he-was-abducted-by-aliens-pascagoula-1973-has-died/" target="_blank" rel="noopener noreferrer nofollow">https://www.wlox.com/2023/09/02/calvin-parker-who-claimed-he-was-abducted-by-aliens-pascagoula-1973-has-died/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.wlox.comCalvin](https://www.wlox.comCalvin) Parker, who claimed he was abducted by aliens in...2 Sept 2023 — After the mysterious abduction, Hickson and...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/oceanspringshistoricalsociety/posts/1715187689027304/](https://www.facebook.com/groups/oceanspringshistoricalsociety/posts/1715187689027304/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookPascagoula alien abduction story involvement explainedHickson took a polygraph test. The examiner concluded he &quot;told the truth as...</p></details>
+   Link: <a href="https://www.facebook.com/groups/oceanspringshistoricalsociety/posts/1715187689027304/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/oceanspringshistoricalsociety/posts/1715187689027304/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pascagoula alien abduction story involvement explainedHickson took a polygraph test. The examiner concluded he &quot;told the truth as...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: crestresearch.ac.uk  
-   Link: [https://crestresearch.ac.uk/comment/risk-assessment-and-polygraph-testing/](https://crestresearch.ac.uk/comment/risk-assessment-and-polygraph-testing/)  
+   Link: <a href="https://crestresearch.ac.uk/comment/risk-assessment-and-polygraph-testing/" target="_blank" rel="noopener noreferrer nofollow">https://crestresearch.ac.uk/comment/risk-assessment-and-polygraph-testing/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk assessment and polygraph testing14 Oct 2024 — First, although the polygraph is often called a &#x27;lie detector&#x27;, it doesn&#x27;t detect lies...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sgp.fas.org  
-   Link: [https://sgp.fas.org/othergov/polygraph/ota/conc.html](https://sgp.fas.org/othergov/polygraph/ota/conc.html)  
+   Link: <a href="https://sgp.fas.org/othergov/polygraph/ota/conc.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/polygraph/ota/conc.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyScientific Validity of Polygraph Testing: A Research Review...false positives ranged from 2 to 50.7 per...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDeception Detection and the Autonomic Nervous System  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6654171/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6654171/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6654171/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6654171/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Detection and the Autonomic Nervous System - PMCby LG Cook · 2019 · Cited by 39 — By using vital signs as an indirect measurement of dece...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: issues.org  
-   Link: [https://issues.org/faigman-polygraph-lie-detector-limits-accuracy/](https://issues.org/faigman-polygraph-lie-detector-limits-accuracy/)  
+   Link: <a href="https://issues.org/faigman-polygraph-lie-detector-limits-accuracy/" target="_blank" rel="noopener noreferrer nofollow">https://issues.org/faigman-polygraph-lie-detector-limits-accuracy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Issues in Science and TechnologyThe Limits of the PolygraphPolygraph tests are used to detect lies, but how accurate are they? This analy...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: lib.usm.edu  
    Title: iotm june 2022  
-   Link: [https://lib.usm.edu/spcol/exhibitions/item_of_the_month/iotm_june_2022.html](https://lib.usm.edu/spcol/exhibitions/item_of_the_month/iotm_june_2022.html)  
+   Link: <a href="https://lib.usm.edu/spcol/exhibitions/item_of_the_month/iotm_june_2022.html" target="_blank" rel="noopener noreferrer nofollow">https://lib.usm.edu/spcol/exhibitions/item_of_the_month/iotm_june_2022.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hickson Oral History (1979) - University of Southern MississippiIn 1973, two shipyard workers—Charles Hickson and Calvin Parker—claimed t...</p></details>
    Published: june 2022  
 
 10. <a id="endnote-10"></a>
    Source: cdn.centerforinquiry.org  
-   Link: [https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2012/05/22164303/p12.pdf](https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2012/05/22164303/p12.pdf)  
+   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2012/05/22164303/p12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2012/05/22164303/p12.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“inexperienced” polygraph operator and that Hickson refused to take another administered by an expert police exam...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/7506/html/](https://committees.parliament.uk/writtenevidence/7506/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/7506/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/7506/html/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesExecutive Summary22 Jun 2020 — Polygraph operators face thus an unpalatable dilemma: Either to inform the subject...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: two fishermen reported being abducted by aliens in 1973 police hid a recorder ex  
-   Link: [https://www.facebook.com/beinzpired/posts/two-fishermen-reported-being-abducted-by-aliens-in-1973-police-hid-a-recorder-ex/122257911398160789/](https://www.facebook.com/beinzpired/posts/two-fishermen-reported-being-abducted-by-aliens-in-1973-police-hid-a-recorder-ex/122257911398160789/)  
+   Link: <a href="https://www.facebook.com/beinzpired/posts/two-fishermen-reported-being-abducted-by-aliens-in-1973-police-hid-a-recorder-ex/122257911398160789/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/beinzpired/posts/two-fishermen-reported-being-abducted-by-aliens-in-1973-police-hid-a-recorder-ex/122257911398160789/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Treating a polygraph as proof... Hickson and Parker.Both witnesses voluntarily underwent polygraph examinations shortly after the incide...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: irp.fas.org  
-   Link: [https://irp.fas.org/congress/2003_hr/090403fienberg.html](https://irp.fas.org/congress/2003_hr/090403fienberg.html)  
+   Link: <a href="https://irp.fas.org/congress/2003_hr/090403fienberg.html" target="_blank" rel="noopener noreferrer nofollow">https://irp.fas.org/congress/2003_hr/090403fienberg.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fienberg on DOE Polygraph PolicyThe committee&#x27;s report, The Polygraph and Lie Detection, which was released last October reviewed the sci...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Polygraph](https://en.wikipedia.org/wiki/Polygraph)  
+   Link: <a href="https://en.wikipedia.org/wiki/Polygraph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Polygraph</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PolygraphThe belief underpinning the use of the polygraph is that deceptive answers will produce physiological responses that can be d...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: washingtonpost.com  
    Title: i floated inside man returns site ufo abduction it gets historical marker  
-   Link: [https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/](https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/)  
+   Link: <a href="https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/history/2019/06/26/i-floated-inside-man-returns-site-ufo-abduction-it-gets-historical-marker/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostThe men claimed they were abducted by aliens. In...26 Jun 2019 — Each had a puncture wound in one arm. Police tried t...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: darkhorsepressnow.com  
-   Link: [https://darkhorsepressnow.com/news/top-story/2023-10-10/pascagoula-alien-abductions-of-1973-50-years-later/](https://darkhorsepressnow.com/news/top-story/2023-10-10/pascagoula-alien-abductions-of-1973-50-years-later/)  
+   Link: <a href="https://darkhorsepressnow.com/news/top-story/2023-10-10/pascagoula-alien-abductions-of-1973-50-years-later/" target="_blank" rel="noopener noreferrer nofollow">https://darkhorsepressnow.com/news/top-story/2023-10-10/pascagoula-alien-abductions-of-1973-50-years-later/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Darkhorse PressPascagoula Alien Abductions of 1973: 50 Years later10 Oct 2023 — The two men underwent polygraph examinations later that w...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: jaapl.org  
-   Link: [https://jaapl.org/content/38/4/446](https://jaapl.org/content/38/4/446)  
+   Link: <a href="https://jaapl.org/content/38/4/446" target="_blank" rel="noopener noreferrer nofollow">https://jaapl.org/content/38/4/446</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>J Am Acad Psychiatry LawThe Polygraph and Forensic PsychiatryThe polygraph is commonly referred to as a lie detector, but it does not rec...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/topics/cognitive-neuroscience/polygraph](https://www.apa.org/topics/cognitive-neuroscience/polygraph)  
+   Link: <a href="https://www.apa.org/topics/cognitive-neuroscience/polygraph" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/cognitive-neuroscience/polygraph</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationDo “lie detectors” work5 Aug 2004 — Despite this ubiquity, scientific evidence suggests that polygraph...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/10420/chapter/2](https://www.nationalacademies.org/read/10420/chapter/2)  
+   Link: <a href="https://www.nationalacademies.org/read/10420/chapter/2" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/10420/chapter/2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesThe Polygraph and Lie Detection (2003)The general quality of the evidence for judging polygraph validity is relatively...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: foxnews.com  
-   Link: [https://www.foxnews.com/us/mississippi-man-who-shunned-spotlight-recalls-alleged-1973-incident-with-ufo](https://www.foxnews.com/us/mississippi-man-who-shunned-spotlight-recalls-alleged-1973-incident-with-ufo)  
+   Link: <a href="https://www.foxnews.com/us/mississippi-man-who-shunned-spotlight-recalls-alleged-1973-incident-with-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/us/mississippi-man-who-shunned-spotlight-recalls-alleged-1973-incident-with-ufo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fox NewsMississippi man, who shunned spotlight, recalls alleged...11 Oct 2013 — UFO skeptic Philip Klass believed Hickson and Parker&#x27;s r...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/10420/chapter/10](https://www.nationalacademies.org/read/10420/chapter/10)  
+   Link: <a href="https://www.nationalacademies.org/read/10420/chapter/10" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/10420/chapter/10</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Polygraph and Lie Detection (2003)We have reviewed the scientific evidence on the polygraph with the goal of assessing its validity f...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/10420/chapter/4](https://www.nationalacademies.org/read/10420/chapter/4)  
+   Link: <a href="https://www.nationalacademies.org/read/10420/chapter/4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/10420/chapter/4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Polygraph and Lie Detection (2003)For example, a polygraph test may be judged to indicate deception mainly because of a strong physio...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/10420/chapter/5](https://www.nationalacademies.org/read/10420/chapter/5)  
+   Link: <a href="https://www.nationalacademies.org/read/10420/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/10420/chapter/5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If such effects were found to...Read more...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: evawintl.org  
-   Link: [https://evawintl.org/wp-content/uploads/10420.pdf](https://evawintl.org/wp-content/uploads/10420.pdf)  
+   Link: <a href="https://evawintl.org/wp-content/uploads/10420.pdf" target="_blank" rel="noopener noreferrer nofollow">https://evawintl.org/wp-content/uploads/10420.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: supertalk.fm  
-   Link: [https://www.supertalk.fm/they-were-telling-the-truth-netflix-show-on-pascagoula-abduction-makes-more-believers/](https://www.supertalk.fm/they-were-telling-the-truth-netflix-show-on-pascagoula-abduction-makes-more-believers/)  
+   Link: <a href="https://www.supertalk.fm/they-were-telling-the-truth-netflix-show-on-pascagoula-abduction-makes-more-believers/" target="_blank" rel="noopener noreferrer nofollow">https://www.supertalk.fm/they-were-telling-the-truth-netflix-show-on-pascagoula-abduction-makes-more-believers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Netflix show on Pascagoula Abduction makes more believers27 May 2024 — It&#x27;s been nearly 51 years since Charles Hickson and Calvin Parker...</p></details>
    Published: May 2024  
 
 26. <a id="endnote-26"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2016/03/the-lie-detector-test-revisited-a-great-example-of-junk-science/](https://skepticalinquirer.org/2016/03/the-lie-detector-test-revisited-a-great-example-of-junk-science/)  
+   Link: <a href="https://skepticalinquirer.org/2016/03/the-lie-detector-test-revisited-a-great-example-of-junk-science/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2016/03/the-lie-detector-test-revisited-a-great-example-of-junk-science/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>confessions, it is based on scientifically implausible assumptions of accuracy and is biased against the in...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S030105112400067X](https://www.sciencedirect.com/science/article/abs/pii/S030105112400067X)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectPsychology and the lie detector industry: A fifty-year...by WG Iacono · 2024 · Cited by 9 — Fifty years of research has not...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S030105112400067X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S030105112400067X</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology and the lie detector industry: A fifty-year...by WG Iacono · 2024 · Cited by 9 — Fifty years of research has not...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/philosophy/comments/16uq56n/in_this_philosophy_of_science_video_we_to_look_at/](https://www.reddit.com/r/philosophy/comments/16uq56n/in_this_philosophy_of_science_video_we_to_look_at/)  
+   Link: <a href="https://www.reddit.com/r/philosophy/comments/16uq56n/in_this_philosophy_of_science_video_we_to_look_at/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/philosophy/comments/16uq56n/in_this_philosophy_of_science_video_we_to_look_at/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e detector testing and how from a scientific standpoint it&#x27;s absolute bullshit...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: supertalk.fm  
-   Link: [https://www.supertalk.fm/longtime-ufo-researcher-releases-new-docuseries-on-pascagoula-abduction/](https://www.supertalk.fm/longtime-ufo-researcher-releases-new-docuseries-on-pascagoula-abduction/)  
+   Link: <a href="https://www.supertalk.fm/longtime-ufo-researcher-releases-new-docuseries-on-pascagoula-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://www.supertalk.fm/longtime-ufo-researcher-releases-new-docuseries-on-pascagoula-abduction/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 27, 2025 — In terms of what impact the Pascagoula Abduction had on UFO believers, the passing of lie detectors by Hickson and Parker...</p></details>
    Published: May 27, 2025  
 
 30. <a id="endnote-30"></a>
    Source: liedetectortest.com  
    Title: nrc 2003 report how science judged polygraph  
-   Link: [https://liedetectortest.com/polygraph/nrc-2003-report-how-science-judged-polygraph](https://liedetectortest.com/polygraph/nrc-2003-report-how-science-judged-polygraph)  
+   Link: <a href="https://liedetectortest.com/polygraph/nrc-2003-report-how-science-judged-polygraph" target="_blank" rel="noopener noreferrer nofollow">https://liedetectortest.com/polygraph/nrc-2003-report-how-science-judged-polygraph</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NRC 2003 Report: How Science Evaluated Polygraph...26 Mar 2026 — In 2003, the National Research Council published &#x27;The Polygraph and Lie...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/title/tt11672244/plotsummary/](https://www.imdb.com/title/tt11672244/plotsummary/)  
+   Link: <a href="https://www.imdb.com/title/tt11672244/plotsummary/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt11672244/plotsummary/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Contact: The Pascagoula UFO Encounter (Video 2020)A seminal alien abduction case is re-opened as new eye witnesses confirm the horr...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=xVO6Z5zOSzA](https://www.youtube.com/watch?v=xVO6Z5zOSzA)  
+   Link: <a href="https://www.youtube.com/watch?v=xVO6Z5zOSzA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xVO6Z5zOSzA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Were Shipyard Workers Abducted by Floating Space Creatures? | Pascagoula River Alien Encounter...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/30284848/](https://pubmed.ncbi.nlm.nih.gov/30284848/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30284848/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30284848/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>status of forensic lie detection with the comparison...by WG Iacono · 2019 · Cited by 102 — Polygraph proponents argue that current rese...</p></details>

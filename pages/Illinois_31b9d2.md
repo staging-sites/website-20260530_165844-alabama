@@ -258,7 +258,7 @@ sibling_links:
   short_title: Michigan UFOs
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Alabama_d1f92d
   title: Alabama UFOs
@@ -273,9 +273,9 @@ sibling_links:
   permalink: /what-keeps-tennessees-ufo-stories-alive/
   short_title: Tennessee UFOs
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Idaho_18334c
   title: Idaho UFOs
   permalink: /what-makes-idaho-a-key-ufo-hotspot/
@@ -285,9 +285,9 @@ sibling_links:
   permalink: /what-makes-indianas-ufo-history-unique/
   short_title: Indiana UFOs
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: South_Carolina_11d001
   title: South Carolina UFOs
   permalink: /what-makes-south-carolinas-ufo-story/
@@ -445,7 +445,7 @@ child_links:
   title: Historic Sightings | Illinois
   permalink: /historic-sightings/
   short_title: Historic Sightings
-  heading_title: 'Illinois UFO History: 1947–1960s Reports'
+  heading_title: 'Illinois UFO History: 1947–1960 s Reports'
 - basename: Illinois_31b9d2_ohare_airport_sighti_66289a
   title: O Hare Sighting | Illinois
   permalink: /o-hare-sighting/
@@ -479,11 +479,10 @@ image: /assets/images/Illinois_31b9d2-overview-social.jpg
 
 ## Historic Sightings: From Flying Disks to Quad Cities Reports
 
-In the immediate post‑war years, Illinois was part of the early “flying saucer” craze that swept the United States. Newspapers from Rockford, Galena, Kankakee and Peoria recorded disk‑shaped objects and strange lights in the sky as early as 1947 and into the 1960s, reflecting a national wave of aerial mystery reports in the wake of the Kenneth Arnold sighting and the Roswell era emergence of UFO culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.library.illinois.edu/hpnl/blog/idnc-flying-saucer-craze/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.illinois.edu">[University Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.illinois.edu</span><span class="citation-popover-snippet">University LibraryDigital Newspaper Dive: The Flying Saucer Phenomena of Post-war America | History, Philosophy, and Newspaper Library |...</span></span></span>
-
+In the immediate post‑war years, Illinois was part of the early “flying saucer” craze that swept the United States. Newspapers from Rockford, Galena, Kankakee and Peoria recorded disk‑shaped objects and strange lights in the sky as early as 1947 and into the 1960s, reflecting a national wave of aerial mystery reports in the wake of the Kenneth Arnold sighting and the Roswell era emergence of UFO culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.library.illinois.edu/hpnl/blog/idnc-flying-saucer-craze/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.illinois.edu">[University Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.illinois.edu</span><span class="citation-popover-snippet">University LibraryDigital Newspaper Dive: The Flying Saucer Phenomena of Post-war America &#124; History, Philosophy, and Newspaper Library &#124;...</span></span></span>
 
 <img src="{{ "/assets/images/Illinois_31b9d2-overview.webp" | relative_url }}" alt="Overview image for Illinois" loading="eager" decoding="sync" fetchpriority="high">
-In the 1960s, reports from the Quad Cities region (straddling the Illinois‑Iowa border) included incidents that drew the attention of local newspapers and, according to retrospective accounts, even the U.S. Air Force’s **Project Blue Book** — the Air Force’s official UFO investigation programme which ran until 1969. These cases, involving police and civilian witnesses reporting unusual aerial objects in areas like Moline, were documented in local press and oral histories, though original archival records are hard to access today. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs_Archive/comments/1schbmb/historical_documentation_of_sightings_in_the_quad/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditHistorical Documentation of Sightings in the Quad Cities Region: Four Blue Book backed Cases and One Unknown Iowa SightingApril 4...</span></span></span>
+In the 1960s, reports from the Quad Cities region (straddling the Illinois‑Iowa border) included incidents that drew the attention of local newspapers and, according to retrospective accounts, even the U.S. Air Force’s **Project Blue Book** — the Air Force’s official UFO investigation programme which ran until 1969. These cases, involving police and civilian witnesses reporting unusual aerial objects in areas like Moline, were documented in local press and oral histories, though original archival records are hard to access today. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs_Archive/comments/1schbmb/historical_documentation_of_sightings_in_the_quad/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Historical Documentation of Sightings in the Quad Cities Region: Four Blue Book backed Cases and One Unknown Iowa SightingApril 4...</span></span></span>
 
 Across the decades, thousands of sightings from Illinois observers have been catalogued in the National UFO Reporting Center’s online database — from simple lights and discs to triangular formations — with dozens of reports logged each year. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoindex.com/illinois" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[UFO Index]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">UFO Index Illinois UFO Reports</span><span class="citation-popover-snippet">UFO Index Illinois UFO Reports</span></span></span>
 
@@ -497,8 +496,7 @@ Despite widespread media attention and later inclusion in documentaries and tele
 
 The St. Clair event’s mixture of credible witnesses, extensive radio communication, and unresolved elements has kept it in circulation among UFO researchers, though no definitive physical evidence has emerged to prove an extraterrestrial craft was involved.
 
-
-<img src="{{ "/assets/images/Illinois_31b9d2-Illustration-1-light.svg" | relative_url }}" alt="Illinois illustration 1" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Illinois_31b9d2-Illustration-1-dark.svg" | relative_url }}" alt="Illinois illustration 1" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## O’Hare International Airport Sighting (November 2006): Aviation Professionals Involved
 
 Arguably the **best‑known modern UFO report** in Illinois occurred at **Chicago’s O’Hare International Airport on 7 November 2006**. Around **4:15 p.m.**, more than a dozen United Airlines employees — including mechanics, ground crew and pilots — reported a saucer‑shaped, metallic object hovering over *Concourse C‑17*. Some witnesses said it was silent, featureless, and motionless before it shot vertically through a layer of clouds, leaving a distinctive circular gap in the cloud deck. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black triangle (UFO</span><span class="citation-popover-snippet">Black triangle (UFO</span></span></span>
@@ -509,7 +507,6 @@ Officially, the **Federal Aviation Administration (FAA)** declined to conduct a 
 
 To this day there is no consensus explanation that matches all aspects of the eyewitness accounts. The absence of radar detection and physical evidence, along with agreement among trained observers on certain details, makes this case a persistent point of discussion in UAP research circles.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fgWgVMNB040" title="FAA audio of UFO over Chicago O&#x27;Hare Airport in 2006 | Special Report | The Basement Office |" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fgWgVMNB040" target="_blank" rel="noopener noreferrer">FAA audio of UFO over Chicago O&#x27;Hare Airport in 2006 | Special Report | The Basement Office |</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 330.6K &middot; Uploaded: December 2020 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fgWgVMNB040" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fgWgVMNB040">Open on YouTube</a></p></div></div></div>
 
 ## Suburban Sightings: Tinley Park and Other Clusters
@@ -518,27 +515,24 @@ During the early 2000s, suburban areas south of Chicago — notably **[Tinley Pa
 
 These periodic sightings drew local television and national documentary attention, and were featured in episodes of programmes such as *UFO Hunters* and television specials. While some investigators argued that the light patterns and persistent reports suggested an organised phenomenon, critics noted that many of the recorded lights could be attributed to aircraft navigation lights, atmospheric reflection, or other mundane sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2006_O%27Hare_International_Airport_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2006 O&#x27;Hare International Airport UFO sighting</span><span class="citation-popover-snippet">2006 O&#x27;Hare International Airport UFO sighting</span></span></span>
 
-
-<img src="{{ "/assets/images/Illinois_31b9d2-Illustration-3-light.svg" | relative_url }}" alt="Illinois illustration 3" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Illinois_31b9d2-Illustration-3-dark.svg" | relative_url }}" alt="Illinois illustration 3" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Patterns, Reporting, and Official Recording
 
-Illinois — particularly the **Chicago metro area and its surrounding counties** — regularly appears in UFO sighting data. Patch‑reported compilations for years like 2017 and 2019 showed **dozens of sightings** logged in a matter of months, covering Springfield, Champaign, Carlinville, Skokie and other locales. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/illinois/across-il/47-ufo-sightings-reported-illinois-2019-so-far" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">47 ufo sightings reported illinois 2019 so far</span><span class="citation-popover-snippet">Patch47 UFO Sightings Reported In Illinois In 2019 So Far | Across Illinois, IL PatchJune 24, 2019...</span><span class="citation-popover-meta">Published: June 24, 2019</span></span></span>
+Illinois — particularly the **Chicago metro area and its surrounding counties** — regularly appears in UFO sighting data. Patch‑reported compilations for years like 2017 and 2019 showed **dozens of sightings** logged in a matter of months, covering Springfield, Champaign, Carlinville, Skokie and other locales. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/illinois/across-il/47-ufo-sightings-reported-illinois-2019-so-far" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">47 ufo sightings reported illinois 2019 so far</span><span class="citation-popover-snippet">47 UFO Sightings Reported In Illinois In 2019 So Far &#124; Across Illinois, IL PatchJune 24, 2019...</span><span class="citation-popover-meta">Published: June 24, 2019</span></span></span>
 
-Civilian reporting organisations such as the **National UFO Reporting Center (NUFORC)** and the **Mutual UFO Network (MUFON)** maintain databases of witness testimonies and encourage people to file detailed accounts, which are then made public for researchers to analyse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=46646" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 46646...</span></span></span>
+Civilian reporting organisations such as the **National UFO Reporting Center (NUFORC)** and the **Mutual UFO Network (MUFON)** maintain databases of witness testimonies and encourage people to file detailed accounts, which are then made public for researchers to analyse. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=46646" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 46646...</span></span></span>
 
 These reports vary significantly in detail, credibility, and context — from simple lights in the sky that may be aircraft, satellites, or meteors, to accounts involving multiple observers and unusual motion patterns. Researchers stress that while witness testimony can be compelling, human perception is prone to error and many seemingly anomalous sightings are ultimately linked to misidentified conventional objects or natural phenomena.
 
-
-<img src="{{ "/assets/images/Illinois_31b9d2-Illustration-2-light.svg" | relative_url }}" alt="Illinois illustration 2" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Illinois_31b9d2-Illustration-2-dark.svg" | relative_url }}" alt="Illinois illustration 2" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Balancing Evidence and Explanation
 
 Across Illinois, several themes emerge in its UFO history:
 
 * **Multiple witness reports with varying credibility:** Incidents like the St. Clair Triangle and O’Hare Airport sightings involve trained observers and multiple independent witnesses, making them particularly notable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2006_O%27Hare_International_Airport_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2006 O&#x27;Hare International Airport UFO sighting</span><span class="citation-popover-snippet">2006 O&#x27;Hare International Airport UFO sighting</span></span></span>
-* **Suburban and rural clusters:** Areas such as Tinley Park and the Quad Cities show patterns of repeated sightings over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/about-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">about us</span><span class="citation-popover-snippet">NUFORCAbout Us | NUFORCAugust 17, 2021...</span><span class="citation-popover-meta">Published: August 17, 2021</span></span></span>
+* **Suburban and rural clusters:** Areas such as Tinley Park and the Quad Cities show patterns of repeated sightings over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/about-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">about us</span><span class="citation-popover-snippet">About Us &#124; NUFORCAugust 17, 2021...</span><span class="citation-popover-meta">Published: August 17, 2021</span></span></span>
 * **Media amplification and cultural impact:** Some events have entered local lore and culture, inspiring music and documentaries, such as the Sufjan Stevens track referencing the 2000 UFO near Highland. <span class="citation-chip-wrap"><a class="citation-chip" href="https://chicago.suntimes.com/news/2014/7/2/18611840/happy-world-ufo-day-5-notable-ufo-sightings-in-illinois-history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chicago.suntimes.com">[Chicago Sun-Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chicago.suntimes.com</span><span class="citation-popover-snippet">Chicago Sun-TimesHappy World UFO Day! 5 notable UFO sightings in Illinois history - Chicago - Chicago Sun-TimesJuly 2, 2014...</span><span class="citation-popover-meta">Published: July 2, 2014</span></span></span>
 * **Official sceptical interpretations:** Government agencies and scientific commentators often recommend conventional explanations, like atmospheric phenomena or misidentified aircraft, and caution against jumping to extraterrestrial conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/the-vault-files-2006-ohare-international-airport-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the vault files 2006 ohare international airport ufo sighting</span><span class="citation-popover-snippet">The Black VaultThe Vault Files: 2006 O&#x27;Hare International Airport UFO...October 28, 2025 — 28 Oct 2025 — The primary conventional explan...</span><span class="citation-popover-meta">Published: October 28, 2025</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cgBwdi7tBms" title="Over 50 People Spot A UFO During Halloween | Close Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cgBwdi7tBms" target="_blank" rel="noopener noreferrer">Over 50 People Spot A UFO During Halloween | Close Encounters</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 537.8K &middot; Uploaded: October 2019 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cgBwdi7tBms" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cgBwdi7tBms">Open on YouTube</a></p></div></div></div>
 
@@ -546,11 +540,9 @@ Across Illinois, several themes emerge in its UFO history:
 
 No Illinois UFO case has been scientifically confirmed as evidence of extraterrestrial craft. Many of the strongest reports — whether by police officers, aviation professionals, or multiple eyewitnesses — remain **unexplained**, meaning that conventional explanations have not fully accounted for all witness accounts, but definitive proof of an anomalous craft has not emerged either.
 
-What remains clear is that the skies above Illinois continue to be a source of curiosity and occasional mystery, and the process of reporting, analysing, and debating these sightings reflects broader patterns in how unexplained aerial phenomena are handled across the United States and by civilian researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">For 25 years, it ha</span><span class="citation-popover-snippet">Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
-
+What remains clear is that the skies above Illinois continue to be a source of curiosity and occasional mystery, and the process of reporting, analysing, and debating these sightings reflects broader patterns in how unexplained aerial phenomena are handled across the United States and by civilian researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">For 25 years, it ha</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</span><span class="citation-popover-meta">Published: September 6, 2021</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KUQ09vgaUGU" title="Illinois man records strange lights in the Metro East skies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KUQ09vgaUGU" target="_blank" rel="noopener noreferrer">Illinois man records strange lights in the Metro East skies</a></p><p class="youtube-embed-meta">Channel: FOX 2 St. Louis &middot; Views: 38.2K &middot; Uploaded: December 2024 &middot; Length: 3 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KUQ09vgaUGU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KUQ09vgaUGU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -638,7 +630,7 @@ What remains clear is that the skies above Illinois continue to be a source of c
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -648,111 +640,36 @@ What remains clear is that the skies above Illinois continue to be a source of c
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display"><img src="{{ '/assets/images/marketplace-covers/27c78e3de724e607809d.jpg' | relative_url }}" alt="Listing image for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT"><img src="{{ '/assets/images/marketplace-covers/c4fa2fd111d52b7bddcf.jpg' | relative_url }}" alt="Listing image for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -760,15 +677,15 @@ What remains clear is that the skies above Illinois continue to be a source of c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -776,15 +693,15 @@ What remains clear is that the skies above Illinois continue to be a source of c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -792,15 +709,15 @@ What remains clear is that the skies above Illinois continue to be a source of c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/ecc3da59eb1d0848e57f.jpg' | relative_url }}" alt="Listing image for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -808,7 +725,7 @@ What remains clear is that the skies above Illinois continue to be a source of c
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=illinois-what-are-the-most-notable-ufo-sightings-in-illinois-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-are-the-most-notable-ufo-sightings-in-illinois-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -885,17 +802,31 @@ What remains clear is that the skies above Illinois continue to be a source of c
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -908,42 +839,73 @@ What remains clear is that the skies above Illinois continue to be a source of c
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -958,12 +920,17 @@ What remains clear is that the skies above Illinois continue to be a source of c
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -973,189 +940,189 @@ What remains clear is that the skies above Illinois continue to be a source of c
 
 1. <a id="endnote-1"></a>
    Source: library.illinois.edu  
-   Link: [https://www.library.illinois.edu/hpnl/blog/idnc-flying-saucer-craze/](https://www.library.illinois.edu/hpnl/blog/idnc-flying-saucer-craze/)  
+   Link: <a href="https://www.library.illinois.edu/hpnl/blog/idnc-flying-saucer-craze/" target="_blank" rel="noopener noreferrer nofollow">https://www.library.illinois.edu/hpnl/blog/idnc-flying-saucer-craze/</a>  
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs_Archive/comments/1schbmb/historical_documentation_of_sightings_in_the_quad/](https://www.reddit.com/r/UFOs_Archive/comments/1schbmb/historical_documentation_of_sightings_in_the_quad/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditHistorical Documentation of Sightings in the Quad Cities Region: Four Blue Book backed Cases and One Unknown Iowa SightingApril 4...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs_Archive/comments/1schbmb/historical_documentation_of_sightings_in_the_quad/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs_Archive/comments/1schbmb/historical_documentation_of_sightings_in_the_quad/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Documentation of Sightings in the Quad Cities Region: Four Blue Book backed Cases and One Unknown Iowa SightingApril 4...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Black triangle (UFO)  
-   Link: [https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29](https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: 2006 O'Hare International Airport UFO sighting  
-   Link: [https://en.wikipedia.org/wiki/2006_O%27Hare_International_Airport_UFO_sighting](https://en.wikipedia.org/wiki/2006_O%27Hare_International_Airport_UFO_sighting)  
+   Link: <a href="https://en.wikipedia.org/wiki/2006_O%27Hare_International_Airport_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2006_O%27Hare_International_Airport_UFO_sighting</a>  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=46646](https://nuforc.org/sighting/?id=46646)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 46646...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=46646" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=46646</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 46646...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: patch.com  
    Title: 47 ufo sightings reported illinois 2019 so far  
-   Link: [https://patch.com/illinois/across-il/47-ufo-sightings-reported-illinois-2019-so-far](https://patch.com/illinois/across-il/47-ufo-sightings-reported-illinois-2019-so-far)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Patch47 UFO Sightings Reported In Illinois In 2019 So Far | Across Illinois, IL PatchJune 24, 2019...</p></details>
+   Link: <a href="https://patch.com/illinois/across-il/47-ufo-sightings-reported-illinois-2019-so-far" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/illinois/across-il/47-ufo-sightings-reported-illinois-2019-so-far</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>47 UFO Sightings Reported In Illinois In 2019 So Far | Across Illinois, IL PatchJune 24, 2019...</p></details>
    Published: June 24, 2019  
 
 7. <a id="endnote-7"></a>
    Source: patch.com  
    Title: 27 UFO Sightings In Illinois Since September | Springfield, IL Patch  
-   Link: [https://patch.com/illinois/springfield-il/27-ufo-sightings-illinois-september](https://patch.com/illinois/springfield-il/27-ufo-sightings-illinois-september)  
+   Link: <a href="https://patch.com/illinois/springfield-il/27-ufo-sightings-illinois-september" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/illinois/springfield-il/27-ufo-sightings-illinois-september</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 26, 2017 — 27 UFO SIGHTINGS IN ILLINOIS SINCE SEPTEMBER BUT THERE WERE NO REPORTS IN THE TOWN ONE RESEARCHER CALLS THE &quot;UFO CAPI...</p></details>
    Published: December 26, 2017  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
    Title: about us  
-   Link: [https://nuforc.org/about-us/](https://nuforc.org/about-us/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCAbout Us | NUFORCAugust 17, 2021...</p></details>
+   Link: <a href="https://nuforc.org/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/about-us/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>About Us | NUFORCAugust 17, 2021...</p></details>
    Published: August 17, 2021  
 
 9. <a id="endnote-9"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/](https://mufon.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFONFebruary 20, 2026 — IN THE MARCH 2025 ISSUE: * Crop Circle Appears in Brazil * Analyzing Alien Evidence * Religion and Erich von Dan...</p></details>
+   Link: <a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 20, 2026 — IN THE MARCH 2025 ISSUE: * Crop Circle Appears in Brazil * Analyzing Alien Evidence * Religion and Erich von Dan...</p></details>
    Published: February 20, 2026  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
    Title: For 25 years, it ha  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</p></details>
    Published: September 6, 2021  
 
 11. <a id="endnote-11"></a>
    Source: patch.com  
    Title: Image: Shannon Antinori's profile picture Shannon Antinori,  
-   Link: [https://patch.com/illinois/across-il/133-ufo-sightings-illinois-so-far-2019-what-they-saw](https://patch.com/illinois/across-il/133-ufo-sightings-illinois-so-far-2019-what-they-saw)  
+   Link: <a href="https://patch.com/illinois/across-il/133-ufo-sightings-illinois-so-far-2019-what-they-saw" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/illinois/across-il/133-ufo-sightings-illinois-so-far-2019-what-they-saw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>133 UFO Sightings In Illinois So Far In 2019: What They Saw | Across Illinois, IL PatchDecember 4, 2019 — 133 UFO SIGHTINGS IN ILLINOIS S...</p></details>
    Published: December 4, 2019  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=46752](https://nuforc.org/sighting/?id=46752)  
+   Link: <a href="https://nuforc.org/sighting/?id=46752" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=46752</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 46752October 11, 2005 — NUFORC UFO SIGHTING 46752 Occurred: 2005-09-30 23:10 Local Reported: 2005-10-03 07:25 Pacific...</p></details>
    Published: September 30, 2005  
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=46711](https://nuforc.org/sighting/?id=46711)  
+   Link: <a href="https://nuforc.org/sighting/?id=46711" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=46711</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 46711October 11, 2005 — NUFORC UFO SIGHTING 46711 Occurred: 2005-09-30 23:30 Local Reported: 2005-10-02 12:50 Pacific...</p></details>
    Published: September 30, 2005  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=1057](https://nuforc.org/sighting/?id=1057)  
+   Link: <a href="https://nuforc.org/sighting/?id=1057" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=1057</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Law Enforcement Officer Location: Springfield, IL, USA Shape: IL State Police/Morgan C...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1q77rpo/whilst_researching_an_earlier_alleged_ufo_crash/](https://www.reddit.com/r/UFOs/comments/1q77rpo/whilst_researching_an_earlier_alleged_ufo_crash/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1q77rpo/whilst_researching_an_earlier_alleged_ufo_crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1q77rpo/whilst_researching_an_earlier_alleged_ufo_crash/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>red, but there are official records of the communications...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ufoindex.com  
    Title: UFO Index Illinois UFO Reports  
-   Link: [https://www.ufoindex.com/illinois](https://www.ufoindex.com/illinois)  
+   Link: <a href="https://www.ufoindex.com/illinois" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/illinois</a>  
 
 17. <a id="endnote-17"></a>
    Source: thedebrief.org  
    Title: The Debrief The St  
-   Link: [https://thedebrief.org/the-st-clair-triangle-ufo-incident-of-2000-a-fresh-look/](https://thedebrief.org/the-st-clair-triangle-ufo-incident-of-2000-a-fresh-look/)  
+   Link: <a href="https://thedebrief.org/the-st-clair-triangle-ufo-incident-of-2000-a-fresh-look/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-st-clair-triangle-ufo-incident-of-2000-a-fresh-look/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Clair Triangle UFO Incident of 2000: A Fresh LookJanuary 19, 2022 — 19 Jan 2022 — One of the first areas of evidence to examine is the co...</p></details>
    Published: January 19, 2022  
 
 18. <a id="endnote-18"></a>
    Source: theblackvault.com  
    Title: the vault files 2006 ohare international airport ufo sighting  
-   Link: [https://www.theblackvault.com/casefiles/the-vault-files-2006-ohare-international-airport-ufo-sighting/](https://www.theblackvault.com/casefiles/the-vault-files-2006-ohare-international-airport-ufo-sighting/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/the-vault-files-2006-ohare-international-airport-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-vault-files-2006-ohare-international-airport-ufo-sighting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultThe Vault Files: 2006 O&#x27;Hare International Airport UFO...October 28, 2025 — 28 Oct 2025 — The primary conventional explan...</p></details>
    Published: October 28, 2025  
 
 19. <a id="endnote-19"></a>
    Source: chicago.suntimes.com  
-   Link: [https://chicago.suntimes.com/news/2014/7/2/18611840/happy-world-ufo-day-5-notable-ufo-sightings-in-illinois-history](https://chicago.suntimes.com/news/2014/7/2/18611840/happy-world-ufo-day-5-notable-ufo-sightings-in-illinois-history)  
+   Link: <a href="https://chicago.suntimes.com/news/2014/7/2/18611840/happy-world-ufo-day-5-notable-ufo-sightings-in-illinois-history" target="_blank" rel="noopener noreferrer nofollow">https://chicago.suntimes.com/news/2014/7/2/18611840/happy-world-ufo-day-5-notable-ufo-sightings-in-illinois-history</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chicago Sun-TimesHappy World UFO Day! 5 notable UFO sightings in Illinois history - Chicago - Chicago Sun-TimesJuly 2, 2014...</p></details>
    Published: July 2, 2014  
 
 20. <a id="endnote-20"></a>
    Source: americanhauntingsink.com  
    Title: illinois ufo  
-   Link: [https://www.americanhauntingsink.com/illinois-ufo](https://www.americanhauntingsink.com/illinois-ufo)  
+   Link: <a href="https://www.americanhauntingsink.com/illinois-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.americanhauntingsink.com/illinois-ufo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A number of UFO sightings occurred in the southwestern part of the...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: skeptoid.com  
-   Link: [https://skeptoid.com/episodes/435](https://skeptoid.com/episodes/435)  
+   Link: <a href="https://skeptoid.com/episodes/435" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/435</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The St. Clair Triangle UFO7 Oct 2014 — Clair Triangle UFO. We found out what it was. Skeptoid Podcast #435. Filed under Aliens &amp; UFOs · L...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: ufofinder.com  
-   Link: [https://ufofinder.com/states/il/greenville/](https://ufofinder.com/states/il/greenville/)  
+   Link: <a href="https://ufofinder.com/states/il/greenville/" target="_blank" rel="noopener noreferrer nofollow">https://ufofinder.com/states/il/greenville/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Greenville, Illinois | UFO Finder | UFO FinderGREENVILLE, ILLINOIS 8 documented UFO sightings 8 Sightings 5.9 Avg Credib...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
    Title: something is up therethe 2000 flying saucer invasion of illinoisi dont write muc  
-   Link: [https://www.facebook.com/troytayloroddities/posts/something-is-up-therethe-2000-flying-saucer-invasion-of-illinoisi-dont-write-muc/122150749172651114/](https://www.facebook.com/troytayloroddities/posts/something-is-up-therethe-2000-flying-saucer-invasion-of-illinoisi-dont-write-muc/122150749172651114/)  
+   Link: <a href="https://www.facebook.com/troytayloroddities/posts/something-is-up-therethe-2000-flying-saucer-invasion-of-illinoisi-dont-write-muc/122150749172651114/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/troytayloroddities/posts/something-is-up-therethe-2000-flying-saucer-invasion-of-illinoisi-dont-write-muc/122150749172651114/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“SOMETHING IS UP THERE!” THE 2000 FLYING SAUCER...What was the Illinois Triangle UFO sighting? Emile Kelly Gauthier... 2000-POLICE WITN...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: hangar1publishing.com  
    Title: Black Triangles (UFO Type): Silent Watchers in Our Skies Clair Triangle (  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/black-triangles-ufo-type?srsltid=AfmBOorGRniGiuq4uCbAfRIdpSiKAfNAwocvDx4Fsv0W5-V4H6aXQ5_l](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/black-triangles-ufo-type?srsltid=AfmBOorGRniGiuq4uCbAfRIdpSiKAfNAwocvDx4Fsv0W5-V4H6aXQ5_l)  
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/black-triangles-ufo-type?srsltid=AfmBOorGRniGiuq4uCbAfRIdpSiKAfNAwocvDx4Fsv0W5-V4H6aXQ5_l" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/black-triangles-ufo-type?srsltid=AfmBOorGRniGiuq4uCbAfRIdpSiKAfNAwocvDx4Fsv0W5-V4H6aXQ5_l</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Also known as the &quot;Southern Illinois UFO,&quot; this incident began shortly after 4:00 AM when multiple police officers across...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: ufouap.com  
    Title: Five Police Officers Tracked a Massive Triangle UFO Across Illinois  
-   Link: [https://www.ufouap.com/articles/illinois-triangle-ufo-police-pursuit-2000/](https://www.ufouap.com/articles/illinois-triangle-ufo-police-pursuit-2000/)  
+   Link: <a href="https://www.ufouap.com/articles/illinois-triangle-ufo-police-pursuit-2000/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufouap.com/articles/illinois-triangle-ufo-police-pursuit-2000/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Their Radios Captured Everything. — UFOUAPJanuary 5, 2000 — January 5, 2000 · UFOUAP FIVE POLICE OFFICERS TRACKED A MASSIVE TRIANGLE UFO...</p></details>
    Published: January 5, 2000  
 
 26. <a id="endnote-26"></a>
    Source: ufoinsight.com  
    Title: Illinois – A Hot-Spot Of Activity And “UFO Capital Of America?”  
-   Link: [https://www.ufoinsight.com/ufos/sightings/illinois-ufo-capital-america](https://www.ufoinsight.com/ufos/sightings/illinois-ufo-capital-america)  
+   Link: <a href="https://www.ufoinsight.com/ufos/sightings/illinois-ufo-capital-america" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/illinois-ufo-capital-america</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightJune 21, 2019 — ILLINOIS – A HOT-SPOT OF ACTIVITY AND “UFO CAPITAL OF AMERICA?” By Marcus Lowth Image: Published Date June 21...</p></details>
    Published: June 21, 2019  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/rampagents/posts/9701065609910025/](https://www.facebook.com/groups/rampagents/posts/9701065609910025/)  
+   Link: <a href="https://www.facebook.com/groups/rampagents/posts/9701065609910025/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/rampagents/posts/9701065609910025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 7, 2006, at around 4:15 p.m., when a dozen United Airlines employees and...Read more...</p></details>
    Published: November 7, 2006  
 
 28. <a id="endnote-28"></a>
    Source: 1440wrok.com  
    Title: UF O Sightings Surge In Illinois: What's Being Reported?  
-   Link: [https://1440wrok.com/illinois-ufo-sightings-2025-2/](https://1440wrok.com/illinois-ufo-sightings-2025-2/)  
+   Link: <a href="https://1440wrok.com/illinois-ufo-sightings-2025-2/" target="_blank" rel="noopener noreferrer nofollow">https://1440wrok.com/illinois-ufo-sightings-2025-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Surge In Illinois: What&#x27;s Being Reported?January 15, 2026 — Image: Illinois UFO Sightings in 2025: Strange Reports, Real An...</p></details>
    Published: January 15, 2026  
 
 29. <a id="endnote-29"></a>
    Source: stacker.com  
    Title: Cities With the Most UFO Sightings in Illinois | Stacker  
-   Link: [https://stacker.com/stories/illinois/cities-most-ufo-sightings-illinois](https://stacker.com/stories/illinois/cities-most-ufo-sightings-illinois)  
+   Link: <a href="https://stacker.com/stories/illinois/cities-most-ufo-sightings-illinois" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/illinois/cities-most-ufo-sightings-illinois</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 12, 2025 — CITIES WITH THE MOST UFO SIGHTINGS IN ILLINOIS Written by: Stacker May 12, 2025 PeopleImages.com - Yuri A // Shutterstock...</p></details>
    Published: May 12, 2025  
 
 30. <a id="endnote-30"></a>
    Source: ufoinsight.com  
    Title: UF Os Over Illinois – The O’Hare, Tinley Park, And St  
-   Link: [https://www.ufoinsight.com/ufos/sightings/ufos-over-illinois](https://www.ufoinsight.com/ufos/sightings/ufos-over-illinois)  
+   Link: <a href="https://www.ufoinsight.com/ufos/sightings/ufos-over-illinois" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/ufos-over-illinois</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Clair Sightings - UFO InsightMay 12, 2018 — UFOS OVER ILLINOIS – THE O’HARE, TINLEY PARK, AND ST. CLAIR SIGHTINGS By Marcus Lowth Image...</p></details>
    Published: May 12, 2018  
 
 31. <a id="endnote-31"></a>
    Source: syfy.com  
    Title: ufo docuseries showtime ohare airport 2006  
-   Link: [https://www.syfy.com/syfy-wire/ufo-docuseries-showtime-ohare-airport-2006](https://www.syfy.com/syfy-wire/ufo-docuseries-showtime-ohare-airport-2006)  
+   Link: <a href="https://www.syfy.com/syfy-wire/ufo-docuseries-showtime-ohare-airport-2006" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/ufo-docuseries-showtime-ohare-airport-2006</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Abrams UFO docu-series explores 2006 airport sighting4 Aug 2021 — What happened at O&#x27;Hare? Showtime docu-series revisits one of history&#x27;s...</p></details>

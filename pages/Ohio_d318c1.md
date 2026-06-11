@@ -262,7 +262,7 @@ sibling_links:
   short_title: Michigan UFOs
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Alabama_d1f92d
   title: Alabama UFOs
@@ -277,9 +277,9 @@ sibling_links:
   permalink: /what-keeps-tennessees-ufo-stories-alive/
   short_title: Tennessee UFOs
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Idaho_18334c
   title: Idaho UFOs
   permalink: /what-makes-idaho-a-key-ufo-hotspot/
@@ -289,9 +289,9 @@ sibling_links:
   permalink: /what-makes-indianas-ufo-history-unique/
   short_title: Indiana UFOs
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: South_Carolina_11d001
   title: South Carolina UFOs
   permalink: /what-makes-south-carolinas-ufo-story/
@@ -481,7 +481,6 @@ image: /assets/images/Ohio_d318c1-overview-social.jpg
 
 Ohio’s UFO significance begins with geography and institutions. Wright-Patterson Air Force Base placed the state at the centre of post-war military aviation, intelligence assessment and public UFO administration. Project Blue Book was not a fringe office: it was the Air Force’s formal attempt to collect, classify and explain reports of unidentified flying objects from 1952 until its termination in December 1969. The National Archives notes that Wright-Patterson personnel no longer receive, document or investigate UFO reports, which is important because many modern rumours still treat the base as if it remains the clearing house for every strange object in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-
 <img src="{{ "/assets/images/Ohio_d318c1-overview.webp" | relative_url }}" alt="Overview image for Why Ohio Became a UFO State" loading="eager" decoding="sync" fetchpriority="high">
 The state also had the right social ingredients for durable UFO stories: busy skies, military aviation, rural night roads, police and pilot witnesses, and newspapers willing to cover strange lights as public events. Ohio’s strongest cases are not simply “someone saw a light”. They tend to involve trained observers, multiple witnesses, radio traffic, formal reports or later archival debate. That does not make them solved in favour of the extraordinary; it makes them historically useful because they show where ordinary explanations, official procedures and witness testimony do not fit neatly together.
 
@@ -501,8 +500,7 @@ This is a useful example of how a real historical anchor can generate a much lar
 
 Hangar 18 therefore matters less as evidence and more as cultural gravity. It turned Dayton into a symbolic UFO location even for people who know little about the actual Blue Book files.
 
-
-<img src="{{ "/assets/images/Ohio_d318c1-Illustration-1-light.svg" | relative_url }}" alt="Why Ohio Became a UFO State illustration 1" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Ohio_d318c1-Illustration-1-dark.svg" | relative_url }}" alt="Why Ohio Became a UFO State illustration 1" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1966 Portage County chase
 
 The Portage County case is one of Ohio’s strongest witness-driven incidents because it involved police officers, a moving pursuit and rapid national attention. In the early hours of 17 April 1966, Portage County deputies Dale Spaur and Wilbur Neff reported seeing a bright, disc-like object near Ravenna. Accounts describe the object as low, luminous and apparently moving away as the officers followed it; other police officers became involved as the pursuit continued eastward towards Pennsylvania. Project Blue Book records for the Ravenna-Mantua case are preserved in public document collections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/newsclippings/1966/1966_04_17_US_OH_Ravenna.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Police Car Chase,</span><span class="citation-popover-snippet">Police Car Chase,</span></span></span>
@@ -518,7 +516,6 @@ The Mansfield, or Coyne, incident is often treated as Ohio’s best UFO case bec
 The case gained weight because the witnesses were experienced military personnel and because the account included aviation-specific details: attempted radio contact with Mansfield Tower, a perceived collision risk, unusual lighting, and a reported change in the helicopter’s altitude. The Center for UFO Studies later published a detailed study by Jennie Zeidman, and Ohio Magazine’s 50th-anniversary treatment reflected the case’s continuing reputation as one of the state’s most discussed UFO events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies A Helicopter-UFO Encounter over Ohio</span><span class="citation-popover-snippet">Center for UFO Studies A Helicopter-UFO Encounter over Ohio</span></span></span>
 
 Sceptical explanations have focused on meteors, aircraft, perception errors and the possibility that the helicopter’s climb was misread or caused by normal pilot action rather than an external force. The meteor explanation is attractive because the Orionid meteor shower occurs in October, but it struggles to satisfy believers because the crew described an object with apparent structure, lights and relative motion near the helicopter. The fair conclusion is that the Coyne case remains unresolved in the historical UFO literature: unusually well witnessed, not easily dismissed, but still lacking the kind of independent instrument data that would make a firm identification possible.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L8E2hIQmsSU" title="What Did Project Blue Book Find? | Unveiled" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L8E2hIQmsSU" target="_blank" rel="noopener noreferrer">What Did Project Blue Book Find? | Unveiled</a></p><p class="youtube-embed-meta">Channel: Unveiled &middot; Views: 70.9K &middot; Uploaded: March 2020 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L8E2hIQmsSU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L8E2hIQmsSU">Open on YouTube</a></p></div></div></div>
 
@@ -538,8 +535,7 @@ These cases are weaker than Portage County or Mansfield because distant lights o
 
 Lake Erie still matters within Ohio UFO history because it shows how the evidence environment changed. Older cases often depended on police reports, newspaper clippings and Air Force files. Modern cases often depend on video, but video alone is not necessarily stronger evidence if it lacks location, direction, time, lens data and comparison with known aircraft or astronomical objects.
 
-
-<img src="{{ "/assets/images/Ohio_d318c1-Illustration-2-light.svg" | relative_url }}" alt="Why Ohio Became a UFO State illustration 2" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Ohio_d318c1-Illustration-2-dark.svg" | relative_url }}" alt="Why Ohio Became a UFO State illustration 2" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the best evidence in Ohio can and cannot show
 
 Ohio’s strongest UFO material has several recurring strengths. It includes trained witnesses, official or semi-official records, multiple observers, and cases that entered public debate soon after the event rather than decades later. Portage County has police witnesses and Blue Book documentation. Mansfield has an Army helicopter crew and a formal incident report. Wright-Patterson has confirmed institutional relevance through Project Blue Book. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-April171966-Ravenna-Mantua-Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">ProjectBlueBook April171966 Ravenna Mantua Ohio</span><span class="citation-popover-snippet">ProjectBlueBook April171966 Ravenna Mantua Ohio</span></span></span>
@@ -562,7 +558,6 @@ Several explanations recur across Ohio’s UFO record:
 
 **Genuinely unresolved reports.** A small number of cases remain difficult because the available explanation does not match the witness descriptions well, or because the data needed to decide the issue was never collected. The Mansfield/Coyne case is the clearest Ohio example.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uiD9vjq2xpk" title="Alien Encounters: The Wright-Patterson Connection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uiD9vjq2xpk" target="_blank" rel="noopener noreferrer">Alien Encounters: The Wright-Patterson Connection</a></p><p class="youtube-embed-meta">Channel: PublicResourceOrg &middot; Views: 38.4K &middot; Uploaded: January 2010 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uiD9vjq2xpk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uiD9vjq2xpk">Open on YouTube</a></p></div></div></div>
 
 ## How Ohio fits into current UAP thinking
@@ -572,7 +567,6 @@ Modern official language usually uses UAP, or unidentified anomalous phenomena, 
 Ohio’s older cases fit this modern lesson well. If the Portage County chase or Coyne helicopter encounter happened today, investigators would want synchronised radar, flight-tracking data, cockpit recordings, phone metadata, astronomical checks, weather data and multiple calibrated cameras. Much of that was unavailable, uncollected or not preserved in the 1960s and 1970s. The result is a historical record that is rich enough to be intriguing but too incomplete to settle the question.
 
 Recent drone and UAP debates also complicate the picture. In December 2024, suspected drone sightings reportedly contributed to a temporary airspace shutdown at Wright-Patterson, showing that unidentified aerial activity around Ohio military sites remains a practical security issue even when it has nothing to do with extraterrestrial claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.airforcetimes.com/news/your-air-force/2024/12/16/drone-sightings-lead-to-airspace-shutdown-at-ohio-military-base/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airforcetimes.com">[Air Force Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airforcetimes.com</span><span class="citation-popover-title">Air Force Times Drone sightings lead to airspace shutdown at Ohio military</span><span class="citation-popover-snippet">Air Force Times Drone sightings lead to airspace shutdown at Ohio military</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1Q_RiEXem44" title="The Ohio Fishermen Who Lost Time (S4) | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1Q_RiEXem44" target="_blank" rel="noopener noreferrer">The Ohio Fishermen Who Lost Time (S4) | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 36.3K &middot; Uploaded: November 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1Q_RiEXem44" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1Q_RiEXem44">Open on YouTube</a></p></div></div></div>
 
@@ -584,8 +578,7 @@ The mistake is to collapse those layers into one story. Ohio does not need unsup
 
 The most defensible conclusion is that Ohio is one of the key American states for understanding how UFO cases become public history. Its best cases remain interesting because they involve credible witnesses and imperfect explanations. Its weakest claims remain instructive because they show how quickly rumour can attach itself to real military secrecy. The state’s record is not proof of alien visitation, but it is a unusually clear example of why UFO reports endure: some are easily explained, some are culturally inflated, and a few remain stubbornly hard to close.
 
-
-<img src="{{ "/assets/images/Ohio_d318c1-Illustration-3-light.svg" | relative_url }}" alt="Why Ohio Became a UFO State illustration 3" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Ohio_d318c1-Illustration-3-dark.svg" | relative_url }}" alt="Why Ohio Became a UFO State illustration 3" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -673,7 +666,7 @@ The most defensible conclusion is that Ohio is one of the key American states fo
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -683,111 +676,36 @@ The most defensible conclusion is that Ohio is one of the key American states fo
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -795,15 +713,15 @@ The most defensible conclusion is that Ohio is one of the key American states fo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -811,15 +729,15 @@ The most defensible conclusion is that Ohio is one of the key American states fo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -827,15 +745,15 @@ The most defensible conclusion is that Ohio is one of the key American states fo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -843,7 +761,7 @@ The most defensible conclusion is that Ohio is one of the key American states fo
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ohio-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-ohio-became-a-ufo-state-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -920,17 +838,31 @@ The most defensible conclusion is that Ohio is one of the key American states fo
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -943,42 +875,73 @@ The most defensible conclusion is that Ohio is one of the key American states fo
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -993,12 +956,17 @@ The most defensible conclusion is that Ohio is one of the key American states fo
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -1009,314 +977,314 @@ The most defensible conclusion is that Ohio is one of the key American states fo
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 2. <a id="endnote-2"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
 3. <a id="endnote-3"></a>
    Source: wpafb.af.mil  
    Title: 5 Little Known Facts about Wright- Patt  
-   Link: [https://www.wpafb.af.mil/News/Article-Display/Article/1579776/5-little-known-facts-about-wright-patt/](https://www.wpafb.af.mil/News/Article-Display/Article/1579776/5-little-known-facts-about-wright-patt/)  
+   Link: <a href="https://www.wpafb.af.mil/News/Article-Display/Article/1579776/5-little-known-facts-about-wright-patt/" target="_blank" rel="noopener noreferrer nofollow">https://www.wpafb.af.mil/News/Article-Display/Article/1579776/5-little-known-facts-about-wright-patt/</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Hangar_18_%28conspiracy_theory%29](https://en.wikipedia.org/wiki/Hangar_18_%28conspiracy_theory%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Hangar_18_%28conspiracy_theory%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hangar_18_%28conspiracy_theory%29</a>  
 
 5. <a id="endnote-5"></a>
    Source: nicap.org  
    Title: Police Car Chase,  
-   Link: [https://www.nicap.org/newsclippings/1966/1966_04_17_US_OH_Ravenna.pdf](https://www.nicap.org/newsclippings/1966/1966_04_17_US_OH_Ravenna.pdf)  
+   Link: <a href="https://www.nicap.org/newsclippings/1966/1966_04_17_US_OH_Ravenna.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/newsclippings/1966/1966_04_17_US_OH_Ravenna.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: documents2.theblackvault.com  
    Title: ProjectBlueBook April171966 Ravenna Mantua Ohio  
-   Link: [https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-April171966-Ravenna-Mantua-Ohio.pdf](https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-April171966-Ravenna-Mantua-Ohio.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-April171966-Ravenna-Mantua-Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-April171966-Ravenna-Mantua-Ohio.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 8. <a id="endnote-8"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://www.ufologie.patrickgross.org/htm/coynereport.htm](https://www.ufologie.patrickgross.org/htm/coynereport.htm)  
+   Link: <a href="https://www.ufologie.patrickgross.org/htm/coynereport.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/coynereport.htm</a>  
 
 9. <a id="endnote-9"></a>
    Source: nicap.org  
    Title: UFO Report Jennie Zeidman  
-   Link: [https://www.nicap.org/731018mansfield_dir.htm](https://www.nicap.org/731018mansfield_dir.htm)  
+   Link: <a href="https://www.nicap.org/731018mansfield_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/731018mansfield_dir.htm</a>  
 
 10. <a id="endnote-10"></a>
    Source: ohiomagazine.com  
    Title: the case of ohio s best documented ufo  
-   Link: [https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo](https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo)  
+   Link: <a href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo</a>  
 
 11. <a id="endnote-11"></a>
    Source: freepress.org  
-   Link: [https://freepress.org/article/40-years-ago-ohio-experienced-major-ufo-flap-halloween-approaches-will-flying-saucers-be](https://freepress.org/article/40-years-ago-ohio-experienced-major-ufo-flap-halloween-approaches-will-flying-saucers-be)  
+   Link: <a href="https://freepress.org/article/40-years-ago-ohio-experienced-major-ufo-flap-halloween-approaches-will-flying-saucers-be" target="_blank" rel="noopener noreferrer nofollow">https://freepress.org/article/40-years-ago-ohio-experienced-major-ufo-flap-halloween-approaches-will-flying-saucers-be</a>  
 
 12. <a id="endnote-12"></a>
    Source: freepress.org  
    Title: ohio against universe 50th anniversary ufo wave during halloween 1973  
-   Link: [https://freepress.org/article/ohio-against-universe-50th-anniversary-ufo-wave-during-halloween-1973](https://freepress.org/article/ohio-against-universe-50th-anniversary-ufo-wave-during-halloween-1973)  
+   Link: <a href="https://freepress.org/article/ohio-against-universe-50th-anniversary-ufo-wave-during-halloween-1973" target="_blank" rel="noopener noreferrer nofollow">https://freepress.org/article/ohio-against-universe-50th-anniversary-ufo-wave-during-halloween-1973</a>  
 
 13. <a id="endnote-13"></a>
    Source: wired.com  
    Title: Lake Erie UFOs Are Stars on You Tube  
-   Link: [https://www.wired.com/2008/01/erie-ufos/](https://www.wired.com/2008/01/erie-ufos/)  
+   Link: <a href="https://www.wired.com/2008/01/erie-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2008/01/erie-ufos/</a>  
 
 14. <a id="endnote-14"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 16. <a id="endnote-16"></a>
    Source: prologue.blogs.archives.gov  
    Title: Pieces of History UFOs: Natural Explanations  
-   Link: [https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/](https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
 
 17. <a id="endnote-17"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 18. <a id="endnote-18"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Mutual UFO Network  
-   Link: [https://en.wikipedia.org/wiki/Mutual_UFO_Network](https://en.wikipedia.org/wiki/Mutual_UFO_Network)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mutual_UFO_Network" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mutual_UFO_Network</a>  
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: 2024 United States drone sightings  
-   Link: [https://en.wikipedia.org/wiki/2024_United_States_drone_sightings](https://en.wikipedia.org/wiki/2024_United_States_drone_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2024_United_States_drone_sightings</a>  
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: 2024 drone sightings  
-   Link: [https://en.wikipedia.org/wiki/2024_drone_sightings](https://en.wikipedia.org/wiki/2024_drone_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/2024_drone_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2024_drone_sightings</a>  
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: [https://en.wikipedia.org/wiki/Roswell_incident](https://en.wikipedia.org/wiki/Roswell_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
    Title: John J. Gilligan  
-   Link: [https://en.wikipedia.org/wiki/John_J._Gilligan](https://en.wikipedia.org/wiki/John_J._Gilligan)  
+   Link: <a href="https://en.wikipedia.org/wiki/John_J._Gilligan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/John_J._Gilligan</a>  
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Qx Uxi VP w Tc  
-   Link: [https://www.youtube.com/shorts/QxUxiVP_wTc](https://www.youtube.com/shorts/QxUxiVP_wTc)  
+   Link: <a href="https://www.youtube.com/shorts/QxUxiVP_wTc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/QxUxiVP_wTc</a>  
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=vf7xZ5vMMfk](https://www.youtube.com/watch?v=vf7xZ5vMMfk)  
+   Link: <a href="https://www.youtube.com/watch?v=vf7xZ5vMMfk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vf7xZ5vMMfk</a>  
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ed_d9we588I](https://www.youtube.com/watch?v=ed_d9we588I)  
+   Link: <a href="https://www.youtube.com/watch?v=ed_d9we588I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ed_d9we588I</a>  
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=d5RBNEg6fLI](https://www.youtube.com/watch?v=d5RBNEg6fLI)  
+   Link: <a href="https://www.youtube.com/watch?v=d5RBNEg6fLI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d5RBNEg6fLI</a>  
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=IhfDGLeM3JI&vl=en](https://www.youtube.com/watch?v=IhfDGLeM3JI&vl=en)  
+   Link: <a href="https://www.youtube.com/watch?v=IhfDGLeM3JI&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IhfDGLeM3JI&amp;vl=en</a>  
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=YvpN6Imoj44](https://www.youtube.com/watch?v=YvpN6Imoj44)  
+   Link: <a href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YvpN6Imoj44</a>  
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=My3D5M2bvaI](https://www.youtube.com/watch?v=My3D5M2bvaI)  
+   Link: <a href="https://www.youtube.com/watch?v=My3D5M2bvaI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=My3D5M2bvaI</a>  
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=uiD9vjq2xpk](https://www.youtube.com/watch?v=uiD9vjq2xpk)  
+   Link: <a href="https://www.youtube.com/watch?v=uiD9vjq2xpk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uiD9vjq2xpk</a>  
 
 35. <a id="endnote-35"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/coyne.htm](https://ufologie.patrickgross.org/htm/coyne.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/coyne.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/coyne.htm</a>  
 
 36. <a id="endnote-36"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/portage66.htm](https://ufologie.patrickgross.org/htm/portage66.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/portage66.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/portage66.htm</a>  
 
 37. <a id="endnote-37"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 38. <a id="endnote-38"></a>
    Source: history.com  
    Title: hangar 18 ufos aliens wright patterson  
-   Link: [https://www.history.com/articles/hangar-18-ufos-aliens-wright-patterson](https://www.history.com/articles/hangar-18-ufos-aliens-wright-patterson)  
+   Link: <a href="https://www.history.com/articles/hangar-18-ufos-aliens-wright-patterson" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/hangar-18-ufos-aliens-wright-patterson</a>  
 
 39. <a id="endnote-39"></a>
    Source: freepress.org  
    Title: ufo reports continue ohio and more frequently most imagine  
-   Link: [https://freepress.org/article/ufo-reports-continue-ohio-and-more-frequently-most-imagine](https://freepress.org/article/ufo-reports-continue-ohio-and-more-frequently-most-imagine)  
+   Link: <a href="https://freepress.org/article/ufo-reports-continue-ohio-and-more-frequently-most-imagine" target="_blank" rel="noopener noreferrer nofollow">https://freepress.org/article/ufo-reports-continue-ohio-and-more-frequently-most-imagine</a>  
 
 40. <a id="endnote-40"></a>
    Source: newspapers.com  
    Title: dayton daily news ohio deputies chase uf  
-   Link: [https://www.newspapers.com/article/dayton-daily-news-ohio-deputies-chase-uf/185671017/](https://www.newspapers.com/article/dayton-daily-news-ohio-deputies-chase-uf/185671017/)  
+   Link: <a href="https://www.newspapers.com/article/dayton-daily-news-ohio-deputies-chase-uf/185671017/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/dayton-daily-news-ohio-deputies-chase-uf/185671017/</a>  
 
 41. <a id="endnote-41"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 42. <a id="endnote-42"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
 
 43. <a id="endnote-43"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/](https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/)  
+   Link: <a href="https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/white-house-aliens-gov-us-citizens-arrested/</a>  
 
 44. <a id="endnote-44"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/mysterious-drone-sightings-shut-down-one-of-the-largest-us-air-force-bases-in-the-world-13275051](https://news.sky.com/story/mysterious-drone-sightings-shut-down-one-of-the-largest-us-air-force-bases-in-the-world-13275051)  
+   Link: <a href="https://news.sky.com/story/mysterious-drone-sightings-shut-down-one-of-the-largest-us-air-force-bases-in-the-world-13275051" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mysterious-drone-sightings-shut-down-one-of-the-largest-us-air-force-bases-in-the-world-13275051</a>  
 
 45. <a id="endnote-45"></a>
    Source: youtube.com  
    Title: The Great UFO Chase  
-   Link: [https://www.youtube.com/watch?v=lLNy9Nax120](https://www.youtube.com/watch?v=lLNy9Nax120)  
+   Link: <a href="https://www.youtube.com/watch?v=lLNy9Nax120" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lLNy9Nax120</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: youtube.com  
    Title: Project Blue Book: America's Obsession with UFOs  
-   Link: [https://www.youtube.com/watch?v=Xu4oTBBI5UE](https://www.youtube.com/watch?v=Xu4oTBBI5UE)  
+   Link: <a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Unsettling Signs Of UFO&#x27;s Found In Ohio...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: youtube.com  
    Title: Top 10 Unsettling Signs Of UFO's Found In Ohio  
-   Link: [https://www.youtube.com/watch?v=9AkQ29QyycU](https://www.youtube.com/watch?v=9AkQ29QyycU)  
+   Link: <a href="https://www.youtube.com/watch?v=9AkQ29QyycU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9AkQ29QyycU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Did Project Blue Book Find? | Unveiled...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: youtube.com  
    Title: What Did Project Blue Book Find? | Unveiled  
-   Link: [https://www.youtube.com/watch?v=L8E2hIQmsSU](https://www.youtube.com/watch?v=L8E2hIQmsSU)  
+   Link: <a href="https://www.youtube.com/watch?v=L8E2hIQmsSU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L8E2hIQmsSU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ohio Fishermen Who Lost Time (S4) | The Proof Is Out There | History...</p></details>
 
 49. <a id="endnote-49"></a>
    Source: youtube.com  
    Title: The Ohio Fishermen Who Lost Time (S4) | The Proof Is Out There | History  
-   Link: [https://www.youtube.com/watch?v=1Q_RiEXem44](https://www.youtube.com/watch?v=1Q_RiEXem44)  
+   Link: <a href="https://www.youtube.com/watch?v=1Q_RiEXem44" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1Q_RiEXem44</a>  
 
 50. <a id="endnote-50"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: [https://origins.osu.edu/read/air-force-investigation-ufos](https://origins.osu.edu/read/air-force-investigation-ufos)  
+   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
 
 51. <a id="endnote-51"></a>
    Source: cufos.org  
    Title: Center for UFO Studies A Helicopter-UFO Encounter over Ohio  
-   Link: [https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf](https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf)  
+   Link: <a href="https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf</a>  
 
 52. <a id="endnote-52"></a>
    Source: discovermagazine.com  
    Title: Discover Magazine Erie UFO sounds familiar to me  
-   Link: [https://www.discovermagazine.com/erie-ufo-sounds-familiar-to-me-22162](https://www.discovermagazine.com/erie-ufo-sounds-familiar-to-me-22162)  
+   Link: <a href="https://www.discovermagazine.com/erie-ufo-sounds-familiar-to-me-22162" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/erie-ufo-sounds-familiar-to-me-22162</a>  
 
 53. <a id="endnote-53"></a>
    Source: airforcetimes.com  
    Title: Air Force Times Drone sightings lead to airspace shutdown at Ohio military  
-   Link: [https://www.airforcetimes.com/news/your-air-force/2024/12/16/drone-sightings-lead-to-airspace-shutdown-at-ohio-military-base/](https://www.airforcetimes.com/news/your-air-force/2024/12/16/drone-sightings-lead-to-airspace-shutdown-at-ohio-military-base/)  
+   Link: <a href="https://www.airforcetimes.com/news/your-air-force/2024/12/16/drone-sightings-lead-to-airspace-shutdown-at-ohio-military-base/" target="_blank" rel="noopener noreferrer nofollow">https://www.airforcetimes.com/news/your-air-force/2024/12/16/drone-sightings-lead-to-airspace-shutdown-at-ohio-military-base/</a>  
 
 54. <a id="endnote-54"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=47468](https://nuforc.org/sighting/?id=47468)  
+   Link: <a href="https://nuforc.org/sighting/?id=47468" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=47468</a>  
 
 55. <a id="endnote-55"></a>
    Source: origins.osu.edu  
    Title: project blue book  
-   Link: [https://origins.osu.edu/watch/project-blue-book](https://origins.osu.edu/watch/project-blue-book)  
+   Link: <a href="https://origins.osu.edu/watch/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/watch/project-blue-book</a>  
 
 56. <a id="endnote-56"></a>
    Source: ufodatalive.com  
-   Link: [https://www.ufodatalive.com/states/ohio/](https://www.ufodatalive.com/states/ohio/)  
+   Link: <a href="https://www.ufodatalive.com/states/ohio/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodatalive.com/states/ohio/</a>  
 
 57. <a id="endnote-57"></a>
    Source: secretsdeclassified.af.mil  
    Title: project blue book  
-   Link: [https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/](https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/)  
+   Link: <a href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/</a>  
 
 58. <a id="endnote-58"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
 59. <a id="endnote-59"></a>
    Source: popularmechanics.com  
-   Link: [https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/](https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/)  
+   Link: <a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>After Project Blue Book&#x27;s closure in 1969, Hynek continued independently promoting &quot;ufology,&quot; emphasizing scientific rigor, and creating...</p></details>
 
 60. <a id="endnote-60"></a>
    Source: thislocallife.com  
-   Link: [https://www.thislocallife.com/5-ufo-cases-in-ohio](https://www.thislocallife.com/5-ufo-cases-in-ohio)  
+   Link: <a href="https://www.thislocallife.com/5-ufo-cases-in-ohio" target="_blank" rel="noopener noreferrer nofollow">https://www.thislocallife.com/5-ufo-cases-in-ohio</a>  
 
 61. <a id="endnote-61"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/rehtaeh86/posts/a-loud-boom-shook-the-morning-sky-meteor-explosion-over-lake-erie-startles-ohio-/10233550494048152/](https://www.facebook.com/rehtaeh86/posts/a-loud-boom-shook-the-morning-sky-meteor-explosion-over-lake-erie-startles-ohio-/10233550494048152/)  
+   Link: <a href="https://www.facebook.com/rehtaeh86/posts/a-loud-boom-shook-the-morning-sky-meteor-explosion-over-lake-erie-startles-ohio-/10233550494048152/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rehtaeh86/posts/a-loud-boom-shook-the-morning-sky-meteor-explosion-over-lake-erie-startles-ohio-/10233550494048152/</a>  
 
 62. <a id="endnote-62"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ABCNews/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-united-states-air-/1358320519488158/](https://www.facebook.com/ABCNews/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-united-states-air-/1358320519488158/)  
+   Link: <a href="https://www.facebook.com/ABCNews/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-united-states-air-/1358320519488158/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-united-states-air-/1358320519488158/</a>  
 
 63. <a id="endnote-63"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HiddenFactsss/posts/a-seemingly-ordinary-day-in-ohio-turned-extraordinary-when-locals-reported-a-cla/1627192532740713/](https://www.facebook.com/HiddenFactsss/posts/a-seemingly-ordinary-day-in-ohio-turned-extraordinary-when-locals-reported-a-cla/1627192532740713/)  
+   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/a-seemingly-ordinary-day-in-ohio-turned-extraordinary-when-locals-reported-a-cla/1627192532740713/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/a-seemingly-ordinary-day-in-ohio-turned-extraordinary-when-locals-reported-a-cla/1627192532740713/</a>  
 
 64. <a id="endnote-64"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wtol11/posts/a-unique-phenomenon-was-spotted-on-satellite-over-lake-erie-saturday-december-27/1332624162240771/](https://www.facebook.com/wtol11/posts/a-unique-phenomenon-was-spotted-on-satellite-over-lake-erie-saturday-december-27/1332624162240771/)  
+   Link: <a href="https://www.facebook.com/wtol11/posts/a-unique-phenomenon-was-spotted-on-satellite-over-lake-erie-saturday-december-27/1332624162240771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtol11/posts/a-unique-phenomenon-was-spotted-on-satellite-over-lake-erie-saturday-december-27/1332624162240771/</a>  
 
 65. <a id="endnote-65"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1jas5d3/any_idea_what_this_could_be_i_saw_what_looks_like/](https://www.reddit.com/r/UFOs/comments/1jas5d3/any_idea_what_this_could_be_i_saw_what_looks_like/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1jas5d3/any_idea_what_this_could_be_i_saw_what_looks_like/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1jas5d3/any_idea_what_this_could_be_i_saw_what_looks_like/</a>  
 
 66. <a id="endnote-66"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/RichlandSource/posts/capt-lawrence-j-coyne-described-himself-as-a-skeptic-of-ufos-but-admitted-he-cou/3438125879567233/](https://www.facebook.com/RichlandSource/posts/capt-lawrence-j-coyne-described-himself-as-a-skeptic-of-ufos-but-admitted-he-cou/3438125879567233/)  
+   Link: <a href="https://www.facebook.com/RichlandSource/posts/capt-lawrence-j-coyne-described-himself-as-a-skeptic-of-ufos-but-admitted-he-cou/3438125879567233/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RichlandSource/posts/capt-lawrence-j-coyne-described-himself-as-a-skeptic-of-ufos-but-admitted-he-cou/3438125879567233/</a>  
 
 67. <a id="endnote-67"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Cleveland/comments/x23dhz/clevelandlake_erie_ufo_sightings/](https://www.reddit.com/r/Cleveland/comments/x23dhz/clevelandlake_erie_ufo_sightings/)  
+   Link: <a href="https://www.reddit.com/r/Cleveland/comments/x23dhz/clevelandlake_erie_ufo_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cleveland/comments/x23dhz/clevelandlake_erie_ufo_sightings/</a>  
 
 68. <a id="endnote-68"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/](https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>

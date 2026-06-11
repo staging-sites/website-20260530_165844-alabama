@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /historic-sightings/
 nav_short_title: Blue Book files
 title: What do Illinois Blue Book files really show?
-title_full: What do Illinois Blue Book files really show? | Historic Sightings
+title_full: What do Illinois Blue Book files really show?
 display_title_short: Blue Book files
 display_title: Blue Book files
 heading_title: What do Illinois Blue Book files really show?
@@ -200,10 +200,10 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:21:10'
-parent_title: 'Illinois UFO History: 1947–1960s Reports | Illinois UFOs'
+parent_title: 'Illinois UFO History: 1947–1960 s Reports'
 parent_permalink: /historic-sightings/
 parent_nav_short_title: Historic Sightings
-parent_heading_title: 'Illinois UFO History: 1947–1960s Reports'
+parent_heading_title: 'Illinois UFO History: 1947–1960 s Reports'
 ancestor_links:
 - basename: Illinois_31b9d2
   title: Illinois UFOs
@@ -213,7 +213,7 @@ ancestor_links:
   title: Historic Sightings | What Are the Most Notable UFO Sightings in Illinois?
   permalink: /historic-sightings/
   short_title: Historic Sightings
-  heading_title: 'Illinois UFO History: 1947–1960s Reports'
+  heading_title: 'Illinois UFO History: 1947–1960 s Reports'
 breadcrumb_links:
 - basename: Illinois_31b9d2
   title: Illinois UFOs
@@ -223,7 +223,7 @@ breadcrumb_links:
   title: Historic Sightings | What Are the Most Notable UFO Sightings in Illinois?
   permalink: /historic-sightings/
   short_title: Historic Sightings
-  heading_title: 'Illinois UFO History: 1947–1960s Reports'
+  heading_title: 'Illinois UFO History: 1947–1960 s Reports'
 sibling_links:
 - basename: Illinois_31b9d2_historic_ufo_reports_cfab84_watseka_farm_saucer_ee19db
   title: Watseka claim | Historic Sightings
@@ -235,7 +235,7 @@ up_link:
   title: Historic Sightings | What Are the Most Notable UFO Sightings in Illinois?
   permalink: /historic-sightings/
   short_title: Historic Sightings
-  heading_title: 'Illinois UFO History: 1947–1960s Reports'
+  heading_title: 'Illinois UFO History: 1947–1960 s Reports'
 next_link:
   basename: Illinois_31b9d2_historic_ufo_reports_cfab84_watseka_farm_saucer_ee19db
   title: Watseka claim | Historic Sightings
@@ -252,22 +252,20 @@ image: /assets/images/Illinois_31b9d2_historic_ufo_reports_cfab84_illinois_blue_
 
 The U.S. Air Force’s *Project Blue Book* was the official military UFO investigation programme from the early Cold War until 1969. Its surviving declassified records, now held by the U.S. *National Archives*, include thousands of case files catalogued by location, date and witness description. Among these are dozens of entries tied to [Illinois]({{ 'illinois/' | relative_url }}) — from cities such as *Chicago* and *Champaign* to smaller communities such as *New Baden*, *Evanston*, *Prospect Heights*, *Peoria*, *Normal*, *Wabash* and the *Galesburg‑Moline* area. These archival footprints are valuable not because they prove unusual phenomena conclusively but because they confirm that reports from across the state reached official investigation channels and, in some cases, contain substantive witness accounts and investigative notes that illuminate how such reports were processed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
-
-<img src="{{ "/assets/images/Illinois_31b9d2_historic_ufo_reports_cfab84_illinois_blue_book_f_1d47eb-Illustration-1-light.svg" | relative_url }}" alt="Blue Book files illustration 1" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_historic_ufo_reports_cfab84_illinois_blue_book_f_1d47eb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_historic_ufo_reports_cfab84_illinois_blue_book_f_1d47eb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Illinois_31b9d2_historic_ufo_reports_cfab84_illinois_blue_book_f_1d47eb-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book files illustration 1" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_historic_ufo_reports_cfab84_illinois_blue_book_f_1d47eb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_historic_ufo_reports_cfab84_illinois_blue_book_f_1d47eb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Illinois Entries Appear in Blue Book Archives
 
-The Project Blue Book archives consist of some **129,000+ pages of declassified USAF records** covering the period from 1947 through 1969. These are indexed on microfilm under the *National Archives and Records Administration* catalogue number **T1206** and have been made available through digital repositories such as Fold3 and Wikimedia Commons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fold3.com/document/8280506" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-title">Page 7 in US, Project Blue Book</span><span class="citation-popover-snippet">Fold3Page 7 in US, Project Blue Book - UFO Investigations, 1947-1969 - Fold3...</span></span></span>
+The Project Blue Book archives consist of some **129,000+ pages of declassified USAF records** covering the period from 1947 through 1969. These are indexed on microfilm under the *National Archives and Records Administration* catalogue number **T1206** and have been made available through digital repositories such as Fold3 and Wikimedia Commons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fold3.com/document/8280506" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-title">Page 7 in US, Project Blue Book</span><span class="citation-popover-snippet">Page 7 in US, Project Blue Book - UFO Investigations, 1947-1969 - Fold3...</span></span></span>
 
 Within this mass of documentation, individual Illinois references appear as case files tied to specific dates and locations. For example:
 
-* A **Champaign, Illinois** file from June 1960 is preserved in the Blue Book collection, complete with a case number indicating formal recording and review by investigators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fold3.com/document/6976110" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-title">Page 9 in US, Project Blue Book</span><span class="citation-popover-snippet">Fold3Page 9 in US, Project Blue Book - UFO Investigations, 1947-1969 - Fold3June 1, 1960...</span><span class="citation-popover-meta">Published: June 1, 1960</span></span></span>
+* A **Champaign, Illinois** file from June 1960 is preserved in the Blue Book collection, complete with a case number indicating formal recording and review by investigators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fold3.com/document/6976110" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-title">Page 9 in US, Project Blue Book</span><span class="citation-popover-snippet">Page 9 in US, Project Blue Book - UFO Investigations, 1947-1969 - Fold3June 1, 1960...</span><span class="citation-popover-meta">Published: June 1, 1960</span></span></span>
 * Multiple Chicago‑area reports — such as events from August and October 1965 — exist as full scanned reports showing observers’ accounts and Air Force handling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-09-8726759-NewBaden-Illinois.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Project Blue Book report - 1954-09-8726759-NewBaden-Illinois.pdf - Wikimedia Commons...</span></span></span>
 * A **New Baden, Illinois** case from 1954 is available as a three‑page Blue Book PDF. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-09-8726759-NewBaden-Illinois.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Project Blue Book report - 1954-09-8726759-NewBaden-Illinois.pdf - Wikimedia Commons...</span></span></span>
 * An Evanston, Illinois report from December 1965 likewise survives as a distinct Blue Book report file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-09-8726759-NewBaden-Illinois.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Project Blue Book report - 1954-09-8726759-NewBaden-Illinois.pdf - Wikimedia Commons...</span></span></span>
 * Other documented locations include *Prospect Heights* (1965), *Peoria* (1966) and the *Galesburg‑Moline* area (March 1967), each preserved in downloadable Blue Book reports. Fold3 <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-09-8726759-NewBaden-Illinois.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Project Blue Book report</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Project Blue Book report - 1954-09-8726759-NewBaden-Illinois.pdf - Wikimedia Commons...</span></span></span>
 
 These document snippets testify that sightings from across urban and rural parts of Illinois were recorded, logged, and archived alongside thousands of reports from other states.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RqptVKs7wbc" title="Jacques Vallée: Project Blue Book, space travel and military secrecy | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RqptVKs7wbc" target="_blank" rel="noopener noreferrer">Jacques Vallée: Project Blue Book, space travel and military secrecy | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 195.2K &middot; Uploaded: May 2025 &middot; Length: 1 hour 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RqptVKs7wbc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RqptVKs7wbc">Open on YouTube</a></p></div></div></div>
 
@@ -276,7 +274,6 @@ These document snippets testify that sightings from across urban and rural parts
 ### They Show That Reports Reached Official Channels
 
 The mere existence of Project Blue Book files with Illinois place names proves that some residents’ reports entered formal investigative processes. Each Blue Book case file typically contains:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -293,11 +290,10 @@ This structure allows historians to verify which dates, places and phenomena wer
 
 Blue Book cases usually conclude with one of several classifications — identified (e.g. aircraft, astronomical bodies), insufficient data, or unexplained — reflecting the Air Force’s evaluation. Across all states, **most cases were closed as mundane explanations**, though a minority remained “unidentified” at the time of filing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span> In Illinois too, many archived reports show mundane resolutions (e.g. misidentified aircraft or lights), while some remain unresolved within the record. The existence of unresolved entries does **not** prove anything about the cause but does show that investigators did not always have sufficient data to make a conventional identification.
 
-
-<img src="{{ "/assets/images/Illinois_31b9d2_historic_ufo_reports_cfab84_illinois_blue_book_f_1d47eb-Illustration-2-light.svg" | relative_url }}" alt="Blue Book files illustration 2" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_historic_ufo_reports_cfab84_illinois_blue_book_f_1d47eb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_historic_ufo_reports_cfab84_illinois_blue_book_f_1d47eb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Illinois_31b9d2_historic_ufo_reports_cfab84_illinois_blue_book_f_1d47eb-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book files illustration 2" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_historic_ufo_reports_cfab84_illinois_blue_book_f_1d47eb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_historic_ufo_reports_cfab84_illinois_blue_book_f_1d47eb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### They Don’t Provide Conclusive Evidence of Exotic Phenomena
 
-Crucially, Blue Book archives — including Illinois files — do **not prove extraterrestrial visitation, advanced or unknown technology, or a hidden programme**. Air Force investigations consistently treated the data conservatively; unresolved classifications reflect limited information rather than confirmation of non‑terrestrial origins. The project’s own summary (and later scholarly analysis) states that of the more than 12,000 cases logged nationally, **701 remained officially unexplained** after analysis, but this was not taken as evidence of alien craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Do Records Show Proof of UFOs? | National Archives</span><span class="citation-popover-snippet">National ArchivesDo Records Show Proof of UFOs? | National ArchivesJuly 24, 2023...</span><span class="citation-popover-meta">Published: July 24, 2023</span></span></span>
+Crucially, Blue Book archives — including Illinois files — do **not prove extraterrestrial visitation, advanced or unknown technology, or a hidden programme**. Air Force investigations consistently treated the data conservatively; unresolved classifications reflect limited information rather than confirmation of non‑terrestrial origins. The project’s own summary (and later scholarly analysis) states that of the more than 12,000 cases logged nationally, **701 remained officially unexplained** after analysis, but this was not taken as evidence of alien craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Do Records Show Proof of UFOs? &#124; National Archives</span><span class="citation-popover-snippet">National ArchivesDo Records Show Proof of UFOs? &#124; National ArchivesJuly 24, 2023...</span><span class="citation-popover-meta">Published: July 24, 2023</span></span></span>
 
 ### Names and Identifying Details Are Redacted
 
@@ -309,7 +305,6 @@ Publicly accessible Blue Book files often have witness names and personal data r
 
 When assessing any single Illinois case, the highest‑value content lies in the **initial witness description** and the control sheet, which record what was reported before the Air Force applied explanations. These offer insight into how ordinary observers — pilots, police officers, townspeople — perceived and described unusual events.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E4xRu2DV2gw" title="Galesburg, Moline, Illinois, 03/06/1967 - 03/09/1967" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E4xRu2DV2gw" target="_blank" rel="noopener noreferrer">Galesburg, Moline, Illinois, 03/06/1967 - 03/09/1967</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 42.9K &middot; Uploaded: October 2013 &middot; Length: 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E4xRu2DV2gw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E4xRu2DV2gw">Open on YouTube</a></p></div></div></div>
 
 ### Compare With Local Context
@@ -319,7 +314,6 @@ Because many conventional phenomena (e.g. satellites, aircraft, Venus) can be mi
 ### Treat Unresolved Labels Appropriately
 
 An “unidentified” classification in a Blue Book file — including those from Illinois — means that the Air Force evaluators could not confidently match the description to a known cause with the available information. It does **not** confirm that the sighting was inexplicable in principle. Detailed investigation by independent experts, where available, can sometimes yield plausible explanations absent from the original files.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RLdtxogTQSo" title="River Forest, Illinois, 01/01/1958 - 01/10/1958" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RLdtxogTQSo" target="_blank" rel="noopener noreferrer">River Forest, Illinois, 01/01/1958 - 01/10/1958</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 52.3K &middot; Uploaded: October 2013 &middot; Length: 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RLdtxogTQSo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RLdtxogTQSo">Open on YouTube</a></p></div></div></div>
 
@@ -333,8 +327,7 @@ Several Blue Book files from Illinois offer context‑rich examples for research
 
 These files, taken together, show that Illinois was not peripheral to UFO reporting during the Blue Book era.
 
-
-<img src="{{ "/assets/images/Illinois_31b9d2_historic_ufo_reports_cfab84_illinois_blue_book_f_1d47eb-Illustration-3-light.svg" | relative_url }}" alt="Blue Book files illustration 3" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_historic_ufo_reports_cfab84_illinois_blue_book_f_1d47eb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_historic_ufo_reports_cfab84_illinois_blue_book_f_1d47eb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Illinois_31b9d2_historic_ufo_reports_cfab84_illinois_blue_book_f_1d47eb-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book files illustration 3" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_historic_ufo_reports_cfab84_illinois_blue_book_f_1d47eb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_historic_ufo_reports_cfab84_illinois_blue_book_f_1d47eb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## In Summary
 
 Project Blue Book’s Illinois files offer a **verified documentary trail** confirming that sightings from across the state were formally logged and evaluated by the U.S. Air Force. They do **not** prove the existence of extraterrestrial visitors or exotic craft, but they do provide a rich historical record of how unusual aerial reports were described and processed in context. Used with care — focusing on original witness descriptions, classification outcomes, and comparison with conventional explanations — these archives remain a valuable resource for anyone researching mid‑20th‑century UFO history in Illinois. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theprojectbluebookarchive.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprojectbluebookarchive.org">[The Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprojectbluebookarchive.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -425,7 +418,7 @@ Project Blue Book’s Illinois files offer a **verified documentary trail** conf
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -435,111 +428,36 @@ Project Blue Book’s Illinois files offer a **verified documentary trail** conf
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-illinois-blue-book-files-really-show-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-illinois-blue-book-files-really-show-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/MykAAOSwkRVk5Rd3/s-l225.jpg" alt="Listing image for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-illinois-blue-book-files-really-show-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-illinois-blue-book-files-really-show-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-illinois-blue-book-files-really-show-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-illinois-blue-book-files-really-show-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-illinois-blue-book-files-really-show-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-illinois-blue-book-files-really-show-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,15 +465,15 @@ Project Blue Book’s Illinois files offer a **verified documentary trail** conf
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-illinois-blue-book-files-really-show-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-illinois-blue-book-files-really-show-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55"><img src="https://i.ebayimg.com/images/g/2G0AAOSwjIpgTIcl/s-l225.jpg" alt="Listing image for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-illinois-blue-book-files-really-show-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-illinois-blue-book-files-really-show-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-illinois-blue-book-files-really-show-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-illinois-blue-book-files-really-show-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-illinois-blue-book-files-really-show-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-illinois-blue-book-files-really-show-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,15 +481,15 @@ Project Blue Book’s Illinois files offer a **verified documentary trail** conf
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-illinois-blue-book-files-really-show-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-illinois-blue-book-files-really-show-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/HvAAAOSw08Vk5SIm/s-l225.jpg" alt="Listing image for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-illinois-blue-book-files-really-show-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-illinois-blue-book-files-really-show-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-illinois-blue-book-files-really-show-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-illinois-blue-book-files-really-show-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-illinois-blue-book-files-really-show-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-illinois-blue-book-files-really-show-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -579,15 +497,15 @@ Project Blue Book’s Illinois files offer a **verified documentary trail** conf
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-illinois-blue-book-files-really-show-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-illinois-blue-book-files-really-show-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed."><img src="https://i.ebayimg.com/images/g/GWYAAeSwgidpwAEt/s-l225.jpg" alt="Listing image for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-illinois-blue-book-files-really-show-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-illinois-blue-book-files-really-show-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-illinois-blue-book-files-really-show-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-illinois-blue-book-files-really-show-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-illinois-blue-book-files-really-show-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-illinois-blue-book-files-really-show-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -595,7 +513,7 @@ Project Blue Book’s Illinois files offer a **verified documentary trail** conf
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-files-845096-what-do-illinois-blue-book-files-really-show-illinois-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-illinois-blue-book-files-really-show-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="what-do-illinois-blue-book-files-really-show-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -672,17 +590,31 @@ Project Blue Book’s Illinois files offer a **verified documentary trail** conf
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -695,42 +627,73 @@ Project Blue Book’s Illinois files offer a **verified documentary trail** conf
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -745,12 +708,17 @@ Project Blue Book’s Illinois files offer a **verified documentary trail** conf
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -761,148 +729,148 @@ Project Blue Book’s Illinois files offer a **verified documentary trail** conf
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 2. <a id="endnote-2"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Project Blue Book report  
-   Link: [https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-09-8726759-NewBaden-Illinois.pdf](https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-09-8726759-NewBaden-Illinois.pdf)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-09-8726759-NewBaden-Illinois.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1954-09-8726759-NewBaden-Illinois.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Project Blue Book report - 1954-09-8726759-NewBaden-Illinois.pdf - Wikimedia Commons...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: fold3.com  
    Title: Page 7 in US, Project Blue Book  
-   Link: [https://www.fold3.com/document/8280506](https://www.fold3.com/document/8280506)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fold3Page 7 in US, Project Blue Book - UFO Investigations, 1947-1969 - Fold3...</p></details>
+   Link: <a href="https://www.fold3.com/document/8280506" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/8280506</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 7 in US, Project Blue Book - UFO Investigations, 1947-1969 - Fold3...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: fold3.com  
    Title: Page 9 in US, Project Blue Book  
-   Link: [https://www.fold3.com/document/6976110](https://www.fold3.com/document/6976110)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fold3Page 9 in US, Project Blue Book - UFO Investigations, 1947-1969 - Fold3June 1, 1960...</p></details>
+   Link: <a href="https://www.fold3.com/document/6976110" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/6976110</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 9 in US, Project Blue Book - UFO Investigations, 1947-1969 - Fold3June 1, 1960...</p></details>
    Published: June 1, 1960  
 
 5. <a id="endnote-5"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Project Blue Book report  
-   Link: [https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1965-08-7441218-Chicago-Illinois.pdf](https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1965-08-7441218-Chicago-Illinois.pdf)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1965-08-7441218-Chicago-Illinois.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1965-08-7441218-Chicago-Illinois.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Project Blue Book report - 1965-08-7441218-Chicago-Illinois.pdf - Wikimedia Commons...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Project Blue Book report  
-   Link: [https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1965-12-8692785-Evanston-Illinois.pdf](https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1965-12-8692785-Evanston-Illinois.pdf)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1965-12-8692785-Evanston-Illinois.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1965-12-8692785-Evanston-Illinois.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Project Blue Book report - 1965-12-8692785-Evanston-Illinois.pdf - Wikimedia Commons...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: fold3.com  
    Title: Page 4 in US, Project Blue Book  
-   Link: [https://www.fold3.com/document/7474089](https://www.fold3.com/document/7474089)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fold3Page 4 in US, Project Blue Book - UFO Investigations, 1947-1969 - Fold3...</p></details>
+   Link: <a href="https://www.fold3.com/document/7474089" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/7474089</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 4 in US, Project Blue Book - UFO Investigations, 1947-1969 - Fold3...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Project Blue Book report  
-   Link: [https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1966-10-8280337-Peoria-Illinois.pdf](https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1966-10-8280337-Peoria-Illinois.pdf)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1966-10-8280337-Peoria-Illinois.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1966-10-8280337-Peoria-Illinois.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Project Blue Book report - 1966-10-8280337-Peoria-Illinois.pdf - Wikimedia CommonsFILE:PROJECT BLUE BOOK REPORT - 1966...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Project Blue Book report  
-   Link: [https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1967-03-9735209-Galesburg-Moline-Illinois.pdf](https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1967-03-9735209-Galesburg-Moline-Illinois.pdf)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1967-03-9735209-Galesburg-Moline-Illinois.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1967-03-9735209-Galesburg-Moline-Illinois.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Project Blue Book report - 1967-03-9735209-Galesburg-Moline-Illinois.pdf - Wikimedia Commons...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
    Title: National Archives Do Records Show Proof of UFOs? | National Archives  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesDo Records Show Proof of UFOs? | National ArchivesJuly 24, 2023...</p></details>
    Published: July 24, 2023  
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
    Title: ¿Registros muestran prueba de ovnis?  
-   Link: [https://www.archives.gov/espanol/ovnis](https://www.archives.gov/espanol/ovnis)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| National ArchivesFebruary 9, 2018 — ¿REGISTROS MUESTRAN PRUEBA DE OVNIS? English Image: refer to caption Por Kerri Lawrence | Noticias...</p></details>
+   Link: <a href="https://www.archives.gov/espanol/ovnis" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/espanol/ovnis</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesFebruary 9, 2018 — ¿REGISTROS MUESTRAN PRUEBA DE OVNIS? English Image: refer to caption Por Kerri Lawrence | Noticias...</p></details>
    Published: February 9, 2018  
 
 12. <a id="endnote-12"></a>
    Source: archives.gov  
    Title: Please update your links and bookmarks. C  
-   Link: [https://www.archives.gov/foia/ufos.html](https://www.archives.gov/foia/ufos.html)  
+   Link: <a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project BLUE BOOK - Unidentified Flying Objects | National ArchivesAugust 15, 2016 — PROJECT BLUE BOOK - UNIDENTIFIED FLYING OBJECTS THIS...</p></details>
    Published: August 15, 2016  
 
 13. <a id="endnote-13"></a>
    Source: fold3.com  
    Title: Page 1 in US, Project Blue Book  
-   Link: [https://www.fold3.com/document/7069420](https://www.fold3.com/document/7069420)  
+   Link: <a href="https://www.fold3.com/document/7069420" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/7069420</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You will need to enable Javascript by changing your browser settings.Learn how to enable it. Skip to conte...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: fold3.com  
    Title: Page 16 in US, Project Blue Book  
-   Link: [https://www.fold3.com/document/8671384](https://www.fold3.com/document/8671384)  
+   Link: <a href="https://www.fold3.com/document/8671384" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/8671384</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Investigations, 1947-1969 - Fold3February 26, 2007 — PAGE 16: US, PROJECT BLUE BOOK, 1947-1969 Free Image Record Publication: US, Pro...</p></details>
    Published: February 26, 2007  
 
 15. <a id="endnote-15"></a>
    Source: fold3.com  
    Title: Page 20 in US, Project Blue Book  
-   Link: [https://www.fold3.com/document/6888275/walbash-illinois-blank-page-20-us-project-blue-book-ufo-investigations-1947-1969](https://www.fold3.com/document/6888275/walbash-illinois-blank-page-20-us-project-blue-book-ufo-investigations-1947-1969)  
+   Link: <a href="https://www.fold3.com/document/6888275/walbash-illinois-blank-page-20-us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/6888275/walbash-illinois-blank-page-20-us-project-blue-book-ufo-investigations-1947-1969</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Investigations, 1947-1969 - Fold3PAGE 20: US, PROJECT BLUE BOOK, 1947-1969 Free Image Record Publication: US, Project Blue Book, 1947...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: commons.wikimedia.org  
    Title: File:Project Blue Book report 1965 10 8694539 Chicago Illinois  
-   Link: [https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1965-10-8694539-Chicago-Illinois.pdf](https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1965-10-8694539-Chicago-Illinois.pdf)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1965-10-8694539-Chicago-Illinois.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1965-10-8694539-Chicago-Illinois.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Project Blue Book report - 1965-10-8694539-Chicago-Illinois.pdf - Wikimedia CommonsFILE:PROJECT BLUE BOOK REPORT - 1965...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: commons.wikimedia.org  
    Title: File:Project Blue Book report 1963 08 8683908 Chicago Illinois  
-   Link: [https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1963-08-8683908-Chicago-Illinois.pdf](https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1963-08-8683908-Chicago-Illinois.pdf)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1963-08-8683908-Chicago-Illinois.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1963-08-8683908-Chicago-Illinois.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Project Blue Book report - 1963-08-8683908-Chicago-Illinois.pdf - Wikimedia CommonsFILE:PROJECT BLUE BOOK REPORT - 1963...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: commons.wikimedia.org  
    Title: File:Project Blue Book report 1964 07 8725817 Buckley Illinois  
-   Link: [https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1964-07-8725817-Buckley-Illinois.pdf](https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1964-07-8725817-Buckley-Illinois.pdf)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1964-07-8725817-Buckley-Illinois.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1964-07-8725817-Buckley-Illinois.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Project Blue Book report - 1964-07-8725817-Buckley-Illinois.pdf - Wikimedia CommonsFILE:PROJECT BLUE BOOK REPORT - 1964...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: theprojectbluebookarchive.org  
-   Link: [https://www.theprojectbluebookarchive.org/](https://www.theprojectbluebookarchive.org/)  
+   Link: <a href="https://www.theprojectbluebookarchive.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.theprojectbluebookarchive.org/</a>  
 
 21. <a id="endnote-21"></a>
    Source: cufos.org  
    Title: Project Blue Book  
-   Link: [https://cufos.org/resources/project-blue-book/](https://cufos.org/resources/project-blue-book/)  
+   Link: <a href="https://cufos.org/resources/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>14, as edited by Leon Davidson, July 1966The United States Air Force managed three UFO projects, from 1948 to 1969. The first w...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=RqptVKs7wbc](https://www.youtube.com/watch?v=RqptVKs7wbc)  
+   Link: <a href="https://www.youtube.com/watch?v=RqptVKs7wbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RqptVKs7wbc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Exposed (2020) [Documentary]...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Project Blue Book: America's Obsession with UFOs  
-   Link: [https://www.youtube.com/watch?v=Xu4oTBBI5UE](https://www.youtube.com/watch?v=Xu4oTBBI5UE)  
+   Link: <a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallée: Project Blue Book, space travel and military secrecy | Reality Check...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=E4xRu2DV2gw](https://www.youtube.com/watch?v=E4xRu2DV2gw)  
+   Link: <a href="https://www.youtube.com/watch?v=E4xRu2DV2gw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E4xRu2DV2gw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=RLdtxogTQSo](https://www.youtube.com/watch?v=RLdtxogTQSo)  
+   Link: <a href="https://www.youtube.com/watch?v=RLdtxogTQSo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RLdtxogTQSo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unwritten Record - National Archives...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=1cO5K1np2Ig](https://www.youtube.com/watch?v=1cO5K1np2Ig)  
+   Link: <a href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1cO5K1np2Ig</a>

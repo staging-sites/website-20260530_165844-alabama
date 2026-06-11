@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-makes-south-carolinas-ufo-story/
 nav_short_title: Myrtle Beach
 title: Are Myrtle Beach UFO Reports Really Unusual?
-title_full: Are Myrtle Beach UFO Reports Really Unusual? | South Carolina UFOs
+title_full: Are Myrtle Beach UFO Reports Really Unusual?
 display_title_short: Myrtle Beach
 display_title: Myrtle Beach
 heading_title: Are Myrtle Beach UFO Reports Really Unusual?
@@ -268,8 +268,7 @@ image: /assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4-overview
 
 ## Introduction
 
-Myrtle Beach is unusual in [South Carolina]({{ 'what-makes-south-carolinas-ufo-story/' | relative_url }}) UFO history because it produces a dense, repeatable cluster of reports rather than one dominant landmark case. The pattern is especially strong along the Grand Strand: Myrtle Beach, North Myrtle Beach and nearby beach towns repeatedly appear in civilian reporting, often with [witnesses]({{ 'witnesses-e3b4f1/' | relative_url }}) describing orange, red or white lights over the Atlantic that appear, fade, reappear, line up or drift in groups. NUFORC-based rankings put Myrtle Beach first in South Carolina for reports since 1995, ahead of North Myrtle Beach and Charleston, which makes the area a genuine reporting hotspot even if it does not prove anything extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/south-carolina/cities-most-ufo-sightings-south-carolina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">cities most ufo sightings south carolina</span><span class="citation-popover-snippet">reports as of April 25, 2025. But what do the numbers look... North Myrtle Beach - UFO sightings: 139 #1. Myrtle Beach - UFO sightings...</span><span class="citation-popover-meta">Published: April 25, 2025</span></span></span>
-
+Myrtle Beach is unusual in South Carolina UFO history because it produces a dense, repeatable cluster of reports rather than one dominant landmark case. The pattern is especially strong along the Grand Strand: Myrtle Beach, North Myrtle Beach and nearby beach towns repeatedly appear in civilian reporting, often with [witnesses]({{ 'witnesses-e3b4f1/' | relative_url }}) describing orange, red or white lights over the Atlantic that appear, fade, reappear, line up or drift in groups. NUFORC-based rankings put Myrtle Beach first in South Carolina for reports since 1995, ahead of North Myrtle Beach and Charleston, which makes the area a genuine reporting hotspot even if it does not prove anything extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/south-carolina/cities-most-ufo-sightings-south-carolina" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">cities most ufo sightings south carolina</span><span class="citation-popover-snippet">reports as of April 25, 2025. But what do the numbers look... North Myrtle Beach - UFO sightings: 139 #1. Myrtle Beach - UFO sightings...</span><span class="citation-popover-meta">Published: April 25, 2025</span></span></span>
 
 <img src="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4-overview.webp" | relative_url }}" alt="Overview image for Myrtle Beach" loading="eager" decoding="sync" fetchpriority="high">
 The key point is that Myrtle Beach is both a good place to see odd-looking lights and a difficult place to interpret them. A tourist coastline creates many night-time observers; the ocean horizon removes familiar distance cues; aircraft, drones, boats, flares, satellites and military activity all complicate what people think they are seeing. The result is a coastal lights pattern that matters historically, but remains evidentially mixed.
@@ -284,8 +283,7 @@ Older per-capita rankings have made the area look even more striking. Local and 
 
 That caveat matters because beach towns distort per-capita statistics. Myrtle Beach’s resident population is much smaller than the number of people who pass through it each year, so a “per resident” UFO rate can make a tourist city look stranger than it really is. The denominator counts locals; the observers may include visitors from across the country. This does not erase the pattern, but it changes the question from “why is Myrtle Beach uniquely anomalous?” to “why do so many people report unusual lights from this particular coastal viewing platform?”
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4-Illustration-1-light.svg" | relative_url }}" alt="Myrtle Beach illustration 1" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4-Illustration-1-dark.svg" | relative_url }}" alt="Myrtle Beach illustration 1" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What do witnesses usually describe?
 
 The most distinctive Myrtle Beach reports are not usually classic daylight discs. They are night-time lights, often over the ocean, and often described as orange or red “orbs”, “fireballs” or grouped lights that brighten and fade. This is why the Grand Strand pattern feels different from South Carolina’s older Blue Book-era cases: it is less about a single official file and more about recurring civilian descriptions.
@@ -295,7 +293,6 @@ Several NUFORC reports show the pattern clearly. In April 2008, two witnesses in
 A 2017 North Myrtle Beach report is especially useful because it describes not just one event but a repeated local expectation. Three witnesses said they had seen orange orbs “numerous times over the years”, usually around 8 p.m. to 9 p.m. over the ocean, sometimes appearing in a straight line and then reappearing scattered elsewhere. The report itself says the witnesses had found similar accounts along North and South Carolina beaches but had not found a firm explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=133716" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 Not every report fits the orange-light template. Recent NUFORC entries include white and orange orbs near the coast, red-and-white shapes, and fast-moving circular objects above the ocean. One January 2025 Myrtle Beach report described multiple white and smaller orange orbs shortly after sunset, but NUFORC added a note that the attached video appeared to show only a planet. That note is a useful reminder that sincere witnesses can misread ordinary sky objects, especially at twilight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=186515" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fRN5YhlyL5k" title="REAL footage UFO flying over Myrtle Beach SC 12/7/08" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fRN5YhlyL5k" target="_blank" rel="noopener noreferrer">REAL footage UFO flying over Myrtle Beach SC 12/7/08</a></p><p class="youtube-embed-meta">Channel: thenewboston &middot; Views: 567.0K &middot; Uploaded: December 2008 &middot; Length: 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fRN5YhlyL5k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fRN5YhlyL5k">Open on YouTube</a></p></div></div></div>
 
@@ -309,8 +306,7 @@ Military aviation is another relevant factor, though it should not be used as a 
 
 Boating traffic adds another layer. The US Coast Guard’s visual distress signal material covers approved maritime signals, including orange smoke signals and pyrotechnic devices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dco.uscg.mil/CG-ENG-4/VDS/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dco.uscg.mil">[dco.uscg.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dco.uscg.mil</span><span class="citation-popover-title">Visual Distress Signals (VDS</span><span class="citation-popover-snippet">Visual Distress Signals (VDS</span></span></span> Boating safety guidance also lists red flares, meteor flares and parachute flares among distress-signal options for night or poor-visibility use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://driveaboatusa.com/blog/visual-distress-signals-boat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: driveaboatusa.com">[Drive a Boat USA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">driveaboatusa.com</span><span class="citation-popover-title">Drive a Boat USAVisual Distress Signals on a Boat: Types and Regulations</span><span class="citation-popover-snippet">Drive a Boat USAVisual Distress Signals on a Boat: Types and Regulations</span></span></span> A distant flare over water can match several common Myrtle Beach witness descriptions: a bright red-orange light, short duration, apparent hovering, fading, and reappearance in a nearby position.
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4-Illustration-2-light.svg" | relative_url }}" alt="Myrtle Beach illustration 2" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4-Illustration-2-dark.svg" | relative_url }}" alt="Myrtle Beach illustration 2" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The coastal lights pattern: mystery or repeated misidentification?
 
 The strongest argument for treating Myrtle Beach as a meaningful UFO subtopic is repetition. Reports separated by years describe similar orange lights over the Atlantic, often after dark, sometimes appearing in lines or groups. The 2008, 2014 and 2017 NUFORC reports are not identical, but they rhyme: orange lights, ocean-facing witnesses, brief appearances, fading, and uncertainty over distance or altitude. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=110121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lSC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
@@ -329,7 +325,6 @@ The most plausible explanations vary by case:
 
 **Drones** are increasingly relevant, especially near tourist zones where photography, recreation and commercial use overlap. The FAA tells drone pilots they are responsible for knowing where they can fly, including airspace restrictions around airports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/pham_html/chap24_section_1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In a city close to an airport, a drone light seen from a balcony can be hard to distinguish from a more distant aircraft or unexplained object unless its range, direction and altitude are known.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wCKvKuorwhc" title="UFO Footage 2021 Litchfield Beach, South Carolina | &quot;I Know What I Saw&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wCKvKuorwhc" target="_blank" rel="noopener noreferrer">UFO Footage 2021 Litchfield Beach, South Carolina | &quot;I Know What I Saw&quot;</a></p><p class="youtube-embed-meta">Channel: Matt Walton Channel! &middot; Views: 8.1K &middot; Uploaded: September 2021 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wCKvKuorwhc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wCKvKuorwhc">Open on YouTube</a></p></div></div></div>
 
 ## The tourism effect: more witnesses, more reports, more noise
@@ -346,8 +341,7 @@ Third, there is more cultural expectation. Once a place is described as a hotspo
 
 The 2023 Chinese balloon incident off Myrtle Beach shows how quickly a coastal sky event can become a public spectacle when many people can see it from the shore. Associated Press reported that crowds gathered on beaches, in hotel areas and neighbourhoods as the balloon was shot down offshore, with debris later recovered from shallow waters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/cc07bd066880c847e8acc0d86cb396af" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News Chinese balloon&#x27;s downing creates spectacle over tourism hub</span><span class="citation-popover-snippet">AP News Chinese balloon&#x27;s downing creates spectacle over tourism hub</span></span></span> That incident was identified, official and geopolitical rather than a UFO case, but it demonstrates the same observational setting: a populated tourist coast, a visible object over or near the ocean, and rapid public attention.
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4-Illustration-3-light.svg" | relative_url }}" alt="Myrtle Beach illustration 3" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4-Illustration-3-dark.svg" | relative_url }}" alt="Myrtle Beach illustration 3" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What would make a Myrtle Beach sighting stronger?
 
 The best Myrtle Beach reports are not the most dramatic ones; they are the ones with enough detail to test. A useful report needs more than “orange lights over the ocean”. It needs time, direction, elevation, duration, movement, number of witnesses, exact location, weather, aircraft checks, satellite checks, and whether the lights were seen from more than one place.
@@ -364,9 +358,7 @@ That makes it valuable, but in a different way. Myrtle Beach helps explain why S
 
 The coastal lights pattern remains unresolved in the broad sense that no single explanation accounts for every account. Some reports are probably aircraft, flares, drones, boats, planets or satellites. Some are too thin to judge. A smaller number may remain genuinely unidentified because the information needed to resolve them was never collected. Myrtle Beach’s significance lies in that tension: it is South Carolina’s most visible modern UFO reporting cluster, but also one of the clearest warnings that a hotspot is not the same thing as hard evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t8__GSwGXjM" title="The FAA Controls the Sky . . but Can Cities Ban Your Backyard Drone???" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t8__GSwGXjM" target="_blank" rel="noopener noreferrer">The FAA Controls the Sky . . but Can Cities Ban Your Backyard Drone???</a></p><p class="youtube-embed-meta">Channel: 51 Drones &middot; Views: 37.3K &middot; Uploaded: May 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t8__GSwGXjM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t8__GSwGXjM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -454,7 +446,7 @@ The coastal lights pattern remains unresolved in the broad sense that no single 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -464,111 +456,36 @@ The coastal lights pattern remains unresolved in the broad sense that no single 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW"><img src="https://i.ebayimg.com/images/g/2CYAAOSwbhVgJDbB/s-l225.jpg" alt="Listing image for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -576,15 +493,15 @@ The coastal lights pattern remains unresolved in the broad sense that no single 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/sLkAAOSwaNVmMAOe/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -592,15 +509,15 @@ The coastal lights pattern remains unresolved in the broad sense that no single 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture"><img src="https://i.ebayimg.com/images/g/IIUAAeSwQIFqIxPQ/s-l225.jpg" alt="Listing image for Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -608,15 +525,15 @@ The coastal lights pattern remains unresolved in the broad sense that no single 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -624,7 +541,7 @@ The coastal lights pattern remains unresolved in the broad sense that no single 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=myrtle-beach-are-myrtle-beach-ufo-reports-really-unusual-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-myrtle-beach-ufo-reports-really-unusual-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -701,17 +618,31 @@ The coastal lights pattern remains unresolved in the broad sense that no single 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -724,42 +655,73 @@ The coastal lights pattern remains unresolved in the broad sense that no single 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -774,12 +736,17 @@ The coastal lights pattern remains unresolved in the broad sense that no single 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -790,334 +757,334 @@ The coastal lights pattern remains unresolved in the broad sense that no single 
 1. <a id="endnote-1"></a>
    Source: stacker.com  
    Title: cities most ufo sightings south carolina  
-   Link: [https://stacker.com/stories/south-carolina/cities-most-ufo-sightings-south-carolina](https://stacker.com/stories/south-carolina/cities-most-ufo-sightings-south-carolina)  
+   Link: <a href="https://stacker.com/stories/south-carolina/cities-most-ufo-sightings-south-carolina" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/south-carolina/cities-most-ufo-sightings-south-carolina</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>reports as of April 25, 2025. But what do the numbers look... North Myrtle Beach - UFO sightings: 139 #1. Myrtle Beach - UFO sightings...</p></details>
    Published: April 25, 2025  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=62752](https://nuforc.org/sighting/?id=62752)  
+   Link: <a href="https://nuforc.org/sighting/?id=62752" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=62752</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=114905](https://nuforc.org/sighting/?id=114905)  
+   Link: <a href="https://nuforc.org/sighting/?id=114905" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=114905</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=133716](https://nuforc.org/sighting/?id=133716)  
+   Link: <a href="https://nuforc.org/sighting/?id=133716" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=133716</a>  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=186515](https://nuforc.org/sighting/?id=186515)  
+   Link: <a href="https://nuforc.org/sighting/?id=186515" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=186515</a>  
 
 6. <a id="endnote-6"></a>
    Source: wpde.com  
    Title: Military aircraft training exercises being conducted at Myrtle  
-   Link: [https://wpde.com/news/local/military-aircraft-training-exercises-being-conducted-at-myrtle-beach-international-airport](https://wpde.com/news/local/military-aircraft-training-exercises-being-conducted-at-myrtle-beach-international-airport)  
+   Link: <a href="https://wpde.com/news/local/military-aircraft-training-exercises-being-conducted-at-myrtle-beach-international-airport" target="_blank" rel="noopener noreferrer nofollow">https://wpde.com/news/local/military-aircraft-training-exercises-being-conducted-at-myrtle-beach-international-airport</a>  
 
 7. <a id="endnote-7"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/pham_html/chap24_section_1.html](https://www.faa.gov/air_traffic/publications/atpubs/pham_html/chap24_section_1.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/pham_html/chap24_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/pham_html/chap24_section_1.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: dco.uscg.mil  
    Title: Visual Distress Signals (VDS)  
-   Link: [https://www.dco.uscg.mil/CG-ENG-4/VDS/](https://www.dco.uscg.mil/CG-ENG-4/VDS/)  
+   Link: <a href="https://www.dco.uscg.mil/CG-ENG-4/VDS/" target="_blank" rel="noopener noreferrer nofollow">https://www.dco.uscg.mil/CG-ENG-4/VDS/</a>  
 
 9. <a id="endnote-9"></a>
    Source: driveaboatusa.com  
    Title: Drive a Boat USAVisual Distress Signals on a Boat: Types and Regulations  
-   Link: [https://driveaboatusa.com/blog/visual-distress-signals-boat/](https://driveaboatusa.com/blog/visual-distress-signals-boat/)  
+   Link: <a href="https://driveaboatusa.com/blog/visual-distress-signals-boat/" target="_blank" rel="noopener noreferrer nofollow">https://driveaboatusa.com/blog/visual-distress-signals-boat/</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 11. <a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: faa.gov  
    Title: where can i fly  
-   Link: [https://www.faa.gov/uas/getting_started/where_can_i_fly](https://www.faa.gov/uas/getting_started/where_can_i_fly)  
+   Link: <a href="https://www.faa.gov/uas/getting_started/where_can_i_fly" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/where_can_i_fly</a>  
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=110121](https://nuforc.org/sighting/?id=110121)  
+   Link: <a href="https://nuforc.org/sighting/?id=110121" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=110121</a>  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lSC](https://nuforc.org/subndx/?id=lSC)  
+   Link: <a href="https://nuforc.org/subndx/?id=lSC" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lSC</a>  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=122564](https://nuforc.org/sighting/?id=122564)  
+   Link: <a href="https://nuforc.org/sighting/?id=122564" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=122564</a>  
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
    Title: 519 new ufo reports posted  
-   Link: [https://nuforc.org/519-new-ufo-reports-posted/](https://nuforc.org/519-new-ufo-reports-posted/)  
+   Link: <a href="https://nuforc.org/519-new-ufo-reports-posted/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/519-new-ufo-reports-posted/</a>  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=186681](https://nuforc.org/sighting/?id=186681)  
+   Link: <a href="https://nuforc.org/sighting/?id=186681" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=186681</a>  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 20. <a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=164319](https://nuforc.org/sighting/?id=164319)  
+   Link: <a href="https://nuforc.org/sighting/?id=164319" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=164319</a>  
 
 21. <a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=149402](https://nuforc.org/sighting/?id=149402)  
+   Link: <a href="https://nuforc.org/sighting/?id=149402" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=149402</a>  
 
 22. <a id="endnote-22"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=168746](https://nuforc.org/sighting/?id=168746)  
+   Link: <a href="https://nuforc.org/sighting/?id=168746" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=168746</a>  
 
 23. <a id="endnote-23"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=61736](https://nuforc.org/sighting/?id=61736)  
+   Link: <a href="https://nuforc.org/sighting/?id=61736" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=61736</a>  
 
 24. <a id="endnote-24"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=112700](https://nuforc.org/sighting/?id=112700)  
+   Link: <a href="https://nuforc.org/sighting/?id=112700" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=112700</a>  
 
 25. <a id="endnote-25"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=82151](https://nuforc.org/sighting/?id=82151)  
+   Link: <a href="https://nuforc.org/sighting/?id=82151" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=82151</a>  
 
 26. <a id="endnote-26"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=127788](https://nuforc.org/sighting/?id=127788)  
+   Link: <a href="https://nuforc.org/sighting/?id=127788" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=127788</a>  
 
 27. <a id="endnote-27"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=190917](https://nuforc.org/sighting/?id=190917)  
+   Link: <a href="https://nuforc.org/sighting/?id=190917" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190917</a>  
 
 28. <a id="endnote-28"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 29. <a id="endnote-29"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lNC](https://nuforc.org/subndx/?id=lNC)  
+   Link: <a href="https://nuforc.org/subndx/?id=lNC" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNC</a>  
 
 30. <a id="endnote-30"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 31. <a id="endnote-31"></a>
    Source: tfr.faa.gov  
-   Link: [https://tfr.faa.gov/tfr3/?page=detail_5_0654](https://tfr.faa.gov/tfr3/?page=detail_5_0654)  
+   Link: <a href="https://tfr.faa.gov/tfr3/?page=detail_5_0654" target="_blank" rel="noopener noreferrer nofollow">https://tfr.faa.gov/tfr3/?page=detail_5_0654</a>  
 
 32. <a id="endnote-32"></a>
    Source: faa.gov  
    Title: recreational flyers  
-   Link: [https://www.faa.gov/uas/recreational_flyers](https://www.faa.gov/uas/recreational_flyers)  
+   Link: <a href="https://www.faa.gov/uas/recreational_flyers" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/recreational_flyers</a>  
 
 33. <a id="endnote-33"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 34. <a id="endnote-34"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 35. <a id="endnote-35"></a>
    Source: boats.net  
-   Link: [https://www.boats.net/blog/boat-visual-distress-signals-guide?srsltid=AfmBOoqGobGOX7ZBCdvuZu5MHlHfSm1jeZU5Yx512Vq2jJWWhuiI12vI](https://www.boats.net/blog/boat-visual-distress-signals-guide?srsltid=AfmBOoqGobGOX7ZBCdvuZu5MHlHfSm1jeZU5Yx512Vq2jJWWhuiI12vI)  
+   Link: <a href="https://www.boats.net/blog/boat-visual-distress-signals-guide?srsltid=AfmBOoqGobGOX7ZBCdvuZu5MHlHfSm1jeZU5Yx512Vq2jJWWhuiI12vI" target="_blank" rel="noopener noreferrer nofollow">https://www.boats.net/blog/boat-visual-distress-signals-guide?srsltid=AfmBOoqGobGOX7ZBCdvuZu5MHlHfSm1jeZU5Yx512Vq2jJWWhuiI12vI</a>  
 
 36. <a id="endnote-36"></a>
    Source: wpde.com  
    Title: somethings out there myrtle beach is a hot spot for ufo sightings  
-   Link: [https://wpde.com/news/local/somethings-out-there-myrtle-beach-is-a-hot-spot-for-ufo-sightings](https://wpde.com/news/local/somethings-out-there-myrtle-beach-is-a-hot-spot-for-ufo-sightings)  
+   Link: <a href="https://wpde.com/news/local/somethings-out-there-myrtle-beach-is-a-hot-spot-for-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://wpde.com/news/local/somethings-out-there-myrtle-beach-is-a-hot-spot-for-ufo-sightings</a>  
 
 37. <a id="endnote-37"></a>
    Source: myrtlebeachonline.com  
    Title: Myrtle Beach Sun News Myrtle Beach SC declared a 'hotspot' for UFO sightings  
-   Link: [https://www.myrtlebeachonline.com/news/local/article287624110.html](https://www.myrtlebeachonline.com/news/local/article287624110.html)  
+   Link: <a href="https://www.myrtlebeachonline.com/news/local/article287624110.html" target="_blank" rel="noopener noreferrer nofollow">https://www.myrtlebeachonline.com/news/local/article287624110.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 with 671 sightings per 100,000 people, Myrtle Beach at No. 6 with 507 per 100,000 residents, and North Myrtle...Read more...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: flymyrtlebeach.com  
-   Link: [https://www.flymyrtlebeach.com/](https://www.flymyrtlebeach.com/)  
+   Link: <a href="https://www.flymyrtlebeach.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.flymyrtlebeach.com/</a>  
 
 39. <a id="endnote-39"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 40. <a id="endnote-40"></a>
    Source: visitmyrtlebeach.com  
    Title: ufos in myrtle beach 10 space themed activities to try on your next trip  
-   Link: [https://www.visitmyrtlebeach.com/list/ufos-in-myrtle-beach-10-space-themed-activities-to-try-on-your-next-trip](https://www.visitmyrtlebeach.com/list/ufos-in-myrtle-beach-10-space-themed-activities-to-try-on-your-next-trip)  
+   Link: <a href="https://www.visitmyrtlebeach.com/list/ufos-in-myrtle-beach-10-space-themed-activities-to-try-on-your-next-trip" target="_blank" rel="noopener noreferrer nofollow">https://www.visitmyrtlebeach.com/list/ufos-in-myrtle-beach-10-space-themed-activities-to-try-on-your-next-trip</a>  
 
 41. <a id="endnote-41"></a>
    Source: apnews.com  
    Title: AP News Chinese balloon's downing creates spectacle over tourism hub  
-   Link: [https://apnews.com/article/cc07bd066880c847e8acc0d86cb396af](https://apnews.com/article/cc07bd066880c847e8acc0d86cb396af)  
+   Link: <a href="https://apnews.com/article/cc07bd066880c847e8acc0d86cb396af" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/cc07bd066880c847e8acc0d86cb396af</a>  
 
 42. <a id="endnote-42"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/267822101295445/posts/1221166609294318/](https://www.facebook.com/groups/267822101295445/posts/1221166609294318/)  
+   Link: <a href="https://www.facebook.com/groups/267822101295445/posts/1221166609294318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/267822101295445/posts/1221166609294318/</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MyrtleBeachSouthCarolin/posts/on-a-warm-summer-night-in-1973-the-quiet-skies-over-myrtle-beach-were-about-to-b/1276934634482398/](https://www.facebook.com/MyrtleBeachSouthCarolin/posts/on-a-warm-summer-night-in-1973-the-quiet-skies-over-myrtle-beach-were-about-to-b/1276934634482398/)  
+   Link: <a href="https://www.facebook.com/MyrtleBeachSouthCarolin/posts/on-a-warm-summer-night-in-1973-the-quiet-skies-over-myrtle-beach-were-about-to-b/1276934634482398/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MyrtleBeachSouthCarolin/posts/on-a-warm-summer-night-in-1973-the-quiet-skies-over-myrtle-beach-were-about-to-b/1276934634482398/</a>  
 
 44. <a id="endnote-44"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/myrtlebeachcitygovernment/posts/did-you-know-that-the-city-of-myrtle-beach-does-not-regulate-aviation-or-airspac/448077544018678/](https://www.facebook.com/myrtlebeachcitygovernment/posts/did-you-know-that-the-city-of-myrtle-beach-does-not-regulate-aviation-or-airspac/448077544018678/)  
+   Link: <a href="https://www.facebook.com/myrtlebeachcitygovernment/posts/did-you-know-that-the-city-of-myrtle-beach-does-not-regulate-aviation-or-airspac/448077544018678/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/myrtlebeachcitygovernment/posts/did-you-know-that-the-city-of-myrtle-beach-does-not-regulate-aviation-or-airspac/448077544018678/</a>  
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/myrtlebeachcitygovernment/photos/did-you-know-that-the-city-of-myrtle-beach-does-not-regulate-aviation-or-airspac/448077524018680/](https://www.facebook.com/myrtlebeachcitygovernment/photos/did-you-know-that-the-city-of-myrtle-beach-does-not-regulate-aviation-or-airspac/448077524018680/)  
+   Link: <a href="https://www.facebook.com/myrtlebeachcitygovernment/photos/did-you-know-that-the-city-of-myrtle-beach-does-not-regulate-aviation-or-airspac/448077524018680/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/myrtlebeachcitygovernment/photos/did-you-know-that-the-city-of-myrtle-beach-does-not-regulate-aviation-or-airspac/448077524018680/</a>  
 
 46. <a id="endnote-46"></a>
    Source: boatus.org  
    Title: Visual Distress Signals  
-   Link: [https://boatus.org/study-guide/boating-equipment/visual-distress-signals/](https://boatus.org/study-guide/boating-equipment/visual-distress-signals/)  
+   Link: <a href="https://boatus.org/study-guide/boating-equipment/visual-distress-signals/" target="_blank" rel="noopener noreferrer nofollow">https://boatus.org/study-guide/boating-equipment/visual-distress-signals/</a>  
 
 47. <a id="endnote-47"></a>
    Source: flightradar24.com  
-   Link: [https://www.flightradar24.com/data/airports/myr](https://www.flightradar24.com/data/airports/myr)  
+   Link: <a href="https://www.flightradar24.com/data/airports/myr" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/data/airports/myr</a>  
 
 48. <a id="endnote-48"></a>
    Source: flyusi.org  
    Title: south carolina  
-   Link: [https://www.flyusi.org/guides/drone-laws/south-carolina](https://www.flyusi.org/guides/drone-laws/south-carolina)  
+   Link: <a href="https://www.flyusi.org/guides/drone-laws/south-carolina" target="_blank" rel="noopener noreferrer nofollow">https://www.flyusi.org/guides/drone-laws/south-carolina</a>  
 
 49. <a id="endnote-49"></a>
    Source: b2bthegrandstrand.com  
-   Link: [https://www.b2bthegrandstrand.com/stories/myrtle-beach-international-airport-responds-to-spirit-airlines-ceasing-operations%2C40648](https://www.b2bthegrandstrand.com/stories/myrtle-beach-international-airport-responds-to-spirit-airlines-ceasing-operations%2C40648)  
+   Link: <a href="https://www.b2bthegrandstrand.com/stories/myrtle-beach-international-airport-responds-to-spirit-airlines-ceasing-operations%2C40648" target="_blank" rel="noopener noreferrer nofollow">https://www.b2bthegrandstrand.com/stories/myrtle-beach-international-airport-responds-to-spirit-airlines-ceasing-operations%2C40648</a>  
 
 50. <a id="endnote-50"></a>
    Source: kupi.com  
-   Link: [https://www.kupi.com/en-ae/explore/united-states/myrtle-beach/myrtle-beach-international-airport](https://www.kupi.com/en-ae/explore/united-states/myrtle-beach/myrtle-beach-international-airport)  
+   Link: <a href="https://www.kupi.com/en-ae/explore/united-states/myrtle-beach/myrtle-beach-international-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.kupi.com/en-ae/explore/united-states/myrtle-beach/myrtle-beach-international-airport</a>  
 
 51. <a id="endnote-51"></a>
    Source: aeronautics.sc.gov  
    Title: myrtle beach intl airport  
-   Link: [https://aeronautics.sc.gov/airports/myrtle-beach-intl-airport](https://aeronautics.sc.gov/airports/myrtle-beach-intl-airport)  
+   Link: <a href="https://aeronautics.sc.gov/airports/myrtle-beach-intl-airport" target="_blank" rel="noopener noreferrer nofollow">https://aeronautics.sc.gov/airports/myrtle-beach-intl-airport</a>  
 
 52. <a id="endnote-52"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=f3GG6CY8WYQ](https://www.youtube.com/watch?v=f3GG6CY8WYQ)  
+   Link: <a href="https://www.youtube.com/watch?v=f3GG6CY8WYQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f3GG6CY8WYQ</a>  
 
 53. <a id="endnote-53"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Kq0UOQKslXc](https://www.youtube.com/watch?v=Kq0UOQKslXc)  
+   Link: <a href="https://www.youtube.com/watch?v=Kq0UOQKslXc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kq0UOQKslXc</a>  
 
 54. <a id="endnote-54"></a>
    Source: aol.com  
    Title: myrtle beach international airport issues 130411000  
-   Link: [https://www.aol.com/articles/myrtle-beach-international-airport-issues-130411000.html](https://www.aol.com/articles/myrtle-beach-international-airport-issues-130411000.html)  
+   Link: <a href="https://www.aol.com/articles/myrtle-beach-international-airport-issues-130411000.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/myrtle-beach-international-airport-issues-130411000.html</a>  
 
 55. <a id="endnote-55"></a>
    Source: wmbfnews.com  
-   Link: [https://www.wmbfnews.com/story/24910277/myrtle-beach-man-shares-ufo-experience-with/](https://www.wmbfnews.com/story/24910277/myrtle-beach-man-shares-ufo-experience-with/)  
+   Link: <a href="https://www.wmbfnews.com/story/24910277/myrtle-beach-man-shares-ufo-experience-with/" target="_blank" rel="noopener noreferrer nofollow">https://www.wmbfnews.com/story/24910277/myrtle-beach-man-shares-ufo-experience-with/</a>  
 
 56. <a id="endnote-56"></a>
    Source: wmbfnews.com  
    Title: myrtle beach international airport responds spirit airlines shutdown  
-   Link: [https://www.wmbfnews.com/2026/05/02/myrtle-beach-international-airport-responds-spirit-airlines-shutdown/](https://www.wmbfnews.com/2026/05/02/myrtle-beach-international-airport-responds-spirit-airlines-shutdown/)  
+   Link: <a href="https://www.wmbfnews.com/2026/05/02/myrtle-beach-international-airport-responds-spirit-airlines-shutdown/" target="_blank" rel="noopener noreferrer nofollow">https://www.wmbfnews.com/2026/05/02/myrtle-beach-international-airport-responds-spirit-airlines-shutdown/</a>  
 
 57. <a id="endnote-57"></a>
    Source: sentientorbs.com  
    Title: NUFORC 110131  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-110131](https://sentientorbs.com/explore/sightings/NUFORC-110131)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-110131" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-110131</a>  
 
 58. <a id="endnote-58"></a>
    Source: sentientorbs.com  
    Title: NUFORC 114377  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-114377](https://sentientorbs.com/explore/sightings/NUFORC-114377)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-114377" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-114377</a>  
 
 59. <a id="endnote-59"></a>
    Source: myrtlebeachonline.com  
-   Link: [https://www.myrtlebeachonline.com/news/local/article257440952.html](https://www.myrtlebeachonline.com/news/local/article257440952.html)  
+   Link: <a href="https://www.myrtlebeachonline.com/news/local/article257440952.html" target="_blank" rel="noopener noreferrer nofollow">https://www.myrtlebeachonline.com/news/local/article257440952.html</a>  
 
 60. <a id="endnote-60"></a>
    Source: hub.marinecadastre.gov  
-   Link: [https://hub.marinecadastre.gov/datasets/military-special-use-airspace/about](https://hub.marinecadastre.gov/datasets/military-special-use-airspace/about)  
+   Link: <a href="https://hub.marinecadastre.gov/datasets/military-special-use-airspace/about" target="_blank" rel="noopener noreferrer nofollow">https://hub.marinecadastre.gov/datasets/military-special-use-airspace/about</a>  
 
 61. <a id="endnote-61"></a>
    Source: myrtlebeach.com  
    Title: ufo sightings in myrtle beach  
-   Link: [https://www.myrtlebeach.com/blog/ufo-sightings-in-myrtle-beach/](https://www.myrtlebeach.com/blog/ufo-sightings-in-myrtle-beach/)  
+   Link: <a href="https://www.myrtlebeach.com/blog/ufo-sightings-in-myrtle-beach/" target="_blank" rel="noopener noreferrer nofollow">https://www.myrtlebeach.com/blog/ufo-sightings-in-myrtle-beach/</a>  
 
 62. <a id="endnote-62"></a>
    Source: Wikipedia  
    Title: Myrtle Beach International Airport  
-   Link: [https://en.wikipedia.org/wiki/Myrtle_Beach_International_Airport](https://en.wikipedia.org/wiki/Myrtle_Beach_International_Airport)  
+   Link: <a href="https://en.wikipedia.org/wiki/Myrtle_Beach_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Myrtle_Beach_International_Airport</a>  
 
 63. <a id="endnote-63"></a>
    Source: skyscanner.co.il  
-   Link: [https://www.skyscanner.co.il/flights/arrivals-departures/myr/myrtle-beach-international-arrivals-departures](https://www.skyscanner.co.il/flights/arrivals-departures/myr/myrtle-beach-international-arrivals-departures)  
+   Link: <a href="https://www.skyscanner.co.il/flights/arrivals-departures/myr/myrtle-beach-international-arrivals-departures" target="_blank" rel="noopener noreferrer nofollow">https://www.skyscanner.co.il/flights/arrivals-departures/myr/myrtle-beach-international-arrivals-departures</a>  
 
 64. <a id="endnote-64"></a>
    Source: myrtlebeachareacvb.com  
    Title: myrtle beach tourism pr highlights for october 2021  
-   Link: [https://www.myrtlebeachareacvb.com/news/myrtle-beach-tourism-pr-highlights-for-october-2021](https://www.myrtlebeachareacvb.com/news/myrtle-beach-tourism-pr-highlights-for-october-2021)  
+   Link: <a href="https://www.myrtlebeachareacvb.com/news/myrtle-beach-tourism-pr-highlights-for-october-2021" target="_blank" rel="noopener noreferrer nofollow">https://www.myrtlebeachareacvb.com/news/myrtle-beach-tourism-pr-highlights-for-october-2021</a>  
    Published: october 2021  
 
 65. <a id="endnote-65"></a>
    Source: trip.com  
-   Link: [https://www.trip.com/flights/status/myr/](https://www.trip.com/flights/status/myr/)  
+   Link: <a href="https://www.trip.com/flights/status/myr/" target="_blank" rel="noopener noreferrer nofollow">https://www.trip.com/flights/status/myr/</a>  
 
 ### Additional References
 
 66. <a id="endnote-66"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=wCKvKuorwhc](https://www.youtube.com/watch?v=wCKvKuorwhc)  
+   Link: <a href="https://www.youtube.com/watch?v=wCKvKuorwhc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wCKvKuorwhc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>REAL footage UFO flying over Myrtle Beach SC 12/7/08...</p></details>
 
 67. <a id="endnote-67"></a>
    Source: youtube.com  
    Title: Time-lapse video catches mysterious lights over Myrtle Beach  
-   Link: [https://www.youtube.com/watch?v=RY2kqK9Sh_k](https://www.youtube.com/watch?v=RY2kqK9Sh_k)  
+   Link: <a href="https://www.youtube.com/watch?v=RY2kqK9Sh_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RY2kqK9Sh_k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Experience the Encounters: UFO Experience at Myrtle Beach...</p></details>
 
 68. <a id="endnote-68"></a>
    Source: youtube.com  
    Title: REAL footage UFO flying over Myrtle Beach SC 12/7/08  
-   Link: [https://www.youtube.com/watch?v=fRN5YhlyL5k](https://www.youtube.com/watch?v=fRN5YhlyL5k)  
+   Link: <a href="https://www.youtube.com/watch?v=fRN5YhlyL5k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fRN5YhlyL5k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Time-lapse video catches mysterious lights over Myrtle Beach...</p></details>
 
 69. <a id="endnote-69"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/foxsanantonio/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-sparking-renewed-public-in/1396808059161361/](https://www.facebook.com/foxsanantonio/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-sparking-renewed-public-in/1396808059161361/)  
+   Link: <a href="https://www.facebook.com/foxsanantonio/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-sparking-renewed-public-in/1396808059161361/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxsanantonio/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-sparking-renewed-public-in/1396808059161361/</a>  
 
 70. <a id="endnote-70"></a>
    Source: beachaviationservices.com  
-   Link: [https://www.beachaviationservices.com/about/](https://www.beachaviationservices.com/about/)  
+   Link: <a href="https://www.beachaviationservices.com/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.beachaviationservices.com/about/</a>  
 
 71. <a id="endnote-71"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/carolinakurebeach/posts/anyone-else-ever-seen-red-lights-over-the-ocean-they-seemed-to-take-off-like-roc/1367119592128578/](https://www.facebook.com/carolinakurebeach/posts/anyone-else-ever-seen-red-lights-over-the-ocean-they-seemed-to-take-off-like-roc/1367119592128578/)  
+   Link: <a href="https://www.facebook.com/carolinakurebeach/posts/anyone-else-ever-seen-red-lights-over-the-ocean-they-seemed-to-take-off-like-roc/1367119592128578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/carolinakurebeach/posts/anyone-else-ever-seen-red-lights-over-the-ocean-they-seemed-to-take-off-like-roc/1367119592128578/</a>  
 
 72. <a id="endnote-72"></a>
    Source: boaterexam.com  
-   Link: [https://www.boaterexam.com/boating-resources/boating-visual-distress-signals/](https://www.boaterexam.com/boating-resources/boating-visual-distress-signals/)  
+   Link: <a href="https://www.boaterexam.com/boating-resources/boating-visual-distress-signals/" target="_blank" rel="noopener noreferrer nofollow">https://www.boaterexam.com/boating-resources/boating-visual-distress-signals/</a>  
 
 73. <a id="endnote-73"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1024483387904465/posts/1773005056385624/](https://www.facebook.com/groups/1024483387904465/posts/1773005056385624/)  
+   Link: <a href="https://www.facebook.com/groups/1024483387904465/posts/1773005056385624/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1024483387904465/posts/1773005056385624/</a>  
 
 74. <a id="endnote-74"></a>
    Source: lakeguntersvilleyachtclub.com  
-   Link: [https://www.lakeguntersvilleyachtclub.com/Distress-Signals](https://www.lakeguntersvilleyachtclub.com/Distress-Signals)  
+   Link: <a href="https://www.lakeguntersvilleyachtclub.com/Distress-Signals" target="_blank" rel="noopener noreferrer nofollow">https://www.lakeguntersvilleyachtclub.com/Distress-Signals</a>  
 
 75. <a id="endnote-75"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40Azzville/do-aliens-only-work-weekdays-crunching-the-numbers-on-ufo-sightings-c523a326ade7](https://medium.com/%40Azzville/do-aliens-only-work-weekdays-crunching-the-numbers-on-ufo-sightings-c523a326ade7)  
+   Link: <a href="https://medium.com/%40Azzville/do-aliens-only-work-weekdays-crunching-the-numbers-on-ufo-sightings-c523a326ade7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Azzville/do-aliens-only-work-weekdays-crunching-the-numbers-on-ufo-sightings-c523a326ade7</a>

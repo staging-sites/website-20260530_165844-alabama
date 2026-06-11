@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-kentuckys-ufo/
 nav_short_title: Sightings
 title: Where Do Kentucky UFO Sightings Cluster Today?
-title_full: Where Do Kentucky UFO Sightings Cluster Today? | Kentucky UFOs
+title_full: Where Do Kentucky UFO Sightings Cluster Today?
 display_title_short: Sightings
 display_title: Sightings
 heading_title: Where Do Kentucky UFO Sightings Cluster Today?
@@ -262,32 +262,29 @@ image: /assets/images/Kentucky_e3b665_modern_sighting_clus_847b76-overview-socia
 
 ## Introduction
 
-Modern [Kentucky]({{ 'what-really-happened-in-kentuckys-ufo/' | relative_url }}) UFO reports cluster less like a single mystery zone and more like a population-and-visibility map: the largest number of reports comes from the state’s bigger urban areas, especially Louisville and Lexington, while smaller places such as Independence and Paintsville show how repeated local accounts can form mini-clusters around familiar witness patterns — lights, orbs, triangular arrangements, silent movement, hovering, and sudden fading. The key point is not that these clusters prove unusual craft are operating over Kentucky. It is that they show where people are looking up, what they tend to notice, and why many modern cases remain hard to assess once the only evidence is a short witness statement, a phone video, or a database entry without radar, flight-tracking, weather, or astronomical checks.
-
+Modern Kentucky UFO reports cluster less like a single mystery zone and more like a population-and-visibility map: the largest number of reports comes from the state’s bigger urban areas, especially Louisville and Lexington, while smaller places such as Independence and Paintsville show how repeated local accounts can form mini-clusters around familiar witness patterns — lights, orbs, triangular arrangements, silent movement, hovering, and sudden fading. The key point is not that these clusters prove unusual craft are operating over Kentucky. It is that they show where people are looking up, what they tend to notice, and why many modern cases remain hard to assess once the only evidence is a short witness statement, a phone video, or a database entry without radar, flight-tracking, weather, or astronomical checks.
 
 <img src="{{ "/assets/images/Kentucky_e3b665_modern_sighting_clus_847b76-overview.webp" | relative_url }}" alt="Overview image for Sightings" loading="eager" decoding="sync" fetchpriority="high">
 ## Where Kentucky reports cluster today
 
-The clearest numerical pattern is that Kentucky’s modern UFO reporting follows people. A 2025 Stacker analysis of National UFO Reporting Center data, covering reports since 1995 and excluding multi-city locations, ranked Louisville first in Kentucky with 244 sightings and Lexington second with 95. Bowling Green followed with 56, Richmond with 37, Owensboro with 33, Florence with 31, Paducah with 24, Elizabethtown with 23, and Frankfort and Winchester tied with 19 each. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/kentucky/cities-most-ufo-sightings-kentucky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Kentucky | Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Kentucky | Stacker</span></span></span>
+The clearest numerical pattern is that Kentucky’s modern UFO reporting follows people. A 2025 Stacker analysis of National UFO Reporting Center data, covering reports since 1995 and excluding multi-city locations, ranked Louisville first in Kentucky with 244 sightings and Lexington second with 95. Bowling Green followed with 56, Richmond with 37, Owensboro with 33, Florence with 31, Paducah with 24, Elizabethtown with 23, and Frankfort and Winchester tied with 19 each. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/kentucky/cities-most-ufo-sightings-kentucky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Kentucky &#124; Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Kentucky &#124; Stacker</span></span></span>
 
 That ranking should be read carefully. It does not mean Louisville or Lexington are objectively more anomalous than rural eastern Kentucky or the Pennyrile. Bigger cities produce more witnesses, more cameras, more traffic, more aircraft, more drones, more social-media sharing, and more people familiar with online reporting forms. In that sense, modern sighting clusters are partly reporting clusters. They show where accounts accumulate, not necessarily where unknown objects are most common.
 
-Lexington is a useful example because it combines high population, open suburban skies, aviation activity, and a long-running place in Kentucky’s UFO record. NUFORC’s Kentucky listings include older Lexington reports ranging from a 1995 “big ball of light” account to a 1997 triangle report and a 2001 triangular craft report with bright white lights and a flashing red light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lKY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for State KY</span><span class="citation-popover-snippet">NUFOR C Reports for State KY</span></span></span> Stacker’s 2025 ranking then shows Lexington as one of the two strongest city-level report centres in the state since 1995. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/kentucky/cities-most-ufo-sightings-kentucky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Kentucky | Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Kentucky | Stacker</span></span></span> The pattern is less a single flap than a durable reporting footprint.
+Lexington is a useful example because it combines high population, open suburban skies, aviation activity, and a long-running place in Kentucky’s UFO record. NUFORC’s Kentucky listings include older Lexington reports ranging from a 1995 “big ball of light” account to a 1997 triangle report and a 2001 triangular craft report with bright white lights and a flashing red light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lKY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for State KY</span><span class="citation-popover-snippet">NUFOR C Reports for State KY</span></span></span> Stacker’s 2025 ranking then shows Lexington as one of the two strongest city-level report centres in the state since 1995. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/kentucky/cities-most-ufo-sightings-kentucky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Kentucky &#124; Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Kentucky &#124; Stacker</span></span></span> The pattern is less a single flap than a durable reporting footprint.
 
 Louisville’s dominance is even less surprising. It is Kentucky’s largest urban area, with busy night skies, regular commercial aviation, and more potential witnesses. In UFO history terms, Louisville is important because it supplies the volume: many short, ambiguous accounts of lights, formations, fireballs, and objects seen from roads or neighbourhoods. That makes it valuable for pattern analysis, but it also means individual cases often remain weak unless they include independent corroboration.
 
-
-<img src="{{ "/assets/images/Kentucky_e3b665_modern_sighting_clus_847b76-Illustration-1-light.svg" | relative_url }}" alt="Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_modern_sighting_clus_847b76-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_modern_sighting_clus_847b76-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Kentucky_e3b665_modern_sighting_clus_847b76-Illustration-1-dark.svg" | relative_url }}" alt="Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_modern_sighting_clus_847b76-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_modern_sighting_clus_847b76-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Repeated locations beyond the big cities
 
 Smaller locations matter because they reveal a different kind of cluster. Instead of high-volume reporting, places such as Independence and Paintsville show repeated accounts with similar descriptive habits: lights moving slowly, silent objects, simple shapes, and witnesses comparing the object against normal aircraft.
 
-Independence, in northern Kentucky, appears in several NUFORC entries. In 2005, a single observer reported a stationary metallic, disk-like object near I-75/Independence, describing it as silent and still for about five minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=43747" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> In 2009, two observers reported a bright red light with a white underside moving diagonally across the sky; the witness noted that they were used to seeing aircraft but felt this was different. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=70411" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> In 2013, three observers reported two red-yellow luminous shapes moving slowly one after another, each fading after about two minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=98981" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> NUFORC also highlighted an August 2016 Independence report in a 2024 batch summary, describing three white lights in a triangle with one red light in the middle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/519-new-ufo-reports-posted/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">519 New UFO Reports Posted | NUFORC</span><span class="citation-popover-snippet">519 New UFO Reports Posted | NUFORC</span></span></span>
+Independence, in northern Kentucky, appears in several NUFORC entries. In 2005, a single observer reported a stationary metallic, disk-like object near I-75/Independence, describing it as silent and still for about five minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=43747" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> In 2009, two observers reported a bright red light with a white underside moving diagonally across the sky; the witness noted that they were used to seeing aircraft but felt this was different. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=70411" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> In 2013, three observers reported two red-yellow luminous shapes moving slowly one after another, each fading after about two minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=98981" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> NUFORC also highlighted an August 2016 Independence report in a 2024 batch summary, describing three white lights in a triangle with one red light in the middle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/519-new-ufo-reports-posted/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">519 New UFO Reports Posted &#124; NUFORC</span><span class="citation-popover-snippet">519 New UFO Reports Posted &#124; NUFORC</span></span></span>
 
 Paintsville, in eastern Kentucky, is a useful contrast. Its entries are fewer, but several are vivid. A 2006 report described a large orange metallic cigar-shaped object travelling west to east, followed by two smaller white objects that appeared to approach it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=52198" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> A 2013 report from five observers described three horizontal cylinder-like lights, with light emitted from the centre upwards, and noted an aircraft nearby. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=100586" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> A separate Paintsville entry, reported years after the claimed event, was much less detailed and noted only a strange light with alleged electrical or magnetic effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=78175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 These smaller clusters are valuable because they show how local reports can feel internally consistent without necessarily being independently confirmed. Independence reports lean towards lights, spheres, triangles, and silent movement. Paintsville reports lean towards elongated forms or grouped lights. But the evidence remains mostly testimonial, and the same descriptions can overlap with drones, aircraft seen at unusual angles, satellites, balloons, sky lanterns, meteors, reflections, or misjudged distance.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HnisLLYP8nQ" title="The Liberty Alien Abduction (1976) — Kentucky’s Most Terrifying UFO Case" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HnisLLYP8nQ" target="_blank" rel="noopener noreferrer">The Liberty Alien Abduction (1976) — Kentucky’s Most Terrifying UFO Case</a></p><p class="youtube-embed-meta">Channel: Kentucky Melody &middot; Views: 7.8K &middot; Uploaded: December 2024 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HnisLLYP8nQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HnisLLYP8nQ">Open on YouTube</a></p></div></div></div>
 
@@ -311,8 +308,7 @@ Rural and small-town sightings can feel more dramatic because skies are darker a
 
 This rural-urban divide matters for Kentucky because the state contains both high-traffic urban corridors and large areas of dark, hilly terrain. A report from Louisville may be easier to cross-check against aircraft and drone activity, but it may also have more possible explanations. A report from a rural road or hilltop may be less cluttered, but it may have fewer independent witnesses, fewer cameras, and fewer records to test against.
 
-
-<img src="{{ "/assets/images/Kentucky_e3b665_modern_sighting_clus_847b76-Illustration-2-light.svg" | relative_url }}" alt="Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_modern_sighting_clus_847b76-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_modern_sighting_clus_847b76-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Kentucky_e3b665_modern_sighting_clus_847b76-Illustration-2-dark.svg" | relative_url }}" alt="Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_modern_sighting_clus_847b76-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_modern_sighting_clus_847b76-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The witness pattern: sincere, specific, but usually incomplete
 
 The typical modern Kentucky UFO witness is not making a grand claim about extraterrestrial craft. Most reports are short, observational, and comparative: “I know what planes look like,” “it made no sound,” “it moved too fast,” “it hovered,” or “there were several lights.” That makes the testimony interesting, but not conclusive.
@@ -331,7 +327,6 @@ Drones are another modern complication. The Federal Aviation Administration says
 
 Balloons, birds, aircraft, and sensor or perspective effects also remain important. AARO’s public case material includes resolved imagery assessed as balloons, including consumer-grade reflective foil balloons, because their appearance and motion matched wind-driven lighter-than-air objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> AARO’s records page also highlights forced perspective and parallax as common ways observers can overestimate size or speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> These explanations do not solve every Kentucky report, but they show why “looked too big” or “moved too fast” is not enough by itself.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lCxdThFvjzY" title="Cops vs. Aliens?!? Police Helicopter Chases Down A U.F.O. | Paranormal Witness | Felony Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lCxdThFvjzY" target="_blank" rel="noopener noreferrer">Cops vs. Aliens?!? Police Helicopter Chases Down A U.F.O. | Paranormal Witness | Felony Files</a></p><p class="youtube-embed-meta">Channel: Felony Files &middot; Views: 1.3K &middot; Uploaded: October 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lCxdThFvjzY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lCxdThFvjzY">Open on YouTube</a></p></div></div></div>
 
 ## What would make a Kentucky cluster stronger?
@@ -339,7 +334,6 @@ Balloons, birds, aircraft, and sensor or perspective effects also remain importa
 A modern Kentucky sighting cluster becomes more valuable when it moves beyond repeated stories and towards independent, checkable data. The strongest pattern would not simply be “several people saw lights near Lexington” or “Paintsville has more than one strange report”. It would be a set of observations with matching times, separated witnesses, consistent direction of travel, photographs or video with metadata, aircraft and satellite checks, weather records, and ideally radar or aviation correlation.
 
 A useful Kentucky report should therefore answer practical questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -355,17 +349,14 @@ A useful Kentucky report should therefore answer practical questions:
 
 This does not dismiss testimony. It protects it. Kentucky’s modern sighting record is full of people trying to describe something unexpected, often in good faith. The problem is that short reports tend to preserve surprise better than they preserve measurement.
 
-
-<img src="{{ "/assets/images/Kentucky_e3b665_modern_sighting_clus_847b76-Illustration-3-light.svg" | relative_url }}" alt="Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_modern_sighting_clus_847b76-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_modern_sighting_clus_847b76-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Kentucky_e3b665_modern_sighting_clus_847b76-Illustration-3-dark.svg" | relative_url }}" alt="Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_modern_sighting_clus_847b76-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_modern_sighting_clus_847b76-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read Kentucky’s modern UFO map
 
 The best reading of modern Kentucky sighting clusters is cautious but not dismissive. Louisville and Lexington matter because they show the state’s strongest population-weighted reporting centres. Independence and Paintsville matter because repeated smaller-town accounts show how local mini-clusters form around similar descriptions of lights, spheres, cylinders, triangles, and silent motion. The recurring witness pattern is sincere observation under uncertain conditions, not proof of a single extraordinary cause.
 
 Within Kentucky’s broader UFO history, these modern reports play a different role from landmark cases such as Kelly-Hopkinsville or the [Mantell]({{ 'mantell/' | relative_url }}) incident. They are less dramatic, less historically fixed, and more shaped by contemporary sky clutter: satellites, drones, aircraft, phone cameras, online databases, and social-media amplification. Their value lies in pattern recognition. They show what people in Kentucky continue to report, where those reports accumulate, and why modern UFO investigation depends less on one striking story than on careful comparison between testimony and the ordinary objects now moving through the sky.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AN3eNXcdbVs" title="East Coast Drone Sightings Drive Concerns" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AN3eNXcdbVs" target="_blank" rel="noopener noreferrer">East Coast Drone Sightings Drive Concerns</a></p><p class="youtube-embed-meta">Channel: LEX News &middot; Views: 9.8K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AN3eNXcdbVs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AN3eNXcdbVs">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -453,7 +444,7 @@ Within Kentucky’s broader UFO history, these modern reports play a different r
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -463,111 +454,36 @@ Within Kentucky’s broader UFO history, these modern reports play a different r
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display"><img src="{{ '/assets/images/marketplace-covers/27c78e3de724e607809d.jpg' | relative_url }}" alt="Listing image for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-kentucky-ufo-sightings-cluster-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-kentucky-ufo-sightings-cluster-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-kentucky-ufo-sightings-cluster-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-kentucky-ufo-sightings-cluster-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-kentucky-ufo-sightings-cluster-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-kentucky-ufo-sightings-cluster-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT"><img src="{{ '/assets/images/marketplace-covers/c4fa2fd111d52b7bddcf.jpg' | relative_url }}" alt="Listing image for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-kentucky-ufo-sightings-cluster-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-kentucky-ufo-sightings-cluster-today-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -575,15 +491,15 @@ Within Kentucky’s broader UFO history, these modern reports play a different r
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-kentucky-ufo-sightings-cluster-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-kentucky-ufo-sightings-cluster-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-kentucky-ufo-sightings-cluster-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-kentucky-ufo-sightings-cluster-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-kentucky-ufo-sightings-cluster-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-kentucky-ufo-sightings-cluster-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-kentucky-ufo-sightings-cluster-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-kentucky-ufo-sightings-cluster-today-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -591,15 +507,15 @@ Within Kentucky’s broader UFO history, these modern reports play a different r
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-kentucky-ufo-sightings-cluster-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-kentucky-ufo-sightings-cluster-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-kentucky-ufo-sightings-cluster-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-kentucky-ufo-sightings-cluster-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-kentucky-ufo-sightings-cluster-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-kentucky-ufo-sightings-cluster-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-kentucky-ufo-sightings-cluster-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-kentucky-ufo-sightings-cluster-today-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -607,15 +523,15 @@ Within Kentucky’s broader UFO history, these modern reports play a different r
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/ecc3da59eb1d0848e57f.jpg' | relative_url }}" alt="Listing image for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-kentucky-ufo-sightings-cluster-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-kentucky-ufo-sightings-cluster-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-kentucky-ufo-sightings-cluster-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-kentucky-ufo-sightings-cluster-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-kentucky-ufo-sightings-cluster-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-kentucky-ufo-sightings-cluster-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-kentucky-ufo-sightings-cluster-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-kentucky-ufo-sightings-cluster-today-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -623,7 +539,7 @@ Within Kentucky’s broader UFO history, these modern reports play a different r
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-4a7cde-where-do-kentucky-ufo-sightings-cluster-today-kentucky-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-kentucky-ufo-sightings-cluster-today-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="where-do-kentucky-ufo-sightings-cluster-today-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -700,17 +616,31 @@ Within Kentucky’s broader UFO history, these modern reports play a different r
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -723,42 +653,73 @@ Within Kentucky’s broader UFO history, these modern reports play a different r
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -773,12 +734,17 @@ Within Kentucky’s broader UFO history, these modern reports play a different r
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -789,156 +755,156 @@ Within Kentucky’s broader UFO history, these modern reports play a different r
 1. <a id="endnote-1"></a>
    Source: stacker.com  
    Title: Cities With the Most UFO Sightings in Kentucky | Stacker  
-   Link: [https://stacker.com/stories/kentucky/cities-most-ufo-sightings-kentucky](https://stacker.com/stories/kentucky/cities-most-ufo-sightings-kentucky)  
+   Link: <a href="https://stacker.com/stories/kentucky/cities-most-ufo-sightings-kentucky" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/kentucky/cities-most-ufo-sightings-kentucky</a>  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports for State KY  
-   Link: [https://nuforc.org/subndx/?id=lKY](https://nuforc.org/subndx/?id=lKY)  
+   Link: <a href="https://nuforc.org/subndx/?id=lKY" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lKY</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=43747](https://nuforc.org/sighting/?id=43747)  
+   Link: <a href="https://nuforc.org/sighting/?id=43747" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=43747</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=70411](https://nuforc.org/sighting/?id=70411)  
+   Link: <a href="https://nuforc.org/sighting/?id=70411" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=70411</a>  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=98981](https://nuforc.org/sighting/?id=98981)  
+   Link: <a href="https://nuforc.org/sighting/?id=98981" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=98981</a>  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
    Title: 519 New UFO Reports Posted | NUFORC  
-   Link: [https://nuforc.org/519-new-ufo-reports-posted/](https://nuforc.org/519-new-ufo-reports-posted/)  
+   Link: <a href="https://nuforc.org/519-new-ufo-reports-posted/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/519-new-ufo-reports-posted/</a>  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=52198](https://nuforc.org/sighting/?id=52198)  
+   Link: <a href="https://nuforc.org/sighting/?id=52198" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=52198</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=100586](https://nuforc.org/sighting/?id=100586)  
+   Link: <a href="https://nuforc.org/sighting/?id=100586" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=100586</a>  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=78175](https://nuforc.org/sighting/?id=78175)  
+   Link: <a href="https://nuforc.org/sighting/?id=78175" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=78175</a>  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=153929](https://nuforc.org/sighting/?id=153929)  
+   Link: <a href="https://nuforc.org/sighting/?id=153929" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=153929</a>  
 
 11. <a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: reuters.com  
    Title: NASA UFO panel in first public meeting says better data  
-   Link: [https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/](https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/)  
+   Link: <a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Records...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=197610](https://nuforc.org/sighting/?id=197610)  
+   Link: <a href="https://nuforc.org/sighting/?id=197610" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197610</a>  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location NUFORC Reports by Location; USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/gallery/](https://nuforc.org/gallery/)  
+   Link: <a href="https://nuforc.org/gallery/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/gallery/</a>  
 
 20. <a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=196319](https://nuforc.org/sighting/?id=196319)  
+   Link: <a href="https://nuforc.org/sighting/?id=196319" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=196319</a>  
 
 21. <a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=197624](https://nuforc.org/sighting/?id=197624)  
+   Link: <a href="https://nuforc.org/sighting/?id=197624" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197624</a>  
 
 22. <a id="endnote-22"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 23. <a id="endnote-23"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 24. <a id="endnote-24"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 25. <a id="endnote-25"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/uas/resources/public_records/uas_sightings_report](https://www.faa.gov/uas/resources/public_records/uas_sightings_report)  
+   Link: <a href="https://www.faa.gov/uas/resources/public_records/uas_sightings_report" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/resources/public_records/uas_sightings_report</a>  
 
 26. <a id="endnote-26"></a>
    Source: excelexercises.com  
-   Link: [https://excelexercises.com/UFOData.xlsx](https://excelexercises.com/UFOData.xlsx)  
+   Link: <a href="https://excelexercises.com/UFOData.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://excelexercises.com/UFOData.xlsx</a>  
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=lCxdThFvjzY](https://www.youtube.com/watch?v=lCxdThFvjzY)  
+   Link: <a href="https://www.youtube.com/watch?v=lCxdThFvjzY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lCxdThFvjzY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Liberty Alien Abduction (1976) — Kentucky&#x27;s Most Terrifying UFO Case...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=HnisLLYP8nQ](https://www.youtube.com/watch?v=HnisLLYP8nQ)  
+   Link: <a href="https://www.youtube.com/watch?v=HnisLLYP8nQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HnisLLYP8nQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kentucky tourist board urges UFOs to visit: &#x27;Just don&#x27;t eat us&#x27;...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYBoPQwgL0I/](https://www.instagram.com/reel/DYBoPQwgL0I/)  
+   Link: <a href="https://www.instagram.com/reel/DYBoPQwgL0I/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYBoPQwgL0I/</a>  
 
 30. <a id="endnote-30"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DVWb3hvE9Wd/](https://www.instagram.com/reel/DVWb3hvE9Wd/)  
+   Link: <a href="https://www.instagram.com/reel/DVWb3hvE9Wd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVWb3hvE9Wd/</a>  
 
 31. <a id="endnote-31"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DVVzXPEihuE/](https://www.instagram.com/reel/DVVzXPEihuE/)  
+   Link: <a href="https://www.instagram.com/reel/DVVzXPEihuE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVVzXPEihuE/</a>  
 
 32. <a id="endnote-32"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DWgRuI5k2Lp/](https://www.instagram.com/reel/DWgRuI5k2Lp/)  
+   Link: <a href="https://www.instagram.com/reel/DWgRuI5k2Lp/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWgRuI5k2Lp/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ABCNews/posts/drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larges/1358523542801189/](https://www.facebook.com/ABCNews/posts/drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larges/1358523542801189/)  
+   Link: <a href="https://www.facebook.com/ABCNews/posts/drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larges/1358523542801189/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larges/1358523542801189/</a>  
 
 34. <a id="endnote-34"></a>
    Source: ufoindex.com  
-   Link: [https://www.ufoindex.com/kentucky](https://www.ufoindex.com/kentucky)  
+   Link: <a href="https://www.ufoindex.com/kentucky" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/kentucky</a>  
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1483012951993684/posts/3894053444222944/](https://www.facebook.com/groups/1483012951993684/posts/3894053444222944/)  
+   Link: <a href="https://www.facebook.com/groups/1483012951993684/posts/3894053444222944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1483012951993684/posts/3894053444222944/</a>  
 
 36. <a id="endnote-36"></a>
    Source: lexcomm.co.uk  
-   Link: [https://www.lexcomm.co.uk/](https://www.lexcomm.co.uk/)  
+   Link: <a href="https://www.lexcomm.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.lexcomm.co.uk/</a>

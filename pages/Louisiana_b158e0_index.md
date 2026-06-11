@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /louisiana-b158e0-index/
 description: Focused pages that expand on What Really Happened in Louisiana's UFO....
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Louisiana_b158e0
 parent_title: What Really Happened in Louisiana's UFO...

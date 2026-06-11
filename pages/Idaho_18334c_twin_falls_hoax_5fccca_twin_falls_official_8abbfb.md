@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /twin-falls-hoax/
 nav_short_title: Official Response
 title: How Authorities and Media Reacted to the Twin Falls Hoax
-title_full: How Authorities and Media Reacted to the Twin Falls Hoax | Twin Falls Hoax
+title_full: How Authorities and Media Reacted to the Twin Falls Hoax
 display_title_short: Official Response
 display_title: Official Response
 heading_title: How Authorities and Media Reacted to the Twin Falls Hoax
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:18:12'
-parent_title: How the Twin Falls Hoax Shaped UFO Investigation | Idaho UFOs
+parent_title: How the Twin Falls Hoax Shaped UFO Investigation
 parent_permalink: /twin-falls-hoax/
 parent_nav_short_title: Twin Falls Hoax
 parent_heading_title: How the Twin Falls Hoax Shaped UFO Investigation
@@ -252,9 +252,8 @@ image: /assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_official_8a
 
 The official and media reaction to the Twin Falls saucer hoax mattered almost as much as the hoax itself. In July 1947, during the first great American “flying saucer” scare, a strange disc found in a Twin Falls yard triggered police action, FBI involvement, Army intelligence attention and intense newspaper coverage within hours. The case became an early demonstration of how quickly UFO stories could escalate when authorities treated a claim as potentially important before it had been properly verified.
 
-
-<img src="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_official_8abbfb-Illustration-1-light.svg" | relative_url }}" alt="Official Response illustration 1" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_official_8abbfb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_official_8abbfb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What followed was equally important for [Idaho]({{ 'what-makes-idaho-a-key-ufo-hotspot/' | relative_url }})’s place in early UFO history. Once investigators concluded the object was a prank assembled from ordinary materials, the same newspapers that had amplified the mystery rapidly reframed it as a lesson in public excitement, rumour and media sensationalism. The Twin Falls episode helped establish a pattern that would shape later UFO reporting across the United States: officials reacted cautiously in public, reporters balanced fascination with ridicule, and sceptics pointed to the case as proof that physical “saucer evidence” could be manufactured surprisingly easily. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twin Falls saucer hoax</span><span class="citation-popover-snippet">Twin Falls saucer hoax</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
+<img src="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_official_8abbfb-Illustration-1-dark.svg" | relative_url }}" alt="Official Response illustration 1" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_official_8abbfb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_official_8abbfb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+What followed was equally important for Idaho’s place in early UFO history. Once investigators concluded the object was a prank assembled from ordinary materials, the same newspapers that had amplified the mystery rapidly reframed it as a lesson in public excitement, rumour and media sensationalism. The Twin Falls episode helped establish a pattern that would shape later UFO reporting across the United States: officials reacted cautiously in public, reporters balanced fascination with ridicule, and sceptics pointed to the case as proof that physical “saucer evidence” could be manufactured surprisingly easily. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twin Falls saucer hoax</span><span class="citation-popover-snippet">Twin Falls saucer hoax</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
 
 ## Timeline of police and military involvement
 
@@ -268,7 +267,7 @@ Once police secured the object, the case moved beyond local law enforcement. An 
 
 The official reaction may look excessive in hindsight, but it made sense in the context of 1947. The United States military was still adjusting to the early Cold War environment, and officials could not immediately dismiss every strange aerial or technological claim. Newspapers and citizens alike speculated about experimental aircraft, Soviet devices or secret American projects. A recovered “disc” naturally attracted military attention, even if only to rule out something more serious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
 
-The authorities also contributed to the atmosphere of mystery. Local reports described investigators restricting access and temporarily confiscating photographs while the object was examined. One Twin Falls newspaper later criticised the Army’s “cloak and dagger” approach, arguing that secrecy itself encouraged public speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newspapers.com/article/the-times-news-the-disc-investigation/109911158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspapers.com">[Newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspapers.com</span><span class="citation-popover-snippet">NewspapersThe &#x27;Disc&#x27; InvestigationTHE &quot;DISC&quot; INVESTIGATION The &quot;flying disc&quot; hoax in Twin Falls at least gave us an insight into that old...</span></span></span>
+The authorities also contributed to the atmosphere of mystery. Local reports described investigators restricting access and temporarily confiscating photographs while the object was examined. One Twin Falls newspaper later criticised the Army’s “cloak and dagger” approach, arguing that secrecy itself encouraged public speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newspapers.com/article/the-times-news-the-disc-investigation/109911158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspapers.com">[Newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspapers.com</span><span class="citation-popover-snippet">The &#x27;Disc&#x27; InvestigationTHE &quot;DISC&quot; INVESTIGATION The &quot;flying disc&quot; hoax in Twin Falls at least gave us an insight into that old...</span></span></span>
 
 ### The rapid collapse of the case
 
@@ -278,8 +277,7 @@ By 12 July, newspapers across the western United States were openly calling the 
 
 The speed of the reversal was significant. In less than two days, the case had moved from apparent evidence of a recovered flying saucer to an example of public overreaction. That abrupt shift influenced how both officials and journalists handled later UFO claims.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xLuHgsXGpqc" title="Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer">Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 9.8K &middot; Uploaded: October 2025 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xLuHgsXGpqc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ap0whDDDU1Y" title="Where Did The Term &#x27;Flying Saucer&#x27; Come From? | Mossback&#x27;s Northwest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer">Where Did The Term &#x27;Flying Saucer&#x27; Come From? | Mossback&#x27;s Northwest</a></p><p class="youtube-embed-meta">Channel: Cascade PBS &middot; Views: 1.9K &middot; Uploaded: July 2019 &middot; Length: 4 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ap0whDDDU1Y">Open on YouTube</a></p></div></div></div>
 
 ## Media coverage and public fascination
 
@@ -295,8 +293,7 @@ Some newspapers also treated the story almost like a suspense serial. Readers we
 
 At the same time, humour and scepticism already existed alongside the excitement. American newspapers in 1947 frequently mixed serious reporting with satire about “little green men”, saucer mania and public gullibility. The Twin Falls case moved rapidly from the serious side of that spectrum to the comic one once the hoax explanation emerged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: feralhouse.com">[Feral House]</a><span class="citation-popover" role="note"><span class="citation-popover-source">feralhouse.com</span><span class="citation-popover-snippet">e possibility that Room 502 had been bugged...Read more...</span></span></span>
 
-
-<img src="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_official_8abbfb-Illustration-2-light.svg" | relative_url }}" alt="Official Response illustration 2" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_official_8abbfb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_official_8abbfb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_official_8abbfb-Illustration-2-dark.svg" | relative_url }}" alt="Official Response illustration 2" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_official_8abbfb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_official_8abbfb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The image that changed the tone
 
 One of the most influential moments came after the hoax was exposed, when photographs of the disc were released publicly. The image of an Army officer holding the obviously crude object undermined the atmosphere of mystery far more effectively than a written denial alone could have done. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
@@ -311,7 +308,6 @@ The [Twin Falls hoax]({{ 'twin-falls-hoax/' | relative_url }}) became important 
 
 Several lessons emerged almost immediately:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A physical object could generate more excitement than multiple witness reports.
@@ -324,8 +320,7 @@ Several lessons emerged almost immediately:
 
 The case also showed that scepticism existed from the beginning of modern UFO culture. Contrary to later myths, not everyone in 1947 accepted flying-saucer stories uncritically. Police, Army personnel and reporters all moved relatively quickly toward a conventional explanation once they inspected the object closely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/roswell/tfalls.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947Twin Falls, Idaho - July 12, 1947Shortly after their departure, McCracken announced the whole thing was a hoax. The boys told...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ap0whDDDU1Y" title="Where Did The Term &#x27;Flying Saucer&#x27; Come From? | Mossback&#x27;s Northwest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer">Where Did The Term &#x27;Flying Saucer&#x27; Come From? | Mossback&#x27;s Northwest</a></p><p class="youtube-embed-meta">Channel: Cascade PBS &middot; Views: 1.9K &middot; Uploaded: July 2019 &middot; Length: 4 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ap0whDDDU1Y">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LOZHTLcKwv0" title="The Maury Island Incident: What the Water Keeps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LOZHTLcKwv0" target="_blank" rel="noopener noreferrer">The Maury Island Incident: What the Water Keeps</a></p><p class="youtube-embed-meta">Channel: Chronicles of the Drift &middot; Views: 2.5K &middot; Uploaded: April 2026 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LOZHTLcKwv0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LOZHTLcKwv0">Open on YouTube</a></p></div></div></div>
 
 ### Why the case still matters in Idaho UFO history
 
@@ -335,8 +330,7 @@ The hoax therefore occupies an important place in the state’s UFO narrative. I
 
 The official reaction is especially revealing in hindsight. Neither the police nor the military publicly endorsed the object as extraterrestrial technology, yet their willingness to investigate seriously was enough to fuel intense speculation. That pattern would repeat many times in later UFO history: official attention itself often became part of the story, regardless of what investigators ultimately concluded.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/foJWblpzEjA" title="Ask an Expert: The Roswell Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=foJWblpzEjA" target="_blank" rel="noopener noreferrer">Ask an Expert: The Roswell Incident</a></p><p class="youtube-embed-meta">Channel: Smithsonian National Air and Space Museum &middot; Views: 300.9K &middot; Uploaded: April 2011 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=foJWblpzEjA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=foJWblpzEjA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xLuHgsXGpqc" title="Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer">Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 9.8K &middot; Uploaded: October 2025 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xLuHgsXGpqc">Open on YouTube</a></p></div></div></div>
 
 ## Debunking lessons that outlived the 1947 saucer wave
 
@@ -348,10 +342,9 @@ Investigators and journalists learned several enduring points from the case:
 * Public excitement can distort judgement during periods of mass attention.
 * Official secrecy, even temporary secrecy, can unintentionally strengthen rumours.
 * Early eyewitness reports often change once investigators identify ordinary materials or human involvement.
-* Photographs and official handling do not automatically prove authenticity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newspapers.com/article/the-times-news-the-disc-investigation/109911158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspapers.com">[newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspapers.com</span><span class="citation-popover-snippet">NewspapersThe &#x27;Disc&#x27; InvestigationTHE &quot;DISC&quot; INVESTIGATION The &quot;flying disc&quot; hoax in Twin Falls at least gave us an insight into that old...</span></span></span> For modern readers looking back at Idaho’s role in the 1947 flying-saucer era, the Twin Falls story remains valuable precisely because it was resolved. Many UFO cases stay permanently ambiguous due to missing evidence, inconsistent testimony or incomplete records. Twin Falls instead offers a rare, well-documented example of how a UFO scare developed, spread through official and media channels, and then collapsed once ordinary explanations caught up with public excitement.
+* Photographs and official handling do not automatically prove authenticity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newspapers.com/article/the-times-news-the-disc-investigation/109911158/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspapers.com">[newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspapers.com</span><span class="citation-popover-snippet">The &#x27;Disc&#x27; InvestigationTHE &quot;DISC&quot; INVESTIGATION The &quot;flying disc&quot; hoax in Twin Falls at least gave us an insight into that old...</span></span></span> For modern readers looking back at Idaho’s role in the 1947 flying-saucer era, the Twin Falls story remains valuable precisely because it was resolved. Many UFO cases stay permanently ambiguous due to missing evidence, inconsistent testimony or incomplete records. Twin Falls instead offers a rare, well-documented example of how a UFO scare developed, spread through official and media channels, and then collapsed once ordinary explanations caught up with public excitement.
 
-
-<img src="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_official_8abbfb-Illustration-3-light.svg" | relative_url }}" alt="Official Response illustration 3" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_official_8abbfb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_official_8abbfb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_official_8abbfb-Illustration-3-dark.svg" | relative_url }}" alt="Official Response illustration 3" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_official_8abbfb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_twin_falls_hoax_5fccca_twin_falls_official_8abbfb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -439,118 +432,424 @@ Investigators and journalists learned several enduring points from the case:
   </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981"><img src="https://i.ebayimg.com/images/g/~EEAAeSwJyFoFLyk/s-l225.jpg" alt="Listing image for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Proggramme Original concert Souvenir Booklet UK Tour 1981</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986"><img src="https://i.ebayimg.com/images/g/Wo8AAOSwjsNmv2Mp/s-l225.jpg" alt="Listing image for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Michael Schenker Photo Original Black And White Press Promo November 1985"><img src="https://i.ebayimg.com/images/g/2IEAAOSwxQBnMgB1/s-l225.jpg" alt="Listing image for UFO Michael Schenker Photo Original Black And White Press Promo November 1985" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Michael Schenker Photo Original Black And White Press Promo November 1985</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="https://i.ebayimg.com/images/g/N0sAAeSwB9Zp28nM/s-l225.jpg" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-authorities-and-media-reacted-to-the-twin-falls-hoax-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Twin Falls saucer hoax  
-   Link: [https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax](https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax)  
+   Link: <a href="https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: [https://en.wikipedia.org/wiki/1947_flying_disc_craze](https://en.wikipedia.org/wiki/1947_flying_disc_craze)  
+   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 
 3. <a id="endnote-3"></a>
    Source: project1947.com  
-   Link: [https://www.project1947.com/roswell/tfalls.htm](https://www.project1947.com/roswell/tfalls.htm)  
+   Link: <a href="https://www.project1947.com/roswell/tfalls.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/roswell/tfalls.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947Twin Falls, Idaho - July 12, 1947Shortly after their departure, McCracken announced the whole thing was a hoax. The boys told...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of War::z-....TWIN FALLS, IDAHO, WHILE SITTING ON THE FRONT PORCH WITH MRS. HENRY... THE ENTIRE STORY WAS A HOAX. SMITH...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: newspapers.com  
-   Link: [https://www.newspapers.com/article/the-times-news-the-disc-investigation/109911158/](https://www.newspapers.com/article/the-times-news-the-disc-investigation/109911158/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NewspapersThe &#x27;Disc&#x27; InvestigationTHE &quot;DISC&quot; INVESTIGATION The &quot;flying disc&quot; hoax in Twin Falls at least gave us an insight into that old...</p></details>
+   Link: <a href="https://www.newspapers.com/article/the-times-news-the-disc-investigation/109911158/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/the-times-news-the-disc-investigation/109911158/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The &#x27;Disc&#x27; InvestigationTHE &quot;DISC&quot; INVESTIGATION The &quot;flying disc&quot; hoax in Twin Falls at least gave us an insight into that old...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: vault.fbi.gov  
    Title: Roswell UFO  
-   Link: [https://vault.fbi.gov/Roswell%20UFO](https://vault.fbi.gov/Roswell%20UFO)  
+   Link: <a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOOn July 8, 1947, the FBI Dallas Field Office sent a teletype regarding a “flying disc” that resembled a high altitude weather balloon...</p></details>
    Published: July 8, 1947  
 
 7. <a id="endnote-7"></a>
    Source: fbi.gov  
    Title: ufos and the guy hottel memo  
-   Link: [https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo](https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo)  
+   Link: <a href="https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Mar 2013 — Second, the Hottel memo is dated nearly three years after the infamous events in Roswell in July 1947. There is no reason t...</p></details>
    Published: July 1947  
 
 8. <a id="endnote-8"></a>
    Source: feralhouse.com  
-   Link: [https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf](https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf)  
+   Link: <a href="https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>e possibility that Room 502 had been bugged...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: jhmovie.fandom.com  
    Title: "Twin Falls Falling Disc Proves Ingenious Hoax of 4 Teen-age Boys".Read more  
-   Link: [https://jhmovie.fandom.com/wiki/Roswell_incident](https://jhmovie.fandom.com/wiki/Roswell_incident)  
+   Link: <a href="https://jhmovie.fandom.com/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Roswell_incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>incident | JH Wiki Collection Wiki - FandomThough thoroughly debunked, core UFO believers, many of whom still accepted earlier hoaxes...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cryptidz.fandom.com  
    Title: Roswell Incident  
-   Link: [https://cryptidz.fandom.com/wiki/Roswell_Incident](https://cryptidz.fandom.com/wiki/Roswell_Incident)  
+   Link: <a href="https://cryptidz.fandom.com/wiki/Roswell_Incident" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Roswell_Incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Incident - Cryptid Wiki - FandomDespite this and the lack of credible evidence, many UFO enthusiasts continue to assert that the debris c...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: strandbooks.com  
-   Link: [https://www.strandbooks.com/twin-falls-saucer-hoax-simplified-9798330266005.html](https://www.strandbooks.com/twin-falls-saucer-hoax-simplified-9798330266005.html)  
+   Link: <a href="https://www.strandbooks.com/twin-falls-saucer-hoax-simplified-9798330266005.html" target="_blank" rel="noopener noreferrer nofollow">https://www.strandbooks.com/twin-falls-saucer-hoax-simplified-9798330266005.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Twin Falls Saucer Hoax SimplifiedThe next day, the FBI handed the disc over to the Army. Nationally, it was soon revealed as a hoax, craf...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Twin-Falls-Saucer-Hoax-Simplified-ebook/dp/B0D8RG3VSW](https://www.amazon.co.uk/Twin-Falls-Saucer-Hoax-Simplified-ebook/dp/B0D8RG3VSW)  
+   Link: <a href="https://www.amazon.co.uk/Twin-Falls-Saucer-Hoax-Simplified-ebook/dp/B0D8RG3VSW" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Twin-Falls-Saucer-Hoax-Simplified-ebook/dp/B0D8RG3VSW</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Twin Falls Saucer Hoax Simplified eBookThe next day, the FBI handed the disc over to the Army. Nationally, it was soon revealed as a hoax...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: boisestatepublicradio.org  
-   Link: [https://www.boisestatepublicradio.org/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department](https://www.boisestatepublicradio.org/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department)  
+   Link: <a href="https://www.boisestatepublicradio.org/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department" target="_blank" rel="noopener noreferrer nofollow">https://www.boisestatepublicradio.org/2026-05-08/ufo-files-spanning-decades-are-released-by-defense-department</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files spanning decades are released by Defense...2 days ago — Cold War reports of mysterious rotating saucers; recent sightings of m...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/doc/275519727/Alfred-Loedding-The-Great-Flying-Saucer-Wave-of-1947-Michael-D-Connors-Wendy-A-Hall-pdf](https://www.scribd.com/doc/275519727/Alfred-Loedding-The-Great-Flying-Saucer-Wave-of-1947-Michael-D-Connors-Wendy-A-Hall-pdf)  
+   Link: <a href="https://www.scribd.com/doc/275519727/Alfred-Loedding-The-Great-Flying-Saucer-Wave-of-1947-Michael-D-Connors-Wendy-A-Hall-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/275519727/Alfred-Loedding-The-Great-Flying-Saucer-Wave-of-1947-Michael-D-Connors-Wendy-A-Hall-pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hoax in the early files concerns two individuals by the name of. Harold A. Dahl and Fred Lee Crisman. They had made the claim that si...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: i came across this in the new declassified government ufouap files a 1947 front  
-   Link: [https://www.facebook.com/derek.olson.277445/photos/i-came-across-this-in-the-new-declassified-government-ufouap-files-a-1947-front-/2394338254397579/](https://www.facebook.com/derek.olson.277445/photos/i-came-across-this-in-the-new-declassified-government-ufouap-files-a-1947-front-/2394338254397579/)  
+   Link: <a href="https://www.facebook.com/derek.olson.277445/photos/i-came-across-this-in-the-new-declassified-government-ufouap-files-a-1947-front-/2394338254397579/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/derek.olson.277445/photos/i-came-across-this-in-the-new-declassified-government-ufouap-files-a-1947-front-/2394338254397579/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I came across this in the new declassified government UFO...8 May 2026 — I came across this in the new declassified government UFO/UAP f...</p></details>
    Published: May 2026  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: What was the first modern "flying saucer" sighting?  
-   Link: [https://www.facebook.com/groups/397526214154529/posts/1264748560765619/](https://www.facebook.com/groups/397526214154529/posts/1264748560765619/)  
+   Link: <a href="https://www.facebook.com/groups/397526214154529/posts/1264748560765619/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/397526214154529/posts/1264748560765619/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>saucer photographs of the era are now believed to be hoaxes.... The was subsequently revealed as a hoax, following the investigation by...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYGVHewiaxO/](https://www.instagram.com/p/DYGVHewiaxO/)  
+   Link: <a href="https://www.instagram.com/p/DYGVHewiaxO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYGVHewiaxO/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I came across this in the new declassified government UFO...The massive release includes old FBI memos, Air Force reports, military...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: gutenberg.org  
    Title: fbi teletype One report was received  
-   Link: [https://www.gutenberg.org/files/25706/25706-h/25706-h.htm](https://www.gutenberg.org/files/25706/25706-h/25706-h.htm)  
+   Link: <a href="https://www.gutenberg.org/files/25706/25706-h/25706-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/25706/25706-h/25706-h.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fbi teletypeOne report was received July 7, 1947, the details of which are set forth in Milwaukee letter to the Bureau dated July 8, 1947...</p></details>
    Published: July 7, 1947  
 
 19. <a id="endnote-19"></a>
    Source: x.com  
-   Link: [https://x.com/bgzimmer/status/1626921192673222658](https://x.com/bgzimmer/status/1626921192673222658)  
+   Link: <a href="https://x.com/bgzimmer/status/1626921192673222658" target="_blank" rel="noopener noreferrer nofollow">https://x.com/bgzimmer/status/1626921192673222658</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>unidentified flying objectsOn July 6, 1947, Idaho&#x27;s Twin Falls Times-News reported that local picnickers spotted &quot;unidentified flying obj...</p></details>
    Published: July 6, 1947  
 
 20. <a id="endnote-20"></a>
    Source: vice.com  
-   Link: [https://www.vice.com/en/article/everything-wild-in-the-fbis-ufo-files-including-human-like-beings-flying-discs-and-one-extremely-weird-memo/](https://www.vice.com/en/article/everything-wild-in-the-fbis-ufo-files-including-human-like-beings-flying-discs-and-one-extremely-weird-memo/)  
+   Link: <a href="https://www.vice.com/en/article/everything-wild-in-the-fbis-ufo-files-including-human-like-beings-flying-discs-and-one-extremely-weird-memo/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/everything-wild-in-the-fbis-ufo-files-including-human-like-beings-flying-discs-and-one-extremely-weird-memo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ke” visitors, and one very strange 1947 memo...</p></details>

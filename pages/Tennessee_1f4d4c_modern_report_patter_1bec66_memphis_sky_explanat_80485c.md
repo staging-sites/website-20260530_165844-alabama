@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /report-patterns-677669/
 nav_short_title: Memphis lights
 title: When Memphis UFO reports become sky clues
-title_full: When Memphis UFO reports become sky clues | Report Patterns
+title_full: When Memphis UFO reports become sky clues
 display_title_short: Memphis lights
 display_title: Memphis lights
 heading_title: When Memphis UFO reports become sky clues
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:16:15'
-parent_title: Where Do Tennesseans Report UFOs Most? | Tennessee UFOs
+parent_title: Where Do Tennesseans Report UFOs Most?
 parent_permalink: /report-patterns-677669/
 parent_nav_short_title: Report Patterns
 parent_heading_title: Where Do Tennesseans Report UFOs Most?
@@ -250,12 +250,10 @@ image: /assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66_memphis_sky_e
 
 ## Introduction
 
-Modern [Memphis]({{ 'memphis/' | relative_url }}) UFO reports often become a lesson in identification rather than a discovery of something genuinely unknown. In recent years, some of the most widely discussed sightings in west [Tennessee]({{ 'what-keeps-tennessees-ufo-stories-alive/' | relative_url }}) have involved long lines of lights crossing the sky or bright fireballs that appeared suddenly and vanished just as quickly. At first glance, both can look extraordinary. Witnesses frequently describe formations that seem too organised for aircraft or glowing objects that appear dramatic enough to suggest something unusual.
+Modern [Memphis]({{ 'memphis/' | relative_url }}) UFO reports often become a lesson in identification rather than a discovery of something genuinely unknown. In recent years, some of the most widely discussed sightings in west Tennessee have involved long lines of lights crossing the sky or bright fireballs that appeared suddenly and vanished just as quickly. At first glance, both can look extraordinary. Witnesses frequently describe formations that seem too organised for aircraft or glowing objects that appear dramatic enough to suggest something unusual.
 
-
-<img src="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66_memphis_sky_explanat_80485c-Illustration-1-light.svg" | relative_url }}" alt="Memphis lights illustration 1" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66_memphis_sky_explanat_80485c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66_memphis_sky_explanat_80485c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66_memphis_sky_explanat_80485c-Illustration-1-dark.svg" | relative_url }}" alt="Memphis lights illustration 1" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66_memphis_sky_explanat_80485c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66_memphis_sky_explanat_80485c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What makes these reports important within Tennessee’s UFO history is that they show how modern reporting systems such as NUFORC record genuine witness experiences while also revealing how often ordinary astronomical or space-related events generate UFO claims. Memphis provides several useful examples, particularly sightings later linked to Starlink satellite trains and meteor or atmospheric fireball events.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S7uvNelUUqU" title="Fireball lights up the sky in the midstate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S7uvNelUUqU" target="_blank" rel="noopener noreferrer">Fireball lights up the sky in the midstate</a></p><p class="youtube-embed-meta">Channel: WSMV 4 Nashville &middot; Views: 1.5K &middot; Uploaded: October 2025 &middot; Length: 1 minute 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S7uvNelUUqU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S7uvNelUUqU">Open on YouTube</a></p></div></div></div>
 
@@ -263,18 +261,17 @@ What makes these reports important within Tennessee’s UFO history is that they
 
 One of the clearest Memphis examples appeared in the NUFORC database during the first major wave of public attention surrounding SpaceX’s Starlink satellites.
 
-A Memphis witness report logged by NUFORC described “6 at a time one after the other spaced the same and perfectly in line like satellites”. The report was submitted in April 2020 and concerned an observation that witnesses found striking because of the regular spacing and formation movement. Even the NUFORC entry itself included the notation “Starlink satellites?” as a possible explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=155066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 155066August 20, 2023 — NUFORC UFO Sighting 155066; Occurred: 2012-04-21 10:00 Local; Reported: 2020-04-13 17...</span><span class="citation-popover-meta">Published: April 21, 2012</span></span></span>
+A Memphis witness report logged by NUFORC described “6 at a time one after the other spaced the same and perfectly in line like satellites”. The report was submitted in April 2020 and concerned an observation that witnesses found striking because of the regular spacing and formation movement. Even the NUFORC entry itself included the notation “Starlink satellites?” as a possible explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=155066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 155066August 20, 2023 — NUFORC UFO Sighting 155066; Occurred: 2012-04-21 10:00 Local; Reported: 2020-04-13 17...</span><span class="citation-popover-meta">Published: April 21, 2012</span></span></span>
 
-The timing matters. During 2019 and 2020, newly launched Starlink satellites frequently appeared as bright chains of lights moving together across the night sky before gradually spreading into separate orbits. Thousands of similar reports were filed across North America. Large numbers of NUFORC entries from that period contain nearly identical descriptions: strings of white lights, evenly spaced objects, silent formations and apparent fleets travelling together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gist.github.com">[Gist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gist.github.com</span><span class="citation-popover-snippet">Gistnuforc_reports.csvTrailing line of UFO lights. ((Starlink satellites?)),Hyrem,UT,2020-02-26T22... A line of Oval/ Pill shaped UFO&#x27;s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=154082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 154082NUFORC UFO Sighting 154082. Occurred: 2020-03-05 22:00 Local Reported: 2020-03-06 15:23 Pacific Duration: 2 min...</span><span class="citation-popover-meta">Published: March 5, 2020</span></span></span>
+The timing matters. During 2019 and 2020, newly launched Starlink satellites frequently appeared as bright chains of lights moving together across the night sky before gradually spreading into separate orbits. Thousands of similar reports were filed across North America. Large numbers of NUFORC entries from that period contain nearly identical descriptions: strings of white lights, evenly spaced objects, silent formations and apparent fleets travelling together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gist.github.com">[Gist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gist.github.com</span><span class="citation-popover-snippet">nuforc_reports.csvTrailing line of UFO lights. ((Starlink satellites?)),Hyrem,UT,2020-02-26T22... A line of Oval/ Pill shaped UFO&#x27;s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=154082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 154082NUFORC UFO Sighting 154082. Occurred: 2020-03-05 22:00 Local Reported: 2020-03-06 15:23 Pacific Duration: 2 min...</span><span class="citation-popover-meta">Published: March 5, 2020</span></span></span>
 
 For many observers, the formation itself becomes the reason the sighting seems mysterious. Traditional aircraft do not normally appear as long chains of equally spaced lights. Yet that exact pattern is one of the strongest clues pointing towards Starlink rather than away from it.
 
 Several characteristics repeatedly appear in Starlink-related reports:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Objects move in a straight line. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Starlink/comments/16knevh/really_bizarre_straight_line_of_moving_lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditReally bizarre straight line of moving lights spotted above...They are starlink sats that are just launched. The dispenser on the...</span></span></span>
+* Objects move in a straight line. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Starlink/comments/16knevh/really_bizarre_straight_line_of_moving_lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Really bizarre straight line of moving lights spotted above...They are starlink sats that are just launched. The dispenser on the...</span></span></span>
 * Spacing remains consistent.
 * No sudden manoeuvres occur.
 * No sound is heard.
@@ -286,7 +283,6 @@ Several characteristics repeatedly appear in Starlink-related reports:
 These details match many Memphis-area descriptions far more closely than they match classic close-encounter narratives or reports of unconventional aircraft. Public satellite-tracking services were also becoming widely available during this period, making it possible to compare sighting times with predicted Starlink passes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://findstarlink.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: findstarlink.com">[Find Starlink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">findstarlink.com</span><span class="citation-popover-snippet">Find StarlinkStarlink Satellites Tracker - Check when you can see it!Calculate when you can see the Starlink satellites above your location...</span></span></span>
 
 The broader Tennessee pattern is significant. Memphis was not producing a unique local mystery. Instead, local reports mirrored a nationwide surge in sightings that followed Starlink launches. News stations across the United States repeatedly fielded calls about apparent UFO formations before identifying them as satellite trains. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kxii.com/video/2024/03/27/ufo-sighting-likely-starlink-satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kxii.com">[www.kxii.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kxii.com</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: March 27, 2024</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/es2bU-bFqIQ" title="&#x27;Fireball&#x27; Seen Shooting Across Southeast Sky Is Confirmed Meteor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=es2bU-bFqIQ" target="_blank" rel="noopener noreferrer">&#x27;Fireball&#x27; Seen Shooting Across Southeast Sky Is Confirmed Meteor</a></p><p class="youtube-embed-meta">Channel: TODAY &middot; Views: 35.8K &middot; Uploaded: June 2025 &middot; Length: 2 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=es2bU-bFqIQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=es2bU-bFqIQ">Open on YouTube</a></p></div></div></div>
 
@@ -304,19 +300,17 @@ A key point is that witnesses are not necessarily mistaken about what they saw. 
 
 That is one reason why meteor events frequently enter UFO databases before astronomical explanations are established.
 
-
-<img src="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66_memphis_sky_explanat_80485c-Illustration-2-light.svg" | relative_url }}" alt="Memphis lights illustration 2" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66_memphis_sky_explanat_80485c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66_memphis_sky_explanat_80485c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66_memphis_sky_explanat_80485c-Illustration-2-dark.svg" | relative_url }}" alt="Memphis lights illustration 2" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66_memphis_sky_explanat_80485c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66_memphis_sky_explanat_80485c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to test formation and fireball sightings
 
 Memphis reports involving Starlink and meteors highlight a useful investigative approach. The question is not whether witnesses are honest. It is whether the reported behaviour matches known sky phenomena.
 
 For formation sightings, the strongest checks are:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Was the event reported shortly after a Starlink launch?
-* Did the lights move in a straight line? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Starlink/comments/16knevh/really_bizarre_straight_line_of_moving_lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditReally bizarre straight line of moving lights spotted above...They are starlink sats that are just launched. The dispenser on the...</span></span></span>
+* Did the lights move in a straight line? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Starlink/comments/16knevh/really_bizarre_straight_line_of_moving_lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Really bizarre straight line of moving lights spotted above...They are starlink sats that are just launched. The dispenser on the...</span></span></span>
 * Were they evenly spaced?
 * Did they maintain constant speed?
 * Did they gradually disappear rather than accelerate away?
@@ -326,7 +320,6 @@ For formation sightings, the strongest checks are:
 If the answer to most of those questions is yes, Starlink becomes a strong candidate explanation. Satellite-tracking tools can often confirm whether a visible train passed over Tennessee at the reported time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://findstarlink.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: findstarlink.com">[Find Starlink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">findstarlink.com</span><span class="citation-popover-snippet">Find StarlinkStarlink Satellites Tracker - Check when you can see it!Calculate when you can see the Starlink satellites above your location...</span></span></span>
 
 For fireball reports, investigators usually ask different questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -340,7 +333,6 @@ For fireball reports, investigators usually ask different questions:
 
 A genuine meteor or re-entry event often produces exactly that pattern, with reports arriving from large geographical areas rather than a single neighbourhood. American Meteor Society reports and regional weather coverage frequently provide useful confirmation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/members/imo_view/report/136091" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball reportReports Report 229az (Event 229-2018); Memphis, TN · 35° 9&#x27; 25.02&#x27;&#x27; N (35.15695°) · 89° 53&#x27; 33.29&#x27;...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OJSYBIkDuh8" title="Is that a UFO? No... StarLink creates train of satellites across night sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OJSYBIkDuh8" target="_blank" rel="noopener noreferrer">Is that a UFO? No... StarLink creates train of satellites across night sky</a></p><p class="youtube-embed-meta">Channel: WRAL &middot; Views: 2.2K &middot; Uploaded: May 2023 &middot; Length: 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OJSYBIkDuh8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OJSYBIkDuh8">Open on YouTube</a></p></div></div></div>
 
 ## Why these Memphis cases matter in Tennessee UFO history
@@ -351,8 +343,7 @@ The result is not that all reports are solved. Some Tennessee cases remain poorl
 
 In the NUFORC era, one of the most important questions is often not whether something unusual appeared in the sky. It is whether the sighting matches a known pattern that thousands of other observers reported at the same time. Memphis provides several clear examples where that comparison moved a report from “unknown object” towards a plausible and testable explanation.
 
-
-<img src="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66_memphis_sky_explanat_80485c-Illustration-3-light.svg" | relative_url }}" alt="Memphis lights illustration 3" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66_memphis_sky_explanat_80485c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66_memphis_sky_explanat_80485c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66_memphis_sky_explanat_80485c-Illustration-3-dark.svg" | relative_url }}" alt="Memphis lights illustration 3" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66_memphis_sky_explanat_80485c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_modern_report_patter_1bec66_memphis_sky_explanat_80485c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -440,7 +431,7 @@ In the NUFORC era, one of the most important questions is often not whether some
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -450,111 +441,36 @@ In the NUFORC era, one of the most important questions is often not whether some
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX"><img src="https://i.ebayimg.com/images/g/D6YAAeSwgIhqJsph/s-l225.jpg" alt="Listing image for UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -562,15 +478,15 @@ In the NUFORC era, one of the most important questions is often not whether some
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -578,15 +494,15 @@ In the NUFORC era, one of the most important questions is often not whether some
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4"><img src="https://i.ebayimg.com/images/g/Ab0AAeSwSx9p8OkA/s-l225.jpg" alt="Listing image for ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -594,15 +510,15 @@ In the NUFORC era, one of the most important questions is often not whether some
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -610,7 +526,7 @@ In the NUFORC era, one of the most important questions is often not whether some
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memphis-lights-when-memphis-ufo-reports-become-sky-clues-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-memphis-ufo-reports-become-sky-clues-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -687,17 +603,31 @@ In the NUFORC era, one of the most important questions is often not whether some
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -710,42 +640,73 @@ In the NUFORC era, one of the most important questions is often not whether some
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -760,12 +721,17 @@ In the NUFORC era, one of the most important questions is often not whether some
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -775,139 +741,139 @@ In the NUFORC era, one of the most important questions is often not whether some
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=155066](https://nuforc.org/sighting/?id=155066)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 155066August 20, 2023 — NUFORC UFO Sighting 155066; Occurred: 2012-04-21 10:00 Local; Reported: 2020-04-13 17...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=155066" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=155066</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 155066August 20, 2023 — NUFORC UFO Sighting 155066; Occurred: 2012-04-21 10:00 Local; Reported: 2020-04-13 17...</p></details>
    Published: April 21, 2012  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=154082](https://nuforc.org/sighting/?id=154082)  
+   Link: <a href="https://nuforc.org/sighting/?id=154082" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=154082</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 154082NUFORC UFO Sighting 154082. Occurred: 2020-03-05 22:00 Local Reported: 2020-03-06 15:23 Pacific Duration: 2 min...</p></details>
    Published: March 5, 2020  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=154073](https://nuforc.org/sighting/?id=154073)  
+   Link: <a href="https://nuforc.org/sighting/?id=154073" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=154073</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 154073NUFORC UFO Sighting 154073; Occurred: 2020-03-06 07:00 Local; Reported: 2020-03-06 18:04 Pacific; Duration...</p></details>
    Published: March 6, 2020  
 
 4. <a id="endnote-4"></a>
    Source: kxii.com  
-   Link: [https://www.kxii.com/video/2024/03/27/ufo-sighting-likely-starlink-satellites/](https://www.kxii.com/video/2024/03/27/ufo-sighting-likely-starlink-satellites/)  
+   Link: <a href="https://www.kxii.com/video/2024/03/27/ufo-sighting-likely-starlink-satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.kxii.com/video/2024/03/27/ufo-sighting-likely-starlink-satellites/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.kxii.comUFO](https://www.kxii.comUFO) sighting likely Starlink satellitesMarch 27, 2024 — We have gotten several calls and emails about a strange-looki...</p></details>
    Published: March 27, 2024  
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/weathertrevor/videos/%EF%B8%8F-wild-video-of-a-re-entry-from-space-over-the-memphis-metro-area-within-the-las/1121283502944539/](https://www.facebook.com/weathertrevor/videos/%EF%B8%8F-wild-video-of-a-re-entry-from-space-over-the-memphis-metro-area-within-the-las/1121283502944539/)  
+   Link: <a href="https://www.facebook.com/weathertrevor/videos/%EF%B8%8F-wild-video-of-a-re-entry-from-space-over-the-memphis-metro-area-within-the-las/1121283502944539/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/weathertrevor/videos/%EF%B8%8F-wild-video-of-a-re-entry-from-space-over-the-memphis-metro-area-within-the-las/1121283502944539/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Facebook☄️ Wild video of a re-entry from space over the Memphis...Experts are saying this was likely a decommissioned satellite or some...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/LelanStatomNC5/posts/several-of-you-saw-a-fireball-last-night-or-at-least-captured-it-on-your-doorbel/1052432179575912/](https://www.facebook.com/LelanStatomNC5/posts/several-of-you-saw-a-fireball-last-night-or-at-least-captured-it-on-your-doorbel/1052432179575912/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookSeveral of you saw a fireball last night or at least captured it...The American Meteor Society reportedly fielded 215 reports of...</p></details>
+   Link: <a href="https://www.facebook.com/LelanStatomNC5/posts/several-of-you-saw-a-fireball-last-night-or-at-least-captured-it-on-your-doorbel/1052432179575912/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LelanStatomNC5/posts/several-of-you-saw-a-fireball-last-night-or-at-least-captured-it-on-your-doorbel/1052432179575912/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Several of you saw a fireball last night or at least captured it...The American Meteor Society reportedly fielded 215 reports of...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
    Title: Kacey said this happened on Thursday night (April 9)  
-   Link: [https://www.facebook.com/countrymusictunes/posts/kacey-said-this-happened-on-thursday-night-april-9-she-went-on-to-say-ive-seen-f/122165379848929568/](https://www.facebook.com/countrymusictunes/posts/kacey-said-this-happened-on-thursday-night-april-9-she-went-on-to-say-ive-seen-f/122165379848929568/)  
+   Link: <a href="https://www.facebook.com/countrymusictunes/posts/kacey-said-this-happened-on-thursday-night-april-9-she-went-on-to-say-ive-seen-f/122165379848929568/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/countrymusictunes/posts/kacey-said-this-happened-on-thursday-night-april-9-she-went-on-to-say-ive-seen-f/122165379848929568/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>She...--- ### **Possible Explanations for UFO Orbs** #### **1. Extraterrestrial Craft** - Some theorists suggest UFO orbs are alien prob...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/363251434321678/posts/1563312610982215/](https://www.facebook.com/groups/363251434321678/posts/1563312610982215/)  
+   Link: <a href="https://www.facebook.com/groups/363251434321678/posts/1563312610982215/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/363251434321678/posts/1563312610982215/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands report large satellite or meteor sightingThousands of people in the Southeast, particularly in Kansas, Arkansas, Tennessee, Mis...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/spannwx/posts/starlink-satellite-train-passing-over-memphis-this-evening-video-from-mark-ray/1446687723495913/](https://www.facebook.com/spannwx/posts/starlink-satellite-train-passing-over-memphis-this-evening-video-from-mark-ray/1446687723495913/)  
+   Link: <a href="https://www.facebook.com/spannwx/posts/starlink-satellite-train-passing-over-memphis-this-evening-video-from-mark-ray/1446687723495913/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/spannwx/posts/starlink-satellite-train-passing-over-memphis-this-evening-video-from-mark-ray/1446687723495913/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ighting up the sky with a chain of moving lights. These satellites...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/367330163608294/posts/2779015962439690/](https://www.facebook.com/groups/367330163608294/posts/2779015962439690/)  
+   Link: <a href="https://www.facebook.com/groups/367330163608294/posts/2779015962439690/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/367330163608294/posts/2779015962439690/</a>  
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NickBeresNC5/posts/okay-what-is-the-source-of-these-lights-i-have-no-idea-maybe-some-type-of-aircra/1303337284486349/](https://www.facebook.com/NickBeresNC5/posts/okay-what-is-the-source-of-these-lights-i-have-no-idea-maybe-some-type-of-aircra/1303337284486349/)  
+   Link: <a href="https://www.facebook.com/NickBeresNC5/posts/okay-what-is-the-source-of-these-lights-i-have-no-idea-maybe-some-type-of-aircra/1303337284486349/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NickBeresNC5/posts/okay-what-is-the-source-of-these-lights-i-have-no-idea-maybe-some-type-of-aircra/1303337284486349/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tos with me...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wxbradCLT/videos/starlink-satellites-the-string-of-lights-in-the-night-sky/860943281694558/](https://www.facebook.com/wxbradCLT/videos/starlink-satellites-the-string-of-lights-in-the-night-sky/860943281694558/)  
+   Link: <a href="https://www.facebook.com/wxbradCLT/videos/starlink-satellites-the-string-of-lights-in-the-night-sky/860943281694558/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wxbradCLT/videos/starlink-satellites-the-string-of-lights-in-the-night-sky/860943281694558/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ights in the night sky...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lTN](https://nuforc.org/subndx/?id=lTN)  
+   Link: <a href="https://nuforc.org/subndx/?id=lTN" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lTN</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State TNNUFORC Reports for State TN.; Open, 03/13/2025 05:57, Memphis; Open, 02/28/2025 21:30, Watertown; Open. 02...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: findstarlink.com  
-   Link: [https://findstarlink.com/](https://findstarlink.com/)  
+   Link: <a href="https://findstarlink.com/" target="_blank" rel="noopener noreferrer nofollow">https://findstarlink.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Find StarlinkStarlink Satellites Tracker - Check when you can see it!Calculate when you can see the Starlink satellites above your location...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: amsmeteors.org  
-   Link: [https://www.amsmeteors.org/members/imo_view/report/136091](https://www.amsmeteors.org/members/imo_view/report/136091)  
+   Link: <a href="https://www.amsmeteors.org/members/imo_view/report/136091" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/members/imo_view/report/136091</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball reportReports Report 229az (Event 229-2018); Memphis, TN · 35° 9&#x27; 25.02&#x27;&#x27; N (35.15695°) · 89° 53&#x27; 33.29&#x27;...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ares.jsc.nasa.gov  
-   Link: [https://ares.jsc.nasa.gov/meteorite-falls/events/](https://ares.jsc.nasa.gov/meteorite-falls/events/)  
+   Link: <a href="https://ares.jsc.nasa.gov/meteorite-falls/events/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/events/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Falls | Recent EventsThis meteorite fall, which was one of the largest recorded to date, was reported as very bright and produced numerou...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DD8A0SCN0H2/?hl=en](https://www.instagram.com/reel/DD8A0SCN0H2/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DD8A0SCN0H2/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DD8A0SCN0H2/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fox News on Instagram: &quot;FLYING FIREBALL: A mystery object...FLYING FIREBALL: A mystery object spotted in the night sky over Memphis, Ten...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Starlink/comments/16knevh/really_bizarre_straight_line_of_moving_lights/](https://www.reddit.com/r/Starlink/comments/16knevh/really_bizarre_straight_line_of_moving_lights/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditReally bizarre straight line of moving lights spotted above...They are starlink sats that are just launched. The dispenser on the...</p></details>
+   Link: <a href="https://www.reddit.com/r/Starlink/comments/16knevh/really_bizarre_straight_line_of_moving_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/16knevh/really_bizarre_straight_line_of_moving_lights/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Really bizarre straight line of moving lights spotted above...They are starlink sats that are just launched. The dispenser on the...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: actionnews5.com  
-   Link: [https://www.actionnews5.com/video/2024/03/27/ufo-sighting-likely-starlink-satellites/](https://www.actionnews5.com/video/2024/03/27/ufo-sighting-likely-starlink-satellites/)  
+   Link: <a href="https://www.actionnews5.com/video/2024/03/27/ufo-sighting-likely-starlink-satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.actionnews5.com/video/2024/03/27/ufo-sighting-likely-starlink-satellites/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting likely Starlink satellitesWe have gotten several calls and emails about a strange-looking line of dots in the night sky...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: actionnews5.com  
    Title: fireball possibly meteor spotted night sky  
-   Link: [https://www.actionnews5.com/2024/08/30/fireball-possibly-meteor-spotted-night-sky/](https://www.actionnews5.com/2024/08/30/fireball-possibly-meteor-spotted-night-sky/)  
+   Link: <a href="https://www.actionnews5.com/2024/08/30/fireball-possibly-meteor-spotted-night-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.actionnews5.com/2024/08/30/fireball-possibly-meteor-spotted-night-sky/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball, possibly a meteor, spotted in night sky30 Aug 2024 — A video showed a ball of light flashing by, leaving behind a trail. Other...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: gist.github.com  
-   Link: [https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406](https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gistnuforc_reports.csvTrailing line of UFO lights. ((Starlink satellites?)),Hyrem,UT,2020-02-26T22... A line of Oval/ Pill shaped UFO&#x27;s...</p></details>
+   Link: <a href="https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406" target="_blank" rel="noopener noreferrer nofollow">https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>nuforc_reports.csvTrailing line of UFO lights. ((Starlink satellites?)),Hyrem,UT,2020-02-26T22... A line of Oval/ Pill shaped UFO&#x27;s...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Strange lights in Night Sky? It was Space X Starlink, not UFOs  
-   Link: [https://www.youtube.com/watch?v=obmBcb0kQ3Y](https://www.youtube.com/watch?v=obmBcb0kQ3Y)  
+   Link: <a href="https://www.youtube.com/watch?v=obmBcb0kQ3Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=obmBcb0kQ3Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is that a UFO? No... StarLink creates train of satellites across night sky...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: 'Fireball' Seen Shooting Across Southeast Sky Is Confirmed Meteor  
-   Link: [https://www.youtube.com/watch?v=es2bU-bFqIQ](https://www.youtube.com/watch?v=es2bU-bFqIQ)  
+   Link: <a href="https://www.youtube.com/watch?v=es2bU-bFqIQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=es2bU-bFqIQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball lights up the sky in the midstate...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: actionnews5.com  
-   Link: [https://www.actionnews5.com/video/2024/07/03/mysterious-comet-like-object-lights-up-early-morning-sky-above-midlands/](https://www.actionnews5.com/video/2024/07/03/mysterious-comet-like-object-lights-up-early-morning-sky-above-midlands/)  
+   Link: <a href="https://www.actionnews5.com/video/2024/07/03/mysterious-comet-like-object-lights-up-early-morning-sky-above-midlands/" target="_blank" rel="noopener noreferrer nofollow">https://www.actionnews5.com/video/2024/07/03/mysterious-comet-like-object-lights-up-early-morning-sky-above-midlands/</a>  
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: UFO sightings in Middle TN grows  
-   Link: [https://www.youtube.com/watch?v=qYJrwWIVaBk](https://www.youtube.com/watch?v=qYJrwWIVaBk)  
+   Link: <a href="https://www.youtube.com/watch?v=qYJrwWIVaBk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qYJrwWIVaBk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights in Night Sky? It was SpaceX Starlink, not UFOs...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=OJSYBIkDuh8](https://www.youtube.com/watch?v=OJSYBIkDuh8)  
+   Link: <a href="https://www.youtube.com/watch?v=OJSYBIkDuh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OJSYBIkDuh8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WGNS Radio...</p></details>

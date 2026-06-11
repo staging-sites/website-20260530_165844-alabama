@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /oklahoma-86daa4-index/
 description: Focused pages that expand on Why Oklahoma Became a UFO State.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Oklahoma_86daa4
 parent_title: Why Oklahoma Became a UFO State

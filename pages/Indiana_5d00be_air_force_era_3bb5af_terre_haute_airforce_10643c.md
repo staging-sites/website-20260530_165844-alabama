@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /air-force-era/
 nav_short_title: Terre Haute
 title: Why the Terre Haute UFO Report Looked More Credible
-title_full: Why the Terre Haute UFO Report Looked More Credible | Air Force Era
+title_full: Why the Terre Haute UFO Report Looked More Credible
 display_title_short: Terre Haute
 display_title: Terre Haute
 heading_title: Why the Terre Haute UFO Report Looked More Credible
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:23:12'
-parent_title: How Indiana’s First UFO Reports Were Documented by the Air Force | Indiana UFOs
+parent_title: How Indiana’s First UFO Reports Were Documented by the Air Force
 parent_permalink: /air-force-era/
 parent_nav_short_title: Air Force Era
 parent_heading_title: How Indiana’s First UFO Reports Were Documented by the Air Force
@@ -250,16 +250,14 @@ image: /assets/images/Indiana_5d00be_air_force_era_3bb5af_terre_haute_airforce_1
 
 ## Introduction
 
-The Terre Haute UFO report of 9 October 1951 became one of [Indiana]({{ 'what-makes-indianas-ufo-history-unique/' | relative_url }})’s most discussed early “flying sauer” cases because it involved aviation personnel, rapid follow-up checks and a second sighting from the air only minutes later. Unlike many early reports based on a single brief glimpse, this case drew attention from the Civil Aeronautics Administration (CAA), private pilots and [Air Force]({{ 'air-force-era/' | relative_url }}) investigators trying to determine whether an unknown object had crossed controlled airspace during the tense early Cold War years. The case still does not prove anything extraordinary. What makes it important within Indiana UFO history is the way it reveals how early Air Force investigations actually worked: investigators compared witness timelines, mapped flight paths, checked for aircraft and weather explanations, and tried to decide whether a report should remain “unidentified” or be downgraded to a conventional explanation later on. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">He was flying from Greencastle, Indiana, to Paris, Illinois, when...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/htm/bluebooku51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">9, 1951, Terre Haute, Indiana. 1:42 p.m: Witness: CAA Chief Aircraft Communicator Roy Messmore at Hulman Municipal Airport.Read more...</span></span></span>
+The Terre Haute UFO report of 9 October 1951 became one of Indiana’s most discussed early “flying sauer” cases because it involved aviation personnel, rapid follow-up checks and a second sighting from the air only minutes later. Unlike many early reports based on a single brief glimpse, this case drew attention from the Civil Aeronautics Administration (CAA), private pilots and Air Force investigators trying to determine whether an unknown object had crossed controlled airspace during the tense early Cold War years. The case still does not prove anything extraordinary. What makes it important within Indiana UFO history is the way it reveals how early Air Force investigations actually worked: investigators compared witness timelines, mapped flight paths, checked for aircraft and weather explanations, and tried to decide whether a report should remain “unidentified” or be downgraded to a conventional explanation later on. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">He was flying from Greencastle, Indiana, to Paris, Illinois, when...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/htm/bluebooku51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">9, 1951, Terre Haute, Indiana. 1:42 p.m: Witness: CAA Chief Aircraft Communicator Roy Messmore at Hulman Municipal Airport.Read more...</span></span></span>
 
-
-<img src="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_terre_haute_airforce_10643c-Illustration-1-light.svg" | relative_url }}" alt="Terre Haute illustration 1" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_terre_haute_airforce_10643c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_terre_haute_airforce_10643c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_terre_haute_airforce_10643c-Illustration-1-dark.svg" | relative_url }}" alt="Terre Haute illustration 1" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_terre_haute_airforce_10643c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_terre_haute_airforce_10643c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the Terre Haute UFO Report Looked More Credible
 
 The incident began at Hulman Municipal Airport near Terre Haute at about 1:42 pm on 9 October 1951. According to Air Force and later Blue Book summaries, CAA chief aircraft communicator Roy Messmore saw a round silver object pass directly overhead at high speed. He estimated that it crossed from overhead to the horizon in roughly fifteen seconds. The object reportedly produced no sound and left no visible vapour trail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/htm/bluebooku51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">9, 1951, Terre Haute, Indiana. 1:42 p.m: Witness: CAA Chief Aircraft Communicator Roy Messmore at Hulman Municipal Airport.Read more...</span></span></span>
 
 Several features immediately made the report more significant than a routine “light in the sky” claim:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -274,9 +272,6 @@ The second report became the key reason the case survived in UFO literature. A p
 
 For Air Force investigators, this mattered because the two sightings potentially described the same object moving across a broad section of Indiana and Illinois airspace. Early UFO investigators often struggled with isolated reports that could not be cross-checked. Terre Haute appeared different because timing, direction and geography could at least be compared against one another.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1cO5K1np2Ig" title="Project Blue Book Exposed (2020) [Documentary]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer">Project Blue Book Exposed (2020) [Documentary]</a></p><p class="youtube-embed-meta">Channel: CiNENET - Full movies in English &middot; Views: 16.8K &middot; Uploaded: January 2025 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1cO5K1np2Ig">Open on YouTube</a></p></div></div></div>
-
 ## The Airport Witness and Pilot Radio Report
 
 The Terre Haute case is often remembered as a single airport sighting, but the aviation radio element was probably more important to investigators than the original observation itself.
@@ -284,7 +279,6 @@ The Terre Haute case is often remembered as a single airport sighting, but the a
 Edward J. Ruppelt, later head of Project Blue Book, described how investigators plotted the witness locations and flight paths on aeronautical charts to see whether the reports aligned geometrically. According to Ruppelt’s account, the airport witness saw the object move towards the north-western horizon while the pilot, flying almost due west, encountered a similar object east of Paris, Illinois. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">He was flying from Greencastle, Indiana, to Paris, Illinois, when...Read more...</span></span></span>
 
 That mapping exercise shows how Air Force investigations differed from later popular mythology. Investigators were not simply collecting sensational stories. They were attempting to reconstruct airspace events in practical terms:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -299,7 +293,6 @@ That mapping exercise shows how Air Force investigations differed from later pop
 The pilot’s reaction also added weight to the case. He reportedly banked sharply in an attempt to intercept the object after first believing it was stationary relative to his aircraft. Only then did the object appear to accelerate away. Investigators paid close attention to pilot behaviour because trained aviators were assumed to have more experience judging relative motion, altitude and speed than ordinary ground observers. That did not make pilots infallible, but it did mean their reports were often prioritised for follow-up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">He was flying from Greencastle, Indiana, to Paris, Illinois, when...Read more...</span></span></span>
 
 The case therefore sits in an interesting middle ground. It was stronger than most civilian reports because it involved aviation witnesses and coordinated timing. Yet it still lacked the harder forms of evidence investigators wanted most: radar confirmation, photographs, physical traces or multiple independent ground observers spread across a wider area.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/diPXow8zgc8" title="How scientists use math to help explain UFO videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer">How scientists use math to help explain UFO videos</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 11.7K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=diPXow8zgc8">Open on YouTube</a></p></div></div></div>
 
@@ -323,8 +316,7 @@ This mattered because many UFO cases collapsed once investigators realised witne
 
 Investigators checked whether conventional aircraft could explain the report. Airports and aviation communications were useful because flight traffic could often be verified. In 1951, however, records were less complete and radar coverage was more limited than later decades.
 
-
-<img src="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_terre_haute_airforce_10643c-Illustration-2-light.svg" | relative_url }}" alt="Terre Haute illustration 2" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_terre_haute_airforce_10643c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_terre_haute_airforce_10643c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_terre_haute_airforce_10643c-Illustration-2-dark.svg" | relative_url }}" alt="Terre Haute illustration 2" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_terre_haute_airforce_10643c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_terre_haute_airforce_10643c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Weather and atmospheric checks
 
 Project Blue Book routinely considered balloons, reflections, temperature inversions and optical distortions. Silver or metallic descriptions frequently triggered checks for weather balloons or sunlight reflections from aircraft. In the Terre Haute case, investigators apparently found no quick conventional match strong enough to close the file immediately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/htm/bluebooku51.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">9, 1951, Terre Haute, Indiana. 1:42 p.m: Witness: CAA Chief Aircraft Communicator Roy Messmore at Hulman Municipal Airport.Read more...</span></span></span>
@@ -345,7 +337,6 @@ This wider atmosphere explains why even strange-looking daylight objects near av
 
 Indiana occupied an important geographical position in Midwestern aviation routes, and Terre Haute itself sat near air corridors linking several industrial and military regions. Investigators therefore had practical reasons to check whether unusual aerial reports represented:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Experimental American aircraft
@@ -360,15 +351,12 @@ That context helps explain why a local airport observation received rapid Air Fo
 
 The Terre Haute case also arrived before later public cynicism about Blue Book hardened. In the early 1950s, some investigators genuinely believed a minority of reports might involve unknown technology. Ruppelt himself later wrote that certain cases survived repeated attempts at explanation and remained difficult to classify cleanly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">He was flying from Greencastle, Indiana, to Paris, Illinois, when...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jjinS2lZAsY" title="Project Blue Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer">Project Blue Book</a></p><p class="youtube-embed-meta">Channel: Daily Dose Documentary &middot; Views: 391 &middot; Uploaded: October 2021 &middot; Length: 3 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jjinS2lZAsY">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_terre_haute_airforce_10643c-Illustration-3-dark.svg" | relative_url }}" alt="Terre Haute illustration 3" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_terre_haute_airforce_10643c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_terre_haute_airforce_10643c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Weakens the Case
 
 Despite its reputation, the Terre Haute incident still suffers from the same limitations that affect many early UFO reports.
 
 The most important problems are straightforward:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -386,8 +374,8 @@ There is also the issue of retrospective storytelling. Later UFO books and magaz
 
 Even so, sceptical explanations are not entirely satisfying either. The combination of an airport communications specialist and a pilot report within minutes of one another is more substantial than a single anonymous sighting. That is why the Terre Haute case remained part of UFO discussion long after countless weaker reports disappeared from memory.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jjinS2lZAsY" title="Project Blue Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer">Project Blue Book</a></p><p class="youtube-embed-meta">Channel: Daily Dose Documentary &middot; Views: 391 &middot; Uploaded: October 2021 &middot; Length: 3 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jjinS2lZAsY">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_terre_haute_airforce_10643c-Illustration-3-light.svg" | relative_url }}" alt="Terre Haute illustration 3" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_terre_haute_airforce_10643c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_terre_haute_airforce_10643c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Terre Haute Case Still Matters in Indiana UFO History
 
 Within Indiana UFO history, Terre Haute stands out less because of what was allegedly seen and more because of how the report was handled.
@@ -482,7 +470,7 @@ For Indiana specifically, it remains one of the clearest examples of an early av
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -492,111 +480,36 @@ For Indiana specifically, it remains one of the clearest examples of an early av
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-terre-haute-ufo-report-looked-more-credible-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-terre-haute-ufo-report-looked-more-credible-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane"><img src="https://i.ebayimg.com/images/g/~UYAAeSw9HVoXoJJ/s-l225.jpg" alt="Listing image for EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-terre-haute-ufo-report-looked-more-credible-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-terre-haute-ufo-report-looked-more-credible-airplane-model" target="_blank" rel="sponsored noopener noreferrer">EasyJet Airbus A320Neo Snap-fit Model Plane 1/200 Model Plane</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-terre-haute-ufo-report-looked-more-credible-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-terre-haute-ufo-report-looked-more-credible-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-terre-haute-ufo-report-looked-more-credible-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-terre-haute-ufo-report-looked-more-credible-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -604,15 +517,15 @@ For Indiana specifically, it remains one of the clearest examples of an early av
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-terre-haute-ufo-report-looked-more-credible-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-terre-haute-ufo-report-looked-more-credible-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK"><img src="https://i.ebayimg.com/images/g/6CEAAeSwN2RpHunt/s-l225.jpg" alt="Listing image for 16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-terre-haute-ufo-report-looked-more-credible-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-terre-haute-ufo-report-looked-more-credible-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16cm A380 Airbus Emirates Metal Aircraft Plane Model Gift UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-terre-haute-ufo-report-looked-more-credible-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-terre-haute-ufo-report-looked-more-credible-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-terre-haute-ufo-report-looked-more-credible-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-terre-haute-ufo-report-looked-more-credible-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -620,15 +533,15 @@ For Indiana specifically, it remains one of the clearest examples of an early av
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-terre-haute-ufo-report-looked-more-credible-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-terre-haute-ufo-report-looked-more-credible-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments"><img src="https://i.ebayimg.com/images/g/chUAAeSwyX9peIiz/s-l225.jpg" alt="Listing image for 16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-terre-haute-ufo-report-looked-more-credible-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-terre-haute-ufo-report-looked-more-credible-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16cm Virgin Atlantic B747 Airplane Model 1:400 Alloy Simulation Plane Ornaments</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-terre-haute-ufo-report-looked-more-credible-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-terre-haute-ufo-report-looked-more-credible-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-terre-haute-ufo-report-looked-more-credible-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-terre-haute-ufo-report-looked-more-credible-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -636,15 +549,15 @@ For Indiana specifically, it remains one of the clearest examples of an early av
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-terre-haute-ufo-report-looked-more-credible-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-terre-haute-ufo-report-looked-more-credible-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16Cm Lufthansa Airbus A340 Plane Model Airplane Model Airbus Aircraft Model 1:40"><img src="https://i.ebayimg.com/images/g/u5YAAeSwo1dpEc~v/s-l225.jpg" alt="Listing image for 16Cm Lufthansa Airbus A340 Plane Model Airplane Model Airbus Aircraft Model 1:40" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-terre-haute-ufo-report-looked-more-credible-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-terre-haute-ufo-report-looked-more-credible-airplane-model" target="_blank" rel="sponsored noopener noreferrer">16Cm Lufthansa Airbus A340 Plane Model Airplane Model Airbus Aircraft Model 1:40</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-terre-haute-ufo-report-looked-more-credible-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-terre-haute-ufo-report-looked-more-credible-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airplane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: airplane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-terre-haute-ufo-report-looked-more-credible-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-terre-haute-ufo-report-looked-more-credible-airplane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -652,7 +565,7 @@ For Indiana specifically, it remains one of the clearest examples of an early av
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=terre-haute-why-the-terre-haute-ufo-report-looked-more-credible-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-terre-haute-ufo-report-looked-more-credible-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="why-the-terre-haute-ufo-report-looked-more-credible-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -729,17 +642,31 @@ For Indiana specifically, it remains one of the clearest examples of an early av
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -752,42 +679,73 @@ For Indiana specifically, it remains one of the clearest examples of an early av
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -802,12 +760,17 @@ For Indiana specifically, it remains one of the clearest examples of an early av
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -817,129 +780,129 @@ For Indiana specifically, it remains one of the clearest examples of an early av
 
 1. <a id="endnote-1"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>He was flying from Greencastle, Indiana, to Paris, Illinois, when...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 3. <a id="endnote-3"></a>
    Source: esd.whs.mil  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDProject Blue BookThe objectives of Project Blue Book are two-fold: first, to determine whether UFOs pose a threat to the security...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: military.com  
    Title: first air force pilot die chasing ufo was actually chasing secret balloon  
-   Link: [https://www.military.com/history/first-air-force-pilot-die-chasing-ufo-was-actually-chasing-secret-balloon.html](https://www.military.com/history/first-air-force-pilot-die-chasing-ufo-was-actually-chasing-secret-balloon.html)  
+   Link: <a href="https://www.military.com/history/first-air-force-pilot-die-chasing-ufo-was-actually-chasing-secret-balloon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/history/first-air-force-pilot-die-chasing-ufo-was-actually-chasing-secret-balloon.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1960, he died of a sudden, unexpected...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: archive.org  
    Title: Full text of "The Hynek UFO Report"The Blue Book  
-   Link: [https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt](https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt)  
+   Link: <a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>summary reads: The witness was working in a barn (a few... Hardin&#x27;s term as Director of Project Blue Book, is outlined in a letter writt...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: Project Blue Book: America's Obsession with UFOs  
-   Link: [https://www.youtube.com/watch?v=Xu4oTBBI5UE](https://www.youtube.com/watch?v=Xu4oTBBI5UE)  
+   Link: <a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Project Blue Book  
-   Link: [https://www.youtube.com/watch?v=jjinS2lZAsY](https://www.youtube.com/watch?v=jjinS2lZAsY)  
+   Link: <a href="https://www.youtube.com/watch?v=jjinS2lZAsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jjinS2lZAsY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exposed (2020) [Documentary]...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://www.ufologie.patrickgross.org/htm/bluebooku51.htm](https://www.ufologie.patrickgross.org/htm/bluebooku51.htm)  
+   Link: <a href="https://www.ufologie.patrickgross.org/htm/bluebooku51.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/bluebooku51.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>9, 1951, Terre Haute, Indiana. 1:42 p.m: Witness: CAA Chief Aircraft Communicator Roy Messmore at Hulman Municipal Airport.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/bb/grudgesr02-21.htm](https://ufologie.patrickgross.org/bb/grudgesr02-21.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/bb/grudgesr02-21.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/bb/grudgesr02-21.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2, 1951ufo - UFOS at close sight: Official, US Air Force Project Grudge Status Report No... TERRE HAUTE, INDIANA - 9 October 1951. On 9...</p></details>
    Published: October 1951  
 
 10. <a id="endnote-10"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/rufo/rufo11.htm](https://sacred-texts.com/ufo/rufo/rufo11.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo11.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo11.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A matter of minutes after the sighting a pilot radioed Terre Haute that he had seen a UFO. He was flying from Greencastle, Indiana, to Pa...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: geekchocolate.co.uk  
    Title: project blue book  
-   Link: [https://geekchocolate.co.uk/project-blue-book/](https://geekchocolate.co.uk/project-blue-book/)  
+   Link: <a href="https://geekchocolate.co.uk/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://geekchocolate.co.uk/project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Jan 2019 — “This series is inspired by Dr. J. Allen Hynek&#x27;s investigations for the U.S. Air Force into the existence of UFOs. The cases...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: science.howstuffworks.com  
    Title: ufo government2  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm](https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-government2.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book - Aliens &amp; UFOsWant to learn more about UFOs and aliens? Check out these articles: How UFOs Work · The Roswell UFO Crash · Hist...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation establishi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/511009parisIL_dir.htm](https://www.nicap.org/511009parisIL_dir.htm)  
+   Link: <a href="https://www.nicap.org/511009parisIL_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/511009parisIL_dir.htm</a>  
 
 17. <a id="endnote-17"></a>
    Source: uapdiscovery.discourse.group  
-   Link: [https://uapdiscovery.discourse.group/t/october-9-1951-nr-terre-haute-in-pilot-radios-terre-haute-observes-flattened-orange-chop-clearance-list/369](https://uapdiscovery.discourse.group/t/october-9-1951-nr-terre-haute-in-pilot-radios-terre-haute-observes-flattened-orange-chop-clearance-list/369)  
+   Link: <a href="https://uapdiscovery.discourse.group/t/october-9-1951-nr-terre-haute-in-pilot-radios-terre-haute-observes-flattened-orange-chop-clearance-list/369" target="_blank" rel="noopener noreferrer nofollow">https://uapdiscovery.discourse.group/t/october-9-1951-nr-terre-haute-in-pilot-radios-terre-haute-observes-flattened-orange-chop-clearance-list/369</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Terre Haute, IN 1:42 p.m. A fast-moving, silvery UFO shaped like a “flattened tennis ball” is sighted by a Civil...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: indianapolismonthly.com  
    Title: the 10 weirdest ufo cases in indiana history  
-   Link: [https://www.indianapolismonthly.com/arts-and-culture/circle-city/the-10-weirdest-ufo-cases-in-indiana-history/](https://www.indianapolismonthly.com/arts-and-culture/circle-city/the-10-weirdest-ufo-cases-in-indiana-history/)  
+   Link: <a href="https://www.indianapolismonthly.com/arts-and-culture/circle-city/the-10-weirdest-ufo-cases-in-indiana-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.indianapolismonthly.com/arts-and-culture/circle-city/the-10-weirdest-ufo-cases-in-indiana-history/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Terre Haute (1951). Just four years after the oft-disputed UFO crash near Roswell, New Mexico, a Teletype message arrived at Wright-Patte...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: osi.af.mil  
    Title: project blue book part 1 ufo reports  
-   Link: [https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/](https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/)  
+   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book Part 1 (UFO Reports)6 Aug 2020 — The reports revealed that OSI agents documented and investigated UFO sightings from 1948 until...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: iheart.com  
    Title: How Project Blue Book Worked, Pt II  
-   Link: [https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/](https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/)  
+   Link: <a href="https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stuff You Should KnowA rash of UFO sightings kicks off a new spike in America&#x27;s UFO fever and new headaches for the Air Force, which cont...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SBSAustralia/posts/new-sci-fi-drama-project-blue-book-tells-the-true-story-behind-ufo-sightings-bas/10157156027723686/](https://www.facebook.com/SBSAustralia/posts/new-sci-fi-drama-project-blue-book-tells-the-true-story-behind-ufo-sightings-bas/10157156027723686/)  
+   Link: <a href="https://www.facebook.com/SBSAustralia/posts/new-sci-fi-drama-project-blue-book-tells-the-true-story-behind-ufo-sightings-bas/10157156027723686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SBSAustralia/posts/new-sci-fi-drama-project-blue-book-tells-the-true-story-behind-ufo-sightings-bas/10157156027723686/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ased on declassified case files from the US Air Force...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
    Title: Terre Haute makes the top ten list  
-   Link: [https://www.facebook.com/WTHITV/posts/terre-haute-makes-the-top-ten-list-have-you-ever-seen-a-ufo/1377670557020514/](https://www.facebook.com/WTHITV/posts/terre-haute-makes-the-top-ten-list-have-you-ever-seen-a-ufo/1377670557020514/)  
+   Link: <a href="https://www.facebook.com/WTHITV/posts/terre-haute-makes-the-top-ten-list-have-you-ever-seen-a-ufo/1377670557020514/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WTHITV/posts/terre-haute-makes-the-top-ten-list-have-you-ever-seen-a-ufo/1377670557020514/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Have you ever seen a...In 1948, a pilot&#x27;s sighting over Albany was declared unidentified by Project Blue Book. More pilot sightings occu...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR10 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf](https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United. States Air Force inve...</p></details>

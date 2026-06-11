@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-nevada-became-ufo-country/
 nav_short_title: Las Vegas
 title: Why Las Vegas UFO Stories Are Hard To Read
-title_full: Why Las Vegas UFO Stories Are Hard To Read | Nevada UFOs
+title_full: Why Las Vegas UFO Stories Are Hard To Read
 display_title_short: Las Vegas
 display_title: Las Vegas
 heading_title: Why Las Vegas UFO Stories Are Hard To Read
@@ -270,7 +270,6 @@ image: /assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453-overview-social.
 
 Las Vegas is a difficult place to read as a UFO hotspot because it combines heavy air traffic, military airspace, brilliant urban lighting, tourism-driven spectacle, drones, meteors, social media amplification and genuine witness surprise. The result is a city where a strange light can be reported sincerely and still turn out to be ordinary, while a weak video can become a national story before investigators have enough data to test it. The best way to understand Las Vegas sightings is not to ask whether the city “proves” anything on its own, but to ask what each report contains: timing, direction, duration, independent witnesses, radar or flight data, and whether the object behaved in a way that rules out aircraft, flares, drones, satellites or meteors. That approach matters for [Nevada]({{ 'why-nevada-became-ufo-country/' | relative_url }}) because Las Vegas sits at the noisy public edge of the state’s wider UFO culture: close to Nellis Air Force Base, busy civilian airports and the mythology of [Area 51]({{ 'area-51/' | relative_url }}), but also full of very normal sky clutter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/LASAirport/posts/nearly-55-million-passengers-traveled-through-harry-reid-international-airport-i/890428340411234/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Harry Reid International Airport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Harry Reid International Airport</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/flight_deck/vgt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453-overview.webp" | relative_url }}" alt="Overview image for Las Vegas" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the Las Vegas sky produces so many false positives
 
@@ -282,14 +281,12 @@ The city’s lighting makes the problem worse. Las Vegas is built to glow: casin
 
 Drones add another modern layer. The FAA’s UAS Facility Maps show the maximum altitudes around airports where drone operations may be authorised, but the FAA stresses that these maps do not themselves authorise flight; operators still need approval to operate in controlled airspace. The City of Las Vegas similarly tells drone operators that LAANC authorisation is needed in controlled airspace. In practical terms, this creates two problems for UFO witnesses: lawful drones can still look strange at night, and unlawful or poorly understood drone activity may not be immediately recognised by nearby observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/flight_deck/vgt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453-Illustration-1-light.svg" | relative_url }}" alt="Las Vegas illustration 1" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453-Illustration-1-dark.svg" | relative_url }}" alt="Las Vegas illustration 1" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Urban lights and airport traffic
 
 The most common Las Vegas UFO pattern is not a close encounter. It is a set of lights: hovering, drifting, forming a row, flaring, vanishing, or appearing to move silently over the Strip or the valley. These reports are compelling to witnesses because they happen in a familiar skyline. A person may know the usual helicopter routes or airport approach paths and still see something that seems out of place. But “out of place” is not the same as unexplained.
 
 Several ordinary causes can produce the same visual impression:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -305,7 +302,6 @@ Several ordinary causes can produce the same visual impression:
 Local reporting on mysterious lights over the Las Vegas Valley in 2023 showed how quickly these categories collide. A KLAS-linked report, later summarised in syndication and discussion, noted that bright glows in the area are often traced to parachute flares or aviation training, while also reporting that Nellis and Harry Reid officials did not identify a specific activity that explained that particular line of lights. That is a useful middle ground: official non-identification does not prove exotic origin, but it does show why some local cases remain open in public memory when no clear source steps forward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/133uail/cbs_8_news_now_las_vegas_mysterious_lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">CBS 8 News NOW Las Vegas: &#x27;Mysterious Lights&#x27; Hovering</span><span class="citation-popover-snippet">CBS 8 News NOW Las Vegas: &#x27;Mysterious Lights&#x27; Hovering</span></span></span>
 
 The better question is therefore not “could this be an aircraft?” but “what evidence would exclude ordinary aviation?” A strong Las Vegas sighting would need more than a phone clip of lights. It would need reliable time stamps, location, direction of view, multiple separated witnesses, comparison with flight-tracking data, weather and cloud conditions, and ideally footage from more than one angle. Without those, the city’s normal sky activity supplies too many plausible alternatives.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ROLYGcj5bNM" title="&#x27;100% they&#x27;re not human,&#x27; Witness details alleged alien encounter in Las Vegas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ROLYGcj5bNM" target="_blank" rel="noopener noreferrer">&#x27;100% they&#x27;re not human,&#x27; Witness details alleged alien encounter in Las Vegas</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 11.5M &middot; Uploaded: June 2023 &middot; Length: 4 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ROLYGcj5bNM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ROLYGcj5bNM">Open on YouTube</a></p></div></div></div>
 
@@ -325,8 +321,7 @@ Later media attention made the story harder, not easier, to evaluate. In 2024, s
 
 The sober reading is therefore split. The sky event is plausibly explained as a meteor fireball. The [backyard claim]({{ 'backyard-claim/' | relative_url }}) remains an unverified witness report attached to that sky event. It is significant in Nevada UFO history because it shows how quickly Las Vegas can turn a real astronomical event into a broader alien story when police audio, body-camera footage and social media all arrive at once.
 
-
-<img src="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453-Illustration-2-light.svg" | relative_url }}" alt="Las Vegas illustration 2" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453-Illustration-2-dark.svg" | relative_url }}" alt="Las Vegas illustration 2" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How media attention changes a case
 
 Las Vegas is a media amplifier. A sighting there already has the ingredients editors like: a globally recognised city, [night lights]({{ 'night-lights/' | relative_url }}), police involvement, proximity to military lore and the word “alien”. Once a report enters that machine, the public may remember the most dramatic version rather than the most supported one.
@@ -338,7 +333,6 @@ This is a common UFO problem, but Las Vegas intensifies it. A single clip can be
 Modern official UAP work points in the opposite direction: better data, not louder clips. NASA’s UAP independent study page says the agency’s work was focused on what data are available, how future data should be collected and how scientific understanding could be improved. AARO, the US government office responsible for UAP analysis, describes its work as a rigorous, data-driven effort and lists common reported causes such as airborne clutter, balloons, birds, drones and other ordinary objects. These frameworks do not dismiss witnesses; they explain why witness accounts need supporting measurements before extraordinary conclusions can be drawn. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span> 2aaro.mil
 
 For readers, the practical lesson is to separate “coverage” from “corroboration”. A sighting can be widely reported and still be weakly evidenced. It can involve police and still not be solved. It can have a real meteor at the start and still have an unsupported alien interpretation attached to it. In Las Vegas, where the setting already feels cinematic, that separation is essential.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ULsOu3GXX5w" title="Autopsy of an Alien Hoax: Las Vegas UFO Sighting Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ULsOu3GXX5w" target="_blank" rel="noopener noreferrer">Autopsy of an Alien Hoax: Las Vegas UFO Sighting Explained</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 119.2K &middot; Uploaded: June 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ULsOu3GXX5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ULsOu3GXX5w">Open on YouTube</a></p></div></div></div>
 
@@ -352,8 +346,7 @@ The key strength is independent convergence. If several witnesses in different p
 
 The 2023 fireball side of the backyard case is a good example of useful convergence: multiple regional reports at similar times, including Las Vegas-area observations, make a meteor explanation credible. The backyard creature side is the opposite: vivid, memorable and sincere-sounding, but not independently verified by physical evidence or official findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fireball.amsmeteors.org/members/imo_view/browse_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fireball.amsmeteors.org">[fireball.amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fireball.amsmeteors.org</span><span class="citation-popover-title">browse reports</span><span class="citation-popover-snippet">browse reports</span></span></span>
 
-
-<img src="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453-Illustration-3-light.svg" | relative_url }}" alt="Las Vegas illustration 3" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453-Illustration-3-dark.svg" | relative_url }}" alt="Las Vegas illustration 3" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_las_vegas_ufo_sighti_15a453-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Las Vegas still matters in Nevada UFO history
 
 Las Vegas matters because it is where Nevada’s UFO reputation meets ordinary urban life. Area 51 and the Nevada Test and Training Range shape the state’s mythology, but Las Vegas produces the videos, 911 calls, local news segments and social-media storms that most people actually see. It is the public-facing side of a state where military secrecy, aerospace activity and popular alien culture have long overlapped.
@@ -362,9 +355,7 @@ That does not make Las Vegas the best place to find a clean unknown. In some way
 
 The fairest conclusion is that Las Vegas sightings deserve neither automatic ridicule nor automatic belief. Many are probably aircraft, drones, flares, meteors, reflections or misjudged distances. A smaller number may remain unresolved because the data are too thin, not because they clearly show exotic craft. The 2023 backyard story is the modern template: a real bright sky event, an extraordinary claim, an inconclusive investigation and a media afterlife much larger than the evidence. That is why Las Vegas UFO stories are hard to read — and why careful separation of witness claim, recorded fact and later interpretation matters more here than almost anywhere else in Nevada.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HxaToM9CTi4" title="Las Vegas &#x27;giant creature&#x27; possible &#x27;alien&#x27; video is original: Evidence expert | Banfield" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HxaToM9CTi4" target="_blank" rel="noopener noreferrer">Las Vegas &#x27;giant creature&#x27; possible &#x27;alien&#x27; video is original: Evidence expert | Banfield</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 2.5M &middot; Uploaded: April 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HxaToM9CTi4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HxaToM9CTi4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -452,7 +443,7 @@ The fairest conclusion is that Las Vegas sightings deserve neither automatic rid
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -462,111 +453,36 @@ The fairest conclusion is that Las Vegas sightings deserve neither automatic rid
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -574,15 +490,15 @@ The fairest conclusion is that Las Vegas sightings deserve neither automatic rid
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S"><img src="https://i.ebayimg.com/images/g/yRcAAOSwWhdmw231/s-l225.jpg" alt="Listing image for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -590,15 +506,15 @@ The fairest conclusion is that Las Vegas sightings deserve neither automatic rid
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth"><img src="https://i.ebayimg.com/images/g/VF0AAeSwVpBpJZso/s-l225.jpg" alt="Listing image for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -606,15 +522,15 @@ The fairest conclusion is that Las Vegas sightings deserve neither automatic rid
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4"><img src="https://i.ebayimg.com/images/g/Ab0AAeSwSx9p8OkA/s-l225.jpg" alt="Listing image for ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -622,7 +538,7 @@ The fairest conclusion is that Las Vegas sightings deserve neither automatic rid
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=las-vegas-why-las-vegas-ufo-stories-are-hard-to-read-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-las-vegas-ufo-stories-are-hard-to-read-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-albu" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -699,17 +615,31 @@ The fairest conclusion is that Las Vegas sightings deserve neither automatic rid
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -722,42 +652,73 @@ The fairest conclusion is that Las Vegas sightings deserve neither automatic rid
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -772,12 +733,17 @@ The fairest conclusion is that Las Vegas sightings deserve neither automatic rid
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -787,222 +753,222 @@ The fairest conclusion is that Las Vegas sightings deserve neither automatic rid
 
 1. <a id="endnote-1"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/flight_deck/vgt](https://www.faa.gov/flight_deck/vgt)  
+   Link: <a href="https://www.faa.gov/flight_deck/vgt" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/flight_deck/vgt</a>  
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 3. <a id="endnote-3"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/uas/commercial_operators/uas_facility_maps](https://www.faa.gov/uas/commercial_operators/uas_facility_maps)  
+   Link: <a href="https://www.faa.gov/uas/commercial_operators/uas_facility_maps" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/commercial_operators/uas_facility_maps</a>  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: CBS 8 News NOW Las Vegas: 'Mysterious Lights' Hovering  
-   Link: [https://www.reddit.com/r/UFOs/comments/133uail/cbs_8_news_now_las_vegas_mysterious_lights/](https://www.reddit.com/r/UFOs/comments/133uail/cbs_8_news_now_las_vegas_mysterious_lights/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/133uail/cbs_8_news_now_las_vegas_mysterious_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/133uail/cbs_8_news_now_las_vegas_mysterious_lights/</a>  
 
 5. <a id="endnote-5"></a>
    Source: fireball.amsmeteors.org  
-   Link: [https://fireball.amsmeteors.org/imo_view/event/2023/2408](https://fireball.amsmeteors.org/imo_view/event/2023/2408)  
+   Link: <a href="https://fireball.amsmeteors.org/imo_view/event/2023/2408" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/imo_view/event/2023/2408</a>  
 
 6. <a id="endnote-6"></a>
    Source: amsmeteors.org  
-   Link: [https://www.amsmeteors.org/fireballs/fireball-report/](https://www.amsmeteors.org/fireballs/fireball-report/)  
+   Link: <a href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-report/</a>  
 
 7. <a id="endnote-7"></a>
    Source: abc7chicago.com  
    Title: ABC7 Chicago Las Vegas aliens? Police called to home after 911 caller  
-   Link: [https://abc7chicago.com/post/las-vegas-aliens-ufo-alien-news/13359881/](https://abc7chicago.com/post/las-vegas-aliens-ufo-alien-news/13359881/)  
+   Link: <a href="https://abc7chicago.com/post/las-vegas-aliens-ufo-alien-news/13359881/" target="_blank" rel="noopener noreferrer nofollow">https://abc7chicago.com/post/las-vegas-aliens-ufo-alien-news/13359881/</a>  
 
 8. <a id="endnote-8"></a>
    Source: abc30.com  
    Title: las vegas aliens ufo alien news  
-   Link: [https://abc30.com/post/las-vegas-aliens-ufo-alien-news/13359881/](https://abc30.com/post/las-vegas-aliens-ufo-alien-news/13359881/)  
+   Link: <a href="https://abc30.com/post/las-vegas-aliens-ufo-alien-news/13359881/" target="_blank" rel="noopener noreferrer nofollow">https://abc30.com/post/las-vegas-aliens-ufo-alien-news/13359881/</a>  
 
 9. <a id="endnote-9"></a>
    Source: fox32chicago.com  
    Title: FOX 32 Chicago Las Vegas alien video shows at least 2 'beings' using '  
-   Link: [https://www.fox32chicago.com/news/las-vegas-alien-video-beings-cloaking-device](https://www.fox32chicago.com/news/las-vegas-alien-video-beings-cloaking-device)  
+   Link: <a href="https://www.fox32chicago.com/news/las-vegas-alien-video-beings-cloaking-device" target="_blank" rel="noopener noreferrer nofollow">https://www.fox32chicago.com/news/las-vegas-alien-video-beings-cloaking-device</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf](https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1gogovn/las_vegas_alien_video/](https://www.reddit.com/r/aliens/comments/1gogovn/las_vegas_alien_video/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1gogovn/las_vegas_alien_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1gogovn/las_vegas_alien_video/</a>  
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1bpam9n/what_ever_happened_with_the_family_who_reported/](https://www.reddit.com/r/aliens/comments/1bpam9n/what_ever_happened_with_the_family_who_reported/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1bpam9n/what_ever_happened_with_the_family_who_reported/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1bpam9n/what_ever_happened_with_the_family_who_reported/</a>  
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
    Title: there were 21 witnesses of a fireball on may 1  
-   Link: [https://www.reddit.com/r/UFOs/comments/144ibcw/there_were_21_witnesses_of_a_fireball_on_may_1/](https://www.reddit.com/r/UFOs/comments/144ibcw/there_were_21_witnesses_of_a_fireball_on_may_1/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/144ibcw/there_were_21_witnesses_of_a_fireball_on_may_1/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/144ibcw/there_were_21_witnesses_of_a_fireball_on_may_1/</a>  
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1dzbmm1/strange_lights_in_vegas/](https://www.reddit.com/r/ufo/comments/1dzbmm1/strange_lights_in_vegas/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1dzbmm1/strange_lights_in_vegas/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1dzbmm1/strange_lights_in_vegas/</a>  
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/drones/comments/1k5n7r6/approval_for_flying_a_drone_on_las_vegas_strip/](https://www.reddit.com/r/drones/comments/1k5n7r6/approval_for_flying_a_drone_on_las_vegas_strip/)  
+   Link: <a href="https://www.reddit.com/r/drones/comments/1k5n7r6/approval_for_flying_a_drone_on_las_vegas_strip/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/drones/comments/1k5n7r6/approval_for_flying_a_drone_on_las_vegas_strip/</a>  
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/911dispatchers/comments/144rwev/911_call_and_body_cam_footage_las_vegas_family/](https://www.reddit.com/r/911dispatchers/comments/144rwev/911_call_and_body_cam_footage_las_vegas_family/)  
+   Link: <a href="https://www.reddit.com/r/911dispatchers/comments/144rwev/911_call_and_body_cam_footage_las_vegas_family/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/911dispatchers/comments/144rwev/911_call_and_body_cam_footage_las_vegas_family/</a>  
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
    Title: how does everyone feel about the 2023 vegas  
-   Link: [https://www.reddit.com/r/aliens/comments/1oezlvw/how_does_everyone_feel_about_the_2023_vegas/](https://www.reddit.com/r/aliens/comments/1oezlvw/how_does_everyone_feel_about_the_2023_vegas/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1oezlvw/how_does_everyone_feel_about_the_2023_vegas/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1oezlvw/how_does_everyone_feel_about_the_2023_vegas/</a>  
 
 21. <a id="endnote-21"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: amsmeteors.org  
    Title: meteor shower calendar  
-   Link: [https://www.amsmeteors.org/meteor-showers/meteor-shower-calendar/](https://www.amsmeteors.org/meteor-showers/meteor-shower-calendar/)  
+   Link: <a href="https://www.amsmeteors.org/meteor-showers/meteor-shower-calendar/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/meteor-showers/meteor-shower-calendar/</a>  
 
 23. <a id="endnote-23"></a>
    Source: fireball.amsmeteors.org  
    Title: browse events  
-   Link: [https://fireball.amsmeteors.org/members/imo_view/browse_events](https://fireball.amsmeteors.org/members/imo_view/browse_events)  
+   Link: <a href="https://fireball.amsmeteors.org/members/imo_view/browse_events" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_events</a>  
 
 24. <a id="endnote-24"></a>
    Source: amsmeteors.org  
    Title: 2020 meteor shower list  
-   Link: [https://www.amsmeteors.org/meteor-showers/2020-meteor-shower-list/](https://www.amsmeteors.org/meteor-showers/2020-meteor-shower-list/)  
+   Link: <a href="https://www.amsmeteors.org/meteor-showers/2020-meteor-shower-list/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/meteor-showers/2020-meteor-shower-list/</a>  
 
 25. <a id="endnote-25"></a>
    Source: amsmeteors.org  
-   Link: [https://www.amsmeteors.org/](https://www.amsmeteors.org/)  
+   Link: <a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
 
 26. <a id="endnote-26"></a>
    Source: fireball.amsmeteors.org  
    Title: browse reports  
-   Link: [https://fireball.amsmeteors.org/members/imo_view/browse_reports](https://fireball.amsmeteors.org/members/imo_view/browse_reports)  
+   Link: <a href="https://fireball.amsmeteors.org/members/imo_view/browse_reports" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/browse_reports</a>  
 
 27. <a id="endnote-27"></a>
    Source: fireball.amsmeteors.org  
    Title: browse reports  
-   Link: [https://fireball.amsmeteors.org/imo_view/browse_reports?month=11&page=28&search_by_month=1&year=2023](https://fireball.amsmeteors.org/imo_view/browse_reports?month=11&page=28&search_by_month=1&year=2023)  
+   Link: <a href="https://fireball.amsmeteors.org/imo_view/browse_reports?month=11&amp;page=28&amp;search_by_month=1&amp;year=2023" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/imo_view/browse_reports?month=11&amp;page=28&amp;search_by_month=1&amp;year=2023</a>  
 
 28. <a id="endnote-28"></a>
    Source: imo.amsmeteors.org  
    Title: browse reports  
-   Link: [https://imo.amsmeteors.org/members/imo_view/browse_reports?month=3&page=8&search_by_month=1&year=2021](https://imo.amsmeteors.org/members/imo_view/browse_reports?month=3&page=8&search_by_month=1&year=2021)  
+   Link: <a href="https://imo.amsmeteors.org/members/imo_view/browse_reports?month=3&amp;page=8&amp;search_by_month=1&amp;year=2021" target="_blank" rel="noopener noreferrer nofollow">https://imo.amsmeteors.org/members/imo_view/browse_reports?month=3&amp;page=8&amp;search_by_month=1&amp;year=2021</a>  
 
 29. <a id="endnote-29"></a>
    Source: harryreidairport.com  
-   Link: [https://www.harryreidairport.com/business/airport-operations/financial-reporting-statistics](https://www.harryreidairport.com/business/airport-operations/financial-reporting-statistics)  
+   Link: <a href="https://www.harryreidairport.com/business/airport-operations/financial-reporting-statistics" target="_blank" rel="noopener noreferrer nofollow">https://www.harryreidairport.com/business/airport-operations/financial-reporting-statistics</a>  
 
 30. <a id="endnote-30"></a>
    Source: harryreidairport.com  
-   Link: [https://www.harryreidairport.com/business/airport-operations/financial-reporting-statistics/flight-reports](https://www.harryreidairport.com/business/airport-operations/financial-reporting-statistics/flight-reports)  
+   Link: <a href="https://www.harryreidairport.com/business/airport-operations/financial-reporting-statistics/flight-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.harryreidairport.com/business/airport-operations/financial-reporting-statistics/flight-reports</a>  
 
 31. <a id="endnote-31"></a>
    Source: latimes.com  
    Title: Los Angeles Times Las Vegas police investigate reports of extraterrestrial  
-   Link: [https://www.latimes.com/california/story/2023-06-09/las-vegas-police-investigate-reports-of-alien-sightings](https://www.latimes.com/california/story/2023-06-09/las-vegas-police-investigate-reports-of-alien-sightings)  
+   Link: <a href="https://www.latimes.com/california/story/2023-06-09/las-vegas-police-investigate-reports-of-alien-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/california/story/2023-06-09/las-vegas-police-investigate-reports-of-alien-sightings</a>  
 
 32. <a id="endnote-32"></a>
    Source: harryreidairport.com  
-   Link: [https://www.harryreidairport.com/](https://www.harryreidairport.com/)  
+   Link: <a href="https://www.harryreidairport.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.harryreidairport.com/</a>  
 
 33. <a id="endnote-33"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=61327](https://nuforc.org/sighting/?id=61327)  
+   Link: <a href="https://nuforc.org/sighting/?id=61327" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=61327</a>  
 
 34. <a id="endnote-34"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=197127](https://nuforc.org/sighting/?id=197127)  
+   Link: <a href="https://nuforc.org/sighting/?id=197127" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197127</a>  
 
 35. <a id="endnote-35"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=100739](https://nuforc.org/sighting/?id=100739)  
+   Link: <a href="https://nuforc.org/sighting/?id=100739" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=100739</a>  
 
 36. <a id="endnote-36"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=66836](https://nuforc.org/sighting/?id=66836)  
+   Link: <a href="https://nuforc.org/sighting/?id=66836" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=66836</a>  
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
    Title: Harry Reid International Airport  
-   Link: [https://www.facebook.com/LASAirport/posts/nearly-55-million-passengers-traveled-through-harry-reid-international-airport-i/890428340411234/](https://www.facebook.com/LASAirport/posts/nearly-55-million-passengers-traveled-through-harry-reid-international-airport-i/890428340411234/)  
+   Link: <a href="https://www.facebook.com/LASAirport/posts/nearly-55-million-passengers-traveled-through-harry-reid-international-airport-i/890428340411234/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LASAirport/posts/nearly-55-million-passengers-traveled-through-harry-reid-international-airport-i/890428340411234/</a>  
 
 38. <a id="endnote-38"></a>
    Source: Wikipedia  
    Title: Harry Reid International Airport  
-   Link: [https://en.wikipedia.org/wiki/Harry_Reid_International_Airport](https://en.wikipedia.org/wiki/Harry_Reid_International_Airport)  
+   Link: <a href="https://en.wikipedia.org/wiki/Harry_Reid_International_Airport" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harry_Reid_International_Airport</a>  
 
 ### Additional References
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
    Title: '100% they're not human,' Witness details alleged alien encounter in Las Vegas  
-   Link: [https://www.youtube.com/watch?v=ROLYGcj5bNM](https://www.youtube.com/watch?v=ROLYGcj5bNM)  
+   Link: <a href="https://www.youtube.com/watch?v=ROLYGcj5bNM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ROLYGcj5bNM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bodycam Footage Captures Mysterious Light Falling From Sky...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
    Title: Las Vegas family UFO claim may be a 'practical joke': Expert | Banfield  
-   Link: [https://www.youtube.com/watch?v=5mE7AOmZGe8](https://www.youtube.com/watch?v=5mE7AOmZGe8)  
+   Link: <a href="https://www.youtube.com/watch?v=5mE7AOmZGe8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5mE7AOmZGe8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist reveals details of top-secret UFO research in Las Vegas...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: youtube.com  
    Title: Autopsy of an Alien Hoax: Las Vegas UFO Sighting Explained  
-   Link: [https://www.youtube.com/watch?v=ULsOu3GXX5w](https://www.youtube.com/watch?v=ULsOu3GXX5w)  
+   Link: <a href="https://www.youtube.com/watch?v=ULsOu3GXX5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ULsOu3GXX5w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Las Vegas family UFO claim may be a &#x27;practical joke&#x27;: Expert | Banfield...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: lasvegasnevada.gov  
-   Link: [https://www.lasvegasnevada.gov/Government/Public-Safety-Services/FLYSAFE](https://www.lasvegasnevada.gov/Government/Public-Safety-Services/FLYSAFE)  
+   Link: <a href="https://www.lasvegasnevada.gov/Government/Public-Safety-Services/FLYSAFE" target="_blank" rel="noopener noreferrer nofollow">https://www.lasvegasnevada.gov/Government/Public-Safety-Services/FLYSAFE</a>  
 
 43. <a id="endnote-43"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3266229/statement-by-pentagon-press-secretary-air-force-brig-gen-pat-ryder-on-the-annua/](https://www.war.gov/News/Releases/Release/Article/3266229/statement-by-pentagon-press-secretary-air-force-brig-gen-pat-ryder-on-the-annua/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3266229/statement-by-pentagon-press-secretary-air-force-brig-gen-pat-ryder-on-the-annua/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3266229/statement-by-pentagon-press-secretary-air-force-brig-gen-pat-ryder-on-the-annua/</a>  
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
    Title: Bodycam Footage Captures Mysterious Light Falling From Sky  
-   Link: [https://www.youtube.com/watch?v=MrEJDOxg9Vw](https://www.youtube.com/watch?v=MrEJDOxg9Vw)  
+   Link: <a href="https://www.youtube.com/watch?v=MrEJDOxg9Vw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MrEJDOxg9Vw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autopsy of an Alien Hoax: Las Vegas UFO Sighting Explained...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/LasVegasLocally/posts/a-strange-potentially-massive-drone-was-spotted-over-las-vegas-last-night-for-se/640007811684343/](https://www.facebook.com/LasVegasLocally/posts/a-strange-potentially-massive-drone-was-spotted-over-las-vegas-last-night-for-se/640007811684343/)  
+   Link: <a href="https://www.facebook.com/LasVegasLocally/posts/a-strange-potentially-massive-drone-was-spotted-over-las-vegas-last-night-for-se/640007811684343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LasVegasLocally/posts/a-strange-potentially-massive-drone-was-spotted-over-las-vegas-last-night-for-se/640007811684343/</a>  
 
 46. <a id="endnote-46"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/CtQc7YCp-6I/?hl=en](https://www.instagram.com/reel/CtQc7YCp-6I/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/CtQc7YCp-6I/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CtQc7YCp-6I/?hl=en</a>  
 
 47. <a id="endnote-47"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/CtPwCFIrDHy/](https://www.instagram.com/p/CtPwCFIrDHy/)  
+   Link: <a href="https://www.instagram.com/p/CtPwCFIrDHy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CtPwCFIrDHy/</a>  
 
 48. <a id="endnote-48"></a>
    Source: x.com  
-   Link: [https://x.com/ABC7/status/1666934454630367233?lang=en](https://x.com/ABC7/status/1666934454630367233?lang=en)  
+   Link: <a href="https://x.com/ABC7/status/1666934454630367233?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ABC7/status/1666934454630367233?lang=en</a>

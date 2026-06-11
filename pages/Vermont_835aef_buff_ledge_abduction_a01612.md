@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-makes-vermonts-ufo-stories-endure/
 nav_short_title: Buff Ledge
 title: How Strong Is the Buff Ledge Story?
-title_full: How Strong Is the Buff Ledge Story? | Vermont UFOs
+title_full: How Strong Is the Buff Ledge Story?
 display_title_short: Buff Ledge
 display_title: Buff Ledge
 heading_title: How Strong Is the Buff Ledge Story?
@@ -268,8 +268,7 @@ image: /assets/images/Vermont_835aef_buff_ledge_abduction_a01612-overview-social
 
 ## Introduction
 
-Buff Ledge is [Vermont]({{ 'what-makes-vermonts-ufo-stories-endure/' | relative_url }})’s best-known abduction story because it has the ingredients that make a UFO case memorable: a lakeside summer camp, two young witnesses, a claimed period of “missing time”, later hypnotic regression, and an investigation by Walter N. Webb for the J. Allen Hynek Center for UFO Studies. The core claim is that on 7 August 1968, two staff members at Buff Ledge Camp in Colchester, on Lake Champlain, saw unusual lights and later recovered memories of being taken aboard a craft. Webb’s 1994 book made the case a landmark in New England UFO literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/encounteratbuffl0000webb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">by: Webb, Walter N. Publication date: 1994; Topics: Unidentified flying objects -- Sightings and...Read more...</span></span></span>
-
+Buff Ledge is Vermont’s best-known abduction story because it has the ingredients that make a UFO case memorable: a lakeside summer camp, two young witnesses, a claimed period of “missing time”, later hypnotic regression, and an investigation by Walter N. Webb for the J. Allen Hynek Center for UFO Studies. The core claim is that on 7 August 1968, two staff members at Buff Ledge Camp in Colchester, on Lake Champlain, saw unusual lights and later recovered memories of being taken aboard a craft. Webb’s 1994 book made the case a landmark in New England UFO literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/encounteratbuffl0000webb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">by: Webb, Walter N. Publication date: 1994; Topics: Unidentified flying objects -- Sightings and...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-overview.webp" | relative_url }}" alt="Overview image for Buff Ledge" loading="eager" decoding="sync" fetchpriority="high">
 Its weakness is also clear. The most dramatic abduction details were not reported immediately in 1968; they emerged roughly a decade later, after nightmares, renewed inquiry and hypnotic regression. That does not automatically make the witnesses dishonest, but it does move the case from ordinary sighting evidence into the much more fragile territory of recovered memory. Modern memory research gives strong reasons to treat such testimony cautiously, especially where [hypnosis]({{ 'hypnosis-5ce9b3/' | relative_url }}) and culturally familiar abduction imagery are involved. UFO Casebook <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -284,8 +283,7 @@ On the face of it, the first layer of the story is a UFO sighting rather than an
 
 The return of the swim team is important in the story’s internal timeline. In later summaries, Michael and Janet are said to have found themselves back on the dock, disoriented, with the sky darker than expected, as sounds from returning campers became audible. The alleged gap between the beginning of the encounter and their next clear awareness became the hinge on which the abduction interpretation later turned. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/Buffledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1968-The Buff Ledge AbductionInvestigator Walter Webb was assigned to the case, and after hearing Michael&#x27;s story, suggested...</span></span></span>
 
-
-<img src="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-1-light.svg" | relative_url }}" alt="Buff Ledge illustration 1" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-1-dark.svg" | relative_url }}" alt="Buff Ledge illustration 1" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Buff Ledge became Vermont’s landmark abduction case
 
 Buff Ledge became prominent because it was not just passed around as a campfire story. Walter N. Webb, an experienced UFO investigator associated with the Center for UFO Studies, investigated the case and published *Encounter at Buff Ledge: A UFO Case History* in 1994. Library records describe the book as a 306-page account of an investigation into a UFO allegedly abducting two staff members from a Vermont summer camp in 1968. Internet Archive <span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/Encounter_at_Buff_Ledge.html?id=fYxYAAAAYAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-snippet">Google BooksEncounter at Buff Ledge: A UFO Case HistoryTitle, Encounter at Buff Ledge: A UFO Case History Exploring the unknown; Author...</span></span></span>
@@ -305,7 +303,6 @@ According to later summaries of Webb’s investigation, Michael did not make a f
 This is the strongest pro-Buff Ledge argument: two people, separated after the summer, were said to have produced broadly similar accounts; Webb also reportedly found other camp witnesses who remembered strange lights over Lake Champlain that evening or during the same summer. Supporters argue that the witnesses had little obvious motive to invent a story, did not immediately seek fame, and did not appear to have coordinated their accounts for public gain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">alien abduction buff ledge</span><span class="citation-popover-snippet">alien abduction buff ledge</span></span></span>
 
 But the same structure creates the central problem. If a case’s most extraordinary details depend on material retrieved years later under hypnosis, the evidence is not equivalent to contemporaneous notes, photographs, radar records, medical documentation, independent immediate reports or physical traces. The witness accounts may be sincere and still unreliable as historical evidence. A person can truly believe a recovered memory and yet be mistaken about its source, timing or literal accuracy.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JGC9uD0rDZ0" title="Human Encounters with Aliens Part II with John Mack (1929 - 2004)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JGC9uD0rDZ0" target="_blank" rel="noopener noreferrer">Human Encounters with Aliens Part II with John Mack (1929 - 2004)</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 88.3K &middot; Uploaded: October 2025 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JGC9uD0rDZ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JGC9uD0rDZ0">Open on YouTube</a></p></div></div></div>
 
@@ -327,8 +324,7 @@ In practical terms, this means the Buff Ledge evidence has to be separated into 
 
 **Most fragile evidence:** the interior-of-craft and entity descriptions, because these appear to rest largely on delayed, hypnotically retrieved material rather than independent physical or contemporaneous documentation.
 
-
-<img src="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-2-light.svg" | relative_url }}" alt="Buff Ledge illustration 2" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-2-dark.svg" | relative_url }}" alt="Buff Ledge illustration 2" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Webb’s investigation strengthens — and what it cannot fix
 
 Webb’s role is one reason Buff Ledge cannot be dismissed as a one-paragraph internet legend. He was not merely repeating a rumour; he produced a book-length case history through the J. Allen Hynek Center for UFO Studies, and his investigation reportedly included interviews, attempts to trace other camp witnesses, psychological or character assessments, and comparison of the two main accounts. Internet Archive <span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/Encounter_at_Buff_Ledge.html?id=fYxYAAAAYAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-snippet">Google BooksEncounter at Buff Ledge: A UFO Case HistoryTitle, Encounter at Buff Ledge: A UFO Case History Exploring the unknown; Author...</span></span></span>
@@ -341,7 +337,6 @@ The Journal of Scientific Exploration article that discusses abduction evidence 
 
 That is probably the fairest place to land. Webb’s work may weaken a casual hoax explanation, but it does not remove the memory problem. Buff Ledge is stronger than a lone anonymous internet report, but weaker than a case with contemporaneous multi-witness statements, instrument data, physical traces and independent official records.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i9CoEKDp4Ps" title="John Mack: 1994 Interview on Alien Abduction and Human Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i9CoEKDp4Ps" target="_blank" rel="noopener noreferrer">John Mack: 1994 Interview on Alien Abduction and Human Encounters</a></p><p class="youtube-embed-meta">Channel: GBH Archives &middot; Views: 29.7K &middot; Uploaded: May 2025 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i9CoEKDp4Ps" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i9CoEKDp4Ps">Open on YouTube</a></p></div></div></div>
 
 ## The local setting made the story plausible — but not proven
@@ -351,7 +346,6 @@ Buff Ledge’s Vermont setting gives the story atmosphere, but atmosphere is not
 The summer-camp context also cuts both ways. On one hand, an almost empty camp reduces the number of immediate witnesses and makes the two-person experience seem isolated. On the other hand, it also leaves fewer contemporaneous checks: fewer people to confirm the exact time, observe the same object from another angle, or record the witnesses’ condition immediately afterwards. Later claims that other staff saw unusual lights help the atmosphere of the case, but they do not by themselves confirm the abduction sequence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/Buffledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO Casebook1968-The Buff Ledge AbductionInvestigator Walter Webb was assigned to the case, and after hearing Michael&#x27;s story, suggested...</span></span></span>
 
 This is why Buff Ledge works better as a case study in abduction evidence than as a straightforward mystery to “solve”. The reader’s central question should not only be “Did aliens take two people from a dock?” A better question is: “What kinds of evidence would be needed to support that claim, and does Buff Ledge provide them?” Once framed that way, the answer is clearer. It provides a rich narrative, a serious UFO-investigation record and some claimed corroboration of unusual lights; it does not provide strong independent evidence for an abduction.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WV0sogulSGY" title="Alien Abduction Evidence: Terry Lovelace&#x27;s Devil&#x27;s Den Encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WV0sogulSGY" target="_blank" rel="noopener noreferrer">Alien Abduction Evidence: Terry Lovelace&#x27;s Devil&#x27;s Den Encounter</a></p><p class="youtube-embed-meta">Channel: The Good Trouble Show with Matt Ford &middot; Views: 27.3K &middot; Uploaded: June 2025 &middot; Length: 2 hours 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WV0sogulSGY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WV0sogulSGY">Open on YouTube</a></p></div></div></div>
 
@@ -365,8 +359,7 @@ The case has also become easier to assess because memory science has moved on. I
 
 In that sense, later reporting has weakened the evidential weight of the most spectacular parts of the story, even as it has strengthened the case’s reputation as Vermont’s signature abduction narrative. Buff Ledge has become more important historically, but not necessarily stronger evidentially.
 
-
-<img src="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-3-light.svg" | relative_url }}" alt="Buff Ledge illustration 3" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-3-dark.svg" | relative_url }}" alt="Buff Ledge illustration 3" data-theme-src-dark="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Vermont_835aef_buff_ledge_abduction_a01612-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How strong is the Buff Ledge story?
 
 Buff Ledge is strong as a Vermont UFO landmark, moderate as a report of an unusual lakeside sighting, and weak as proof of alien abduction. Its strongest features are the presence of two named-but-pseudonymous central witnesses, the claim that they were separated for years before detailed comparison, Webb’s sustained investigation, and reports of additional witnesses to unusual lights. Those points make it more substantial than many lightly sourced abduction tales. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">alien abduction buff ledge</span><span class="citation-popover-snippet">alien abduction buff ledge</span></span></span>
@@ -798,135 +791,135 @@ For Vermont’s UFO history, that is the lesson. Buff Ledge matters less because
 
 1. <a id="endnote-1"></a>
    Source: archive.org  
-   Link: [https://archive.org/details/encounteratbuffl0000webb](https://archive.org/details/encounteratbuffl0000webb)  
+   Link: <a href="https://archive.org/details/encounteratbuffl0000webb" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/encounteratbuffl0000webb</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>by: Webb, Walter N. Publication date: 1994; Topics: Unidentified flying objects -- Sightings and...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: books.google.com  
-   Link: [https://books.google.com/books/about/Encounter_at_Buff_Ledge.html?id=fYxYAAAAYAAJ](https://books.google.com/books/about/Encounter_at_Buff_Ledge.html?id=fYxYAAAAYAAJ)  
+   Link: <a href="https://books.google.com/books/about/Encounter_at_Buff_Ledge.html?id=fYxYAAAAYAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Encounter_at_Buff_Ledge.html?id=fYxYAAAAYAAJ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksEncounter at Buff Ledge: A UFO Case HistoryTitle, Encounter at Buff Ledge: A UFO Case History Exploring the unknown; Author...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: news.harvard.edu  
    Title: starship memories 2  
-   Link: [https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/](https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/)  
+   Link: <a href="https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/</a>  
 
 4. <a id="endnote-4"></a>
    Source: colchestervt.gov  
    Title: Historical Society Collection 1 Aug 2025  
-   Link: [https://www.colchestervt.gov/DocumentCenter/View/11470/Historical-Society-Collection-1-Aug-2025](https://www.colchestervt.gov/DocumentCenter/View/11470/Historical-Society-Collection-1-Aug-2025)  
+   Link: <a href="https://www.colchestervt.gov/DocumentCenter/View/11470/Historical-Society-Collection-1-Aug-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.colchestervt.gov/DocumentCenter/View/11470/Historical-Society-Collection-1-Aug-2025</a>  
 
 5. <a id="endnote-5"></a>
    Source: appstate.edu  
-   Link: [https://appstate.edu/~bromanfulksj/Lynn%20et%20al%20-%20Recalling%20the%20unrecallable.pdf](https://appstate.edu/~bromanfulksj/Lynn%20et%20al%20-%20Recalling%20the%20unrecallable.pdf)  
+   Link: <a href="https://appstate.edu/~bromanfulksj/Lynn%20et%20al%20-%20Recalling%20the%20unrecallable.pdf" target="_blank" rel="noopener noreferrer nofollow">https://appstate.edu/~bromanfulksj/Lynn%20et%20al%20-%20Recalling%20the%20unrecallable.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: buff.com  
-   Link: [https://www.buff.com/gb/?srsltid=AfmBOooNSJ6YkCLO9kOiaoFgstFgvXyGsfWLZlx1AMlmcKI-wvnhOYWw](https://www.buff.com/gb/?srsltid=AfmBOooNSJ6YkCLO9kOiaoFgstFgvXyGsfWLZlx1AMlmcKI-wvnhOYWw)  
+   Link: <a href="https://www.buff.com/gb/?srsltid=AfmBOooNSJ6YkCLO9kOiaoFgstFgvXyGsfWLZlx1AMlmcKI-wvnhOYWw" target="_blank" rel="noopener noreferrer nofollow">https://www.buff.com/gb/?srsltid=AfmBOooNSJ6YkCLO9kOiaoFgstFgvXyGsfWLZlx1AMlmcKI-wvnhOYWw</a>  
 
 7. <a id="endnote-7"></a>
    Source: files.secure.website  
    Title: usa vermont  
-   Link: [https://files.secure.website/wscfus/10517518/25903939/usa-vermont.pdf](https://files.secure.website/wscfus/10517518/25903939/usa-vermont.pdf)  
+   Link: <a href="https://files.secure.website/wscfus/10517518/25903939/usa-vermont.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.secure.website/wscfus/10517518/25903939/usa-vermont.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: dash.harvard.edu  
    Title: alien abduction  
-   Link: [https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf](https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf)  
+   Link: <a href="https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: New England Legends Podcast 423  
-   Link: [https://www.youtube.com/watch?v=C6_iAK2vFDI](https://www.youtube.com/watch?v=C6_iAK2vFDI)  
+   Link: <a href="https://www.youtube.com/watch?v=C6_iAK2vFDI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C6_iAK2vFDI</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Abduction Evidence: Terry Lovelace&#x27;s Devil&#x27;s Den Encounter...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ufocasebook.com  
-   Link: [https://www.ufocasebook.com/Buffledge.html](https://www.ufocasebook.com/Buffledge.html)  
+   Link: <a href="https://www.ufocasebook.com/Buffledge.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/Buffledge.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Casebook1968-The Buff Ledge AbductionInvestigator Walter Webb was assigned to the case, and after hearing Michael&#x27;s story, suggested...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/12150421/](https://pubmed.ncbi.nlm.nih.gov/12150421/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12150421/</a>  
 
 12. <a id="endnote-12"></a>
    Source: ufoinsight.com  
    Title: alien abduction buff ledge  
-   Link: [https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge](https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge)  
+   Link: <a href="https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/aliens/abductions/alien-abduction-buff-ledge</a>  
 
 13. <a id="endnote-13"></a>
    Source: ournewenglandlegends.com  
    Title: podcast 423 the buff ledge ufo abduction  
-   Link: [https://ournewenglandlegends.com/podcast-423-the-buff-ledge-ufo-abduction/](https://ournewenglandlegends.com/podcast-423-the-buff-ledge-ufo-abduction/)  
+   Link: <a href="https://ournewenglandlegends.com/podcast-423-the-buff-ledge-ufo-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://ournewenglandlegends.com/podcast-423-the-buff-ledge-ufo-abduction/</a>  
 
 14. <a id="endnote-14"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/724/528](https://journalofscientificexploration.org/index.php/jse/article/view/724/528)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/724/528" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/724/528</a>  
 
 15. <a id="endnote-15"></a>
    Source: ufocasebook.com  
-   Link: [https://www.ufocasebook.com/pdf/abductionexperience.pdf](https://www.ufocasebook.com/pdf/abductionexperience.pdf)  
+   Link: <a href="https://www.ufocasebook.com/pdf/abductionexperience.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/pdf/abductionexperience.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: vermontdailychronicle.com  
    Title: the buff ledge ufo  
-   Link: [https://vermontdailychronicle.com/the-buff-ledge-ufo/](https://vermontdailychronicle.com/the-buff-ledge-ufo/)  
+   Link: <a href="https://vermontdailychronicle.com/the-buff-ledge-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://vermontdailychronicle.com/the-buff-ledge-ufo/</a>  
 
 17. <a id="endnote-17"></a>
    Source: colchestervt.gov  
-   Link: [https://colchestervt.gov/DocumentCenter/View/10984](https://colchestervt.gov/DocumentCenter/View/10984)  
+   Link: <a href="https://colchestervt.gov/DocumentCenter/View/10984" target="_blank" rel="noopener noreferrer nofollow">https://colchestervt.gov/DocumentCenter/View/10984</a>  
 
 18. <a id="endnote-18"></a>
    Source: gooutdoors.co.uk  
-   Link: [https://www.gooutdoors.co.uk/collections/brand-buff](https://www.gooutdoors.co.uk/collections/brand-buff)  
+   Link: <a href="https://www.gooutdoors.co.uk/collections/brand-buff" target="_blank" rel="noopener noreferrer nofollow">https://www.gooutdoors.co.uk/collections/brand-buff</a>  
 
 19. <a id="endnote-19"></a>
    Source: abebooks.com  
    Title: Encounter at Buff Ledge: A Ufo Case History  
-   Link: [https://www.abebooks.com/9780929343600/Encounter-Buff-Ledge-Ufo-Case-0929343603/plp](https://www.abebooks.com/9780929343600/Encounter-Buff-Ledge-Ufo-Case-0929343603/plp)  
+   Link: <a href="https://www.abebooks.com/9780929343600/Encounter-Buff-Ledge-Ufo-Case-0929343603/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/9780929343600/Encounter-Buff-Ledge-Ufo-Case-0929343603/plp</a>  
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=JGC9uD0rDZ0](https://www.youtube.com/watch?v=JGC9uD0rDZ0)  
+   Link: <a href="https://www.youtube.com/watch?v=JGC9uD0rDZ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JGC9uD0rDZ0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Abduction with PHYSICAL EVIDENCE: The Peter Khoury Case &amp; Anomalous Hair...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=i9CoEKDp4Ps](https://www.youtube.com/watch?v=i9CoEKDp4Ps)  
+   Link: <a href="https://www.youtube.com/watch?v=i9CoEKDp4Ps" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i9CoEKDp4Ps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Human Encounters with Aliens Part II with John Mack (1929 - 2004)...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Alien Abduction Evidence: Terry Lovelace's Devil's Den Encounter  
-   Link: [https://www.youtube.com/watch?v=WV0sogulSGY](https://www.youtube.com/watch?v=WV0sogulSGY)  
+   Link: <a href="https://www.youtube.com/watch?v=WV0sogulSGY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WV0sogulSGY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Mack: 1994 Interview on Alien Abduction and Human Encounters...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/30207679/TOWARD_A_PSYCHOLOGY_OF_UFO_ABDUCTION_BELIEFS](https://www.academia.edu/30207679/TOWARD_A_PSYCHOLOGY_OF_UFO_ABDUCTION_BELIEFS)  
+   Link: <a href="https://www.academia.edu/30207679/TOWARD_A_PSYCHOLOGY_OF_UFO_ABDUCTION_BELIEFS" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/30207679/TOWARD_A_PSYCHOLOGY_OF_UFO_ABDUCTION_BELIEFS</a>  
 
 24. <a id="endnote-24"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/buff](https://www.merriam-webster.com/dictionary/buff)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/buff" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/buff</a>  
 
 25. <a id="endnote-25"></a>
    Source: cotswoldoutdoor.com  
-   Link: [https://www.cotswoldoutdoor.com/brands/buff.html](https://www.cotswoldoutdoor.com/brands/buff.html)  
+   Link: <a href="https://www.cotswoldoutdoor.com/brands/buff.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cotswoldoutdoor.com/brands/buff.html</a>  
 
 26. <a id="endnote-26"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Begegnungen-bei-Buff-Ledge-UFO-Falles/dp/3930219085](https://www.amazon.co.uk/Begegnungen-bei-Buff-Ledge-UFO-Falles/dp/3930219085)  
+   Link: <a href="https://www.amazon.co.uk/Begegnungen-bei-Buff-Ledge-UFO-Falles/dp/3930219085" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Begegnungen-bei-Buff-Ledge-UFO-Falles/dp/3930219085</a>  
 
 27. <a id="endnote-27"></a>
    Source: neuroscigroup.us  
-   Link: [https://www.neuroscigroup.us/articles/APT-5-137.php](https://www.neuroscigroup.us/articles/APT-5-137.php)  
+   Link: <a href="https://www.neuroscigroup.us/articles/APT-5-137.php" target="_blank" rel="noopener noreferrer nofollow">https://www.neuroscigroup.us/articles/APT-5-137.php</a>  
 
 28. <a id="endnote-28"></a>
    Source: abebooks.com  
-   Link: [https://www.abebooks.com/Encounter-Buff-Ledge-UFO-Case-History/32401982168/bd](https://www.abebooks.com/Encounter-Buff-Ledge-UFO-Case-History/32401982168/bd)  
+   Link: <a href="https://www.abebooks.com/Encounter-Buff-Ledge-UFO-Case-History/32401982168/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.com/Encounter-Buff-Ledge-UFO-Case-History/32401982168/bd</a>  
 
 29. <a id="endnote-29"></a>
    Source: marebooksellers.com  
-   Link: [https://www.marebooksellers.com/pages/books/022249/walter-n-webb/encounter-at-buff-ledge-a-ufo-case-history](https://www.marebooksellers.com/pages/books/022249/walter-n-webb/encounter-at-buff-ledge-a-ufo-case-history)  
+   Link: <a href="https://www.marebooksellers.com/pages/books/022249/walter-n-webb/encounter-at-buff-ledge-a-ufo-case-history" target="_blank" rel="noopener noreferrer nofollow">https://www.marebooksellers.com/pages/books/022249/walter-n-webb/encounter-at-buff-ledge-a-ufo-case-history</a>

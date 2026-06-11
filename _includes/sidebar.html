@@ -7,6 +7,12 @@
 {% if tree_level == 1 and sidebar_items.size == 1 %}
 {% assign single_root_home_mode = true %}
 {% endif %}
+{% if include.show_tools %}
+<div class="sidebar-tree-actions sidebar-tree-actions-top" data-sidebar-tree-actions-top hidden>
+  <button class="sidebar-tree-btn" type="button" data-sidebar-expand-all>{{ ui.expand_all | default: 'Expand all' }}</button>
+  <button class="sidebar-tree-btn" type="button" data-sidebar-collapse-all>{{ ui.collapse_all | default: 'Collapse all' }}</button>
+</div>
+{% endif %}
 <nav class="sidebar-nav{% if single_root_home_mode %} is-single-root-home{% endif %}" aria-label="{{ ui.topic_tree_navigation | default: 'Topic tree navigation' | escape }}" data-sidebar-nav{% if single_root_home_mode %} data-sidebar-single-root-home{% endif %}>
   <ul class="sidebar-list" data-sidebar-level="{{ tree_level }}">
     {% if single_root_home_mode %}

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-mexico-45551f-roswell-evidence/
 description: Focused pages that expand on Roswell.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: New_Mexico_45551f_roswell_evidence_0eee44
-parent_title: Roswell | Why New Mexico Became UFO Country
+parent_title: Roswell
 parent_nav_short_title: Roswell
 parent_permalink: /roswell/
 ---

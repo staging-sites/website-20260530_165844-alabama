@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /recent-sightings/
 nav_short_title: Ypsilanti Sightings
 title: How Ypsilanti UFO Videos Reveal Modern Reporting Patterns
-title_full: How Ypsilanti UFO Videos Reveal Modern Reporting Patterns | Recent Sightings
+title_full: How Ypsilanti UFO Videos Reveal Modern Reporting Patterns
 display_title_short: Ypsilanti Sightings
 display_title: Ypsilanti Sightings
 heading_title: How Ypsilanti UFO Videos Reveal Modern Reporting Patterns
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:40:27'
-parent_title: Recent UFO Reports and Unexplained Lights in Michigan | Michigan UFOs
+parent_title: Recent UFO Reports and Unexplained Lights in Michigan
 parent_permalink: /recent-sightings/
 parent_nav_short_title: Recent Sightings
 parent_heading_title: Recent UFO Reports and Unexplained Lights in Michigan
@@ -250,27 +250,24 @@ image: /assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_ypsilanti_app_
 
 ## Introduction
 
-In the past few years, civilian reporting of unidentified aerial phenomena (UAP, more commonly known as UFOs) in [Michigan]({{ 'michigans-most-notable-ufo-sightings-and/' | relative_url }}) has shifted from occasional police calls and newspaper stories to a steady stream of user‑submitted sightings collected through mobile apps and online databases. One Michigan city that has contributed notably to this dataset is **Ypsilanti**, near Ann Arbor. In late 2024 and 2025, app submissions from this area — particularly through the community platform **Enigma Labs** — included short‑form witness videos showing multiple lights in the night sky. These reports matter not because they confirm extraordinary craft overhead, but because they illustrate how modern reporting tools shape what kinds of sightings enter public records and what limits there are on verifying unusual sky phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">App shows unexplained objects travel Michigan skies</span><span class="citation-popover-snippet">AxiosApp shows unexplained objects travel Michigan skies - Axios DetroitNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
+In the past few years, civilian reporting of unidentified aerial phenomena (UAP, more commonly known as UFOs) in Michigan has shifted from occasional police calls and newspaper stories to a steady stream of user‑submitted sightings collected through mobile apps and online databases. One Michigan city that has contributed notably to this dataset is **Ypsilanti**, near Ann Arbor. In late 2024 and 2025, app submissions from this area — particularly through the community platform **Enigma Labs** — included short‑form witness videos showing multiple lights in the night sky. These reports matter not because they confirm extraordinary craft overhead, but because they illustrate how modern reporting tools shape what kinds of sightings enter public records and what limits there are on verifying unusual sky phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">App shows unexplained objects travel Michigan skies</span><span class="citation-popover-snippet">App shows unexplained objects travel Michigan skies - Axios DetroitNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
 
-
-<img src="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_ypsilanti_app_sighti_f778e8-Illustration-1-light.svg" | relative_url }}" alt="Ypsilanti Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_ypsilanti_app_sighti_f778e8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_ypsilanti_app_sighti_f778e8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_ypsilanti_app_sighti_f778e8-Illustration-1-dark.svg" | relative_url }}" alt="Ypsilanti Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_ypsilanti_app_sighti_f778e8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_ypsilanti_app_sighti_f778e8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Recent Sightings Reports from Ypsilanti
 
-One of the most widely cited recent reports from the region came via the *Enigma Labs* mobile app in *late October 2024*, when a user in Ypsilanti submitted a video allegedly showing **six lights moving together in formation**. The *Axios Detroit* account of this report describes the witness attempting to record the lights as they appeared and began to “form a pattern” before disappearing from view. However, the published account does not include independent corroboration or sensor data beyond the short video itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">App shows unexplained objects travel Michigan skies</span><span class="citation-popover-snippet">AxiosApp shows unexplained objects travel Michigan skies - Axios DetroitNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
+One of the most widely cited recent reports from the region came via the *Enigma Labs* mobile app in *late October 2024*, when a user in Ypsilanti submitted a video allegedly showing **six lights moving together in formation**. The *Axios Detroit* account of this report describes the witness attempting to record the lights as they appeared and began to “form a pattern” before disappearing from view. However, the published account does not include independent corroboration or sensor data beyond the short video itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">App shows unexplained objects travel Michigan skies</span><span class="citation-popover-snippet">App shows unexplained objects travel Michigan skies - Axios DetroitNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
 
 Beyond this specific submission, aggregated sighting lists associated with Michigan feature other Ypsilanti entries. For example, a separate UFO reporting database lists a sighting in the city from **November 2025** described as about 15 metallic‑grey objects moving together, though this is an unsourced civilian report rather than an app upload with media attached. These entries underscore that local sightings often involve multiple light points or shapes, but documented evidence varies widely in detail and quality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoindex.com/michigan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[ufoindex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">Michigan UFO Reports</span><span class="citation-popover-snippet">Michigan UFO Reports</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FqXg8EbbXZU" title="Something in the Sky? Something in the Water hosts app launch for UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FqXg8EbbXZU" target="_blank" rel="noopener noreferrer">Something in the Sky? Something in the Water hosts app launch for UFO sightings</a></p><p class="youtube-embed-meta">Channel: 13News Now &middot; Views: 373 &middot; Uploaded: April 2023 &middot; Length: 2 minutes 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FqXg8EbbXZU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FqXg8EbbXZU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/onSVgu0bhO0" title="New app tracks UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=onSVgu0bhO0" target="_blank" rel="noopener noreferrer">New app tracks UFO sightings</a></p><p class="youtube-embed-meta">Channel: 13News Now &middot; Views: 27.7K &middot; Uploaded: May 2023 &middot; Length: 1 minute 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=onSVgu0bhO0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=onSVgu0bhO0">Open on YouTube</a></p></div></div></div>
 
 ## How App Submissions Reflect Civilian UFO Reporting Trends
 
 Platforms like **Enigma Labs** have become an increasingly popular method for people to report sightings because they allow **immediate upload of video evidence and structured metadata** (location, time, shape, number of objects). Enigma promotes itself as a network where users can see historical sightings and receive alerts, with the stated goal of standardising and analysing reports from around the world. This app‑driven model is a departure from older reporting channels such as written reports to organisations like the National UFO Reporting Center (NUFORC) or newspaper accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> | Report a UFO sighting
 
-The Enigma platform aggregates hundreds of thousands of submissions globally, with Michigan among the more active states. In the broader dataset, Michiganders have contributed **over 500 sightings** since the app’s launch in 2023, putting the state in the top ten for reporting volume nationwide. Of these reports, **“lights” and triangular formations** are the most commonly submitted shapes, a trend that is mirrored in the Ypsilanti reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">App shows unexplained objects travel Michigan skies</span><span class="citation-popover-snippet">AxiosApp shows unexplained objects travel Michigan skies - Axios DetroitNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
+The Enigma platform aggregates hundreds of thousands of submissions globally, with Michigan among the more active states. In the broader dataset, Michiganders have contributed **over 500 sightings** since the app’s launch in 2023, putting the state in the top ten for reporting volume nationwide. Of these reports, **“lights” and triangular formations** are the most commonly submitted shapes, a trend that is mirrored in the Ypsilanti reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">App shows unexplained objects travel Michigan skies</span><span class="citation-popover-snippet">App shows unexplained objects travel Michigan skies - Axios DetroitNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
 
-
-<img src="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_ypsilanti_app_sighti_f778e8-Illustration-2-light.svg" | relative_url }}" alt="Ypsilanti Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_ypsilanti_app_sighti_f778e8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_ypsilanti_app_sighti_f778e8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_ypsilanti_app_sighti_f778e8-Illustration-2-dark.svg" | relative_url }}" alt="Ypsilanti Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_ypsilanti_app_sighti_f778e8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_ypsilanti_app_sighti_f778e8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Challenges in Verifying App‑Submitted Videos
 
 While app submissions often include short clips or photos, **verification challenges remain substantial**. Videos captured on smartphones can be difficult to interpret for several reasons:
@@ -281,20 +278,17 @@ While app submissions often include short clips or photos, **verification challe
 
 These issues mean that while a Ypsilanti video of multiple lights may look intriguing, **it does not by itself constitute evidence of unexplained craft**. Such submissions are best viewed as part of a pattern of civilian reporting rather than confirmed phenomena.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j0AJ8YXpOlQ" title="The Michigan group studying UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j0AJ8YXpOlQ" target="_blank" rel="noopener noreferrer">The Michigan group studying UFO sightings</a></p><p class="youtube-embed-meta">Channel: Click On Detroit | Local 4 | WDIV &middot; Views: 7.8K &middot; Uploaded: April 2023 &middot; Length: 1 minute 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j0AJ8YXpOlQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j0AJ8YXpOlQ">Open on YouTube</a></p></div></div></div>
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D3qWyN8rxzw" title="1966 UFO Sightings in Dexter, Michigan - A Mini-Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D3qWyN8rxzw" target="_blank" rel="noopener noreferrer">1966 UFO Sightings in Dexter, Michigan - A Mini-Documentary</a></p><p class="youtube-embed-meta">Channel: Michigan Online &middot; Views: 53.0K &middot; Uploaded: February 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D3qWyN8rxzw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D3qWyN8rxzw">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/onSVgu0bhO0" title="New app tracks UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=onSVgu0bhO0" target="_blank" rel="noopener noreferrer">New app tracks UFO sightings</a></p><p class="youtube-embed-meta">Channel: 13News Now &middot; Views: 27.7K &middot; Uploaded: May 2023 &middot; Length: 1 minute 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=onSVgu0bhO0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=onSVgu0bhO0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FqXg8EbbXZU" title="Something in the Sky? Something in the Water hosts app launch for UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FqXg8EbbXZU" target="_blank" rel="noopener noreferrer">Something in the Sky? Something in the Water hosts app launch for UFO sightings</a></p><p class="youtube-embed-meta">Channel: 13News Now &middot; Views: 373 &middot; Uploaded: April 2023 &middot; Length: 2 minutes 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FqXg8EbbXZU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FqXg8EbbXZU">Open on YouTube</a></p></div></div></div>
 
 ## Local Context and Interpretation
 
 The cluster of lights reported in Ypsilanti fits within broader patterns in Michigan reporting: multiple points of light that persist for a short time, reported in areas with open skies and away from dense city light pollution. However, without additional data — such as simultaneous reports from other witnesses, radar or sensor tracking, or authenticated time‑stamped footage — these app submissions remain **unresolved, not verified as extraordinary**.
 
-In summary, recent **Ypsilanti app‑submitted UFO sightings** are useful for understanding how modern technology is shaping the UFO record in Michigan. They demonstrate increased public engagement and the ease with which short‑form videos can be shared and archived. But they also highlight the limitations of app‑based reporting: many reports lack independent verification, and the most commonplace explanations (aircraft, satellites, drones, atmospheric effects) are often difficult to exclude based solely on brief civilian footage. Readers interested in Michigan UFO history may find that these app submissions add texture to the pattern of sightings without, at present, shifting the core challenge of discerning credible, unexplained phenomena from familiar or misidentified aerial objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">App shows unexplained objects travel Michigan skies</span><span class="citation-popover-snippet">AxiosApp shows unexplained objects travel Michigan skies - Axios DetroitNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
+In summary, recent **Ypsilanti app‑submitted UFO sightings** are useful for understanding how modern technology is shaping the UFO record in Michigan. They demonstrate increased public engagement and the ease with which short‑form videos can be shared and archived. But they also highlight the limitations of app‑based reporting: many reports lack independent verification, and the most commonplace explanations (aircraft, satellites, drones, atmospheric effects) are often difficult to exclude based solely on brief civilian footage. Readers interested in Michigan UFO history may find that these app submissions add texture to the pattern of sightings without, at present, shifting the core challenge of discerning credible, unexplained phenomena from familiar or misidentified aerial objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">App shows unexplained objects travel Michigan skies</span><span class="citation-popover-snippet">App shows unexplained objects travel Michigan skies - Axios DetroitNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
 
-
-<img src="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_ypsilanti_app_sighti_f778e8-Illustration-3-light.svg" | relative_url }}" alt="Ypsilanti Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_ypsilanti_app_sighti_f778e8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_ypsilanti_app_sighti_f778e8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_ypsilanti_app_sighti_f778e8-Illustration-3-dark.svg" | relative_url }}" alt="Ypsilanti Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_ypsilanti_app_sighti_f778e8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575_ypsilanti_app_sighti_f778e8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -382,7 +376,7 @@ In summary, recent **Ypsilanti app‑submitted UFO sightings** are useful for un
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -392,111 +386,36 @@ In summary, recent **Ypsilanti app‑submitted UFO sightings** are useful for un
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display"><img src="{{ '/assets/images/marketplace-covers/27c78e3de724e607809d.jpg' | relative_url }}" alt="Listing image for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S"><img src="https://i.ebayimg.com/images/g/yRcAAOSwWhdmw231/s-l225.jpg" alt="Listing image for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT"><img src="{{ '/assets/images/marketplace-covers/c4fa2fd111d52b7bddcf.jpg' | relative_url }}" alt="Listing image for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -504,15 +423,15 @@ In summary, recent **Ypsilanti app‑submitted UFO sightings** are useful for un
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -520,15 +439,15 @@ In summary, recent **Ypsilanti app‑submitted UFO sightings** are useful for un
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth"><img src="https://i.ebayimg.com/images/g/VF0AAeSwVpBpJZso/s-l225.jpg" alt="Listing image for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -536,15 +455,15 @@ In summary, recent **Ypsilanti app‑submitted UFO sightings** are useful for un
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -552,7 +471,7 @@ In summary, recent **Ypsilanti app‑submitted UFO sightings** are useful for un
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ypsilanti-sightings-how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-michigan-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-ypsilanti-ufo-videos-reveal-modern-reporting-patterns-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -629,17 +548,31 @@ In summary, recent **Ypsilanti app‑submitted UFO sightings** are useful for un
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -652,42 +585,73 @@ In summary, recent **Ypsilanti app‑submitted UFO sightings** are useful for un
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -702,12 +666,17 @@ In summary, recent **Ypsilanti app‑submitted UFO sightings** are useful for un
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -718,110 +687,110 @@ In summary, recent **Ypsilanti app‑submitted UFO sightings** are useful for un
 1. <a id="endnote-1"></a>
    Source: axios.com  
    Title: App shows unexplained objects travel Michigan skies  
-   Link: [https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies](https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AxiosApp shows unexplained objects travel Michigan skies - Axios DetroitNovember 12, 2024...</p></details>
+   Link: <a href="https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>App shows unexplained objects travel Michigan skies - Axios DetroitNovember 12, 2024...</p></details>
    Published: November 12, 2024  
 
 2. <a id="endnote-2"></a>
    Source: ufoindex.com  
    Title: Michigan UFO Reports  
-   Link: [https://www.ufoindex.com/michigan](https://www.ufoindex.com/michigan)  
+   Link: <a href="https://www.ufoindex.com/michigan" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/michigan</a>  
 
 3. <a id="endnote-3"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/](https://enigmalabs.io/)  
+   Link: <a href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/</a>  
 
 4. <a id="endnote-4"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/blog/12000-uap-sightings-and-counting](https://enigmalabs.io/blog/12000-uap-sightings-and-counting)  
+   Link: <a href="https://enigmalabs.io/blog/12000-uap-sightings-and-counting" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/12000-uap-sightings-and-counting</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 14, 2023...</p></details>
    Published: December 14, 2023  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=197567](https://nuforc.org/sighting/?id=197567)  
+   Link: <a href="https://nuforc.org/sighting/?id=197567" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197567</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 197567May 12, 2026 — NUFORC UFO SIGHTING 197567 Occurred: 1994-06-15 18:00 Local - Approximate Reported: 2026-05-08 2...</p></details>
    Published: May 8, 2026  
 
 6. <a id="endnote-6"></a>
    Source: toolmage.com  
    Title: It provides a platform for users to report, track, and analyze sightin  
-   Link: [https://www.toolmage.com/en/tool/enigma-labs/](https://www.toolmage.com/en/tool/enigma-labs/)  
+   Link: <a href="https://www.toolmage.com/en/tool/enigma-labs/" target="_blank" rel="noopener noreferrer nofollow">https://www.toolmage.com/en/tool/enigma-labs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | The #1 UAP/UFO Sighting &amp; Analysis Platform - ToolMageAugust 3, 2025 — ENIGMA LABS Visit Website Enigma Labs is the world&#x27;s...</p></details>
    Published: August 3, 2025  
 
 7. <a id="endnote-7"></a>
    Source: fortune.com  
    Title: A photo illu  
-   Link: [https://fortune.com/2022/07/13/enigma-labs-uap-unidentified-aerial-phenomenon-startup/](https://fortune.com/2022/07/13/enigma-labs-uap-unidentified-aerial-phenomenon-startup/)  
+   Link: <a href="https://fortune.com/2022/07/13/enigma-labs-uap-unidentified-aerial-phenomenon-startup/" target="_blank" rel="noopener noreferrer nofollow">https://fortune.com/2022/07/13/enigma-labs-uap-unidentified-aerial-phenomenon-startup/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs&#x27; mission is to make recording unidentified aerial phenomena easier | FortuneJuly 13, 2022 — PoliticsSpace Exploration THIS ST...</p></details>
    Published: July 13, 2022  
 
 8. <a id="endnote-8"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/explore/united_states/michigan](https://enigmalabs.io/explore/united_states/michigan)  
+   Link: <a href="https://enigmalabs.io/explore/united_states/michigan" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/united_states/michigan</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Michigan, United States | Enigma LabsUFO Sightings in Michigan, US Image: Copy to clipboard Image: Email SIGHTING HIGHLI...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: uapmonitor.org  
-   Link: [https://uapmonitor.org/](https://uapmonitor.org/)  
+   Link: <a href="https://uapmonitor.org/" target="_blank" rel="noopener noreferrer nofollow">https://uapmonitor.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Monitor — Global UFO &amp; UAP Sightings Database, Map &amp; Intelligence PlatformUAP MONITOR — GLOBAL UFO &amp; UAP SIGHTINGS INTELLIGENCE PLATF...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pentagonufofiles.io  
    Title: Pentagon UFOFiles.io Tracking live — updated as files drop PENTAGON UFOFILES  
-   Link: [https://pentagonufofiles.io/](https://pentagonufofiles.io/)  
+   Link: <a href="https://pentagonufofiles.io/" target="_blank" rel="noopener noreferrer nofollow">https://pentagonufofiles.io/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. Pentagon is declassifying UFO files. We&#x27;ve organized and analyzed hundreds of them. More files are expected to drop soon — check ba...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: fox32chicago.com  
    Title: Thousands of UFOs spotted off US coastlines | Chicago LIVE | FOX 32 Chicago  
-   Link: [https://www.fox32chicago.com/video/1734674](https://www.fox32chicago.com/video/1734674)  
+   Link: <a href="https://www.fox32chicago.com/video/1734674" target="_blank" rel="noopener noreferrer nofollow">https://www.fox32chicago.com/video/1734674</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of UFOs spotted off US coastlines | ChicagoLIVE | FOX 32 ChicagoNovember 3, 2025 — Image: Thousands of UFOs spotted off US coas...</p></details>
    Published: November 3, 2025  
 
 12. <a id="endnote-12"></a>
    Source: apprecs.com  
    Title: App Recs.com Enigma: What’s that in the Sky for i OS | App Recs  
-   Link: [https://apprecs.com/ios/1548371173/enigma-%E2%80%94-ufo-sightings](https://apprecs.com/ios/1548371173/enigma-%E2%80%94-ufo-sightings)  
+   Link: <a href="https://apprecs.com/ios/1548371173/enigma-%E2%80%94-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://apprecs.com/ios/1548371173/enigma-%E2%80%94-ufo-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma: What’s that in the Sky for iOS | AppRecsENIGMA: WHAT’S THAT IN THE SKY Enigma Labs, LLC 4.8 ★ 5K ratings Free Get it for iOSFind...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: michpics.com  
    Title: Crowdsourcing the UFO Enigma | Michigan in Pictures  
-   Link: [https://michpics.com/2024/11/12/crowdsourcing-the-ufo-enigma/](https://michpics.com/2024/11/12/crowdsourcing-the-ufo-enigma/)  
+   Link: <a href="https://michpics.com/2024/11/12/crowdsourcing-the-ufo-enigma/" target="_blank" rel="noopener noreferrer nofollow">https://michpics.com/2024/11/12/crowdsourcing-the-ufo-enigma/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 12, 2024 — CROWDSOURCING THE UFO ENIGMA Posted on November 12, 2024 by farlane UFO Leaving Henderson Castle by William Dolak Axi...</p></details>
    Published: November 12, 2024  
 
 14. <a id="endnote-14"></a>
    Source: appbrain.com  
    Title: Enigma: What’s that in the Sky  
-   Link: [https://www.appbrain.com/app/enigma-ufo-sightings-alerts/com.enigma.mobile](https://www.appbrain.com/app/enigma-ufo-sightings-alerts/com.enigma.mobile)  
+   Link: <a href="https://www.appbrain.com/app/enigma-ufo-sightings-alerts/com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://www.appbrain.com/app/enigma-ufo-sightings-alerts/com.enigma.mobile</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Free APK Download for AndroidMay 11, 2026 — Image: Enigma: What’s that in the Sky icon ENIGMA: WHAT’S THAT IN THE SKY 2.3.1 Enigma Labs...</p></details>
    Published: May 11, 2026  
 
 15. <a id="endnote-15"></a>
    Source: marinetechnologynews.com  
    Title: UF O App Logs Mysterious Underwater Sightings  
-   Link: [https://www.marinetechnologynews.com/news/mysterious-underwater-sightings-654586](https://www.marinetechnologynews.com/news/mysterious-underwater-sightings-654586)  
+   Link: <a href="https://www.marinetechnologynews.com/news/mysterious-underwater-sightings-654586" target="_blank" rel="noopener noreferrer nofollow">https://www.marinetechnologynews.com/news/mysterious-underwater-sightings-654586</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>East Coast. © Enigma Enigma, a popular UFO reporting app, monitors unusual aerial activity. However, th...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Something in the Sky? Something in the Water hosts app launch for UFO sightings  
-   Link: [https://www.youtube.com/watch?v=FqXg8EbbXZU](https://www.youtube.com/watch?v=FqXg8EbbXZU)  
+   Link: <a href="https://www.youtube.com/watch?v=FqXg8EbbXZU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FqXg8EbbXZU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 1966 UFO Sightings in Dexter, Michigan - A Mini-Documentary...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=D3qWyN8rxzw](https://www.youtube.com/watch?v=D3qWyN8rxzw)  
+   Link: <a href="https://www.youtube.com/watch?v=D3qWyN8rxzw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D3qWyN8rxzw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Muskegon Michigan&#x27;s Mass UFO Sightings 30 Years Later | Talking Strange...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: vice.com  
    Title: Saw a UFO?  
-   Link: [https://www.vice.com/en/article/5d3xjz/saw-a-ufo-you-can-report-it-on-this-app?ms=CSIFacebook](https://www.vice.com/en/article/5d3xjz/saw-a-ufo-you-can-report-it-on-this-app?ms=CSIFacebook)  
+   Link: <a href="https://www.vice.com/en/article/5d3xjz/saw-a-ufo-you-can-report-it-on-this-app?ms=CSIFacebook" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/5d3xjz/saw-a-ufo-you-can-report-it-on-this-app?ms=CSIFacebook</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You Can Report It on This AppJanuary 31, 2023 — SAW A UFO? YOU CAN REPORT IT ON THIS APP By Matthew Gault January 31, 2023, 11:00am Share...</p></details>
-   Published: January 31, 2023  
+   Published: January 31, 2023

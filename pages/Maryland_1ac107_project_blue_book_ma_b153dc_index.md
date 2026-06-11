@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /maryland-1ac107-project-blue-book-ma/
 description: Focused pages that expand on Blue Book Records.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Maryland_1ac107_project_blue_book_ma_b153dc
-parent_title: 'Blue Book Records | Maryland’s UFO Mysteries: Close Encounters...'
+parent_title: Blue Book Records
 parent_nav_short_title: Blue Book Records
 parent_permalink: /blue-book-records/
 ---

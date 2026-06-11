@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /project-blue-book/
 nav_short_title: Montgomery 1948 Files
 title: How the 1948 Montgomery UFO Reports Were Preserved
-title_full: How the 1948 Montgomery UFO Reports Were Preserved | Project Blue Book
+title_full: How the 1948 Montgomery UFO Reports Were Preserved
 display_title_short: Montgomery 1948 Files
 display_title: Montgomery 1948 Files
 heading_title: How the 1948 Montgomery UFO Reports Were Preserved
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 14:54:17'
-parent_title: What Do Alabama’s UFO Files Reveal About Official Investigations? | Alabama UFOs
+parent_title: What Do Alabama’s UFO Files Reveal About Official Investigations?
 parent_permalink: /project-blue-book/
 parent_nav_short_title: Project Blue Book
 parent_heading_title: What Do Alabama’s UFO Files Reveal About Official Investigations?
@@ -250,16 +250,14 @@ image: /assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948
 
 ## Introduction
 
-The **Montgomery 1948 UFO documentation** occupies a specific place not only in [Alabama]({{ 'what-are-alabamas-most-significant-ufo/' | relative_url }})’s early post‑war aerial mystery reports but also in the **archival trail of official records** preserved from the U.S. Air Force’s UFO investigations. Far from being a hidden secret, the surviving paperwork for sightings near Montgomery — including reports from **August 1948** — is part of the declassified **[Project Blue Book]({{ 'project-blue-book/' | relative_url }})** case files now held in public archives. These records show how sightings were formally received, categorised and stored on microfilm, and they trace the journey from military investigation to modern accessibility for researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyominghistoryday.org/theme-topics/collections/items/sighting-unidentified-flying-object-21-august-1948-montgomery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyominghistoryday.org">[Wyoming History Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyominghistoryday.org</span><span class="citation-popover-title">sighting unidentified flying object 21 august 1948 montgomery</span><span class="citation-popover-snippet">Wyoming History DaySighting of Unidentified Flying Object on 21 August 1948 at Montgomery, Alabama | Wyoming History DayAugust 21, 1948...</span><span class="citation-popover-meta">Published: august 1948</span></span></span>
+The **Montgomery 1948 UFO documentation** occupies a specific place not only in Alabama’s early post‑war aerial mystery reports but also in the **archival trail of official records** preserved from the U.S. Air Force’s UFO investigations. Far from being a hidden secret, the surviving paperwork for sightings near Montgomery — including reports from **August 1948** — is part of the declassified **[Project Blue Book]({{ 'project-blue-book/' | relative_url }})** case files now held in public archives. These records show how sightings were formally received, categorised and stored on microfilm, and they trace the journey from military investigation to modern accessibility for researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyominghistoryday.org/theme-topics/collections/items/sighting-unidentified-flying-object-21-august-1948-montgomery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyominghistoryday.org">[Wyoming History Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyominghistoryday.org</span><span class="citation-popover-title">sighting unidentified flying object 21 august 1948 montgomery</span><span class="citation-popover-snippet">Wyoming History DaySighting of Unidentified Flying Object on 21 August 1948 at Montgomery, Alabama &#124; Wyoming History DayAugust 21, 1948...</span><span class="citation-popover-meta">Published: august 1948</span></span></span>
 
-
-<img src="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a-Illustration-1-light.svg" | relative_url }}" alt="Montgomery 1948 Files illustration 1" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a-Illustration-1-dark.svg" | relative_url }}" alt="Montgomery 1948 Files illustration 1" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Montgomery 1948 Files Entered the Record Trail
 
 The Montgomery case from **21 August 1948** was documented in the same general archival structure that now encompasses Project Blue Book’s entire inventory of UFO case files. Those case files — spanning 1947–1969 — were declassified and deposited with the **U.S. National Archives and Records Administration (NARA)** following the closure of Project Blue Book in 1969. The Project Blue Book microfilm collection, known as **Publication No. T‑1206**, was published to organise tens of thousands of pages of sighting reports, analyses, correspondence and indexes. Access to these records is through **94 rolls of 35 mm microfilm**, which include both administrative files and chronological case files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.nationalarchives.gov.uk</span><span class="citation-popover-snippet">In so doing, I’m going to reveal what I believe to be the ten most important, or significant, documents and groups of documents that have...</span></span></span>
 
-Part of the evidence trail for Montgomery’s 1948 report survives in records that have been copied and catalogued from microfilm roll 90 of T‑1206. Richard F. Haines’s collection at the American Heritage Center includes such copies, indicating that the specific sighting documentation for **21 August 1948** was preserved, indexed and remains accessible to researchers with knowledge of the relevant roll and reference identifiers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyominghistoryday.org/theme-topics/collections/items/sighting-unidentified-flying-object-21-august-1948-montgomery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyominghistoryday.org">[Wyoming History Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyominghistoryday.org</span><span class="citation-popover-title">sighting unidentified flying object 21 august 1948 montgomery</span><span class="citation-popover-snippet">Wyoming History DaySighting of Unidentified Flying Object on 21 August 1948 at Montgomery, Alabama | Wyoming History DayAugust 21, 1948...</span><span class="citation-popover-meta">Published: august 1948</span></span></span>
-
+Part of the evidence trail for Montgomery’s 1948 report survives in records that have been copied and catalogued from microfilm roll 90 of T‑1206. Richard F. Haines’s collection at the American Heritage Center includes such copies, indicating that the specific sighting documentation for **21 August 1948** was preserved, indexed and remains accessible to researchers with knowledge of the relevant roll and reference identifiers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyominghistoryday.org/theme-topics/collections/items/sighting-unidentified-flying-object-21-august-1948-montgomery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyominghistoryday.org">[Wyoming History Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyominghistoryday.org</span><span class="citation-popover-title">sighting unidentified flying object 21 august 1948 montgomery</span><span class="citation-popover-snippet">Wyoming History DaySighting of Unidentified Flying Object on 21 August 1948 at Montgomery, Alabama &#124; Wyoming History DayAugust 21, 1948...</span><span class="citation-popover-meta">Published: august 1948</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UKzI3uu_oTQ" title="Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 393.5K &middot; Uploaded: March 2019 &middot; Length: 2 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UKzI3uu_oTQ">Open on YouTube</a></p></div></div></div>
 
@@ -267,20 +265,18 @@ Part of the evidence trail for Montgomery’s 1948 report survives in records th
 
 The core of the archival trail for the Montgomery 1948 files runs through two linked archival mechanisms:
 
-* **Microfilm (Publication T‑1206):** The primary access format for case files at the National Archives for researchers before online digitisation efforts. Microfilm roll 90 contains the Montgomery sighting documentation, which can be viewed in NARA’s reading rooms or through copies held in research collections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyominghistoryday.org/theme-topics/collections/items/sighting-unidentified-flying-object-21-august-1948-montgomery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyominghistoryday.org">[Wyoming History Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyominghistoryday.org</span><span class="citation-popover-title">sighting unidentified flying object 21 august 1948 montgomery</span><span class="citation-popover-snippet">Wyoming History DaySighting of Unidentified Flying Object on 21 August 1948 at Montgomery, Alabama | Wyoming History DayAugust 21, 1948...</span><span class="citation-popover-meta">Published: august 1948</span></span></span>
+* **Microfilm (Publication T‑1206):** The primary access format for case files at the National Archives for researchers before online digitisation efforts. Microfilm roll 90 contains the Montgomery sighting documentation, which can be viewed in NARA’s reading rooms or through copies held in research collections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyominghistoryday.org/theme-topics/collections/items/sighting-unidentified-flying-object-21-august-1948-montgomery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyominghistoryday.org">[Wyoming History Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyominghistoryday.org</span><span class="citation-popover-title">sighting unidentified flying object 21 august 1948 montgomery</span><span class="citation-popover-snippet">Wyoming History DaySighting of Unidentified Flying Object on 21 August 1948 at Montgomery, Alabama &#124; Wyoming History DayAugust 21, 1948...</span><span class="citation-popover-meta">Published: august 1948</span></span></span>
 * **NARA Cataloguing and Online Metadata:** Although the microfilm itself is not fully digitised page‑by‑page on the National Archives website, the NARA catalogue provides metadata and catalogue entries for “Project Blue Book: UFO Sightings” and related series. This indexing aids researchers in identifying the location of individual case files such as the Montgomery report by date and place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.nationalarchives.gov.uk</span><span class="citation-popover-snippet">In so doing, I’m going to reveal what I believe to be the ten most important, or significant, documents and groups of documents that have...</span></span></span>
 
 Because Project Blue Book’s chronological case files are arranged by **date and location rather than dramatic titles**, a researcher typically needs the approximate date and geography — in this case **August 1948, Montgomery, Alabama** — to locate the correct segment of the microfilm index and then the associated documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/pdf/T1206-PBB-Microfilm-index.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">T1206 PBB Microfilm index</span><span class="citation-popover-snippet">Minot AFB UFO CasePublication Number: T1206...</span></span></span>
 
-
-<img src="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a-Illustration-2-light.svg" | relative_url }}" alt="Montgomery 1948 Files illustration 2" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a-Illustration-2-dark.svg" | relative_url }}" alt="Montgomery 1948 Files illustration 2" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Copies and Secondary Collections
 
 Beyond the National Archives microfilm, **secondary research collections** and private archives have played a role in preserving accessible copies of the Montgomery 1948 documentation:
 
-* **University and Heritage Collections:** As noted by the Wyoming History Day project, copies from microfilm (such as those in Richard F. Haines’s papers at the American Heritage Center, University of Wyoming) include specific PDFs derived from NARA microfilm rolls that contain the Montgomery sighting. These copies help circumvent some accessibility barriers for researchers unable to visit the National Archives in person. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyominghistoryday.org/theme-topics/collections/items/sighting-unidentified-flying-object-21-august-1948-montgomery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyominghistoryday.org">[Wyoming History Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyominghistoryday.org</span><span class="citation-popover-title">sighting unidentified flying object 21 august 1948 montgomery</span><span class="citation-popover-snippet">Wyoming History DaySighting of Unidentified Flying Object on 21 August 1948 at Montgomery, Alabama | Wyoming History DayAugust 21, 1948...</span><span class="citation-popover-meta">Published: august 1948</span></span></span>
+* **University and Heritage Collections:** As noted by the Wyoming History Day project, copies from microfilm (such as those in Richard F. Haines’s papers at the American Heritage Center, University of Wyoming) include specific PDFs derived from NARA microfilm rolls that contain the Montgomery sighting. These copies help circumvent some accessibility barriers for researchers unable to visit the National Archives in person. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyominghistoryday.org/theme-topics/collections/items/sighting-unidentified-flying-object-21-august-1948-montgomery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyominghistoryday.org">[Wyoming History Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyominghistoryday.org</span><span class="citation-popover-title">sighting unidentified flying object 21 august 1948 montgomery</span><span class="citation-popover-snippet">Wyoming History DaySighting of Unidentified Flying Object on 21 August 1948 at Montgomery, Alabama &#124; Wyoming History DayAugust 21, 1948...</span><span class="citation-popover-meta">Published: august 1948</span></span></span>
 * **Online Declassified Archives:** Organisations such as The Project Blue Book Archive and other public‑facing sites index and host declassified case files online. Although these are not official NARA portals, they mirror and organise publicly released Project Blue Book documents — including records from 1948 — and allow location‑based searching by year and state. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theprojectbluebookarchive.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theprojectbluebookarchive.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theprojectbluebookarchive.org</span><span class="citation-popover-title">Project Blue Book Archive The Project Blue Book Archive</span><span class="citation-popover-snippet">Project Blue Book Archive The Project Blue Book Archive</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHeZjJgO9Ns" title="UFO Project Blue Book at National Archives Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer">UFO Project Blue Book at National Archives Museum</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 352.6K &middot; Uploaded: December 2019 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHeZjJgO9Ns">Open on YouTube</a></p></div></div></div>
 
@@ -292,11 +288,19 @@ The archival trail for a case like Montgomery’s 1948 sighting highlights both 
 * **Index Dependence:** Because the Blue Book microfilm index is chronological and geographic, accurately identifying the correct roll and sequence requires precise date information and familiarity with NARA’s system. Casual online searches may miss these relationship cues without catalogue metadata. <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/pdf/T1206-PBB-Microfilm-index.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">T1206 PBB Microfilm index</span><span class="citation-popover-snippet">Minot AFB UFO CasePublication Number: T1206...</span></span></span>
 * **Redactions and Incompleteness:** Even within declassified holdings, certain personal identifying details may be redacted, and some boxes or rolls may be summarized rather than containing full narrative text. This makes reconstructing witness statements or investigation notes somewhat fragmentary without consulting multiple linked documents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.nationalarchives.gov.uk</span><span class="citation-popover-snippet">In so doing, I’m going to reveal what I believe to be the ten most important, or significant, documents and groups of documents that have...</span></span></span>
 
-
-<img src="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a-Illustration-3-light.svg" | relative_url }}" alt="Montgomery 1948 Files illustration 3" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a-Illustration-3-dark.svg" | relative_url }}" alt="Montgomery 1948 Files illustration 3" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_alabama_blue_book_re_c26a14_montgomery_1948_ufo_0de63a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Summary of the Archival Trail
 
 In broad terms, the **archival trail** for the Montgomery 1948 UFO documentation begins with the original Air Force reporting and investigation under Project Sign/Blue Book and extends through:
+
+1. **Declassification and Retention:** After Project Blue Book’s termination in 1969, the records were declassified and supplied to NARA as a structured microfilm publication (T‑1206) for public study. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.nationalarchives.gov.uk</span><span class="citation-popover-snippet">In so doing, I’m going to reveal what I believe to be the ten most important, or significant, documents and groups of documents that have...</span></span></span>
+2. **Catalogue Indexing:** NARA’s cataloguing of case files by date and location provides the key to locating specific sightings like the Montgomery August 1948 case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.nationalarchives.gov.uk</span><span class="citation-popover-snippet">In so doing, I’m going to reveal what I believe to be the ten most important, or significant, documents and groups of documents that have...</span></span></span>
+3. **Copying and Dissemination:** Copies of relevant microfilm frames appear in research collections and online declassified archives, broadening access beyond in‑person visits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyominghistoryday.org/theme-topics/collections/items/sighting-unidentified-flying-object-21-august-1948-montgomery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyominghistoryday.org">[Wyoming History Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyominghistoryday.org</span><span class="citation-popover-title">sighting unidentified flying object 21 august 1948 montgomery</span><span class="citation-popover-snippet">Wyoming History DaySighting of Unidentified Flying Object on 21 August 1948 at Montgomery, Alabama &#124; Wyoming History DayAugust 21, 1948...</span><span class="citation-popover-meta">Published: august 1948</span></span></span>
+4. **Research Challenges:** Readability, indexing requirements, and occasional redactions illustrate the interpretive effort required to reconstruct the full documentation trail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/pdf/T1206-PBB-Microfilm-index.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">T1206 PBB Microfilm index</span><span class="citation-popover-snippet">Minot AFB UFO CasePublication Number: T1206...</span></span></span>
+
+Together, these archival mechanisms ensure that the Montgomery 1948 sighting — while not famous for dramatic revelations — remains part of the preserved record of Alabama’s UFO history and open to scrutiny through official records rather than oral tradition alone.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KTqkFNF_tYo" title="The Document They Didn&#x27;t Want You to See (Project Blue Book)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KTqkFNF_tYo" target="_blank" rel="noopener noreferrer">The Document They Didn&#x27;t Want You to See (Project Blue Book)</a></p><p class="youtube-embed-meta">Channel: Archive Zero Official &middot; Views: 2 &middot; Uploaded: December 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KTqkFNF_tYo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KTqkFNF_tYo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -384,7 +388,7 @@ In broad terms, the **archival trail** for the Montgomery 1948 UFO documentation
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -394,111 +398,36 @@ In broad terms, the **archival trail** for the Montgomery 1948 UFO documentation
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+photo&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book photo" data-ebay-reference="how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Photos Project Blue Book Files Alien Photo Flying Saucer Polaroid Style"><img src="https://i.ebayimg.com/images/g/jtYAAOSwj61mnlpW/s-l225.jpg" alt="Listing image for UFO Photos Project Blue Book Files Alien Photo Flying Saucer Polaroid Style" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+photo&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book photo" data-ebay-reference="how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo" target="_blank" rel="sponsored noopener noreferrer">UFO Photos Project Blue Book Files Alien Photo Flying Saucer Polaroid Style</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+photo&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book photo" data-ebay-reference="how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book photo">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book photo</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+photo&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book photo" data-ebay-reference="how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -506,15 +435,15 @@ In broad terms, the **archival trail** for the Montgomery 1948 UFO documentation
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+photo&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book photo" data-ebay-reference="how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Transform Project × Transform Time Photo Book Set Limited Edition"><img src="https://i.ebayimg.com/images/g/jWYAAeSwkxBqHQT5/s-l225.jpg" alt="Listing image for Transform Project × Transform Time Photo Book Set Limited Edition" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+photo&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book photo" data-ebay-reference="how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo" target="_blank" rel="sponsored noopener noreferrer">Transform Project × Transform Time Photo Book Set Limited Edition</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+photo&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book photo" data-ebay-reference="how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book photo">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book photo</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+photo&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book photo" data-ebay-reference="how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,15 +451,15 @@ In broad terms, the **archival trail** for the Montgomery 1948 UFO documentation
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+photo&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book photo" data-ebay-reference="how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AIDAN GILLEN SIGNED PHOTO (2) PROJECT BLUE BOOK"><img src="https://i.ebayimg.com/images/g/fxkAAOSwoWRfEcSh/s-l225.jpg" alt="Listing image for AIDAN GILLEN SIGNED PHOTO (2) PROJECT BLUE BOOK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+photo&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book photo" data-ebay-reference="how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo" target="_blank" rel="sponsored noopener noreferrer">AIDAN GILLEN SIGNED PHOTO (2) PROJECT BLUE BOOK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+photo&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book photo" data-ebay-reference="how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book photo">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book photo</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+photo&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book photo" data-ebay-reference="how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,15 +467,15 @@ In broad terms, the **archival trail** for the Montgomery 1948 UFO documentation
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+photo&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book photo" data-ebay-reference="how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1955 UFO Flying Saucer PHOTO New York, From PROJECT BLUE BOOK FILES"><img src="https://i.ebayimg.com/images/g/s18AAOSwa1hb9ea9/s-l225.jpg" alt="Listing image for 1955 UFO Flying Saucer PHOTO New York, From PROJECT BLUE BOOK FILES" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+photo&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book photo" data-ebay-reference="how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo" target="_blank" rel="sponsored noopener noreferrer">1955 UFO Flying Saucer PHOTO New York, From PROJECT BLUE BOOK FILES</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+photo&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book photo" data-ebay-reference="how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Project Blue Book photo">Search <span data-ebay-domain-label>eBay.co.uk</span>: Project Blue Book photo</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+photo&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book photo" data-ebay-reference="how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,7 +483,7 @@ In broad terms, the **archival trail** for the Montgomery 1948 UFO documentation
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=montgomery-1948-files-how-the-1948-montgomery-ufo-reports-were-preserved-alabama-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Project+Blue+Book+photo&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Project Blue Book photo" data-ebay-reference="how-the-1948-montgomery-ufo-reports-were-preserved-project-blue-book-photo" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -631,17 +560,31 @@ In broad terms, the **archival trail** for the Montgomery 1948 UFO documentation
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -654,42 +597,73 @@ In broad terms, the **archival trail** for the Montgomery 1948 UFO documentation
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -704,115 +678,110 @@ In broad terms, the **archival trail** for the Montgomery 1948 UFO documentation
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
-1. **Declassification and Retention:** After Project Blue Book’s termination in 1969, the records were declassified and supplied to NARA as a structured microfilm publication (T‑1206) for public study. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.nationalarchives.gov.uk</span><span class="citation-popover-snippet">In so doing, I’m going to reveal what I believe to be the ten most important, or significant, documents and groups of documents that have...</span></span></span>
-2. **Catalogue Indexing:** NARA’s cataloguing of case files by date and location provides the key to locating specific sightings like the Montgomery August 1948 case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.nationalarchives.gov.uk</span><span class="citation-popover-snippet">In so doing, I’m going to reveal what I believe to be the ten most important, or significant, documents and groups of documents that have...</span></span></span>
-3. **Copying and Dissemination:** Copies of relevant microfilm frames appear in research collections and online declassified archives, broadening access beyond in‑person visits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyominghistoryday.org/theme-topics/collections/items/sighting-unidentified-flying-object-21-august-1948-montgomery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyominghistoryday.org">[Wyoming History Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyominghistoryday.org</span><span class="citation-popover-title">sighting unidentified flying object 21 august 1948 montgomery</span><span class="citation-popover-snippet">Wyoming History DaySighting of Unidentified Flying Object on 21 August 1948 at Montgomery, Alabama | Wyoming History DayAugust 21, 1948...</span><span class="citation-popover-meta">Published: august 1948</span></span></span>
-4. **Research Challenges:** Readability, indexing requirements, and occasional redactions illustrate the interpretive effort required to reconstruct the full documentation trail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/pdf/T1206-PBB-Microfilm-index.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">T1206 PBB Microfilm index</span><span class="citation-popover-snippet">Minot AFB UFO CasePublication Number: T1206...</span></span></span>
-
-Together, these archival mechanisms ensure that the Montgomery 1948 sighting — while not famous for dramatic revelations — remains part of the preserved record of Alabama’s UFO history and open to scrutiny through official records rather than oral tradition alone.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tjsKXhQeez4" title="Project Blue Book: Declassified – The True Story of the Chiles-Whitted Incident | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tjsKXhQeez4" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of the Chiles-Whitted Incident | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 29.2K &middot; Uploaded: February 2019 &middot; Length: 2 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tjsKXhQeez4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tjsKXhQeez4">Open on YouTube</a></p></div></div></div>
 
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Do Records Show Proof of UFOs? | National Archives  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/textual-and-microfilm](https://www.archives.gov/research/topics/uaps/textual-and-microfilm)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and Unidentified Anomalous Phenomena (UAPs) at the National Archiv...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/news/topics/ufos](https://www.archives.gov/news/topics/ufos)  
+   Link: <a href="https://www.archives.gov/news/topics/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/topics/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>hivesApril 24, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED ANOMALOUS PHENOMENA (UAPS) AT THE NATIONAL A...</p></details>
    Published: April 24, 2025  
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download](https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download)  
+   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 24, 2025 — BULK DOWNLOADS FOR RECORDS RELATED TO UNIDENTIFIED ANOMALOUS PHENOMENA (UAPS) Digitized and born-digital records related...</p></details>
    Published: April 24, 2025  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: Please update your links and bookmarks. C  
-   Link: [https://www.archives.gov/foia/ufos.html](https://www.archives.gov/foia/ufos.html)  
+   Link: <a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project BLUE BOOK - Unidentified Flying Objects | National ArchivesAugust 15, 2016 — PROJECT BLUE BOOK - UNIDENTIFIED FLYING OBJECTS THIS...</p></details>
    Published: August 15, 2016  
 
 6. <a id="endnote-6"></a>
    Source: wyominghistoryday.org  
    Title: sighting unidentified flying object 21 august 1948 montgomery  
-   Link: [https://www.wyominghistoryday.org/theme-topics/collections/items/sighting-unidentified-flying-object-21-august-1948-montgomery](https://www.wyominghistoryday.org/theme-topics/collections/items/sighting-unidentified-flying-object-21-august-1948-montgomery)  
+   Link: <a href="https://www.wyominghistoryday.org/theme-topics/collections/items/sighting-unidentified-flying-object-21-august-1948-montgomery" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/theme-topics/collections/items/sighting-unidentified-flying-object-21-august-1948-montgomery</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wyoming History DaySighting of Unidentified Flying Object on 21 August 1948 at Montgomery, Alabama | Wyoming History DayAugust 21, 1948...</p></details>
    Published: august 1948  
 
 7. <a id="endnote-7"></a>
    Source: minotb52ufo.com  
    Title: T1206 PBB Microfilm index  
-   Link: [https://minotb52ufo.com/pdf/T1206-PBB-Microfilm-index.pdf](https://minotb52ufo.com/pdf/T1206-PBB-Microfilm-index.pdf)  
+   Link: <a href="https://minotb52ufo.com/pdf/T1206-PBB-Microfilm-index.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/pdf/T1206-PBB-Microfilm-index.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Minot AFB UFO CasePublication Number: T1206...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: theprojectbluebookarchive.org  
    Title: Project Blue Book Archive The Project Blue Book Archive  
-   Link: [https://www.theprojectbluebookarchive.org/](https://www.theprojectbluebookarchive.org/)  
+   Link: <a href="https://www.theprojectbluebookarchive.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.theprojectbluebookarchive.org/</a>  
 
 9. <a id="endnote-9"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: [https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/](https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/)  
+   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-national-archives/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In so doing, I’m going to reveal what I believe to be the ten most important, or significant, documents and groups of documents that have...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
    Title: UF O reports  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ministry of Defence has kept records of them since the 1960s, which we now hold. Most o...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: wyominghistoryday.org  
    Title: air intelligence information report unidentified flying object  
-   Link: [https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/air-intelligence-information-report-unidentified-flying-object](https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/air-intelligence-information-report-unidentified-flying-object)  
+   Link: <a href="https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/air-intelligence-information-report-unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/air-intelligence-information-report-unidentified-flying-object</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Intelligence Information Report of Unidentified Flying Object in Alabama, Georgia, and Virginia in July 1948 | Wyoming History DayAIR...</p></details>
    Published: July 1948  
 
 13. <a id="endnote-13"></a>
    Source: wyominghistoryday.org  
    Title: Richard F  
-   Link: [https://www.wyominghistoryday.org/theme-topics/collections/richard-f-haines](https://www.wyominghistoryday.org/theme-topics/collections/richard-f-haines)  
+   Link: <a href="https://www.wyominghistoryday.org/theme-topics/collections/richard-f-haines" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/theme-topics/collections/richard-f-haines</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Haines | Wyoming History DayAIR INTELLIGENCE INFORMATION REPORT OF UNIDENTIFIED FLYING OBJECT IN ALABAMA, GEORGIA, AND VIRGINIA IN JULY 1...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: bluebookfiles.org  
    Title: Text ha  
-   Link: [https://bluebookfiles.org/doc/17637](https://bluebookfiles.org/doc/17637)  
+   Link: <a href="https://bluebookfiles.org/doc/17637" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/17637</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Archive — Declassified UFO Documents 1947-1969PROJECT BLUE BOOK ARCHIVE — Declassified UFO Documents &amp; Records Search M...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: bluebookfiles.org  
    Title: Text ha  
-   Link: [https://bluebookfiles.org/doc/11473](https://bluebookfiles.org/doc/11473)  
+   Link: <a href="https://bluebookfiles.org/doc/11473" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/11473</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Archive — Declassified UFO Documents 1947-1969PROJECT BLUE BOOK ARCHIVE — Declassified UFO Documents &amp; Records Search M...</p></details>
 
 ### Additional References
@@ -820,39 +789,39 @@ Together, these archival mechanisms ensure that the Montgomery 1948 sighting —
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified  
-   Link: [https://www.youtube.com/watch?v=UKzI3uu_oTQ](https://www.youtube.com/watch?v=UKzI3uu_oTQ)  
+   Link: <a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UKzI3uu_oTQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book 1948 UFO files National Archives Project Blue Book: Declassified – The True Story of the Chiles-Whitted Incident | Hist...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theblackvault.com  
    Title: Project Blue Book: The Chiles-Whitted UFO Encounter,  
-   Link: [https://www.theblackvault.com/documentarchive/project-blue-book-the-chiles-whitted-ufo-encounter-july-24-1948-montgomery-alabama/](https://www.theblackvault.com/documentarchive/project-blue-book-the-chiles-whitted-ufo-encounter-july-24-1948-montgomery-alabama/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/project-blue-book-the-chiles-whitted-ufo-encounter-july-24-1948-montgomery-alabama/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/project-blue-book-the-chiles-whitted-ufo-encounter-july-24-1948-montgomery-alabama/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 24, 1948, Montgomery, Alabama - The Black VaultMay 15, 2023 — PROJECT BLUE BOOK: THE CHILES-WHITTED UFO ENCOUNTER, JULY 24, 1948, MO...</p></details>
    Published: July 24, 1948  
 
 18. <a id="endnote-18"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/bludet.htm](https://ufologie.patrickgross.org/htm/bludet.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/bludet.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bludet.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Project Blue Book archive contentPROJECT BLUE BOOK: RG 341.15 RECORDS OF PROJECT BLUE BOOK 1947-1969: BRIEF HISTORIC...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=tjsKXhQeez4](https://www.youtube.com/watch?v=tjsKXhQeez4)  
+   Link: <a href="https://www.youtube.com/watch?v=tjsKXhQeez4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tjsKXhQeez4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Ep. 6: Blue Book: The Rise | Ruppelt, Battelle, and the Washington UFO Wave of 1952...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=xBytbIzJMiU](https://www.youtube.com/watch?v=xBytbIzJMiU)  
+   Link: <a href="https://www.youtube.com/watch?v=xBytbIzJMiU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xBytbIzJMiU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 The Document They Didn&#x27;t Want You to See (Project Blue Book)...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Document They Didn't Want You to See (Project Blue Book)  
-   Link: [https://www.youtube.com/watch?v=KTqkFNF_tYo](https://www.youtube.com/watch?v=KTqkFNF_tYo)  
+   Link: <a href="https://www.youtube.com/watch?v=KTqkFNF_tYo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KTqkFNF_tYo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: UFO Project Blue Book at National Archives Museum  
-   Link: [https://www.youtube.com/watch?v=JHeZjJgO9Ns](https://www.youtube.com/watch?v=JHeZjJgO9Ns)  
+   Link: <a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JHeZjJgO9Ns</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Project Blue Book: Declassified – The True Story of the Chiles-Whitted Incident | History...</p></details>

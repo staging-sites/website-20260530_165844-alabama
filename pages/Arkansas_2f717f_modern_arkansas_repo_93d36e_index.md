@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /arkansas-2f717f-modern-arkansas-repo/
 description: Focused pages that expand on Modern Reports.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Arkansas_2f717f_modern_arkansas_repo_93d36e
-parent_title: Modern Reports | What Really Happened in Arkansas Skies?
+parent_title: Modern Reports
 parent_nav_short_title: Modern Reports
 parent_permalink: /modern-reports/
 ---

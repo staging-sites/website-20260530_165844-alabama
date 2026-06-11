@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /air-force-era/
 nav_short_title: Swigert Disc
 title: Did Indianapolis Witnesses Misjudge the Famous 1948 Disc?
-title_full: Did Indianapolis Witnesses Misjudge the Famous 1948 Disc? | Air Force Era
+title_full: Did Indianapolis Witnesses Misjudge the Famous 1948 Disc?
 display_title_short: Swigert Disc
 display_title: Swigert Disc
 heading_title: Did Indianapolis Witnesses Misjudge the Famous 1948 Disc?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:23:06'
-parent_title: How Indiana’s First UFO Reports Were Documented by the Air Force | Indiana UFOs
+parent_title: How Indiana’s First UFO Reports Were Documented by the Air Force
 parent_permalink: /air-force-era/
 parent_nav_short_title: Air Force Era
 parent_heading_title: How Indiana’s First UFO Reports Were Documented by the Air Force
@@ -250,10 +250,9 @@ image: /assets/images/Indiana_5d00be_air_force_era_3bb5af_swigert_disc_limits_ca
 
 ## Introduction
 
-The Vernon Swigert sighting of 31 July 1948 became one of [Indiana]({{ 'what-makes-indianas-ufo-history-unique/' | relative_url }})’s best-known early UFO cases because it sat in an awkward middle ground: detailed enough to survive in [Air Force]({{ 'air-force-era/' | relative_url }})-era “unknown” catalogues, but too brief and subjective to prove what the witnesses actually saw. Unlike reports that were quickly dismissed as balloons or planets, the Indianapolis case lingered because the witnesses gave a vivid daylight description of a disc-like object moving across the city at apparent high speed. Yet almost every dramatic feature of the report depended on human estimates of distance, size and velocity made in a matter of seconds. That tension is what keeps the case interesting within Indiana UFO history. The sighting illustrates both why some early “flying saucer” reports impressed investigators and why eyewitness observations alone often failed to settle the mystery. Internet Archive <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/bluebooku48.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">and Mrs. Vernon Swigert, he was an electrician. Object was shaped like a cymbal, or domed disc, about 20&#x27; across and 6-...Read more...</span></span></span>
+The Vernon Swigert sighting of 31 July 1948 became one of Indiana’s best-known early UFO cases because it sat in an awkward middle ground: detailed enough to survive in Air Force-era “unknown” catalogues, but too brief and subjective to prove what the witnesses actually saw. Unlike reports that were quickly dismissed as balloons or planets, the Indianapolis case lingered because the witnesses gave a vivid daylight description of a disc-like object moving across the city at apparent high speed. Yet almost every dramatic feature of the report depended on human estimates of distance, size and velocity made in a matter of seconds. That tension is what keeps the case interesting within Indiana UFO history. The sighting illustrates both why some early “flying saucer” reports impressed investigators and why eyewitness observations alone often failed to settle the mystery. Internet Archive <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/bluebooku48.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">and Mrs. Vernon Swigert, he was an electrician. Object was shaped like a cymbal, or domed disc, about 20&#x27; across and 6-...Read more...</span></span></span>
 
-
-<img src="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_swigert_disc_limits_ca709d-Illustration-1-light.svg" | relative_url }}" alt="Swigert Disc illustration 1" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_swigert_disc_limits_ca709d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_swigert_disc_limits_ca709d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_swigert_disc_limits_ca709d-Illustration-1-dark.svg" | relative_url }}" alt="Swigert Disc illustration 1" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_swigert_disc_limits_ca709d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_swigert_disc_limits_ca709d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Swigerts reported over Indianapolis
 
 According to later Air Force-derived catalogues, Vernon Swigert and his wife saw the object at about 8:25 in the morning over south-central Indianapolis. Swigert, described in several summaries as an electrician, reportedly first noticed the object through a west-facing window before following it across the sky toward the east. The object was described as white, disc-like or “cymbal shaped”, roughly 20 feet wide and 6 to 8 feet thick, with a domed appearance. The witnesses said it appeared to shimmer in sunlight as if rotating. No sound, exhaust trail or obvious wings were reported. UAP Archive 3Internet Archive <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/Cases/CaseView.asp?section=1940s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[UFO Evidence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-title">Case View.asp</span><span class="citation-popover-snippet">July, 31, 1948 - Indianapolis, Indiana, United States. Vernon Swigert, an electrician, was...Read more...</span></span></span>
@@ -272,7 +271,6 @@ Later catalogues commonly repeated that the object travelled about five miles in
 
 But those numbers rested on assumptions rather than measured data.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/diPXow8zgc8" title="How scientists use math to help explain UFO videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer">How scientists use math to help explain UFO videos</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 11.7K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=diPXow8zgc8">Open on YouTube</a></p></div></div></div>
 
 ### The distance problem
@@ -280,7 +278,6 @@ But those numbers rested on assumptions rather than measured data.
 Eyewitnesses observing an unfamiliar airborne object usually have no reliable reference point for range. A small nearby object can appear similar to a much larger distant one. In the Swigert case, the estimate that the object was around 20 feet across depended entirely on the assumption that the witnesses correctly judged how far away it was.
 
 If the object was actually much closer than believed, it may also have been much smaller and slower. If it was farther away, the opposite applies. The calculation chain is fragile:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -292,7 +289,7 @@ If the object was actually much closer than believed, it may also have been much
 
 A mistake in the first estimate multiplies through all the others.
 
-This was a recurring weakness in early Air Force UFO files. Project Blue Book and its predecessor studies often relied on witnesses who sincerely described unusual objects but had little way to judge altitude or velocity accurately. The Battelle Memorial Institute’s statistical work for Project Blue Book Special Report No. 14 repeatedly noted uneven data quality and the difficulty of drawing hard conclusions from visual reports alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/49680297/Project_Blue_Book_Special_Report_14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Project Blue Book Special Report 14</span><span class="citation-popover-snippet">AcademiaProject Blue Book Special Report 14Project Blue Book Special Report No. 14: Analysis of Reports of Unidentified Aerial Objects, 5...</span></span></span>
+This was a recurring weakness in early Air Force UFO files. Project Blue Book and its predecessor studies often relied on witnesses who sincerely described unusual objects but had little way to judge altitude or velocity accurately. The Battelle Memorial Institute’s statistical work for Project Blue Book Special Report No. 14 repeatedly noted uneven data quality and the difficulty of drawing hard conclusions from visual reports alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/49680297/Project_Blue_Book_Special_Report_14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Project Blue Book Special Report 14</span><span class="citation-popover-snippet">Project Blue Book Special Report 14Project Blue Book Special Report No. 14: Analysis of Reports of Unidentified Aerial Objects, 5...</span></span></span>
 
 ### The “horizon to horizon” effect
 
@@ -302,12 +299,10 @@ Some later catalogues themselves hint at uncertainty by adding question marks be
 
 That uncertainty matters because the spectacular speed estimate is one of the main reasons the case survived as a UFO “unknown”. Remove confidence in the range estimate and the performance becomes far less extraordinary.
 
-
-<img src="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_swigert_disc_limits_ca709d-Illustration-2-light.svg" | relative_url }}" alt="Swigert Disc illustration 2" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_swigert_disc_limits_ca709d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_swigert_disc_limits_ca709d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_swigert_disc_limits_ca709d-Illustration-2-dark.svg" | relative_url }}" alt="Swigert Disc illustration 2" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_swigert_disc_limits_ca709d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_swigert_disc_limits_ca709d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why daylight cases still impressed investigators
 
 Even with those limitations, the Swigert case stood out more than many reports from the same era because it was:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -320,23 +315,21 @@ Even with those limitations, the Swigert case stood out more than many reports f
 
 That did not make it strong proof of an unconventional craft. It simply made it difficult to classify confidently.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XORIWLgEVwE" title="Dr. Phil&#x27;s Eyewitness Experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XORIWLgEVwE" target="_blank" rel="noopener noreferrer">Dr. Phil&#x27;s Eyewitness Experiment</a></p><p class="youtube-embed-meta">Channel: Dr. Phil &middot; Views: 102.1K &middot; Uploaded: February 2010 &middot; Length: 1 minute 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XORIWLgEVwE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XORIWLgEVwE">Open on YouTube</a></p></div></div></div>
 
 ## Why the case stayed unresolved in later UFO catalogues
 
 The Swigert sighting survived in later UFO literature because it fell into the category of “insufficiently explained” rather than “well evidenced”.
 
-Compilations based on Project Blue Book records and later UFO catalogues repeatedly preserved the Indianapolis report as an unresolved case. Researchers such as Brad Sparks and later UFO reference sites continued listing it among early “unknowns”. Internet Archive <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/bluebooku48.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">and Mrs. Vernon Swigert, he was an electrician. Object was shaped like a cymbal, or domed disc, about 20&#x27; across and 6-...Read more...</span></span></span> Part of the reason is historical timing. The sighting happened during the first great American“flying saucer” period, only a year after Kenneth Arnold’s famous 1947 report and during the formative era of Project Sign, the Air Force effort that preceded Project Grudge and Project Blue Book. Investigators were still deciding how to classify these incidents and had not yet developed consistent procedures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span> Academia Another reason is that no decisive conventional explanation was ever attached to the case in surviving public records. Some UFO reports were <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/49680297/Project_Blue_Book_Special_Report_14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Project Blue Book Special Report 14</span><span class="citation-popover-snippet">AcademiaProject Blue Book Special Report 14Project Blue Book Special Report No. 14: Analysis of Reports of Unidentified Aerial Objects, 5...</span></span></span> later attributed to balloons, meteors, planets or aircraft. The Swigert report remained more ambiguous because the description did not neatly fit any single known object.
+Compilations based on Project Blue Book records and later UFO catalogues repeatedly preserved the Indianapolis report as an unresolved case. Researchers such as Brad Sparks and later UFO reference sites continued listing it among early “unknowns”. Internet Archive <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/bluebooku48.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">and Mrs. Vernon Swigert, he was an electrician. Object was shaped like a cymbal, or domed disc, about 20&#x27; across and 6-...Read more...</span></span></span> Part of the reason is historical timing. The sighting happened during the first great American“flying saucer” period, only a year after Kenneth Arnold’s famous 1947 report and during the formative era of Project Sign, the Air Force effort that preceded Project Grudge and Project Blue Book. Investigators were still deciding how to classify these incidents and had not yet developed consistent procedures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span> Academia Another reason is that no decisive conventional explanation was ever attached to the case in surviving public records. Some UFO reports were <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/49680297/Project_Blue_Book_Special_Report_14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Project Blue Book Special Report 14</span><span class="citation-popover-snippet">Project Blue Book Special Report 14Project Blue Book Special Report No. 14: Analysis of Reports of Unidentified Aerial Objects, 5...</span></span></span> later attributed to balloons, meteors, planets or aircraft. The Swigert report remained more ambiguous because the description did not neatly fit any single known object.
 
 Yet unresolved does not mean persuasive in a scientific sense.
 
 The evidence remained weak in several important ways:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* The sighting lasted only seconds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/472013594/Blue-Book-Unknowns" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Blue Book Unknowns | PDFSighting lasted a few seconds</span><span class="citation-popover-snippet">July 31, 1948; Indianapolis, Indiana. 5 a.m. Witnesses: Mr. and Mrs. Vernon Swigert; he was an electrician. Object was shaped...</span><span class="citation-popover-meta">Published: July 31, 1948</span></span></span>
+* The sighting lasted only seconds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/472013594/Blue-Book-Unknowns" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Blue Book Unknowns &#124; PDFSighting lasted a few seconds</span><span class="citation-popover-snippet">July 31, 1948; Indianapolis, Indiana. 5 a.m. Witnesses: Mr. and Mrs. Vernon Swigert; he was an electrician. Object was shaped...</span><span class="citation-popover-meta">Published: July 31, 1948</span></span></span>
 * There were no photographs.
 * There was no physical trace.
 * There were no instrument readings.
@@ -347,7 +340,6 @@ The evidence remained weak in several important ways:
 
 This pattern was common in early UFO history. Cases survived not because they proved extraordinary technology, but because available information was too limited for investigators to close them confidently either way.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ChgPk2OiZCw" title="How Reliable is Eyewitness Testimony?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ChgPk2OiZCw" target="_blank" rel="noopener noreferrer">How Reliable is Eyewitness Testimony?</a></p><p class="youtube-embed-meta">Channel: National Science Foundation News &middot; Views: 173.2K &middot; Uploaded: July 2015 &middot; Length: 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ChgPk2OiZCw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ChgPk2OiZCw">Open on YouTube</a></p></div></div></div>
 
 ## What the Swigert case reveals about early Indiana UFO reports
@@ -355,7 +347,6 @@ This pattern was common in early UFO history. Cases survived not because they pr
 The Indianapolis sighting is important less as evidence of a craft and more as evidence of how UFO narratives formed in the late 1940s.
 
 Indiana’s early Air Force-era reports often shared several traits:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -373,8 +364,7 @@ At the same time, the sighting also shows why some early reports resisted easy d
 
 For historians of UFO culture and Air Force investigations, the Swigert sighting is therefore valuable not because it conclusively documented an unknown machine, but because it captures the central dilemma of the early saucer era: sincere testimony could produce compelling stories while still leaving investigators with almost nothing measurable to test.
 
-
-<img src="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_swigert_disc_limits_ca709d-Illustration-3-light.svg" | relative_url }}" alt="Swigert Disc illustration 3" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_swigert_disc_limits_ca709d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_swigert_disc_limits_ca709d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_swigert_disc_limits_ca709d-Illustration-3-dark.svg" | relative_url }}" alt="Swigert Disc illustration 3" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_swigert_disc_limits_ca709d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_air_force_era_3bb5af_swigert_disc_limits_ca709d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -462,7 +452,7 @@ For historians of UFO culture and Air Force investigations, the Swigert sighting
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -472,111 +462,36 @@ For historians of UFO culture and Air Force investigations, the Swigert sighting
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -584,15 +499,15 @@ For historians of UFO culture and Air Force investigations, the Swigert sighting
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -600,15 +515,15 @@ For historians of UFO culture and Air Force investigations, the Swigert sighting
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -616,15 +531,15 @@ For historians of UFO culture and Air Force investigations, the Swigert sighting
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -632,7 +547,7 @@ For historians of UFO culture and Air Force investigations, the Swigert sighting
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=swigert-disc-did-indianapolis-witnesses-misjudge-the-famous-1948-disc-indiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-indianapolis-witnesses-misjudge-the-famous-1948-disc-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -709,17 +624,31 @@ For historians of UFO culture and Air Force investigations, the Swigert sighting
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -732,42 +661,73 @@ For historians of UFO culture and Air Force investigations, the Swigert sighting
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -782,12 +742,17 @@ For historians of UFO culture and Air Force investigations, the Swigert sighting
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -798,111 +763,111 @@ For historians of UFO culture and Air Force investigations, the Swigert sighting
 1. <a id="endnote-1"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>S central Indianapolis, Indiana. 8:25 a.m.. Mr. and Mrs. Vernon Swigert saw a cymbal-shaped or domed disc object or...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: academia.edu  
    Title: Project Blue Book Special Report 14  
-   Link: [https://www.academia.edu/49680297/Project_Blue_Book_Special_Report_14](https://www.academia.edu/49680297/Project_Blue_Book_Special_Report_14)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaProject Blue Book Special Report 14Project Blue Book Special Report No. 14: Analysis of Reports of Unidentified Aerial Objects, 5...</p></details>
+   Link: <a href="https://www.academia.edu/49680297/Project_Blue_Book_Special_Report_14" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/49680297/Project_Blue_Book_Special_Report_14</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Special Report 14Project Blue Book Special Report No. 14: Analysis of Reports of Unidentified Aerial Objects, 5...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 4. <a id="endnote-4"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt](https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt)  
+   Link: <a href="https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>K^ &#x27;CD O Co ro CO 1 &gt; ^ SPECIAL REPORT NO. 14 ANALYSIS OF REPORTS OF UNIDENTIFIED AERIAL OBJECTS PROJECT NO...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: academia.edu  
    Title: UF Os and Intelligence: A Timeline  
-   Link: [https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart](https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart)  
+   Link: <a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>By George M. EberhartThis timeline covers the full spectrum of UFO history, from contactee experiences to misidentifications of mundane p...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/bluebooku48.htm](https://ufologie.patrickgross.org/htm/bluebooku48.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/bluebooku48.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluebooku48.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Mrs. Vernon Swigert, he was an electrician. Object was shaped like a cymbal, or domed disc, about 20&#x27; across and 6-...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ufoevidence.org  
    Title: Case View.asp  
-   Link: [https://www.ufoevidence.org/Cases/CaseView.asp?section=1940s](https://www.ufoevidence.org/Cases/CaseView.asp?section=1940s)  
+   Link: <a href="https://www.ufoevidence.org/Cases/CaseView.asp?section=1940s" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/Cases/CaseView.asp?section=1940s</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>July, 31, 1948 - Indianapolis, Indiana, United States. Vernon Swigert, an electrician, was...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: newspapers.library.in.gov  
-   Link: [https://newspapers.library.in.gov/?a=d&d=IPT19480731.1.2](https://newspapers.library.in.gov/?a=d&d=IPT19480731.1.2)  
+   Link: <a href="https://newspapers.library.in.gov/?a=d&amp;d=IPT19480731.1.2" target="_blank" rel="noopener noreferrer nofollow">https://newspapers.library.in.gov/?a=d&amp;d=IPT19480731.1.2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>S. Side Couple Sights Disc Winging Eastward THOSE FLYING discs are. back. Vernon Swigert, 2020 Boyd Ave, glanced out of his...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: scribd.com  
    Title: Blue Book Unknowns | PDFSighting lasted a few seconds  
-   Link: [https://www.scribd.com/document/472013594/Blue-Book-Unknowns](https://www.scribd.com/document/472013594/Blue-Book-Unknowns)  
+   Link: <a href="https://www.scribd.com/document/472013594/Blue-Book-Unknowns" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/472013594/Blue-Book-Unknowns</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 31, 1948; Indianapolis, Indiana. 5 a.m. Witnesses: Mr. and Mrs. Vernon Swigert; he was an electrician. Object was shaped...</p></details>
    Published: July 31, 1948  
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/static/history/rg_finding_aids/rg_3_social_may2020.xlsx](https://www.nasa.gov/wp-content/uploads/static/history/rg_finding_aids/rg_3_social_may2020.xlsx)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/static/history/rg_finding_aids/rg_3_social_may2020.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/static/history/rg_finding_aids/rg_3_social_may2020.xlsx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RG 3 SocialIncludes NACA Research Memorandum L52H08: &quot;A Study of the Zero- lift Drag-Rise Characteristics of Wing-Body Combinations Near...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsProduced by The Blue Book Archive. THE REPORT ON UNIDENTIFIED FLYING OBJECTS. BY EDWARD J. RUPPE...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sohp.us  
-   Link: [https://sohp.us/collections/ufos-a-history/pdf/GROSS-1948-SN.pdf](https://sohp.us/collections/ufos-a-history/pdf/GROSS-1948-SN.pdf)  
+   Link: <a href="https://sohp.us/collections/ufos-a-history/pdf/GROSS-1948-SN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sohp.us/collections/ufos-a-history/pdf/GROSS-1948-SN.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: A HistoryFournet, the Air Force&#x27;s Project Monitor for BLUE BOOK. When he took over his UFO project monitor job at the Pentagon in 1...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: history.navy.mil  
-   Link: [https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/c/casualties-usnavy-marinecorps-personnel-killed-injured-selected-accidents-other-incidents-notdirectly-result-enemy-action.html](https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/c/casualties-usnavy-marinecorps-personnel-killed-injured-selected-accidents-other-incidents-notdirectly-result-enemy-action.html)  
+   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/c/casualties-usnavy-marinecorps-personnel-killed-injured-selected-accidents-other-incidents-notdirectly-result-enemy-action.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/c/casualties-usnavy-marinecorps-personnel-killed-injured-selected-accidents-other-incidents-notdirectly-result-enemy-action.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>navy.milCasualties: US Navy and Marine Corps Personnel Killed and...Loss of USS Indianapolis (CA-35) · The Navy&#x27;s Humanitarian Mission ·...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/doc/275519727/Alfred-Loedding-The-Great-Flying-Saucer-Wave-of-1947-Michael-D-Connors-Wendy-A-Hall-pdf](https://www.scribd.com/doc/275519727/Alfred-Loedding-The-Great-Flying-Saucer-Wave-of-1947-Michael-D-Connors-Wendy-A-Hall-pdf)  
+   Link: <a href="https://www.scribd.com/doc/275519727/Alfred-Loedding-The-Great-Flying-Saucer-Wave-of-1947-Michael-D-Connors-Wendy-A-Hall-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/275519727/Alfred-Loedding-The-Great-Flying-Saucer-Wave-of-1947-Michael-D-Connors-Wendy-A-Hall-pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alfred Loedding and the 1947 UFO Wave | PDFWhen UFOs first appeared in numbers during the great flying saucer wave of 1947, few people ma...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: just as you thought the ufo sighting in 1959 was creepy listen to this ufo sight  
-   Link: [https://www.facebook.com/434ARW/posts/just-as-you-thought-the-ufo-sighting-in-1959-was-creepy-listen-to-this-ufo-sight/5072081509475214/](https://www.facebook.com/434ARW/posts/just-as-you-thought-the-ufo-sighting-in-1959-was-creepy-listen-to-this-ufo-sight/5072081509475214/)  
+   Link: <a href="https://www.facebook.com/434ARW/posts/just-as-you-thought-the-ufo-sighting-in-1959-was-creepy-listen-to-this-ufo-sight/5072081509475214/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/434ARW/posts/just-as-you-thought-the-ufo-sighting-in-1959-was-creepy-listen-to-this-ufo-sight/5072081509475214/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Unknowns&quot;: July 31, 1948. S central Indianapolis, Indiana. 8:25 a. m. Mr. and Mrs. Vernon Swigert saw a cymbal shaped o...</p></details>
    Published: July 31, 1948  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KMPHFOX26/posts/in-a-military-intelligence-memo-titled-investigation-of-flying-disc-from-march-1/1009856261388236/](https://www.facebook.com/KMPHFOX26/posts/in-a-military-intelligence-memo-titled-investigation-of-flying-disc-from-march-1/1009856261388236/)  
+   Link: <a href="https://www.facebook.com/KMPHFOX26/posts/in-a-military-intelligence-memo-titled-investigation-of-flying-disc-from-march-1/1009856261388236/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KMPHFOX26/posts/in-a-military-intelligence-memo-titled-investigation-of-flying-disc-from-march-1/1009856261388236/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Further sightings at 2, 4:30, 5 p.m.] Patterson, Lissy and Ellis were pilots. (Sparks; Hynek UFO...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/STLPD/posts/noiseless-flying-disc-was-first-reported-locally-by-two-men-at-a-july-4-picnic-n/10159660002014885/](https://www.facebook.com/STLPD/posts/noiseless-flying-disc-was-first-reported-locally-by-two-men-at-a-july-4-picnic-n/10159660002014885/)  
+   Link: <a href="https://www.facebook.com/STLPD/posts/noiseless-flying-disc-was-first-reported-locally-by-two-men-at-a-july-4-picnic-n/10159660002014885/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/STLPD/posts/noiseless-flying-disc-was-first-reported-locally-by-two-men-at-a-july-4-picnic-n/10159660002014885/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 31, 1948. S central Indianapolis, Indiana. 8:25 a. m. Mr. and Mrs. Vernon Swigert saw a cymbal shaped or domed disc object or rounde...</p></details>
    Published: July 31, 1948  
 
 19. <a id="endnote-19"></a>
    Source: nla.gov.au  
-   Link: [https://nla.gov.au/nla.cat-vn732445](https://nla.gov.au/nla.cat-vn732445)  
+   Link: <a href="https://nla.gov.au/nla.cat-vn732445" target="_blank" rel="noopener noreferrer nofollow">https://nla.gov.au/nla.cat-vn732445</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>14; Subject: Unidentified flying objects; Copyright: · You may copy under some...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: si.edu  
-   Link: [https://www.si.edu/object/siris_sil_259088](https://www.si.edu/object/siris_sil_259088)  
+   Link: <a href="https://www.si.edu/object/siris_sil_259088" target="_blank" rel="noopener noreferrer nofollow">https://www.si.edu/object/siris_sil_259088</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Institutionan analysis of the Air Force project blue book special report...Flying saucers: an analysis of the Air Force pro...</p></details>

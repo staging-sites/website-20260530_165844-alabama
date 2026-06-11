@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /condon-report/
 nav_short_title: Low Memo
 title: Did the Colorado UFO study start with a verdict?
-title_full: Did the Colorado UFO study start with a verdict? | Condon Report
+title_full: Did the Colorado UFO study start with a verdict?
 display_title_short: Low Memo
 display_title: Low Memo
 heading_title: Did the Colorado UFO study start with a verdict?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:05:46'
-parent_title: Did Colorado End Project Blue Book? | Colorado UFOs
+parent_title: Did Colorado End Project Blue Book?
 parent_permalink: /condon-report/
 parent_nav_short_title: Condon Report
 parent_heading_title: Did Colorado End Project Blue Book?
@@ -252,26 +252,24 @@ image: /assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5_robert_low_mem
 
 The most damaging accusation against the University of [Colorado]({{ 'what-really-happened-in-colorados-ufo/' | relative_url }}) UFO study was not about a particular sighting or scientific mistake. It centred on a leaked internal document written before the investigation had properly begun. Known as the Robert Low memo, the document appeared to suggest that the project could present itself publicly as objective while privately expecting to disprove UFO claims from the outset. For critics of the later [Condon Report]({{ 'condon-report/' | relative_url }}), the memo became evidence that the study was biased before any fieldwork was completed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
 
-
-<img src="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5_robert_low_memo_bias_3c3990-Illustration-1-light.svg" | relative_url }}" alt="Low Memo illustration 1" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5_robert_low_memo_bias_3c3990-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5_robert_low_memo_bias_3c3990-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5_robert_low_memo_bias_3c3990-Illustration-1-dark.svg" | relative_url }}" alt="Low Memo illustration 1" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5_robert_low_memo_bias_3c3990-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5_robert_low_memo_bias_3c3990-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The controversy mattered far beyond one university dispute in Boulder. The Air Force relied heavily on the Condon Report when it closed Project Blue Book in 1969, effectively ending the US government’s main public UFO investigation programme. If the Colorado study had been compromised from the start, critics argued, then one of the most important official decisions in American UFO history rested on questionable foundations. Supporters of the project answered that the memo was embarrassing but did not invalidate the actual case investigations or the report’s overall conclusions. That disagreement has continued for decades.
 
 ## What the Robert Low memo actually said
 
-Robert J. Low was the University of Colorado administrator who helped organise the UFO study before physicist Edward Condon formally took charge. On 9 August 1966, months before the investigation became fully operational, Low wrote an internal memorandum discussing whether the university should accept the Air Force contract. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/660809lowmemo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Robert Low &quot;trick&quot; memo</span><span class="citation-popover-snippet">NICAPRobert Low &quot;trick&quot; memoAugust 9, 1966. MEMO TO: E. James Archer and Thurston E. Manning. FROM: Robert J. Low. SUBJECT: Some Thoughts...</span><span class="citation-popover-meta">Published: August 9, 1966</span></span></span>
+Robert J. Low was the University of Colorado administrator who helped organise the UFO study before physicist Edward Condon formally took charge. On 9 August 1966, months before the investigation became fully operational, Low wrote an internal memorandum discussing whether the university should accept the Air Force contract. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/660809lowmemo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Robert Low &quot;trick&quot; memo</span><span class="citation-popover-snippet">Robert Low &quot;trick&quot; memoAugust 9, 1966. MEMO TO: E. James Archer and Thurston E. Manning. FROM: Robert J. Low. SUBJECT: Some Thoughts...</span><span class="citation-popover-meta">Published: August 9, 1966</span></span></span>
 
 The memo became notorious because of one passage in particular. Low suggested that the study could probably be run by people who were largely sceptical of UFO claims while still appearing objective to the public. He wrote that the “trick” would be to present the project as an impartial scientific inquiry while the researchers themselves had “almost zero expectation” of finding evidence for flying saucers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
 
 That wording became central to later accusations of bad faith. Critics argued that the memo implied the conclusion had effectively been chosen before the investigation started. The phrase “the trick would be” was especially damaging because it sounded less like scientific caution and more like a public-relations strategy.
 
-However, the full memo was more complicated than the famous quotation often suggested. Low was mainly trying to reassure cautious university administrators who worried that studying UFOs could damage Colorado’s academic reputation. The memo described resistance from faculty members who considered the subject unserious or scientifically risky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/660809lowmemo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Robert Low &quot;trick&quot; memo</span><span class="citation-popover-snippet">NICAPRobert Low &quot;trick&quot; memoAugust 9, 1966. MEMO TO: E. James Archer and Thurston E. Manning. FROM: Robert J. Low. SUBJECT: Some Thoughts...</span><span class="citation-popover-meta">Published: August 9, 1966</span></span></span>
+However, the full memo was more complicated than the famous quotation often suggested. Low was mainly trying to reassure cautious university administrators who worried that studying UFOs could damage Colorado’s academic reputation. The memo described resistance from faculty members who considered the subject unserious or scientifically risky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/docs/660809lowmemo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Robert Low &quot;trick&quot; memo</span><span class="citation-popover-snippet">Robert Low &quot;trick&quot; memoAugust 9, 1966. MEMO TO: E. James Archer and Thurston E. Manning. FROM: Robert J. Low. SUBJECT: Some Thoughts...</span><span class="citation-popover-meta">Published: August 9, 1966</span></span></span>
 
 In that sense, the document reflected a real tension inside the university. By the mid-1960s, UFOs carried strong associations with sensational media coverage, contactee stories, and fringe claims. Many scientists feared ridicule if they became publicly linked to the subject. Low’s memo attempted to frame the project as a sober scientific exercise rather than an endorsement of extraterrestrial visitors.
 
 Even so, the language was unusually blunt. It suggested that at least some senior organisers believed the most likely outcome would be negative before the investigation had examined the strongest cases.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_W7SqS6UhE4" title="The Condon Report | NASA&#x27;s Unexplained Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_W7SqS6UhE4" target="_blank" rel="noopener noreferrer">The Condon Report | NASA&#x27;s Unexplained Files</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 17.4K &middot; Uploaded: April 2012 &middot; Length: 1 minute 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_W7SqS6UhE4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_W7SqS6UhE4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZsP8-2qpAOQ" title="The UFO Question: How One Mystery Went From Fringe Story to Global Issue" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZsP8-2qpAOQ" target="_blank" rel="noopener noreferrer">The UFO Question: How One Mystery Went From Fringe Story to Global Issue</a></p><p class="youtube-embed-meta">Channel: Info Chaser &middot; Views: 336 &middot; Uploaded: July 2022 &middot; Length: 4 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZsP8-2qpAOQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZsP8-2qpAOQ">Open on YouTube</a></p></div></div></div>
 
 ## How the memo became public
 
@@ -285,8 +283,7 @@ The dispute became public enough to attract congressional attention. Representat
 
 The internal tensions also damaged the project itself. Staff members David Saunders and Norman Levine were dismissed after conflicts connected to the controversy, and Low eventually resigned from the study in 1968. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
 
-
-<img src="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5_robert_low_memo_bias_3c3990-Illustration-2-light.svg" | relative_url }}" alt="Low Memo illustration 2" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5_robert_low_memo_bias_3c3990-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5_robert_low_memo_bias_3c3990-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5_robert_low_memo_bias_3c3990-Illustration-2-dark.svg" | relative_url }}" alt="Low Memo illustration 2" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5_robert_low_memo_bias_3c3990-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5_robert_low_memo_bias_3c3990-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why critics thought the study was biased
 
 For UFO researchers already suspicious of Air Force intentions, the memo appeared to confirm their worst fears. Several aspects of the Colorado project reinforced those suspicions.
@@ -301,8 +298,7 @@ This became one of the most enduring criticisms of the Condon Report: some reade
 
 The Low memo therefore served as a framework through which critics interpreted everything else. Once the document became public, every negative statement by project leaders looked potentially suspect.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZsP8-2qpAOQ" title="The UFO Question: How One Mystery Went From Fringe Story to Global Issue" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZsP8-2qpAOQ" target="_blank" rel="noopener noreferrer">The UFO Question: How One Mystery Went From Fringe Story to Global Issue</a></p><p class="youtube-embed-meta">Channel: Info Chaser &middot; Views: 336 &middot; Uploaded: July 2022 &middot; Length: 4 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZsP8-2qpAOQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZsP8-2qpAOQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_W7SqS6UhE4" title="The Condon Report | NASA&#x27;s Unexplained Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_W7SqS6UhE4" target="_blank" rel="noopener noreferrer">The Condon Report | NASA&#x27;s Unexplained Files</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 17.4K &middot; Uploaded: April 2012 &middot; Length: 1 minute 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_W7SqS6UhE4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_W7SqS6UhE4">Open on YouTube</a></p></div></div></div>
 
 ## The arguments made in defence of the study
 
@@ -320,8 +316,7 @@ There was also the practical issue facing the Air Force by the late 1960s. Proje
 
 That distinction is important because the Condon Report did not claim every UFO report had been explained. Instead, its central judgement was that further large-scale official study was unlikely to produce major scientific advances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">Condon Report Complete</span><span class="citation-popover-snippet">1%8. Final Report of the. Scicntifi c Study of Un&#x27;,dentified Plying Objects cond&#x27;Jcted by the &quot;r...Read more...</span></span></span>
 
-
-<img src="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5_robert_low_memo_bias_3c3990-Illustration-3-light.svg" | relative_url }}" alt="Low Memo illustration 3" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5_robert_low_memo_bias_3c3990-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5_robert_low_memo_bias_3c3990-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5_robert_low_memo_bias_3c3990-Illustration-3-dark.svg" | relative_url }}" alt="Low Memo illustration 3" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5_robert_low_memo_bias_3c3990-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_condon_report_blue_b_6fd3c5_robert_low_memo_bias_3c3990-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Whether the case findings still hold up
 
 The Low memo damaged the credibility of the Colorado study, but it did not automatically invalidate every investigation carried out under the project. That is why the controversy remains historically important rather than decisively settled.
@@ -336,9 +331,7 @@ The controversy also changed how later UFO researchers viewed official investiga
 
 Within Colorado’s UFO history, the Low memo matters because it transformed a university research project into a lasting dispute over scientific neutrality itself. The argument was no longer only about strange lights in the sky. It became a debate about whether official investigators had genuinely kept an open mind while deciding the future of America’s public UFO programme.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xu4oTBBI5UE" title="Project Blue Book: America&#x27;s Obsession with UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer">Project Blue Book: America&#x27;s Obsession with UFOs</a></p><p class="youtube-embed-meta">Channel: Origins OSU &middot; Views: 1.6K &middot; Uploaded: September 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xu4oTBBI5UE">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K9m0prFmie0" title="Global UFO Files: Governments Reveal Their Secrets - Unidentified Aerial Phenomena Investigations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K9m0prFmie0" target="_blank" rel="noopener noreferrer">Global UFO Files: Governments Reveal Their Secrets - Unidentified Aerial Phenomena Investigations</a></p><p class="youtube-embed-meta">Channel: 15 Minute Discourse &middot; Views: 53 &middot; Uploaded: January 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K9m0prFmie0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K9m0prFmie0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -426,7 +419,7 @@ Within Colorado’s UFO history, the Low memo matters because it transformed a u
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -436,111 +429,36 @@ Within Colorado’s UFO history, the Low memo matters because it transformed a u
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed."><img src="https://i.ebayimg.com/images/g/GWYAAeSwgidpwAEt/s-l225.jpg" alt="Listing image for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -548,15 +466,15 @@ Within Colorado’s UFO history, the Low memo matters because it transformed a u
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/MykAAOSwkRVk5Rd3/s-l225.jpg" alt="Listing image for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -564,15 +482,15 @@ Within Colorado’s UFO history, the Low memo matters because it transformed a u
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55"><img src="https://i.ebayimg.com/images/g/2G0AAOSwjIpgTIcl/s-l225.jpg" alt="Listing image for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -580,15 +498,15 @@ Within Colorado’s UFO history, the Low memo matters because it transformed a u
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/HvAAAOSw08Vk5SIm/s-l225.jpg" alt="Listing image for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -596,7 +514,7 @@ Within Colorado’s UFO history, the Low memo matters because it transformed a u
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-memo-did-the-colorado-ufo-study-start-with-a-verdict-colorado-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="did-the-colorado-ufo-study-start-with-a-verdict-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -673,17 +591,31 @@ Within Colorado’s UFO history, the Low memo matters because it transformed a u
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -696,42 +628,73 @@ Within Colorado’s UFO history, the Low memo matters because it transformed a u
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -746,12 +709,17 @@ Within Colorado’s UFO history, the Low memo matters because it transformed a u
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -762,96 +730,96 @@ Within Colorado’s UFO history, the Low memo matters because it transformed a u
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: [https://en.wikipedia.org/wiki/Condon_Committee](https://en.wikipedia.org/wiki/Condon_Committee)  
+   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
 
 2. <a id="endnote-2"></a>
    Source: nicap.org  
    Title: Robert Low "trick" memo  
-   Link: [https://www.nicap.org/docs/660809lowmemo.htm](https://www.nicap.org/docs/660809lowmemo.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPRobert Low &quot;trick&quot; memoAugust 9, 1966. MEMO TO: E. James Archer and Thurston E. Manning. FROM: Robert J. Low. SUBJECT: Some Thoughts...</p></details>
+   Link: <a href="https://www.nicap.org/docs/660809lowmemo.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/660809lowmemo.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Low &quot;trick&quot; memoAugust 9, 1966. MEMO TO: E. James Archer and Thurston E. Manning. FROM: Robert J. Low. SUBJECT: Some Thoughts...</p></details>
    Published: August 9, 1966  
 
 3. <a id="endnote-3"></a>
    Source: colorado.edu  
    Title: condon report cu boulders historic ufo study  
-   Link: [https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study](https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study)  
+   Link: <a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Colorado BoulderThe Condon Report: CU Boulder&#x27;s Historic UFO Study5 Nov 2021 — A former CU professor of physics and astroph...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
    Title: Decades of UFO sightings documented in Condon Report at CU Boulder archives  
-   Link: [https://www.youtube.com/watch?v=wMIsiMreDkE](https://www.youtube.com/watch?v=wMIsiMreDkE)  
+   Link: <a href="https://www.youtube.com/watch?v=wMIsiMreDkE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wMIsiMreDkE</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Condon Report | NASA&#x27;s Unexplained Files...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: The Condon Report | NASA's Unexplained Files  
-   Link: [https://www.youtube.com/watch?v=_W7SqS6UhE4](https://www.youtube.com/watch?v=_W7SqS6UhE4)  
+   Link: <a href="https://www.youtube.com/watch?v=_W7SqS6UhE4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_W7SqS6UhE4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Question: How One Mystery Went From Fringe Story to Global Issue...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: documents2.theblackvault.com  
    Title: Condon Report Complete  
-   Link: [https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf](https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1%8. Final Report of the. Scicntifi c Study of Un&#x27;,dentified Plying Objects cond&#x27;Jcted by the &quot;r...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/australia/A13693_3092-2-000_30030606.pdf](https://documents.theblackvault.com/documents/ufos/australia/A13693_3092-2-000_30030606.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/A13693_3092-2-000_30030606.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A13693_3092-2-000_30030606.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.com000Past UFO studies include one conducted by a Scientific Advisory. Panel of UFOs in January, 1953 (Robertson Panel); an...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf](https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf)  
+   Link: <a href="https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens in the skiesThe implication was obvious: The Colorado study, judging by the words of one of the men who actively directed it, seem...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: encyclopedia.com  
-   Link: [https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report)  
+   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon ReportThe report was skeptical and ascribed most UFO sightings to weather balloons, stars, birds, insects, optical illusions, or a...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: centerforinquiry.s3.amazonaws.com  
-   Link: [https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1986/07/22165324/p42.pdf](https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1986/07/22165324/p42.pdf)  
+   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1986/07/22165324/p42.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1986/07/22165324/p42.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Serious Business, written by a strongly pro-UFO author, Saunders had visited the headquarters of...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: archive.org  
    Title: Full text of "Scientific Study Of Unidentified Flying Objects  
-   Link: [https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt](https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt)  
+   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon &amp; Walter Sullivan Condon Report, University of Colorado Submission... American Institute of Public Opinion, popularly known as th...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/1724207](https://www.jstor.org/stable/1724207)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JSTORUFO Project: Trouble on the Groundby PM Boffey · 1968 · Cited by 6 — Condon discussed the controversy briefly in pre- liminary telep...</p></details>
+   Link: <a href="https://www.jstor.org/stable/1724207" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1724207</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Project: Trouble on the Groundby PM Boffey · 1968 · Cited by 6 — Condon discussed the controversy briefly in pre- liminary telep...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Saganism101/posts/condons-study-concluded-that-nothing-has-come-from-the-study-of-ufos-in-the-past/859599565974307/](https://www.facebook.com/Saganism101/posts/condons-study-concluded-that-nothing-has-come-from-the-study-of-ufos-in-the-past/859599565974307/)  
+   Link: <a href="https://www.facebook.com/Saganism101/posts/condons-study-concluded-that-nothing-has-come-from-the-study-of-ufos-in-the-past/859599565974307/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Saganism101/posts/condons-study-concluded-that-nothing-has-come-from-the-study-of-ufos-in-the-past/859599565974307/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in the past 21 years that has added to scientific knowledge, and that further extensive...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cia.gov  
    Title: CIA RDP81R00560R000100010008 3  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010008-3.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CONSENSUSThe project staff received a minor jolt early in October of 1966, when the Denver Post published a story: CU AIDE SLAPS UFO...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/655222157/Flying-Saucer-Fiasco](https://www.scribd.com/document/655222157/Flying-Saucer-Fiasco)  
+   Link: <a href="https://www.scribd.com/document/655222157/Flying-Saucer-Fiasco" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/655222157/Flying-Saucer-Fiasco</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>en&#x27;t the Air Force&#x27;s business and hinting at a preexisting...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scribd.com  
    Title: Condon the Scientific Study of UFOss  
-   Link: [https://www.scribd.com/doc/53729897/Condon-the-Scientific-Study-of-UFOss](https://www.scribd.com/doc/53729897/Condon-the-Scientific-Study-of-UFOss)  
+   Link: <a href="https://www.scribd.com/doc/53729897/Condon-the-Scientific-Study-of-UFOss" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/53729897/Condon-the-Scientific-Study-of-UFOss</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Colorado UFO Project Analysis | PDFAugust 1966 memo do not characterize an individual with an irrevocable negative. bias towards UFOs. Hi...</p></details>
    Published: August 1966  
 
 17. <a id="endnote-17"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/80003091/UFOCRITIQUE_UFOs_Social_Intelligence_and_the_Condon_Committee](https://www.academia.edu/80003091/UFOCRITIQUE_UFOs_Social_Intelligence_and_the_Condon_Committee)  
+   Link: <a href="https://www.academia.edu/80003091/UFOCRITIQUE_UFOs_Social_Intelligence_and_the_Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/80003091/UFOCRITIQUE_UFOs_Social_Intelligence_and_the_Condon_Committee</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOCRITIQUE UFOs, Social Intelligence, and the Condon...10 Oct 2025 — On August 9,1966, University of Colorado Assistant Dean Robert Low...</p></details>

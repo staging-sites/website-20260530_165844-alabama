@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /aurora/
 nav_short_title: Alien grave
 title: What does the Aurora grave really prove?
-title_full: What does the Aurora grave really prove? | Aurora
+title_full: What does the Aurora grave really prove?
 display_title_short: Alien grave
 display_title: Alien grave
 heading_title: What does the Aurora grave really prove?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:17:36'
-parent_title: Was Aurora a Crash or a Legend? | Texas UFOs
+parent_title: Was Aurora a Crash or a Legend?
 parent_permalink: /aurora/
 parent_nav_short_title: Aurora
 parent_heading_title: Was Aurora a Crash or a Legend?
@@ -252,20 +252,18 @@ image: /assets/images/Texas_98125d_aurora_airship_folkl_021232_aurora_cemetery_g
 
 The most famous part of the [Aurora]({{ 'aurora/' | relative_url }}) 1897 story is not the reported crash itself. It is the claim that the pilot was buried in Aurora Cemetery and remains there today. That alleged grave gives the legend something many UFO stories lack: a specific place that visitors can walk to, photograph and argue about.
 
-
-<img src="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232_aurora_cemetery_grav_c909df-Illustration-1-light.svg" | relative_url }}" alt="Alien grave illustration 1" data-theme-src-dark="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232_aurora_cemetery_grav_c909df-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232_aurora_cemetery_grav_c909df-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Yet the cemetery is also where the story's evidence becomes weakest. No confirmed human remains linked to the case have been examined. No verified grave marker survives from the nineteenth century. No burial record identifying an unusual occupant has been produced. The cemetery preserves a local tradition, but it does not provide physical proof that an extraterrestrial pilot was buried there. The tension between folklore and evidence is what makes the grave such an important part of [Texas]({{ 'why-texas-became-a-ufo-archive/' | relative_url }}) UFO history. Rather than settling the case, the cemetery shows how a community memory can endure long after the supporting evidence has become uncertain or disappeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
+<img src="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232_aurora_cemetery_grav_c909df-Illustration-1-dark.svg" | relative_url }}" alt="Alien grave illustration 1" data-theme-src-dark="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232_aurora_cemetery_grav_c909df-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232_aurora_cemetery_grav_c909df-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Yet the cemetery is also where the story's evidence becomes weakest. No confirmed human remains linked to the case have been examined. No verified grave marker survives from the nineteenth century. No burial record identifying an unusual occupant has been produced. The cemetery preserves a local tradition, but it does not provide physical proof that an extraterrestrial pilot was buried there. The tension between folklore and evidence is what makes the grave such an important part of Texas UFO history. Rather than settling the case, the cemetery shows how a community memory can endure long after the supporting evidence has become uncertain or disappeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
 
 ## How the cemetery became the story's anchor
 
 The original 1897 newspaper report claimed that the pilot recovered from the crash was buried locally with Christian rites. That single detail transformed what might otherwise have remained a forgotten newspaper curiosity into a story tied to a physical landscape. A crash site can change over time, but a grave suggests permanence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
 
-Over the decades, visitors and investigators increasingly focused on Aurora Cemetery rather than on the reported crash location. The burial claim gave the legend a concrete destination. Local histories, tourist accounts and UFO researchers repeatedly returned to the cemetery because it appeared to offer something tangible: a possible body rather than just a newspaper story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[Aurora Texas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-snippet">Aurora TexasHistory | Aurora, TX.Among the wreckage, Aurora residents found the disfigured remains of an alien creature. The alien, we no...</span></span></span>
+Over the decades, visitors and investigators increasingly focused on Aurora Cemetery rather than on the reported crash location. The burial claim gave the legend a concrete destination. Local histories, tourist accounts and UFO researchers repeatedly returned to the cemetery because it appeared to offer something tangible: a possible body rather than just a newspaper story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[Aurora Texas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-snippet">Aurora TexasHistory &#124; Aurora, TX.Among the wreckage, Aurora residents found the disfigured remains of an alien creature. The alien, we no...</span></span></span>
 
 This shift is important when evaluating the case. The cemetery did not become central because new evidence emerged there. It became central because the existence of a grave seemed to promise evidence that could, in theory, be tested. The grave became the physical heart of the legend even though the underlying burial claim remained dependent on the same small body of historical reporting.
 
-The Texas Historical Commission marker at Aurora Cemetery often adds to public confusion. The marker discusses the cemetery's history and mentions the local legend, but it is not an official confirmation that an alien burial occurred. Historical markers frequently record stories associated with a place without endorsing them as factual events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/TexasHistoricalCommission/posts/in-the-spring-of-1897-a-reported-ufo-crash-occurred-on-a-farm-near-aurora-in-wis/1144472984440318/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">in the spring of 1897 a reported ufo crash occurred on a farm near aurora in wis</span><span class="citation-popover-snippet">FacebookIn the spring of 1897, a reported UFO 👽 crash occurred...Despite the tale, the Texas Historical Commission awarded a historical...</span></span></span>
-
+The Texas Historical Commission marker at Aurora Cemetery often adds to public confusion. The marker discusses the cemetery's history and mentions the local legend, but it is not an official confirmation that an alien burial occurred. Historical markers frequently record stories associated with a place without endorsing them as factual events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/TexasHistoricalCommission/posts/in-the-spring-of-1897-a-reported-ufo-crash-occurred-on-a-farm-near-aurora-in-wis/1144472984440318/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">in the spring of 1897 a reported ufo crash occurred on a farm near aurora in wis</span><span class="citation-popover-snippet">In the spring of 1897, a reported UFO 👽 crash occurred...Despite the tale, the Texas Historical Commission awarded a historical...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FX-SUquv5Z4" title="Strange Alien Grave in Texas!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FX-SUquv5Z4" target="_blank" rel="noopener noreferrer">Strange Alien Grave in Texas!</a></p><p class="youtube-embed-meta">Channel: Rhetty for History &middot; Views: 10.8K &middot; Uploaded: September 2019 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FX-SUquv5Z4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FX-SUquv5Z4">Open on YouTube</a></p></div></div></div>
 
@@ -273,14 +271,13 @@ The Texas Historical Commission marker at Aurora Cemetery often adds to public c
 
 The strongest claims for a burial site usually rely on stories about an earlier grave marker. According to later accounts, a stone once marked the alleged grave and reportedly carried an image resembling an airship or spacecraft. By the time the case attracted major UFO-investigation attention in the 1970s, that marker had become a major focus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
 
-Researchers associated with MUFON, the Mutual UFO Network, examined the cemetery and reported metal-detector readings near the suspected grave. They sought permission to exhume the site in order to determine whether human remains or unusual materials were present. Cemetery authorities refused. The refusal has since become part of the mythology of the case, often presented as evidence that something significant was being hidden. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mufon.com/2021/05/14/aurora-tx-crash-1897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-title">AURORA, TX CRASH</span><span class="citation-popover-snippet">MUFONAURORA, TX CRASH - 189714 May 2021 — MUFON then investigated the Aurora Cemetery, and uncovered a grave marker that appeared to show...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
+Researchers associated with MUFON, the Mutual UFO Network, examined the cemetery and reported metal-detector readings near the suspected grave. They sought permission to exhume the site in order to determine whether human remains or unusual materials were present. Cemetery authorities refused. The refusal has since become part of the mythology of the case, often presented as evidence that something significant was being hidden. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mufon.com/2021/05/14/aurora-tx-crash-1897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-title">AURORA, TX CRASH</span><span class="citation-popover-snippet">AURORA, TX CRASH - 189714 May 2021 — MUFON then investigated the Aurora Cemetery, and uncovered a grave marker that appeared to show...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
 
 A more cautious reading is possible. Cemetery associations commonly oppose exhumations, especially when the purpose is speculative rather than genealogical, legal or forensic. Refusing excavation does not itself prove that anything unusual is buried there.
 
 The situation became even murkier when the reported marker disappeared. Later accounts claimed that after investigators examined the grave, the marker vanished and subsequent metal-detector readings no longer matched earlier reports. UFO writers often treat this as suspicious. Sceptics note that the chain of evidence surrounding the marker is poorly documented and relies heavily on recollections and secondary reports rather than continuous records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spaceshipsofezekiel.com/html/misc-aurora-texas-ufo-crash.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceshipsofezekiel.com">[Spaceships of Ezekiel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceshipsofezekiel.com</span><span class="citation-popover-title">Spaceships of Ezekiel Aurora Texas UFO Crash Hoax</span><span class="citation-popover-snippet">Aurora Texas UFO Crash Hoax - The Spaceships of EzekielThe story of the robbery of the &quot;spaceman&#x27;s grave&quot; was reported in detail in the J...</span></span></span>
 
 The result is a classic evidence problem. The object that might have helped establish continuity between the legend and a specific grave is no longer available for examination. Modern visitors encounter stories about the marker far more often than the marker itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.roadsideamerica.com/story/13501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roadsideamerica.com">[Roadside America]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roadsideamerica.com</span><span class="citation-popover-snippet">Roadside AmericaSpace Alien Buried Here, Aurora, TexasCemetery where a crash-landed 19th century space alien is purported to be buried. B...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7v7M7al8qxc" title="Ancient Aliens: An Alien is Buried in this Cemetery?! (Season 3) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7v7M7al8qxc" target="_blank" rel="noopener noreferrer">Ancient Aliens: An Alien is Buried in this Cemetery?! (Season 3) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 121.0K &middot; Uploaded: June 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7v7M7al8qxc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7v7M7al8qxc">Open on YouTube</a></p></div></div></div>
 
@@ -289,7 +286,6 @@ The result is a classic evidence problem. The object that might have helped esta
 Several later investigations attempted to move beyond folklore and determine whether a real grave existed in the area traditionally associated with the pilot.
 
 The results were mixed and far less decisive than popular retellings often suggest.
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -305,8 +301,7 @@ These findings are often presented in UFO media as evidence that "something" is 
 
 The key question is not whether a grave exists. The key question is whether there is evidence connecting that grave to the alleged 1897 pilot. On that point, the investigations produced no definitive answer. Even if a burial is present, it could belong to an ordinary resident whose marker was lost over time. The cemetery contains numerous nineteenth-century burials, making that possibility difficult to exclude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
 
-
-<img src="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232_aurora_cemetery_grav_c909df-Illustration-2-light.svg" | relative_url }}" alt="Alien grave illustration 2" data-theme-src-dark="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232_aurora_cemetery_grav_c909df-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232_aurora_cemetery_grav_c909df-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232_aurora_cemetery_grav_c909df-Illustration-2-dark.svg" | relative_url }}" alt="Alien grave illustration 2" data-theme-src-dark="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232_aurora_cemetery_grav_c909df-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232_aurora_cemetery_grav_c909df-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why place memory is not physical proof
 
 Aurora Cemetery demonstrates a broader pattern found in many famous UFO stories: a location can preserve memory long after evidence has faded.
@@ -316,7 +311,6 @@ Visitors still leave tokens, flowers and informal tributes at the area associate
 But historians and investigators separate memory from verification. A remembered location can show that people believed a story, repeated a story or attached significance to a story. It cannot by itself demonstrate that the underlying event occurred.
 
 Several factors weaken the grave's value as physical evidence:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -330,13 +324,12 @@ Several factors weaken the grave's value as physical evidence:
 
 This does not mean the cemetery is irrelevant. Quite the opposite. The cemetery is one of the reasons the Aurora story survived when many other 1897 airship reports disappeared from public memory. It gives the legend a geographic centre and a continuing human connection. People can stand in the cemetery, see the historical marker and feel that they are close to the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/places/1800-s-alien-gravesite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">1800 s alien gravesite</span><span class="citation-popover-snippet">Atlas Obscura1890s Alien Gravesite in AuroraThe Texas state historical marker that commemorates the cemetery still mentions the Martian b...</span></span></span>
 
-
-<img src="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232_aurora_cemetery_grav_c909df-Illustration-3-light.svg" | relative_url }}" alt="Alien grave illustration 3" data-theme-src-dark="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232_aurora_cemetery_grav_c909df-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232_aurora_cemetery_grav_c909df-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232_aurora_cemetery_grav_c909df-Illustration-3-dark.svg" | relative_url }}" alt="Alien grave illustration 3" data-theme-src-dark="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232_aurora_cemetery_grav_c909df-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_aurora_airship_folkl_021232_aurora_cemetery_grav_c909df-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the grave really proves
 
 The strongest conclusion supported by the available evidence is surprisingly modest.
 
-Aurora Cemetery proves that the burial story became an enduring part of local tradition. It shows that generations of residents, visitors and researchers treated the alleged grave seriously enough to preserve it in community memory. It demonstrates the cultural power of the Aurora legend within Texas UFO folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[Aurora Texas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-snippet">Aurora TexasHistory | Aurora, TX.Among the wreckage, Aurora residents found the disfigured remains of an alien creature. The alien, we no...</span></span></span>
+Aurora Cemetery proves that the burial story became an enduring part of local tradition. It shows that generations of residents, visitors and researchers treated the alleged grave seriously enough to preserve it in community memory. It demonstrates the cultural power of the Aurora legend within Texas UFO folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[Aurora Texas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-snippet">Aurora TexasHistory &#124; Aurora, TX.Among the wreckage, Aurora residents found the disfigured remains of an alien creature. The alien, we no...</span></span></span>
 
 What it does not prove is that an extraterrestrial pilot was actually buried there.
 
@@ -344,9 +337,7 @@ The cemetery contains a legend attached to a place. The historical marker record
 
 Within the wider story of Aurora and the 1897 Texas airship wave, the cemetery therefore functions less as proof of a crash and more as proof of how folklore survives. The grave remains famous because it offers the possibility of evidence. More than a century later, that possibility remains unverified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/J3b0vXp6Cjc" title="Grave of a Space Alien" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=J3b0vXp6Cjc" target="_blank" rel="noopener noreferrer">Grave of a Space Alien</a></p><p class="youtube-embed-meta">Channel: The Carpetbagger &middot; Views: 26.4K &middot; Uploaded: April 2019 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=J3b0vXp6Cjc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=J3b0vXp6Cjc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -770,127 +761,127 @@ Within the wider story of Aurora and the 1897 Texas airship wave, the cemetery t
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Aurora, Texas, UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident](https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: facebook.com  
    Title: in the spring of 1897 a reported ufo crash occurred on a farm near aurora in wis  
-   Link: [https://www.facebook.com/TexasHistoricalCommission/posts/in-the-spring-of-1897-a-reported-ufo-crash-occurred-on-a-farm-near-aurora-in-wis/1144472984440318/](https://www.facebook.com/TexasHistoricalCommission/posts/in-the-spring-of-1897-a-reported-ufo-crash-occurred-on-a-farm-near-aurora-in-wis/1144472984440318/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookIn the spring of 1897, a reported UFO 👽 crash occurred...Despite the tale, the Texas Historical Commission awarded a historical...</p></details>
+   Link: <a href="https://www.facebook.com/TexasHistoricalCommission/posts/in-the-spring-of-1897-a-reported-ufo-crash-occurred-on-a-farm-near-aurora-in-wis/1144472984440318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TexasHistoricalCommission/posts/in-the-spring-of-1897-a-reported-ufo-crash-occurred-on-a-farm-near-aurora-in-wis/1144472984440318/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>In the spring of 1897, a reported UFO 👽 crash occurred...Despite the tale, the Texas Historical Commission awarded a historical...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: mufon.com  
    Title: AURORA, TX CRASH  
-   Link: [https://mufon.com/2021/05/14/aurora-tx-crash-1897/](https://mufon.com/2021/05/14/aurora-tx-crash-1897/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFONAURORA, TX CRASH - 189714 May 2021 — MUFON then investigated the Aurora Cemetery, and uncovered a grave marker that appeared to show...</p></details>
+   Link: <a href="https://mufon.com/2021/05/14/aurora-tx-crash-1897/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/2021/05/14/aurora-tx-crash-1897/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AURORA, TX CRASH - 189714 May 2021 — MUFON then investigated the Aurora Cemetery, and uncovered a grave marker that appeared to show...</p></details>
    Published: May 2021  
 
 4. <a id="endnote-4"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/873928379320499/posts/25946793011607356/](https://www.facebook.com/groups/873928379320499/posts/25946793011607356/)  
+   Link: <a href="https://www.facebook.com/groups/873928379320499/posts/25946793011607356/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/873928379320499/posts/25946793011607356/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora Texas alien crash site legendDuring the UFO investigation by MUFON the grave marker disappeared.... (Photos from left to right: A...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: atlas.thc.texas.gov  
-   Link: [https://atlas.thc.texas.gov/Details/5497000240](https://atlas.thc.texas.gov/Details/5497000240)  
+   Link: <a href="https://atlas.thc.texas.gov/Details/5497000240" target="_blank" rel="noopener noreferrer nofollow">https://atlas.thc.texas.gov/Details/5497000240</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora Cemetery - Atlas Number 5497000240Details for Aurora Cemetery. Historical Marker — Atlas Number 5497000240. Print all detailed dat...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: auroratexas.gov  
-   Link: [https://www.auroratexas.gov/community/history/](https://www.auroratexas.gov/community/history/)  
+   Link: <a href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.auroratexas.gov/community/history/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora TexasHistory | Aurora, TX.Among the wreckage, Aurora residents found the disfigured remains of an alien creature. The alien, we no...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: atlasobscura.com  
    Title: 1800 s alien gravesite  
-   Link: [https://www.atlasobscura.com/places/1800-s-alien-gravesite](https://www.atlasobscura.com/places/1800-s-alien-gravesite)  
+   Link: <a href="https://www.atlasobscura.com/places/1800-s-alien-gravesite" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/1800-s-alien-gravesite</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atlas Obscura1890s Alien Gravesite in AuroraThe Texas state historical marker that commemorates the cemetery still mentions the Martian b...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: burialsandbeyond.com  
    Title: Burials & Beyond The Alien Grave of Aurora, Texas  
-   Link: [https://burialsandbeyond.com/2023/01/11/the-alien-grave-of-aurora-texas/](https://burialsandbeyond.com/2023/01/11/the-alien-grave-of-aurora-texas/)  
+   Link: <a href="https://burialsandbeyond.com/2023/01/11/the-alien-grave-of-aurora-texas/" target="_blank" rel="noopener noreferrer nofollow">https://burialsandbeyond.com/2023/01/11/the-alien-grave-of-aurora-texas/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Texas Historical Commission marker. The grave appears to have changed considerably over the years, originally marked with a stone featuring...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: spaceshipsofezekiel.com  
    Title: Spaceships of Ezekiel Aurora Texas UFO Crash Hoax  
-   Link: [https://www.spaceshipsofezekiel.com/html/misc-aurora-texas-ufo-crash.html](https://www.spaceshipsofezekiel.com/html/misc-aurora-texas-ufo-crash.html)  
+   Link: <a href="https://www.spaceshipsofezekiel.com/html/misc-aurora-texas-ufo-crash.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceshipsofezekiel.com/html/misc-aurora-texas-ufo-crash.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora Texas UFO Crash Hoax - The Spaceships of EzekielThe story of the robbery of the &quot;spaceman&#x27;s grave&quot; was reported in detail in the J...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: roadsideamerica.com  
-   Link: [https://www.roadsideamerica.com/story/13501](https://www.roadsideamerica.com/story/13501)  
+   Link: <a href="https://www.roadsideamerica.com/story/13501" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideamerica.com/story/13501</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Roadside AmericaSpace Alien Buried Here, Aurora, TexasCemetery where a crash-landed 19th century space alien is purported to be buried. B...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: thetravellingfool.com  
-   Link: [https://thetravellingfool.com/aurora-texas-mystery-the-curious-story-behind-the-legend-of-ned/](https://thetravellingfool.com/aurora-texas-mystery-the-curious-story-behind-the-legend-of-ned/)  
+   Link: <a href="https://thetravellingfool.com/aurora-texas-mystery-the-curious-story-behind-the-legend-of-ned/" target="_blank" rel="noopener noreferrer nofollow">https://thetravellingfool.com/aurora-texas-mystery-the-curious-story-behind-the-legend-of-ned/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora Texas Mystery: The Curious Story Behind...31 Oct 2025 — In the 1970&#x27;s, Mufon requested permission to exhume the body, but the Cem...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: tomsmahaul.com  
    Title: Aurora, Texas UFO Incident  
-   Link: [https://tomsmahaul.com/aurora-texas-ufo-incident/](https://tomsmahaul.com/aurora-texas-ufo-incident/)  
+   Link: <a href="https://tomsmahaul.com/aurora-texas-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://tomsmahaul.com/aurora-texas-ufo-incident/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tom&#x27;s MaHaulAmong the information on the Aurora Cemetery Historical marker is information about the legend of an area 1897 spaceship cras...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: roadsideamerica.com  
    Title: Aurora, TX  
-   Link: [https://www.roadsideamerica.com/tip/1244?offset=10](https://www.roadsideamerica.com/tip/1244?offset=10)  
+   Link: <a href="https://www.roadsideamerica.com/tip/1244?offset=10" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideamerica.com/tip/1244?offset=10</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The grave marker has been stolen yet again, but with the help of an internet search I found the location. Take the last entrance into the...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: ancestralfindings.com  
-   Link: [https://ancestralfindings.com/the-1890s-alien-gravesite-a-curious-tale-from-aurora-cemetery-texas/](https://ancestralfindings.com/the-1890s-alien-gravesite-a-curious-tale-from-aurora-cemetery-texas/)  
+   Link: <a href="https://ancestralfindings.com/the-1890s-alien-gravesite-a-curious-tale-from-aurora-cemetery-texas/" target="_blank" rel="noopener noreferrer nofollow">https://ancestralfindings.com/the-1890s-alien-gravesite-a-curious-tale-from-aurora-cemetery-texas/</a>  
 
 15. <a id="endnote-15"></a>
    Source: nbcdfw.com  
    Title: not of this world mystery of reported alien crash lives on in aurora  
-   Link: [https://www.nbcdfw.com/news/local/not-of-this-world-mystery-of-reported-alien-crash-lives-on-in-aurora/2735015/](https://www.nbcdfw.com/news/local/not-of-this-world-mystery-of-reported-alien-crash-lives-on-in-aurora/2735015/)  
+   Link: <a href="https://www.nbcdfw.com/news/local/not-of-this-world-mystery-of-reported-alien-crash-lives-on-in-aurora/2735015/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcdfw.com/news/local/not-of-this-world-mystery-of-reported-alien-crash-lives-on-in-aurora/2735015/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery of Reported Alien Crash Lives on in Aurora14 Sept 2021 — The pilot, described as not of this world, died from his injuries and wa...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/gibrnk/1897_newspaper_article_from_aurora_tx_mentions_a/](https://www.reddit.com/r/HighStrangeness/comments/gibrnk/1897_newspaper_article_from_aurora_tx_mentions_a/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/gibrnk/1897_newspaper_article_from_aurora_tx_mentions_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/gibrnk/1897_newspaper_article_from_aurora_tx_mentions_a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1897 Newspaper Article from Aurora, TX mentions a...r/aliens - Serious: On April 17th, 1897 a ufo crashed into a... Stopped by the Auro...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Title: 1897 ufo crash in aurora texas martian pilot was  
-   Link: [https://www.reddit.com/r/UFOs/comments/1chzffr/1897_ufo_crash_in_aurora_texas_martian_pilot_was/](https://www.reddit.com/r/UFOs/comments/1chzffr/1897_ufo_crash_in_aurora_texas_martian_pilot_was/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1chzffr/1897_ufo_crash_in_aurora_texas_martian_pilot_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1chzffr/1897_ufo_crash_in_aurora_texas_martian_pilot_was/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1897 UFO Crash in Aurora, Texas | &quot;Martian pilot&quot; was...The pilot is killed and buried in the Aurora Cemetery. Or is it all a hoax perpe...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1fjhhvs/serious_on_april_17th_1897_a_ufo_crashed_into_a/](https://www.reddit.com/r/aliens/comments/1fjhhvs/serious_on_april_17th_1897_a_ufo_crashed_into_a/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1fjhhvs/serious_on_april_17th_1897_a_ufo_crashed_into_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1fjhhvs/serious_on_april_17th_1897_a_ufo_crashed_into_a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On April 17th, 1897 a ufo crashed into a windmill in Aurora...The &quot;not of this world&quot; pilot was buried in the Aurora Cemetary and the Te...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
    Title: stopped by the aurora texas cemetery where they  
-   Link: [https://www.reddit.com/r/interestingasfuck/comments/12pyg99/stopped_by_the_aurora_texas_cemetery_where_they/](https://www.reddit.com/r/interestingasfuck/comments/12pyg99/stopped_by_the_aurora_texas_cemetery_where_they/)  
+   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/12pyg99/stopped_by_the_aurora_texas_cemetery_where_they/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/12pyg99/stopped_by_the_aurora_texas_cemetery_where_they/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stopped by the Aurora, Texas cemetery where they buried...Stopped by the Aurora, Texas cemetery where they buried an alien in 1897. r/in...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: tripadvisor.com  
-   Link: [https://www.tripadvisor.com/LocationPhotoDirectLink-g2062966-d3750472-i110555588-Aurora_Cemetery-Aurora_Texas.html](https://www.tripadvisor.com/LocationPhotoDirectLink-g2062966-d3750472-i110555588-Aurora_Cemetery-Aurora_Texas.html)  
+   Link: <a href="https://www.tripadvisor.com/LocationPhotoDirectLink-g2062966-d3750472-i110555588-Aurora_Cemetery-Aurora_Texas.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/LocationPhotoDirectLink-g2062966-d3750472-i110555588-Aurora_Cemetery-Aurora_Texas.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Photo: Historical Marker at Aurora CemeteryAt the time of my visit, I was not aware of the reported landing of an Alien in 1897...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/CemeteryPorn/comments/16l4wtm/what_may_be_the_grave_of_an_alien_that_crashed/](https://www.reddit.com/r/CemeteryPorn/comments/16l4wtm/what_may_be_the_grave_of_an_alien_that_crashed/)  
+   Link: <a href="https://www.reddit.com/r/CemeteryPorn/comments/16l4wtm/what_may_be_the_grave_of_an_alien_that_crashed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CemeteryPorn/comments/16l4wtm/what_may_be_the_grave_of_an_alien_that_crashed/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>removed all markers so the alien wouldn&#x27;t be dug up.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: theordinaryextraordinarycemetery.com  
-   Link: [https://www.theordinaryextraordinarycemetery.com/blog/the-legend-of-the-aurora-texas-ufo-crash/](https://www.theordinaryextraordinarycemetery.com/blog/the-legend-of-the-aurora-texas-ufo-crash/)  
+   Link: <a href="https://www.theordinaryextraordinarycemetery.com/blog/the-legend-of-the-aurora-texas-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.theordinaryextraordinarycemetery.com/blog/the-legend-of-the-aurora-texas-ufo-crash/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Legend of the Aurora, Texas UFO Crash2 Apr 2024 — There is a marker that was placed by the Texas Historical Commission on the fence l...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: shortform.com  
    Title: Roswell of Texas: The Aurora UFO  
-   Link: [https://www.shortform.com/podcast/episode/conspiracy-theories-2025-01-29-episode-summary-roswell-of-texas-the-aurora-ufo](https://www.shortform.com/podcast/episode/conspiracy-theories-2025-01-29-episode-summary-roswell-of-texas-the-aurora-ufo)  
+   Link: <a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2025-01-29-episode-summary-roswell-of-texas-the-aurora-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2025-01-29-episode-summary-roswell-of-texas-the-aurora-ufo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conspiracy Theories29 Jan 2025 — In this episode of the Conspiracy Theories podcast, the peculiar tale of an alleged UFO crash in Aurora...</p></details>

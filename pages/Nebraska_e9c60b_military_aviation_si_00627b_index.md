@@ -6,11 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nebraska-e9c60b-military-aviation-si/
 description: Focused pages that expand on Military And Aviation UFO Stories.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Nebraska_e9c60b_military_aviation_si_00627b
-parent_title: Military And Aviation UFO Stories | What Really Happened in Nebraska's
-  UFO...
+parent_title: Military And Aviation UFO Stories
 parent_nav_short_title: Military And Aviation UFO Stories
 parent_permalink: /military-and-aviation-ufo-stories/
 ---

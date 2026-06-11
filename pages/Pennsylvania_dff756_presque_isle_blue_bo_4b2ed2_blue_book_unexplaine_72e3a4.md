@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /presque-isle/
 nav_short_title: Blue Book
 title: What did Blue Book really leave unexplained?
-title_full: What did Blue Book really leave unexplained? | Presque Isle
+title_full: What did Blue Book really leave unexplained?
 display_title_short: Blue Book
 display_title: Blue Book
 heading_title: What did Blue Book really leave unexplained?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:07:52'
-parent_title: Why Presque Isle Stayed Unidentified | Pennsylvania UFOs
+parent_title: Why Presque Isle Stayed Unidentified
 parent_permalink: /presque-isle/
 parent_nav_short_title: Presque Isle
 parent_heading_title: Why Presque Isle Stayed Unidentified
@@ -250,10 +250,9 @@ image: /assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_blue_book_
 
 ## Introduction
 
-The [Presque Isle]({{ 'presque-isle/' | relative_url }}) case is often described as one of [Pennsylvania]({{ 'what-really-happened-in-pennsylvanias/' | relative_url }})’s official “unexplained UFO landings”, but that shorthand hides an important distinction. Project Blue Book did not endorse every part of the story that later became attached to the incident. What the Air Force left unexplained was much narrower: reports of unusual aerial lights or an object seen over Presque Isle on 31 July 1966. The programme did not conclude that a craft definitely landed, that mysterious tracks proved a landing, or that witness reports of a strange creature represented something unknown. Those elements were handled separately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/project-blue-book-presque-isle-state-park-pennsylvania-july-31-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">project blue book presque isle state park pennsylvania july 31 1966</span><span class="citation-popover-snippet">The Black VaultProject Blue Book: Presque Isle State Park, Pennsylvania24 Mar 2021 — In this particular Project Blue Book case, witnesses...</span></span></span>
+The [Presque Isle]({{ 'presque-isle/' | relative_url }}) case is often described as one of Pennsylvania’s official “unexplained UFO landings”, but that shorthand hides an important distinction. Project Blue Book did not endorse every part of the story that later became attached to the incident. What the Air Force left unexplained was much narrower: reports of unusual aerial lights or an object seen over Presque Isle on 31 July 1966. The programme did not conclude that a craft definitely landed, that mysterious tracks proved a landing, or that witness reports of a strange creature represented something unknown. Those elements were handled separately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/project-blue-book-presque-isle-state-park-pennsylvania-july-31-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">project blue book presque isle state park pennsylvania july 31 1966</span><span class="citation-popover-snippet">The Black VaultProject Blue Book: Presque Isle State Park, Pennsylvania24 Mar 2021 — In this particular Project Blue Book case, witnesses...</span></span></span>
 
-
-<img src="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_blue_book_unexplaine_72e3a4-Illustration-1-light.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_blue_book_unexplaine_72e3a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_blue_book_unexplaine_72e3a4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_blue_book_unexplaine_72e3a4-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_blue_book_unexplaine_72e3a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_blue_book_unexplaine_72e3a4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters because Presque Isle became a Pennsylvania UFO landmark largely through retellings that blended several different claims into one mystery. The actual Blue Book file preserved an official uncertainty about the lights in the sky, while treating other parts of the story with much greater caution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/project-blue-book-presque-isle-state-park-pennsylvania-july-31-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">project blue book presque isle state park pennsylvania july 31 1966</span><span class="citation-popover-snippet">The Black VaultProject Blue Book: Presque Isle State Park, Pennsylvania24 Mar 2021 — In this particular Project Blue Book case, witnesses...</span></span></span>
 
 ## The official unknown at the centre of the file
@@ -264,7 +263,6 @@ This does not mean investigators concluded an extraordinary craft had landed. In
 
 Presque Isle therefore occupies a middle ground that is often lost in popular summaries:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The Air Force did not solve the reported aerial sighting.
@@ -274,7 +272,6 @@ Presque Isle therefore occupies a middle ground that is often lost in popular su
 </div>
 
 What survived in the file was a limited unresolved question about what witnesses had seen in the air or near the shoreline that evening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/project-blue-book-presque-isle-state-park-pennsylvania-july-31-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">project blue book presque isle state park pennsylvania july 31 1966</span><span class="citation-popover-snippet">The Black VaultProject Blue Book: Presque Isle State Park, Pennsylvania24 Mar 2021 — In this particular Project Blue Book case, witnesses...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UOzqg5iOEVA" title="UFO Sighting at Presque Isle State Park (July 31, 1966)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UOzqg5iOEVA" target="_blank" rel="noopener noreferrer">UFO Sighting at Presque Isle State Park (July 31, 1966)</a></p><p class="youtube-embed-meta">Channel: Erie&#x27;s History and Memorabilia &middot; Views: 6.9K &middot; Uploaded: May 2014 &middot; Length: 1 minute 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UOzqg5iOEVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UOzqg5iOEVA">Open on YouTube</a></p></div></div></div>
 
@@ -294,17 +291,35 @@ ClaimHow it was treatedUnusual lights or object observed near Presque IsleLeft u
 
 That distinction is one of the most important facts in the entire Presque Isle record, because later retellings often compress all four points into a single official mystery when the file itself does not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/project-blue-book-presque-isle-state-park-pennsylvania-july-31-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">project blue book presque isle state park pennsylvania july 31 1966</span><span class="citation-popover-snippet">The Black VaultProject Blue Book: Presque Isle State Park, Pennsylvania24 Mar 2021 — In this particular Project Blue Book case, witnesses...</span></span></span>
 
-
-<img src="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_blue_book_unexplaine_72e3a4-Illustration-2-light.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_blue_book_unexplaine_72e3a4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_blue_book_unexplaine_72e3a4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_blue_book_unexplaine_72e3a4-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_blue_book_unexplaine_72e3a4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_blue_book_unexplaine_72e3a4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How later retellings widened the official conclusion
 
-As the decades passed, the Presque Isle incident became part of Pennsylvania UFO folklore. Documentary programmes, local histories, conference talks and internet discussions often described it as a famous “Blue Book unknown”. That description is technically correct, but it can encourage readers to assume the Air Force left the whole event unexplained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/video/the-visit-baxnt2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">the visit baxnt2</span><span class="citation-popover-snippet">PBSChronicles | The Visit | Season 1 | Episode 4Explore legend of Erie&#x27;s 1966 close encounter of a third... Presque Isle. The event made...</span></span></span>
+As the decades passed, the Presque Isle incident became part of Pennsylvania UFO folklore. Documentary programmes, local histories, conference talks and internet discussions often described it as a famous “Blue Book unknown”. That description is technically correct, but it can encourage readers to assume the Air Force left the whole event unexplained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/video/the-visit-baxnt2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">the visit baxnt2</span><span class="citation-popover-snippet">Chronicles &#124; The Visit &#124; Season 1 &#124; Episode 4Explore legend of Erie&#x27;s 1966 close encounter of a third... Presque Isle. The event made...</span></span></span>
 
 A subtle shift occurred in many retellings:
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Aga-fA6iUm4" title="Operation Highjump | Mission: Find and Destroy the Secret Nazi UFO Base In Antarctica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Aga-fA6iUm4" target="_blank" rel="noopener noreferrer">Operation Highjump | Mission: Find and Destroy the Secret Nazi UFO Base In Antarctica</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 5.7M &middot; Uploaded: July 2022 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Aga-fA6iUm4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Aga-fA6iUm4">Open on YouTube</a></p></div></div></div>
+
+1. Blue Book could not identify the reported lights.(#endnote-3 "Endnote 3") <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+2. The case therefore remained an official unknown.
+3. The entire story became remembered as an official unknown.
+4. The tracks, landing narrative and creature reports gradually became absorbed into the same conclusion.
+
+The result is a broader legend than the surviving paperwork actually supports. A reader encountering only the later version may come away believing that the Air Force officially recorded an unexplained landed object and unexplained creature encounter. The file itself does not appear to make those stronger claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/project-blue-book-presque-isle-state-park-pennsylvania-july-31-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">project blue book presque isle state park pennsylvania july 31 1966</span><span class="citation-popover-snippet">The Black VaultProject Blue Book: Presque Isle State Park, Pennsylvania24 Mar 2021 — In this particular Project Blue Book case, witnesses...</span></span></span>
+
+This widening effect is especially common in long-running UFO cases because public memory tends to preserve the most dramatic elements. Over time, distinctions that mattered to investigators can disappear from popular accounts.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/usPustgTcDU" title="David Fravor Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=usPustgTcDU" target="_blank" rel="noopener noreferrer">David Fravor Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing</a></p><p class="youtube-embed-meta">Channel: C-SPAN &middot; Views: 73.6K &middot; Uploaded: July 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=usPustgTcDU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=usPustgTcDU">Open on YouTube</a></p></div></div></div>
 
+## Why the narrower mystery still matters
+
+Recognising the limits of Blue Book’s conclusion does not make the Presque Isle case unimportant. In some ways, it makes the case more useful.
+
+The surviving record shows an incident that attracted multiple witnesses, police attention, local press coverage and an Air Force investigation. It also shows investigators drawing lines between evidence they considered stronger and evidence they considered weaker. Rather than simply accepting or dismissing everything, the file preserved uncertainty where investigators felt certainty was not justified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">FLYING SAUCERS UFO REPORTSErie, Pa.,</span><span class="citation-popover-snippet">FLYING SAUCERS UFO REPORTSErie, Pa., August 1, 1966: Equally certain that sighters had &quot;seen something&quot; were the officers who investig...</span><span class="citation-popover-meta">Published: August 1, 1966</span></span></span>
+
+For Pennsylvania UFO history, that is the real significance of Presque Isle. The enduring mystery is not that Blue Book supposedly confirmed a landed craft. It is that after examining the reports, investigators still could not confidently explain the unusual lights at the centre of the case. The official unknown was real, but it was narrower than the legend that grew around it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/project-blue-book-presque-isle-state-park-pennsylvania-july-31-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">project blue book presque isle state park pennsylvania july 31 1966</span><span class="citation-popover-snippet">The Black VaultProject Blue Book: Presque Isle State Park, Pennsylvania24 Mar 2021 — In this particular Project Blue Book case, witnesses...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/1966-07-6978667-PresqueIsland-Pennsylvania-10798-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">1966 07 6978667 PresqueIsland Pennsylvania 10798</span><span class="citation-popover-snippet">Internet Archive1966 07 6978667 PresqueIsland Pennsylvania 107985 Dec 2015 — 1966 07 6978667 PresqueIsland Pennsylvania 10798; Publicati...</span></span></span>
+
+<img src="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_blue_book_unexplaine_72e3a4-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_blue_book_unexplaine_72e3a4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_blue_book_unexplaine_72e3a4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -723,158 +738,136 @@ A subtle shift occurred in many retellings:
 </script>
 </section>
 
-1. Blue Book could not identify the reported lights.(#endnote-3 "Endnote 3") <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
-2. The case therefore remained an official unknown.
-3. The entire story became remembered as an official unknown.
-4. The tracks, landing narrative and creature reports gradually became absorbed into the same conclusion.
-
-The result is a broader legend than the surviving paperwork actually supports. A reader encountering only the later version may come away believing that the Air Force officially recorded an unexplained landed object and unexplained creature encounter. The file itself does not appear to make those stronger claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/project-blue-book-presque-isle-state-park-pennsylvania-july-31-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">project blue book presque isle state park pennsylvania july 31 1966</span><span class="citation-popover-snippet">The Black VaultProject Blue Book: Presque Isle State Park, Pennsylvania24 Mar 2021 — In this particular Project Blue Book case, witnesses...</span></span></span>
-
-This widening effect is especially common in long-running UFO cases because public memory tends to preserve the most dramatic elements. Over time, distinctions that mattered to investigators can disappear from popular accounts.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Aga-fA6iUm4" title="Operation Highjump | Mission: Find and Destroy the Secret Nazi UFO Base In Antarctica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Aga-fA6iUm4" target="_blank" rel="noopener noreferrer">Operation Highjump | Mission: Find and Destroy the Secret Nazi UFO Base In Antarctica</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 5.7M &middot; Uploaded: July 2022 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Aga-fA6iUm4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Aga-fA6iUm4">Open on YouTube</a></p></div></div></div>
-
-## Why the narrower mystery still matters
-
-Recognising the limits of Blue Book’s conclusion does not make the Presque Isle case unimportant. In some ways, it makes the case more useful.
-
-The surviving record shows an incident that attracted multiple witnesses, police attention, local press coverage and an Air Force investigation. It also shows investigators drawing lines between evidence they considered stronger and evidence they considered weaker. Rather than simply accepting or dismissing everything, the file preserved uncertainty where investigators felt certainty was not justified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">FLYING SAUCERS UFO REPORTSErie, Pa.,</span><span class="citation-popover-snippet">CIAFLYING SAUCERS UFO REPORTSErie, Pa., August 1, 1966: Equally certain that sighters had &quot;seen something&quot; were the officers who investig...</span><span class="citation-popover-meta">Published: August 1, 1966</span></span></span>
-
-For Pennsylvania UFO history, that is the real significance of Presque Isle. The enduring mystery is not that Blue Book supposedly confirmed a landed craft. It is that after examining the reports, investigators still could not confidently explain the unusual lights at the centre of the case. The official unknown was real, but it was narrower than the legend that grew around it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/project-blue-book-presque-isle-state-park-pennsylvania-july-31-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">project blue book presque isle state park pennsylvania july 31 1966</span><span class="citation-popover-snippet">The Black VaultProject Blue Book: Presque Isle State Park, Pennsylvania24 Mar 2021 — In this particular Project Blue Book case, witnesses...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/1966-07-6978667-PresqueIsland-Pennsylvania-10798-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">1966 07 6978667 PresqueIsland Pennsylvania 10798</span><span class="citation-popover-snippet">Internet Archive1966 07 6978667 PresqueIsland Pennsylvania 107985 Dec 2015 — 1966 07 6978667 PresqueIsland Pennsylvania 10798; Publicati...</span></span></span>
-
-
-<img src="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_blue_book_unexplaine_72e3a4-Illustration-3-light.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_blue_book_unexplaine_72e3a4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_blue_book_unexplaine_72e3a4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: archive.org  
    Title: 1966 07 6978667 PresqueIsland Pennsylvania 10798  
-   Link: [https://archive.org/details/1966-07-6978667-PresqueIsland-Pennsylvania-10798-](https://archive.org/details/1966-07-6978667-PresqueIsland-Pennsylvania-10798-)  
+   Link: <a href="https://archive.org/details/1966-07-6978667-PresqueIsland-Pennsylvania-10798-" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/1966-07-6978667-PresqueIsland-Pennsylvania-10798-</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Archive1966 07 6978667 PresqueIsland Pennsylvania 107985 Dec 2015 — 1966 07 6978667 PresqueIsland Pennsylvania 10798; Publicati...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveComprehensive Catalog of 1600 Project Blue Book UFO...October 15, 2009 — 2 Oct 2009 — The main purpose of this catalog a...</p></details>
    Published: October 15, 2009  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 4. <a id="endnote-4"></a>
    Source: pbs.org  
    Title: the visit baxnt2  
-   Link: [https://www.pbs.org/video/the-visit-baxnt2/](https://www.pbs.org/video/the-visit-baxnt2/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PBSChronicles | The Visit | Season 1 | Episode 4Explore legend of Erie&#x27;s 1966 close encounter of a third... Presque Isle. The event made...</p></details>
+   Link: <a href="https://www.pbs.org/video/the-visit-baxnt2/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/video/the-visit-baxnt2/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chronicles | The Visit | Season 1 | Episode 4Explore legend of Erie&#x27;s 1966 close encounter of a third... Presque Isle. The event made...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cia.gov  
    Title: FLYING SAUCERS UFO REPORTSErie, Pa.,  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIAFLYING SAUCERS UFO REPORTSErie, Pa., August 1, 1966: Equally certain that sighters had &quot;seen something&quot; were the officers who investig...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS UFO REPORTSErie, Pa., August 1, 1966: Equally certain that sighters had &quot;seen something&quot; were the officers who investig...</p></details>
    Published: August 1, 1966  
 
 6. <a id="endnote-6"></a>
    Source: theblackvault.com  
    Title: project blue book presque isle state park pennsylvania july 31 1966  
-   Link: [https://www.theblackvault.com/documentarchive/project-blue-book-presque-isle-state-park-pennsylvania-july-31-1966/](https://www.theblackvault.com/documentarchive/project-blue-book-presque-isle-state-park-pennsylvania-july-31-1966/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/project-blue-book-presque-isle-state-park-pennsylvania-july-31-1966/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/project-blue-book-presque-isle-state-park-pennsylvania-july-31-1966/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultProject Blue Book: Presque Isle State Park, Pennsylvania24 Mar 2021 — In this particular Project Blue Book case, witnesses...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: documents2.theblackvault.com  
    Title: Presque Isle State Park, Pennsylvania  
-   Link: [https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf](https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Isle State Park, Pennsylvania... ERIE, PA., NEWS~fAN SHOT THIS 4 SACCER•. His Argument Had FiYe Sides... 1966 7. Children Esca d Previou...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: hagenhistory.org  
    Title: ufo sightings appear and disappear in the erie county region  
-   Link: [https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region](https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region)  
+   Link: <a href="https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region" target="_blank" rel="noopener noreferrer nofollow">https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Presque Isle story that appeared in the Erie Daily Times on Aug. 1, 1966. It detailed that more than a dozen people swear they saw an obj...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects25 Jun 2024 — Finding aids for these records include a file list for the project files and an index to individ...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/8331502](https://zenodo.org/records/8331502)  
+   Link: <a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Col. Hector Quintanilla evaluated the case data received from Minot AFB, and submitted a final case report on 13 November...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO) part 1 of 1On December 17, 1969 the Secretary of the. Air Force announced the termination of. Project Blue. Book, the. Ai...</p></details>
    Published: December 17, 1969  
 
 12. <a id="endnote-12"></a>
    Source: abc7.com  
    Title: the black vault project blue book declassified freedom of information act  
-   Link: [https://abc7.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/](https://abc7.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/)  
+   Link: <a href="https://abc7.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/" target="_blank" rel="noopener noreferrer nofollow">https://abc7.com/post/the-black-vault-project-blue-book-declassified-freedom-of-information-act/483352/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO enthusiast releases 130K pages of Air Force docs...20 Jan 2015 — Project Blue Book&#x27;s files were declassified after the project was c...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/fmrqsy/ufos_bigfoot_cia_investigate_combined_ufo_bigfoot/](https://www.reddit.com/r/HighStrangeness/comments/fmrqsy/ufos_bigfoot_cia_investigate_combined_ufo_bigfoot/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/fmrqsy/ufos_bigfoot_cia_investigate_combined_ufo_bigfoot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/fmrqsy/ufos_bigfoot_cia_investigate_combined_ufo_bigfoot/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA investigate combined UFO &amp; Bigfoot sighting in...UFO&#x27;s &amp; Bigfoot: CIA investigate combined UFO &amp; Bigfoot sighting in Presque Isle St...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: uk.forceswarrecords.com  
-   Link: [https://uk.forceswarrecords.com/document/8725311/presque-isle-state-park-pennsylvania-blank-page-61-us-project-blue-book-ufo-investigations-1947-1969](https://uk.forceswarrecords.com/document/8725311/presque-isle-state-park-pennsylvania-blank-page-61-us-project-blue-book-ufo-investigations-1947-1969)  
+   Link: <a href="https://uk.forceswarrecords.com/document/8725311/presque-isle-state-park-pennsylvania-blank-page-61-us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://uk.forceswarrecords.com/document/8725311/presque-isle-state-park-pennsylvania-blank-page-61-us-project-blue-book-ufo-investigations-1947-1969</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>61: US, Project Blue Book, 1947-196926 Feb 2007 — Records and case files relating to investigations of sightings of unidentified flying o...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: and now for something completely differentour friends in [carbondale](&#123;&#123; 'carbondale/' | relative_url &#125;&#125;) will be cele  
-   Link: [https://www.facebook.com/lackawannahistory/posts/and-now-for-something-completely-differentour-friends-in-carbondale-will-be-cele/872915754863883/](https://www.facebook.com/lackawannahistory/posts/and-now-for-something-completely-differentour-friends-in-carbondale-will-be-cele/872915754863883/)  
+   Link: <a href="https://www.facebook.com/lackawannahistory/posts/and-now-for-something-completely-differentour-friends-in-carbondale-will-be-cele/872915754863883/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lackawannahistory/posts/and-now-for-something-completely-differentour-friends-in-carbondale-will-be-cele/872915754863883/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lackawanna Historical Society... Blue Book case Number 10798 Erie, and it remains unexplained to this day.... Blue Book investigator...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: the presque isle shadow creatures sightings 2000s pennsylvaniain the early 2000s  
-   Link: [https://www.facebook.com/100054115523531/posts/the-presque-isle-shadow-creatures-sightings-2000s-pennsylvaniain-the-early-2000s/1466209538526216/](https://www.facebook.com/100054115523531/posts/the-presque-isle-shadow-creatures-sightings-2000s-pennsylvaniain-the-early-2000s/1466209538526216/)  
+   Link: <a href="https://www.facebook.com/100054115523531/posts/the-presque-isle-shadow-creatures-sightings-2000s-pennsylvaniain-the-early-2000s/1466209538526216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100054115523531/posts/the-presque-isle-shadow-creatures-sightings-2000s-pennsylvaniain-the-early-2000s/1466209538526216/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Presque Isle “Shadow Creatures” Sightings (2000s) –...This is the Air Force&#x27;s Project Blue Book case Number 10798 Erie, and it remai...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: eriereader.com  
    Title: eerie ufo conference promises to be out of this world  
-   Link: [https://www.eriereader.com/article/eerie-ufo-conference-promises-to-be-out-of-this-world](https://www.eriereader.com/article/eerie-ufo-conference-promises-to-be-out-of-this-world)  
+   Link: <a href="https://www.eriereader.com/article/eerie-ufo-conference-promises-to-be-out-of-this-world" target="_blank" rel="noopener noreferrer nofollow">https://www.eriereader.com/article/eerie-ufo-conference-promises-to-be-out-of-this-world</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Erie ReaderEerie UFO Conference Promises to be Out of This World27 Apr 2016 — Here in Erie, many dismissed the alien encounter as youthfu...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: talkerie.com  
    Title: that time in 1966 when an ufo might have visited erie  
-   Link: [https://talkerie.com/2021/06/25/that-time-in-1966-when-an-ufo-might-have-visited-erie/](https://talkerie.com/2021/06/25/that-time-in-1966-when-an-ufo-might-have-visited-erie/)  
+   Link: <a href="https://talkerie.com/2021/06/25/that-time-in-1966-when-an-ufo-might-have-visited-erie/" target="_blank" rel="noopener noreferrer nofollow">https://talkerie.com/2021/06/25/that-time-in-1966-when-an-ufo-might-have-visited-erie/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Jun 2021 — Back in 1966, a group of friends witnessed a UFO on Presque Isle&#x27;s Beach 6, making Erie the focus of Federal Blue Book Case...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
    Title: 130000 pages of 10000 project blue book case  
-   Link: [https://www.reddit.com/r/UFOs/comments/2s6l7c/130000_pages_of_10000_project_blue_book_case/](https://www.reddit.com/r/UFOs/comments/2s6l7c/130000_pages_of_10000_project_blue_book_case/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/2s6l7c/130000_pages_of_10000_project_blue_book_case/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/2s6l7c/130000_pages_of_10000_project_blue_book_case/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>130000 Pages of 10000+ Project Blue Book case files now...The Project Blue Book documents have been online for several years. You can do...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: militarytimes.com  
    Title: ufos from the files of project blue book  
-   Link: [https://www.militarytimes.com/2017/07/19/ufos-from-the-files-of-project-blue-book/](https://www.militarytimes.com/2017/07/19/ufos-from-the-files-of-project-blue-book/)  
+   Link: <a href="https://www.militarytimes.com/2017/07/19/ufos-from-the-files-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.militarytimes.com/2017/07/19/ufos-from-the-files-of-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jul 2017 — Observations about UFOs observed between 5:30 and 5:48 am. (2015) Project Blue Book photographs of an unidentified aquatic...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: uforesearchcenterofpennsylvania.blogspot.com  
    Title: presque isle case still unknown after  
-   Link: [https://uforesearchcenterofpennsylvania.blogspot.com/2018/01/presque-isle-case-still-unknown-after.html](https://uforesearchcenterofpennsylvania.blogspot.com/2018/01/presque-isle-case-still-unknown-after.html)  
+   Link: <a href="https://uforesearchcenterofpennsylvania.blogspot.com/2018/01/presque-isle-case-still-unknown-after.html" target="_blank" rel="noopener noreferrer nofollow">https://uforesearchcenterofpennsylvania.blogspot.com/2018/01/presque-isle-case-still-unknown-after.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Presque Isle Case still an Unknown after 52 Years - Project Blue Book Case #10798. July 31, 1966; Presque Isle State Park, Pennsylvania.R...</p></details>
    Published: July 31, 1966  
 
 22. <a id="endnote-22"></a>
    Source: osi.af.mil  
    Title: project blue book part 1 ufo reports  
-   Link: [https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/](https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/)  
+   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Part 1 (UFO Reports)6 Aug 2020 — A total of 12,618 sightings were reported to Project Blue Book, with 701 remaining “un...</p></details>

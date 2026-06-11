@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /ashland-case/
 nav_short_title: Condon Evidence
 title: What did the Condon investigators actually find?
-title_full: What did the Condon investigators actually find? | Ashland Case
+title_full: What did the Condon investigators actually find?
 display_title_short: Condon Evidence
 display_title: Condon Evidence
 heading_title: What did the Condon investigators actually find?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:45:41'
-parent_title: Why the Ashland Police UFO Case Still Matters | Nebraska UFOs
+parent_title: Why the Ashland Police UFO Case Still Matters
 parent_permalink: /ashland-case/
 parent_nav_short_title: Ashland Case
 parent_heading_title: Why the Ashland Police UFO Case Still Matters
@@ -250,10 +250,9 @@ image: /assets/images/Nebraska_e9c60b_ashland_police_case_69c682_condon_ashland_
 
 ## Introduction
 
-The University of Colorado UFO study, usually called the Condon Committee, turned the Ashland police encounter into one of the most closely examined UFO cases in [Nebraska]({{ 'what-really-happened-in-nebraskas-ufo/' | relative_url }}) history. Yet the investigation is also a good example of the difference between believing a witness and proving an event. In its assessment of Officer Herbert Schirmer’s 1967 report, the Colorado team largely accepted that he appeared sincere. What it could not find was convincing physical evidence that a UFO had actually been present. The resulting tension between witness credibility and weak corroboration remains the central issue in the case today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 42: State Trooper SightingThe polygraph reportedly showed no indications that the UFO report was other than truthful...</span></span></span>
+The University of Colorado UFO study, usually called the Condon Committee, turned the Ashland police encounter into one of the most closely examined UFO cases in Nebraska history. Yet the investigation is also a good example of the difference between believing a witness and proving an event. In its assessment of Officer Herbert Schirmer’s 1967 report, the Colorado team largely accepted that he appeared sincere. What it could not find was convincing physical evidence that a UFO had actually been present. The resulting tension between witness credibility and weak corroboration remains the central issue in the case today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 42: State Trooper SightingThe polygraph reportedly showed no indications that the UFO report was other than truthful...</span></span></span>
 
-
-<img src="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_condon_ashland_evide_847e06-Illustration-1-light.svg" | relative_url }}" alt="Condon Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_condon_ashland_evide_847e06-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_condon_ashland_evide_847e06-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_condon_ashland_evide_847e06-Illustration-1-dark.svg" | relative_url }}" alt="Condon Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_condon_ashland_evide_847e06-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_condon_ashland_evide_847e06-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the case reached the Colorado project
 
 The Ashland incident arrived at a moment when the US Air Force had commissioned the University of Colorado to conduct a major scientific review of UFO reports. The project examined selected cases that seemed more substantial than ordinary sightings, especially those involving trained observers, official reports or claims of physical effects. The Ashland encounter fit that pattern unusually well. Schirmer was a serving police officer, reported a missing-time episode, described physical after-effects and claimed to have seen a structured object at close range. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 42: State Trooper SightingThe polygraph reportedly showed no indications that the UFO report was other than truthful...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colorado.edu">[University of Colorado Boulder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colorado.edu</span><span class="citation-popover-snippet">University of Colorado BoulderThe Condon Report: CU Boulder&#x27;s Historic UFO Study5 Nov 2021 — The “Condon Report” officially concluded UFO...</span></span></span>
@@ -261,7 +260,6 @@ The Ashland incident arrived at a moment when the US Air Force had commissioned 
 Within the final report, the case appeared as “Case 42: State Trooper Sighting”. The investigators did not treat it as a simple hoax claim. Schirmer’s superior officer reportedly described him as dependable and truthful, and stated that he did not believe the account resulted from dishonesty or hallucination. The report also recorded that Schirmer had undergone a polygraph examination at his own request, with the examiner reportedly finding no indication that he was deliberately fabricating the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 42: State Trooper SightingThe polygraph reportedly showed no indications that the UFO report was other than truthful...</span></span></span>
 
 Those details are important because they explain why the case survived as a significant Nebraska UFO incident. The Condon investigators did not dismiss the witness out of hand. Instead, they attempted to determine whether anything outside Schirmer’s testimony could support the claim that a physical craft had been present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 42: State Trooper SightingThe polygraph reportedly showed no indications that the UFO report was other than truthful...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T6MTp3Rfl6Q" title="Condon UFO Report (The Scientific Study of UFOs), 1969" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T6MTp3Rfl6Q" target="_blank" rel="noopener noreferrer">Condon UFO Report (The Scientific Study of UFOs), 1969</a></p><p class="youtube-embed-meta">Channel: Think Anomalous &middot; Views: 27.0K &middot; Uploaded: December 2016 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T6MTp3Rfl6Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T6MTp3Rfl6Q">Open on YouTube</a></p></div></div></div>
 
@@ -277,8 +275,7 @@ The site itself also failed to produce supporting evidence. Investigators checke
 
 For a case often remembered as one of the strongest police UFO encounters, this is a striking point. The only physical item collected was a tiny fragment that could not be connected to the event with confidence, while direct examination of the location produced negative results. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 42: State Trooper SightingThe polygraph reportedly showed no indications that the UFO report was other than truthful...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z_GdL-Pp4g0" title="BrainScratch : Herbert Schirmer&#x27;s Alien Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z_GdL-Pp4g0" target="_blank" rel="noopener noreferrer">BrainScratch : Herbert Schirmer&#x27;s Alien Story</a></p><p class="youtube-embed-meta">Channel: LordanARTS &middot; Views: 25.8K &middot; Uploaded: August 2017 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z_GdL-Pp4g0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z_GdL-Pp4g0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mRbtLQKpHz8" title="THE CONDON REPORT AND MUFON - UFO CONSPIRACIES | UFO CHRONICLES AI DOC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mRbtLQKpHz8" target="_blank" rel="noopener noreferrer">THE CONDON REPORT AND MUFON - UFO CONSPIRACIES | UFO CHRONICLES AI DOC</a></p><p class="youtube-embed-meta">Channel: Post Apocalypse &middot; Views: 118 &middot; Uploaded: June 2023 &middot; Length: 2 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mRbtLQKpHz8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mRbtLQKpHz8">Open on YouTube</a></p></div></div></div>
 
 ## Why investigators looked beyond physical traces
 
@@ -290,8 +287,7 @@ The hypnotic session produced additional narrative details beyond Schirmer’s o
 
 This distinction became one of the most important themes in later discussion of the case. Supporters often emphasised the apparent honesty of the witness and the favourable psychological findings. Sceptics pointed out that sincerity and factual accuracy are not the same thing. A witness can honestly report an experience that has been misunderstood, distorted by memory or influenced by psychological processes. The Colorado investigators ultimately leaned toward that cautionary interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 42: State Trooper SightingThe polygraph reportedly showed no indications that the UFO report was other than truthful...</span></span></span>
 
-
-<img src="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_condon_ashland_evide_847e06-Illustration-2-light.svg" | relative_url }}" alt="Condon Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_condon_ashland_evide_847e06-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_condon_ashland_evide_847e06-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_condon_ashland_evide_847e06-Illustration-2-dark.svg" | relative_url }}" alt="Condon Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_condon_ashland_evide_847e06-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_condon_ashland_evide_847e06-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sincerity versus physical corroboration
 
 The most quoted conclusion from the Colorado investigation is not that Schirmer lied. It is almost the opposite.
@@ -299,7 +295,6 @@ The most quoted conclusion from the Colorado investigation is not that Schirmer 
 After reviewing the psychological assessments, interviews and physical evidence, the project concluded that it had no confidence that the reported UFO experience was physically real. That judgment rested not on proof of fraud but on the absence of corroborating evidence. The investigators could not establish that an extraordinary object had actually been present at the site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 42: State Trooper SightingThe polygraph reportedly showed no indications that the UFO report was other than truthful...</span></span></span>
 
 The [Ashland case]({{ 'ashland-case/' | relative_url }}) therefore became a textbook example of an evidence problem that appears repeatedly in UFO history. Several factors pointed toward a sincere witness:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -311,7 +306,6 @@ The [Ashland case]({{ 'ashland-case/' | relative_url }}) therefore became a text
 </div>
 
 At the same time, several factors limited the evidential value of the case:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -325,8 +319,7 @@ At the same time, several factors limited the evidential value of the case:
 
 The Colorado project therefore ended in an unusual middle position. It neither exposed a hoax nor validated a UFO landing. Instead, it concluded that the witness appeared genuine while the evidence for a physical UFO event remained inadequate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 42: State Trooper SightingThe polygraph reportedly showed no indications that the UFO report was other than truthful...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mRbtLQKpHz8" title="THE CONDON REPORT AND MUFON - UFO CONSPIRACIES | UFO CHRONICLES AI DOC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mRbtLQKpHz8" target="_blank" rel="noopener noreferrer">THE CONDON REPORT AND MUFON - UFO CONSPIRACIES | UFO CHRONICLES AI DOC</a></p><p class="youtube-embed-meta">Channel: Post Apocalypse &middot; Views: 118 &middot; Uploaded: June 2023 &middot; Length: 2 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mRbtLQKpHz8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mRbtLQKpHz8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z_GdL-Pp4g0" title="BrainScratch : Herbert Schirmer&#x27;s Alien Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z_GdL-Pp4g0" target="_blank" rel="noopener noreferrer">BrainScratch : Herbert Schirmer&#x27;s Alien Story</a></p><p class="youtube-embed-meta">Channel: LordanARTS &middot; Views: 25.8K &middot; Uploaded: August 2017 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z_GdL-Pp4g0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z_GdL-Pp4g0">Open on YouTube</a></p></div></div></div>
 
 ## Why the Condon findings still matter in Nebraska UFO history
 
@@ -336,8 +329,7 @@ Yet the investigation also illustrates the limits of witness testimony in the ab
 
 Within Nebraska’s UFO history, the lasting significance of the Condon evidence is therefore not that investigators proved a UFO landed near Ashland. It is that one of the state’s strongest witness cases underwent extensive examination and still produced an unresolved result: a credible officer, a memorable story and a physical record too weak to settle what actually happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 42: State Trooper SightingThe polygraph reportedly showed no indications that the UFO report was other than truthful...</span></span></span>
 
-
-<img src="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_condon_ashland_evide_847e06-Illustration-3-light.svg" | relative_url }}" alt="Condon Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_condon_ashland_evide_847e06-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_condon_ashland_evide_847e06-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_condon_ashland_evide_847e06-Illustration-3-dark.svg" | relative_url }}" alt="Condon Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_condon_ashland_evide_847e06-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_ashland_police_case_69c682_condon_ashland_evide_847e06-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -425,7 +417,7 @@ Within Nebraska’s UFO history, the lasting significance of the Condon evidence
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -435,111 +427,36 @@ Within Nebraska’s UFO history, the lasting significance of the Condon evidence
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-condon-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-condon-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-condon-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-condon-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-condon-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-condon-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-condon-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-condon-investigators-actually-find-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,15 +464,15 @@ Within Nebraska’s UFO history, the lasting significance of the Condon evidence
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-condon-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-condon-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-condon-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-condon-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-condon-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-condon-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-condon-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-condon-investigators-actually-find-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,15 +480,15 @@ Within Nebraska’s UFO history, the lasting significance of the Condon evidence
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-condon-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-condon-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-condon-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-condon-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-condon-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-condon-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-condon-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-condon-investigators-actually-find-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -579,15 +496,15 @@ Within Nebraska’s UFO history, the lasting significance of the Condon evidence
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-condon-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-condon-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-condon-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-condon-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-condon-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-condon-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-condon-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-condon-investigators-actually-find-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -595,7 +512,7 @@ Within Nebraska’s UFO history, the lasting significance of the Condon evidence
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-evidence-what-did-the-condon-investigators-actually-find-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-condon-investigators-actually-find-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-condon-investigators-actually-find-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -672,17 +589,31 @@ Within Nebraska’s UFO history, the lasting significance of the Condon evidence
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -695,42 +626,73 @@ Within Nebraska’s UFO history, the lasting significance of the Condon evidence
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -745,12 +707,17 @@ Within Nebraska’s UFO history, the lasting significance of the Condon evidence
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -760,74 +727,74 @@ Within Nebraska’s UFO history, the lasting significance of the Condon evidence
 
 1. <a id="endnote-1"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/case42.htm](https://files.ncas.org/condon/text/case42.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case42.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Case 42: State Trooper SightingThe polygraph reportedly showed no indications that the UFO report was other than truthful...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: colorado.edu  
-   Link: [https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study](https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study)  
+   Link: <a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Colorado BoulderThe Condon Report: CU Boulder&#x27;s Historic UFO Study5 Nov 2021 — The “Condon Report” officially concluded UFO...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: [https://en.wikipedia.org/wiki/Condon_Committee](https://en.wikipedia.org/wiki/Condon_Committee)  
+   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon CommitteeThe Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United Sta...</p></details>
 
 ### Additional References
 
 4. <a id="endnote-4"></a>
    Source: believingthebizarre.com  
-   Link: [https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/](https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/)  
+   Link: <a href="https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Herbert Schirmer Alien AbductionPolice officer Herbert Schirmer reported a UFO encounter near Ashland, Nebraska, on December 3, 1967...</p></details>
    Published: December 3, 1967  
 
 5. <a id="endnote-5"></a>
    Source: esd.whs.mil  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/nas_re1.pdf?ver=2017-05-22-113513-883](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/nas_re1.pdf?ver=2017-05-22-113513-883)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/nas_re1.pdf?ver=2017-05-22-113513-883" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/nas_re1.pdf?ver=2017-05-22-113513-883</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting are of short duration, seldom last an hour and usually for a few minutes. Thus most investigations consisted of...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=z_GdL-Pp4g0](https://www.youtube.com/watch?v=z_GdL-Pp4g0)  
+   Link: <a href="https://www.youtube.com/watch?v=z_GdL-Pp4g0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z_GdL-Pp4g0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BrainScratch: Herbert Schirmer&#x27;s Alien StoryWhat Quantum Computers Just Proved About Reality Is Terrifying · BrainScratch: Cool Teleport...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — There is, however, a growing body of evidence that the government is not bei...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: instagram.com  
    Title: Tricks of the mind, weather balloons, or extraterrestrial life  
-   Link: [https://www.instagram.com/reel/DQ0JdsmDy3j/](https://www.instagram.com/reel/DQ0JdsmDy3j/)  
+   Link: <a href="https://www.instagram.com/reel/DQ0JdsmDy3j/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQ0JdsmDy3j/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The document discusses growing national controversy surrounding UFO sightings and specifically mentions future President Gerald Ford, who...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: 3newsnow.com  
-   Link: [https://www.3newsnow.com/news/local-news/local-ufo-story-revitalized-after-beer-comic-book-comes-out](https://www.3newsnow.com/news/local-news/local-ufo-story-revitalized-after-beer-comic-book-comes-out)  
+   Link: <a href="https://www.3newsnow.com/news/local-news/local-ufo-story-revitalized-after-beer-comic-book-comes-out" target="_blank" rel="noopener noreferrer nofollow">https://www.3newsnow.com/news/local-news/local-ufo-story-revitalized-after-beer-comic-book-comes-out</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Local UFO story revitalized after beer, comic book comes out4 Apr 2019 — Back in 1967, Ashland police officer Herbert Schirmer claimed he...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: documents2.theblackvault.com  
    Title: comunder contract to t~e United States Air Force Scientific  
-   Link: [https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf](https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Report of the. Scicntifi c Study of Un&#x27;,dentified Plying Objects cond&#x27;Jcted by the &quot;r!;.versjty of Colorado under contract to t)liJ Unite...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DSVIsn0DZkz/](https://www.instagram.com/p/DSVIsn0DZkz/)  
+   Link: <a href="https://www.instagram.com/p/DSVIsn0DZkz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSVIsn0DZkz/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cases from the 1960s—the extraordinary encounter of Herb Schirmer, a 22-year-old police officer in Ashland, Nebraska. On December 3, 1967...</p></details>
    Published: December 3, 1967  
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: THE CONDON REPORT AND MUFON  
-   Link: [https://www.youtube.com/watch?v=mRbtLQKpHz8](https://www.youtube.com/watch?v=mRbtLQKpHz8)  
+   Link: <a href="https://www.youtube.com/watch?v=mRbtLQKpHz8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mRbtLQKpHz8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Committee Condon Report UFO history The Condon UFO Report (Scientific Study &amp; Evidence of UFOs) in 1969 - FindingUFO FindingUFO...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/beyond-earth-mans-contact-with-ufos.html](https://dokumen.pub/beyond-earth-mans-contact-with-ufos.html)  
+   Link: <a href="https://dokumen.pub/beyond-earth-mans-contact-with-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/beyond-earth-mans-contact-with-ufos.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eport employs almost the same words used by Dr. Hynek after...Read more...</p></details>

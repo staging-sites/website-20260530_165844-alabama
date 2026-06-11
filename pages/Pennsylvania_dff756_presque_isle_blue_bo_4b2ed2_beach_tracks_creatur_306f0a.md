@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /presque-isle/
 nav_short_title: Beach Tracks
 title: Did the beach traces prove anything?
-title_full: Did the beach traces prove anything? | Presque Isle
+title_full: Did the beach traces prove anything?
 display_title_short: Beach Tracks
 display_title: Beach Tracks
 heading_title: Did the beach traces prove anything?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:07:45'
-parent_title: Why Presque Isle Stayed Unidentified | Pennsylvania UFOs
+parent_title: Why Presque Isle Stayed Unidentified
 parent_permalink: /presque-isle/
 parent_nav_short_title: Presque Isle
 parent_heading_title: Why Presque Isle Stayed Unidentified
@@ -250,10 +250,9 @@ image: /assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_trac
 
 ## Introduction
 
-The beach traces and alleged creature sighting at [Presque Isle]({{ 'presque-isle/' | relative_url }}) are the most dramatic parts of Erie’s 1966 UFO story, but they are also the least reliable. While Project Blue Book ultimately kept the aerial object report in its unresolved category, the physical evidence on the beach never carried the same weight. Reports of strange sand impressions, disturbed ground and a dark figure near Beach Six helped turn the case into [Pennsylvania]({{ 'what-really-happened-in-pennsylvanias/' | relative_url }}) UFO folklore, yet those details emerged in a setting where ordinary explanations were difficult to rule out. The result is a useful example of how a UFO case can become more famous through its most questionable elements rather than its strongest evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">Said he would call if he heard of any such reports •. •. •. Page 105</span><span class="citation-popover-snippet">The Black VaultPresque Isle State Park, PennsylvaniaHe didn&#x27;t have any reports of any meteors coming down over Lake Erie on 31 July 1966...</span><span class="citation-popover-meta">Published: July 1966</span></span></span>
+The beach traces and alleged creature sighting at [Presque Isle]({{ 'presque-isle/' | relative_url }}) are the most dramatic parts of Erie’s 1966 UFO story, but they are also the least reliable. While Project [Blue Book]({{ 'blue-book-68fdf4/' | relative_url }}) ultimately kept the aerial object report in its unresolved category, the physical evidence on the beach never carried the same weight. Reports of strange sand impressions, disturbed ground and a dark figure near Beach Six helped turn the case into Pennsylvania UFO folklore, yet those details emerged in a setting where ordinary explanations were difficult to rule out. The result is a useful example of how a UFO case can become more famous through its most questionable elements rather than its strongest evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">Said he would call if he heard of any such reports •. •. •. Page 105</span><span class="citation-popover-snippet">The Black VaultPresque Isle State Park, PennsylvaniaHe didn&#x27;t have any reports of any meteors coming down over Lake Erie on 31 July 1966...</span><span class="citation-popover-meta">Published: July 1966</span></span></span>
 
-
-<img src="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-1-light.svg" | relative_url }}" alt="Beach Tracks illustration 1" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-1-dark.svg" | relative_url }}" alt="Beach Tracks illustration 1" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What witnesses and newspapers said was found
 
 The original reports described more than an unusual light in the sky. Witnesses and later newspaper accounts claimed that investigators found marks in the sand near the area where an object was believed to have descended. Erie newspapers reported that police and civilian UFO investigators examined the location after the event, and later summaries repeated claims that numerous impressions were present around Beach Six. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hagenhistory.org">[Hagen History Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hagenhistory.org</span><span class="citation-popover-title">ufo sightings appear and disappear in the erie county region</span><span class="citation-popover-snippet">Hagen History CenterUFO sightings appear and disappear in the Erie County...2 Jul 2021 — I&#x27;m one of the many Baby Boomers who remembers...</span></span></span>
@@ -264,7 +263,6 @@ The creature claim emerged from the same cluster of witness statements. Betty Je
 
 However, even sympathetic investigators faced a problem: the alleged creature was observed briefly, under stressful conditions and in darkness. No photographs, physical traces clearly linked to a creature, or independent confirmations established what was actually seen. The creature report remained dependent on witness recollection rather than verifiable evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eriehistory.blogspot.com">[Erie History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eriehistory.blogspot.com</span><span class="citation-popover-title">ufo sightings at presque isle state park</span><span class="citation-popover-snippet">Erie HistoryUFO Sighting at Presque Isle State Park3 Jan 2023 — Betty Jean Klem of Jamestown, New York had a very unusual experience at P...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Aga-fA6iUm4" title="Operation Highjump | Mission: Find and Destroy the Secret Nazi UFO Base In Antarctica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Aga-fA6iUm4" target="_blank" rel="noopener noreferrer">Operation Highjump | Mission: Find and Destroy the Secret Nazi UFO Base In Antarctica</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 5.7M &middot; Uploaded: July 2022 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Aga-fA6iUm4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Aga-fA6iUm4">Open on YouTube</a></p></div></div></div>
 
 ## Why sand impressions are hard to interpret
@@ -274,7 +272,6 @@ The beach environment itself makes the physical evidence difficult to evaluate. 
 That problem was especially relevant at Beach Six. The area was not an isolated scientific test site. It was a public beach where vehicles, park staff, police officers, curious visitors and investigators moved through the scene after reports spread. By the time searches were conducted, any original traces could have been mixed with later disturbances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hagenhistory.org">[Hagen History Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hagenhistory.org</span><span class="citation-popover-title">ufo sightings appear and disappear in the erie county region</span><span class="citation-popover-snippet">Hagen History CenterUFO sightings appear and disappear in the Erie County...2 Jul 2021 — I&#x27;m one of the many Baby Boomers who remembers...</span></span></span>
 
 Several factors make the impressions less persuasive than later folklore suggests:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -288,14 +285,12 @@ Several factors make the impressions less persuasive than later folklore suggest
 
 In UFO investigations, physical traces become strongest when investigators can demonstrate that ordinary causes are unlikely. The Presque Isle marks never reached that standard. They remained interesting but ambiguous observations rather than compelling forensic evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">Said he would call if he heard of any such reports •. •. •. Page 105</span><span class="citation-popover-snippet">The Black VaultPresque Isle State Park, PennsylvaniaHe didn&#x27;t have any reports of any meteors coming down over Lake Erie on 31 July 1966...</span><span class="citation-popover-meta">Published: July 1966</span></span></span>
 
-
-<img src="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-2-light.svg" | relative_url }}" alt="Beach Tracks illustration 2" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-2-dark.svg" | relative_url }}" alt="Beach Tracks illustration 2" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Blue Book treated the traces cautiously
 
-One reason the Presque Isle case remains important is that the official Air Force response was more restrained than many later retellings. The [Blue Book]({{ 'blue-book-68fdf4/' | relative_url }}) file preserved witness statements and investigative material, but official handling did not treat the beach marks as proof that a craft had landed. Researchers who have reviewed the case generally note that the unidentified status applied to the aerial observation, not necessarily to every associated claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">Said he would call if he heard of any such reports •. •. •. Page 105</span><span class="citation-popover-snippet">The Black VaultPresque Isle State Park, PennsylvaniaHe didn&#x27;t have any reports of any meteors coming down over Lake Erie on 31 July 1966...</span><span class="citation-popover-meta">Published: July 1966</span></span></span>
+One reason the Presque Isle case remains important is that the official Air Force response was more restrained than many later retellings. The Blue Book file preserved witness statements and investigative material, but official handling did not treat the beach marks as proof that a craft had landed. Researchers who have reviewed the case generally note that the unidentified status applied to the aerial observation, not necessarily to every associated claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">Said he would call if he heard of any such reports •. •. •. Page 105</span><span class="citation-popover-snippet">The Black VaultPresque Isle State Park, PennsylvaniaHe didn&#x27;t have any reports of any meteors coming down over Lake Erie on 31 July 1966...</span><span class="citation-popover-meta">Published: July 1966</span></span></span>
 
 This distinction matters because popular accounts often merge three separate questions into one:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -306,7 +301,6 @@ This distinction matters because popular accounts often merge three separate que
 </div>
 
 The available evidence does not support all three questions equally. The first remained unresolved in official records. The second was uncertain and difficult to interpret. The third rested almost entirely on witness testimony. Treating them as a single block of evidence makes the case appear stronger than the documentation allows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">Said he would call if he heard of any such reports •. •. •. Page 105</span><span class="citation-popover-snippet">The Black VaultPresque Isle State Park, PennsylvaniaHe didn&#x27;t have any reports of any meteors coming down over Lake Erie on 31 July 1966...</span><span class="citation-popover-meta">Published: July 1966</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cYPCKIL7oVw" title="UFOTV Presents UFOs OUT OF THE BLUE - A James Fox Film" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cYPCKIL7oVw" target="_blank" rel="noopener noreferrer">UFOTV Presents UFOs OUT OF THE BLUE - A James Fox Film</a></p><p class="youtube-embed-meta">Channel: UFO CENTRAL &middot; Views: 9.2M &middot; Uploaded: November 2011 &middot; Length: 1 hour 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cYPCKIL7oVw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cYPCKIL7oVw">Open on YouTube</a></p></div></div></div>
 
@@ -320,8 +314,7 @@ The creature description itself remained remarkably indistinct. Witnesses did no
 
 This is one reason sceptical interpretations have remained plausible. A dark shoreline environment, heightened emotions, unusual lights and a stranded vehicle create conditions in which ordinary sights and sounds can seem extraordinary. The creature claim may therefore reveal as much about perception under stress as it does about whatever happened near Beach Six that evening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eriehistory.blogspot.com">[Erie History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eriehistory.blogspot.com</span><span class="citation-popover-title">ufo sightings at presque isle state park</span><span class="citation-popover-snippet">Erie HistoryUFO Sighting at Presque Isle State Park3 Jan 2023 — Betty Jean Klem of Jamestown, New York had a very unusual experience at P...</span></span></span>
 
-
-<img src="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-3-light.svg" | relative_url }}" alt="Beach Tracks illustration 3" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-3-dark.svg" | relative_url }}" alt="Beach Tracks illustration 3" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_presque_isle_blue_bo_4b2ed2_beach_tracks_creatur_306f0a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the beach traces actually tell us
 
 The beach marks and creature reports helped make Presque Isle one of Pennsylvania's most enduring UFO stories, but they do not substantially strengthen the evidential case. Their significance lies elsewhere.
@@ -330,9 +323,7 @@ They show how a UFO incident can acquire layers of meaning as witnesses, newspap
 
 Yet those same features are also the weakest parts of the record. The impressions were found in an environment where contamination and misinterpretation were highly likely. The creature was never independently verified. More than half a century later, the traces remain intriguing but inconclusive, while the creature has largely passed from reported observation into local folklore. That tension between official mystery and unreliable embellishment is exactly what makes the Presque Isle case such a revealing chapter in Pennsylvania's UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">Said he would call if he heard of any such reports •. •. •. Page 105</span><span class="citation-popover-snippet">The Black VaultPresque Isle State Park, PennsylvaniaHe didn&#x27;t have any reports of any meteors coming down over Lake Erie on 31 July 1966...</span><span class="citation-popover-meta">Published: July 1966</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hagenhistory.org">[Hagen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hagenhistory.org</span><span class="citation-popover-title">ufo sightings appear and disappear in the erie county region</span><span class="citation-popover-snippet">Hagen History CenterUFO sightings appear and disappear in the Erie County...2 Jul 2021 — I&#x27;m one of the many Baby Boomers who remembers...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pSZUBulON6I" title="UFO &amp; UAP &#x27;Need to Know&#x27; News Documentary with Coulthart &amp; Zabel | 7NEWS Spotlight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pSZUBulON6I" target="_blank" rel="noopener noreferrer">UFO &amp; UAP &#x27;Need to Know&#x27; News Documentary with Coulthart &amp; Zabel | 7NEWS Spotlight</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 3.2M &middot; Uploaded: August 2022 &middot; Length: 1 hour 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pSZUBulON6I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pSZUBulON6I">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -756,96 +747,96 @@ Yet those same features are also the weakest parts of the record. The impression
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Presque Isle State Park  
-   Link: [https://en.wikipedia.org/wiki/Presque_Isle_State_Park](https://en.wikipedia.org/wiki/Presque_Isle_State_Park)  
+   Link: <a href="https://en.wikipedia.org/wiki/Presque_Isle_State_Park" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Presque_Isle_State_Park</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Project](https://en.wikipedia.org/wiki/Project)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ProjectA project is a type of assignment, typically involving research or design, that is carefully planned to achieve a specific obje...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: documents2.theblackvault.com  
    Title: Said he would call if he heard of any such reports •. •. •. Page 105  
-   Link: [https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf](https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/PresqueIslandStatePark-Pennsylvania-07-31-1966-main.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultPresque Isle State Park, PennsylvaniaHe didn&#x27;t have any reports of any meteors coming down over Lake Erie on 31 July 1966...</p></details>
    Published: July 1966  
 
 4. <a id="endnote-4"></a>
    Source: hagenhistory.org  
    Title: ufo sightings appear and disappear in the erie county region  
-   Link: [https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region](https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region)  
+   Link: <a href="https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region" target="_blank" rel="noopener noreferrer nofollow">https://www.hagenhistory.org/blog/ufo-sightings-appear-and-disappear-in-the-erie-county-region</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hagen History CenterUFO sightings appear and disappear in the Erie County...2 Jul 2021 — I&#x27;m one of the many Baby Boomers who remembers...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: eriehistory.blogspot.com  
    Title: ufo sightings at presque isle state park  
-   Link: [https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html](https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html)  
+   Link: <a href="https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html" target="_blank" rel="noopener noreferrer nofollow">https://eriehistory.blogspot.com/2023/01/ufo-sightings-at-presque-isle-state-park.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Erie HistoryUFO Sighting at Presque Isle State Park3 Jan 2023 — Betty Jean Klem of Jamestown, New York had a very unusual experience at P...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/project](https://dictionary.cambridge.org/dictionary/english/project)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionarya piece of planned work or an activity that is finished over a period of time and intended to ach...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya piece of planned work or an activity that is finished over a period of time and intended to ach...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/project](https://www.merriam-webster.com/dictionary/project)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/project" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/project</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT Definition &amp; Meaning1. a: to devise in the mind: design b: to plan, figure, or estimate for the future 2. to throw or cast for...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: knowledgetrain.co.uk  
-   Link: [https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOorq0LhvCK5j44w1OIHFCgvEz79wuGSPH3wVUodTF-S8lk0YFvvx](https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOorq0LhvCK5j44w1OIHFCgvEz79wuGSPH3wVUodTF-S8lk0YFvvx)  
+   Link: <a href="https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOorq0LhvCK5j44w1OIHFCgvEz79wuGSPH3wVUodTF-S8lk0YFvvx" target="_blank" rel="noopener noreferrer nofollow">https://www.knowledgetrain.co.uk/project-management/projects?srsltid=AfmBOorq0LhvCK5j44w1OIHFCgvEz79wuGSPH3wVUodTF-S8lk0YFvvx</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Projects | Definition of a ProjectProjects are more than just temporary endeavours; they are the lifeblood of organizations, driving stra...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmi.org  
-   Link: [https://www.pmi.org/about/what-is-a-project](https://www.pmi.org/about/what-is-a-project)  
+   Link: <a href="https://www.pmi.org/about/what-is-a-project" target="_blank" rel="noopener noreferrer nofollow">https://www.pmi.org/about/what-is-a-project</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Project, Examples and the Project LifecycleA project is a series of structured tasks, activities, and deliverables that are car...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cia.gov  
    Title: FLYIN G SAUCERS UFO REPORTS | CIA FOIA (foia.cia.gov)Erie, Pa.,  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS UFO REPORTS | CIA FOIA (foia.cia.gov)Erie, Pa., August 1, 1966: Equally certain that sighters had &quot;seen something&quot; were th...</p></details>
    Published: August 1, 1966  
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: the blue man of elktonin early 1958 motorists around elkton in michigans thumb r  
-   Link: [https://www.facebook.com/LostInMichigan.net/posts/the-blue-man-of-elktonin-early-1958-motorists-around-elkton-in-michigans-thumb-r/1251045026378976/](https://www.facebook.com/LostInMichigan.net/posts/the-blue-man-of-elktonin-early-1958-motorists-around-elkton-in-michigans-thumb-r/1251045026378976/)  
+   Link: <a href="https://www.facebook.com/LostInMichigan.net/posts/the-blue-man-of-elktonin-early-1958-motorists-around-elkton-in-michigans-thumb-r/1251045026378976/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LostInMichigan.net/posts/the-blue-man-of-elktonin-early-1958-motorists-around-elkton-in-michigans-thumb-r/1251045026378976/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Blue Man of Elkton In early 1958, motorists around...It happened on a warm summer evening July 31, 1966 at beach 6 on Presque Isle i...</p></details>
    Published: July 31, 1966  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: History of Presque Isle's UFO Landing It happened on a warm summer evening  
-   Link: [https://www.facebook.com/PresqueIslePA/posts/join-us-to-celebrate-the-ufo-landing-that-occurred-53-years-ago-on-july-31st-196/2294208287281158/](https://www.facebook.com/PresqueIslePA/posts/join-us-to-celebrate-the-ufo-landing-that-occurred-53-years-ago-on-july-31st-196/2294208287281158/)  
+   Link: <a href="https://www.facebook.com/PresqueIslePA/posts/join-us-to-celebrate-the-ufo-landing-that-occurred-53-years-ago-on-july-31st-196/2294208287281158/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PresqueIslePA/posts/join-us-to-celebrate-the-ufo-landing-that-occurred-53-years-ago-on-july-31st-196/2294208287281158/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>History of Presque Isle&#x27;s UFO LandingIt happened on a warm summer evening July 31, 1966 at beach 6 on Presque Isle in Erie Pa. Many peopl...</p></details>
    Published: July 31, 1966  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: American Institute of Metaphysics It happened on a warm summer evening  
-   Link: [https://www.facebook.com/instituteofmetaphysics/posts/in-the-summer-of-1966-there-were-reports-of-a-mysterious-creature-associated-wit/2111148828980524/](https://www.facebook.com/instituteofmetaphysics/posts/in-the-summer-of-1966-there-were-reports-of-a-mysterious-creature-associated-wit/2111148828980524/)  
+   Link: <a href="https://www.facebook.com/instituteofmetaphysics/posts/in-the-summer-of-1966-there-were-reports-of-a-mysterious-creature-associated-wit/2111148828980524/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/instituteofmetaphysics/posts/in-the-summer-of-1966-there-were-reports-of-a-mysterious-creature-associated-wit/2111148828980524/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Institute of MetaphysicsIt happened on a warm summer evening July 31, 1966 at beach 6 on Presque Isle in Erie Pa. Many people wi...</p></details>
    Published: July 31, 1966  
 
 14. <a id="endnote-14"></a>
    Source: talkerie.com  
    Title: that time in 1966 when an ufo might have visited erie  
-   Link: [https://talkerie.com/2021/06/25/that-time-in-1966-when-an-ufo-might-have-visited-erie/](https://talkerie.com/2021/06/25/that-time-in-1966-when-an-ufo-might-have-visited-erie/)  
+   Link: <a href="https://talkerie.com/2021/06/25/that-time-in-1966-when-an-ufo-might-have-visited-erie/" target="_blank" rel="noopener noreferrer nofollow">https://talkerie.com/2021/06/25/that-time-in-1966-when-an-ufo-might-have-visited-erie/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Jun 2021 — Back in 1966, a group of friends witnessed a UFO on Presque Isle&#x27;s Beach 6, making Erie the focus of Federal Blue Book Case...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: oxfordlearnersdictionaries.com  
    Title: a history project; project on something My  
-   Link: [https://www.oxfordlearnersdictionaries.com/definition/english/project_1](https://www.oxfordlearnersdictionaries.com/definition/english/project_1)  
+   Link: <a href="https://www.oxfordlearnersdictionaries.com/definition/english/project_1" target="_blank" rel="noopener noreferrer nofollow">https://www.oxfordlearnersdictionaries.com/definition/english/project_1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>project noun - Definition, pictures, pronunciation and usage...a piece of work involving careful study of a subject over a period of tim...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100054115523531/posts/the-presque-isle-shadow-creatures-sightings-2000s-pennsylvaniain-the-early-2000s/1466209538526216/](https://www.facebook.com/100054115523531/posts/the-presque-isle-shadow-creatures-sightings-2000s-pennsylvaniain-the-early-2000s/1466209538526216/)  
+   Link: <a href="https://www.facebook.com/100054115523531/posts/the-presque-isle-shadow-creatures-sightings-2000s-pennsylvaniain-the-early-2000s/1466209538526216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100054115523531/posts/the-presque-isle-shadow-creatures-sightings-2000s-pennsylvaniain-the-early-2000s/1466209538526216/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Presque Isle “Shadow Creatures” Sightings (2000s) –...It happened on a warm summer evening July 31, 1966 at beach 6 on Presque Isle...</p></details>
-   Published: July 31, 1966  
+   Published: July 31, 1966

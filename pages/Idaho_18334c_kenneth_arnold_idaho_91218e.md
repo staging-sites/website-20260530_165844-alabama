@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-makes-idaho-a-key-ufo-hotspot/
 nav_short_title: Kenneth Arnold
 title: How Kenneth Arnold Put Idaho on the UFO Map
-title_full: How Kenneth Arnold Put Idaho on the UFO Map | Idaho UFOs
+title_full: How Kenneth Arnold Put Idaho on the UFO Map
 display_title_short: Kenneth Arnold
 display_title: Kenneth Arnold
 heading_title: How Kenneth Arnold Put Idaho on the UFO Map
@@ -268,8 +268,7 @@ image: /assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e-overview-social.j
 
 ## Introduction
 
-Kenneth Arnold’s 24 June 1947 sighting near Mount Rainier happened in Washington, but [Idaho]({{ 'what-makes-idaho-a-key-ufo-hotspot/' | relative_url }}) has a central place in the story because Arnold was a Boise businessman and private pilot. His report did not prove that extraordinary craft were flying over the Pacific Northwest. What it did do was far more historically traceable: it gave newspapers a vivid phrase, helped trigger a national wave of reports, and pushed US military intelligence towards formal UFO investigation by the end of that year. The Arnold case therefore matters to Idaho’s UFO history not as a local crash legend or a confirmed mystery, but as the moment when an Idaho-based witness helped turn scattered aerial anomalies into the modern “flying saucer” era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Kenneth Arnold to the Air Force. (National Archives Identifier 28929152). View in National Archives Catalog. Related story: Do Records Sh...</span></span></span>
-
+Kenneth Arnold’s 24 June 1947 sighting near Mount Rainier happened in Washington, but Idaho has a central place in the story because Arnold was a Boise businessman and private pilot. His report did not prove that extraordinary craft were flying over the Pacific Northwest. What it did do was far more historically traceable: it gave newspapers a vivid phrase, helped trigger a national wave of reports, and pushed US military intelligence towards formal UFO investigation by the end of that year. The Arnold case therefore matters to Idaho’s UFO history not as a local crash legend or a confirmed mystery, but as the moment when an Idaho-based witness helped turn scattered aerial anomalies into the modern “flying saucer” era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Kenneth Arnold to the Air Force. (National Archives Identifier 28929152). View in National Archives Catalog. Related story: Do Records Sh...</span></span></span>
 
 <img src="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e-overview.webp" | relative_url }}" alt="Overview image for Kenneth Arnold" loading="eager" decoding="sync" fetchpriority="high">
 That distinction is important. Arnold’s account remains unresolved in the ordinary historical sense: he reported seeing something he could not identify, and later investigators debated explanations. The stronger evidence is not physical proof of unknown machines, but the documented chain from Arnold’s testimony to press coverage, public imitation, official concern, and the first generation of US Air Force UFO files. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Kenneth Arnold to the Air Force. (National Archives Identifier 28929152). View in National Archives Catalog. Related story: Do Records Sh...</span></span></span>
@@ -278,12 +277,11 @@ That distinction is important. Arnold’s account remains unresolved in the ordi
 
 Arnold was not a military test pilot or a professional astronomer. He was a private pilot and businessman from Boise, which is why Idaho appears so early in the modern UFO record. That background helped make the story persuasive to newspapers: he was not presented as a fringe prophet, but as an experienced civilian aviator on a practical flight in the mountain West. The National Archives describes him as a private pilot who was searching for a missing Marine Corps transport plane near Mount Rainier when he reported seeing nine objects travelling at extreme speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Kenneth Arnold to the Air Force. (National Archives Identifier 28929152). View in National Archives Catalog. Related story: Do Records Sh...</span></span></span>
 
-This Idaho connection changes how the state fits into UFO history. Idaho was not simply a place where people later reported lights in the sky after the national “saucer” craze began. One of the people who gave that craze its public vocabulary lived and worked in Boise. In state-level terms, Arnold is less a “case from Idaho” than an Idaho-linked origin point: his flight path ran through Washington, but his identity in early reporting and later official summaries repeatedly tied the story back to Boise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300100010-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">cia rdp79b00752a000300100010 4</span><span class="citation-popover-snippet">CIAREPORT OF MEETINGS OF SCIENTIFIC ADVISORY...1 In June, 1947, Kenneth Arnold, a Boise, Idaho, businessman and private pilot, publicly...</span></span></span>
+This Idaho connection changes how the state fits into UFO history. Idaho was not simply a place where people later reported lights in the sky after the national “saucer” craze began. One of the people who gave that craze its public vocabulary lived and worked in Boise. In state-level terms, Arnold is less a “case from Idaho” than an Idaho-linked origin point: his flight path ran through Washington, but his identity in early reporting and later official summaries repeatedly tied the story back to Boise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300100010-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">cia rdp79b00752a000300100010 4</span><span class="citation-popover-snippet">REPORT OF MEETINGS OF SCIENTIFIC ADVISORY...1 In June, 1947, Kenneth Arnold, a Boise, Idaho, businessman and private pilot, publicly...</span></span></span>
 
 The setting also mattered. Arnold’s flight took place in the Cascade mountain environment, where distance, altitude, reflected sunlight, ridgelines and relative motion can be difficult to judge from an aircraft. That does not automatically explain the sighting, but it does frame the evidence properly. The case begins with a pilot’s visual report made under real flying conditions, not with radar tracks, photographs, recovered material or multiple instrumented observations.
 
-
-<img src="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e-Illustration-1-light.svg" | relative_url }}" alt="Kenneth Arnold illustration 1" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e-Illustration-1-dark.svg" | relative_url }}" alt="Kenneth Arnold illustration 1" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Arnold said he saw on 24 June 1947
 
 The core account is simple but striking. Arnold said he saw nine bright objects moving in formation near Mount Rainier. Edward J. Ruppelt, who later headed the US Air Force’s Project [Blue Book]({{ 'blue-book-3fa5da/' | relative_url }}), wrote that Arnold estimated the objects had crossed about 47 miles in 102 seconds, leading to a calculated speed of roughly 1,700 miles per hour. Ruppelt also recorded Arnold’s description of their motion as like a saucer skipping across water. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -293,7 +291,6 @@ That estimated speed is one reason the report travelled so quickly. In 1947, the
 Arnold’s own description was not always the simple round-disc image that later culture remembered. Early accounts and later summaries describe flat, shiny, fast-moving objects; some retellings emphasise the skipping motion, while others focus on “saucer-like” appearance. This ambiguity is not a minor detail. It shows how a witness description can shift as it passes through interviews, headlines, sketches, official reports and later UFO literature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting</span></span></span>
 
 For a balanced reading, Arnold’s sighting is strongest as a well-documented witness report by an experienced pilot. It is weakest where later claims rely on precise speed, size or distance estimates derived from a short visual observation in mountainous terrain. A pilot may be a better-than-average sky witness, but even trained observers can misjudge distant objects when there is no independent measurement.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jqJzZ-V5Jv8" title="1947: The Kenneth Arnold Sighting | Weird History Ep. #5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jqJzZ-V5Jv8" target="_blank" rel="noopener noreferrer">1947: The Kenneth Arnold Sighting | Weird History Ep. #5</a></p><p class="youtube-embed-meta">Channel: Stupid Beyond Belief &middot; Views: 6.2K &middot; Uploaded: December 2020 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jqJzZ-V5Jv8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jqJzZ-V5Jv8">Open on YouTube</a></p></div></div></div>
 
@@ -307,8 +304,7 @@ The label also shaped expectations. Before Arnold, people could report meteors, 
 
 There is a useful caution here for readers. The popular image of a smooth circular disc owes as much to press compression and repetition as to Arnold’s original account. Later “saucer” reports should therefore be read with the possibility of cultural feedback in mind: witnesses may have been describing what they saw honestly, but the language available to them had already been primed.
 
-
-<img src="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e-Illustration-2-light.svg" | relative_url }}" alt="Kenneth Arnold illustration 2" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e-Illustration-2-dark.svg" | relative_url }}" alt="Kenneth Arnold illustration 2" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The early 1947 wave and Idaho’s place in it
 
 Arnold’s report was followed by a rapid wave of sightings across the United States. The National Archives describes a “flood” of reports in the months after his sighting and notes that this public and official pressure helped lead the Air Force Chief of Staff to order a formal project at the end of 1947 to collect and evaluate reports that might concern national security. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Kenneth Arnold to the Air Force. (National Archives Identifier 28929152). View in National Archives Catalog. Related story: Do Records Sh...</span></span></span>
@@ -327,7 +323,6 @@ The most important official consequence was institutional rather than evidential
 
 This is why the Arnold case should not be judged only by whether one believes his objects were extraordinary. Historically, its importance lies in what followed: official files, public expectations, sceptical rebuttals, pilot reports, press cycles and the long-running tension between “unidentified” and “alien”.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/01sVLTO8xmo" title="24th June 1947: The first widely-reported UFO sighting was made by private pilot Kenneth Arnold" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=01sVLTO8xmo" target="_blank" rel="noopener noreferrer">24th June 1947: The first widely-reported UFO sighting was made by private pilot Kenneth Arnold</a></p><p class="youtube-embed-meta">Channel: HistoryPod &middot; Views: 22.6K &middot; Uploaded: June 2021 &middot; Length: 2 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=01sVLTO8xmo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=01sVLTO8xmo">Open on YouTube</a></p></div></div></div>
 
 ## The main doubts and possible explanations
@@ -335,7 +330,6 @@ This is why the Arnold case should not be judged only by whether one believes hi
 A fair account has to separate Arnold’s credibility from the certainty of his interpretation. There is no strong reason to treat Arnold as a deliberate hoaxer in the basic 1947 sighting. He gave a detailed report, was already an experienced pilot, and became closely associated with the case for the rest of his life. But credibility is not the same as verification.
 
 Several doubts remain central:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -348,8 +342,7 @@ Several doubts remain central:
 
 The National Air and Space Museum’s careful formulation is probably the best public-facing stance: we will never know exactly what Arnold saw, but we can trace how his report changed public language and UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — We will never know exactly what private pilot Kenneth A. Arnold...</span></span></span>
 
-
-<img src="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e-Illustration-3-light.svg" | relative_url }}" alt="Kenneth Arnold illustration 3" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e-Illustration-3-dark.svg" | relative_url }}" alt="Kenneth Arnold illustration 3" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case still matters to Idaho UFO history
 
 Arnold’s story gives Idaho an unusually early and influential role in the UFO record. Many states have local mystery lights, Cold War radar cases or later mass sightings. Idaho’s distinctive claim is different: a Boise-based pilot helped launch the vocabulary, media pattern and official attention that shaped the entire modern UFO era.
@@ -360,9 +353,7 @@ The case also sets a useful standard for reading the rest of Idaho’s UFO histo
 
 For readers exploring Idaho’s wider UFO record, Kenneth Arnold is therefore the right starting point. His case explains why later Idaho sightings were not reported into a neutral culture. By July 1947, the sky already had a new name for mystery in it: the flying saucer.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qdXNAOxs6mo" title="Kenneth Arnold and the First UFOs - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer">Kenneth Arnold and the First UFOs - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 5.1K &middot; Uploaded: June 2019 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qdXNAOxs6mo">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -450,7 +441,7 @@ For readers exploring Idaho’s wider UFO record, Kenneth Arnold is therefore th
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -460,111 +451,36 @@ For readers exploring Idaho’s wider UFO record, Kenneth Arnold is therefore th
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -572,15 +488,15 @@ For readers exploring Idaho’s wider UFO record, Kenneth Arnold is therefore th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster"><img src="https://i.ebayimg.com/images/g/H3QAAOSwSyRmwGFD/s-l225.jpg" alt="Listing image for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -588,15 +504,15 @@ For readers exploring Idaho’s wider UFO record, Kenneth Arnold is therefore th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -604,15 +520,15 @@ For readers exploring Idaho’s wider UFO record, Kenneth Arnold is therefore th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -620,7 +536,7 @@ For readers exploring Idaho’s wider UFO record, Kenneth Arnold is therefore th
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-how-kenneth-arnold-put-idaho-on-the-ufo-map-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-kenneth-arnold-put-idaho-on-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -697,17 +613,31 @@ For readers exploring Idaho’s wider UFO record, Kenneth Arnold is therefore th
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -720,42 +650,73 @@ For readers exploring Idaho’s wider UFO record, Kenneth Arnold is therefore th
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -770,12 +731,17 @@ For readers exploring Idaho’s wider UFO record, Kenneth Arnold is therefore th
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -786,144 +752,144 @@ For readers exploring Idaho’s wider UFO record, Kenneth Arnold is therefore th
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Public Interest in UFOs Persists 50 Years After Project Blue  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold to the Air Force. (National Archives Identifier 28929152). View in National Archives Catalog. Related story: Do Records Sh...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsFrom 1947 to 1969, a total of 12, 618 sightings were reported to Project...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cia.gov  
    Title: cia rdp79b00752a000300100010 4  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300100010-4](https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300100010-4)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIAREPORT OF MEETINGS OF SCIENTIFIC ADVISORY...1 In June, 1947, Kenneth Arnold, a Boise, Idaho, businessman and private pilot, publicly...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300100010-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp79b00752a000300100010-4</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>REPORT OF MEETINGS OF SCIENTIFIC ADVISORY...1 In June, 1947, Kenneth Arnold, a Boise, Idaho, businessman and private pilot, publicly...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold UFO sighting  
-   Link: [https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting](https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
 
 6. <a id="endnote-6"></a>
    Source: time.com  
    Title: This Is Why People Think UFOs Look Like 'Flying Saucers'  
-   Link: [https://time.com/3930602/first-reported-ufo/](https://time.com/3930602/first-reported-ufo/)  
+   Link: <a href="https://time.com/3930602/first-reported-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3930602/first-reported-ufo/</a>  
 
 7. <a id="endnote-7"></a>
    Source: cia.gov  
    Title: CIA RDP81R00560R000100060001 5  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Kenneth](https://en.wikipedia.org/wiki/Kenneth)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kenneth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold  
-   Link: [https://en.wikipedia.org/wiki/Kenneth_Arnold](https://en.wikipedia.org/wiki/Kenneth_Arnold)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold</a>  
 
 10. <a id="endnote-10"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 11. <a id="endnote-11"></a>
    Source: cia.gov  
    Title: cia rdp81r00560r000100060001 5  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100060001-5](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100060001-5)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100060001-5" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100060001-5</a>  
 
 12. <a id="endnote-12"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp67b00446r000400010008-8](https://www.cia.gov/readingroom/document/cia-rdp67b00446r000400010008-8)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp67b00446r000400010008-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp67b00446r000400010008-8</a>  
 
 13. <a id="endnote-13"></a>
    Source: cia.gov  
    Title: CIA RDP81R00560R000100010002 9  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010002-9.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010002-9.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010002-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010002-9.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: history.com  
    Title: Kenneth Arnold  
-   Link: [https://www.history.com/articles/kenneth-arnold](https://www.history.com/articles/kenneth-arnold)  
+   Link: <a href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/kenneth-arnold</a>  
 
 15. <a id="endnote-15"></a>
    Source: history.com  
    Title: u s air force closes the book on ufos 45 years ago  
-   Link: [https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago](https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago)  
+   Link: <a href="https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago</a>  
 
 16. <a id="endnote-16"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/ebooks/66639.txt.utf-8](https://www.gutenberg.org/ebooks/66639.txt.utf-8)  
+   Link: <a href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/66639.txt.utf-8</a>  
 
 17. <a id="endnote-17"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 3  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: airandspace.si.edu  
    Title: 1947 year flying saucer  
-   Link: [https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer](https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer)  
+   Link: <a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — We will never know exactly what private pilot Kenneth A. Arnold...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf](https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: science.howstuffworks.com  
    Title: ufo history  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/ufo-history.htm](https://science.howstuffworks.com/space/aliens-ufos/ufo-history.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-history.htm</a>  
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=jqJzZ-V5Jv8](https://www.youtube.com/watch?v=jqJzZ-V5Jv8)  
+   Link: <a href="https://www.youtube.com/watch?v=jqJzZ-V5Jv8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jqJzZ-V5Jv8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>24th June 1947: The first widely-reported UFO sighting was made by private pilot Kenneth Arnold...</p></details>
    Published: June 1947  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Kenneth Arnold and the First UFOs  
-   Link: [https://www.youtube.com/watch?v=qdXNAOxs6mo](https://www.youtube.com/watch?v=qdXNAOxs6mo)  
+   Link: <a href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qdXNAOxs6mo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1947: The Kenneth [Arnold Sighting](&amp;#123;&amp;#123; &#x27;arnold-sighting/&#x27; | relative_url &amp;#125;&amp;#125;) | Weird History Ep. #5...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: The FBI UFO Files That Were Never Fully Explained  
-   Link: [https://www.youtube.com/watch?v=n90D2kQV-Bw](https://www.youtube.com/watch?v=n90D2kQV-Bw)  
+   Link: <a href="https://www.youtube.com/watch?v=n90D2kQV-Bw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n90D2kQV-Bw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: feralhouse.com  
-   Link: [https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf](https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf)  
+   Link: <a href="https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://feralhouse.com/wp/wp-content/uploads/2013/11/JFKUFO-Excerpt.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: chronline.com  
-   Link: [https://www.chronline.com/stories/75-years-ago-the-first-ufo-report-came-from-washington-in-2022-ufo-mania-is-still-going-strong%2C295849](https://www.chronline.com/stories/75-years-ago-the-first-ufo-report-came-from-washington-in-2022-ufo-mania-is-still-going-strong%2C295849)  
+   Link: <a href="https://www.chronline.com/stories/75-years-ago-the-first-ufo-report-came-from-washington-in-2022-ufo-mania-is-still-going-strong%2C295849" target="_blank" rel="noopener noreferrer nofollow">https://www.chronline.com/stories/75-years-ago-the-first-ufo-report-came-from-washington-in-2022-ufo-mania-is-still-going-strong%2C295849</a>  
 
 26. <a id="endnote-26"></a>
    Source: thehistoryreader.com  
-   Link: [https://www.thehistoryreader.com/cultural-history/official-history-ufos/](https://www.thehistoryreader.com/cultural-history/official-history-ufos/)  
+   Link: <a href="https://www.thehistoryreader.com/cultural-history/official-history-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoryreader.com/cultural-history/official-history-ufos/</a>  
 
 27. <a id="endnote-27"></a>
    Source: guinnessworldrecords.com  
-   Link: [https://www.guinnessworldrecords.com/world-records/116237-first-report-of-a-flying-saucer](https://www.guinnessworldrecords.com/world-records/116237-first-report-of-a-flying-saucer)  
+   Link: <a href="https://www.guinnessworldrecords.com/world-records/116237-first-report-of-a-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.com/world-records/116237-first-report-of-a-flying-saucer</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/](https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/)  
+   Link: <a href="https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/</a>  
 
 29. <a id="endnote-29"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/rufo/rufo04.htm](https://sacred-texts.com/ufo/rufo/rufo04.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo04.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo04.htm</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Britannica/posts/the-first-widely-publicized-ufo-sighting-took-place-in-1947-when-businessman-ken/10157012129640907/](https://www.facebook.com/Britannica/posts/the-first-widely-publicized-ufo-sighting-took-place-in-1947-when-businessman-ken/10157012129640907/)  
+   Link: <a href="https://www.facebook.com/Britannica/posts/the-first-widely-publicized-ufo-sighting-took-place-in-1947-when-businessman-ken/10157012129640907/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Britannica/posts/the-first-widely-publicized-ufo-sighting-took-place-in-1947-when-businessman-ken/10157012129640907/</a>

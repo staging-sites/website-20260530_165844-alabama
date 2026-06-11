@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-wyoming-skies/
 nav_short_title: Cheyenne 1955
 title: Why the Cheyenne 1955 Case Still Matters
-title_full: Why the Cheyenne 1955 Case Still Matters | Wyoming UFOs
+title_full: Why the Cheyenne 1955 Case Still Matters
 display_title_short: Cheyenne 1955
 display_title: Cheyenne 1955
 heading_title: Why the Cheyenne 1955 Case Still Matters
@@ -262,8 +262,7 @@ image: /assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157-overview-social
 
 ## Introduction
 
-The [Cheyenne]({{ 'cheyenne/' | relative_url }}) sighting of 23 May 1955 is [Wyoming]({{ 'what-really-happened-in-wyoming-skies/' | relative_url }})’s most concrete entry in the official Cold War UFO record. It matters because it appears in Project Blue Book’s “unknown” listings, not because it proves an exotic origin. The surviving summary says two USAF airmen, I. J. Shapiro and E. C. Ingber, watched four unusual forms near midnight: two slim vertical rectangles low on the horizon and two darker oval objects, with dark blue illumination, higher in the sky. The reported duration was about five minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Project Bluebook &quot;Unknowns</span><span class="citation-popover-snippet">The Project Bluebook &quot;Unknowns</span></span></span>
-
+The [Cheyenne]({{ 'cheyenne/' | relative_url }}) sighting of 23 May 1955 is Wyoming’s most concrete entry in the official Cold War UFO record. It matters because it appears in Project Blue Book’s “unknown” listings, not because it proves an exotic origin. The surviving summary says two USAF airmen, I. J. Shapiro and E. C. Ingber, watched four unusual forms near midnight: two slim vertical rectangles low on the horizon and two darker oval objects, with dark blue illumination, higher in the sky. The reported duration was about five minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Project Bluebook &quot;Unknowns</span><span class="citation-popover-snippet">The Project Bluebook &quot;Unknowns</span></span></span>
 
 <img src="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157-overview.webp" | relative_url }}" alt="Overview image for Cheyenne 1955" loading="eager" decoding="sync" fetchpriority="high">
 For readers trying to understand Wyoming’s UFO history, this case is useful precisely because it is both official and frustrating. It is stronger than a late anecdote because it sits in the Blue Book archive trail. It is weaker than a major radar or pilot case because the public summary leaves out crucial details: exact direction, elevation, distance, weather at the moment, aircraft checks, radar confirmation, and interview depth. The best reading is therefore cautious: Cheyenne 1955 is a documented unresolved report, but not a demonstrated extraordinary event.
@@ -278,18 +277,16 @@ The location also matters. Cheyenne was not just a state capital on the high pla
 
 That timing is important. It prevents a common overstatement. The 1955 sighting should not be treated as a confirmed “missile-base UFO” case in the later nuclear-missile sense, because F. E. Warren’s major missile role came after the sighting. Its relevance is broader: Cheyenne was already an Air Force community, and the witnesses were airmen.
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157-Illustration-1-light.svg" | relative_url }}" alt="Cheyenne 1955 illustration 1" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157-Illustration-1-dark.svg" | relative_url }}" alt="Cheyenne 1955 illustration 1" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Airmen Reported
 
 The core report is brief. At midnight on 23 May 1955 in Cheyenne, USAF Airman/Basic I. J. Shapiro and E. C. Ingber reportedly observed two “slender, vertical rectangles” low on the horizon. They also saw two oval objects above them, described as dark and showing dark blue illumination. The observation lasted about five minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1955fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-Brad Sparks’s later catalogue of Project [Blue Book unknowns]({{ 'unknown-label/' | relative_url }}) gives the same essential account and adds a useful archival caution: it records the date as “May 23 [23-24?], 1955”, reflecting the ambiguity that can arise when a midnight sighting falls on the boundary between two calendar dates. The catalogue places the event at Cheyenne’s approximate co-ordinates and again identifies the witnesses as USAF Airman/Basic Shapiro and Ingber. <span class="citation-chip-wrap"><a class="citation-chip" href="https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studylib.net">[studylib.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studylib.net</span><span class="citation-popover-title">Project Blue Book UFO Unknowns Catalog</span><span class="citation-popover-snippet">Project Blue Book UFO Unknowns Catalog</span></span></span>
+Brad Sparks’s later catalogue of Project Blue Book unknowns gives the same essential account and adds a useful archival caution: it records the date as “May 23 [23-24?], 1955”, reflecting the ambiguity that can arise when a midnight sighting falls on the boundary between two calendar dates. The catalogue places the event at Cheyenne’s approximate co-ordinates and again identifies the witnesses as USAF Airman/Basic Shapiro and Ingber. <span class="citation-chip-wrap"><a class="citation-chip" href="https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studylib.net">[studylib.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studylib.net</span><span class="citation-popover-title">Project Blue Book UFO Unknowns Catalog</span><span class="citation-popover-snippet">Project Blue Book UFO Unknowns Catalog</span></span></span>
 
 The description is unusual in two ways. First, the objects were not simply “lights”. The report distinguishes between low, vertical rectangular forms and higher oval forms. Secondly, the colour note is restrained rather than flamboyant: dark objects with dark blue illumination. That makes the sighting more distinctive than a generic “bright light in the sky”, but it still does not tell us enough to reconstruct the event.
 
 A careful reader should notice what is missing:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -303,7 +300,6 @@ A careful reader should notice what is missing:
 
 That combination is why the case remains interesting but not decisive. It is specific enough to avoid being meaningless, yet too thin to support a confident explanation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qdTVsr4O4HA" title="The True Story Behind US Government Investigations Into UFOs | Project Blue Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qdTVsr4O4HA" target="_blank" rel="noopener noreferrer">The True Story Behind US Government Investigations Into UFOs | Project Blue Book</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 10.9K &middot; Uploaded: January 2025 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qdTVsr4O4HA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qdTVsr4O4HA">Open on YouTube</a></p></div></div></div>
 
 ## Why Project Blue Book Left It Unidentified
@@ -314,12 +310,11 @@ The key point is that “unidentified” was not the same as “alien” or “t
 
 Project Blue Book’s internal classification logic also helps explain what the Cheyenne label can and cannot mean. In the 1955 Project Blue Book Special Report No. 14, the “unknown” category was used for sightings whose object description and manoeuvres could not be fitted to the pattern of a known object or phenomenon. A separate “insufficient information” category was used when essential data were missing or uncertain enough to prevent a reliable identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Project Blue Book Special Report #14</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Project Blue Book Special Report #14</span></span></span>
 
-That distinction is awkward for the Cheyenne case. The modern public summary itself feels sparse, but the case was still listed as an “unknown” rather than simply “insufficient information” in the later [Blue Book unknown]({{ 'unknown-label/' | relative_url }}) lists. That may mean the original file contained more information than the short published summary preserves. It may also reflect the uneven quality of mid-century UFO case handling and later catalogue transcription.
+That distinction is awkward for the Cheyenne case. The modern public summary itself feels sparse, but the case was still listed as an “unknown” rather than simply “insufficient information” in the later Blue Book unknown lists. That may mean the original file contained more information than the short published summary preserves. It may also reflect the uneven quality of mid-century UFO case handling and later catalogue transcription.
 
 The Air Force’s own research-page summary confirms that the Blue Book records include case files, administrative files and an index to individual sightings by date and location, with names excluded from public textual records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">briefing guide 12 07 12</span><span class="citation-popover-snippet">briefing guide 12 07 12</span></span></span> For Cheyenne 1955, the most responsible position is therefore not “the Air Force had no idea what it was” in a dramatic sense. It is narrower: the case survived in the unexplained category, but the public-facing record is not rich enough to prove why.
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157-Illustration-2-light.svg" | relative_url }}" alt="Cheyenne 1955 illustration 2" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157-Illustration-2-dark.svg" | relative_url }}" alt="Cheyenne 1955 illustration 2" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Ordinary Explanations Still Have to Account For
 
 A sceptical reading does not require dismissing the airmen. It asks what ordinary cause could produce the reported combination of shapes, height differences, darkness and blue illumination.
@@ -332,9 +327,7 @@ The shape description is the hardest part. “Two slender, vertical rectangles�
 
 The case is therefore unresolved in a limited, evidence-based sense: no ordinary explanation can be confidently selected from the surviving summary, but the summary is too incomplete to rule ordinary explanations out.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NXgx9QDKSD4" title="The UFO Case That Shook 1955 (Season 1) | MonsterQuest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NXgx9QDKSD4" target="_blank" rel="noopener noreferrer">The UFO Case That Shook 1955 (Season 1) | MonsterQuest</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 14.0K &middot; Uploaded: March 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NXgx9QDKSD4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NXgx9QDKSD4">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157-Illustration-3-dark.svg" | relative_url }}" alt="Cheyenne 1955 illustration 3" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Case Cannot Prove
 
 The Cheyenne report cannot prove that Wyoming was visited by extraterrestrial craft in 1955. It cannot prove that F. E. Warren Air Force Base was the target of an unknown technology. It cannot prove a pattern of blue-lit objects over the state. It cannot even prove that the four reported forms were four separate physical objects, because the record does not show enough about viewing geometry, reflection possibilities or environmental conditions.
@@ -345,13 +338,13 @@ At the same time, the case should not be waved away as worthless. Two named USAF
 
 The honest conclusion is balanced: Cheyenne 1955 is a genuine archival mystery, but a small one. Its value lies in showing how official UFO history often works at ground level. A report can be preserved, catalogued and left unexplained without becoming proof of a dramatic answer.
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157-Illustration-3-light.svg" | relative_url }}" alt="Cheyenne 1955 illustration 3" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Later Reporting Has Affected the Case
 
 Later reporting has mostly repeated rather than deepened the Cheyenne 1955 account. NICAP’s summary, Patrick Gross’s Blue Book unknowns page and Sparks-derived catalogues all preserve the same basic facts: date, place, witness names, five-minute duration, two low vertical rectangles and two higher dark blue-lit ovals. NICAP <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/bluebooku55.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That repetition is useful because it shows a stable core account. It is also limiting because it suggests that the public secondary literature has not added much independent investigation. There is no widely available modern witness interview, no local newspaper reconstruction, no newly surfaced photograph, and no technical reanalysis with the full original case file.
 
 For a Wyoming UFO page, that means the Cheyenne case should be treated as an anchor, not a climax. It is the clearest official Blue Book “unknown” associated with the state, but it is not a richly documented encounter like some better-known national cases. Its importance is archival and interpretive: it shows that Wyoming appears in the official unresolved record, while also showing how thin that record can be.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sHowpJox4m8" title="Historic Video: &quot;Welcome to F. E. Warren Air Force Base&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sHowpJox4m8" target="_blank" rel="noopener noreferrer">Historic Video: &quot;Welcome to F. E. Warren Air Force Base&quot;</a></p><p class="youtube-embed-meta">Channel: Lackland AFB Historian &middot; Views: 916 &middot; Uploaded: March 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sHowpJox4m8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sHowpJox4m8">Open on YouTube</a></p></div></div></div>
 
 ## Why It Still Matters for Wyoming UFO History
 
@@ -362,10 +355,6 @@ It also teaches the right habit for reading Wyoming UFO material. The state’s 
 Most importantly, the case shows the difference between “unresolved” and “strong”. A strong case needs detail that survives scrutiny: multiple independent witnesses, precise bearings, duration, weather, astronomical checks, radar or instrument data, and a documented investigation trail. Cheyenne 1955 has some promising elements but not enough of those safeguards in the public record.
 
 Its best role in the Wyoming project is therefore modest but important. It is the state’s clearest Project Blue Book unknown: a documented five-minute report by two Air Force airmen near Cheyenne, preserved in the official UFO archive, still unexplained in the surviving public summaries, and still too incomplete to support a confident extraordinary claim.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sHowpJox4m8" title="Historic Video: &quot;Welcome to F. E. Warren Air Force Base&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sHowpJox4m8" target="_blank" rel="noopener noreferrer">Historic Video: &quot;Welcome to F. E. Warren Air Force Base&quot;</a></p><p class="youtube-embed-meta">Channel: Lackland AFB Historian &middot; Views: 916 &middot; Uploaded: March 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sHowpJox4m8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sHowpJox4m8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -789,183 +778,183 @@ Its best role in the Wyoming project is therefore modest but important. It is th
 1. <a id="endnote-1"></a>
    Source: nicap.org  
    Title: The Project Bluebook "Unknowns"  
-   Link: [https://www.nicap.org/bluebook/unknowns.htm](https://www.nicap.org/bluebook/unknowns.htm)  
+   Link: <a href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/unknowns.htm</a>  
 
 2. <a id="endnote-2"></a>
    Source: nicap.org  
    Title: Complete List of Project Blue Book's Unsolved Cases  
-   Link: [https://www.nicap.org/bluebook/bluelist.htm](https://www.nicap.org/bluebook/bluelist.htm)  
+   Link: <a href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/bluelist.htm</a>  
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 4. <a id="endnote-4"></a>
    Source: warrenmuseum.com  
    Title: History – Warren ICBM and Heritage Museum  
-   Link: [https://www.warrenmuseum.com/history/](https://www.warrenmuseum.com/history/)  
+   Link: <a href="https://www.warrenmuseum.com/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.warrenmuseum.com/history/</a>  
 
 5. <a id="endnote-5"></a>
    Source: studylib.net  
    Title: Project Blue Book UFO Unknowns Catalog  
-   Link: [https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns](https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns)  
+   Link: <a href="https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns" target="_blank" rel="noopener noreferrer nofollow">https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns</a>  
 
 6. <a id="endnote-6"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Project Blue Book Special Report #14"  
-   Link: [https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt](https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt)  
+   Link: <a href="https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt</a>  
 
 8. <a id="endnote-8"></a>
    Source: prologue.blogs.archives.gov  
    Title: saucers over washington the history of project blue book  
-   Link: [https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/](https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
 
 9. <a id="endnote-9"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1955fullrep.htm](https://www.nicap.org/chronos/1955fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1955fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1955fullrep.htm</a>  
 
 10. <a id="endnote-10"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/bluebook/blue.htm](https://www.nicap.org/bluebook/blue.htm)  
+   Link: <a href="https://www.nicap.org/bluebook/blue.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/blue.htm</a>  
 
 11. <a id="endnote-11"></a>
    Source: warrenmuseum.com  
-   Link: [https://www.warrenmuseum.com/mules-to-missiles/](https://www.warrenmuseum.com/mules-to-missiles/)  
+   Link: <a href="https://www.warrenmuseum.com/mules-to-missiles/" target="_blank" rel="noopener noreferrer nofollow">https://www.warrenmuseum.com/mules-to-missiles/</a>  
 
 12. <a id="endnote-12"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: ia800501.us.archive.org  
    Title: Edward J Ruppelt The Report on Unidentified Flying Objects  
-   Link: [https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf](https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf)  
+   Link: <a href="https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: weather.gov  
    Title: Climate Daily data for a month  
-   Link: [https://www.weather.gov/wrh/climate?wfo=cys](https://www.weather.gov/wrh/climate?wfo=cys)  
+   Link: <a href="https://www.weather.gov/wrh/climate?wfo=cys" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/wrh/climate?wfo=cys</a>  
 
 15. <a id="endnote-15"></a>
    Source: theskylive.com  
-   Link: [https://theskylive.com/moon/1955-05-23](https://theskylive.com/moon/1955-05-23)  
+   Link: <a href="https://theskylive.com/moon/1955-05-23" target="_blank" rel="noopener noreferrer nofollow">https://theskylive.com/moon/1955-05-23</a>  
 
 16. <a id="endnote-16"></a>
    Source: extremeweatherwatch.com  
    Title: year 1955  
-   Link: [https://www.extremeweatherwatch.com/cities/cheyenne/year-1955](https://www.extremeweatherwatch.com/cities/cheyenne/year-1955)  
+   Link: <a href="https://www.extremeweatherwatch.com/cities/cheyenne/year-1955" target="_blank" rel="noopener noreferrer nofollow">https://www.extremeweatherwatch.com/cities/cheyenne/year-1955</a>  
 
 17. <a id="endnote-17"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/bluebooku55.htm](https://ufologie.patrickgross.org/htm/bluebooku55.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/bluebooku55.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluebooku55.htm</a>  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Francis E. Warren Air Force Base  
-   Link: [https://en.wikipedia.org/wiki/Francis_E._Warren_Air_Force_Base](https://en.wikipedia.org/wiki/Francis_E._Warren_Air_Force_Base)  
+   Link: <a href="https://en.wikipedia.org/wiki/Francis_E._Warren_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Francis_E._Warren_Air_Force_Base</a>  
 
 20. <a id="endnote-20"></a>
    Source: fewarrenhousing.com  
-   Link: [https://www.fewarrenhousing.com/history](https://www.fewarrenhousing.com/history)  
+   Link: <a href="https://www.fewarrenhousing.com/history" target="_blank" rel="noopener noreferrer nofollow">https://www.fewarrenhousing.com/history</a>  
 
 21. <a id="endnote-21"></a>
    Source: theskylive.com  
    Title: moon calendar  
-   Link: [https://theskylive.com/moon-calendar?month=05&year=1955](https://theskylive.com/moon-calendar?month=05&year=1955)  
+   Link: <a href="https://theskylive.com/moon-calendar?month=05&amp;year=1955" target="_blank" rel="noopener noreferrer nofollow">https://theskylive.com/moon-calendar?month=05&amp;year=1955</a>  
 
 22. <a id="endnote-22"></a>
    Source: bahaistudies.net  
    Title: project blue book  
-   Link: [https://www.bahaistudies.net/asma/project_blue_book.pdf](https://www.bahaistudies.net/asma/project_blue_book.pdf)  
+   Link: <a href="https://www.bahaistudies.net/asma/project_blue_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/project_blue_book.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 24. <a id="endnote-24"></a>
    Source: calendar-12.com  
-   Link: [https://www.calendar-12.com/moon_calendar/1955/may](https://www.calendar-12.com/moon_calendar/1955/may)  
+   Link: <a href="https://www.calendar-12.com/moon_calendar/1955/may" target="_blank" rel="noopener noreferrer nofollow">https://www.calendar-12.com/moon_calendar/1955/may</a>  
 
 25. <a id="endnote-25"></a>
    Source: stratcom.mil  
-   Link: [https://www.stratcom.mil/About/History/](https://www.stratcom.mil/About/History/)  
+   Link: <a href="https://www.stratcom.mil/About/History/" target="_blank" rel="noopener noreferrer nofollow">https://www.stratcom.mil/About/History/</a>  
 
 26. <a id="endnote-26"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf](https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: moongiant.com  
-   Link: [https://www.moongiant.com/calendar/may/1955/](https://www.moongiant.com/calendar/may/1955/)  
+   Link: <a href="https://www.moongiant.com/calendar/may/1955/" target="_blank" rel="noopener noreferrer nofollow">https://www.moongiant.com/calendar/may/1955/</a>  
 
 28. <a id="endnote-28"></a>
    Source: predictwind.com  
-   Link: [https://www.predictwind.com/weather/united-states/wyoming/cheyenne/may?nxtPcity=cheyenne&nxtPcountry=united-states&nxtPmonth=may&nxtPstate=wyoming](https://www.predictwind.com/weather/united-states/wyoming/cheyenne/may?nxtPcity=cheyenne&nxtPcountry=united-states&nxtPmonth=may&nxtPstate=wyoming)  
+   Link: <a href="https://www.predictwind.com/weather/united-states/wyoming/cheyenne/may?nxtPcity=cheyenne&amp;nxtPcountry=united-states&amp;nxtPmonth=may&amp;nxtPstate=wyoming" target="_blank" rel="noopener noreferrer nofollow">https://www.predictwind.com/weather/united-states/wyoming/cheyenne/may?nxtPcity=cheyenne&amp;nxtPcountry=united-states&amp;nxtPmonth=may&amp;nxtPstate=wyoming</a>  
 
 29. <a id="endnote-29"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: The True Story Behind US Government Investigations Into UFOs | Project Blue Book  
-   Link: [https://www.youtube.com/watch?v=qdTVsr4O4HA](https://www.youtube.com/watch?v=qdTVsr4O4HA)  
+   Link: <a href="https://www.youtube.com/watch?v=qdTVsr4O4HA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qdTVsr4O4HA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified  
-   Link: [https://www.youtube.com/watch?v=UKzI3uu_oTQ](https://www.youtube.com/watch?v=UKzI3uu_oTQ)  
+   Link: <a href="https://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UKzI3uu_oTQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Project Blue Book&#x27; Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: 'Project Blue Book' Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series  
-   Link: [https://www.youtube.com/watch?v=W89jh2C2Ry8](https://www.youtube.com/watch?v=W89jh2C2Ry8)  
+   Link: <a href="https://www.youtube.com/watch?v=W89jh2C2Ry8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W89jh2C2Ry8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=NXgx9QDKSD4](https://www.youtube.com/watch?v=NXgx9QDKSD4)  
+   Link: <a href="https://www.youtube.com/watch?v=NXgx9QDKSD4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NXgx9QDKSD4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The True Story Behind US Government Investigations Into UFOs | Project Blue Book...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 35. <a id="endnote-35"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/7482584/Project_Blue_Book_Archive](https://www.academia.edu/7482584/Project_Blue_Book_Archive)  
+   Link: <a href="https://www.academia.edu/7482584/Project_Blue_Book_Archive" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7482584/Project_Blue_Book_Archive</a>  
 
 36. <a id="endnote-36"></a>
    Source: wunderground.com  
-   Link: [https://www.wunderground.com/history/weekly/us/wy/cheyenne](https://www.wunderground.com/history/weekly/us/wy/cheyenne)  
+   Link: <a href="https://www.wunderground.com/history/weekly/us/wy/cheyenne" target="_blank" rel="noopener noreferrer nofollow">https://www.wunderground.com/history/weekly/us/wy/cheyenne</a>  
 
 37. <a id="endnote-37"></a>
    Source: wunderground.com  
-   Link: [https://www.wunderground.com/history/daily/us/wy/cheyenne](https://www.wunderground.com/history/daily/us/wy/cheyenne)  
+   Link: <a href="https://www.wunderground.com/history/daily/us/wy/cheyenne" target="_blank" rel="noopener noreferrer nofollow">https://www.wunderground.com/history/daily/us/wy/cheyenne</a>  
 
 38. <a id="endnote-38"></a>
    Source: worldweatheronline.com  
-   Link: [https://www.worldweatheronline.com/cheyenne-weather-history/wyoming/us.aspx](https://www.worldweatheronline.com/cheyenne-weather-history/wyoming/us.aspx)  
+   Link: <a href="https://www.worldweatheronline.com/cheyenne-weather-history/wyoming/us.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.worldweatheronline.com/cheyenne-weather-history/wyoming/us.aspx</a>  
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/](https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>

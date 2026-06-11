@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-new-mexico-became-ufo-country/
 nav_short_title: Cold War Bases
 title: How Secret Testing Shaped UFO Belief
-title_full: How Secret Testing Shaped UFO Belief | New Mexico UFOs
+title_full: How Secret Testing Shaped UFO Belief
 display_title_short: Cold War Bases
 display_title: Cold War Bases
 heading_title: How Secret Testing Shaped UFO Belief
@@ -262,8 +262,7 @@ image: /assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4-overview-social.jp
 
 ## Introduction
 
-Cold War [New Mexico]({{ 'why-new-mexico-became-ufo-country/' | relative_url }}) gave UFO stories an unusually fertile setting because the state really was full of restricted ranges, unusual aircraft activity, nuclear work, rocket launches, balloon experiments and radar tracking. That does not mean that the state’s famous cases were alien craft in disguise. It means that ordinary witnesses could genuinely see strange things, while officials often could not explain them fully without revealing classified or sensitive programmes. [White Sands]({{ 'white-sands/' | relative_url }}), Holloman and Kirtland made the sky busy; Project Mogul showed how a secret balloon programme could later become a UFO legend; and Project Blue Book showed how balloons, aircraft, missiles, radar errors and afterburners repeatedly complicated sightings. The result was a lasting New Mexico pattern: secrecy did not prove extraterrestrial contact, but it made official explanations easier to doubt. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">department of war releases unidentified anomalous phenomena files in historic t</span></span></span>(#endnote-25 "Endnote 25") <span class="citation-chip-wrap"><a class="citation-chip" href="https://wsmrmuseum.com/wp-content/uploads/2022/02/HAER_NM-1_WSMR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsmrmuseum.com">[White Sands Missile Range Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsmrmuseum.com</span><span class="citation-popover-snippet">White Sands Missile Range Museum</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.holloman.af.mil/About/Fact-Sheets/Display/Article/317263/704th96th-test-group/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: holloman.af.mil">[3holloman.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">holloman.af.mil</span><span class="citation-popover-title">704th96th test group</span><span class="citation-popover-snippet">704th/96th Test Group &gt; Holloman Air Force Base &gt; Display...</span></span></span>
-
+Cold War New Mexico gave UFO stories an unusually fertile setting because the state really was full of restricted ranges, unusual aircraft activity, nuclear work, rocket launches, balloon experiments and radar tracking. That does not mean that the state’s famous cases were alien craft in disguise. It means that ordinary witnesses could genuinely see strange things, while officials often could not explain them fully without revealing classified or sensitive programmes. [White Sands]({{ 'white-sands/' | relative_url }}), Holloman and Kirtland made the sky busy; Project Mogul showed how a secret balloon programme could later become a UFO legend; and Project [Blue Book]({{ 'blue-book-12faa9/' | relative_url }}) showed how balloons, aircraft, missiles, radar errors and afterburners repeatedly complicated sightings. The result was a lasting New Mexico pattern: secrecy did not prove extraterrestrial contact, but it made official explanations easier to doubt. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">department of war releases unidentified anomalous phenomena files in historic t</span></span></span>(#endnote-25 "Endnote 25") <span class="citation-chip-wrap"><a class="citation-chip" href="https://wsmrmuseum.com/wp-content/uploads/2022/02/HAER_NM-1_WSMR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsmrmuseum.com">[White Sands Missile Range Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsmrmuseum.com</span><span class="citation-popover-snippet">White Sands Missile Range Museum</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.holloman.af.mil/About/Fact-Sheets/Display/Article/317263/704th96th-test-group/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: holloman.af.mil">[3holloman.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">holloman.af.mil</span><span class="citation-popover-title">704th96th test group</span><span class="citation-popover-snippet">704th/96th Test Group &gt; Holloman Air Force Base &gt; Display...</span></span></span>
 
 <img src="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4-overview.webp" | relative_url }}" alt="Overview image for Cold War Bases" loading="eager" decoding="sync" fetchpriority="high">
 ## Why New Mexico’s military geography mattered
@@ -278,8 +277,7 @@ Kirtland, meanwhile, tied Albuquerque to nuclear weapons work and later nuclear-
 
 For UFO history, those facts do not “solve” every report. They do something more useful: they show why New Mexico generated reports that were hard to judge from the outside. A witness might be sincere, the object might be real, the military might be withholding details, and the explanation might still be terrestrial.
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4-Illustration-1-light.svg" | relative_url }}" alt="Cold War Bases illustration 1" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4-Illustration-1-dark.svg" | relative_url }}" alt="Cold War Bases illustration 1" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## White Sands, Holloman and Kirtland
 
 The three names most useful for understanding New Mexico’s secret-test explanations are White Sands, Holloman and Kirtland. They were not interchangeable. Each contributed a different kind of confusion to the UFO record.
@@ -292,12 +290,11 @@ Kirtland was different again. Its importance lay less in dramatic rocket launche
 
 Taken together, these places made New Mexico a state where “military explanation” could mean several different things: a balloon, a rocket, a missile test, a target drone, a radar artefact, a classified nuclear-detection project, a chase aircraft, a recovery operation, or ordinary aircraft seen under strange light. That variety is one reason New Mexico UFO claims have remained so persistent. A single debunking category rarely fits the whole landscape.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8oYGWjpiQ3g" title="&quot;HOLLOMAN — FRONTIER OF THE FUTURE&quot; 1955 AIR FORCE AEROMEDICAL LAB / COL. JOHN PAUL STAPP 72092" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8oYGWjpiQ3g" target="_blank" rel="noopener noreferrer">&quot;HOLLOMAN — FRONTIER OF THE FUTURE&quot; 1955 AIR FORCE AEROMEDICAL LAB / COL. JOHN PAUL STAPP 72092</a></p><p class="youtube-embed-meta">Channel: PeriscopeFilm &middot; Views: 54.0K &middot; Uploaded: May 2015 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8oYGWjpiQ3g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8oYGWjpiQ3g">Open on YouTube</a></p></div></div></div>
 
 ## Balloons, rockets and radar confusion
 
-Balloons are central to New Mexico’s UFO story because they could be both ordinary-looking and deeply misleading. Project [Blue Book]({{ 'blue-book-12faa9/' | relative_url }})’s own category system included weather balloons, radiosondes and large research balloons, and the 2024 All-domain Anomaly Resolution Office historical report summarises Blue Book’s view that balloons accounted for several thousand cases. Large balloons could reflect sunlight at dawn or sunset, and high-altitude winds could make them appear to move in surprising ways. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">department of war releases unidentified anomalous phenomena files in historic t</span></span></span>(#endnote-25 "Endnote 25")
+Balloons are central to New Mexico’s UFO story because they could be both ordinary-looking and deeply misleading. Project Blue Book’s own category system included weather balloons, radiosondes and large research balloons, and the 2024 All-domain Anomaly Resolution Office historical report summarises Blue Book’s view that balloons accounted for several thousand cases. Large balloons could reflect sunlight at dawn or sunset, and high-altitude winds could make them appear to move in surprising ways. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">department of war releases unidentified anomalous phenomena files in historic t</span></span></span>(#endnote-25 "Endnote 25")
 
 [Roswell]({{ 'roswell/' | relative_url }}) is the best-known example of this mechanism. The 1994 Air Force research report said records and surviving testimony indicated that the material recovered near Roswell was consistent with a balloon device and most likely came from one of the then top-secret Project Mogul balloons, designed to monitor Soviet nuclear tests. The same report said Air Force research did not disclose records of recovered alien bodies or extraterrestrial materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[nsa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">report af roswell</span><span class="citation-popover-snippet">report af roswell</span></span></span>
 
@@ -309,8 +306,7 @@ Radar added still another layer. Project Blue Book listed false radar indication
 
 The result is not that every New Mexico UFO report can be waved away as a balloon or rocket. The stronger conclusion is narrower and more useful: New Mexico had unusually many sources of honest misidentification, and some of those sources were themselves secret.
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4-Illustration-2-light.svg" | relative_url }}" alt="Cold War Bases illustration 2" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4-Illustration-2-dark.svg" | relative_url }}" alt="Cold War Bases illustration 2" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When secrecy becomes part of the mystery
 
 Cold War secrecy shaped UFO belief in New Mexico because it made the official record look evasive even when the underlying explanation was terrestrial. The Roswell sequence is the clearest example. The General Accounting Office searched for government records concerning the 1947 Roswell crash and found only two [1947 records]({{ '1947-records/' | relative_url }}): a July history report by the combined 509th Bomb Group and Roswell Army Air Field, and an FBI teletype from 8 July 1947. The GAO also noted that some Roswell Army Air Field administrative records and outgoing messages had been destroyed, while other records had not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[fas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-title">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span><span class="citation-popover-snippet">Project on Government Secrecy GAO Report on Roswell, NM UFO Crash</span></span></span> Project on Government Secrecy
@@ -323,8 +319,7 @@ The Air Force’s later “Roswell Report: Case Closed” pushed the secret-test
 
 This is where New Mexico’s UFO history becomes a memory problem as well as an evidence problem. A classified balloon programme in 1947, high-altitude dummy tests in later years, fatal and non-fatal military accidents, and recovery teams in the desert could all be real. Later witnesses and writers could then merge them into one larger story. That does not mean every witness was lying. It means that secrecy, time and repeated retelling can turn several terrestrial events into one extraordinary narrative.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UESsdUGTPDY" title="The UFO Landing at Holloman Air Force Base // 3D CGI Animation Movie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UESsdUGTPDY" target="_blank" rel="noopener noreferrer">The UFO Landing at Holloman Air Force Base // 3D CGI Animation Movie</a></p><p class="youtube-embed-meta">Channel: Mac Mave Studios &middot; Views: 2.1M &middot; Uploaded: December 2023 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UESsdUGTPDY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UESsdUGTPDY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v7nlg1WZ7cQ" title="Unraveling New Mexico&#x27;s many UFO mysteries: New Mexico Strange" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v7nlg1WZ7cQ" target="_blank" rel="noopener noreferrer">Unraveling New Mexico&#x27;s many UFO mysteries: New Mexico Strange</a></p><p class="youtube-embed-meta">Channel: KRQE &middot; Views: 2.2K &middot; Uploaded: November 2025 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v7nlg1WZ7cQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v7nlg1WZ7cQ">Open on YouTube</a></p></div></div></div>
 
 ## Why official explanations did not end the debate
 
@@ -338,8 +333,7 @@ But official conclusions did not settle public belief, partly because New Mexico
 
 The answer is not blind trust. It is case-by-case separation. A documented secret programme such as Project Mogul can explain why officials hid a balloon’s true purpose; it does not prove a hidden spacecraft programme. A missile range can explain many strange lights; it does not automatically solve every sighting. A missing file can weaken confidence in the record; it does not create positive evidence for alien recovery. Good New Mexico UFO analysis has to keep those distinctions visible.
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4-Illustration-3-light.svg" | relative_url }}" alt="Cold War Bases illustration 3" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4-Illustration-3-dark.svg" | relative_url }}" alt="Cold War Bases illustration 3" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_cold_war_bases_3f8ac4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read secret-test explanations fairly
 
 The most useful way to approach New Mexico’s Cold War UFO stories is to ask what kind of secret-test explanation is being proposed. Some are strong because they match time, place, technology and documentation. Project Mogul and Roswell is the clearest example: the explanation is not merely that “it was a balloon”, but that a classified nuclear-detection balloon programme was operating in New Mexico, used unusual materials, involved military recovery, and was later documented in official research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[nsa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Open source on nsa.gov.</span></span></span>
@@ -347,7 +341,6 @@ The most useful way to approach New Mexico’s Cold War UFO stories is to ask wh
 Other explanations are plausible but less decisive. A sighting near White Sands might fit rocket or missile activity, but without launch logs, witness geometry, weather, timing and range data, “rocket test” remains a hypothesis rather than a solved case. The same applies to radar cases. Radar contact can make a report more interesting, but it does not remove the need to ask what the radar could and could not measure, whether the target was correlated visually, and whether ordinary aircraft or equipment effects were ruled out. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">department of war releases unidentified anomalous phenomena files in historic t</span></span></span>(#endnote-25 "Endnote 25")
 
 A fair reader can use a few practical tests:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -361,8 +354,7 @@ A fair reader can use a few practical tests:
 
 These questions do not remove mystery from New Mexico’s UFO history. They make the mystery more precise. The strongest cases are not the ones with the most dramatic retellings, but the ones where the original evidence survives, the witnesses are credible, the timing is clear, and the proposed explanation either fits well or clearly fails.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v7nlg1WZ7cQ" title="Unraveling New Mexico&#x27;s many UFO mysteries: New Mexico Strange" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v7nlg1WZ7cQ" target="_blank" rel="noopener noreferrer">Unraveling New Mexico&#x27;s many UFO mysteries: New Mexico Strange</a></p><p class="youtube-embed-meta">Channel: KRQE &middot; Views: 2.2K &middot; Uploaded: November 2025 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v7nlg1WZ7cQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v7nlg1WZ7cQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UESsdUGTPDY" title="The UFO Landing at Holloman Air Force Base // 3D CGI Animation Movie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UESsdUGTPDY" target="_blank" rel="noopener noreferrer">The UFO Landing at Holloman Air Force Base // 3D CGI Animation Movie</a></p><p class="youtube-embed-meta">Channel: Mac Mave Studios &middot; Views: 2.1M &middot; Uploaded: December 2023 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UESsdUGTPDY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UESsdUGTPDY">Open on YouTube</a></p></div></div></div>
 
 ## What this means for New Mexico UFO belief
 
@@ -458,7 +450,7 @@ The balanced conclusion is not that New Mexico’s UFO tradition collapses into 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -468,111 +460,36 @@ The balanced conclusion is not that New Mexico’s UFO tradition collapses into 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display"><img src="{{ '/assets/images/marketplace-covers/27c78e3de724e607809d.jpg' | relative_url }}" alt="Listing image for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT"><img src="{{ '/assets/images/marketplace-covers/c4fa2fd111d52b7bddcf.jpg' | relative_url }}" alt="Listing image for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/ecc3da59eb1d0848e57f.jpg' | relative_url }}" alt="Listing image for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -580,15 +497,15 @@ The balanced conclusion is not that New Mexico’s UFO tradition collapses into 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX"><img src="https://i.ebayimg.com/images/g/D6YAAeSwgIhqJsph/s-l225.jpg" alt="Listing image for UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -596,15 +513,15 @@ The balanced conclusion is not that New Mexico’s UFO tradition collapses into 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/ecc3da59eb1d0848e57f.jpg' | relative_url }}" alt="Listing image for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4"><img src="https://i.ebayimg.com/images/g/Ab0AAeSwSx9p8OkA/s-l225.jpg" alt="Listing image for ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -612,15 +529,15 @@ The balanced conclusion is not that New Mexico’s UFO tradition collapses into 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -628,7 +545,7 @@ The balanced conclusion is not that New Mexico’s UFO tradition collapses into 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cold-war-bases-how-secret-testing-shaped-ufo-belief-new-mexico-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-secret-testing-shaped-ufo-belief-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -705,17 +622,31 @@ The balanced conclusion is not that New Mexico’s UFO tradition collapses into 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -728,42 +659,73 @@ The balanced conclusion is not that New Mexico’s UFO tradition collapses into 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -778,12 +740,17 @@ The balanced conclusion is not that New Mexico’s UFO tradition collapses into 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -794,259 +761,259 @@ The balanced conclusion is not that New Mexico’s UFO tradition collapses into 
 1. <a id="endnote-1"></a>
    Source: wsmrmuseum.com  
    Title: White Sands Missile Range Museum  
-   Link: [https://wsmrmuseum.com/wp-content/uploads/2022/02/HAER_NM-1_WSMR.pdf](https://wsmrmuseum.com/wp-content/uploads/2022/02/HAER_NM-1_WSMR.pdf)  
+   Link: <a href="https://wsmrmuseum.com/wp-content/uploads/2022/02/HAER_NM-1_WSMR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wsmrmuseum.com/wp-content/uploads/2022/02/HAER_NM-1_WSMR.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: holloman.af.mil  
    Title: 704th96th test group  
-   Link: [https://www.holloman.af.mil/About/Fact-Sheets/Display/Article/317263/704th96th-test-group/](https://www.holloman.af.mil/About/Fact-Sheets/Display/Article/317263/704th96th-test-group/)  
+   Link: <a href="https://www.holloman.af.mil/About/Fact-Sheets/Display/Article/317263/704th96th-test-group/" target="_blank" rel="noopener noreferrer nofollow">https://www.holloman.af.mil/About/Fact-Sheets/Display/Article/317263/704th96th-test-group/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>704th/96th Test Group &gt; Holloman Air Force Base &gt; Display...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: kirtland.af.mil  
    Title: Base History  
-   Link: [https://www.kirtland.af.mil/About-Us/Kirtland-AFB-History/Base-History/](https://www.kirtland.af.mil/About-Us/Kirtland-AFB-History/Base-History/)  
+   Link: <a href="https://www.kirtland.af.mil/About-Us/Kirtland-AFB-History/Base-History/" target="_blank" rel="noopener noreferrer nofollow">https://www.kirtland.af.mil/About-Us/Kirtland-AFB-History/Base-History/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kirtland Air Force Base &gt; About Us &gt; Kirtland AFB History &gt; Base History...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: home.army.mil  
    Title: Home Trinity Site History:: White Sands Missile Range  
-   Link: [https://home.army.mil/wsmr/contact/public-affairs-office/trinity-site-open-house/trinity-site-history](https://home.army.mil/wsmr/contact/public-affairs-office/trinity-site-open-house/trinity-site-history)  
+   Link: <a href="https://home.army.mil/wsmr/contact/public-affairs-office/trinity-site-open-house/trinity-site-history" target="_blank" rel="noopener noreferrer nofollow">https://home.army.mil/wsmr/contact/public-affairs-office/trinity-site-open-house/trinity-site-history</a>  
 
 5. <a id="endnote-5"></a>
    Source: nsa.gov  
    Title: report af roswell  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: sgp.fas.org  
    Title: Project on Government Secrecy GAO Report on Roswell, NM UFO Crash  
-   Link: [https://sgp.fas.org/othergov/roswell.html](https://sgp.fas.org/othergov/roswell.html)  
+   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 8. <a id="endnote-8"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/The-Roswell-Report/](https://www.af.mil/The-Roswell-Report/)  
+   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: prologue.blogs.archives.gov  
    Title: ufos natural explanations  
-   Link: [https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/](https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 13. <a id="endnote-13"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/pentagon-reveals-findings-of-ufo-report-based-on-investigations-as-far-back-as-1945-13090060](https://news.sky.com/story/pentagon-reveals-findings-of-ufo-report-based-on-investigations-as-far-back-as-1945-13090060)  
+   Link: <a href="https://news.sky.com/story/pentagon-reveals-findings-of-ufo-report-based-on-investigations-as-far-back-as-1945-13090060" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/pentagon-reveals-findings-of-ufo-report-based-on-investigations-as-far-back-as-1945-13090060</a>  
 
 14. <a id="endnote-14"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 6  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_6.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf](https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: [https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/](https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
 
 17. <a id="endnote-17"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: sandia.gov  
-   Link: [https://www.sandia.gov/about/history/1940s/](https://www.sandia.gov/about/history/1940s/)  
+   Link: <a href="https://www.sandia.gov/about/history/1940s/" target="_blank" rel="noopener noreferrer nofollow">https://www.sandia.gov/about/history/1940s/</a>  
 
 19. <a id="endnote-19"></a>
    Source: vocabulary.com  
-   Link: [https://www.vocabulary.com/dictionary/scientific](https://www.vocabulary.com/dictionary/scientific)  
+   Link: <a href="https://www.vocabulary.com/dictionary/scientific" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/scientific</a>  
 
 20. <a id="endnote-20"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
 21. <a id="endnote-21"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 22. <a id="endnote-22"></a>
    Source: vault.fbi.gov  
    Title: Project Blue Book (UFO)  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
 
 23. <a id="endnote-23"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/view](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/view)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/view" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/view</a>  
 
 24. <a id="endnote-24"></a>
    Source: history.com  
    Title: u s air force closes the book on ufos 45 years ago  
-   Link: [https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago](https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago)  
+   Link: <a href="https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago</a>  
 
 25. <a id="endnote-25"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
    Title: White Sands National Park  
-   Link: [https://www.facebook.com/WhiteSandsNPS/posts/on-this-day-80-years-ago-the-world-officially-entered-the-nuclear-agejust-60-mil/1168446778650373/](https://www.facebook.com/WhiteSandsNPS/posts/on-this-day-80-years-ago-the-world-officially-entered-the-nuclear-agejust-60-mil/1168446778650373/)  
+   Link: <a href="https://www.facebook.com/WhiteSandsNPS/posts/on-this-day-80-years-ago-the-world-officially-entered-the-nuclear-agejust-60-mil/1168446778650373/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WhiteSandsNPS/posts/on-this-day-80-years-ago-the-world-officially-entered-the-nuclear-agejust-60-mil/1168446778650373/</a>  
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: White Sands National Park & The Birth of the Atomic Bomb  
-   Link: [https://www.youtube.com/watch?v=RPPAZhEYtnE](https://www.youtube.com/watch?v=RPPAZhEYtnE)  
+   Link: <a href="https://www.youtube.com/watch?v=RPPAZhEYtnE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RPPAZhEYtnE</a>  
 
 28. <a id="endnote-28"></a>
    Source: nps.gov  
    Title: White Sands V-2 Launching Site  
-   Link: [https://www.nps.gov/articles/white-sands-v2-launching-site.htm](https://www.nps.gov/articles/white-sands-v2-launching-site.htm)  
+   Link: <a href="https://www.nps.gov/articles/white-sands-v2-launching-site.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/articles/white-sands-v2-launching-site.htm</a>  
 
 29. <a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: [https://en.wikipedia.org/wiki/Roswell_incident](https://en.wikipedia.org/wiki/Roswell_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
 
 30. <a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 31. <a id="endnote-31"></a>
    Source: Wikipedia  
    Title: White Sands Missile Range  
-   Link: [https://en.wikipedia.org/wiki/White_Sands_Missile_Range](https://en.wikipedia.org/wiki/White_Sands_Missile_Range)  
+   Link: <a href="https://en.wikipedia.org/wiki/White_Sands_Missile_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/White_Sands_Missile_Range</a>  
 
 32. <a id="endnote-32"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/White](https://en.wikipedia.org/wiki/White)  
+   Link: <a href="https://en.wikipedia.org/wiki/White" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/White</a>  
 
 33. <a id="endnote-33"></a>
    Source: Wikipedia  
    Title: Holloman Air Force Base  
-   Link: [https://en.wikipedia.org/wiki/Holloman_Air_Force_Base](https://en.wikipedia.org/wiki/Holloman_Air_Force_Base)  
+   Link: <a href="https://en.wikipedia.org/wiki/Holloman_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Holloman_Air_Force_Base</a>  
 
 34. <a id="endnote-34"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: [https://en.wikipedia.org/wiki/Project_Mogul](https://en.wikipedia.org/wiki/Project_Mogul)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
 35. <a id="endnote-35"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/white](https://dictionary.cambridge.org/dictionary/english/white)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/white" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/white</a>  
 
 36. <a id="endnote-36"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/scientific](https://dictionary.cambridge.org/dictionary/english/scientific)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/scientific" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/scientific</a>  
 
 37. <a id="endnote-37"></a>
    Source: hollomanhousing.com  
-   Link: [https://www.hollomanhousing.com/history](https://www.hollomanhousing.com/history)  
+   Link: <a href="https://www.hollomanhousing.com/history" target="_blank" rel="noopener noreferrer nofollow">https://www.hollomanhousing.com/history</a>  
 
 38. <a id="endnote-38"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/white](https://www.merriam-webster.com/dictionary/white)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/white" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/white</a>  
 
 39. <a id="endnote-39"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: [https://www.britannica.com/event/Roswell-incident](https://www.britannica.com/event/Roswell-incident)  
+   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
 
 40. <a id="endnote-40"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 41. <a id="endnote-41"></a>
    Source: core.tdar.org  
    Title: holloman air force base  
-   Link: [https://core.tdar.org/browse/creators/231974/holloman-air-force-base?keywordType=&recordsPerPage=50&slug=&startRecord=150](https://core.tdar.org/browse/creators/231974/holloman-air-force-base?keywordType=&recordsPerPage=50&slug=&startRecord=150)  
+   Link: <a href="https://core.tdar.org/browse/creators/231974/holloman-air-force-base?keywordType=&amp;recordsPerPage=50&amp;slug=&amp;startRecord=150" target="_blank" rel="noopener noreferrer nofollow">https://core.tdar.org/browse/creators/231974/holloman-air-force-base?keywordType=&amp;recordsPerPage=50&amp;slug=&amp;startRecord=150</a>  
 
 42. <a id="endnote-42"></a>
    Source: bahaistudies.net  
    Title: project blue book  
-   Link: [https://www.bahaistudies.net/asma/project_blue_book.pdf](https://www.bahaistudies.net/asma/project_blue_book.pdf)  
+   Link: <a href="https://www.bahaistudies.net/asma/project_blue_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/project_blue_book.pdf</a>  
 
 43. <a id="endnote-43"></a>
    Source: realufo.org  
-   Link: [https://realufo.org/nara/roswell.html](https://realufo.org/nara/roswell.html)  
+   Link: <a href="https://realufo.org/nara/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://realufo.org/nara/roswell.html</a>  
 
 44. <a id="endnote-44"></a>
    Source: whitestuff.com  
-   Link: [https://www.whitestuff.com/](https://www.whitestuff.com/)  
+   Link: <a href="https://www.whitestuff.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.whitestuff.com/</a>  
 
 45. <a id="endnote-45"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: [https://origins.osu.edu/read/air-force-investigation-ufos](https://origins.osu.edu/read/air-force-investigation-ufos)  
+   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
 
 ### Additional References
 
 46. <a id="endnote-46"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=8oYGWjpiQ3g](https://www.youtube.com/watch?v=8oYGWjpiQ3g)  
+   Link: <a href="https://www.youtube.com/watch?v=8oYGWjpiQ3g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8oYGWjpiQ3g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Unraveling New Mexico&#x27;s many UFO mysteries: New Mexico Strange...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: youtube.com  
    Title: Unraveling New Mexico's many UFO mysteries: New Mexico Strange  
-   Link: [https://www.youtube.com/watch?v=v7nlg1WZ7cQ](https://www.youtube.com/watch?v=v7nlg1WZ7cQ)  
+   Link: <a href="https://www.youtube.com/watch?v=v7nlg1WZ7cQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v7nlg1WZ7cQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Pentagon UFO Files Reveal Chilling Encounters Near Secret Military Bases...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: youtube.com  
    Title: The Roswell Incident Mystery Finally Solved  
-   Link: [https://www.youtube.com/watch?v=Pz0vYcc4KiI](https://www.youtube.com/watch?v=Pz0vYcc4KiI)  
+   Link: <a href="https://www.youtube.com/watch?v=Pz0vYcc4KiI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pz0vYcc4KiI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 &quot;HOLLOMAN — FRONTIER OF THE FUTURE&quot; 1955 AIR FORCE AEROMEDICAL LAB / COL. JOHN PAUL STAPP 72092...</p></details>
 
 49. <a id="endnote-49"></a>
    Source: muller.lbl.gov  
-   Link: [https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html](https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html)  
+   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
 
 50. <a id="endnote-50"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/](https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
 
 51. <a id="endnote-51"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/11kzrb2/footage_of_ufo_landing_at_holloman_afb_with/](https://www.reddit.com/r/UFOs/comments/11kzrb2/footage_of_ufo_landing_at_holloman_afb_with/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/11kzrb2/footage_of_ufo_landing_at_holloman_afb_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11kzrb2/footage_of_ufo_landing_at_holloman_afb_with/</a>  
 
 52. <a id="endnote-52"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1cig4fv/footage_of_a_ufo_landing_at_holloman_afb_with/](https://www.reddit.com/r/ufo/comments/1cig4fv/footage_of_a_ufo_landing_at_holloman_afb_with/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1cig4fv/footage_of_a_ufo_landing_at_holloman_afb_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1cig4fv/footage_of_a_ufo_landing_at_holloman_afb_with/</a>  
 
 53. <a id="endnote-53"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/22592250/Introduction_to_The_Beginnings_of_Research_in_Space_Biology_at_the_Air_Force_Missile_Development_Center_Holloman_Air_Force_Base_New_Mexico_1946_1952_](https://www.academia.edu/22592250/Introduction_to_The_Beginnings_of_Research_in_Space_Biology_at_the_Air_Force_Missile_Development_Center_Holloman_Air_Force_Base_New_Mexico_1946_1952_)  
+   Link: <a href="https://www.academia.edu/22592250/Introduction_to_The_Beginnings_of_Research_in_Space_Biology_at_the_Air_Force_Missile_Development_Center_Holloman_Air_Force_Base_New_Mexico_1946_1952_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/22592250/Introduction_to_The_Beginnings_of_Research_in_Space_Biology_at_the_Air_Force_Missile_Development_Center_Holloman_Air_Force_Base_New_Mexico_1946_1952_</a>  
 
 54. <a id="endnote-54"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KirtlandAirForceBase/posts/on-16-july-1945-the-world-changed-forever-with-the-trinity-test-in-new-mexicos-j/1193589202813221/](https://www.facebook.com/KirtlandAirForceBase/posts/on-16-july-1945-the-world-changed-forever-with-the-trinity-test-in-new-mexicos-j/1193589202813221/)  
+   Link: <a href="https://www.facebook.com/KirtlandAirForceBase/posts/on-16-july-1945-the-world-changed-forever-with-the-trinity-test-in-new-mexicos-j/1193589202813221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KirtlandAirForceBase/posts/on-16-july-1945-the-world-changed-forever-with-the-trinity-test-in-new-mexicos-j/1193589202813221/</a>  
 
 55. <a id="endnote-55"></a>
    Source: clui.org  
-   Link: [https://clui.org/ludb/site/national-museum-nuclear-science-and-history](https://clui.org/ludb/site/national-museum-nuclear-science-and-history)  
+   Link: <a href="https://clui.org/ludb/site/national-museum-nuclear-science-and-history" target="_blank" rel="noopener noreferrer nofollow">https://clui.org/ludb/site/national-museum-nuclear-science-and-history</a>

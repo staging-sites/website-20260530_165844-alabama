@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /corydon-cases/
 nav_short_title: March 1987 Lights
 title: What Happened During the March 1987 Corydon Light Reports?
-title_full: What Happened During the March 1987 Corydon Light Reports? | Corydon Cases
+title_full: What Happened During the March 1987 Corydon Light Reports?
 display_title_short: March 1987 Lights
 display_title: March 1987 Lights
 heading_title: What Happened During the March 1987 Corydon Light Reports?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:24:19'
-parent_title: Investigating Indiana UFOs Through Private Investigators and Local Witnesses | Indiana UFOs
+parent_title: Investigating Indiana UFOs Through Private Investigators and Local Witnesses
 parent_permalink: /corydon-cases/
 parent_nav_short_title: Corydon Cases
 parent_heading_title: Investigating Indiana UFOs Through Private Investigators and Local Witnesses
@@ -250,10 +250,9 @@ image: /assets/images/Indiana_5d00be_private_investigator_f25209_corydon_march_1
 
 ## Introduction
 
-The March 1987 Corydon light reports became one of the better-known civilian UFO investigations in [Indiana]({{ 'what-makes-indianas-ufo-history-unique/' | relative_url }}) because they combined repeated sightings, multiple witnesses, police involvement, and unusually detailed field notes from local investigators. The core claims centred on recurring orange and white lights seen near treelines and fields outside Corydon in Harrison County. Witnesses described hovering objects, sudden disappearances, silent movement, and lights that seemed to change formation over several nights in March 1987. What makes the case notable within Indiana UFO history is not that it conclusively proved anything extraordinary, but that the reports generated a sustained investigation rather than a single anecdote. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/corydon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPcorydonHe told me that a young woman in Corydon, Indiana has been seeing UFOs in... The orange lights were hovering above the field...</span></span></span>
+The March 1987 Corydon light reports became one of the better-known civilian UFO investigations in Indiana because they combined repeated sightings, multiple witnesses, police involvement, and unusually detailed field notes from local investigators. The core claims centred on recurring orange and white lights seen near treelines and fields outside Corydon in Harrison County. Witnesses described hovering objects, sudden disappearances, silent movement, and lights that seemed to change formation over several nights in March 1987. What makes the case notable within Indiana UFO history is not that it conclusively proved anything extraordinary, but that the reports generated a sustained investigation rather than a single anecdote. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/corydon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">corydonHe told me that a young woman in Corydon, Indiana has been seeing UFOs in... The orange lights were hovering above the field...</span></span></span>
 
-
-<img src="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_march_1987_l_d673e4-Illustration-1-light.svg" | relative_url }}" alt="March 1987 Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_march_1987_l_d673e4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_march_1987_l_d673e4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_march_1987_l_d673e4-Illustration-1-dark.svg" | relative_url }}" alt="March 1987 Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_march_1987_l_d673e4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_march_1987_l_d673e4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The evidence also had clear limitations. Most observations occurred at night over rural terrain where judging distance, altitude, and motion is difficult. The witnesses were sincere by most accounts, but sincerity does not automatically establish an unknown craft. Some descriptions were internally inconsistent, and investigators themselves acknowledged that aircraft lights, distant headlights, atmospheric effects, or misjudged scale could explain parts of the sightings. The Corydon reports therefore sit in an important middle ground within Indiana UFO history: neither a clear hoax nor a strong evidential breakthrough, but a revealing example of how local UFO investigations operated in the late 1980s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1987fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">The 1987 UFO ChronologyHe thereby admitted that UFOs were seen from time to time, albeit rarely! And the silly notion that the U.S. Gover...</span></span></span>
 
 ## What Happened During the March 1987 Corydon Light Reports?
@@ -262,10 +261,9 @@ The main sequence began around 10 March 1987, when Corydon resident Mickey Shawl
 
 The case escalated after Shawler contacted authorities and the National UFO Reporting Center, which referred the matter to MUFON investigators. Delehanty travelled to Corydon to interview witnesses directly. His account emphasised that Shawler appeared frightened rather than publicity-seeking, an important point because investigators at the time often treated witness demeanour as part of their credibility assessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/corydon3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">s Hauswald) on the incident...Read more...</span></span></span>
 
-A key night in the sequence occurred on 17 March. Shawler again reported orange hovering lights, and Harrison County officer Steve Hamm responded to the scene. Hamm later stated that he saw multiple silent lights himself and estimated that as many as twelve objects or lights were visible during the observation period. According to the report, Hamm and Shawler spent nearly two hours following the lights in a police vehicle through the countryside. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/corydon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPcorydonHe told me that a young woman in Corydon, Indiana has been seeing UFOs in... The orange lights were hovering above the field...</span></span></span>
+A key night in the sequence occurred on 17 March. Shawler again reported orange hovering lights, and Harrison County officer Steve Hamm responded to the scene. Hamm later stated that he saw multiple silent lights himself and estimated that as many as twelve objects or lights were visible during the observation period. According to the report, Hamm and Shawler spent nearly two hours following the lights in a police vehicle through the countryside. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/corydon.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">corydonHe told me that a young woman in Corydon, Indiana has been seeing UFOs in... The orange lights were hovering above the field...</span></span></span>
 
 Several details from these accounts became central to later retellings of the Corydon case:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -291,15 +289,13 @@ The local sheriff, Ed Davis Jr., reportedly adopted a more cautious stance and s
 
 The contrast between Hamm’s excitement and Davis’s restraint reflects a broader pattern in Indiana UFO history during the late Cold War period. Local officers sometimes reported strange lights sincerely while supervisors or officials treated the same events as unresolved but probably mundane.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/brTk1moKMWw" title="Family Reunions and a UFO Story (Bedford, Indiana)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=brTk1moKMWw" target="_blank" rel="noopener noreferrer">Family Reunions and a UFO Story (Bedford, Indiana)</a></p><p class="youtube-embed-meta">Channel: Adventures with Roger &middot; Views: 9.0K &middot; Uploaded: February 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=brTk1moKMWw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=brTk1moKMWw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/guXHg6iLqKg" title="UFO: Phantoms of the Night Sky (Southern Indiana)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=guXHg6iLqKg" target="_blank" rel="noopener noreferrer">UFO: Phantoms of the Night Sky (Southern Indiana)</a></p><p class="youtube-embed-meta">Channel: Adventures with Roger &middot; Views: 117.1K &middot; Uploaded: December 2023 &middot; Length: 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=guXHg6iLqKg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=guXHg6iLqKg">Open on YouTube</a></p></div></div></div>
 
 ## How Civilian Investigators Handled the Case
 
-The Corydon reports are also valuable as a snapshot of the “private-investigator era” of UFO research after the US [Air Force]({{ 'air-force-era/' | relative_url }}) ended Project Blue Book in 1969. By 1987, most UFO investigations in Indiana were conducted by volunteer civilian organisations such as MUFON and regional groups connected to investigator Francis Ridge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://townepost.com/indiana/lakes-region/it-came-from-outer-space-to-indiana-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: townepost.com">[Towne Post Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">townepost.com</span><span class="citation-popover-title">Towne Post Network It Came From Outer Space (to Indiana)!</span><span class="citation-popover-snippet">Lakes Region22 Jun 2023 — Ridge detailed a group effort by Network members to capture a reported phenomenon near Corydon, Indiana, of ora...</span></span></span>
+The Corydon reports are also valuable as a snapshot of the “private-investigator era” of UFO research after the US Air Force ended Project Blue Book in 1969. By 1987, most UFO investigations in Indiana were conducted by volunteer civilian organisations such as MUFON and regional groups connected to investigator Francis Ridge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://townepost.com/indiana/lakes-region/it-came-from-outer-space-to-indiana-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: townepost.com">[Towne Post Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">townepost.com</span><span class="citation-popover-title">Towne Post Network It Came From Outer Space (to Indiana)!</span><span class="citation-popover-snippet">Lakes Region22 Jun 2023 — Ridge detailed a group effort by Network members to capture a reported phenomenon near Corydon, Indiana, of ora...</span></span></span>
 
 Delehanty’s field notes show a relatively structured investigative approach for the time. He interviewed witnesses in person, attempted timeline reconstruction, contacted other investigators, and compared statements from multiple observers. The reports also reveal the weaknesses of volunteer UFO investigations:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -315,8 +311,7 @@ One revealing moment came when a separate local woman linked the sightings to Sa
 
 That episode matters because it shows how UFO investigations in the 1980s could drift toward wider paranormal speculation once media attention grew. The stronger parts of the Corydon case remained the direct witness observations and police involvement. The more elaborate paranormal interpretations added noise rather than clarity.
 
-
-<img src="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_march_1987_l_d673e4-Illustration-2-light.svg" | relative_url }}" alt="March 1987 Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_march_1987_l_d673e4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_march_1987_l_d673e4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_march_1987_l_d673e4-Illustration-2-dark.svg" | relative_url }}" alt="March 1987 Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_march_1987_l_d673e4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_march_1987_l_d673e4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Were the Lights Really Unexplained?
 
 The central question is whether the Corydon lights represented genuinely anomalous aerial phenomena or a combination of misidentified ordinary sources.
@@ -333,8 +328,7 @@ Night observations over dark farmland can badly distort perceived distance and a
 
 Bright lights viewed against a dark sky can seem to drift, hover, or dart because of normal eye movement and the lack of visual reference points. This effect is well documented in aviation psychology and often appears in UFO reports involving isolated lights.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/guXHg6iLqKg" title="UFO: Phantoms of the Night Sky (Southern Indiana)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=guXHg6iLqKg" target="_blank" rel="noopener noreferrer">UFO: Phantoms of the Night Sky (Southern Indiana)</a></p><p class="youtube-embed-meta">Channel: Adventures with Roger &middot; Views: 117.1K &middot; Uploaded: December 2023 &middot; Length: 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=guXHg6iLqKg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=guXHg6iLqKg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/brTk1moKMWw" title="Family Reunions and a UFO Story (Bedford, Indiana)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=brTk1moKMWw" target="_blank" rel="noopener noreferrer">Family Reunions and a UFO Story (Bedford, Indiana)</a></p><p class="youtube-embed-meta">Channel: Adventures with Roger &middot; Views: 9.0K &middot; Uploaded: February 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=brTk1moKMWw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=brTk1moKMWw">Open on YouTube</a></p></div></div></div>
 
 ### Headlights and atmospheric effects
 
@@ -346,8 +340,7 @@ Once repeated sightings became known locally, witnesses were primed to interpret
 
 None of these explanations fully resolve every detail in the testimony. But they demonstrate why the case remains “unresolved” rather than strongly evidential. The reports were unusual enough to attract serious local attention, yet not strong enough to eliminate ordinary causes confidently.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZR-o3Kxs9hI" title="Close Encounters of the Muncie Kind: The Muncie UFO Mania of &#x27;73" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZR-o3Kxs9hI" target="_blank" rel="noopener noreferrer">Close Encounters of the Muncie Kind: The Muncie UFO Mania of &#x27;73</a></p><p class="youtube-embed-meta">Channel: Journey Indiana &middot; Views: 301 &middot; Uploaded: March 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZR-o3Kxs9hI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZR-o3Kxs9hI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FyEehToBF_s" title="UFO Syndrome (1980). Aliens Captured On Film!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FyEehToBF_s" target="_blank" rel="noopener noreferrer">UFO Syndrome (1980). Aliens Captured On Film!</a></p><p class="youtube-embed-meta">Channel: Brett Peake &middot; Views: 92 &middot; Uploaded: October 2025 &middot; Length: 1 minute 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FyEehToBF_s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FyEehToBF_s">Open on YouTube</a></p></div></div></div>
 
 ## How the March Sightings Shaped Later Corydon Reports
 
@@ -359,7 +352,6 @@ The danger in such situations is that later reports become difficult to separate
 
 Even so, the March reports remained important because they established the basic pattern repeated in later accounts:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Orange luminous objects.
@@ -370,8 +362,7 @@ Even so, the March reports remained important because they established the basic
 
 </div>
 
-
-<img src="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_march_1987_l_d673e4-Illustration-3-light.svg" | relative_url }}" alt="March 1987 Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_march_1987_l_d673e4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_march_1987_l_d673e4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_march_1987_l_d673e4-Illustration-3-dark.svg" | relative_url }}" alt="March 1987 Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_march_1987_l_d673e4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_private_investigator_f25209_corydon_march_1987_l_d673e4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Corydon Case Says About Indiana UFO History
 
 The March 1987 Corydon sightings illustrate a transitional period in American UFO culture and specifically in Indiana’s local UFO history. Earlier decades often revolved around military reports, radar cases, or Air Force investigations. By the late 1980s, many important state-level cases instead depended on volunteer investigators, local newspapers, witness hotlines, and informal civilian networks.
@@ -803,110 +794,110 @@ For historians of Indiana UFO claims, the Corydon lights are therefore significa
 
 1. <a id="endnote-1"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/corydon.htm](https://www.nicap.org/corydon.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPcorydonHe told me that a young woman in Corydon, Indiana has been seeing UFOs in... The orange lights were hovering above the field...</p></details>
+   Link: <a href="https://www.nicap.org/corydon.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/corydon.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>corydonHe told me that a young woman in Corydon, Indiana has been seeing UFOs in... The orange lights were hovering above the field...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1987fullrep.htm](https://www.nicap.org/chronos/1987fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1987fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1987fullrep.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1987 UFO ChronologyHe thereby admitted that UFOs were seen from time to time, albeit rarely! And the silly notion that the U.S. Gover...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nicap.org  
    Title: UFO Report Fran Ridge  
-   Link: [https://www.nicap.org/870823corydon_dir.htm](https://www.nicap.org/870823corydon_dir.htm)  
+   Link: <a href="https://www.nicap.org/870823corydon_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/870823corydon_dir.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportFran Ridge: August 23, 1987; Corydon, Indiana 10:20 PM. A well-witnessed event involving at least 12-15 witnesses, five of whic...</p></details>
    Published: August 23, 1987  
 
 4. <a id="endnote-4"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/corydon3.htm](https://www.nicap.org/corydon3.htm)  
+   Link: <a href="https://www.nicap.org/corydon3.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/corydon3.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>s Hauswald) on the incident...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: projectaquarius.mufon.com  
    Title: UFO Newsclipping Service 1987 05 no 214  
-   Link: [https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1987-05-no-214.pdf](https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1987-05-no-214.pdf)  
+   Link: <a href="https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1987-05-no-214.pdf" target="_blank" rel="noopener noreferrer nofollow">https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1987-05-no-214.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>site of UFO investi6 May 1987 — Investigator Don Schmitt gave a brief history of. UFO reports. According to him, physical evidence of. UF...</p></details>
    Published: May 1987  
 
 6. <a id="endnote-6"></a>
    Source: projectaquarius.mufon.com  
    Title: January December 1989  
-   Link: [https://projectaquarius.mufon.com/wp-content/uploads/2023/09/January_December_1989.pdf](https://projectaquarius.mufon.com/wp-content/uploads/2023/09/January_December_1989.pdf)  
+   Link: <a href="https://projectaquarius.mufon.com/wp-content/uploads/2023/09/January_December_1989.pdf" target="_blank" rel="noopener noreferrer nofollow">https://projectaquarius.mufon.com/wp-content/uploads/2023/09/January_December_1989.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO JOURNAL31 Jan 1989 —... James. Oberg, a frequent &quot;mouthpiece&quot; for certain NASA projects and self-styled. UFO Debunker wrote to dispa...</p></details>
    Published: December 1989  
 
 7. <a id="endnote-7"></a>
    Source: ufocasebook.com  
    Title: UFO Casebook Corydon, Indiana Video Film,  
-   Link: [https://www.ufocasebook.com/corydon1987.html](https://www.ufocasebook.com/corydon1987.html)  
+   Link: <a href="https://www.ufocasebook.com/corydon1987.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/corydon1987.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CasebookCorydon, Indiana Video Film, August 23, 1987...Corydon, Indiana 1987, click for large. The incident... To his knowledge the...</p></details>
    Published: August 23, 1987  
 
 8. <a id="endnote-8"></a>
    Source: townepost.com  
    Title: Towne Post Network It Came From Outer Space (to Indiana)!  
-   Link: [https://townepost.com/indiana/lakes-region/it-came-from-outer-space-to-indiana-ufos/](https://townepost.com/indiana/lakes-region/it-came-from-outer-space-to-indiana-ufos/)  
+   Link: <a href="https://townepost.com/indiana/lakes-region/it-came-from-outer-space-to-indiana-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://townepost.com/indiana/lakes-region/it-came-from-outer-space-to-indiana-ufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lakes Region22 Jun 2023 — Ridge detailed a group effort by Network members to capture a reported phenomenon near Corydon, Indiana, of ora...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/3817234638530626/posts/4203817603205659/](https://www.facebook.com/groups/3817234638530626/posts/4203817603205659/)  
+   Link: <a href="https://www.facebook.com/groups/3817234638530626/posts/4203817603205659/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3817234638530626/posts/4203817603205659/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Burkes Flat, Victoria, AustraliaEl investigador Jim Delehanty se entrevistó posteriormente con Paul Hauswald y su padre, Chris, el 10-oct...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/mint.live/posts/ufo-scare-witnesses-in-indiana-reported-yellowish-orange-orbs-zig-zagging-near-a/969042695265451/](https://www.facebook.com/mint.live/posts/ufo-scare-witnesses-in-indiana-reported-yellowish-orange-orbs-zig-zagging-near-a/969042695265451/)  
+   Link: <a href="https://www.facebook.com/mint.live/posts/ufo-scare-witnesses-in-indiana-reported-yellowish-orange-orbs-zig-zagging-near-a/969042695265451/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mint.live/posts/ufo-scare-witnesses-in-indiana-reported-yellowish-orange-orbs-zig-zagging-near-a/969042695265451/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO scare: Witnesses in Indiana reported yellowishTo his knowledge there is no known navigation light such as the orange lights being obs...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sweetstudy.com  
-   Link: [https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183](https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183)  
+   Link: <a href="https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183" target="_blank" rel="noopener noreferrer nofollow">https://www.sweetstudy.com/files/ufo-sightings-large-csv-8453183</a>  
 
 12. <a id="endnote-12"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/138876847/Regional-Encounters](https://www.scribd.com/document/138876847/Regional-Encounters)  
+   Link: <a href="https://www.scribd.com/document/138876847/Regional-Encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/138876847/Regional-Encounters</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In the early days UFO buffs such as we were a minority and many people thought that we were...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1809423966267557/posts/1855226668353953/](https://www.facebook.com/groups/1809423966267557/posts/1855226668353953/)  
+   Link: <a href="https://www.facebook.com/groups/1809423966267557/posts/1855226668353953/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1809423966267557/posts/1855226668353953/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Three rosey orange lights on all three corners with a bluish yellow light in the center. I...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/TheOxfordDictionaryOfModernQuotations/The%20Oxford%20Dictionary%20of%20Modern%20Quotations_djvu.txt](https://archive.org/stream/TheOxfordDictionaryOfModernQuotations/The%20Oxford%20Dictionary%20of%20Modern%20Quotations_djvu.txt)  
+   Link: <a href="https://archive.org/stream/TheOxfordDictionaryOfModernQuotations/The%20Oxford%20Dictionary%20of%20Modern%20Quotations_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheOxfordDictionaryOfModernQuotations/The%20Oxford%20Dictionary%20of%20Modern%20Quotations_djvu.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>See other formats. The Oxford Dictionary of Modern Quotations PREFACE Preface This is a...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: upload.wikimedia.org  
    Title: The Groton Avery clan (IA grotonaveryclan21aver)  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/7/79/The_Groton_Avery_clan_-_%28IA_grotonaveryclan21aver%29.pdf](https://upload.wikimedia.org/wikipedia/commons/7/79/The_Groton_Avery_clan_-_%28IA_grotonaveryclan21aver%29.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/7/79/The_Groton_Avery_clan_-_%28IA_grotonaveryclan21aver%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/7/79/The_Groton_Avery_clan_-_%28IA_grotonaveryclan21aver%29.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Groton Avery clan /May 14, 1827, in Fountain Co., Ind. He was a farmer and carpenter. He d. April 25, 1882, at Aliens Grove,Wis.; she d...</p></details>
    Published: May 14, 1827  
 
 16. <a id="endnote-16"></a>
    Source: fraser.stlouisfed.org  
    Title: rmbd 192701 15 directorsofnationalandstatebanks  
-   Link: [https://fraser.stlouisfed.org/title/rand-mcnally-bankers-directory-105/january-1927-598441/content/fulltext/rmbd_192701_15_directorsofnationalandstatebanks](https://fraser.stlouisfed.org/title/rand-mcnally-bankers-directory-105/january-1927-598441/content/fulltext/rmbd_192701_15_directorsofnationalandstatebanks)  
+   Link: <a href="https://fraser.stlouisfed.org/title/rand-mcnally-bankers-directory-105/january-1927-598441/content/fulltext/rmbd_192701_15_directorsofnationalandstatebanks" target="_blank" rel="noopener noreferrer nofollow">https://fraser.stlouisfed.org/title/rand-mcnally-bankers-directory-105/january-1927-598441/content/fulltext/rmbd_192701_15_directorsofnationalandstatebanks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>H. M. Robinson.H. C. Alien. W. R. Staats. W. M. Caswell. W.H.Allen, Jr. M. S. Heilman. O. P. Clark. T. J. Brant. W. H. Burnham.W. H. Alle...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: downloads.cs.stanford.edu  
    Title: eduthan born became states including american  
-   Link: [https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt](https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt)  
+   Link: <a href="https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt" target="_blank" rel="noopener noreferrer nofollow">https://downloads.cs.stanford.edu/nlp/data/jiwei/data/vocab_wiki.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>james schools language areas special 100 km records others without right... 1987 empire running brown report captain 31 met soviet sir t...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2098187583952217/](https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2098187583952217/)  
+   Link: <a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2098187583952217/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2098187583952217/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lights being observed. However, an orange light could be...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: govinfo.gov  
    Title: GPO CRECB 1893 pt4 v25 1  
-   Link: [https://www.govinfo.gov/content/pkg/GPO-CRECB-1893-pt4-v25/pdf/GPO-CRECB-1893-pt4-v25-1.pdf](https://www.govinfo.gov/content/pkg/GPO-CRECB-1893-pt4-v25/pdf/GPO-CRECB-1893-pt4-v25-1.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/GPO-CRECB-1893-pt4-v25/pdf/GPO-CRECB-1893-pt4-v25-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GPO-CRECB-1893-pt4-v25/pdf/GPO-CRECB-1893-pt4-v25-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CONGRESSIONAL RECORD.... in (see bill H. R. 2843). Alford, Benjamm. Bill for relief (see bill H. R. 522). Alford, Benjamin F. Bill for re...</p></details>

@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-arkansas-skies/
 nav_short_title: Fort Smith 1965
 title: Why Did Fort Smith See So Many UFOs?
-title_full: Why Did Fort Smith See So Many UFOs? | Arkansas UFOs
+title_full: Why Did Fort Smith See So Many UFOs?
 display_title_short: Fort Smith 1965
 display_title: Fort Smith 1965
 heading_title: Why Did Fort Smith See So Many UFOs?
@@ -268,8 +268,7 @@ image: /assets/images/Arkansas_2f717f_fort_smith_1965_wave_3e94e8-overview-socia
 
 ## Introduction
 
-The Fort Smith UFO story matters because it is one of [Arkansas]({{ 'what-really-happened-in-arkansas-skies/' | relative_url }})’s strongest modern mass-witness cases, but also one of its most easily misunderstood. The popular label “1965 Fort Smith UFO wave” blends two related things: a wider 1965 north-west Arkansas flap, and a better-documented Fort Smith mass sighting in August 1966. The 1965 reports around Viney Grove, Fayetteville and other Arkansas locations set the regional atmosphere; the Fort Smith file that mentions roughly 1,500 witnesses is a Project [Blue Book]({{ 'blue-book/' | relative_url }}) case dated 16 August 1966. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of Arkansas UFO Sightings</span></span></span>
-
+The Fort Smith UFO story matters because it is one of Arkansas’s strongest modern mass-witness cases, but also one of its most easily misunderstood. The popular label “1965 Fort Smith UFO wave” blends two related things: a wider 1965 north-west Arkansas flap, and a better-documented Fort Smith mass sighting in August 1966. The 1965 reports around Viney Grove, Fayetteville and other Arkansas locations set the regional atmosphere; the Fort Smith file that mentions roughly 1,500 witnesses is a Project [Blue Book]({{ 'blue-book/' | relative_url }}) case dated 16 August 1966. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of Arkansas UFO Sightings</span></span></span>
 
 <img src="{{ "/assets/images/Arkansas_2f717f_fort_smith_1965_wave_3e94e8-overview.webp" | relative_url }}" alt="Overview image for Fort Smith 1965" loading="eager" decoding="sync" fetchpriority="high">
 That distinction does not make the case unimportant. It makes it more useful. Fort Smith shows how a UFO wave can grow from real skywatching, police calls, radio coverage, Air Force paperwork, crowd behaviour, and later attempts at explanation. The best reading is cautious: many people appear to have seen unusual lights, but the surviving evidence does not prove an exotic craft.
@@ -282,8 +281,7 @@ The reports did not stop there. A few days later, two women reportedly said they
 
 This is the proper setting for the [Fort Smith case]({{ 'fort-smith-case/' | relative_url }}). By the time crowds gathered to scan the skies over the River Valley, Arkansas already had a live UFO narrative in circulation. Reports from one town primed residents in another to look up, phone authorities, listen to radio broadcasts, and compare what they saw with what others were saying. That does not mean witnesses invented the lights. It means the wave developed in a social environment where sightings could spread quickly, especially when local police, airports and newsrooms were pulled into the same loop.
 
-
-<img src="{{ "/assets/images/Arkansas_2f717f_fort_smith_1965_wave_3e94e8-Illustration-1-light.svg" | relative_url }}" alt="Fort Smith 1965 illustration 1" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_fort_smith_1965_wave_3e94e8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_fort_smith_1965_wave_3e94e8-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arkansas_2f717f_fort_smith_1965_wave_3e94e8-Illustration-1-dark.svg" | relative_url }}" alt="Fort Smith 1965 illustration 1" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_fort_smith_1965_wave_3e94e8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_fort_smith_1965_wave_3e94e8-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fort Smith's reported mass witnesses
 
 The strongest Fort Smith documentation is not a dramatic alien encounter. It is a bureaucratic Air Force file: a Project Blue Book report from Little Rock Air Force Base, written after sightings in the Fort Smith area on 16 August 1966. The report described objects as small, circular lights, red, green and white in colour, seen one to four at a time, moving in straight lines, with no sound and no visible tail. It said the lights were seen to the north-west and moved south, with some disappearing abruptly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span><span class="citation-popover-snippet">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span></span></span>
@@ -293,7 +291,6 @@ The Air Force file is also where the famous witness number comes from. It notes 
 That number is impressive, but it needs careful handling. It does not mean 1,500 independent, formally recorded testimonies exist. It means one Air Force report accepted that a very large crowd, or several crowds, watched the sky during the episode. A newspaper clipping preserved in the [Blue Book file]({{ 'blue-book-file/' | relative_url }}) says Sergeant J. W. Gilbreth of the Fort Smith Police Department saw groups of about 60, 350 and 600 people watching the same objects, while one crowd listening to a newsman’s broadcast was estimated at about 1,500. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span><span class="citation-popover-snippet">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span></span></span>
 
 Sergeant Gilbreth’s role is important because he gives the case a stronger local anchor than anonymous crowd reports alone. The file says he observed the lights for about an hour, by eye and with binoculars. His description was restrained: he saw lights, but did not claim to know what they were attached to. In the clipping, his summary is strikingly cautious: the witnesses saw lights; what those lights were “on” was not clear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span><span class="citation-popover-snippet">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ac3hYt3k-Eo" title="The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer">The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 149.6K &middot; Uploaded: July 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ac3hYt3k-Eo">Open on YouTube</a></p></div></div></div>
 
@@ -315,8 +312,7 @@ Those weather details help the case in one sense: witnesses were not obviously p
 
 The file also contains clues that investigators considered aviation explanations. A memo records that [Texarkana]({{ 'texarkana/' | relative_url }}) radar failed to pick up the objects, that the Fort Smith Municipal Airport observer Jerry Baines thought the alleged UFO looked like an aircraft, and that another officer thought it resembled an aircraft connected with cloud-seeding activity in the area. Later notes identified Strategic Air Command activity: the 43rd Bomb Wing was in the area between 0055Z and 0155Z, and the 70th Bomb Wing was using the Ten Killer refuelling track between 0243Z and 0343Z on 16 August 1966. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span><span class="citation-popover-snippet">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span></span></span>
 
-
-<img src="{{ "/assets/images/Arkansas_2f717f_fort_smith_1965_wave_3e94e8-Illustration-2-light.svg" | relative_url }}" alt="Fort Smith 1965 illustration 2" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_fort_smith_1965_wave_3e94e8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_fort_smith_1965_wave_3e94e8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arkansas_2f717f_fort_smith_1965_wave_3e94e8-Illustration-2-dark.svg" | relative_url }}" alt="Fort Smith 1965 illustration 2" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_fort_smith_1965_wave_3e94e8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_fort_smith_1965_wave_3e94e8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What makes a mass sighting strong or weak
 
 Fort Smith is stronger than a single isolated report because it involved many witnesses, police attention, airport and Air Force contacts, local journalism, and a surviving Project Blue Book file. It is not just a campfire story retold decades later. The case has contemporary institutional traces, including a dated Air Force memorandum and descriptions attributed to named people. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-title">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span><span class="citation-popover-snippet">Project Blue Book report 1966 08 8728209 FortSmith Arkansas</span></span></span>
@@ -324,7 +320,6 @@ Fort Smith is stronger than a single isolated report because it involved many wi
 But mass sightings have traps. A large crowd can produce more confidence, but not always more independent evidence. In Fort Smith, the crowd formed while radio reports and police chatter were already circulating. People were not necessarily making separate, sealed observations; many were watching together, listening together, and interpreting together. That can strengthen a shared description, but it can also spread expectation.
 
 The best tests for a mass-witness UFO case are simple:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -337,7 +332,6 @@ The best tests for a mass-witness UFO case are simple:
 </div>
 
 By these standards, Fort Smith is a meaningful unresolved or partly explained mass-sighting episode, not a proven encounter with an unknown machine.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UlmwakUTo3M" title="UFO Interview, 1966" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UlmwakUTo3M" target="_blank" rel="noopener noreferrer">UFO Interview, 1966</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 688.0K &middot; Uploaded: September 2013 &middot; Length: 4 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UlmwakUTo3M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UlmwakUTo3M">Open on YouTube</a></p></div></div></div>
 
@@ -353,8 +347,7 @@ A third, later hypothesis is that some Fort Smith witnesses may have seen secret
 
 The fourth explanation is social amplification: people saw real lights, but radio coverage, rumours, crowd movement and police activity magnified the event into a citywide UFO drama. This is not a “nothing happened” explanation. It allows for genuine sightings while recognising that the mass-witness number may measure public mobilisation as much as it measures independent observation.
 
-
-<img src="{{ "/assets/images/Arkansas_2f717f_fort_smith_1965_wave_3e94e8-Illustration-3-light.svg" | relative_url }}" alt="Fort Smith 1965 illustration 3" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_fort_smith_1965_wave_3e94e8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_fort_smith_1965_wave_3e94e8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arkansas_2f717f_fort_smith_1965_wave_3e94e8-Illustration-3-dark.svg" | relative_url }}" alt="Fort Smith 1965 illustration 3" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_fort_smith_1965_wave_3e94e8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_fort_smith_1965_wave_3e94e8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Fort Smith still matters in Arkansas UFO history
 
 Fort Smith remains central to Arkansas UFO history because it brings together the elements that weaker cases lack. There were named local observers, police involvement, crowds, press coverage, Air Force attention, and surviving paperwork. The story also sits within a broader state pattern: Arkansas’s nineteenth-century airship stories were rich in newspaper drama, while the 1965–66 wave arrived in the Cold War age of radar, air bases, official forms and national UFO anxiety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://encyclopediaofarkansas.net/media/ufo-article-12371/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of Arkansas UFO Sightings</span></span></span>
@@ -363,9 +356,7 @@ The case also shows why Arkansas should not be treated as a minor footnote in UF
 
 Its value, however, is not that it proves alien visitation. Its value is that it is a strong case study in how UFO waves actually work. A few unusual lights become a public event when enough people are watching, when police and broadcasters become relays, and when official investigators have to turn a night of scattered reports into a file. Fort Smith is therefore best understood as Arkansas’s most important modern mass-witness UFO wave: impressive, historically significant, partly documented, but still open to ordinary explanations.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GcOCIabFnLE" title="Project Blue Book UFO Interview USAF (1966)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer">Project Blue Book UFO Interview USAF (1966)</a></p><p class="youtube-embed-meta">Channel: AIRBOYD &middot; Views: 783 &middot; Uploaded: November 2025 &middot; Length: 4 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GcOCIabFnLE">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -789,235 +780,235 @@ Its value, however, is not that it proves alien visitation. Its value is that it
 1. <a id="endnote-1"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book report 1966 08 8728209 FortSmith Arkansas  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf](https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/a/a8/Project_Blue_Book_report_-_1966-08-8728209-FortSmith-Arkansas.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/legacy/museum/exhibit/a-12-oxcart/](https://www.cia.gov/legacy/museum/exhibit/a-12-oxcart/)  
+   Link: <a href="https://www.cia.gov/legacy/museum/exhibit/a-12-oxcart/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/legacy/museum/exhibit/a-12-oxcart/</a>  
 
 4. <a id="endnote-4"></a>
    Source: cia.gov  
    Title: oxcart vs blackbird do you know the difference  
-   Link: [https://www.cia.gov/stories/story/oxcart-vs-blackbird-do-you-know-the-difference/](https://www.cia.gov/stories/story/oxcart-vs-blackbird-do-you-know-the-difference/)  
+   Link: <a href="https://www.cia.gov/stories/story/oxcart-vs-blackbird-do-you-know-the-difference/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/oxcart-vs-blackbird-do-you-know-the-difference/</a>  
 
 5. <a id="endnote-5"></a>
    Source: katv.com  
-   Link: [https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft](https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft)  
+   Link: <a href="https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft" target="_blank" rel="noopener noreferrer nofollow">https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft</a>  
 
 6. <a id="endnote-6"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
 7. <a id="endnote-7"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/resources/csi/static/Archangel-CIAs-Supersonic-A-12-Reconnaissance-Aircraft.pdf](https://www.cia.gov/resources/csi/static/Archangel-CIAs-Supersonic-A-12-Reconnaissance-Aircraft.pdf)  
+   Link: <a href="https://www.cia.gov/resources/csi/static/Archangel-CIAs-Supersonic-A-12-Reconnaissance-Aircraft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/Archangel-CIAs-Supersonic-A-12-Reconnaissance-Aircraft.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: cia.gov  
    Title: a 12 oxcart  
-   Link: [https://www.cia.gov/legacy/headquarters/a-12-oxcart/](https://www.cia.gov/legacy/headquarters/a-12-oxcart/)  
+   Link: <a href="https://www.cia.gov/legacy/headquarters/a-12-oxcart/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/legacy/headquarters/a-12-oxcart/</a>  
 
 9. <a id="endnote-9"></a>
    Source: cia.gov  
    Title: DOC 0000645397  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0000645397.pdf](https://www.cia.gov/readingroom/docs/DOC_0000645397.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000645397.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000645397.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/legacy/museum/artifact/untouchable/](https://www.cia.gov/legacy/museum/artifact/untouchable/)  
+   Link: <a href="https://www.cia.gov/legacy/museum/artifact/untouchable/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/legacy/museum/artifact/untouchable/</a>  
 
 11. <a id="endnote-11"></a>
    Source: cia.gov  
    Title: DOC 0000192682  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf](https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: cia.gov  
    Title: restoring a symbol of cold war innovation  
-   Link: [https://www.cia.gov/stories/story/restoring-a-symbol-of-cold-war-innovation/](https://www.cia.gov/stories/story/restoring-a-symbol-of-cold-war-innovation/)  
+   Link: <a href="https://www.cia.gov/stories/story/restoring-a-symbol-of-cold-war-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/restoring-a-symbol-of-cold-war-innovation/</a>  
 
 13. <a id="endnote-13"></a>
    Source: cia.gov  
    Title: RECORD S SHELF LIST  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp90b00170r000200170004-1](https://www.cia.gov/readingroom/document/cia-rdp90b00170r000200170004-1)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp90b00170r000200170004-1" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp90b00170r000200170004-1</a>  
 
 14. <a id="endnote-14"></a>
    Source: cia.gov  
    Title: REPOR T  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0001472621.pdf](https://www.cia.gov/readingroom/docs/DOC_0001472621.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0001472621.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0001472621.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: cia.gov  
    Title: A-12 ACCIDENT REPORT  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP71B00590R000100050004-7.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP71B00590R000100050004-7.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP71B00590R000100050004-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP71B00590R000100050004-7.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: cia.gov  
    Title: REPOR T  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0001472020.pdf](https://www.cia.gov/readingroom/docs/DOC_0001472020.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0001472020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0001472020.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: cia.gov  
    Title: DOC 0001459069  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0001459069.pdf](https://www.cia.gov/readingroom/docs/DOC_0001459069.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0001459069.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0001459069.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: cia.gov  
    Title: Edwin Lands Intelligence Legacy March 2025  
-   Link: [https://www.cia.gov/resources/csi/static/Edwin-Lands-Intelligence-Legacy-March-2025.pdf](https://www.cia.gov/resources/csi/static/Edwin-Lands-Intelligence-Legacy-March-2025.pdf)  
+   Link: <a href="https://www.cia.gov/resources/csi/static/Edwin-Lands-Intelligence-Legacy-March-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/Edwin-Lands-Intelligence-Legacy-March-2025.pdf</a>  
    Published: March 2025  
 
 19. <a id="endnote-19"></a>
    Source: cia.gov  
    Title: cia rdp89b00980r000600050024 8  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp89b00980r000600050024-8](https://www.cia.gov/readingroom/document/cia-rdp89b00980r000600050024-8)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp89b00980r000600050024-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp89b00980r000600050024-8</a>  
 
 20. <a id="endnote-20"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=&ds_field_pub_date%5Bmin%5D=&ds_field_pub_date_op=%3D&f%5B0%5D=dm_field_release_date%3A%5B2002-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&f%5B1%5D=im_field_collection%3A1834881&f%5B2%5D=ds_created%3A%5B2016-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&f%5B3%5D=ds_created%3A%5B2016-12-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&f%5B4%5D=ds_created%3A%5B2016-12-15T00%3A00%3A00Z+TO-12-16T00%3A00%3A00Z%5D&f%5B5%5D=ds_created%3A%5B2016-12-15T05%3A00%3A00Z+TO-12-15T06%3A00%3A00Z%5D&f%5B6%5D=dm_field_release_date%3A%5B2002-08-01T00%3A00%3A00Z+TO-09-01T00%3A00%3A00Z%5D&order=label&page=3&sort=asc](https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=&ds_field_pub_date%5Bmin%5D=&ds_field_pub_date_op=%3D&f%5B0%5D=dm_field_release_date%3A%5B2002-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&f%5B1%5D=im_field_collection%3A1834881&f%5B2%5D=ds_created%3A%5B2016-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&f%5B3%5D=ds_created%3A%5B2016-12-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&f%5B4%5D=ds_created%3A%5B2016-12-15T00%3A00%3A00Z+TO-12-16T00%3A00%3A00Z%5D&f%5B5%5D=ds_created%3A%5B2016-12-15T05%3A00%3A00Z+TO-12-15T06%3A00%3A00Z%5D&f%5B6%5D=dm_field_release_date%3A%5B2002-08-01T00%3A00%3A00Z+TO-09-01T00%3A00%3A00Z%5D&order=label&page=3&sort=asc)  
+   Link: <a href="https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=&amp;ds_field_pub_date%5Bmin%5D=&amp;ds_field_pub_date_op=%3D&amp;f%5B0%5D=dm_field_release_date%3A%5B2002-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B1%5D=im_field_collection%3A1834881&amp;f%5B2%5D=ds_created%3A%5B2016-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B3%5D=ds_created%3A%5B2016-12-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B4%5D=ds_created%3A%5B2016-12-15T00%3A00%3A00Z+TO-12-16T00%3A00%3A00Z%5D&amp;f%5B5%5D=ds_created%3A%5B2016-12-15T05%3A00%3A00Z+TO-12-15T06%3A00%3A00Z%5D&amp;f%5B6%5D=dm_field_release_date%3A%5B2002-08-01T00%3A00%3A00Z+TO-09-01T00%3A00%3A00Z%5D&amp;order=label&amp;page=3&amp;sort=asc" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/advanced-search-view?ds_field_pub_date%5Bmax%5D=&amp;ds_field_pub_date%5Bmin%5D=&amp;ds_field_pub_date_op=%3D&amp;f%5B0%5D=dm_field_release_date%3A%5B2002-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B1%5D=im_field_collection%3A1834881&amp;f%5B2%5D=ds_created%3A%5B2016-01-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B3%5D=ds_created%3A%5B2016-12-01T00%3A00%3A00Z+TO-01-01T00%3A00%3A00Z%5D&amp;f%5B4%5D=ds_created%3A%5B2016-12-15T00%3A00%3A00Z+TO-12-16T00%3A00%3A00Z%5D&amp;f%5B5%5D=ds_created%3A%5B2016-12-15T05%3A00%3A00Z+TO-12-15T06%3A00%3A00Z%5D&amp;f%5B6%5D=dm_field_release_date%3A%5B2002-08-01T00%3A00%3A00Z+TO-09-01T00%3A00%3A00Z%5D&amp;order=label&amp;page=3&amp;sort=asc</a>  
 
 21. <a id="endnote-21"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/2002-07-16.pdf](https://www.cia.gov/readingroom/docs/2002-07-16.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/2002-07-16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/2002-07-16.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: cia.gov  
    Title: Want to sneak a peek inside the CIA?  
-   Link: [https://www.cia.gov/spy-kids/stories/](https://www.cia.gov/spy-kids/stories/)  
+   Link: <a href="https://www.cia.gov/spy-kids/stories/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/spy-kids/stories/</a>  
 
 23. <a id="endnote-23"></a>
    Source: cia.gov  
    Title: DOC 0000190094  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0000190094.pdf](https://www.cia.gov/readingroom/docs/DOC_0000190094.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000190094.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000190094.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR4 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/d/dc/Project_Blue_Book%2C_BBA-PBSR4-300.pdf](https://upload.wikimedia.org/wikipedia/commons/d/dc/Project_Blue_Book%2C_BBA-PBSR4-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/d/dc/Project_Blue_Book%2C_BBA-PBSR4-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/d/dc/Project_Blue_Book%2C_BBA-PBSR4-300.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: upload.wikimedia.org  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/7/77/Federal_Register_1977-05-23-_Vol_42_Iss_99_%28IA_sim_federal-register-find_1977-05-23_42_99%29.pdf](https://upload.wikimedia.org/wikipedia/commons/7/77/Federal_Register_1977-05-23-_Vol_42_Iss_99_%28IA_sim_federal-register-find_1977-05-23_42_99%29.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/7/77/Federal_Register_1977-05-23-_Vol_42_Iss_99_%28IA_sim_federal-register-find_1977-05-23_42_99%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/7/77/Federal_Register_1977-05-23-_Vol_42_Iss_99_%28IA_sim_federal-register-find_1977-05-23_42_99%29.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: katv.com  
-   Link: [https://katv.com/news/local/arkansas-nuclear-one-recognized-50-years-of-operation-in-december-katv-news-contributions-moment-milestone-electricity-community-power-facility](https://katv.com/news/local/arkansas-nuclear-one-recognized-50-years-of-operation-in-december-katv-news-contributions-moment-milestone-electricity-community-power-facility)  
+   Link: <a href="https://katv.com/news/local/arkansas-nuclear-one-recognized-50-years-of-operation-in-december-katv-news-contributions-moment-milestone-electricity-community-power-facility" target="_blank" rel="noopener noreferrer nofollow">https://katv.com/news/local/arkansas-nuclear-one-recognized-50-years-of-operation-in-december-katv-news-contributions-moment-milestone-electricity-community-power-facility</a>  
 
 27. <a id="endnote-27"></a>
    Source: time.com  
    Title: science the ufo clans gather  
-   Link: [https://time.com/archive/6847378/science-the-ufo-clans-gather/](https://time.com/archive/6847378/science-the-ufo-clans-gather/)  
+   Link: <a href="https://time.com/archive/6847378/science-the-ufo-clans-gather/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6847378/science-the-ufo-clans-gather/</a>  
 
 28. <a id="endnote-28"></a>
    Source: encyclopediaofarkansas.net  
    Title: Encyclopedia of Arkansas UFO Sightings  
-   Link: [https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/](https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/)  
+   Link: <a href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/</a>  
 
 29. <a id="endnote-29"></a>
    Source: encyclopediaofarkansas.net  
    Title: Encyclopedia of Arkansas UFO Sightings  
-   Link: [https://encyclopediaofarkansas.net/media/ufo-article-12371/](https://encyclopediaofarkansas.net/media/ufo-article-12371/)  
+   Link: <a href="https://encyclopediaofarkansas.net/media/ufo-article-12371/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofarkansas.net/media/ufo-article-12371/</a>  
 
 30. <a id="endnote-30"></a>
    Source: aymag.com  
    Title: AY Magazine Arkansas Backstories: Rainmaker  
-   Link: [https://aymag.com/arkansas-backstories-rainmaker/](https://aymag.com/arkansas-backstories-rainmaker/)  
+   Link: <a href="https://aymag.com/arkansas-backstories-rainmaker/" target="_blank" rel="noopener noreferrer nofollow">https://aymag.com/arkansas-backstories-rainmaker/</a>  
 
 31. <a id="endnote-31"></a>
    Source: ufoforum.co.uk  
-   Link: [https://ufoforum.co.uk/index.php/topic%2C35.0.html](https://ufoforum.co.uk/index.php/topic%2C35.0.html)  
+   Link: <a href="https://ufoforum.co.uk/index.php/topic%2C35.0.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoforum.co.uk/index.php/topic%2C35.0.html</a>  
 
 32. <a id="endnote-32"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 33. <a id="endnote-33"></a>
    Source: aymag.com  
    Title: arkansas backstories ufos  
-   Link: [https://aymag.com/arkansas-backstories-ufos/](https://aymag.com/arkansas-backstories-ufos/)  
+   Link: <a href="https://aymag.com/arkansas-backstories-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://aymag.com/arkansas-backstories-ufos/</a>  
 
 34. <a id="endnote-34"></a>
    Source: aymag.com  
    Title: the truth is out there  
-   Link: [https://aymag.com/the-truth-is-out-there/](https://aymag.com/the-truth-is-out-there/)  
+   Link: <a href="https://aymag.com/the-truth-is-out-there/" target="_blank" rel="noopener noreferrer nofollow">https://aymag.com/the-truth-is-out-there/</a>  
 
 35. <a id="endnote-35"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 36. <a id="endnote-36"></a>
    Source: spacecamp.com  
-   Link: [https://www.spacecamp.com/tour/ac/A12Oxcart](https://www.spacecamp.com/tour/ac/A12Oxcart)  
+   Link: <a href="https://www.spacecamp.com/tour/ac/A12Oxcart" target="_blank" rel="noopener noreferrer nofollow">https://www.spacecamp.com/tour/ac/A12Oxcart</a>  
 
 37. <a id="endnote-37"></a>
    Source: scribd.com  
    Title: Project Blue Book  
-   Link: [https://www.scribd.com/document/356049299/FBI-proyecto-libro-azul-UFO-pdf](https://www.scribd.com/document/356049299/FBI-proyecto-libro-azul-UFO-pdf)  
+   Link: <a href="https://www.scribd.com/document/356049299/FBI-proyecto-libro-azul-UFO-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/356049299/FBI-proyecto-libro-azul-UFO-pdf</a>  
 
 38. <a id="endnote-38"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 39. <a id="endnote-39"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=74083](https://nuforc.org/sighting/?id=74083)  
+   Link: <a href="https://nuforc.org/sighting/?id=74083" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=74083</a>  
 
 40. <a id="endnote-40"></a>
    Source: britannica.com  
    Title: Project Blue Book | Definition, History, Aliens, UFOs, & Facts BBC News  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
 41. <a id="endnote-41"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Ac3hYt3k-Eo](https://www.youtube.com/watch?v=Ac3hYt3k-Eo)  
+   Link: <a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ac3hYt3k-Eo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250801-fy25-jan25-mar25.xlsx](https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250801-fy25-jan25-mar25.xlsx)  
+   Link: <a href="https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250801-fy25-jan25-mar25.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250801-fy25-jan25-mar25.xlsx</a>  
 
 43. <a id="endnote-43"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/GPO-CRECB-1961-pt13/pdf/GPO-CRECB-1961-pt13-7-2.pdf](https://www.govinfo.gov/content/pkg/GPO-CRECB-1961-pt13/pdf/GPO-CRECB-1961-pt13-7-2.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/GPO-CRECB-1961-pt13/pdf/GPO-CRECB-1961-pt13-7-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GPO-CRECB-1961-pt13/pdf/GPO-CRECB-1961-pt13-7-2.pdf</a>  
 
 44. <a id="endnote-44"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf](https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf</a>  
 
 45. <a id="endnote-45"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GcOCIabFnLE](https://www.youtube.com/watch?v=GcOCIabFnLE)  
+   Link: <a href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GcOCIabFnLE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: youtube.com  
    Title: CBS Reports: UFO: Friend, Foe or Fantasy (  
-   Link: [https://www.youtube.com/watch?v=0ZAtXM_Dd5E](https://www.youtube.com/watch?v=0ZAtXM_Dd5E)  
+   Link: <a href="https://www.youtube.com/watch?v=0ZAtXM_Dd5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0ZAtXM_Dd5E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Interview USAF (1966)...</p></details>
    Published: May 10, 1966  
 
 47. <a id="endnote-47"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wxzachary/posts/please-dont-destroy-our-radars-they-are-very-important-for-real-time-weather-dat/1299157345116238/](https://www.facebook.com/wxzachary/posts/please-dont-destroy-our-radars-they-are-very-important-for-real-time-weather-dat/1299157345116238/)  
+   Link: <a href="https://www.facebook.com/wxzachary/posts/please-dont-destroy-our-radars-they-are-very-important-for-real-time-weather-dat/1299157345116238/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wxzachary/posts/please-dont-destroy-our-radars-they-are-very-important-for-real-time-weather-dat/1299157345116238/</a>  
 
 48. <a id="endnote-48"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/USAFCENT/posts/air-superiority-the-kc-135-stratotanker-can-air-refuel-anytime-day-or-nightus-ce/877657321075413/](https://www.facebook.com/USAFCENT/posts/air-superiority-the-kc-135-stratotanker-can-air-refuel-anytime-day-or-nightus-ce/877657321075413/)  
+   Link: <a href="https://www.facebook.com/USAFCENT/posts/air-superiority-the-kc-135-stratotanker-can-air-refuel-anytime-day-or-nightus-ce/877657321075413/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USAFCENT/posts/air-superiority-the-kc-135-stratotanker-can-air-refuel-anytime-day-or-nightus-ce/877657321075413/</a>  
 
 49. <a id="endnote-49"></a>
    Source: newengland.com  
-   Link: [https://newengland.com/yankee/history/ufo-sightings-alien-sightings/](https://newengland.com/yankee/history/ufo-sightings-alien-sightings/)  
+   Link: <a href="https://newengland.com/yankee/history/ufo-sightings-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://newengland.com/yankee/history/ufo-sightings-alien-sightings/</a>  
 
 50. <a id="endnote-50"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Central.Intelligence.Agency/posts/on-20-november-1965-cia-completed-flight-testing-of-the-a-12-oxcart-one-of-the-w/1248827733939341/](https://www.facebook.com/Central.Intelligence.Agency/posts/on-20-november-1965-cia-completed-flight-testing-of-the-a-12-oxcart-one-of-the-w/1248827733939341/)  
+   Link: <a href="https://www.facebook.com/Central.Intelligence.Agency/posts/on-20-november-1965-cia-completed-flight-testing-of-the-a-12-oxcart-one-of-the-w/1248827733939341/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Central.Intelligence.Agency/posts/on-20-november-1965-cia-completed-flight-testing-of-the-a-12-oxcart-one-of-the-w/1248827733939341/</a>

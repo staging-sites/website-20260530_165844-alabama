@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /1994-lake-michigan/
 nav_short_title: Witnesses & Media
 title: What Eyewitnesses and News Reports Revealed in 1994
-title_full: What Eyewitnesses and News Reports Revealed in 1994 | 1994 Lake Michigan
+title_full: What Eyewitnesses and News Reports Revealed in 1994
 display_title_short: Witnesses & Media
 display_title: Witnesses & Media
 heading_title: What Eyewitnesses and News Reports Revealed in 1994
@@ -198,7 +198,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:39:11'
-parent_title: The Unsolved 1994 UFO Lights Over Lake Michigan | Michigan UFOs
+parent_title: The Unsolved 1994 UFO Lights Over Lake Michigan
 parent_permalink: /1994-lake-michigan/
 parent_nav_short_title: 1994 Lake Michigan
 parent_heading_title: The Unsolved 1994 UFO Lights Over Lake Michigan
@@ -248,51 +248,45 @@ image: /assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_witness_media_
 
 ## Introduction
 
-On the evening of **8 March 1994**, a striking series of aerial reports from towns along the lakeshore of western [Michigan]({{ 'michigans-most-notable-ufo-sightings-and/' | relative_url }}) — especially **Holland, Grand Haven and Muskegon** — generated an unprecedented wave of **eyewitness testimony and rapid media coverage**. Over the course of that night and the following weeks, **hundreds of residents contacted authorities with near‑simultaneous descriptions of unusual lights**, prompting police responses, 911 dispatch tapes, news stories and later retrospective interviews. While the event remains **unexplained**, the available firsthand accounts and contemporary journalism offer rich detail about how local observation and press reporting shaped public understanding of the incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1994 Michigan UFO event</span><span class="citation-popover-snippet">1994 Michigan UFO event</span></span></span>
+On the evening of **8 March 1994**, a striking series of aerial reports from towns along the lakeshore of western Michigan — especially **Holland, Grand Haven and Muskegon** — generated an unprecedented wave of **eyewitness testimony and rapid media coverage**. Over the course of that night and the following weeks, **hundreds of residents contacted authorities with near‑simultaneous descriptions of unusual lights**, prompting police responses, 911 dispatch tapes, news stories and later retrospective interviews. While the event remains **unexplained**, the available firsthand accounts and contemporary journalism offer rich detail about how local observation and press reporting shaped public understanding of the incident.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1994 Michigan UFO event</span><span class="citation-popover-snippet">1994 Michigan UFO event</span></span></span>
 
-
-<img src="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_witness_media_1994_d146ec-Illustration-1-light.svg" | relative_url }}" alt="Witnesses &amp; Media illustration 1" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_witness_media_1994_d146ec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_witness_media_1994_d146ec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_witness_media_1994_d146ec-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses &amp; Media illustration 1" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_witness_media_1994_d146ec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_witness_media_1994_d146ec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Witness Accounts from Holland, Grand Haven and Muskegon
 
 From just after **9:30 p.m. on 8 March 1994**, emergency services in Ottawa and Muskegon counties began receiving **multiple calls from civilians reporting strange lights in the night sky**, often described as colourful, flickering and moving in ways unlike commercial aircraft. Some callers compared the display to a string of **“Christmas lights”** suspended over the lake, referencing **red, green, blue and white lights** observed against the clear night backdrop.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1994 Michigan UFO event</span><span class="citation-popover-snippet">1994 Michigan UFO event</span></span></span>
 
-A few individual witnesses later spoke publicly about their experiences. **Cindy Pravda**, a Grand Haven resident interviewed decades later, recalled seeing **four lights resembling “full moons”** behind trees near her property, watching them for around half an hour as one moved left across the sky and back again before disappearing. Other families near Holland, including Daryl and Holly Graves with their son, described seeing **six red and white lights** moving overhead, with their son saying he watched them from a sofa by a window.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bustle.com/entertainment/1994-michigan-ufo-sightings-unsolved-mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bustle.com">[Bustle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bustle.com</span><span class="citation-popover-title">1994 michigan ufo sightings unsolved mysteries</span><span class="citation-popover-snippet">BustleThe 1994 Michigan UFO Sightings From &#x27;Unsolved Mysteries&#x27;: What To KnowOctober 19, 2022...</span><span class="citation-popover-meta">Published: October 19, 2022</span></span></span>
+A few individual witnesses later spoke publicly about their experiences. **Cindy Pravda**, a Grand Haven resident interviewed decades later, recalled seeing **four lights resembling “full moons”** behind trees near her property, watching them for around half an hour as one moved left across the sky and back again before disappearing. Other families near Holland, including Daryl and Holly Graves with their son, described seeing **six red and white lights** moving overhead, with their son saying he watched them from a sofa by a window.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bustle.com/entertainment/1994-michigan-ufo-sightings-unsolved-mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bustle.com">[Bustle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bustle.com</span><span class="citation-popover-title">1994 michigan ufo sightings unsolved mysteries</span><span class="citation-popover-snippet">The 1994 Michigan UFO Sightings From &#x27;Unsolved Mysteries&#x27;: What To KnowOctober 19, 2022...</span><span class="citation-popover-meta">Published: October 19, 2022</span></span></span>
 
-Eyewitness reports were not limited to unaffiliated civilians. Local **police officers were dispatched** in response to the calls, and at least one officer — often identified in later accounts as **Jeff Velthouse** — reported observing the lights himself while attending a residence where witnesses had gathered. Such official responses helped confirm for local media that this was not an isolated or trivial curiosity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spookyvalley.com/events/1994-michigan-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spookyvalley.com">[Spooky Valley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spookyvalley.com</span><span class="citation-popover-title">Spooky Valley Michigan UFO Wave | Spooky Valley</span><span class="citation-popover-snippet">Spooky ValleyMichigan UFO Wave | Spooky ValleyMarch 8, 1994...</span><span class="citation-popover-meta">Published: March 8, 1994</span></span></span>
+Eyewitness reports were not limited to unaffiliated civilians. Local **police officers were dispatched** in response to the calls, and at least one officer — often identified in later accounts as **Jeff Velthouse** — reported observing the lights himself while attending a residence where witnesses had gathered. Such official responses helped confirm for local media that this was not an isolated or trivial curiosity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://spookyvalley.com/events/1994-michigan-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spookyvalley.com">[Spooky Valley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spookyvalley.com</span><span class="citation-popover-title">Spooky Valley Michigan UFO Wave &#124; Spooky Valley</span><span class="citation-popover-snippet">Spooky ValleyMichigan UFO Wave &#124; Spooky ValleyMarch 8, 1994...</span><span class="citation-popover-meta">Published: March 8, 1994</span></span></span>
 
 Collectively, contemporary estimates suggest **more than 300 people reported sightings across at least 42 Michigan counties** in the days following the incident, spanning Muskegon, Ottawa, Berrien and Allegan counties. These reports extended beyond a single moment or location, with the intensity of observations concentrated along the **Lake Michigan shoreline**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1994 Michigan UFO event</span><span class="citation-popover-snippet">1994 Michigan UFO event</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/teOV_IkKfTA" title="Over 300 People Report UFOs Over Lake Michigan | 1994 Michigan UFO Event" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=teOV_IkKfTA" target="_blank" rel="noopener noreferrer">Over 300 People Report UFOs Over Lake Michigan | 1994 Michigan UFO Event</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 23.0K &middot; Uploaded: March 2023 &middot; Length: 1 hour 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=teOV_IkKfTA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=teOV_IkKfTA">Open on YouTube</a></p></div></div></div>
 
 ## Role of 911 Calls and Investigative Journalism
 
-A defining element of the 1994 event was how **eyewitness reports entered the public record**. Rather than remaining private anecdotes, **911 dispatch calls were recorded and later obtained by journalists**, providing contemporaneous audio evidence of callers’ surprise, confusion and sincerity. Researchers and media outlets have since referenced these tapes as among the most compelling pieces of documentation from the night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-title">Remembering West Michigan&#x27;s most famous UFO sighting, 30 years later</span><span class="citation-popover-snippet">WWMTRemembering West Michigan&#x27;s most famous UFO sighting, 30 years later...</span></span></span>
+A defining element of the 1994 event was how **eyewitness reports entered the public record**. Rather than remaining private anecdotes, **911 dispatch calls were recorded and later obtained by journalists**, providing contemporaneous audio evidence of callers’ surprise, confusion and sincerity. Researchers and media outlets have since referenced these tapes as among the most compelling pieces of documentation from the night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-title">Remembering West Michigan&#x27;s most famous UFO sighting, 30 years later</span><span class="citation-popover-snippet">Remembering West Michigan&#x27;s most famous UFO sighting, 30 years later...</span></span></span>
 
-One notable media figure was **Mike Walsh**, an investigative reporter at the *Muskegon Chronicle*, who filed a Freedom of Information request for the dispatch tapes. His coverage, which included direct quotes from callers insisting “they’re out there, they ain’t aeroplanes”, helped the story reach **regional and national audiences** rather than being confined to local gossip. This journalistic work broadened the public footprint of the sighting at a time before internet forums and social media shaped mass reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bustle.com/entertainment/1994-michigan-ufo-sightings-unsolved-mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bustle.com">[Bustle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bustle.com</span><span class="citation-popover-title">1994 michigan ufo sightings unsolved mysteries</span><span class="citation-popover-snippet">BustleThe 1994 Michigan UFO Sightings From &#x27;Unsolved Mysteries&#x27;: What To KnowOctober 19, 2022...</span><span class="citation-popover-meta">Published: October 19, 2022</span></span></span>
+One notable media figure was **Mike Walsh**, an investigative reporter at the *Muskegon Chronicle*, who filed a Freedom of Information request for the dispatch tapes. His coverage, which included direct quotes from callers insisting “they’re out there, they ain’t aeroplanes”, helped the story reach **regional and national audiences** rather than being confined to local gossip. This journalistic work broadened the public footprint of the sighting at a time before internet forums and social media shaped mass reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bustle.com/entertainment/1994-michigan-ufo-sightings-unsolved-mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bustle.com">[Bustle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bustle.com</span><span class="citation-popover-title">1994 michigan ufo sightings unsolved mysteries</span><span class="citation-popover-snippet">The 1994 Michigan UFO Sightings From &#x27;Unsolved Mysteries&#x27;: What To KnowOctober 19, 2022...</span><span class="citation-popover-meta">Published: October 19, 2022</span></span></span>
 
 The immediate press reaction varied across outlets. Some newspapers relayed eyewitness descriptions with little editorial comment, while others included **expert voices or sceptical frames**, comparing sightings to known aerial phenomena or psychological contagion models. In some areas with strong religious communities, at least one report noted local residents interpreting the lights symbolically rather than literally as unknown craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1994 Michigan UFO event</span><span class="citation-popover-snippet">1994 Michigan UFO event</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FF5AaMWyuA8" title="Remembering West Michigan&#x27;s Most Famous UFO Sighting - Part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FF5AaMWyuA8" target="_blank" rel="noopener noreferrer">Remembering West Michigan&#x27;s Most Famous UFO Sighting - Part 2</a></p><p class="youtube-embed-meta">Channel: WWMT-TV &middot; Views: 1.9K &middot; Uploaded: March 2024 &middot; Length: 3 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FF5AaMWyuA8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FF5AaMWyuA8">Open on YouTube</a></p></div></div></div>
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7dgTCHo7gK0" title="Lights Over West Michigan | 1994 UFO Sighting Special" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7dgTCHo7gK0" target="_blank" rel="noopener noreferrer">Lights Over West Michigan | 1994 UFO Sighting Special</a></p><p class="youtube-embed-meta">Channel: 13 ON YOUR SIDE &middot; Views: 163.6K &middot; Uploaded: August 2023 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7dgTCHo7gK0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7dgTCHo7gK0">Open on YouTube</a></p></div></div></div>
+<img src="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_witness_media_1994_d146ec-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses &amp; Media illustration 3" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_witness_media_1994_d146ec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_witness_media_1994_d146ec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-
-<img src="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_witness_media_1994_d146ec-Illustration-3-light.svg" | relative_url }}" alt="Witnesses &amp; Media illustration 3" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_witness_media_1994_d146ec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_witness_media_1994_d146ec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<img src="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_witness_media_1994_d146ec-Illustration-2-light.svg" | relative_url }}" alt="Witnesses &amp; Media illustration 2" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_witness_media_1994_d146ec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_witness_media_1994_d146ec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_witness_media_1994_d146ec-Illustration-2-dark.svg" | relative_url }}" alt="Witnesses &amp; Media illustration 2" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_witness_media_1994_d146ec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49_witness_media_1994_d146ec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Variations in Testimony and How Media Amplified the Narrative
 
 Although many eyewitnesses described **lights moving erratically in the sky**, there was **no universally consistent account** regarding number, formation or behaviour. Some witnesses spoke of stationary clusters; others described rapid motion or objects appearing and disappearing. The variations in testimony may reflect differing vantage points, human perception limits at night, and the spreading attention of observers once initial reports were made.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1994 Michigan UFO event</span><span class="citation-popover-snippet">1994 Michigan UFO event</span></span></span>
 
-Media coverage played a key role in **amplifying the narrative and sustaining interest** beyond the initial reports. The *Chicago Tribune* and *Detroit Free Press* both followed up on community reactions, citing numbers of witness reports and covering both enthusiastic and sceptical interpretations. Later retrospective pieces — including on television documentaries such as **Netflix’s *Unsolved Mysteries*** — returned to several individual eyewitnesses and extended interviews with key figures such as National Weather Service staff.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bustle.com/entertainment/1994-michigan-ufo-sightings-unsolved-mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bustle.com">[Bustle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bustle.com</span><span class="citation-popover-title">1994 michigan ufo sightings unsolved mysteries</span><span class="citation-popover-snippet">BustleThe 1994 Michigan UFO Sightings From &#x27;Unsolved Mysteries&#x27;: What To KnowOctober 19, 2022...</span><span class="citation-popover-meta">Published: October 19, 2022</span></span></span>
+Media coverage played a key role in **amplifying the narrative and sustaining interest** beyond the initial reports. The *Chicago Tribune* and *Detroit Free Press* both followed up on community reactions, citing numbers of witness reports and covering both enthusiastic and sceptical interpretations. Later retrospective pieces — including on television documentaries such as **Netflix’s *Unsolved Mysteries*** — returned to several individual eyewitnesses and extended interviews with key figures such as National Weather Service staff.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bustle.com/entertainment/1994-michigan-ufo-sightings-unsolved-mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bustle.com">[Bustle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bustle.com</span><span class="citation-popover-title">1994 michigan ufo sightings unsolved mysteries</span><span class="citation-popover-snippet">The 1994 Michigan UFO Sightings From &#x27;Unsolved Mysteries&#x27;: What To KnowOctober 19, 2022...</span><span class="citation-popover-meta">Published: October 19, 2022</span></span></span>
 
-This sustained media engagement helped shape how many subsequent readers and viewers understood the event: not just as a one‑off local sighting, but as a **regional phenomenon with extensive human testimony**. For many witnesses, the combination of immediate reporting and later media retrospectives validated their experiences, even as professional explanations remained elusive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bustle.com/entertainment/1994-michigan-ufo-sightings-unsolved-mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bustle.com">[Bustle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bustle.com</span><span class="citation-popover-title">1994 michigan ufo sightings unsolved mysteries</span><span class="citation-popover-snippet">BustleThe 1994 Michigan UFO Sightings From &#x27;Unsolved Mysteries&#x27;: What To KnowOctober 19, 2022...</span><span class="citation-popover-meta">Published: October 19, 2022</span></span></span>
+This sustained media engagement helped shape how many subsequent readers and viewers understood the event: not just as a one‑off local sighting, but as a **regional phenomenon with extensive human testimony**. For many witnesses, the combination of immediate reporting and later media retrospectives validated their experiences, even as professional explanations remained elusive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bustle.com/entertainment/1994-michigan-ufo-sightings-unsolved-mysteries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bustle.com">[Bustle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bustle.com</span><span class="citation-popover-title">1994 michigan ufo sightings unsolved mysteries</span><span class="citation-popover-snippet">The 1994 Michigan UFO Sightings From &#x27;Unsolved Mysteries&#x27;: What To KnowOctober 19, 2022...</span><span class="citation-popover-meta">Published: October 19, 2022</span></span></span>
 
 This sub‑topic focuses on how firsthand witness accounts and media reporting combined to create a widely disseminated narrative of the March 1994 sightings in West Michigan. The strength of the testimony lay not only in the number of observers but also in the contemporaneous recording and reporting, which ensured the event entered public consciousness and continues to be revisited in regional UFO history.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QMQArS-s90I" title="UFO report ‘vindication’ for man who tracked 1994 sightings on radar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QMQArS-s90I" target="_blank" rel="noopener noreferrer">UFO report ‘vindication’ for man who tracked 1994 sightings on radar</a></p><p class="youtube-embed-meta">Channel: WOOD TV8 &middot; Views: 1.2M &middot; Uploaded: July 2021 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QMQArS-s90I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QMQArS-s90I">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -380,7 +374,7 @@ This sub‑topic focuses on how firsthand witness accounts and media reporting c
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -390,111 +384,36 @@ This sub‑topic focuses on how firsthand witness accounts and media reporting c
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,15 +421,15 @@ This sub‑topic focuses on how firsthand witness accounts and media reporting c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +437,15 @@ This sub‑topic focuses on how firsthand witness accounts and media reporting c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +453,15 @@ This sub‑topic focuses on how firsthand witness accounts and media reporting c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,7 +469,7 @@ This sub‑topic focuses on how firsthand witness accounts and media reporting c
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-media-what-eyewitnesses-and-news-reports-revealed-in-1994-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-eyewitnesses-and-news-reports-revealed-in-1994-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -627,17 +546,31 @@ This sub‑topic focuses on how firsthand witness accounts and media reporting c
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -650,42 +583,73 @@ This sub‑topic focuses on how firsthand witness accounts and media reporting c
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -700,12 +664,17 @@ This sub‑topic focuses on how firsthand witness accounts and media reporting c
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -716,60 +685,60 @@ This sub‑topic focuses on how firsthand witness accounts and media reporting c
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: 1994 Michigan UFO event  
-   Link: [https://en.wikipedia.org/wiki/1994_Michigan_UFO_event](https://en.wikipedia.org/wiki/1994_Michigan_UFO_event)  
+   Link: <a href="https://en.wikipedia.org/wiki/1994_Michigan_UFO_event" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1994_Michigan_UFO_event</a>  
 
 2. <a id="endnote-2"></a>
    Source: wwmt.com  
    Title: Remembering West Michigan's most famous UFO sighting, 30 years later  
-   Link: [https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon](https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WWMTRemembering West Michigan&#x27;s most famous UFO sighting, 30 years later...</p></details>
+   Link: <a href="https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Remembering West Michigan&#x27;s most famous UFO sighting, 30 years later...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: bustle.com  
    Title: 1994 michigan ufo sightings unsolved mysteries  
-   Link: [https://www.bustle.com/entertainment/1994-michigan-ufo-sightings-unsolved-mysteries](https://www.bustle.com/entertainment/1994-michigan-ufo-sightings-unsolved-mysteries)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BustleThe 1994 Michigan UFO Sightings From &#x27;Unsolved Mysteries&#x27;: What To KnowOctober 19, 2022...</p></details>
+   Link: <a href="https://www.bustle.com/entertainment/1994-michigan-ufo-sightings-unsolved-mysteries" target="_blank" rel="noopener noreferrer nofollow">https://www.bustle.com/entertainment/1994-michigan-ufo-sightings-unsolved-mysteries</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1994 Michigan UFO Sightings From &#x27;Unsolved Mysteries&#x27;: What To KnowOctober 19, 2022...</p></details>
    Published: October 19, 2022  
 
 4. <a id="endnote-4"></a>
    Source: michigan.gov  
-   Link: [https://www.michigan.gov/libraryofmichigan/public/michigan/county-guides/guides/muskegon](https://www.michigan.gov/libraryofmichigan/public/michigan/county-guides/guides/muskegon)  
+   Link: <a href="https://www.michigan.gov/libraryofmichigan/public/michigan/county-guides/guides/muskegon" target="_blank" rel="noopener noreferrer nofollow">https://www.michigan.gov/libraryofmichigan/public/michigan/county-guides/guides/muskegon</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 25, 2023 — Muskegon MUSKEGON The original meaning of the word &quot;Muskegon&quot; comes from the Native American word meaning &quot;marshy river&quot;...</p></details>
    Published: January 25, 2023  
 
 5. <a id="endnote-5"></a>
    Source: michigan.gov  
-   Link: [https://www.michigan.gov/libraryofmichigan/public/newspapers/holdings/muskegon](https://www.michigan.gov/libraryofmichigan/public/newspapers/holdings/muskegon)  
+   Link: <a href="https://www.michigan.gov/libraryofmichigan/public/newspapers/holdings/muskegon" target="_blank" rel="noopener noreferrer nofollow">https://www.michigan.gov/libraryofmichigan/public/newspapers/holdings/muskegon</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 29, 2015 — Muskegon MUSKEGON MUSKEGON COUNTY MONTAGUE MONTAGUE OBSERVER * 1946-1973 THE OBSERVER AND SHOPPING NEWS * 1973 WHITE LAKE...</p></details>
    Published: July 29, 2015  
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=teOV_IkKfTA](https://www.youtube.com/watch?v=teOV_IkKfTA)  
+   Link: <a href="https://www.youtube.com/watch?v=teOV_IkKfTA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=teOV_IkKfTA</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=QMQArS-s90I](https://www.youtube.com/watch?v=QMQArS-s90I)  
+   Link: <a href="https://www.youtube.com/watch?v=QMQArS-s90I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QMQArS-s90I</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: spookyvalley.com  
    Title: Spooky Valley Michigan UFO Wave | Spooky Valley  
-   Link: [https://spookyvalley.com/events/1994-michigan-lights](https://spookyvalley.com/events/1994-michigan-lights)  
+   Link: <a href="https://spookyvalley.com/events/1994-michigan-lights" target="_blank" rel="noopener noreferrer nofollow">https://spookyvalley.com/events/1994-michigan-lights</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spooky ValleyMichigan UFO Wave | Spooky ValleyMarch 8, 1994...</p></details>
    Published: March 8, 1994  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=182951](https://nuforc.org/sighting/?id=182951)  
+   Link: <a href="https://nuforc.org/sighting/?id=182951" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=182951</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 182951September 7, 2024 — NUFORC UFO SIGHTING 182951 Occurred: 1994-03-08 21:30 Local Reported: 2024-09-07 08:49 Paci...</p></details>
    Published: September 7, 2024  
 
 10. <a id="endnote-10"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Lake Michigan UFO  
-   Link: [https://unsolvedmysteries.fandom.com/wiki/Lake_Michigan_UFO](https://unsolvedmysteries.fandom.com/wiki/Lake_Michigan_UFO)  
+   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Lake_Michigan_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Lake_Michigan_UFO</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Michigan UFO | Unsolved Mysteries Wiki | FandomLAKE MICHIGAN UFO Sign In to Save Save Edit * Edit source * History * Purge * Talk (0) ifr...</p></details>
 
 ### Additional References
@@ -777,48 +746,48 @@ This sub‑topic focuses on how firsthand witness accounts and media reporting c
 11. <a id="endnote-11"></a>
    Source: thedebrief.org  
    Title: what was really seen during the 1994 lakeshore michigan ufo sighting  
-   Link: [https://thedebrief.org/what-was-really-seen-during-the-1994-lakeshore-michigan-ufo-sighting/](https://thedebrief.org/what-was-really-seen-during-the-1994-lakeshore-michigan-ufo-sighting/)  
+   Link: <a href="https://thedebrief.org/what-was-really-seen-during-the-1994-lakeshore-michigan-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/what-was-really-seen-during-the-1994-lakeshore-michigan-ufo-sighting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefJanuary 3, 2022 — * * * * * * # What Was Really Seen During the 1994 Lakeshore, Michigan UFO Sighting? Jazz Shaw·January 3, 20...</p></details>
    Published: January 3, 2022  
 
 12. <a id="endnote-12"></a>
    Source: exonews.org  
    Title: meteorologists account of 1994 michigan ufo sightings with audio  
-   Link: [https://exonews.org/meteorologists-account-of-1994-michigan-ufo-sightings-with-audio/](https://exonews.org/meteorologists-account-of-1994-michigan-ufo-sightings-with-audio/)  
+   Link: <a href="https://exonews.org/meteorologists-account-of-1994-michigan-ufo-sightings-with-audio/" target="_blank" rel="noopener noreferrer nofollow">https://exonews.org/meteorologists-account-of-1994-michigan-ufo-sightings-with-audio/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorologist&#x27;s Account of 1994 Michigan UFO Sightings (with Audio)September 12, 2020 — METEOROLOGIST’S ACCOUNT OF 1994 MICHIGAN UFO SIGH...</p></details>
    Published: September 12, 2020  
 
 13. <a id="endnote-13"></a>
    Source: muckrack.com  
    Title: It started publication in the early-to-mid-19th century. In May  
-   Link: [https://muckrack.com/media-outlet/muskegon](https://muckrack.com/media-outlet/muskegon)  
+   Link: <a href="https://muckrack.com/media-outlet/muskegon" target="_blank" rel="noopener noreferrer nofollow">https://muckrack.com/media-outlet/muskegon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Muskegon Chronicle: Contact Information, Journalists, and Overview | Muck RackMUSKEGON CHRONICLE Verified Newspaper The Muskegon Chronicl...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: kdramastars.com  
    Title: southwest michigan ufo sighting still mystery strange lights  
-   Link: [https://www.kdramastars.com/articles/32776/20140811/southwest-michigan-ufo-sighting-still-mystery-strange-lights.htm](https://www.kdramastars.com/articles/32776/20140811/southwest-michigan-ufo-sighting-still-mystery-strange-lights.htm)  
+   Link: <a href="https://www.kdramastars.com/articles/32776/20140811/southwest-michigan-ufo-sighting-still-mystery-strange-lights.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.kdramastars.com/articles/32776/20140811/southwest-michigan-ufo-sighting-still-mystery-strange-lights.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The View Of Those Strange Lights In The Sky In 1994 Perplex Eyewitnesses To This Day!August 11, 2014 — SOUTHWEST MICHIGAN UFO SIGHTING ST...</p></details>
    Published: August 11, 2014  
 
 15. <a id="endnote-15"></a>
    Source: screenrant.com  
    Title: unsolved mysteries jack bushong silent lake michigan ufos  
-   Link: [https://screenrant.com/unsolved-mysteries-jack-bushong-silent-lake-michigan-ufos/](https://screenrant.com/unsolved-mysteries-jack-bushong-silent-lake-michigan-ufos/)  
+   Link: <a href="https://screenrant.com/unsolved-mysteries-jack-bushong-silent-lake-michigan-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://screenrant.com/unsolved-mysteries-jack-bushong-silent-lake-michigan-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Jack Bushong Stayed Silent About 1994&#x27;s Lake Michigan UFO SightingsOctober 18, 2022 — WHY JACK BUSHONG STAYED SILENT ABOUT 1994&#x27;S LAK...</p></details>
    Published: October 18, 2022  
 
 16. <a id="endnote-16"></a>
    Source: nu-detroit.com  
    Title: Newsroom employment is down from 71,000 to 31  
-   Link: [https://www.nu-detroit.com/the-muskegon-chronicles/](https://www.nu-detroit.com/the-muskegon-chronicles/)  
+   Link: <a href="https://www.nu-detroit.com/the-muskegon-chronicles/" target="_blank" rel="noopener noreferrer nofollow">https://www.nu-detroit.com/the-muskegon-chronicles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Muskegon ChroniclesDecember 23, 2022 — THE MUSKEGON CHRONICLES BY ROGER RAPOPORT 23 December 2022 - 4 min read Over the past 15 years...</p></details>
    Published: December 23, 2022  
 
 17. <a id="endnote-17"></a>
    Source: cbsnews.com  
    Title: Bear Sightings Cause Stir In West Michigan  
-   Link: [https://www.cbsnews.com/detroit/news/bear-sightings-cause-stir-in-west-michigan/](https://www.cbsnews.com/detroit/news/bear-sightings-cause-stir-in-west-michigan/)  
+   Link: <a href="https://www.cbsnews.com/detroit/news/bear-sightings-cause-stir-in-west-michigan/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/detroit/news/bear-sightings-cause-stir-in-west-michigan/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS DetroitMay 13, 2013 — BEAR SIGHTINGS CAUSE STIR IN WEST MICHIGAN May 13, 2013 / 1:35 PM EDT / CBS Detroit Add CBS News on Google MUSK...</p></details>
    Published: May 13, 2013  
 
@@ -826,19 +795,19 @@ This sub‑topic focuses on how firsthand witness accounts and media reporting c
    Source: werelate.org  
    Title:   
    Source: Deuster, Kay Cross  
-   Link: [https://www.werelate.org/wiki/Source%3ADeuster%2C_Kay_Cross._Muskegon_County%2C_Michigan_Vital_Statistics_1994](https://www.werelate.org/wiki/Source%3ADeuster%2C_Kay_Cross._Muskegon_County%2C_Michigan_Vital_Statistics_1994)  
+   Link: <a href="https://www.werelate.org/wiki/Source%3ADeuster%2C_Kay_Cross._Muskegon_County%2C_Michigan_Vital_Statistics_1994" target="_blank" rel="noopener noreferrer nofollow">https://www.werelate.org/wiki/Source%3ADeuster%2C_Kay_Cross._Muskegon_County%2C_Michigan_Vital_Statistics_1994</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Muskegon County, Michigan Vital Statistics 1994 - GenealogySOURCE:DEUSTER, KAY CROSS. MUSKEGON COUNTY, MICHIGAN VITAL STATISTICS 1994 VIE...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: the-line-up.com  
    Title: march 8 1994 ufo sighting  
-   Link: [https://the-line-up.com/march-8-1994-ufo-sighting?src=recirc](https://the-line-up.com/march-8-1994-ufo-sighting?src=recirc)  
+   Link: <a href="https://the-line-up.com/march-8-1994-ufo-sighting?src=recirc" target="_blank" rel="noopener noreferrer nofollow">https://the-line-up.com/march-8-1994-ufo-sighting?src=recirc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They’re Out There: Everything We Know About the March 8, 1994 UFO SightingFebruary 27, 2023 — THEY’RE OUT THERE: EVERYTHING WE KNOW ABOUT...</p></details>
    Published: March 8, 1994  
 
 20. <a id="endnote-20"></a>
    Source: scottwintersblog.com  
    Title: march 8 1994 ufo sighting  
-   Link: [https://www.scottwintersblog.com/march-8-1994-ufo-sighting/](https://www.scottwintersblog.com/march-8-1994-ufo-sighting/)  
+   Link: <a href="https://www.scottwintersblog.com/march-8-1994-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.scottwintersblog.com/march-8-1994-ufo-sighting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 8, 1994: The Famous Michigan UFO Sightings Over Holland and Lake Michigan in History: What Happened on This Day | Scott Winters Blo...</p></details>
-   Published: March 8, 1994  
+   Published: March 8, 1994

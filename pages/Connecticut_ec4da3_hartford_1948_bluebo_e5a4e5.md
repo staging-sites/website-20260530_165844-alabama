@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /connecticut-ufos-from-colonial-legends/
 nav_short_title: Hartford 1948 Case
 title: 'Hartford 1948: Military Pilot UFO Encounter'
-title_full: 'Hartford 1948: Military Pilot UFO Encounter | Connecticut UFOs'
+title_full: 'Hartford 1948: Military Pilot UFO Encounter'
 display_title_short: Hartford 1948 Case
 display_title: Hartford 1948 Case
 heading_title: 'Hartford 1948: Military Pilot UFO Encounter'
@@ -268,18 +268,16 @@ image: /assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5-overview-so
 
 ## Introduction
 
-On **11 January 1948**, over **Hartford, [Connecticut]({{ 'connecticut-ufos-from-colonial-legends/' | relative_url }})**, two United States Air Force transport pilots reported an unusual aerial sighting: a fast‑moving, disc‑shaped object described with distinctive colours and motion, recorded in early Air Force UFO documentation. This “Hartford 1948” report stands out within Connecticut’s aerial observation history because it was made by trained military aviators and later entered the official UFO investigation archives that, through various iterations, became known as **Project Blue Book**. While the available summary is brief and inconclusive, the case offers a rare example of an early military‑pilot report within the state’s 20th‑century UFO record and illustrates how such incidents were catalogued and interpreted in the formative years of U.S. Air Force anomalous‑aerial‑phenomena research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.decur.org/data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Research Data</span><span class="citation-popover-snippet">DECURResearch Data - DECURAccording to locals, a UFO crashed on a farm near Aurora, Texas. The pilot was “not of this world” and was said...</span></span></span>
-
+On **11 January 1948**, over **Hartford, Connecticut**, two United States Air Force transport pilots reported an unusual aerial sighting: a fast‑moving, disc‑shaped object described with distinctive colours and motion, recorded in early Air Force UFO documentation. This “Hartford 1948” report stands out within Connecticut’s aerial observation history because it was made by trained military aviators and later entered the official UFO investigation archives that, through various iterations, became known as **Project Blue Book**. While the available summary is brief and inconclusive, the case offers a rare example of an early military‑pilot report within the state’s 20th‑century UFO record and illustrates how such incidents were catalogued and interpreted in the formative years of U.S. Air Force anomalous‑aerial‑phenomena research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.decur.org/data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decur.org">[DECUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decur.org</span><span class="citation-popover-title">Research Data</span><span class="citation-popover-snippet">Research Data - DECURAccording to locals, a UFO crashed on a farm near Aurora, Texas. The pilot was “not of this world” and was said...</span></span></span>
 
 <img src="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5-overview.webp" | relative_url }}" alt="Overview image for Hartford 1948 Case" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Hartford Pilots Reported
 
 According to declassified catalogues of military UFO sightings, at about **16:30 on 11 January 1948**, **USAF Captain Kenneth M. Helton** and his co‑pilot **Captain James J. Pargoe**, flying a transport aircraft near Hartford, observed an **unidentified aerial object**. The sighting account describes the object as a **disc‑shaped aerial phenomenon** with a **bluish centre and reddish outer edges** that moved rapidly through the sky. The pilots reported that the object appeared to travel in a **downward dive at about a 45‑degree angle towards the east** at high speed, with *no visible exhaust trail or propulsion signs*. Their visual contact ended when the object passed beyond sight near the **north side of Mount Tom in western Massachusetts**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Internet ArchiveComprehensive Catalog of 1600 Project Blue Book UFO...October 15, 2009 — 2 Oct 2009 — A number of the re-evaluated cases...</span><span class="citation-popover-meta">Published: October 15, 2009</span></span></span>
 
-This description—particularly the shape and colour details—was typical of many early flying‑disc era reports in the late 1940s, when “disc” or “saucer” language was widely used in both civilian and military sightings following the 1947 wave that began with the Kenneth Arnold report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">unidentified flying object</span><span class="citation-popover-snippet">Encyclopedia BritannicaUnidentified flying object (UFO) | History, Sightings, &amp; FactsJuly 20, 1998 — Some believed that UFOs were evidenc...</span><span class="citation-popover-meta">Published: July 20, 1998</span></span></span>
+This description—particularly the shape and colour details—was typical of many early flying‑disc era reports in the late 1940s, when “disc” or “saucer” language was widely used in both civilian and military sightings following the 1947 wave that began with the Kenneth Arnold report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">unidentified flying object</span><span class="citation-popover-snippet">Encyclopedia BritannicaUnidentified flying object (UFO) &#124; History, Sightings, &amp; FactsJuly 20, 1998 — Some believed that UFOs were evidenc...</span><span class="citation-popover-meta">Published: July 20, 1998</span></span></span>
 
-
-<img src="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5-Illustration-1-light.svg" | relative_url }}" alt="Hartford 1948 Case illustration 1" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5-Illustration-1-dark.svg" | relative_url }}" alt="Hartford 1948 Case illustration 1" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How It Appears in Official Records
 
 While the publicly known Project Blue Book database is most associated with the period **1952–1969**, its roots extend back through the USAF’s **Project Sign** (early 1948) and **Project Grudge** (late 1948–1949) investigations. These programmes were predecessors to Blue Book and were responsible for collecting and evaluating reports from military and civilian sources about unidentified aerial sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90It chronologically examines the Agency&#x27;s efforts to solve the my...</span></span></span>
@@ -287,7 +285,6 @@ While the publicly known Project Blue Book database is most associated with the 
 In case catalogues compiled by UFO researchers and based on declassified Air Force files (such as Brad Sparks’ “Comprehensive Catalog of Project Blue Book UFO Unknowns”), the Hartford incident is indexed as a **1948 sighting** involving trained USAF aircrew and is positioned among other early post‑war pilot reports. That index entry captures the key details of the sighting (date, time, witness description, and object motion), though the underlying original Air Force investigation documents are either sparse or not readily accessible in full through publicly released archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Internet ArchiveComprehensive Catalog of 1600 Project Blue Book UFO...October 15, 2009 — 2 Oct 2009 — A number of the re-evaluated cases...</span><span class="citation-popover-meta">Published: October 15, 2009</span></span></span>
 
 Because the US Air Force’s systematic UFO investigation process did not fully “Blue Book” all early sightings in the way later cases were catalogued, the Hartford report appears primarily in secondary compilations rather than in a complete original case file widely available online. This means researchers today often rely on indexed entries and summary descriptions from archival releases and FOIA (Freedom of Information Act) datasets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Internet ArchiveComprehensive Catalog of 1600 Project Blue Book UFO...October 15, 2009 — 2 Oct 2009 — A number of the re-evaluated cases...</span><span class="citation-popover-meta">Published: October 15, 2009</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dgroqLFDaW0" title="FBI UFO Files Reveal Chilling 1948 Encounters Near Military Bases | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dgroqLFDaW0" target="_blank" rel="noopener noreferrer">FBI UFO Files Reveal Chilling 1948 Encounters Near Military Bases | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 2.3K &middot; Uploaded: May 2026 &middot; Length: 3 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dgroqLFDaW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dgroqLFDaW0">Open on YouTube</a></p></div></div></div>
 
@@ -303,13 +300,11 @@ However, there are **evidential limits**:
 
 Thus, while the Hartford sighting is officially recorded and attributed to trained observers, the available evidence does not allow a strong conclusion about the object’s nature beyond it being **unidentified at the moment of sighting**.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_ZPbk394_iU" title="Project Blue Book: Declassified - The Gorman Dogfight | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_ZPbk394_iU" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified - The Gorman Dogfight | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 28.1K &middot; Uploaded: February 2019 &middot; Length: 2 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_ZPbk394_iU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_ZPbk394_iU">Open on YouTube</a></p></div></div></div>
 
+<img src="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5-Illustration-3-dark.svg" | relative_url }}" alt="Hartford 1948 Case illustration 3" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-<img src="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5-Illustration-3-light.svg" | relative_url }}" alt="Hartford 1948 Case illustration 3" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<img src="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5-Illustration-2-light.svg" | relative_url }}" alt="Hartford 1948 Case illustration 2" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5-Illustration-2-dark.svg" | relative_url }}" alt="Hartford 1948 Case illustration 2" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Case Matters Within Connecticut’s UFO Record
 
 Within the overall UFO history of Connecticut, the **1948 Hartford pilot report** occupies a distinct place as one of the **earliest documented sightings by professional aviators** within the state’s skies. This gives the case historical value: it shows that Connecticut was part of the early post‑WWII pattern of aerial reports that drew the attention of military investigators and helped shape the USAF’s initial UFO research efforts.
@@ -318,9 +313,7 @@ At the same time, the **limited documentation and absence of corroborating data*
 
 In sum, the Hartford 1948 report remains an intriguing part of Connecticut’s aerial sighting archive but is best understood as a **historically notable pilot report with limited evidential depth** in the absence of fuller archival records.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MqMfNUFvO4E" title="The Gorman UFO Incident of 1948 - Forgotten History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MqMfNUFvO4E" target="_blank" rel="noopener noreferrer">The Gorman UFO Incident of 1948 - Forgotten History</a></p><p class="youtube-embed-meta">Channel: FORGOTTEN HISTORY &middot; Views: 82.8K &middot; Uploaded: June 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MqMfNUFvO4E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MqMfNUFvO4E">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -408,7 +401,7 @@ In sum, the Hartford 1948 report remains an intriguing part of Connecticut’s a
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -418,111 +411,36 @@ In sum, the Hartford 1948 report remains an intriguing part of Connecticut’s a
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-military-pilot-ufo-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hartford-1948-military-pilot-ufo-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-military-pilot-ufo-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hartford-1948-military-pilot-ufo-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-military-pilot-ufo-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hartford-1948-military-pilot-ufo-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-military-pilot-ufo-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hartford-1948-military-pilot-ufo-encounter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,15 +448,15 @@ In sum, the Hartford 1948 report remains an intriguing part of Connecticut’s a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-military-pilot-ufo-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hartford-1948-military-pilot-ufo-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-military-pilot-ufo-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hartford-1948-military-pilot-ufo-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-military-pilot-ufo-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hartford-1948-military-pilot-ufo-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-military-pilot-ufo-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hartford-1948-military-pilot-ufo-encounter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -546,15 +464,15 @@ In sum, the Hartford 1948 report remains an intriguing part of Connecticut’s a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-military-pilot-ufo-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hartford-1948-military-pilot-ufo-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-military-pilot-ufo-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hartford-1948-military-pilot-ufo-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-military-pilot-ufo-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hartford-1948-military-pilot-ufo-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-military-pilot-ufo-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hartford-1948-military-pilot-ufo-encounter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -562,15 +480,15 @@ In sum, the Hartford 1948 report remains an intriguing part of Connecticut’s a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-military-pilot-ufo-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hartford-1948-military-pilot-ufo-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-military-pilot-ufo-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hartford-1948-military-pilot-ufo-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-military-pilot-ufo-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hartford-1948-military-pilot-ufo-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-military-pilot-ufo-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hartford-1948-military-pilot-ufo-encounter-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -578,7 +496,7 @@ In sum, the Hartford 1948 report remains an intriguing part of Connecticut’s a
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-case-hartford-1948-military-pilot-ufo-encounter-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hartford-1948-military-pilot-ufo-encounter-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="hartford-1948-military-pilot-ufo-encounter-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -655,17 +573,31 @@ In sum, the Hartford 1948 report remains an intriguing part of Connecticut’s a
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -678,42 +610,73 @@ In sum, the Hartford 1948 report remains an intriguing part of Connecticut’s a
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -728,12 +691,17 @@ In sum, the Hartford 1948 report remains an intriguing part of Connecticut’s a
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -744,58 +712,58 @@ In sum, the Hartford 1948 report remains an intriguing part of Connecticut’s a
 1. <a id="endnote-1"></a>
    Source: decur.org  
    Title: Research Data  
-   Link: [https://www.decur.org/data](https://www.decur.org/data)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DECURResearch Data - DECURAccording to locals, a UFO crashed on a farm near Aurora, Texas. The pilot was “not of this world” and was said...</p></details>
+   Link: <a href="https://www.decur.org/data" target="_blank" rel="noopener noreferrer nofollow">https://www.decur.org/data</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Research Data - DECURAccording to locals, a UFO crashed on a farm near Aurora, Texas. The pilot was “not of this world” and was said...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveComprehensive Catalog of 1600 Project Blue Book UFO...October 15, 2009 — 2 Oct 2009 — A number of the re-evaluated cases...</p></details>
    Published: October 15, 2009  
 
 3. <a id="endnote-3"></a>
    Source: britannica.com  
    Title: unidentified flying object  
-   Link: [https://www.britannica.com/topic/unidentified-flying-object](https://www.britannica.com/topic/unidentified-flying-object)  
+   Link: <a href="https://www.britannica.com/topic/unidentified-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/unidentified-flying-object</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaUnidentified flying object (UFO) | History, Sightings, &amp; FactsJuly 20, 1998 — Some believed that UFOs were evidenc...</p></details>
    Published: July 20, 1998  
 
 4. <a id="endnote-4"></a>
    Source: sgp.fas.org  
-   Link: [https://sgp.fas.org/library/ciaufo.html](https://sgp.fas.org/library/ciaufo.html)  
+   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FAS Project on Government SecrecyCIA&#x27;s Role in the Study of UFOs, 1947-90It chronologically examines the Agency&#x27;s efforts to solve the my...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: history.com  
    Title: u s air force closes the book on ufos 45 years ago  
-   Link: [https://www.history.com/news/u-s-air-force-closes-the-book-on-ufos-45-years-ago](https://www.history.com/news/u-s-air-force-closes-the-book-on-ufos-45-years-ago)  
+   Link: <a href="https://www.history.com/news/u-s-air-force-closes-the-book-on-ufos-45-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/u-s-air-force-closes-the-book-on-ufos-45-years-ago</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the US Air Force Investigated UFOs During the Cold War | HISTORYDecember 17, 2014 — PROJECT BLUE BOOK: SAUCER SIGHTINGS AND MORE Proj...</p></details>
    Published: December 17, 2014  
 
 7. <a id="endnote-7"></a>
    Source: theblackvault.com  
    Title: project blue book  
-   Link: [https://www.theblackvault.com/documentarchive/project-blue-book/](https://www.theblackvault.com/documentarchive/project-blue-book/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Sign, Project Grudge, and Project Blue Book – Air Force UFO Research Programs (1947-1969) - The Black VaultMarch 3, 2021 — PROJEC...</p></details>
    Published: March 3, 2021  
 
 8. <a id="endnote-8"></a>
    Source: cufos.org  
    Title: Project Blue Book  
-   Link: [https://cufos.org/resources/project-blue-book/](https://cufos.org/resources/project-blue-book/)  
+   Link: <a href="https://cufos.org/resources/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>14, as edited by Leon Davidson, July 1966The United States Air Force managed three UFO projects, from 1948 to 1969. The first w...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pararational.com  
-   Link: [https://www.pararational.com/encyclopedia/project-blue-book/](https://www.pararational.com/encyclopedia/project-blue-book/)  
+   Link: <a href="https://www.pararational.com/encyclopedia/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.pararational.com/encyclopedia/project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book was the United States Air Force’s official program for investigating UFO sightings, running from March 1952 u...</p></details>
    Published: March 1952  
 
 10. <a id="endnote-10"></a>
    Source: disclosdex.com  
    Title: Project Blue Book | Disclosdex  
-   Link: [https://disclosdex.com/programs/project-blue-book](https://disclosdex.com/programs/project-blue-book)  
+   Link: <a href="https://disclosdex.com/programs/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/programs/project-blue-book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 1, 1952 — PROJECT BLUE BOOK UAP Task Force The Air Force investigation of UFO reports from 1952 until 1969 Project Blue Book succee...</p></details>
    Published: March 1, 1952  
 
@@ -803,53 +771,53 @@ In sum, the Hartford 1948 report remains an intriguing part of Connecticut’s a
 
 11. <a id="endnote-11"></a>
    Source: studylib.net  
-   Link: [https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns](https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns)  
+   Link: <a href="https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns" target="_blank" rel="noopener noreferrer nofollow">https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Unknowns CatalogA comprehensive catalog of Project Blue Book UFO unknowns, compiled by Brad Sparks. Database aids i...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ufocasebook.com  
-   Link: [https://www.ufocasebook.com/projectbluebook.html](https://www.ufocasebook.com/projectbluebook.html)  
+   Link: <a href="https://www.ufocasebook.com/projectbluebook.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/projectbluebook.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book, A HistoryPROJECT BLUE BOOK, A HISTORY In the features Project Sign, and Project Grudge,we saw that, after General Hoyt...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/456301001/Project-Blue-Book-Top-Secret-UFO-Files-The-Untold-Truth-by-John-Scott-Chace-pdf](https://www.scribd.com/document/456301001/Project-Blue-Book-Top-Secret-UFO-Files-The-Untold-Truth-by-John-Scott-Chace-pdf)  
+   Link: <a href="https://www.scribd.com/document/456301001/Project-Blue-Book-Top-Secret-UFO-Files-The-Untold-Truth-by-John-Scott-Chace-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/456301001/Project-Blue-Book-Top-Secret-UFO-Files-The-Untold-Truth-by-John-Scott-Chace-pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 2019 — MORE OF RICHARD HALLS WORK CAN BE READ AT THE FOLLOWING ADDRESS: RICHARD HALL: [LINK] UFO at Lake Norman |North Carolin...</p></details>
    Published: January 1, 2019  
 
 14. <a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on UFO policy and communi...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/](https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/)  
+   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Frequently-Requested-Information/UFO-and-Other-Paranormal-Information/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO and Other Paranormal InformationUFO and Other Paranormal Information... Review the search terms in response to requests for informat...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pdfcoffee.com  
    Title: Project Blue Book, Top Secret UFO Files The Untold Truth by John Scott Chace.pdf  
-   Link: [https://pdfcoffee.com/project-blue-book-top-secret-ufo-files-the-untold-truth-by-john-scott-chacepdf-5-pdf-free.html](https://pdfcoffee.com/project-blue-book-top-secret-ufo-files-the-untold-truth-by-john-scott-chacepdf-5-pdf-free.html)  
+   Link: <a href="https://pdfcoffee.com/project-blue-book-top-secret-ufo-files-the-untold-truth-by-john-scott-chacepdf-5-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/project-blue-book-top-secret-ufo-files-the-untold-truth-by-john-scott-chacepdf-5-pdf-free.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1, 2019 — Chapter 17: Visual Sightings Figure 57 - Actual UFO taken by Brazilian Navy At Trindade by Almiro Barauna 1958 | [dxxiii] UFO o...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: uncorruptedtruth.com  
-   Link: [https://uncorruptedtruth.com/wp-content/uploads/2022/11/project-blue-book-top-secret-ufo-files_-the-untold-truth.pdf](https://uncorruptedtruth.com/wp-content/uploads/2022/11/project-blue-book-top-secret-ufo-files_-the-untold-truth.pdf)  
+   Link: <a href="https://uncorruptedtruth.com/wp-content/uploads/2022/11/project-blue-book-top-secret-ufo-files_-the-untold-truth.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uncorruptedtruth.com/wp-content/uploads/2022/11/project-blue-book-top-secret-ufo-files_-the-untold-truth.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Other Books by John Scott Chace on Amazon. Individual Books. “UFOs In U.S. AIRSPACE: Hard...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: theprojectbluebookarchive.org  
    Title: Air Force Explore the Archive Buy the Book ABOUT THE ARC  
-   Link: [https://www.theprojectbluebookarchive.org/](https://www.theprojectbluebookarchive.org/)  
+   Link: <a href="https://www.theprojectbluebookarchive.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.theprojectbluebookarchive.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Project Blue Book ArchiveImage: Project Blue Book Archive Logo THE PROJECT BLUE BOOK ARCHIVE Browse and download declassified UAP inv...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: bakersfieldnow.com  
-   Link: [https://bakersfieldnow.com/newsletter-daily/declassified-pentagon-ufo-files-include-1948-reports-near-bakersfield-kern-county-california-department-of-war-unidentified-anomalous-phenomena-uap-fbi-declassified-government-documents-transparency](https://bakersfieldnow.com/newsletter-daily/declassified-pentagon-ufo-files-include-1948-reports-near-bakersfield-kern-county-california-department-of-war-unidentified-anomalous-phenomena-uap-fbi-declassified-government-documents-transparency)  
+   Link: <a href="https://bakersfieldnow.com/newsletter-daily/declassified-pentagon-ufo-files-include-1948-reports-near-bakersfield-kern-county-california-department-of-war-unidentified-anomalous-phenomena-uap-fbi-declassified-government-documents-transparency" target="_blank" rel="noopener noreferrer nofollow">https://bakersfieldnow.com/newsletter-daily/declassified-pentagon-ufo-files-include-1948-reports-near-bakersfield-kern-county-california-department-of-war-unidentified-anomalous-phenomena-uap-fbi-declassified-government-documents-transparency</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The document also references a second reported sighting from March 8...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ufocasebook.com  
-   Link: [https://www.ufocasebook.com/bluebook.html](https://www.ufocasebook.com/bluebook.html)  
+   Link: <a href="https://www.ufocasebook.com/bluebook.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/bluebook.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project BluebookPROJECT BLUEBOOK The Condon Report: Introduction The &quot;Scientific Study of Unidentified Flying Objects&quot; (Condon &amp; Gillmor...</p></details>

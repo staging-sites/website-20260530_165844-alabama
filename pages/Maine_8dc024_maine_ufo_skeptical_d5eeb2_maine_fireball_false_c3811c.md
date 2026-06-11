@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /sceptical-analysis/
 nav_short_title: Fireballs
 title: When a meteor becomes a Maine UFO
-title_full: When a meteor becomes a Maine UFO | Sceptical Analysis
+title_full: When a meteor becomes a Maine UFO
 display_title_short: Fireballs
 display_title: Fireballs
 heading_title: When a meteor becomes a Maine UFO
@@ -200,15 +200,15 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:33:47'
-parent_title: Why Many Maine UFOs Can Be Explained Scientifically | MaineUFOs
+parent_title: Why Many Maine UFOs Can Be Explained Scientifically
 parent_permalink: /sceptical-analysis/
 parent_nav_short_title: Sceptical Analysis
 parent_heading_title: Why Many Maine UFOs Can Be Explained Scientifically
 ancestor_links:
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: Maine_8dc024_maine_ufo_skeptical_d5eeb2
   title: Sceptical Analysis | What Makes Maine a Hotspot for UFO Sightings?
   permalink: /sceptical-analysis/
@@ -216,9 +216,9 @@ ancestor_links:
   heading_title: Why Many Maine UFOs Can Be Explained Scientifically
 breadcrumb_links:
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: Maine_8dc024_maine_ufo_skeptical_d5eeb2
   title: Sceptical Analysis | What Makes Maine a Hotspot for UFO Sightings?
   permalink: /sceptical-analysis/
@@ -250,10 +250,9 @@ image: /assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_fireball_fal
 
 ## Introduction
 
-A bright fireball can become a UFO report in a matter of seconds. In [Maine]({{ 'what-makes-maine-a-hotspot-for-ufo/' | relative_url }}), where large areas of coastline, forest and inland water remain unusually dark at night, a sudden meteor can appear startlingly vivid and difficult to place. Witnesses may see a blazing object streak across the sky, change colour, fragment, or seem to dive behind trees and hills. Without warning, reference points or time to think, many people initially describe the experience in terms normally associated with unidentified craft.
+A bright fireball can become a UFO report in a matter of seconds. In Maine, where large areas of coastline, forest and inland water remain unusually dark at night, a sudden meteor can appear startlingly vivid and difficult to place. Witnesses may see a blazing object streak across the sky, change colour, fragment, or seem to dive behind trees and hills. Without warning, reference points or time to think, many people initially describe the experience in terms normally associated with unidentified craft.
 
-
-<img src="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_fireball_false_c3811c-Illustration-1-light.svg" | relative_url }}" alt="Fireballs illustration 1" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_fireball_false_c3811c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_fireball_false_c3811c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_fireball_false_c3811c-Illustration-1-dark.svg" | relative_url }}" alt="Fireballs illustration 1" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_fireball_false_c3811c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_fireball_false_c3811c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This pattern appears repeatedly in Maine sighting history. Some reports that begin as possible UFOs later match known meteor events recorded across several states. Others remain in local folklore because witnesses never learned that hundreds of people elsewhere saw the same object at the same moment. Fireball cases therefore provide one of the clearest examples of how an apparently extraordinary sighting can acquire a conventional explanation once timing, direction and wider observational data are compared.
 
 ## When a meteor becomes a Maine UFO
@@ -261,7 +260,6 @@ This pattern appears repeatedly in Maine sighting history. Some reports that beg
 Astronomers define a fireball as an exceptionally bright meteor, generally brighter than the planet Venus. Some produce terminal flashes, fragmentation or brief explosions known as bolides. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</span></span></span>
 
 Those characteristics overlap with many classic UFO descriptions:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -284,7 +282,6 @@ Many people expect meteors to resemble faint "shooting stars". Large fireballs b
 
 Witnesses often report:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A glowing ball rather than a thin streak.
@@ -300,7 +297,6 @@ These descriptions can sound unusual when read in isolation. Yet they are common
 
 Green fireballs are especially significant in UFO history because they have generated speculation for decades. In reality, colour alone is not evidence of anything exotic. Meteor colours depend on factors such as atmospheric interaction and the composition of the incoming material. Nevertheless, a brilliant green object crossing a dark Maine sky remains exactly the sort of sight that can persuade a witness they have seen something extraordinary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Green fireballs</span><span class="citation-popover-snippet">Green fireballs</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TuZ-TP0UN30" title="American Meteor Society on rare &#x27;bolide&#x27; fireball seen across Southeast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer">American Meteor Society on rare &#x27;bolide&#x27; fireball seen across Southeast</a></p><p class="youtube-embed-meta">Channel: 11Alive &middot; Views: 55.3K &middot; Uploaded: June 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TuZ-TP0UN30">Open on YouTube</a></p></div></div></div>
 
 ## The December 2017 multi-state meteor report
@@ -312,7 +308,6 @@ The American Meteor Society received more than 180 reports from observers across
 For an individual observer in Maine, the experience could easily have seemed unique. A person stepping outside for only a few moments might have seen a brilliant object flash across the horizon and disappear. Without knowing that observers hundreds of miles away witnessed the same event, a UFO interpretation would have been understandable.
 
 The broader evidence changed the picture:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -326,8 +321,7 @@ The broader evidence changed the picture:
 
 American Meteor Society officials noted that such events occur regularly on a national scale but are rarely seen by any one individual because of their short duration. That combination of rarity to the witness and familiarity to specialists helps explain why fireballs repeatedly enter UFO discussions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/5080205/meteor-new-england-northeast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">EST. The American Meteor Society, a scientific group composed of astronomers, confirmed the event and received over 180 reports about the...</span></span></span>
 
-
-<img src="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_fireball_false_c3811c-Illustration-2-light.svg" | relative_url }}" alt="Fireballs illustration 2" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_fireball_false_c3811c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_fireball_false_c3811c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_fireball_false_c3811c-Illustration-2-dark.svg" | relative_url }}" alt="Fireballs illustration 2" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_fireball_false_c3811c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_fireball_false_c3811c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 2016 Maine dashcam fireball
 
 Another instructive case came in May 2016, when a meteor was captured on a police vehicle camera in Portland, Maine.
@@ -350,7 +344,6 @@ This explains why local searches after dramatic fireballs frequently fail to fin
 
 The same misunderstanding can occur when witnesses report an object "dropping behind the trees". In reality, the meteor may simply have passed below the observer's horizon line while still far away.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BNkORbGOb4o" title="&#x27;Fireball season&#x27; is here! Meteor streaks across Maine sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BNkORbGOb4o" target="_blank" rel="noopener noreferrer">&#x27;Fireball season&#x27; is here! Meteor streaks across Maine sky</a></p><p class="youtube-embed-meta">Channel: euronews &middot; Views: 24.2K &middot; Uploaded: May 2016 &middot; Length: 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BNkORbGOb4o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BNkORbGOb4o">Open on YouTube</a></p></div></div></div>
 
 ## How timing, direction and duration can test the claim
@@ -371,8 +364,7 @@ A meteor follows a physical trajectory through the atmosphere. Witnesses located
 
 If observers in Maine, New Hampshire and Massachusetts all describe compatible directions, investigators gain a valuable cross-check. By contrast, accounts that place the object in incompatible locations may indicate multiple unrelated observations or inaccurate recollections.
 
-
-<img src="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_fireball_false_c3811c-Illustration-3-light.svg" | relative_url }}" alt="Fireballs illustration 3" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_fireball_false_c3811c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_fireball_false_c3811c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_fireball_false_c3811c-Illustration-3-dark.svg" | relative_url }}" alt="Fireballs illustration 3" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_fireball_false_c3811c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_fireball_false_c3811c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### How long was it visible?
 
 Duration is often one of the strongest clues.
@@ -387,10 +379,9 @@ One reason fireball-related UFO mysteries are often resolved more quickly today 
 
 The American Meteor Society collects witness reports, maps observation locations and compares accounts from different regions. International databases perform similar functions. These networks make it easier to determine whether an apparently local mystery was actually part of a larger astronomical event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</span></span></span>
 
-In some cases, investigators can go beyond simple identification. Multiple observations may allow estimates of a meteor's trajectory and, if fragments survive atmospheric entry, possible meteorite fall zones. Researchers studying meteor recovery note that reconstructing these paths is complex and often uncertain, but the effort demonstrates how far analysis can progress beyond an initial eyewitness impression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2108.04397" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivDarkflight estimates of meteorite fall positions: issues and a case study using the Murrili meteorite fallAugust 10, 2021...</span><span class="citation-popover-meta">Published: August 10, 2021</span></span></span>
+In some cases, investigators can go beyond simple identification. Multiple observations may allow estimates of a meteor's trajectory and, if fragments survive atmospheric entry, possible meteorite fall zones. Researchers studying meteor recovery note that reconstructing these paths is complex and often uncertain, but the effort demonstrates how far analysis can progress beyond an initial eyewitness impression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2108.04397" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Darkflight estimates of meteorite fall positions: issues and a case study using the Murrili meteorite fallAugust 10, 2021...</span><span class="citation-popover-meta">Published: August 10, 2021</span></span></span>
 
 For Maine UFO history, this matters because older reports often lack the timing and geographical coverage needed for such reconstruction. Modern fireball events leave a much larger evidential trail, making conventional explanations easier to verify.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W_o2s4CcFfM" title="Fireball! Police Cruisers Capture Meteor Streaking Over Northeast U.S. | Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W_o2s4CcFfM" target="_blank" rel="noopener noreferrer">Fireball! Police Cruisers Capture Meteor Streaking Over Northeast U.S. | Video</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 13.8K &middot; Uploaded: May 2016 &middot; Length: 1 minute 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W_o2s4CcFfM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W_o2s4CcFfM">Open on YouTube</a></p></div></div></div>
 
@@ -488,7 +479,7 @@ For that reason, fireball reports occupy an important middle ground in Maine's U
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -498,111 +489,36 @@ For that reason, fireball reports occupy an important middle ground in Maine's U
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for METEOR MAN ONE SHEET ROLLED POSTER JAMES EARL JONES MARLA GIBBS 1993"><img src="https://i.ebayimg.com/images/g/IwYAAOSwsBVgZa35/s-l225.jpg" alt="Listing image for METEOR MAN ONE SHEET ROLLED POSTER JAMES EARL JONES MARLA GIBBS 1993" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">METEOR MAN ONE SHEET ROLLED POSTER JAMES EARL JONES MARLA GIBBS 1993</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -610,15 +526,15 @@ For that reason, fireball reports occupy an important middle ground in Maine's U
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Vintage Film Poster UK Quad &quot; METEOR &quot; 1979 Sean Connery"><img src="https://i.ebayimg.com/images/g/r6kAAeSwVSRohipt/s-l225.jpg" alt="Listing image for Original Vintage Film Poster UK Quad &quot; METEOR &quot; 1979 Sean Connery" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">Original Vintage Film Poster UK Quad &quot; METEOR &quot; 1979 Sean Connery</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -626,15 +542,15 @@ For that reason, fireball reports occupy an important middle ground in Maine's U
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meteor ORIGINAL Quad Movie Film Cinema Poster Sean Connery 1979"><img src="https://i.ebayimg.com/images/g/CWQAAeSw6sFqJwz7/s-l225.jpg" alt="Listing image for Meteor ORIGINAL Quad Movie Film Cinema Poster Sean Connery 1979" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">Meteor ORIGINAL Quad Movie Film Cinema Poster Sean Connery 1979</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -642,15 +558,15 @@ For that reason, fireball reports occupy an important middle ground in Maine's U
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for METEOR US INSERT (14&quot;x 36&quot;) POSTER MARTIN LANDAU TREVOR HOWARD 1979"><img src="https://i.ebayimg.com/images/g/vmEAAOSwfCVjDzxo/s-l225.jpg" alt="Listing image for METEOR US INSERT (14&quot;x 36&quot;) POSTER MARTIN LANDAU TREVOR HOWARD 1979" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">METEOR US INSERT (14&quot;x 36&quot;) POSTER MARTIN LANDAU TREVOR HOWARD 1979</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -658,7 +574,7 @@ For that reason, fireball reports occupy an important middle ground in Maine's U
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fireballs-when-a-meteor-becomes-a-maine-ufo-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-meteor-becomes-a-maine-ufo-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="when-a-meteor-becomes-a-maine-ufo-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -735,17 +651,31 @@ For that reason, fireball reports occupy an important middle ground in Maine's U
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -758,42 +688,73 @@ For that reason, fireball reports occupy an important middle ground in Maine's U
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -808,12 +769,17 @@ For that reason, fireball reports occupy an important middle ground in Maine's U
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -824,107 +790,107 @@ For that reason, fireball reports occupy an important middle ground in Maine's U
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Green fireballs  
-   Link: [https://en.wikipedia.org/wiki/Green_fireballs](https://en.wikipedia.org/wiki/Green_fireballs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Green_fireballs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Green_fireballs</a>  
 
 2. <a id="endnote-2"></a>
    Source: time.com  
-   Link: [https://time.com/5080205/meteor-new-england-northeast/](https://time.com/5080205/meteor-new-england-northeast/)  
+   Link: <a href="https://time.com/5080205/meteor-new-england-northeast/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5080205/meteor-new-england-northeast/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>EST. The American Meteor Society, a scientific group composed of astronomers, confirmed the event and received over 180 reports about the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: time.com  
    Title: Watch a Meteor Light Up the Sky in Maine  
-   Link: [https://time.com/4338433/meteor-sky-maine-video/](https://time.com/4338433/meteor-sky-maine-video/)  
+   Link: <a href="https://time.com/4338433/meteor-sky-maine-video/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4338433/meteor-sky-maine-video/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>“The meteor (or alien spaceship) was caught on camera” continued the Facebook post. “...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: news.sky.com  
    Title: huge fireball filmed shooting through sky 10286289  
-   Link: [https://news.sky.com/story/huge-fireball-filmed-shooting-through-sky-10286289](https://news.sky.com/story/huge-fireball-filmed-shooting-through-sky-10286289)  
+   Link: <a href="https://news.sky.com/story/huge-fireball-filmed-shooting-through-sky-10286289" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/huge-fireball-filmed-shooting-through-sky-10286289</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsHuge Fireball Filmed Shooting Through Sky | US News17 May 2016 — Hundreds of people have reported seeing a huge fireball, thought...</p></details>
    Published: May 2016  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Kecksburg UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Kecksburg_UFO_incident](https://en.wikipedia.org/wiki/Kecksburg_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kecksburg_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kecksburg_UFO_incident</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: 1972 Great Daylight Fireball  
-   Link: [https://en.wikipedia.org/wiki/1972_Great_Daylight_Fireball](https://en.wikipedia.org/wiki/1972_Great_Daylight_Fireball)  
+   Link: <a href="https://en.wikipedia.org/wiki/1972_Great_Daylight_Fireball" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1972_Great_Daylight_Fireball</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2108.04397](https://arxiv.org/abs/2108.04397)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDarkflight estimates of meteorite fall positions: issues and a case study using the Murrili meteorite fallAugust 10, 2021...</p></details>
+   Link: <a href="https://arxiv.org/abs/2108.04397" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2108.04397</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Darkflight estimates of meteorite fall positions: issues and a case study using the Murrili meteorite fallAugust 10, 2021...</p></details>
    Published: August 10, 2021  
 
 8. <a id="endnote-8"></a>
    Source: amsmeteors.org  
-   Link: [https://www.amsmeteors.org/fireballs/](https://www.amsmeteors.org/fireballs/)  
+   Link: <a href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: amsmeteors.org  
-   Link: [https://www.amsmeteors.org/](https://www.amsmeteors.org/)  
+   Link: <a href="https://www.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyAmerican Meteor SocietyOur affiliates observe, monitor, collect data on, study, and report on meteors, meteor show...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TuZ-TP0UN30](https://www.youtube.com/watch?v=TuZ-TP0UN30)  
+   Link: <a href="https://www.youtube.com/watch?v=TuZ-TP0UN30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TuZ-TP0UN30</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>0 across North Georgia upstate North uh South Carolina of a fireball or meteor...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/News12CT/posts/%EF%B8%8F-meteor-sighting-the-american-meteor-society-confirmed-several-reports-of-a-fir/1335861708574488/](https://www.facebook.com/News12CT/posts/%EF%B8%8F-meteor-sighting-the-american-meteor-society-confirmed-several-reports-of-a-fir/1335861708574488/)  
+   Link: <a href="https://www.facebook.com/News12CT/posts/%EF%B8%8F-meteor-sighting-the-american-meteor-society-confirmed-several-reports-of-a-fir/1335861708574488/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News12CT/posts/%EF%B8%8F-meteor-sighting-the-american-meteor-society-confirmed-several-reports-of-a-fir/1335861708574488/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor sightings confirmed in skies above the tri-stateMETEOR SIGHTING The American Meteor Society confirmed several reports of a firebal...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NASASpaceAlerts/posts/meteorsighting-a-fireball-was-observed-by-witnesses-in-the-northwestern-us-and-c/1362524589242627/](https://www.facebook.com/NASASpaceAlerts/posts/meteorsighting-a-fireball-was-observed-by-witnesses-in-the-northwestern-us-and-c/1362524589242627/)  
+   Link: <a href="https://www.facebook.com/NASASpaceAlerts/posts/meteorsighting-a-fireball-was-observed-by-witnesses-in-the-northwestern-us-and-c/1362524589242627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASASpaceAlerts/posts/meteorsighting-a-fireball-was-observed-by-witnesses-in-the-northwestern-us-and-c/1362524589242627/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Space AlertsReport Washington State fireball sightings to the American Meteor Society (AMS) website. Verified fireball sightings wil...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: amsmeteors.org  
-   Link: [https://amsmeteors.org/videos?video_id=20424](https://amsmeteors.org/videos?video_id=20424)  
+   Link: <a href="https://amsmeteors.org/videos?video_id=20424" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/videos?video_id=20424</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VideosOur affiliates observe, monitor, collect data on, study, and report on meteors, meteor showers, fireballs, and related meteoric phe...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/erik.fraser.3/posts/giant-green-fire-ball-time-lapse-101725-notice-how-bright-the-terrain-gets-when-/10239394920956997/](https://www.facebook.com/erik.fraser.3/posts/giant-green-fire-ball-time-lapse-101725-notice-how-bright-the-terrain-gets-when-/10239394920956997/)  
+   Link: <a href="https://www.facebook.com/erik.fraser.3/posts/giant-green-fire-ball-time-lapse-101725-notice-how-bright-the-terrain-gets-when-/10239394920956997/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/erik.fraser.3/posts/giant-green-fire-ball-time-lapse-101725-notice-how-bright-the-terrain-gets-when-/10239394920956997/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>29w. Sharylyn Anthony. That little UFO was faster than lightning getting out of the line...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/mainemineralmuseum/posts/who-caught-a-glimpse-of-this-stellar-fireball-on-wednesday-january-28-at-517-am-/1769638244162413/](https://www.facebook.com/mainemineralmuseum/posts/who-caught-a-glimpse-of-this-stellar-fireball-on-wednesday-january-28-at-517-am-/1769638244162413/)  
+   Link: <a href="https://www.facebook.com/mainemineralmuseum/posts/who-caught-a-glimpse-of-this-stellar-fireball-on-wednesday-january-28-at-517-am-/1769638244162413/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mainemineralmuseum/posts/who-caught-a-glimpse-of-this-stellar-fireball-on-wednesday-january-28-at-517-am-/1769638244162413/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>l log—one person in Vermont reported hearing a rumbling sound coming...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/newscentermaine/posts/the-american-meteor-society-logged-more-than-260-reports-of-the-fireball-from-pe/1376793851145627/](https://www.facebook.com/newscentermaine/posts/the-american-meteor-society-logged-more-than-260-reports-of-the-fireball-from-pe/1376793851145627/)  
+   Link: <a href="https://www.facebook.com/newscentermaine/posts/the-american-meteor-society-logged-more-than-260-reports-of-the-fireball-from-pe/1376793851145627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newscentermaine/posts/the-american-meteor-society-logged-more-than-260-reports-of-the-fireball-from-pe/1376793851145627/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eeing a bright fireball in the sky. Video spots fireball...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DSz-1PwjN7s/](https://www.instagram.com/reel/DSz-1PwjN7s/)  
+   Link: <a href="https://www.instagram.com/reel/DSz-1PwjN7s/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSz-1PwjN7s/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t a fireball seen across Washington, British Columbia, and Oregon...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: fireballs.ndc.nasa.gov  
-   Link: [https://fireballs.ndc.nasa.gov/skyfalls/events/20240720-013600](https://fireballs.ndc.nasa.gov/skyfalls/events/20240720-013600)  
+   Link: <a href="https://fireballs.ndc.nasa.gov/skyfalls/events/20240720-013600" target="_blank" rel="noopener noreferrer nofollow">https://fireballs.ndc.nasa.gov/skyfalls/events/20240720-013600</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>20240720-01360020 Jul 2024 — Event: 20240720-013600... Numerous eyewitnesses in the states of Maine, New Hampshire, Vermont, Massachuset...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/cnn/posts/a-rare-fireball-bright-enough-to-be-seen-during-broad-daylight-dazzled-skies-and/1310785570914091/](https://www.facebook.com/cnn/posts/a-rare-fireball-bright-enough-to-be-seen-during-broad-daylight-dazzled-skies-and/1310785570914091/)  
+   Link: <a href="https://www.facebook.com/cnn/posts/a-rare-fireball-bright-enough-to-be-seen-during-broad-daylight-dazzled-skies-and/1310785570914091/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cnn/posts/a-rare-fireball-bright-enough-to-be-seen-during-broad-daylight-dazzled-skies-and/1310785570914091/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eor (or alien spaceship) was caught on camera at...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nbc26.com  
    Title: video fireball streaks across night sky  
-   Link: [https://www.nbc26.com/news/national/video-fireball-streaks-across-night-sky](https://www.nbc26.com/news/national/video-fireball-streaks-across-night-sky)  
+   Link: <a href="https://www.nbc26.com/news/national/video-fireball-streaks-across-night-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.nbc26.com/news/national/video-fireball-streaks-across-night-sky</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VIDEO: Fireball streaks across night sky17 May 2016 — This video is from police in Portland, Maine who joked, “The meteor (or alien space...</p></details>
-   Published: May 2016  
+   Published: May 2016

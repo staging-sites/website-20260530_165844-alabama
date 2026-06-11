@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kansas-48303f-kansas-airship-folkl/
 description: Focused pages that expand on Folklore.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Kansas_48303f_kansas_airship_folkl_433bd6
-parent_title: Folklore | What Did Kansas Really See?
+parent_title: Folklore
 parent_nav_short_title: Folklore
 parent_permalink: /folklore/
 ---

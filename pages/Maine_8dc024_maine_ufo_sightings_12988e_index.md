@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /maine-8dc024-maine-ufo-sightings/
 description: Focused pages that expand on Sightings Map.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Maine_8dc024_maine_ufo_sightings_12988e
-parent_title: Sightings Map | What Makes Maine a Hotspot for UFO...
+parent_title: Sightings Map
 parent_nav_short_title: Sightings Map
 parent_permalink: /sightings-map/
 ---

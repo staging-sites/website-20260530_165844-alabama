@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /arkansas-2f717f-arkansas-airship-wav/
 description: Focused pages that expand on Airship Wave.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Arkansas_2f717f_arkansas_airship_wav_9c73e3
-parent_title: Airship Wave | What Really Happened in Arkansas Skies?
+parent_title: Airship Wave
 parent_nav_short_title: Airship Wave
 parent_permalink: /airship-wave/
 ---

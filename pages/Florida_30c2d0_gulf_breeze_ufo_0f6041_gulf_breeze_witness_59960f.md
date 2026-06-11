@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /gulf-breeze/
 nav_short_title: Witness wave
 title: How Gulf Breeze became a UFO flap
-title_full: How Gulf Breeze became a UFO flap | Gulf Breeze
+title_full: How Gulf Breeze became a UFO flap
 display_title_short: Witness wave
 display_title: Witness wave
 heading_title: How Gulf Breeze became a UFO flap
@@ -200,15 +200,15 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:11:21'
-parent_title: Unpacking the Gulf Breeze UFO Controversy | FloridaUFOs
+parent_title: Unpacking the Gulf Breeze UFO Controversy
 parent_permalink: /gulf-breeze/
 parent_nav_short_title: Gulf Breeze
 parent_heading_title: Unpacking the Gulf Breeze UFO Controversy
 ancestor_links:
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Florida_30c2d0_gulf_breeze_ufo_0f6041
   title: Gulf Breeze | What Makes Florida a Hotspot for UFO Sightings?
   permalink: /gulf-breeze/
@@ -216,9 +216,9 @@ ancestor_links:
   heading_title: Unpacking the Gulf Breeze UFO Controversy
 breadcrumb_links:
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Florida_30c2d0_gulf_breeze_ufo_0f6041
   title: Gulf Breeze | What Makes Florida a Hotspot for UFO Sightings?
   permalink: /gulf-breeze/
@@ -250,18 +250,16 @@ image: /assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_gulf_breeze_witness_
 
 ## Introduction
 
-The [Gulf Breeze]({{ 'gulf-breeze/' | relative_url }}) UFO story became famous because of Ed Walters’ photographs, but the photographs alone do not explain why the episode turned into one of the best-known UFO flaps in American history. What transformed a local curiosity into a national phenomenon was the combination of repeated witness reports, constant newspaper coverage, television exposure and a feedback loop between public attention and new claims. Between late 1987 and 1988, Gulf Breeze shifted from a quiet [Florida]({{ 'what-makes-florida-a-hotspot-for-ufo/' | relative_url }}) Gulf Coast community into a place where sightings were discussed daily, investigators arrived from around the country, and residents interpreted lights in the sky through the lens of an unfolding UFO drama. Supporters saw a genuine wave of sightings. Sceptics argued that publicity itself encouraged misidentifications, exaggeration and hoaxes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gulf Breeze UFO incident</span><span class="citation-popover-snippet">April 4, 2026 — The Gulf Breeze UFO incident was a series of claimed UFO sightings in Gulf Breeze, Florida, United States, during late 19...</span><span class="citation-popover-meta">Published: April 4, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufospensacolabeach.com/the-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufospensacolabeach.com">[2ufospensacolabeach.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufospensacolabeach.com</span><span class="citation-popover-title">The Gulf Breeze UFO Incident | Ed Walters &amp; The Gulf Breeze</span><span class="citation-popover-snippet">MUFON) received dozens of reports of sightings in the Gulf Breeze area. Various reports described an orange glow, orange or blue beams o...</span></span></span>
+The [Gulf Breeze]({{ 'gulf-breeze/' | relative_url }}) UFO story became famous because of Ed Walters’ photographs, but the photographs alone do not explain why the episode turned into one of the best-known UFO flaps in American history. What transformed a local curiosity into a national phenomenon was the combination of repeated witness reports, constant newspaper coverage, television exposure and a feedback loop between public attention and new claims. Between late 1987 and 1988, Gulf Breeze shifted from a quiet Florida Gulf Coast community into a place where sightings were discussed daily, investigators arrived from around the country, and residents interpreted lights in the sky through the lens of an unfolding UFO drama. Supporters saw a genuine wave of sightings. Sceptics argued that publicity itself encouraged misidentifications, exaggeration and hoaxes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gulf Breeze UFO incident</span><span class="citation-popover-snippet">April 4, 2026 — The Gulf Breeze UFO incident was a series of claimed UFO sightings in Gulf Breeze, Florida, United States, during late 19...</span><span class="citation-popover-meta">Published: April 4, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufospensacolabeach.com/the-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufospensacolabeach.com">[2ufospensacolabeach.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufospensacolabeach.com</span><span class="citation-popover-title">The Gulf Breeze UFO Incident &#124; Ed Walters &amp; The Gulf Breeze</span><span class="citation-popover-snippet">MUFON) received dozens of reports of sightings in the Gulf Breeze area. Various reports described an orange glow, orange or blue beams o...</span></span></span>
 
-
-<img src="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_gulf_breeze_witness_59960f-Illustration-1-light.svg" | relative_url }}" alt="Witness wave illustration 1" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_gulf_breeze_witness_59960f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_gulf_breeze_witness_59960f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_gulf_breeze_witness_59960f-Illustration-1-dark.svg" | relative_url }}" alt="Witness wave illustration 1" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_gulf_breeze_witness_59960f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_gulf_breeze_witness_59960f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Gulf Breeze became a UFO flap
 
 The first Walters photographs appeared in the *Gulf Breeze Sentinel* in November 1987 under pseudonyms meant to protect the witness from ridicule. The images immediately attracted attention because they appeared unusually clear compared with many earlier UFO photographs. Instead of a distant light or blurry shape, the pictures showed a structured object hovering over streets and homes. Once the *Sentinel* committed itself to the story, the town entered a classic “flap” pattern in UFO history: sightings multiplied rapidly after publicity increased. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gulf Breeze UFO incident</span><span class="citation-popover-snippet">April 4, 2026 — The Gulf Breeze UFO incident was a series of claimed UFO sightings in Gulf Breeze, Florida, United States, during late 19...</span><span class="citation-popover-meta">Published: April 4, 2026</span></span></span>
 
-Within weeks, local residents began contacting both the newspaper and the Mutual UFO Network (MUFON) with reports of strange lights, glowing objects and silent craft over the bay area. One widely repeated estimate claimed that more than 130 witnesses reported around 80 separate sightings over a six-month period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Gulf_Breeze_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-snippet">Unsolved MysteriesGulf Breeze UFO | Unsolved Mysteries Wiki - FandomOver the next six months, 135 people in Gulf Breeze reported 80 diffe...</span></span></span>
+Within weeks, local residents began contacting both the newspaper and the Mutual UFO Network (MUFON) with reports of strange lights, glowing objects and silent craft over the bay area. One widely repeated estimate claimed that more than 130 witnesses reported around 80 separate sightings over a six-month period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Gulf_Breeze_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-snippet">Unsolved MysteriesGulf Breeze UFO &#124; Unsolved Mysteries Wiki - FandomOver the next six months, 135 people in Gulf Breeze reported 80 diffe...</span></span></span>
 
 Several factors made Gulf Breeze especially fertile ground for a continuing witness wave: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gulf Breeze UFO incident</span><span class="citation-popover-snippet">April 4, 2026 — The Gulf Breeze UFO incident was a series of claimed UFO sightings in Gulf Breeze, Florida, United States, during late 19...</span><span class="citation-popover-meta">Published: April 4, 2026</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -274,19 +272,17 @@ Several factors made Gulf Breeze especially fertile ground for a continuing witn
 
 This mattered because sightings no longer remained isolated experiences. People discussed them in shops, workplaces and local meetings, creating a communal atmosphere in which new reports gained immediate attention. The case became self-reinforcing: each new claim encouraged more people to look upward and reinterpret unusual lights or aircraft as possible UFOs.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pJzLKIqp-3w" title="Revisiting The Gulf Breeze UFO Sightings || A YouTube Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pJzLKIqp-3w" target="_blank" rel="noopener noreferrer">Revisiting The Gulf Breeze UFO Sightings || A YouTube Documentary</a></p><p class="youtube-embed-meta">Channel: Holden &amp; Jen Hardman &middot; Views: 281.1K &middot; Uploaded: June 2021 &middot; Length: 1 hour 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pJzLKIqp-3w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pJzLKIqp-3w">Open on YouTube</a></p></div></div></div>
 
 ## Reports from residents and local officials
 
-One reason the Gulf Breeze story endured longer than many local UFO scares was that the reports did not come solely from one family. Residents from different backgrounds publicly claimed unusual experiences, and some local officials spoke openly about sightings. Supporters of the case frequently argued that the volume of testimony made outright dismissal difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufospensacolabeach.com/the-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufospensacolabeach.com">[ufospensacolabeach.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufospensacolabeach.com</span><span class="citation-popover-title">The Gulf Breeze UFO Incident | Ed Walters &amp; The Gulf Breeze</span><span class="citation-popover-snippet">MUFON) received dozens of reports of sightings in the Gulf Breeze area. Various reports described an orange glow, orange or blue beams o...</span></span></span>
+One reason the Gulf Breeze story endured longer than many local UFO scares was that the reports did not come solely from one family. Residents from different backgrounds publicly claimed unusual experiences, and some local officials spoke openly about sightings. Supporters of the case frequently argued that the volume of testimony made outright dismissal difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufospensacolabeach.com/the-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufospensacolabeach.com">[ufospensacolabeach.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufospensacolabeach.com</span><span class="citation-popover-title">The Gulf Breeze UFO Incident &#124; Ed Walters &amp; The Gulf Breeze</span><span class="citation-popover-snippet">MUFON) received dozens of reports of sightings in the Gulf Breeze area. Various reports described an orange glow, orange or blue beams o...</span></span></span>
 
-Accounts varied considerably. Some witnesses described orange glows moving silently along the treetops. Others reported blue or orange beams, oval craft, or hovering lights above the water. One woman reportedly claimed to have awakened to find an illuminated object in her yard. Gulf Breeze councilwoman Brenda Pollak described seeing an orange light near the Pensacola Bay Bridge in March 1988, adding a layer of local political credibility to the wave. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufospensacolabeach.com/the-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufospensacolabeach.com">[ufospensacolabeach.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufospensacolabeach.com</span><span class="citation-popover-title">The Gulf Breeze UFO Incident | Ed Walters &amp; The Gulf Breeze</span><span class="citation-popover-snippet">MUFON) received dozens of reports of sightings in the Gulf Breeze area. Various reports described an orange glow, orange or blue beams o...</span></span></span>
+Accounts varied considerably. Some witnesses described orange glows moving silently along the treetops. Others reported blue or orange beams, oval craft, or hovering lights above the water. One woman reportedly claimed to have awakened to find an illuminated object in her yard. Gulf Breeze councilwoman Brenda Pollak described seeing an orange light near the Pensacola Bay Bridge in March 1988, adding a layer of local political credibility to the wave. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufospensacolabeach.com/the-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufospensacolabeach.com">[ufospensacolabeach.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufospensacolabeach.com</span><span class="citation-popover-title">The Gulf Breeze UFO Incident &#124; Ed Walters &amp; The Gulf Breeze</span><span class="citation-popover-snippet">MUFON) received dozens of reports of sightings in the Gulf Breeze area. Various reports described an orange glow, orange or blue beams o...</span></span></span>
 
-Shoreline Park became an important social location in the flap. Groups gathered there specifically to observe the skies and discuss Walters’ claims. In several stories repeated by believers, witnesses said lights appeared after gatherings formed, reinforcing the sense that something ongoing was happening around the town rather than a single isolated incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufospensacolabeach.com/the-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufospensacolabeach.com">[ufospensacolabeach.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufospensacolabeach.com</span><span class="citation-popover-title">The Gulf Breeze UFO Incident | Ed Walters &amp; The Gulf Breeze</span><span class="citation-popover-snippet">MUFON) received dozens of reports of sightings in the Gulf Breeze area. Various reports described an orange glow, orange or blue beams o...</span></span></span>
+Shoreline Park became an important social location in the flap. Groups gathered there specifically to observe the skies and discuss Walters’ claims. In several stories repeated by believers, witnesses said lights appeared after gatherings formed, reinforcing the sense that something ongoing was happening around the town rather than a single isolated incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufospensacolabeach.com/the-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufospensacolabeach.com">[ufospensacolabeach.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufospensacolabeach.com</span><span class="citation-popover-title">The Gulf Breeze UFO Incident &#124; Ed Walters &amp; The Gulf Breeze</span><span class="citation-popover-snippet">MUFON) received dozens of reports of sightings in the Gulf Breeze area. Various reports described an orange glow, orange or blue beams o...</span></span></span>
 
 At the same time, the witness reports showed many of the weaknesses common in mass-sighting episodes:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -305,8 +301,7 @@ The *Gulf Breeze Sentinel* played a central role in transforming the incident fr
 
 The structure of the coverage mattered as much as the content. Instead of one article followed by sceptical investigation, the story unfolded episodically:
 
-
-<img src="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_gulf_breeze_witness_59960f-Illustration-2-light.svg" | relative_url }}" alt="Witness wave illustration 2" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_gulf_breeze_witness_59960f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_gulf_breeze_witness_59960f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_gulf_breeze_witness_59960f-Illustration-2-dark.svg" | relative_url }}" alt="Witness wave illustration 2" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_gulf_breeze_witness_59960f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_gulf_breeze_witness_59960f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -327,7 +322,6 @@ The media attention also produced economic and cultural effects inside the town 
 
 For believers, national exposure validated the seriousness of the sightings. For sceptics, the same exposure contaminated the witness environment by rewarding attention-seeking behaviour and encouraging copycat stories.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2U69Gn2rTS0" title="UFO Hunters: ALIEN SPACECRAFT SIGHTED IN FLORIDA (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2U69Gn2rTS0" target="_blank" rel="noopener noreferrer">UFO Hunters: ALIEN SPACECRAFT SIGHTED IN FLORIDA (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 224.8K &middot; Uploaded: November 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2U69Gn2rTS0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2U69Gn2rTS0">Open on YouTube</a></p></div></div></div>
 
 ## The feedback loop between witnesses and investigators
@@ -342,14 +336,12 @@ Second, it deepened divisions inside the UFO research community itself. Some inv
 
 When sceptical investigators later recreated similar images using a discovered styrofoam model, the dispute intensified rather than ending cleanly. Believers argued that the witness wave could not be dismissed simply because some photographs might have been faked. Sceptics countered that the media-driven atmosphere had produced a classic contagion effect in which one sensational claim generated many weaker follow-on reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gulf Breeze UFO incident</span><span class="citation-popover-snippet">April 4, 2026 — The Gulf Breeze UFO incident was a series of claimed UFO sightings in Gulf Breeze, Florida, United States, during late 19...</span><span class="citation-popover-meta">Published: April 4, 2026</span></span></span>
 
-
-<img src="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_gulf_breeze_witness_59960f-Illustration-3-light.svg" | relative_url }}" alt="Witness wave illustration 3" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_gulf_breeze_witness_59960f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_gulf_breeze_witness_59960f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_gulf_breeze_witness_59960f-Illustration-3-dark.svg" | relative_url }}" alt="Witness wave illustration 3" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_gulf_breeze_witness_59960f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_gulf_breeze_witness_59960f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How community memory kept the episode alive
 
 Even after the main sighting wave faded, Gulf Breeze retained a long association with UFO folklore. The story survived through books, documentaries, television reruns, tourism references and repeated online debate. Decades later, the case still appears in lists of famous American UFO incidents and continues to divide opinion sharply. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gulf Breeze UFO incident</span><span class="citation-popover-snippet">April 4, 2026 — The Gulf Breeze UFO incident was a series of claimed UFO sightings in Gulf Breeze, Florida, United States, during late 19...</span><span class="citation-popover-meta">Published: April 4, 2026</span></span></span>
 
 Community memory persisted for several reasons:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -364,9 +356,7 @@ Modern online discussions show that the same divide remains active. Some partici
 
 The cultural afterlife of the flap may ultimately matter more historically than the original sightings themselves. Within Florida’s UFO history, Gulf Breeze became an example of how media exposure, local storytelling and organised investigation can turn a regional sighting wave into enduring national folklore. The episode is still referenced in documentaries, paranormal media and discussions about the reliability of UFO witness testimony because it illustrates both sides of the UFO debate at once: sincere witnesses reporting extraordinary experiences, and a media environment capable of magnifying uncertain evidence into a cultural phenomenon.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1T5eRcACsQQ" title="The Gulf Breeze UFO Locations from Extraterrestrial 1987 Sighting - Inside Florida Spaceship Home" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1T5eRcACsQQ" target="_blank" rel="noopener noreferrer">The Gulf Breeze UFO Locations from Extraterrestrial 1987 Sighting - Inside Florida Spaceship Home</a></p><p class="youtube-embed-meta">Channel: TheDailyWoo &middot; Views: 56.2K &middot; Uploaded: February 2020 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1T5eRcACsQQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1T5eRcACsQQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -454,7 +444,7 @@ The cultural afterlife of the flap may ultimately matter more historically than 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -464,111 +454,36 @@ The cultural afterlife of the flap may ultimately matter more historically than 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="https://i.ebayimg.com/images/g/yn0AAOSw~r1htoYO/s-l225.jpg" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -576,15 +491,15 @@ The cultural afterlife of the flap may ultimately matter more historically than 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO CONCERT TICKET 1980 VINTAGE ORIGINAL + UFO PHOTO [MICHAEL SCHENKER] 1980 GIG"><img src="https://i.ebayimg.com/images/g/jpMAAeSwc51pci-9/s-l225.jpg" alt="Listing image for UFO CONCERT TICKET 1980 VINTAGE ORIGINAL + UFO PHOTO [MICHAEL SCHENKER] 1980 GIG" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO CONCERT TICKET 1980 VINTAGE ORIGINAL + UFO PHOTO [MICHAEL SCHENKER] 1980 GIG</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -592,15 +507,15 @@ The cultural afterlife of the flap may ultimately matter more historically than 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="https://i.ebayimg.com/images/g/hhQAAOSwq-Jemtmx/s-l225.jpg" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -608,15 +523,15 @@ The cultural afterlife of the flap may ultimately matter more historically than 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="https://i.ebayimg.com/images/g/tPwAAeSwvxhpJvyE/s-l225.jpg" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -624,7 +539,7 @@ The cultural afterlife of the flap may ultimately matter more historically than 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-wave-how-gulf-breeze-became-a-ufo-flap-florida-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia" data-ebay-reference="how-gulf-breeze-became-a-ufo-flap-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -701,17 +616,31 @@ The cultural afterlife of the flap may ultimately matter more historically than 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -724,42 +653,73 @@ The cultural afterlife of the flap may ultimately matter more historically than 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -774,12 +734,17 @@ The cultural afterlife of the flap may ultimately matter more historically than 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -790,117 +755,117 @@ The cultural afterlife of the flap may ultimately matter more historically than 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Gulf Breeze UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident](https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 4, 2026 — The Gulf Breeze UFO incident was a series of claimed UFO sightings in Gulf Breeze, Florida, United States, during late 19...</p></details>
    Published: April 4, 2026  
 
 2. <a id="endnote-2"></a>
    Source: ufospensacolabeach.com  
    Title: The Gulf Breeze UFO Incident | Ed Walters & The Gulf Breeze  
-   Link: [https://www.ufospensacolabeach.com/the-ufo-incident/](https://www.ufospensacolabeach.com/the-ufo-incident/)  
+   Link: <a href="https://www.ufospensacolabeach.com/the-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufospensacolabeach.com/the-ufo-incident/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(MUFON) received dozens of reports of sightings in the Gulf Breeze area. Various reports described an orange glow, orange or blue beams o...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pensacolabeach.com  
-   Link: [https://pensacolabeach.com/the-gulf-breeze-ufo-incident/](https://pensacolabeach.com/the-gulf-breeze-ufo-incident/)  
+   Link: <a href="https://pensacolabeach.com/the-gulf-breeze-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://pensacolabeach.com/the-gulf-breeze-ufo-incident/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gulf Breeze UFO IncidentOn May 1, 1988, Walters reported feeling the alien presence while he was at Shoreline Park after midnight, sa...</p></details>
    Published: May 1, 1988  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOB/comments/15banz8/anyone_have_more_context_about_this_uap_that_is/](https://www.reddit.com/r/UFOB/comments/15banz8/anyone_have_more_context_about_this_uap_that_is/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/15banz8/anyone_have_more_context_about_this_uap_that_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/15banz8/anyone_have_more_context_about_this_uap_that_is/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pretty widely accepted to be fake. It was claimed that the model of it was found in the attic if his...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/dotvm6/the_gulf_breeze_sightings_a_series_of_ufo/](https://www.reddit.com/r/UFOs/comments/dotvm6/the_gulf_breeze_sightings_a_series_of_ufo/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/dotvm6/the_gulf_breeze_sightings_a_series_of_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/dotvm6/the_gulf_breeze_sightings_a_series_of_ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A series of UFO sightings in Gulf Breeze, FloridaEd Walters did not take just a couple of pictures. He took a very large number of pictur...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pensacolabeach.com  
    Title: It serves as a living  
-   Link: [https://pensacolabeach.com/ufosonpensacolabeach/](https://pensacolabeach.com/ufosonpensacolabeach/)  
+   Link: <a href="https://pensacolabeach.com/ufosonpensacolabeach/" target="_blank" rel="noopener noreferrer nofollow">https://pensacolabeach.com/ufosonpensacolabeach/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the UFO History and Cosmic Fun of Pensacola...4 Oct 2023 — In the heart of Pensacola Beach, UFOs Mini Golf stands as a testame...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/pjs6ev/original_ufo_article_from_1988_with_great_photos/](https://www.reddit.com/r/aliens/comments/pjs6ev/original_ufo_article_from_1988_with_great_photos/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/pjs6ev/original_ufo_article_from_1988_with_great_photos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/pjs6ev/original_ufo_article_from_1988_with_great_photos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Allegedly taken near Gulf Breeze, Florida by a man named Mike Hawkins (Now deceased). It shows a very similar object to...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: unsolvedmysteries.fandom.com  
-   Link: [https://unsolvedmysteries.fandom.com/wiki/Gulf_Breeze_UFO](https://unsolvedmysteries.fandom.com/wiki/Gulf_Breeze_UFO)  
+   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Gulf_Breeze_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Gulf_Breeze_UFO</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesGulf Breeze UFO | Unsolved Mysteries Wiki - FandomOver the next six months, 135 people in Gulf Breeze reported 80 diffe...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: mysterydelver.com  
    Title: high hoax  
-   Link: [https://mysterydelver.com/high-hoax/](https://mysterydelver.com/high-hoax/)  
+   Link: <a href="https://mysterydelver.com/high-hoax/" target="_blank" rel="noopener noreferrer nofollow">https://mysterydelver.com/high-hoax/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery DelverHigh Hoax?19 Apr 2025 — UFO skeptics acknowledge that if alien aircraft have arrived on Earth, Gulf Breeze would be a g...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
    Title: The Gulf Breeze UFO incident was a series of claimed UFO  
-   Link: [https://www.facebook.com/pensacolabeachinfo/posts/the-gulf-breeze-ufo-incident-was-a-series-of-claimed-ufo-sightings-in-gulf-breez/1192152426245698/](https://www.facebook.com/pensacolabeachinfo/posts/the-gulf-breeze-ufo-incident-was-a-series-of-claimed-ufo-sightings-in-gulf-breez/1192152426245698/)  
+   Link: <a href="https://www.facebook.com/pensacolabeachinfo/posts/the-gulf-breeze-ufo-incident-was-a-series-of-claimed-ufo-sightings-in-gulf-breez/1192152426245698/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pensacolabeachinfo/posts/the-gulf-breeze-ufo-incident-was-a-series-of-claimed-ufo-sightings-in-gulf-breez/1192152426245698/</a>  
 
 11. <a id="endnote-11"></a>
    Source: thegumbodiaries.wordpress.com  
    Title: ed walters  
-   Link: [https://thegumbodiaries.wordpress.com/tag/ed-walters/](https://thegumbodiaries.wordpress.com/tag/ed-walters/)  
+   Link: <a href="https://thegumbodiaries.wordpress.com/tag/ed-walters/" target="_blank" rel="noopener noreferrer nofollow">https://thegumbodiaries.wordpress.com/tag/ed-walters/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Walters | The Gumbo Diaries3 Apr 2021 — UFOs lure literary travelers to Pensacola Beach &amp; Gulf Breeze. Note the alien peeking out the bac...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheUnXplainedZone/posts/gulf-breeze-florida-is-a-hotbed-of-ufo-and-uso-sightings-in-1980-ed-walters-capt/1168645865464844/](https://www.facebook.com/TheUnXplainedZone/posts/gulf-breeze-florida-is-a-hotbed-of-ufo-and-uso-sightings-in-1980-ed-walters-capt/1168645865464844/)  
+   Link: <a href="https://www.facebook.com/TheUnXplainedZone/posts/gulf-breeze-florida-is-a-hotbed-of-ufo-and-uso-sightings-in-1980-ed-walters-capt/1168645865464844/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/gulf-breeze-florida-is-a-hotbed-of-ufo-and-uso-sightings-in-1980-ed-walters-capt/1168645865464844/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gulf Breeze, Florida, is a hotbed of UFO and USO sightings...@Huntington_Strange_Travels #StrangeTravels #MichaelHuntington #GulfBreezeS...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TalkingPicturesTV/posts/strange-but-true-new-episodegulf-breeze-ufo-incident-1996on-november-11th-1987-a/1261972729271561/](https://www.facebook.com/TalkingPicturesTV/posts/strange-but-true-new-episodegulf-breeze-ufo-incident-1996on-november-11th-1987-a/1261972729271561/)  
+   Link: <a href="https://www.facebook.com/TalkingPicturesTV/posts/strange-but-true-new-episodegulf-breeze-ufo-incident-1996on-november-11th-1987-a/1261972729271561/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TalkingPicturesTV/posts/strange-but-true-new-episodegulf-breeze-ufo-incident-1996on-november-11th-1987-a/1261972729271561/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>STRANGE BUT TRUE? *New Episode*🚨 &#x27;Gulf Breeze UFO...UFOlogists such as Bruce Maccabee believed the photographs were genuine, however oth...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: florida 1987 photographer ed walters captured a series of images showing a stran  
-   Link: [https://www.facebook.com/HiddenFactsss/posts/florida-1987-photographer-ed-walters-captured-a-series-of-images-showing-a-stran/1623106703149296/](https://www.facebook.com/HiddenFactsss/posts/florida-1987-photographer-ed-walters-captured-a-series-of-images-showing-a-stran/1623106703149296/)  
+   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/florida-1987-photographer-ed-walters-captured-a-series-of-images-showing-a-stran/1623106703149296/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/florida-1987-photographer-ed-walters-captured-a-series-of-images-showing-a-stran/1623106703149296/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Photographer Ed Walters captured a series...@Huntington_Strange_Travels #StrangeTravels #MichaelHuntington #GulfBreezeSightings #EdWalte...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pJzLKIqp-3w](https://www.youtube.com/watch?v=pJzLKIqp-3w)  
+   Link: <a href="https://www.youtube.com/watch?v=pJzLKIqp-3w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pJzLKIqp-3w</a>  
 
 16. <a id="endnote-16"></a>
    Source: grunge.com  
    Title: decades later the gulf breeze ufo incident remains an unsolved mystery  
-   Link: [https://www.grunge.com/1086775/decades-later-the-gulf-breeze-ufo-incident-remains-an-unsolved-mystery/](https://www.grunge.com/1086775/decades-later-the-gulf-breeze-ufo-incident-remains-an-unsolved-mystery/)  
+   Link: <a href="https://www.grunge.com/1086775/decades-later-the-gulf-breeze-ufo-incident-remains-an-unsolved-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/1086775/decades-later-the-gulf-breeze-ufo-incident-remains-an-unsolved-mystery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Decades Later, The Gulf Breeze UFO Incident Remains An...4 Nov 2022 — A series of infamous UFO sightings across Florida&#x27;s Gulf Breeze be...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: thegumbodiaries.wordpress.com  
    Title: ufos lure literary travelers to pensacola beach gulf breeze  
-   Link: [https://thegumbodiaries.wordpress.com/2021/04/03/ufos-lure-literary-travelers-to-pensacola-beach-gulf-breeze/](https://thegumbodiaries.wordpress.com/2021/04/03/ufos-lure-literary-travelers-to-pensacola-beach-gulf-breeze/)  
+   Link: <a href="https://thegumbodiaries.wordpress.com/2021/04/03/ufos-lure-literary-travelers-to-pensacola-beach-gulf-breeze/" target="_blank" rel="noopener noreferrer nofollow">https://thegumbodiaries.wordpress.com/2021/04/03/ufos-lure-literary-travelers-to-pensacola-beach-gulf-breeze/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gumbo DiariesUFOs lure literary travelers to Pensacola Beach &amp; Gulf Breeze3 Apr 2021 — Reports vary on the number of UFO sightings ar...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: spyscape.com  
-   Link: [https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings](https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings)  
+   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rop circles or sightings that began in 1992 when a motorist reported a craft...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: science.howstuffworks.com  
    Title: the 10 most legitimate cases of u f o sightings  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm](https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/the-10-most-legitimate-cases-of-u-f-o-sightings.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sightings27 Feb 2024 — History doesn&#x27;t believe or disbelieve in UFOs. There are a handful of UFO sightings documented by Roman historians...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/127381736/The_MUFON_ian_candidate_The_Gulf_Breeze_UFO_case_as_political_contest](https://www.academia.edu/127381736/The_MUFON_ian_candidate_The_Gulf_Breeze_UFO_case_as_political_contest)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaThe MUFON-ian candidate: The Gulf Breeze UFO case as...The Gulf Breeze UFO phenomenon exemplifies a political contest rather tha...</p></details>
+   Link: <a href="https://www.academia.edu/127381736/The_MUFON_ian_candidate_The_Gulf_Breeze_UFO_case_as_political_contest" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/127381736/The_MUFON_ian_candidate_The_Gulf_Breeze_UFO_case_as_political_contest</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The MUFON-ian candidate: The Gulf Breeze UFO case as...The Gulf Breeze UFO phenomenon exemplifies a political contest rather tha...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: easternsierranow.com  
    Title: beyond the beyond gulf breeze ufo photos  
-   Link: [https://www.easternsierranow.com/beyond-the-beyond-gulf-breeze-ufo-photos/](https://www.easternsierranow.com/beyond-the-beyond-gulf-breeze-ufo-photos/)  
+   Link: <a href="https://www.easternsierranow.com/beyond-the-beyond-gulf-breeze-ufo-photos/" target="_blank" rel="noopener noreferrer nofollow">https://www.easternsierranow.com/beyond-the-beyond-gulf-breeze-ufo-photos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond the Beyond: The Gulf Breeze UFO Photos16 Jul 2024 — The one we practically wore out was simply titled “UFOs.” In the pages of this...</p></details>

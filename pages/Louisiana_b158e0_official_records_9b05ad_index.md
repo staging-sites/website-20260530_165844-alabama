@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /louisiana-b158e0-official-records/
 description: Focused pages that expand on Official Records.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Louisiana_b158e0_official_records_9b05ad
-parent_title: Official Records | What Really Happened in Louisiana's UFO...
+parent_title: Official Records
 parent_nav_short_title: Official Records
 parent_permalink: /official-records/
 ---

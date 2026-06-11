@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /florida-30c2d0-early-florida-ufo/
 description: Focused pages that expand on Early Cases.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Florida_30c2d0_early_florida_ufo_9c74a4
-parent_title: Early Cases | What Makes Florida a Hotspot for UFO...
+parent_title: Early Cases
 parent_nav_short_title: Early Cases
 parent_permalink: /early-cases/
 ---

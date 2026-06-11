@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /falkville-metal-man/
 nav_short_title: Greenhaw Account
 title: What Did Jeff Greenhaw Actually See in Falkville?
-title_full: What Did Jeff Greenhaw Actually See in Falkville? | Falkville Metal Man
+title_full: What Did Jeff Greenhaw Actually See in Falkville?
 display_title_short: Greenhaw Account
 display_title: Greenhaw Account
 heading_title: What Did Jeff Greenhaw Actually See in Falkville?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 14:54:37'
-parent_title: What Happened During the 1973 Falkville 'Metal Man' Sighting? | Alabama UFOs
+parent_title: What Happened During the 1973 Falkville 'Metal Man' Sighting?
 parent_permalink: /falkville-metal-man/
 parent_nav_short_title: Falkville Metal Man
 parent_heading_title: What Happened During the 1973 Falkville 'Metal Man' Sighting?
@@ -250,20 +250,18 @@ image: /assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_ey
 
 ## Introduction
 
-The Falkville “Metal Man” case rests almost entirely on one person’s testimony: the account given by Falkville police chief Jeff Greenhaw on the night of 17 October 1973. Unlike many UFO stories built from multiple witnesses, radar traces or long investigation files, this [Alabama]({{ 'what-are-alabamas-most-significant-ufo/' | relative_url }}) incident depends heavily on whether Greenhaw was a reliable observer, whether he accurately described what he saw, and whether his behaviour before and after the encounter supports or weakens his credibility. That makes his eyewitness account the central issue in understanding why the Falkville case remains remembered in Alabama UFO history more than fifty years later.
+The Falkville “Metal Man” case rests almost entirely on one person’s testimony: the account given by Falkville police chief Jeff Greenhaw on the night of 17 October 1973. Unlike many UFO stories built from multiple witnesses, radar traces or long investigation files, this Alabama incident depends heavily on whether Greenhaw was a reliable observer, whether he accurately described what he saw, and whether his behaviour before and after the encounter supports or weakens his credibility. That makes his eyewitness account the central issue in understanding why the Falkville case remains remembered in Alabama UFO history more than fifty years later.
 
-
-<img src="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427-Illustration-1-light.svg" | relative_url }}" alt="Greenhaw Account illustration 1" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Greenhaw’s story has endured because it combines several unusual elements at once: a law-enforcement witness, claimed photographs, a close-range encounter, and detailed descriptions of movement and appearance that do not fit comfortably into ordinary explanations. At the same time, the case also contains clear weaknesses, including poor photographic quality, the absence of corroborating witnesses at the scene, and the possibility of prank activity during the intense 1973 UFO wave in the American South. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cullmantribune.com">[The Cullman Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cullmantribune.com</span><span class="citation-popover-title">do you believe in the metal man</span><span class="citation-popover-snippet">The Cullman TribuneDo you believe in the Metal Man?10 Jul 2021 — On an October night in 1973, the young Falkville Chief of Police, Jeff G...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[Cryptopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">metal man of falkville alabama usa</span><span class="citation-popover-snippet">CryptopiaFALKVILLE METAL MAN (ALABAMA, USA)3 Mar 2010 — On the soft, autumn evening of October 17, 1973, Jeff Greenhaw — then 26-year old...</span><span class="citation-popover-meta">Published: October 17, 1973</span></span></span>
+<img src="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427-Illustration-1-dark.svg" | relative_url }}" alt="Greenhaw Account illustration 1" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Greenhaw’s story has endured because it combines several unusual elements at once: a law-enforcement witness, claimed photographs, a close-range encounter, and detailed descriptions of movement and appearance that do not fit comfortably into ordinary explanations. At the same time, the case also contains clear weaknesses, including poor photographic quality, the absence of corroborating witnesses at the scene, and the possibility of prank activity during the intense 1973 UFO wave in the American South. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cullmantribune.com">[The Cullman Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cullmantribune.com</span><span class="citation-popover-title">do you believe in the metal man</span><span class="citation-popover-snippet">The Cullman TribuneDo you believe in the Metal Man?10 Jul 2021 — On an October night in 1973, the young Falkville Chief of Police, Jeff G...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[Cryptopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">metal man of falkville alabama usa</span><span class="citation-popover-snippet">FALKVILLE METAL MAN (ALABAMA, USA)3 Mar 2010 — On the soft, autumn evening of October 17, 1973, Jeff Greenhaw — then 26-year old...</span><span class="citation-popover-meta">Published: October 17, 1973</span></span></span>
 
 ## What Did Jeff Greenhaw Actually Report Seeing?
 
 Greenhaw said he received a late-night call from an anonymous woman claiming that a UFO had landed near a field outside Falkville. He later recalled initially assuming the caller was “an idiot” or that the report would prove mundane. That detail matters because supporters often point to his apparent scepticism at the start of the incident as evidence that he was not actively searching for publicity or a sensational UFO experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cullmantribune.com">[The Cullman Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cullmantribune.com</span><span class="citation-popover-title">do you believe in the metal man</span><span class="citation-popover-snippet">The Cullman TribuneDo you believe in the Metal Man?10 Jul 2021 — On an October night in 1973, the young Falkville Chief of Police, Jeff G...</span></span></span>
 
-According to Greenhaw’s account, he searched the area without finding a landed craft. Only after making another pass down a gravel road did his headlights illuminate what he described as a tall humanoid figure standing near the roadside. Most retellings place the distance at roughly 75 feet. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[Cryptopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">metal man of falkville alabama usa</span><span class="citation-popover-snippet">CryptopiaFALKVILLE METAL MAN (ALABAMA, USA)3 Mar 2010 — On the soft, autumn evening of October 17, 1973, Jeff Greenhaw — then 26-year old...</span><span class="citation-popover-meta">Published: October 17, 1973</span></span></span>
+According to Greenhaw’s account, he searched the area without finding a landed craft. Only after making another pass down a gravel road did his headlights illuminate what he described as a tall humanoid figure standing near the roadside. Most retellings place the distance at roughly 75 feet. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[Cryptopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">metal man of falkville alabama usa</span><span class="citation-popover-snippet">FALKVILLE METAL MAN (ALABAMA, USA)3 Mar 2010 — On the soft, autumn evening of October 17, 1973, Jeff Greenhaw — then 26-year old...</span><span class="citation-popover-meta">Published: October 17, 1973</span></span></span>
 
 The description itself became one of the defining features of the case. Greenhaw said the figure appeared:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -280,8 +278,7 @@ His own wording has been repeated in later interviews and articles. He compared 
 
 That description is important because it does not fully resemble the classic “grey alien” imagery already becoming popular in UFO culture by the early 1970s. Instead, Greenhaw’s figure sounded closer to a person in a metallic suit, a science-fiction robot, or an industrial protective outfit. This ambiguity is one reason sceptics quickly focused on the possibility of a hoax involving reflective clothing.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OJDf7G7_zgU" title="The Alabama Metal Man" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OJDf7G7_zgU" target="_blank" rel="noopener noreferrer">The Alabama Metal Man</a></p><p class="youtube-embed-meta">Channel: Bedtime Stories &middot; Views: 574.7K &middot; Uploaded: October 2023 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OJDf7G7_zgU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OJDf7G7_zgU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DsiKEBAFmm4" title="Travis Walton Tells His Story of Alien Abduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DsiKEBAFmm4" target="_blank" rel="noopener noreferrer">Travis Walton Tells His Story of Alien Abduction</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 6.8M &middot; Uploaded: January 2021 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DsiKEBAFmm4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DsiKEBAFmm4">Open on YouTube</a></p></div></div></div>
 
 ## The Claimed Behaviour of the “Metal Man”
 
@@ -297,12 +294,11 @@ On the other hand, high-speed movement claims are difficult to verify and are vu
 
 Critics have also noted that Greenhaw never reported clearly seeing feet, facial features or exposed skin. The encounter happened quickly, under limited lighting conditions, and almost entirely within the illumination range of vehicle headlights and Polaroid flash bursts. Those conditions can distort depth perception and apparent motion.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fDbMpTuEva0" title="The Brief Alien Encounter Iceberg Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fDbMpTuEva0" target="_blank" rel="noopener noreferrer">The Brief Alien Encounter Iceberg Explained</a></p><p class="youtube-embed-meta">Channel: Connor&#x27;s Curiosities &middot; Views: 13.9K &middot; Uploaded: December 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fDbMpTuEva0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fDbMpTuEva0">Open on YouTube</a></p></div></div></div>
 
 ## Why the Photographs Did Not Settle the Question
 
-Greenhaw’s credibility became tied to the four Polaroid photographs he claimed to have taken during the encounter. Without the photos, the case would probably have faded into regional folklore. Instead, the images transformed the story into a recurring subject in UFO literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[Cryptopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">metal man of falkville alabama usa</span><span class="citation-popover-snippet">CryptopiaFALKVILLE METAL MAN (ALABAMA, USA)3 Mar 2010 — On the soft, autumn evening of October 17, 1973, Jeff Greenhaw — then 26-year old...</span><span class="citation-popover-meta">Published: October 17, 1973</span></span></span>
+Greenhaw’s credibility became tied to the four Polaroid photographs he claimed to have taken during the encounter. Without the photos, the case would probably have faded into regional folklore. Instead, the images transformed the story into a recurring subject in UFO literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[Cryptopia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">metal man of falkville alabama usa</span><span class="citation-popover-snippet">FALKVILLE METAL MAN (ALABAMA, USA)3 Mar 2010 — On the soft, autumn evening of October 17, 1973, Jeff Greenhaw — then 26-year old...</span><span class="citation-popover-meta">Published: October 17, 1973</span></span></span>
 
 Yet the photographs never provided decisive support for his claims.
 
@@ -314,8 +310,7 @@ Importantly, there has never been a widely accepted forensic conclusion proving 
 
 This ambiguity affected perceptions of Greenhaw himself. Believers often argued that if he intended a hoax, he could have staged clearer photographs. Sceptics countered that blurry and ambiguous images are exactly what one would expect from a hurried prank or improvised deception.
 
-
-<img src="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427-Illustration-2-light.svg" | relative_url }}" alt="Greenhaw Account illustration 2" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427-Illustration-2-dark.svg" | relative_url }}" alt="Greenhaw Account illustration 2" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Was Greenhaw a Credible Witness?
 
 Greenhaw’s status as a police chief gave the story immediate attention in 1973. Law-enforcement witnesses often receive greater public trust because their jobs involve observation, reporting and handling unusual situations calmly. In UFO history more broadly, police sightings have frequently attracted more interest than anonymous civilian reports for that reason.
@@ -323,7 +318,6 @@ Greenhaw’s status as a police chief gave the story immediate attention in 1973
 However, Greenhaw’s position cuts both ways.
 
 Supporters point to several details that they believe strengthen his credibility:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -341,10 +335,9 @@ But sceptics highlight different issues.
 
 First, Greenhaw was only 26 years old and relatively new to the role of police chief. Falkville itself was a very small town. Critics argue that his law-enforcement title should not automatically be treated as equivalent to highly trained investigative expertise.
 
-Second, the encounter occurred during one of the biggest UFO waves in modern American history. October 1973 saw a surge of sightings across the United States, including the heavily publicised Pascagoula abduction case in neighbouring Mississippi. Media saturation may have shaped expectations, fears and interpretations at the time. Even MUFON-linked commentary later suggested the Falkville story may have been influenced by the atmosphere created by Pascagoula. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[Cryptopia Third]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">metal man of falkville alabama usa</span><span class="citation-popover-snippet">CryptopiaFALKVILLE METAL MAN (ALABAMA, USA)3 Mar 2010 — On the soft, autumn evening of October 17, 1973, Jeff Greenhaw — then 26-year old...</span><span class="citation-popover-meta">Published: October 17, 1973</span></span></span>, no independent witness confirmed seeing the “Metal Man” at the exact location during Greenhaw’s encounter. The original caller remained anonymous, and there was no recovered physical evidence conclusively linked to the event.
+Second, the encounter occurred during one of the biggest UFO waves in modern American history. October 1973 saw a surge of sightings across the United States, including the heavily publicised Pascagoula abduction case in neighbouring Mississippi. Media saturation may have shaped expectations, fears and interpretations at the time. Even MUFON-linked commentary later suggested the Falkville story may have been influenced by the atmosphere created by Pascagoula. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[Cryptopia Third]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">metal man of falkville alabama usa</span><span class="citation-popover-snippet">FALKVILLE METAL MAN (ALABAMA, USA)3 Mar 2010 — On the soft, autumn evening of October 17, 1973, Jeff Greenhaw — then 26-year old...</span><span class="citation-popover-meta">Published: October 17, 1973</span></span></span>, no independent witness confirmed seeing the “Metal Man” at the exact location during Greenhaw’s encounter. The original caller remained anonymous, and there was no recovered physical evidence conclusively linked to the event.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DsiKEBAFmm4" title="Travis Walton Tells His Story of Alien Abduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DsiKEBAFmm4" target="_blank" rel="noopener noreferrer">Travis Walton Tells His Story of Alien Abduction</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 6.8M &middot; Uploaded: January 2021 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DsiKEBAFmm4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DsiKEBAFmm4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OJDf7G7_zgU" title="The Alabama Metal Man" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OJDf7G7_zgU" target="_blank" rel="noopener noreferrer">The Alabama Metal Man</a></p><p class="youtube-embed-meta">Channel: Bedtime Stories &middot; Views: 574.7K &middot; Uploaded: October 2023 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OJDf7G7_zgU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OJDf7G7_zgU">Open on YouTube</a></p></div></div></div>
 
 ## The Importance of Local Context in Rural Alabama
 
@@ -362,7 +355,6 @@ The Falkville case remains notable not because it proved extraterrestrial visita
 
 The case also illustrates a recurring pattern in Alabama UFO history and American UFO culture more broadly:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * A single dramatic witness account
@@ -379,8 +371,7 @@ For sceptics, his account is most likely a misidentified person, prankster or ex
 
 That unresolved quality is precisely why the “Metal Man” remains one of Alabama’s best-known UFO-related stories decades after a brief encounter on a dark gravel road outside Falkville.
 
-
-<img src="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427-Illustration-3-light.svg" | relative_url }}" alt="Greenhaw Account illustration 3" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427-Illustration-3-dark.svg" | relative_url }}" alt="Greenhaw Account illustration 3" data-theme-src-dark="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alabama_d1f92d_falkville_metal_man_0ea265_jeff_greenhaw_eyewit_29d427-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -468,65 +459,371 @@ That unresolved quality is precisely why the “Metal Man” remains one of Alab
   </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 Ultimate Edition Horror Action Figure - (NEW BOXED)"><img src="https://i.ebayimg.com/images/g/RHoAAeSwGjlofOcj/s-l225.jpg" alt="Listing image for Alien 3 Ultimate Edition Horror Action Figure - (NEW BOXED)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Alien 3 Ultimate Edition Horror Action Figure - (NEW BOXED)</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Mini Figure Lot with Xenomorph Figures and Accessories"><img src="https://i.ebayimg.com/images/g/xxgAAeSwSKNqKaRb/s-l225.jpg" alt="Listing image for Alien Mini Figure Lot with Xenomorph Figures and Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Mini Figure Lot with Xenomorph Figures and Accessories</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift"><img src="https://i.ebayimg.com/images/g/ob0AAOSwe2dhqm-Q/s-l225.jpg" alt="Listing image for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift"><img src="https://i.ebayimg.com/images/g/diIAAeSw0lVqCLJN/s-l225.jpg" alt="Listing image for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="what-did-jeff-greenhaw-actually-see-in-falkville-alien-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: cryptopia.us  
    Title: metal man of falkville alabama usa  
-   Link: [https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/](https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CryptopiaFALKVILLE METAL MAN (ALABAMA, USA)3 Mar 2010 — On the soft, autumn evening of October 17, 1973, Jeff Greenhaw — then 26-year old...</p></details>
+   Link: <a href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow">https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FALKVILLE METAL MAN (ALABAMA, USA)3 Mar 2010 — On the soft, autumn evening of October 17, 1973, Jeff Greenhaw — then 26-year old...</p></details>
    Published: October 17, 1973  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Homme de métal de Falkville  
-   Link: [https://fr.wikipedia.org/wiki/Homme_de_m%C3%A9tal_de_Falkville](https://fr.wikipedia.org/wiki/Homme_de_m%C3%A9tal_de_Falkville)  
+   Link: <a href="https://fr.wikipedia.org/wiki/Homme_de_m%C3%A9tal_de_Falkville" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Homme_de_m%C3%A9tal_de_Falkville</a>  
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: The Metal Man of Falkville  
-   Link: [https://www.reddit.com/r/Humanoidencounters/comments/lfp2z8/the_metal_man_of_falkville_in_1973_jeff_greenhaw/](https://www.reddit.com/r/Humanoidencounters/comments/lfp2z8/the_metal_man_of_falkville_in_1973_jeff_greenhaw/)  
+   Link: <a href="https://www.reddit.com/r/Humanoidencounters/comments/lfp2z8/the_metal_man_of_falkville_in_1973_jeff_greenhaw/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Humanoidencounters/comments/lfp2z8/the_metal_man_of_falkville_in_1973_jeff_greenhaw/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1973 Jeff Greenhaw, then 26...February 8, 2021 — The images that Greenhaw snapped were collected and sent for analysis by Walt Andrus...</p></details>
    Published: February 8, 2021  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: The Metal Man of Falkville  
-   Link: [https://www.reddit.com/r/UrbanMyths/comments/1gzkahb/the_metal_man_of_falkville_in_1973_jeff_greenhaw/](https://www.reddit.com/r/UrbanMyths/comments/1gzkahb/the_metal_man_of_falkville_in_1973_jeff_greenhaw/)  
+   Link: <a href="https://www.reddit.com/r/UrbanMyths/comments/1gzkahb/the_metal_man_of_falkville_in_1973_jeff_greenhaw/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UrbanMyths/comments/1gzkahb/the_metal_man_of_falkville_in_1973_jeff_greenhaw/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1973 Jeff Greenhaw, then 26...In 1973 Jeff Greenhaw, then 26-year old chief of police of Falkville, Alabama, was responding to a ufo...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/futurama/comments/npf8at/in_1973_and_alabama_police_officer_responded_to/](https://www.reddit.com/r/futurama/comments/npf8at/in_1973_and_alabama_police_officer_responded_to/)  
+   Link: <a href="https://www.reddit.com/r/futurama/comments/npf8at/in_1973_and_alabama_police_officer_responded_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/futurama/comments/npf8at/in_1973_and_alabama_police_officer_responded_to/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1973 Jeff Greenhaw, then 26-year old chief of police of Falkville, Alabama, was responding to a ufo landing...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: podscripts.co  
-   Link: [https://podscripts.co/podcasts/this-paranormal-life/407-the-mystery-of-the-metal-man](https://podscripts.co/podcasts/this-paranormal-life/407-the-mystery-of-the-metal-man)  
+   Link: <a href="https://podscripts.co/podcasts/this-paranormal-life/407-the-mystery-of-the-metal-man" target="_blank" rel="noopener noreferrer nofollow">https://podscripts.co/podcasts/this-paranormal-life/407-the-mystery-of-the-metal-man</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Paranormal Life - #407 The Mystery of The Metal Man...In 1973, a young Falkville Chief of Police, Jeff Greenhaw was called out to i...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/ie/podcast/the-falkville-metal-man-press-g-to-pay-respects-130/id1437205788?i=1000603966732](https://podcasts.apple.com/ie/podcast/the-falkville-metal-man-press-g-to-pay-respects-130/id1437205788?i=1000603966732)  
+   Link: <a href="https://podcasts.apple.com/ie/podcast/the-falkville-metal-man-press-g-to-pay-respects-130/id1437205788?i=1000603966732" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/ie/podcast/the-falkville-metal-man-press-g-to-pay-respects-130/id1437205788?i=1000603966732</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metal Man | Cryptid Wiki. Metal Man of Falkville | New Cryptozoology Wiki...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cullmantribune.com  
    Title: do you believe in the metal man  
-   Link: [https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/](https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/)  
+   Link: <a href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow">https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cullman TribuneDo you believe in the Metal Man?10 Jul 2021 — On an October night in 1973, the young Falkville Chief of Police, Jeff G...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: strangeco.blogspot.com  
    Title: jeff and metal man  
-   Link: [https://strangeco.blogspot.com/2025/01/jeff-and-metal-man.html](https://strangeco.blogspot.com/2025/01/jeff-and-metal-man.html)  
+   Link: <a href="https://strangeco.blogspot.com/2025/01/jeff-and-metal-man.html" target="_blank" rel="noopener noreferrer nofollow">https://strangeco.blogspot.com/2025/01/jeff-and-metal-man.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jeff and the Metal Man13 Jan 2025 — On the night of October 17, 1973, Jeff Greenhaw, the Police Chief of Falkville, Alabama, received an...</p></details>
    Published: October 17, 1973  
 
 10. <a id="endnote-10"></a>
    Source: pdsh.fandom.com  
    Title: It was first sighted by Chief Jeff Greenhawk who was  
-   Link: [https://pdsh.fandom.com/wiki/Falkville_Metal_Man](https://pdsh.fandom.com/wiki/Falkville_Metal_Man)  
+   Link: <a href="https://pdsh.fandom.com/wiki/Falkville_Metal_Man" target="_blank" rel="noopener noreferrer nofollow">https://pdsh.fandom.com/wiki/Falkville_Metal_Man</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Metal Man | Public Domain Super Heroes - FandomThe [Falkville Metal Man](&amp;#123;&amp;#123; &#x27;falkville-metal-man/&#x27; | relative_url &amp;#125;&amp;#125;) was an alien creature reported on October 17, 1973 in Falkville, A...</p></details>
    Published: October 17, 1973  
 
@@ -535,58 +832,58 @@ That unresolved quality is precisely why the “Metal Man” remains one of Alab
 11. <a id="endnote-11"></a>
    Source: new-cryptozoology.fandom.com  
    Title: New Cryptozoology Metal Man of Falkville | New Cryptozoology Wiki  
-   Link: [https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville](https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville)  
+   Link: <a href="https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville" target="_blank" rel="noopener noreferrer nofollow">https://new-cryptozoology.fandom.com/wiki/Metal_Man_of_Falkville</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New CryptozoologyMetal Man of Falkville | New Cryptozoology Wiki - FandomOn the soft, autumn evening of October 17, 1973, Jeff Greenhaw...</p></details>
    Published: October 17, 1973  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: These images were taken by police chief Jeff Greenhaw  
-   Link: [https://www.facebook.com/CryptozoologyFacts/photos/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1439974454805392/](https://www.facebook.com/CryptozoologyFacts/photos/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1439974454805392/)  
+   Link: <a href="https://www.facebook.com/CryptozoologyFacts/photos/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1439974454805392/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CryptozoologyFacts/photos/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1439974454805392/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Greenhaw received a call from an anonymous woman around 10pm; she reported seeing a UFO fall and crash on the property of a man named Bob...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: These images were taken by police chief Jeff Greenhaw  
-   Link: [https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1357301373072701/](https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1357301373072701/)  
+   Link: <a href="https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1357301373072701/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1357301373072701/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1973, the police chief of Falkville swore he saw a humanoid figure in a shiny metal suit walking in a field at night — and even snappe...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DQbPh8SEQZr/](https://www.instagram.com/reel/DQbPh8SEQZr/)  
+   Link: <a href="https://www.instagram.com/reel/DQbPh8SEQZr/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQbPh8SEQZr/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in a reflective suit, possibly collecting data before vanishing into...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: xaluannews.com  
    Title: The Alien Encounter Of Police Chief Greenhaw  
-   Link: [https://www.xaluannews.com/modules.php?file=article&name=News&sid=3312874](https://www.xaluannews.com/modules.php?file=article&name=News&sid=3312874)  
+   Link: <a href="https://www.xaluannews.com/modules.php?file=article&amp;name=News&amp;sid=3312874" target="_blank" rel="noopener noreferrer nofollow">https://www.xaluannews.com/modules.php?file=article&amp;name=News&amp;sid=3312874</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Xã Luận11 Oct 2021 — It was a quiet fall afternoon on October 17, 1973, when Jeff Greenhaw, then the Falkville, Alabama Police Chief, was...</p></details>
    Published: October 17, 1973  
 
 16. <a id="endnote-16"></a>
    Source: shadowfrequencypodcast.com  
    Title: the night falkville met the metal man  
-   Link: [https://www.shadowfrequencypodcast.com/blog/the-night-falkville-met-the-metal-man/](https://www.shadowfrequencypodcast.com/blog/the-night-falkville-met-the-metal-man/)  
+   Link: <a href="https://www.shadowfrequencypodcast.com/blog/the-night-falkville-met-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow">https://www.shadowfrequencypodcast.com/blog/the-night-falkville-met-the-metal-man/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Oct 2025 — On October 17, 1973, Falkville Police Chief Jeff Greenhaw captured four Polaroids of a gleaming metallic humanoid that move...</p></details>
    Published: October 17, 1973  
 
 17. <a id="endnote-17"></a>
    Source: unsolvedmysteries.fandom.com  
-   Link: [https://unsolvedmysteries.fandom.com/wiki/Alabama_Metal_Man](https://unsolvedmysteries.fandom.com/wiki/Alabama_Metal_Man)  
+   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Alabama_Metal_Man" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Alabama_Metal_Man</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesAlabama Metal Man | Unsolved Mysteries Wiki - FandomHistory: The Alabama Metal Man is an alleged alien entity that appe...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/episode/0iM3U7GTIAzFDP4bURg9xI](https://open.spotify.com/episode/0iM3U7GTIAzFDP4bURg9xI)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com#18: [Falkville Metal](&amp;#123;&amp;#123; &#x27;falkville-metal-man/&#x27; | relative_url &amp;#125;&amp;#125;) Man - The Cryptonaut PodcastIn October of 1973 the police chief of Falkville, Alabama Jeff Greenhaw inves...</p></details>
+   Link: <a href="https://open.spotify.com/episode/0iM3U7GTIAzFDP4bURg9xI" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/0iM3U7GTIAzFDP4bURg9xI</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com#18: Falkville Metal Man - The Cryptonaut PodcastIn October of 1973 the police chief of Falkville, Alabama Jeff Greenhaw inves...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/episode/6hTjDtmXWtxv4OEePK2TPv](https://open.spotify.com/episode/6hTjDtmXWtxv4OEePK2TPv)  
+   Link: <a href="https://open.spotify.com/episode/6hTjDtmXWtxv4OEePK2TPv" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/6hTjDtmXWtxv4OEePK2TPv</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Falkville Metal Man Photos: Alien or Hoax?2 Apr 2025 — On October 17, 1973, Falkville Alabama Chief of Police Jeff Greenhaw was out inves...</p></details>
    Published: October 17, 1973  
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/477919712397338/posts/789321871257119/](https://www.facebook.com/groups/477919712397338/posts/789321871257119/)  
+   Link: <a href="https://www.facebook.com/groups/477919712397338/posts/789321871257119/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/477919712397338/posts/789321871257119/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chief Jeff Green haw and the metal man October 17 1973The &#x27;Metal Man of Falkville&#x27; is not directly mentioned in the search results, but a...</p></details>

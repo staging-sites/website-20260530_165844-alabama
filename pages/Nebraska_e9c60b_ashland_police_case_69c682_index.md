@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nebraska-e9c60b-ashland-police-case/
 description: Focused pages that expand on Ashland Case.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Nebraska_e9c60b_ashland_police_case_69c682
-parent_title: Ashland Case | What Really Happened in Nebraska's UFO...
+parent_title: Ashland Case
 parent_nav_short_title: Ashland Case
 parent_permalink: /ashland-case/
 ---

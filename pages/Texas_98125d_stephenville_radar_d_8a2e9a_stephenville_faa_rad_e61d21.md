@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /stephenville/
 nav_short_title: Radar data
 title: What did the Stephenville radar really show?
-title_full: What did the Stephenville radar really show? | Stephenville
+title_full: What did the Stephenville radar really show?
 display_title_short: Radar data
 display_title: Radar data
 heading_title: What did the Stephenville radar really show?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:18:28'
-parent_title: Why Stephenville Became the Modern Texas Case | Texas UFOs
+parent_title: Why Stephenville Became the Modern Texas Case
 parent_permalink: /stephenville/
 parent_nav_short_title: Stephenville
 parent_heading_title: Why Stephenville Became the Modern Texas Case
@@ -226,10 +226,10 @@ breadcrumb_links:
   heading_title: Why Stephenville Became the Modern Texas Case
 sibling_links:
 - basename: Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_f16_exp_a807d5
-  title: F 16s | Stephenville
-  permalink: /f-16s/
-  short_title: F 16s
-  heading_title: Were the Stephenville lights just F 16s?
+  title: F 16 s | Stephenville
+  permalink: /f-16-s/
+  short_title: F 16 s
+  heading_title: Were the Stephenville lights just F 16 s?
 up_link:
   basename: Texas_98125d_stephenville_radar_d_8a2e9a
   title: Stephenville | Why Texas Became a UFO Archive
@@ -238,10 +238,10 @@ up_link:
   heading_title: Why Stephenville Became the Modern Texas Case
 prev_link:
   basename: Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_f16_exp_a807d5
-  title: F 16s | Stephenville
-  permalink: /f-16s/
-  short_title: F 16s
-  heading_title: Were the Stephenville lights just F 16s?
+  title: F 16 s | Stephenville
+  permalink: /f-16-s/
+  short_title: F 16 s
+  heading_title: Were the Stephenville lights just F 16 s?
 header:
   og_image: /assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_faa_rad_e61d21-Illustration-1-social.jpg
   preview_image: /assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_faa_rad_e61d21-Illustration-1.webp
@@ -252,18 +252,16 @@ image: /assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_faa_
 
 The radar evidence is the reason the [Stephenville]({{ 'stephenville/' | relative_url }}) case still appears in debates about modern UFO reports. Witness testimony alone left room for disagreement: people may misjudge distance, speed and size at night. What made Stephenville different was that investigators later obtained Federal Aviation Administration (FAA) radar data through Freedom of Information Act requests and tried to compare those records with witness timelines. The result was not a simple confirmation of a giant unknown craft. Instead, it became a dispute over how radar data should be interpreted, what counts as a real track rather than background noise, and whether military aircraft explain most or all of what witnesses reported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/Stephenville/FAAStephenville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black VaultFAAStephenville.pdfThe attached FOIA request has been received in the Central Service Center for unusual activity involvin...</span></span></span>
 
-
-<img src="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_faa_rad_e61d21-Illustration-1-light.svg" | relative_url }}" alt="Radar data illustration 1" data-theme-src-dark="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_faa_rad_e61d21-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_faa_rad_e61d21-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_faa_rad_e61d21-Illustration-1-dark.svg" | relative_url }}" alt="Radar data illustration 1" data-theme-src-dark="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_faa_rad_e61d21-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_faa_rad_e61d21-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For supporters of the UFO interpretation, the radar records showed unidentified targets moving independently of known F-16 fighter jets. For sceptics, the same dataset demonstrated the danger of selecting a few unusual returns from a huge mass of imperfect radar information. The argument over the radar has become almost as important as the original sighting itself because it turned Stephenville from a witness case into a technical evidence case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookSpecial Research Report Stephenville, Texas4 Jul 2008 — © 2008 Mutual UFO Network, Inc. 155 East Boardwalk Dr., Suite 300...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for InquiryThe Stephenville Lights“MUFON&#x27;s radar analysis is nothing more than cherry picking the 187 targets out of 2.5 million p...</span></span></span>
 
 ## How the FAA data was obtained
 
-After the January 2008 sightings, investigators associated with the Mutual UFO Network (MUFON), particularly Robert Powell and Glen Schulze, sought radar information from the FAA and other sources. Through FOIA requests they obtained radar records covering the period of the reported sightings. Their later report combined witness statements with radar analysis from multiple radar sites serving north [Texas]({{ 'why-texas-became-a-ufo-archive/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/Stephenville/FAAStephenville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black VaultFAAStephenville.pdfThe attached FOIA request has been received in the Central Service Center for unusual activity involvin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookSpecial Research Report Stephenville, Texas4 Jul 2008 — © 2008 Mutual UFO Network, Inc. 155 East Boardwalk Dr., Suite 300...</span></span></span>
+After the January 2008 sightings, investigators associated with the Mutual UFO Network (MUFON), particularly Robert Powell and Glen Schulze, sought radar information from the FAA and other sources. Through FOIA requests they obtained radar records covering the period of the reported sightings. Their later report combined witness statements with radar analysis from multiple radar sites serving north Texas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/Stephenville/FAAStephenville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black VaultFAAStephenville.pdfThe attached FOIA request has been received in the Central Service Center for unusual activity involvin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookSpecial Research Report Stephenville, Texas4 Jul 2008 — © 2008 Mutual UFO Network, Inc. 155 East Boardwalk Dr., Suite 300...</span></span></span>
 
 The radar data was valuable because it provided an independent record of aircraft activity. It could show known aircraft carrying transponders, military flights operating in the region and other returns that appeared on radar screens. The investigators' goal was straightforward: determine whether the radar picture matched witness claims that something unusual had moved through the Stephenville area while fighter jets were present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookSpecial Research Report Stephenville, Texas4 Jul 2008 — © 2008 Mutual UFO Network, Inc. 155 East Boardwalk Dr., Suite 300...</span></span></span>
 
 The timing mattered. Early military statements suggested no local fighter activity, but officials later acknowledged that F-16s had been operating in the area. The radar records therefore became a way to test competing narratives rather than relying entirely on memory and testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&amp;page=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsLights in the SkyIn the Stephenville case, that evidence came in the form of radar data obtained from the Federal Aviation Admini...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FfasawhOo6k" title="UFO Sighting Reported by Hundreds of Witnesses | In Search Of (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FfasawhOo6k" target="_blank" rel="noopener noreferrer">UFO Sighting Reported by Hundreds of Witnesses | In Search Of (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 264.8K &middot; Uploaded: November 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FfasawhOo6k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FfasawhOo6k">Open on YouTube</a></p></div></div></div>
 
@@ -277,8 +275,7 @@ The investigators also pointed to periods where targets appeared to move, disapp
 
 Importantly, the radar data did not provide a clear image of a structured craft. It consisted of radar returns that required interpretation. The debate was therefore never about whether a giant triangular object was literally visible on radar. It was about whether particular radar tracks represented real unknown objects and whether they corresponded to what witnesses saw on the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookSpecial Research Report Stephenville, Texas4 Jul 2008 — © 2008 Mutual UFO Network, Inc. 155 East Boardwalk Dr., Suite 300...</span></span></span>
 
-
-<img src="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_faa_rad_e61d21-Illustration-2-light.svg" | relative_url }}" alt="Radar data illustration 2" data-theme-src-dark="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_faa_rad_e61d21-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_faa_rad_e61d21-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_faa_rad_e61d21-Illustration-2-dark.svg" | relative_url }}" alt="Radar data illustration 2" data-theme-src-dark="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_faa_rad_e61d21-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_faa_rad_e61d21-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why radar interpretation became the real controversy
 
 Many readers assume radar is an objective record that automatically settles disputes. The Stephenville case showed the opposite. Modern radar systems collect enormous amounts of information, including weather effects, reflections, intermittent returns and electronic noise. Interpreting that information often requires assumptions about what should count as a genuine track. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for InquiryThe Stephenville Lights“MUFON&#x27;s radar analysis is nothing more than cherry picking the 187 targets out of 2.5 million p...</span></span></span>
@@ -286,7 +283,6 @@ Many readers assume radar is an objective record that automatically settles disp
 The MUFON investigators argued that they identified coherent movements across multiple radar datasets. Their position was that the returns formed meaningful tracks consistent with witness reports and separate from known military aircraft. They treated the radar as supporting evidence rather than a standalone proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookSpecial Research Report Stephenville, Texas4 Jul 2008 — © 2008 Mutual UFO Network, Inc. 155 East Boardwalk Dr., Suite 300...</span></span></span>
 
 Critics viewed the same material differently. They argued that selecting a small number of points from a vast radar archive can create the appearance of a track even when the underlying returns are random or poorly understood. The disagreement was therefore methodological. The question became whether the investigators had identified genuine moving targets or unintentionally connected unrelated radar points into a pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for InquiryThe Stephenville Lights“MUFON&#x27;s radar analysis is nothing more than cherry picking the 187 targets out of 2.5 million p...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9PcyVyvSoVU" title="Robert Powell Stephenville Texas UFO Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9PcyVyvSoVU" target="_blank" rel="noopener noreferrer">Robert Powell Stephenville Texas UFO Incident</a></p><p class="youtube-embed-meta">Channel: Mutual UFO Network (MUFON) &middot; Views: 10.3K &middot; Uploaded: December 2015 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9PcyVyvSoVU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9PcyVyvSoVU">Open on YouTube</a></p></div></div></div>
 
@@ -300,8 +296,7 @@ Sceptics also noted that the acknowledged presence of F-16s complicated the witn
 
 Another point raised by sceptics was that radar records alone cannot reliably determine the size, shape or visual appearance of an object. Witnesses described enormous structured craft, but radar data only records target returns. Moving from a radar anomaly to claims of a mile-wide vehicle requires additional assumptions that the radar itself does not provide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for InquiryThe Stephenville Lights“MUFON&#x27;s radar analysis is nothing more than cherry picking the 187 targets out of 2.5 million p...</span></span></span>
 
-
-<img src="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_faa_rad_e61d21-Illustration-3-light.svg" | relative_url }}" alt="Radar data illustration 3" data-theme-src-dark="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_faa_rad_e61d21-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_faa_rad_e61d21-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_faa_rad_e61d21-Illustration-3-dark.svg" | relative_url }}" alt="Radar data illustration 3" data-theme-src-dark="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_faa_rad_e61d21-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_faa_rad_e61d21-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the radar evidence actually established
 
 More than a decade later, the strongest conclusion remains narrower than either side sometimes suggests.
@@ -312,9 +307,7 @@ What the data did **not** do was conclusively identify a giant craft, establish 
 
 That ambiguity explains why Stephenville remains important in Texas UFO history. The case moved beyond eyewitness testimony into a technical argument about radar, data quality and investigative methods. Supporters see the radar analysis as evidence that something genuinely unexplained was present in north Texas skies. Sceptics see it as a lesson in how ambiguous datasets can generate persuasive but uncertain narratives. Either way, the FAA records transformed Stephenville from a local sighting wave into one of the most closely argued radar cases in modern American UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookSpecial Research Report Stephenville, Texas4 Jul 2008 — © 2008 Mutual UFO Network, Inc. 155 East Boardwalk Dr., Suite 300...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.explorescu.org/post/stephenville-lights-a-comprehensive-radar-and-witness-report-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorescu.org">[The SCU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorescu.org</span><span class="citation-popover-title">stephenville lights a comprehensive radar and witness report study</span><span class="citation-popover-snippet">The SCUStephenville Lights: A Comprehensive Radar and Witness...18 Dec 2010 — Radar data from five different radar sites as well as witn...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2zaPXGbBxBY" title="Stephenville UFO Incident Deep Dive with Expert: Robert Powell, UAP Researcher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2zaPXGbBxBY" target="_blank" rel="noopener noreferrer">Stephenville UFO Incident Deep Dive with Expert: Robert Powell, UAP Researcher</a></p><p class="youtube-embed-meta">Channel: Unravelling the Universe℠ &middot; Views: 3.4K &middot; Uploaded: September 2024 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2zaPXGbBxBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2zaPXGbBxBY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -402,117 +395,423 @@ That ambiguity explains why Stephenville remains important in Texas UFO history.
   </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-stephenville-radar-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-stephenville-radar-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-stephenville-radar-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-stephenville-radar-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-stephenville-radar-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-stephenville-radar-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-stephenville-radar-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-stephenville-radar-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-stephenville-radar-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-stephenville-radar-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-stephenville-radar-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-stephenville-radar-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-stephenville-radar-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-stephenville-radar-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-stephenville-radar-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-stephenville-radar-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-stephenville-radar-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-stephenville-radar-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-stephenville-radar-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-stephenville-radar-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-stephenville-radar-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-stephenville-radar-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-stephenville-radar-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-stephenville-radar-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-stephenville-radar-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-stephenville-radar-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-stephenville-radar-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-stephenville-radar-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-stephenville-radar-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-stephenville-radar-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-stephenville-radar-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-stephenville-radar-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-stephenville-radar-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-did-the-stephenville-radar-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: explorescu.org  
    Title: stephenville lights a comprehensive radar and witness report study  
-   Link: [https://www.explorescu.org/post/stephenville-lights-a-comprehensive-radar-and-witness-report-study](https://www.explorescu.org/post/stephenville-lights-a-comprehensive-radar-and-witness-report-study)  
+   Link: <a href="https://www.explorescu.org/post/stephenville-lights-a-comprehensive-radar-and-witness-report-study" target="_blank" rel="noopener noreferrer nofollow">https://www.explorescu.org/post/stephenville-lights-a-comprehensive-radar-and-witness-report-study</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The SCUStephenville Lights: A Comprehensive Radar and Witness...18 Dec 2010 — Radar data from five different radar sites as well as witn...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Stephenville, Texas  
-   Link: [https://en.wikipedia.org/wiki/Stephenville%2C_Texas](https://en.wikipedia.org/wiki/Stephenville%2C_Texas)  
+   Link: <a href="https://en.wikipedia.org/wiki/Stephenville%2C_Texas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stephenville%2C_Texas</a>  
 
 3. <a id="endnote-3"></a>
    Source: history.com  
    Title: ufo sightings credible modern  
-   Link: [https://www.history.com/articles/ufo-sightings-credible-modern](https://www.history.com/articles/ufo-sightings-credible-modern)  
+   Link: <a href="https://www.history.com/articles/ufo-sightings-credible-modern" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-sightings-credible-modern</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 5 Most Credible Modern UFO SightingsApr 25, 2018 — However, because the UFO was not seen on radar, the FAA called it a “weather pheno...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/Stephenville/FAAStephenville.pdf](https://documents.theblackvault.com/documents/Stephenville/FAAStephenville.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/Stephenville/FAAStephenville.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/Stephenville/FAAStephenville.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultFAAStephenville.pdfThe attached FOIA request has been received in the Central Service Center for unusual activity involvin...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ufocasebook.com  
-   Link: [https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf](https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf)  
+   Link: <a href="https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CasebookSpecial Research Report Stephenville, Texas4 Jul 2008 — © 2008 Mutual UFO Network, Inc. 155 East Boardwalk Dr., Suite 300...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: centerforinquiry.s3.amazonaws.com  
-   Link: [https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf](https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf)  
+   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for InquiryThe Stephenville Lights“MUFON&#x27;s radar analysis is nothing more than cherry picking the 187 targets out of 2.5 million p...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&page=1](https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&page=1)  
+   Link: <a href="https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&amp;page=1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsLights in the SkyIn the Stephenville case, that evidence came in the form of radar data obtained from the Federal Aviation Admini...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nowdeclassified.com  
-   Link: [https://www.nowdeclassified.com/incidents/stephenville-2008](https://www.nowdeclassified.com/incidents/stephenville-2008)  
+   Link: <a href="https://www.nowdeclassified.com/incidents/stephenville-2008" target="_blank" rel="noopener noreferrer nofollow">https://www.nowdeclassified.com/incidents/stephenville-2008</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Now DeclassifiedStephenville, Texas — Mile-Wide Object, Military PursuitA FOIA request by the Mutual UFO Network obtained FAA radar data...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: documents.theblackvault.com  
    Title: August 2008  
-   Link: [https://documents.theblackvault.com/documents/MUFON/Journals/2008/August_2008.pdf](https://documents.theblackvault.com/documents/MUFON/Journals/2008/August_2008.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/MUFON/Journals/2008/August_2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/MUFON/Journals/2008/August_2008.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Journal16 Aug 2008 — This report deals specifically with radar as well as witness sightings of an unidentified object seen on January...</p></details>
    Published: August 2008  
 
 10. <a id="endnote-10"></a>
    Source: abcnews.com  
    Title: UF O Investigators Flock to Stephenville, Texas  
-   Link: [https://abcnews.com/GMA/story?id=4142232&page=1](https://abcnews.com/GMA/story?id=4142232&page=1)  
+   Link: <a href="https://abcnews.com/GMA/story?id=4142232&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/GMA/story?id=4142232&amp;page=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Investigators Flock to Stephenville, Texas - ABC NewsState director Ken Cherry says that the network has received calls from 50 citiz...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JF-12.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JF-12.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JF-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JF-12.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MEASURING MYTHOLOGYMassimo Polidoro is an investigator of the paranormal, lecturer, and co-founder and head of CICAP, the Italian skeptic...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/16yj9li/stephenville_radar_data_animation/](https://www.reddit.com/r/UFOs/comments/16yj9li/stephenville_radar_data_animation/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Stephenville radar](&amp;#123;&amp;#123; &#x27;stephenville/&#x27; | relative_url &amp;#125;&amp;#125;) data animation: r/UFOsThere is a comprehensive report on the radar data from the Stephenville sightings from MUFON at...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/16yj9li/stephenville_radar_data_animation/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16yj9li/stephenville_radar_data_animation/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stephenville radar data animation: r/UFOsThere is a comprehensive report on the radar data from the Stephenville sightings from MUFON at...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Psychedelics_Society/comments/15p6fb9/the_real_fbi_xfiles_connects_ufo_investigations/](https://www.reddit.com/r/Psychedelics_Society/comments/15p6fb9/the_real_fbi_xfiles_connects_ufo_investigations/)  
+   Link: <a href="https://www.reddit.com/r/Psychedelics_Society/comments/15p6fb9/the_real_fbi_xfiles_connects_ufo_investigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Psychedelics_Society/comments/15p6fb9/the_real_fbi_xfiles_connects_ufo_investigations/</a>  
 
 14. <a id="endnote-14"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JF-10.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JF-10.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JF-10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JF-10.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James McGaha. E- mail: JMCGAHA@PimaCC.Pima.EDU. 5100 N. Sabino Foot- hills Dr., Tucson, AZ 85715 US. Phoenix Skeptics, Phoenix, AZ...Rea...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: texas mysteriesstephenville lights 2008stephenville texasdozens of witnesses inc  
-   Link: [https://www.facebook.com/txchronicles/posts/texas-mysteriesstephenville-lights-2008stephenville-texasdozens-of-witnesses-inc/1271477624634608/](https://www.facebook.com/txchronicles/posts/texas-mysteriesstephenville-lights-2008stephenville-texasdozens-of-witnesses-inc/1271477624634608/)  
+   Link: <a href="https://www.facebook.com/txchronicles/posts/texas-mysteriesstephenville-lights-2008stephenville-texasdozens-of-witnesses-inc/1271477624634608/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/texas-mysteriesstephenville-lights-2008stephenville-texasdozens-of-witnesses-inc/1271477624634608/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Texas Mysteries Stephenville Lights (2008)...Dozens of witnesses, including pilots and police officers, saw bright lights and a massive...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pr.com  
    Title: Radar Data Supports Stephenville, Texas UFO Sightings Fort Collins, CO,  
-   Link: [https://www.pr.com/press-release/94809](https://www.pr.com/press-release/94809)  
+   Link: <a href="https://www.pr.com/press-release/94809" target="_blank" rel="noopener noreferrer nofollow">https://www.pr.com/press-release/94809</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Radar Data Supports Stephenville, Texas UFO SightingsFort Collins, CO, July 12, 2008 --(PR.com)-- Radar data obtained by MUFON confirms t...</p></details>
    Published: July 12, 2008  
 
 17. <a id="endnote-17"></a>
    Source: en.wikinews.org  
    Title: MUFON releases report on UFO sighting in Stephenville, Texas  
-   Link: [https://en.wikinews.org/wiki/MUFON_releases_report_on_UFO_sighting_in_Stephenville%2C_Texas](https://en.wikinews.org/wiki/MUFON_releases_report_on_UFO_sighting_in_Stephenville%2C_Texas)  
+   Link: <a href="https://en.wikinews.org/wiki/MUFON_releases_report_on_UFO_sighting_in_Stephenville%2C_Texas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikinews.org/wiki/MUFON_releases_report_on_UFO_sighting_in_Stephenville%2C_Texas</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>releases report on UFO sighting in Stephenville...18 Jul 2008 — On January 8, 2008 in Stephenville, Texas, one of the larger UFO sighti...</p></details>
    Published: January 8, 2008  
 
 18. <a id="endnote-18"></a>
    Source: vice.com  
    Title: 15 Years Ago, UFO Sightings Rocked a Small Texas Town  
-   Link: [https://www.vice.com/en/article/netflix-encounters-messengers-stephenville/](https://www.vice.com/en/article/netflix-encounters-messengers-stephenville/)  
+   Link: <a href="https://www.vice.com/en/article/netflix-encounters-messengers-stephenville/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/netflix-encounters-messengers-stephenville/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Sept 2023 — But even with such wild descriptions, the so-called Stephenville Lights is considered one of the most credible UFO sightin...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: debshome.com  
-   Link: [https://debshome.com/news.html](https://debshome.com/news.html)  
+   Link: <a href="https://debshome.com/news.html" target="_blank" rel="noopener noreferrer nofollow">https://debshome.com/news.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>quests to the National Weather Service and the FAA show that unknown...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/086315c0-0ae8-45ed-a6be-650eef506f2b](https://enigmalabs.io/library/086315c0-0ae8-45ed-a6be-650eef506f2b)  
+   Link: <a href="https://enigmalabs.io/library/086315c0-0ae8-45ed-a6be-650eef506f2b" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/086315c0-0ae8-45ed-a6be-650eef506f2b</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stephenville, Texas SightingOn the evening of January 8, 2008, several residents of Stephenville, Texas, reported seeing unusual lights m...</p></details>
-   Published: January 8, 2008  
+   Published: January 8, 2008

@@ -262,7 +262,7 @@ sibling_links:
   short_title: Michigan UFOs
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Alabama_d1f92d
   title: Alabama UFOs
@@ -277,9 +277,9 @@ sibling_links:
   permalink: /what-keeps-tennessees-ufo-stories-alive/
   short_title: Tennessee UFOs
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Idaho_18334c
   title: Idaho UFOs
   permalink: /what-makes-idaho-a-key-ufo-hotspot/
@@ -289,9 +289,9 @@ sibling_links:
   permalink: /what-makes-indianas-ufo-history-unique/
   short_title: Indiana UFOs
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: South_Carolina_11d001
   title: South Carolina UFOs
   permalink: /what-makes-south-carolinas-ufo-story/
@@ -481,7 +481,6 @@ image: /assets/images/Arkansas_2f717f-overview-social.jpg
 
 Arkansas is not usually placed alongside New Mexico, Nevada, or Washington in national UFO lore, but it has a distinctive state-level record because its stories bridge two different eras. The first came before aircraft were part of everyday life: the “mystery airship” reports of the 1890s. The second came during the Cold War flying-saucer period, when police, newspapers, aviation authorities, and the US Air Force were already primed to treat aerial reports as possible security or scientific questions. The Encyclopedia of Arkansas identifies 1896–97 and 1965 as the state’s most notable multi-witness UFO periods, while also noting that many other Arkansas reports have been isolated incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of Arkansas UFO Sightings</span></span></span>
 
-
 <img src="{{ "/assets/images/Arkansas_2f717f-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Arkansas Skies?" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters. A single unusual light can be hard to assess decades later, especially when no photograph, radar record, or independent official investigation survives. A wave of reports, by contrast, lets readers ask better questions: Were witnesses describing the same thing? Did newspapers amplify one another? Did officials investigate? Did the descriptions match known aircraft, meteors, balloons, military activity, or hoaxes? Arkansas’s best-known cases are useful not because they prove a simple answer, but because they show how local UFO history is built from overlapping layers of testimony, media attention, official paperwork, and later reinterpretation.
 
@@ -495,8 +494,7 @@ These accounts are fascinating, but they are not strong evidence of an unknown c
 
 The most revealing Arkansas detail may be political rather than paranormal. The airship stories reached the Arkansas General Assembly, where a Senate resolution joked that the mysterious craft should pay taxes on the freight they carried. That reaction captures the tone of the period: people were intrigued, amused, and unsettled, but the reports were not handled as modern forensic investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of Arkansas UFO Sightings</span></span></span>
 
-
-<img src="{{ "/assets/images/Arkansas_2f717f-Illustration-1-light.svg" | relative_url }}" alt="What Really Happened in Arkansas Skies? illustration 1" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arkansas_2f717f-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Arkansas Skies? illustration 1" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1965 north-west Arkansas flap: the state’s strongest modern wave
 
 The 1965 Arkansas wave belongs to a very different UFO era. By then, the phrase “flying saucer” had been in circulation for nearly two decades, the Air Force had run several UFO programmes, and Project Blue Book was the official US Air Force channel for collecting and evaluating reports. Arkansas’s 1965 sightings therefore sit much closer to the modern UAP discussion than the 1897 airship tales do.
@@ -506,7 +504,6 @@ The reported sequence began in north-west Arkansas. On 4 August 1965, Bill Estep
 A few days later, two women reportedly saw a strange aircraft land in a field near Blytheville, in Mississippi County. Later that month, residents of Fort Smith reported unusual aircraft in the sky, and the case drew the attention of Project Blue Book. The Arkansas state account says the Blue Book report noted that as many as 1,500 people witnessed Fort Smith’s UFO. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of Arkansas UFO Sightings</span></span></span>
 
 The Fort Smith element is important because large witness numbers make a case harder to dismiss as one person’s mistake. But they do not automatically make it stronger in a scientific sense. A mass sighting can still involve a bright astronomical object, aircraft activity, advertising lights, weather effects, or a rumour that encourages people to reinterpret ordinary lights as extraordinary. The key missing pieces are precise timing, sight lines, photographs, radar confirmation, and a clear official conclusion that can be tested against the witness claims.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6AvBnKZUb2g" title="What happened in the Devil&#x27;s Den, Arkansas UFO incident? - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6AvBnKZUb2g" target="_blank" rel="noopener noreferrer">What happened in the Devil&#x27;s Den, Arkansas UFO incident? - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 9.9K &middot; Uploaded: February 2020 &middot; Length: 52 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6AvBnKZUb2g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6AvBnKZUb2g">Open on YouTube</a></p></div></div></div>
 
@@ -528,8 +525,7 @@ The Arkansas reports also show why ordinary explanations need to stay on the tab
 
 A more recent Arkansas claim sometimes mentioned in local UFO roundups is the reported 2014 “platform-like” object near Arkansas Nuclear One at Russellville. The case is interesting because nuclear sites often attract UFO speculation, but the public record available from local and UFO-interest sources is thin: it appears to rest mainly on witness reporting rather than publicly available radar, security, or official nuclear-regulatory evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aymag.com/the-truth-is-out-there/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aymag.com">[AY Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aymag.com</span><span class="citation-popover-title">AY Magazine The Truth Is Out There</span><span class="citation-popover-snippet">AY Magazine The Truth Is Out There</span></span></span>
 
-
-<img src="{{ "/assets/images/Arkansas_2f717f-Illustration-2-light.svg" | relative_url }}" alt="What Really Happened in Arkansas Skies? illustration 2" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arkansas_2f717f-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Arkansas Skies? illustration 2" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Local investigators and Eureka Springs keep the subject alive
 
 Arkansas’s UFO history is not only a list of sightings. It also includes a living local culture of investigation, conferences, scepticism, and belief. The Ozark Mountain UFO Conference is the clearest example. The Encyclopedia of Arkansas says Bill Pitts of Fort Smith organised the original conference in Eureka Springs on 25–26 March 1988 under the title “Flying Saucers—The Beginning”, with the aim of gathering information from people involved in government UFO investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of Arkansas UFO Sightings</span></span></span>
@@ -539,7 +535,6 @@ The conference has become part of Eureka Springs’ identity as a place open to 
 Private groups also continue to shape how Arkansas sightings are collected and interpreted. The Encyclopedia of Arkansas notes that MUFON, NICAP, and other groups have investigated sightings in the state. More recent Arkansas media have covered MUFON field investigators discussing the work of debunking hoaxes and certifying sightings, while other local reporting has described meetings in Fayetteville and Little Rock. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of Arkansas UFO Sightings</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kuaf.com/show/ozarks-at-large/2025-06-25/debunking-hoaxes-certifying-sightings-with-the-arkansas-mutual-ufo-network" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kuaf.com">[KUAF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kuaf.com</span><span class="citation-popover-title">debunking hoaxes certifying sightings with the arkansas mutual ufo network</span><span class="citation-popover-snippet">debunking hoaxes certifying sightings with the arkansas mutual ufo network</span></span></span>
 
 This is where readers need to separate two questions. Local investigators can preserve reports that would otherwise vanish, interview witnesses, and check obvious explanations. But private investigation does not by itself make a case conclusive. The strongest cases are those where witness testimony is supported by independent records: multiple separated observers, exact times, radar or flight data, photographs with provenance, police logs, astronomical checks, and weather data.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FFkhH7t7e0w" title="UFO Sightings in 1897 Arkansas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FFkhH7t7e0w" target="_blank" rel="noopener noreferrer">UFO Sightings in 1897 Arkansas</a></p><p class="youtube-embed-meta">Channel: Old State House Museum &middot; Views: 4.6K &middot; Uploaded: November 2015 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FFkhH7t7e0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FFkhH7t7e0w">Open on YouTube</a></p></div></div></div>
 
@@ -557,8 +552,7 @@ The recurring doubts in Arkansas UFO history are not unique to Arkansas, but the
 
 **Cultural feedback:** UFO stories influence how later witnesses describe what they see. A “cigar-shaped airship” made sense in 1897; a “triangle” or “platform-like” craft makes more sense in the late twentieth and early twenty-first centuries. That does not mean witnesses are lying. It means language and expectation shape reports.
 
-
-<img src="{{ "/assets/images/Arkansas_2f717f-Illustration-3-light.svg" | relative_url }}" alt="What Really Happened in Arkansas Skies? illustration 3" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arkansas_2f717f-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Arkansas Skies? illustration 3" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How national UAP findings affect Arkansas claims
 
 Modern federal language has shifted from UFO to UAP, usually meaning “unidentified anomalous phenomena”. That change can make the subject sound more formal, but it does not automatically strengthen older Arkansas cases. The All-domain Anomaly Resolution Office says the Department of Defense has found no evidence of extraterrestrial technology, while also stating that examination of UAP sightings is ongoing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
@@ -573,9 +567,7 @@ Arkansas’s UFO record is strongest as a history of reports rather than a catal
 
 The most honest verdict is therefore mixed. Arkansas deserves a place in American UFO history, but its best-known cases are unresolved in the historical sense, not confirmed in the extraordinary sense. They matter because they reveal how people respond when the sky produces something they cannot easily place: they tell neighbours, call police, write to databases, organise conferences, search archives, argue with sceptics, and keep asking whether the next report might finally come with evidence strong enough to change the story.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JMamk3UdjFM" title="US and Canada Fireball Mystery in March Leaves Experts Stunned | WORLD DNA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JMamk3UdjFM" target="_blank" rel="noopener noreferrer">US and Canada Fireball Mystery in March Leaves Experts Stunned | WORLD DNA</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 819 &middot; Uploaded: April 2026 &middot; Length: 3 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JMamk3UdjFM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JMamk3UdjFM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -663,216 +655,522 @@ The most honest verdict is therefore mixed. Arkansas deserves a place in America
   </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-arkansas-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-arkansas-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-arkansas-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-arkansas-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-arkansas-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-arkansas-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-arkansas-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-arkansas-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-arkansas-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-arkansas-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-arkansas-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-arkansas-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-arkansas-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-arkansas-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-arkansas-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-arkansas-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-arkansas-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-arkansas-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-arkansas-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-arkansas-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-arkansas-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-arkansas-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-arkansas-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-arkansas-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-arkansas-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-arkansas-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-arkansas-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-arkansas-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-arkansas-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-arkansas-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-arkansas-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-arkansas-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-arkansas-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-arkansas-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 3. <a id="endnote-3"></a>
    Source: prologue.blogs.archives.gov  
    Title: Pieces of History UFOs: Natural Explanations – Pieces of History  
-   Link: [https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/](https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
    Title: Reports for State AR  
-   Link: [https://nuforc.org/subndx/?id=lAR](https://nuforc.org/subndx/?id=lAR)  
+   Link: <a href="https://nuforc.org/subndx/?id=lAR" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lAR</a>  
 
 5. <a id="endnote-5"></a>
    Source: kait8.com  
-   Link: [https://www.kait8.com/2026/03/25/today-history-march-25-inaugural-ozark-mountain-ufo-conference-held-eureka-springs-1988/](https://www.kait8.com/2026/03/25/today-history-march-25-inaugural-ozark-mountain-ufo-conference-held-eureka-springs-1988/)  
+   Link: <a href="https://www.kait8.com/2026/03/25/today-history-march-25-inaugural-ozark-mountain-ufo-conference-held-eureka-springs-1988/" target="_blank" rel="noopener noreferrer nofollow">https://www.kait8.com/2026/03/25/today-history-march-25-inaugural-ozark-mountain-ufo-conference-held-eureka-springs-1988/</a>  
 
 6. <a id="endnote-6"></a>
    Source: kuaf.com  
    Title: debunking hoaxes certifying sightings with the arkansas mutual ufo network  
-   Link: [https://www.kuaf.com/show/ozarks-at-large/2025-06-25/debunking-hoaxes-certifying-sightings-with-the-arkansas-mutual-ufo-network](https://www.kuaf.com/show/ozarks-at-large/2025-06-25/debunking-hoaxes-certifying-sightings-with-the-arkansas-mutual-ufo-network)  
+   Link: <a href="https://www.kuaf.com/show/ozarks-at-large/2025-06-25/debunking-hoaxes-certifying-sightings-with-the-arkansas-mutual-ufo-network" target="_blank" rel="noopener noreferrer nofollow">https://www.kuaf.com/show/ozarks-at-large/2025-06-25/debunking-hoaxes-certifying-sightings-with-the-arkansas-mutual-ufo-network</a>  
 
 7. <a id="endnote-7"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 8. <a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=74083](https://nuforc.org/sighting/?id=74083)  
+   Link: <a href="https://nuforc.org/sighting/?id=74083" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=74083</a>  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=e196601](https://nuforc.org/subndx/?id=e196601)  
+   Link: <a href="https://nuforc.org/subndx/?id=e196601" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e196601</a>  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location NUFORC Reports by Location; USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=81840](https://nuforc.org/sighting/?id=81840)  
+   Link: <a href="https://nuforc.org/sighting/?id=81840" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=81840</a>  
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=91295](https://nuforc.org/sighting/?id=91295)  
+   Link: <a href="https://nuforc.org/sighting/?id=91295" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=91295</a>  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=73533](https://nuforc.org/sighting/?id=73533)  
+   Link: <a href="https://nuforc.org/sighting/?id=73533" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=73533</a>  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=p120203](https://nuforc.org/subndx/?id=p120203)  
+   Link: <a href="https://nuforc.org/subndx/?id=p120203" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=p120203</a>  
 
 16. <a id="endnote-16"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 17. <a id="endnote-17"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 18. <a id="endnote-18"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
 19. <a id="endnote-19"></a>
    Source: nightsky.jpl.nasa.gov  
    Title: AOAS 2010 Mulberry Mountain Star Party  
-   Link: [https://nightsky.jpl.nasa.gov/club/attachments/AOAS_2010_Mulberry_Mountain_Star_Party.pdf](https://nightsky.jpl.nasa.gov/club/attachments/AOAS_2010_Mulberry_Mountain_Star_Party.pdf)  
+   Link: <a href="https://nightsky.jpl.nasa.gov/club/attachments/AOAS_2010_Mulberry_Mountain_Star_Party.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/club/attachments/AOAS_2010_Mulberry_Mountain_Star_Party.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 21. <a id="endnote-21"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 22. <a id="endnote-22"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: prologue.blogs.archives.gov  
    Title: ufos man made made up and unknown  
-   Link: [https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/](https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/</a>  
 
 24. <a id="endnote-24"></a>
    Source: kuaf.com  
-   Link: [https://www.kuaf.com/community-calendar/event/mufon-mutual-ufo-network-meeting-11-06-2025-11-17-18](https://www.kuaf.com/community-calendar/event/mufon-mutual-ufo-network-meeting-11-06-2025-11-17-18)  
+   Link: <a href="https://www.kuaf.com/community-calendar/event/mufon-mutual-ufo-network-meeting-11-06-2025-11-17-18" target="_blank" rel="noopener noreferrer nofollow">https://www.kuaf.com/community-calendar/event/mufon-mutual-ufo-network-meeting-11-06-2025-11-17-18</a>  
 
 25. <a id="endnote-25"></a>
    Source: archive.org  
    Title: Blue Book Artifacts  
-   Link: [https://archive.org/details/BlueBookArtifacts](https://archive.org/details/BlueBookArtifacts)  
+   Link: <a href="https://archive.org/details/BlueBookArtifacts" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/BlueBookArtifacts</a>  
 
 26. <a id="endnote-26"></a>
    Source: ia803206.us.archive.org  
    Title: David Jacobs The UFO Controversy In America  
-   Link: [https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf](https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf)  
+   Link: <a href="https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
 28. <a id="endnote-28"></a>
    Source: time.com  
    Title: science the ufo clans gather  
-   Link: [https://time.com/archive/6847378/science-the-ufo-clans-gather/](https://time.com/archive/6847378/science-the-ufo-clans-gather/)  
+   Link: <a href="https://time.com/archive/6847378/science-the-ufo-clans-gather/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6847378/science-the-ufo-clans-gather/</a>  
 
 29. <a id="endnote-29"></a>
    Source: encyclopediaofarkansas.net  
    Title: Encyclopedia of Arkansas UFO Sightings  
-   Link: [https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/](https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/)  
+   Link: <a href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/</a>  
 
 30. <a id="endnote-30"></a>
    Source: aymag.com  
    Title: AY Magazine The Truth Is Out There  
-   Link: [https://aymag.com/the-truth-is-out-there/](https://aymag.com/the-truth-is-out-there/)  
+   Link: <a href="https://aymag.com/the-truth-is-out-there/" target="_blank" rel="noopener noreferrer nofollow">https://aymag.com/the-truth-is-out-there/</a>  
 
 31. <a id="endnote-31"></a>
    Source: encyclopediaofarkansas.net  
    Title: Encyclopedia of Arkansas Ozark Mountain UFO Conference  
-   Link: [https://encyclopediaofarkansas.net/entries/ozark-mountain-ufo-conference-4364/](https://encyclopediaofarkansas.net/entries/ozark-mountain-ufo-conference-4364/)  
+   Link: <a href="https://encyclopediaofarkansas.net/entries/ozark-mountain-ufo-conference-4364/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofarkansas.net/entries/ozark-mountain-ufo-conference-4364/</a>  
 
 32. <a id="endnote-32"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 33. <a id="endnote-33"></a>
    Source: aymag.com  
    Title: arkansas backstories ufos  
-   Link: [https://aymag.com/arkansas-backstories-ufos/](https://aymag.com/arkansas-backstories-ufos/)  
+   Link: <a href="https://aymag.com/arkansas-backstories-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://aymag.com/arkansas-backstories-ufos/</a>  
 
 34. <a id="endnote-34"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/project](https://dictionary.cambridge.org/dictionary/english/project)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
 
 35. <a id="endnote-35"></a>
    Source: localtvkfsm.files.wordpress.com  
-   Link: [https://localtvkfsm.files.wordpress.com/2015/01/ufo.pdf](https://localtvkfsm.files.wordpress.com/2015/01/ufo.pdf)  
+   Link: <a href="https://localtvkfsm.files.wordpress.com/2015/01/ufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://localtvkfsm.files.wordpress.com/2015/01/ufo.pdf</a>  
 
 36. <a id="endnote-36"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=dVqAN6bijoo](https://www.youtube.com/watch?v=dVqAN6bijoo)  
+   Link: <a href="https://www.youtube.com/watch?v=dVqAN6bijoo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dVqAN6bijoo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What happened in the Devil&#x27;s Den, Arkansas UFO incident?...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: nrc.gov  
-   Link: [https://www.nrc.gov/docs/ML2006/ML20062E230.pdf](https://www.nrc.gov/docs/ML2006/ML20062E230.pdf)  
+   Link: <a href="https://www.nrc.gov/docs/ML2006/ML20062E230.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2006/ML20062E230.pdf</a>  
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=FFkhH7t7e0w](https://www.youtube.com/watch?v=FFkhH7t7e0w)  
+   Link: <a href="https://www.youtube.com/watch?v=FFkhH7t7e0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FFkhH7t7e0w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Drop in the bucket:&#x27; Arkansas UFO researchers, skeptic respond to latest Pentagon release...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
    Title: What happened in the Devil's Den, Arkansas UFO incident?  
-   Link: [https://www.youtube.com/watch?v=6AvBnKZUb2g](https://www.youtube.com/watch?v=6AvBnKZUb2g)  
+   Link: <a href="https://www.youtube.com/watch?v=6AvBnKZUb2g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6AvBnKZUb2g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Interview USAF (1966)...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NASASpaceAlerts/posts/meteorsighting-a-fireball-was-observed-by-witnesses-in-arkansas-louisiana-missis/1340123481482738/](https://www.facebook.com/NASASpaceAlerts/posts/meteorsighting-a-fireball-was-observed-by-witnesses-in-arkansas-louisiana-missis/1340123481482738/)  
+   Link: <a href="https://www.facebook.com/NASASpaceAlerts/posts/meteorsighting-a-fireball-was-observed-by-witnesses-in-arkansas-louisiana-missis/1340123481482738/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASASpaceAlerts/posts/meteorsighting-a-fireball-was-observed-by-witnesses-in-arkansas-louisiana-missis/1340123481482738/</a>  
 
 42. <a id="endnote-42"></a>
    Source: katv.com  
-   Link: [https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft](https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft)  
+   Link: <a href="https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft" target="_blank" rel="noopener noreferrer nofollow">https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft</a>  
 
 43. <a id="endnote-43"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin](https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin)  
+   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
 44. <a id="endnote-44"></a>
    Source: innoftheozarks.com  
-   Link: [https://www.innoftheozarks.com/events/eureka-springs/37th-annual-ozark-mountain-ufo-conference](https://www.innoftheozarks.com/events/eureka-springs/37th-annual-ozark-mountain-ufo-conference)  
+   Link: <a href="https://www.innoftheozarks.com/events/eureka-springs/37th-annual-ozark-mountain-ufo-conference" target="_blank" rel="noopener noreferrer nofollow">https://www.innoftheozarks.com/events/eureka-springs/37th-annual-ozark-mountain-ufo-conference</a>  
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/](https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/)  
+   Link: <a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
 
 46. <a id="endnote-46"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/eyewitnessnewslocal/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/292475710100831/](https://www.facebook.com/eyewitnessnewslocal/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/292475710100831/)  
+   Link: <a href="https://www.facebook.com/eyewitnessnewslocal/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/292475710100831/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eyewitnessnewslocal/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/292475710100831/</a>

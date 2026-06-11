@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /minnesota-60590f-sighting-hotspots/
 description: Focused pages that expand on Hotspots.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Minnesota_60590f_sighting_hotspots_eafece
-parent_title: Hotspots | What Really Happened in Minnesota's Skies?
+parent_title: Hotspots
 parent_nav_short_title: Hotspots
 parent_permalink: /hotspots-f7f5aa/
 ---

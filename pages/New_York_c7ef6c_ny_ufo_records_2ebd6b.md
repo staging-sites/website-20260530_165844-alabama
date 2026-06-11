@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-new-yorks-ufo/
 nav_short_title: Records
 title: What Do New York UFO Records Prove?
-title_full: What Do New York UFO Records Prove? | New York UFOs
+title_full: What Do New York UFO Records Prove?
 display_title_short: Records
 display_title: Records
 heading_title: What Do New York UFO Records Prove?
@@ -262,8 +262,7 @@ image: /assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b-overview-social.jpg
 
 ## Introduction
 
-[New York]({{ 'what-really-happened-in-new-yorks-ufo/' | relative_url }})’s UFO records prove something narrower, but still useful, than the most dramatic claims usually suggest. They show that the state has produced a large, long-running stream of reports: civilian database entries, Air Force-era case files, local clusters, aircraft-adjacent accounts, and occasional reports tied to sensitive places such as airports, rivers, military sites, and nuclear facilities. They do not prove that unidentified objects were extraterrestrial craft.
-
+New York’s UFO records prove something narrower, but still useful, than the most dramatic claims usually suggest. They show that the state has produced a large, long-running stream of reports: civilian database entries, Air Force-era case files, local clusters, aircraft-adjacent accounts, and occasional reports tied to sensitive places such as airports, rivers, military sites, and nuclear facilities. They do not prove that unidentified objects were extraterrestrial craft.
 
 <img src="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b-overview.webp" | relative_url }}" alt="Overview image for Records" loading="eager" decoding="sync" fetchpriority="high">
 The best way to read New York’s UFO record is as a layered reporting history. NUFORC helps show where and when people reported unusual things in the sky. Project Blue Book and related Air Force files show how federal investigators once sorted cases, what they could explain, and where their own limits lay. Modern UAP reporting adds a further caution: official interest has returned mainly because of air safety, national security, and poor-quality data, not because public databases have settled the mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -278,8 +277,7 @@ New York’s high count is also unsurprising when the state’s geography is con
 
 The most reader-useful takeaway is simple: a large database total tells us that New Yorkers report UFOs often. It does not tell us that New York has thousands of unexplained events of equal quality. The entries need to be sorted by witness detail, duration, number of observers, weather, direction, astronomical conditions, aircraft traffic, available photographs or video, and whether an investigator checked the case against known causes.
 
-
-<img src="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b-Illustration-1-light.svg" | relative_url }}" alt="Records illustration 1" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b-Illustration-1-dark.svg" | relative_url }}" alt="Records illustration 1" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## NUFORC is a map of reports, not a verdict
 
 NUFORC’s strength is breadth. It captures reports that would otherwise vanish: a witness in a small town, a driver on a parkway, a family in a suburb, or someone watching the sky from a city street. For New York UFO history, that matters because many famous state-level narratives, from Hudson Valley-style light formations to river-corridor sightings, depend on repeated public reporting rather than a single official document.
@@ -299,7 +297,6 @@ The archive is substantial. The National Archives describes approximately 37 cub
 Project Blue Book’s own limits are just as important as its existence. The US Air Force says that from 1947 to 1969 it investigated 12,618 sightings, of which 701 remained “unidentified”. Its official conclusions were that no investigated UFO showed a threat to national security, no evidence demonstrated technology beyond modern scientific knowledge, and no evidence showed that unidentified sightings were extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
 For New York readers, that creates a useful distinction. A Blue Book file may be more official than a modern civilian database entry, but “official” does not automatically mean “strong”. Some files contain limited witness statements, sparse weather checks, incomplete follow-up, or conclusions shaped by the priorities of Cold War air defence. The record can be historically valuable even when it is not scientifically decisive.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qhSnVezpJDk" title="New Pentagon UFO Memo reveals confusion, security concerns | New York Post" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qhSnVezpJDk" target="_blank" rel="noopener noreferrer">New Pentagon UFO Memo reveals confusion, security concerns | New York Post</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 75.9K &middot; Uploaded: June 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qhSnVezpJDk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qhSnVezpJDk">Open on YouTube</a></p></div></div></div>
 
@@ -323,8 +320,7 @@ Air Force Office of Special Investigations history adds further context. It says
 
 That context helps explain why a New York case in an Air Force file should be read as part of a defence-era reporting system. The state’s airports, military installations, industrial sites, coastlines, and border-region skies made some reports worth logging even if investigators suspected balloons, aircraft, astronomical objects, or misperception. Official attention meant “this was worth checking”, not “this was beyond explanation”.
 
-
-<img src="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b-Illustration-2-light.svg" | relative_url }}" alt="Records illustration 2" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b-Illustration-2-dark.svg" | relative_url }}" alt="Records illustration 2" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Modern UAP records reinforce the same caution
 
 Modern official language has shifted from “UFO” to “UAP”, often meaning “unidentified anomalous phenomena”. The change has made reporting sound more technical, but the core evidence problem remains familiar: there are many reports, some sincere and potentially important, but much of the data is too incomplete to support firm conclusions.
@@ -335,14 +331,12 @@ AARO, the All-domain Anomaly Resolution Office, now leads the US government’s 
 
 AARO’s historical review is also relevant to older New York records because it revisits the same pattern found in Blue Book: many reports are resolved as ordinary objects or phenomena, some remain unresolved, and unresolved cases are not automatically evidence of extraterrestrial technology. Reuters reported AARO’s 2024 conclusion that investigations since the Second World War had found no evidence of extraterrestrial technology, while also noting that better-quality data would probably resolve many unidentified cases as ordinary objects or phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Pentagon UFO report says most sightings &#x27;ordinary objects&#x27; and phenomena</span><span class="citation-popover-snippet">Pentagon UFO report says most sightings &#x27;ordinary objects&#x27; and phenomena</span></span></span>
 
-
-<img src="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b-Illustration-3-light.svg" | relative_url }}" alt="Records illustration 3" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b-Illustration-3-dark.svg" | relative_url }}" alt="Records illustration 3" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_ny_ufo_records_2ebd6b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read New York UFO records without fooling yourself
 
 The most useful question is not “How many New York UFO reports are there?” but “Which reports survive careful sorting?” A strong case should not rely only on a dramatic description. It should have enough detail for independent checking.
 
 A sensible reading method looks for several things at once:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -360,7 +354,6 @@ This matters in New York because many striking categories overlap. A triangle of
 
 The most credible unresolved records are usually not the most colourful ones. They are the ones with enough ordinary detail to exclude ordinary explanations. A brief claim of impossible speed or size is less useful than a less dramatic report with exact time, compass direction, multiple witnesses, and corroborating records.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UANyYAtCx5c" title="&#x27;Project Blue Book&#x27; focuses on Northwestern professor&#x27;s role in investigating UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UANyYAtCx5c" target="_blank" rel="noopener noreferrer">&#x27;Project Blue Book&#x27; focuses on Northwestern professor&#x27;s role in investigating UFOs</a></p><p class="youtube-embed-meta">Channel: ABC 7 Chicago &middot; Views: 3.5K &middot; Uploaded: January 2019 &middot; Length: 2 minutes 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UANyYAtCx5c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UANyYAtCx5c">Open on YouTube</a></p></div></div></div>
 
 ## What the records prove about New York’s UFO history
@@ -371,9 +364,7 @@ The records are still valuable. They help identify where New York’s UFO cultur
 
 For the New York branch of UFO history, the strongest conclusion is therefore balanced. The state’s records are too large and persistent to dismiss as nothing, but too uneven and weakly verified to treat as proof of extraordinary craft. They are best understood as a public and official archive of uncertainty: thousands of moments when witnesses saw something they could not identify, and a smaller number of cases where the paper trail is strong enough to deserve careful, case-by-case attention.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HhLI6W15nQU" title="UFOs In American Culture: A History Of Intrigue And Denial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HhLI6W15nQU" target="_blank" rel="noopener noreferrer">UFOs In American Culture: A History Of Intrigue And Denial</a></p><p class="youtube-embed-meta">Channel: Connecticut Public Podcasts &middot; Views: 78 &middot; Uploaded: September 2024 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HhLI6W15nQU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HhLI6W15nQU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -461,7 +452,7 @@ For the New York branch of UFO history, the strongest conclusion is therefore ba
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -471,111 +462,36 @@ For the New York branch of UFO history, the strongest conclusion is therefore ba
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -583,15 +499,15 @@ For the New York branch of UFO history, the strongest conclusion is therefore ba
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture"><img src="https://i.ebayimg.com/images/g/IIUAAeSwQIFqIxPQ/s-l225.jpg" alt="Listing image for Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Ufo Gestural Art Canvas Wall Art Print Framed Home Decor Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -599,15 +515,15 @@ For the New York branch of UFO history, the strongest conclusion is therefore ba
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW"><img src="https://i.ebayimg.com/images/g/2CYAAOSwbhVgJDbB/s-l225.jpg" alt="Listing image for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -615,15 +531,15 @@ For the New York branch of UFO history, the strongest conclusion is therefore ba
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/sLkAAOSwaNVmMAOe/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -631,7 +547,7 @@ For the New York branch of UFO history, the strongest conclusion is therefore ba
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-637b5f-what-do-new-york-ufo-records-prove-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-do-new-york-ufo-records-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -708,17 +624,31 @@ For the New York branch of UFO history, the strongest conclusion is therefore ba
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -731,42 +661,73 @@ For the New York branch of UFO history, the strongest conclusion is therefore ba
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -781,12 +742,17 @@ For the New York branch of UFO history, the strongest conclusion is therefore ba
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -797,189 +763,189 @@ For the New York branch of UFO history, the strongest conclusion is therefore ba
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 3. <a id="endnote-3"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: dni.gov  
    Title: Director of National Intelligence  
-   Link: [https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf](https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf)  
+   Link: <a href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
    Title: Reports for State NY  
-   Link: [https://nuforc.org/subndx/?id=lNY](https://nuforc.org/subndx/?id=lNY)  
+   Link: <a href="https://nuforc.org/subndx/?id=lNY" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNY</a>  
 
 6. <a id="endnote-6"></a>
    Source: docsteach.org  
-   Link: [https://docsteach.org/document/ufo-questionnaire/](https://docsteach.org/document/ufo-questionnaire/)  
+   Link: <a href="https://docsteach.org/document/ufo-questionnaire/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/ufo-questionnaire/</a>  
 
 7. <a id="endnote-7"></a>
    Source: nicap.org  
    Title: UF O Report  
-   Link: [https://www.nicap.org/reports/550518niagarafalls_report.htm](https://www.nicap.org/reports/550518niagarafalls_report.htm)  
+   Link: <a href="https://www.nicap.org/reports/550518niagarafalls_report.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/550518niagarafalls_report.htm</a>  
 
 8. <a id="endnote-8"></a>
    Source: osi.af.mil  
    Title: project blue book part 1 ufo reports  
-   Link: [https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/](https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/)  
+   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Part 1 (UFO Reports) &gt; Office of Special Investigations &gt; Display...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reuters.com  
    Title: Pentagon UFO report says most sightings 'ordinary objects' and phenomena  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lNJ](https://nuforc.org/subndx/?id=lNJ)  
+   Link: <a href="https://nuforc.org/subndx/?id=lNJ" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNJ</a>  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=197423](https://nuforc.org/sighting/?id=197423)  
+   Link: <a href="https://nuforc.org/sighting/?id=197423" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197423</a>  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=42143](https://nuforc.org/sighting/?id=42143)  
+   Link: <a href="https://nuforc.org/sighting/?id=42143" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=42143</a>  
 
 15. <a id="endnote-15"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/bluebook/51-69.htm](https://www.nicap.org/bluebook/51-69.htm)  
+   Link: <a href="https://www.nicap.org/bluebook/51-69.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/51-69.htm</a>  
 
 16. <a id="endnote-16"></a>
    Source: nicap.org  
    Title: Complete List of Project Blue Book's Unsolved Cases  
-   Link: [https://www.nicap.org/bluebook/bluelist.htm](https://www.nicap.org/bluebook/bluelist.htm)  
+   Link: <a href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/bluelist.htm</a>  
 
 17. <a id="endnote-17"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/photographs](https://www.archives.gov/research/topics/uaps/photographs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
 
 18. <a id="endnote-18"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/moving-images-and-sound](https://www.archives.gov/research/topics/uaps/moving-images-and-sound)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
 19. <a id="endnote-19"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/textual-and-microfilm](https://www.archives.gov/research/topics/uaps/textual-and-microfilm)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
 
 20. <a id="endnote-20"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 21. <a id="endnote-21"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 23. <a id="endnote-23"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 24. <a id="endnote-24"></a>
    Source: docsteach.org  
-   Link: [https://docsteach.org/document/project-blue-book-status-report-number-eight/](https://docsteach.org/document/project-blue-book-status-report-number-eight/)  
+   Link: <a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 26. <a id="endnote-26"></a>
    Source: sentientorbs.com  
    Title: NUFORC 33042  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-33042](https://sentientorbs.com/explore/sightings/NUFORC-33042)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-33042" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-33042</a>  
 
 27. <a id="endnote-27"></a>
    Source: ufodatalive.com  
    Title: new york  
-   Link: [https://www.ufodatalive.com/states/new-york/](https://www.ufodatalive.com/states/new-york/)  
+   Link: <a href="https://www.ufodatalive.com/states/new-york/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodatalive.com/states/new-york/</a>  
 
 28. <a id="endnote-28"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 29. <a id="endnote-29"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
 30. <a id="endnote-30"></a>
    Source: medium.com  
    Title: NUFOR C Geographic Data  
-   Link: [https://medium.com/%40noahhradek/nuforc-geographic-data-15b47158bc42](https://medium.com/%40noahhradek/nuforc-geographic-data-15b47158bc42)  
+   Link: <a href="https://medium.com/%40noahhradek/nuforc-geographic-data-15b47158bc42" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40noahhradek/nuforc-geographic-data-15b47158bc42</a>  
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=UANyYAtCx5c](https://www.youtube.com/watch?v=UANyYAtCx5c)  
+   Link: <a href="https://www.youtube.com/watch?v=UANyYAtCx5c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UANyYAtCx5c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Pentagon UFO Memo discussion is relevant because it highlights how modern Freedom of Information Act (FOIA) requests and official...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History  
-   Link: [https://www.youtube.com/watch?v=YvpN6Imoj44](https://www.youtube.com/watch?v=YvpN6Imoj44)  
+   Link: <a href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YvpN6Imoj44</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs In American Culture: A History Of Intrigue And Denial...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: UFOs In American Culture: A History Of Intrigue And Denial  
-   Link: [https://www.youtube.com/watch?v=HhLI6W15nQU](https://www.youtube.com/watch?v=HhLI6W15nQU)  
+   Link: <a href="https://www.youtube.com/watch?v=HhLI6W15nQU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HhLI6W15nQU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Project Blue Book&#x27; focuses on Northwestern professor&#x27;s role in investigating UFOs...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: New Pentagon UFO Memo reveals confusion, security concerns | New York Post  
-   Link: [https://www.youtube.com/watch?v=qhSnVezpJDk](https://www.youtube.com/watch?v=qhSnVezpJDk)  
+   Link: <a href="https://www.youtube.com/watch?v=qhSnVezpJDk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qhSnVezpJDk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO Hotspot in New York (Season 18) | Ancient Aliens...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: A UFO Hotspot in New York (Season 18) | Ancient Aliens  
-   Link: [https://www.youtube.com/watch?v=XKEK24q6adc](https://www.youtube.com/watch?v=XKEK24q6adc)  
+   Link: <a href="https://www.youtube.com/watch?v=XKEK24q6adc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XKEK24q6adc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 37. <a id="endnote-37"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/research/](https://mufon.com/research/)  
+   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
 
 38. <a id="endnote-38"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
 39. <a id="endnote-39"></a>
    Source: dayton247now.com  
-   Link: [https://dayton247now.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars](https://dayton247now.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars)  
+   Link: <a href="https://dayton247now.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://dayton247now.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>  
 
 40. <a id="endnote-40"></a>
    Source: wcti12.com  
-   Link: [https://wcti12.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars](https://wcti12.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars)  
+   Link: <a href="https://wcti12.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://wcti12.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>

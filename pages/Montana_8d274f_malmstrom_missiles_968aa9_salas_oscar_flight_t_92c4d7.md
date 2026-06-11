@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /malmstrom/
 nav_short_title: Salas Account
 title: Why the Salas Account Is So Contested
-title_full: Why the Salas Account Is So Contested | Malmstrom
+title_full: Why the Salas Account Is So Contested
 display_title_short: Salas Account
 display_title: Salas Account
 heading_title: Why the Salas Account Is So Contested
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:43:50'
-parent_title: Did UFOs Affect Montana's Missile Fields? | Montana UFOs
+parent_title: Did UFOs Affect Montana's Missile Fields?
 parent_permalink: /malmstrom/
 parent_nav_short_title: Malmstrom
 parent_heading_title: Did UFOs Affect Montana's Missile Fields?
@@ -250,11 +250,10 @@ image: /assets/images/Montana_8d274f_malmstrom_missiles_968aa9_salas_oscar_fligh
 
 ## Introduction
 
-Robert Salas is the single most influential witness in the public story of the [Malmstrom]({{ 'malmstrom/' | relative_url }}) missile shutdown controversy. His testimony helped turn a little-known 1967 missile malfunction in [Montana]({{ 'why-montana-became-a-ufo-landmark/' | relative_url }}) into one of the most discussed UFO-and-nuclear-weapons cases in the United States. Yet the same testimony that made the case famous is also the source of its biggest credibility problem.
+Robert Salas is the single most influential witness in the public story of the [Malmstrom]({{ 'malmstrom/' | relative_url }}) missile shutdown controversy. His testimony helped turn a little-known 1967 missile malfunction in Montana into one of the most discussed UFO-and-nuclear-weapons cases in the United States. Yet the same testimony that made the case famous is also the source of its biggest credibility problem.
 
-
-<img src="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_salas_oscar_flight_t_92c4d7-Illustration-1-light.svg" | relative_url }}" alt="Salas Account illustration 1" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_salas_oscar_flight_t_92c4d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_salas_oscar_flight_t_92c4d7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The central dispute is not simply whether unusual lights were seen near Malmstrom Air Force Base. It is whether Salas accurately remembered where and when the key missile shutdown occurred. Critics argue that his account shifted over time from the well-documented [Echo Flight shutdown]({{ 'echo-flight/' | relative_url }}) of 16 March 1967 to a separate and much less documented event involving Oscar Flight on 24 March. Supporters respond that memory errors about dates or locations do not automatically invalidate the core witness testimony. The resulting argument has become one of the most important debates in Montana UFO history because it affects how much weight can be placed on the strongest human testimony connected to the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">February 26, 2026 — A weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmst...</span><span class="citation-popover-meta">Published: February 26, 2026</span></span></span>
+<img src="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_salas_oscar_flight_t_92c4d7-Illustration-1-dark.svg" | relative_url }}" alt="Salas Account illustration 1" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_salas_oscar_flight_t_92c4d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_salas_oscar_flight_t_92c4d7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+The central dispute is not simply whether unusual lights were seen near Malmstrom Air Force Base. It is whether Salas accurately remembered where and when the key missile shutdown occurred. Critics argue that his account shifted over time from the well-documented [Echo Flight]({{ 'echo-flight/' | relative_url }}) shutdown of 16 March 1967 to a separate and much less documented event involving Oscar Flight on 24 March. Supporters respond that memory errors about dates or locations do not automatically invalidate the core witness testimony. The resulting argument has become one of the most important debates in Montana UFO history because it affects how much weight can be placed on the strongest human testimony connected to the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">February 26, 2026 — A weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmst...</span><span class="citation-popover-meta">Published: February 26, 2026</span></span></span>
 
 ## What Salas Said Happened Underground
 
@@ -266,12 +265,11 @@ Over time, Salas became a leading public advocate for the idea that unidentified
 
 The difficulty is that the details attached to the Malmstrom incident did not remain entirely stable.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x7uzLVw5HwA" title="Ex-Air Force captain on mysterious nuke incident at base during Cold War | Jesse Weber Live" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer">Ex-Air Force captain on mysterious nuke incident at base during Cold War | Jesse Weber Live</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 62.0K &middot; Uploaded: March 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x7uzLVw5HwA">Open on YouTube</a></p></div></div></div>
 
 ## The Echo Versus Oscar Flight Confusion
 
-The strongest documentary evidence in the entire Malmstrom controversy concerns [Echo Flight]({{ 'echo-flight/' | relative_url }}). Air Force records show that all ten missiles in Echo Flight lost strategic alert status on 16 March 1967. That shutdown is not based on memory decades later; it appears in official historical documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Talk%3AList_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Talk:List of UFO related hoaxes</span><span class="citation-popover-snippet">Talk:List of UFO-related hoaxesMalmstrom Air Force Base was added to this list due to that article&#x27;s discussion of the Echo Flight and...</span></span></span>
+The strongest documentary evidence in the entire Malmstrom controversy concerns Echo Flight. Air Force records show that all ten missiles in Echo Flight lost strategic alert status on 16 March 1967. That shutdown is not based on memory decades later; it appears in official historical documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Talk%3AList_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Talk:List of UFO related hoaxes</span><span class="citation-popover-snippet">Talk:List of UFO-related hoaxesMalmstrom Air Force Base was added to this list due to that article&#x27;s discussion of the Echo Flight and...</span></span></span>
 
 The problem is that Salas was not assigned to Echo Flight during that event.
 
@@ -288,18 +286,16 @@ The issue is not merely a technicality. It affects the entire structure of the c
 
 This is why sceptical investigators frequently describe the Malmstrom case as partly a chronology problem rather than simply a UFO problem.
 
-
-<img src="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_salas_oscar_flight_t_92c4d7-Illustration-2-light.svg" | relative_url }}" alt="Salas Account illustration 2" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_salas_oscar_flight_t_92c4d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_salas_oscar_flight_t_92c4d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_salas_oscar_flight_t_92c4d7-Illustration-2-dark.svg" | relative_url }}" alt="Salas Account illustration 2" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_salas_oscar_flight_t_92c4d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_salas_oscar_flight_t_92c4d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Critics Think the Distinction Matters
 
-The leading critics of Salas's account do not usually dispute that missile failures occurred at Malmstrom. Nor do they necessarily deny that unusual lights were reported around the region during March 1967. Instead, they focus on whether later narratives merged separate events into a single dramatic story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">ScribdEcho Flight: UFO Hoax Analysis | PDFThis article evaluates new information that supports the author&#x27;s claim that UFOs did not inter...</span></span></span>
+The leading critics of Salas's account do not usually dispute that missile failures occurred at Malmstrom. Nor do they necessarily deny that unusual lights were reported around the region during March 1967. Instead, they focus on whether later narratives merged separate events into a single dramatic story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Echo Flight: UFO Hoax Analysis &#124; PDFThis article evaluates new information that supports the author&#x27;s claim that UFOs did not inter...</span></span></span>
 
-One criticism is that memories recorded decades after an event can absorb information from books, media coverage and conversations with other witnesses. By the time Salas began publicly discussing the case in detail during the 1990s and 2000s, the Echo Flight shutdown had already become the best-known documented missile failure at Malmstrom. Critics argue that this may have encouraged an unconscious blending of separate incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">ScribdEcho Flight: UFO Hoax Analysis | PDFThis article evaluates new information that supports the author&#x27;s claim that UFOs did not inter...</span></span></span>
+One criticism is that memories recorded decades after an event can absorb information from books, media coverage and conversations with other witnesses. By the time Salas began publicly discussing the case in detail during the 1990s and 2000s, the Echo Flight shutdown had already become the best-known documented missile failure at Malmstrom. Critics argue that this may have encouraged an unconscious blending of separate incidents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Echo Flight: UFO Hoax Analysis &#124; PDFThis article evaluates new information that supports the author&#x27;s claim that UFOs did not inter...</span></span></span>
 
 Another criticism concerns witness corroboration. Some former missile personnel associated with the original events have disputed parts of the later UFO narrative. Researchers such as James Carlson have argued that documentary records and witness testimony do not support the strongest versions of the claim that UFOs disabled missiles. Carlson's work is controversial among UFO researchers, but it became influential because it concentrated on timelines, personnel assignments and technical documentation rather than on broader arguments about extraterrestrial life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unexplained-mysteries.com/column.php?id=195390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[Unexplained Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-title">Unexplained Mysteries James Carlson</span><span class="citation-popover-snippet">Unexplained MysteriesJames Carlson - Echo flights of fantasy - part one25 Nov 2010 — Both Robert Hastings and Robert Salas expect the wor...</span></span></span>
 
 For sceptics, the Oscar Flight issue demonstrates how a real military malfunction can become attached to a more dramatic explanation over time. In this interpretation, the missile shutdown remains genuine, but the UFO connection grows stronger in retelling than it was in the original records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Talk%3AList_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Talk:List of UFO related hoaxes</span><span class="citation-popover-snippet">Talk:List of UFO-related hoaxesMalmstrom Air Force Base was added to this list due to that article&#x27;s discussion of the Echo Flight and...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8SOhY_7siRo" title="Real UFO Encounters That Will Give You Chills | Close Encounters 101" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8SOhY_7siRo" target="_blank" rel="noopener noreferrer">Real UFO Encounters That Will Give You Chills | Close Encounters 101</a></p><p class="youtube-embed-meta">Channel: SpaceRip &middot; Views: 36.3K &middot; Uploaded: October 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8SOhY_7siRo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8SOhY_7siRo">Open on YouTube</a></p></div></div></div>
 
@@ -309,12 +305,11 @@ The weaknesses in the chronology do not automatically eliminate the value of Sal
 
 One reason the case continues to attract attention is that Salas was not the only former military figure to speak about unusual events around nuclear installations. Other veterans interviewed by researchers such as Robert Hastings have described sightings, alerts or security concerns involving missile sites. Supporters argue that these overlapping accounts suggest a broader pattern that should not be dismissed simply because one witness's timeline became disputed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-There is also a practical historical point. Cold War missile operations were highly secretive. Not every event generated a complete public paper trail, and not every document survived. Some researchers therefore argue that the absence of a clear Oscar Flight record cannot be treated as absolute proof that nothing unusual happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meer.com">[Meer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meer.com</span><span class="citation-popover-title">74766 the malmstrom nuclear ufo incident 1967 returns</span><span class="citation-popover-snippet">MeerThe Malmstrom nuclear UFO incident (1967) returns23 Jul 2023 — US Air Force ICBM launch officer Robert Salas told of his encounter wi...</span></span></span>
+There is also a practical historical point. Cold War missile operations were highly secretive. Not every event generated a complete public paper trail, and not every document survived. Some researchers therefore argue that the absence of a clear Oscar Flight record cannot be treated as absolute proof that nothing unusual happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meer.com">[Meer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meer.com</span><span class="citation-popover-title">74766 the malmstrom nuclear ufo incident 1967 returns</span><span class="citation-popover-snippet">The Malmstrom nuclear UFO incident (1967) returns23 Jul 2023 — US Air Force ICBM launch officer Robert Salas told of his encounter wi...</span></span></span>
 
-Even some observers who reject the stronger UFO conclusions acknowledge that veteran testimony remains important evidence. Human recollection can be flawed while still preserving elements of a real event. The question becomes which parts of the memory are reliable and which parts may have shifted over decades of retelling. That is a more complicated judgement than simply deciding whether a witness is truthful or dishonest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/842" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">SkeptoidThe Day the UFO Deactivated the Nukes26 Jul 2022 — Bob Salas was a missile officer at Malmstrom for a number of years. He remembe...</span></span></span>
+Even some observers who reject the stronger UFO conclusions acknowledge that veteran testimony remains important evidence. Human recollection can be flawed while still preserving elements of a real event. The question becomes which parts of the memory are reliable and which parts may have shifted over decades of retelling. That is a more complicated judgement than simply deciding whether a witness is truthful or dishonest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/842" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Day the UFO Deactivated the Nukes26 Jul 2022 — Bob Salas was a missile officer at Malmstrom for a number of years. He remembe...</span></span></span>
 
-
-<img src="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_salas_oscar_flight_t_92c4d7-Illustration-3-light.svg" | relative_url }}" alt="Salas Account illustration 3" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_salas_oscar_flight_t_92c4d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_salas_oscar_flight_t_92c4d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_salas_oscar_flight_t_92c4d7-Illustration-3-dark.svg" | relative_url }}" alt="Salas Account illustration 3" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_salas_oscar_flight_t_92c4d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_malmstrom_missiles_968aa9_salas_oscar_flight_t_92c4d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Salas Debate Remains Central to Montana UFO History
 
 The Oscar Flight problem sits at the centre of the Malmstrom controversy because it exposes the gap between documented events and remembered events.
@@ -323,9 +318,7 @@ On one side stands a confirmed missile shutdown at Echo Flight, supported by mil
 
 That tension explains why the case remains unresolved rather than conclusively proved or conclusively debunked. The strongest physical evidence concerns a missile malfunction. The strongest witness testimony concerns an event whose chronology and location remain disputed. As a result, the Malmstrom story continues to occupy an unusual place in Montana UFO history: significant enough to resist easy dismissal, yet uncertain enough to resist confident conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unexplained-mysteries.com/column.php?id=195390" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained-mysteries.com">[Unexplained Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained-mysteries.com</span><span class="citation-popover-title">Unexplained Mysteries James Carlson</span><span class="citation-popover-snippet">Unexplained MysteriesJames Carlson - Echo flights of fantasy - part one25 Nov 2010 — Both Robert Hastings and Robert Salas expect the wor...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/10n29IRC8OU" title="1967 Malmstrom Air Force Base Missile Incident w/ Robert Salas - We Are Not Alone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=10n29IRC8OU" target="_blank" rel="noopener noreferrer">1967 Malmstrom Air Force Base Missile Incident w/ Robert Salas - We Are Not Alone</a></p><p class="youtube-embed-meta">Channel: Queen City News &middot; Views: 3.3K &middot; Uploaded: April 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=10n29IRC8OU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=10n29IRC8OU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -749,99 +742,99 @@ That tension explains why the case remains unresolved rather than conclusively p
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Malmstrom_UFO_incident](https://en.wikipedia.org/wiki/Malmstrom_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 26, 2026 — A weapons failure at a Montana nuclear missile complex in 1967 was connected to reports of a UFO sighting over Malmst...</p></details>
    Published: February 26, 2026  
 
 2. <a id="endnote-2"></a>
    Source: usafaclasses.org  
-   Link: [https://www.usafaclasses.org/1964/Salas_Robert/history.htm](https://www.usafaclasses.org/1964/Salas_Robert/history.htm)  
+   Link: <a href="https://www.usafaclasses.org/1964/Salas_Robert/history.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.usafaclasses.org/1964/Salas_Robert/history.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob&#x27;s HistoryOn March 24, 1967 I was on duty at the Oscar Flight (Launch Control Center), located near Roy, MT. There were just two of us...</p></details>
    Published: March 24, 1967  
 
 3. <a id="endnote-3"></a>
    Source: unexplained-mysteries.com  
    Title: Unexplained Mysteries James Carlson  
-   Link: [https://www.unexplained-mysteries.com/column.php?id=195390](https://www.unexplained-mysteries.com/column.php?id=195390)  
+   Link: <a href="https://www.unexplained-mysteries.com/column.php?id=195390" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/column.php?id=195390</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained MysteriesJames Carlson - [Echo flights](&amp;#123;&amp;#123; &#x27;echo-flight/&#x27; | relative_url &amp;#125;&amp;#125;) of fantasy - part one25 Nov 2010 — Both Robert Hastings and Robert Salas expect the wor...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson](https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribdEcho Flight: UFO Hoax Analysis | PDFThis article evaluates new information that supports the author&#x27;s claim that UFOs did not inter...</p></details>
+   Link: <a href="https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/42303580/Echo-Flights-of-Fantasy-Anatomy-of-a-UFO-Hoax-by-James-Carlson</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Echo Flight: UFO Hoax Analysis | PDFThis article evaluates new information that supports the author&#x27;s claim that UFOs did not inter...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: skeptoid.com  
-   Link: [https://skeptoid.com/episodes/842](https://skeptoid.com/episodes/842)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkeptoidThe Day the UFO Deactivated the Nukes26 Jul 2022 — Bob Salas was a missile officer at Malmstrom for a number of years. He remembe...</p></details>
+   Link: <a href="https://skeptoid.com/episodes/842" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/842</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Day the UFO Deactivated the Nukes26 Jul 2022 — Bob Salas was a missile officer at Malmstrom for a number of years. He remembe...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: meer.com  
    Title: 74766 the malmstrom nuclear ufo incident 1967 returns  
-   Link: [https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns](https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MeerThe Malmstrom nuclear UFO incident (1967) returns23 Jul 2023 — US Air Force ICBM launch officer Robert Salas told of his encounter wi...</p></details>
+   Link: <a href="https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/74766-the-malmstrom-nuclear-ufo-incident-1967-returns</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom nuclear UFO incident (1967) returns23 Jul 2023 — US Air Force ICBM launch officer Robert Salas told of his encounter wi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Talk:List of UFO related hoaxes  
-   Link: [https://en.wikipedia.org/wiki/Talk%3AList_of_UFO-related_hoaxes](https://en.wikipedia.org/wiki/Talk%3AList_of_UFO-related_hoaxes)  
+   Link: <a href="https://en.wikipedia.org/wiki/Talk%3AList_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Talk%3AList_of_UFO-related_hoaxes</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Talk:List of UFO-related hoaxesMalmstrom Air Force Base was added to this list due to that article&#x27;s discussion of the Echo Flight and...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715](https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715)  
+   Link: <a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1166clb/criticisms_against_robert_salas_maelstrom_afb/](https://www.reddit.com/r/UFOs/comments/1166clb/criticisms_against_robert_salas_maelstrom_afb/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1166clb/criticisms_against_robert_salas_maelstrom_afb/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1166clb/criticisms_against_robert_salas_maelstrom_afb/</a>  
 
 10. <a id="endnote-10"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409](https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409)  
+   Link: <a href="https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chantern15/malmstrom-airforce-base-ufos-9bcf40f8d409</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom EffectCaptain Robert Salas, a nuclear launch control officer at Malmstrom Air Force Base had his statement about UFOs inter...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/](https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkUFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle...13 Mar 2014 — Bob Salas was a missile officer at Malmstrom for a number...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle...13 Mar 2014 — Bob Salas was a missile officer at Malmstrom for a number...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: 1966 malmstrom air force base montanaus air force missile officer robert salas s  
-   Link: [https://www.facebook.com/Ancientspook/posts/1966-malmstrom-air-force-base-montanaus-air-force-missile-officer-robert-salas-s/948309221703685/](https://www.facebook.com/Ancientspook/posts/1966-malmstrom-air-force-base-montanaus-air-force-missile-officer-robert-salas-s/948309221703685/)  
+   Link: <a href="https://www.facebook.com/Ancientspook/posts/1966-malmstrom-air-force-base-montanaus-air-force-missile-officer-robert-salas-s/948309221703685/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Ancientspook/posts/1966-malmstrom-air-force-base-montanaus-air-force-missile-officer-robert-salas-s/948309221703685/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Malmstrom Air Force Base, Montana. U.S....27 Jan 2026 — Looks like Malmstrom AFB (Nuclear Missile Site) was buzzed by UFO&#x27;s in 1975, as...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1jhcf9o/robert_salas_says_aliens_extracted_his_semen/](https://www.reddit.com/r/UFOs/comments/1jhcf9o/robert_salas_says_aliens_extracted_his_semen/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1jhcf9o/robert_salas_says_aliens_extracted_his_semen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1jhcf9o/robert_salas_says_aliens_extracted_his_semen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Salas, who saw ICBM missiles he was responsible for suddenly shut down by a UFO on Mar. 24, 1967, at Malmstrom AFB...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=x7uzLVw5HwA](https://www.youtube.com/watch?v=x7uzLVw5HwA)  
+   Link: <a href="https://www.youtube.com/watch?v=x7uzLVw5HwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7uzLVw5HwA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Air Force captain on mysterious nuke incident at base...Retired U.S. Air Force launch officer Captain Robert Salas joins NewsNation t...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: thesun.co.uk  
    Title: former air force veteran ufo sighting nuclear missiles  
-   Link: [https://www.thesun.co.uk/news/38548201/former-air-force-veteran-ufo-sighting-nuclear-missiles/](https://www.thesun.co.uk/news/38548201/former-air-force-veteran-ufo-sighting-nuclear-missiles/)  
+   Link: <a href="https://www.thesun.co.uk/news/38548201/former-air-force-veteran-ufo-sighting-nuclear-missiles/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/38548201/former-air-force-veteran-ufo-sighting-nuclear-missiles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force veteran recalls horrifying moment &#x27;UFOs shut...17 Mar 2026 — Robert Salas said 20 Minuteman I intercontinental ballistic missi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/UnexplainedMysteriousUniverse/posts/story-of-man-who-claims-aliens-once-shut-down-10-nuclear-missiles-to-prevent-nuc/1581542977310457/](https://www.facebook.com/UnexplainedMysteriousUniverse/posts/story-of-man-who-claims-aliens-once-shut-down-10-nuclear-missiles-to-prevent-nuc/1581542977310457/)  
+   Link: <a href="https://www.facebook.com/UnexplainedMysteriousUniverse/posts/story-of-man-who-claims-aliens-once-shut-down-10-nuclear-missiles-to-prevent-nuc/1581542977310457/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnexplainedMysteriousUniverse/posts/story-of-man-who-claims-aliens-once-shut-down-10-nuclear-missiles-to-prevent-nuc/1581542977310457/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ana, in 1967, said he was working as a deputy missile combat crew...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Title: looking for official foia documentation regarding  
-   Link: [https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/](https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1dvt3m2/looking_for_official_foia_documentation_regarding/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It took place in Montana, USA, in March 1967. Multiple credible witnesses, most notably Captain Robert Salas, reported that unidentified...</p></details>
    Published: March 1967  
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/](https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1535uo2/malmstrom_airbase_ufo_incident_witness_robert/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t a site a short distance away, Oscar Flight rather than Echo...Read more...</p></details>

@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /report-patterns-e978fd/
 nav_short_title: Coastal clusters
 title: Why do coastal Rhode Island sightings cluster?
-title_full: Why do coastal Rhode Island sightings cluster? | Report Patterns
+title_full: Why do coastal Rhode Island sightings cluster?
 display_title_short: Coastal clusters
 display_title: Coastal clusters
 heading_title: Why do coastal Rhode Island sightings cluster?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:09:43'
-parent_title: What Rhode Island's UFO Reports Have In Common | Rhode Island UFOs
+parent_title: What Rhode Island's UFO Reports Have In Common
 parent_permalink: /report-patterns-e978fd/
 parent_nav_short_title: Report Patterns
 parent_heading_title: What Rhode Island's UFO Reports Have In Common
@@ -250,18 +250,16 @@ image: /assets/images/Rhode_Island_b30a18_nuforc_report_patter_d5b56d_washington
 
 ## Introduction
 
-Southern [Rhode Island]({{ 'what-rhode-islands-ufo-reports-really/' | relative_url }}) appears unusually prominent in many public UFO databases, especially around Washington County communities such as Narragansett, South Kingstown, Charlestown, Westerly, Weekapaug and Hopkinton. On a simple map of reports, the area can look like a genuine hotspot. Yet the same geography that generates striking sightings also creates strong reporting biases. Long ocean horizons, dark beaches, bay-facing viewpoints and a culture of outdoor coastal observation make unusual lights easier to notice and more likely to be reported than in heavily built-up inland areas.
+Southern Rhode Island appears unusually prominent in many public UFO databases, especially around Washington County communities such as Narragansett, South Kingstown, Charlestown, Westerly, Weekapaug and Hopkinton. On a simple map of reports, the area can look like a genuine hotspot. Yet the same geography that generates striking sightings also creates strong reporting biases. Long ocean horizons, dark beaches, bay-facing viewpoints and a culture of outdoor coastal observation make unusual lights easier to notice and more likely to be reported than in heavily built-up inland areas.
 
-
-<img src="{{ "/assets/images/Rhode_Island_b30a18_nuforc_report_patter_d5b56d_washington_county_cl_2a77eb-Illustration-1-light.svg" | relative_url }}" alt="Coastal clusters illustration 1" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_nuforc_report_patter_d5b56d_washington_county_cl_2a77eb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_nuforc_report_patter_d5b56d_washington_county_cl_2a77eb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That does not mean every coastal report is misidentified. Some Washington County cases remain unexplained because the available information is too limited to reach a firm conclusion. The key point is that report clusters are not the same thing as anomaly clusters. A concentration of sightings may reflect where people have the best opportunity to watch the sky, not necessarily where unusual objects are most common. Understanding that distinction is essential when interpreting Rhode Island's UFO history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lRI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC Reports for State RINUFORC Reports for State RI.; Open, 02/16/2026 17:11, Providence, RI, USA; Open, 11/13/2025 18:20, War...</span></span></span>
+<img src="{{ "/assets/images/Rhode_Island_b30a18_nuforc_report_patter_d5b56d_washington_county_cl_2a77eb-Illustration-1-dark.svg" | relative_url }}" alt="Coastal clusters illustration 1" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_nuforc_report_patter_d5b56d_washington_county_cl_2a77eb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_nuforc_report_patter_d5b56d_washington_county_cl_2a77eb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+That does not mean every coastal report is misidentified. Some Washington County cases remain unexplained because the available information is too limited to reach a firm conclusion. The key point is that report clusters are not the same thing as anomaly clusters. A concentration of sightings may reflect where people have the best opportunity to watch the sky, not necessarily where unusual objects are most common. Understanding that distinction is essential when interpreting Rhode Island's UFO history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lRI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State RINUFORC Reports for State RI.; Open, 02/16/2026 17:11, Providence, RI, USA; Open, 11/13/2025 18:20, War...</span></span></span>
 
 ## What town and county counts suggest
 
-When Rhode Island sightings are ranked by municipality, several southern coastal communities appear surprisingly high relative to their population size. Stacker's compilation of NUFORC data placed South Kingstown among the state's leading reporting locations, while Narragansett also ranked prominently despite being far smaller than Providence or Warwick. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/rhode-island/cities-most-ufo-sightings-rhode-island" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">cities most ufo sightings rhode island</span><span class="citation-popover-snippet">StackerCities With the Most UFO Sightings in Rhode Island12 May 2025 — Stacker compiled a ranking of cities with the most UFO sightings i...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+When Rhode Island sightings are ranked by municipality, several southern coastal communities appear surprisingly high relative to their population size. Stacker's compilation of NUFORC data placed South Kingstown among the state's leading reporting locations, while Narragansett also ranked prominently despite being far smaller than Providence or Warwick. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/rhode-island/cities-most-ufo-sightings-rhode-island" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">cities most ufo sightings rhode island</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Rhode Island12 May 2025 — Stacker compiled a ranking of cities with the most UFO sightings i...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 Viewed at county level, Washington County stands out because it combines several factors that encourage reporting:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -284,8 +282,7 @@ The most important feature of southern Rhode Island is not the number of reports
 
 A person standing on Narragansett Beach, East Matunuck, Watch Hill or a Charlestown shoreline can look across miles of dark water with very few foreground reference points. Ordinary objects can therefore appear unfamiliar in ways that rarely happen in suburban neighbourhoods.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RWNQY2y19QU" title="Chris Lehto - A Pilot&#x27;s Perspective on UFO&#x27;s, Spy balloons &amp; more || That UFO Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RWNQY2y19QU" target="_blank" rel="noopener noreferrer">Chris Lehto - A Pilot&#x27;s Perspective on UFO&#x27;s, Spy balloons &amp; more || That UFO Podcast</a></p><p class="youtube-embed-meta">Channel: That UFO Podcast &middot; Views: 5.7K &middot; Uploaded: February 2023 &middot; Length: 1 hour 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RWNQY2y19QU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RWNQY2y19QU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/er1mh90wN-k" title="Hovering Boats are Usually Not Mirages, they are beyond False Horizons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=er1mh90wN-k" target="_blank" rel="noopener noreferrer">Hovering Boats are Usually Not Mirages, they are beyond False Horizons</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 27.5K &middot; Uploaded: March 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=er1mh90wN-k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=er1mh90wN-k">Open on YouTube</a></p></div></div></div>
 
 ### Distance becomes difficult to judge
 
@@ -301,7 +298,6 @@ The atmosphere close to the horizon is visually complex. Moisture, haze, tempera
 
 Coastal observers often report:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Colour changes from white to orange or red.
@@ -312,10 +308,9 @@ Coastal observers often report:
 
 </div>
 
-Such descriptions recur throughout Rhode Island sighting reports, particularly those involving distant lights rather than close encounters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=68466" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 68466August 20, 2023 — We spotted a tiny boomerang shaped object with five greenish blue lights hovering what l...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+Such descriptions recur throughout Rhode Island sighting reports, particularly those involving distant lights rather than close encounters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=68466" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 68466August 20, 2023 — We spotted a tiny boomerang shaped object with five greenish blue lights hovering what l...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
-
-<img src="{{ "/assets/images/Rhode_Island_b30a18_nuforc_report_patter_d5b56d_washington_county_cl_2a77eb-Illustration-2-light.svg" | relative_url }}" alt="Coastal clusters illustration 2" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_nuforc_report_patter_d5b56d_washington_county_cl_2a77eb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_nuforc_report_patter_d5b56d_washington_county_cl_2a77eb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Rhode_Island_b30a18_nuforc_report_patter_d5b56d_washington_county_cl_2a77eb-Illustration-2-dark.svg" | relative_url }}" alt="Coastal clusters illustration 2" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_nuforc_report_patter_d5b56d_washington_county_cl_2a77eb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_nuforc_report_patter_d5b56d_washington_county_cl_2a77eb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Dark water makes lights look dramatic
 
 A single bright light over a dark ocean background attracts attention more readily than the same light viewed against an urban skyline.
@@ -334,8 +329,7 @@ Weekapaug and Westerly occupy a similar position. The well-known 1976 Weekapaug 
 
 These recurring place names do not necessarily indicate extraordinary activity concentrated in specific towns. They may instead reflect a concentration of good observation points.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/er1mh90wN-k" title="Hovering Boats are Usually Not Mirages, they are beyond False Horizons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=er1mh90wN-k" target="_blank" rel="noopener noreferrer">Hovering Boats are Usually Not Mirages, they are beyond False Horizons</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 27.5K &middot; Uploaded: March 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=er1mh90wN-k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=er1mh90wN-k">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bGYEQlBvJIc" title="Pentagon releases declassified UFO files detailing more than 400 incidents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bGYEQlBvJIc" target="_blank" rel="noopener noreferrer">Pentagon releases declassified UFO files detailing more than 400 incidents</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 175.2K &middot; Uploaded: May 2026 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bGYEQlBvJIc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bGYEQlBvJIc">Open on YouTube</a></p></div></div></div>
 
 ## Block Island and the offshore effect
 
@@ -347,15 +341,13 @@ One NUFORC entry from 1993 describes a Block Island experience involving multipl
 
 From an analytical perspective, Block Island demonstrates both sides of the coastal-reporting question. The island offers unusually good opportunities to notice genuine anomalies, but it also provides ideal conditions for misjudging distance, scale and movement.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bGYEQlBvJIc" title="Pentagon releases declassified UFO files detailing more than 400 incidents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bGYEQlBvJIc" target="_blank" rel="noopener noreferrer">Pentagon releases declassified UFO files detailing more than 400 incidents</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 175.2K &middot; Uploaded: May 2026 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bGYEQlBvJIc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bGYEQlBvJIc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nPGmUF6R3CY" title="Tracking Down a Tic-Tac UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nPGmUF6R3CY" target="_blank" rel="noopener noreferrer">Tracking Down a Tic-Tac UFO</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 87.3K &middot; Uploaded: November 2021 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nPGmUF6R3CY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nPGmUF6R3CY">Open on YouTube</a></p></div></div></div>
 
 ## Why report counts are not anomaly counts
 
 The strongest caution in any Rhode Island hotspot discussion is that reporting frequency and anomaly frequency are different measurements.
 
 A town can generate many UFO reports because:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -373,8 +365,7 @@ This issue appears repeatedly in wider UFO research. Analysts often find that ap
 
 For Rhode Island, Washington County is especially vulnerable to this effect because its coastal landscape naturally encourages skywatching. A person walking a beach at night is far more likely to notice an unusual light than someone indoors in a dense urban neighbourhood.
 
-
-<img src="{{ "/assets/images/Rhode_Island_b30a18_nuforc_report_patter_d5b56d_washington_county_cl_2a77eb-Illustration-3-light.svg" | relative_url }}" alt="Coastal clusters illustration 3" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_nuforc_report_patter_d5b56d_washington_county_cl_2a77eb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_nuforc_report_patter_d5b56d_washington_county_cl_2a77eb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Rhode_Island_b30a18_nuforc_report_patter_d5b56d_washington_county_cl_2a77eb-Illustration-3-dark.svg" | relative_url }}" alt="Coastal clusters illustration 3" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_nuforc_report_patter_d5b56d_washington_county_cl_2a77eb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_nuforc_report_patter_d5b56d_washington_county_cl_2a77eb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The evidence-based reading of the cluster
 
 The most defensible conclusion is not that southern Rhode Island contains a proven concentration of unexplained aerial phenomena. It is that Washington County contains a concentration of reported sightings occurring under conditions that maximise visual observation.
@@ -469,7 +460,7 @@ What makes the coastal cluster significant is therefore not the strength of any 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -479,111 +470,36 @@ What makes the coastal cluster significant is therefore not the strength of any 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display"><img src="{{ '/assets/images/marketplace-covers/27c78e3de724e607809d.jpg' | relative_url }}" alt="Listing image for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-coastal-rhode-island-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-coastal-rhode-island-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-coastal-rhode-island-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-coastal-rhode-island-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-coastal-rhode-island-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-coastal-rhode-island-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT"><img src="{{ '/assets/images/marketplace-covers/c4fa2fd111d52b7bddcf.jpg' | relative_url }}" alt="Listing image for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-coastal-rhode-island-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-coastal-rhode-island-sightings-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -591,15 +507,15 @@ What makes the coastal cluster significant is therefore not the strength of any 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-coastal-rhode-island-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-coastal-rhode-island-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-coastal-rhode-island-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-coastal-rhode-island-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-coastal-rhode-island-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-coastal-rhode-island-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-coastal-rhode-island-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-coastal-rhode-island-sightings-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -607,15 +523,15 @@ What makes the coastal cluster significant is therefore not the strength of any 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/ecc3da59eb1d0848e57f.jpg' | relative_url }}" alt="Listing image for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-coastal-rhode-island-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-coastal-rhode-island-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-coastal-rhode-island-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-coastal-rhode-island-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-coastal-rhode-island-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-coastal-rhode-island-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-coastal-rhode-island-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-coastal-rhode-island-sightings-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -623,15 +539,15 @@ What makes the coastal cluster significant is therefore not the strength of any 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-coastal-rhode-island-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-coastal-rhode-island-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-coastal-rhode-island-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-coastal-rhode-island-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-coastal-rhode-island-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-coastal-rhode-island-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-coastal-rhode-island-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-coastal-rhode-island-sightings-cluster-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -639,7 +555,7 @@ What makes the coastal cluster significant is therefore not the strength of any 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-clusters-why-do-coastal-rhode-island-sightings-cluster-rhode-island-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-coastal-rhode-island-sightings-cluster-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-do-coastal-rhode-island-sightings-cluster-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -716,17 +632,31 @@ What makes the coastal cluster significant is therefore not the strength of any 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -739,42 +669,73 @@ What makes the coastal cluster significant is therefore not the strength of any 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -789,12 +750,17 @@ What makes the coastal cluster significant is therefore not the strength of any 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -804,132 +770,132 @@ What makes the coastal cluster significant is therefore not the strength of any 
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lRI](https://nuforc.org/subndx/?id=lRI)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports for State RINUFORC Reports for State RI.; Open, 02/16/2026 17:11, Providence, RI, USA; Open, 11/13/2025 18:20, War...</p></details>
+   Link: <a href="https://nuforc.org/subndx/?id=lRI" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lRI</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State RINUFORC Reports for State RI.; Open, 02/16/2026 17:11, Providence, RI, USA; Open, 11/13/2025 18:20, War...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 3. <a id="endnote-3"></a>
    Source: stacker.com  
    Title: cities most ufo sightings rhode island  
-   Link: [https://stacker.com/stories/rhode-island/cities-most-ufo-sightings-rhode-island](https://stacker.com/stories/rhode-island/cities-most-ufo-sightings-rhode-island)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StackerCities With the Most UFO Sightings in Rhode Island12 May 2025 — Stacker compiled a ranking of cities with the most UFO sightings i...</p></details>
+   Link: <a href="https://stacker.com/stories/rhode-island/cities-most-ufo-sightings-rhode-island" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/rhode-island/cities-most-ufo-sightings-rhode-island</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cities With the Most UFO Sightings in Rhode Island12 May 2025 — Stacker compiled a ranking of cities with the most UFO sightings i...</p></details>
    Published: May 2025  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=68466](https://nuforc.org/sighting/?id=68466)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 68466August 20, 2023 — We spotted a tiny boomerang shaped object with five greenish blue lights hovering what l...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=68466" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=68466</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 68466August 20, 2023 — We spotted a tiny boomerang shaped object with five greenish blue lights hovering what l...</p></details>
    Published: August 20, 2023  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=183087](https://nuforc.org/sighting/?id=183087)  
+   Link: <a href="https://nuforc.org/sighting/?id=183087" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=183087</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 18308719 Sept 2024 — Occurred: 2024-06-29 23:21 Local; Reported: 2024-09-17 15:23 Pacific; Duration: 2 min; No of...</p></details>
    Published: June 29, 2024  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1h3gzaf/serious_data_compilation_of_recent_sightings/](https://www.reddit.com/r/aliens/comments/1h3gzaf/serious_data_compilation_of_recent_sightings/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1h3gzaf/serious_data_compilation_of_recent_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1h3gzaf/serious_data_compilation_of_recent_sightings/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Compilation of Recent Sightings (11/21-...November 30, 2024 — The water-centric pattern follows historical patterns of UFO sighting...</p></details>
    Published: November 30, 2024  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
    Title: Reports by Location USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationUSA - Rhode Island, 638. USA - South Carolina, 2395. USA - South Dakota, 435. USA... USA - Washington, 7634. U...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=92130](https://nuforc.org/sighting/?id=92130)  
+   Link: <a href="https://nuforc.org/sighting/?id=92130" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=92130</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 921308 witnesses viewed 9 ufo&#x27;s in the Rhode Island sky. At approximately 9:00 pm all 8 witness Viewed 3 red objects...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=196806](https://nuforc.org/sighting/?id=196806)  
+   Link: <a href="https://nuforc.org/sighting/?id=196806" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=196806</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 19680630 Mar 2026 — NUFORC UFO Sighting 196806. Occurred: 2026-03-26 21:10 Local Reported: 2026-03-28 15:45 Pacific D...</p></details>
    Published: March 26, 2026  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=19316](https://nuforc.org/sighting/?id=19316)  
+   Link: <a href="https://nuforc.org/sighting/?id=19316" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=19316</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 19316NUFORC UFO Sighting 19316. Occurred: 1977-07-02 20:30 Local Reported: 2001-08-29 00:00 Pacific Duration: 1min. N...</p></details>
    Published: August 29, 2001  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=187665](https://nuforc.org/sighting/?id=187665)  
+   Link: <a href="https://nuforc.org/sighting/?id=187665" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=187665</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 18766514 Feb 2025 — NUFORC UFO Sighting 187665; Occurred: 2025-02-11 20:01 Local; Reported: 2025-02-12 05:10 Pacifi...</p></details>
    Published: February 11, 2025  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=120688](https://nuforc.org/sighting/?id=120688)  
+   Link: <a href="https://nuforc.org/sighting/?id=120688" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=120688</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 120688NUFORC UFO Sighting 120688. Occurred: 2015-07-25 00:48 Local... Red and blue light UFO over Cranston, Rhode Is...</p></details>
    Published: July 25, 2015  
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
    Title: I called  
-   Link: [https://www.reddit.com/r/UFOs/comments/16u1tbt/what_the_hell_just_happened_far_off_the_coast_of/](https://www.reddit.com/r/UFOs/comments/16u1tbt/what_the_hell_just_happened_far_off_the_coast_of/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/16u1tbt/what_the_hell_just_happened_far_off_the_coast_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16u1tbt/what_the_hell_just_happened_far_off_the_coast_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What the hell just happened far off the coast of Rhode Island...As I looked up in the sky I saw a strange white light flying at very fas...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FOX10Phoenix/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1196593622674762/](https://www.facebook.com/FOX10Phoenix/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1196593622674762/)  
+   Link: <a href="https://www.facebook.com/FOX10Phoenix/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1196593622674762/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX10Phoenix/posts/a-newly-resurfaced-aviation-audio-clip-shared-online-has-drawn-attention-after-a/1196593622674762/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A newly resurfaced aviation audio clip shared online has...Rhode Island alone has logged over 1,000 UFO sightings since 2018. What&#x27;s hov...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: a routine flight over rhode island took an unsettling turn when a private pilot  
-   Link: [https://www.facebook.com/NewportBuzz/posts/-a-routine-flight-over-rhode-island-took-an-unsettling-turn-when-a-private-pilot/1452771090182410/](https://www.facebook.com/NewportBuzz/posts/-a-routine-flight-over-rhode-island-took-an-unsettling-turn-when-a-private-pilot/1452771090182410/)  
+   Link: <a href="https://www.facebook.com/NewportBuzz/posts/-a-routine-flight-over-rhode-island-took-an-unsettling-turn-when-a-private-pilot/1452771090182410/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewportBuzz/posts/-a-routine-flight-over-rhode-island-took-an-unsettling-turn-when-a-private-pilot/1452771090182410/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>🛸 A routine flight over Rhode Island took an unsettling turn...In 2004, a group of United States Navy pilots encountered an aerial objec...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Chris Lehto  
-   Link: [https://www.youtube.com/watch?v=RWNQY2y19QU](https://www.youtube.com/watch?v=RWNQY2y19QU)  
+   Link: <a href="https://www.youtube.com/watch?v=RWNQY2y19QU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RWNQY2y19QU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhode Island UFO sighting Stacker news ‘Good Luck With Aliens’: Pilot-ATC Conversation After &#x27;UFO&#x27;-Aircraft Encounter Over Rhode Island T...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: fox4news.com  
    Title: pilot reports ufo beside jet atc jokes good luck aliens  
-   Link: [https://www.fox4news.com/news/pilot-reports-ufo-beside-jet-atc-jokes-good-luck-aliens](https://www.fox4news.com/news/pilot-reports-ufo-beside-jet-atc-jokes-good-luck-aliens)  
+   Link: <a href="https://www.fox4news.com/news/pilot-reports-ufo-beside-jet-atc-jokes-good-luck-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.fox4news.com/news/pilot-reports-ufo-beside-jet-atc-jokes-good-luck-aliens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot reports UFO beside jet, ATC jokes: &#x27;Good luck with the...23 Dec 2025 — The object was reportedly seen floating near the right wing...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DXwNDDSAaGJ/](https://www.instagram.com/reel/DXwNDDSAaGJ/)  
+   Link: <a href="https://www.instagram.com/reel/DXwNDDSAaGJ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXwNDDSAaGJ/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ng in the sky before diving toward the ocean near Rhode Island and...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: patch.com  
    Title: pentagon dump ufo files add intrigue ri sightings  
-   Link: [https://patch.com/rhode-island/across-ri/pentagon-dump-ufo-files-add-intrigue-ri-sightings](https://patch.com/rhode-island/across-ri/pentagon-dump-ufo-files-add-intrigue-ri-sightings)  
+   Link: <a href="https://patch.com/rhode-island/across-ri/pentagon-dump-ufo-files-add-intrigue-ri-sightings" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/rhode-island/across-ri/pentagon-dump-ufo-files-add-intrigue-ri-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Dump Of UFO Files Add Intrigue To RI Sightings12 May 2026 — Among 2026 sightings in Rhode Island reported to NUFORC include: An...</p></details>
    Published: May 2026  
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DSqneGMDXVa/](https://www.instagram.com/reel/DSqneGMDXVa/)  
+   Link: <a href="https://www.instagram.com/reel/DSqneGMDXVa/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSqneGMDXVa/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>explained aerial objects, like this one spotted by the Coast Guard in...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AccuWeather/posts/a-mysterious-spiraling-light-spotted-in-the-night-sky-over-the-east-coast-sparke/1139805988004046/](https://www.facebook.com/AccuWeather/posts/a-mysterious-spiraling-light-spotted-in-the-night-sky-over-the-east-coast-sparke/1139805988004046/)  
+   Link: <a href="https://www.facebook.com/AccuWeather/posts/a-mysterious-spiraling-light-spotted-in-the-night-sky-over-the-east-coast-sparke/1139805988004046/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/a-mysterious-spiraling-light-spotted-in-the-night-sky-over-the-east-coast-sparke/1139805988004046/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n Tuesday, sparking widespread speculation of UFOs and...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewportBuzz/videos/-a-routine-flight-over-rhode-island-took-an-unsettling-turn-when-a-private-pilot/3267646840083402/](https://www.facebook.com/NewportBuzz/videos/-a-routine-flight-over-rhode-island-took-an-unsettling-turn-when-a-private-pilot/3267646840083402/)  
+   Link: <a href="https://www.facebook.com/NewportBuzz/videos/-a-routine-flight-over-rhode-island-took-an-unsettling-turn-when-a-private-pilot/3267646840083402/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewportBuzz/videos/-a-routine-flight-over-rhode-island-took-an-unsettling-turn-when-a-private-pilot/3267646840083402/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>did a recovery and took off straight up. I sent the Video to NUFORC...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ProvidenceJournal/posts/a-ufo-was-recently-reported-near-warren-rhode-island-how-many-other-sightings-ha/1407735110930066/](https://www.facebook.com/ProvidenceJournal/posts/a-ufo-was-recently-reported-near-warren-rhode-island-how-many-other-sightings-ha/1407735110930066/)  
+   Link: <a href="https://www.facebook.com/ProvidenceJournal/posts/a-ufo-was-recently-reported-near-warren-rhode-island-how-many-other-sightings-ha/1407735110930066/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ProvidenceJournal/posts/a-ufo-was-recently-reported-near-warren-rhode-island-how-many-other-sightings-ha/1407735110930066/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>have there been? See link below ⬇️ bit.ly/46JzDaL...</p></details>

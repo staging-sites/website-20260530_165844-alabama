@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-over-virginia/
 nav_short_title: Records
 title: Where Do Virginia UFO Claims Come From?
-title_full: Where Do Virginia UFO Claims Come From? | Virginia UFOs
+title_full: Where Do Virginia UFO Claims Come From?
 display_title_short: Records
 display_title: Records
 heading_title: Where Do Virginia UFO Claims Come From?
@@ -268,11 +268,10 @@ image: /assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64-overview-socia
 
 ## Introduction
 
-[Virginia]({{ 'what-really-happened-over-virginia/' | relative_url }})’s UFO record is less a single archive than a reporting trail: older Air Force files, later civilian databases, local news accounts, congressional testimony, aviation procedures and witness-led retellings all point to different parts of the same state-level story. That matters because a Virginia UFO claim can look strong in one source and weak in another. A short public report may preserve the date and place, while a federal file may show how investigators classified it, and a later retelling may add drama without adding evidence.
-
+Virginia’s UFO record is less a single archive than a reporting trail: older Air Force files, later civilian databases, local news accounts, congressional testimony, aviation procedures and witness-led retellings all point to different parts of the same state-level story. That matters because a Virginia UFO claim can look strong in one source and weak in another. A short public report may preserve the date and place, while a federal file may show how investigators classified it, and a later retelling may add drama without adding evidence.
 
 <img src="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64-overview.webp" | relative_url }}" alt="Overview image for Records" loading="eager" decoding="sync" fetchpriority="high">
-The safest way to read Virginia UFO history is therefore to ask where each claim came from, what was recorded at the time, and whether later records improved or merely repeated the story. Official files show that some Virginia cases entered the Cold War investigation system. Public databases show many more modern sightings, but with uneven evidence. Recent military and aviation channels show that “unidentified” now also has a practical air-safety meaning, not just a folklore meaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — Project BLUE BOOK has been declassified a...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lVA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC Reports for State VANUFORC Reports for State VA.; Open, 06/04/2025 21:30, Mechanicsville; Open, 05/30/2025 13:42, Virginia...</span></span></span>
+The safest way to read Virginia UFO history is therefore to ask where each claim came from, what was recorded at the time, and whether later records improved or merely repeated the story. Official files show that some Virginia cases entered the Cold War investigation system. Public databases show many more modern sightings, but with uneven evidence. Recent military and aviation channels show that “unidentified” now also has a practical air-safety meaning, not just a folklore meaning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — Project BLUE BOOK has been declassified a...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lVA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State VANUFORC Reports for State VA.; Open, 06/04/2025 21:30, Mechanicsville; Open, 05/30/2025 13:42, Virginia...</span></span></span>
 
 ## Why Virginia UFO records are scattered
 
@@ -290,8 +289,7 @@ Another example is the 21 December 1964 Harrisonburg–Staunton case, in which H
 
 Project Blue Book also has a built-in limitation for Virginia readers: it is historical, not current. It can help with Cold War-era cases, but it cannot explain Wytheville in 1987, Navy-linked reports off Virginia Beach in the 2010s, or drone incursions over Langley in 2023. Treating Blue Book as “the government UFO archive” without noticing its end date leads to confusion, because modern Virginia claims entered different channels altogether. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — Project BLUE BOOK has been declassified a...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan HOC Testimony</span><span class="citation-popover-snippet">Ryan HOC Testimony</span></span></span>
 
-
-<img src="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64-Illustration-1-light.svg" | relative_url }}" alt="Records illustration 1" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64-Illustration-1-dark.svg" | relative_url }}" alt="Records illustration 1" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Public reports show volume, not certainty
 
 Modern Virginia UFO reporting is dominated by public-facing databases and witness submissions. The National UFO Reporting Center, or NUFORC, maintains a state page for Virginia with reports arranged by date, location and basic descriptors such as shape and duration. Its public archive is valuable because it preserves many reports that would otherwise disappear, including recent entries from places such as Virginia Beach, Stafford, Mechanicsville and other communities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=191652" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
@@ -301,7 +299,6 @@ The weakness is that a public report is usually a starting point, not a conclusi
 Local media sometimes use NUFORC data to show broad reporting patterns. WSLS reported in July 2023 that Virginia had 2,639 NUFORC-listed sightings as of 28 July that year, with 45 reports in 2023 up to that date. Those figures help readers grasp scale, but they should not be mistaken for verified unusual events. A count of reports measures public reporting activity, not the number of unexplained aircraft, and it is affected by population, media attention, internet access, stigma, repeat submissions and the ease of filing a report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsls.com/features/2023/07/31/how-often-are-ufos-reported-in-virginia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsls.com">[WSLS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsls.com</span><span class="citation-popover-title">How often are UFOs reported in Virginia?</span><span class="citation-popover-snippet">How often are UFOs reported in Virginia?</span></span></span>
 
 This is why “cities with the most sightings” lists can be interesting but fragile. Rankings based on NUFORC data can point towards reporting clusters, but they cannot by themselves separate aircraft corridors, military training, satellites, drones, bright planets, weather effects and genuinely unresolved observations. In Virginia, where civilian air routes, coastal military operations and rural dark skies all coexist, that distinction matters more than the raw number. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/virginia/cities-most-ufo-sightings-virginia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">cities most ufo sightings virginia</span><span class="citation-popover-snippet">cities most ufo sightings virginia</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2tl4mUpgVQU" title="Eyewitness accounts of the 1987 Wytheville, Virginia, UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2tl4mUpgVQU" target="_blank" rel="noopener noreferrer">Eyewitness accounts of the 1987 Wytheville, Virginia, UFO sightings</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 36.9K &middot; Uploaded: March 2023 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2tl4mUpgVQU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2tl4mUpgVQU">Open on YouTube</a></p></div></div></div>
 
@@ -315,8 +312,7 @@ The case also shows how explanations can enter the record without closing it for
 
 Wytheville therefore belongs in Virginia UFO history not because it proves an exotic event, but because it demonstrates how a local flap becomes a layered archive: police-linked claims, radio reporting, local fear and fascination, television packaging, later podcast or web retellings, and sceptical explanations all sit on top of one another. A careful reader has to separate the earliest claims from the later mythology.
 
-
-<img src="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64-Illustration-2-light.svg" | relative_url }}" alt="Records illustration 2" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64-Illustration-2-dark.svg" | relative_url }}" alt="Records illustration 2" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Navy and aviation records changed the reporting trail
 
 Virginia’s modern UFO record is not only civilian. The most influential recent reporting trail runs through Navy pilots and aviation safety concerns around Virginia Beach. Former F/A-18 pilot Ryan Graves submitted written testimony to the House Oversight Committee in 2023 describing his Navy background and UAP concerns. Media coverage of the hearing highlighted his claim that he first began detecting unknown objects in 2014 while stationed at Virginia Beach, including a reported training incident off the coast involving an object described as a dark cube inside a clear sphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan HOC Testimony</span><span class="citation-popover-snippet">Ryan HOC Testimony</span></span></span>
@@ -326,7 +322,6 @@ This part of the Virginia record is different from classic civilian UFO lore. It
 The FAA’s more recent UAP language also matters for Virginia. FAA air traffic guidance now includes a section on “Unidentified Anomalous Phenomena (UAP) Reports”, instructing personnel to inform the operations supervisor or controller-in-charge of reported or observed UAP or unexplained phenomena activity. A related FAA notice says the terminology was updated from “UFO” to “UAP” and points to procedures for reporting UAP activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Section 8</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena (UAP...GENERAL. Inform the operations supervisor/CIC of any reported or observed unidentified anomalous...</span></span></span>
 
 AARO’s public reporting guidance adds another layer. It says civilian pilots are encouraged to report UAP sightings promptly to air traffic control, and that AARO receives UAP-related pilot reports from the FAA. For Virginia, especially around busy coastal and military airspace, that means future reports may not live only in enthusiast databases. Some may enter aviation and defence reporting systems, even if the public sees only summaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Lf6y9QHj5S8" title="Ryan Graves Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Lf6y9QHj5S8" target="_blank" rel="noopener noreferrer">Ryan Graves Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing</a></p><p class="youtube-embed-meta">Channel: C-SPAN &middot; Views: 42.2K &middot; Uploaded: July 2023 &middot; Length: 4 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Lf6y9QHj5S8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Lf6y9QHj5S8">Open on YouTube</a></p></div></div></div>
 
@@ -340,8 +335,7 @@ Langley also helps explain why federal UAP and drone discussions overlap without
 
 For Virginia UFO history, Langley should be treated as a reporting and interpretation case rather than a traditional UFO legend. It shows that some unresolved aerial reports may eventually be explained as drones or other human technology, while still deserving serious investigation because they happened near sensitive airspace.
 
-
-<img src="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64-Illustration-3-light.svg" | relative_url }}" alt="Records illustration 3" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64-Illustration-3-dark.svg" | relative_url }}" alt="Records illustration 3" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read unresolved Virginia cases carefully
 
 The most common mistake in UFO reading is treating “unexplained” as a positive claim. In Virginia’s record, an unresolved case may mean several very different things: the object performed in a genuinely puzzling way; the witness was credible but the data were incomplete; investigators lacked radar or photographic evidence; the report was too vague to evaluate; or later records have not been made public.
@@ -351,7 +345,6 @@ NASA’s independent UAP study is useful here because it emphasises data quality
 AARO’s reporting points in the same direction. Its 2024 public materials describe hundreds of reports under review and stress that better information is needed to resolve cases. Reuters reported AARO’s historical finding that it had found no evidence that any US government investigation, academic-sponsored research or official review had confirmed a UAP sighting as extraterrestrial technology, and that many unresolved cases would probably be identified with better data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">4020 uap 2024</span></span></span>
 
 A practical reading method for Virginia cases is:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -363,12 +356,11 @@ A practical reading method for Virginia cases is:
 
 </div>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qGOOoKSaqAo" title="Horace Burns &amp; William Blackburn witnessed separate UFO landings during the Virginia flap of 1964-65" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qGOOoKSaqAo" target="_blank" rel="noopener noreferrer">Horace Burns &amp; William Blackburn witnessed separate UFO landings during the Virginia flap of 1964-65</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 16.3K &middot; Uploaded: October 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qGOOoKSaqAo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qGOOoKSaqAo">Open on YouTube</a></p></div></div></div>
 
 ## What the Virginia reporting trail tells us
 
-Virginia’s UFO record is strongest when read as a chain of sources rather than a catalogue of marvels. Project Blue Book gives the state a Cold War official trail, including cases such as Norfolk in 1952 and Harrisonburg–Staunton in 1964. Wytheville gives the state a vivid civilian flap whose cultural footprint is larger than its technical evidence. NUFORC gives a broad public reporting stream, useful for spotting patterns but weak as proof. Navy and FAA-linked reporting around Virginia Beach shows how UAP language moved into aviation safety. Langley shows why unidentified aerial activity near military sites can be serious even when drones are the most likely frame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">document ID</span><span class="citation-popover-snippet">document ID</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book Unknown Case Files, Complete List</span><span class="citation-popover-snippet">The Black Vault Project Blue Book Unknown Case Files, Complete List</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Project Blue Book Unknown Case Files, Complete List</span><span class="citation-popover-snippet">The Black Vault Project Blue Book Unknown Case Files, Complete List</span></span></span>
+Virginia’s UFO record is strongest when read as a chain of sources rather than a catalogue of marvels. Project Blue Book gives the state a Cold War official trail, including cases such as Norfolk in 1952 and Harrisonburg–Staunton in 1964. Wytheville gives the state a vivid civilian flap whose cultural footprint is larger than its technical evidence. NUFORC gives a broad public reporting stream, useful for spotting patterns but weak as proof. Navy and FAA-linked reporting around Virginia Beach shows how UAP language moved into aviation safety. Langley shows why unidentified aerial activity near military sites can be serious even when drones are the most likely frame. [FAA+4The Black Vault+4The Black Vault]
 
 The main lesson is disciplined uncertainty. Virginia has produced reports worth preserving and, in some cases, worth investigating further. It has also produced many entries that are too thin to support strong conclusions. Later reporting has strengthened some claims by adding named witnesses, official context or aviation relevance; it has weakened others by showing how easily lights, aircraft, satellites, drones and media feedback can become a UFO story.
 
@@ -460,7 +452,7 @@ For a public reader, the best question is not “which Virginia case proves UFOs
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -470,111 +462,36 @@ For a public reader, the best question is not “which Virginia case proves UFOs
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT"><img src="https://i.ebayimg.com/images/g/4XEAAOSwstJmMAL~/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FRAMED WALL ART POSTER PAPER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -582,15 +499,15 @@ For a public reader, the best question is not “which Virginia case proves UFOs
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -598,15 +515,15 @@ For a public reader, the best question is not “which Virginia case proves UFOs
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -614,15 +531,15 @@ For a public reader, the best question is not “which Virginia case proves UFOs
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -630,7 +547,7 @@ For a public reader, the best question is not “which Virginia case proves UFOs
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-abc79c-where-do-virginia-ufo-claims-come-from-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-do-virginia-ufo-claims-come-from-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -707,17 +624,31 @@ For a public reader, the best question is not “which Virginia case proves UFOs
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -730,42 +661,73 @@ For a public reader, the best question is not “which Virginia case proves UFOs
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -780,12 +742,17 @@ For a public reader, the best question is not “which Virginia case proves UFOs
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -795,346 +762,346 @@ For a public reader, the best question is not “which Virginia case proves UFOs
 
 1. <a id="endnote-1"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — Project BLUE BOOK has been declassified a...</p></details>
    Published: August 15, 2016  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lVA](https://nuforc.org/subndx/?id=lVA)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports for State VANUFORC Reports for State VA.; Open, 06/04/2025 21:30, Mechanicsville; Open, 05/30/2025 13:42, Virginia...</p></details>
+   Link: <a href="https://nuforc.org/subndx/?id=lVA" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lVA</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State VANUFORC Reports for State VA.; Open, 06/04/2025 21:30, Mechanicsville; Open, 05/30/2025 13:42, Virginia...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: faa.gov  
    Title: Section 8  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP...GENERAL. Inform the operations supervisor/CIC of any reported or observed unidentified anomalous...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: unsolved.com  
    Title: Mysteries Wytheville UFO Sightings  
-   Link: [https://unsolved.com/gallery/wytheville-ufo-sightings/](https://unsolved.com/gallery/wytheville-ufo-sightings/)  
+   Link: <a href="https://unsolved.com/gallery/wytheville-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/wytheville-ufo-sightings/</a>  
 
 5. <a id="endnote-5"></a>
    Source: oversight.house.gov  
    Title: Ryan HOC Testimony  
-   Link: [https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf](https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Submit-A-Report/](https://www.aaro.mil/Submit-A-Report/)  
+   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=191652](https://nuforc.org/sighting/?id=191652)  
+   Link: <a href="https://nuforc.org/sighting/?id=191652" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191652</a>  
 
 8. <a id="endnote-8"></a>
    Source: wsls.com  
    Title: How often are UFOs reported in Virginia?  
-   Link: [https://www.wsls.com/features/2023/07/31/how-often-are-ufos-reported-in-virginia/](https://www.wsls.com/features/2023/07/31/how-often-are-ufos-reported-in-virginia/)  
+   Link: <a href="https://www.wsls.com/features/2023/07/31/how-often-are-ufos-reported-in-virginia/" target="_blank" rel="noopener noreferrer nofollow">https://www.wsls.com/features/2023/07/31/how-often-are-ufos-reported-in-virginia/</a>  
 
 9. <a id="endnote-9"></a>
    Source: stacker.com  
    Title: cities most ufo sightings virginia  
-   Link: [https://stacker.com/stories/virginia/cities-most-ufo-sightings-virginia](https://stacker.com/stories/virginia/cities-most-ufo-sightings-virginia)  
+   Link: <a href="https://stacker.com/stories/virginia/cities-most-ufo-sightings-virginia" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/virginia/cities-most-ufo-sightings-virginia</a>  
 
 10. <a id="endnote-10"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/us-government-hiding-crucial-information-about-ufos-says-ex-navy-pilot-who-claims-he-saw-them-12927800](https://news.sky.com/story/us-government-hiding-crucial-information-about-ufos-says-ex-navy-pilot-who-claims-he-saw-them-12927800)  
+   Link: <a href="https://news.sky.com/story/us-government-hiding-crucial-information-about-ufos-says-ex-navy-pilot-who-claims-he-saw-them-12927800" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/us-government-hiding-crucial-information-about-ufos-says-ex-navy-pilot-who-claims-he-saw-them-12927800</a>  
 
 11. <a id="endnote-11"></a>
    Source: faa.gov  
    Title: document ID  
-   Link: [https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303](https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303)  
+   Link: <a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303</a>  
 
 12. <a id="endnote-12"></a>
    Source: sofx.com  
    Title: Drone Incursions Over Langley Air Force Base Raise  
-   Link: [https://www.sofx.com/drone-incursions-over-langley-air-force-base-raise-security-concerns/](https://www.sofx.com/drone-incursions-over-langley-air-force-base-raise-security-concerns/)  
+   Link: <a href="https://www.sofx.com/drone-incursions-over-langley-air-force-base-raise-security-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://www.sofx.com/drone-incursions-over-langley-air-force-base-raise-security-concerns/</a>  
 
 13. <a id="endnote-13"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 15. <a id="endnote-15"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
 16. <a id="endnote-16"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 17. <a id="endnote-17"></a>
    Source: archives.gov  
    Title: nara documents2  
-   Link: [https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2](https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2)  
+   Link: <a href="https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2</a>  
 
 18. <a id="endnote-18"></a>
    Source: archives.gov  
    Title: Federal Records Guide: Alphabetical Index  
-   Link: [https://www.archives.gov/research/guide-fed-records/index-alpha/p.html](https://www.archives.gov/research/guide-fed-records/index-alpha/p.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/index-alpha/p.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/p.html</a>  
 
 19. <a id="endnote-19"></a>
    Source: archives.gov  
    Title: listdigitizedpartnerdata.xlsx  
-   Link: [https://www.archives.gov/files/digitization/listdigitizedpartnerdata-.xlsx](https://www.archives.gov/files/digitization/listdigitizedpartnerdata-.xlsx)  
+   Link: <a href="https://www.archives.gov/files/digitization/listdigitizedpartnerdata-.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/digitization/listdigitizedpartnerdata-.xlsx</a>  
 
 20. <a id="endnote-20"></a>
    Source: archives.gov  
    Title: Record Groups 52  
-   Link: [https://www.archives.gov/philadelphia/holdings/rg-050-099](https://www.archives.gov/philadelphia/holdings/rg-050-099)  
+   Link: <a href="https://www.archives.gov/philadelphia/holdings/rg-050-099" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/philadelphia/holdings/rg-050-099</a>  
 
 21. <a id="endnote-21"></a>
    Source: archives.gov  
    Title: accessioned records dc fy13  
-   Link: [https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf](https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf)  
+   Link: <a href="https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/foia/pdf/accessioned-records-dc-fy13.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/research/military/navy/navy-filing-manual-1941.pdf](https://www.archives.gov/files/research/military/navy/navy-filing-manual-1941.pdf)  
+   Link: <a href="https://www.archives.gov/files/research/military/navy/navy-filing-manual-1941.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/military/navy/navy-filing-manual-1941.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: archives.gov  
    Title: Record Groups 103  
-   Link: [https://www.archives.gov/atlanta/holdings/rg-100-164.html](https://www.archives.gov/atlanta/holdings/rg-100-164.html)  
+   Link: <a href="https://www.archives.gov/atlanta/holdings/rg-100-164.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/atlanta/holdings/rg-100-164.html</a>  
 
 24. <a id="endnote-24"></a>
    Source: archives.gov  
    Title: special access foia logs 2016 2017  
-   Link: [https://www.archives.gov/files/foia/tracking/special-access-foia-logs-2016-2017.pdf](https://www.archives.gov/files/foia/tracking/special-access-foia-logs-2016-2017.pdf)  
+   Link: <a href="https://www.archives.gov/files/foia/tracking/special-access-foia-logs-2016-2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/foia/tracking/special-access-foia-logs-2016-2017.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/alic/periodicals/nara-citations/modern-army.html](https://www.archives.gov/research/alic/periodicals/nara-citations/modern-army.html)  
+   Link: <a href="https://www.archives.gov/research/alic/periodicals/nara-citations/modern-army.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/modern-army.html</a>  
 
 26. <a id="endnote-26"></a>
    Source: clintonwhitehouse4.archives.gov  
-   Link: [https://clintonwhitehouse4.archives.gov/media/pdf/PIR.pdf](https://clintonwhitehouse4.archives.gov/media/pdf/PIR.pdf)  
+   Link: <a href="https://clintonwhitehouse4.archives.gov/media/pdf/PIR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://clintonwhitehouse4.archives.gov/media/pdf/PIR.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-615](https://www.archives.gov/research/topics/uaps/rg-615)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
 
 28. <a id="endnote-28"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentnumber/7110.65](https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentnumber/7110.65)  
+   Link: <a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentnumber/7110.65" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.current/documentnumber/7110.65</a>  
 
 29. <a id="endnote-29"></a>
    Source: faa.gov  
    Title: document ID  
-   Link: [https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304](https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304)  
+   Link: <a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304</a>  
 
 30. <a id="endnote-30"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 31. <a id="endnote-31"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
 32. <a id="endnote-32"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
 
 33. <a id="endnote-33"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location NUFORC Reports by Location; USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 34. <a id="endnote-34"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 35. <a id="endnote-35"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 36. <a id="endnote-36"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=all](https://nuforc.org/subndx/?id=all)  
+   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
 
 37. <a id="endnote-37"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=183766](https://nuforc.org/sighting/?id=183766)  
+   Link: <a href="https://nuforc.org/sighting/?id=183766" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=183766</a>  
 
 38. <a id="endnote-38"></a>
    Source: morgangriffith.house.gov  
-   Link: [https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=404211](https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=404211)  
+   Link: <a href="https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=404211" target="_blank" rel="noopener noreferrer nofollow">https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=404211</a>  
 
 39. <a id="endnote-39"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 40. <a id="endnote-40"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 41. <a id="endnote-41"></a>
    Source: theblackvault.com  
    Title: The Black Vault Project Blue Book Unknown Case Files, Complete List  
-   Link: [https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/](https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/project-blue-book-unknown-case-files-complete-list/</a>  
 
 42. <a id="endnote-42"></a>
    Source: theblackvault.com  
    Title: project blue book the alleged 1964 ufo landing in harrisonburg virginia  
-   Link: [https://www.theblackvault.com/casefiles/project-blue-book-the-alleged-1964-ufo-landing-in-harrisonburg-virginia/](https://www.theblackvault.com/casefiles/project-blue-book-the-alleged-1964-ufo-landing-in-harrisonburg-virginia/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/project-blue-book-the-alleged-1964-ufo-landing-in-harrisonburg-virginia/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/project-blue-book-the-alleged-1964-ufo-landing-in-harrisonburg-virginia/</a>  
 
 43. <a id="endnote-43"></a>
    Source: documents2.theblackvault.com  
    Title: ProjectBlueBook Harrisonburg Virginia 12211964  
-   Link: [https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-Harrisonburg-Virginia-12211964.pdf](https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-Harrisonburg-Virginia-12211964.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-Harrisonburg-Virginia-12211964.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-Harrisonburg-Virginia-12211964.pdf</a>  
 
 44. <a id="endnote-44"></a>
    Source: businessinsider.com  
    Title: Business Insider The latest on the 'mystery drones' spotted over the East Coast  
-   Link: [https://www.businessinsider.com/everything-we-know-about-mysterious-drones-new-jersey-new-york-2024-12](https://www.businessinsider.com/everything-we-know-about-mysterious-drones-new-jersey-new-york-2024-12)  
+   Link: <a href="https://www.businessinsider.com/everything-we-know-about-mysterious-drones-new-jersey-new-york-2024-12" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/everything-we-know-about-mysterious-drones-new-jersey-new-york-2024-12</a>  
 
 45. <a id="endnote-45"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
 
 46. <a id="endnote-46"></a>
    Source: documents.theblackvault.com  
    Title: FOIALog FY06  
-   Link: [https://documents.theblackvault.com/documents/foia/FOIALog_FY06.pdf](https://documents.theblackvault.com/documents/foia/FOIALog_FY06.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/foia/FOIALog_FY06.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/foia/FOIALog_FY06.pdf</a>  
 
 47. <a id="endnote-47"></a>
    Source: documents.theblackvault.com  
    Title: FOIALog2006 DOD.xls  
-   Link: [https://documents.theblackvault.com/documents/foia/FOIALog2006-DOD.xls](https://documents.theblackvault.com/documents/foia/FOIALog2006-DOD.xls)  
+   Link: <a href="https://documents.theblackvault.com/documents/foia/FOIALog2006-DOD.xls" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/foia/FOIALog2006-DOD.xls</a>  
 
 48. <a id="endnote-48"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/dod/readingroom/10/174.pdf](https://documents.theblackvault.com/documents/dod/readingroom/10/174.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/dod/readingroom/10/174.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/dod/readingroom/10/174.pdf</a>  
 
 49. <a id="endnote-49"></a>
    Source: documents.theblackvault.com  
    Title: FOIALog FY05  
-   Link: [https://documents.theblackvault.com/documents/foia/FOIALog_FY05.pdf](https://documents.theblackvault.com/documents/foia/FOIALog_FY05.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/foia/FOIALog_FY05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/foia/FOIALog_FY05.pdf</a>  
 
 50. <a id="endnote-50"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/bluebookdesk/pbbreferencenotes.pdf](https://documents.theblackvault.com/bluebookdesk/pbbreferencenotes.pdf)  
+   Link: <a href="https://documents.theblackvault.com/bluebookdesk/pbbreferencenotes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/bluebookdesk/pbbreferencenotes.pdf</a>  
 
 51. <a id="endnote-51"></a>
    Source: documents.theblackvault.com  
    Title: OASDFOIALOG2000 2008  
-   Link: [https://documents.theblackvault.com/documents/foia/OASDFOIALOG2000-2008.pdf](https://documents.theblackvault.com/documents/foia/OASDFOIALOG2000-2008.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/foia/OASDFOIALOG2000-2008.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/foia/OASDFOIALOG2000-2008.pdf</a>  
 
 52. <a id="endnote-52"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/casefiles/project-blue-book-interviews-morgantown-west-virginia-police-officers-ufo-case-3-3-1968/](https://www.theblackvault.com/casefiles/project-blue-book-interviews-morgantown-west-virginia-police-officers-ufo-case-3-3-1968/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/project-blue-book-interviews-morgantown-west-virginia-police-officers-ufo-case-3-3-1968/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/project-blue-book-interviews-morgantown-west-virginia-police-officers-ufo-case-3-3-1968/</a>  
 
 53. <a id="endnote-53"></a>
    Source: documents.theblackvault.com  
    Title: FOIALog FY01  
-   Link: [https://documents.theblackvault.com/documents/foia/FOIALog_FY01.pdf](https://documents.theblackvault.com/documents/foia/FOIALog_FY01.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/foia/FOIALog_FY01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/foia/FOIALog_FY01.pdf</a>  
 
 54. <a id="endnote-54"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf](https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2030-1-1.pdf</a>  
 
 55. <a id="endnote-55"></a>
    Source: documents.theblackvault.com  
    Title: FOIALog FY03  
-   Link: [https://documents.theblackvault.com/documents/foia/FOIALog_FY03.pdf](https://documents.theblackvault.com/documents/foia/FOIALog_FY03.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/foia/FOIALog_FY03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/foia/FOIALog_FY03.pdf</a>  
 
 56. <a id="endnote-56"></a>
    Source: documents.theblackvault.com  
    Title: OSDJSLogs 2009 2013  
-   Link: [https://documents.theblackvault.com/documents/foia/OSDJSLogs-2009-2013.pdf](https://documents.theblackvault.com/documents/foia/OSDJSLogs-2009-2013.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/foia/OSDJSLogs-2009-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/foia/OSDJSLogs-2009-2013.pdf</a>  
 
 57. <a id="endnote-57"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/casefiles/desks-project-blue-book/](https://www.theblackvault.com/casefiles/desks-project-blue-book/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/desks-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/desks-project-blue-book/</a>  
 
 58. <a id="endnote-58"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/foia/2014-009122.pdf](https://documents2.theblackvault.com/documents/foia/2014-009122.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/foia/2014-009122.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/foia/2014-009122.pdf</a>  
 
 59. <a id="endnote-59"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/UK/defe-24-2025-1-1.pdf](https://documents.theblackvault.com/documents/ufos/UK/defe-24-2025-1-1.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/UK/defe-24-2025-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/UK/defe-24-2025-1-1.pdf</a>  
 
 60. <a id="endnote-60"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/fbifiles/politicians/1361918-000.pdf](https://documents2.theblackvault.com/documents/fbifiles/politicians/1361918-000.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/fbifiles/politicians/1361918-000.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/fbifiles/politicians/1361918-000.pdf</a>  
 
 61. <a id="endnote-61"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/usaf/2021-03311-F-2021-03312-F.pdf](https://documents2.theblackvault.com/documents/usaf/2021-03311-F-2021-03312-F.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/usaf/2021-03311-F-2021-03312-F.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/usaf/2021-03311-F-2021-03312-F.pdf</a>  
 
 62. <a id="endnote-62"></a>
    Source: youtube.com  
    Title: Danny Gordon  
-   Link: [https://www.youtube.com/watch?v=XrzU0tKX7RY](https://www.youtube.com/watch?v=XrzU0tKX7RY)  
+   Link: <a href="https://www.youtube.com/watch?v=XrzU0tKX7RY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XrzU0tKX7RY</a>  
 
 63. <a id="endnote-63"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 64. <a id="endnote-64"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 65. <a id="endnote-65"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Wytheville UFO Sightings  
-   Link: [https://unsolvedmysteries.fandom.com/wiki/Wytheville_UFO_Sightings](https://unsolvedmysteries.fandom.com/wiki/Wytheville_UFO_Sightings)  
+   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Wytheville_UFO_Sightings" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Wytheville_UFO_Sightings</a>  
 
 ### Additional References
 
 66. <a id="endnote-66"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=2tl4mUpgVQU](http://www.youtube.com/watch?v=2tl4mUpgVQU)  
+   Link: <a href="http://www.youtube.com/watch?v=2tl4mUpgVQU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=2tl4mUpgVQU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Horace Burns &amp; William Blackburn witnessed separate UFO landings during the Virginia flap of 1964-65...</p></details>
 
 67. <a id="endnote-67"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=qGOOoKSaqAo](http://www.youtube.com/watch?v=qGOOoKSaqAo)  
+   Link: <a href="http://www.youtube.com/watch?v=qGOOoKSaqAo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qGOOoKSaqAo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Key moments at House UFO transparency hearing...</p></details>
 
 68. <a id="endnote-68"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=CP1V5OZkZXA](http://www.youtube.com/watch?v=CP1V5OZkZXA)  
+   Link: <a href="http://www.youtube.com/watch?v=CP1V5OZkZXA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=CP1V5OZkZXA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Virginia UFO records National Archives Project Blue Book UFO Project Blue Book at National Archives Museum US National Archives...</p></details>
 
 69. <a id="endnote-69"></a>
    Source: youtube.com  
    Title: UFO Project Blue Book at National Archives Museum  
-   Link: [http://www.youtube.com/watch?v=JHeZjJgO9Ns](http://www.youtube.com/watch?v=JHeZjJgO9Ns)  
+   Link: <a href="http://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=JHeZjJgO9Ns</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness accounts of the 1987 Wytheville, Virginia, UFO sightings...</p></details>
 
 70. <a id="endnote-70"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ABC7/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-united-states-air-/1351110787157552/](https://www.facebook.com/ABC7/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-united-states-air-/1351110787157552/)  
+   Link: <a href="https://www.facebook.com/ABC7/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-united-states-air-/1351110787157552/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABC7/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-united-states-air-/1351110787157552/</a>  
 
 71. <a id="endnote-71"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/v65d60/a_good_article_summarizing_the_late_80s/](https://www.reddit.com/r/UFOs/comments/v65d60/a_good_article_summarizing_the_late_80s/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/v65d60/a_good_article_summarizing_the_late_80s/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/v65d60/a_good_article_summarizing_the_late_80s/</a>  
 
 72. <a id="endnote-72"></a>
    Source: aui.edu  
-   Link: [https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/](https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
 73. <a id="endnote-73"></a>
    Source: aiaa.org  
-   Link: [https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf](https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf)  
+   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
 
 74. <a id="endnote-74"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/air-force-officials-have-confirmed-several-drones-flew-over-langley-air-force-ba/561616736245348/](https://www.facebook.com/NewsNationNow/posts/air-force-officials-have-confirmed-several-drones-flew-over-langley-air-force-ba/561616736245348/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/air-force-officials-have-confirmed-several-drones-flew-over-langley-air-force-ba/561616736245348/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/air-force-officials-have-confirmed-several-drones-flew-over-langley-air-force-ba/561616736245348/</a>  
 
 75. <a id="endnote-75"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/19fncex/americans_for_safe_aerospace_has_put_out_a/](https://www.reddit.com/r/UFOs/comments/19fncex/americans_for_safe_aerospace_has_put_out_a/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/19fncex/americans_for_safe_aerospace_has_put_out_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/19fncex/americans_for_safe_aerospace_has_put_out_a/</a>

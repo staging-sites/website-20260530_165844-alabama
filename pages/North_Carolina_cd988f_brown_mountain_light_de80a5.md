@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-north/
 nav_short_title: Brown Mountain
 title: Are the Brown Mountain Lights Really Unexplained?
-title_full: Are the Brown Mountain Lights Really Unexplained? | NC UFOs
+title_full: Are the Brown Mountain Lights Really Unexplained?
 display_title_short: Brown Mountain
 display_title: Brown Mountain
 heading_title: Are the Brown Mountain Lights Really Unexplained?
@@ -268,15 +268,14 @@ image: /assets/images/North_Carolina_cd988f_brown_mountain_light_de80a5-overview
 
 ## Introduction
 
-The Brown Mountain Lights are [North Carolina]({{ 'what-really-happened-in-north/' | relative_url }})’s most famous “mystery light” tradition, but the strongest lesson they offer is not that the case is solved or unsolved in one neat stroke. It is that the evidence is uneven. Some early reports describe striking red orbs appearing above or beyond Brown Mountain; some official investigation found ordinary sources such as train headlights, car headlights, fixed lights and brush fires; and some modern camera work has kept the subject alive without producing a definitive explanation for every claimed sighting. The result is a classic North Carolina UFO-adjacent case: culturally powerful, visually intriguing, but difficult to turn into firm evidence for anything extraordinary.
-
+The Brown Mountain Lights are North Carolina’s most famous “mystery light” tradition, but the strongest lesson they offer is not that the case is solved or unsolved in one neat stroke. It is that the evidence is uneven. Some early reports describe striking red orbs appearing above or beyond Brown Mountain; some official investigation found ordinary sources such as train headlights, car headlights, fixed lights and brush fires; and some modern camera work has kept the subject alive without producing a definitive explanation for every claimed sighting. The result is a classic North Carolina UFO-adjacent case: culturally powerful, visually intriguing, but difficult to turn into firm evidence for anything extraordinary.
 
 <img src="{{ "/assets/images/North_Carolina_cd988f_brown_mountain_light_de80a5-overview.webp" | relative_url }}" alt="Overview image for Brown Mountain" loading="eager" decoding="sync" fetchpriority="high">
 For readers interested in UFO history, Brown Mountain matters because it shows how a local mountain-light story can move between folklore, journalism, official science, tourism, paranormal media and UFO interpretation. It also shows why “unexplained” is not the same as “unexplainable”. The hard question is not whether people have seen lights near Brown Mountain. They have. The harder question is whether any well-documented lights remain after ordinary lights, weather, distance, expectation and weak reporting are taken seriously.
 
 ## Why Brown Mountain became North Carolina’s mystery-light landmark
 
-Brown Mountain lies in the Blue Ridge region of western North Carolina, near Burke County, Linville Gorge and the viewpoints from which people have long watched the night horizon. Modern tourism pages still point visitors to clear-night viewing locations along NC Highway 181 and Wiseman’s View in the Linville Gorge Wilderness, which helps explain why the story has stayed visible rather than fading into an old newspaper curiosity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visitnc.com/brown-mountain-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitnc.com">[Visit North Carolina]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitnc.com</span><span class="citation-popover-snippet">Visit North CarolinaBrown Mountain Lights | Visit North...The Brown Mountain Lights are typically visible on clear nights from vantage p...</span></span></span>
+Brown Mountain lies in the Blue Ridge region of western North Carolina, near Burke County, Linville Gorge and the viewpoints from which people have long watched the night horizon. Modern tourism pages still point visitors to clear-night viewing locations along NC Highway 181 and Wiseman’s View in the Linville Gorge Wilderness, which helps explain why the story has stayed visible rather than fading into an old newspaper curiosity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visitnc.com/brown-mountain-lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitnc.com">[Visit North Carolina]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitnc.com</span><span class="citation-popover-snippet">Visit North CarolinaBrown Mountain Lights &#124; Visit North...The Brown Mountain Lights are typically visible on clear nights from vantage p...</span></span></span>
 
 The classic description is simple but memorable: small lights, often described as star-like or orb-like, appearing near or above the mountain, sometimes seeming to brighten, move, hover, rise or vanish. Appalachian State’s Brown Mountain Lights research site describes the reports as “small, star-like dots of light” with motion varying by witness, from slow movement to more dramatic action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dancaton.physics.appstate.edu/BML/index.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dancaton.physics.appstate.edu">[Daniel B. Caton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dancaton.physics.appstate.edu</span><span class="citation-popover-title">Daniel B. Caton The Brown Mountain Lights</span><span class="citation-popover-snippet">Daniel B. Caton The Brown Mountain Lights</span></span></span> That range of descriptions is part of the evidence problem. A distant fixed light shimmering in unstable air, a vehicle headlamp seen through gaps, an aircraft light, a fire, a prank, and an unusual natural glow can all produce reports that sound similar once retold as “the Brown Mountain Lights”.
 
@@ -284,20 +283,18 @@ The story entered wider public record in the early twentieth century. A reproduc
 
 The modern UFO connection came later. Once flying saucers became part of American culture, older mystery-light traditions could be reinterpreted through that lens. Brown Mountain’s lights have since been folded into alien, paranormal and “energy vortex” claims, as well as into television and horror entertainment. But the early record is better understood as a local observation-and-explanation problem: people saw puzzling lights across a mountain landscape at night, and investigators tried to work out what sources could be visible from those viewpoints.
 
-
-<img src="{{ "/assets/images/North_Carolina_cd988f_brown_mountain_light_de80a5-Illustration-1-light.svg" | relative_url }}" alt="Brown Mountain illustration 1" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_brown_mountain_light_de80a5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_brown_mountain_light_de80a5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Carolina_cd988f_brown_mountain_light_de80a5-Illustration-1-dark.svg" | relative_url }}" alt="Brown Mountain illustration 1" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_brown_mountain_light_de80a5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_brown_mountain_light_de80a5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Early reports and official investigation
 
 The best-known official source is George R. Mansfield’s US Geological Survey report, later published as *Origin of the Brown Mountain Light in North Carolina*. The USGS catalogue identifies it as Circular 646 by George Rogers Mansfield, published by the U.S. Geological Survey and carrying the DOI 10.3133/cir646. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.usgs.gov/publication/cir646" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.usgs.gov">[U.S. Geological Survey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.usgs.gov</span><span class="citation-popover-title">U.S. Geological Survey Origin of the Brown Mountain light in North Carolina</span><span class="citation-popover-snippet">U.S. Geological Survey Origin of the Brown Mountain light in North Carolina</span></span></span> The report remains central because it did what much UFO and mystery-light lore rarely does: it tried to match observations to geography, instruments, bearings and known light sources.
 
 The USGS itself summarises the case as one in which public interest and congressional pressure led the Survey to send Mansfield, a research geologist, to investigate. According to the agency’s later account, Mansfield reviewed earlier work, interviewed local people and used a plane table, alidade, compass, camera, barometer and flashlight while trying to observe the lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.usgs.gov/publication/cir646" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.usgs.gov</span><span class="citation-popover-title">U.S. Geological Survey Origin of the Brown Mountain light in North Carolina</span><span class="citation-popover-snippet">U.S. Geological Survey Origin of the Brown Mountain light in North Carolina</span></span></span> This is important: Mansfield was not simply dismissing witness accounts from an office. He was testing lines of sight in the landscape where the claims were being made.
 
-Mansfield’s conclusion was sceptical. The USGS summary states that he found the lights were “clearly not of unusual nature or origin” and attributed them to a combination of natural and human conditions, including automobile headlights, train headlights and fog in the valley. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/news/featured-story/science-or-superstition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">Science or Superstition? | U.S. Geological Survey</span><span class="citation-popover-snippet">USGSScience or Superstition? | U.S. Geological Survey...</span></span></span> A later sceptical review gives the more detailed breakdown from the investigation: about 47 per cent of the lights studied instrumentally were attributed to automobile headlights, 33 per cent to locomotive headlights, and 10 per cent each to stationary lights and brush fires. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2016/04/the-brown-mountain-lights-solved-again/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Mansfield’s conclusion was sceptical. The USGS summary states that he found the lights were “clearly not of unusual nature or origin” and attributed them to a combination of natural and human conditions, including automobile headlights, train headlights and fog in the valley. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/news/featured-story/science-or-superstition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">Science or Superstition? &#124; U.S. Geological Survey</span><span class="citation-popover-snippet">Science or Superstition? &#124; U.S. Geological Survey...</span></span></span> A later sceptical review gives the more detailed breakdown from the investigation: about 47 per cent of the lights studied instrumentally were attributed to automobile headlights, 33 per cent to locomotive headlights, and 10 per cent each to stationary lights and brush fires. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2016/04/the-brown-mountain-lights-solved-again/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That finding does not automatically explain every Brown Mountain Lights story ever told. It does, however, seriously weakens the claim that the early mystery was untouched by ordinary causes. Mansfield’s work suggests that at least many of the famous observations were not lights over the mountain at all, but distant lights seen across a complex valley-and-ridge landscape. In a dark mountain setting, a headlamp or fire can seem detached from the ground, especially when the viewer has no clear depth cues.
 
 There was also an earlier official explanation. The same sceptical review notes that a USGS geologist in 1913 attributed the lights to locomotive headlights, while a 1919 U.S. Weather Bureau report suggested an electrical-discharge explanation even though its writer had not visited the site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2016/04/the-brown-mountain-lights-solved-again/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That contrast is useful. The locomotive-headlight explanation was grounded in a local line-of-sight claim; the weather-bureau theory sounds more speculative. Brown Mountain’s history is full of this tension between field checking and imaginative explanation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vCzmzVkCIJo" title="Brown Mountain Lights Camera 1B January 10-11, 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vCzmzVkCIJo" target="_blank" rel="noopener noreferrer">Brown Mountain Lights Camera 1B January 10-11, 2019</a></p><p class="youtube-embed-meta">Channel: Daniel Caton &middot; Views: 59.5K &middot; Uploaded: January 2019 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vCzmzVkCIJo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vCzmzVkCIJo">Open on YouTube</a></p></div></div></div>
 
@@ -313,8 +310,7 @@ Later observers have made similar arguments. In a Blue Ridge Country interview, 
 
 The 1916 flood is often raised as a challenge to the train-headlight explanation. If rail traffic stopped but lights were still reported, the argument goes, then trains cannot explain the phenomenon. That point deserves attention, but it is not decisive. It may undermine a single-source explanation, especially one based only on locomotives, but it does not eliminate car lights, fixed lights, fires, atmospheric effects, observer error or the possibility that different sightings had different causes. Brown Mountain is best treated as a family of light reports, not one repeated object with one necessary explanation.
 
-
-<img src="{{ "/assets/images/North_Carolina_cd988f_brown_mountain_light_de80a5-Illustration-2-light.svg" | relative_url }}" alt="Brown Mountain illustration 2" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_brown_mountain_light_de80a5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_brown_mountain_light_de80a5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Carolina_cd988f_brown_mountain_light_de80a5-Illustration-2-dark.svg" | relative_url }}" alt="Brown Mountain illustration 2" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_brown_mountain_light_de80a5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_brown_mountain_light_de80a5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the evidence remains difficult to judge
 
 The Brown Mountain Lights are hard to evaluate because the evidence often arrives in the wrong form. Many reports are sincere but imprecise. A witness may remember a colour, movement or emotional impression, but not the exact time, bearing, duration, weather, comparison stars, camera settings or possible ground sources. That is normal for human observation, but it is a problem if the claim is that a light was physically anomalous.
@@ -331,7 +327,6 @@ That mix creates three recurring traps.
 
 For North Carolina UFO history, this distinction is essential. Brown Mountain is relevant to UFO study because it shaped how people in the state talk about anomalous lights. But its value as evidence for non-human craft is weak. The better reading is that it is a long-running case study in perception, landscape, local identity and the difficulty of documenting transient lights.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fYgHvB3psjU" title="My Home, NC | Mystery of the Brown Mountain Lights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fYgHvB3psjU" target="_blank" rel="noopener noreferrer">My Home, NC | Mystery of the Brown Mountain Lights</a></p><p class="youtube-embed-meta">Channel: My Home, NC on PBS NC &middot; Views: 13.6K &middot; Uploaded: January 2016 &middot; Length: 4 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fYgHvB3psjU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fYgHvB3psjU">Open on YouTube</a></p></div></div></div>
 
 ## Modern cameras and why the debate continues
@@ -344,8 +339,7 @@ The careful wording matters. “Unexplained” in a camera project usually means
 
 Still, the modern work is valuable because it improves the conversation. It moves Brown Mountain away from pure legend and towards repeatable observation. It also shows why the case persists. If cameras run for years and capture little or nothing, sceptics point to the rarity and ambiguity of the phenomenon. If a camera captures a puzzling light, believers point to a surviving mystery. Both reactions can be too quick. The more responsible answer is that modern evidence has not restored the old legend in full, but neither has it made every reported light vanish into an easy explanation.
 
-
-<img src="{{ "/assets/images/North_Carolina_cd988f_brown_mountain_light_de80a5-Illustration-3-light.svg" | relative_url }}" alt="Brown Mountain illustration 3" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_brown_mountain_light_de80a5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_brown_mountain_light_de80a5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Carolina_cd988f_brown_mountain_light_de80a5-Illustration-3-dark.svg" | relative_url }}" alt="Brown Mountain illustration 3" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_brown_mountain_light_de80a5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_brown_mountain_light_de80a5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Brown Mountain adds to North Carolina UFO history
 
 Brown Mountain is not North Carolina’s strongest UFO case in the sense of aviation data, radar records, military files or named pilot testimony. Its importance is different. It is the state’s best-known example of a recurring anomalous-light tradition, and it shows how a local mystery can become a flexible container for whatever explanation a period finds most compelling: trains, marsh gas, electrical discharges, ghosts, UFOs, energy fields, camera anomalies or misidentified modern lights.
@@ -362,9 +356,7 @@ At the same time, it would be too strong to say that every claimed Brown Mountai
 
 That makes Brown Mountain a valuable North Carolina case precisely because it resists the two easiest answers. It is not good evidence for alien visitation. It is also not merely a silly legend with no observational basis. It is a long-running evidence problem: a place where real witnesses, difficult terrain, ordinary lights, atmospheric distortion, local storytelling and modern cameras all meet on the same dark horizon.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Zq6_Fxv_8RY" title="The Mystery of the Brown Mountain Lights Episode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Zq6_Fxv_8RY" target="_blank" rel="noopener noreferrer">The Mystery of the Brown Mountain Lights Episode</a></p><p class="youtube-embed-meta">Channel: LITCTV &middot; Views: 175.7K &middot; Uploaded: March 2015 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Zq6_Fxv_8RY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Zq6_Fxv_8RY">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8TDcY9ecMlY" title="Mysterious Brown Mountain Lights captured in 1999 | From TV Archives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8TDcY9ecMlY" target="_blank" rel="noopener noreferrer">Mysterious Brown Mountain Lights captured in 1999 | From TV Archives</a></p><p class="youtube-embed-meta">Channel: WXII 12 News &middot; Views: 4.9K &middot; Uploaded: October 2025 &middot; Length: 3 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8TDcY9ecMlY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8TDcY9ecMlY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -788,149 +780,149 @@ That makes Brown Mountain a valuable North Carolina case precisely because it re
 1. <a id="endnote-1"></a>
    Source: dancaton.physics.appstate.edu  
    Title: Daniel B. Caton The Brown Mountain Lights  
-   Link: [https://www.dancaton.physics.appstate.edu/BML/index.htm](https://www.dancaton.physics.appstate.edu/BML/index.htm)  
+   Link: <a href="https://www.dancaton.physics.appstate.edu/BML/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.dancaton.physics.appstate.edu/BML/index.htm</a>  
 
 2. <a id="endnote-2"></a>
    Source: dsoftp.appstate.edu  
-   Link: [https://dsoftp.appstate.edu/web/BML/CharObs092413.htm](https://dsoftp.appstate.edu/web/BML/CharObs092413.htm)  
+   Link: <a href="https://dsoftp.appstate.edu/web/BML/CharObs092413.htm" target="_blank" rel="noopener noreferrer nofollow">https://dsoftp.appstate.edu/web/BML/CharObs092413.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Charlotte Observer 1924 Article on the Brown Mountain Lights...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pubs.usgs.gov  
    Title: U.S. Geological Survey Origin of the Brown Mountain light in North Carolina  
-   Link: [https://pubs.usgs.gov/publication/cir646](https://pubs.usgs.gov/publication/cir646)  
+   Link: <a href="https://pubs.usgs.gov/publication/cir646" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/publication/cir646</a>  
 
 4. <a id="endnote-4"></a>
    Source: usgs.gov  
    Title: Science or Superstition? | U.S. Geological Survey  
-   Link: [https://www.usgs.gov/news/featured-story/science-or-superstition](https://www.usgs.gov/news/featured-story/science-or-superstition)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USGSScience or Superstition? | U.S. Geological Survey...</p></details>
+   Link: <a href="https://www.usgs.gov/news/featured-story/science-or-superstition" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/news/featured-story/science-or-superstition</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Science or Superstition? | U.S. Geological Survey...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: wfae.org  
-   Link: [https://www.wfae.org/local-news/2016-08-05/app-state-researchers-capture-image-of-unexplained-light-at-brown-mountain](https://www.wfae.org/local-news/2016-08-05/app-state-researchers-capture-image-of-unexplained-light-at-brown-mountain)  
+   Link: <a href="https://www.wfae.org/local-news/2016-08-05/app-state-researchers-capture-image-of-unexplained-light-at-brown-mountain" target="_blank" rel="noopener noreferrer nofollow">https://www.wfae.org/local-news/2016-08-05/app-state-researchers-capture-image-of-unexplained-light-at-brown-mountain</a>  
 
 6. <a id="endnote-6"></a>
    Source: pubs.usgs.gov  
-   Link: [https://pubs.usgs.gov/circ/1971/0646/report.pdf](https://pubs.usgs.gov/circ/1971/0646/report.pdf)  
+   Link: <a href="https://pubs.usgs.gov/circ/1971/0646/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/circ/1971/0646/report.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: usgs.gov  
-   Link: [https://www.usgs.gov/](https://www.usgs.gov/)  
+   Link: <a href="https://www.usgs.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/</a>  
 
 8. <a id="endnote-8"></a>
    Source: pubs.usgs.gov  
-   Link: [https://pubs.usgs.gov/of/1990/0276/report.pdf](https://pubs.usgs.gov/of/1990/0276/report.pdf)  
+   Link: <a href="https://pubs.usgs.gov/of/1990/0276/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/of/1990/0276/report.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: usgs.gov  
    Title: map brown mountain and occurrences brown mountain lights  
-   Link: [https://www.usgs.gov/media/images/map-brown-mountain-and-occurrences-brown-mountain-lights](https://www.usgs.gov/media/images/map-brown-mountain-and-occurrences-brown-mountain-lights)  
+   Link: <a href="https://www.usgs.gov/media/images/map-brown-mountain-and-occurrences-brown-mountain-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/media/images/map-brown-mountain-and-occurrences-brown-mountain-lights</a>  
 
 10. <a id="endnote-10"></a>
    Source: pubs.usgs.gov  
-   Link: [https://pubs.usgs.gov/bul/0444/report.pdf](https://pubs.usgs.gov/bul/0444/report.pdf)  
+   Link: <a href="https://pubs.usgs.gov/bul/0444/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/bul/0444/report.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: dancaton.physics.appstate.edu  
    Title: USGS p01  
-   Link: [https://dancaton.physics.appstate.edu/BML/USGSreport/USGS-p01.htm](https://dancaton.physics.appstate.edu/BML/USGSreport/USGS-p01.htm)  
+   Link: <a href="https://dancaton.physics.appstate.edu/BML/USGSreport/USGS-p01.htm" target="_blank" rel="noopener noreferrer nofollow">https://dancaton.physics.appstate.edu/BML/USGSreport/USGS-p01.htm</a>  
 
 12. <a id="endnote-12"></a>
    Source: visitnc.com  
-   Link: [https://www.visitnc.com/brown-mountain-lights](https://www.visitnc.com/brown-mountain-lights)  
+   Link: <a href="https://www.visitnc.com/brown-mountain-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.visitnc.com/brown-mountain-lights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Visit North CarolinaBrown Mountain Lights | Visit North...The Brown Mountain Lights are typically visible on clear nights from vantage p...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2016/04/the-brown-mountain-lights-solved-again/](https://skepticalinquirer.org/2016/04/the-brown-mountain-lights-solved-again/)  
+   Link: <a href="https://skepticalinquirer.org/2016/04/the-brown-mountain-lights-solved-again/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2016/04/the-brown-mountain-lights-solved-again/</a>  
 
 14. <a id="endnote-14"></a>
    Source: blueridgecountry.com  
-   Link: [https://blueridgecountry.com/travel/brown-mountain-lights-revisited/](https://blueridgecountry.com/travel/brown-mountain-lights-revisited/)  
+   Link: <a href="https://blueridgecountry.com/travel/brown-mountain-lights-revisited/" target="_blank" rel="noopener noreferrer nofollow">https://blueridgecountry.com/travel/brown-mountain-lights-revisited/</a>  
 
 15. <a id="endnote-15"></a>
    Source: kids.kiddle.co  
    Title: Brown Mountain Lights  
-   Link: [https://kids.kiddle.co/Brown_Mountain_Lights](https://kids.kiddle.co/Brown_Mountain_Lights)  
+   Link: <a href="https://kids.kiddle.co/Brown_Mountain_Lights" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Brown_Mountain_Lights</a>  
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Brown Mountain lights  
-   Link: [https://en.wikipedia.org/wiki/Brown_Mountain_lights](https://en.wikipedia.org/wiki/Brown_Mountain_lights)  
+   Link: <a href="https://en.wikipedia.org/wiki/Brown_Mountain_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brown_Mountain_lights</a>  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=f3CN6e_gH3s&vl=id](https://www.youtube.com/watch?v=f3CN6e_gH3s&vl=id)  
+   Link: <a href="https://www.youtube.com/watch?v=f3CN6e_gH3s&amp;vl=id" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f3CN6e_gH3s&amp;vl=id</a>  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=vCzmzVkCIJo](https://www.youtube.com/watch?v=vCzmzVkCIJo)  
+   Link: <a href="https://www.youtube.com/watch?v=vCzmzVkCIJo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vCzmzVkCIJo</a>  
 
 19. <a id="endnote-19"></a>
    Source: foothillsdigest.com  
    Title: brown mountain lights  
-   Link: [https://foothillsdigest.com/brown-mountain-lights/](https://foothillsdigest.com/brown-mountain-lights/)  
+   Link: <a href="https://foothillsdigest.com/brown-mountain-lights/" target="_blank" rel="noopener noreferrer nofollow">https://foothillsdigest.com/brown-mountain-lights/</a>  
 
 20. <a id="endnote-20"></a>
    Source: usa.gov  
-   Link: [https://www.usa.gov/agencies/u-s-geological-survey](https://www.usa.gov/agencies/u-s-geological-survey)  
+   Link: <a href="https://www.usa.gov/agencies/u-s-geological-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/agencies/u-s-geological-survey</a>  
 
 21. <a id="endnote-21"></a>
    Source: tripadvisor.co.uk  
    Title: Brown mountain lights  
-   Link: [https://www.tripadvisor.co.uk/ShowTopic-g60742-i251-k10995864-Brown_mountain_lights-Asheville_North_Carolina.html](https://www.tripadvisor.co.uk/ShowTopic-g60742-i251-k10995864-Brown_mountain_lights-Asheville_North_Carolina.html)  
+   Link: <a href="https://www.tripadvisor.co.uk/ShowTopic-g60742-i251-k10995864-Brown_mountain_lights-Asheville_North_Carolina.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/ShowTopic-g60742-i251-k10995864-Brown_mountain_lights-Asheville_North_Carolina.html</a>  
 
 22. <a id="endnote-22"></a>
    Source: wherethedogwoodblooms.com  
    Title: brown mountain lights  
-   Link: [https://www.wherethedogwoodblooms.com/brown-mountain-lights/](https://www.wherethedogwoodblooms.com/brown-mountain-lights/)  
+   Link: <a href="https://www.wherethedogwoodblooms.com/brown-mountain-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.wherethedogwoodblooms.com/brown-mountain-lights/</a>  
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=8TDcY9ecMlY](https://www.youtube.com/watch?v=8TDcY9ecMlY)  
+   Link: <a href="https://www.youtube.com/watch?v=8TDcY9ecMlY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8TDcY9ecMlY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What We Captured at Brown Mountain Shouldn&#x27;t Be Possible...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: What We Captured at Brown Mountain Shouldn't Be Possible  
-   Link: [https://www.youtube.com/watch?v=lUdj-ypVn7k](https://www.youtube.com/watch?v=lUdj-ypVn7k)  
+   Link: <a href="https://www.youtube.com/watch?v=lUdj-ypVn7k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lUdj-ypVn7k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I Can&#x27;t Explain It - The Brown Mountain Ghost Lights Camping Adventure...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Mysterious Dancing Orbs: The Mystery of the Brown Mountain Lights  
-   Link: [https://www.youtube.com/watch?v=fYgHvB3psjU](https://www.youtube.com/watch?v=fYgHvB3psjU)  
+   Link: <a href="https://www.youtube.com/watch?v=fYgHvB3psjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fYgHvB3psjU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of the Brown Mountain Lights Episode...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: The Mystery of the Brown Mountain Lights Episode  
-   Link: [https://www.youtube.com/watch?v=Zq6_Fxv_8RY](https://www.youtube.com/watch?v=Zq6_Fxv_8RY)  
+   Link: <a href="https://www.youtube.com/watch?v=Zq6_Fxv_8RY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Zq6_Fxv_8RY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Brown Mountain Lights captured in 1999 | From TV Archives...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Appalachia/comments/17x4cg3/anyone_here_seen_the_brown_mountain_lights_in/](https://www.reddit.com/r/Appalachia/comments/17x4cg3/anyone_here_seen_the_brown_mountain_lights_in/)  
+   Link: <a href="https://www.reddit.com/r/Appalachia/comments/17x4cg3/anyone_here_seen_the_brown_mountain_lights_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Appalachia/comments/17x4cg3/anyone_here_seen_the_brown_mountain_lights_in/</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/mountainviewmotorcyclecampground/posts/7783500931778216/](https://www.facebook.com/groups/mountainviewmotorcyclecampground/posts/7783500931778216/)  
+   Link: <a href="https://www.facebook.com/groups/mountainviewmotorcyclecampground/posts/7783500931778216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/mountainviewmotorcyclecampground/posts/7783500931778216/</a>  
 
 29. <a id="endnote-29"></a>
    Source: discoverburkecounty.com  
-   Link: [https://www.discoverburkecounty.com/all-attractions/brown-mountain-lights/](https://www.discoverburkecounty.com/all-attractions/brown-mountain-lights/)  
+   Link: <a href="https://www.discoverburkecounty.com/all-attractions/brown-mountain-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoverburkecounty.com/all-attractions/brown-mountain-lights/</a>  
 
 30. <a id="endnote-30"></a>
    Source: romanticasheville.com  
-   Link: [https://www.romanticasheville.com/brown_mountain_lights.htm](https://www.romanticasheville.com/brown_mountain_lights.htm)  
+   Link: <a href="https://www.romanticasheville.com/brown_mountain_lights.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.romanticasheville.com/brown_mountain_lights.htm</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AppStateCAS/posts/dr-daniel-caton-professor-in-the-appalachian-state-university-department-of-phys/1586066010191563/](https://www.facebook.com/AppStateCAS/posts/dr-daniel-caton-professor-in-the-appalachian-state-university-department-of-phys/1586066010191563/)  
+   Link: <a href="https://www.facebook.com/AppStateCAS/posts/dr-daniel-caton-professor-in-the-appalachian-state-university-department-of-phys/1586066010191563/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AppStateCAS/posts/dr-daniel-caton-professor-in-the-appalachian-state-university-department-of-phys/1586066010191563/</a>  
 
 32. <a id="endnote-32"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DQkk8KEksi1/?hl=en-gb](https://www.instagram.com/reel/DQkk8KEksi1/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/reel/DQkk8KEksi1/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DQkk8KEksi1/?hl=en-gb</a>

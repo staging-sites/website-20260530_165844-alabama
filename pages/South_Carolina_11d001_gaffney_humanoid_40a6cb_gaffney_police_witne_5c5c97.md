@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /gaffney-tale/
 nav_short_title: Witnesses
 title: How Strong Were the Gaffney Police Witnesses?
-title_full: How Strong Were the Gaffney Police Witnesses? | Gaffney Tale
+title_full: How Strong Were the Gaffney Police Witnesses?
 display_title_short: Witnesses
 display_title: Witnesses
 heading_title: How Strong Were the Gaffney Police Witnesses?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:11:25'
-parent_title: How Strong Is the Gaffney Humanoid Story? | South Carolina UFOs
+parent_title: How Strong Is the Gaffney Humanoid Story?
 parent_permalink: /gaffney-tale/
 parent_nav_short_title: Gaffney Tale
 parent_heading_title: How Strong Is the Gaffney Humanoid Story?
@@ -250,11 +250,10 @@ image: /assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_poli
 
 ## Introduction
 
-The [Gaffney humanoid]({{ 'gaffney-tale/' | relative_url }}) story is remembered largely because two named police officers were attached to it. Patrolmen A. G. Huskey and Charles Hutchins gave the account an appearance of official credibility that many UFO reports lack. Yet the same case also shows the limits of relying on witness status alone. The strongest claims about the encounter were not preserved in a contemporary police report, tape recording, photograph or sworn statement. Instead, most of what later readers know comes through magazine summaries and a year-later interview conducted by UFO writer John Keel. That does not automatically make the officers unreliable, but it leaves modern readers with an awkward question: how much confidence can be placed in a dramatic story when the evidence depends heavily on memory, retelling and later reconstruction? <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
+The Gaffney humanoid story is remembered largely because two named police officers were attached to it. Patrolmen A. G. Huskey and Charles Hutchins gave the account an appearance of official credibility that many UFO reports lack. Yet the same case also shows the limits of relying on witness status alone. The strongest claims about the encounter were not preserved in a contemporary police report, tape recording, photograph or sworn statement. Instead, most of what later readers know comes through magazine summaries and a year-later interview conducted by UFO writer John Keel. That does not automatically make the officers unreliable, but it leaves modern readers with an awkward question: how much confidence can be placed in a dramatic story when the evidence depends heavily on memory, retelling and later reconstruction? <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-1-light.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within [South Carolina]({{ 'what-makes-south-carolinas-ufo-story/' | relative_url }}) UFO history, Gaffney is therefore less important as proof of an extraordinary event than as an example of how police testimony can both strengthen and complicate a case. The officers' identities were known, but the surviving record remains thin.
+<img src="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Within South Carolina UFO history, Gaffney is therefore less important as proof of an extraordinary event than as an example of how police testimony can both strengthen and complicate a case. The officers' identities were known, but the surviving record remains thin.
 
 ## What Huskey and Hutchins reportedly said
 
@@ -270,8 +269,7 @@ What matters for assessing credibility is not whether these details are memorabl
 
 A further complication is that some details shifted over time. In later comments attributed to Hutchins, the often-repeated claim that the being had a green complexion was downplayed. Hutchins reportedly suggested that the officers added that feature after being mocked, and that they could not actually determine the complexion clearly. If accurate, that admission shows at least one colourful part of the legend developing after the event rather than emerging directly from observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/spINrGMxgKA" title="&#x27;The Gaffney Incident: The Night Police Talked to an Alien&#x27; | Paranormal Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=spINrGMxgKA" target="_blank" rel="noopener noreferrer">&#x27;The Gaffney Incident: The Night Police Talked to an Alien&#x27; | Paranormal Story</a></p><p class="youtube-embed-meta">Channel: Beyond Creepy &middot; Views: 2.3M &middot; Uploaded: September 2017 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=spINrGMxgKA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=spINrGMxgKA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wZv3XWa0fLc" title="The Gaffney UFO Incident, The Night Police Talked To A Real Alien, as Reported By John Keel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wZv3XWa0fLc" target="_blank" rel="noopener noreferrer">The Gaffney UFO Incident, The Night Police Talked To A Real Alien, as Reported By John Keel</a></p><p class="youtube-embed-meta">Channel: Tattooed Biker&#x27;s Unexplained &middot; Views: 834 &middot; Uploaded: August 2023 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wZv3XWa0fLc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wZv3XWa0fLc">Open on YouTube</a></p></div></div></div>
 
 ## Why police status helps but does not verify the claim
 
@@ -291,8 +289,7 @@ Several limits are especially relevant in the Gaffney case:
 
 Those gaps matter because extraordinary claims become easier to evaluate when independent records exist. The officers may have sincerely believed what they reported, but sincerity alone cannot answer questions about exactly what occurred.
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-2-light.svg" | relative_url }}" alt="Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-2-dark.svg" | relative_url }}" alt="Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The missing records problem
 
 One of the most striking weaknesses in the Gaffney case is the absence of documentation that readers would normally expect from a significant police encounter.
@@ -302,7 +299,6 @@ If two patrol officers genuinely believed they had witnessed a landed craft and 
 This does not prove that no report existed. Records may have been lost, discarded or never publicly released. The problem is that investigators cannot inspect what they do not have.
 
 The consequence is that key questions remain unanswered:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -316,8 +312,7 @@ The consequence is that key questions remain unanswered:
 
 Without documentation, later narrators effectively become the custodians of the story. That places unusual weight on Keel's reconstruction and on memories recorded long after the alleged encounter.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wZv3XWa0fLc" title="The Gaffney UFO Incident, The Night Police Talked To A Real Alien, as Reported By John Keel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wZv3XWa0fLc" target="_blank" rel="noopener noreferrer">The Gaffney UFO Incident, The Night Police Talked To A Real Alien, as Reported By John Keel</a></p><p class="youtube-embed-meta">Channel: Tattooed Biker&#x27;s Unexplained &middot; Views: 834 &middot; Uploaded: August 2023 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wZv3XWa0fLc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wZv3XWa0fLc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/spINrGMxgKA" title="&#x27;The Gaffney Incident: The Night Police Talked to an Alien&#x27; | Paranormal Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=spINrGMxgKA" target="_blank" rel="noopener noreferrer">&#x27;The Gaffney Incident: The Night Police Talked to an Alien&#x27; | Paranormal Story</a></p><p class="youtube-embed-meta">Channel: Beyond Creepy &middot; Views: 2.3M &middot; Uploaded: September 2017 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=spINrGMxgKA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=spINrGMxgKA">Open on YouTube</a></p></div></div></div>
 
 ## Memory, ridicule and the year-late interview problem
 
@@ -331,8 +326,7 @@ The Gaffney encounter illustrates several warning signs: <span class="citation-c
 
 Keel's influential version emerged after he visited Gaffney about a year after the reported event. By then the officers had already experienced local reactions, media attention and discussion within UFO circles. The story readers know today is therefore not a same-day account but a retrospective one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-3-light.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb_gaffney_police_witne_5c5c97-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Public ridicule may have altered details
 
 Hutchins reportedly told Keel that the officers faced mockery after speaking about the encounter. He further suggested that the famous "green complexion" element was added partly in response to that ridicule. Whether interpreted as humour, frustration or embellishment, the admission raises questions about which parts of the narrative were original observations and which became attached later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span>
@@ -349,9 +343,7 @@ At the same time, the evidence never reaches the level that the police connectio
 
 A balanced assessment sits between belief and dismissal. There is no strong evidence that Huskey and Hutchins invented the encounter from nothing. There is equally no strong evidence that the event unfolded exactly as later UFO literature describes it. The surviving record supports only a narrower conclusion: two named Gaffney officers were associated with an unusual story that they continued discussing after the event, but the available documentation is too limited to verify the most extraordinary parts of the claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-snippet">black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</span><span class="citation-popover-meta">Published: December 3, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia601409.us.archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia601409.us.archive.org</span><span class="citation-popover-title">An eminent scientist, mathematician, and.Read more</span><span class="citation-popover-snippet">Internet ArchiveOn UFOs, Folklore, And Parallel Worlds ~ JACQUES VALLEEJacques Va I lee&#x27;s stunning exploration of tlic evidence of extrat...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AxM4rWuaLOI" title="The Gaffney Visitor - South Carolina&#x27;s Most Famous UFO Encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AxM4rWuaLOI" target="_blank" rel="noopener noreferrer">The Gaffney Visitor - South Carolina&#x27;s Most Famous UFO Encounter</a></p><p class="youtube-embed-meta">Channel: The Strangest &middot; Views: 2.0K &middot; Uploaded: November 2023 &middot; Length: 4 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AxM4rWuaLOI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AxM4rWuaLOI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -775,24 +767,24 @@ A balanced assessment sits between belief and dismissal. There is no strong evid
 1. <a id="endnote-1"></a>
    Source: ia601409.us.archive.org  
    Title: An eminent scientist, mathematician, and.Read more  
-   Link: [https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf](https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf)  
+   Link: <a href="https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveOn UFOs, Folklore, And Parallel Worlds ~ JACQUES VALLEEJacques Va I lee&#x27;s stunning exploration of tlic evidence of extrat...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: newspapers.com  
    Title: Keel on the Gaffney Incident By JOHN A. KEEL NEW YORK (NANA)  
-   Link: [https://www.newspapers.com/article/springfield-leader-and-press-keel-on-the/28848758/](https://www.newspapers.com/article/springfield-leader-and-press-keel-on-the/28848758/)  
+   Link: <a href="https://www.newspapers.com/article/springfield-leader-and-press-keel-on-the/28848758/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/springfield-leader-and-press-keel-on-the/28848758/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keel on the Gaffney IncidentBy JOHN A. KEEL NEW YORK (NANA) - Patrolmen Charles Hutchins and A. G. Huskey pretty solid citizens in Gaffne...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ia801800.us.archive.org  
    Title: Jacques Vallee Passportto Magonia  
-   Link: [https://ia801800.us.archive.org/19/items/jacques-vallee-passportto-magonia_202012/JacquesValleePassporttoMagonia.pdf](https://ia801800.us.archive.org/19/items/jacques-vallee-passportto-magonia_202012/JacquesValleePassporttoMagonia.pdf)  
+   Link: <a href="https://ia801800.us.archive.org/19/items/jacques-vallee-passportto-magonia_202012/JacquesValleePassporttoMagonia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801800.us.archive.org/19/items/jacques-vallee-passportto-magonia_202012/JacquesValleePassporttoMagonia.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Magoniaconclusions. Passport to Magonia also contains Jacques Vallee&#x27;s... the testimony of these four witnesses was rendered vain.&#x27; 1...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: blackbooksdotpub.wordpress.com  
-   Link: [https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf](https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf)  
+   Link: <a href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>black booksStrange Mutants of the Twenty First CenturyDecember 3, 2021 — Hutchins had been on the Gaffney police Force for about six mont...</p></details>
    Published: December 3, 2021  
 
@@ -800,54 +792,54 @@ A balanced assessment sits between belief and dismissal. There is no strong evid
 
 5. <a id="endnote-5"></a>
    Source: cinemaretro.com  
-   Link: [https://cinemaretro.com/index.php?%2Fsearch%2Factress%2FP2.html=](https://cinemaretro.com/index.php?%2Fsearch%2Factress%2FP2.html=)  
+   Link: <a href="https://cinemaretro.com/index.php?%2Fsearch%2Factress%2FP2.html=" target="_blank" rel="noopener noreferrer nofollow">https://cinemaretro.com/index.php?%2Fsearch%2Factress%2FP2.html=</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cinema RetroIt comes with an audio commentary by authors and comedy historians Gemma and Robert Ross. There is also an interview with act...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/16n8kyq/jacques_vallees_passport_to_magonia/](https://www.reddit.com/r/ufo/comments/16n8kyq/jacques_vallees_passport_to_magonia/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/16n8kyq/jacques_vallees_passport_to_magonia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/16n8kyq/jacques_vallees_passport_to_magonia/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallee&#x27;s Passport to Magonia: r/ufoOne of the things reading Jacque Vallee taught me was to stop cherry picking the data. We ten...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/John_Keel](https://en.wikipedia.org/wiki/John_Keel)  
+   Link: <a href="https://en.wikipedia.org/wiki/John_Keel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/John_Keel</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>John KeelIn his books UFOs: Operation Trojan Horse and The Eighth Tower Keel argues... The Great UFO Wave of &#x27;73: Interview with John...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740](https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740)  
+   Link: <a href="https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PASSPORT TO MAGONIA. On UFOs, Folklore, and Parallel...Passport to Magonia is Jacques Vallee&#x27;s second book on the UFO phenomenon and the...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: device.report  
-   Link: [https://device.report/m/5fd88c178ddfc74691a9856cb2326f5c1a431c7086b135bb01656b03cc7d650c](https://device.report/m/5fd88c178ddfc74691a9856cb2326f5c1a431c7086b135bb01656b03cc7d650c)  
+   Link: <a href="https://device.report/m/5fd88c178ddfc74691a9856cb2326f5c1a431c7086b135bb01656b03cc7d650c" target="_blank" rel="noopener noreferrer nofollow">https://device.report/m/5fd88c178ddfc74691a9856cb2326f5c1a431c7086b135bb01656b03cc7d650c</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PDF documentCode Number 0A ORIGINATING AGENCY POLICE OR STATE IDENTIFICATION NUMBER AF AIR FORCE SERIAL NUMBER AN N0N-IMMIGRATI0N ADMISSI...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: scribd.com  
    Title: Physical Traces PDF | PDF | Unidentified Flying Object Traces were found  
-   Link: [https://www.scribd.com/document/452809253/Physical-Traces-pdf](https://www.scribd.com/document/452809253/Physical-Traces-pdf)  
+   Link: <a href="https://www.scribd.com/document/452809253/Physical-Traces-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/452809253/Physical-Traces-pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(Lucius Farish). Nov 17, 1966 u.s., Gaffney, SC. Police officers A.G. Huskey and Charles 252 0400 Hutchins saw a glowing object on the gr...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: goodreads.com  
    Title: 395681 passport to magonia on ufos folklore and parallel worlds  
-   Link: [https://www.goodreads.com/work/editions/395681-passport-to-magonia-on-ufos-folklore-and-parallel-worlds](https://www.goodreads.com/work/editions/395681-passport-to-magonia-on-ufos-folklore-and-parallel-worlds)  
+   Link: <a href="https://www.goodreads.com/work/editions/395681-passport-to-magonia-on-ufos-folklore-and-parallel-worlds" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/work/editions/395681-passport-to-magonia-on-ufos-folklore-and-parallel-worlds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All Editions of Passport to MagoniaPassport to Magonia: On UFOs, Folklore, and Parallel Worlds. Published January 1st 1993 by Contemporar...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: amazon.co.uk  
    Title: Passport to Magonia: From Folklore to Flying Saucers Dr  
-   Link: [https://www.amazon.co.uk/Passport-Magonia-Folklore-Flying-Saucers/dp/0987422472](https://www.amazon.co.uk/Passport-Magonia-Folklore-Flying-Saucers/dp/0987422472)  
+   Link: <a href="https://www.amazon.co.uk/Passport-Magonia-Folklore-Flying-Saucers/dp/0987422472" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Passport-Magonia-Folklore-Flying-Saucers/dp/0987422472</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques F. Vallee has long been regarded as the most respected and senior scientific investigator of unidentified aerial phenomena. He wa...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/boris-karloff-midnight-marquee-actors-series-9781936168149-1936168146.html](https://dokumen.pub/boris-karloff-midnight-marquee-actors-series-9781936168149-1936168146.html)  
+   Link: <a href="https://dokumen.pub/boris-karloff-midnight-marquee-actors-series-9781936168149-1936168146.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/boris-karloff-midnight-marquee-actors-series-9781936168149-1936168146.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Boris Karloff: Midnight Marquee Actors Series...Steiner (Edward Van Sloan) tells Henderson (Karloff) he is to take over for Arnold in Be...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: jeroenthoughts.wordpress.com  
    Title: review passport to magonia 1969 by jacques vallee  
-   Link: [https://jeroenthoughts.wordpress.com/2024/08/28/review-passport-to-magonia-1969-by-jacques-vallee/](https://jeroenthoughts.wordpress.com/2024/08/28/review-passport-to-magonia-1969-by-jacques-vallee/)  
+   Link: <a href="https://jeroenthoughts.wordpress.com/2024/08/28/review-passport-to-magonia-1969-by-jacques-vallee/" target="_blank" rel="noopener noreferrer nofollow">https://jeroenthoughts.wordpress.com/2024/08/28/review-passport-to-magonia-1969-by-jacques-vallee/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vallée presents so many accounts of strange visitations, and refers to so many ancient sources, that he gives...Read more...</p></details>

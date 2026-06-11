@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /california-cf386e-california-ufo-recor/
 description: Focused pages that expand on Records.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: California_cf386e_california_ufo_recor_35af44
-parent_title: Records | Why California Became A UFO Hotspot
+parent_title: Records
 parent_nav_short_title: Records
 parent_permalink: /records/
 ---

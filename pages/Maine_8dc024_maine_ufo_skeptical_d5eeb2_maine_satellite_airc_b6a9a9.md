@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /sceptical-analysis/
 nav_short_title: Sky traffic
 title: Are Maine UFOs really sky traffic?
-title_full: Are Maine UFOs really sky traffic? | Sceptical Analysis
+title_full: Are Maine UFOs really sky traffic?
 display_title_short: Sky traffic
 display_title: Sky traffic
 heading_title: Are Maine UFOs really sky traffic?
@@ -200,15 +200,15 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:33:55'
-parent_title: Why Many Maine UFOs Can Be Explained Scientifically | MaineUFOs
+parent_title: Why Many Maine UFOs Can Be Explained Scientifically
 parent_permalink: /sceptical-analysis/
 parent_nav_short_title: Sceptical Analysis
 parent_heading_title: Why Many Maine UFOs Can Be Explained Scientifically
 ancestor_links:
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: Maine_8dc024_maine_ufo_skeptical_d5eeb2
   title: Sceptical Analysis | What Makes Maine a Hotspot for UFO Sightings?
   permalink: /sceptical-analysis/
@@ -216,9 +216,9 @@ ancestor_links:
   heading_title: Why Many Maine UFOs Can Be Explained Scientifically
 breadcrumb_links:
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: Maine_8dc024_maine_ufo_skeptical_d5eeb2
   title: Sceptical Analysis | What Makes Maine a Hotspot for UFO Sightings?
   permalink: /sceptical-analysis/
@@ -250,10 +250,9 @@ image: /assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_satellite_ai
 
 ## Introduction
 
-Many modern UFO reports in [Maine]({{ 'what-makes-maine-a-hotspot-for-ufo/' | relative_url }}) begin with a genuine mystery and end with a surprisingly ordinary answer. One of the most common explanations involves objects that are easy to misjudge in a dark sky: satellite trains, bright satellites, aircraft landing lights and high-altitude jets. Seen over the Gulf of Maine, across forested interior regions or above sparsely lit rural towns, these lights can appear to hover, travel in formation, accelerate suddenly or vanish without warning.
+Many modern UFO reports in Maine begin with a genuine mystery and end with a surprisingly ordinary answer. One of the most common explanations involves objects that are easy to misjudge in a dark sky: satellite trains, bright satellites, aircraft landing lights and high-altitude jets. Seen over the Gulf of Maine, across forested interior regions or above sparsely lit rural towns, these lights can appear to hover, travel in formation, accelerate suddenly or vanish without warning.
 
-
-<img src="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_satellite_airc_b6a9a9-Illustration-1-light.svg" | relative_url }}" alt="Sky traffic illustration 1" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_satellite_airc_b6a9a9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_satellite_airc_b6a9a9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_satellite_airc_b6a9a9-Illustration-1-dark.svg" | relative_url }}" alt="Sky traffic illustration 1" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_satellite_airc_b6a9a9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_satellite_airc_b6a9a9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This does not mean witnesses are careless. In fact, some of the most convincing reports arise because the human eye struggles to judge distance, speed and altitude when there are few visual reference points. Maine's long coastlines, dark skies and wide-open horizons create ideal conditions for these mistakes. As satellite traffic has increased and aircraft lighting has become brighter and more visible, investigators have found that many recent UFO reports can be checked against known flight paths and satellite tracks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://findstarlink.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: findstarlink.com">[2findstarlink.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">findstarlink.com</span><span class="citation-popover-title">Starlink Satellites Tracker</span><span class="citation-popover-snippet">Check when you can see it!Calculate when you can see the Starlink satellites above your location...</span></span></span>
 
 ## Why satellites and aircraft fool careful observers
@@ -274,7 +273,6 @@ A bright aircraft descending towards Portland International Jetport, Bangor Inte
 
 The result is a recurring pattern in UFO databases: reports of silent lights that seem stationary, lights that suddenly brighten, or multiple lights moving together in ways that initially appear impossible but later match ordinary aviation traffic.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GhLXCJ1Gyyc" title="Starlink satellites, the string of lights in the night sky." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer">Starlink satellites, the string of lights in the night sky.</a></p><p class="youtube-embed-meta">Channel: Brad Panovich (wxbrad) &middot; Views: 251.4K &middot; Uploaded: September 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GhLXCJ1Gyyc">Open on YouTube</a></p></div></div></div>
 
 ## Starlink trains, satellite flares and sudden vanishing lights
@@ -286,7 +284,6 @@ Shortly after launch, Starlink satellites often travel in a closely spaced line.
 Local news reports have repeatedly identified suspected UFO sightings as Starlink passes. In one Maine television report, observers who believed they had seen something unusual were told that the objects were likely part of the Starlink constellation. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wabi.tv/video/2024/03/27/ufo-sighting-likely-starlink-satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wabi.tv">[www.wabi.tv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wabi.tv</span><span class="citation-popover-snippet">It&#x27;s a constellation of satellites operated by Elon Elon musk&#x27;s SpaceX. It provides internet service to more than 70 counties...</span></span></span>
 
 The effect is especially convincing because it does not resemble traditional aircraft traffic. Witnesses may see:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -304,14 +301,13 @@ These characteristics sound unusual, yet they match the appearance of newly depl
 
 One of the most puzzling features reported in UFO sightings is the sudden disappearance of a light.
 
-For satellites, the explanation is often simple geometry. A satellite is visible only because sunlight reflects from it towards an observer on Earth. As it moves through orbit, that angle changes. A bright object can fade rapidly or disappear altogether even though it continues travelling along the same path. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivA Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
+For satellites, the explanation is often simple geometry. A satellite is visible only because sunlight reflects from it towards an observer on Earth. As it moves through orbit, that angle changes. A bright object can fade rapidly or disappear altogether even though it continues travelling along the same path. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
 
 To an observer who does not know a satellite is present, this can look as though an object has accelerated away, cloaked itself or blinked out of existence.
 
 Earlier generations of satellites sometimes produced dramatic "flares", brief flashes caused by sunlight reflecting directly towards Earth. Although the brightest classic flares were associated with Iridium satellites, changing reflection angles still cause noticeable brightening and fading events among modern satellites. Similar effects continue to generate UFO reports.
 
-
-<img src="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_satellite_airc_b6a9a9-Illustration-2-light.svg" | relative_url }}" alt="Sky traffic illustration 2" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_satellite_airc_b6a9a9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_satellite_airc_b6a9a9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_satellite_airc_b6a9a9-Illustration-2-dark.svg" | relative_url }}" alt="Sky traffic illustration 2" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_satellite_airc_b6a9a9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_satellite_airc_b6a9a9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aircraft lights that look stranger than the aircraft
 
 Aircraft lighting systems are designed to be seen from long distances. Ironically, that makes them a frequent source of UFO reports.
@@ -321,7 +317,6 @@ Modern aircraft carry multiple types of lights, including landing lights, naviga
 Landing lights are particularly misleading. When an aircraft is flying towards an observer, these powerful forward-facing lights can create the impression of a bright stationary orb. Because the aircraft's sideways motion is minimal from that viewing angle, the light may appear to hang motionless in the sky. Only later does the observer notice movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">seem to remain stagnant at times when flying in the air? 0. 4. I&#x27;ve seen a ufo out of a plane · r/UFOs. • 3y ago. I&#x27;ve seen a ufo out of...</span></span></span>
 
 This explains many reports describing:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -333,7 +328,6 @@ This explains many reports describing:
 </div>
 
 The transition often occurs when the aircraft turns or passes overhead, revealing its standard navigation lighting arrangement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pilotinstitute.com">[Pilot Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pilotinstitute.com</span><span class="citation-popover-title">Learn how these lights</span><span class="citation-popover-snippet">Pilot InstituteAirplane Lights: What Each Light Does (Red/Green, Strobe...26 Dec 2024 — Discover the purpose of airplane lights, from n...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tNgN1LELVpQ" title="Mysterious ball of light seen in East Coast sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tNgN1LELVpQ" target="_blank" rel="noopener noreferrer">Mysterious ball of light seen in East Coast sky</a></p><p class="youtube-embed-meta">Channel: PIX11 News &middot; Views: 32.6K &middot; Uploaded: August 2025 &middot; Length: 2 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tNgN1LELVpQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tNgN1LELVpQ">Open on YouTube</a></p></div></div></div>
 
@@ -353,8 +347,7 @@ Satellite sightings can be checked through services that predict visible passes.
 
 A useful sighting check normally includes:
 
-
-<img src="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_satellite_airc_b6a9a9-Illustration-3-light.svg" | relative_url }}" alt="Sky traffic illustration 3" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_satellite_airc_b6a9a9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_satellite_airc_b6a9a9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_satellite_airc_b6a9a9-Illustration-3-dark.svg" | relative_url }}" alt="Sky traffic illustration 3" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_satellite_airc_b6a9a9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_ufo_skeptical_d5eeb2_maine_satellite_airc_b6a9a9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -378,9 +371,7 @@ This does not mean every Maine sighting can be solved. Some reports remain too p
 
 That lesson fits a wider sceptical reading of Maine's UFO history. The state's landscape gives people remarkable views of the night sky, but those same conditions make ordinary sky traffic look far stranger than it really is. When a line of lights crosses a remote lake, when a bright object hovers above the coast, or when a glowing point suddenly vanishes over the forest, the first question is often not "What impossible thing happened?" but "What was already in the sky?"
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5WBpJvfSewM" title="Glowing spiral spotted in night sky over Maine on Tuesday" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5WBpJvfSewM" target="_blank" rel="noopener noreferrer">Glowing spiral spotted in night sky over Maine on Tuesday</a></p><p class="youtube-embed-meta">Channel: WMTW-TV &middot; Views: 6.7K &middot; Uploaded: November 2025 &middot; Length: 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5WBpJvfSewM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5WBpJvfSewM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -804,163 +795,163 @@ That lesson fits a wider sceptical reading of Maine's UFO history. The state's l
 1. <a id="endnote-1"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: findstarlink.com  
    Title: Starlink Satellites Tracker  
-   Link: [https://findstarlink.com/](https://findstarlink.com/)  
+   Link: <a href="https://findstarlink.com/" target="_blank" rel="noopener noreferrer nofollow">https://findstarlink.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Check when you can see it!Calculate when you can see the Starlink satellites above your location...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: heavens-above.com  
-   Link: [https://www.heavens-above.com/](https://www.heavens-above.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Heavens-AboveStarlink passes for all objects from a launch · Daily predictions for brighter satellites · Satellite database · Amateur Rad...</p></details>
+   Link: <a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink passes for all objects from a launch · Daily predictions for brighter satellites · Satellite database · Amateur Rad...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/](https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/)  
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>seem to remain stagnant at times when flying in the air? 0. 4. I&#x27;ve seen a ufo out of a plane · r/UFOs. • 3y ago. I&#x27;ve seen a ufo out of...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Sensory illusions in aviation  
-   Link: [https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation](https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
 
 6. <a id="endnote-6"></a>
    Source: wabi.tv  
-   Link: [https://www.wabi.tv/video/2024/03/27/ufo-sighting-likely-starlink-satellites/](https://www.wabi.tv/video/2024/03/27/ufo-sighting-likely-starlink-satellites/)  
+   Link: <a href="https://www.wabi.tv/video/2024/03/27/ufo-sighting-likely-starlink-satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.wabi.tv/video/2024/03/27/ufo-sighting-likely-starlink-satellites/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s a constellation of satellites operated by Elon Elon musk&#x27;s SpaceX. It provides internet service to more than 70 counties...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2003.07805](https://arxiv.org/abs/2003.07805)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivA Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</p></details>
+   Link: <a href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.07805</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</p></details>
    Published: March 17, 2020  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: Can someone explain to me what this is?  
-   Link: [https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/](https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g3xs9k/can_someone_explain_to_me_what_this_is/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Specifically the light...October 15, 2024 — If you see this in the skies from now on, its not a UFO. Its a power Station!... r/UFOs - I...</p></details>
    Published: October 15, 2024  
 
 9. <a id="endnote-9"></a>
    Source: heavens-above.com  
-   Link: [https://www.heavens-above.com/starlinklaunchpasses.aspx](https://www.heavens-above.com/starlinklaunchpasses.aspx)  
+   Link: <a href="https://www.heavens-above.com/starlinklaunchpasses.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/starlinklaunchpasses.aspx</a>  
 
 10. <a id="endnote-10"></a>
    Source: newscentermaine.com  
-   Link: [https://www.newscentermaine.com/article/news/nation-world/new-pentagon-report-on-ufos-no-evidence-of-aliens/507-c1864ea7-1495-4b87-8908-26cecfd8fc35](https://www.newscentermaine.com/article/news/nation-world/new-pentagon-report-on-ufos-no-evidence-of-aliens/507-c1864ea7-1495-4b87-8908-26cecfd8fc35)  
+   Link: <a href="https://www.newscentermaine.com/article/news/nation-world/new-pentagon-report-on-ufos-no-evidence-of-aliens/507-c1864ea7-1495-4b87-8908-26cecfd8fc35" target="_blank" rel="noopener noreferrer nofollow">https://www.newscentermaine.com/article/news/nation-world/new-pentagon-report-on-ufos-no-evidence-of-aliens/507-c1864ea7-1495-4b87-8908-26cecfd8fc35</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mistake chains of satellites for UFOs.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: heavens-above.com  
-   Link: [https://heavens-above.com/StarLink.aspx](https://heavens-above.com/StarLink.aspx)  
+   Link: <a href="https://heavens-above.com/StarLink.aspx" target="_blank" rel="noopener noreferrer nofollow">https://heavens-above.com/StarLink.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>dynamic 3D orbit displaySatellite predictions and other astronomical data customised for your location...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/](https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I (pilot) came head on with an object glowing green during...This happened a few hours ago while I was flying with my student at 12,000...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/19drzab/im_an_airline_pilot_and_i_saw_the_lights_on/](https://www.reddit.com/r/UFOs/comments/19drzab/im_an_airline_pilot_and_i_saw_the_lights_on/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/19drzab/im_an_airline_pilot_and_i_saw_the_lights_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/19drzab/im_an_airline_pilot_and_i_saw_the_lights_on/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m an airline pilot and I saw “the lights” on January 19, 2024r/UFOs - I saw lights outside my airplane on the way to New Zealand... r/...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Phoenix Lights  
-   Link: [https://en.wikipedia.org/wiki/Phoenix_Lights](https://en.wikipedia.org/wiki/Phoenix_Lights)  
+   Link: <a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix LightsSome witnesses described seeing what appeared to be a huge carpenter&#x27;s square-shaped UFO containing five spherical light...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pilotinstitute.com  
    Title: Learn how these lights  
-   Link: [https://pilotinstitute.com/airplane-lights/](https://pilotinstitute.com/airplane-lights/)  
+   Link: <a href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/airplane-lights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot InstituteAirplane Lights: What Each Light Does (Red/Green, Strobe...26 Dec 2024 — Discover the purpose of airplane lights, from n...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: epicflightacademy.com  
    Title: aircraft lights  
-   Link: [https://epicflightacademy.com/aircraft-lights/](https://epicflightacademy.com/aircraft-lights/)  
+   Link: <a href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow">https://epicflightacademy.com/aircraft-lights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Lighting: Types, Importance, and Regulations3 Mar 2026 — Strobe lights: High-intensity flashing white lights located at the wing...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: aerosociety.com  
    Title: the phantom horizon  
-   Link: [https://www.aerosociety.com/news/the-phantom-horizon/](https://www.aerosociety.com/news/the-phantom-horizon/)  
+   Link: <a href="https://www.aerosociety.com/news/the-phantom-horizon/" target="_blank" rel="noopener noreferrer nofollow">https://www.aerosociety.com/news/the-phantom-horizon/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Aeronautical SocietyThe phantom horizon24 Feb 2026 — Visual illusions are a major hazard in flight, particularly during approach an...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox4kc/posts/lights-aliens-nope-just-a-starlink-satellite-courtesy-of-elon-musk/10158796372953645/](https://www.facebook.com/fox4kc/posts/lights-aliens-nope-just-a-starlink-satellite-courtesy-of-elon-musk/10158796372953645/)  
+   Link: <a href="https://www.facebook.com/fox4kc/posts/lights-aliens-nope-just-a-starlink-satellite-courtesy-of-elon-musk/10158796372953645/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox4kc/posts/lights-aliens-nope-just-a-starlink-satellite-courtesy-of-elon-musk/10158796372953645/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens? Nope! Just a Starlink satellite courtesy of...... UFOs to an alien invasion. Of course. But fear not. These lights are actually...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: james.darpinian.com  
-   Link: [https://james.darpinian.com/satellites/?special=starlink](https://james.darpinian.com/satellites/?special=starlink)  
+   Link: <a href="https://james.darpinian.com/satellites/?special=starlink" target="_blank" rel="noopener noreferrer nofollow">https://james.darpinian.com/satellites/?special=starlink</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>See A Satellite Tonight - James DarpinianSee a train of 60 Starlink satellites cross your sky! 🛰️ No telescope required. Find out when th...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GhLXCJ1Gyyc](https://www.youtube.com/watch?v=GhLXCJ1Gyyc)  
+   Link: <a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GhLXCJ1Gyyc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the night sky...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2024/11/15/us-news/commercial-plane-had-near-miss-with-ufo-near-new-york-pentagon/](https://nypost.com/2024/11/15/us-news/commercial-plane-had-near-miss-with-ufo-near-new-york-pentagon/)  
+   Link: <a href="https://nypost.com/2024/11/15/us-news/commercial-plane-had-near-miss-with-ufo-near-new-york-pentagon/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/15/us-news/commercial-plane-had-near-miss-with-ufo-near-new-york-pentagon/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The incident, which occurred over the Atlantic Ocean, led to a flight safety concern. The Pentagon&#x27;s All-Domain Anomaly Resolution Office...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: starwalk.space  
-   Link: [https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide](https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide)  
+   Link: <a href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow">https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Star WalkStarlink Tracker: Find Starlink Satellites Tonight5 days ago — The weird-looking moving lights in the sky may be Starlink satell...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: wgan.com  
-   Link: [https://wgan.com/news/074470-ufo-expert-normar-slevik-says-ufo-sightings-way-up-in-maine-based-on-social-media-findings/](https://wgan.com/news/074470-ufo-expert-normar-slevik-says-ufo-sightings-way-up-in-maine-based-on-social-media-findings/)  
+   Link: <a href="https://wgan.com/news/074470-ufo-expert-normar-slevik-says-ufo-sightings-way-up-in-maine-based-on-social-media-findings/" target="_blank" rel="noopener noreferrer nofollow">https://wgan.com/news/074470-ufo-expert-normar-slevik-says-ufo-sightings-way-up-in-maine-based-on-social-media-findings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO expert Normar Slevik says UFO sightings way up in...While there&#x27;s a chance of something extraterrestrial showing up in the pine tree...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: paclights.com  
-   Link: [https://www.paclights.com/learning-center/ufo-lights-lighting-explained/](https://www.paclights.com/learning-center/ufo-lights-lighting-explained/)  
+   Link: <a href="https://www.paclights.com/learning-center/ufo-lights-lighting-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.paclights.com/learning-center/ufo-lights-lighting-explained/</a>  
 
 25. <a id="endnote-25"></a>
    Source: universemagazine.com  
    Title: known flying objects sky phenomena we often mistake for ufos  
-   Link: [https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOoruCr0_FiEurijTWmr1KRxsdBSfl3ae3iAEpidpailcqFBeQq4J](https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOoruCr0_FiEurijTWmr1KRxsdBSfl3ae3iAEpidpailcqFBeQq4J)  
+   Link: <a href="https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOoruCr0_FiEurijTWmr1KRxsdBSfl3ae3iAEpidpailcqFBeQq4J" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOoruCr0_FiEurijTWmr1KRxsdBSfl3ae3iAEpidpailcqFBeQq4J</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Known Flying Objects: Sky Phenomena We Often Mistake...12 Oct 2024 — In this article, we delve into the subject of UFOs, particularly th...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: eazypilot.com  
    Title: night illusions while flying what every pilot should know  
-   Link: [https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/](https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/)  
+   Link: <a href="https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/" target="_blank" rel="noopener noreferrer nofollow">https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Illusions While Flying: What Every Pilot Should Know10 Aug 2025 — Night illusions are visual and sensory misinterpretations that ca...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: medcraveonline.com  
    Title: ball lightning and unidentified flying objects ufos  
-   Link: [https://medcraveonline.com/PAIJ/ball-lightning-and-unidentified-flying-objects-ufos.html](https://medcraveonline.com/PAIJ/ball-lightning-and-unidentified-flying-objects-ufos.html)  
+   Link: <a href="https://medcraveonline.com/PAIJ/ball-lightning-and-unidentified-flying-objects-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://medcraveonline.com/PAIJ/ball-lightning-and-unidentified-flying-objects-ufos.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ball lightning and unidentified flying objects (UFOs)15 Mar 2024 — Witnesses, amazed at the sight of these objects, often mistook them fo...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: supercarblondie.com  
    Title: airline pilots ufo sightings mistaken identity  
-   Link: [https://supercarblondie.com/airline-pilots-ufo-sightings-mistaken-identity/](https://supercarblondie.com/airline-pilots-ufo-sightings-mistaken-identity/)  
+   Link: <a href="https://supercarblondie.com/airline-pilots-ufo-sightings-mistaken-identity/" target="_blank" rel="noopener noreferrer nofollow">https://supercarblondie.com/airline-pilots-ufo-sightings-mistaken-identity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Airline pilots&#x27; UFO sightings demystified in case of mistaken...22 Mar 2024 — Airline pilots&#x27; UFO sightings demystified in case of mista...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: skyatnightmagazine.com  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hat many &#x27;believers&#x27; think inhabits a star orbiting Zeta...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: flighttrainingcentral.com  
    Title: be aware of these 5 night flying deceptions  
-   Link: [https://flighttrainingcentral.com/2022/12/be-aware-of-these-5-night-flying-deceptions/](https://flighttrainingcentral.com/2022/12/be-aware-of-these-5-night-flying-deceptions/)  
+   Link: <a href="https://flighttrainingcentral.com/2022/12/be-aware-of-these-5-night-flying-deceptions/" target="_blank" rel="noopener noreferrer nofollow">https://flighttrainingcentral.com/2022/12/be-aware-of-these-5-night-flying-deceptions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Dec 2022 — Ground Lighting Illusions – Lights along a straight path, such as a road or lights on moving trains, can be mistaken for ru...</p></details>

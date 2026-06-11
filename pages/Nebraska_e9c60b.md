@@ -262,7 +262,7 @@ sibling_links:
   short_title: Michigan UFOs
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Alabama_d1f92d
   title: Alabama UFOs
@@ -277,9 +277,9 @@ sibling_links:
   permalink: /what-keeps-tennessees-ufo-stories-alive/
   short_title: Tennessee UFOs
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Idaho_18334c
   title: Idaho UFOs
   permalink: /what-makes-idaho-a-key-ufo-hotspot/
@@ -289,9 +289,9 @@ sibling_links:
   permalink: /what-makes-indianas-ufo-history-unique/
   short_title: Indiana UFOs
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: South_Carolina_11d001
   title: South Carolina UFOs
   permalink: /what-makes-south-carolinas-ufo-story/
@@ -481,7 +481,6 @@ image: /assets/images/Nebraska_e9c60b-overview-social.jpg
 
 Nebraska entered the American UFO story before the phrase “flying saucer” existed. In 1897, newspapers across the state reported sightings of a mysterious “airship”, usually described as a fast-moving, lighted craft, sometimes with wings or a canoe-like shape. A History Nebraska article by folklorist Roger L. Welsch notes that the 1897 wave began in Nebraska in February and that his survey found nearly 200 reported sightings in the state’s newspapers. The reports appeared in papers from Omaha, Lincoln, Wymore, Hastings and many other towns, making the episode one of Nebraska’s richest early aerial-mystery traditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">State Historical Society Microsoft Word</span></span></span>
 
-
 <img src="{{ "/assets/images/Nebraska_e9c60b-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Nebraska&#x27;s UFO..." loading="eager" decoding="sync" fetchpriority="high">
 The [airship wave]({{ 'airship-wave-089275/' | relative_url }}) matters because it shows that UFO-like stories did not begin with jets, rockets or Cold War secrecy. Nebraska’s 1897 accounts already contained many later UFO ingredients: bright lights, repeated sightings, arguments over witness reliability, local jokes, possible [hoaxes]({{ 'hoaxes/' | relative_url }}), and newspapers trying to decide whether to treat the claims as marvel, nonsense or news. Welsch’s article describes editors caught between ridicule and reports from people presented as credible, while also noting clear cases of practical jokes, including an Omaha balloon hoax confessed by its organisers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">State Historical Society Microsoft Word</span></span></span>
 
@@ -499,18 +498,16 @@ The psychological and hypnosis material is where the case becomes most contested
 
 That conclusion does not prove Schirmer lied. It means the strongest official study of the case could not bridge the gap between a sincere witness and verifiable physical evidence. For Nebraska UFO history, Ashland is therefore best treated as a landmark unresolved claim with strong cultural life, not as a confirmed encounter. Later retellings added beings, symbols, craft interiors and other abduction-style details, but those claims depend heavily on hypnotic regression and later narrative development, which are much weaker evidential foundations than contemporaneous logs, multiple independent witnesses or instrument records.
 
-
-<img src="{{ "/assets/images/Nebraska_e9c60b-Illustration-1-light.svg" | relative_url }}" alt="What Really Happened in Nebraska&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nebraska_e9c60b-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Nebraska&#x27;s UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Military, aviation and the problem of ordinary explanations
 
 Nebraska’s UFO record is inevitably shaped by aviation. The state has had Air Force installations, broad open skies, Strategic Air Command associations through Offutt Air Force Base, and many rural night-driving reports. But the existence of aviation infrastructure cuts both ways: it can make a sighting more interesting when trained observers or radar are involved, and it can also multiply mundane explanations such as aircraft, balloons, military activity, satellites, re-entry debris and distant lights.
 
 The National Archives’ Project Blue Book page is the main official doorway into the old Air Force record. It states that Blue Book ran until 1969, that 12,618 sightings were reported to the project, and that 701 remained “Unidentified”. It also records the Air Force’s formal conclusions: no investigated UFO indicated a threat to national security, no evidence showed unidentified cases represented technology beyond scientific knowledge, and no evidence indicated extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-A Nebraska example from Lincoln Air Force Base in February 1957 illustrates the mixed character of military-linked cases. A Nebraska aviation-history site reproduces and discusses a UFO report from Lincoln Air Force Base, noting that the official report listed the sighting as “Possible Aircraft, Probably Balloon”. The witnesses named in the report included Air Force personnel such as a colonel, air traffic control specialists and tower operators, which makes the report more serious than an anonymous anecdote; yet the official explanation still leaned towards ordinary aerial objects rather than an exotic craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lincolnafb.wordpress.com/ufos-in-lincoln/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lincolnafb.wordpress.com">[Aviation in Nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lincolnafb.wordpress.com</span><span class="citation-popover-title">Aviation in Nebraska UFO’s in Lincoln (And Omaha) | Aviation in Nebraska</span><span class="citation-popover-snippet">Aviation in Nebraska UFO’s in Lincoln (And Omaha) | Aviation in Nebraska</span></span></span>
+A Nebraska example from Lincoln Air Force Base in February 1957 illustrates the mixed character of military-linked cases. A Nebraska aviation-history site reproduces and discusses a UFO report from Lincoln Air Force Base, noting that the official report listed the sighting as “Possible Aircraft, Probably Balloon”. The witnesses named in the report included Air Force personnel such as a colonel, air traffic control specialists and tower operators, which makes the report more serious than an anonymous anecdote; yet the official explanation still leaned towards ordinary aerial objects rather than an exotic craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lincolnafb.wordpress.com/ufos-in-lincoln/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lincolnafb.wordpress.com">[Aviation in Nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lincolnafb.wordpress.com</span><span class="citation-popover-title">Aviation in Nebraska UFO’s in Lincoln (And Omaha) &#124; Aviation in Nebraska</span><span class="citation-popover-snippet">Aviation in Nebraska UFO’s in Lincoln (And Omaha) &#124; Aviation in Nebraska</span></span></span>
 
 That pattern is common in UFO history. Military or aviation witnesses can improve the quality of a report, especially where timing, direction and technical context are recorded, but they do not remove the need for corroboration. Modern NASA guidance makes the same point in broader terms: eyewitness accounts can be compelling, but on their own they are usually not reproducible and often lack the information needed to draw firm conclusions about origin. NASA’s independent UAP study also emphasised poor sensor calibration, missing metadata and the lack of multiple measurements as major barriers to understanding UAP reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XYf-whvwWPU" title="Local UFO story revitalized after beer, comic book comes out" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XYf-whvwWPU" target="_blank" rel="noopener noreferrer">Local UFO story revitalized after beer, comic book comes out</a></p><p class="youtube-embed-meta">Channel: KMTV 3 News Now &middot; Views: 4.3K &middot; Uploaded: April 2019 &middot; Length: 2 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XYf-whvwWPU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XYf-whvwWPU">Open on YouTube</a></p></div></div></div>
 
@@ -522,8 +519,7 @@ Kral’s importance lies in the middle ground between belief and dismissal. Nebr
 
 This matters for Nebraska because many sightings are small, local and easily lost. A sheriff’s note, a town newspaper clipping, a MUFON file, a Blue Book microfilm entry or a local investigator’s correspondence can preserve the difference between “someone once saw something” and a report that can be checked against weather, aircraft activity, witness separation, police logs and later retellings. The more accessible those records become, the easier it is to separate memorable folklore from genuinely puzzling cases.
 
-
-<img src="{{ "/assets/images/Nebraska_e9c60b-Illustration-2-light.svg" | relative_url }}" alt="What Really Happened in Nebraska&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nebraska_e9c60b-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Nebraska&#x27;s UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What modern Nebraska reports can and cannot show
 
 Modern databases show that Nebraska continues to generate UFO reports, especially around Omaha, Lincoln, Bellevue, rural highways and open-sky regions. The National UFO Reporting Center’s Nebraska index includes claims ranging from disks and triangles to fireballs, lights, orbs and cigar-shaped objects, with entries stretching back through older retrospective reports and into recent decades. Examples include Omaha triangle reports, Bellevue and Offutt-adjacent reports, green fireballs in Lincoln and Omaha, and a range of rural night-sky observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/subndx/?id=lNE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for State NE</span><span class="citation-popover-snippet">NUFOR C Reports for State NE</span></span></span>
@@ -532,8 +528,7 @@ These databases are useful as finding aids, not verdicts. They can reveal cluste
 
 Modern official procedures also show that UAP reporting has become more formal, even if that does not make every report extraordinary. The Federal Aviation Administration now instructs air traffic personnel to inform an operations supervisor or controller-in-charge of reported or observed UAP activity. The All-domain Anomaly Resolution Office, meanwhile, describes itself as leading the US government’s UAP work using a rigorous scientific framework and data-driven approach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GcOCIabFnLE" title="Project Blue Book UFO Interview USAF (1966)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer">Project Blue Book UFO Interview USAF (1966)</a></p><p class="youtube-embed-meta">Channel: AIRBOYD &middot; Views: 783 &middot; Uploaded: November 2025 &middot; Length: 4 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GcOCIabFnLE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YvW_DmfKfSk" title="Nebraska Movie Official Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YvW_DmfKfSk" target="_blank" rel="noopener noreferrer">Nebraska Movie Official Trailer</a></p><p class="youtube-embed-meta">Channel: Paramount Pictures &middot; Views: 299.4K &middot; Uploaded: September 2013 &middot; Length: 2 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YvW_DmfKfSk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YvW_DmfKfSk">Open on YouTube</a></p></div></div></div>
 
 ## The most plausible explanations in Nebraska cases
 
@@ -541,8 +536,8 @@ Nebraska’s UFO history is best read with several explanations in mind at once.
 
 The recurring explanations are familiar but important:
 
-* **Newspaper invention and practical jokes:** the 1884 Dundy County story was later exposed as a hoax, and the [1897 airship wave]({{ 'airship-wave-089275/' | relative_url }}) included confessed balloon pranks and playful newspaper treatment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">State Historical Society Microsoft Word</span></span></span>
-* **Balloons, aircraft and lights:** the Lincoln Air Force Base report’s official “possible aircraft, probably balloon” explanation is typical of how many structured investigations end. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lincolnafb.wordpress.com/ufos-in-lincoln/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lincolnafb.wordpress.com">[Aviation in Nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lincolnafb.wordpress.com</span><span class="citation-popover-title">Aviation in Nebraska UFO’s in Lincoln (And Omaha) | Aviation in Nebraska</span><span class="citation-popover-snippet">Aviation in Nebraska UFO’s in Lincoln (And Omaha) | Aviation in Nebraska</span></span></span>
+* **Newspaper invention and practical jokes:** the 1884 Dundy County story was later exposed as a hoax, and the 1897 airship wave included confessed balloon pranks and playful newspaper treatment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nebraska.gov">[nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nebraska.gov</span><span class="citation-popover-title">State Historical Society Microsoft Word</span><span class="citation-popover-snippet">State Historical Society Microsoft Word</span></span></span>
+* **Balloons, aircraft and lights:** the Lincoln Air Force Base report’s official “possible aircraft, probably balloon” explanation is typical of how many structured investigations end. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lincolnafb.wordpress.com/ufos-in-lincoln/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lincolnafb.wordpress.com">[Aviation in Nebraska]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lincolnafb.wordpress.com</span><span class="citation-popover-title">Aviation in Nebraska UFO’s in Lincoln (And Omaha) &#124; Aviation in Nebraska</span><span class="citation-popover-snippet">Aviation in Nebraska UFO’s in Lincoln (And Omaha) &#124; Aviation in Nebraska</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -554,17 +549,14 @@ The recurring explanations are familiar but important:
 
 Recent federal reviews reinforce this cautious approach. AARO’s historical review states that no evidence of extraterrestrial origin was found in the programmes it examined and that many historical cases were likely resolvable with better data. NASA’s report similarly argues that the path forward is not looser speculation but better-calibrated sensors, richer metadata and structured reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-38 "Endnote 38")
 
-
-<img src="{{ "/assets/images/Nebraska_e9c60b-Illustration-3-light.svg" | relative_url }}" alt="What Really Happened in Nebraska&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nebraska_e9c60b-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Nebraska&#x27;s UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Nebraska’s UFO record really leaves open
 
 Nebraska has no single UFO case that can responsibly be presented as confirmed evidence of extraterrestrial visitation. Its strongest material is more interesting than that: it shows how sightings move from sky to witness, from witness to newspaper or investigator, and from record to folklore. The 1897 airship wave captures an era when technological imagination outran proven flight. The 1884 “Celestial Visitor” shows how an invented story can acquire a long afterlife. The [Ashland case]({{ 'ashland-case/' | relative_url }}) shows how even a named police witness, physical-site checks, a polygraph claim and official study can still leave investigators unconvinced.
 
 The unresolved space is therefore not “aliens in Nebraska” but the harder, more useful question of evidence. What was recorded at the time? Were there independent witnesses? Was there radar, photography, environmental data or recovered material with a clear chain of custody? Did later retellings add details that were absent from the first report? Nebraska’s UFO history rewards that kind of careful reading. It is a state-level record of mystery, doubt, memory, local identity and investigation — and its best lesson is that unexplained does not mean proven, while explained or debunked does not mean historically unimportant.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YvW_DmfKfSk" title="Nebraska Movie Official Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YvW_DmfKfSk" target="_blank" rel="noopener noreferrer">Nebraska Movie Official Trailer</a></p><p class="youtube-embed-meta">Channel: Paramount Pictures &middot; Views: 299.4K &middot; Uploaded: September 2013 &middot; Length: 2 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YvW_DmfKfSk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YvW_DmfKfSk">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zaXQdjMxG6E" title="Is Deleuze&#x27;s Film Theory Useful? | Department of Film Theory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zaXQdjMxG6E" target="_blank" rel="noopener noreferrer">Is Deleuze&#x27;s Film Theory Useful? | Department of Film Theory</a></p><p class="youtube-embed-meta">Channel: ScriptCastle &middot; Views: 45.7K &middot; Uploaded: June 2012 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zaXQdjMxG6E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zaXQdjMxG6E">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -652,7 +644,7 @@ The unresolved space is therefore not “aliens in Nebraska” but the harder, m
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -662,111 +654,36 @@ The unresolved space is therefore not “aliens in Nebraska” but the harder, m
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/~C4AAOSwhchnoVIr/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -774,15 +691,15 @@ The unresolved space is therefore not “aliens in Nebraska” but the harder, m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW"><img src="https://i.ebayimg.com/images/g/2CYAAOSwbhVgJDbB/s-l225.jpg" alt="Listing image for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -790,15 +707,15 @@ The unresolved space is therefore not “aliens in Nebraska” but the harder, m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -806,15 +723,15 @@ The unresolved space is therefore not “aliens in Nebraska” but the harder, m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -822,7 +739,7 @@ The unresolved space is therefore not “aliens in Nebraska” but the harder, m
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraskas-ufo-what-really-happened-in-nebraska-s-ufo-record-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-really-happened-in-nebraska-s-ufo-record-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -899,17 +816,31 @@ The unresolved space is therefore not “aliens in Nebraska” but the harder, m
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -922,42 +853,73 @@ The unresolved space is therefore not “aliens in Nebraska” but the harder, m
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -972,12 +934,17 @@ The unresolved space is therefore not “aliens in Nebraska” but the harder, m
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -988,263 +955,263 @@ The unresolved space is therefore not “aliens in Nebraska” but the harder, m
 1. <a id="endnote-1"></a>
    Source: history.nebraska.gov  
    Title: State Historical Society Microsoft Word  
-   Link: [https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf](https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf)  
+   Link: <a href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: history.nebraska.gov  
-   Link: [https://history.nebraska.gov/flashback-friday-a-celestial-visitor-revisited-a-nebraska-newspaper-hoax-from-1884-patricia-c-gaster/](https://history.nebraska.gov/flashback-friday-a-celestial-visitor-revisited-a-nebraska-newspaper-hoax-from-1884-patricia-c-gaster/)  
+   Link: <a href="https://history.nebraska.gov/flashback-friday-a-celestial-visitor-revisited-a-nebraska-newspaper-hoax-from-1884-patricia-c-gaster/" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/flashback-friday-a-celestial-visitor-revisited-a-nebraska-newspaper-hoax-from-1884-patricia-c-gaster/</a>  
 
 3. <a id="endnote-3"></a>
    Source: nebraskalegislature.gov  
    Title: Nebraska Legislature  
-   Link: [https://nebraskalegislature.gov/FloorDocs/107/PDF/Intro/LR245.pdf](https://nebraskalegislature.gov/FloorDocs/107/PDF/Intro/LR245.pdf)  
+   Link: <a href="https://nebraskalegislature.gov/FloorDocs/107/PDF/Intro/LR245.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nebraskalegislature.gov/FloorDocs/107/PDF/Intro/LR245.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%20Study%20Of%20Unidentified%20Flying%20Objects_djvu.txt](https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%20Study%20Of%20Unidentified%20Flying%20Objects_djvu.txt)  
+   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%20Study%20Of%20Unidentified%20Flying%20Objects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%20Study%20Of%20Unidentified%20Flying%20Objects_djvu.txt</a>  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 6. <a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports for State NE  
-   Link: [https://nuforc.org/subndx/?id=lNE](https://nuforc.org/subndx/?id=lNE)  
+   Link: <a href="https://nuforc.org/subndx/?id=lNE" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNE</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 10. <a id="endnote-10"></a>
    Source: prologue.blogs.archives.gov  
    Title: saucers over washington the history of project blue book  
-   Link: [https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/](https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/moving-images-and-sound](https://www.archives.gov/research/topics/uaps/moving-images-and-sound)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
 12. <a id="endnote-12"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: project blue book ufos in home movies  
-   Link: [https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/](https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/</a>  
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/photographs](https://www.archives.gov/research/topics/uaps/photographs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
 
 14. <a id="endnote-14"></a>
    Source: prologue.blogs.archives.gov  
    Title: invasion of privacy  
-   Link: [https://prologue.blogs.archives.gov/2018/04/09/invasion-of-privacy/](https://prologue.blogs.archives.gov/2018/04/09/invasion-of-privacy/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/09/invasion-of-privacy/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/09/invasion-of-privacy/</a>  
 
 15. <a id="endnote-15"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 16. <a id="endnote-16"></a>
    Source: prologue.blogs.archives.gov  
    Title: ufos natural explanations  
-   Link: [https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/](https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
 
 17. <a id="endnote-17"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download](https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download)  
+   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
 
 18. <a id="endnote-18"></a>
    Source: prologue.blogs.archives.gov  
    Title: ufos man made made up and unknown  
-   Link: [https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/](https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/</a>  
 
 19. <a id="endnote-19"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 20. <a id="endnote-20"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: project blue book looking to the film record  
-   Link: [https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/](https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/</a>  
 
 21. <a id="endnote-21"></a>
    Source: prologue.blogs.archives.gov  
-   Link: [https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf](https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf)  
+   Link: <a href="https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: archives.gov  
    Title: textual and microfilm  
-   Link: [https://www.archives.gov/research/topics/uaps/textual-and-microfilm](https://www.archives.gov/research/topics/uaps/textual-and-microfilm)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
 
 23. <a id="endnote-23"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/news/articles](https://www.archives.gov/news/articles)  
+   Link: <a href="https://www.archives.gov/news/articles" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles</a>  
 
 24. <a id="endnote-24"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/foia/ufos.html](https://www.archives.gov/foia/ufos.html)  
+   Link: <a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
 
 25. <a id="endnote-25"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/preservation/technical/imaging-storage-appendix.html](https://www.archives.gov/preservation/technical/imaging-storage-appendix.html)  
+   Link: <a href="https://www.archives.gov/preservation/technical/imaging-storage-appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/preservation/technical/imaging-storage-appendix.html</a>  
 
 26. <a id="endnote-26"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
 27. <a id="endnote-27"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-collections](https://www.archives.gov/research/topics/uaps/rg-collections)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
 
 28. <a id="endnote-28"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/presidential-libraries](https://www.archives.gov/research/topics/uaps/presidential-libraries)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
 
 29. <a id="endnote-29"></a>
    Source: newspapers.com  
    Title: lincoln journal star the 1967 schirmer u  
-   Link: [https://www.newspapers.com/article/lincoln-journal-star-the-1967-schirmer-u/53351592/](https://www.newspapers.com/article/lincoln-journal-star-the-1967-schirmer-u/53351592/)  
+   Link: <a href="https://www.newspapers.com/article/lincoln-journal-star-the-1967-schirmer-u/53351592/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/lincoln-journal-star-the-1967-schirmer-u/53351592/</a>  
 
 30. <a id="endnote-30"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt](https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt)  
+   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
 
 31. <a id="endnote-31"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: [https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf](https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
 33. <a id="endnote-33"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
 34. <a id="endnote-34"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
 35. <a id="endnote-35"></a>
    Source: lincolnafb.wordpress.com  
    Title: Aviation in Nebraska UFO’s in Lincoln (And Omaha) | Aviation in Nebraska  
-   Link: [https://lincolnafb.wordpress.com/ufos-in-lincoln/](https://lincolnafb.wordpress.com/ufos-in-lincoln/)  
+   Link: <a href="https://lincolnafb.wordpress.com/ufos-in-lincoln/" target="_blank" rel="noopener noreferrer nofollow">https://lincolnafb.wordpress.com/ufos-in-lincoln/</a>  
 
 36. <a id="endnote-36"></a>
    Source: nebraskapublicmedia.org  
-   Link: [https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/](https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/)  
+   Link: <a href="https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/" target="_blank" rel="noopener noreferrer nofollow">https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/</a>  
 
 37. <a id="endnote-37"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
 
 38. <a id="endnote-38"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 39. <a id="endnote-39"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 40. <a id="endnote-40"></a>
    Source: Wikipedia  
    Title: Herbert Schirmer  
-   Link: [https://it.wikipedia.org/wiki/Herbert_Schirmer](https://it.wikipedia.org/wiki/Herbert_Schirmer)  
+   Link: <a href="https://it.wikipedia.org/wiki/Herbert_Schirmer" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Herbert_Schirmer</a>  
 
 41. <a id="endnote-41"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: [https://en.wikipedia.org/wiki/Condon_Committee](https://en.wikipedia.org/wiki/Condon_Committee)  
+   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
 
 42. <a id="endnote-42"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Nebraska/comments/1t7upsr/nebraska_ufo_investigations_made_public_through/](https://www.reddit.com/r/Nebraska/comments/1t7upsr/nebraska_ufo_investigations_made_public_through/)  
+   Link: <a href="https://www.reddit.com/r/Nebraska/comments/1t7upsr/nebraska_ufo_investigations_made_public_through/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Nebraska/comments/1t7upsr/nebraska_ufo_investigations_made_public_through/</a>  
 
 43. <a id="endnote-43"></a>
    Source: nebraskalife.com  
    Title: is there anybody out there  
-   Link: [https://www.nebraskalife.com/blog/post/is-there-anybody-out-there?srsltid=AfmBOoqwaXP65DTlnnli2nAEqyN18w_reRd6p0AAIG5RbOkMyULi5xNj](https://www.nebraskalife.com/blog/post/is-there-anybody-out-there?srsltid=AfmBOoqwaXP65DTlnnli2nAEqyN18w_reRd6p0AAIG5RbOkMyULi5xNj)  
+   Link: <a href="https://www.nebraskalife.com/blog/post/is-there-anybody-out-there?srsltid=AfmBOoqwaXP65DTlnnli2nAEqyN18w_reRd6p0AAIG5RbOkMyULi5xNj" target="_blank" rel="noopener noreferrer nofollow">https://www.nebraskalife.com/blog/post/is-there-anybody-out-there?srsltid=AfmBOoqwaXP65DTlnnli2nAEqyN18w_reRd6p0AAIG5RbOkMyULi5xNj</a>  
 
 44. <a id="endnote-44"></a>
    Source: nebraskalife.com  
    Title: is there anybody out there  
-   Link: [https://www.nebraskalife.com/blog/post/is-there-anybody-out-there?srsltid=AfmBOorKUQp2oQ18lxtq9pYpeotT7gtPIAI_Xu4ahbmLs2wEsbOgjgd-](https://www.nebraskalife.com/blog/post/is-there-anybody-out-there?srsltid=AfmBOorKUQp2oQ18lxtq9pYpeotT7gtPIAI_Xu4ahbmLs2wEsbOgjgd-)  
+   Link: <a href="https://www.nebraskalife.com/blog/post/is-there-anybody-out-there?srsltid=AfmBOorKUQp2oQ18lxtq9pYpeotT7gtPIAI_Xu4ahbmLs2wEsbOgjgd-" target="_blank" rel="noopener noreferrer nofollow">https://www.nebraskalife.com/blog/post/is-there-anybody-out-there?srsltid=AfmBOorKUQp2oQ18lxtq9pYpeotT7gtPIAI_Xu4ahbmLs2wEsbOgjgd-</a>  
 
 45. <a id="endnote-45"></a>
    Source: nebraskalife.com  
    Title: is there anybody out there  
-   Link: [https://www.nebraskalife.com/blog/post/is-there-anybody-out-there?srsltid=AfmBOooWxwmuuzPjqQlpK3q7yJC1ireBop9aLjQlZCHCMVqrtRGEhEoq](https://www.nebraskalife.com/blog/post/is-there-anybody-out-there?srsltid=AfmBOooWxwmuuzPjqQlpK3q7yJC1ireBop9aLjQlZCHCMVqrtRGEhEoq)  
+   Link: <a href="https://www.nebraskalife.com/blog/post/is-there-anybody-out-there?srsltid=AfmBOooWxwmuuzPjqQlpK3q7yJC1ireBop9aLjQlZCHCMVqrtRGEhEoq" target="_blank" rel="noopener noreferrer nofollow">https://www.nebraskalife.com/blog/post/is-there-anybody-out-there?srsltid=AfmBOooWxwmuuzPjqQlpK3q7yJC1ireBop9aLjQlZCHCMVqrtRGEhEoq</a>  
 
 46. <a id="endnote-46"></a>
    Source: listennotes.com  
    Title: Herbert Schirmer  
-   Link: [https://www.listennotes.com/bg/top-podcasts/herbert-schirmer/?srsltid=AfmBOoq3XTi3qA6lzTSWiJmlvDVe-Y8zrVe3LjQSqEsa3ZB6-jbXlhjx](https://www.listennotes.com/bg/top-podcasts/herbert-schirmer/?srsltid=AfmBOoq3XTi3qA6lzTSWiJmlvDVe-Y8zrVe3LjQSqEsa3ZB6-jbXlhjx)  
+   Link: <a href="https://www.listennotes.com/bg/top-podcasts/herbert-schirmer/?srsltid=AfmBOoq3XTi3qA6lzTSWiJmlvDVe-Y8zrVe3LjQSqEsa3ZB6-jbXlhjx" target="_blank" rel="noopener noreferrer nofollow">https://www.listennotes.com/bg/top-podcasts/herbert-schirmer/?srsltid=AfmBOoq3XTi3qA6lzTSWiJmlvDVe-Y8zrVe3LjQSqEsa3ZB6-jbXlhjx</a>  
 
 47. <a id="endnote-47"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 48. <a id="endnote-48"></a>
    Source: nebraskaland.unl.edu  
-   Link: [https://nebraskaland.unl.edu/item/nela.1970_048_03](https://nebraskaland.unl.edu/item/nela.1970_048_03)  
+   Link: <a href="https://nebraskaland.unl.edu/item/nela.1970_048_03" target="_blank" rel="noopener noreferrer nofollow">https://nebraskaland.unl.edu/item/nela.1970_048_03</a>  
 
 ### Additional References
 
 49. <a id="endnote-49"></a>
    Source: ufoevidence.org  
-   Link: [https://ufoevidence.org/Cases/CaseSubarticle.asp?ID=660](https://ufoevidence.org/Cases/CaseSubarticle.asp?ID=660)  
+   Link: <a href="https://ufoevidence.org/Cases/CaseSubarticle.asp?ID=660" target="_blank" rel="noopener noreferrer nofollow">https://ufoevidence.org/Cases/CaseSubarticle.asp?ID=660</a>  
 
 50. <a id="endnote-50"></a>
    Source: aiaa.org  
-   Link: [https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf](https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf)  
+   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
 
 51. <a id="endnote-51"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/664911255/Alien-Identities](https://www.scribd.com/document/664911255/Alien-Identities)  
+   Link: <a href="https://www.scribd.com/document/664911255/Alien-Identities" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/664911255/Alien-Identities</a>  
 
 52. <a id="endnote-52"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/beyond-earth-mans-contact-with-ufos.html](https://dokumen.pub/beyond-earth-mans-contact-with-ufos.html)  
+   Link: <a href="https://dokumen.pub/beyond-earth-mans-contact-with-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/beyond-earth-mans-contact-with-ufos.html</a>  
 
 53. <a id="endnote-53"></a>
    Source: tumblr.com  
-   Link: [https://www.tumblr.com/stendek/5292103036/condon-report-demonizes-herb-schirmer-ufo-case](https://www.tumblr.com/stendek/5292103036/condon-report-demonizes-herb-schirmer-ufo-case)  
+   Link: <a href="https://www.tumblr.com/stendek/5292103036/condon-report-demonizes-herb-schirmer-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.tumblr.com/stendek/5292103036/condon-report-demonizes-herb-schirmer-ufo-case</a>  
 
 54. <a id="endnote-54"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DSWvc01ko5i/](https://www.instagram.com/reel/DSWvc01ko5i/)  
+   Link: <a href="https://www.instagram.com/reel/DSWvc01ko5i/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DSWvc01ko5i/</a>  
 
 55. <a id="endnote-55"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DSVIsn0DZkz/](https://www.instagram.com/p/DSVIsn0DZkz/)  
+   Link: <a href="https://www.instagram.com/p/DSVIsn0DZkz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSVIsn0DZkz/</a>  
 
 56. <a id="endnote-56"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BBCArchive/posts/meet-joe-simonton-a-retired-wisconsin-plumber-who-told-dr-stephen-black-about-a-/749396144151982/](https://www.facebook.com/BBCArchive/posts/meet-joe-simonton-a-retired-wisconsin-plumber-who-told-dr-stephen-black-about-a-/749396144151982/)  
+   Link: <a href="https://www.facebook.com/BBCArchive/posts/meet-joe-simonton-a-retired-wisconsin-plumber-who-told-dr-stephen-black-about-a-/749396144151982/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/posts/meet-joe-simonton-a-retired-wisconsin-plumber-who-told-dr-stephen-black-about-a-/749396144151982/</a>  
 
 57. <a id="endnote-57"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThaiPBSWorld/posts/members-of-an-independent-nasa-panel-studying-ufos-or-what-the-us-government-now/6692013127510627/](https://www.facebook.com/ThaiPBSWorld/posts/members-of-an-independent-nasa-panel-studying-ufos-or-what-the-us-government-now/6692013127510627/)  
+   Link: <a href="https://www.facebook.com/ThaiPBSWorld/posts/members-of-an-independent-nasa-panel-studying-ufos-or-what-the-us-government-now/6692013127510627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThaiPBSWorld/posts/members-of-an-independent-nasa-panel-studying-ufos-or-what-the-us-government-now/6692013127510627/</a>  
 
 58. <a id="endnote-58"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/washingtonpostopinions/posts/michael-shermer-has-been-following-and-writing-about-ufo-phenomena-since-the-199/1355264476460575/](https://www.facebook.com/washingtonpostopinions/posts/michael-shermer-has-been-following-and-writing-about-ufo-phenomena-since-the-199/1355264476460575/)  
+   Link: <a href="https://www.facebook.com/washingtonpostopinions/posts/michael-shermer-has-been-following-and-writing-about-ufo-phenomena-since-the-199/1355264476460575/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/washingtonpostopinions/posts/michael-shermer-has-been-following-and-writing-about-ufo-phenomena-since-the-199/1355264476460575/</a>

@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /allagash-case/
 nav_short_title: Hypnosis & Abductions
 title: What the Allagash Witnesses Recalled Under Hypnosis
-title_full: What the Allagash Witnesses Recalled Under Hypnosis | Allagash Case
+title_full: What the Allagash Witnesses Recalled Under Hypnosis
 display_title_short: Hypnosis & Abductions
 display_title: Hypnosis & Abductions
 heading_title: What the Allagash Witnesses Recalled Under Hypnosis
@@ -198,15 +198,15 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:33:25'
-parent_title: Unpacking the Allagash Abductions of 1976 | MaineUFOs
+parent_title: Unpacking the Allagash Abductions of 1976
 parent_permalink: /allagash-case/
 parent_nav_short_title: Allagash Case
 parent_heading_title: Unpacking the Allagash Abductions of 1976
 ancestor_links:
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: Maine_8dc024_allagash_abductions_6349c1
   title: Allagash Case | What Makes Maine a Hotspot for UFO Sightings?
   permalink: /allagash-case/
@@ -214,9 +214,9 @@ ancestor_links:
   heading_title: Unpacking the Allagash Abductions of 1976
 breadcrumb_links:
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: Maine_8dc024_allagash_abductions_6349c1
   title: Allagash Case | What Makes Maine a Hotspot for UFO Sightings?
   permalink: /allagash-case/
@@ -248,11 +248,10 @@ image: /assets/images/Maine_8dc024_allagash_abductions_6349c1_hypnosis_abduction
 
 ## Introduction
 
-The most controversial part of the Allagash Wilderness case is not the original 1976 sighting itself but what emerged more than a decade later during hypnotic regression sessions. The four witnesses — twin brothers Jim and Jack Weiner, together with Charlie Foltz and Chuck Rak — reported only a strange light, missing time, and lingering unease for years after the camping trip. In 1988 and 1989, however, sessions conducted as part of a UFO investigation produced detailed accounts of an alleged abduction aboard a non-human craft. Those memories transformed a regional [Maine]({{ 'what-makes-maine-a-hotspot-for-ufo/' | relative_url }}) UFO story into one of the best-known multiple-witness alien abduction cases in the United States. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolved.com/gallery/allagash-abductees/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Allagash Abductees</span><span class="citation-popover-snippet">Unsolved MysteriesAllagash Abductees - Unsolved MysteriesFowler suggested the Allagash four undergo hypnosis with a trained hypnotherapis...</span></span></span>
+The most controversial part of the Allagash Wilderness case is not the original 1976 sighting itself but what emerged more than a decade later during hypnotic regression sessions. The four witnesses — twin brothers Jim and Jack Weiner, together with Charlie Foltz and Chuck Rak — reported only a strange light, missing time, and lingering unease for years after the camping trip. In 1988 and 1989, however, sessions conducted as part of a UFO investigation produced detailed accounts of an alleged abduction aboard a non-human craft. Those memories transformed a regional Maine UFO story into one of the best-known multiple-witness alien abduction cases in the United States. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolved.com/gallery/allagash-abductees/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Allagash Abductees</span><span class="citation-popover-snippet">Unsolved MysteriesAllagash Abductees - Unsolved MysteriesFowler suggested the Allagash four undergo hypnosis with a trained hypnotherapis...</span></span></span>
 
-
-<img src="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1_hypnosis_abduction_a_98feb9-Illustration-1-light.svg" | relative_url }}" alt="Hypnosis &amp; Abductions illustration 1" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1_hypnosis_abduction_a_98feb9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1_hypnosis_abduction_a_98feb9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Supporters argue that the similarities between the four men's recollections strengthen the case. Critics counter that hypnotic regression is a highly disputed technique that can create or reinforce false memories, especially when participants already suspect that something extraordinary happened. The debate over the [Allagash case]({{ 'allagash-case/' | relative_url }}) therefore centres as much on memory and suggestion as it does on UFOs. Unsolved Mysteries <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedMemory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 321 — Those reporting recovered and repress...</span></span></span>
+<img src="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1_hypnosis_abduction_a_98feb9-Illustration-1-dark.svg" | relative_url }}" alt="Hypnosis &amp; Abductions illustration 1" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1_hypnosis_abduction_a_98feb9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1_hypnosis_abduction_a_98feb9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Supporters argue that the similarities between the four men's recollections strengthen the case. Critics counter that hypnotic regression is a highly disputed technique that can create or reinforce false memories, especially when participants already suspect that something extraordinary happened. The debate over the [Allagash case]({{ 'allagash-case/' | relative_url }}) therefore centres as much on memory and suggestion as it does on UFOs. Unsolved Mysteries <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Memory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 321 — Those reporting recovered and repress...</span></span></span>
 
 ## How Hypnosis Entered the Allagash Investigation
 
@@ -260,10 +259,9 @@ The witnesses did not publicly describe an alien-abduction scenario in the years
 
 Fowler arranged for the men to undergo separate hypnotic-regression sessions with professional hypnotist Anthony Constantino. According to accounts from the investigation, the witnesses were questioned individually rather than as a group. Advocates later argued that this separation reduced the possibility of collaboration or deliberate story-building. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/Allagash.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookAllagash AbductionA professional hypnotist from Beverly, who also works as an English teacher at Masconomet High School, Cons...</span></span></span>
 
-The resulting material became the foundation of Fowler's 1993 book *The [Allagash Abductions]({{ 'allagash-case/' | relative_url }}): Undeniable Evidence of Alien Intervention*. Much of the book consists of interview material and hypnosis-session transcripts, reflecting how central those sessions were to the case's development. Goodreads <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/allagashabductio0000fowl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">347 p.: 22 cm. Includes bibliographical references and index.Read more</span><span class="citation-popover-snippet">Internet ArchiveThe Allagash abductions: undeniable evidence of alien...8 Sept 2023 — The Allagash abductions: undeniable evidence of...</span></span></span>
+The resulting material became the foundation of Fowler's 1993 book *The Allagash Abductions: Undeniable Evidence of Alien Intervention*. Much of the book consists of interview material and hypnosis-session transcripts, reflecting how central those sessions were to the case's development. Goodreads <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/allagashabductio0000fowl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">347 p.: 22 cm. Includes bibliographical references and index.Read more</span><span class="citation-popover-snippet">Internet ArchiveThe Allagash abductions: undeniable evidence of alien...8 Sept 2023 — The Allagash abductions: undeniable evidence of...</span></span></span>
 
 A crucial point often overlooked in popular retellings is that the abduction narrative was not the original report from 1976. It emerged after approximately twelve years had passed, making the reliability of recovered memory a central question rather than a side issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theufochronicles.com/2013/09/undeniable-evidence-of-alien.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[The UFO Chronicles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-snippet">The UFO Chronicles&quot;Undeniable Evidence of Alien Intervention&quot; is Recounted...9 Sept 2013 — The case was the subject of a 1993 book, &quot;The...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mPHADhObzTI" title="An Alien Abduction Hypnotherapist Explains Extraterrestrial Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mPHADhObzTI" target="_blank" rel="noopener noreferrer">An Alien Abduction Hypnotherapist Explains Extraterrestrial Encounters</a></p><p class="youtube-embed-meta">Channel: VICE &middot; Views: 239.6K &middot; Uploaded: February 2019 &middot; Length: 4 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mPHADhObzTI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mPHADhObzTI">Open on YouTube</a></p></div></div></div>
 
@@ -272,7 +270,6 @@ A crucial point often overlooked in popular retellings is that the abduction nar
 Under hypnosis, the four men reportedly described being taken aboard a craft after encountering the bright aerial object above Eagle Lake. Although details varied, the broad outlines of the accounts were presented as remarkably similar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolved.com/gallery/allagash-abductees/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Allagash Abductees</span><span class="citation-popover-snippet">Unsolved MysteriesAllagash Abductees - Unsolved MysteriesFowler suggested the Allagash four undergo hypnosis with a trained hypnotherapis...</span></span></span>
 
 Several recurring elements appeared across the sessions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -290,14 +287,12 @@ The witnesses also described what they perceived as clinical procedures rather t
 
 According to Fowler's account, the men produced drawings and sketches based on what they said they remembered. Supporters of the case frequently cite these illustrations as evidence that the witnesses visualised similar settings and entities despite being questioned separately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolved.com/gallery/allagash-abductees/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Allagash Abductees</span><span class="citation-popover-snippet">Unsolved MysteriesAllagash Abductees - Unsolved MysteriesFowler suggested the Allagash four undergo hypnosis with a trained hypnotherapis...</span></span></span>
 
-
-<img src="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1_hypnosis_abduction_a_98feb9-Illustration-2-light.svg" | relative_url }}" alt="Hypnosis &amp; Abductions illustration 2" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1_hypnosis_abduction_a_98feb9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1_hypnosis_abduction_a_98feb9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1_hypnosis_abduction_a_98feb9-Illustration-2-dark.svg" | relative_url }}" alt="Hypnosis &amp; Abductions illustration 2" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1_hypnosis_abduction_a_98feb9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1_hypnosis_abduction_a_98feb9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Similarities Became So Important
 
 The strongest argument made by proponents of the Allagash case is that four independent witnesses allegedly recovered broadly matching memories. In UFO literature, this has often been presented as more compelling than a single-witness abduction account because any fabrication would require multiple people maintaining the same narrative over many years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.abebooks.co.uk/9780926524224/Allagash-Abductions-Undeniable-Evidence-Alien-0926524224/plp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abebooks.co.uk">[AbeBooks UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abebooks.co.uk</span><span class="citation-popover-snippet">Four artists, independently regressed into their suppressed memories, tell the same details of...</span></span></span>
 
 Supporters point to several features:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -310,8 +305,7 @@ Supporters point to several features:
 
 Within the wider history of [Maine UFO reports]({{ 'per-capita/' | relative_url }}), this helped elevate Allagash from a simple light-in-the-sky incident into a case frequently cited in discussions of alleged human encounters with non-human intelligences. The hypnosis sessions effectively became the defining feature of the story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Raymond_E._Fowler" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Raymond E. Fowler</span><span class="citation-popover-snippet">Raymond E. Fowler</span></span></span>
 
-Yet even among those interested in UFOs, the apparent consistency is not universally accepted as proof. Memory researchers note that similarities can arise through shared expectations, prior discussion, cultural influence, or interviewer effects rather than from a literal recollection of real events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedMemory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 321 — Those reporting recovered and repress...</span></span></span>
-
+Yet even among those interested in UFOs, the apparent consistency is not universally accepted as proof. Memory researchers note that similarities can arise through shared expectations, prior discussion, cultural influence, or interviewer effects rather than from a literal recollection of real events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Memory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 321 — Those reporting recovered and repress...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nLd8YAFkA8o" title="I Was Put Under HYPNOSIS.. | Alien Abduction Regression |" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nLd8YAFkA8o" target="_blank" rel="noopener noreferrer">I Was Put Under HYPNOSIS.. | Alien Abduction Regression |</a></p><p class="youtube-embed-meta">Channel: Mackie and Amanda &middot; Views: 26.7K &middot; Uploaded: January 2026 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nLd8YAFkA8o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nLd8YAFkA8o">Open on YouTube</a></p></div></div></div>
 
@@ -321,15 +315,14 @@ The major challenge to the Allagash abduction narrative comes from decades of ps
 
 By the late twentieth century, many cognitive psychologists had concluded that hypnosis is not a reliable method for recovering objectively accurate memories. Instead, hypnosis can increase confidence in memories regardless of whether those memories are true. Subjects may become more willing to fill gaps in recollection with imagery, assumptions, or suggestions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Susan_Clancy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Susan Clancy</span><span class="citation-popover-snippet">Susan Clancy</span></span></span>
 
-Research by Harvard psychologist Susan Clancy and others found that people reporting recovered alien-abduction memories were, on average, more susceptible to false-memory effects than control groups. Her studies suggested that some individuals were more likely to recall events that had never occurred when exposed to suggestive memory-testing conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedMemory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 321 — Those reporting recovered and repress...</span></span></span> Wikipedia Critics of the Allagash case therefore argue that several risk factors were present: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Susan_Clancy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Susan Clancy</span><span class="citation-popover-snippet">Susan Clancy</span></span></span>
+Research by Harvard psychologist Susan Clancy and others found that people reporting recovered alien-abduction memories were, on average, more susceptible to false-memory effects than control groups. Her studies suggested that some individuals were more likely to recall events that had never occurred when exposed to suggestive memory-testing conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Memory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 321 — Those reporting recovered and repress...</span></span></span> Wikipedia Critics of the Allagash case therefore argue that several risk factors were present: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Susan_Clancy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Susan Clancy</span><span class="citation-popover-snippet">Susan Clancy</span></span></span>
 
 * The witnesses already believed something unusual had happened.
 * More than a decade had passed since the original event.
 * The sessions occurred within a UFO-investigation framework.
 * Popular alien-abduction themes were already widespread in books, television, and UFO culture during the 1980s. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/abductive-reasoning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerAbductive ReasoningNovember 2, 2005 — 2 Nov 2005 — And it&#x27;s not just hypnosis that prompts false abduction claims...</span><span class="citation-popover-meta">Published: November 2, 2005</span></span></span> Wikipedia Sceptical commentators have also noted that regression hypnosis played a major role in numerous famous abduction cases that later became cont <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Susan_Clancy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Susan Clancy</span><span class="citation-popover-snippet">Susan Clancy</span></span></span> roversial or heavily disputed. Some investigators therefore view hypnosis-generated testimony as inherently unreliable unless supported by independent evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Raymond_E._Fowler" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Raymond E. Fowler</span><span class="citation-popover-snippet">Raymond E. Fowler</span></span></span>
 
-
-<img src="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1_hypnosis_abduction_a_98feb9-Illustration-3-light.svg" | relative_url }}" alt="Hypnosis &amp; Abductions illustration 3" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1_hypnosis_abduction_a_98feb9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1_hypnosis_abduction_a_98feb9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1_hypnosis_abduction_a_98feb9-Illustration-3-dark.svg" | relative_url }}" alt="Hypnosis &amp; Abductions illustration 3" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1_hypnosis_abduction_a_98feb9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_allagash_abductions_6349c1_hypnosis_abduction_a_98feb9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Questions About Credibility and Later Disputes
 
 The credibility debate intensified years after the case became famous.
@@ -338,10 +331,9 @@ In 2016, reporting in Maine highlighted statements by witness Chuck Rak that cas
 
 That development was significant because the Allagash story had long been promoted as a four-witness abduction account with broadly consistent recollections. Any disagreement about what emerged during the hypnosis sessions directly affects one of the case's strongest supporting claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thecounty.me/2016/09/21/houlton/how-much-of-a-famed-1976-ufo-abduction-is-true-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecounty.me">[The County]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecounty.me</span><span class="citation-popover-title">how much of a famed 1976 ufo abduction is true 4</span><span class="citation-popover-snippet">Fowler wrote a book about the case in 1993, “The Allagash Abductions.Read more...</span></span></span>
 
-Supporters responded by noting that even Fowler acknowledged differences among the participants. Some accounts state that Rak's hypnotic recall was less detailed than that of the others, rather than completely identical. From that perspective, variation does not necessarily invalidate the broader case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-allagash-abductions?srsltid=AfmBOoqNiDAE-NGNS6PCT82UGeKsQgcimrdXoe-qLk9Rol4SaiT_W0HB" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[Hangar1publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-snippet">Hangar1publishingThe Allagash Abductions: Maine&#x27;s Iconic Alien EncounterRaymond Fowler supported their view, noting that Rak had struggle...</span></span></span>
+Supporters responded by noting that even Fowler acknowledged differences among the participants. Some accounts state that Rak's hypnotic recall was less detailed than that of the others, rather than completely identical. From that perspective, variation does not necessarily invalidate the broader case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-allagash-abductions?srsltid=AfmBOoqNiDAE-NGNS6PCT82UGeKsQgcimrdXoe-qLk9Rol4SaiT_W0HB" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[Hangar1publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-snippet">The Allagash Abductions: Maine&#x27;s Iconic Alien EncounterRaymond Fowler supported their view, noting that Rak had struggle...</span></span></span>
 
 The dispute illustrates a recurring problem in UFO-abduction research: the historical record often depends on transcripts, recollections, television appearances, and later retellings rather than contemporaneous documentation from the original event itself.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NyjhgoZJvJw" title="Pascagoula - The Closest Encounter: My Story by Calvin Parker · Audiobook preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NyjhgoZJvJw" target="_blank" rel="noopener noreferrer">Pascagoula - The Closest Encounter: My Story by Calvin Parker · Audiobook preview</a></p><p class="youtube-embed-meta">Channel: Google Play Books &middot; Views: 487 &middot; Uploaded: January 2024 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NyjhgoZJvJw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NyjhgoZJvJw">Open on YouTube</a></p></div></div></div>
 
@@ -351,7 +343,7 @@ The hypnotic-regression material remains both the strongest and weakest element 
 
 For believers, the sessions transformed an unexplained wilderness encounter into a detailed multi-witness narrative involving alleged non-human entities, medical examinations, and missing time. The consistency of many recalled details continues to be cited as evidence that the witnesses experienced something extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolved.com/gallery/allagash-abductees/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolved.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolved.com</span><span class="citation-popover-title">Mysteries Allagash Abductees</span><span class="citation-popover-snippet">Unsolved MysteriesAllagash Abductees - Unsolved MysteriesFowler suggested the Allagash four undergo hypnosis with a trained hypnotherapis...</span></span></span>
 
-For sceptics, the same material undermines the case because the most dramatic claims emerged only after hypnosis. Modern memory research generally treats recovered memories obtained through hypnotic techniques with caution, particularly when no independent physical evidence confirms the events described. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedMemory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 321 — Those reporting recovered and repress...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Susan_Clancy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Susan Clancy</span><span class="citation-popover-snippet">Susan Clancy</span></span></span>, the Allagash case occupies an unusual place in Maine's UFO history. The original sighting remains unresolved, but the alleged abduction narrative depends heavily on a method of memory recovery that many psychologists consider unreliable. The case therefore continues to be cited both as a landmark alien-abduction account and as a textbook example of the difficulties involved in separating genuine recollection from suggestion, expectation, and reconstructed memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedMemory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 321 — Those reporting recovered and repress...</span></span></span>
+For sceptics, the same material undermines the case because the most dramatic claims emerged only after hypnosis. Modern memory research generally treats recovered memories obtained through hypnotic techniques with caution, particularly when no independent physical evidence confirms the events described. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Memory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 321 — Those reporting recovered and repress...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Susan_Clancy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Susan Clancy</span><span class="citation-popover-snippet">Susan Clancy</span></span></span>, the Allagash case occupies an unusual place in Maine's UFO history. The original sighting remains unresolved, but the alleged abduction narrative depends heavily on a method of memory recovery that many psychologists consider unreliable. The case therefore continues to be cited both as a landmark alien-abduction account and as a textbook example of the difficulties involved in separating genuine recollection from suggestion, expectation, and reconstructed memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Memory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 321 — Those reporting recovered and repress...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -439,161 +431,467 @@ For sceptics, the same material undermines the case because the most dramatic cl
   </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor"><img src="https://i.ebayimg.com/images/g/KM0AAeSwuTto-P2G/s-l225.jpg" alt="Listing image for Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage ALIEN ABDUCTION Wall Art, Cryptid Sexy Sci-fi Poster, UFO Sighting Decor</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction - UFO Get In Loser Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/nwMAAeSwgS9p1Tp8/s-l225.jpg" alt="Listing image for Alien Abduction - UFO Get In Loser Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction - UFO Get In Loser Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor"><img src="https://i.ebayimg.com/images/g/uZYAAeSwvwxo-PHh/s-l225.jpg" alt="Listing image for UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Alien Abduction Poster Print A4 A3 Satin Wall Art Decor Wall Poster"><img src="https://i.ebayimg.com/images/g/j9UAAeSwcGJqJ-zX/s-l225.jpg" alt="Listing image for Area 51 Alien Abduction Poster Print A4 A3 Satin Wall Art Decor Wall Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">Area 51 Alien Abduction Poster Print A4 A3 Satin Wall Art Decor Wall Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster" data-ebay-reference="what-the-allagash-witnesses-recalled-under-hypnosis-alien-abduction-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: unsolved.com  
    Title: Mysteries Allagash Abductees  
-   Link: [https://unsolved.com/gallery/allagash-abductees/](https://unsolved.com/gallery/allagash-abductees/)  
+   Link: <a href="https://unsolved.com/gallery/allagash-abductees/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/allagash-abductees/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesAllagash Abductees - Unsolved MysteriesFowler suggested the Allagash four undergo hypnosis with a trained hypnotherapis...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Susan Clancy  
-   Link: [https://en.wikipedia.org/wiki/Susan_Clancy](https://en.wikipedia.org/wiki/Susan_Clancy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Susan_Clancy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Susan_Clancy</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Raymond E. Fowler  
-   Link: [https://en.wikipedia.org/wiki/Raymond_E._Fowler](https://en.wikipedia.org/wiki/Raymond_E._Fowler)  
+   Link: <a href="https://en.wikipedia.org/wiki/Raymond_E._Fowler" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Raymond_E._Fowler</a>  
 
 4. <a id="endnote-4"></a>
    Source: goodreads.com  
    Title: The Allagash Abductions: Undeniable Evidence of Alien I…Fowler  
-   Link: [https://www.goodreads.com/book/show/668049](https://www.goodreads.com/book/show/668049)  
+   Link: <a href="https://www.goodreads.com/book/show/668049" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/668049</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Raymond E. Fowler. 24 books23 followers... The author conducted hypnotic regression on these... hypnosis sessions for the four men who...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: archive.org  
    Title: 347 p.: 22 cm. Includes bibliographical references and index.Read more  
-   Link: [https://archive.org/details/allagashabductio0000fowl](https://archive.org/details/allagashabductio0000fowl)  
+   Link: <a href="https://archive.org/details/allagashabductio0000fowl" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/allagashabductio0000fowl</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveThe Allagash abductions: undeniable evidence of alien...8 Sept 2023 — The Allagash abductions: undeniable evidence of...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: goodreads.com  
-   Link: [https://www.goodreads.com/en/book/show/668049.The_Allagash_Abductions](https://www.goodreads.com/en/book/show/668049.The_Allagash_Abductions)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GoodreadsThe Allagash Abductions: Undeniable Evidence of Alien I…The whole book is a transcription of hypnosis sessions of 4 men who shar...</p></details>
+   Link: <a href="https://www.goodreads.com/en/book/show/668049.The_Allagash_Abductions" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/668049.The_Allagash_Abductions</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Allagash Abductions: Undeniable Evidence of Alien I…The whole book is a transcription of hypnosis sessions of 4 men who shar...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: dash.harvard.edu  
-   Link: [https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf](https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf)  
+   Link: <a href="https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard DashExplaining &quot;Memories&quot; of Space Alien Abduction and Past Livesby A Abduction · Cited by 34 — One group comprised adults who re...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: hangar1publishing.com  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-allagash-abductions?srsltid=AfmBOoqNiDAE-NGNS6PCT82UGeKsQgcimrdXoe-qLk9Rol4SaiT_W0HB](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-allagash-abductions?srsltid=AfmBOoqNiDAE-NGNS6PCT82UGeKsQgcimrdXoe-qLk9Rol4SaiT_W0HB)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hangar1publishingThe Allagash Abductions: Maine&#x27;s Iconic Alien EncounterRaymond Fowler supported their view, noting that Rak had struggle...</p></details>
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-allagash-abductions?srsltid=AfmBOoqNiDAE-NGNS6PCT82UGeKsQgcimrdXoe-qLk9Rol4SaiT_W0HB" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/the-allagash-abductions?srsltid=AfmBOoqNiDAE-NGNS6PCT82UGeKsQgcimrdXoe-qLk9Rol4SaiT_W0HB</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Allagash Abductions: Maine&#x27;s Iconic Alien EncounterRaymond Fowler supported their view, noting that Rak had struggle...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: archive.org  
    Title: This was, if you recall, our  
-   Link: [https://archive.org/download/raymond-e.-fowler-the-watchers-2-exploring-ufos-the-near-death-experience-abridg_202012/Raymond%20E.%20Fowler%20-%20The%20Watchers%202_%20Exploring%20UFOs%20%26%20the%20Near-death%20Experience%20%5Babridged-transcripts%20only%5D%20%281996%2C%20Wildflower%20Press%29.pdf](https://archive.org/download/raymond-e.-fowler-the-watchers-2-exploring-ufos-the-near-death-experience-abridg_202012/Raymond%20E.%20Fowler%20-%20The%20Watchers%202_%20Exploring%20UFOs%20%26%20the%20Near-death%20Experience%20%5Babridged-transcripts%20only%5D%20%281996%2C%20Wildflower%20Press%29.pdf)  
+   Link: <a href="https://archive.org/download/raymond-e.-fowler-the-watchers-2-exploring-ufos-the-near-death-experience-abridg_202012/Raymond%20E.%20Fowler%20-%20The%20Watchers%202_%20Exploring%20UFOs%20%26%20the%20Near-death%20Experience%20%5Babridged-transcripts%20only%5D%20%281996%2C%20Wildflower%20Press%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/raymond-e.-fowler-the-watchers-2-exploring-ufos-the-near-death-experience-abridg_202012/Raymond%20E.%20Fowler%20-%20The%20Watchers%202_%20Exploring%20UFOs%20%26%20the%20Near-death%20Experience%20%5Babridged-transcripts%20only%5D%20%281996%2C%20Wildflower%20Press%29.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Watchers II; Exploring UFOs and the Near-Death...A hint of this possibility came out during a hypnosis session when we were investig...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: goodreads.com  
-   Link: [https://www.goodreads.com/book/show/1129857](https://www.goodreads.com/book/show/1129857)  
+   Link: <a href="https://www.goodreads.com/book/show/1129857" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/1129857</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Much of the evidence comes through hypnosis sessions, which uncover much more than just...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ufocasebook.com  
-   Link: [https://www.ufocasebook.com/Allagash.html](https://www.ufocasebook.com/Allagash.html)  
+   Link: <a href="https://www.ufocasebook.com/Allagash.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/Allagash.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CasebookAllagash AbductionA professional hypnotist from Beverly, who also works as an English teacher at Masconomet High School, Cons...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/12150421/](https://pubmed.ncbi.nlm.nih.gov/12150421/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedMemory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 321 — Those reporting recovered and repress...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12150421/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 321 — Those reporting recovered and repress...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: theufochronicles.com  
-   Link: [https://www.theufochronicles.com/2013/09/undeniable-evidence-of-alien.html](https://www.theufochronicles.com/2013/09/undeniable-evidence-of-alien.html)  
+   Link: <a href="https://www.theufochronicles.com/2013/09/undeniable-evidence-of-alien.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2013/09/undeniable-evidence-of-alien.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Chronicles&quot;Undeniable Evidence of Alien Intervention&quot; is Recounted...9 Sept 2013 — The case was the subject of a 1993 book, &quot;The...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: abebooks.co.uk  
-   Link: [https://www.abebooks.co.uk/9780926524224/Allagash-Abductions-Undeniable-Evidence-Alien-0926524224/plp](https://www.abebooks.co.uk/9780926524224/Allagash-Abductions-Undeniable-Evidence-Alien-0926524224/plp)  
+   Link: <a href="https://www.abebooks.co.uk/9780926524224/Allagash-Abductions-Undeniable-Evidence-Alien-0926524224/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9780926524224/Allagash-Abductions-Undeniable-Evidence-Alien-0926524224/plp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Four artists, independently regressed into their suppressed memories, tell the same details of...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: mysteriousharbortours.com  
-   Link: [https://mysteriousharbortours.com/allagash-abductions/](https://mysteriousharbortours.com/allagash-abductions/)  
+   Link: <a href="https://mysteriousharbortours.com/allagash-abductions/" target="_blank" rel="noopener noreferrer nofollow">https://mysteriousharbortours.com/allagash-abductions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Harbor ToursAllagash AbductionsUnder hypnosis, according to transcripts, each of the men described being trapped inside a tube...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: abebooks.co.uk  
-   Link: [https://www.abebooks.co.uk/first-edition/Allagash-Abductions-Undeniable-Evidence-Alien-Intervention/30001018294/bd](https://www.abebooks.co.uk/first-edition/Allagash-Abductions-Undeniable-Evidence-Alien-Intervention/30001018294/bd)  
+   Link: <a href="https://www.abebooks.co.uk/first-edition/Allagash-Abductions-Undeniable-Evidence-Alien-Intervention/30001018294/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/first-edition/Allagash-Abductions-Undeniable-Evidence-Alien-Intervention/30001018294/bd</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fowler&#x27;s classic book establishes proof of alien abductions. Four artists, independently regressed into their suppressed memories, tell t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/exclusive/abductive-reasoning/](https://skepticalinquirer.org/exclusive/abductive-reasoning/)  
+   Link: <a href="https://skepticalinquirer.org/exclusive/abductive-reasoning/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/abductive-reasoning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerAbductive ReasoningNovember 2, 2005 — 2 Nov 2005 — And it&#x27;s not just hypnosis that prompts false abduction claims...</p></details>
    Published: November 2, 2005  
 
 18. <a id="endnote-18"></a>
    Source: thecounty.me  
    Title: how much of a famed 1976 ufo abduction is true 4  
-   Link: [https://thecounty.me/2016/09/21/houlton/how-much-of-a-famed-1976-ufo-abduction-is-true-4/](https://thecounty.me/2016/09/21/houlton/how-much-of-a-famed-1976-ufo-abduction-is-true-4/)  
+   Link: <a href="https://thecounty.me/2016/09/21/houlton/how-much-of-a-famed-1976-ufo-abduction-is-true-4/" target="_blank" rel="noopener noreferrer nofollow">https://thecounty.me/2016/09/21/houlton/how-much-of-a-famed-1976-ufo-abduction-is-true-4/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fowler wrote a book about the case in 1993, “The Allagash Abductions.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: books.google.com.cy  
-   Link: [https://books.google.com.cy/books?id=U8fqoTvsvUEC](https://books.google.com.cy/books?id=U8fqoTvsvUEC)  
+   Link: <a href="https://books.google.com.cy/books?id=U8fqoTvsvUEC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com.cy/books?id=U8fqoTvsvUEC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>30; Why Do I Have Memories If It Didnt Happen? 54; Why Are Abduction Stories So...Read more...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: librarycat.org  
-   Link: [https://www.librarycat.org/lib/AnomalyArchive/item/159311966](https://www.librarycat.org/lib/AnomalyArchive/item/159311966)  
+   Link: <a href="https://www.librarycat.org/lib/AnomalyArchive/item/159311966" target="_blank" rel="noopener noreferrer nofollow">https://www.librarycat.org/lib/AnomalyArchive/item/159311966</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Allagash Abductions: Undeniable Evidence…The classic book about four men, including a pair of twins, who experienced more than a camp...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: believingthebizarre.com  
-   Link: [https://believingthebizarre.com/allagash-abductees/](https://believingthebizarre.com/allagash-abductees/)  
+   Link: <a href="https://believingthebizarre.com/allagash-abductees/" target="_blank" rel="noopener noreferrer nofollow">https://believingthebizarre.com/allagash-abductees/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Allagash Abduction: Maine&#x27;s Most Documented UFO CaseThis case offers fascinating insights into alien abduction experiences, hypnotic...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
    Title: allagash alien encounters happened in august of 1976 when four men witnessed a u  
-   Link: [https://www.facebook.com/TheStrangestOfficial/posts/allagash-alien-encounters-happened-in-august-of-1976-when-four-men-witnessed-a-u/1317785896837781/](https://www.facebook.com/TheStrangestOfficial/posts/allagash-alien-encounters-happened-in-august-of-1976-when-four-men-witnessed-a-u/1317785896837781/)  
+   Link: <a href="https://www.facebook.com/TheStrangestOfficial/posts/allagash-alien-encounters-happened-in-august-of-1976-when-four-men-witnessed-a-u/1317785896837781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheStrangestOfficial/posts/allagash-alien-encounters-happened-in-august-of-1976-when-four-men-witnessed-a-u/1317785896837781/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Allagash Alien Encounters happened in August of 1976...They enlisted the help of UFO researcher, Ray Fowler, who hypnotized them and rec...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
    Title: in 1976 four men witnessed a ufo while visiting the allagash wilderness waterway  
-   Link: [https://www.facebook.com/historyfeels/posts/in-1976-four-men-witnessed-a-ufo-while-visiting-the-allagash-wilderness-waterway/1288935739696102/](https://www.facebook.com/historyfeels/posts/in-1976-four-men-witnessed-a-ufo-while-visiting-the-allagash-wilderness-waterway/1288935739696102/)  
+   Link: <a href="https://www.facebook.com/historyfeels/posts/in-1976-four-men-witnessed-a-ufo-while-visiting-the-allagash-wilderness-waterway/1288935739696102/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/historyfeels/posts/in-1976-four-men-witnessed-a-ufo-while-visiting-the-allagash-wilderness-waterway/1288935739696102/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1976, four men witnessed a UFO while visiting...According to the four men, hypnotic regression enabled them to recall being taken abo...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
    Title: 265 taken allagah wilderness waterwayin august of 1976 four men embarked on a tw  
-   Link: [https://www.facebook.com/npafterdarkpodcast/posts/265-taken-allagah-wilderness-waterwayin-august-of-1976-four-men-embarked-on-a-tw/1008251237987627/](https://www.facebook.com/npafterdarkpodcast/posts/265-taken-allagah-wilderness-waterwayin-august-of-1976-four-men-embarked-on-a-tw/1008251237987627/)  
+   Link: <a href="https://www.facebook.com/npafterdarkpodcast/posts/265-taken-allagah-wilderness-waterwayin-august-of-1976-four-men-embarked-on-a-tw/1008251237987627/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/npafterdarkpodcast/posts/265-taken-allagah-wilderness-waterwayin-august-of-1976-four-men-embarked-on-a-tw/1008251237987627/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Allagash Wilderness Waterway 2. Charlie Foltz, Chuck...In 1988, Jim Weiner attended a UFO conference hosted by Raymond Fowler.... 1988...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: johnzada.com  
-   Link: [https://www.johnzada.com/blog/alien-abduction-beliefs-explained/](https://www.johnzada.com/blog/alien-abduction-beliefs-explained/)  
+   Link: <a href="https://www.johnzada.com/blog/alien-abduction-beliefs-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.johnzada.com/blog/alien-abduction-beliefs-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Abduction Beliefs ExplainedAlien Abduction Beliefs Explained. January 22, 2015 / John Zada. Alien abductions. I&#x27;ve never been much...</p></details>
    Published: January 22, 2015  
 
 26. <a id="endnote-26"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Allagash-Abductions-Undeniable-Evidence-Intervention/dp/0926524232](https://www.amazon.co.uk/Allagash-Abductions-Undeniable-Evidence-Intervention/dp/0926524232)  
+   Link: <a href="https://www.amazon.co.uk/Allagash-Abductions-Undeniable-Evidence-Intervention/dp/0926524232" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Allagash-Abductions-Undeniable-Evidence-Intervention/dp/0926524232</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The integrity of Raymond Fowler is amply demonstrated by his meticulous investigations...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: abebooks.co.uk  
-   Link: [https://www.abebooks.co.uk/9780926524231/Allagash-Abductions-Undeniable-Evidence-Alien-0926524232/plp](https://www.abebooks.co.uk/9780926524231/Allagash-Abductions-Undeniable-Evidence-Alien-0926524232/plp)  
+   Link: <a href="https://www.abebooks.co.uk/9780926524231/Allagash-Abductions-Undeniable-Evidence-Alien-0926524232/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9780926524231/Allagash-Abductions-Undeniable-Evidence-Alien-0926524232/plp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fowler, Raymond E. Published by Wild Flower Pr, 1993. ISBN 10: 0926524232 / ISBN 13...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Allagash-Abductions-Undeniable-Evidence-Intervention/dp/0926524224](https://www.amazon.co.uk/Allagash-Abductions-Undeniable-Evidence-Intervention/dp/0926524224)  
+   Link: <a href="https://www.amazon.co.uk/Allagash-Abductions-Undeniable-Evidence-Intervention/dp/0926524224" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Allagash-Abductions-Undeniable-Evidence-Intervention/dp/0926524224</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Four artists, independently regressed into their suppressed memories, tell the same details of...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/3269/2151](https://journalofscientificexploration.org/index.php/jse/article/view/3269/2151)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3269/2151" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3269/2151</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hopkins and Ted Bloecher (1976). This latter case involved a liquor dealer who happened to...</p></details>

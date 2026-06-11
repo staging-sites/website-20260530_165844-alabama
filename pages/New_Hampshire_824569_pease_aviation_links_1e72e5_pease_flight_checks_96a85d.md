@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /pease-aviation/
 nav_short_title: Flight checks
 title: Can Pease flight records explain the sighting?
-title_full: Can Pease flight records explain the sighting? | Pease Aviation
+title_full: Can Pease flight records explain the sighting?
 display_title_short: Flight checks
 display_title: Flight checks
 heading_title: Can Pease flight records explain the sighting?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:49:31'
-parent_title: How Much Can Aviation Explain? | New Hampshire UFOs
+parent_title: How Much Can Aviation Explain?
 parent_permalink: /pease-aviation/
 parent_nav_short_title: Pease Aviation
 parent_heading_title: How Much Can Aviation Explain?
@@ -252,8 +252,7 @@ image: /assets/images/New_Hampshire_824569_pease_aviation_links_1e72e5_pease_fli
 
 Any attempt to explain Seacoast UFO reports through activity at Pease has to begin with a simple question: can the sighting actually be matched to a real aircraft movement, training mission or approach pattern? That sounds straightforward, but many [New Hampshire]({{ 'why-new-hampshire-became-ufo-country/' | relative_url }}) UFO debates become muddled because [witnesses]({{ 'witnesses/' | relative_url }}), investigators and later commentators are often working from different timelines. A sighting may be remembered as lasting several minutes, while flight records may only show that aircraft were present in the wider area during the same hour.
 
-
-<img src="{{ "/assets/images/New_Hampshire_824569_pease_aviation_links_1e72e5_pease_flight_checks_96a85d-Illustration-1-light.svg" | relative_url }}" alt="Flight checks illustration 1" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_pease_aviation_links_1e72e5_pease_flight_checks_96a85d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_pease_aviation_links_1e72e5_pease_flight_checks_96a85d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/New_Hampshire_824569_pease_aviation_links_1e72e5_pease_flight_checks_96a85d-Illustration-1-dark.svg" | relative_url }}" alt="Flight checks illustration 1" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_pease_aviation_links_1e72e5_pease_flight_checks_96a85d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_pease_aviation_links_1e72e5_pease_flight_checks_96a85d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The strongest aviation-based explanations are not built on the fact that Pease existed nearby. They depend on matching witness descriptions against documented aircraft activity, runway approaches, military exercises, radar coverage and known lighting patterns. The [Exeter case]({{ 'exeter-case/' | relative_url }}) remains the best-known example because investigators did exactly that: they compared testimony with Strategic Air Command operations, B-47 bomber traffic and local flight activity. The result was not a clean resolution but a continuing argument about whether the records fit what witnesses said they actually saw. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Exeter incident</span><span class="citation-popover-snippet">Exeter incident</span></span></span>
 
 ## What a witness account must pin down
@@ -263,7 +262,6 @@ Flight records are only useful if the witness account contains enough detail to 
 A report that simply says a bright light appeared near Exeter is difficult to test. A report that says a red flashing object crossed a field at a particular time, moved south-west, hovered, then accelerated away gives investigators something concrete to compare against aircraft operations.
 
 For sightings near Pease, several details matter especially:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -281,7 +279,6 @@ The Exeter witnesses provided unusually detailed descriptions. Norman Muscarello
 ## Civil, military and radar sources to compare
 
 When investigators try to test a Pease-related UFO report, they are usually comparing witness testimony against several overlapping categories of evidence rather than a single flight log.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AJGlGGPj4Hg" title="The Hampton Incident: An Unexplained U.F.O. Sighting in 1965 | NASA&#x27;s Unexplained Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AJGlGGPj4Hg" target="_blank" rel="noopener noreferrer">The Hampton Incident: An Unexplained U.F.O. Sighting in 1965 | NASA&#x27;s Unexplained Files</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 516.7K &middot; Uploaded: August 2022 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AJGlGGPj4Hg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AJGlGGPj4Hg">Open on YouTube</a></p></div></div></div>
 
@@ -301,8 +298,7 @@ A landing aircraft viewed head-on can appear almost stationary while its lights 
 
 Investigators therefore compare reported viewing directions with known approach corridors. If witnesses were looking directly into an active approach path, a conventional explanation becomes stronger. If reported movements cut across those patterns, the explanation becomes weaker.
 
-
-<img src="{{ "/assets/images/New_Hampshire_824569_pease_aviation_links_1e72e5_pease_flight_checks_96a85d-Illustration-2-light.svg" | relative_url }}" alt="Flight checks illustration 2" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_pease_aviation_links_1e72e5_pease_flight_checks_96a85d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_pease_aviation_links_1e72e5_pease_flight_checks_96a85d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Hampshire_824569_pease_aviation_links_1e72e5_pease_flight_checks_96a85d-Illustration-2-dark.svg" | relative_url }}" alt="Flight checks illustration 2" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_pease_aviation_links_1e72e5_pease_flight_checks_96a85d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_pease_aviation_links_1e72e5_pease_flight_checks_96a85d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Radar and air traffic records
 
 Radar evidence is often treated as a decisive test, but historical cases rarely provide a complete radar picture.
@@ -316,7 +312,6 @@ This distinction matters. A documented flight nearby increases the plausibility 
 Some features reported in New Hampshire UFO cases match known aviation effects surprisingly well.
 
 Large military aircraft operating at night can produce:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -332,8 +327,7 @@ Sceptical investigators have argued that these effects help explain aspects of t
 
 This line of reasoning does not require witnesses to be dishonest. Instead, it assumes that even experienced observers can misjudge distance, altitude and speed under night-time conditions.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y271TuMV-9o" title="The Crash Site Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y271TuMV-9o" target="_blank" rel="noopener noreferrer">The Crash Site Files</a></p><p class="youtube-embed-meta">Channel: Exeter TV &middot; Views: 1.0K &middot; Uploaded: November 2016 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y271TuMV-9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y271TuMV-9o">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7JaTf20ulLU" title="One investigation in newly-released files on UFOs happened in New Hampshire" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7JaTf20ulLU" target="_blank" rel="noopener noreferrer">One investigation in newly-released files on UFOs happened in New Hampshire</a></p><p class="youtube-embed-meta">Channel: WMUR-TV &middot; Views: 1.6K &middot; Uploaded: May 2026 &middot; Length: 1 minute 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7JaTf20ulLU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7JaTf20ulLU">Open on YouTube</a></p></div></div></div>
 
 ## Where record-based explanations still fall short
 
@@ -347,21 +341,18 @@ Another difficulty is that aircraft-presence arguments can become overly broad. 
 
 This is where many retrospective explanations remain incomplete. Researchers can often establish that Pease-related air traffic created a strong possibility of misidentification, but not always a precise reconstruction.
 
-
-<img src="{{ "/assets/images/New_Hampshire_824569_pease_aviation_links_1e72e5_pease_flight_checks_96a85d-Illustration-3-light.svg" | relative_url }}" alt="Flight checks illustration 3" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_pease_aviation_links_1e72e5_pease_flight_checks_96a85d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_pease_aviation_links_1e72e5_pease_flight_checks_96a85d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Hampshire_824569_pease_aviation_links_1e72e5_pease_flight_checks_96a85d-Illustration-3-dark.svg" | relative_url }}" alt="Flight checks illustration 3" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_pease_aviation_links_1e72e5_pease_flight_checks_96a85d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_pease_aviation_links_1e72e5_pease_flight_checks_96a85d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Pease flight checks can and cannot prove
 
 Comparing UFO testimony with Pease flight activity is one of the most useful tools available to investigators because it replaces speculation with measurable data. It can reveal whether aircraft were present, whether approach routes crossed the viewing area and whether military exercises overlapped with reported sightings.
 
 What it cannot always do is identify exactly what a witness saw.
 
-For New Hampshire's most famous Seacoast cases, the flight records usually narrow the possibilities rather than settling them. The [Exeter incident]({{ 'exeter-case/' | relative_url }}) remains important because it demonstrates both sides of the problem. Aviation activity connected with Pease clearly belonged in the investigation and provided plausible conventional explanations. Yet decades later, disagreement persists because some witness descriptions still do not fit neatly into the documented aircraft movements that investigators cited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nhuforesearch.wordpress.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhuforesearch.wordpress.com">[New Hampshire UFO Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhuforesearch.wordpress.com</span><span class="citation-popover-snippet">New Hampshire UFO ResearchNew Hampshire UFO Research – Dedicated to the Research...The Exeter UFO Incident Remains Unsolved: A Rebuttal...</span></span></span>
+For New Hampshire's most famous Seacoast cases, the flight records usually narrow the possibilities rather than settling them. The Exeter incident remains important because it demonstrates both sides of the problem. Aviation activity connected with Pease clearly belonged in the investigation and provided plausible conventional explanations. Yet decades later, disagreement persists because some witness descriptions still do not fit neatly into the documented aircraft movements that investigators cited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nhuforesearch.wordpress.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhuforesearch.wordpress.com">[New Hampshire UFO Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhuforesearch.wordpress.com</span><span class="citation-popover-snippet">New Hampshire UFO ResearchNew Hampshire UFO Research – Dedicated to the Research...The Exeter UFO Incident Remains Unsolved: A Rebuttal...</span></span></span>
 
 That tension is why serious analysis of Pease-linked UFO reports starts with flight records but does not automatically end with them. The records are often the strongest test available, but they are only as persuasive as their match to the details witnesses actually reported.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7JaTf20ulLU" title="One investigation in newly-released files on UFOs happened in New Hampshire" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7JaTf20ulLU" target="_blank" rel="noopener noreferrer">One investigation in newly-released files on UFOs happened in New Hampshire</a></p><p class="youtube-embed-meta">Channel: WMUR-TV &middot; Views: 1.6K &middot; Uploaded: May 2026 &middot; Length: 1 minute 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7JaTf20ulLU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7JaTf20ulLU">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y271TuMV-9o" title="The Crash Site Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y271TuMV-9o" target="_blank" rel="noopener noreferrer">The Crash Site Files</a></p><p class="youtube-embed-meta">Channel: Exeter TV &middot; Views: 1.0K &middot; Uploaded: November 2016 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y271TuMV-9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y271TuMV-9o">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -785,107 +776,107 @@ That tension is why serious analysis of Pease-linked UFO reports starts with fli
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Exeter incident  
-   Link: [https://en.wikipedia.org/wiki/Exeter_incident](https://en.wikipedia.org/wiki/Exeter_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exeter_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: adip.faa.gov  
    Title: Airport Data and Information Portal Runway  
-   Link: [https://adip.faa.gov/agis/public/](https://adip.faa.gov/agis/public/)  
+   Link: <a href="https://adip.faa.gov/agis/public/" target="_blank" rel="noopener noreferrer nofollow">https://adip.faa.gov/agis/public/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Airport Data and Information PortalRunway - 16/34. Dimensions: 11322 ft. x 150 ft. Surface Type/Condition: ASPH-CONC-G. Treatment: GRVD...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: airnav.com  
    Title: Air Nav KPSM  
-   Link: [https://www.airnav.com/airport/kpsm](https://www.airnav.com/airport/kpsm)  
+   Link: <a href="https://www.airnav.com/airport/kpsm" target="_blank" rel="noopener noreferrer nofollow">https://www.airnav.com/airport/kpsm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>KPSM - Portsmouth International Airport at PeaseRunway 16/34; RVR equipment: touchdown; Approach lights: MALSR: 1,400 foot medium inten...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookThere was no evidence submitted to or discovered by the Air Force that sightings categorized as &quot;unidentified&quot; repres...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: centerforinquiry.s3.amazonaws.com  
-   Link: [https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf](https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf)  
+   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Air...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Portsmouth International Airport at Pease  
-   Link: [https://en.wikipedia.org/wiki/Portsmouth_International_Airport_at_Pease](https://en.wikipedia.org/wiki/Portsmouth_International_Airport_at_Pease)  
+   Link: <a href="https://en.wikipedia.org/wiki/Portsmouth_International_Airport_at_Pease" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Portsmouth_International_Airport_at_Pease</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Portsmouth International Airport at PeaseIt has one concrete and asphalt paved runway designated 16/34 which... FAA airport informati...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nhuforesearch.wordpress.com  
-   Link: [https://nhuforesearch.wordpress.com/](https://nhuforesearch.wordpress.com/)  
+   Link: <a href="https://nhuforesearch.wordpress.com/" target="_blank" rel="noopener noreferrer nofollow">https://nhuforesearch.wordpress.com/</a>  
 
 9. <a id="endnote-9"></a>
    Source: aopa.org  
    Title: Portsmouth International At Pease Airport  
-   Link: [https://www.aopa.org/destinations/airports/PSM/details?public=0&q=kpae](https://www.aopa.org/destinations/airports/PSM/details?public=0&q=kpae)  
+   Link: <a href="https://www.aopa.org/destinations/airports/PSM/details?public=0&amp;q=kpae" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/destinations/airports/PSM/details?public=0&amp;q=kpae</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>KPSMRunway 16/34; Traffic Pattern: Right Pattern, Left Pattern; Markings: precision, in Good condition, precision, in Good condition...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: maps.avnwx.com  
-   Link: [https://maps.avnwx.com/airport/KPSM](https://maps.avnwx.com/airport/KPSM)  
+   Link: <a href="https://maps.avnwx.com/airport/KPSM" target="_blank" rel="noopener noreferrer nofollow">https://maps.avnwx.com/airport/KPSM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Portsmouth Intl At PeaseApproach Lights: MALSR - 1,400 Foot Medium Intensity Approach Lighting System With Runway Alignment Indicator Lig...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: mm.nh.gov  
-   Link: [https://mm.nh.gov/files/uploads/dot/remote-docs/portsmouth-international.pdf](https://mm.nh.gov/files/uploads/dot/remote-docs/portsmouth-international.pdf)  
+   Link: <a href="https://mm.nh.gov/files/uploads/dot/remote-docs/portsmouth-international.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mm.nh.gov/files/uploads/dot/remote-docs/portsmouth-international.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NH DHHSPortsmouth International Airport at PeaseThere is one runway at PSM, Runway 16-34, that measures. 11,321&#x27; in length. The runway is...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: incidentatexeter.com  
-   Link: [https://www.incidentatexeter.com/](https://www.incidentatexeter.com/)  
+   Link: <a href="https://www.incidentatexeter.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.incidentatexeter.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Incident At ExeterFeatures detailed analysis of witness testimonies, Project Blue Book records, and the controversial Air Force explanati...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1024490957622648/posts/1655522654519472/](https://www.facebook.com/groups/1024490957622648/posts/1655522654519472/)  
+   Link: <a href="https://www.facebook.com/groups/1024490957622648/posts/1655522654519472/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1024490957622648/posts/1655522654519472/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Portsmouth Peace Airport approach pattern explainedIn all airports around the world, there are patterns to approach the airport, and in e...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100064860391226/posts/flashback-friday-back-to-the-summer-of-2019-when-chief-poulin-deputy-chief-munck/1173134121525257/](https://www.facebook.com/100064860391226/posts/flashback-friday-back-to-the-summer-of-2019-when-chief-poulin-deputy-chief-munck/1173134121525257/)  
+   Link: <a href="https://www.facebook.com/100064860391226/posts/flashback-friday-back-to-the-summer-of-2019-when-chief-poulin-deputy-chief-munck/1173134121525257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064860391226/posts/flashback-friday-back-to-the-summer-of-2019-when-chief-poulin-deputy-chief-munck/1173134121525257/</a>  
 
 16. <a id="endnote-16"></a>
    Source: acec-nh.org  
-   Link: [https://acec-nh.org/wp-content/uploads/2021/01/Display-Panel-Runway1634Pease_HoyleTanner.pdf](https://acec-nh.org/wp-content/uploads/2021/01/Display-Panel-Runway1634Pease_HoyleTanner.pdf)  
+   Link: <a href="https://acec-nh.org/wp-content/uploads/2021/01/Display-Panel-Runway1634Pease_HoyleTanner.pdf" target="_blank" rel="noopener noreferrer nofollow">https://acec-nh.org/wp-content/uploads/2021/01/Display-Panel-Runway1634Pease_HoyleTanner.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: peasedev.org  
    Title: Portsmouth International Airport at Pease Part 150 Update  
-   Link: [https://peasedev.org/wp-content/uploads/2023/09/PSM_Final_NEM_20140716-1.pdf](https://peasedev.org/wp-content/uploads/2023/09/PSM_Final_NEM_20140716-1.pdf)  
+   Link: <a href="https://peasedev.org/wp-content/uploads/2023/09/PSM_Final_NEM_20140716-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://peasedev.org/wp-content/uploads/2023/09/PSM_Final_NEM_20140716-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pease (PSM) has one operational paved runway: Runway 16/34. The INM requires detailed inputs on the runway layout, including runway end p...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File](https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File)  
+   Link: <a href="https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sighting. 2. Pease AFB had been receiving other UFO reports &quot;About then, this thing went...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: strangenewengland.com  
    Title: Strange New England Revisiting the Incident at Exeter  
-   Link: [https://strangenewengland.com/podcast/revisiting-the-incident-at-exeter/](https://strangenewengland.com/podcast/revisiting-the-incident-at-exeter/)  
+   Link: <a href="https://strangenewengland.com/podcast/revisiting-the-incident-at-exeter/" target="_blank" rel="noopener noreferrer nofollow">https://strangenewengland.com/podcast/revisiting-the-incident-at-exeter/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting the Incident at Exeter - Strange New EnglandPease AFB had five B-47 aircraft flying in the area but I do not believe that they...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: shark1053.com  
    Title: This New Hampshire UFO Incident Was Debunked, Right?  
-   Link: [https://shark1053.com/this-new-hampshire-ufo-incident-was-debunked-right-or-was-it/](https://shark1053.com/this-new-hampshire-ufo-incident-was-debunked-right-or-was-it/)  
+   Link: <a href="https://shark1053.com/this-new-hampshire-ufo-incident-was-debunked-right-or-was-it/" target="_blank" rel="noopener noreferrer nofollow">https://shark1053.com/this-new-hampshire-ufo-incident-was-debunked-right-or-was-it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Jun 2023 — Let us begin. Filed Under: aliens, evergreen, exeter, New England, New Hampshire, New Hampshire Unsolved Mysteries, ufo. Cat...</p></details>

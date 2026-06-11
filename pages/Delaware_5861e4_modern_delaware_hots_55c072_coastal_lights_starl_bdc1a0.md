@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /modern-hotspots/
 nav_short_title: Coastal Lights
 title: Are Delaware Beach UFO Lights Just Satellites and Lanterns?
-title_full: Are Delaware Beach UFO Lights Just Satellites and Lanterns? | Modern Hotspots
+title_full: Are Delaware Beach UFO Lights Just Satellites and Lanterns?
 display_title_short: Coastal Lights
 display_title: Coastal Lights
 heading_title: Are Delaware Beach UFO Lights Just Satellites and Lanterns?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:09:46'
-parent_title: Where Delaware UFO Reports Keep Appearing | Delaware UFOs
+parent_title: Where Delaware UFO Reports Keep Appearing
 parent_permalink: /modern-hotspots/
 parent_nav_short_title: Modern Hotspots
 parent_heading_title: Where Delaware UFO Reports Keep Appearing
@@ -250,11 +250,10 @@ image: /assets/images/Delaware_5861e4_modern_delaware_hots_55c072_coastal_lights
 
 ## Introduction
 
-Along the [Delaware]({{ 'what-really-happened-in-delawares-ufo/' | relative_url }}) coast, especially around Rehoboth Beach, Lewes and the quieter stretches facing the Atlantic or Delaware Bay, people regularly report strange lights over the water. Many are described as silent orange glows, moving formations, hovering points or lines of lights crossing the sky in unusual patterns. In the social-media era, these sightings spread quickly, often framed as possible UFOs before anyone checks satellite trackers, flight paths or launch schedules.
+Along the Delaware coast, especially around Rehoboth Beach, Lewes and the quieter stretches facing the Atlantic or Delaware Bay, people regularly report strange lights over the water. Many are described as silent orange glows, moving formations, hovering points or lines of lights crossing the sky in unusual patterns. In the social-media era, these sightings spread quickly, often framed as possible UFOs before anyone checks satellite trackers, flight paths or launch schedules.
 
-
-<img src="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072_coastal_lights_starl_bdc1a0-Illustration-1-light.svg" | relative_url }}" alt="Coastal Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072_coastal_lights_starl_bdc1a0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072_coastal_lights_starl_bdc1a0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The most important change in recent years is the rise of SpaceX’s Starlink satellite network. Starlink “trains” — rows of bright lights moving together after launch — have become one of the most common explanations for modern coastal UFO reports worldwide, including along Delaware’s beaches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[sky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">Sky NewsStarlink satellites leads to UFO reports | World NewsThe string of lights were determined to be Starlink satellites launched by S...</span></span></span> News Yet not every Delaware coastal sighting fits neatly into that category. Some reports involve isolated orange lights, erratic movement claims or long-duration observations that are harder to dismiss immediately. The challenge is separating genuinely puzzling cases from effects created by satellites, lanterns, aircraft, atmospheric conditions and the unusually open coastal sky.
+<img src="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072_coastal_lights_starl_bdc1a0-Illustration-1-dark.svg" | relative_url }}" alt="Coastal Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072_coastal_lights_starl_bdc1a0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072_coastal_lights_starl_bdc1a0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+The most important change in recent years is the rise of SpaceX’s Starlink satellite network. Starlink “trains” — rows of bright lights moving together after launch — have become one of the most common explanations for modern coastal UFO reports worldwide, including along Delaware’s beaches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[sky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">Sky NewsStarlink satellites leads to UFO reports &#124; World NewsThe string of lights were determined to be Starlink satellites launched by S...</span></span></span> News Yet not every Delaware coastal sighting fits neatly into that category. Some reports involve isolated orange lights, erratic movement claims or long-duration observations that are harder to dismiss immediately. The challenge is separating genuinely puzzling cases from effects created by satellites, lanterns, aircraft, atmospheric conditions and the unusually open coastal sky.
 
 ## Why Rehoboth and Lewes Produce So Many Light Reports
 
@@ -263,7 +262,6 @@ Delaware’s beach towns create ideal conditions for misidentifying ordinary lig
 That matters because lights over water behave differently from lights viewed inland. A bright object low over the ocean can appear to hover motionless for long periods. Reflections and haze layers can distort colour and brightness. Aircraft approaching from unexpected angles can seem to move slowly or even stand still before abruptly changing direction. Satellites become especially noticeable against the dark coastal backdrop.
 
 Rehoboth Beach and Lewes also sit in a complicated corridor for visible sky traffic:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -288,7 +286,6 @@ Starlink changed the UFO-report landscape because it introduced a type of sky di
 
 For beach observers unfamiliar with satellites, the effect can look startlingly artificial.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GhLXCJ1Gyyc" title="Starlink satellites, the string of lights in the night sky." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer">Starlink satellites, the string of lights in the night sky.</a></p><p class="youtube-embed-meta">Channel: Brad Panovich (wxbrad) &middot; Views: 251.4K &middot; Uploaded: September 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GhLXCJ1Gyyc">Open on YouTube</a></p></div></div></div>
 
 ### Why the illusion is so convincing
@@ -297,11 +294,10 @@ Shortly after launch, Starlink satellites remain grouped together in low Earth o
 
 To many witnesses, the formation appears impossible because:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The lights maintain equal spacing.
-* They move silently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/spacex-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[earthsky.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">They would move across the sky in a line like a train.Read more</span><span class="citation-popover-snippet">EarthSkyStarlink satellites can look like a plume or train of light12 Sept 2022 — This artist&#x27;s concept shows a trail of Starlink satelli...</span></span></span>
+* They move silently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/spacex-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[earthsky.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">They would move across the sky in a line like a train.Read more</span><span class="citation-popover-snippet">Starlink satellites can look like a plume or train of light12 Sept 2022 — This artist&#x27;s concept shows a trail of Starlink satelli...</span></span></span>
 * They cross the sky smoothly without blinking.
 * They may appear suddenly and vanish abruptly.
 * They look organised rather than random. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">They look like a string of lights. However, for any one person to see more than one a Starlink...Read more...</span></span></span>
@@ -312,14 +308,12 @@ These characteristics strongly resemble classic UFO descriptions from earlier de
 
 Observers along the Delaware coast are particularly likely to notice Starlink because open eastern and southern horizons provide long viewing windows. Coastal observers can track low-orbit satellites for longer periods than many inland viewers before the objects disappear into Earth’s shadow.
 
-The confusion became widespread enough that news organisations internationally began reporting spikes in UFO calls linked directly to Starlink launches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">Sky NewsStarlink satellites leads to UFO reports | World NewsThe string of lights were determined to be Starlink satellites launched by S...</span></span></span> Astronomy guides and satellite-tracking sites now routinely warn that Starlink trains are mistaken for UFO fleets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://findstarlink.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: findstarlink.com">[2findstarlink.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">findstarlink.com</span><span class="citation-popover-title">Starlink Satellites Tracker</span><span class="citation-popover-snippet">Check when you can see it!Calculate when you can see the Starlink satellites above your location...</span></span></span>
+The confusion became widespread enough that news organisations internationally began reporting spikes in UFO calls linked directly to Starlink launches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">Sky NewsStarlink satellites leads to UFO reports &#124; World NewsThe string of lights were determined to be Starlink satellites launched by S...</span></span></span> Astronomy guides and satellite-tracking sites now routinely warn that Starlink trains are mistaken for UFO fleets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://findstarlink.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: findstarlink.com">[2findstarlink.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">findstarlink.com</span><span class="citation-popover-title">Starlink Satellites Tracker</span><span class="citation-popover-snippet">Check when you can see it!Calculate when you can see the Starlink satellites above your location...</span></span></span>
 
-
-<img src="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072_coastal_lights_starl_bdc1a0-Illustration-2-light.svg" | relative_url }}" alt="Coastal Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072_coastal_lights_starl_bdc1a0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072_coastal_lights_starl_bdc1a0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072_coastal_lights_starl_bdc1a0-Illustration-2-dark.svg" | relative_url }}" alt="Coastal Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072_coastal_lights_starl_bdc1a0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072_coastal_lights_starl_bdc1a0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The timing pattern behind many sightings
 
 A key clue in many Delaware coastal reports is timing. Starlink sightings are usually strongest:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -336,7 +330,6 @@ Witnesses often interpret the sudden disappearance of the lights as evidence of 
 
 Another recurring misunderstanding involves curved or bending formations. Perspective effects can make a straight satellite line appear arched across the sky, especially near the horizon. A line of satellites passing over the ocean can therefore resemble a giant structured craft rather than individual orbiting objects.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zmBtaeTYvmE" title="UFO Sighting Christmas Eve 2013 Belgium - Multiple Orange Glowing Lights Invasion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zmBtaeTYvmE" target="_blank" rel="noopener noreferrer">UFO Sighting Christmas Eve 2013 Belgium - Multiple Orange Glowing Lights Invasion</a></p><p class="youtube-embed-meta">Channel: Dolph C. Volker &middot; Views: 34.0K &middot; Uploaded: December 2013 &middot; Length: 2 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zmBtaeTYvmE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zmBtaeTYvmE">Open on YouTube</a></p></div></div></div>
 
 ## Orange Coastal Lights That Are Probably Not Starlink
@@ -344,7 +337,6 @@ Another recurring misunderstanding involves curved or bending formations. Perspe
 Not every Delaware coastal light report matches the Starlink pattern. Some cases involve isolated glowing objects, low-altitude motion or irregular movement inconsistent with satellites.
 
 The strongest alternative explanations usually include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -363,14 +355,12 @@ The Delaware coast is especially vulnerable to this kind of misreading because o
 
 Some reports also mix together several different ordinary phenomena into one apparently extraordinary event. A witness might first see a Starlink train, then notice a commercial aircraft, then observe separate orange lights from lanterns or distant boats. Memory naturally compresses the sequence into a single connected “formation”.
 
-
-<img src="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072_coastal_lights_starl_bdc1a0-Illustration-3-light.svg" | relative_url }}" alt="Coastal Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072_coastal_lights_starl_bdc1a0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072_coastal_lights_starl_bdc1a0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072_coastal_lights_starl_bdc1a0-Illustration-3-dark.svg" | relative_url }}" alt="Coastal Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072_coastal_lights_starl_bdc1a0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_modern_delaware_hots_55c072_coastal_lights_starl_bdc1a0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Strongest Coastal Sightings Without Easy Explanations
 
 Even after accounting for Starlink, lanterns and aircraft, a smaller category of Delaware coastal reports remains harder to classify confidently.
 
 These are usually sightings where witnesses report one or more of the following:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -388,7 +378,6 @@ The problem is that most Delaware beach sightings lack the evidence needed for f
 One reason coastal UFO reports persist is that genuinely unusual-looking aerial behaviour does occur naturally in maritime environments. Temperature inversions over water can distort light paths. Distant vessels can appear suspended above the horizon. Aircraft landing lights can brighten dramatically through humid air. These effects are visually convincing even when fully explainable.
 
 That does not mean every witness is careless or dishonest. Quite the opposite: many reports come from sober, experienced adults who are accurately describing something strange-looking. The dispute usually concerns interpretation, not sincerity.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hd1OiBbMygY" title="Not a UFO: Starlink satellite chain over North Carolina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hd1OiBbMygY" target="_blank" rel="noopener noreferrer">Not a UFO: Starlink satellite chain over North Carolina</a></p><p class="youtube-embed-meta">Channel: CBS 17 &middot; Views: 8.0K &middot; Uploaded: April 2025 &middot; Length: 1 minute 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hd1OiBbMygY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hd1OiBbMygY">Open on YouTube</a></p></div></div></div>
 
@@ -490,7 +479,7 @@ The result is a modern folklore cycle rooted in real observations, shaped by cha
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -500,111 +489,36 @@ The result is a modern folklore cycle rooted in real observations, shaped by cha
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink poster" data-ebay-reference="are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Link Battle for Atlas Star Fox McCloud 2 Side Video Game Poster 42x33,5 cm"><img src="https://i.ebayimg.com/images/g/vCYAAOSwxKxm~CPj/s-l225.jpg" alt="Listing image for Star Link Battle for Atlas Star Fox McCloud 2 Side Video Game Poster 42x33,5 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink poster" data-ebay-reference="are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Star Link Battle for Atlas Star Fox McCloud 2 Side Video Game Poster 42x33,5 cm</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink poster" data-ebay-reference="are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for starlink poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: starlink poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink poster" data-ebay-reference="are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -612,15 +526,15 @@ The result is a modern folklore cycle rooted in real observations, shaped by cha
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink poster" data-ebay-reference="are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink V1.0 L19 Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/dQAAAeSwd9Zp1TiD/s-l225.jpg" alt="Listing image for Starlink V1.0 L19 Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink poster" data-ebay-reference="are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink V1.0 L19 Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink poster" data-ebay-reference="are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for starlink poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: starlink poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink poster" data-ebay-reference="are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -628,15 +542,15 @@ The result is a modern folklore cycle rooted in real observations, shaped by cha
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink poster" data-ebay-reference="are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xbox One Starlink Starter Pack game not included. Character Pieces and poster"><img src="https://i.ebayimg.com/images/g/lgAAAeSwwr5ot2gW/s-l225.jpg" alt="Listing image for Xbox One Starlink Starter Pack game not included. Character Pieces and poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink poster" data-ebay-reference="are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Xbox One Starlink Starter Pack game not included. Character Pieces and poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink poster" data-ebay-reference="are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for starlink poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: starlink poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink poster" data-ebay-reference="are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -644,15 +558,15 @@ The result is a modern folklore cycle rooted in real observations, shaped by cha
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink poster" data-ebay-reference="are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starlink Network Earth Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/K~IAAeSwh2lo-QQL/s-l225.jpg" alt="Listing image for Starlink Network Earth Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink poster" data-ebay-reference="are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">Starlink Network Earth Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink poster" data-ebay-reference="are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for starlink poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: starlink poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink poster" data-ebay-reference="are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -660,7 +574,7 @@ The result is a modern folklore cycle rooted in real observations, shaped by cha
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coastal-lights-are-delaware-beach-ufo-lights-just-satellites-and-lanterns-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=starlink+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="starlink poster" data-ebay-reference="are-delaware-beach-ufo-lights-just-satellites-and-lanterns-starlink-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -737,17 +651,31 @@ The result is a modern folklore cycle rooted in real observations, shaped by cha
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -760,42 +688,73 @@ The result is a modern folklore cycle rooted in real observations, shaped by cha
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -810,12 +769,17 @@ The result is a modern folklore cycle rooted in real observations, shaped by cha
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -826,94 +790,94 @@ The result is a modern folklore cycle rooted in real observations, shaped by cha
 1. <a id="endnote-1"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446](https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446)  
+   Link: <a href="https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/video/starlink-satellites-leads-to-ufo-reports-12297446</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsStarlink satellites leads to UFO reports | World NewsThe string of lights were determined to be Starlink satellites launched by S...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: findstarlink.com  
    Title: Starlink Satellites Tracker  
-   Link: [https://findstarlink.com/](https://findstarlink.com/)  
+   Link: <a href="https://findstarlink.com/" target="_blank" rel="noopener noreferrer nofollow">https://findstarlink.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Check when you can see it!Calculate when you can see the Starlink satellites above your location...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Satellite flare  
-   Link: [https://en.wikipedia.org/wiki/Satellite_flare](https://en.wikipedia.org/wiki/Satellite_flare)  
+   Link: <a href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_flare</a>  
 
 5. <a id="endnote-5"></a>
    Source: satflare.com  
    Title: STARLIN K Train  
-   Link: [https://www.satflare.com/track.asp?q=starlink5](https://www.satflare.com/track.asp?q=starlink5)  
+   Link: <a href="https://www.satflare.com/track.asp?q=starlink5" target="_blank" rel="noopener noreferrer nofollow">https://www.satflare.com/track.asp?q=starlink5</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The map background is white for day passes and black for night passes...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: orbitalradar.com  
-   Link: [https://orbitalradar.com/how-to-see-starlink-tonight](https://orbitalradar.com/how-to-see-starlink-tonight)  
+   Link: <a href="https://orbitalradar.com/how-to-see-starlink-tonight" target="_blank" rel="noopener noreferrer nofollow">https://orbitalradar.com/how-to-see-starlink-tonight</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to See Starlink Satellites Tonight3 days ago — The best visibility window is 1–5 days after a launch. During this period the satellit...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: starwalk.space  
-   Link: [https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide](https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide)  
+   Link: <a href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow">https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Star WalkStarlink Tracker: Find Starlink Satellites Tonight4 days ago — Starlink satellite trains are visible for a few days after launch...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GhLXCJ1Gyyc](https://www.youtube.com/watch?v=GhLXCJ1Gyyc)  
+   Link: <a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GhLXCJ1Gyyc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the night sky...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2365809903441367/posts/25818643794397981/](https://www.facebook.com/groups/2365809903441367/posts/25818643794397981/)  
+   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/25818643794397981/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/25818643794397981/</a>  
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ceptdd/mysterious_orange_lights_in_the_sky/](https://www.reddit.com/r/UFOs/comments/1ceptdd/mysterious_orange_lights_in_the_sky/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ceptdd/mysterious_orange_lights_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ceptdd/mysterious_orange_lights_in_the_sky/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They moved in really weird speeds and directions while one of the lights was stationary for a couple of seconds.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/](https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/)  
+   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/8741330459222581/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They look like a string of lights. However, for any one person to see more than one a Starlink...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/130137497816945/posts/1772653356898676/](https://www.facebook.com/groups/130137497816945/posts/1772653356898676/)  
+   Link: <a href="https://www.facebook.com/groups/130137497816945/posts/1772653356898676/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/130137497816945/posts/1772653356898676/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ite quickly through the sky then disappeared one and then the other were?...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aviation/comments/1o830g6/unknown_celestial_object_536_am_101625_rehoboth/](https://www.reddit.com/r/aviation/comments/1o830g6/unknown_celestial_object_536_am_101625_rehoboth/)  
+   Link: <a href="https://www.reddit.com/r/aviation/comments/1o830g6/unknown_celestial_object_536_am_101625_rehoboth/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aviation/comments/1o830g6/unknown_celestial_object_536_am_101625_rehoboth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>er the Atlantic Ocean. I saw something else streaking across the sky...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/northdevonnews/posts/1411513119026072/](https://www.facebook.com/groups/northdevonnews/posts/1411513119026072/)  
+   Link: <a href="https://www.facebook.com/groups/northdevonnews/posts/1411513119026072/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/northdevonnews/posts/1411513119026072/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>well not quite, the lights are a string of satellites...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Starlink/comments/1i3pmmi/how_long_after_launch_can_a_starlink_train_be_seen/](https://www.reddit.com/r/Starlink/comments/1i3pmmi/how_long_after_launch_can_a_starlink_train_be_seen/)  
+   Link: <a href="https://www.reddit.com/r/Starlink/comments/1i3pmmi/how_long_after_launch_can_a_starlink_train_be_seen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/1i3pmmi/how_long_after_launch_can_a_starlink_train_be_seen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ink train? PS: Apologies if this is the wrong place to post this...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheToowoombaChronicle/videos/a-toowoomba-man-has-spent-years-filming-mysterious-orange-lights-in-the-night-sk/1709472373551515/](https://www.facebook.com/TheToowoombaChronicle/videos/a-toowoomba-man-has-spent-years-filming-mysterious-orange-lights-in-the-night-sk/1709472373551515/)  
+   Link: <a href="https://www.facebook.com/TheToowoombaChronicle/videos/a-toowoomba-man-has-spent-years-filming-mysterious-orange-lights-in-the-night-sk/1709472373551515/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheToowoombaChronicle/videos/a-toowoomba-man-has-spent-years-filming-mysterious-orange-lights-in-the-night-sk/1709472373551515/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t sky and after ruling out planes, drones and satellites...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DMltbSPN6Re/?hl=en](https://www.instagram.com/reel/DMltbSPN6Re/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DMltbSPN6Re/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DMltbSPN6Re/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>witnessing a UFO — it was a SpaceX Falcon 9 rocket! ✨ 28...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: earthsky.org  
    Title: They would move across the sky in a line like a train.Read more  
-   Link: [https://earthsky.org/space/spacex-starlink-satellites-explained/](https://earthsky.org/space/spacex-starlink-satellites-explained/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthSkyStarlink satellites can look like a plume or train of light12 Sept 2022 — This artist&#x27;s concept shows a trail of Starlink satelli...</p></details>
+   Link: <a href="https://earthsky.org/space/spacex-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/spacex-starlink-satellites-explained/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites can look like a plume or train of light12 Sept 2022 — This artist&#x27;s concept shows a trail of Starlink satelli...</p></details>

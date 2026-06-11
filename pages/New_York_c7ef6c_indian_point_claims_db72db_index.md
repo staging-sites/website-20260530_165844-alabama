@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-york-c7ef6c-indian-point-claims/
 description: Focused pages that expand on Indian Point.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: New_York_c7ef6c_indian_point_claims_db72db
-parent_title: Indian Point | What Really Happened in New York's UFO...
+parent_title: Indian Point
 parent_nav_short_title: Indian Point
 parent_permalink: /indian-point/
 ---

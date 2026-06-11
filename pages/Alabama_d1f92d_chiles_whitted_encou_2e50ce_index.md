@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alabama-d1f92d-chiles-whitted-encou/
 description: Focused pages that expand on Chiles Whitted Case.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Alabama_d1f92d_chiles_whitted_encou_2e50ce
-parent_title: Chiles Whitted Case | What Are Alabama's Most Significant UFO...
+parent_title: Chiles Whitted Case
 parent_nav_short_title: Chiles Whitted Case
 parent_permalink: /chiles-whitted-case/
 ---

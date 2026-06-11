@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /north-carolina-cd988f-military/
 description: Focused pages that expand on Military Skies.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: North_Carolina_cd988f_military_aviation_si_00627b
-parent_title: Military Skies | What Really Happened in North Carolina's UFO...
+parent_title: Military Skies
 parent_nav_short_title: Military Skies
 parent_permalink: /military-skies-99e1c8/
 ---

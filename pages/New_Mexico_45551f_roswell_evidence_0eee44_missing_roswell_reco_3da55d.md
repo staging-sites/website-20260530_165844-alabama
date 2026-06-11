@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /roswell/
 nav_short_title: Missing records
 title: What do the missing Roswell files prove?
-title_full: What do the missing Roswell files prove? | Roswell
+title_full: What do the missing Roswell files prove?
 display_title_short: Missing records
 display_title: Missing records
 heading_title: What do the missing Roswell files prove?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:53:39'
-parent_title: What Really Holds Up in Roswell? | New Mexico UFOs
+parent_title: What Really Holds Up in Roswell?
 parent_permalink: /roswell/
 parent_nav_short_title: Roswell
 parent_heading_title: What Really Holds Up in Roswell?
@@ -250,15 +250,14 @@ image: /assets/images/New_Mexico_45551f_roswell_evidence_0eee44_missing_roswell_
 
 ## Introduction
 
-The missing [Roswell]({{ 'roswell/' | relative_url }}) records are one of the strongest reasons the 1947 incident remains disputed, but they are also one of the most misunderstood parts of the case. Government investigators did confirm that some Roswell Army Air Field records from the relevant period no longer exist. What they did not find was evidence that those records documented an alien spacecraft, recovered bodies or a deliberate extraterrestrial cover-up. The missing files create a gap in the historical record. They raise questions about record-keeping and transparency, yet they do not by themselves prove what was in the missing material. That distinction sits at the centre of the [Roswell evidence]({{ 'roswell/' | relative_url }}) problem. GovInfo <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">Project on Government SecrecyGAO Report on Roswell, NM UFO CrashThe document disposition form does not indicate what organization or pers...</span></span></span>
+The missing [Roswell]({{ 'roswell/' | relative_url }}) records are one of the strongest reasons the 1947 incident remains disputed, but they are also one of the most misunderstood parts of the case. Government investigators did confirm that some Roswell Army Air Field records from the relevant period no longer exist. What they did not find was evidence that those records documented an alien spacecraft, recovered bodies or a deliberate extraterrestrial cover-up. The missing files create a gap in the historical record. They raise questions about record-keeping and transparency, yet they do not by themselves prove what was in the missing material. That distinction sits at the centre of the Roswell evidence problem. GovInfo <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">Project on Government SecrecyGAO Report on Roswell, NM UFO CrashThe document disposition form does not indicate what organization or pers...</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_missing_roswell_reco_3da55d-Illustration-1-light.svg" | relative_url }}" alt="Missing records illustration 1" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_missing_roswell_reco_3da55d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_missing_roswell_reco_3da55d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within [New Mexico]({{ 'why-new-mexico-became-ufo-country/' | relative_url }}) UFO history, the missing-records issue matters because it affects how later investigators assess competing explanations. Supporters of an alien-crash theory argue that crucial evidence vanished. Sceptics counter that lost records are common in large military bureaucracies and cannot be treated as proof of a specific hidden event. The surviving documentary record supports the existence of a debris recovery and a confused military response, but the missing files leave important questions unanswered. Justia GAO Reports <span class="citation-chip-wrap"><a class="citation-chip" href="https://scholar.lib.vt.edu/VA-news/ROA-Times/issues/1995/rt9507/950730/07310083.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholar.lib.vt.edu">[VT Scholarly Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholar.lib.vt.edu</span><span class="citation-popover-snippet">VT Scholarly CommunicationROSWELL MYSTERY CONTINUESRep. Steve Schiff, R-N.M., said a General Accounting Office report shed no new light o...</span></span></span>
+<img src="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_missing_roswell_reco_3da55d-Illustration-1-dark.svg" | relative_url }}" alt="Missing records illustration 1" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_missing_roswell_reco_3da55d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_missing_roswell_reco_3da55d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Within New Mexico UFO history, the missing-records issue matters because it affects how later investigators assess competing explanations. Supporters of an alien-crash theory argue that crucial evidence vanished. Sceptics counter that lost records are common in large military bureaucracies and cannot be treated as proof of a specific hidden event. The surviving documentary record supports the existence of a debris recovery and a confused military response, but the missing files leave important questions unanswered. Justia GAO Reports <span class="citation-chip-wrap"><a class="citation-chip" href="https://scholar.lib.vt.edu/VA-news/ROA-Times/issues/1995/rt9507/950730/07310083.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholar.lib.vt.edu">[VT Scholarly Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholar.lib.vt.edu</span><span class="citation-popover-snippet">VT Scholarly CommunicationROSWELL MYSTERY CONTINUESRep. Steve Schiff, R-N.M., said a General Accounting Office report shed no new light o...</span></span></span>
 
 ## What the GAO search found and failed to find
 
-The most important official review came in the mid-1990s when New Mexico congressman Steven Schiff asked the General Accounting Office (now the Government Accountability Office, or GAO) to investigate what records existed concerning the Roswell incident. The request was significant because it moved the debate beyond witness recollections and into federal archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">GAOResults of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air...</span></span></span>
+The most important official review came in the mid-1990s when New Mexico congressman Steven Schiff asked the General Accounting Office (now the Government Accountability Office, or GAO) to investigate what records existed concerning the Roswell incident. The request was significant because it moved the debate beyond witness recollections and into federal archives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">nsiad 95 187</span><span class="citation-popover-snippet">Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air...</span></span></span>
 
 The GAO conducted an extensive search across military and intelligence holdings. Investigators examined Air Force records, National Archives material, FBI files and responses from other agencies. The search produced only a small number of contemporary Roswell-related documents. Among them were:
 
@@ -268,7 +267,6 @@ The GAO conducted an extensive search across military and intelligence holdings.
 Just as important was what the GAO did not find. It found no contemporary government records describing the recovery of an extraterrestrial craft, alien bodies or a secret crash-retrieval operation. Searches of classified and previously classified material likewise failed to uncover documentary evidence supporting those claims. Executive-branch agencies responding to GAO inquiries did not provide additional records showing an alien recovery near Roswell. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.justia.com">[Justia GAO Reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.justia.com</span><span class="citation-popover-title">GAO Reports NSIAD-95-187</span><span class="citation-popover-snippet">Justia GAO ReportsNSIAD-95-187 - Government Records28 Jul 1995 — GAO found that some government records covering activities of the Roswel...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">GENERAL ACCOUNTING OFFICE S SCHIFF</span><span class="citation-popover-snippet">U.S. Department of WarGovernment Records13 Jul 2021 — In March 1995, the CIA&#x27;s Executive Director responded to our letter of inquiry by s...</span><span class="citation-popover-meta">Published: March 1995</span></span></span>
 
 This outcome disappointed both sides of the debate. It did not validate the alien-crash story, but neither did it produce a complete documentary trail explaining every aspect of the original event.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Es4AGX8Y_sw" title="The Roswell Coverup 75 Years Later (Full Documentary)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Es4AGX8Y_sw" target="_blank" rel="noopener noreferrer">The Roswell Coverup 75 Years Later (Full Documentary)</a></p><p class="youtube-embed-meta">Channel: UNIDENTIFIED &middot; Views: 768.3K &middot; Uploaded: April 2023 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Es4AGX8Y_sw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Es4AGX8Y_sw">Open on YouTube</a></p></div></div></div>
 
@@ -284,14 +282,12 @@ Representative Schiff publicly highlighted this aspect of the report, arguing th
 
 However, the missing records were not uniquely Roswell-related files. They were broader categories of base administrative and communications records covering several years. The surviving paperwork does not identify them as special files about a recovered craft. What disappeared was a segment of routine institutional documentation, albeit one that happened to include the period of the Roswell incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">Project on Government SecrecyGAO Report on Roswell, NM UFO CrashThe document disposition form does not indicate what organization or pers...</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_missing_roswell_reco_3da55d-Illustration-2-light.svg" | relative_url }}" alt="Missing records illustration 2" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_missing_roswell_reco_3da55d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_missing_roswell_reco_3da55d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_missing_roswell_reco_3da55d-Illustration-2-dark.svg" | relative_url }}" alt="Missing records illustration 2" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_missing_roswell_reco_3da55d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_missing_roswell_reco_3da55d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the missing messages matter to investigators
 
 The lost outgoing messages are often treated as the most intriguing missing records because they could have provided a near-contemporaneous account of military thinking.
 
 If preserved, such messages might have answered questions including:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -302,10 +298,9 @@ If preserved, such messages might have answered questions including:
 
 </div>
 
-In historical investigations, contemporaneous records usually carry more weight than recollections given decades later. Many dramatic Roswell claims emerged in the late 1970s, 1980s and 1990s, long after the event itself. Historians therefore place particular value on documents created at the time. The missing message traffic represents a lost opportunity to compare later testimony against what military personnel were actually reporting in July 1947. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS NSIAD 95 187</span><span class="citation-popover-snippet">GovInfoResults of a Search for Records Concerning the 1947...Government Records: Results of a Search for Records Concerning the 1947 Cra...</span></span></span>
+In historical investigations, contemporaneous records usually carry more weight than recollections given decades later. Many dramatic Roswell claims emerged in the late 1970s, 1980s and 1990s, long after the event itself. Historians therefore place particular value on documents created at the time. The missing message traffic represents a lost opportunity to compare later testimony against what military personnel were actually reporting in July 1947. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS NSIAD 95 187</span><span class="citation-popover-snippet">Results of a Search for Records Concerning the 1947...Government Records: Results of a Search for Records Concerning the 1947 Cra...</span></span></span>
 
 That absence helps explain why Roswell remains debated. Some potentially useful evidence no longer exists, making definitive reconstruction harder than it might otherwise have been.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dzv6nRpMX24" title="Roswell Reports, 03/31/1997" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dzv6nRpMX24" target="_blank" rel="noopener noreferrer">Roswell Reports, 03/31/1997</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 294.4K &middot; Uploaded: July 2014 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dzv6nRpMX24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dzv6nRpMX24">Open on YouTube</a></p></div></div></div>
 
@@ -320,12 +315,11 @@ This is why professional historians tend to separate two different claims:
 1. **Records are missing.**
 2. **The missing records prove an alien recovery.**
 
-The first claim is supported by official investigation. The second is not. The gap between those two conclusions is where much of the Roswell argument takes place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS NSIAD 95 187</span><span class="citation-popover-snippet">GovInfoResults of a Search for Records Concerning the 1947...Government Records: Results of a Search for Records Concerning the 1947 Cra...</span></span></span>
+The first claim is supported by official investigation. The second is not. The gap between those two conclusions is where much of the Roswell argument takes place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS NSIAD 95 187</span><span class="citation-popover-snippet">Results of a Search for Records Concerning the 1947...Government Records: Results of a Search for Records Concerning the 1947 Cra...</span></span></span>
 
 The GAO's findings established that parts of the archival trail had disappeared and that record-destruction procedures were not fully documented. They did not establish what information those records contained. Even Representative Schiff, who pushed for the investigation, described the missing records as a reason for continued concern rather than as proof that extraterrestrial claims were true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scholar.lib.vt.edu/VA-news/ROA-Times/issues/1995/rt9507/950730/07310083.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholar.lib.vt.edu">[VT Scholarly Communication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholar.lib.vt.edu</span><span class="citation-popover-snippet">VT Scholarly CommunicationROSWELL MYSTERY CONTINUESRep. Steve Schiff, R-N.M., said a General Accounting Office report shed no new light o...</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_missing_roswell_reco_3da55d-Illustration-3-light.svg" | relative_url }}" alt="Missing records illustration 3" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_missing_roswell_reco_3da55d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_missing_roswell_reco_3da55d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_missing_roswell_reco_3da55d-Illustration-3-dark.svg" | relative_url }}" alt="Missing records illustration 3" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_missing_roswell_reco_3da55d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_roswell_evidence_0eee44_missing_roswell_reco_3da55d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the missing-records debate fits the larger Roswell evidence problem
 
 The missing files matter because they leave an evidential vacuum. Into that vacuum flow competing interpretations.
@@ -336,9 +330,7 @@ The result is a rare situation in which both believers and sceptics point to the
 
 What the missing Roswell files demonstrably prove is relatively narrow: important records from the relevant period were destroyed or are no longer available, and investigators could not fully reconstruct their disposal history. What they do not prove is that an alien spacecraft crashed in New Mexico, that bodies were recovered or that the missing files contained extraordinary revelations. The records gap remains real. The extraterrestrial conclusion remains unproven. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">Project on Government SecrecyGAO Report on Roswell, NM UFO CrashThe document disposition form does not indicate what organization or pers...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.justia.com">[Justia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.justia.com</span><span class="citation-popover-title">GAO Reports NSIAD-95-187</span><span class="citation-popover-snippet">Justia GAO ReportsNSIAD-95-187 - Government Records28 Jul 1995 — GAO found that some government records covering activities of the Roswel...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iuaLed7Jnu4" title="USA: UFO ANTI-SECRECY GROUP DEMONSTRATION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iuaLed7Jnu4" target="_blank" rel="noopener noreferrer">USA: UFO ANTI-SECRECY GROUP DEMONSTRATION</a></p><p class="youtube-embed-meta">Channel: AP Archive &middot; Views: 897 &middot; Uploaded: July 2015 &middot; Length: 2 minutes 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iuaLed7Jnu4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iuaLed7Jnu4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -762,179 +754,179 @@ What the missing Roswell files demonstrably prove is relatively narrow: importan
 1. <a id="endnote-1"></a>
    Source: govinfo.gov  
    Title: GAOREPORTS NSIAD 95 187  
-   Link: [https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm](https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GovInfoResults of a Search for Records Concerning the 1947...Government Records: Results of a Search for Records Concerning the 1947 Cra...</p></details>
+   Link: <a href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...Government Records: Results of a Search for Records Concerning the 1947 Cra...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: gao.gov  
    Title: nsiad 95 187  
-   Link: [https://www.gao.gov/products/nsiad-95-187](https://www.gao.gov/products/nsiad-95-187)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GAOResults of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air...</p></details>
+   Link: <a href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad-95-187</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Results of a Search for Records Concerning the 1947...GAO provided information on the 1947 weather balloon crash at Roswell Army Air...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: gao.justia.com  
    Title: GAO Reports NSIAD-95-187  
-   Link: [https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/](https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/)  
+   Link: <a href="https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/" target="_blank" rel="noopener noreferrer nofollow">https://gao.justia.com/department-of-defense/1995/7/government-records-nsiad-95-187/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Justia GAO ReportsNSIAD-95-187 - Government Records28 Jul 1995 — GAO found that some government records covering activities of the Roswel...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://www.ufologie.patrickgross.org/rw/f/schiff28jul1995.htm](https://www.ufologie.patrickgross.org/rw/f/schiff28jul1995.htm)  
+   Link: <a href="https://www.ufologie.patrickgross.org/rw/f/schiff28jul1995.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/rw/f/schiff28jul1995.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo&quot;The GAO report states that the outgoing messages from Roswell Army Air Field (RAAF) for this period of time were destroyed without pr...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — The National Archives has been unable to locate any documen...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: gao.gov  
-   Link: [https://www.gao.gov/](https://www.gao.gov/)  
+   Link: <a href="https://www.gao.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>onal watchdog,&quot; GAO investigates federal spending and performance...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: gao.gov  
-   Link: [https://www.gao.gov/about/what-gao-does](https://www.gao.gov/about/what-gao-does)  
+   Link: <a href="https://www.gao.gov/about/what-gao-does" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/about/what-gao-does</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What GAO DoesGAO provides Congress, the heads of executive agencies, and the public with timely, fact-based, non-partisan information tha...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf](https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell report: case closed / James McAndrewIn July 1994, the Office of the Secretary of the Air Force concluded an exhaustive search...</p></details>
    Published: July 1994  
 
 9. <a id="endnote-9"></a>
    Source: govinfo.gov  
    Title: GA O/NSIAD-95-187  
-   Link: [https://www.govinfo.gov/app/details/GAOREPORTS-NSIAD-95-187](https://www.govinfo.gov/app/details/GAOREPORTS-NSIAD-95-187)  
+   Link: <a href="https://www.govinfo.gov/app/details/GAOREPORTS-NSIAD-95-187" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/app/details/GAOREPORTS-NSIAD-95-187</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GAO/NSIAD-95-187 - Government Records: Results of a...GAO/NSIAD-95-187 - Government Records: Results of a Search for Records Concerning...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/guide-fed-records/groups/411.html](https://www.archives.gov/research/guide-fed-records/groups/411.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/groups/411.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/groups/411.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Records of the General Accounting office [GAO]In the Catalog, you can find descriptions of our holdings and access electronic records and...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sgp.fas.org  
-   Link: [https://sgp.fas.org/othergov/roswell.html](https://sgp.fas.org/othergov/roswell.html)  
+   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project on Government SecrecyGAO Report on Roswell, NM UFO CrashThe document disposition form does not indicate what organization or pers...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: scholar.lib.vt.edu  
-   Link: [https://scholar.lib.vt.edu/VA-news/ROA-Times/issues/1995/rt9507/950730/07310083.htm](https://scholar.lib.vt.edu/VA-news/ROA-Times/issues/1995/rt9507/950730/07310083.htm)  
+   Link: <a href="https://scholar.lib.vt.edu/VA-news/ROA-Times/issues/1995/rt9507/950730/07310083.htm" target="_blank" rel="noopener noreferrer nofollow">https://scholar.lib.vt.edu/VA-news/ROA-Times/issues/1995/rt9507/950730/07310083.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VT Scholarly CommunicationROSWELL MYSTERY CONTINUESRep. Steve Schiff, R-N.M., said a General Accounting Office report shed no new light o...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: media.defense.gov  
    Title: GENERAL ACCOUNTING OFFICE S SCHIFF  
-   Link: [https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF](https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF)  
+   Link: <a href="https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jul/13/2002761373/-1/-1/0/GENERAL_ACCOUNTING_OFFICE_S_SCHIFF.PDF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarGovernment Records13 Jul 2021 — In March 1995, the CIA&#x27;s Executive Director responded to our letter of inquiry by s...</p></details>
    Published: March 1995  
 
 14. <a id="endnote-14"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/The-Roswell-Report/](https://www.af.mil/The-Roswell-Report/)  
+   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceThe Roswell ReportThis report discusses the results of this exhaustive research and identifies the likely sources of the claims...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/lawandcrime/posts/air-force-general-linked-to-ufo-research-disappears/1214006754230132/](https://www.facebook.com/lawandcrime/posts/air-force-general-linked-to-ufo-research-disappears/1214006754230132/)  
+   Link: <a href="https://www.facebook.com/lawandcrime/posts/air-force-general-linked-to-ufo-research-disappears/1214006754230132/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lawandcrime/posts/air-force-general-linked-to-ufo-research-disappears/1214006754230132/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>no surprise that the whole thing fell back to the Air Force...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: [https://en.wikipedia.org/wiki/Roswell_incident](https://en.wikipedia.org/wiki/Roswell_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incidentDebris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: roswell-nm.gov  
    Title: City of Roswell  
-   Link: [https://roswell-nm.gov/1248/City-of-Roswell](https://roswell-nm.gov/1248/City-of-Roswell)  
+   Link: <a href="https://roswell-nm.gov/1248/City-of-Roswell" target="_blank" rel="noopener noreferrer nofollow">https://roswell-nm.gov/1248/City-of-Roswell</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, NMTwitter · Instagram · YouTube · LinkedIn. City of Roswell. 425 N Richardson. Roswell, NM 88201. Phone: 575-624-6700 · Email Ro...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: rense.com  
-   Link: [https://rense.com/general25/finalde.htm](https://rense.com/general25/finalde.htm)  
+   Link: <a href="https://rense.com/general25/finalde.htm" target="_blank" rel="noopener noreferrer nofollow">https://rense.com/general25/finalde.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Final DeclassificationThe object that came down near Roswell, according to the Air Force&#x27;s 1995... Air Field (RAAF) records from the...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: muller.lbl.gov  
    Title: Roswell Incident  
-   Link: [https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html](https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html)  
+   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>INCIDENT REPORTThe &quot;Roswell Incident&quot; refers to an event that supposedly happened in July, 1947, wherein the Army Air Forces (AAF) allege...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: britannica.com  
    Title: Roswell incident  
-   Link: [https://www.britannica.com/event/Roswell-incident](https://www.britannica.com/event/Roswell-incident)  
+   Link: <a href="https://www.britannica.com/event/Roswell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Roswell-incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview, Theories, Hoaxes, &amp; Facts8 May 2026 — Roswell incident, events surrounding the crash and recovery of a US Army Air Forces high...</p></details>
    Published: May 2026  
 
 21. <a id="endnote-21"></a>
    Source: military-history.fandom.com  
    Title: Air Force reports on the Roswell UFO incident  
-   Link: [https://military-history.fandom.com/wiki/Air_Force_reports_on_the_Roswell_UFO_incident](https://military-history.fandom.com/wiki/Air_Force_reports_on_the_Roswell_UFO_incident)  
+   Link: <a href="https://military-history.fandom.com/wiki/Air_Force_reports_on_the_Roswell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Air_Force_reports_on_the_Roswell_UFO_incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>outgoing messages were permanent records, which should never have been destroyed.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: seeroswell.com  
-   Link: [https://seeroswell.com/](https://seeroswell.com/)  
+   Link: <a href="https://seeroswell.com/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/</a>  
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm](https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm)  
+   Link: <a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
 
 24. <a id="endnote-24"></a>
    Source: centerforinquiry.s3.amazonaws.com  
-   Link: [https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf](https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf)  
+   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1995/11/22165051/p22.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Steve Schiff today released the General. Accounting Office (GAO) report detailing the results of a records audit relating to...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: files.afu.se  
-   Link: [https://files.afu.se/afudocs/Downloads/Magazines/United%20States/Just%20Cause%20%28CAUS%29/Just%20Cause%20-%20New%20Series/Just%20Cause%20-%201995%2006%20%20-%20No%2044%20-%20New%20Series.pdf](https://files.afu.se/afudocs/Downloads/Magazines/United%20States/Just%20Cause%20%28CAUS%29/Just%20Cause%20-%20New%20Series/Just%20Cause%20-%201995%2006%20%20-%20No%2044%20-%20New%20Series.pdf)  
+   Link: <a href="https://files.afu.se/afudocs/Downloads/Magazines/United%20States/Just%20Cause%20%28CAUS%29/Just%20Cause%20-%20New%20Series/Just%20Cause%20-%201995%2006%20%20-%20No%2044%20-%20New%20Series.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.afu.se/afudocs/Downloads/Magazines/United%20States/Just%20Cause%20%28CAUS%29/Just%20Cause%20-%20New%20Series/Just%20Cause%20-%201995%2006%20%20-%20No%2044%20-%20New%20Series.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Greenwood NUMBER 44 Citizens Against UFO SecGAO ROSWELL REPORT RELEASED. On July 28, 1995... Roswell Army Air Field records, administra...</p></details>
    Published: July 28, 1995  
 
 26. <a id="endnote-26"></a>
    Source: nexusnewsfeed.com  
    Title: roswell crash records destroyed methods and culprits revealed  
-   Link: [https://nexusnewsfeed.com/article/unexplained/roswell-crash-records-destroyed-methods-and-culprits-revealed/](https://nexusnewsfeed.com/article/unexplained/roswell-crash-records-destroyed-methods-and-culprits-revealed/)  
+   Link: <a href="https://nexusnewsfeed.com/article/unexplained/roswell-crash-records-destroyed-methods-and-culprits-revealed/" target="_blank" rel="noopener noreferrer nofollow">https://nexusnewsfeed.com/article/unexplained/roswell-crash-records-destroyed-methods-and-culprits-revealed/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell crash records destroyed, methods and culprits...Oct 1, 2025 — Additionally, two Roswell Base officers have confessed that they t...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
-   Link: [https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/](https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/)  
+   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?Jul 7, 2022 — Major Jesse Marcel, an intelligence officer from Roswell A...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/CBVA.CommunityNews/posts/1678103379522016/](https://www.facebook.com/groups/CBVA.CommunityNews/posts/1678103379522016/)  
+   Link: <a href="https://www.facebook.com/groups/CBVA.CommunityNews/posts/1678103379522016/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/CBVA.CommunityNews/posts/1678103379522016/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>least one person reported seeing a blazing aircraft in the sky...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/w7s572/what_about_the_roswell_documents_werent_they/](https://www.reddit.com/r/UFOs/comments/w7s572/what_about_the_roswell_documents_werent_they/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/w7s572/what_about_the_roswell_documents_werent_they/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/w7s572/what_about_the_roswell_documents_werent_they/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>pposed to be automatically declassified due to the statute...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: cqpress.sagepub.com  
    Title: Pursuing the Paranormal  
-   Link: [https://cqpress.sagepub.com/cqresearcher/report/download/pursuing-paranormal-cqresrre19960329](https://cqpress.sagepub.com/cqresearcher/report/download/pursuing-paranormal-cqresrre19960329)  
+   Link: <a href="https://cqpress.sagepub.com/cqresearcher/report/download/pursuing-paranormal-cqresrre19960329" target="_blank" rel="noopener noreferrer nofollow">https://cqpress.sagepub.com/cqresearcher/report/download/pursuing-paranormal-cqresrre19960329</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CQ PressThe GAO&#x27;s report of the incident offered some ammunition for UFO be- lievers, noting that some government records covering Roswel...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Roswell (TV series)  
-   Link: [https://en.wikipedia.org/wiki/Roswell_%28TV_series%29](https://en.wikipedia.org/wiki/Roswell_%28TV_series%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Roswell_%28TV_series%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_%28TV_series%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell (TV series)Roswell is an American science fiction television series that presents a timeline where the Roswell UFO exists, and...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: The Roswell Report: Case Closed by James Mc Andrew  
-   Link: [https://www.youtube.com/watch?v=qwwmZWEjyKs](https://www.youtube.com/watch?v=qwwmZWEjyKs)  
+   Link: <a href="https://www.youtube.com/watch?v=qwwmZWEjyKs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qwwmZWEjyKs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Roswell Incident (Full Episode) | Undercover History Updates | National Geographic...</p></details>

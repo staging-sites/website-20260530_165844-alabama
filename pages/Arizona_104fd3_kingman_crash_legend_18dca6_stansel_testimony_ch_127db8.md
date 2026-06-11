@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /kingman-legend/
 nav_short_title: Stansel Claims
 title: Why Arthur Stansel's Story Kept Changing
-title_full: Why Arthur Stansel's Story Kept Changing | Kingman Legend
+title_full: Why Arthur Stansel's Story Kept Changing
 display_title_short: Stansel Claims
 display_title: Stansel Claims
 heading_title: Why Arthur Stansel's Story Kept Changing
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 14:59:21'
-parent_title: Is the Kingman UFO Crash Story Credible? | Arizona UFOs
+parent_title: Is the Kingman UFO Crash Story Credible?
 parent_permalink: /kingman-legend/
 parent_nav_short_title: Kingman Legend
 parent_heading_title: Is the Kingman UFO Crash Story Credible?
@@ -250,18 +250,16 @@ image: /assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_stansel_testimo
 
 ## Introduction
 
-The Kingman UFO crash story from 1953 is one of the more persistent threads in [Arizona]({{ 'why-arizona-became-a-ufo-state/' | relative_url }})’s UFO lore — partly because it echoes the famous Roswell narrative and partly because it hinges so heavily on a single individual’s testimony. At the centre of this account is **Arthur G. Stansel**, a mechanical engineer whose recollections — first shared in the early 1970s and later publicised by ufologist Raymond Fowler — have been the principal source for claims that a non‑human craft and at least one body were recovered near Kingman, Arizona. But as researchers have noted, Stansel’s accounts shifted over time and contained inconsistencies that raise serious questions about how reliable his testimony actually is. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/kingman530521_atest.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">case submittal</span><span class="citation-popover-snippet">NICAPcase submittalFebruary 27, 2007...</span><span class="citation-popover-meta">Published: February 27, 2007</span></span></span>
+The Kingman UFO crash story from 1953 is one of the more persistent threads in Arizona’s UFO lore — partly because it echoes the famous Roswell narrative and partly because it hinges so heavily on a single individual’s testimony. At the centre of this account is **Arthur G. Stansel**, a mechanical engineer whose recollections — first shared in the early 1970s and later publicised by ufologist Raymond Fowler — have been the principal source for claims that a non‑human craft and at least one body were recovered near Kingman, Arizona. But as researchers have noted, Stansel’s accounts shifted over time and contained inconsistencies that raise serious questions about how reliable his testimony actually is. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/kingman530521_atest.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">case submittal</span><span class="citation-popover-snippet">case submittalFebruary 27, 2007...</span><span class="citation-popover-meta">Published: February 27, 2007</span></span></span>
 
-
-<img src="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_stansel_testimony_ch_127db8-Illustration-1-light.svg" | relative_url }}" alt="Stansel Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_stansel_testimony_ch_127db8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_stansel_testimony_ch_127db8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_stansel_testimony_ch_127db8-Illustration-1-dark.svg" | relative_url }}" alt="Stansel Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_stansel_testimony_ch_127db8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_stansel_testimony_ch_127db8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The early “teardrop” account versus the later disc‑shaped craft
 
 When Stansel first spoke publicly about the alleged incident, he did so not to a professional investigator but to two young UFO enthusiasts, Jeff Young and Paul Chetham, in an interview first conducted in February 1971. In that **initial account**, Stansel (then using the pseudonym “Fritz Werner”) described witnessing an object he characterised as **a “teardrop‑shaped cigar” about twelve feet long**, rather than a large disc‑shaped craft. He said he saw it during his time with the Air Force and later in connection with atomic testing, and at one point even mentioned involvement with Project Blue Book, the Air Force’s UFO study programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kevinrandle.blogspot.com/2021/03/kingman-rises-from-dead.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">interviews, Werner didn&#x27;t mention his “contact” with UFOs.Read more</span><span class="citation-popover-snippet">Kevin Randle&#x27;s BlogA Different Perspective: Kingman Rises from the Dead?3 Mar 2021 — When first reported by Raymond Fowler in the April 1...</span></span></span>
 
 When ufologist Raymond Fowler interviewed him later that year and again in 1973, Stansel’s description **changed significantly**. In the **later version**, he claimed to have been flown from Indian Springs Air Force Base to Phoenix and driven on a bus with blacked‑out windows to a remote desert site “somewhere southeast of Kingman.” There, he said, he saw a **large, roughly thirty‑foot diameter, disc‑shaped object embedded in the sand with barely a scratch on it** and measured its impact characteristics. A signed statement published by Fowler described the object as made of brushed‑aluminium‑like metal, with an open hatch leading to an interior that included swivel seats and instruments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-unidentified.net/the-kingman-ufo-incident-1953/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-unidentified.net">[The Unidentified]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-unidentified.net</span><span class="citation-popover-title">the kingman ufo incident 1953</span><span class="citation-popover-snippet">The UnidentifiedThe Kingman UFO Incident (1953) - The UnidentifiedJune 8, 2024...</span><span class="citation-popover-meta">Published: June 8, 2024</span></span></span>
 
-The dramatic shift from a relatively small, cigar‑like object to a large saucer is not a minor detail. In UFO lore, the **shape and size of a craft are central to how an incident is interpreted**, not peripheral atmospheric information. Researchers like Kevin Randle have expressed scepticism precisely because such a fundamental element of the story changed between interviews. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">kingman530521 randle</span><span class="citation-popover-snippet">NICAPcase submittalFowler, &quot;What About Crashed UFOs,&quot; Official UFO (April 1976): 55-57. 10. Fowler, report 53-2, attachment 7, 1973. 11...</span><span class="citation-popover-meta">Published: April 1976</span></span></span>
-
+The dramatic shift from a relatively small, cigar‑like object to a large saucer is not a minor detail. In UFO lore, the **shape and size of a craft are central to how an incident is interpreted**, not peripheral atmospheric information. Researchers like Kevin Randle have expressed scepticism precisely because such a fundamental element of the story changed between interviews. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">kingman530521 randle</span><span class="citation-popover-snippet">case submittalFowler, &quot;What About Crashed UFOs,&quot; Official UFO (April 1976): 55-57. 10. Fowler, report 53-2, attachment 7, 1973. 11...</span><span class="citation-popover-meta">Published: April 1976</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/izo1Nr3WZHI" title="UFOs Over Arizona: the Mystery of Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=izo1Nr3WZHI" target="_blank" rel="noopener noreferrer">UFOs Over Arizona: the Mystery of Aliens</a></p><p class="youtube-embed-meta">Channel: Best Documentary &middot; Views: 61.1K &middot; Uploaded: July 2024 &middot; Length: 1 hour 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=izo1Nr3WZHI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=izo1Nr3WZHI">Open on YouTube</a></p></div></div></div>
 
@@ -270,29 +268,25 @@ The dramatic shift from a relatively small, cigar‑like object to a large sauce
 Other aspects of Stansel’s accounts have also been challenged by investigators or remain unverified:
 
 * **Project Blue Book affiliation:** In the early interview with Young and Chetham, Stansel asserted he worked with Project Blue Book and that a crash report prompted a team of about forty people. However, there is **no evidence that he was ever a Blue Book member** or that the crash was ever documented within that official programme, casting doubt on this part of his claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kevinrandle.blogspot.com/2021/03/kingman-rises-from-dead.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">interviews, Werner didn&#x27;t mention his “contact” with UFOs.Read more</span><span class="citation-popover-snippet">Kevin Randle&#x27;s BlogA Different Perspective: Kingman Rises from the Dead?3 Mar 2021 — When first reported by Raymond Fowler in the April 1...</span></span></span>
-* **Dr Ed Doll’s non‑confirmation:** Stansel later said he had been contacted by his superior, referred to as Dr Ed Doll, to undertake the special assignment that led him to Kingman. Yet when researchers located Doll decades later and asked him about the events and about Stansel’s presence, the former Atomic Energy Commission director **denied any knowledge** of the incident or of working with anyone by Stansel’s name. This absence of corroboration from an alleged direct superior undermines the story’s credibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/kingman530521_atest.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">case submittal</span><span class="citation-popover-snippet">NICAPcase submittalFebruary 27, 2007...</span><span class="citation-popover-meta">Published: February 27, 2007</span></span></span>
+* **Dr Ed Doll’s non‑confirmation:** Stansel later said he had been contacted by his superior, referred to as Dr Ed Doll, to undertake the special assignment that led him to Kingman. Yet when researchers located Doll decades later and asked him about the events and about Stansel’s presence, the former Atomic Energy Commission director **denied any knowledge** of the incident or of working with anyone by Stansel’s name. This absence of corroboration from an alleged direct superior undermines the story’s credibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/kingman530521_atest.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">case submittal</span><span class="citation-popover-snippet">case submittalFebruary 27, 2007...</span><span class="citation-popover-meta">Published: February 27, 2007</span></span></span>
 * **Security and narrative logic:** The bus journey described — first to Phoenix, then to the site under blackout conditions — does not map efficiently to the geography between Indian Springs (near Las Vegas) and the Kingman area, and the security procedures Stansel recounted (such as not being allowed to talk but having names called out) seem internally inconsistent. Skeptical commentators have pointed out these contradictions as signs that the narrative may have evolved in the retelling rather than reflected actual events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kevinrandle.blogspot.com/2021/03/kingman-rises-from-dead.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">interviews, Werner didn&#x27;t mention his “contact” with UFOs.Read more</span><span class="citation-popover-snippet">Kevin Randle&#x27;s BlogA Different Perspective: Kingman Rises from the Dead?3 Mar 2021 — When first reported by Raymond Fowler in the April 1...</span></span></span>
 
-
-<img src="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_stansel_testimony_ch_127db8-Illustration-2-light.svg" | relative_url }}" alt="Stansel Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_stansel_testimony_ch_127db8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_stansel_testimony_ch_127db8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_stansel_testimony_ch_127db8-Illustration-2-dark.svg" | relative_url }}" alt="Stansel Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_stansel_testimony_ch_127db8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_stansel_testimony_ch_127db8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Alcohol, memory and embellishment
 
 In online discussions among UFO researchers and observers, additional doubts about Stansel’s reliability have surfaced based on his own comments. In at least one recounting, Stansel admitted to having **had several martinis before the first interview with Young and Chetham** and acknowledged that he tended to “make things up” when drinking — a remark that even some believers recognise hurts his credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kevinrandle.blogspot.com/2021/03/kingman-rises-from-dead.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kevinrandle.blogspot.com">[Kevin Randle&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kevinrandle.blogspot.com</span><span class="citation-popover-title">interviews, Werner didn&#x27;t mention his “contact” with UFOs.Read more</span><span class="citation-popover-snippet">Kevin Randle&#x27;s BlogA Different Perspective: Kingman Rises from the Dead?3 Mar 2021 — When first reported by Raymond Fowler in the April 1...</span></span></span> Such candid self‑assessment, if accurately reported, suggests that at least some elements of his early accounts may reflect memory errors or embellishment rather than clear recollection.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KC9tC_XarjE" title="The 1953 Kingman UFO Crash Retrieval" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KC9tC_XarjE" target="_blank" rel="noopener noreferrer">The 1953 Kingman UFO Crash Retrieval</a></p><p class="youtube-embed-meta">Channel: Megalithic Marvels (Derek Olson) &middot; Views: 14.6K &middot; Uploaded: December 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KC9tC_XarjE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KC9tC_XarjE">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WD29Uc7yRp8" title="UFO Cases You&#x27;ve NEVER Heard Of In Arizona | Aliens Uncovered: UFOs Over Arizona | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WD29Uc7yRp8" target="_blank" rel="noopener noreferrer">UFO Cases You&#x27;ve NEVER Heard Of In Arizona | Aliens Uncovered: UFOs Over Arizona | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 4.5K &middot; Uploaded: September 2025 &middot; Length: 1 hour 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WD29Uc7yRp8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WD29Uc7yRp8">Open on YouTube</a></p></div></div></div>
 
 ## Can inconsistent testimony still support a crash claim?
 
-In historical analysis of extraordinary claims, a witness’s credibility is often as important as the content of their testimony. In the case of **Arthur Stansel**, the combination of significant discrepancies between early and later versions, unverified elements (like Project Blue Book involvement), and contradictions with known geography and potential corroboration points all weaken the evidential weight of his account. Even though Fowler verified that he held engineering credentials and secured a signed statement, **a single, shifting testimony is not sufficient on its own to conclusively support a claim of a UFO crash — especially one involving a physical craft and recovered bodies**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">kingman530521 randle</span><span class="citation-popover-snippet">NICAPcase submittalFowler, &quot;What About Crashed UFOs,&quot; Official UFO (April 1976): 55-57. 10. Fowler, report 53-2, attachment 7, 1973. 11...</span><span class="citation-popover-meta">Published: April 1976</span></span></span>
+In historical analysis of extraordinary claims, a witness’s credibility is often as important as the content of their testimony. In the case of **Arthur Stansel**, the combination of significant discrepancies between early and later versions, unverified elements (like Project Blue Book involvement), and contradictions with known geography and potential corroboration points all weaken the evidential weight of his account. Even though Fowler verified that he held engineering credentials and secured a signed statement, **a single, shifting testimony is not sufficient on its own to conclusively support a claim of a UFO crash — especially one involving a physical craft and recovered bodies**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">kingman530521 randle</span><span class="citation-popover-snippet">case submittalFowler, &quot;What About Crashed UFOs,&quot; Official UFO (April 1976): 55-57. 10. Fowler, report 53-2, attachment 7, 1973. 11...</span><span class="citation-popover-meta">Published: April 1976</span></span></span>
 
-That does not entirely dismiss the possibility that something unexplained occurred near Kingman in 1953, but it does mean that **Stansel’s changing story and the gaps in corroboration remain critical reasons why the [Kingman crash legend]({{ 'kingman-legend/' | relative_url }}) sits on the weaker end of UFO evidence** within Arizona’s broader history of sightings and reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">kingman530521 randle</span><span class="citation-popover-snippet">NICAPcase submittalFowler, &quot;What About Crashed UFOs,&quot; Official UFO (April 1976): 55-57. 10. Fowler, report 53-2, attachment 7, 1973. 11...</span><span class="citation-popover-meta">Published: April 1976</span></span></span>
+That does not entirely dismiss the possibility that something unexplained occurred near Kingman in 1953, but it does mean that **Stansel’s changing story and the gaps in corroboration remain critical reasons why the Kingman crash legend sits on the weaker end of UFO evidence** within Arizona’s broader history of sightings and reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">kingman530521 randle</span><span class="citation-popover-snippet">case submittalFowler, &quot;What About Crashed UFOs,&quot; Official UFO (April 1976): 55-57. 10. Fowler, report 53-2, attachment 7, 1973. 11...</span><span class="citation-popover-meta">Published: April 1976</span></span></span>
 
-
-<img src="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_stansel_testimony_ch_127db8-Illustration-3-light.svg" | relative_url }}" alt="Stansel Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_stansel_testimony_ch_127db8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_stansel_testimony_ch_127db8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_stansel_testimony_ch_127db8-Illustration-3-dark.svg" | relative_url }}" alt="Stansel Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_stansel_testimony_ch_127db8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_kingman_crash_legend_18dca6_stansel_testimony_ch_127db8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -380,7 +374,7 @@ That does not entirely dismiss the possibility that something unexplained occurr
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -390,111 +384,36 @@ That does not entirely dismiss the possibility that something unexplained occurr
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arthur-stansel-s-story-kept-changing-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-arthur-stansel-s-story-kept-changing-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arthur-stansel-s-story-kept-changing-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-arthur-stansel-s-story-kept-changing-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arthur-stansel-s-story-kept-changing-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-arthur-stansel-s-story-kept-changing-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arthur-stansel-s-story-kept-changing-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-arthur-stansel-s-story-kept-changing-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,15 +421,15 @@ That does not entirely dismiss the possibility that something unexplained occurr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arthur-stansel-s-story-kept-changing-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-arthur-stansel-s-story-kept-changing-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="https://i.ebayimg.com/images/g/VQ8AAeSwE2Fp1m0Y/s-l225.jpg" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arthur-stansel-s-story-kept-changing-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-arthur-stansel-s-story-kept-changing-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arthur-stansel-s-story-kept-changing-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-arthur-stansel-s-story-kept-changing-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arthur-stansel-s-story-kept-changing-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-arthur-stansel-s-story-kept-changing-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +437,15 @@ That does not entirely dismiss the possibility that something unexplained occurr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arthur-stansel-s-story-kept-changing-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-arthur-stansel-s-story-kept-changing-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster"><img src="https://i.ebayimg.com/images/g/H3QAAOSwSyRmwGFD/s-l225.jpg" alt="Listing image for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arthur-stansel-s-story-kept-changing-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-arthur-stansel-s-story-kept-changing-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arthur-stansel-s-story-kept-changing-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-arthur-stansel-s-story-kept-changing-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arthur-stansel-s-story-kept-changing-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-arthur-stansel-s-story-kept-changing-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +453,15 @@ That does not entirely dismiss the possibility that something unexplained occurr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arthur-stansel-s-story-kept-changing-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-arthur-stansel-s-story-kept-changing-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original UFO Painting 12x16 Sci-Fi Alien Canvas Art Expressionist Wall Decor"><img src="https://i.ebayimg.com/images/g/XkIAAeSwTU5qFY7l/s-l225.jpg" alt="Listing image for Original UFO Painting 12x16 Sci-Fi Alien Canvas Art Expressionist Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arthur-stansel-s-story-kept-changing-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-arthur-stansel-s-story-kept-changing-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">Original UFO Painting 12x16 Sci-Fi Alien Canvas Art Expressionist Wall Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arthur-stansel-s-story-kept-changing-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-arthur-stansel-s-story-kept-changing-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arthur-stansel-s-story-kept-changing-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-arthur-stansel-s-story-kept-changing-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,7 +469,7 @@ That does not entirely dismiss the possibility that something unexplained occurr
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stansel-claims-why-arthur-stansel-s-story-kept-changing-arizona-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-arthur-stansel-s-story-kept-changing-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="why-arthur-stansel-s-story-kept-changing-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -627,17 +546,31 @@ That does not entirely dismiss the possibility that something unexplained occurr
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -650,42 +583,73 @@ That does not entirely dismiss the possibility that something unexplained occurr
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -700,12 +664,17 @@ That does not entirely dismiss the possibility that something unexplained occurr
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -716,93 +685,93 @@ That does not entirely dismiss the possibility that something unexplained occurr
 1. <a id="endnote-1"></a>
    Source: nicap.org  
    Title: case submittal  
-   Link: [https://www.nicap.org/reports/kingman530521_atest.htm](https://www.nicap.org/reports/kingman530521_atest.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPcase submittalFebruary 27, 2007...</p></details>
+   Link: <a href="https://www.nicap.org/reports/kingman530521_atest.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/kingman530521_atest.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>case submittalFebruary 27, 2007...</p></details>
    Published: February 27, 2007  
 
 2. <a id="endnote-2"></a>
    Source: the-unidentified.net  
    Title: the kingman ufo incident 1953  
-   Link: [https://www.the-unidentified.net/the-kingman-ufo-incident-1953/](https://www.the-unidentified.net/the-kingman-ufo-incident-1953/)  
+   Link: <a href="https://www.the-unidentified.net/the-kingman-ufo-incident-1953/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-unidentified.net/the-kingman-ufo-incident-1953/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UnidentifiedThe Kingman UFO Incident (1953) - The UnidentifiedJune 8, 2024...</p></details>
    Published: June 8, 2024  
 
 3. <a id="endnote-3"></a>
    Source: nicap.org  
    Title: kingman530521 randle  
-   Link: [https://www.nicap.org/reports/kingman530521_randle.htm](https://www.nicap.org/reports/kingman530521_randle.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPcase submittalFowler, &quot;What About Crashed UFOs,&quot; Official UFO (April 1976): 55-57. 10. Fowler, report 53-2, attachment 7, 1973. 11...</p></details>
+   Link: <a href="https://www.nicap.org/reports/kingman530521_randle.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/kingman530521_randle.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>case submittalFowler, &quot;What About Crashed UFOs,&quot; Official UFO (April 1976): 55-57. 10. Fowler, report 53-2, attachment 7, 1973. 11...</p></details>
    Published: April 1976  
 
 4. <a id="endnote-4"></a>
    Source: kevinrandle.blogspot.com  
    Title: interviews, Werner didn't mention his “contact” with UFOs.Read more  
-   Link: [https://kevinrandle.blogspot.com/2021/03/kingman-rises-from-dead.html](https://kevinrandle.blogspot.com/2021/03/kingman-rises-from-dead.html)  
+   Link: <a href="https://kevinrandle.blogspot.com/2021/03/kingman-rises-from-dead.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2021/03/kingman-rises-from-dead.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin Randle&#x27;s BlogA Different Perspective: Kingman Rises from the Dead?3 Mar 2021 — When first reported by Raymond Fowler in the April 1...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: col2.com  
    Title: kingman ufo incident 1953  
-   Link: [https://www.col2.com/kingman-ufo-incident-1953](https://www.col2.com/kingman-ufo-incident-1953)  
+   Link: <a href="https://www.col2.com/kingman-ufo-incident-1953" target="_blank" rel="noopener noreferrer nofollow">https://www.col2.com/kingman-ufo-incident-1953</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1953 Kingman UFO incident; three crashed ships and one alien captured alive | COL2.COMTHE 1953 KINGMAN UFO INCIDENT; THREE CRASHED SH...</p></details>
 
 ### Additional References
 
 6. <a id="endnote-6"></a>
    Source: saa.org  
-   Link: [https://www.saa.org/common/Uploaded%20files/saadocs/AnnualMeeting/Final%20Program/2025_saa-final-program_final.pdf](https://www.saa.org/common/Uploaded%20files/saadocs/AnnualMeeting/Final%20Program/2025_saa-final-program_final.pdf)  
+   Link: <a href="https://www.saa.org/common/Uploaded%20files/saadocs/AnnualMeeting/Final%20Program/2025_saa-final-program_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.saa.org/common/Uploaded%20files/saadocs/AnnualMeeting/Final%20Program/2025_saa-final-program_final.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PROGRAMAll original research, including research articles, review articles, rapid communications, brief reports, and case reports are eli...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DRvl-6XkbfX/?hl=en-gb](https://www.instagram.com/p/DRvl-6XkbfX/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/p/DRvl-6XkbfX/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DRvl-6XkbfX/?hl=en-gb</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>this is the story of the Kingman crash... Watch now...Watch now on the Megalithic Marvels YouTube &amp; Spotify channels (linked in bio) #uf...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ufoinsight.com  
    Title: The Kingman UFO Crash – A Discreet Downed UFO That Slipped Under The Radar?  
-   Link: [https://www.ufoinsight.com/ufos/cover-ups/kingman-ufo-crash](https://www.ufoinsight.com/ufos/cover-ups/kingman-ufo-crash)  
+   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/kingman-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/kingman-ufo-crash</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightJanuary 28, 2023 — THE KINGMAN UFO CRASH – A DISCREET DOWNED UFO THAT SLIPPED UNDER THE RADAR? By Marcus Lowth Image: Publishe...</p></details>
    Published: January 28, 2023  
 
 9. <a id="endnote-9"></a>
    Source: files.libcom.org  
    Title: Two years after the most destructive civil insurrection in U.S. history,  
-   Link: [https://files.libcom.org/files/robin-d-g-kelley-race-rebels-culture-politics-and-the-black-working-class-1.pdf](https://files.libcom.org/files/robin-d-g-kelley-race-rebels-culture-politics-and-the-black-working-class-1.pdf)  
+   Link: <a href="https://files.libcom.org/files/robin-d-g-kelley-race-rebels-culture-politics-and-the-black-working-class-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.libcom.org/files/robin-d-g-kelley-race-rebels-culture-politics-and-the-black-working-class-1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rebels: Culture, Politics, And The Black Working Classby RDG KELLEY · Cited by 13 — It is getting hotter all the time on the streets of A...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: hull-repository.worktribe.com  
-   Link: [https://hull-repository.worktribe.com/preview/4216647/content-hull_11120a.pdf](https://hull-repository.worktribe.com/preview/4216647/content-hull_11120a.pdf)  
+   Link: <a href="https://hull-repository.worktribe.com/preview/4216647/content-hull_11120a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hull-repository.worktribe.com/preview/4216647/content-hull_11120a.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Femininities in British Film, 1945-59 being a...ethical that Ritter, as a scientist and Lily&#x27;s doctor, reproduces Alice&#x27;s face on Lily...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: theufochronicles.com  
    Title: HE WAS PART OF A LARGE TEAM OF SPECIALISTS BROUGHT IN TO EXAMI  
-   Link: [https://www.theufochronicles.com/2024/08/the-kingman-ufo-crash-conundrum.html](https://www.theufochronicles.com/2024/08/the-kingman-ufo-crash-conundrum.html)  
+   Link: <a href="https://www.theufochronicles.com/2024/08/the-kingman-ufo-crash-conundrum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2024/08/the-kingman-ufo-crash-conundrum.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kingman UFO Crash ConundrumAugust 23, 2024 — FRIDAY, AUGUST 23, 2024 THE KINGMAN UFO CRASH CONUNDRUM &quot;STANSEL TOLD OF A CRASH OF A LA...</p></details>
    Published: August 23, 2024  
 
 12. <a id="endnote-12"></a>
    Source: theufochronicles.com  
    Title: I hesitated answering the query simply because my new book  
-   Link: [https://www.theufochronicles.com/2010/05/kingman-ufo-crash.html](https://www.theufochronicles.com/2010/05/kingman-ufo-crash.html)  
+   Link: <a href="https://www.theufochronicles.com/2010/05/kingman-ufo-crash.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2010/05/kingman-ufo-crash.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kingman UFO CrashMay 14, 2010 — KINGMAN UFO CRASH By Kevin Randle A Different Perspective 5-14-10 Not long ago someone asked about the Ki...</p></details>
    Published: May 14, 2010  
 
 13. <a id="endnote-13"></a>
    Source: search.proquest.com  
    Title: Psychobiology emphasizes biographical and psychological  
-   Link: [https://search.proquest.com/openview/2c4c4fcb9afb57ca2a1ea45bc7f5ca3f/1?cbl=18750&pq-origsite=gscholar](https://search.proquest.com/openview/2c4c4fcb9afb57ca2a1ea45bc7f5ca3f/1?cbl=18750&pq-origsite=gscholar)  
+   Link: <a href="https://search.proquest.com/openview/2c4c4fcb9afb57ca2a1ea45bc7f5ca3f/1?cbl=18750&amp;pq-origsite=gscholar" target="_blank" rel="noopener noreferrer nofollow">https://search.proquest.com/openview/2c4c4fcb9afb57ca2a1ea45bc7f5ca3f/1?cbl=18750&amp;pq-origsite=gscholar</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>panentheism and metanormal human capacityby RF Mullen · 2014 · Cited by 2 — This qualitative study incorporates features of psychobiograp...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pdfcoffee.com  
-   Link: [https://pdfcoffee.com/area-51-the-revealing-truth-of-ufos-secret-aircraft-cover-ups-amp-conspiracies-nick-redfern-3-pdf-free.html](https://pdfcoffee.com/area-51-the-revealing-truth-of-ufos-secret-aircraft-cover-ups-amp-conspiracies-nick-redfern-3-pdf-free.html)  
+   Link: <a href="https://pdfcoffee.com/area-51-the-revealing-truth-of-ufos-secret-aircraft-cover-ups-amp-conspiracies-nick-redfern-3-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/area-51-the-revealing-truth-of-ufos-secret-aircraft-cover-ups-amp-conspiracies-nick-redfern-3-pdf-free.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Os, the Loch Ness Monster, alien encounters, and government conspiracies.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: odla.fr  
    Title: retour sur le crash d ovni à kingman arizona en 1953  
-   Link: [https://www.odla.fr/2015/02/17/retour-sur-le-crash-d-ovni-%C3%A0-kingman-arizona-en-1953/](https://www.odla.fr/2015/02/17/retour-sur-le-crash-d-ovni-%C3%A0-kingman-arizona-en-1953/)  
+   Link: <a href="https://www.odla.fr/2015/02/17/retour-sur-le-crash-d-ovni-%C3%A0-kingman-arizona-en-1953/" target="_blank" rel="noopener noreferrer nofollow">https://www.odla.fr/2015/02/17/retour-sur-le-crash-d-ovni-%C3%A0-kingman-arizona-en-1953/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>février 2015 RETOUR SUR LE CRASH D&#x27;OVNI À KINGMAN ARIZONA EN 1953 Image * Image * Image * Image * Image Image Image Image Image Bien que...</p></details>

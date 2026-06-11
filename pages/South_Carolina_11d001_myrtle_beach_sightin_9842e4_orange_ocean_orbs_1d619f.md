@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /myrtle-beach/
 nav_short_title: Orange Orbs
 title: Why do orange orbs keep appearing offshore?
-title_full: Why do orange orbs keep appearing offshore? | Myrtle Beach
+title_full: Why do orange orbs keep appearing offshore?
 display_title_short: Orange Orbs
 display_title: Orange Orbs
 heading_title: Why do orange orbs keep appearing offshore?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:12:00'
-parent_title: Are Myrtle Beach UFO Reports Really Unusual? | South Carolina UFOs
+parent_title: Are Myrtle Beach UFO Reports Really Unusual?
 parent_permalink: /myrtle-beach/
 parent_nav_short_title: Myrtle Beach
 parent_heading_title: Are Myrtle Beach UFO Reports Really Unusual?
@@ -250,17 +250,16 @@ image: /assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_orange_o
 
 ## Introduction
 
-The most recognisable UFO reports from the Grand Strand are not classic flying saucer stories. They are recurring accounts of orange lights over the Atlantic, usually seen at night from [Myrtle Beach]({{ 'myrtle-beach/' | relative_url }}), North Myrtle Beach, Surfside Beach or Murrells Inlet. Witnesses often describe glowing orange or amber “orbs” that appear offshore, hold position, line up in rows, fade out, then reappear elsewhere. The pattern repeats across many years, which is why it remains one of the most persistent themes in [South Carolina]({{ 'what-makes-south-carolinas-ufo-story/' | relative_url }}) UFO reporting. At the same time, it is one of the hardest patterns to verify. Most sightings involve distant lights over dark water, with no radar data, no confirmed range estimates and only occasional video footage. The result is a genuine reporting cluster, but not a clearly established mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=62752" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 62752NUFORC UFO Sighting 62752... Spheres of orange keep appearing and disappearing over the Atlantic Ocean. U...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=133716" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 133716They seem to occur around the times of 8pm - 9pm over the ocean (not on the horizon, but a great distance...</span></span></span>
+The most recognisable UFO reports from the Grand Strand are not classic flying saucer stories. They are recurring accounts of orange lights over the Atlantic, usually seen at night from [Myrtle Beach]({{ 'myrtle-beach/' | relative_url }}), North Myrtle Beach, Surfside Beach or Murrells Inlet. [Witnesses]({{ 'witnesses-e3b4f1/' | relative_url }}) often describe glowing orange or amber “orbs” that appear offshore, hold position, line up in rows, fade out, then reappear elsewhere. The pattern repeats across many years, which is why it remains one of the most persistent themes in South Carolina UFO reporting. At the same time, it is one of the hardest patterns to verify. Most sightings involve distant lights over dark water, with no radar data, no confirmed range estimates and only occasional video footage. The result is a genuine reporting cluster, but not a clearly established mystery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=62752" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 62752NUFORC UFO Sighting 62752... Spheres of orange keep appearing and disappearing over the Atlantic Ocean. U...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=133716" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 133716They seem to occur around the times of 8pm - 9pm over the ocean (not on the horizon, but a great distance...</span></span></span>
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_orange_ocean_orbs_1d619f-Illustration-1-light.svg" | relative_url }}" alt="Orange Orbs illustration 1" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_orange_ocean_orbs_1d619f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_orange_ocean_orbs_1d619f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within South Carolina UFO history, the significance of the Grand Strand pattern is not that a single sighting proved extraordinary. It is that many [witnesses]({{ 'witnesses-e3b4f1/' | relative_url }}), often years apart, keep describing remarkably similar behaviour from lights seen offshore. Whether that similarity points to a real recurring phenomenon, repeated misidentification, or a mixture of different causes remains the central question.
+<img src="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_orange_ocean_orbs_1d619f-Illustration-1-dark.svg" | relative_url }}" alt="Orange Orbs illustration 1" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_orange_ocean_orbs_1d619f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_orange_ocean_orbs_1d619f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Within South Carolina UFO history, the significance of the Grand Strand pattern is not that a single sighting proved extraordinary. It is that many witnesses, often years apart, keep describing remarkably similar behaviour from lights seen offshore. Whether that similarity points to a real recurring phenomenon, repeated misidentification, or a mixture of different causes remains the central question.
 
 ## What witnesses reported in 2008, 2014 and 2017
 
 Several reports stand out because they contain details that recur across the wider Myrtle Beach record.
 
-In April 2008, a witness in North Myrtle Beach reported orange spheres repeatedly appearing and disappearing over the Atlantic. According to the account, as many as three glowing orange balls were visible at once, with the lights seeming to emerge, vanish and return over a period of roughly half an hour. The witness specifically described them as appearing over the ocean rather than over land. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=36609" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 36609Occurred: 2004-04-29 23:00 Local; Reported: 2004-04-29 20:47 Pacific; Duration: 1 hour; No of observers...</span><span class="citation-popover-meta">Published: April 29, 2004</span></span></span>
+In April 2008, a witness in North Myrtle Beach reported orange spheres repeatedly appearing and disappearing over the Atlantic. According to the account, as many as three glowing orange balls were visible at once, with the lights seeming to emerge, vanish and return over a period of roughly half an hour. The witness specifically described them as appearing over the ocean rather than over land. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=36609" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 36609Occurred: 2004-04-29 23:00 Local; Reported: 2004-04-29 20:47 Pacific; Duration: 1 hour; No of observers...</span><span class="citation-popover-meta">Published: April 29, 2004</span></span></span>
 
 Later that year, in October 2008, a witness leaving work in Murrells Inlet reported a single orange sphere offshore that moved slowly, disappeared, then reappeared in a different position before being joined by two additional orange lights. The observer emphasised that there were no clouds that could easily explain the repeated vanish-and-return effect. After several minutes, all three lights disappeared completely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sentientorbs.com/explore/sightings/NUFORC-91609" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-snippet">Sentient OrbsTwo instances of strange lights over the ocean, one right after...Aug 8, 2012 — A series of orange lights appear above the...</span></span></span>
 
@@ -275,10 +274,9 @@ The repetition of certain features is what keeps these cases circulating in Sout
 * Multiple lights appearing together.
 * Straight-line formations or evenly spaced arrangements.
 * Lights fading out rather than visibly flying away.
-* Reappearance in new positions after disappearing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=62752" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 62752NUFORC UFO Sighting 62752... Spheres of orange keep appearing and disappearing over the Atlantic Ocean. U...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=133716" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 133716They seem to occur around the times of 8pm - 9pm over the ocean (not on the horizon, but a great distance...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sentientorbs.com/explore/sightings/NUFORC-91609" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-snippet">Sentient OrbsTwo instances of strange lights over the ocean, one right after...Aug 8, 2012 — A series of orange lights appear above the...</span></span></span>
+* Reappearance in new positions after disappearing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=62752" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 62752NUFORC UFO Sighting 62752... Spheres of orange keep appearing and disappearing over the Atlantic Ocean. U...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=133716" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 133716They seem to occur around the times of 8pm - 9pm over the ocean (not on the horizon, but a great distance...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sentientorbs.com/explore/sightings/NUFORC-91609" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-snippet">Sentient OrbsTwo instances of strange lights over the ocean, one right after...Aug 8, 2012 — A series of orange lights appear above the...</span></span></span>
 
-These descriptions also appear in reports from 2002, 2004 and 2012, suggesting that witnesses are not describing a one-off event but a recurring visual pattern that spans decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sentientorbs.com/explore/sightings/NUFORC-91609" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-snippet">Sentient OrbsTwo instances of strange lights over the ocean, one right after...Aug 8, 2012 — A series of orange lights appear above the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=36609" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 36609Occurred: 2004-04-29 23:00 Local; Reported: 2004-04-29 20:47 Pacific; Duration: 1 hour; No of observers...</span><span class="citation-popover-meta">Published: April 29, 2004</span></span></span>
-
+These descriptions also appear in reports from 2002, 2004 and 2012, suggesting that witnesses are not describing a one-off event but a recurring visual pattern that spans decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sentientorbs.com/explore/sightings/NUFORC-91609" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-snippet">Sentient OrbsTwo instances of strange lights over the ocean, one right after...Aug 8, 2012 — A series of orange lights appear above the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=36609" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 36609Occurred: 2004-04-29 23:00 Local; Reported: 2004-04-29 20:47 Pacific; Duration: 1 hour; No of observers...</span><span class="citation-popover-meta">Published: April 29, 2004</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HOb1O9zU8wk" title="Citizen journalists find three UAP in New York: Watch their videos | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HOb1O9zU8wk" target="_blank" rel="noopener noreferrer">Citizen journalists find three UAP in New York: Watch their videos | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 281.2K &middot; Uploaded: November 2025 &middot; Length: 1 hour 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HOb1O9zU8wk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HOb1O9zU8wk">Open on YouTube</a></p></div></div></div>
 
@@ -302,8 +300,7 @@ The Grand Strand sits near areas with substantial military aviation activity. Ai
 
 The weakness of the flare explanation is that some witnesses report apparent repositioning, clustering or directional movement that they believe exceeds normal drifting behaviour. However, without precise video analysis or known distances, it is difficult to determine whether those impressions reflect actual motion or changes in perspective. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sentientorbs.com/explore/sightings/NUFORC-91609" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-snippet">Sentient OrbsTwo instances of strange lights over the ocean, one right after...Aug 8, 2012 — A series of orange lights appear above the...</span></span></span>
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_orange_ocean_orbs_1d619f-Illustration-2-light.svg" | relative_url }}" alt="Orange Orbs illustration 2" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_orange_ocean_orbs_1d619f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_orange_ocean_orbs_1d619f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_orange_ocean_orbs_1d619f-Illustration-2-dark.svg" | relative_url }}" alt="Orange Orbs illustration 2" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_orange_ocean_orbs_1d619f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_orange_ocean_orbs_1d619f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Aircraft and approach-light effects
 
 Myrtle Beach's coastal geography creates conditions that can make aircraft lighting appear unusual.
@@ -326,7 +323,6 @@ This persistence creates a feedback effect. Visitors who search online after see
 
 At the same time, repeated reports should not be dismissed automatically. Consistent descriptions over many years are one reason investigators continue to pay attention to the Grand Strand pattern. If dozens of unrelated witnesses keep describing similar behaviour, that recurrence itself becomes part of the evidence that requires explanation. The challenge is determining whether the common factor is a real recurring phenomenon or a recurring viewing environment that produces the same misinterpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/MyrtleBeach/comments/254l68/lights_in_the_sky_over_the_ocean_in_myrtle_beach/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Lights in the sky over the ocean in Myrtle BeachThe only plausible explanation is that it is some type of military flare or something, bu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=149401" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 149401One large white orb and several orbs individually red, blue, and green over the ocean. The events occurred on t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sentientorbs.com/explore/sightings/NUFORC-36609" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-title">The only logical explanation would be flares</span><span class="citation-popover-snippet">That must be...Apr 29, 2004 — Exactly like the sept 2003 sightings. very bright orange lights appear for about 2-3 seconds then dissipat...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K91qw8u4CuY" title="Charles Spots a UFO in Myrtle Beach" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K91qw8u4CuY" target="_blank" rel="noopener noreferrer">Charles Spots a UFO in Myrtle Beach</a></p><p class="youtube-embed-meta">Channel: Dispatches From Myrtle Beach &middot; Views: 18.3K &middot; Uploaded: March 2024 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K91qw8u4CuY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K91qw8u4CuY">Open on YouTube</a></p></div></div></div>
 
 ## What evidence would strengthen or weaken the pattern
@@ -334,7 +330,6 @@ At the same time, repeated reports should not be dismissed automatically. Consis
 The biggest limitation of the Grand Strand cases is that most reports rely on eyewitness testimony alone.
 
 Evidence that would strengthen the case for a genuinely unusual recurring phenomenon would include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -351,8 +346,7 @@ By contrast, the pattern would be weakened if future reports consistently matche
 
 At present, neither side has decisive evidence. The reports are too numerous to ignore entirely, yet too dependent on distant visual observation to establish that something extraordinary occurred.
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_orange_ocean_orbs_1d619f-Illustration-3-light.svg" | relative_url }}" alt="Orange Orbs illustration 3" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_orange_ocean_orbs_1d619f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_orange_ocean_orbs_1d619f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_orange_ocean_orbs_1d619f-Illustration-3-dark.svg" | relative_url }}" alt="Orange Orbs illustration 3" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_orange_ocean_orbs_1d619f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_myrtle_beach_sightin_9842e4_orange_ocean_orbs_1d619f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Grand Strand's place in South Carolina UFO history
 
 The orange-orb reports matter because they represent South Carolina's most sustained coastal UFO pattern. Unlike older state cases tied to a single dramatic encounter or official investigation, the Myrtle Beach phenomenon is a rolling accumulation of similar observations spread across many years.
@@ -361,9 +355,7 @@ The strongest argument for the pattern is consistency. Witnesses repeatedly desc
 
 That leaves the Grand Strand in an unusual position within South Carolina UFO history: not a landmark unresolved case, and not a straightforward debunking, but a recurring coastal lights pattern whose persistence is more notable than any individual sighting.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fRN5YhlyL5k" title="REAL footage UFO flying over Myrtle Beach SC 12/7/08" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fRN5YhlyL5k" target="_blank" rel="noopener noreferrer">REAL footage UFO flying over Myrtle Beach SC 12/7/08</a></p><p class="youtube-embed-meta">Channel: thenewboston &middot; Views: 567.0K &middot; Uploaded: December 2008 &middot; Length: 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fRN5YhlyL5k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fRN5YhlyL5k">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RY2kqK9Sh_k" title="Time-lapse video catches mysterious lights over Myrtle Beach" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RY2kqK9Sh_k" target="_blank" rel="noopener noreferrer">Time-lapse video catches mysterious lights over Myrtle Beach</a></p><p class="youtube-embed-meta">Channel: The Myrtle Beach Sun News - Archive &middot; Views: 8.4K &middot; Uploaded: November 2018 &middot; Length: 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RY2kqK9Sh_k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RY2kqK9Sh_k">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -451,7 +443,7 @@ That leaves the Grand Strand in an unusual position within South Carolina UFO hi
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -461,111 +453,36 @@ That leaves the Grand Strand in an unusual position within South Carolina UFO hi
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-orange-orbs-keep-appearing-offshore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-orange-orbs-keep-appearing-offshore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-orange-orbs-keep-appearing-offshore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-orange-orbs-keep-appearing-offshore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-orange-orbs-keep-appearing-offshore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-orange-orbs-keep-appearing-offshore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-orange-orbs-keep-appearing-offshore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-orange-orbs-keep-appearing-offshore-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -573,15 +490,15 @@ That leaves the Grand Strand in an unusual position within South Carolina UFO hi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-orange-orbs-keep-appearing-offshore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-orange-orbs-keep-appearing-offshore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-orange-orbs-keep-appearing-offshore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-orange-orbs-keep-appearing-offshore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-orange-orbs-keep-appearing-offshore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-orange-orbs-keep-appearing-offshore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-orange-orbs-keep-appearing-offshore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-orange-orbs-keep-appearing-offshore-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -589,15 +506,15 @@ That leaves the Grand Strand in an unusual position within South Carolina UFO hi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-orange-orbs-keep-appearing-offshore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-orange-orbs-keep-appearing-offshore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-orange-orbs-keep-appearing-offshore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-orange-orbs-keep-appearing-offshore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-orange-orbs-keep-appearing-offshore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-orange-orbs-keep-appearing-offshore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-orange-orbs-keep-appearing-offshore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-orange-orbs-keep-appearing-offshore-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -605,15 +522,15 @@ That leaves the Grand Strand in an unusual position within South Carolina UFO hi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-orange-orbs-keep-appearing-offshore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-orange-orbs-keep-appearing-offshore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-orange-orbs-keep-appearing-offshore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-orange-orbs-keep-appearing-offshore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-orange-orbs-keep-appearing-offshore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-orange-orbs-keep-appearing-offshore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-orange-orbs-keep-appearing-offshore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-orange-orbs-keep-appearing-offshore-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -621,7 +538,7 @@ That leaves the Grand Strand in an unusual position within South Carolina UFO hi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orange-orbs-why-do-orange-orbs-keep-appearing-offshore-south-carolina-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-orange-orbs-keep-appearing-offshore-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-do-orange-orbs-keep-appearing-offshore-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -698,17 +615,31 @@ That leaves the Grand Strand in an unusual position within South Carolina UFO hi
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -721,42 +652,73 @@ That leaves the Grand Strand in an unusual position within South Carolina UFO hi
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -771,12 +733,17 @@ That leaves the Grand Strand in an unusual position within South Carolina UFO hi
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -786,151 +753,151 @@ That leaves the Grand Strand in an unusual position within South Carolina UFO hi
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=62752](https://nuforc.org/sighting/?id=62752)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 62752NUFORC UFO Sighting 62752... Spheres of orange keep appearing and disappearing over the Atlantic Ocean. U...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=62752" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=62752</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 62752NUFORC UFO Sighting 62752... Spheres of orange keep appearing and disappearing over the Atlantic Ocean. U...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=133716](https://nuforc.org/sighting/?id=133716)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 133716They seem to occur around the times of 8pm - 9pm over the ocean (not on the horizon, but a great distance...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=133716" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=133716</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 133716They seem to occur around the times of 8pm - 9pm over the ocean (not on the horizon, but a great distance...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=36609](https://nuforc.org/sighting/?id=36609)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 36609Occurred: 2004-04-29 23:00 Local; Reported: 2004-04-29 20:47 Pacific; Duration: 1 hour; No of observers...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=36609" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=36609</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 36609Occurred: 2004-04-29 23:00 Local; Reported: 2004-04-29 20:47 Pacific; Duration: 1 hour; No of observers...</p></details>
    Published: April 29, 2004  
 
 4. <a id="endnote-4"></a>
    Source: wbtv.com  
-   Link: [https://www.wbtv.com/story/15730370/ufos-spotted-at-myrtle-beach-residents-say/](https://www.wbtv.com/story/15730370/ufos-spotted-at-myrtle-beach-residents-say/)  
+   Link: <a href="https://www.wbtv.com/story/15730370/ufos-spotted-at-myrtle-beach-residents-say/" target="_blank" rel="noopener noreferrer nofollow">https://www.wbtv.com/story/15730370/ufos-spotted-at-myrtle-beach-residents-say/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.wbtv.comUFOs](https://www.wbtv.comUFOs) spotted at Myrtle Beach, pilot saysOct 19, 2011 — Travis shot video of a series of bright orange lights litterin...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/MyrtleBeach/comments/254l68/lights_in_the_sky_over_the_ocean_in_myrtle_beach/](https://www.reddit.com/r/MyrtleBeach/comments/254l68/lights_in_the_sky_over_the_ocean_in_myrtle_beach/)  
+   Link: <a href="https://www.reddit.com/r/MyrtleBeach/comments/254l68/lights_in_the_sky_over_the_ocean_in_myrtle_beach/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MyrtleBeach/comments/254l68/lights_in_the_sky_over_the_ocean_in_myrtle_beach/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lights in the sky over the ocean in Myrtle BeachThe only plausible explanation is that it is some type of military flare or something, bu...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/MyrtleBeach/comments/8xsv4k/unusual_lights_in_the_sky/](https://www.reddit.com/r/MyrtleBeach/comments/8xsv4k/unusual_lights_in_the_sky/)  
+   Link: <a href="https://www.reddit.com/r/MyrtleBeach/comments/8xsv4k/unusual_lights_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MyrtleBeach/comments/8xsv4k/unusual_lights_in_the_sky/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unusual lights in the sky: r/MyrtleBeachThree orange pulsating lights appear over the ocean. They grew in size and then seemed to fade a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: Orange Lights at Myrtle Beach: r/UFOsr/UFOs  
-   Link: [https://www.reddit.com/r/UFOs/comments/fvqun0/orange_lights_at_myrtle_beach/](https://www.reddit.com/r/UFOs/comments/fvqun0/orange_lights_at_myrtle_beach/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/fvqun0/orange_lights_at_myrtle_beach/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/fvqun0/orange_lights_at_myrtle_beach/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weird flashing lights over the water in San diego. 0... r/aliens - Strange lights in Ocean. 0:26. 371. 39. anyone know what this...Read...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: looking for myrtle beach residents did any of you  
-   Link: [https://www.reddit.com/r/UFOs/comments/whb9c/looking_for_myrtle_beach_residents_did_any_of_you/](https://www.reddit.com/r/UFOs/comments/whb9c/looking_for_myrtle_beach_residents_did_any_of_you/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/whb9c/looking_for_myrtle_beach_residents_did_any_of_you/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/whb9c/looking_for_myrtle_beach_residents_did_any_of_you/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Looking for myrtle beach residents, did any of you see the...13 Jul 2012 — Looking for myrtle beach residents, did any of you see the si...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1nj1h3p/strange_lights_just_hovering_and_pulsing_in_the/](https://www.reddit.com/r/UFOs/comments/1nj1h3p/strange_lights_just_hovering_and_pulsing_in_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1nj1h3p/strange_lights_just_hovering_and_pulsing_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1nj1h3p/strange_lights_just_hovering_and_pulsing_in_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>moving at all - just kinda sat there and would pulse on, then off...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=149401](https://nuforc.org/sighting/?id=149401)  
+   Link: <a href="https://nuforc.org/sighting/?id=149401" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=149401</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 149401One large white orb and several orbs individually red, blue, and green over the ocean. The events occurred on t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sentientorbs.com  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-91609](https://sentientorbs.com/explore/sightings/NUFORC-91609)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-91609" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-91609</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sentient OrbsTwo instances of strange lights over the ocean, one right after...Aug 8, 2012 — A series of orange lights appear above the...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sentientorbs.com  
    Title: Sentient Orbs Orange lights in the sky hover over the SC coast near Myrtle Beach  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-66326](https://sentientorbs.com/explore/sightings/NUFORC-66326)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-66326" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-66326</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sentient OrbsOrange lights in the sky hover over the SC coast near Myrtle Beach...October 17, 2008 — Leaving work in Murrells Inlet, SC...</p></details>
    Published: October 17, 2008  
 
 13. <a id="endnote-13"></a>
    Source: sentientorbs.com  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-114377](https://sentientorbs.com/explore/sightings/NUFORC-114377)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-114377" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-114377</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sentient OrbsRound Orange Glowing Lights over Atlantic off shore of North...October 8, 2014 — 8 Oct 2014 — There were 3 lights (orangy)...</p></details>
    Published: October 8, 2014  
 
 14. <a id="endnote-14"></a>
    Source: sentientorbs.com  
    Title: NUFORC 24510  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-24510](https://sentientorbs.com/explore/sightings/NUFORC-24510)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-24510" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-24510</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I just saw 4 strange lights in the sky. Very bright red and yellow (not blinking like a plane}.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sentientorbs.com  
    Title: The only logical explanation would be flares  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-36609](https://sentientorbs.com/explore/sightings/NUFORC-36609)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-36609" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-36609</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>That must be...Apr 29, 2004 — Exactly like the sept 2003 sightings. very bright orange lights appear for about 2-3 seconds then dissipat...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sentientorbs.com  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-134151](https://sentientorbs.com/explore/sightings/NUFORC-134151)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-134151" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-134151</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A series of orange lights appear above the ocean in Myrtle...15 May 2017 — At first, a triangle of orange lights appeared in the sky ove...</p></details>
    Published: May 2017  
 
 17. <a id="endnote-17"></a>
    Source: sentientorbs.com  
    Title: NUFORC 114875  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-114875](https://sentientorbs.com/explore/sightings/NUFORC-114875)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-114875" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-114875</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Orange lights over ocean Myrtle Beach observed off and on...22 Oct 2014 — Six groupings of orange lights over ocean at various times wit...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MeteorologistJamieArnold/posts/it-wasnt-aliensi-dont-think-quite-a-few-of-you-saw-oranges-lights-fading-in-and-/912264176927227/](https://www.facebook.com/MeteorologistJamieArnold/posts/it-wasnt-aliensi-dont-think-quite-a-few-of-you-saw-oranges-lights-fading-in-and-/912264176927227/)  
+   Link: <a href="https://www.facebook.com/MeteorologistJamieArnold/posts/it-wasnt-aliensi-dont-think-quite-a-few-of-you-saw-oranges-lights-fading-in-and-/912264176927227/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeteorologistJamieArnold/posts/it-wasnt-aliensi-dont-think-quite-a-few-of-you-saw-oranges-lights-fading-in-and-/912264176927227/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It wasn&#x27;t aliens…I don&#x27;t think. Quite a few of you saw...com/ufoofinterest/status/1541721375542591488) &quot;the orange lights... as necessa...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/brittany.danielle.489918/posts/a-living-light-over-the-water-1-minute-snapshot-full-video-is-posted-on-my-main-/3883832458574862/](https://www.facebook.com/brittany.danielle.489918/posts/a-living-light-over-the-water-1-minute-snapshot-full-video-is-posted-on-my-main-/3883832458574862/)  
+   Link: <a href="https://www.facebook.com/brittany.danielle.489918/posts/a-living-light-over-the-water-1-minute-snapshot-full-video-is-posted-on-my-main-/3883832458574862/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/brittany.danielle.489918/posts/a-living-light-over-the-water-1-minute-snapshot-full-video-is-posted-on-my-main-/3883832458574862/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It started as a glowing orange orb over the water. On camera, it looks white with flickering rainbow edges but in person, it was a vivid...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DKnSdodoFUi/](https://www.instagram.com/p/DKnSdodoFUi/)  
+   Link: <a href="https://www.instagram.com/p/DKnSdodoFUi/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DKnSdodoFUi/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Saw what looked like a white spherical object in the sky...this is basically a UFO on the water however, the water is part of the UFO...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40michaelparker_98450/true-ramblings-from-a-busy-mind-94678c873421](https://medium.com/%40michaelparker_98450/true-ramblings-from-a-busy-mind-94678c873421)  
+   Link: <a href="https://medium.com/%40michaelparker_98450/true-ramblings-from-a-busy-mind-94678c873421" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40michaelparker_98450/true-ramblings-from-a-busy-mind-94678c873421</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rowing brighter, then zigzagging through the sky in ways no...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/officialmyrtlebeach/posts/10160321608348533/](https://www.facebook.com/groups/officialmyrtlebeach/posts/10160321608348533/)  
+   Link: <a href="https://www.facebook.com/groups/officialmyrtlebeach/posts/10160321608348533/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/officialmyrtlebeach/posts/10160321608348533/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>omas ▻ Latest UFO Sightings. 1y · Public.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: mapuap.com  
    Title: north myrtle beach sc 2008 0f4b59a2  
-   Link: [https://mapuap.com/sighting/north-myrtle-beach-sc-2008-0f4b59a2](https://mapuap.com/sighting/north-myrtle-beach-sc-2008-0f4b59a2)  
+   Link: <a href="https://mapuap.com/sighting/north-myrtle-beach-sc-2008-0f4b59a2" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/north-myrtle-beach-sc-2008-0f4b59a2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary. was watching ocean when orange balls where appering for about 20 to 30 secounds lasted for about 8 to 10 mins was 2 light at 1...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: myrtlebeach.com  
    Title: ufo sightings in myrtle beach  
-   Link: [https://www.myrtlebeach.com/blog/ufo-sightings-in-myrtle-beach/](https://www.myrtlebeach.com/blog/ufo-sightings-in-myrtle-beach/)  
+   Link: <a href="https://www.myrtlebeach.com/blog/ufo-sightings-in-myrtle-beach/" target="_blank" rel="noopener noreferrer nofollow">https://www.myrtlebeach.com/blog/ufo-sightings-in-myrtle-beach/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 5, 2015 — Experience” which featured exhibits that highlighted the pop-culture obsession with aliens, alien sightings, aliens in film...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MorningNews/posts/this-sc-region-is-a-ufo-hotspot-with-thousands-of-sightings-including-fireballs-/1390036319792026/](https://www.facebook.com/MorningNews/posts/this-sc-region-is-a-ufo-hotspot-with-thousands-of-sightings-including-fireballs-/1390036319792026/)  
+   Link: <a href="https://www.facebook.com/MorningNews/posts/this-sc-region-is-a-ufo-hotspot-with-thousands-of-sightings-including-fireballs-/1390036319792026/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MorningNews/posts/this-sc-region-is-a-ufo-hotspot-with-thousands-of-sightings-including-fireballs-/1390036319792026/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>orbs, intriguing experts and locals alike...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
    Title: UF Os over Myrtle Beach?  
-   Link: [https://www.facebook.com/thestatenews/videos/time-lapse-video-catches-mysterious-lights-over-myrtle-beach/789345191406970/](https://www.facebook.com/thestatenews/videos/time-lapse-video-catches-mysterious-lights-over-myrtle-beach/789345191406970/)  
+   Link: <a href="https://www.facebook.com/thestatenews/videos/time-lapse-video-catches-mysterious-lights-over-myrtle-beach/789345191406970/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thestatenews/videos/time-lapse-video-catches-mysterious-lights-over-myrtle-beach/789345191406970/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious lights over SC&#x27;s favorite...UFOs over Myrtle Beach? Mysterious lights over SC&#x27;s favorite Spring Break... Aliens... mistook M...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Time-lapse video catches mysterious lights over Myrtle Beach  
-   Link: [https://www.youtube.com/watch?v=RY2kqK9Sh_k](https://www.youtube.com/watch?v=RY2kqK9Sh_k)  
+   Link: <a href="https://www.youtube.com/watch?v=RY2kqK9Sh_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RY2kqK9Sh_k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Citizen journalists find three UAP in New York: Watch their videos | Reality Check...</p></details>

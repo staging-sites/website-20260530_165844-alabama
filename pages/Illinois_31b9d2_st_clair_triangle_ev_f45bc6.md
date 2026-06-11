@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /illinois/
 nav_short_title: St Clair Triangle
 title: Inside the 2000 St. Clair Triangle UFO Event
-title_full: Inside the 2000 St. Clair Triangle UFO Event | Illinois UFOs
+title_full: Inside the 2000 St. Clair Triangle UFO Event
 display_title_short: St Clair Triangle
 display_title: St Clair Triangle
 heading_title: Inside the 2000 St. Clair Triangle UFO Event
@@ -221,7 +221,7 @@ sibling_links:
   title: Historic Sightings | What Are the Most Notable UFO Sightings in Illinois?
   permalink: /historic-sightings/
   short_title: Historic Sightings
-  heading_title: 'Illinois UFO History: 1947–1960s Reports'
+  heading_title: 'Illinois UFO History: 1947–1960 s Reports'
 - basename: Illinois_31b9d2_ohare_airport_sighti_66289a
   title: O Hare Sighting | What Are the Most Notable UFO Sightings in Illinois?
   permalink: /o-hare-sighting/
@@ -268,8 +268,7 @@ image: /assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6-overview-socia
 
 ## Introduction
 
-The St. Clair Triangle is one of [Illinois]({{ 'illinois/' | relative_url }})’s most durable UFO cases because it was not just a lone report of lights in the sky. In the early hours of 5 January 2000, a civilian in Highland and several police officers across the Metro East area reported a large, mostly silent object moving across southern Illinois, apparently from the Highland/Summerfield area towards Shiloh, Millstadt and Dupo. The case matters because much of it unfolded over police radio, with officers in different towns comparing what they were seeing in real time. It is still unresolved, but not because every detail is equally strong. The strongest evidence is the clustered police testimony and dispatch record; the weakest parts are the poor photograph, [conflicting shape]({{ 'shape-problem/' | relative_url }}) descriptions, uncertain radar claims, and the lack of any confirmed physical or aviation record proving what the object was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/cases/IllinoisTriangle.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/cases/IllinoisTriangle.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
-
+The St. Clair Triangle is one of [Illinois]({{ 'illinois/' | relative_url }})’s most durable UFO cases because it was not just a lone report of lights in the sky. In the early hours of 5 January 2000, a civilian in Highland and several police officers across the Metro East area reported a large, mostly silent object moving across southern Illinois, apparently from the Highland/Summerfield area towards Shiloh, Millstadt and Dupo. The case matters because much of it unfolded over police radio, with officers in different towns comparing what they were seeing in real time. It is still unresolved, but not because every detail is equally strong. The strongest evidence is the clustered police testimony and dispatch record; the weakest parts are the poor photograph, conflicting shape descriptions, uncertain radar claims, and the lack of any confirmed physical or aviation record proving what the object was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/cases/IllinoisTriangle.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/cases/IllinoisTriangle.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 <img src="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6-overview.webp" | relative_url }}" alt="Overview image for St Clair Triangle" loading="eager" decoding="sync" fetchpriority="high">
 Within Illinois UFO history, the event sits between older newspaper-era sightings and later high-profile cases such as the 2006 O’Hare incident. It is also a classic “black triangle” case: a large dark object, low apparent altitude, unusual lights, slow movement, and reported silence. That pattern has produced both UFO interest and sceptical pushback, especially because airships, aircraft seen at odd angles, and witness-perception errors can all create misleading impressions at night.
@@ -294,8 +293,7 @@ Millstadt Officer Craig Stevens added another major account. After hearing radio
 
 The Dupo report is the least secure of the main police sightings. The Dupo officer, later discussed without his name in Marler’s account, saw lights at a higher apparent altitude and through binoculars. He reportedly could not discern a clear size or shape, only a group of lights, and other analysis has suggested that this may not have been the same object at all. That matters because the case is often retold as though every police sighting cleanly confirms the same craft; the original material is messier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/cases/IllinoisTriangle.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
-
-<img src="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6-Illustration-1-light.svg" | relative_url }}" alt="St Clair Triangle illustration 1" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6-Illustration-1-dark.svg" | relative_url }}" alt="St Clair Triangle illustration 1" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The dispatch tapes make the case harder to dismiss
 
 The most valuable feature of the St. Clair Triangle case is not the later television treatment, the cultural afterlife, or the dramatic drawings. It is the police radio record. In the released dispatch material, officers and dispatchers discuss the moving object as a live problem: where it is, whether it resembles a plane, whether Scott Air Force Base should be contacted, whether it is heading towards Lambert Field, and whether another department can see it too. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/cases/IllinoisTriangle.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
@@ -320,7 +318,6 @@ There are several ways to interpret that spread:
 
 The best reading is therefore cautious: the event contains a strong cluster of unusual witness reports, but the record does not prove a single, solid triangular craft tracked cleanly from town to town.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tsyD3_KHwCY" title="Police Confirmed UFO Sighting | National Geographic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tsyD3_KHwCY" target="_blank" rel="noopener noreferrer">Police Confirmed UFO Sighting | National Geographic</a></p><p class="youtube-embed-meta">Channel: National Geographic &middot; Views: 2.0M &middot; Uploaded: December 2008 &middot; Length: 3 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tsyD3_KHwCY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tsyD3_KHwCY">Open on YouTube</a></p></div></div></div>
 
 ## The photograph is real but not decisive
@@ -341,11 +338,10 @@ However, proximity to a military base is not evidence of a secret aircraft. It o
 
 Later commentary has treated those radar and base-operation statements as suspicious or contradictory. That is a legitimate question to raise, but it is not the same as evidence of a cover-up. The sober conclusion is that the Scott AFB angle remains an unresolved documentation gap: relevant, frustrating, but not conclusive.
 
-
-<img src="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6-Illustration-2-light.svg" | relative_url }}" alt="St Clair Triangle illustration 2" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6-Illustration-2-dark.svg" | relative_url }}" alt="St Clair Triangle illustration 2" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Could it have been an aircraft?
 
-A conventional aircraft explanation has some strengths. The area is near St Louis aviation corridors, Scott AFB, and Lambert-St Louis International Airport. At night, bright landing lights can appear to hover when an aircraft is coming towards an observer, then seem to move rapidly when its angle changes. Navigation lights can also create colour patterns. Federal aircraft lighting rules require red and green forward position lights and a white rear position light, which is relevant to reports involving red, green and white lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-25/subpart-F/subject-group-ECFR0cb7970b9d1fd5f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-snippet">eCFR:: 14 CFR Part 25 Subpart F - Lights (FAR Part 25 Subpart F - ECFR0cb7970b9d1fd5f)...</span></span></span>
+A conventional aircraft explanation has some strengths. The area is near St Louis aviation corridors, Scott AFB, and Lambert-St Louis International Airport. At night, bright landing lights can appear to hover when an aircraft is coming towards an observer, then seem to move rapidly when its angle changes. Navigation lights can also create colour patterns. Federal aircraft lighting rules require red and green forward position lights and a white rear position light, which is relevant to reports involving red, green and white lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-25/subpart-F/subject-group-ECFR0cb7970b9d1fd5f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-snippet">14 CFR Part 25 Subpart F - Lights (FAR Part 25 Subpart F - ECFR0cb7970b9d1fd5f)...</span></span></span>
 
 But a simple aircraft explanation also has problems. Barton, Martin and Stevens each described a large apparent structure, not merely point lights. Barton and Martin reported unusual motion or rapid departure. Stevens reported a very low apparent altitude and a faint buzzing rather than normal engine noise. Several witnesses described the object as silent or nearly silent when it seemed close. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/cases/IllinoisTriangle.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
@@ -360,7 +356,6 @@ The blimp theory also fits some witness language better than a plane does. A lar
 But the blimp explanation is not airtight. The Debrief’s 2022 review noted that investigators checked with American Blimp Company and later Van Wagner and did not find a record of a relevant flight for that date. It also pointed out that reported hovering, stopping, turning and sudden acceleration are hard to square with ordinary blimp performance, though some of the most dramatic acceleration claims may be softened when the radio record is examined closely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/the-st-clair-triangle-ufo-incident-of-2000-a-fresh-look/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">the st clair triangle ufo incident of 2000 a fresh look</span><span class="citation-popover-snippet">the st clair triangle ufo incident of 2000 a fresh look</span></span></span>
 
 The fair assessment is that a blimp remains one of the most plausible conventional explanations for parts of the case, especially Noll’s “flying house” description and the slow, quiet passage. It does not fully explain the strongest police claims unless those claims involved substantial misperception of distance, angle and speed.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lnTz8fJ8Edc" title="25 Mysteries That Are Still Unsolved 25 Years Later" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lnTz8fJ8Edc" target="_blank" rel="noopener noreferrer">25 Mysteries That Are Still Unsolved 25 Years Later</a></p><p class="youtube-embed-meta">Channel: WatchMojo.com &middot; Views: 273.6K &middot; Uploaded: February 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lnTz8fJ8Edc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lnTz8fJ8Edc">Open on YouTube</a></p></div></div></div>
 
@@ -382,14 +377,12 @@ Later work has also introduced a more complex possibility: that not all reports 
 
 In short, later reporting has strengthened the case as an important Illinois UFO episode but weakened overly tidy versions of the story.
 
-
-<img src="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6-Illustration-3-light.svg" | relative_url }}" alt="St Clair Triangle illustration 3" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6-Illustration-3-dark.svg" | relative_url }}" alt="St Clair Triangle illustration 3" data-theme-src-dark="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Illinois_31b9d2_st_clair_triangle_ev_f45bc6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to weigh the case today
 
 The St. Clair Triangle should be classified as unresolved, not confirmed. It is stronger than a typical anecdotal sighting because it includes multiple police witnesses, cross-jurisdictional radio traffic, early documentation, sketches, and a photograph taken during the event. It is weaker than its reputation sometimes suggests because the visual evidence is poor, the descriptions vary, the radar situation is unclear, and no confirmed aircraft, blimp, military or physical record has settled the matter.
 
 The most reasonable evidence-based position is:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -402,7 +395,6 @@ The most reasonable evidence-based position is:
 </div>
 
 That balance is why the St. Clair Triangle remains central to Illinois UFO history. It is neither a debunked hoax nor proof of an extraordinary craft. It is a well-documented, contested case where the best evidence still comes from ordinary public systems — police dispatch, local reporting, witness interviews — rather than from secret files or dramatic imagery.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ixqNeQum-Iw" title="Did Illinois Police Officers Really Chase Down A UFO? | Unsolved Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ixqNeQum-Iw" target="_blank" rel="noopener noreferrer">Did Illinois Police Officers Really Chase Down A UFO? | Unsolved Mysteries</a></p><p class="youtube-embed-meta">Channel: Swamp Dweller &middot; Views: 27.0K &middot; Uploaded: January 2020 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ixqNeQum-Iw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ixqNeQum-Iw">Open on YouTube</a></p></div></div></div>
 
@@ -500,7 +492,7 @@ The St. Clair Triangle therefore remains one of the state’s most valuable case
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -510,111 +502,36 @@ The St. Clair Triangle therefore remains one of the state’s most valuable case
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -622,15 +539,15 @@ The St. Clair Triangle therefore remains one of the state’s most valuable case
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -638,15 +555,15 @@ The St. Clair Triangle therefore remains one of the state’s most valuable case
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -654,15 +571,15 @@ The St. Clair Triangle therefore remains one of the state’s most valuable case
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -670,7 +587,7 @@ The St. Clair Triangle therefore remains one of the state’s most valuable case
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=st-clair-triangle-inside-the-2000-st-clair-triangle-ufo-event-illinois-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="inside-the-2000-st-clair-triangle-ufo-event-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -747,17 +664,31 @@ The St. Clair Triangle therefore remains one of the state’s most valuable case
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -770,42 +701,73 @@ The St. Clair Triangle therefore remains one of the state’s most valuable case
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -820,12 +782,17 @@ The St. Clair Triangle therefore remains one of the state’s most valuable case
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -836,109 +803,109 @@ The St. Clair Triangle therefore remains one of the state’s most valuable case
 1. <a id="endnote-1"></a>
    Source: cufos.org  
    Title: Center for UFO Studies  
-   Link: [https://cufos.org/PDFs/cases/IllinoisTriangle.pdf](https://cufos.org/PDFs/cases/IllinoisTriangle.pdf)  
+   Link: <a href="https://cufos.org/PDFs/cases/IllinoisTriangle.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/cases/IllinoisTriangle.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: files.secure.website  
    Title: Web Starts Triangular UFOs: An Estimate of the Situation  
-   Link: [https://files.secure.website/wscfus/10582237/26186165/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler-team-enki-free-pdf.pdf](https://files.secure.website/wscfus/10582237/26186165/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler-team-enki-free-pdf.pdf)  
+   Link: <a href="https://files.secure.website/wscfus/10582237/26186165/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler-team-enki-free-pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.secure.website/wscfus/10582237/26186165/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler-team-enki-free-pdf.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: scott.af.mil  
    Title: About Us  
-   Link: [https://www.scott.af.mil/About-Us/](https://www.scott.af.mil/About-Us/)  
+   Link: <a href="https://www.scott.af.mil/About-Us/" target="_blank" rel="noopener noreferrer nofollow">https://www.scott.af.mil/About-Us/</a>  
 
 4. <a id="endnote-4"></a>
    Source: ecfr.gov  
-   Link: [https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-25/subpart-F/subject-group-ECFR0cb7970b9d1fd5f](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-25/subpart-F/subject-group-ECFR0cb7970b9d1fd5f)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>eCFR:: 14 CFR Part 25 Subpart F - Lights (FAR Part 25 Subpart F - ECFR0cb7970b9d1fd5f)...</p></details>
+   Link: <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-25/subpart-F/subject-group-ECFR0cb7970b9d1fd5f" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-25/subpart-F/subject-group-ECFR0cb7970b9d1fd5f</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>14 CFR Part 25 Subpart F - Lights (FAR Part 25 Subpart F - ECFR0cb7970b9d1fd5f)...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: skeptoid.com  
-   Link: [https://skeptoid.com/episodes/435](https://skeptoid.com/episodes/435)  
+   Link: <a href="https://skeptoid.com/episodes/435" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/435</a>  
 
 6. <a id="endnote-6"></a>
    Source: scott.af.mil  
    Title: 375 AMW & Scott AFB History Pamphlet CAO 1 Feb 2024 FINAL  
-   Link: [https://www.scott.af.mil/Portals/28/Page%20documents/History/375%20AMW%20%26%20Scott%20AFB%20History%20Pamphlet%20CAO%201%20Feb%202024%20FINAL.pdf](https://www.scott.af.mil/Portals/28/Page%20documents/History/375%20AMW%20%26%20Scott%20AFB%20History%20Pamphlet%20CAO%201%20Feb%202024%20FINAL.pdf)  
+   Link: <a href="https://www.scott.af.mil/Portals/28/Page%20documents/History/375%20AMW%20%26%20Scott%20AFB%20History%20Pamphlet%20CAO%201%20Feb%202024%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scott.af.mil/Portals/28/Page%20documents/History/375%20AMW%20%26%20Scott%20AFB%20History%20Pamphlet%20CAO%201%20Feb%202024%20FINAL.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: mufon.com  
    Title: Mufon April 2023 Journal  
-   Link: [https://mufon.com/wp-content/uploads/2023/04/Mufon-April-2023-Journal.pdf](https://mufon.com/wp-content/uploads/2023/04/Mufon-April-2023-Journal.pdf)  
+   Link: <a href="https://mufon.com/wp-content/uploads/2023/04/Mufon-April-2023-Journal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/wp-content/uploads/2023/04/Mufon-April-2023-Journal.pdf</a>  
    Published: April 2023  
 
 8. <a id="endnote-8"></a>
    Source: history.com  
    Title: black triangle ufos facts  
-   Link: [https://www.history.com/articles/black-triangle-ufos-facts](https://www.history.com/articles/black-triangle-ufos-facts)  
+   Link: <a href="https://www.history.com/articles/black-triangle-ufos-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/black-triangle-ufos-facts</a>  
 
 9. <a id="endnote-9"></a>
    Source: dnrhistoric.illinois.gov  
    Title: scott afb architectural inventory  
-   Link: [https://dnrhistoric.illinois.gov/content/dam/soi/en/web/dnrhistoric/preserve/recordation/scott-afb-architectural-inventory.pdf](https://dnrhistoric.illinois.gov/content/dam/soi/en/web/dnrhistoric/preserve/recordation/scott-afb-architectural-inventory.pdf)  
+   Link: <a href="https://dnrhistoric.illinois.gov/content/dam/soi/en/web/dnrhistoric/preserve/recordation/scott-afb-architectural-inventory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dnrhistoric.illinois.gov/content/dam/soi/en/web/dnrhistoric/preserve/recordation/scott-afb-architectural-inventory.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: thedebrief.org  
    Title: the st clair triangle ufo incident of 2000 a fresh look  
-   Link: [https://thedebrief.org/the-st-clair-triangle-ufo-incident-of-2000-a-fresh-look/](https://thedebrief.org/the-st-clair-triangle-ufo-incident-of-2000-a-fresh-look/)  
+   Link: <a href="https://thedebrief.org/the-st-clair-triangle-ufo-incident-of-2000-a-fresh-look/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-st-clair-triangle-ufo-incident-of-2000-a-fresh-look/</a>  
 
 11. <a id="endnote-11"></a>
    Source: snap.berkeley.edu  
-   Link: [https://snap.berkeley.edu/project/11166188](https://snap.berkeley.edu/project/11166188)  
+   Link: <a href="https://snap.berkeley.edu/project/11166188" target="_blank" rel="noopener noreferrer nofollow">https://snap.berkeley.edu/project/11166188</a>  
 
 12. <a id="endnote-12"></a>
    Source: vetfriends.com  
-   Link: [https://www.vetfriends.com/branches/air-force/units/375th-air-mobility-wing](https://www.vetfriends.com/branches/air-force/units/375th-air-mobility-wing)  
+   Link: <a href="https://www.vetfriends.com/branches/air-force/units/375th-air-mobility-wing" target="_blank" rel="noopener noreferrer nofollow">https://www.vetfriends.com/branches/air-force/units/375th-air-mobility-wing</a>  
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: 25 Mysteries That Are Still Unsolved 25 Years Later  
-   Link: [https://www.youtube.com/watch?v=lnTz8fJ8Edc](https://www.youtube.com/watch?v=lnTz8fJ8Edc)  
+   Link: <a href="https://www.youtube.com/watch?v=lnTz8fJ8Edc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lnTz8fJ8Edc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Police Confirmed UFO Sighting video provides a detailed breakdown of the January 2000 incident using first-hand testimony from the re...</p></details>
    Published: January 2000  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=YhSLMzX3Mnw](https://www.youtube.com/watch?v=YhSLMzX3Mnw)  
+   Link: <a href="https://www.youtube.com/watch?v=YhSLMzX3Mnw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YhSLMzX3Mnw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Mysteries That Are Still Unsolved 25 Years Later...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: The UFO Encounter That Left Witnesses Paralyzed with Fear  
-   Link: [https://www.youtube.com/watch?v=F0EEbxfIgwQ](https://www.youtube.com/watch?v=F0EEbxfIgwQ)  
+   Link: <a href="https://www.youtube.com/watch?v=F0EEbxfIgwQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F0EEbxfIgwQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TRIANGULAR UFO Breakdown by Author David Marler + His HISTORY&#x27;S UNIDENTIFIED Appearance...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Did Illinois Police Officers Really Chase Down A UFO? | Unsolved Mysteries  
-   Link: [https://www.youtube.com/watch?v=ixqNeQum-Iw](https://www.youtube.com/watch?v=ixqNeQum-Iw)  
+   Link: <a href="https://www.youtube.com/watch?v=ixqNeQum-Iw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ixqNeQum-Iw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Encounter That Left Witnesses Paralyzed with Fear...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Police Confirmed UFO Sighting | National Geographic  
-   Link: [https://www.youtube.com/watch?v=tsyD3_KHwCY](https://www.youtube.com/watch?v=tsyD3_KHwCY)  
+   Link: <a href="https://www.youtube.com/watch?v=tsyD3_KHwCY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tsyD3_KHwCY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Did Illinois Police Officers Really Chase Down A UFO? | Unsolved Mysteries...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: huggingface.co  
-   Link: [https://huggingface.co/microsoft/cocolm-base/resolve/main/dict.txt?download=true](https://huggingface.co/microsoft/cocolm-base/resolve/main/dict.txt?download=true)  
+   Link: <a href="https://huggingface.co/microsoft/cocolm-base/resolve/main/dict.txt?download=true" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/microsoft/cocolm-base/resolve/main/dict.txt?download=true</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/asthmatickitty/posts/a-ufo-sighting-near-highland-illinois-occurred-in-the-early-morning-of-january-5/1458036326327075/](https://www.facebook.com/asthmatickitty/posts/a-ufo-sighting-near-highland-illinois-occurred-in-the-early-morning-of-january-5/1458036326327075/)  
+   Link: <a href="https://www.facebook.com/asthmatickitty/posts/a-ufo-sighting-near-highland-illinois-occurred-in-the-early-morning-of-january-5/1458036326327075/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/asthmatickitty/posts/a-ufo-sighting-near-highland-illinois-occurred-in-the-early-morning-of-january-5/1458036326327075/</a>  
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/coolguides/comments/16pu5xe/a_cool_guide_to_why_do_airplanes_have_red_and/](https://www.reddit.com/r/coolguides/comments/16pu5xe/a_cool_guide_to_why_do_airplanes_have_red_and/)  
+   Link: <a href="https://www.reddit.com/r/coolguides/comments/16pu5xe/a_cool_guide_to_why_do_airplanes_have_red_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/coolguides/comments/16pu5xe/a_cool_guide_to_why_do_airplanes_have_red_and/</a>  
 
 21. <a id="endnote-21"></a>
    Source: airandspaceforces.com  
-   Link: [https://www.airandspaceforces.com/app/uploads/2023/07/Almanac2023_Wings_V2.pdf](https://www.airandspaceforces.com/app/uploads/2023/07/Almanac2023_Wings_V2.pdf)  
+   Link: <a href="https://www.airandspaceforces.com/app/uploads/2023/07/Almanac2023_Wings_V2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/app/uploads/2023/07/Almanac2023_Wings_V2.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: amcmuseum.org  
-   Link: [https://www.amcmuseum.org/history/air-mobility-command-museums-control-tower-a-historical-overview/](https://www.amcmuseum.org/history/air-mobility-command-museums-control-tower-a-historical-overview/)  
+   Link: <a href="https://www.amcmuseum.org/history/air-mobility-command-museums-control-tower-a-historical-overview/" target="_blank" rel="noopener noreferrer nofollow">https://www.amcmuseum.org/history/air-mobility-command-museums-control-tower-a-historical-overview/</a>

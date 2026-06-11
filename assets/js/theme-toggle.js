@@ -73,15 +73,48 @@
     return normalized;
   }
 
-  function updateThemeImages(theme) {
+  function updateThemeImage(image, theme) {
+    if (!image || !image.getAttribute) {
+      return;
+    }
     var normalized = theme === "dark" ? "dark" : "light";
     var attr = normalized === "dark" ? "data-theme-src-dark" : "data-theme-src-light";
+    var nextSrc = image.getAttribute(attr);
+    if (nextSrc && image.getAttribute("src") !== nextSrc) {
+      image.setAttribute("src", nextSrc);
+    }
+  }
+
+  function updateThemeImages(theme) {
+    var normalized = theme === "dark" ? "dark" : "light";
     Array.prototype.forEach.call(document.querySelectorAll("img[data-theme-src-dark][data-theme-src-light]"), function (image) {
-      var nextSrc = image.getAttribute(attr);
-      if (nextSrc && image.getAttribute("src") !== nextSrc) {
-        image.setAttribute("src", nextSrc);
-      }
+      updateThemeImage(image, normalized);
     });
+  }
+
+  function observeThemeImages() {
+    if (!window.MutationObserver || !document.documentElement) {
+      return;
+    }
+    var observer = new window.MutationObserver(function (mutations) {
+      var theme = currentTheme();
+      Array.prototype.forEach.call(mutations, function (mutation) {
+        Array.prototype.forEach.call(mutation.addedNodes || [], function (node) {
+          if (!node || node.nodeType !== 1) {
+            return;
+          }
+          if (node.matches && node.matches("img[data-theme-src-dark][data-theme-src-light]")) {
+            updateThemeImage(node, theme);
+          }
+          if (node.querySelectorAll) {
+            Array.prototype.forEach.call(node.querySelectorAll("img[data-theme-src-dark][data-theme-src-light]"), function (image) {
+              updateThemeImage(image, theme);
+            });
+          }
+        });
+      });
+    });
+    observer.observe(document.documentElement, { childList: true, subtree: true });
   }
 
   function currentTheme() {
@@ -303,6 +336,7 @@
   }
 
   applyStoredPreferences();
+  observeThemeImages();
   bindSystemThemeSync();
 
   function bindInteractiveControls() {

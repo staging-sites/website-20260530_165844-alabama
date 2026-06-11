@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alaska-7288f7-index/
 description: Focused pages that expand on What Really Happened in Alaska's UFO Skies?.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Alaska_7288f7
 parent_title: What Really Happened in Alaska's UFO Skies?

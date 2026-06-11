@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /1965-flap/
 nav_short_title: Tinker radar
 title: Did radar back the Oklahoma UFO reports?
-title_full: Did radar back the Oklahoma UFO reports? | 1965 Flap
+title_full: Did radar back the Oklahoma UFO reports?
 display_title_short: Tinker radar
 display_title: Tinker radar
 heading_title: Did radar back the Oklahoma UFO reports?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:03:02'
-parent_title: What Really Happened in the 1965 Flap? | Oklahoma UFOs
+parent_title: What Really Happened in the 1965 Flap?
 parent_permalink: /1965-flap/
 parent_nav_short_title: 1965 Flap
 parent_heading_title: What Really Happened in the 1965 Flap?
@@ -250,10 +250,9 @@ image: /assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6_tinker_radar_dis
 
 ## Introduction
 
-The most disputed part of [Oklahoma]({{ 'why-oklahoma-became-a-ufo-state/' | relative_url }})’s 1965 UFO flap was not the lights themselves but the claim that radar operators at Tinker Air Force Base detected the same objects that police officers and civilians reported seeing. If those radar reports were accurate, the case moved beyond a simple argument about stars, planets or atmospheric effects. If they were misunderstood, misreported or exaggerated in retellings, then one of the strongest pillars of the Oklahoma flap becomes far less secure.
+The most disputed part of Oklahoma’s 1965 UFO flap was not the lights themselves but the claim that radar operators at Tinker Air Force Base detected the same objects that police officers and civilians reported seeing. If those radar reports were accurate, the case moved beyond a simple argument about stars, planets or atmospheric effects. If they were misunderstood, misreported or exaggerated in retellings, then one of the strongest pillars of the Oklahoma flap becomes far less secure.
 
-
-<img src="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6_tinker_radar_dispute_83b6c6-Illustration-1-light.svg" | relative_url }}" alt="Tinker radar illustration 1" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6_tinker_radar_dispute_83b6c6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6_tinker_radar_dispute_83b6c6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6_tinker_radar_dispute_83b6c6-Illustration-1-dark.svg" | relative_url }}" alt="Tinker radar illustration 1" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6_tinker_radar_dispute_83b6c6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6_tinker_radar_dispute_83b6c6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 More than half a century later, the argument remains unresolved because the public record contains newspaper accounts, witness recollections and later UFO-investigator summaries, but very little surviving technical documentation. The dispute is therefore less about what people claimed happened than about whether the alleged radar evidence can be independently verified.
 
 ## What newspapers said Tinker and the Highway Patrol reported
@@ -266,7 +265,6 @@ The most dramatic version of the story appeared in later summaries of the flap. 
 
 The difficulty is that many of the strongest radar details appear in later retellings rather than in surviving radar logs. The story became increasingly detailed as it moved through newspaper reports, UFO-investigator accounts and retrospective histories.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a52zYAHDxWU" title="The Proof Is Out There: UFOs RACE Across the Oklahoma Sky (Season 4) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a52zYAHDxWU" target="_blank" rel="noopener noreferrer">The Proof Is Out There: UFOs RACE Across the Oklahoma Sky (Season 4) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 56.5K &middot; Uploaded: March 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a52zYAHDxWU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a52zYAHDxWU">Open on YouTube</a></p></div></div></div>
 
 ## Why radar evidence can mislead without logs and timings
@@ -274,7 +272,6 @@ The difficulty is that many of the strongest radar details appear in later retel
 Radar is often treated as objective proof, but radar evidence is only as strong as the documentation attached to it. In the Oklahoma case, the central problem is that public discussions usually rely on second-hand descriptions of radar activity rather than preserved operational records.
 
 Several questions remain difficult to answer:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -292,8 +289,7 @@ This problem is not unique to Oklahoma. Radar-related UFO cases from the 1950s a
 
 The Oklahoma flap illustrates this evidential gap clearly. Supporters point to reports that both visual witnesses and radar operators were observing something unusual at the same time. Critics note that no widely available radar log has emerged showing the precise tracks that later accounts describe. As a result, the case depends heavily on recollections and media reports rather than on surviving technical data.
 
-
-<img src="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6_tinker_radar_dispute_83b6c6-Illustration-2-light.svg" | relative_url }}" alt="Tinker radar illustration 2" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6_tinker_radar_dispute_83b6c6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6_tinker_radar_dispute_83b6c6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6_tinker_radar_dispute_83b6c6-Illustration-2-dark.svg" | relative_url }}" alt="Tinker radar illustration 2" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6_tinker_radar_dispute_83b6c6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6_tinker_radar_dispute_83b6c6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How later Air Force and state-police accounts disagreed
 
 The disagreement became sharper after the Air Force and Project Blue Book moved towards conventional explanations for many of the 1965 sightings.
@@ -306,7 +302,6 @@ The resulting dispute produced two competing narratives.
 
 **The pro-radar interpretation** held that:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Police officers were experienced observers.
@@ -317,7 +312,6 @@ The resulting dispute produced two competing narratives.
 </div>
 
 **The sceptical interpretation** held that:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -330,7 +324,6 @@ The resulting dispute produced two competing narratives.
 
 Neither side produced evidence strong enough to settle the matter completely.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nbC6dFb35Jo" title="Former Military Radar Technician Reacts to Newly Declassified UAP Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nbC6dFb35Jo" target="_blank" rel="noopener noreferrer">Former Military Radar Technician Reacts to Newly Declassified UAP Evidence</a></p><p class="youtube-embed-meta">Channel: Wes O&#x27;Donnell &middot; Views: 11.6K &middot; Uploaded: May 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nbC6dFb35Jo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nbC6dFb35Jo">Open on YouTube</a></p></div></div></div>
 
 ## The missing records problem
@@ -340,7 +333,6 @@ The reason the Tinker radar claim remains controversial is that the strongest ev
 Project Blue Book records survive in large quantities, and many UFO reports from the period can be examined through archival collections. Yet researchers discussing the Oklahoma flap have repeatedly relied on newspaper quotations, investigator notes and witness recollections rather than on complete radar records from Tinker itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">Air Force Fact Sheet on UFOs and Project BLUE BOOK... Pro-UFO researchers claim that an extraterrestrial spacecraft and its alien...Rea...</span></span></span>
 
 That absence matters because radar evidence is most valuable when it can be checked against:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -356,19 +348,16 @@ Without those materials, later researchers cannot determine whether the reported
 
 The lack of surviving documentation does not prove the radar reports were false. Equally, it prevents them from functioning as conclusive evidence.
 
-
-<img src="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6_tinker_radar_dispute_83b6c6-Illustration-3-light.svg" | relative_url }}" alt="Tinker radar illustration 3" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6_tinker_radar_dispute_83b6c6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6_tinker_radar_dispute_83b6c6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6_tinker_radar_dispute_83b6c6-Illustration-3-dark.svg" | relative_url }}" alt="Tinker radar illustration 3" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6_tinker_radar_dispute_83b6c6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_1965_oklahoma_flap_d1a6e6_tinker_radar_dispute_83b6c6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the radar argument still matters in Oklahoma UFO history
 
-The [Tinker radar claims]({{ 'tinker-radar/' | relative_url }}) remain important because they sit at the centre of the [1965 Oklahoma flap]({{ '1965-flap/' | relative_url }})’s credibility debate. Many UFO waves consist almost entirely of witness testimony. Oklahoma’s case became notable because reports from police officers, Highway Patrol channels and alleged military radar observations appeared to overlap.
+The Tinker radar claims remain important because they sit at the centre of the 1965 Oklahoma flap’s credibility debate. Many UFO waves consist almost entirely of witness testimony. Oklahoma’s case became notable because reports from police officers, Highway Patrol channels and alleged military radar observations appeared to overlap.
 
 That overlap is precisely what keeps the case alive in discussions of Oklahoma UFO history. If the radar reports reflected genuine tracked targets, the flap becomes more difficult to dismiss as a collection of mistaken observations. If the radar story grew through repetition, misunderstanding and media amplification, then the case becomes a lesson in how quickly a regional sighting wave can acquire an aura of official confirmation.
 
 The historical record supports only a cautious conclusion. Newspapers from the period clearly reported that radar involvement was being discussed and that Tinker Air Force Base became part of the story. Later Air Force explanations did not satisfy many local observers. Yet no publicly available radar archive has emerged that fully confirms the dramatic claims repeated in later UFO literature. The radar issue therefore remains not the strongest proof of the Oklahoma flap, but its most enduring unresolved question.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AJGlGGPj4Hg" title="The Hampton Incident: An Unexplained U.F.O. Sighting in 1965 | NASA&#x27;s Unexplained Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AJGlGGPj4Hg" target="_blank" rel="noopener noreferrer">The Hampton Incident: An Unexplained U.F.O. Sighting in 1965 | NASA&#x27;s Unexplained Files</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 516.7K &middot; Uploaded: August 2022 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AJGlGGPj4Hg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AJGlGGPj4Hg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -456,7 +445,7 @@ The historical record supports only a cautious conclusion. Newspapers from the p
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -466,111 +455,36 @@ The historical record supports only a cautious conclusion. Newspapers from the p
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT"><img src="{{ '/assets/images/marketplace-covers/c4fa2fd111d52b7bddcf.jpg' | relative_url }}" alt="Listing image for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/bcYAAeSwvxlpSWMo/s-l225.jpg" alt="Listing image for Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">Area 51 Groom Lake Dreamland UFO UAP Iron/Sew On Patches Aliens EBE ET FREE P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display"><img src="{{ '/assets/images/marketplace-covers/27c78e3de724e607809d.jpg' | relative_url }}" alt="Listing image for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -578,15 +492,15 @@ The historical record supports only a cautious conclusion. Newspapers from the p
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/6qMAAeSwlL9odlp9/s-l225.jpg" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -594,15 +508,15 @@ The historical record supports only a cautious conclusion. Newspapers from the p
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="https://i.ebayimg.com/images/g/i9IAAOSwYHFfoEmJ/s-l225.jpg" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -610,15 +524,15 @@ The historical record supports only a cautious conclusion. Newspapers from the p
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy"><img src="https://i.ebayimg.com/images/g/~qcAAOSwAetdLK5G/s-l225.jpg" alt="Listing image for Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -626,7 +540,7 @@ The historical record supports only a cautious conclusion. Newspapers from the p
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tinker-radar-8c37a4-did-radar-back-the-oklahoma-ufo-reports-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="did-radar-back-the-oklahoma-ufo-reports-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ti" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -703,17 +617,31 @@ The historical record supports only a cautious conclusion. Newspapers from the p
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -726,42 +654,73 @@ The historical record supports only a cautious conclusion. Newspapers from the p
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -776,12 +735,17 @@ The historical record supports only a cautious conclusion. Newspapers from the p
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -791,96 +755,96 @@ The historical record supports only a cautious conclusion. Newspapers from the p
 
 1. <a id="endnote-1"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/press/oklahomajournal2aug1965.htm](https://ufologie.patrickgross.org/press/oklahomajournal2aug1965.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/press/oklahomajournal2aug1965.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/oklahomajournal2aug1965.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS at close sight: the newspapers, UFO sightings in Oklahoma, August 1965.... police officer at Wynnewood. That object, emitting...Re...</p></details>
    Published: August 1965  
 
 2. <a id="endnote-2"></a>
    Source: oklahomahistory.net  
-   Link: [https://oklahomahistory.net/ufo-scare-1965/](https://oklahomahistory.net/ufo-scare-1965/)  
+   Link: <a href="https://oklahomahistory.net/ufo-scare-1965/" target="_blank" rel="noopener noreferrer nofollow">https://oklahomahistory.net/ufo-scare-1965/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Scare 1965 – Oklahoma History15 Jun 2022 — The first of the unidentified flying objects (UFO) were sighted about 10:30 p.m...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: 1952 Washington, D.C. UFO incident  
-   Link: [https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident](https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Kirtland AFB UFO sighting  
-   Link: [https://en.wikipedia.org/wiki/Kirtland_AFB_UFO_sighting](https://en.wikipedia.org/wiki/Kirtland_AFB_UFO_sighting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kirtland_AFB_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kirtland_AFB_UFO_sighting</a>  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Fact Sheet on UFOs and Project BLUE BOOK... Pro-UFO researchers claim that an extraterrestrial spacecraft and its alien...Rea...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: internationalufobureau.com  
-   Link: [https://www.internationalufobureau.com/pastinvestigations/1965flap](https://www.internationalufobureau.com/pastinvestigations/1965flap)  
+   Link: <a href="https://www.internationalufobureau.com/pastinvestigations/1965flap" target="_blank" rel="noopener noreferrer nofollow">https://www.internationalufobureau.com/pastinvestigations/1965flap</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>International UFO BureauThe 1965 UFO Sightings: A Historic Event InvestigatedDiscover the astonishing 1965 UFO sightings, spanning 7 stat...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FLYING SAUCERS UFO REPORTSIn three months, starting with April, air line crews had accounted for 35 reports on UFOs and Captain Eddie Ric...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book, 701 remained &quot;unidentified.&quot; The decision to discontinue UFO investigations was based on an...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: edmondlifeandleisure.com  
    Title: edmond underground in edmond abuzz with uco sightings p10350 87  
-   Link: [https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm](https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm)  
+   Link: <a href="https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm" target="_blank" rel="noopener noreferrer nofollow">https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in &#x27;65 Edmond abuzz with UCO sightings11 Sept 2014 — A UFO had been witnessed by many people including members of law enforcement, tracke...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: koco.com  
    Title: oklahoma ufo history unidentified anomalous phenomena sightings  
-   Link: [https://www.koco.com/article/oklahoma-ufo-history-unidentified-anomalous-phenomena-sightings/45347432](https://www.koco.com/article/oklahoma-ufo-history-unidentified-anomalous-phenomena-sightings/45347432)  
+   Link: <a href="https://www.koco.com/article/oklahoma-ufo-history-unidentified-anomalous-phenomena-sightings/45347432" target="_blank" rel="noopener noreferrer nofollow">https://www.koco.com/article/oklahoma-ufo-history-unidentified-anomalous-phenomena-sightings/45347432</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oklahoma has decades-long history with UAP sightingsOct 1, 2023 — The declassified government program called &quot;Project Blue Book&quot; was an A...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/115957895581/posts/10165928422050582/](https://www.facebook.com/groups/115957895581/posts/10165928422050582/)  
+   Link: <a href="https://www.facebook.com/groups/115957895581/posts/10165928422050582/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/115957895581/posts/10165928422050582/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1966 and 1967 were years full of UFO sightings all over the world including several...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
    Title: august 28 1954 oklahoma city several usaf fighter  
-   Link: [https://www.reddit.com/r/UFOs/comments/1n0ul7z/august_28_1954_oklahoma_city_several_usaf_fighter/](https://www.reddit.com/r/UFOs/comments/1n0ul7z/august_28_1954_oklahoma_city_several_usaf_fighter/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1n0ul7z/august_28_1954_oklahoma_city_several_usaf_fighter/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1n0ul7z/august_28_1954_oklahoma_city_several_usaf_fighter/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 28, 1954 – Oklahoma City: Several USAF fighter...The UFO Evidence. August 28, 1954 Tinker AFB, Oklahoma Fifteen UFOs in triangle...</p></details>
    Published: August 28, 1954  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Former Military Radar Technician Reacts to Newly Declassified UAP Evidence  
-   Link: [https://www.youtube.com/watch?v=nbC6dFb35Jo](https://www.youtube.com/watch?v=nbC6dFb35Jo)  
+   Link: <a href="https://www.youtube.com/watch?v=nbC6dFb35Jo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nbC6dFb35Jo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hampton Incident: An Unexplained U.F.O. Sighting in 1965...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: UFO incident at Edwards Air Force Base (audio & transcript)  
-   Link: [https://www.youtube.com/watch?v=rzlel8Z9oSU](https://www.youtube.com/watch?v=rzlel8Z9oSU)  
+   Link: <a href="https://www.youtube.com/watch?v=rzlel8Z9oSU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rzlel8Z9oSU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Military Radar Technician Reacts to Newly Declassified UAP Evidence...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: The Proof Is Out There: UFOs RACE Across the Oklahoma Sky (Season 4)  
-   Link: [https://www.youtube.com/watch?v=a52zYAHDxWU](https://www.youtube.com/watch?v=a52zYAHDxWU)  
+   Link: <a href="https://www.youtube.com/watch?v=a52zYAHDxWU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a52zYAHDxWU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO incident at Edwards Air Force Base (audio &amp; transcript)...</p></details>

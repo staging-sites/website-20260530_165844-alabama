@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-delawares-ufo/
 nav_short_title: 1860 Wilmington
 title: Did Wilmington See a UFO Before Flight?
-title_full: Did Wilmington See a UFO Before Flight? | Delaware UFOs
+title_full: Did Wilmington See a UFO Before Flight?
 display_title_short: 1860 Wilmington
 display_title: 1860 Wilmington
 heading_title: Did Wilmington See a UFO Before Flight?
@@ -262,25 +262,22 @@ image: /assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea-overview-socia
 
 ## Introduction
 
-The 1860 Wilmington sky story is often presented as one of [Delaware]({{ 'what-really-happened-in-delawares-ufo/' | relative_url }})’s oldest UFO reports: a pale blue light over the city, a long object moving low and level, and several red glowing balls trailing behind it. The problem is that the most accessible versions are not the original newspaper item. They are later summaries that say the story appeared in the Wilmington Tribune on 30 July 1860, but the source trail is awkward: the digitised Delaware Tribune held in the Library of Congress record begins in 1867, not 1860. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history4.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works UFOs in the 19th Century | How Stuff Works</span><span class="citation-popover-snippet">How Stuff Works UFOs in the 19th Century | How Stuff Works</span></span></span>
-
+The 1860 Wilmington sky story is often presented as one of Delaware’s oldest UFO reports: a pale blue light over the city, a long object moving low and level, and several red glowing balls trailing behind it. The problem is that the most accessible versions are not the original newspaper item. They are later summaries that say the story appeared in the Wilmington Tribune on 30 July 1860, but the source trail is awkward: the digitised Delaware Tribune held in the Library of Congress record begins in 1867, not 1860. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history4.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works UFOs in the 19th Century &#124; How Stuff Works</span><span class="citation-popover-snippet">How Stuff Works UFOs in the 19th Century &#124; How Stuff Works</span></span></span>
 
 <img src="{{ "/assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea-overview.webp" | relative_url }}" alt="Overview image for 1860 Wilmington" loading="eager" decoding="sync" fetchpriority="high">
 That does not make the story worthless. It does make it fragile. As a Delaware UFO case, its value lies less in proving an extraordinary craft and more in showing how an old sky report can become impressive through retelling when the original clipping is hard to inspect. A cautious reading keeps three things separate: what the story claims, what can be traced, and what might explain it.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DoJUsaTknNw" title="Airship Mystery of 1896 and 1897 (Mystery Airships, UFOs) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DoJUsaTknNw" target="_blank" rel="noopener noreferrer">Airship Mystery of 1896 and 1897 (Mystery Airships, UFOs) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 17.6K &middot; Uploaded: October 2023 &middot; Length: 1 hour 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DoJUsaTknNw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DoJUsaTknNw">Open on YouTube</a></p></div></div></div>
 
 ## What the 1860 story claims
 
-The standard modern version says that on 13 July 1860 a pale blue light covered Wilmington, Delaware. Residents allegedly looked up and saw a long object, sometimes described as about 200 feet long, travelling on a level course about 100 feet above the city. Behind it, at intervals, were three very red glowing balls; a fourth reportedly emerged from the rear of the main object, and the formation moved towards the Delaware River before vanishing eastward. HowStuffWorks gives this version and states that the incident was “reported in the Wilmington Tribune, July 30, 1860” and lasted one minute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history4.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works UFOs in the 19th Century | How Stuff Works</span><span class="citation-popover-snippet">How Stuff Works UFOs in the 19th Century | How Stuff Works</span></span></span>
+The standard modern version says that on 13 July 1860 a pale blue light covered Wilmington, Delaware. Residents allegedly looked up and saw a long object, sometimes described as about 200 feet long, travelling on a level course about 100 feet above the city. Behind it, at intervals, were three very red glowing balls; a fourth reportedly emerged from the rear of the main object, and the formation moved towards the Delaware River before vanishing eastward. HowStuffWorks gives this version and states that the incident was “reported in the Wilmington Tribune, July 30, 1860” and lasted one minute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history4.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works UFOs in the 19th Century &#124; How Stuff Works</span><span class="citation-popover-snippet">How Stuff Works UFOs in the 19th Century &#124; How Stuff Works</span></span></span>
 
 A later Delaware-focused roundup by Technical.ly repeats the same account and explicitly introduces it as a famous early Delaware sighting, but it does so “via HowStuffWorks” rather than by displaying or linking to a scan of the 1860 article itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://technical.ly/professional-development/its-world-ufo-day-here-are-the-top-10-ufo-sightings-in-delaware/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: technical.ly">[Technical.ly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">technical.ly</span><span class="citation-popover-title">It&#x27;s World UFO Day. Here are the top 10 UFO sightings in Delaware</span><span class="citation-popover-snippet">It&#x27;s World UFO Day. Here are the top 10 UFO sightings in Delaware</span></span></span> That matters because most readers now meet the Wilmington story through modern paranormal, UFO or curiosity-list sources, not through a contemporaneous Delaware newspaper page they can verify.
 
 The detail that makes the report attractive to UFO writers is obvious: the date is before aeroplanes, before drones, before satellites and long before the modern “flying saucer” era. If a reader only asks, “Could it have been a plane?”, the answer is no. But that is too narrow a question. A pre-flight date removes aircraft as an explanation; it does not remove meteors, bolides, atmospheric optics, fireworks, lanterns, newspaper exaggeration, hoaxing, misdating or later paraphrase.
 
-
-<img src="{{ "/assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea-Illustration-1-light.svg" | relative_url }}" alt="1860 Wilmington illustration 1" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea-Illustration-1-dark.svg" | relative_url }}" alt="1860 Wilmington illustration 1" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the source trail matters
 
 The central source problem is the newspaper title. Modern accounts commonly cite a Wilmington Tribune item dated 30 July 1860. Yet Library of Congress listings identify the Delaware Tribune of Wilmington as a weekly newspaper published from 1867 to 1877, and digitised issues are available from that later period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/item/sn84026822/?st=holdings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Other Delaware newspaper lists also place the Delaware Tribune in 1867–1877, while showing that Wilmington had several other newspapers around 1860, including titles such as the Delaware Inquirer, Delaware Republican and Delaware State Journal and Statesman. <span class="citation-chip-wrap"><a class="citation-chip" href="https://accessgenealogy.com/america/chronicling-america-historical-newspapers.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accessgenealogy.com">[Access Genealogy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accessgenealogy.com</span><span class="citation-popover-title">Access Genealogy Chronicling America Historical Newspapers – Access Genealogy</span><span class="citation-popover-snippet">Access Genealogy Chronicling America Historical Newspapers – Access Genealogy</span></span></span>
@@ -289,19 +286,17 @@ This creates several possibilities. The cited “Wilmington Tribune” may be a 
 
 For Delaware UFO history, this is the key lesson. A nineteenth-century newspaper claim is strongest when a researcher can inspect the original page, confirm the date, identify the column, see whether the piece was local reporting or a reprinted filler item, and compare it with other papers from the same week. Without that, the Wilmington case remains a cited story rather than a verified primary-source case.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HKf-2nhIGrI" title="Year of Meteors - Walt Whitman - Poem Animation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HKf-2nhIGrI" target="_blank" rel="noopener noreferrer">Year of Meteors - Walt Whitman - Poem Animation</a></p><p class="youtube-embed-meta">Channel: poetryreincarnations &middot; Views: 750 &middot; Uploaded: September 2014 &middot; Length: 2 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HKf-2nhIGrI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HKf-2nhIGrI">Open on YouTube</a></p></div></div></div>
 
 ## The tempting meteor comparison
 
-One natural comparison is the Great [Meteor Procession]({{ 'meteor-link/' | relative_url }}) of 1860, a rare astronomical event seen on 20 July 1860, one week after the Wilmington date usually given. NASA’s Astronomy Picture of the Day describes Frederic Church seeing a spectacular string of fireball meteors crossing the Catskill evening sky on 20 July 1860, while Walt Whitman also wrote of a “meteor procession”; later research by Donald Olson, Russell Doescher, Marilynn Olson and Ava Pope connected the painting, poem and newspaper reports to a rare Earth-grazing meteor procession. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apod.nasa.gov/apod/ap100722.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apod.nasa.gov">[Astronomy Picture of the Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apod.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+One natural comparison is the Great Meteor Procession of 1860, a rare astronomical event seen on 20 July 1860, one week after the Wilmington date usually given. NASA’s Astronomy Picture of the Day describes Frederic Church seeing a spectacular string of fireball meteors crossing the Catskill evening sky on 20 July 1860, while Walt Whitman also wrote of a “meteor procession”; later research by Donald Olson, Russell Doescher, Marilynn Olson and Ava Pope connected the painting, poem and newspaper reports to a rare Earth-grazing meteor procession. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apod.nasa.gov/apod/ap100722.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apod.nasa.gov">[Astronomy Picture of the Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apod.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The similarity is striking but not conclusive. A meteor procession can produce multiple bright bodies moving along a similar path, and nineteenth-century observers could describe such events in language that sounds artificial to modern readers. Space.com reported that the 1860 meteor event was heavily documented in newspapers and magazines at the time, despite later being largely forgotten. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/8530-walt-whitman-meteor-mystery-solved-astronomer-sleuths.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Walt Whitman Meteor Mystery Solved by Astronomer Sleuths | Space</span><span class="citation-popover-snippet">Walt Whitman Meteor Mystery Solved by Astronomer Sleuths | Space</span></span></span> That is important because it shows how a spectacular natural event can produce dramatic reports without involving a craft.
+The similarity is striking but not conclusive. A meteor procession can produce multiple bright bodies moving along a similar path, and nineteenth-century observers could describe such events in language that sounds artificial to modern readers. Space.com reported that the 1860 meteor event was heavily documented in newspapers and magazines at the time, despite later being largely forgotten. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/8530-walt-whitman-meteor-mystery-solved-astronomer-sleuths.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Walt Whitman Meteor Mystery Solved by Astronomer Sleuths &#124; Space</span><span class="citation-popover-snippet">Walt Whitman Meteor Mystery Solved by Astronomer Sleuths &#124; Space</span></span></span> That is important because it shows how a spectacular natural event can produce dramatic reports without involving a craft.
 
 However, the date mismatch cannot be ignored. The well-studied meteor procession was on 20 July 1860, while the Wilmington story is usually dated 13 July. A simple “it was the Great Meteor” explanation would need either a misdated Wilmington report, a reprint published later with confusion about the sighting date, or a separate event a week earlier. The comparison is useful because it supplies a plausible natural class of phenomena, not because it neatly solves the case.
 
-
-<img src="{{ "/assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea-Illustration-2-light.svg" | relative_url }}" alt="1860 Wilmington illustration 2" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea-Illustration-2-dark.svg" | relative_url }}" alt="1860 Wilmington illustration 2" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Natural explanations and archival gaps
 
 The most cautious explanation is not a single debunking claim, but a range of ordinary possibilities that fit parts of the story better than others. A low, level, 200-foot object only 100 feet above a city sounds difficult to reconcile with a meteor if taken literally. But old sky reports often contain estimated sizes and heights that are not measurements; they are impressions made without reference points, instruments or modern aviation experience.
@@ -310,12 +305,11 @@ Several possibilities deserve attention:
 
 * **Meteor or bolide fragments.** The red glowing balls, sparks and short duration resemble language often used for fireballs, especially if an object fragmented.
 * **Meteor procession.** The “train” of multiple lights is compatible with a rare procession, though the accepted 1860 event falls on 20 July rather than 13 July. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apod.nasa.gov/apod/ap100722.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apod.nasa.gov">[Astronomy Picture of the Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apod.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **Fireworks or pyrotechnics.** The phrase “sparkles after the manner of a rocket”, preserved in later summaries, points towards a comparison that nineteenth-century readers would understand without invoking machinery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history4.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works UFOs in the 19th Century | How Stuff Works</span><span class="citation-popover-snippet">How Stuff Works UFOs in the 19th Century | How Stuff Works</span></span></span>
+* **Fireworks or pyrotechnics.** The phrase “sparkles after the manner of a rocket”, preserved in later summaries, points towards a comparison that nineteenth-century readers would understand without invoking machinery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history4.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works UFOs in the 19th Century &#124; How Stuff Works</span><span class="citation-popover-snippet">How Stuff Works UFOs in the 19th Century &#124; How Stuff Works</span></span></span>
 * **Newspaper embellishment.** The most dramatic details — exact height, length, intervals and formation behaviour — are precisely the kinds of details that require the original clipping before they can be weighed fairly.
 * **Later retelling drift.** Modern summaries quote each other, and Technical.ly’s Delaware roundup explicitly routes the story through HowStuffWorks rather than presenting a primary source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://technical.ly/professional-development/its-world-ufo-day-here-are-the-top-10-ufo-sightings-in-delaware/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: technical.ly">[Technical.ly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">technical.ly</span><span class="citation-popover-title">It&#x27;s World UFO Day. Here are the top 10 UFO sightings in Delaware</span><span class="citation-popover-snippet">It&#x27;s World UFO Day. Here are the top 10 UFO sightings in Delaware</span></span></span>
 
 The missing piece is not simply “more witnesses”. The missing piece is a stable primary text. A useful archival check would look for Wilmington papers in late July and early August 1860, not only under “UFO” language but under headings such as meteor, fireball, luminous phenomenon, strange light, aerial phenomenon, rocket, sky, comet or atmospheric. It would also check whether newspapers outside Delaware reprinted a Wilmington item, because nineteenth-century papers often exchanged short curiosities across state lines.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/f563xsZGrc8" title="Chronicling America - A Great Place to Find Historic Newspapers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=f563xsZGrc8" target="_blank" rel="noopener noreferrer">Chronicling America - A Great Place to Find Historic Newspapers</a></p><p class="youtube-embed-meta">Channel: Richard Byrne &middot; Views: 229 &middot; Uploaded: March 2022 &middot; Length: 4 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=f563xsZGrc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=f563xsZGrc8">Open on YouTube</a></p></div></div></div>
 
@@ -327,8 +321,7 @@ That distinction is important for the wider Delaware project. Later Delaware cas
 
 A balanced judgement would be: Wilmington may have had a notable sky report in July 1860, but the case is not yet well sourced enough to call it one of Delaware’s strongest UFO incidents. Its real importance is methodological. It reminds readers that “before powered flight” is not the same as “beyond natural explanation”, and that the strength of an old UFO story depends less on how strange it sounds than on whether the original source can still be found, read and checked.
 
-
-<img src="{{ "/assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea-Illustration-3-light.svg" | relative_url }}" alt="1860 Wilmington illustration 3" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea-Illustration-3-dark.svg" | relative_url }}" alt="1860 Wilmington illustration 3" data-theme-src-dark="{{ "/assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delaware_5861e4_wilmington_1860_sour_9bc3ea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -416,7 +409,7 @@ A balanced judgement would be: Wilmington may have had a notable sky report in J
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -426,111 +419,36 @@ A balanced judgement would be: Wilmington may have had a notable sky report in J
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+astronomy+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage astronomy print" data-ebay-reference="did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bundle Vintage 1950s Space Planets Astronomy Stars Eclipse Book Print Pictures"><img src="https://i.ebayimg.com/images/g/H5UAAeSwKkRqH~UX/s-l225.jpg" alt="Listing image for Bundle Vintage 1950s Space Planets Astronomy Stars Eclipse Book Print Pictures" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+astronomy+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage astronomy print" data-ebay-reference="did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print" target="_blank" rel="sponsored noopener noreferrer">Bundle Vintage 1950s Space Planets Astronomy Stars Eclipse Book Print Pictures</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+astronomy+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage astronomy print" data-ebay-reference="did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage astronomy print">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage astronomy print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+astronomy+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage astronomy print" data-ebay-reference="did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,15 +456,15 @@ A balanced judgement would be: Wilmington may have had a notable sky report in J
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+astronomy+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage astronomy print" data-ebay-reference="did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for the moon From lick observatory , RARE 1938 VINTAGE IMAGE printed 1967"><img src="https://i.ebayimg.com/images/g/tUQAAeSwKP1ojyh4/s-l225.jpg" alt="Listing image for the moon From lick observatory , RARE 1938 VINTAGE IMAGE printed 1967" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+astronomy+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage astronomy print" data-ebay-reference="did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print" target="_blank" rel="sponsored noopener noreferrer">the moon From lick observatory , RARE 1938 VINTAGE IMAGE printed 1967</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+astronomy+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage astronomy print" data-ebay-reference="did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage astronomy print">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage astronomy print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+astronomy+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage astronomy print" data-ebay-reference="did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,15 +472,15 @@ A balanced judgement would be: Wilmington may have had a notable sky report in J
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+astronomy+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage astronomy print" data-ebay-reference="did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bundle Vintage 1950s Space Planets Astronomy Stars Eclipse Book Print Pictures"><img src="https://i.ebayimg.com/images/g/7DgAAeSww5JqIakN/s-l225.jpg" alt="Listing image for Bundle Vintage 1950s Space Planets Astronomy Stars Eclipse Book Print Pictures" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+astronomy+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage astronomy print" data-ebay-reference="did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print" target="_blank" rel="sponsored noopener noreferrer">Bundle Vintage 1950s Space Planets Astronomy Stars Eclipse Book Print Pictures</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+astronomy+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage astronomy print" data-ebay-reference="did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage astronomy print">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage astronomy print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+astronomy+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage astronomy print" data-ebay-reference="did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -570,15 +488,15 @@ A balanced judgement would be: Wilmington may have had a notable sky report in J
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+astronomy+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage astronomy print" data-ebay-reference="did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1934 ORION NEBULA Print - Vintage Astronomy Print - 9.15 x 6 Inches"><img src="https://i.ebayimg.com/images/g/qg8AAeSwCAloj2uX/s-l225.jpg" alt="Listing image for 1934 ORION NEBULA Print - Vintage Astronomy Print - 9.15 x 6 Inches" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+astronomy+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage astronomy print" data-ebay-reference="did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print" target="_blank" rel="sponsored noopener noreferrer">1934 ORION NEBULA Print - Vintage Astronomy Print - 9.15 x 6 Inches</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+astronomy+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage astronomy print" data-ebay-reference="did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage astronomy print">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage astronomy print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+astronomy+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage astronomy print" data-ebay-reference="did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -586,7 +504,7 @@ A balanced judgement would be: Wilmington may have had a notable sky report in J
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1860-wilmington-did-wilmington-see-a-ufo-before-flight-delaware-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+astronomy+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage astronomy print" data-ebay-reference="did-wilmington-see-a-ufo-before-flight-vintage-astronomy-print" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -663,17 +581,31 @@ A balanced judgement would be: Wilmington may have had a notable sky report in J
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -686,42 +618,73 @@ A balanced judgement would be: Wilmington may have had a notable sky report in J
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -736,12 +699,17 @@ A balanced judgement would be: Wilmington may have had a notable sky report in J
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -752,118 +720,118 @@ A balanced judgement would be: Wilmington may have had a notable sky report in J
 1. <a id="endnote-1"></a>
    Source: science.howstuffworks.com  
    Title: How Stuff Works UFOs in the 19th Century | How Stuff Works  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/ufo-history4.htm](https://science.howstuffworks.com/space/aliens-ufos/ufo-history4.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history4.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-history4.htm</a>  
 
 2. <a id="endnote-2"></a>
    Source: technical.ly  
    Title: It's World UFO Day. Here are the top 10 UFO sightings in Delaware  
-   Link: [https://technical.ly/professional-development/its-world-ufo-day-here-are-the-top-10-ufo-sightings-in-delaware/](https://technical.ly/professional-development/its-world-ufo-day-here-are-the-top-10-ufo-sightings-in-delaware/)  
+   Link: <a href="https://technical.ly/professional-development/its-world-ufo-day-here-are-the-top-10-ufo-sightings-in-delaware/" target="_blank" rel="noopener noreferrer nofollow">https://technical.ly/professional-development/its-world-ufo-day-here-are-the-top-10-ufo-sightings-in-delaware/</a>  
 
 3. <a id="endnote-3"></a>
    Source: apod.nasa.gov  
-   Link: [https://apod.nasa.gov/apod/ap100722.html](https://apod.nasa.gov/apod/ap100722.html)  
+   Link: <a href="https://apod.nasa.gov/apod/ap100722.html" target="_blank" rel="noopener noreferrer nofollow">https://apod.nasa.gov/apod/ap100722.html</a>  
 
 4. <a id="endnote-4"></a>
    Source: space.com  
    Title: Walt Whitman Meteor Mystery Solved by Astronomer Sleuths | Space  
-   Link: [https://www.space.com/8530-walt-whitman-meteor-mystery-solved-astronomer-sleuths.html](https://www.space.com/8530-walt-whitman-meteor-mystery-solved-astronomer-sleuths.html)  
+   Link: <a href="https://www.space.com/8530-walt-whitman-meteor-mystery-solved-astronomer-sleuths.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/8530-walt-whitman-meteor-mystery-solved-astronomer-sleuths.html</a>  
 
 5. <a id="endnote-5"></a>
    Source: apod.nasa.gov  
    Title: apod search  
-   Link: [https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=Meteor](https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=Meteor)  
+   Link: <a href="https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=Meteor" target="_blank" rel="noopener noreferrer nofollow">https://apod.nasa.gov/cgi-bin/apod/apod_search?tquery=Meteor</a>  
 
 6. <a id="endnote-6"></a>
    Source: apod.nasa.gov  
    Title: archivepix Full  
-   Link: [https://apod.nasa.gov/apod/archivepixFull.html](https://apod.nasa.gov/apod/archivepixFull.html)  
+   Link: <a href="https://apod.nasa.gov/apod/archivepixFull.html" target="_blank" rel="noopener noreferrer nofollow">https://apod.nasa.gov/apod/archivepixFull.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: archivesfiles.delaware.gov  
    Title: Democracy In Delaware  
-   Link: [https://archivesfiles.delaware.gov/ebooks/Democracy_In_Delaware.pdf](https://archivesfiles.delaware.gov/ebooks/Democracy_In_Delaware.pdf)  
+   Link: <a href="https://archivesfiles.delaware.gov/ebooks/Democracy_In_Delaware.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archivesfiles.delaware.gov/ebooks/Democracy_In_Delaware.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: loc.gov  
-   Link: [https://www.loc.gov/item/sn84026822/?st=holdings](https://www.loc.gov/item/sn84026822/?st=holdings)  
+   Link: <a href="https://www.loc.gov/item/sn84026822/?st=holdings" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/item/sn84026822/?st=holdings</a>  
 
 9. <a id="endnote-9"></a>
    Source: loc.gov  
    Title: The Library of Congress Delaware tribune (Wilmington, Del.),  
-   Link: [https://www.loc.gov/resource/sn84026822/1875-07-15/ed-1/?st=gallery](https://www.loc.gov/resource/sn84026822/1875-07-15/ed-1/?st=gallery)  
+   Link: <a href="https://www.loc.gov/resource/sn84026822/1875-07-15/ed-1/?st=gallery" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/resource/sn84026822/1875-07-15/ed-1/?st=gallery</a>  
 
 10. <a id="endnote-10"></a>
    Source: accessgenealogy.com  
    Title: Access Genealogy Chronicling America Historical Newspapers – Access Genealogy  
-   Link: [https://accessgenealogy.com/america/chronicling-america-historical-newspapers.htm](https://accessgenealogy.com/america/chronicling-america-historical-newspapers.htm)  
+   Link: <a href="https://accessgenealogy.com/america/chronicling-america-historical-newspapers.htm" target="_blank" rel="noopener noreferrer nofollow">https://accessgenealogy.com/america/chronicling-america-historical-newspapers.htm</a>  
 
 11. <a id="endnote-11"></a>
    Source: spacewar.com  
    Title: Space War The Walt Whitman Meteor Mystery  
-   Link: [https://www.spacewar.com/reports/The_Walt_Whitman_Meteor_Mystery_999.html](https://www.spacewar.com/reports/The_Walt_Whitman_Meteor_Mystery_999.html)  
+   Link: <a href="https://www.spacewar.com/reports/The_Walt_Whitman_Meteor_Mystery_999.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spacewar.com/reports/The_Walt_Whitman_Meteor_Mystery_999.html</a>  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Meteor procession  
-   Link: [https://en.wikipedia.org/wiki/Meteor_procession](https://en.wikipedia.org/wiki/Meteor_procession)  
+   Link: <a href="https://en.wikipedia.org/wiki/Meteor_procession" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor_procession</a>  
 
 13. <a id="endnote-13"></a>
    Source: unexplained-mysteries.com  
-   Link: [https://www.unexplained-mysteries.com/forum/topic/378364-the-delaware-ufo-incident-in-1860/page/2/](https://www.unexplained-mysteries.com/forum/topic/378364-the-delaware-ufo-incident-in-1860/page/2/)  
+   Link: <a href="https://www.unexplained-mysteries.com/forum/topic/378364-the-delaware-ufo-incident-in-1860/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained-mysteries.com/forum/topic/378364-the-delaware-ufo-incident-in-1860/page/2/</a>  
 
 14. <a id="endnote-14"></a>
    Source: catalog.hathitrust.org  
-   Link: [https://catalog.hathitrust.org/Record/009559603](https://catalog.hathitrust.org/Record/009559603)  
+   Link: <a href="https://catalog.hathitrust.org/Record/009559603" target="_blank" rel="noopener noreferrer nofollow">https://catalog.hathitrust.org/Record/009559603</a>  
 
 15. <a id="endnote-15"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/26553407](https://www.jstor.org/stable/26553407)  
+   Link: <a href="https://www.jstor.org/stable/26553407" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26553407</a>  
 
 16. <a id="endnote-16"></a>
    Source: trove.nla.gov.au  
-   Link: [https://trove.nla.gov.au/newspaper/article/249642933](https://trove.nla.gov.au/newspaper/article/249642933)  
+   Link: <a href="https://trove.nla.gov.au/newspaper/article/249642933" target="_blank" rel="noopener noreferrer nofollow">https://trove.nla.gov.au/newspaper/article/249642933</a>  
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=DoJUsaTknNw](https://www.youtube.com/watch?v=DoJUsaTknNw)  
+   Link: <a href="https://www.youtube.com/watch?v=DoJUsaTknNw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DoJUsaTknNw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings from 1900&#x27;s to 1930&#x27;s Noe Torres...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Year of Meteors  
-   Link: [https://www.youtube.com/watch?v=HKf-2nhIGrI](https://www.youtube.com/watch?v=HKf-2nhIGrI)  
+   Link: <a href="https://www.youtube.com/watch?v=HKf-2nhIGrI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HKf-2nhIGrI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Airship Mystery of 1896 and 1897 (Mystery Airships, UFOs) - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: loc.gov  
-   Link: [https://www.loc.gov/collections/chronicling-america/titles/](https://www.loc.gov/collections/chronicling-america/titles/)  
+   Link: <a href="https://www.loc.gov/collections/chronicling-america/titles/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/chronicling-america/titles/</a>  
 
 20. <a id="endnote-20"></a>
    Source: loc.gov  
-   Link: [https://www.loc.gov/resource/sn84026822/1869-08-19/ed-1/?st=text](https://www.loc.gov/resource/sn84026822/1869-08-19/ed-1/?st=text)  
+   Link: <a href="https://www.loc.gov/resource/sn84026822/1869-08-19/ed-1/?st=text" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/resource/sn84026822/1869-08-19/ed-1/?st=text</a>  
 
 21. <a id="endnote-21"></a>
    Source: loc.gov  
-   Link: [https://www.loc.gov/chroniclingamerica/lccn/sn84026822/1869-01-07/ed-1/seq-1/](https://www.loc.gov/chroniclingamerica/lccn/sn84026822/1869-01-07/ed-1/seq-1/)  
+   Link: <a href="https://www.loc.gov/chroniclingamerica/lccn/sn84026822/1869-01-07/ed-1/seq-1/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/chroniclingamerica/lccn/sn84026822/1869-01-07/ed-1/seq-1/</a>  
 
 22. <a id="endnote-22"></a>
    Source: loc.gov  
-   Link: [https://www.loc.gov/resource/sn84020594/1874-12-30/ed-1/?st=pdf](https://www.loc.gov/resource/sn84020594/1874-12-30/ed-1/?st=pdf)  
+   Link: <a href="https://www.loc.gov/resource/sn84020594/1874-12-30/ed-1/?st=pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/resource/sn84020594/1874-12-30/ed-1/?st=pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: loc.gov  
-   Link: [https://www.loc.gov/chroniclingamerica/lccn/sn84026822/1869-08-26/ed-1/seq-3/](https://www.loc.gov/chroniclingamerica/lccn/sn84026822/1869-08-26/ed-1/seq-3/)  
+   Link: <a href="https://www.loc.gov/chroniclingamerica/lccn/sn84026822/1869-08-26/ed-1/seq-3/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/chroniclingamerica/lccn/sn84026822/1869-08-26/ed-1/seq-3/</a>  
 
 24. <a id="endnote-24"></a>
    Source: loc.gov  
-   Link: [https://www.loc.gov/item/sn97070605/](https://www.loc.gov/item/sn97070605/)  
+   Link: <a href="https://www.loc.gov/item/sn97070605/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/item/sn97070605/</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Baringodailynews/posts/a-straight-moving-object-marked-with-sparks-of-different-colors-spotted-in-the-s/1147726384024610/](https://www.facebook.com/Baringodailynews/posts/a-straight-moving-object-marked-with-sparks-of-different-colors-spotted-in-the-s/1147726384024610/)  
+   Link: <a href="https://www.facebook.com/Baringodailynews/posts/a-straight-moving-object-marked-with-sparks-of-different-colors-spotted-in-the-s/1147726384024610/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Baringodailynews/posts/a-straight-moving-object-marked-with-sparks-of-different-colors-spotted-in-the-s/1147726384024610/</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/twistedlimbsandcrookedbranches/posts/remarkable-ethereal-phenomenonfrom-our-correspondentderry-journal-wednesday-13-m/1396585033780212/](https://www.facebook.com/twistedlimbsandcrookedbranches/posts/remarkable-ethereal-phenomenonfrom-our-correspondentderry-journal-wednesday-13-m/1396585033780212/)  
+   Link: <a href="https://www.facebook.com/twistedlimbsandcrookedbranches/posts/remarkable-ethereal-phenomenonfrom-our-correspondentderry-journal-wednesday-13-m/1396585033780212/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/twistedlimbsandcrookedbranches/posts/remarkable-ethereal-phenomenonfrom-our-correspondentderry-journal-wednesday-13-m/1396585033780212/</a>

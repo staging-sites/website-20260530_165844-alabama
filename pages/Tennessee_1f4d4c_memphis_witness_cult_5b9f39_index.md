@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /tennessee-1f4d4c-memphis-witness-cult/
 description: Focused pages that expand on Memphis.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Tennessee_1f4d4c_memphis_witness_cult_5b9f39
-parent_title: Memphis | What Keeps Tennessee's UFO Stories Alive?
+parent_title: Memphis
 parent_nav_short_title: Memphis
 parent_permalink: /memphis/
 ---

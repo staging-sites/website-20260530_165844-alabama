@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kansas-48303f-dighton-1972-flap-313f29/
 description: Focused pages that expand on Dighton Flap.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Kansas_48303f_dighton_1972_flap_313f29
-parent_title: Dighton Flap | What Did Kansas Really See?
+parent_title: Dighton Flap
 parent_nav_short_title: Dighton Flap
 parent_permalink: /dighton-flap/
 ---

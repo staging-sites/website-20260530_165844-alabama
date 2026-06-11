@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-oklahoma-became-a-ufo-state/
 nav_short_title: Tinker Radar
 title: Did Radar Make Oklahoma's UFOs Stronger?
-title_full: Did Radar Make Oklahoma's UFOs Stronger? | Oklahoma UFOs
+title_full: Did Radar Make Oklahoma's UFOs Stronger?
 display_title_short: Tinker Radar
 display_title: Tinker Radar
 heading_title: Did Radar Make Oklahoma's UFOs Stronger?
@@ -262,8 +262,7 @@ image: /assets/images/Oklahoma_86daa4_tinker_radar_claims_e492ef-overview-social
 
 ## Introduction
 
-Tinker Air Force Base matters to [Oklahoma]({{ 'why-oklahoma-became-a-ufo-state/' | relative_url }})’s UFO history because it gives several local stories a military and radar setting, not because it proves that extraordinary craft were present. The most important pattern is more subtle: when witnesses, police reports and alleged radar contacts appear together, a case can look stronger than a simple lights-in-the-sky report, but the same military airspace also creates more ordinary possibilities, including aircraft, flares, radar limitations, incomplete logs and confused public reporting. Tinker’s official role in air logistics, air control and airborne surveillance makes it a natural focal point for Oklahoma UFO narratives, especially around the [1965 flap]({{ '1965-flap/' | relative_url }}). Yet the evidence remains uneven. Some reports include named witnesses and technical claims; others survive mainly through press accounts, later UFO archives or disputed summaries. The safest conclusion is that Tinker made Oklahoma sightings more documentable, but not automatically more conclusive.
-
+Tinker Air Force Base matters to Oklahoma’s UFO history because it gives several local stories a military and radar setting, not because it proves that extraordinary craft were present. The most important pattern is more subtle: when witnesses, police reports and alleged radar contacts appear together, a case can look stronger than a simple lights-in-the-sky report, but the same military airspace also creates more ordinary possibilities, including aircraft, flares, radar limitations, incomplete logs and confused public reporting. Tinker’s official role in air logistics, air control and airborne surveillance makes it a natural focal point for Oklahoma UFO narratives, especially around the [1965 flap]({{ '1965-flap/' | relative_url }}). Yet the evidence remains uneven. Some reports include named witnesses and technical claims; others survive mainly through press accounts, later UFO archives or disputed summaries. The safest conclusion is that Tinker made Oklahoma sightings more documentable, but not automatically more conclusive.
 
 <img src="{{ "/assets/images/Oklahoma_86daa4_tinker_radar_claims_e492ef-overview.webp" | relative_url }}" alt="Overview image for Tinker Radar" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Tinker matters to Oklahoma UFO history
@@ -278,11 +277,10 @@ The National Archives’ Project Blue Book page gives the broader frame. Blue Bo
 
 That combination is important for Oklahoma. It leaves room for unresolved reports while discouraging overstatement. A radar-related sighting near Tinker can be historically interesting without being proof of alien technology.
 
-
-<img src="{{ "/assets/images/Oklahoma_86daa4_tinker_radar_claims_e492ef-Illustration-1-light.svg" | relative_url }}" alt="Tinker Radar illustration 1" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_tinker_radar_claims_e492ef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_tinker_radar_claims_e492ef-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oklahoma_86daa4_tinker_radar_claims_e492ef-Illustration-1-dark.svg" | relative_url }}" alt="Tinker Radar illustration 1" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_tinker_radar_claims_e492ef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_tinker_radar_claims_e492ef-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1965 flap made Tinker a test of radar credibility
 
-The strongest Tinker-linked UFO cluster is the summer [1965 Oklahoma flap]({{ '1965-flap/' | relative_url }}). The central claim is that sightings by police and civilians were accompanied by radar contacts at Tinker and, in some accounts, Carswell Air Force Base in Texas. This is why the episode still appears in Oklahoma UFO histories: it seems to join human testimony with technical detection.
+The strongest Tinker-linked UFO cluster is the summer 1965 Oklahoma flap. The central claim is that sightings by police and civilians were accompanied by radar contacts at Tinker and, in some accounts, Carswell Air Force Base in Texas. This is why the episode still appears in Oklahoma UFO histories: it seems to join human testimony with technical detection.
 
 A NICAP document on the [Wynnewood]({{ 'wynnewood/' | relative_url }}) report states that at about 1:05 a.m. on 31 July 1965, Wynnewood police officer Lewis Sikes reported an unidentified flying object north-east of Wynnewood. The same document says “simultaneous radar fixes” were obtained by Tinker AFB in Oklahoma City and Carswell AFB in Fort Worth, and that Sikes and his wife watched the object for an extended period. It also describes the object as white with a blue-green centre and a red rotating light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/650730wynnewood_docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">650730wynnewood docs</span><span class="citation-popover-snippet">650730wynnewood docs</span></span></span>
 
@@ -293,7 +291,6 @@ That last detail is crucial. If an airliner near the claimed area did not see th
 Later local accounts repeat the 1965 pattern in a more public-facing way. Edmond Life & Leisure’s retrospective says Tinker picked up an unidentified blip at the time of the Wynnewood sighting, tracked it at 8,000 feet, and later reported tracking four UFOs at 22,000 feet during the following night’s wave of calls. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[edmondlifeandleisure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">edmond underground in edmond abuzz with uco sightings p10350 87</span><span class="citation-popover-snippet">edmond underground in edmond abuzz with uco sightings p10350 87</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oklahomahistory.net/ufo-scare-1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oklahomahistory.net">[OklahomaHistory.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oklahomahistory.net</span><span class="citation-popover-title">ufo scare 1965</span><span class="citation-popover-snippet">ufo scare 1965</span></span></span> similarly describes the 1965 scare as a period when reports spread across the state and says the Wynnewood sighting was “verified” by Tinker and Carswell. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oklahomahistory.net/ufo-scare-1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oklahomahistory.net">[oklahomahistory.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oklahomahistory.net</span><span class="citation-popover-title">ufo scare 1965</span><span class="citation-popover-snippet">ufo scare 1965</span></span></span>
 
 The word “verified” needs careful handling. In UFO writing, it is often used loosely to mean that a radar operator, police dispatcher or official source reported something unusual at about the same time. It does not necessarily mean the object was identified as a structured craft, physically confirmed, photographed, intercepted or explained as something beyond known technology.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tU7WSHZye5w" title="Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer">Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 68.0K &middot; Uploaded: March 2025 &middot; Length: 1 hour 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tU7WSHZye5w">Open on YouTube</a></p></div></div></div>
 
@@ -309,8 +306,7 @@ This does not debunk the 1965 Tinker claims by itself. The surviving accounts do
 
 For a strong radar-UFO case, a reader would want several things at once: precise radar logs, operator statements, equipment type, time synchronisation, weather data, aircraft traffic checks, witness bearings, and an explanation of how the radar target and visual object were matched. The Tinker-linked stories have some of those elements in fragmentary form, but not enough to remove uncertainty.
 
-
-<img src="{{ "/assets/images/Oklahoma_86daa4_tinker_radar_claims_e492ef-Illustration-2-light.svg" | relative_url }}" alt="Tinker Radar illustration 2" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_tinker_radar_claims_e492ef-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_tinker_radar_claims_e492ef-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oklahoma_86daa4_tinker_radar_claims_e492ef-Illustration-2-dark.svg" | relative_url }}" alt="Tinker Radar illustration 2" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_tinker_radar_claims_e492ef-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_tinker_radar_claims_e492ef-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Air Force explanation created its own problem
 
 The 1965 Oklahoma reports became controversial partly because the official explanation seemed too blunt for the complexity of the claims. Project Blue Book’s handling of the wider 1965 Midwest and southern sightings has often been criticised because some reports involving police witnesses and radar were publicly reduced to astronomical explanations such as Jupiter or bright stars.
@@ -322,7 +318,6 @@ A congressional-hearing record from the period preserves how the dispute entered
 That distinction is the heart of the Tinker problem. There may have been visual reports. There may have been radar returns. The unresolved question is whether they were truly the same event. If the radar and visual evidence did not line up in time, location and movement, the case weakens. If they did line up, the Air Force’s broad astronomical explanation becomes less convincing, because ordinary radar does not detect planets or stars.
 
 This is why Tinker’s role should be described as contested rather than decisive. The base’s radar claims made the Oklahoma flap harder to dismiss casually, but the surviving public record also leaves room for the Air Force’s narrower point: some radar returns and some visual sightings may have been different things grouped together during a fast-moving public scare.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ac3hYt3k-Eo" title="The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer">The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 149.6K &middot; Uploaded: July 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ac3hYt3k-Eo">Open on YouTube</a></p></div></div></div>
 
@@ -336,8 +331,7 @@ That does not prove nothing happened. Records can be lost, misfiled, dated diffe
 
 It also illustrates a common problem in UFO history: a later letter, secondary index or enthusiast summary can preserve the shape of a dramatic incident more strongly than the official documentation preserves the incident itself. Readers should not ignore such leads, but they should not treat them as equivalent to complete radar logs or contemporaneous operational records.
 
-
-<img src="{{ "/assets/images/Oklahoma_86daa4_tinker_radar_claims_e492ef-Illustration-3-light.svg" | relative_url }}" alt="Tinker Radar illustration 3" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_tinker_radar_claims_e492ef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_tinker_radar_claims_e492ef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oklahoma_86daa4_tinker_radar_claims_e492ef-Illustration-3-dark.svg" | relative_url }}" alt="Tinker Radar illustration 3" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_tinker_radar_claims_e492ef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_tinker_radar_claims_e492ef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aircraft, weather and data gaps as explanations
 
 Tinker’s setting makes ordinary explanations more likely, not less. The area around Oklahoma City has military aircraft, civil traffic, maintenance operations, training activity, weather effects and public awareness of the base. A strange light near a military installation may attract more attention precisely because people assume the base should know what it is.
@@ -351,7 +345,6 @@ Several explanation paths are worth keeping separate.
 **Radar ambiguity.** Radar returns need interpretation. The FAA guidance on surveillance systems shows that radar coverage, target size, transponders, ADS-B, terrain and equipment all affect what appears to controllers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 5. Surveillance Systems</span><span class="citation-popover-snippet">Federal Aviation Administration Section 5. Surveillance Systems</span></span></span> NOAA’s discussion of anomalous propagation shows why a radar-like technical claim can still be affected by atmosphere and false echoes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.roc.noaa.gov/public-documents/operations-branch/Data_Quality_Oddities_and_Anomalies.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roc.noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roc.noaa.gov</span><span class="citation-popover-title">Data Quality Oddities and Anomalies</span><span class="citation-popover-snippet">Data Quality Oddities and Anomalies</span></span></span>
 
 **Documentation gaps.** The most important weakness in the Tinker radar stories is not witness sincerity. It is the lack of a complete public technical chain. The reader rarely gets the original radar scope imagery, raw logs, controller transcripts, equipment status, weather profile and aircraft traffic correlation in one place. Without that chain, the cases remain historically interesting but scientifically underpowered.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rzlel8Z9oSU" title="UFO incident at Edwards Air Force Base (audio &amp; transcript)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rzlel8Z9oSU" target="_blank" rel="noopener noreferrer">UFO incident at Edwards Air Force Base (audio &amp; transcript)</a></p><p class="youtube-embed-meta">Channel: Kaye Wilson &middot; Views: 488 &middot; Uploaded: December 2017 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rzlel8Z9oSU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rzlel8Z9oSU">Open on YouTube</a></p></div></div></div>
 
@@ -785,177 +778,177 @@ The most balanced reading is that Tinker gave Oklahoma UFO history a serious avi
 1. <a id="endnote-1"></a>
    Source: tinker.af.mil  
    Title: Tinker Air Force Base  
-   Link: [https://www.tinker.af.mil/About-Tinker/Fact-Sheets/Display/Article/384766/tinker-air-force-base-fact-sheet/](https://www.tinker.af.mil/About-Tinker/Fact-Sheets/Display/Article/384766/tinker-air-force-base-fact-sheet/)  
+   Link: <a href="https://www.tinker.af.mil/About-Tinker/Fact-Sheets/Display/Article/384766/tinker-air-force-base-fact-sheet/" target="_blank" rel="noopener noreferrer nofollow">https://www.tinker.af.mil/About-Tinker/Fact-Sheets/Display/Article/384766/tinker-air-force-base-fact-sheet/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact Sheet &gt; Tinker Air Force Base &gt; Display...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 3. <a id="endnote-3"></a>
    Source: nicap.org  
    Title: 650730wynnewood docs  
-   Link: [https://www.nicap.org/docs/650730wynnewood_docs.pdf](https://www.nicap.org/docs/650730wynnewood_docs.pdf)  
+   Link: <a href="https://www.nicap.org/docs/650730wynnewood_docs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/650730wynnewood_docs.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: edmondlifeandleisure.com  
    Title: edmond underground in edmond abuzz with uco sightings p10350 87  
-   Link: [https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm](https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm)  
+   Link: <a href="https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm" target="_blank" rel="noopener noreferrer nofollow">https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm</a>  
 
 5. <a id="endnote-5"></a>
    Source: oklahomahistory.net  
    Title: ufo scare 1965  
-   Link: [https://oklahomahistory.net/ufo-scare-1965/](https://oklahomahistory.net/ufo-scare-1965/)  
+   Link: <a href="https://oklahomahistory.net/ufo-scare-1965/" target="_blank" rel="noopener noreferrer nofollow">https://oklahomahistory.net/ufo-scare-1965/</a>  
 
 6. <a id="endnote-6"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Section 5. Surveillance Systems  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap4_section_5.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: noaa.gov  
    Title: anomalous propagation  
-   Link: [https://www.noaa.gov/jetstream/anomalous-propagation](https://www.noaa.gov/jetstream/anomalous-propagation)  
+   Link: <a href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/anomalous-propagation</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 9. <a id="endnote-9"></a>
    Source: archive.org  
    Title: ufo 1966 1 djvu.txt  
-   Link: [https://archive.org/stream/ufo_1966_1/ufo_1966_1_djvu.txt](https://archive.org/stream/ufo_1966_1/ufo_1966_1_djvu.txt)  
+   Link: <a href="https://archive.org/stream/ufo_1966_1/ufo_1966_1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ufo_1966_1/ufo_1966_1_djvu.txt</a>  
 
 10. <a id="endnote-10"></a>
    Source: nicap.org  
    Title: 540828tinker docs  
-   Link: [https://www.nicap.org/docs/540828tinker_docs.pdf](https://www.nicap.org/docs/540828tinker_docs.pdf)  
+   Link: <a href="https://www.nicap.org/docs/540828tinker_docs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/540828tinker_docs.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/press/oklahomajournal2aug1965.htm](https://ufologie.patrickgross.org/press/oklahomajournal2aug1965.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/press/oklahomajournal2aug1965.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/oklahomajournal2aug1965.htm</a>  
 
 12. <a id="endnote-12"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html](https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim/aim0405.html</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/552nd_Air_Control_Group](https://en.wikipedia.org/wiki/552nd_Air_Control_Group)  
+   Link: <a href="https://en.wikipedia.org/wiki/552nd_Air_Control_Group" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/552nd_Air_Control_Group</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/552nd_Air_Control_Wing](https://en.wikipedia.org/wiki/552nd_Air_Control_Wing)  
+   Link: <a href="https://en.wikipedia.org/wiki/552nd_Air_Control_Wing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/552nd_Air_Control_Wing</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Oklahoma City Air Logistics Complex  
-   Link: [https://en.wikipedia.org/wiki/Oklahoma_City_Air_Logistics_Complex](https://en.wikipedia.org/wiki/Oklahoma_City_Air_Logistics_Complex)  
+   Link: <a href="https://en.wikipedia.org/wiki/Oklahoma_City_Air_Logistics_Complex" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Oklahoma_City_Air_Logistics_Complex</a>  
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Anomalous propagation  
-   Link: [https://en.wikipedia.org/wiki/Anomalous_propagation](https://en.wikipedia.org/wiki/Anomalous_propagation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalous_propagation</a>  
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Secondary surveillance radar  
-   Link: [https://en.wikipedia.org/wiki/Secondary_surveillance_radar](https://en.wikipedia.org/wiki/Secondary_surveillance_radar)  
+   Link: <a href="https://en.wikipedia.org/wiki/Secondary_surveillance_radar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Secondary_surveillance_radar</a>  
 
 18. <a id="endnote-18"></a>
    Source: media.defense.gov  
    Title: AFD 100525 065  
-   Link: [https://media.defense.gov/2010/May/25/2001330265/-1/-1/0/AFD-100525-065.pdf](https://media.defense.gov/2010/May/25/2001330265/-1/-1/0/AFD-100525-065.pdf)  
+   Link: <a href="https://media.defense.gov/2010/May/25/2001330265/-1/-1/0/AFD-100525-065.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/May/25/2001330265/-1/-1/0/AFD-100525-065.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: media.defense.gov  
    Title: CATEGORY C Tinker January  
-   Link: [https://media.defense.gov/2006/Dec/28/2001453570/-1/-1/0/CATEGORY%20C_Tinker_January.pdf](https://media.defense.gov/2006/Dec/28/2001453570/-1/-1/0/CATEGORY%20C_Tinker_January.pdf)  
+   Link: <a href="https://media.defense.gov/2006/Dec/28/2001453570/-1/-1/0/CATEGORY%20C_Tinker_January.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2006/Dec/28/2001453570/-1/-1/0/CATEGORY%20C_Tinker_January.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: ia601405.us.archive.org  
-   Link: [https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf](https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf)  
+   Link: <a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/ryanreporter271303ryan/ryanreporter271303ryan_djvu.txt](https://archive.org/stream/ryanreporter271303ryan/ryanreporter271303ryan_djvu.txt)  
+   Link: <a href="https://archive.org/stream/ryanreporter271303ryan/ryanreporter271303ryan_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ryanreporter271303ryan/ryanreporter271303ryan_djvu.txt</a>  
 
 22. <a id="endnote-22"></a>
    Source: archive.org  
    Title: UFO Magazine Annual 1967 djvu.txt  
-   Link: [https://archive.org/stream/UFO_Magazine_Annual_1967/UFO_Magazine_Annual_1967_djvu.txt](https://archive.org/stream/UFO_Magazine_Annual_1967/UFO_Magazine_Annual_1967_djvu.txt)  
+   Link: <a href="https://archive.org/stream/UFO_Magazine_Annual_1967/UFO_Magazine_Annual_1967_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UFO_Magazine_Annual_1967/UFO_Magazine_Annual_1967_djvu.txt</a>  
 
 23. <a id="endnote-23"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: roc.noaa.gov  
    Title: Data Quality Oddities and Anomalies  
-   Link: [https://www.roc.noaa.gov/public-documents/operations-branch/Data_Quality_Oddities_and_Anomalies.pdf](https://www.roc.noaa.gov/public-documents/operations-branch/Data_Quality_Oddities_and_Anomalies.pdf)  
+   Link: <a href="https://www.roc.noaa.gov/public-documents/operations-branch/Data_Quality_Oddities_and_Anomalies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.roc.noaa.gov/public-documents/operations-branch/Data_Quality_Oddities_and_Anomalies.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: bluebookfiles.org  
-   Link: [https://bluebookfiles.org/doc/6258](https://bluebookfiles.org/doc/6258)  
+   Link: <a href="https://bluebookfiles.org/doc/6258" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/6258</a>  
 
 26. <a id="endnote-26"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 27. <a id="endnote-27"></a>
    Source: internationalufobureau.com  
-   Link: [https://www.internationalufobureau.com/pastinvestigations/1965flap](https://www.internationalufobureau.com/pastinvestigations/1965flap)  
+   Link: <a href="https://www.internationalufobureau.com/pastinvestigations/1965flap" target="_blank" rel="noopener noreferrer nofollow">https://www.internationalufobureau.com/pastinvestigations/1965flap</a>  
 
 28. <a id="endnote-28"></a>
    Source: military-history.fandom.com  
    Title: Project Blue Book  
-   Link: [https://military-history.fandom.com/wiki/Project_Blue_Book](https://military-history.fandom.com/wiki/Project_Blue_Book)  
+   Link: <a href="https://military-history.fandom.com/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Project_Blue_Book</a>  
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Ac3hYt3k-Eo](https://www.youtube.com/watch?v=Ac3hYt3k-Eo)  
+   Link: <a href="https://www.youtube.com/watch?v=Ac3hYt3k-Eo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ac3hYt3k-Eo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kecksburg UFO Crash: The Untold Story | The Government Lied! | Full Documentary | UFOTV®...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=tU7WSHZye5w](https://www.youtube.com/watch?v=tU7WSHZye5w)  
+   Link: <a href="https://www.youtube.com/watch?v=tU7WSHZye5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tU7WSHZye5w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Exposed (2020) [Documentary]...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: UFO incident at Edwards Air Force Base (audio & transcript)  
-   Link: [https://www.youtube.com/watch?v=rzlel8Z9oSU](https://www.youtube.com/watch?v=rzlel8Z9oSU)  
+   Link: <a href="https://www.youtube.com/watch?v=rzlel8Z9oSU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rzlel8Z9oSU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious 1965 UFO Crash | Beyond Skinwalker Ranch (S3) | History...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
 33. <a id="endnote-33"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf](https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/332254869_Surveillance_Radar_System_Limitations_and_the_Advent_of_the_Automatic_Dependent_Surveillance_Broadcast_system_for_Aircraft_Monitoring](https://www.researchgate.net/publication/332254869_Surveillance_Radar_System_Limitations_and_the_Advent_of_the_Automatic_Dependent_Surveillance_Broadcast_system_for_Aircraft_Monitoring)  
+   Link: <a href="https://www.researchgate.net/publication/332254869_Surveillance_Radar_System_Limitations_and_the_Advent_of_the_Automatic_Dependent_Surveillance_Broadcast_system_for_Aircraft_Monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332254869_Surveillance_Radar_System_Limitations_and_the_Advent_of_the_Automatic_Dependent_Surveillance_Broadcast_system_for_Aircraft_Monitoring</a>  
 
 36. <a id="endnote-36"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/552daircontrolwing/](https://www.instagram.com/552daircontrolwing/)  
+   Link: <a href="https://www.instagram.com/552daircontrolwing/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/552daircontrolwing/</a>  
 
 37. <a id="endnote-37"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/129803577/A_Concise_History_of_the_USAF_UFO_Programs](https://www.academia.edu/129803577/A_Concise_History_of_the_USAF_UFO_Programs)  
+   Link: <a href="https://www.academia.edu/129803577/A_Concise_History_of_the_USAF_UFO_Programs" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/129803577/A_Concise_History_of_the_USAF_UFO_Programs</a>  
 
 38. <a id="endnote-38"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/113740171/Searching-the-Skies-The-Legacy-of-the-United-States-Cold-War-Defense-Radar-Program](https://www.scribd.com/document/113740171/Searching-the-Skies-The-Legacy-of-the-United-States-Cold-War-Defense-Radar-Program)  
+   Link: <a href="https://www.scribd.com/document/113740171/Searching-the-Skies-The-Legacy-of-the-United-States-Cold-War-Defense-Radar-Program" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/113740171/Searching-the-Skies-The-Legacy-of-the-United-States-Cold-War-Defense-Radar-Program</a>

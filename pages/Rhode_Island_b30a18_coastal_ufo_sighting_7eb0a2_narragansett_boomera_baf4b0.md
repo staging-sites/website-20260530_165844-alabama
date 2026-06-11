@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /coastal-lights-f14302/
 nav_short_title: Beach Boomerang
 title: Did the Narragansett boomerang really rush overhead?
-title_full: Did the Narragansett boomerang really rush overhead? | Coastal Lights
+title_full: Did the Narragansett boomerang really rush overhead?
 display_title_short: Beach Boomerang
 display_title: Beach Boomerang
 heading_title: Did the Narragansett boomerang really rush overhead?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:09:34'
-parent_title: Why Rhode Island's Coast Makes UFOs Harder | Rhode Island UFOs
+parent_title: Why Rhode Island's Coast Makes UFOs Harder
 parent_permalink: /coastal-lights-f14302/
 parent_nav_short_title: Coastal Lights
 parent_heading_title: Why Rhode Island's Coast Makes UFOs Harder
@@ -250,10 +250,9 @@ image: /assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_narraganse
 
 ## Introduction
 
-The Narragansett Beach “boomerang” report is one of the more dramatic [Rhode Island]({{ 'what-rhode-islands-ufo-reports-really/' | relative_url }}) shoreline UFO accounts because it appears to describe a distant object that suddenly rushed overhead, changed direction and vanished at extraordinary speed. Yet the same detail that makes the story impressive is also the reason many investigators treat it cautiously: the witness’s estimate of distance. If the object was genuinely “many miles offshore”, the reported movement implies an enormous craft performing extreme manoeuvres. If the original distance estimate was wrong, the apparent acceleration, size and speed become much harder to interpret. In Rhode Island’s coastal UFO history, the case is a useful example of how sincere observations over dark water can produce striking conclusions from uncertain visual clues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=68466" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 68466August 20, 2023 — We spotted a tiny boomerang shaped object with five greenish blue lights hovering what l...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+The Narragansett Beach “boomerang” report is one of the more dramatic Rhode Island shoreline UFO accounts because it appears to describe a distant object that suddenly rushed overhead, changed direction and vanished at extraordinary speed. Yet the same detail that makes the story impressive is also the reason many investigators treat it cautiously: the witness’s estimate of distance. If the object was genuinely “many miles offshore”, the reported movement implies an enormous craft performing extreme manoeuvres. If the original distance estimate was wrong, the apparent acceleration, size and speed become much harder to interpret. In Rhode Island’s coastal UFO history, the case is a useful example of how sincere observations over dark water can produce striking conclusions from uncertain visual clues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=68466" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 68466August 20, 2023 — We spotted a tiny boomerang shaped object with five greenish blue lights hovering what l...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
-
-<img src="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_narragansett_boomera_baf4b0-Illustration-1-light.svg" | relative_url }}" alt="Beach Boomerang illustration 1" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_narragansett_boomera_baf4b0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_narragansett_boomera_baf4b0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_narragansett_boomera_baf4b0-Illustration-1-dark.svg" | relative_url }}" alt="Beach Boomerang illustration 1" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_narragansett_boomera_baf4b0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_narragansett_boomera_baf4b0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the witness reported from Narragansett Beach
 
 According to the report submitted to the National UFO Reporting Center (NUFORC), observers at Narragansett Beach were looking towards Newport when they noticed what appeared to be a small boomerang-shaped object carrying five greenish-blue lights. The witness said it seemed to be hovering far offshore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lRI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State RINUFORC Reports for State RI.; Open, 06/29/2024 23:21, Narragansett; Open, 06/20/2024 09:30, Cranston; Open...</span></span></span>
@@ -261,7 +260,6 @@ According to the report submitted to the National UFO Reporting Center (NUFORC),
 The account then becomes much more dramatic. The object reportedly began moving towards the observers while growing in apparent size. The witness estimated that it eventually appeared roughly 100 yards wide and almost directly overhead. According to the report, it then pivoted, reversed course and accelerated back towards the ocean, disappearing within one or two seconds. The sighting was posted in March 2009. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=71738" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 71738NUFORC UFO Sighting 71738... Two blue-green smokey streaks of light forming large boomerang shape shot across a...</span></span></span>
 
 Several features explain why the report continues to attract attention among Rhode Island UFO enthusiasts:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -285,9 +283,7 @@ In the Narragansett case, the witness first described the object as appearing �
 
 Consider the chain of reasoning implied by the report:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rO_M0hLlJ-Q" title="Watch the Pentagon&#x27;s three declassified UFO videos taken by U.S. Navy pilots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rO_M0hLlJ-Q" target="_blank" rel="noopener noreferrer">Watch the Pentagon&#x27;s three declassified UFO videos taken by U.S. Navy pilots</a></p><p class="youtube-embed-meta">Channel: CNBC Television &middot; Views: 3.5M &middot; Uploaded: April 2020 &middot; Length: 1 minute 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rO_M0hLlJ-Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rO_M0hLlJ-Q">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -317,8 +313,7 @@ For example, an object thought to be hundreds of metres away may be interpreted 
 
 This does not prove the object was ordinary. It simply means the reported dimensions are not independent evidence. They are derived from the same uncertain distance judgement that already sits at the centre of the case.
 
-
-<img src="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_narragansett_boomera_baf4b0-Illustration-2-light.svg" | relative_url }}" alt="Beach Boomerang illustration 2" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_narragansett_boomera_baf4b0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_narragansett_boomera_baf4b0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_narragansett_boomera_baf4b0-Illustration-2-dark.svg" | relative_url }}" alt="Beach Boomerang illustration 2" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_narragansett_boomera_baf4b0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_narragansett_boomera_baf4b0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why an apparent overhead pass can be misleading
 
 Another key question is whether the object truly passed overhead.
@@ -328,7 +323,6 @@ Witnesses often describe lights as moving directly above them when the object is
 The Narragansett account relies on a sequence in which the object starts far offshore, arrives overhead and then departs back towards the ocean. If the original offshore position was misjudged, the geometry becomes less clear.
 
 A light or aircraft approaching from an angle can create several visual impressions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -342,7 +336,6 @@ A light or aircraft approaching from an angle can create several visual impressi
 
 These effects are well known in night-time observation and do not require anyone to be dishonest or inattentive. They arise from the limitations of depth perception in darkness.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IbvorziWMm8" title="Reality Check with Ross Coulthart: Underwater UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IbvorziWMm8" target="_blank" rel="noopener noreferrer">Reality Check with Ross Coulthart: Underwater UFOs</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 880.9K &middot; Uploaded: December 2025 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IbvorziWMm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IbvorziWMm8">Open on YouTube</a></p></div></div></div>
 
 ## What evidence would strengthen the case
@@ -350,7 +343,6 @@ These effects are well known in night-time observation and do not require anyone
 The Narragansett report remains intriguing because it contains more detail than many brief UFO submissions. However, the evidence needed to confirm the witness's interpretation is largely absent.
 
 The case would be considerably stronger if it had included:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -366,14 +358,12 @@ The case would be considerably stronger if it had included:
 
 The most useful evidence would be triangulation from separate observers. If two people at different locations independently recorded the same object, investigators could estimate its actual position and altitude. Without that information, the central question of distance remains unresolved.
 
-
-<img src="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_narragansett_boomera_baf4b0-Illustration-3-light.svg" | relative_url }}" alt="Beach Boomerang illustration 3" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_narragansett_boomera_baf4b0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_narragansett_boomera_baf4b0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_narragansett_boomera_baf4b0-Illustration-3-dark.svg" | relative_url }}" alt="Beach Boomerang illustration 3" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_narragansett_boomera_baf4b0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2_narragansett_boomera_baf4b0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What evidence would weaken it
 
 The case becomes less extraordinary if evidence emerges that the initial range estimate was unreliable.
 
 Several findings would push the sighting towards a conventional explanation:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -387,8 +377,7 @@ Several findings would push the sighting towards a conventional explanation:
 
 Even if none of those explanations can be proven today, the absence of supporting data means the dramatic interpretation remains dependent on a single witness perspective rather than a reconstructed event.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oM9WfDBRNcg" title="UFO&#x27;s Are Real | FULL MOVIE | Aliens Sci-Fi Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oM9WfDBRNcg" target="_blank" rel="noopener noreferrer">UFO&#x27;s Are Real | FULL MOVIE | Aliens Sci-Fi Documentary</a></p><p class="youtube-embed-meta">Channel: Shout! Studios &middot; Views: 740.6K &middot; Uploaded: March 2026 &middot; Length: 1 hour 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oM9WfDBRNcg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oM9WfDBRNcg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mTSgT0mSVDE" title="Eerie green USOs seen moving beneath surface of ocean | Banfield" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mTSgT0mSVDE" target="_blank" rel="noopener noreferrer">Eerie green USOs seen moving beneath surface of ocean | Banfield</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 143.5K &middot; Uploaded: October 2025 &middot; Length: 4 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mTSgT0mSVDE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mTSgT0mSVDE">Open on YouTube</a></p></div></div></div>
 
 ## Why the report still matters in Rhode Island UFO history
 
@@ -396,7 +385,7 @@ The Narragansett boomerang report is valuable less because it proves an extraord
 
 The Narragansett account compresses that problem into a single narrative. A tiny object supposedly far away becomes a massive craft overhead and then vanishes at extreme speed. If the starting distance estimate was accurate, the report describes behaviour that would be difficult to explain conventionally. If the starting estimate was wrong, the entire chain of conclusions changes.
 
-That uncertainty does not make the witness account worthless. It makes it a cautionary example. Within Rhode Island's broader pattern of [coastal UFO sightings]({{ 'coastal-lights-f14302/' | relative_url }}), the Narragansett boomerang remains notable precisely because it shows how one uncertain assumption about range can transform lights over water into a seemingly impossible aerial event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=68466" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 68466August 20, 2023 — We spotted a tiny boomerang shaped object with five greenish blue lights hovering what l...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+That uncertainty does not make the witness account worthless. It makes it a cautionary example. Within Rhode Island's broader pattern of coastal UFO sightings, the Narragansett boomerang remains notable precisely because it shows how one uncertain assumption about range can transform lights over water into a seemingly impossible aerial event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=68466" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 68466August 20, 2023 — We spotted a tiny boomerang shaped object with five greenish blue lights hovering what l...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -484,95 +473,401 @@ That uncertainty does not make the witness account worthless. It makes it a caut
   </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-narragansett-boomerang-really-rush-overhead-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-narragansett-boomerang-really-rush-overhead-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-narragansett-boomerang-really-rush-overhead-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-narragansett-boomerang-really-rush-overhead-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-narragansett-boomerang-really-rush-overhead-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-narragansett-boomerang-really-rush-overhead-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-narragansett-boomerang-really-rush-overhead-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-narragansett-boomerang-really-rush-overhead-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-narragansett-boomerang-really-rush-overhead-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-narragansett-boomerang-really-rush-overhead-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-narragansett-boomerang-really-rush-overhead-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-narragansett-boomerang-really-rush-overhead-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-narragansett-boomerang-really-rush-overhead-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-narragansett-boomerang-really-rush-overhead-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-narragansett-boomerang-really-rush-overhead-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-narragansett-boomerang-really-rush-overhead-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-narragansett-boomerang-really-rush-overhead-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-narragansett-boomerang-really-rush-overhead-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-narragansett-boomerang-really-rush-overhead-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-narragansett-boomerang-really-rush-overhead-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-narragansett-boomerang-really-rush-overhead-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-narragansett-boomerang-really-rush-overhead-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-narragansett-boomerang-really-rush-overhead-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-narragansett-boomerang-really-rush-overhead-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-narragansett-boomerang-really-rush-overhead-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-narragansett-boomerang-really-rush-overhead-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-narragansett-boomerang-really-rush-overhead-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-narragansett-boomerang-really-rush-overhead-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-narragansett-boomerang-really-rush-overhead-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-narragansett-boomerang-really-rush-overhead-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-narragansett-boomerang-really-rush-overhead-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-narragansett-boomerang-really-rush-overhead-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-narragansett-boomerang-really-rush-overhead-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="did-the-narragansett-boomerang-really-rush-overhead-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=68466](https://nuforc.org/sighting/?id=68466)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 68466August 20, 2023 — We spotted a tiny boomerang shaped object with five greenish blue lights hovering what l...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=68466" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=68466</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 68466August 20, 2023 — We spotted a tiny boomerang shaped object with five greenish blue lights hovering what l...</p></details>
    Published: August 20, 2023  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lRI](https://nuforc.org/subndx/?id=lRI)  
+   Link: <a href="https://nuforc.org/subndx/?id=lRI" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lRI</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State RINUFORC Reports for State RI.; Open, 06/29/2024 23:21, Narragansett; Open, 06/20/2024 09:30, Cranston; Open...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=71738](https://nuforc.org/sighting/?id=71738)  
+   Link: <a href="https://nuforc.org/sighting/?id=71738" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=71738</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 71738NUFORC UFO Sighting 71738... Two blue-green smokey streaks of light forming large boomerang shape shot across a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=69370](https://nuforc.org/sighting/?id=69370)  
+   Link: <a href="https://nuforc.org/sighting/?id=69370" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=69370</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 69370NUFORC UFO Sighting 69370; Occurred: 2009-03-23 20:00 Local; Reported: 2009-03-24 19:37 Pacific; Duration: 30...</p></details>
    Published: March 23, 2009  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=120688](https://nuforc.org/sighting/?id=120688)  
+   Link: <a href="https://nuforc.org/sighting/?id=120688" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=120688</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 120688Red and blue light UFO over Cranston, Rhode Island, landing vertically in Narragansett Bay.... green lights yo...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sentientorbs.com  
    Title: NUFORC 68466  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-68466](https://sentientorbs.com/explore/sightings/NUFORC-68466)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-68466" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-68466</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>boomerang shaped object with 5 greenish lights growing in...15 Oct 1982 — We spotted a tiny boomerang shaped object with five greenish b...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: raw.githubusercontent.com  
-   Link: [https://raw.githubusercontent.com/lebebr01/iowa_data_science/master/data/ufo.csv](https://raw.githubusercontent.com/lebebr01/iowa_data_science/master/data/ufo.csv)  
+   Link: <a href="https://raw.githubusercontent.com/lebebr01/iowa_data_science/master/data/ufo.csv" target="_blank" rel="noopener noreferrer nofollow">https://raw.githubusercontent.com/lebebr01/iowa_data_science/master/data/ufo.csv</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>((NUFORC Note: Possible star?? PD))&quot;,&quot;12/12/14&quot; &quot;12/12/14 06:30&quot;,&quot;Isle... off shore of North Myrtle Beach SC&quot;,&quot;10/10/14&quot; &quot;10/8/14 21:09&quot;...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: inf.uni-hamburg.de  
-   Link: [https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data/mwe.txt](https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data/mwe.txt)  
+   Link: <a href="https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data/mwe.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data/mwe.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>uni-hamburg.dehere... over Snap up Squat down Step back Step forward Step out Strip away Strip... boomerang back boost ahead boost up bo...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: uvadoc.uva.es  
-   Link: [https://uvadoc.uva.es/bitstream/handle/10324/40575/Poetics-politics-US-literature.pdf?sequence=1](https://uvadoc.uva.es/bitstream/handle/10324/40575/Poetics-politics-US-literature.pdf?sequence=1)  
+   Link: <a href="https://uvadoc.uva.es/bitstream/handle/10324/40575/Poetics-politics-US-literature.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://uvadoc.uva.es/bitstream/handle/10324/40575/Poetics-politics-US-literature.pdf?sequence=1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>poetics and politics of hospitality in us literature and...We would also like to thank all the authors of the individual chapters for th...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: gist.github.com  
-   Link: [https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406](https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406)  
+   Link: <a href="https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406" target="_blank" rel="noopener noreferrer nofollow">https://gist.github.com/Yujia-Huo/a16c2c58f1e92a46d9055a14953a6406</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>github.comnuforc_reports.csvBright neon green boomerang wide v shaped craft hovering above ocean at New Symrna Beach... A straight line...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: gist.github.com  
-   Link: [https://gist.github.com/edf95408479193f230bf8c060943b54f](https://gist.github.com/edf95408479193f230bf8c060943b54f)  
+   Link: <a href="https://gist.github.com/edf95408479193f230bf8c060943b54f" target="_blank" rel="noopener noreferrer nofollow">https://gist.github.com/edf95408479193f230bf8c060943b54f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>github.comufo_small.csvTwo friends and i saw 9-10 balls of light forming a circle over the tree tops flying around on particular area in...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: scholars.unh.edu  
-   Link: [https://scholars.unh.edu/context/dissertation/article/3385/viewcontent/Nelson_unh_0141D_10616.pdf](https://scholars.unh.edu/context/dissertation/article/3385/viewcontent/Nelson_unh_0141D_10616.pdf)  
+   Link: <a href="https://scholars.unh.edu/context/dissertation/article/3385/viewcontent/Nelson_unh_0141D_10616.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scholars.unh.edu/context/dissertation/article/3385/viewcontent/Nelson_unh_0141D_10616.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNH Scholars Repositoryby DL Nelson · 2018 · Cited by 1 — Far and away, marine biologist Jim Carlton has had the biggest impact on this d...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/countrylife68gard/countrylife68gard_djvu.txt](https://archive.org/stream/countrylife68gard/countrylife68gard_djvu.txt)  
+   Link: <a href="https://archive.org/stream/countrylife68gard/countrylife68gard_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/countrylife68gard/countrylife68gard_djvu.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>efaces, breaks or injures any book, map...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: huggingface.co  
-   Link: [https://huggingface.co/Cherishh/wav2vec2-slu-1/resolve/refs%2Fpr%2F1/unigrams.txt?download=true](https://huggingface.co/Cherishh/wav2vec2-slu-1/resolve/refs%2Fpr%2F1/unigrams.txt?download=true)  
+   Link: <a href="https://huggingface.co/Cherishh/wav2vec2-slu-1/resolve/refs%2Fpr%2F1/unigrams.txt?download=true" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/Cherishh/wav2vec2-slu-1/resolve/refs%2Fpr%2F1/unigrams.txt?download=true</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ed beading beadle beadlock beads...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/tremaynehernandezmiyares/](https://www.instagram.com/tremaynehernandezmiyares/)  
+   Link: <a href="https://www.instagram.com/tremaynehernandezmiyares/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/tremaynehernandezmiyares/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tremayne Hernandez-Miyares (@...Nestled between dramatic cliffs, Porthcurno Cove offers soft sand and aquamarine waters that will light...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Mww3arniyt0](https://www.youtube.com/watch?v=Mww3arniyt0)  
+   Link: <a href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mww3arniyt0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eerie green USOs seen moving beneath surface of ocean | Banfield...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: puretranquilitypublishing.com  
    Title: ufo sightings 2011  
-   Link: [https://puretranquilitypublishing.com/ufo-sightings-2011/](https://puretranquilitypublishing.com/ufo-sightings-2011/)  
+   Link: <a href="https://puretranquilitypublishing.com/ufo-sightings-2011/" target="_blank" rel="noopener noreferrer nofollow">https://puretranquilitypublishing.com/ufo-sightings-2011/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flickericking red and green lights while hovering then quickly flew out of sight.... Quick Burst of Blue/Green light witnessed by at lea...</p></details>

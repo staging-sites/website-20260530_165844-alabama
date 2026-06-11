@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-south-dakotas/
 nav_short_title: Blue Book
 title: How Official Were South Dakota's UFO Explanations?
-title_full: How Official Were South Dakota's UFO Explanations? | South Dakota UFOs
+title_full: How Official Were South Dakota's UFO Explanations?
 display_title_short: Blue Book
 display_title: Blue Book
 heading_title: How Official Were South Dakota's UFO Explanations?
@@ -268,15 +268,14 @@ image: /assets/images/South_Dakota_ad4a41_blue_book_records_bab75d-overview-soci
 
 ## Introduction
 
-Project Blue Book matters to [South Dakota]({{ 'what-really-happened-in-south-dakotas/' | relative_url }})’s UFO history because it turned scattered sightings into official categories: aircraft, balloon, meteor, astronomical object, insufficient data, or unidentified. Those labels shaped how the state’s cases were remembered, but they did not always mean the evidence had been deeply tested. The clearest lesson from the South Dakota files is that an “official explanation” could range from a reasonable identification to a thin judgement made from incomplete witness forms, while an “unidentified” label meant only that the Air Force could not match the report to a known cause from the information it had. Nationally, Blue Book recorded 12,618 sightings from 1947 to 1969, of which 701 remained “Unidentified”; South Dakota’s surviving record is much smaller, but it shows the same strengths and weaknesses in miniature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National Archives...</span></span></span>
-
+Project Blue Book matters to South Dakota’s UFO history because it turned scattered sightings into official categories: aircraft, balloon, meteor, astronomical object, insufficient data, or unidentified. Those labels shaped how the state’s cases were remembered, but they did not always mean the evidence had been deeply tested. The clearest lesson from the South Dakota files is that an “official explanation” could range from a reasonable identification to a thin judgement made from incomplete witness forms, while an “unidentified” label meant only that the Air Force could not match the report to a known cause from the information it had. Nationally, Blue Book recorded 12,618 sightings from 1947 to 1969, of which 701 remained “Unidentified”; South Dakota’s surviving record is much smaller, but it shows the same strengths and weaknesses in miniature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National Archives...</span></span></span>
 
 <img src="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d-overview.webp" | relative_url }}" alt="Overview image for Blue Book" loading="eager" decoding="sync" fetchpriority="high">
 ## What Blue Book counted and preserved
 
 Project Blue Book was the United States Air Force’s long-running UFO investigation, based at Wright-Patterson Air Force Base in Ohio. Its stated task was not to prove or disprove every extraordinary claim, but to receive, investigate, document and evaluate reports, especially where they might involve national security, unusual technology, or public concern. Air Force material described the process as three stages: a local base investigation, more intensive review at the Blue Book office if no clear explanation emerged, and public release of evaluations and statistics through Air Force information channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Acquisition University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Acquisition University</span></span></span>
 
-For South Dakota, that meant reports could enter the federal system through nearby air bases, military observers, law enforcement, radar stations, pilots, weather observers, civilians, or Ground Observer Corps posts. The records were not a single polished narrative. They were case cards, teletype summaries, witness statements, status reports, consultant notes and later administrative material. The National Archives says the textual Blue Book records are held on 94 rolls of 35 mm microfilm, with photographs filmed separately on the final two rolls; South Dakota historian Lawrence H. Larsen noted that researchers had to work through chronological microfilm rolls and sometimes poor-quality filming to locate individual Great Plains cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National Archives...</span></span></span>
+For South Dakota, that meant reports could enter the federal system through nearby air bases, military observers, law enforcement, radar stations, pilots, weather observers, civilians, or Ground Observer Corps posts. The records were not a single polished narrative. They were case cards, teletype summaries, witness statements, status reports, consultant notes and later administrative material. The National Archives says the textual Blue Book records are held on 94 rolls of 35 mm microfilm, with photographs filmed separately on the final two rolls; South Dakota historian Lawrence H. Larsen noted that researchers had to work through chronological microfilm rolls and sometimes poor-quality filming to locate individual Great Plains cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National Archives...</span></span></span>
 
 That archival structure matters. A Blue Book record can prove that a report was received, logged and evaluated, but it does not automatically prove that the event itself was unusual. In many South Dakota cases, the official paper trail is stronger than the underlying evidence: the reader may see that an airman, student, ranger, controller or observer made a report, and that the Air Force assigned a conclusion, but not always enough raw data to judge the conclusion independently.
 
@@ -284,8 +283,7 @@ Blue Book’s own categories also need careful reading. Air Force explanatory ma
 
 That distinction is central to South Dakota. A weakly documented sighting could be dismissed as “insufficient data”, while a better-documented case could remain “unidentified”. But the line between those outcomes was not always clean. Larsen’s review of Great Plains files found that the quality of evidence in some “identified” South Dakota sightings was not obviously better than the evidence in cases where Blue Book said no definite judgement could be made. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">South Dakota Historical Society Press</span></span></span>
 
-
-<img src="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d-Illustration-1-light.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## South Dakota cases marked solved or insufficient
 
 The South Dakota files are useful because they show the ordinary machinery of official explanation. Most cases were not dramatic chases or famous mysteries. They were brief lights, discs, streaks, flashes, apparent formations, radar returns, or distant objects whose explanation depended on witness position, weather, timing, military traffic and astronomical checks.
@@ -302,7 +300,6 @@ The problem is that a plausible category was sometimes treated as if it were a d
 
 Those examples show why “insufficient data” should not be read as either a debunking or a mystery endorsement. It is often a record-management outcome. The Air Force could not prove a conventional answer, but it also did not have enough information to justify a stronger unknown classification.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_xyesq1k3Ns" title="Project Blue Book - 1969| Movietone Moment | 17 December 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_xyesq1k3Ns" target="_blank" rel="noopener noreferrer">Project Blue Book - 1969| Movietone Moment | 17 December 2021</a></p><p class="youtube-embed-meta">Channel: British Movietone &middot; Views: 20.1K &middot; Uploaded: December 2021 &middot; Length: 1 minute 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_xyesq1k3Ns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_xyesq1k3Ns">Open on YouTube</a></p></div></div></div>
 
 ## The unresolved label was narrower than many readers assume
@@ -315,8 +312,7 @@ At the same time, the Rapid City/Ellsworth radar-visual episode remains the stat
 
 The safest reading is cautious. Rapid City/Ellsworth is important because it shows the Air Force taking a South Dakota sighting seriously enough to investigate through radar, ground observers and fighter interception. It is not, by itself, proof of an extraordinary craft. White Lake is important because it appears in Larsen’s review as the state’s one officially listed “unidentified” case. The contrast between them is a useful warning: later fame, official attention and final Blue Book classification are not always the same thing.
 
-
-<img src="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d-Illustration-2-light.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why an official answer was not always a strong answer
 
 An Air Force conclusion carried institutional authority, but its strength depended on the quality of the incoming report. South Dakota’s files show three recurring limits.
@@ -327,19 +323,16 @@ Second, some explanations were based on pattern matching rather than full recons
 
 Third, the official process had public-pressure and national-security aims as well as scientific aims. Air Force material said Blue Book’s objectives included determining whether UFOs posed a threat to the United States and whether they displayed unique scientific or technological information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/bluebookdesk/pbb-locufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span> That is not the same as running an open-ended scientific inquiry into every puzzling light. The programme was built to triage reports, reduce uncertainty where possible and reassure officials and the public when no threat appeared.
 
-The national closure of Blue Book reinforces this point. The Air Force ended the programme after the University of Colorado’s Condon study, a National Academy of Sciences review, earlier UFO studies and Air Force experience. Its final public conclusions were that no investigated and evaluated UFO had indicated a national-security threat, no evidence showed technology beyond modern scientific knowledge, and no evidence indicated extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National Archives...</span></span></span> The Condon Report itself argued that UFO studies had not proved a fruitful path for scientific advance, while still allowing that scientists with clear, specific research proposals should not be barred from pursuing them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS PDF Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">PDF Directory</span><span class="citation-popover-snippet">Condon Report, Section I: Conclusions &amp; Recommendations...</span></span></span>
+The national closure of Blue Book reinforces this point. The Air Force ended the programme after the University of Colorado’s Condon study, a National Academy of Sciences review, earlier UFO studies and Air Force experience. Its final public conclusions were that no investigated and evaluated UFO had indicated a national-security threat, no evidence showed technology beyond modern scientific knowledge, and no evidence indicated extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National Archives...</span></span></span> The Condon Report itself argued that UFO studies had not proved a fruitful path for scientific advance, while still allowing that scientists with clear, specific research proposals should not be barred from pursuing them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS PDF Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">PDF Directory</span><span class="citation-popover-snippet">Condon Report, Section I: Conclusions &amp; Recommendations...</span></span></span>
 
 For South Dakota readers, the implication is modest but important. Blue Book’s closure did not mean every South Dakota sighting had been conclusively solved. It meant the Air Force judged the overall programme no longer justified for national security or scientific purposes.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kvkpX-ucTSc" title="17th December 1969: Project Blue Book, the United States&#x27; study of UFOs, officially terminated" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kvkpX-ucTSc" target="_blank" rel="noopener noreferrer">17th December 1969: Project Blue Book, the United States&#x27; study of UFOs, officially terminated</a></p><p class="youtube-embed-meta">Channel: HistoryPod &middot; Views: 572 &middot; Uploaded: December 2023 &middot; Length: 2 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kvkpX-ucTSc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kvkpX-ucTSc">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the South Dakota files are best used for
 
 The Blue Book record is strongest as a map of official handling, not as a final court verdict on every sighting. It helps answer practical historical questions: which South Dakota reports reached the Air Force, which explanations were favoured, which cases were left weak or uncertain, and how Ellsworth Air Force Base, Rapid City and Ground Observer Corps channels entered the federal UFO system.
 
 The records also help separate three kinds of case that are often blurred together:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -351,8 +344,8 @@ The records also help separate three kinds of case that are often blurred togeth
 
 South Dakota’s Blue Book legacy sits mostly in the second category, with a smaller number of solved cases and a still smaller number of unresolved ones. That does not make the state unimportant. It makes it a useful example of how official UFO history actually worked: most files were not spectacular secrets, but messy records of human observation, military procedure, incomplete data and sometimes overconfident explanation.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kvkpX-ucTSc" title="17th December 1969: Project Blue Book, the United States&#x27; study of UFOs, officially terminated" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kvkpX-ucTSc" target="_blank" rel="noopener noreferrer">17th December 1969: Project Blue Book, the United States&#x27; study of UFOs, officially terminated</a></p><p class="youtube-embed-meta">Channel: HistoryPod &middot; Views: 572 &middot; Uploaded: December 2023 &middot; Length: 2 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kvkpX-ucTSc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kvkpX-ucTSc">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d-Illustration-3-light.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read the official explanations today
 
 A careful reader should treat a South Dakota Blue Book entry as the beginning of interpretation, not the end. The most useful question is not “Did the Air Force solve it?” but “How well does the explanation follow from the evidence in the file?”
@@ -360,10 +353,6 @@ A careful reader should treat a South Dakota Blue Book entry as the beginning of
 A strong official explanation should show the relevant timing, direction, weather, object behaviour, witness reliability and comparison with known traffic or astronomical conditions. A weaker one may simply attach a label that is possible but under-supported. An “insufficient data” conclusion may be intellectually honest, because it admits that the evidence is too thin. An “unidentified” conclusion is more interesting, but still limited: it means the case resisted identification within the Air Force process, not that an extraordinary origin has been established.
 
 That is the balanced value of Project Blue Book for South Dakota. It preserves a state-level record of sightings around open skies, military facilities and ordinary communities, while also showing the limits of federal UFO investigation. Its files can weaken exaggerated claims by revealing likely mundane causes. They can also weaken overconfident dismissals by showing how little evidence sometimes stood behind an official answer.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W89jh2C2Ry8" title="&#x27;Project Blue Book&#x27; Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W89jh2C2Ry8" target="_blank" rel="noopener noreferrer">&#x27;Project Blue Book&#x27; Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series</a></p><p class="youtube-embed-meta">Channel: SHOWTIME &middot; Views: 290.8K &middot; Uploaded: August 2021 &middot; Length: 1 minute 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W89jh2C2Ry8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W89jh2C2Ry8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -451,7 +440,7 @@ That is the balanced value of Project Blue Book for South Dakota. It preserves a
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -461,111 +450,36 @@ That is the balanced value of Project Blue Book for South Dakota. It preserves a
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT"><img src="{{ '/assets/images/marketplace-covers/c4fa2fd111d52b7bddcf.jpg' | relative_url }}" alt="Listing image for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display"><img src="{{ '/assets/images/marketplace-covers/27c78e3de724e607809d.jpg' | relative_url }}" alt="Listing image for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -573,15 +487,15 @@ That is the balanced value of Project Blue Book for South Dakota. It preserves a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -589,15 +503,15 @@ That is the balanced value of Project Blue Book for South Dakota. It preserves a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/ecc3da59eb1d0848e57f.jpg' | relative_url }}" alt="Listing image for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -605,15 +519,15 @@ That is the balanced value of Project Blue Book for South Dakota. It preserves a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -621,7 +535,7 @@ That is the balanced value of Project Blue Book for South Dakota. It preserves a
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-eb3f6b-how-official-were-south-dakota-s-ufo-explanations-south-dakota-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-official-were-south-dakota-s-ufo-explanations-ufo-poster-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -698,17 +612,31 @@ That is the balanced value of Project Blue Book for South Dakota. It preserves a
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -721,42 +649,73 @@ That is the balanced value of Project Blue Book for South Dakota. It preserves a
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -771,12 +730,17 @@ That is the balanced value of Project Blue Book for South Dakota. It preserves a
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -787,170 +751,170 @@ That is the balanced value of Project Blue Book for South Dakota. It preserves a
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National Archives...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: esd.whs.mil  
    Title: Defense Acquisition University  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
 
 3. <a id="endnote-3"></a>
    Source: documents.theblackvault.com  
    Title: The Black Vault  
-   Link: [https://documents.theblackvault.com/bluebookdesk/pbb-locufo.pdf](https://documents.theblackvault.com/bluebookdesk/pbb-locufo.pdf)  
+   Link: <a href="https://documents.theblackvault.com/bluebookdesk/pbb-locufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/bluebookdesk/pbb-locufo.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: sdhspress.com  
    Title: South Dakota Historical Society Press  
-   Link: [https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf](https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf)  
+   Link: <a href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: files.ncas.org  
    Title: PDF Directory  
-   Link: [https://files.ncas.org/condon/text/sec-i.htm](https://files.ncas.org/condon/text/sec-i.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/sec-i.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Section I: Conclusions &amp; Recommendations...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: [https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf](https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: ia800501.us.archive.org  
    Title: Edward J Ruppelt The Report on Unidentified Flying Objects  
-   Link: [https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf](https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf)  
+   Link: <a href="https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/C.D.B.%20Bryan%20-%20Close%20Encounters%20of%20the%20Fourth%20Kind_djvu.txt](https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/C.D.B.%20Bryan%20-%20Close%20Encounters%20of%20the%20Fourth%20Kind_djvu.txt)  
+   Link: <a href="https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/C.D.B.%20Bryan%20-%20Close%20Encounters%20of%20the%20Fourth%20Kind_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/C.D.B.%20Bryan%20-%20Close%20Encounters%20of%20the%20Fourth%20Kind_djvu.txt</a>  
 
 11. <a id="endnote-11"></a>
    Source: dn721804.ca.archive.org  
    Title: Bad UFOs critical thinking about UFO claims  
-   Link: [https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf](https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf)  
+   Link: <a href="https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/secret-journey-to-planet-serpo-pdfdrive/Secret%20Journey%20to%20Planet%20Serpo%20%28%20PDFDrive%20%29_djvu.txt](https://archive.org/stream/secret-journey-to-planet-serpo-pdfdrive/Secret%20Journey%20to%20Planet%20Serpo%20%28%20PDFDrive%20%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/secret-journey-to-planet-serpo-pdfdrive/Secret%20Journey%20to%20Planet%20Serpo%20%28%20PDFDrive%20%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/secret-journey-to-planet-serpo-pdfdrive/Secret%20Journey%20to%20Planet%20Serpo%20%28%20PDFDrive%20%29_djvu.txt</a>  
 
 13. <a id="endnote-13"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt](https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt</a>  
 
 14. <a id="endnote-14"></a>
    Source: archive.org  
    Title: Nuforc Directory  
-   Link: [https://archive.org/download/NationalUfoReportingCenterRecordings/NuforcDirectory.pdf](https://archive.org/download/NationalUfoReportingCenterRecordings/NuforcDirectory.pdf)  
+   Link: <a href="https://archive.org/download/NationalUfoReportingCenterRecordings/NuforcDirectory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/NationalUfoReportingCenterRecordings/NuforcDirectory.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: archive.org  
    Title: Flying Saucer Mind Control Mkultra Technology djvu.txt  
-   Link: [https://archive.org/stream/FlyingSaucerMindControlMkultraTechnology/Flying%20Saucer%20Mind%20Control%20Mkultra%20Technology_djvu.txt](https://archive.org/stream/FlyingSaucerMindControlMkultraTechnology/Flying%20Saucer%20Mind%20Control%20Mkultra%20Technology_djvu.txt)  
+   Link: <a href="https://archive.org/stream/FlyingSaucerMindControlMkultraTechnology/Flying%20Saucer%20Mind%20Control%20Mkultra%20Technology_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/FlyingSaucerMindControlMkultraTechnology/Flying%20Saucer%20Mind%20Control%20Mkultra%20Technology_djvu.txt</a>  
 
 16. <a id="endnote-16"></a>
    Source: ia801305.us.archive.org  
-   Link: [https://ia801305.us.archive.org/25/items/aeronauticsastro61unit/aeronauticsastro61unit.pdf](https://ia801305.us.archive.org/25/items/aeronauticsastro61unit/aeronauticsastro61unit.pdf)  
+   Link: <a href="https://ia801305.us.archive.org/25/items/aeronauticsastro61unit/aeronauticsastro61unit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801305.us.archive.org/25/items/aeronauticsastro61unit/aeronauticsastro61unit.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt](https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt)  
+   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
 
 18. <a id="endnote-18"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/alic/periodicals/nara-citations/judicial.html](https://www.archives.gov/research/alic/periodicals/nara-citations/judicial.html)  
+   Link: <a href="https://www.archives.gov/research/alic/periodicals/nara-citations/judicial.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/judicial.html</a>  
 
 19. <a id="endnote-19"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346.html](https://www.gutenberg.org/cache/epub/17346/pg17346.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346.html</a>  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Project Blue Book  
-   Link: [https://www.youtube.com/watch?v=_xyesq1k3Ns](https://www.youtube.com/watch?v=_xyesq1k3Ns)  
+   Link: <a href="https://www.youtube.com/watch?v=_xyesq1k3Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_xyesq1k3Ns</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Project Blue Book&#x27; Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series...</p></details>
    Published: December 2021  
 
 21. <a id="endnote-21"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://www.ufologie.patrickgross.org/htm/ellsworth53bluebook.htm](https://www.ufologie.patrickgross.org/htm/ellsworth53bluebook.htm)  
+   Link: <a href="https://www.ufologie.patrickgross.org/htm/ellsworth53bluebook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/ellsworth53bluebook.htm</a>  
 
 22. <a id="endnote-22"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/rufo/rufo19.htm](https://sacred-texts.com/ufo/rufo/rufo19.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo19.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo19.htm</a>  
 
 23. <a id="endnote-23"></a>
    Source: documents.theblackvault.com  
    Title: projectbluebook report8  
-   Link: [https://documents.theblackvault.com/documents/ufos/projectbluebook-report8.pdf](https://documents.theblackvault.com/documents/ufos/projectbluebook-report8.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/projectbluebook-report8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/projectbluebook-report8.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf](https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: bahaistudies.net  
    Title: project blue book  
-   Link: [https://www.bahaistudies.net/asma/project_blue_book.pdf](https://www.bahaistudies.net/asma/project_blue_book.pdf)  
+   Link: <a href="https://www.bahaistudies.net/asma/project_blue_book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/project_blue_book.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 27. <a id="endnote-27"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GcOCIabFnLE](https://www.youtube.com/watch?v=GcOCIabFnLE)  
+   Link: <a href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GcOCIabFnLE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>17th December 1969: Project Blue Book, the United States&#x27; study of UFOs, officially terminated...</p></details>
    Published: December 1969  
 
 29. <a id="endnote-29"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/7482584/Project_Blue_Book_Archive](https://www.academia.edu/7482584/Project_Blue_Book_Archive)  
+   Link: <a href="https://www.academia.edu/7482584/Project_Blue_Book_Archive" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7482584/Project_Blue_Book_Archive</a>  
 
 30. <a id="endnote-30"></a>
    Source: locallifesc.com  
-   Link: [https://www.locallifesc.com/ufo-sightings-in-southern-skies/](https://www.locallifesc.com/ufo-sightings-in-southern-skies/)  
+   Link: <a href="https://www.locallifesc.com/ufo-sightings-in-southern-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.locallifesc.com/ufo-sightings-in-southern-skies/</a>  
 
 31. <a id="endnote-31"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
 32. <a id="endnote-32"></a>
    Source: blaze.tv  
-   Link: [https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book](https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book)  
+   Link: <a href="https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book</a>  
 
 33. <a id="endnote-33"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/pdfs/BB_Unknowns.pdf](https://cufos.org/PDFs/pdfs/BB_Unknowns.pdf)  
+   Link: <a href="https://cufos.org/PDFs/pdfs/BB_Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/BB_Unknowns.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DM2sXraOcxz/](https://www.instagram.com/p/DM2sXraOcxz/)  
+   Link: <a href="https://www.instagram.com/p/DM2sXraOcxz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DM2sXraOcxz/</a>  
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/](https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/news.now.go/posts/long-discussed-uap-related-files-including-unidentified-flying-objects-and-flyin/1353704246860361/](https://www.facebook.com/news.now.go/posts/long-discussed-uap-related-files-including-unidentified-flying-objects-and-flyin/1353704246860361/)  
+   Link: <a href="https://www.facebook.com/news.now.go/posts/long-discussed-uap-related-files-including-unidentified-flying-objects-and-flyin/1353704246860361/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/news.now.go/posts/long-discussed-uap-related-files-including-unidentified-flying-objects-and-flyin/1353704246860361/</a>  
 
 37. <a id="endnote-37"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop](https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop)  
+   Link: <a href="https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop</a>

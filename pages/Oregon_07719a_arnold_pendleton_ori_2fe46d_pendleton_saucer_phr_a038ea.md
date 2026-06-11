@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /origins/
 nav_short_title: Saucer phrase
 title: How Pendleton coined the saucer age
-title_full: How Pendleton coined the saucer age | Origins
+title_full: How Pendleton coined the saucer age
 display_title_short: Saucer phrase
 display_title: Saucer phrase
 heading_title: How Pendleton coined the saucer age
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:06:02'
-parent_title: How Oregon Entered The Flying Saucer Age | Oregon UFOs
+parent_title: How Oregon Entered The Flying Saucer Age
 parent_permalink: /origins/
 parent_nav_short_title: Origins
 parent_heading_title: How Oregon Entered The Flying Saucer Age
@@ -250,14 +250,10 @@ image: /assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_pendleton_saucer
 
 ## Introduction
 
-The phrase “flying saucer” did not begin as a carefully planned label for alien spacecraft. It emerged from a fast-moving chain of newspaper reporting centred on Pendleton, [Oregon]({{ 'why-oregon-matters-in-ufo-history/' | relative_url }}), in June 1947. When private pilot Kenneth Arnold stopped in Pendleton after reporting a strange aerial sighting near Mount Rainier, he spoke with staff at the *East Oregonian*. Within roughly a day, a regional aviation story had become a national media phenomenon. The wording used in Pendleton, and then reshaped by wire services and headline writers, changed how Americans imagined unexplained objects in the sky for decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historylink.org/File/5336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Flying saucers, first in world, reported near Mount Rainier...1 Mar 2003 — Kenneth Arnold (1915-1984) spots nine mysterious, high-speed...</span></span></span>
+The phrase “flying saucer” did not begin as a carefully planned label for alien spacecraft. It emerged from a fast-moving chain of newspaper reporting centred on Pendleton, Oregon, in June 1947. When private pilot Kenneth Arnold stopped in Pendleton after reporting a strange aerial sighting near Mount Rainier, he spoke with staff at the *East Oregonian*. Within roughly a day, a regional aviation story had become a national media phenomenon. The wording used in Pendleton, and then reshaped by wire services and headline writers, changed how Americans imagined unexplained objects in the sky for decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historylink.org/File/5336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Flying saucers, first in world, reported near Mount Rainier...1 Mar 2003 — Kenneth Arnold (1915-1984) spots nine mysterious, high-speed...</span></span></span>
 
-
-<img src="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_pendleton_saucer_phr_a038ea-Illustration-1-light.svg" | relative_url }}" alt="Saucer phrase illustration 1" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_pendleton_saucer_phr_a038ea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_pendleton_saucer_phr_a038ea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_pendleton_saucer_phr_a038ea-Illustration-1-dark.svg" | relative_url }}" alt="Saucer phrase illustration 1" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_pendleton_saucer_phr_a038ea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_pendleton_saucer_phr_a038ea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That transformation matters to Oregon UFO history because it shows that the state's role was not simply hosting a witness interview. Pendleton became the place where an ambiguous description of movement hardened into a visual image. The result was a powerful piece of public vocabulary that influenced later [reports]({{ 'reports/' | relative_url }}), newspaper illustrations, films and popular culture long after the original sighting itself became disputed and reinterpreted. National Air and Space Museum <span class="citation-chip-wrap"><a class="citation-chip" href="https://eastoregonian.com/2017/06/16/the-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eastoregonian.com">[East Oregonian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eastoregonian.com</span><span class="citation-popover-title">the sighting</span><span class="citation-popover-snippet">16 Jun 2017 — Bill Bequette holds the copy of June 25, 1947, East Oregonian in which he broke the story that began the UFO craze. Boise b...</span><span class="citation-popover-meta">Published: June 25, 1947</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qdXNAOxs6mo" title="Kenneth Arnold and the First UFOs - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer">Kenneth Arnold and the First UFOs - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 5.1K &middot; Uploaded: June 2019 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qdXNAOxs6mo">Open on YouTube</a></p></div></div></div>
 
 ## Arnold's interview with the East Oregonian
 
@@ -269,8 +265,7 @@ The first *East Oregonian* reports described nine bright objects moving at extra
 
 What makes Pendleton important is that the newspaper interview acted as a translation point between witness testimony and mass communication. Arnold provided observations; reporters converted those observations into publishable language; wire services then compressed that language further for national audiences. Each stage slightly altered how readers understood the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ap0whDDDU1Y" title="Where Did The Term &#x27;Flying Saucer&#x27; Come From? | Mossback&#x27;s Northwest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer">Where Did The Term &#x27;Flying Saucer&#x27; Come From? | Mossback&#x27;s Northwest</a></p><p class="youtube-embed-meta">Channel: Cascade PBS &middot; Views: 1.9K &middot; Uploaded: July 2019 &middot; Length: 4 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ap0whDDDU1Y">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8_GKC-Jvaqg" title="The 1947 UFO Sighting That Started the Government Cover-Up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8_GKC-Jvaqg" target="_blank" rel="noopener noreferrer">The 1947 UFO Sighting That Started the Government Cover-Up</a></p><p class="youtube-embed-meta">Channel: morten hansen &middot; Views: 2 &middot; Uploaded: May 2026 &middot; Length: 1 minute 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8_GKC-Jvaqg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8_GKC-Jvaqg">Open on YouTube</a></p></div></div></div>
 
 ## From skipped-saucer motion to flying-disc image
 
@@ -284,8 +279,7 @@ The situation was complicated further because Arnold's own descriptions were not
 
 As a result, historians and UFO researchers continue to debate whether the later claim that Arnold was completely misunderstood oversimplifies the record. The evidence suggests a more complicated picture: he appears to have used both shape-based and motion-based comparisons, but the motion comparison became the most famous because it generated the memorable saucer metaphor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
 
-
-<img src="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_pendleton_saucer_phr_a038ea-Illustration-2-light.svg" | relative_url }}" alt="Saucer phrase illustration 2" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_pendleton_saucer_phr_a038ea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_pendleton_saucer_phr_a038ea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_pendleton_saucer_phr_a038ea-Illustration-2-dark.svg" | relative_url }}" alt="Saucer phrase illustration 2" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_pendleton_saucer_phr_a038ea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_pendleton_saucer_phr_a038ea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How wire-service wording changed public memory
 
 The decisive step was not the original interview itself but what happened after it entered the wire-service system.
@@ -296,21 +290,16 @@ This process changed public memory almost immediately. Readers who never saw Arn
 
 The linguistic shift mattered because it created a template. [Witnesses]({{ 'witnesses-a4938b/' | relative_url }}), journalists and readers now shared a common image for unidentified aerial reports. Future sightings were often described in relation to that image, whether the objects reportedly resembled discs, crescents, lights or something else entirely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MJp-YR34XBs" title="The First UFO Sighting In America | UFOs: The Lost Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MJp-YR34XBs" target="_blank" rel="noopener noreferrer">The First UFO Sighting In America | UFOs: The Lost Evidence</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 182.5K &middot; Uploaded: December 2020 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MJp-YR34XBs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MJp-YR34XBs">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_pendleton_saucer_phr_a038ea-Illustration-3-dark.svg" | relative_url }}" alt="Saucer phrase illustration 3" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_pendleton_saucer_phr_a038ea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_pendleton_saucer_phr_a038ea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Pendleton's reporting became an Oregon milestone
 
 Many states can point to famous sightings, military investigations or alleged crash stories. Oregon's distinctive contribution to early UFO history is different. Pendleton became the place where a witness report was transformed into a cultural category.
 
-Without the *East Oregonian* interview, Arnold's account might have remained a regional aviation curiosity. Instead, Pendleton served as the gateway through which the story entered national circulation. The newspaper's wording, and the wire-service adaptations that followed, helped create the language through which the modern UFO era was understood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historylink.org/file/2067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">HistoryLinkFlying Saucers in Washington6 Feb 1999 — The modern phenomena of UFOs and “flying saucers” began in Washington state on June 2...</span></span></span>
+Without the *East Oregonian* interview, Arnold's account might have remained a regional aviation curiosity. Instead, Pendleton served as the gateway through which the story entered national circulation. The newspaper's wording, and the wire-service adaptations that followed, helped create the language through which the modern UFO era was understood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historylink.org/file/2067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Flying Saucers in Washington6 Feb 1999 — The modern phenomena of UFOs and “flying saucers” began in Washington state on June 2...</span></span></span>
 
 That does not mean the newspaper deliberately invented a myth. Rather, it demonstrates how media framing can shape public understanding of ambiguous events. A phrase intended to explain movement became a description of appearance. A local report became a national sensation. A Washington sighting became an Oregon landmark because the decisive act was not seeing the objects but naming them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/5336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Flying saucers, first in world, reported near Mount Rainier...1 Mar 2003 — Kenneth Arnold (1915-1984) spots nine mysterious, high-speed...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
 
 In the history of UFOs, few journalistic choices have had a larger cultural impact than the wording that emerged from Pendleton in June 1947. The enduring image of the flying saucer owes as much to newspaper language as it does to whatever Kenneth Arnold actually saw in the skies over the Pacific Northwest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — What Kenneth Arnold saw while flying past Mt. Rainier on June 2...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc craze</span></span></span>
-
-
-<img src="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_pendleton_saucer_phr_a038ea-Illustration-3-light.svg" | relative_url }}" alt="Saucer phrase illustration 3" data-theme-src-dark="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_pendleton_saucer_phr_a038ea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oregon_07719a_arnold_pendleton_ori_2fe46d_pendleton_saucer_phr_a038ea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -398,7 +387,7 @@ In the history of UFOs, few journalistic choices have had a larger cultural impa
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -408,111 +397,36 @@ In the history of UFOs, few journalistic choices have had a larger cultural impa
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pendleton-coined-the-saucer-age-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-pendleton-coined-the-saucer-age-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 Scale Plastic Model Kit of The Revell Flying Saucer Haunebu II New Sealed"><img src="https://i.ebayimg.com/images/g/t4YAAeSw8uFqJqZx/s-l225.jpg" alt="Listing image for 1:72 Scale Plastic Model Kit of The Revell Flying Saucer Haunebu II New Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pendleton-coined-the-saucer-age-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-pendleton-coined-the-saucer-age-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">1:72 Scale Plastic Model Kit of The Revell Flying Saucer Haunebu II New Sealed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pendleton-coined-the-saucer-age-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-pendleton-coined-the-saucer-age-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pendleton-coined-the-saucer-age-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-pendleton-coined-the-saucer-age-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -520,15 +434,15 @@ In the history of UFOs, few journalistic choices have had a larger cultural impa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pendleton-coined-the-saucer-age-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-pendleton-coined-the-saucer-age-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia"><img src="https://i.ebayimg.com/images/g/hHsAAeSw3GJpJve3/s-l225.jpg" alt="Listing image for Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pendleton-coined-the-saucer-age-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-pendleton-coined-the-saucer-age-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pendleton-coined-the-saucer-age-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-pendleton-coined-the-saucer-age-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pendleton-coined-the-saucer-age-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-pendleton-coined-the-saucer-age-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -536,15 +450,15 @@ In the history of UFOs, few journalistic choices have had a larger cultural impa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pendleton-coined-the-saucer-age-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-pendleton-coined-the-saucer-age-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;"><img src="https://i.ebayimg.com/images/g/KJAAAeSwHlpqIC~m/s-l225.jpg" alt="Listing image for FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pendleton-coined-the-saucer-age-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-pendleton-coined-the-saucer-age-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pendleton-coined-the-saucer-age-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-pendleton-coined-the-saucer-age-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pendleton-coined-the-saucer-age-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-pendleton-coined-the-saucer-age-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -552,15 +466,15 @@ In the history of UFOs, few journalistic choices have had a larger cultural impa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pendleton-coined-the-saucer-age-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-pendleton-coined-the-saucer-age-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift"><img src="https://i.ebayimg.com/images/g/zEoAAeSwzHBo29i9/s-l225.jpg" alt="Listing image for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pendleton-coined-the-saucer-age-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-pendleton-coined-the-saucer-age-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pendleton-coined-the-saucer-age-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-pendleton-coined-the-saucer-age-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pendleton-coined-the-saucer-age-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-pendleton-coined-the-saucer-age-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -568,7 +482,7 @@ In the history of UFOs, few journalistic choices have had a larger cultural impa
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-pendleton-coined-the-saucer-age-oregon-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pendleton-coined-the-saucer-age-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="how-pendleton-coined-the-saucer-age-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -645,17 +559,31 @@ In the history of UFOs, few journalistic choices have had a larger cultural impa
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -668,42 +596,73 @@ In the history of UFOs, few journalistic choices have had a larger cultural impa
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -718,12 +677,17 @@ In the history of UFOs, few journalistic choices have had a larger cultural impa
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -734,49 +698,49 @@ In the history of UFOs, few journalistic choices have had a larger cultural impa
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold UFO sighting  
-   Link: [https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting](https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
 
 2. <a id="endnote-2"></a>
    Source: historylink.org  
-   Link: [https://www.historylink.org/File/5336](https://www.historylink.org/File/5336)  
+   Link: <a href="https://www.historylink.org/File/5336" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/File/5336</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers, first in world, reported near Mount Rainier...1 Mar 2003 — Kenneth Arnold (1915-1984) spots nine mysterious, high-speed...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: science.howstuffworks.com  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm](https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arrival of Flying SaucersThe day after his sighting, Kenneth Arnold told his story to two reporters for Pendleton&#x27;s East Oregonian. One o...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: historylink.org  
-   Link: [https://www.historylink.org/file/2067](https://www.historylink.org/file/2067)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryLinkFlying Saucers in Washington6 Feb 1999 — The modern phenomena of UFOs and “flying saucers” began in Washington state on June 2...</p></details>
+   Link: <a href="https://www.historylink.org/file/2067" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/file/2067</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers in Washington6 Feb 1999 — The modern phenomena of UFOs and “flying saucers” began in Washington state on June 2...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: [https://en.wikipedia.org/wiki/Flying_saucer](https://en.wikipedia.org/wiki/Flying_saucer)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
 
 6. <a id="endnote-6"></a>
    Source: history.com  
    Title: Kenneth Arnold  
-   Link: [https://www.history.com/articles/kenneth-arnold](https://www.history.com/articles/kenneth-arnold)  
+   Link: <a href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/kenneth-arnold</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, 1947 &amp; Flying Saucer22 Feb 2010 — He estimated the objects&#x27; flight speed at 1700 mph and compared their motion to “a saucer if you s...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: [https://en.wikipedia.org/wiki/1947_flying_disc_craze](https://en.wikipedia.org/wiki/1947_flying_disc_craze)  
+   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 
 8. <a id="endnote-8"></a>
    Source: airandspace.si.edu  
    Title: 1947 year flying saucer  
-   Link: [https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer](https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer)  
+   Link: <a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — What Kenneth Arnold saw while flying past Mt. Rainier on June 2...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: eastoregonian.com  
    Title: the sighting  
-   Link: [https://eastoregonian.com/2017/06/16/the-sighting/](https://eastoregonian.com/2017/06/16/the-sighting/)  
+   Link: <a href="https://eastoregonian.com/2017/06/16/the-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://eastoregonian.com/2017/06/16/the-sighting/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Jun 2017 — Bill Bequette holds the copy of June 25, 1947, East Oregonian in which he broke the story that began the UFO craze. Boise b...</p></details>
    Published: June 25, 1947  
 
@@ -784,61 +748,61 @@ In the history of UFOs, few journalistic choices have had a larger cultural impa
 
 10. <a id="endnote-10"></a>
    Source: scottbakal.com  
-   Link: [https://www.scottbakal.com/kennetharnoldsighting](https://www.scottbakal.com/kennetharnoldsighting)  
+   Link: <a href="https://www.scottbakal.com/kennetharnoldsighting" target="_blank" rel="noopener noreferrer nofollow">https://www.scottbakal.com/kennetharnoldsighting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold SightingThe very first public sighting of a flying &#x27;disc&#x27; was on June 25, 1947. · Shortly before 3:00 p.m., as Arnold circ...</p></details>
    Published: June 25, 1947  
 
 11. <a id="endnote-11"></a>
    Source: spokesman.com  
    Title: flying saucers still evasive 70 years after pilots  
-   Link: [https://www.spokesman.com/stories/2017/jun/25/flying-saucers-still-evasive-70-years-after-pilots/](https://www.spokesman.com/stories/2017/jun/25/flying-saucers-still-evasive-70-years-after-pilots/)  
+   Link: <a href="https://www.spokesman.com/stories/2017/jun/25/flying-saucers-still-evasive-70-years-after-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.spokesman.com/stories/2017/jun/25/flying-saucers-still-evasive-70-years-after-pilots/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers still evasive 70 years after pilot&#x27;s report25 Jun 2017 — Boise businessman Ken Arnold had no idea he would change the worl...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/941265524/A-Moment-in-History-an-Interview-With-B](https://www.scribd.com/document/941265524/A-Moment-in-History-an-Interview-With-B)  
+   Link: <a href="https://www.scribd.com/document/941265524/A-Moment-in-History-an-Interview-With-B" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/941265524/A-Moment-in-History-an-Interview-With-B</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>estigation of the Ken- neth Arnold story moze than 10 years ago...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: americanghostwalks.com  
    Title: kenneth arnold and the origin of flying saucers  
-   Link: [https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers](https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers)  
+   Link: <a href="https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers" target="_blank" rel="noopener noreferrer nofollow">https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold and the Origin of the Modern UFO Movement24 Jun 2025 — On June 24, 1947, Kenneth Arnold&#x27;s UFO sighting near Mount Rainier...</p></details>
    Published: June 24, 1947  
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
    Title: Kenneth Arnold and his description of UFOs  
-   Link: [https://www.reddit.com/r/UFOs/comments/zrowqo/kenneth_arnold_and_his_description_of_ufos/](https://www.reddit.com/r/UFOs/comments/zrowqo/kenneth_arnold_and_his_description_of_ufos/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/zrowqo/kenneth_arnold_and_his_description_of_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zrowqo/kenneth_arnold_and_his_description_of_ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 24, 1947 - Pilot Kenneth Arnold sights a series of unidentified flying objects near Washington&#x27;s Mount Rainier. It&#x27;s the first widel...</p></details>
    Published: June 24, 1947  
 
 15. <a id="endnote-15"></a>
    Source: offbeatoregon.com  
    Title: 1807b.flying saucer UFO stories started in pendleton 503  
-   Link: [https://offbeatoregon.com/1807b.flying-saucer-UFO-stories-started-in-pendleton-503.html](https://offbeatoregon.com/1807b.flying-saucer-UFO-stories-started-in-pendleton-503.html)  
+   Link: <a href="https://offbeatoregon.com/1807b.flying-saucer-UFO-stories-started-in-pendleton-503.html" target="_blank" rel="noopener noreferrer nofollow">https://offbeatoregon.com/1807b.flying-saucer-UFO-stories-started-in-pendleton-503.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s how that happened: ON JUNE 24, 1947, Kenneth Arnold, owner of Great Western Fire Control...Read more...</p></details>
    Published: June 24, 1947  
 
 16. <a id="endnote-16"></a>
    Source: pierrelagrangesociologie.files.wordpress.com  
    Title: lagrange arnoldbequette eo 1997  
-   Link: [https://pierrelagrangesociologie.files.wordpress.com/2014/02/lagrange-arnoldbequette-eo-1997.pdf](https://pierrelagrangesociologie.files.wordpress.com/2014/02/lagrange-arnoldbequette-eo-1997.pdf)  
+   Link: <a href="https://pierrelagrangesociologie.files.wordpress.com/2014/02/lagrange-arnoldbequette-eo-1997.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pierrelagrangesociologie.files.wordpress.com/2014/02/lagrange-arnoldbequette-eo-1997.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>camps warm andBill Bequette helped coin the phrase &quot;flying saucers&quot; after inter- viewing pilot Kenneth Arnold in. June of 1947. A young j...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/](https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/)  
+   Link: <a href="https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Idaho Public TelevisionOn June 24, 1947, Kenneth Arnold was flying past Mount Rainier National Park when he noticed nine shiny objects fl...</p></details>
    Published: June 24, 1947  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/](https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/)  
+   Link: <a href="https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressOn June 24, 1947, private pilot Kenneth Arnold took off from Chehalis, Washington, on what he thought would be a r...</p></details>
    Published: June 24, 1947  
 
 19. <a id="endnote-19"></a>
    Source: discoveryuk.com  
-   Link: [https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/](https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Re-examining the Kenneth Arnold UFO Sighting8 Oct 2025 — By the summer of 1947, Kenneth Arnold is believed to have accumulated around 4,0...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /west-virginia-be1c72-index/
 description: Focused pages that expand on What Really Haunts West Virginia's UFO Lore?.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: West_Virginia_be1c72
 parent_title: What Really Haunts West Virginia's UFO Lore?

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /california-cf386e-nimitz-tic-tac/
 description: Focused pages that expand on Tic Tac.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: California_cf386e_nimitz_tic_tac_e109f9
-parent_title: Tic Tac | Why California Became A UFO Hotspot
+parent_title: Tic Tac
 parent_nav_short_title: Tic Tac
 parent_permalink: /tic-tac/
 ---

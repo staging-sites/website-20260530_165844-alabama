@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /base-clusters/
 nav_short_title: Grand Forks
 title: Why Grand Forks became part of the UFO map
-title_full: Why Grand Forks became part of the UFO map | Base Clusters
+title_full: Why Grand Forks became part of the UFO map
 display_title_short: Grand Forks
 display_title: Grand Forks
 heading_title: Why Grand Forks became part of the UFO map
@@ -32,7 +32,7 @@ page_heading_title: Why Grand Forks became part of the UFO map
 source_count: 12
 infographic_count: 3
 planned_sections:
-- The 321st Missile Wing landscape around Grand Forks
+- The 321 st Missile Wing landscape around Grand Forks
 - Why missile fields multiply observers and reports
 - How to weigh a cluster without a landmark case
 focal_unit_type: population_context
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:59:41'
-parent_title: Why UFO Reports Cluster Near Air Bases | North Dakota UFOs
+parent_title: Why UFO Reports Cluster Near Air Bases
 parent_permalink: /base-clusters/
 parent_nav_short_title: Base Clusters
 parent_heading_title: Why UFO Reports Cluster Near Air Bases
@@ -250,10 +250,9 @@ image: /assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_grand_fork
 
 ## Introduction
 
-Grand Forks became part of [North Dakota]({{ 'why-north-dakota-matters-in-ufo-history/' | relative_url }})’s UFO map for a different reason than Minot. There is no single Grand Forks incident that dominates national UFO history in the way the 1968 Minot case does. Instead, Grand Forks illustrates how a vast Cold War missile landscape could generate recurring clusters of reports, rumours and local memory. The region combined nuclear missile sites, military patrols, radar coverage, isolated roads and exceptionally dark skies. That combination created more opportunities for unusual lights to be noticed, discussed and formally reported. It also created a setting where later UFO researchers could point to a concentration of military infrastructure and ask whether the pattern meant anything more than geography and observation habits. The answer remains disputed, but the Grand Forks missile field is an important example of how UFO clusters can emerge even without a famous landmark case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.nd.gov/historicsites/minutemanmissile/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nd.gov">[State Historical Society of North Dakota]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nd.gov</span><span class="citation-popover-snippet">They are the last remnants of the 321st Missile Wing, a cluster of...Read more...</span></span></span>
+Grand Forks became part of North Dakota’s UFO map for a different reason than Minot. There is no single Grand Forks incident that dominates national UFO history in the way the 1968 Minot case does. Instead, Grand Forks illustrates how a vast Cold War missile landscape could generate recurring clusters of reports, rumours and local memory. The region combined nuclear missile sites, military patrols, radar coverage, isolated roads and exceptionally dark skies. That combination created more opportunities for unusual lights to be noticed, discussed and formally reported. It also created a setting where later UFO researchers could point to a concentration of military infrastructure and ask whether the pattern meant anything more than geography and observation habits. The answer remains disputed, but the Grand Forks missile field is an important example of how UFO clusters can emerge even without a famous landmark case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.nd.gov/historicsites/minutemanmissile/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nd.gov">[State Historical Society of North Dakota]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nd.gov</span><span class="citation-popover-snippet">They are the last remnants of the 321st Missile Wing, a cluster of...Read more...</span></span></span>
 
-
-<img src="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_grand_forks_cluster_528cea-Illustration-1-light.svg" | relative_url }}" alt="Grand Forks illustration 1" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_grand_forks_cluster_528cea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_grand_forks_cluster_528cea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_grand_forks_cluster_528cea-Illustration-1-dark.svg" | relative_url }}" alt="Grand Forks illustration 1" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_grand_forks_cluster_528cea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_grand_forks_cluster_528cea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The 321st Missile Wing landscape around Grand Forks
 
 During the Cold War, Grand Forks Air Force Base controlled one of the largest missile complexes in the United States. The 321st Missile Wing operated 150 Minuteman missile launch facilities and 15 control centres spread across roughly 6,500 square miles of eastern North Dakota. The surviving Oscar-Zero Missile Alert Facility and November-33 Launch Facility near Cooperstown are preserved today as reminders of that network. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.nd.gov/historicsites/minutemanmissile/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.nd.gov">[State Historical Society of North Dakota]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.nd.gov</span><span class="citation-popover-snippet">They are the last remnants of the 321st Missile Wing, a cluster of...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtourism.com/cooperstown/attractions-entertainment/hidden-gem-attractions/ronald-reagan-minuteman-missile-state-historic-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtourism.com">[North Dakota Tourism]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtourism.com</span><span class="citation-popover-title">ronald reagan minuteman missile state historic site</span><span class="citation-popover-snippet">North Dakota TourismRonald Reagan Minuteman Missile State Historic SiteIn 1965, Grand Forks Air Force Base built the 321st Missile Wing i...</span></span></span>
@@ -264,7 +263,6 @@ That geography mattered because it multiplied both observers and observation poi
 
 The Grand Forks missile field also sat in terrain that encouraged long-distance viewing. Much of eastern North Dakota consists of open prairie and agricultural land with broad horizons. At night, bright planets, aircraft lights, satellites, meteors and distant vehicles can remain visible for long periods. The apparent movement of lights against a featureless horizon can be difficult to judge accurately, particularly when observers lack nearby reference points.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VDPBntyYKeg" title="Anti-Ballistic Missile Complex in North Dakota | Mysteries of the Abandoned | Science Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VDPBntyYKeg" target="_blank" rel="noopener noreferrer">Anti-Ballistic Missile Complex in North Dakota | Mysteries of the Abandoned | Science Channel</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 61.8K &middot; Uploaded: April 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VDPBntyYKeg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VDPBntyYKeg">Open on YouTube</a></p></div></div></div>
 
 ## Why missile fields multiply observers and reports
@@ -272,7 +270,6 @@ The Grand Forks missile field also sat in terrain that encouraged long-distance 
 The most useful way to understand Grand Forks in UFO history is not as a mystery site but as a reporting mechanism.
 
 Several factors worked together:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -288,8 +285,7 @@ Modern government discussions of unidentified aerial phenomena contain a similar
 
 That observation does not explain every report, but it provides a useful framework for understanding why missile complexes often appear repeatedly in UFO literature. More reports do not automatically mean more extraordinary events. Sometimes they mean that a region is especially good at detecting and recording unusual observations.
 
-
-<img src="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_grand_forks_cluster_528cea-Illustration-2-light.svg" | relative_url }}" alt="Grand Forks illustration 2" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_grand_forks_cluster_528cea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_grand_forks_cluster_528cea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_grand_forks_cluster_528cea-Illustration-2-dark.svg" | relative_url }}" alt="Grand Forks illustration 2" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_grand_forks_cluster_528cea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_grand_forks_cluster_528cea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Grand Forks entered UFO discussions despite lacking a famous case
 
 Grand Forks occupies an unusual place in North Dakota UFO history. Researchers frequently mention the missile field because it resembles locations elsewhere in the United States that became associated with nuclear-weapons-related UFO stories. Yet the Grand Forks area never produced a single incident with the combination of radar evidence, official correspondence and publicity that made Minot famous.
@@ -302,7 +298,6 @@ This process can create a feedback effect. When a place becomes known as a UFO l
 
 That helps explain why Grand Forks appears in discussions of North Dakota UFO geography despite lacking a defining encounter. The landscape itself became part of the story.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WLNTJ6LUuUk" title="Oscar Zero- Conversations with a Minuteman Nuclear Missile Combat Crew Commander, Complete Interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WLNTJ6LUuUk" target="_blank" rel="noopener noreferrer">Oscar Zero- Conversations with a Minuteman Nuclear Missile Combat Crew Commander, Complete Interview</a></p><p class="youtube-embed-meta">Channel: TinHatRanch &middot; Views: 249.9K &middot; Uploaded: October 2013 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WLNTJ6LUuUk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WLNTJ6LUuUk">Open on YouTube</a></p></div></div></div>
 
 ## The role of Oscar-Zero in later memory
@@ -312,7 +307,6 @@ The preserved Oscar-Zero Missile Alert Facility has played an important role in 
 For UFO history, the value of Oscar-Zero is less about direct sightings and more about context. It helps modern visitors understand why reports from missile regions often feel different from reports originating in cities. Personnel at these facilities worked in remote conditions, monitored sensitive systems and spent long periods focused on security. In that environment, unexplained lights naturally attracted attention.
 
 The site also demonstrates how enormous the missile network really was. Fifteen missile alert facilities and 150 launch sites created a patchwork of strategic locations scattered across eastern North Dakota. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tile.loc.gov/storage-services/master/pnp/habshaer/nd/nd0000/nd0071/data/nd0071data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tile.loc.gov">[Library of Congress Tiles]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tile.loc.gov</span><span class="citation-popover-snippet">Facilities (MAFs) associated with the. 150-missile wing, MAF Oscar-Zero has formed an integral part of the Minuteman system.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndtourism.com/cooperstown/attractions-entertainment/hidden-gem-attractions/ronald-reagan-minuteman-missile-state-historic-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndtourism.com">[North Dakota Tourism]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndtourism.com</span><span class="citation-popover-title">ronald reagan minuteman missile state historic site</span><span class="citation-popover-snippet">North Dakota TourismRonald Reagan Minuteman Missile State Historic SiteIn 1965, Grand Forks Air Force Base built the 321st Missile Wing i...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NaaxM9eBWus" title="Inside the Oscar-Zero nuclear bunker, decommissioned and frozen in time" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NaaxM9eBWus" target="_blank" rel="noopener noreferrer">Inside the Oscar-Zero nuclear bunker, decommissioned and frozen in time</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 28.8K &middot; Uploaded: March 2017 &middot; Length: 3 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NaaxM9eBWus" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NaaxM9eBWus">Open on YouTube</a></p></div></div></div>
 
@@ -330,8 +324,7 @@ That distinction matters. A cluster of reports is not automatically a cluster of
 
 Grand Forks therefore occupies an important middle ground within North Dakota UFO history. It is neither a famous unresolved case nor a simple debunking story. Its value lies in demonstrating the mechanisms that can make certain regions appear repeatedly in UFO records. The missile field turned a broad stretch of prairie into a landscape of constant observation, and that alone was enough to secure a place on the state's UFO map.
 
-
-<img src="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_grand_forks_cluster_528cea-Illustration-3-light.svg" | relative_url }}" alt="Grand Forks illustration 3" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_grand_forks_cluster_528cea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_grand_forks_cluster_528cea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_grand_forks_cluster_528cea-Illustration-3-dark.svg" | relative_url }}" alt="Grand Forks illustration 3" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_grand_forks_cluster_528cea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_grand_forks_cluster_528cea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -419,7 +412,7 @@ Grand Forks therefore occupies an important middle ground within North Dakota UF
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -429,111 +422,36 @@ Grand Forks therefore occupies an important middle ground within North Dakota UF
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,15 +459,15 @@ Grand Forks therefore occupies an important middle ground within North Dakota UF
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/sLkAAOSwaNVmMAOe/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -557,15 +475,15 @@ Grand Forks therefore occupies an important middle ground within North Dakota UF
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -573,15 +491,15 @@ Grand Forks therefore occupies an important middle ground within North Dakota UF
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="https://i.ebayimg.com/images/g/VQ8AAeSwE2Fp1m0Y/s-l225.jpg" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -589,7 +507,7 @@ Grand Forks therefore occupies an important middle ground within North Dakota UF
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=grand-forks-why-grand-forks-became-part-of-the-ufo-map-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-grand-forks-became-part-of-the-ufo-map-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -666,17 +584,31 @@ Grand Forks therefore occupies an important middle ground within North Dakota UF
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -689,42 +621,73 @@ Grand Forks therefore occupies an important middle ground within North Dakota UF
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -739,12 +702,17 @@ Grand Forks therefore occupies an important middle ground within North Dakota UF
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -754,67 +722,67 @@ Grand Forks therefore occupies an important middle ground within North Dakota UF
 
 1. <a id="endnote-1"></a>
    Source: history.nd.gov  
-   Link: [https://www.history.nd.gov/historicsites/minutemanmissile/](https://www.history.nd.gov/historicsites/minutemanmissile/)  
+   Link: <a href="https://www.history.nd.gov/historicsites/minutemanmissile/" target="_blank" rel="noopener noreferrer nofollow">https://www.history.nd.gov/historicsites/minutemanmissile/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>They are the last remnants of the 321st Missile Wing, a cluster of...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ndtourism.com  
    Title: ronald reagan minuteman missile state historic site  
-   Link: [https://www.ndtourism.com/cooperstown/attractions-entertainment/hidden-gem-attractions/ronald-reagan-minuteman-missile-state-historic-site](https://www.ndtourism.com/cooperstown/attractions-entertainment/hidden-gem-attractions/ronald-reagan-minuteman-missile-state-historic-site)  
+   Link: <a href="https://www.ndtourism.com/cooperstown/attractions-entertainment/hidden-gem-attractions/ronald-reagan-minuteman-missile-state-historic-site" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtourism.com/cooperstown/attractions-entertainment/hidden-gem-attractions/ronald-reagan-minuteman-missile-state-historic-site</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>North Dakota TourismRonald Reagan Minuteman Missile State Historic SiteIn 1965, Grand Forks Air Force Base built the 321st Missile Wing i...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: tile.loc.gov  
-   Link: [https://tile.loc.gov/storage-services/master/pnp/habshaer/nd/nd0000/nd0071/data/nd0071data.pdf](https://tile.loc.gov/storage-services/master/pnp/habshaer/nd/nd0000/nd0071/data/nd0071data.pdf)  
+   Link: <a href="https://tile.loc.gov/storage-services/master/pnp/habshaer/nd/nd0000/nd0071/data/nd0071data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tile.loc.gov/storage-services/master/pnp/habshaer/nd/nd0000/nd0071/data/nd0071data.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Facilities (MAFs) associated with the. 150-missile wing, MAF Oscar-Zero has formed an integral part of the Minuteman system.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: grandforks.af.mil  
-   Link: [https://www.grandforks.af.mil/News/Features/Display/Article/763998/warriors-of-the-north-explore-the-past-during-visit-to-historic-missile-site/](https://www.grandforks.af.mil/News/Features/Display/Article/763998/warriors-of-the-north-explore-the-past-during-visit-to-historic-missile-site/)  
+   Link: <a href="https://www.grandforks.af.mil/News/Features/Display/Article/763998/warriors-of-the-north-explore-the-past-during-visit-to-historic-missile-site/" target="_blank" rel="noopener noreferrer nofollow">https://www.grandforks.af.mil/News/Features/Display/Article/763998/warriors-of-the-north-explore-the-past-during-visit-to-historic-missile-site/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Grand Forks Air Force BaseWarriors of the North explore the past during visit to historic...Oct 3, 2014 — It was completed in 1965 as a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National IntelligencePreliminary Assessment: Unidentified Aerial Phenomena...June 25, 2021 — 25 Jun 2021 — In 18 incidents...</p></details>
    Published: June 25, 2021  
 
 6. <a id="endnote-6"></a>
    Source: history.nd.gov  
    Title: State Historical Society of North Dakota Ronald Reagan Minuteman Missile Site  
-   Link: [https://www.history.nd.gov/historicsites/minutemanmissile/oscarzerohistory.html](https://www.history.nd.gov/historicsites/minutemanmissile/oscarzerohistory.html)  
+   Link: <a href="https://www.history.nd.gov/historicsites/minutemanmissile/oscarzerohistory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.nd.gov/historicsites/minutemanmissile/oscarzerohistory.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>State Historical Society of North DakotaRonald Reagan Minuteman Missile Site - HistorySTART limited the number of strategic weapons on bo...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=WLNTJ6LUuUk](http://www.youtube.com/watch?v=WLNTJ6LUuUk)  
+   Link: <a href="http://www.youtube.com/watch?v=WLNTJ6LUuUk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=WLNTJ6LUuUk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anti-Ballistic Missile Complex in North Dakota | Mysteries of the Abandoned | Science Channel...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Inside the Oscar-Zero nuclear bunker, decommissioned and frozen in time  
-   Link: [http://www.youtube.com/watch?v=NaaxM9eBWus](http://www.youtube.com/watch?v=NaaxM9eBWus)  
+   Link: <a href="http://www.youtube.com/watch?v=NaaxM9eBWus" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=NaaxM9eBWus</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oscar Zero- Conversations with a Minuteman Nuclear Missile Combat Crew Commander, Complete Interview...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=vnGfETYGZtU](http://www.youtube.com/watch?v=vnGfETYGZtU)  
+   Link: <a href="http://www.youtube.com/watch?v=vnGfETYGZtU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vnGfETYGZtU</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oscar Zero Missile Alert Facility North Dakota Inside the Oscar-Zero nuclear bunker, decommissioned and frozen in time CBS News...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=VDPBntyYKeg](http://www.youtube.com/watch?v=VDPBntyYKeg)  
+   Link: <a href="http://www.youtube.com/watch?v=VDPBntyYKeg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=VDPBntyYKeg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ronald Reagan Minuteman Missile State Historic Site...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Ronald Reagan Minuteman Missile State Historic Site  
-   Link: [http://www.youtube.com/watch?v=Ag-h0HJIb9g](http://www.youtube.com/watch?v=Ag-h0HJIb9g)  
+   Link: <a href="http://www.youtube.com/watch?v=Ag-h0HJIb9g" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Ag-h0HJIb9g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Minot Air Force Base Incident 1966 August 24...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: 321st Missile Wing LGM-30 Minuteman Missile Launch Sites  
-   Link: [https://en.wikipedia.org/wiki/321st_Missile_Wing_LGM-30_Minuteman_Missile_Launch_Sites](https://en.wikipedia.org/wiki/321st_Missile_Wing_LGM-30_Minuteman_Missile_Launch_Sites)  
+   Link: <a href="https://en.wikipedia.org/wiki/321st_Missile_Wing_LGM-30_Minuteman_Missile_Launch_Sites" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/321st_Missile_Wing_LGM-30_Minuteman_Missile_Launch_Sites</a>

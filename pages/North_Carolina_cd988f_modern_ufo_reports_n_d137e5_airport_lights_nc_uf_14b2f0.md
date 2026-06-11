@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /modern-reports-6a42f5/
 nav_short_title: Airport lights
 title: When aircraft lights look like UFOs
-title_full: When aircraft lights look like UFOs | Modern Reports
+title_full: When aircraft lights look like UFOs
 display_title_short: Airport lights
 display_title: Airport lights
 heading_title: When aircraft lights look like UFOs
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:57:56'
-parent_title: Why Do UFO Reports Keep Coming From North Carolina? | NC UFOs
+parent_title: Why Do UFO Reports Keep Coming From North Carolina?
 parent_permalink: /modern-reports-6a42f5/
 parent_nav_short_title: Modern Reports
 parent_heading_title: Why Do UFO Reports Keep Coming From North Carolina?
@@ -250,10 +250,9 @@ image: /assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5_airport_
 
 ## Introduction
 
-Many [modern UFO reports]({{ 'modern-reports-6a42f5/' | relative_url }}) in [North Carolina]({{ 'what-really-happened-in-north/' | relative_url }}) begin with a simple but surprisingly powerful visual problem: a bright aircraft on approach to an airport can look nothing like an ordinary aeroplane. Seen from the ground at night, a landing aircraft may appear motionless, unusually large, triangular, silent, or impossibly bright. In some cases witnesses genuinely believe they are watching an object hover over a city or remain fixed in one position for several minutes.
+Many modern UFO reports in North Carolina begin with a simple but surprisingly powerful visual problem: a bright aircraft on approach to an airport can look nothing like an ordinary aeroplane. Seen from the ground at night, a landing aircraft may appear motionless, unusually large, triangular, silent, or impossibly bright. In some cases witnesses genuinely believe they are watching an object hover over a city or remain fixed in one position for several minutes.
 
-
-<img src="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5_airport_lights_nc_uf_14b2f0-Illustration-1-light.svg" | relative_url }}" alt="Airport lights illustration 1" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5_airport_lights_nc_uf_14b2f0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5_airport_lights_nc_uf_14b2f0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5_airport_lights_nc_uf_14b2f0-Illustration-1-dark.svg" | relative_url }}" alt="Airport lights illustration 1" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5_airport_lights_nc_uf_14b2f0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5_airport_lights_nc_uf_14b2f0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because some of North Carolina's busiest UFO-reporting areas sit directly beneath major flight corridors. Charlotte Douglas International Airport and Raleigh-Durham International Airport generate constant streams of arriving and departing aircraft, especially after dark. That does not mean every unusual sighting near those cities is explained away by aviation traffic. It does mean that airport approach lights are one of the first ordinary explanations investigators need to check before treating a report as genuinely unexplained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">12 afh ch11</span><span class="citation-popover-snippet">Bright lights or bold colors advance the runway, making it appear closer. Night landings are...Read more...</span></span></span>
 
 ## Why approaching aircraft can seem to hover
@@ -278,7 +277,6 @@ The result is that a witness may honestly report a hovering object, sudden accel
 
 North Carolina's largest urban air corridors create conditions where these misidentifications are especially likely.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0M1J9qQX1TQ" title="Aircraft lights | They&#x27;re not UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer">Aircraft lights | They&#x27;re not UFOs</a></p><p class="youtube-embed-meta">Channel: flight-club &middot; Views: 99.0K &middot; Uploaded: February 2020 &middot; Length: 3 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0M1J9qQX1TQ">Open on YouTube</a></p></div></div></div>
 
 ### Charlotte's approach paths
@@ -297,8 +295,7 @@ Witnesses often report a bright light appearing fixed above trees or neighbourho
 
 The Triangle's mixture of suburban development and darker rural edges can make the illusion stronger. A witness standing in a relatively dark area may see only the light itself, with no surrounding visual references to indicate movement or distance.
 
-
-<img src="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5_airport_lights_nc_uf_14b2f0-Illustration-2-light.svg" | relative_url }}" alt="Airport lights illustration 2" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5_airport_lights_nc_uf_14b2f0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5_airport_lights_nc_uf_14b2f0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5_airport_lights_nc_uf_14b2f0-Illustration-2-dark.svg" | relative_url }}" alt="Airport lights illustration 2" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5_airport_lights_nc_uf_14b2f0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5_airport_lights_nc_uf_14b2f0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why triangular UFO reports often overlap with aircraft lighting
 
 Some modern North Carolina reports describe triangular or V-shaped objects rather than simple lights.
@@ -311,8 +308,7 @@ Distance estimation becomes critical here. If a witness assumes the object is re
 
 This does not resolve every triangular UFO claim. Some reports include additional details that are harder to reconcile with normal traffic. The key point is that a triangular appearance alone is not strong evidence of an unconventional craft, especially near major airport corridors.
 
-
-<img src="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5_airport_lights_nc_uf_14b2f0-Illustration-3-light.svg" | relative_url }}" alt="Airport lights illustration 3" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5_airport_lights_nc_uf_14b2f0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5_airport_lights_nc_uf_14b2f0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5_airport_lights_nc_uf_14b2f0-Illustration-3-dark.svg" | relative_url }}" alt="Airport lights illustration 3" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5_airport_lights_nc_uf_14b2f0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_modern_ufo_reports_n_d137e5_airport_lights_nc_uf_14b2f0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What details help separate aircraft from unresolved cases
 
 The strongest UFO investigations do not begin by assuming either an extraordinary explanation or a mundane one. Instead, they look for details that can distinguish routine air traffic from something genuinely difficult to identify.
@@ -345,7 +341,6 @@ Modern tools such as flight-tracking services often allow investigators to compa
 
 Cases become more interesting when they remain inconsistent with known traffic patterns after these checks. Reports involving unusual manoeuvres confirmed from multiple locations, corroborating radar data, or behaviour that clearly differs from established approach routes tend to receive more serious attention from investigators.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ELvFqyw_AmI" title="Day 7: Runway Optical Illusions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ELvFqyw_AmI" target="_blank" rel="noopener noreferrer">Day 7: Runway Optical Illusions</a></p><p class="youtube-embed-meta">Channel: MzeroA Flight Training &middot; Views: 5.9K &middot; Uploaded: January 2025 &middot; Length: 4 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ELvFqyw_AmI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ELvFqyw_AmI">Open on YouTube</a></p></div></div></div>
 
 ## A recurring lesson in North Carolina UFO reports
@@ -356,9 +351,7 @@ Charlotte and Raleigh-Durham combine large populations, extensive night-time air
 
 For that reason, experienced investigators often treat airport approach paths as an essential first checkpoint. Many dramatic reports weaken considerably once aircraft geometry, lighting configurations and local flight activity are examined. At the same time, that process helps identify the smaller number of cases that do not fit obvious aviation explanations and therefore deserve closer scrutiny within North Carolina's wider UFO record.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rFhcAQQKjOI" title="UFO allegedly spotted in NC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rFhcAQQKjOI" target="_blank" rel="noopener noreferrer">UFO allegedly spotted in NC</a></p><p class="youtube-embed-meta">Channel: Fox News &middot; Views: 26.4K &middot; Uploaded: October 2016 &middot; Length: 1 minute 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rFhcAQQKjOI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rFhcAQQKjOI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -782,133 +775,133 @@ For that reason, experienced investigators often treat airport approach paths as
 1. <a id="endnote-1"></a>
    Source: faa.gov  
    Title: 12 afh ch11  
-   Link: [https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bright lights or bold colors advance the runway, making it appear closer. Night landings are...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: uapsightings.org  
-   Link: [https://uapsightings.org/common-uap-misidentifications/](https://uapsightings.org/common-uap-misidentifications/)  
+   Link: <a href="https://uapsightings.org/common-uap-misidentifications/" target="_blank" rel="noopener noreferrer nofollow">https://uapsightings.org/common-uap-misidentifications/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common UAP MisidentificationsThe Federal Aviation Administration (FAA) enforces lighting requirements for aircraft flying at night, which...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/](https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/)  
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>seem to remain stagnant at times when flying in the air? 0. 4. I&#x27;ve seen a ufo out of a plane · r/UFOs. • 3y ago. I&#x27;ve seen a ufo out of...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Sensory illusions in aviation  
-   Link: [https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation](https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation</a>  
 
 5. <a id="endnote-5"></a>
    Source: robslink.com  
-   Link: [https://robslink.com/SAS/democd78/ufo_in_nc.htm](https://robslink.com/SAS/democd78/ufo_in_nc.htm)  
+   Link: <a href="https://robslink.com/SAS/democd78/ufo_in_nc.htm" target="_blank" rel="noopener noreferrer nofollow">https://robslink.com/SAS/democd78/ufo_in_nc.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in North CarolinaDisk-Shaped Objects w/ Red and White Lights Over Incoming Flight Path of Charlotte-Douglas International Airport. C...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/flying/comments/1h1c02i/runway_lights_shut_off_during_landing/](https://www.reddit.com/r/flying/comments/1h1c02i/runway_lights_shut_off_during_landing/)  
+   Link: <a href="https://www.reddit.com/r/flying/comments/1h1c02i/runway_lights_shut_off_during_landing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/1h1c02i/runway_lights_shut_off_during_landing/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>We were, just above the ground, in complete darkness, surrounded by tall trees on either side of the...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1hi3w09/why_would_nhi_ufos_use_lights_on_their_craft/](https://www.reddit.com/r/ufo/comments/1hi3w09/why_would_nhi_ufos_use_lights_on_their_craft/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1hi3w09/why_would_nhi_ufos_use_lights_on_their_craft/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1hi3w09/why_would_nhi_ufos_use_lights_on_their_craft/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>id human aircraft that gets close, why do so many declared...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: my friend just recorded and sent me this  
-   Link: [https://www.reddit.com/r/aliens/comments/1azfc7g/my_friend_just_recorded_and_sent_me_this_saw_it/](https://www.reddit.com/r/aliens/comments/1azfc7g/my_friend_just_recorded_and_sent_me_this_saw_it/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1azfc7g/my_friend_just_recorded_and_sent_me_this_saw_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1azfc7g/my_friend_just_recorded_and_sent_me_this_saw_it/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>saw it around 11...The “aliens” or whatever it is are so far advanced but still have lights? If this lights are needed couldn&#x27;t they mak...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/](https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/164uga8/i_pilot_came_head_on_with_an_object_glowing_green/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I (pilot) came head on with an object glowing green during...This happened a few hours ago while I was flying with my student at 12,000...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: 2024 United States drone sightings  
-   Link: [https://en.wikipedia.org/wiki/2024_United_States_drone_sightings](https://en.wikipedia.org/wiki/2024_United_States_drone_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2024_United_States_drone_sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 United States drone sightings... explanation because the aircraft used FAA-compliant lighting. Former USNORTHCOM commander Glen V...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/technology/rwsl](https://www.faa.gov/air_traffic/technology/rwsl)  
+   Link: <a href="https://www.faa.gov/air_traffic/technology/rwsl" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/rwsl</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Runway Status Lights3 Apr 2025 — Runway Status Lights is a fully automatic, advisory system designed to reduce the number and severity of...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/2024/dec/21/drones-new-jersey-experts](https://www.theguardian.com/technology/2024/dec/21/drones-new-jersey-experts)  
+   Link: <a href="https://www.theguardian.com/technology/2024/dec/21/drones-new-jersey-experts" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/dec/21/drones-new-jersey-experts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Beginning in New Jersey, reports have accumulated from multiple states, causing lawmakers and the public to suspect a swarm of drones, po...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: aerosociety.com  
    Title: the phantom horizon  
-   Link: [https://www.aerosociety.com/news/the-phantom-horizon/](https://www.aerosociety.com/news/the-phantom-horizon/)  
+   Link: <a href="https://www.aerosociety.com/news/the-phantom-horizon/" target="_blank" rel="noopener noreferrer nofollow">https://www.aerosociety.com/news/the-phantom-horizon/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Aeronautical SocietyThe phantom horizon24 Feb 2026 — Visual illusions are a major hazard in flight, particularly during approach an...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pilotinstitute.com  
    Title: Learn how these lights  
-   Link: [https://pilotinstitute.com/airplane-lights/](https://pilotinstitute.com/airplane-lights/)  
+   Link: <a href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/airplane-lights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot InstituteAirplane Lights: What Each Light Does (Red/Green, Strobe...26 Dec 2024 — Discover the purpose of airplane lights, from n...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: medium.com  
-   Link: [https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471](https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471)  
+   Link: <a href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating the Hazard of Visual IllusionsA review of aircraft mishaps quickly reveals that visual illusions and/or poor visibility have b...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: foxnews.com  
-   Link: [https://www.foxnews.com/travel/inquiry-begun-after-american-airlines-flight-reports-mysterious-blue-light-while-trying-land](https://www.foxnews.com/travel/inquiry-begun-after-american-airlines-flight-reports-mysterious-blue-light-while-trying-land)  
+   Link: <a href="https://www.foxnews.com/travel/inquiry-begun-after-american-airlines-flight-reports-mysterious-blue-light-while-trying-land" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/travel/inquiry-begun-after-american-airlines-flight-reports-mysterious-blue-light-while-trying-land</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Airlines flight reports strange blue light as it tries...3 Feb 2026 — An American Airlines flight reported seeing a strange blu...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: fox5atlanta.com  
-   Link: [https://www.fox5atlanta.com/news/inquiry-begun-after-american-airlines-flight-reports-mysterious-blue-light-while-trying-land](https://www.fox5atlanta.com/news/inquiry-begun-after-american-airlines-flight-reports-mysterious-blue-light-while-trying-land)  
+   Link: <a href="https://www.fox5atlanta.com/news/inquiry-begun-after-american-airlines-flight-reports-mysterious-blue-light-while-trying-land" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5atlanta.com/news/inquiry-begun-after-american-airlines-flight-reports-mysterious-blue-light-while-trying-land</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inquiry begun after American Airlines flight reports...3 Feb 2026 — An American Airlines flight reported seeing a mysterious blue light...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/flightradar24/posts/airports-put-on-one-hell-of-a-light-show-at-night-but-what-do-those-colors-repre/1117784613721989/](https://www.facebook.com/flightradar24/posts/airports-put-on-one-hell-of-a-light-show-at-night-but-what-do-those-colors-repre/1117784613721989/)  
+   Link: <a href="https://www.facebook.com/flightradar24/posts/airports-put-on-one-hell-of-a-light-show-at-night-but-what-do-those-colors-repre/1117784613721989/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/flightradar24/posts/airports-put-on-one-hell-of-a-light-show-at-night-but-what-do-those-colors-repre/1117784613721989/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Airports put on one hell of a light show at night, but what do...Airports put on one hell of a light show at night, but what do those co...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: ufo sighting in north carolina may 2026 ufo uap aliens travel fblifestyle  
-   Link: [https://www.facebook.com/glueazy/posts/ufo-sighting-in-north-carolina-may-2026-ufo-uap-aliens-travel-fblifestyle/10163207251538406/](https://www.facebook.com/glueazy/posts/ufo-sighting-in-north-carolina-may-2026-ufo-uap-aliens-travel-fblifestyle/10163207251538406/)  
+   Link: <a href="https://www.facebook.com/glueazy/posts/ufo-sighting-in-north-carolina-may-2026-ufo-uap-aliens-travel-fblifestyle/10163207251538406/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/glueazy/posts/ufo-sighting-in-north-carolina-may-2026-ufo-uap-aliens-travel-fblifestyle/10163207251538406/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting in North Carolina MAY 2026 👽🛸 #UFO #UAP...Residents of Charlotte, NC, have recorded a UFO on February 13, 2024.... Lights...</p></details>
    Published: may 2026  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=0M1J9qQX1TQ](https://www.youtube.com/watch?v=0M1J9qQX1TQ)  
+   Link: <a href="https://www.youtube.com/watch?v=0M1J9qQX1TQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0M1J9qQX1TQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft lights | They&#x27;re not UFOsAll aeroplanes China specific arrangement of multicolored lights and in this video we&#x27;ll discuss some o...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: eazypilot.com  
    Title: night illusions while flying what every pilot should know  
-   Link: [https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/](https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/)  
+   Link: <a href="https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/" target="_blank" rel="noopener noreferrer nofollow">https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Illusions While Flying: What Every Pilot Should Know10 Aug 2025 — Night illusions are visual and sensory misinterpretations that ca...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: telegraph.co.uk  
    Title: what all the markings signs and lights on a runway mean  
-   Link: [https://www.telegraph.co.uk/travel/advice/what-all-the-markings-signs-and-lights-on-a-runway-mean/](https://www.telegraph.co.uk/travel/advice/what-all-the-markings-signs-and-lights-on-a-runway-mean/)  
+   Link: <a href="https://www.telegraph.co.uk/travel/advice/what-all-the-markings-signs-and-lights-on-a-runway-mean/" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/travel/advice/what-all-the-markings-signs-and-lights-on-a-runway-mean/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What all the strange markings, signs and lights on a...7 May 2026 — From cryptic lighting codes to hidden runway symbols, our writer rev...</p></details>
    Published: May 2026  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
    Title: Flying at night is as challenging as it is breathtaking  
-   Link: [https://www.facebook.com/AirwaysAviationAustralia/posts/flying-at-night-is-as-challenging-as-it-is-breathtakingthere-are-three-visual-il/1318279753674629/](https://www.facebook.com/AirwaysAviationAustralia/posts/flying-at-night-is-as-challenging-as-it-is-breathtakingthere-are-three-visual-il/1318279753674629/)  
+   Link: <a href="https://www.facebook.com/AirwaysAviationAustralia/posts/flying-at-night-is-as-challenging-as-it-is-breathtakingthere-are-three-visual-il/1318279753674629/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AirwaysAviationAustralia/posts/flying-at-night-is-as-challenging-as-it-is-breathtakingthere-are-three-visual-il/1318279753674629/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There...3 Feb 2026 — There are three visual illusions pilots must recognise: -Autokinesis: stationary lights can appear to move. -False...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: solutions4ga.com  
    Title: runway lights at airport colors and meaning explained  
-   Link: [https://solutions4ga.com/runway-lights-at-airport-colors-and-meaning-explained/](https://solutions4ga.com/runway-lights-at-airport-colors-and-meaning-explained/)  
+   Link: <a href="https://solutions4ga.com/runway-lights-at-airport-colors-and-meaning-explained/" target="_blank" rel="noopener noreferrer nofollow">https://solutions4ga.com/runway-lights-at-airport-colors-and-meaning-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Runway Lights at Airport: Colors and Meaning Explained27 Apr 2020 — What types of runway lights does airport have? What are their colors...</p></details>

@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-pennsylvanias/
 nav_short_title: Carbondale
 title: How Carbondale Turned a Lantern Into Legend
-title_full: How Carbondale Turned a Lantern Into Legend | Pennsylvania UFOs
+title_full: How Carbondale Turned a Lantern Into Legend
 display_title_short: Carbondale
 display_title: Carbondale
 heading_title: How Carbondale Turned a Lantern Into Legend
@@ -268,12 +268,10 @@ image: /assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-overview-s
 
 ## Introduction
 
-Carbondale’s 1974 “UFO crash” is one of [Pennsylvania]({{ 'what-really-happened-in-pennsylvanias/' | relative_url }})’s clearest examples of a case where the legend outlived the explanation. The basic story is memorable: on 9 November 1974, teenagers reported a red, whirring light falling into a silt pond near Russell Park in Carbondale, Lackawanna County; police, spectators, investigators and media attention followed; after a search, a diver recovered an old battery-powered railroad or mining lantern from the water. Local authorities treated the episode as a hoax, yet the case still circulates as a regional UFO legend because the crowd, the official response, the glowing pond and later doubts gave the story more life than the object itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.salemnews.net/uncategorized/2016/11/ufo-tale-rises-again-from-a-pond-in-carbondale-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salemnews.net">[salemnews.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salemnews.net</span><span class="citation-popover-title">ufo tale rises again from a pond in carbondale pa</span><span class="citation-popover-snippet">and two friends reported to police they saw a red, whirring ball fly over Salem Mountain and...</span></span></span>
-
+Carbondale’s 1974 “UFO crash” is one of Pennsylvania’s clearest examples of a case where the legend outlived the explanation. The basic story is memorable: on 9 November 1974, teenagers reported a red, whirring light falling into a silt pond near Russell Park in Carbondale, Lackawanna County; police, spectators, investigators and media attention followed; after a search, a diver recovered an old battery-powered railroad or mining lantern from the water. Local authorities treated the episode as a hoax, yet the case still circulates as a regional UFO legend because the crowd, the official response, the glowing pond and later doubts gave the story more life than the object itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.salemnews.net/uncategorized/2016/11/ufo-tale-rises-again-from-a-pond-in-carbondale-pa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salemnews.net">[salemnews.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salemnews.net</span><span class="citation-popover-title">ufo tale rises again from a pond in carbondale pa</span><span class="citation-popover-snippet">and two friends reported to police they saw a red, whirring ball fly over Salem Mountain and...</span></span></span>
 
 <img src="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-overview.webp" | relative_url }}" alt="Overview image for Carbondale" loading="eager" decoding="sync" fetchpriority="high">
 Within Pennsylvania UFO history, Carbondale matters less as evidence of an unexplained craft than as a lesson in how a weak or debunked case can become durable folklore. It sits apart from more contested Pennsylvania stories such as [Kecksburg]({{ 'kecksburg/' | relative_url }}) because its central physical “find” was prosaic, but it remains important because thousands of people reportedly came to see the scene, and the town has since turned the episode into local identity, anniversary events and the “Carbondalien” brand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visitcarbondalepa.com/2024/11/09/226070/50th-anniversary-carbondalien-festival" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitcarbondalepa.com">[visitcarbondalepa.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitcarbondalepa.com</span><span class="citation-popover-title">50th anniversary carbondalien festival</span><span class="citation-popover-snippet">50th anniversary carbondalien festival</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://carbondalienfestival.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carbondalienfestival.com">[Carbondalien Festival]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carbondalienfestival.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pP-5sazRkso" title="The Creepy Side of NEPA: Carbondale PA UFO Mystery / Carbondalien Festival #UFO #UFOCrash" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pP-5sazRkso" target="_blank" rel="noopener noreferrer">The Creepy Side of NEPA: Carbondale PA UFO Mystery / Carbondalien Festival #UFO #UFOCrash</a></p><p class="youtube-embed-meta">Channel: Creepy Side of NEPA &middot; Views: 431 &middot; Uploaded: October 2024 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pP-5sazRkso" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pP-5sazRkso">Open on YouTube</a></p></div></div></div>
 
@@ -287,18 +285,16 @@ For police, the problem was practical as much as mysterious. A report of a glowi
 
 That response helped the story grow. Civil Air Patrol involvement, calls involving national agencies, and the presence of outside investigators were easily reinterpreted by onlookers as signs that “the military” or federal authorities knew more than they were saying. This is one of the recurring mechanisms in UFO folklore: an ordinary emergency response can look like confirmation when the public does not know what officials are doing or why. <span class="citation-chip-wrap"><a class="citation-chip" href="https://carbondalien.com/?s=thelegend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carbondalien.com">[carbondalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carbondalien.com</span><span class="citation-popover-title">The Legend</span><span class="citation-popover-snippet">The Legend</span></span></span>
 
-
-<img src="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-1-light.svg" | relative_url }}" alt="Carbondale illustration 1" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-1-dark.svg" | relative_url }}" alt="Carbondale illustration 1" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the lantern explanation emerged
 
-The central debunking element was the recovery of a lantern. Later accounts differ in small details — railroad lantern, mining lantern, train lantern, sealed-beam lantern, flashlight — but they converge on the same basic point: the object pulled from the pond was not a spacecraft, meteorite or advanced device. WVIA summarised the official conclusion as a prank involving a lantern, while other local and regional accounts describe a diver surfacing with an old battery-powered railroad lantern after the search. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/video/the-day-carbondale-stood-still-pzrrpk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Short Takes | The Day Carbondale Stood Still | Season 9</span><span class="citation-popover-snippet">PBSShort Takes | The Day Carbondale Stood Still | Season 9 - PBSThe Carbondale UFO incident of November 9, 1974, remains one of PA&#x27;s most...</span><span class="citation-popover-meta">Published: November 9, 1974</span></span></span>
+The central debunking element was the recovery of a lantern. Later accounts differ in small details — railroad lantern, mining lantern, train lantern, sealed-beam lantern, flashlight — but they converge on the same basic point: the object pulled from the pond was not a spacecraft, meteorite or advanced device. WVIA summarised the official conclusion as a prank involving a lantern, while other local and regional accounts describe a diver surfacing with an old battery-powered railroad lantern after the search. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/video/the-day-carbondale-stood-still-pzrrpk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">Short Takes &#124; The Day Carbondale Stood Still &#124; Season 9</span><span class="citation-popover-snippet">Short Takes &#124; The Day Carbondale Stood Still &#124; Season 9 - PBSThe Carbondale UFO incident of November 9, 1974, remains one of PA&#x27;s most...</span><span class="citation-popover-meta">Published: November 9, 1974</span></span></span>
 
 The recovery did not happen in a calm laboratory setting. According to later local histories, the first plan to pump down the pond ran into difficulty because silt and debris clogged the equipment, so a scuba diver was brought in instead. That detail matters because it explains why the search itself felt dramatic: there was machinery, delay, water, uncertainty and a crowd waiting for an answer. Even a mundane object can feel like a revelation when retrieved from a murky pond in front of a town already primed for mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://carbondalien.com/?s=thelegend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carbondalien.com">[carbondalien.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carbondalien.com</span><span class="citation-popover-title">The Legend</span><span class="citation-popover-snippet">The Legend</span></span></span>
 
 Police then closed the case as a hoax. WVIA’s 2024 anniversary reporting quoted the official position at the time: nothing had been found to substantiate the alleged UFO sighting as anything other than what appeared to be a hoax. The same report says the case cost the city nearly $1,000 at the time, roughly $6,400 in contemporary value, showing that the prank explanation did not mean the incident had been harmless for local authorities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wvia.org/news/local/2025-11-06/eventful-carbondalien-festival-expands-out-of-world-experience-in-the-pioneer-city-in-lackawanna-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvia.org">[wvia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvia.org</span><span class="citation-popover-snippet">Open source on wvia.org.</span></span></span>
 
 The strongest later support for the hoax explanation is not only the lantern itself, but the reported admission. WVIA’s anniversary coverage says that on the incident’s 25th anniversary, Gillette told The Scranton Times that he had tossed a flashlight into the water to frighten his sister, Maria, and her friends. That does not answer every memory attached to the case, but it strongly weakens the claim that the pond object was unknown. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wvia.org/news/local/2025-04-02/news-voices-recapping-the-mystery-of-the-carbondalien" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvia.org">[wvia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvia.org</span><span class="citation-popover-title">news voices recapping the mystery of the carbondalien</span><span class="citation-popover-snippet">news voices recapping the mystery of the carbondalien</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E3UTm4xQc6A" title="Did Aliens Really Visit This Small Town in 1974?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E3UTm4xQc6A" target="_blank" rel="noopener noreferrer">Did Aliens Really Visit This Small Town in 1974?</a></p><p class="youtube-embed-meta">Channel: WVIA &middot; Views: 390.0K &middot; Uploaded: April 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E3UTm4xQc6A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E3UTm4xQc6A">Open on YouTube</a></p></div></div></div>
 
@@ -312,8 +308,7 @@ The “cover-up” version also has a built-in problem: it needs to explain why 
 
 The fair assessment is therefore not that every witness lied, nor that every doubt is foolish. It is that the strongest known evidence points toward a prank and a local panic, while the unresolved residue rests mainly on memory, rumour and dissatisfaction with the official explanation. That makes Carbondale a useful case for separating an unexplained report from an enduring legend.
 
-
-<img src="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-2-light.svg" | relative_url }}" alt="Carbondale illustration 2" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-2-dark.svg" | relative_url }}" alt="Carbondale illustration 2" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why debunked cases still endure
 
 Carbondale endured because the story had vivid ingredients: teenagers, a glowing pond, a police response, a diver, a retrieved lantern, crowd excitement and a town suddenly pushed into wider attention. Many UFO reports fade because they are only lights in the sky; Carbondale had a location people could visit and a physical object that could be argued over. Even after the lantern explanation, the pond itself remained a stage for the memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wvia.org/shows/short-takes/episodes/the-day-carbondale-stood-still-rli5qs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvia.org">[wvia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvia.org</span><span class="citation-popover-title">the day carbondale stood still rli5qs</span><span class="citation-popover-snippet">the day carbondale stood still rli5qs</span></span></span>
@@ -323,7 +318,6 @@ The case also fits northeastern Pennsylvania’s local texture. Carbondale’s c
 That civic embrace is important. A debunked case can still become valuable to a community as folklore, tourism, art and shared memory. In 2024, the inaugural Carbondalien Festival marked the 50th anniversary with vendors, music, art, speakers and an immersive “Russell Park” experience at the alleged crash site. WVIA later reported that the festival continued into 2025 with expanded programming, including a light parade and theatrical return to the silt pond setting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visitcarbondalepa.com/2024/11/09/226070/50th-anniversary-carbondalien-festival" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitcarbondalepa.com">[visitcarbondalepa.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitcarbondalepa.com</span><span class="citation-popover-title">50th anniversary carbondalien festival</span><span class="citation-popover-snippet">50th anniversary carbondalien festival</span></span></span>
 
 The legend has also moved into regional popular culture. In 2025, the Wilkes-Barre/Scranton Penguins adopted a one-night “Carbondale UFOs” identity, explicitly tying the hockey promotion to the 1974 legend. That kind of reuse shows how the story has shifted from urgent mystery to playful heritage: people do not need to believe a spacecraft crashed in Carbondale to recognise the case as a memorable part of Pennsylvania UFO lore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wbspenguins.com/blog/the-carbondale-ufos-take-flight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wbspenguins.com">[WBS Penguins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wbspenguins.com</span><span class="citation-popover-title">the carbondale ufos take flight</span><span class="citation-popover-snippet">the carbondale ufos take flight</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UnUYOPetUzI" title="Eric Mintel Investigates: The 1974 Carbondale UFO Encounter | Pennsylvania UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UnUYOPetUzI" target="_blank" rel="noopener noreferrer">Eric Mintel Investigates: The 1974 Carbondale UFO Encounter | Pennsylvania UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Pocono Mountains | Come explore the Poconos! &middot; Views: 885 &middot; Uploaded: December 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UnUYOPetUzI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UnUYOPetUzI">Open on YouTube</a></p></div></div></div>
 
@@ -335,7 +329,6 @@ The case also shows why “official involvement” is not automatically evidence
 
 For readers assessing the case today, the most useful distinction is between three layers:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **The reported sighting:** teenagers and later witnesses described a light or object associated with the pond.
@@ -346,8 +339,7 @@ For readers assessing the case today, the most useful distinction is between thr
 
 That layered reading avoids two mistakes. It does not dismiss Carbondale as “nothing”, because the incident genuinely affected the town and remains part of Pennsylvania’s UFO culture. But it also does not inflate a lantern recovery into evidence of a crashed craft. The best-supported conclusion is that Carbondale was almost certainly a prank or misidentified lantern episode that became famous because it unfolded in public, at the right cultural moment, with just enough uncertainty for legend to take over.
 
-
-<img src="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-3-light.svg" | relative_url }}" alt="Carbondale illustration 3" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-3-dark.svg" | relative_url }}" alt="Carbondale illustration 3" data-theme-src-dark="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Pennsylvania_dff756_carbondale_lantern_l_53004a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -771,129 +763,129 @@ That layered reading avoids two mistakes. It does not dismiss Carbondale as “n
 1. <a id="endnote-1"></a>
    Source: salemnews.net  
    Title: ufo tale rises again from a pond in carbondale pa  
-   Link: [https://www.salemnews.net/uncategorized/2016/11/ufo-tale-rises-again-from-a-pond-in-carbondale-pa/](https://www.salemnews.net/uncategorized/2016/11/ufo-tale-rises-again-from-a-pond-in-carbondale-pa/)  
+   Link: <a href="https://www.salemnews.net/uncategorized/2016/11/ufo-tale-rises-again-from-a-pond-in-carbondale-pa/" target="_blank" rel="noopener noreferrer nofollow">https://www.salemnews.net/uncategorized/2016/11/ufo-tale-rises-again-from-a-pond-in-carbondale-pa/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and two friends reported to police they saw a red, whirring ball fly over Salem Mountain and...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: wvia.org  
    Title: celebrating close encounters of the carbondale kind  
-   Link: [https://www.wvia.org/news/local/2024-11-02/celebrating-close-encounters-of-the-carbondale-kind](https://www.wvia.org/news/local/2024-11-02/celebrating-close-encounters-of-the-carbondale-kind)  
+   Link: <a href="https://www.wvia.org/news/local/2024-11-02/celebrating-close-encounters-of-the-carbondale-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.wvia.org/news/local/2024-11-02/celebrating-close-encounters-of-the-carbondale-kind</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: Close encounters of the Carbondale kind...2 Nov 2024 — “I&#x27;ve gathered by now that we found nothing to substantiate the alleged U...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pbs.org  
    Title: Short Takes | The Day Carbondale Stood Still | Season 9  
-   Link: [https://www.pbs.org/video/the-day-carbondale-stood-still-pzrrpk/](https://www.pbs.org/video/the-day-carbondale-stood-still-pzrrpk/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PBSShort Takes | The Day Carbondale Stood Still | Season 9 - PBSThe Carbondale UFO incident of November 9, 1974, remains one of PA&#x27;s most...</p></details>
+   Link: <a href="https://www.pbs.org/video/the-day-carbondale-stood-still-pzrrpk/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/video/the-day-carbondale-stood-still-pzrrpk/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Short Takes | The Day Carbondale Stood Still | Season 9 - PBSThe Carbondale UFO incident of November 9, 1974, remains one of PA&#x27;s most...</p></details>
    Published: November 9, 1974  
 
 4. <a id="endnote-4"></a>
    Source: visitcarbondalepa.com  
    Title: 50th anniversary carbondalien festival  
-   Link: [https://www.visitcarbondalepa.com/2024/11/09/226070/50th-anniversary-carbondalien-festival](https://www.visitcarbondalepa.com/2024/11/09/226070/50th-anniversary-carbondalien-festival)  
+   Link: <a href="https://www.visitcarbondalepa.com/2024/11/09/226070/50th-anniversary-carbondalien-festival" target="_blank" rel="noopener noreferrer nofollow">https://www.visitcarbondalepa.com/2024/11/09/226070/50th-anniversary-carbondalien-festival</a>  
 
 5. <a id="endnote-5"></a>
    Source: wvia.org  
-   Link: [https://www.wvia.org/news/local/2025-11-06/eventful-carbondalien-festival-expands-out-of-world-experience-in-the-pioneer-city-in-lackawanna-county](https://www.wvia.org/news/local/2025-11-06/eventful-carbondalien-festival-expands-out-of-world-experience-in-the-pioneer-city-in-lackawanna-county)  
+   Link: <a href="https://www.wvia.org/news/local/2025-11-06/eventful-carbondalien-festival-expands-out-of-world-experience-in-the-pioneer-city-in-lackawanna-county" target="_blank" rel="noopener noreferrer nofollow">https://www.wvia.org/news/local/2025-11-06/eventful-carbondalien-festival-expands-out-of-world-experience-in-the-pioneer-city-in-lackawanna-county</a>  
 
 6. <a id="endnote-6"></a>
    Source: wvia.org  
    Title: news voices recapping the mystery of the carbondalien  
-   Link: [https://www.wvia.org/news/local/2025-04-02/news-voices-recapping-the-mystery-of-the-carbondalien](https://www.wvia.org/news/local/2025-04-02/news-voices-recapping-the-mystery-of-the-carbondalien)  
+   Link: <a href="https://www.wvia.org/news/local/2025-04-02/news-voices-recapping-the-mystery-of-the-carbondalien" target="_blank" rel="noopener noreferrer nofollow">https://www.wvia.org/news/local/2025-04-02/news-voices-recapping-the-mystery-of-the-carbondalien</a>  
 
 7. <a id="endnote-7"></a>
    Source: timesleader.com  
    Title: carbondale ufo tale rises again  
-   Link: [https://www.timesleader.com/wire/state-wire/606429/carbondale-ufo-tale-rises-again](https://www.timesleader.com/wire/state-wire/606429/carbondale-ufo-tale-rises-again)  
+   Link: <a href="https://www.timesleader.com/wire/state-wire/606429/carbondale-ufo-tale-rises-again" target="_blank" rel="noopener noreferrer nofollow">https://www.timesleader.com/wire/state-wire/606429/carbondale-ufo-tale-rises-again</a>  
 
 8. <a id="endnote-8"></a>
    Source: carbondalien.com  
    Title: The Legend  
-   Link: [https://carbondalien.com/?s=thelegend](https://carbondalien.com/?s=thelegend)  
+   Link: <a href="https://carbondalien.com/?s=thelegend" target="_blank" rel="noopener noreferrer nofollow">https://carbondalien.com/?s=thelegend</a>  
 
 9. <a id="endnote-9"></a>
    Source: wvia.org  
    Title: the day carbondale stood still rli5qs  
-   Link: [https://www.wvia.org/shows/short-takes/episodes/the-day-carbondale-stood-still-rli5qs](https://www.wvia.org/shows/short-takes/episodes/the-day-carbondale-stood-still-rli5qs)  
+   Link: <a href="https://www.wvia.org/shows/short-takes/episodes/the-day-carbondale-stood-still-rli5qs" target="_blank" rel="noopener noreferrer nofollow">https://www.wvia.org/shows/short-takes/episodes/the-day-carbondale-stood-still-rli5qs</a>  
 
 10. <a id="endnote-10"></a>
    Source: carbondalienfestival.com  
-   Link: [https://carbondalienfestival.com/](https://carbondalienfestival.com/)  
+   Link: <a href="https://carbondalienfestival.com/" target="_blank" rel="noopener noreferrer nofollow">https://carbondalienfestival.com/</a>  
 
 11. <a id="endnote-11"></a>
    Source: wbspenguins.com  
    Title: the carbondale ufos take flight  
-   Link: [https://www.wbspenguins.com/blog/the-carbondale-ufos-take-flight/](https://www.wbspenguins.com/blog/the-carbondale-ufos-take-flight/)  
+   Link: <a href="https://www.wbspenguins.com/blog/the-carbondale-ufos-take-flight/" target="_blank" rel="noopener noreferrer nofollow">https://www.wbspenguins.com/blog/the-carbondale-ufos-take-flight/</a>  
 
 12. <a id="endnote-12"></a>
    Source: ufoinsight.com  
    Title: UFO Insight The Discreetly Intriguing Carbondale Case – A Downed  
-   Link: [https://www.ufoinsight.com/ufos/cover-ups/carbondale-case-downed-ufo-pennsylvania](https://www.ufoinsight.com/ufos/cover-ups/carbondale-case-downed-ufo-pennsylvania)  
+   Link: <a href="https://www.ufoinsight.com/ufos/cover-ups/carbondale-case-downed-ufo-pennsylvania" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/cover-ups/carbondale-case-downed-ufo-pennsylvania</a>  
 
 13. <a id="endnote-13"></a>
    Source: wbspenguins.com  
    Title: an out of this world carbondale tale  
-   Link: [https://www.wbspenguins.com/an-out-of-this-world-carbondale-tale/](https://www.wbspenguins.com/an-out-of-this-world-carbondale-tale/)  
+   Link: <a href="https://www.wbspenguins.com/an-out-of-this-world-carbondale-tale/" target="_blank" rel="noopener noreferrer nofollow">https://www.wbspenguins.com/an-out-of-this-world-carbondale-tale/</a>  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: The Day Carbondale Stood Still | WVIA  
-   Link: [https://www.facebook.com/WVIATVFM/videos/the-day-carbondale-stood-still/538772202596685/](https://www.facebook.com/WVIATVFM/videos/the-day-carbondale-stood-still/538772202596685/)  
+   Link: <a href="https://www.facebook.com/WVIATVFM/videos/the-day-carbondale-stood-still/538772202596685/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WVIATVFM/videos/the-day-carbondale-stood-still/538772202596685/</a>  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/carbondalien/](https://www.facebook.com/carbondalien/)  
+   Link: <a href="https://www.facebook.com/carbondalien/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/carbondalien/</a>  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/visitlackawannapa/videos/%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%A9%F0%9D%97%98-%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%98-%F0%9D%97%97%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%98-carbondalien-festival-november-9-2024-pax-the-alien-got-a-little-l/491202256764353/](https://www.facebook.com/visitlackawannapa/videos/%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%A9%F0%9D%97%98-%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%98-%F0%9D%97%97%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%98-carbondalien-festival-november-9-2024-pax-the-alien-got-a-little-l/491202256764353/)  
+   Link: <a href="https://www.facebook.com/visitlackawannapa/videos/%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%A9%F0%9D%97%98-%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%98-%F0%9D%97%97%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%98-carbondalien-festival-november-9-2024-pax-the-alien-got-a-little-l/491202256764353/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/visitlackawannapa/videos/%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%A9%F0%9D%97%98-%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%98-%F0%9D%97%97%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%98-carbondalien-festival-november-9-2024-pax-the-alien-got-a-little-l/491202256764353/</a>  
 
 17. <a id="endnote-17"></a>
    Source: visitnepa.org  
-   Link: [https://www.visitnepa.org/event/carbondalien-festival/19120/](https://www.visitnepa.org/event/carbondalien-festival/19120/)  
+   Link: <a href="https://www.visitnepa.org/event/carbondalien-festival/19120/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitnepa.org/event/carbondalien-festival/19120/</a>  
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=UnUYOPetUzI](https://www.youtube.com/watch?v=UnUYOPetUzI)  
+   Link: <a href="https://www.youtube.com/watch?v=UnUYOPetUzI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UnUYOPetUzI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Creepy Side of NEPA: Carbondale PA UFO Mystery / Carbondalien Festival...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: The Creepy Side of NEPA: Carbondale PA UFO Mystery / Carbondalien Festival  
-   Link: [https://www.youtube.com/watch?v=pP-5sazRkso](https://www.youtube.com/watch?v=pP-5sazRkso)  
+   Link: <a href="https://www.youtube.com/watch?v=pP-5sazRkso" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pP-5sazRkso</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Filmmakers showcase local history in new documentary on Carbondale UFO sighting...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=E3UTm4xQc6A](https://www.youtube.com/watch?v=E3UTm4xQc6A)  
+   Link: <a href="https://www.youtube.com/watch?v=E3UTm4xQc6A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E3UTm4xQc6A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Mintel Investigates: The 1974 Carbondale UFO Encounter | Pennsylvania UFO Mystery...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox43news/posts/carbondale-marks-ufo-crash-on-saturday/1087785959600020/](https://www.facebook.com/fox43news/posts/carbondale-marks-ufo-crash-on-saturday/1087785959600020/)  
+   Link: <a href="https://www.facebook.com/fox43news/posts/carbondale-marks-ufo-crash-on-saturday/1087785959600020/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox43news/posts/carbondale-marks-ufo-crash-on-saturday/1087785959600020/</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/visitlackawannapa/posts/something-out-of-this-world-is-landing-in-carbondale-pa-the-carbondalien-festiva/1398739518918268/](https://www.facebook.com/visitlackawannapa/posts/something-out-of-this-world-is-landing-in-carbondale-pa-the-carbondalien-festiva/1398739518918268/)  
+   Link: <a href="https://www.facebook.com/visitlackawannapa/posts/something-out-of-this-world-is-landing-in-carbondale-pa-the-carbondalien-festiva/1398739518918268/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/visitlackawannapa/posts/something-out-of-this-world-is-landing-in-carbondale-pa-the-carbondalien-festiva/1398739518918268/</a>  
 
 23. <a id="endnote-23"></a>
    Source: wnep.com  
-   Link: [https://www.wnep.com/video/syndication/podcasts/creepy-side-of-nepa-podcast-carbondalien-festival-ufo-50-year-anniversary/523-8acb2b3a-4c7d-4dc9-b768-4aa7505acab3](https://www.wnep.com/video/syndication/podcasts/creepy-side-of-nepa-podcast-carbondalien-festival-ufo-50-year-anniversary/523-8acb2b3a-4c7d-4dc9-b768-4aa7505acab3)  
+   Link: <a href="https://www.wnep.com/video/syndication/podcasts/creepy-side-of-nepa-podcast-carbondalien-festival-ufo-50-year-anniversary/523-8acb2b3a-4c7d-4dc9-b768-4aa7505acab3" target="_blank" rel="noopener noreferrer nofollow">https://www.wnep.com/video/syndication/podcasts/creepy-side-of-nepa-podcast-carbondalien-festival-ufo-50-year-anniversary/523-8acb2b3a-4c7d-4dc9-b768-4aa7505acab3</a>  
 
 24. <a id="endnote-24"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DLme6DeRfEB/](https://www.instagram.com/p/DLme6DeRfEB/)  
+   Link: <a href="https://www.instagram.com/p/DLme6DeRfEB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLme6DeRfEB/</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/granville5838/posts/all-i-keep-thinking-about-is-the-legend-up-at-russel-park-in-carbondale-the-lant/10164776348952713/](https://www.facebook.com/granville5838/posts/all-i-keep-thinking-about-is-the-legend-up-at-russel-park-in-carbondale-the-lant/10164776348952713/)  
+   Link: <a href="https://www.facebook.com/granville5838/posts/all-i-keep-thinking-about-is-the-legend-up-at-russel-park-in-carbondale-the-lant/10164776348952713/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/granville5838/posts/all-i-keep-thinking-about-is-the-legend-up-at-russel-park-in-carbondale-the-lant/10164776348952713/</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WVIATVFM/posts/was-it-a-ufo-a-meteor-a-russian-satellite-the-carbondale-ufo-incident-of-novembe/1236507314989708/](https://www.facebook.com/WVIATVFM/posts/was-it-a-ufo-a-meteor-a-russian-satellite-the-carbondale-ufo-incident-of-novembe/1236507314989708/)  
+   Link: <a href="https://www.facebook.com/WVIATVFM/posts/was-it-a-ufo-a-meteor-a-russian-satellite-the-carbondale-ufo-incident-of-novembe/1236507314989708/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WVIATVFM/posts/was-it-a-ufo-a-meteor-a-russian-satellite-the-carbondale-ufo-incident-of-novembe/1236507314989708/</a>  
 
 27. <a id="endnote-27"></a>
    Source: nepascene.com  
-   Link: [https://nepascene.com/2024/10/first-ever-carbondalien-festival-marks-50th-anniversary-ufo-sighting-alien-activity-nov-9/](https://nepascene.com/2024/10/first-ever-carbondalien-festival-marks-50th-anniversary-ufo-sighting-alien-activity-nov-9/)  
+   Link: <a href="https://nepascene.com/2024/10/first-ever-carbondalien-festival-marks-50th-anniversary-ufo-sighting-alien-activity-nov-9/" target="_blank" rel="noopener noreferrer nofollow">https://nepascene.com/2024/10/first-ever-carbondalien-festival-marks-50th-anniversary-ufo-sighting-alien-activity-nov-9/</a>

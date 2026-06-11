@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /montana-8d274f-index/
 description: Focused pages that expand on Why Montana Became a UFO Landmark.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Montana_8d274f
 parent_title: Why Montana Became a UFO Landmark

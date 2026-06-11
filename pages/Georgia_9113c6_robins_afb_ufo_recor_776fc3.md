@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-georgias-most/
 nav_short_title: Military Cases
 title: How Georgia Air Bases Entered UFO History
-title_full: How Georgia Air Bases Entered UFO History | Georgia UFOs
+title_full: How Georgia Air Bases Entered UFO History
 display_title_short: Military Cases
 display_title: Military Cases
 heading_title: How Georgia Air Bases Entered UFO History
@@ -270,28 +270,25 @@ image: /assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3-overview-social
 
 Robins Air Force Base near Warner Robins in Middle Georgia has featured at the margins of the state’s UFO reporting partly because of its scale and [aviation]({{ 'aviation/' | relative_url }}) activity, and partly because military personnel and radar operators are among the most trained observers in the region. Although Robins AFB itself is not widely known for a series of formally investigated mysterious aerial events in the way Wright‑Patterson or Project [Blue Book]({{ 'blue-book-3e2869/' | relative_url }})’s central files are, the base and its personnel appear in both general sighting databases and historical UFO investigation records from the United States Air Force era. This page looks at what is reported around Robins AFB, how military records such as Project Blue Book engaged with sightings, and why a major military air hub naturally draws attention in state‑level UFO histories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Robins_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Robins Air Force Base</span><span class="citation-popover-snippet">Robins Air Force Base</span></span></span>
 
-
 <img src="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3-overview.webp" | relative_url }}" alt="Overview image for Military Cases" loading="eager" decoding="sync" fetchpriority="high">
 ## Robins AFB’s Place in Georgia’s Military and Aerial Context
 
-Robins Air Force Base is the single largest industrial and aviation complex in [Georgia]({{ 'what-really-happened-in-georgias-most/' | relative_url }}), located just east of Warner Robins and within a wider Middle Georgia air corridor. It functions as the home of Air Force Materiel Command’s Warner Robins Air Logistics Complex and supports a wide range of aircraft maintenance, logistics and control missions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+Robins Air Force Base is the single largest industrial and aviation complex in Georgia, located just east of Warner Robins and within a wider Middle Georgia air corridor. It functions as the home of Air Force Materiel Command’s Warner Robins Air Logistics Complex and supports a wide range of aircraft maintenance, logistics and control missions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 Because of this heavy flight activity — including routine sorties, test flights, and radar traffic — observers in the area are accustomed to seeing varied aviation phenomena. That background sets a context where both civilian witnesses and trained military personnel can file reports of unusual aerial observations that often turn out to be conventional aircraft, atmospheric phenomena, or classified test flights rather than unexplained craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufodatalive.com/states/georgia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufodatalive.com">[UFO Data Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufodatalive.com</span><span class="citation-popover-snippet">UFO Data LiveGeorgia UFO Sightings — 3,543 Reported Cases, Rank #18Georgia has 3543 reported UFO and UAP sightings, ranking #18 in the U.S...</span></span></span>
 
-
-<img src="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3-Illustration-1-light.svg" | relative_url }}" alt="Military Cases illustration 1" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3-Illustration-1-dark.svg" | relative_url }}" alt="Military Cases illustration 1" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reported Sightings Near Robins AFB
 
 ### NUFORC and Local Sightings
 
-Databases maintained by civilian organisations such as the National UFO Reporting Center (NUFORC) include a handful of reports where the location specifically mentions Robins AFB or Warner Robins. One recent entry from May 2023 describes a sighting from the base’s control tower of a fast‑moving sphere with reflective flashes, observed alongside conventional aircraft traffic but not showing up on radar. The witnesses characterised it as a high‑altitude spherical object moving at speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=175600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 175600May 19, 2023...</span><span class="citation-popover-meta">Published: May 19, 2023</span></span></span>
+Databases maintained by civilian organisations such as the National UFO Reporting Center (NUFORC) include a handful of reports where the location specifically mentions Robins AFB or Warner Robins. One recent entry from May 2023 describes a sighting from the base’s control tower of a fast‑moving sphere with reflective flashes, observed alongside conventional aircraft traffic but not showing up on radar. The witnesses characterised it as a high‑altitude spherical object moving at speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=175600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 175600May 19, 2023...</span><span class="citation-popover-meta">Published: May 19, 2023</span></span></span>
 
-Historical databases also include widely publicised October 1973 reports of multiple objects with coloured lights seen across Warner Robins, a period that coincided with a broader surge in UFO interest in Georgia. These reports — which sometimes involve local law enforcement and large numbers of witnesses — are typical of the era’s ‘flap’ reports where lights and unusual aerial motions were observed over multiple locations, including near military installations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=110892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 110892August 20, 2023 — 4 Jul 2014 — The massive UFO “flap” reached Warner Robins on the night of October 17 wh...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+Historical databases also include widely publicised October 1973 reports of multiple objects with coloured lights seen across Warner Robins, a period that coincided with a broader surge in UFO interest in Georgia. These reports — which sometimes involve local law enforcement and large numbers of witnesses — are typical of the era’s ‘flap’ reports where lights and unusual aerial motions were observed over multiple locations, including near military installations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=110892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 110892August 20, 2023 — 4 Jul 2014 — The massive UFO “flap” reached Warner Robins on the night of October 17 wh...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 Patterns in this regional reporting (including over 20 individual reports attributed to Warner Robins in the wider Georgia record) suggest that sightings cluster near population centres with active skies and are captured in civilian reporting databases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews4.com/news/local/there-have-been-more-than-2600-reported-ufo-sightings-in-georgia-heres-where-in-middle-georgia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews4.com">[WCIV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews4.com</span><span class="citation-popover-snippet">In 1973, the city&#x27;s first report, suggests two UFOs sighted by thousands in...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SqxG1voGDJM" title="HISTORY OF UFOs 🛸 AND ALIENS 👽 COMPILATION - From ancient times to our present day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SqxG1voGDJM" target="_blank" rel="noopener noreferrer">HISTORY OF UFOs 🛸 AND ALIENS 👽 COMPILATION - From ancient times to our present day</a></p><p class="youtube-embed-meta">Channel: The Rest is History &middot; Views: 1.9K &middot; Uploaded: November 2024 &middot; Length: 1 hour 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SqxG1voGDJM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SqxG1voGDJM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WS5Xy-jBAtw" title="The Fort Benning Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WS5Xy-jBAtw" target="_blank" rel="noopener noreferrer">The Fort Benning Incident</a></p><p class="youtube-embed-meta">Channel: Bedtime Stories &middot; Views: 409.3K &middot; Uploaded: September 2025 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WS5Xy-jBAtw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WS5Xy-jBAtw">Open on YouTube</a></p></div></div></div>
 
 ## Military Records and Official Investigations
 
@@ -303,14 +300,12 @@ While Blue Book’s central archive does not single out Robins AFB as a hub for 
 
 The case of a reported unidentified object near Robins seen by a trained observer was taken into Blue Book’s log like many others: it was documented, evaluated against known aircraft and atmospheric phenomena, and archived. Records such as these show how base‑level sightings were transmitted into broader military reporting structures. However, they do not in themselves validate an anomalous aerial object — they simply illustrate that military observers participated in official reporting networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/2/24/Project_Blue_Book_report_-_1953-01-9543704-Warner-RobinsAFB-Georgia.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia Commons6 Jan 53 7/02002January 6, 2015 — Observers stated that the object was shapeless and they detected no vibra- tions, smok...</span><span class="citation-popover-meta">Published: January 6, 2015</span></span></span>
 
-
-<img src="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3-Illustration-2-light.svg" | relative_url }}" alt="Military Cases illustration 2" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3-Illustration-2-dark.svg" | relative_url }}" alt="Military Cases illustration 2" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Access to Declassified Archives
 
 The full holdings of Project Blue Book — including case files, analyses and witness statements — were transferred to the **U.S. National Archives** under Freedom of Information Act access. Researchers seeking to understand sightings linked to military installations like Robins AFB must generally consult these archives directly, as the official public summaries do not itemise cases by base. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">UF O reports</span><span class="citation-popover-snippet">The Ministry of Defence has kept records of them since the 1960s, which we now hold. Most o...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q9TnDARe-F8" title="The UFO Case You Never Heard Of - The Fort Benning Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q9TnDARe-F8" target="_blank" rel="noopener noreferrer">The UFO Case You Never Heard Of - The Fort Benning Incident</a></p><p class="youtube-embed-meta">Channel: PaytonMoreland &middot; Views: 43.9K &middot; Uploaded: October 2024 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q9TnDARe-F8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q9TnDARe-F8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SqxG1voGDJM" title="HISTORY OF UFOs 🛸 AND ALIENS 👽 COMPILATION - From ancient times to our present day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SqxG1voGDJM" target="_blank" rel="noopener noreferrer">HISTORY OF UFOs 🛸 AND ALIENS 👽 COMPILATION - From ancient times to our present day</a></p><p class="youtube-embed-meta">Channel: The Rest is History &middot; Views: 1.9K &middot; Uploaded: November 2024 &middot; Length: 1 hour 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SqxG1voGDJM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SqxG1voGDJM">Open on YouTube</a></p></div></div></div>
 
 ## Why Military Installations Attract UFO Reporting
 
@@ -318,17 +313,15 @@ Military air bases such as Robins naturally attract UFO reports for several reas
 
 In the Georgia context, these factors intersect with the region’s broader sighting history: clustered reports around Robins and other installations coincide with periods of heightened civilian interest (such as the early 1970s) and with atmospheric or aviation phenomena that are often misinterpreted absent full data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews4.com/news/local/there-have-been-more-than-2600-reported-ufo-sightings-in-georgia-heres-where-in-middle-georgia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews4.com">[WCIV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews4.com</span><span class="citation-popover-snippet">In 1973, the city&#x27;s first report, suggests two UFOs sighted by thousands in...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WS5Xy-jBAtw" title="The Fort Benning Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WS5Xy-jBAtw" target="_blank" rel="noopener noreferrer">The Fort Benning Incident</a></p><p class="youtube-embed-meta">Channel: Bedtime Stories &middot; Views: 409.3K &middot; Uploaded: September 2025 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WS5Xy-jBAtw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WS5Xy-jBAtw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q9TnDARe-F8" title="The UFO Case You Never Heard Of - The Fort Benning Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q9TnDARe-F8" target="_blank" rel="noopener noreferrer">The UFO Case You Never Heard Of - The Fort Benning Incident</a></p><p class="youtube-embed-meta">Channel: PaytonMoreland &middot; Views: 43.9K &middot; Uploaded: October 2024 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q9TnDARe-F8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q9TnDARe-F8">Open on YouTube</a></p></div></div></div>
 
 ## Skeptical and Conventional Interpretations
 
 Most reported sightings near Robins AFB — as with UFO reports nationwide — have plausible conventional explanations when detailed information is available. This includes misidentified aircraft, atmospheric reflections, weather balloons, and astronomical objects such as planets or meteors. Air Force investigation records historically concluded that the great majority of sightings fall into one of these categories, and unresolved cases generally lack the corroborative data needed to establish genuinely anomalous behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secretsdeclassified.af.mil">[Secrets Declassified]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secretsdeclassified.af.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-For example, historical assessments of multiple reports from the 1970s Warner Robins area suggest that a combination of weather phenomena, aircraft lights and high‑altitude objects can produce the vivid, multi‑coloured light reports that appeared in newspaper accounts and civilian databases of the era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=175600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 175600May 19, 2023...</span><span class="citation-popover-meta">Published: May 19, 2023</span></span></span>
+For example, historical assessments of multiple reports from the 1970s Warner Robins area suggest that a combination of weather phenomena, aircraft lights and high‑altitude objects can produce the vivid, multi‑coloured light reports that appeared in newspaper accounts and civilian databases of the era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=175600" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 175600May 19, 2023...</span><span class="citation-popover-meta">Published: May 19, 2023</span></span></span>
 
-
-<img src="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3-Illustration-3-light.svg" | relative_url }}" alt="Military Cases illustration 3" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3-Illustration-3-dark.svg" | relative_url }}" alt="Military Cases illustration 3" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Summary
 
 Robins Air Force Base, as a major military air hub in Georgia, appears sporadically in UFO sighting records and historical military reports not because of a confirmed series of unexplained phenomena, but because active airspace, trained observers, and systematic reporting channels converge there. Official investigations such as Project Blue Book collected and archived reports from across the U.S. — including from military bases — and concluded that most sightings were identifiable with known phenomena. In Georgia’s broader UFO history, the base serves as one of several points where civilian reports, military observers, and official archives intersect, illustrating both the appeal of military installations in UFO lore and the rigorous, often sceptical context of military aerial monitoring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secretsdeclassified.af.mil">[Secrets Declassified]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secretsdeclassified.af.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -419,7 +412,7 @@ Robins Air Force Base, as a major military air hub in Georgia, appears sporadica
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -429,111 +422,36 @@ Robins Air Force Base, as a major military air hub in Georgia, appears sporadica
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-georgia-air-bases-entered-ufo-history-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-georgia-air-bases-entered-ufo-history-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROYAL AIR FORCE D-DAY &quot;MOGGY&quot; TYPHOON TRIBUTE PVC PATCH"><img src="https://i.ebayimg.com/images/g/9Y0AAeSwjOxpzRNN/s-l225.jpg" alt="Listing image for ROYAL AIR FORCE D-DAY &quot;MOGGY&quot; TYPHOON TRIBUTE PVC PATCH" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-georgia-air-bases-entered-ufo-history-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-georgia-air-bases-entered-ufo-history-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">ROYAL AIR FORCE D-DAY &quot;MOGGY&quot; TYPHOON TRIBUTE PVC PATCH</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-georgia-air-bases-entered-ufo-history-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-georgia-air-bases-entered-ufo-history-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-georgia-air-bases-entered-ufo-history-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-georgia-air-bases-entered-ufo-history-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,15 +459,15 @@ Robins Air Force Base, as a major military air hub in Georgia, appears sporadica
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-georgia-air-bases-entered-ufo-history-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-georgia-air-bases-entered-ufo-history-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force - Morale Patches - Vel-cro"><img src="https://i.ebayimg.com/images/g/i5wAAOSwRgtoW~eX/s-l225.jpg" alt="Listing image for Royal Air Force - Morale Patches - Vel-cro" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-georgia-air-bases-entered-ufo-history-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-georgia-air-bases-entered-ufo-history-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force - Morale Patches - Vel-cro</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-georgia-air-bases-entered-ufo-history-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-georgia-air-bases-entered-ufo-history-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-georgia-air-bases-entered-ufo-history-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-georgia-air-bases-entered-ufo-history-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -557,15 +475,15 @@ Robins Air Force Base, as a major military air hub in Georgia, appears sporadica
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-georgia-air-bases-entered-ufo-history-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-georgia-air-bases-entered-ufo-history-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Air Force - Space Operations - Sew On Patch"><img src="https://i.ebayimg.com/images/g/tmMAAeSwPiNpMb-Y/s-l225.jpg" alt="Listing image for Royal Air Force - Space Operations - Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-georgia-air-bases-entered-ufo-history-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-georgia-air-bases-entered-ufo-history-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">Royal Air Force - Space Operations - Sew On Patch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-georgia-air-bases-entered-ufo-history-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-georgia-air-bases-entered-ufo-history-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-georgia-air-bases-entered-ufo-history-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-georgia-air-bases-entered-ufo-history-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -573,15 +491,15 @@ Robins Air Force Base, as a major military air hub in Georgia, appears sporadica
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-georgia-air-bases-entered-ufo-history-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-georgia-air-bases-entered-ufo-history-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for QATAR EMIRI AIR FORCE FLYING SUIT PATCH"><img src="https://i.ebayimg.com/images/g/yQgAAeSwQdhqBK1I/s-l225.jpg" alt="Listing image for QATAR EMIRI AIR FORCE FLYING SUIT PATCH" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-georgia-air-bases-entered-ufo-history-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-georgia-air-bases-entered-ufo-history-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">QATAR EMIRI AIR FORCE FLYING SUIT PATCH</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-georgia-air-bases-entered-ufo-history-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-georgia-air-bases-entered-ufo-history-air-force-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for air force patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: air force patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-georgia-air-bases-entered-ufo-history-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-georgia-air-bases-entered-ufo-history-air-force-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -589,7 +507,7 @@ Robins Air Force Base, as a major military air hub in Georgia, appears sporadica
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-cases-how-georgia-air-bases-entered-ufo-history-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=air+force+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-georgia-air-bases-entered-ufo-history-air-force-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="air force patch" data-ebay-reference="how-georgia-air-bases-entered-ufo-history-air-force-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -666,17 +584,31 @@ Robins Air Force Base, as a major military air hub in Georgia, appears sporadica
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -689,42 +621,73 @@ Robins Air Force Base, as a major military air hub in Georgia, appears sporadica
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -739,12 +702,17 @@ Robins Air Force Base, as a major military air hub in Georgia, appears sporadica
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -755,119 +723,119 @@ Robins Air Force Base, as a major military air hub in Georgia, appears sporadica
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Robins Air Force Base  
-   Link: [https://en.wikipedia.org/wiki/Robins_Air_Force_Base](https://en.wikipedia.org/wiki/Robins_Air_Force_Base)  
+   Link: <a href="https://en.wikipedia.org/wiki/Robins_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robins_Air_Force_Base</a>  
 
 2. <a id="endnote-2"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=175600](https://nuforc.org/sighting/?id=175600)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 175600May 19, 2023...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=175600" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=175600</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 175600May 19, 2023...</p></details>
    Published: May 19, 2023  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=110892](https://nuforc.org/sighting/?id=110892)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 110892August 20, 2023 — 4 Jul 2014 — The massive UFO “flap” reached Warner Robins on the night of October 17 wh...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=110892" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=110892</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 110892August 20, 2023 — 4 Jul 2014 — The massive UFO “flap” reached Warner Robins on the night of October 17 wh...</p></details>
    Published: August 20, 2023  
 
 5. <a id="endnote-5"></a>
    Source: abcnews4.com  
-   Link: [https://abcnews4.com/news/local/there-have-been-more-than-2600-reported-ufo-sightings-in-georgia-heres-where-in-middle-georgia](https://abcnews4.com/news/local/there-have-been-more-than-2600-reported-ufo-sightings-in-georgia-heres-where-in-middle-georgia)  
+   Link: <a href="https://abcnews4.com/news/local/there-have-been-more-than-2600-reported-ufo-sightings-in-georgia-heres-where-in-middle-georgia" target="_blank" rel="noopener noreferrer nofollow">https://abcnews4.com/news/local/there-have-been-more-than-2600-reported-ufo-sightings-in-georgia-heres-where-in-middle-georgia</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1973, the city&#x27;s first report, suggests two UFOs sighted by thousands in...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Chiles-Whitted UFO encounter  
-   Link: [https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter](https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter)  
+   Link: <a href="https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter</a>  
 
 8. <a id="endnote-8"></a>
    Source: upload.wikimedia.org  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/2/24/Project_Blue_Book_report_-_1953-01-9543704-Warner-RobinsAFB-Georgia.pdf](https://upload.wikimedia.org/wikipedia/commons/2/24/Project_Blue_Book_report_-_1953-01-9543704-Warner-RobinsAFB-Georgia.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/2/24/Project_Blue_Book_report_-_1953-01-9543704-Warner-RobinsAFB-Georgia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/24/Project_Blue_Book_report_-_1953-01-9543704-Warner-RobinsAFB-Georgia.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia Commons6 Jan 53 7/02002January 6, 2015 — Observers stated that the object was shapeless and they detected no vibra- tions, smok...</p></details>
    Published: January 6, 2015  
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — Pro-UFO researchers claim that an extraterrestrial spac...</p></details>
    Published: August 15, 2016  
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-collections](https://www.archives.gov/research/topics/uaps/rg-collections)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ecord Group or Collection | National ArchivesDecember 12, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED A...</p></details>
    Published: December 12, 2025  
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
    Title: Do Records Show Proof of UFOs?  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| National ArchivesJuly 24, 2023 — DO RECORDS SHOW PROOF OF UFOS? En Español Image: UFO graphic banner By Kerri Lawrence | National Archi...</p></details>
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesJuly 24, 2023 — DO RECORDS SHOW PROOF OF UFOS? En Español Image: UFO graphic banner By Kerri Lawrence | National Archi...</p></details>
    Published: July 24, 2023  
 
 12. <a id="endnote-12"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: [https://www.history.com/topics/folklore/project-blue-book](https://www.history.com/topics/folklore/project-blue-book)  
+   Link: <a href="https://www.history.com/topics/folklore/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/topics/folklore/project-blue-book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien, Definition &amp; Files | HISTORYFebruary 22, 2010 — By: HISTORY.com Editors Mysteries &amp; Folklore PROJECT BLUE BOOK HISTORY.com Editors...</p></details>
    Published: February 22, 2010  
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/moving-images-and-sound](https://www.archives.gov/research/topics/uaps/moving-images-and-sound)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...24 Apr 2025 — USAF UFO sightings, California (National Archives Identifier...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ufodatalive.com  
-   Link: [https://www.ufodatalive.com/states/georgia/](https://www.ufodatalive.com/states/georgia/)  
+   Link: <a href="https://www.ufodatalive.com/states/georgia/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodatalive.com/states/georgia/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Data LiveGeorgia UFO Sightings — 3,543 Reported Cases, Rank #18Georgia has 3543 reported UFO and UAP sightings, ranking #18 in the U.S...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: secretsdeclassified.af.mil  
-   Link: [https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/](https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/)  
+   Link: <a href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/</a>  
 
 17. <a id="endnote-17"></a>
    Source: pararational.com  
-   Link: [https://www.pararational.com/encyclopedia/project-blue-book/](https://www.pararational.com/encyclopedia/project-blue-book/)  
+   Link: <a href="https://www.pararational.com/encyclopedia/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.pararational.com/encyclopedia/project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book was the United States Air Force’s official program for investigating UFO sightings, running from March 1952 u...</p></details>
    Published: March 1952  
 
 18. <a id="endnote-18"></a>
    Source: cufos.org  
    Title: Project Blue Book  
-   Link: [https://cufos.org/resources/project-blue-book/](https://cufos.org/resources/project-blue-book/)  
+   Link: <a href="https://cufos.org/resources/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>14, as edited by Leon Davidson, July 1966The United States Air Force managed three UFO projects, from 1948 to 1969. The first w...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
    Title: UF O reports  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ministry of Defence has kept records of them since the 1960s, which we now hold. Most o...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/ufo](https://vault.fbi.gov/ufo)  
+   Link: <a href="https://vault.fbi.gov/ufo" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/ufo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Although the newly formed U.S. Air Force was the primary investigator of these sightings, the F...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: disclosdex.com  
    Title: Project Blue Book | Disclosdex  
-   Link: [https://disclosdex.com/programs/project-blue-book](https://disclosdex.com/programs/project-blue-book)  
+   Link: <a href="https://disclosdex.com/programs/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/programs/project-blue-book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 1, 1952 — PROJECT BLUE BOOK UAP Task Force The Air Force investigation of UFO reports from 1952 until 1969 Project Blue Book succee...</p></details>
    Published: March 1, 1952  
 
@@ -875,58 +843,58 @@ Robins Air Force Base, as a major military air hub in Georgia, appears sporadica
 
 22. <a id="endnote-22"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010012-8.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010012-8.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010012-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010012-8.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DAILY NEWSIt said that 90 percent of all UFO sightings prove to be plausibly relat- ed to planes, space satellites, bal- loons and variou...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Maps/comments/3weqe4/i_made_this_georgia_ufo_sightings/](https://www.reddit.com/r/Maps/comments/3weqe4/i_made_this_georgia_ufo_sightings/)  
+   Link: <a href="https://www.reddit.com/r/Maps/comments/3weqe4/i_made_this_georgia_ufo_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Maps/comments/3weqe4/i_made_this_georgia_ufo_sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I made this- Georgia UFO Sightings: r/MapsRobins Air Force Base has a small splurge in the middle and... r/UFOs - &quot;There have been more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: afhistory.af.mil  
-   Link: [https://www.afhistory.af.mil/FAQs/Fact-Sheets/Article/754884/ufo-questions/](https://www.afhistory.af.mil/FAQs/Fact-Sheets/Article/754884/ufo-questions/)  
+   Link: <a href="https://www.afhistory.af.mil/FAQs/Fact-Sheets/Article/754884/ufo-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.afhistory.af.mil/FAQs/Fact-Sheets/Article/754884/ufo-questions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Questions &gt; Air Force Historical Support Division &gt; Fact SheetsUFO QUESTIONS Unidentified Flying Objects (UFOs) and Air Force Project Blu...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: wgxa.tv  
-   Link: [https://wgxa.tv/news/local/there-have-been-more-than-2600-reported-ufo-sightings-in-georgia-heres-where-in-middle-georgia](https://wgxa.tv/news/local/there-have-been-more-than-2600-reported-ufo-sightings-in-georgia-heres-where-in-middle-georgia)  
+   Link: <a href="https://wgxa.tv/news/local/there-have-been-more-than-2600-reported-ufo-sightings-in-georgia-heres-where-in-middle-georgia" target="_blank" rel="noopener noreferrer nofollow">https://wgxa.tv/news/local/there-have-been-more-than-2600-reported-ufo-sightings-in-georgia-heres-where-in-middle-georgia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Aug 2023 — According to the National UFO Reporting Center, there have been over 2,600 reported sightings of UFOs in Georgia. The center...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: militarytimes.com  
    Title: — In the woods east of the Robins runway are remnants of a tragedy that happened  
-   Link: [https://www.militarytimes.com/news/your-military/2015/02/22/remnants-of-deadly-1947-crash-remain-in-robins-afb-forest/?contentFeatureId=f0fmoahPVC2AbfL-2-1-8&contentQuery=%7B%22includeSections%22%3A%22%2Fhome%22%2C%22excludeSections%22%3A%22%22%2C%22feedSize%22%3A10%2C%22feedOffset%22%3A5%7D](https://www.militarytimes.com/news/your-military/2015/02/22/remnants-of-deadly-1947-crash-remain-in-robins-afb-forest/?contentFeatureId=f0fmoahPVC2AbfL-2-1-8&contentQuery=%7B%22includeSections%22%3A%22%2Fhome%22%2C%22excludeSections%22%3A%22%22%2C%22feedSize%22%3A10%2C%22feedOffset%22%3A5%7D)  
+   Link: <a href="https://www.militarytimes.com/news/your-military/2015/02/22/remnants-of-deadly-1947-crash-remain-in-robins-afb-forest/?contentFeatureId=f0fmoahPVC2AbfL-2-1-8&amp;contentQuery=%7B%22includeSections%22%3A%22%2Fhome%22%2C%22excludeSections%22%3A%22%22%2C%22feedSize%22%3A10%2C%22feedOffset%22%3A5%7D" target="_blank" rel="noopener noreferrer nofollow">https://www.militarytimes.com/news/your-military/2015/02/22/remnants-of-deadly-1947-crash-remain-in-robins-afb-forest/?contentFeatureId=f0fmoahPVC2AbfL-2-1-8&amp;contentQuery=%7B%22includeSections%22%3A%22%2Fhome%22%2C%22excludeSections%22%3A%22%22%2C%22feedSize%22%3A10%2C%22feedOffset%22%3A5%7D</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Remnants of deadly 1947 crash remain in Robins AFB forestFebruary 22, 2015 — REMNANTS OF DEADLY 1947 CRASH REMAIN IN ROBINS AFB FOREST By...</p></details>
    Published: February 22, 2015  
 
 27. <a id="endnote-27"></a>
    Source: en.wikisource.org  
    Title: Minutes later a crew chief at Robins Air Force Base in Ma  
-   Link: [https://en.wikisource.org/wiki/Page%3ARuppelt_-_The_Report_on_Unidentified_Flying_Objects.djvu/68](https://en.wikisource.org/wiki/Page%3ARuppelt_-_The_Report_on_Unidentified_Flying_Objects.djvu/68)  
+   Link: <a href="https://en.wikisource.org/wiki/Page%3ARuppelt_-_The_Report_on_Unidentified_Flying_Objects.djvu/68" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3ARuppelt_-_The_Report_on_Unidentified_Flying_Objects.djvu/68</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:Ruppelt - The Report on Unidentified Flying Objects.djvu/68 - Wikisource, the free online libraryPAGE:RUPPELT - THE RE...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: HISTORY OF UFOs AND ALIENS COMPILATION  
-   Link: [https://www.youtube.com/watch?v=SqxG1voGDJM](https://www.youtube.com/watch?v=SqxG1voGDJM)  
+   Link: <a href="https://www.youtube.com/watch?v=SqxG1voGDJM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SqxG1voGDJM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Robins Air Force Base&quot; UFO military records 3 dead after wreck at Robins Air Force Base gate 11Alive...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: osi.af.mil  
    Title: (U.S. Air Force Projects Grudge  
-   Link: [https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/](https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/)  
+   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book Part 1 (UFO Reports) &gt; Office of Special Investigations &gt; DisplayAugust 6, 2020 — * Image: Reports 1-12 were monthly classified...</p></details>
    Published: August 6, 2020  
 
 30. <a id="endnote-30"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: [https://origins.osu.edu/read/air-force-investigation-ufos](https://origins.osu.edu/read/air-force-investigation-ufos)  
+   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Investigation into UFOs | OriginsTHE AIR FORCE INVESTIGATION INTO UFOS Jump to Audio/Video By * Paul McAllister On December 17...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: hhjonline.com  
    Title: unidentified flying objects  
-   Link: [https://hhjonline.com/unidentified-flying-objects/](https://hhjonline.com/unidentified-flying-objects/)  
+   Link: <a href="https://hhjonline.com/unidentified-flying-objects/" target="_blank" rel="noopener noreferrer nofollow">https://hhjonline.com/unidentified-flying-objects/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Jul 2024 — The Air Force, under Project Blue Book, conducted investigations of all UFOs from 1947 to 1969. Of 12,618 reported sighting...</p></details>

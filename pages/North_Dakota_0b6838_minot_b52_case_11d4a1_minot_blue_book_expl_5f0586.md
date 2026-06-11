@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /minot-b-52/
 nav_short_title: Blue Book
 title: Why did Blue Book close the Minot case?
-title_full: Why did Blue Book close the Minot case? | Minot B 52
+title_full: Why did Blue Book close the Minot case?
 display_title_short: Blue Book
 display_title: Blue Book
 heading_title: Why did Blue Book close the Minot case?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:59:01'
-parent_title: Why the Minot UFO Case Still Stands Out | North Dakota UFOs
+parent_title: Why the Minot UFO Case Still Stands Out
 parent_permalink: /minot-b-52/
 parent_nav_short_title: Minot B 52
 parent_heading_title: Why the Minot UFO Case Still Stands Out
@@ -250,16 +250,14 @@ image: /assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_blue_book_
 
 ## Introduction
 
-Project Blue Book closed the Minot Air Force Base case as an identified event rather than an unexplained UFO, but the way it reached that conclusion remains one of the most debated parts of the entire incident. The Air Force's final assessment did not claim that witnesses had encountered a single extraordinary craft. Instead, investigators argued that several ordinary factors had become mixed together: bright stars low on the horizon, the returning B-52 itself, atmospheric conditions and what Blue Book eventually described as a plasma-like radar phenomenon. Yet the surviving documents show that some reported details did not fit neatly into that explanation. That tension is why the Minot case still occupies a significant place in [North Dakota]({{ 'why-north-dakota-matters-in-ufo-history/' | relative_url }}) UFO history. The dispute is less about whether an alien craft was present than about whether Blue Book's solution adequately accounted for all the reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">Col. Hector Quintanilla evaluated the case data received from Minot AFB, and submitted a final case report on 13 November...Read more...</span></span></span>
+Project Blue Book closed the Minot Air Force Base case as an identified event rather than an unexplained UFO, but the way it reached that conclusion remains one of the most debated parts of the entire incident. The Air Force's final assessment did not claim that witnesses had encountered a single extraordinary craft. Instead, investigators argued that several ordinary factors had become mixed together: bright stars low on the horizon, the returning B-52 itself, atmospheric conditions and what Blue Book eventually described as a plasma-like radar phenomenon. Yet the surviving documents show that some reported details did not fit neatly into that explanation. That tension is why the Minot case still occupies a significant place in North Dakota UFO history. The dispute is less about whether an alien craft was present than about whether Blue Book's solution adequately accounted for all the reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">Col. Hector Quintanilla evaluated the case data received from Minot AFB, and submitted a final case report on 13 November...Read more...</span></span></span>
 
-
-<img src="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_blue_book_expl_5f0586-Illustration-1-light.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_blue_book_expl_5f0586-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_blue_book_expl_5f0586-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_blue_book_expl_5f0586-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_blue_book_expl_5f0586-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_blue_book_expl_5f0586-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why did Blue Book close the Minot case?
 
 By the time the Minot file reached Project Blue Book headquarters, the Air Force was already under pressure to reduce the growing backlog of UFO reports and to distinguish between genuinely unknown events and misidentifications. The Minot incident involved multiple observers, military personnel, radio traffic and radar-related material, but Blue Book ultimately concluded that the reports could be explained without invoking an unknown vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 The official evaluation treated the case as a combination of separate observations rather than one continuous encounter. According to later summaries of the Blue Book file, investigators concluded that:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -274,63 +272,57 @@ This approach allowed Blue Book to classify the case as identified without havin
 
 An important point often missed in later retellings is that Blue Book did not produce a dramatic, all-purpose answer. The file's conclusion was actually fragmented. Different elements of the incident received different explanations, and that fragmentation is one reason critics continue to revisit the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/poher/pdf/POHER_Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Analysis of Radar and Air-Visual UFO Observations on 24...According to the account described in the Blue Book documents, only the B-52 o...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cYPCKIL7oVw" title="UFOTV Presents UFOs OUT OF THE BLUE - A James Fox Film" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cYPCKIL7oVw" target="_blank" rel="noopener noreferrer">UFOTV Presents UFOs OUT OF THE BLUE - A James Fox Film</a></p><p class="youtube-embed-meta">Channel: UFO CENTRAL &middot; Views: 9.2M &middot; Uploaded: November 2011 &middot; Length: 1 hour 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cYPCKIL7oVw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cYPCKIL7oVw">Open on YouTube</a></p></div></div></div>
 
 ## The official explanation in the Minot file
 
 The strongest conventional component of Blue Book's explanation involved astronomy. Investigators believed that some observers were looking toward bright stars appearing unusually prominent through haze and low cloud layers. Under certain atmospheric conditions, stars near the horizon can seem larger, change colour and appear to move because of scintillation and shifting layers of air.
 
-This mattered because several witnesses described a red-orange light. Blue Book argued that such descriptions were compatible with bright celestial objects viewed through atmospheric distortion. Researchers examining the file have noted that stars including Vega and Capella have repeatedly been suggested as candidates in later reconstructions of the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">umentation | The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 November 1968, including...</span><span class="citation-popover-meta">Published: November 1968</span></span></span>
+This mattered because several witnesses described a red-orange light. Blue Book argued that such descriptions were compatible with bright celestial objects viewed through atmospheric distortion. Researchers examining the file have noted that stars including Vega and Capella have repeatedly been suggested as candidates in later reconstructions of the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">umentation &#124; The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 November 1968, including...</span><span class="citation-popover-meta">Published: November 1968</span></span></span>
 
 For the radar component, the explanation became more unusual. Blue Book's final statistical classification reportedly listed the Minot event as "Identified (Other)" and associated the radar observations with plasma. In effect, investigators suggested that unusual atmospheric conditions could have generated radar returns that appeared significant without representing a structured airborne object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/investigation/section-6.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-title">Investigation: Section 6</span><span class="citation-popover-snippet">Project Blue Book EvaluationFinal Blue Book Statistical Data for the year 1968 categorizes the Minot AFB UFO case as Identified (Other) b...</span></span></span>
 
 The Air Force therefore treated the case as an example of multiple ordinary phenomena becoming linked together during a confusing night of observations rather than evidence of a single unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/poher/pdf/POHER_Report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Analysis of Radar and Air-Visual UFO Observations on 24...According to the account described in the Blue Book documents, only the B-52 o...</span></span></span>
 
-
-<img src="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_blue_book_expl_5f0586-Illustration-2-light.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_blue_book_expl_5f0586-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_blue_book_expl_5f0586-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_blue_book_expl_5f0586-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_blue_book_expl_5f0586-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_blue_book_expl_5f0586-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where stars, aircraft and haze fit the reports
 
 Parts of Blue Book's explanation are stronger than critics sometimes acknowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
-The observations occurred at night over a large area of rural North Dakota. Witnesses were separated by significant distances, often estimating direction, speed and altitude without reliable reference points. Under those conditions, even trained observers can misjudge apparent movement. A bright star near the horizon can appear to hover, drift, brighten or change colour, especially when viewed intermittently from a moving vehicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">umentation | The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 November 1968, including...</span><span class="citation-popover-meta">Published: November 1968</span></span></span>
+The observations occurred at night over a large area of rural North Dakota. Witnesses were separated by significant distances, often estimating direction, speed and altitude without reliable reference points. Under those conditions, even trained observers can misjudge apparent movement. A bright star near the horizon can appear to hover, drift, brighten or change colour, especially when viewed intermittently from a moving vehicle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">umentation &#124; The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 November 1968, including...</span><span class="citation-popover-meta">Published: November 1968</span></span></span>
 
-The presence of an actual aircraft in the area also complicates the reconstruction. Once the B-52 crew became involved, later accounts sometimes blended earlier ground reports and later airborne observations into a single narrative. Blue Book argued that at least some confusion between the unidentified light and the known position of the bomber could have occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">umentation | The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 November 1968, including...</span><span class="citation-popover-meta">Published: November 1968</span></span></span>
+The presence of an actual aircraft in the area also complicates the reconstruction. Once the B-52 crew became involved, later accounts sometimes blended earlier ground reports and later airborne observations into a single narrative. Blue Book argued that at least some confusion between the unidentified light and the known position of the bomber could have occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">umentation &#124; The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 November 1968, including...</span><span class="citation-popover-meta">Published: November 1968</span></span></span>
 
-Atmospheric effects are another legitimate factor. North Dakota's autumn conditions can produce haze layers, temperature inversions and visual distortions. Such conditions can affect both human perception and radar performance. The Air Force therefore did not need to invent an entirely new phenomenon to explain why some observations appeared unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">umentation | The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 November 1968, including...</span><span class="citation-popover-meta">Published: November 1968</span></span></span>
+Atmospheric effects are another legitimate factor. North Dakota's autumn conditions can produce haze layers, temperature inversions and visual distortions. Such conditions can affect both human perception and radar performance. The Air Force therefore did not need to invent an entirely new phenomenon to explain why some observations appeared unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">umentation &#124; The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 November 1968, including...</span><span class="citation-popover-meta">Published: November 1968</span></span></span>
 
 For sceptical investigators, the key point is that none of the major elements cited by Blue Book—stars, aircraft or atmospheric effects—are inherently implausible explanations. The controversy emerges when those explanations are tested against the entire collection of reports rather than selected portions of it.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fU6LOfiUJ6Q" title="Shocking Encounter Over the Atlantic - (Graham Bethune Navy UFO)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fU6LOfiUJ6Q" target="_blank" rel="noopener noreferrer">Shocking Encounter Over the Atlantic - (Graham Bethune Navy UFO)</a></p><p class="youtube-embed-meta">Channel: Dr. Steven Greer &middot; Views: 145.7K &middot; Uploaded: June 2013 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fU6LOfiUJ6Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fU6LOfiUJ6Q">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D3r6SmrCUM0" title="Luis Elizondo Presents the History of AATIP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D3r6SmrCUM0" target="_blank" rel="noopener noreferrer">Luis Elizondo Presents the History of AATIP</a></p><p class="youtube-embed-meta">Channel: To The Stars Academy of Arts &amp; Science &middot; Views: 107.2K &middot; Uploaded: August 2018 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D3r6SmrCUM0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D3r6SmrCUM0">Open on YouTube</a></p></div></div></div>
 
 ## The gaps that keep the case disputed
 
 The most persistent criticism is not that Blue Book's proposed factors were impossible. It is that the final explanation appears incomplete.
 
-One problem involves witness descriptions. Some personnel reported behaviour that they believed differed from a stationary star. Accounts referred to apparent movement, changes in position and reactions to nearby activity. Critics argue that even if some reports involved celestial objects, the file never fully demonstrated that all observers were misperceiving the same thing in the same way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">umentation | The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 November 1968, including...</span><span class="citation-popover-meta">Published: November 1968</span></span></span>
+One problem involves witness descriptions. Some personnel reported behaviour that they believed differed from a stationary star. Accounts referred to apparent movement, changes in position and reactions to nearby activity. Critics argue that even if some reports involved celestial objects, the file never fully demonstrated that all observers were misperceiving the same thing in the same way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">umentation &#124; The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 November 1968, including...</span><span class="citation-popover-meta">Published: November 1968</span></span></span>
 
 A second issue concerns timing. Researchers who later reviewed the documents noted that the sequence of observations is difficult to reconstruct with precision. If the chronology is uncertain, it becomes harder to prove that a witness was looking at a specific star or aircraft at a specific moment. Some of the case's continuing debate comes from disagreements over exactly when particular observations occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">Col. Hector Quintanilla evaluated the case data received from Minot AFB, and submitted a final case report on 13 November...Read more...</span></span></span>
 
-The communications aspect also remains contentious. Reports associated with the Minot incident included discussion of radio difficulties involving the B-52. Blue Book's explanation focused mainly on visual and radar interpretations rather than providing a detailed causal account of the communications problem. Critics therefore argue that one of the incident's more unusual elements was never fully integrated into the official conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">umentation | The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 November 1968, including...</span><span class="citation-popover-meta">Published: November 1968</span></span></span>
+The communications aspect also remains contentious. Reports associated with the Minot incident included discussion of radio difficulties involving the B-52. Blue Book's explanation focused mainly on visual and radar interpretations rather than providing a detailed causal account of the communications problem. Critics therefore argue that one of the incident's more unusual elements was never fully integrated into the official conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">umentation &#124; The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 November 1968, including...</span><span class="citation-popover-meta">Published: November 1968</span></span></span>
 
-The radar evidence presents a further challenge. Although Blue Book classified the returns as plasma-related, the documentation supporting that judgement was comparatively brief. Later analysts have argued that the file does not contain a detailed technical demonstration showing exactly how the reported radar contacts were generated. In other words, the explanation exists, but the chain of evidence linking the observed returns to atmospheric plasma is not fully developed in the surviving paperwork. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">umentation | The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 November 1968, including...</span><span class="citation-popover-meta">Published: November 1968</span></span></span>
+The radar evidence presents a further challenge. Although Blue Book classified the returns as plasma-related, the documentation supporting that judgement was comparatively brief. Later analysts have argued that the file does not contain a detailed technical demonstration showing exactly how the reported radar contacts were generated. In other words, the explanation exists, but the chain of evidence linking the observed returns to atmospheric plasma is not fully developed in the surviving paperwork. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">umentation &#124; The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 November 1968, including...</span><span class="citation-popover-meta">Published: November 1968</span></span></span>
 
-
-<img src="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_blue_book_expl_5f0586-Illustration-3-light.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_blue_book_expl_5f0586-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_blue_book_expl_5f0586-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_blue_book_expl_5f0586-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_blue_book_expl_5f0586-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_blue_book_expl_5f0586-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Did later reviews strengthen or weaken Blue Book's case?
 
 Subsequent researchers have generally not produced a single alternative explanation that commands universal acceptance. Instead, they have tended to focus on weaknesses in the official account.
 
-Some analysts reviewing the radar photographs and operational records have argued that Blue Book closed the case too quickly and relied on explanations that were asserted more strongly than they were demonstrated. They point to the survival of radarscope images, witness interviews and operational documents as evidence that the incident deserved deeper technical analysis than it received. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">umentation | The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 November 1968, including...</span><span class="citation-popover-meta">Published: November 1968</span></span></span>
+Some analysts reviewing the radar photographs and operational records have argued that Blue Book closed the case too quickly and relied on explanations that were asserted more strongly than they were demonstrated. They point to the survival of radarscope images, witness interviews and operational documents as evidence that the incident deserved deeper technical analysis than it received. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">umentation &#124; The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 November 1968, including...</span><span class="citation-popover-meta">Published: November 1968</span></span></span>
 
 At the same time, later reviews have not transformed Minot into a proven unknown. The surviving evidence still contains ambiguities. Witness memories evolved over time, some documentation is incomplete and different observers may genuinely have been describing different phenomena. Those limitations make it difficult either to confirm Blue Book's solution completely or to dismiss it entirely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">Col. Hector Quintanilla evaluated the case data received from Minot AFB, and submitted a final case report on 13 November...Read more...</span></span></span>
 
 That leaves the Minot case in an unusual position. It is not one of Project Blue Book's officially unexplained cases, yet neither has the official explanation persuaded all later investigators. The debate survives because the Air Force explanation can account for important parts of the incident, while several details—especially chronology, communications issues and the handling of radar evidence—continue to leave room for disagreement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">Col. Hector Quintanilla evaluated the case data received from Minot AFB, and submitted a final case report on 13 November...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D3r6SmrCUM0" title="Luis Elizondo Presents the History of AATIP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D3r6SmrCUM0" target="_blank" rel="noopener noreferrer">Luis Elizondo Presents the History of AATIP</a></p><p class="youtube-embed-meta">Channel: To The Stars Academy of Arts &amp; Science &middot; Views: 107.2K &middot; Uploaded: August 2018 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D3r6SmrCUM0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D3r6SmrCUM0">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4I75neaOIGE" title="“They waved back!” Father William B. Gill on witnessing a UFO with beings in Papua New Guinea, 1959" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4I75neaOIGE" target="_blank" rel="noopener noreferrer">“They waved back!” Father William B. Gill on witnessing a UFO with beings in Papua New Guinea, 1959</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 161.9K &middot; Uploaded: July 2022 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4I75neaOIGE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4I75neaOIGE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -418,7 +410,7 @@ That leaves the Minot case in an unusual position. It is not one of Project Blue
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -428,111 +420,36 @@ That leaves the Minot case in an unusual position. It is not one of Project Blue
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-close-the-minot-case-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="why-did-blue-book-close-the-minot-case-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for POSTAGE STAMP (PS5391) USAF B-52 &quot;STRATOFORTRESS 1:300 SCALE DIECAST METAL MODEL"><img src="https://i.ebayimg.com/images/g/2-gAAeSwQ4NqKBCD/s-l225.jpg" alt="Listing image for POSTAGE STAMP (PS5391) USAF B-52 &quot;STRATOFORTRESS 1:300 SCALE DIECAST METAL MODEL" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-close-the-minot-case-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="why-did-blue-book-close-the-minot-case-b-52-model" target="_blank" rel="sponsored noopener noreferrer">POSTAGE STAMP (PS5391) USAF B-52 &quot;STRATOFORTRESS 1:300 SCALE DIECAST METAL MODEL</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-close-the-minot-case-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="why-did-blue-book-close-the-minot-case-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for B-52 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: B-52 model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-close-the-minot-case-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="why-did-blue-book-close-the-minot-case-b-52-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,15 +457,15 @@ That leaves the Minot case in an unusual position. It is not one of Project Blue
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-close-the-minot-case-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="why-did-blue-book-close-the-minot-case-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:200 Scale B52 Model Alloy Aircraft Toy Ornament Simulation Enthusiasts"><img src="https://i.ebayimg.com/images/g/4OoAAeSwrxVpOvYI/s-l225.jpg" alt="Listing image for 1:200 Scale B52 Model Alloy Aircraft Toy Ornament Simulation Enthusiasts" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-close-the-minot-case-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="why-did-blue-book-close-the-minot-case-b-52-model" target="_blank" rel="sponsored noopener noreferrer">1:200 Scale B52 Model Alloy Aircraft Toy Ornament Simulation Enthusiasts</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-close-the-minot-case-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="why-did-blue-book-close-the-minot-case-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for B-52 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: B-52 model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-close-the-minot-case-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="why-did-blue-book-close-the-minot-case-b-52-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,15 +473,15 @@ That leaves the Minot case in an unusual position. It is not one of Project Blue
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-close-the-minot-case-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="why-did-blue-book-close-the-minot-case-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Del Prado 1/300 Diecast Boeing B-52 Model Aircraft See Description"><img src="https://i.ebayimg.com/images/g/vqwAAeSw7pFqDaaw/s-l225.jpg" alt="Listing image for Del Prado 1/300 Diecast Boeing B-52 Model Aircraft See Description" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-close-the-minot-case-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="why-did-blue-book-close-the-minot-case-b-52-model" target="_blank" rel="sponsored noopener noreferrer">Del Prado 1/300 Diecast Boeing B-52 Model Aircraft See Description</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-close-the-minot-case-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="why-did-blue-book-close-the-minot-case-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for B-52 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: B-52 model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-close-the-minot-case-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="why-did-blue-book-close-the-minot-case-b-52-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -572,15 +489,15 @@ That leaves the Minot case in an unusual position. It is not one of Project Blue
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-close-the-minot-case-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="why-did-blue-book-close-the-minot-case-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy Jet Bombers Model Kits 1/144 Scale USAF B-52H or B-1B"><img src="https://i.ebayimg.com/images/g/Z0wAAOSwloxjdQCS/s-l225.jpg" alt="Listing image for Academy Jet Bombers Model Kits 1/144 Scale USAF B-52H or B-1B" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-close-the-minot-case-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="why-did-blue-book-close-the-minot-case-b-52-model" target="_blank" rel="sponsored noopener noreferrer">Academy Jet Bombers Model Kits 1/144 Scale USAF B-52H or B-1B</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-close-the-minot-case-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="why-did-blue-book-close-the-minot-case-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for B-52 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: B-52 model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-close-the-minot-case-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="why-did-blue-book-close-the-minot-case-b-52-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -588,7 +505,7 @@ That leaves the Minot case in an unusual position. It is not one of Project Blue
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-d5f241-why-did-blue-book-close-the-minot-case-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-blue-book-close-the-minot-case-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="why-did-blue-book-close-the-minot-case-b-52-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -665,17 +582,31 @@ That leaves the Minot case in an unusual position. It is not one of Project Blue
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -688,42 +619,73 @@ That leaves the Minot case in an unusual position. It is not one of Project Blue
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -738,12 +700,17 @@ That leaves the Minot case in an unusual position. It is not one of Project Blue
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -754,87 +721,87 @@ That leaves the Minot case in an unusual position. It is not one of Project Blue
 1. <a id="endnote-1"></a>
    Source: minotb52ufo.com  
    Title: Investigation: Section 6  
-   Link: [https://minotb52ufo.com/investigation/section-6.php](https://minotb52ufo.com/investigation/section-6.php)  
+   Link: <a href="https://minotb52ufo.com/investigation/section-6.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/investigation/section-6.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book EvaluationFinal Blue Book Statistical Data for the year 1968 categorizes the Minot AFB UFO case as Identified (Other) b...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/8331502](https://zenodo.org/records/8331502)  
+   Link: <a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Col. Hector Quintanilla evaluated the case data received from Minot AFB, and submitted a final case report on 13 November...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 4. <a id="endnote-4"></a>
    Source: minotb52ufo.com  
-   Link: [https://minotb52ufo.com/poher/pdf/POHER_Report.pdf](https://minotb52ufo.com/poher/pdf/POHER_Report.pdf)  
+   Link: <a href="https://minotb52ufo.com/poher/pdf/POHER_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/poher/pdf/POHER_Report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Radar and Air-Visual UFO Observations on 24...According to the account described in the Blue Book documents, only the B-52 o...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: minotb52ufo.com  
-   Link: [https://minotb52ufo.com/doc.php](https://minotb52ufo.com/doc.php)  
+   Link: <a href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/doc.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>umentation | The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 November 1968, including...</p></details>
    Published: November 1968  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Force regulation establishing and controlling the program for investigating and analyzing UFOs was rescinded.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/7482584/Project_Blue_Book_Archive](https://www.academia.edu/7482584/Project_Blue_Book_Archive)  
+   Link: <a href="https://www.academia.edu/7482584/Project_Blue_Book_Archive" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/7482584/Project_Blue_Book_Archive</a>  
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/275310917589751/posts/930283188759184/](https://www.facebook.com/groups/275310917589751/posts/930283188759184/)  
+   Link: <a href="https://www.facebook.com/groups/275310917589751/posts/930283188759184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/275310917589751/posts/930283188759184/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Minot B-52 fire damage not visible from public viewing areaNational Radio Day and the B52 Fire Incident. Steve Walker ▻ 319th... com/aer...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: airandspaceforces.com  
-   Link: [https://www.airandspaceforces.com/article/0608nuclear/](https://www.airandspaceforces.com/article/0608nuclear/)  
+   Link: <a href="https://www.airandspaceforces.com/article/0608nuclear/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/article/0608nuclear/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Nuclear Wake-Up CallThe shocking impetus for all this action took place last Aug. 30, when a B-52 mistakenly carried six advanced cru...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: forcesnews.com  
    Title: project blue book what was us air force operation investigate ufos  
-   Link: [https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos](https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos)  
+   Link: <a href="https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: What was US Air Force operation to...3 Aug 2022 — Unidentified Flying Objects – or UFOs – have long seemed the preser...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/456301001/Project-Blue-Book-Top-Secret-UFO-Files-The-Untold-Truth-by-John-Scott-Chace-pdf](https://www.scribd.com/document/456301001/Project-Blue-Book-Top-Secret-UFO-Files-The-Untold-Truth-by-John-Scott-Chace-pdf)  
+   Link: <a href="https://www.scribd.com/document/456301001/Project-Blue-Book-Top-Secret-UFO-Files-The-Untold-Truth-by-John-Scott-Chace-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/456301001/Project-Blue-Book-Top-Secret-UFO-Files-The-Untold-Truth-by-John-Scott-Chace-pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AIRSPACE: HARD EVIDENCE&quot; and “The Invasion of Earth: UFO and. Extraterrestrial Contact.”...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota](https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota)  
+   Link: <a href="https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>including a four-and-a-half- minute exposé of the 24 October 1968, Minot AFB case.Read more...</p></details>
    Published: October 1968  
 
 15. <a id="endnote-15"></a>
    Source: academia.edu  
    Title: The Investigation of UFO Events at Minot Air Force Base  
-   Link: [https://www.academia.edu/123798908/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota](https://www.academia.edu/123798908/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota)  
+   Link: <a href="https://www.academia.edu/123798908/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/123798908/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Minot to investigate an incident between a B-52 and a UFO. Runyon explained that he was piloting the B-52, and the AF concluded that what...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Abovethenormnews/posts/in-1968-minot-air-force-base-faced-a-ufo-encounter-that-still-leaves-questions-u/504458105721188/](https://www.facebook.com/Abovethenormnews/posts/in-1968-minot-air-force-base-faced-a-ufo-encounter-that-still-leaves-questions-u/504458105721188/)  
+   Link: <a href="https://www.facebook.com/Abovethenormnews/posts/in-1968-minot-air-force-base-faced-a-ufo-encounter-that-still-leaves-questions-u/504458105721188/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/in-1968-minot-air-force-base-faced-a-ufo-encounter-that-still-leaves-questions-u/504458105721188/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1968, Minot Air Force Base faced a UFO encounter that...It was described as extremely bright, with rapidly shifting colors...</p></details>

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /north-dakota-0b6838-gorman-dogfight/
 description: Focused pages that expand on Gorman Case.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: North_Dakota_0b6838_gorman_dogfight_913456
-parent_title: Gorman Case | Why North Dakota Matters in UFO History
+parent_title: Gorman Case
 parent_nav_short_title: Gorman Case
 parent_permalink: /gorman-case/
 ---

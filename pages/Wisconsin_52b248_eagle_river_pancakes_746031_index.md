@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /wisconsin-52b248-eagle-river-pancakes/
 description: Focused pages that expand on Eagle River.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Wisconsin_52b248_eagle_river_pancakes_746031
-parent_title: Eagle River | What Really Made Wisconsin a UFO State?
+parent_title: Eagle River
 parent_nav_short_title: Eagle River
 parent_permalink: /eagle-river/
 ---

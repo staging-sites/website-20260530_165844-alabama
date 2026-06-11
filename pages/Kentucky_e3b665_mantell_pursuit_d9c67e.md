@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-kentuckys-ufo/
 nav_short_title: Mantell
 title: Was the Mantell UFO Chase a Balloon?
-title_full: Was the Mantell UFO Chase a Balloon? | Kentucky UFOs
+title_full: Was the Mantell UFO Chase a Balloon?
 display_title_short: Mantell
 display_title: Mantell
 heading_title: Was the Mantell UFO Chase a Balloon?
@@ -268,8 +268,7 @@ image: /assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e-overview-social.jpg
 
 ## Introduction
 
-The *Mantell pursuit* remains one of the most debated early episodes in the history of reported unidentified flying objects (UFOs) in the United States and is a key event linked to [Kentucky]({{ 'what-really-happened-in-kentuckys-ufo/' | relative_url }})’s place in that broader story. On 7 January 1948 a trained military pilot, **Captain Thomas F. Mantell** of the Kentucky Air National Guard, died when his P‑51 Mustang crashed while chasing an unidentified aerial phenomenon above central Kentucky. In the decades since, the dominant explanation among military investigators and later researchers has been that the object was not an alien craft but a **U.S. Navy *Skyhook* high‑altitude balloon** — a then‑classified research balloon that Mantell and ground observers could not recognise at the time. This explanation, and why it replaced earlier ideas such as mistaken identity of Venus, illuminates both how early UFO reporting intersected with Cold War secrecy and how official analysis sought the most plausible terrestrial cause.[Wikipedia]
-
+The *Mantell pursuit* remains one of the most debated early episodes in the history of reported unidentified flying objects (UFOs) in the United States and is a key event linked to Kentucky’s place in that broader story. On 7 January 1948 a trained military pilot, **Captain Thomas F. Mantell** of the Kentucky Air National Guard, died when his P‑51 Mustang crashed while chasing an unidentified aerial phenomenon above central Kentucky. In the decades since, the dominant explanation among military investigators and later researchers has been that the object was not an alien craft but a **U.S. Navy *Skyhook* high‑altitude balloon** — a then‑classified research balloon that Mantell and ground observers could not recognise at the time. This explanation, and why it replaced earlier ideas such as mistaken identity of Venus, illuminates both how early UFO reporting intersected with Cold War secrecy and how official analysis sought the most plausible terrestrial cause.[Wikipedia]
 
 <img src="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e-overview.webp" | relative_url }}" alt="Overview image for Mantell" loading="eager" decoding="sync" fetchpriority="high">
 ## January 1948 Sightings and the Military Response
@@ -278,44 +277,38 @@ On the afternoon of 7 January 1948, local witnesses from Maysville and surro
 
 As the fighters climbed, other pilots abandoned the pursuit due to fuel constraints, but Mantell continued climbing steeply. At high altitude the P‑51 Mustang lacked an adequate oxygen supply for the pilot; above about 12,500 ft oxygen equipment is essential, and in Mantell’s case it appears he climbed into a zone where hypoxia would have set in. His final communications reported he was attempting to close on a large metallic object that was moving “at about half my speed,” and soon thereafter he lost contact. His aircraft crashed near Franklin, Kentucky, killing him instantly.[Wikipedia]
 
-
-<img src="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e-Illustration-1-light.svg" | relative_url }}" alt="Mantell illustration 1" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e-Illustration-1-dark.svg" | relative_url }}" alt="Mantell illustration 1" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Early and Evolving Explanations
 
-In the immediate aftermath, the newly formed Air Force unit charged with UFO investigation, **Project Sign**, offered provisional explanations. One early idea — put forward by astronomer Dr J. Allen Hynek, a scientific consultant — was that witnesses had mistaken the **planet Venus** for the mystery object. This was later ruled out because Venus at that time of afternoon would not have been bright enough to be seen as the object described.<span class="citation-chip-wrap"><a class="citation-chip" href="https://completely-kentucky.fandom.com/wiki/Mantell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: completely-kentucky.fandom.com">[completely-kentucky.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">completely-kentucky.fandom.com</span><span class="citation-popover-title">Mantell UFO Incident | Completely Kentucky Wiki | Fandom</span><span class="citation-popover-snippet">Mantell UFO Incident | Completely Kentucky Wiki | Fandom</span></span></span>
+In the immediate aftermath, the newly formed Air Force unit charged with UFO investigation, **Project Sign**, offered provisional explanations. One early idea — put forward by astronomer Dr J. Allen Hynek, a scientific consultant — was that witnesses had mistaken the **planet Venus** for the mystery object. This was later ruled out because Venus at that time of afternoon would not have been bright enough to be seen as the object described.<span class="citation-chip-wrap"><a class="citation-chip" href="https://completely-kentucky.fandom.com/wiki/Mantell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: completely-kentucky.fandom.com">[completely-kentucky.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">completely-kentucky.fandom.com</span><span class="citation-popover-title">Mantell UFO Incident &#124; Completely Kentucky Wiki &#124; Fandom</span><span class="citation-popover-snippet">Mantell UFO Incident &#124; Completely Kentucky Wiki &#124; Fandom</span></span></span>
 
-By the early 1950s, as **Project Blue Book** (the successor to Project Sign) took shape, investigators revisited the Mantell case more rigorously. Under Captain Edward J. Ruppelt, who became head of Blue Book, analysts concluded that a **secret U.S. Navy *Skyhook* balloon** was the most plausible explanation. These balloons, developed from late 1947 onwards for high‑altitude atmospheric research, were large, reflective, and able to ascend above 100,000 ft. In 1948 details of the program were classified, so neither Mantell nor airfield personnel would have been aware of their existence or appearance. Multiple witness descriptions of a pear‑ or cone‑shaped object were judged consistent with viewing a partially inflated Skyhook balloon at a distance, reflecting sunlight and drifting with winds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://completely-kentucky.fandom.com/wiki/Mantell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: completely-kentucky.fandom.com">[completely-kentucky.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">completely-kentucky.fandom.com</span><span class="citation-popover-title">Mantell UFO Incident | Completely Kentucky Wiki | Fandom</span><span class="citation-popover-snippet">Mantell UFO Incident | Completely Kentucky Wiki | Fandom</span></span></span>
+By the early 1950s, as **Project Blue Book** (the successor to Project Sign) took shape, investigators revisited the Mantell case more rigorously. Under Captain Edward J. Ruppelt, who became head of Blue Book, analysts concluded that a **secret U.S. Navy *Skyhook* balloon** was the most plausible explanation. These balloons, developed from late 1947 onwards for high‑altitude atmospheric research, were large, reflective, and able to ascend above 100,000 ft. In 1948 details of the program were classified, so neither Mantell nor airfield personnel would have been aware of their existence or appearance. Multiple witness descriptions of a pear‑ or cone‑shaped object were judged consistent with viewing a partially inflated Skyhook balloon at a distance, reflecting sunlight and drifting with winds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://completely-kentucky.fandom.com/wiki/Mantell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: completely-kentucky.fandom.com">[completely-kentucky.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">completely-kentucky.fandom.com</span><span class="citation-popover-title">Mantell UFO Incident &#124; Completely Kentucky Wiki &#124; Fandom</span><span class="citation-popover-snippet">Mantell UFO Incident &#124; Completely Kentucky Wiki &#124; Fandom</span></span></span>
 
-At least two observers in different locations later reported seeing what they described through telescopes as a “large balloon,” further supporting this interpretation. In addition, historical records suggest **multiple Skyhook balloons were launched on 7 January 1948** from Clinton County, Ohio, and expert analysis of prevailing winds indicates some could have drifted over Kentucky. While direct documentation tying a specific balloon to the sighting is lacking, the overall pattern fits the known characteristics of the Skyhook program and corresponds to the Air Force’s terrestrial explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://completely-kentucky.fandom.com/wiki/Mantell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: completely-kentucky.fandom.com">[completely-kentucky.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">completely-kentucky.fandom.com</span><span class="citation-popover-title">Mantell UFO Incident | Completely Kentucky Wiki | Fandom</span><span class="citation-popover-snippet">Mantell UFO Incident | Completely Kentucky Wiki | Fandom</span></span></span>
+At least two observers in different locations later reported seeing what they described through telescopes as a “large balloon,” further supporting this interpretation. In addition, historical records suggest **multiple Skyhook balloons were launched on 7 January 1948** from Clinton County, Ohio, and expert analysis of prevailing winds indicates some could have drifted over Kentucky. While direct documentation tying a specific balloon to the sighting is lacking, the overall pattern fits the known characteristics of the Skyhook program and corresponds to the Air Force’s terrestrial explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://completely-kentucky.fandom.com/wiki/Mantell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: completely-kentucky.fandom.com">[completely-kentucky.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">completely-kentucky.fandom.com</span><span class="citation-popover-title">Mantell UFO Incident &#124; Completely Kentucky Wiki &#124; Fandom</span><span class="citation-popover-snippet">Mantell UFO Incident &#124; Completely Kentucky Wiki &#124; Fandom</span></span></span>
 
+<img src="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e-Illustration-3-dark.svg" | relative_url }}" alt="Mantell illustration 3" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-<img src="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e-Illustration-3-light.svg" | relative_url }}" alt="Mantell illustration 3" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mtBbu-hp9zs" title="The Unbelievable UFO Chase That Cost A Pilot His Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mtBbu-hp9zs" target="_blank" rel="noopener noreferrer">The Unbelievable UFO Chase That Cost A Pilot His Life</a></p><p class="youtube-embed-meta">Channel: Peaked Interest &middot; Views: 25.1K &middot; Uploaded: October 2022 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mtBbu-hp9zs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mtBbu-hp9zs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WtNTPb6x7wM" title="Did a UFO Cause a Fatal Plane Crash in Kentucky? | The Alien Endgame | discovery+" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WtNTPb6x7wM" target="_blank" rel="noopener noreferrer">Did a UFO Cause a Fatal Plane Crash in Kentucky? | The Alien Endgame | discovery+</a></p><p class="youtube-embed-meta">Channel: discovery plus &middot; Views: 11.8K &middot; Uploaded: May 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WtNTPb6x7wM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WtNTPb6x7wM">Open on YouTube</a></p></div></div></div>
 
 ## Why Investigators Favoured the Skyhook Balloon Explanation
 
 Investigators favoured the Skyhook balloon hypothesis for several reasons that helped reconcile the eyewitness reports with known, albeit secret, technology of the late 1940s:
 
 * **Size and appearance:** Skyhook balloons were about 30 m (100 ft) in diameter when fully inflated and made of reflective material, matching large, bright descriptions of the object.[Wikipedia]
-* **Secret nature:** Because the balloon program was classified, neither military pilots nor ground observers could readily identify them, making a mystery seem plausible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://completely-kentucky.fandom.com/wiki/Mantell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: completely-kentucky.fandom.com">[completely-kentucky.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">completely-kentucky.fandom.com</span><span class="citation-popover-title">Mantell UFO Incident | Completely Kentucky Wiki | Fandom</span><span class="citation-popover-snippet">Mantell UFO Incident | Completely Kentucky Wiki | Fandom</span></span></span>
-* **Drift and ascent profiles:** High‑altitude balloons can ascend and drift slowly with wind currents, which explains why the object appeared to climb and move “slowly” relative to an aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wikidisc.org/wiki/Mantell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikidisc.org">[WikiDisc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikidisc.org</span><span class="citation-popover-title">Wiki Disc Mantell UFO Incident | Wiki Disc</span><span class="citation-popover-snippet">WikiDiscMantell UFO Incident | WikiDiscJanuary 7, 1948...</span><span class="citation-popover-meta">Published: January 7, 1948</span></span></span>
+* **Secret nature:** Because the balloon program was classified, neither military pilots nor ground observers could readily identify them, making a mystery seem plausible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://completely-kentucky.fandom.com/wiki/Mantell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: completely-kentucky.fandom.com">[completely-kentucky.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">completely-kentucky.fandom.com</span><span class="citation-popover-title">Mantell UFO Incident &#124; Completely Kentucky Wiki &#124; Fandom</span><span class="citation-popover-snippet">Mantell UFO Incident &#124; Completely Kentucky Wiki &#124; Fandom</span></span></span>
+* **Drift and ascent profiles:** High‑altitude balloons can ascend and drift slowly with wind currents, which explains why the object appeared to climb and move “slowly” relative to an aircraft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wikidisc.org/wiki/Mantell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wikidisc.org">[WikiDisc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wikidisc.org</span><span class="citation-popover-title">Wiki Disc Mantell UFO Incident &#124; Wiki Disc</span><span class="citation-popover-snippet">Mantell UFO Incident &#124; WikiDiscJanuary 7, 1948...</span><span class="citation-popover-meta">Published: January 7, 1948</span></span></span>
 * **Hypoxia‑related crash:** The P‑51 Mustang that Mantell flew was unpressurised and oxygen‑equipped but only for moderate altitude. Climbing too high without sufficient oxygen equipment leads to hypoxia — a loss of consciousness — which is the accepted cause of his loss of control and crash.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.findlatlng.org/en/uap-sightings/us-1948-mantell" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: findlatlng.org">[FindLatLng]</a><span class="citation-popover" role="note"><span class="citation-popover-source">findlatlng.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-While some UFO enthusiasts and later commentators have questioned details (for example, whether a specific Skyhook launched on that day could have been in the precise location), the Skyhook balloon remains the **best supported non‑extraterrestrial explanation** in official and mainstream historical accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://military-history.fandom.com/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: military-history.fandom.com">[Military Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">military-history.fandom.com</span><span class="citation-popover-title">Military Wiki Mantell UFO incident | Military Wiki | Fandom</span><span class="citation-popover-snippet">Military Wiki Mantell UFO incident | Military Wiki | Fandom</span></span></span>
+While some UFO enthusiasts and later commentators have questioned details (for example, whether a specific Skyhook launched on that day could have been in the precise location), the Skyhook balloon remains the **best supported non‑extraterrestrial explanation** in official and mainstream historical accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://military-history.fandom.com/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: military-history.fandom.com">[Military Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">military-history.fandom.com</span><span class="citation-popover-title">Military Wiki Mantell UFO incident &#124; Military Wiki &#124; Fandom</span><span class="citation-popover-snippet">Military Wiki Mantell UFO incident &#124; Military Wiki &#124; Fandom</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G70u2twpeME" title="LOST CONTACT: UFOS AFTER WARTIME | Official Trailer | Documentary | VOD October 7, 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G70u2twpeME" target="_blank" rel="noopener noreferrer">LOST CONTACT: UFOS AFTER WARTIME | Official Trailer | Documentary | VOD October 7, 2025</a></p><p class="youtube-embed-meta">Channel: Indie Film Worldwide | BritFlicks &middot; Views: 246 &middot; Uploaded: September 2025 &middot; Length: 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G70u2twpeME" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G70u2twpeME">Open on YouTube</a></p></div></div></div>
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dKW9SGwGGy4" title="10 Bizarre Alien Sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dKW9SGwGGy4" target="_blank" rel="noopener noreferrer">10 Bizarre Alien Sightings</a></p><p class="youtube-embed-meta">Channel: Weird Science &middot; Views: 2.7K &middot; Uploaded: October 2016 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dKW9SGwGGy4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dKW9SGwGGy4">Open on YouTube</a></p></div></div></div>
-
-
-<img src="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e-Illustration-2-light.svg" | relative_url }}" alt="Mantell illustration 2" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e-Illustration-2-dark.svg" | relative_url }}" alt="Mantell illustration 2" data-theme-src-dark="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kentucky_e3b665_mantell_pursuit_d9c67e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Legacy of the Mantell Case
 
 The Mantell incident occupies a distinctive place in early UFO history as one of the first to involve **military pursuit** of an unidentified object and the only one in which a pilot was killed during such a chase. Its prominence in the press at the time helped shape public perceptions of UFOs as potentially dangerous and worthy of serious investigation. The evolution of the official explanation — from planetary misidentification to classified balloon — also illustrates the interplay between military secrecy in the early Cold War and how unidentified [sightings]({{ 'sightings-4a7cde/' | relative_url }}) were reported and analysed. Rather than confirming extraterrestrial visitation, the Skyhook explanation situates the event within terrestrial technological developments and the limits of 1940s aviation physiology.[Wikipedia]
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WtNTPb6x7wM" title="Did a UFO Cause a Fatal Plane Crash in Kentucky? | The Alien Endgame | discovery+" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WtNTPb6x7wM" target="_blank" rel="noopener noreferrer">Did a UFO Cause a Fatal Plane Crash in Kentucky? | The Alien Endgame | discovery+</a></p><p class="youtube-embed-meta">Channel: discovery plus &middot; Views: 11.8K &middot; Uploaded: May 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WtNTPb6x7wM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WtNTPb6x7wM">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mtBbu-hp9zs" title="The Unbelievable UFO Chase That Cost A Pilot His Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mtBbu-hp9zs" target="_blank" rel="noopener noreferrer">The Unbelievable UFO Chase That Cost A Pilot His Life</a></p><p class="youtube-embed-meta">Channel: Peaked Interest &middot; Views: 25.1K &middot; Uploaded: October 2022 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mtBbu-hp9zs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mtBbu-hp9zs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -403,7 +396,7 @@ The Mantell incident occupies a distinctive place in early UFO history as one of
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -413,111 +406,36 @@ The Mantell incident occupies a distinctive place in early UFO history as one of
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fabbri Diecast Model Aircraft 1:100 North American P51 Mustang USAAF"><img src="https://i.ebayimg.com/images/g/2xYAAeSwddNphL67/s-l225.jpg" alt="Listing image for Fabbri Diecast Model Aircraft 1:100 North American P51 Mustang USAAF" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer">Fabbri Diecast Model Aircraft 1:100 North American P51 Mustang USAAF</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for p 51 mustang model">Search <span data-ebay-domain-label>eBay.co.uk</span>: p 51 mustang model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +443,15 @@ The Mantell incident occupies a distinctive place in early UFO history as one of
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for P-51 Mustang 1/48 scale Die Cast Model"><img src="https://i.ebayimg.com/images/g/NtgAAeSwS-xp8IiA/s-l225.jpg" alt="Listing image for P-51 Mustang 1/48 scale Die Cast Model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer">P-51 Mustang 1/48 scale Die Cast Model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for p 51 mustang model">Search <span data-ebay-domain-label>eBay.co.uk</span>: p 51 mustang model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,15 +459,15 @@ The Mantell incident occupies a distinctive place in early UFO history as one of
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for P-51D Mustang Old Crow RED TAIL 1/18th Scale Model 21ST CENTURY TOYS"><img src="https://i.ebayimg.com/images/g/szUAAeSwO1dqI-Ux/s-l225.jpg" alt="Listing image for P-51D Mustang Old Crow RED TAIL 1/18th Scale Model 21ST CENTURY TOYS" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer">P-51D Mustang Old Crow RED TAIL 1/18th Scale Model 21ST CENTURY TOYS</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for p 51 mustang model">Search <span data-ebay-domain-label>eBay.co.uk</span>: p 51 mustang model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -557,15 +475,15 @@ The Mantell incident occupies a distinctive place in early UFO history as one of
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hasegawa Eggplane North American P-51 Mustang Non-Scale Plastic Model Kit TH7"><img src="https://i.ebayimg.com/images/g/ltsAAeSwPw9p3i4b/s-l225.jpg" alt="Listing image for Hasegawa Eggplane North American P-51 Mustang Non-Scale Plastic Model Kit TH7" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer">Hasegawa Eggplane North American P-51 Mustang Non-Scale Plastic Model Kit TH7</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for p 51 mustang model">Search <span data-ebay-domain-label>eBay.co.uk</span>: p 51 mustang model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -573,7 +491,7 @@ The Mantell incident occupies a distinctive place in early UFO history as one of
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mantell-was-the-mantell-ufo-chase-a-balloon-kentucky-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=p+51+mustang+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="p 51 mustang model" data-ebay-reference="was-the-mantell-ufo-chase-a-balloon-p-51-mustang-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -650,17 +568,31 @@ The Mantell incident occupies a distinctive place in early UFO history as one of
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -673,42 +605,73 @@ The Mantell incident occupies a distinctive place in early UFO history as one of
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -723,12 +686,17 @@ The Mantell incident occupies a distinctive place in early UFO history as one of
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -739,57 +707,57 @@ The Mantell incident occupies a distinctive place in early UFO history as one of
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Mantell UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Mantell_UFO_incident](https://en.wikipedia.org/wiki/Mantell_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mantell_UFO_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: completely-kentucky.fandom.com  
    Title: Mantell UFO Incident | Completely Kentucky Wiki | Fandom  
-   Link: [https://completely-kentucky.fandom.com/wiki/Mantell_UFO_Incident](https://completely-kentucky.fandom.com/wiki/Mantell_UFO_Incident)  
+   Link: <a href="https://completely-kentucky.fandom.com/wiki/Mantell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://completely-kentucky.fandom.com/wiki/Mantell_UFO_Incident</a>  
 
 3. <a id="endnote-3"></a>
    Source: findlatlng.org  
-   Link: [https://www.findlatlng.org/en/uap-sightings/us-1948-mantell](https://www.findlatlng.org/en/uap-sightings/us-1948-mantell)  
+   Link: <a href="https://www.findlatlng.org/en/uap-sightings/us-1948-mantell" target="_blank" rel="noopener noreferrer nofollow">https://www.findlatlng.org/en/uap-sightings/us-1948-mantell</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Skyhook balloon  
-   Link: [https://en.wikipedia.org/wiki/Skyhook_balloon](https://en.wikipedia.org/wiki/Skyhook_balloon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Skyhook_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skyhook_balloon</a>  
 
 5. <a id="endnote-5"></a>
    Source: military-history.fandom.com  
    Title: Military Wiki Mantell UFO incident | Military Wiki | Fandom  
-   Link: [https://military-history.fandom.com/wiki/Mantell_UFO_incident](https://military-history.fandom.com/wiki/Mantell_UFO_incident)  
+   Link: <a href="https://military-history.fandom.com/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Mantell_UFO_incident</a>  
 
 6. <a id="endnote-6"></a>
    Source: wikidisc.org  
    Title: Wiki Disc Mantell UFO Incident | Wiki Disc  
-   Link: [https://www.wikidisc.org/wiki/Mantell_UFO_Incident](https://www.wikidisc.org/wiki/Mantell_UFO_Incident)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikiDiscMantell UFO Incident | WikiDiscJanuary 7, 1948...</p></details>
+   Link: <a href="https://www.wikidisc.org/wiki/Mantell_UFO_Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidisc.org/wiki/Mantell_UFO_Incident</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mantell UFO Incident | WikiDiscJanuary 7, 1948...</p></details>
    Published: January 7, 1948  
 
 7. <a id="endnote-7"></a>
    Source: military.com  
    Title: (Simpson Cou  
-   Link: [https://www.military.com/history/first-air-force-pilot-die-chasing-ufo-was-actually-chasing-secret-balloon.html](https://www.military.com/history/first-air-force-pilot-die-chasing-ufo-was-actually-chasing-secret-balloon.html)  
+   Link: <a href="https://www.military.com/history/first-air-force-pilot-die-chasing-ufo-was-actually-chasing-secret-balloon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/history/first-air-force-pilot-die-chasing-ufo-was-actually-chasing-secret-balloon.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The First Air Force Pilot to Die Chasing a UFO Was Actually Chasing a Secret Balloon | Military.comOctober 31, 2022 — THE FIRST AIR FORCE...</p></details>
    Published: October 31, 2022  
 
 8. <a id="endnote-8"></a>
    Source: ufoinsight.com  
    Title: The Mantell Incident  
-   Link: [https://www.ufoinsight.com/the-mantell-incident-a-case-study/](https://www.ufoinsight.com/the-mantell-incident-a-case-study/)  
+   Link: <a href="https://www.ufoinsight.com/the-mantell-incident-a-case-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/the-mantell-incident-a-case-study/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightMarch 3, 2019 — REPORTS FROM THE GROUND OF A “LARGE, CIRCULAR, METALLIC” OBJECT OVER KENTUCKY On the afternoon of the 7^{th} J...</p></details>
    Published: March 3, 2019  
 
 9. <a id="endnote-9"></a>
    Source: paranormal-encyclopedia.com  
-   Link: [https://www.paranormal-encyclopedia.com/u/ufo/sightings/1948/mantell.html](https://www.paranormal-encyclopedia.com/u/ufo/sightings/1948/mantell.html)  
+   Link: <a href="https://www.paranormal-encyclopedia.com/u/ufo/sightings/1948/mantell.html" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormal-encyclopedia.com/u/ufo/sightings/1948/mantell.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Captain Thomas F. Mantell The Mantell UFO Incident is one of the most significant UFO sightings of all time, mainly because it resulted i...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: en.wikipedia-on-ipfs.org  
    Title: Mantell UFO incident  
-   Link: [https://en.wikipedia-on-ipfs.org/wiki/Mantell_UFO_incident](https://en.wikipedia-on-ipfs.org/wiki/Mantell_UFO_incident)  
+   Link: <a href="https://en.wikipedia-on-ipfs.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia-on-ipfs.org/wiki/Mantell_UFO_incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mantell, a Kentucky Air National Guard pilot, died in the crash of his P-51 Mustang fighter plane near Franklin, Kentucky, United States...</p></details>
 
 ### Additional References
@@ -797,60 +765,60 @@ The Mantell incident occupies a distinctive place in early UFO history as one of
 11. <a id="endnote-11"></a>
    Source: ufocasebook.com  
    Title: Mantell of the Kentucky Air National Guard, and his family, friends, and fello  
-   Link: [https://www.ufocasebook.com/Mantell.html](https://www.ufocasebook.com/Mantell.html)  
+   Link: <a href="https://www.ufocasebook.com/Mantell.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/Mantell.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1948, The Death of Thomas Mantell, UFO Casebook FilesJanuary 7, 1948 — 1948, THE DEATH OF THOMAS MANTELL Image: Thomas Mantell January 7...</p></details>
    Published: January 7, 1948  
 
 12. <a id="endnote-12"></a>
    Source: profilpelajar.com  
-   Link: [https://profilpelajar.com/en/Mantell_UFO_incident](https://profilpelajar.com/en/Mantell_UFO_incident)  
+   Link: <a href="https://profilpelajar.com/en/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://profilpelajar.com/en/Mantell_UFO_incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For the antiquary, see Thomas Mantell (antiquary). Image: Mantell UFO incident is located in KentuckyFort KnoxFranklin, Kentuckyclass=not...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ufomagazines.com  
-   Link: [https://www.ufomagazines.com/just-cause-new-series-just-cause-1994-06-no-40-new-series/](https://www.ufomagazines.com/just-cause-new-series-just-cause-1994-06-no-40-new-series/)  
+   Link: <a href="https://www.ufomagazines.com/just-cause-new-series-just-cause-1994-06-no-40-new-series/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/just-cause-new-series-just-cause-1994-06-no-40-new-series/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>JUST CAUSE — CAUS | UFO Magazine ArchiveSKYHOOK BALLOON SPECIFICS AS A FINAL NOTE ON THE MANTELL STORY, PROFESSOR MOORE PROVIDED DETAILS...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/mantellcomp.htm](https://www.nicap.org/mantellcomp.htm)  
+   Link: <a href="https://www.nicap.org/mantellcomp.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/mantellcomp.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mantell An Anatomy - Complete ReportIn twenty minutes it could have been in a position where it could be seen from Owensboro and Irvingto...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: theufodatabase.com  
    Title: Mantell UFO Incident  
-   Link: [https://theufodatabase.com/docs/mantell-ufo-incident-1948-01-07-project-blue-book](https://theufodatabase.com/docs/mantell-ufo-incident-1948-01-07-project-blue-book)  
+   Link: <a href="https://theufodatabase.com/docs/mantell-ufo-incident-1948-01-07-project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/docs/mantell-ufo-incident-1948-01-07-project-blue-book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Case File | The UFO DatabaseJanuary 7, 1948 — MANTELL UFO INCIDENT - PROJECT BLUE BOOK CASE FILE IMAGE: SHARE Image: Ma...</p></details>
    Published: January 7, 1948  
 
 16. <a id="endnote-16"></a>
    Source: theufodatabase.com  
    Title: mantell ufo incident  
-   Link: [https://theufodatabase.com/incidents/mantell-ufo-incident](https://theufodatabase.com/incidents/mantell-ufo-incident)  
+   Link: <a href="https://theufodatabase.com/incidents/mantell-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/incidents/mantell-ufo-incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO DatabaseMANTELL UFO INCIDENT IMAGE: SHARE January 1948 This early UFO incident, resulting in the plane crash and death of Captain...</p></details>
    Published: January 1948  
 
 17. <a id="endnote-17"></a>
    Source: cufos.org  
    Title: Classic UFO Cases  
-   Link: [https://cufos.org/resources/classic-ufo-cases/](https://cufos.org/resources/classic-ufo-cases/)  
+   Link: <a href="https://cufos.org/resources/classic-ufo-cases/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/classic-ufo-cases/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thomas Mantell&#x27;s crashed F-51, January 7, 1948On January 7, 1948, at 2:50 p.m., Capt. Thomas F. Mantell Jr., a 25-year-old Kentucky Air N...</p></details>
    Published: January 7, 1948  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Lost Contact: UFOs After Wartime  
-   Link: [https://www.youtube.com/watch?v=tD9qvHdUyMI](https://www.youtube.com/watch?v=tD9qvHdUyMI)  
+   Link: <a href="https://www.youtube.com/watch?v=tD9qvHdUyMI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tD9qvHdUyMI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Did a UFO Cause a Fatal Plane Crash in Kentucky? | The Alien Endgame...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: uapsee.com  
    Title: UA Psee  
-   Link: [https://www.uapsee.com/uap-case-files/ww1-2-era/cold-war-era-1945-1991/the-mantell-incident](https://www.uapsee.com/uap-case-files/ww1-2-era/cold-war-era-1945-1991/the-mantell-incident)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPsee - The Mantell IncidentTHE MANTELL INCIDENT Summary The Mantell Incident refers to an early UFO incident that occurred on January 7...</p></details>
+   Link: <a href="https://www.uapsee.com/uap-case-files/ww1-2-era/cold-war-era-1945-1991/the-mantell-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.uapsee.com/uap-case-files/ww1-2-era/cold-war-era-1945-1991/the-mantell-incident</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mantell IncidentTHE MANTELL INCIDENT Summary The Mantell Incident refers to an early UFO incident that occurred on January 7...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: The Unbelievable UFO Chase That Cost A Pilot His Life  
-   Link: [https://www.youtube.com/watch?v=mtBbu-hp9zs](https://www.youtube.com/watch?v=mtBbu-hp9zs)  
+   Link: <a href="https://www.youtube.com/watch?v=mtBbu-hp9zs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mtBbu-hp9zs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lost Contact: UFOs After Wartime - Official Trailer...</p></details>

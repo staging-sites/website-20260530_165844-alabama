@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-louisianas-ufo/
 nav_short_title: Official Records
 title: When Does a Louisiana UFO Report Deserve Trust?
-title_full: When Does a Louisiana UFO Report Deserve Trust? | Louisiana UFOs
+title_full: When Does a Louisiana UFO Report Deserve Trust?
 display_title_short: Official Records
 display_title: Official Records
 heading_title: When Does a Louisiana UFO Report Deserve Trust?
@@ -262,8 +262,7 @@ image: /assets/images/Louisiana_b158e0_official_records_9b05ad-overview-social.j
 
 ## Introduction
 
-A [Louisiana]({{ 'what-really-happened-in-louisianas-ufo/' | relative_url }}) UFO report deserves more trust when it leaves a record that can be checked against aviation, weather, radar, military and official files. Pilot and FAA-linked reports are useful because they may include times, altitudes, routes, call signs, controller notes and operational context. But they are not automatically strong evidence. In Louisiana, the best leads are not the most dramatic stories; they are the cases where a reader can ask: was there an aircraft nearby, did air traffic control see anything, did weather or astronomical data fit, and did an official file preserve enough detail to re-test the claim?
-
+A Louisiana UFO report deserves more trust when it leaves a record that can be checked against aviation, weather, radar, military and official files. Pilot and FAA-linked reports are useful because they may include times, altitudes, routes, call signs, controller notes and operational context. But they are not automatically strong evidence. In Louisiana, the best leads are not the most dramatic stories; they are the cases where a reader can ask: was there an aircraft nearby, did air traffic control see anything, did weather or astronomical data fit, and did an official file preserve enough detail to re-test the claim?
 
 <img src="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad-overview.webp" | relative_url }}" alt="Overview image for Official Records" loading="eager" decoding="sync" fetchpriority="high">
 The most useful Louisiana trail runs through Project Blue Book files, aviation-adjacent cases around Alexandria, New Orleans and [Barksdale]({{ 'barksdale/' | relative_url }}), and modern FAA reporting rules that now treat unidentified anomalous phenomena, or UAP, as an air-traffic reporting category rather than folklore. The fair conclusion is cautious: official records can make a case worth checking, but only corroborated records make it stronger.
@@ -284,14 +283,13 @@ Louisiana appears repeatedly in Blue Book-era indexes and mirrored document coll
 
 That tells the reader two things at once. First, Louisiana was not absent from the official UFO record. Secondly, the presence of a case file is only the beginning of the question. A file may record a striking sighting, a routine misidentification, an incomplete witness statement, or a case that was never followed up properly.
 
-The [Alexandria 1949]({{ 'alexandria-1949-case/' | relative_url }}) file is a useful example of how official records can look stronger and weaker at the same time. The Internet Archive copy of the Air Force file identifies the item as “1949 07 6310075 Alexandria Louisiana”, a Project Blue Book-related government document of 19 pages. The file’s OCR text records a 7 July 1949 sighting in Alexandria, Louisiana, described as a ground-visual observation of an orange round light at roughly 35 degrees elevation, visible for about five minutes. The summary says the object seemed to move from north to west, reverse course and disappear gradually; the file conclusion is “aircraft”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/1949-07-6310075-Alexandria-Louisiana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">1949 07 6310075 Alexandria Louisiana</span><span class="citation-popover-snippet">1949 07 6310075 Alexandria Louisiana</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/1949-07-6310075-Alexandria-Louisiana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">1949 07 6310075 Alexandria Louisiana</span><span class="citation-popover-snippet">1949 07 6310075 Alexandria Louisiana</span></span></span>
+The Alexandria 1949 file is a useful example of how official records can look stronger and weaker at the same time. The Internet Archive copy of the Air Force file identifies the item as “1949 07 6310075 Alexandria Louisiana”, a Project Blue Book-related government document of 19 pages. The file’s OCR text records a 7 July 1949 sighting in Alexandria, Louisiana, described as a ground-visual observation of an orange round light at roughly 35 degrees elevation, visible for about five minutes. The summary says the object seemed to move from north to west, reverse course and disappear gradually; the file conclusion is “aircraft”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/1949-07-6310075-Alexandria-Louisiana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">1949 07 6310075 Alexandria Louisiana</span><span class="citation-popover-snippet">1949 07 6310075 Alexandria Louisiana</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/1949-07-6310075-Alexandria-Louisiana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">1949 07 6310075 Alexandria Louisiana</span><span class="citation-popover-snippet">1949 07 6310075 Alexandria Louisiana</span></span></span>
 
 That case is worth checking precisely because it is not spectacular. It shows how a seemingly odd report becomes testable when an official form captures the basic variables: direction, duration, colour, witness position, weather notes and a conclusion. It also shows a weakness: the description alone does not provide distance, altitude, speed, radar confirmation or photographs. Without those, an “aircraft” conclusion may be plausible, but the reader cannot independently verify it without reconstructing local flight activity and weather conditions.
 
 The same pattern appears in later Blue Book indexing. A 1960 Blue Book Archive year page lists an Alexandria, Louisiana case of 19 pages, while a 1965 near-New Orleans file is described as a five-page Project Blue Book document. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/year/1949?page=2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bluebookfiles.org/year/1949?page=2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bluebookfiles.org">[Project Blue Book Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bluebookfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> These are not automatically major cases, but they are useful entry points for a Louisiana evidence map: they show where official investigators logged reports and where further cross-checking could produce either a stronger case or a mundane explanation.
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad-Illustration-1-light.svg" | relative_url }}" alt="Official Records illustration 1" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad-Illustration-1-dark.svg" | relative_url }}" alt="Official Records illustration 1" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Pilot reports and the Alexandria example
 
 Pilot reports often attract more attention than casual sightings because pilots are trained observers in an aviation environment. That is fair up to a point. A pilot may be better at judging headings, cloud layers, aircraft lights and relative motion than a ground witness. But pilot status does not remove perceptual limits. At night, over water, in cloud, or when judging an unknown light without range data, even a skilled aircrew can misread distance, size and speed.
@@ -314,8 +312,7 @@ A separate 1957 New Orleans entry also appears in lists of Blue Book unexplained
 
 The lesson is not “it was all flares”. The lesson is more useful: official records can both preserve intriguing reports and document ordinary explanations. A serious Louisiana review should welcome both outcomes.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dHGn_yPSgg0" title="Why This UFO Sighting Was Different | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer">Why This UFO Sighting Was Different | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied &middot; Views: 427.6K &middot; Uploaded: February 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dHGn_yPSgg0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XdAwIJbNeQE" title="How UFO Encounters Defeated Advanced US Fighter Jet Sensors | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XdAwIJbNeQE" target="_blank" rel="noopener noreferrer">How UFO Encounters Defeated Advanced US Fighter Jet Sensors | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 3.5K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XdAwIJbNeQE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XdAwIJbNeQE">Open on YouTube</a></p></div></div></div>
 
 ## What the FAA now changes for modern Louisiana reports
 
@@ -333,7 +330,6 @@ A good Louisiana UFO case does not need to be sensational. It needs to be hard t
 
 A useful review should look for:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Precise time and location.** A report should give the date, local time, observer position and viewing direction. “Over Louisiana” is too vague; “north-east of Alexandria at 21:00” is checkable.
@@ -349,8 +345,7 @@ NASA’s UAP study page is useful here because it frames the problem as one of b
 
 That is the right standard for Louisiana too. A case should move up the credibility ladder only when independent records converge. A pilot report plus ATC audio is better than a pilot report alone. A pilot report plus radar plus weather clearance plus excluded traffic is stronger still. A dramatic witness statement with no time, no direction and no records should stay low on the ladder.
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad-Illustration-2-light.svg" | relative_url }}" alt="Official Records illustration 2" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad-Illustration-2-dark.svg" | relative_url }}" alt="Official Records illustration 2" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What usually weakens a case
 
 Many Louisiana reports become less persuasive not because a witness is dishonest, but because the evidence is too thin. Common weaknesses include uncertain dates, vague directions, missing duration, no estimate of elevation, no weather check, no aircraft-traffic check and no original record. A case can also weaken when later retellings add details not present in the first report.
@@ -359,8 +354,7 @@ The Air Force’s own Blue Book conclusions are a reminder of this problem. Blue
 
 For Louisiana readers, that does not mean every unresolved case is worthless. It means “unresolved” should be treated as a description of the evidence, not a conclusion about origin. A weakly documented light near a flight path may remain unidentified simply because nobody kept the data needed to identify it.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EZ8uLaWP0qo" title="BD-0120 Lt Col Robert J Friend Project Blue Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EZ8uLaWP0qo" target="_blank" rel="noopener noreferrer">BD-0120 Lt Col Robert J Friend Project Blue Book</a></p><p class="youtube-embed-meta">Channel: San Diego Air and Space Museum Archives &middot; Views: 20.1K &middot; Uploaded: December 2016 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EZ8uLaWP0qo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EZ8uLaWP0qo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/whLm1rj3I8Y" title="History of Barksdale Air Force Base | Louisiana Quick History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=whLm1rj3I8Y" target="_blank" rel="noopener noreferrer">History of Barksdale Air Force Base | Louisiana Quick History</a></p><p class="youtube-embed-meta">Channel: Louisiana Dread &middot; Views: 34.9K &middot; Uploaded: January 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=whLm1rj3I8Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=whLm1rj3I8Y">Open on YouTube</a></p></div></div></div>
 
 ## A practical trust scale for Louisiana records
 
@@ -376,15 +370,13 @@ The most useful way to read Louisiana’s pilot, FAA and official-record cases i
 
 This scale keeps the Louisiana record balanced. It allows genuinely interesting reports to remain on the table while preventing every official mention from being inflated into a mystery.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XdAwIJbNeQE" title="How UFO Encounters Defeated Advanced US Fighter Jet Sensors | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XdAwIJbNeQE" target="_blank" rel="noopener noreferrer">How UFO Encounters Defeated Advanced US Fighter Jet Sensors | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 3.5K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XdAwIJbNeQE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XdAwIJbNeQE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dHGn_yPSgg0" title="Why This UFO Sighting Was Different | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer">Why This UFO Sighting Was Different | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied &middot; Views: 427.6K &middot; Uploaded: February 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dHGn_yPSgg0">Open on YouTube</a></p></div></div></div>
 
 ## The best next checks for Louisiana researchers
 
 The strongest future work on Louisiana UFO history would not be another list of sightings. It would be a case-by-case audit of records that already have enough structure to test.
 
 The most promising targets are:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -398,8 +390,7 @@ The most promising targets are:
 
 The central question is not whether Louisiana has UFO stories. It clearly does. The question is which stories leave enough official, aviation or physical evidence to survive basic checking. In that narrower and more useful sense, pilot, FAA and official-record cases are the right place to look — not because they prove extraordinary claims, but because they give Louisiana UFO history something firmer than rumour to work with.
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad-Illustration-3-light.svg" | relative_url }}" alt="Official Records illustration 3" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad-Illustration-3-dark.svg" | relative_url }}" alt="Official Records illustration 3" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_official_records_9b05ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -487,7 +478,7 @@ The central question is not whether Louisiana has UFO stories. It clearly does. 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -497,111 +488,36 @@ The central question is not whether Louisiana has UFO stories. It clearly does. 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed."><img src="https://i.ebayimg.com/images/g/GWYAAeSwgidpwAEt/s-l225.jpg" alt="Listing image for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -609,15 +525,15 @@ The central question is not whether Louisiana has UFO stories. It clearly does. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/MykAAOSwkRVk5Rd3/s-l225.jpg" alt="Listing image for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -625,15 +541,15 @@ The central question is not whether Louisiana has UFO stories. It clearly does. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55"><img src="https://i.ebayimg.com/images/g/2G0AAOSwjIpgTIcl/s-l225.jpg" alt="Listing image for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -641,15 +557,15 @@ The central question is not whether Louisiana has UFO stories. It clearly does. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/HvAAAOSw08Vk5SIm/s-l225.jpg" alt="Listing image for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -657,7 +573,7 @@ The central question is not whether Louisiana has UFO stories. It clearly does. 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-records-when-does-a-louisiana-ufo-report-deserve-trust-louisiana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-does-a-louisiana-ufo-report-deserve-trust-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -734,17 +650,31 @@ The central question is not whether Louisiana has UFO stories. It clearly does. 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -757,42 +687,73 @@ The central question is not whether Louisiana has UFO stories. It clearly does. 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -807,12 +768,17 @@ The central question is not whether Louisiana has UFO stories. It clearly does. 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -823,332 +789,332 @@ The central question is not whether Louisiana has UFO stories. It clearly does. 
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Do Records Show Proof of UFOs? | National Archives  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
 3. <a id="endnote-3"></a>
    Source: bluebookfiles.org  
-   Link: [https://bluebookfiles.org/year/1949?page=2](https://bluebookfiles.org/year/1949?page=2)  
+   Link: <a href="https://bluebookfiles.org/year/1949?page=2" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/year/1949?page=2</a>  
 
 4. <a id="endnote-4"></a>
    Source: archive.org  
    Title: 1949 07 6310075 Alexandria Louisiana  
-   Link: [https://archive.org/details/1949-07-6310075-Alexandria-Louisiana](https://archive.org/details/1949-07-6310075-Alexandria-Louisiana)  
+   Link: <a href="https://archive.org/details/1949-07-6310075-Alexandria-Louisiana" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/1949-07-6310075-Alexandria-Louisiana</a>  
 
 5. <a id="endnote-5"></a>
    Source: archive.org  
    Title: 1949 07 6310075 Alexandria Louisiana djvu.txt  
-   Link: [https://archive.org/stream/1949-07-6310075-Alexandria-Louisiana/1949-07-6310075-Alexandria-Louisiana_djvu.txt](https://archive.org/stream/1949-07-6310075-Alexandria-Louisiana/1949-07-6310075-Alexandria-Louisiana_djvu.txt)  
+   Link: <a href="https://archive.org/stream/1949-07-6310075-Alexandria-Louisiana/1949-07-6310075-Alexandria-Louisiana_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1949-07-6310075-Alexandria-Louisiana/1949-07-6310075-Alexandria-Louisiana_djvu.txt</a>  
 
 6. <a id="endnote-6"></a>
    Source: bluebookfiles.org  
-   Link: [https://bluebookfiles.org/year/1960](https://bluebookfiles.org/year/1960)  
+   Link: <a href="https://bluebookfiles.org/year/1960" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/year/1960</a>  
 
 7. <a id="endnote-7"></a>
    Source: bluebookfiles.org  
-   Link: [https://bluebookfiles.org/doc/7045](https://bluebookfiles.org/doc/7045)  
+   Link: <a href="https://bluebookfiles.org/doc/7045" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/7045</a>  
 
 8. <a id="endnote-8"></a>
    Source: englandairpark.org  
    Title: our mission  
-   Link: [https://englandairpark.org/england-authority/our-mission/](https://englandairpark.org/england-authority/our-mission/)  
+   Link: <a href="https://englandairpark.org/england-authority/our-mission/" target="_blank" rel="noopener noreferrer nofollow">https://englandairpark.org/england-authority/our-mission/</a>  
 
 9. <a id="endnote-9"></a>
    Source: files.bluebookfiles.org  
    Title: Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/unknown.00%20-%20NARA%20-%20Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: archive.org  
    Title: Blue Book Artifacts  
-   Link: [https://archive.org/details/BlueBookArtifacts](https://archive.org/details/BlueBookArtifacts)  
+   Link: <a href="https://archive.org/details/BlueBookArtifacts" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/BlueBookArtifacts</a>  
 
 11. <a id="endnote-11"></a>
    Source: bluebookfiles.org  
    Title: Project Blue Book Archive Blue Book Artifacts  
-   Link: [https://bluebookfiles.org/doc/13766](https://bluebookfiles.org/doc/13766)  
+   Link: <a href="https://bluebookfiles.org/doc/13766" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/doc/13766</a>  
 
 12. <a id="endnote-12"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
 
 13. <a id="endnote-13"></a>
    Source: faa.gov  
    Title: document ID  
-   Link: [https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304](https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304)  
+   Link: <a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304</a>  
 
 14. <a id="endnote-14"></a>
    Source: faa.gov  
    Title: document ID  
-   Link: [https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303](https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303)  
+   Link: <a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044303</a>  
 
 15. <a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 16. <a id="endnote-16"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
 17. <a id="endnote-17"></a>
    Source: reuters.com  
    Title: Pentagon UFO report says most sightings 'ordinary objects' and phenomena  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
 18. <a id="endnote-18"></a>
    Source: ia800501.us.archive.org  
    Title: Edward J Ruppelt The Report on Unidentified Flying Objects  
-   Link: [https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf](https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf)  
+   Link: <a href="https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: ia600600.us.archive.org  
    Title: UFOs The Definitive Casebook LQ2  
-   Link: [https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf](https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: ia803206.us.archive.org  
    Title: David Jacobs The UFO Controversy In America  
-   Link: [https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf](https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf)  
+   Link: <a href="https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: ia801803.us.archive.org  
-   Link: [https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf](https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf)  
+   Link: <a href="https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt](https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt)  
+   Link: <a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
 
 24. <a id="endnote-24"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America_djvu.txt](https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America_djvu.txt)  
+   Link: <a href="https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America_djvu.txt</a>  
 
 25. <a id="endnote-25"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt](https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt)  
+   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
 
 26. <a id="endnote-26"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt](https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt)  
+   Link: <a href="https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt</a>  
 
 27. <a id="endnote-27"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt](https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt)  
+   Link: <a href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt</a>  
 
 28. <a id="endnote-28"></a>
    Source: faa.gov  
    Title: AIM Basic w Chg1 and Chg2 dtd 3 21 24  
-   Link: [https://www.faa.gov/Air_traffic/publications/media/AIM-Basic-w-Chg1-and-Chg2-dtd-3-21-24.pdf](https://www.faa.gov/Air_traffic/publications/media/AIM-Basic-w-Chg1-and-Chg2-dtd-3-21-24.pdf)  
+   Link: <a href="https://www.faa.gov/Air_traffic/publications/media/AIM-Basic-w-Chg1-and-Chg2-dtd-3-21-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/Air_traffic/publications/media/AIM-Basic-w-Chg1-and-Chg2-dtd-3-21-24.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_7.html](https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_7.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_7.html</a>  
 
 30. <a id="endnote-30"></a>
    Source: archives.gov  
    Title: nara documents2  
-   Link: [https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2](https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2)  
+   Link: <a href="https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2</a>  
 
 31. <a id="endnote-31"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: aliens at the archives  
-   Link: [https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/](https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/</a>  
 
 32. <a id="endnote-32"></a>
    Source: archives.gov  
    Title: Federal Records Guide: Alphabetical Index  
-   Link: [https://www.archives.gov/research/guide-fed-records/index-alpha/a.html](https://www.archives.gov/research/guide-fed-records/index-alpha/a.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/index-alpha/a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/a.html</a>  
 
 33. <a id="endnote-33"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: [https://unwritten-record.blogs.archives.gov/2014/04/page/2/](https://unwritten-record.blogs.archives.gov/2014/04/page/2/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2014/04/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2014/04/page/2/</a>  
 
 34. <a id="endnote-34"></a>
    Source: archives.gov  
    Title: still pictures guide  
-   Link: [https://www.archives.gov/research/guides/still-pictures-guide](https://www.archives.gov/research/guides/still-pictures-guide)  
+   Link: <a href="https://www.archives.gov/research/guides/still-pictures-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guides/still-pictures-guide</a>  
 
 35. <a id="endnote-35"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/guide-fed-records/groups/043.html](https://www.archives.gov/research/guide-fed-records/groups/043.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/groups/043.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/groups/043.html</a>  
 
 36. <a id="endnote-36"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/preservation/technical/imaging-storage-appendix.html](https://www.archives.gov/preservation/technical/imaging-storage-appendix.html)  
+   Link: <a href="https://www.archives.gov/preservation/technical/imaging-storage-appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/preservation/technical/imaging-storage-appendix.html</a>  
 
 37. <a id="endnote-37"></a>
    Source: archives.gov  
    Title: Federal Records Guide: Alphabetical Index  
-   Link: [https://www.archives.gov/research/guide-fed-records/index-alpha/p.html](https://www.archives.gov/research/guide-fed-records/index-alpha/p.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/index-alpha/p.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/p.html</a>  
 
 38. <a id="endnote-38"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-3b.html](https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-3b.html)  
+   Link: <a href="https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-3b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/holocaust/finding-aid/military/rg-226-3b.html</a>  
 
 39. <a id="endnote-39"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/holocaust/finding-aid/military/other-oss.html](https://www.archives.gov/research/holocaust/finding-aid/military/other-oss.html)  
+   Link: <a href="https://www.archives.gov/research/holocaust/finding-aid/military/other-oss.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/holocaust/finding-aid/military/other-oss.html</a>  
 
 40. <a id="endnote-40"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/guide-fed-records/groups/059.html](https://www.archives.gov/research/guide-fed-records/groups/059.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/groups/059.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/groups/059.html</a>  
 
 41. <a id="endnote-41"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/digitization/digitized-by-partners](https://www.archives.gov/digitization/digitized-by-partners)  
+   Link: <a href="https://www.archives.gov/digitization/digitized-by-partners" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/digitization/digitized-by-partners</a>  
 
 42. <a id="endnote-42"></a>
    Source: archives.gov  
    Title: entry 214  
-   Link: [https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html](https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html)  
+   Link: <a href="https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/iwg/declassified-records/rg-226-oss/entry-214.html</a>  
 
 43. <a id="endnote-43"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 44. <a id="endnote-44"></a>
    Source: bluebookfiles.org  
-   Link: [https://bluebookfiles.org/year/1957](https://bluebookfiles.org/year/1957)  
+   Link: <a href="https://bluebookfiles.org/year/1957" target="_blank" rel="noopener noreferrer nofollow">https://bluebookfiles.org/year/1957</a>  
 
 45. <a id="endnote-45"></a>
    Source: files.bluebookfiles.org  
    Title: 1960.07 7818315 Alexandria, Louisiana  
-   Link: [https://files.bluebookfiles.org/pdfs/1960.07%20-%207818315%20-%20Alexandria%2C%20Louisiana.pdf](https://files.bluebookfiles.org/pdfs/1960.07%20-%207818315%20-%20Alexandria%2C%20Louisiana.pdf)  
+   Link: <a href="https://files.bluebookfiles.org/pdfs/1960.07%20-%207818315%20-%20Alexandria%2C%20Louisiana.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1960.07%20-%207818315%20-%20Alexandria%2C%20Louisiana.pdf</a>  
 
 46. <a id="endnote-46"></a>
    Source: files.bluebookfiles.org  
    Title: org1. DATE 2. LOCATION (a) CONCLUSIONS = 0  
-   Link: [https://files.bluebookfiles.org/pdfs/1959.06%20-%208406835%20-%206%20Mi%20SE%20of%20Alexandria%2C%20La.pdf](https://files.bluebookfiles.org/pdfs/1959.06%20-%208406835%20-%206%20Mi%20SE%20of%20Alexandria%2C%20La.pdf)  
+   Link: <a href="https://files.bluebookfiles.org/pdfs/1959.06%20-%208406835%20-%206%20Mi%20SE%20of%20Alexandria%2C%20La.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1959.06%20-%208406835%20-%206%20Mi%20SE%20of%20Alexandria%2C%20La.pdf</a>  
 
 47. <a id="endnote-47"></a>
    Source: files.bluebookfiles.org  
    Title: orgny 3pends “ohge é  
-   Link: [https://files.bluebookfiles.org/pdfs/1953.06%20-%206385137%20-%20Newton%2C%20Mississippi%2C%20Lake%20Charles%2C%20Louisiana.pdf](https://files.bluebookfiles.org/pdfs/1953.06%20-%206385137%20-%20Newton%2C%20Mississippi%2C%20Lake%20Charles%2C%20Louisiana.pdf)  
+   Link: <a href="https://files.bluebookfiles.org/pdfs/1953.06%20-%206385137%20-%20Newton%2C%20Mississippi%2C%20Lake%20Charles%2C%20Louisiana.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1953.06%20-%206385137%20-%20Newton%2C%20Mississippi%2C%20Lake%20Charles%2C%20Louisiana.pdf</a>  
 
 48. <a id="endnote-48"></a>
    Source: files.bluebookfiles.org  
    Title: 1960.02 6969904 Alexandria, Louisiana  
-   Link: [https://files.bluebookfiles.org/pdfs/1960.02%20-%206969904%20-%20Alexandria%2C%20Louisiana.pdf](https://files.bluebookfiles.org/pdfs/1960.02%20-%206969904%20-%20Alexandria%2C%20Louisiana.pdf)  
+   Link: <a href="https://files.bluebookfiles.org/pdfs/1960.02%20-%206969904%20-%20Alexandria%2C%20Louisiana.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1960.02%20-%206969904%20-%20Alexandria%2C%20Louisiana.pdf</a>  
 
 49. <a id="endnote-49"></a>
    Source: files.bluebookfiles.org  
    Title: 1952.09 6383447 Robins AFB Georgia  
-   Link: [https://files.bluebookfiles.org/pdfs/1952.09%20-%206383447%20-%20Robins%20AFB%20Georgia.pdf](https://files.bluebookfiles.org/pdfs/1952.09%20-%206383447%20-%20Robins%20AFB%20Georgia.pdf)  
+   Link: <a href="https://files.bluebookfiles.org/pdfs/1952.09%20-%206383447%20-%20Robins%20AFB%20Georgia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/1952.09%20-%206383447%20-%20Robins%20AFB%20Georgia.pdf</a>  
 
 50. <a id="endnote-50"></a>
    Source: files.bluebookfiles.org  
    Title: orglyndon baines johnson 259  
-   Link: [https://files.bluebookfiles.org/pdfs/18129.pdf](https://files.bluebookfiles.org/pdfs/18129.pdf)  
+   Link: <a href="https://files.bluebookfiles.org/pdfs/18129.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.bluebookfiles.org/pdfs/18129.pdf</a>  
 
 51. <a id="endnote-51"></a>
    Source: alexandria-louisiana.com  
    Title: England Air Force Base  
-   Link: [https://www.alexandria-louisiana.com/england-air-force-base.htm](https://www.alexandria-louisiana.com/england-air-force-base.htm)  
+   Link: <a href="https://www.alexandria-louisiana.com/england-air-force-base.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.alexandria-louisiana.com/england-air-force-base.htm</a>  
 
 52. <a id="endnote-52"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
 
 53. <a id="endnote-53"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
 54. <a id="endnote-54"></a>
    Source: barksdale.af.mil  
-   Link: [https://www.barksdale.af.mil/](https://www.barksdale.af.mil/)  
+   Link: <a href="https://www.barksdale.af.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.barksdale.af.mil/</a>  
 
 55. <a id="endnote-55"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://www.ufologie.patrickgross.org/htm/bluebooku57.htm](https://www.ufologie.patrickgross.org/htm/bluebooku57.htm)  
+   Link: <a href="https://www.ufologie.patrickgross.org/htm/bluebooku57.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/bluebooku57.htm</a>  
 
 56. <a id="endnote-56"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 57. <a id="endnote-57"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
 58. <a id="endnote-58"></a>
    Source: Wikipedia  
    Title: England Air Force Base  
-   Link: [https://en.wikipedia.org/wiki/England_Air_Force_Base](https://en.wikipedia.org/wiki/England_Air_Force_Base)  
+   Link: <a href="https://en.wikipedia.org/wiki/England_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/England_Air_Force_Base</a>  
 
 59. <a id="endnote-59"></a>
    Source: Wikipedia  
    Title: Barksdale Air Force Base  
-   Link: [https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base](https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base)  
+   Link: <a href="https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base</a>  
 
 60. <a id="endnote-60"></a>
    Source: pcspayitforward.com  
-   Link: [https://pcspayitforward.com/base/air-force-base/barksdale-air-force-base/](https://pcspayitforward.com/base/air-force-base/barksdale-air-force-base/)  
+   Link: <a href="https://pcspayitforward.com/base/air-force-base/barksdale-air-force-base/" target="_blank" rel="noopener noreferrer nofollow">https://pcspayitforward.com/base/air-force-base/barksdale-air-force-base/</a>  
 
 61. <a id="endnote-61"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 62. <a id="endnote-62"></a>
    Source: sbmilitaryaffairs.com  
-   Link: [https://sbmilitaryaffairs.com/barksdale-airforce-base/](https://sbmilitaryaffairs.com/barksdale-airforce-base/)  
+   Link: <a href="https://sbmilitaryaffairs.com/barksdale-airforce-base/" target="_blank" rel="noopener noreferrer nofollow">https://sbmilitaryaffairs.com/barksdale-airforce-base/</a>  
 
 ### Additional References
 
 63. <a id="endnote-63"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=lTGJt7Gho0w](https://www.youtube.com/watch?v=lTGJt7Gho0w)  
+   Link: <a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lTGJt7Gho0w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why This UFO Sighting Was Different | Monstrum...</p></details>
 
 64. <a id="endnote-64"></a>
    Source: youtube.com  
    Title: How UFO Encounters Defeated Advanced US Fighter Jet Sensors | WION Podcast  
-   Link: [https://www.youtube.com/watch?v=XdAwIJbNeQE](https://www.youtube.com/watch?v=XdAwIJbNeQE)  
+   Link: <a href="https://www.youtube.com/watch?v=XdAwIJbNeQE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XdAwIJbNeQE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BD-0120 Lt Col Robert J Friend Project Blue Book...</p></details>
 
 65. <a id="endnote-65"></a>
    Source: epa.gov  
-   Link: [https://www.epa.gov/system/files/documents/2025-04/england_afb_success_story_508.pdf](https://www.epa.gov/system/files/documents/2025-04/england_afb_success_story_508.pdf)  
+   Link: <a href="https://www.epa.gov/system/files/documents/2025-04/england_afb_success_story_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.epa.gov/system/files/documents/2025-04/england_afb_success_story_508.pdf</a>  
 
 66. <a id="endnote-66"></a>
    Source: youtube.com  
    Title: Why This UFO Sighting Was Different | Monstrum  
-   Link: [https://www.youtube.com/watch?v=dHGn_yPSgg0](https://www.youtube.com/watch?v=dHGn_yPSgg0)  
+   Link: <a href="https://www.youtube.com/watch?v=dHGn_yPSgg0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dHGn_yPSgg0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How UFO Encounters Defeated Advanced US Fighter Jet Sensors | WION Podcast...</p></details>
 
 67. <a id="endnote-67"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=EZ8uLaWP0qo](https://www.youtube.com/watch?v=EZ8uLaWP0qo)  
+   Link: <a href="https://www.youtube.com/watch?v=EZ8uLaWP0qo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EZ8uLaWP0qo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Collision at 3,000 Feet? The Growing Threat to Commercial Jets...</p></details>
 
 68. <a id="endnote-68"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/](https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/)  
+   Link: <a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>  
 
 69. <a id="endnote-69"></a>
    Source: aiaa.org  
-   Link: [https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf](https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf)  
+   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
 
 70. <a id="endnote-70"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/urbancastllc/posts/alexandria-when-central-louisiana-was-nearly-the-ufo-capital-of-the-world-check-/878369384543155/](https://www.facebook.com/urbancastllc/posts/alexandria-when-central-louisiana-was-nearly-the-ufo-capital-of-the-world-check-/878369384543155/)  
+   Link: <a href="https://www.facebook.com/urbancastllc/posts/alexandria-when-central-louisiana-was-nearly-the-ufo-capital-of-the-world-check-/878369384543155/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/urbancastllc/posts/alexandria-when-central-louisiana-was-nearly-the-ufo-capital-of-the-world-check-/878369384543155/</a>  
 
 71. <a id="endnote-71"></a>
    Source: dascient.com  
-   Link: [https://dascient.com/](https://dascient.com/)  
+   Link: <a href="https://dascient.com/" target="_blank" rel="noopener noreferrer nofollow">https://dascient.com/</a>  
 
 72. <a id="endnote-72"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/793593508/FAA-UFO-Manuals-1](https://www.scribd.com/document/793593508/FAA-UFO-Manuals-1)  
+   Link: <a href="https://www.scribd.com/document/793593508/FAA-UFO-Manuals-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/793593508/FAA-UFO-Manuals-1</a>

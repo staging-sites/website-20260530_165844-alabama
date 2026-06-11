@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /blue-book-68b442/
 nav_short_title: East Memphis
 title: Why the East Memphis file stayed unresolved
-title_full: Why the East Memphis file stayed unresolved | Blue Book
+title_full: Why the East Memphis file stayed unresolved
 display_title_short: East Memphis
 display_title: East Memphis
 heading_title: Why the East Memphis file stayed unresolved
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:15:32'
-parent_title: What Did Blue Book Record in Tennessee? | Tennessee UFOs
+parent_title: What Did Blue Book Record in Tennessee?
 parent_permalink: /blue-book-68b442/
 parent_nav_short_title: Blue Book
 parent_heading_title: What Did Blue Book Record in Tennessee?
@@ -250,11 +250,10 @@ image: /assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb_east_memphis_b
 
 ## Introduction
 
-The East Memphis sighting of May 1967 stands out in [Tennessee]({{ 'what-keeps-tennessees-ufo-stories-alive/' | relative_url }})’s Project [Blue Book]({{ 'blue-book-68b442/' | relative_url }}) records because the surviving file is unusually detailed without ever becoming conclusive. Witnesses reported an object that appeared strange enough to trigger an official Air Force investigation, yet the case never produced the kind of evidence that could firmly separate an extraordinary event from a misidentified ordinary one. That tension is what makes the file interesting today.
+The East [Memphis]({{ 'memphis/' | relative_url }}) sighting of May 1967 stands out in Tennessee’s Project [Blue Book]({{ 'blue-book-68b442/' | relative_url }}) records because the surviving file is unusually detailed without ever becoming conclusive. Witnesses reported an object that appeared strange enough to trigger an official Air Force investigation, yet the case never produced the kind of evidence that could firmly separate an extraordinary event from a misidentified ordinary one. That tension is what makes the file interesting today.
 
-
-<img src="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb_east_memphis_blue_bo_6673a3-Illustration-1-light.svg" | relative_url }}" alt="East Memphis illustration 1" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb_east_memphis_blue_bo_6673a3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb_east_memphis_blue_bo_6673a3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Unlike some brief Tennessee reports that were dismissed quickly as aircraft or astronomical objects, the East [Memphis]({{ 'memphis/' | relative_url }}) case generated questionnaires, correspondence and evaluative comments. Even so, the surviving material shows a recurring problem in UFO investigations of the era: a vivid account can create a compelling story, but a compelling story is not the same thing as strong evidence. The East Memphis file illustrates both the strengths and the limits of Project Blue Book as a historical record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1967-05-9077346-EastMemphis-Tennessee.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project Blue Book report 1967 05 9077346 EastMemphis Tennessee</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Project Blue Book report - 1967-05-9077346-...English: Project Blue Book report - 1967-05-9077346-EastMemphis-Tenn...</span></span></span>
+<img src="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb_east_memphis_blue_bo_6673a3-Illustration-1-dark.svg" | relative_url }}" alt="East Memphis illustration 1" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb_east_memphis_blue_bo_6673a3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb_east_memphis_blue_bo_6673a3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Unlike some brief Tennessee reports that were dismissed quickly as aircraft or astronomical objects, the East Memphis case generated questionnaires, correspondence and evaluative comments. Even so, the surviving material shows a recurring problem in UFO investigations of the era: a vivid account can create a compelling story, but a compelling story is not the same thing as strong evidence. The East Memphis file illustrates both the strengths and the limits of Project Blue Book as a historical record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1967-05-9077346-EastMemphis-Tennessee.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project Blue Book report 1967 05 9077346 EastMemphis Tennessee</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Project Blue Book report - 1967-05-9077346-...English: Project Blue Book report - 1967-05-9077346-EastMemphis-Tenn...</span></span></span>
 
 ## What witnesses said they saw in May 1967
 
@@ -266,9 +265,6 @@ A recurring feature of UFO reports from this period is that witnesses often felt
 
 That distinction mattered to Air Force investigators. Blue Book was not trying to determine whether witnesses were sincere. It was trying to determine whether the available evidence supported a specific explanation. The East Memphis case left a gap between those two questions.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W89jh2C2Ry8" title="&#x27;Project Blue Book&#x27; Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W89jh2C2Ry8" target="_blank" rel="noopener noreferrer">&#x27;Project Blue Book&#x27; Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series</a></p><p class="youtube-embed-meta">Channel: SHOWTIME &middot; Views: 290.8K &middot; Uploaded: August 2021 &middot; Length: 1 minute 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W89jh2C2Ry8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W89jh2C2Ry8">Open on YouTube</a></p></div></div></div>
-
 ## Why investigators looked for ordinary explanations
 
 By 1967, Project Blue Book had spent years comparing unusual reports against recurring explanations such as aircraft lights, atmospheric effects, bright planets, balloons, reflections and observational error. Most cases eventually ended in one of those categories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.actionnews5.com/story/27896302/us-air-force-publishes-ufo-investigation-files-online/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: actionnews5.com">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">actionnews5.com</span><span class="citation-popover-title">us air force publishes ufo investigation files online</span><span class="citation-popover-snippet">Air Force publishes UFO investigation files online20 Jan 2015 — A document from July 1952 recorded a sighting of a white, unidentified ob...</span><span class="citation-popover-meta">Published: July 1952</span></span></span>
@@ -276,7 +272,6 @@ By 1967, Project Blue Book had spent years comparing unusual reports against rec
 The East Memphis file shows investigators approaching the report through that same process. Rather than beginning with an assumption that the object represented unknown technology, they examined whether known causes could account for the observation. The challenge was that the available information did not neatly point in a single direction.
 
 Several factors complicated the analysis:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -292,9 +287,6 @@ Those limitations meant that conventional explanations could not be ruled out de
 
 This is an important point when reading Tennessee UFO records. An unresolved case is not automatically stronger evidence than a solved one. Sometimes it simply means investigators could not gather enough reliable information to reach a firm conclusion.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fb7T1v_VHpE" title="The Unknowns: Mystifying UFO Cases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fb7T1v_VHpE" target="_blank" rel="noopener noreferrer">The Unknowns: Mystifying UFO Cases</a></p><p class="youtube-embed-meta">Channel: LEMMiNO &middot; Views: 13.0M &middot; Uploaded: November 2017 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fb7T1v_VHpE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fb7T1v_VHpE">Open on YouTube</a></p></div></div></div>
-
 ## What evidence was missing from the file
 
 The most revealing aspect of the East Memphis case is not what the witnesses reported but what the record lacked.
@@ -303,12 +295,11 @@ Modern readers often encounter Blue Book files after decades of retelling. The e
 
 Several forms of evidence that would have strengthened the case are absent or incomplete:
 
+<img src="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb_east_memphis_blue_bo_6673a3-Illustration-2-dark.svg" | relative_url }}" alt="East Memphis illustration 2" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb_east_memphis_blue_bo_6673a3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb_east_memphis_blue_bo_6673a3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### No independent technical confirmation
 
 The strongest historical UFO cases often involve more than one source of information, such as visual observations supported by radar tracking, multiple observation points or aviation records. The East Memphis file is notable because it does not appear to contain that level of independent confirmation. The investigation depended heavily on human observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1967-05-9077346-EastMemphis-Tennessee.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project Blue Book report 1967 05 9077346 EastMemphis Tennessee</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Project Blue Book report - 1967-05-9077346-...English: Project Blue Book report - 1967-05-9077346-EastMemphis-Tenn...</span></span></span>
 
-
-<img src="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb_east_memphis_blue_bo_6673a3-Illustration-2-light.svg" | relative_url }}" alt="East Memphis illustration 2" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb_east_memphis_blue_bo_6673a3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb_east_memphis_blue_bo_6673a3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### No clear measurement of distance or altitude
 
 Witnesses frequently estimate how large or fast an object appears. Those estimates become unreliable when the true distance is unknown.
@@ -321,9 +312,7 @@ Many UFO files contain references to alleged traces, marks, debris or environmen
 
 Without physical evidence, the case remained anchored to observation rather than verification.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hdH3h_Wa6gE" title="Project Blue Book Sneak Peek: The True Story Behind the Government&#x27;s UFO Investigation - IGN First" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hdH3h_Wa6gE" target="_blank" rel="noopener noreferrer">Project Blue Book Sneak Peek: The True Story Behind the Government&#x27;s UFO Investigation - IGN First</a></p><p class="youtube-embed-meta">Channel: IGN &middot; Views: 413.4K &middot; Uploaded: September 2018 &middot; Length: 1 minute 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hdH3h_Wa6gE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hdH3h_Wa6gE">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb_east_memphis_blue_bo_6673a3-Illustration-3-dark.svg" | relative_url }}" alt="East Memphis illustration 3" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb_east_memphis_blue_bo_6673a3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb_east_memphis_blue_bo_6673a3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Limited ability to reconstruct the event later
 
 The file survives because Blue Book preserved paperwork. What did not survive was the event itself. Investigators decades later cannot return to the original viewing conditions, interview every participant in real time or collect fresh measurements.
@@ -338,7 +327,6 @@ The Air Force itself repeatedly argued that an unidentified classification did n
 
 For East Memphis, the unresolved status appears to have emerged from a combination of factors:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Witnesses described something they considered unusual.
@@ -350,8 +338,6 @@ For East Memphis, the unresolved status appears to have emerged from a combinati
 
 That combination left the case suspended between explanation and certainty.
 
-
-<img src="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb_east_memphis_blue_bo_6673a3-Illustration-3-light.svg" | relative_url }}" alt="East Memphis illustration 3" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb_east_memphis_blue_bo_6673a3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_blue_book_tennessee_219beb_east_memphis_blue_bo_6673a3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the East Memphis case says about Tennessee's Blue Book records
 
 Within Tennessee's Blue Book archive, the East Memphis file occupies a useful middle ground. It is richer than many one-page sightings and more informative than reports that received immediate conventional explanations. At the same time, it does not provide the kind of evidence that would transform the state's UFO history.
@@ -782,31 +768,31 @@ For readers exploring Tennessee's UFO history, the lesson is straightforward. Th
 1. <a id="endnote-1"></a>
    Source: commons.wikimedia.org  
    Title: File:Project Blue Book report 1967 05 9077346 EastMemphis Tennessee  
-   Link: [https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1967-05-9077346-EastMemphis-Tennessee.pdf](https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1967-05-9077346-EastMemphis-Tennessee.pdf)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1967-05-9077346-EastMemphis-Tennessee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1967-05-9077346-EastMemphis-Tennessee.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Project Blue Book report - 1967-05-9077346-...English: Project Blue Book report - 1967-05-9077346-EastMemphis-Tenn...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ia803206.us.archive.org  
    Title: David Jacobs The UFO Controversy In America  
-   Link: [https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf](https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf)  
+   Link: <a href="https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Controversy In AmericaWorld War II: The &quot;foo-fighters&quot; spotted dur· ing air battles-were they static electricity, enemy secret weapon...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: actionnews5.com  
    Title: us air force publishes ufo investigation files online  
-   Link: [https://www.actionnews5.com/story/27896302/us-air-force-publishes-ufo-investigation-files-online/](https://www.actionnews5.com/story/27896302/us-air-force-publishes-ufo-investigation-files-online/)  
+   Link: <a href="https://www.actionnews5.com/story/27896302/us-air-force-publishes-ufo-investigation-files-online/" target="_blank" rel="noopener noreferrer nofollow">https://www.actionnews5.com/story/27896302/us-air-force-publishes-ufo-investigation-files-online/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force publishes UFO investigation files online20 Jan 2015 — A document from July 1952 recorded a sighting of a white, unidentified ob...</p></details>
    Published: July 1952  
 
@@ -814,57 +800,57 @@ For readers exploring Tennessee's UFO history, the lesson is straightforward. Th
 
 6. <a id="endnote-6"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/456301001/Project-Blue-Book-Top-Secret-UFO-Files-The-Untold-Truth-by-John-Scott-Chace-pdf](https://www.scribd.com/document/456301001/Project-Blue-Book-Top-Secret-UFO-Files-The-Untold-Truth-by-John-Scott-Chace-pdf)  
+   Link: <a href="https://www.scribd.com/document/456301001/Project-Blue-Book-Top-Secret-UFO-Files-The-Untold-Truth-by-John-Scott-Chace-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/456301001/Project-Blue-Book-Top-Secret-UFO-Files-The-Untold-Truth-by-John-Scott-Chace-pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1968, around 8:30 pm a group of young ladies in Memphis report a UFO. According to the...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: involuntary-unemployment-can-be-normal.iepizanda.edu.co  
-   Link: [https://involuntary-unemployment-can-be-normal.iepizanda.edu.co/](https://involuntary-unemployment-can-be-normal.iepizanda.edu.co/)  
+   Link: <a href="https://involuntary-unemployment-can-be-normal.iepizanda.edu.co/" target="_blank" rel="noopener noreferrer nofollow">https://involuntary-unemployment-can-be-normal.iepizanda.edu.co/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unemployment Can Be NormalResource label file may change thereafter. 951-907-3599. Dujuane Bolian... East project execution. 951-907-734...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: archivesfoundation.org  
    Title: 50 years ago government stops investigating ufos  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsOf the 12,618 UFO sightings reported between 1947 and 1969, 701 remained “unidentified.”...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: scribd.com  
    Title: Project Blue Book, Top Secret UFO Files  
-   Link: [https://www.scribd.com/document/498639520/Project-Blue-Book-Top-Secret-UFO-Files-the-Untold-Truth-PDFDrive](https://www.scribd.com/document/498639520/Project-Blue-Book-Top-Secret-UFO-Files-the-Untold-Truth-PDFDrive)  
+   Link: <a href="https://www.scribd.com/document/498639520/Project-Blue-Book-Top-Secret-UFO-Files-the-Untold-Truth-PDFDrive" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/498639520/Project-Blue-Book-Top-Secret-UFO-Files-the-Untold-Truth-PDFDrive</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Untold Truth...Project Blue Book, Top Secret UFO Files_ the Untold Truth (PDFDrive) - Free download as PDF File (.pdf), Text File...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: osi.af.mil  
    Title: project blue book part 1 ufo reports  
-   Link: [https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/](https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/)  
+   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book Part 1 (UFO Reports)6 Aug 2020 — Dr. J. Allen Hynek worked with the U.S. Air Force, leading investigations of UFO sightings und...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: yahoo.com  
    Title: project blue book 12 000 151400639  
-   Link: [https://www.yahoo.com/news/project-blue-book-12-000-151400639.html](https://www.yahoo.com/news/project-blue-book-12-000-151400639.html)  
+   Link: <a href="https://www.yahoo.com/news/project-blue-book-12-000-151400639.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/project-blue-book-12-000-151400639.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>12—The Air Force&#x27;s investigation of reports UFOs, starting in 1948, was known as &quot;Project Blue Book&quot; and was based at Wright-Patterson...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=1cO5K1np2Ig](https://www.youtube.com/watch?v=1cO5K1np2Ig)  
+   Link: <a href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1cO5K1np2Ig</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Project Blue Book Sneak Peek: The True Story Behind the Government&#x27;s UFO Investigation - IGN First...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: "Project Blue Book" Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series  
-   Link: [https://www.youtube.com/watch?v=W89jh2C2Ry8](https://www.youtube.com/watch?v=W89jh2C2Ry8)  
+   Link: <a href="https://www.youtube.com/watch?v=W89jh2C2Ry8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W89jh2C2Ry8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Project Blue Book Exposed (2020) [Documentary]...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Unknowns: Mystifying UFO Cases  
-   Link: [https://www.youtube.com/watch?v=fb7T1v_VHpE](https://www.youtube.com/watch?v=fb7T1v_VHpE)  
+   Link: <a href="https://www.youtube.com/watch?v=fb7T1v_VHpE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fb7T1v_VHpE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 &quot;Project Blue Book&quot; Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series...</p></details>

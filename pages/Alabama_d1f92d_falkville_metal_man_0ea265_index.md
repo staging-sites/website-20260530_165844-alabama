@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alabama-d1f92d-falkville-metal-man/
 description: Focused pages that expand on Falkville Metal Man.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Alabama_d1f92d_falkville_metal_man_0ea265
-parent_title: Falkville Metal Man | What Are Alabama's Most Significant UFO...
+parent_title: Falkville Metal Man
 parent_nav_short_title: Falkville Metal Man
 parent_permalink: /falkville-metal-man/
 ---

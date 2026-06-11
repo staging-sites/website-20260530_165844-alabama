@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-missouris-ufo/
 nav_short_title: Cape Legend
 title: How Strong Is the Cape Girardeau Crash Story?
-title_full: How Strong Is the Cape Girardeau Crash Story? | Missouri UFOs
+title_full: How Strong Is the Cape Girardeau Crash Story?
 display_title_short: Cape Legend
 display_title: Cape Legend
 heading_title: How Strong Is the Cape Girardeau Crash Story?
@@ -268,8 +268,7 @@ image: /assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-overview-socia
 
 ## Introduction
 
-The Cape Girardeau crash story is one of [Missouri]({{ 'what-really-happened-in-missouris-ufo/' | relative_url }})’s most dramatic UFO legends: a Baptist minister is said to have been taken to a rural crash site in 1941, expecting an aircraft accident, only to find a broken silver disc and three small non-human bodies. It matters in Missouri UFO history because, if true, it would pre-date Roswell by six years and place a major “crash retrieval” claim in southeast Missouri. The problem is that the case rests mainly on late family testimony and later UFO-investigator retellings, not on contemporary police, fire, military, press, medical, or physical records. Local media have repeatedly treated it as an “alleged” crash or urban legend, and even sympathetic researchers acknowledge how hard it has been to obtain hard evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/story/31705969/75th-anniversary-of-alleged-ufo-crash-in-cape-girardeau/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-snippet">Open source on kfvs12.com.</span></span></span>
-
+The Cape Girardeau crash story is one of Missouri’s most dramatic UFO legends: a Baptist minister is said to have been taken to a rural crash site in 1941, expecting an aircraft accident, only to find a broken silver disc and three small non-human bodies. It matters in Missouri UFO history because, if true, it would pre-date Roswell by six years and place a major “crash retrieval” claim in southeast Missouri. The problem is that the case rests mainly on late family testimony and later UFO-investigator retellings, not on contemporary police, fire, military, press, medical, or physical records. Local media have repeatedly treated it as an “alleged” crash or urban legend, and even sympathetic researchers acknowledge how hard it has been to obtain hard evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/story/31705969/75th-anniversary-of-alleged-ufo-crash-in-cape-girardeau/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-snippet">Open source on kfvs12.com.</span></span></span>
 
 <img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-overview.webp" | relative_url }}" alt="Overview image for Cape Legend" loading="eager" decoding="sync" fetchpriority="high">
 That does not make the story worthless as folklore. It does, however, put it in a very different category from better-documented Missouri episodes such as the 1973 Piedmont and Wayne County sightings, where there were hundreds of public reports, newspaper coverage, state recognition, and a named scientific field investigation by Harley D. Rutledge. The Cape Girardeau claim is best read as a case study in the evidence gap: how a compelling family memory became a famous UFO narrative, and why that narrative remains much weaker than its dramatic content suggests. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sos.mo.gov/symbol/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sos.mo.gov">[sos.mo.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sos.mo.gov</span><span class="citation-popover-snippet">State UFO Capitals of Missouri...</span></span></span>
@@ -282,10 +281,9 @@ The story reached wider UFO audiences through the family testimony of Charlotte 
 
 That chain of transmission is important. The strongest named witness in the popular version is not a contemporary public witness giving an on-record statement in 1941. It is a later family member reporting what she says her grandparents and relatives had said, decades after the alleged event. This is still testimony, and family testimony can preserve real events. But for a claim as extraordinary as a crashed non-human craft, the evidential burden is far higher than for an ordinary remembered accident. The account asks the reader to accept not only a crash, but also dead occupants, official secrecy, missing photographs, and successful suppression across local and military channels.
 
-The story also varies in date and location. One KFVS report says author Paul Blake Smith placed the crash in late April 1941, west of Cape Girardeau Airport between Cape Girardeau and Chaffee. Another KFVS anniversary piece describes April 12, 1941, and says the minister was driven roughly 18 miles towards the Chaffee area. Other versions use broader phrases such as “spring 1941” or “10–15 miles outside town”. These differences do not automatically disprove the claim, but they show why the case is difficult to test: a crash with no fixed site, no secure date, and no surviving photograph is hard to separate from legend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/story/31705969/75th-anniversary-of-alleged-ufo-crash-in-cape-girardeau/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-snippet">Open source on kfvs12.com.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kfvs12.com/story/31705969/75th-anniversary-of-alleged-ufo-crash-in-cape-girardeau/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kfvs12.com">[https://www.kfvs12.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kfvs12.com</span><span class="citation-popover-snippet">Open source on kfvs12.com.</span></span></span>
+The story also varies in date and location. One KFVS report says author Paul Blake Smith placed the crash in late April 1941, west of Cape Girardeau Airport between Cape Girardeau and Chaffee. Another KFVS anniversary piece describes April 12, 1941, and says the minister was driven roughly 18 miles towards the Chaffee area. Other versions use broader phrases such as “spring 1941” or “10–15 miles outside town”. These differences do not automatically disprove the claim, but they show why the case is difficult to test: a crash with no fixed site, no secure date, and no surviving photograph is hard to separate from legend. [https://www.kfvs12.com+2https://www.kfvs12.com]
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-Illustration-1-light.svg" | relative_url }}" alt="Cape Legend illustration 1" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-Illustration-1-dark.svg" | relative_url }}" alt="Cape Legend illustration 1" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why missing contemporary records matter
 
 The main weakness is not merely that the story is strange. It is that the expected paper trail is missing or has not been produced in a form strong enough to carry the claim. A real crash involving police, firefighters, photographers, a minister, military personnel, bodies, debris, a field fire, transport vehicles, and later secrecy should normally leave traces. These might include a local newspaper item, police call log, coroner record, fire department entry, military communication, insurance record, landowner testimony, funeral or medical record, or photographs with a clear chain of custody.
@@ -297,7 +295,6 @@ Later researchers have tried to test pieces of the story against 1941 context. O
 Those details are not trivial nit-picking. In a case built from memory and retelling, wrong institutional labels, shifting dates, and unclear geography can reveal how later UFO language has been projected backwards onto an older family story. A witness in 1984, a UFO writer in 1991, a television segment in the 2000s, and a web article in the 2020s all operate in a post-Roswell, post-“grey alien” culture. The Cape Girardeau story now contains familiar motifs: a disc-shaped craft, small grey beings, military secrecy, confiscated photographs, and a pre-Roswell cover-up. The question is whether those motifs were present in a documented 1941 event, or whether they became attached as the story moved through UFO culture.
 
 The missing photograph is especially important. Mann’s claim that the family once had a picture is one of the most memorable parts of the narrative, because a verifiable photograph could change the evidential balance. But an absent photograph cannot be examined for date, source, image manipulation, subject, or provenance. It functions in the story as a lost corroboration, not as available evidence. The same applies to claims of affidavits, fire records, or local confirmations when they are cited in secondary retellings but not placed before readers in a way that can be independently checked.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CNYfSSKr56E" title="Before &amp; After - The 1941 UFO Crash in Cape Girardeau 4K" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CNYfSSKr56E" target="_blank" rel="noopener noreferrer">Before &amp; After - The 1941 UFO Crash in Cape Girardeau 4K</a></p><p class="youtube-embed-meta">Channel: Morgan Johnson’s Life in Cape Girardeau &middot; Views: 6.5K &middot; Uploaded: September 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CNYfSSKr56E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CNYfSSKr56E">Open on YouTube</a></p></div></div></div>
 
@@ -311,8 +308,7 @@ That matters because memory is not a recording device. People can honestly prese
 
 The best argument in favour of the case is not physical proof but narrative specificity. The story contains named people, a plausible regional setting, a known church connection in some retellings, and details about local travel, Chaffee, Sikeston, and emergency response. Those details make it more substantial than a completely anonymous internet rumour. Yet the best argument against it is stronger: the details that should be independently verifiable are precisely the ones that remain uncertain or absent.
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-Illustration-2-light.svg" | relative_url }}" alt="Cape Legend illustration 2" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-Illustration-2-dark.svg" | relative_url }}" alt="Cape Legend illustration 2" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Missouri setting makes the legend plausible to some readers
 
 Cape Girardeau sits in a part of southeast Missouri with aviation, river, military, and rural-landscape connections that make the story feel locally grounded. Sikeston, not far away, had wartime aviation activity through the Missouri Institute of Aeronautics and Harvey Parks Airport, and National Archives finding aids show federal records connected with the Missouri Institute of Aeronautics and Harvey-Parks Airport among War Assets Administration disposal files. That wartime aviation backdrop gives later storytellers a realistic regional frame for rumours of aircraft, military personnel, and unusual activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -331,7 +327,6 @@ That contrast helps readers place Cape Girardeau fairly. Piedmont has public-eve
 
 Official UFO records also show why documentation matters. The National Archives says Project Blue Book records are declassified and available for examination, with case files arranged chronologically and indexed by date and location; the Air Force fact sheet says Blue Book investigated UFO reports from 1947 to 1969 and recorded 12,618 reports, 701 of which remained unidentified. The Cape Girardeau claim sits outside that formal post-1947 Air Force reporting structure, which means it cannot be assessed through Blue Book in the way later cases sometimes can. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FBzHfom8OGs" title="UFO Crashes in Cape Girardeau, Missouri. Before Roswell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FBzHfom8OGs" target="_blank" rel="noopener noreferrer">UFO Crashes in Cape Girardeau, Missouri. Before Roswell</a></p><p class="youtube-embed-meta">Channel: DRIvIN RAIN &middot; Views: 12.0K &middot; Uploaded: December 2014 &middot; Length: 1 minute 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FBzHfom8OGs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FBzHfom8OGs">Open on YouTube</a></p></div></div></div>
 
 ## What would strengthen or weaken the Cape Girardeau claim
@@ -344,17 +339,14 @@ By contrast, the claim weakens when later versions add precision without produci
 
 The strongest honest position is therefore neither ridicule nor belief. The Cape Girardeau crash legend remains an important Missouri UFO story because it shows how a local family account can become part of national crash-retrieval lore. It remains weak as history because the best-known evidence arrived late, the physical proof is missing, and the contemporary record has not caught up with the scale of the claim.
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-Illustration-3-light.svg" | relative_url }}" alt="Cape Legend illustration 3" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-Illustration-3-dark.svg" | relative_url }}" alt="Cape Legend illustration 3" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_cape_girardeau_crash_6274a1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the evidence gap is the main story
 
 The Cape Girardeau legend survives because it has the ingredients of a powerful mystery: a minister, a rural night-time call, a supposed crash before Roswell, dead occupants, official secrecy, and a lost photograph. Those elements make it memorable. They do not, by themselves, make it proven.
 
 For Missouri UFO history, its value lies in the contrast it creates. Piedmont shows what a documented flap looks like: public reports, local institutions, state commemoration, and a named scientific investigator. Cape Girardeau shows the opposite problem: a story with enormous implications but too little contemporary evidence to carry them. That does not erase the human interest of the Huffman and Mann testimony. It simply places the case where the evidence puts it — closer to legend than established history, and more useful as a lesson in evidential standards than as a confirmed crash-retrieval event.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JDTIqTJMBZ0" title="How Piedmont became the UFO Capitol of Missouri | Living St. Louis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JDTIqTJMBZ0" target="_blank" rel="noopener noreferrer">How Piedmont became the UFO Capitol of Missouri | Living St. Louis</a></p><p class="youtube-embed-meta">Channel: Nine PBS &middot; Views: 17.7K &middot; Uploaded: September 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JDTIqTJMBZ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JDTIqTJMBZ0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -778,120 +770,120 @@ For Missouri UFO history, its value lies in the contrast it creates. Piedmont sh
 1. <a id="endnote-1"></a>
    Source: kfvs12.com  
    Title: alleged ufo crash cape girardeau area  
-   Link: [https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/](https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/)  
+   Link: <a href="https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/" target="_blank" rel="noopener noreferrer nofollow">https://www.kfvs12.com/2021/05/26/alleged-ufo-crash-cape-girardeau-area/</a>  
 
 2. <a id="endnote-2"></a>
    Source: kfvs12.com  
-   Link: [https://www.kfvs12.com/story/31705969/75th-anniversary-of-alleged-ufo-crash-in-cape-girardeau/](https://www.kfvs12.com/story/31705969/75th-anniversary-of-alleged-ufo-crash-in-cape-girardeau/)  
+   Link: <a href="https://www.kfvs12.com/story/31705969/75th-anniversary-of-alleged-ufo-crash-in-cape-girardeau/" target="_blank" rel="noopener noreferrer nofollow">https://www.kfvs12.com/story/31705969/75th-anniversary-of-alleged-ufo-crash-in-cape-girardeau/</a>  
 
 3. <a id="endnote-3"></a>
    Source: sos.mo.gov  
-   Link: [https://www.sos.mo.gov/symbol/ufo](https://www.sos.mo.gov/symbol/ufo)  
+   Link: <a href="https://www.sos.mo.gov/symbol/ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.sos.mo.gov/symbol/ufo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>State UFO Capitals of Missouri...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: books.google.rw  
-   Link: [https://books.google.rw/books?id=3claAAAAYAAJ&source=gbs_navlinks_s](https://books.google.rw/books?id=3claAAAAYAAJ&source=gbs_navlinks_s)  
+   Link: <a href="https://books.google.rw/books?id=3claAAAAYAAJ&amp;source=gbs_navlinks_s" target="_blank" rel="noopener noreferrer nofollow">https://books.google.rw/books?id=3claAAAAYAAJ&amp;source=gbs_navlinks_s</a>  
 
 5. <a id="endnote-5"></a>
    Source: academia.edu  
    Title: The 1941 Cape Girardeau Conundrum  
-   Link: [https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum](https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum)  
+   Link: <a href="https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/44691331/The_1941_Cape_Girardeau_Conundrum</a>  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: real property war assets  
-   Link: [https://www.archives.gov/kansas-city/finding-aids/real-property-war-assets](https://www.archives.gov/kansas-city/finding-aids/real-property-war-assets)  
+   Link: <a href="https://www.archives.gov/kansas-city/finding-aids/real-property-war-assets" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/kansas-city/finding-aids/real-property-war-assets</a>  
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 8. <a id="endnote-8"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
 10. <a id="endnote-10"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf](https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: books.google.rw  
-   Link: [https://books.google.rw/books/about/Project_Identification.html?id=T4NTAAAAMAAJ](https://books.google.rw/books/about/Project_Identification.html?id=T4NTAAAAMAAJ)  
+   Link: <a href="https://books.google.rw/books/about/Project_Identification.html?id=T4NTAAAAMAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.rw/books/about/Project_Identification.html?id=T4NTAAAAMAAJ</a>  
 
 12. <a id="endnote-12"></a>
    Source: capecentralhigh.com  
    Title: Cape Girardeau History and Photos [Buck Nelson](&#123;&#123; 'buck-nelson/' | relative_url &#125;&#125;)'s Spacecraft Convention  
-   Link: [https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/](https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/)  
+   Link: <a href="https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/" target="_blank" rel="noopener noreferrer nofollow">https://www.capecentralhigh.com/cape-photos/buck-nelsons-spacecraft-convention/</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 14. <a id="endnote-14"></a>
    Source: flickr.com  
    Title: State UFO Capitals of Missouri  
-   Link: [https://www.flickr.com/photos/missouristatearchives/53084385890/in/album-72157719977764423/](https://www.flickr.com/photos/missouristatearchives/53084385890/in/album-72157719977764423/)  
+   Link: <a href="https://www.flickr.com/photos/missouristatearchives/53084385890/in/album-72157719977764423/" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/missouristatearchives/53084385890/in/album-72157719977764423/</a>  
 
 15. <a id="endnote-15"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: UFO Crashes in Cape Girardeau, Missouri. Before Roswell  
-   Link: [https://www.youtube.com/watch?v=FBzHfom8OGs](https://www.youtube.com/watch?v=FBzHfom8OGs)  
+   Link: <a href="https://www.youtube.com/watch?v=FBzHfom8OGs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FBzHfom8OGs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Before &amp; After - Backstory of The 1941 Cape Girardeau UFO Crash 4K...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Before & After  
-   Link: [https://www.youtube.com/watch?v=bUdBE2ZS1Bc](https://www.youtube.com/watch?v=bUdBE2ZS1Bc)  
+   Link: <a href="https://www.youtube.com/watch?v=bUdBE2ZS1Bc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bUdBE2ZS1Bc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Museum in the Las Vegas Desert - Outpost 51...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Before & After  
-   Link: [https://www.youtube.com/watch?v=CNYfSSKr56E](https://www.youtube.com/watch?v=CNYfSSKr56E)  
+   Link: <a href="https://www.youtube.com/watch?v=CNYfSSKr56E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CNYfSSKr56E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Crashes in Cape Girardeau, Missouri. Before Roswell...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nsa.gov  
    Title: United States Air Force Fact Sheet 95-03United States Air Force Fact Sheet 95-03  
-   Link: [https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/](https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/)  
+   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/12news/posts/at-the-research-center-at-the-mohave-museum-of-history-and-arts-right-off-route-/878440327650692/](https://www.facebook.com/12news/posts/at-the-research-center-at-the-mohave-museum-of-history-and-arts-right-off-route-/878440327650692/)  
+   Link: <a href="https://www.facebook.com/12news/posts/at-the-research-center-at-the-mohave-museum-of-history-and-arts-right-off-route-/878440327650692/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/12news/posts/at-the-research-center-at-the-mohave-museum-of-history-and-arts-right-off-route-/878440327650692/</a>  
 
 22. <a id="endnote-22"></a>
    Source: ebay.com.au  
-   Link: [https://www.ebay.com.au/itm/366392923565?srsltid=AfmBOorDrc4LXSBIYSovVVulA3si0HlCcJhdkJAqlZKEda6UhwIgUM6i](https://www.ebay.com.au/itm/366392923565?srsltid=AfmBOorDrc4LXSBIYSovVVulA3si0HlCcJhdkJAqlZKEda6UhwIgUM6i)  
+   Link: <a href="https://www.ebay.com.au/itm/366392923565?srsltid=AfmBOorDrc4LXSBIYSovVVulA3si0HlCcJhdkJAqlZKEda6UhwIgUM6i" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.com.au/itm/366392923565?srsltid=AfmBOorDrc4LXSBIYSovVVulA3si0HlCcJhdkJAqlZKEda6UhwIgUM6i</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/253557958093480/posts/5383425388440019/](https://www.facebook.com/groups/253557958093480/posts/5383425388440019/)  
+   Link: <a href="https://www.facebook.com/groups/253557958093480/posts/5383425388440019/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/253557958093480/posts/5383425388440019/</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1565114127094467/posts/2906047826334417/](https://www.facebook.com/groups/1565114127094467/posts/2906047826334417/)  
+   Link: <a href="https://www.facebook.com/groups/1565114127094467/posts/2906047826334417/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1565114127094467/posts/2906047826334417/</a>  
 
 25. <a id="endnote-25"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DOJ3MP_EgOg/?hl=en](https://www.instagram.com/reel/DOJ3MP_EgOg/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DOJ3MP_EgOg/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DOJ3MP_EgOg/?hl=en</a>

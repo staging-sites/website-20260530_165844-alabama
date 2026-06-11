@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-texas-became-a-ufo-archive/
 nav_short_title: Stephenville
 title: Why Stephenville Became the Modern Texas Case
-title_full: Why Stephenville Became the Modern Texas Case | Texas UFOs
+title_full: Why Stephenville Became the Modern Texas Case
 display_title_short: Stephenville
 display_title: Stephenville
 heading_title: Why Stephenville Became the Modern Texas Case
@@ -234,10 +234,10 @@ sibling_links:
   heading_title: Why Cash Landrum Still Divides Readers
 child_links:
 - basename: Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_f16_exp_a807d5
-  title: F 16s | Stephenville
-  permalink: /f-16s/
-  short_title: F 16s
-  heading_title: Were the Stephenville lights just F 16s?
+  title: F 16 s | Stephenville
+  permalink: /f-16-s/
+  short_title: F 16 s
+  heading_title: Were the Stephenville lights just F 16 s?
 - basename: Texas_98125d_stephenville_radar_d_8a2e9a_stephenville_faa_rad_e61d21
   title: Radar data | Stephenville
   permalink: /radar-data/
@@ -262,8 +262,7 @@ image: /assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-overview-social.j
 
 ## Introduction
 
-Stephenville became the modern [Texas]({{ 'why-texas-became-a-ufo-archive/' | relative_url }}) UFO case because it did not rest on one dramatic witness alone. On 8 January 2008, people around Stephenville, Dublin, Selden and nearby Erath County reported large, silent lights or a vast object moving across the evening sky. Some witnesses said fighter jets followed it. At first, military spokespeople denied having aircraft in the area; later they said ten F-16s had been training there. Then a private radar study, based on Federal Aviation Administration data obtained through Freedom of Information Act requests, argued that the jets did not explain every return or every sighting. That combination — public witnesses, a changed official statement, military airspace and disputed radar interpretation — is why Stephenville remains Texas’s most important internet-age UFO flap rather than just another lights-in-the-sky story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/dozens-report-ufo-over-texas-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Dozens Report UFO Over Texas Town - CBS News...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc13.com/archive/5910159/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc13.com">[2ABC13 Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc13.com</span><span class="citation-popover-snippet">ABC13 HoustonMilitary now says jets in area of reported UFO sightings | ABC13 Houston | abc13.com - ABC13 Houston...</span></span></span>
-
+Stephenville became the modern Texas UFO case because it did not rest on one dramatic witness alone. On 8 January 2008, people around Stephenville, Dublin, Selden and nearby Erath County reported large, silent lights or a vast object moving across the evening sky. Some witnesses said fighter jets followed it. At first, military spokespeople denied having aircraft in the area; later they said ten F-16s had been training there. Then a private radar study, based on Federal Aviation Administration data obtained through Freedom of Information Act requests, argued that the jets did not explain every return or every sighting. That combination — public witnesses, a changed official statement, military airspace and disputed radar interpretation — is why Stephenville remains Texas’s most important internet-age UFO flap rather than just another lights-in-the-sky story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/dozens-report-ufo-over-texas-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Dozens Report UFO Over Texas Town - CBS News...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc13.com/archive/5910159/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc13.com">[2ABC13 Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc13.com</span><span class="citation-popover-snippet">ABC13 HoustonMilitary now says jets in area of reported UFO sightings &#124; ABC13 Houston &#124; abc13.com - ABC13 Houston...</span></span></span>
 
 <img src="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-overview.webp" | relative_url }}" alt="Overview image for Stephenville" loading="eager" decoding="sync" fetchpriority="high">
 ## The 2008 witness wave
@@ -276,18 +275,16 @@ Stephenville also mattered because it became a media event very quickly. Nationa
 
 The most useful way to read the witness wave is therefore neither credulous nor dismissive. The reports are significant because they came from multiple ordinary residents, including people familiar with aircraft. They are limited because estimates of size, altitude, distance and speed at night are notoriously unreliable without calibrated instruments. Stephenville’s strength is not that witnesses gave perfect measurements; it is that their accounts were strong enough to motivate a data hunt.
 
-
-<img src="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-1-light.svg" | relative_url }}" alt="Stephenville illustration 1" data-theme-src-dark="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-1-dark.svg" | relative_url }}" alt="Stephenville illustration 1" data-theme-src-dark="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fighter-jet claims and aviation records
 
 The fighter-jet issue is the hinge of the case. When the story first broke, a spokesman for the 301st Fighter Wing at Naval Air Station Joint Reserve Base Fort Worth said no F-16s from that base were in the area on 8 January. The same early report suggested a possible mundane explanation: commercial aircraft made unusually bright by the angle of the setting sun. Officials at Dyess and Sheppard were also reported as saying their aircraft were not in the area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/dozens-report-ufo-over-texas-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Dozens Report UFO Over Texas Town - CBS News...</span></span></span>
 
-That position changed on 23 January 2008. ABC13 reported that Air Force Reserve officials now said ten F-16 fighter jets had been training in the Stephenville area that night, and that the earlier denial had been mistaken. The revision mattered for two reasons. First, it gave sceptics a concrete explanation for at least part of what people saw: military jets operating at night in or near training airspace. Secondly, it made many witnesses more suspicious, because some had already claimed to see fighter jets near the unknown lights. For them, the corrected statement did not close the case; it seemed to confirm one part of their account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc13.com/archive/5910159/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc13.com">[ABC13 Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc13.com</span><span class="citation-popover-snippet">ABC13 HoustonMilitary now says jets in area of reported UFO sightings | ABC13 Houston | abc13.com - ABC13 Houston...</span></span></span>
+That position changed on 23 January 2008. ABC13 reported that Air Force Reserve officials now said ten F-16 fighter jets had been training in the Stephenville area that night, and that the earlier denial had been mistaken. The revision mattered for two reasons. First, it gave sceptics a concrete explanation for at least part of what people saw: military jets operating at night in or near training airspace. Secondly, it made many witnesses more suspicious, because some had already claimed to see fighter jets near the unknown lights. For them, the corrected statement did not close the case; it seemed to confirm one part of their account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc13.com/archive/5910159/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc13.com">[ABC13 Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc13.com</span><span class="citation-popover-snippet">ABC13 HoustonMilitary now says jets in area of reported UFO sightings &#124; ABC13 Houston &#124; abc13.com - ABC13 Houston...</span></span></span>
 
 The later radar report by Glen Schulze and Robert Powell also placed the F-16s at the centre of the analysis. It said Carswell records and FAA radar indicated two sorties of four aircraft, followed by a final sortie of two, making ten jets in the Dublin-Stephenville area within roughly two hours. The report also noted that only lead aircraft in each sortie had active transponders, while other jets had to be tracked as primary radar returns, which complicates any attempt to separate military traffic from other unknown returns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookStephenville Lights: A Comprehensive Radar and Witness Report Study Regarding the Events of January 8, 2008...</span><span class="citation-popover-meta">Published: January 8, 2008</span></span></span>
 
 For readers, the key point is that “the Air Force admitted jets were there” is not the same as “the whole case is solved”. It does, however, significantly weakens any version of the story that treats the night sky as free of military activity. Once ten F-16s are accepted as present, any serious interpretation has to ask a narrower question: were witnesses and radar records showing only those jets and their effects, or was there a separate object as well?
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yKoxptgdEIs" title="When 300 UFO Sightings Were Reported in Texas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yKoxptgdEIs" target="_blank" rel="noopener noreferrer">When 300 UFO Sightings Were Reported in Texas</a></p><p class="youtube-embed-meta">Channel: VICE &middot; Views: 186.9K &middot; Uploaded: September 2023 &middot; Length: 3 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yKoxptgdEIs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yKoxptgdEIs">Open on YouTube</a></p></div></div></div>
 
@@ -298,7 +295,6 @@ Stephenville’s lasting importance comes from the attempt to move beyond testim
 The report’s central claim was not simply that “radar saw a UFO”. Its more careful claim was that certain radar returns, when compared with witness times and locations, appeared to support the presence of unknown objects not readily explained by the known F-16 activity. It identified the Fort Worth radar as especially sensitive for the Dublin-Stephenville area and estimated that the radar’s minimum detection altitude there was roughly 2,500 to 3,000 feet because of distance and the curvature of the Earth. That limitation matters: something lower than that might not appear on FAA radar even if witnesses saw it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookStephenville Lights: A Comprehensive Radar and Witness Report Study Regarding the Events of January 8, 2008...</span><span class="citation-popover-meta">Published: January 8, 2008</span></span></span>
 
 The report highlighted several tracks or events that became central to later discussion:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -311,8 +307,7 @@ The report highlighted several tracks or events that became central to later dis
 
 ABC News later summarised Powell’s position as follows: the FAA radar data, in his view, indicated that there was an object in the sky in addition to the known military jets, but the question remained what the object was. That is a crucial distinction. Even the pro-anomaly reading did not identify aliens, secret craft or a particular technology. It argued for an unresolved aerial object or objects in a complicated traffic environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&amp;page=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Lights in the Sky</span><span class="citation-popover-snippet">ABC News Lights in the Sky</span></span></span>
 
-
-<img src="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-2-light.svg" | relative_url }}" alt="Stephenville illustration 2" data-theme-src-dark="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-2-dark.svg" | relative_url }}" alt="Stephenville illustration 2" data-theme-src-dark="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The sceptical counter-case
 
 The strongest sceptical responses focus on three issues: military exercises, flares and the danger of over-reading raw radar data. In Skeptical Inquirer, James McGaha argued that F-16s were operating in the Brownwood Military Operating Areas and that some lights were consistent with military flares. He also cited a medical helicopter pilot and retired US Army pilot who said he saw multiple military aircraft, some dropping flares, in the area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
@@ -322,7 +317,6 @@ The radar critique is sharper. McGaha argued that the MUFON-linked report select
 This criticism should be taken seriously because radar is not a magic truth machine. Primary radar can show returns from aircraft, but also clutter, reflections, weather effects, anomalous propagation, processing artefacts and ambiguous points that require expert handling. Secondary radar depends on transponder replies, so aircraft without active transponders become harder to identify. The Stephenville debate is therefore partly about the sky and partly about method: when do scattered radar returns become a track, and how much witness matching is enough to make that track meaningful?
 
 The sceptical case is not flawless either. A blanket explanation based on F-16s and flares has to account for why some witnesses familiar with aircraft insisted the lights were unlike jets, why the initial official denial was wrong, and why some reported objects seemed silent, very large or differently configured. Those problems do not prove an extraordinary object, but they explain why the case survived the military-training explanation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0KOkWJJCxJg" title="Hundreds Witness MASSIVE UFO SIGHTING Over Texas (S2) | In Search Of | The UnXplained Zone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0KOkWJJCxJg" target="_blank" rel="noopener noreferrer">Hundreds Witness MASSIVE UFO SIGHTING Over Texas (S2) | In Search Of | The UnXplained Zone</a></p><p class="youtube-embed-meta">Channel: The UnXplained Zone &middot; Views: 45.5K &middot; Uploaded: November 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0KOkWJJCxJg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0KOkWJJCxJg">Open on YouTube</a></p></div></div></div>
 
@@ -336,19 +330,16 @@ That does not make the case worthless. On the contrary, Stephenville is valuable
 
 In Texas UFO history, this places Stephenville in a distinct category. [Aurora]({{ 'aurora/' | relative_url }}) is largely folklore; Lubbock and Levelland belong to the Air Force Project [Blue Book]({{ 'blue-book-c670c7/' | relative_url }}) era; Cash-Landrum revolves around alleged injury and disputed military involvement. Stephenville belongs to the internet-era evidence fight: downloadable documents, FOIA requests, radar visualisations, television panels, sceptical blogs, and later UAP discussions about sensor quality. It is less a settled mystery than a case study in how modern UFO arguments are built.
 
-
-<img src="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-3-light.svg" | relative_url }}" alt="Stephenville illustration 3" data-theme-src-dark="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-3-dark.svg" | relative_url }}" alt="Stephenville illustration 3" data-theme-src-dark="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Texas_98125d_stephenville_radar_d_8a2e9a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read Stephenville today
 
-A balanced reading starts with three firm points. First, something prompted a real cluster of reports around Stephenville and nearby communities in January 2008. Secondly, military aircraft were present, despite the initial denial, and that fact must be part of any explanation. Thirdly, the radar material is not a simple smoking gun; it is an interpreted dataset, and the interpretation is disputed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/dozens-report-ufo-over-texas-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Dozens Report UFO Over Texas Town - CBS News...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc13.com/archive/5910159/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc13.com">[3ABC13 Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc13.com</span><span class="citation-popover-snippet">ABC13 HoustonMilitary now says jets in area of reported UFO sightings | ABC13 Houston | abc13.com - ABC13 Houston...</span></span></span>
+A balanced reading starts with three firm points. First, something prompted a real cluster of reports around Stephenville and nearby communities in January 2008. Secondly, military aircraft were present, despite the initial denial, and that fact must be part of any explanation. Thirdly, the radar material is not a simple smoking gun; it is an interpreted dataset, and the interpretation is disputed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/dozens-report-ufo-over-texas-town/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Dozens Report UFO Over Texas Town - CBS News...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc13.com/archive/5910159/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc13.com">[3ABC13 Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc13.com</span><span class="citation-popover-snippet">ABC13 HoustonMilitary now says jets in area of reported UFO sightings &#124; ABC13 Houston &#124; abc13.com - ABC13 Houston...</span></span></span>
 
 The case is strongest as evidence that a notable public flap occurred and that the initial official information was incomplete. It is weaker as evidence for a single huge craft, because the best-known descriptions depend heavily on night-time human estimates of distance, size and speed. It is intriguing as a radar case, but only if the reader understands that the radar analysis is an argument about selected returns, not a clean instrument recording of a photographed object.
 
 Stephenville remains unresolved in the practical, public sense: no explanation has satisfied all parties, and no later evidence has conclusively identified the reported object or objects. But “unresolved” should not be stretched into “confirmed extraordinary craft”. The best-supported view is narrower and more useful: Stephenville is Texas’s best modern UFO case because it exposes the exact point where witness testimony, military aviation records and radar interpretation meet — and where each can both strengthen and undermine the others.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FfasawhOo6k" title="UFO Sighting Reported by Hundreds of Witnesses | In Search Of (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FfasawhOo6k" target="_blank" rel="noopener noreferrer">UFO Sighting Reported by Hundreds of Witnesses | In Search Of (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 264.8K &middot; Uploaded: November 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FfasawhOo6k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FfasawhOo6k">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O5JLQd34q_I" title="Fighter Jets Pursue UFO | UFOs: Investigating The Unknown | National Geographic UK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O5JLQd34q_I" target="_blank" rel="noopener noreferrer">Fighter Jets Pursue UFO | UFOs: Investigating The Unknown | National Geographic UK</a></p><p class="youtube-embed-meta">Channel: National Geographic UK &middot; Views: 173.3K &middot; Uploaded: May 2023 &middot; Length: 1 minute 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O5JLQd34q_I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O5JLQd34q_I">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -772,107 +763,107 @@ Stephenville remains unresolved in the practical, public sense: no explanation h
 1. <a id="endnote-1"></a>
    Source: cbsnews.com  
    Title: CBS News  
-   Link: [https://www.cbsnews.com/news/dozens-report-ufo-over-texas-town/](https://www.cbsnews.com/news/dozens-report-ufo-over-texas-town/)  
+   Link: <a href="https://www.cbsnews.com/news/dozens-report-ufo-over-texas-town/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/dozens-report-ufo-over-texas-town/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dozens Report UFO Over Texas Town - CBS News...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: abc13.com  
-   Link: [https://abc13.com/archive/5910159/](https://abc13.com/archive/5910159/)  
+   Link: <a href="https://abc13.com/archive/5910159/" target="_blank" rel="noopener noreferrer nofollow">https://abc13.com/archive/5910159/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC13 HoustonMilitary now says jets in area of reported UFO sightings | ABC13 Houston | abc13.com - ABC13 Houston...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: centerforinquiry.s3.amazonaws.com  
    Title: Center for Inquiry  
-   Link: [https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf](https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf)  
+   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/01/22164446/p56.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 6. <a id="endnote-6"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-oct22-mar23.xlsx](https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-oct22-mar23.xlsx)  
+   Link: <a href="https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-oct22-mar23.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-oct22-mar23.xlsx</a>  
 
 7. <a id="endnote-7"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/2022-09/fy18-jun18-sep18.xlsx](https://www.faa.gov/sites/faa.gov/files/2022-09/fy18-jun18-sep18.xlsx)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/2022-09/fy18-jun18-sep18.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/2022-09/fy18-jun18-sep18.xlsx</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 11. <a id="endnote-11"></a>
    Source: ufocasebook.com  
-   Link: [https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf](https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf)  
+   Link: <a href="https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/pdf/mufonstephenvilleradarreport.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CasebookStephenville Lights: A Comprehensive Radar and Witness Report Study Regarding the Events of January 8, 2008...</p></details>
    Published: January 8, 2008  
 
 12. <a id="endnote-12"></a>
    Source: abcnews.com  
    Title: ABC News Lights in the Sky  
-   Link: [https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&page=1](https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&page=1)  
+   Link: <a href="https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/AheadoftheCurve/story?id=5807004&amp;page=1</a>  
 
 13. <a id="endnote-13"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/10530422](https://zenodo.org/records/10530422)  
+   Link: <a href="https://zenodo.org/records/10530422" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10530422</a>  
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=O5JLQd34q_I](https://www.youtube.com/watch?v=O5JLQd34q_I)  
+   Link: <a href="https://www.youtube.com/watch?v=O5JLQd34q_I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O5JLQd34q_I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hundreds Witness MASSIVE UFO SIGHTING Over Texas (S2) | In Search Of | The UnXplained Zone...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=0KOkWJJCxJg](https://www.youtube.com/watch?v=0KOkWJJCxJg)  
+   Link: <a href="https://www.youtube.com/watch?v=0KOkWJJCxJg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0KOkWJJCxJg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting Reported by Hundreds of Witnesses | In Search Of (Season 2) | History...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=FfasawhOo6k](https://www.youtube.com/watch?v=FfasawhOo6k)  
+   Link: <a href="https://www.youtube.com/watch?v=FfasawhOo6k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FfasawhOo6k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Residents of rural Texas town excited over dozens of reported UFO sightings...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: When 300 UFO Sightings Were Reported in Texas  
-   Link: [https://www.youtube.com/watch?v=yKoxptgdEIs](https://www.youtube.com/watch?v=yKoxptgdEIs)  
+   Link: <a href="https://www.youtube.com/watch?v=yKoxptgdEIs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yKoxptgdEIs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fighter Jets Pursue UFO | UFOs: Investigating The Unknown | National Geographic UK...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: scottdouglasjacobsen.medium.com  
-   Link: [https://scottdouglasjacobsen.medium.com/1676-robert-sheaffer-on-conspiracies-ufo-claims-and-the-high-bar-of-skeptical-evidence-8e9ceacb51c8](https://scottdouglasjacobsen.medium.com/1676-robert-sheaffer-on-conspiracies-ufo-claims-and-the-high-bar-of-skeptical-evidence-8e9ceacb51c8)  
+   Link: <a href="https://scottdouglasjacobsen.medium.com/1676-robert-sheaffer-on-conspiracies-ufo-claims-and-the-high-bar-of-skeptical-evidence-8e9ceacb51c8" target="_blank" rel="noopener noreferrer nofollow">https://scottdouglasjacobsen.medium.com/1676-robert-sheaffer-on-conspiracies-ufo-claims-and-the-high-bar-of-skeptical-evidence-8e9ceacb51c8</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/westtexashistoryandmemories/posts/9178329145561613/](https://www.facebook.com/groups/westtexashistoryandmemories/posts/9178329145561613/)  
+   Link: <a href="https://www.facebook.com/groups/westtexashistoryandmemories/posts/9178329145561613/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/westtexashistoryandmemories/posts/9178329145561613/</a>  
 
 20. <a id="endnote-20"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/](https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/)  
+   Link: <a href="https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/07/a-good-analysis-of-bad-ufo-information/</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FlyingMagazine/posts/a-nasa-commissioned-independent-study-team-urged-the-agency-to-use-everything-fr/713130370843345/](https://www.facebook.com/FlyingMagazine/posts/a-nasa-commissioned-independent-study-team-urged-the-agency-to-use-everything-fr/713130370843345/)  
+   Link: <a href="https://www.facebook.com/FlyingMagazine/posts/a-nasa-commissioned-independent-study-team-urged-the-agency-to-use-everything-fr/713130370843345/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FlyingMagazine/posts/a-nasa-commissioned-independent-study-team-urged-the-agency-to-use-everything-fr/713130370843345/</a>  
 
 22. <a id="endnote-22"></a>
    Source: believingthebizarre.com  
-   Link: [https://believingthebizarre.com/aliens/](https://believingthebizarre.com/aliens/)  
+   Link: <a href="https://believingthebizarre.com/aliens/" target="_blank" rel="noopener noreferrer nofollow">https://believingthebizarre.com/aliens/</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/interestingengineering/posts/are-ufos-worth-researching-could-they-be-real-we-take-a-look-at-some-of-recent-h/5164887150247614/](https://www.facebook.com/interestingengineering/posts/are-ufos-worth-researching-could-they-be-real-we-take-a-look-at-some-of-recent-h/5164887150247614/)  
+   Link: <a href="https://www.facebook.com/interestingengineering/posts/are-ufos-worth-researching-could-they-be-real-we-take-a-look-at-some-of-recent-h/5164887150247614/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/interestingengineering/posts/are-ufos-worth-researching-could-they-be-real-we-take-a-look-at-some-of-recent-h/5164887150247614/</a>

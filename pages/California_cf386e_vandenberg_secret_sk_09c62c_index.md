@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /california-cf386e-vandenberg-secret-sk/
 description: Focused pages that expand on Missile Tests.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: California_cf386e_vandenberg_secret_sk_09c62c
-parent_title: Missile Tests | Why California Became A UFO Hotspot
+parent_title: Missile Tests
 parent_nav_short_title: Missile Tests
 parent_permalink: /missile-tests/
 ---

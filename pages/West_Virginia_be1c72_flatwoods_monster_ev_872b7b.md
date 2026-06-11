@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-haunts-west-virginias-ufo/
 nav_short_title: Flatwoods
 title: Did Flatwoods See a Monster or a Mistake?
-title_full: Did Flatwoods See a Monster or a Mistake? | West Virginia UFOs
+title_full: Did Flatwoods See a Monster or a Mistake?
 display_title_short: Flatwoods
 display_title: Flatwoods
 heading_title: Did Flatwoods See a Monster or a Mistake?
@@ -262,8 +262,7 @@ image: /assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b-overview-
 
 ## Introduction
 
-The Flatwoods Monster case is compelling not because it proves that a creature landed in Braxton County, but because a vivid, time-specific witness story sits beside several ordinary explanations that fit much of the evidence. On 12 September 1952, a group in Flatwoods, [West Virginia]({{ 'what-really-haunts-west-virginias-ufo/' | relative_url }}), reported a bright object in the sky, a red or pulsing light near a hill, a strange smell, and a frightening figure described as tall, hooded, red-faced and non-human. The core facts are unusually durable for a folklore case: named [witnesses]({{ 'witnesses-33b724/' | relative_url }}), a precise date, local reporting, later national attention and a place in the wider flying-saucer wave of 1952. The weaker part is the leap from “we saw something terrifying” to “we saw an alien occupant”. Meteor reports, aircraft lights, poor viewing conditions, fear, later retellings and the barn owl hypothesis give sceptics a coherent alternative. The result is a classic West Virginia UFO story that is historically important, emotionally sincere and evidentially fragile. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiptcomics.com/2019/01/16/history-channels-project-blue-book-the-real-story-of-the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiptcomics.com">[AIPT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiptcomics.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
+The Flatwoods Monster case is compelling not because it proves that a creature landed in Braxton County, but because a vivid, time-specific witness story sits beside several ordinary explanations that fit much of the evidence. On 12 September 1952, a group in Flatwoods, West Virginia, reported a bright object in the sky, a red or pulsing light near a hill, a strange smell, and a frightening figure described as tall, hooded, red-faced and non-human. The core facts are unusually durable for a folklore case: named [witnesses]({{ 'witnesses-33b724/' | relative_url }}), a precise date, local reporting, later national attention and a place in the wider flying-saucer wave of 1952. The weaker part is the leap from “we saw something terrifying” to “we saw an alien occupant”. Meteor reports, aircraft lights, poor viewing conditions, fear, later retellings and the barn owl hypothesis give sceptics a coherent alternative. The result is a classic West Virginia UFO story that is historically important, emotionally sincere and evidentially fragile. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiptcomics.com/2019/01/16/history-channels-project-blue-book-the-real-story-of-the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiptcomics.com">[AIPT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiptcomics.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b-overview.webp" | relative_url }}" alt="Overview image for Flatwoods" loading="eager" decoding="sync" fetchpriority="high">
 ## What witnesses reported in Braxton County
@@ -276,8 +275,7 @@ The most important evidential point is that the sighting itself seems to have be
 
 The reported aftermath added to the drama but did not produce strong physical proof. Some accounts mention nausea, burning eyes or throat irritation, trampled grass, skid-like marks, a lingering smell and odd deposits. The West Virginia Encyclopedia says a later investigation found a lingering odour, two large skid marks and trampled grass, while AP’s later feature on the museum and local memory notes that, beyond a smell, there was not much evidence left behind. These are interesting claims, but they are not the same as recoverable material evidence for a craft, biological entity or technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[wvencyclopedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b-Illustration-1-light.svg" | relative_url }}" alt="Flatwoods illustration 1" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b-Illustration-1-dark.svg" | relative_url }}" alt="Flatwoods illustration 1" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the 1952 UFO wave shaped the case
 
 Flatwoods happened at exactly the right moment to become a flying-saucer legend. In 1952, American UFO reporting was already highly charged. The United States Air Force was investigating UFO reports through what became Project Blue Book, and national attention to “flying saucers” was intense. The Air Force later stated that from 1947 to 1969 it investigated 12,618 sightings under Project Blue Book, with 701 left “unidentified”; it also concluded that no investigated UFO showed evidence of a national-security threat, technology beyond known science, or extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
@@ -288,8 +286,7 @@ The story moved fast. History’s account notes that the local report was picked
 
 The timing also created a risk that later retellings would absorb the mood of the period. A meteor could become a falling saucer. A startled animal could become a “monster”. A frightened group’s description could harden into an icon: the red face, spade-shaped hood and green lower body. Braxton County tourism notes that the original drawing commissioned from Kathleen May’s description became widely reproduced in newspapers, books, television and later art. Once an image like that exists, it can stabilise the legend while also making it harder to separate what witnesses perceived in the moment from what later audiences remember. <span class="citation-chip-wrap"><a class="citation-chip" href="https://braxtonwv.org/the-flatwoods-monster/visit-the-museum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: braxtonwv.org">[Visit Braxton, WV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">braxtonwv.org</span><span class="citation-popover-title">Visit Braxton, WVVisit the Flatwoods Monster Museum</span><span class="citation-popover-snippet">Visit Braxton, WVVisit the Flatwoods Monster Museum</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pex7x4Z9htw" title="The Most Puzzling UFO Case of the 20th Century | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer">The Most Puzzling UFO Case of the 20th Century | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied &middot; Views: 550.4K &middot; Uploaded: July 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pex7x4Z9htw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SgGqlL44WSo" title="The Legend Of Flatwoods - (Hunting Down The Flatwoods Monster)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SgGqlL44WSo" target="_blank" rel="noopener noreferrer">The Legend Of Flatwoods - (Hunting Down The Flatwoods Monster)</a></p><p class="youtube-embed-meta">Channel: Abnormal Voyages &middot; Views: 578 &middot; Uploaded: February 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SgGqlL44WSo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SgGqlL44WSo">Open on YouTube</a></p></div></div></div>
 
 ## The best evidence is testimony, not proof
 
@@ -307,8 +304,7 @@ But sincere testimony can still be mistaken. The crucial chain of inference has 
 
 This is why Flatwoods works best as a case study in UFO interpretation rather than as a solved alien encounter. It has enough witness texture to be historically interesting, but not enough reliable evidence to carry the extraordinary claim.
 
-
-<img src="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b-Illustration-2-light.svg" | relative_url }}" alt="Flatwoods illustration 2" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b-Illustration-2-dark.svg" | relative_url }}" alt="Flatwoods illustration 2" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Meteor, beacon and barn owl explanations
 
 The most persuasive sceptical reading is a layered explanation. It does not require one object to explain every detail. Instead, it treats the Flatwoods story as a sequence of misread events: a real meteor, a real local light, and a real animal or shape seen under stress.
@@ -317,14 +313,13 @@ The sky object is the easiest part to explain. Sceptical summaries and later acc
 
 The red or pulsing light is the next layer. If witnesses believed a meteor had landed nearby, any flashing or glowing light on or beyond the hill could become part of the same story. AIPT notes the argument that blinking red aircraft navigation beacons were visible from the hill. That does not prove every witness saw a beacon, but it gives a plausible source for a repeated “pulsing red light” without requiring a landed craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aiptcomics.com/2019/01/16/history-channels-project-blue-book-the-real-story-of-the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aiptcomics.com">[AIPT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aiptcomics.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The “monster” is the hardest and most famous part. Joe Nickell, writing as a sceptical investigator for the Committee for Skeptical Inquiry, argued that a barn owl could explain many of the creature’s features: shining eyes when caught in a flashlight, a pale or red-tinged face, claw-like feet, a frightening hiss or screech, and a hooded or spade-like outline when perched against foliage. AIPT summarises Nickell’s view as “as definitive an explanation of the actual Flatwoods Monster as we’ll ever get”, while also acknowledging that the witnesses’ accounts did not fully match one another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Flatwoods UFO Monster | Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer The Flatwoods UFO Monster | Skeptical Inquirer</span></span></span>
+The “monster” is the hardest and most famous part. Joe Nickell, writing as a sceptical investigator for the Committee for Skeptical Inquiry, argued that a barn owl could explain many of the creature’s features: shining eyes when caught in a flashlight, a pale or red-tinged face, claw-like feet, a frightening hiss or screech, and a hooded or spade-like outline when perched against foliage. AIPT summarises Nickell’s view as “as definitive an explanation of the actual Flatwoods Monster as we’ll ever get”, while also acknowledging that the witnesses’ accounts did not fully match one another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Flatwoods UFO Monster &#124; Skeptical Inquirer</span><span class="citation-popover-snippet">Skeptical Inquirer The Flatwoods UFO Monster &#124; Skeptical Inquirer</span></span></span>
 
 The owl hypothesis is strongest where the reported details are visual and behavioural. Barn owls can look startlingly unlike familiar daytime birds when seen suddenly at night. Their pale facial disc, dark eyes, defensive posture and harsh sounds can seem uncanny. If such an owl were perched above ground level in a tree, a frightened group might overestimate its size, especially if shadows, branches or a stump supplied an imagined “body”. This fits the report of bright eyes in a tree and the sudden hissing or gliding movement.
 
 The owl explanation is weaker where later descriptions become very elaborate: metallic clothing, folds, a large structured body and a precise humanoid outline. But that is also where the testimony is most vulnerable to memory, retelling and iconic imagery. The case becomes less mysterious if those details were not all seen clearly in the first moment, but were partly reconstructed afterwards.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SgGqlL44WSo" title="The Legend Of Flatwoods - (Hunting Down The Flatwoods Monster)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SgGqlL44WSo" target="_blank" rel="noopener noreferrer">The Legend Of Flatwoods - (Hunting Down The Flatwoods Monster)</a></p><p class="youtube-embed-meta">Channel: Abnormal Voyages &middot; Views: 578 &middot; Uploaded: February 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SgGqlL44WSo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SgGqlL44WSo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2FaMvv1dNtw" title="The Flatwoods Monster | Episode 260 | Sinisterhood Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2FaMvv1dNtw" target="_blank" rel="noopener noreferrer">The Flatwoods Monster | Episode 260 | Sinisterhood Podcast</a></p><p class="youtube-embed-meta">Channel: Sinisterhood Podcast &middot; Views: 555 &middot; Uploaded: October 2023 &middot; Length: 1 hour 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2FaMvv1dNtw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2FaMvv1dNtw">Open on YouTube</a></p></div></div></div>
 
 ## Why the case still matters in West Virginia UFO history
 
@@ -334,8 +329,7 @@ The case also sits naturally beside other West Virginia UFO and monster traditio
 
 The afterlife has become part of the evidence problem. The Flatwoods Monster Museum in Sutton now displays collections, historic items, memorabilia, books and artwork, and AP reported that the museum has become a centre for different interpretations of the creature. Braxton County’s visitor materials also show how the monster has become a civic identity as much as a sighting claim. That cultural success preserves the story, but it also rewards the most visually memorable version over the most cautious one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://braxtonwv.org/the-flatwoods-monster/visit-the-museum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: braxtonwv.org">[Visit Braxton, WV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">braxtonwv.org</span><span class="citation-popover-title">Visit Braxton, WVVisit the Flatwoods Monster Museum</span><span class="citation-popover-snippet">Visit Braxton, WVVisit the Flatwoods Monster Museum</span></span></span>
 
-
-<img src="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b-Illustration-3-light.svg" | relative_url }}" alt="Flatwoods illustration 3" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b-Illustration-3-dark.svg" | relative_url }}" alt="Flatwoods illustration 3" data-theme-src-dark="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/West_Virginia_be1c72_flatwoods_monster_ev_872b7b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A fair verdict on the Flatwoods evidence
 
 The Flatwoods witnesses deserve to be treated as people who were frightened by something, not as caricatures. Their story was immediate, local and specific, and the case’s survival is not surprising. A bright fireball in the middle of the 1952 saucer wave, followed by a terrifying hilltop encounter, was always likely to travel beyond Braxton County.
@@ -344,9 +338,7 @@ As evidence for a non-human creature or alien occupant, however, the case is wea
 
 That is why Flatwoods remains one of West Virginia’s most useful UFO cases. It keeps both sides of the subject in view: the power of witness experience and the danger of over-interpreting it. The story is historically important, culturally rich and still worth reading closely, but the balance of evidence favours mistake over monster.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2FaMvv1dNtw" title="The Flatwoods Monster | Episode 260 | Sinisterhood Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2FaMvv1dNtw" target="_blank" rel="noopener noreferrer">The Flatwoods Monster | Episode 260 | Sinisterhood Podcast</a></p><p class="youtube-embed-meta">Channel: Sinisterhood Podcast &middot; Views: 555 &middot; Uploaded: October 2023 &middot; Length: 1 hour 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2FaMvv1dNtw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2FaMvv1dNtw">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pex7x4Z9htw" title="The Most Puzzling UFO Case of the 20th Century | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer">The Most Puzzling UFO Case of the 20th Century | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied &middot; Views: 550.4K &middot; Uploaded: July 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pex7x4Z9htw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -769,160 +761,160 @@ That is why Flatwoods remains one of West Virginia’s most useful UFO cases. It
 
 1. <a id="endnote-1"></a>
    Source: wvencyclopedia.org  
-   Link: [https://www.wvencyclopedia.org/articles/2192](https://www.wvencyclopedia.org/articles/2192)  
+   Link: <a href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow">https://www.wvencyclopedia.org/articles/2192</a>  
 
 2. <a id="endnote-2"></a>
    Source: aiptcomics.com  
-   Link: [https://aiptcomics.com/2019/01/16/history-channels-project-blue-book-the-real-story-of-the-flatwoods-monster/](https://aiptcomics.com/2019/01/16/history-channels-project-blue-book-the-real-story-of-the-flatwoods-monster/)  
+   Link: <a href="https://aiptcomics.com/2019/01/16/history-channels-project-blue-book-the-real-story-of-the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow">https://aiptcomics.com/2019/01/16/history-channels-project-blue-book-the-real-story-of-the-flatwoods-monster/</a>  
 
 3. <a id="endnote-3"></a>
    Source: history.com  
    Title: flatwoods monster west virginia  
-   Link: [https://www.history.com/articles/flatwoods-monster-west-virginia](https://www.history.com/articles/flatwoods-monster-west-virginia)  
+   Link: <a href="https://www.history.com/articles/flatwoods-monster-west-virginia" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/flatwoods-monster-west-virginia</a>  
 
 4. <a id="endnote-4"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: braxtonwv.org  
    Title: the original 1952 flatwoods monster drawing found  
-   Link: [https://braxtonwv.org/the-original-1952-flatwoods-monster-drawing-found/](https://braxtonwv.org/the-original-1952-flatwoods-monster-drawing-found/)  
+   Link: <a href="https://braxtonwv.org/the-original-1952-flatwoods-monster-drawing-found/" target="_blank" rel="noopener noreferrer nofollow">https://braxtonwv.org/the-original-1952-flatwoods-monster-drawing-found/</a>  
 
 6. <a id="endnote-6"></a>
    Source: braxtonwv.org  
    Title: Visit Braxton, WVVisit the Flatwoods Monster Museum  
-   Link: [https://braxtonwv.org/the-flatwoods-monster/visit-the-museum/](https://braxtonwv.org/the-flatwoods-monster/visit-the-museum/)  
+   Link: <a href="https://braxtonwv.org/the-flatwoods-monster/visit-the-museum/" target="_blank" rel="noopener noreferrer nofollow">https://braxtonwv.org/the-flatwoods-monster/visit-the-museum/</a>  
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Legend Of Flatwoods  
-   Link: [https://www.youtube.com/watch?v=SgGqlL44WSo](https://www.youtube.com/watch?v=SgGqlL44WSo)  
+   Link: <a href="https://www.youtube.com/watch?v=SgGqlL44WSo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SgGqlL44WSo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Flatwoods Monster | Episode 260 | Sinisterhood Podcast...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Flatwoods Monster | Episode 260 | Sinisterhood Podcast  
-   Link: [https://www.youtube.com/watch?v=2FaMvv1dNtw](https://www.youtube.com/watch?v=2FaMvv1dNtw)  
+   Link: <a href="https://www.youtube.com/watch?v=2FaMvv1dNtw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2FaMvv1dNtw</a>  
 
 9. <a id="endnote-9"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer The Flatwoods UFO Monster | Skeptical Inquirer  
-   Link: [https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/](https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/)  
+   Link: <a href="https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Flatwoods monster  
-   Link: [https://en.wikipedia.org/wiki/Flatwoods_monster](https://en.wikipedia.org/wiki/Flatwoods_monster)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flatwoods_monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flatwoods_monster</a>  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Flatwoods Monster  
-   Link: [https://de.wikipedia.org/wiki/Flatwoods_Monster](https://de.wikipedia.org/wiki/Flatwoods_Monster)  
+   Link: <a href="https://de.wikipedia.org/wiki/Flatwoods_Monster" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Flatwoods_Monster</a>  
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 14. <a id="endnote-14"></a>
    Source: skepticalinquirer.org  
    Title: mothman revisitedinvestigating on site  
-   Link: [https://skepticalinquirer.org/newsletter/mothman-revisitedinvestigating-on-site/](https://skepticalinquirer.org/newsletter/mothman-revisitedinvestigating-on-site/)  
+   Link: <a href="https://skepticalinquirer.org/newsletter/mothman-revisitedinvestigating-on-site/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/mothman-revisitedinvestigating-on-site/</a>  
 
 15. <a id="endnote-15"></a>
    Source: science.howstuffworks.com  
    Title: flatwoods monster  
-   Link: [https://science.howstuffworks.com/science-vs-myth/strange-creatures/flatwoods-monster.htm](https://science.howstuffworks.com/science-vs-myth/strange-creatures/flatwoods-monster.htm)  
+   Link: <a href="https://science.howstuffworks.com/science-vs-myth/strange-creatures/flatwoods-monster.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/strange-creatures/flatwoods-monster.htm</a>  
 
 16. <a id="endnote-16"></a>
    Source: braxtonwv.org  
-   Link: [https://braxtonwv.org/the-flatwoods-monster/folklore/](https://braxtonwv.org/the-flatwoods-monster/folklore/)  
+   Link: <a href="https://braxtonwv.org/the-flatwoods-monster/folklore/" target="_blank" rel="noopener noreferrer nofollow">https://braxtonwv.org/the-flatwoods-monster/folklore/</a>  
 
 17. <a id="endnote-17"></a>
    Source: lairofmythics.com  
    Title: flatwoods monster  
-   Link: [https://lairofmythics.com/blogs/cryptid-case-files/flatwoods-monster](https://lairofmythics.com/blogs/cryptid-case-files/flatwoods-monster)  
+   Link: <a href="https://lairofmythics.com/blogs/cryptid-case-files/flatwoods-monster" target="_blank" rel="noopener noreferrer nofollow">https://lairofmythics.com/blogs/cryptid-case-files/flatwoods-monster</a>  
 
 18. <a id="endnote-18"></a>
    Source: monster.fandom.com  
    Title: Flatwoods Monster  
-   Link: [https://monster.fandom.com/wiki/Flatwoods_Monster](https://monster.fandom.com/wiki/Flatwoods_Monster)  
+   Link: <a href="https://monster.fandom.com/wiki/Flatwoods_Monster" target="_blank" rel="noopener noreferrer nofollow">https://monster.fandom.com/wiki/Flatwoods_Monster</a>  
 
 19. <a id="endnote-19"></a>
    Source: van-helsing-own-story.fandom.com  
    Title: Flatwoods Monster  
-   Link: [https://van-helsing-own-story.fandom.com/wiki/Flatwoods_Monster](https://van-helsing-own-story.fandom.com/wiki/Flatwoods_Monster)  
+   Link: <a href="https://van-helsing-own-story.fandom.com/wiki/Flatwoods_Monster" target="_blank" rel="noopener noreferrer nofollow">https://van-helsing-own-story.fandom.com/wiki/Flatwoods_Monster</a>  
 
 20. <a id="endnote-20"></a>
    Source: cryptozoologycryptids.fandom.com  
    Title: Flatwoods Monster  
-   Link: [https://cryptozoologycryptids.fandom.com/wiki/Flatwoods_Monster](https://cryptozoologycryptids.fandom.com/wiki/Flatwoods_Monster)  
+   Link: <a href="https://cryptozoologycryptids.fandom.com/wiki/Flatwoods_Monster" target="_blank" rel="noopener noreferrer nofollow">https://cryptozoologycryptids.fandom.com/wiki/Flatwoods_Monster</a>  
 
 21. <a id="endnote-21"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 22. <a id="endnote-22"></a>
    Source: vocal.media  
    Title: The Flatwoods Monster | FYI  
-   Link: [https://vocal.media/fyi/the-flatwoods-monster](https://vocal.media/fyi/the-flatwoods-monster)  
+   Link: <a href="https://vocal.media/fyi/the-flatwoods-monster" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/fyi/the-flatwoods-monster</a>  
 
 23. <a id="endnote-23"></a>
    Source: ballyraven.com  
-   Link: [https://www.ballyraven.com/encyclopedia/flatwoods-monster](https://www.ballyraven.com/encyclopedia/flatwoods-monster)  
+   Link: <a href="https://www.ballyraven.com/encyclopedia/flatwoods-monster" target="_blank" rel="noopener noreferrer nofollow">https://www.ballyraven.com/encyclopedia/flatwoods-monster</a>  
 
 24. <a id="endnote-24"></a>
    Source: beyondhaunted.com  
    Title: flatwoods monster  
-   Link: [https://beyondhaunted.com/blog/flatwoods-monster](https://beyondhaunted.com/blog/flatwoods-monster)  
+   Link: <a href="https://beyondhaunted.com/blog/flatwoods-monster" target="_blank" rel="noopener noreferrer nofollow">https://beyondhaunted.com/blog/flatwoods-monster</a>  
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/research/cartographic/pi-195-soil-conservation-service.pdf](https://www.archives.gov/files/research/cartographic/pi-195-soil-conservation-service.pdf)  
+   Link: <a href="https://www.archives.gov/files/research/cartographic/pi-195-soil-conservation-service.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/cartographic/pi-195-soil-conservation-service.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/](https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Cryptozoology/comments/jrzroh/flat_woods_monster_of_west_virginia/](https://www.reddit.com/r/Cryptozoology/comments/jrzroh/flat_woods_monster_of_west_virginia/)  
+   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/jrzroh/flat_woods_monster_of_west_virginia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/jrzroh/flat_woods_monster_of_west_virginia/</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/highsroadside/posts/just-73-years-ago-on-september-12th-1952-came-the-sighting-of-the-now-world-famo/1723168511963844/](https://www.facebook.com/highsroadside/posts/just-73-years-ago-on-september-12th-1952-came-the-sighting-of-the-now-world-famo/1723168511963844/)  
+   Link: <a href="https://www.facebook.com/highsroadside/posts/just-73-years-ago-on-september-12th-1952-came-the-sighting-of-the-now-world-famo/1723168511963844/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/highsroadside/posts/just-73-years-ago-on-september-12th-1952-came-the-sighting-of-the-now-world-famo/1723168511963844/</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/3238587069499399/posts/5185810624777024/?comment_id=5187371481287605](https://www.facebook.com/groups/3238587069499399/posts/5185810624777024/?comment_id=5187371481287605)  
+   Link: <a href="https://www.facebook.com/groups/3238587069499399/posts/5185810624777024/?comment_id=5187371481287605" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3238587069499399/posts/5185810624777024/?comment_id=5187371481287605</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/](https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/)  
+   Link: <a href="https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheFolklorePodcast/posts/from-the-folklore-of-west-virginia-comes-the-flatwoods-monster-described-as-a-hu/1471513204989595/](https://www.facebook.com/TheFolklorePodcast/posts/from-the-folklore-of-west-virginia-comes-the-flatwoods-monster-described-as-a-hu/1471513204989595/)  
+   Link: <a href="https://www.facebook.com/TheFolklorePodcast/posts/from-the-folklore-of-west-virginia-comes-the-flatwoods-monster-described-as-a-hu/1471513204989595/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheFolklorePodcast/posts/from-the-folklore-of-west-virginia-comes-the-flatwoods-monster-described-as-a-hu/1471513204989595/</a>  
 
 33. <a id="endnote-33"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/brad-steiger-real-monsters/Brad%20Steiger%20-%20Real%20Monsters_djvu.txt](https://archive.org/stream/brad-steiger-real-monsters/Brad%20Steiger%20-%20Real%20Monsters_djvu.txt)  
+   Link: <a href="https://archive.org/stream/brad-steiger-real-monsters/Brad%20Steiger%20-%20Real%20Monsters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/brad-steiger-real-monsters/Brad%20Steiger%20-%20Real%20Monsters_djvu.txt</a>  
 
 34. <a id="endnote-34"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/jim-brandon-weird-america-a-guide-to-places-of-mystery-in-the-united-states-dutton-1978/Jim%20Brandon%20-%20Weird%20America_%20A%20Guide%20to%20Places%20of%20Mystery%20in%20the%20United%20States-Dutton%20%281978%29_djvu.txt](https://archive.org/stream/jim-brandon-weird-america-a-guide-to-places-of-mystery-in-the-united-states-dutton-1978/Jim%20Brandon%20-%20Weird%20America_%20A%20Guide%20to%20Places%20of%20Mystery%20in%20the%20United%20States-Dutton%20%281978%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/jim-brandon-weird-america-a-guide-to-places-of-mystery-in-the-united-states-dutton-1978/Jim%20Brandon%20-%20Weird%20America_%20A%20Guide%20to%20Places%20of%20Mystery%20in%20the%20United%20States-Dutton%20%281978%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/jim-brandon-weird-america-a-guide-to-places-of-mystery-in-the-united-states-dutton-1978/Jim%20Brandon%20-%20Weird%20America_%20A%20Guide%20to%20Places%20of%20Mystery%20in%20the%20United%20States-Dutton%20%281978%29_djvu.txt</a>

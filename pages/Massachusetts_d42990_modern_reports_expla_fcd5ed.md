@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-massachusetts/
 nav_short_title: Modern Reports
 title: Why Massachusetts UFO Reports Often Stay Unclear
-title_full: Why Massachusetts UFO Reports Often Stay Unclear | Massachusetts UFOs
+title_full: Why Massachusetts UFO Reports Often Stay Unclear
 display_title_short: Modern Reports
 display_title: Modern Reports
 heading_title: Why Massachusetts UFO Reports Often Stay Unclear
@@ -270,12 +270,10 @@ image: /assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed-overview-
 
 Modern [Massachusetts]({{ 'what-really-happened-in-massachusetts/' | relative_url }}) UFO reports usually become interesting for a simple reason: they are often sincere, specific, and locally grounded, but still too thin to prove anything extraordinary. The state has busy skies, a major coastal airport at Boston Logan, active general aviation, ferry and island routes, drones, satellites, weather effects over the Atlantic, and many residents filming the sky with phones at night. That combination produces a steady stream of “unknown” reports, especially lights, shapes, fireballs, triangles and fast-moving objects, without giving investigators enough distance, altitude, direction, radar, flight-track or optical data to make a firm identification. NUFORC’s Massachusetts listing shows the pattern clearly: many reports are brief witness accounts from towns and cities across the state, often describing lights, fireballs, triangles or objects that were seen for seconds or minutes rather than documented by multiple independent instruments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lMA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">NUFOR C Reports for State MA</span><span class="citation-popover-snippet">NUFOR C Reports for State MA</span></span></span>
 
-
 <img src="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed-overview.webp" | relative_url }}" alt="Overview image for Modern Reports" loading="eager" decoding="sync" fetchpriority="high">
 The best way to read modern Massachusetts sightings is therefore not as a contest between “aliens” and “nothing happened”. A more useful question is: what ordinary object or sky condition could produce this report, and what evidence would be needed before calling it genuinely anomalous? That approach keeps the state’s UFO history open to unresolved cases without treating every unclear light over Boston, Cape Cod or the Berkshires as a breakthrough event.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QV5rCP7uiaU" title="Starlink satellites light up night sky over Massachusetts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QV5rCP7uiaU" target="_blank" rel="noopener noreferrer">Starlink satellites light up night sky over Massachusetts</a></p><p class="youtube-embed-meta">Channel: WCVB Channel 5 Boston &middot; Views: 790.0K &middot; Uploaded: February 2023 &middot; Length: 1 minute 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QV5rCP7uiaU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QV5rCP7uiaU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5O8ghDgoCLE" title="Arrests tied to drone activity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5O8ghDgoCLE" target="_blank" rel="noopener noreferrer">Arrests tied to drone activity</a></p><p class="youtube-embed-meta">Channel: LiveNOW from FOX &middot; Views: 1.4M &middot; Uploaded: December 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5O8ghDgoCLE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5O8ghDgoCLE">Open on YouTube</a></p></div></div></div>
 
 ## Common objects mistaken for UFOs
 
@@ -291,8 +289,7 @@ Balloons remain a less glamorous but important explanation. AARO’s public imag
 
 Meteors and re-entering debris can also produce brief, dramatic reports. In Massachusetts databases, “fireball” reports recur, especially when witnesses describe green, orange or white lights moving quickly downward. A short-lived streak can be startling, but a single witness description of a fast light does not by itself distinguish a meteor, aircraft reflection, drone, satellite flare or something more unusual. NUFORC’s older Massachusetts entries include several examples of brief fireball-like or bright-light reports from communities such as Fall River, Greenfield, Lunenburg and Worcester. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-
-<img src="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed-Illustration-1-light.svg" | relative_url }}" alt="Modern Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed-Illustration-1-dark.svg" | relative_url }}" alt="Modern Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why airports and coastal airspace complicate sightings
 
 Massachusetts is not an empty-sky state. Boston Logan sits at the edge of Boston Harbor, with approach and departure paths over water, islands, dense neighbourhoods and coastal towns. That geography creates excellent conditions for confusion: a witness in Winthrop, Revere, East Boston, Quincy, Hull, Gloucester or Cape Cod may be looking across water at aircraft whose distance is hard to judge.
@@ -304,7 +301,6 @@ Logan’s setting makes this especially important for modern UFO reports around 
 The FAA’s drone-sighting data also shows why “unidentified near an airport” does not automatically mean extraordinary. The agency says it receives more than 100 unmanned-aircraft sighting reports near airports each month and warns that operating drones around aircraft and airports is dangerous and illegal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/resources/public_records/uas_sightings_report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In Massachusetts, the December 2024 Logan-related drone case shows both sides of the issue: some aerial reports are real safety concerns, but a real safety concern can still involve an ordinary drone rather than an unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://police.boston.gov/2024/12/15/two-suspects-arrested-following-hazardous-drone-operation-on-long-island/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: police.boston.gov">[Boston Police Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">police.boston.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Cape Cod and the islands add another twist. Nantucket, Martha’s Vineyard and Cape Cod have seasonal aviation, small aircraft, maritime traffic, weather balloons in the region’s history, military and Coast Guard activity, and wide dark skies that make ordinary lights more visible. The old Chatham upper-air station on Cape Cod launched weather balloons for decades before closing in 2021 because of erosion, and the National Weather Service described radiosondes tied to balloons as part of the station’s twice-daily upper-air observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/media/box/Chatham_Closure.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-title">Chatham Closure</span><span class="citation-popover-snippet">Chatham Closure</span></span></span> That does not explain every Cape report, but it shows why the coastal sky contains more human-made activity than a casual observer may assume.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lty3G5f-P9o" title="Is the Pentagon’s UFO Files Release A Bust? | CUOMO Full Show 5/8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lty3G5f-P9o" target="_blank" rel="noopener noreferrer">Is the Pentagon’s UFO Files Release A Bust? | CUOMO Full Show 5/8</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 82.3K &middot; Uploaded: May 2026 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lty3G5f-P9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lty3G5f-P9o">Open on YouTube</a></p></div></div></div>
 
@@ -318,8 +314,7 @@ AARO’s public material points in the same direction. The office describes itse
 
 That lesson applies directly to Massachusetts. A witness report from Worcester, Boston, Salem, Pittsfield or Provincetown can be honest and still not be strong evidence. A phone video can be real and still not contain enough information to identify altitude, speed or size. A case can remain unresolved because it is evidentially weak, not because it has survived every ordinary explanation.
 
-
-<img src="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed-Illustration-2-light.svg" | relative_url }}" alt="Modern Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed-Illustration-2-dark.svg" | relative_url }}" alt="Modern Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to separate unresolved from extraordinary
 
 The most useful distinction in Massachusetts UFO reporting is between “unidentified”, “unresolved” and “extraordinary”. These are not the same thing.
@@ -327,7 +322,6 @@ The most useful distinction in Massachusetts UFO reporting is between “unident
 An unidentified report simply means the observer, and perhaps later readers, do not know what was seen. That is common. A report becomes unresolved when basic checks have been made but the available evidence still does not support a clear explanation. An extraordinary case would need more: reliable timing, multiple independent witnesses, known viewing locations, weather and astronomical checks, flight and satellite correlation, high-quality imagery, and ideally radar or other sensor data.
 
 A practical reader can sort modern reports with a few questions:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -342,8 +336,7 @@ A practical reader can sort modern reports with a few questions:
 
 AARO’s official case archive is a useful caution here. It includes cases resolved as balloons or birds, cases where performance characteristics were described as unremarkable, and cases where the data was insufficient to make a determination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span> That spectrum is exactly what Massachusetts readers should expect: explained cases, weak cases, operationally important cases and a smaller number that remain unresolved without becoming proof of something extraordinary.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5O8ghDgoCLE" title="Arrests tied to drone activity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5O8ghDgoCLE" target="_blank" rel="noopener noreferrer">Arrests tied to drone activity</a></p><p class="youtube-embed-meta">Channel: LiveNOW from FOX &middot; Views: 1.4M &middot; Uploaded: December 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5O8ghDgoCLE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5O8ghDgoCLE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QV5rCP7uiaU" title="Starlink satellites light up night sky over Massachusetts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QV5rCP7uiaU" target="_blank" rel="noopener noreferrer">Starlink satellites light up night sky over Massachusetts</a></p><p class="youtube-embed-meta">Channel: WCVB Channel 5 Boston &middot; Views: 790.0K &middot; Uploaded: February 2023 &middot; Length: 1 minute 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QV5rCP7uiaU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QV5rCP7uiaU">Open on YouTube</a></p></div></div></div>
 
 ## What Massachusetts reports still add to the state’s UFO history
 
@@ -355,8 +348,7 @@ This approach does not dismiss witnesses. It respects the fact that people often
 
 For Massachusetts, the strongest modern conclusion is cautious but useful: the state continues to produce UFO reports, but many are best understood as ordinary sky objects seen under poor observing conditions. The unresolved residue is worth documenting, especially when reports involve aviation safety, multiple witnesses or official records. But “not yet identified” should remain a starting point for investigation, not a substitute for evidence.
 
-
-<img src="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed-Illustration-3-light.svg" | relative_url }}" alt="Modern Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed-Illustration-3-dark.svg" | relative_url }}" alt="Modern Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_modern_reports_expla_fcd5ed-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -444,7 +436,7 @@ For Massachusetts, the strongest modern conclusion is cautious but useful: the s
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -454,111 +446,36 @@ For Massachusetts, the strongest modern conclusion is cautious but useful: the s
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/lGIAAOSw2klmSmMn/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -566,15 +483,15 @@ For Massachusetts, the strongest modern conclusion is cautious but useful: the s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="https://i.ebayimg.com/images/g/VQ8AAeSwE2Fp1m0Y/s-l225.jpg" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -582,15 +499,15 @@ For Massachusetts, the strongest modern conclusion is cautious but useful: the s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -598,15 +515,15 @@ For Massachusetts, the strongest modern conclusion is cautious but useful: the s
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -614,7 +531,7 @@ For Massachusetts, the strongest modern conclusion is cautious but useful: the s
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-dd8097-why-massachusetts-ufo-reports-often-stay-unclear-massachusetts-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-massachusetts-ufo-reports-often-stay-unclear-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -691,17 +608,31 @@ For Massachusetts, the strongest modern conclusion is cautious but useful: the s
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -714,42 +645,73 @@ For Massachusetts, the strongest modern conclusion is cautious but useful: the s
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -764,12 +726,17 @@ For Massachusetts, the strongest modern conclusion is cautious but useful: the s
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -780,204 +747,204 @@ For Massachusetts, the strongest modern conclusion is cautious but useful: the s
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports for State MA  
-   Link: [https://nuforc.org/subndx/?id=lMA](https://nuforc.org/subndx/?id=lMA)  
+   Link: <a href="https://nuforc.org/subndx/?id=lMA" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lMA</a>  
 
 2. <a id="endnote-2"></a>
    Source: cbsnews.com  
    Title: CBS News  
-   Link: [https://www.cbsnews.com/boston/news/starlink-spacex-satellites-boston-massachusetts-video-schedule/](https://www.cbsnews.com/boston/news/starlink-spacex-satellites-boston-massachusetts-video-schedule/)  
+   Link: <a href="https://www.cbsnews.com/boston/news/starlink-spacex-satellites-boston-massachusetts-video-schedule/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/boston/news/starlink-spacex-satellites-boston-massachusetts-video-schedule/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink SpaceX satellites spotted over Massachusetts - CBS Boston...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: massport.com  
    Title: boston logan breaks passenger record celebrates year full growth  
-   Link: [https://www.massport.com/media/newsroom/boston-logan-breaks-passenger-record-celebrates-year-full-growth](https://www.massport.com/media/newsroom/boston-logan-breaks-passenger-record-celebrates-year-full-growth)  
+   Link: <a href="https://www.massport.com/media/newsroom/boston-logan-breaks-passenger-record-celebrates-year-full-growth" target="_blank" rel="noopener noreferrer nofollow">https://www.massport.com/media/newsroom/boston-logan-breaks-passenger-record-celebrates-year-full-growth</a>  
 
 4. <a id="endnote-4"></a>
    Source: police.boston.gov  
-   Link: [https://police.boston.gov/2024/12/15/two-suspects-arrested-following-hazardous-drone-operation-on-long-island/](https://police.boston.gov/2024/12/15/two-suspects-arrested-following-hazardous-drone-operation-on-long-island/)  
+   Link: <a href="https://police.boston.gov/2024/12/15/two-suspects-arrested-following-hazardous-drone-operation-on-long-island/" target="_blank" rel="noopener noreferrer nofollow">https://police.boston.gov/2024/12/15/two-suspects-arrested-following-hazardous-drone-operation-on-long-island/</a>  
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: massport.com  
-   Link: [https://www.massport.com/logan-airport/about-logan/logan-airspace-map](https://www.massport.com/logan-airport/about-logan/logan-airspace-map)  
+   Link: <a href="https://www.massport.com/logan-airport/about-logan/logan-airspace-map" target="_blank" rel="noopener noreferrer nofollow">https://www.massport.com/logan-airport/about-logan/logan-airspace-map</a>  
 
 7. <a id="endnote-7"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/uas/resources/public_records/uas_sightings_report](https://www.faa.gov/uas/resources/public_records/uas_sightings_report)  
+   Link: <a href="https://www.faa.gov/uas/resources/public_records/uas_sightings_report" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/resources/public_records/uas_sightings_report</a>  
 
 8. <a id="endnote-8"></a>
    Source: weather.gov  
    Title: Chatham Closure  
-   Link: [https://www.weather.gov/media/box/Chatham_Closure.pdf](https://www.weather.gov/media/box/Chatham_Closure.pdf)  
+   Link: <a href="https://www.weather.gov/media/box/Chatham_Closure.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/box/Chatham_Closure.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/](https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/</a>  
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/FAQ/](https://www.aaro.mil/FAQ/)  
+   Link: <a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=184829](https://nuforc.org/sighting/?id=184829)  
+   Link: <a href="https://nuforc.org/sighting/?id=184829" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184829</a>  
 
 16. <a id="endnote-16"></a>
    Source: massport.com  
    Title: year review 2024  
-   Link: [https://www.massport.com/our-business/year-review-2024](https://www.massport.com/our-business/year-review-2024)  
+   Link: <a href="https://www.massport.com/our-business/year-review-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.massport.com/our-business/year-review-2024</a>  
 
 17. <a id="endnote-17"></a>
    Source: massport.com  
-   Link: [https://www.massport.com/logan-airport/about-logan/airport-statistics](https://www.massport.com/logan-airport/about-logan/airport-statistics)  
+   Link: <a href="https://www.massport.com/logan-airport/about-logan/airport-statistics" target="_blank" rel="noopener noreferrer nofollow">https://www.massport.com/logan-airport/about-logan/airport-statistics</a>  
 
 18. <a id="endnote-18"></a>
    Source: massport.com  
-   Link: [https://www.massport.com/environment/boston-logan-edr-espr-data-portal](https://www.massport.com/environment/boston-logan-edr-espr-data-portal)  
+   Link: <a href="https://www.massport.com/environment/boston-logan-edr-espr-data-portal" target="_blank" rel="noopener noreferrer nofollow">https://www.massport.com/environment/boston-logan-edr-espr-data-portal</a>  
 
 19. <a id="endnote-19"></a>
    Source: massport.com  
-   Link: [https://www.massport.com/logan-airport](https://www.massport.com/logan-airport)  
+   Link: <a href="https://www.massport.com/logan-airport" target="_blank" rel="noopener noreferrer nofollow">https://www.massport.com/logan-airport</a>  
 
 20. <a id="endnote-20"></a>
    Source: massport.com  
-   Link: [https://www.massport.com/hanscom-field](https://www.massport.com/hanscom-field)  
+   Link: <a href="https://www.massport.com/hanscom-field" target="_blank" rel="noopener noreferrer nofollow">https://www.massport.com/hanscom-field</a>  
 
 21. <a id="endnote-21"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/chs/upperair](https://www.weather.gov/chs/upperair)  
+   Link: <a href="https://www.weather.gov/chs/upperair" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/chs/upperair</a>  
 
 23. <a id="endnote-23"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/rah/virtualtourballoon](https://www.weather.gov/rah/virtualtourballoon)  
+   Link: <a href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/rah/virtualtourballoon</a>  
 
 24. <a id="endnote-24"></a>
    Source: faa.gov  
    Title: air traffic by the numbers FY2024  
-   Link: [https://www.faa.gov/air_traffic/by_the_numbers/air-traffic-by-the-numbers-FY2024.pdf](https://www.faa.gov/air_traffic/by_the_numbers/air-traffic-by-the-numbers-FY2024.pdf)  
+   Link: <a href="https://www.faa.gov/air_traffic/by_the_numbers/air-traffic-by-the-numbers-FY2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/by_the_numbers/air-traffic-by-the-numbers-FY2024.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: time.com  
    Title: balloons ufos what is in the sky  
-   Link: [https://time.com/6255436/balloons-ufos-what-is-in-the-sky/](https://time.com/6255436/balloons-ufos-what-is-in-the-sky/)  
+   Link: <a href="https://time.com/6255436/balloons-ufos-what-is-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6255436/balloons-ufos-what-is-in-the-sky/</a>  
 
 26. <a id="endnote-26"></a>
    Source: space.com  
    Title: pentagon ufo chief tells senate very anomalous objects need careful study video  
-   Link: [https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video](https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video)  
+   Link: <a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
 
 27. <a id="endnote-27"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
 28. <a id="endnote-28"></a>
    Source: boston.com  
    Title: new tool will help you track ufos or at least starlink satellites  
-   Link: [https://www.boston.com/news/local-news/2023/02/14/new-tool-will-help-you-track-ufos-or-at-least-starlink-satellites/](https://www.boston.com/news/local-news/2023/02/14/new-tool-will-help-you-track-ufos-or-at-least-starlink-satellites/)  
+   Link: <a href="https://www.boston.com/news/local-news/2023/02/14/new-tool-will-help-you-track-ufos-or-at-least-starlink-satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.boston.com/news/local-news/2023/02/14/new-tool-will-help-you-track-ufos-or-at-least-starlink-satellites/</a>  
 
 29. <a id="endnote-29"></a>
    Source: boston.com  
    Title: logan airport reports a record breaking year in 2024  
-   Link: [https://www.boston.com/travel/logan-airport/2024/12/18/logan-airport-reports-a-record-breaking-year-in-2024/](https://www.boston.com/travel/logan-airport/2024/12/18/logan-airport-reports-a-record-breaking-year-in-2024/)  
+   Link: <a href="https://www.boston.com/travel/logan-airport/2024/12/18/logan-airport-reports-a-record-breaking-year-in-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.boston.com/travel/logan-airport/2024/12/18/logan-airport-reports-a-record-breaking-year-in-2024/</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SpectrumNews1Worcester/posts/massport-confirms-that-boston-logan-the-regions-largest-airport-has-been-named-a/1420568240071595/](https://www.facebook.com/SpectrumNews1Worcester/posts/massport-confirms-that-boston-logan-the-regions-largest-airport-has-been-named-a/1420568240071595/)  
+   Link: <a href="https://www.facebook.com/SpectrumNews1Worcester/posts/massport-confirms-that-boston-logan-the-regions-largest-airport-has-been-named-a/1420568240071595/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpectrumNews1Worcester/posts/massport-confirms-that-boston-logan-the-regions-largest-airport-has-been-named-a/1420568240071595/</a>  
 
 31. <a id="endnote-31"></a>
    Source: noaa.gov  
-   Link: [https://www.noaa.gov/jetstream/upperair/radiosondes](https://www.noaa.gov/jetstream/upperair/radiosondes)  
+   Link: <a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
 
 32. <a id="endnote-32"></a>
    Source: bostonglobe.com  
    Title: national weather service layoffs weather balloons  
-   Link: [https://www.bostonglobe.com/2025/03/11/metro/national-weather-service-layoffs-weather-balloons/](https://www.bostonglobe.com/2025/03/11/metro/national-weather-service-layoffs-weather-balloons/)  
+   Link: <a href="https://www.bostonglobe.com/2025/03/11/metro/national-weather-service-layoffs-weather-balloons/" target="_blank" rel="noopener noreferrer nofollow">https://www.bostonglobe.com/2025/03/11/metro/national-weather-service-layoffs-weather-balloons/</a>  
 
 33. <a id="endnote-33"></a>
    Source: massportcac.org  
    Title: Massport Update MCAC 06 14 2018 1  
-   Link: [https://massportcac.org/wp-content/uploads/2024/04/Massport-Update-MCAC-06-14-2018-1.pdf](https://massportcac.org/wp-content/uploads/2024/04/Massport-Update-MCAC-06-14-2018-1.pdf)  
+   Link: <a href="https://massportcac.org/wp-content/uploads/2024/04/Massport-Update-MCAC-06-14-2018-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://massportcac.org/wp-content/uploads/2024/04/Massport-Update-MCAC-06-14-2018-1.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: cbsnews.com  
    Title: chatham upper air observation station closes national weather service  
-   Link: [https://www.cbsnews.com/boston/news/chatham-upper-air-observation-station-closes-national-weather-service/](https://www.cbsnews.com/boston/news/chatham-upper-air-observation-station-closes-national-weather-service/)  
+   Link: <a href="https://www.cbsnews.com/boston/news/chatham-upper-air-observation-station-closes-national-weather-service/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/boston/news/chatham-upper-air-observation-station-closes-national-weather-service/</a>  
 
 ### Additional References
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: Is the Pentagon's UFO Files Release A Bust? | CUOMO Full Show 5/8  
-   Link: [https://www.youtube.com/watch?v=lty3G5f-P9o](https://www.youtube.com/watch?v=lty3G5f-P9o)  
+   Link: <a href="https://www.youtube.com/watch?v=lty3G5f-P9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lty3G5f-P9o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart LIVE: UFO Files (2nd Drop) Analysis and Reaction...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: Skeptic Tank: Michael Shermer & Neil de Grasse Tyson  
-   Link: [https://www.youtube.com/watch?v=xICmL8Hgzj8](https://www.youtube.com/watch?v=xICmL8Hgzj8)  
+   Link: <a href="https://www.youtube.com/watch?v=xICmL8Hgzj8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xICmL8Hgzj8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Pentagon&#x27;s UFO Files Release A Bust? | CUOMO Full Show 5/8...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
    Title: Starlink satellites spotted over Massachusetts  
-   Link: [https://www.youtube.com/watch?v=VhpNWY7D1eM](https://www.youtube.com/watch?v=VhpNWY7D1eM)  
+   Link: <a href="https://www.youtube.com/watch?v=VhpNWY7D1eM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VhpNWY7D1eM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About UAPs with Jon Kosloski - StarTalk Radio...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1hf4hu7/hazardous_drone_operation_near_major_airport/](https://www.reddit.com/r/UFOs/comments/1hf4hu7/hazardous_drone_operation_near_major_airport/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1hf4hu7/hazardous_drone_operation_near_major_airport/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hf4hu7/hazardous_drone_operation_near_major_airport/</a>  
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wtoc11/posts/star-shaped-ufo-spotted-in-newly-released-video-%EF%B8%8F/1465846708916025/](https://www.facebook.com/wtoc11/posts/star-shaped-ufo-spotted-in-newly-released-video-%EF%B8%8F/1465846708916025/)  
+   Link: <a href="https://www.facebook.com/wtoc11/posts/star-shaped-ufo-spotted-in-newly-released-video-%EF%B8%8F/1465846708916025/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtoc11/posts/star-shaped-ufo-spotted-in-newly-released-video-%EF%B8%8F/1465846708916025/</a>  
 
 40. <a id="endnote-40"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/US/2-men-arrested-hazardous-drone-operation-boston-airport/story?id=116812491](https://abcnews.com/US/2-men-arrested-hazardous-drone-operation-boston-airport/story?id=116812491)  
+   Link: <a href="https://abcnews.com/US/2-men-arrested-hazardous-drone-operation-boston-airport/story?id=116812491" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/2-men-arrested-hazardous-drone-operation-boston-airport/story?id=116812491</a>  
 
 41. <a id="endnote-41"></a>
    Source: facebook.com  
    Title: a us intelligence report cannot give a definitive explanation of aerial phenomen  
-   Link: [https://www.facebook.com/ForcesTV/posts/a-us-intelligence-report-cannot-give-a-definitive-explanation-of-aerial-phenomen/5903793112978976/](https://www.facebook.com/ForcesTV/posts/a-us-intelligence-report-cannot-give-a-definitive-explanation-of-aerial-phenomen/5903793112978976/)  
+   Link: <a href="https://www.facebook.com/ForcesTV/posts/a-us-intelligence-report-cannot-give-a-definitive-explanation-of-aerial-phenomen/5903793112978976/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ForcesTV/posts/a-us-intelligence-report-cannot-give-a-definitive-explanation-of-aerial-phenomen/5903793112978976/</a>  
 
 42. <a id="endnote-42"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Boston25News/posts/a-father-and-son-duo-from-massachusetts-says-they-saw-a-ufo-while-trying-to-watc/1221241546704176/](https://www.facebook.com/Boston25News/posts/a-father-and-son-duo-from-massachusetts-says-they-saw-a-ufo-while-trying-to-watc/1221241546704176/)  
+   Link: <a href="https://www.facebook.com/Boston25News/posts/a-father-and-son-duo-from-massachusetts-says-they-saw-a-ufo-while-trying-to-watc/1221241546704176/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Boston25News/posts/a-father-and-son-duo-from-massachusetts-says-they-saw-a-ufo-while-trying-to-watc/1221241546704176/</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Fox4DFW/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1447223814120343/](https://www.facebook.com/Fox4DFW/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1447223814120343/)  
+   Link: <a href="https://www.facebook.com/Fox4DFW/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1447223814120343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Fox4DFW/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1447223814120343/</a>  
 
 44. <a id="endnote-44"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/bbcnews/posts/a-senior-us-intelligence-officer-said-he-saw-countless-orange-orbs-swarming-in-a/1478242771006377/](https://www.facebook.com/bbcnews/posts/a-senior-us-intelligence-officer-said-he-saw-countless-orange-orbs-swarming-in-a/1478242771006377/)  
+   Link: <a href="https://www.facebook.com/bbcnews/posts/a-senior-us-intelligence-officer-said-he-saw-countless-orange-orbs-swarming-in-a/1478242771006377/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcnews/posts/a-senior-us-intelligence-officer-said-he-saw-countless-orange-orbs-swarming-in-a/1478242771006377/</a>

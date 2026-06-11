@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /folklore/
 nav_short_title: Hamilton claim
 title: Did an airship really steal Hamilton's heifer?
-title_full: Did an airship really steal Hamilton's heifer? | Folklore
+title_full: Did an airship really steal Hamilton's heifer?
 display_title_short: Hamilton claim
 display_title: Hamilton claim
 heading_title: Did an airship really steal Hamilton's heifer?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:28:23'
-parent_title: When Kansas UFO Stories Become Folklore | Kansas UFOs
+parent_title: When Kansas UFO Stories Become Folklore
 parent_permalink: /folklore/
 parent_nav_short_title: Folklore
 parent_heading_title: When Kansas UFO Stories Become Folklore
@@ -250,33 +250,29 @@ image: /assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_hamilton_heifer_
 
 ## Introduction
 
-In April 1897, a dramatic airship-and‑cattle tale from rural [Kansas]({{ 'what-did-kansas-really-see/' | relative_url }}) captured newspaper headlines across the United States and beyond: rancher Alexander Hamilton reported that an enormous cigar‑shaped craft hovered over his cattle lot and whisked a heifer into the sky. For decades it was cited in UFO lore as one of the earliest physical interaction cases in the “mystery airship” wave of 1896–97. Yet closer examination of the sources and later testimony shows that the Hamilton heifer airship claim rests not on independent physical evidence but on a sensational newspaper account and later local recollections pointing to a hoax. The balance of evidence places this episode firmly within [folklore]({{ 'folklore/' | relative_url }}) and tall‑tale culture, not verified aerial phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">HowStuffWorksThe 1897 Cow Abduction Hoax | HowStuffWorks...</span></span></span>
+In April 1897, a dramatic airship-and‑cattle tale from rural Kansas captured newspaper headlines across the United States and beyond: rancher Alexander Hamilton reported that an enormous cigar‑shaped craft hovered over his cattle lot and whisked a heifer into the sky. For decades it was cited in UFO lore as one of the earliest physical interaction cases in the “mystery airship” wave of 1896–97. Yet closer examination of the sources and later testimony shows that the Hamilton heifer airship claim rests not on independent physical evidence but on a sensational newspaper account and later local recollections pointing to a hoax. The balance of evidence places this episode firmly within [folklore]({{ 'folklore/' | relative_url }}) and tall‑tale culture, not verified aerial phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">The 1897 Cow Abduction Hoax &#124; HowStuffWorks...</span></span></span>
 
-
-<img src="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_hamilton_heifer_hoax_2242e5-Illustration-1-light.svg" | relative_url }}" alt="Hamilton claim illustration 1" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_hamilton_heifer_hoax_2242e5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_hamilton_heifer_hoax_2242e5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_hamilton_heifer_hoax_2242e5-Illustration-1-dark.svg" | relative_url }}" alt="Hamilton claim illustration 1" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_hamilton_heifer_hoax_2242e5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_hamilton_heifer_hoax_2242e5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Hamilton Claimed Happened in 1897
 
-On 19 April 1897, the *Yates Center Farmer’s Advocate* published a first‑person account from Alexander Hamilton of Le Roy (or Vernon) in eastern Kansas. He said that on an evening close to that date he, his son, and a hired man saw a “great cigar‑shaped” airship descend toward his cattle pen. A cable or “red rope” from the craft allegedly became entangled in the fence around a heifer; after trying to free it without success, Hamilton said he cut the fence wire and watched the airship lift off with the animal still attached and disappear to the northwest. The next day, he claimed a neighbour found the animal’s butchered remains some distance away, with no tracks on the soft ground to explain its movement. His signed statement was accompanied by an affidavit from local citizens asserting that his word was not usually questioned. The story was widely republished in other US papers and even abroad.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">HowStuffWorksThe 1897 Cow Abduction Hoax | HowStuffWorks...</span></span></span>
-
+On 19 April 1897, the *Yates Center Farmer’s Advocate* published a first‑person account from Alexander Hamilton of Le Roy (or Vernon) in eastern Kansas. He said that on an evening close to that date he, his son, and a hired man saw a “great cigar‑shaped” airship descend toward his cattle pen. A cable or “red rope” from the craft allegedly became entangled in the fence around a heifer; after trying to free it without success, Hamilton said he cut the fence wire and watched the airship lift off with the animal still attached and disappear to the northwest. The next day, he claimed a neighbour found the animal’s butchered remains some distance away, with no tracks on the soft ground to explain its movement. His signed statement was accompanied by an affidavit from local citizens asserting that his word was not usually questioned. The story was widely republished in other US papers and even abroad.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">The 1897 Cow Abduction Hoax &#124; HowStuffWorks...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GXYPX5vpMCc" title="The Unidentified Airships of 1896 and 1897" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GXYPX5vpMCc" target="_blank" rel="noopener noreferrer">The Unidentified Airships of 1896 and 1897</a></p><p class="youtube-embed-meta">Channel: Project Bluebook &middot; Views: 3.7K &middot; Uploaded: March 2023 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GXYPX5vpMCc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GXYPX5vpMCc">Open on YouTube</a></p></div></div></div>
 
 ## Why the Claim Has No Independent Physical Chain
 
-Despite the striking elements of Hamilton’s narrative — a craft, occupants, a cable, an animal trace — there is no surviving contemporaneous physical evidence tied to the incident outside the newspaper reports. There are no technical observations, official investigations, or corroborating documents from animal records, law enforcement, or agricultural authorities. The only “verification” offered at the time was the character affidavit signed by neighbours; such statements attest to reputation but do not serve as independent confirmation of extraordinary events. By modern investigatory standards, the absence of physical, third‑party records leaves the claim far from verified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">HowStuffWorksThe 1897 Cow Abduction Hoax | HowStuffWorks...</span></span></span>
+Despite the striking elements of Hamilton’s narrative — a craft, occupants, a cable, an animal trace — there is no surviving contemporaneous physical evidence tied to the incident outside the newspaper reports. There are no technical observations, official investigations, or corroborating documents from animal records, law enforcement, or agricultural authorities. The only “verification” offered at the time was the character affidavit signed by neighbours; such statements attest to reputation but do not serve as independent confirmation of extraordinary events. By modern investigatory standards, the absence of physical, third‑party records leaves the claim far from verified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">The 1897 Cow Abduction Hoax &#124; HowStuffWorks...</span></span></span>
 
-
-<img src="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_hamilton_heifer_hoax_2242e5-Illustration-2-light.svg" | relative_url }}" alt="Hamilton claim illustration 2" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_hamilton_heifer_hoax_2242e5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_hamilton_heifer_hoax_2242e5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_hamilton_heifer_hoax_2242e5-Illustration-2-dark.svg" | relative_url }}" alt="Hamilton claim illustration 2" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_hamilton_heifer_hoax_2242e5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_hamilton_heifer_hoax_2242e5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Later Accounts, Recollections and the Hoax Interpretation
 
 Decades after 1897, the tale was rediscovered by UFO researchers during the mid‑20th‑century revival of interest in the 1896–97 [airship wave]({{ 'airship-wave-aea0ef/' | relative_url }}). It became a staple in UFO anthologies partly because of its physical‑interaction component and Hamilton’s position as a relatively prominent local figure. However, several lines of later evidence weigh heavily against the literal truth of the original account:
 
-* **Local testimony**: In the 1970s, a Kansas woman told researchers she had heard Hamilton boast to his wife that he had invented the entire story before it was published, and that he belonged to a local “liars’ club” dedicated to concocting outrageous tales. According to her, the club dissolved after the airship and cow story, which “topped them all.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">HowStuffWorksThe 1897 Cow Abduction Hoax | HowStuffWorks...</span></span></span>
+* **Local testimony**: In the 1970s, a Kansas woman told researchers she had heard Hamilton boast to his wife that he had invented the entire story before it was published, and that he belonged to a local “liars’ club” dedicated to concocting outrageous tales. According to her, the club dissolved after the airship and cow story, which “topped them all.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">The 1897 Cow Abduction Hoax &#124; HowStuffWorks...</span></span></span>
 * **Researcher interviews**: UFO historian Jerome Clark interviewed people familiar with the local history and examined Hamilton’s original affidavit. Clark concluded that the narrative had been fabricated as an entry in a tall‑tale competition rather than as an actual sighting. He published his analysis in the 1970s, and it remains the strongest investigatory account dismissing the story as a hoax.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
-* **Historical context**: Contemporary newspaper reporting from the *Buffalo Enterprise* and testimony from people who lived through the event suggested that editors and locals suspected Hamilton’s story was made up. These accounts were part of the evidence that later researchers used to challenge the narrative’s literal accuracy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelks.com">[Travel Kansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelks.com</span><span class="citation-popover-title">Travel Kansas Airship Alert! | KANSAS! Magazine</span><span class="citation-popover-snippet">Travel KansasAirship Alert! | KANSAS! MagazineJune 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+* **Historical context**: Contemporary newspaper reporting from the *Buffalo Enterprise* and testimony from people who lived through the event suggested that editors and locals suspected Hamilton’s story was made up. These accounts were part of the evidence that later researchers used to challenge the narrative’s literal accuracy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelks.com">[Travel Kansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelks.com</span><span class="citation-popover-title">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span><span class="citation-popover-snippet">Travel KansasAirship Alert! &#124; KANSAS! MagazineJune 16, 2022...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
-Taken together, these retrospective accounts — recorded many decades after the fact — offer a consistent counter‑narrative: that the airship heifer story was not a misreported real event but a deliberate tall tale consistent with late‑19th‑century newspaper sensationalism and rural humour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">HowStuffWorksThe 1897 Cow Abduction Hoax | HowStuffWorks...</span></span></span>
-
+Taken together, these retrospective accounts — recorded many decades after the fact — offer a consistent counter‑narrative: that the airship heifer story was not a misreported real event but a deliberate tall tale consistent with late‑19th‑century newspaper sensationalism and rural humour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">The 1897 Cow Abduction Hoax &#124; HowStuffWorks...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0YLFmFCjnqA" title="1896-1897: The Mystery Airships of the Wild West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0YLFmFCjnqA" target="_blank" rel="noopener noreferrer">1896-1897: The Mystery Airships of the Wild West</a></p><p class="youtube-embed-meta">Channel: The Hidden Truth &middot; Views: 973 &middot; Uploaded: August 2022 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0YLFmFCjnqA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0YLFmFCjnqA">Open on YouTube</a></p></div></div></div>
 
@@ -284,15 +280,12 @@ Taken together, these retrospective accounts — recorded many decades after the
 
 The Hamilton story was one of hundreds of “mystery airship” reports circulating across the United States in 1896–97, many of which were dismissed even at the time as hoaxes, misidentifications, or accounts driven by sensational journalism. By the early 20th century — and especially by the 1970s — most historians and researchers treated the entire airship wave as a cultural phenomenon, not a series of verified aerial craft, noting that many stories lacked physical confirmation and were often reprinted with little fact‑checking. The Hamilton case, lacking contemporaneous proof beyond newspaper publication and local reputation claims, fits this pattern.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
 
-
-<img src="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_hamilton_heifer_hoax_2242e5-Illustration-3-light.svg" | relative_url }}" alt="Hamilton claim illustration 3" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_hamilton_heifer_hoax_2242e5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_hamilton_heifer_hoax_2242e5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_hamilton_heifer_hoax_2242e5-Illustration-3-dark.svg" | relative_url }}" alt="Hamilton claim illustration 3" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_hamilton_heifer_hoax_2242e5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_kansas_airship_folkl_433bd6_hamilton_heifer_hoax_2242e5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Assessing Credibility: Folklore vs Physical Evidence
 
-For readers exploring Kansas’s place in early UFO history, the Hamilton heifer airship episode is instructive not because it confirms contact with unknown craft, but because it shows how folklore, local storytelling traditions, and sensational press culture can create enduring legends. The strongest evidence for the claim’s falsity comes not from a single debunking moment but from the absence of independent physical data and the later emergence of credible accounts describing the story’s deliberate invention. While the original narrative can be fascinating to read as a piece of 19th‑century Americana, it has no accepted evidential basis as a genuine aerial encounter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">HowStuffWorksThe 1897 Cow Abduction Hoax | HowStuffWorks...</span></span></span>
-
+For readers exploring Kansas’s place in early UFO history, the Hamilton heifer airship episode is instructive not because it confirms contact with unknown craft, but because it shows how folklore, local storytelling traditions, and sensational press culture can create enduring legends. The strongest evidence for the claim’s falsity comes not from a single debunking moment but from the absence of independent physical data and the later emergence of credible accounts describing the story’s deliberate invention. While the original narrative can be fascinating to read as a piece of 19th‑century Americana, it has no accepted evidential basis as a genuine aerial encounter.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">The 1897 Cow Abduction Hoax &#124; HowStuffWorks...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IBaw2oqVz8w" title="&quot;Mystery Airship&quot; Sightings, 1896 - 1897" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IBaw2oqVz8w" target="_blank" rel="noopener noreferrer">&quot;Mystery Airship&quot; Sightings, 1896 - 1897</a></p><p class="youtube-embed-meta">Channel: Think Anomalous &middot; Views: 182.4K &middot; Uploaded: July 2017 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IBaw2oqVz8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IBaw2oqVz8w">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -380,7 +373,7 @@ For readers exploring Kansas’s place in early UFO history, the Hamilton heifer
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -390,111 +383,36 @@ For readers exploring Kansas’s place in early UFO history, the Hamilton heifer
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-an-airship-really-steal-hamilton-s-heifer-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="did-an-airship-really-steal-hamilton-s-heifer-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRAVEL GERMANY TRANSPORT BOAT AIRSHIP ZEPPELIN PLANE BERLIN POSTER 30X40 CM 12X1"><img src="https://i.ebayimg.com/images/g/v9EAAOSwZyZi4ZXL/s-l225.jpg" alt="Listing image for TRAVEL GERMANY TRANSPORT BOAT AIRSHIP ZEPPELIN PLANE BERLIN POSTER 30X40 CM 12X1" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-an-airship-really-steal-hamilton-s-heifer-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="did-an-airship-really-steal-hamilton-s-heifer-airship-poster" target="_blank" rel="sponsored noopener noreferrer">TRAVEL GERMANY TRANSPORT BOAT AIRSHIP ZEPPELIN PLANE BERLIN POSTER 30X40 CM 12X1</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-an-airship-really-steal-hamilton-s-heifer-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="did-an-airship-really-steal-hamilton-s-heifer-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-an-airship-really-steal-hamilton-s-heifer-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="did-an-airship-really-steal-hamilton-s-heifer-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,15 +420,15 @@ For readers exploring Kansas’s place in early UFO history, the Hamilton heifer
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-an-airship-really-steal-hamilton-s-heifer-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="did-an-airship-really-steal-hamilton-s-heifer-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Travel Airship Zeppelin South America Framed Art Print Picture Mount 12x16 Inch"><img src="https://i.ebayimg.com/images/g/BM0AAOSwMsZdZ51c/s-l225.jpg" alt="Listing image for Travel Airship Zeppelin South America Framed Art Print Picture Mount 12x16 Inch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-an-airship-really-steal-hamilton-s-heifer-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="did-an-airship-really-steal-hamilton-s-heifer-airship-poster" target="_blank" rel="sponsored noopener noreferrer">Travel Airship Zeppelin South America Framed Art Print Picture Mount 12x16 Inch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-an-airship-really-steal-hamilton-s-heifer-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="did-an-airship-really-steal-hamilton-s-heifer-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-an-airship-really-steal-hamilton-s-heifer-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="did-an-airship-really-steal-hamilton-s-heifer-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +436,15 @@ For readers exploring Kansas’s place in early UFO history, the Hamilton heifer
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-an-airship-really-steal-hamilton-s-heifer-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="did-an-airship-really-steal-hamilton-s-heifer-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Art Ad Hindenburg over New York Airship Poster Print"><img src="https://i.ebayimg.com/images/g/StgAAOSwmCVY-c1A/s-l225.jpg" alt="Listing image for Art Ad Hindenburg over New York Airship Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-an-airship-really-steal-hamilton-s-heifer-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="did-an-airship-really-steal-hamilton-s-heifer-airship-poster" target="_blank" rel="sponsored noopener noreferrer">Art Ad Hindenburg over New York Airship Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-an-airship-really-steal-hamilton-s-heifer-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="did-an-airship-really-steal-hamilton-s-heifer-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-an-airship-really-steal-hamilton-s-heifer-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="did-an-airship-really-steal-hamilton-s-heifer-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +452,15 @@ For readers exploring Kansas’s place in early UFO history, the Hamilton heifer
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-an-airship-really-steal-hamilton-s-heifer-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="did-an-airship-really-steal-hamilton-s-heifer-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Steampunk Airship Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/obYAAeSwXUpphiat/s-l225.jpg" alt="Listing image for Steampunk Airship Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-an-airship-really-steal-hamilton-s-heifer-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="did-an-airship-really-steal-hamilton-s-heifer-airship-poster" target="_blank" rel="sponsored noopener noreferrer">Steampunk Airship Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-an-airship-really-steal-hamilton-s-heifer-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="did-an-airship-really-steal-hamilton-s-heifer-airship-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-an-airship-really-steal-hamilton-s-heifer-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="did-an-airship-really-steal-hamilton-s-heifer-airship-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,7 +468,7 @@ For readers exploring Kansas’s place in early UFO history, the Hamilton heifer
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hamilton-claim-did-an-airship-really-steal-hamilton-s-heifer-kansas-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-an-airship-really-steal-hamilton-s-heifer-airship-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster" data-ebay-reference="did-an-airship-really-steal-hamilton-s-heifer-airship-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -627,17 +545,31 @@ For readers exploring Kansas’s place in early UFO history, the Hamilton heifer
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -650,42 +582,73 @@ For readers exploring Kansas’s place in early UFO history, the Hamilton heifer
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -700,12 +663,17 @@ For readers exploring Kansas’s place in early UFO history, the Hamilton heifer
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -716,32 +684,32 @@ For readers exploring Kansas’s place in early UFO history, the Hamilton heifer
 1. <a id="endnote-1"></a>
    Source: science.howstuffworks.com  
    Title: cow abduction  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm](https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HowStuffWorksThe 1897 Cow Abduction Hoax | HowStuffWorks...</p></details>
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1897 Cow Abduction Hoax | HowStuffWorks...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Mystery airship  
-   Link: [https://en.wikipedia.org/wiki/Mystery_airship](https://en.wikipedia.org/wiki/Mystery_airship)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
 
 3. <a id="endnote-3"></a>
    Source: travelks.com  
    Title: Travel Kansas Airship Alert! | KANSAS! Magazine  
-   Link: [https://www.travelks.com/kansas-magazine/articles/post/airship-alert/](https://www.travelks.com/kansas-magazine/articles/post/airship-alert/)  
+   Link: <a href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow">https://www.travelks.com/kansas-magazine/articles/post/airship-alert/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travel KansasAirship Alert! | KANSAS! MagazineJune 16, 2022...</p></details>
    Published: June 16, 2022  
 
 4. <a id="endnote-4"></a>
    Source: creativespirits.net  
    Title: Mystery airship | Creativespirits.net  
-   Link: [https://www.creativespirits.net/mystery-airship/](https://www.creativespirits.net/mystery-airship/)  
+   Link: <a href="https://www.creativespirits.net/mystery-airship/" target="_blank" rel="noopener noreferrer nofollow">https://www.creativespirits.net/mystery-airship/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 14, 2019 — Three slender, 7-foot-tall (2.1 m), apparent extraterrestrials were said to approach from the craft while “emitting a st...</p></details>
    Published: March 14, 2019  
 
 5. <a id="endnote-5"></a>
    Source: revengerists.fandom.com  
    Title: Hamilton, his son and a hired hand  
-   Link: [https://revengerists.fandom.com/wiki/Phantom_Airship](https://revengerists.fandom.com/wiki/Phantom_Airship)  
+   Link: <a href="https://revengerists.fandom.com/wiki/Phantom_Airship" target="_blank" rel="noopener noreferrer nofollow">https://revengerists.fandom.com/wiki/Phantom_Airship</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Airship | The Revengerists Consortium of Stuff Wiki | Fandom* An account by Alexander Hamilton of Leroy, Kansas, supposedly occurred arou...</p></details>
 
 ### Additional References
@@ -749,59 +717,59 @@ For readers exploring Kansas’s place in early UFO history, the Hamilton heifer
 6. <a id="endnote-6"></a>
    Source: thetheory.tripod.com  
    Title: which stated that the Lord Commissioner of Mars had sent one of his e  
-   Link: [https://thetheory.tripod.com/believe/airship.htm](https://thetheory.tripod.com/believe/airship.htm)  
+   Link: <a href="https://thetheory.tripod.com/believe/airship.htm" target="_blank" rel="noopener noreferrer nofollow">https://thetheory.tripod.com/believe/airship.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wave of 1896/97AIRSHIP WAVE OF 1896/97 USA 1896 W.A The Sacramento Bee, a local newspaper printed a letter from an alleged Martian known...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: spaceshipsofezekiel.com  
-   Link: [https://www.spaceshipsofezekiel.com/html/misc-kansas-airship-cownapping.html](https://www.spaceshipsofezekiel.com/html/misc-kansas-airship-cownapping.html)  
+   Link: <a href="https://www.spaceshipsofezekiel.com/html/misc-kansas-airship-cownapping.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceshipsofezekiel.com/html/misc-kansas-airship-cownapping.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and unbelievers whenever the truth or anything bordering on the improbable is presented, and knowi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=DoJUsaTknNw](http://www.youtube.com/watch?v=DoJUsaTknNw)  
+   Link: <a href="http://www.youtube.com/watch?v=DoJUsaTknNw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DoJUsaTknNw</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret Origin of the Mystery Airships! (Phantom Airships, UFO, 1897) - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: crystalinks.com  
    Title: These occupants were said to be human, thoug  
-   Link: [https://www.crystalinks.com/mysteryairships](https://www.crystalinks.com/mysteryairships)  
+   Link: <a href="https://www.crystalinks.com/mysteryairships" target="_blank" rel="noopener noreferrer nofollow">https://www.crystalinks.com/mysteryairships</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Airships - CrystalinksSome accounts during this wave of airship reports claim that occupants were visible on some airships, and e...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: bmupgrade.wixsite.com  
    Title: Hamilton, his son and a tenant witn  
-   Link: [https://bmupgrade.wixsite.com/mysite/ufo-uap](https://bmupgrade.wixsite.com/mysite/ufo-uap)  
+   Link: <a href="https://bmupgrade.wixsite.com/mysite/ufo-uap" target="_blank" rel="noopener noreferrer nofollow">https://bmupgrade.wixsite.com/mysite/ufo-uap</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO-UAP | BMUpgrade* An account by Alexander Hamilton of Leroy, Kansas, supposedly occurred around April 19, 1897, and was published in t...</p></details>
    Published: April 19, 1897  
 
 11. <a id="endnote-11"></a>
    Source: mytour.vn  
    Title: the 1897 cow abduction hoax mytour  
-   Link: [https://mytour.vn/en/blog/lifestyle/the-1897-cow-abduction-hoax-mytour.html/](https://mytour.vn/en/blog/lifestyle/the-1897-cow-abduction-hoax-mytour.html/)  
+   Link: <a href="https://mytour.vn/en/blog/lifestyle/the-1897-cow-abduction-hoax-mytour.html/" target="_blank" rel="noopener noreferrer nofollow">https://mytour.vn/en/blog/lifestyle/the-1897-cow-abduction-hoax-mytour.html/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How did he manage to deceive so many for decades, even getting the story published in the local paper?April 15, 2026 — THE 1897 COW ABDUC...</p></details>
    Published: April 15, 2026  
 
 12. <a id="endnote-12"></a>
    Source: articlesfactory.com  
    Title: Aviation History, Part III  
-   Link: [https://www.articlesfactory.com/articles/technology/aviation-history-part-iii.html](https://www.articlesfactory.com/articles/technology/aviation-history-part-iii.html)  
+   Link: <a href="https://www.articlesfactory.com/articles/technology/aviation-history-part-iii.html" target="_blank" rel="noopener noreferrer nofollow">https://www.articlesfactory.com/articles/technology/aviation-history-part-iii.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Louis Post-Dispatch published a story reporting that one W.H. Hopkins encountered a grounded airship about 20 feet in length and 8 feet i...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: tall-white-aliens.com  
-   Link: [https://www.tall-white-aliens.com/the-1897-cow-abduction-hoax/](https://www.tall-white-aliens.com/the-1897-cow-abduction-hoax/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| &quot;Tall-White&quot; aliensTHE 1897 COW ABDUCTION HOAX Image On April 23, 1897, a Kansas newspaper, the Yates Center Farmer’s Advocate, reporte...</p></details>
+   Link: <a href="https://www.tall-white-aliens.com/the-1897-cow-abduction-hoax/" target="_blank" rel="noopener noreferrer nofollow">https://www.tall-white-aliens.com/the-1897-cow-abduction-hoax/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Tall-White&quot; aliensTHE 1897 COW ABDUCTION HOAX Image On April 23, 1897, a Kansas newspaper, the Yates Center Farmer’s Advocate, reporte...</p></details>
    Published: April 23, 1897  
 
 14. <a id="endnote-14"></a>
    Source: arewealoneinthisuniverse.fandom.com  
    Title: 1896 1897 UFO Wave  
-   Link: [https://arewealoneinthisuniverse.fandom.com/wiki/1896-1897_UFO_Wave](https://arewealoneinthisuniverse.fandom.com/wiki/1896-1897_UFO_Wave)  
+   Link: <a href="https://arewealoneinthisuniverse.fandom.com/wiki/1896-1897_UFO_Wave" target="_blank" rel="noopener noreferrer nofollow">https://arewealoneinthisuniverse.fandom.com/wiki/1896-1897_UFO_Wave</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fandom.com1896-1897 UFO Wave | Are_We_Alone Wiki | FandomCalifornia Cities reporting sightings after November 23 included Red Bluff, Redd...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: weirddarkness.com  
    Title: The Phantom Airships: America's First UFO Wave  
-   Link: [https://weirddarkness.com/americas-first-ufo/](https://weirddarkness.com/americas-first-ufo/)  
+   Link: <a href="https://weirddarkness.com/americas-first-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://weirddarkness.com/americas-first-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On the night of March 27-28, 1897, Topeka-area residents noted a mysterious object in the sk...</p></details>

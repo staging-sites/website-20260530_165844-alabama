@@ -59,43 +59,12 @@
     return body.classList.contains("page-article") || Boolean(document.querySelector(".article-body"));
   }
 
-  function scrollContentPageToTop() {
-    if (!isContentPageScrollResetEligible()) {
-      return;
-    }
-    if (typeof window.scrollTo === "function") {
-      window.scrollTo(0, 0);
-      return;
-    }
-    if (document.documentElement) {
-      document.documentElement.scrollTop = 0;
-    }
-    if (document.body) {
-      document.body.scrollTop = 0;
-    }
-  }
-
-  function scheduleContentPageTopReset() {
-    scrollContentPageToTop();
-    if (typeof window.requestAnimationFrame === "function") {
-      window.requestAnimationFrame(scrollContentPageToTop);
-    }
-    window.setTimeout(scrollContentPageToTop, 80);
-  }
-
   function initContentPageScrollReset() {
     if (!isContentPageScrollResetEligible()) {
       return;
     }
-    if (window.history && "scrollRestoration" in window.history) {
-      try {
-        window.history.scrollRestoration = "manual";
-      } catch (err) {
-        // Ignore browsers that expose but do not allow this setting.
-      }
-    }
-    scheduleContentPageTopReset();
-    window.addEventListener("pageshow", scheduleContentPageTopReset);
+    // Fresh navigations naturally start at the top; forcing it here can
+    // interrupt readers after slow-loading assets or bfcache restores.
   }
 
   function getUiString(name, fallback) {
@@ -319,19 +288,26 @@
     };
 
     var controlsRoot = nav.parentElement || sidebarRoot;
-    var actionsRoot = controlsRoot.querySelector(".sidebar-tree-actions");
-    var expandAllButton = controlsRoot.querySelector("[data-sidebar-expand-all]");
-    var collapseAllButton = controlsRoot.querySelector("[data-sidebar-collapse-all]");
+    var bulkActionTopThreshold = 10;
+    var actionsRoots = controlsRoot.querySelectorAll(".sidebar-tree-actions");
+    var expandAllButtons = controlsRoot.querySelectorAll("[data-sidebar-expand-all]");
+    var collapseAllButtons = controlsRoot.querySelectorAll("[data-sidebar-collapse-all]");
+    var showTopBulkActions = nav.querySelectorAll(".sidebar-link").length > bulkActionTopThreshold;
     var actionableItems = Array.prototype.filter.call(items, function (item) {
       return !(item && item.hasAttribute && item.hasAttribute("data-sidebar-lock-open"));
     });
     var hasFlexibleExpansion = actionableItems.length > 0;
-    var updateBulkActionButton = function (button, isActive) {
-      if (!button) {
+    var updateBulkActionButtons = function (buttons, isActive) {
+      if (!buttons || !buttons.length) {
         return;
       }
-      button.classList.toggle("is-active", Boolean(isActive));
-      button.setAttribute("aria-pressed", isActive ? "true" : "false");
+      Array.prototype.forEach.call(buttons, function (button) {
+        if (!button) {
+          return;
+        }
+        button.classList.toggle("is-active", Boolean(isActive));
+        button.setAttribute("aria-pressed", isActive ? "true" : "false");
+      });
     };
     var updateBulkActionState = function () {
       if (!hasFlexibleExpansion) {
@@ -343,8 +319,8 @@
       var allCollapsed = actionableItems.every(function (item) {
         return item && item.classList.contains("is-collapsed");
       });
-      updateBulkActionButton(expandAllButton, allExpanded);
-      updateBulkActionButton(collapseAllButton, allCollapsed);
+      updateBulkActionButtons(expandAllButtons, allExpanded);
+      updateBulkActionButtons(collapseAllButtons, allCollapsed);
     };
 
     var getSidebarLevel = function (item) {
@@ -449,26 +425,27 @@
       }
     }
 
-    if (actionsRoot) {
-      actionsRoot.hidden = !hasFlexibleExpansion;
-    }
-    if (expandAllButton) {
-      expandAllButton.hidden = !hasFlexibleExpansion;
-      expandAllButton.disabled = !hasFlexibleExpansion;
-      expandAllButton.setAttribute("aria-pressed", "false");
-      expandAllButton.addEventListener("click", function () {
+    Array.prototype.forEach.call(actionsRoots, function (actionsRoot) {
+      var isTopActions = actionsRoot && actionsRoot.hasAttribute("data-sidebar-tree-actions-top");
+      actionsRoot.hidden = !hasFlexibleExpansion || (isTopActions && !showTopBulkActions);
+    });
+    Array.prototype.forEach.call(expandAllButtons, function (button) {
+      button.hidden = !hasFlexibleExpansion;
+      button.disabled = !hasFlexibleExpansion;
+      button.setAttribute("aria-pressed", "false");
+      button.addEventListener("click", function () {
         setAllExpandedWithPersistence(true, true);
       });
-    }
+    });
 
-    if (collapseAllButton) {
-      collapseAllButton.hidden = !hasFlexibleExpansion;
-      collapseAllButton.disabled = !hasFlexibleExpansion;
-      collapseAllButton.setAttribute("aria-pressed", "false");
-      collapseAllButton.addEventListener("click", function () {
+    Array.prototype.forEach.call(collapseAllButtons, function (button) {
+      button.hidden = !hasFlexibleExpansion;
+      button.disabled = !hasFlexibleExpansion;
+      button.setAttribute("aria-pressed", "false");
+      button.addEventListener("click", function () {
         setAllExpandedWithPersistence(false, true);
       });
-    }
+    });
     updateBulkActionState();
   }
 
@@ -495,29 +472,25 @@
     return normalized ? normalized.split(/\s+/).filter(Boolean) : [];
   }
 
-  function matchesSearchQuery(query, haystack) {
-    var normalizedQuery = normalizeSearchText(query);
+  function matchesNormalizedSearchQuery(normalizedQuery, normalizedHaystack, haystackTokens) {
     if (!normalizedQuery) {
       return true;
     }
-
-    var normalizedHaystack = normalizeSearchText(haystack);
     if (!normalizedHaystack) {
       return false;
     }
-
     if (normalizedHaystack.indexOf(normalizedQuery) !== -1) {
       return true;
     }
 
     var queryTokens = getSearchTokens(normalizedQuery);
-    var haystackTokens = getSearchTokens(normalizedHaystack);
-    if (!queryTokens.length || !haystackTokens.length) {
+    var targetTokens = haystackTokens && haystackTokens.length ? haystackTokens : getSearchTokens(normalizedHaystack);
+    if (!queryTokens.length || !targetTokens.length) {
       return false;
     }
 
     return queryTokens.every(function (queryToken) {
-      return haystackTokens.some(function (haystackToken) {
+      return targetTokens.some(function (haystackToken) {
         if (haystackToken === queryToken || haystackToken.indexOf(queryToken) === 0) {
           return true;
         }
@@ -530,6 +503,47 @@
         return false;
       });
     });
+  }
+
+  function matchesSearchQuery(query, haystack) {
+    return matchesNormalizedSearchQuery(normalizeSearchText(query), normalizeSearchText(haystack), null);
+  }
+
+  var liveSearchRenderDelayMs = 180;
+  var searchPageResultRenderLimit = 60;
+  var searchPageBackToTopThreshold = 24;
+
+  function createSearchRenderScheduler(renderNow, options) {
+    var settings = options || {};
+    var delayMs = Number(settings.delayMs || liveSearchRenderDelayMs) || liveSearchRenderDelayMs;
+    var pendingTimer = 0;
+    var cancel = function () {
+      if (pendingTimer) {
+        window.clearTimeout(pendingTimer);
+        pendingTimer = 0;
+      }
+    };
+    return {
+      schedule: function (renderOptions) {
+        cancel();
+        if (settings.shouldRenderImmediately && settings.shouldRenderImmediately(renderOptions)) {
+          renderNow(renderOptions || {});
+          return;
+        }
+        if (settings.onPending) {
+          settings.onPending(renderOptions || {});
+        }
+        pendingTimer = window.setTimeout(function () {
+          pendingTimer = 0;
+          renderNow(settings.getDelayedOptions ? settings.getDelayedOptions(renderOptions || {}) : (renderOptions || {}));
+        }, delayMs);
+      },
+      flush: function (renderOptions) {
+        cancel();
+        renderNow(renderOptions || {});
+      },
+      cancel: cancel
+    };
   }
 
   function initSidebarFilterForNav(nav) {
@@ -588,7 +602,7 @@
         ? (getUiString("search-this-page", "Search this page") + "...")
         : getUiString("search-site-placeholder", "Search title, summary, or page text..."));
     };
-    var renderSidebarSearchResult = function (record, query, mode) {
+    var renderSidebarSearchResult = function (record, query, mode, hitCount) {
       var href = buildUrlWithSearchHighlight(record.url || "#", query);
       var title = mode === "page" ? (record.sectionTitle || getUiString("overview", "Overview")) : record.title;
       var kicker = mode === "page"
@@ -597,10 +611,15 @@
       var snippetSource = mode === "page"
         ? [record.sectionTitle, record.text].filter(Boolean).join(" ")
         : [record.title, record.description, record.text, record.breadcrumb].filter(Boolean).join(" ");
+      var numericHitCount = Math.max(0, Number(hitCount || 0) || 0);
+      var hitCountPill = mode !== "page" && numericHitCount > 0
+        ? '<span class="sidebar-filter-result-hit-count">' + escapeHtml(numericHitCount === 1 ? "1 hit" : String(numericHitCount) + " hits") + "</span>"
+        : "";
       return ''
         + '<a class="sidebar-filter-result-item" href="' + escapeHtml(href) + '">'
         + '<span class="sidebar-filter-result-kicker">' + escapeHtml(kicker || getUiString("overview", "Overview")) + "</span>"
         + '<span class="sidebar-filter-result-title">' + escapeHtml(title || getUiString("overview", "Overview")) + "</span>"
+        + hitCountPill
         + '<span class="sidebar-filter-result-excerpt">' + buildHighlightedSnippet(snippetSource, query, 140) + "</span>"
         + "</a>";
     };
@@ -622,7 +641,7 @@
         return;
       }
       resultsContainer.innerHTML = ranked.slice(0, 8).map(function (item) {
-        return renderSidebarSearchResult(item.page, query, activeSearchMode);
+        return renderSidebarSearchResult(item.page, query, activeSearchMode, item.hitCount);
       }).join("");
     };
     var applyFilter = function () {
@@ -659,16 +678,7 @@
         currentPageSections = getCurrentPageSearchSections();
       }
       var source = activeSearchMode === "page" ? currentPageSections : preparedPages;
-      var ranked = source.map(function (record) {
-        return {
-          page: record,
-          score: activeSearchMode === "page" ? scoreCurrentPageSection(record, query) : scoreSiteSearchPage(record, query)
-        };
-      }).filter(function (item) {
-        return item.score > 0;
-      }).sort(function (left, right) {
-        return right.score - left.score;
-      });
+      var ranked = rankSearchRecords(source, query, activeSearchMode);
       latestRanked = ranked;
       renderResults(ranked, query);
       if (status) {
@@ -688,16 +698,30 @@
         clearButton.hidden = false;
       }
     };
+    var scheduledApplyFilter = createSearchRenderScheduler(applyFilter, {
+      shouldRenderImmediately: function () {
+        return !String(input.value || "").trim();
+      },
+      onPending: function () {
+        if (status && String(input.value || "").trim()) {
+          status.setAttribute("data-state", "active");
+          status.textContent = "Searching...";
+        }
+      }
+    });
     input.addEventListener("focus", function () {
       if (activeSearchMode !== "page" && !isSiteSearchIndexLoaded()) {
         refreshAllPageResultsAfterIndexLoad(input.value);
       }
     });
-    input.addEventListener("input", applyFilter);
+    input.addEventListener("input", function () {
+      scheduledApplyFilter.schedule();
+    });
     input.addEventListener("keydown", function (event) {
       var key = String(event.key || "");
       if (key === "Enter" && String(input.value || "").trim()) {
         event.preventDefault();
+        scheduledApplyFilter.flush();
         if (activeSearchMode === "page" && latestRanked.length) {
           window.location.href = buildUrlWithSearchHighlight(latestRanked[0].page.url || window.location.href, input.value);
         } else {
@@ -707,14 +731,14 @@
       }
       if (key === "Escape" && String(input.value || "").trim()) {
         input.value = "";
-        applyFilter();
+        scheduledApplyFilter.flush();
         input.focus();
       }
     });
     if (clearButton) {
       clearButton.addEventListener("click", function () {
         input.value = "";
-        applyFilter();
+        scheduledApplyFilter.flush();
         input.focus();
       });
     }
@@ -728,7 +752,7 @@
         if (activeSearchMode !== "page" && !isSiteSearchIndexLoaded()) {
           refreshAllPageResultsAfterIndexLoad(input.value);
         }
-        applyFilter();
+        scheduledApplyFilter.flush();
         input.focus();
       });
     }
@@ -1234,6 +1258,8 @@
       var description = trimSearchText(page.description || page.summary || page.hero_summary || "", 260);
       var breadcrumb = collapseSearchText(page.breadcrumb || page.section || page.parent_title || "");
       var text = collapseSearchText(page.text || page.search_text || page.body || "");
+      var searchBlob = collapseSearchText([title, breadcrumb, description, text].join(" "));
+      var normalizedSearchBlob = normalizeSearchText(searchBlob);
       prepared.push({
         title: title,
         url: url,
@@ -1242,7 +1268,13 @@
         text: text,
         level: Number(page.level || 0) || 0,
         _index: index,
-        _searchBlob: collapseSearchText([title, breadcrumb, description, text].join(" "))
+        _searchBlob: searchBlob,
+        _searchBlobNormalized: normalizedSearchBlob,
+        _searchTokens: normalizedSearchBlob ? normalizedSearchBlob.split(/\s+/).filter(Boolean) : [],
+        _searchTitle: normalizeSearchText(title),
+        _searchDescription: normalizeSearchText(description),
+        _searchBreadcrumb: normalizeSearchText(breadcrumb),
+        _searchText: normalizeSearchText(text)
       });
     });
     return prepared;
@@ -1256,13 +1288,13 @@
     if (!normalizedQuery) {
       return Math.max(1, 20 - Math.max(0, Number(page.level || 0))) - (page._index || 0) / 1000;
     }
-    if (!matchesSearchQuery(normalizedQuery, page._searchBlob || "")) {
+    if (!matchesNormalizedSearchQuery(normalizedQuery, page._searchBlobNormalized || normalizeSearchText(page._searchBlob || ""), page._searchTokens)) {
       return 0;
     }
-    var title = normalizeSearchText(page.title);
-    var description = normalizeSearchText(page.description);
-    var breadcrumb = normalizeSearchText(page.breadcrumb);
-    var body = normalizeSearchText(page.text);
+    var title = page._searchTitle || normalizeSearchText(page.title);
+    var description = page._searchDescription || normalizeSearchText(page.description);
+    var breadcrumb = page._searchBreadcrumb || normalizeSearchText(page.breadcrumb);
+    var body = page._searchText || normalizeSearchText(page.text);
     var score = 1;
     if (title === normalizedQuery) {
       score += 100;
@@ -1298,6 +1330,57 @@
     score += Math.max(0, 8 - Math.max(0, Number(page.level || 0)));
     score -= (page._index || 0) / 10000;
     return score;
+  }
+
+  function countSearchPageHits(page, query) {
+    if (!page) {
+      return 0;
+    }
+    var normalizedQuery = normalizeSearchText(query);
+    if (!normalizedQuery) {
+      return 0;
+    }
+    var normalizedBlob = page._searchBlobNormalized || normalizeSearchText(page._searchBlob || "");
+    if (!normalizedBlob) {
+      return 0;
+    }
+    var tokens = getSearchTokens(normalizedQuery);
+    if (!tokens.length) {
+      return 0;
+    }
+    if (tokens.length > 1 && normalizedBlob.indexOf(normalizedQuery) !== -1) {
+      var phraseCount = 0;
+      var searchFrom = 0;
+      var phraseIndex = normalizedBlob.indexOf(normalizedQuery, searchFrom);
+      while (phraseIndex !== -1) {
+        phraseCount += 1;
+        searchFrom = phraseIndex + normalizedQuery.length;
+        phraseIndex = normalizedBlob.indexOf(normalizedQuery, searchFrom);
+      }
+      return phraseCount;
+    }
+    var searchTokens = page._searchTokens && page._searchTokens.length
+      ? page._searchTokens
+      : normalizedBlob.split(/\s+/).filter(Boolean);
+    var seenQueryTokens = Object.create(null);
+    var total = 0;
+    Array.prototype.forEach.call(tokens, function (queryToken) {
+      if (!queryToken || seenQueryTokens[queryToken]) {
+        return;
+      }
+      seenQueryTokens[queryToken] = true;
+      Array.prototype.forEach.call(searchTokens, function (searchToken) {
+        if (searchToken === queryToken) {
+          total += 1;
+        }
+      });
+    });
+    return total;
+  }
+
+  function getSearchHitCountBoost(hitCount) {
+    var cappedHitCount = Math.min(10, Math.max(0, Number(hitCount || 0) || 0));
+    return cappedHitCount * 2;
   }
 
   function getSiteSearchExcerpt(page, query) {
@@ -1413,7 +1496,30 @@
     return score;
   }
 
-  function renderSiteSearchResultRecord(record, query, mode) {
+  function rankSearchRecords(source, query, mode) {
+    var searchMode = mode === "page" ? "page" : "all";
+    return (source || []).map(function (record) {
+      var hitCount = searchMode === "page" ? 0 : countSearchPageHits(record, query);
+      var score = searchMode === "page" ? scoreCurrentPageSection(record, query) : scoreSiteSearchPage(record, query);
+      return {
+        page: record,
+        score: score > 0 ? score + getSearchHitCountBoost(hitCount) : score,
+        hitCount: hitCount
+      };
+    }).filter(function (record) {
+      return record.score > 0;
+    }).sort(function (left, right) {
+      if (right.score !== left.score) {
+        return right.score - left.score;
+      }
+      if (right.hitCount !== left.hitCount) {
+        return right.hitCount - left.hitCount;
+      }
+      return String(left.page && left.page.title || "").localeCompare(String(right.page && right.page.title || ""));
+    });
+  }
+
+  function renderSiteSearchResultRecord(record, query, mode, hitCount) {
     var href = buildUrlWithSearchHighlight(record.url || "#", query);
     var title = mode === "page" ? (record.sectionTitle || getUiString("overview", "Overview")) : record.title;
     var kicker = mode === "page"
@@ -1422,11 +1528,19 @@
     var snippetSource = mode === "page"
       ? [record.sectionTitle, record.text].filter(Boolean).join(" ")
       : [record.title, record.description, record.text, record.breadcrumb].filter(Boolean).join(" ");
+    var numericHitCount = Math.max(0, Number(hitCount || 0) || 0);
+    var hitLabel = numericHitCount === 1 ? "1 hit" : String(numericHitCount) + " hits";
+    var hitCountPill = numericHitCount > 0
+      ? '<span class="site-search-result-hit-count">' + escapeHtml(hitLabel) + "</span>"
+      : "";
     return ""
       + '<a class="site-search-result" href="' + escapeHtml(href) + '">'
       + '<span class="site-search-result-kicker">' + escapeHtml(kicker || getUiString("overview", "Overview")) + "</span>"
       + '<span class="site-search-result-title">' + escapeHtml(title || getUiString("overview", "Overview")) + "</span>"
+      + '<span class="site-search-result-meta-row">'
       + '<span class="site-search-result-meta">' + escapeHtml(getSearchMatchKind(record, query)) + "</span>"
+      + hitCountPill
+      + "</span>"
       + '<span class="site-search-result-excerpt">' + buildHighlightedSnippet(snippetSource, query, 230) + "</span>"
       + "</a>";
   }
@@ -1573,7 +1687,11 @@
         preparedPages = null;
         preparedPagesIsFallback = false;
         if (activeSearchMode !== "page" && (!input || String(input.value || "").trim() === String(queryAtRequestTime || "").trim())) {
-          renderResults();
+          if (scheduledRenderResults) {
+            scheduledRenderResults.flush();
+          } else {
+            renderResults();
+          }
         }
       }).catch(function () {
         // Search remains usable with local fallback records if the full index cannot be fetched.
@@ -1627,12 +1745,7 @@
         return;
       }
       var source = activeSearchMode === "page" ? currentPageSections : preparedPages;
-      var ranked = source.map(function (record) {
-        return {
-          page: record,
-          score: activeSearchMode === "page" ? scoreCurrentPageSection(record, query) : scoreSiteSearchPage(record, query)
-        };
-      }).filter(function (record) { return record.score > 0; }).sort(function (left, right) { return right.score - left.score; });
+      var ranked = rankSearchRecords(source, query, activeSearchMode);
 
       if (!ranked.length) {
         var emptyResult = activeSearchMode === "page"
@@ -1647,9 +1760,20 @@
         count: String(ranked.length)
       });
       results.innerHTML = ranked.slice(0, 24).map(function (record) {
-        return renderSiteSearchResultRecord(record.page, query, activeSearchMode === "page" ? "page" : "all");
+        return renderSiteSearchResultRecord(record.page, query, activeSearchMode === "page" ? "page" : "all", record.hitCount);
       }).join("");
     };
+
+    var scheduledRenderResults = createSearchRenderScheduler(renderResults, {
+      shouldRenderImmediately: function () {
+        return !input || !String(input.value || "").trim();
+      },
+      onPending: function () {
+        if (status && String(input.value || "").trim()) {
+          status.textContent = "Searching...";
+        }
+      }
+    });
 
     var closeSearch = function () {
       if (!overlay || overlay.hidden) {
@@ -1772,16 +1896,20 @@
       if (form) {
         form.addEventListener("submit", function (event) {
           event.preventDefault();
+          scheduledRenderResults.cancel();
           if (navigateToSearchResultsPage(input ? input.value : "")) {
             closeSearch();
           }
         });
       }
       if (input) {
-        input.addEventListener("input", renderResults);
+        input.addEventListener("input", function () {
+          scheduledRenderResults.schedule();
+        });
         input.addEventListener("keydown", function (event) {
           if (String(event.key || "") === "Escape") {
             event.preventDefault();
+            scheduledRenderResults.cancel();
             closeSearch();
           }
         });
@@ -1796,7 +1924,7 @@
           if (activeSearchMode !== "page" && !isSiteSearchIndexLoaded()) {
             refreshModalResultsAfterIndexLoad(input ? input.value : "");
           }
-          renderResults();
+          scheduledRenderResults.flush();
           if (input && typeof input.focus === "function") {
             input.focus();
           }
@@ -1832,7 +1960,7 @@
       overlay.setAttribute("aria-hidden", "false");
       body.classList.add("site-search-open");
       setTriggerState(true);
-      renderResults();
+      scheduledRenderResults.flush();
       window.setTimeout(function () {
         if (input && typeof input.focus === "function") {
           input.focus();
@@ -1873,11 +2001,15 @@
     var status = root.querySelector("[data-search-page-status]");
     var results = root.querySelector("[data-search-page-results]");
     var form = root.querySelector("[data-search-page-form]");
+    var backToTopButton = root.querySelector("[data-search-page-back-to-top]");
     if (!input || !status || !results) {
       return;
     }
     var preparedPages = prepareSiteSearchPages();
     var preparedPagesIsFallback = !isSiteSearchIndexLoaded();
+    var latestSearchPageQuery = "";
+    var latestSearchPageRanked = [];
+    var visibleSearchPageResultLimit = searchPageResultRenderLimit;
 
     var setUrlQuery = function (query) {
       if (!window.history || typeof window.history.replaceState !== "function") {
@@ -1891,6 +2023,22 @@
       }
     };
 
+    var renderSearchPageResultBatch = function (ranked, query) {
+      var visibleLimit = Math.min(visibleSearchPageResultLimit, ranked.length);
+      status.setAttribute("data-state", "active");
+      status.textContent = ranked.length > visibleLimit
+        ? "Showing first " + String(visibleLimit) + " of " + String(ranked.length) + "."
+        : "Showing " + String(ranked.length) + " of " + String(ranked.length) + ".";
+      results.innerHTML = ranked.slice(0, visibleLimit).map(function (record) {
+        return renderSiteSearchResultRecord(record.page, query, "all", record.hitCount);
+      }).join("") + (ranked.length > visibleLimit
+        ? '<button class="site-search-more-button" type="button" data-search-page-show-more>Show more</button>'
+        : "");
+      if (backToTopButton) {
+        backToTopButton.hidden = ranked.length <= searchPageBackToTopThreshold;
+      }
+    };
+
     var renderSearchPageResults = function (options) {
       var settings = options || {};
       var query = String(input.value || "").trim();
@@ -1900,37 +2048,56 @@
       if (!query) {
         status.setAttribute("data-state", "default");
         status.textContent = getUiString("search-empty-hint", "Type to search every page on this site.");
-        results.innerHTML = '<p class="site-search-empty">' + escapeHtml(getUiString("search-empty-hint", "Type to search every page on this site.")) + "</p>";
+        results.innerHTML = "";
+        if (backToTopButton) {
+          backToTopButton.hidden = true;
+        }
+        latestSearchPageQuery = "";
+        latestSearchPageRanked = [];
+        visibleSearchPageResultLimit = searchPageResultRenderLimit;
         return;
       }
 
-      var ranked = preparedPages.map(function (record) {
-        return {
-          page: record,
-          score: scoreSiteSearchPage(record, query)
-        };
-      }).filter(function (record) {
-        return record.score > 0;
-      }).sort(function (left, right) {
-        return right.score - left.score;
-      });
+      if (query !== latestSearchPageQuery) {
+        visibleSearchPageResultLimit = searchPageResultRenderLimit;
+      }
+      var ranked = rankSearchRecords(preparedPages, query, "all");
+      latestSearchPageQuery = query;
+      latestSearchPageRanked = ranked;
 
       if (!ranked.length) {
         var emptyResult = getUiString("no-search-results", "No pages match this search.");
         status.setAttribute("data-state", "empty");
         status.textContent = emptyResult;
         results.innerHTML = '<p class="site-search-empty">' + escapeHtml(emptyResult) + "</p>";
+        if (backToTopButton) {
+          backToTopButton.hidden = true;
+        }
+        visibleSearchPageResultLimit = searchPageResultRenderLimit;
         return;
       }
 
-      status.setAttribute("data-state", "active");
-      status.textContent = formatUiString("search-results-count-template", "{count} results", {
-        count: String(ranked.length)
-      });
-      results.innerHTML = ranked.map(function (record) {
-        return renderSiteSearchResultRecord(record.page, query, "all");
-      }).join("");
+      renderSearchPageResultBatch(ranked, query);
     };
+
+    var scheduledSearchPageResults = createSearchRenderScheduler(renderSearchPageResults, {
+      shouldRenderImmediately: function () {
+        return !String(input.value || "").trim();
+      },
+      onPending: function (options) {
+        var query = String(input.value || "").trim();
+        if (options && options.syncUrl) {
+          setUrlQuery(query);
+        }
+        if (query) {
+          status.setAttribute("data-state", "active");
+          status.textContent = "Searching...";
+        }
+      },
+      getDelayedOptions: function () {
+        return { syncUrl: false };
+      }
+    });
 
     try {
       var params = new URLSearchParams(window.location.search || "");
@@ -1946,7 +2113,7 @@
       loadSiteSearchIndex().then(function () {
         preparedPages = prepareSiteSearchPages();
         preparedPagesIsFallback = false;
-        renderSearchPageResults({ syncUrl: false });
+        scheduledSearchPageResults.schedule({ syncUrl: false });
       }).catch(function () {
         renderSearchPageResults({ syncUrl: false });
         status.setAttribute("data-state", "empty");
@@ -1955,12 +2122,23 @@
     };
 
     input.addEventListener("input", function () {
-      renderSearchPageResults({ syncUrl: true });
+      scheduledSearchPageResults.schedule({ syncUrl: true });
+    });
+    results.addEventListener("click", function (event) {
+      var button = event.target && event.target.closest ? event.target.closest("[data-search-page-show-more]") : null;
+      if (!button || !results.contains(button) || !latestSearchPageRanked.length) {
+        return;
+      }
+      visibleSearchPageResultLimit = Math.min(
+        latestSearchPageRanked.length,
+        visibleSearchPageResultLimit + searchPageResultRenderLimit
+      );
+      renderSearchPageResultBatch(latestSearchPageRanked, latestSearchPageQuery);
     });
     if (form) {
       form.addEventListener("submit", function (event) {
         event.preventDefault();
-        renderSearchPageResults({ syncUrl: true });
+        scheduledSearchPageResults.flush({ syncUrl: true });
       });
     }
     if (String(input.value || "").trim() && preparedPagesIsFallback) {
@@ -3150,6 +3328,19 @@
         return String((node && (node.full_label || node.display_label || node.label)) || "Untitled");
       }
 
+      function normalizeCardTitleForCompare(value) {
+        return String(value || "").replace(/\s+/g, " ").trim().toLowerCase();
+      }
+
+      function getSecondaryCardTitle(node) {
+        var fullLabel = getFullLabel(node).replace(/\s+/g, " ").trim();
+        var displayLabel = getDisplayLabel(node).replace(/\s+/g, " ").trim();
+        if (!fullLabel || normalizeCardTitleForCompare(fullLabel) === normalizeCardTitleForCompare(displayLabel)) {
+          return "";
+        }
+        return fullLabel;
+      }
+
       function getNodeImage(node) {
         return String((node && node.image) || "").trim();
       }
@@ -3357,6 +3548,11 @@
 
         var content = makeNode("span", "ct-node-content");
         content.appendChild(makeNode("span", "ct-node-label", getDisplayLabel(node)));
+
+        var secondaryTitle = getSecondaryCardTitle(node);
+        if (secondaryTitle) {
+          content.appendChild(makeNode("span", "ct-node-title-full", secondaryTitle));
+        }
 
         var summary = getNodeSummary(node);
         if (summary) {
@@ -3611,6 +3807,10 @@
     }
     var preparedHomePages = null;
     var preparedHomePagesIsFallback = false;
+    var latestHomeFilterQuery = "";
+    var latestHomeFilterRanked = [];
+    var latestHomeFilterTotal = 0;
+    var visibleHomeFilterResultLimit = searchPageResultRenderLimit;
     var allDisclosures = document.querySelectorAll("[data-home-disclosure]");
     var pathParts = normalizePath(window.location.pathname).split("/").filter(Boolean);
     var siteScope = pathParts.length ? pathParts[0] : "root";
@@ -3752,15 +3952,41 @@
       return preparedHomePages;
     };
 
-    var renderHomeSearchResult = function (record, query) {
+    var renderHomeSearchResult = function (record, query, hitCount) {
       var snippetSource = [record.title, record.description, record.text, record.breadcrumb].filter(Boolean).join(" ");
+      var numericHitCount = Math.max(0, Number(hitCount || 0) || 0);
+      var hitCountPill = numericHitCount > 0
+        ? '<span class="site-search-result-hit-count">' + escapeHtml(numericHitCount === 1 ? "1 hit" : String(numericHitCount) + " hits") + "</span>"
+        : "";
       return ""
         + '<a class="site-search-result home-filter-result" href="' + escapeHtml(buildUrlWithSearchHighlight(record.url || "#", query)) + '">'
         + '<span class="site-search-result-kicker">' + escapeHtml(record.breadcrumb || getUiString("overview", "Overview")) + "</span>"
         + '<span class="site-search-result-title">' + escapeHtml(record.title || getUiString("overview", "Overview")) + "</span>"
+        + '<span class="site-search-result-meta-row">'
         + '<span class="site-search-result-meta">' + escapeHtml(getSearchMatchKind(record, query)) + "</span>"
+        + hitCountPill
+        + "</span>"
         + '<span class="site-search-result-excerpt">' + buildHighlightedSnippet(snippetSource, query, 230) + "</span>"
         + "</a>";
+    };
+
+    var renderHomeFilterResultBatch = function (ranked, query, totalUniqueReports) {
+      if (!results) {
+        return;
+      }
+      var visibleLimit = Math.min(visibleHomeFilterResultLimit, ranked.length);
+      results.hidden = false;
+      results.innerHTML = ranked.slice(0, visibleLimit).map(function (item) {
+        return renderHomeSearchResult(item.page, query, item.hitCount);
+      }).join("") + (ranked.length > visibleLimit
+        ? '<button class="site-search-more-button home-filter-more-button" type="button" data-home-filter-show-more>Show more</button>'
+        : "");
+      if (status) {
+        status.setAttribute("data-state", "active");
+        status.textContent = ranked.length > visibleLimit
+          ? "Showing first " + String(visibleLimit) + " of " + String(ranked.length) + " matching pages for \"" + query + "\"."
+          : "Showing " + String(ranked.length) + " of " + String(totalUniqueReports) + " pages for \"" + query + "\".";
+      }
     };
 
     var collectFilterContext = function () {
@@ -3784,6 +4010,9 @@
       var cards = context.cards;
       var cardRecords = collectHomeSearchRecords(cards);
       var records = query ? getHomeSearchRecords(cards, cardRecords) : cardRecords;
+      if (query !== latestHomeFilterQuery) {
+        visibleHomeFilterResultLimit = searchPageResultRenderLimit;
+      }
       if (query && !cardRecords.length && preparedHomePagesIsFallback) {
         loadSiteSearchIndex().then(function () {
           preparedHomePages = null;
@@ -3796,17 +4025,12 @@
         });
       }
       var ranked = query
-        ? records.map(function (record) {
-          return {
-            record: record,
-            score: scoreSiteSearchPage(record, query)
-          };
-        }).filter(function (item) {
-          return item.score > 0;
-        }).sort(function (left, right) {
-          return right.score - left.score;
-        })
+        ? rankSearchRecords(records, query, "all")
         : [];
+      var totalUniqueReports = records.length || getUniqueCount(cards);
+      latestHomeFilterQuery = query;
+      latestHomeFilterRanked = ranked;
+      latestHomeFilterTotal = totalUniqueReports;
 
       Array.prototype.forEach.call(allCards, function (card) {
         card.classList.remove("is-filtered-out");
@@ -3824,25 +4048,23 @@
           results.hidden = false;
           results.innerHTML = '<p class="site-search-empty">' + escapeHtml("No pages match \"" + query + "\". Try a broader section or keyword.") + "</p>";
         } else {
-          results.hidden = false;
-          results.innerHTML = ranked.slice(0, 24).map(function (item) {
-            return renderHomeSearchResult(item.record, query);
-          }).join("");
+          renderHomeFilterResultBatch(ranked, query, totalUniqueReports);
         }
       }
 
       if (status) {
-        var totalUniqueReports = records.length || getUniqueCount(cards);
         var visibleUnique = ranked.length;
         if (!query) {
           status.setAttribute("data-state", "default");
-          status.textContent = "Search " + String(totalUniqueReports) + " pages.";
+          status.textContent = "";
         } else if (!visibleUnique) {
           status.setAttribute("data-state", "empty");
           status.textContent = "No pages match \"" + query + "\". Try a broader section or keyword.";
         } else {
           status.setAttribute("data-state", "active");
-          status.textContent = "Showing " + String(visibleUnique) + " of " + String(totalUniqueReports) + " pages for \"" + query + "\".";
+          if (!results) {
+            status.textContent = "Showing " + String(visibleUnique) + " of " + String(totalUniqueReports) + " pages for \"" + query + "\".";
+          }
         }
       }
 
@@ -3850,24 +4072,51 @@
         clearButton.hidden = !query;
       }
     };
-    input.addEventListener("input", applyFilter);
+    var scheduledHomeFilter = createSearchRenderScheduler(applyFilter, {
+      shouldRenderImmediately: function () {
+        return !String(input.value || "").trim();
+      },
+      onPending: function () {
+        if (status && String(input.value || "").trim()) {
+          status.setAttribute("data-state", "active");
+          status.textContent = "Searching...";
+        }
+      }
+    });
+    input.addEventListener("input", function () {
+      scheduledHomeFilter.schedule();
+    });
     input.addEventListener("keydown", function (event) {
       var key = String(event.key || "");
       if (key === "Enter" && String(input.value || "").trim()) {
         event.preventDefault();
+        scheduledHomeFilter.cancel();
         navigateToSearchResultsPage(input.value);
         return;
       }
       if (key === "Escape" && String(input.value || "").trim()) {
         input.value = "";
-        applyFilter();
+        scheduledHomeFilter.flush();
       }
     });
     if (clearButton) {
       clearButton.addEventListener("click", function () {
         input.value = "";
-        applyFilter();
+        scheduledHomeFilter.flush();
         input.focus();
+      });
+    }
+    if (results) {
+      results.addEventListener("click", function (event) {
+        var button = event.target && event.target.closest ? event.target.closest("[data-home-filter-show-more]") : null;
+        if (!button || !results.contains(button) || !latestHomeFilterRanked.length) {
+          return;
+        }
+        visibleHomeFilterResultLimit = Math.min(
+          latestHomeFilterRanked.length,
+          visibleHomeFilterResultLimit + searchPageResultRenderLimit
+        );
+        renderHomeFilterResultBatch(latestHomeFilterRanked, latestHomeFilterQuery, latestHomeFilterTotal);
       });
     }
     Array.prototype.forEach.call(allDisclosures, function (node, index) {
@@ -3879,7 +4128,7 @@
       });
     });
     document.addEventListener("phoenix-home-mode-changed", function () {
-      applyFilter();
+      scheduledHomeFilter.flush();
     });
     applyFilter();
   }
@@ -5043,6 +5292,25 @@
 
       }
 
+      function normalizeCardTitleForCompare(value) {
+
+        return String(value || "").replace(/\s+/g, " ").trim().toLowerCase();
+
+      }
+
+      function getSecondaryCardTitle(node, displayLabel) {
+
+        var fullLabel = getFullLabel(node).replace(/\s+/g, " ").trim();
+        var compactLabel = String(displayLabel || getDisplayLabel(node)).replace(/\s+/g, " ").trim();
+
+        if (!fullLabel || normalizeCardTitleForCompare(fullLabel) === normalizeCardTitleForCompare(compactLabel)) {
+          return "";
+        }
+
+        return fullLabel;
+
+      }
+
       function getNodeImage(node) {
 
         return String((node && node.image) || "").trim();
@@ -5932,6 +6200,7 @@
         var bubble = makeNode("div", "ct-node " + (sizeClass || "ct-node-md"));
 
         applyHomeClusterNodeMeta(bubble, node);
+        bubble.setAttribute("data-node-id", String(node.id || ""));
 
         var link = makeNode("a", "ct-node-link");
 
@@ -5990,6 +6259,11 @@
         var label = makeNode("span", "ct-node-label", labelText);
 
         content.appendChild(label);
+
+        var secondaryTitle = getSecondaryCardTitle(node, labelText);
+        if (secondaryTitle && sizeClass !== "ct-node-root") {
+          content.appendChild(makeNode("span", "ct-node-title-full", secondaryTitle));
+        }
 
         var summaryText = getNodeSummary(node);
         if (summaryText && shouldShowNodeSummary(node, sizeClass)) {
@@ -6625,17 +6899,8 @@
 
 
 
-      /* Root node (all modes) */
-
-      var rootRow = makeNode("div", "ct-root-row");
-
-      var rootBubble = buildTreeNodeBubble(rootNode, "ct-node-root");
-
-      if (strategy === "fanout") {
-        rootBubble.classList.add("ct-node-root-wide");
-      }
-
-      rootRow.appendChild(rootBubble);
+      /* Keep the synthetic root in data for layout/state, but do not draw a
+         visible root card above the actual map contents. */
 
 
 
@@ -6644,10 +6909,6 @@
         /* --- CENTERED ROOT + RESPONSIVE CHILD FANOUT --- */
 
         board.classList.add("ct-layout-fanout");
-
-        rootRow.appendChild(makeNode("span", "ct-connector ct-connector-rail ct-connector-fanout", ""));
-
-        board.appendChild(rootRow);
 
         var fanoutWrap = makeNode("div", "ct-fanout-wrap");
 
@@ -6675,10 +6936,6 @@
 
         board.classList.add("ct-layout-cascade");
 
-        rootRow.appendChild(makeNode("span", "ct-connector ct-connector-v", ""));
-
-        board.appendChild(rootRow);
-
         var cascadeWrap = makeNode("div", "ct-cascade-levels");
 
         var branchLevel = makeNode("div", "ct-cascade-row");
@@ -6704,8 +6961,6 @@
         /* --- COMPACT GRID --- */
 
         board.classList.add("ct-layout-grid");
-
-        board.appendChild(rootRow);
 
         var gridWrap = makeNode("div", "ct-grid-wrap");
         gridWrap.setAttribute("data-ct-subtree-layout", "top-level-grid");
@@ -6735,10 +6990,6 @@
         /* --- HORIZONTAL TREE --- */
 
         board.classList.add("ct-layout-tree");
-
-        rootRow.appendChild(makeNode("span", "ct-connector ct-connector-rail", ""));
-
-        board.appendChild(rootRow);
 
         var treeWrap = makeNode("div", "ct-tree-wrap");
         var treeGrid = makeNode("div", "ct-tree-grid");
@@ -6777,6 +7028,174 @@
         "home-cluster-mobile-detail",
         !!(isVertical && shouldPreferFocusedBranch && state.manualSelection && String(state.selectedBranchId || "").trim())
       );
+
+      function removeClusterConnectorOverlay() {
+        var existingOverlay = board.querySelector(".ct-connector-overlay");
+        if (existingOverlay && existingOverlay.parentNode) {
+          existingOverlay.parentNode.removeChild(existingOverlay);
+        }
+        board.classList.remove("ct-svg-connectors");
+      }
+
+      function ensureClusterConnectorOverlay() {
+        var overlay = board.querySelector(".ct-connector-overlay");
+        if (overlay) {
+          return overlay;
+        }
+        overlay = document.createElementNS(svgNs, "svg");
+        overlay.setAttribute("class", "ct-connector-overlay");
+        overlay.setAttribute("aria-hidden", "true");
+        board.insertBefore(overlay, board.firstChild || null);
+        return overlay;
+      }
+
+      function refreshClusterConnectorOverlay() {
+        if (
+          isVertical
+          || strategy === "grid"
+          || !document.createElementNS
+          || !board.isConnected
+        ) {
+          removeClusterConnectorOverlay();
+          return;
+        }
+
+        var boardRect = board.getBoundingClientRect();
+        var overlayWidth = Math.max(Math.ceil(boardRect.width || 0), board.scrollWidth || 0);
+        var overlayHeight = Math.max(Math.ceil(boardRect.height || 0), board.scrollHeight || 0);
+        if (!overlayWidth || !overlayHeight) {
+          removeClusterConnectorOverlay();
+          return;
+        }
+
+        var renderedById = {};
+        Array.prototype.forEach.call(board.querySelectorAll(".ct-node[data-node-id]"), function (bubble) {
+          var nodeId = String(bubble.getAttribute("data-node-id") || "").trim();
+          if (nodeId && !renderedById[nodeId]) {
+            renderedById[nodeId] = bubble;
+          }
+        });
+
+        var connectors = [];
+        Object.keys(renderedById).forEach(function (nodeId) {
+          var node = nodeById[nodeId];
+          var parentId = String((node && node.parent_id) || "").trim();
+          var parentBubble = parentId ? renderedById[parentId] : null;
+          var usesVirtualRoot = !!(
+            parentId
+            && rootNode
+            && String(rootNode.id || "").trim() === parentId
+            && !parentBubble
+          );
+          if (!parentId || (!parentBubble && !usesVirtualRoot)) {
+            return;
+          }
+
+          var childRect = renderedById[nodeId].getBoundingClientRect();
+          var parentRect = parentBubble ? parentBubble.getBoundingClientRect() : null;
+          var horizontalDistance = parentRect ? Math.abs(childRect.left - parentRect.right) : 0;
+          var verticalDistance = parentRect ? Math.abs(childRect.top - parentRect.bottom) : 999;
+          var mostlyHorizontal = horizontalDistance >= verticalDistance;
+          var startX;
+          var startY;
+          var endX;
+          var endY;
+          var pathData;
+
+          if (usesVirtualRoot) {
+            startX = boardRect.width * 0.5;
+            startY = 1;
+            endX = childRect.left - boardRect.left + (childRect.width * 0.5);
+            endY = childRect.top - boardRect.top;
+            var rootControl = Math.max(22, Math.abs(endY - startY) * 0.56);
+            pathData = "M " + startX + " " + startY
+              + " C " + startX + " " + (startY + rootControl)
+              + ", " + endX + " " + (endY - rootControl)
+              + ", " + endX + " " + endY;
+          } else if (mostlyHorizontal) {
+            startX = parentRect.right - boardRect.left;
+            startY = parentRect.top - boardRect.top + (parentRect.height * 0.5);
+            endX = childRect.left - boardRect.left;
+            endY = childRect.top - boardRect.top + (childRect.height * 0.5);
+            var horizontalControl = Math.max(22, Math.abs(endX - startX) * 0.52);
+            pathData = "M " + startX + " " + startY
+              + " C " + (startX + horizontalControl) + " " + startY
+              + ", " + (endX - horizontalControl) + " " + endY
+              + ", " + endX + " " + endY;
+          } else {
+            startX = parentRect.left - boardRect.left + (parentRect.width * 0.5);
+            startY = parentRect.bottom - boardRect.top;
+            endX = childRect.left - boardRect.left + (childRect.width * 0.5);
+            endY = childRect.top - boardRect.top;
+            var verticalControl = Math.max(18, Math.abs(endY - startY) * 0.52);
+            pathData = "M " + startX + " " + startY
+              + " C " + startX + " " + (startY + verticalControl)
+              + ", " + endX + " " + (endY - verticalControl)
+              + ", " + endX + " " + endY;
+          }
+
+          connectors.push({
+            childId: nodeId,
+            isActive: isNodeInSelectedBranch(nodeId),
+            pathData: pathData
+          });
+        });
+
+        if (!connectors.length) {
+          removeClusterConnectorOverlay();
+          return;
+        }
+
+        var overlay = ensureClusterConnectorOverlay();
+        while (overlay.firstChild) {
+          overlay.removeChild(overlay.firstChild);
+        }
+        overlay.setAttribute("viewBox", "0 0 " + overlayWidth + " " + overlayHeight);
+        overlay.setAttribute("width", String(overlayWidth));
+        overlay.setAttribute("height", String(overlayHeight));
+
+        connectors.forEach(function (connector) {
+          var path = document.createElementNS(svgNs, "path");
+          path.setAttribute("class", "ct-connector-path" + (connector.isActive ? " is-active" : ""));
+          path.setAttribute("d", connector.pathData);
+          path.setAttribute("data-child-id", connector.childId);
+          overlay.appendChild(path);
+        });
+        board.classList.add("ct-svg-connectors");
+      }
+
+      function scheduleClusterConnectorOverlayRefresh() {
+        if (container.__homeClusterConnectorFrame) {
+          window.cancelAnimationFrame(container.__homeClusterConnectorFrame);
+        }
+        container.__homeClusterConnectorFrame = window.requestAnimationFrame(function () {
+          container.__homeClusterConnectorFrame = 0;
+          var refreshOverlay = container.__homeClusterConnectorRefresh;
+          if (typeof refreshOverlay === "function") {
+            refreshOverlay();
+          }
+        });
+      }
+
+      container.__homeClusterConnectorRefresh = refreshClusterConnectorOverlay;
+      scheduleClusterConnectorOverlayRefresh();
+
+      if (!container.__homeClusterConnectorOverlayBound) {
+        if (window.ResizeObserver) {
+          container.__homeClusterConnectorObserver = new ResizeObserver(function () {
+            scheduleClusterConnectorOverlayRefresh();
+          });
+          container.__homeClusterConnectorObserver.observe(board);
+        }
+        if (document.fonts && document.fonts.ready && typeof document.fonts.ready.then === "function") {
+          document.fonts.ready.then(function () {
+            scheduleClusterConnectorOverlayRefresh();
+          }).catch(function () {
+            // Ignore font observer failures.
+          });
+        }
+        container.__homeClusterConnectorOverlayBound = true;
+      }
 
       if (focusTray && !focusTray.__homeClusterPreviewBound) {
         focusTray.__homeClusterPreviewBound = true;
@@ -7659,12 +8078,17 @@
         toggle.setAttribute("title", isExpanded ? "Collapse subsections" : "Expand subsections");
         toggle.textContent = isExpanded ? "-" : "+";
       };
-      var updateBulkActionButton = function (button, isActive) {
-        if (!button) {
+      var updateBulkActionButtons = function (buttons, isActive) {
+        if (!buttons || !buttons.length) {
           return;
         }
-        button.classList.toggle("is-active", Boolean(isActive));
-        button.setAttribute("aria-pressed", isActive ? "true" : "false");
+        Array.prototype.forEach.call(buttons, function (button) {
+          if (!button) {
+            return;
+          }
+          button.classList.toggle("is-active", Boolean(isActive));
+          button.setAttribute("aria-pressed", isActive ? "true" : "false");
+        });
       };
       var updateBulkActionState = function () {
         if (!hasNestedGroups) {
@@ -7677,8 +8101,8 @@
         var allCollapsed = Array.prototype.every.call(nestedItems, function (item) {
           return item && item.classList.contains("is-collapsed");
         });
-        updateBulkActionButton(expandAllButton, allExpanded);
-        updateBulkActionButton(collapseAllButton, allCollapsed);
+        updateBulkActionButtons(expandAllButtons, allExpanded);
+        updateBulkActionButtons(collapseAllButtons, allCollapsed);
       };
       var setAllTocItemsExpanded = function (isExpanded) {
         Array.prototype.forEach.call(rootNode.querySelectorAll(".page-toc-item.has-children"), function (item) {
@@ -7774,28 +8198,31 @@
       rootNode.setAttribute("data-page-toc-mode", pageTocMode);
       rootNode.appendChild(tocList);
       var controlsRoot = rootNode.parentElement || rootNode;
-      var actionsRoot = controlsRoot.querySelector(".page-toc-actions, .mobile-page-toc-actions");
-      var expandAllButton = controlsRoot.querySelector("[data-page-toc-expand-all]");
-      var collapseAllButton = controlsRoot.querySelector("[data-page-toc-collapse-all]");
-      if (actionsRoot) {
-        actionsRoot.hidden = !hasNestedGroups;
-      }
-      if (expandAllButton) {
-        expandAllButton.hidden = !hasNestedGroups;
-        expandAllButton.disabled = !hasNestedGroups;
-        expandAllButton.setAttribute("aria-pressed", "false");
-        expandAllButton.onclick = function () {
+      var bulkActionTopThreshold = 10;
+      var actionsRoots = controlsRoot.querySelectorAll(".page-toc-actions, .mobile-page-toc-actions");
+      var expandAllButtons = controlsRoot.querySelectorAll("[data-page-toc-expand-all]");
+      var collapseAllButtons = controlsRoot.querySelectorAll("[data-page-toc-collapse-all]");
+      var showTopBulkActions = headingList.length > bulkActionTopThreshold;
+      Array.prototype.forEach.call(actionsRoots, function (actionsRoot) {
+        var isTopActions = actionsRoot && actionsRoot.hasAttribute("data-page-toc-actions-top");
+        actionsRoot.hidden = !hasNestedGroups || (isTopActions && !showTopBulkActions);
+      });
+      Array.prototype.forEach.call(expandAllButtons, function (button) {
+        button.hidden = !hasNestedGroups;
+        button.disabled = !hasNestedGroups;
+        button.setAttribute("aria-pressed", "false");
+        button.onclick = function () {
           setAllTocItemsExpanded(true);
         };
-      }
-      if (collapseAllButton) {
-        collapseAllButton.hidden = !hasNestedGroups;
-        collapseAllButton.disabled = !hasNestedGroups;
-        collapseAllButton.setAttribute("aria-pressed", "false");
-        collapseAllButton.onclick = function () {
+      });
+      Array.prototype.forEach.call(collapseAllButtons, function (button) {
+        button.hidden = !hasNestedGroups;
+        button.disabled = !hasNestedGroups;
+        button.setAttribute("aria-pressed", "false");
+        button.onclick = function () {
           setAllTocItemsExpanded(false);
         };
-      }
+      });
       updateBulkActionState();
       linkGroups.push({
         rootNode: rootNode,
@@ -7945,7 +8372,7 @@
   }
 
   function initBackToTop() {
-    var buttons = document.querySelectorAll("[data-back-to-top], [data-mobile-back-to-top], [data-footer-back-to-top]");
+    var buttons = document.querySelectorAll("[data-back-to-top], [data-mobile-back-to-top], [data-footer-back-to-top], [data-search-page-back-to-top]");
     if (!buttons.length) {
       return;
     }
@@ -8542,6 +8969,997 @@
     }
   }
 
+  function initUapWorldMap() {
+    var roots = document.querySelectorAll('[data-interactive-map], [data-uap-world-map]');
+    if (!roots.length) {
+      return;
+    }
+    Array.prototype.forEach.call(roots, function(root) {
+    if (root.__interactiveMapInitialized) {
+      return;
+    }
+    root.__interactiveMapInitialized = true;
+    var canvas = root.querySelector('[data-interactive-map-canvas], [data-uap-world-map-canvas]');
+    var preview = root.querySelector('[data-interactive-map-preview], [data-uap-world-map-preview]');
+    var mapSrc = root.getAttribute('data-map-src');
+    var dataSrc = root.getAttribute('data-map-data-src');
+    var itemType = root.getAttribute('data-map-item-type') || 'country';
+    var itemTypeTitle = itemType.charAt(0).toUpperCase() + itemType.slice(1);
+    var mapLabel = root.getAttribute('data-map-label') || 'Interactive map';
+    var fallbackSummary = root.getAttribute('data-map-fallback-summary') || 'Open this item from the map.';
+    var previewPreloadLimit = root.getAttribute('data-map-preview-preload') || 'all';
+    if (!canvas || !mapSrc || !dataSrc) {
+      return;
+    }
+    var loadText = function(url) {
+      if (typeof fetch === 'function') {
+        return fetch(url, { credentials: 'same-origin' }).then(function(res) {
+          if (!res.ok) {
+            throw new Error('Failed to load ' + url);
+          }
+          return res.text();
+        });
+      }
+      return new Promise(function(resolve, reject) {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', url, true);
+        xhr.onload = function() {
+          if (xhr.status >= 200 && xhr.status < 300) {
+            resolve(xhr.responseText);
+          } else {
+            reject(new Error('Failed to load ' + url));
+          }
+        };
+        xhr.onerror = function() { reject(new Error('Failed to load ' + url)); };
+        xhr.send();
+      });
+    };
+
+    var siteAssetBase = (function() {
+      var source = String(mapSrc || dataSrc || '').trim();
+      try {
+        var sourceUrl = new URL(source || '.', document.baseURI);
+        var path = sourceUrl.pathname || '';
+        var marker = path.indexOf('/assets/');
+        if (marker !== -1) {
+          sourceUrl.pathname = path.slice(0, marker + 1);
+          sourceUrl.search = '';
+          sourceUrl.hash = '';
+          return sourceUrl.href;
+        }
+      } catch (err) {
+        return document.baseURI;
+      }
+      return document.baseURI;
+    })();
+
+    var resolveSiteAssetUrl = function(url) {
+      var value = String(url || '').trim();
+      if (!value) {
+        return '';
+      }
+      if (/^(?:[a-z][a-z0-9+.-]*:|\/\/)/i.test(value)) {
+        return value;
+      }
+      try {
+        return new URL(value.replace(/^\/+/, ''), siteAssetBase).href;
+      } catch (err) {
+        return value;
+      }
+    };
+    var cp1252ReverseMap = {
+      0x20AC: 0x80,
+      0x201A: 0x82,
+      0x0192: 0x83,
+      0x201E: 0x84,
+      0x2026: 0x85,
+      0x2020: 0x86,
+      0x2021: 0x87,
+      0x02C6: 0x88,
+      0x2030: 0x89,
+      0x0160: 0x8A,
+      0x2039: 0x8B,
+      0x0152: 0x8C,
+      0x017D: 0x8E,
+      0x2018: 0x91,
+      0x2019: 0x92,
+      0x201C: 0x93,
+      0x201D: 0x94,
+      0x2022: 0x95,
+      0x2013: 0x96,
+      0x2014: 0x97,
+      0x02DC: 0x98,
+      0x2122: 0x99,
+      0x0161: 0x9A,
+      0x203A: 0x9B,
+      0x0153: 0x9C,
+      0x017E: 0x9E,
+      0x0178: 0x9F
+    };
+    var repairMojibakeText = function(value) {
+      var text = String(value || '');
+      if (!/[ÃƒÃ‚Ã¢]/.test(text)) {
+        return text;
+      }
+      try {
+        if (typeof TextDecoder === 'function') {
+          var bytes = [];
+          for (var i = 0; i < text.length; i += 1) {
+            var code = text.charCodeAt(i);
+            if (code <= 0xFF) {
+              bytes.push(code);
+            } else if (cp1252ReverseMap[code]) {
+              bytes.push(cp1252ReverseMap[code]);
+            } else {
+              return text;
+            }
+          }
+          var decoded = new TextDecoder('utf-8', { fatal: false }).decode(new Uint8Array(bytes));
+          if (decoded && !/[ÃƒÃ‚Ã¢]\uFFFD?/.test(decoded)) {
+            return decoded;
+          }
+        }
+      } catch (err) {}
+      return text
+        .replace(/\u00e2\u20ac\u2122/g, '\u2019')
+        .replace(/\u00e2\u20ac\u0153/g, '\u201c')
+        .replace(/\u00e2\u20ac\u009d/g, '\u201d')
+        .replace(/\u00e2\u20ac\u009d/g, '\u201d')
+        .replace(/\u00e2\u20ac\u201d/g, '\u2014')
+        .replace(/\u00e2\u20ac\u201c/g, '\u2013')
+        .replace(/\u00e2\u20ac\u00a6/g, '\u2026')
+        .replace(/\u00c3\u00bc/g, '\u00fc')
+        .replace(/\u00c3\u00b4/g, '\u00f4')
+        .replace(/\u00c3\u00a9/g, '\u00e9')
+        .replace(/\u00c3\u00a3/g, '\u00e3');
+    };
+    var normaliseMapItemText = function(item) {
+      if (!item || typeof item !== 'object') {
+        return item;
+      }
+      ['country', 'mapName', 'title', 'label', 'summary', 'displayLabel', 'displayTitle', 'displaySummary'].forEach(function(key) {
+        if (item[key]) {
+          item[key] = repairMojibakeText(item[key]);
+        }
+      });
+      return item;
+    };
+    var getItemLabel = function(item) {
+      return item && (item.displayLabel || item.label || item.country || item.mapName || itemTypeTitle);
+    };
+    var getItemTitle = function(item) {
+      return item && (item.displayTitle || item.title || item.displayLabel || item.label || item.country || itemTypeTitle);
+    };
+    var normalisePreviewHeadingText = function(value) {
+      return String(value || '').toLowerCase().replace(/&amp;/g, 'and').replace(/[^a-z0-9]+/g, ' ').trim();
+    };
+    var shouldShowPreviewKicker = function(label, title) {
+      var labelKey = normalisePreviewHeadingText(label);
+      var titleKey = normalisePreviewHeadingText(title);
+      if (!labelKey || !titleKey || labelKey === titleKey) {
+        return false;
+      }
+      if (labelKey.length > 8 && titleKey.indexOf(labelKey) !== -1) {
+        return false;
+      }
+      if (titleKey.length > 8 && labelKey.indexOf(titleKey) !== -1) {
+        return false;
+      }
+      return true;
+    };
+    var getItemSummary = function(item) {
+      return item && (item.displaySummary || item.summary || fallbackSummary);
+    };
+    var getItemCode = function(item) {
+      return item && (item.displayCode || item.code || item.iso || item.id || '');
+    };
+    var getItemRegionLabel = function(item) {
+      if (!item) {
+        return '';
+      }
+      return item.displayRegion || item.regionLabel || item.region || item.subregion || '';
+    };
+    var normaliseRegionKey = function(value) {
+      return String(value || '').trim().toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+    };
+    var getItemRegionKey = function(item) {
+      if (!item) {
+        return '';
+      }
+      return normaliseRegionKey(item.regionKey || item.region || item.displayRegion || item.regionLabel || item.subregion);
+    };
+    var getItemCountLabel = function(item) {
+      if (!item) {
+        return '';
+      }
+      var rawCount = item.displayCount || item.countLabel || item.pageCount || item.count || item.pages || item.total;
+      if (rawCount === null || typeof rawCount === 'undefined' || rawCount === '') {
+        return '';
+      }
+      if (typeof rawCount === 'string' && /\D/.test(rawCount)) {
+        return rawCount;
+      }
+      var count = Number(rawCount);
+      if (!isFinite(count) || count < 1) {
+        return '';
+      }
+      return String(count) + (count === 1 ? ' page' : ' pages');
+    };
+    var getPreviewMetaHtml = function(item) {
+      var chips = [];
+      var code = String(getItemCode(item) || '').trim();
+      var region = String(getItemRegionLabel(item) || '').trim();
+      var count = String(getItemCountLabel(item) || '').trim();
+      if (code) {
+        chips.push('<span class="interactive-map-preview-chip uap-world-map-preview-chip">' + escapeHtml(code) + '</span>');
+      }
+      if (region) {
+        var regionKey = getItemRegionKey(item);
+        if (regionKey) {
+          chips.push(
+            '<button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" '
+            + 'data-interactive-map-continent-focus="' + escapeHtml(regionKey) + '" '
+            + 'data-uap-world-map-region-focus="' + escapeHtml(regionKey) + '" '
+            + 'aria-label="Focus map on ' + escapeHtml(region) + '">' + escapeHtml(region) + '</button>'
+          );
+        } else {
+          chips.push('<span class="interactive-map-preview-chip uap-world-map-preview-chip">' + escapeHtml(region) + '</span>');
+        }
+      }
+      if (count) {
+        chips.push('<span class="interactive-map-preview-count uap-world-map-preview-count">' + escapeHtml(count) + '</span>');
+      }
+      return chips.length ? '<span class="interactive-map-preview-meta uap-world-map-preview-meta">' + chips.join('') + '</span>' : '';
+    };
+    var warmedPreviewImages = {};
+    var warmPreviewImage = function(item) {
+      var imageUrl = item && resolveSiteAssetUrl(item.image);
+      if (!imageUrl || warmedPreviewImages[imageUrl]) {
+        return;
+      }
+      warmedPreviewImages[imageUrl] = true;
+      var image = new Image();
+      image.decoding = 'async';
+      image.loading = 'eager';
+      image.src = imageUrl;
+    };
+    var preloadPreviewImages = function(items) {
+      if (!items || !items.length) {
+        return;
+      }
+      var limit = String(previewPreloadLimit || '').toLowerCase() === 'all'
+        ? items.length
+        : Math.max(0, parseInt(previewPreloadLimit, 10) || 0);
+      var queue = items.filter(function(item) { return item && item.image; }).slice(0, limit);
+      if (!queue.length) {
+        return;
+      }
+      var preloadNext = function() {
+        var started = 0;
+        while (queue.length && started < 4) {
+          warmPreviewImage(queue.shift());
+          started += 1;
+        }
+        if (!queue.length) {
+          return;
+        }
+        if (typeof window.requestIdleCallback === 'function') {
+          window.requestIdleCallback(preloadNext, { timeout: 1800 });
+        } else {
+          window.setTimeout(preloadNext, 140);
+        }
+      };
+      window.setTimeout(preloadNext, 450);
+    };
+
+    var inlineDataNode = root.querySelector('[data-interactive-map-data], [data-uap-world-map-data]');
+    var inlineSvg = canvas.querySelector('svg');
+    var countryAliases = {
+      UK: 'GB',
+      EL: 'GR'
+    };
+    var timezoneCountryRules = [
+      [/^Europe\/London$/i, 'GB'],
+      [/^Europe\/Dublin$/i, 'IE'],
+      [/^America\/(New_York|Detroit|Kentucky|Indiana|Chicago|North_Dakota|Denver|Boise|Phoenix|Los_Angeles|Anchorage|Adak|Honolulu)$/i, 'US'],
+      [/^America\/(Toronto|Vancouver|Edmonton|Winnipeg|Regina|Halifax|St_Johns|Moncton|Whitehorse|Yellowknife|Iqaluit)$/i, 'CA'],
+      [/^Australia\//i, 'AU'],
+      [/^Pacific\/(Auckland|Chatham)$/i, 'NZ'],
+      [/^Europe\/Paris$/i, 'FR'],
+      [/^Europe\/Berlin$/i, 'DE'],
+      [/^Europe\/Madrid$/i, 'ES'],
+      [/^Europe\/Rome$/i, 'IT'],
+      [/^Europe\/Amsterdam$/i, 'NL'],
+      [/^Europe\/Brussels$/i, 'BE'],
+      [/^Europe\/Zurich$/i, 'CH'],
+      [/^Europe\/Stockholm$/i, 'SE'],
+      [/^Europe\/Oslo$/i, 'NO'],
+      [/^Europe\/Copenhagen$/i, 'DK'],
+      [/^Europe\/Helsinki$/i, 'FI'],
+      [/^Europe\/Warsaw$/i, 'PL'],
+      [/^Europe\/Prague$/i, 'CZ'],
+      [/^Europe\/Vienna$/i, 'AT'],
+      [/^Europe\/Lisbon$/i, 'PT'],
+      [/^America\/Mexico_City$/i, 'MX'],
+      [/^America\/Sao_Paulo$/i, 'BR'],
+      [/^America\/Buenos_Aires$/i, 'AR'],
+      [/^America\/Santiago$/i, 'CL'],
+      [/^Asia\/(Tokyo)$/i, 'JP'],
+      [/^Asia\/(Seoul)$/i, 'KR'],
+      [/^Asia\/(Shanghai|Hong_Kong)$/i, 'CN'],
+      [/^Asia\/(Kolkata|Calcutta)$/i, 'IN'],
+      [/^Asia\/Singapore$/i, 'SG'],
+      [/^Asia\/Dubai$/i, 'AE'],
+      [/^Africa\/Johannesburg$/i, 'ZA'],
+      [/^Africa\/Lagos$/i, 'NG']
+    ];
+    var normaliseCountryIso = function(value) {
+      var iso = String(value || '').trim().toUpperCase().replace(/[^A-Z]/g, '');
+      if (countryAliases[iso]) {
+        iso = countryAliases[iso];
+      }
+      return iso.length === 2 ? iso : '';
+    };
+    var inferCountryFromTimezone = function(availableCountries) {
+      var timezone = '';
+      try {
+        timezone = String(Intl.DateTimeFormat().resolvedOptions().timeZone || '');
+      } catch (err) {}
+      if (!timezone) {
+        return '';
+      }
+      for (var i = 0; i < timezoneCountryRules.length; i += 1) {
+        var rule = timezoneCountryRules[i];
+        if (rule[0].test(timezone) && availableCountries[rule[1]]) {
+          return rule[1];
+        }
+      }
+      return '';
+    };
+    var inferCountryFromLocale = function(availableCountries) {
+      var languages = [];
+      try {
+        if (navigator.languages && navigator.languages.length) {
+          languages = Array.prototype.slice.call(navigator.languages);
+        } else if (navigator.language) {
+          languages = [navigator.language];
+        }
+      } catch (err) {}
+      for (var i = 0; i < languages.length; i += 1) {
+        var parts = String(languages[i] || '').replace(/_/g, '-').split('-');
+        if (parts.length < 2) {
+          continue;
+        }
+        var iso = normaliseCountryIso(parts[parts.length - 1]);
+        if (iso && availableCountries[iso]) {
+          return iso;
+        }
+      }
+      return '';
+    };
+    var guessVisitorCountryIso = function(availableCountries) {
+      return inferCountryFromTimezone(availableCountries) || inferCountryFromLocale(availableCountries) || '';
+    };
+    var dataPromise = inlineDataNode && inlineSvg
+      ? Promise.resolve([null, JSON.parse(inlineDataNode.textContent || '{}'), true])
+      : Promise.all([
+        loadText(mapSrc),
+        loadText(dataSrc).then(function(text) { return JSON.parse(text); }),
+        Promise.resolve(false)
+      ]);
+
+    dataPromise.then(function(results) {
+      var svgText = results[0];
+      var mapData = results[1] || {};
+      var isInline = !!results[2];
+      var byIso = {};
+      (mapData.items || mapData.countries || []).forEach(function(item) {
+        item = normaliseMapItemText(item);
+        var id = item && (item.id || item.iso);
+        if (id) {
+          byIso[String(id).toUpperCase()] = item;
+        }
+      });
+      preloadPreviewImages(Object.keys(byIso).map(function(iso) { return byIso[iso]; }));
+      if (!isInline) {
+        canvas.innerHTML = svgText;
+      }
+      var svg = canvas.querySelector('svg');
+      if (!svg) {
+        return;
+      }
+      root.addEventListener('click', function(event) {
+        event.stopPropagation();
+      });
+      svg.setAttribute('role', 'img');
+      svg.setAttribute('aria-label', mapLabel);
+      var zoomState = { scale: 1, x: 0, y: 0 };
+      var minZoom = 1;
+      var maxZoom = 6;
+      var panButtons = {};
+      var getPanLimits = function() {
+        var rect = canvas.getBoundingClientRect();
+        var width = rect.width || 0;
+        var height = rect.height || 0;
+        return {
+          maxX: Math.max(0, width * (zoomState.scale - 1)),
+          maxY: Math.max(0, height * (zoomState.scale - 1))
+        };
+      };
+      var setPanButtonState = function(direction, isAvailable) {
+        var button = panButtons[direction];
+        if (!button) {
+          return;
+        }
+        button.hidden = !isAvailable;
+        button.disabled = !isAvailable;
+        button.setAttribute('aria-hidden', isAvailable ? 'false' : 'true');
+      };
+      var updatePanControls = function() {
+        var limits = getPanLimits();
+        var isZoomed = zoomState.scale > 1.01;
+        var tolerance = 1;
+        setPanButtonState('left', isZoomed && zoomState.x < -tolerance);
+        setPanButtonState('right', isZoomed && zoomState.x > -limits.maxX + tolerance);
+        setPanButtonState('up', isZoomed && zoomState.y < -tolerance);
+        setPanButtonState('down', isZoomed && zoomState.y > -limits.maxY + tolerance);
+      };
+      var applyZoom = function() {
+        svg.style.transform = 'translate(' + zoomState.x + 'px, ' + zoomState.y + 'px) scale(' + zoomState.scale + ')';
+        svg.style.transformOrigin = '0 0';
+        root.setAttribute('data-interactive-map-zoom', zoomState.scale > 1.01 ? 'zoomed' : 'default');
+        root.setAttribute('data-uap-world-map-zoom', zoomState.scale > 1.01 ? 'zoomed' : 'default');
+        updatePanControls();
+      };
+      var clampPan = function() {
+        var limits = getPanLimits();
+        zoomState.x = Math.min(0, Math.max(-limits.maxX, zoomState.x));
+        zoomState.y = Math.min(0, Math.max(-limits.maxY, zoomState.y));
+      };
+      var setZoom = function(nextScale, originX, originY) {
+        var rect = canvas.getBoundingClientRect();
+        var oldScale = zoomState.scale;
+        var scale = Math.max(minZoom, Math.min(maxZoom, nextScale));
+        var localX = typeof originX === 'number' ? originX : rect.width / 2;
+        var localY = typeof originY === 'number' ? originY : rect.height / 2;
+        if (Math.abs(scale - oldScale) < 0.001) {
+          return;
+        }
+        zoomState.x = localX - ((localX - zoomState.x) * scale / oldScale);
+        zoomState.y = localY - ((localY - zoomState.y) * scale / oldScale);
+        zoomState.scale = scale;
+        clampPan();
+        applyZoom();
+      };
+      var resetZoom = function() {
+        zoomState = { scale: 1, x: 0, y: 0 };
+        applyZoom();
+      };
+      var panBy = function(deltaX, deltaY) {
+        if (zoomState.scale <= 1.01) {
+          return;
+        }
+        zoomState.x += deltaX;
+        zoomState.y += deltaY;
+        clampPan();
+        applyZoom();
+      };
+      var zoomToNode = function(node, nextScale) {
+        var canvasRect = canvas.getBoundingClientRect();
+        var nodeRect = node.getBoundingClientRect();
+        if (!canvasRect.width || !canvasRect.height || !nodeRect.width || !nodeRect.height) {
+          return;
+        }
+        var screenX = nodeRect.left - canvasRect.left + nodeRect.width / 2;
+        var screenY = nodeRect.top - canvasRect.top + nodeRect.height / 2;
+        var worldX = (screenX - zoomState.x) / zoomState.scale;
+        var worldY = (screenY - zoomState.y) / zoomState.scale;
+        zoomState.scale = Math.max(minZoom, Math.min(maxZoom, nextScale));
+        zoomState.x = canvasRect.width / 2 - worldX * zoomState.scale;
+        zoomState.y = canvasRect.height / 2 - worldY * zoomState.scale;
+        clampPan();
+        applyZoom();
+      };
+      var controls = document.createElement('div');
+      controls.className = 'interactive-map-controls uap-world-map-controls';
+      controls.setAttribute('aria-label', 'Map zoom controls');
+      controls.setAttribute('role', 'group');
+      var panControls = document.createElement('div');
+      panControls.className = 'interactive-map-pan-controls uap-world-map-pan-controls';
+      panControls.setAttribute('aria-label', 'Map pan controls');
+      panControls.setAttribute('role', 'group');
+      var makeZoomButton = function(label, ariaLabel, handler) {
+        var button = document.createElement('button');
+        button.type = 'button';
+        button.className = 'interactive-map-control uap-world-map-control';
+        button.textContent = label;
+        button.setAttribute('aria-label', ariaLabel);
+        button.addEventListener('click', function(event) {
+          event.preventDefault();
+          handler();
+        });
+        return button;
+      };
+      var makePanButton = function(direction, label, ariaLabel, handler) {
+        var button = makeZoomButton(label, ariaLabel, handler);
+        button.className += ' interactive-map-pan-control uap-world-map-pan-control interactive-map-pan-control-' + direction;
+        button.hidden = true;
+        button.disabled = true;
+        button.setAttribute('aria-hidden', 'true');
+        panButtons[direction] = button;
+        return button;
+      };
+      controls.appendChild(makeZoomButton('+', 'Zoom in', function() { setZoom(zoomState.scale * 1.35); }));
+      controls.appendChild(makeZoomButton('-', 'Zoom out', function() { setZoom(zoomState.scale / 1.35); }));
+      controls.appendChild(makeZoomButton('Reset', 'Reset map zoom', resetZoom));
+      panControls.appendChild(makePanButton('left', '\u2190', 'Move map view left', function() {
+        panBy(Math.max(80, canvas.getBoundingClientRect().width * 0.18), 0);
+      }));
+      panControls.appendChild(makePanButton('up', '\u2191', 'Move map view up', function() {
+        panBy(0, Math.max(70, canvas.getBoundingClientRect().height * 0.18));
+      }));
+      panControls.appendChild(makePanButton('down', '\u2193', 'Move map view down', function() {
+        panBy(0, -Math.max(70, canvas.getBoundingClientRect().height * 0.18));
+      }));
+      panControls.appendChild(makePanButton('right', '\u2192', 'Move map view right', function() {
+        panBy(-Math.max(80, canvas.getBoundingClientRect().width * 0.18), 0);
+      }));
+      canvas.appendChild(controls);
+      canvas.appendChild(panControls);
+      canvas.addEventListener('wheel', function(event) {
+        event.preventDefault();
+        var rect = canvas.getBoundingClientRect();
+        var factor = event.deltaY < 0 ? 1.18 : 1 / 1.18;
+        setZoom(zoomState.scale * factor, event.clientX - rect.left, event.clientY - rect.top);
+      }, { passive: false });
+      var dragState = null;
+      var activePointers = {};
+      var pinchState = null;
+      var lastPointerCountryIso = '';
+      var lastPointerMoved = false;
+      var getActivePointerList = function() {
+        return Object.keys(activePointers).map(function(pointerId) {
+          return activePointers[pointerId];
+        }).filter(Boolean);
+      };
+      var getPointerDistance = function(first, second) {
+        var dx = Number(second.clientX || 0) - Number(first.clientX || 0);
+        var dy = Number(second.clientY || 0) - Number(first.clientY || 0);
+        return Math.sqrt(dx * dx + dy * dy);
+      };
+      var getPointerCenter = function(first, second) {
+        var rect = canvas.getBoundingClientRect();
+        return {
+          x: ((Number(first.clientX || 0) + Number(second.clientX || 0)) / 2) - rect.left,
+          y: ((Number(first.clientY || 0) + Number(second.clientY || 0)) / 2) - rect.top
+        };
+      };
+      var beginPinchZoom = function(pointerList) {
+        if (!pointerList || pointerList.length < 2) {
+          pinchState = null;
+          return;
+        }
+        var first = pointerList[0];
+        var second = pointerList[1];
+        var distance = getPointerDistance(first, second);
+        if (!(distance > 0)) {
+          pinchState = null;
+          return;
+        }
+        var center = getPointerCenter(first, second);
+        pinchState = {
+          pointerIds: [String(first.pointerId), String(second.pointerId)],
+          distance: distance,
+          scale: zoomState.scale,
+          worldX: (center.x - zoomState.x) / zoomState.scale,
+          worldY: (center.y - zoomState.y) / zoomState.scale
+        };
+        dragState = null;
+        canvas.classList.add('is-panning');
+      };
+      var updatePinchZoom = function() {
+        if (!pinchState) {
+          return false;
+        }
+        var first = activePointers[pinchState.pointerIds[0]];
+        var second = activePointers[pinchState.pointerIds[1]];
+        if (!first || !second) {
+          pinchState = null;
+          return false;
+        }
+        var distance = getPointerDistance(first, second);
+        if (!(distance > 0)) {
+          return false;
+        }
+        var center = getPointerCenter(first, second);
+        zoomState.scale = Math.max(minZoom, Math.min(maxZoom, pinchState.scale * (distance / pinchState.distance)));
+        zoomState.x = center.x - pinchState.worldX * zoomState.scale;
+        zoomState.y = center.y - pinchState.worldY * zoomState.scale;
+        lastPointerMoved = true;
+        lastPointerCountryIso = '';
+        clampPan();
+        applyZoom();
+        return true;
+      };
+      var clearPointer = function(event) {
+        if (!event || typeof event.pointerId === 'undefined') {
+          return;
+        }
+        delete activePointers[String(event.pointerId)];
+      };
+      var capturePointer = function(pointerId) {
+        try {
+          canvas.setPointerCapture(pointerId);
+        } catch (err) {}
+      };
+      var navigateToItem = function(item) {
+        if (item && item.url) {
+          window.location.href = resolveSiteAssetUrl(item.url);
+        }
+      };
+      canvas.addEventListener('pointerdown', function(event) {
+        if (event.target && event.target.closest && event.target.closest('.interactive-map-controls, .uap-world-map-controls, .interactive-map-pan-controls, .uap-world-map-pan-controls')) {
+          return;
+        }
+        activePointers[String(event.pointerId)] = {
+          pointerId: event.pointerId,
+          clientX: event.clientX,
+          clientY: event.clientY,
+          pointerType: event.pointerType || ''
+        };
+        var pointerList = getActivePointerList();
+        if (pointerList.length >= 2) {
+          event.preventDefault();
+          pointerList.forEach(function(pointerInfo) {
+            capturePointer(pointerInfo.pointerId);
+          });
+          lastPointerMoved = true;
+          lastPointerCountryIso = '';
+          beginPinchZoom(pointerList);
+          return;
+        }
+        lastPointerMoved = false;
+        lastPointerCountryIso = '';
+        if (event.target && event.target.closest) {
+          var countryTarget = event.target.closest('[data-interactive-map-item], [data-uap-country]');
+          if (countryTarget) {
+            lastPointerCountryIso = String(countryTarget.getAttribute('data-interactive-map-item') || countryTarget.getAttribute('data-uap-country') || '').toUpperCase();
+          }
+        }
+        if (zoomState.scale <= 1.01) {
+          return;
+        }
+        if (event.pointerType === 'touch') {
+          return;
+        }
+        dragState = {
+          pointerId: event.pointerId,
+          startX: event.clientX,
+          startY: event.clientY,
+          originX: zoomState.x,
+          originY: zoomState.y
+        };
+        capturePointer(event.pointerId);
+        canvas.classList.add('is-panning');
+      });
+      canvas.addEventListener('pointermove', function(event) {
+        if (activePointers[String(event.pointerId)]) {
+          activePointers[String(event.pointerId)].clientX = event.clientX;
+          activePointers[String(event.pointerId)].clientY = event.clientY;
+        }
+        if (pinchState) {
+          event.preventDefault();
+          updatePinchZoom();
+          return;
+        }
+        if (!dragState || dragState.pointerId !== event.pointerId) {
+          return;
+        }
+        if (Math.abs(event.clientX - dragState.startX) > 5 || Math.abs(event.clientY - dragState.startY) > 5) {
+          lastPointerMoved = true;
+        }
+        zoomState.x = dragState.originX + event.clientX - dragState.startX;
+        zoomState.y = dragState.originY + event.clientY - dragState.startY;
+        clampPan();
+        applyZoom();
+      });
+      var endPan = function(event) {
+        clearPointer(event);
+        if (pinchState) {
+          if (getActivePointerList().length >= 2) {
+            beginPinchZoom(getActivePointerList());
+          } else {
+            pinchState = null;
+            dragState = null;
+            canvas.classList.remove('is-panning');
+          }
+          return;
+        }
+        if (!dragState || dragState.pointerId !== event.pointerId) {
+          return;
+        }
+        dragState = null;
+        canvas.classList.remove('is-panning');
+      };
+      canvas.addEventListener('pointerup', endPan);
+      canvas.addEventListener('pointercancel', endPan);
+      canvas.addEventListener('pointerleave', function(event) {
+        if (event.pointerType === 'touch') {
+          endPan(event);
+        }
+      });
+      canvas.addEventListener('click', function(event) {
+        event.preventDefault();
+        event.stopPropagation();
+        if (lastPointerMoved) {
+          lastPointerMoved = false;
+          lastPointerCountryIso = '';
+          return;
+        }
+        var countryNode = event.target && event.target.closest ? event.target.closest('[data-interactive-map-item], [data-uap-country]') : null;
+        var iso = countryNode
+          ? String(countryNode.getAttribute('data-interactive-map-item') || countryNode.getAttribute('data-uap-country') || '').toUpperCase()
+          : lastPointerCountryIso;
+        lastPointerCountryIso = '';
+        if (iso && byIso[iso]) {
+          navigateToItem(byIso[iso]);
+        }
+      });
+      applyZoom();
+      var active = null;
+      var activeItem = null;
+      var nodesByIso = {};
+      var zoomToScreenBounds = function(bounds, nextScale) {
+        var canvasRect = canvas.getBoundingClientRect();
+        if (!bounds || !canvasRect.width || !canvasRect.height || bounds.right <= bounds.left || bounds.bottom <= bounds.top) {
+          return;
+        }
+        var centerX = bounds.left - canvasRect.left + (bounds.right - bounds.left) / 2;
+        var centerY = bounds.top - canvasRect.top + (bounds.bottom - bounds.top) / 2;
+        var worldX = (centerX - zoomState.x) / zoomState.scale;
+        var worldY = (centerY - zoomState.y) / zoomState.scale;
+        zoomState.scale = Math.max(minZoom, Math.min(maxZoom, nextScale));
+        zoomState.x = canvasRect.width / 2 - worldX * zoomState.scale;
+        zoomState.y = canvasRect.height / 2 - worldY * zoomState.scale;
+        clampPan();
+        applyZoom();
+      };
+      var focusMapOnRegion = function(regionKey) {
+        var targetRegionKey = normaliseRegionKey(regionKey);
+        var bounds = null;
+        if (!targetRegionKey) {
+          return false;
+        }
+        Object.keys(byIso).forEach(function(iso) {
+          var item = byIso[iso];
+          var node = nodesByIso[iso];
+          if (!item || !node || getItemRegionKey(item) !== targetRegionKey) {
+            return;
+          }
+          var rect = getMapNodesBounds(node);
+          if (!rect || !rect.right || !rect.bottom || rect.right <= rect.left || rect.bottom <= rect.top) {
+            return;
+          }
+          if (!bounds) {
+            bounds = { left: rect.left, top: rect.top, right: rect.right, bottom: rect.bottom };
+            return;
+          }
+          bounds.left = Math.min(bounds.left, rect.left);
+          bounds.top = Math.min(bounds.top, rect.top);
+          bounds.right = Math.max(bounds.right, rect.right);
+          bounds.bottom = Math.max(bounds.bottom, rect.bottom);
+        });
+        if (!bounds) {
+          return false;
+        }
+        zoomToScreenBounds(bounds, targetRegionKey === 'americas' ? 1.75 : 2.05);
+        root.setAttribute('data-interactive-map-region-focus', targetRegionKey);
+        root.setAttribute('data-uap-world-map-region-focus', targetRegionKey);
+        return true;
+      };
+      var updatePreview = function(item) {
+        if (!item || !preview) {
+          return;
+        }
+        preview.setAttribute('tabindex', item.url ? '0' : '-1');
+        preview.setAttribute('role', item.url ? 'link' : 'group');
+        preview.setAttribute('aria-label', item.url ? 'Open file for ' + getItemLabel(item) : itemTypeTitle + ' preview');
+        var imageUrl = resolveSiteAssetUrl(item.image);
+        warmPreviewImage(item);
+        var imageHtml = imageUrl ? '<img src="' + escapeHtml(imageUrl) + '" alt="" loading="eager" decoding="async" fetchpriority="high">' : '';
+        var previewLabel = getItemLabel(item);
+        var previewTitle = getItemTitle(item);
+        var kickerHtml = shouldShowPreviewKicker(previewLabel, previewTitle)
+          ? '<span class="interactive-map-preview-kicker uap-world-map-preview-kicker">' + escapeHtml(previewLabel) + '</span>'
+          : '';
+        preview.innerHTML = imageHtml
+          + getPreviewMetaHtml(item)
+          + kickerHtml
+          + '<strong data-interactive-map-preview-title data-uap-world-map-preview-title>' + escapeHtml(previewTitle) + '</strong>'
+          + '<span data-interactive-map-preview-summary data-uap-world-map-preview-summary>' + escapeHtml(getItemSummary(item)) + '</span>'
+          + (item.url ? '<span class="interactive-map-preview-cta uap-world-map-preview-cta">Open file</span>' : '');
+      };
+      var forEachMapNode = function(nodeOrNodes, callback) {
+        if (!nodeOrNodes || typeof callback !== 'function') {
+          return;
+        }
+        if (nodeOrNodes.length && !nodeOrNodes.nodeType) {
+          Array.prototype.forEach.call(nodeOrNodes, function(node) {
+            if (node) {
+              callback(node);
+            }
+          });
+          return;
+        }
+        callback(nodeOrNodes);
+      };
+      var getMapNodesBounds = function(nodeOrNodes) {
+        var bounds = null;
+        forEachMapNode(nodeOrNodes, function(node) {
+          if (!node || !node.getBoundingClientRect) {
+            return;
+          }
+          var rect = node.getBoundingClientRect();
+          if (!rect.width || !rect.height) {
+            return;
+          }
+          if (!bounds) {
+            bounds = { left: rect.left, top: rect.top, right: rect.right, bottom: rect.bottom };
+            return;
+          }
+          bounds.left = Math.min(bounds.left, rect.left);
+          bounds.top = Math.min(bounds.top, rect.top);
+          bounds.right = Math.max(bounds.right, rect.right);
+          bounds.bottom = Math.max(bounds.bottom, rect.bottom);
+        });
+        return bounds;
+      };
+      var clearActive = function() {
+        forEachMapNode(active, function(node) {
+          node.classList.remove('is-hovered');
+        });
+        active = null;
+      };
+      if (preview) {
+        preview.addEventListener('click', function(event) {
+          event.preventDefault();
+          event.stopPropagation();
+          var regionFocusButton = event.target && event.target.closest
+            ? event.target.closest('[data-interactive-map-continent-focus], [data-uap-world-map-region-focus]')
+            : null;
+          if (regionFocusButton) {
+            focusMapOnRegion(
+              regionFocusButton.getAttribute('data-interactive-map-continent-focus')
+              || regionFocusButton.getAttribute('data-uap-world-map-region-focus')
+            );
+            return;
+          }
+          navigateToItem(activeItem);
+        });
+        preview.addEventListener('keydown', function(event) {
+          if (event.target && event.target.closest && event.target.closest('[data-interactive-map-continent-focus], [data-uap-world-map-region-focus]')) {
+            return;
+          }
+          if (event.key === 'Enter' || event.key === ' ') {
+            event.preventDefault();
+            event.stopPropagation();
+            navigateToItem(activeItem);
+          }
+        });
+      }
+      var focusCountry = function(node, item, options) {
+        clearActive();
+        active = node;
+        activeItem = item;
+        forEachMapNode(node, function(part) {
+          part.classList.add('is-hovered');
+        });
+        updatePreview(item);
+        if (options && options.zoom) {
+          var bounds = getMapNodesBounds(node);
+          if (bounds) {
+            zoomToScreenBounds(bounds, options.scale || 2.7);
+          }
+        }
+      };
+      var escapeAttrValue = function(value) {
+        return String(value || '').replace(/\\/g, '\\\\').replace(/"/g, '\\"');
+      };
+      var normaliseMapSvgLabel = function(value) {
+        var text = String(value || '').trim().toLowerCase();
+        if (text.normalize) {
+          text = text.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+        }
+        return text.replace(/[^a-z0-9]+/g, ' ').trim();
+      };
+      var getMapNodesForItem = function(iso, item) {
+        var exact = svg.getElementById ? svg.getElementById(iso) : svg.querySelector('#' + iso);
+        if (exact) {
+          return [exact];
+        }
+        var labels = [
+          item && item.country,
+          item && item.label,
+          item && item.mapName,
+          item && item.displayLabel
+        ].concat((item && item.mapAliases) || []).filter(Boolean);
+        var selectors = [];
+        labels.forEach(function(label) {
+          var safe = escapeAttrValue(label);
+          selectors.push('[name="' + safe + '"]');
+          selectors.push('[class="' + safe + '"]');
+        });
+        if (!selectors.length) {
+          return [];
+        }
+        var seen = [];
+        Array.prototype.forEach.call(svg.querySelectorAll(selectors.join(',')), function(node) {
+          if (seen.indexOf(node) === -1) {
+            seen.push(node);
+          }
+        });
+        if (!seen.length) {
+          var normalisedLabels = labels.map(normaliseMapSvgLabel).filter(Boolean);
+          Array.prototype.forEach.call(svg.querySelectorAll('[name], [class]'), function(node) {
+            var candidates = [
+              normaliseMapSvgLabel(node.getAttribute('name')),
+              normaliseMapSvgLabel(node.getAttribute('class'))
+            ];
+            if (candidates.some(function(candidate) { return normalisedLabels.indexOf(candidate) !== -1; })) {
+              seen.push(node);
+            }
+          });
+        }
+        return seen;
+      };
+      var guessedIso = guessVisitorCountryIso(byIso);
+      var guessedNode = null;
+      Object.keys(byIso).forEach(function(iso) {
+        var item = byIso[iso];
+        var nodes = getMapNodesForItem(iso, item);
+        if (!nodes.length || !item) {
+          return;
+        }
+        if (iso === guessedIso) {
+          guessedNode = nodes;
+        }
+        nodesByIso[iso] = nodes;
+        nodes.forEach(function(node) {
+          node.classList.add('is-linked');
+          node.setAttribute('data-uap-country', iso);
+          node.setAttribute('data-interactive-map-item', iso);
+          node.setAttribute('tabindex', '0');
+          node.setAttribute('role', 'link');
+          node.setAttribute('aria-label', 'Open ' + getItemLabel(item));
+          node.addEventListener('mouseenter', function() { focusCountry(nodes, item); });
+          node.addEventListener('focus', function() { focusCountry(nodes, item); });
+          node.addEventListener('click', function(event) {
+            event.preventDefault();
+            event.stopPropagation();
+            navigateToItem(item);
+          });
+          node.addEventListener('keydown', function(event) {
+            if ((event.key === 'Enter' || event.key === ' ') && item.url) {
+              event.preventDefault();
+              event.stopPropagation();
+              navigateToItem(item);
+            }
+          });
+        });
+      });
+      if (root.getAttribute('data-map-auto-focus') === 'visitor' && guessedIso && guessedNode) {
+        window.setTimeout(function() {
+          if (!active) {
+            focusCountry(guessedNode, byIso[guessedIso], { zoom: true });
+          }
+        }, 160);
+      }
+    }).catch(function() {
+      canvas.textContent = 'Map unavailable.';
+    });
+    });
+  }
+
   function init() {
     initContentPageScrollReset();
     initScrollAnimations();
@@ -8561,6 +9979,7 @@
     initHomeResponsiveDisclosures();
     initHomeModeSwitcher();
     initHomeVerticalView();
+    initUapWorldMap();
     initHomeFilter();
     initHomeCardNavigation();
     initHierarchyGraphs();
@@ -8576,3 +9995,4 @@
     init();
   }
 })();
+

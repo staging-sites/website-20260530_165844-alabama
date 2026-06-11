@@ -262,7 +262,7 @@ sibling_links:
   short_title: Michigan UFOs
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Alabama_d1f92d
   title: Alabama UFOs
@@ -277,9 +277,9 @@ sibling_links:
   permalink: /what-keeps-tennessees-ufo-stories-alive/
   short_title: Tennessee UFOs
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Idaho_18334c
   title: Idaho UFOs
   permalink: /what-makes-idaho-a-key-ufo-hotspot/
@@ -289,9 +289,9 @@ sibling_links:
   permalink: /what-makes-indianas-ufo-history-unique/
   short_title: Indiana UFOs
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: South_Carolina_11d001
   title: South Carolina UFOs
   permalink: /what-makes-south-carolinas-ufo-story/
@@ -481,7 +481,6 @@ image: /assets/images/Oklahoma_86daa4-overview-social.jpg
 
 Oklahoma’s UFO record is shaped by geography and infrastructure. The state sits in the middle of the United States, under busy civil and military airspace, with large open skies, long sightlines and major aviation institutions. Tinker Air Force Base, beside Oklahoma City, has been central to that setting. It is not merely a local airfield: official Tinker material lists the Oklahoma City Air Logistics Complex, the 552nd Air Control Wing, the 72nd Air Base Wing and other major military units among its missions and partners. The 552nd Air Control Wing’s role in airborne warning, surveillance and battle management gives Oklahoma a direct connection to the kind of radar-and-air-defence context that often frames UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tinker.af.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tinker.af.mil">[tinker.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tinker.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tinker.af.mil/About-Tinker/Fact-Sheets/Display/Article/2461278/552nd-air-control-wing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tinker.af.mil">[tinker.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tinker.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
 
-
 <img src="{{ "/assets/images/Oklahoma_86daa4-overview.webp" | relative_url }}" alt="Overview image for Why Oklahoma Became a UFO State" loading="eager" decoding="sync" fetchpriority="high">
 That does not mean UFO reports near Oklahoma City are automatically more extraordinary. It means they are more likely to be entangled with aircraft, radar, air-defence procedures, weather observations and military secrecy. A light near Tinker may be a genuine unknown to a witness, while also having a mundane explanation unavailable to that person at the time. This is a recurring theme in Oklahoma cases: the best stories often involve credible observers, but the records are still too partial to support confident conclusions.
 
@@ -495,8 +494,7 @@ Savage’s case matters less because it is conclusive and more because of its ti
 
 The doubts are obvious. The report rests on witness description and later archival interpretation, not on publicly available physical evidence. Even a pilot’s testimony is not immune from distance, angle, speed-estimation error or atmospheric illusion. Still, as an early Oklahoma case, it is important because it places the state inside the opening chapter of modern American UFO culture rather than as a latecomer to it.
 
-
-<img src="{{ "/assets/images/Oklahoma_86daa4-Illustration-1-light.svg" | relative_url }}" alt="Why Oklahoma Became a UFO State illustration 1" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oklahoma_86daa4-Illustration-1-dark.svg" | relative_url }}" alt="Why Oklahoma Became a UFO State illustration 1" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1965 flap: Oklahoma’s landmark UFO episode
 
 The strongest Oklahoma UFO story is the summer [1965 flap]({{ '1965-flap/' | relative_url }}). Reports began in southern Oklahoma and spread through communities including [Wynnewood]({{ 'wynnewood/' | relative_url }}), Ardmore, Edmond, Oklahoma City and Tulsa. Contemporary-style summaries describe multicoloured objects, greenish glows, red, white and blue lights, hovering behaviour and multiple witnesses leaving homes or crowding roads to look at the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oklahomahistory.net/ufo-scare-1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oklahomahistory.net">[oklahomahistory.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oklahomahistory.net</span><span class="citation-popover-title">ufo scare 1965</span><span class="citation-popover-snippet">ufo scare 1965</span></span></span>
@@ -506,7 +504,6 @@ The Wynnewood report is one of the anchors. Lewis Sikes, a night watchman or pol
 The Ardmore accounts added a mass-witness feel. A local history summary describes sightings beginning around 10:30pm south and west of Ardmore before spreading across the area, with witnesses describing saucer-like or cone-shaped oddities and flashing lights. Such details are vivid, but they also create a classic UFO-investigation problem: many simultaneous reports can indicate a real shared stimulus, yet the descriptions may diverge as people interpret lights from different angles, distances and levels of expectation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oklahomahistory.net/ufo-scare-1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oklahomahistory.net">[oklahomahistory.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oklahomahistory.net</span><span class="citation-popover-title">ufo scare 1965</span><span class="citation-popover-snippet">ufo scare 1965</span></span></span>
 
 Oklahoma City and Edmond brought the story closer to the state’s aviation and media centre. Local accounts say the Oklahoma Highway Patrol received numerous calls, and Hewes went to a Highway Patrol lookout and communications tower near Edmond after being alerted by a reporter. He later described a dominant white light with a green glow and flashing red, white and blue lights, hovering for about an hour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://edmondlifeandleisure.com/tulsa-paperboy-made-ufo-history-in-p10411-87.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[edmondlifeandleisure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">tulsa paperboy made ufo history in p10411 87</span><span class="citation-popover-snippet">tulsa paperboy made ufo history in p10411 87</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZIPsPRaZP6M" title="The power of inclusive education | Ilene Schwartz | TEDxEastsidePrep" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZIPsPRaZP6M" target="_blank" rel="noopener noreferrer">The power of inclusive education | Ilene Schwartz | TEDxEastsidePrep</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 249.4K &middot; Uploaded: April 2015 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZIPsPRaZP6M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZIPsPRaZP6M">Open on YouTube</a></p></div></div></div>
 
@@ -528,8 +525,7 @@ The same account shows why photographs rarely settle UFO cases. Hewes reportedly
 
 For readers, the [Tulsa photo]({{ 'tulsa-photo/' | relative_url }}) is best understood as part of the media history of Oklahoma UFOs rather than as proof of a craft. It shows how a local sighting can move from witness claim to newspaper story to national UFO lore. It also shows how quickly evidential standards rise once a case leaves the realm of curiosity and becomes a serious claim.
 
-
-<img src="{{ "/assets/images/Oklahoma_86daa4-Illustration-2-light.svg" | relative_url }}" alt="Why Oklahoma Became a UFO State illustration 2" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oklahoma_86daa4-Illustration-2-dark.svg" | relative_url }}" alt="Why Oklahoma Became a UFO State illustration 2" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Civilian investigators and Oklahoma archives
 
 Oklahoma’s UFO history is unusually tied to civilian researchers. Hayden Hewes and organisations associated with him helped create a local reporting pipeline at a time when many witnesses might otherwise have spoken only to neighbours, police or newspapers. Later local accounts describe the International UFO Bureau or related groups as having scientific, astronomical, university and law-enforcement contacts, though such descriptions should be read as part of UFO-community history rather than as proof that the investigations met modern scientific standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://edmondlifeandleisure.com/tulsa-paperboy-made-ufo-history-in-p10411-87.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[edmondlifeandleisure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">tulsa paperboy made ufo history in p10411 87</span><span class="citation-popover-snippet">tulsa paperboy made ufo history in p10411 87</span></span></span>
@@ -546,7 +542,6 @@ Newer platforms such as Enigma have added app-based reporting and mapping. Local
 
 This larger data environment has two opposing effects. On the positive side, more reports can reveal clusters, repeated misidentifications and time-location patterns. On the negative side, smartphone videos of lights, satellites, aircraft, drones and rocket launches can spread faster than they can be checked. A 2024 Oklahoma “UFO” video, for example, generated public debate around whether the light could have been connected to a SpaceX launch or another aerospace event; even when one explanation does not fit neatly, the case still illustrates how modern skywatching is complicated by satellites, launch plumes and online speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/news/world/americas/oklahoma-ufo-family-sighting-sky-b2509603.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">The Independent&#x27;Is that a UFO?&#x27; Oklahoma family spot bizarre other-worldly</span><span class="citation-popover-snippet">The Independent&#x27;Is that a UFO?&#x27; Oklahoma family spot bizarre other-worldly</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7bns_WhNAQM" title="THE “JELLYFISH” UAP : VIDEO #1 : FULL FOOTAGE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7bns_WhNAQM" target="_blank" rel="noopener noreferrer">THE “JELLYFISH” UAP : VIDEO #1 : FULL FOOTAGE</a></p><p class="youtube-embed-meta">Channel: Jeremy Corbell &middot; Views: 439.8K &middot; Uploaded: January 2024 &middot; Length: 2 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7bns_WhNAQM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7bns_WhNAQM">Open on YouTube</a></p></div></div></div>
 
 ## Common explanations in Oklahoma cases
@@ -557,13 +552,11 @@ Oklahoma’s open skies can make ordinary objects look strange. A distant aircra
 
 The official modern position also favours caution. The US Department of Defense’s All-domain Anomaly Resolution Office has said it has found no verifiable evidence of extraterrestrial beings, activity or technology, while also acknowledging that many reports lack enough scientific data for analysis and may remain unresolved unless more information emerges. Reuters reported the 2024 Pentagon historical review as finding no evidence of extraterrestrial technology and saying many sightings are ordinary objects or phenomena, with better data needed for resolution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">dod examining unidentified anomalous phenomena</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D7ArcpUnqfA" title="May 22 2025 UFO-Airliner Incident at 35,000 ft – Real or Hoax?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D7ArcpUnqfA" target="_blank" rel="noopener noreferrer">May 22 2025 UFO-Airliner Incident at 35,000 ft – Real or Hoax?</a></p><p class="youtube-embed-meta">Channel: The Mover and Gonky Show &middot; Views: 17.9K &middot; Uploaded: June 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D7ArcpUnqfA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D7ArcpUnqfA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A-IXFQh1kEw" title="Unraveling the mystery of the Oklahoma UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A-IXFQh1kEw" target="_blank" rel="noopener noreferrer">Unraveling the mystery of the Oklahoma UFO</a></p><p class="youtube-embed-meta">Channel: KFOR Oklahoma&#x27;s News 4 &middot; Views: 32.7K &middot; Uploaded: March 2024 &middot; Length: 3 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A-IXFQh1kEw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A-IXFQh1kEw">Open on YouTube</a></p></div></div></div>
 
 ## How to judge Oklahoma UFO claims
 
 A useful Oklahoma UFO claim is not simply the strangest one. It is the one with the best chain of evidence. The strongest cases usually have several of these features:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -577,8 +570,7 @@ A useful Oklahoma UFO claim is not simply the strangest one. It is the one with 
 
 By that standard, the 1965 flap remains Oklahoma’s most important UFO episode because it combines widespread witness reports, police and Highway Patrol involvement, claimed radar elements, local investigation and media documentation. But it is still not a solved case in the dramatic sense. The public evidence is strong enough to make it historically important, not strong enough to prove an extraordinary origin.
 
-
-<img src="{{ "/assets/images/Oklahoma_86daa4-Illustration-3-light.svg" | relative_url }}" alt="Why Oklahoma Became a UFO State illustration 3" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oklahoma_86daa4-Illustration-3-dark.svg" | relative_url }}" alt="Why Oklahoma Became a UFO State illustration 3" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Oklahoma’s UFO history really shows
 
 Oklahoma’s UFO record is best read as a state-level case study in how unexplained aerial reports form, spread and survive. The 1947 Byron Savage report shows Oklahoma appearing at the birth of the modern flying-disc era. The 1965 flap shows how a regional wave can involve police, radar claims, military bases, newspapers and civilian investigators all at once. The Tulsa photograph shows how visual evidence can become famous without becoming decisive. Modern databases show that reports continue, but also that quantity is not the same as quality. nuforc.org 3KOCO <span class="citation-chip-wrap"><a class="citation-chip" href="https://oklahomahistory.net/ufo-scare-1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oklahomahistory.net">[3oklahomahistory.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oklahomahistory.net</span><span class="citation-popover-title">ufo scare 1965</span><span class="citation-popover-snippet">ufo scare 1965</span></span></span>
@@ -671,7 +663,7 @@ The fairest conclusion is neither “nothing happened” nor “Oklahoma was vis
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -681,111 +673,36 @@ The fairest conclusion is neither “nothing happened” nor “Oklahoma was vis
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="https://i.ebayimg.com/images/g/B7QAAeSw73loHdMA/s-l225.jpg" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -793,15 +710,15 @@ The fairest conclusion is neither “nothing happened” nor “Oklahoma was vis
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -809,15 +726,15 @@ The fairest conclusion is neither “nothing happened” nor “Oklahoma was vis
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S"><img src="https://i.ebayimg.com/images/g/yRcAAOSwWhdmw231/s-l225.jpg" alt="Listing image for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -825,15 +742,15 @@ The fairest conclusion is neither “nothing happened” nor “Oklahoma was vis
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth"><img src="https://i.ebayimg.com/images/g/VF0AAeSwVpBpJZso/s-l225.jpg" alt="Listing image for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -841,7 +758,7 @@ The fairest conclusion is neither “nothing happened” nor “Oklahoma was vis
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-oklahoma-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-oklahoma-became-a-ufo-state-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -918,17 +835,31 @@ The fairest conclusion is neither “nothing happened” nor “Oklahoma was vis
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -941,42 +872,73 @@ The fairest conclusion is neither “nothing happened” nor “Oklahoma was vis
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -991,12 +953,17 @@ The fairest conclusion is neither “nothing happened” nor “Oklahoma was vis
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -1006,375 +973,375 @@ The fairest conclusion is neither “nothing happened” nor “Oklahoma was vis
 
 1. <a id="endnote-1"></a>
    Source: koco.com  
-   Link: [https://www.koco.com/article/declassified-pentagon-files-uap-sightings-oklahoma-city-ufo/71403117](https://www.koco.com/article/declassified-pentagon-files-uap-sightings-oklahoma-city-ufo/71403117)  
+   Link: <a href="https://www.koco.com/article/declassified-pentagon-files-uap-sightings-oklahoma-city-ufo/71403117" target="_blank" rel="noopener noreferrer nofollow">https://www.koco.com/article/declassified-pentagon-files-uap-sightings-oklahoma-city-ufo/71403117</a>  
 
 2. <a id="endnote-2"></a>
    Source: oklahomahistory.net  
    Title: ufo scare 1965  
-   Link: [https://oklahomahistory.net/ufo-scare-1965/](https://oklahomahistory.net/ufo-scare-1965/)  
+   Link: <a href="https://oklahomahistory.net/ufo-scare-1965/" target="_blank" rel="noopener noreferrer nofollow">https://oklahomahistory.net/ufo-scare-1965/</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lOK](https://nuforc.org/subndx/?id=lOK)  
+   Link: <a href="https://nuforc.org/subndx/?id=lOK" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lOK</a>  
 
 4. <a id="endnote-4"></a>
    Source: tinker.af.mil  
-   Link: [https://www.tinker.af.mil/](https://www.tinker.af.mil/)  
+   Link: <a href="https://www.tinker.af.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.tinker.af.mil/</a>  
 
 5. <a id="endnote-5"></a>
    Source: tinker.af.mil  
-   Link: [https://www.tinker.af.mil/About-Tinker/Fact-Sheets/Display/Article/2461278/552nd-air-control-wing/](https://www.tinker.af.mil/About-Tinker/Fact-Sheets/Display/Article/2461278/552nd-air-control-wing/)  
+   Link: <a href="https://www.tinker.af.mil/About-Tinker/Fact-Sheets/Display/Article/2461278/552nd-air-control-wing/" target="_blank" rel="noopener noreferrer nofollow">https://www.tinker.af.mil/About-Tinker/Fact-Sheets/Display/Article/2461278/552nd-air-control-wing/</a>  
 
 6. <a id="endnote-6"></a>
    Source: tinker.af.mil  
    Title: Newcomers' Info  
-   Link: [https://www.tinker.af.mil/About-Tinker/Newcomers-Info/](https://www.tinker.af.mil/About-Tinker/Newcomers-Info/)  
+   Link: <a href="https://www.tinker.af.mil/About-Tinker/Newcomers-Info/" target="_blank" rel="noopener noreferrer nofollow">https://www.tinker.af.mil/About-Tinker/Newcomers-Info/</a>  
 
 7. <a id="endnote-7"></a>
    Source: edmondlifeandleisure.com  
    Title: edmond underground in edmond abuzz with uco sightings p10350 87  
-   Link: [https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm](https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm)  
+   Link: <a href="https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm" target="_blank" rel="noopener noreferrer nofollow">https://edmondlifeandleisure.com/edmond-underground-in-edmond-abuzz-with-uco-sightings-p10350-87.htm</a>  
 
 8. <a id="endnote-8"></a>
    Source: edmondlifeandleisure.com  
    Title: remembering a man who investigated the unusual p19337 76  
-   Link: [https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm](https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm)  
+   Link: <a href="https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm" target="_blank" rel="noopener noreferrer nofollow">https://edmondlifeandleisure.com/remembering-a-man-who-investigated-the-unusual-p19337-76.htm</a>  
 
 9. <a id="endnote-9"></a>
    Source: koco.com  
    Title: oklahoma ufo history unidentified anomalous phenomena sightings  
-   Link: [https://www.koco.com/article/oklahoma-ufo-history-unidentified-anomalous-phenomena-sightings/45347432](https://www.koco.com/article/oklahoma-ufo-history-unidentified-anomalous-phenomena-sightings/45347432)  
+   Link: <a href="https://www.koco.com/article/oklahoma-ufo-history-unidentified-anomalous-phenomena-sightings/45347432" target="_blank" rel="noopener noreferrer nofollow">https://www.koco.com/article/oklahoma-ufo-history-unidentified-anomalous-phenomena-sightings/45347432</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: [https://en.wikipedia.org/wiki/1947_flying_disc_craze](https://en.wikipedia.org/wiki/1947_flying_disc_craze)  
+   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 12. <a id="endnote-12"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 14. <a id="endnote-14"></a>
    Source: edmondlifeandleisure.com  
    Title: tulsa paperboy made ufo history in p10411 87  
-   Link: [https://edmondlifeandleisure.com/tulsa-paperboy-made-ufo-history-in-p10411-87.htm](https://edmondlifeandleisure.com/tulsa-paperboy-made-ufo-history-in-p10411-87.htm)  
+   Link: <a href="https://edmondlifeandleisure.com/tulsa-paperboy-made-ufo-history-in-p10411-87.htm" target="_blank" rel="noopener noreferrer nofollow">https://edmondlifeandleisure.com/tulsa-paperboy-made-ufo-history-in-p10411-87.htm</a>  
 
 15. <a id="endnote-15"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Sooner-Saucers-Oklahoma-UFOs-1947-1969/dp/B08D4Y2CLB](https://www.amazon.co.uk/Sooner-Saucers-Oklahoma-UFOs-1947-1969/dp/B08D4Y2CLB)  
+   Link: <a href="https://www.amazon.co.uk/Sooner-Saucers-Oklahoma-UFOs-1947-1969/dp/B08D4Y2CLB" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Sooner-Saucers-Oklahoma-UFOs-1947-1969/dp/B08D4Y2CLB</a>  
 
 16. <a id="endnote-16"></a>
    Source: southwestledger.news  
    Title: saucers focuses oklahomas role ufo sightings  
-   Link: [https://www.southwestledger.news/news/saucers-focuses-oklahomas-role-ufo-sightings](https://www.southwestledger.news/news/saucers-focuses-oklahomas-role-ufo-sightings)  
+   Link: <a href="https://www.southwestledger.news/news/saucers-focuses-oklahomas-role-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.southwestledger.news/news/saucers-focuses-oklahomas-role-ufo-sightings</a>  
 
 17. <a id="endnote-17"></a>
    Source: amazon.com  
-   Link: [https://www.amazon.com/Sooner-Saucers-Marilyn-Hudson/dp/B0C2SM3L5X](https://www.amazon.com/Sooner-Saucers-Marilyn-Hudson/dp/B0C2SM3L5X)  
+   Link: <a href="https://www.amazon.com/Sooner-Saucers-Marilyn-Hudson/dp/B0C2SM3L5X" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Sooner-Saucers-Marilyn-Hudson/dp/B0C2SM3L5X</a>  
 
 18. <a id="endnote-18"></a>
    Source: digitalprairieok.net  
    Title: Oklahoma Collection Vertical Files Biographical Files  
-   Link: [https://digitalprairieok.net/info/VerticalFile_Biographical_2020.pdf](https://digitalprairieok.net/info/VerticalFile_Biographical_2020.pdf)  
+   Link: <a href="https://digitalprairieok.net/info/VerticalFile_Biographical_2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalprairieok.net/info/VerticalFile_Biographical_2020.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 20. <a id="endnote-20"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 21. <a id="endnote-21"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
 22. <a id="endnote-22"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 23. <a id="endnote-23"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/docs/list.htm](https://www.nicap.org/docs/list.htm)  
+   Link: <a href="https://www.nicap.org/docs/list.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/list.htm</a>  
 
 24. <a id="endnote-24"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=106547](https://nuforc.org/sighting/?id=106547)  
+   Link: <a href="https://nuforc.org/sighting/?id=106547" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=106547</a>  
 
 25. <a id="endnote-25"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=33158](https://nuforc.org/sighting/?id=33158)  
+   Link: <a href="https://nuforc.org/sighting/?id=33158" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=33158</a>  
 
 26. <a id="endnote-26"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 27. <a id="endnote-27"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=158990](https://nuforc.org/sighting/?id=158990)  
+   Link: <a href="https://nuforc.org/sighting/?id=158990" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=158990</a>  
 
 28. <a id="endnote-28"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=124147](https://nuforc.org/sighting/?id=124147)  
+   Link: <a href="https://nuforc.org/sighting/?id=124147" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=124147</a>  
 
 29. <a id="endnote-29"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=29060](https://nuforc.org/sighting/?id=29060)  
+   Link: <a href="https://nuforc.org/sighting/?id=29060" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=29060</a>  
 
 30. <a id="endnote-30"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 31. <a id="endnote-31"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=185289](https://nuforc.org/sighting/?id=185289)  
+   Link: <a href="https://nuforc.org/sighting/?id=185289" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185289</a>  
 
 32. <a id="endnote-32"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 9  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_9.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_9.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_9.pdf</a>  
 
 33. <a id="endnote-33"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/usper-statement-redacted.pdf](https://www.war.gov/medialink/ufo/release_1/usper-statement-redacted.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/usper-statement-redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/usper-statement-redacted.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 7  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_7.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_7.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_7.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 3  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf</a>  
 
 36. <a id="endnote-36"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 serial 130  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_130.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_130.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_130.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_130.pdf</a>  
 
 37. <a id="endnote-37"></a>
    Source: tinker.af.mil  
-   Link: [https://www.tinker.af.mil/About-Tinker/Fact-Sheets/Display/Article/384764/oklahoma-city-air-logistics-complex/](https://www.tinker.af.mil/About-Tinker/Fact-Sheets/Display/Article/384764/oklahoma-city-air-logistics-complex/)  
+   Link: <a href="https://www.tinker.af.mil/About-Tinker/Fact-Sheets/Display/Article/384764/oklahoma-city-air-logistics-complex/" target="_blank" rel="noopener noreferrer nofollow">https://www.tinker.af.mil/About-Tinker/Fact-Sheets/Display/Article/384764/oklahoma-city-air-logistics-complex/</a>  
 
 38. <a id="endnote-38"></a>
    Source: tinker.af.mil  
    Title: small reserve unit restores air traffic in puerto rico  
-   Link: [https://www.tinker.af.mil/News/Article-Display/Article/1336817/small-reserve-unit-restores-air-traffic-in-puerto-rico/](https://www.tinker.af.mil/News/Article-Display/Article/1336817/small-reserve-unit-restores-air-traffic-in-puerto-rico/)  
+   Link: <a href="https://www.tinker.af.mil/News/Article-Display/Article/1336817/small-reserve-unit-restores-air-traffic-in-puerto-rico/" target="_blank" rel="noopener noreferrer nofollow">https://www.tinker.af.mil/News/Article-Display/Article/1336817/small-reserve-unit-restores-air-traffic-in-puerto-rico/</a>  
 
 39. <a id="endnote-39"></a>
    Source: tinker.af.mil  
-   Link: [https://www.tinker.af.mil/About-Us/Fact-Sheets/](https://www.tinker.af.mil/About-Us/Fact-Sheets/)  
+   Link: <a href="https://www.tinker.af.mil/About-Us/Fact-Sheets/" target="_blank" rel="noopener noreferrer nofollow">https://www.tinker.af.mil/About-Us/Fact-Sheets/</a>  
 
 40. <a id="endnote-40"></a>
    Source: tinker.af.mil  
-   Link: [https://www.tinker.af.mil/Portals/106/Documents/History/Tinker%20AFB%20History.pdf?ver=y8ZbsEYWUnT5nLoOPhfsyQ%3D%3D](https://www.tinker.af.mil/Portals/106/Documents/History/Tinker%20AFB%20History.pdf?ver=y8ZbsEYWUnT5nLoOPhfsyQ%3D%3D)  
+   Link: <a href="https://www.tinker.af.mil/Portals/106/Documents/History/Tinker%20AFB%20History.pdf?ver=y8ZbsEYWUnT5nLoOPhfsyQ%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.tinker.af.mil/Portals/106/Documents/History/Tinker%20AFB%20History.pdf?ver=y8ZbsEYWUnT5nLoOPhfsyQ%3D%3D</a>  
 
 41. <a id="endnote-41"></a>
    Source: tinker.af.mil  
-   Link: [https://www.tinker.af.mil/About-Tinker/Leadership/](https://www.tinker.af.mil/About-Tinker/Leadership/)  
+   Link: <a href="https://www.tinker.af.mil/About-Tinker/Leadership/" target="_blank" rel="noopener noreferrer nofollow">https://www.tinker.af.mil/About-Tinker/Leadership/</a>  
 
 42. <a id="endnote-42"></a>
    Source: tinker.af.mil  
-   Link: [https://www.tinker.af.mil/About-Tinker/Fact-Sheets/Display/Article/384765/72nd-air-base-wing/](https://www.tinker.af.mil/About-Tinker/Fact-Sheets/Display/Article/384765/72nd-air-base-wing/)  
+   Link: <a href="https://www.tinker.af.mil/About-Tinker/Fact-Sheets/Display/Article/384765/72nd-air-base-wing/" target="_blank" rel="noopener noreferrer nofollow">https://www.tinker.af.mil/About-Tinker/Fact-Sheets/Display/Article/384765/72nd-air-base-wing/</a>  
 
 43. <a id="endnote-43"></a>
    Source: tinker.af.mil  
    Title: air force team in norman works to maintain radars worldwide  
-   Link: [https://www.tinker.af.mil/News/Article-Display/Article/1708252/air-force-team-in-norman-works-to-maintain-radars-worldwide/](https://www.tinker.af.mil/News/Article-Display/Article/1708252/air-force-team-in-norman-works-to-maintain-radars-worldwide/)  
+   Link: <a href="https://www.tinker.af.mil/News/Article-Display/Article/1708252/air-force-team-in-norman-works-to-maintain-radars-worldwide/" target="_blank" rel="noopener noreferrer nofollow">https://www.tinker.af.mil/News/Article-Display/Article/1708252/air-force-team-in-norman-works-to-maintain-radars-worldwide/</a>  
 
 44. <a id="endnote-44"></a>
    Source: tinker.af.mil  
-   Link: [https://www.tinker.af.mil/News/Article-Display/Article/4347388/fencisco-n-harris/](https://www.tinker.af.mil/News/Article-Display/Article/4347388/fencisco-n-harris/)  
+   Link: <a href="https://www.tinker.af.mil/News/Article-Display/Article/4347388/fencisco-n-harris/" target="_blank" rel="noopener noreferrer nofollow">https://www.tinker.af.mil/News/Article-Display/Article/4347388/fencisco-n-harris/</a>  
 
 45. <a id="endnote-45"></a>
    Source: tinker.af.mil  
    Title: tinker projects strength during 2026 state of the base  
-   Link: [https://www.tinker.af.mil/News/Article-Display/Article/4471316/tinker-projects-strength-during-2026-state-of-the-base/](https://www.tinker.af.mil/News/Article-Display/Article/4471316/tinker-projects-strength-during-2026-state-of-the-base/)  
+   Link: <a href="https://www.tinker.af.mil/News/Article-Display/Article/4471316/tinker-projects-strength-during-2026-state-of-the-base/" target="_blank" rel="noopener noreferrer nofollow">https://www.tinker.af.mil/News/Article-Display/Article/4471316/tinker-projects-strength-during-2026-state-of-the-base/</a>  
 
 46. <a id="endnote-46"></a>
    Source: tinker.af.mil  
    Title: tinker history republic f 84 thunderjet fighter  
-   Link: [https://www.tinker.af.mil/News/Article-Display/Article/1168641/tinker-history-republic-f-84-thunderjet-fighter/](https://www.tinker.af.mil/News/Article-Display/Article/1168641/tinker-history-republic-f-84-thunderjet-fighter/)  
+   Link: <a href="https://www.tinker.af.mil/News/Article-Display/Article/1168641/tinker-history-republic-f-84-thunderjet-fighter/" target="_blank" rel="noopener noreferrer nofollow">https://www.tinker.af.mil/News/Article-Display/Article/1168641/tinker-history-republic-f-84-thunderjet-fighter/</a>  
 
 47. <a id="endnote-47"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold UFO sighting  
-   Link: [https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting](https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
 
 48. <a id="endnote-48"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings in the United States  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States</a>  
 
 49. <a id="endnote-49"></a>
    Source: Wikipedia  
    Title: UFO conspiracy theories  
-   Link: [https://en.wikipedia.org/wiki/UFO_conspiracy_theories](https://en.wikipedia.org/wiki/UFO_conspiracy_theories)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
 
 50. <a id="endnote-50"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
 51. <a id="endnote-51"></a>
    Source: Wikipedia  
    Title: Tinker Air Force Base  
-   Link: [https://en.wikipedia.org/wiki/Tinker_Air_Force_Base](https://en.wikipedia.org/wiki/Tinker_Air_Force_Base)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tinker_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tinker_Air_Force_Base</a>  
 
 52. <a id="endnote-52"></a>
    Source: Wikipedia  
    Title: Oklahoma City Air Force Station  
-   Link: [https://en.wikipedia.org/wiki/Oklahoma_City_Air_Force_Station](https://en.wikipedia.org/wiki/Oklahoma_City_Air_Force_Station)  
+   Link: <a href="https://en.wikipedia.org/wiki/Oklahoma_City_Air_Force_Station" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Oklahoma_City_Air_Force_Station</a>  
 
 53. <a id="endnote-53"></a>
    Source: Wikipedia  
    Title: Table of reports during the 1947 flying disc craze  
-   Link: [https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze](https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze)  
+   Link: <a href="https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze</a>  
 
 54. <a id="endnote-54"></a>
    Source: amazon.de  
-   Link: [https://www.amazon.de/-/en/Collected-Issues-INTERPLANETARY-INTELLIGENCE-REPORT/dp/B08HTB48Z7](https://www.amazon.de/-/en/Collected-Issues-INTERPLANETARY-INTELLIGENCE-REPORT/dp/B08HTB48Z7)  
+   Link: <a href="https://www.amazon.de/-/en/Collected-Issues-INTERPLANETARY-INTELLIGENCE-REPORT/dp/B08HTB48Z7" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/-/en/Collected-Issues-INTERPLANETARY-INTELLIGENCE-REPORT/dp/B08HTB48Z7</a>  
 
 55. <a id="endnote-55"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 56. <a id="endnote-56"></a>
    Source: vault.fbi.gov  
    Title: Project Blue Book (UFO)  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
 
 57. <a id="endnote-57"></a>
    Source: prologue.blogs.archives.gov  
    Title: invasion of privacy  
-   Link: [https://prologue.blogs.archives.gov/2018/04/09/invasion-of-privacy/](https://prologue.blogs.archives.gov/2018/04/09/invasion-of-privacy/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/09/invasion-of-privacy/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/09/invasion-of-privacy/</a>  
 
 58. <a id="endnote-58"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: aliens at the archives  
-   Link: [https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/](https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/</a>  
 
 59. <a id="endnote-59"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/photographs](https://www.archives.gov/research/topics/uaps/photographs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
 
 60. <a id="endnote-60"></a>
    Source: military.com  
-   Link: [https://www.military.com/base-guide/tinker-air-force-base](https://www.military.com/base-guide/tinker-air-force-base)  
+   Link: <a href="https://www.military.com/base-guide/tinker-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/base-guide/tinker-air-force-base</a>  
 
 61. <a id="endnote-61"></a>
    Source: southwestledger.news  
-   Link: [https://www.southwestledger.news/tags/ufo-sightings](https://www.southwestledger.news/tags/ufo-sightings)  
+   Link: <a href="https://www.southwestledger.news/tags/ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.southwestledger.news/tags/ufo-sightings</a>  
 
 62. <a id="endnote-62"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: [https://www.history.com/articles/project-blue-book](https://www.history.com/articles/project-blue-book)  
+   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
 
 63. <a id="endnote-63"></a>
    Source: history.com  
    Title: Kenneth Arnold  
-   Link: [https://www.history.com/articles/kenneth-arnold](https://www.history.com/articles/kenneth-arnold)  
+   Link: <a href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/kenneth-arnold</a>  
 
 64. <a id="endnote-64"></a>
    Source: internationalufobureau.com  
-   Link: [https://www.internationalufobureau.com/pastinvestigations/1965flap](https://www.internationalufobureau.com/pastinvestigations/1965flap)  
+   Link: <a href="https://www.internationalufobureau.com/pastinvestigations/1965flap" target="_blank" rel="noopener noreferrer nofollow">https://www.internationalufobureau.com/pastinvestigations/1965flap</a>  
 
 65. <a id="endnote-65"></a>
    Source: blackwelljournaltribune.net  
    Title: new app charts ufo reports as oklahoma sees rise in mysterious sightings  
-   Link: [https://www.blackwelljournaltribune.net/articles/13362/view/new-app-charts-ufo-reports-as-oklahoma-sees-rise-in-mysterious-sightings](https://www.blackwelljournaltribune.net/articles/13362/view/new-app-charts-ufo-reports-as-oklahoma-sees-rise-in-mysterious-sightings)  
+   Link: <a href="https://www.blackwelljournaltribune.net/articles/13362/view/new-app-charts-ufo-reports-as-oklahoma-sees-rise-in-mysterious-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.blackwelljournaltribune.net/articles/13362/view/new-app-charts-ufo-reports-as-oklahoma-sees-rise-in-mysterious-sightings</a>  
 
 66. <a id="endnote-66"></a>
    Source: independent.co.uk  
    Title: The Independent'Is that a UFO?' Oklahoma family spot bizarre other-worldly  
-   Link: [https://www.independent.co.uk/news/world/americas/oklahoma-ufo-family-sighting-sky-b2509603.html](https://www.independent.co.uk/news/world/americas/oklahoma-ufo-family-sighting-sky-b2509603.html)  
+   Link: <a href="https://www.independent.co.uk/news/world/americas/oklahoma-ufo-family-sighting-sky-b2509603.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/oklahoma-ufo-family-sighting-sky-b2509603.html</a>  
 
 67. <a id="endnote-67"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/115957895581/posts/10165928422050582/](https://www.facebook.com/groups/115957895581/posts/10165928422050582/)  
+   Link: <a href="https://www.facebook.com/groups/115957895581/posts/10165928422050582/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/115957895581/posts/10165928422050582/</a>  
 
 68. <a id="endnote-68"></a>
    Source: okhistory.org  
-   Link: [https://www.okhistory.org/publications/enc/entry?entry=TI004](https://www.okhistory.org/publications/enc/entry?entry=TI004)  
+   Link: <a href="https://www.okhistory.org/publications/enc/entry?entry=TI004" target="_blank" rel="noopener noreferrer nofollow">https://www.okhistory.org/publications/enc/entry?entry=TI004</a>  
 
 69. <a id="endnote-69"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=AGpF_D8K0Tc](https://www.youtube.com/watch?v=AGpF_D8K0Tc)  
+   Link: <a href="https://www.youtube.com/watch?v=AGpF_D8K0Tc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AGpF_D8K0Tc</a>  
 
 70. <a id="endnote-70"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=D7ArcpUnqfA](https://www.youtube.com/watch?v=D7ArcpUnqfA)  
+   Link: <a href="https://www.youtube.com/watch?v=D7ArcpUnqfA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D7ArcpUnqfA</a>  
 
 71. <a id="endnote-71"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/993545/oklahoma-city-air-logistics-complex](https://www.dvidshub.net/video/993545/oklahoma-city-air-logistics-complex)  
+   Link: <a href="https://www.dvidshub.net/video/993545/oklahoma-city-air-logistics-complex" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/993545/oklahoma-city-air-logistics-complex</a>  
 
 72. <a id="endnote-72"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
 73. <a id="endnote-73"></a>
    Source: youtube.com  
    Title: Oklahoma City Historic Flying Disc Reports and Military Archives  
-   Link: [https://www.youtube.com/watch?v=O1kforufo71](https://www.youtube.com/watch?v=O1kforufo71)  
+   Link: <a href="https://www.youtube.com/watch?v=O1kforufo71" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O1kforufo71</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tinker Air Force Base Aerospace Surveillance and Unexplained Lights...</p></details>
 
 74. <a id="endnote-74"></a>
    Source: youtube.com  
    Title: Multiple Witnesses Report Mysterious Objects in Oklahoma Airspace  
-   Link: [https://www.youtube.com/watch?v=7bns_WhNAQM](https://www.youtube.com/watch?v=7bns_WhNAQM)  
+   Link: <a href="https://www.youtube.com/watch?v=7bns_WhNAQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7bns_WhNAQM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Local News Investigates Unusual Sky Phenomenon and Radar Tracking...</p></details>
 
 75. <a id="endnote-75"></a>
    Source: youtube.com  
    Title: Local News Investigates Unusual Sky Phenomenon and Radar Tracking  
-   Link: [https://www.youtube.com/watch?v=ZIPsPRaZP6M](https://www.youtube.com/watch?v=ZIPsPRaZP6M)  
+   Link: <a href="https://www.youtube.com/watch?v=ZIPsPRaZP6M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZIPsPRaZP6M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oklahoma City Historic Flying Disc Reports and Military Archives...</p></details>
 
 76. <a id="endnote-76"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/](https://www.faa.gov/)  
+   Link: <a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
 
 77. <a id="endnote-77"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 78. <a id="endnote-78"></a>
    Source: oksenate.gov  
-   Link: [https://oksenate.gov/education/senate-artwork/tinker-field](https://oksenate.gov/education/senate-artwork/tinker-field)  
+   Link: <a href="https://oksenate.gov/education/senate-artwork/tinker-field" target="_blank" rel="noopener noreferrer nofollow">https://oksenate.gov/education/senate-artwork/tinker-field</a>  
 
 79. <a id="endnote-79"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 80. <a id="endnote-80"></a>
    Source: youtube.com  
    Title: Strange Lights Over Oklahoma Sky Spark UFO Speculation  
-   Link: [https://www.youtube.com/watch?v=wg4Dz87aYug](https://www.youtube.com/watch?v=wg4Dz87aYug)  
+   Link: <a href="https://www.youtube.com/watch?v=wg4Dz87aYug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wg4Dz87aYug</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple Witnesses Report Mysterious Objects in Oklahoma Airspace...</p></details>
 
 81. <a id="endnote-81"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/552acw/?locale=en_GB](https://www.facebook.com/552acw/?locale=en_GB)  
+   Link: <a href="https://www.facebook.com/552acw/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/552acw/?locale=en_GB</a>  
 
 82. <a id="endnote-82"></a>
    Source: carpetbaggerbooks.com  
-   Link: [https://www.carpetbaggerbooks.com/pages/books/13556/richard-d-seifried-michael-s-carter/native-encounters-a-look-at-oklahoma-ufo-sightings-and-abduction-reports](https://www.carpetbaggerbooks.com/pages/books/13556/richard-d-seifried-michael-s-carter/native-encounters-a-look-at-oklahoma-ufo-sightings-and-abduction-reports)  
+   Link: <a href="https://www.carpetbaggerbooks.com/pages/books/13556/richard-d-seifried-michael-s-carter/native-encounters-a-look-at-oklahoma-ufo-sightings-and-abduction-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.carpetbaggerbooks.com/pages/books/13556/richard-d-seifried-michael-s-carter/native-encounters-a-look-at-oklahoma-ufo-sightings-and-abduction-reports</a>

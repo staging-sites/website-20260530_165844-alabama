@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /vermont-835aef-index/
 description: Focused pages that expand on What Makes Vermont's UFO Stories Endure?.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Vermont_835aef
 parent_title: What Makes Vermont's UFO Stories Endure?

@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /report-patterns/
 nav_short_title: NUFORC leads
 title: What New Hampshire UFO reports can really prove
-title_full: What New Hampshire UFO reports can really prove | Report Patterns
+title_full: What New Hampshire UFO reports can really prove
 display_title_short: NUFORC leads
 display_title: NUFORC leads
 heading_title: What New Hampshire UFO reports can really prove
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:50:02'
-parent_title: Are New Hampshire UFO Reports a Pattern? | New Hampshire UFOs
+parent_title: Are New Hampshire UFO Reports a Pattern?
 parent_permalink: /report-patterns/
 parent_nav_short_title: Report Patterns
 parent_heading_title: Are New Hampshire UFO Reports a Pattern?
@@ -252,8 +252,7 @@ image: /assets/images/New_Hampshire_824569_modern_report_patter_1bec66_nuforc_nh
 
 [New Hampshire]({{ 'why-new-hampshire-became-ufo-country/' | relative_url }})’s NUFORC reports are useful because they show what people claimed to see, where they saw it, and when they decided it was unusual enough to report. They are much less useful as direct proof that genuinely unexplained objects were present. The National UFO Reporting Center (NUFORC) database contains more than 1,200 New Hampshire entries and remains one of the largest public collections of UFO witness reports in the state. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lNH" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State NHNUFORC Reports for State NH.; Open, 03/18/2025 11:15, Loudon; Open, 03/08/2025 19:10, Londonderry; Open, 02...</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_nuforc_nh_report_lea_2305f0-Illustration-1-light.svg" | relative_url }}" alt="NUFORC leads illustration 1" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_nuforc_nh_report_lea_2305f0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_nuforc_nh_report_lea_2305f0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_nuforc_nh_report_lea_2305f0-Illustration-1-dark.svg" | relative_url }}" alt="NUFORC leads illustration 1" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_nuforc_nh_report_lea_2305f0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_nuforc_nh_report_lea_2305f0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For anyone studying modern New Hampshire sighting patterns, the database works best as an evidence lead generator. It can highlight clusters around particular towns, recurring descriptions such as lights or triangles, and periods when reports increased. What it usually cannot provide by itself is the corroboration needed to establish whether a report involved an aircraft, drone, astronomical object, atmospheric effect, hoax, misperception, or something that genuinely resisted explanation. That distinction matters because the strongest UFO investigations depend on multiple forms of evidence, not only eyewitness testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team Report... National UFO Reporting Center4. This results in inhomogeneously collected... Searching for...</span></span></span>
 
 ## How NUFORC records New Hampshire sightings
@@ -262,13 +261,12 @@ NUFORC maintains a searchable state index that allows readers to browse reports 
 
 That structure gives researchers several useful starting points:
 
-* **Geographic clues**: reports can be mapped to places such as Manchester, Portsmouth, Exeter, Milford, Londonderry, Ossipee or rural White Mountains locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Access reports from any of the lists below: TIER 1 REPORTS · PILOT REPORTS · LATEST...Read more...</span></span></span>
+* **Geographic clues**: reports can be mapped to places such as Manchester, Portsmouth, Exeter, Milford, Londonderry, Ossipee or rural White Mountains locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Access reports from any of the lists below: TIER 1 REPORTS · PILOT REPORTS · LATEST...Read more...</span></span></span>
 * **Timing clues**: multiple reports from the same night may indicate a meteor event, satellite pass or widely visible atmospheric phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=197430" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 197430August 20, 2023 — 9 May 2026 — NUFORC UFO Sighting 197430. Occurred: 1980-05-15 02:30 Local - Approximate Repor...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 * **Description patterns**: recurring categories such as “Light”, “Fireball”, “Triangle”, “Cylinder” or “Sphere” can reveal what [witnesses]({{ 'witnesses/' | relative_url }}) believed they were seeing, even when the underlying causes differ. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=25721" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 25721NUFORC UFO Sighting 25721. Occurred: 1957-08-15 21:00 Local (08/1957 2100) - Approximate Reported: 2002-10-21 19...</span><span class="citation-popover-meta">Published: October 21, 2002</span></span></span>
 * **Witness language**: narratives often preserve details that can later be checked against weather records, aviation routes or astronomical conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=82971" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 82971NUFORC UFO Sighting 82971; Occurred: 1988-08-01 02:00 Local - Approximate; Reported: 2011-08-06 15:50 Pacific...</span><span class="citation-popover-meta">Published: August 6, 2011</span></span></span>
 
 The database therefore functions more like an archive of leads than a finished catalogue of solved or unsolved mysteries.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9Lo30HqS4S4" title="Pentagon releases classified UFO files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9Lo30HqS4S4" target="_blank" rel="noopener noreferrer">Pentagon releases classified UFO files</a></p><p class="youtube-embed-meta">Channel: KPTV FOX 12 | Local news, weather Portland, Oregon &middot; Views: 16.8K &middot; Uploaded: May 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9Lo30HqS4S4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9Lo30HqS4S4">Open on YouTube</a></p></div></div></div>
 
@@ -282,8 +280,7 @@ This is especially important when reading dramatic descriptions. A report may de
 
 The problem becomes clearer when comparing report dates with event dates. Some New Hampshire entries were submitted years or even decades after the alleged sighting. Those reports can preserve valuable memories, but they also depend heavily on long-term recollection rather than contemporaneous documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=191075" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 19107520 Jul 2025 — NUFORC UFO Sighting 191075. Occurred: 2025-07-18 18:45 Local Reported: 2025-07-19 09:12 Pacific D...</span><span class="citation-popover-meta">Published: July 18, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">While several anomalous events involving UFOs around nuclear missile have been previously reported and investigated.Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lTGJt7Gho0w" title="Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer">Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves</a></p><p class="youtube-embed-meta">Channel: iConnections &middot; Views: 262 &middot; Uploaded: April 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lTGJt7Gho0w">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/adCsqd_-M94" title="Governments Using AI To Decode Massive UFO Databases | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer">Governments Using AI To Decode Massive UFO Databases | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 326 &middot; Uploaded: May 2026 &middot; Length: 2 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=adCsqd_-M94">Open on YouTube</a></p></div></div></div>
 
 ## Using dates, shapes and places without overclaiming
 
@@ -295,8 +292,7 @@ If multiple reports appear from the same evening across different towns, investi
 
 A cluster does not automatically imply a single unknown object. Sometimes it simply shows that many people noticed the same ordinary event from different locations. This is one reason why sighting spikes need external verification before they are treated as evidence of an anomaly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team Report... National UFO Reporting Center4. This results in inhomogeneously collected... Searching for...</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_nuforc_nh_report_lea_2305f0-Illustration-2-light.svg" | relative_url }}" alt="NUFORC leads illustration 2" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_nuforc_nh_report_lea_2305f0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_nuforc_nh_report_lea_2305f0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_nuforc_nh_report_lea_2305f0-Illustration-2-dark.svg" | relative_url }}" alt="NUFORC leads illustration 2" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_nuforc_nh_report_lea_2305f0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_nuforc_nh_report_lea_2305f0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Shape categories are often less precise than they appear
 
 The shape labels can be misleading if treated too literally. A witness who reports a “triangle” may have seen three lights whose connecting structure was not actually visible. A “cylinder” may be an aircraft viewed from a particular angle. A “fireball” may be a meteor.
@@ -307,10 +303,9 @@ The categories are valuable because they help organise reports, but they do not 
 
 Places matter, but not always in the way enthusiasts expect.
 
-A concentration of reports around Manchester may reflect population density, air traffic and the presence of Manchester-Boston Regional Airport rather than an unusual concentration of unexplained craft. Reports along the Seacoast may be influenced by aircraft approaching or departing regional airports, while mountain and lake regions provide darker skies that make celestial objects more noticeable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Access reports from any of the lists below: TIER 1 REPORTS · PILOT REPORTS · LATEST...Read more...</span></span></span>
+A concentration of reports around Manchester may reflect population density, air traffic and the presence of Manchester-Boston Regional Airport rather than an unusual concentration of unexplained craft. Reports along the Seacoast may be influenced by aircraft approaching or departing regional airports, while mountain and lake regions provide darker skies that make celestial objects more noticeable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Access reports from any of the lists below: TIER 1 REPORTS · PILOT REPORTS · LATEST...Read more...</span></span></span>
 
 The location data therefore help identify where follow-up research should begin, not where conclusions should end.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y271TuMV-9o" title="The Crash Site Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y271TuMV-9o" target="_blank" rel="noopener noreferrer">The Crash Site Files</a></p><p class="youtube-embed-meta">Channel: Exeter TV &middot; Views: 1.0K &middot; Uploaded: November 2016 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y271TuMV-9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y271TuMV-9o">Open on YouTube</a></p></div></div></div>
 
@@ -325,7 +320,6 @@ This does not prove the witness was mistaken in every detail. Instead, it illust
 ## What New Hampshire researchers can realistically learn
 
 When used carefully, the NUFORC archive helps answer several worthwhile questions about modern New Hampshire UFO reporting:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -342,8 +336,7 @@ What the archive generally cannot do is prove that New Hampshire contains a larg
 
 That is why NUFORC's New Hampshire records are best understood as evidence leads. They are valuable for identifying patterns, tracing local sighting history and locating cases worth investigating further. They become much stronger when combined with aviation records, weather data, astronomical checks, photographs, independent witnesses and official documentation. Without that corroboration, they remain an important map of claims rather than a catalogue of proven anomalies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=25721" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 25721NUFORC UFO Sighting 25721. Occurred: 1957-08-15 21:00 Local (08/1957 2100) - Approximate Reported: 2002-10-21 19...</span><span class="citation-popover-meta">Published: October 21, 2002</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=82971" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 82971NUFORC UFO Sighting 82971; Occurred: 1988-08-01 02:00 Local - Approximate; Reported: 2011-08-06 15:50 Pacific...</span><span class="citation-popover-meta">Published: August 6, 2011</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_nuforc_nh_report_lea_2305f0-Illustration-3-light.svg" | relative_url }}" alt="NUFORC leads illustration 3" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_nuforc_nh_report_lea_2305f0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_nuforc_nh_report_lea_2305f0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_nuforc_nh_report_lea_2305f0-Illustration-3-dark.svg" | relative_url }}" alt="NUFORC leads illustration 3" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_nuforc_nh_report_lea_2305f0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_nuforc_nh_report_lea_2305f0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -431,7 +424,7 @@ That is why NUFORC's New Hampshire records are best understood as evidence leads
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -441,111 +434,36 @@ That is why NUFORC's New Hampshire records are best understood as evidence leads
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -553,15 +471,15 @@ That is why NUFORC's New Hampshire records are best understood as evidence leads
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/lGIAAOSw2klmSmMn/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -569,15 +487,15 @@ That is why NUFORC's New Hampshire records are best understood as evidence leads
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -585,15 +503,15 @@ That is why NUFORC's New Hampshire records are best understood as evidence leads
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="https://i.ebayimg.com/images/g/VQ8AAeSwE2Fp1m0Y/s-l225.jpg" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -601,7 +519,7 @@ That is why NUFORC's New Hampshire records are best understood as evidence leads
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nuforc-leads-what-new-hampshire-ufo-reports-can-really-prove-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-new-hampshire-ufo-reports-can-really-prove-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -678,17 +596,31 @@ That is why NUFORC's New Hampshire records are best understood as evidence leads
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -701,42 +633,73 @@ That is why NUFORC's New Hampshire records are best understood as evidence leads
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -751,12 +714,17 @@ That is why NUFORC's New Hampshire records are best understood as evidence leads
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -766,64 +734,64 @@ That is why NUFORC's New Hampshire records are best understood as evidence leads
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lNH](https://nuforc.org/subndx/?id=lNH)  
+   Link: <a href="https://nuforc.org/subndx/?id=lNH" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNH</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State NHNUFORC Reports for State NH.; Open, 03/18/2025 11:15, Loudon; Open, 03/08/2025 19:10, Londonderry; Open, 02...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
    Title: NUFOR C Reports by Location USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationUSA - New Hampshire, 1276. USA - New Jersey, 3096. USA - New Mexico, 1808. USA... Rosa Orellana on Octahedrons...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Access reports from any of the lists below: TIER 1 REPORTS · PILOT REPORTS · LATEST...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team Report... National UFO Reporting Center4. This results in inhomogeneously collected... Searching for...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=197430](https://nuforc.org/sighting/?id=197430)  
+   Link: <a href="https://nuforc.org/sighting/?id=197430" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197430</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 197430August 20, 2023 — 9 May 2026 — NUFORC UFO Sighting 197430. Occurred: 1980-05-15 02:30 Local - Approximate Repor...</p></details>
    Published: August 20, 2023  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=25721](https://nuforc.org/sighting/?id=25721)  
+   Link: <a href="https://nuforc.org/sighting/?id=25721" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=25721</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 25721NUFORC UFO Sighting 25721. Occurred: 1957-08-15 21:00 Local (08/1957 2100) - Approximate Reported: 2002-10-21 19...</p></details>
    Published: October 21, 2002  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=82971](https://nuforc.org/sighting/?id=82971)  
+   Link: <a href="https://nuforc.org/sighting/?id=82971" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=82971</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 82971NUFORC UFO Sighting 82971; Occurred: 1988-08-01 02:00 Local - Approximate; Reported: 2011-08-06 15:50 Pacific...</p></details>
    Published: August 6, 2011  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=20008](https://nuforc.org/sighting/?id=20008)  
+   Link: <a href="https://nuforc.org/sighting/?id=20008" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=20008</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 20008NUFORC UFO Sighting 20008. Occurred: 1977-08-08 18:00 Local (1800) Reported: 2001-10-29 14:43 Pacific Duration...</p></details>
    Published: October 29, 2001  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=191075](https://nuforc.org/sighting/?id=191075)  
+   Link: <a href="https://nuforc.org/sighting/?id=191075" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191075</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 19107520 Jul 2025 — NUFORC UFO Sighting 191075. Occurred: 2025-07-18 18:45 Local Reported: 2025-07-19 09:12 Pacific D...</p></details>
    Published: July 18, 2025  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>While several anomalous events involving UFOs around nuclear missile have been previously reported and investigated.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=193851](https://nuforc.org/sighting/?id=193851)  
+   Link: <a href="https://nuforc.org/sighting/?id=193851" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=193851</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1938516 Nov 2025 — NUFORC UFO Sighting 193851. Occurred: 2025-11-04 18:00 Local Reported: 2025-11-04 19:16 Pacific Du...</p></details>
    Published: November 4, 2025  
 
@@ -831,54 +799,54 @@ That is why NUFORC's New Hampshire records are best understood as evidence leads
 
 12. <a id="endnote-12"></a>
    Source: visitnh.gov  
-   Link: [https://www.visitnh.gov/blog/undiscovered-nh-spooky-stops](https://www.visitnh.gov/blog/undiscovered-nh-spooky-stops)  
+   Link: <a href="https://www.visitnh.gov/blog/undiscovered-nh-spooky-stops" target="_blank" rel="noopener noreferrer nofollow">https://www.visitnh.gov/blog/undiscovered-nh-spooky-stops</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Undiscovered NH: Spooky StopsExplore the undiscovered side of New Hampshire and visit the sites of famous alien abductions, UFO sightings...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: redcircle.com  
-   Link: [https://redcircle.com/the-paranorm-girl/donations](https://redcircle.com/the-paranorm-girl/donations)  
+   Link: <a href="https://redcircle.com/the-paranorm-girl/donations" target="_blank" rel="noopener noreferrer nofollow">https://redcircle.com/the-paranorm-girl/donations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Paranorm GirlAn exploration and education in all things supernatural. Each season I&#x27;ll take a deep dive into a paranormal topic, brea...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/foxokc/posts/we-get-about-a-hundred-reports-a-year-from-the-sooner-state-said-cj-arabia-she-i/1374805191359347/](https://www.facebook.com/foxokc/posts/we-get-about-a-hundred-reports-a-year-from-the-sooner-state-said-cj-arabia-she-i/1374805191359347/)  
+   Link: <a href="https://www.facebook.com/foxokc/posts/we-get-about-a-hundred-reports-a-year-from-the-sooner-state-said-cj-arabia-she-i/1374805191359347/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxokc/posts/we-get-about-a-hundred-reports-a-year-from-the-sooner-state-said-cj-arabia-she-i/1374805191359347/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO investigators wanted in OklahomaUS report on UFOs finds &#x27;no explanation&#x27; for sightings The US government did not find evidence that a...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: huggingface.co  
-   Link: [https://huggingface.co/datasets/kcimc/NUFORC](https://huggingface.co/datasets/kcimc/NUFORC)  
+   Link: <a href="https://huggingface.co/datasets/kcimc/NUFORC" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/datasets/kcimc/NUFORC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>kcimc/NUFORC · Datasets at Hugging FaceNUFORC. 147,890 UFO sightings from NUFORC, scraped on January 16, 2024. The best representation of...</p></details>
    Published: January 16, 2024  
 
 16. <a id="endnote-16"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/nasa-ufos-aliens-report-2023](https://www.wired.com/story/nasa-ufos-aliens-report-2023)  
+   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: on march 12 2026 an unidentified flying object was spotted leaving witnesses ama  
-   Link: [https://www.facebook.com/HiddenFactsss/posts/on-march-12-2026-an-unidentified-flying-object-was-spotted-leaving-witnesses-ama/1585960323530601/](https://www.facebook.com/HiddenFactsss/posts/on-march-12-2026-an-unidentified-flying-object-was-spotted-leaving-witnesses-ama/1585960323530601/)  
+   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/on-march-12-2026-an-unidentified-flying-object-was-spotted-leaving-witnesses-ama/1585960323530601/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/on-march-12-2026-an-unidentified-flying-object-was-spotted-leaving-witnesses-ama/1585960323530601/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On March 12, 2026, an unidentified flying object was...Mass Sighting Updates from NUFORC The National UFO Reporting Center (NUFORC) anno...</p></details>
    Published: March 12, 2026  
 
 18. <a id="endnote-18"></a>
    Source: kfoxtv.com  
-   Link: [https://kfoxtv.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars](https://kfoxtv.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars)  
+   Link: <a href="https://kfoxtv.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://kfoxtv.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of aliens found · New footage, old questions · No confirmation of...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/firstpostin/posts/the-united-states-department-of-war-has-released-a-first-tranche-of-declassified/1489481516546164/](https://www.facebook.com/firstpostin/posts/the-united-states-department-of-war-has-released-a-first-tranche-of-declassified/1489481516546164/)  
+   Link: <a href="https://www.facebook.com/firstpostin/posts/the-united-states-department-of-war-has-released-a-first-tranche-of-declassified/1489481516546164/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/firstpostin/posts/the-united-states-department-of-war-has-released-a-first-tranche-of-declassified/1489481516546164/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rted UFO sightings and warned of possible national security risks.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/](https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/)  
+   Link: <a href="https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A new analysis of UFO reports found the cities where...Aliens are also mentioned, but they are at the very bottom of the list...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: academia.edu  
    Title: military aviation events—centered on March 13,  
-   Link: [https://www.academia.edu/145619373/Eagle_Down_50_Years_of_Unexplained_Military_Encounters_with_UFOs_A_requiem_of_911](https://www.academia.edu/145619373/Eagle_Down_50_Years_of_Unexplained_Military_Encounters_with_UFOs_A_requiem_of_911)  
+   Link: <a href="https://www.academia.edu/145619373/Eagle_Down_50_Years_of_Unexplained_Military_Encounters_with_UFOs_A_requiem_of_911" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/145619373/Eagle_Down_50_Years_of_Unexplained_Military_Encounters_with_UFOs_A_requiem_of_911</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eagle Down - A Memorial to the Fallen Soldiers of the War...Eagle Down is a research-driven, narrative investigation that examines a clu...</p></details>

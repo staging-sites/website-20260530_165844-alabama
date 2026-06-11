@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /wyoming-ed190c-fe-warren-missile-cl/
 description: Focused pages that expand on F E Warren.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Wyoming_ed190c_fe_warren_missile_cl_9ca37f
-parent_title: F E Warren | What Really Happened in Wyoming Skies?
+parent_title: F E Warren
 parent_nav_short_title: F E Warren
 parent_permalink: /f-e-warren/
 ---

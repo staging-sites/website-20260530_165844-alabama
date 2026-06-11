@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /michigans-most-notable-ufo-sightings-and/
 nav_short_title: Recent Sightings
 title: Recent UFO Reports and Unexplained Lights in Michigan
-title_full: Recent UFO Reports and Unexplained Lights in Michigan | Michigan UFOs
+title_full: Recent UFO Reports and Unexplained Lights in Michigan
 display_title_short: Recent Sightings
 display_title: Recent Sightings
 heading_title: Recent UFO Reports and Unexplained Lights in Michigan
@@ -262,8 +262,7 @@ image: /assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575-overview-socia
 
 ## Introduction
 
-Recent UFO reporting in [Michigan]({{ 'michigans-most-notable-ufo-sightings-and/' | relative_url }}) is less a single dramatic “flap” than a steady stream of civilian observations: moving lights, bright orbs, triangular formations, possible drones, satellite trains, lake-horizon glows and occasional high-profile military cases. The strongest recent lesson is not that Michigan has a confirmed extraordinary craft, but that the state remains an unusually active reporting environment where many reports are intriguing at first glance and difficult to judge without better data. Enigma Labs recorded Michigan as one of its more active user-submission states, with 526 Michigan sightings since the app’s 2023 launch; the National UFO Reporting Center has logged thousands of Michigan reports over decades, including new entries in 2026. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/newsletters/axios-detroit-9aa60530-9e18-11ef-b5d4-3b18b737b6fc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">🛸 Michigan&#x27;s UFO reports</span><span class="citation-popover-snippet">Separately, the Detroit Riverfront Conservancy has scaled back its construction plans due to a $40 million fraud case involving former CF...</span></span></span>
-
+Recent UFO reporting in Michigan is less a single dramatic “flap” than a steady stream of civilian observations: moving lights, bright orbs, triangular formations, possible drones, satellite trains, lake-horizon glows and occasional high-profile military cases. The strongest recent lesson is not that Michigan has a confirmed extraordinary craft, but that the state remains an unusually active reporting environment where many reports are intriguing at first glance and difficult to judge without better data. Enigma Labs recorded Michigan as one of its more active user-submission states, with 526 Michigan sightings since the app’s 2023 launch; the National UFO Reporting Center has logged thousands of Michigan reports over decades, including new entries in 2026. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/newsletters/axios-detroit-9aa60530-9e18-11ef-b5d4-3b18b737b6fc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">🛸 Michigan&#x27;s UFO reports</span><span class="citation-popover-snippet">Separately, the Detroit Riverfront Conservancy has scaled back its construction plans due to a $40 million fraud case involving former CF...</span></span></span>
 
 <img src="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575-overview.webp" | relative_url }}" alt="Overview image for Recent Sightings" loading="eager" decoding="sync" fetchpriority="high">
 That pattern matters because Michigan combines busy air corridors, dark rural viewing areas, the Great Lakes horizon, expanding satellite visibility, drone use, border-region light pollution and a long UFO memory stretching back to 1966 and 1994. Recent sightings should therefore be read as field reports, not conclusions: some may remain unresolved, many are probably misidentified ordinary objects, and a small number deserve closer documentation because they involve multiple witnesses, video, radar, aviation safety or law-enforcement attention.
@@ -288,8 +287,7 @@ That makes the case interesting but not conclusive. Six lights in formation can 
 
 For readers comparing this with the 1966 Washtenaw County reports, the difference is stark. The older episode involved police, local officials, newspaper coverage and an Air Force-linked investigation; the newer Ypsilanti-style case is part of a decentralised stream of civilian uploads. That makes it easier for people to report, but harder to separate signal from noise unless the report includes exact time, direction, duration, weather, aircraft checks and unedited video.
 
-
-<img src="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575-Illustration-1-light.svg" | relative_url }}" alt="Recent Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575-Illustration-1-dark.svg" | relative_url }}" alt="Recent Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Trenton, Downriver and the Problem of Horizon Lights
 
 Trenton and the Downriver area raise a different issue: not every strange light over Michigan is actually above Michigan. The Detroit River and Lake Erie corridor creates long sightlines towards Ontario, shipping lanes, aircraft routes and intense artificial light sources. This makes the area especially prone to ambiguous horizon glows and distant lights that can look aerial when viewed from the US side.
@@ -312,7 +310,6 @@ This case is useful for Michigan readers because it separates “unidentified at
 
 AARO’s public case material follows that same logic. Its official imagery page includes examples resolved as balloons, birds and aircraft, as well as unresolved cases where the available data is insufficient for a firm determination. In several entries, AARO explicitly notes that objects may remain unidentified without displaying anomalous performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TjEX46iaf6g" title="What we know about the unidentified object shot down over Lake Huron on Sunday" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TjEX46iaf6g" target="_blank" rel="noopener noreferrer">What we know about the unidentified object shot down over Lake Huron on Sunday</a></p><p class="youtube-embed-meta">Channel: WXYZ-TV Detroit | Channel 7 &middot; Views: 85.4K &middot; Uploaded: February 2023 &middot; Length: 3 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TjEX46iaf6g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TjEX46iaf6g">Open on YouTube</a></p></div></div></div>
 
 ## What Civilian Witnesses Are Usually Reporting
@@ -332,10 +329,9 @@ The common report types include:
 
 </div>
 
-The Federal Aviation Administration’s drone-sighting records are relevant here because they show that reports of unmanned aircraft near airports remain common nationally. The FAA says it receives more than 100 such reports near airports each month and warns that unauthorised drone operations around aircraft and airports are dangerous and illegal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/uas/resources/public_records/uas_sightings_report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Drone Sightings Near Airports | Federal Aviation Administration</span><span class="citation-popover-snippet">Drone Sightings Near Airports | Federal Aviation Administration</span></span></span>
+The Federal Aviation Administration’s drone-sighting records are relevant here because they show that reports of unmanned aircraft near airports remain common nationally. The FAA says it receives more than 100 such reports near airports each month and warns that unauthorised drone operations around aircraft and airports are dangerous and illegal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/uas/resources/public_records/uas_sightings_report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Drone Sightings Near Airports &#124; Federal Aviation Administration</span><span class="citation-popover-snippet">Drone Sightings Near Airports &#124; Federal Aviation Administration</span></span></span>
 
-
-<img src="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575-Illustration-2-light.svg" | relative_url }}" alt="Recent Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575-Illustration-2-dark.svg" | relative_url }}" alt="Recent Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Michigan Produces So Many Ambiguous Sightings
 
 Michigan has several built-in ingredients for recurring UFO reports. Some are cultural, because the state’s earlier cases keep UFO interest alive. Others are geographical and technical.
@@ -369,7 +365,6 @@ A strong report usually has several of these features:
 
 A weak report is not necessarily false; it is simply hard to assess. A few seconds of zoomed-in light against a dark sky may be emotionally convincing to the witness but analytically thin. NASA’s public UAP work has emphasised the need to identify available data and improve future data collection, which is exactly the gap in many civilian Michigan reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NiiS4o2LiJE" title="Unidentified object shot down over Lake Huron Sunday" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NiiS4o2LiJE" target="_blank" rel="noopener noreferrer">Unidentified object shot down over Lake Huron Sunday</a></p><p class="youtube-embed-meta">Channel: CBC News: The National &middot; Views: 76.6K &middot; Uploaded: February 2023 &middot; Length: 2 minutes 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NiiS4o2LiJE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NiiS4o2LiJE">Open on YouTube</a></p></div></div></div>
 
 ## Potential Explanations That Fit Many Michigan Cases
@@ -388,8 +383,7 @@ The most common explanations for recent Michigan UFO reports are ordinary but no
 
 **Ground lighting and atmospheric reflection** are especially important in southeast Michigan. Leamington and Kingsville greenhouse lighting can create dramatic glows visible from the Detroit and Downriver side of the border, while low clouds and moisture can spread or intensify the effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatlakesnow.org/2021/01/04/great-lakes-moment-leamington-greenhouses-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatlakesnow.org">[Great Lakes Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatlakesnow.org</span><span class="citation-popover-title">Great Lakes Now Great Lakes Moment: It&#x27;s a UFO. No, the aurora borealis</span><span class="citation-popover-snippet">Great Lakes Now Great Lakes Moment: It&#x27;s a UFO. No, the aurora borealis</span></span></span>
 
-
-<img src="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575-Illustration-3-light.svg" | relative_url }}" alt="Recent Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575-Illustration-3-dark.svg" | relative_url }}" alt="Recent Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_recent_michigan_sigh_6fc575-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Remains Genuinely Unresolved
 
 Some Michigan reports remain unresolved in the practical sense that no one has identified them from the available information. That does not mean they are extraordinary. It means the record is incomplete. Many recent reports lack the data needed to rule out aircraft, drones, satellites, lanterns, balloons, reflections or astronomical objects.
@@ -398,9 +392,7 @@ The most worthwhile unresolved cases are those with independent witnesses, long 
 
 The balanced conclusion is that Michigan continues to generate real UFO reports in the literal sense: people see things they cannot identify. The state’s recent evidence, however, supports caution more than certainty. Michigan’s skies are busy, its horizons are deceptive, its history encourages reporting, and its modern sightings are increasingly shaped by phones, apps, satellites and drones. The strongest recent contribution to Michigan UFO history is therefore not a confirmed answer, but a clearer picture of how ordinary observers, new platforms and official investigators are all trying to turn fleeting lights into usable evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qKdqtQSUNhU" title="What was shot down over Lake Huron? Investigation continues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qKdqtQSUNhU" target="_blank" rel="noopener noreferrer">What was shot down over Lake Huron? Investigation continues</a></p><p class="youtube-embed-meta">Channel: FOX 2 Detroit &middot; Views: 6.5K &middot; Uploaded: February 2023 &middot; Length: 3 minutes 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qKdqtQSUNhU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qKdqtQSUNhU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -488,7 +480,7 @@ The balanced conclusion is that Michigan continues to generate real UFO reports 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -498,111 +490,36 @@ The balanced conclusion is that Michigan continues to generate real UFO reports 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX"><img src="https://i.ebayimg.com/images/g/D6YAAeSwgIhqJsph/s-l225.jpg" alt="Listing image for UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -610,15 +527,15 @@ The balanced conclusion is that Michigan continues to generate real UFO reports 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grateful Dead Bertha UFO Maxi Poster"><img src="https://i.ebayimg.com/images/g/pM4AAeSwvQporxeM/s-l225.jpg" alt="Listing image for Grateful Dead Bertha UFO Maxi Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Grateful Dead Bertha UFO Maxi Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -626,15 +543,15 @@ The balanced conclusion is that Michigan continues to generate real UFO reports 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4"><img src="https://i.ebayimg.com/images/g/Ab0AAeSwSx9p8OkA/s-l225.jpg" alt="Listing image for ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -642,15 +559,15 @@ The balanced conclusion is that Michigan continues to generate real UFO reports 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -658,7 +575,7 @@ The balanced conclusion is that Michigan continues to generate real UFO reports 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-sightings-recent-ufo-reports-and-unexplained-lights-in-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="recent-ufo-reports-and-unexplained-lights-in-michigan-ufo-poster-book-books-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -735,17 +652,31 @@ The balanced conclusion is that Michigan continues to generate real UFO reports 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -758,42 +689,73 @@ The balanced conclusion is that Michigan continues to generate real UFO reports 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -808,12 +770,17 @@ The balanced conclusion is that Michigan continues to generate real UFO reports 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -824,190 +791,190 @@ The balanced conclusion is that Michigan continues to generate real UFO reports 
 1. <a id="endnote-1"></a>
    Source: axios.com  
    Title: 🛸 Michigan's UFO reports  
-   Link: [https://www.axios.com/newsletters/axios-detroit-9aa60530-9e18-11ef-b5d4-3b18b737b6fc](https://www.axios.com/newsletters/axios-detroit-9aa60530-9e18-11ef-b5d4-3b18b737b6fc)  
+   Link: <a href="https://www.axios.com/newsletters/axios-detroit-9aa60530-9e18-11ef-b5d4-3b18b737b6fc" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/newsletters/axios-detroit-9aa60530-9e18-11ef-b5d4-3b18b737b6fc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Separately, the Detroit Riverfront Conservancy has scaled back its construction plans due to a $40 million fraud case involving former CF...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: patch.com  
    Title: pentagon dump ufo files add intrigue mi sightings  
-   Link: [https://patch.com/michigan/across-mi/pentagon-dump-ufo-files-add-intrigue-mi-sightings](https://patch.com/michigan/across-mi/pentagon-dump-ufo-files-add-intrigue-mi-sightings)  
+   Link: <a href="https://patch.com/michigan/across-mi/pentagon-dump-ufo-files-add-intrigue-mi-sightings" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/michigan/across-mi/pentagon-dump-ufo-files-add-intrigue-mi-sightings</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lMI](https://nuforc.org/subndx/?id=lMI)  
+   Link: <a href="https://nuforc.org/subndx/?id=lMI" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lMI</a>  
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=83614](https://nuforc.org/sighting/?id=83614)  
+   Link: <a href="https://nuforc.org/sighting/?id=83614" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=83614</a>  
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: wtov9.com  
    Title: WTOVLine of lights in the sky concerns Michiganders  
-   Link: [https://wtov9.com/news/nation-world/line-of-lights-in-the-sky-concerns-michiganders-unidentified-flying-objects-ufos-chinese-spy-balloon-lake-huron-surveillance-starlink-satellites-elon-musk-spacex-ukraine](https://wtov9.com/news/nation-world/line-of-lights-in-the-sky-concerns-michiganders-unidentified-flying-objects-ufos-chinese-spy-balloon-lake-huron-surveillance-starlink-satellites-elon-musk-spacex-ukraine)  
+   Link: <a href="https://wtov9.com/news/nation-world/line-of-lights-in-the-sky-concerns-michiganders-unidentified-flying-objects-ufos-chinese-spy-balloon-lake-huron-surveillance-starlink-satellites-elon-musk-spacex-ukraine" target="_blank" rel="noopener noreferrer nofollow">https://wtov9.com/news/nation-world/line-of-lights-in-the-sky-concerns-michiganders-unidentified-flying-objects-ufos-chinese-spy-balloon-lake-huron-surveillance-starlink-satellites-elon-musk-spacex-ukraine</a>  
 
 8. <a id="endnote-8"></a>
    Source: clickondetroit.com  
    Title: line of lights in the sky how starlink satellites are creating sense of wonder  
-   Link: [https://www.clickondetroit.com/features/2023/10/20/line-of-lights-in-the-sky-how-starlink-satellites-are-creating-sense-of-wonder/](https://www.clickondetroit.com/features/2023/10/20/line-of-lights-in-the-sky-how-starlink-satellites-are-creating-sense-of-wonder/)  
+   Link: <a href="https://www.clickondetroit.com/features/2023/10/20/line-of-lights-in-the-sky-how-starlink-satellites-are-creating-sense-of-wonder/" target="_blank" rel="noopener noreferrer nofollow">https://www.clickondetroit.com/features/2023/10/20/line-of-lights-in-the-sky-how-starlink-satellites-are-creating-sense-of-wonder/</a>  
 
 9. <a id="endnote-9"></a>
    Source: faa.gov  
    Title: Drone Sightings Near Airports | Federal Aviation Administration  
-   Link: [https://www.faa.gov/uas/resources/public_records/uas_sightings_report](https://www.faa.gov/uas/resources/public_records/uas_sightings_report)  
+   Link: <a href="https://www.faa.gov/uas/resources/public_records/uas_sightings_report" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/resources/public_records/uas_sightings_report</a>  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 12. <a id="endnote-12"></a>
    Source: science.nasa.gov  
    Title: north americas greenhouse hub  
-   Link: [https://science.nasa.gov/earth/earth-observatory/north-americas-greenhouse-hub/](https://science.nasa.gov/earth/earth-observatory/north-americas-greenhouse-hub/)  
+   Link: <a href="https://science.nasa.gov/earth/earth-observatory/north-americas-greenhouse-hub/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/north-americas-greenhouse-hub/</a>  
 
 13. <a id="endnote-13"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 15. <a id="endnote-15"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 16. <a id="endnote-16"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
 17. <a id="endnote-17"></a>
    Source: faa.gov  
    Title: general statements  
-   Link: [https://www.faa.gov/newsroom/statements/general-statements](https://www.faa.gov/newsroom/statements/general-statements)  
+   Link: <a href="https://www.faa.gov/newsroom/statements/general-statements" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/statements/general-statements</a>  
 
 18. <a id="endnote-18"></a>
    Source: axios.com  
    Title: app shows unexplained objects travel michigan skies  
-   Link: [https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies](https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies)  
+   Link: <a href="https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/detroit/2024/11/12/app-shows-unexplained-objects-travel-michigan-skies</a>  
 
 19. <a id="endnote-19"></a>
    Source: patch.com  
    Title: pentagon releases new ufo report see latest reported sightings mi  
-   Link: [https://patch.com/michigan/across-mi/pentagon-releases-new-ufo-report-see-latest-reported-sightings-mi](https://patch.com/michigan/across-mi/pentagon-releases-new-ufo-report-see-latest-reported-sightings-mi)  
+   Link: <a href="https://patch.com/michigan/across-mi/pentagon-releases-new-ufo-report-see-latest-reported-sightings-mi" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/michigan/across-mi/pentagon-releases-new-ufo-report-see-latest-reported-sightings-mi</a>  
 
 20. <a id="endnote-20"></a>
    Source: patch.com  
    Title: great michigan ufo chase gets after life science channel  
-   Link: [https://patch.com/michigan/trenton-grosseile/great-michigan-ufo-chase-gets-after-life-science-channel](https://patch.com/michigan/trenton-grosseile/great-michigan-ufo-chase-gets-after-life-science-channel)  
+   Link: <a href="https://patch.com/michigan/trenton-grosseile/great-michigan-ufo-chase-gets-after-life-science-channel" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/michigan/trenton-grosseile/great-michigan-ufo-chase-gets-after-life-science-channel</a>  
 
 21. <a id="endnote-21"></a>
    Source: patch.com  
    Title: bp ufo over wyandotte sighting was reported on 9 11  
-   Link: [https://patch.com/michigan/wyandotte/bp--ufo-over-wyandotte-sighting-was-reported-on-9-11](https://patch.com/michigan/wyandotte/bp--ufo-over-wyandotte-sighting-was-reported-on-9-11)  
+   Link: <a href="https://patch.com/michigan/wyandotte/bp--ufo-over-wyandotte-sighting-was-reported-on-9-11" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/michigan/wyandotte/bp--ufo-over-wyandotte-sighting-was-reported-on-9-11</a>  
 
 22. <a id="endnote-22"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 23. <a id="endnote-23"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 24. <a id="endnote-24"></a>
    Source: greatlakesnow.org  
    Title: Great Lakes Now Great Lakes Moment: It's a UFO. No, the aurora borealis  
-   Link: [https://www.greatlakesnow.org/2021/01/04/great-lakes-moment-leamington-greenhouses-lights/](https://www.greatlakesnow.org/2021/01/04/great-lakes-moment-leamington-greenhouses-lights/)  
+   Link: <a href="https://www.greatlakesnow.org/2021/01/04/great-lakes-moment-leamington-greenhouses-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.greatlakesnow.org/2021/01/04/great-lakes-moment-leamington-greenhouses-lights/</a>  
 
 25. <a id="endnote-25"></a>
    Source: twz.com  
-   Link: [https://www.twz.com/air/we-finally-see-the-mysterious-object-shot-down-by-f-16s-over-lake-huron](https://www.twz.com/air/we-finally-see-the-mysterious-object-shot-down-by-f-16s-over-lake-huron)  
+   Link: <a href="https://www.twz.com/air/we-finally-see-the-mysterious-object-shot-down-by-f-16s-over-lake-huron" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/we-finally-see-the-mysterious-object-shot-down-by-f-16s-over-lake-huron</a>  
 
 26. <a id="endnote-26"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/](https://enigmalabs.io/)  
+   Link: <a href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/</a>  
 
 27. <a id="endnote-27"></a>
    Source: sentientorbs.com  
    Title: NUFORC 122223  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-122223](https://sentientorbs.com/explore/sightings/NUFORC-122223)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-122223" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-122223</a>  
 
 28. <a id="endnote-28"></a>
    Source: sentientorbs.com  
    Title: NUFORC 14994  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-14994](https://sentientorbs.com/explore/sightings/NUFORC-14994)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-14994" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-14994</a>  
 
 29. <a id="endnote-29"></a>
    Source: ufoindex.com  
-   Link: [https://www.ufoindex.com/michigan](https://www.ufoindex.com/michigan)  
+   Link: <a href="https://www.ufoindex.com/michigan" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/michigan</a>  
 
 30. <a id="endnote-30"></a>
    Source: greatlakesnow.org  
-   Link: [https://www.greatlakesnow.org/tag/light-pollution/](https://www.greatlakesnow.org/tag/light-pollution/)  
+   Link: <a href="https://www.greatlakesnow.org/tag/light-pollution/" target="_blank" rel="noopener noreferrer nofollow">https://www.greatlakesnow.org/tag/light-pollution/</a>  
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: What we know about the unidentified object shot down over Lake Huron on Sunday  
-   Link: [https://www.youtube.com/watch?v=TjEX46iaf6g](https://www.youtube.com/watch?v=TjEX46iaf6g)  
+   Link: <a href="https://www.youtube.com/watch?v=TjEX46iaf6g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TjEX46iaf6g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Muskegon Michigan&#x27;s Mass UFO Sightings 30 Years Later | Talking Strange...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: Hundreds see mysterious dark object floating above West Michigan  
-   Link: [https://www.youtube.com/watch?v=BV8FHx7A6uQ](https://www.youtube.com/watch?v=BV8FHx7A6uQ)  
+   Link: <a href="https://www.youtube.com/watch?v=BV8FHx7A6uQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BV8FHx7A6uQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 What we know about the unidentified object shot down over Lake Huron on Sunday...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: Muskegon Michigan's Mass UFO Sightings 30 Years Later | Talking Strange  
-   Link: [https://www.youtube.com/watch?v=eW5LGxxDthc](https://www.youtube.com/watch?v=eW5LGxxDthc)  
+   Link: <a href="https://www.youtube.com/watch?v=eW5LGxxDthc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eW5LGxxDthc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 What was shot down over Lake Huron? Investigation continues...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: What was shot down over Lake Huron? Investigation continues  
-   Link: [https://www.youtube.com/watch?v=qKdqtQSUNhU](https://www.youtube.com/watch?v=qKdqtQSUNhU)  
+   Link: <a href="https://www.youtube.com/watch?v=qKdqtQSUNhU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qKdqtQSUNhU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Another unidentified object shot down over Michigan...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: dhs.gov  
-   Link: [https://www.dhs.gov/archive/news/2024/12/16/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings](https://www.dhs.gov/archive/news/2024/12/16/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings)  
+   Link: <a href="https://www.dhs.gov/archive/news/2024/12/16/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/archive/news/2024/12/16/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings</a>  
 
 36. <a id="endnote-36"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/blog/25k-sightings](https://enigmalabs.io/blog/25k-sightings)  
+   Link: <a href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/25k-sightings</a>  
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FlyingMagazine/posts/a-nasa-commissioned-independent-study-team-urged-the-agency-to-use-everything-fr/713130370843345/](https://www.facebook.com/FlyingMagazine/posts/a-nasa-commissioned-independent-study-team-urged-the-agency-to-use-everything-fr/713130370843345/)  
+   Link: <a href="https://www.facebook.com/FlyingMagazine/posts/a-nasa-commissioned-independent-study-team-urged-the-agency-to-use-everything-fr/713130370843345/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FlyingMagazine/posts/a-nasa-commissioned-independent-study-team-urged-the-agency-to-use-everything-fr/713130370843345/</a>  
 
 38. <a id="endnote-38"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYVjTnNjis5/](https://www.instagram.com/p/DYVjTnNjis5/)  
+   Link: <a href="https://www.instagram.com/p/DYVjTnNjis5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYVjTnNjis5/</a>  
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/586211121946376/posts/1742035543030589/](https://www.facebook.com/groups/586211121946376/posts/1742035543030589/)  
+   Link: <a href="https://www.facebook.com/groups/586211121946376/posts/1742035543030589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/586211121946376/posts/1742035543030589/</a>  
 
 40. <a id="endnote-40"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/](https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/</a>

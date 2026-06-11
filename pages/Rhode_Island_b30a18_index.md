@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /rhode-island-b30a18-index/
 description: Focused pages that expand on What Rhode Island's UFO Reports Really Show.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Rhode_Island_b30a18
 parent_title: What Rhode Island's UFO Reports Really Show

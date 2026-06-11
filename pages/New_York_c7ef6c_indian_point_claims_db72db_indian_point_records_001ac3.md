@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /indian-point/
 nav_short_title: Records gap
 title: Why are the Indian Point records missing?
-title_full: Why are the Indian Point records missing? | Indian Point
+title_full: Why are the Indian Point records missing?
 display_title_short: Records gap
 display_title: Records gap
 heading_title: Why are the Indian Point records missing?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:55:50'
-parent_title: Did a UFO Visit Indian Point? | New York UFOs
+parent_title: Did a UFO Visit Indian Point?
 parent_permalink: /indian-point/
 parent_nav_short_title: Indian Point
 parent_heading_title: Did a UFO Visit Indian Point?
@@ -250,10 +250,9 @@ image: /assets/images/New_York_c7ef6c_indian_point_claims_db72db_indian_point_re
 
 ## Introduction
 
-The most important fact about the Indian Point UFO story is not the dramatic description of the alleged sighting. It is the absence of supporting [records]({{ 'records-637b5f/' | relative_url }}). Within [New York]({{ 'what-really-happened-in-new-yorks-ufo/' | relative_url }})’s wider Hudson Valley UFO wave, the Indian Point claim gained attention because it placed an unidentified object near one of the region’s most sensitive nuclear facilities. Yet when researchers sought documentation through the Freedom of Information Act (FOIA), the Nuclear Regulatory Commission (NRC) reported that it could not find records matching the alleged incident. That missing paper trail has become one of the central tests of the case’s credibility.
+The most important fact about the Indian Point UFO story is not the dramatic description of the alleged sighting. It is the absence of supporting [records]({{ 'records-637b5f/' | relative_url }}). Within New York’s wider Hudson Valley UFO wave, the Indian Point claim gained attention because it placed an unidentified object near one of the region’s most sensitive nuclear facilities. Yet when researchers sought documentation through the Freedom of Information Act (FOIA), the Nuclear Regulatory Commission (NRC) reported that it could not find records matching the alleged incident. That missing paper trail has become one of the central tests of the case’s credibility.
 
-
-<img src="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db_indian_point_records_001ac3-Illustration-1-light.svg" | relative_url }}" alt="Records gap illustration 1" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db_indian_point_records_001ac3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db_indian_point_records_001ac3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db_indian_point_records_001ac3-Illustration-1-dark.svg" | relative_url }}" alt="Records gap illustration 1" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db_indian_point_records_001ac3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db_indian_point_records_001ac3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This does not automatically prove that nothing unusual happened. Records can be lost, misfiled, destroyed under retention schedules, or held by different agencies. But the gap matters because the strongest versions of the story involve claims that would normally be expected to generate official documentation. The debate is therefore less about whether witnesses reported something strange and more about whether the available evidence supports the later, more dramatic retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nrc.gov/docs/ML2117/ML21179A021.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Police at the Indian Point Nuclear Power Station. A search of our files indicates...Read more...</span></span></span>
 
 ## What the 1984 FOIA request alleged
@@ -277,7 +276,6 @@ According to the wording preserved in later NRC releases, the request described 
 
 These details have often been repeated in UFO literature and online discussions. However, the FOIA document itself only shows that someone was asking whether records existed concerning those claims. It does not establish that the events occurred exactly as described. That distinction is easy to lose in retellings because the request is sometimes treated as though it were an official report. In reality, it was a request to see whether official records existed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nrc.gov/docs/ML2117/ML21179A021.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Police at the Indian Point Nuclear Power Station. A search of our files indicates...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9gH3rT9d4ss" title="Mystic Energy Lines Run Through New York? | Ancient Aliens | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9gH3rT9d4ss" target="_blank" rel="noopener noreferrer">Mystic Energy Lines Run Through New York? | Ancient Aliens | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 117.5K &middot; Uploaded: September 2025 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9gH3rT9d4ss" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9gH3rT9d4ss">Open on YouTube</a></p></div></div></div>
 
 ## What the NRC said it could not find
@@ -296,7 +294,6 @@ The records gap became almost as famous as the alleged sighting itself because t
 
 If an enormous unidentified object had hovered near a nuclear reactor while affecting security systems or instrumentation, readers naturally expect some administrative footprint. Even a mundane explanation would normally leave traces such as:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Security logs.
@@ -312,8 +309,7 @@ The absence of publicly identified records does not prove that none ever existed
 
 Yet those possibilities remain speculative. The practical problem for researchers is that there is currently no publicly available documentary chain demonstrating that such records once existed and later disappeared.
 
-
-<img src="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db_indian_point_records_001ac3-Illustration-2-light.svg" | relative_url }}" alt="Records gap illustration 2" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db_indian_point_records_001ac3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db_indian_point_records_001ac3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db_indian_point_records_001ac3-Illustration-2-dark.svg" | relative_url }}" alt="Records gap illustration 2" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db_indian_point_records_001ac3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db_indian_point_records_001ac3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the gap changes the strength of the case
 
 The missing records do not automatically destroy the Indian Point story, but they change how strongly it can be argued.
@@ -326,7 +322,6 @@ A balanced assessment usually leads to three conclusions.
 
 **Third, the records gap shifts the burden of proof.** In many UFO cases, sceptics must explain why official reports describe unusual events. At Indian Point, researchers face the opposite challenge: explaining why a supposedly major security incident left so little verifiable documentation. The evidential problem is therefore built into the case itself.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3tmIQmUDVtY" title="Ancient Aliens: UFO Invasion in New York&#x27;s Hudson Valley (Season 19) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3tmIQmUDVtY" target="_blank" rel="noopener noreferrer">Ancient Aliens: UFO Invasion in New York&#x27;s Hudson Valley (Season 19) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 360.7K &middot; Uploaded: February 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3tmIQmUDVtY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3tmIQmUDVtY">Open on YouTube</a></p></div></div></div>
 
 ## The difference between a missing file and a cover-up
@@ -335,12 +330,11 @@ One reason the Indian Point story remains controversial is that missing records 
 
 For some UFO researchers, the absence of documentation raises suspicion. A report involving a nuclear installation fits a long-running theme in UFO culture that links unidentified objects with strategic military or nuclear sites. From that perspective, a failed records search can appear suggestive rather than reassuring.
 
-Sceptics usually reach the opposite conclusion. They argue that extraordinary claims require contemporaneous evidence, and that the lack of supporting records makes later accounts less reliable. In their view, the missing documentation is not evidence of suppression but evidence that the story expanded faster than the paperwork behind it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/598" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">SkeptoidThe Hudson Valley UFO Mystery21 Nov 2017 — Hundreds of people watched this UFO over the Hudson River Valley many times between 19...</span></span></span>
+Sceptics usually reach the opposite conclusion. They argue that extraordinary claims require contemporaneous evidence, and that the lack of supporting records makes later accounts less reliable. In their view, the missing documentation is not evidence of suppression but evidence that the story expanded faster than the paperwork behind it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/598" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Hudson Valley UFO Mystery21 Nov 2017 — Hundreds of people watched this UFO over the Hudson River Valley many times between 19...</span></span></span>
 
 The available record does not resolve that disagreement. What it does show is that the famous Indian Point narrative became much larger in public memory than in the surviving official archive.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Os2KocEJ7mE" title="Episode 285 - The Hudson Valley UFO Sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Os2KocEJ7mE" target="_blank" rel="noopener noreferrer">Episode 285 - The Hudson Valley UFO Sightings</a></p><p class="youtube-embed-meta">Channel: Chilluminati Podcast &middot; Views: 9.2K &middot; Uploaded: February 2025 &middot; Length: 1 hour 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Os2KocEJ7mE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Os2KocEJ7mE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TdekqMVGWyk" title="UFO Magical Mystery Tour with Michael Schratt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TdekqMVGWyk" target="_blank" rel="noopener noreferrer">UFO Magical Mystery Tour with Michael Schratt</a></p><p class="youtube-embed-meta">Channel: Danbury Public Library &middot; Views: 1.7K &middot; Uploaded: October 2025 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TdekqMVGWyk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TdekqMVGWyk">Open on YouTube</a></p></div></div></div>
 
 ## Why the records gap remains central to the Indian Point debate
 
@@ -350,8 +344,7 @@ Later NRC releases confirmed that a FOIA request existed and that searches faile
 
 Within New York UFO history, Indian Point remains significant because it sits at the intersection of the Hudson Valley wave and public concern about nuclear facilities. Yet the surviving evidence points less toward a confirmed nuclear-site mystery than toward a cautionary lesson in how stories evolve when witness accounts outlive the records that might have verified them. The Indian Point case is therefore remembered not only for what was reportedly seen, but also for what investigators could not later find. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nrc.gov/docs/ML2117/ML21179A021.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Police at the Indian Point Nuclear Power Station. A search of our files indicates...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
-
-<img src="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db_indian_point_records_001ac3-Illustration-3-light.svg" | relative_url }}" alt="Records gap illustration 3" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db_indian_point_records_001ac3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db_indian_point_records_001ac3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db_indian_point_records_001ac3-Illustration-3-dark.svg" | relative_url }}" alt="Records gap illustration 3" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db_indian_point_records_001ac3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db_indian_point_records_001ac3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -439,7 +432,7 @@ Within New York UFO history, Indian Point remains significant because it sits at
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -449,111 +442,36 @@ Within New York UFO history, Indian Point remains significant because it sits at
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-the-indian-point-records-missing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-the-indian-point-records-missing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-the-indian-point-records-missing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-the-indian-point-records-missing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-the-indian-point-records-missing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-the-indian-point-records-missing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-the-indian-point-records-missing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-the-indian-point-records-missing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -561,15 +479,15 @@ Within New York UFO history, Indian Point remains significant because it sits at
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-the-indian-point-records-missing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-the-indian-point-records-missing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-the-indian-point-records-missing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-the-indian-point-records-missing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-the-indian-point-records-missing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-the-indian-point-records-missing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-the-indian-point-records-missing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-the-indian-point-records-missing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -577,15 +495,15 @@ Within New York UFO history, Indian Point remains significant because it sits at
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-the-indian-point-records-missing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-the-indian-point-records-missing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-the-indian-point-records-missing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-the-indian-point-records-missing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-the-indian-point-records-missing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-the-indian-point-records-missing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-the-indian-point-records-missing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-the-indian-point-records-missing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -593,15 +511,15 @@ Within New York UFO history, Indian Point remains significant because it sits at
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-the-indian-point-records-missing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-the-indian-point-records-missing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-the-indian-point-records-missing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-the-indian-point-records-missing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-the-indian-point-records-missing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-the-indian-point-records-missing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-the-indian-point-records-missing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-the-indian-point-records-missing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -609,7 +527,7 @@ Within New York UFO history, Indian Point remains significant because it sits at
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-are-the-indian-point-records-missing-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-the-indian-point-records-missing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-are-the-indian-point-records-missing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -686,17 +604,31 @@ Within New York UFO history, Indian Point remains significant because it sits at
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -709,42 +641,73 @@ Within New York UFO history, Indian Point remains significant because it sits at
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -759,12 +722,17 @@ Within New York UFO history, Indian Point remains significant because it sits at
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -774,63 +742,63 @@ Within New York UFO history, Indian Point remains significant because it sits at
 
 1. <a id="endnote-1"></a>
    Source: nrc.gov  
-   Link: [https://www.nrc.gov/docs/ML2117/ML21179A021.pdf](https://www.nrc.gov/docs/ML2117/ML21179A021.pdf)  
+   Link: <a href="https://www.nrc.gov/docs/ML2117/ML21179A021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2117/ML21179A021.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Police at the Indian Point Nuclear Power Station. A search of our files indicates...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Citizens Against UFO Secrecy  
-   Link: [https://en.wikipedia.org/wiki/Citizens_Against_UFO_Secrecy](https://en.wikipedia.org/wiki/Citizens_Against_UFO_Secrecy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Citizens_Against_UFO_Secrecy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Citizens_Against_UFO_Secrecy</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: 1984 Hudson Valley UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings](https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings</a>  
 
 4. <a id="endnote-4"></a>
    Source: discoveryuk.com  
-   Link: [https://www.discoveryuk.com/mysteries/hudson-valley-ufo-americas-ufo-hotspot/](https://www.discoveryuk.com/mysteries/hudson-valley-ufo-americas-ufo-hotspot/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/hudson-valley-ufo-americas-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/hudson-valley-ufo-americas-ufo-hotspot/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKHudson Valley UFO: America&#x27;s UFO Hotspot - Discovery UK15 Jan 2026 — From 1985 onwards, the Hudson Valley UFO wave shifted fr...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: skeptoid.com  
-   Link: [https://skeptoid.com/episodes/598](https://skeptoid.com/episodes/598)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkeptoidThe Hudson Valley UFO Mystery21 Nov 2017 — Hundreds of people watched this UFO over the Hudson River Valley many times between 19...</p></details>
+   Link: <a href="https://skeptoid.com/episodes/598" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/598</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hudson Valley UFO Mystery21 Nov 2017 — Hundreds of people watched this UFO over the Hudson River Valley many times between 19...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nrc.gov  
    Title: foia june  
-   Link: [https://www.nrc.gov/reading-rm/foia/recent-requests/2021/foia-june](https://www.nrc.gov/reading-rm/foia/recent-requests/2021/foia-june)  
+   Link: <a href="https://www.nrc.gov/reading-rm/foia/recent-requests/2021/foia-june" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/reading-rm/foia/recent-requests/2021/foia-june</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recent FOIA Requests – June 2021Recent FOIA Requests – June 2021; 2021-000177, John Greenewald, The Black Vault, A copy of records, elec...</p></details>
    Published: June 2021  
 
 7. <a id="endnote-7"></a>
    Source: nrc.gov  
-   Link: [https://www.nrc.gov/docs/ML2504/ML25041A099.pdf](https://www.nrc.gov/docs/ML2504/ML25041A099.pdf)  
+   Link: <a href="https://www.nrc.gov/docs/ML2504/ML25041A099.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2504/ML25041A099.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOIA-2025-00041613 Jan 2025 — A ny records, letters, meeting notes and emails (including attachments) sent or received by the Designated...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: documents2.theblackvault.com  
    Title: nrc ufo 2021  
-   Link: [https://documents2.theblackvault.com/documents/ufos/nrc-ufo-2021.pdf](https://documents2.theblackvault.com/documents/ufos/nrc-ufo-2021.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/ufos/nrc-ufo-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/ufos/nrc-ufo-2021.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>We note that the NRC did receive a FOIA request back in 1984 seeking records and found none at that...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ru.scribd.com  
    Title: Citizens Against UFO Secrecy  
-   Link: [https://ru.scribd.com/document/114322166/Citizens-Against-UFO-Secrecy](https://ru.scribd.com/document/114322166/Citizens-Against-UFO-Secrecy)  
+   Link: <a href="https://ru.scribd.com/document/114322166/Citizens-Against-UFO-Secrecy" target="_blank" rel="noopener noreferrer nofollow">https://ru.scribd.com/document/114322166/Citizens-Against-UFO-Secrecy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Newsletter: Fighting UFO Secrecy | PDF | UfologyThis document summarizes the efforts of Citizens Against UFO Secrecy (CAUS) to use the Fr...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: documents.theblackvault.com  
    Title: FOIA 2017 0368 NRC UFO  
-   Link: [https://documents.theblackvault.com/documents/nrc/FOIA-2017-0368-NRC-UFO.pdf](https://documents.theblackvault.com/documents/nrc/FOIA-2017-0368-NRC-UFO.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/nrc/FOIA-2017-0368-NRC-UFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/nrc/FOIA-2017-0368-NRC-UFO.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2017-0368 NRC UFO23 Mar 2017 — DESCRIPTION OF REQUESTED RECORDS: All documents that have been collected about UFOs that have been collect...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: unsolved.com  
    Title: Hudson Valley UFO  
-   Link: [https://unsolved.com/gallery/hudson-valley-ufo/](https://unsolved.com/gallery/hudson-valley-ufo/)  
+   Link: <a href="https://unsolved.com/gallery/hudson-valley-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/hudson-valley-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved MysteriesI witnessed the Hudson Valley UFO in July 1984, it was huge over a football field size. My sighting was almost directly...</p></details>
    Published: July 1984  
 
@@ -838,57 +806,57 @@ Within New York UFO history, Indian Point remains significant because it sits at
 
 12. <a id="endnote-12"></a>
    Source: dhs.gov  
-   Link: [https://www.dhs.gov/sites/default/files/2024-07/chief_foia_officer_weekly_report-2023.pdf](https://www.dhs.gov/sites/default/files/2024-07/chief_foia_officer_weekly_report-2023.pdf)  
+   Link: <a href="https://www.dhs.gov/sites/default/files/2024-07/chief_foia_officer_weekly_report-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2024-07/chief_foia_officer_weekly_report-2023.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Freedom of Information Act (FOIA) Activity for the Week ofWashington, D.C., a no records response in regard to his request for records pe...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ufoevidence.org  
-   Link: [https://www.ufoevidence.org/documents/doc689.htm](https://www.ufoevidence.org/documents/doc689.htm)  
+   Link: <a href="https://www.ufoevidence.org/documents/doc689.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/documents/doc689.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Incident At Indian PointI had wished they would have played it down a little since neither I or the guards at Indian Point claimed that t...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/wczg9n/the_hudson_valley_ufo_sightings/](https://www.reddit.com/r/UnresolvedMysteries/comments/wczg9n/the_hudson_valley_ufo_sightings/)  
+   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/wczg9n/the_hudson_valley_ufo_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/wczg9n/the_hudson_valley_ufo_sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hudson Valley UFO Sightings: r/UnresolvedMysteriesTwelve security guards at the power plant saw something matching the UFO&#x27;s descrip...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: brewster site of the largest ufo meeting ever held in the ushenry wells middle s  
-   Link: [https://www.facebook.com/SoutheastHistorian/posts/brewster-site-of-the-largest-ufo-meeting-ever-held-in-the-ushenry-wells-middle-s/122196330890229844/](https://www.facebook.com/SoutheastHistorian/posts/brewster-site-of-the-largest-ufo-meeting-ever-held-in-the-ushenry-wells-middle-s/122196330890229844/)  
+   Link: <a href="https://www.facebook.com/SoutheastHistorian/posts/brewster-site-of-the-largest-ufo-meeting-ever-held-in-the-ushenry-wells-middle-s/122196330890229844/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SoutheastHistorian/posts/brewster-site-of-the-largest-ufo-meeting-ever-held-in-the-ushenry-wells-middle-s/122196330890229844/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hudson Valley UFO sightings in 1984- *June 14 and July 24, 1984*: Security guards at the Indian Point Nuclear Power Plant reported a 900...</p></details>
    Published: July 24, 1984  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: ufos at los alamos explore some of the otherworldly freedom of information act f  
-   Link: [https://www.facebook.com/LosAlamosNationalLab/posts/ufos-at-los-alamos-explore-some-of-the-otherworldly-freedom-of-information-act-f/1020322276794064/](https://www.facebook.com/LosAlamosNationalLab/posts/ufos-at-los-alamos-explore-some-of-the-otherworldly-freedom-of-information-act-f/1020322276794064/)  
+   Link: <a href="https://www.facebook.com/LosAlamosNationalLab/posts/ufos-at-los-alamos-explore-some-of-the-otherworldly-freedom-of-information-act-f/1020322276794064/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LosAlamosNationalLab/posts/ufos-at-los-alamos-explore-some-of-the-otherworldly-freedom-of-information-act-f/1020322276794064/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at Los Alamos? 👽 Explore some of the otherworldly...What&#x27;s also fun, is my request also turned up a 1984 FOIA request letter, and r...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/](https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force investigated UFOs for more than twenty years and never found any information to suggest they were real...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Reconnaissance Office (NRO) states in response to a FOIA request that it has no documentation related to UFOs. It states the topic...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: digitalcollections.trentu.ca  
    Title: A History of Canada s UFO Investigation 1950 1995  
-   Link: [https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf](https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf)  
+   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — attitude only hardened over time in response to citizen&#x27;s letters, and by th...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: podcastufo.com  
    Title: UF Os Over the Indian Point Nuclear Plant  
-   Link: [https://podcastufo.com/ufos-over-the-indian-point-nuclear-plant/](https://podcastufo.com/ufos-over-the-indian-point-nuclear-plant/)  
+   Link: <a href="https://podcastufo.com/ufos-over-the-indian-point-nuclear-plant/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/ufos-over-the-indian-point-nuclear-plant/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Over the Indian Point Nuclear Plant - Podcast UFO30 Apr 2023 — Podcast UFO is an interactive weekly audio &amp; video show/podcast perta...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nsa.gov  
    Title: * Memorandum and Order  
-   Link: [https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761375/](https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761375/)  
+   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761375/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761375/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Citizens Against UFO Secrecy...Memorandum and Order - Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)...</p></details>

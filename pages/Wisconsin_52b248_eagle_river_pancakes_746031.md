@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-made-wisconsin-a-ufo-state/
 nav_short_title: Eagle River
 title: Did Eagle River's Pancakes Prove Anything?
-title_full: Did Eagle River's Pancakes Prove Anything? | Wisconsin UFOs
+title_full: Did Eagle River's Pancakes Prove Anything?
 display_title_short: Eagle River
 display_title: Eagle River
 heading_title: Did Eagle River's Pancakes Prove Anything?
@@ -268,8 +268,7 @@ image: /assets/images/Wisconsin_52b248_eagle_river_pancakes_746031-overview-soci
 
 ## Introduction
 
-The Eagle River pancake case is one of [Wisconsin]({{ 'what-really-made-wisconsin-a-ufo-state/' | relative_url }})’s strangest UFO stories because it offers exactly what many close-encounter reports lack: a claimed physical sample. On 18 April 1961, Joe Simonton, a plumber living outside Eagle River, said a shiny, saucer-shaped craft appeared near his home, that one of its occupants asked him for water, and that he was given several small pancake-like cakes in return. The obvious question is whether those cakes proved anything. They did not. Laboratory attention made the case more interesting, but the reported ingredients were ordinary: fat, starch, buckwheat hulls, wheat bran and soybean hulls, with bacteriology and radioactivity results consistent with a terrestrial pancake. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_HYNEK_Simonton-CE-III.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_CLARK_IUR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
-
+The Eagle River pancake case is one of Wisconsin’s strangest UFO stories because it offers exactly what many close-encounter reports lack: a claimed physical sample. On 18 April 1961, Joe Simonton, a plumber living outside Eagle River, said a shiny, saucer-shaped craft appeared near his home, that one of its occupants asked him for water, and that he was given several small pancake-like cakes in return. The obvious question is whether those cakes proved anything. They did not. Laboratory attention made the case more interesting, but the reported ingredients were ordinary: fat, starch, buckwheat hulls, wheat bran and soybean hulls, with bacteriology and radioactivity results consistent with a terrestrial pancake. [Center for UFO Studies+2Center for UFO Studies]
 
 <img src="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031-overview.webp" | relative_url }}" alt="Overview image for Eagle River" loading="eager" decoding="sync" fetchpriority="high">
 That is why Eagle River matters in Wisconsin UFO history. It is not a strong proof case disguised as a joke, nor merely a joke with no evidential value. It is a useful example of the limits of “physical evidence” when the object can be tested but its origin, chain of custody and surrounding claim remain uncertain. The pancakes did not confirm a visitor from elsewhere. They did, however, show how a humble object could pull in local officials, civilian UFO groups, Project Blue Book and J. Allen Hynek, while still leaving the central event unresolved in any satisfying way.
@@ -282,18 +281,16 @@ The details are strange even by UFO standards. Simonton described the visitors a
 
 For readers trying to judge the case, the important point is not whether the story sounds charming, absurd or uncanny. It is that the narrative depends almost entirely on one witness. There were no photographs of the alleged craft in the act of landing, no independent observers of the encounter, no radar case attached to it, and no clear landing trace that could securely anchor the story. The pancakes were therefore not one piece in a strong evidence chain. They were the chain.
 
-
-<img src="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031-Illustration-1-light.svg" | relative_url }}" alt="Eagle River illustration 1" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031-Illustration-1-dark.svg" | relative_url }}" alt="Eagle River illustration 1" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the pancakes drew official attention
 
-The samples mattered because they turned a rural close-encounter claim into a testable object. Simonton reportedly turned over cakes to local authorities, and Vilas County Judge Frank W. Carter became an important early figure in moving the claim beyond gossip. In later documentation, Carter’s cover letter to Donald Keyhoe of the National Investigations Committee on Aerial Phenomena, or NICAP, asked whether the greasy, perforated “pancake” contained earthly or unknown ingredients. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_CLARK_IUR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
+The samples mattered because they turned a rural close-encounter claim into a testable object. Simonton reportedly turned over cakes to local authorities, and Vilas County Judge Frank W. Carter became an important early figure in moving the claim beyond gossip. In later documentation, Carter’s cover letter to Donald Keyhoe of the National Investigations Committee on Aerial Phenomena, or NICAP, asked whether the greasy, perforated “pancake” contained earthly or unknown ingredients. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_HYNEK_Simonton-CE-III.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 That act of sending a sample helped bring the case into a wider UFO politics of the early 1960s. NICAP was a major civilian UFO organisation, but it was wary of being publicly tied to stories about occupants and “little green men”. Jerome Clark’s later review of the case notes that NICAP preferred to press the Air Force over serious aerial reports and did not want its reputation tied to an outlandish food-sample story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_CLARK_IUR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 Project Blue Book was drawn in partly because Air Force personnel worried that NICAP might make much of the case. Major Robert Friend contacted J. Allen Hynek, Blue Book’s scientific consultant, and Hynek went to Eagle River with two graduate students, Walter Weller and John Tumlin. They interviewed Simonton, spoke with local people, examined the site and obtained part of a pancake sample. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_CLARK_IUR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 This is one reason the case survived in UFO history. Many odd local stories vanish because no institution touches them. Eagle River did not vanish. It entered newspaper files, civilian UFO files, Blue Book paperwork and later historical discussion. The U.S. National Archives confirms that Project Blue Book records were declassified and transferred to the archives, with case files arranged chronologically and available on microfilm; Fold3’s Project Blue Book database lists Eagle River, Wisconsin, under April 1961 in the NARA T1206 record set. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MaKZPy9NPYk" title="We Found Missing Evidence from the Weirdest UFO Encounter | Episode 21 | Haunted Objects Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MaKZPy9NPYk" target="_blank" rel="noopener noreferrer">We Found Missing Evidence from the Weirdest UFO Encounter | Episode 21 | Haunted Objects Podcast</a></p><p class="youtube-embed-meta">Channel: Planet Weird &middot; Views: 92.7K &middot; Uploaded: July 2024 &middot; Length: 1 hour 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MaKZPy9NPYk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MaKZPy9NPYk">Open on YouTube</a></p></div></div></div>
 
@@ -313,8 +310,7 @@ There are three separate evidential limits here:
 
 The physical object therefore changed the shape of the debate but not the strength of the proof. Without the pancakes, Eagle River might be just another single-witness occupant story. With the pancakes, it became a famous lesson in how “something tangible” can still fail to establish the central claim.
 
-
-<img src="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031-Illustration-2-light.svg" | relative_url }}" alt="Eagle River illustration 2" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031-Illustration-2-dark.svg" | relative_url }}" alt="Eagle River illustration 2" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why investigators disagreed about the witness
 
 The strongest point for Simonton has always been character rather than chemistry. Hynek’s field notes, as later quoted in case literature, did not portray him as an obvious showman. Hynek reported that Simonton answered directly, did not contradict himself, refused embellishments, and said he did not care whether he was believed. Hynek also wrote that Simonton appeared sincere and did not appear to be perpetrating a hoax, although deciding whether the event was physical or psychological moved the issue into psychology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_CLARK_IUR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
@@ -324,7 +320,6 @@ Local reaction also mattered. Hynek reported that in Eagle River, Simonton was g
 But sincerity does not settle a case. The Blue Book record card listed the observation as ground-visual, noted a physical specimen described as a pancake, summarised the craft as like two soup bowls together, and marked the conclusion as “Hallucination”. The comments said investigators considered the witness balanced and of good mental health, and that he seemed to believe the events had happened, but that inconsistencies and lack of supporting evidence pointed to hallucination followed by delusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_CLARK_IUR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 That judgement is blunt and unsatisfying, but it shows the official logic. Blue Book did not have to prove that Simonton was dishonest. It only had to decide whether the report was supported enough to remain unidentified or physically significant. The cakes did not do that work, so the case was filed as a psychological episode rather than an unknown craft.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xoV6nmngWCQ" title="Robert Anton Wilson Cosmic Trigger - &#x27;Pancakes from Outer Space&#x27; (J. Simonton&#x27;s Alien Encounter)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xoV6nmngWCQ" target="_blank" rel="noopener noreferrer">Robert Anton Wilson Cosmic Trigger - &#x27;Pancakes from Outer Space&#x27; (J. Simonton&#x27;s Alien Encounter)</a></p><p class="youtube-embed-meta">Channel: The Brainwave Hub - Sleep, Focus, Mindfulness &middot; Views: 2.6K &middot; Uploaded: February 2012 &middot; Length: 1 minute 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xoV6nmngWCQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xoV6nmngWCQ">Open on YouTube</a></p></div></div></div>
 
@@ -338,8 +333,7 @@ For sympathetic readers, the case remains harder to discard. Simonton did not se
 
 For historians of UFO culture, the case is valuable for a different reason. It exposes the uneasy relationship between official investigators, civilian UFO organisations and local communities. NICAP feared ridicule, Blue Book feared publicity, the local judge wanted an analysis, and Eagle River became briefly famous for a story that was both comic and difficult to categorise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_CLARK_IUR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
-
-<img src="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031-Illustration-3-light.svg" | relative_url }}" alt="Eagle River illustration 3" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031-Illustration-3-dark.svg" | relative_url }}" alt="Eagle River illustration 3" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_eagle_river_pancakes_746031-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Eagle River teaches about physical evidence
 
 The lesson of the Eagle River pancakes is not that physical evidence never matters. It is that physical evidence has to be relevant, controlled and discriminating. A radar track, a securely recovered fragment with unusual properties, a set of independent observations, or a documented environmental effect would all raise different questions. A pancake-like object made of ordinary ingredients does not.
@@ -348,9 +342,7 @@ The case also shows why UFO history often turns on the gap between “unexplaine
 
 Within Wisconsin’s UFO record, Eagle River is therefore best read as a landmark of evidential limits. It is more grounded than a tale with no documents, more vivid than a distant light in the sky, and less persuasive than cases with multiple independent witnesses or technical corroboration. The pancakes gave the story its fame, but the analysis gave it its real meaning: tangible evidence is not the same as decisive evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/auD14Gh4ILM" title="Eagle River, Wisconsin Full Episode | Lakes, Snowmobiles, and Northwoods Traditions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=auD14Gh4ILM" target="_blank" rel="noopener noreferrer">Eagle River, Wisconsin Full Episode | Lakes, Snowmobiles, and Northwoods Traditions</a></p><p class="youtube-embed-meta">Channel: John McGivern&#x27;s Main Streets &middot; Views: 17.9K &middot; Uploaded: April 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=auD14Gh4ILM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=auD14Gh4ILM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -774,91 +766,91 @@ Within Wisconsin’s UFO record, Eagle River is therefore best read as a landmar
 1. <a id="endnote-1"></a>
    Source: cufos.org  
    Title: Center for UFO Studies  
-   Link: [https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_HYNEK_Simonton-CE-III.pdf](https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_HYNEK_Simonton-CE-III.pdf)  
+   Link: <a href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_HYNEK_Simonton-CE-III.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_HYNEK_Simonton-CE-III.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: cufos.org  
    Title: Center for UFO Studies  
-   Link: [https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_CLARK_IUR.pdf](https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_CLARK_IUR.pdf)  
+   Link: <a href="https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_CLARK_IUR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/cases/1961_04_18_US_WI_Eagle-River_CLARK_IUR.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 4. <a id="endnote-4"></a>
    Source: fold3.com  
    Title: Page 73 in US, Project Blue Book  
-   Link: [https://www.fold3.com/document/8680116/eagle-river-wisconsin-blank-page-73-us-project-blue-book-ufo-investigations-1947-1969](https://www.fold3.com/document/8680116/eagle-river-wisconsin-blank-page-73-us-project-blue-book-ufo-investigations-1947-1969)  
+   Link: <a href="https://www.fold3.com/document/8680116/eagle-river-wisconsin-blank-page-73-us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/8680116/eagle-river-wisconsin-blank-page-73-us-project-blue-book-ufo-investigations-1947-1969</a>  
 
 5. <a id="endnote-5"></a>
    Source: fold3.com  
    Title: U S, Project Blue Book  
-   Link: [https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969](https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969)  
+   Link: <a href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969</a>  
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1432338325093596/posts/1473237151003713/](https://www.facebook.com/groups/1432338325093596/posts/1473237151003713/)  
+   Link: <a href="https://www.facebook.com/groups/1432338325093596/posts/1473237151003713/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1432338325093596/posts/1473237151003713/</a>  
 
 7. <a id="endnote-7"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/project](https://dictionary.cambridge.org/dictionary/english/project)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/project" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/project</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Project](https://en.wikipedia.org/wiki/Project)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=19hqrhUlPzI](https://www.youtube.com/watch?v=19hqrhUlPzI)  
+   Link: <a href="https://www.youtube.com/watch?v=19hqrhUlPzI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=19hqrhUlPzI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This video breaks down Joe Simonton&#x27;s famous 1961 encounter and the subsequent Project Blue Book testing, demonstrating the limits of ana...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Robert Anton Wilson Cosmic Trigger  
-   Link: [https://www.youtube.com/watch?v=xoV6nmngWCQ](https://www.youtube.com/watch?v=xoV6nmngWCQ)  
+   Link: <a href="https://www.youtube.com/watch?v=xoV6nmngWCQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xoV6nmngWCQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eagle River, Wisconsin Full Episode | Lakes, Snowmobiles, and Northwoods Traditions...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: WEIRD WISCONSIN: Eagle River & Joe Simonton's BIZARRE UFO Pancakes  
-   Link: [https://www.youtube.com/watch?v=PXw0AN9S_5A](https://www.youtube.com/watch?v=PXw0AN9S_5A)  
+   Link: <a href="https://www.youtube.com/watch?v=PXw0AN9S_5A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PXw0AN9S_5A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Anton Wilson Cosmic Trigger - &#x27;Pancakes from Outer Space&#x27; (J. Simonton&#x27;s Alien Encounter)...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=auD14Gh4ILM](https://www.youtube.com/watch?v=auD14Gh4ILM)  
+   Link: <a href="https://www.youtube.com/watch?v=auD14Gh4ILM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=auD14Gh4ILM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eagle River: Up North...Down to Earth | Discover Wisconsin...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/pdf/10.1126/science.135.3503.518.a](https://www.science.org/doi/pdf/10.1126/science.135.3503.518.a)  
+   Link: <a href="https://www.science.org/doi/pdf/10.1126/science.135.3503.518.a" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/pdf/10.1126/science.135.3503.518.a</a>  
 
 15. <a id="endnote-15"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Mindless Banter 139: Joe Simonton & the Alien Pancakes  
-   Link: [https://www.youtube.com/watch?v=a7MmWf8f_wc](https://www.youtube.com/watch?v=a7MmWf8f_wc)  
+   Link: <a href="https://www.youtube.com/watch?v=a7MmWf8f_wc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a7MmWf8f_wc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WEIRD WISCONSIN: Eagle River &amp; Joe Simonton&#x27;s BIZARRE UFO Pancakes...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/i6nhqq/aliens_serve_a_wisconsin_man_pancakes_from_their/](https://www.reddit.com/r/HighStrangeness/comments/i6nhqq/aliens_serve_a_wisconsin_man_pancakes_from_their/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/i6nhqq/aliens_serve_a_wisconsin_man_pancakes_from_their/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/i6nhqq/aliens_serve_a_wisconsin_man_pancakes_from_their/</a>  
 
 18. <a id="endnote-18"></a>
    Source: cultofweird.com  
-   Link: [https://www.cultofweird.com/ufo-sightings/wisconsin-alien-pancakes/](https://www.cultofweird.com/ufo-sightings/wisconsin-alien-pancakes/)  
+   Link: <a href="https://www.cultofweird.com/ufo-sightings/wisconsin-alien-pancakes/" target="_blank" rel="noopener noreferrer nofollow">https://www.cultofweird.com/ufo-sightings/wisconsin-alien-pancakes/</a>  
 
 19. <a id="endnote-19"></a>
    Source: governmentattic.org  
-   Link: [https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf](https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf)  
+   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>

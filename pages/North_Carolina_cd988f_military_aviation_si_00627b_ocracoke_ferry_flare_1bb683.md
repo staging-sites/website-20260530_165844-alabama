@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /military-skies-99e1c8/
 nav_short_title: Ocracoke lights
 title: Were the Ocracoke ferry lights military flares?
-title_full: Were the Ocracoke ferry lights military flares? | Military Skies
+title_full: Were the Ocracoke ferry lights military flares?
 display_title_short: Ocracoke lights
 display_title: Ocracoke lights
 heading_title: Were the Ocracoke ferry lights military flares?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:57:29'
-parent_title: Why North Carolina's Military Skies Matter | NC UFOs
+parent_title: Why North Carolina's Military Skies Matter
 parent_permalink: /military-skies-99e1c8/
 parent_nav_short_title: Military Skies
 parent_heading_title: Why North Carolina's Military Skies Matter
@@ -250,10 +250,9 @@ image: /assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke
 
 ## Introduction
 
-In autumn 2019, a short mobile-phone video filmed from a ferry near Ocracoke Island became one of [North Carolina]({{ 'what-really-happened-in-north/' | relative_url }})’s most widely shared modern UFO clips. The footage appeared to show a cluster of bright yellow lights hovering over the water at dusk, with passengers reacting in surprise as the lights seemed to hang motionless in the sky. For some viewers, the scene looked like a formation of unknown craft. For others, it looked exactly like a military flare exercise.
+In autumn 2019, a short mobile-phone video filmed from a ferry near Ocracoke Island became one of North Carolina’s most widely shared modern UFO clips. The footage appeared to show a cluster of bright yellow lights hovering over the water at dusk, with passengers reacting in surprise as the lights seemed to hang motionless in the sky. For some viewers, the scene looked like a formation of unknown craft. For others, it looked exactly like a military flare exercise.
 
-
-<img src="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-1-light.svg" | relative_url }}" alt="Ocracoke lights illustration 1" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-1-dark.svg" | relative_url }}" alt="Ocracoke lights illustration 1" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The case matters because it sits at the intersection of two recurring themes in North Carolina UFO history: coastal geography that can distort perception, and heavy military activity across the eastern part of the state. Unlike older sightings that survive mainly through witness recollections, the Ocracoke incident left a clear video record. That made it a useful test case for how quickly an apparently extraordinary sighting can become more understandable once location, direction of travel and nearby military ranges are examined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares</span><span class="citation-popover-snippet">December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</span><span class="citation-popover-meta">Published: December 11, 2019</span></span></span>
 
 ## What the ferry video appeared to show
@@ -270,7 +269,6 @@ Several features made the footage especially effective as a UFO clip:
 
 The witness's narration reinforced the mystery. He described being “in the middle of the ocean” with “nothing around”, encouraging viewers to imagine the lights far from any human activity. That framing became an important part of the story's spread across social media and tabloid-style UFO coverage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.charlotteobserver.com/news/local/article235790617.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: charlotteobserver.com">[Charlotte Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">charlotteobserver.com</span><span class="citation-popover-snippet">Charlotte ObserverUFO debate in NC after odd lights spotted off Outer Banks4 Oct 2019 — The video was filmed aboard a ferry crossing the...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1Y3SqSynTcY" title="North Carolina&#x27;s New Passenger Ferry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1Y3SqSynTcY" target="_blank" rel="noopener noreferrer">North Carolina&#x27;s New Passenger Ferry</a></p><p class="youtube-embed-meta">Channel: NCDOTcommunications &middot; Views: 5.3K &middot; Uploaded: June 2019 &middot; Length: 1 minute 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1Y3SqSynTcY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1Y3SqSynTcY">Open on YouTube</a></p></div></div></div>
 
 ## Why Pamlico Sound changes distance and motion cues
@@ -283,8 +281,7 @@ The ferry itself further complicates perception. Passengers are standing on a mo
 
 This is one reason coastal UFO reports often produce disagreements about speed, size and altitude. Witnesses may accurately describe what they saw while still misjudging where the lights were located.
 
-
-<img src="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-2-light.svg" | relative_url }}" alt="Ocracoke lights illustration 2" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-2-dark.svg" | relative_url }}" alt="Ocracoke lights illustration 2" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the flare explanation fits the coastal range context
 
 The strongest sceptical explanation focuses on military illumination flares used during training exercises.
@@ -301,8 +298,7 @@ The appearance of the lights also matches several known characteristics of milit
 
 Former military personnel commenting publicly on the footage argued that the lights resembled flares they had seen during exercises in eastern North Carolina. One former Marine associated with aviation operations at Cherry Point stated that flare drops in the region were common and could produce exactly the kind of visual effect seen in the video. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox5ny.com/news/viral-video-of-unidentified-lights-off-ncs-outer-banks-has-people-questioning-aliens-or-military" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox5ny.com">[FOX 5 New York]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox5ny.com</span><span class="citation-popover-snippet">FOX 5 New YorkViral video of unidentified lights off NC&#x27;s Outer Banks has...7 Oct 2019 — The 30-second video shows Guy filming an empty...</span></span></span>
 
-Importantly, the flare explanation does not require any unusual assumptions. It places the lights within an area already known for [military aviation]({{ 'military-skies-99e1c8/' | relative_url }}) activity and uses a type of object documented as operating there.
-
+Importantly, the flare explanation does not require any unusual assumptions. It places the lights within an area already known for military aviation activity and uses a type of object documented as operating there.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VWL-Bh1yV-k" title="NCDOT Now - Passenger Ferry, NC Zoo Engravings and COVID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VWL-Bh1yV-k" target="_blank" rel="noopener noreferrer">NCDOT Now - Passenger Ferry, NC Zoo Engravings and COVID</a></p><p class="youtube-embed-meta">Channel: NCDOTcommunications &middot; Views: 563 &middot; Uploaded: July 2020 &middot; Length: 1 minute 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VWL-Bh1yV-k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VWL-Bh1yV-k">Open on YouTube</a></p></div></div></div>
 
@@ -319,8 +315,7 @@ Several points cannot be established conclusively from the public record:
 
 However, uncertainty is not the same thing as evidence for an extraordinary explanation. In UFO investigations, the question is usually whether the available evidence points more strongly toward a known cause or an unknown one. In this case, the military-flare interpretation fits both the geography and the visual characteristics better than claims involving unidentified craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares</span><span class="citation-popover-snippet">December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</span><span class="citation-popover-meta">Published: December 11, 2019</span></span></span>
 
-
-<img src="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-3-light.svg" | relative_url }}" alt="Ocracoke lights illustration 3" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-3-dark.svg" | relative_url }}" alt="Ocracoke lights illustration 3" data-theme-src-dark="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Carolina_cd988f_military_aviation_si_00627b_ocracoke_ferry_flare_1bb683-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Ocracoke lights became a useful North Carolina UFO case
 
 The lasting value of the Ocracoke ferry incident is not that it produced one of North Carolina's strongest UFO mysteries. Instead, it became a useful lesson in how apparently dramatic sightings can change when local context is added.
@@ -329,9 +324,7 @@ The original video encouraged viewers to focus on the lights themselves. Later a
 
 Within the broader history of North Carolina UFO reports, the Ocracoke lights illustrate a recurring pattern. Coastal waters, military airspace and unusual lighting conditions can generate sincere witness reports that initially seem extraordinary. Some remain unresolved. Others become substantially less mysterious when range activity, aviation operations or flare behaviour are taken into account. The Ocracoke video is one of the clearest modern examples of that process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares</span><span class="citation-popover-snippet">December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</span><span class="citation-popover-meta">Published: December 11, 2019</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zCRuceP_DIo" title="Mysterious lights off San Diego coast light up social media on Monday night" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zCRuceP_DIo" target="_blank" rel="noopener noreferrer">Mysterious lights off San Diego coast light up social media on Monday night</a></p><p class="youtube-embed-meta">Channel: CBS 8 San Diego &middot; Views: 168.7K &middot; Uploaded: June 2022 &middot; Length: 2 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zCRuceP_DIo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zCRuceP_DIo">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -755,73 +748,73 @@ Within the broader history of North Carolina UFO reports, the Ocracoke lights il
 1. <a id="endnote-1"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer'Real' UFOs in North Carolina Shown to be Flares  
-   Link: [https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/](https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/)  
+   Link: <a href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 11, 2019 — 11 Dec 2019 — The video, which is thirty seconds long, shows fourteen bright yellow lights clustered together hoverin...</p></details>
    Published: December 11, 2019  
 
 2. <a id="endnote-2"></a>
    Source: charlotteobserver.com  
-   Link: [https://www.charlotteobserver.com/news/local/article235790617.html](https://www.charlotteobserver.com/news/local/article235790617.html)  
+   Link: <a href="https://www.charlotteobserver.com/news/local/article235790617.html" target="_blank" rel="noopener noreferrer nofollow">https://www.charlotteobserver.com/news/local/article235790617.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Charlotte ObserverUFO debate in NC after odd lights spotted off Outer Banks4 Oct 2019 — The video was filmed aboard a ferry crossing the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: fox5ny.com  
-   Link: [https://www.fox5ny.com/news/viral-video-of-unidentified-lights-off-ncs-outer-banks-has-people-questioning-aliens-or-military](https://www.fox5ny.com/news/viral-video-of-unidentified-lights-off-ncs-outer-banks-has-people-questioning-aliens-or-military)  
+   Link: <a href="https://www.fox5ny.com/news/viral-video-of-unidentified-lights-off-ncs-outer-banks-has-people-questioning-aliens-or-military" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5ny.com/news/viral-video-of-unidentified-lights-off-ncs-outer-banks-has-people-questioning-aliens-or-military</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX 5 New YorkViral video of unidentified lights off NC&#x27;s Outer Banks has...7 Oct 2019 — The 30-second video shows Guy filming an empty...</p></details>
 
 ### Additional References
 
 4. <a id="endnote-4"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DKm7lXrChxs/](https://www.instagram.com/reel/DKm7lXrChxs/)  
+   Link: <a href="https://www.instagram.com/reel/DKm7lXrChxs/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DKm7lXrChxs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NCDOT on Instagram: &quot;You have that summer trip to the coast...The Ocracoke Express passenger ferry that runs between Hatteras Island and...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: fox13news.com  
-   Link: [https://www.fox13news.com/news/viral-video-of-unidentified-lights-off-ncs-outer-banks-has-people-questioning-aliens-or-military](https://www.fox13news.com/news/viral-video-of-unidentified-lights-off-ncs-outer-banks-has-people-questioning-aliens-or-military)  
+   Link: <a href="https://www.fox13news.com/news/viral-video-of-unidentified-lights-off-ncs-outer-banks-has-people-questioning-aliens-or-military" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13news.com/news/viral-video-of-unidentified-lights-off-ncs-outer-banks-has-people-questioning-aliens-or-military</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Viral video of unidentified lights off NC&#x27;s Outer Banks has...7 Oct 2019 — Video of a mysterious group of lights in the sky captured off...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/119236565416688/posts/1682053095801686/](https://www.facebook.com/groups/119236565416688/posts/1682053095801686/)  
+   Link: <a href="https://www.facebook.com/groups/119236565416688/posts/1682053095801686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/119236565416688/posts/1682053095801686/</a>  
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
    Title: what do you think is seen in this video which was filmed aboard a ferry crossing  
-   Link: [https://www.facebook.com/theheraldsun/posts/what-do-you-think-is-seen-in-this-video-which-was-filmed-aboard-a-ferry-crossing/2455053961219884/](https://www.facebook.com/theheraldsun/posts/what-do-you-think-is-seen-in-this-video-which-was-filmed-aboard-a-ferry-crossing/2455053961219884/)  
+   Link: <a href="https://www.facebook.com/theheraldsun/posts/what-do-you-think-is-seen-in-this-video-which-was-filmed-aboard-a-ferry-crossing/2455053961219884/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theheraldsun/posts/what-do-you-think-is-seen-in-this-video-which-was-filmed-aboard-a-ferry-crossing/2455053961219884/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What do you think is seen in this video, which was filmed...5 Oct 2019 — What do you think is seen in this video, which was filmed aboar...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: wbznewsradio.iheart.com  
    Title: 2019 10 04 video shows strange glowing objects in sky over north carolina  
-   Link: [https://wbznewsradio.iheart.com/content/2019-10-04-video-shows-strange-glowing-objects-in-sky-over-north-carolina/](https://wbznewsradio.iheart.com/content/2019-10-04-video-shows-strange-glowing-objects-in-sky-over-north-carolina/)  
+   Link: <a href="https://wbznewsradio.iheart.com/content/2019-10-04-video-shows-strange-glowing-objects-in-sky-over-north-carolina/" target="_blank" rel="noopener noreferrer nofollow">https://wbznewsradio.iheart.com/content/2019-10-04-video-shows-strange-glowing-objects-in-sky-over-north-carolina/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shows Strange Glowing Objects In Sky Over North...4 Oct 2019 — A man in North Carolina captured a group of strange lights in the sky on...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/dwke61/unexplained_phenomenaunexplained_lights_off_north/](https://www.reddit.com/r/UnresolvedMysteries/comments/dwke61/unexplained_phenomenaunexplained_lights_off_north/)  
+   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/dwke61/unexplained_phenomenaunexplained_lights_off_north/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/dwke61/unexplained_phenomenaunexplained_lights_off_north/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 28, 2019, passengers on a ferry off the Outer Banks noticed a cluster of 14 bright quasi-stationary point...Read more...</p></details>
    Published: September 28, 2019  
 
 10. <a id="endnote-10"></a>
    Source: expressnews.com  
    Title: Mysterious glowing orbs off N C coast UFOs 14493713  
-   Link: [https://www.expressnews.com/nation/article/Mysterious-glowing-orbs-off-N-C-coast-UFOs-14493713.php](https://www.expressnews.com/nation/article/Mysterious-glowing-orbs-off-N-C-coast-UFOs-14493713.php)  
+   Link: <a href="https://www.expressnews.com/nation/article/Mysterious-glowing-orbs-off-N-C-coast-UFOs-14493713.php" target="_blank" rel="noopener noreferrer nofollow">https://www.expressnews.com/nation/article/Mysterious-glowing-orbs-off-N-C-coast-UFOs-14493713.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious glowing orbs seen off N.C. coast — UFOs?4 Oct 2019 — This unexplained cluster of lights was filmed by a passenger on a ferry o...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KHON2News/posts/a-man-recorded-what-looks-like-a-cluster-of-glowing-lights-hovering-in-the-skies/10156900917346379/](https://www.facebook.com/KHON2News/posts/a-man-recorded-what-looks-like-a-cluster-of-glowing-lights-hovering-in-the-skies/10156900917346379/)  
+   Link: <a href="https://www.facebook.com/KHON2News/posts/a-man-recorded-what-looks-like-a-cluster-of-glowing-lights-hovering-in-the-skies/10156900917346379/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KHON2News/posts/a-man-recorded-what-looks-like-a-cluster-of-glowing-lights-hovering-in-the-skies/10156900917346379/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lights were filmed off the ferry over Pamlico Sound, and...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: globalnews.ca  
    Title: 2019 real ufo sighting video flares  
-   Link: [https://globalnews.ca/news/6005337/2019-real-ufo-sighting-video-flares/](https://globalnews.ca/news/6005337/2019-real-ufo-sighting-video-flares/)  
+   Link: <a href="https://globalnews.ca/news/6005337/2019-real-ufo-sighting-video-flares/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/6005337/2019-real-ufo-sighting-video-flares/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Real UFO&#x27; video shows several bright lights hovering off...8 Oct 2019 — A video claiming to depict a “real UFO sighting” off the coast...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: wdsu.com  
    Title: mysterious glowing orbs seen off n c coast  
-   Link: [https://www.wdsu.com/article/mysterious-glowing-orbs-seen-off-n-c-coast/29373362](https://www.wdsu.com/article/mysterious-glowing-orbs-seen-off-n-c-coast/29373362)  
+   Link: <a href="https://www.wdsu.com/article/mysterious-glowing-orbs-seen-off-n-c-coast/29373362" target="_blank" rel="noopener noreferrer nofollow">https://www.wdsu.com/article/mysterious-glowing-orbs-seen-off-n-c-coast/29373362</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Parachute flares? Or a bona fide UFO squadron maneuvering off the East Coast? So far there is no explanation for...Read more...</p></details>

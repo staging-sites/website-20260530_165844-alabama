@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /indiana-5d00be-modern-reports-datab/
 description: Focused pages that expand on Modern Reports.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Indiana_5d00be_modern_reports_datab_ac68f4
-parent_title: Modern Reports | What Makes Indiana’s UFO History Unique and...
+parent_title: Modern Reports
 parent_nav_short_title: Modern Reports
 parent_permalink: /modern-reports-627edd/
 ---

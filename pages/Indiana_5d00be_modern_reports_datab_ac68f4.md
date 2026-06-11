@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-makes-indianas-ufo-history-unique/
 nav_short_title: Modern Reports
 title: How Contemporary Indiana UFO Sightings Are Catalogued and Evaluated
-title_full: How Contemporary Indiana UFO Sightings Are Catalogued and Evaluated | Indiana UFOs
+title_full: How Contemporary Indiana UFO Sightings Are Catalogued and Evaluated
 display_title_short: Modern Reports
 display_title: Modern Reports
 heading_title: How Contemporary Indiana UFO Sightings Are Catalogued and Evaluated
@@ -268,13 +268,12 @@ image: /assets/images/Indiana_5d00be_modern_reports_datab_ac68f4-overview-social
 
 ## Introduction
 
-Modern [Indiana]({{ 'what-makes-indianas-ufo-history-unique/' | relative_url }}) UFO reporting is best understood as a data problem rather than a single mystery. The state has nearly 2,900 entries in the National UFO Reporting Center’s location index, and the modern record is dominated by brief reports of lights, fireballs, formations, triangles, drones, satellites, aircraft and other hard-to-judge night-sky objects rather than detailed close encounters. That does not make the reports worthless. It makes them useful in a different way: they show where people report, what they report, how quickly ordinary explanations are considered, and why many cases remain “unidentified” simply because the evidence is too thin to settle. NUFORC lists Indiana with 2,885 reports, placing it in the middle-to-upper range among US states, below larger neighbours such as Ohio, Illinois and Michigan but above many less populated states. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
-
+Modern Indiana UFO reporting is best understood as a data problem rather than a single mystery. The state has nearly 2,900 entries in the National UFO Reporting Center’s location index, and the modern record is dominated by brief reports of lights, fireballs, formations, triangles, drones, satellites, aircraft and other hard-to-judge night-sky objects rather than detailed close encounters. That does not make the reports worthless. It makes them useful in a different way: they show where people report, what they report, how quickly ordinary explanations are considered, and why many cases remain “unidentified” simply because the evidence is too thin to settle. NUFORC lists Indiana with 2,885 reports, placing it in the middle-to-upper range among US states, below larger neighbours such as Ohio, Illinois and Michigan but above many less populated states. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
 <img src="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4-overview.webp" | relative_url }}" alt="Overview image for Modern Reports" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Indiana’s modern UFO record is mostly a database story
 
-For older Indiana cases, the key question is often whether a witness account, newspaper clipping or [Air Force]({{ 'air-force-era/' | relative_url }}) file can still be traced. For modern reports, the question changes: how does a sighting become a data point, and what can that data point really prove? NUFORC’s Indiana index is a good starting point because it records the date, city, state, shape, summary, report date, media flag and explanation field when available. Its Indiana page shows the structure clearly: early entries include Fort Wayne, North Judson, Anderson, Evansville, Kokomo and other places, with short summaries ranging from “possible planet” to “facts unclear” and more dramatic witness descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lIN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
+For older Indiana cases, the key question is often whether a witness account, newspaper clipping or Air Force file can still be traced. For modern reports, the question changes: how does a sighting become a data point, and what can that data point really prove? NUFORC’s Indiana index is a good starting point because it records the date, city, state, shape, summary, report date, media flag and explanation field when available. Its Indiana page shows the structure clearly: early entries include Fort Wayne, North Judson, Anderson, Evansville, Kokomo and other places, with short summaries ranging from “possible planet” to “facts unclear” and more dramatic witness descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lIN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
 That format is helpful, but it also reveals the limits of the evidence. A report may say “triangle”, “fireball” or “formation”, but the label is normally selected from the witness description, not from a verified physical object. A city name may show where the observer stood, not where the object was. A duration may be an estimate. A shape may be a judgement made under poor lighting. The database therefore works best as an index of reported experiences, not as a list of confirmed anomalous craft.
 
@@ -288,8 +287,7 @@ The Indiana index also shows why raw counts should not be treated as direct meas
 
 That ranking is interesting, but it should not be read as a map of alien visitation or even of genuinely unresolved events. It is a map of reporting. A larger city can produce more reports because there are more potential witnesses. A smaller community can appear high if a single flap period, local media story or recurring night-sky stimulus produces repeated submissions. Indiana’s modern UFO geography is therefore partly a social geography: population, attention, technology and reporting habits shape the record before investigators ever ask what was in the sky.
 
-
-<img src="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4-Illustration-1-light.svg" | relative_url }}" alt="Modern Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4-Illustration-1-dark.svg" | relative_url }}" alt="Modern Reports illustration 1" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Indiana reports commonly look like
 
 A skim through the Indiana entries shows a recurring pattern familiar across modern UFO databases: most reports are short, observational and incomplete. They often describe a light, cluster, fireball, triangle, cigar, formation or object that moved strangely, hovered, disappeared, changed brightness or seemed too fast to identify. The early part of NUFORC’s Indiana index already illustrates this mix: a Fort Wayne witness described a bright flashing object that NUFORC flagged as a possible planet; an Anderson report involved four bright lights but also lacked a caller phone number; an Evansville report described orange lights that extinguished and reappeared; and a Kokomo report described slow-moving lights with red and white features. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=39934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
@@ -302,14 +300,13 @@ Indiana’s reports also include many cases in which the likely explanation is a
 
 The most useful modern Indiana UFO page must say plainly that many reports are probably not exotic. “Unidentified” often means “not identified from the available information”, not “unidentifiable in principle”. Federal and scientific sources reinforce this point. AARO, the US defence office responsible for analysing UAP reports, says its official imagery casework has resolved multiple videos as balloons, birds or other prosaic objects, often because movement matched wind, morphology matched known objects, or the available evidence was insufficient to support extraordinary performance claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
-Drones have added a new layer of confusion. The Federal Aviation Administration describes Remote ID as a system that allows a drone in flight to broadcast identification and location information, and says registered or registration-required drones must comply with the Remote ID rule. That helps explain why drones are not just “new UFOs” but regulated aircraft-like objects that may still look mysterious to a ground witness at night, especially if distance, size and altitude are misjudged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/uas/getting_started/remote_id" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Remote Identification of Drones | Federal Aviation Administration</span><span class="citation-popover-snippet">Remote Identification of Drones | Federal Aviation Administration</span></span></span>
+Drones have added a new layer of confusion. The Federal Aviation Administration describes Remote ID as a system that allows a drone in flight to broadcast identification and location information, and says registered or registration-required drones must comply with the Remote ID rule. That helps explain why drones are not just “new UFOs” but regulated aircraft-like objects that may still look mysterious to a ground witness at night, especially if distance, size and altitude are misjudged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.faa.gov/uas/getting_started/remote_id" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[FAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Remote Identification of Drones &#124; Federal Aviation Administration</span><span class="citation-popover-snippet">Remote Identification of Drones &#124; Federal Aviation Administration</span></span></span>
 
 Satellites are another major modern driver. NUFORC case notes sometimes identify satellite possibilities directly; one non-Indiana example in the NUFORC database describes a line of star-like lights and includes the note “Starlink satellites?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lID" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span> The relevance to Indiana is practical: the same kind of satellite train can cross Indiana skies, be shared on local social media, and produce multiple “formation” or “string of lights” reports in a short period. This is one reason modern databases are most useful when time and location can be checked against satellite trackers, launch schedules and sky maps.
 
-Meteors and fireballs remain especially important in Indiana because a single bright event can be reported from several states. The American Meteor Society keeps annual fireball logs and explains that since 2005 it has received hundreds of fireball reports each year. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Fireball Logs</span><span class="citation-popover-snippet">American Meteor Society Fireball Logs</span></span></span> A NUFORC report from Wheatfield, Indiana, in 2004 described a brilliant white illumination, a streak and multiple witnesses, but NUFORC’s note marked it as a possible meteor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank | NUFORC</span><span class="citation-popover-snippet">Data Bank | NUFORC</span></span></span> More recently, a bright fireball over the Midwest was reported from Illinois, Indiana, Kentucky, Ohio and Wisconsin; NASA analysis cited in news reporting placed its first visibility above Trinity, Indiana, before it disintegrated over Ohio. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/02/12/us-news/fireball-seen-shooting-through-night-sky-across-multiple-midwestern-states/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Meteors and fireballs remain especially important in Indiana because a single bright event can be reported from several states. The American Meteor Society keeps annual fireball logs and explains that since 2005 it has received hundreds of fireball reports each year. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-title">American Meteor Society Fireball Logs</span><span class="citation-popover-snippet">American Meteor Society Fireball Logs</span></span></span> A NUFORC report from Wheatfield, Indiana, in 2004 described a brilliant white illumination, a streak and multiple witnesses, but NUFORC’s note marked it as a possible meteor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC</span></span></span> More recently, a bright fireball over the Midwest was reported from Illinois, Indiana, Kentucky, Ohio and Wisconsin; NASA analysis cited in news reporting placed its first visibility above Trinity, Indiana, before it disintegrated over Ohio. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/02/12/us-news/fireball-seen-shooting-through-night-sky-across-multiple-midwestern-states/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Aircraft are the least glamorous but often the most stubborn explanation. A light that appears to hover may be an aircraft flying towards the observer. A triangular pattern may be aircraft lights rather than a solid triangular body. Red, green and white lights may be ordinary navigation lighting. These explanations do not solve every case, but they are common enough that any Indiana report lacking direction, angle, duration, video and flight-path checks should be treated cautiously.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/guXHg6iLqKg" title="UFO: Phantoms of the Night Sky (Southern Indiana)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=guXHg6iLqKg" target="_blank" rel="noopener noreferrer">UFO: Phantoms of the Night Sky (Southern Indiana)</a></p><p class="youtube-embed-meta">Channel: Adventures with Roger &middot; Views: 117.1K &middot; Uploaded: December 2023 &middot; Length: 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=guXHg6iLqKg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=guXHg6iLqKg">Open on YouTube</a></p></div></div></div>
 
@@ -321,24 +318,21 @@ For Indiana, this app-based model has two possible benefits. First, it can captu
 
 The risk is that app culture can also amplify weak sightings. A push notification, comment thread or viral clip can encourage people to reinterpret ordinary lights as part of a larger mystery. In Indiana, where many modern reports are already brief and light-based, the strongest app-era contribution will not be the number of sightings collected, but the quality of the supporting data: original video files, timestamps, unedited metadata, witness position, camera direction, weather, aircraft checks and satellite checks.
 
-
-<img src="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4-Illustration-3-light.svg" | relative_url }}" alt="Modern Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4-Illustration-3-dark.svg" | relative_url }}" alt="Modern Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the data trends can and cannot tell us
 
 Indiana’s modern UFO database record can support cautious trend analysis, but not sweeping conclusions. It can show that people have reported thousands of sightings. It can show which cities appear often in public databases. It can show changes in report language, such as more references to drones, satellites and formations. It can show time periods when reports spike. It cannot, by itself, show that Indiana has more anomalous objects than another state, because reporting is shaped by population, internet access, local attention and the willingness of witnesses to file reports.
 
 This distinction matters when reading city lists. Stacker’s Indiana city ranking is useful because it turns NUFORC data into a reader-friendly local snapshot, but the article itself notes the dataset basis and exclusions. Its top-ten format is a reporting ranking, not an investigation of each case’s evidential strength. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacker.com/stories/indiana/see-how-many-ufo-sightings-have-occurred-indiana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">see how many ufo sightings have occurred indiana</span><span class="citation-popover-snippet">see how many ufo sightings have occurred indiana</span></span></span> A city with 80 reports may have fewer genuinely puzzling cases than a city with 20 if the first city’s reports are mostly satellites, aircraft and meteors while the second includes multiple independent witnesses, better timing and original imagery.
 
-National UAP reporting also reinforces the same caution. The Department of Defense said AARO received 757 UAP reports for the May 2023 to June 2024 reporting period, bringing the total under review to more than 1,600 as of 1 June 2024; it described AARO’s work as a rigorous, data-driven effort to document, analyse and, where possible, resolve reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of Defense Releases the Annual Report on Unidentified Anomalous Phenomena (UAP) &gt; U.S. Department of War &gt; Release | U.S. Depa...</span></span></span>(#endnote-10 "Snippet: Department of Defense Releases the Annual Report on Unidentified Anomalous Phenomena (UAP) > U.S. Department of War > Release | U.S. Depa...") That official framing is relevant to Indiana because it makes clear that the central problem is not simply “more reports”. It is better resolution: more precise data, better sensor context and fewer ambiguous observations.
+National UAP reporting also reinforces the same caution. The Department of Defense said AARO received 757 UAP reports for the May 2023 to June 2024 reporting period, bringing the total under review to more than 1,600 as of 1 June 2024; it described AARO’s work as a rigorous, data-driven effort to document, analyse and, where possible, resolve reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of Defense Releases the Annual Report on Unidentified Anomalous Phenomena (UAP) &gt; U.S. Department of War &gt; Release &#124; U.S. Depa...</span></span></span>(#endnote-10 "Snippet: Department of Defense Releases the Annual Report on Unidentified Anomalous Phenomena (UAP) > U.S. Department of War > Release | U.S. Depa...") That official framing is relevant to Indiana because it makes clear that the central problem is not simply “more reports”. It is better resolution: more precise data, better sensor context and fewer ambiguous observations.
 
-
-<img src="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4-Illustration-2-light.svg" | relative_url }}" alt="Modern Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4-Illustration-2-dark.svg" | relative_url }}" alt="Modern Reports illustration 2" data-theme-src-dark="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Indiana_5d00be_modern_reports_datab_ac68f4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read an Indiana UFO report responsibly
 
 A modern Indiana UFO report is strongest when it can survive ordinary checks. The first question is not whether the witness was sincere; many sincere witnesses misidentify sky objects. The first question is whether the report contains enough information to test. The most useful details are exact time, exact location, viewing direction, elevation angle, duration, weather, sound, movement, number of witnesses, original images or video, and whether aircraft, satellites, meteors or drones were checked.
 
 A practical reading of an Indiana database entry should separate four categories:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -351,7 +345,6 @@ A practical reading of an Indiana database entry should separate four categories
 
 Most public database entries fall into the first two categories. That is not a dismissal; it is a useful filter. It prevents modern Indiana UFO history from becoming a pile of anecdotes and helps identify the smaller number of reports that deserve closer comparison with airport data, meteor logs, satellite passes, weather radar, police calls or local media records.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.6K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
 
 ## Why modern databases matter for Indiana’s UFO history
@@ -360,9 +353,7 @@ Modern online databases do not prove that Indiana has extraordinary craft in its
 
 This makes the modern Indiana record a bridge between older case files and future investigation. Older cases often suffer from missing records and retrospective storytelling. Modern cases suffer from too much low-quality data, viral amplification and ambiguous night-sky imagery. The best Indiana UFO research now sits between those problems: careful enough to take witnesses seriously, sceptical enough to test mundane explanations first, and disciplined enough to admit when a report is merely unresolved rather than extraordinary.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yEoNsZlZ8E0" title="Flock of UFOs caught on camera near US airbase in Indiana, spooking neighbors" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yEoNsZlZ8E0" target="_blank" rel="noopener noreferrer">Flock of UFOs caught on camera near US airbase in Indiana, spooking neighbors</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 62.1K &middot; Uploaded: October 2024 &middot; Length: 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yEoNsZlZ8E0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yEoNsZlZ8E0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -450,7 +441,7 @@ This makes the modern Indiana record a bridge between older case files and futur
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -460,111 +451,36 @@ This makes the modern Indiana record a bridge between older case files and futur
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -572,15 +488,15 @@ This makes the modern Indiana record a bridge between older case files and futur
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -588,15 +504,15 @@ This makes the modern Indiana record a bridge between older case files and futur
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -604,15 +520,15 @@ This makes the modern Indiana record a bridge between older case files and futur
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -620,7 +536,7 @@ This makes the modern Indiana record a bridge between older case files and futur
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modern-reports-627edd-how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-indian-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-contemporary-indiana-ufo-sightings-are-catalogued-and-evaluated-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -697,17 +613,31 @@ This makes the modern Indiana record a bridge between older case files and futur
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -720,42 +650,73 @@ This makes the modern Indiana record a bridge between older case files and futur
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -770,12 +731,17 @@ This makes the modern Indiana record a bridge between older case files and futur
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -786,258 +752,258 @@ This makes the modern Indiana record a bridge between older case files and futur
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lIN](https://nuforc.org/subndx/?id=lIN)  
+   Link: <a href="https://nuforc.org/subndx/?id=lIN" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lIN</a>  
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: stacker.com  
    Title: cities most ufo sightings indiana  
-   Link: [https://stacker.com/stories/indiana/cities-most-ufo-sightings-indiana](https://stacker.com/stories/indiana/cities-most-ufo-sightings-indiana)  
+   Link: <a href="https://stacker.com/stories/indiana/cities-most-ufo-sightings-indiana" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/indiana/cities-most-ufo-sightings-indiana</a>  
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: faa.gov  
    Title: Remote Identification of Drones | Federal Aviation Administration  
-   Link: [https://www.faa.gov/uas/getting_started/remote_id](https://www.faa.gov/uas/getting_started/remote_id)  
+   Link: <a href="https://www.faa.gov/uas/getting_started/remote_id" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/remote_id</a>  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=150997](https://nuforc.org/sighting/?id=150997)  
+   Link: <a href="https://nuforc.org/sighting/?id=150997" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=150997</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=39934](https://nuforc.org/sighting/?id=39934)  
+   Link: <a href="https://nuforc.org/sighting/?id=39934" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=39934</a>  
 
 9. <a id="endnote-9"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/](https://enigmalabs.io/)  
+   Link: <a href="https://enigmalabs.io/" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/</a>  
 
 10. <a id="endnote-10"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Releases the Annual Report on Unidentified Anomalous Phenomena (UAP) &gt; U.S. Department of War &gt; Release | U.S. Depa...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lID](https://nuforc.org/subndx/?id=lID)  
+   Link: <a href="https://nuforc.org/subndx/?id=lID" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lID</a>  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=185032](https://nuforc.org/sighting/?id=185032)  
+   Link: <a href="https://nuforc.org/sighting/?id=185032" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185032</a>  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=192755](https://nuforc.org/sighting/?id=192755)  
+   Link: <a href="https://nuforc.org/sighting/?id=192755" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=192755</a>  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=all](https://nuforc.org/subndx/?id=all)  
+   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lWA](https://nuforc.org/subndx/?id=lWA)  
+   Link: <a href="https://nuforc.org/subndx/?id=lWA" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lWA</a>  
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=120525](https://nuforc.org/sighting/?id=120525)  
+   Link: <a href="https://nuforc.org/sighting/?id=120525" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=120525</a>  
 
 20. <a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=80321](https://nuforc.org/sighting/?id=80321)  
+   Link: <a href="https://nuforc.org/sighting/?id=80321" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=80321</a>  
 
 21. <a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=154082](https://nuforc.org/sighting/?id=154082)  
+   Link: <a href="https://nuforc.org/sighting/?id=154082" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=154082</a>  
 
 22. <a id="endnote-22"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=164134](https://nuforc.org/sighting/?id=164134)  
+   Link: <a href="https://nuforc.org/sighting/?id=164134" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=164134</a>  
 
 23. <a id="endnote-23"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=179990](https://nuforc.org/sighting/?id=179990)  
+   Link: <a href="https://nuforc.org/sighting/?id=179990" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=179990</a>  
 
 24. <a id="endnote-24"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=163220](https://nuforc.org/sighting/?id=163220)  
+   Link: <a href="https://nuforc.org/sighting/?id=163220" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=163220</a>  
 
 25. <a id="endnote-25"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=184489](https://nuforc.org/sighting/?id=184489)  
+   Link: <a href="https://nuforc.org/sighting/?id=184489" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184489</a>  
 
 26. <a id="endnote-26"></a>
    Source: faa.gov  
    Title: uas sightings report  
-   Link: [https://www.faa.gov/uas/resources/public_records/uas_sightings_report](https://www.faa.gov/uas/resources/public_records/uas_sightings_report)  
+   Link: <a href="https://www.faa.gov/uas/resources/public_records/uas_sightings_report" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/resources/public_records/uas_sightings_report</a>  
 
 27. <a id="endnote-27"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 28. <a id="endnote-28"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 29. <a id="endnote-29"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
 30. <a id="endnote-30"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 31. <a id="endnote-31"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf](https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
 33. <a id="endnote-33"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 34. <a id="endnote-34"></a>
    Source: stacker.com  
    Title: see how many ufo sightings have occurred indiana  
-   Link: [https://stacker.com/stories/indiana/see-how-many-ufo-sightings-have-occurred-indiana](https://stacker.com/stories/indiana/see-how-many-ufo-sightings-have-occurred-indiana)  
+   Link: <a href="https://stacker.com/stories/indiana/see-how-many-ufo-sightings-have-occurred-indiana" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/indiana/see-how-many-ufo-sightings-have-occurred-indiana</a>  
 
 35. <a id="endnote-35"></a>
    Source: amsmeteors.org  
    Title: American Meteor Society Fireball Logs  
-   Link: [https://www.amsmeteors.org/fireballs/fireball-report/](https://www.amsmeteors.org/fireballs/fireball-report/)  
+   Link: <a href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-report/</a>  
 
 36. <a id="endnote-36"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2026/02/12/us-news/fireball-seen-shooting-through-night-sky-across-multiple-midwestern-states/](https://nypost.com/2026/02/12/us-news/fireball-seen-shooting-through-night-sky-across-multiple-midwestern-states/)  
+   Link: <a href="https://nypost.com/2026/02/12/us-news/fireball-seen-shooting-through-night-sky-across-multiple-midwestern-states/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/02/12/us-news/fireball-seen-shooting-through-night-sky-across-multiple-midwestern-states/</a>  
 
 37. <a id="endnote-37"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/explore](https://enigmalabs.io/explore)  
+   Link: <a href="https://enigmalabs.io/explore" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore</a>  
 
 38. <a id="endnote-38"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/explore/united-states](https://enigmalabs.io/explore/united-states)  
+   Link: <a href="https://enigmalabs.io/explore/united-states" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/explore/united-states</a>  
 
 39. <a id="endnote-39"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library](https://enigmalabs.io/library)  
+   Link: <a href="https://enigmalabs.io/library" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library</a>  
 
 40. <a id="endnote-40"></a>
    Source: enigmalabs.io  
    Title: 12000 uap sightings and counting  
-   Link: [https://enigmalabs.io/blog/12000-uap-sightings-and-counting](https://enigmalabs.io/blog/12000-uap-sightings-and-counting)  
+   Link: <a href="https://enigmalabs.io/blog/12000-uap-sightings-and-counting" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/12000-uap-sightings-and-counting</a>  
 
 41. <a id="endnote-41"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/collection/a7111520-9526-4939-9a66-d225db45ba80](https://enigmalabs.io/collection/a7111520-9526-4939-9a66-d225db45ba80)  
+   Link: <a href="https://enigmalabs.io/collection/a7111520-9526-4939-9a66-d225db45ba80" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/collection/a7111520-9526-4939-9a66-d225db45ba80</a>  
 
 42. <a id="endnote-42"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/d3b9f01b-ddb8-4ecf-bcf4-832e413200bf](https://enigmalabs.io/library/d3b9f01b-ddb8-4ecf-bcf4-832e413200bf)  
+   Link: <a href="https://enigmalabs.io/library/d3b9f01b-ddb8-4ecf-bcf4-832e413200bf" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/d3b9f01b-ddb8-4ecf-bcf4-832e413200bf</a>  
 
 43. <a id="endnote-43"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/collection/1ac6fede-9cbe-49aa-8b44-169fd90b9e33](https://enigmalabs.io/collection/1ac6fede-9cbe-49aa-8b44-169fd90b9e33)  
+   Link: <a href="https://enigmalabs.io/collection/1ac6fede-9cbe-49aa-8b44-169fd90b9e33" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/collection/1ac6fede-9cbe-49aa-8b44-169fd90b9e33</a>  
 
 44. <a id="endnote-44"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/collection/d5adf125-7bd3-436a-9014-c99290398363](https://enigmalabs.io/collection/d5adf125-7bd3-436a-9014-c99290398363)  
+   Link: <a href="https://enigmalabs.io/collection/d5adf125-7bd3-436a-9014-c99290398363" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/collection/d5adf125-7bd3-436a-9014-c99290398363</a>  
 
 45. <a id="endnote-45"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/about](https://enigmalabs.io/about)  
+   Link: <a href="https://enigmalabs.io/about" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/about</a>  
 
 46. <a id="endnote-46"></a>
    Source: enigmalabs.io  
    Title: 25k sightings  
-   Link: [https://enigmalabs.io/blog/25k-sightings](https://enigmalabs.io/blog/25k-sightings)  
+   Link: <a href="https://enigmalabs.io/blog/25k-sightings" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/blog/25k-sightings</a>  
 
 47. <a id="endnote-47"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?hl=en_GB&id=com.enigma.mobile](https://play.google.com/store/apps/details?hl=en_GB&id=com.enigma.mobile)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.enigma.mobile</a>  
 
 48. <a id="endnote-48"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?hl=en_US&id=com.enigma.mobile](https://play.google.com/store/apps/details?hl=en_US&id=com.enigma.mobile)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en_US&amp;id=com.enigma.mobile" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_US&amp;id=com.enigma.mobile</a>  
 
 ### Additional References
 
 49. <a id="endnote-49"></a>
    Source: youtube.com  
    Title: Flock of UFOs caught on camera near US airbase in Indiana, spooking neighbors  
-   Link: [https://www.youtube.com/watch?v=yEoNsZlZ8E0](https://www.youtube.com/watch?v=yEoNsZlZ8E0)  
+   Link: <a href="https://www.youtube.com/watch?v=yEoNsZlZ8E0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yEoNsZlZ8E0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Phantoms of the Night Sky (Southern Indiana)...</p></details>
 
 50. <a id="endnote-50"></a>
    Source: youtube.com  
    Title: Close Encounters of the Muncie Kind: The Muncie UFO Mania of '73  
-   Link: [https://www.youtube.com/watch?v=ZR-o3Kxs9hI](https://www.youtube.com/watch?v=ZR-o3Kxs9hI)  
+   Link: <a href="https://www.youtube.com/watch?v=ZR-o3Kxs9hI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZR-o3Kxs9hI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Andre Carson: Shooting down “stigma” surrounding UFO&#x27;s...</p></details>
 
 51. <a id="endnote-51"></a>
    Source: youtube.com  
    Title: UFO: Phantoms of the Night Sky (Southern Indiana)  
-   Link: [https://www.youtube.com/watch?v=guXHg6iLqKg](https://www.youtube.com/watch?v=guXHg6iLqKg)  
+   Link: <a href="https://www.youtube.com/watch?v=guXHg6iLqKg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=guXHg6iLqKg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the Muncie Kind: The Muncie UFO Mania of &#x27;73...</p></details>
 
 52. <a id="endnote-52"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1e4v3qf/ufo_researcher_klaus_on_twitter_why_do_i_get_the/](https://www.reddit.com/r/UFOs/comments/1e4v3qf/ufo_researcher_klaus_on_twitter_why_do_i_get_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1e4v3qf/ufo_researcher_klaus_on_twitter_why_do_i_get_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1e4v3qf/ufo_researcher_klaus_on_twitter_why_do_i_get_the/</a>  
 
 53. <a id="endnote-53"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NASASpaceAlerts/posts/meteorsighting-a-fireball-was-observed-by-witnesses-in-illinois-indiana-kentucky/1322838483211238/](https://www.facebook.com/NASASpaceAlerts/posts/meteorsighting-a-fireball-was-observed-by-witnesses-in-illinois-indiana-kentucky/1322838483211238/)  
+   Link: <a href="https://www.facebook.com/NASASpaceAlerts/posts/meteorsighting-a-fireball-was-observed-by-witnesses-in-illinois-indiana-kentucky/1322838483211238/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASASpaceAlerts/posts/meteorsighting-a-fireball-was-observed-by-witnesses-in-illinois-indiana-kentucky/1322838483211238/</a>  
 
 54. <a id="endnote-54"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TimelessAerialPhotography/posts/droneufo-sightings-in-indiana-i-seen-it-in-portage-by-bass-pro-heading-to-the-la/994968299324393/](https://www.facebook.com/TimelessAerialPhotography/posts/droneufo-sightings-in-indiana-i-seen-it-in-portage-by-bass-pro-heading-to-the-la/994968299324393/)  
+   Link: <a href="https://www.facebook.com/TimelessAerialPhotography/posts/droneufo-sightings-in-indiana-i-seen-it-in-portage-by-bass-pro-heading-to-the-la/994968299324393/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimelessAerialPhotography/posts/droneufo-sightings-in-indiana-i-seen-it-in-portage-by-bass-pro-heading-to-the-la/994968299324393/</a>  
 
 55. <a id="endnote-55"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYVjTnNjis5/](https://www.instagram.com/p/DYVjTnNjis5/)  
+   Link: <a href="https://www.instagram.com/p/DYVjTnNjis5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYVjTnNjis5/</a>  
 
 56. <a id="endnote-56"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/eyewitnessnewslocal/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/292475710100831/](https://www.facebook.com/eyewitnessnewslocal/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/292475710100831/)  
+   Link: <a href="https://www.facebook.com/eyewitnessnewslocal/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/292475710100831/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eyewitnessnewslocal/posts/according-to-the-national-ufo-reporting-center-nuforc-roughly-2000-unidentified-/292475710100831/</a>  
 
 57. <a id="endnote-57"></a>
    Source: youtube.com  
    Title: Andre Carson: Shooting down “stigma” surrounding UFO's  
-   Link: [https://www.youtube.com/watch?v=V1HS45IBjpY](https://www.youtube.com/watch?v=V1HS45IBjpY)  
+   Link: <a href="https://www.youtube.com/watch?v=V1HS45IBjpY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V1HS45IBjpY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deploy Your ML Model Using Flask Framework...</p></details>
 
 58. <a id="endnote-58"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DUomP8QjiYF/](https://www.instagram.com/reel/DUomP8QjiYF/)  
+   Link: <a href="https://www.instagram.com/reel/DUomP8QjiYF/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUomP8QjiYF/</a>

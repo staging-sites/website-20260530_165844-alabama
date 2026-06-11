@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-new-jerseys-ufo/
 nav_short_title: Morristown
 title: What the Morristown Hoax Teaches About UFOs
-title_full: What the Morristown Hoax Teaches About UFOs | New Jersey UFOs
+title_full: What the Morristown Hoax Teaches About UFOs
 display_title_short: Morristown
 display_title: Morristown
 heading_title: What the Morristown Hoax Teaches About UFOs
@@ -268,8 +268,7 @@ image: /assets/images/New_Jersey_18255a_morristown_hoax_d28df9-overview-social.j
 
 ## Introduction
 
-The Morristown UFO hoax is one of [New Jersey]({{ 'what-really-happened-in-new-jerseys-ufo/' | relative_url }})’s clearest lessons in how a sincere-looking sky mystery can be built from ordinary materials, confident witnesses and rapid media attention. In January and February 2009, red lights appeared over Morris County, including Morristown, Hanover, Morris Plains, Madison and Florham Park. Residents called 911, news crews covered the sightings, and some UFO commentators treated the lights as difficult to explain. On 1 April 2009, Chris Russo and Joe Rudy revealed that they had staged the events with flares tied to helium balloons, documenting the launches and presenting the hoax as a test of public and investigator gullibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/great-ufo-hoax-2009-221750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">great ufo hoax 2009 221750</span><span class="citation-popover-snippet">great ufo hoax 2009 221750</span></span></span>
-
+The Morristown UFO hoax is one of New Jersey’s clearest lessons in how a sincere-looking sky mystery can be built from ordinary materials, confident witnesses and rapid media attention. In January and February 2009, red lights appeared over Morris County, including Morristown, Hanover, Morris Plains, Madison and Florham Park. Residents called 911, news crews covered the sightings, and some UFO commentators treated the lights as difficult to explain. On 1 April 2009, Chris Russo and Joe Rudy revealed that they had staged the events with flares tied to helium balloons, documenting the launches and presenting the hoax as a test of public and investigator gullibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/great-ufo-hoax-2009-221750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">great ufo hoax 2009 221750</span><span class="citation-popover-snippet">great ufo hoax 2009 221750</span></span></span>
 
 <img src="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9-overview.webp" | relative_url }}" alt="Overview image for Morristown" loading="eager" decoding="sync" fetchpriority="high">
 The case matters in New Jersey UFO history because it is not ambiguous in the usual way. Many famous sightings remain disputed because records are incomplete, witnesses disagree, or physical evidence is missing. Morristown is different: the explanation came with perpetrators, method, video documentation, legal consequences and a long afterlife in local memory. That makes it less a mystery than a warning. It shows that eyewitness certainty, video clips, pilot testimony and national coverage can all feel persuasive before the underlying cause is known.
@@ -286,8 +285,7 @@ The sighting also had a social geography. Morris County is densely populated eno
 
 The 17 February reports appear to have widened the sense of concern. Contemporary summaries describe numerous calls across Morris County, with attention from airport and public-safety officials because of possible aviation implications. Even when no crash, landing, radar confirmation or physical trace emerged, the repetition of the lights helped create a feeling that something organised was happening.
 
-
-<img src="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9-Illustration-1-light.svg" | relative_url }}" alt="Morristown illustration 1" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9-Illustration-1-dark.svg" | relative_url }}" alt="Morristown illustration 1" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the story looked stronger than it was
 
 Morristown became persuasive because it combined several features that often make UFO cases feel stronger than their evidence can bear.
@@ -300,8 +298,7 @@ Third, some witnesses sounded credible. Newsweek noted that media coverage featu
 
 Fourth, the case gained authority through repetition. Once an event is covered on television, discussed on UFO websites and revisited in follow-up sightings, it starts to feel documented. Yet “documented” is not the same as “correctly interpreted”. Morristown shows how a weak explanation can become socially reinforced before better information arrives.
 
-The hoaxers also did more than release lights. ABC11’s 2009 report said the men documented their actions and, after launching the balloons, called news media to report a UFO sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc11.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc11.com">[ABC11 Raleigh-Durham]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc11.com</span><span class="citation-popover-title">Raleigh-Durham Pair charged in UFO hoax | ABC11 Raleigh-Durham | abc11.com</span><span class="citation-popover-snippet">Raleigh-Durham Pair charged in UFO hoax | ABC11 Raleigh-Durham | abc11.com</span></span></span> That step matters because it blurred the line between passive public reaction and active narrative-building. The case was not merely a test of how people interpret lights; it was a test of how a report can be seeded, repeated and amplified.
-
+The hoaxers also did more than release lights. ABC11’s 2009 report said the men documented their actions and, after launching the balloons, called news media to report a UFO sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc11.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc11.com">[ABC11 Raleigh-Durham]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc11.com</span><span class="citation-popover-title">Raleigh-Durham Pair charged in UFO hoax &#124; ABC11 Raleigh-Durham &#124; abc11.com</span><span class="citation-popover-snippet">Raleigh-Durham Pair charged in UFO hoax &#124; ABC11 Raleigh-Durham &#124; abc11.com</span></span></span> That step matters because it blurred the line between passive public reaction and active narrative-building. The case was not merely a test of how people interpret lights; it was a test of how a report can be seeded, repeated and amplified.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nq3cUSl1QEg" title="How We Staged the Morristown UFO Hoax, Part 1: The Setup" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nq3cUSl1QEg" target="_blank" rel="noopener noreferrer">How We Staged the Morristown UFO Hoax, Part 1: The Setup</a></p><p class="youtube-embed-meta">Channel: Skeptic &middot; Views: 9.1K &middot; Uploaded: April 2011 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nq3cUSl1QEg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nq3cUSl1QEg">Open on YouTube</a></p></div></div></div>
 
@@ -309,7 +306,7 @@ The hoaxers also did more than release lights. ABC11’s 2009 report said the me
 
 The public reveal came on 1 April 2009, when Russo and Rudy announced through a Skeptic Magazine article that the sightings had been staged. Newsweek reported the reveal the same day and quoted the stated purpose: to show the unreliability of eyewitness accounts and UFO investigators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/great-ufo-hoax-2009-221750" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">great ufo hoax 2009 221750</span><span class="citation-popover-snippet">great ufo hoax 2009 221750</span></span></span>
 
-The date made the revelation feel like a prank layered on top of a prank, but the consequences were real. ABC11 reported that Morris County Prosecutor Robert A. Bianchi said the pair would be charged with disorderly conduct. The same report noted concerns about public disturbance, 911 calls, and possible aviation issues because the balloons were in the flight path of planes at Morristown Airport. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc11.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc11.com">[ABC11 Raleigh-Durham]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc11.com</span><span class="citation-popover-title">Raleigh-Durham Pair charged in UFO hoax | ABC11 Raleigh-Durham | abc11.com</span><span class="citation-popover-snippet">Raleigh-Durham Pair charged in UFO hoax | ABC11 Raleigh-Durham | abc11.com</span></span></span> Patch later summarised the outcome: six days after the reveal, the men pleaded guilty to disorderly conduct and were each sentenced to a $250 fine and 50 hours of community service. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">remembering ufo hoax morris county</span><span class="citation-popover-snippet">remembering ufo hoax morris county</span></span></span>
+The date made the revelation feel like a prank layered on top of a prank, but the consequences were real. ABC11 reported that Morris County Prosecutor Robert A. Bianchi said the pair would be charged with disorderly conduct. The same report noted concerns about public disturbance, 911 calls, and possible aviation issues because the balloons were in the flight path of planes at Morristown Airport. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc11.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc11.com">[ABC11 Raleigh-Durham]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc11.com</span><span class="citation-popover-title">Raleigh-Durham Pair charged in UFO hoax &#124; ABC11 Raleigh-Durham &#124; abc11.com</span><span class="citation-popover-snippet">Raleigh-Durham Pair charged in UFO hoax &#124; ABC11 Raleigh-Durham &#124; abc11.com</span></span></span> Patch later summarised the outcome: six days after the reveal, the men pleaded guilty to disorderly conduct and were each sentenced to a $250 fine and 50 hours of community service. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">remembering ufo hoax morris county</span><span class="citation-popover-snippet">remembering ufo hoax morris county</span></span></span>
 
 Public reaction was mixed for good reason. As a sceptical demonstration, the hoax was effective. It showed that people can be fooled by a low-cost night-sky display, that confident interpretations can be wrong, and that some media coverage can move faster than verification. As a public act, however, it was ethically questionable. It used emergency calls, public attention and possible aviation concern as part of the experiment. A lesson about gullibility came with real costs to people who had to assess whether the lights posed a danger.
 
@@ -317,8 +314,7 @@ The hoaxers themselves later acknowledged that the method had flaws. In a 2021 P
 
 The case also produced a predictable backlash from believers. Patch reported that, more than a decade later, some people still claimed Russo and Rudy were government agents or paid actors rather than the source of the hoax. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">remembering ufo hoax morris county</span><span class="citation-popover-snippet">remembering ufo hoax morris county</span></span></span> That reaction is revealing. Once a UFO story becomes part of someone’s worldview, even a confession and documented method may be reinterpreted as another layer of concealment.
 
-
-<img src="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9-Illustration-2-light.svg" | relative_url }}" alt="Morristown illustration 2" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9-Illustration-2-dark.svg" | relative_url }}" alt="Morristown illustration 2" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the hoax reveals about eyewitness certainty
 
 The Morristown case is often summarised as “eyewitnesses were wrong”, but the better lesson is more precise. Witnesses were not necessarily lying, foolish or careless. Many probably reported honestly what they saw. The problem was the jump from “I saw strange red lights” to “these could not have been flares, balloons or anything ordinary”.
@@ -328,7 +324,6 @@ Eyewitness certainty can be powerful because it feels internal: a person knows w
 Morristown was not a criminal line-up, but the same caution applies. A witness who talks to neighbours, watches news reports, sees online speculation and hears “expert” commentary may become more confident in a story that has been socially reinforced. That confidence can grow even if the original observation was ambiguous.
 
 Several features made Morristown especially vulnerable to overconfidence:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -342,7 +337,6 @@ Several features made Morristown especially vulnerable to overconfidence:
 
 This does not mean eyewitness reports should be dismissed. In UFO history, witnesses are often the starting point for investigation. The lesson is that witness reports should be treated as observations to be tested, not conclusions to be adopted. “I saw five red lights moving together” is useful evidence. “No way this could be balloons” is a much weaker claim unless supported by wind data, launch location, altitude estimates, radar, physical recovery or other independent checks.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a4j0bV4jOHk" title="Ledger Live: Morris UFO hoaxsters tell their story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a4j0bV4jOHk" target="_blank" rel="noopener noreferrer">Ledger Live: Morris UFO hoaxsters tell their story</a></p><p class="youtube-embed-meta">Channel: NJ.com &middot; Views: 2.1K &middot; Uploaded: April 2009 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a4j0bV4jOHk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a4j0bV4jOHk">Open on YouTube</a></p></div></div></div>
 
 ## Why Morristown still matters in New Jersey UFO history
@@ -355,8 +349,7 @@ Morristown also anticipates later New Jersey sky panics, including modern drone-
 
 The most balanced reading is not that Morristown disproves UFO reports in general. It does not. A hoax in Morris County cannot explain every strange light ever reported over New Jersey. What it does prove is narrower and more useful: a case can have multiple witnesses, video, media attention, confident testimony and expert-sounding commentary, and still be wrong in its central interpretation.
 
-
-<img src="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9-Illustration-3-light.svg" | relative_url }}" alt="Morristown illustration 3" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9-Illustration-3-dark.svg" | relative_url }}" alt="Morristown illustration 3" data-theme-src-dark="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Jersey_18255a_morristown_hoax_d28df9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The practical takeaway for readers
 
 The Morristown hoax is best understood as a cautionary case, not a punchline. The witnesses were responding to a real visual event. The media were covering something people were genuinely reporting. Public officials had reason to care because unknown lights near airspace can raise safety questions. The failure was not that people looked up and wondered; it was that uncertainty hardened too quickly into confident explanation.
@@ -365,9 +358,7 @@ For readers exploring New Jersey’s UFO history, Morristown offers a useful rul
 
 That is why Morristown remains one of the state’s most important explained UFO scares. It preserves, in miniature, the whole life cycle of a modern sky mystery: strange lights, sincere alarm, video evidence, confident witnesses, media amplification, expert error, confession, backlash and a lingering minority who still resist the explanation. The case’s lasting value is not in the lights themselves, but in what they reveal about how easily certainty can form before understanding catches up.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YOtr9yzUlRM" title="How We Staged the Morristown UFO Hoax, Part 2: The Launches" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YOtr9yzUlRM" target="_blank" rel="noopener noreferrer">How We Staged the Morristown UFO Hoax, Part 2: The Launches</a></p><p class="youtube-embed-meta">Channel: Skeptic &middot; Views: 9.0K &middot; Uploaded: April 2011 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YOtr9yzUlRM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YOtr9yzUlRM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -791,99 +782,99 @@ That is why Morristown remains one of the state’s most important explained UFO
 1. <a id="endnote-1"></a>
    Source: newsweek.com  
    Title: great ufo hoax 2009 221750  
-   Link: [https://www.newsweek.com/great-ufo-hoax-2009-221750](https://www.newsweek.com/great-ufo-hoax-2009-221750)  
+   Link: <a href="https://www.newsweek.com/great-ufo-hoax-2009-221750" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/great-ufo-hoax-2009-221750</a>  
 
 2. <a id="endnote-2"></a>
    Source: patch.com  
    Title: morristown ufo hoax meet duo behind 2009 experiment  
-   Link: [https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment](https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment)  
+   Link: <a href="https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/new-jersey/morristown/morristown-ufo-hoax-meet-duo-behind-2009-experiment</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Morristown UFO hoax  
-   Link: [https://en.wikipedia.org/wiki/Morristown_UFO_hoax](https://en.wikipedia.org/wiki/Morristown_UFO_hoax)  
+   Link: <a href="https://en.wikipedia.org/wiki/Morristown_UFO_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Morristown_UFO_hoax</a>  
 
 4. <a id="endnote-4"></a>
    Source: abc11.com  
    Title: Raleigh-Durham Pair charged in UFO hoax | ABC11 Raleigh-Durham | abc11.com  
-   Link: [https://abc11.com/archive/6742325/](https://abc11.com/archive/6742325/)  
+   Link: <a href="https://abc11.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow">https://abc11.com/archive/6742325/</a>  
 
 5. <a id="endnote-5"></a>
    Source: patch.com  
    Title: remembering ufo hoax morris county  
-   Link: [https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county](https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county)  
+   Link: <a href="https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/new-jersey/morristown/remembering-ufo-hoax-morris-county</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Engaño ovni de Morristown  
-   Link: [https://es.wikipedia.org/wiki/Enga%C3%B1o_ovni_de_Morristown](https://es.wikipedia.org/wiki/Enga%C3%B1o_ovni_de_Morristown)  
+   Link: <a href="https://es.wikipedia.org/wiki/Enga%C3%B1o_ovni_de_Morristown" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Enga%C3%B1o_ovni_de_Morristown</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: William J. Birnes  
-   Link: [https://en.wikipedia.org/wiki/William_J._Birnes](https://en.wikipedia.org/wiki/William_J._Birnes)  
+   Link: <a href="https://en.wikipedia.org/wiki/William_J._Birnes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/William_J._Birnes</a>  
 
 8. <a id="endnote-8"></a>
    Source: psychologicalscience.org  
-   Link: [https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find](https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find)  
+   Link: <a href="https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/observer/eyewitness-confidence-can-predict-accuracy-of-identifications-researchers-find</a>  
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=a4j0bV4jOHk](https://www.youtube.com/watch?v=a4j0bV4jOHk)  
+   Link: <a href="https://www.youtube.com/watch?v=a4j0bV4jOHk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a4j0bV4jOHk</a>  
 
 10. <a id="endnote-10"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/44653380](https://www.jstor.org/stable/44653380)  
+   Link: <a href="https://www.jstor.org/stable/44653380" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/44653380</a>  
 
 11. <a id="endnote-11"></a>
    Source: roswellufomuseum.com  
    Title: morristown ufo hoax  
-   Link: [https://www.roswellufomuseum.com/post/morristown-ufo-hoax](https://www.roswellufomuseum.com/post/morristown-ufo-hoax)  
+   Link: <a href="https://www.roswellufomuseum.com/post/morristown-ufo-hoax" target="_blank" rel="noopener noreferrer nofollow">https://www.roswellufomuseum.com/post/morristown-ufo-hoax</a>  
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: How We Staged the Morristown UFO Hoax, Part 2: The Launches  
-   Link: [https://www.youtube.com/watch?v=YOtr9yzUlRM](https://www.youtube.com/watch?v=YOtr9yzUlRM)  
+   Link: <a href="https://www.youtube.com/watch?v=YOtr9yzUlRM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YOtr9yzUlRM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How We Staged the Morristown UFO Hoax, Part 3: The Reactions...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: How We Staged the Morristown UFO Hoax, Part 1: The Setup  
-   Link: [https://www.youtube.com/watch?v=Nq3cUSl1QEg](https://www.youtube.com/watch?v=Nq3cUSl1QEg)  
+   Link: <a href="https://www.youtube.com/watch?v=Nq3cUSl1QEg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Nq3cUSl1QEg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How We Staged the Morristown UFO Hoax, Part 2: The Launches...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: How We Staged the Morristown UFO Hoax, Part 3: The Reactions  
-   Link: [https://www.youtube.com/watch?v=r6KpjxwZYpk](https://www.youtube.com/watch?v=r6KpjxwZYpk)  
+   Link: <a href="https://www.youtube.com/watch?v=r6KpjxwZYpk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r6KpjxwZYpk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How We Staged a UFO Hoax | Fakes, Frauds &amp; Scammers...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: kevinrandle.blogspot.com  
-   Link: [https://kevinrandle.blogspot.com/2009/04/morristown-ufo-hoax.html](https://kevinrandle.blogspot.com/2009/04/morristown-ufo-hoax.html)  
+   Link: <a href="https://kevinrandle.blogspot.com/2009/04/morristown-ufo-hoax.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2009/04/morristown-ufo-hoax.html</a>  
 
 16. <a id="endnote-16"></a>
    Source: x.com  
-   Link: [https://x.com/DaniLavelle/status/2054667217699246349](https://x.com/DaniLavelle/status/2054667217699246349)  
+   Link: <a href="https://x.com/DaniLavelle/status/2054667217699246349" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DaniLavelle/status/2054667217699246349</a>  
 
 17. <a id="endnote-17"></a>
    Source: njspotlightnews.org  
-   Link: [https://www.njspotlightnews.org/video/fbi-faa-investigate-mysterious-drones-in-nj/](https://www.njspotlightnews.org/video/fbi-faa-investigate-mysterious-drones-in-nj/)  
+   Link: <a href="https://www.njspotlightnews.org/video/fbi-faa-investigate-mysterious-drones-in-nj/" target="_blank" rel="noopener noreferrer nofollow">https://www.njspotlightnews.org/video/fbi-faa-investigate-mysterious-drones-in-nj/</a>  
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/89knl/how_we_staged_the_morristown_ufo_hoax_which/](https://www.reddit.com/r/space/comments/89knl/how_we_staged_the_morristown_ufo_hoax_which/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/89knl/how_we_staged_the_morristown_ufo_hoax_which/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/89knl/how_we_staged_the_morristown_ufo_hoax_which/</a>  
 
 19. <a id="endnote-19"></a>
    Source: abc7ny.com  
-   Link: [https://abc7ny.com/archive/6742325/](https://abc7ny.com/archive/6742325/)  
+   Link: <a href="https://abc7ny.com/archive/6742325/" target="_blank" rel="noopener noreferrer nofollow">https://abc7ny.com/archive/6742325/</a>  
 
 20. <a id="endnote-20"></a>
    Source: innocenceproject.org  
-   Link: [https://www.innocenceproject.org/wp-content/uploads/2016/04/Steblay_Wells_Douglass_2014_PPPL.pdf](https://www.innocenceproject.org/wp-content/uploads/2016/04/Steblay_Wells_Douglass_2014_PPPL.pdf)  
+   Link: <a href="https://www.innocenceproject.org/wp-content/uploads/2016/04/Steblay_Wells_Douglass_2014_PPPL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.innocenceproject.org/wp-content/uploads/2016/04/Steblay_Wells_Douglass_2014_PPPL.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: judicature.duke.edu  
-   Link: [https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/](https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/)  
+   Link: <a href="https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/" target="_blank" rel="noopener noreferrer nofollow">https://judicature.duke.edu/articles/a-clearer-view-the-impact-of-the-national-academy-of-sciences-report-on-eyewitness-identification/</a>

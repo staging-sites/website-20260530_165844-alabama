@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-made-wisconsin-a-ufo-state/
 nav_short_title: Coral Lorenzen
 title: How Wisconsin Helped Organise UFO Research
-title_full: How Wisconsin Helped Organise UFO Research | Wisconsin UFOs
+title_full: How Wisconsin Helped Organise UFO Research
 display_title_short: Coral Lorenzen
 display_title: Coral Lorenzen
 heading_title: How Wisconsin Helped Organise UFO Research
@@ -262,8 +262,7 @@ image: /assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325-overview-socia
 
 ## Introduction
 
-Coral Lorenzen matters to [Wisconsin]({{ 'what-really-made-wisconsin-a-ufo-state/' | relative_url }}) UFO history because her story turns the state from a setting for sightings into a birthplace of organised civilian UFO research. Lorenzen traced her lifelong interest to a childhood sighting in Barron in 1934, then helped found the Aerial Phenomena Research Organization, or APRO, with her husband Jim in Sturgeon Bay in January 1952. APRO did not prove that UFOs were extraterrestrial craft, and its conclusions were often more confident than the evidence allowed. Its importance is different: it created a network for collecting reports, publishing cases, comparing witness testimony and challenging official explanations at a time when most UFO discussion was scattered through newspapers, clubs and military statements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The Startling Evidence Of The Invasion From Outer Space (not OCR)&quot;...</span></span></span>
-
+Coral Lorenzen matters to Wisconsin UFO history because her story turns the state from a setting for sightings into a birthplace of organised civilian UFO research. Lorenzen traced her lifelong interest to a childhood sighting in Barron in 1934, then helped found the Aerial Phenomena Research Organization, or APRO, with her husband Jim in Sturgeon Bay in January 1952. APRO did not prove that UFOs were extraterrestrial craft, and its conclusions were often more confident than the evidence allowed. Its importance is different: it created a network for collecting reports, publishing cases, comparing witness testimony and challenging official explanations at a time when most UFO discussion was scattered through newspapers, clubs and military statements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The Startling Evidence Of The Invasion From Outer Space (not OCR)&quot;...</span></span></span>
 
 <img src="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325-overview.webp" | relative_url }}" alt="Overview image for Coral Lorenzen" loading="eager" decoding="sync" fetchpriority="high">
 For Wisconsin, that makes Lorenzen a structural figure. Barron supplied the origin story; Sturgeon Bay supplied the organisational start; the APRO Bulletin supplied a paper trail. The best way to understand this page is not as a claim that one Wisconsin sighting explains UFOs, but as a look at how one Wisconsin-rooted researcher helped build the methods, archives and networks that later investigators inherited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The Startling Evidence Of The Invasion From Outer Space (not OCR)&quot;...</span></span></span>
@@ -276,8 +275,7 @@ That report is historically important, but evidentially weak. It was a childhood
 
 The most balanced reading is therefore biographical rather than sensational. Barron was not a “proof” case. It was a formative experience that Lorenzen later used to frame her own career: an ordinary Wisconsin child seeing something she could not identify, then carrying that unresolved memory into the post-1947 flying saucer era. That distinction matters because it keeps the case in proportion. The sighting’s value lies less in the object itself than in its role in pushing one future organiser towards systematic report-gathering.
 
-
-<img src="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325-Illustration-1-light.svg" | relative_url }}" alt="Coral Lorenzen illustration 1" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325-Illustration-1-dark.svg" | relative_url }}" alt="Coral Lorenzen illustration 1" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## APRO’s Sturgeon Bay beginnings
 
 APRO began in January 1952 while Jim and Coral Lorenzen were living in Sturgeon Bay. Reference accounts describe the organisation as founded to investigate UFO reports and seek a scientifically acceptable solution to the phenomenon. The Internet Archive’s APRO Bulletin collection identifies early bulletins as published under the Aerial Phenomena Research Organization banner from Sturgeon Bay, with Coral Lorenzen as a central publishing figure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/aerial-phenomena-research-organization-apro" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">aerial phenomena research organization apro</span><span class="citation-popover-snippet">Bulletin, APRO grew into a substantial research organization. It...Read more...</span></span></span>
@@ -287,7 +285,6 @@ This is where Wisconsin’s contribution becomes more than a single witness stor
 The APRO Bulletin was central to that model. It gave members a regular channel for case reports and organisational commentary, and it helped preserve material that might otherwise have remained in local gossip, short newspaper items or private letters. The surviving digitised bulletins are not neutral scientific journals, but they are valuable historical documents because they show what civilian UFO investigators were saying, publishing and prioritising at the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The Startling Evidence Of The Invasion From Outer Space (not OCR)&quot;...</span></span></span>
 
 APRO later moved beyond Wisconsin, first to California and New Mexico and eventually to Tucson, Arizona. That later Arizona period became the organisation’s best-known headquarters phase, but the origin point still matters for Wisconsin’s state-level history. Sturgeon Bay was where the Lorenzens turned scattered interest into an organisation with a name, a bulletin, members and a claim to investigative purpose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/aerial-phenomena-research-organization-apro" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">aerial phenomena research organization apro</span><span class="citation-popover-snippet">Bulletin, APRO grew into a substantial research organization. It...Read more...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jP46gJPlmm0" title="Jim Lorenzen, founder of APRO (Aerial Phenomena Research Organization), interviewed in 1974 and 1980" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jP46gJPlmm0" target="_blank" rel="noopener noreferrer">Jim Lorenzen, founder of APRO (Aerial Phenomena Research Organization), interviewed in 1974 and 1980</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 7.0K &middot; Uploaded: December 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jP46gJPlmm0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jP46gJPlmm0">Open on YouTube</a></p></div></div></div>
 
@@ -301,8 +298,7 @@ The same case also shows the weakness of early civilian UFO investigation. The m
 
 For readers, the useful takeaway is not that the Sturgeon Bay object was certainly exotic, nor that the balloon explanation was certainly complete. It is that the case captures APRO’s promise and its limits in one episode. The Lorenzens asked better questions than a casual witness might have asked, but they still worked with fragile data. Their method improved the record; it did not remove uncertainty.
 
-
-<img src="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325-Illustration-2-light.svg" | relative_url }}" alt="Coral Lorenzen illustration 2" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325-Illustration-2-dark.svg" | relative_url }}" alt="Coral Lorenzen illustration 2" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why civilian archives matter
 
 Wisconsin’s UFO record is often discussed through sightings: Barron, Sturgeon Bay, [Eagle River]({{ 'eagle-river/' | relative_url }}), Elmwood, Belleville and [Dundee]({{ 'dundee/' | relative_url }}). Lorenzen’s importance is that she represents the other half of UFO history: the people who preserved reports, created filing systems, corresponded with witnesses and kept cases alive after the newspaper cycle moved on. Without organisations such as APRO, many mid-century reports would survive only as scattered local clippings or second-hand folklore.
@@ -312,7 +308,6 @@ The National UFO Historical Records Center now lists APRO among its collections,
 Those archives matter even for sceptics. A file does not prove that a witness saw an alien craft. But a file can show when a claim first appeared, whether later retellings changed it, whether names and places were recorded, whether investigators asked follow-up questions, and whether ordinary explanations were considered. That is especially valuable in a state such as Wisconsin, where some UFO stories became local identity markers and festival lore. Archives help separate the original report from later embellishment.
 
 They also expose APRO’s biases. The Lorenzens were not detached government clerks; they believed UFOs were a serious unresolved phenomenon and often favoured extraordinary interpretations. That makes their records both useful and imperfect. They are best read as investigator archives, not verdicts. The APRO paper trail preserves what people claimed and how civilian researchers handled those claims, but each case still has to be weighed against alternative explanations and the quality of its evidence.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7fFCBc74Lb4" title="UFO Records Archive Finds New Home - David Marler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7fFCBc74Lb4" target="_blank" rel="noopener noreferrer">UFO Records Archive Finds New Home - David Marler</a></p><p class="youtube-embed-meta">Channel: Disclosure Team with Vinnie Adams &middot; Views: 2.0K &middot; Uploaded: July 2024 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7fFCBc74Lb4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7fFCBc74Lb4">Open on YouTube</a></p></div></div></div>
 
@@ -326,8 +321,7 @@ The organisation’s reputation was not simply fringe self-promotion. APRO attra
 
 APRO also declined. The 1969 Condon Report damaged public and institutional confidence in UFO study; Project Blue Book closed the same year; APRO suffered the MUFON split; and after Jim Lorenzen died in 1986 and Coral Lorenzen died in 1988, the organisation was dissolved. The arc from Sturgeon Bay founding to late-1980s closure is a reminder that civilian UFO organisations are historical actors, not permanent authorities. Their records can remain valuable even when their claims, methods and internal politics deserve scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-
-<img src="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325-Illustration-3-light.svg" | relative_url }}" alt="Coral Lorenzen illustration 3" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325-Illustration-3-dark.svg" | relative_url }}" alt="Coral Lorenzen illustration 3" data-theme-src-dark="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wisconsin_52b248_coral_lorenzen_apro_39b325-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this changes about Wisconsin UFO history
 
 Lorenzen’s story changes the Wisconsin UFO map because it shifts attention from “where did strange things appear?” to “who kept the records?” That is a different kind of importance. Barron is significant because Lorenzen later identified it as the personal starting point of her UFO interest. Sturgeon Bay is significant because APRO began there. Door County is significant because the 1952 Sturgeon Bay sighting shows an early attempt at witness coordination and rough triangulation, even though the evidence remains contested.
@@ -336,9 +330,7 @@ This also helps explain why Wisconsin’s UFO history feels unusually layered. T
 
 The fairest conclusion is therefore measured. Coral Lorenzen’s [Barron sighting]({{ 'barron-sighting/' | relative_url }}) is not a strong UFO case by modern evidential standards. APRO’s Sturgeon Bay origins do not validate every case the organisation promoted. But Wisconsin’s place in UFO history is stronger because of her organisational legacy. Through Lorenzen and APRO, the state contributed not only stories of unexplained lights, but one of the early civilian systems for collecting, publishing and arguing about them.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VlGSaxWhPQ4" title="1978 🇺🇸 #UFOB [RESEARCH] Short but rare footage of Jim and Coral Lorenzen." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VlGSaxWhPQ4" target="_blank" rel="noopener noreferrer">1978 🇺🇸 #UFOB [RESEARCH] Short but rare footage of Jim and Coral Lorenzen.</a></p><p class="youtube-embed-meta">Channel: UFOB | Your UAP Library &middot; Views: 718 &middot; Uploaded: April 2023 &middot; Length: 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VlGSaxWhPQ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VlGSaxWhPQ4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -426,7 +418,7 @@ The fairest conclusion is therefore measured. Coral Lorenzen’s [Barron sightin
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -436,111 +428,36 @@ The fairest conclusion is therefore measured. Coral Lorenzen’s [Barron sightin
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/lGIAAOSw2klmSmMn/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -548,15 +465,15 @@ The fairest conclusion is therefore measured. Coral Lorenzen’s [Barron sightin
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="https://i.ebayimg.com/images/g/nuEAAOSwVJRnoU9g/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -564,15 +481,15 @@ The fairest conclusion is therefore measured. Coral Lorenzen’s [Barron sightin
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster"><img src="https://i.ebayimg.com/images/g/H3QAAOSwSyRmwGFD/s-l225.jpg" alt="Listing image for UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">UFO Wall Art, Victorian Landscape, Funny Altered Art Print, Eclectic Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -580,15 +497,15 @@ The fairest conclusion is therefore measured. Coral Lorenzen’s [Barron sightin
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -596,7 +513,7 @@ The fairest conclusion is therefore measured. Coral Lorenzen’s [Barron sightin
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coral-lorenzen-how-wisconsin-helped-organise-ufo-research-wisconsin-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-wisconsin-helped-organise-ufo-research-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -673,17 +590,31 @@ The fairest conclusion is therefore measured. Coral Lorenzen’s [Barron sightin
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -696,42 +627,73 @@ The fairest conclusion is therefore measured. Coral Lorenzen’s [Barron sightin
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -746,12 +708,17 @@ The fairest conclusion is therefore measured. Coral Lorenzen’s [Barron sightin
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -761,131 +728,131 @@ The fairest conclusion is therefore measured. Coral Lorenzen’s [Barron sightin
 
 1. <a id="endnote-1"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt](https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The Startling Evidence Of The Invasion From Outer Space (not OCR)&quot;...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: encyclopedia.com  
    Title: aerial phenomena research organization apro  
-   Link: [https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/aerial-phenomena-research-organization-apro](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/aerial-phenomena-research-organization-apro)  
+   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/aerial-phenomena-research-organization-apro" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/aerial-phenomena-research-organization-apro</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bulletin, APRO grew into a substantial research organization. It...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archive.org  
-   Link: [https://archive.org/details/apro-bulletin](https://archive.org/details/apro-bulletin)  
+   Link: <a href="https://archive.org/details/apro-bulletin" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/apro-bulletin</a>  
 
 4. <a id="endnote-4"></a>
    Source: nufohrc.org  
-   Link: [https://nufohrc.org/collections/](https://nufohrc.org/collections/)  
+   Link: <a href="https://nufohrc.org/collections/" target="_blank" rel="noopener noreferrer nofollow">https://nufohrc.org/collections/</a>  
 
 5. <a id="endnote-5"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America_djvu.txt](https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America_djvu.txt)  
+   Link: <a href="https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America_djvu.txt</a>  
 
 6. <a id="endnote-6"></a>
    Source: archive.org  
-   Link: [https://archive.org/details/apro-23-2-1974](https://archive.org/details/apro-23-2-1974)  
+   Link: <a href="https://archive.org/details/apro-23-2-1974" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/apro-23-2-1974</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Aerial Phenomena Research Organization  
-   Link: [https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization](https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization)  
+   Link: <a href="https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aerial_Phenomena_Research_Organization</a>  
 
 8. <a id="endnote-8"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 9. <a id="endnote-9"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: [https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf](https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: ia803206.us.archive.org  
    Title: David Jacobs The UFO Controversy In America  
-   Link: [https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf](https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf)  
+   Link: <a href="https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: archive.org  
    Title: Encyclopedia of Occultism and Parapsychology. VOL.1 by L. Shepard djvu.txt  
-   Link: [https://archive.org/stream/encyclopedia-of-occultism-and-parapsychology.-vol.-1-by-l.-shepard/Encyclopedia%20of%20Occultism%20and%20Parapsychology.%20VOL.1%20by%20L.%20Shepard_djvu.txt](https://archive.org/stream/encyclopedia-of-occultism-and-parapsychology.-vol.-1-by-l.-shepard/Encyclopedia%20of%20Occultism%20and%20Parapsychology.%20VOL.1%20by%20L.%20Shepard_djvu.txt)  
+   Link: <a href="https://archive.org/stream/encyclopedia-of-occultism-and-parapsychology.-vol.-1-by-l.-shepard/Encyclopedia%20of%20Occultism%20and%20Parapsychology.%20VOL.1%20by%20L.%20Shepard_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/encyclopedia-of-occultism-and-parapsychology.-vol.-1-by-l.-shepard/Encyclopedia%20of%20Occultism%20and%20Parapsychology.%20VOL.1%20by%20L.%20Shepard_djvu.txt</a>  
 
 12. <a id="endnote-12"></a>
    Source: archive.org  
    Title: Encyclopediaof Occultismand Parapsychology1 djvu.txt  
-   Link: [https://archive.org/stream/Grimoires_201812/EncyclopediaofOccultismandParapsychology1_djvu.txt](https://archive.org/stream/Grimoires_201812/EncyclopediaofOccultismandParapsychology1_djvu.txt)  
+   Link: <a href="https://archive.org/stream/Grimoires_201812/EncyclopediaofOccultismandParapsychology1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Grimoires_201812/EncyclopediaofOccultismandParapsychology1_djvu.txt</a>  
 
 13. <a id="endnote-13"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/creaturedallignotojohnkeel/Creature%20dall%27%20Ignoto%20John%20Keel_djvu.txt](https://archive.org/stream/creaturedallignotojohnkeel/Creature%20dall%27%20Ignoto%20John%20Keel_djvu.txt)  
+   Link: <a href="https://archive.org/stream/creaturedallignotojohnkeel/Creature%20dall%27%20Ignoto%20John%20Keel_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/creaturedallignotojohnkeel/Creature%20dall%27%20Ignoto%20John%20Keel_djvu.txt</a>  
 
 14. <a id="endnote-14"></a>
    Source: archive.org  
-   Link: [https://archive.org/details/flyingsauceroccu00lore](https://archive.org/details/flyingsauceroccu00lore)  
+   Link: <a href="https://archive.org/details/flyingsauceroccu00lore" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/flyingsauceroccu00lore</a>  
 
 15. <a id="endnote-15"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 16. <a id="endnote-16"></a>
    Source: projectaquarius.mufon.com  
    Title: news clippings gallery apro files  
-   Link: [https://projectaquarius.mufon.com/news-clippings-gallery-apro-files/](https://projectaquarius.mufon.com/news-clippings-gallery-apro-files/)  
+   Link: <a href="https://projectaquarius.mufon.com/news-clippings-gallery-apro-files/" target="_blank" rel="noopener noreferrer nofollow">https://projectaquarius.mufon.com/news-clippings-gallery-apro-files/</a>  
 
 17. <a id="endnote-17"></a>
    Source: slideshare.net  
    Title: Coral Lorenzen  
-   Link: [https://www.slideshare.net/DirkTheDaring11/coral-lorenzen-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space](https://www.slideshare.net/DirkTheDaring11/coral-lorenzen-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space)  
+   Link: <a href="https://www.slideshare.net/DirkTheDaring11/coral-lorenzen-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/DirkTheDaring11/coral-lorenzen-flying-saucers-the-startling-evidence-of-the-invasion-from-outer-space</a>  
 
 18. <a id="endnote-18"></a>
    Source: avalonlibrary.net  
    Title: Coral Lorenzen  
-   Link: [https://avalonlibrary.net/ebooks/Coral%20Lorenzen%20-%20Flying%20Saucers%20-%20The%20Startling%20Evidence%20of%20the%20Invasion%20from%20Outer%20Space.pdf](https://avalonlibrary.net/ebooks/Coral%20Lorenzen%20-%20Flying%20Saucers%20-%20The%20Startling%20Evidence%20of%20the%20Invasion%20from%20Outer%20Space.pdf)  
+   Link: <a href="https://avalonlibrary.net/ebooks/Coral%20Lorenzen%20-%20Flying%20Saucers%20-%20The%20Startling%20Evidence%20of%20the%20Invasion%20from%20Outer%20Space.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/Coral%20Lorenzen%20-%20Flying%20Saucers%20-%20The%20Startling%20Evidence%20of%20the%20Invasion%20from%20Outer%20Space.pdf</a>  
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=VlGSaxWhPQ4](https://www.youtube.com/watch?v=VlGSaxWhPQ4)  
+   Link: <a href="https://www.youtube.com/watch?v=VlGSaxWhPQ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VlGSaxWhPQ4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jim Lorenzen, founder of APRO (Aerial Phenomena Research Organization), interviewed in 1974 and 1980...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=jP46gJPlmm0](https://www.youtube.com/watch?v=jP46gJPlmm0)  
+   Link: <a href="https://www.youtube.com/watch?v=jP46gJPlmm0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jP46gJPlmm0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1974 🇺🇸 #UFOB [INTERVIEW] APRO&#x27;s researchers Jim and Coral Lorenzen...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=nyeP0EsXBhU](https://www.youtube.com/watch?v=nyeP0EsXBhU)  
+   Link: <a href="https://www.youtube.com/watch?v=nyeP0EsXBhU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nyeP0EsXBhU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1978 🇺🇸 #UFOB [RESEARCH] Short but rare footage of Jim and Coral Lorenzen...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Women of Influence in UFO community  
-   Link: [https://www.youtube.com/watch?v=PzaRHi9DM84](https://www.youtube.com/watch?v=PzaRHi9DM84)  
+   Link: <a href="https://www.youtube.com/watch?v=PzaRHi9DM84" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PzaRHi9DM84</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Coral Lorenzen&quot; ufo Jim and Coral Lorenzen: The Unsung Heroes of UFO Research (1952) episode 06 UFO TIMELINE PROJECT...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood](https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood)  
+   Link: <a href="https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood</a>  
 
 24. <a id="endnote-24"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en-gb](https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C0KpEbZO6aw/?hl=en-gb</a>  
 
 25. <a id="endnote-25"></a>
    Source: mysticknowledge.org  
-   Link: [https://www.mysticknowledge.org/Encyclopedia_of_Occultism_and_Parapsychology_Vol-1.pdf](https://www.mysticknowledge.org/Encyclopedia_of_Occultism_and_Parapsychology_Vol-1.pdf)  
+   Link: <a href="https://www.mysticknowledge.org/Encyclopedia_of_Occultism_and_Parapsychology_Vol-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mysticknowledge.org/Encyclopedia_of_Occultism_and_Parapsychology_Vol-1.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/428014423909754/posts/8001576216553499/](https://www.facebook.com/groups/428014423909754/posts/8001576216553499/)  
+   Link: <a href="https://www.facebook.com/groups/428014423909754/posts/8001576216553499/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/428014423909754/posts/8001576216553499/</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/malcolm.robinson2/posts/for-immediate-releasefor-years-now-ufo-researchers-and-historians-have-been-look/10167923173470467/](https://www.facebook.com/malcolm.robinson2/posts/for-immediate-releasefor-years-now-ufo-researchers-and-historians-have-been-look/10167923173470467/)  
+   Link: <a href="https://www.facebook.com/malcolm.robinson2/posts/for-immediate-releasefor-years-now-ufo-researchers-and-historians-have-been-look/10167923173470467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/malcolm.robinson2/posts/for-immediate-releasefor-years-now-ufo-researchers-and-historians-have-been-look/10167923173470467/</a>  
 
 28. <a id="endnote-28"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/tag/national-ufo-historical-records-center/](https://thedebrief.org/tag/national-ufo-historical-records-center/)  
+   Link: <a href="https://thedebrief.org/tag/national-ufo-historical-records-center/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/tag/national-ufo-historical-records-center/</a>

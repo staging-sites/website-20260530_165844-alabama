@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /minot-b-52/
 nav_short_title: Radar Photos
 title: Do the Minot radar photos show a real target?
-title_full: Do the Minot radar photos show a real target? | Minot B 52
+title_full: Do the Minot radar photos show a real target?
 display_title_short: Radar Photos
 display_title: Radar Photos
 heading_title: Do the Minot radar photos show a real target?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:59:11'
-parent_title: Why the Minot UFO Case Still Stands Out | North Dakota UFOs
+parent_title: Why the Minot UFO Case Still Stands Out
 parent_permalink: /minot-b-52/
 parent_nav_short_title: Minot B 52
 parent_heading_title: Why the Minot UFO Case Still Stands Out
@@ -250,13 +250,12 @@ image: /assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_radarscope
 
 ## Introduction
 
-The strongest surviving physical evidence from the 24 October 1968 Minot B-52 incident is not a witness statement but a small set of radar-display photographs taken aboard the bomber. These images have become the centre of a long-running dispute because they appear to record an unknown radar target during the same period that crew members reported unusual lights. Yet the photographs do not speak for themselves. Their meaning depends on how the B-52 radar was operating, exactly when each image was taken, what the radar was designed to detect, and whether ordinary propagation effects could have created misleading echoes. The Minot case remains unusual because the underlying records include actual radarscope photographs rather than later recollections of what appeared on a screen. The argument is therefore less about whether photographs exist than about what, precisely, they show. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">umentation | The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 November 1968, including...</span><span class="citation-popover-meta">Published: November 1968</span></span></span>
+The strongest surviving physical evidence from the 24 October 1968 Minot B-52 incident is not a witness statement but a small set of radar-display photographs taken aboard the bomber. These images have become the centre of a long-running dispute because they appear to record an unknown radar target during the same period that crew members reported unusual lights. Yet the photographs do not speak for themselves. Their meaning depends on how the B-52 radar was operating, exactly when each image was taken, what the radar was designed to detect, and whether ordinary propagation effects could have created misleading echoes. The Minot case remains unusual because the underlying records include actual radarscope photographs rather than later recollections of what appeared on a screen. The argument is therefore less about whether photographs exist than about what, precisely, they show. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">umentation &#124; The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 November 1968, including...</span><span class="citation-popover-meta">Published: November 1968</span></span></span>
 
-
-<img src="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_radarscope_pho_deac43-Illustration-1-light.svg" | relative_url }}" alt="Radar Photos illustration 1" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_radarscope_pho_deac43-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_radarscope_pho_deac43-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_radarscope_pho_deac43-Illustration-1-dark.svg" | relative_url }}" alt="Radar Photos illustration 1" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_radarscope_pho_deac43-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_radarscope_pho_deac43-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the B-52 radarscope photographs recorded
 
-The surviving Minot file contains a sequence of B-52 radar photographs taken from the aircraft's Plan Position Indicator, or PPI display. The photographs were made during the bomber's involvement in the incident and were preserved within the broader documentary record. Researchers generally refer to thirteen surviving images, although not every image is equally useful because the sequence, timing and display settings require reconstruction from accompanying records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/radarscopes/radarscope-index.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Radarscope Photographs | The Minot AFB UFO caseScholarly examination of a UFO sighting at Minot Air Force Base on October 24, 1968. Inclu...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span>
+The surviving Minot file contains a sequence of B-52 radar photographs taken from the aircraft's Plan Position Indicator, or PPI display. The photographs were made during the bomber's involvement in the incident and were preserved within the broader documentary record. Researchers generally refer to thirteen surviving images, although not every image is equally useful because the sequence, timing and display settings require reconstruction from accompanying records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/radarscopes/radarscope-index.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Radarscope Photographs &#124; The Minot AFB UFO caseScholarly examination of a UFO sighting at Minot Air Force Base on October 24, 1968. Inclu...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span>
 
 Unlike a conventional camera image, a radarscope photograph records electronic returns displayed on a circular screen. Bright spots or traces represent reflected radar energy rather than visible objects. This distinction is crucial. A radar image can indicate a physical target, but it can also reflect atmospheric conditions, ground returns, sidelobe effects, equipment behaviour or interpretation errors.
 
@@ -264,8 +263,7 @@ According to later reconstructions of the event, radar navigator Major Charles R
 
 The photographs matter because they move the discussion beyond pure eyewitness testimony. Even critics of extraordinary interpretations generally accept that the images show some form of radar return. The disagreement concerns whether that return represented a real external target.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jWoJ7UMfVLY" title="B-52 and missile crews witnessed a UFO at the vicinity of Minot Air Force Base, October 24, 1968" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jWoJ7UMfVLY" target="_blank" rel="noopener noreferrer">B-52 and missile crews witnessed a UFO at the vicinity of Minot Air Force Base, October 24, 1968</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 17.5K &middot; Uploaded: June 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jWoJ7UMfVLY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jWoJ7UMfVLY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UefLw3NEM48" title="AudioBlog: Part 3: A 1968 UFO Incident at Minot AFB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UefLw3NEM48" target="_blank" rel="noopener noreferrer">AudioBlog: Part 3: A 1968 UFO Incident at Minot AFB</a></p><p class="youtube-embed-meta">Channel: Podcast UFO Live Shows &middot; Views: 1.8K &middot; Uploaded: December 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UefLw3NEM48" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UefLw3NEM48">Open on YouTube</a></p></div></div></div>
 
 ## Why station-keeping mode and timing matter
 
@@ -279,8 +277,7 @@ Sceptics point to the same radar mode for the opposite reason. Station-keeping m
 
 Timing creates another problem. Researchers have spent years trying to align the photographs with radio transcripts, crew statements, flight-path reconstructions and official reports. Small discrepancies matter because a radar return that appears simultaneous with a visual observation is more compelling than one separated by several minutes. Some later analyses have focused heavily on clocks visible within the photographs and on the sequence in which the images were exposed, arguing that chronology is essential for deciding whether the radar and visual observations genuinely correlated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/105405731/Analysis_of_Radar_and_Air_Visual_UFO_Observations_at_Minot_AFB_North_Dakota_USA_by_Claude_Poher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Station-keeping mode of radar operations. The B-52 radarscope consists of an illuminated bearing ring and 10-inch diameter tube face...R...</span></span></span>
 
-
-<img src="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_radarscope_pho_deac43-Illustration-2-light.svg" | relative_url }}" alt="Radar Photos illustration 2" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_radarscope_pho_deac43-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_radarscope_pho_deac43-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_radarscope_pho_deac43-Illustration-2-dark.svg" | relative_url }}" alt="Radar Photos illustration 2" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_radarscope_pho_deac43-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_radarscope_pho_deac43-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Ordinary radar effects versus an unexplained track
 
 The core dispute is not whether a radar echo existed. It is whether the echo was extraordinary.
@@ -293,22 +290,19 @@ However, ruling out one explanation does not automatically prove another. Radar 
 
 This limitation helps explain why the dispute has persisted for decades. The images are strong enough to prevent the case from being dismissed as a simple misidentified star, yet incomplete enough to resist a definitive conclusion.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V5dMHH4w9aM" title="AudioBlog: PART 2: A 1968 UFO Incident at Minot AFB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V5dMHH4w9aM" target="_blank" rel="noopener noreferrer">AudioBlog: PART 2: A 1968 UFO Incident at Minot AFB</a></p><p class="youtube-embed-meta">Channel: Podcast UFO Live Shows &middot; Views: 1.2K &middot; Uploaded: November 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V5dMHH4w9aM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V5dMHH4w9aM">Open on YouTube</a></p></div></div></div>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UefLw3NEM48" title="AudioBlog: Part 3: A 1968 UFO Incident at Minot AFB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UefLw3NEM48" target="_blank" rel="noopener noreferrer">AudioBlog: Part 3: A 1968 UFO Incident at Minot AFB</a></p><p class="youtube-embed-meta">Channel: Podcast UFO Live Shows &middot; Views: 1.8K &middot; Uploaded: December 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UefLw3NEM48" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UefLw3NEM48">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jWoJ7UMfVLY" title="B-52 and missile crews witnessed a UFO at the vicinity of Minot Air Force Base, October 24, 1968" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jWoJ7UMfVLY" target="_blank" rel="noopener noreferrer">B-52 and missile crews witnessed a UFO at the vicinity of Minot Air Force Base, October 24, 1968</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 17.5K &middot; Uploaded: June 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jWoJ7UMfVLY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jWoJ7UMfVLY">Open on YouTube</a></p></div></div></div>
 
 ## Why the photographs remain the strongest Minot evidence
 
-Among the many elements of the Minot incident, the radar photographs continue to attract attention because they are tangible records created during the event itself. Witness memories can change, transcripts can be incomplete and summaries can compress complex situations. The photographs are different: they preserve at least part of what the crew's radar system displayed at specific moments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">umentation | The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 November 1968, including...</span><span class="citation-popover-meta">Published: November 1968</span></span></span>
+Among the many elements of the Minot incident, the radar photographs continue to attract attention because they are tangible records created during the event itself. Witness memories can change, transcripts can be incomplete and summaries can compress complex situations. The photographs are different: they preserve at least part of what the crew's radar system displayed at specific moments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">umentation &#124; The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 November 1968, including...</span><span class="citation-popover-meta">Published: November 1968</span></span></span>
 
 At the same time, the photographs also demonstrate the limits of historical UFO evidence. They show why instrument records are not automatically self-explanatory. Understanding them requires knowledge of radar modes, aircraft procedures, beam geometry, display interpretation and chronology. The Minot dispute therefore turns on a narrower question than many UFO debates. It is not primarily a dispute about witness sincerity. It is a dispute about instrumentation.
 
-That is why the B-52 radarscope images remain one of the most discussed pieces of evidence in [North Dakota]({{ 'why-north-dakota-matters-in-ufo-history/' | relative_url }}) UFO history. They neither conclusively prove an unknown craft nor comfortably fit a simple explanation. Instead, they occupy an uneasy middle ground: authentic radar photographs whose significance depends on technical questions that researchers still argue about more than half a century later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/radarscopes/radarscope-index.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Radarscope Photographs | The Minot AFB UFO caseScholarly examination of a UFO sighting at Minot Air Force Base on October 24, 1968. Inclu...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/narrative/section-2.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">October 24, 1968. Includes hundreds of primary documents, including radar images...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span>
+That is why the B-52 radarscope images remain one of the most discussed pieces of evidence in North Dakota UFO history. They neither conclusively prove an unknown craft nor comfortably fit a simple explanation. Instead, they occupy an uneasy middle ground: authentic radar photographs whose significance depends on technical questions that researchers still argue about more than half a century later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/radarscopes/radarscope-index.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Radarscope Photographs &#124; The Minot AFB UFO caseScholarly examination of a UFO sighting at Minot Air Force Base on October 24, 1968. Inclu...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://minotb52ufo.com/narrative/section-2.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[minotb52ufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">October 24, 1968. Includes hundreds of primary documents, including radar images...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span>
 
-
-<img src="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_radarscope_pho_deac43-Illustration-3-light.svg" | relative_url }}" alt="Radar Photos illustration 3" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_radarscope_pho_deac43-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_radarscope_pho_deac43-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_radarscope_pho_deac43-Illustration-3-dark.svg" | relative_url }}" alt="Radar Photos illustration 3" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_radarscope_pho_deac43-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_minot_b52_case_11d4a1_minot_radarscope_pho_deac43-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -396,7 +390,7 @@ That is why the B-52 radarscope images remain one of the most discussed pieces o
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -406,111 +400,36 @@ That is why the B-52 radarscope images remain one of the most discussed pieces o
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-minot-radar-photos-show-a-real-target-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="do-the-minot-radar-photos-show-a-real-target-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Earth B-52 Stratofortress Plane Fascinations 3D Model DIY Kit ME1037 Gift"><img src="https://i.ebayimg.com/images/g/BA4AAeSwTjZo5AV1/s-l225.jpg" alt="Listing image for Metal Earth B-52 Stratofortress Plane Fascinations 3D Model DIY Kit ME1037 Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-minot-radar-photos-show-a-real-target-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="do-the-minot-radar-photos-show-a-real-target-b-52-model" target="_blank" rel="sponsored noopener noreferrer">Metal Earth B-52 Stratofortress Plane Fascinations 3D Model DIY Kit ME1037 Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-minot-radar-photos-show-a-real-target-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="do-the-minot-radar-photos-show-a-real-target-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for B-52 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: B-52 model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-minot-radar-photos-show-a-real-target-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="do-the-minot-radar-photos-show-a-real-target-b-52-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +437,15 @@ That is why the B-52 radarscope images remain one of the most discussed pieces o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-minot-radar-photos-show-a-real-target-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="do-the-minot-radar-photos-show-a-real-target-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell B-52D Stratofortress &#x27;Platinum Edition&#x27; 1:72 Model Kit"><img src="https://i.ebayimg.com/images/g/L2IAAeSwNF5qFyle/s-l225.jpg" alt="Listing image for Revell B-52D Stratofortress &#x27;Platinum Edition&#x27; 1:72 Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-minot-radar-photos-show-a-real-target-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="do-the-minot-radar-photos-show-a-real-target-b-52-model" target="_blank" rel="sponsored noopener noreferrer">Revell B-52D Stratofortress &#x27;Platinum Edition&#x27; 1:72 Model Kit</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-minot-radar-photos-show-a-real-target-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="do-the-minot-radar-photos-show-a-real-target-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for B-52 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: B-52 model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-minot-radar-photos-show-a-real-target-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="do-the-minot-radar-photos-show-a-real-target-b-52-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +453,15 @@ That is why the B-52 radarscope images remain one of the most discussed pieces o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-minot-radar-photos-show-a-real-target-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="do-the-minot-radar-photos-show-a-real-target-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Aviation Archive AA33502 BOEING B-52D &#x27;DIAMOND LIL&#x27;"><img src="https://i.ebayimg.com/images/g/aoMAAeSwYJhpozZn/s-l225.jpg" alt="Listing image for The Aviation Archive AA33502 BOEING B-52D &#x27;DIAMOND LIL&#x27;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-minot-radar-photos-show-a-real-target-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="do-the-minot-radar-photos-show-a-real-target-b-52-model" target="_blank" rel="sponsored noopener noreferrer">The Aviation Archive AA33502 BOEING B-52D &#x27;DIAMOND LIL&#x27;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-minot-radar-photos-show-a-real-target-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="do-the-minot-radar-photos-show-a-real-target-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for B-52 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: B-52 model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-minot-radar-photos-show-a-real-target-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="do-the-minot-radar-photos-show-a-real-target-b-52-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,15 +469,15 @@ That is why the B-52 radarscope images remain one of the most discussed pieces o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-minot-radar-photos-show-a-real-target-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="do-the-minot-radar-photos-show-a-real-target-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy Models USAF B-52H Stratofortress 20th &quot;Buccaneers&quot; 1:144 Model Plane Kit"><img src="https://i.ebayimg.com/images/g/ZcsAAeSwGqlqIZxM/s-l225.jpg" alt="Listing image for Academy Models USAF B-52H Stratofortress 20th &quot;Buccaneers&quot; 1:144 Model Plane Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-minot-radar-photos-show-a-real-target-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="do-the-minot-radar-photos-show-a-real-target-b-52-model" target="_blank" rel="sponsored noopener noreferrer">Academy Models USAF B-52H Stratofortress 20th &quot;Buccaneers&quot; 1:144 Model Plane Kit</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-minot-radar-photos-show-a-real-target-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="do-the-minot-radar-photos-show-a-real-target-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for B-52 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: B-52 model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-minot-radar-photos-show-a-real-target-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="do-the-minot-radar-photos-show-a-real-target-b-52-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -566,7 +485,7 @@ That is why the B-52 radarscope images remain one of the most discussed pieces o
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-photos-do-the-minot-radar-photos-show-a-real-target-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-minot-radar-photos-show-a-real-target-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="do-the-minot-radar-photos-show-a-real-target-b-52-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -643,17 +562,31 @@ That is why the B-52 radarscope images remain one of the most discussed pieces o
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -666,42 +599,73 @@ That is why the B-52 radarscope images remain one of the most discussed pieces o
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -716,12 +680,17 @@ That is why the B-52 radarscope images remain one of the most discussed pieces o
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -731,138 +700,138 @@ That is why the B-52 radarscope images remain one of the most discussed pieces o
 
 1. <a id="endnote-1"></a>
    Source: minotb52ufo.com  
-   Link: [https://minotb52ufo.com/doc.php](https://minotb52ufo.com/doc.php)  
+   Link: <a href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/doc.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>umentation | The Minot AFB UFO caseThe documents comprise 145 pages in chronological order from 24 October to 14 November 1968, including...</p></details>
    Published: November 1968  
 
 2. <a id="endnote-2"></a>
    Source: minotb52ufo.com  
-   Link: [https://minotb52ufo.com/radarscopes/radarscope-index.php](https://minotb52ufo.com/radarscopes/radarscope-index.php)  
+   Link: <a href="https://minotb52ufo.com/radarscopes/radarscope-index.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/radarscopes/radarscope-index.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radarscope Photographs | The Minot AFB UFO caseScholarly examination of a UFO sighting at Minot Air Force Base on October 24, 1968. Inclu...</p></details>
    Published: October 24, 1968  
 
 3. <a id="endnote-3"></a>
    Source: minotb52ufo.com  
-   Link: [https://minotb52ufo.com/narrative/section-2.php](https://minotb52ufo.com/narrative/section-2.php)  
+   Link: <a href="https://minotb52ufo.com/narrative/section-2.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/narrative/section-2.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 24, 1968. Includes hundreds of primary documents, including radar images...</p></details>
    Published: October 24, 1968  
 
 4. <a id="endnote-4"></a>
    Source: minotb52ufo.com  
    Title: Part 2  
-   Link: [https://minotb52ufo.com/poher/cp-part2.php](https://minotb52ufo.com/poher/cp-part2.php)  
+   Link: <a href="https://minotb52ufo.com/poher/cp-part2.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/poher/cp-part2.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>General Descriptions of the B-52 Radarscope...At the time of the UFO events, the radar navigator switched the radar system to “Station-k...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: minotb52ufo.com  
    Title: ms sec4  
-   Link: [https://minotb52ufo.com/shough/ms_sec4.php](https://minotb52ufo.com/shough/ms_sec4.php)  
+   Link: <a href="https://minotb52ufo.com/shough/ms_sec4.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/shough/ms_sec4.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radar Specifications and Mode of OperationStation Keep Mode - coverage elevated, as an air navigation aid, primarily for formation flying...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/105405731/Analysis_of_Radar_and_Air_Visual_UFO_Observations_at_Minot_AFB_North_Dakota_USA_by_Claude_Poher](https://www.academia.edu/105405731/Analysis_of_Radar_and_Air_Visual_UFO_Observations_at_Minot_AFB_North_Dakota_USA_by_Claude_Poher)  
+   Link: <a href="https://www.academia.edu/105405731/Analysis_of_Radar_and_Air_Visual_UFO_Observations_at_Minot_AFB_North_Dakota_USA_by_Claude_Poher" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/105405731/Analysis_of_Radar_and_Air_Visual_UFO_Observations_at_Minot_AFB_North_Dakota_USA_by_Claude_Poher</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Station-keeping mode of radar operations. The B-52 radarscope consists of an illuminated bearing ring and 10-inch diameter tube face...R...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: minotb52ufo.com  
    Title: Investigation: Section 6  
-   Link: [https://minotb52ufo.com/investigation/section-6.php](https://minotb52ufo.com/investigation/section-6.php)  
+   Link: <a href="https://minotb52ufo.com/investigation/section-6.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/investigation/section-6.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book EvaluationScholarly examination of a UFO sighting at Minot Air Force Base on October 24, 1968. Includes hundreds of pri...</p></details>
    Published: October 24, 1968  
 
 8. <a id="endnote-8"></a>
    Source: minotb52ufo.com  
    Title: Shough Report: 6  
-   Link: [https://minotb52ufo.com/shough/ms_sec6.php](https://minotb52ufo.com/shough/ms_sec6.php)  
+   Link: <a href="https://minotb52ufo.com/shough/ms_sec6.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/shough/ms_sec6.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interpreting the Unidentified EchoesFirst-trip echoes from satellites at high elevations within the unambiguous range of the radar (67.5...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota](https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota)  
+   Link: <a href="https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 24, 1968, a series of anomalous aerial events near Minot Air Force Base, North Dakota, prompted a coordinated military response i...</p></details>
    Published: October 24, 1968  
 
 10. <a id="endnote-10"></a>
    Source: podcastufo.com  
    Title: a 1968 ufo incident at minot afb  
-   Link: [https://podcastufo.com/a-1968-ufo-incident-at-minot-afb/](https://podcastufo.com/a-1968-ufo-incident-at-minot-afb/)  
+   Link: <a href="https://podcastufo.com/a-1968-ufo-incident-at-minot-afb/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/a-1968-ufo-incident-at-minot-afb/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Podcast UFOA 1968 UFO Incident at Minot AFBOct 29, 2023 — There is a Project Blue Book file on the case that contains the conclusion that...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/8331502](https://zenodo.org/records/8331502)  
+   Link: <a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Investigation of UFO Events at Minot Air Force Base...Sep 7, 2024 — Following the UFO events in the early morning on 24 October 196...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO) part 1 of 1Secretary of the Air Force announced the termination of &quot;Project. Blue Book,&quot; and the Air Force has furnished...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsDocumentation regarding the former BLUE BOOK investigation has been permanently transferred to the Military Re...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookThousands of UFO reports were collected, analyzed, and filed. As a result of the Condon Report, which concluded that...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/275310917589751/posts/930283188759184/](https://www.facebook.com/groups/275310917589751/posts/930283188759184/)  
+   Link: <a href="https://www.facebook.com/groups/275310917589751/posts/930283188759184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/275310917589751/posts/930283188759184/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Minot B-52 fire damage not visible from public viewing areaGround radar tracks an unidentified target correlated with a visual orange glo...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports/681024minot_hynek.htm](https://www.nicap.org/reports/681024minot_hynek.htm)  
+   Link: <a href="https://www.nicap.org/reports/681024minot_hynek.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/681024minot_hynek.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportThe B-52 confirmed having sighted a bright light of some type that appeared to be hovering just over or on the ground. The Blue...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: osi.af.mil  
-   Link: [https://www.osi.af.mil/News/Photos/igphoto/2002471619/](https://www.osi.af.mil/News/Photos/igphoto/2002471619/)  
+   Link: <a href="https://www.osi.af.mil/News/Photos/igphoto/2002471619/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Photos/igphoto/2002471619/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book 4Reports 1-12 were monthly classified status reports of the Air Force&#x27;s investigations and findings related to UFO sightings, w...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: in 1968 minot air force base faced a ufo encounter that still leaves questions u  
-   Link: [https://www.facebook.com/Abovethenormnews/posts/in-1968-minot-air-force-base-faced-a-ufo-encounter-that-still-leaves-questions-u/504458105721188/](https://www.facebook.com/Abovethenormnews/posts/in-1968-minot-air-force-base-faced-a-ufo-encounter-that-still-leaves-questions-u/504458105721188/)  
+   Link: <a href="https://www.facebook.com/Abovethenormnews/posts/in-1968-minot-air-force-base-faced-a-ufo-encounter-that-still-leaves-questions-u/504458105721188/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/in-1968-minot-air-force-base-faced-a-ufo-encounter-that-still-leaves-questions-u/504458105721188/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1968, Minot Air Force Base faced a UFO encounter that...Ground radar tracks an unidentified target correlated with a visual orange gl...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: govinfo.gov  
    Title: GOVPUB D e95d4f6177a338d107c26b8d9fe3d2eb  
-   Link: [https://www.govinfo.gov/content/pkg/GOVPUB-D-e95d4f6177a338d107c26b8d9fe3d2eb/html/GOVPUB-D-e95d4f6177a338d107c26b8d9fe3d2eb.htm](https://www.govinfo.gov/content/pkg/GOVPUB-D-e95d4f6177a338d107c26b8d9fe3d2eb/html/GOVPUB-D-e95d4f6177a338d107c26b8d9fe3d2eb.htm)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/GOVPUB-D-e95d4f6177a338d107c26b8d9fe3d2eb/html/GOVPUB-D-e95d4f6177a338d107c26b8d9fe3d2eb.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-D-e95d4f6177a338d107c26b8d9fe3d2eb/html/GOVPUB-D-e95d4f6177a338d107c26b8d9fe3d2eb.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Annual Report for Fiscal Year 1968...[Department of Defense Annual Report for Fiscal Year 1968, Including the Repo...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/APNews/posts/pilot-explains-aggressive-maneuver-to-avoid-b-52-bomber-over-north-dakota-b52/1124332486221326/](https://www.facebook.com/APNews/posts/pilot-explains-aggressive-maneuver-to-avoid-b-52-bomber-over-north-dakota-b52/1124332486221326/)  
+   Link: <a href="https://www.facebook.com/APNews/posts/pilot-explains-aggressive-maneuver-to-avoid-b-52-bomber-over-north-dakota-b52/1124332486221326/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/APNews/posts/pilot-explains-aggressive-maneuver-to-avoid-b-52-bomber-over-north-dakota-b52/1124332486221326/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SkyWest has confirmed it is investigating the incident. No photo description...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
    Title: minot afb 1968 some thoughts on one of the best  
-   Link: [https://www.reddit.com/r/UFOscience/comments/nzr45c/minot_afb_1968_some_thoughts_on_one_of_the_best/](https://www.reddit.com/r/UFOscience/comments/nzr45c/minot_afb_1968_some_thoughts_on_one_of_the_best/)  
+   Link: <a href="https://www.reddit.com/r/UFOscience/comments/nzr45c/minot_afb_1968_some_thoughts_on_one_of_the_best/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/nzr45c/minot_afb_1968_some_thoughts_on_one_of_the_best/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Minot AFB, 1968; some thoughts on one of the best...At Minot, the objects did not appear on the radar of a B52 until the B52 set its rad...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
    Title: 1968 minot airforcebase north dakota multiple  
-   Link: [https://www.reddit.com/r/UFOs/comments/xb6we5/1968_minot_airforcebase_north_dakota_multiple/](https://www.reddit.com/r/UFOs/comments/xb6we5/1968_minot_airforcebase_north_dakota_multiple/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/xb6we5/1968_minot_airforcebase_north_dakota_multiple/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/xb6we5/1968_minot_airforcebase_north_dakota_multiple/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>all time best treatment is by Tom Tulien - Minot AFB UFO Case. Living witnesses, radar, object, multiple lines of sight a...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MeteorologistAaronBrackett/posts/a-tonado-literally-curved-along-the-eastern-side-of-the-vance-afb-radar/1460289032144229/](https://www.facebook.com/MeteorologistAaronBrackett/posts/a-tonado-literally-curved-along-the-eastern-side-of-the-vance-afb-radar/1460289032144229/)  
+   Link: <a href="https://www.facebook.com/MeteorologistAaronBrackett/posts/a-tonado-literally-curved-along-the-eastern-side-of-the-vance-afb-radar/1460289032144229/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeteorologistAaronBrackett/posts/a-tonado-literally-curved-along-the-eastern-side-of-the-vance-afb-radar/1460289032144229/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d radios it (saying, “Someone is seeing flying saucers...Read more...</p></details>

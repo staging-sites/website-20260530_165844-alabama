@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /great-falls/
 nav_short_title: Voyagers
 title: Why a Baseball Team Became UFO Memory
-title_full: Why a Baseball Team Became UFO Memory | Great Falls
+title_full: Why a Baseball Team Became UFO Memory
 display_title_short: Voyagers
 display_title: Voyagers
 heading_title: Why a Baseball Team Became UFO Memory
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:43:36'
-parent_title: Why Great Falls Became UFO Country | Montana UFOs
+parent_title: Why Great Falls Became UFO Country
 parent_permalink: /great-falls/
 parent_nav_short_title: Great Falls
 parent_heading_title: Why Great Falls Became UFO Country
@@ -250,18 +250,16 @@ image: /assets/images/Montana_8d274f_great_falls_memory_e08da4_voyagers_mariana_
 
 ## Introduction
 
-[Great Falls]({{ 'great-falls/' | relative_url }}) did something unusual with its most famous UFO story: it turned it into a sports brand. Rather than treating the 1950 [Mariana film]({{ 'mariana-film/' | relative_url }}) as a strange historical footnote, the city gradually folded it into a public identity that mixed local humour, civic pride and lingering mystery. The result was the Great Falls Voyagers baseball team, a name and visual identity that openly referenced one of Montana’s best-known UFO cases while still leaving room for scepticism about what was actually filmed. The branding matters because it shows how an unresolved sighting can become local memory. In Great Falls, the UFO story survived not because everyone agreed on what happened, but because the ambiguity itself became part of the city’s character. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sportslogos.net">[SportsLogos.Net News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sportslogos.net</span><span class="citation-popover-snippet">NewsTruly Trippy: The Story Behind the Great Falls VoyagersSeptember 5, 2015 — 5 Sept 2015 — The so-called Mariana UFO Incident is the mo...</span><span class="citation-popover-meta">Published: September 5, 2015</span></span></span>
+[Great Falls]({{ 'great-falls/' | relative_url }}) did something unusual with its most famous UFO story: it turned it into a sports brand. Rather than treating the 1950 [Mariana film]({{ 'mariana-film/' | relative_url }}) as a strange historical footnote, the city gradually folded it into a public identity that mixed local humour, civic pride and lingering mystery. The result was the Great Falls Voyagers baseball team, a name and visual identity that openly referenced one of Montana’s best-known UFO cases while still leaving room for scepticism about what was actually filmed. The branding matters because it shows how an unresolved sighting can become local memory. In Great Falls, the UFO story survived not because everyone agreed on what happened, but because the ambiguity itself became part of the city’s character. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sportslogos.net">[SportsLogos.Net News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sportslogos.net</span><span class="citation-popover-snippet">Truly Trippy: The Story Behind the Great Falls VoyagersSeptember 5, 2015 — 5 Sept 2015 — The so-called Mariana UFO Incident is the mo...</span><span class="citation-popover-meta">Published: September 5, 2015</span></span></span>
 
-
-<img src="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_voyagers_mariana_mem_4f5508-Illustration-1-light.svg" | relative_url }}" alt="Voyagers illustration 1" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_voyagers_mariana_mem_4f5508-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_voyagers_mariana_mem_4f5508-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_voyagers_mariana_mem_4f5508-Illustration-1-dark.svg" | relative_url }}" alt="Voyagers illustration 1" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_voyagers_mariana_mem_4f5508-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_voyagers_mariana_mem_4f5508-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How the Mariana film entered ballpark identity
 
 When the local baseball club adopted the name “Voyagers” in 2008, it was not choosing a random science-fiction theme. The rebrand deliberately connected the team to the Mariana UFO incident, which had occurred at the city’s baseball grounds in 1950 when team manager Nick Mariana filmed two bright objects crossing the sky. The connection between the sighting and local baseball already existed in public memory because Mariana was part of the baseball organisation when the event happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mariana_UFO_film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mariana UFO film</span><span class="citation-popover-snippet">Mariana UFO film</span></span></span>
 
-The club’s new identity made that connection visible. Team logos incorporated flying-saucer imagery and extraterrestrial references, while the mascot Orbit turned the UFO theme into family entertainment rather than a claim that alien visitors had definitely arrived in [Montana]({{ 'why-montana-became-a-ufo-landmark/' | relative_url }}). Local reporting and team statements have repeatedly acknowledged that the branding grew from the Mariana story and from Great Falls’ broader reputation as a place associated with unusual sightings. SportsLogos.Net News <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: krtv.com">[KRTV NEWS Great Falls]</a><span class="citation-popover" role="note"><span class="citation-popover-source">krtv.com</span><span class="citation-popover-title">great falls ufo legacy in focus amid pentagon document release</span><span class="citation-popover-snippet">Great Falls Voyagers mark anniversary of &#x27;UFO&#x27; sighting. Mariana described seeing two objects with shiny bright metal about 50 yards apar...</span></span></span>
+The club’s new identity made that connection visible. Team logos incorporated flying-saucer imagery and extraterrestrial references, while the mascot Orbit turned the UFO theme into family entertainment rather than a claim that alien visitors had definitely arrived in Montana. Local reporting and team statements have repeatedly acknowledged that the branding grew from the Mariana story and from Great Falls’ broader reputation as a place associated with unusual sightings. SportsLogos.Net News <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: krtv.com">[KRTV NEWS Great Falls]</a><span class="citation-popover" role="note"><span class="citation-popover-source">krtv.com</span><span class="citation-popover-title">great falls ufo legacy in focus amid pentagon document release</span><span class="citation-popover-snippet">Great Falls Voyagers mark anniversary of &#x27;UFO&#x27; sighting. Mariana described seeing two objects with shiny bright metal about 50 yards apar...</span></span></span>
 
-This approach solved a practical branding problem as well. Like many minor-league clubs, the team had previously used names tied to major-league affiliates, including the Great Falls White Sox. Moving to “Voyagers” gave the franchise a locally distinctive identity that could not be mistaken for a copy of another club. The UFO connection provided a story that belonged specifically to Great Falls. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sportslogos.net">[SportsLogos.Net News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sportslogos.net</span><span class="citation-popover-snippet">NewsTruly Trippy: The Story Behind the Great Falls VoyagersSeptember 5, 2015 — 5 Sept 2015 — The so-called Mariana UFO Incident is the mo...</span><span class="citation-popover-meta">Published: September 5, 2015</span></span></span>
-
+This approach solved a practical branding problem as well. Like many minor-league clubs, the team had previously used names tied to major-league affiliates, including the Great Falls White Sox. Moving to “Voyagers” gave the franchise a locally distinctive identity that could not be mistaken for a copy of another club. The UFO connection provided a story that belonged specifically to Great Falls. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sportslogos.net">[SportsLogos.Net News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sportslogos.net</span><span class="citation-popover-snippet">Truly Trippy: The Story Behind the Great Falls VoyagersSeptember 5, 2015 — 5 Sept 2015 — The so-called Mariana UFO Incident is the mo...</span><span class="citation-popover-meta">Published: September 5, 2015</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yGIH7ufiBII" title="Nick Mariana UFO Footage 1950 Great Falls Montana" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yGIH7ufiBII" target="_blank" rel="noopener noreferrer">Nick Mariana UFO Footage 1950 Great Falls Montana</a></p><p class="youtube-embed-meta">Channel: parkerdonaldmusic &middot; Views: 35.8K &middot; Uploaded: September 2012 &middot; Length: 4 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yGIH7ufiBII" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yGIH7ufiBII">Open on YouTube</a></p></div></div></div>
 
@@ -269,17 +267,16 @@ This approach solved a practical branding problem as well. Like many minor-leagu
 
 One reason the branding endured is that “Voyagers” works on two different levels.
 
-At first glance, the name evokes exploration. Great Falls occupies an important place in the history of the Lewis and Clark expedition, whose members had to navigate the difficult portage around the Missouri River falls. The idea of voyagers therefore fits established regional history and western heritage. At the same time, the word can suggest travellers from elsewhere, allowing the club to reference UFO folklore without explicitly naming aliens in the team title. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sportslogos.net">[SportsLogos.Net News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sportslogos.net</span><span class="citation-popover-snippet">NewsTruly Trippy: The Story Behind the Great Falls VoyagersSeptember 5, 2015 — 5 Sept 2015 — The so-called Mariana UFO Incident is the mo...</span><span class="citation-popover-meta">Published: September 5, 2015</span></span></span>
+At first glance, the name evokes exploration. Great Falls occupies an important place in the history of the Lewis and Clark expedition, whose members had to navigate the difficult portage around the Missouri River falls. The idea of voyagers therefore fits established regional history and western heritage. At the same time, the word can suggest travellers from elsewhere, allowing the club to reference UFO folklore without explicitly naming aliens in the team title. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sportslogos.net">[SportsLogos.Net News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sportslogos.net</span><span class="citation-popover-snippet">Truly Trippy: The Story Behind the Great Falls VoyagersSeptember 5, 2015 — 5 Sept 2015 — The so-called Mariana UFO Incident is the mo...</span><span class="citation-popover-meta">Published: September 5, 2015</span></span></span>
 
-The logo system made that double meaning clearer. Alien faces, flying saucers and the mascot Orbit pushed the visual identity toward science fiction, while the team name itself remained broad enough to connect with older exploration narratives. Sports branding analysts have pointed to this combination as one reason the rebrand felt more substantial than a novelty gimmick. The UFO imagery was memorable, but it was attached to themes of travel, discovery and local history that already existed in Great Falls culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sportslogos.net">[SportsLogos.Net News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sportslogos.net</span><span class="citation-popover-snippet">NewsTruly Trippy: The Story Behind the Great Falls VoyagersSeptember 5, 2015 — 5 Sept 2015 — The so-called Mariana UFO Incident is the mo...</span><span class="citation-popover-meta">Published: September 5, 2015</span></span></span>
+The logo system made that double meaning clearer. Alien faces, flying saucers and the mascot Orbit pushed the visual identity toward science fiction, while the team name itself remained broad enough to connect with older exploration narratives. Sports branding analysts have pointed to this combination as one reason the rebrand felt more substantial than a novelty gimmick. The UFO imagery was memorable, but it was attached to themes of travel, discovery and local history that already existed in Great Falls culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sportslogos.net">[SportsLogos.Net News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sportslogos.net</span><span class="citation-popover-snippet">Truly Trippy: The Story Behind the Great Falls VoyagersSeptember 5, 2015 — 5 Sept 2015 — The so-called Mariana UFO Incident is the mo...</span><span class="citation-popover-meta">Published: September 5, 2015</span></span></span>
 
 That balance also helped avoid a problem faced by some UFO-themed attractions and businesses. Great Falls did not need to claim that extraterrestrials had unquestionably visited the city. The branding could celebrate the story while leaving the underlying case unresolved.
 
-
-<img src="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_voyagers_mariana_mem_4f5508-Illustration-2-light.svg" | relative_url }}" alt="Voyagers illustration 2" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_voyagers_mariana_mem_4f5508-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_voyagers_mariana_mem_4f5508-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_voyagers_mariana_mem_4f5508-Illustration-2-dark.svg" | relative_url }}" alt="Voyagers illustration 2" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_voyagers_mariana_mem_4f5508-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_voyagers_mariana_mem_4f5508-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the city could embrace a disputed case
 
-The Mariana film remains debated. Investigators have variously suggested [aircraft reflections]({{ 'jet-reflections/' | relative_url }}), military jets and other conventional [explanations]({{ 'explanations-34f983/' | relative_url }}), while supporters of the case argue that none fully accounts for the filmed objects. Official reviews never produced a universally accepted conclusion, and the film continues to appear in discussions of classic UFO evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Great_Falls_Voyagers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Great Falls Voyagers</span><span class="citation-popover-snippet">Great Falls Voyagers</span></span></span>
+The Mariana film remains debated. Investigators have variously suggested aircraft reflections, military jets and other conventional [explanations]({{ 'explanations-34f983/' | relative_url }}), while supporters of the case argue that none fully accounts for the filmed objects. Official reviews never produced a universally accepted conclusion, and the film continues to appear in discussions of classic UFO evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Great_Falls_Voyagers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Great Falls Voyagers</span><span class="citation-popover-snippet">Great Falls Voyagers</span></span></span>
 
 Paradoxically, that uncertainty made the story easier to adopt as local folklore.
 
@@ -287,24 +284,18 @@ If the case had been conclusively exposed as a hoax, it would have lost much of 
 
 The city’s museum and historical organisations have generally treated the incident in a similar way. The film is preserved as part of local history, and the event is discussed because it happened and influenced Great Falls, not because historians claim to know exactly what appeared in the sky. That distinction is important. The memory being preserved is the social impact of the sighting as much as the sighting itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatfallshistorymuseum.org">[The History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatfallshistorymuseum.org</span><span class="citation-popover-snippet">The History MuseumMariana UFO Incident: Great Falls&#x27; Visiting Voyagers1 Sept 2025 — Great Falls has had over 100 reported UFO sightings...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ocnDdXwY4Mw" title="Life as a Mascot - Orbit (Great Falls Voyagers)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ocnDdXwY4Mw" target="_blank" rel="noopener noreferrer">Life as a Mascot - Orbit (Great Falls Voyagers)</a></p><p class="youtube-embed-meta">Channel: Clara Ash &middot; Views: 506 &middot; Uploaded: February 2018 &middot; Length: 1 minute 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ocnDdXwY4Mw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ocnDdXwY4Mw">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DJ2vKHj8rVM" title="The Montana Film: The First Recorded UFO Sighting in the US" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DJ2vKHj8rVM" target="_blank" rel="noopener noreferrer">The Montana Film: The First Recorded UFO Sighting in the US</a></p><p class="youtube-embed-meta">Channel: Montana Historical Society &middot; Views: 3.5K &middot; Uploaded: February 2025 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DJ2vKHj8rVM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DJ2vKHj8rVM">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_voyagers_mariana_mem_4f5508-Illustration-3-dark.svg" | relative_url }}" alt="Voyagers illustration 3" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_voyagers_mariana_mem_4f5508-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_voyagers_mariana_mem_4f5508-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the branding says about local belief and doubt
 
 The Voyagers identity reveals something important about UFO culture in Montana. Public memory does not always depend on public belief.
 
-Many residents who enjoy the team’s alien imagery may remain unconvinced that Mariana filmed anything extraordinary. Others see the incident as one of the strongest classic UFO cases. The branding works because it does not require agreement. Fans can treat the story as a mystery, a local legend, a historical curiosity or a genuine unexplained event. The team identity accommodates all of those interpretations simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sportslogos.net">[SportsLogos.Net News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sportslogos.net</span><span class="citation-popover-snippet">NewsTruly Trippy: The Story Behind the Great Falls VoyagersSeptember 5, 2015 — 5 Sept 2015 — The so-called Mariana UFO Incident is the mo...</span><span class="citation-popover-meta">Published: September 5, 2015</span></span></span>
+Many residents who enjoy the team’s alien imagery may remain unconvinced that Mariana filmed anything extraordinary. Others see the incident as one of the strongest classic UFO cases. The branding works because it does not require agreement. Fans can treat the story as a mystery, a local legend, a historical curiosity or a genuine unexplained event. The team identity accommodates all of those interpretations simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sportslogos.net">[SportsLogos.Net News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sportslogos.net</span><span class="citation-popover-snippet">Truly Trippy: The Story Behind the Great Falls VoyagersSeptember 5, 2015 — 5 Sept 2015 — The so-called Mariana UFO Incident is the mo...</span><span class="citation-popover-meta">Published: September 5, 2015</span></span></span>
 
-That flexibility helps explain why the Mariana incident has lasted longer in [Great Falls memory]({{ 'great-falls/' | relative_url }}) than many other reported sightings. Most UFO reports remain confined to archives, specialist books or occasional documentaries. The Mariana story became attached to a ballpark, a mascot, merchandise and a team name seen repeatedly by residents and visitors. Through baseball, a contested piece of UFO history became part of everyday civic culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mariana_UFO_film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mariana UFO film</span><span class="citation-popover-snippet">Mariana UFO film</span></span></span>
+That flexibility helps explain why the Mariana incident has lasted longer in Great Falls memory than many other reported sightings. Most UFO reports remain confined to archives, specialist books or occasional documentaries. The Mariana story became attached to a ballpark, a mascot, merchandise and a team name seen repeatedly by residents and visitors. Through baseball, a contested piece of UFO history became part of everyday civic culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mariana_UFO_film" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mariana UFO film</span><span class="citation-popover-snippet">Mariana UFO film</span></span></span>
 
 The result is not evidence that Great Falls collectively accepts an extraterrestrial explanation. Instead, it shows how a community can absorb an unresolved event into its public identity. The Great Falls Voyagers demonstrate that the lasting legacy of a UFO case is sometimes cultural rather than evidential. The mystery remains disputed, but the memory became local heritage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatfallshistorymuseum.org">[The History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatfallshistorymuseum.org</span><span class="citation-popover-snippet">The History MuseumMariana UFO Incident: Great Falls&#x27; Visiting Voyagers1 Sept 2025 — Great Falls has had over 100 reported UFO sightings...</span></span></span>
 
-
-<img src="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_voyagers_mariana_mem_4f5508-Illustration-3-light.svg" | relative_url }}" alt="Voyagers illustration 3" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_voyagers_mariana_mem_4f5508-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_voyagers_mariana_mem_4f5508-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ocnDdXwY4Mw" title="Life as a Mascot - Orbit (Great Falls Voyagers)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ocnDdXwY4Mw" target="_blank" rel="noopener noreferrer">Life as a Mascot - Orbit (Great Falls Voyagers)</a></p><p class="youtube-embed-meta">Channel: Clara Ash &middot; Views: 506 &middot; Uploaded: February 2018 &middot; Length: 1 minute 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ocnDdXwY4Mw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ocnDdXwY4Mw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -392,7 +383,7 @@ The result is not evidence that Great Falls collectively accepts an extraterrest
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -402,111 +393,36 @@ The result is not evidence that Great Falls collectively accepts an extraterrest
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grateful Dead Bertha UFO Maxi Poster"><img src="https://i.ebayimg.com/images/g/pM4AAeSwvQporxeM/s-l225.jpg" alt="Listing image for Grateful Dead Bertha UFO Maxi Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Grateful Dead Bertha UFO Maxi Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,15 +430,15 @@ The result is not evidence that Great Falls collectively accepts an extraterrest
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,15 +446,15 @@ The result is not evidence that Great Falls collectively accepts an extraterrest
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX"><img src="https://i.ebayimg.com/images/g/D6YAAeSwgIhqJsph/s-l225.jpg" alt="Listing image for UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -546,15 +462,15 @@ The result is not evidence that Great Falls collectively accepts an extraterrest
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4"><img src="https://i.ebayimg.com/images/g/Ab0AAeSwSx9p8OkA/s-l225.jpg" alt="Listing image for ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -562,7 +478,7 @@ The result is not evidence that Great Falls collectively accepts an extraterrest
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=voyagers-why-a-baseball-team-became-ufo-memory-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-a-baseball-team-became-ufo-memory-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -639,17 +555,31 @@ The result is not evidence that Great Falls collectively accepts an extraterrest
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -662,42 +592,73 @@ The result is not evidence that Great Falls collectively accepts an extraterrest
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -712,12 +673,17 @@ The result is not evidence that Great Falls collectively accepts an extraterrest
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -727,101 +693,101 @@ The result is not evidence that Great Falls collectively accepts an extraterrest
 
 1. <a id="endnote-1"></a>
    Source: news.sportslogos.net  
-   Link: [https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/](https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NewsTruly Trippy: The Story Behind the Great Falls VoyagersSeptember 5, 2015 — 5 Sept 2015 — The so-called Mariana UFO Incident is the mo...</p></details>
+   Link: <a href="https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/" target="_blank" rel="noopener noreferrer nofollow">https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Truly Trippy: The Story Behind the Great Falls VoyagersSeptember 5, 2015 — 5 Sept 2015 — The so-called Mariana UFO Incident is the mo...</p></details>
    Published: September 5, 2015  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Mariana UFO film  
-   Link: [https://en.wikipedia.org/wiki/Mariana_UFO_film](https://en.wikipedia.org/wiki/Mariana_UFO_film)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mariana_UFO_film" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mariana_UFO_film</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Great Falls Voyagers  
-   Link: [https://en.wikipedia.org/wiki/Great_Falls_Voyagers](https://en.wikipedia.org/wiki/Great_Falls_Voyagers)  
+   Link: <a href="https://en.wikipedia.org/wiki/Great_Falls_Voyagers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Great_Falls_Voyagers</a>  
 
 4. <a id="endnote-4"></a>
    Source: krtv.com  
    Title: great falls ufo legacy in focus amid pentagon document release  
-   Link: [https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release](https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release)  
+   Link: <a href="https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release" target="_blank" rel="noopener noreferrer nofollow">https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Great Falls Voyagers mark anniversary of &#x27;UFO&#x27; sighting. Mariana described seeing two objects with shiny bright metal about 50 yards apar...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: UFO (1956 film)  
-   Link: [https://en.wikipedia.org/wiki/UFO_%281956_film%29](https://en.wikipedia.org/wiki/UFO_%281956_film%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_%281956_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_%281956_film%29</a>  
 
 6. <a id="endnote-6"></a>
    Source: krtv.com  
    Title: great falls voyagers mark the anniversary of ufo sighting namesake event  
-   Link: [https://www.krtv.com/news/great-falls-news/great-falls-voyagers-mark-the-anniversary-of-ufo-sighting-namesake-event](https://www.krtv.com/news/great-falls-news/great-falls-voyagers-mark-the-anniversary-of-ufo-sighting-namesake-event)  
+   Link: <a href="https://www.krtv.com/news/great-falls-news/great-falls-voyagers-mark-the-anniversary-of-ufo-sighting-namesake-event" target="_blank" rel="noopener noreferrer nofollow">https://www.krtv.com/news/great-falls-news/great-falls-voyagers-mark-the-anniversary-of-ufo-sighting-namesake-event</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Great Falls Voyagers mark anniversary of &#x27;UFO sighting&#x27;...15 Aug 2023 — August 15, 2023, marks the 73rd anniversary of one of the most f...</p></details>
    Published: August 15, 2023  
 
 7. <a id="endnote-7"></a>
    Source: greatfallshistorymuseum.org  
-   Link: [https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers](https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers)  
+   Link: <a href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow">https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The History MuseumMariana UFO Incident: Great Falls&#x27; Visiting Voyagers1 Sept 2025 — Great Falls has had over 100 reported UFO sightings...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: treasurestatelifestyles.com  
    Title: the mariana ufo incident  
-   Link: [https://treasurestatelifestyles.com/the-mariana-ufo-incident/](https://treasurestatelifestyles.com/the-mariana-ufo-incident/)  
+   Link: <a href="https://treasurestatelifestyles.com/the-mariana-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://treasurestatelifestyles.com/the-mariana-ufo-incident/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Sept 2016 — The Mariana UFO footage depicts two bright, silvery objects moving horizontally across the sky at a speed relative to one a...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MontanaHistoricalSociety/posts/many-folks-may-have-forgotten-or-never-knew-that-the-first-ever-captured-video-f/846846284148500/](https://www.facebook.com/MontanaHistoricalSociety/posts/many-folks-may-have-forgotten-or-never-knew-that-the-first-ever-captured-video-f/846846284148500/)  
+   Link: <a href="https://www.facebook.com/MontanaHistoricalSociety/posts/many-folks-may-have-forgotten-or-never-knew-that-the-first-ever-captured-video-f/846846284148500/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MontanaHistoricalSociety/posts/many-folks-may-have-forgotten-or-never-knew-that-the-first-ever-captured-video-f/846846284148500/</a>  
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TreasureStateLifestyles/posts/one-of-the-first-ufo-sightings-to-be-captured-on-film-was-recorded-right-here-in/1457830452481710/](https://www.facebook.com/TreasureStateLifestyles/posts/one-of-the-first-ufo-sightings-to-be-captured-on-film-was-recorded-right-here-in/1457830452481710/)  
+   Link: <a href="https://www.facebook.com/TreasureStateLifestyles/posts/one-of-the-first-ufo-sightings-to-be-captured-on-film-was-recorded-right-here-in/1457830452481710/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TreasureStateLifestyles/posts/one-of-the-first-ufo-sightings-to-be-captured-on-film-was-recorded-right-here-in/1457830452481710/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>One of the first UFO sightings to be captured on film was...27 Sept 2025 — #groupExperienceUfoInsights Mariana UFO Incident, MT At 11:29...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: commons.wikimedia.org  
    Title: File:Nick Mariana UFO Footage 1950 Great Falls Montana.webm  
-   Link: [https://commons.wikimedia.org/wiki/File%3ANick_Mariana_UFO_Footage_1950_Great_Falls_Montana.webm](https://commons.wikimedia.org/wiki/File%3ANick_Mariana_UFO_Footage_1950_Great_Falls_Montana.webm)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3ANick_Mariana_UFO_Footage_1950_Great_Falls_Montana.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ANick_Mariana_UFO_Footage_1950_Great_Falls_Montana.webm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Nick Mariana UFO Footage 1950 Great Falls Montana...English: A segment from the 1956 film UFO, which includes footage...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: gfvoyagers.com  
-   Link: [https://www.gfvoyagers.com/general/2024-25/releases/20250815](https://www.gfvoyagers.com/general/2024-25/releases/20250815)  
+   Link: <a href="https://www.gfvoyagers.com/general/2024-25/releases/20250815" target="_blank" rel="noopener noreferrer nofollow">https://www.gfvoyagers.com/general/2024-25/releases/20250815</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>75th Anniversary of Mariana UFO Incident15 Aug 2025 — The color scheme is pretty sharp, the alien theme is cool, and it&#x27;s a very unique name...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: baseballprospectus.com  
    Title: too far from town great falls voyagers  
-   Link: [https://www.baseballprospectus.com/news/article/59375/too-far-from-town-great-falls-voyagers/](https://www.baseballprospectus.com/news/article/59375/too-far-from-town-great-falls-voyagers/)  
+   Link: <a href="https://www.baseballprospectus.com/news/article/59375/too-far-from-town-great-falls-voyagers/" target="_blank" rel="noopener noreferrer nofollow">https://www.baseballprospectus.com/news/article/59375/too-far-from-town-great-falls-voyagers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>extraterrestrial life was as American as apple pie. What&#x27;s... Falls Tribune, where it&#x27;s reported he filmed the UFOs “several weeks ago.R...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: 1000logos.net  
    Title: great falls voyagers logo  
-   Link: [https://1000logos.net/great-falls-voyagers-logo/](https://1000logos.net/great-falls-voyagers-logo/)  
+   Link: <a href="https://1000logos.net/great-falls-voyagers-logo/" target="_blank" rel="noopener noreferrer nofollow">https://1000logos.net/great-falls-voyagers-logo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Aug 2025 — Explore how the Great Falls Voyagers logo, featuring a UFO, reflects the city&#x27;s rich UFO sightings history and the team&#x27;s u...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=B8GayfIihKI](https://www.youtube.com/watch?v=B8GayfIihKI)  
+   Link: <a href="https://www.youtube.com/watch?v=B8GayfIihKI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B8GayfIihKI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist believes FOUR types of alien life have been found...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Montana Film: The First Recorded UFO Sighting in the US  
-   Link: [https://www.youtube.com/watch?v=DJ2vKHj8rVM](https://www.youtube.com/watch?v=DJ2vKHj8rVM)  
+   Link: <a href="https://www.youtube.com/watch?v=DJ2vKHj8rVM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DJ2vKHj8rVM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Nick Mariana UFO Footage 1950 Great Falls Montana...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=yGIH7ufiBII](https://www.youtube.com/watch?v=yGIH7ufiBII)  
+   Link: <a href="https://www.youtube.com/watch?v=yGIH7ufiBII" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yGIH7ufiBII</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 UFO Over Montana: The Mariana Incident &amp; The Great Falls Mystery...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Great Falls Voyagers mark anniversary of 'UFO' sighting  
-   Link: [https://www.youtube.com/watch?v=Ok-zGBvDj0k](https://www.youtube.com/watch?v=Ok-zGBvDj0k)  
+   Link: <a href="https://www.youtube.com/watch?v=Ok-zGBvDj0k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ok-zGBvDj0k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Life as a Mascot - Orbit (Great Falls Voyagers)...</p></details>

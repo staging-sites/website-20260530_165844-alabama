@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /kenneth-arnold/
 nav_short_title: Idaho Follow ups
 title: Idaho UFO Sightings Sparked by Kenneth Arnold's Report
-title_full: Idaho UFO Sightings Sparked by Kenneth Arnold's Report | Kenneth Arnold
+title_full: Idaho UFO Sightings Sparked by Kenneth Arnold's Report
 display_title_short: Idaho Follow ups
 display_title: Idaho Follow ups
 heading_title: Idaho UFO Sightings Sparked by Kenneth Arnold's Report
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:19:01'
-parent_title: How Kenneth Arnold Put Idaho on the UFO Map | Idaho UFOs
+parent_title: How Kenneth Arnold Put Idaho on the UFO Map
 parent_permalink: /kenneth-arnold/
 parent_nav_short_title: Kenneth Arnold
 parent_heading_title: How Kenneth Arnold Put Idaho on the UFO Map
@@ -250,10 +250,9 @@ image: /assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_idaho_early_ufo_w
 
 ## Introduction
 
-[Kenneth Arnold]({{ 'kenneth-arnold/' | relative_url }})’s famous 24 June 1947 sighting near Mount Rainier immediately changed the way unusual aerial reports were discussed across the United States. [Idaho]({{ 'what-makes-idaho-a-key-ufo-hotspot/' | relative_url }}) became part of that chain reaction almost at once. Arnold himself was a Boise pilot, and within days newspapers in Idaho were carrying local “flying saucer” accounts from civilians, forestry workers and commercial air crews. Some were probably copycat reports encouraged by intense publicity. Others came from trained observers whose testimony pushed the story beyond simple newspaper excitement. The most influential Idaho-linked follow-up was the United Airlines crew sighting near Emmett on 4 July 1947, one of the first major airline UFO cases of the modern era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc crazeIn 1947, from June to July, a rash of reported sightings of unidentified flying objects (UFOs) in the United Sta...</span></span></span>
+[Kenneth Arnold]({{ 'kenneth-arnold/' | relative_url }})’s famous 24 June 1947 sighting near Mount Rainier immediately changed the way unusual aerial reports were discussed across the United States. Idaho became part of that chain reaction almost at once. Arnold himself was a Boise pilot, and within days newspapers in Idaho were carrying local “flying saucer” accounts from civilians, forestry workers and commercial air crews. Some were probably copycat reports encouraged by intense publicity. Others came from trained observers whose testimony pushed the story beyond simple newspaper excitement. The most influential Idaho-linked follow-up was the United Airlines crew sighting near Emmett on 4 July 1947, one of the first major airline UFO cases of the modern era. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1947 flying disc craze</span><span class="citation-popover-snippet">1947 flying disc crazeIn 1947, from June to July, a rash of reported sightings of unidentified flying objects (UFOs) in the United Sta...</span></span></span>
 
-
-<img src="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_idaho_early_ufo_wave_8a06d1-Illustration-1-light.svg" | relative_url }}" alt="Idaho Follow ups illustration 1" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_idaho_early_ufo_wave_8a06d1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_idaho_early_ufo_wave_8a06d1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_idaho_early_ufo_wave_8a06d1-Illustration-1-dark.svg" | relative_url }}" alt="Idaho Follow ups illustration 1" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_idaho_early_ufo_wave_8a06d1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_idaho_early_ufo_wave_8a06d1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 These Idaho follow-up reports mattered for two reasons. First, they helped turn Arnold’s isolated account into a wider “flying saucer” wave during the summer of 1947. Second, they attracted attention from military intelligence because some witnesses were experienced pilots rather than casual observers. Even though later investigators proposed ordinary explanations ranging from aircraft to visual illusion, the Idaho cases helped establish the pattern that would define early UFO history: rapid media spread, clusters of similar reports, official concern, and long-running arguments over credibility and misidentification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo04.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">a formal project for UFO investigation wasn&#x27;t set up until September 1947, the Air Force had been vitally interested in UFO reports ever...</span><span class="citation-popover-meta">Published: September 1947</span></span></span>
 
 ## Timeline of Idaho sightings after Arnold’s report
@@ -270,8 +269,7 @@ Key developments included:
 
 What stands out historically is not that Idaho produced uniquely strong physical evidence. It did not. Instead, Idaho became important because reports there appeared to confirm that Arnold’s experience was not an isolated incident. In the atmosphere of 1947, that perception mattered enormously.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xLuHgsXGpqc" title="Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer">Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 9.8K &middot; Uploaded: October 2025 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xLuHgsXGpqc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/12uXbLC7Xug" title="The Coming of the Saucers 💖 By Kenneth Arnold, Raymond Palmer. FULL Audiobook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=12uXbLC7Xug" target="_blank" rel="noopener noreferrer">The Coming of the Saucers 💖 By Kenneth Arnold, Raymond Palmer. FULL Audiobook</a></p><p class="youtube-embed-meta">Channel: Best Full Audiobooks &middot; Views: 387 &middot; Uploaded: January 2024 &middot; Length: 6 hours 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=12uXbLC7Xug" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=12uXbLC7Xug">Open on YouTube</a></p></div></div></div>
 
 ## The United Airlines Emmett sighting
 
@@ -289,7 +287,6 @@ The crew reportedly observed bright objects ahead of and above the aircraft whil
 
 Unlike many brief civilian sightings, this encounter allegedly lasted long enough for the crew to discuss what they were seeing while in flight. That duration became one reason UFO writers later treated the incident as an important corroborative case connected to Arnold’s earlier report. The similarities included:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Multiple objects travelling together
@@ -302,8 +299,7 @@ Unlike many brief civilian sightings, this encounter allegedly lasted long enoug
 
 The timing was especially important. The United Airlines report came only ten days after Arnold’s account became national news, at precisely the moment when newspapers were searching aggressively for additional “saucer” stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twin Falls saucer hoax</span><span class="citation-popover-snippet">Twin Falls saucer hoax</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span>
 
-
-<img src="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_idaho_early_ufo_wave_8a06d1-Illustration-2-light.svg" | relative_url }}" alt="Idaho Follow ups illustration 2" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_idaho_early_ufo_wave_8a06d1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_idaho_early_ufo_wave_8a06d1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_idaho_early_ufo_wave_8a06d1-Illustration-2-dark.svg" | relative_url }}" alt="Idaho Follow ups illustration 2" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_idaho_early_ufo_wave_8a06d1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_idaho_early_ufo_wave_8a06d1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Sceptical interpretations
 
 Later Air Force and sceptical interpretations were far less dramatic than early newspaper coverage. Military reviewers eventually suggested the crew may have observed ordinary aircraft, balloons, birds or optical illusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span>
@@ -320,7 +316,6 @@ Arnold’s sighting had already supplied newspapers with the phrase “flying sa
 
 Idaho contributed to that process in several ways:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Arnold’s Boise identity gave the state a direct connection to the emerging story.
@@ -332,8 +327,7 @@ Idaho contributed to that process in several ways:
 
 By early July 1947, reports were spreading so quickly that military intelligence agencies began assembling files on the most credible cases. Arnold’s report and the United Airlines sighting both entered that early investigative stream. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/12uXbLC7Xug" title="The Coming of the Saucers 💖 By Kenneth Arnold, Raymond Palmer. FULL Audiobook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=12uXbLC7Xug" target="_blank" rel="noopener noreferrer">The Coming of the Saucers 💖 By Kenneth Arnold, Raymond Palmer. FULL Audiobook</a></p><p class="youtube-embed-meta">Channel: Best Full Audiobooks &middot; Views: 387 &middot; Uploaded: January 2024 &middot; Length: 6 hours 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=12uXbLC7Xug" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=12uXbLC7Xug">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xLuHgsXGpqc" title="Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer">Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 9.8K &middot; Uploaded: October 2025 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xLuHgsXGpqc">Open on YouTube</a></p></div></div></div>
 
 ## Early Air Force interest and the problem of credibility
 
@@ -345,7 +339,6 @@ The Idaho cases exposed an enduring problem that would shape UFO investigations 
 
 The Idaho follow-up reports therefore mattered less because of what they conclusively proved and more because they forced officials, journalists and the public to confront uncertainty in a new way.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5xoYR0YjGh8" title="HISTORIA de los OVNIS - Episodio 2 - Los años 40 y 50 - El Caso Roswell y el Proyecto Libro Azul" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5xoYR0YjGh8" target="_blank" rel="noopener noreferrer">HISTORIA de los OVNIS - Episodio 2 - Los años 40 y 50 - El Caso Roswell y el Proyecto Libro Azul</a></p><p class="youtube-embed-meta">Channel: Pero eso es otra Historia &middot; Views: 551.0K &middot; Uploaded: March 2023 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5xoYR0YjGh8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5xoYR0YjGh8">Open on YouTube</a></p></div></div></div>
 
 ## What remains historically important today
@@ -356,8 +349,7 @@ Yet the Emmett airline sighting and related Idaho reports still occupy an import
 
 In Idaho’s state-level UFO history, these follow-up sightings mark the point where the state shifted from being merely Arnold’s home base to becoming an active early centre in the 1947 flying saucer wave itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deseret.com/1997/7/6/19322657/sky-saucers-start-and-sink-idahoan-s-reputation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">sky saucers start and sink idahoan s reputation</span><span class="citation-popover-snippet">Deseret NewsSky saucers start and sink Idahoan&#x27;s reputation6 Jul 1997 — Ten days later, on July 4, United Airlines Capt. E.J. Smith and h...</span></span></span>
 
-
-<img src="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_idaho_early_ufo_wave_8a06d1-Illustration-3-light.svg" | relative_url }}" alt="Idaho Follow ups illustration 3" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_idaho_early_ufo_wave_8a06d1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_idaho_early_ufo_wave_8a06d1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_idaho_early_ufo_wave_8a06d1-Illustration-3-dark.svg" | relative_url }}" alt="Idaho Follow ups illustration 3" data-theme-src-dark="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_idaho_early_ufo_wave_8a06d1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Idaho_18334c_kenneth_arnold_idaho_91218e_idaho_early_ufo_wave_8a06d1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -445,7 +437,7 @@ In Idaho’s state-level UFO history, these follow-up sightings mark the point w
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -455,111 +447,36 @@ In Idaho’s state-level UFO history, these follow-up sightings mark the point w
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Show Flying Saucer SHADO POSTER"><img src="https://i.ebayimg.com/images/g/4OoAAOSw98ph7sAD/s-l225.jpg" alt="Listing image for UFO TV Show Flying Saucer SHADO POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">UFO TV Show Flying Saucer SHADO POSTER</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -567,15 +484,15 @@ In Idaho’s state-level UFO history, these follow-up sightings mark the point w
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4"><img src="https://i.ebayimg.com/images/g/Ab0AAeSwSx9p8OkA/s-l225.jpg" alt="Listing image for ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">ADVERTISING VINTAGE POSTERS PRINTS A2 / A3 / A4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -583,15 +500,15 @@ In Idaho’s state-level UFO history, these follow-up sightings mark the point w
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHUCK BERRY WITH THE FLYING SAUCERS ORIGINAL CONCERT POSTER"><img src="https://i.ebayimg.com/images/g/q8kAAeSwyMZp7jUg/s-l225.jpg" alt="Listing image for CHUCK BERRY WITH THE FLYING SAUCERS ORIGINAL CONCERT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">CHUCK BERRY WITH THE FLYING SAUCERS ORIGINAL CONCERT POSTER</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -599,15 +516,15 @@ In Idaho’s state-level UFO history, these follow-up sightings mark the point w
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE FLYING SAUCERS MOVIE POSTER A2 PRINT"><img src="https://i.ebayimg.com/images/g/woAAAeSwhmVo4uix/s-l225.jpg" alt="Listing image for VINTAGE FLYING SAUCERS MOVIE POSTER A2 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE FLYING SAUCERS MOVIE POSTER A2 PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -615,7 +532,7 @@ In Idaho’s state-level UFO history, these follow-up sightings mark the point w
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-follow-ups-idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-idaho-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer poster" data-ebay-reference="idaho-ufo-sightings-sparked-by-kenneth-arnold-s-report-flying-saucer-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -692,17 +609,31 @@ In Idaho’s state-level UFO history, these follow-up sightings mark the point w
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -715,42 +646,73 @@ In Idaho’s state-level UFO history, these follow-up sightings mark the point w
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -765,12 +727,17 @@ In Idaho’s state-level UFO history, these follow-up sightings mark the point w
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -781,62 +748,62 @@ In Idaho’s state-level UFO history, these follow-up sightings mark the point w
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold UFO sighting  
-   Link: [https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting](https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: [https://en.wikipedia.org/wiki/1947_flying_disc_craze](https://en.wikipedia.org/wiki/1947_flying_disc_craze)  
+   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1947 flying disc crazeIn 1947, from June to July, a rash of reported sightings of unidentified flying objects (UFOs) in the United Sta...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Flight 105 UFO sighting  
-   Link: [https://en.wikipedia.org/wiki/Flight_105_UFO_sighting](https://en.wikipedia.org/wiki/Flight_105_UFO_sighting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flight_105_UFO_sighting</a>  
 
 4. <a id="endnote-4"></a>
    Source: commons.wikimedia.org  
    Title: File:Chicago Sun 1947 06 26 2 Flying Saucer headline th.jpg  
-   Link: [https://commons.wikimedia.org/wiki/File%3AChicago_Sun_1947-06-26-2_Flying_Saucer_headline-th.jpg](https://commons.wikimedia.org/wiki/File%3AChicago_Sun_1947-06-26-2_Flying_Saucer_headline-th.jpg)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AChicago_Sun_1947-06-26-2_Flying_Saucer_headline-th.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AChicago_Sun_1947-06-26-2_Flying_Saucer_headline-th.jpg</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>English: 1947 June 26 Chicago Sun article &quot;Supersonic Flying Saucers Sighted by Idaho Pilot&quot;.... Kenneth [Arnold sighting](&amp;#123;&amp;#123; &#x27;arnold-sighting/&#x27; | relative_url &amp;#125;&amp;#125;), June 26, 1947...</p></details>
    Published: June 26, 1947  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Twin Falls saucer hoax  
-   Link: [https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax](https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax)  
+   Link: <a href="https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax</a>  
 
 6. <a id="endnote-6"></a>
    Source: deseret.com  
    Title: sky saucers start and sink idahoan s reputation  
-   Link: [https://www.deseret.com/1997/7/6/19322657/sky-saucers-start-and-sink-idahoan-s-reputation/](https://www.deseret.com/1997/7/6/19322657/sky-saucers-start-and-sink-idahoan-s-reputation/)  
+   Link: <a href="https://www.deseret.com/1997/7/6/19322657/sky-saucers-start-and-sink-idahoan-s-reputation/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1997/7/6/19322657/sky-saucers-start-and-sink-idahoan-s-reputation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deseret NewsSky saucers start and sink Idahoan&#x27;s reputation6 Jul 1997 — Ten days later, on July 4, United Airlines Capt. E.J. Smith and h...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: discoveryuk.com  
    Title: legendary flying saucer re examining the kenneth arnold ufo sighting  
-   Link: [https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/](https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/legendary-flying-saucer-re-examining-the-kenneth-arnold-ufo-sighting/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Re-examining the Kenneth Arnold UFO Sighting8 Oct 2025 — Most notably, just ten days after the Kenneth Arnold UFO sighting, a United Airl...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: [https://en.wikipedia.org/wiki/Flying_saucer](https://en.wikipedia.org/wiki/Flying_saucer)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
 
 9. <a id="endnote-9"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/rufo/rufo04.htm](https://sacred-texts.com/ufo/rufo/rufo04.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo04.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo04.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>a formal project for UFO investigation wasn&#x27;t set up until September 1947, the Air Force had been vitally interested in UFO reports ever...</p></details>
    Published: September 1947  
 
 10. <a id="endnote-10"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/MUFON/Pratt/KennethArnold.pdf](https://documents.theblackvault.com/documents/MUFON/Pratt/KennethArnold.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/MUFON/Pratt/KennethArnold.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/MUFON/Pratt/KennethArnold.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsKenneth ArnoldOne of those pilots was United Airlines Captain E. J. Smith, who saw similar objects on the evenin...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: airandspace.si.edu  
-   Link: [https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer](https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer)  
+   Link: <a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space Museum1947: Year of the Flying SaucerJune 24, 2022 — 24 Jun 2022 — We will never know exactly what private pilot K...</p></details>
    Published: June 24, 2022  
 
@@ -844,58 +811,58 @@ In Idaho’s state-level UFO history, these follow-up sightings mark the point w
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/](https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/)  
+   Link: <a href="https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Idaho Public TelevisionWhat is regarded as the first modern &quot;flying saucer&quot; sighting occurred on June 24, 1947, when Boise businessman Ke...</p></details>
    Published: June 24, 1947  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/](https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/)  
+   Link: <a href="https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressWhat is regarded as the first modern &quot;flying saucer&quot; sighting occurred on June 24, 1947, when Boise businessman Ke...</p></details>
    Published: June 24, 1947  
 
 14. <a id="endnote-14"></a>
    Source: thedebrief.org  
-   Link: [https://thedebrief.org/after-kenneth-arnold-saw-flying-discs-this-is-the-journalist-who-tracked-one-down/](https://thedebrief.org/after-kenneth-arnold-saw-flying-discs-this-is-the-journalist-who-tracked-one-down/)  
+   Link: <a href="https://thedebrief.org/after-kenneth-arnold-saw-flying-discs-this-is-the-journalist-who-tracked-one-down/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/after-kenneth-arnold-saw-flying-discs-this-is-the-journalist-who-tracked-one-down/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>After Kenneth Arnold Saw &quot;Flying Discs&quot;, This is...1 Apr 2022 — Recognized as the first UFO sighting of the modern era, there are two li...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scottbakal.com  
-   Link: [https://www.scottbakal.com/kennetharnoldsighting](https://www.scottbakal.com/kennetharnoldsighting)  
+   Link: <a href="https://www.scottbakal.com/kennetharnoldsighting" target="_blank" rel="noopener noreferrer nofollow">https://www.scottbakal.com/kennetharnoldsighting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold SightingThe very first public sighting of a flying &#x27;disc&#x27; was on June 25, 1947. On June 26, 1947, the term &#x27;flying saucer&#x27;...</p></details>
    Published: June 25, 1947  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Britannica/posts/the-first-widely-publicized-ufo-sighting-took-place-in-1947-when-businessman-ken/10157012129640907/](https://www.facebook.com/Britannica/posts/the-first-widely-publicized-ufo-sighting-took-place-in-1947-when-businessman-ken/10157012129640907/)  
+   Link: <a href="https://www.facebook.com/Britannica/posts/the-first-widely-publicized-ufo-sighting-took-place-in-1947-when-businessman-ken/10157012129640907/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Britannica/posts/the-first-widely-publicized-ufo-sighting-took-place-in-1947-when-businessman-ken/10157012129640907/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Emile Kelly... Rainier sighting by private pilot Kenneth Arnold, a United Airlines DC-3 crew...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: americanghostwalks.com  
    Title: kenneth arnold and the origin of flying saucers  
-   Link: [https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers](https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers)  
+   Link: <a href="https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers" target="_blank" rel="noopener noreferrer nofollow">https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold and the Origin of the Modern UFO Movement24 Jun 2025 — On June 24, 1947, Kenneth Arnold&#x27;s UFO sighting near Mount Rainier...</p></details>
    Published: June 24, 1947  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: HISTORY of UFOs  
-   Link: [https://www.youtube.com/watch?v=5xoYR0YjGh8](https://www.youtube.com/watch?v=5xoYR0YjGh8)  
+   Link: <a href="https://www.youtube.com/watch?v=5xoYR0YjGh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5xoYR0YjGh8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Coming of the Saucers By Kenneth Arnold, Raymond Palmer. FULL Audiobook...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: dokumen.pub  
    Title: report on the ufo wave of 1947  
-   Link: [https://dokumen.pub/report-on-the-ufo-wave-of-1947.html](https://dokumen.pub/report-on-the-ufo-wave-of-1947.html)  
+   Link: <a href="https://dokumen.pub/report-on-the-ufo-wave-of-1947.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/report-on-the-ufo-wave-of-1947.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on the UFO Wave of 1947 discusses the first contemporary wave of UFO sightings in this country, which reached its peak on July...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: [https://origins.osu.edu/read/air-force-investigation-ufos](https://origins.osu.edu/read/air-force-investigation-ufos)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OriginsThe Air Force Investigation into UFOs | Origins22 Dec 2024 — The origins of Project Blue Book began with the “flying saucer craze”...</p></details>
+   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Investigation into UFOs | Origins22 Dec 2024 — The origins of Project Blue Book began with the “flying saucer craze”...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=7i62GIG3tvU](https://www.youtube.com/watch?v=7i62GIG3tvU)  
+   Link: <a href="https://www.youtube.com/watch?v=7i62GIG3tvU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7i62GIG3tvU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY of UFOs - Episode 2 - The 1940s and 1950s - The Roswell Incident and Project Blue Book...</p></details>

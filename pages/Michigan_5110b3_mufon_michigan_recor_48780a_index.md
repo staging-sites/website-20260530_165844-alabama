@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /michigan-5110b3-mufon-michigan-recor/
 description: Focused pages that expand on MUFON Database.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Michigan_5110b3_mufon_michigan_recor_48780a
-parent_title: MUFON Database | Michigan’s Most Notable UFO Sightings and...
+parent_title: MUFON Database
 parent_nav_short_title: MUFON Database
 parent_permalink: /mufon-database/
 ---

@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /f-e-warren/
 nav_short_title: 1965 Sightings
 title: What makes the 1965 Warren sightings unresolved?
-title_full: What makes the 1965 Warren sightings unresolved? | F E Warren
+title_full: What makes the 1965 Warren sightings unresolved?
 display_title_short: 1965 Sightings
 display_title: 1965 Sightings
 heading_title: What makes the 1965 Warren sightings unresolved?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:33:56'
-parent_title: Do Wyoming Missile Sites Strengthen UFO Claims? | Wyoming UFOs
+parent_title: Do Wyoming Missile Sites Strengthen UFO Claims?
 parent_permalink: /f-e-warren/
 parent_nav_short_title: F E Warren
 parent_heading_title: Do Wyoming Missile Sites Strengthen UFO Claims?
@@ -250,10 +250,9 @@ image: /assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_1965_missile_fi
 
 ## Introduction
 
-The 1965 missile-field reports linked to F.E. Warren Air Force Base remain some of the most discussed [Wyoming]({{ 'what-really-happened-in-wyoming-skies/' | relative_url }}) UFO claims because they combine several elements that researchers usually struggle to find in the same case: named military witnesses, repeated reports from nuclear missile locations, and claims that more than one object was seen at a time. Yet they are also frustratingly incomplete. Much of the story comes from later witness testimony rather than contemporaneous public records, and the surviving documentation is fragmentary. That combination is exactly why the sightings remain unresolved rather than persuasive proof of anything extraordinary.
+The 1965 missile-field reports linked to F.E. Warren Air Force Base remain some of the most discussed Wyoming UFO claims because they combine several elements that researchers usually struggle to find in the same case: named military witnesses, repeated reports from nuclear missile locations, and claims that more than one object was seen at a time. Yet they are also frustratingly incomplete. Much of the story comes from later witness testimony rather than contemporaneous public records, and the surviving documentation is fragmentary. That combination is exactly why the sightings remain unresolved rather than persuasive proof of anything extraordinary.
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_1965_missile_field_s_0dafc7-Illustration-1-light.svg" | relative_url }}" alt="1965 Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_1965_missile_field_s_0dafc7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_1965_missile_field_s_0dafc7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_1965_missile_field_s_0dafc7-Illustration-1-dark.svg" | relative_url }}" alt="1965 Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_1965_missile_field_s_0dafc7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_1965_missile_field_s_0dafc7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader history of Wyoming UFO reports, the 1965 accounts matter because they helped establish a pattern later repeated in discussions of missile sites elsewhere in the United States. Witnesses described unusual aerial objects near Minuteman missile facilities, while later researchers argued that official records hinted at a larger military awareness of the events. Critics counter that the available evidence is too incomplete to support strong conclusions and that decades of retelling may have altered important details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/pdfs/missiles.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesREMARKABLE REPORTS FROM THE MISSILE FIELDOctober 5, 2008 — by RRL Hastings · 2008 — Concerning UFOs&#x27; supposed nonth...</span><span class="citation-popover-meta">Published: October 5, 2008</span></span></span>
 
 ## The reported Echo and Quebec Flight accounts
@@ -273,14 +272,13 @@ Supporters of the case argue that these features distinguish the reports from or
 
 The difficulty is that modern readers usually encounter the story through interviews conducted decades later. That does not automatically invalidate the testimony, but it does mean historians must consider memory drift, later influence from UFO literature and the absence of complete contemporary documentation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VgziDyPSUog" title="What Disabled Missiles at Malmstrom Air Force Base?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VgziDyPSUog" target="_blank" rel="noopener noreferrer">What Disabled Missiles at Malmstrom Air Force Base?</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 273.6K &middot; Uploaded: November 2014 &middot; Length: 4 minutes 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VgziDyPSUog" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VgziDyPSUog">Open on YouTube</a></p></div></div></div>
 
 ## What the claimed official record adds
 
 The strongest argument made by advocates of the 1965 Warren case is not based on witness recollections alone. It is based on claims that surviving military records show unusual reports were being logged within the missile field.
 
-Some UFO researchers have pointed to entries associated with Warren missile facilities that describe unidentified objects moving at high speed, descending, or being reported near missile locations. One cited example describes a report from a Warren missile site involving an oval white object with a flashing red light that was said to be moving east and possibly descending toward the ground east of [Cheyenne]({{ 'cheyenne/' | relative_url }}). Versions of this report appear in later UFO databases and compilations derived from Air Force-era material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Warren 1965</span><span class="citation-popover-snippet">RR0F.E. Warren AFB, Wyoming (1965)10 May 2025 — Warren Air Force Base reports (Site B-4 3:17 A.M.) –A UFO 90 miles east of Cheyenne at a...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Some UFO researchers have pointed to entries associated with Warren missile facilities that describe unidentified objects moving at high speed, descending, or being reported near missile locations. One cited example describes a report from a Warren missile site involving an oval white object with a flashing red light that was said to be moving east and possibly descending toward the ground east of [Cheyenne]({{ 'cheyenne/' | relative_url }}). Versions of this report appear in later UFO databases and compilations derived from Air Force-era material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Warren 1965</span><span class="citation-popover-snippet">F.E. Warren AFB, Wyoming (1965)10 May 2025 — Warren Air Force Base reports (Site B-4 3:17 A.M.) –A UFO 90 miles east of Cheyenne at a...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 The significance of such records is often overstated. A logged report does not confirm the nature of an object. What it does show is that military personnel considered an observation unusual enough to transmit or record. In the context of a strategic missile field, even an unexplained light could trigger reporting requirements.
 
@@ -288,8 +286,7 @@ Project Blue Book, the Air Force programme responsible for investigating UFO rep
 
 Even so, the Warren material differs from many civilian reports because it places the observations within a documented military environment. Researchers interested in missile-field UFO claims argue that this context makes the reports historically significant even when the objects themselves remain unidentified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/pdfs/missiles.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesREMARKABLE REPORTS FROM THE MISSILE FIELDOctober 5, 2008 — by RRL Hastings · 2008 — Concerning UFOs&#x27; supposed nonth...</span><span class="citation-popover-meta">Published: October 5, 2008</span></span></span>
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_1965_missile_field_s_0dafc7-Illustration-2-light.svg" | relative_url }}" alt="1965 Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_1965_missile_field_s_0dafc7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_1965_missile_field_s_0dafc7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_1965_missile_field_s_0dafc7-Illustration-2-dark.svg" | relative_url }}" alt="1965 Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_1965_missile_field_s_0dafc7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_1965_missile_field_s_0dafc7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the witness evidence attracts attention
 
 Several aspects of the testimony continue to attract interest decades later.
@@ -302,8 +299,7 @@ Third, some reports involve multiple objects. Witnesses did not always describe 
 
 At the same time, none of these factors solves the central problem. Human observers can still misinterpret what they see, especially at night and over long distances. Multiple witnesses can reinforce one another's impressions without establishing what an object actually was. The credibility of the observers increases the importance of the report, but it does not automatically identify the phenomenon.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uv-dH7g0x34" title="Nuclear Weapons and UFOs with Robert Hastings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uv-dH7g0x34" target="_blank" rel="noopener noreferrer">Nuclear Weapons and UFOs with Robert Hastings</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 28.1K &middot; Uploaded: June 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uv-dH7g0x34" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uv-dH7g0x34">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OSMSKs7lW_0" title="Documentary | UFOs and Nukes: The Secret Link Revealed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OSMSKs7lW_0" target="_blank" rel="noopener noreferrer">Documentary | UFOs and Nukes: The Secret Link Revealed</a></p><p class="youtube-embed-meta">Channel: The Disclosure Process &middot; Views: 10.2K &middot; Uploaded: July 2023 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OSMSKs7lW_0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OSMSKs7lW_0">Open on YouTube</a></p></div></div></div>
 
 ## The missing checks modern readers need
 
@@ -319,8 +315,7 @@ Some references to military logs and communications exist, but many readers enco
 
 Claims occasionally mention NORAD awareness or military tracking, but publicly available supporting records are sparse. Without preserved radar plots, tracking logs or detailed operational reports, it is difficult to determine whether the objects represented aircraft, astronomical phenomena, equipment errors or something else entirely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theufochronicles.com/2012/01/new-reports-of-ufo-activity-near-fe.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[theufochronicles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">New Reports of UFO Activity Near F.E</span><span class="citation-popover-snippet">Warren AFB&#x27;s...5 Jan 2012 — Several UFOs Simultaneously Hover Above F.E. · Eight UFOs Hover Above F.E. · A Cigar-Shaped UFO Frightens US...</span></span></span>
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_1965_missile_field_s_0dafc7-Illustration-3-light.svg" | relative_url }}" alt="1965 Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_1965_missile_field_s_0dafc7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_1965_missile_field_s_0dafc7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_1965_missile_field_s_0dafc7-Illustration-3-dark.svg" | relative_url }}" alt="1965 Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_1965_missile_field_s_0dafc7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_fe_warren_missile_cl_9ca37f_1965_missile_field_s_0dafc7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Memory and retrospective interpretation
 
 Many of the best-known accounts emerged long after 1965. Historians of UFO reports regularly face the problem that memories evolve, especially when witnesses later encounter books, documentaries or public debates about the same subject.
@@ -339,9 +334,7 @@ Their real historical importance is that they helped establish the enduring conn
 
 For modern readers, the most balanced conclusion is that the 1965 sightings are neither convincingly explained nor convincingly proven. The witness testimony is substantial enough to keep the case alive, but the documentary gaps are large enough to prevent a definitive judgement. That unresolved status, rather than any confirmed extraordinary event, is what keeps the 1965 Warren missile-field sightings central to Wyoming's UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theufochronicles.com/2012/01/new-reports-of-ufo-activity-near-fe.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theufochronicles.com">[theufochronicles.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theufochronicles.com</span><span class="citation-popover-title">New Reports of UFO Activity Near F.E</span><span class="citation-popover-snippet">Warren AFB&#x27;s...5 Jan 2012 — Several UFOs Simultaneously Hover Above F.E. · Eight UFOs Hover Above F.E. · A Cigar-Shaped UFO Frightens US...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/pdfs/missiles.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesREMARKABLE REPORTS FROM THE MISSILE FIELDOctober 5, 2008 — by RRL Hastings · 2008 — Concerning UFOs&#x27; supposed nonth...</span><span class="citation-popover-meta">Published: October 5, 2008</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OSMSKs7lW_0" title="Documentary | UFOs and Nukes: The Secret Link Revealed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OSMSKs7lW_0" target="_blank" rel="noopener noreferrer">Documentary | UFOs and Nukes: The Secret Link Revealed</a></p><p class="youtube-embed-meta">Channel: The Disclosure Process &middot; Views: 10.2K &middot; Uploaded: July 2023 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OSMSKs7lW_0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OSMSKs7lW_0">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uv-dH7g0x34" title="Nuclear Weapons and UFOs with Robert Hastings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uv-dH7g0x34" target="_blank" rel="noopener noreferrer">Nuclear Weapons and UFOs with Robert Hastings</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 28.1K &middot; Uploaded: June 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uv-dH7g0x34" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uv-dH7g0x34">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -429,7 +422,7 @@ For modern readers, the most balanced conclusion is that the 1965 sightings are 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -439,111 +432,36 @@ For modern readers, the most balanced conclusion is that the 1965 sightings are 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-the-1965-warren-sightings-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-the-1965-warren-sightings-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-the-1965-warren-sightings-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-the-1965-warren-sightings-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-the-1965-warren-sightings-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-the-1965-warren-sightings-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-the-1965-warren-sightings-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-the-1965-warren-sightings-unresolved-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -551,15 +469,15 @@ For modern readers, the most balanced conclusion is that the 1965 sightings are 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-the-1965-warren-sightings-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-the-1965-warren-sightings-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-the-1965-warren-sightings-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-the-1965-warren-sightings-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-the-1965-warren-sightings-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-the-1965-warren-sightings-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-the-1965-warren-sightings-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-the-1965-warren-sightings-unresolved-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -567,15 +485,15 @@ For modern readers, the most balanced conclusion is that the 1965 sightings are 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-the-1965-warren-sightings-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-the-1965-warren-sightings-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-the-1965-warren-sightings-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-the-1965-warren-sightings-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-the-1965-warren-sightings-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-the-1965-warren-sightings-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-the-1965-warren-sightings-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-the-1965-warren-sightings-unresolved-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -583,15 +501,15 @@ For modern readers, the most balanced conclusion is that the 1965 sightings are 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-the-1965-warren-sightings-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-the-1965-warren-sightings-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-the-1965-warren-sightings-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-the-1965-warren-sightings-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-the-1965-warren-sightings-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-the-1965-warren-sightings-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-the-1965-warren-sightings-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-the-1965-warren-sightings-unresolved-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -599,7 +517,7 @@ For modern readers, the most balanced conclusion is that the 1965 sightings are 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1965-sightings-what-makes-the-1965-warren-sightings-unresolved-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-the-1965-warren-sightings-unresolved-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-the-1965-warren-sightings-unresolved-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -676,17 +594,31 @@ For modern readers, the most balanced conclusion is that the 1965 sightings are 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -699,42 +631,73 @@ For modern readers, the most balanced conclusion is that the 1965 sightings are 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -749,12 +712,17 @@ For modern readers, the most balanced conclusion is that the 1965 sightings are 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -765,120 +733,120 @@ For modern readers, the most balanced conclusion is that the 1965 sightings are 
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Fact Sheet on UFOs and Project BLUE BOOK; Reference... Base, whose personnel no longer receive, document, or investigate UFO...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: theufochronicles.com  
    Title: New Reports of UFO Activity Near F.E  
-   Link: [https://www.theufochronicles.com/2012/01/new-reports-of-ufo-activity-near-fe.html](https://www.theufochronicles.com/2012/01/new-reports-of-ufo-activity-near-fe.html)  
+   Link: <a href="https://www.theufochronicles.com/2012/01/new-reports-of-ufo-activity-near-fe.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2012/01/new-reports-of-ufo-activity-near-fe.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Warren AFB&#x27;s...5 Jan 2012 — Several UFOs Simultaneously Hover Above F.E. · Eight UFOs Hover Above F.E. · A Cigar-Shaped UFO Frightens US...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: rr0.org  
    Title: Warren 1965  
-   Link: [https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/](https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RR0F.E. Warren AFB, Wyoming (1965)10 May 2025 — Warren Air Force Base reports (Site B-4 3:17 A.M.) –A UFO 90 miles east of Cheyenne at a...</p></details>
+   Link: <a href="https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>F.E. Warren AFB, Wyoming (1965)10 May 2025 — Warren Air Force Base reports (Site B-4 3:17 A.M.) –A UFO 90 miles east of Cheyenne at a...</p></details>
    Published: May 2025  
 
 4. <a id="endnote-4"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: dl.tufts.edu  
-   Link: [https://dl.tufts.edu/downloads/vx021r83g?filename=5x21ts72h.pdf](https://dl.tufts.edu/downloads/vx021r83g?filename=5x21ts72h.pdf)  
+   Link: <a href="https://dl.tufts.edu/downloads/vx021r83g?filename=5x21ts72h.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dl.tufts.edu/downloads/vx021r83g?filename=5x21ts72h.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>McDowell 1October 23, 2012 — 8 Dec 2011 — UFO sightings are especially prone to schema-induced falsifications. Because most of the incide...</p></details>
    Published: October 23, 2012  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Malmstrom_UFO_incident](https://en.wikipedia.org/wiki/Malmstrom_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: UFOs & Nukes  
-   Link: [http://www.youtube.com/watch?v=1CjOHiEmGTQ](http://www.youtube.com/watch?v=1CjOHiEmGTQ)  
+   Link: <a href="http://www.youtube.com/watch?v=1CjOHiEmGTQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1CjOHiEmGTQ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Documentary | UFOs and Nukes: The Secret Link Revealed...</p></details>
    Published: September 2010  
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Documentary | UFOs and Nukes: The Secret Link Revealed  
-   Link: [http://www.youtube.com/watch?v=OSMSKs7lW_0](http://www.youtube.com/watch?v=OSMSKs7lW_0)  
+   Link: <a href="http://www.youtube.com/watch?v=OSMSKs7lW_0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=OSMSKs7lW_0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Weapons and UFOs with Robert Hastings...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/pdfs/missiles.pdf](https://cufos.org/PDFs/pdfs/missiles.pdf)  
+   Link: <a href="https://cufos.org/PDFs/pdfs/missiles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/missiles.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesREMARKABLE REPORTS FROM THE MISSILE FIELDOctober 5, 2008 — by RRL Hastings · 2008 — Concerning UFOs&#x27; supposed nonth...</p></details>
    Published: October 5, 2008  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=67710](https://nuforc.org/sighting/?id=67710)  
+   Link: <a href="https://nuforc.org/sighting/?id=67710" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=67710</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 6771010 Jan 2009 — Warren Air Force Base reports (Site B-4 3:17 A.M.) - A UFO 90 miles east of Cheyenne at a high rat...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book, 701 remained &quot;unidentified.&quot; The decision to discontinue UFO investigations was based on an...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/mech.eng.world/posts/a-former-us-air-force-officer-has-come-forward-with-claims-that-unidentified-fly/1385939813565387/](https://www.facebook.com/mech.eng.world/posts/a-former-us-air-force-officer-has-come-forward-with-claims-that-unidentified-fly/1385939813565387/)  
+   Link: <a href="https://www.facebook.com/mech.eng.world/posts/a-former-us-air-force-officer-has-come-forward-with-claims-that-unidentified-fly/1385939813565387/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mech.eng.world/posts/a-former-us-air-force-officer-has-come-forward-with-claims-that-unidentified-fly/1385939813565387/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A former U.S. Air Force officer has come forward with...UFOs interact with nuclear missile system. سليل رشيد ▻ Area Fifty- Human: UFO/UA...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: wyominghistoryday.org  
-   Link: [https://www.wyominghistoryday.org/theme-topics/unidentified-flying-objects](https://www.wyominghistoryday.org/theme-topics/unidentified-flying-objects)  
+   Link: <a href="https://www.wyominghistoryday.org/theme-topics/unidentified-flying-objects" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/theme-topics/unidentified-flying-objects</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsReligious leaders like Assemblies of God Pastor Orval Lee Jaggers incorporated aliens and UFOs into their reli...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/298425490/UFO-Sightings-at-ICBM-Sites-and-Nuclear-Weapons-Storage-Areas-Robert-Hastings](https://www.scribd.com/document/298425490/UFO-Sightings-at-ICBM-Sites-and-Nuclear-Weapons-Storage-Areas-Robert-Hastings)  
+   Link: <a href="https://www.scribd.com/document/298425490/UFO-Sightings-at-ICBM-Sites-and-Nuclear-Weapons-Storage-Areas-Robert-Hastings" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/298425490/UFO-Sightings-at-ICBM-Sites-and-Nuclear-Weapons-Storage-Areas-Robert-Hastings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9. (Note the reference to the UFO having a disc or saucer shape. Several more log entries from. November 9th and 10th confirm that UFOs...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ryan-sprague51.medium.com  
    Title: the ufo incident over [f e warren](&#123;&#123; 'f-e-warren/' | relative_url &#125;&#125;) air force base 29e1afe34948  
-   Link: [https://ryan-sprague51.medium.com/the-ufo-incident-over-f-e-warren-air-force-base-29e1afe34948](https://ryan-sprague51.medium.com/the-ufo-incident-over-f-e-warren-air-force-base-29e1afe34948)  
+   Link: <a href="https://ryan-sprague51.medium.com/the-ufo-incident-over-f-e-warren-air-force-base-29e1afe34948" target="_blank" rel="noopener noreferrer nofollow">https://ryan-sprague51.medium.com/the-ufo-incident-over-f-e-warren-air-force-base-29e1afe34948</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Incident over F.E. Warren Air Force BaseThe History of UFOs and Nukes. The 2010 F.E. Warren incident is not an isolated case when it...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
    Title: list of Incidents at nuclear facilities involving UFOs  
-   Link: [https://www.reddit.com/r/aliens/comments/16lbl43/list_of_incidents_at_nuclear_facilities_involving/](https://www.reddit.com/r/aliens/comments/16lbl43/list_of_incidents_at_nuclear_facilities_involving/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/16lbl43/list_of_incidents_at_nuclear_facilities_involving/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/16lbl43/list_of_incidents_at_nuclear_facilities_involving/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Add...2010: Several Minuteman nuclear missiles at F.E. Warren Air Force Base in Wyoming temporarily lost communication after a large cig...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: kingfm.com  
    Title: ufo shows highlight warren afb encounter over cheyenne  
-   Link: [https://kingfm.com/ufo-shows-highlight-warren-afb-encounter-over-cheyenne/](https://kingfm.com/ufo-shows-highlight-warren-afb-encounter-over-cheyenne/)  
+   Link: <a href="https://kingfm.com/ufo-shows-highlight-warren-afb-encounter-over-cheyenne/" target="_blank" rel="noopener noreferrer nofollow">https://kingfm.com/ufo-shows-highlight-warren-afb-encounter-over-cheyenne/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Shows Highlight Warren AFB Encounter Over...9 Sept 2014 — Witnesses say a large cigar-shaped UFO was sighted over the base and durin...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: cowboystatedaily.com  
-   Link: [https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-cheyenne-man-still-trying-to-figure-out-what-he-saw/](https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-cheyenne-man-still-trying-to-figure-out-what-he-saw/)  
+   Link: <a href="https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-cheyenne-man-still-trying-to-figure-out-what-he-saw/" target="_blank" rel="noopener noreferrer nofollow">https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-cheyenne-man-still-trying-to-figure-out-what-he-saw/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>35 Years After UFO Encounter, Cheyenne Man Still Trying...16 May 2026 — The son and father kept their UFO sighting to themselves for man...</p></details>
    Published: May 2026  
 
 21. <a id="endnote-21"></a>
    Source: uk.forceswarrecords.com  
-   Link: [https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969](https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969)  
+   Link: <a href="https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://uk.forceswarrecords.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>forceswarrecords.comUS, Project Blue Book - UFO Investigations, 1947-196926 Feb 2007 — The files contain the information the Air Force ga...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nevada-b93191-index/
 description: Focused pages that expand on Why Nevada Became UFO Country.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Nevada_b93191
 parent_title: Why Nevada Became UFO Country

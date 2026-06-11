@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /hartford-1948-case/
 nav_short_title: Meteor theory
 title: Was the Hartford UFO really a meteor?
-title_full: Was the Hartford UFO really a meteor? | Hartford 1948 Case
+title_full: Was the Hartford UFO really a meteor?
 display_title_short: Meteor theory
 display_title: Meteor theory
 heading_title: Was the Hartford UFO really a meteor?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:07:53'
-parent_title: 'Hartford 1948: Military Pilot UFO Encounter | Connecticut UFOs'
+parent_title: 'Hartford 1948: Military Pilot UFO Encounter'
 parent_permalink: /hartford-1948-case/
 parent_nav_short_title: Hartford 1948 Case
 parent_heading_title: 'Hartford 1948: Military Pilot UFO Encounter'
@@ -252,9 +252,8 @@ image: /assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5_hartford_me
 
 One of the strongest sceptical explanations for the 1948 Hartford military pilot sighting is that the object was not an unknown craft at all, but a bright meteor or fireball entering the atmosphere. The report’s own details — a fast descending motion, strong colour contrasts, a steep angle, and the absence of visible exhaust — fit several characteristics commonly associated with fireballs seen at high altitude. In the late 1940s, Air Force investigators repeatedly compared “flying disc” reports with meteors, balloons, aircraft lights, and optical effects as they tried to separate genuine unknowns from misidentifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span>
 
-
-<img src="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5_hartford_meteor_theo_b35b37-Illustration-1-light.svg" | relative_url }}" alt="Meteor theory illustration 1" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5_hartford_meteor_theo_b35b37-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5_hartford_meteor_theo_b35b37-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For the Hartford case specifically, the meteor theory matters because it changes how the sighting is interpreted within [Connecticut]({{ 'connecticut-ufos-from-colonial-legends/' | relative_url }}) UFO history. If the pilots witnessed a natural atmospheric event, the report becomes less a mystery about advanced craft and more an example of how even trained observers could briefly misinterpret unusual celestial phenomena during the intense early flying-saucer era of 1947–48.
+<img src="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5_hartford_meteor_theo_b35b37-Illustration-1-dark.svg" | relative_url }}" alt="Meteor theory illustration 1" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5_hartford_meteor_theo_b35b37-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5_hartford_meteor_theo_b35b37-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+For the Hartford case specifically, the meteor theory matters because it changes how the sighting is interpreted within Connecticut UFO history. If the pilots witnessed a natural atmospheric event, the report becomes less a mystery about advanced craft and more an example of how even trained observers could briefly misinterpret unusual celestial phenomena during the intense early flying-saucer era of 1947–48.
 
 ## Which parts of the sighting fit a meteor or fireball?
 
@@ -278,7 +277,6 @@ The pilots reportedly saw no exhaust plume or flame trail suggesting ordinary ai
 
 This point is especially relevant because the sighting occurred in 1948, when jet aircraft were still relatively uncommon in civilian skies and unusual aerial lights could easily seem unfamiliar. A rapidly moving object without visible wings or exhaust naturally encouraged “disc” interpretations during the first major UFO wave.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YpwGsbnJ4Ns" title="Experts explain &#x27;fireball&#x27; seen over Upstate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YpwGsbnJ4Ns" target="_blank" rel="noopener noreferrer">Experts explain &#x27;fireball&#x27; seen over Upstate</a></p><p class="youtube-embed-meta">Channel: FOX Carolina News &middot; Views: 41.2K &middot; Uploaded: June 2025 &middot; Length: 3 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YpwGsbnJ4Ns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YpwGsbnJ4Ns">Open on YouTube</a></p></div></div></div>
 
 ### The apparent speed
@@ -297,7 +295,6 @@ A major problem is that the Hartford report survives mostly in abbreviated catal
 
 That means several potentially important details are missing:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The exact duration of the sighting
@@ -311,8 +308,7 @@ That means several potentially important details are missing:
 
 Without those details, the meteor theory remains informed inference rather than definitive resolution.
 
-
-<img src="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5_hartford_meteor_theo_b35b37-Illustration-2-light.svg" | relative_url }}" alt="Meteor theory illustration 2" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5_hartford_meteor_theo_b35b37-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5_hartford_meteor_theo_b35b37-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5_hartford_meteor_theo_b35b37-Illustration-2-dark.svg" | relative_url }}" alt="Meteor theory illustration 2" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5_hartford_meteor_theo_b35b37-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5_hartford_meteor_theo_b35b37-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The “disc” description is harder to assess
 
 One of the more debated elements is the pilots’ description of a disc-shaped object. Meteors are normally seen as streaks or glowing points rather than sharply defined discs. However, perception at distance can be deceptive, particularly from an aircraft cockpit where glare, cloud scattering, and motion cues distort shape.
@@ -327,7 +323,6 @@ Yet aviation experience does not make observers immune to brief misidentificatio
 
 The Hartford sighting lasted only briefly and involved a rapidly moving luminous object at distance — exactly the sort of event where even skilled observers may struggle to judge scale and nature accurately.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Fj6jaFzzZGc" title="The fireball Ontarians saw in the sky was actually a meteor | Your Morning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Fj6jaFzzZGc" target="_blank" rel="noopener noreferrer">The fireball Ontarians saw in the sky was actually a meteor | Your Morning</a></p><p class="youtube-embed-meta">Channel: CTV Your Morning &middot; Views: 516 &middot; Uploaded: July 2019 &middot; Length: 2 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Fj6jaFzzZGc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Fj6jaFzzZGc">Open on YouTube</a></p></div></div></div>
 
 ## How meteor explanations shaped early UFO investigations
@@ -337,7 +332,6 @@ The Hartford report appeared during a period when the newly formed U.S. Air Forc
 Projects Sign, Grudge, and later Blue Book all developed a strong tendency to compare UFO reports against ordinary explanations first, especially meteors and astronomical phenomena. Official reviews eventually concluded that many sightings stemmed from natural causes or mistaken identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span>
 
 This broader historical context matters because the Hartford case contains several features investigators routinely associated with meteor reports:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -353,14 +347,12 @@ This broader historical context matters because the Hartford case contains sever
 
 Comparable debates appeared in other famous 1948 UFO incidents. The highly publicised Mantell case, for example, was later associated by investigators with a misidentified Skyhook balloon rather than an exotic craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mantell UFO incident</span><span class="citation-popover-snippet">Mantell UFO incident</span></span></span> The pattern illustrates how early UFO reports were frequently reinterpreted once more conventional explanations became available.
 
-
-<img src="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5_hartford_meteor_theo_b35b37-Illustration-3-light.svg" | relative_url }}" alt="Meteor theory illustration 3" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5_hartford_meteor_theo_b35b37-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5_hartford_meteor_theo_b35b37-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5_hartford_meteor_theo_b35b37-Illustration-3-dark.svg" | relative_url }}" alt="Meteor theory illustration 3" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5_hartford_meteor_theo_b35b37-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hartford_1948_bluebo_e5a4e5_hartford_meteor_theo_b35b37-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How a meteor explanation changes the Hartford case
 
 If the object was a meteor, the Hartford sighting becomes less important as evidence for an unexplained craft but more significant as a historical example of the atmosphere surrounding early UFO reporting.
 
 The case would still matter within Connecticut’s UFO history for several reasons:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -375,9 +367,7 @@ Importantly, the meteor theory does not prove the pilots were careless or dishon
 
 Within the Connecticut UFO record, the Hartford incident therefore occupies an interesting middle ground. It is neither a clearly solved case nor one with strong enough evidence to stand as a compelling unexplained encounter. The meteor explanation remains persuasive because it matches several central features of the report, but the surviving documentation is too thin to settle the matter conclusively.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l6WEIR1qqFU" title="Fireball/Meteor 1/11/2026 @5:35PM As Seen From Chestertown, NY!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l6WEIR1qqFU" target="_blank" rel="noopener noreferrer">Fireball/Meteor 1/11/2026 @5:35PM As Seen From Chestertown, NY!</a></p><p class="youtube-embed-meta">Channel: 🤍 Music &middot; Views: 281 &middot; Uploaded: January 2026 &middot; Length: 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l6WEIR1qqFU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l6WEIR1qqFU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -465,7 +455,7 @@ Within the Connecticut UFO record, the Hartford incident therefore occupies an i
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -475,111 +465,36 @@ Within the Connecticut UFO record, the Hartford incident therefore occupies an i
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hartford-ufo-really-a-meteor-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="was-the-hartford-ufo-really-a-meteor-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Painting Meteor Shower Fram Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/3DAAAeSwpmFp1Tcp/s-l225.jpg" alt="Listing image for Vintage Painting Meteor Shower Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hartford-ufo-really-a-meteor-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="was-the-hartford-ufo-really-a-meteor-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Painting Meteor Shower Fram Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hartford-ufo-really-a-meteor-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="was-the-hartford-ufo-really-a-meteor-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hartford-ufo-really-a-meteor-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="was-the-hartford-ufo-really-a-meteor-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -587,15 +502,15 @@ Within the Connecticut UFO record, the Hartford incident therefore occupies an i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hartford-ufo-really-a-meteor-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="was-the-hartford-ufo-really-a-meteor-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for METEOR POSTER ORIGINAL 41.3 x54cm french 1979"><img src="https://i.ebayimg.com/images/g/z1IAAOSw3-Fj5qmH/s-l225.jpg" alt="Listing image for METEOR POSTER ORIGINAL 41.3 x54cm french 1979" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hartford-ufo-really-a-meteor-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="was-the-hartford-ufo-really-a-meteor-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">METEOR POSTER ORIGINAL 41.3 x54cm french 1979</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hartford-ufo-really-a-meteor-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="was-the-hartford-ufo-really-a-meteor-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hartford-ufo-really-a-meteor-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="was-the-hartford-ufo-really-a-meteor-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -603,15 +518,15 @@ Within the Connecticut UFO record, the Hartford incident therefore occupies an i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hartford-ufo-really-a-meteor-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="was-the-hartford-ufo-really-a-meteor-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for METEOR (1979) Thai poster SEAN CONNERY, NATALIE WOOD, HENRY FONDA"><img src="https://i.ebayimg.com/images/g/D6wAAeSw-JdpdmRf/s-l225.jpg" alt="Listing image for METEOR (1979) Thai poster SEAN CONNERY, NATALIE WOOD, HENRY FONDA" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hartford-ufo-really-a-meteor-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="was-the-hartford-ufo-really-a-meteor-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">METEOR (1979) Thai poster SEAN CONNERY, NATALIE WOOD, HENRY FONDA</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hartford-ufo-really-a-meteor-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="was-the-hartford-ufo-really-a-meteor-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hartford-ufo-really-a-meteor-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="was-the-hartford-ufo-really-a-meteor-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -619,15 +534,15 @@ Within the Connecticut UFO record, the Hartford incident therefore occupies an i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hartford-ufo-really-a-meteor-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="was-the-hartford-ufo-really-a-meteor-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meteor 16&quot; x 12&quot; Photo Repro Film Poster"><img src="https://i.ebayimg.com/images/g/ccEAAOSwAP5lwDJT/s-l225.jpg" alt="Listing image for Meteor 16&quot; x 12&quot; Photo Repro Film Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hartford-ufo-really-a-meteor-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="was-the-hartford-ufo-really-a-meteor-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">Meteor 16&quot; x 12&quot; Photo Repro Film Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hartford-ufo-really-a-meteor-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="was-the-hartford-ufo-really-a-meteor-meteor-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteor poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteor poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hartford-ufo-really-a-meteor-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="was-the-hartford-ufo-really-a-meteor-meteor-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -635,7 +550,7 @@ Within the Connecticut UFO record, the Hartford incident therefore occupies an i
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-theory-was-the-hartford-ufo-really-a-meteor-connecticut-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteor+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hartford-ufo-really-a-meteor-meteor-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteor poster" data-ebay-reference="was-the-hartford-ufo-really-a-meteor-meteor-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -712,17 +627,31 @@ Within the Connecticut UFO record, the Hartford incident therefore occupies an i
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -735,42 +664,73 @@ Within the Connecticut UFO record, the Hartford incident therefore occupies an i
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -785,12 +745,17 @@ Within the Connecticut UFO record, the Hartford incident therefore occupies an i
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -801,101 +766,101 @@ Within the Connecticut UFO record, the Hartford incident therefore occupies an i
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 2. <a id="endnote-2"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: [https://www.history.com/articles/project-blue-book](https://www.history.com/articles/project-blue-book)  
+   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien, Definition &amp; Files22 Feb 2010 — Fully 90 percent of the sightings, according to the Robertson Panel, could be attributed to astrol...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: upload.wikimedia.org  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf](https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/54/Project_Blue_Book%2C_BBA-PBSR10-300.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — Project Blue Book, from March 1952 to Decem...</p></details>
    Published: March 1952  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Mantell UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Mantell_UFO_incident](https://en.wikipedia.org/wiki/Mantell_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mantell_UFO_incident</a>  
 
 6. <a id="endnote-6"></a>
    Source: dvidshub.net  
    Title: questions remain 75 years after mysterious fort knox ufo incident downed pilot  
-   Link: [https://www.dvidshub.net/news/436733/questions-remain-75-years-after-mysterious-fort-knox-ufo-incident-downed-pilot](https://www.dvidshub.net/news/436733/questions-remain-75-years-after-mysterious-fort-knox-ufo-incident-downed-pilot)  
+   Link: <a href="https://www.dvidshub.net/news/436733/questions-remain-75-years-after-mysterious-fort-knox-ufo-incident-downed-pilot" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/436733/questions-remain-75-years-after-mysterious-fort-knox-ufo-incident-downed-pilot</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Questions remain 75 years after mysterious Fort Knox UFO...13 Jan 2023 — Reporters around the world fanned the flames of the UFO theory...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: amsmeteors.org  
-   Link: [https://amsmeteors.org/2013/01/new-england-fireball-january-23-2013/](https://amsmeteors.org/2013/01/new-england-fireball-january-23-2013/)  
+   Link: <a href="https://amsmeteors.org/2013/01/new-england-fireball-january-23-2013/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/2013/01/new-england-fireball-january-23-2013/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyNew England Fireball January 23, 201324 Jan 2013 — A meteor the size of a softball can produce light equivalent to...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force analyzed UFO sightings and any security threat they posed; most notably through Project Blue Book, which launched in...Read more...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/NEWILDDOLPHINMONITORINGPROJECT/posts/4328630077388615/](https://www.facebook.com/groups/NEWILDDOLPHINMONITORINGPROJECT/posts/4328630077388615/)  
+   Link: <a href="https://www.facebook.com/groups/NEWILDDOLPHINMONITORINGPROJECT/posts/4328630077388615/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/NEWILDDOLPHINMONITORINGPROJECT/posts/4328630077388615/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball meteor sighting in the morningJust curious if anyone else saw that fireball meteor going West to East about 9PM last Saturday ni...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: thehistoryreader.com  
-   Link: [https://www.thehistoryreader.com/military-history/ufo-events/](https://www.thehistoryreader.com/military-history/ufo-events/)  
+   Link: <a href="https://www.thehistoryreader.com/military-history/ufo-events/" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoryreader.com/military-history/ufo-events/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Two Critical UFO Events in HistoryThe pilot advised the crew what the flight deck had observed and it was then that #2 advised of his sig...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: esd.whs.mil  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue BookIn the course of accomplishing these objectives, Project Blue Book strives to identify and explain all UFO sightings reported to...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ukfall.org.uk  
-   Link: [https://ukfall.org.uk/the-science/](https://ukfall.org.uk/the-science/)  
+   Link: <a href="https://ukfall.org.uk/the-science/" target="_blank" rel="noopener noreferrer nofollow">https://ukfall.org.uk/the-science/</a>  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: wotr onthisdayinaviationhistory in 1948 ufos get real or so we thoughtin the lat  
-   Link: [https://www.facebook.com/wingsmuseum/posts/wotr-onthisdayinaviationhistory-in-1948-ufos-get-real-or-so-we-thoughtin-the-lat/10157027151190678/](https://www.facebook.com/wingsmuseum/posts/wotr-onthisdayinaviationhistory-in-1948-ufos-get-real-or-so-we-thoughtin-the-lat/10157027151190678/)  
+   Link: <a href="https://www.facebook.com/wingsmuseum/posts/wotr-onthisdayinaviationhistory-in-1948-ufos-get-real-or-so-we-thoughtin-the-lat/10157027151190678/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wingsmuseum/posts/wotr-onthisdayinaviationhistory-in-1948-ufos-get-real-or-so-we-thoughtin-the-lat/10157027151190678/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#WOTR #Onthisdayinaviationhistory: In 1948, UFOs...UFO: The Inside Story of the US Government&#x27;s Search for Alien Life Here—and Out There...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: the tragic ufo incident of 1948 captain mantells last flightexplore the mysterio  
-   Link: [https://www.facebook.com/therealbrandolorian/videos/the-tragic-ufo-incident-of-1948-captain-mantells-last-flightexplore-the-mysterio/591502590177626/](https://www.facebook.com/therealbrandolorian/videos/the-tragic-ufo-incident-of-1948-captain-mantells-last-flightexplore-the-mysterio/591502590177626/)  
+   Link: <a href="https://www.facebook.com/therealbrandolorian/videos/the-tragic-ufo-incident-of-1948-captain-mantells-last-flightexplore-the-mysterio/591502590177626/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/therealbrandolorian/videos/the-tragic-ufo-incident-of-1948-captain-mantells-last-flightexplore-the-mysterio/591502590177626/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tragic UFO Incident of 1948 Captain Mantell&#x27;s Last Flight...Discover the chilling details behind one of history&#x27;s most infamous UFO...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=YpwGsbnJ4Ns](https://www.youtube.com/watch?v=YpwGsbnJ4Ns)  
+   Link: <a href="https://www.youtube.com/watch?v=YpwGsbnJ4Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YpwGsbnJ4Ns</a>  
 
 17. <a id="endnote-17"></a>
    Source: thetimes.com  
    Title: “It was definitely a fireball, but of course I am not ruling out the alien  
-   Link: [https://www.thetimes.com/world/ireland-world/article/ufo-seen-in-night-sky-was-meteorite-says-astronomer-6m7flbmqg](https://www.thetimes.com/world/ireland-world/article/ufo-seen-in-night-sky-was-meteorite-says-astronomer-6m7flbmqg)  
+   Link: <a href="https://www.thetimes.com/world/ireland-world/article/ufo-seen-in-night-sky-was-meteorite-says-astronomer-6m7flbmqg" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/world/ireland-world/article/ufo-seen-in-night-sky-was-meteorite-says-astronomer-6m7flbmqg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO seen in night sky was meteorite, says astronomer13 Nov 2018 — Mr Moore said that the meteorite had most likely fallen into the sea...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/](https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/)  
+   Link: <a href="https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wilphotographer/posts/a-fireball-was-seen-and-caught-on-camera-early-hours-of-this-morning-with-witnes/1489144646164035/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>es spotting the meteor/ possible space debris burning up in our...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/](https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, balloons, weather phenomena, astronomical objects (planets...Read more...</p></details>

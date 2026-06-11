@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /north-carolina-cd988f-modern-ufo/
 description: Focused pages that expand on Modern Reports.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: North_Carolina_cd988f_modern_ufo_reports_n_d137e5
-parent_title: Modern Reports | What Really Happened in North Carolina's UFO...
+parent_title: Modern Reports
 parent_nav_short_title: Modern Reports
 parent_permalink: /modern-reports-6a42f5/
 ---

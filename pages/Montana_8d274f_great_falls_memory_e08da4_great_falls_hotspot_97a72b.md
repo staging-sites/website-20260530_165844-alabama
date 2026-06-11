@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /great-falls/
 nav_short_title: Hotspot Claims
 title: Is Great Falls Really a UFO Hotspot?
-title_full: Is Great Falls Really a UFO Hotspot? | Great Falls
+title_full: Is Great Falls Really a UFO Hotspot?
 display_title_short: Hotspot Claims
 display_title: Hotspot Claims
 heading_title: Is Great Falls Really a UFO Hotspot?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:43:24'
-parent_title: Why Great Falls Became UFO Country | Montana UFOs
+parent_title: Why Great Falls Became UFO Country
 parent_permalink: /great-falls/
 parent_nav_short_title: Great Falls
 parent_heading_title: Why Great Falls Became UFO Country
@@ -252,13 +252,12 @@ image: /assets/images/Montana_8d274f_great_falls_memory_e08da4_great_falls_hotsp
 
 [Great Falls]({{ 'great-falls/' | relative_url }}) is often described as a UFO “hotspot”, with repeated claims that more than 100 sightings have been reported in and around the city since the famous 1950 [Mariana film]({{ 'mariana-film/' | relative_url }}). That statistic appears regularly in museum material, local media coverage, baseball branding, UFO histories, and online summaries. Yet the claim tells a story about local memory as much as it does about unexplained objects in the sky. The strongest evidence for Great Falls as a UFO location remains concentrated around a small number of famous cases, while the larger hotspot narrative depends on decades of accumulated reports of varying quality. The interesting question is not simply whether many people reported unusual lights. It is why Great Falls became a place where later sightings were more likely to be noticed, discussed, recorded, and connected to an existing UFO identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatfallshistorymuseum.org">[The History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatfallshistorymuseum.org</span><span class="citation-popover-snippet">The History MuseumMariana UFO Incident: Great Falls&#x27; Visiting Voyagers1 Sept 2025 — Great Falls has had over 100 reported UFO sightings...</span></span></span>
 
-
-<img src="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_great_falls_hotspot_97a72b-Illustration-1-light.svg" | relative_url }}" alt="Hotspot Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_great_falls_hotspot_97a72b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_great_falls_hotspot_97a72b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_great_falls_hotspot_97a72b-Illustration-1-dark.svg" | relative_url }}" alt="Hotspot Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_great_falls_hotspot_97a72b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_great_falls_hotspot_97a72b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the hotspot claim actually rests on
 
 The most commonly repeated version of the hotspot argument is straightforward: after Nick Mariana filmed two bright objects over Great Falls in August 1950, reports continued to emerge for decades, eventually producing more than 100 local sightings. That figure appears in multiple modern retellings and promotional descriptions connected to the city's UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatfallshistorymuseum.org">[The History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatfallshistorymuseum.org</span><span class="citation-popover-snippet">The History MuseumMariana UFO Incident: Great Falls&#x27; Visiting Voyagers1 Sept 2025 — Great Falls has had over 100 reported UFO sightings...</span></span></span>
 
-The difficulty is that the number itself does not automatically measure unexplained phenomena. UFO databases typically collect reports rather than confirmed mysteries. A report may involve an unknown light, an aircraft seen under unusual conditions, a satellite, a meteor, a misidentified military activity, or an event that cannot be reconstructed because too little information exists. The National UFO Reporting Center database contains [Montana]({{ 'why-montana-became-a-ufo-landmark/' | relative_url }}) reports across many decades, but inclusion in a reporting archive does not mean a case has been verified as extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/subndx/?id=lMT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State MTFile a UFO Report · Donate · About Us · Toggle website search... Copyright 2026 National UFO Reporting Center...</span></span></span>
+The difficulty is that the number itself does not automatically measure unexplained phenomena. UFO databases typically collect reports rather than confirmed mysteries. A report may involve an unknown light, an aircraft seen under unusual conditions, a satellite, a meteor, a misidentified military activity, or an event that cannot be reconstructed because too little information exists. The National UFO Reporting Center database contains Montana reports across many decades, but inclusion in a reporting archive does not mean a case has been verified as extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/subndx/?id=lMT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State MTFile a UFO Report · Donate · About Us · Toggle website search... Copyright 2026 National UFO Reporting Center...</span></span></span>
 
 This distinction matters because Great Falls occupies a different position from places that experienced a single concentrated wave of sightings over a short period. The city's reputation largely comes from one famous filmed incident and the accumulation of later reports around that reputation. The hotspot label therefore combines two separate claims:
 
@@ -266,7 +265,6 @@ This distinction matters because Great Falls occupies a different position from 
 * Many sightings represented genuinely unexplained events.
 
 The first claim is relatively easy to support. The second is much harder.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cFJehKkZOVU" title="UFOs Revisited: The Malmstrom Incident | Episode 6 | When UFOs Shut Down Nuclear Missiles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cFJehKkZOVU" target="_blank" rel="noopener noreferrer">UFOs Revisited: The Malmstrom Incident | Episode 6 | When UFOs Shut Down Nuclear Missiles</a></p><p class="youtube-embed-meta">Channel: Free4All &middot; Views: 488 &middot; Uploaded: October 2025 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cFJehKkZOVU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cFJehKkZOVU">Open on YouTube</a></p></div></div></div>
 
@@ -290,8 +288,7 @@ The story entered civic history through newspapers, museum collections, local ex
 
 The History Museum in Great Falls has also preserved newspaper clippings and archival material related to the incident, helping keep the story visible to later generations. As a result, people encounter the UFO narrative as part of local history, not only through UFO books or television programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatfallshistorymuseum.org">[The History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatfallshistorymuseum.org</span><span class="citation-popover-snippet">The History MuseumMariana UFO Incident: Great Falls&#x27; Visiting Voyagers1 Sept 2025 — Great Falls has had over 100 reported UFO sightings...</span></span></span>
 
-
-<img src="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_great_falls_hotspot_97a72b-Illustration-2-light.svg" | relative_url }}" alt="Hotspot Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_great_falls_hotspot_97a72b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_great_falls_hotspot_97a72b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_great_falls_hotspot_97a72b-Illustration-2-dark.svg" | relative_url }}" alt="Hotspot Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_great_falls_hotspot_97a72b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_great_falls_hotspot_97a72b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why reports are not the same as verified mysteries
 
 One reason hotspot claims can become misleading is that reporting frequency and evidential strength are different things.
@@ -301,7 +298,6 @@ The Mariana film itself remains disputed. Over the decades, [explanations]({{ 'e
 When later Great Falls sightings are added to the city's UFO reputation, they often inherit some of the prestige of the original case. Readers may unconsciously assume that dozens of later reports possess similar evidential value. In reality, many consist only of witness testimony with little supporting documentation.
 
 Several factors complicate hotspot statistics:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -314,9 +310,7 @@ Several factors complicate hotspot statistics:
 
 These issues do not prove that reports are mistaken. They simply show why a high number of reports cannot by itself establish that a location contains an unusually high concentration of unexplained phenomena.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Lc0pfz0EUNY" title="Why are there so many UFO sightings in Montana?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Lc0pfz0EUNY" target="_blank" rel="noopener noreferrer">Why are there so many UFO sightings in Montana?</a></p><p class="youtube-embed-meta">Channel: Montana Public Radio &middot; Views: 737 &middot; Uploaded: September 2022 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Lc0pfz0EUNY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Lc0pfz0EUNY">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_great_falls_hotspot_97a72b-Illustration-3-dark.svg" | relative_url }}" alt="Hotspot Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_great_falls_hotspot_97a72b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_great_falls_hotspot_97a72b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The military backdrop and the temptation to connect cases
 
 Great Falls sits near [Malmstrom]({{ 'malmstrom/' | relative_url }}) Air Force Base, one of the most important military sites in Montana's Cold War history. Because military aircraft, missile operations, and restricted [airspace]({{ 'airspace/' | relative_url }}) have long been part of the regional landscape, UFO stories often become linked together in public memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Malmstrom UFO incident</span><span class="citation-popover-snippet">Malmstrom UFO incident</span></span></span>
@@ -327,8 +321,6 @@ For example, later discussions of UFO activity around Malmstrom missile faciliti
 
 As a result, the existence of several well-known Montana UFO stories does not automatically strengthen every Great Falls report. Sometimes local storytelling encourages unrelated incidents to merge into a single larger mythology.
 
-
-<img src="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_great_falls_hotspot_97a72b-Illustration-3-light.svg" | relative_url }}" alt="Hotspot Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_great_falls_hotspot_97a72b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f_great_falls_memory_e08da4_great_falls_hotspot_97a72b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the hotspot idea survives
 
 The persistence of the Great Falls hotspot label reveals something important about how UFO history works.
@@ -339,9 +331,7 @@ That means the hotspot claim should be read carefully. It is not strong evidence
 
 The city's reputation rests on a mixture of documented sightings, unresolved questions, repeated media attention, community storytelling, and local pride in an unusual historical episode. The more than 100 reported sightings often cited in modern accounts are therefore significant less as proof of extraordinary activity than as evidence that Great Falls learned to see itself, at least partly, through the lens of its most famous UFO story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatfallshistorymuseum.org">[The History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatfallshistorymuseum.org</span><span class="citation-popover-snippet">The History MuseumMariana UFO Incident: Great Falls&#x27; Visiting Voyagers1 Sept 2025 — Great Falls has had over 100 reported UFO sightings...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DJ2vKHj8rVM" title="The Montana Film: The First Recorded UFO Sighting in the US" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DJ2vKHj8rVM" target="_blank" rel="noopener noreferrer">The Montana Film: The First Recorded UFO Sighting in the US</a></p><p class="youtube-embed-meta">Channel: Montana Historical Society &middot; Views: 3.5K &middot; Uploaded: February 2025 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DJ2vKHj8rVM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DJ2vKHj8rVM">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Lc0pfz0EUNY" title="Why are there so many UFO sightings in Montana?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Lc0pfz0EUNY" target="_blank" rel="noopener noreferrer">Why are there so many UFO sightings in Montana?</a></p><p class="youtube-embed-meta">Channel: Montana Public Radio &middot; Views: 737 &middot; Uploaded: September 2022 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Lc0pfz0EUNY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Lc0pfz0EUNY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -429,7 +419,7 @@ The city's reputation rests on a mixture of documented sightings, unresolved que
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -439,111 +429,36 @@ The city's reputation rests on a mixture of documented sightings, unresolved que
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="https://i.ebayimg.com/images/g/pB8AAOSwX81mSmKS/s-l225.jpg" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -551,15 +466,15 @@ The city's reputation rests on a mixture of documented sightings, unresolved que
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Spaceship Canvas Picture Print Wall Art Framed 20&quot;x30&quot;"><img src="https://i.ebayimg.com/images/g/9NkAAOSwuaJmOQ-v/s-l225.jpg" alt="Listing image for Ufo Alien Spaceship Canvas Picture Print Wall Art Framed 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Spaceship Canvas Picture Print Wall Art Framed 20&quot;x30&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -567,15 +482,15 @@ The city's reputation rests on a mixture of documented sightings, unresolved que
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -583,15 +498,15 @@ The city's reputation rests on a mixture of documented sightings, unresolved que
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -599,7 +514,7 @@ The city's reputation rests on a mixture of documented sightings, unresolved que
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspot-claims-is-great-falls-really-a-ufo-hotspot-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="is-great-falls-really-a-ufo-hotspot-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -676,17 +591,31 @@ The city's reputation rests on a mixture of documented sightings, unresolved que
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -699,42 +628,73 @@ The city's reputation rests on a mixture of documented sightings, unresolved que
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -749,12 +709,17 @@ The city's reputation rests on a mixture of documented sightings, unresolved que
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -765,33 +730,33 @@ The city's reputation rests on a mixture of documented sightings, unresolved que
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Mariana UFO film  
-   Link: [https://en.wikipedia.org/wiki/Mariana_UFO_film](https://en.wikipedia.org/wiki/Mariana_UFO_film)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mariana_UFO_film" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mariana_UFO_film</a>  
 
 2. <a id="endnote-2"></a>
    Source: krtv.com  
    Title: great falls ufo legacy in focus amid pentagon document release  
-   Link: [https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release](https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release)  
+   Link: <a href="https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release" target="_blank" rel="noopener noreferrer nofollow">https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>KRTV NEWS Great FallsGreat Falls&#x27; UFO legacy in focus amid Pentagon document...13 May 2026 — The so-called Mariana film quickly became t...</p></details>
    Published: May 2026  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lMT](https://nuforc.org/subndx/?id=lMT)  
+   Link: <a href="https://nuforc.org/subndx/?id=lMT" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lMT</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State MTFile a UFO Report · Donate · About Us · Toggle website search... Copyright 2026 National UFO Reporting Center...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Malmstrom_UFO_incident](https://en.wikipedia.org/wiki/Malmstrom_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
 
 5. <a id="endnote-5"></a>
    Source: greatfallshistorymuseum.org  
-   Link: [https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers](https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers)  
+   Link: <a href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow">https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The History MuseumMariana UFO Incident: Great Falls&#x27; Visiting Voyagers1 Sept 2025 — Great Falls has had over 100 reported UFO sightings...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/mtpublicradio/videos/why-are-there-so-many-ufo-sightings-in-montana/795685314996948/](https://www.facebook.com/mtpublicradio/videos/why-are-there-so-many-ufo-sightings-in-montana/795685314996948/)  
+   Link: <a href="https://www.facebook.com/mtpublicradio/videos/why-are-there-so-many-ufo-sightings-in-montana/795685314996948/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mtpublicradio/videos/why-are-there-so-many-ufo-sightings-in-montana/795685314996948/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ast 50 years. More importantly, do you think aliens are behind...</p></details>
 
 ### Additional References
@@ -799,58 +764,58 @@ The city's reputation rests on a mixture of documented sightings, unresolved que
 7. <a id="endnote-7"></a>
    Source: commons.wikimedia.org  
    Title: File:Nick Mariana UFO Footage 1950 Great Falls Montana.webm  
-   Link: [https://commons.wikimedia.org/wiki/File%3ANick_Mariana_UFO_Footage_1950_Great_Falls_Montana.webm](https://commons.wikimedia.org/wiki/File%3ANick_Mariana_UFO_Footage_1950_Great_Falls_Montana.webm)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3ANick_Mariana_UFO_Footage_1950_Great_Falls_Montana.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ANick_Mariana_UFO_Footage_1950_Great_Falls_Montana.webm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Nick Mariana UFO Footage 1950 Great Falls Montana...English: A segment from the 1956 film UFO, which includes footage...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: stacker.com  
    Title: cities most ufo sightings montana  
-   Link: [https://stacker.com/stories/montana/cities-most-ufo-sightings-montana](https://stacker.com/stories/montana/cities-most-ufo-sightings-montana)  
+   Link: <a href="https://stacker.com/stories/montana/cities-most-ufo-sightings-montana" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/montana/cities-most-ufo-sightings-montana</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cities With the Most UFO Sightings in Montana12 May 2025 — Just two years later, in 2021, 41% of respondents said they believed at least...</p></details>
    Published: May 2025  
 
 9. <a id="endnote-9"></a>
    Source: distinctlymontana.com  
    Title: when ufos first came great falls  
-   Link: [https://www.distinctlymontana.com/when-ufos-first-came-great-falls](https://www.distinctlymontana.com/when-ufos-first-came-great-falls)  
+   Link: <a href="https://www.distinctlymontana.com/when-ufos-first-came-great-falls" target="_blank" rel="noopener noreferrer nofollow">https://www.distinctlymontana.com/when-ufos-first-came-great-falls</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>When UFOs First Came to Great Falls23 Apr 2026 — When UFOs First Came to Great Falls · Great Falls UFO · Great Falls UFO · Great Falls UF...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/](https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/)  
+   Link: <a href="https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>O history involving actual film evidence...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: mtbeyond.com  
    Title: montana ufo sightings  
-   Link: [https://mtbeyond.com/science-tech/montana-ufo-sightings/](https://mtbeyond.com/science-tech/montana-ufo-sightings/)  
+   Link: <a href="https://mtbeyond.com/science-tech/montana-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://mtbeyond.com/science-tech/montana-ufo-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 15 UFO sightings in Montana30 Apr 2025 — No one can say for sure, though the UFOs that have been spotted here seem to be interested i...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: filmthreat.com  
    Title: the bootleg files the 1950 montana ufo film  
-   Link: [https://filmthreat.com/features/the-bootleg-files-the-1950-montana-ufo-film/](https://filmthreat.com/features/the-bootleg-files-the-1950-montana-ufo-film/)  
+   Link: <a href="https://filmthreat.com/features/the-bootleg-files-the-1950-montana-ufo-film/" target="_blank" rel="noopener noreferrer nofollow">https://filmthreat.com/features/the-bootleg-files-the-1950-montana-ufo-film/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“I never heard of any &#x27;famous&#x27; film out of Montana about UFOs.” Yeah, see what I don&#x27;t know?Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: imdb.com  
    Title: Nicholas Mariana  
-   Link: [https://www.imdb.com/name/nm1319478/bio/](https://www.imdb.com/name/nm1319478/bio/)  
+   Link: <a href="https://www.imdb.com/name/nm1319478/bio/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/name/nm1319478/bio/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Biography... 1950, he filmed just over ten seconds of what he claimed to be two unidentified flying objects. This film is thought to be t...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: milb.com  
    Title: gcs 350388  
-   Link: [https://www.milb.com/news/gcs-350388](https://www.milb.com/news/gcs-350388)  
+   Link: <a href="https://www.milb.com/news/gcs-350388" target="_blank" rel="noopener noreferrer nofollow">https://www.milb.com/news/gcs-350388</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spots, films UFO in 1950 | MiLB.comAlthough often disputed, it remains one of the strongest cases supporting the existence of UFOs. Since...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Montana Film: The First Recorded UFO Sighting in the US  
-   Link: [https://www.youtube.com/watch?v=DJ2vKHj8rVM](https://www.youtube.com/watch?v=DJ2vKHj8rVM)  
+   Link: <a href="https://www.youtube.com/watch?v=DJ2vKHj8rVM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DJ2vKHj8rVM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why are there so many UFO sightings in Montana?...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: gfvoyagers.com  
-   Link: [https://www.gfvoyagers.com/general/2024-25/releases/20250815](https://www.gfvoyagers.com/general/2024-25/releases/20250815)  
+   Link: <a href="https://www.gfvoyagers.com/general/2024-25/releases/20250815" target="_blank" rel="noopener noreferrer nofollow">https://www.gfvoyagers.com/general/2024-25/releases/20250815</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>75th Anniversary of Mariana UFO Incident15 Aug 2025 — We may never know. But, as we approach the 75th anniversary of the Mariana UFO inci...</p></details>

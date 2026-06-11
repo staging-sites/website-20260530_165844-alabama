@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /washington-a27a66-kenneth-arnold-sight/
 description: Focused pages that expand on Arnold Sighting.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Washington_a27a66_kenneth_arnold_sight_b5d3b9
-parent_title: Arnold Sighting | Why Washington Shaped UFO History
+parent_title: Arnold Sighting
 parent_nav_short_title: Arnold Sighting
 parent_permalink: /arnold-sighting-f2f1b1/
 ---

@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /cheyenne-1955/
 nav_short_title: Airmen Report
 title: Could Ordinary Causes Explain the Cheyenne Shapes?
-title_full: Could Ordinary Causes Explain the Cheyenne Shapes? | Cheyenne 1955
+title_full: Could Ordinary Causes Explain the Cheyenne Shapes?
 display_title_short: Airmen Report
 display_title: Airmen Report
 heading_title: Could Ordinary Causes Explain the Cheyenne Shapes?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:33:21'
-parent_title: Why the Cheyenne 1955 Case Still Matters | Wyoming UFOs
+parent_title: Why the Cheyenne 1955 Case Still Matters
 parent_permalink: /cheyenne-1955/
 parent_nav_short_title: Cheyenne 1955
 parent_heading_title: Why the Cheyenne 1955 Case Still Matters
@@ -250,22 +250,20 @@ image: /assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157_cheyenne_airmen
 
 ## Introduction
 
-The [Cheyenne]({{ 'cheyenne/' | relative_url }}) airmen sighting remains unusual because of the shapes described rather than the amount of evidence available. Near midnight on 23 May 1955, USAF airmen I. J. Shapiro and E. C. Ingber reportedly saw two slender vertical rectangles low on the horizon and two darker oval forms higher in the sky, showing dark blue illumination. The observation lasted roughly five minutes and later appeared in Project Blue Book's catalogue of unexplained cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPThe Project Bluebook &quot;Unknowns&quot;During a 5 minute period, two slender, vertical rectangles were seen low on the horizon, and two oval...</span></span></span>
+The [Cheyenne]({{ 'cheyenne/' | relative_url }}) airmen sighting remains unusual because of the shapes described rather than the amount of evidence available. Near midnight on 23 May 1955, USAF airmen I. J. Shapiro and E. C. Ingber reportedly saw two slender vertical rectangles low on the horizon and two darker oval forms higher in the sky, showing dark blue illumination. The observation lasted roughly five minutes and later appeared in Project Blue Book's catalogue of unexplained cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">The Project Bluebook &quot;Unknowns&quot;During a 5 minute period, two slender, vertical rectangles were seen low on the horizon, and two oval...</span></span></span>
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157_cheyenne_airmen_expl_743b5e-Illustration-1-light.svg" | relative_url }}" alt="Airmen Report illustration 1" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157_cheyenne_airmen_expl_743b5e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157_cheyenne_airmen_expl_743b5e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157_cheyenne_airmen_expl_743b5e-Illustration-1-dark.svg" | relative_url }}" alt="Airmen Report illustration 1" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157_cheyenne_airmen_expl_743b5e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157_cheyenne_airmen_expl_743b5e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Yet the same details that make the report memorable also make it difficult to evaluate. The surviving summaries are extremely brief. They do not provide precise bearings, elevation angles, weather conditions, cloud cover, distance estimates, aircraft traffic checks, or independent corroboration. As a result, ordinary explanations cannot be ruled out, but neither can they be tested properly. The case sits in an uncomfortable middle ground: intriguing enough to avoid an easy dismissal, but too thinly documented to support strong conclusions.
 
 ## What Shapiro and Ingber Reportedly Saw
 
-The public record preserves only a compressed description. According to later [Blue Book unknowns]({{ 'unknown-label/' | relative_url }}) catalogues and NICAP's listing of officially unexplained cases, the two airmen observed:
-
+The public record preserves only a compressed description. According to later Blue Book unknowns catalogues and NICAP's listing of officially unexplained cases, the two airmen observed:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Two slender vertical rectangular forms low on the horizon.
 * Two darker oval objects higher in the sky.
-* Dark blue illumination associated with the upper objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPThe Project Bluebook &quot;Unknowns&quot;During a 5 minute period, two slender, vertical rectangles were seen low on the horizon, and two oval...</span></span></span>
+* Dark blue illumination associated with the upper objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">The Project Bluebook &quot;Unknowns&quot;During a 5 minute period, two slender, vertical rectangles were seen low on the horizon, and two oval...</span></span></span>
 * A viewing period of about five minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1955fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">1955 UFO ChronologyThis is a 13-page report on an on-going project involving a number of people. With the help of Rebecca Wise (Project B...</span></span></span>
 
 </div>
@@ -280,8 +278,7 @@ The surviving summaries also leave open a basic question: were the rectangles an
 
 The strongest ordinary explanations are not especially dramatic. They arise from the fact that the sighting occurred at night, near an Air Force community, with very limited contextual information surviving.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t8Rl6hC2ZFw" title="Stuff They Don&#x27;t Want You To Know - Project Blue Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t8Rl6hC2ZFw" target="_blank" rel="noopener noreferrer">Stuff They Don&#x27;t Want You To Know - Project Blue Book</a></p><p class="youtube-embed-meta">Channel: HowStuffWorks &middot; Views: 352.4K &middot; Uploaded: June 2010 &middot; Length: 4 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t8Rl6hC2ZFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t8Rl6hC2ZFw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q27jO8lWfxs" title="The dark truth behind Project Blue Book exposed | Mission Unexplained | Science Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q27jO8lWfxs" target="_blank" rel="noopener noreferrer">The dark truth behind Project Blue Book exposed | Mission Unexplained | Science Channel</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 40.8K &middot; Uploaded: September 2023 &middot; Length: 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q27jO8lWfxs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q27jO8lWfxs">Open on YouTube</a></p></div></div></div>
 
 ### Aircraft lighting and viewing angles
 
@@ -301,8 +298,7 @@ A distant light partly hidden by terrain, structures or atmospheric layers can a
 
 This does not explain the entire report by itself, but it remains a plausible candidate because the horizon location is one of the few details actually preserved.
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157_cheyenne_airmen_expl_743b5e-Illustration-2-light.svg" | relative_url }}" alt="Airmen Report illustration 2" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157_cheyenne_airmen_expl_743b5e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157_cheyenne_airmen_expl_743b5e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157_cheyenne_airmen_expl_743b5e-Illustration-2-dark.svg" | relative_url }}" alt="Airmen Report illustration 2" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157_cheyenne_airmen_expl_743b5e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157_cheyenne_airmen_expl_743b5e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Atmospheric and optical distortion
 
 The high plains environment around Cheyenne can produce strong visual effects after dark. Haze, thin cloud, dust and temperature gradients can alter perceived shape, colour and motion.
@@ -311,8 +307,7 @@ The reported dark blue illumination is especially difficult to evaluate. Blue li
 
 Because no detailed meteorological summary survives with the public descriptions, it is impossible to know whether atmospheric conditions favoured such distortions on the night in question.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jwyQkuzxp78" title="🛸 What Are UFOs Really? | Common Misidentifications, Shapes &amp; Scientific Explanations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jwyQkuzxp78" target="_blank" rel="noopener noreferrer">🛸 What Are UFOs Really? | Common Misidentifications, Shapes &amp; Scientific Explanations</a></p><p class="youtube-embed-meta">Channel: Smart Globe Guide &middot; Views: 38 &middot; Uploaded: May 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jwyQkuzxp78" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jwyQkuzxp78">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-MioQLLOBFE" title="Every Mysterious UFO Encounter Explained in 13 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-MioQLLOBFE" target="_blank" rel="noopener noreferrer">Every Mysterious UFO Encounter Explained in 13 Minutes</a></p><p class="youtube-embed-meta">Channel: The Interpreter &middot; Views: 17.6K &middot; Uploaded: December 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-MioQLLOBFE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-MioQLLOBFE">Open on YouTube</a></p></div></div></div>
 
 ## Why the Geometric Shapes Do Not Settle the Question
 
@@ -323,7 +318,6 @@ That is a reasonable point. Geometric forms are harder to dismiss than a single 
 However, the evidential value depends on how clearly the shape was actually observed.
 
 The surviving record does not tell us:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -340,8 +334,7 @@ Without those details, the shape descriptions cannot carry as much weight as the
 
 Many UFO investigations have shown that witness descriptions become less reliable as distance increases. A distant light source can acquire an apparent shape that does not correspond to the actual object. Conversely, a genuinely unusual shape can become simplified into familiar geometric language during later reporting.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q27jO8lWfxs" title="The dark truth behind Project Blue Book exposed | Mission Unexplained | Science Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q27jO8lWfxs" target="_blank" rel="noopener noreferrer">The dark truth behind Project Blue Book exposed | Mission Unexplained | Science Channel</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 40.8K &middot; Uploaded: September 2023 &middot; Length: 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q27jO8lWfxs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q27jO8lWfxs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jwyQkuzxp78" title="🛸 What Are UFOs Really? | Common Misidentifications, Shapes &amp; Scientific Explanations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jwyQkuzxp78" target="_blank" rel="noopener noreferrer">🛸 What Are UFOs Really? | Common Misidentifications, Shapes &amp; Scientific Explanations</a></p><p class="youtube-embed-meta">Channel: Smart Globe Guide &middot; Views: 38 &middot; Uploaded: May 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jwyQkuzxp78" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jwyQkuzxp78">Open on YouTube</a></p></div></div></div>
 
 ## Why the Surviving Details Are Too Thin for Certainty
 
@@ -351,7 +344,6 @@ Project Blue Book ultimately recorded hundreds of cases that remained officially
 
 In the Cheyenne case, crucial investigative details appear to be missing from the commonly available summaries:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * No precise direction of observation.
@@ -360,7 +352,7 @@ In the Cheyenne case, crucial investigative details appear to be missing from th
 * No radar information.
 * No known photographs.
 * No publicly available reconstruction of nearby aircraft activity.
-* No detailed witness interviews in the surviving summaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPThe Project Bluebook &quot;Unknowns&quot;During a 5 minute period, two slender, vertical rectangles were seen low on the horizon, and two oval...</span></span></span>
+* No detailed witness interviews in the surviving summaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">The Project Bluebook &quot;Unknowns&quot;During a 5 minute period, two slender, vertical rectangles were seen low on the horizon, and two oval...</span></span></span>
 
 </div>
 
@@ -368,10 +360,9 @@ That missing information prevents both believers and sceptics from making a deci
 
 A sceptical investigator cannot confidently demonstrate that the objects were aircraft, stars, atmospheric effects or ground lights because the necessary observational data are absent. At the same time, a UFO advocate cannot show that ordinary explanations fail because the report lacks the precision needed to eliminate them.
 
-The result is a case that remains officially unresolved but not strongly evidential. Within [Wyoming]({{ 'what-really-happened-in-wyoming-skies/' | relative_url }})'s UFO history, the Cheyenne sighting is noteworthy because it entered the Project Blue Book record as an unknown. Yet when examined closely, its greatest lesson may be how easily a sighting can remain suspended between explanation and mystery when the original documentation is too sparse to test either side properly.
+The result is a case that remains officially unresolved but not strongly evidential. Within Wyoming's UFO history, the Cheyenne sighting is noteworthy because it entered the Project Blue Book record as an unknown. Yet when examined closely, its greatest lesson may be how easily a sighting can remain suspended between explanation and mystery when the original documentation is too sparse to test either side properly.
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157_cheyenne_airmen_expl_743b5e-Illustration-3-light.svg" | relative_url }}" alt="Airmen Report illustration 3" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157_cheyenne_airmen_expl_743b5e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157_cheyenne_airmen_expl_743b5e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157_cheyenne_airmen_expl_743b5e-Illustration-3-dark.svg" | relative_url }}" alt="Airmen Report illustration 3" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157_cheyenne_airmen_expl_743b5e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_cheyenne_1955_blue_b_201157_cheyenne_airmen_expl_743b5e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -794,47 +785,47 @@ The result is a case that remains officially unresolved but not strongly evident
 
 1. <a id="endnote-1"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/bluebook/unknowns.htm](https://www.nicap.org/bluebook/unknowns.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPThe Project Bluebook &quot;Unknowns&quot;During a 5 minute period, two slender, vertical rectangles were seen low on the horizon, and two oval...</p></details>
+   Link: <a href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/unknowns.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Project Bluebook &quot;Unknowns&quot;During a 5 minute period, two slender, vertical rectangles were seen low on the horizon, and two oval...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1955fullrep.htm](https://www.nicap.org/chronos/1955fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1955fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1955fullrep.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1955 UFO ChronologyThis is a 13-page report on an on-going project involving a number of people. With the help of Rebecca Wise (Project B...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/bluebook/bluelist.htm](https://www.nicap.org/bluebook/bluelist.htm)  
+   Link: <a href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/bluelist.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Complete List of Project Blue Book&#x27;s Unsolved CasesThis list of 701 UFO reports represents all of the unexplained sightings recorded by t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: geekchocolate.co.uk  
    Title: project blue book  
-   Link: [https://geekchocolate.co.uk/project-blue-book/](https://geekchocolate.co.uk/project-blue-book/)  
+   Link: <a href="https://geekchocolate.co.uk/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://geekchocolate.co.uk/project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Jan 2019 — “This series is inspired by Dr. J. Allen Hynek&#x27;s investigations for the U.S. Air Force into the existence of UFOs.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book, code name for the United States&#x27; longest-running Air Force pro...</p></details>
    Published: May 2026  
 
@@ -842,54 +833,54 @@ The result is a case that remains officially unresolved but not strongly evident
 
 9. <a id="endnote-9"></a>
    Source: pacodeandbulletin.gov  
-   Link: [https://www.pacodeandbulletin.gov/secure/pabulletin/data/vol51/51-33/51_33_p2.pdf](https://www.pacodeandbulletin.gov/secure/pabulletin/data/vol51/51-33/51_33_p2.pdf)  
+   Link: <a href="https://www.pacodeandbulletin.gov/secure/pabulletin/data/vol51/51-33/51_33_p2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pacodeandbulletin.gov/secure/pabulletin/data/vol51/51-33/51_33_p2.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unclaimed Property OwnersThe following list of Unclaimed Property Owners was reported and delivered to the Department. If you find your n...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book, 701 remained &quot;unidentified.&quot; The decision to discontinue UFO investigations was based on an...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: esd.whs.mil  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue BookThe objectives of Project Blue Book are two-fold: first, to determine whether UFOs pose a threat to the security of the United S...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theaviationgeekclub.com  
    Title: project blue book story ufo sightings used cover high altitude u 2 flights  
-   Link: [https://theaviationgeekclub.com/project-blue-book-story-ufo-sightings-used-cover-high-altitude-u-2-flights/](https://theaviationgeekclub.com/project-blue-book-story-ufo-sightings-used-cover-high-altitude-u-2-flights/)  
+   Link: <a href="https://theaviationgeekclub.com/project-blue-book-story-ufo-sightings-used-cover-high-altitude-u-2-flights/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationgeekclub.com/project-blue-book-story-ufo-sightings-used-cover-high-altitude-u-2-flights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT BLUE BOOK AND THE STORY OF HOW UFO...Project Blue Book. In the mid-1950s USAF and CIA used UFO sightings to cover very high alti...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>C. Ingber saw 2 slender, vertical rectangles low on the horizon, and two ovals with tops, dark, with dark blue illumination...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=jwyQkuzxp78](https://www.youtube.com/watch?v=jwyQkuzxp78)  
+   Link: <a href="https://www.youtube.com/watch?v=jwyQkuzxp78" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jwyQkuzxp78</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book unknowns explained The dark truth behind Project Blue Book exposed | Mission Unexplained | Science Channel Science Channel...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database](https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database)  
+   Link: <a href="https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>vals with tops (dark, with dark blue illumination) flewRead more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=q27jO8lWfxs](https://www.youtube.com/watch?v=q27jO8lWfxs)  
+   Link: <a href="https://www.youtube.com/watch?v=q27jO8lWfxs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q27jO8lWfxs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR1 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf](https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United. States Air Force inve...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: history.navy.mil  
    Title: u2s ufos and operation blue book  
-   Link: [https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html](https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html)  
+   Link: <a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>navy.milU-2s, UFOs, and Operation Blue Book24 Jan 2024 — When the sun dropped below the horizon of an airliner flying at 20,000 feet, the...</p></details>

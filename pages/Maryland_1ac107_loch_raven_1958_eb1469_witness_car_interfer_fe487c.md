@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /loch-raven-1958/
 nav_short_title: Car Interference
 title: How Witness Reports and Car Malfunctions Shaped the Loch Raven Sighting
-title_full: How Witness Reports and Car Malfunctions Shaped the Loch Raven Sighting | Loch Raven 1958
+title_full: How Witness Reports and Car Malfunctions Shaped the Loch Raven Sighting
 display_title_short: Car Interference
 display_title: Car Interference
 heading_title: How Witness Reports and Car Malfunctions Shaped the Loch Raven Sighting
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:35:38'
-parent_title: What Happened at Loch Raven Reservoir in 1958? | Maryland UFOs
+parent_title: What Happened at Loch Raven Reservoir in 1958?
 parent_permalink: /loch-raven-1958/
 parent_nav_short_title: Loch Raven 1958
 parent_heading_title: What Happened at Loch Raven Reservoir in 1958?
@@ -250,10 +250,9 @@ image: /assets/images/Maryland_1ac107_loch_raven_1958_eb1469_witness_car_interfe
 
 ## Introduction
 
-The most discussed element of the 1958 [Loch Raven]({{ 'loch-raven/' | relative_url }}) Reservoir encounter is not the reported object itself but the claim that a car stopped functioning as it approached it. In [Maryland]({{ 'marylands-ufo-mysteries-close-encounters/' | relative_url }}) UFO history, that detail transformed the incident from a conventional sighting into a frequently cited example of alleged physical interaction between a reported UFO and its surroundings. According to the main witness accounts, Phillip Small and Alvin Cohen saw an illuminated, egg-shaped object near a bridge by Loch Raven Dam, after which their vehicle lost power, the lights failed, and both men later reported heat or burning sensations on their faces. The car reportedly restarted only after the object departed. These claims became central to later discussions because they appeared to involve something observable beyond a visual sighting. At the same time, they remain difficult to verify independently because no surviving record demonstrates that the vehicle was examined and found to have suffered any unusual electrical damage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/581026lochravendam_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">NICAPUFO ReportOctober 26, 1958; Loch Raven Dam, Maryland (BBU 6148) 10:30 p.m. Phillip Small and Alvin Cohen saw a large, flat egg-shape...</span><span class="citation-popover-meta">Published: October 26, 1958</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/581026lochravendam_docs1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">581026lochravendam docs1</span><span class="citation-popover-snippet">supplement to af form 112On 26 October 1958 at about 2230 EST (0330 Zulu) two civilians came upon a. UFO hovering above a bridge near Loc...</span><span class="citation-popover-meta">Published: October 1958</span></span></span>
+The most discussed element of the 1958 [Loch Raven]({{ 'loch-raven/' | relative_url }}) Reservoir encounter is not the reported object itself but the claim that a car stopped functioning as it approached it. In Maryland UFO history, that detail transformed the incident from a conventional sighting into a frequently cited example of alleged physical interaction between a reported UFO and its surroundings. According to the main witness accounts, Phillip Small and Alvin Cohen saw an illuminated, egg-shaped object near a bridge by Loch Raven Dam, after which their vehicle lost power, the lights failed, and both men later reported heat or burning sensations on their faces. The car reportedly restarted only after the object departed. These claims became central to later discussions because they appeared to involve something observable beyond a visual sighting. At the same time, they remain difficult to verify independently because no surviving record demonstrates that the vehicle was examined and found to have suffered any unusual electrical damage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/581026lochravendam_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO ReportOctober 26, 1958; Loch Raven Dam, Maryland (BBU 6148) 10:30 p.m. Phillip Small and Alvin Cohen saw a large, flat egg-shape...</span><span class="citation-popover-meta">Published: October 26, 1958</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/581026lochravendam_docs1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">581026lochravendam docs1</span><span class="citation-popover-snippet">supplement to af form 112On 26 October 1958 at about 2230 EST (0330 Zulu) two civilians came upon a. UFO hovering above a bridge near Loc...</span><span class="citation-popover-meta">Published: October 1958</span></span></span>
 
-
-<img src="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469_witness_car_interfer_fe487c-Illustration-1-light.svg" | relative_url }}" alt="Car Interference illustration 1" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469_witness_car_interfer_fe487c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469_witness_car_interfer_fe487c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469_witness_car_interfer_fe487c-Illustration-1-dark.svg" | relative_url }}" alt="Car Interference illustration 1" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469_witness_car_interfer_fe487c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469_witness_car_interfer_fe487c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The Loch Raven case therefore sits at an interesting point in Maryland's UFO record. The witness testimony is detailed and relatively consistent on key points, yet the strongest claims rely almost entirely on recollection rather than physical evidence. Understanding how those witness reports developed, where they agree, and where they leave room for doubt is essential to evaluating the incident.
 
 ## Timeline of vehicle and witness observations
@@ -263,7 +262,6 @@ The basic sequence described in Air Force and later UFO research summaries follo
 The witnesses then reported leaving the vehicle and using it as partial cover while observing the object. Accounts generally describe a short observation period lasting less than a minute. During this interval they reported seeing a bright glow and experiencing unusual physical sensations. A sudden flash followed, accompanied by a loud sound variously described as a dull explosion, thunder-like report, or sharp burst of noise. The object then reportedly rose vertically and disappeared within seconds. NICAP <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/1958lockravendam.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[UFO Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">UFO CasebookThe Loch Raven Dam Incident, 1958 - BaltimoreAs they approached a bridge, they saw what appeared to be a flattened out, egg-s...</span></span></span>
 
 One of the most important details for later investigators is the reported timing of the car's recovery. The vehicle was said to function again once the object had departed. This sequence became a classic example of what UFO researchers later labelled an "electromagnetic" or "E-M" effect case, in which a nearby object allegedly interferes with electrical systems. NICAP eventually placed the incident in its catalogue of electromagnetic-effect reports partly for that reason. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">581026lochravendam report3</span><span class="citation-popover-snippet">UFO Report29 Sept 2012 — Interesting to note: The sighting took place on Route 146 at the Baltimore Bridge at the Loch Raven Reservoir. M...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XbdUcoMdI74" title="UFO Almost Crashes Into Family&#x27;s Car | Close Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XbdUcoMdI74" target="_blank" rel="noopener noreferrer">UFO Almost Crashes Into Family&#x27;s Car | Close Encounters</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 594.9K &middot; Uploaded: November 2019 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XbdUcoMdI74" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XbdUcoMdI74">Open on YouTube</a></p></div></div></div>
 
@@ -278,7 +276,7 @@ The Loch Raven encounter gained credibility among UFO researchers because the co
 * A bright flash and loud sound occurred.
 * The witnesses reported facial heat or burning sensations.
 * The object departed rapidly in a vertical direction.
-* The vehicle functioned again afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/581026lochravendam_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">NICAPUFO ReportOctober 26, 1958; Loch Raven Dam, Maryland (BBU 6148) 10:30 p.m. Phillip Small and Alvin Cohen saw a large, flat egg-shape...</span><span class="citation-popover-meta">Published: October 26, 1958</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/581026lochravendam_docs1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">581026lochravendam docs1</span><span class="citation-popover-snippet">supplement to af form 112On 26 October 1958 at about 2230 EST (0330 Zulu) two civilians came upon a. UFO hovering above a bridge near Loc...</span><span class="citation-popover-meta">Published: October 1958</span></span></span>
+* The vehicle functioned again afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/581026lochravendam_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO ReportOctober 26, 1958; Loch Raven Dam, Maryland (BBU 6148) 10:30 p.m. Phillip Small and Alvin Cohen saw a large, flat egg-shape...</span><span class="citation-popover-meta">Published: October 26, 1958</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/581026lochravendam_docs1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">581026lochravendam docs1</span><span class="citation-popover-snippet">supplement to af form 112On 26 October 1958 at about 2230 EST (0330 Zulu) two civilians came upon a. UFO hovering above a bridge near Loc...</span><span class="citation-popover-meta">Published: October 1958</span></span></span>
 
 However, important inconsistencies also appear in the record.
 
@@ -288,8 +286,7 @@ These discrepancies do not automatically invalidate the account. Variations in w
 
 Another issue is the degree to which later UFO literature amplified certain aspects of the story. The car failure became increasingly central to retellings because it distinguished the case from ordinary light sightings. As a result, many later summaries focus heavily on the alleged electrical effects while providing less information about how those effects were documented at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">581026lochravendam report3</span><span class="citation-popover-snippet">UFO Report29 Sept 2012 — Interesting to note: The sighting took place on Route 146 at the Baltimore Bridge at the Loch Raven Reservoir. M...</span></span></span>
 
-
-<img src="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469_witness_car_interfer_fe487c-Illustration-2-light.svg" | relative_url }}" alt="Car Interference illustration 2" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469_witness_car_interfer_fe487c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469_witness_car_interfer_fe487c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469_witness_car_interfer_fe487c-Illustration-2-dark.svg" | relative_url }}" alt="Car Interference illustration 2" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469_witness_car_interfer_fe487c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469_witness_car_interfer_fe487c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the car failure became the defining feature
 
 A vehicle malfunction is memorable because it appears objective. A strange light can be misidentified, but a car either runs or it does not. For that reason, reports of stalled engines became one of the most influential recurring themes in post-war UFO literature.
@@ -297,7 +294,6 @@ A vehicle malfunction is memorable because it appears objective. A strange light
 The Loch Raven case arrived during a period when researchers were actively collecting similar reports from across the United States. By the 1960s, organisations such as NICAP had begun grouping together cases involving dead engines, dimmed headlights, radio interference and battery problems. The Loch Raven incident fitted neatly into that emerging category because witnesses reported simultaneous failure of both the engine and lighting system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">581026lochravendam report3</span><span class="citation-popover-snippet">UFO Report29 Sept 2012 — Interesting to note: The sighting took place on Route 146 at the Baltimore Bridge at the Loch Raven Reservoir. M...</span></span></span>
 
 The reported heat sensations added another layer. According to several summaries, both witnesses felt burning or heat on the sides of their faces directed toward the object and later sought medical attention. Although this does not constitute proof of an external source, it helped reinforce the perception that the encounter involved more than visual observation alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://towsontorch.com/p/the-enigma-of-the-10-26-58-loch-raven-reservoir-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: towsontorch.com">[The Towson Torch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">towsontorch.com</span><span class="citation-popover-snippet">The Towson Torch🛸 The Enigma of the 10/26/58 Loch Raven Reservoir UFO...26 Oct 2025 — In the Loch Raven case, the object apparently caus...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Investigations_Committee_On_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia For later researchers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Investigations Committee On Aerial Phenomena</span><span class="citation-popover-snippet">National Investigations Committee On Aerial Phenomena</span></span></span>, the combination of three claimed effects—vehicle failure, physical sensation and visual observation—made Loch Raven one of Maryland's most cited close-encounter cases. It was frequently referenced precisely because it appeared to involve interaction with the environment rather than a distant aerial object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://towsontorch.com/p/the-enigma-of-the-10-26-58-loch-raven-reservoir-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: towsontorch.com">[The Towson Torch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">towsontorch.com</span><span class="citation-popover-snippet">The Towson Torch🛸 The Enigma of the 10/26/58 Loch Raven Reservoir UFO...26 Oct 2025 — In the Loch Raven case, the object apparently caus...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/581026lochravendam_report3.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">581026lochravendam report3</span><span class="citation-popover-snippet">UFO Report29 Sept 2012 — Interesting to note: The sighting took place on Route 146 at the Baltimore Bridge at the Loch Raven Reservoir. M...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0Vg72Ma4Ip0" title="What they found in the UFO Files… [Unicorn Circuit EP 191]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0Vg72Ma4Ip0" target="_blank" rel="noopener noreferrer">What they found in the UFO Files… [Unicorn Circuit EP 191]</a></p><p class="youtube-embed-meta">Channel: MCM TV2 &middot; Views: 36.6K &middot; Uploaded: May 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0Vg72Ma4Ip0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0Vg72Ma4Ip0">Open on YouTube</a></p></div></div></div>
 
@@ -309,7 +305,6 @@ The main problem is the absence of corroborating technical evidence. No publicly
 
 Several conventional possibilities remain difficult to exclude:
 
-
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
 * **Coincidental mechanical failure:** Older vehicles could stall for many reasons, especially at night and in changing weather conditions.
@@ -320,7 +315,6 @@ Several conventional possibilities remain difficult to exclude:
 </div>
 
 None of these explanations fully accounts for every reported element, but neither does the available evidence establish an unknown physical mechanism. The case remains suspended between witness testimony and missing technical verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">Pieces of History UFOs: Natural Explanations</span><span class="citation-popover-snippet">Pieces of HistoryUFOs: Natural Explanations - Pieces of History16 Apr 2018 — The purpose of the investigations was to assess the nature o...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GjcAYHOablY" title="🚨 A close encounter of the second kind in East Yorkshire 1991, a car journey I will never forget!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GjcAYHOablY" target="_blank" rel="noopener noreferrer">🚨 A close encounter of the second kind in East Yorkshire 1991, a car journey I will never forget!</a></p><p class="youtube-embed-meta">Channel: stuart fillingham &middot; Views: 5.1K &middot; Uploaded: December 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GjcAYHOablY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GjcAYHOablY">Open on YouTube</a></p></div></div></div>
 
@@ -334,8 +328,7 @@ The limitations are equally important. There are no photographs, no radar data, 
 
 For that reason, the Loch Raven case remains significant within Maryland UFO history not because it conclusively proves an extraordinary event, but because it illustrates how reports of vehicle interference can shape the reputation of a sighting. The alleged engine failure became the feature that kept the case alive in Project Blue Book files, NICAP archives and later Maryland UFO discussions. Whether viewed as evidence of an unexplained phenomenon or as an example of how dramatic experiences become embedded in witness memory, the car-interference claim remains the key mechanism through which the Loch Raven encounter continues to be debated. NICAP <span class="citation-chip-wrap"><a class="citation-chip" href="https://mapuap.com/sighting/loch-raven-dam-maryland-1958-debc4267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mapuap.com">[SENTINEL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mapuap.com</span><span class="citation-popover-title">loch raven dam maryland 1958 debc4267</span><span class="citation-popover-snippet">Unidentified object over Loch Raven Dam Maryland. Two men in a car reported their vehicle stalled...Read more...</span></span></span>
 
-
-<img src="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469_witness_car_interfer_fe487c-Illustration-3-light.svg" | relative_url }}" alt="Car Interference illustration 3" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469_witness_car_interfer_fe487c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469_witness_car_interfer_fe487c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469_witness_car_interfer_fe487c-Illustration-3-dark.svg" | relative_url }}" alt="Car Interference illustration 3" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469_witness_car_interfer_fe487c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_loch_raven_1958_eb1469_witness_car_interfer_fe487c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -759,142 +752,142 @@ For that reason, the Loch Raven case remains significant within Maryland UFO his
 1. <a id="endnote-1"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: [https://www.nicap.org/581026lochravendam_dir.htm](https://www.nicap.org/581026lochravendam_dir.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPUFO ReportOctober 26, 1958; Loch Raven Dam, Maryland (BBU 6148) 10:30 p.m. Phillip Small and Alvin Cohen saw a large, flat egg-shape...</p></details>
+   Link: <a href="https://www.nicap.org/581026lochravendam_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/581026lochravendam_dir.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportOctober 26, 1958; Loch Raven Dam, Maryland (BBU 6148) 10:30 p.m. Phillip Small and Alvin Cohen saw a large, flat egg-shape...</p></details>
    Published: October 26, 1958  
 
 2. <a id="endnote-2"></a>
    Source: nicap.org  
    Title: 581026lochravendam docs1  
-   Link: [https://www.nicap.org/docs/581026lochravendam_docs1.pdf](https://www.nicap.org/docs/581026lochravendam_docs1.pdf)  
+   Link: <a href="https://www.nicap.org/docs/581026lochravendam_docs1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/581026lochravendam_docs1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>supplement to af form 112On 26 October 1958 at about 2230 EST (0330 Zulu) two civilians came upon a. UFO hovering above a bridge near Loc...</p></details>
    Published: October 1958  
 
 3. <a id="endnote-3"></a>
    Source: wypr.org  
    Title: out there alien invasions and unexplained ufo sightings in maryland  
-   Link: [https://www.wypr.org/wypr-podcast/2019-01-14/out-there-alien-invasions-and-unexplained-ufo-sightings-in-maryland](https://www.wypr.org/wypr-podcast/2019-01-14/out-there-alien-invasions-and-unexplained-ufo-sightings-in-maryland)  
+   Link: <a href="https://www.wypr.org/wypr-podcast/2019-01-14/out-there-alien-invasions-and-unexplained-ufo-sightings-in-maryland" target="_blank" rel="noopener noreferrer nofollow">https://www.wypr.org/wypr-podcast/2019-01-14/out-there-alien-invasions-and-unexplained-ufo-sightings-in-maryland</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Invasions and Unexplained UFO Sightings in Maryland14 Jan 2019 — Sixty years ago - on the night of October 26 1958, around midnight...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nicap.org  
    Title: 581026lochravendam report3  
-   Link: [https://www.nicap.org/reports/581026lochravendam_report3.htm](https://www.nicap.org/reports/581026lochravendam_report3.htm)  
+   Link: <a href="https://www.nicap.org/reports/581026lochravendam_report3.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/581026lochravendam_report3.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report29 Sept 2012 — Interesting to note: The sighting took place on Route 146 at the Baltimore Bridge at the Loch Raven Reservoir. M...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: National Investigations Committee On Aerial Phenomena  
-   Link: [https://en.wikipedia.org/wiki/National_Investigations_Committee_On_Aerial_Phenomena](https://en.wikipedia.org/wiki/National_Investigations_Committee_On_Aerial_Phenomena)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_Investigations_Committee_On_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Investigations_Committee_On_Aerial_Phenomena</a>  
 
 6. <a id="endnote-6"></a>
    Source: towsontorch.com  
-   Link: [https://towsontorch.com/p/the-enigma-of-the-10-26-58-loch-raven-reservoir-ufo-sighting](https://towsontorch.com/p/the-enigma-of-the-10-26-58-loch-raven-reservoir-ufo-sighting)  
+   Link: <a href="https://towsontorch.com/p/the-enigma-of-the-10-26-58-loch-raven-reservoir-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://towsontorch.com/p/the-enigma-of-the-10-26-58-loch-raven-reservoir-ufo-sighting</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Towson Torch🛸 The Enigma of the 10/26/58 Loch Raven Reservoir UFO...26 Oct 2025 — In the Loch Raven case, the object apparently caus...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Loch Raven Reservoir  
-   Link: [https://en.wikipedia.org/wiki/Loch_Raven_Reservoir](https://en.wikipedia.org/wiki/Loch_Raven_Reservoir)  
+   Link: <a href="https://en.wikipedia.org/wiki/Loch_Raven_Reservoir" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch_Raven_Reservoir</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loch Raven ReservoirMemorial stone at Loch Raven 1881 Dam with reservoir measurements.... On October 26, 1958 one of the bridges was...</p></details>
    Published: October 26, 1958  
 
 8. <a id="endnote-8"></a>
    Source: mapuap.com  
    Title: loch raven dam maryland 1958 debc4267  
-   Link: [https://mapuap.com/sighting/loch-raven-dam-maryland-1958-debc4267](https://mapuap.com/sighting/loch-raven-dam-maryland-1958-debc4267)  
+   Link: <a href="https://mapuap.com/sighting/loch-raven-dam-maryland-1958-debc4267" target="_blank" rel="noopener noreferrer nofollow">https://mapuap.com/sighting/loch-raven-dam-maryland-1958-debc4267</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified object over Loch Raven Dam Maryland. Two men in a car reported their vehicle stalled...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsThe records include approximately 2 cubic feet of unarranged project or a...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: prologue.blogs.archives.gov  
    Title: Pieces of History UFOs: Natural Explanations  
-   Link: [https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/](https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistoryUFOs: Natural Explanations - Pieces of History16 Apr 2018 — The purpose of the investigations was to assess the nature o...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ufocasebook.com  
-   Link: [https://www.ufocasebook.com/1958lockravendam.html](https://www.ufocasebook.com/1958lockravendam.html)  
+   Link: <a href="https://www.ufocasebook.com/1958lockravendam.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/1958lockravendam.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO CasebookThe Loch Raven Dam Incident, 1958 - BaltimoreAs they approached a bridge, they saw what appeared to be a flattened out, egg-s...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: books.google.com  
    Title: The Loch Raven Incident  
-   Link: [https://books.google.com/books/about/The_Loch_Raven_Incident.html?id=yaD_0QEACAAJ](https://books.google.com/books/about/The_Loch_Raven_Incident.html?id=yaD_0QEACAAJ)  
+   Link: <a href="https://books.google.com/books/about/The_Loch_Raven_Incident.html?id=yaD_0QEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Loch_Raven_Incident.html?id=yaD_0QEACAAJ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Loch Raven Incident: Maryland&#x27;s Most Chilling...4 days ago — The encounter was reported, investigated under Project Blue Book, and offic...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/9qgvqo/no_place_to_run_loch_raven_reservoirs_forgotten/](https://www.reddit.com/r/UFOs/comments/9qgvqo/no_place_to_run_loch_raven_reservoirs_forgotten/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/9qgvqo/no_place_to_run_loch_raven_reservoirs_forgotten/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/9qgvqo/no_place_to_run_loch_raven_reservoirs_forgotten/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Loch Raven Reservoir&#x27;s forgotten UFO, 60 years laterThe young men inched closer and the car stopped dead — no headlights, no engine, no i...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/7NewsAustralia/posts/there-appears-to-be-no-explanation-for-some-mysterious-flying-objects-spotted-in/6855646911112110/](https://www.facebook.com/7NewsAustralia/posts/there-appears-to-be-no-explanation-for-some-mysterious-flying-objects-spotted-in/6855646911112110/)  
+   Link: <a href="https://www.facebook.com/7NewsAustralia/posts/there-appears-to-be-no-explanation-for-some-mysterious-flying-objects-spotted-in/6855646911112110/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NewsAustralia/posts/there-appears-to-be-no-explanation-for-some-mysterious-flying-objects-spotted-in/6855646911112110/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There appears to be no explanation for some mysterious...26, 1958 Around midnight on, Alvin Cohen and Phillip Small were... The young m...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: many of the sightings in washington state described unusual pulsating lights tri  
-   Link: [https://www.facebook.com/keprtv/posts/many-of-the-sightings-in-washington-state-described-unusual-pulsating-lights-tri/10157123188266183/](https://www.facebook.com/keprtv/posts/many-of-the-sightings-in-washington-state-described-unusual-pulsating-lights-tri/10157123188266183/)  
+   Link: <a href="https://www.facebook.com/keprtv/posts/many-of-the-sightings-in-washington-state-described-unusual-pulsating-lights-tri/10157123188266183/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/keprtv/posts/many-of-the-sightings-in-washington-state-described-unusual-pulsating-lights-tri/10157123188266183/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Many of the sightings in Washington state described...26, 1958 Around midnight on, Alvin Cohen and Phillip Small were taking a drive by...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: yes this one is true too read below in comments on the night of october 26 1958  
-   Link: [https://www.facebook.com/Baltimoreoldpicturesandfence/posts/yes-this-one-is-true-too-read-below-in-comments-on-the-night-of-october-26-1958-/1484412617056658/](https://www.facebook.com/Baltimoreoldpicturesandfence/posts/yes-this-one-is-true-too-read-below-in-comments-on-the-night-of-october-26-1958-/1484412617056658/)  
+   Link: <a href="https://www.facebook.com/Baltimoreoldpicturesandfence/posts/yes-this-one-is-true-too-read-below-in-comments-on-the-night-of-october-26-1958-/1484412617056658/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Baltimoreoldpicturesandfence/posts/yes-this-one-is-true-too-read-below-in-comments-on-the-night-of-october-26-1958-/1484412617056658/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alvin Cohen and Phillip Small — were driving near Loch...11 Apr 2026 — The Project Blue Book file describes a sighting near Loch Raven D...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From 1947 to 1969, the Air Force investigated Unidentified Flying Objects under Project Blue Book.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: forcesnews.com  
    Title: project blue book what was us air force operation investigate ufos  
-   Link: [https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos](https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos)  
+   Link: <a href="https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: What was US Air Force operation to...3 Aug 2022 — A look back to the US Air Force programme to log reports of unident...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/BaltimoreCounty/comments/1ohjvkw/the_enigma_of_the_102658_loch_raven_reservoir_ufo/](https://www.reddit.com/r/BaltimoreCounty/comments/1ohjvkw/the_enigma_of_the_102658_loch_raven_reservoir_ufo/)  
+   Link: <a href="https://www.reddit.com/r/BaltimoreCounty/comments/1ohjvkw/the_enigma_of_the_102658_loch_raven_reservoir_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/BaltimoreCounty/comments/1ohjvkw/the_enigma_of_the_102658_loch_raven_reservoir_ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October 26, 1958, at around 10:30 p.m., two young men, Philip Small (27) and Alvin Cohen (24), were driving near the quiet...</p></details>
    Published: October 26, 1958  
 
 22. <a id="endnote-22"></a>
    Source: onlyinyourstate.com  
    Title: To this day the UFO sighting in Maryland has never been  
-   Link: [https://www.onlyinyourstate.com/state-pride/maryland/ufo-sighting-md](https://www.onlyinyourstate.com/state-pride/maryland/ufo-sighting-md)  
+   Link: <a href="https://www.onlyinyourstate.com/state-pride/maryland/ufo-sighting-md" target="_blank" rel="noopener noreferrer nofollow">https://www.onlyinyourstate.com/state-pride/maryland/ufo-sighting-md</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Sighting In Maryland That Has Yet To Be Explained6 Oct 2023 — Over 60 years ago, two young men spotted a UFO over a bridge in Bal...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: huntvalleylife.town.news  
    Title: Hunt Valley Life LOCH RAVEN UFO  
-   Link: [https://huntvalleylife.town.news/g/timonium-md/n/220810/edit-lock-raven](https://huntvalleylife.town.news/g/timonium-md/n/220810/edit-lock-raven)  
+   Link: <a href="https://huntvalleylife.town.news/g/timonium-md/n/220810/edit-lock-raven" target="_blank" rel="noopener noreferrer nofollow">https://huntvalleylife.town.news/g/timonium-md/n/220810/edit-lock-raven</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hunt Valley LifeLOCH RAVEN UFO - Hunt Valley Life27 Oct 2023 — A UFO Was Sighted In Maryland Over 60 Years Ago, And It Still Has Never Be...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: documents.theblackvault.com  
    Title: A703 580 1 1 Part 7 646548  
-   Link: [https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%207_646548.pdf](https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%207_646548.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%207_646548.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%207_646548.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comA703_580-1-1_Part 7_646548.pdfEnclosed herewith is a copy of a lecture given by. Professor James E. McDONALD in WASHINGT...</p></details>

@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-louisianas-ufo/
 nav_short_title: Barksdale
 title: Were Barksdale Lights UFOs or Base Activity?
-title_full: Were Barksdale Lights UFOs or Base Activity? | Louisiana UFOs
+title_full: Were Barksdale Lights UFOs or Base Activity?
 display_title_short: Barksdale
 display_title: Barksdale
 heading_title: Were Barksdale Lights UFOs or Base Activity?
@@ -262,8 +262,7 @@ image: /assets/images/Louisiana_b158e0_barksdale_airfield_290137-overview-social
 
 ## Introduction
 
-Barksdale Air Force Base matters to [Louisiana]({{ 'what-really-happened-in-louisianas-ufo/' | relative_url }}) UFO history because it sits at the point where ordinary skywatching, military aviation and restricted airspace meet. Reports from the Bossier City and Shreveport area have included repeated lights over the base, older Project Blue Book-era paperwork, modern civilian UFO submissions, and, most recently, confirmed unauthorised drone incursions. The strongest conclusion is cautious: Barksdale-area reports show real ambiguity, but they do not by themselves prove exotic craft. They show how lights near an active bomber base can be misread, under-explained, over-reported, or genuinely unresolved depending on the quality of the record.
-
+Barksdale Air Force Base matters to Louisiana UFO history because it sits at the point where ordinary skywatching, military aviation and restricted airspace meet. Reports from the Bossier City and Shreveport area have included repeated lights over the base, older Project Blue Book-era paperwork, modern civilian UFO submissions, and, most recently, confirmed unauthorised drone incursions. The strongest conclusion is cautious: Barksdale-area reports show real ambiguity, but they do not by themselves prove exotic craft. They show how lights near an active bomber base can be misread, under-explained, over-reported, or genuinely unresolved depending on the quality of the record.
 
 <img src="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-overview.webp" | relative_url }}" alt="Overview image for Barksdale" loading="eager" decoding="sync" fetchpriority="high">
 The most useful way to read the Barksdale material is not as a single dramatic case. It is a pattern: repeated lights, aircraft activity, weather-balloon arguments, base security concerns, and later drone incidents all make north-west Louisiana a natural place for UFO claims to gather. The challenge is separating “unidentified to the witness” from “unidentified after investigation”.
@@ -278,8 +277,7 @@ The case also appears in Project Blue Book-related files. Searchable copies of t
 
 The wider Project Blue Book context matters because 1952 was a peak year for American UFO concern, including high-profile radar and visual reports elsewhere in the country. The Air Force later said Project Blue Book collected 12,618 sightings between 1947 and 1969, of which 701 remained “unidentified”, and concluded that the investigated reports did not demonstrate a national-security threat, technology beyond modern science, or extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">unidentified flying objects and air force project blue book</span></span></span> The Barksdale lights belong inside that cautious frame: historically interesting, locally specific, but not a settled alien case.
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-1-light.svg" | relative_url }}" alt="Barksdale illustration 1" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-1-dark.svg" | relative_url }}" alt="Barksdale illustration 1" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why a bomber base creates honest confusion
 
 Barksdale is not just a place on the map. It is an active military aviation environment. The 2nd Bomb Wing fact sheet states that the wing conducts Barksdale’s primary mission with three squadrons of B-52H Stratofortress bombers: the 11th Bomb Squadron, the 20th Bomb Squadron and the 96th Bomb Squadron. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Barksdale Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Barksdale Air Force Base</span></span></span> The base’s history also ties it to long-range bomber operations, including the 2nd Bomb Wing’s 1991 Operation Desert Storm missions from Barksdale to the Persian Gulf. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Barksdale Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Barksdale Air Force Base</span></span></span>
@@ -287,7 +285,6 @@ Barksdale is not just a place on the map. It is an active military aviation envi
 For UFO interpretation, that setting cuts both ways. On one hand, military airfields are places where observers may see aircraft, navigation lights, flares, training patterns, approach lights, unusual angles of movement, and security responses that are not obvious from outside the fence. On the other hand, a military base is exactly the kind of location where an unusual intrusion, sensor track or unauthorised aircraft could matter. The correct response is neither automatic belief nor automatic dismissal.
 
 Barksdale-area reports tend to generate several kinds of confusion:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -301,7 +298,6 @@ Barksdale-area reports tend to generate several kinds of confusion:
 
 This is why the [1952 Barksdale lights]({{ '1952-barksdale-lights/' | relative_url }}) are useful even if they are not conclusive. They show the structure of many Louisiana military-airfield UFO stories: a credible-seeming local observation, an attempted ordinary explanation, a dispute over whether that explanation fits, and a surviving record that is too limited to settle the matter decades later.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VXhY3YFDQKk" title="Inside the Mysterious Drone Encounter at Barksdale Air Force Base" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VXhY3YFDQKk" target="_blank" rel="noopener noreferrer">Inside the Mysterious Drone Encounter at Barksdale Air Force Base</a></p><p class="youtube-embed-meta">Channel: Shawn Ryan Show &middot; Views: 127.3K &middot; Uploaded: May 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VXhY3YFDQKk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VXhY3YFDQKk">Open on YouTube</a></p></div></div></div>
 
 ## Balloons, aircraft and the limits of “not explained”
@@ -314,18 +310,16 @@ Civilian databases add another layer. The National UFO Reporting Center includes
 
 A fair Barksdale assessment therefore has to keep two ideas together. First, witnesses may have seen something genuinely puzzling from their vantage point. Second, the available record often does not let later readers rule out aircraft, balloons, meteors, satellites, drones, reflections, or ordinary lights seen under unusual conditions.
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-2-light.svg" | relative_url }}" alt="Barksdale illustration 2" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-2-dark.svg" | relative_url }}" alt="Barksdale illustration 2" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Modern drones have changed the meaning of “unknown lights”
 
-The [2026 Barksdale drone]({{ '2026-drone-incursions/' | relative_url }}) incidents show why older UFO language can be misleading today. On 31 March 2026, Air Force Global Strike Command published a fact-check saying that, beginning Monday 9 March, Barksdale AFB experienced several unauthorised drone incursions that varied in duration and number of drones. It also said base leadership issued a shelter-in-place order on the morning of 9 March, later lifted the same morning, and that operations continued while the incident remained under active federal investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afgsc.af.mil">[Air Force Global Strike Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afgsc.af.mil</span><span class="citation-popover-title">Air Force Global Strike Command FACT CHECK: Barksdale Drone Incursion</span><span class="citation-popover-snippet">Air Force Global Strike Command FACT CHECK: Barksdale Drone Incursion</span></span></span>
+The 2026 Barksdale drone incidents show why older UFO language can be misleading today. On 31 March 2026, Air Force Global Strike Command published a fact-check saying that, beginning Monday 9 March, Barksdale AFB experienced several unauthorised drone incursions that varied in duration and number of drones. It also said base leadership issued a shelter-in-place order on the morning of 9 March, later lifted the same morning, and that operations continued while the incident remained under active federal investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afgsc.af.mil">[Air Force Global Strike Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afgsc.af.mil</span><span class="citation-popover-title">Air Force Global Strike Command FACT CHECK: Barksdale Drone Incursion</span><span class="citation-popover-snippet">Air Force Global Strike Command FACT CHECK: Barksdale Drone Incursion</span></span></span>
 
 This is not a classic “UFO” case in the older saucer sense. The official terminology was drone or small unmanned aircraft system. Yet the public-facing ingredients are familiar: lights or objects over a sensitive base, initial uncertainty, restricted airspace, security concern, incomplete public information and rapid media amplification. ABC News reported, citing a confidential internal briefing, that between 9 and 15 March 2026 Barksdale Security Forces observed multiple waves of 12–15 drones over sensitive areas, including the flight line, with long-range links and resistance to jamming described in the document. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News&#x27;Multiple waves&#x27; of unauthorized drones recently spotted</span><span class="citation-popover-snippet">ABC News&#x27;Multiple waves&#x27; of unauthorized drones recently spotted</span></span></span>
 
-Local reporting from KSLA/WAFB carried the base’s statement that multiple unauthorised drones entered Barksdale airspace during the week of 9 March and that flying a drone over a military installation is a safety issue and a criminal offence under federal law. It also reported that the first 9 March sighting triggered a shelter-in-place order and that the FAA was contacted as part of the investigation. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wafb.com/2026/03/20/barksdale-confirms-multiple-drones-entered-its-airspace-week-march-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wafb.com">[www.wafb.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wafb.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> PBS NewsHour later framed the incident as part of a wider concern about drone swarms over key U.S. military bases, noting that the Barksdale activity was being investigated by federal and local law enforcement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/video/deptula-dis-1774646710/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">News Hour | Drone swarms over key U.S. military bases</span><span class="citation-popover-snippet">News Hour | Drone swarms over key U.S. military bases</span></span></span>
+Local reporting from KSLA/WAFB carried the base’s statement that multiple unauthorised drones entered Barksdale airspace during the week of 9 March and that flying a drone over a military installation is a safety issue and a criminal offence under federal law. It also reported that the first 9 March sighting triggered a shelter-in-place order and that the FAA was contacted as part of the investigation. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wafb.com/2026/03/20/barksdale-confirms-multiple-drones-entered-its-airspace-week-march-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wafb.com">[www.wafb.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wafb.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> PBS NewsHour later framed the incident as part of a wider concern about drone swarms over key U.S. military bases, noting that the Barksdale activity was being investigated by federal and local law enforcement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/video/deptula-dis-1774646710/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">News Hour &#124; Drone swarms over key U.S. military bases</span><span class="citation-popover-snippet">News Hour &#124; Drone swarms over key U.S. military bases</span></span></span>
 
 For readers trying to understand UFO history, the lesson is sharp. Some modern “mystery lights” near military bases may be neither alien craft nor misidentified stars. They may be unauthorised drones, some of them capable enough to create serious security problems. That makes the sightings more real in one sense, but less exotic in another.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HXOfCmMOvzQ" title="Why the US government won&#x27;t explain what&#x27;s in our skies | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HXOfCmMOvzQ" target="_blank" rel="noopener noreferrer">Why the US government won&#x27;t explain what&#x27;s in our skies | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 221.6K &middot; Uploaded: April 2026 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HXOfCmMOvzQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HXOfCmMOvzQ">Open on YouTube</a></p></div></div></div>
 
@@ -339,8 +333,7 @@ It also explains why officials may say relatively little while an incident is ac
 
 The Barksdale pattern is therefore a good warning against two common errors. The first is dismissing every report near a base as “just military activity” without checking whether officials confirmed an incursion or investigation. The second is treating every restricted-airspace sighting as evidence of an extraordinary craft. Both shortcuts skip the hard part: matching the report to time, location, flight activity, sensor data, official response and independent witnesses.
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-3-light.svg" | relative_url }}" alt="Barksdale illustration 3" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-3-dark.svg" | relative_url }}" alt="Barksdale illustration 3" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How strong is the Barksdale evidence?
 
 Barksdale’s UFO value lies in its layered record rather than in one decisive incident. The 1952 lights have local press interest and a Project Blue Book paper trail, but the surviving public summaries do not provide enough detail to classify the objects with confidence. Later civilian database reports show that people continued to connect unusual lights around Shreveport and Bossier Parish with the base, but most such reports remain anecdotal. The [2026 drone incursions]({{ '2026-drone-incursions/' | relative_url }}), by contrast, are strongly documented as a real security event, but they point towards unauthorised unmanned systems rather than exotic craft.
@@ -350,7 +343,6 @@ A practical evidence scale helps:
 Barksdale-area materialWhat it supportsWhat it does not prove1952 local newspaper reportsRepeated lights over or near Barksdale were publicly discussed and debatedThat the lights were non-human craftProject Blue Book-related Barksdale fileThe event was serious enough to enter Air Force UFO-reporting channelsThat the Air Force judged it extraordinaryLater NUFORC-style reportsWitnesses continued to report unusual lights and objects in the Shreveport-Bossier areaThat the reports were independently verified2026 drone incursionsUnauthorised aerial objects did enter Barksdale airspace and triggered official concernThat the objects were UFOs in the extraterrestrial sense
 
 That distinction matters for Louisiana as a whole. The state’s strongest unresolved UFO discussions usually depend on the quality of the record: named witnesses, physical traces, official documents, or multiple independent observations. Barksdale contributes something different. It shows how an active military setting can generate ambiguity even when the witnesses are sincere and the objects are real.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/42fc2WNx1SY" title="New details on drone that shut down Louisiana Air Force base" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=42fc2WNx1SY" target="_blank" rel="noopener noreferrer">New details on drone that shut down Louisiana Air Force base</a></p><p class="youtube-embed-meta">Channel: ABC News &middot; Views: 28.7K &middot; Uploaded: March 2026 &middot; Length: 1 minute 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=42fc2WNx1SY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=42fc2WNx1SY">Open on YouTube</a></p></div></div></div>
 
@@ -783,190 +775,190 @@ For a Louisiana UFO history page, that is the central takeaway: Barksdale sighti
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=22792](https://nuforc.org/sighting/?id=22792)  
+   Link: <a href="https://nuforc.org/sighting/?id=22792" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=22792</a>  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=5195](https://nuforc.org/sighting/?id=5195)  
+   Link: <a href="https://nuforc.org/sighting/?id=5195" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=5195</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=56526](https://nuforc.org/sighting/?id=56526)  
+   Link: <a href="https://nuforc.org/sighting/?id=56526" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=56526</a>  
 
 4. <a id="endnote-4"></a>
    Source: wafb.com  
-   Link: [https://www.wafb.com/2026/03/20/barksdale-confirms-multiple-drones-entered-its-airspace-week-march-9/](https://www.wafb.com/2026/03/20/barksdale-confirms-multiple-drones-entered-its-airspace-week-march-9/)  
+   Link: <a href="https://www.wafb.com/2026/03/20/barksdale-confirms-multiple-drones-entered-its-airspace-week-march-9/" target="_blank" rel="noopener noreferrer nofollow">https://www.wafb.com/2026/03/20/barksdale-confirms-multiple-drones-entered-its-airspace-week-march-9/</a>  
 
 5. <a id="endnote-5"></a>
    Source: pbs.org  
    Title: News Hour | Drone swarms over key U.S. military bases  
-   Link: [https://www.pbs.org/video/deptula-dis-1774646710/](https://www.pbs.org/video/deptula-dis-1774646710/)  
+   Link: <a href="https://www.pbs.org/video/deptula-dis-1774646710/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/video/deptula-dis-1774646710/</a>  
 
 6. <a id="endnote-6"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/uas/getting_started/b4ufly](https://www.faa.gov/uas/getting_started/b4ufly)  
+   Link: <a href="https://www.faa.gov/uas/getting_started/b4ufly" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/getting_started/b4ufly</a>  
 
 7. <a id="endnote-7"></a>
    Source: udds-faa.opendata.arcgis.com  
-   Link: [https://udds-faa.opendata.arcgis.com/datasets/faa%3A%3Anational-security-uas-flight-restrictions-1/about](https://udds-faa.opendata.arcgis.com/datasets/faa%3A%3Anational-security-uas-flight-restrictions-1/about)  
+   Link: <a href="https://udds-faa.opendata.arcgis.com/datasets/faa%3A%3Anational-security-uas-flight-restrictions-1/about" target="_blank" rel="noopener noreferrer nofollow">https://udds-faa.opendata.arcgis.com/datasets/faa%3A%3Anational-security-uas-flight-restrictions-1/about</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=58595](https://nuforc.org/sighting/?id=58595)  
+   Link: <a href="https://nuforc.org/sighting/?id=58595" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=58595</a>  
 
 9. <a id="endnote-9"></a>
    Source: faa.gov  
    Title: establishes restrictions drone operations over additional military facilities  
-   Link: [https://www.faa.gov/newsroom/faa-establishes-restrictions-drone-operations-over-additional-military-facilities](https://www.faa.gov/newsroom/faa-establishes-restrictions-drone-operations-over-additional-military-facilities)  
+   Link: <a href="https://www.faa.gov/newsroom/faa-establishes-restrictions-drone-operations-over-additional-military-facilities" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/faa-establishes-restrictions-drone-operations-over-additional-military-facilities</a>  
 
 10. <a id="endnote-10"></a>
    Source: faa.gov  
    Title: no drone zone  
-   Link: [https://www.faa.gov/uas/resources/community_engagement/no_drone_zone](https://www.faa.gov/uas/resources/community_engagement/no_drone_zone)  
+   Link: <a href="https://www.faa.gov/uas/resources/community_engagement/no_drone_zone" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/resources/community_engagement/no_drone_zone</a>  
 
 11. <a id="endnote-11"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap21_section_6.html](https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap21_section_6.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap21_section_6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap21_section_6.html</a>  
 
 12. <a id="endnote-12"></a>
    Source: archive.org  
    Title: Blue Book Artifacts  
-   Link: [https://archive.org/details/BlueBookArtifacts](https://archive.org/details/BlueBookArtifacts)  
+   Link: <a href="https://archive.org/details/BlueBookArtifacts" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/BlueBookArtifacts</a>  
 
 13. <a id="endnote-13"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: ksla.com  
    Title: 2 barksdale b 52s deploy diego garcia support bomber task force mission  
-   Link: [https://www.ksla.com/2024/03/24/2-barksdale-b-52s-deploy-diego-garcia-support-bomber-task-force-mission/](https://www.ksla.com/2024/03/24/2-barksdale-b-52s-deploy-diego-garcia-support-bomber-task-force-mission/)  
+   Link: <a href="https://www.ksla.com/2024/03/24/2-barksdale-b-52s-deploy-diego-garcia-support-bomber-task-force-mission/" target="_blank" rel="noopener noreferrer nofollow">https://www.ksla.com/2024/03/24/2-barksdale-b-52s-deploy-diego-garcia-support-bomber-task-force-mission/</a>  
 
 15. <a id="endnote-15"></a>
    Source: bossierlibrary.org  
-   Link: [https://www.bossierlibrary.org/node/29651](https://www.bossierlibrary.org/node/29651)  
+   Link: <a href="https://www.bossierlibrary.org/node/29651" target="_blank" rel="noopener noreferrer nofollow">https://www.bossierlibrary.org/node/29651</a>  
 
 16. <a id="endnote-16"></a>
    Source: theprojectbluebookarchive.org  
    Title: Project Blue Book Archive Untitled  
-   Link: [https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part2/28949257.pdf](https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part2/28949257.pdf)  
+   Link: <a href="https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part2/28949257.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part2/28949257.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
 18. <a id="endnote-18"></a>
    Source: barksdale.af.mil  
-   Link: [https://www.barksdale.af.mil/Units/Fact-Sheets/Article/320180/2nd-bomb-wing/](https://www.barksdale.af.mil/Units/Fact-Sheets/Article/320180/2nd-bomb-wing/)  
+   Link: <a href="https://www.barksdale.af.mil/Units/Fact-Sheets/Article/320180/2nd-bomb-wing/" target="_blank" rel="noopener noreferrer nofollow">https://www.barksdale.af.mil/Units/Fact-Sheets/Article/320180/2nd-bomb-wing/</a>  
 
 19. <a id="endnote-19"></a>
    Source: barksdale.af.mil  
    Title: 2nd bomb wing history  
-   Link: [https://www.barksdale.af.mil/Units/Fact-Sheets/Display/Article/320182/2nd-bomb-wing-history/](https://www.barksdale.af.mil/Units/Fact-Sheets/Display/Article/320182/2nd-bomb-wing-history/)  
+   Link: <a href="https://www.barksdale.af.mil/Units/Fact-Sheets/Display/Article/320182/2nd-bomb-wing-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.barksdale.af.mil/Units/Fact-Sheets/Display/Article/320182/2nd-bomb-wing-history/</a>  
 
 20. <a id="endnote-20"></a>
    Source: afgsc.af.mil  
    Title: Air Force Global Strike Command FACT CHECK: Barksdale Drone Incursion  
-   Link: [https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/](https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/)  
+   Link: <a href="https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/" target="_blank" rel="noopener noreferrer nofollow">https://www.afgsc.af.mil/News/Article-Display/Article/4448052/fact-check-barksdale-drone-incursion/</a>  
 
 21. <a id="endnote-21"></a>
    Source: abcnews.com  
    Title: ABC News'Multiple waves' of unauthorized drones recently spotted  
-   Link: [https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527](https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527)  
+   Link: <a href="https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/International/multiple-waves-unauthorized-drones-spotted-strategic-us-air/story?id=131245527</a>  
 
 22. <a id="endnote-22"></a>
    Source: barksdale.af.mil  
-   Link: [https://www.barksdale.af.mil/News/Press-Releases/Display/Article/3896561/barksdale-air-force-base-is-a-no-drone-zone/](https://www.barksdale.af.mil/News/Press-Releases/Display/Article/3896561/barksdale-air-force-base-is-a-no-drone-zone/)  
+   Link: <a href="https://www.barksdale.af.mil/News/Press-Releases/Display/Article/3896561/barksdale-air-force-base-is-a-no-drone-zone/" target="_blank" rel="noopener noreferrer nofollow">https://www.barksdale.af.mil/News/Press-Releases/Display/Article/3896561/barksdale-air-force-base-is-a-no-drone-zone/</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Barksdale Air Force Base  
-   Link: [https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base](https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base)  
+   Link: <a href="https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TeamBarksdale/posts/reminder-for-team-barksdale-barksdale-air-force-base-remains-a-no-drone-zone-for/1121103903379962/](https://www.facebook.com/TeamBarksdale/posts/reminder-for-team-barksdale-barksdale-air-force-base-remains-a-no-drone-zone-for/1121103903379962/)  
+   Link: <a href="https://www.facebook.com/TeamBarksdale/posts/reminder-for-team-barksdale-barksdale-air-force-base-remains-a-no-drone-zone-for/1121103903379962/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TeamBarksdale/posts/reminder-for-team-barksdale-barksdale-air-force-base-remains-a-no-drone-zone-for/1121103903379962/</a>  
 
 26. <a id="endnote-26"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DWHhzJ8kQXS/](https://www.instagram.com/p/DWHhzJ8kQXS/)  
+   Link: <a href="https://www.instagram.com/p/DWHhzJ8kQXS/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWHhzJ8kQXS/</a>  
 
 27. <a id="endnote-27"></a>
    Source: dronelife.com  
    Title: barksdale air force base drone incident  
-   Link: [https://dronelife.com/2026/03/30/barksdale-air-force-base-drone-incident/](https://dronelife.com/2026/03/30/barksdale-air-force-base-drone-incident/)  
+   Link: <a href="https://dronelife.com/2026/03/30/barksdale-air-force-base-drone-incident/" target="_blank" rel="noopener noreferrer nofollow">https://dronelife.com/2026/03/30/barksdale-air-force-base-drone-incident/</a>  
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: 2nd Bomb Wing  
-   Link: [https://www.youtube.com/c/2ndBombWingOfficial/videos](https://www.youtube.com/c/2ndBombWingOfficial/videos)  
+   Link: <a href="https://www.youtube.com/c/2ndBombWingOfficial/videos" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/c/2ndBombWingOfficial/videos</a>  
 
 29. <a id="endnote-29"></a>
    Source: x.com  
-   Link: [https://x.com/JenGriffinFNC/status/2037506764875104410](https://x.com/JenGriffinFNC/status/2037506764875104410)  
+   Link: <a href="https://x.com/JenGriffinFNC/status/2037506764875104410" target="_blank" rel="noopener noreferrer nofollow">https://x.com/JenGriffinFNC/status/2037506764875104410</a>  
 
 30. <a id="endnote-30"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 31. <a id="endnote-31"></a>
    Source: vetfriends.com  
-   Link: [https://www.vetfriends.com/branches/air-force/units/2nd-bomb-wing](https://www.vetfriends.com/branches/air-force/units/2nd-bomb-wing)  
+   Link: <a href="https://www.vetfriends.com/branches/air-force/units/2nd-bomb-wing" target="_blank" rel="noopener noreferrer nofollow">https://www.vetfriends.com/branches/air-force/units/2nd-bomb-wing</a>  
 
 ### Additional References
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: Why the US government won't explain what's in our skies | Reality Check  
-   Link: [https://www.youtube.com/watch?v=HXOfCmMOvzQ](https://www.youtube.com/watch?v=HXOfCmMOvzQ)  
+   Link: <a href="https://www.youtube.com/watch?v=HXOfCmMOvzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HXOfCmMOvzQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Mysterious Drone Encounter at Barksdale Air Force Base...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: Inside the Mysterious Drone Encounter at Barksdale Air Force Base  
-   Link: [https://www.youtube.com/watch?v=VXhY3YFDQKk](https://www.youtube.com/watch?v=VXhY3YFDQKk)  
+   Link: <a href="https://www.youtube.com/watch?v=VXhY3YFDQKk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VXhY3YFDQKk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New details on drone that shut down Louisiana Air Force base...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: New details on drone that shut down Louisiana Air Force base  
-   Link: [https://www.youtube.com/watch?v=42fc2WNx1SY](https://www.youtube.com/watch?v=42fc2WNx1SY)  
+   Link: <a href="https://www.youtube.com/watch?v=42fc2WNx1SY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=42fc2WNx1SY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: Project Blue Book: America's Obsession with UFOs  
-   Link: [https://www.youtube.com/watch?v=Xu4oTBBI5UE](https://www.youtube.com/watch?v=Xu4oTBBI5UE)  
+   Link: <a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xu4oTBBI5UE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Air Force on Lockdown after UFO Flies into Airspace...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/LetterkennyArmyDepot/posts/didyouknow-that-the-airspace-over-army-installations-is-a-no-drone-zone-designat/5348204741944790/](https://www.facebook.com/LetterkennyArmyDepot/posts/didyouknow-that-the-airspace-over-army-installations-is-a-no-drone-zone-designat/5348204741944790/)  
+   Link: <a href="https://www.facebook.com/LetterkennyArmyDepot/posts/didyouknow-that-the-airspace-over-army-installations-is-a-no-drone-zone-designat/5348204741944790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LetterkennyArmyDepot/posts/didyouknow-that-the-airspace-over-army-installations-is-a-no-drone-zone-designat/5348204741944790/</a>  
 
 37. <a id="endnote-37"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/unit/2DBWPA](https://www.dvidshub.net/unit/2DBWPA)  
+   Link: <a href="https://www.dvidshub.net/unit/2DBWPA" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/unit/2DBWPA</a>  
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ABCNews/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larg/1358474306139446/](https://www.facebook.com/ABCNews/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larg/1358474306139446/)  
+   Link: <a href="https://www.facebook.com/ABCNews/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larg/1358474306139446/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/a-drone-sighting-that-temporarily-raised-alarms-at-one-of-the-us-air-forces-larg/1358474306139446/</a>  
 
 39. <a id="endnote-39"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DWHyyN_Au-b/?hl=en](https://www.instagram.com/reel/DWHyyN_Au-b/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DWHyyN_Au-b/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWHyyN_Au-b/?hl=en</a>  
 
 40. <a id="endnote-40"></a>
    Source: caa.co.uk  
-   Link: [https://www.caa.co.uk/drones/open-category/moving-on-to-more-advanced-flying/airspace/airspace-restrictions/](https://www.caa.co.uk/drones/open-category/moving-on-to-more-advanced-flying/airspace/airspace-restrictions/)  
+   Link: <a href="https://www.caa.co.uk/drones/open-category/moving-on-to-more-advanced-flying/airspace/airspace-restrictions/" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/drones/open-category/moving-on-to-more-advanced-flying/airspace/airspace-restrictions/</a>  
 
 41. <a id="endnote-41"></a>
    Source: historyinpieces.com  
-   Link: [https://historyinpieces.com/research/video/b52-bombers-alert-barksdale-air-force-base-cuban-missile-crisis](https://historyinpieces.com/research/video/b52-bombers-alert-barksdale-air-force-base-cuban-missile-crisis)  
+   Link: <a href="https://historyinpieces.com/research/video/b52-bombers-alert-barksdale-air-force-base-cuban-missile-crisis" target="_blank" rel="noopener noreferrer nofollow">https://historyinpieces.com/research/video/b52-bombers-alert-barksdale-air-force-base-cuban-missile-crisis</a>

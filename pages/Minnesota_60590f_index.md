@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /minnesota-60590f-index/
 description: Focused pages that expand on What Really Happened in Minnesota's Skies?.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Minnesota_60590f
 parent_title: What Really Happened in Minnesota's Skies?

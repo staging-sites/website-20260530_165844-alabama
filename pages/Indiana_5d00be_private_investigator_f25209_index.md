@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /indiana-5d00be-private-investigator/
 description: Focused pages that expand on Corydon Cases.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Indiana_5d00be_private_investigator_f25209
-parent_title: Corydon Cases | What Makes Indiana’s UFO History Unique and...
+parent_title: Corydon Cases
 parent_nav_short_title: Corydon Cases
 parent_permalink: /corydon-cases/
 ---

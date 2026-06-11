@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ohio-d318c1-index/
 description: Focused pages that expand on Why Ohio Became a UFO State.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Ohio_d318c1
 parent_title: Why Ohio Became a UFO State

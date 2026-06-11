@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-did-kansas-really-see/
 nav_short_title: Blue Book
 title: What Did Official Files Say About Kansas?
-title_full: What Did Official Files Say About Kansas? | Kansas UFOs
+title_full: What Did Official Files Say About Kansas?
 display_title_short: Blue Book
 display_title: Blue Book
 heading_title: What Did Official Files Say About Kansas?
@@ -234,10 +234,10 @@ sibling_links:
   heading_title: When Kansas UFO Stories Become Folklore
 child_links:
 - basename: Kansas_48303f_blue_book_wichita_8ff0a7_mcconnell_wichita_in_1caf8a
-  title: McConnell Probe | Blue Book
-  permalink: /mcconnell-probe/
-  short_title: McConnell Probe
-  heading_title: What McConnell Air Force Base Actually Investigated
+  title: Mc Connell Probe | Blue Book
+  permalink: /mc-connell-probe/
+  short_title: Mc Connell Probe
+  heading_title: What Mc Connell Air Force Base Actually Investigated
 - basename: Kansas_48303f_blue_book_wichita_8ff0a7_wichita_radar_blue_b_c2222c
   title: Wichita Radar | Blue Book
   permalink: /wichita-radar/
@@ -262,8 +262,7 @@ image: /assets/images/Kansas_48303f_blue_book_wichita_8ff0a7-overview-social.jpg
 
 ## Introduction
 
-Project Blue Book records from Wichita and McConnell show a quieter, more bureaucratic side of [Kansas]({{ 'what-did-kansas-really-see/' | relative_url }}) UFO history. The most useful surviving file is not a dramatic crashed-saucer story, but a 1966 Air Force case in which four civilian witnesses in downtown Wichita reported two daylight objects, and McConnell Air Force Base was asked to investigate. The file matters because it shows how official UFO work actually functioned: local base reporting, weather checks, aircraft and balloon comparisons, witness uncertainty, and cautious wording rather than tidy revelation. The result was not proof of an extraordinary craft. It was a paper trail showing why many Kansas reports entered the official system, why some remained awkward to classify, and why “unidentified” in Blue Book records usually meant limited evidence rather than alien confirmation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1966-05-7092494-Wichita-Kansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project Blue Book report 1966 05 7092494 Wichita Kansas</span><span class="citation-popover-snippet">File:Project Blue Book report 1966 05 7092494 Wichita Kansas</span></span></span>
-
+Project Blue Book records from Wichita and McConnell show a quieter, more bureaucratic side of Kansas UFO history. The most useful surviving file is not a dramatic crashed-saucer story, but a 1966 Air Force case in which four civilian witnesses in downtown Wichita reported two daylight objects, and McConnell Air Force Base was asked to investigate. The file matters because it shows how official UFO work actually functioned: local base reporting, weather checks, aircraft and balloon comparisons, witness uncertainty, and cautious wording rather than tidy revelation. The result was not proof of an extraordinary craft. It was a paper trail showing why many Kansas reports entered the official system, why some remained awkward to classify, and why “unidentified” in Blue Book records usually meant limited evidence rather than alien confirmation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1966-05-7092494-Wichita-Kansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project Blue Book report 1966 05 7092494 Wichita Kansas</span><span class="citation-popover-snippet">File:Project Blue Book report 1966 05 7092494 Wichita Kansas</span></span></span>
 
 <img src="{{ "/assets/images/Kansas_48303f_blue_book_wichita_8ff0a7-overview.webp" | relative_url }}" alt="Overview image for Blue Book" loading="eager" decoding="sync" fetchpriority="high">
 ## How Wichita entered Blue Book records
@@ -276,8 +275,7 @@ This was exactly how Project Blue Book said the system was meant to work. A 1 Fe
 
 For Kansas readers, that matters because it keeps the story grounded. McConnell was not an incidental backdrop or a rumoured secret site in this case. It was the local Air Force node that collected and assessed the information. Wichita entered the file not as [folklore]({{ 'folklore/' | relative_url }}), but as an administrative case: date, time, witnesses, aircraft checks, weather conditions, possible explanations and a tentative conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1966-05-7092494-Wichita-Kansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project Blue Book report 1966 05 7092494 Wichita Kansas</span><span class="citation-popover-snippet">File:Project Blue Book report 1966 05 7092494 Wichita Kansas</span></span></span>
 
-
-<img src="{{ "/assets/images/Kansas_48303f_blue_book_wichita_8ff0a7-Illustration-1-light.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_blue_book_wichita_8ff0a7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_blue_book_wichita_8ff0a7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Kansas_48303f_blue_book_wichita_8ff0a7-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_blue_book_wichita_8ff0a7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_blue_book_wichita_8ff0a7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What McConnell checked before judging the sighting
 
 The McConnell report did not treat the witnesses as obviously wrong, but it also did not treat their description as self-proving. Its first problem was the airspace over Wichita. The preliminary analysis said there were 80 to 100 aircraft in the air over the Wichita area during the first sighting and 60 to 70 during the second. That was a major complication: even if the witnesses were sincere, the sky was busy enough that aircraft reflections, distance errors, or unusual viewing angles had to be considered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1966-05-7092494-Wichita-Kansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project Blue Book report 1966 05 7092494 Wichita Kansas</span><span class="citation-popover-snippet">File:Project Blue Book report 1966 05 7092494 Wichita Kansas</span></span></span>
@@ -287,7 +285,6 @@ The witnesses reportedly said the object was not an aircraft. The investigator n
 At the same time, the report leaned away from the extraordinary. Makinen wrote that, without attention to size, the objects might fit the description of a satellite because of the straight course and tumbling effect. He also noted that no reliable estimate of distance could be made, which meant the perceived size might have been badly misjudged. His final comment was cautious rather than triumphant: he could reach no firm conclusion, testimony seemed to change slightly when discussed, no one else in the area reported the same two events, and his “only conclusion” was that it was not a visitation from outer space. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1966-05-7092494-Wichita-Kansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project Blue Book report 1966 05 7092494 Wichita Kansas</span><span class="citation-popover-snippet">File:Project Blue Book report 1966 05 7092494 Wichita Kansas</span></span></span>
 
 The formal summary bears the same ambiguity. A handwritten note on the Project 10073 record appears to caution that a firm conclusion was not possible without more in-depth investigation, while the typed conclusion points towards “possible aircraft”. That combination is important. The file does not read like a clean debunking, but it also does not preserve a strong unexplained case. It sits in the middle ground that makes many Blue Book records frustrating: enough information to suggest mundane causes, not enough to settle the matter beyond doubt. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1966-05-7092494-Wichita-Kansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project Blue Book report 1966 05 7092494 Wichita Kansas</span><span class="citation-popover-snippet">File:Project Blue Book report 1966 05 7092494 Wichita Kansas</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YvpN6Imoj44" title="Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer">Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 140.8K &middot; Uploaded: March 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YvpN6Imoj44">Open on YouTube</a></p></div></div></div>
 
@@ -301,8 +298,7 @@ In the Wichita case, balloons were checked but not strongly supported. Aircraft 
 
 This makes the case a useful corrective to two common myths. One myth says official UFO files simply ignored witness claims. The Wichita file does not support that; it recorded the witnesses’ descriptions, rejected at least one weak explanation, and noted the limits of the evidence. The opposite myth says an official file automatically gives a sighting special evidential weight. The same record shows the problem with that view: the witnesses were in one location, there were no photographs, no physical evidence, no radar confirmation, and no independent reports from other people in the area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1966-05-7092494-Wichita-Kansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project Blue Book report 1966 05 7092494 Wichita Kansas</span><span class="citation-popover-snippet">File:Project Blue Book report 1966 05 7092494 Wichita Kansas</span></span></span>
 
-
-<img src="{{ "/assets/images/Kansas_48303f_blue_book_wichita_8ff0a7-Illustration-2-light.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_blue_book_wichita_8ff0a7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_blue_book_wichita_8ff0a7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Kansas_48303f_blue_book_wichita_8ff0a7-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_blue_book_wichita_8ff0a7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_blue_book_wichita_8ff0a7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The radar shadow of Wichita’s 1965 reports
 
 The 1966 McConnell file is not the only reason Wichita matters in Blue Book-era discussion. Wichita also appears in accounts of the broader 1965 Midwestern UFO controversy, when reports from several states drew attention to Project Blue Book’s explanations. A frequently cited Kansas thread concerns John Shockley, a Wichita Weather Bureau observer, who reportedly tracked unusual radar targets at altitudes in the thousands of feet during an early-morning sighting period. Secondary accounts connect those [Wichita radar]({{ 'wichita-radar/' | relative_url }}) reports with the wider 1965 flap that Blue Book publicly leaned towards astronomical explanations for, including Jupiter and bright stars. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/bradsteigerstrangersfromtheskies/Brad%20Steiger%20-%20Strangers%20From%20The%20Skies.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Strangers From The Skies By Brad Steiger</span><span class="citation-popover-snippet">Internet Archive Strangers From The Skies By Brad Steiger</span></span></span>
@@ -312,7 +308,6 @@ This 1965 material should be handled carefully. It is relevant to the Wichita-an
 The Wichita weather-office setting is at least plausible in local infrastructure terms. The National Weather Service’s Wichita history notes that the office had weather radar from 1947 and that a WSR-3 Weather Surveillance Radar became operational in 1956. That does not prove any UFO interpretation, but it helps explain how Wichita could produce weather-radar-related UFO claims during the Blue Book era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/ict/history" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The difference between the two Wichita threads is important. The 1965 radar story raises questions about Blue Book’s public explanations and the limits of astronomical debunking. The 1966 McConnell file shows a more contained case in which the Air Force looked at aircraft, balloons, satellite-like motion, weather and witness consistency. Together they place Wichita in Kansas UFO history not as a single spectacular incident, but as a location where official procedures, aviation traffic and weather-observation culture overlapped. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[ESD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">proj b1</span><span class="citation-popover-snippet">proj b1</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DEzzYga0QrY" title="Wichita Overview | An informative introduction to Wichita, Kansas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DEzzYga0QrY" target="_blank" rel="noopener noreferrer">Wichita Overview | An informative introduction to Wichita, Kansas</a></p><p class="youtube-embed-meta">Channel: City Geek &middot; Views: 27.1K &middot; Uploaded: June 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DEzzYga0QrY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DEzzYga0QrY">Open on YouTube</a></p></div></div></div>
 
@@ -326,8 +321,7 @@ The Wichita-McConnell case shows the strength and weakness of that system. Its s
 
 That is why the file is more valuable as governance evidence than as proof of an anomaly. It tells us how Kansas UFO reports were processed before the Air Force left the field in 1969. It shows that McConnell’s role was procedural and investigative, not a sign that the case was secretly extraordinary. It also explains why later Kansas UFO stories, especially post-1969 cases such as Delphos or the Dighton-area wave, developed in a different environment, where local newspapers, sheriffs, private investigators and later archives carried more of the interpretive load. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
-
-<img src="{{ "/assets/images/Kansas_48303f_blue_book_wichita_8ff0a7-Illustration-3-light.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_blue_book_wichita_8ff0a7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_blue_book_wichita_8ff0a7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Kansas_48303f_blue_book_wichita_8ff0a7-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Kansas_48303f_blue_book_wichita_8ff0a7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kansas_48303f_blue_book_wichita_8ff0a7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Wichita and McConnell records really add to Kansas UFO history
 
 The Wichita and McConnell Blue Book records do not deliver a famous Kansas mystery on the scale of Delphos. Their importance is quieter: they show Kansas inside the machinery of federal UFO investigation. The 1966 file captures a moment when four civilians saw something they considered unusual, a local Air Force base gathered data, and the official system tried to reduce the report to known categories without enough evidence to make the answer entirely satisfying. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1966-05-7092494-Wichita-Kansas.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">File:Project Blue Book report 1966 05 7092494 Wichita Kansas</span><span class="citation-popover-snippet">File:Project Blue Book report 1966 05 7092494 Wichita Kansas</span></span></span>
@@ -336,9 +330,7 @@ For readers trying to judge Kansas UFO claims, the case offers three useful less
 
 In the end, the Wichita-McConnell record is best read as a modest but revealing Kansas Blue Book file. It does not strengthen the case for extraterrestrial visitors. It does strengthen the historical picture of how Kansas sightings were filtered through Air Force procedure, local aviation knowledge and the limits of mid-century evidence collection.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JAM1SxdQXfc" title="UFO Photographed in Wichita Kansas KAKE News Reports From New York" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JAM1SxdQXfc" target="_blank" rel="noopener noreferrer">UFO Photographed in Wichita Kansas KAKE News Reports From New York</a></p><p class="youtube-embed-meta">Channel: Hale Kaden &middot; Views: 11.7K &middot; Uploaded: February 2009 &middot; Length: 2 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JAM1SxdQXfc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JAM1SxdQXfc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -762,160 +754,160 @@ In the end, the Wichita-McConnell record is best read as a modest but revealing 
 1. <a id="endnote-1"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book report 1966 05 7092494 Wichita Kansas  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/5/51/Project_Blue_Book_report_-_1966-05-7092494-Wichita-Kansas.pdf](https://upload.wikimedia.org/wikipedia/commons/5/51/Project_Blue_Book_report_-_1966-05-7092494-Wichita-Kansas.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/5/51/Project_Blue_Book_report_-_1966-05-7092494-Wichita-Kansas.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/51/Project_Blue_Book_report_-_1966-05-7092494-Wichita-Kansas.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: esd.whs.mil  
    Title: proj b1  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837</a>  
 
 3. <a id="endnote-3"></a>
    Source: archive.org  
    Title: Internet Archive Strangers From The Skies By Brad Steiger  
-   Link: [https://archive.org/download/bradsteigerstrangersfromtheskies/Brad%20Steiger%20-%20Strangers%20From%20The%20Skies.pdf](https://archive.org/download/bradsteigerstrangersfromtheskies/Brad%20Steiger%20-%20Strangers%20From%20The%20Skies.pdf)  
+   Link: <a href="https://archive.org/download/bradsteigerstrangersfromtheskies/Brad%20Steiger%20-%20Strangers%20From%20The%20Skies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/bradsteigerstrangersfromtheskies/Brad%20Steiger%20-%20Strangers%20From%20The%20Skies.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: sohp.us  
-   Link: [https://sohp.us/history-of-the-usaf-ufo-programs/8-turning-point.php](https://sohp.us/history-of-the-usaf-ufo-programs/8-turning-point.php)  
+   Link: <a href="https://sohp.us/history-of-the-usaf-ufo-programs/8-turning-point.php" target="_blank" rel="noopener noreferrer nofollow">https://sohp.us/history-of-the-usaf-ufo-programs/8-turning-point.php</a>  
 
 5. <a id="endnote-5"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/ict/history](https://www.weather.gov/ict/history)  
+   Link: <a href="https://www.weather.gov/ict/history" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/ict/history</a>  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 7. <a id="endnote-7"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR1 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf](https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: commons.wikimedia.org  
    Title: File:Project Blue Book report 1966 05 7092494 Wichita Kansas  
-   Link: [https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1966-05-7092494-Wichita-Kansas.pdf](https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1966-05-7092494-Wichita-Kansas.pdf)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1966-05-7092494-Wichita-Kansas.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1966-05-7092494-Wichita-Kansas.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: archive.org  
    Title: ufo 1966 1 djvu.txt  
-   Link: [https://archive.org/stream/ufo_1966_1/ufo_1966_1_djvu.txt](https://archive.org/stream/ufo_1966_1/ufo_1966_1_djvu.txt)  
+   Link: <a href="https://archive.org/stream/ufo_1966_1/ufo_1966_1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ufo_1966_1/ufo_1966_1_djvu.txt</a>  
 
 11. <a id="endnote-11"></a>
    Source: archive.org  
    Title: UFO Magazine Annual 1967 djvu.txt  
-   Link: [https://archive.org/stream/UFO_Magazine_Annual_1967/UFO_Magazine_Annual_1967_djvu.txt](https://archive.org/stream/UFO_Magazine_Annual_1967/UFO_Magazine_Annual_1967_djvu.txt)  
+   Link: <a href="https://archive.org/stream/UFO_Magazine_Annual_1967/UFO_Magazine_Annual_1967_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/UFO_Magazine_Annual_1967/UFO_Magazine_Annual_1967_djvu.txt</a>  
 
 12. <a id="endnote-12"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt](https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt)  
+   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
 
 13. <a id="endnote-13"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: project blue book looking to the film record  
-   Link: [https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/](https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/</a>  
 
 14. <a id="endnote-14"></a>
    Source: wichita.gov  
-   Link: [https://www.wichita.gov/](https://www.wichita.gov/)  
+   Link: <a href="https://www.wichita.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.wichita.gov/</a>  
 
 15. <a id="endnote-15"></a>
    Source: wichita.edu  
-   Link: [https://www.wichita.edu/about/about_wichita.php](https://www.wichita.edu/about/about_wichita.php)  
+   Link: <a href="https://www.wichita.edu/about/about_wichita.php" target="_blank" rel="noopener noreferrer nofollow">https://www.wichita.edu/about/about_wichita.php</a>  
 
 16. <a id="endnote-16"></a>
    Source: specialcollections.wichita.edu  
    Title: mcconnell air force base  
-   Link: [https://specialcollections.wichita.edu/collections/local_history/tihen/pdf/People%26Places/mcconnell_air_force_base.pdf](https://specialcollections.wichita.edu/collections/local_history/tihen/pdf/People%26Places/mcconnell_air_force_base.pdf)  
+   Link: <a href="https://specialcollections.wichita.edu/collections/local_history/tihen/pdf/People%26Places/mcconnell_air_force_base.pdf" target="_blank" rel="noopener noreferrer nofollow">https://specialcollections.wichita.edu/collections/local_history/tihen/pdf/People%26Places/mcconnell_air_force_base.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: military.com  
-   Link: [https://www.military.com/base-guide/mcconnell-air-force-base](https://www.military.com/base-guide/mcconnell-air-force-base)  
+   Link: <a href="https://www.military.com/base-guide/mcconnell-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/base-guide/mcconnell-air-force-base</a>  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Wichita, Kansas  
-   Link: [https://en.wikipedia.org/wiki/Wichita%2C_Kansas](https://en.wikipedia.org/wiki/Wichita%2C_Kansas)  
+   Link: <a href="https://en.wikipedia.org/wiki/Wichita%2C_Kansas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wichita%2C_Kansas</a>  
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://pt.wikipedia.org/wiki/Project_Blue_Book](https://pt.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://pt.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://pt.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 21. <a id="endnote-21"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 22. <a id="endnote-22"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 23. <a id="endnote-23"></a>
    Source: mcconnellhousing.com  
-   Link: [https://www.mcconnellhousing.com/history](https://www.mcconnellhousing.com/history)  
+   Link: <a href="https://www.mcconnellhousing.com/history" target="_blank" rel="noopener noreferrer nofollow">https://www.mcconnellhousing.com/history</a>  
 
 24. <a id="endnote-24"></a>
    Source: en.wikivoyage.org  
-   Link: [https://en.wikivoyage.org/wiki/Wichita](https://en.wikivoyage.org/wiki/Wichita)  
+   Link: <a href="https://en.wikivoyage.org/wiki/Wichita" target="_blank" rel="noopener noreferrer nofollow">https://en.wikivoyage.org/wiki/Wichita</a>  
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=9QG-W7vmxyE](https://www.youtube.com/watch?v=9QG-W7vmxyE)  
+   Link: <a href="https://www.youtube.com/watch?v=9QG-W7vmxyE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9QG-W7vmxyE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Photographed in Wichita Kansas KAKE News Reports From New York...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: UFO Photographed in Wichita Kansas KAKE News Reports From New York  
-   Link: [https://www.youtube.com/watch?v=JAM1SxdQXfc](https://www.youtube.com/watch?v=JAM1SxdQXfc)  
+   Link: <a href="https://www.youtube.com/watch?v=JAM1SxdQXfc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JAM1SxdQXfc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Project Blue Book: UFO Secrets Hidden Inside Hangar 18 (Season 2) | History  
-   Link: [https://www.youtube.com/watch?v=YvpN6Imoj44](https://www.youtube.com/watch?v=YvpN6Imoj44)  
+   Link: <a href="https://www.youtube.com/watch?v=YvpN6Imoj44" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YvpN6Imoj44</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Exposed (2020) [Documentary]...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/FR-1967-12-22/pdf/FR-1967-12-22.pdf](https://www.govinfo.gov/content/pkg/FR-1967-12-22/pdf/FR-1967-12-22.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/FR-1967-12-22/pdf/FR-1967-12-22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/FR-1967-12-22/pdf/FR-1967-12-22.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf](https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: Mass UFO sightings in Wichita, Kansas, USA  
-   Link: [https://www.youtube.com/watch?v=A_v_RYR7NZ0](https://www.youtube.com/watch?v=A_v_RYR7NZ0)  
+   Link: <a href="https://www.youtube.com/watch?v=A_v_RYR7NZ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A_v_RYR7NZ0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VISITING MY MIDDLE SCHOOL #shorts TyBott Official · 17M views...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: vetfriends.com  
-   Link: [https://www.vetfriends.com/branches/air-force/units/22nd-air-refueling-wing-](https://www.vetfriends.com/branches/air-force/units/22nd-air-refueling-wing-)  
+   Link: <a href="https://www.vetfriends.com/branches/air-force/units/22nd-air-refueling-wing-" target="_blank" rel="noopener noreferrer nofollow">https://www.vetfriends.com/branches/air-force/units/22nd-air-refueling-wing-</a>  
 
 33. <a id="endnote-33"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/unit/22ARWPA](https://www.dvidshub.net/unit/22ARWPA)  
+   Link: <a href="https://www.dvidshub.net/unit/22ARWPA" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/unit/22ARWPA</a>  
 
 34. <a id="endnote-34"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>

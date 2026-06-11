@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /maury-island/
 nav_short_title: Debris claims
 title: Was the Maury Island debris ever convincing?
-title_full: Was the Maury Island debris ever convincing? | Maury Island
+title_full: Was the Maury Island debris ever convincing?
 display_title_short: Debris claims
 display_title: Debris claims
 heading_title: Was the Maury Island debris ever convincing?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:25:22'
-parent_title: Why Maury Island Still Divides Readers | Washington UFOs
+parent_title: Why Maury Island Still Divides Readers
 parent_permalink: /maury-island/
 parent_nav_short_title: Maury Island
 parent_heading_title: Why Maury Island Still Divides Readers
@@ -252,9 +252,8 @@ image: /assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_
 
 The alleged debris that fell from the sky near [Maury Island]({{ 'maury-island/' | relative_url }}) was always the strongest part of the story. Witnesses could be mistaken, rumours could spread, and memories could change, but physical fragments seemed like something investigators could actually test. If unusual material had genuinely rained down from a mysterious aerial object in Puget Sound in June 1947, it would have provided rare tangible evidence at the very start of the modern UFO era.
 
-
-<img src="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-1-light.svg" | relative_url }}" alt="Debris claims illustration 1" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Instead, the debris became one of the main reasons many researchers later concluded that the case was weak. Accounts of the material changed over time, the chain of custody was poor, and investigators increasingly described the fragments as ordinary industrial slag, scrap metal or pumice-like rock rather than anything exotic. Even some UFO researchers who remained interested in Maury Island's cultural importance regarded the physical evidence as deeply compromised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">HistoryLinkDahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+<img src="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-1-dark.svg" | relative_url }}" alt="Debris claims illustration 1" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Instead, the debris became one of the main reasons many researchers later concluded that the case was weak. Accounts of the material changed over time, the chain of custody was poor, and investigators increasingly described the fragments as ordinary industrial slag, scrap metal or pumice-like rock rather than anything exotic. Even some UFO researchers who remained interested in Maury Island's cultural importance regarded the physical evidence as deeply compromised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
 
 ## What witnesses said fell onto the boat
 
@@ -262,10 +261,9 @@ Harold Dahl's original account described six doughnut-shaped objects over Puget 
 
 The debris story mattered because it moved the case beyond a simple sighting report. Instead of asking whether someone had misidentified an object in the sky, investigators were supposedly dealing with physical remains that could be collected and examined.
 
-Yet even at this stage there were problems. The descriptions were inconsistent. Some versions emphasised molten metal. Others described paper-like fragments. Later accounts introduced larger quantities of slag-like material. The more the story circulated through UFO publications, newspaper reports and retellings, the less clear it became exactly what had fallen and how much of it had been recovered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/the-maury-island-incident-1947-the-forgotten-spark-of-the-ufo-obsession/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia - Unlocking New Realities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">the maury island incident 1947 the forgotten spark of the ufo obsession</span><span class="citation-popover-snippet">UAPedia - Unlocking New RealitiesThe Maury Island Incident, 1947: The Forgotten Spark of the UFO...November 18, 2025 — The 1947 Maury Is...</span><span class="citation-popover-meta">Published: November 18, 2025</span></span></span>
+Yet even at this stage there were problems. The descriptions were inconsistent. Some versions emphasised molten metal. Others described paper-like fragments. Later accounts introduced larger quantities of slag-like material. The more the story circulated through UFO publications, newspaper reports and retellings, the less clear it became exactly what had fallen and how much of it had been recovered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/the-maury-island-incident-1947-the-forgotten-spark-of-the-ufo-obsession/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia - Unlocking New Realities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">the maury island incident 1947 the forgotten spark of the ufo obsession</span><span class="citation-popover-snippet">Unlocking New RealitiesThe Maury Island Incident, 1947: The Forgotten Spark of the UFO...November 18, 2025 — The 1947 Maury Is...</span><span class="citation-popover-meta">Published: November 18, 2025</span></span></span>
 
 That ambiguity became crucial because extraordinary claims about physical evidence normally become stronger when details converge. In the Maury Island case, the opposite happened.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G1AohZbtkcE" title="Kelso mineral sample: &quot;UFO Lava?&quot; (UPDATE)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G1AohZbtkcE" target="_blank" rel="noopener noreferrer">Kelso mineral sample: &quot;UFO Lava?&quot; (UPDATE)</a></p><p class="youtube-embed-meta">Channel: wbeaty &middot; Views: 38.7K &middot; Uploaded: April 2007 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G1AohZbtkcE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G1AohZbtkcE">Open on YouTube</a></p></div></div></div>
 
@@ -273,7 +271,7 @@ That ambiguity became crucial because extraordinary claims about physical eviden
 
 As investigators and later writers examined the story, the alleged debris increasingly looked ordinary rather than mysterious.
 
-One of the most frequently cited sceptical findings came from the official investigation, which concluded that the material consisted of common debris gathered locally. HistoryLink's summary of the case states that the recovered fragments were "bits of scrap and pumice from a Maury Island beach" and notes that investigators regarded the flying-saucer story as fabricated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">HistoryLinkDahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+One of the most frequently cited sceptical findings came from the official investigation, which concluded that the material consisted of common debris gathered locally. HistoryLink's summary of the case states that the recovered fragments were "bits of scrap and pumice from a Maury Island beach" and notes that investigators regarded the flying-saucer story as fabricated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
 
 This matters because pumice and industrial waste can superficially resemble something unusual. Pumice is lightweight, porous and can appear strange to non-specialists. Industrial slag, a glassy waste product left over from metal smelting and heavy industry, can also look unfamiliar, especially when found in irregular chunks.
 
@@ -281,8 +279,7 @@ The Pacific Northwest of the 1940s was hardly an environment where such material
 
 Later retellings occasionally tried to restore mystery by suggesting the material had never been conclusively identified. Some accounts described fragments as lava-like or meteoric. Others referred to dark rocks with gas pockets and crystalline interiors. But these descriptions generally point toward familiar geological or industrial materials rather than engineered components from an unknown vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historicmysteries.com/unexplained-mysteries/maury-island-incident/28783/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicmysteries.com">[Historic Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicmysteries.com</span><span class="citation-popover-title">maury island incident</span><span class="citation-popover-snippet">Historic MysteriesThe Maury Island Incident: Debris from a UFO?19 Nov 2022 — In 1947 witnesses saw a UFO explode in mid-air. The “Maury I...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vashonbeachcomber.com/2022/06/22/time-again-75th-anniversary-of-the-maury-island-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vashonbeachcomber.com">[Vashon-Maury Island Beachcomber]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vashonbeachcomber.com</span><span class="citation-popover-title">time again 75th anniversary of the maury island incident</span><span class="citation-popover-snippet">Vashon-Maury Island BeachcomberTime &amp; Again: 75th Anniversary of The Maury Island Incident22 Jun 2022 — One of the craft descended to low...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/isizjCOkppo" title="The Maury Island Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=isizjCOkppo" target="_blank" rel="noopener noreferrer">The Maury Island Incident</a></p><p class="youtube-embed-meta">Channel: Pretty Gritty Tours &middot; Views: 11.3K &middot; Uploaded: April 2022 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=isizjCOkppo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=isizjCOkppo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Hvz8yjZngmc" title="TOSC -Shadows Over Puget Sound: The Maury Island UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Hvz8yjZngmc" target="_blank" rel="noopener noreferrer">TOSC -Shadows Over Puget Sound: The Maury Island UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Highline Heritage Museum &middot; Views: 311 &middot; Uploaded: April 2025 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Hvz8yjZngmc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Hvz8yjZngmc">Open on YouTube</a></p></div></div></div>
 
 ## Why the slag explanation became persuasive
 
@@ -296,22 +293,20 @@ Third, some reports suggested large quantities of material were present. One dif
 
 The strongest physical-evidence UFO cases usually become stronger when more people handle the evidence. Maury Island moved in the opposite direction. The more attention the fragments received, the less convincing they appeared.
 
-
-<img src="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-2-light.svg" | relative_url }}" alt="Debris claims illustration 2" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-2-dark.svg" | relative_url }}" alt="Debris claims illustration 2" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why chain of custody matters here
 
 Chain of custody is a simple idea with major consequences. It means knowing exactly where an object came from, who collected it, who handled it afterwards and whether it could have been altered or substituted.
 
 Maury Island fails badly on this standard. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historicmysteries.com/unexplained-mysteries/maury-island-incident/28783/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicmysteries.com">[historicmysteries.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicmysteries.com</span><span class="citation-popover-title">maury island incident</span><span class="citation-popover-snippet">Historic MysteriesThe Maury Island Incident: Debris from a UFO?19 Nov 2022 — In 1947 witnesses saw a UFO explode in mid-air. The “Maury I...</span></span></span>
 
-The debris did not move directly from a documented recovery site into controlled scientific examination. Instead, it passed through multiple hands while the story itself was changing. Witnesses, intermediaries, civilian investigators and military personnel all became part of the narrative. By the time broader public attention arrived, there was no clean record proving that any particular fragment unquestionably originated from the alleged incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">HistoryLinkDahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+The debris did not move directly from a documented recovery site into controlled scientific examination. Instead, it passed through multiple hands while the story itself was changing. Witnesses, intermediaries, civilian investigators and military personnel all became part of the narrative. By the time broader public attention arrived, there was no clean record proving that any particular fragment unquestionably originated from the alleged incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
 
-This weakness becomes even more important because the case quickly accumulated dramatic side stories. Kenneth Arnold became involved. Army Air Forces intelligence officers examined material connected with the case. Two officers later died in a B-25 crash while returning from [Washington]({{ 'why-washington-shaped-ufo-history/' | relative_url }}). Those events created an impression of hidden significance.
+This weakness becomes even more important because the case quickly accumulated dramatic side stories. Kenneth Arnold became involved. Army Air Forces intelligence officers examined material connected with the case. Two officers later died in a B-25 crash while returning from Washington. Those events created an impression of hidden significance.
 
 But dramatic events surrounding evidence are not the same thing as evidence itself.
 
 A contaminated chain of custody means investigators cannot reliably answer basic questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -325,8 +320,7 @@ A contaminated chain of custody means investigators cannot reliably answer basic
 
 Once those questions become unanswerable, the physical evidence loses much of its value.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Hvz8yjZngmc" title="TOSC -Shadows Over Puget Sound: The Maury Island UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Hvz8yjZngmc" target="_blank" rel="noopener noreferrer">TOSC -Shadows Over Puget Sound: The Maury Island UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Highline Heritage Museum &middot; Views: 311 &middot; Uploaded: April 2025 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Hvz8yjZngmc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Hvz8yjZngmc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/isizjCOkppo" title="The Maury Island Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=isizjCOkppo" target="_blank" rel="noopener noreferrer">The Maury Island Incident</a></p><p class="youtube-embed-meta">Channel: Pretty Gritty Tours &middot; Views: 11.3K &middot; Uploaded: April 2022 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=isizjCOkppo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=isizjCOkppo">Open on YouTube</a></p></div></div></div>
 
 ## The problem for believers and sceptics alike
 
@@ -334,7 +328,7 @@ One reason Maury Island remains interesting is that both believers and sceptics 
 
 For sceptics, the fragments are a major reason the case is often described as a hoax. Edward J. Ruppelt, who later headed the Air Force's Project Blue Book investigation programme, famously called Maury Island the "dirtiest hoax" in UFO history. The alleged physical evidence played a central role in that judgement because it failed to withstand scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufofyi.blogspot.com/2009/09/ufo-fyi-wtf-1947-maury-island-charade.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufofyi.blogspot.com">[ufofyi.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufofyi.blogspot.com</span><span class="citation-popover-title">ufo fyi wtf 1947 maury island charade</span><span class="citation-popover-snippet">Edward Ruppelt of Project Blue Book, the Maury Island incident was the &quot;dirtiest hoax in UFO history.&quot; Years later Crisman&#x27;s name...Read...</span></span></span>
 
-For UFO researchers who do not accept the hoax interpretation outright, the debris remains frustrating rather than persuasive. The material was never documented well enough to support extraordinary conclusions. Even writers who regard Maury Island as historically important usually acknowledge that the fragments themselves provide little firm support for claims of unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/the-maury-island-incident-1947-the-forgotten-spark-of-the-ufo-obsession/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia - Unlocking New Realities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">the maury island incident 1947 the forgotten spark of the ufo obsession</span><span class="citation-popover-snippet">UAPedia - Unlocking New RealitiesThe Maury Island Incident, 1947: The Forgotten Spark of the UFO...November 18, 2025 — The 1947 Maury Is...</span><span class="citation-popover-meta">Published: November 18, 2025</span></span></span>
+For UFO researchers who do not accept the hoax interpretation outright, the debris remains frustrating rather than persuasive. The material was never documented well enough to support extraordinary conclusions. Even writers who regard Maury Island as historically important usually acknowledge that the fragments themselves provide little firm support for claims of unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapedia.ai/wiki/the-maury-island-incident-1947-the-forgotten-spark-of-the-ufo-obsession/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapedia.ai">[UAPedia - Unlocking New Realities]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapedia.ai</span><span class="citation-popover-title">the maury island incident 1947 the forgotten spark of the ufo obsession</span><span class="citation-popover-snippet">Unlocking New RealitiesThe Maury Island Incident, 1947: The Forgotten Spark of the UFO...November 18, 2025 — The 1947 Maury Is...</span><span class="citation-popover-meta">Published: November 18, 2025</span></span></span>
 
 In practical terms, the debris is not what keeps the story alive. The case survives because of its place in Washington's 1947 "summer of saucers", its connection to Kenneth Arnold, the later "men in black" mythology and the fatal aircraft crash. The physical fragments, which should have been the strongest evidence, ended up being among the weakest parts of the entire affair.
 
@@ -342,12 +336,11 @@ In practical terms, the debris is not what keeps the story alive. The case survi
 
 The debris controversy illustrates a broader lesson about Maury Island. The case became famous because it seemed to offer everything UFO investigators wanted: witnesses, injuries, recovered material, official interest and mystery.
 
-Yet when researchers look closely at the physical evidence, the foundation becomes unstable. The alleged fragments were never securely documented, later descriptions increasingly matched ordinary slag and scrap material, and the chain of custody was too poor to support extraordinary conclusions. HistoryLink's summary that the debris consisted of scrap and pumice remains one of the most direct explanations ever attached to the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">HistoryLinkDahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+Yet when researchers look closely at the physical evidence, the foundation becomes unstable. The alleged fragments were never securely documented, later descriptions increasingly matched ordinary slag and scrap material, and the chain of custody was too poor to support extraordinary conclusions. HistoryLink's summary that the debris consisted of scrap and pumice remains one of the most direct explanations ever attached to the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
 
-That does not erase Maury Island's place in Washington UFO history. It remains a formative story and an important piece of regional folklore. But as evidence, the debris largely points away from a mysterious craft and toward a mixture of local material, unreliable handling and a story that grew more elaborate as it spread. The fragments that were supposed to prove the case instead became one of the strongest reasons to doubt it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">HistoryLinkDahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+That does not erase Maury Island's place in Washington UFO history. It remains a formative story and an important piece of regional folklore. But as evidence, the debris largely points away from a mysterious craft and toward a mixture of local material, unreliable handling and a story that grew more elaborate as it spread. The fragments that were supposed to prove the case instead became one of the strongest reasons to doubt it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
 
-
-<img src="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-3-light.svg" | relative_url }}" alt="Debris claims illustration 3" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-3-dark.svg" | relative_url }}" alt="Debris claims illustration 3" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_maury_island_claims_f9fc93_maury_debris_slag_pr_d1f373-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -435,112 +428,418 @@ That does not erase Maury Island's place in Washington UFO history. It remains a
   </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-maury-island-debris-ever-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-maury-island-debris-ever-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-maury-island-debris-ever-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-maury-island-debris-ever-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-maury-island-debris-ever-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-maury-island-debris-ever-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-maury-island-debris-ever-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-maury-island-debris-ever-convincing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-maury-island-debris-ever-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-maury-island-debris-ever-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-maury-island-debris-ever-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-maury-island-debris-ever-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-maury-island-debris-ever-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-maury-island-debris-ever-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-maury-island-debris-ever-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-maury-island-debris-ever-convincing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-maury-island-debris-ever-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-maury-island-debris-ever-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-maury-island-debris-ever-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-maury-island-debris-ever-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-maury-island-debris-ever-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-maury-island-debris-ever-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-maury-island-debris-ever-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-maury-island-debris-ever-convincing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-maury-island-debris-ever-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-maury-island-debris-ever-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-maury-island-debris-ever-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-maury-island-debris-ever-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-maury-island-debris-ever-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-maury-island-debris-ever-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-maury-island-debris-ever-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-maury-island-debris-ever-convincing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-maury-island-debris-ever-convincing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="was-the-maury-island-debris-ever-convincing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: historylink.org  
-   Link: [https://www.historylink.org/File/2068](https://www.historylink.org/File/2068)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryLinkDahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</p></details>
+   Link: <a href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/File/2068</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</p></details>
    Published: June 21, 1947  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Maury_Island_incident](https://en.wikipedia.org/wiki/Maury_Island_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Maury_Island_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Maury_Island_incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maury Island incidentThe pair claimed that the events had occurred on June 21, 1947. The incident is widely regarded as a hoax, even by b...</p></details>
    Published: June 21, 1947  
 
 3. <a id="endnote-3"></a>
    Source: uapedia.ai  
    Title: the maury island incident 1947 the forgotten spark of the ufo obsession  
-   Link: [https://uapedia.ai/wiki/the-maury-island-incident-1947-the-forgotten-spark-of-the-ufo-obsession/](https://uapedia.ai/wiki/the-maury-island-incident-1947-the-forgotten-spark-of-the-ufo-obsession/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPedia - Unlocking New RealitiesThe Maury Island Incident, 1947: The Forgotten Spark of the UFO...November 18, 2025 — The 1947 Maury Is...</p></details>
+   Link: <a href="https://uapedia.ai/wiki/the-maury-island-incident-1947-the-forgotten-spark-of-the-ufo-obsession/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/the-maury-island-incident-1947-the-forgotten-spark-of-the-ufo-obsession/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlocking New RealitiesThe Maury Island Incident, 1947: The Forgotten Spark of the UFO...November 18, 2025 — The 1947 Maury Is...</p></details>
    Published: November 18, 2025  
 
 4. <a id="endnote-4"></a>
    Source: datalaneexpress.com  
    Title: During this time, another round shaped object appeared, the first  
-   Link: [https://datalaneexpress.com/tips_menu_010.html](https://datalaneexpress.com/tips_menu_010.html)  
+   Link: <a href="https://datalaneexpress.com/tips_menu_010.html" target="_blank" rel="noopener noreferrer nofollow">https://datalaneexpress.com/tips_menu_010.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fish Tips Article #10 The Maury Island UFO CaseNear Maury Island, &quot;Crisman&quot; found the beach was covered with an estimated 20 tons of slag...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ufofyi.blogspot.com  
    Title: ufo fyi wtf 1947 maury island charade  
-   Link: [https://ufofyi.blogspot.com/2009/09/ufo-fyi-wtf-1947-maury-island-charade.html](https://ufofyi.blogspot.com/2009/09/ufo-fyi-wtf-1947-maury-island-charade.html)  
+   Link: <a href="https://ufofyi.blogspot.com/2009/09/ufo-fyi-wtf-1947-maury-island-charade.html" target="_blank" rel="noopener noreferrer nofollow">https://ufofyi.blogspot.com/2009/09/ufo-fyi-wtf-1947-maury-island-charade.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Edward Ruppelt of Project Blue Book, the Maury Island incident was the &quot;dirtiest hoax in UFO history.&quot; Years later Crisman&#x27;s name...Read...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: vashonbeachcomber.com  
    Title: time again 75th anniversary of the maury island incident  
-   Link: [https://www.vashonbeachcomber.com/2022/06/22/time-again-75th-anniversary-of-the-maury-island-incident/](https://www.vashonbeachcomber.com/2022/06/22/time-again-75th-anniversary-of-the-maury-island-incident/)  
+   Link: <a href="https://www.vashonbeachcomber.com/2022/06/22/time-again-75th-anniversary-of-the-maury-island-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.vashonbeachcomber.com/2022/06/22/time-again-75th-anniversary-of-the-maury-island-incident/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vashon-Maury Island BeachcomberTime &amp; Again: 75th Anniversary of The Maury Island Incident22 Jun 2022 — One of the craft descended to low...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: historicmysteries.com  
    Title: maury island incident  
-   Link: [https://www.historicmysteries.com/unexplained-mysteries/maury-island-incident/28783/](https://www.historicmysteries.com/unexplained-mysteries/maury-island-incident/28783/)  
+   Link: <a href="https://www.historicmysteries.com/unexplained-mysteries/maury-island-incident/28783/" target="_blank" rel="noopener noreferrer nofollow">https://www.historicmysteries.com/unexplained-mysteries/maury-island-incident/28783/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historic MysteriesThe Maury Island Incident: Debris from a UFO?19 Nov 2022 — In 1947 witnesses saw a UFO explode in mid-air. The “Maury I...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ripleys.com  
    Title: maury island ufo  
-   Link: [https://www.ripleys.com/stories/maury-island-ufo](https://www.ripleys.com/stories/maury-island-ufo)  
+   Link: <a href="https://www.ripleys.com/stories/maury-island-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ripleys.com/stories/maury-island-ufo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>From Maury Island to Burien: Washington&#x27;s UFO Craze...15 Oct 2018 — One of the six Maury Island UFOs struggled to maintain flight before...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: x.com  
-   Link: [https://x.com/Oeming/status/1615851531676581888](https://x.com/Oeming/status/1615851531676581888)  
+   Link: <a href="https://x.com/Oeming/status/1615851531676581888" target="_blank" rel="noopener noreferrer nofollow">https://x.com/Oeming/status/1615851531676581888</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OemingWhich one of these guys is Harold Dahl and which is Fred Crisman of the Maury Island incident? I think history has them confused or...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: museumofflight.org  
-   Link: [https://www.museumofflight.org/exhibits-and-events/calendar-of-events/8036/the-maury-island-incident](https://www.museumofflight.org/exhibits-and-events/calendar-of-events/8036/the-maury-island-incident)  
+   Link: <a href="https://www.museumofflight.org/exhibits-and-events/calendar-of-events/8036/the-maury-island-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.museumofflight.org/exhibits-and-events/calendar-of-events/8036/the-maury-island-incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Maury Island IncidentBased on the incredible and often forgotten story of Harold Dahl, who on June 21, 1947, alleged a UFO sighting o...</p></details>
    Published: June 21, 1947  
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=isizjCOkppo](https://www.youtube.com/watch?v=isizjCOkppo)  
+   Link: <a href="https://www.youtube.com/watch?v=isizjCOkppo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=isizjCOkppo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Maury Island IncidentWhat happened to the debris that supposedly fell on the boat? Did a veterinarian examine the dead dog? What abou...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: crystalinks.com  
-   Link: [https://www.crystalinks.com/mauryisland1947.html](https://www.crystalinks.com/mauryisland1947.html)  
+   Link: <a href="https://www.crystalinks.com/mauryisland1947.html" target="_blank" rel="noopener noreferrer nofollow">https://www.crystalinks.com/mauryisland1947.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The next morning, Dahl reported, a man arrived at his home and invited him to breakfast at a...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
    Title: the maury island incident refers to claims made  
-   Link: [https://www.reddit.com/r/alien/comments/104aalr/the_maury_island_incident_refers_to_claims_made/](https://www.reddit.com/r/alien/comments/104aalr/the_maury_island_incident_refers_to_claims_made/)  
+   Link: <a href="https://www.reddit.com/r/alien/comments/104aalr/the_maury_island_incident_refers_to_claims_made/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/alien/comments/104aalr/the_maury_island_incident_refers_to_claims_made/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by Fred...The Mary island incident in 1947 has a lot of things like Roswell there were six UFOs that the claims they saw six not one tha...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: seattlepi.com  
    Title: UFO debris may be lava or meteor chunk 1235325  
-   Link: [https://www.seattlepi.com/local/article/UFO-debris-may-be-lava-or-meteor-chunk-1235325.php](https://www.seattlepi.com/local/article/UFO-debris-may-be-lava-or-meteor-chunk-1235325.php)  
+   Link: <a href="https://www.seattlepi.com/local/article/UFO-debris-may-be-lava-or-meteor-chunk-1235325.php" target="_blank" rel="noopener noreferrer nofollow">https://www.seattlepi.com/local/article/UFO-debris-may-be-lava-or-meteor-chunk-1235325.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;UFO debris&#x27; may be lava or meteor chunk25 Apr 2007 — &quot;To me it&#x27;s very interesting that at the very impact site of the crash, we found sl...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: vocal.media  
    Title: Dahl rushes home, tells his business partner Fred Crisman about it. Crisman  
-   Link: [https://vocal.media/history/the-maury-island-enigma-uf-os-men-in-black-and-the-shadowy-path-to-jfk-s-fate](https://vocal.media/history/the-maury-island-enigma-uf-os-men-in-black-and-the-shadowy-path-to-jfk-s-fate)  
+   Link: <a href="https://vocal.media/history/the-maury-island-enigma-uf-os-men-in-black-and-the-shadowy-path-to-jfk-s-fate" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/history/the-maury-island-enigma-uf-os-men-in-black-and-the-shadowy-path-to-jfk-s-fate</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Maury Island Enigma: UFOs, Men in Black, and the...One starts acting up, spewing molten slag and hot metal that rains down...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: TOSC -Shadows Over Puget Sound: The Maury Island UFO Mystery  
-   Link: [https://www.youtube.com/watch?v=Hvz8yjZngmc](https://www.youtube.com/watch?v=Hvz8yjZngmc)  
+   Link: <a href="https://www.youtube.com/watch?v=Hvz8yjZngmc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Hvz8yjZngmc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Before Roswell - The Eerie Tale of Maury Island (with Dean Bertram)...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: x.com  
    Title: "Fred John Dahl"  
-   Link: [https://x.com/search?f=live&q=Fred+John+Dahl](https://x.com/search?f=live&q=Fred+John+Dahl)  
+   Link: <a href="https://x.com/search?f=live&amp;q=Fred+John+Dahl" target="_blank" rel="noopener noreferrer nofollow">https://x.com/search?f=live&amp;q=Fred+John+Dahl</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Results on X | Live Posts &amp; Updates... slag that scorched Dahl&#x27;s arm and killed the family dog Sparky... Ruppelt characterized the story...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: seattlesouthside.com  
    Title: maury island ufo incident mural  
-   Link: [https://www.seattlesouthside.com/seattle-southside-stories/maury-island-ufo-incident-mural/](https://www.seattlesouthside.com/seattle-southside-stories/maury-island-ufo-incident-mural/)  
+   Link: <a href="https://www.seattlesouthside.com/seattle-southside-stories/maury-island-ufo-incident-mural/" target="_blank" rel="noopener noreferrer nofollow">https://www.seattlesouthside.com/seattle-southside-stories/maury-island-ufo-incident-mural/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Some slag burns Charles on his arm. They&#x27;re so frightened that they run...</p></details>

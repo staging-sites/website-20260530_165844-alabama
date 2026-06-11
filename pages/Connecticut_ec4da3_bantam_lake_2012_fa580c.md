@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /connecticut-ufos-from-colonial-legends/
 nav_short_title: Bantam Lake 2012
 title: 'Bantam Lake 2012: Green Sky Object Mystery'
-title_full: 'Bantam Lake 2012: Green Sky Object Mystery | Connecticut UFOs'
+title_full: 'Bantam Lake 2012: Green Sky Object Mystery'
 display_title_short: Bantam Lake 2012
 display_title: Bantam Lake 2012
 heading_title: 'Bantam Lake 2012: Green Sky Object Mystery'
@@ -262,34 +262,30 @@ image: /assets/images/Connecticut_ec4da3_bantam_lake_2012_fa580c-overview-social
 
 ## Introduction
 
-In the early hours of **10 April 2012**, a pair of witnesses in north‑western [Connecticut]({{ 'connecticut-ufos-from-colonial-legends/' | relative_url }}) — an unidentified motorist in Litchfield and an on‑duty state police trooper based in nearby Warren — reported seeing a **large, glowing green object** apparently falling from the sky and disappearing toward **Bantam Lake**, Connecticut’s largest natural lake. Early news accounts described the object as roughly **“the size of a whale”** and **“green and glowing”**, sparking local curiosity and national media attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/news/article/No-UFO-on-Bantam-Lake-16890879.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider No UFO on Bantam Lake</span><span class="citation-popover-snippet">CT InsiderNo UFO on Bantam LakeJune 26, 2012...</span><span class="citation-popover-meta">Published: June 26, 2012</span></span></span>
-
+In the early hours of **10 April 2012**, a pair of witnesses in north‑western Connecticut — an unidentified motorist in Litchfield and an on‑duty state police trooper based in nearby Warren — reported seeing a **large, glowing green object** apparently falling from the sky and disappearing toward **Bantam Lake**, Connecticut’s largest natural lake. Early news accounts described the object as roughly **“the size of a whale”** and **“green and glowing”**, sparking local curiosity and national media attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/news/article/No-UFO-on-Bantam-Lake-16890879.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider No UFO on Bantam Lake</span><span class="citation-popover-snippet">CT InsiderNo UFO on Bantam LakeJune 26, 2012...</span><span class="citation-popover-meta">Published: June 26, 2012</span></span></span>
 
 <img src="{{ "/assets/images/Connecticut_ec4da3_bantam_lake_2012_fa580c-overview.webp" | relative_url }}" alt="Overview image for Bantam Lake 2012" loading="eager" decoding="sync" fetchpriority="high">
 This incident has endured in Connecticut’s UFO history as an example of how spectacular atmospheric events can be misperceived, misreported, and later reframed through different interpretive lenses — from meteor to extraterrestrial object — often with sparse hard evidence available. What follows is a balanced, evidence‑anchored recounting of the sighting, its astrophysical context, and the sceptical interpretations that have persisted since. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/news/article/No-UFO-on-Bantam-Lake-16890879.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider No UFO on Bantam Lake</span><span class="citation-popover-snippet">CT InsiderNo UFO on Bantam LakeJune 26, 2012...</span><span class="citation-popover-meta">Published: June 26, 2012</span></span></span>
 
-
-<img src="{{ "/assets/images/Connecticut_ec4da3_bantam_lake_2012_fa580c-Illustration-3-light.svg" | relative_url }}" alt="Bantam Lake 2012 illustration 3" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_bantam_lake_2012_fa580c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_bantam_lake_2012_fa580c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Connecticut_ec4da3_bantam_lake_2012_fa580c-Illustration-3-dark.svg" | relative_url }}" alt="Bantam Lake 2012 illustration 3" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_bantam_lake_2012_fa580c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_bantam_lake_2012_fa580c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Witness Reports and Official Observations
 
-The **core sightings** occurred around **2 a.m. local time**, when two independent observers reported a bright object streaking downwards from the sky. In multiple press wire reports summarising Associated Press coverage, a person driving in the Litchfield area described seeing **a green, glowing object “the size of a whale”** fall from the night sky and seemingly impact **Bantam Lake**. At about the same time, a state trooper roughly ten miles away reported a similar falling object over the area of **Bantam or the nearby town of Morris**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.police1.com//bizarre/articles/conn-trooper-motorist-strange-object-fell-from-sky-16LUPiOX605ty9CO/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: police1.com">[Police1]</a><span class="citation-popover" role="note"><span class="citation-popover-source">police1.com</span><span class="citation-popover-title">Conn. trooper, motorist: Strange object fell from sky</span><span class="citation-popover-snippet">Police1Conn. trooper, motorist: Strange object fell from sky...</span></span></span>
+The **core sightings** occurred around **2 a.m. local time**, when two independent observers reported a bright object streaking downwards from the sky. In multiple press wire reports summarising Associated Press coverage, a person driving in the Litchfield area described seeing **a green, glowing object “the size of a whale”** fall from the night sky and seemingly impact **Bantam Lake**. At about the same time, a state trooper roughly ten miles away reported a similar falling object over the area of **Bantam or the nearby town of Morris**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.police1.com//bizarre/articles/conn-trooper-motorist-strange-object-fell-from-sky-16LUPiOX605ty9CO/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: police1.com">[Police1]</a><span class="citation-popover" role="note"><span class="citation-popover-source">police1.com</span><span class="citation-popover-title">Conn. trooper, motorist: Strange object fell from sky</span><span class="citation-popover-snippet">Conn. trooper, motorist: Strange object fell from sky...</span></span></span>
 
-Firefighters from Morris and nearby Bantam responded by boating up and down the lake to investigate the possibility of an aeroplane crash or downed aircraft, but found **no debris, no wreckage, and no obvious impact site**. The search was subsequently called off by authorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.police1.com//bizarre/articles/conn-trooper-motorist-strange-object-fell-from-sky-16LUPiOX605ty9CO/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: police1.com">[Police1]</a><span class="citation-popover" role="note"><span class="citation-popover-source">police1.com</span><span class="citation-popover-title">Conn. trooper, motorist: Strange object fell from sky</span><span class="citation-popover-snippet">Police1Conn. trooper, motorist: Strange object fell from sky...</span></span></span>
+Firefighters from Morris and nearby Bantam responded by boating up and down the lake to investigate the possibility of an aeroplane crash or downed aircraft, but found **no debris, no wreckage, and no obvious impact site**. The search was subsequently called off by authorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.police1.com//bizarre/articles/conn-trooper-motorist-strange-object-fell-from-sky-16LUPiOX605ty9CO/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: police1.com">[Police1]</a><span class="citation-popover" role="note"><span class="citation-popover-source">police1.com</span><span class="citation-popover-title">Conn. trooper, motorist: Strange object fell from sky</span><span class="citation-popover-snippet">Conn. trooper, motorist: Strange object fell from sky...</span></span></span>
 
 Local reports at the time emphasised the **anecdotal nature** of these accounts. The unidentified motorist did not remain on the scene or provide contact information to journalists, and official agencies confirmed that **no physical evidence** — aircraft parts, meteorite fragments, or other material — was recovered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/news/article/No-UFO-on-Bantam-Lake-16890879.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider No UFO on Bantam Lake</span><span class="citation-popover-snippet">CT InsiderNo UFO on Bantam LakeJune 26, 2012...</span><span class="citation-popover-meta">Published: June 26, 2012</span></span></span>
 
-
-<img src="{{ "/assets/images/Connecticut_ec4da3_bantam_lake_2012_fa580c-Illustration-1-light.svg" | relative_url }}" alt="Bantam Lake 2012 illustration 1" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_bantam_lake_2012_fa580c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_bantam_lake_2012_fa580c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Connecticut_ec4da3_bantam_lake_2012_fa580c-Illustration-1-dark.svg" | relative_url }}" alt="Bantam Lake 2012 illustration 1" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_bantam_lake_2012_fa580c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_bantam_lake_2012_fa580c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Meteor Shower Context and Astrophysical Explanations
 
-One of the most persistent mundane explanations for the 2012 Bantam Lake sighting centres on **meteoritic activity**. On the night of the sighting, the region was experiencing the **Lyrid meteor shower**, an annual event in April when Earth passes through debris left by comet C/1861 G1 (Thatcher). <span class="citation-chip-wrap"><a class="citation-chip" href="https://patch.com/connecticut/orange/investigation-continues-on-green-ufo-over-bantam-lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">Investigation Continues on Green UFO over Bantam Lake | Orange, CT Patch</span><span class="citation-popover-snippet">PatchInvestigation Continues on Green UFO over Bantam Lake | Orange, CT PatchMay 2, 2012...</span><span class="citation-popover-meta">Published: May 2, 2012</span></span></span>
+One of the most persistent mundane explanations for the 2012 Bantam Lake sighting centres on **meteoritic activity**. On the night of the sighting, the region was experiencing the **Lyrid meteor shower**, an annual event in April when Earth passes through debris left by comet C/1861 G1 (Thatcher). <span class="citation-chip-wrap"><a class="citation-chip" href="https://patch.com/connecticut/orange/investigation-continues-on-green-ufo-over-bantam-lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">Investigation Continues on Green UFO over Bantam Lake &#124; Orange, CT Patch</span><span class="citation-popover-snippet">Investigation Continues on Green UFO over Bantam Lake &#124; Orange, CT PatchMay 2, 2012...</span><span class="citation-popover-meta">Published: May 2, 2012</span></span></span>
 
 Astronomers point out that bright meteors — especially when containing metals such as **iron and nickel — can appear green** when they ablate (burn up) in the atmosphere. This green colour is caused by excitation of specific atoms at high temperature, not because the object itself is coloured. Their speeds (tens of kilometres per second) and altitudes (often tens of kilometres above ground) can make them appear visually much closer or larger than they truly are, leading to overestimates of apparent size or proximity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.paranormalcatalog.net/ufos/the-green-whale-of-bantam-lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranormalcatalog.net">[PARANORMAL CATALOG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranormalcatalog.net</span><span class="citation-popover-title">PARANORMAL CATALOGThe Green Whale of Bantam Lake</span><span class="citation-popover-snippet">PARANORMAL CATALOGThe Green Whale of Bantam Lake</span></span></span>
 
 In the 2012 case, the **National Weather Service** reportedly noted meteor activity in the region that night, and several accounts suggested that fireball sightings — bright meteors brighter than usual — may have been consistent with what the witnesses saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/news/article/No-UFO-on-Bantam-Lake-16890879.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider No UFO on Bantam Lake</span><span class="citation-popover-snippet">CT InsiderNo UFO on Bantam LakeJune 26, 2012...</span><span class="citation-popover-meta">Published: June 26, 2012</span></span></span>
 
 A local research group, the **Smoking Gun Research Agency (SGRA)** of Orange, Connecticut, attempted to collate additional [witness reports]({{ 'witness-reports/' | relative_url }}) and suggested that corroborating observations of flashes, booms, and vibrations in towns up to 25 miles east of Bantam Lake were consistent with a meteor traversing the region. Their group’s initial public commentary concluded that a meteor was **the likeliest explanation** based on the pattern of reports they gathered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nhregister.com/news/article/Orange-based-Smoking-Gun-Group-posts-update-about-11496890.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhregister.com">[New Haven Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhregister.com</span><span class="citation-popover-snippet">New Haven RegisterOrange-based Smoking Gun Group posts update about its Bantam Lake UFO (or meteorite) investigationMay 1, 2012...</span><span class="citation-popover-meta">Published: May 1, 2012</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ykXZ8xmBKyo" title="Strange UFO sightings in Connecticut: What do we know | Backscroll" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ykXZ8xmBKyo" target="_blank" rel="noopener noreferrer">Strange UFO sightings in Connecticut: What do we know | Backscroll</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 525.5K &middot; Uploaded: May 2025 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ykXZ8xmBKyo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ykXZ8xmBKyo">Open on YouTube</a></p></div></div></div>
 
@@ -303,22 +299,18 @@ Sceptical commentators note that bright meteors are routinely mistaken for nearb
 
 Conversely, some local residents recounted hearing **vibrations or sonic booms** and seeing flashes outside their windows, though such reports are **anecdotal** and unverified, and could be consistent with meteoric shockwaves or unrelated atmospheric phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nhregister.com/news/article/Orange-based-Smoking-Gun-Group-posts-update-about-11496890.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhregister.com">[New Haven Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhregister.com</span><span class="citation-popover-snippet">New Haven RegisterOrange-based Smoking Gun Group posts update about its Bantam Lake UFO (or meteorite) investigationMay 1, 2012...</span><span class="citation-popover-meta">Published: May 1, 2012</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7eqFkLRPTO4" title="UFOs in Connecticut: Past and Present with MUFON CT&#x27;s Michael Panicello." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7eqFkLRPTO4" target="_blank" rel="noopener noreferrer">UFOs in Connecticut: Past and Present with MUFON CT&#x27;s Michael Panicello.</a></p><p class="youtube-embed-meta">Channel: Danbury Public Library &middot; Views: 420 &middot; Uploaded: October 2021 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7eqFkLRPTO4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7eqFkLRPTO4">Open on YouTube</a></p></div></div></div>
 
-
-<img src="{{ "/assets/images/Connecticut_ec4da3_bantam_lake_2012_fa580c-Illustration-2-light.svg" | relative_url }}" alt="Bantam Lake 2012 illustration 2" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_bantam_lake_2012_fa580c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_bantam_lake_2012_fa580c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Connecticut_ec4da3_bantam_lake_2012_fa580c-Illustration-2-dark.svg" | relative_url }}" alt="Bantam Lake 2012 illustration 2" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_bantam_lake_2012_fa580c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_bantam_lake_2012_fa580c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the 2012 Bantam Lake Sighting Matters
 
 Within the broader shape of Connecticut’s UFO history, the 2012 Bantam Lake episode has gained attention for how it illustrates the **intersection of eyewitness perception, media amplification, and mundane astrophysical events**. It shows how spectacular natural phenomena — meteors during a shower — can be interpreted as extraordinary events when witnessed unexpectedly at night, especially in a rural setting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/news/article/No-UFO-on-Bantam-Lake-16890879.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider No UFO on Bantam Lake</span><span class="citation-popover-snippet">CT InsiderNo UFO on Bantam LakeJune 26, 2012...</span><span class="citation-popover-meta">Published: June 26, 2012</span></span></span>
 
-The case also highlights the **limitations of anecdotal reporting** in the absence of physical evidence. Without recovered fragments, radar data, or corroborating sensor records, the claim remains **unresolved** in strict evidential terms, even if the leading scientific interpretation aligns with ordinary meteoric activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://patch.com/connecticut/orange/investigation-continues-on-green-ufo-over-bantam-lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">Investigation Continues on Green UFO over Bantam Lake | Orange, CT Patch</span><span class="citation-popover-snippet">PatchInvestigation Continues on Green UFO over Bantam Lake | Orange, CT PatchMay 2, 2012...</span><span class="citation-popover-meta">Published: May 2, 2012</span></span></span>
+The case also highlights the **limitations of anecdotal reporting** in the absence of physical evidence. Without recovered fragments, radar data, or corroborating sensor records, the claim remains **unresolved** in strict evidential terms, even if the leading scientific interpretation aligns with ordinary meteoric activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://patch.com/connecticut/orange/investigation-continues-on-green-ufo-over-bantam-lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patch.com">[Patch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patch.com</span><span class="citation-popover-title">Investigation Continues on Green UFO over Bantam Lake &#124; Orange, CT Patch</span><span class="citation-popover-snippet">Investigation Continues on Green UFO over Bantam Lake &#124; Orange, CT PatchMay 2, 2012...</span><span class="citation-popover-meta">Published: May 2, 2012</span></span></span>
 
 Finally, this incident serves as a useful reminder in state‑level UFO history that **not every dramatic sighting represents an exotic craft or object**; rather, many have prosaic explanations once the atmospheric and perceptual context is unpacked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.paranormalcatalog.net/ufos/the-green-whale-of-bantam-lake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranormalcatalog.net">[PARANORMAL CATALOG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranormalcatalog.net</span><span class="citation-popover-title">PARANORMAL CATALOGThe Green Whale of Bantam Lake</span><span class="citation-popover-snippet">PARANORMAL CATALOGThe Green Whale of Bantam Lake</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HH2JQjFQOOY" title="UFO sightings at Connecticut reservoir go back decades | Banfield" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HH2JQjFQOOY" target="_blank" rel="noopener noreferrer">UFO sightings at Connecticut reservoir go back decades | Banfield</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 66.2K &middot; Uploaded: December 2024 &middot; Length: 4 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HH2JQjFQOOY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HH2JQjFQOOY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -742,74 +734,74 @@ Finally, this incident serves as a useful reminder in state‑level UFO history 
 1. <a id="endnote-1"></a>
    Source: police1.com  
    Title: Conn. trooper, motorist: Strange object fell from sky  
-   Link: [https://www.police1.com//bizarre/articles/conn-trooper-motorist-strange-object-fell-from-sky-16LUPiOX605ty9CO/](https://www.police1.com//bizarre/articles/conn-trooper-motorist-strange-object-fell-from-sky-16LUPiOX605ty9CO/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Police1Conn. trooper, motorist: Strange object fell from sky...</p></details>
+   Link: <a href="https://www.police1.com//bizarre/articles/conn-trooper-motorist-strange-object-fell-from-sky-16LUPiOX605ty9CO/" target="_blank" rel="noopener noreferrer nofollow">https://www.police1.com//bizarre/articles/conn-trooper-motorist-strange-object-fell-from-sky-16LUPiOX605ty9CO/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conn. trooper, motorist: Strange object fell from sky...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: patch.com  
    Title: Investigation Continues on Green UFO over Bantam Lake | Orange, CT Patch  
-   Link: [https://patch.com/connecticut/orange/investigation-continues-on-green-ufo-over-bantam-lake](https://patch.com/connecticut/orange/investigation-continues-on-green-ufo-over-bantam-lake)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PatchInvestigation Continues on Green UFO over Bantam Lake | Orange, CT PatchMay 2, 2012...</p></details>
+   Link: <a href="https://patch.com/connecticut/orange/investigation-continues-on-green-ufo-over-bantam-lake" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/connecticut/orange/investigation-continues-on-green-ufo-over-bantam-lake</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation Continues on Green UFO over Bantam Lake | Orange, CT PatchMay 2, 2012...</p></details>
    Published: May 2, 2012  
 
 3. <a id="endnote-3"></a>
    Source: paranormalcatalog.net  
    Title: PARANORMAL CATALOGThe Green Whale of Bantam Lake  
-   Link: [https://www.paranormalcatalog.net/ufos/the-green-whale-of-bantam-lake](https://www.paranormalcatalog.net/ufos/the-green-whale-of-bantam-lake)  
+   Link: <a href="https://www.paranormalcatalog.net/ufos/the-green-whale-of-bantam-lake" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormalcatalog.net/ufos/the-green-whale-of-bantam-lake</a>  
 
 4. <a id="endnote-4"></a>
    Source: ctinsider.com  
    Title: CT Insider No UFO on Bantam Lake  
-   Link: [https://www.ctinsider.com/news/article/No-UFO-on-Bantam-Lake-16890879.php](https://www.ctinsider.com/news/article/No-UFO-on-Bantam-Lake-16890879.php)  
+   Link: <a href="https://www.ctinsider.com/news/article/No-UFO-on-Bantam-Lake-16890879.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/news/article/No-UFO-on-Bantam-Lake-16890879.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CT InsiderNo UFO on Bantam LakeJune 26, 2012...</p></details>
    Published: June 26, 2012  
 
 5. <a id="endnote-5"></a>
    Source: ctinsider.com  
-   Link: [https://www.ctinsider.com/news/article/The-Mystery-of-the-UFO-or-Meteorite-That-Fell-16889975.php](https://www.ctinsider.com/news/article/The-Mystery-of-the-UFO-or-Meteorite-That-Fell-16889975.php)  
+   Link: <a href="https://www.ctinsider.com/news/article/The-Mystery-of-the-UFO-or-Meteorite-That-Fell-16889975.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/news/article/The-Mystery-of-the-UFO-or-Meteorite-That-Fell-16889975.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CT InsiderThe Mystery of the &quot;UFO,&quot; or Meteorite That Fell Into Bantam Lake May Never Be SolvedApril 26, 2012...</p></details>
    Published: April 26, 2012  
 
 6. <a id="endnote-6"></a>
    Source: ctinsider.com  
-   Link: [https://www.ctinsider.com/news/article/Litchifeld-Buzzing-With-Talk-of-UFO-Falling-Into-16892580.php](https://www.ctinsider.com/news/article/Litchifeld-Buzzing-With-Talk-of-UFO-Falling-Into-16892580.php)  
+   Link: <a href="https://www.ctinsider.com/news/article/Litchifeld-Buzzing-With-Talk-of-UFO-Falling-Into-16892580.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/news/article/Litchifeld-Buzzing-With-Talk-of-UFO-Falling-Into-16892580.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CT InsiderLitchifeld Buzzing With Talk of UFO Falling Into Bantam Lake; There Was a Meteor Shower That Night (UPDATED)April 11, 2012...</p></details>
    Published: April 11, 2012  
 
 7. <a id="endnote-7"></a>
    Source: nhregister.com  
-   Link: [https://www.nhregister.com/news/article/Orange-based-Smoking-Gun-Group-posts-update-about-11496890.php](https://www.nhregister.com/news/article/Orange-based-Smoking-Gun-Group-posts-update-about-11496890.php)  
+   Link: <a href="https://www.nhregister.com/news/article/Orange-based-Smoking-Gun-Group-posts-update-about-11496890.php" target="_blank" rel="noopener noreferrer nofollow">https://www.nhregister.com/news/article/Orange-based-Smoking-Gun-Group-posts-update-about-11496890.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Haven RegisterOrange-based Smoking Gun Group posts update about its Bantam Lake UFO (or meteorite) investigationMay 1, 2012...</p></details>
    Published: May 1, 2012  
 
 8. <a id="endnote-8"></a>
    Source: ctinsider.com  
    Title: Bantam Lake "UFO" mystery may never be solved  
-   Link: [https://www.ctinsider.com/news/article/Bantam-Lake-UFO-mystery-may-never-be-solved-12074732.php](https://www.ctinsider.com/news/article/Bantam-Lake-UFO-mystery-may-never-be-solved-12074732.php)  
+   Link: <a href="https://www.ctinsider.com/news/article/Bantam-Lake-UFO-mystery-may-never-be-solved-12074732.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/news/article/Bantam-Lake-UFO-mystery-may-never-be-solved-12074732.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 26, 2012 — BANTAM LAKE &quot;UFO&quot; MYSTERY MAY NEVER BE SOLVED By DANIELA FORTE April 26, 2012 LITCHFIELD--If little green men did plunge...</p></details>
    Published: April 26, 2012  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=88384](https://nuforc.org/sighting/?id=88384)  
+   Link: <a href="https://nuforc.org/sighting/?id=88384" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=88384</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 88384April 18, 2012 — NUFORC UFO SIGHTING 88384 Occurred: 2012-04-10 02:00 Local Reported: 2012-04-13 02:19 Pacific D...</p></details>
    Published: April 10, 2012  
 
 10. <a id="endnote-10"></a>
    Source: ufo-hunters.com  
-   Link: [https://www.ufo-hunters.com/sightings/search/51438e200ad2e1e9be447b43/UFOSightinginBantam%2CCTonTuesday10April2012](https://www.ufo-hunters.com/sightings/search/51438e200ad2e1e9be447b43/UFOSightinginBantam%2CCTonTuesday10April2012)  
+   Link: <a href="https://www.ufo-hunters.com/sightings/search/51438e200ad2e1e9be447b43/UFOSightinginBantam%2CCTonTuesday10April2012" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-hunters.com/sightings/search/51438e200ad2e1e9be447b43/UFOSightinginBantam%2CCTonTuesday10April2012</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and growing BANTAM, CT Sighted on Tuesday 10. April 2012 Reported on Wednesday 18. April 2012 Sha...</p></details>
    Published: April 2012  
 
 11. <a id="endnote-11"></a>
    Source: ctinsider.com  
-   Link: [https://www.ctinsider.com/news/article/Amid-Delight-About-Story-of-Glowing-UFO-or-16894240.php](https://www.ctinsider.com/news/article/Amid-Delight-About-Story-of-Glowing-UFO-or-16894240.php)  
+   Link: <a href="https://www.ctinsider.com/news/article/Amid-Delight-About-Story-of-Glowing-UFO-or-16894240.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/news/article/Amid-Delight-About-Story-of-Glowing-UFO-or-16894240.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 14, 2012 — AMID DELIGHT ABOUT STORY OF GLOWING UFO (OR METEORITE) FALLING INTO BANTAM LAKE, OTHERS PUSH CONNECTICUT OFFICIALS TO TA...</p></details>
    Published: April 14, 2012  
 
 12. <a id="endnote-12"></a>
    Source: ctinsider.com  
-   Link: [https://www.ctinsider.com/news/article/Some-push-Connecticut-officials-to-take-action-11849119.php](https://www.ctinsider.com/news/article/Some-push-Connecticut-officials-to-take-action-11849119.php)  
+   Link: <a href="https://www.ctinsider.com/news/article/Some-push-Connecticut-officials-to-take-action-11849119.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/news/article/Some-push-Connecticut-officials-to-take-action-11849119.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 13, 2012 — SOME PUSH CONNECTICUT OFFICIALS TO TAKE ACTION AFTER &#x27;GLOWING UFO&#x27; FALLS INTO BANTAM LAKE By DANIELA FORTE April 13, 201...</p></details>
    Published: April 13, 2012  
 
@@ -817,62 +809,62 @@ Finally, this incident serves as a useful reminder in state‑level UFO history 
 
 13. <a id="endnote-13"></a>
    Source: sott.net  
-   Link: [https://www.sott.net/article/244605-The-Mystery-of-the-UFO-or-Meteorite-That-Fell-Into-Bantam-Lake-May-Never-Be-Solved](https://www.sott.net/article/244605-The-Mystery-of-the-UFO-or-Meteorite-That-Fell-Into-Bantam-Lake-May-Never-Be-Solved)  
+   Link: <a href="https://www.sott.net/article/244605-The-Mystery-of-the-UFO-or-Meteorite-That-Fell-Into-Bantam-Lake-May-Never-Be-Solved" target="_blank" rel="noopener noreferrer nofollow">https://www.sott.net/article/244605-The-Mystery-of-the-UFO-or-Meteorite-That-Fell-Into-Bantam-Lake-May-Never-Be-Solved</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 25, 2012 — HIGH STRANGENESS Image: Question THE MYSTERY OF THE &quot;UFO,&quot; OR METEORITE THAT FELL INTO BANTAM LAKE MAY NEVER BE SOLVED D...</p></details>
    Published: April 25, 2012  
 
 14. <a id="endnote-14"></a>
    Source: registercitizen.com  
    Title: Litchfield abuzz with talk of UFO falling into Bantam Lake (UPDATED)  
-   Link: [https://www.registercitizen.com/news/article/Litchfield-abuzz-with-talk-of-UFO-falling-into-12077997.php](https://www.registercitizen.com/news/article/Litchfield-abuzz-with-talk-of-UFO-falling-into-12077997.php)  
+   Link: <a href="https://www.registercitizen.com/news/article/Litchfield-abuzz-with-talk-of-UFO-falling-into-12077997.php" target="_blank" rel="noopener noreferrer nofollow">https://www.registercitizen.com/news/article/Litchfield-abuzz-with-talk-of-UFO-falling-into-12077997.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 12, 2012 — LITCHFIELD ABUZZ WITH TALK OF UFO FALLING INTO BANTAM LAKE (UPDATED) By DANIELA FORTE April 12, 2012 Thursday, April 12...</p></details>
    Published: April 12, 2012  
 
 15. <a id="endnote-15"></a>
    Source: middletownpress.com  
-   Link: [https://www.middletownpress.com/news/article/Mystery-of-reported-object-falling-from-sky-in-11849311.php](https://www.middletownpress.com/news/article/Mystery-of-reported-object-falling-from-sky-in-11849311.php)  
+   Link: <a href="https://www.middletownpress.com/news/article/Mystery-of-reported-object-falling-from-sky-in-11849311.php" target="_blank" rel="noopener noreferrer nofollow">https://www.middletownpress.com/news/article/Mystery-of-reported-object-falling-from-sky-in-11849311.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 12, 2012 — MYSTERY OF REPORTED OBJECT FALLING FROM SKY IN LITCHFIELD REMAINS UNSOLVED AFTER SEARCH By The Associated Press April 12...</p></details>
    Published: April 12, 2012  
 
 16. <a id="endnote-16"></a>
    Source: pressherald.com  
    Title: (AP) — Authorities in northwestern Connecticut say they d  
-   Link: [https://www.pressherald.com/2012/04/12/trooper-motorist-say-object-fell-from-sky/](https://www.pressherald.com/2012/04/12/trooper-motorist-say-object-fell-from-sky/)  
+   Link: <a href="https://www.pressherald.com/2012/04/12/trooper-motorist-say-object-fell-from-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.pressherald.com/2012/04/12/trooper-motorist-say-object-fell-from-sky/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trooper, motorist say object fell from skyApril 12, 2012 — TROOPER, MOTORIST SAY OBJECT FELL FROM SKY Posted April 12, 2012 Updated April...</p></details>
    Published: April 12, 2012  
 
 17. <a id="endnote-17"></a>
    Source: thegazette.com  
    Title: Trooper, motorist: Mysterious object fell from sky | The Gazette  
-   Link: [https://www.thegazette.com/news/trooper-motorist-mysterious-object-fell-from-sky/](https://www.thegazette.com/news/trooper-motorist-mysterious-object-fell-from-sky/)  
+   Link: <a href="https://www.thegazette.com/news/trooper-motorist-mysterious-object-fell-from-sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.thegazette.com/news/trooper-motorist-mysterious-object-fell-from-sky/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>12, 2012 12:46 pm LITCHFIELD, Conn. (AP) - Authorities in northwestern Connecticut say they didn&#x27;t find anything after a st...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: UFOs in Connecticut: Past and Present with MUFON CT's Michael Panicello  
-   Link: [https://www.youtube.com/watch?v=7eqFkLRPTO4](https://www.youtube.com/watch?v=7eqFkLRPTO4)  
+   Link: <a href="https://www.youtube.com/watch?v=7eqFkLRPTO4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7eqFkLRPTO4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings at Connecticut reservoir go back decades | Banfield...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: UFO sightings at Connecticut reservoir go back decades | Banfield  
-   Link: [https://www.youtube.com/watch?v=HH2JQjFQOOY](https://www.youtube.com/watch?v=HH2JQjFQOOY)  
+   Link: <a href="https://www.youtube.com/watch?v=HH2JQjFQOOY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HH2JQjFQOOY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Witnesses, whistleblowers, questions: UAP mysteries in the US | Backscroll...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Strange UFO sightings in Connecticut: What do we know | Backscroll  
-   Link: [https://www.youtube.com/watch?v=ykXZ8xmBKyo](https://www.youtube.com/watch?v=ykXZ8xmBKyo)  
+   Link: <a href="https://www.youtube.com/watch?v=ykXZ8xmBKyo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ykXZ8xmBKyo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Connecticut: Past and Present with MUFON CT&#x27;s Michael Panicello...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Trooper, motorist report object falling from sky  
-   Link: [https://www.youtube.com/watch?v=w-gz4_Ge_qY](https://www.youtube.com/watch?v=w-gz4_Ge_qY)  
+   Link: <a href="https://www.youtube.com/watch?v=w-gz4_Ge_qY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w-gz4_Ge_qY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange UFO sightings in Connecticut: What do we know | Backscroll...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: abc7.com  
-   Link: [https://abc7.com/archive/8618082/](https://abc7.com/archive/8618082/)  
+   Link: <a href="https://abc7.com/archive/8618082/" target="_blank" rel="noopener noreferrer nofollow">https://abc7.com/archive/8618082/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trooper, motorist: Mysterious object fell from sky | ABC7 Los Angeles | abc7.com - ABC7 Los AngelesApril 12, 2012 — TROOPER, MOTORIST: MY...</p></details>
-   Published: April 12, 2012  
+   Published: April 12, 2012

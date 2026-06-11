@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /blue-book-eb3f6b/
 nav_short_title: Weak explanations
 title: When an official answer was not proof
-title_full: When an official answer was not proof | Blue Book
+title_full: When an official answer was not proof
 display_title_short: Weak explanations
 display_title: Weak explanations
 heading_title: When an official answer was not proof
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:13:19'
-parent_title: How Official Were South Dakota's UFO Explanations? | South Dakota UFOs
+parent_title: How Official Were South Dakota's UFO Explanations?
 parent_permalink: /blue-book-eb3f6b/
 parent_nav_short_title: Blue Book
 parent_heading_title: How Official Were South Dakota's UFO Explanations?
@@ -250,10 +250,9 @@ image: /assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_weak_official
 
 ## Introduction
 
-Some of the most revealing [South Dakota]({{ 'what-really-happened-in-south-dakotas/' | relative_url }}) entries in Project [Blue Book]({{ 'blue-book-eb3f6b/' | relative_url }}) are not the cases that remained officially unidentified. They are the reports that received apparently sensible explanations even though the surviving paperwork does not fully prove those explanations. In several files, Air Force analysts assigned labels such as birds, aircraft, clouds or astronomical objects, yet the records contain little detailed evidence showing how those conclusions were reached. That does not mean the explanations were wrong. It means the explanation and the proof were sometimes two different things.
+Some of the most revealing South Dakota entries in Project [Blue Book]({{ 'blue-book-eb3f6b/' | relative_url }}) are not the cases that remained officially unidentified. They are the reports that received apparently sensible explanations even though the surviving paperwork does not fully prove those explanations. In several files, Air Force analysts assigned labels such as birds, aircraft, clouds or astronomical objects, yet the records contain little detailed evidence showing how those conclusions were reached. That does not mean the explanations were wrong. It means the explanation and the proof were sometimes two different things.
 
-
-<img src="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_weak_official_explan_95dc21-Illustration-1-light.svg" | relative_url }}" alt="Weak explanations illustration 1" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_weak_official_explan_95dc21-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_weak_official_explan_95dc21-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_weak_official_explan_95dc21-Illustration-1-dark.svg" | relative_url }}" alt="Weak explanations illustration 1" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_weak_official_explan_95dc21-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_weak_official_explan_95dc21-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because later readers often treat a Blue Book identification as a solved mystery. The South Dakota files suggest a more cautious approach. In a number of cases, the proposed answer may be perfectly plausible, but the documentation does not always demonstrate why investigators felt confident enough to choose it. The result is a category of reports that are neither strong UFO cases nor strong debunkings. They sit in an uncomfortable middle ground where the official answer may be reasonable, yet the surviving record leaves important questions unanswered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">UFO research. Blue Book experts listed only one South Dakota UFO as un- identified. At White Lake...Read more...</span></span></span>
 
 ## When a plausible answer was not the same as a proven answer
@@ -270,7 +269,6 @@ One South Dakota file discussed by later researchers involved an explanation att
 
 The difficulty is that bird identifications require evidence. A strong bird explanation would normally need details such as:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Time of day and lighting conditions.
@@ -286,7 +284,6 @@ In some Blue Book files, that level of support is absent. The conclusion may sim
 
 That does not make the bird explanation false. It means the paperwork does not clearly show why alternative explanations were rejected. A modern investigator examining the same file might agree with the conclusion yet still describe the evidential basis as weak.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/62G9kw9Ziek" title="How Weaver Birds Evolved to Build Huge Nests" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=62G9kw9Ziek" target="_blank" rel="noopener noreferrer">How Weaver Birds Evolved to Build Huge Nests</a></p><p class="youtube-embed-meta">Channel: Frankenscience &middot; Views: 287.5K &middot; Uploaded: May 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=62G9kw9Ziek" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=62G9kw9Ziek">Open on YouTube</a></p></div></div></div>
 
 ## Rapid City aircraft reports and the limits of confidence
@@ -294,7 +291,6 @@ That does not make the bird explanation false. It means the paperwork does not c
 [Rapid City]({{ 'rapid-city/' | relative_url }}) generated several Blue Book entries during the 1950s and 1960s. Aircraft explanations appeared frequently because western South Dakota sat beneath military and civilian flight routes, while nearby air installations increased the chances of ordinary aviation activity being misinterpreted.
 
 Again, the problem is often not the explanation itself but the degree of proof. A convincing aircraft identification usually requires matching information:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -310,15 +306,13 @@ In some South Dakota cases, Blue Book's records contain only abbreviated summari
 
 This creates a common misunderstanding. Critics sometimes point to such cases and claim the aircraft explanation was disproved. In reality, the more accurate criticism is often that the explanation was insufficiently demonstrated rather than demonstrably wrong.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fy_6oHv_mrc" title="Why do weaver birds destroy their nests? (African Wetlands)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fy_6oHv_mrc" target="_blank" rel="noopener noreferrer">Why do weaver birds destroy their nests? (African Wetlands)</a></p><p class="youtube-embed-meta">Channel: NgenTVAfrica &middot; Views: 3.6K &middot; Uploaded: December 2020 &middot; Length: 1 minute 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fy_6oHv_mrc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fy_6oHv_mrc">Open on YouTube</a></p></div></div></div>
 
 ## Deadwood clouds and the weakness of broad weather explanations
 
-Clouds were another recurring explanation in [Blue Book records]({{ 'blue-book-eb3f6b/' | relative_url }}). Around the Black Hills, including the Deadwood area, unusual weather effects can create striking visual impressions. Sunlit cloud edges, temperature inversions, distant storm formations and shifting layers of haze can all produce unfamiliar appearances.
+Clouds were another recurring explanation in Blue Book records. Around the Black Hills, including the Deadwood area, unusual weather effects can create striking visual impressions. Sunlit cloud edges, temperature inversions, distant storm formations and shifting layers of haze can all produce unfamiliar appearances.
 
 A cloud explanation can be entirely reasonable. Yet it becomes difficult to evaluate when the case file lacks basic meteorological information. To establish clouds as a strong identification, investigators would ideally compare:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -335,8 +329,7 @@ Without that information, a cloud explanation risks becoming little more than a 
 
 South Dakota's Blue Book material contains examples where weather-related explanations appear plausible while remaining only lightly supported in the surviving documentation. That is one reason historians of the programme often distinguish between a reasonable explanation and a thoroughly evidenced one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">UFO research. Blue Book experts listed only one South Dakota UFO as un- identified. At White Lake...Read more...</span></span></span>
 
-
-<img src="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_weak_official_explan_95dc21-Illustration-2-light.svg" | relative_url }}" alt="Weak explanations illustration 2" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_weak_official_explan_95dc21-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_weak_official_explan_95dc21-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_weak_official_explan_95dc21-Illustration-2-dark.svg" | relative_url }}" alt="Weak explanations illustration 2" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_weak_official_explan_95dc21-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_weak_official_explan_95dc21-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What a strong identification would actually require
 
 The South Dakota files become easier to understand when readers compare weak identifications with the standards that would support a strong one.
@@ -344,7 +337,6 @@ The South Dakota files become easier to understand when readers compare weak ide
 A robust explanation normally includes several independent pieces of evidence pointing in the same direction. For example:
 
 **For an aircraft identification**
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -356,7 +348,6 @@ A robust explanation normally includes several independent pieces of evidence po
 
 **For an astronomical identification**
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Precise direction and elevation.
@@ -366,7 +357,6 @@ A robust explanation normally includes several independent pieces of evidence po
 </div>
 
 **For a bird identification**
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -384,8 +374,7 @@ A robust explanation normally includes several independent pieces of evidence po
 
 Many South Dakota Blue Book files do not reach this level of documentation. Instead, they often contain a brief report followed by a short conclusion. That difference is crucial when assessing the strength of an official explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">UFO research. Blue Book experts listed only one South Dakota UFO as un- identified. At White Lake...Read more...</span></span></span>
 
-
-<img src="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_weak_official_explan_95dc21-Illustration-3-light.svg" | relative_url }}" alt="Weak explanations illustration 3" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_weak_official_explan_95dc21-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_weak_official_explan_95dc21-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_weak_official_explan_95dc21-Illustration-3-dark.svg" | relative_url }}" alt="Weak explanations illustration 3" data-theme-src-dark="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_weak_official_explan_95dc21-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Dakota_ad4a41_blue_book_records_bab75d_weak_official_explan_95dc21-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to read “solved” and “insufficient data” fairly
 
 One of the biggest mistakes in UFO history is treating every Blue Book conclusion as either perfect science or deliberate dismissal. The South Dakota record suggests a more balanced interpretation.
@@ -404,9 +393,7 @@ As a result, some cases acquired explanations that were plausible but only light
 
 For modern readers, these files provide a useful corrective to two extremes. They challenge the assumption that every official explanation was definitive, but they also challenge the idea that every weak explanation conceals a genuine mystery. In South Dakota's Blue Book records, the more common reality is a narrower one: ordinary explanations that may well be correct, attached to case files too thin to prove the point beyond reasonable doubt. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdhspress.com">[South Dakota Historical Society Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdhspress.com</span><span class="citation-popover-snippet">UFO research. Blue Book experts listed only one South Dakota UFO as un- identified. At White Lake...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qdTVsr4O4HA" title="The True Story Behind US Government Investigations Into UFOs | Project Blue Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qdTVsr4O4HA" target="_blank" rel="noopener noreferrer">The True Story Behind US Government Investigations Into UFOs | Project Blue Book</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 10.9K &middot; Uploaded: January 2025 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qdTVsr4O4HA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qdTVsr4O4HA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -494,69 +481,375 @@ For modern readers, these files provide a useful corrective to two extremes. The
   </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-official-answer-was-not-proof-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-an-official-answer-was-not-proof-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/HvAAAOSw08Vk5SIm/s-l225.jpg" alt="Listing image for Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-official-answer-was-not-proof-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-an-official-answer-was-not-proof-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Wee Willie Winkie Vintage High Res 8x10 Fine Art Giclee</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-official-answer-was-not-proof-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-an-official-answer-was-not-proof-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-official-answer-was-not-proof-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-an-official-answer-was-not-proof-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-official-answer-was-not-proof-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-an-official-answer-was-not-proof-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed."><img src="https://i.ebayimg.com/images/g/GWYAAeSwgidpwAEt/s-l225.jpg" alt="Listing image for Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-official-answer-was-not-proof-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-an-official-answer-was-not-proof-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Monster Project, The (BR+DVD) LE uncut Min: 116DD5.1WS Limited Mediabook Ed.</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-official-answer-was-not-proof-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-an-official-answer-was-not-proof-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-official-answer-was-not-proof-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-an-official-answer-was-not-proof-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-official-answer-was-not-proof-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-an-official-answer-was-not-proof-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55"><img src="https://i.ebayimg.com/images/g/2G0AAOSwjIpgTIcl/s-l225.jpg" alt="Listing image for Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-official-answer-was-not-proof-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-an-official-answer-was-not-proof-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book Movie Poster 18&#x27;&#x27; x 28&#x27;&#x27; ID-1-55</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-official-answer-was-not-proof-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-an-official-answer-was-not-proof-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-official-answer-was-not-proof-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-an-official-answer-was-not-proof-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-official-answer-was-not-proof-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-an-official-answer-was-not-proof-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee"><img src="https://i.ebayimg.com/images/g/MykAAOSwkRVk5Rd3/s-l225.jpg" alt="Listing image for Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-official-answer-was-not-proof-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-an-official-answer-was-not-proof-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">Little Miss Muffet Vintage High Res 8x10 Fine Art Giclee</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-official-answer-was-not-proof-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-an-official-answer-was-not-proof-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for project blue book poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: project blue book poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-official-answer-was-not-proof-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-an-official-answer-was-not-proof-project-blue-book-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=project+blue+book+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-an-official-answer-was-not-proof-project-blue-book-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="project blue book poster" data-ebay-reference="when-an-official-answer-was-not-proof-project-blue-book-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: sdhspress.com  
-   Link: [https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf](https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf)  
+   Link: <a href="https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sdhspress.com/journal/south-dakota-history-12-1/united-states-air-force-efforts-to-investigate-ufos-great-plains-encounters/vol-12-no-1-united-states-air-force-efforts-to-investigate-ufos.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO research. Blue Book experts listed only one South Dakota UFO as un- identified. At White Lake...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 ### Additional References
 
 3. <a id="endnote-3"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html](https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html)  
+   Link: <a href="https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Abductions: Challenging the Borders of...However, he did not believe that aliens were likely to arrive here on earth and (apart...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: s45055.pcdn.co  
-   Link: [https://s45055.pcdn.co/centers/geospatial-analytics/www-content/blogs.dir/7/files/sites/354/2024/11/Terrset-liberaGIS-Manual.pdf](https://s45055.pcdn.co/centers/geospatial-analytics/www-content/blogs.dir/7/files/sites/354/2024/11/Terrset-liberaGIS-Manual.pdf)  
+   Link: <a href="https://s45055.pcdn.co/centers/geospatial-analytics/www-content/blogs.dir/7/files/sites/354/2024/11/Terrset-liberaGIS-Manual.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s45055.pcdn.co/centers/geospatial-analytics/www-content/blogs.dir/7/files/sites/354/2024/11/Terrset-liberaGIS-Manual.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>liberaGIS ManualTerrSet incorporates the IDRISI GIS and Image Processing tools and offers a constellation of vertical applications focuse...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: api.pageplace.de  
-   Link: [https://api.pageplace.de/preview/DT0400.9781400853625_A23704180/preview-9781400853625_A23704180.pdf](https://api.pageplace.de/preview/DT0400.9781400853625_A23704180/preview-9781400853625_A23704180.pdf)  
+   Link: <a href="https://api.pageplace.de/preview/DT0400.9781400853625_A23704180/preview-9781400853625_A23704180.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.pageplace.de/preview/DT0400.9781400853625_A23704180/preview-9781400853625_A23704180.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Building and Bird BehaviorTHE object of this book is to describe the biology of nest-building behavior among birds. A nest is a special c...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=62G9kw9Ziek](https://www.youtube.com/watch?v=62G9kw9Ziek)  
+   Link: <a href="https://www.youtube.com/watch?v=62G9kw9Ziek" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=62G9kw9Ziek</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Weaver Birds Evolved to Build Huge NestsWeaver birds are skilled nest builders. They can build intricate and elegant nests by looping...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sdou.org  
-   Link: [https://sdou.org/BirdNotes/1959/BN_1959_11_1-2_Mar-Jun.pdf](https://sdou.org/BirdNotes/1959/BN_1959_11_1-2_Mar-Jun.pdf)  
+   Link: <a href="https://sdou.org/BirdNotes/1959/BN_1959_11_1-2_Mar-Jun.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sdou.org/BirdNotes/1959/BN_1959_11_1-2_Mar-Jun.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>e., $40 to $60, among the. Sioux.&quot; Marsh Hawk-Quite numerous on the plains. Prairie...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: thekidshouldseethis.com  
-   Link: [https://thekidshouldseethis.com/post/weaverbirds-nests](https://thekidshouldseethis.com/post/weaverbirds-nests)  
+   Link: <a href="https://thekidshouldseethis.com/post/weaverbirds-nests" target="_blank" rel="noopener noreferrer nofollow">https://thekidshouldseethis.com/post/weaverbirds-nests</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weaverbirds design and build intricate nests8 Oct 2013 — Watch these weaverbirds, or Ploceidae, design and build intricate nests to woo m...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Wikipedia%3AList_of_online_newspaper_archives](https://en.wikipedia.org/wiki/Wikipedia%3AList_of_online_newspaper_archives)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia:List of online newspaper archivesSome newspapers do not allow access to the OCR-converted text until it is proofread...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/Wikipedia%3AList_of_online_newspaper_archives" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wikipedia%3AList_of_online_newspaper_archives</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of online newspaper archivesSome newspapers do not allow access to the OCR-converted text until it is proofread...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 2. entries cataloged by former Condon Committee scientist David Saunders, has...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: royalsocietypublishing.org  
    Title: Convergent evolution of elaborate nests as  
-   Link: [https://royalsocietypublishing.org/rspb/article/289/1989/20221734/86546/Convergent-evolution-of-elaborate-nests-as](https://royalsocietypublishing.org/rspb/article/289/1989/20221734/86546/Convergent-evolution-of-elaborate-nests-as)  
+   Link: <a href="https://royalsocietypublishing.org/rspb/article/289/1989/20221734/86546/Convergent-evolution-of-elaborate-nests-as" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rspb/article/289/1989/20221734/86546/Convergent-evolution-of-elaborate-nests-as</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SE Street · 2022 · Cited by 15 — Pendent nests are built by members of several passerine families, but the most elaborat...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: royalsocietypublishing.org  
    Title: Image analysis of weaverbird nests reveals  
-   Link: [https://royalsocietypublishing.org/rsos/article/2/6/150074/1393/Image-analysis-of-weaverbird-nests-reveals](https://royalsocietypublishing.org/rsos/article/2/6/150074/1393/Image-analysis-of-weaverbird-nests-reveals)  
+   Link: <a href="https://royalsocietypublishing.org/rsos/article/2/6/150074/1393/Image-analysis-of-weaverbird-nests-reveals" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/2/6/150074/1393/Image-analysis-of-weaverbird-nests-reveals</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>signature weave...1 Jun 2015 — The nests woven by individual weaverbirds represent an ideal structure with which to test the value of im...</p></details>

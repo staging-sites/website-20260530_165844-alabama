@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /virginia-027fb4-virginia-ufo-records/
 description: Focused pages that expand on Records.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Virginia_027fb4_virginia_ufo_records_3a3a64
-parent_title: Records | What Really Happened Over Virginia?
+parent_title: Records
 parent_nav_short_title: Records
 parent_permalink: /records-abc79c/
 ---

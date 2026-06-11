@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-makes-south-carolinas-ufo-story/
 nav_short_title: Gaffney Tale
 title: How Strong Is the Gaffney Humanoid Story?
-title_full: How Strong Is the Gaffney Humanoid Story? | South Carolina UFOs
+title_full: How Strong Is the Gaffney Humanoid Story?
 display_title_short: Gaffney Tale
 display_title: Gaffney Tale
 heading_title: How Strong Is the Gaffney Humanoid Story?
@@ -268,8 +268,7 @@ image: /assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb-overview-soc
 
 ## Introduction
 
-The Gaffney humanoid story is one of [South Carolina]({{ 'what-makes-south-carolinas-ufo-story/' | relative_url }})’s most memorable UFO-adjacent tales, but it is not one of the state’s strongest evidence cases. The claim is that, early on 17 November 1966, two Gaffney police officers saw a small craft near West Buford Street Extension and spoke with a short, human-like figure in a gold suit. The reason it still matters is not that it proves a landing happened. It matters because it shows how a thinly documented police-officer anecdote can survive for decades as local UFO folklore, especially when later retellings repeat the most colourful details while leaving the weakest parts of the evidence trail behind. Early print accounts, John Keel’s later interview, Jacques Vallée’s catalogue entry and modern web summaries all preserve the story, but none supplies the kind of physical, official or independently corroborated record that would make it a robust South Carolina UFO case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/FateV20n04196704TheElves/Fate%20v20n04%20%281967-04%29%20%28The%20Elves%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Fate v20n04 (1967 04) (The Elves) djvu.txt</span><span class="citation-popover-snippet">Fate v20n04 (1967 04) (The Elves) djvu.txt</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[2black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-title">black books Strange Mutants of the Twenty First Century</span><span class="citation-popover-snippet">black books Strange Mutants of the Twenty First Century</span></span></span>
-
+The Gaffney humanoid story is one of South Carolina’s most memorable UFO-adjacent tales, but it is not one of the state’s strongest evidence cases. The claim is that, early on 17 November 1966, two Gaffney police officers saw a small craft near West Buford Street Extension and spoke with a short, human-like figure in a gold suit. The reason it still matters is not that it proves a landing happened. It matters because it shows how a thinly documented police-officer anecdote can survive for decades as local UFO folklore, especially when later retellings repeat the most colourful details while leaving the weakest parts of the evidence trail behind. Early print accounts, John Keel’s later interview, Jacques Vallée’s catalogue entry and modern web summaries all preserve the story, but none supplies the kind of physical, official or independently corroborated record that would make it a robust South Carolina UFO case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/FateV20n04196704TheElves/Fate%20v20n04%20%281967-04%29%20%28The%20Elves%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Fate v20n04 (1967 04) (The Elves) djvu.txt</span><span class="citation-popover-snippet">Fate v20n04 (1967 04) (The Elves) djvu.txt</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[2black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-title">black books Strange Mutants of the Twenty First Century</span><span class="citation-popover-snippet">black books Strange Mutants of the Twenty First Century</span></span></span>
 
 <img src="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb-overview.webp" | relative_url }}" alt="Overview image for Gaffney Tale" loading="eager" decoding="sync" fetchpriority="high">
 ## What the 1966 police-officer story claims
@@ -282,8 +281,7 @@ The alleged craft then settled near the ground, a small underside door opened, a
 
 The one claimed physical trace is also weak. Keel reported that the officers returned to the site the next day with a local councilman named Hill and found fresh [footprints]({{ 'footprints/' | relative_url }}) where the figure had stood. Hutchins said they resembled children’s footprints, but no casts were made. That is important: once footprints are only described after the fact, without photographs, casts, measurements, chain of custody or a police report, they become anecdotal support rather than durable evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-title">black books Strange Mutants of the Twenty First Century</span><span class="citation-popover-snippet">black books Strange Mutants of the Twenty First Century</span></span></span>
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb-Illustration-1-light.svg" | relative_url }}" alt="Gaffney Tale illustration 1" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb-Illustration-1-dark.svg" | relative_url }}" alt="Gaffney Tale illustration 1" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How later UFO folklore kept it alive
 
 The Gaffney story survived because it has the ingredients that UFO folklore remembers easily: police [witnesses]({{ 'witnesses-e3b4f1/' | relative_url }}), an early-morning patrol, a landed object, a short humanoid, a gold suit, a strange conversation and the comic line about not knowing how long the visitor’s “days” were. Fate’s early notice even says the officers had not convinced fellow townspeople, which helped frame the account as both official-sounding and socially risky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/FateV20n04196704TheElves/Fate%20v20n04%20%281967-04%29%20%28The%20Elves%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Fate v20n04 (1967 04) (The Elves) djvu.txt</span><span class="citation-popover-snippet">Fate v20n04 (1967 04) (The Elves) djvu.txt</span></span></span>
@@ -294,8 +292,7 @@ That catalogue afterlife matters because it changes how readers encounter the ca
 
 The Library of Congress notes that UFOs and flying saucers form part of American folk culture and mythology, not only a question of aviation records or astronomy. That is a useful lens for Gaffney. The story can be culturally meaningful without being evidentially strong. It tells us something about 1960s UFO storytelling, police-witness credibility, embarrassment after public ridicule, and the way South Carolina’s local oddities entered national UFO literature. It does not, by itself, establish that a craft landed in Gaffney. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/spINrGMxgKA" title="&#x27;The Gaffney Incident: The Night Police Talked to an Alien&#x27; | Paranormal Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=spINrGMxgKA" target="_blank" rel="noopener noreferrer">&#x27;The Gaffney Incident: The Night Police Talked to an Alien&#x27; | Paranormal Story</a></p><p class="youtube-embed-meta">Channel: Beyond Creepy &middot; Views: 2.3M &middot; Uploaded: September 2017 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=spINrGMxgKA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=spINrGMxgKA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XQ1vDIGI_4c" title="Mothman: Harbinger of Doom or Cryptid Legend?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XQ1vDIGI_4c" target="_blank" rel="noopener noreferrer">Mothman: Harbinger of Doom or Cryptid Legend?</a></p><p class="youtube-embed-meta">Channel: J. Horton Films &middot; Views: 16.9K &middot; Uploaded: January 2024 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XQ1vDIGI_4c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XQ1vDIGI_4c">Open on YouTube</a></p></div></div></div>
 
 ## Why weak sourcing changes the conclusion
 
@@ -307,8 +304,7 @@ One of the most revealing points is the “green complexion” problem. The earl
 
 The footprints are similarly ambiguous. If casts, photographs and measurements had been preserved, they might have supplied at least a testable trace claim. Instead, the case offers only a recollection that child-like footprints were found later. A small-footed person, a child, an unrelated passer-by, animal-disturbed marks or misremembered impressions cannot be ruled out from the surviving record. The lack of preserved trace evidence is not a debunking by itself, but it prevents the footprints from carrying much weight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-title">black books Strange Mutants of the Twenty First Century</span><span class="citation-popover-snippet">black books Strange Mutants of the Twenty First Century</span></span></span>
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb-Illustration-2-light.svg" | relative_url }}" alt="Gaffney Tale illustration 2" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb-Illustration-2-dark.svg" | relative_url }}" alt="Gaffney Tale illustration 2" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How it fits South Carolina’s UFO history
 
 Within South Carolina UFO history, the Gaffney humanoid tale belongs in a different category from cases built around official Cold War files, aviation context or large sighting clusters. The National Archives states that Project Blue Book records were declassified and made available for examination, and that the Air Force project closed in 1969. That archive is crucial for some mid-century UFO cases, but the publicly visible Gaffney trail is not anchored by a Blue Book case file in the way stronger archival sightings are. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -317,11 +313,9 @@ Instead, Gaffney is best read as a folklore-versus-evidence case. It shows how S
 
 That distinction helps avoid two common mistakes. The first is dismissing the story as worthless simply because it sounds absurd. The witnesses may have believed something unusual happened, and Keel judged Hutchins to be straightforward in interview. The second mistake is treating the story as strong evidence because two officers were named. Credibility is not the same as verification. A sincere witness can misperceive, joke, embellish under pressure, misremember after a year, or be absorbed into a folklore pattern without intending fraud. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blackbooksdotpub.wordpress.com">[black books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blackbooksdotpub.wordpress.com</span><span class="citation-popover-title">black books Strange Mutants of the Twenty First Century</span><span class="citation-popover-snippet">black books Strange Mutants of the Twenty First Century</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/spINrGMxgKA" title="&#x27;The Gaffney Incident: The Night Police Talked to an Alien&#x27; | Paranormal Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=spINrGMxgKA" target="_blank" rel="noopener noreferrer">&#x27;The Gaffney Incident: The Night Police Talked to an Alien&#x27; | Paranormal Story</a></p><p class="youtube-embed-meta">Channel: Beyond Creepy &middot; Views: 2.3M &middot; Uploaded: September 2017 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=spINrGMxgKA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=spINrGMxgKA">Open on YouTube</a></p></div></div></div>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FT0-f8-2kso" title="The Police Officer Who Interrogated an Alien" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FT0-f8-2kso" target="_blank" rel="noopener noreferrer">The Police Officer Who Interrogated an Alien</a></p><p class="youtube-embed-meta">Channel: Motech &middot; Views: 183.9K &middot; Uploaded: March 2025 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FT0-f8-2kso" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FT0-f8-2kso">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XQ1vDIGI_4c" title="Mothman: Harbinger of Doom or Cryptid Legend?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XQ1vDIGI_4c" target="_blank" rel="noopener noreferrer">Mothman: Harbinger of Doom or Cryptid Legend?</a></p><p class="youtube-embed-meta">Channel: J. Horton Films &middot; Views: 16.9K &middot; Uploaded: January 2024 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XQ1vDIGI_4c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XQ1vDIGI_4c">Open on YouTube</a></p></div></div></div>
 
 ## A balanced verdict
 
@@ -329,8 +323,7 @@ The most careful conclusion is that the Gaffney humanoid story is a weakly evide
 
 Its weaknesses are more decisive. The surviving account depends heavily on retellings; the detailed interview came roughly a year later; one colourful element was later described as an embellishment; the alleged footprints were not preserved; and there is no strong public record of an official investigation, independent contemporaneous witnesses, photographs, radar data or physical evidence. For a public South Carolina UFO history, the Gaffney case should therefore be presented not as a confirmed close encounter, but as a memorable local legend whose evidence trail is far thinner than its retellings suggest.
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb-Illustration-3-light.svg" | relative_url }}" alt="Gaffney Tale illustration 3" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb-Illustration-3-dark.svg" | relative_url }}" alt="Gaffney Tale illustration 3" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_gaffney_humanoid_40a6cb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -754,143 +747,143 @@ Its weaknesses are more decisive. The surviving account depends heavily on retel
 1. <a id="endnote-1"></a>
    Source: archive.org  
    Title: Fate v20n04 (1967 04) (The Elves) djvu.txt  
-   Link: [https://archive.org/stream/FateV20n04196704TheElves/Fate%20v20n04%20%281967-04%29%20%28The%20Elves%29_djvu.txt](https://archive.org/stream/FateV20n04196704TheElves/Fate%20v20n04%20%281967-04%29%20%28The%20Elves%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/FateV20n04196704TheElves/Fate%20v20n04%20%281967-04%29%20%28The%20Elves%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/FateV20n04196704TheElves/Fate%20v20n04%20%281967-04%29%20%28The%20Elves%29_djvu.txt</a>  
 
 2. <a id="endnote-2"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt](https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt</a>  
 
 3. <a id="endnote-3"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/magonia.htm](https://www.nicap.org/magonia.htm)  
+   Link: <a href="https://www.nicap.org/magonia.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/magonia.htm</a>  
 
 4. <a id="endnote-4"></a>
    Source: archive.org  
    Title: DTIC AD0688332 djvu.txt  
-   Link: [https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt](https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt)  
+   Link: <a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 6. <a id="endnote-6"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1966fullrep.htm](https://www.nicap.org/chronos/1966fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1966fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1966fullrep.htm</a>  
 
 7. <a id="endnote-7"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/creaturedallignotojohnkeel/Creature%20dall%27%20Ignoto%20John%20Keel_djvu.txt](https://archive.org/stream/creaturedallignotojohnkeel/Creature%20dall%27%20Ignoto%20John%20Keel_djvu.txt)  
+   Link: <a href="https://archive.org/stream/creaturedallignotojohnkeel/Creature%20dall%27%20Ignoto%20John%20Keel_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/creaturedallignotojohnkeel/Creature%20dall%27%20Ignoto%20John%20Keel_djvu.txt</a>  
 
 8. <a id="endnote-8"></a>
    Source: ia601409.us.archive.org  
    Title: Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993)  
-   Link: [https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf](https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf)  
+   Link: <a href="https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: ia801800.us.archive.org  
    Title: Jacques Vallee Passportto Magonia  
-   Link: [https://ia801800.us.archive.org/19/items/jacques-vallee-passportto-magonia_202012/JacquesValleePassporttoMagonia.pdf](https://ia801800.us.archive.org/19/items/jacques-vallee-passportto-magonia_202012/JacquesValleePassporttoMagonia.pdf)  
+   Link: <a href="https://ia801800.us.archive.org/19/items/jacques-vallee-passportto-magonia_202012/JacquesValleePassporttoMagonia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801800.us.archive.org/19/items/jacques-vallee-passportto-magonia_202012/JacquesValleePassporttoMagonia.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: archive.org  
    Title: passporttomagoni0000vall m8g5  
-   Link: [https://archive.org/details/passporttomagoni0000vall_m8g5](https://archive.org/details/passporttomagoni0000vall_m8g5)  
+   Link: <a href="https://archive.org/details/passporttomagoni0000vall_m8g5" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/passporttomagoni0000vall_m8g5</a>  
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 12. <a id="endnote-12"></a>
    Source: blackbooksdotpub.wordpress.com  
    Title: black books Strange Mutants of the Twenty First Century  
-   Link: [https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf](https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf)  
+   Link: <a href="https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://blackbooksdotpub.wordpress.com/wp-content/uploads/2021/12/john-a.-keel_-gray-barker-strange-mutants-of-the-twenty-first-century-new-saucerian-2014.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: thinkaboutitdocs.com  
    Title: 1966 november ufo alien sightings  
-   Link: [https://thinkaboutitdocs.com/1966-november-ufo-alien-sightings/](https://thinkaboutitdocs.com/1966-november-ufo-alien-sightings/)  
+   Link: <a href="https://thinkaboutitdocs.com/1966-november-ufo-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/1966-november-ufo-alien-sightings/</a>  
 
 14. <a id="endnote-14"></a>
    Source: loc.gov  
-   Link: [https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us/](https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us/)  
+   Link: <a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us/</a>  
 
 15. <a id="endnote-15"></a>
    Source: johnkeel.com  
    Title: John Keel John A. Keel: A Bibliography « JOHN KEEL  
-   Link: [https://www.johnkeel.com/?page_id=3](https://www.johnkeel.com/?page_id=3)  
+   Link: <a href="https://www.johnkeel.com/?page_id=3" target="_blank" rel="noopener noreferrer nofollow">https://www.johnkeel.com/?page_id=3</a>  
 
 16. <a id="endnote-16"></a>
    Source: amazon.com  
    Title: Flying Saucer Review  
-   Link: [https://www.amazon.com/Flying-Saucer-Review-Vol-March-April-ebook/dp/B01LY2DDLV](https://www.amazon.com/Flying-Saucer-Review-Vol-March-April-ebook/dp/B01LY2DDLV)  
+   Link: <a href="https://www.amazon.com/Flying-Saucer-Review-Vol-March-April-ebook/dp/B01LY2DDLV" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Flying-Saucer-Review-Vol-March-April-ebook/dp/B01LY2DDLV</a>  
 
 17. <a id="endnote-17"></a>
    Source: scribd.com  
    Title: John Keel  
-   Link: [https://www.scribd.com/document/29891768/John-Keel-The-Complete-Guide-to-Mysterious-Beings](https://www.scribd.com/document/29891768/John-Keel-The-Complete-Guide-to-Mysterious-Beings)  
+   Link: <a href="https://www.scribd.com/document/29891768/John-Keel-The-Complete-Guide-to-Mysterious-Beings" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/29891768/John-Keel-The-Complete-Guide-to-Mysterious-Beings</a>  
 
 18. <a id="endnote-18"></a>
    Source: contemporarylegend.co.uk  
-   Link: [https://contemporarylegend.co.uk/tag/ufo/](https://contemporarylegend.co.uk/tag/ufo/)  
+   Link: <a href="https://contemporarylegend.co.uk/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://contemporarylegend.co.uk/tag/ufo/</a>  
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 21. <a id="endnote-21"></a>
    Source: unexplainable.events  
    Title: Flying Saucer Review  
-   Link: [https://unexplainable.events/Flying-Saucer-Review](https://unexplainable.events/Flying-Saucer-Review)  
+   Link: <a href="https://unexplainable.events/Flying-Saucer-Review" target="_blank" rel="noopener noreferrer nofollow">https://unexplainable.events/Flying-Saucer-Review</a>  
 
 22. <a id="endnote-22"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf](https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Gaffney Visitor  
-   Link: [https://www.youtube.com/watch?v=gwWr2H0q2Jk](https://www.youtube.com/watch?v=gwWr2H0q2Jk)  
+   Link: <a href="https://www.youtube.com/watch?v=gwWr2H0q2Jk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gwWr2H0q2Jk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mothman: Harbinger of Doom or Cryptid Legend?...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Mothman: Harbinger of Doom or Cryptid Legend?  
-   Link: [https://www.youtube.com/watch?v=XQ1vDIGI_4c](https://www.youtube.com/watch?v=XQ1vDIGI_4c)  
+   Link: <a href="https://www.youtube.com/watch?v=XQ1vDIGI_4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XQ1vDIGI_4c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are These UFO Sightings Real Evidence? | The Proof Is Out There...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/4321354/UFOlogy_a_contemporary_folklore](https://www.academia.edu/4321354/UFOlogy_a_contemporary_folklore)  
+   Link: <a href="https://www.academia.edu/4321354/UFOlogy_a_contemporary_folklore" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/4321354/UFOlogy_a_contemporary_folklore</a>  
 
 26. <a id="endnote-26"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography](https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography)  
+   Link: <a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
 
 27. <a id="endnote-27"></a>
    Source: governmentattic.org  
-   Link: [https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf](https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf)  
+   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/17y7bx7/crash_recovery_program_is_real_and_has_been_since/](https://www.reddit.com/r/UFOs/comments/17y7bx7/crash_recovery_program_is_real_and_has_been_since/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/17y7bx7/crash_recovery_program_is_real_and_has_been_since/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17y7bx7/crash_recovery_program_is_real_and_has_been_since/</a>  
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/cryptids/comments/1s6ncpo/im_working_on_a_book_about_cryptids_of_the_us/](https://www.reddit.com/r/cryptids/comments/1s6ncpo/im_working_on_a_book_about_cryptids_of_the_us/)  
+   Link: <a href="https://www.reddit.com/r/cryptids/comments/1s6ncpo/im_working_on_a_book_about_cryptids_of_the_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/cryptids/comments/1s6ncpo/im_working_on_a_book_about_cryptids_of_the_us/</a>  
 
 30. <a id="endnote-30"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/445444347/John-A-Keel-Strange-Creatures-from-Time-and-Spabookzz-org-pdf](https://www.scribd.com/document/445444347/John-A-Keel-Strange-Creatures-from-Time-and-Spabookzz-org-pdf)  
+   Link: <a href="https://www.scribd.com/document/445444347/John-A-Keel-Strange-Creatures-from-Time-and-Spabookzz-org-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/445444347/John-A-Keel-Strange-Creatures-from-Time-and-Spabookzz-org-pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: pearl-hifi.com  
-   Link: [https://pearl-hifi.com/06_Lit_Archive/14_Books_Tech_Papers/Keel_John/The_Cosmic_Question.pdf](https://pearl-hifi.com/06_Lit_Archive/14_Books_Tech_Papers/Keel_John/The_Cosmic_Question.pdf)  
+   Link: <a href="https://pearl-hifi.com/06_Lit_Archive/14_Books_Tech_Papers/Keel_John/The_Cosmic_Question.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pearl-hifi.com/06_Lit_Archive/14_Books_Tech_Papers/Keel_John/The_Cosmic_Question.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/796107227225506/posts/3594720164030851/](https://www.facebook.com/groups/796107227225506/posts/3594720164030851/)  
+   Link: <a href="https://www.facebook.com/groups/796107227225506/posts/3594720164030851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/796107227225506/posts/3594720164030851/</a>

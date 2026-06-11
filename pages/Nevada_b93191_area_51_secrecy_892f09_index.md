@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nevada-b93191-area-51-secrecy-892f09/
 description: Focused pages that expand on Area 51.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Nevada_b93191_area_51_secrecy_892f09
-parent_title: Area 51 | Why Nevada Became UFO Country
+parent_title: Area 51
 parent_nav_short_title: Area 51
 parent_permalink: /area-51/
 ---

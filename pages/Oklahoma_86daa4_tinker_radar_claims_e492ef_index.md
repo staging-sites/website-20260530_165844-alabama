@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /oklahoma-86daa4-tinker-radar-claims/
 description: Focused pages that expand on Tinker Radar.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Oklahoma_86daa4_tinker_radar_claims_e492ef
-parent_title: Tinker Radar | Why Oklahoma Became a UFO State
+parent_title: Tinker Radar
 parent_nav_short_title: Tinker Radar
 parent_permalink: /tinker-radar/
 ---

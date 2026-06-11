@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-mexico-45551f-index/
 description: Focused pages that expand on Why New Mexico Became UFO Country.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: New_Mexico_45551f
 parent_title: Why New Mexico Became UFO Country

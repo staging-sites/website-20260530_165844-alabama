@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ohio-d318c1-blue-book-ohio-legac/
 description: Focused pages that expand on Blue Book.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Ohio_d318c1_blue_book_ohio_legac_985669
-parent_title: Blue Book | Why Ohio Became a UFO State
+parent_title: Blue Book
 parent_nav_short_title: Blue Book
 parent_permalink: /blue-book-a06dab/
 ---

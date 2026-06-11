@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /alabama-d1f92d-alabama-blue-book-re/
 description: Focused pages that expand on Project Blue Book.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Alabama_d1f92d_alabama_blue_book_re_c26a14
-parent_title: Project Blue Book | What Are Alabama's Most Significant UFO...
+parent_title: Project Blue Book
 parent_nav_short_title: Project Blue Book
 parent_permalink: /project-blue-book/
 ---

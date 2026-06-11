@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-new-hampshire-became-ufo-country/
 nav_short_title: Exeter Case
 title: Why Did Exeter Become a Classic UFO Case?
-title_full: Why Did Exeter Become a Classic UFO Case? | New Hampshire UFOs
+title_full: Why Did Exeter Become a Classic UFO Case?
 display_title_short: Exeter Case
 display_title: Exeter Case
 heading_title: Why Did Exeter Become a Classic UFO Case?
@@ -264,7 +264,6 @@ image: /assets/images/New_Hampshire_824569_exeter_incident_9bd9a0-overview-socia
 
 The Exeter incident became a classic [New Hampshire]({{ 'why-new-hampshire-became-ufo-country/' | relative_url }}) UFO case because it did not rest on one frightened witness alone. In the early hours of 3 September 1965, 18-year-old Norman Muscarello reported strange red lights near Kensington, just south of Exeter; two Exeter police officers, Eugene Bertrand and David Hunt, later said they saw a similar object with him. That combination of a named civilian witness, named police witnesses, local press attention, Project Blue Book involvement and later sceptical reconstruction is why Exeter still matters in New Hampshire UFO history. The strongest balanced reading is that the case is historically important and unusually well documented, but not settled: the witnesses described something dramatic, the Air Force’s early explanations were weak and disputed, and the later KC-97 [tanker theory]({{ 'tanker-theory/' | relative_url }}) offers a plausible conventional route without removing every difficulty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0-overview.webp" | relative_url }}" alt="Overview image for Exeter Case" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Exeter became more than a local sighting
 
@@ -274,8 +273,7 @@ The incident also landed in the right institutional moment. Project Blue Book wa
 
 For New Hampshire, Exeter sits alongside the Betty and Barney [Hill case]({{ 'hill-case/' | relative_url }}) as one of the state’s two best-known UFO stories, but its character is different. The Hill case is remembered for an abduction narrative and later hypnosis. Exeter is remembered for immediate observation, police involvement, and a dispute over whether official explanations matched what [witnesses]({{ 'witnesses/' | relative_url }}) said they saw. That makes it especially useful for readers trying to understand how a sighting becomes a “classic”: not because it proves a theory, but because the paper trail, named witnesses and contested explanations keep the case alive.
 
-
-<img src="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0-Illustration-1-light.svg" | relative_url }}" alt="Exeter Case illustration 1" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0-Illustration-1-dark.svg" | relative_url }}" alt="Exeter Case illustration 1" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Norman Muscarello and the police witnesses
 
 Muscarello’s later account, recorded in a 1980 interview by Exeter Area High School students and preserved by SeacoastNH.com, kept the emphasis on fear, brightness and uncertainty rather than on a polished technical description. He said he was heading back towards Exeter at about 2 am after visiting a friend, that it was a clear night, and that he had already seen ordinary aircraft in the sky. He described pulsating lights coming from the north, moving towards him, very bright, with no clear silhouette. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://seacoastnh.com/officer-eugene-bertrand-on-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seacoastnh.com">[seacoastnh.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seacoastnh.com</span><span class="citation-popover-title">Officer Eugene Bertrand on UFOs</span><span class="citation-popover-snippet">Officer Eugene Bertrand on UFOs</span></span></span>
@@ -287,7 +285,6 @@ Officer Eugene Bertrand’s account added the element that turned Exeter from a 
 That police element is why the case gained credibility in local and national retellings. SeacoastNH.com’s introduction to the Bertrand interview notes that the 1965 sighting was given credence by local newspapers largely because two eyewitnesses were policemen. That does not make the observation infallible; police officers can misperceive aircraft, lights, distance and speed like anyone else. But it does explain why the case has never been treated as a routine anonymous report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://seacoastnh.com/officer-eugene-bertrand-on-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seacoastnh.com">[seacoastnh.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seacoastnh.com</span><span class="citation-popover-title">Officer Eugene Bertrand on UFOs</span><span class="citation-popover-snippet">Officer Eugene Bertrand on UFOs</span></span></span>
 
 The witnesses also described a pattern that later became central to both UFO and sceptical readings: multiple bright red lights, sometimes described as five in a row, flashing or dimming in sequence. In Raymond Fowler’s NICAP-linked account of the congressional material, Bertrand’s description included five bright red lights in a straight row, dimming from right to left and then left to right, with the object silent and close enough, in his telling, to alarm him. That pattern would later become the hinge of the KC-97 tanker explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/650903exeter_fowler.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QjFTgFJpyiQ" title="How US Air Tanker Crash?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QjFTgFJpyiQ" target="_blank" rel="noopener noreferrer">How US Air Tanker Crash?</a></p><p class="youtube-embed-meta">Channel: AiTelly &middot; Views: 894.1K &middot; Uploaded: March 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QjFTgFJpyiQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QjFTgFJpyiQ">Open on YouTube</a></p></div></div></div>
 
@@ -303,8 +300,7 @@ Bertrand and Hunt rejected that explanation strongly. In the same account, they 
 
 This is the most important lesson from the official side of Exeter. The Air Force’s broad Blue Book conclusion was conservative: UFO reports were not evidence of extraterrestrial vehicles or national-security threats. But in this particular case, the official explanations were not experienced by the witnesses as careful, case-specific answers. Exeter therefore became a public argument over evidential standards: how much weight should be given to trained or semi-trained observers, and how much confidence should be placed in a conventional explanation that may fit the general setting but not every reported detail?
 
-
-<img src="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0-Illustration-2-light.svg" | relative_url }}" alt="Exeter Case illustration 2" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0-Illustration-2-dark.svg" | relative_url }}" alt="Exeter Case illustration 2" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The KC-97 tanker theory
 
 The most serious later sceptical reconstruction came decades after the original Air Force response. In 2011, James McGaha and Joe Nickell argued in Skeptical Inquirer that the Exeter sighting was likely caused by a KC-97 aerial refuelling tanker. Their article presented the case as a long-cold classic that could be explained through aviation knowledge, especially the reported sequence of red lights. McGaha, a retired Air Force major and pilot, said the light pattern described by witnesses resembled the underside lights of KC-97 tankers before refuelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -314,7 +310,6 @@ The attraction of the KC-97 theory is that it engages with a specific detail rat
 That said, “plausible” is not identical to “proved”. The KC-97 explanation depends on reconstructing aircraft operations, viewing geometry, timing and witness interpretation many decades after the event. Some later technical criticism has argued that the boom-light geometry and reported direction of motion do not neatly match the witnesses’ descriptions. Martin Shough’s critique, for example, treats the tanker idea as provocative but not sufficient to close the case, and search-result summaries of his paper highlight objections about the direction implied by the boom-light configuration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.martinshough.com/aerialphenomena/EXETER%20N.H.%20Sep%202-3%201965.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: martinshough.com">[martinshough.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">martinshough.com</span><span class="citation-popover-title">Exeunt Exeter?</span><span class="citation-popover-snippet">Exeunt Exeter?</span></span></span>
 
 The fairest assessment is that the KC-97 theory is the strongest conventional explanation yet offered, especially because it addresses the red-light sequence and the military aviation setting. It is stronger than stars, planets or an advertising aircraft because it is more tailored to what the witnesses described. But it still leaves room for dispute over timing, distance, sound, perceived altitude and whether all reported observations in the Exeter-area flap can be folded into the same mechanism. It weakens the claim that Exeter is inexplicable; it does not turn every witness detail into a solved measurement.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uEbpL5vxWIU" title="Boeing KC-46 Boom Detaches During Refueling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uEbpL5vxWIU" target="_blank" rel="noopener noreferrer">Boeing KC-46 Boom Detaches During Refueling</a></p><p class="youtube-embed-meta">Channel: Simple Flying &middot; Views: 152.4K &middot; Uploaded: July 2025 &middot; Length: 3 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uEbpL5vxWIU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uEbpL5vxWIU">Open on YouTube</a></p></div></div></div>
 
@@ -328,8 +323,7 @@ The official record also cuts both ways. Project Blue Book’s involvement gives
 
 Later reporting has mostly strengthened Exeter’s status as a classic case, not because it confirmed the object, but because it preserved the human and documentary record. The SeacoastNH interviews give readers access to Muscarello’s and Bertrand’s later recollections. The Air Force and National Archives material places the case within official UFO investigation history. Sceptical work such as the KC-97 theory gives the case a serious conventional challenge rather than a throwaway dismissal. Together, these sources make Exeter a better case to study, even if they do not make it a solved mystery in the way either believers or debunkers might prefer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0-Illustration-3-light.svg" | relative_url }}" alt="Exeter Case illustration 3" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0-Illustration-3-dark.svg" | relative_url }}" alt="Exeter Case illustration 3" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_exeter_incident_9bd9a0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Exeter case still matters in New Hampshire
 
 Exeter remains central to New Hampshire UFO history because it shows how a local incident becomes durable public memory. The case has named witnesses, a recognisable landscape, a nearby military aviation context, official attention and a long afterlife in books, interviews, sceptical articles and local commemoration. It is not simply a story about “lights in the sky”; it is a story about how ordinary people, police officers, federal investigators, journalists and later researchers argued over what counts as a good explanation.
@@ -338,9 +332,7 @@ For readers approaching the case today, the best conclusion is careful rather th
 
 Within the wider New Hampshire branch, Exeter is valuable because it complements rather than duplicates the state’s other famous UFO material. Where the Hill case raises questions about memory, [hypnosis]({{ 'hypnosis/' | relative_url }}) and abduction narratives, Exeter raises questions about police testimony, official investigation and aviation misidentification. That is why it still earns a prominent place in any balanced account of New Hampshire’s UFO history: not as proof of what the object was, but as one of the clearest examples of how a sighting becomes a contested public case.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHeZjJgO9Ns" title="UFO Project Blue Book at National Archives Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer">UFO Project Blue Book at National Archives Museum</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 352.6K &middot; Uploaded: December 2019 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHeZjJgO9Ns">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LXeIUnE9ejk" title="Exeter History Minute - Exeter UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LXeIUnE9ejk" target="_blank" rel="noopener noreferrer">Exeter History Minute - Exeter UFO</a></p><p class="youtube-embed-meta">Channel: Exeter Historical Society &middot; Views: 15.3K &middot; Uploaded: August 2015 &middot; Length: 3 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LXeIUnE9ejk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LXeIUnE9ejk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -428,7 +420,7 @@ Within the wider New Hampshire branch, Exeter is valuable because it complements
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -438,111 +430,36 @@ Within the wider New Hampshire branch, Exeter is valuable because it complements
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="https://i.ebayimg.com/images/g/6qMAAeSwlL9odlp9/s-l225.jpg" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,15 +467,15 @@ Within the wider New Hampshire branch, Exeter is valuable because it complements
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets"><img src="https://i.ebayimg.com/images/g/sWkAAeSwmOFplQNw/s-l225.jpg" alt="Listing image for UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">UFO Over Whitehouse Sew/Iron On Patch, 80mm Alien Conspiracy Emblem for Jackets</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -566,15 +483,15 @@ Within the wider New Hampshire branch, Exeter is valuable because it complements
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="https://i.ebayimg.com/images/g/YVIAAOSwd71n7DAx/s-l225.jpg" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -582,15 +499,15 @@ Within the wider New Hampshire branch, Exeter is valuable because it complements
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy"><img src="https://i.ebayimg.com/images/g/~qcAAOSwAetdLK5G/s-l225.jpg" alt="Listing image for Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">Alien Patch Iron Sew On Sci Fi Motif Science Fiction UFO Space Hippy</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -598,7 +515,7 @@ Within the wider New Hampshire branch, Exeter is valuable because it complements
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exeter-case-why-did-exeter-become-a-classic-ufo-case-new-hampshire-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-exeter-become-a-classic-ufo-case-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-t" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -675,17 +592,31 @@ Within the wider New Hampshire branch, Exeter is valuable because it complements
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -698,42 +629,73 @@ Within the wider New Hampshire branch, Exeter is valuable because it complements
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -748,12 +710,17 @@ Within the wider New Hampshire branch, Exeter is valuable because it complements
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -764,112 +731,112 @@ Within the wider New Hampshire branch, Exeter is valuable because it complements
 1. <a id="endnote-1"></a>
    Source: seacoastnh.com  
    Title: Norman Muscarello Recalls His UFO Incident at Exeter  
-   Link: [https://www.seacoastnh.com/norman-muscarello-recalls-his-ufo-incident-at-exeter/](https://www.seacoastnh.com/norman-muscarello-recalls-his-ufo-incident-at-exeter/)  
+   Link: <a href="https://www.seacoastnh.com/norman-muscarello-recalls-his-ufo-incident-at-exeter/" target="_blank" rel="noopener noreferrer nofollow">https://www.seacoastnh.com/norman-muscarello-recalls-his-ufo-incident-at-exeter/</a>  
 
 2. <a id="endnote-2"></a>
    Source: seacoastnh.com  
    Title: Officer Eugene Bertrand on UFOs  
-   Link: [https://seacoastnh.com/officer-eugene-bertrand-on-ufos/](https://seacoastnh.com/officer-eugene-bertrand-on-ufos/)  
+   Link: <a href="https://seacoastnh.com/officer-eugene-bertrand-on-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://seacoastnh.com/officer-eugene-bertrand-on-ufos/</a>  
 
 3. <a id="endnote-3"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: centerforinquiry.s3.amazonaws.com  
-   Link: [https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf](https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf)  
+   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 6. <a id="endnote-6"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports/650903exeter_fowler.htm](https://www.nicap.org/reports/650903exeter_fowler.htm)  
+   Link: <a href="https://www.nicap.org/reports/650903exeter_fowler.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/650903exeter_fowler.htm</a>  
 
 7. <a id="endnote-7"></a>
    Source: martinshough.com  
    Title: Exeunt Exeter?  
-   Link: [https://www.martinshough.com/aerialphenomena/EXETER%20N.H.%20Sep%202-3%201965.pdf](https://www.martinshough.com/aerialphenomena/EXETER%20N.H.%20Sep%202-3%201965.pdf)  
+   Link: <a href="https://www.martinshough.com/aerialphenomena/EXETER%20N.H.%20Sep%202-3%201965.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.martinshough.com/aerialphenomena/EXETER%20N.H.%20Sep%202-3%201965.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 9. <a id="endnote-9"></a>
    Source: cdn.centerforinquiry.org  
-   Link: [https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf](https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf)  
+   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2011/11/22164321/p16.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: cdn.centerforinquiry.org  
-   Link: [https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2012/03/22164304/p62.pdf](https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2012/03/22164304/p62.pdf)  
+   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2012/03/22164304/p62.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2012/03/22164304/p62.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/docs/650903exeter_docs1.pdf](https://www.nicap.org/docs/650903exeter_docs1.pdf)  
+   Link: <a href="https://www.nicap.org/docs/650903exeter_docs1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/650903exeter_docs1.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: scoop-cms.s3.amazonaws.com  
    Title: PERSONA L INJURY  
-   Link: [https://scoop-cms.s3.amazonaws.com/55dd7640ca2f3ade448b457d/documents/ewj-june-2024-web.pdf](https://scoop-cms.s3.amazonaws.com/55dd7640ca2f3ade448b457d/documents/ewj-june-2024-web.pdf)  
+   Link: <a href="https://scoop-cms.s3.amazonaws.com/55dd7640ca2f3ade448b457d/documents/ewj-june-2024-web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scoop-cms.s3.amazonaws.com/55dd7640ca2f3ade448b457d/documents/ewj-june-2024-web.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Exeter incident  
-   Link: [https://en.wikipedia.org/wiki/Exeter_incident](https://en.wikipedia.org/wiki/Exeter_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Exeter_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exeter_incident</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 15. <a id="endnote-15"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf](https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=sdoLNXXkWAR](https://www.youtube.com/watch?v=sdoLNXXkWAR)  
+   Link: <a href="https://www.youtube.com/watch?v=sdoLNXXkWAR" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sdoLNXXkWAR</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We Found Aliens in Exeter, New Hampshire...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2011/11/exeter-incident-solved-a-classic-ufo-case-forty-five-years-cold/](https://skepticalinquirer.org/2011/11/exeter-incident-solved-a-classic-ufo-case-forty-five-years-cold/)  
+   Link: <a href="https://skepticalinquirer.org/2011/11/exeter-incident-solved-a-classic-ufo-case-forty-five-years-cold/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2011/11/exeter-incident-solved-a-classic-ufo-case-forty-five-years-cold/</a>  
 
 19. <a id="endnote-19"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wlkynews/posts/a-mysterious-plane-crash-along-lexington-road-has-been-the-subject-of-rumors-for/873016495102287/](https://www.facebook.com/wlkynews/posts/a-mysterious-plane-crash-along-lexington-road-has-been-the-subject-of-rumors-for/873016495102287/)  
+   Link: <a href="https://www.facebook.com/wlkynews/posts/a-mysterious-plane-crash-along-lexington-road-has-been-the-subject-of-rumors-for/873016495102287/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wlkynews/posts/a-mysterious-plane-crash-along-lexington-road-has-been-the-subject-of-rumors-for/873016495102287/</a>  
 
 21. <a id="endnote-21"></a>
    Source: baaa-acro.com  
-   Link: [https://www.baaa-acro.com/crash/crash-boeing-kc-97-stratotanker-pease-afb-5-killed](https://www.baaa-acro.com/crash/crash-boeing-kc-97-stratotanker-pease-afb-5-killed)  
+   Link: <a href="https://www.baaa-acro.com/crash/crash-boeing-kc-97-stratotanker-pease-afb-5-killed" target="_blank" rel="noopener noreferrer nofollow">https://www.baaa-acro.com/crash/crash-boeing-kc-97-stratotanker-pease-afb-5-killed</a>  
 
 22. <a id="endnote-22"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File](https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File)  
+   Link: <a href="https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File</a>  
 
 23. <a id="endnote-23"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/TalesPart01/Tales_Part_01_djvu.txt](https://archive.org/stream/TalesPart01/Tales_Part_01_djvu.txt)  
+   Link: <a href="https://archive.org/stream/TalesPart01/Tales_Part_01_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TalesPart01/Tales_Part_01_djvu.txt</a>  
 
 25. <a id="endnote-25"></a>
    Source: theaviationgeekclub.com  
-   Link: [https://theaviationgeekclub.com/kc-97-navigator-tells-the-story-of-when-his-tanker-refueled-the-then-top-secret-u-2-planes-flying-spy-missions-over-soviet-union/](https://theaviationgeekclub.com/kc-97-navigator-tells-the-story-of-when-his-tanker-refueled-the-then-top-secret-u-2-planes-flying-spy-missions-over-soviet-union/)  
+   Link: <a href="https://theaviationgeekclub.com/kc-97-navigator-tells-the-story-of-when-his-tanker-refueled-the-then-top-secret-u-2-planes-flying-spy-missions-over-soviet-union/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationgeekclub.com/kc-97-navigator-tells-the-story-of-when-his-tanker-refueled-the-then-top-secret-u-2-planes-flying-spy-missions-over-soviet-union/</a>

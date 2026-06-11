@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /vermont-835aef-buff-ledge-abduction/
 description: Focused pages that expand on Buff Ledge.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Vermont_835aef_buff_ledge_abduction_a01612
-parent_title: Buff Ledge | What Makes Vermont's UFO Stories Endure?
+parent_title: Buff Ledge
 parent_nav_short_title: Buff Ledge
 parent_permalink: /buff-ledge/
 ---

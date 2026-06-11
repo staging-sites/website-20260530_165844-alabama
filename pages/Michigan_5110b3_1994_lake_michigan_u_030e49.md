@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /michigans-most-notable-ufo-sightings-and/
 nav_short_title: 1994 Lake Michigan
 title: The Unsolved 1994 UFO Lights Over Lake Michigan
-title_full: The Unsolved 1994 UFO Lights Over Lake Michigan | Michigan UFOs
+title_full: The Unsolved 1994 UFO Lights Over Lake Michigan
 display_title_short: 1994 Lake Michigan
 display_title: 1994 Lake Michigan
 heading_title: The Unsolved 1994 UFO Lights Over Lake Michigan
@@ -268,8 +268,7 @@ image: /assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49-overview-socia
 
 ## Introduction
 
-On 8 March 1994, residents along the West [Michigan]({{ 'michigans-most-notable-ufo-sightings-and/' | relative_url }}) lakeshore reported strange lights over and near Lake Michigan, especially around Holland, Grand Haven, Muskegon, Ottawa County and neighbouring communities. The case matters because it was not a single late-night anecdote: police dispatchers received repeated calls, a Holland police officer reportedly saw lights with a family of witnesses, and Jack Bushong, then a National Weather Service meteorologist at the Muskegon County Airport office, later said he tracked unusual returns on weather radar. Local reporting and later retrospectives commonly describe at least 300 witnesses or reports in the days and weeks around the event, although the exact count varies by source and should be treated as an estimate rather than a verified census. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-title">Remembering West Michigan&#x27;s most famous UFO sighting, 30 years later</span><span class="citation-popover-snippet">Remembering West Michigan&#x27;s most famous UFO sighting, 30 years later</span></span></span>
-
+On 8 March 1994, residents along the West Michigan lakeshore reported strange lights over and near Lake Michigan, especially around Holland, Grand Haven, Muskegon, Ottawa County and neighbouring communities. The case matters because it was not a single late-night anecdote: police dispatchers received repeated calls, a Holland police officer reportedly saw lights with a family of witnesses, and Jack Bushong, then a National Weather Service meteorologist at the Muskegon County Airport office, later said he tracked unusual returns on weather radar. Local reporting and later retrospectives commonly describe at least 300 witnesses or reports in the days and weeks around the event, although the exact count varies by source and should be treated as an estimate rather than a verified census. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-title">Remembering West Michigan&#x27;s most famous UFO sighting, 30 years later</span><span class="citation-popover-snippet">Remembering West Michigan&#x27;s most famous UFO sighting, 30 years later</span></span></span>
 
 <img src="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49-overview.webp" | relative_url }}" alt="Overview image for 1994 Lake Michigan" loading="eager" decoding="sync" fetchpriority="high">
 The event remains unresolved in the careful sense of that word: there is no publicly accepted explanation that accounts for the visual reports, the police and 911 record, and Bushong’s radar account all at once. That does not prove an extraterrestrial craft, secret aircraft, or any other extraordinary answer. It means the available evidence is stronger than many casual “lights in the sky” stories, but still incomplete, retrospective, and vulnerable to ordinary problems of night-time perception, radar interpretation, media amplification and memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwmt.com/news/local/retired-meteorologist-shares-his-account-of-1994-west-michigan-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-title">retired meteorologist shares his account of 1994 west michigan ufo sightings</span><span class="citation-popover-snippet">retired meteorologist shares his account of 1994 west michigan ufo sightings</span></span></span>
@@ -284,8 +283,7 @@ The event became public very quickly because Mike Walsh, then an investigative r
 
 The best way to understand the night is not as one clean observation but as a chain of overlapping reports. There were residents watching from homes, a police response, emergency dispatch audio, newsroom calls, a weather-radar operator’s account, and later civilian UFO investigation. Each element adds weight, but each also has limits. A witness can misjudge distance and height at night; a dispatcher can only relay what callers say; a weather radar can show non-weather returns; and later retellings can sharpen a messy event into a more dramatic narrative.
 
-
-<img src="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49-Illustration-1-light.svg" | relative_url }}" alt="1994 Lake Michigan illustration 1" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49-Illustration-1-dark.svg" | relative_url }}" alt="1994 Lake Michigan illustration 1" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Radar and police data
 
 The radar element is the most distinctive part of the 1994 West Michigan event. Jack Bushong was working alone at the National Weather Service office in Muskegon when an Ottawa County dispatcher called to ask whether anything unusual appeared over southern Ottawa County. Bushong later said he switched the WSR-74C weather radar into manual mode and scanned the area, describing returns that changed position and altitude rapidly and, at times, appeared to form geometric patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwmt.com/news/local/retired-meteorologist-shares-his-account-of-1994-west-michigan-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-title">retired meteorologist shares his account of 1994 west michigan ufo sightings</span><span class="citation-popover-snippet">retired meteorologist shares his account of 1994 west michigan ufo sightings</span></span></span>
@@ -299,7 +297,6 @@ That does not make Bushong’s report meaningless. Weather radars can detect mor
 This creates the central tension in the radar evidence. Supporters of the case argue that Bushong was an experienced National Weather Service meteorologist using real equipment while dispatchers and ground witnesses were reporting lights in the same broad region. Sceptics argue that a weather radar return, especially from older equipment and under unusual propagation conditions, cannot by itself establish that a structured craft was moving as interpreted. The strongest cautious reading is that the radar account corroborates that something unusual appeared on an official weather screen, but it does not prove what that “something” was.
 
 The police component is also important, though less technically detailed. Officer Jeff Velthouse’s reported observation at the Graves home connects emergency calls to an on-scene law-enforcement witness. That gives the case more weight than an isolated private report, but it still leaves the same core problem: police officers are credible witnesses to what they saw, not automatic instruments for identifying distant night lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwmt.com/news/local/retired-meteorologist-shares-his-account-of-1994-west-michigan-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-title">retired meteorologist shares his account of 1994 west michigan ufo sightings</span><span class="citation-popover-snippet">retired meteorologist shares his account of 1994 west michigan ufo sightings</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SY5YmIGsxpE" title="In 1994, Weather Radar Detected Something Impossible" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SY5YmIGsxpE" target="_blank" rel="noopener noreferrer">In 1994, Weather Radar Detected Something Impossible</a></p><p class="youtube-embed-meta">Channel: Swegle Studios &middot; Views: 522.8K &middot; Uploaded: March 2026 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SY5YmIGsxpE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SY5YmIGsxpE">Open on YouTube</a></p></div></div></div>
 
@@ -315,8 +312,7 @@ The Graves family case adds the dispatch and police element. Later reporting des
 
 These testimonies are valuable, but they should not be flattened into one perfect story. Some witnesses saw lights near the tree line; others saw lights higher in the sky; some reported rows, others orbs, others formations. This variety leaves room for more than one contributing cause: aircraft, reflections, atmospheric effects, misidentified astronomical or shoreline lights, or one genuinely unusual event seen in different ways. It also leaves room for the possibility that the later “1994 Lake Michigan UFO event” label gathered together reports that were not all produced by the same source.
 
-
-<img src="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49-Illustration-2-light.svg" | relative_url }}" alt="1994 Lake Michigan illustration 2" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49-Illustration-2-dark.svg" | relative_url }}" alt="1994 Lake Michigan illustration 2" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Media coverage and public reaction
 
 The public life of the case began almost immediately. Newsrooms received calls on the night itself, and WWMT later reported that staff remembered more than 50 calls coming into the station, which was considered unusual. In the days that followed, television crews visited Holland and Grand Haven, followed civilian investigators, and interviewed witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wwmt.com/news/local/retired-meteorologist-shares-his-account-of-1994-west-michigan-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wwmt.com">[WWMT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wwmt.com</span><span class="citation-popover-title">retired meteorologist shares his account of 1994 west michigan ufo sightings</span><span class="citation-popover-snippet">retired meteorologist shares his account of 1994 west michigan ufo sightings</span></span></span>
@@ -326,7 +322,6 @@ Mike Walsh’s acquisition of the 911 tapes gave the story its crucial evidentia
 The case then entered the long afterlife common to prominent UFO incidents. It was revisited in local anniversary reporting, discussed by Michigan MUFON, featured in the Netflix reboot of Unsolved Mysteries, and revived again during periods of national interest in unidentified anomalous phenomena. Netflix’s Tudum summary described hundreds of 911 calls along the eastern shore of Lake Michigan and highlighted Bushong’s radar account, while the official Unsolved Mysteries case archive framed the episode around Cindy Pravda’s sighting, police calls and Bushong’s radar tracking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.netflix.com/tudum/articles/unsolved-mysteries-something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: netflix.com">[Netflix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">netflix.com</span><span class="citation-popover-title">unsolved mysteries something in the sky</span><span class="citation-popover-snippet">unsolved mysteries something in the sky</span></span></span>
 
 That later media attention cuts both ways. It preserved witness names, recordings and local memory that might otherwise have disappeared. It also encouraged a more dramatic structure: frightened callers, a lone radar operator, unexplained objects and decades of silence. For a public-facing Michigan UFO history page, the safest approach is to use those later retellings as access points, not as final proof.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7dgTCHo7gK0" title="Lights Over West Michigan | 1994 UFO Sighting Special" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7dgTCHo7gK0" target="_blank" rel="noopener noreferrer">Lights Over West Michigan | 1994 UFO Sighting Special</a></p><p class="youtube-embed-meta">Channel: 13 ON YOUR SIDE &middot; Views: 163.6K &middot; Uploaded: August 2023 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7dgTCHo7gK0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7dgTCHo7gK0">Open on YouTube</a></p></div></div></div>
 
@@ -346,8 +341,7 @@ No single explanation has won broad acceptance. Several ordinary possibilities h
 
 The unresolved status of the 1994 event comes from the way these explanations overlap without fully closing the case. A sceptic can reasonably argue that night-time misperception plus radar clutter plus ordinary aircraft may account for much of it. A cautious UFO researcher can reasonably answer that the police, dispatch and radar elements make it harder to dismiss than a normal misidentification case. Neither position justifies pretending the evidence is stronger or cleaner than it is.
 
-
-<img src="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49-Illustration-3-light.svg" | relative_url }}" alt="1994 Lake Michigan illustration 3" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49-Illustration-3-dark.svg" | relative_url }}" alt="1994 Lake Michigan illustration 3" data-theme-src-dark="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Michigan_5110b3_1994_lake_michigan_u_030e49-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this case matters in Michigan UFO history
 
 The 1994 West Michigan event belongs near the centre of Michigan’s UFO history because it combines three features rarely found together: a large witness cluster, emergency-service involvement, and a radar narrative tied to a named National Weather Service operator. Earlier Michigan history is dominated by the 1966 “[swamp gas]({{ 'swamp-gas/' | relative_url }})” controversy in the south-east of the state; the 1994 Lake Michigan case became the major late-20th-century counterpart on the west side of the state.
@@ -364,9 +358,7 @@ The case is stronger than many single-witness UFO reports because it has multipl
 
 That balance is what makes the 1994 Lake Michigan sightings important. They are not proof of alien visitation, and they should not be marketed as such. They are a serious unresolved Michigan UFO episode in which ordinary residents, police, journalists and a weather professional all became part of the same night-time mystery — a case that remains memorable precisely because the evidence is neither easy to dismiss nor strong enough to close.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QMQArS-s90I" title="UFO report ‘vindication’ for man who tracked 1994 sightings on radar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QMQArS-s90I" target="_blank" rel="noopener noreferrer">UFO report ‘vindication’ for man who tracked 1994 sightings on radar</a></p><p class="youtube-embed-meta">Channel: WOOD TV8 &middot; Views: 1.2M &middot; Uploaded: July 2021 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QMQArS-s90I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QMQArS-s90I">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -454,7 +446,7 @@ That balance is what makes the 1994 Lake Michigan sightings important. They are 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -464,111 +456,36 @@ That balance is what makes the 1994 Lake Michigan sightings important. They are 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -576,15 +493,15 @@ That balance is what makes the 1994 Lake Michigan sightings important. They are 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/sLkAAOSwaNVmMAOe/s-l225.jpg" alt="Listing image for UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">UFO FLOATING ABOVE THE CLOUDS -FLOAT EFFECT FRAMED CANVAS WALL ART PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -592,15 +509,15 @@ That balance is what makes the 1994 Lake Michigan sightings important. They are 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="https://i.ebayimg.com/images/g/VQ8AAeSwE2Fp1m0Y/s-l225.jpg" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -608,15 +525,15 @@ That balance is what makes the 1994 Lake Michigan sightings important. They are 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/QgIAAOSwbUdoGhmi/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -624,7 +541,7 @@ That balance is what makes the 1994 Lake Michigan sightings important. They are 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1994-lake-michigan-the-unsolved-1994-ufo-lights-over-lake-michigan-michigan-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-unsolved-1994-ufo-lights-over-lake-michigan-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-to" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -701,17 +618,31 @@ That balance is what makes the 1994 Lake Michigan sightings important. They are 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -724,42 +655,73 @@ That balance is what makes the 1994 Lake Michigan sightings important. They are 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -774,12 +736,17 @@ That balance is what makes the 1994 Lake Michigan sightings important. They are 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -790,141 +757,141 @@ That balance is what makes the 1994 Lake Michigan sightings important. They are 
 1. <a id="endnote-1"></a>
    Source: wwmt.com  
    Title: Remembering West Michigan's most famous UFO sighting, 30 years later  
-   Link: [https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon](https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon)  
+   Link: <a href="https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://wwmt.com/news/local/ufo-michigan-sighting-holland-famous-ottawa-lake-jack-bushong-mike-walsh-lee-lamberts-cindy-pravda-unsolved-mysteries-mufon-unidentified-aerial-phenomenon</a>  
 
 2. <a id="endnote-2"></a>
    Source: netflix.com  
    Title: unsolved mysteries something in the sky  
-   Link: [https://www.netflix.com/tudum/articles/unsolved-mysteries-something-in-the-sky](https://www.netflix.com/tudum/articles/unsolved-mysteries-something-in-the-sky)  
+   Link: <a href="https://www.netflix.com/tudum/articles/unsolved-mysteries-something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/tudum/articles/unsolved-mysteries-something-in-the-sky</a>  
 
 3. <a id="endnote-3"></a>
    Source: wwmt.com  
    Title: retired meteorologist shares his account of 1994 west michigan ufo sightings  
-   Link: [https://wwmt.com/news/local/retired-meteorologist-shares-his-account-of-1994-west-michigan-ufo-sightings](https://wwmt.com/news/local/retired-meteorologist-shares-his-account-of-1994-west-michigan-ufo-sightings)  
+   Link: <a href="https://wwmt.com/news/local/retired-meteorologist-shares-his-account-of-1994-west-michigan-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://wwmt.com/news/local/retired-meteorologist-shares-his-account-of-1994-west-michigan-ufo-sightings</a>  
 
 4. <a id="endnote-4"></a>
    Source: inside.nssl.noaa.gov  
    Title: Cleaning up the clutter on radars – NSSL News  
-   Link: [https://inside.nssl.noaa.gov/nsslnews/2011/03/cleaning-up-the-clutter-on-radars/](https://inside.nssl.noaa.gov/nsslnews/2011/03/cleaning-up-the-clutter-on-radars/)  
+   Link: <a href="https://inside.nssl.noaa.gov/nsslnews/2011/03/cleaning-up-the-clutter-on-radars/" target="_blank" rel="noopener noreferrer nofollow">https://inside.nssl.noaa.gov/nsslnews/2011/03/cleaning-up-the-clutter-on-radars/</a>  
 
 5. <a id="endnote-5"></a>
    Source: unsolved.com  
    Title: Mysteries Discover Something in the Sky Case  
-   Link: [https://unsolved.com/gallery/something-in-the-sky/](https://unsolved.com/gallery/something-in-the-sky/)  
+   Link: <a href="https://unsolved.com/gallery/something-in-the-sky/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/something-in-the-sky/</a>  
 
 6. <a id="endnote-6"></a>
    Source: ncei.noaa.gov  
-   Link: [https://www.ncei.noaa.gov/products/radar/next-generation-weather-radar](https://www.ncei.noaa.gov/products/radar/next-generation-weather-radar)  
+   Link: <a href="https://www.ncei.noaa.gov/products/radar/next-generation-weather-radar" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/products/radar/next-generation-weather-radar</a>  
 
 7. <a id="endnote-7"></a>
    Source: noaa.gov  
    Title: Jet Stream Max: Anomalous Propagation  
-   Link: [https://www.noaa.gov/jetstream/anomalous-propagation](https://www.noaa.gov/jetstream/anomalous-propagation)  
+   Link: <a href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/anomalous-propagation</a>  
 
 8. <a id="endnote-8"></a>
    Source: weather.gov  
    Title: michigan wb  
-   Link: [https://www.weather.gov/media/ilx/History/michigan_wb.pdf](https://www.weather.gov/media/ilx/History/michigan_wb.pdf)  
+   Link: <a href="https://www.weather.gov/media/ilx/History/michigan_wb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/ilx/History/michigan_wb.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: weather.gov  
    Title: ohio wb  
-   Link: [https://www.weather.gov/media/ilx/History/ohio_wb.pdf](https://www.weather.gov/media/ilx/History/ohio_wb.pdf)  
+   Link: <a href="https://www.weather.gov/media/ilx/History/ohio_wb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/ilx/History/ohio_wb.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/media/ilx/History/illinois_wb.pdf](https://www.weather.gov/media/ilx/History/illinois_wb.pdf)  
+   Link: <a href="https://www.weather.gov/media/ilx/History/illinois_wb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/ilx/History/illinois_wb.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: repository.library.noaa.gov  
    Title: noaa 7319 DS1  
-   Link: [https://repository.library.noaa.gov/view/noaa/7319/noaa_7319_DS1.pdf](https://repository.library.noaa.gov/view/noaa/7319/noaa_7319_DS1.pdf)  
+   Link: <a href="https://repository.library.noaa.gov/view/noaa/7319/noaa_7319_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/7319/noaa_7319_DS1.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: hdsc.nws.noaa.gov  
    Title: 85 RADAR HYDROLOGY THE STATE  
-   Link: [https://hdsc.nws.noaa.gov/pub/hdsc/data/papers/articles/HRL_Pubs_PDF_May12_2009/HRL_PUBS_51-100/85_RADAR_HYDROLOGY_-_THE_STATE.pdf](https://hdsc.nws.noaa.gov/pub/hdsc/data/papers/articles/HRL_Pubs_PDF_May12_2009/HRL_PUBS_51-100/85_RADAR_HYDROLOGY_-_THE_STATE.pdf)  
+   Link: <a href="https://hdsc.nws.noaa.gov/pub/hdsc/data/papers/articles/HRL_Pubs_PDF_May12_2009/HRL_PUBS_51-100/85_RADAR_HYDROLOGY_-_THE_STATE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hdsc.nws.noaa.gov/pub/hdsc/data/papers/articles/HRL_Pubs_PDF_May12_2009/HRL_PUBS_51-100/85_RADAR_HYDROLOGY_-_THE_STATE.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: roc.noaa.gov  
    Title: Auto Detect GroundClutterContam155681  
-   Link: [https://www.roc.noaa.gov/public-documents/field-requirements-branch/tac/meetings/2009/Auto_Detect_GroundClutterContam155681.pdf](https://www.roc.noaa.gov/public-documents/field-requirements-branch/tac/meetings/2009/Auto_Detect_GroundClutterContam155681.pdf)  
+   Link: <a href="https://www.roc.noaa.gov/public-documents/field-requirements-branch/tac/meetings/2009/Auto_Detect_GroundClutterContam155681.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.roc.noaa.gov/public-documents/field-requirements-branch/tac/meetings/2009/Auto_Detect_GroundClutterContam155681.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: WSR 74  
-   Link: [https://en.wikipedia.org/wiki/WSR-74](https://en.wikipedia.org/wiki/WSR-74)  
+   Link: <a href="https://en.wikipedia.org/wiki/WSR-74" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/WSR-74</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Anomalous propagation  
-   Link: [https://en.wikipedia.org/wiki/Anomalous_propagation](https://en.wikipedia.org/wiki/Anomalous_propagation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalous_propagation</a>  
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UnsolvedMysteries/comments/y7bfzk/netflix_vol_3_episode_2_something_in_the_sky/](https://www.reddit.com/r/UnsolvedMysteries/comments/y7bfzk/netflix_vol_3_episode_2_something_in_the_sky/)  
+   Link: <a href="https://www.reddit.com/r/UnsolvedMysteries/comments/y7bfzk/netflix_vol_3_episode_2_something_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnsolvedMysteries/comments/y7bfzk/netflix_vol_3_episode_2_something_in_the_sky/</a>  
 
 17. <a id="endnote-17"></a>
    Source: radartutorial.eu  
    Title: WS R-74  
-   Link: [https://www.radartutorial.eu/19.kartei/11.ancient5/karte062.en.html](https://www.radartutorial.eu/19.kartei/11.ancient5/karte062.en.html)  
+   Link: <a href="https://www.radartutorial.eu/19.kartei/11.ancient5/karte062.en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.radartutorial.eu/19.kartei/11.ancient5/karte062.en.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=182951](https://nuforc.org/sighting/?id=182951)  
+   Link: <a href="https://nuforc.org/sighting/?id=182951" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=182951</a>  
 
 19. <a id="endnote-19"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Lake Michigan UFO  
-   Link: [https://unsolvedmysteries.fandom.com/wiki/Lake_Michigan_UFO](https://unsolvedmysteries.fandom.com/wiki/Lake_Michigan_UFO)  
+   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Lake_Michigan_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Lake_Michigan_UFO</a>  
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TH8FQX7gAMU](https://www.youtube.com/watch?v=TH8FQX7gAMU)  
+   Link: <a href="https://www.youtube.com/watch?v=TH8FQX7gAMU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TH8FQX7gAMU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Muskegon Michigan&#x27;s Mass UFO Sightings 30 Years Later | Talking Strange...</p></details>
    Published: March 8, 1994  
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Muskegon Michigan's Mass UFO Sightings 30 Years Later | Talking Strange  
-   Link: [https://www.youtube.com/watch?v=eW5LGxxDthc](https://www.youtube.com/watch?v=eW5LGxxDthc)  
+   Link: <a href="https://www.youtube.com/watch?v=eW5LGxxDthc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eW5LGxxDthc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired meteorologist claims UFO was &#x27;showing off for me&#x27; | CUOMO...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Retired meteorologist claims UFO was 'showing off for me' | CUOMO  
-   Link: [https://www.youtube.com/watch?v=VQC_EOxrVs0](https://www.youtube.com/watch?v=VQC_EOxrVs0)  
+   Link: <a href="https://www.youtube.com/watch?v=VQC_EOxrVs0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VQC_EOxrVs0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report &#x27;vindication&#x27; for man who tracked 1994 sightings on radar...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Remembering West Michigan's Most Famous UFO Sighting  
-   Link: [https://www.youtube.com/watch?v=JUxB4rlY-2k](https://www.youtube.com/watch?v=JUxB4rlY-2k)  
+   Link: <a href="https://www.youtube.com/watch?v=JUxB4rlY-2k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JUxB4rlY-2k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>30 years later: Remembering West Michigan&#x27;s UFO sightings of March 8, 1994...</p></details>
    Published: March 8, 1994  
 
 24. <a id="endnote-24"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/title/tt22336526/](https://www.imdb.com/title/tt22336526/)  
+   Link: <a href="https://www.imdb.com/title/tt22336526/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt22336526/</a>  
 
 25. <a id="endnote-25"></a>
    Source: muskegonchannel.com  
-   Link: [https://muskegonchannel.com/muskegon-metro-area/2441-unsolved-mystery-something-in-the-sky-jack-bushong-at-the-norton-branch-of-the-madl-july-12th](https://muskegonchannel.com/muskegon-metro-area/2441-unsolved-mystery-something-in-the-sky-jack-bushong-at-the-norton-branch-of-the-madl-july-12th)  
+   Link: <a href="https://muskegonchannel.com/muskegon-metro-area/2441-unsolved-mystery-something-in-the-sky-jack-bushong-at-the-norton-branch-of-the-madl-july-12th" target="_blank" rel="noopener noreferrer nofollow">https://muskegonchannel.com/muskegon-metro-area/2441-unsolved-mystery-something-in-the-sky-jack-bushong-at-the-norton-branch-of-the-madl-july-12th</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KAMRLOCAL4NEWS/posts/jack-bushong-was-sure-he-was-going-to-lose-his-job-it-was-the-night-of-march-8-1/10161352460476562/](https://www.facebook.com/KAMRLOCAL4NEWS/posts/jack-bushong-was-sure-he-was-going-to-lose-his-job-it-was-the-night-of-march-8-1/10161352460476562/)  
+   Link: <a href="https://www.facebook.com/KAMRLOCAL4NEWS/posts/jack-bushong-was-sure-he-was-going-to-lose-his-job-it-was-the-night-of-march-8-1/10161352460476562/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KAMRLOCAL4NEWS/posts/jack-bushong-was-sure-he-was-going-to-lose-his-job-it-was-the-night-of-march-8-1/10161352460476562/</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1282668961809379/posts/7280526045356944/](https://www.facebook.com/groups/1282668961809379/posts/7280526045356944/)  
+   Link: <a href="https://www.facebook.com/groups/1282668961809379/posts/7280526045356944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1282668961809379/posts/7280526045356944/</a>  
 
 28. <a id="endnote-28"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/13216/chapter/4](https://www.nationalacademies.org/read/13216/chapter/4)  
+   Link: <a href="https://www.nationalacademies.org/read/13216/chapter/4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/13216/chapter/4</a>  
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/Radar-beam-propagation-conditions-adapted-from-US-NOAA-National-Weather-Service_fig1_224829985](https://www.researchgate.net/figure/Radar-beam-propagation-conditions-adapted-from-US-NOAA-National-Weather-Service_fig1_224829985)  
+   Link: <a href="https://www.researchgate.net/figure/Radar-beam-propagation-conditions-adapted-from-US-NOAA-National-Weather-Service_fig1_224829985" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Radar-beam-propagation-conditions-adapted-from-US-NOAA-National-Weather-Service_fig1_224829985</a>

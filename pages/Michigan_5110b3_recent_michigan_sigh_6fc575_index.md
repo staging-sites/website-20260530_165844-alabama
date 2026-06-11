@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /michigan-5110b3-recent-michigan-sigh/
 description: Focused pages that expand on Recent Sightings.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Michigan_5110b3_recent_michigan_sigh_6fc575
-parent_title: Recent Sightings | Michigan’s Most Notable UFO Sightings and...
+parent_title: Recent Sightings
 parent_nav_short_title: Recent Sightings
 parent_permalink: /recent-sightings/
 ---

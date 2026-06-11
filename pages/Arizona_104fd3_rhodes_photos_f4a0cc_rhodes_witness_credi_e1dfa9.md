@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /rhodes-photos/
 nav_short_title: Rhodes witness
 title: How Reliable Was William Rhodes?
-title_full: How Reliable Was William Rhodes? | Rhodes Photos
+title_full: How Reliable Was William Rhodes?
 display_title_short: Rhodes witness
 display_title: Rhodes witness
 heading_title: How Reliable Was William Rhodes?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 14:58:25'
-parent_title: Why the Rhodes Photos Still Matter | Arizona UFOs
+parent_title: Why the Rhodes Photos Still Matter
 parent_permalink: /rhodes-photos/
 parent_nav_short_title: Rhodes Photos
 parent_heading_title: Why the Rhodes Photos Still Matter
@@ -250,16 +250,14 @@ image: /assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_witness_credi_e
 
 ## Introduction
 
-In [Arizona]({{ 'why-arizona-became-a-ufo-state/' | relative_url }})’s early post‑war UFO history, the *Rhodes UFO photographs* stand out because they were among the first claimed photographic captures of an unidentified aerial object and because they hinged so heavily on the credibility of a single witness, **William A. Rhodes**. His account of what he saw near Phoenix on 7 July 1947, and the trustworthiness of his testimony and background, have been debated ever since — shaping how historians and sceptics view the incident’s evidential value within the state’s broader UFO record.[Wikipedia]
+In Arizona’s early post‑war UFO history, the *Rhodes UFO photographs* stand out because they were among the first claimed photographic captures of an unidentified aerial object and because they hinged so heavily on the credibility of a single witness, **William A. Rhodes**. His account of what he saw near Phoenix on 7 July 1947, and the trustworthiness of his testimony and background, have been debated ever since — shaping how historians and sceptics view the incident’s evidential value within the state’s broader UFO record.[Wikipedia]
 
-
-<img src="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_witness_credi_e1dfa9-Illustration-1-light.svg" | relative_url }}" alt="Rhodes witness illustration 1" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_witness_credi_e1dfa9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_witness_credi_e1dfa9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_witness_credi_e1dfa9-Illustration-1-dark.svg" | relative_url }}" alt="Rhodes witness illustration 1" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_witness_credi_e1dfa9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_witness_credi_e1dfa9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Rhodes’s Phoenix sighting account
 
 On the evening of **7 July 1947**, just weeks after the flying‑disc wave triggered by pilot Kenneth Arnold, Rhodes reported that he heard a loud “whoosh” and then saw an unusual, silent object moving overhead near his home in Phoenix. Describing the craft as flat, grey and maybe 20–30 feet across, he grabbed his camera and snapped *two photographs* of it before it sped away. The next day **The Arizona Republic** published the images under the headline *“Mystery ‘Whatsis’ Photographed over Phoenix”*, noting the object’s shape “like the heel of a shoe, with a small hole in the centre.”[Wikipedia]
 
 Rhodes told reporters the object made three passes over his house and left vapour trails. Soon after publication, federal investigators — including the FBI and Army Counterintelligence Corps — obtained copies of the photos and interviewed him, eventually taking the negatives for analysis. The U.S. Air Force later included the case in its emerging UFO files as *Incident 40* in what would become Project Blue Book.[Wikipedia]
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6B0ao1fyzeU" title="25 Controversial UFO Photographs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6B0ao1fyzeU" target="_blank" rel="noopener noreferrer">25 Controversial UFO Photographs</a></p><p class="youtube-embed-meta">Channel: List 25 &middot; Views: 272.0K &middot; Uploaded: August 2014 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6B0ao1fyzeU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6B0ao1fyzeU">Open on YouTube</a></p></div></div></div>
 
@@ -269,22 +267,19 @@ Rhodes described himself as an **amateur astronomer, inventor, radio operator an
 
 This varied background was one reason the original newspaper presentation framed Rhodes not as a casual witness but as someone with technical interests that might lend credibility to his sighting. However, beyond local press coverage, there is no authoritative record from independent professional or academic institutions verifying advanced scientific qualifications or formal credentials for Rhodes.[Wikipedia]
 
-
-<img src="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_witness_credi_e1dfa9-Illustration-2-light.svg" | relative_url }}" alt="Rhodes witness illustration 2" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_witness_credi_e1dfa9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_witness_credi_e1dfa9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_witness_credi_e1dfa9-Illustration-2-dark.svg" | relative_url }}" alt="Rhodes witness illustration 2" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_witness_credi_e1dfa9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_witness_credi_e1dfa9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Later doubts about credibility and corroboration
 
 The strength of Rhodes’s testimony has long been contested, and several aspects of his character and evidence handling have fuelled scepticism:
 
 * **Government file notes** from the 1947 investigation indicate that observers were interested not just in Rhodes’s photographs but in *his character and affiliations*. Official records note that his character “is presently under investigation” in the context of assessing the sighting.[Wikipedia]
 * **Photographic analysis** by Air Force consultants revealed disagreement about whether the object in the images could have been captured under the conditions Rhodes described. Some experts suggested the dark shape seen might be windblown debris such as paper — a mundane object swept up in the breeze — rather than an extraordinary aerial craft. The fact that the negative was reportedly poorly developed and streaked further clouded technical confidence.[Wikipedia]
-* Some **historical sceptics** have argued that Rhodes exaggerated aspects of his expertise and that his mixed personal history — including varied self‑descriptions and later dubious claims about photograph suppression — undermines his reliability as a source. Online sceptical analyses allege he may have misrepresented educational credentials or professional status, although these claims are typically based on secondary commentary rather than definitive archival proof.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoexplorations.com/ufos-that-never-were-classic-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoexplorations.com">[ufoexplorations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoexplorations.com</span><span class="citation-popover-title">UFO Explorations | The UFOs That Never Were: Classic Photos Exposed</span><span class="citation-popover-snippet">ufoexplorationsUFO Explorations | The UFOs That Never Were: Classic Photos Exposed...</span></span></span>
+* Some **historical sceptics** have argued that Rhodes exaggerated aspects of his expertise and that his mixed personal history — including varied self‑descriptions and later dubious claims about photograph suppression — undermines his reliability as a source. Online sceptical analyses allege he may have misrepresented educational credentials or professional status, although these claims are typically based on secondary commentary rather than definitive archival proof.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoexplorations.com/ufos-that-never-were-classic-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoexplorations.com">[ufoexplorations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoexplorations.com</span><span class="citation-popover-title">UFO Explorations &#124; The UFOs That Never Were: Classic Photos Exposed</span><span class="citation-popover-snippet">UFO Explorations &#124; The UFOs That Never Were: Classic Photos Exposed...</span></span></span>
 * **Official classification as “possible hoax”** appears in U.S. Air Force files on the case. While some intelligence officers privately described the Rhodes photographs as authentic, the formal Project Blue Book evaluation did not endorse the sighting as conclusive evidence of anything extraordinary.[NICAP]
 
 The combination of uncertain photographic interpretation, lack of corroborating witnesses, and questions about Rhodes’s own standing has made his testimony a focal point of debate. Where early publicity heralded the photos as rare visual evidence, later scrutiny treated the *source* — Rhodes himself — as part of the problem when judging their evidential weight.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/86Gy5sGaPjc" title="Did The US Government Try To Cover-Up A UFO Crash? | Alien Contact" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=86Gy5sGaPjc" target="_blank" rel="noopener noreferrer">Did The US Government Try To Cover-Up A UFO Crash? | Alien Contact</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 19.7K &middot; Uploaded: October 2020 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=86Gy5sGaPjc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=86Gy5sGaPjc">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pvC2kQbD7Ik" title="Arizona&#x27;s Secret UFO Files | ALIENS UNCOVERED: ET OR MAN-MADE | The Hidden History Beyond Roswell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pvC2kQbD7Ik" target="_blank" rel="noopener noreferrer">Arizona&#x27;s Secret UFO Files | ALIENS UNCOVERED: ET OR MAN-MADE | The Hidden History Beyond Roswell</a></p><p class="youtube-embed-meta">Channel: FilmIsNow Movies &middot; Views: 157.2K &middot; Uploaded: May 2024 &middot; Length: 1 hour 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pvC2kQbD7Ik" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pvC2kQbD7Ik">Open on YouTube</a></p></div></div></div>
 
@@ -294,8 +289,7 @@ In the context of Arizona’s UFO records, Rhodes’s case illustrates a core le
 
 By focusing on Rhodes as both the source of the images and the subject of credibility debates, this episode underscores the interpretive challenges of early UFO reporting in Arizona — where excitement, expectation and limited technology combined to leave a legacy that remains unresolved rather than conclusively explained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kids.kiddle.co/Rhodes_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kids.kiddle.co">[Kiddle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kids.kiddle.co</span><span class="citation-popover-title">Rhodes UFO photographs</span><span class="citation-popover-snippet">Rhodes. These photos supposedly show a disc-shaped object flying over Phoenix...Read more...</span></span></span>
 
-
-<img src="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_witness_credi_e1dfa9-Illustration-3-light.svg" | relative_url }}" alt="Rhodes witness illustration 3" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_witness_credi_e1dfa9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_witness_credi_e1dfa9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_witness_credi_e1dfa9-Illustration-3-dark.svg" | relative_url }}" alt="Rhodes witness illustration 3" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_witness_credi_e1dfa9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_rhodes_photos_f4a0cc_rhodes_witness_credi_e1dfa9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -719,57 +713,57 @@ By focusing on Rhodes as both the source of the images and the subject of credib
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Rhodes UFO photographs  
-   Link: [https://en.wikipedia.org/wiki/Rhodes_UFO_photographs](https://en.wikipedia.org/wiki/Rhodes_UFO_photographs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Rhodes_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rhodes_UFO_photographs</a>  
 
 2. <a id="endnote-2"></a>
    Source: kids.kiddle.co  
    Title: Rhodes UFO photographs  
-   Link: [https://kids.kiddle.co/Rhodes_UFO_photographs](https://kids.kiddle.co/Rhodes_UFO_photographs)  
+   Link: <a href="https://kids.kiddle.co/Rhodes_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Rhodes_UFO_photographs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhodes. These photos supposedly show a disc-shaped object flying over Phoenix...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: William Albert Rhodes  
-   Link: [https://en.wikipedia.org/wiki/William_Albert_Rhodes](https://en.wikipedia.org/wiki/William_Albert_Rhodes)  
+   Link: <a href="https://en.wikipedia.org/wiki/William_Albert_Rhodes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/William_Albert_Rhodes</a>  
 
 4. <a id="endnote-4"></a>
    Source: ufoexplorations.com  
    Title: UFO Explorations | The UFOs That Never Were: Classic Photos Exposed  
-   Link: [https://www.ufoexplorations.com/ufos-that-never-were-classic-photos](https://www.ufoexplorations.com/ufos-that-never-were-classic-photos)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ufoexplorationsUFO Explorations | The UFOs That Never Were: Classic Photos Exposed...</p></details>
+   Link: <a href="https://www.ufoexplorations.com/ufos-that-never-were-classic-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoexplorations.com/ufos-that-never-were-classic-photos</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Explorations | The UFOs That Never Were: Classic Photos Exposed...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nicap.org  
    Title: ReportUFOWave1947 SectionIV  
-   Link: [https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionIV.htm](https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionIV.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPReport on UFO Wave of 1947 Section IV...</p></details>
+   Link: <a href="https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionIV.htm" target="_blank" rel="noopener noreferrer nofollow">https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionIV.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on UFO Wave of 1947 Section IV...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO) part 1 of 1UFOs by the Air. Force iswarranted. In view of the consider- able Air. Force... UFOreported sightings. The ne...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/1947.htm](https://www.nicap.org/1947.htm)  
+   Link: <a href="https://www.nicap.org/1947.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/1947.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 4, 1947; over Emmet, Idaho. 8:17 p.m. PDT. Witnesses: United Air Lines Capt. E.J. Smith, First Officer Ralph Stevens, Stewardess Mar...</p></details>
    Published: July 4, 1947  
 
 8. <a id="endnote-8"></a>
    Source: ufoac.com  
    Title: Incident 40  
-   Link: [https://ufoac.com/incident-40-ufo.html](https://ufoac.com/incident-40-ufo.html)  
+   Link: <a href="https://ufoac.com/incident-40-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/incident-40-ufo.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>William A. Rhodes, a professional musician and amateur photographer, radio operator and electronics enthusia...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: en.wikipedia-on-ipfs.org  
    Title: UFO conspiracy theory  
-   Link: [https://en.wikipedia-on-ipfs.org/wiki/UFO_conspiracy_theory](https://en.wikipedia-on-ipfs.org/wiki/UFO_conspiracy_theory)  
+   Link: <a href="https://en.wikipedia-on-ipfs.org/wiki/UFO_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia-on-ipfs.org/wiki/UFO_conspiracy_theory</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some conspiracy theories also claim that some governments might have removed an...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: thenightskyii.org  
-   Link: [https://thenightskyii.org/rhodes1.html](https://thenightskyii.org/rhodes1.html)  
+   Link: <a href="https://thenightskyii.org/rhodes1.html" target="_blank" rel="noopener noreferrer nofollow">https://thenightskyii.org/rhodes1.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhodes PhotographsJuly 7, 1947 — WILLIAM A. RHODES PHOTOGRAPHS Image: William A. Rhodes Photographs DATE: JULY 7, 1947 LOCATION: PHOENIX...</p></details>
    Published: July 7, 1947  
 
@@ -777,61 +771,61 @@ By focusing on Rhodes as both the source of the images and the subject of credib
 
 11. <a id="endnote-11"></a>
    Source: picryl.com  
-   Link: [https://picryl.com/topics/ufo%2Bsightings%2Bin%2Bthe%2Bunited%2Bstates](https://picryl.com/topics/ufo%2Bsightings%2Bin%2Bthe%2Bunited%2Bstates)  
+   Link: <a href="https://picryl.com/topics/ufo%2Bsightings%2Bin%2Bthe%2Bunited%2Bstates" target="_blank" rel="noopener noreferrer nofollow">https://picryl.com/topics/ufo%2Bsightings%2Bin%2Bthe%2Bunited%2Bstates</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Ufo sightings in the united states ImagesRhodes UFO photos. Photos that were reportedly taken on July 7, 1947 by William A. Rhodes in P...</p></details>
    Published: July 7, 1947  
 
 12. <a id="endnote-12"></a>
    Source: justapedia.org  
-   Link: [https://justapedia.org/wiki/Rhodes_UFO_photographs](https://justapedia.org/wiki/Rhodes_UFO_photographs)  
+   Link: <a href="https://justapedia.org/wiki/Rhodes_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://justapedia.org/wiki/Rhodes_UFO_photographs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhodes UFO photographsThe Rhodes photographs have been described as among the &quot;first&quot; and &quot;best&quot; purported UFO photographs, and the sight...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: theufochronicles.com  
-   Link: [https://www.theufochronicles.com/2010/06/counter-intelligence-report-photographs.html](https://www.theufochronicles.com/2010/06/counter-intelligence-report-photographs.html)  
+   Link: <a href="https://www.theufochronicles.com/2010/06/counter-intelligence-report-photographs.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2010/06/counter-intelligence-report-photographs.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 15, 2010 — COUNTER INTELLIGENCE REPORT &amp; PHOTOGRAPHS OF UFO CAPTURED ON FILM OVER PHOENIX, ARIZONA JULY 7, 1947 - click on image(s)...</p></details>
    Published: June 15, 2010  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: it shows the vulnerability of the us defense systemharvard physicist avi loeb ex  
-   Link: [https://www.facebook.com/alarabiya.english/posts/it-shows-the-vulnerability-of-the-us-defense-systemharvard-physicist-avi-loeb-ex/1430488779116138/?locale=es_LA](https://www.facebook.com/alarabiya.english/posts/it-shows-the-vulnerability-of-the-us-defense-systemharvard-physicist-avi-loeb-ex/1430488779116138/?locale=es_LA)  
+   Link: <a href="https://www.facebook.com/alarabiya.english/posts/it-shows-the-vulnerability-of-the-us-defense-systemharvard-physicist-avi-loeb-ex/1430488779116138/?locale=es_LA" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alarabiya.english/posts/it-shows-the-vulnerability-of-the-us-defense-systemharvard-physicist-avi-loeb-ex/1430488779116138/?locale=es_LA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“It shows the VULNERABILITY of the US defense system.”...In the 1960s and &#x27;70s, repeated UFO sightings emerged at Malmstrom Air Force Ba...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: alienconspiracy.tripod.com  
    Title: The man who took the pictures was William A. Rhodes who described  
-   Link: [https://alienconspiracy.tripod.com/photos/rhodes.htm](https://alienconspiracy.tripod.com/photos/rhodes.htm)  
+   Link: <a href="https://alienconspiracy.tripod.com/photos/rhodes.htm" target="_blank" rel="noopener noreferrer nofollow">https://alienconspiracy.tripod.com/photos/rhodes.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PhotosJuly 7, 1947 — JULY 7, 1947 &gt;&gt; PHOENIX, ARIZONA The [Rhodes photos](&amp;#123;&amp;#123; &#x27;rhodes-photos/&#x27; | relative_url &amp;#125;&amp;#125;) were some of the first reported to show a UFO in flight taken in...</p></details>
    Published: July 7, 1947  
 
 16. <a id="endnote-16"></a>
    Source: archives.gov  
    Title: The Central Intelligence Agency and Overhead  
-   Link: [https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf](https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf)  
+   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s Operation BLUE BOOK. Based at Wright-Patterson, the operation collected all reports of UFO sightings. Air Force investiga tor...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ciphermysteries.com  
    Title: the roswell capsule was it tex settles flying coffin  
-   Link: [https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin](https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin)  
+   Link: <a href="https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin" target="_blank" rel="noopener noreferrer nofollow">https://ciphermysteries.com/2026/01/15/the-roswell-capsule-was-it-tex-settles-flying-coffin</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell capsule: was it Tex Settle&#x27;s Flying Coffin?15 Jan 2026 — “At the center of the idea that Marilyn knew about the UFOs is a mys...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/razasamo8/posts/the-ufo-debate-just-got-even-stranger-and-this-time-the-claims-are-coming-from-n/1510176677142180/](https://www.facebook.com/razasamo8/posts/the-ufo-debate-just-got-even-stranger-and-this-time-the-claims-are-coming-from-n/1510176677142180/)  
+   Link: <a href="https://www.facebook.com/razasamo8/posts/the-ufo-debate-just-got-even-stranger-and-this-time-the-claims-are-coming-from-n/1510176677142180/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/razasamo8/posts/the-ufo-debate-just-got-even-stranger-and-this-time-the-claims-are-coming-from-n/1510176677142180/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>overed four alien species from cra*shed UFOs through secret...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
    Title: were newspaper dailies pulled in 1947 to stop  
-   Link: [https://www.reddit.com/r/UFOs/comments/1aya3ds/were_newspaper_dailies_pulled_in_1947_to_stop/](https://www.reddit.com/r/UFOs/comments/1aya3ds/were_newspaper_dailies_pulled_in_1947_to_stop/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1aya3ds/were_newspaper_dailies_pulled_in_1947_to_stop/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aya3ds/were_newspaper_dailies_pulled_in_1947_to_stop/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>this UFO...The Rhodes UFO photos aka shoe-heel UFO photos, were captured on July 7, 1947, by amateur astronomer William Albert Rhodes, s...</p></details>
    Published: July 7, 1947  
 
 20. <a id="endnote-20"></a>
    Source: latest-ufo-sightings.net  
    Title: He was able to find one witness who claime  
-   Link: [https://www.latest-ufo-sightings.net/2016/02/the-dreamy-draw-dam-ufo-crash-incident.html](https://www.latest-ufo-sightings.net/2016/02/the-dreamy-draw-dam-ufo-crash-incident.html)  
+   Link: <a href="https://www.latest-ufo-sightings.net/2016/02/the-dreamy-draw-dam-ufo-crash-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2016/02/the-dreamy-draw-dam-ufo-crash-incident.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Dreamy Draw Dam UFO Crash Incident • Latest UFO SightingsFebruary 8, 2016 — Open Minds Radio host, Alejandro Rojas, said that he trie...</p></details>
-   Published: February 8, 2016  
+   Published: February 8, 2016

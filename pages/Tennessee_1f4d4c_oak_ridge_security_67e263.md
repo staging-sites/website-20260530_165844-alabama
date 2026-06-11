@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-keeps-tennessees-ufo-stories-alive/
 nav_short_title: Oak Ridge
 title: Why Did Oak Ridge Draw UFO Attention?
-title_full: Why Did Oak Ridge Draw UFO Attention? | Tennessee UFOs
+title_full: Why Did Oak Ridge Draw UFO Attention?
 display_title_short: Oak Ridge
 display_title: Oak Ridge
 heading_title: Why Did Oak Ridge Draw UFO Attention?
@@ -268,32 +268,29 @@ image: /assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263-overview-social
 
 ## Introduction
 
-Oak Ridge drew UFO attention because it was not just another [Tennessee]({{ 'what-keeps-tennessees-ufo-stories-alive/' | relative_url }}) town with odd lights in the sky. By 1947 it was a newly public atomic centre, built in wartime secrecy to enrich uranium for the first atomic bombs, and unusual aerial reports near it automatically raised security questions. The best-known early material is not proof of extraterrestrial craft; it is a cluster of photographs, newspaper coverage, FBI-linked records and later Air Force-era discussion showing how “flying saucer” claims became entangled with atomic secrecy almost as soon as the modern UFO era began. The public record supports a cautious conclusion: Oak Ridge matters in Tennessee UFO history because officials treated sightings there as potentially sensitive, but the surviving evidence does not identify the objects or establish that anything exotic crossed the site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/mapr/oak-ridge.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Oak Ridge, TN</span><span class="citation-popover-snippet">National Park ServiceOak Ridge, TN - Manhattan Project National Historical Park (U.S. National Park Service)...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</span></span></span>
-
+Oak Ridge drew UFO attention because it was not just another Tennessee town with odd lights in the sky. By 1947 it was a newly public atomic centre, built in wartime secrecy to enrich uranium for the first atomic bombs, and unusual aerial reports near it automatically raised security questions. The best-known early material is not proof of extraterrestrial craft; it is a cluster of photographs, newspaper coverage, FBI-linked records and later Air Force-era discussion showing how “flying saucer” claims became entangled with atomic secrecy almost as soon as the modern UFO era began. The public record supports a cautious conclusion: Oak Ridge matters in Tennessee UFO history because officials treated sightings there as potentially sensitive, but the surviving evidence does not identify the objects or establish that anything exotic crossed the site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/mapr/oak-ridge.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Oak Ridge, TN</span><span class="citation-popover-snippet">National Park ServiceOak Ridge, TN - Manhattan Project National Historical Park (U.S. National Park Service)...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>
 
 <img src="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263-overview.webp" | relative_url }}" alt="Overview image for Oak Ridge" loading="eager" decoding="sync" fetchpriority="high">
 ## The 1947 Oak Ridge saucer reports
 
-The Oak Ridge story begins in the same summer that “flying saucers” entered American popular language. A declassified FBI-linked file headed “Flying Saucers observed over Oak Ridge Area” and marked as an internal-security matter lists enclosures from the Knoxville file: two photographs of reputed “flying saucers” seen at Oak Ridge, Tennessee, during July 1947, plus a photostatic copy of a Knoxville News-Sentinel clipping about them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</span></span></span>(#endnote-5 "Snippet: DOD Report Discounts Sightings of Extraterrestrial Technology > U.S. Department of War > Defense Department News | U.S. Department of War")
+The Oak Ridge story begins in the same summer that “flying saucers” entered American popular language. A declassified FBI-linked file headed “Flying Saucers observed over Oak Ridge Area” and marked as an internal-security matter lists enclosures from the Knoxville file: two photographs of reputed “flying saucers” seen at Oak Ridge, Tennessee, during July 1947, plus a photostatic copy of a Knoxville News-Sentinel clipping about them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(#endnote-5 "Snippet: DOD Report Discounts Sightings of Extraterrestrial Technology > U.S. Department of War > Defense Department News | U.S. Department of War")
 
-The clipping itself is important because it shows how the claim reached the public before it became part of the archival record. It names W. R. Presley of 218 Illinois Avenue, Oak Ridge, and says he had photographed what he saw after noticing an unused frame left on a roll of family film. The newspaper’s tone was half-curious, half-playful: it told readers not to rush to explain the image away, but also made clear that the photograph was the first such image reported over Oak Ridge rather than a confirmed technical finding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</span></span></span>(#endnote-5 "Snippet: DOD Report Discounts Sightings of Extraterrestrial Technology > U.S. Department of War > Defense Department News | U.S. Department of War")
+The clipping itself is important because it shows how the claim reached the public before it became part of the archival record. It names W. R. Presley of 218 Illinois Avenue, Oak Ridge, and says he had photographed what he saw after noticing an unused frame left on a roll of family film. The newspaper’s tone was half-curious, half-playful: it told readers not to rush to explain the image away, but also made clear that the photograph was the first such image reported over Oak Ridge rather than a confirmed technical finding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(#endnote-5 "Snippet: DOD Report Discounts Sightings of Extraterrestrial Technology > U.S. Department of War > Defense Department News | U.S. Department of War")
 
-The surviving images are not strong enough, by themselves, to settle the case. They show a landscape, utility poles, ridges and a bright or streak-like feature in the sky, but they do not provide modern essentials such as a precise camera setting, exposure information, verified chain of custody, independent triangulation or a contemporaneous technical analysis that rules out mundane causes. The value of the file is therefore documentary rather than evidentially decisive: it proves that the claim existed, was associated with Oak Ridge in July 1947, and was preserved in an internal-security frame. It does not prove what Presley photographed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</span></span></span>(#endnote-5 "Snippet: DOD Report Discounts Sightings of Extraterrestrial Technology > U.S. Department of War > Defense Department News | U.S. Department of War")
+The surviving images are not strong enough, by themselves, to settle the case. They show a landscape, utility poles, ridges and a bright or streak-like feature in the sky, but they do not provide modern essentials such as a precise camera setting, exposure information, verified chain of custody, independent triangulation or a contemporaneous technical analysis that rules out mundane causes. The value of the file is therefore documentary rather than evidentially decisive: it proves that the claim existed, was associated with Oak Ridge in July 1947, and was preserved in an internal-security frame. It does not prove what Presley photographed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(#endnote-5 "Snippet: DOD Report Discounts Sightings of Extraterrestrial Technology > U.S. Department of War > Defense Department News | U.S. Department of War")
 
 This is the first key distinction for readers. A UFO case can be historically significant without being physically persuasive. The Oak Ridge photographs are historically significant because they connect an early flying-saucer report to a major atomic site. They are not, on the available public record, a clear demonstration of an unknown craft.
 
-
-<img src="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263-Illustration-1-light.svg" | relative_url }}" alt="Oak Ridge illustration 1" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263-Illustration-1-dark.svg" | relative_url }}" alt="Oak Ridge illustration 1" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why atomic secrecy changed the meaning of a sighting
 
 Oak Ridge was built for secrecy before it became a UFO location. The National Park Service describes the East Tennessee site as a wartime Manhattan Project centre, developed from 1942 with massive facilities whose purpose was uranium enrichment for the first atomic bombs. The same official history notes that Oak Ridge remained associated with highly secured nuclear research facilities after the war. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nps.gov/mapr/oak-ridge.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nps.gov">[National Park Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nps.gov</span><span class="citation-popover-title">National Park Service Oak Ridge, TN</span><span class="citation-popover-snippet">National Park ServiceOak Ridge, TN - Manhattan Project National Historical Park (U.S. National Park Service)...</span></span></span>
 
 That background changes how the 1947 reports should be read. A vague object over a rural road might have been treated as a curiosity. A vague object over or near Oak Ridge touched a different set of anxieties: airspace security, espionage, Soviet intelligence, classified research, and public unease about atomic weapons. The question was not simply “Was it strange?” but “Could it represent surveillance, intrusion, panic, or a weakness in reporting channels?”
 
-This is why Oak Ridge belongs in Tennessee’s UFO history rather than only in local folklore. The site gave ordinary-looking witness material a national-security shadow. The FBI-linked file heading and internal-security labelling do not mean the government confirmed a craft. They show that officials were collecting and routing information because the place mattered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</span></span></span>(#endnote-5 "Snippet: DOD Report Discounts Sightings of Extraterrestrial Technology > U.S. Department of War > Defense Department News | U.S. Department of War")
+This is why Oak Ridge belongs in Tennessee’s UFO history rather than only in local folklore. The site gave ordinary-looking witness material a national-security shadow. The FBI-linked file heading and internal-security labelling do not mean the government confirmed a craft. They show that officials were collecting and routing information because the place mattered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(#endnote-5 "Snippet: DOD Report Discounts Sightings of Extraterrestrial Technology > U.S. Department of War > Defense Department News | U.S. Department of War")
 
 The security frame also helps explain why later readers can easily overstate the case. Secrecy makes weak evidence feel more dramatic. A file held by a federal agency can look like confirmation when it may only be a record of concern, correspondence or evidence-gathering. In Oak Ridge’s case, the safer reading is that the location raised the stakes, not that it solved the mystery.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/syGME_XtHkg" title="Military Can&#x27;t Explain These UFOs at US &amp; Russian Nuclear Weapons Sites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=syGME_XtHkg" target="_blank" rel="noopener noreferrer">Military Can&#x27;t Explain These UFOs at US &amp; Russian Nuclear Weapons Sites</a></p><p class="youtube-embed-meta">Channel: The Infographics Show &middot; Views: 1.7M &middot; Uploaded: June 2020 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=syGME_XtHkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=syGME_XtHkg">Open on YouTube</a></p></div></div></div>
 
@@ -307,18 +304,16 @@ This is some of the strongest material for the “unresolved” side of the Oak 
 
 The Oak Ridge case therefore sits in a familiar middle ground. It is stronger than a simple campfire anecdote because official records, named locations and investigative channels are involved. It is weaker than a modern, multi-sensor case with synchronised radar logs, calibrated imagery, audio, exact coordinates and independent technical review.
 
-
-<img src="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263-Illustration-2-light.svg" | relative_url }}" alt="Oak Ridge illustration 2" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263-Illustration-2-dark.svg" | relative_url }}" alt="Oak Ridge illustration 2" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the records can and cannot prove
 
-The surviving Oak Ridge record proves several useful things. It proves that by July 1947, “flying saucer” claims in Oak Ridge were public enough to appear in the Knoxville News-Sentinel and official enough to be preserved in federal files. It proves that the association with an atomic site made the reports more sensitive than many ordinary sightings. It also shows that later Air Force-linked discussion treated Oak Ridge as part of a wider Cold War problem: how to sort unknown aerial reports near strategic facilities without either ignoring possible security risks or overstating weak evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</span></span></span>(#endnote-5 "Snippet: DOD Report Discounts Sightings of Extraterrestrial Technology > U.S. Department of War > Defense Department News | U.S. Department of War") <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</span></span></span>
+The surviving Oak Ridge record proves several useful things. It proves that by July 1947, “flying saucer” claims in Oak Ridge were public enough to appear in the Knoxville News-Sentinel and official enough to be preserved in federal files. It proves that the association with an atomic site made the reports more sensitive than many ordinary sightings. It also shows that later Air Force-linked discussion treated Oak Ridge as part of a wider Cold War problem: how to sort unknown aerial reports near strategic facilities without either ignoring possible security risks or overstating weak evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(#endnote-5 "Snippet: DOD Report Discounts Sightings of Extraterrestrial Technology > U.S. Department of War > Defense Department News | U.S. Department of War") <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>
 
 The record does not prove that the photographed object was a structured craft, that it crossed restricted airspace, that it was under intelligent control, or that it had any connection to non-human technology. The public file also does not show a clean technical elimination of all ordinary explanations. Possible mundane explanations remain broad: photographic artefact, reflection, aircraft, balloon, smoke, cloud form, film damage, processing defect, or a misread distant object. The point is not that one of these explanations is proven; it is that the available evidence is too thin to exclude them.
 
-Project Blue Book’s broader official conclusions matter here. The National Archives states that Project Blue Book records were declassified and that the programme closed in 1969. The Air Force fact sheet says 12,618 sightings were reported from 1947 to 1969, with 701 remaining “Unidentified”, but also says the Air Force found no UFO that indicated a national-security threat, no evidence of technology beyond modern scientific knowledge, and no evidence that unidentified sightings were extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National Archives...</span></span></span>
+Project Blue Book’s broader official conclusions matter here. The National Archives states that Project Blue Book records were declassified and that the programme closed in 1969. The Air Force fact sheet says 12,618 sightings were reported from 1947 to 1969, with 701 remaining “Unidentified”, but also says the Air Force found no UFO that indicated a national-security threat, no evidence of technology beyond modern scientific knowledge, and no evidence that unidentified sightings were extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National Archives...</span></span></span>
 
 Those conclusions should not be treated as a magic eraser for every unresolved case. “Unidentified” can mean that the data were incomplete, not that the object was extraordinary. Equally, official dismissal does not automatically mean a witness was foolish or dishonest. Oak Ridge is best understood as a case where the location was unusually important, the reports were taken seriously enough to enter official channels, and the public evidence remains insufficient for a confident identification.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b7wrSI3ORUE" title="A Rare Look at the Secret Site of the Atomic Bomb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b7wrSI3ORUE" target="_blank" rel="noopener noreferrer">A Rare Look at the Secret Site of the Atomic Bomb</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel &middot; Views: 71.3K &middot; Uploaded: July 2013 &middot; Length: 2 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b7wrSI3ORUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b7wrSI3ORUE">Open on YouTube</a></p></div></div></div>
 
@@ -328,18 +323,16 @@ Oak Ridge has a second, quieter place in the modern UAP record. The All-domain A
 
 That modern role is different from the 1947 sightings, but it reinforces why Oak Ridge keeps reappearing in the UFO archive. In the early Cold War, Oak Ridge was a sensitive place where aerial reports raised security questions. In the present, its laboratory expertise makes it a place where physical claims can be tested. In both eras, the Oak Ridge connection is less about proving aliens and more about the government’s attempt to separate rumour, security concern and material evidence.
 
-AARO’s broader position is also relevant. In its historical review, the Department of Defense reported that AARO had found no verifiable evidence that any UAP sighting represented extraterrestrial activity, and no verifiable evidence that the US government or private industry had access to extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</span></span></span>(#endnote-5 "Snippet: DOD Report Discounts Sightings of Extraterrestrial Technology > U.S. Department of War > Defense Department News | U.S. Department of War")
+AARO’s broader position is also relevant. In its historical review, the Department of Defense reported that AARO had found no verifiable evidence that any UAP sighting represented extraterrestrial activity, and no verifiable evidence that the US government or private industry had access to extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(#endnote-5 "Snippet: DOD Report Discounts Sightings of Extraterrestrial Technology > U.S. Department of War > Defense Department News | U.S. Department of War")
 
 For Tennessee readers, this strengthens the cautious interpretation. Oak Ridge is not a debunked non-story, because the files and photographs are real historical records and the site’s atomic role made the reports meaningful. But it is also not a confirmed extraordinary event. Its importance lies in showing how quickly UFO reports became wrapped around nuclear secrecy, official anxiety and public fascination in East Tennessee.
 
-
-<img src="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263-Illustration-3-light.svg" | relative_url }}" alt="Oak Ridge illustration 3" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263-Illustration-3-dark.svg" | relative_url }}" alt="Oak Ridge illustration 3" data-theme-src-dark="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tennessee_1f4d4c_oak_ridge_security_67e263-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A fair reading of the Oak Ridge question
 
 The best answer to “Why did Oak Ridge draw UFO attention?” is that place mattered as much as the sightings themselves. Oak Ridge was a symbol of atomic power, secrecy and national vulnerability. When “flying saucer” reports appeared there in 1947, they seemed more consequential than the same claims would have seemed elsewhere in Tennessee. The official paper trail records concern, collection and investigation; it does not supply a final identification.
 
 Three conclusions keep the case in proportion:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -351,9 +344,7 @@ Three conclusions keep the case in proportion:
 
 That is why Oak Ridge remains one of Tennessee’s most distinctive UFO subtopics. It is not the state’s proof of visitors from elsewhere. It is a compact example of how an unusual sky report, a sensitive atomic site and a secretive national-security culture could turn a local sighting into a lasting archival question.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TqSOMz4jc3I" title="Rumors about Oak Ridge Nuclear Facility" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TqSOMz4jc3I" target="_blank" rel="noopener noreferrer">Rumors about Oak Ridge Nuclear Facility</a></p><p class="youtube-embed-meta">Channel: Popular Mechanics &middot; Views: 7.6K &middot; Uploaded: July 2023 &middot; Length: 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TqSOMz4jc3I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TqSOMz4jc3I">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -441,7 +432,7 @@ That is why Oak Ridge remains one of Tennessee’s most distinctive UFO subtopic
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -451,111 +442,36 @@ That is why Oak Ridge remains one of Tennessee’s most distinctive UFO subtopic
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens UFO Patch Iron On Patch Applique Not From This World NASA"><img src="https://i.ebayimg.com/images/g/dXAAAeSwKiRoldEg/s-l225.jpg" alt="Listing image for Aliens UFO Patch Iron On Patch Applique Not From This World NASA" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer">Aliens UFO Patch Iron On Patch Applique Not From This World NASA</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,15 +479,15 @@ That is why Oak Ridge remains one of Tennessee’s most distinctive UFO subtopic
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge"><img src="https://i.ebayimg.com/images/g/fuwAAOSwmLlX7M1z/s-l225.jpg" alt="Listing image for Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer">Alien Iron On Patch / Sew On Clothes Bag Jacket NASA Space UFO Embroidery Badge</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -579,15 +495,15 @@ That is why Oak Ridge remains one of Tennessee’s most distinctive UFO subtopic
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge"><img src="https://i.ebayimg.com/images/g/xMYAAOSwWGpmhaxV/s-l225.jpg" alt="Listing image for Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Embroidered Patch Iron Sew On Clothing Alien NASA Space UFO Badge</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -595,15 +511,15 @@ That is why Oak Ridge remains one of Tennessee’s most distinctive UFO subtopic
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans"><img src="https://i.ebayimg.com/images/g/uoYAAeSwJFVpnHfV/s-l225.jpg" alt="Listing image for Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer">Popular Round Patches 2026 Iron On Sew On Patch Badge Transfer Fabric Jeans</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -611,7 +527,7 @@ That is why Oak Ridge remains one of Tennessee’s most distinctive UFO subtopic
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oak-ridge-why-did-oak-ridge-draw-ufo-attention-tennessee-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch+-book+-books+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -book -books -gerry -anderson -band -concert -series -television -tour -album -ticket" data-ebay-reference="why-did-oak-ridge-draw-ufo-attention-ufo-patch-book-books-gerry-anderson-band-concert-series-television-tour-album-ticke" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -688,17 +604,31 @@ That is why Oak Ridge remains one of Tennessee’s most distinctive UFO subtopic
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -711,42 +641,73 @@ That is why Oak Ridge remains one of Tennessee’s most distinctive UFO subtopic
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -761,12 +722,17 @@ That is why Oak Ridge remains one of Tennessee’s most distinctive UFO subtopic
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -777,201 +743,201 @@ That is why Oak Ridge remains one of Tennessee’s most distinctive UFO subtopic
 1. <a id="endnote-1"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 serial 153  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_153.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_153.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_153.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_153.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of War65_HS1-834228961_62-HQ-83894_Serial_153...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National Archives...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "The Hynek UFO Report"  
-   Link: [https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt](https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt)  
+   Link: <a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Records...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/](https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL_ANALYSIS_OF_AN_ALUMINUM_SPECIMEN.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL_ANALYSIS_OF_AN_ALUMINUM_SPECIMEN.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL_ANALYSIS_OF_AN_ALUMINUM_SPECIMEN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL_ANALYSIS_OF_AN_ALUMINUM_SPECIMEN.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
    Title: ORNL Synopsis Analysis of a Metallic Specimen  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Aluminum_Materials_Analysis_Supplement_Jan2026.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Aluminum_Materials_Analysis_Supplement_Jan2026.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Aluminum_Materials_Analysis_Supplement_Jan2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Aluminum_Materials_Analysis_Supplement_Jan2026.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: ia800501.us.archive.org  
    Title: Edward J Ruppelt The Report on Unidentified Flying Objects  
-   Link: [https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf](https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf)  
+   Link: <a href="https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: [https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf](https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: archive.org  
    Title: Flying Saucer Mind Control Mkultra Technology djvu.txt  
-   Link: [https://archive.org/stream/FlyingSaucerMindControlMkultraTechnology/Flying%20Saucer%20Mind%20Control%20Mkultra%20Technology_djvu.txt](https://archive.org/stream/FlyingSaucerMindControlMkultraTechnology/Flying%20Saucer%20Mind%20Control%20Mkultra%20Technology_djvu.txt)  
+   Link: <a href="https://archive.org/stream/FlyingSaucerMindControlMkultraTechnology/Flying%20Saucer%20Mind%20Control%20Mkultra%20Technology_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/FlyingSaucerMindControlMkultraTechnology/Flying%20Saucer%20Mind%20Control%20Mkultra%20Technology_djvu.txt</a>  
 
 15. <a id="endnote-15"></a>
    Source: ia801602.us.archive.org  
-   Link: [https://ia801602.us.archive.org/30/items/smithsonianmisce1071948smit/smithsonianmisce1071948smit.pdf](https://ia801602.us.archive.org/30/items/smithsonianmisce1071948smit/smithsonianmisce1071948smit.pdf)  
+   Link: <a href="https://ia801602.us.archive.org/30/items/smithsonianmisce1071948smit/smithsonianmisce1071948smit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801602.us.archive.org/30/items/smithsonianmisce1071948smit/smithsonianmisce1071948smit.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: archive.org  
    Title: 412589424 Ufos and the Extraterrestrial Contact Movement v1 djvu.txt  
-   Link: [https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt](https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt)  
+   Link: <a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
 
 17. <a id="endnote-17"></a>
    Source: ia600507.us.archive.org  
    Title: Messengers of Deception UFO Contacts and Cults, Jacques Vallée (1979)  
-   Link: [https://ia600507.us.archive.org/1/items/MessengersOfDeceptionUFOContactsAndCultsJacquesValle1979/Messengers%20of%20Deception%20UFO%20Contacts%20and%20Cults%2C%20Jacques%20Vall%C3%A9e%20%281979%29.pdf](https://ia600507.us.archive.org/1/items/MessengersOfDeceptionUFOContactsAndCultsJacquesValle1979/Messengers%20of%20Deception%20UFO%20Contacts%20and%20Cults%2C%20Jacques%20Vall%C3%A9e%20%281979%29.pdf)  
+   Link: <a href="https://ia600507.us.archive.org/1/items/MessengersOfDeceptionUFOContactsAndCultsJacquesValle1979/Messengers%20of%20Deception%20UFO%20Contacts%20and%20Cults%2C%20Jacques%20Vall%C3%A9e%20%281979%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600507.us.archive.org/1/items/MessengersOfDeceptionUFOContactsAndCultsJacquesValle1979/Messengers%20of%20Deception%20UFO%20Contacts%20and%20Cults%2C%20Jacques%20Vall%C3%A9e%20%281979%29.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: archive.org  
    Title: Full text of "Wonders In The Sky  
-   Link: [https://archive.org/stream/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%2BVallee%2C%2BChris%2BAubeck%2BWonders%2Bin%2Bthe%2BSky%2B%2BUnexplained%2BAerial%2BObjects%2Bfrom%2BAntiquity%2Bto%2BModern%2BTimes_djvu.txt](https://archive.org/stream/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%2BVallee%2C%2BChris%2BAubeck%2BWonders%2Bin%2Bthe%2BSky%2B%2BUnexplained%2BAerial%2BObjects%2Bfrom%2BAntiquity%2Bto%2BModern%2BTimes_djvu.txt)  
+   Link: <a href="https://archive.org/stream/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%2BVallee%2C%2BChris%2BAubeck%2BWonders%2Bin%2Bthe%2BSky%2B%2BUnexplained%2BAerial%2BObjects%2Bfrom%2BAntiquity%2Bto%2BModern%2BTimes_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/Jacques%2BVallee%2C%2BChris%2BAubeck%2BWonders%2Bin%2Bthe%2BSky%2B%2BUnexplained%2BAerial%2BObjects%2Bfrom%2BAntiquity%2Bto%2BModern%2BTimes_djvu.txt</a>  
 
 19. <a id="endnote-19"></a>
    Source: ia601409.us.archive.org  
    Title: Passport to Magonia—UFOs, Folklore, and Parallel Worlds, Jacques Vallée (1993)  
-   Link: [https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf](https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf)  
+   Link: <a href="https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt](https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt</a>  
 
 21. <a id="endnote-21"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 23. <a id="endnote-23"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_sub_a.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_sub_a.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_sub_a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_sub_a.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: energy.gov  
-   Link: [https://www.energy.gov/lm/manhattan-project-historical-resources](https://www.energy.gov/lm/manhattan-project-historical-resources)  
+   Link: <a href="https://www.energy.gov/lm/manhattan-project-historical-resources" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/lm/manhattan-project-historical-resources</a>  
 
 25. <a id="endnote-25"></a>
    Source: library.illinois.edu  
    Title: idnc flying saucer craze  
-   Link: [https://www.library.illinois.edu/hpnl/blog/idnc-flying-saucer-craze/](https://www.library.illinois.edu/hpnl/blog/idnc-flying-saucer-craze/)  
+   Link: <a href="https://www.library.illinois.edu/hpnl/blog/idnc-flying-saucer-craze/" target="_blank" rel="noopener noreferrer nofollow">https://www.library.illinois.edu/hpnl/blog/idnc-flying-saucer-craze/</a>  
 
 26. <a id="endnote-26"></a>
    Source: nps.gov  
    Title: National Park Service Oak Ridge, TN  
-   Link: [https://www.nps.gov/mapr/oak-ridge.htm](https://www.nps.gov/mapr/oak-ridge.htm)  
+   Link: <a href="https://www.nps.gov/mapr/oak-ridge.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/mapr/oak-ridge.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Park ServiceOak Ridge, TN - Manhattan Project National Historical Park (U.S. National Park Service)...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 28. <a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Manhattan Project  
-   Link: [https://en.wikipedia.org/wiki/Manhattan_Project](https://en.wikipedia.org/wiki/Manhattan_Project)  
+   Link: <a href="https://en.wikipedia.org/wiki/Manhattan_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Manhattan_Project</a>  
 
 29. <a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Project Grudge  
-   Link: [https://en.wikipedia.org/wiki/Project_Grudge](https://en.wikipedia.org/wiki/Project_Grudge)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Grudge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Grudge</a>  
 
 30. <a id="endnote-30"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 31. <a id="endnote-31"></a>
    Source: y12.doe.gov  
-   Link: [https://www.y12.doe.gov/about/history](https://www.y12.doe.gov/about/history)  
+   Link: <a href="https://www.y12.doe.gov/about/history" target="_blank" rel="noopener noreferrer nofollow">https://www.y12.doe.gov/about/history</a>  
 
 ### Additional References
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: A Rare Look at the Secret Site of the Atomic Bomb  
-   Link: [http://www.youtube.com/watch?v=b7wrSI3ORUE](http://www.youtube.com/watch?v=b7wrSI3ORUE)  
+   Link: <a href="http://www.youtube.com/watch?v=b7wrSI3ORUE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=b7wrSI3ORUE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oak Ridge nuclear facility UFO history UFO Sightings at Nuclear Bases (Full Episode) | UFOs: Investigating the Unknown National Geographic...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: UFO Sightings at Nuclear Bases (Full Episode) | UFOs: Investigating the Unknown  
-   Link: [http://www.youtube.com/watch?v=54_bxf7n3Oo](http://www.youtube.com/watch?v=54_bxf7n3Oo)  
+   Link: <a href="http://www.youtube.com/watch?v=54_bxf7n3Oo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=54_bxf7n3Oo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Keep Appearing at Nuclear Sites — But Why? | Encounter: UFO S1...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: UFOs Keep Appearing at Nuclear Sites — But Why? | Encounter: UFO S1  
-   Link: [http://www.youtube.com/watch?v=OWXanogAu0o](http://www.youtube.com/watch?v=OWXanogAu0o)  
+   Link: <a href="http://www.youtube.com/watch?v=OWXanogAu0o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=OWXanogAu0o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Military Can&#x27;t Explain These UFOs at US &amp; Russian Nuclear Weapons Sites...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: Military Can't Explain These UFOs at US & Russian Nuclear Weapons Sites  
-   Link: [http://www.youtube.com/watch?v=syGME_XtHkg](http://www.youtube.com/watch?v=syGME_XtHkg)  
+   Link: <a href="http://www.youtube.com/watch?v=syGME_XtHkg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=syGME_XtHkg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Rare Look at the Secret Site of the Atomic Bomb...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 37. <a id="endnote-37"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 38. <a id="endnote-38"></a>
    Source: osti.gov  
-   Link: [https://www.osti.gov/opennet/manhattan-project-history/publications/ORNLClassifiedActivities.pdf](https://www.osti.gov/opennet/manhattan-project-history/publications/ORNLClassifiedActivities.pdf)  
+   Link: <a href="https://www.osti.gov/opennet/manhattan-project-history/publications/ORNLClassifiedActivities.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/opennet/manhattan-project-history/publications/ORNLClassifiedActivities.pdf</a>  
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
    Title: Rumors about Oak Ridge Nuclear Facility  
-   Link: [http://www.youtube.com/watch?v=TqSOMz4jc3I](http://www.youtube.com/watch?v=TqSOMz4jc3I)  
+   Link: <a href="http://www.youtube.com/watch?v=TqSOMz4jc3I" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TqSOMz4jc3I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings at Nuclear Bases (Full Episode) | UFOs: Investigating the Unknown...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/1036625728/Source-of-great-concern-Newly-released-Pentagon-documents-outline-decades-old-Oak-Ridge-UFO-sightings](https://www.scribd.com/document/1036625728/Source-of-great-concern-Newly-released-Pentagon-documents-outline-decades-old-Oak-Ridge-UFO-sightings)  
+   Link: <a href="https://www.scribd.com/document/1036625728/Source-of-great-concern-Newly-released-Pentagon-documents-outline-decades-old-Oak-Ridge-UFO-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/1036625728/Source-of-great-concern-Newly-released-Pentagon-documents-outline-decades-old-Oak-Ridge-UFO-sightings</a>  
 
 41. <a id="endnote-41"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/](https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/</a>

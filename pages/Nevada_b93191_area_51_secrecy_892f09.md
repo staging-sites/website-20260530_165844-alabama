@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-nevada-became-ufo-country/
 nav_short_title: Area 51
 title: What Area 51 Really Adds To UFO History
-title_full: What Area 51 Really Adds To UFO History | Nevada UFOs
+title_full: What Area 51 Really Adds To UFO History
 display_title_short: Area 51
 display_title: Area 51
 heading_title: What Area 51 Really Adds To UFO History
@@ -264,7 +264,6 @@ image: /assets/images/Nevada_b93191_area_51_secrecy_892f09-overview-social.jpg
 
 Area 51 adds something unusually concrete to [Nevada]({{ 'why-nevada-became-ufo-country/' | relative_url }})’s UFO history: it shows how real secrecy can generate lasting legend without proving the most dramatic claims attached to it. Groom Lake was not just a rumour. It was a remote Nevada test site used for classified aircraft such as the U-2, A-12/OXCART and later stealth-related work, and some of those projects did produce sightings that ordinary observers could not properly identify at the time. That matters because the public learned two lessons at once: many “UFOs” near Nevada had earthly explanations, but official denials and evasions were sometimes protecting genuinely hidden aviation programmes. The result was a powerful feedback loop in which aircraft testing, restricted land, partial disclosure, witness stories and media attention turned Area 51 into the state’s most famous UFO symbol. The evidence supports the aviation history strongly; it does not publicly substantiate claims of alien craft, bodies or reverse-engineering programmes.
 
-
 <img src="{{ "/assets/images/Nevada_b93191_area_51_secrecy_892f09-overview.webp" | relative_url }}" alt="Overview image for Area 51" loading="eager" decoding="sync" fetchpriority="high">
 ## Groom Lake’s documented aviation role
 
@@ -276,8 +275,7 @@ That origin explains why Area 51 became more than a normal airfield. It was chos
 
 For Nevada’s UFO history, this changes the question. Area 51 is not best understood as a place where every strange light must be exotic. It is better understood as a place where advanced human technology was sometimes mistaken for something non-human, and where the government’s need to protect that technology made honest public correction difficult. That combination gave Nevada a distinctive UFO profile: sightings near secret ranges could be weak as evidence of alien visitation while still being rooted in something the government was genuinely hiding.
 
-
-<img src="{{ "/assets/images/Nevada_b93191_area_51_secrecy_892f09-Illustration-1-light.svg" | relative_url }}" alt="Area 51 illustration 1" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_area_51_secrecy_892f09-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_area_51_secrecy_892f09-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nevada_b93191_area_51_secrecy_892f09-Illustration-1-dark.svg" | relative_url }}" alt="Area 51 illustration 1" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_area_51_secrecy_892f09-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_area_51_secrecy_892f09-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why secrecy fed stronger rumours
 
 Secrecy did not merely hide Area 51; it helped create its mythology. The U-2 was a striking example. In the mid-1950s, commercial airliners and many military aircraft generally flew much lower than the U-2, which could operate above 60,000 feet. A silver aircraft at those altitudes, catching sunlight near dawn or dusk, could look strange to pilots and observers below. A CIA history of the agency’s UFO role says Air Force Project Blue Book investigators could often attribute reports to U-2 flights, but could not reveal the true cause publicly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -287,7 +285,6 @@ This is the key mechanism behind Area 51’s UFO power. A witness might honestly
 The CIA-linked account is unusually blunt about the long-term cost: misleading public statements made to protect a sensitive national security project added fuel to later cover-up theories. It also reports later estimates by officials associated with U-2 and OXCART that manned reconnaissance flights accounted for more than half of UFO reports from the late 1950s through the 1960s, though that broad percentage has been challenged by some UFO researchers and sceptics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That dispute matters. The declassified record strongly supports the narrower point that [secret aircraft]({{ 'secret-aircraft/' | relative_url }}) caused some UFO reports and shaped official handling. It is weaker as proof that every or most famous UFO case can be folded into U-2 or A-12 activity. A careful reading does not turn Area 51 into a universal debunking machine. It shows instead how one category of genuine secrecy contaminated public trust around many unrelated sightings.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a1VexbCgbso" title="Annie Jacobsen on Book, Area 51: An Uncensored History of America&#x27;s Top Secret Military Base. 1 of 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a1VexbCgbso" target="_blank" rel="noopener noreferrer">Annie Jacobsen on Book, Area 51: An Uncensored History of America&#x27;s Top Secret Military Base. 1 of 3</a></p><p class="youtube-embed-meta">Channel: Democracy Now! &middot; Views: 38.9K &middot; Uploaded: June 2011 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a1VexbCgbso" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a1VexbCgbso">Open on YouTube</a></p></div></div></div>
 
@@ -299,8 +296,7 @@ The 1995 presidential determination concerning Groom Lake added another public l
 
 This is a recurring pattern in Area 51 history. Documents that support a national-security explanation can still intensify UFO belief because they confirm that secrecy existed. The more precise interpretation is less dramatic but more useful: Groom Lake secrecy is proven; extraterrestrial explanations are not. The legend outruns the evidence when it treats every classified exemption, warning sign or redaction as proof of non-human technology.
 
-
-<img src="{{ "/assets/images/Nevada_b93191_area_51_secrecy_892f09-Illustration-2-light.svg" | relative_url }}" alt="Area 51 illustration 2" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_area_51_secrecy_892f09-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_area_51_secrecy_892f09-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nevada_b93191_area_51_secrecy_892f09-Illustration-2-dark.svg" | relative_url }}" alt="Area 51 illustration 2" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_area_51_secrecy_892f09-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_area_51_secrecy_892f09-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Bob Lazar fits in the Area 51 story
 
 No single modern claim did more to attach alien reverse-engineering to Area 51 than Bob Lazar’s 1989 story, first brought to wide public attention through [Las Vegas]({{ 'las-vegas/' | relative_url }}) television reporting by George Knapp. Lazar claimed he had worked at a site called S-4 near Area 51 and had seen or worked around alien craft. The story had exactly the ingredients that made Nevada compelling: a named desert location, a supposed insider, exotic technology, secrecy, and a local media platform close to the military ranges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nevadacurrent.com/2021/06/01/ufos-the-pentagon-and-the-enigma-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nevadacurrent.com">[nevadacurrent.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nevadacurrent.com</span><span class="citation-popover-title">ufos the pentagon and the enigma of bob lazar</span><span class="citation-popover-snippet">ufos the pentagon and the enigma of bob lazar</span></span></span>
@@ -308,7 +304,6 @@ No single modern claim did more to attach alien reverse-engineering to Area 51 t
 The problem is that the public evidence has never caught up with the claim. Lazar’s account remains influential in UFO culture, but it is not supported by the kind of documentation, physical evidence or independently verified employment trail that would be needed to establish a reverse-engineering programme. Its importance for a Nevada UFO page is therefore historical and cultural rather than evidential: it helped turn Area 51 from a secret aircraft base into the popular shorthand for hidden alien technology.
 
 A balanced assessment should not flatten the story into ridicule. Lazar’s claims resonated because the setting was credible as a secret test environment. Groom Lake really did host classified aerospace work, and outsiders really were denied access. But a plausible setting is not proof of a specific allegation. Area 51’s documented record makes secret aircraft testing credible; it does not make every witness story about alien craft credible.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HRphxu3Ru9M" title="Obama Says Aliens Are Real - What Really Happens At Area 51 | Prof Peter Knight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HRphxu3Ru9M" target="_blank" rel="noopener noreferrer">Obama Says Aliens Are Real - What Really Happens At Area 51 | Prof Peter Knight</a></p><p class="youtube-embed-meta">Channel: Times News &middot; Views: 20.8K &middot; Uploaded: February 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HRphxu3Ru9M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HRphxu3Ru9M">Open on YouTube</a></p></div></div></div>
 
@@ -324,16 +319,14 @@ The same report shows why many such stories remain difficult for readers to eval
 
 That does not mean every Nevada sighting is explained. It means the strongest available public evidence separates three things that are often blended together: real secrecy, real misidentification, and unproven alien claims. Area 51 is strongest in the first two categories.
 
-
-<img src="{{ "/assets/images/Nevada_b93191_area_51_secrecy_892f09-Illustration-3-light.svg" | relative_url }}" alt="Area 51 illustration 3" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_area_51_secrecy_892f09-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_area_51_secrecy_892f09-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nevada_b93191_area_51_secrecy_892f09-Illustration-3-dark.svg" | relative_url }}" alt="Area 51 illustration 3" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_area_51_secrecy_892f09-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_area_51_secrecy_892f09-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Area 51 changed about Nevada UFO culture
 
 Area 51 made Nevada the place where UFO belief and military aviation became hardest to separate. In other states, a UFO case might centre on a single sighting, a police report, a radar incident or a local flap. In Nevada, especially around Groom Lake, the environment itself became part of the evidence debate: restricted roads, warning signs, aircraft noise, distant lights, contractor lore, Las Vegas media, desert tourism and the knowledge that secret programmes had once been denied or hidden.
 
-The 2019 “Storm Area 51” episode showed how far the legend had travelled from its Cold War roots. Reuters reported that more than 3,000 out-of-town visitors went to the rural Nevada region around Area 51 after a viral joke urged people to “storm” the base “to see them aliens”; the feared mass raid did not happen, and only five arrests were reported. The event was silly in tone, but it showed that Area 51 had become a public symbol powerful enough to mobilise tourism, law enforcement planning and global media attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/area-51-raid-lures-festive-ufo-hunters-to-nevada-desert-five-arrested-idUSKBN1W51PN/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Area 51 raid lures festive UFO hunters to Nevada desert; five arrested | Reuters</span><span class="citation-popover-snippet">Area 51 raid lures festive UFO hunters to Nevada desert; five arrested | Reuters</span></span></span>
+The 2019 “Storm Area 51” episode showed how far the legend had travelled from its Cold War roots. Reuters reported that more than 3,000 out-of-town visitors went to the rural Nevada region around Area 51 after a viral joke urged people to “storm” the base “to see them aliens”; the feared mass raid did not happen, and only five arrests were reported. The event was silly in tone, but it showed that Area 51 had become a public symbol powerful enough to mobilise tourism, law enforcement planning and global media attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/area-51-raid-lures-festive-ufo-hunters-to-nevada-desert-five-arrested-idUSKBN1W51PN/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Area 51 raid lures festive UFO hunters to Nevada desert; five arrested &#124; Reuters</span><span class="citation-popover-snippet">Area 51 raid lures festive UFO hunters to Nevada desert; five arrested &#124; Reuters</span></span></span>
 
 For UFO history, that episode is not evidence of extraterrestrials. It is evidence of cultural endurance. Area 51 had become a mythic place where people could act out the tension between public curiosity and state secrecy. The fact that most participants were joking does not make the legend irrelevant; it shows how Area 51 now functions as both a serious national-security site and a shared pop-cultural language for hidden knowledge.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RLary48c81Q" title="Area 51: The Original Mystery | Mystery Wire" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RLary48c81Q" target="_blank" rel="noopener noreferrer">Area 51: The Original Mystery | Mystery Wire</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 72.0K &middot; Uploaded: May 2026 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RLary48c81Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RLary48c81Q">Open on YouTube</a></p></div></div></div>
 
@@ -414,7 +407,7 @@ Area 51’s legacy is that it turned the Nevada desert into a living argument ab
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -424,111 +417,36 @@ Area 51’s legacy is that it turned the Nevada desert into a living argument ab
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/~C4AAOSwhchnoVIr/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -536,15 +454,15 @@ Area 51’s legacy is that it turned the Nevada desert into a living argument ab
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -552,15 +470,15 @@ Area 51’s legacy is that it turned the Nevada desert into a living argument ab
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -568,15 +486,15 @@ Area 51’s legacy is that it turned the Nevada desert into a living argument ab
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -584,7 +502,7 @@ Area 51’s legacy is that it turned the Nevada desert into a living argument ab
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=area-51-what-area-51-really-adds-to-ufo-history-nevada-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="what-area-51-really-adds-to-ufo-history-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -661,17 +579,31 @@ Area 51’s legacy is that it turned the Nevada desert into a living argument ab
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -684,42 +616,73 @@ Area 51’s legacy is that it turned the Nevada desert into a living argument ab
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -734,12 +697,17 @@ Area 51’s legacy is that it turned the Nevada desert into a living argument ab
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -750,176 +718,176 @@ Area 51’s legacy is that it turned the Nevada desert into a living argument ab
 1. <a id="endnote-1"></a>
    Source: cia.gov  
    Title: Area 51 and the Accidental Test Flight  
-   Link: [https://www.cia.gov/stories/story/area-51-and-the-accidental-test-flight/](https://www.cia.gov/stories/story/area-51-and-the-accidental-test-flight/)  
+   Link: <a href="https://www.cia.gov/stories/story/area-51-and-the-accidental-test-flight/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/area-51-and-the-accidental-test-flight/</a>  
 
 2. <a id="endnote-2"></a>
    Source: nsarchive.gwu.edu  
-   Link: [https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs](https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs)  
+   Link: <a href="https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs</a>  
 
 3. <a id="endnote-3"></a>
    Source: sgp.fas.org  
-   Link: [https://sgp.fas.org/library/ciaufo.html](https://sgp.fas.org/library/ciaufo.html)  
+   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
 
 4. <a id="endnote-4"></a>
    Source: nsarchive2.gwu.edu  
    Title: The Secret History of the U-2  
-   Link: [https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/)  
+   Link: <a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/</a>  
 
 5. <a id="endnote-5"></a>
    Source: nevadacurrent.com  
    Title: ufos the pentagon and the enigma of bob lazar  
-   Link: [https://nevadacurrent.com/2021/06/01/ufos-the-pentagon-and-the-enigma-of-bob-lazar/](https://nevadacurrent.com/2021/06/01/ufos-the-pentagon-and-the-enigma-of-bob-lazar/)  
+   Link: <a href="https://nevadacurrent.com/2021/06/01/ufos-the-pentagon-and-the-enigma-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2021/06/01/ufos-the-pentagon-and-the-enigma-of-bob-lazar/</a>  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 9. <a id="endnote-9"></a>
    Source: reuters.com  
    Title: Area 51 raid lures festive UFO hunters to Nevada desert; five arrested | Reuters  
-   Link: [https://www.reuters.com/article/world/area-51-raid-lures-festive-ufo-hunters-to-nevada-desert-five-arrested-idUSKBN1W51PN/](https://www.reuters.com/article/world/area-51-raid-lures-festive-ufo-hunters-to-nevada-desert-five-arrested-idUSKBN1W51PN/)  
+   Link: <a href="https://www.reuters.com/article/world/area-51-raid-lures-festive-ufo-hunters-to-nevada-desert-five-arrested-idUSKBN1W51PN/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/area-51-raid-lures-festive-ufo-hunters-to-nevada-desert-five-arrested-idUSKBN1W51PN/</a>  
 
 10. <a id="endnote-10"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf](https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: cia.gov  
    Title: ask molly what really went on at area 51  
-   Link: [https://www.cia.gov/stories/story/ask-molly-what-really-went-on-at-area-51/](https://www.cia.gov/stories/story/ask-molly-what-really-went-on-at-area-51/)  
+   Link: <a href="https://www.cia.gov/stories/story/ask-molly-what-really-went-on-at-area-51/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/ask-molly-what-really-went-on-at-area-51/</a>  
 
 12. <a id="endnote-12"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP80B01676R004000110001-7.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: reuters.com  
    Title: tiny nevada town near secretive area 51 braces for alien hunters id USKCN1VB1R8  
-   Link: [https://www.reuters.com/article/world/tiny-nevada-town-near-secretive-area-51-braces-for-alien-hunters-idUSKCN1VB1R8/](https://www.reuters.com/article/world/tiny-nevada-town-near-secretive-area-51-braces-for-alien-hunters-idUSKCN1VB1R8/)  
+   Link: <a href="https://www.reuters.com/article/world/tiny-nevada-town-near-secretive-area-51-braces-for-alien-hunters-idUSKCN1VB1R8/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/tiny-nevada-town-near-secretive-area-51-braces-for-alien-hunters-idUSKCN1VB1R8/</a>  
 
 14. <a id="endnote-14"></a>
    Source: reuters.com  
    Title: alien enthusiasts descend on nevada desert near secretive us base idUSKBN1W5055  
-   Link: [https://www.reuters.com/article/world/alien-enthusiasts-descend-on-nevada-desert-near-secretive-us-base-idUSKBN1W5055/](https://www.reuters.com/article/world/alien-enthusiasts-descend-on-nevada-desert-near-secretive-us-base-idUSKBN1W5055/)  
+   Link: <a href="https://www.reuters.com/article/world/alien-enthusiasts-descend-on-nevada-desert-near-secretive-us-base-idUSKBN1W5055/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/alien-enthusiasts-descend-on-nevada-desert-near-secretive-us-base-idUSKBN1W5055/</a>  
 
 15. <a id="endnote-15"></a>
    Source: nsarchive.gwu.edu  
    Title: cia u 2 collection signals intelligence 1956  
-   Link: [https://nsarchive.gwu.edu/briefing-book/intelligence-nuclear-vault/2022-03-08/cia-u-2-collection-signals-intelligence-1956](https://nsarchive.gwu.edu/briefing-book/intelligence-nuclear-vault/2022-03-08/cia-u-2-collection-signals-intelligence-1956)  
+   Link: <a href="https://nsarchive.gwu.edu/briefing-book/intelligence-nuclear-vault/2022-03-08/cia-u-2-collection-signals-intelligence-1956" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/briefing-book/intelligence-nuclear-vault/2022-03-08/cia-u-2-collection-signals-intelligence-1956</a>  
 
 16. <a id="endnote-16"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf](https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf)  
+   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 18. <a id="endnote-18"></a>
    Source: military.com  
    Title: area 51  
-   Link: [https://www.military.com/base-guide/area-51](https://www.military.com/base-guide/area-51)  
+   Link: <a href="https://www.military.com/base-guide/area-51" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/base-guide/area-51</a>  
 
 19. <a id="endnote-19"></a>
    Source: history.com  
    Title: area 51 top secret [spy planes](&#123;&#123; 'spy-planes/' | relative_url &#125;&#125;) u2 blackbird  
-   Link: [https://www.history.com/articles/area-51-top-secret-spy-planes-u2-blackbird](https://www.history.com/articles/area-51-top-secret-spy-planes-u2-blackbird)  
+   Link: <a href="https://www.history.com/articles/area-51-top-secret-spy-planes-u2-blackbird" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/area-51-top-secret-spy-planes-u2-blackbird</a>  
 
 20. <a id="endnote-20"></a>
    Source: time.com  
    Title: area 51 arrest raid  
-   Link: [https://time.com/5682254/area-51-arrest-raid/](https://time.com/5682254/area-51-arrest-raid/)  
+   Link: <a href="https://time.com/5682254/area-51-arrest-raid/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5682254/area-51-arrest-raid/</a>  
 
 21. <a id="endnote-21"></a>
    Source: presidency.ucsb.edu  
-   Link: [https://www.presidency.ucsb.edu/documents/presidential-determination-classified-information-concerning-the-air-forces-operating-3](https://www.presidency.ucsb.edu/documents/presidential-determination-classified-information-concerning-the-air-forces-operating-3)  
+   Link: <a href="https://www.presidency.ucsb.edu/documents/presidential-determination-classified-information-concerning-the-air-forces-operating-3" target="_blank" rel="noopener noreferrer nofollow">https://www.presidency.ucsb.edu/documents/presidential-determination-classified-information-concerning-the-air-forces-operating-3</a>  
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Area 51  
-   Link: [https://en.wikipedia.org/wiki/Area_51](https://en.wikipedia.org/wiki/Area_51)  
+   Link: <a href="https://en.wikipedia.org/wiki/Area_51" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Area_51</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Bob Lazar  
-   Link: [https://en.wikipedia.org/wiki/Bob_Lazar](https://en.wikipedia.org/wiki/Bob_Lazar)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Storm Area 51  
-   Link: [https://en.wikipedia.org/wiki/Storm_Area_51](https://en.wikipedia.org/wiki/Storm_Area_51)  
+   Link: <a href="https://en.wikipedia.org/wiki/Storm_Area_51" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Storm_Area_51</a>  
 
 26. <a id="endnote-26"></a>
    Source: area51.fandom.com  
    Title: Area 51  
-   Link: [https://area51.fandom.com/wiki/Area_51](https://area51.fandom.com/wiki/Area_51)  
+   Link: <a href="https://area51.fandom.com/wiki/Area_51" target="_blank" rel="noopener noreferrer nofollow">https://area51.fandom.com/wiki/Area_51</a>  
 
 27. <a id="endnote-27"></a>
    Source: britannica.com  
    Title: Area 51  
-   Link: [https://www.britannica.com/place/Area-51](https://www.britannica.com/place/Area-51)  
+   Link: <a href="https://www.britannica.com/place/Area-51" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Area-51</a>  
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Obama Says Aliens Are Real  
-   Link: [https://www.youtube.com/watch?v=HRphxu3Ru9M](https://www.youtube.com/watch?v=HRphxu3Ru9M)  
+   Link: <a href="https://www.youtube.com/watch?v=HRphxu3Ru9M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HRphxu3Ru9M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How America Built an UNTOUCHABLE Machine Unlike Anything Else - Lockheed Blackbird -Full Story Part1...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=a1VexbCgbso](https://www.youtube.com/watch?v=a1VexbCgbso)  
+   Link: <a href="https://www.youtube.com/watch?v=a1VexbCgbso" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a1VexbCgbso</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s Really Hidden in the Nevada Desert? | Relaxing History Documentary...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: What's Really Hidden in the Nevada Desert? | Relaxing History Documentary  
-   Link: [https://www.youtube.com/watch?v=OG_uRrxpYHU](https://www.youtube.com/watch?v=OG_uRrxpYHU)  
+   Link: <a href="https://www.youtube.com/watch?v=OG_uRrxpYHU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OG_uRrxpYHU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Obama Says Aliens Are Real - What Really Happens At Area 51 | Prof Peter Knight...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_5.1.html](https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_5.1.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_5.1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aip_html/part2_enr_section_5.1.html</a>  
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: Area 51: The Original Mystery  
-   Link: [https://www.youtube.com/watch?v=RLary48c81Q](https://www.youtube.com/watch?v=RLary48c81Q)  
+   Link: <a href="https://www.youtube.com/watch?v=RLary48c81Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RLary48c81Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Annie Jacobsen on Book, Area 51: An Uncensored History of America&#x27;s Top Secret Military Base. 1 of 3...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DGMoW_9pc9Y/?hl=en](https://www.instagram.com/reel/DGMoW_9pc9Y/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DGMoW_9pc9Y/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DGMoW_9pc9Y/?hl=en</a>  
 
 34. <a id="endnote-34"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/video/Area-51-military-air-force-base-alien-video/-242011](https://www.britannica.com/video/Area-51-military-air-force-base-alien-video/-242011)  
+   Link: <a href="https://www.britannica.com/video/Area-51-military-air-force-base-alien-video/-242011" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/video/Area-51-military-air-force-base-alien-video/-242011</a>  
 
 35. <a id="endnote-35"></a>
    Source: alpventures.com  
-   Link: [https://www.alpventures.com/topsecret/TS_area51_tour_EXHIBIT.html](https://www.alpventures.com/topsecret/TS_area51_tour_EXHIBIT.html)  
+   Link: <a href="https://www.alpventures.com/topsecret/TS_area51_tour_EXHIBIT.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alpventures.com/topsecret/TS_area51_tour_EXHIBIT.html</a>  
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/LarryKing/posts/ever-wonder-what-happened-to-ufo-enthusiast-bob-lazar-well-talk-to-him-along-wit/10157219274254665/](https://www.facebook.com/LarryKing/posts/ever-wonder-what-happened-to-ufo-enthusiast-bob-lazar-well-talk-to-him-along-wit/10157219274254665/)  
+   Link: <a href="https://www.facebook.com/LarryKing/posts/ever-wonder-what-happened-to-ufo-enthusiast-bob-lazar-well-talk-to-him-along-wit/10157219274254665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LarryKing/posts/ever-wonder-what-happened-to-ufo-enthusiast-bob-lazar-well-talk-to-him-along-wit/10157219274254665/</a>  
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/348704483442978/posts/734615708185185/](https://www.facebook.com/groups/348704483442978/posts/734615708185185/)  
+   Link: <a href="https://www.facebook.com/groups/348704483442978/posts/734615708185185/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/348704483442978/posts/734615708185185/</a>

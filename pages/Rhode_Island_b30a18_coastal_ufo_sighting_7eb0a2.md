@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-rhode-islands-ufo-reports-really/
 nav_short_title: Coastal Lights
 title: Why Rhode Island's Coast Makes UFOs Harder
-title_full: Why Rhode Island's Coast Makes UFOs Harder | Rhode Island UFOs
+title_full: Why Rhode Island's Coast Makes UFOs Harder
 display_title_short: Coastal Lights
 display_title: Coastal Lights
 heading_title: Why Rhode Island's Coast Makes UFOs Harder
@@ -268,8 +268,7 @@ image: /assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2-overview-s
 
 ## Introduction
 
-[Rhode Island]({{ 'what-rhode-islands-ufo-reports-really/' | relative_url }})’s coast makes UFO reports both more common and harder to judge. A witness on a beach, ferry route, headland or harbour road may be looking across water towards aircraft, fishing vessels, ferries, buoys, lighthouses, offshore structures, military or research traffic, and lights on distant towns. At night, those objects can lose scale and context. A light that is actually miles away can seem low, near or hovering; a vessel or aircraft travelling towards the viewer can seem stationary; and several unrelated lights can appear to form one object. The result is not that Rhode Island coastal UFO reports should be dismissed. It is that their strongest clue is often also their weakest point: the witness’s estimate of distance, height, size and speed. NUFORC’s Rhode Island index includes coastal or bay-linked reports from places such as Block Island, Newport, Portsmouth, Weekapaug, Narragansett, Jamestown and Westerly, but many entries remain brief witness accounts rather than fully testable cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lRI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State RI</span><span class="citation-popover-snippet">Reports for State RI</span></span></span>
-
+Rhode Island’s coast makes UFO reports both more common and harder to judge. A witness on a beach, ferry route, headland or harbour road may be looking across water towards aircraft, fishing vessels, ferries, buoys, lighthouses, offshore structures, military or research traffic, and lights on distant towns. At night, those objects can lose scale and context. A light that is actually miles away can seem low, near or hovering; a vessel or aircraft travelling towards the viewer can seem stationary; and several unrelated lights can appear to form one object. The result is not that Rhode Island coastal UFO reports should be dismissed. It is that their strongest clue is often also their weakest point: the witness’s estimate of distance, height, size and speed. NUFORC’s Rhode Island index includes coastal or bay-linked reports from places such as Block Island, Newport, Portsmouth, Weekapaug, Narragansett, Jamestown and Westerly, but many entries remain brief witness accounts rather than fully testable cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lRI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State RI</span><span class="citation-popover-snippet">Reports for State RI</span></span></span>
 
 <img src="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2-overview.webp" | relative_url }}" alt="Overview image for Coastal Lights" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the shoreline creates sincere but fragile sightings
@@ -279,7 +278,6 @@ A coastal UFO report often begins with a real perception problem rather than a s
 Rhode Island’s geography intensifies this. Narragansett Bay is not an empty backdrop. NOAA’s Coast Pilot describes the bay as the approach to Newport, Providence, Fall River and Taunton, with marked channels, islands, passages, lighthouses, buoys, traffic separation arrangements and numerous fishing and yachting centres. It also notes that navigation can be easy by day or night in clear weather because the bay is “well marked by navigational aids”. Those aids are useful to mariners, but to a shore observer they also add patterned lights to a dark horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp2/CPB2_C06_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nauticalcharts.noaa.gov">[nauticalcharts.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nauticalcharts.noaa.gov</span><span class="citation-popover-title">CPB2 C06 WEB</span><span class="citation-popover-snippet">CPB2 C06 WEB</span></span></span>
 
 The offshore waters south of Rhode Island add another layer. The Ocean Special Area Management Plan describes the wider Rhode Island offshore area as a crossroads between Narragansett Bay, Long Island Sound, Buzzards Bay and Vineyard Sound, used by cargo ships, tankers, tug and barge units, passenger ferries, naval vessels, research craft, enforcement vessels, search-and-rescue vessels and pilot boats. That is exactly the sort of mixed traffic environment in which an unusual light can be both genuinely puzzling and entirely ordinary once plotted against vessel tracks or aviation activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://seagrant.gso.uri.edu/oceansamp/pdf/samp_approved/700_marinetrans_OCRMchanges_5.4_Clean.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seagrant.gso.uri.edu">[Rhode Island Sea Grant]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seagrant.gso.uri.edu</span><span class="citation-popover-title">Rhode Island Sea Grant Microsoft Word</span><span class="citation-popover-snippet">Rhode Island Sea Grant Microsoft Word</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DI9j6ISwLUE" title="Eystein Eye’s Optical Illusions - The Sense of Sight Song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DI9j6ISwLUE" target="_blank" rel="noopener noreferrer">Eystein Eye’s Optical Illusions - The Sense of Sight Song</a></p><p class="youtube-embed-meta">Channel: Morten Flate Paulsen: Online Education &amp; Music &middot; Views: 3 &middot; Uploaded: May 2026 &middot; Length: 4 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DI9j6ISwLUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DI9j6ISwLUE">Open on YouTube</a></p></div></div></div>
 
@@ -293,8 +291,7 @@ A different kind of coastal uncertainty appears in a NUFORC report from the ocea
 
 Newport reports add another complication: the bay’s military and aviation context. A 2021 NUFORC Newport entry described a large, low, hovering disk-like object with blue-white lights and an apparent position near local landmarks, including the hospital and Newport naval area. The witness’s account is strongly worded and clearly sincere, but it also depends on estimates made from a moving car at night: low altitude, size, hovering, outline and relative position. Those are precisely the details most vulnerable to perspective error when lights are seen against a dark sky with few fixed references. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=122416" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-
-<img src="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2-Illustration-1-light.svg" | relative_url }}" alt="Coastal Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2-Illustration-1-dark.svg" | relative_url }}" alt="Coastal Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why distance and darkness distort coastal sightings
 
 The central mechanism behind many coastal UFO reports is simple: at night, brightness is not distance. A small bright light close by and a powerful light miles away can look deceptively similar. If the light is isolated over water, the brain may infer motion, size and speed from incomplete clues.
@@ -304,7 +301,6 @@ Aviation safety sources describe the same problem in practical terms. The Federa
 Rhode Island’s coast supplies the perfect setting for that illusion. A person standing at Narragansett, Point Judith, Newport, Jamestown, Watch Hill or Block Island may see a lone light against sea and sky. If it brightens, dims, changes angle, passes behind haze, or is joined by other lights, the witness may reasonably experience it as approaching, retreating, hovering or accelerating. That is not foolishness. It is normal perception under poor conditions.
 
 Several recurring misreadings are especially relevant:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -318,7 +314,6 @@ Several recurring misreadings are especially relevant:
 
 The point is not that every coastal report has a mundane answer. It is that many reports cannot be fairly judged unless the distance claim is independently checked. A UFO report that says “it was 100 yards wide” is much stronger if that size comes from triangulation or a known nearby reference, and much weaker if it comes from estimating the size of a light first assumed to be miles away.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ypfbhfEXnBo" title="The SHOCKING Math Error Behind Viral UFO Videos | Mick West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ypfbhfEXnBo" target="_blank" rel="noopener noreferrer">The SHOCKING Math Error Behind Viral UFO Videos | Mick West</a></p><p class="youtube-embed-meta">Channel: The Zach Show &middot; Views: 124 &middot; Uploaded: October 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ypfbhfEXnBo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ypfbhfEXnBo">Open on YouTube</a></p></div></div></div>
 
 ## Boats, buoys, wind turbines and offshore lights
@@ -327,18 +322,16 @@ Rhode Island’s marine environment contains many lights that are meant to be no
 
 The U.S. Coast Guard’s Light List shows how structured and varied this lighting environment is. It lists seacoast lights, secondary lights, sound signals, river and [harbour lights]({{ 'harbour-lights/' | relative_url }}), lighted buoys, daybeacons and other aids to navigation. It also explains that aids to navigation are meant to be read with nautical charts, because their purpose depends on their relationship to channels, hazards and other markers. A witness without that chart context may see the same lights as irregular, hovering or oddly patterned. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.navcen.uscg.gov/sites/default/files/pdf/msi/LightList_V1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navcen.uscg.gov">[Navigation Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navcen.uscg.gov</span><span class="citation-popover-snippet">Navigation Center</span></span></span>
 
-Offshore wind has added a modern source of coastal lights. The Block Island Wind Farm, the first commercial offshore wind farm in the United States, began commercial operation in December 2016 and consists of five turbines about 3.8 miles from Block Island. It is a known, fixed source of offshore structures and lighting in Rhode Island waters, not a UFO explanation for older reports, but relevant to newer shoreline observations where witnesses see unusual lights offshore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tethys.pnnl.gov/wind-project-sites/block-island-wind-farm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tethys.pnnl.gov">[Tethys]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tethys.pnnl.gov</span><span class="citation-popover-title">Tethys Block Island Wind Farm | Tethys</span><span class="citation-popover-snippet">Tethys Block Island Wind Farm | Tethys</span></span></span>
+Offshore wind has added a modern source of coastal lights. The Block Island Wind Farm, the first commercial offshore wind farm in the United States, began commercial operation in December 2016 and consists of five turbines about 3.8 miles from Block Island. It is a known, fixed source of offshore structures and lighting in Rhode Island waters, not a UFO explanation for older reports, but relevant to newer shoreline observations where witnesses see unusual lights offshore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tethys.pnnl.gov/wind-project-sites/block-island-wind-farm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tethys.pnnl.gov">[Tethys]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tethys.pnnl.gov</span><span class="citation-popover-title">Tethys Block Island Wind Farm &#124; Tethys</span><span class="citation-popover-snippet">Tethys Block Island Wind Farm &#124; Tethys</span></span></span>
 
 The Coast Guard also notes that lights and sound signals on offshore structures are private aids to navigation and may not always appear in the main Light List unless they meet certain criteria. Offshore structures can be marked by quick flashing white, red or yellow lights, and wind farm structures follow specific lighting and marking guidance. This matters for UFO interpretation because a witness can be looking at a real, regulated, unfamiliar light source without knowing what it is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.navcen.uscg.gov/sites/default/files/pdf/msi/LightList_V1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navcen.uscg.gov">[Navigation Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navcen.uscg.gov</span><span class="citation-popover-snippet">Navigation Center</span></span></span>
 
-
-<img src="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2-Illustration-2-light.svg" | relative_url }}" alt="Coastal Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2-Illustration-2-dark.svg" | relative_url }}" alt="Coastal Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What would make a shoreline report stronger
 
 The weakest coastal UFO reports are not weak because the witness is unreliable. They are weak because the setting makes the key claims hard to test. A single light over water, seen at night from one location, can rarely establish distance, size or speed. A strong Rhode Island shoreline report would therefore need evidence that reduces ambiguity rather than simply intensifying the description.
 
 The most useful evidence would be:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -354,7 +347,6 @@ The most useful evidence would be:
 
 NASA’s independent UAP study team made a broader version of the same point: despite many accounts and images, UAP analysis is limited by a lack of high-quality observations. That applies strongly to Rhode Island coastal reports. The issue is usually not whether a witness saw something; it is whether the record contains enough information to distinguish an anomalous object from ordinary coastal traffic, optics or perception error. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AL6vBWh09SU" title="Top 5 Visual Illusions During Drone Night Operations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AL6vBWh09SU" target="_blank" rel="noopener noreferrer">Top 5 Visual Illusions During Drone Night Operations</a></p><p class="youtube-embed-meta">Channel: Do You Know Drones? &middot; Views: 976 &middot; Uploaded: January 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AL6vBWh09SU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AL6vBWh09SU">Open on YouTube</a></p></div></div></div>
 
 ## How this changes Rhode Island’s UFO history
@@ -365,8 +357,7 @@ That also helps explain why places such as Narragansett and Newport appear in UF
 
 For readers following Rhode Island’s wider UFO history, coastal cases are therefore a useful caution. They preserve sincere testimony from beaches, bays, islands and harbour roads, but they also show why “it looked close”, “it hovered”, “it was huge” and “it shot away” need careful handling. In a shoreline setting, those phrases may describe an extraordinary event, or they may describe how the human eye and brain handle a distant light with too few reference points. The fairest conclusion is neither dismissal nor belief on demand: Rhode Island’s coastal sightings are worth recording, but the best cases are the ones that turn a strange light over water into a measurable event.
 
-
-<img src="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2-Illustration-3-light.svg" | relative_url }}" alt="Coastal Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2-Illustration-3-dark.svg" | relative_url }}" alt="Coastal Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -790,153 +781,153 @@ For readers following Rhode Island’s wider UFO history, coastal cases are ther
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports for State RI  
-   Link: [https://nuforc.org/subndx/?id=lRI](https://nuforc.org/subndx/?id=lRI)  
+   Link: <a href="https://nuforc.org/subndx/?id=lRI" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lRI</a>  
 
 2. <a id="endnote-2"></a>
    Source: nauticalcharts.noaa.gov  
    Title: CPB2 C06 WEB  
-   Link: [https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp2/CPB2_C06_WEB.pdf](https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp2/CPB2_C06_WEB.pdf)  
+   Link: <a href="https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp2/CPB2_C06_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nauticalcharts.noaa.gov/publications/coast-pilot/files/cp2/CPB2_C06_WEB.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=68466](https://nuforc.org/sighting/?id=68466)  
+   Link: <a href="https://nuforc.org/sighting/?id=68466" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=68466</a>  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=50978](https://nuforc.org/sighting/?id=50978)  
+   Link: <a href="https://nuforc.org/sighting/?id=50978" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=50978</a>  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=162174](https://nuforc.org/sighting/?id=162174)  
+   Link: <a href="https://nuforc.org/sighting/?id=162174" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=162174</a>  
 
 6. <a id="endnote-6"></a>
    Source: skybrary.aero  
    Title: Autokinetic Effect | SKYbrary Aviation Safety  
-   Link: [https://skybrary.aero/articles/autokinetic-effect](https://skybrary.aero/articles/autokinetic-effect)  
+   Link: <a href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/autokinetic-effect</a>  
 
 7. <a id="endnote-7"></a>
    Source: boatus.org  
    Title: The Boat US Foundation Navigation Lights  
-   Link: [https://boatus.org/study-guide/navigation-maneuvering/navigation-lights/](https://boatus.org/study-guide/navigation-maneuvering/navigation-lights/)  
+   Link: <a href="https://boatus.org/study-guide/navigation-maneuvering/navigation-lights/" target="_blank" rel="noopener noreferrer nofollow">https://boatus.org/study-guide/navigation-maneuvering/navigation-lights/</a>  
 
 8. <a id="endnote-8"></a>
    Source: navcen.uscg.gov  
    Title: Navigation Center  
-   Link: [https://www.navcen.uscg.gov/sites/default/files/pdf/msi/LightList_V1_2024.pdf](https://www.navcen.uscg.gov/sites/default/files/pdf/msi/LightList_V1_2024.pdf)  
+   Link: <a href="https://www.navcen.uscg.gov/sites/default/files/pdf/msi/LightList_V1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navcen.uscg.gov/sites/default/files/pdf/msi/LightList_V1_2024.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=122416](https://nuforc.org/sighting/?id=122416)  
+   Link: <a href="https://nuforc.org/sighting/?id=122416" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=122416</a>  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=183087](https://nuforc.org/sighting/?id=183087)  
+   Link: <a href="https://nuforc.org/sighting/?id=183087" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=183087</a>  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=54754](https://nuforc.org/sighting/?id=54754)  
+   Link: <a href="https://nuforc.org/sighting/?id=54754" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=54754</a>  
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=120688](https://nuforc.org/sighting/?id=120688)  
+   Link: <a href="https://nuforc.org/sighting/?id=120688" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=120688</a>  
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
 
 17. <a id="endnote-17"></a>
    Source: tidesandcurrents.noaa.gov  
-   Link: [https://tidesandcurrents.noaa.gov/ports/index.html?port=nb](https://tidesandcurrents.noaa.gov/ports/index.html?port=nb)  
+   Link: <a href="https://tidesandcurrents.noaa.gov/ports/index.html?port=nb" target="_blank" rel="noopener noreferrer nofollow">https://tidesandcurrents.noaa.gov/ports/index.html?port=nb</a>  
 
 18. <a id="endnote-18"></a>
    Source: atsb.gov.au  
-   Link: [https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf](https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf)  
+   Link: <a href="https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atsb.gov.au/sites/default/files/2024-05/FAA-H-8083-3B%20Chapter%2010.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: forecast.weather.gov  
-   Link: [https://forecast.weather.gov/shmrn.php?mz=anz236](https://forecast.weather.gov/shmrn.php?mz=anz236)  
+   Link: <a href="https://forecast.weather.gov/shmrn.php?mz=anz236" target="_blank" rel="noopener noreferrer nofollow">https://forecast.weather.gov/shmrn.php?mz=anz236</a>  
 
 20. <a id="endnote-20"></a>
    Source: seagrant.gso.uri.edu  
    Title: Rhode Island Sea Grant Microsoft Word  
-   Link: [https://seagrant.gso.uri.edu/oceansamp/pdf/samp_approved/700_marinetrans_OCRMchanges_5.4_Clean.pdf](https://seagrant.gso.uri.edu/oceansamp/pdf/samp_approved/700_marinetrans_OCRMchanges_5.4_Clean.pdf)  
+   Link: <a href="https://seagrant.gso.uri.edu/oceansamp/pdf/samp_approved/700_marinetrans_OCRMchanges_5.4_Clean.pdf" target="_blank" rel="noopener noreferrer nofollow">https://seagrant.gso.uri.edu/oceansamp/pdf/samp_approved/700_marinetrans_OCRMchanges_5.4_Clean.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Spatial D  
-   Link: [https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf](https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf)  
+   Link: <a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: tethys.pnnl.gov  
    Title: Tethys Block Island Wind Farm | Tethys  
-   Link: [https://tethys.pnnl.gov/wind-project-sites/block-island-wind-farm](https://tethys.pnnl.gov/wind-project-sites/block-island-wind-farm)  
+   Link: <a href="https://tethys.pnnl.gov/wind-project-sites/block-island-wind-farm" target="_blank" rel="noopener noreferrer nofollow">https://tethys.pnnl.gov/wind-project-sites/block-island-wind-farm</a>  
 
 23. <a id="endnote-23"></a>
    Source: whatsupnewp.com  
    Title: What's Up Newp Cities with the most UFO sightings in Rhode Island  
-   Link: [https://whatsupnewp.com/2024/11/cities-with-the-most-ufo-sightings-in-rhode-island/](https://whatsupnewp.com/2024/11/cities-with-the-most-ufo-sightings-in-rhode-island/)  
+   Link: <a href="https://whatsupnewp.com/2024/11/cities-with-the-most-ufo-sightings-in-rhode-island/" target="_blank" rel="noopener noreferrer nofollow">https://whatsupnewp.com/2024/11/cities-with-the-most-ufo-sightings-in-rhode-island/</a>  
 
 24. <a id="endnote-24"></a>
    Source: sentientorbs.com  
    Title: NUFORC 68466  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-68466](https://sentientorbs.com/explore/sightings/NUFORC-68466)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-68466" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-68466</a>  
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: newshorehamri.gov  
-   Link: [https://newshorehamri.gov/426/Block-Island-Offshore-Wind-Project](https://newshorehamri.gov/426/Block-Island-Offshore-Wind-Project)  
+   Link: <a href="https://newshorehamri.gov/426/Block-Island-Offshore-Wind-Project" target="_blank" rel="noopener noreferrer nofollow">https://newshorehamri.gov/426/Block-Island-Offshore-Wind-Project</a>  
 
 27. <a id="endnote-27"></a>
    Source: boem.gov  
-   Link: [https://www.boem.gov/renewable-energy/state-activities/appendix-k-references-cited](https://www.boem.gov/renewable-energy/state-activities/appendix-k-references-cited)  
+   Link: <a href="https://www.boem.gov/renewable-energy/state-activities/appendix-k-references-cited" target="_blank" rel="noopener noreferrer nofollow">https://www.boem.gov/renewable-energy/state-activities/appendix-k-references-cited</a>  
 
 28. <a id="endnote-28"></a>
    Source: faasafety.gov  
-   Link: [https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf](https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf)  
+   Link: <a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: The SHOCKING Math Error Behind Viral UFO Videos | Mick West  
-   Link: [https://www.youtube.com/watch?v=ypfbhfEXnBo](https://www.youtube.com/watch?v=ypfbhfEXnBo)  
+   Link: <a href="https://www.youtube.com/watch?v=ypfbhfEXnBo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ypfbhfEXnBo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Geolocate and Identify a Typical Tic-Tac UFO...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: Eystein Eye's Optical Illusions  
-   Link: [https://www.youtube.com/watch?v=DI9j6ISwLUE](https://www.youtube.com/watch?v=DI9j6ISwLUE)  
+   Link: <a href="https://www.youtube.com/watch?v=DI9j6ISwLUE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DI9j6ISwLUE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert Analysis...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TimesofIndia/videos/a-privatejet-pilot-flying-over-rhodeisland-reported-a-bizarre-encounter-with-a-s/1956134165330066/](https://www.facebook.com/TimesofIndia/videos/a-privatejet-pilot-flying-over-rhodeisland-reported-a-bizarre-encounter-with-a-s/1956134165330066/)  
+   Link: <a href="https://www.facebook.com/TimesofIndia/videos/a-privatejet-pilot-flying-over-rhodeisland-reported-a-bizarre-encounter-with-a-s/1956134165330066/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/videos/a-privatejet-pilot-flying-over-rhodeisland-reported-a-bizarre-encounter-with-a-s/1956134165330066/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/toiworldnews/videos/a-privatejet-pilot-flying-over-rhodeisland-reported-a-bizarre-encounter-with-a-s/1357292832217707/](https://www.facebook.com/toiworldnews/videos/a-privatejet-pilot-flying-over-rhodeisland-reported-a-bizarre-encounter-with-a-s/1357292832217707/)  
+   Link: <a href="https://www.facebook.com/toiworldnews/videos/a-privatejet-pilot-flying-over-rhodeisland-reported-a-bizarre-encounter-with-a-s/1357292832217707/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/toiworldnews/videos/a-privatejet-pilot-flying-over-rhodeisland-reported-a-bizarre-encounter-with-a-s/1357292832217707/</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ProvidenceJournal/posts/a-ufo-was-recently-reported-near-warren-rhode-island-how-many-other-sightings-ha/1407735110930066/](https://www.facebook.com/ProvidenceJournal/posts/a-ufo-was-recently-reported-near-warren-rhode-island-how-many-other-sightings-ha/1407735110930066/)  
+   Link: <a href="https://www.facebook.com/ProvidenceJournal/posts/a-ufo-was-recently-reported-near-warren-rhode-island-how-many-other-sightings-ha/1407735110930066/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ProvidenceJournal/posts/a-ufo-was-recently-reported-near-warren-rhode-island-how-many-other-sightings-ha/1407735110930066/</a>

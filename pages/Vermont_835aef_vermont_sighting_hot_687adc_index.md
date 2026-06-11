@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /vermont-835aef-vermont-sighting-hot/
 description: Focused pages that expand on Hotspots.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Vermont_835aef_vermont_sighting_hot_687adc
-parent_title: Hotspots | What Makes Vermont's UFO Stories Endure?
+parent_title: Hotspots
 parent_nav_short_title: Hotspots
 parent_permalink: /hotspots-ed9e86/
 ---

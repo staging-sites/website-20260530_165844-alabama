@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /haynesville/
 nav_short_title: Trace Disputes
 title: Why Experts Debate the Cause of Haynesville Burned Traces
-title_full: Why Experts Debate the Cause of Haynesville Burned Traces | Haynesville
+title_full: Why Experts Debate the Cause of Haynesville Burned Traces
 display_title_short: Trace Disputes
 display_title: Trace Disputes
 heading_title: Why Experts Debate the Cause of Haynesville Burned Traces
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:32:13'
-parent_title: Why Haynesville Became Louisiana's Hardest Case | Louisiana UFOs
+parent_title: Why Haynesville Became Louisiana's Hardest Case
 parent_permalink: /haynesville/
 parent_nav_short_title: Haynesville
 parent_heading_title: Why Haynesville Became Louisiana's Hardest Case
@@ -252,8 +252,7 @@ image: /assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_tra
 
 The most disputed part of the 1966 [Haynesville]({{ 'haynesville/' | relative_url }}) UFO incident is not the sighting itself but the meaning of the alleged physical traces found afterwards. Supporters of the case point to blackened tree bark, a circular clearing and later laboratory analysis as evidence that an unusually intense energy source affected the site. Sceptics argue that the traces were discovered too late, documented too poorly and interpreted too selectively to support extraordinary conclusions. The debate matters because Haynesville is often presented as one of Louisianas strongest “physical evidence” UFO cases rather than a simple eyewitness report. Yet the same features that make it famous also expose its weaknesses: uncertain timelines, incomplete records and disagreement over whether the damage was even unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">They are often noted to impact both human health and physical devices in...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_trace_di_2e2bc6-Illustration-1-light.svg" | relative_url }}" alt="Trace Disputes illustration 1" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_trace_di_2e2bc6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_trace_di_2e2bc6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_trace_di_2e2bc6-Illustration-1-dark.svg" | relative_url }}" alt="Trace Disputes illustration 1" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_trace_di_2e2bc6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_trace_di_2e2bc6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Official scepticism and the Condon Committee view
 
 The Haynesville case emerged during the era of the University of Colorado UFO study, commonly called the Condon Committee. That project was funded by the US Air Force to examine UFO reports scientifically, but its overall conclusion was deeply sceptical of the value of further UFO investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colorado.edu">[University of Colorado Boulder]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colorado.edu</span><span class="citation-popover-title">condon report cu boulders historic ufo study</span><span class="citation-popover-snippet">University of Colorado BoulderThe Condon Report: CU Boulder&#x27;s Historic UFO StudyNov 5, 2021 — Very few official UFO studies have been con...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Investigation of UFO reports by the United States government</span><span class="citation-popover-snippet">Investigation of UFO reports by the United States government</span></span></span>
@@ -276,13 +275,11 @@ Later technical papers sympathetic to the case have argued that the inward-facin
 
 However, those conclusions depend heavily on assumptions that sceptics dispute.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6F2C-4IL5f4" title="Legendary UFO Expert Jacques Valle Details Overlooked UFO Sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6F2C-4IL5f4" target="_blank" rel="noopener noreferrer">Legendary UFO Expert Jacques Valle Details Overlooked UFO Sightings</a></p><p class="youtube-embed-meta">Channel: JRE Clips &middot; Views: 885.4K &middot; Uploaded: March 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6F2C-4IL5f4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6F2C-4IL5f4">Open on YouTube</a></p></div></div></div>
 
 ### Natural explanations
 
 Several ordinary environmental processes could potentially produce confusing or misleading damage patterns:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -301,8 +298,7 @@ Another sceptical argument concerns observer expectation. Once witnesses and inv
 
 This criticism is common in disputed UFO trace cases. Environmental features are often interpreted after the fact rather than documented in real time under controlled conditions. Critics therefore argue that pattern recognition and suggestion can play a major role in how physical evidence is perceived.
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_trace_di_2e2bc6-Illustration-2-light.svg" | relative_url }}" alt="Trace Disputes illustration 2" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_trace_di_2e2bc6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_trace_di_2e2bc6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_trace_di_2e2bc6-Illustration-2-dark.svg" | relative_url }}" alt="Trace Disputes illustration 2" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_trace_di_2e2bc6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_trace_di_2e2bc6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Problems with the “burn pattern” argument
 
 Supporters of the Haynesville case emphasise that the bark damage allegedly faced inward towards the centre of the clearing. Yet sceptics note that this description itself comes largely from retrospective accounts rather than detailed measurements published at the time.
@@ -316,7 +312,6 @@ Without controlled comparisons from 1966, critics argue that later energy calcul
 One of the strongest sceptical criticisms is simply that the evidence trail is incomplete.
 
 Modern discussions of Haynesville often describe laboratory studies of bark fragments and advanced modelling work, but the original field documentation from the 1960s appears limited compared with what modern forensic investigators would require. The gap between the event and later evidence collection creates several problems:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -333,7 +328,6 @@ This matters because extraordinary physical claims require unusually strong docu
 
 The absence of such records does not prove the traces were mundane, but it weakens confidence in later interpretations.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eze1ikq-sMQ" title="The New Era in UFO Research with Jacques Vallée" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eze1ikq-sMQ" target="_blank" rel="noopener noreferrer">The New Era in UFO Research with Jacques Vallée</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 43.6K &middot; Uploaded: January 2023 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eze1ikq-sMQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eze1ikq-sMQ">Open on YouTube</a></p></div></div></div>
 
 ## Why later reanalysis did not settle the argument
@@ -348,11 +342,10 @@ Another source of disagreement concerns sample preservation. Bark collected year
 
 As a result, the reanalysis revived interest in Haynesville without ending the debate.
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_trace_di_2e2bc6-Illustration-3-light.svg" | relative_url }}" alt="Trace Disputes illustration 3" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_trace_di_2e2bc6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_trace_di_2e2bc6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_trace_di_2e2bc6-Illustration-3-dark.svg" | relative_url }}" alt="Trace Disputes illustration 3" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_trace_di_2e2bc6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_trace_di_2e2bc6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Haynesville traces remain controversial in Louisiana UFO history
 
-Haynesville occupies an unusual place in [Louisiana]({{ 'what-really-happened-in-louisianas-ufo/' | relative_url }}) UFO history because it sits between two categories. It is stronger than many simple “light in the sky” reports because it involves trained witnesses, official investigations and alleged physical effects. But it is weaker than a truly documented forensic case because the evidence chain contains major gaps.
+Haynesville occupies an unusual place in Louisiana UFO history because it sits between two categories. It is stronger than many simple “light in the sky” reports because it involves trained witnesses, official investigations and alleged physical effects. But it is weaker than a truly documented forensic case because the evidence chain contains major gaps.
 
 That tension explains why the incident continues to divide opinion decades later.
 
@@ -360,9 +353,7 @@ For UFO researchers, Haynesville represents a rare attempt to connect eyewitness
 
 The central dispute is therefore not whether something unusual was reported near Haynesville in December 1966. It is whether the later interpretation of burned bark and damaged trees genuinely points to an unknown high-energy phenomenon, or whether ordinary environmental effects were transformed into apparent UFO evidence through incomplete documentation and retrospective interpretation.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6We0GMqqoko" title="Implications of UFO Phenomena with Jacques Vallée" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6We0GMqqoko" target="_blank" rel="noopener noreferrer">Implications of UFO Phenomena with Jacques Vallée</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 15.7K &middot; Uploaded: December 2025 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6We0GMqqoko" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6We0GMqqoko">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BXG6kwlVa9Q" title="1966 UFO sighting at Westall - Graham Whitehead" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BXG6kwlVa9Q" target="_blank" rel="noopener noreferrer">1966 UFO sighting at Westall - Graham Whitehead</a></p><p class="youtube-embed-meta">Channel: Kingston Libraries &middot; Views: 7.9K &middot; Uploaded: June 2012 &middot; Length: 3 minutes 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BXG6kwlVa9Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BXG6kwlVa9Q">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -785,90 +776,90 @@ The central dispute is therefore not whether something unusual was reported near
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0376042125000247](https://www.sciencedirect.com/science/article/abs/pii/S0376042125000247)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0376042125000247</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>They are often noted to impact both human health and physical devices in...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: [https://en.wikipedia.org/wiki/Condon_Committee](https://en.wikipedia.org/wiki/Condon_Committee)  
+   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
 
 3. <a id="endnote-3"></a>
    Source: colorado.edu  
    Title: condon report cu boulders historic ufo study  
-   Link: [https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study](https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study)  
+   Link: <a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Colorado BoulderThe Condon Report: CU Boulder&#x27;s Historic UFO StudyNov 5, 2021 — Very few official UFO studies have been con...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Investigation of UFO reports by the United States government  
-   Link: [https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government](https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government)  
+   Link: <a href="https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: James E. Mc Donald  
-   Link: [https://en.wikipedia.org/wiki/James_E._McDonald](https://en.wikipedia.org/wiki/James_E._McDonald)  
+   Link: <a href="https://en.wikipedia.org/wiki/James_E._McDonald" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/James_E._McDonald</a>  
 
 6. <a id="endnote-6"></a>
    Source: centerforinquiry.s3.amazonaws.com  
-   Link: [https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1986/07/22165324/p42.pdf](https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1986/07/22165324/p42.pdf)  
+   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1986/07/22165324/p42.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1986/07/22165324/p42.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for InquiryThe Condon UFO Study: A Trick or a Conspiracy?by PJ Klass · Cited by 3 — Roush&#x27;s very one-sided UFO symposium provided...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/2025PrAeS.15601098V/abstract](https://ui.adsabs.harvard.edu/abs/2025PrAeS.15601098V/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/2025PrAeS.15601098V/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2025PrAeS.15601098V/abstract</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The case, which centered on a well...Read more...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/s3chap01.htm](https://files.ncas.org/condon/text/s3chap01.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/s3chap01.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap01.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report Section III, Chapter 1: Field StudiesAccording to the account of the UFO sighting, the photographer was at the base ball park to p...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/641270671133568/posts/1402992438294717/](https://www.facebook.com/groups/641270671133568/posts/1402992438294717/)  
+   Link: <a href="https://www.facebook.com/groups/641270671133568/posts/1402992438294717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/641270671133568/posts/1402992438294717/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist examines ufo evidence for extraterrestrial lifeAllen Hynek was the scientific consultant for the U.S. Air Force&#x27;s three UFO inv...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/367857927/Physical-Traces-Associated-With-UFO-Sightings-Ted-Phillips](https://www.scribd.com/document/367857927/Physical-Traces-Associated-With-UFO-Sightings-Ted-Phillips)  
+   Link: <a href="https://www.scribd.com/document/367857927/Physical-Traces-Associated-With-UFO-Sightings-Ted-Phillips" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/367857927/Physical-Traces-Associated-With-UFO-Sightings-Ted-Phillips</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Traces Associated With UFO Sightings - Ted PhillipsUFO landed, bark on tree trunks damaged, trees spread outward...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: 3af.fr  
-   Link: [https://www.3af.fr/docs/2025110701_1328693110_2025-estimates-of-radiative-energy-values-in-ground-level-observations-of-an-0aunidentified-aerial-phenomenon-new-physical-data.pdf](https://www.3af.fr/docs/2025110701_1328693110_2025-estimates-of-radiative-energy-values-in-ground-level-observations-of-an-0aunidentified-aerial-phenomenon-new-physical-data.pdf)  
+   Link: <a href="https://www.3af.fr/docs/2025110701_1328693110_2025-estimates-of-radiative-energy-values-in-ground-level-observations-of-an-0aunidentified-aerial-phenomenon-new-physical-data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.3af.fr/docs/2025110701_1328693110_2025-estimates-of-radiative-energy-values-in-ground-level-observations-of-an-0aunidentified-aerial-phenomenon-new-physical-data.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They are often noted to impact both human health and physical devices in consistent ways.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: archive.org  
    Title: Full text of "Scientific Study Of Unidentified Flying Objects  
-   Link: [https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt](https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt)  
+   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>One publication (Hall, 1964) lists 106 UFO cases in which electromagnetic effects are a significant feature of the UFO report. Forty-five...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pod.wave.co  
-   Link: [https://pod.wave.co/podcast/danny-jones-podcast/324-nasa-physicist-comes-clean-on-ufos-why-we-cant-go-back-to-the-moon-kevin-knu-b4c3d904](https://pod.wave.co/podcast/danny-jones-podcast/324-nasa-physicist-comes-clean-on-ufos-why-we-cant-go-back-to-the-moon-kevin-knu-b4c3d904)  
+   Link: <a href="https://pod.wave.co/podcast/danny-jones-podcast/324-nasa-physicist-comes-clean-on-ufos-why-we-cant-go-back-to-the-moon-kevin-knu-b4c3d904" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/danny-jones-podcast/324-nasa-physicist-comes-clean-on-ufos-why-we-cant-go-back-to-the-moon-kevin-knu-b4c3d904</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wave.co#324 - NASA Physicist Comes Clean on UFOs &amp; Why We Can...18 Aug 2025 — There were UFO reports that night, many UFO reports to the...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: olivieromannucci.substack.com  
    Title: uap breakthrough in progress in aerospace  
-   Link: [https://olivieromannucci.substack.com/p/uap-breakthrough-in-progress-in-aerospace](https://olivieromannucci.substack.com/p/uap-breakthrough-in-progress-in-aerospace)  
+   Link: <a href="https://olivieromannucci.substack.com/p/uap-breakthrough-in-progress-in-aerospace" target="_blank" rel="noopener noreferrer nofollow">https://olivieromannucci.substack.com/p/uap-breakthrough-in-progress-in-aerospace</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Breakthrough in Progress in Aerospace SciencesThe lack of transparency—names and qualifications hidden—fuels doubts they were super scien...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40kyeq1/the-forgotten-uap-case-jacques-vall%C3%A9e-calls-one-of-the-most-important-in-history-5f5f44f2d88c](https://medium.com/%40kyeq1/the-forgotten-uap-case-jacques-vall%C3%A9e-calls-one-of-the-most-important-in-history-5f5f44f2d88c)  
+   Link: <a href="https://medium.com/%40kyeq1/the-forgotten-uap-case-jacques-vall%C3%A9e-calls-one-of-the-most-important-in-history-5f5f44f2d88c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kyeq1/the-forgotten-uap-case-jacques-vall%C3%A9e-calls-one-of-the-most-important-in-history-5f5f44f2d88c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>long-running program to evaluate UFO reports. It did not...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: knuthlab.org  
    Title: knuth+etal 2025 new science UAP  
-   Link: [https://knuthlab.org/papers/knuth%2Betal---2025--new-science-UAP.pdf](https://knuthlab.org/papers/knuth%2Betal---2025--new-science-UAP.pdf)  
+   Link: <a href="https://knuthlab.org/papers/knuth%2Betal---2025--new-science-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://knuthlab.org/papers/knuth%2Betal---2025--new-science-UAP.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>knuth+etal---2025--new-science-UAP.pdfto see if he could find any physical evidence of the UFO&#x27;s presence. The field was covered with sno...</p></details>

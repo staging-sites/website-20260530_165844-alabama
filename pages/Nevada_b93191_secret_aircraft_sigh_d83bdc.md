@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-nevada-became-ufo-country/
 nav_short_title: Secret Aircraft
 title: When Secret Aircraft Looked Like UFOs
-title_full: When Secret Aircraft Looked Like UFOs | Nevada UFOs
+title_full: When Secret Aircraft Looked Like UFOs
 display_title_short: Secret Aircraft
 display_title: Secret Aircraft
 heading_title: When Secret Aircraft Looked Like UFOs
@@ -264,7 +264,6 @@ image: /assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc-overview-social.
 
 Nevada is a useful place to understand a simple but often missed point about UFO history: people can see something real, unusual and accurately described, yet still misidentify what it is. Around Groom Lake, [Tonopah]({{ 'tonopah/' | relative_url }}) and the Nevada Test and Training Range, that “something” has often been secret aircraft, classified testing, [night exercises]({{ 'night-exercises/' | relative_url }}), afterburners, flares, radar activity or aircraft seen in lighting conditions that made them look stranger than they were. The documented U-2, A-12 OXCART and F-117 histories do not explain every Nevada UFO report, but they do show why the state became a special case: secrecy was not just a rumour there. It was part of the operating environment. Declassified CIA and defence records show that high-altitude reconnaissance aircraft did generate UFO reports, especially from pilots and air-traffic channels, while later reviews also stress that poor data can leave cases unresolved even when ordinary explanations are likely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security ArchiveThe Secret History of the U-2 - and Area 5115 Aug 2013 — CIA history reveals newly declassified material on U-2...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
 
-
 <img src="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc-overview.webp" | relative_url }}" alt="Overview image for Secret Aircraft" loading="eager" decoding="sync" fetchpriority="high">
 ## Why secret aircraft changed Nevada UFO history
 
@@ -286,8 +285,7 @@ The A-12 OXCART added a second layer. AARO summarises the programme as the CIA-l
 
 The often repeated claim that U-2 and OXCART flights accounted for more than half of UFO reports in the late 1950s and much of the 1960s should be used carefully. CIA and later AARO material repeat the assessment, but some UFO researchers and sceptics have questioned whether the public evidence fully supports the exact percentage. The safer conclusion is narrower but strong: declassified records show that secret reconnaissance aircraft caused a significant number of UFO reports and that Nevada was central to that mechanism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/stories/story/ask-molly-what-really-went-on-at-area-51/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">ask molly what really went on at area 51</span><span class="citation-popover-snippet">ask molly what really went on at area 51</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">28256 ufo sightings cia u2 aircraft</span><span class="citation-popover-snippet">28256 ufo sightings cia u2 aircraft</span></span></span>
 
-
-<img src="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc-Illustration-1-light.svg" | relative_url }}" alt="Secret Aircraft illustration 1" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc-Illustration-1-dark.svg" | relative_url }}" alt="Secret Aircraft illustration 1" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Military airspace as sighting noise
 
 Nevada’s UFO environment is not only about one famous base. The wider military landscape creates constant “sighting noise”: aircraft, exercises, restricted zones, live training, radar systems and night operations that can all produce strange impressions from the ground.
@@ -297,7 +295,6 @@ The Nevada Test and Training Range is described by Nellis Air Force Base as the 
 That scale matters for UFO interpretation. A witness near a highway, ranch, town edge or dark-sky viewing spot may see lights that are part of an exercise, not a conventional airport pattern. Red Flag exercises at Nellis are designed to give aircrews multiple intensive combat sorties in a realistic training environment, and Nellis material describes night operations involving aircraft such as F-16s, F-35s and F-22s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nellis.af.mil/About/High-End-Training/Red-Flag-Nellis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nellis.af.mil">[nellis.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nellis.af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span>
 
 Several ordinary military features can look extraordinary when stripped of context:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -311,7 +308,6 @@ Several ordinary military features can look extraordinary when stripped of conte
 
 AARO’s historical report makes the same broader point about older UFO investigations. It lists aircraft, afterburners, flares, missiles, satellites, searchlights, false radar indications and other conventional causes among recurring UFO resolutions. It also notes that aircraft seen at high altitude and distance can appear disc-shaped or rocket-shaped, while vapour trails may glow red or orange when reflecting sunlight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-28 "Endnote 28")
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T3dATQKr5x4" title="Mysterious aircraft in Pentagon UFO files may be from Earth, former defense secretary says" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T3dATQKr5x4" target="_blank" rel="noopener noreferrer">Mysterious aircraft in Pentagon UFO files may be from Earth, former defense secretary says</a></p><p class="youtube-embed-meta">Channel: CBS New York &middot; Views: 1.9K &middot; Uploaded: May 2026 &middot; Length: 3 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T3dATQKr5x4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T3dATQKr5x4">Open on YouTube</a></p></div></div></div>
 
 ## The F-117 and the triangular-aircraft problem
@@ -324,8 +320,7 @@ Tonopah is important here because it shows how Nevada’s UFO geography extends 
 
 The F-117 also helps explain why “black triangle” reports require care. Some triangular sightings may be misidentified known aircraft, some may be classified platforms, some may be unrelated conventional lights, and some may lack enough data to judge. The existence of a real stealth aircraft does not automatically solve every triangle report, but it removes the need to treat triangular shape alone as evidence of something non-human.
 
-
-<img src="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc-Illustration-2-light.svg" | relative_url }}" alt="Secret Aircraft illustration 2" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc-Illustration-2-dark.svg" | relative_url }}" alt="Secret Aircraft illustration 2" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How good witnesses can still be wrong
 
 Nevada’s secret-aircraft history is a lesson in perception under uncertainty. A good witness can report direction, brightness, colour, timing and apparent motion honestly, but still misread distance, size, altitude or speed. Those last four variables are often the ones that make a UFO seem extraordinary.
@@ -335,7 +330,6 @@ A bright object at high altitude may look closer than it is. A slow aircraft far
 Official investigations have long recognised this data problem. The National Archives notes that Project Blue Book case files include observer reports, correspondence, clippings and analysis of photographs or physical evidence, but the project closed in 1969 and does not cover later sightings. AARO’s review of Blue Book material also found a huge archive, but one in which media and images were relatively rare compared with written documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Public Interest in UFOs Persists 50 Years After Project Blue</span><span class="citation-popover-snippet">National Archives Public Interest in UFOs Persists 50 Years After Project Blue</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Public Interest in UFOs Persists 50 Years After Project Blue</span><span class="citation-popover-snippet">National Archives Public Interest in UFOs Persists 50 Years After Project Blue</span></span></span>
 
 That limitation is crucial for Nevada. Many reports are not “solved” or “unsolved” in a dramatic sense; they are under-documented. Without exact time, location, viewing direction, duration, weather, aircraft activity, radar data and original testimony, investigators may be unable to distinguish between a genuinely anomalous report and an ordinary event seen under unusual conditions.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pwFllKIo2UY" title="The World&#x27;s GREATEST Spy Planes | SR-71 &amp; A-12 Oxcart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pwFllKIo2UY" target="_blank" rel="noopener noreferrer">The World&#x27;s GREATEST Spy Planes | SR-71 &amp; A-12 Oxcart</a></p><p class="youtube-embed-meta">Channel: The Spy Network &middot; Views: 2.5K &middot; Uploaded: October 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pwFllKIo2UY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pwFllKIo2UY">Open on YouTube</a></p></div></div></div>
 
@@ -349,14 +343,12 @@ This is where Nevada’s UFO culture gained much of its staying power. The publi
 
 The strongest balanced reading is that both sides contain a warning. It is naive to treat every Nevada report as fantasy, because classified aircraft, restricted testing and official concealment were real. It is also a mistake to treat secrecy itself as proof of alien technology, because the best-documented secret programmes were human aviation projects.
 
-
-<img src="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc-Illustration-3-light.svg" | relative_url }}" alt="Secret Aircraft illustration 3" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc-Illustration-3-dark.svg" | relative_url }}" alt="Secret Aircraft illustration 3" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this means for Nevada UFO reports today
 
 Modern Nevada sightings should be read through this older pattern, but not trapped by it. The state still contains major military aviation activity, restricted airspace and test infrastructure. Nellis describes the range as a premier environment for operational testing and training, and contemporary Red Flag activity continues to involve intensive air combat training, including night operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nellis.af.mil/About/High-End-Training/videoid/931324/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nellis.af.mil">[nellis.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nellis.af.mil</span><span class="citation-popover-title">Red Flag 24-3 Night Operations</span><span class="citation-popover-snippet">Red Flag 24-3 Night Operations</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nellis.af.mil/About/High-End-Training/?dvpTag=amsus&amp;dvpmoduleid=50951" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nellis.af.mil">[nellis.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nellis.af.mil</span><span class="citation-popover-title">High End Training</span><span class="citation-popover-snippet">High End Training</span></span></span>
 
 A careful reader should ask a few practical questions before treating any Nevada sighting as extraordinary:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -370,9 +362,7 @@ A careful reader should ask a few practical questions before treating any Nevada
 
 This approach does not dismiss witnesses. It respects them by separating what they actually observed from what the object might have been. In Nevada, that distinction is essential. The state’s UFO history is not just a catalogue of mysteries; it is a record of how classified aircraft, military training and public imagination can overlap in the same sky.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ExoU5-EG2Ho" title="Lockheed F-117 &quot;Nighthawk&quot; Restoration Update - Castle Air Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ExoU5-EG2Ho" target="_blank" rel="noopener noreferrer">Lockheed F-117 &quot;Nighthawk&quot; Restoration Update - Castle Air Museum</a></p><p class="youtube-embed-meta">Channel: Castle Air Museum &middot; Views: 1.1K &middot; Uploaded: October 2025 &middot; Length: 3 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ExoU5-EG2Ho" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ExoU5-EG2Ho">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -779,222 +769,222 @@ This approach does not dismiss witnesses. It respects them by separating what th
 1. <a id="endnote-1"></a>
    Source: cia.gov  
    Title: area 51 and the accidental test flight  
-   Link: [https://www.cia.gov/stories/story/area-51-and-the-accidental-test-flight/](https://www.cia.gov/stories/story/area-51-and-the-accidental-test-flight/)  
+   Link: <a href="https://www.cia.gov/stories/story/area-51-and-the-accidental-test-flight/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/area-51-and-the-accidental-test-flight/</a>  
 
 2. <a id="endnote-2"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7](https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp80b01676r004000110001-7</a>  
 
 3. <a id="endnote-3"></a>
    Source: cia.gov  
    Title: ask molly what really went on at area 51  
-   Link: [https://www.cia.gov/stories/story/ask-molly-what-really-went-on-at-area-51/](https://www.cia.gov/stories/story/ask-molly-what-really-went-on-at-area-51/)  
+   Link: <a href="https://www.cia.gov/stories/story/ask-molly-what-really-went-on-at-area-51/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/ask-molly-what-really-went-on-at-area-51/</a>  
 
 4. <a id="endnote-4"></a>
    Source: space.com  
    Title: 28256 ufo sightings cia u2 aircraft  
-   Link: [https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html](https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html)  
+   Link: <a href="https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/28256-ufo-sightings-cia-u2-aircraft.html</a>  
 
 5. <a id="endnote-5"></a>
    Source: nellis.af.mil  
    Title: Nevada Test and Training Range  
-   Link: [https://www.nellis.af.mil/About/Fact-Sheets/Display/Article/284170/nevada-test-and-training-range/](https://www.nellis.af.mil/About/Fact-Sheets/Display/Article/284170/nevada-test-and-training-range/)  
+   Link: <a href="https://www.nellis.af.mil/About/Fact-Sheets/Display/Article/284170/nevada-test-and-training-range/" target="_blank" rel="noopener noreferrer nofollow">https://www.nellis.af.mil/About/Fact-Sheets/Display/Article/284170/nevada-test-and-training-range/</a>  
 
 6. <a id="endnote-6"></a>
    Source: nellis.af.mil  
-   Link: [https://www.nellis.af.mil/About/High-End-Training/Red-Flag-Nellis/](https://www.nellis.af.mil/About/High-End-Training/Red-Flag-Nellis/)  
+   Link: <a href="https://www.nellis.af.mil/About/High-End-Training/Red-Flag-Nellis/" target="_blank" rel="noopener noreferrer nofollow">https://www.nellis.af.mil/About/High-End-Training/Red-Flag-Nellis/</a>  
 
 7. <a id="endnote-7"></a>
    Source: nellis.af.mil  
    Title: Red Flag 24-3 Night Operations  
-   Link: [https://www.nellis.af.mil/About/High-End-Training/videoid/931324/](https://www.nellis.af.mil/About/High-End-Training/videoid/931324/)  
+   Link: <a href="https://www.nellis.af.mil/About/High-End-Training/videoid/931324/" target="_blank" rel="noopener noreferrer nofollow">https://www.nellis.af.mil/About/High-End-Training/videoid/931324/</a>  
 
 8. <a id="endnote-8"></a>
    Source: archives.gov  
    Title: National Archives Public Interest in UFOs Persists 50 Years After Project Blue  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 10. <a id="endnote-10"></a>
    Source: sgp.fas.org  
-   Link: [https://sgp.fas.org/library/ciaufo.html](https://sgp.fas.org/library/ciaufo.html)  
+   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
    Title: Case Resolution of Eglin UAP 2 508  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf](https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf)  
+   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0000838058.pdf](https://www.cia.gov/readingroom/docs/DOC_0000838058.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000838058.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000838058.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf](https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000192682.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction](https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction)  
+   Link: <a href="https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction</a>  
 
 18. <a id="endnote-18"></a>
    Source: nellis.af.mil  
    Title: High End Training  
-   Link: [https://www.nellis.af.mil/About/High-End-Training/?dvpTag=amsus&dvpmoduleid=50951](https://www.nellis.af.mil/About/High-End-Training/?dvpTag=amsus&dvpmoduleid=50951)  
+   Link: <a href="https://www.nellis.af.mil/About/High-End-Training/?dvpTag=amsus&amp;dvpmoduleid=50951" target="_blank" rel="noopener noreferrer nofollow">https://www.nellis.af.mil/About/High-End-Training/?dvpTag=amsus&amp;dvpmoduleid=50951</a>  
 
 19. <a id="endnote-19"></a>
    Source: nellis.af.mil  
-   Link: [https://www.nellis.af.mil/About/High-End-Training/NTTR/igphoto/2000243176/](https://www.nellis.af.mil/About/High-End-Training/NTTR/igphoto/2000243176/)  
+   Link: <a href="https://www.nellis.af.mil/About/High-End-Training/NTTR/igphoto/2000243176/" target="_blank" rel="noopener noreferrer nofollow">https://www.nellis.af.mil/About/High-End-Training/NTTR/igphoto/2000243176/</a>  
 
 20. <a id="endnote-20"></a>
    Source: nellis.af.mil  
    Title: mil Red Flag 24-3 Phoenix AMU  
-   Link: [https://www.nellis.af.mil/About/High-End-Training/videoid/933479/](https://www.nellis.af.mil/About/High-End-Training/videoid/933479/)  
+   Link: <a href="https://www.nellis.af.mil/About/High-End-Training/videoid/933479/" target="_blank" rel="noopener noreferrer nofollow">https://www.nellis.af.mil/About/High-End-Training/videoid/933479/</a>  
 
 21. <a id="endnote-21"></a>
    Source: nellis.af.mil  
    Title: mil Red Flag 24-3 Night Operations  
-   Link: [https://www.nellis.af.mil/About/High-End-Training/videoid/931324/dvpTag/RFNAFB/](https://www.nellis.af.mil/About/High-End-Training/videoid/931324/dvpTag/RFNAFB/)  
+   Link: <a href="https://www.nellis.af.mil/About/High-End-Training/videoid/931324/dvpTag/RFNAFB/" target="_blank" rel="noopener noreferrer nofollow">https://www.nellis.af.mil/About/High-End-Training/videoid/931324/dvpTag/RFNAFB/</a>  
 
 22. <a id="endnote-22"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
 23. <a id="endnote-23"></a>
    Source: war.gov  
    Title: air force conducts red flag 17 2 exercise at nellis afb  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/1103651/air-force-conducts-red-flag-17-2-exercise-at-nellis-afb/](https://www.war.gov/News/News-Stories/Article/Article/1103651/air-force-conducts-red-flag-17-2-exercise-at-nellis-afb/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/1103651/air-force-conducts-red-flag-17-2-exercise-at-nellis-afb/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/1103651/air-force-conducts-red-flag-17-2-exercise-at-nellis-afb/</a>  
 
 24. <a id="endnote-24"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 25. <a id="endnote-25"></a>
    Source: space.com  
    Title: 23476 area 51 declassified cold war documents  
-   Link: [https://www.space.com/23476-area-51-declassified-cold-war-documents.html](https://www.space.com/23476-area-51-declassified-cold-war-documents.html)  
+   Link: <a href="https://www.space.com/23476-area-51-declassified-cold-war-documents.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/23476-area-51-declassified-cold-war-documents.html</a>  
 
 26. <a id="endnote-26"></a>
    Source: history.com  
    Title: area 51 top secret [spy planes](&#123;&#123; 'spy-planes/' | relative_url &#125;&#125;) u2 blackbird  
-   Link: [https://www.history.com/articles/area-51-top-secret-spy-planes-u2-blackbird](https://www.history.com/articles/area-51-top-secret-spy-planes-u2-blackbird)  
+   Link: <a href="https://www.history.com/articles/area-51-top-secret-spy-planes-u2-blackbird" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/area-51-top-secret-spy-planes-u2-blackbird</a>  
 
 27. <a id="endnote-27"></a>
    Source: nsarchive2.gwu.edu  
    Title: National Security Archive The Secret History of the U-2  
-   Link: [https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/)  
+   Link: <a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Security ArchiveThe Secret History of the U-2 - and Area 5115 Aug 2013 — CIA history reveals newly declassified material on U-2...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 29. <a id="endnote-29"></a>
    Source: nsarchive.gwu.edu  
    Title: area 51 file secret aircraft soviet migs  
-   Link: [https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs](https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs)  
+   Link: <a href="https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs</a>  
 
 30. <a id="endnote-30"></a>
    Source: nationalmuseum.af.mil  
-   Link: [https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198056/lockheed-f-117a-nighthawk/](https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198056/lockheed-f-117a-nighthawk/)  
+   Link: <a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198056/lockheed-f-117a-nighthawk/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198056/lockheed-f-117a-nighthawk/</a>  
 
 31. <a id="endnote-31"></a>
    Source: globalsecurity.org  
-   Link: [https://www.globalsecurity.org/military/facility/tonopah.htm](https://www.globalsecurity.org/military/facility/tonopah.htm)  
+   Link: <a href="https://www.globalsecurity.org/military/facility/tonopah.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/facility/tonopah.htm</a>  
 
 32. <a id="endnote-32"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 33. <a id="endnote-33"></a>
    Source: Wikipedia  
    Title: Area 51  
-   Link: [https://en.wikipedia.org/wiki/Area_51](https://en.wikipedia.org/wiki/Area_51)  
+   Link: <a href="https://en.wikipedia.org/wiki/Area_51" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Area_51</a>  
 
 34. <a id="endnote-34"></a>
    Source: Wikipedia  
    Title: Nevada Test and Training Range  
-   Link: [https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range](https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range)  
+   Link: <a href="https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range</a>  
 
 35. <a id="endnote-35"></a>
    Source: Wikipedia  
    Title: Tonopah Test Range  
-   Link: [https://en.wikipedia.org/wiki/Tonopah_Test_Range](https://en.wikipedia.org/wiki/Tonopah_Test_Range)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tonopah_Test_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tonopah_Test_Range</a>  
 
 36. <a id="endnote-36"></a>
    Source: britannica.com  
    Title: Area 51  
-   Link: [https://www.britannica.com/place/Area-51](https://www.britannica.com/place/Area-51)  
+   Link: <a href="https://www.britannica.com/place/Area-51" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/Area-51</a>  
 
 37. <a id="endnote-37"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 38. <a id="endnote-38"></a>
    Source: usafmarathon.com  
    Title: f 117 nighthawk  
-   Link: [https://www.usafmarathon.com/2021/04/02/f-117-nighthawk/](https://www.usafmarathon.com/2021/04/02/f-117-nighthawk/)  
+   Link: <a href="https://www.usafmarathon.com/2021/04/02/f-117-nighthawk/" target="_blank" rel="noopener noreferrer nofollow">https://www.usafmarathon.com/2021/04/02/f-117-nighthawk/</a>  
 
 ### Additional References
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=T3dATQKr5x4](https://www.youtube.com/watch?v=T3dATQKr5x4)  
+   Link: <a href="https://www.youtube.com/watch?v=T3dATQKr5x4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T3dATQKr5x4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Area 51 secrets exposed: Full Documentary...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
    Title: The World's GREATEST Spy Planes | SR-71 & A-12 Oxcart  
-   Link: [https://www.youtube.com/watch?v=pwFllKIo2UY](https://www.youtube.com/watch?v=pwFllKIo2UY)  
+   Link: <a href="https://www.youtube.com/watch?v=pwFllKIo2UY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pwFllKIo2UY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FOX10Phoenix/posts/a-department-of-defense-review-reveals-the-us-military-used-fake-ufo-stories-to-/1036710115329781/](https://www.facebook.com/FOX10Phoenix/posts/a-department-of-defense-review-reveals-the-us-military-used-fake-ufo-stories-to-/1036710115329781/)  
+   Link: <a href="https://www.facebook.com/FOX10Phoenix/posts/a-department-of-defense-review-reveals-the-us-military-used-fake-ufo-stories-to-/1036710115329781/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX10Phoenix/posts/a-department-of-defense-review-reveals-the-us-military-used-fake-ufo-stories-to-/1036710115329781/</a>  
 
 42. <a id="endnote-42"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100095324142521/posts/a-night-sky-watcher-near-area-51-captured-something-strange-around-3-am-on-a-the/1084688871385241/](https://www.facebook.com/100095324142521/posts/a-night-sky-watcher-near-area-51-captured-something-strange-around-3-am-on-a-the/1084688871385241/)  
+   Link: <a href="https://www.facebook.com/100095324142521/posts/a-night-sky-watcher-near-area-51-captured-something-strange-around-3-am-on-a-the/1084688871385241/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100095324142521/posts/a-night-sky-watcher-near-area-51-captured-something-strange-around-3-am-on-a-the/1084688871385241/</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100087546403715/posts/area-51-activity-news-area51-aviation/994158776845660/](https://www.facebook.com/100087546403715/posts/area-51-activity-news-area51-aviation/994158776845660/)  
+   Link: <a href="https://www.facebook.com/100087546403715/posts/area-51-activity-news-area51-aviation/994158776845660/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100087546403715/posts/area-51-activity-news-area51-aviation/994158776845660/</a>  
 
 44. <a id="endnote-44"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/video/Area-51-military-air-force-base-alien-video/-242011](https://www.britannica.com/video/Area-51-military-air-force-base-alien-video/-242011)  
+   Link: <a href="https://www.britannica.com/video/Area-51-military-air-force-base-alien-video/-242011" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/video/Area-51-military-air-force-base-alien-video/-242011</a>  
 
 45. <a id="endnote-45"></a>
    Source: nfoic.org  
-   Link: [https://www.nfoic.org/blogs/cia-acknowledges-existence-area-51-newly-declassified-docs/](https://www.nfoic.org/blogs/cia-acknowledges-existence-area-51-newly-declassified-docs/)  
+   Link: <a href="https://www.nfoic.org/blogs/cia-acknowledges-existence-area-51-newly-declassified-docs/" target="_blank" rel="noopener noreferrer nofollow">https://www.nfoic.org/blogs/cia-acknowledges-existence-area-51-newly-declassified-docs/</a>  
 
 46. <a id="endnote-46"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/](https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
 
 47. <a id="endnote-47"></a>
    Source: reviewjournal.com  
-   Link: [https://www.reviewjournal.com/news/military/declassified-documents-lift-shroud-over-u-2-area-51/](https://www.reviewjournal.com/news/military/declassified-documents-lift-shroud-over-u-2-area-51/)  
+   Link: <a href="https://www.reviewjournal.com/news/military/declassified-documents-lift-shroud-over-u-2-area-51/" target="_blank" rel="noopener noreferrer nofollow">https://www.reviewjournal.com/news/military/declassified-documents-lift-shroud-over-u-2-area-51/</a>  
 
 48. <a id="endnote-48"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/WeirdWings/comments/10zwth1/developed_at_area_51_and_despite_fitting_a_bomber/](https://www.reddit.com/r/WeirdWings/comments/10zwth1/developed_at_area_51_and_despite_fitting_a_bomber/)  
+   Link: <a href="https://www.reddit.com/r/WeirdWings/comments/10zwth1/developed_at_area_51_and_despite_fitting_a_bomber/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WeirdWings/comments/10zwth1/developed_at_area_51_and_despite_fitting_a_bomber/</a>

@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /barksdale/
 nav_short_title: 1952 Barksdale Lights
 title: What Were the 1952 Lights Seen Over Barksdale?
-title_full: What Were the 1952 Lights Seen Over Barksdale? | Barksdale
+title_full: What Were the 1952 Lights Seen Over Barksdale?
 display_title_short: 1952 Barksdale Lights
 display_title: 1952 Barksdale Lights
 heading_title: What Were the 1952 Lights Seen Over Barksdale?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:31:27'
-parent_title: Were Barksdale Lights UFOs or Base Activity? | Louisiana UFOs
+parent_title: Were Barksdale Lights UFOs or Base Activity?
 parent_permalink: /barksdale/
 parent_nav_short_title: Barksdale
 parent_heading_title: Were Barksdale Lights UFOs or Base Activity?
@@ -250,10 +250,9 @@ image: /assets/images/Louisiana_b158e0_barksdale_airfield_290137_1952_barksdale_
 
 ## Introduction
 
-The recurring lights reported near [Barksdale]({{ 'barksdale/' | relative_url }}) Air Force Base in 1952 became one of north-west [Louisiana]({{ 'what-really-happened-in-louisianas-ufo/' | relative_url }})’s earliest sustained UFO stories because they combined repetition, military proximity and uncertainty. Witnesses did not describe a single dramatic encounter. Instead, local attention built around lights that reportedly appeared evening after evening over or near the base, often at almost the same time. That regularity made the sightings feel significant to observers, yet it also opened the door to ordinary explanations involving aircraft routines, atmospheric effects or celestial objects.
+The recurring lights reported near [Barksdale]({{ 'barksdale/' | relative_url }}) Air Force Base in 1952 became one of north-west Louisiana’s earliest sustained UFO stories because they combined repetition, military proximity and uncertainty. Witnesses did not describe a single dramatic encounter. Instead, local attention built around lights that reportedly appeared evening after evening over or near the base, often at almost the same time. That regularity made the sightings feel significant to observers, yet it also opened the door to ordinary explanations involving aircraft routines, atmospheric effects or celestial objects.
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_1952_barksdale_light_6818c4-Illustration-1-light.svg" | relative_url }}" alt="1952 Barksdale Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_1952_barksdale_light_6818c4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_1952_barksdale_light_6818c4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_1952_barksdale_light_6818c4-Illustration-1-dark.svg" | relative_url }}" alt="1952 Barksdale Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_1952_barksdale_light_6818c4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_1952_barksdale_light_6818c4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What keeps the case interesting within Louisiana UFO history is not strong proof of something extraordinary, but the way uncertainty persisted despite investigation. Newspaper articles argued against weather-balloon explanations, while Air Force intelligence reports entered the wider Project Blue Book system during the peak UFO panic year of 1952. Even so, no clear conclusion emerged. The Barksdale reports illustrate a recurring problem in UFO history around military airfields: witnesses may honestly report unusual lights without anyone being able to determine later whether the object was truly unknown or simply poorly observed.
 
 ## Local reports turned repeated lights into a regional mystery
@@ -263,7 +262,6 @@ The best-known surviving account comes from the *Bossier City Planter’s Press*
 That detail about timing became central to the mystery. Random, one-off sightings are easier to dismiss as mistakes or fleeting impressions. A light that appears night after night at nearly the same hour feels more deliberate and harder to explain away from a witness perspective. Local reporting leaned into that sense of persistence. The headline itself — “Sky Objects Over Barksdale Not Balloons, Weather Records Prove!” — framed the story as a dispute between official explanations and civilian observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bossierlibrary.org/node/29651" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bossierlibrary.org">[Bossier Parish Libraries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bossierlibrary.org</span><span class="citation-popover-snippet">Bossier Parish LibrariesUnusual Newspaper Headline Recalls UFO Sighting in...9 Jul 2025 — A headline in the Bossier City Planter&#x27;s Press...</span></span></span>
 
 Yet the same pattern can support sceptical interpretations. Repetition at a narrow time window often points toward predictable causes:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -289,7 +287,6 @@ Second, the Cold War atmosphere of 1952 encouraged official attention to unexpla
 
 In that context, even uncertain local sightings near a bomber base could trigger intelligence paperwork rather than immediate dismissal.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/azW33jxaHPs" title="Images of UAPs: Objects Discovered Same Day UFOs Flew Over D.C. in 1952 with Beatriz Villarroel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=azW33jxaHPs" target="_blank" rel="noopener noreferrer">Images of UAPs: Objects Discovered Same Day UFOs Flew Over D.C. in 1952 with Beatriz Villarroel</a></p><p class="youtube-embed-meta">Channel: Event Horizon &middot; Views: 186.3K &middot; Uploaded: December 2023 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=azW33jxaHPs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=azW33jxaHPs">Open on YouTube</a></p></div></div></div>
 
 ## The Project Blue Book connection did not resolve the case
@@ -299,7 +296,6 @@ The Barksdale sightings entered the Air Force reporting system associated with P
 The existence of these files is sometimes exaggerated in later UFO retellings. Inclusion in Blue Book-era documentation does not mean the Air Force confirmed extraordinary craft. During the early 1950s, the military collected large numbers of aerial reports simply because unidentified objects near sensitive facilities were considered potentially relevant to national security.
 
 The surviving documents themselves appear fragmentary and difficult to read in places, but they show the basic structure typical of Blue Book-era reporting:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -315,8 +311,7 @@ What is striking is not the strength of the evidence, but its ambiguity. The rep
 
 That outcome fits the wider history of Project Blue Book. The programme, formally established in 1952, investigated thousands of reports while concluding that most sightings reflected misidentifications, atmospheric phenomena or insufficient evidence. A minority remained officially “unidentified”, but the Air Force stated that none demonstrated extraterrestrial technology or a direct national-security threat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">project blue book 50th anniversary</span><span class="citation-popover-snippet">National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — Project Blue Book, from March 1952 to Decem...</span><span class="citation-popover-meta">Published: March 1952</span></span></span>
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_1952_barksdale_light_6818c4-Illustration-2-light.svg" | relative_url }}" alt="1952 Barksdale Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_1952_barksdale_light_6818c4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_1952_barksdale_light_6818c4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_1952_barksdale_light_6818c4-Illustration-2-dark.svg" | relative_url }}" alt="1952 Barksdale Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_1952_barksdale_light_6818c4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_1952_barksdale_light_6818c4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why witnesses still found the lights convincing
 
 The Barksdale reports remained memorable because they contained several features that tend to persuade observers emotionally even when evidence is weak.
@@ -331,7 +326,6 @@ At the same time, expectation itself can shape perception. Once people begin wat
 
 Descriptions of lights “darting” or changing direction appear frequently in historical UFO reports. Human depth perception is weak in dark skies without clear reference points. A stationary or slowly moving light can appear erratic because of:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * eye movement;
@@ -344,7 +338,6 @@ Descriptions of lights “darting” or changing direction appear frequently in 
 
 This does not mean witnesses were inventing what they saw. It means honest observation can still produce misleading impressions under night-sky conditions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mQl7Dqpsy5E" title="Project Blue Book: Episode Recap - “The Lubbock Lights” (Season 1, Episode 3) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mQl7Dqpsy5E" target="_blank" rel="noopener noreferrer">Project Blue Book: Episode Recap - “The Lubbock Lights” (Season 1, Episode 3) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 55.7K &middot; Uploaded: January 2019 &middot; Length: 4 minutes 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mQl7Dqpsy5E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mQl7Dqpsy5E">Open on YouTube</a></p></div></div></div>
 
 ### The military backdrop encouraged speculation
@@ -353,15 +346,13 @@ The fact that the lights appeared near a Strategic Air Command base made the sto
 
 That military connection also complicated explanation. If the Air Force denied knowledge of a sighting, civilians could interpret the denial either as evidence of secrecy or evidence that the object truly was unidentified.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xkuIfufB1Lc" title="Project Blue Book&#x27;s 10 Scariest UFO Files: Cases They Couldn&#x27;t Explain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xkuIfufB1Lc" target="_blank" rel="noopener noreferrer">Project Blue Book&#x27;s 10 Scariest UFO Files: Cases They Couldn&#x27;t Explain</a></p><p class="youtube-embed-meta">Channel: America&#x27;s Strangest History &middot; Views: 21.6K &middot; Uploaded: March 2026 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xkuIfufB1Lc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xkuIfufB1Lc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g8maZp8Gals" title="Project Blue Book UFO Files: 10 True Declassified Cases | Fall Asleep to UFO Stories (Episode 9)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g8maZp8Gals" target="_blank" rel="noopener noreferrer">Project Blue Book UFO Files: 10 True Declassified Cases | Fall Asleep to UFO Stories (Episode 9)</a></p><p class="youtube-embed-meta">Channel: Dreams of Disclosure &middot; Views: 22.5K &middot; Uploaded: December 2025 &middot; Length: 3 hours 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g8maZp8Gals" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g8maZp8Gals">Open on YouTube</a></p></div></div></div>
 
 ## The strongest explanations remain ordinary rather than exotic
 
 No surviving evidence from the 1952 Barksdale lights forces an extraordinary conclusion. The most plausible explanations remain conventional, even if no single answer can be proven decisively.
 
 Several possibilities fit the known pattern reasonably well:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -377,14 +368,12 @@ The balloon debate reported in newspapers may also have distracted attention fro
 
 Importantly, the lack of resolution is not itself evidence of something exotic. Many Blue Book-era cases remained inconclusive because records were incomplete, witness recollections varied, or investigators lacked enough data to reproduce conditions accurately years later.
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_1952_barksdale_light_6818c4-Illustration-3-light.svg" | relative_url }}" alt="1952 Barksdale Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_1952_barksdale_light_6818c4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_1952_barksdale_light_6818c4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_1952_barksdale_light_6818c4-Illustration-3-dark.svg" | relative_url }}" alt="1952 Barksdale Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_1952_barksdale_light_6818c4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_barksdale_airfield_290137_1952_barksdale_light_6818c4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case still matters in Louisiana UFO history
 
 The 1952 Barksdale lights remain historically important less because of what was seen than because of how the sightings reveal the mechanics of UFO culture around military installations.
 
 The case sits at the intersection of several recurring Louisiana themes:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -819,156 +808,156 @@ Unlike some UFO legends that depend on dramatic later embellishment, the Barksda
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Barksdale Air Force Base  
-   Link: [https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base](https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base)  
+   Link: <a href="https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barksdale_Air_Force_Base</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: 1952 Washington, D.C. UFO incident  
-   Link: [https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident](https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO incidentMarch 14, 2007 — From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington...</p></details>
    Published: March 14, 2007  
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesPublic Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — Project Blue Book, from March 1952 to Decem...</p></details>
    Published: March 1952  
 
 4. <a id="endnote-4"></a>
    Source: noufors.com  
    Title: Barksdale AFB, Louisiana  
-   Link: [https://noufors.com/Documents/Blue%20Book%20UFO%20Files/1950s/1952-08-8769891-BarksdaleAFB-Louisiana.pdf](https://noufors.com/Documents/Blue%20Book%20UFO%20Files/1950s/1952-08-8769891-BarksdaleAFB-Louisiana.pdf)  
+   Link: <a href="https://noufors.com/Documents/Blue%20Book%20UFO%20Files/1950s/1952-08-8769891-BarksdaleAFB-Louisiana.pdf" target="_blank" rel="noopener noreferrer nofollow">https://noufors.com/Documents/Blue%20Book%20UFO%20Files/1950s/1952-08-8769891-BarksdaleAFB-Louisiana.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The attached Air Intelligence Information Report is forwarded as per instructions AFL 200-5, dated 29 April 1952, subject, FLYCBRPT. FOR...</p></details>
    Published: April 1952  
 
 5. <a id="endnote-5"></a>
    Source: noufors.com  
    Title: 1952 08 6382674 BarksdaleAFB Louisiana  
-   Link: [https://noufors.com/Documents/Blue%20Book%20UFO%20Files/1950s/1952-08-6382674-BarksdaleAFB-Louisiana.pdf](https://noufors.com/Documents/Blue%20Book%20UFO%20Files/1950s/1952-08-6382674-BarksdaleAFB-Louisiana.pdf)  
+   Link: <a href="https://noufors.com/Documents/Blue%20Book%20UFO%20Files/1950s/1952-08-6382674-BarksdaleAFB-Louisiana.pdf" target="_blank" rel="noopener noreferrer nofollow">https://noufors.com/Documents/Blue%20Book%20UFO%20Files/1950s/1952-08-6382674-BarksdaleAFB-Louisiana.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UntitledAIR INTELLIGENCE INFORMATION REPORT. Barksdale AFB, La. DATE OF HEPEST. 30 August 1952. WET OF INFORMATION. FROM (Agne. 301st Bom...</p></details>
    Published: August 1952  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: [https://www.history.com/articles/project-blue-book](https://www.history.com/articles/project-blue-book)  
+   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien, Definition &amp; Files22 Feb 2010 — Project Blue Book in 1952; that project became the longest running of the US government&#x27;s official...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=xBytbIzJMiU](http://www.youtube.com/watch?v=xBytbIzJMiU)  
+   Link: <a href="http://www.youtube.com/watch?v=xBytbIzJMiU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=xBytbIzJMiU</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: The UFO Files They Tried to Hide | Beyond CLASSIFIED...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Project Blue Book: The UFO Files They Tried to Hide | Beyond CLASSIFIED  
-   Link: [http://www.youtube.com/watch?v=ajB9qLyPK4o](http://www.youtube.com/watch?v=ajB9qLyPK4o)  
+   Link: <a href="http://www.youtube.com/watch?v=ajB9qLyPK4o" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ajB9qLyPK4o</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Files: 10 True Declassified Cases | Fall Asleep to UFO Stories (Episode 9)...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=g8maZp8Gals](http://www.youtube.com/watch?v=g8maZp8Gals)  
+   Link: <a href="http://www.youtube.com/watch?v=g8maZp8Gals" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=g8maZp8Gals</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book Files: The 1952 Washington UFO Incident | The Seven Lights That Defied Radar...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=BGPXIeQRiAs](http://www.youtube.com/watch?v=BGPXIeQRiAs)  
+   Link: <a href="http://www.youtube.com/watch?v=BGPXIeQRiAs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=BGPXIeQRiAs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book&#x27;s 10 Scariest UFO Files: Cases They Couldn&#x27;t Explain...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Project Blue Book's 10 Scariest UFO Files: Cases They Couldn't Explain  
-   Link: [http://www.youtube.com/watch?v=xkuIfufB1Lc](http://www.youtube.com/watch?v=xkuIfufB1Lc)  
+   Link: <a href="http://www.youtube.com/watch?v=xkuIfufB1Lc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=xkuIfufB1Lc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1952 UFO wave Project Blue Book Project Blue Book: The UFO Files They Tried to Hide | Beyond CLASSIFIED Beyond Classified...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: bossierlibrary.org  
-   Link: [https://www.bossierlibrary.org/node/29651](https://www.bossierlibrary.org/node/29651)  
+   Link: <a href="https://www.bossierlibrary.org/node/29651" target="_blank" rel="noopener noreferrer nofollow">https://www.bossierlibrary.org/node/29651</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bossier Parish LibrariesUnusual Newspaper Headline Recalls UFO Sighting in...9 Jul 2025 — A headline in the Bossier City Planter&#x27;s Press...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: have you ever heard of the ufo craze that had everyone talking in 1947 this phen  
-   Link: [https://www.facebook.com/BPLHistoryCenter/posts/have-you-ever-heard-of-the-ufo-craze-that-had-everyone-talking-in-1947-this-phen/1335055875287583/](https://www.facebook.com/BPLHistoryCenter/posts/have-you-ever-heard-of-the-ufo-craze-that-had-everyone-talking-in-1947-this-phen/1335055875287583/)  
+   Link: <a href="https://www.facebook.com/BPLHistoryCenter/posts/have-you-ever-heard-of-the-ufo-craze-that-had-everyone-talking-in-1947-this-phen/1335055875287583/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BPLHistoryCenter/posts/have-you-ever-heard-of-the-ufo-craze-that-had-everyone-talking-in-1947-this-phen/1335055875287583/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bossier Parish Libraries History Center&#x27;s postThis phenomenon reached Bossier City in 1952, when a headline from the Bossier City Planter...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: koreanwar.org  
    Title: 301st Bombardment Wing  
-   Link: [https://www.koreanwar.org/html/units/usaf/301bw.htm](https://www.koreanwar.org/html/units/usaf/301bw.htm)  
+   Link: <a href="https://www.koreanwar.org/html/units/usaf/301bw.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.koreanwar.org/html/units/usaf/301bw.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>USAFBarksdale AFB which is also required information for the Records Center. Realistically, all I am trying to figure out at this point i...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR1 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf](https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United. States Air Force inve...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Project Blue Book: Episode Recap  
-   Link: [https://www.youtube.com/watch?v=mQl7Dqpsy5E](https://www.youtube.com/watch?v=mQl7Dqpsy5E)  
+   Link: <a href="https://www.youtube.com/watch?v=mQl7Dqpsy5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mQl7Dqpsy5E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“The Lubbock Lights...Watch highlights from “Project Blue Book&quot; Season 1, Episode 3, &quot;The Lubbock Lights&quot;.... &#x27;Project Blue Book&#x27; Creat...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: newyorker.com  
-   Link: [https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky](https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky)  
+   Link: <a href="https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/1952/09/06/something-in-the-sky</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerSomething in the SkySomething in the Sky” by Daniel Lang was published in the print edition of the September 6, 1952, issue...</p></details>
    Published: September 6, 1952  
 
 19. <a id="endnote-19"></a>
    Source: upload.wikimedia.org  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/5/5a/Project_Blue_Book_report_-_1952-04-6312765-Shreveport-La.pdf](https://upload.wikimedia.org/wikipedia/commons/5/5a/Project_Blue_Book_report_-_1952-04-6312765-Shreveport-La.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/5/5a/Project_Blue_Book_report_-_1952-04-6312765-Shreveport-La.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/5/5a/Project_Blue_Book_report_-_1952-04-6312765-Shreveport-La.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsGAIR INTELLIGENCE INFORMATION REPORT. TROM (AgencŲ). A-2, 301st Bomb Wing, SAC. REPORT NO. 1-1-02 0. 2. PAGE. 3. PAGES...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
    Title: this 1952 map shows the location of unexplained flying saucer sightings accordin  
-   Link: [https://www.facebook.com/newspaperscom/posts/this-1952-map-shows-the-location-of-unexplained-flying-saucer-sightings-accordin/1447185677422738/](https://www.facebook.com/newspaperscom/posts/this-1952-map-shows-the-location-of-unexplained-flying-saucer-sightings-accordin/1447185677422738/)  
+   Link: <a href="https://www.facebook.com/newspaperscom/posts/this-1952-map-shows-the-location-of-unexplained-flying-saucer-sightings-accordin/1447185677422738/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newspaperscom/posts/this-1952-map-shows-the-location-of-unexplained-flying-saucer-sightings-accordin/1447185677422738/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1952, over several weeks, up to a dozen unexplained objects repeatedly streaked across the skies over Washington, D.C.—spotted not just...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: documents2.theblackvault.com  
    Title: N0179 301st Bomb Wing Unit History Operation Bull Market excerpt  
-   Link: [https://documents2.theblackvault.com/afhracollection/AFHRA%20Microfilm%20Roll%20Research%20Collection/N0179%20-%20301st%20Bomb%20Wing%20Unit%20History%20Operation%20Bull%20Market%20excerpt.pdf](https://documents2.theblackvault.com/afhracollection/AFHRA%20Microfilm%20Roll%20Research%20Collection/N0179%20-%20301st%20Bomb%20Wing%20Unit%20History%20Operation%20Bull%20Market%20excerpt.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/afhracollection/AFHRA%20Microfilm%20Roll%20Research%20Collection/N0179%20-%20301st%20Bomb%20Wing%20Unit%20History%20Operation%20Bull%20Market%20excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/afhracollection/AFHRA%20Microfilm%20Roll%20Research%20Collection/N0179%20-%20301st%20Bomb%20Wing%20Unit%20History%20Operation%20Bull%20Market%20excerpt.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.com$e$t, 1954 -Mar. 1955The 301st Wing furnished B-47&#x27;s to penetrate Eastern Air Devense Force (EADF) in adjacent areas sim...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1166106920440331/posts/2755607538156920/](https://www.facebook.com/groups/1166106920440331/posts/2755607538156920/)  
+   Link: <a href="https://www.facebook.com/groups/1166106920440331/posts/2755607538156920/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1166106920440331/posts/2755607538156920/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>its restricted airspace in Bossier Parish earlier this month.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=azW33jxaHPs](https://www.youtube.com/watch?v=azW33jxaHPs)  
+   Link: <a href="https://www.youtube.com/watch?v=azW33jxaHPs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=azW33jxaHPs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nswers ranging from gravitational lensing to short-lived astronomical phenomenon...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: origins.osu.edu  
-   Link: [https://origins.osu.edu/watch/project-blue-book](https://origins.osu.edu/watch/project-blue-book)  
+   Link: <a href="https://origins.osu.edu/watch/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/watch/project-blue-book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book: America&#x27;s Obsession with UFOs | Origins3 Sept 2025 — Headquartered at Wright Patterson Air Force Base near Dayton, OH, Project...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: fold3.com  
    Title: U S, Project Blue Book  
-   Link: [https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969](https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969)  
+   Link: <a href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US, Project Blue Book - UFO Investigations, 1947-196926 Feb 2007 — NARA T1206. Records and case files relating to investigations of sight...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: sohp.us  
    Title: GROSS 1952 Aug  
-   Link: [https://sohp.us/collections/ufos-a-history/pdf/GROSS-1952-Aug.pdf](https://sohp.us/collections/ufos-a-history/pdf/GROSS-1952-Aug.pdf)  
+   Link: <a href="https://sohp.us/collections/ufos-a-history/pdf/GROSS-1952-Aug.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sohp.us/collections/ufos-a-history/pdf/GROSS-1952-Aug.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: A History, 1952: AugustAgain Air Force UFO files have nothing to say about this, at least declassified ones do not. Even the Russia...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: uk.forceswarrecords.com  
-   Link: [https://uk.forceswarrecords.com/document/9170691](https://uk.forceswarrecords.com/document/9170691)  
+   Link: <a href="https://uk.forceswarrecords.com/document/9170691" target="_blank" rel="noopener noreferrer nofollow">https://uk.forceswarrecords.com/document/9170691</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>About US, Project Blue Book, 1947-1969. NARA T1206. Records and case files relating to investigations...Read more...</p></details>

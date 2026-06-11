@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /delaware-5861e4-dover-afb-military-c/
 description: Focused pages that expand on Dover AFB.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Delaware_5861e4_dover_afb_military_c_229af0
-parent_title: Dover AFB | What Really Happened in Delaware's UFO...
+parent_title: Dover AFB
 parent_nav_short_title: Dover AFB
 parent_permalink: /dover-afb/
 ---

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /louisiana-b158e0-barksdale-airfield/
 description: Focused pages that expand on Barksdale.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Louisiana_b158e0_barksdale_airfield_290137
-parent_title: Barksdale | What Really Happened in Louisiana's UFO...
+parent_title: Barksdale
 parent_nav_short_title: Barksdale
 parent_permalink: /barksdale/
 ---

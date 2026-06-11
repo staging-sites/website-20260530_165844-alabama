@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /records-abc79c/
 nav_short_title: Norfolk 1952
 title: Why the Norfolk pilot sighting endured
-title_full: Why the Norfolk pilot sighting endured | Records
+title_full: Why the Norfolk pilot sighting endured
 display_title_short: Norfolk 1952
 display_title: Norfolk 1952
 heading_title: Why the Norfolk pilot sighting endured
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:24:16'
-parent_title: Where Do Virginia UFO Claims Come From? | Virginia UFOs
+parent_title: Where Do Virginia UFO Claims Come From?
 parent_permalink: /records-abc79c/
 parent_nav_short_title: Records
 parent_heading_title: Where Do Virginia UFO Claims Come From?
@@ -250,10 +250,9 @@ image: /assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_norfolk_1952_b
 
 ## Introduction
 
-The Norfolk pilot sighting of July 1952 remains one of the most discussed UFO cases connected to [Virginia]({{ 'what-really-happened-over-virginia/' | relative_url }}) because it combined several features that investigators usually value: trained aviation witnesses, a prolonged observation, detailed testimony and a formal Air Force investigation. The incident entered the [records]({{ 'records-abc79c/' | relative_url }}) of Project Blue Book and was ultimately left in the category of “unknown”, a status given to only a minority of cases after review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span>
+The Norfolk pilot sighting of July 1952 remains one of the most discussed UFO cases connected to Virginia because it combined several features that investigators usually value: trained aviation witnesses, a prolonged observation, detailed testimony and a formal Air Force investigation. The incident entered the [records]({{ 'records-abc79c/' | relative_url }}) of Project Blue Book and was ultimately left in the category of “unknown”, a status given to only a minority of cases after review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span>
 
-
-<img src="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_norfolk_1952_blue_bo_2ce78a-Illustration-1-light.svg" | relative_url }}" alt="Norfolk 1952 illustration 1" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_norfolk_1952_blue_bo_2ce78a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_norfolk_1952_blue_bo_2ce78a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_norfolk_1952_blue_bo_2ce78a-Illustration-1-dark.svg" | relative_url }}" alt="Norfolk 1952 illustration 1" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_norfolk_1952_blue_bo_2ce78a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_norfolk_1952_blue_bo_2ce78a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For readers tracing Virginia’s UFO reporting history, the case matters less because it proves anything extraordinary and more because it shows how a sighting moved from witness testimony into the federal investigative system. More than seventy years later, the Norfolk encounter still sits at the intersection of aviation evidence, Cold War-era UFO investigation and ongoing debate over how much confidence should be placed in eyewitness reports from experienced pilots. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nash-Fortenberry UFO sighting</span><span class="citation-popover-snippet">February 19, 2026 — The Nash-Fortenberry UFO sighting was an unidentified flying object sighting that occurred on July 14, 1952, when two...</span><span class="citation-popover-meta">Published: February 19, 2026</span></span></span>
 
 ## Why the Norfolk pilot sighting endured
@@ -270,8 +269,7 @@ The pilots' descriptions were remarkably specific compared with many UFO reports
 
 One reason the case has survived repeated scrutiny is the consistency of its central narrative. Although later writers have sometimes differed on precise details such as altitude estimates, object dimensions or exact manoeuvres, the core account remained largely unchanged: two airline officers independently reported a group of bright objects moving in formation near Norfolk and Newport News while they were airborne. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
 
-The geography is also important. The sighting occurred in a region connected to major military and naval activity. Hampton Roads, Norfolk and nearby installations were already heavily linked to American defence operations. Any unidentified aerial report in that airspace naturally attracted more interest than a similar claim from a remote rural location. That military context helped ensure the report entered official channels rather than remaining a local newspaper story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIATHE NATIONAL INVESTIGATIONS COMMITTEE ON...Nash, Pan-American Airways pilot, who on the night of July 14 had sighted 8 circular UFOs...</span></span></span>
-
+The geography is also important. The sighting occurred in a region connected to major military and naval activity. Hampton Roads, Norfolk and nearby installations were already heavily linked to American defence operations. Any unidentified aerial report in that airspace naturally attracted more interest than a similar claim from a remote rural location. That military context helped ensure the report entered official channels rather than remaining a local newspaper story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">THE NATIONAL INVESTIGATIONS COMMITTEE ON...Nash, Pan-American Airways pilot, who on the night of July 14 had sighted 8 circular UFOs...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gmyn9X4PC3s" title="The Pilot’s Mystery: The Nash-Fortenberry UFO 🛸" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gmyn9X4PC3s" target="_blank" rel="noopener noreferrer">The Pilot’s Mystery: The Nash-Fortenberry UFO 🛸</a></p><p class="youtube-embed-meta">Channel: Beyond The Veil Files &middot; Views: 1.1K &middot; Uploaded: February 2026 &middot; Length: 2 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gmyn9X4PC3s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gmyn9X4PC3s">Open on YouTube</a></p></div></div></div>
 
@@ -285,8 +283,7 @@ That distinction is often lost in later retellings. A Blue Book “unknown” wa
 
 The Norfolk report gained additional visibility because it appeared during a period when Blue Book's leadership was attempting to treat some cases more systematically. Statistical reviews later associated with Blue Book placed significant weight on witness quality, duration of observation and supporting details. Airline pilot reports often scored well under those criteria, even when no definitive explanation emerged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nash-Fortenberry UFO sighting</span><span class="citation-popover-snippet">February 19, 2026 — The Nash-Fortenberry UFO sighting was an unidentified flying object sighting that occurred on July 14, 1952, when two...</span><span class="citation-popover-meta">Published: February 19, 2026</span></span></span>
 
-
-<img src="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_norfolk_1952_blue_bo_2ce78a-Illustration-2-light.svg" | relative_url }}" alt="Norfolk 1952 illustration 2" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_norfolk_1952_blue_bo_2ce78a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_norfolk_1952_blue_bo_2ce78a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_norfolk_1952_blue_bo_2ce78a-Illustration-2-dark.svg" | relative_url }}" alt="Norfolk 1952 illustration 2" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_norfolk_1952_blue_bo_2ce78a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_norfolk_1952_blue_bo_2ce78a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What makes the evidence stronger
 
 Several factors continue to make the Norfolk case one of Virginia's stronger historical UFO reports.
@@ -298,7 +295,6 @@ Several factors continue to make the Norfolk case one of Virginia's stronger his
 **The report contained detailed descriptions.** The witnesses provided information about colour, formation, movement and apparent manoeuvres rather than merely reporting a distant light. Detailed reports are generally easier to investigate than vague accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns</span><span class="citation-popover-snippet">Nash. Second Officer William H... large, round, glowing red coin-shaped objects, 100 ft diameter 15...</span></span></span>
 
 **The case entered an official investigative record.** Unlike many local legends, the Norfolk encounter generated documentation that survived within the broader Blue Book archive. Its existence does not depend solely on decades-later retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">UFO FILESHe has a long-standing interest in UFOs and other aerial phenomena, and has worked with the National Archives in promoting UFO m...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FhYmW9UxMP0" title="The Nash-Fortenberry Sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FhYmW9UxMP0" target="_blank" rel="noopener noreferrer">The Nash-Fortenberry Sighting</a></p><p class="youtube-embed-meta">Channel: Unidentified Craft &middot; Views: 7.8K &middot; Uploaded: November 2015 &middot; Length: 1 minute 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FhYmW9UxMP0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FhYmW9UxMP0">Open on YouTube</a></p></div></div></div>
 
@@ -312,10 +308,9 @@ There were no photographs, recovered materials or instrument recordings that con
 
 ### Speed and size estimates are uncertain
 
-Witnesses observing unfamiliar objects at night can easily misjudge distance. If distance is uncertain, estimates of speed, altitude and physical size become uncertain as well. Some dramatic calculations found in later UFO literature depend heavily on assumptions about how far away the objects actually were. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaRevisiting One of the Classics: The Nash/Fortenberry UFO...Revisiting One of the Classics— The Nash/Fortenberry UFO Sighting 14...</span></span></span>
+Witnesses observing unfamiliar objects at night can easily misjudge distance. If distance is uncertain, estimates of speed, altitude and physical size become uncertain as well. Some dramatic calculations found in later UFO literature depend heavily on assumptions about how far away the objects actually were. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Revisiting One of the Classics: The Nash/Fortenberry UFO...Revisiting One of the Classics— The Nash/Fortenberry UFO Sighting 14...</span></span></span>
 
-
-<img src="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_norfolk_1952_blue_bo_2ce78a-Illustration-3-light.svg" | relative_url }}" alt="Norfolk 1952 illustration 3" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_norfolk_1952_blue_bo_2ce78a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_norfolk_1952_blue_bo_2ce78a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_norfolk_1952_blue_bo_2ce78a-Illustration-3-dark.svg" | relative_url }}" alt="Norfolk 1952 illustration 3" data-theme-src-dark="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_norfolk_1952_blue_bo_2ce78a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Virginia_027fb4_virginia_ufo_records_3a3a64_norfolk_1952_blue_bo_2ce78a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Later retellings often became more dramatic
 
 As the case passed through decades of UFO books, articles and documentaries, some accounts emphasised extraordinary interpretations more strongly than the original investigative language. Historians of UFO reports frequently face this problem: the later narrative can become more confident than the underlying evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
@@ -328,13 +323,11 @@ Blue Book's unresolved category is often misunderstood. Investigators may have l
 
 Many Virginia UFO reports survive only as brief newspaper items or isolated witness stories. The Norfolk sighting stands apart because it left a trace through multiple layers of documentation: aviation testimony, Air Force investigation, Blue Book classification and decades of later review. That paper trail makes it one of the state's most durable UFO cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">UFO FILESHe has a long-standing interest in UFOs and other aerial phenomena, and has worked with the National Archives in promoting UFO m...</span></span></span>
 
-The incident also demonstrates a broader pattern visible throughout Virginia's UFO record. Reports connected to pilots, military facilities or controlled airspace tended to receive greater attention than ordinary civilian sightings. Norfolk's location near major naval and aviation infrastructure ensured that the event was treated as something worth documenting rather than simply dismissing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIATHE NATIONAL INVESTIGATIONS COMMITTEE ON...Nash, Pan-American Airways pilot, who on the night of July 14 had sighted 8 circular UFOs...</span></span></span>
+The incident also demonstrates a broader pattern visible throughout Virginia's UFO record. Reports connected to pilots, military facilities or controlled airspace tended to receive greater attention than ordinary civilian sightings. Norfolk's location near major naval and aviation infrastructure ensured that the event was treated as something worth documenting rather than simply dismissing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">THE NATIONAL INVESTIGATIONS COMMITTEE ON...Nash, Pan-American Airways pilot, who on the night of July 14 had sighted 8 circular UFOs...</span></span></span>
 
 More than seventy years later, the Norfolk encounter remains neither conclusively explained nor conclusively mysterious. Its significance lies in how clearly it shows the strengths and weaknesses of the historical UFO record. There were credible witnesses and an official investigation, yet there was also a lack of hard evidence capable of settling the matter. That balance between solid documentation and unresolved interpretation is precisely why the case continues to appear in discussions of Virginia's most notable Blue Book-era sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">unidentified flying objects and air force project blue book</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BejFqt3_xnI" title="1952 - 1st Officer William B. Nash and 2nd Officer William H. Fortenberry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BejFqt3_xnI" target="_blank" rel="noopener noreferrer">1952 - 1st Officer William B. Nash and 2nd Officer William H. Fortenberry</a></p><p class="youtube-embed-meta">Channel: Alieninfoo &middot; Views: 181 &middot; Uploaded: January 2021 &middot; Length: 1 minute 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BejFqt3_xnI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BejFqt3_xnI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -422,7 +415,7 @@ More than seventy years later, the Norfolk encounter remains neither conclusivel
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -432,111 +425,36 @@ More than seventy years later, the Norfolk encounter remains neither conclusivel
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-norfolk-pilot-sighting-endured-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-norfolk-pilot-sighting-endured-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-norfolk-pilot-sighting-endured-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-norfolk-pilot-sighting-endured-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-norfolk-pilot-sighting-endured-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-norfolk-pilot-sighting-endured-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-norfolk-pilot-sighting-endured-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-norfolk-pilot-sighting-endured-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,15 +462,15 @@ More than seventy years later, the Norfolk encounter remains neither conclusivel
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-norfolk-pilot-sighting-endured-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-norfolk-pilot-sighting-endured-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-norfolk-pilot-sighting-endured-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-norfolk-pilot-sighting-endured-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-norfolk-pilot-sighting-endured-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-norfolk-pilot-sighting-endured-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-norfolk-pilot-sighting-endured-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-norfolk-pilot-sighting-endured-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -560,15 +478,15 @@ More than seventy years later, the Norfolk encounter remains neither conclusivel
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-norfolk-pilot-sighting-endured-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-norfolk-pilot-sighting-endured-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-norfolk-pilot-sighting-endured-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-norfolk-pilot-sighting-endured-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-norfolk-pilot-sighting-endured-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-norfolk-pilot-sighting-endured-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-norfolk-pilot-sighting-endured-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-norfolk-pilot-sighting-endured-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -576,15 +494,15 @@ More than seventy years later, the Norfolk encounter remains neither conclusivel
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-norfolk-pilot-sighting-endured-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-norfolk-pilot-sighting-endured-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-norfolk-pilot-sighting-endured-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-norfolk-pilot-sighting-endured-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-norfolk-pilot-sighting-endured-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-norfolk-pilot-sighting-endured-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-norfolk-pilot-sighting-endured-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-norfolk-pilot-sighting-endured-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -592,7 +510,7 @@ More than seventy years later, the Norfolk encounter remains neither conclusivel
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=norfolk-1952-why-the-norfolk-pilot-sighting-endured-virginia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-norfolk-pilot-sighting-endured-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-the-norfolk-pilot-sighting-endured-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -669,17 +587,31 @@ More than seventy years later, the Norfolk encounter remains neither conclusivel
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -692,42 +624,73 @@ More than seventy years later, the Norfolk encounter remains neither conclusivel
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -742,12 +705,17 @@ More than seventy years later, the Norfolk encounter remains neither conclusivel
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -758,80 +726,80 @@ More than seventy years later, the Norfolk encounter remains neither conclusivel
 1. <a id="endnote-1"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookFrom 1947 to 1969, the Air Force investigated Unidentified Flying Obj...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Nash-Fortenberry UFO sighting  
-   Link: [https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting](https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 19, 2026 — The Nash-Fortenberry UFO sighting was an unidentified flying object sighting that occurred on July 14, 1952, when two...</p></details>
    Published: February 19, 2026  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 5. <a id="endnote-5"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nash. Second Officer William H... large, round, glowing red coin-shaped objects, 100 ft diameter 15...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: 1952 Washington, D.C. UFO incident  
-   Link: [https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident](https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
 
 7. <a id="endnote-7"></a>
    Source: ufoac.com  
    Title: UFO ACInconvenient questions of the Blue Book  
-   Link: [https://ufoac.com/inconvenient-questions-of-the-blue-book.html](https://ufoac.com/inconvenient-questions-of-the-blue-book.html)  
+   Link: <a href="https://ufoac.com/inconvenient-questions-of-the-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/inconvenient-questions-of-the-blue-book.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inconvenient questions of the Blue Book - Nash-Fortenberry...On July 14, 1952, pilots William Nash and William Fortenberry observed eigh...</p></details>
    Published: July 14, 1952  
 
 8. <a id="endnote-8"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952](https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaRevisiting One of the Classics: The Nash/Fortenberry UFO...Revisiting One of the Classics— The Nash/Fortenberry UFO Sighting 14...</p></details>
+   Link: <a href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting One of the Classics: The Nash/Fortenberry UFO...Revisiting One of the Classics— The Nash/Fortenberry UFO Sighting 14...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIATHE NATIONAL INVESTIGATIONS COMMITTEE ON...Nash, Pan-American Airways pilot, who on the night of July 14 had sighted 8 circular UFOs...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Nash, Pan-American Airways pilot, who on the night of July 14 had sighted 8 circular UFOs...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-collections](https://www.archives.gov/research/topics/uaps/rg-collections)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
 
 11. <a id="endnote-11"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: [https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf](https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs became a national craze, with pop-. Page 14. TH£. UFO. BOOK ular opinion divided between those who dismissed the phenomenon entirely...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ufoinsight.com  
    Title: UFO Insight The Nash-Fortenberry UFO Sighting  
-   Link: [https://www.ufoinsight.com/ufos/sightings/nash-fortenberry-ufo](https://www.ufoinsight.com/ufos/sightings/nash-fortenberry-ufo)  
+   Link: <a href="https://www.ufoinsight.com/ufos/sightings/nash-fortenberry-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/nash-fortenberry-ufo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightThe Nash-Fortenberry UFO SightingJune 9, 2019 — 9 Jun 2019 — A UFO sighting over Virginia, witnessed by two experienced airlin...</p></details>
    Published: June 9, 2019  
 
 13. <a id="endnote-13"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf](https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO FILESHe has a long-standing interest in UFOs and other aerial phenomena, and has worked with the National Archives in promoting UFO m...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsEarly letters regarding UFO sightings · Correspondence on the Rendlesham Forest incident · Documents on UFO policy and communi...</p></details>
 
 ### Additional References
@@ -839,58 +807,58 @@ More than seventy years later, the Norfolk encounter remains neither conclusivel
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: july 14 1952 pan american world airways pilots william h fortenberry and william  
-   Link: [https://www.facebook.com/panam.org/posts/july-14-1952-pan-american-world-airways-pilots-william-h-fortenberry-and-william/649689183854066/](https://www.facebook.com/panam.org/posts/july-14-1952-pan-american-world-airways-pilots-william-h-fortenberry-and-william/649689183854066/)  
+   Link: <a href="https://www.facebook.com/panam.org/posts/july-14-1952-pan-american-world-airways-pilots-william-h-fortenberry-and-william/649689183854066/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/panam.org/posts/july-14-1952-pan-american-world-airways-pilots-william-h-fortenberry-and-william/649689183854066/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nash will report witnessing unidentifiable flying objects near Chesapeake Bay, Virginia, on their route in a Douglas...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: forcesnews.com  
    Title: project blue book what was us air force operation investigate ufos  
-   Link: [https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos](https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos)  
+   Link: <a href="https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.forcesnews.com/usa/project-blue-book-what-was-us-air-force-operation-investigate-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: What was US Air Force operation to...3 Aug 2022 — More than 12000 sightings of UFOs were investigated during the prog...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PAAMUSEUM/posts/though-we-dont-know-what-they-were-what-they-were-doing-or-where-they-came-from-/1244531289222587/](https://www.facebook.com/PAAMUSEUM/posts/though-we-dont-know-what-they-were-what-they-were-doing-or-where-they-came-from-/1244531289222587/)  
+   Link: <a href="https://www.facebook.com/PAAMUSEUM/posts/though-we-dont-know-what-they-were-what-they-were-doing-or-where-they-came-from-/1244531289222587/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PAAMUSEUM/posts/though-we-dont-know-what-they-were-what-they-were-doing-or-where-they-came-from-/1244531289222587/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 14, 1952: A Classic UFO Encounter On this day, pilots William Nash and William Fortenberry reported seeing eight glowing disc shaped...</p></details>
    Published: July 14, 1952  
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
    Title: the 1952 nashfortenberry sighting was a blue book  
-   Link: [https://www.reddit.com/r/ufo/comments/ibx6k5/the_1952_nashfortenberry_sighting_was_a_blue_book/](https://www.reddit.com/r/ufo/comments/ibx6k5/the_1952_nashfortenberry_sighting_was_a_blue_book/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/ibx6k5/the_1952_nashfortenberry_sighting_was_a_blue_book/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/ibx6k5/the_1952_nashfortenberry_sighting_was_a_blue_book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1952 Nash-Fortenberry sighting was a Blue Book...The 1952 Nash-Fortenberry sighting was a Blue Book “unknown” and NICAP&#x27;s favorite c...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: instagram.com  
    Title: Pan American World Airways Captain William B  
-   Link: [https://www.instagram.com/p/DQ7kP1HEYTa/](https://www.instagram.com/p/DQ7kP1HEYTa/)  
+   Link: <a href="https://www.instagram.com/p/DQ7kP1HEYTa/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQ7kP1HEYTa/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>they landed, the stunned witnesses were separately debriefed by Project Blue Book, the Air Force investigation of the UFO p...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: scribd.com  
    Title: W E FLEW ABOVE FLYING SAUCERS by William B  
-   Link: [https://www.scribd.com/doc/314719463/WE-FLEW-ABOVE-FLYING-SAUCERS-By-William-B-Nash-William-H-Fortenberry](https://www.scribd.com/doc/314719463/WE-FLEW-ABOVE-FLYING-SAUCERS-By-William-B-Nash-William-H-Fortenberry)  
+   Link: <a href="https://www.scribd.com/doc/314719463/WE-FLEW-ABOVE-FLYING-SAUCERS-By-William-B-Nash-William-H-Fortenberry" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/314719463/WE-FLEW-ABOVE-FLYING-SAUCERS-By-William-B-Nash-William-H-Fortenberry</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Cosmic Discoveries Journal. 52 pages. Ted Phillips - Physical Traces Associated With UFO Sightings - A Preliminary Catal...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified  
-   Link: [http://www.youtube.com/watch?v=UKzI3uu_oTQ](http://www.youtube.com/watch?v=UKzI3uu_oTQ)  
+   Link: <a href="http://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UKzI3uu_oTQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Nash-Fortenberry&quot; UFO 1952-07-14: Nash-Fortenberry UFO Encounter Tom Owens UAP...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Pilot’s Mystery: The Nash-Fortenberry UFO 🛸  
-   Link: [http://www.youtube.com/watch?v=gmyn9X4PC3s](http://www.youtube.com/watch?v=gmyn9X4PC3s)  
+   Link: <a href="http://www.youtube.com/watch?v=gmyn9X4PC3s" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=gmyn9X4PC3s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1952 - 1st Officer William B. Nash and 2nd Officer William H. Fortenberry...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ufoevidence.org  
-   Link: [https://www.ufoevidence.org/cases/case92.htm](https://www.ufoevidence.org/cases/case92.htm)  
+   Link: <a href="https://www.ufoevidence.org/cases/case92.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case92.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO EvidenceThe Nash-Fortenberry Sighting (aircraft encounter with...UFO Case Report: The Nash-Fortenberry Sighting (aircraft encounter...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: The Nash-Fortenberry Sighting  
-   Link: [http://www.youtube.com/watch?v=FhYmW9UxMP0](http://www.youtube.com/watch?v=FhYmW9UxMP0)  
+   Link: <a href="http://www.youtube.com/watch?v=FhYmW9UxMP0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=FhYmW9UxMP0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History...</p></details>

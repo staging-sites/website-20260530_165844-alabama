@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /illinois-31b9d2-st-clair-triangle-ev/
 description: Focused pages that expand on St Clair Triangle.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Illinois_31b9d2_st_clair_triangle_ev_f45bc6
-parent_title: St Clair Triangle | Illinois
+parent_title: St Clair Triangle
 parent_nav_short_title: St Clair Triangle
 parent_permalink: /st-clair-triangle/
 ---

@@ -9,11 +9,10 @@ nav_short_title: Sub-Topic Index
 permalink: /washington-a27a66-hanford-cold-war-ufo/
 description: Focused pages that expand on Hanford Made UFO Reports Matter Because
   The Sky Above South Eastern....
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Washington_a27a66_hanford_cold_war_ufo_7431a3
 parent_title: Hanford Made UFO Reports Matter Because The Sky Above South Eastern...
-  | Why Washington Shaped UFO History
 parent_nav_short_title: Hanford Made UFO Reports Matter Because The Sky Above South
   Eastern...
 parent_permalink: /hanford-made-ufo-reports-matter/

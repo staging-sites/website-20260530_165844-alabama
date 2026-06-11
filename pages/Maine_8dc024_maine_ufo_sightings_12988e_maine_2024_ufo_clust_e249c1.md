@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /sightings-map/
 nav_short_title: 2024 Map
 title: Where Did Maine's 2024 UFO Reports Cluster?
-title_full: Where Did Maine's 2024 UFO Reports Cluster? | Sightings Map
+title_full: Where Did Maine's 2024 UFO Reports Cluster?
 display_title_short: 2024 Map
 display_title: 2024 Map
 heading_title: Where Did Maine's 2024 UFO Reports Cluster?
@@ -200,15 +200,15 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:33:28'
-parent_title: Tracking UFO Sightings Across Maine Towns | MaineUFOs
+parent_title: Tracking UFO Sightings Across Maine Towns
 parent_permalink: /sightings-map/
 parent_nav_short_title: Sightings Map
 parent_heading_title: Tracking UFO Sightings Across Maine Towns
 ancestor_links:
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: Maine_8dc024_maine_ufo_sightings_12988e
   title: Sightings Map | What Makes Maine a Hotspot for UFO Sightings?
   permalink: /sightings-map/
@@ -216,9 +216,9 @@ ancestor_links:
   heading_title: Tracking UFO Sightings Across Maine Towns
 breadcrumb_links:
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: Maine_8dc024_maine_ufo_sightings_12988e
   title: Sightings Map | What Makes Maine a Hotspot for UFO Sightings?
   permalink: /sightings-map/
@@ -250,14 +250,12 @@ image: /assets/images/Maine_8dc024_maine_ufo_sightings_12988e_maine_2024_ufo_clu
 
 ## Introduction
 
-In 2024, **at least 30 reported UFO sightings** across the U.S. state of **[Maine]({{ 'what-makes-maine-a-hotspot-for-ufo/' | relative_url }})** were logged with public databases such as the **National UFO Reporting Center (NUFORC)**. Mapping where these reports occurred shows that sightings were **spread broadly across coastal towns, inland communities, and population centres** rather than confined to one isolated area. Though these clusters don’t prove anything definitive about unexplained aerial phenomena, they highlight where residents were most likely to notice and report something unusual in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://1019therock.com/maine-ufos-reported-sightings-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 1019therock.com">[101.9 The Rock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">1019therock.com</span><span class="citation-popover-title">maine ufos reported sightings 2024</span><span class="citation-popover-snippet">101.9 The RockHere&#x27;s Where the 30 UFO Sightings Were in Maine in 2024December 10, 2024...</span><span class="citation-popover-meta">Published: December 10, 2024</span></span></span>
+In 2024, **at least 30 reported UFO sightings** across the U.S. state of **Maine** were logged with public databases such as the **National UFO Reporting Center (NUFORC)**. Mapping where these reports occurred shows that sightings were **spread broadly across coastal towns, inland communities, and population centres** rather than confined to one isolated area. Though these clusters don’t prove anything definitive about unexplained aerial phenomena, they highlight where residents were most likely to notice and report something unusual in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://1019therock.com/maine-ufos-reported-sightings-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 1019therock.com">[101.9 The Rock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">1019therock.com</span><span class="citation-popover-title">maine ufos reported sightings 2024</span><span class="citation-popover-snippet">101.9 The RockHere&#x27;s Where the 30 UFO Sightings Were in Maine in 2024December 10, 2024...</span><span class="citation-popover-meta">Published: December 10, 2024</span></span></span>
 
-
-<img src="{{ "/assets/images/Maine_8dc024_maine_ufo_sightings_12988e_maine_2024_ufo_clust_e249c1-Illustration-1-light.svg" | relative_url }}" alt="2024 Map illustration 1" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_ufo_sightings_12988e_maine_2024_ufo_clust_e249c1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_ufo_sightings_12988e_maine_2024_ufo_clust_e249c1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Maine_8dc024_maine_ufo_sightings_12988e_maine_2024_ufo_clust_e249c1-Illustration-1-dark.svg" | relative_url }}" alt="2024 Map illustration 1" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_ufo_sightings_12988e_maine_2024_ufo_clust_e249c1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_ufo_sightings_12988e_maine_2024_ufo_clust_e249c1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Towns and Communities Named in 2024 Reports
 
 According to the NUFORC‑based compilation of Maine’s 2024 sightings, reports came from a **wide mix of towns and cities** across the state:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -269,7 +267,6 @@ According to the NUFORC‑based compilation of Maine’s 2024 sightings, reports
 </div>
 
 Two places in particular—**Windham and Lisbon**—each had more than one report in 2024, suggesting some **repeated sightings or higher local reporting activity** in those communities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://1019therock.com/maine-ufos-reported-sightings-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 1019therock.com">[101.9 The Rock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">1019therock.com</span><span class="citation-popover-title">maine ufos reported sightings 2024</span><span class="citation-popover-snippet">101.9 The RockHere&#x27;s Where the 30 UFO Sightings Were in Maine in 2024December 10, 2024...</span><span class="citation-popover-meta">Published: December 10, 2024</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u_wgV63Dy-E" title="Creepy Cases: Maine UFO Sightings &amp; Jennifer Watkins Cold Case" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u_wgV63Dy-E" target="_blank" rel="noopener noreferrer">Creepy Cases: Maine UFO Sightings &amp; Jennifer Watkins Cold Case</a></p><p class="youtube-embed-meta">Channel: Scary Mysteries &middot; Views: 95.9K &middot; Uploaded: March 2021 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u_wgV63Dy-E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u_wgV63Dy-E">Open on YouTube</a></p></div></div></div>
 
@@ -283,12 +280,10 @@ Rather than clustering in just one corner of Maine, the reports in 2024 reflect 
 
 This **broad spread of reporting locations** suggests that what communities see and report is at least partly a function of **population distribution, reporting habits, and sky visibility**, as well as seasonal and meteorological conditions that can affect what is seen at night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://1019therock.com/maine-ufos-reported-sightings-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 1019therock.com">[101.9 The Rock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">1019therock.com</span><span class="citation-popover-title">maine ufos reported sightings 2024</span><span class="citation-popover-snippet">101.9 The RockHere&#x27;s Where the 30 UFO Sightings Were in Maine in 2024December 10, 2024...</span><span class="citation-popover-meta">Published: December 10, 2024</span></span></span>
 
-
-<img src="{{ "/assets/images/Maine_8dc024_maine_ufo_sightings_12988e_maine_2024_ufo_clust_e249c1-Illustration-2-light.svg" | relative_url }}" alt="2024 Map illustration 2" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_ufo_sightings_12988e_maine_2024_ufo_clust_e249c1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_ufo_sightings_12988e_maine_2024_ufo_clust_e249c1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maine_8dc024_maine_ufo_sightings_12988e_maine_2024_ufo_clust_e249c1-Illustration-2-dark.svg" | relative_url }}" alt="2024 Map illustration 2" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_ufo_sightings_12988e_maine_2024_ufo_clust_e249c1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_ufo_sightings_12988e_maine_2024_ufo_clust_e249c1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the 2024 Map Can and Cannot Prove
 
 A map of reported sightings in 2024 is useful for visualising where people were noticing unusual lights or objects. However, it is important to be clear about what such clusters do and do not show:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -300,9 +295,7 @@ A map of reported sightings in 2024 is useful for visualising where people were 
 
 Even so, **noting where reports accumulate in a given year** like 2024 provides a snapshot of local observer activity and can be a starting point for deeper pattern analysis over longer time periods or in comparison with aviation, astronomical, and atmospheric data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://1019therock.com/maine-ufos-reported-sightings-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 1019therock.com">[101.9 The Rock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">1019therock.com</span><span class="citation-popover-title">maine ufos reported sightings 2024</span><span class="citation-popover-snippet">101.9 The RockHere&#x27;s Where the 30 UFO Sightings Were in Maine in 2024December 10, 2024...</span><span class="citation-popover-meta">Published: December 10, 2024</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0_7gUUI1Cm0" title="Maine one of states with most UFO sightings, analysis finds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0_7gUUI1Cm0" target="_blank" rel="noopener noreferrer">Maine one of states with most UFO sightings, analysis finds</a></p><p class="youtube-embed-meta">Channel: WMTW-TV &middot; Views: 4.7K &middot; Uploaded: June 2019 &middot; Length: 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0_7gUUI1Cm0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0_7gUUI1Cm0">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qKqu37x85AU" title="Spotted a UFO near the mountains? It was likely a lenticular cloud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qKqu37x85AU" target="_blank" rel="noopener noreferrer">Spotted a UFO near the mountains? It was likely a lenticular cloud</a></p><p class="youtube-embed-meta">Channel: CBS 13 News &middot; Views: 293 &middot; Uploaded: February 2026 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qKqu37x85AU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qKqu37x85AU">Open on YouTube</a></p></div></div></div>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v3XMcRy28qU" title="Exploring Maine&#x27;s Weird: Folklore Myths and Legends of the United States" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v3XMcRy28qU" target="_blank" rel="noopener noreferrer">Exploring Maine&#x27;s Weird: Folklore Myths and Legends of the United States</a></p><p class="youtube-embed-meta">Channel: T’s Storytime &middot; Views: 113.9K &middot; Uploaded: November 2025 &middot; Length: 1 hour 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v3XMcRy28qU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v3XMcRy28qU">Open on YouTube</a></p></div></div></div>
 
@@ -315,8 +308,7 @@ From the 2024 data:
 
 While these clusters don’t indicate anything inherently anomalous, they reflect **where and when people in Maine have reported unusual aerial phenomena** in 2024, offering a geographic baseline for future comparison as part of the broader mapping and analysis of UFO sightings across Maine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://1019therock.com/maine-ufos-reported-sightings-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 1019therock.com">[101.9 The Rock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">1019therock.com</span><span class="citation-popover-title">maine ufos reported sightings 2024</span><span class="citation-popover-snippet">101.9 The RockHere&#x27;s Where the 30 UFO Sightings Were in Maine in 2024December 10, 2024...</span><span class="citation-popover-meta">Published: December 10, 2024</span></span></span>
 
-
-<img src="{{ "/assets/images/Maine_8dc024_maine_ufo_sightings_12988e_maine_2024_ufo_clust_e249c1-Illustration-3-light.svg" | relative_url }}" alt="2024 Map illustration 3" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_ufo_sightings_12988e_maine_2024_ufo_clust_e249c1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_ufo_sightings_12988e_maine_2024_ufo_clust_e249c1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maine_8dc024_maine_ufo_sightings_12988e_maine_2024_ufo_clust_e249c1-Illustration-3-dark.svg" | relative_url }}" alt="2024 Map illustration 3" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_ufo_sightings_12988e_maine_2024_ufo_clust_e249c1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_ufo_sightings_12988e_maine_2024_ufo_clust_e249c1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -404,7 +396,7 @@ While these clusters don’t indicate anything inherently anomalous, they reflec
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -414,111 +406,36 @@ While these clusters don’t indicate anything inherently anomalous, they reflec
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/F7IAAeSw0gNpncRy/s-l225.jpg" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,15 +443,15 @@ While these clusters don’t indicate anything inherently anomalous, they reflec
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/~C4AAOSwhchnoVIr/s-l225.jpg" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -542,15 +459,15 @@ While these clusters don’t indicate anything inherently anomalous, they reflec
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW"><img src="https://i.ebayimg.com/images/g/2CYAAOSwbhVgJDbB/s-l225.jpg" alt="Listing image for BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">BANKSY UFO BOY SQUARE CANVAS WALL ART FLOAT EFFECT /FRAME/ POSTER PRINT-YELLOW</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -558,15 +475,15 @@ While these clusters don’t indicate anything inherently anomalous, they reflec
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -574,7 +491,7 @@ While these clusters don’t indicate anything inherently anomalous, they reflec
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=2024-map-where-did-maine-s-2024-ufo-reports-cluster-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="where-did-maine-s-2024-ufo-reports-cluster-ufo-wall-art-book-books-series-television-gerry-anderson-band-concert-tour-al" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -651,17 +568,31 @@ While these clusters don’t indicate anything inherently anomalous, they reflec
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -674,42 +605,73 @@ While these clusters don’t indicate anything inherently anomalous, they reflec
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -724,12 +686,17 @@ While these clusters don’t indicate anything inherently anomalous, they reflec
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -740,50 +707,50 @@ While these clusters don’t indicate anything inherently anomalous, they reflec
 1. <a id="endnote-1"></a>
    Source: 1019therock.com  
    Title: maine ufos reported sightings 2024  
-   Link: [https://1019therock.com/maine-ufos-reported-sightings-2024/](https://1019therock.com/maine-ufos-reported-sightings-2024/)  
+   Link: <a href="https://1019therock.com/maine-ufos-reported-sightings-2024/" target="_blank" rel="noopener noreferrer nofollow">https://1019therock.com/maine-ufos-reported-sightings-2024/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>101.9 The RockHere&#x27;s Where the 30 UFO Sightings Were in Maine in 2024December 10, 2024...</p></details>
    Published: December 10, 2024  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=185277](https://nuforc.org/sighting/?id=185277)  
+   Link: <a href="https://nuforc.org/sighting/?id=185277" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185277</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 185277December 16, 2024 — NUFORC UFO SIGHTING 185277 Occurred: 2024-11-14 18:38 Local Reported: 2024-12-15 11:41 Paci...</p></details>
    Published: November 14, 2024  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=185129](https://nuforc.org/sighting/?id=185129)  
+   Link: <a href="https://nuforc.org/sighting/?id=185129" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185129</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 185129December 14, 2024 — NUFORC UFO SIGHTING 185129 Occurred: 2024-11-30 05:45 Local Reported: 2024-12-13 16:44 Paci...</p></details>
    Published: November 30, 2024  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
    Title: 929 new ufo reports posted  
-   Link: [https://nuforc.org/929-new-ufo-reports-posted/](https://nuforc.org/929-new-ufo-reports-posted/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNovember 9, 2024 — 929 NEW UFO REPORTS POSTED * November 9, 2024 * 10 Comments The anomalous activity in our skies continues unabat...</p></details>
+   Link: <a href="https://nuforc.org/929-new-ufo-reports-posted/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/929-new-ufo-reports-posted/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 9, 2024 — 929 NEW UFO REPORTS POSTED * November 9, 2024 * 10 Comments The anomalous activity in our skies continues unabat...</p></details>
    Published: November 9, 2024  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=181858](https://nuforc.org/sighting/?id=181858)  
+   Link: <a href="https://nuforc.org/sighting/?id=181858" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=181858</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 181858June 21, 2024 — NUFORC UFO SIGHTING 181858 Occurred: 2024-06-13 21:13 Local Reported: 2024-06-13 19:05 Pacific...</p></details>
    Published: June 13, 2024  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=181655](https://nuforc.org/sighting/?id=181655)  
+   Link: <a href="https://nuforc.org/sighting/?id=181655" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=181655</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 181655May 26, 2024 — NUFORC UFO SIGHTING 181655 Occurred: 2024-05-25 09:33 Local - Approximate Reported: 2024-05-26 0...</p></details>
    Published: May 25, 2024  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=181629](https://nuforc.org/sighting/?id=181629)  
+   Link: <a href="https://nuforc.org/sighting/?id=181629" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=181629</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 181629May 26, 2024 — NUFORC UFO SIGHTING 181629 Occurred: 2024-03-11 20:20 Local Reported: 2024-05-23 21:55 Pacific D...</p></details>
    Published: March 11, 2024  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=180274](https://nuforc.org/sighting/?id=180274)  
+   Link: <a href="https://nuforc.org/sighting/?id=180274" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=180274</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 180274February 15, 2024 — NUFORC UFO SIGHTING 180274 Occurred: 2024-02-03 18:42 Local Reported: 2024-02-03 15:49 Paci...</p></details>
    Published: February 3, 2024  
 
@@ -792,65 +759,65 @@ While these clusters don’t indicate anything inherently anomalous, they reflec
 9. <a id="endnote-9"></a>
    Source: alienlife.net  
    Title: nuforc releases compelling new ufo sightings for may 2024  
-   Link: [https://www.alienlife.net/articles/nuforc-releases-compelling-new-ufo-sightings-for-may-2024/](https://www.alienlife.net/articles/nuforc-releases-compelling-new-ufo-sightings-for-may-2024/)  
+   Link: <a href="https://www.alienlife.net/articles/nuforc-releases-compelling-new-ufo-sightings-for-may-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.alienlife.net/articles/nuforc-releases-compelling-new-ufo-sightings-for-may-2024/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien LifeMay 21, 2024 — NUFORC RELEASES COMPELLING NEW UFO SIGHTINGS FOR MAY 2024 May 21, 2024 • Langdon • Alien Life • (3 Minute Read)...</p></details>
    Published: may 2024  
 
 10. <a id="endnote-10"></a>
    Source: wokq.com  
    Title: The 26 Maine Towns With the Most Reported UFO Sightings  
-   Link: [https://wokq.com/the-26-maine-towns-with-the-most-reported-ufo-sightings/](https://wokq.com/the-26-maine-towns-with-the-most-reported-ufo-sightings/)  
+   Link: <a href="https://wokq.com/the-26-maine-towns-with-the-most-reported-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://wokq.com/the-26-maine-towns-with-the-most-reported-ufo-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 26, 2024 — Image: The 26 Maine Towns With the Most Reported UFO Sightings THE 26 MAINE TOWNS WITH THE MOST REPORTED UFO SIGHTINGS J...</p></details>
    Published: April 26, 2024  
 
 11. <a id="endnote-11"></a>
    Source: travelmaine.com  
    Title: UF O Sightings & Abductions in Maine | Travel Maine.com  
-   Link: [https://travelmaine.com/attractions/strange-maine/maine-ufo-sightings/](https://travelmaine.com/attractions/strange-maine/maine-ufo-sightings/)  
+   Link: <a href="https://travelmaine.com/attractions/strange-maine/maine-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://travelmaine.com/attractions/strange-maine/maine-ufo-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings &amp; Abductions in Maine | TravelMaine.comMay 2, 2012 — UFO SIGHTINGS &amp; ABDUCTIONS IN MAINE By The Maine Explorer May 2, 2012...</p></details>
    Published: May 2, 2012  
 
 12. <a id="endnote-12"></a>
    Source: everyday-states.com  
    Title: The Mysterious Lights of Maine's Haunted Coast  
-   Link: [https://everyday-states.com/the-mysterious-lights-of-maines-haunted-coast/](https://everyday-states.com/the-mysterious-lights-of-maines-haunted-coast/)  
+   Link: <a href="https://everyday-states.com/the-mysterious-lights-of-maines-haunted-coast/" target="_blank" rel="noopener noreferrer nofollow">https://everyday-states.com/the-mysterious-lights-of-maines-haunted-coast/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Everyday StatesAugust 2, 2025 — THE UNEXPLAINED ORBS OF MAINE’S COAST Image: The Unexplained Orbs of Maine&#x27;s Coast (image credits: unspla...</p></details>
    Published: August 2, 2025  
 
 13. <a id="endnote-13"></a>
    Source: alienlife.net  
    Title: ufo sightings as reported in february 2024  
-   Link: [https://www.alienlife.net/articles/ufo-sightings-as-reported-in-february-2024/](https://www.alienlife.net/articles/ufo-sightings-as-reported-in-february-2024/)  
+   Link: <a href="https://www.alienlife.net/articles/ufo-sightings-as-reported-in-february-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.alienlife.net/articles/ufo-sightings-as-reported-in-february-2024/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien LifeMarch 14, 2024 — UFO SIGHTINGS AS REPORTED IN FEBRUARY 2024 Mar 14, 2024 • Langdon • Alien Life • (3 Minute Read) Encounter UFO...</p></details>
    Published: february 2024  
 
 14. <a id="endnote-14"></a>
    Source: shark1053.com  
    Title: new hampshire ufo sightings 2024 what town  
-   Link: [https://shark1053.com/new-hampshire-ufo-sightings-2024-what-town/](https://shark1053.com/new-hampshire-ufo-sightings-2024-what-town/)  
+   Link: <a href="https://shark1053.com/new-hampshire-ufo-sightings-2024-what-town/" target="_blank" rel="noopener noreferrer nofollow">https://shark1053.com/new-hampshire-ufo-sightings-2024-what-town/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Hampshire&#x27;s UFO Sightings for 2024 and What Town They Were InJuly 30, 2024 — Image: New Hampshire&amp;#8217;s UFO Sightings for 2024 and...</p></details>
    Published: July 30, 2024  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Exploring Maine's Weird: Folklore Myths and Legends of the United States  
-   Link: [https://www.youtube.com/watch?v=v3XMcRy28qU](https://www.youtube.com/watch?v=v3XMcRy28qU)  
+   Link: <a href="https://www.youtube.com/watch?v=v3XMcRy28qU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v3XMcRy28qU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotted a UFO near the mountains? It was likely a lenticular cloud...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Title: Creepy Cases: [Maine UFO Sightings](&#123;&#123; 'sightings-map/' | relative_url &#125;&#125;) & Jennifer Watkins Cold Case  
-   Link: [https://www.youtube.com/watch?v=u_wgV63Dy-E](https://www.youtube.com/watch?v=u_wgV63Dy-E)  
+   Title: Creepy Cases: Maine UFO Sightings & Jennifer Watkins Cold Case  
+   Link: <a href="https://www.youtube.com/watch?v=u_wgV63Dy-E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u_wgV63Dy-E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring Maine&#x27;s Weird: Folklore Myths and Legends of the United States...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Spotted a UFO near the mountains? It was likely a lenticular cloud  
-   Link: [https://www.youtube.com/watch?v=qKqu37x85AU](https://www.youtube.com/watch?v=qKqu37x85AU)  
+   Link: <a href="https://www.youtube.com/watch?v=qKqu37x85AU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qKqu37x85AU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Allagash Encounter: A TERRIFYING UFO Abduction Story...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Maine one of states with most UFO sightings, analysis finds  
-   Link: [https://www.youtube.com/watch?v=0_7gUUI1Cm0](https://www.youtube.com/watch?v=0_7gUUI1Cm0)  
+   Link: <a href="https://www.youtube.com/watch?v=0_7gUUI1Cm0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0_7gUUI1Cm0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Creepy Cases: Maine UFO Sightings &amp; Jennifer Watkins Cold Case...</p></details>

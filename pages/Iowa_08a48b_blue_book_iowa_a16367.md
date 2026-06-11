@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-iowas-ufo-cases/
 nav_short_title: Blue Book
 title: What Did Blue Book Make of Iowa?
-title_full: What Did Blue Book Make of Iowa? | Iowa UFOs
+title_full: What Did Blue Book Make of Iowa?
 display_title_short: Blue Book
 display_title: Blue Book
 heading_title: What Did Blue Book Make of Iowa?
@@ -264,7 +264,6 @@ image: /assets/images/Iowa_08a48b_blue_book_iowa_a16367-overview-social.jpg
 
 Project Blue Book made Iowa part of the federal UFO record, but it did not turn Iowa sightings into confirmed evidence of extraordinary craft. The useful lesson is almost the opposite: an official case file shows that a report entered a government process, not that the report was strong, complete, or inexplicable. Iowa cases in and around the Blue Book record range from early “flying saucer” reports and [pilot encounters]({{ 'pilot-encounters/' | relative_url }}) to radar entries and late, weak witness accounts. Some were classified as unidentified by later catalogues of Blue Book “unknowns”; others were logged but marked unreliable or thin. The value of the Iowa material is therefore historical and evidential: it shows how sightings from ordinary Midwestern places became federal paperwork, and why paperwork still needs careful reading. Project Blue Book as a whole recorded 12,618 sightings, of which 701 remained “unidentified”, while the Air Force concluded that none proved a national-security threat, advanced technology beyond known science, or extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
-
 <img src="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-overview.webp" | relative_url }}" alt="Overview image for Blue Book" loading="eager" decoding="sync" fetchpriority="high">
 ## How Iowa Reports Entered Official Channels
 
@@ -276,8 +275,7 @@ Digitisation has made the record easier to browse, but it has not made every cas
 
 Iowa also has a small biographical connection to the Blue Book story. Edward J. Ruppelt, the early Blue Book director whose name is closely associated with the term “unidentified flying object”, was born in Iowa and later wrote an insider account of the early Air Force UFO programme. Project Gutenberg’s public-domain text identifies him as the former head of Project Blue Book. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That connection is interesting, but it should not be overstated: Iowa’s importance in the files comes from the cases themselves, not from claiming that the state shaped the whole programme.
 
-
-<img src="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-1-light.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Iowa Cases Show the Range of Blue Book Evidence
 
 The Iowa-linked material is not one uniform category. It includes early post-war saucer reports, military-pilot reports, radar reports and late civilian accounts. That variety is why Iowa is a useful state-level example of how Blue Book functioned: the same federal system could hold a case with trained aviators and a case with little more than a witness narrative.
@@ -289,7 +287,6 @@ A stronger-looking Iowa case, at least on witness qualifications, is the 29 Janu
 The 28 February 1961 Waverly Air Force Base case shows another kind of record: a radar-centred report. NICAP’s case page says the surviving material includes the Project 10073 record card, Air Force communications, a request for analysis, a track made by the UFO, radar flight-following material and a note suggesting a possible supersonic aircraft, though “no evidence” was apparent in the listed note. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span> The Sparks catalogue lists “Waverly AFB, Iowa” among Blue Book unknown entries but gives only a bare summary in the visible table. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bluebook/51-69.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span> For readers, the important point is that radar cases can look more technical, but they still depend on calibration, tracking context, operator interpretation, possible aircraft activity and what supporting documents survived.
 
 Late Blue Book-era Iowa material could be much weaker. Military Times, using Project Blue Book file images, highlighted a 1969 Davenport, Iowa report described as “unreliable reports, ground visual sighting”, with the observer also having earlier reports from 1967 and 1968. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.militarytimes.com/2017/07/19/ufos-from-the-files-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarytimes.com">[Military Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarytimes.com</span><span class="citation-popover-title">Military Times UFOs from the files of Project Blue Book</span><span class="citation-popover-snippet">Military Times UFOs from the files of Project Blue Book</span></span></span> That is precisely the kind of entry that cautions against treating a federal file as an endorsement. Blue Book collected reports; it did not make every collected report a strong case.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Eb54ZwPYKFQ" title="Iowa Files: UFOs in Iowa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Eb54ZwPYKFQ" target="_blank" rel="noopener noreferrer">Iowa Files: UFOs in Iowa</a></p><p class="youtube-embed-meta">Channel: West Des Moines Historical Society &middot; Views: 2.9K &middot; Uploaded: June 2023 &middot; Length: 1 hour 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Eb54ZwPYKFQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Eb54ZwPYKFQ">Open on YouTube</a></p></div></div></div>
 
@@ -305,8 +302,7 @@ The 1947 Des Moines/Clarion entry illustrates this problem well. It is intriguin
 
 That unevenness is not a reason to dismiss the Iowa files. It is a reason to read them case by case. The best Iowa Blue Book material is useful because it preserves how witnesses, military units and investigators described events at the time. The weakest material is useful because it shows how easily an unusual sky report could become part of a federal archive without becoming a persuasive mystery.
 
-
-<img src="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-2-light.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Blue Book’s National Conclusions Mean for Iowa
 
 Blue Book’s national conclusions set a cautious frame for Iowa. The Air Force’s public fact sheet says that no investigated and evaluated UFO report showed a threat to national security, no evidence showed technology beyond modern scientific knowledge, and no evidence indicated that unidentified sightings were extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> Those conclusions do not solve each Iowa case individually, but they do warn against reading the Iowa entries as hidden proof of alien visitation.
@@ -317,7 +313,6 @@ AARO’s historical review adds a modern official reading of the same record. It
 
 The Condon Report and the National Academy of Sciences review were central to Blue Book’s closure. The Air Force fact sheet says the decision to discontinue UFO investigations was based on the University of Colorado study, the National Academy review, earlier UFO studies and Air Force experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span> AARO’s summary quotes the Condon panel’s broad conclusion that UFO study had not added to scientific knowledge and that further extensive study probably could not be justified on that basis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span> Locally, that means Iowa’s unresolved or thinly explained Blue Book entries should be understood as unresolved reports within a programme that ultimately judged the overall body of evidence insufficient for continued Air Force investigation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PEB-Y9iDrDA" title="Project Blue Book UFO Files: 20 True Declassified Cases | Fall Asleep to UFO Stories (Episode 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PEB-Y9iDrDA" target="_blank" rel="noopener noreferrer">Project Blue Book UFO Files: 20 True Declassified Cases | Fall Asleep to UFO Stories (Episode 1)</a></p><p class="youtube-embed-meta">Channel: Dreams of Disclosure &middot; Views: 51.6K &middot; Uploaded: October 2025 &middot; Length: 3 hours 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PEB-Y9iDrDA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PEB-Y9iDrDA">Open on YouTube</a></p></div></div></div>
 
 ## How to Read an Iowa Blue Book Case Today
@@ -325,7 +320,6 @@ The Condon Report and the National Academy of Sciences review were central to Bl
 A good reading of an Iowa Blue Book file starts with restraint. The first question is not “Was it real?” but “What does this file actually document?” In some cases, it documents a witness statement. In others, it documents a radar return, a military message, a press clipping, a classification card or an attempted explanation. Those are different kinds of evidence.
 
 A useful reader’s test is to separate four issues:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -340,8 +334,7 @@ Using that test, the Winterset T-33 case deserves more attention than a vague la
 
 This approach also helps connect Blue Book to the broader Iowa UFO record without blurring boundaries. Blue Book-era Iowa cases show how federal investigators received and classified reports before 1970. Later Iowa cases, modern NUFORC entries and local physical-trace stories belong to different archives and standards of evidence. The continuity is not that they all prove the same thing; it is that each record has to be read for what it can and cannot support.
 
-
-<img src="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-3-light.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Iowa_08a48b_blue_book_iowa_a16367-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Local Takeaway
 
 Project Blue Book made Iowa part of the official American UFO archive, but Iowa’s Blue Book record is strongest as a study in investigation, not as a catalogue of confirmed anomalies. It contains cases that are intriguing, cases that are ambiguous, and cases that are plainly weak. That mix is exactly why the files matter.
@@ -350,9 +343,7 @@ For Iowa’s UFO history, the federal-era record offers three durable lessons. F
 
 Read that way, Blue Book does not make Iowa a dramatic UFO hotspot. It makes Iowa a useful test case in how ordinary sightings, military reports and incomplete evidence were filtered through a national system that was trying to classify the unknown without always having enough information to explain it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/spztEKRJvEE" title="MUFON Midwest: UFOs in Iowa Towns: David Kreiter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=spztEKRJvEE" target="_blank" rel="noopener noreferrer">MUFON Midwest: UFOs in Iowa Towns: David Kreiter</a></p><p class="youtube-embed-meta">Channel: MUFON Central Region &middot; Views: 163 &middot; Uploaded: September 2025 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=spztEKRJvEE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=spztEKRJvEE">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -776,243 +767,243 @@ Read that way, Blue Book does not make Iowa a dramatic UFO hotspot. It makes Iow
 1. <a id="endnote-1"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 3. <a id="endnote-3"></a>
    Source: fold3.com  
    Title: US, Project Blue Book  
-   Link: [https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969](https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969)  
+   Link: <a href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969</a>  
 
 4. <a id="endnote-4"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
 
 5. <a id="endnote-5"></a>
    Source: nicap.org  
    Title: Microsoft Word  
-   Link: [https://www.nicap.org/bb/BB_Unknowns.pdf](https://www.nicap.org/bb/BB_Unknowns.pdf)  
+   Link: <a href="https://www.nicap.org/bb/BB_Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bb/BB_Unknowns.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: [https://www.nicap.org/reports/610228waverlyafb_rep.htm](https://www.nicap.org/reports/610228waverlyafb_rep.htm)  
+   Link: <a href="https://www.nicap.org/reports/610228waverlyafb_rep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/610228waverlyafb_rep.htm</a>  
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
    Title: Unclassified Final DSD AARO Historical Report  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/citizen-archivist/missions](https://www.archives.gov/citizen-archivist/missions)  
+   Link: <a href="https://www.archives.gov/citizen-archivist/missions" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/citizen-archivist/missions</a>  
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/](https://www.archives.gov/)  
+   Link: <a href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/</a>  
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
    Title: Federal Records Guide: Alphabetical Index  
-   Link: [https://www.archives.gov/research/guide-fed-records/index-alpha/p.html](https://www.archives.gov/research/guide-fed-records/index-alpha/p.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/index-alpha/p.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/p.html</a>  
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
    Title: Federal Records Guide: Alphabetical Index  
-   Link: [https://www.archives.gov/research/guide-fed-records/index-alpha/a.html](https://www.archives.gov/research/guide-fed-records/index-alpha/a.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/index-alpha/a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/a.html</a>  
 
 12. <a id="endnote-12"></a>
    Source: archives.gov  
    Title: nara documents2  
-   Link: [https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2](https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2)  
+   Link: <a href="https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2</a>  
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
    Title: Federal Records Guide: Alphabetical Index  
-   Link: [https://www.archives.gov/research/guide-fed-records/index-alpha/b.html](https://www.archives.gov/research/guide-fed-records/index-alpha/b.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/index-alpha/b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/b.html</a>  
 
 15. <a id="endnote-15"></a>
    Source: archives.gov  
    Title: 1977 annual report  
-   Link: [https://www.archives.gov/files/about/history/sources/reports/1977-annual-report.pdf](https://www.archives.gov/files/about/history/sources/reports/1977-annual-report.pdf)  
+   Link: <a href="https://www.archives.gov/files/about/history/sources/reports/1977-annual-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/about/history/sources/reports/1977-annual-report.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf](https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf)  
+   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/guide-fed-records/groups/220.html](https://www.archives.gov/research/guide-fed-records/groups/220.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/groups/220.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/groups/220.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/moving-images-and-sound](https://www.archives.gov/research/topics/uaps/moving-images-and-sound)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
 19. <a id="endnote-19"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/research/cartographic/pi-195-soil-conservation-service.pdf](https://www.archives.gov/files/research/cartographic/pi-195-soil-conservation-service.pdf)  
+   Link: <a href="https://www.archives.gov/files/research/cartographic/pi-195-soil-conservation-service.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/cartographic/pi-195-soil-conservation-service.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: fold3.com  
    Title: cedar rapids iowa blank page 7 us project blue book ufo investigations 1947 1969  
-   Link: [https://www.fold3.com/document/7339311/cedar-rapids-iowa-blank-page-7-us-project-blue-book-ufo-investigations-1947-1969](https://www.fold3.com/document/7339311/cedar-rapids-iowa-blank-page-7-us-project-blue-book-ufo-investigations-1947-1969)  
+   Link: <a href="https://www.fold3.com/document/7339311/cedar-rapids-iowa-blank-page-7-us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/7339311/cedar-rapids-iowa-blank-page-7-us-project-blue-book-ufo-investigations-1947-1969</a>  
 
 21. <a id="endnote-21"></a>
    Source: archive.org  
    Title: Project Blue Book Indexes  
-   Link: [https://archive.org/details/ProjectBlueBookIndexes](https://archive.org/details/ProjectBlueBookIndexes)  
+   Link: <a href="https://archive.org/details/ProjectBlueBookIndexes" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/ProjectBlueBookIndexes</a>  
 
 22. <a id="endnote-22"></a>
    Source: archive.org  
    Title: Blue Book Artifacts  
-   Link: [https://archive.org/details/BlueBookArtifacts](https://archive.org/details/BlueBookArtifacts)  
+   Link: <a href="https://archive.org/details/BlueBookArtifacts" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/BlueBookArtifacts</a>  
 
 23. <a id="endnote-23"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/bluebook/unknowns.htm](https://www.nicap.org/bluebook/unknowns.htm)  
+   Link: <a href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/unknowns.htm</a>  
 
 25. <a id="endnote-25"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/bluebook/51-69.htm](https://www.nicap.org/bluebook/51-69.htm)  
+   Link: <a href="https://www.nicap.org/bluebook/51-69.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/51-69.htm</a>  
 
 26. <a id="endnote-26"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/bios/WHO-WAS/BLUE_BOOK.htm](https://www.nicap.org/bios/WHO-WAS/BLUE_BOOK.htm)  
+   Link: <a href="https://www.nicap.org/bios/WHO-WAS/BLUE_BOOK.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bios/WHO-WAS/BLUE_BOOK.htm</a>  
 
 27. <a id="endnote-27"></a>
    Source: nicap.org  
    Title: ReportUFOWave1947 SectionI  
-   Link: [https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionI.htm](https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionI.htm)  
+   Link: <a href="https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionI.htm" target="_blank" rel="noopener noreferrer nofollow">https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionI.htm</a>  
 
 28. <a id="endnote-28"></a>
    Source: nicap.org  
    Title: jse 08 1 sturrock  
-   Link: [https://www.nicap.org/papers/jse_08_1_sturrock.pdf](https://www.nicap.org/papers/jse_08_1_sturrock.pdf)  
+   Link: <a href="https://www.nicap.org/papers/jse_08_1_sturrock.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/papers/jse_08_1_sturrock.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: nicap.org  
-   Link: [https://nicap.org/waves/Wave47Rpt/ReportOnWaveOf1947.pdf](https://nicap.org/waves/Wave47Rpt/ReportOnWaveOf1947.pdf)  
+   Link: <a href="https://nicap.org/waves/Wave47Rpt/ReportOnWaveOf1947.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nicap.org/waves/Wave47Rpt/ReportOnWaveOf1947.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/bluebook/bluelist.htm](https://www.nicap.org/bluebook/bluelist.htm)  
+   Link: <a href="https://www.nicap.org/bluebook/bluelist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/bluelist.htm</a>  
 
 31. <a id="endnote-31"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1961fullrep.htm](https://www.nicap.org/chronos/1961fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1961fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1961fullrep.htm</a>  
 
 32. <a id="endnote-32"></a>
    Source: nicap.org  
    Title: What Our Air Force Found Out About UFOs  
-   Link: [https://www.nicap.org/true-rup1.htm](https://www.nicap.org/true-rup1.htm)  
+   Link: <a href="https://www.nicap.org/true-rup1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/true-rup1.htm</a>  
 
 33. <a id="endnote-33"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1955fullrep.htm](https://www.nicap.org/chronos/1955fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1955fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1955fullrep.htm</a>  
 
 34. <a id="endnote-34"></a>
    Source: nicap.org  
    Title: NSID DBListingby Date  
-   Link: [https://www.nicap.org/NSID/NSID_DBListingbyDate.pdf](https://www.nicap.org/NSID/NSID_DBListingbyDate.pdf)  
+   Link: <a href="https://www.nicap.org/NSID/NSID_DBListingbyDate.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyDate.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: nicap.org  
    Title: NSID DBListingby State Country  
-   Link: [https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf](https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf)  
+   Link: <a href="https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf</a>  
 
 36. <a id="endnote-36"></a>
    Source: history.com  
    Title: ufos washington dc news reports  
-   Link: [https://www.history.com/articles/ufos-washington-dc-news-reports](https://www.history.com/articles/ufos-washington-dc-news-reports)  
+   Link: <a href="https://www.history.com/articles/ufos-washington-dc-news-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-washington-dc-news-reports</a>  
 
 37. <a id="endnote-37"></a>
    Source: theprojectbluebookarchive.org  
    Title: The Project Blue Book Archive Untitled  
-   Link: [https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part2/28960972.pdf](https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part2/28960972.pdf)  
+   Link: <a href="https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part2/28960972.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theprojectbluebookarchive.org/archive/Sanitized%20Version%20of%20Project%20Blue%20Book%20Case%20Files-PDFs-Part2/28960972.pdf</a>  
 
 38. <a id="endnote-38"></a>
    Source: militarytimes.com  
    Title: Military Times UFOs from the files of Project Blue Book  
-   Link: [https://www.militarytimes.com/2017/07/19/ufos-from-the-files-of-project-blue-book/](https://www.militarytimes.com/2017/07/19/ufos-from-the-files-of-project-blue-book/)  
+   Link: <a href="https://www.militarytimes.com/2017/07/19/ufos-from-the-files-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.militarytimes.com/2017/07/19/ufos-from-the-files-of-project-blue-book/</a>  
 
 39. <a id="endnote-39"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 40. <a id="endnote-40"></a>
    Source: Wikipedia  
    Title: Edward J. Ruppelt  
-   Link: [https://en.wikipedia.org/wiki/Edward_J._Ruppelt](https://en.wikipedia.org/wiki/Edward_J._Ruppelt)  
+   Link: <a href="https://en.wikipedia.org/wiki/Edward_J._Ruppelt" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Edward_J._Ruppelt</a>  
 
 41. <a id="endnote-41"></a>
    Source: imdb.com  
    Title: Edward J. Ruppelt  
-   Link: [https://www.imdb.com/name/nm7067432/bio/](https://www.imdb.com/name/nm7067432/bio/)  
+   Link: <a href="https://www.imdb.com/name/nm7067432/bio/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/name/nm7067432/bio/</a>  
 
 42. <a id="endnote-42"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
 43. <a id="endnote-43"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=PEB-Y9iDrDA](https://www.youtube.com/watch?v=PEB-Y9iDrDA)  
+   Link: <a href="https://www.youtube.com/watch?v=PEB-Y9iDrDA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PEB-Y9iDrDA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Files: 15 True Declassified Cases | Fall Asleep to UFO Stories (Episode 2)...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=2j2YPSSQLQM](https://www.youtube.com/watch?v=2j2YPSSQLQM)  
+   Link: <a href="https://www.youtube.com/watch?v=2j2YPSSQLQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2j2YPSSQLQM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT BLUEBOOK Classic UFO Documentary 1970&#x27;s...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: youtube.com  
    Title: MUFON Midwest: UFOs in Iowa Towns: David Kreiter  
-   Link: [https://www.youtube.com/watch?v=spztEKRJvEE](https://www.youtube.com/watch?v=spztEKRJvEE)  
+   Link: <a href="https://www.youtube.com/watch?v=spztEKRJvEE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=spztEKRJvEE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO investigations documentary PROJECT BLUEBOOK Classic UFO Documentary 1970&#x27;s MiuwKee...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 47. <a id="endnote-47"></a>
    Source: youtube.com  
    Title: Iowa Files: UFOs in Iowa  
-   Link: [https://www.youtube.com/watch?v=Eb54ZwPYKFQ](https://www.youtube.com/watch?v=Eb54ZwPYKFQ)  
+   Link: <a href="https://www.youtube.com/watch?v=Eb54ZwPYKFQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Eb54ZwPYKFQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Files: 20 True Declassified Cases | Fall Asleep to UFO Stories (Episode 1)...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: amazon.com  
-   Link: [https://www.amazon.com/stores/author/B002JTQ71Q](https://www.amazon.com/stores/author/B002JTQ71Q)  
+   Link: <a href="https://www.amazon.com/stores/author/B002JTQ71Q" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/stores/author/B002JTQ71Q</a>  
 
 49. <a id="endnote-49"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/](https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/</a>  
 
 50. <a id="endnote-50"></a>
    Source: txarchives.org  
-   Link: [https://txarchives.org/tamucush/finding_aids/00151.xml](https://txarchives.org/tamucush/finding_aids/00151.xml)  
+   Link: <a href="https://txarchives.org/tamucush/finding_aids/00151.xml" target="_blank" rel="noopener noreferrer nofollow">https://txarchives.org/tamucush/finding_aids/00151.xml</a>  
 
 51. <a id="endnote-51"></a>
    Source: docsteach.org  
-   Link: [https://docsteach.org/document/project-blue-book-status-report-number-eight/](https://docsteach.org/document/project-blue-book-status-report-number-eight/)  
+   Link: <a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  
 
 52. <a id="endnote-52"></a>
    Source: astronomyufo.com  
-   Link: [https://www.astronomyufo.com/UFO/SUNliteBBSUPV1.pdf](https://www.astronomyufo.com/UFO/SUNliteBBSUPV1.pdf)  
+   Link: <a href="https://www.astronomyufo.com/UFO/SUNliteBBSUPV1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/SUNliteBBSUPV1.pdf</a>

@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-california-became-a-ufo-hotspot/
 nav_short_title: Tic Tac
 title: Why The Nimitz Tic Tac Still Matters
-title_full: Why The Nimitz Tic Tac Still Matters | California UFOs
+title_full: Why The Nimitz Tic Tac Still Matters
 display_title_short: Tic Tac
 display_title: Tic Tac
 heading_title: Why The Nimitz Tic Tac Still Matters
@@ -262,8 +262,7 @@ image: /assets/images/California_cf386e_nimitz_tic_tac_e109f9-overview-social.jp
 
 ## Introduction
 
-The Nimitz “Tic Tac” encounter still matters because it is one of [California]({{ 'why-california-became-a-ufo-hotspot/' | relative_url }})’s strongest modern UFO cases without being a settled one. On 14 November 2004, during naval training off Southern California, fighter pilots from the USS Nimitz carrier group were directed towards an unusual target first reported through shipboard radar. They described a smooth white object, roughly Tic Tac-shaped, moving above disturbed water with no obvious wings, rotors, exhaust or control surfaces. Later, another crew recorded a short infrared video that the US Department of Defense eventually released as genuine Navy footage, while still classifying the object in the video as “unidentified”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee David Fravor Statement for House Oversight Committee</span><span class="citation-popover-snippet">House Oversight CommitteeDavid Fravor Statement for House Oversight CommitteeJuly 25, 2023 — 25 Jul 2023 — This Tic Tac Object had just t...</span><span class="citation-popover-meta">Published: July 25, 2023</span></span></span>
-
+The Nimitz “Tic Tac” encounter still matters because it is one of California’s strongest modern UFO cases without being a settled one. On 14 November 2004, during naval training off Southern California, fighter pilots from the USS Nimitz carrier group were directed towards an unusual target first reported through shipboard radar. They described a smooth white object, roughly Tic Tac-shaped, moving above disturbed water with no obvious wings, rotors, exhaust or control surfaces. Later, another crew recorded a short infrared video that the US Department of Defense eventually released as genuine Navy footage, while still classifying the object in the video as “unidentified”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee David Fravor Statement for House Oversight Committee</span><span class="citation-popover-snippet">House Oversight CommitteeDavid Fravor Statement for House Oversight CommitteeJuly 25, 2023 — 25 Jul 2023 — This Tic Tac Object had just t...</span><span class="citation-popover-meta">Published: July 25, 2023</span></span></span>
 
 <img src="{{ "/assets/images/California_cf386e_nimitz_tic_tac_e109f9-overview.webp" | relative_url }}" alt="Overview image for Tic Tac" loading="eager" decoding="sync" fetchpriority="high">
 The case is important precisely because it sits between two unsatisfying extremes. It is not just a vague civilian light in the sky: it involves trained aviators, a carrier strike group, reported Aegis radar tracks, a named location off the California coast, and later congressional testimony. But it is also not proof of alien technology. The public record lacks the full radar data, the original investigative chain is murky, and sceptical analysts argue that at least the famous infrared clip may show a distant ordinary object affected by camera behaviour rather than extraordinary flight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[Leonard David]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">debunking navy ufo videos</span><span class="citation-popover-snippet">debunking navy ufo videos</span></span></span>
@@ -278,8 +277,7 @@ The most dramatic part of the account is the alleged manoeuvre. Fravor said the 
 
 At the same time, eyewitness strength is not the same as scientific closure. Four aviators reportedly had visual contact during the first encounter, and Fravor’s seniority gives the account unusual credibility. Yet the public still has to rely on memory, testimony, later interviews, and summaries rather than a complete, independently reviewable data package from the moment of the event. NASA’s later UAP study made the broader point that eyewitness accounts and visuals can be sincere and interesting but often lack the consistent, calibrated data needed for firm scientific conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/California_cf386e_nimitz_tic_tac_e109f9-Illustration-1-light.svg" | relative_url }}" alt="Tic Tac illustration 1" data-theme-src-dark="{{ "/assets/images/California_cf386e_nimitz_tic_tac_e109f9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_nimitz_tic_tac_e109f9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/California_cf386e_nimitz_tic_tac_e109f9-Illustration-1-dark.svg" | relative_url }}" alt="Tic Tac illustration 1" data-theme-src-dark="{{ "/assets/images/California_cf386e_nimitz_tic_tac_e109f9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_nimitz_tic_tac_e109f9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the radar story raises the stakes
 
 The Nimitz case is stronger than many California UFO reports because it is not based on a single witness looking up from the ground. The most important supporting claim is that the USS Princeton, a guided-missile cruiser in the carrier group, had been tracking unusual objects on its advanced radar system before the pilots were sent to investigate. Fravor’s congressional statement says these tracks were observed over several days, and that the “Tic Tac” reappeared at the combat air patrol point after the visual encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee David Fravor Statement for House Oversight Committee</span><span class="citation-popover-snippet">House Oversight CommitteeDavid Fravor Statement for House Oversight CommitteeJuly 25, 2023 — 25 Jul 2023 — This Tic Tac Object had just t...</span><span class="citation-popover-meta">Published: July 25, 2023</span></span></span>
@@ -289,7 +287,6 @@ That matters because radar can, in principle, reduce the weaknesses of ordinary 
 The difficulty is that the strongest radar claims are not publicly supported by the underlying raw radar files. Public readers have access to testimony, journalistic reconstructions, an “executive summary” that circulated after the event, and the Department of Defense’s later confirmation that the video was genuine Navy footage. They do not have a full technical release showing the radar tracks, calibration, operator logs, system status, environmental conditions, or independent reconstruction of the object’s path. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.documentcloud.org/documents/20743466-nimitz-unredacted/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documentcloud.org">[DocumentCloud]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documentcloud.org</span><span class="citation-popover-title">Document Cloud USS Nimitz UFO / UAP Tic Tac Executive</span><span class="citation-popover-snippet">Document Cloud USS Nimitz UFO / UAP Tic Tac Executive</span></span></span>
 
 That gap is not a minor detail. Radar systems can detect real aircraft, drones and balloons, but they can also be affected by clutter, anomalous propagation, system settings, electronic warfare, data-link issues, or interpretation errors. A strong version of the Nimitz case depends on multiple data streams lining up. A cautious version says the case remains interesting because such data may have existed, but the public evidence is not complete enough to prove the extraordinary performance often claimed for the object.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B4607ie710I" title="Retired Navy pilot remembers encounter with &#x27;Tic Tac&#x27; UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B4607ie710I" target="_blank" rel="noopener noreferrer">Retired Navy pilot remembers encounter with &#x27;Tic Tac&#x27; UFO</a></p><p class="youtube-embed-meta">Channel: CNN &middot; Views: 519.9K &middot; Uploaded: July 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B4607ie710I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B4607ie710I">Open on YouTube</a></p></div></div></div>
 
@@ -303,8 +300,7 @@ That distinction is often lost in popular retellings. The video is evidence that
 
 Sceptical analysis therefore focuses heavily on the clip’s limitations. Mick West and other sceptical investigators have argued that the [FLIR video]({{ 'flir-video/' | relative_url }}) may be compatible with a distant aircraft or other ordinary object, with apparent motion influenced by the camera system rather than the object itself. Leonard David’s reporting on West’s analysis summarised the sceptical view that the FLIR object “doesn’t actually move on screen” except in relation to camera movement and could resemble a low-resolution, out-of-focus, backlit plane. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[Leonard David]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">debunking navy ufo videos</span><span class="citation-popover-snippet">debunking navy ufo videos</span></span></span>
 
-
-<img src="{{ "/assets/images/California_cf386e_nimitz_tic_tac_e109f9-Illustration-2-light.svg" | relative_url }}" alt="Tic Tac illustration 2" data-theme-src-dark="{{ "/assets/images/California_cf386e_nimitz_tic_tac_e109f9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_nimitz_tic_tac_e109f9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/California_cf386e_nimitz_tic_tac_e109f9-Illustration-2-dark.svg" | relative_url }}" alt="Tic Tac illustration 2" data-theme-src-dark="{{ "/assets/images/California_cf386e_nimitz_tic_tac_e109f9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_nimitz_tic_tac_e109f9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why sceptics still have room to doubt
 
 The main doubts are not that the pilots invented the story or that the Navy video is fake. The better sceptical case is more careful: the public record may be a mixture of real observations, incomplete sensor context, later memory, media compression, and overinterpretation of a poor-quality clip. That is why the Nimitz case can be both important and unresolved.
@@ -318,19 +314,17 @@ Several weaknesses matter most:
 
 A further caution comes from the wider UAP research problem. NASA’s independent study stressed the need for standardised, calibrated, multi-sensor data and warned that current UAP analysis is often hampered by poor sensor calibration, lack of metadata, lack of baseline data and lack of multiple measurements. That is almost exactly the public difficulty with the Nimitz case: the event sounds richly instrumented, but the publicly available evidence is a thin slice of what would be needed to settle it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Oz0p6QXHh9E" title="SHOCKING TESTIMONY: Former Navy Pilot Describes Infamous 2004 &#x27;Tic Tac&#x27; UFO Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Oz0p6QXHh9E" target="_blank" rel="noopener noreferrer">SHOCKING TESTIMONY: Former Navy Pilot Describes Infamous 2004 &#x27;Tic Tac&#x27; UFO Experience</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News &middot; Views: 165.7K &middot; Uploaded: July 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Oz0p6QXHh9E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Oz0p6QXHh9E">Open on YouTube</a></p></div></div></div>
 
 ## Why believers still see it as a standout case
 
-For those who regard the Nimitz encounter as one of the strongest UFO cases on record, the appeal is not just the shape of the object. It is the combination of witness quality, military setting, reported sensor involvement and later official acknowledgement. Fravor was not a casual observer; he was an experienced naval aviator and squadron commander. Dietrich and the other crew members were trained observers operating in a controlled training environment. The [USS Princeton radar]({{ 'radar-tracking/' | relative_url }}) claims add a separate technical layer, even though that layer remains publicly incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee David Fravor Statement for House Oversight Committee</span><span class="citation-popover-snippet">House Oversight CommitteeDavid Fravor Statement for House Oversight CommitteeJuly 25, 2023 — 25 Jul 2023 — This Tic Tac Object had just t...</span><span class="citation-popover-meta">Published: July 25, 2023</span></span></span>
+For those who regard the Nimitz encounter as one of the strongest UFO cases on record, the appeal is not just the shape of the object. It is the combination of witness quality, military setting, reported sensor involvement and later official acknowledgement. Fravor was not a casual observer; he was an experienced naval aviator and squadron commander. Dietrich and the other crew members were trained observers operating in a controlled training environment. The USS Princeton radar claims add a separate technical layer, even though that layer remains publicly incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee David Fravor Statement for House Oversight Committee</span><span class="citation-popover-snippet">House Oversight CommitteeDavid Fravor Statement for House Oversight CommitteeJuly 25, 2023 — 25 Jul 2023 — This Tic Tac Object had just t...</span><span class="citation-popover-meta">Published: July 25, 2023</span></span></span>
 
 The location also matters. Southern California has long been a corridor of naval aviation, carrier operations, aerospace testing and restricted training areas. A strange object reported during a carrier group exercise off San Diego sits squarely within the part of California’s UFO history where military sensors and aviation expertise are most relevant. It is different from older civilian sightings because the witnesses were operating advanced aircraft, within a naval exercise, under controller direction.
 
 The case also changed public treatment of UFOs. The 2017 reporting that brought the Nimitz video and Fravor’s account into national debate helped shift the language from “UFO” as a fringe cultural label to “UAP” as a government and aviation-safety issue. By 2020, the Department of Defense had formally released the videos; by 2023, Fravor was testifying under oath before Congress. That sequence did not prove what the object was, but it did make the Nimitz case a hinge point in modern public scrutiny of military UAP reports. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee David Fravor Statement for House Oversight Committee</span><span class="citation-popover-snippet">House Oversight CommitteeDavid Fravor Statement for House Oversight CommitteeJuly 25, 2023 — 25 Jul 2023 — This Tic Tac Object had just t...</span><span class="citation-popover-meta">Published: July 25, 2023</span></span></span>
 
-
-<img src="{{ "/assets/images/California_cf386e_nimitz_tic_tac_e109f9-Illustration-3-light.svg" | relative_url }}" alt="Tic Tac illustration 3" data-theme-src-dark="{{ "/assets/images/California_cf386e_nimitz_tic_tac_e109f9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_nimitz_tic_tac_e109f9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/California_cf386e_nimitz_tic_tac_e109f9-Illustration-3-dark.svg" | relative_url }}" alt="Tic Tac illustration 3" data-theme-src-dark="{{ "/assets/images/California_cf386e_nimitz_tic_tac_e109f9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_nimitz_tic_tac_e109f9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What remains unresolved
 
 The Nimitz Tic Tac remains unresolved because the public evidence supports a real incident but not a final explanation. A fair reading is that Navy personnel encountered something they could not identify during operations off Southern California; that at least one related infrared video is genuine Navy footage; and that credible witnesses later described performance they considered beyond known aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-title">statement by the department of defense on the release of historical navy videos</span><span class="citation-popover-snippet">Department of WarStatement by the Department of Defense on the Release...27 Apr 2020 — The Department of Defense has authorized the rele...</span></span></span>
@@ -339,9 +333,7 @@ What cannot be responsibly claimed is that the case proves alien visitors, secre
 
 For California’s UFO history, that unresolved status is exactly why the case matters. It is not a debunked hoax, and it is not a confirmed extraordinary craft. It is a high-quality modern puzzle from the state’s military coastline: unusually credible witnesses, partial official validation, persistent data gaps, and serious disagreement over what the available evidence can actually prove. The Nimitz Tic Tac is therefore best understood not as the end of the UFO argument, but as one of the clearest examples of why better evidence standards are needed before extraordinary claims can move from compelling story to established fact.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ygB4EZ7ggig" title="Navy pilots recall “unsettling” 2004 UAP sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ygB4EZ7ggig" target="_blank" rel="noopener noreferrer">Navy pilots recall “unsettling” 2004 UAP sighting</a></p><p class="youtube-embed-meta">Channel: 60 Minutes &middot; Views: 1.4M &middot; Uploaded: May 2021 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ygB4EZ7ggig" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ygB4EZ7ggig">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -765,180 +757,180 @@ For California’s UFO history, that unresolved status is exactly why the case m
 1. <a id="endnote-1"></a>
    Source: oversight.house.gov  
    Title: Oversight Committee David Fravor Statement for House Oversight Committee  
-   Link: [https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf](https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeDavid Fravor Statement for House Oversight CommitteeJuly 25, 2023 — 25 Jul 2023 — This Tic Tac Object had just t...</p></details>
    Published: July 25, 2023  
 
 2. <a id="endnote-2"></a>
    Source: defense.gov  
    Title: statement by the department of defense on the release of historical navy videos  
-   Link: [https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/](https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)  
+   Link: <a href="https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarStatement by the Department of Defense on the Release...27 Apr 2020 — The Department of Defense has authorized the rele...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 5. <a id="endnote-5"></a>
    Source: documentcloud.org  
    Title: Document Cloud USS Nimitz UFO / UAP Tic Tac Executive  
-   Link: [https://www.documentcloud.org/documents/20743466-nimitz-unredacted/](https://www.documentcloud.org/documents/20743466-nimitz-unredacted/)  
+   Link: <a href="https://www.documentcloud.org/documents/20743466-nimitz-unredacted/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/20743466-nimitz-unredacted/</a>  
 
 6. <a id="endnote-6"></a>
    Source: navair.navy.mil  
    Title: mil Untitled  
-   Link: [https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2020-012022_FINAL%20Email%205%20Redacted.pdf](https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2020-012022_FINAL%20Email%205%20Redacted.pdf)  
+   Link: <a href="https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2020-012022_FINAL%20Email%205%20Redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2020-012022_FINAL%20Email%205%20Redacted.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: secnav.navy.mil  
    Title: mil Unidentified Aerial Phenomena (UAPs)  
-   Link: [https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UAP%20DOCUMENTS/PAO%20Briefing%20Card%202020-012022%20and%202022-006563.pdf](https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UAP%20DOCUMENTS/PAO%20Briefing%20Card%202020-012022%20and%202022-006563.pdf)  
+   Link: <a href="https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UAP%20DOCUMENTS/PAO%20Briefing%20Card%202020-012022%20and%202022-006563.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UAP%20DOCUMENTS/PAO%20Briefing%20Card%202020-012022%20and%202022-006563.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: secnav.navy.mil  
    Title: mil F Y 23 FOIA Log_Redacted.pdf  
-   Link: [https://www.secnav.navy.mil/foia/readingroom/CaseFiles/FOIA%20Logs/FY%2023%20FOIA%20Log_Redacted.pdf](https://www.secnav.navy.mil/foia/readingroom/CaseFiles/FOIA%20Logs/FY%2023%20FOIA%20Log_Redacted.pdf)  
+   Link: <a href="https://www.secnav.navy.mil/foia/readingroom/CaseFiles/FOIA%20Logs/FY%2023%20FOIA%20Log_Redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.secnav.navy.mil/foia/readingroom/CaseFiles/FOIA%20Logs/FY%2023%20FOIA%20Log_Redacted.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: secnav.navy.mil  
    Title: mil F Y22 FOIA Log__Red Box_Redacted  
-   Link: [https://www.secnav.navy.mil/foia/readingroom/CaseFiles/FOIA%20Logs/FY22%20FOIA%20Log__Red%20Box_Redacted.pdf](https://www.secnav.navy.mil/foia/readingroom/CaseFiles/FOIA%20Logs/FY22%20FOIA%20Log__Red%20Box_Redacted.pdf)  
+   Link: <a href="https://www.secnav.navy.mil/foia/readingroom/CaseFiles/FOIA%20Logs/FY22%20FOIA%20Log__Red%20Box_Redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.secnav.navy.mil/foia/readingroom/CaseFiles/FOIA%20Logs/FY22%20FOIA%20Log__Red%20Box_Redacted.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/](https://www.nasa.gov/)  
+   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
 
 11. <a id="endnote-11"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
 12. <a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 13. <a id="endnote-13"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/it-was-behaving-erratically-us-navy-pilot-speaks-out-about-ufo-sighting-15-years-on-11891191](https://news.sky.com/story/it-was-behaving-erratically-us-navy-pilot-speaks-out-about-ufo-sighting-15-years-on-11891191)  
+   Link: <a href="https://news.sky.com/story/it-was-behaving-erratically-us-navy-pilot-speaks-out-about-ufo-sighting-15-years-on-11891191" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/it-was-behaving-erratically-us-navy-pilot-speaks-out-about-ufo-sighting-15-years-on-11891191</a>  
 
 14. <a id="endnote-14"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/nasa-briefing-latest-space-agency-to-give-update-on-permanent-moon-base-plans-13548075](https://news.sky.com/story/nasa-briefing-latest-space-agency-to-give-update-on-permanent-moon-base-plans-13548075)  
+   Link: <a href="https://news.sky.com/story/nasa-briefing-latest-space-agency-to-give-update-on-permanent-moon-base-plans-13548075" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-briefing-latest-space-agency-to-give-update-on-permanent-moon-base-plans-13548075</a>  
 
 15. <a id="endnote-15"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 16. <a id="endnote-16"></a>
    Source: history.com  
    Title: uss nimitz 2004 tic tac ufo encounter  
-   Link: [https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter](https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter)  
+   Link: <a href="https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter</a>  
 
 17. <a id="endnote-17"></a>
    Source: history.com  
    Title: uss nimitz tic tac ufo declassified video  
-   Link: [https://www.history.com/videos/uss-nimitz-tic-tac-ufo-declassified-video](https://www.history.com/videos/uss-nimitz-tic-tac-ufo-declassified-video)  
+   Link: <a href="https://www.history.com/videos/uss-nimitz-tic-tac-ufo-declassified-video" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/uss-nimitz-tic-tac-ufo-declassified-video</a>  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ZA-h3dIeD_A](https://www.youtube.com/watch?v=ZA-h3dIeD_A)  
+   Link: <a href="https://www.youtube.com/watch?v=ZA-h3dIeD_A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZA-h3dIeD_A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS News...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Retired Navy pilot remembers encounter with 'Tic Tac' UFO  
-   Link: [https://www.youtube.com/watch?v=B4607ie710I](https://www.youtube.com/watch?v=B4607ie710I)  
+   Link: <a href="https://www.youtube.com/watch?v=B4607ie710I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B4607ie710I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS News...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: leonarddavid.com  
    Title: debunking navy ufo videos  
-   Link: [https://www.leonarddavid.com/debunking-navy-ufo-videos/](https://www.leonarddavid.com/debunking-navy-ufo-videos/)  
+   Link: <a href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/debunking-navy-ufo-videos/</a>  
 
 21. <a id="endnote-21"></a>
    Source: cbsnews.com  
-   Link: [https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/](https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/)  
+   Link: <a href="https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/</a>  
 
 22. <a id="endnote-22"></a>
    Source: cbsnews.com  
    Title: navy ufo sighting 60 minutes 2021 05 16  
-   Link: [https://www.cbsnews.com/news/navy-ufo-sighting-60-minutes-2021-05-16/](https://www.cbsnews.com/news/navy-ufo-sighting-60-minutes-2021-05-16/)  
+   Link: <a href="https://www.cbsnews.com/news/navy-ufo-sighting-60-minutes-2021-05-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/navy-ufo-sighting-60-minutes-2021-05-16/</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/NASA](https://en.wikipedia.org/wiki/NASA)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA</a>  
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
    Title: Nimitz Encounter  
-   Link: [https://www.reddit.com/r/ufo/comments/lkfoou/nimitz_encounter_new_kevin_day_interview/](https://www.reddit.com/r/ufo/comments/lkfoou/nimitz_encounter_new_kevin_day_interview/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/lkfoou/nimitz_encounter_new_kevin_day_interview/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/lkfoou/nimitz_encounter_new_kevin_day_interview/</a>  
 
 25. <a id="endnote-25"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/housedavidfravorwrittenstatement2023.htm](https://ufologie.patrickgross.org/htm/housedavidfravorwrittenstatement2023.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/housedavidfravorwrittenstatement2023.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/housedavidfravorwrittenstatement2023.htm</a>  
 
 26. <a id="endnote-26"></a>
    Source: x.com  
-   Link: [https://x.com/nytimes/status/942080653427953665](https://x.com/nytimes/status/942080653427953665)  
+   Link: <a href="https://x.com/nytimes/status/942080653427953665" target="_blank" rel="noopener noreferrer nofollow">https://x.com/nytimes/status/942080653427953665</a>  
 
 27. <a id="endnote-27"></a>
    Source: rev.com  
    Title: house hearing on unidentified anomalous phenomena  
-   Link: [https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena](https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena)  
+   Link: <a href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena</a>  
 
 28. <a id="endnote-28"></a>
    Source: coffeeordie.com  
    Title: nimitz tic tac  
-   Link: [https://www.coffeeordie.com/article/nimitz-tic-tac](https://www.coffeeordie.com/article/nimitz-tic-tac)  
+   Link: <a href="https://www.coffeeordie.com/article/nimitz-tic-tac" target="_blank" rel="noopener noreferrer nofollow">https://www.coffeeordie.com/article/nimitz-tic-tac</a>  
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Oz0p6QXHh9E](https://www.youtube.com/watch?v=Oz0p6QXHh9E)  
+   Link: <a href="https://www.youtube.com/watch?v=Oz0p6QXHh9E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Oz0p6QXHh9E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: Retired Navy Commander Describes His Sighting In 2004 | The Overview...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: The "Tic Tac" UFO: Can This Sighting Be Explained? | NOVA | PBS  
-   Link: [https://www.youtube.com/watch?v=rQs2NL7hcDA](https://www.youtube.com/watch?v=rQs2NL7hcDA)  
+   Link: <a href="https://www.youtube.com/watch?v=rQs2NL7hcDA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rQs2NL7hcDA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SHOCKING TESTIMONY: Former Navy Pilot Describes Infamous 2004 &#x27;Tic Tac&#x27; UFO Experience...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: 60 Minutes, Navy pilots describe encounters with UFOs: BUSTED!  
-   Link: [https://www.youtube.com/watch?v=VCH7BWGpl5s](https://www.youtube.com/watch?v=VCH7BWGpl5s)  
+   Link: <a href="https://www.youtube.com/watch?v=VCH7BWGpl5s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VCH7BWGpl5s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Navy pilot remembers encounter with &#x27;Tic Tac&#x27; UFO...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/](https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/)  
+   Link: <a href="https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thevoiceofsikkim/posts/-file-1-declassified-what-did-us-navy-pilots-actually-seeimagine-youre-a-highly-/1413950667441659/](https://www.facebook.com/thevoiceofsikkim/posts/-file-1-declassified-what-did-us-navy-pilots-actually-seeimagine-youre-a-highly-/1413950667441659/)  
+   Link: <a href="https://www.facebook.com/thevoiceofsikkim/posts/-file-1-declassified-what-did-us-navy-pilots-actually-seeimagine-youre-a-highly-/1413950667441659/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thevoiceofsikkim/posts/-file-1-declassified-what-did-us-navy-pilots-actually-seeimagine-youre-a-highly-/1413950667441659/</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TaskandPurpose/posts/footage-from-the-infamous-uss-nimitz-ufo-incidentwe-talked-to-the-pilot-about-wh/4010459435668667/](https://www.facebook.com/TaskandPurpose/posts/footage-from-the-infamous-uss-nimitz-ufo-incidentwe-talked-to-the-pilot-about-wh/4010459435668667/)  
+   Link: <a href="https://www.facebook.com/TaskandPurpose/posts/footage-from-the-infamous-uss-nimitz-ufo-incidentwe-talked-to-the-pilot-about-wh/4010459435668667/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TaskandPurpose/posts/footage-from-the-infamous-uss-nimitz-ufo-incidentwe-talked-to-the-pilot-about-wh/4010459435668667/</a>  
 
 35. <a id="endnote-35"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ewcjxr/former_nimitz_chief_radar_officer_kevin_day_calls/](https://www.reddit.com/r/UFOs/comments/1ewcjxr/former_nimitz_chief_radar_officer_kevin_day_calls/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ewcjxr/former_nimitz_chief_radar_officer_kevin_day_calls/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ewcjxr/former_nimitz_chief_radar_officer_kevin_day_calls/</a>  
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/former-us-navy-commander-david-fravor-describes-the-tick-tac-incident-all-four-o/302441378829553/](https://www.facebook.com/NewsNationNow/posts/former-us-navy-commander-david-fravor-describes-the-tick-tac-incident-all-four-o/302441378829553/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/former-us-navy-commander-david-fravor-describes-the-tick-tac-incident-all-four-o/302441378829553/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/former-us-navy-commander-david-fravor-describes-the-tick-tac-incident-all-four-o/302441378829553/</a>  
 
 37. <a id="endnote-37"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/778056977/Glowing-Auras-and-Black-Money-the-Pentagon-s-Mysterious-U-F-O-Program-The-New-York-Times](https://www.scribd.com/document/778056977/Glowing-Auras-and-Black-Money-the-Pentagon-s-Mysterious-U-F-O-Program-The-New-York-Times)  
+   Link: <a href="https://www.scribd.com/document/778056977/Glowing-Auras-and-Black-Money-the-Pentagon-s-Mysterious-U-F-O-Program-The-New-York-Times" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/778056977/Glowing-Auras-and-Black-Money-the-Pentagon-s-Mysterious-U-F-O-Program-The-New-York-Times</a>  
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SpaceLaneInfo/posts/in-an-explosive-statement-former-nsa-chief-eric-haseltine-has-gone-on-record-rev/1019365747726467/](https://www.facebook.com/SpaceLaneInfo/posts/in-an-explosive-statement-former-nsa-chief-eric-haseltine-has-gone-on-record-rev/1019365747726467/)  
+   Link: <a href="https://www.facebook.com/SpaceLaneInfo/posts/in-an-explosive-statement-former-nsa-chief-eric-haseltine-has-gone-on-record-rev/1019365747726467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpaceLaneInfo/posts/in-an-explosive-statement-former-nsa-chief-eric-haseltine-has-gone-on-record-rev/1019365747726467/</a>

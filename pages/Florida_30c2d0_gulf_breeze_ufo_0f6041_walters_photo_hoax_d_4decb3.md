@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /gulf-breeze/
 nav_short_title: Walters photos
 title: Did the Gulf Breeze photos hold up?
-title_full: Did the Gulf Breeze photos hold up? | Gulf Breeze
+title_full: Did the Gulf Breeze photos hold up?
 display_title_short: Walters photos
 display_title: Walters photos
 heading_title: Did the Gulf Breeze photos hold up?
@@ -200,15 +200,15 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:11:36'
-parent_title: Unpacking the Gulf Breeze UFO Controversy | FloridaUFOs
+parent_title: Unpacking the Gulf Breeze UFO Controversy
 parent_permalink: /gulf-breeze/
 parent_nav_short_title: Gulf Breeze
 parent_heading_title: Unpacking the Gulf Breeze UFO Controversy
 ancestor_links:
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Florida_30c2d0_gulf_breeze_ufo_0f6041
   title: Gulf Breeze | What Makes Florida a Hotspot for UFO Sightings?
   permalink: /gulf-breeze/
@@ -216,9 +216,9 @@ ancestor_links:
   heading_title: Unpacking the Gulf Breeze UFO Controversy
 breadcrumb_links:
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Florida_30c2d0_gulf_breeze_ufo_0f6041
   title: Gulf Breeze | What Makes Florida a Hotspot for UFO Sightings?
   permalink: /gulf-breeze/
@@ -250,10 +250,9 @@ image: /assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_walters_photo_hoax_d
 
 ## Introduction
 
-The [Gulf Breeze]({{ 'gulf-breeze/' | relative_url }}) UFO story became nationally famous because of a series of photographs taken by local contractor Ed Walters in 1987 and 1988. For many believers, the images looked unusually clear compared with earlier UFO photography: a structured disc-shaped object hovering over roads, houses and trees in suburban [Florida]({{ 'what-makes-florida-a-hotspot-for-ufo/' | relative_url }}). For sceptics, the same clarity made the case look staged from the beginning. The dispute eventually centred on one question more than any other: were Walters’ photographs evidence of something genuinely unexplained, or a carefully constructed hoax?
+The [Gulf Breeze]({{ 'gulf-breeze/' | relative_url }}) UFO story became nationally famous because of a series of photographs taken by local contractor Ed Walters in 1987 and 1988. For many believers, the images looked unusually clear compared with earlier UFO photography: a structured disc-shaped object hovering over roads, houses and trees in suburban Florida. For sceptics, the same clarity made the case look staged from the beginning. The dispute eventually centred on one question more than any other: were Walters’ photographs evidence of something genuinely unexplained, or a carefully constructed hoax?
 
-
-<img src="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_walters_photo_hoax_d_4decb3-Illustration-1-light.svg" | relative_url }}" alt="Walters photos illustration 1" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_walters_photo_hoax_d_4decb3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_walters_photo_hoax_d_4decb3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_walters_photo_hoax_d_4decb3-Illustration-1-dark.svg" | relative_url }}" alt="Walters photos illustration 1" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_walters_photo_hoax_d_4decb3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_walters_photo_hoax_d_4decb3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That argument intensified in 1990 when a small model resembling the photographed craft was discovered in the attic of Walters’ former home. Reporters then recreated images that looked strikingly similar to the original Polaroids. The discovery split UFO researchers, damaged the credibility of the Gulf Breeze case in mainstream media, and turned Walters’ photographs into one of the most argued-over pieces of UFO evidence in Florida history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pensacolabeach.com/the-gulf-breeze-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pensacolabeach.com">[PensacolaBeach.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pensacolabeach.com</span><span class="citation-popover-title">the gulf breeze ufo incident</span><span class="citation-popover-snippet">In 1990, after Walters and his family had moved, the new owners of their house discovered a styrofoam model UFO hidden in the attic. Myer...</span></span></span>
 
 ## What Walters claimed to photograph
@@ -263,7 +262,6 @@ Ed Walters said the encounters began on 11 November 1987 near his home in Gulf B
 The photographs quickly became the centrepiece of the entire Gulf Breeze flap. Unlike distant lights in the sky, Walters’ images appeared to show a structured craft with visible details, illuminated windows and a metallic surface. The local newspaper, the *Gulf Breeze Sentinel*, published the images prominently, at first identifying Walters only through pseudonyms such as “Mr. X” because he said he feared ridicule. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gulf Breeze UFO incident</span><span class="citation-popover-snippet">Gulf Breeze UFO incident</span></span></span>
 
 Several features made the photos especially influential at the time:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -278,8 +276,7 @@ The photographs attracted major attention within civilian UFO organisations, esp
 
 At the same time, critics argued that the photographs looked almost too cinematic. The object’s shape resembled a classic flying saucer design popular in films and television during the 1970s and 1980s, and sceptics questioned why such dramatic encounters produced no independent radar confirmation or clear corroborating physical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2U69Gn2rTS0" title="UFO Hunters: ALIEN SPACECRAFT SIGHTED IN FLORIDA (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2U69Gn2rTS0" target="_blank" rel="noopener noreferrer">UFO Hunters: ALIEN SPACECRAFT SIGHTED IN FLORIDA (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 224.8K &middot; Uploaded: November 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2U69Gn2rTS0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2U69Gn2rTS0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UKrhc4NyNMk" title="Is This the Best UFO Photo Ever Taken? - The Gulf Breeze UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UKrhc4NyNMk" target="_blank" rel="noopener noreferrer">Is This the Best UFO Photo Ever Taken? - The Gulf Breeze UFO</a></p><p class="youtube-embed-meta">Channel: This Paranormal Life &middot; Views: 4.6K &middot; Uploaded: August 2025 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UKrhc4NyNMk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UKrhc4NyNMk">Open on YouTube</a></p></div></div></div>
 
 ## Why the photographs impressed some investigators
 
@@ -290,7 +287,6 @@ Bruce Maccabee and other pro-UFO investigators argued that some photographic cha
 Supporters also pointed to the wider social environment around Gulf Breeze. After publication of the photos, many residents claimed sightings of lights or unusual aerial objects over Pensacola Bay and surrounding roads. Some believers argued that the volume of reports made it unlikely that Walters had invented the entire phenomenon himself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</span></span></span>
 
 Within UFO culture, Gulf Breeze became an important symbolic case because it seemed to combine several elements rarely found together:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -304,8 +300,7 @@ Within UFO culture, Gulf Breeze became an important symbolic case because it see
 
 For a period, the photographs were treated by some UFO researchers as among the strongest civilian UFO images ever produced in the United States. Walters and his wife Frances later published *The Gulf Breeze Sightings*, a bestselling UFO book built heavily around the images themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/The_Gulf_Breeze_Sightings.html?id=Z7T4Lj4Jq_kC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-snippet">Google BooksThe Gulf Breeze SightingsHere, two witnesses give an absolutely riveting first-person account of the Gulf Breeze UFO sighting...</span></span></span>
 
-
-<img src="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_walters_photo_hoax_d_4decb3-Illustration-2-light.svg" | relative_url }}" alt="Walters photos illustration 2" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_walters_photo_hoax_d_4decb3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_walters_photo_hoax_d_4decb3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_walters_photo_hoax_d_4decb3-Illustration-2-dark.svg" | relative_url }}" alt="Walters photos illustration 2" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_walters_photo_hoax_d_4decb3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_walters_photo_hoax_d_4decb3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the attic model changed the case
 
 The controversy changed dramatically in 1990. After Walters and his family moved away, the new owners of the house reportedly found a small model hidden under insulation in the attic. According to reporting by the *Pensacola News Journal*, the object resembled the UFO shown in Walters’ photographs and appeared to be constructed from styrofoam plates, drafting paper and other lightweight materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</span></span></span>
@@ -324,7 +319,6 @@ Long before the attic model appeared, critics had already questioned the technic
 
 Common sceptical arguments included:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Lighting inconsistencies:** Critics claimed the highlights and reflections on the object did not always match the surrounding environment.
@@ -341,8 +335,7 @@ Financial questions added further controversy. News reports stated that Walters 
 
 The dispute became deeply personal inside the UFO research community. According to later reporting, some investigators who concluded the photographs were fraudulent faced hostility from believers who felt Gulf Breeze was being unfairly attacked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pJzLKIqp-3w" title="Revisiting The Gulf Breeze UFO Sightings || A YouTube Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pJzLKIqp-3w" target="_blank" rel="noopener noreferrer">Revisiting The Gulf Breeze UFO Sightings || A YouTube Documentary</a></p><p class="youtube-embed-meta">Channel: Holden &amp; Jen Hardman &middot; Views: 281.1K &middot; Uploaded: June 2021 &middot; Length: 1 hour 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pJzLKIqp-3w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pJzLKIqp-3w">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2U69Gn2rTS0" title="UFO Hunters: ALIEN SPACECRAFT SIGHTED IN FLORIDA (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2U69Gn2rTS0" target="_blank" rel="noopener noreferrer">UFO Hunters: ALIEN SPACECRAFT SIGHTED IN FLORIDA (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 224.8K &middot; Uploaded: November 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2U69Gn2rTS0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2U69Gn2rTS0">Open on YouTube</a></p></div></div></div>
 
 ## Did any part of the case survive the hoax allegations?
 
@@ -351,7 +344,6 @@ One reason Gulf Breeze remains discussed decades later is that the attic model d
 That distinction is important in Florida UFO history. The wider Gulf Breeze flap involved many witnesses, but Walters’ photographs became the public face of the phenomenon. Once the images lost credibility, the broader case also suffered because so much attention had centred on a single highly visible witness.
 
 Believers who still defend Walters usually focus on three points:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -363,8 +355,7 @@ Believers who still defend Walters usually focus on three points:
 
 Most mainstream observers, however, came to the opposite conclusion after 1990. The combination of the attic model, successful recreations of the images, and inconsistencies identified by analysts convinced many journalists and investigators that the photographs were staged. By the early 1990s, Gulf Breeze had become as famous for alleged UFO fakery as for the sightings themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/archives/la-xpm-1990-08-06-vw-117-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times Strange encounters aren&#x27;t unusual in one small town</span><span class="citation-popover-snippet">But...6 Aug 1990 — Flights of Fancy or UFOs?: Space: Strange encounters aren&#x27;t unusual in one small town. But mere mortals, not aliens...</span></span></span>
 
-
-<img src="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_walters_photo_hoax_d_4decb3-Illustration-3-light.svg" | relative_url }}" alt="Walters photos illustration 3" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_walters_photo_hoax_d_4decb3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_walters_photo_hoax_d_4decb3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_walters_photo_hoax_d_4decb3-Illustration-3-dark.svg" | relative_url }}" alt="Walters photos illustration 3" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_walters_photo_hoax_d_4decb3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_gulf_breeze_ufo_0f6041_walters_photo_hoax_d_4decb3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Walters dispute still matters in Florida UFO history
 
 The Ed Walters photographs remain one of the best-known UFO controversies ever associated with Florida because they sit directly at the intersection of belief, media amplification and photographic evidence. The case showed how quickly a local sighting story could become a national phenomenon once dramatic images entered circulation.
@@ -373,9 +364,7 @@ It also became a cautionary example inside UFO research. Supporters viewed Gulf 
 
 Even today, the Gulf Breeze photographs are still referenced in debates about UFO evidence because they encapsulate a recurring problem in the field: highly persuasive imagery can dominate public attention long before investigators determine whether it is authentic. In Gulf Breeze, the attic model changed the meaning of the entire episode. What had once been promoted as unusually strong photographic evidence became, for many observers, one of the most famous alleged UFO hoaxes in modern American history.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UKrhc4NyNMk" title="Is This the Best UFO Photo Ever Taken? - The Gulf Breeze UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UKrhc4NyNMk" target="_blank" rel="noopener noreferrer">Is This the Best UFO Photo Ever Taken? - The Gulf Breeze UFO</a></p><p class="youtube-embed-meta">Channel: This Paranormal Life &middot; Views: 4.6K &middot; Uploaded: August 2025 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UKrhc4NyNMk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UKrhc4NyNMk">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pJzLKIqp-3w" title="Revisiting The Gulf Breeze UFO Sightings || A YouTube Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pJzLKIqp-3w" target="_blank" rel="noopener noreferrer">Revisiting The Gulf Breeze UFO Sightings || A YouTube Documentary</a></p><p class="youtube-embed-meta">Channel: Holden &amp; Jen Hardman &middot; Views: 281.1K &middot; Uploaded: June 2021 &middot; Length: 1 hour 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pJzLKIqp-3w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pJzLKIqp-3w">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -463,7 +452,7 @@ Even today, the Gulf Breeze photographs are still referenced in debates about UF
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -473,111 +462,36 @@ Even today, the Gulf Breeze photographs are still referenced in debates about UF
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display"><img src="{{ '/assets/images/marketplace-covers/27c78e3de724e607809d.jpg' | relative_url }}" alt="Listing image for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-gulf-breeze-photos-hold-up-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="did-the-gulf-breeze-photos-hold-up-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Wanda Ventham 16x12 Photo Poster Print"><img src="https://i.ebayimg.com/images/g/VCQAAeSwhdFpfis3/s-l225.jpg" alt="Listing image for UFO (TV) Wanda Ventham 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-gulf-breeze-photos-hold-up-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="did-the-gulf-breeze-photos-hold-up-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Wanda Ventham 16x12 Photo Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-gulf-breeze-photos-hold-up-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="did-the-gulf-breeze-photos-hold-up-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT"><img src="{{ '/assets/images/marketplace-covers/c4fa2fd111d52b7bddcf.jpg' | relative_url }}" alt="Listing image for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-gulf-breeze-photos-hold-up-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="did-the-gulf-breeze-photos-hold-up-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -585,15 +499,15 @@ Even today, the Gulf Breeze photographs are still referenced in debates about UF
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-gulf-breeze-photos-hold-up-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="did-the-gulf-breeze-photos-hold-up-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Georgina Moon 16x12 Photo Poster Print"><img src="https://i.ebayimg.com/images/g/UEIAAeSwwiBpfisy/s-l225.jpg" alt="Listing image for UFO (TV) Georgina Moon 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-gulf-breeze-photos-hold-up-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="did-the-gulf-breeze-photos-hold-up-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Georgina Moon 16x12 Photo Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-gulf-breeze-photos-hold-up-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="did-the-gulf-breeze-photos-hold-up-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-gulf-breeze-photos-hold-up-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="did-the-gulf-breeze-photos-hold-up-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -601,15 +515,15 @@ Even today, the Gulf Breeze photographs are still referenced in debates about UF
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia"><img src="{{ '/assets/images/marketplace-covers/ecc3da59eb1d0848e57f.jpg' | relative_url }}" alt="Listing image for UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-gulf-breeze-photos-hold-up-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="did-the-gulf-breeze-photos-hold-up-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing"><img src="https://i.ebayimg.com/images/g/32IAAOSw9xxlxgox/s-l225.jpg" alt="Listing image for UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO &amp; Outlaws 1981 San Antonio Concert Backstage Pass Music Memorabilia</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-gulf-breeze-photos-hold-up-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="did-the-gulf-breeze-photos-hold-up-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">UFO DIGITAL ART PRINT A4 Gerry Anderson UK TV 1970s from my original drawing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-gulf-breeze-photos-hold-up-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="did-the-gulf-breeze-photos-hold-up-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-gulf-breeze-photos-hold-up-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="did-the-gulf-breeze-photos-hold-up-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -617,15 +531,15 @@ Even today, the Gulf Breeze photographs are still referenced in debates about UF
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-gulf-breeze-photos-hold-up-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="did-the-gulf-breeze-photos-hold-up-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif"><img src="https://i.ebayimg.com/images/g/OVcAAeSwNeVouauL/s-l225.jpg" alt="Listing image for McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-gulf-breeze-photos-hold-up-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="did-the-gulf-breeze-photos-hold-up-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">McMinnville UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gif</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-gulf-breeze-photos-hold-up-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="did-the-gulf-breeze-photos-hold-up-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo photo print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-gulf-breeze-photos-hold-up-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="did-the-gulf-breeze-photos-hold-up-ufo-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -633,7 +547,7 @@ Even today, the Gulf Breeze photographs are still referenced in debates about UF
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=walters-photos-did-the-gulf-breeze-photos-hold-up-florida-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-gulf-breeze-photos-hold-up-ufo-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo photo print" data-ebay-reference="did-the-gulf-breeze-photos-hold-up-ufo-photo-print" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -710,17 +624,31 @@ Even today, the Gulf Breeze photographs are still referenced in debates about UF
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -733,42 +661,73 @@ Even today, the Gulf Breeze photographs are still referenced in debates about UF
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -783,12 +742,17 @@ Even today, the Gulf Breeze photographs are still referenced in debates about UF
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -799,104 +763,104 @@ Even today, the Gulf Breeze photographs are still referenced in debates about UF
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Gulf Breeze UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident](https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gulf_Breeze_UFO_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: pensacolabeach.com  
    Title: the gulf breeze ufo incident  
-   Link: [https://pensacolabeach.com/the-gulf-breeze-ufo-incident/](https://pensacolabeach.com/the-gulf-breeze-ufo-incident/)  
+   Link: <a href="https://pensacolabeach.com/the-gulf-breeze-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://pensacolabeach.com/the-gulf-breeze-ufo-incident/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1990, after Walters and his family had moved, the new owners of their house discovered a styrofoam model UFO hidden in the attic. Myer...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ufospensacolabeach.com  
-   Link: [https://www.ufospensacolabeach.com/the-ufo-incident/](https://www.ufospensacolabeach.com/the-ufo-incident/)  
+   Link: <a href="https://www.ufospensacolabeach.com/the-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufospensacolabeach.com/the-ufo-incident/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 1, 1988, Walters reported feeling the alien presence while he was at Shoreline Park after midnight, saw the UFO and took a photo of i...</p></details>
    Published: May 1, 1988  
 
 4. <a id="endnote-4"></a>
    Source: books.google.com  
-   Link: [https://books.google.com/books/about/The_Gulf_Breeze_Sightings.html?id=Z7T4Lj4Jq_kC](https://books.google.com/books/about/The_Gulf_Breeze_Sightings.html?id=Z7T4Lj4Jq_kC)  
+   Link: <a href="https://books.google.com/books/about/The_Gulf_Breeze_Sightings.html?id=Z7T4Lj4Jq_kC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Gulf_Breeze_Sightings.html?id=Z7T4Lj4Jq_kC</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksThe Gulf Breeze SightingsHere, two witnesses give an absolutely riveting first-person account of the Gulf Breeze UFO sighting...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Ufology](https://en.wikipedia.org/wiki/Ufology)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ufology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ufology</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology - WikipediaThe Gulf Breeze UFO Incident - PensacolaBeach.com...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: latimes.com  
    Title: Los Angeles Times Strange encounters aren't unusual in one small town  
-   Link: [https://www.latimes.com/archives/la-xpm-1990-08-06-vw-117-story.html](https://www.latimes.com/archives/la-xpm-1990-08-06-vw-117-story.html)  
+   Link: <a href="https://www.latimes.com/archives/la-xpm-1990-08-06-vw-117-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1990-08-06-vw-117-story.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>But...6 Aug 1990 — Flights of Fancy or UFOs?: Space: Strange encounters aren&#x27;t unusual in one small town. But mere mortals, not aliens...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: thegumbodiaries.wordpress.com  
    Title: ed walters  
-   Link: [https://thegumbodiaries.wordpress.com/tag/ed-walters/](https://thegumbodiaries.wordpress.com/tag/ed-walters/)  
+   Link: <a href="https://thegumbodiaries.wordpress.com/tag/ed-walters/" target="_blank" rel="noopener noreferrer nofollow">https://thegumbodiaries.wordpress.com/tag/ed-walters/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Walters | The Gumbo Diaries3 Apr 2021 — UFOs lure literary travelers to Pensacola Beach &amp; Gulf Breeze. Note the alien peeking out the bac...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Gulf Breeze UFO  
-   Link: [https://unsolvedmysteries.fandom.com/wiki/Gulf_Breeze_UFO](https://unsolvedmysteries.fandom.com/wiki/Gulf_Breeze_UFO)  
+   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Gulf_Breeze_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Gulf_Breeze_UFO</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In one video, the UFO is shown flying on the other side of the windscreens facing Ed&#x27;s backyard. The UFO was...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Is This the Best UFO Photo Ever Taken?  
-   Link: [https://www.youtube.com/watch?v=UKrhc4NyNMk](https://www.youtube.com/watch?v=UKrhc4NyNMk)  
+   Link: <a href="https://www.youtube.com/watch?v=UKrhc4NyNMk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UKrhc4NyNMk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gulf Breeze UFOThe story goes that there were a series of UFO sightings witnessed by over 200 people and were even photographed by a...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/dotvm6/the_gulf_breeze_sightings_a_series_of_ufo/](https://www.reddit.com/r/UFOs/comments/dotvm6/the_gulf_breeze_sightings_a_series_of_ufo/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/dotvm6/the_gulf_breeze_sightings_a_series_of_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/dotvm6/the_gulf_breeze_sightings_a_series_of_ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A series of UFO sightings in Gulf Breeze, FloridaEd Walters did not take just a couple of pictures. He took a very large number of pictur...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/TheWhyFiles/comments/16ry6o8/the_gulf_breeze_sightings_ed_walters/](https://www.reddit.com/r/TheWhyFiles/comments/16ry6o8/the_gulf_breeze_sightings_ed_walters/)  
+   Link: <a href="https://www.reddit.com/r/TheWhyFiles/comments/16ry6o8/the_gulf_breeze_sightings_ed_walters/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheWhyFiles/comments/16ry6o8/the_gulf_breeze_sightings_ed_walters/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gulf Breeze Sightings / Ed Walter&#x27;s: r/TheWhyFilesIn the attic they found a model UFO made with paper plates. Either the original or...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/pensacolabeachinfo/posts/the-gulf-breeze-ufo-incident-was-a-series-of-claimed-ufo-sightings-in-gulf-breez/1192152426245698/](https://www.facebook.com/pensacolabeachinfo/posts/the-gulf-breeze-ufo-incident-was-a-series-of-claimed-ufo-sightings-in-gulf-breez/1192152426245698/)  
+   Link: <a href="https://www.facebook.com/pensacolabeachinfo/posts/the-gulf-breeze-ufo-incident-was-a-series-of-claimed-ufo-sightings-in-gulf-breez/1192152426245698/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pensacolabeachinfo/posts/the-gulf-breeze-ufo-incident-was-a-series-of-claimed-ufo-sightings-in-gulf-breez/1192152426245698/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gulf Breeze UFO incident was a series of claimed...@Huntington_Strange_Travels #StrangeTravels #MichaelHuntington #GulfBreezeSightin...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/693950514135723/posts/2790905547773532/](https://www.facebook.com/groups/693950514135723/posts/2790905547773532/)  
+   Link: <a href="https://www.facebook.com/groups/693950514135723/posts/2790905547773532/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/693950514135723/posts/2790905547773532/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Gulf BreezeI remember looking up in the sky at searching for this thing. Caught up in the hype, I even thought I saw som...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pJzLKIqp-3w](https://www.youtube.com/watch?v=pJzLKIqp-3w)  
+   Link: <a href="https://www.youtube.com/watch?v=pJzLKIqp-3w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pJzLKIqp-3w</a>  
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOB/comments/15banz8/anyone_have_more_context_about_this_uap_that_is/](https://www.reddit.com/r/UFOB/comments/15banz8/anyone_have_more_context_about_this_uap_that_is/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/15banz8/anyone_have_more_context_about_this_uap_that_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/15banz8/anyone_have_more_context_about_this_uap_that_is/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pretty widely accepted to be fake. It was claimed that the model of it was found in the attic if...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: grunge.com  
    Title: decades later the gulf breeze ufo incident remains an unsolved mystery  
-   Link: [https://www.grunge.com/1086775/decades-later-the-gulf-breeze-ufo-incident-remains-an-unsolved-mystery/](https://www.grunge.com/1086775/decades-later-the-gulf-breeze-ufo-incident-remains-an-unsolved-mystery/)  
+   Link: <a href="https://www.grunge.com/1086775/decades-later-the-gulf-breeze-ufo-incident-remains-an-unsolved-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/1086775/decades-later-the-gulf-breeze-ufo-incident-remains-an-unsolved-mystery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Decades Later, The Gulf Breeze UFO Incident Remains An...4 Nov 2022 — According to the Pensacola News Journal, Ed Walters&#x27; encounter was...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/wp0dw9/a_review_of_the_photographic_evidence_in_the_gulf/](https://www.reddit.com/r/ufo/comments/wp0dw9/a_review_of_the_photographic_evidence_in_the_gulf/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/wp0dw9/a_review_of_the_photographic_evidence_in_the_gulf/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/wp0dw9/a_review_of_the_photographic_evidence_in_the_gulf/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>photos from the book The Gulf Breeze Sightings taken by its author, Ed Walters.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: UFO Hunters: ALIEN SPACECRAFT SIGHTED IN FLORIDA (Season 2) | History  
-   Link: [https://www.youtube.com/watch?v=2U69Gn2rTS0](https://www.youtube.com/watch?v=2U69Gn2rTS0)  
+   Link: <a href="https://www.youtube.com/watch?v=2U69Gn2rTS0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2U69Gn2rTS0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This video is highly relevant because it features a classic 1991 investigative report on Ed Walters&#x27; photographs and the surrounding publ...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: easternsierranow.com  
    Title: beyond the beyond gulf breeze ufo photos  
-   Link: [https://www.easternsierranow.com/beyond-the-beyond-gulf-breeze-ufo-photos/](https://www.easternsierranow.com/beyond-the-beyond-gulf-breeze-ufo-photos/)  
+   Link: <a href="https://www.easternsierranow.com/beyond-the-beyond-gulf-breeze-ufo-photos/" target="_blank" rel="noopener noreferrer nofollow">https://www.easternsierranow.com/beyond-the-beyond-gulf-breeze-ufo-photos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond the Beyond: The Gulf Breeze UFO Photos16 Jul 2024 — The one we practically wore out was simply titled “UFOs.” In the pages of this...</p></details>

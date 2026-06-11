@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /massachusetts-d42990-salem-1952-photo/
 description: Focused pages that expand on Salem Photo.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Massachusetts_d42990_salem_1952_photo_720dfc
-parent_title: Salem Photo | What Really Happened in Massachusetts Skies?
+parent_title: Salem Photo
 parent_nav_short_title: Salem Photo
 parent_permalink: /salem-photo/
 ---

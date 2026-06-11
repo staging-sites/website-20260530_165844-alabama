@@ -258,7 +258,7 @@ sibling_links:
   short_title: Michigan UFOs
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Alabama_d1f92d
   title: Alabama UFOs
@@ -273,9 +273,9 @@ sibling_links:
   permalink: /what-keeps-tennessees-ufo-stories-alive/
   short_title: Tennessee UFOs
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Idaho_18334c
   title: Idaho UFOs
   permalink: /what-makes-idaho-a-key-ufo-hotspot/
@@ -285,9 +285,9 @@ sibling_links:
   permalink: /what-makes-indianas-ufo-history-unique/
   short_title: Indiana UFOs
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: South_Carolina_11d001
   title: South Carolina UFOs
   permalink: /what-makes-south-carolinas-ufo-story/
@@ -481,9 +481,8 @@ image: /assets/images/Maryland_1ac107-overview-social.jpg
 
 Maryland is a small state, but it contains several ingredients that make UFO reports unusually visible. It borders Washington, DC, includes busy aviation corridors, has military and naval facilities, and contains a long coastline and bay region where lights over water can be hard to interpret. The National UFO Reporting Center’s state index currently lists just under 2,000 Maryland reports, which is not enough by itself to prove anything extraordinary, but it does show a sustained reporting culture rather than a handful of isolated anecdotes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
-
 <img src="{{ "/assets/images/Maryland_1ac107-overview.webp" | relative_url }}" alt="Overview image for Maryland’s UFO Mysteries: Close Encounters..." loading="eager" decoding="sync" fetchpriority="high">
-The pattern is also urban and coastal rather than purely rural. A 2025 Stacker analysis of National UFO Reporting Center data found Baltimore far ahead of other Maryland cities in listed reports, followed by Ocean City, Annapolis, Frederick, Hagerstown, Rockville, Gaithersburg, Silver Spring, Bel Air and Columbia. That ranking should not be read as a scientific map of “where UFOs are”, because it reflects population, reporting habits, light pollution, tourism, and database inclusion rules. It is still useful for showing where Maryland’s modern witness narratives cluster: around the Baltimore-Washington corridor, the Chesapeake region, and the Atlantic coast. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacker.com/stories/maryland/cities-most-ufo-sightings-maryland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Maryland | Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Maryland | Stacker</span></span></span>
+The pattern is also urban and coastal rather than purely rural. A 2025 Stacker analysis of National UFO Reporting Center data found Baltimore far ahead of other Maryland cities in listed reports, followed by Ocean City, Annapolis, Frederick, Hagerstown, Rockville, Gaithersburg, Silver Spring, Bel Air and Columbia. That ranking should not be read as a scientific map of “where UFOs are”, because it reflects population, reporting habits, light pollution, tourism, and database inclusion rules. It is still useful for showing where Maryland’s modern witness narratives cluster: around the Baltimore-Washington corridor, the Chesapeake region, and the Atlantic coast. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stacker.com/stories/maryland/cities-most-ufo-sightings-maryland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">Cities With the Most UFO Sightings in Maryland &#124; Stacker</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Maryland &#124; Stacker</span></span></span>
 
 The state’s UFO history is strongest when individual reports can be tied to dated records, named places, official response, or later explanation. It is weakest when a report is just a brief database entry describing a light, triangle, orb or fireball without photographs, radar data, weather context, aircraft checks or witness follow-up. That distinction matters because Maryland has both kinds: a few cases with enough detail to stay interesting, and many routine reports that remain “unidentified” mainly because nobody had enough information to identify them.
 
@@ -497,8 +496,7 @@ The doubts are just as important. The case depends heavily on witness testimony.
 
 Its endurance also comes from place. Loch Raven is not an abstract dot on a map; it is a reservoir, road and bridge landscape familiar to Baltimore-area residents. That has helped the case stay alive in local memory. The result is a story that sits between archive and folklore: documented enough to be more than a rumour, but not evidenced enough to settle.
 
-
-<img src="{{ "/assets/images/Maryland_1ac107-Illustration-1-light.svg" | relative_url }}" alt="Maryland’s UFO Mysteries: Close Encounters... illustration 1" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maryland_1ac107-Illustration-1-dark.svg" | relative_url }}" alt="Maryland’s UFO Mysteries: Close Encounters... illustration 1" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1952 Washington radar flap and Maryland’s role
 
 Maryland’s other major connection to classic UFO history comes through the 1952 Washington, DC sightings. Although the public label often says “Washington”, the episode involved radar scopes and military response around the capital region, including Andrews Air Force Base in Maryland. CIA historian Gerald Haines described the 1952 wave as alarming to the Truman administration, noting that radar scopes at Washington National Airport and Andrews tracked mysterious blips on 19–20 July, and that the blips appeared again on 27 July. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -508,7 +506,6 @@ This case matters for Maryland because it connects local airspace to a national 
 The leading sceptical explanation for the Washington radar returns was [temperature inversion]({{ 'temperature-inversion/' | relative_url }}): a weather condition in which layers of air can bend radar signals and create misleading returns. Contemporary and later sceptics also pointed to misidentified stars, meteors, city lights and early radar limitations. UFO advocates have objected that experienced radar operators believed some targets behaved like solid objects, and that visual reports were not all neatly dismissed. That disagreement is exactly why the case remains historically important: it shows how radar can strengthen a UFO claim while also opening a second line of doubt about sensors, interpretation and atmospheric effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
 
 For a Maryland-focused history, Andrews is the key anchor. It places the state inside one of the most famous American UFO waves and shows how local military infrastructure can turn a strange sighting into a federal problem. It also offers a caution that applies to many later Maryland reports: proximity to military or federal facilities increases the stakes of an observation, but it does not automatically make the unknown object extraordinary.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dH4Q9CGJ9Qc" title="Hundreds in Maryland report UFO sightings as Congress, NASA investigate, push for transparency" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dH4Q9CGJ9Qc" target="_blank" rel="noopener noreferrer">Hundreds in Maryland report UFO sightings as Congress, NASA investigate, push for transparency</a></p><p class="youtube-embed-meta">Channel: WJZ &middot; Views: 435.3K &middot; Uploaded: October 2023 &middot; Length: 3 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dH4Q9CGJ9Qc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dH4Q9CGJ9Qc">Open on YouTube</a></p></div></div></div>
 
@@ -522,8 +519,7 @@ Modern federal reviews reinforce that distinction. AARO’s historical report sa
 
 For readers, the practical takeaway is simple. A Maryland report is strongest when it has multiple independent witnesses, precise time and location, weather information, aircraft checks, radar or sensor data, original documents and prompt reporting. It is weakest when it is a brief memory reported years later, a single light seen at night, or a social media clip without enough context to estimate distance, speed or size.
 
-
-<img src="{{ "/assets/images/Maryland_1ac107-Illustration-2-light.svg" | relative_url }}" alt="Maryland’s UFO Mysteries: Close Encounters... illustration 2" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maryland_1ac107-Illustration-2-dark.svg" | relative_url }}" alt="Maryland’s UFO Mysteries: Close Encounters... illustration 2" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Modern Maryland reports: more data, but not always better evidence
 
 Maryland still produces regular UFO and UAP reports. NUFORC’s Maryland page includes entries from the mid-1990s onwards and older events reported later, with shapes ranging from lights and circles to triangles, rectangles and unknown objects. These records are valuable as a public reporting archive, but they vary greatly in quality. Some entries are only a sentence or two; others are delayed by years; many lack independent verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lMD" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports for State MD</span><span class="citation-popover-snippet">Reports for State MD</span></span></span>
@@ -534,24 +530,21 @@ The rise in reports does not necessarily mean a rise in extraordinary events. It
 
 Recent drone concerns show the problem clearly. In December 2024, CBS Baltimore reported Maryland sightings during a wider north-eastern drone scare, including reports near Davidsonville and Calvert Cliffs. The same article quoted federal officials saying many reported sightings had not been corroborated and that many “drones” were likely lawfully operated manned aircraft. This is a modern version of an old pattern: witnesses can be sincere, officials may not have immediate answers, and later explanation may be partial rather than satisfying. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/baltimore/news/maryland-drone-sightings-hogan-harris-frustrated-federal-response-drones-mystery-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Maryland woman records &quot;bizarre&quot; large drones as federal response frustrates state leaders - CBS Baltimore...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2MhbJ6EUp08" title="Drone sightings reported across parts of Maryland" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2MhbJ6EUp08" target="_blank" rel="noopener noreferrer">Drone sightings reported across parts of Maryland</a></p><p class="youtube-embed-meta">Channel: WBAL-TV 11 Baltimore &middot; Views: 41.2K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2MhbJ6EUp08" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2MhbJ6EUp08">Open on YouTube</a></p></div></div></div>
 
 ## Military aircraft, drones and Maryland misidentifications
 
 Maryland’s military aviation connections are especially important because real aircraft can look unreal when seen out of context. Naval Air Station Patuxent River is a major example. In 2012, the Navy’s X-47B unmanned combat air system demonstrator was transported to Maryland for testing. Its batwing shape and covered movement on a flatbed truck triggered public “UFO” reactions along the route; ABC News reported that Maryland State Police received calls and that the object was in fact a military aircraft being taken to Patuxent River. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/blogs/headlines/2012/06/ufo-sighting-in-maryland-no-a-military-aircraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News UFO Sighting In Maryland? No, a Military Aircraft</span><span class="citation-popover-snippet">ABC News UFO Sighting In Maryland? No, a Military Aircraft</span></span></span>
 
-Wired’s on-site report from Naval Air Station Patuxent River captured why the confusion was understandable: the X-47B’s unusual shape, size and secrecy-adjacent appearance made it look like a science-fiction object, especially to people seeing it briefly or from a poor angle. This is one of the best Maryland examples of a fully explained “UFO” event. It did involve an unusual craft. It did involve public confusion. It was not unexplained once the aircraft and transport were identified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2012/07/x47b/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Exclusive Pics: The Navy&#x27;s Unmanned, Autonomous &#x27;UFO&#x27; | WIRED</span><span class="citation-popover-snippet">Exclusive Pics: The Navy&#x27;s Unmanned, Autonomous &#x27;UFO&#x27; | WIRED</span></span></span>
+Wired’s on-site report from Naval Air Station Patuxent River captured why the confusion was understandable: the X-47B’s unusual shape, size and secrecy-adjacent appearance made it look like a science-fiction object, especially to people seeing it briefly or from a poor angle. This is one of the best Maryland examples of a fully explained “UFO” event. It did involve an unusual craft. It did involve public confusion. It was not unexplained once the aircraft and transport were identified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2012/07/x47b/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Exclusive Pics: The Navy&#x27;s Unmanned, Autonomous &#x27;UFO&#x27; &#124; WIRED</span><span class="citation-popover-snippet">Exclusive Pics: The Navy&#x27;s Unmanned, Autonomous &#x27;UFO&#x27; &#124; WIRED</span></span></span>
 
 That kind of case is useful because it prevents false choices. A sighting can be strange, worth reporting and initially unidentified without being paranormal or extraterrestrial. It can involve real advanced technology without being alien technology. In Maryland, where military aviation, federal airspace and coastal testing environments overlap, that distinction is essential.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v6j9WxCwcT0" title="700 new cases were just found in the Pentagon&#x27;s UFO report, 21 of which the agency can&#x27;t explain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v6j9WxCwcT0" target="_blank" rel="noopener noreferrer">700 new cases were just found in the Pentagon&#x27;s UFO report, 21 of which the agency can&#x27;t explain</a></p><p class="youtube-embed-meta">Channel: WBFF FOX45 Baltimore &middot; Views: 2.3K &middot; Uploaded: November 2024 &middot; Length: 2 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v6j9WxCwcT0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v6j9WxCwcT0">Open on YouTube</a></p></div></div></div>
 
 ## How to judge a Maryland UFO claim
 
 A good Maryland UFO claim should be assessed by evidence, not by how dramatic it sounds. The following questions help separate stronger cases from weak ones:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -565,8 +558,7 @@ A good Maryland UFO claim should be assessed by evidence, not by how dramatic it
 
 NASA’s report is especially relevant here because it does not dismiss the subject as worthless. It argues that unknown aerial observations require better data, calibrated sensors, reproducible methods and open scientific discussion. That approach fits Maryland well: the state’s record contains interesting reports, but many lack the measurements needed to move from mystery to explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/Maryland_1ac107-Illustration-3-light.svg" | relative_url }}" alt="Maryland’s UFO Mysteries: Close Encounters... illustration 3" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maryland_1ac107-Illustration-3-dark.svg" | relative_url }}" alt="Maryland’s UFO Mysteries: Close Encounters... illustration 3" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Maryland’s UFO history really shows
 
 Maryland’s UFO history is best understood as a layered record rather than a single grand claim. Loch Raven remains the state’s signature unresolved close encounter. The 1952 Washington radar flap gives Maryland a role in one of the most consequential federal UFO episodes because of Andrews Air Force Base and capital-region air defence. Modern NUFORC reports show continuing public interest, especially around Baltimore, Ocean City, Annapolis and the Washington suburbs. At the same time, cases such as the X-47B demonstrate how unusual but human-made aircraft can generate convincing UFO reactions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/blogs/headlines/2012/06/ufo-sighting-in-maryland-no-a-military-aircraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News UFO Sighting In Maryland? No, a Military Aircraft</span><span class="citation-popover-snippet">ABC News UFO Sighting In Maryland? No, a Military Aircraft</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baltimoremagazine.com">[Baltimore Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baltimoremagazine.com</span><span class="citation-popover-title">ufo sightings in maryland</span><span class="citation-popover-snippet">ufo sightings in maryland</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[fas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Project on Government Secrecy
@@ -659,7 +651,7 @@ The honest conclusion is neither “nothing happened” nor “Maryland was visi
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -669,111 +661,36 @@ The honest conclusion is neither “nothing happened” nor “Maryland was visi
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -781,15 +698,15 @@ The honest conclusion is neither “nothing happened” nor “Maryland was visi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -797,15 +714,15 @@ The honest conclusion is neither “nothing happened” nor “Maryland was visi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -813,15 +730,15 @@ The honest conclusion is neither “nothing happened” nor “Maryland was visi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -829,7 +746,7 @@ The honest conclusion is neither “nothing happened” nor “Maryland was visi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=marylands-ufo-mysteries-close-encounters-maryland-s-ufo-mysteries-close-encounters-and-radar-rep-ufo-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="maryland-s-ufo-mysteries-close-encounters-and-radar-reports-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -906,17 +823,31 @@ The honest conclusion is neither “nothing happened” nor “Maryland was visi
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -929,42 +860,73 @@ The honest conclusion is neither “nothing happened” nor “Maryland was visi
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -979,12 +941,17 @@ The honest conclusion is neither “nothing happened” nor “Maryland was visi
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -995,254 +962,254 @@ The honest conclusion is neither “nothing happened” nor “Maryland was visi
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 3. <a id="endnote-3"></a>
    Source: stacker.com  
    Title: Cities With the Most UFO Sightings in Maryland | Stacker  
-   Link: [https://stacker.com/stories/maryland/cities-most-ufo-sightings-maryland](https://stacker.com/stories/maryland/cities-most-ufo-sightings-maryland)  
+   Link: <a href="https://stacker.com/stories/maryland/cities-most-ufo-sightings-maryland" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/maryland/cities-most-ufo-sightings-maryland</a>  
 
 4. <a id="endnote-4"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: [https://www.nicap.org/581026lochravendam_dir.htm](https://www.nicap.org/581026lochravendam_dir.htm)  
+   Link: <a href="https://www.nicap.org/581026lochravendam_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/581026lochravendam_dir.htm</a>  
 
 5. <a id="endnote-5"></a>
    Source: sgp.fas.org  
-   Link: [https://sgp.fas.org/library/ciaufo.html](https://sgp.fas.org/library/ciaufo.html)  
+   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: 1952 Washington, D.C. UFO incident  
-   Link: [https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident](https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
 
 7. <a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
    Title: Reports for State MD  
-   Link: [https://nuforc.org/subndx/?id=lMD](https://nuforc.org/subndx/?id=lMD)  
+   Link: <a href="https://nuforc.org/subndx/?id=lMD" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lMD</a>  
 
 9. <a id="endnote-9"></a>
    Source: cbsnews.com  
    Title: CBS News  
-   Link: [https://www.cbsnews.com/baltimore/news/maryland-ufo-uap-sightings-congress-nasa-investigation/](https://www.cbsnews.com/baltimore/news/maryland-ufo-uap-sightings-congress-nasa-investigation/)  
+   Link: <a href="https://www.cbsnews.com/baltimore/news/maryland-ufo-uap-sightings-congress-nasa-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/baltimore/news/maryland-ufo-uap-sightings-congress-nasa-investigation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteries in the Sky: Hundreds in Maryland report UFO sightings as Congress, NASA investigate, push for transparency - CBS Baltimore...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cbsnews.com  
    Title: CBS News  
-   Link: [https://www.cbsnews.com/baltimore/news/maryland-drone-sightings-hogan-harris-frustrated-federal-response-drones-mystery-ufo/](https://www.cbsnews.com/baltimore/news/maryland-drone-sightings-hogan-harris-frustrated-federal-response-drones-mystery-ufo/)  
+   Link: <a href="https://www.cbsnews.com/baltimore/news/maryland-drone-sightings-hogan-harris-frustrated-federal-response-drones-mystery-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/baltimore/news/maryland-drone-sightings-hogan-harris-frustrated-federal-response-drones-mystery-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Maryland woman records &quot;bizarre&quot; large drones as federal response frustrates state leaders - CBS Baltimore...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: wired.com  
    Title: Exclusive Pics: The Navy's Unmanned, Autonomous 'UFO' | WIRED  
-   Link: [https://www.wired.com/2012/07/x47b/](https://www.wired.com/2012/07/x47b/)  
+   Link: <a href="https://www.wired.com/2012/07/x47b/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2012/07/x47b/</a>  
 
 12. <a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 13. <a id="endnote-13"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 15. <a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=39907](https://nuforc.org/sighting/?id=39907)  
+   Link: <a href="https://nuforc.org/sighting/?id=39907" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=39907</a>  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=42174](https://nuforc.org/sighting/?id=42174)  
+   Link: <a href="https://nuforc.org/sighting/?id=42174" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=42174</a>  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=104920](https://nuforc.org/sighting/?id=104920)  
+   Link: <a href="https://nuforc.org/sighting/?id=104920" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=104920</a>  
 
 20. <a id="endnote-20"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=11880](https://nuforc.org/sighting/?id=11880)  
+   Link: <a href="https://nuforc.org/sighting/?id=11880" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=11880</a>  
 
 21. <a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=3538](https://nuforc.org/sighting/?id=3538)  
+   Link: <a href="https://nuforc.org/sighting/?id=3538" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=3538</a>  
 
 22. <a id="endnote-22"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 23. <a id="endnote-23"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=all](https://nuforc.org/subndx/?id=all)  
+   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Loch Raven Reservoir  
-   Link: [https://en.wikipedia.org/wiki/Loch_Raven_Reservoir](https://en.wikipedia.org/wiki/Loch_Raven_Reservoir)  
+   Link: <a href="https://en.wikipedia.org/wiki/Loch_Raven_Reservoir" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loch_Raven_Reservoir</a>  
 
 27. <a id="endnote-27"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings in the United States  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States</a>  
 
 28. <a id="endnote-28"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
 29. <a id="endnote-29"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
 30. <a id="endnote-30"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 31. <a id="endnote-31"></a>
    Source: archives.gov  
    Title: uap bulk download  
-   Link: [https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download](https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download)  
+   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
 
 32. <a id="endnote-32"></a>
    Source: prologue.blogs.archives.gov  
    Title: saucers over washington the history of project blue book  
-   Link: [https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/](https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
 
 33. <a id="endnote-33"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: project blue book looking to the film record  
-   Link: [https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/](https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/</a>  
 
 34. <a id="endnote-34"></a>
    Source: stacker.com  
    Title: see how many ufo sightings have occurred maryland  
-   Link: [https://stacker.com/stories/maryland/see-how-many-ufo-sightings-have-occurred-maryland](https://stacker.com/stories/maryland/see-how-many-ufo-sightings-have-occurred-maryland)  
+   Link: <a href="https://stacker.com/stories/maryland/see-how-many-ufo-sightings-have-occurred-maryland" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/maryland/see-how-many-ufo-sightings-have-occurred-maryland</a>  
 
 35. <a id="endnote-35"></a>
    Source: wired.com  
    Title: nasa ufos aliens report 2023  
-   Link: [https://www.wired.com/story/nasa-ufos-aliens-report-2023/](https://www.wired.com/story/nasa-ufos-aliens-report-2023/)  
+   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023/</a>  
 
 36. <a id="endnote-36"></a>
    Source: space.com  
    Title: pentagon ufo report reactions uap  
-   Link: [https://www.space.com/pentagon-ufo-report-reactions-uap](https://www.space.com/pentagon-ufo-report-reactions-uap)  
+   Link: <a href="https://www.space.com/pentagon-ufo-report-reactions-uap" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-report-reactions-uap</a>  
 
 37. <a id="endnote-37"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 38. <a id="endnote-38"></a>
    Source: archive.org  
    Title: 1965 01 8722696 Baltimore Maryland  
-   Link: [https://archive.org/details/1965-01-8722696-Baltimore-Maryland](https://archive.org/details/1965-01-8722696-Baltimore-Maryland)  
+   Link: <a href="https://archive.org/details/1965-01-8722696-Baltimore-Maryland" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/1965-01-8722696-Baltimore-Maryland</a>  
 
 39. <a id="endnote-39"></a>
    Source: history.navy.mil  
-   Link: [https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html](https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html)  
+   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/u/u2s-ufos-and-operation-blue-book.html</a>  
 
 40. <a id="endnote-40"></a>
    Source: baltimoremagazine.com  
    Title: ufo sightings in maryland  
-   Link: [https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/](https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/)  
+   Link: <a href="https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/" target="_blank" rel="noopener noreferrer nofollow">https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/</a>  
 
 41. <a id="endnote-41"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 42. <a id="endnote-42"></a>
    Source: abcnews.com  
    Title: ABC News UFO Sighting In Maryland? No, a Military Aircraft  
-   Link: [https://abcnews.com/blogs/headlines/2012/06/ufo-sighting-in-maryland-no-a-military-aircraft](https://abcnews.com/blogs/headlines/2012/06/ufo-sighting-in-maryland-no-a-military-aircraft)  
+   Link: <a href="https://abcnews.com/blogs/headlines/2012/06/ufo-sighting-in-maryland-no-a-military-aircraft" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/blogs/headlines/2012/06/ufo-sighting-in-maryland-no-a-military-aircraft</a>  
 
 43. <a id="endnote-43"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf](https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
 44. <a id="endnote-44"></a>
    Source: cbsnews.com  
    Title: maryland ufo sightings  
-   Link: [https://www.cbsnews.com/baltimore/news/maryland-ufo-sightings/](https://www.cbsnews.com/baltimore/news/maryland-ufo-sightings/)  
+   Link: <a href="https://www.cbsnews.com/baltimore/news/maryland-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/baltimore/news/maryland-ufo-sightings/</a>  
 
 45. <a id="endnote-45"></a>
    Source: cbsnews.com  
    Title: nasa ufo report uap study  
-   Link: [https://www.cbsnews.com/news/nasa-ufo-report-uap-study/](https://www.cbsnews.com/news/nasa-ufo-report-uap-study/)  
+   Link: <a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
 
 ### Additional References
 
 46. <a id="endnote-46"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=v6j9WxCwcT0](https://www.youtube.com/watch?v=v6j9WxCwcT0)  
+   Link: <a href="https://www.youtube.com/watch?v=v6j9WxCwcT0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v6j9WxCwcT0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Gov. Larry Hogan reports seeing drones outside his Maryland home...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=5FjZcMbQK8w](https://www.youtube.com/watch?v=5FjZcMbQK8w)  
+   Link: <a href="https://www.youtube.com/watch?v=5FjZcMbQK8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5FjZcMbQK8w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>700 new cases were just found in the Pentagon&#x27;s UFO report, 21 of which the agency can&#x27;t explain...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/](https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/)  
+   Link: <a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
 
 49. <a id="endnote-49"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/themighty/posts/a-sensational-wave-of-ufo-sightings-in-washington-forced-the-us-air-force-to-rea/1324321313072707/](https://www.facebook.com/themighty/posts/a-sensational-wave-of-ufo-sightings-in-washington-forced-the-us-air-force-to-rea/1324321313072707/)  
+   Link: <a href="https://www.facebook.com/themighty/posts/a-sensational-wave-of-ufo-sightings-in-washington-forced-the-us-air-force-to-rea/1324321313072707/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/themighty/posts/a-sensational-wave-of-ufo-sightings-in-washington-forced-the-us-air-force-to-rea/1324321313072707/</a>  
 
 50. <a id="endnote-50"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf](https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf</a>  
 
 51. <a id="endnote-51"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BayLifeBrokerage/videos/if-you-look-close-youll-see-one-of-the-aliens-were-actually-captured-here-swimmi/756035737512803/](https://www.facebook.com/BayLifeBrokerage/videos/if-you-look-close-youll-see-one-of-the-aliens-were-actually-captured-here-swimmi/756035737512803/)  
+   Link: <a href="https://www.facebook.com/BayLifeBrokerage/videos/if-you-look-close-youll-see-one-of-the-aliens-were-actually-captured-here-swimmi/756035737512803/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BayLifeBrokerage/videos/if-you-look-close-youll-see-one-of-the-aliens-were-actually-captured-here-swimmi/756035737512803/</a>  
 
 52. <a id="endnote-52"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents](https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents)  
+   Link: <a href="https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/may/22/pentagon-ufo-videos-testimony-documents</a>  
 
 53. <a id="endnote-53"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Loch-Raven-Incident-Marylands-Encounter/dp/B0GX1KSJ97](https://www.amazon.co.uk/Loch-Raven-Incident-Marylands-Encounter/dp/B0GX1KSJ97)  
+   Link: <a href="https://www.amazon.co.uk/Loch-Raven-Incident-Marylands-Encounter/dp/B0GX1KSJ97" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Loch-Raven-Incident-Marylands-Encounter/dp/B0GX1KSJ97</a>  
 
 54. <a id="endnote-54"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/rufo/rufo14.htm](https://sacred-texts.com/ufo/rufo/rufo14.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo14.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo14.htm</a>  
 
 55. <a id="endnote-55"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/](https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/)  
+   Link: <a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>

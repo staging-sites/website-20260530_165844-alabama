@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /local-network/
 nav_short_title: Tulsa photo
 title: Can the Tulsa saucer photo still be tested?
-title_full: Can the Tulsa saucer photo still be tested? | Local Network
+title_full: Can the Tulsa saucer photo still be tested?
 display_title_short: Tulsa photo
 display_title: Tulsa photo
 heading_title: Can the Tulsa saucer photo still be tested?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:03:17'
-parent_title: Who Kept Oklahoma's UFO Stories Alive? | Oklahoma UFOs
+parent_title: Who Kept Oklahoma's UFO Stories Alive?
 parent_permalink: /local-network/
 parent_nav_short_title: Local Network
 parent_heading_title: Who Kept Oklahoma's UFO Stories Alive?
@@ -250,10 +250,9 @@ image: /assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a_tulsa_saucer_p
 
 ## Introduction
 
-The Tulsa saucer photograph became one of the most widely circulated UFO images to emerge from [Oklahoma]({{ 'why-oklahoma-became-a-ufo-state/' | relative_url }})’s 1965 sighting wave. Taken by 14-year-old Alan R. Smith in Tulsa during the early hours of 2 August 1965, the image appeared to show a brightly coloured disc-shaped object hovering in the night sky. For Hayden Hewes and the civilian UFO network he was building in Oklahoma, the photograph seemed unusually valuable because it came with multiple witnesses, local newspaper scrutiny and a physical negative. Yet the case also became an example of a recurring problem in UFO history: once original photographic materials disappear from view, later claims become much harder to test. The Tulsa image remained famous, but the loss of easy access to the original negative weakened confidence in both believers’ and sceptics’ conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/tulsa-paperboy-made-ufo-history-in-p10411-87.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[edmondlifeandleisure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">tulsa paperboy made ufo history in p10411 87</span><span class="citation-popover-snippet">Tulsa paperboy made UFO history in 196525 Sept 2014 — A neighbor of the Smith&#x27;s telephoned Hayden Hewes and asked him if he would be inte...</span></span></span>
+The Tulsa saucer photograph became one of the most widely circulated UFO images to emerge from Oklahoma’s 1965 sighting wave. Taken by 14-year-old Alan R. Smith in Tulsa during the early hours of 2 August 1965, the image appeared to show a brightly coloured disc-shaped object hovering in the night sky. For Hayden Hewes and the civilian UFO network he was building in Oklahoma, the photograph seemed unusually valuable because it came with multiple witnesses, local newspaper scrutiny and a physical negative. Yet the case also became an example of a recurring problem in UFO history: once original photographic materials disappear from view, later claims become much harder to test. The Tulsa image remained famous, but the loss of easy access to the original negative weakened confidence in both believers’ and sceptics’ conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/tulsa-paperboy-made-ufo-history-in-p10411-87.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[edmondlifeandleisure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">tulsa paperboy made ufo history in p10411 87</span><span class="citation-popover-snippet">Tulsa paperboy made UFO history in 196525 Sept 2014 — A neighbor of the Smith&#x27;s telephoned Hayden Hewes and asked him if he would be inte...</span></span></span>
 
-
-<img src="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a_tulsa_saucer_photo_f76dc1-Illustration-1-light.svg" | relative_url }}" alt="Tulsa photo illustration 1" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a_tulsa_saucer_photo_f76dc1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a_tulsa_saucer_photo_f76dc1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a_tulsa_saucer_photo_f76dc1-Illustration-1-dark.svg" | relative_url }}" alt="Tulsa photo illustration 1" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a_tulsa_saucer_photo_f76dc1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a_tulsa_saucer_photo_f76dc1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Can the Tulsa saucer photo still be tested?
 
 The short answer is only partly.
@@ -270,7 +269,6 @@ As the object approached and appeared to pause or hover, Alan Smith used a simpl
 
 That difference between what people recalled seeing and what the camera recorded is important. UFO photographs often become famous because they appear more detailed than witness descriptions. Yet that same gap can create uncertainty. A camera can capture unexpected visual effects, reflections or distortions that observers never consciously noticed.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AVOLzj7mO5g" title="Oklahoma man spots mysterious object in the sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AVOLzj7mO5g" target="_blank" rel="noopener noreferrer">Oklahoma man spots mysterious object in the sky</a></p><p class="youtube-embed-meta">Channel: KFOR Oklahoma&#x27;s News 4 &middot; Views: 782.5K &middot; Uploaded: March 2024 &middot; Length: 2 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AVOLzj7mO5g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AVOLzj7mO5g">Open on YouTube</a></p></div></div></div>
 
 ## How Hewes and the Oklahoma Journal checked the image
@@ -282,7 +280,6 @@ According to later accounts, a neighbour contacted Hayden Hewes after learning a
 The Oklahoma Journal also had its chief photographer, John Gumm, inspect both Smith’s image and the additional film produced during the reconstruction attempt. Reporters and editors interviewed witnesses before deciding whether to publish the story. Only after weeks of examination did the newspaper run the photograph prominently in October 1965. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/tulsa-paperboy-made-ufo-history-in-p10411-87.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[edmondlifeandleisure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">tulsa paperboy made ufo history in p10411 87</span><span class="citation-popover-snippet">Tulsa paperboy made UFO history in 196525 Sept 2014 — A neighbor of the Smith&#x27;s telephoned Hayden Hewes and asked him if he would be inte...</span></span></span>
 
 Within Oklahoma UFO history, this mattered because it showed the practical role of Hewes’ network. He was not conducting laboratory science, but he was helping connect witnesses, journalists and local investigators. The Tulsa image gained credibility not because it was proven genuine, but because multiple people attempted to check it before publication.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AK6dqLMLCtQ" title="UFO caught on Live TV flying over Oklahoma City" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AK6dqLMLCtQ" target="_blank" rel="noopener noreferrer">UFO caught on Live TV flying over Oklahoma City</a></p><p class="youtube-embed-meta">Channel: KOCO 5 News &middot; Views: 1.3M &middot; Uploaded: March 2015 &middot; Length: 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AK6dqLMLCtQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AK6dqLMLCtQ">Open on YouTube</a></p></div></div></div>
 
@@ -296,8 +293,7 @@ The image also arrived during a period of unusually intense UFO reporting across
 
 For supporters of the photograph, later references to analysis conducted for Project Blue Book strengthened its reputation. Some accounts state that Air Force photo analysts concluded the image showed a physical object rather than a simple photographic defect, while also noting similarities to effects produced by photographing a rotating coloured floodlight. That mixed assessment became a defining feature of the case: intriguing, but not conclusive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1965-tulsa-oklahoma-ufo-photograph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-title">1965 tulsa oklahoma ufo photograph</span><span class="citation-popover-snippet">Smith, aged 14, took this photograph at about 1:45 a.m. on 2 August 1965 from his back yard in Tulsa, Oklahoma. Five other witnesses...R...</span><span class="citation-popover-meta">Published: August 1965</span></span></span>
 
-
-<img src="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a_tulsa_saucer_photo_f76dc1-Illustration-2-light.svg" | relative_url }}" alt="Tulsa photo illustration 2" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a_tulsa_saucer_photo_f76dc1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a_tulsa_saucer_photo_f76dc1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a_tulsa_saucer_photo_f76dc1-Illustration-2-dark.svg" | relative_url }}" alt="Tulsa photo illustration 2" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a_tulsa_saucer_photo_f76dc1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a_tulsa_saucer_photo_f76dc1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the missing negative weakens later claims
 
 The strongest lesson from the Tulsa photograph is not that it proves an extraordinary object was present. It is that missing evidence changes how confidently any conclusion can be reached.
@@ -307,7 +303,6 @@ Accounts associated with Hewes state that copies of the photograph were sent to 
 This is where the historical trail becomes frustrating. The photograph continued to circulate, but the original negative became increasingly difficult for independent researchers to inspect. Once investigators are working from prints, magazine reproductions or copied negatives, important information is lost. Grain structure, exposure details, retouching marks, processing artefacts and other clues become harder to evaluate.
 
 That limitation affects both sides of the argument:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -319,8 +314,7 @@ That limitation affects both sides of the argument:
 
 The result is a case that remains suspended between possibility and uncertainty rather than moving decisively toward confirmation or debunking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edmondlifeandleisure.com/tulsa-paperboy-made-ufo-history-in-p10411-87.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edmondlifeandleisure.com">[edmondlifeandleisure.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edmondlifeandleisure.com</span><span class="citation-popover-title">tulsa paperboy made ufo history in p10411 87</span><span class="citation-popover-snippet">Tulsa paperboy made UFO history in 196525 Sept 2014 — A neighbor of the Smith&#x27;s telephoned Hayden Hewes and asked him if he would be inte...</span></span></span>
 
-
-<img src="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a_tulsa_saucer_photo_f76dc1-Illustration-3-light.svg" | relative_url }}" alt="Tulsa photo illustration 3" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a_tulsa_saucer_photo_f76dc1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a_tulsa_saucer_photo_f76dc1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a_tulsa_saucer_photo_f76dc1-Illustration-3-dark.svg" | relative_url }}" alt="Tulsa photo illustration 3" data-theme-src-dark="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a_tulsa_saucer_photo_f76dc1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oklahoma_86daa4_hewes_civilian_netwo_2c2a4a_tulsa_saucer_photo_f76dc1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What alternative explanations remain plausible?
 
 Even investigators who regarded the image as interesting did not necessarily regard it as extraterrestrial.
@@ -331,8 +325,7 @@ The Tulsa photograph sits in this ambiguous category. The object appears structu
 
 That uncertainty is why the image has survived for decades in UFO books and archives. It is striking enough to resist easy dismissal, but incomplete enough to resist confident authentication.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A-IXFQh1kEw" title="Unraveling the mystery of the Oklahoma UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A-IXFQh1kEw" target="_blank" rel="noopener noreferrer">Unraveling the mystery of the Oklahoma UFO</a></p><p class="youtube-embed-meta">Channel: KFOR Oklahoma&#x27;s News 4 &middot; Views: 32.7K &middot; Uploaded: March 2024 &middot; Length: 3 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A-IXFQh1kEw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A-IXFQh1kEw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D3PcVV68qvs" title="Professors weigh in on mysterious light in Oklahoma sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D3PcVV68qvs" target="_blank" rel="noopener noreferrer">Professors weigh in on mysterious light in Oklahoma sky</a></p><p class="youtube-embed-meta">Channel: KOCO 5 News &middot; Views: 2.7K &middot; Uploaded: March 2015 &middot; Length: 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D3PcVV68qvs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D3PcVV68qvs">Open on YouTube</a></p></div></div></div>
 
 ## Why the case still matters in Oklahoma UFO history
 
@@ -428,34 +421,340 @@ For historians of Oklahoma UFO reports, the Tulsa image therefore occupies an un
   </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shaped Keyring Cool Flying Saucer Model Keyring Pendant Jewelry for Children"><img src="https://i.ebayimg.com/images/g/CjkAAeSwzkBpBQDU/s-l225.jpg" alt="Listing image for UFO Shaped Keyring Cool Flying Saucer Model Keyring Pendant Jewelry for Children" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">UFO Shaped Keyring Cool Flying Saucer Model Keyring Pendant Jewelry for Children</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt Martian UFO Flying Saucer Desktop Model ! (C)"><img src="https://i.ebayimg.com/images/g/BTsAAeSwMD1n-6x4/s-l225.jpg" alt="Listing image for Scratchbuilt Martian UFO Flying Saucer Desktop Model ! (C)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt Martian UFO Flying Saucer Desktop Model ! (C)</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Atlantis Models 1/72 The Flying Saucer Plastic Model Atlamca256"><img src="https://i.ebayimg.com/images/g/wXMAAeSw7OVoSqQB/s-l225.jpg" alt="Listing image for Atlantis Models 1/72 The Flying Saucer Plastic Model Atlamca256" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Atlantis Models 1/72 The Flying Saucer Plastic Model Atlamca256</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small"><img src="https://i.ebayimg.com/images/g/iQIAAOSwqSZm7mOi/s-l225.jpg" alt="Listing image for Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="can-the-tulsa-saucer-photo-still-be-tested-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: edmondlifeandleisure.com  
    Title: tulsa paperboy made ufo history in p10411 87  
-   Link: [https://edmondlifeandleisure.com/tulsa-paperboy-made-ufo-history-in-p10411-87.htm](https://edmondlifeandleisure.com/tulsa-paperboy-made-ufo-history-in-p10411-87.htm)  
+   Link: <a href="https://edmondlifeandleisure.com/tulsa-paperboy-made-ufo-history-in-p10411-87.htm" target="_blank" rel="noopener noreferrer nofollow">https://edmondlifeandleisure.com/tulsa-paperboy-made-ufo-history-in-p10411-87.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tulsa paperboy made UFO history in 196525 Sept 2014 — A neighbor of the Smith&#x27;s telephoned Hayden Hewes and asked him if he would be inte...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ufoklubslovensko.webnode.sk  
    Title: ufo 1960 70  
-   Link: [https://ufoklubslovensko.webnode.sk/news/ufo-1960-70/](https://ufoklubslovensko.webnode.sk/news/ufo-1960-70/)  
+   Link: <a href="https://ufoklubslovensko.webnode.sk/news/ufo-1960-70/" target="_blank" rel="noopener noreferrer nofollow">https://ufoklubslovensko.webnode.sk/news/ufo-1960-70/</a>  
 
 3. <a id="endnote-3"></a>
    Source: thinkaboutitdocs.com  
    Title: 1965 tulsa oklahoma ufo photograph  
-   Link: [https://thinkaboutitdocs.com/1965-tulsa-oklahoma-ufo-photograph/](https://thinkaboutitdocs.com/1965-tulsa-oklahoma-ufo-photograph/)  
+   Link: <a href="https://thinkaboutitdocs.com/1965-tulsa-oklahoma-ufo-photograph/" target="_blank" rel="noopener noreferrer nofollow">https://thinkaboutitdocs.com/1965-tulsa-oklahoma-ufo-photograph/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smith, aged 14, took this photograph at about 1:45 a.m. on 2 August 1965 from his back yard in Tulsa, Oklahoma. Five other witnesses...R...</p></details>
    Published: August 1965  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: UFO photographs  
-   Link: [https://en.wikipedia.org/wiki/UFO_photographs](https://en.wikipedia.org/wiki/UFO_photographs)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/977293555618189/posts/1108917155789161/](https://www.facebook.com/groups/977293555618189/posts/1108917155789161/)  
+   Link: <a href="https://www.facebook.com/groups/977293555618189/posts/1108917155789161/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/977293555618189/posts/1108917155789161/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tulsa Oklahoma UFO photograph from 1965August 2, 1965 - Tulsa, Oklahoma, USA...Alan R. Smith, aged 14, took this photograph at about 1:45...</p></details>
    Published: August 2, 1965  
 
@@ -463,58 +762,58 @@ For historians of Oklahoma UFO reports, the Tulsa image therefore occupies an un
 
 6. <a id="endnote-6"></a>
    Source: theufodatabase.com  
-   Link: [https://theufodatabase.com/ufos/tulsa-oklahoma-ufo-august-1965](https://theufodatabase.com/ufos/tulsa-oklahoma-ufo-august-1965)  
+   Link: <a href="https://theufodatabase.com/ufos/tulsa-oklahoma-ufo-august-1965" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/ufos/tulsa-oklahoma-ufo-august-1965</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tulsa, Oklahoma UFOAlan R. Smith, just 14 years old at the time, captured an intriguing photograph at 1:45 a.m. on August 2, 1965, from h...</p></details>
    Published: August 2, 1965  
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/271625487184735/posts/1311910273156246/](https://www.facebook.com/groups/271625487184735/posts/1311910273156246/)  
+   Link: <a href="https://www.facebook.com/groups/271625487184735/posts/1311910273156246/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/271625487184735/posts/1311910273156246/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tulsa, OK UFO sighting from living room windowTulsa Oklahoma UFO photograph... Alan R. Smith, aged 14, took this photograph at about 1:4...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: archive.org  
    Title: Full text of "Madroño: a West American journal of botany"Wagner, Jr., Alan R  
-   Link: [https://archive.org/stream/madronowe303119831984cali/madronowe303119831984cali_djvu.txt](https://archive.org/stream/madronowe303119831984cali/madronowe303119831984cali_djvu.txt)  
+   Link: <a href="https://archive.org/stream/madronowe303119831984cali/madronowe303119831984cali_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/madronowe303119831984cali/madronowe303119831984cali_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smith, and Thomas R. Pray 69 A REVISION OF ABUTILON SECT. OLIGOCARPAE (MALVACEAE), INCLUDING A NEW SPECIES FROM MEXxIco, Joan E...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: govinfo.gov  
    Title: SENATE Impeached," from the Tulsa (Okla.) Tribune,  
-   Link: [https://www.govinfo.gov/content/pkg/GPO-CRECB-1950-pt2/pdf/GPO-CRECB-1950-pt2-2.pdf](https://www.govinfo.gov/content/pkg/GPO-CRECB-1950-pt2/pdf/GPO-CRECB-1950-pt2-2.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/GPO-CRECB-1950-pt2/pdf/GPO-CRECB-1950-pt2-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GPO-CRECB-1950-pt2/pdf/GPO-CRECB-1950-pt2-2.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SENATEImpeached,&quot; from the Tulsa (Okla.) Tribune. January 28, 1950; an editorial... HAYDEN] sitting here. His father was one of the men...</p></details>
    Published: January 28, 1950  
 
 10. <a id="endnote-10"></a>
    Source: sar.org  
-   Link: [https://www.sar.org/wp-content/uploads/2020/01/XCIV-NO.-2_FALL-1999.pdf](https://www.sar.org/wp-content/uploads/2020/01/XCIV-NO.-2_FALL-1999.pdf)  
+   Link: <a href="https://www.sar.org/wp-content/uploads/2020/01/XCIV-NO.-2_FALL-1999.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sar.org/wp-content/uploads/2020/01/XCIV-NO.-2_FALL-1999.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>heck from the NSSAR for $5,000 and a volume titled &quot;The Maxims of George.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aaa.si.edu  
    Title: oral history interview florence kerr 11700  
-   Link: [https://www.aaa.si.edu/collections/interviews/oral-history-interview-florence-kerr-11700](https://www.aaa.si.edu/collections/interviews/oral-history-interview-florence-kerr-11700)  
+   Link: <a href="https://www.aaa.si.edu/collections/interviews/oral-history-interview-florence-kerr-11700" target="_blank" rel="noopener noreferrer nofollow">https://www.aaa.si.edu/collections/interviews/oral-history-interview-florence-kerr-11700</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18-Oct. 3131 Oct 2025 — An unrelated interview of Harry Hewes conducted by H. Phillips is also on reel 2. Summary: An interview of Floren...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: This photo started circulating locally after the UFO files  
-   Link: [https://www.facebook.com/TulsaAreaBreakingNews/posts/this-photo-started-circulating-locally-after-the-ufo-files-started-trending-agai/122137260489120425/](https://www.facebook.com/TulsaAreaBreakingNews/posts/this-photo-started-circulating-locally-after-the-ufo-files-started-trending-agai/122137260489120425/)  
+   Link: <a href="https://www.facebook.com/TulsaAreaBreakingNews/posts/this-photo-started-circulating-locally-after-the-ufo-files-started-trending-agai/122137260489120425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TulsaAreaBreakingNews/posts/this-photo-started-circulating-locally-after-the-ufo-files-started-trending-agai/122137260489120425/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Smith, aged 14, took this photograph at about 1:45 a. m. on 2 August 1965 from his back yard in Tulsa, Oklahoma...</p></details>
    Published: August 1965  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/7281843785168302/posts/27061427443449976/](https://www.facebook.com/groups/7281843785168302/posts/27061427443449976/)  
+   Link: <a href="https://www.facebook.com/groups/7281843785168302/posts/27061427443449976/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/7281843785168302/posts/27061427443449976/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>about to go looking into it. Just want to know who...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SWTimesRecord/posts/the-fort-smith-ufo-sighting-of-summer-66-did-you-see-it/10158152772525882/](https://www.facebook.com/SWTimesRecord/posts/the-fort-smith-ufo-sighting-of-summer-66-did-you-see-it/10158152772525882/)  
+   Link: <a href="https://www.facebook.com/SWTimesRecord/posts/the-fort-smith-ufo-sighting-of-summer-66-did-you-see-it/10158152772525882/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SWTimesRecord/posts/the-fort-smith-ufo-sighting-of-summer-66-did-you-see-it/10158152772525882/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>65 from his back yard in Tulsa, Oklahoma.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: enid.org  
    Title: 2022 altus trophy nominati  
-   Link: [https://www.enid.org/files/assets/public/v/1/administration/documents/2022-altus-trophy-nominati.pdf](https://www.enid.org/files/assets/public/v/1/administration/documents/2022-altus-trophy-nominati.pdf)  
+   Link: <a href="https://www.enid.org/files/assets/public/v/1/administration/documents/2022-altus-trophy-nominati.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.enid.org/files/assets/public/v/1/administration/documents/2022-altus-trophy-nominati.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2022-altus-trophy-nominati.pdfEnid, Oklahoma and Vance Air Force Base have a long, rich history as “Partners in the Sky.” The partnership...</p></details>

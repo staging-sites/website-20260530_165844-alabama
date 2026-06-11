@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /utah-2ff606-index/
 description: Focused pages that expand on What Makes Utah's UFO History So Persistent?.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Utah_2ff606
 parent_title: What Makes Utah's UFO History So Persistent?

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-york-c7ef6c-ny-ufo-records-2ebd6b/
 description: Focused pages that expand on Records.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: New_York_c7ef6c_ny_ufo_records_2ebd6b
-parent_title: Records | What Really Happened in New York's UFO...
+parent_title: Records
 parent_nav_short_title: Records
 parent_permalink: /records-637b5f/
 ---

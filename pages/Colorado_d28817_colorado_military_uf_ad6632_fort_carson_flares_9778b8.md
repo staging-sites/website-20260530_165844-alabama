@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /military-sites/
 nav_short_title: Fort Carson flares
 title: When Fort Carson flares looked like UFOs
-title_full: When Fort Carson flares looked like UFOs | Military Sites
+title_full: When Fort Carson flares looked like UFOs
 display_title_short: Fort Carson flares
 display_title: Fort Carson flares
 heading_title: When Fort Carson flares looked like UFOs
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:05:13'
-parent_title: When Colorado UFO Reports Meet Military Airspace | Colorado UFOs
+parent_title: When Colorado UFO Reports Meet Military Airspace
 parent_permalink: /military-sites/
 parent_nav_short_title: Military Sites
 parent_heading_title: When Colorado UFO Reports Meet Military Airspace
@@ -252,8 +252,7 @@ image: /assets/images/Colorado_d28817_colorado_military_uf_ad6632_fort_carson_fl
 
 Reports of strange lights near Fort Carson have become a recurring feature of UFO discussion in southern [Colorado]({{ 'what-really-happened-in-colorados-ufo/' | relative_url }}), especially around Colorado Springs. In many cases, witnesses genuinely saw unusual objects: clusters of glowing lights hanging in the sky, drifting slowly, appearing in formation, or remaining visible for long periods after dark. What makes the Fort Carson examples notable is not strong evidence for unknown craft, but how convincingly ordinary military activity can resemble classic UFO imagery.
 
-
-<img src="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_fort_carson_flares_9778b8-Illustration-1-light.svg" | relative_url }}" alt="Fort Carson flares illustration 1" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_fort_carson_flares_9778b8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_fort_carson_flares_9778b8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_fort_carson_flares_9778b8-Illustration-1-dark.svg" | relative_url }}" alt="Fort Carson flares illustration 1" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_fort_carson_flares_9778b8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_fort_carson_flares_9778b8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Fort Carson’s training grounds regularly host live-fire exercises, illumination rounds, helicopter operations and airborne flares. Against the backdrop of nearby installations such as Peterson Space Force Base, the Air Force Academy and [Cheyenne Mountain]({{ 'cheyenne-mountain/' | relative_url }}), those exercises easily become folded into wider local rumours about hidden aerospace activity. The result is a useful case study in how UFO stories can grow from real visual experiences that later receive conventional explanations rather than from hoaxes or obvious mistakes.
 
 ## What witnesses reported over Fort Carson
@@ -264,8 +263,7 @@ Some observers immediately connected the lights to UFO speculation. Social media
 
 Fort Carson officials later stated that the lights were flare rounds used during military training exercises. Around the same time, local outlets also reported scheduled live-fire exercises involving several Army units, with warnings that residents might notice increased noise, dust and military activity into the night. https www.kktv.com <span class="citation-chip-wrap"><a class="citation-chip" href="https://krdo.com/news/top-stories/2023/04/06/fort-carson-conducting-live-fire-training-exercises-over-the-next-two-days/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: krdo.com">[KRDO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">krdo.com</span><span class="citation-popover-title">fort carson conducting live fire training exercises over the next two days</span><span class="citation-popover-snippet">Fort Carson conducting live-fire training exercises over the...6 Apr 2023 — 4th Infantry Division are conducting various live-fire train...</span></span></span>
 
-The 2023 reports were not isolated. Similar episodes have appeared repeatedly in local Facebook groups, Reddit discussions and Colorado Springs community forums. Witnesses often describe orange or white lights hovering over the southern horizon near the mountains or drifting slowly above training areas. In many threads, other residents familiar with the region quickly suggest Fort Carson flares or artillery exercises as likely explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1bkxggk/can_anyone_identify_these_lights_seen_in_colorado/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">can anyone identify these lights seen in colorado</span><span class="citation-popover-snippet">RedditCan anyone identify these lights seen in Colorado last night?22 Mar 2024 — Fort Carson artillery ranges are south of springs maybe...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/1637345673313981/posts/2368575966857611/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">I think they’re drones but why would someone</span><span class="citation-popover-snippet">FacebookWhat are the mysterious lights in the sky near Widefield...So coming home from work last night at 12:30 I seen these lights down...</span></span></span>
-
+The 2023 reports were not isolated. Similar episodes have appeared repeatedly in local Facebook groups, Reddit discussions and Colorado Springs community forums. Witnesses often describe orange or white lights hovering over the southern horizon near the mountains or drifting slowly above training areas. In many threads, other residents familiar with the region quickly suggest Fort Carson flares or artillery exercises as likely explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1bkxggk/can_anyone_identify_these_lights_seen_in_colorado/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">can anyone identify these lights seen in colorado</span><span class="citation-popover-snippet">Can anyone identify these lights seen in Colorado last night?22 Mar 2024 — Fort Carson artillery ranges are south of springs maybe...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/1637345673313981/posts/2368575966857611/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">I think they’re drones but why would someone</span><span class="citation-popover-snippet">What are the mysterious lights in the sky near Widefield...So coming home from work last night at 12:30 I seen these lights down...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/74ud-5Ld48Y" title="Former senior intelligence officer finds UAP by Colorado defense bunker | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=74ud-5Ld48Y" target="_blank" rel="noopener noreferrer">Former senior intelligence officer finds UAP by Colorado defense bunker | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 1.4M &middot; Uploaded: September 2025 &middot; Length: 1 hour 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=74ud-5Ld48Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=74ud-5Ld48Y">Open on YouTube</a></p></div></div></div>
 
@@ -274,7 +272,6 @@ The 2023 reports were not isolated. Similar episodes have appeared repeatedly in
 Military illumination flares are designed to remain visible for extended periods. Depending on the type used, they may descend slowly beneath parachutes, hover visually from a distance, or appear to maintain formation when several are deployed together. Seen from miles away at night, they can look detached from any obvious aircraft.
 
 This creates several effects commonly associated with UFO reports:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -288,18 +285,16 @@ This creates several effects commonly associated with UFO reports:
 
 The geography around Fort Carson strengthens these effects. Much of the training area lies against dark foothills and open terrain south-west of Colorado Springs. Night exercises occurring beyond visible ridgelines can leave only the lights themselves visible from residential neighbourhoods.
 
-Local television footage from April and June 2023 shows why these [sightings]({{ 'sightings/' | relative_url }}) attract attention. The lights appear unusually bright and isolated against the dark sky, closely matching the appearance often described in classic UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kktv.com/video/2023/06/09/watch-strange-lights-spotted-sky-west-colorado-springs-june-8-2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kktv.com">[https://www.kktv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kktv.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kktv.com/video/2023/06/09/watch-strange-lights-spotted-sky-west-colorado-springs-june-8-2023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kktv.com">[https://www.kktv.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kktv.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Local television footage from April and June 2023 shows why these [sightings]({{ 'sightings/' | relative_url }}) attract attention. The lights appear unusually bright and isolated against the dark sky, closely matching the appearance often described in classic UFO reports. [https://www.kktv.com+2https://www.kktv.com]
 
 Importantly, the explanation does not require witnesses to be careless or dishonest. Many people reporting the lights were accurately describing something genuinely unusual-looking. The misidentification happens because the visual characteristics of military flares overlap strongly with popular expectations of UFO behaviour.
 
-
-<img src="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_fort_carson_flares_9778b8-Illustration-2-light.svg" | relative_url }}" alt="Fort Carson flares illustration 2" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_fort_carson_flares_9778b8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_fort_carson_flares_9778b8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_fort_carson_flares_9778b8-Illustration-2-dark.svg" | relative_url }}" alt="Fort Carson flares illustration 2" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_fort_carson_flares_9778b8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_fort_carson_flares_9778b8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Colorado Springs produces recurring UFO rumours
 
 Colorado Springs is unusually dense with military and aerospace infrastructure. Residents live near Army, Air Force and Space Force facilities, while NORAD and Cheyenne Mountain remain internationally recognised symbols of aerospace surveillance and Cold War secrecy. That environment encourages people to interpret unexplained lights through a military or technological lens.
 
 The area also experiences frequent legitimate aerial activity:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -315,7 +310,6 @@ The area also experiences frequent legitimate aerial activity:
 Because observers know sensitive military work occurs nearby, ordinary uncertainty can quickly evolve into speculation about hidden projects or unidentified craft. A flare sighting near Fort Carson may become linked online to rumours about underground facilities, classified aircraft or secret aerospace testing even when the original event had a routine explanation.
 
 This pattern resembles earlier UFO episodes elsewhere in the American Southwest, where military flares were repeatedly mistaken for extraordinary aerial phenomena. The famous “Phoenix Lights” case in Arizona remains the best-known example of this broader dynamic, with later explanations also involving military flare activity for at least part of the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XDUmOhPjUpQ" title="Colorado&#x27;s Strangest Mysteries Just Got Weirder" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XDUmOhPjUpQ" target="_blank" rel="noopener noreferrer">Colorado&#x27;s Strangest Mysteries Just Got Weirder</a></p><p class="youtube-embed-meta">Channel: Independence Overland &middot; Views: 82.0K &middot; Uploaded: April 2026 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XDUmOhPjUpQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XDUmOhPjUpQ">Open on YouTube</a></p></div></div></div>
 
@@ -333,18 +327,16 @@ Military statements are usually brief. In the April 2023 incident, Fort Carson c
 
 For some observers, sparse official comments reinforce suspicion rather than resolve it. The absence of detailed public information can leave room for speculation online.
 
-
-<img src="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_fort_carson_flares_9778b8-Illustration-3-light.svg" | relative_url }}" alt="Fort Carson flares illustration 3" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_fort_carson_flares_9778b8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_fort_carson_flares_9778b8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_fort_carson_flares_9778b8-Illustration-3-dark.svg" | relative_url }}" alt="Fort Carson flares illustration 3" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_fort_carson_flares_9778b8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_military_uf_ad6632_fort_carson_flares_9778b8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### UFO communities catalogue all unusual sightings
 
 Databases, social media groups and discussion forums often preserve reports regardless of whether later explanations emerge. Once a sighting enters UFO culture, corrections may circulate less widely than the original claim.
 
-Reddit and Facebook discussions about Colorado Springs lights illustrate this clearly. Threads frequently contain competing explanations — flares, drones, satellites, reflections, military aircraft or UFOs — all discussed simultaneously without a final consensus accepted by every participant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1bkxggk/can_anyone_identify_these_lights_seen_in_colorado/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">can anyone identify these lights seen in colorado</span><span class="citation-popover-snippet">RedditCan anyone identify these lights seen in Colorado last night?22 Mar 2024 — Fort Carson artillery ranges are south of springs maybe...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/1637345673313981/posts/2568118540236685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">not likely a flare, unless I dont know some...Read more...</span></span></span>
+Reddit and Facebook discussions about Colorado Springs lights illustrate this clearly. Threads frequently contain competing explanations — flares, drones, satellites, reflections, military aircraft or UFOs — all discussed simultaneously without a final consensus accepted by every participant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1bkxggk/can_anyone_identify_these_lights_seen_in_colorado/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">can anyone identify these lights seen in colorado</span><span class="citation-popover-snippet">Can anyone identify these lights seen in Colorado last night?22 Mar 2024 — Fort Carson artillery ranges are south of springs maybe...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/1637345673313981/posts/2568118540236685/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">not likely a flare, unless I dont know some...Read more...</span></span></span>
 
 ## What the Fort Carson examples reveal about UFO reports
 
 Fort Carson flare sightings are useful because they show how UFO narratives can develop from ordinary but visually dramatic events. These incidents do not demonstrate extraterrestrial craft or hidden technology, but they do highlight several recurring features of UFO reporting in Colorado:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -358,9 +350,7 @@ Fort Carson flare sightings are useful because they show how UFO narratives can 
 
 Within Colorado’s wider UFO history, the Fort Carson examples sit firmly in the category of plausible misidentification rather than unresolved mystery. Yet they remain important because they help explain why military regions repeatedly generate UFO rumours even when conventional causes are available.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8fLH9DLWHiU" title="WATCH: Strange lights spotted in the sky west of Colorado Springs April 5, 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8fLH9DLWHiU" target="_blank" rel="noopener noreferrer">WATCH: Strange lights spotted in the sky west of Colorado Springs April 5, 2023</a></p><p class="youtube-embed-meta">Channel: KKTV 11 Alert News | Southern Colorado &middot; Views: 3.3K &middot; Uploaded: April 2023 &middot; Length: 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8fLH9DLWHiU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8fLH9DLWHiU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -448,7 +438,7 @@ Within Colorado’s wider UFO history, the Fort Carson examples sit firmly in th
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -458,111 +448,36 @@ Within Colorado’s wider UFO history, the Fort Carson examples sit firmly in th
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display"><img src="{{ '/assets/images/marketplace-covers/27c78e3de724e607809d.jpg' | relative_url }}" alt="Listing image for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fort+carson+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fort-carson-flares-looked-like-ufos-fort-carson-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fort carson patch" data-ebay-reference="when-fort-carson-flares-looked-like-ufos-fort-carson-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Army Fourth 4th Infantry Division Subdued Patch Insignia Fort Carson, CO V1"><img src="https://i.ebayimg.com/images/g/Zp8AAeSwefVopCid/s-l225.jpg" alt="Listing image for US Army Fourth 4th Infantry Division Subdued Patch Insignia Fort Carson, CO V1" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fort+carson+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fort-carson-flares-looked-like-ufos-fort-carson-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fort carson patch" data-ebay-reference="when-fort-carson-flares-looked-like-ufos-fort-carson-patch" target="_blank" rel="sponsored noopener noreferrer">US Army Fourth 4th Infantry Division Subdued Patch Insignia Fort Carson, CO V1</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fort+carson+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fort-carson-flares-looked-like-ufos-fort-carson-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fort carson patch" data-ebay-reference="when-fort-carson-flares-looked-like-ufos-fort-carson-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fort carson patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fort carson patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT"><img src="{{ '/assets/images/marketplace-covers/c4fa2fd111d52b7bddcf.jpg' | relative_url }}" alt="Listing image for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fort+carson+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fort-carson-flares-looked-like-ufos-fort-carson-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fort carson patch" data-ebay-reference="when-fort-carson-flares-looked-like-ufos-fort-carson-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -570,15 +485,15 @@ Within Colorado’s wider UFO history, the Fort Carson examples sit firmly in th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fort+carson+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fort-carson-flares-looked-like-ufos-fort-carson-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fort carson patch" data-ebay-reference="when-fort-carson-flares-looked-like-ufos-fort-carson-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fort Carson Fire Department Engine 1911 US Army Military Patch Colorado CO"><img src="https://i.ebayimg.com/images/g/hkgAAeSw4G1p9GE-/s-l225.jpg" alt="Listing image for Fort Carson Fire Department Engine 1911 US Army Military Patch Colorado CO" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fort+carson+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fort-carson-flares-looked-like-ufos-fort-carson-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fort carson patch" data-ebay-reference="when-fort-carson-flares-looked-like-ufos-fort-carson-patch" target="_blank" rel="sponsored noopener noreferrer">Fort Carson Fire Department Engine 1911 US Army Military Patch Colorado CO</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fort+carson+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fort-carson-flares-looked-like-ufos-fort-carson-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fort carson patch" data-ebay-reference="when-fort-carson-flares-looked-like-ufos-fort-carson-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fort carson patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fort carson patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fort+carson+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fort-carson-flares-looked-like-ufos-fort-carson-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fort carson patch" data-ebay-reference="when-fort-carson-flares-looked-like-ufos-fort-carson-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -586,15 +501,15 @@ Within Colorado’s wider UFO history, the Fort Carson examples sit firmly in th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fort+carson+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fort-carson-flares-looked-like-ufos-fort-carson-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fort carson patch" data-ebay-reference="when-fort-carson-flares-looked-like-ufos-fort-carson-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Apache AH-64 AH64 PVC Patch 6-17th Bravo Troop Fort Carson Colorado US Army"><img src="https://i.ebayimg.com/images/g/WvMAAeSwA2NqJDbn/s-l225.jpg" alt="Listing image for Apache AH-64 AH64 PVC Patch 6-17th Bravo Troop Fort Carson Colorado US Army" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fort+carson+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fort-carson-flares-looked-like-ufos-fort-carson-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fort carson patch" data-ebay-reference="when-fort-carson-flares-looked-like-ufos-fort-carson-patch" target="_blank" rel="sponsored noopener noreferrer">Apache AH-64 AH64 PVC Patch 6-17th Bravo Troop Fort Carson Colorado US Army</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fort+carson+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fort-carson-flares-looked-like-ufos-fort-carson-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fort carson patch" data-ebay-reference="when-fort-carson-flares-looked-like-ufos-fort-carson-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fort carson patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fort carson patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fort+carson+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fort-carson-flares-looked-like-ufos-fort-carson-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fort carson patch" data-ebay-reference="when-fort-carson-flares-looked-like-ufos-fort-carson-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -602,15 +517,15 @@ Within Colorado’s wider UFO history, the Fort Carson examples sit firmly in th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fort+carson+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fort-carson-flares-looked-like-ufos-fort-carson-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fort carson patch" data-ebay-reference="when-fort-carson-flares-looked-like-ufos-fort-carson-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fort Carson Fire Department Rescue 1971 US Army Military Patch Colorado CO"><img src="https://i.ebayimg.com/images/g/HQIAAeSwS1dp9GE~/s-l225.jpg" alt="Listing image for Fort Carson Fire Department Rescue 1971 US Army Military Patch Colorado CO" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fort+carson+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fort-carson-flares-looked-like-ufos-fort-carson-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fort carson patch" data-ebay-reference="when-fort-carson-flares-looked-like-ufos-fort-carson-patch" target="_blank" rel="sponsored noopener noreferrer">Fort Carson Fire Department Rescue 1971 US Army Military Patch Colorado CO</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fort+carson+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fort-carson-flares-looked-like-ufos-fort-carson-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fort carson patch" data-ebay-reference="when-fort-carson-flares-looked-like-ufos-fort-carson-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fort carson patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fort carson patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fort+carson+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fort-carson-flares-looked-like-ufos-fort-carson-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fort carson patch" data-ebay-reference="when-fort-carson-flares-looked-like-ufos-fort-carson-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -618,7 +533,7 @@ Within Colorado’s wider UFO history, the Fort Carson examples sit firmly in th
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fort-carson-flares-when-fort-carson-flares-looked-like-ufos-colorado-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fort+carson+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-fort-carson-flares-looked-like-ufos-fort-carson-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fort carson patch" data-ebay-reference="when-fort-carson-flares-looked-like-ufos-fort-carson-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -695,17 +610,31 @@ Within Colorado’s wider UFO history, the Fort Carson examples sit firmly in th
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -718,42 +647,73 @@ Within Colorado’s wider UFO history, the Fort Carson examples sit firmly in th
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -768,12 +728,17 @@ Within Colorado’s wider UFO history, the Fort Carson examples sit firmly in th
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -783,123 +748,123 @@ Within Colorado’s wider UFO history, the Fort Carson examples sit firmly in th
 
 1. <a id="endnote-1"></a>
    Source: kktv.com  
-   Link: [https://www.kktv.com/2023/04/06/what-were-weird-lights-west-colorado-springs-wednesday-they-were-flares-this-isnt-teaser-headline/](https://www.kktv.com/2023/04/06/what-were-weird-lights-west-colorado-springs-wednesday-they-were-flares-this-isnt-teaser-headline/)  
+   Link: <a href="https://www.kktv.com/2023/04/06/what-were-weird-lights-west-colorado-springs-wednesday-they-were-flares-this-isnt-teaser-headline/" target="_blank" rel="noopener noreferrer nofollow">https://www.kktv.com/2023/04/06/what-were-weird-lights-west-colorado-springs-wednesday-they-were-flares-this-isnt-teaser-headline/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.kktv.comWhat](https://www.kktv.comWhat) were the weird lights west of Colorado Springs...April 6, 2023 — 6 Apr 2023 — A spokesperson with Fort Carson t...</p></details>
    Published: April 6, 2023  
 
 2. <a id="endnote-2"></a>
    Source: krdo.com  
    Title: fort carson conducting live fire training exercises over the next two days  
-   Link: [https://krdo.com/news/top-stories/2023/04/06/fort-carson-conducting-live-fire-training-exercises-over-the-next-two-days/](https://krdo.com/news/top-stories/2023/04/06/fort-carson-conducting-live-fire-training-exercises-over-the-next-two-days/)  
+   Link: <a href="https://krdo.com/news/top-stories/2023/04/06/fort-carson-conducting-live-fire-training-exercises-over-the-next-two-days/" target="_blank" rel="noopener noreferrer nofollow">https://krdo.com/news/top-stories/2023/04/06/fort-carson-conducting-live-fire-training-exercises-over-the-next-two-days/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fort Carson conducting live-fire training exercises over the...6 Apr 2023 — 4th Infantry Division are conducting various live-fire train...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: gazette.com  
-   Link: [https://gazette.com/2023/04/06/live-fire-training-on-fort-carson-may-cause-increased-noise-dust-in-southern-colorado-springs-8da7245c-d4cc-11ed-a45e-c3019474ae14/](https://gazette.com/2023/04/06/live-fire-training-on-fort-carson-may-cause-increased-noise-dust-in-southern-colorado-springs-8da7245c-d4cc-11ed-a45e-c3019474ae14/)  
+   Link: <a href="https://gazette.com/2023/04/06/live-fire-training-on-fort-carson-may-cause-increased-noise-dust-in-southern-colorado-springs-8da7245c-d4cc-11ed-a45e-c3019474ae14/" target="_blank" rel="noopener noreferrer nofollow">https://gazette.com/2023/04/06/live-fire-training-on-fort-carson-may-cause-increased-noise-dust-in-southern-colorado-springs-8da7245c-d4cc-11ed-a45e-c3019474ae14/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live-fire training on Fort Carson may cause increased...6 Apr 2023 — Live-fire training exercises on Fort Carson this week may cause inc...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: can anyone identify these lights seen in colorado  
-   Link: [https://www.reddit.com/r/UFOs/comments/1bkxggk/can_anyone_identify_these_lights_seen_in_colorado/](https://www.reddit.com/r/UFOs/comments/1bkxggk/can_anyone_identify_these_lights_seen_in_colorado/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditCan anyone identify these lights seen in Colorado last night?22 Mar 2024 — Fort Carson artillery ranges are south of springs maybe...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bkxggk/can_anyone_identify_these_lights_seen_in_colorado/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bkxggk/can_anyone_identify_these_lights_seen_in_colorado/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can anyone identify these lights seen in Colorado last night?22 Mar 2024 — Fort Carson artillery ranges are south of springs maybe...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
    Title: I think they’re drones but why would someone  
-   Link: [https://www.facebook.com/groups/1637345673313981/posts/2368575966857611/](https://www.facebook.com/groups/1637345673313981/posts/2368575966857611/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookWhat are the mysterious lights in the sky near Widefield...So coming home from work last night at 12:30 I seen these lights down...</p></details>
+   Link: <a href="https://www.facebook.com/groups/1637345673313981/posts/2368575966857611/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1637345673313981/posts/2368575966857611/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What are the mysterious lights in the sky near Widefield...So coming home from work last night at 12:30 I seen these lights down...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1637345673313981/posts/2568118540236685/](https://www.facebook.com/groups/1637345673313981/posts/2568118540236685/)  
+   Link: <a href="https://www.facebook.com/groups/1637345673313981/posts/2568118540236685/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1637345673313981/posts/2568118540236685/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>not likely a flare, unless I dont know some...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: kktv.com  
-   Link: [https://www.kktv.com/video/2023/06/09/watch-strange-lights-spotted-sky-west-colorado-springs-june-8-2023/](https://www.kktv.com/video/2023/06/09/watch-strange-lights-spotted-sky-west-colorado-springs-june-8-2023/)  
+   Link: <a href="https://www.kktv.com/video/2023/06/09/watch-strange-lights-spotted-sky-west-colorado-springs-june-8-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.kktv.com/video/2023/06/09/watch-strange-lights-spotted-sky-west-colorado-springs-june-8-2023/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.kktv.comWATCH:](https://www.kktv.comWATCH:) Strange lights spotted in the sky west of Colorado...WATCH: Strange lights spotted in the sky west of Colorad...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Phoenix Lights  
-   Link: [https://en.wikipedia.org/wiki/Phoenix_Lights](https://en.wikipedia.org/wiki/Phoenix_Lights)  
+   Link: <a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PuebloIndependent/posts/mystery-lights-in-sky-in-pueblo-area-and-se-colorado-captured-in-photos-and-vide/725307873060515/](https://www.facebook.com/PuebloIndependent/posts/mystery-lights-in-sky-in-pueblo-area-and-se-colorado-captured-in-photos-and-vide/725307873060515/)  
+   Link: <a href="https://www.facebook.com/PuebloIndependent/posts/mystery-lights-in-sky-in-pueblo-area-and-se-colorado-captured-in-photos-and-vide/725307873060515/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PuebloIndependent/posts/mystery-lights-in-sky-in-pueblo-area-and-se-colorado-captured-in-photos-and-vide/725307873060515/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MYSTERY LIGHTS IN SKY IN PUEBLO AREA AND SE...MYSTERY LIGHTS IN SKY IN PUEBLO AREA AND SE COLORADO CAPTURED IN PHOTOS AND VIDEO - Here a...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
    Title: from spherical objects to odd lights some wild sightings have reportedly been se  
-   Link: [https://www.facebook.com/outtherecolorado/posts/from-spherical-objects-to-odd-lights-some-wild-sightings-have-reportedly-been-se/587602346733144/](https://www.facebook.com/outtherecolorado/posts/from-spherical-objects-to-odd-lights-some-wild-sightings-have-reportedly-been-se/587602346733144/)  
+   Link: <a href="https://www.facebook.com/outtherecolorado/posts/from-spherical-objects-to-odd-lights-some-wild-sightings-have-reportedly-been-se/587602346733144/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/outtherecolorado/posts/from-spherical-objects-to-odd-lights-some-wild-sightings-have-reportedly-been-se/587602346733144/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From spherical objects to odd lights, some wild sightings...Strange UFO lights filmed over Colorado 13-Jan-2018. September... Some say...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/outtherecolorado/videos/-this-image-was-captured-on-an-iphone-and-not-otherwise-doctored-or-changed-thou/440861485755826/](https://www.facebook.com/outtherecolorado/videos/-this-image-was-captured-on-an-iphone-and-not-otherwise-doctored-or-changed-thou/440861485755826/)  
+   Link: <a href="https://www.facebook.com/outtherecolorado/videos/-this-image-was-captured-on-an-iphone-and-not-otherwise-doctored-or-changed-thou/440861485755826/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/outtherecolorado/videos/-this-image-was-captured-on-an-iphone-and-not-otherwise-doctored-or-changed-thou/440861485755826/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>🛸 This image was captured on an iPhone and not otherwise...Ft Carson does occasionally fire flares and does drone training, which have f...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/USArmyFortCarson/posts/an-aurora-colors-the-colorado-sky-above-fort-carson-may-10-according-to-the-nati/849257460567606/](https://www.facebook.com/USArmyFortCarson/posts/an-aurora-colors-the-colorado-sky-above-fort-carson-may-10-according-to-the-nati/849257460567606/)  
+   Link: <a href="https://www.facebook.com/USArmyFortCarson/posts/an-aurora-colors-the-colorado-sky-above-fort-carson-may-10-according-to-the-nati/849257460567606/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USArmyFortCarson/posts/an-aurora-colors-the-colorado-sky-above-fort-carson-may-10-according-to-the-nati/849257460567606/</a>  
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: westernmassnews.com  
-   Link: [https://www.westernmassnews.com/video/2023/04/06/watch-strange-lights-spotted-sky-west-colorado-springs-april-5-2023/](https://www.westernmassnews.com/video/2023/04/06/watch-strange-lights-spotted-sky-west-colorado-springs-april-5-2023/)  
+   Link: <a href="https://www.westernmassnews.com/video/2023/04/06/watch-strange-lights-spotted-sky-west-colorado-springs-april-5-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.westernmassnews.com/video/2023/04/06/watch-strange-lights-spotted-sky-west-colorado-springs-april-5-2023/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Strange lights spotted in the sky west of Colorado...A spokesperson says those lights are actually flare rounds and they&#x27;re being...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: kalb.com  
-   Link: [https://www.kalb.com/video/2023/04/06/watch-strange-lights-spotted-sky-west-colorado-springs-april-5-2023/](https://www.kalb.com/video/2023/04/06/watch-strange-lights-spotted-sky-west-colorado-springs-april-5-2023/)  
+   Link: <a href="https://www.kalb.com/video/2023/04/06/watch-strange-lights-spotted-sky-west-colorado-springs-april-5-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.kalb.com/video/2023/04/06/watch-strange-lights-spotted-sky-west-colorado-springs-april-5-2023/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.kalb.comWATCH:](https://www.kalb.comWATCH:) Strange lights spotted in the sky west of Colorado...WATCH: Strange lights spotted in the sky west of Colorad...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: mysuncoast.com  
-   Link: [https://www.mysuncoast.com/video/2023/04/06/watch-strange-lights-spotted-sky-west-colorado-springs-april-5-2023/](https://www.mysuncoast.com/video/2023/04/06/watch-strange-lights-spotted-sky-west-colorado-springs-april-5-2023/)  
+   Link: <a href="https://www.mysuncoast.com/video/2023/04/06/watch-strange-lights-spotted-sky-west-colorado-springs-april-5-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.mysuncoast.com/video/2023/04/06/watch-strange-lights-spotted-sky-west-colorado-springs-april-5-2023/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: Strange lights spotted in the sky west of Colorado...WATCH: Strange lights spotted in the sky west of Colorado Springs April 5, 2...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: denvergazette.com  
    Title: strange lights spotted above colorado springs heres what they were  
-   Link: [https://www.denvergazette.com/2023/04/07/strange-lights-spotted-above-colorado-springs-heres-what-they-were/](https://www.denvergazette.com/2023/04/07/strange-lights-spotted-above-colorado-springs-heres-what-they-were/)  
+   Link: <a href="https://www.denvergazette.com/2023/04/07/strange-lights-spotted-above-colorado-springs-heres-what-they-were/" target="_blank" rel="noopener noreferrer nofollow">https://www.denvergazette.com/2023/04/07/strange-lights-spotted-above-colorado-springs-heres-what-they-were/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Denver GazetteStrange lights spotted above Colorado Springs7 Apr 2023 — According to the International UFO Report Index, unidentified fly...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: koaa.com  
-   Link: [https://www.koaa.com/news/local-news/fort-carson-soldiers-conducting-live-fire-training-next-week-through-august](https://www.koaa.com/news/local-news/fort-carson-soldiers-conducting-live-fire-training-next-week-through-august)  
+   Link: <a href="https://www.koaa.com/news/local-news/fort-carson-soldiers-conducting-live-fire-training-next-week-through-august" target="_blank" rel="noopener noreferrer nofollow">https://www.koaa.com/news/local-news/fort-carson-soldiers-conducting-live-fire-training-next-week-through-august</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fort Carson soldiers conducting live-fire training next week...21 Jul 2025 — The training is expected to start on Monday, July 28 and en...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: metabunk.org  
    Title: caison bests fort carson uap report.14412  
-   Link: [https://www.metabunk.org/threads/caison-bests-fort-carson-uap-report.14412/](https://www.metabunk.org/threads/caison-bests-fort-carson-uap-report.14412/)  
+   Link: <a href="https://www.metabunk.org/threads/caison-bests-fort-carson-uap-report.14412/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/caison-bests-fort-carson-uap-report.14412/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Caison Best&#x27;s Fort Carson UAP Report2 Sept 2025 — Growing up here, I had never seen a UAP or UFO. We see flares by the bases that people...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: WATCH: Strange lights spotted in the sky west of Colorado Springs  
-   Link: [https://www.youtube.com/watch?v=8fLH9DLWHiU](https://www.youtube.com/watch?v=8fLH9DLWHiU)  
+   Link: <a href="https://www.youtube.com/watch?v=8fLH9DLWHiU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8fLH9DLWHiU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 WATCH: Strange lights spotted in the sky from Colorado and Arizona explained...</p></details>
    Published: April 5, 2023  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: WATCH: Strange lights spotted in the sky from Colorado and Arizona explained!  
-   Link: [https://www.youtube.com/watch?v=KQSQh8WrEx8](https://www.youtube.com/watch?v=KQSQh8WrEx8)  
+   Link: <a href="https://www.youtube.com/watch?v=KQSQh8WrEx8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KQSQh8WrEx8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 What is that light over Colorado Springs?...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Colorado's Strangest Mysteries Just Got Weirder  
-   Link: [https://www.youtube.com/watch?v=XDUmOhPjUpQ](https://www.youtube.com/watch?v=XDUmOhPjUpQ)  
+   Link: <a href="https://www.youtube.com/watch?v=XDUmOhPjUpQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XDUmOhPjUpQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Former senior intelligence officer finds UAP by Colorado defense bunker | Reality Check...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: denvergazette.com  
    Title: 12 times ufos have been reported in colorado so far in 2023  
-   Link: [https://www.denvergazette.com/2023/04/07/12-times-ufos-have-been-reported-in-colorado-so-far-in-2023/](https://www.denvergazette.com/2023/04/07/12-times-ufos-have-been-reported-in-colorado-so-far-in-2023/)  
+   Link: <a href="https://www.denvergazette.com/2023/04/07/12-times-ufos-have-been-reported-in-colorado-so-far-in-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.denvergazette.com/2023/04/07/12-times-ufos-have-been-reported-in-colorado-so-far-in-2023/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Videos captured show at least...Read more...</p></details>

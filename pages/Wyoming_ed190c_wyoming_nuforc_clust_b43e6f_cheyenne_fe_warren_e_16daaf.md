@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /sightings-map-a1af37/
 nav_short_title: Cheyenne
 title: Why Cheyenne Tops Wyoming's UFO List
-title_full: Why Cheyenne Tops Wyoming's UFO List | Sightings Map
+title_full: Why Cheyenne Tops Wyoming's UFO List
 display_title_short: Cheyenne
 display_title: Cheyenne
 heading_title: Why Cheyenne Tops Wyoming's UFO List
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:34:13'
-parent_title: Where Do Wyoming UFO Reports Cluster? | Wyoming UFOs
+parent_title: Where Do Wyoming UFO Reports Cluster?
 parent_permalink: /sightings-map-a1af37/
 parent_nav_short_title: Sightings Map
 parent_heading_title: Where Do Wyoming UFO Reports Cluster?
@@ -250,18 +250,16 @@ image: /assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_cheyenne_fe_war
 
 ## Introduction
 
-Cheyenne sits at the top of [Wyoming]({{ 'what-really-happened-in-wyoming-skies/' | relative_url }})’s modern UFO reporting map, but that fact is less mysterious than it first appears. As the state capital, one of Wyoming’s largest population centres, a regional aviation hub and the home of F.E. Warren Air Force Base, it combines several ingredients that tend to generate unusual-sky reports. NUFORC-based rankings have consistently placed Cheyenne first among Wyoming cities for reported sightings since the mid-1990s, with around 50 reports in recent counts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/wyoming/cities-most-ufo-sightings-wyoming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">cities most ufo sightings wyoming</span><span class="citation-popover-snippet">StackerCities With the Most UFO Sightings in Wyoming12 May 2025 — Stacker compiled a ranking of cities with the most UFO sightings in Wyo...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Cheyenne sits at the top of Wyoming’s modern UFO reporting map, but that fact is less mysterious than it first appears. As the state capital, one of Wyoming’s largest population centres, a regional aviation hub and the home of F.E. Warren Air Force Base, it combines several ingredients that tend to generate unusual-sky reports. NUFORC-based rankings have consistently placed Cheyenne first among Wyoming cities for reported sightings since the mid-1990s, with around 50 reports in recent counts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/wyoming/cities-most-ufo-sightings-wyoming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">cities most ufo sightings wyoming</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Wyoming12 May 2025 — Stacker compiled a ranking of cities with the most UFO sightings in Wyo...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_cheyenne_fe_warren_e_16daaf-Illustration-1-light.svg" | relative_url }}" alt="Cheyenne illustration 1" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_cheyenne_fe_warren_e_16daaf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_cheyenne_fe_warren_e_16daaf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_cheyenne_fe_warren_e_16daaf-Illustration-1-dark.svg" | relative_url }}" alt="Cheyenne illustration 1" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_cheyenne_fe_warren_e_16daaf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_cheyenne_fe_warren_e_16daaf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The more interesting question is why Cheyenne produces so many reports. The answer lies in the overlap between public UFO reporting and a landscape filled with military aircraft, missile operations, training flights, satellites, weather conditions that favour long-distance visibility, and a population accustomed to watching the sky. That does not mean every report has an ordinary explanation. It does mean that any attempt to understand Cheyenne’s reputation has to start with aviation and military activity rather than leap immediately to extraordinary conclusions.
 
 ## Why Cheyenne Tops Wyoming's UFO List
 
-Cheyenne’s position at the top of Wyoming’s NUFORC rankings has remained broadly stable across different database snapshots and media analyses. Recent compilations based on NUFORC records place the city ahead of Casper and Laramie, even though the absolute numbers remain relatively small compared with major metropolitan areas elsewhere in the United States. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/wyoming/cities-most-ufo-sightings-wyoming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">cities most ufo sightings wyoming</span><span class="citation-popover-snippet">StackerCities With the Most UFO Sightings in Wyoming12 May 2025 — Stacker compiled a ranking of cities with the most UFO sightings in Wyo...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cowboystatedaily.com/2025/01/01/cheyenne-reports-more-ufo-sightings-than-anywhere-else-in-wyoming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">cheyenne reports more ufo sightings than anywhere else in wyoming</span><span class="citation-popover-snippet">Cheyenne tops the list of Wyoming places with the most sightings, reporting 50 aerial...Read more...</span></span></span>
+Cheyenne’s position at the top of Wyoming’s NUFORC rankings has remained broadly stable across different database snapshots and media analyses. Recent compilations based on NUFORC records place the city ahead of Casper and Laramie, even though the absolute numbers remain relatively small compared with major metropolitan areas elsewhere in the United States. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacker.com/stories/wyoming/cities-most-ufo-sightings-wyoming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacker.com">[Stacker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacker.com</span><span class="citation-popover-title">cities most ufo sightings wyoming</span><span class="citation-popover-snippet">Cities With the Most UFO Sightings in Wyoming12 May 2025 — Stacker compiled a ranking of cities with the most UFO sightings in Wyo...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cowboystatedaily.com/2025/01/01/cheyenne-reports-more-ufo-sightings-than-anywhere-else-in-wyoming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">cheyenne reports more ufo sightings than anywhere else in wyoming</span><span class="citation-popover-snippet">Cheyenne tops the list of Wyoming places with the most sightings, reporting 50 aerial...Read more...</span></span></span>
 
 Several factors help explain the concentration:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -283,12 +281,11 @@ No discussion of Cheyenne’s UFO history can avoid F.E. Warren Air Force Base. 
 
 The connection dates back decades. Declassified Project Blue Book material shows that Wyoming generated military-era UFO reports during the 1950s and 1960s, and later UFO researchers increasingly focused on nuclear weapons sites as potential hotspots for unusual sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">Air Force Fact Sheet on UFOs and Project BLUE BOOK; Reference... Base, whose personnel no longer receive, document, or investigate UFO...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://trib.com/news/state-regional/collection_67a30167-c71d-51f1-8c74-2fb3c7928456.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trib.com">[2trib.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trib.com</span><span class="citation-popover-snippet">Air Force&#x27;s long-shuttered Project Blue Book, its program to collect UFO sighting reports...</span></span></span>
 
-Within UFO culture, Warren became associated with recurring stories that unidentified objects had been observed near missile facilities. Some of those claims come from former service personnel interviewed years after the alleged events. Researchers such as Robert Hastings have argued that sightings around nuclear installations deserve special attention because similar stories appear at multiple missile bases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Warren 1965</span><span class="citation-popover-snippet">RR0F.E. Warren AFB, Wyoming (1965)10 May 2025 —... AFB, to report several UFO sightings at Warren&#x27;s Minuteman missile sites.... pilot i...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Within UFO culture, Warren became associated with recurring stories that unidentified objects had been observed near missile facilities. Some of those claims come from former service personnel interviewed years after the alleged events. Researchers such as Robert Hastings have argued that sightings around nuclear installations deserve special attention because similar stories appear at multiple missile bases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Warren 1965</span><span class="citation-popover-snippet">F.E. Warren AFB, Wyoming (1965)10 May 2025 —... AFB, to report several UFO sightings at Warren&#x27;s Minuteman missile sites.... pilot i...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 The difficulty is that many of the most dramatic Warren stories rely heavily on retrospective testimony rather than publicly available technical evidence. In numerous cases there are no released radar records, photographs or official investigative files capable of independently confirming what witnesses believed they saw.
 
 That does not mean witnesses were necessarily mistaken. It means the evidential foundation is often weaker than later retellings suggest.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kP8eCbWHg-o" title="Carl Higdon Abduction, 1974" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kP8eCbWHg-o" target="_blank" rel="noopener noreferrer">Carl Higdon Abduction, 1974</a></p><p class="youtube-embed-meta">Channel: Think Anomalous &middot; Views: 634.6K &middot; Uploaded: February 2024 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kP8eCbWHg-o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kP8eCbWHg-o">Open on YouTube</a></p></div></div></div>
 
@@ -312,7 +309,6 @@ What is well established:
 
 What remains disputed:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Whether unusual aerial objects were actually present.
@@ -323,8 +319,7 @@ What remains disputed:
 
 For sceptics, the lack of direct evidence linking the outage to unidentified objects is decisive. For UFO researchers, the combination of missile disruption and witness testimony keeps the case open. More than a decade later, the event remains unresolved rather than confirmed.
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_cheyenne_fe_warren_e_16daaf-Illustration-2-light.svg" | relative_url }}" alt="Cheyenne illustration 2" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_cheyenne_fe_warren_e_16daaf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_cheyenne_fe_warren_e_16daaf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_cheyenne_fe_warren_e_16daaf-Illustration-2-dark.svg" | relative_url }}" alt="Cheyenne illustration 2" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_cheyenne_fe_warren_e_16daaf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_cheyenne_fe_warren_e_16daaf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aircraft, Training Flights and Ordinary Sky Traffic
 
 One reason Cheyenne produces so many UFO reports is that genuine mystery cases share airspace with a large number of entirely ordinary objects.
@@ -332,7 +327,6 @@ One reason Cheyenne produces so many UFO reports is that genuine mystery cases s
 Cheyenne Regional Airport generates regular civilian traffic, while F.E. Warren contributes military aircraft activity and support operations. Aircraft viewed at unusual angles, especially at night, can appear stationary, suddenly accelerate or seem much larger or smaller than they really are.
 
 Several recurring features appear in modern Cheyenne-area reports:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -348,17 +342,15 @@ Each of those descriptions can sometimes correspond to ordinary causes. Aircraft
 
 This does not mean every sighting has been solved. It does explain why investigators approach Cheyenne reports cautiously.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FW4q3tSzyCA" title="Military Whistleblowers Reveal UFO Secrets | UFOs and Nukes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FW4q3tSzyCA" target="_blank" rel="noopener noreferrer">Military Whistleblowers Reveal UFO Secrets | UFOs and Nukes</a></p><p class="youtube-embed-meta">Channel: Lehto Files &middot; Views: 26.5K &middot; Uploaded: July 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FW4q3tSzyCA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FW4q3tSzyCA">Open on YouTube</a></p></div></div></div>
 
 ## What Recent Reports Can and Cannot Prove
 
-Modern reporting databases preserve many sincere accounts from Cheyenne residents. Some describe lights moving in unusual ways. Others involve multiple witnesses. A few come from people with aviation or military backgrounds. Recent discussions online continue to show observers trying to identify objects seen near the airport or over the city. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1emo3y9/uaps_in_cheyenne_wyoming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditUAPs in Cheyenne, Wyoming?: r/UFOsOur post office is located near the Cheyenne Regional AirPort, so there&#x27;s always the possibility...</span></span></span>
+Modern reporting databases preserve many sincere accounts from Cheyenne residents. Some describe lights moving in unusual ways. Others involve multiple witnesses. A few come from people with aviation or military backgrounds. Recent discussions online continue to show observers trying to identify objects seen near the airport or over the city. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1emo3y9/uaps_in_cheyenne_wyoming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">UAPs in Cheyenne, Wyoming?: r/UFOsOur post office is located near the Cheyenne Regional AirPort, so there&#x27;s always the possibility...</span></span></span>
 
 Yet the limits of the evidence are just as important as the reports themselves.
 
 Most modern cases lack:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -376,8 +368,7 @@ The city’s military setting further complicates interpretation. Some residents
 
 Cheyenne therefore illustrates a broader lesson about modern UFO databases. High report numbers can identify places worth studying, but they do not by themselves establish the presence of unexplained craft.
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_cheyenne_fe_warren_e_16daaf-Illustration-3-light.svg" | relative_url }}" alt="Cheyenne illustration 3" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_cheyenne_fe_warren_e_16daaf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_cheyenne_fe_warren_e_16daaf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_cheyenne_fe_warren_e_16daaf-Illustration-3-dark.svg" | relative_url }}" alt="Cheyenne illustration 3" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_cheyenne_fe_warren_e_16daaf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_cheyenne_fe_warren_e_16daaf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Lasting “F.E. Warren Effect”
 
 The strongest explanation for Cheyenne’s prominence is not a single dramatic incident but a combination of geography, infrastructure and reputation.
@@ -388,9 +379,7 @@ At the same time, the evidence does not support the stronger claim that Cheyenne
 
 That tension is exactly what makes Cheyenne important within Wyoming’s modern UFO landscape. It is not merely a place with many reports. It is a place where military history, public curiosity and genuine observational uncertainty intersect, making it one of the state’s most persistent and debated UFO locations.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3jUU4Z8QdHI" title="Disclosure Conference, National Press Club, 27 September 2010 (extended version, English subtitles)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3jUU4Z8QdHI" target="_blank" rel="noopener noreferrer">Disclosure Conference, National Press Club, 27 September 2010 (extended version, English subtitles)</a></p><p class="youtube-embed-meta">Channel: AlphaZebra &middot; Views: 263.6K &middot; Uploaded: October 2010 &middot; Length: 1 hour 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3jUU4Z8QdHI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3jUU4Z8QdHI">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bi-VvMa0y_U" title="The Unexplained 1997 UFO Encounter in Wyoming – Real Witness Accounts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bi-VvMa0y_U" target="_blank" rel="noopener noreferrer">The Unexplained 1997 UFO Encounter in Wyoming – Real Witness Accounts</a></p><p class="youtube-embed-meta">Channel: Memory Vault &middot; Views: 331 &middot; Uploaded: May 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bi-VvMa0y_U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bi-VvMa0y_U">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -478,7 +467,7 @@ That tension is exactly what makes Cheyenne important within Wyoming’s modern 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -488,111 +477,36 @@ That tension is exactly what makes Cheyenne important within Wyoming’s modern 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT"><img src="{{ '/assets/images/marketplace-covers/c4fa2fd111d52b7bddcf.jpg' | relative_url }}" alt="Listing image for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX"><img src="https://i.ebayimg.com/images/g/D6YAAeSwgIhqJsph/s-l225.jpg" alt="Listing image for UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display"><img src="{{ '/assets/images/marketplace-covers/27c78e3de724e607809d.jpg' | relative_url }}" alt="Listing image for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -600,15 +514,15 @@ That tension is exactly what makes Cheyenne important within Wyoming’s modern 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -616,15 +530,15 @@ That tension is exactly what makes Cheyenne important within Wyoming’s modern 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grateful Dead Bertha UFO Maxi Poster"><img src="https://i.ebayimg.com/images/g/pM4AAeSwvQporxeM/s-l225.jpg" alt="Listing image for Grateful Dead Bertha UFO Maxi Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">Grateful Dead Bertha UFO Maxi Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -632,15 +546,15 @@ That tension is exactly what makes Cheyenne important within Wyoming’s modern 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -648,7 +562,7 @@ That tension is exactly what makes Cheyenne important within Wyoming’s modern 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cheyenne-why-cheyenne-tops-wyoming-s-ufo-list-wyoming-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-cheyenne-tops-wyoming-s-ufo-list-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tick" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -725,17 +639,31 @@ That tension is exactly what makes Cheyenne important within Wyoming’s modern 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -748,42 +676,73 @@ That tension is exactly what makes Cheyenne important within Wyoming’s modern 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -798,12 +757,17 @@ That tension is exactly what makes Cheyenne important within Wyoming’s modern 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -814,127 +778,127 @@ That tension is exactly what makes Cheyenne important within Wyoming’s modern 
 1. <a id="endnote-1"></a>
    Source: stacker.com  
    Title: cities most ufo sightings wyoming  
-   Link: [https://stacker.com/stories/wyoming/cities-most-ufo-sightings-wyoming](https://stacker.com/stories/wyoming/cities-most-ufo-sightings-wyoming)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StackerCities With the Most UFO Sightings in Wyoming12 May 2025 — Stacker compiled a ranking of cities with the most UFO sightings in Wyo...</p></details>
+   Link: <a href="https://stacker.com/stories/wyoming/cities-most-ufo-sightings-wyoming" target="_blank" rel="noopener noreferrer nofollow">https://stacker.com/stories/wyoming/cities-most-ufo-sightings-wyoming</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cities With the Most UFO Sightings in Wyoming12 May 2025 — Stacker compiled a ranking of cities with the most UFO sightings in Wyo...</p></details>
    Published: May 2025  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lWY](https://nuforc.org/subndx/?id=lWY)  
+   Link: <a href="https://nuforc.org/subndx/?id=lWY" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lWY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State WYThree year old boy witnesses from back the seat of a car the approach of three flying disks. 07/04/1997. Open...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Fact Sheet on UFOs and Project BLUE BOOK; Reference... Base, whose personnel no longer receive, document, or investigate UFO...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: trib.com  
-   Link: [https://trib.com/news/state-regional/collection_67a30167-c71d-51f1-8c74-2fb3c7928456.html](https://trib.com/news/state-regional/collection_67a30167-c71d-51f1-8c74-2fb3c7928456.html)  
+   Link: <a href="https://trib.com/news/state-regional/collection_67a30167-c71d-51f1-8c74-2fb3c7928456.html" target="_blank" rel="noopener noreferrer nofollow">https://trib.com/news/state-regional/collection_67a30167-c71d-51f1-8c74-2fb3c7928456.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force&#x27;s long-shuttered Project Blue Book, its program to collect UFO sighting reports...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: rr0.org  
    Title: Warren 1965  
-   Link: [https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/](https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RR0F.E. Warren AFB, Wyoming (1965)10 May 2025 —... AFB, to report several UFO sightings at Warren&#x27;s Minuteman missile sites.... pilot i...</p></details>
+   Link: <a href="https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>F.E. Warren AFB, Wyoming (1965)10 May 2025 —... AFB, to report several UFO sightings at Warren&#x27;s Minuteman missile sites.... pilot i...</p></details>
    Published: May 2025  
 
 6. <a id="endnote-6"></a>
    Source: theworld.org  
    Title: did ufos bring us brink nuclear launch  
-   Link: [https://theworld.org/stories/2016/08/01/did-ufos-bring-us-brink-nuclear-launch](https://theworld.org/stories/2016/08/01/did-ufos-bring-us-brink-nuclear-launch)  
+   Link: <a href="https://theworld.org/stories/2016/08/01/did-ufos-bring-us-brink-nuclear-launch" target="_blank" rel="noopener noreferrer nofollow">https://theworld.org/stories/2016/08/01/did-ufos-bring-us-brink-nuclear-launch</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The World from PRXDid UFOs bring US to brink of nuclear launch?1 Aug 2016 — Did a UFO cause power failure at nuclear missile base? Missil...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: wired.com  
    Title: communications dropped to 50 nuke missiles in icbm snafu  
-   Link: [https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu/](https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu/)  
+   Link: <a href="https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gulp. Backup security...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: theufochronicles.com  
    Title: huge ufo sighted near nuclear missiles 19  
-   Link: [https://www.theufochronicles.com/2011/06/huge-ufo-sighted-near-nuclear-missiles_19.html](https://www.theufochronicles.com/2011/06/huge-ufo-sighted-near-nuclear-missiles_19.html)  
+   Link: <a href="https://www.theufochronicles.com/2011/06/huge-ufo-sighted-near-nuclear-missiles_19.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2011/06/huge-ufo-sighted-near-nuclear-missiles_19.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Warren Air Force Base, in Cheyenne, Wyoming, temporarily lost the ability to communicate with 50 of its Minuteman...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1emo3y9/uaps_in_cheyenne_wyoming/](https://www.reddit.com/r/UFOs/comments/1emo3y9/uaps_in_cheyenne_wyoming/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditUAPs in Cheyenne, Wyoming?: r/UFOsOur post office is located near the Cheyenne Regional AirPort, so there&#x27;s always the possibility...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1emo3y9/uaps_in_cheyenne_wyoming/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1emo3y9/uaps_in_cheyenne_wyoming/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPs in Cheyenne, Wyoming?: r/UFOsOur post office is located near the Cheyenne Regional AirPort, so there&#x27;s always the possibility...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
    Title: I'm assuming it's space debris, but I'm not sure as it seems to have  
-   Link: [https://www.reddit.com/r/askastronomy/comments/1ec0p9v/saw_this_unknown_object_over_cheyenne_wyoming/](https://www.reddit.com/r/askastronomy/comments/1ec0p9v/saw_this_unknown_object_over_cheyenne_wyoming/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditSaw This Unknown Object Over Cheyenne, Wyoming: r...I was taking a walk last night (07/25/24) at 9:10 and I noticed this in the s...</p></details>
+   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1ec0p9v/saw_this_unknown_object_over_cheyenne_wyoming/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1ec0p9v/saw_this_unknown_object_over_cheyenne_wyoming/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Saw This Unknown Object Over Cheyenne, Wyoming: r...I was taking a walk last night (07/25/24) at 9:10 and I noticed this in the s...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lMT](https://nuforc.org/subndx/?id=lMT)  
+   Link: <a href="https://nuforc.org/subndx/?id=lMT" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lMT</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State MTNUFORC Reports for State MT.; Open, 10/18/2024 19:40, Billings, MT, USA; Open. 09/29/2024 21:50, Bozeman, M...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: theufochronicles.com  
    Title: New Reports of UFO Activity Near F.E  
-   Link: [https://www.theufochronicles.com/2012/01/new-reports-of-ufo-activity-near-fe.html](https://www.theufochronicles.com/2012/01/new-reports-of-ufo-activity-near-fe.html)  
+   Link: <a href="https://www.theufochronicles.com/2012/01/new-reports-of-ufo-activity-near-fe.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2012/01/new-reports-of-ufo-activity-near-fe.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Warren AFB&#x27;s...5 Jan 2012 —... UFOs Spotted Near Air Force Base Missile Silos: Five glowing orbs witnessed over F.E. Warren Air Force B...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theufochronicles.com  
    Title: UF Os & NUKES | Civilians Report UFOs in F.E  
-   Link: [https://www.theufochronicles.com/2011/04/ufos-nukes-civilians-report-ufos-in-fe.html](https://www.theufochronicles.com/2011/04/ufos-nukes-civilians-report-ufos-in-fe.html)  
+   Link: <a href="https://www.theufochronicles.com/2011/04/ufos-nukes-civilians-report-ufos-in-fe.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2011/04/ufos-nukes-civilians-report-ufos-in-fe.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Warren&#x27;s...30 Apr 2011 — On October 23, 2010, an event took place that would appear to come right off the pages of a Tom Clancy story. F...</p></details>
    Published: October 23, 2010  
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
    Title: wyoming ufo sightings by city cheyenne leads  
-   Link: [https://www.reddit.com/r/UfoUapNews/comments/1sdx79g/wyoming_ufo_sightings_by_city_cheyenne_leads/](https://www.reddit.com/r/UfoUapNews/comments/1sdx79g/wyoming_ufo_sightings_by_city_cheyenne_leads/)  
+   Link: <a href="https://www.reddit.com/r/UfoUapNews/comments/1sdx79g/wyoming_ufo_sightings_by_city_cheyenne_leads/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UfoUapNews/comments/1sdx79g/wyoming_ufo_sightings_by_city_cheyenne_leads/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wyoming UFO Sightings by City: Cheyenne Leads...6 Apr 2026 — Based on NUFORC data dating to 1995 (with cross-city sightings excluded), W...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/wyoming/comments/ydk55w/weird_experiences_in_wyoming/](https://www.reddit.com/r/wyoming/comments/ydk55w/weird_experiences_in_wyoming/)  
+   Link: <a href="https://www.reddit.com/r/wyoming/comments/ydk55w/weird_experiences_in_wyoming/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/wyoming/comments/ydk55w/weird_experiences_in_wyoming/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Weird Experiences In WyomingAt FE Warren air force base in the Cheyenne the original officers house&#x27;s are said to be haunted. Several yea...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Title: list of Incidents at nuclear facilities involving UFOs  
-   Link: [https://www.reddit.com/r/aliens/comments/16lbl43/list_of_incidents_at_nuclear_facilities_involving/](https://www.reddit.com/r/aliens/comments/16lbl43/list_of_incidents_at_nuclear_facilities_involving/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/16lbl43/list_of_incidents_at_nuclear_facilities_involving/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/16lbl43/list_of_incidents_at_nuclear_facilities_involving/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Add...2010: Several Minuteman nuclear missiles at F.E. Warren Air Force Base in Wyoming temporarily lost communication after a large cig...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1nqqeqm/unknown_object_cheyenne_wy/](https://www.reddit.com/r/UFOs/comments/1nqqeqm/unknown_object_cheyenne_wy/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1nqqeqm/unknown_object_cheyenne_wy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1nqqeqm/unknown_object_cheyenne_wy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unknown object Cheyenne, WY: r/UFOsIs a coincidence that starlink was launched the same morning as your sighting though so it&#x27;s got me s...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cowboystatedaily.com  
    Title: cheyenne reports more ufo sightings than anywhere else in wyoming  
-   Link: [https://cowboystatedaily.com/2025/01/01/cheyenne-reports-more-ufo-sightings-than-anywhere-else-in-wyoming/](https://cowboystatedaily.com/2025/01/01/cheyenne-reports-more-ufo-sightings-than-anywhere-else-in-wyoming/)  
+   Link: <a href="https://cowboystatedaily.com/2025/01/01/cheyenne-reports-more-ufo-sightings-than-anywhere-else-in-wyoming/" target="_blank" rel="noopener noreferrer nofollow">https://cowboystatedaily.com/2025/01/01/cheyenne-reports-more-ufo-sightings-than-anywhere-else-in-wyoming/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cheyenne tops the list of Wyoming places with the most sightings, reporting 50 aerial...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: armscontrolcenter.org  
    Title: Arms Control Center Aliens Disrupt ICBMs at F.E  
-   Link: [https://armscontrolcenter.org/aliens-disrupt-icbms-at-f-e-warren/](https://armscontrolcenter.org/aliens-disrupt-icbms-at-f-e-warren/)  
+   Link: <a href="https://armscontrolcenter.org/aliens-disrupt-icbms-at-f-e-warren/" target="_blank" rel="noopener noreferrer nofollow">https://armscontrolcenter.org/aliens-disrupt-icbms-at-f-e-warren/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Warren?26 Oct 2010 — A power failure at FE Warren Air Force Base in Wyoming that took 50 nuclear intercontinental ballistic missiles (ICB...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: cowboystatedaily.com  
-   Link: [https://cowboystatedaily.com/2022/05/11/cheyenne-man-spots-ufos-over-city-don-day-says-wyoming-not-under-alien-attack/](https://cowboystatedaily.com/2022/05/11/cheyenne-man-spots-ufos-over-city-don-day-says-wyoming-not-under-alien-attack/)  
+   Link: <a href="https://cowboystatedaily.com/2022/05/11/cheyenne-man-spots-ufos-over-city-don-day-says-wyoming-not-under-alien-attack/" target="_blank" rel="noopener noreferrer nofollow">https://cowboystatedaily.com/2022/05/11/cheyenne-man-spots-ufos-over-city-don-day-says-wyoming-not-under-alien-attack/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cowboy State DailyDon Day Says Wyoming Not Under Alien AttackMay 11, 2022 — 11 May 2022 — Cheyenne Man Spots UFOs Over City; Don Day Says...</p></details>
    Published: May 11, 2022  
 
 22. <a id="endnote-22"></a>
    Source: cowboystatedaily.com  
-   Link: [https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-cheyenne-man-still-trying-to-figure-out-what-he-saw/](https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-cheyenne-man-still-trying-to-figure-out-what-he-saw/)  
+   Link: <a href="https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-cheyenne-man-still-trying-to-figure-out-what-he-saw/" target="_blank" rel="noopener noreferrer nofollow">https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-cheyenne-man-still-trying-to-figure-out-what-he-saw/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>35 Years After UFO Encounter, Cheyenne Man Still Trying...16 May 2026 — The son and father kept their UFO sighting to themselves for man...</p></details>
    Published: May 2026  
 
@@ -943,56 +907,56 @@ That tension is exactly what makes Cheyenne important within Wyoming’s modern 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
    Title: the national ufo reporting center has recorded more than 150000 ufo sightings ac  
-   Link: [https://www.facebook.com/WTNH8/posts/the-national-ufo-reporting-center-has-recorded-more-than-150000-ufo-sightings-ac/574908844681445/](https://www.facebook.com/WTNH8/posts/the-national-ufo-reporting-center-has-recorded-more-than-150000-ufo-sightings-ac/574908844681445/)  
+   Link: <a href="https://www.facebook.com/WTNH8/posts/the-national-ufo-reporting-center-has-recorded-more-than-150000-ufo-sightings-ac/574908844681445/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WTNH8/posts/the-national-ufo-reporting-center-has-recorded-more-than-150000-ufo-sightings-ac/574908844681445/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The National UFO Reporting Center has recorded more...Wyoming&#x27;s Cheyenne leads with 50 sightings since 1995. Total sightings in the US e...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
    Title: uncover the secret history of 3 ufo crash sites and the bizarre phenomena they e  
-   Link: [https://www.facebook.com/TheUnXplainedZone/posts/uncover-the-secret-history-of-3-ufo-crash-sites-and-the-bizarre-phenomena-they-e/1214136700915760/](https://www.facebook.com/TheUnXplainedZone/posts/uncover-the-secret-history-of-3-ufo-crash-sites-and-the-bizarre-phenomena-they-e/1214136700915760/)  
+   Link: <a href="https://www.facebook.com/TheUnXplainedZone/posts/uncover-the-secret-history-of-3-ufo-crash-sites-and-the-bizarre-phenomena-they-e/1214136700915760/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/uncover-the-secret-history-of-3-ufo-crash-sites-and-the-bizarre-phenomena-they-e/1214136700915760/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Uncover the secret history of 3 UFO crash sites2010, F.E. Warren Air Force Base, Wyoming, USA: A cigar-shaped UFO was reported near the b...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
    Title: for more than 13 months swarms of ufos have been appearing over a wyoming power  
-   Link: [https://www.facebook.com/BroBible/posts/for-more-than-13-months-swarms-of-ufos-have-been-appearing-over-a-wyoming-power-/1331379789029146/](https://www.facebook.com/BroBible/posts/for-more-than-13-months-swarms-of-ufos-have-been-appearing-over-a-wyoming-power-/1331379789029146/)  
+   Link: <a href="https://www.facebook.com/BroBible/posts/for-more-than-13-months-swarms-of-ufos-have-been-appearing-over-a-wyoming-power-/1331379789029146/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BroBible/posts/for-more-than-13-months-swarms-of-ufos-have-been-appearing-over-a-wyoming-power-/1331379789029146/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For more than 13 months, swarms of UFOs have been...Wyoming&#x27;s Cheyenne leads with 50 sightings since 1995. Total... Nevada&#x27;s Lincoln Co...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: ryan-sprague51.medium.com  
    Title: the ufo incident over [f e warren](&#123;&#123; 'f-e-warren/' | relative_url &#125;&#125;) air force base 29e1afe34948  
-   Link: [https://ryan-sprague51.medium.com/the-ufo-incident-over-f-e-warren-air-force-base-29e1afe34948](https://ryan-sprague51.medium.com/the-ufo-incident-over-f-e-warren-air-force-base-29e1afe34948)  
+   Link: <a href="https://ryan-sprague51.medium.com/the-ufo-incident-over-f-e-warren-air-force-base-29e1afe34948" target="_blank" rel="noopener noreferrer nofollow">https://ryan-sprague51.medium.com/the-ufo-incident-over-f-e-warren-air-force-base-29e1afe34948</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Incident over F.E. Warren Air Force BaseAccording to witnesses, these objects were seen hovering over the missile silos and displayin...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: metabunk.org  
    Title: nuforc sightings categorized by decade and shape.14610  
-   Link: [https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/](https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/)  
+   Link: <a href="https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nuforc-sightings-categorized-by-decade-and-shape.14610/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC sightings categorized by decade and shape1 Dec 2025 — The number of reports with unambiguous shapes and valid report dates comes o...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: kingfm.com  
    Title: ufo shows highlight warren afb encounter over cheyenne  
-   Link: [https://kingfm.com/ufo-shows-highlight-warren-afb-encounter-over-cheyenne/](https://kingfm.com/ufo-shows-highlight-warren-afb-encounter-over-cheyenne/)  
+   Link: <a href="https://kingfm.com/ufo-shows-highlight-warren-afb-encounter-over-cheyenne/" target="_blank" rel="noopener noreferrer nofollow">https://kingfm.com/ufo-shows-highlight-warren-afb-encounter-over-cheyenne/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>101.9 KING FMUFO Shows Highlight Warren AFB Encounter Over...9 Sept 2014 — Witnesses say a large cigar-shaped UFO was sighted over the b...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: slashlore.com  
    Title: UF Os Over Military Bases: National Security Mystery  
-   Link: [https://www.slashlore.com/ufo-sightings-military-bases-security/](https://www.slashlore.com/ufo-sightings-military-bases-security/)  
+   Link: <a href="https://www.slashlore.com/ufo-sightings-military-bases-security/" target="_blank" rel="noopener noreferrer nofollow">https://www.slashlore.com/ufo-sightings-military-bases-security/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Warren Air Force Base in Wyoming became the epicenter of another extraordinary nuclear weapons incident when Colonel Charles Halt documen...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/1110kfab/posts/mysterious-swarms-of-ufos-have-been-appearing-over-a-wyoming-county-for-over-a-y/1456680859800448/](https://www.facebook.com/1110kfab/posts/mysterious-swarms-of-ufos-have-been-appearing-over-a-wyoming-county-for-over-a-y/1456680859800448/)  
+   Link: <a href="https://www.facebook.com/1110kfab/posts/mysterious-swarms-of-ufos-have-been-appearing-over-a-wyoming-county-for-over-a-y/1456680859800448/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/1110kfab/posts/mysterious-swarms-of-ufos-have-been-appearing-over-a-wyoming-county-for-over-a-y/1456680859800448/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>activity, suggesting that people are spotting real objects...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/cowboystatedaily/posts/a-cheyenne-attorney-and-his-father-a-former-wyoming-attorney-general-saw-what-th/1425824292893602/](https://www.facebook.com/cowboystatedaily/posts/a-cheyenne-attorney-and-his-father-a-former-wyoming-attorney-general-saw-what-th/1425824292893602/)  
+   Link: <a href="https://www.facebook.com/cowboystatedaily/posts/a-cheyenne-attorney-and-his-father-a-former-wyoming-attorney-general-saw-what-th/1425824292893602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cowboystatedaily/posts/a-cheyenne-attorney-and-his-father-a-former-wyoming-attorney-general-saw-what-th/1425824292893602/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rol saying that an object had been spotted in the area...Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=bi-VvMa0y_U](http://www.youtube.com/watch?v=bi-VvMa0y_U)  
+   Link: <a href="http://www.youtube.com/watch?v=bi-VvMa0y_U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=bi-VvMa0y_U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FE Warren AFB UFO sightings Audio Recording of Witness&#x27;s Terrifying UFO Sighting | UFO Witness | Travel Channel Travel Channel...</p></details>

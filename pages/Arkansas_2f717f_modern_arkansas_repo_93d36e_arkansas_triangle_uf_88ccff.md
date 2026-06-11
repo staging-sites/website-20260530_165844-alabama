@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /modern-reports/
 nav_short_title: Triangle Sightings
 title: What Modern Triangle UFO Sightings Reveal in Arkansas
-title_full: What Modern Triangle UFO Sightings Reveal in Arkansas | Modern Reports
+title_full: What Modern Triangle UFO Sightings Reveal in Arkansas
 display_title_short: Triangle Sightings
 display_title: Triangle Sightings
 heading_title: What Modern Triangle UFO Sightings Reveal in Arkansas
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:01:48'
-parent_title: Are Arkansas UFO Reports Mostly Lights? | Arkansas UFOs
+parent_title: Are Arkansas UFO Reports Mostly Lights?
 parent_permalink: /modern-reports/
 parent_nav_short_title: Modern Reports
 parent_heading_title: Are Arkansas UFO Reports Mostly Lights?
@@ -250,18 +250,16 @@ image: /assets/images/Arkansas_2f717f_modern_arkansas_repo_93d36e_arkansas_trian
 
 ## Introduction
 
-Modern triangle UFO reports in [Arkansas]({{ 'what-really-happened-in-arkansas-skies/' | relative_url }}) sit in an awkward middle ground between genuinely puzzling witness experiences and sightings that often weaken under closer checking. Since the 1990s, Arkansas databases have accumulated repeated accounts of large triangular or V-shaped objects seen over places such as Little Rock, Conway, [Hot Springs]({{ 'hot-springs/' | relative_url }}), Fort Smith and rural highways. Witnesses commonly describe three bright lights arranged in a triangle, slow silent movement, hovering, or sudden disappearance. Yet the same features also overlap with known aircraft formations, military traffic, drones, perspective effects and ordinary night-sky misidentifications.
+Modern triangle UFO reports in Arkansas sit in an awkward middle ground between genuinely puzzling witness experiences and sightings that often weaken under closer checking. Since the 1990s, Arkansas databases have accumulated repeated accounts of large triangular or V-shaped objects seen over places such as Little Rock, Conway, [Hot Springs]({{ 'hot-springs/' | relative_url }}), Fort Smith and rural highways. Witnesses commonly describe three bright lights arranged in a triangle, slow silent movement, hovering, or sudden disappearance. Yet the same features also overlap with known aircraft formations, military traffic, drones, perspective effects and ordinary night-sky misidentifications.
 
-
-<img src="{{ "/assets/images/Arkansas_2f717f_modern_arkansas_repo_93d36e_arkansas_triangle_uf_88ccff-Illustration-1-light.svg" | relative_url }}" alt="Triangle Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_modern_arkansas_repo_93d36e_arkansas_triangle_uf_88ccff-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_modern_arkansas_repo_93d36e_arkansas_triangle_uf_88ccff-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes Arkansas useful for analysing triangle reports is not one famous “black triangle” incident, but the repetition of similar descriptions across decades. The pattern allows comparison: when do reports appear strongest, what details recur independently, and which cases collapse once aviation or visual explanations are considered? The evidence suggests that triangle sightings are real experiences for witnesses, but not necessarily evidence of a single mysterious craft type. In many Arkansas cases, the strongest explanation remains misidentified aircraft lighting patterns or grouped lights viewed at night under uncertain conditions. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/black-triangle-ufos-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">black triangle ufos facts</span><span class="citation-popover-snippet">HISTORYHuge, Hovering and Silent: The Mystery of &#x27;Black Triangle&#x27;...22 Jul 2020 — The National UFO Reporting Center, which catalogs more...</span></span></span>
+<img src="{{ "/assets/images/Arkansas_2f717f_modern_arkansas_repo_93d36e_arkansas_triangle_uf_88ccff-Illustration-1-dark.svg" | relative_url }}" alt="Triangle Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_modern_arkansas_repo_93d36e_arkansas_triangle_uf_88ccff-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_modern_arkansas_repo_93d36e_arkansas_triangle_uf_88ccff-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+What makes Arkansas useful for analysing triangle reports is not one famous “black triangle” incident, but the repetition of similar descriptions across decades. The pattern allows comparison: when do reports appear strongest, what details recur independently, and which cases collapse once aviation or visual explanations are considered? The evidence suggests that triangle sightings are real experiences for witnesses, but not necessarily evidence of a single mysterious craft type. In many Arkansas cases, the strongest explanation remains misidentified aircraft lighting patterns or grouped lights viewed at night under uncertain conditions. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/black-triangle-ufos-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">black triangle ufos facts</span><span class="citation-popover-snippet">Huge, Hovering and Silent: The Mystery of &#x27;Black Triangle&#x27;...22 Jul 2020 — The National UFO Reporting Center, which catalogs more...</span></span></span>
 
 ## Why triangle reports became common in Arkansas
 
 Triangle-shaped UFOs became one of the most commonly reported forms in American UFO culture during the late twentieth century, especially after highly publicised Belgian triangle sightings in 1989–1990 and growing discussion of secret military aircraft. Arkansas reports followed that wider national trend rather than emerging as a unique local mystery.
 
-The National UFO Reporting Center (NUFORC) archive for Arkansas contains repeated entries classified as “Triangle”, “Rectangle” or “Boomerang”, particularly from the late 1990s onward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lAR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC Reports for State ARAugust 20, 2023 — Link, Occurred, City, State, Country, Shape. Open, 04/19/2026 21:15, Pelsor, AR, USA...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span> Many reports describe:
-
+The National UFO Reporting Center (NUFORC) archive for Arkansas contains repeated entries classified as “Triangle”, “Rectangle” or “Boomerang”, particularly from the late 1990s onward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lAR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State ARAugust 20, 2023 — Link, Occurred, City, State, Country, Shape. Open, 04/19/2026 21:15, Pelsor, AR, USA...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span> Many reports describe:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -282,7 +280,7 @@ Arkansas also sits beneath several important aviation corridors and military fli
 
 ### Conway and central Arkansas sightings
 
-One of the clearest recurring patterns involves central Arkansas, especially the Conway–Little Rock corridor. Several NUFORC entries from the late 1990s and early 2000s describe low triangular objects with coloured corner lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=91295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 91295August 20, 2023 — What I saw was a triangular arrangement of lights covering the expanse of the freeway sl...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+One of the clearest recurring patterns involves central Arkansas, especially the Conway–Little Rock corridor. Several NUFORC entries from the late 1990s and early 2000s describe low triangular objects with coloured corner lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=91295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 91295August 20, 2023 — What I saw was a triangular arrangement of lights covering the expanse of the freeway sl...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 A Conway-area report from 2011 described a hovering triangular object roughly above treeline height with one light on each corner: red, green and white. The witness initially thought it was a helicopter before deciding the object appeared metallic and silent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sentientorbs.com/explore/sightings/NUFORC-79946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-title">NUFORC 79946</span><span class="citation-popover-snippet">Sentient Orbssighting of hovering triangle shaped ufo over conway, arkansas5 Feb 2011 — was driving home from grocery store at the top of...</span></span></span>
 
@@ -292,10 +290,9 @@ Another Conway report from 1999 described “many blue lights” forming a large
 
 ### Little Rock motorway and highway cases
 
-Several Arkansas triangle sightings occurred while witnesses were driving at night. One later NUFORC report described a huge triangular arrangement of lights over a divided highway between Little Rock and Conway. The witness initially thought a large aircraft was descending onto the road because the lights stretched across the width of the freeway. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lAR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC Reports for State ARAugust 20, 2023 — Link, Occurred, City, State, Country, Shape. Open, 04/19/2026 21:15, Pelsor, AR, USA...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+Several Arkansas triangle sightings occurred while witnesses were driving at night. One later NUFORC report described a huge triangular arrangement of lights over a divided highway between Little Rock and Conway. The witness initially thought a large aircraft was descending onto the road because the lights stretched across the width of the freeway. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lAR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State ARAugust 20, 2023 — Link, Occurred, City, State, Country, Shape. Open, 04/19/2026 21:15, Pelsor, AR, USA...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 Highway sightings are especially vulnerable to visual distortion:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -309,12 +306,11 @@ Highway sightings are especially vulnerable to visual distortion:
 
 The “approaching aircraft” interpretation is often more persuasive than many UFO enthusiasts admit. Aircraft coming directly towards an observer can appear stationary for long periods because the angular change is minimal. Once the aircraft changes heading, the illusion suddenly breaks, sometimes creating the impression of impossible acceleration.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/656VqWTnKmw" title="Ep. 4 | My black triangle UFO sighting | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=656VqWTnKmw" target="_blank" rel="noopener noreferrer">Ep. 4 | My black triangle UFO sighting | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 961.8K &middot; Uploaded: June 2019 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=656VqWTnKmw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=656VqWTnKmw">Open on YouTube</a></p></div></div></div>
 
 ### Rural Arkansas reports
 
-Rural sightings often sound more dramatic because darker skies make lights appear sharper and more isolated. Reports from places such as McCrory, Bauxite, Dover and western Arkansas describe silent triangular objects or low formations with flashing lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=91295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 91295August 20, 2023 — What I saw was a triangular arrangement of lights covering the expanse of the freeway sl...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+Rural sightings often sound more dramatic because darker skies make lights appear sharper and more isolated. Reports from places such as McCrory, Bauxite, Dover and western Arkansas describe silent triangular objects or low formations with flashing lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=91295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 91295August 20, 2023 — What I saw was a triangular arrangement of lights covering the expanse of the freeway sl...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 The 1999 McCrory case claimed a triangular object vanished suddenly in the western sky. Another report from Bauxite in 2000 described a low-moving triangle with strobe-like lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=194253" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 19425323 Nov 2025 — NUFORC UFO Sighting 194253. Occurred: 1992-11-17 21:00 Local - Approximate Reported: 2025-11-20 1...</span><span class="citation-popover-meta">Published: November 20, 2025</span></span></span> These accounts fit a recurring Arkansas pattern: brief observations with striking geometry but limited measurable evidence.
 
@@ -327,7 +323,6 @@ Two features dominate Arkansas triangle reports: silence and hovering. Both soun
 ### The silence problem
 
 Witnesses frequently say the object made no sound despite appearing low overhead. This is not necessarily evidence of exotic propulsion. Several ordinary factors can suppress or delay sound perception:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -345,7 +340,6 @@ Night perception also encourages underestimation of distance. A witness may beli
 
 The hovering effect is one of the most common misunderstandings in UFO observation. An aircraft travelling towards an observer can appear almost motionless until its relative angle changes. This is especially common with:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Aircraft on landing approaches
@@ -358,15 +352,14 @@ The hovering effect is one of the most common misunderstandings in UFO observati
 
 Arkansas reports repeatedly contain descriptions that begin with “I thought it was an aircraft at first”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=194253" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 19425323 Nov 2025 — NUFORC UFO Sighting 194253. Occurred: 1992-11-17 21:00 Local - Approximate Reported: 2025-11-20 1...</span><span class="citation-popover-meta">Published: November 20, 2025</span></span></span> That opening impression is often more revealing than later conclusions.
 
-
-<img src="{{ "/assets/images/Arkansas_2f717f_modern_arkansas_repo_93d36e_arkansas_triangle_uf_88ccff-Illustration-2-light.svg" | relative_url }}" alt="Triangle Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_modern_arkansas_repo_93d36e_arkansas_triangle_uf_88ccff-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_modern_arkansas_repo_93d36e_arkansas_triangle_uf_88ccff-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arkansas_2f717f_modern_arkansas_repo_93d36e_arkansas_triangle_uf_88ccff-Illustration-2-dark.svg" | relative_url }}" alt="Triangle Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_modern_arkansas_repo_93d36e_arkansas_triangle_uf_88ccff-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_modern_arkansas_repo_93d36e_arkansas_triangle_uf_88ccff-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Aircraft, drones and military activity
 
 ### Military aviation as a recurring factor
 
 Arkansas triangle sightings cannot be separated from the state’s aviation environment. Little Rock Air Force Base has long supported transport aircraft operations, while military flights from neighbouring states also cross Arkansas airspace. Witnesses sometimes reinterpret unusual lighting configurations as exotic craft when they are actually seeing aircraft from unfamiliar angles.
 
-During the 1990s and early 2000s, public fascination with stealth aircraft also shaped interpretation. After the F-117 Nighthawk and B-2 Spirit bomber became widely known, triangular UFO reports surged nationally. Many witnesses already expected secret triangular aircraft to exist. That expectation influenced how ambiguous lights were interpreted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/black-triangle-ufos-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">black triangle ufos facts</span><span class="citation-popover-snippet">HISTORYHuge, Hovering and Silent: The Mystery of &#x27;Black Triangle&#x27;...22 Jul 2020 — The National UFO Reporting Center, which catalogs more...</span></span></span>
+During the 1990s and early 2000s, public fascination with stealth aircraft also shaped interpretation. After the F-117 Nighthawk and B-2 Spirit bomber became widely known, triangular UFO reports surged nationally. Many witnesses already expected secret triangular aircraft to exist. That expectation influenced how ambiguous lights were interpreted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/black-triangle-ufos-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">black triangle ufos facts</span><span class="citation-popover-snippet">Huge, Hovering and Silent: The Mystery of &#x27;Black Triangle&#x27;...22 Jul 2020 — The National UFO Reporting Center, which catalogs more...</span></span></span>
 
 This does not prove Arkansas triangle sightings were stealth bombers, but it explains why triangle narratives became culturally attractive.
 
@@ -374,10 +367,9 @@ This does not prove Arkansas triangle sightings were stealth bombers, but it exp
 
 Modern drone technology complicates Arkansas reports even further. Consumer drones now produce several classic UFO features:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Silent or near-silent hovering <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/black-triangle-ufos-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">black triangle ufos facts</span><span class="citation-popover-snippet">HISTORYHuge, Hovering and Silent: The Mystery of &#x27;Black Triangle&#x27;...22 Jul 2020 — The National UFO Reporting Center, which catalogs more...</span></span></span>
+* Silent or near-silent hovering <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/black-triangle-ufos-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">black triangle ufos facts</span><span class="citation-popover-snippet">Huge, Hovering and Silent: The Mystery of &#x27;Black Triangle&#x27;...22 Jul 2020 — The National UFO Reporting Center, which catalogs more...</span></span></span>
 * Coloured LEDs
 * Slow movement
 * Sudden directional changes
@@ -388,7 +380,6 @@ Modern drone technology complicates Arkansas reports even further. Consumer dron
 
 Many Arkansas triangle reports predate widespread drones, but recent sightings increasingly fit drone behaviour better than large unknown craft. In suburban and rural areas especially, a drone observed briefly at night can appear much larger and farther away than it really is.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dVqAN6bijoo" title="&#x27;Drop in the bucket:&#x27; Arkansas UFO researchers, skeptic respond to latest Pentagon release" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dVqAN6bijoo" target="_blank" rel="noopener noreferrer">&#x27;Drop in the bucket:&#x27; Arkansas UFO researchers, skeptic respond to latest Pentagon release</a></p><p class="youtube-embed-meta">Channel: KATVchannel7 &middot; Views: 11.2K &middot; Uploaded: May 2026 &middot; Length: 3 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dVqAN6bijoo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dVqAN6bijoo">Open on YouTube</a></p></div></div></div>
 
 ## Which Arkansas triangle cases remain difficult?
@@ -396,7 +387,6 @@ Many Arkansas triangle reports predate widespread drones, but recent sightings i
 Very few Arkansas triangle reports remain genuinely difficult after basic scrutiny, mainly because the available evidence is usually thin. Most consist of a single witness statement without photographs, radar data, timestamp verification or independent observers.
 
 Still, a small number remain interesting for narrower reasons:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -411,8 +401,7 @@ Yet even these stronger cases rarely reach the standard needed for robust invest
 
 A useful comparison is the difference between “unidentified” and “unexplainable”. Many Arkansas triangle sightings remain unidentified simply because there is not enough information. That is not the same thing as proving something extraordinary occurred.
 
-
-<img src="{{ "/assets/images/Arkansas_2f717f_modern_arkansas_repo_93d36e_arkansas_triangle_uf_88ccff-Illustration-3-light.svg" | relative_url }}" alt="Triangle Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_modern_arkansas_repo_93d36e_arkansas_triangle_uf_88ccff-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_modern_arkansas_repo_93d36e_arkansas_triangle_uf_88ccff-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arkansas_2f717f_modern_arkansas_repo_93d36e_arkansas_triangle_uf_88ccff-Illustration-3-dark.svg" | relative_url }}" alt="Triangle Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_modern_arkansas_repo_93d36e_arkansas_triangle_uf_88ccff-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_modern_arkansas_repo_93d36e_arkansas_triangle_uf_88ccff-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Witness credibility and the limits of testimony
 
 One reason triangle sightings persist in UFO culture is that many witnesses sound credible. Arkansas reports include teachers, drivers, military veterans, families and ordinary residents with no obvious motive to invent stories. Credibility matters, but it has limits.
@@ -431,8 +420,7 @@ This is especially true at night, where the brain relies heavily on assumptions 
 
 Arkansas triangle cases also show how memory evolves. Witnesses often begin with uncertainty — “I thought it was a plane” — but later reinterpret the event through UFO narratives encountered online or in media coverage. Over time, ambiguous lights can become remembered as a solid black craft.
 
-That memory-shaping process is well documented in broader UFO research and likely affects Arkansas reports as well. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/black-triangle-ufos-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">black triangle ufos facts</span><span class="citation-popover-snippet">HISTORYHuge, Hovering and Silent: The Mystery of &#x27;Black Triangle&#x27;...22 Jul 2020 — The National UFO Reporting Center, which catalogs more...</span></span></span>
-
+That memory-shaping process is well documented in broader UFO research and likely affects Arkansas reports as well. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/black-triangle-ufos-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">black triangle ufos facts</span><span class="citation-popover-snippet">Huge, Hovering and Silent: The Mystery of &#x27;Black Triangle&#x27;...22 Jul 2020 — The National UFO Reporting Center, which catalogs more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tDUF4NtYtxU" title="Ep. 3 | Black Triangle UFOs | Phoenix Lights, Hudson Valley, Belgium | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tDUF4NtYtxU" target="_blank" rel="noopener noreferrer">Ep. 3 | Black Triangle UFOs | Phoenix Lights, Hudson Valley, Belgium | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 845.4K &middot; Uploaded: June 2019 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tDUF4NtYtxU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tDUF4NtYtxU">Open on YouTube</a></p></div></div></div>
 
@@ -539,7 +527,7 @@ Modern Arkansas triangle reports therefore work best as a study in uncertainty r
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -549,111 +537,36 @@ Modern Arkansas triangle reports therefore work best as a study in uncertainty r
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-triangle-ufo-sightings-reveal-in-arkansas-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle UFO poster" data-ebay-reference="what-modern-triangle-ufo-sightings-reveal-in-arkansas-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Poster. 11x17. High Quality. Signed. [Flying Saucer, Aliens, Pyramid]"><img src="https://i.ebayimg.com/images/g/nhcAAeSwvthpCubt/s-l225.jpg" alt="Listing image for UFO Poster. 11x17. High Quality. Signed. [Flying Saucer, Aliens, Pyramid]" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-triangle-ufo-sightings-reveal-in-arkansas-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle UFO poster" data-ebay-reference="what-modern-triangle-ufo-sightings-reveal-in-arkansas-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Poster. 11x17. High Quality. Signed. [Flying Saucer, Aliens, Pyramid]</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-triangle-ufo-sightings-reveal-in-arkansas-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle UFO poster" data-ebay-reference="what-modern-triangle-ufo-sightings-reveal-in-arkansas-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangle UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangle UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens"><img src="{{ '/assets/images/marketplace-covers/c103edd9f4aca43069d8.jpg' | relative_url }}" alt="Listing image for Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Archive Cinema &#x27;UFOs Are Real&#x27; Movie Poster -- 11&quot; x 17&quot; Flying Saucer Aliens</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-triangle-ufo-sightings-reveal-in-arkansas-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle UFO poster" data-ebay-reference="what-modern-triangle-ufo-sightings-reveal-in-arkansas-triangle-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -661,47 +574,15 @@ Modern Arkansas triangle reports therefore work best as a study in uncertainty r
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2780b48697e6702486f7.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-triangle-ufo-sightings-reveal-in-arkansas-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle UFO poster" data-ebay-reference="what-modern-triangle-ufo-sightings-reveal-in-arkansas-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 Phoenix Lights UFO UAP Black Triangle Boomerang Wall Art Poster"><img src="https://i.ebayimg.com/images/g/iXUAAeSwv2hp5TB5/s-l225.jpg" alt="Listing image for Large A0 Phoenix Lights UFO UAP Black Triangle Boomerang Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-triangle-ufo-sightings-reveal-in-arkansas-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle UFO poster" data-ebay-reference="what-modern-triangle-ufo-sightings-reveal-in-arkansas-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 Phoenix Lights UFO UAP Black Triangle Boomerang Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-triangle-ufo-sightings-reveal-in-arkansas-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle UFO poster" data-ebay-reference="what-modern-triangle-ufo-sightings-reveal-in-arkansas-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangle UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangle UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-triangle-ufo-sightings-reveal-in-arkansas-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle UFO poster" data-ebay-reference="what-modern-triangle-ufo-sightings-reveal-in-arkansas-triangle-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -709,7 +590,7 @@ Modern Arkansas triangle reports therefore work best as a study in uncertainty r
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=triangle-sightings-what-modern-triangle-ufo-sightings-reveal-in-arkansas-arkansas-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-modern-triangle-ufo-sightings-reveal-in-arkansas-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle UFO poster" data-ebay-reference="what-modern-triangle-ufo-sightings-reveal-in-arkansas-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -786,17 +667,31 @@ Modern Arkansas triangle reports therefore work best as a study in uncertainty r
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -809,42 +704,73 @@ Modern Arkansas triangle reports therefore work best as a study in uncertainty r
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -859,12 +785,17 @@ Modern Arkansas triangle reports therefore work best as a study in uncertainty r
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -874,84 +805,84 @@ Modern Arkansas triangle reports therefore work best as a study in uncertainty r
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lAR](https://nuforc.org/subndx/?id=lAR)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports for State ARAugust 20, 2023 — Link, Occurred, City, State, Country, Shape. Open, 04/19/2026 21:15, Pelsor, AR, USA...</p></details>
+   Link: <a href="https://nuforc.org/subndx/?id=lAR" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lAR</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State ARAugust 20, 2023 — Link, Occurred, City, State, Country, Shape. Open, 04/19/2026 21:15, Pelsor, AR, USA...</p></details>
    Published: August 20, 2023  
 
 2. <a id="endnote-2"></a>
    Source: history.com  
    Title: black triangle ufos facts  
-   Link: [https://www.history.com/articles/black-triangle-ufos-facts](https://www.history.com/articles/black-triangle-ufos-facts)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORYHuge, Hovering and Silent: The Mystery of &#x27;Black Triangle&#x27;...22 Jul 2020 — The National UFO Reporting Center, which catalogs more...</p></details>
+   Link: <a href="https://www.history.com/articles/black-triangle-ufos-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/black-triangle-ufos-facts</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Huge, Hovering and Silent: The Mystery of &#x27;Black Triangle&#x27;...22 Jul 2020 — The National UFO Reporting Center, which catalogs more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=91295](https://nuforc.org/sighting/?id=91295)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 91295August 20, 2023 — What I saw was a triangular arrangement of lights covering the expanse of the freeway sl...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=91295" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=91295</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 91295August 20, 2023 — What I saw was a triangular arrangement of lights covering the expanse of the freeway sl...</p></details>
    Published: August 20, 2023  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=194253](https://nuforc.org/sighting/?id=194253)  
+   Link: <a href="https://nuforc.org/sighting/?id=194253" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=194253</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 19425323 Nov 2025 — NUFORC UFO Sighting 194253. Occurred: 1992-11-17 21:00 Local - Approximate Reported: 2025-11-20 1...</p></details>
    Published: November 20, 2025  
 
 5. <a id="endnote-5"></a>
    Source: sentientorbs.com  
    Title: NUFORC 79946  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-79946](https://sentientorbs.com/explore/sightings/NUFORC-79946)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-79946" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-79946</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sentient Orbssighting of hovering triangle shaped ufo over conway, arkansas5 Feb 2011 — was driving home from grocery store at the top of...</p></details>
 
 ### Additional References
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox9kmsp/posts/fbi-documents-released-through-the-national-archives-detail-a-reported-ufo-sight/1469591085210343/](https://www.facebook.com/fox9kmsp/posts/fbi-documents-released-through-the-national-archives-detail-a-reported-ufo-sight/1469591085210343/)  
+   Link: <a href="https://www.facebook.com/fox9kmsp/posts/fbi-documents-released-through-the-national-archives-detail-a-reported-ufo-sight/1469591085210343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox9kmsp/posts/fbi-documents-released-through-the-national-archives-detail-a-reported-ufo-sight/1469591085210343/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI documents released through the National Archives...FBI documents released through the National Archives detail a reported UFO sighti...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: tylervigen.com  
-   Link: [https://tylervigen.com/spurious/research-papers/1893_the-arkansas-ufo-flap-a-link-to-nathans-hot-dog-cap.pdf](https://tylervigen.com/spurious/research-papers/1893_the-arkansas-ufo-flap-a-link-to-nathans-hot-dog-cap.pdf)  
+   Link: <a href="https://tylervigen.com/spurious/research-papers/1893_the-arkansas-ufo-flap-a-link-to-nathans-hot-dog-cap.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tylervigen.com/spurious/research-papers/1893_the-arkansas-ufo-flap-a-link-to-nathans-hot-dog-cap.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Arkansas UFO Flap: A Link to Nathan&#x27;s Hot Dog CapThis study conducts a comprehensive analysis of the seemingly disparate phenomena of...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsShapes reported as UFOs include orbs, triangles, other shapes, fireballs, discs, Most commonly reported...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler](https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler)  
+   Link: <a href="https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/616987456/triangular-ufos-an-estimate-of-the-situation-by-david-marler-john-b-alexander-richard-m-dolan-mark-rodeghier-sam-maranto-george-wingfield-omar-fowler</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This book is written with the purpose of placing focus on triangular UFO sighting reports...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: katv.com  
-   Link: [https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft](https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft)  
+   Link: <a href="https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft" target="_blank" rel="noopener noreferrer nofollow">https://katv.com/news/local/arkansas-ufo-researchers-skeptics-respond-to-latest-pentagon-release-1897-airship-fort-smith-1966-uap-mark-wentz-maureen-richmond-black-money-pentagon-alien-tech-michael-borrelli-may-22-2026-release-project-blue-book-anomaly-space-ship-spacecraft</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and as such has long had a community of researchers, enthusiasts, and believers.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/](https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/yykok6/calling_all_people_who_have_witnessed_a_black/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Had small white flat rectangle lights on each corner, and...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Ep. 4 | My black triangle UFO sighting | The Basement Office  
-   Link: [http://www.youtube.com/watch?v=656VqWTnKmw](http://www.youtube.com/watch?v=656VqWTnKmw)  
+   Link: <a href="http://www.youtube.com/watch?v=656VqWTnKmw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=656VqWTnKmw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Arkansas black triangle UFO sightings analysis MASSIVE Black Triangle UFOs Spotted! - A52 Hotline Special - ep 68 Area52...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/radiomisterioso/posts/9453429148081489/](https://www.facebook.com/groups/radiomisterioso/posts/9453429148081489/)  
+   Link: <a href="https://www.facebook.com/groups/radiomisterioso/posts/9453429148081489/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/radiomisterioso/posts/9453429148081489/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n receiving hundreds of reports of triangular...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=dVqAN6bijoo](https://www.youtube.com/watch?v=dVqAN6bijoo)  
+   Link: <a href="https://www.youtube.com/watch?v=dVqAN6bijoo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dVqAN6bijoo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>agon release... Inside lunar triangle, STS-48 anomaly: The footage...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: aymag.com  
    Title: the truth is out there  
-   Link: [https://aymag.com/the-truth-is-out-there/](https://aymag.com/the-truth-is-out-there/)  
+   Link: <a href="https://aymag.com/the-truth-is-out-there/" target="_blank" rel="noopener noreferrer nofollow">https://aymag.com/the-truth-is-out-there/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AY MagazineThe Truth Is Out There1 Apr 2020 — Arkansas Sightings. While Arkansas doesn&#x27;t have the recognizable UFO stories like the alien...</p></details>

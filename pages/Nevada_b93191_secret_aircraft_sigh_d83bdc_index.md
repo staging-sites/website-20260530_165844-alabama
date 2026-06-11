@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nevada-b93191-secret-aircraft-sigh/
 description: Focused pages that expand on Secret Aircraft.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Nevada_b93191_secret_aircraft_sigh_d83bdc
-parent_title: Secret Aircraft | Why Nevada Became UFO Country
+parent_title: Secret Aircraft
 parent_nav_short_title: Secret Aircraft
 parent_permalink: /secret-aircraft/
 ---

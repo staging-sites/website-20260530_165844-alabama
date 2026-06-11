@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-york-c7ef6c-hudson-valley-wave/
 description: Focused pages that expand on Hudson Wave.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: New_York_c7ef6c_hudson_valley_wave_918099
-parent_title: Hudson Wave | What Really Happened in New York's UFO...
+parent_title: Hudson Wave
 parent_nav_short_title: Hudson Wave
 parent_permalink: /hudson-wave/
 ---

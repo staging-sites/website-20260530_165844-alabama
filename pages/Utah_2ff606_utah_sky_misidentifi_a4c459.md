@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-makes-utahs-ufo-history-so/
 nav_short_title: Sky Clues
 title: Why Utah's Skies Produce So Many Sightings
-title_full: Why Utah's Skies Produce So Many Sightings | Utah UFOs
+title_full: Why Utah's Skies Produce So Many Sightings
 display_title_short: Sky Clues
 display_title: Sky Clues
 heading_title: Why Utah's Skies Produce So Many Sightings
@@ -270,7 +270,6 @@ image: /assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-overview-social.jp
 
 Utah produces many UFO reports for a simple reason: people really do see unusual things in its skies, but the setting often makes ordinary objects harder to judge. The state combines dark rural skies, wide desert horizons, mountain backdrops, busy aviation corridors, military activity, satellites, drones and dramatic meteors. That mix is ideal for skywatching, but also ideal for honest misidentification. A light that would be ignored over a city can look startling over canyon country; a satellite train can seem coordinated; a distant aircraft can appear to hover; a meteor can briefly look like a falling craft. This does not mean every Utah report is worthless. It means Utah’s UFO history has to be read with sky conditions in mind, especially when reports rely on lights, movement and witness estimates rather than measured distance, altitude or speed. A University of Utah-led study of nearly 99,000 public UAP reports found that reports are more common where people have better sky-viewing opportunities, including darker skies, lower tree cover and proximity to airports or military installations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: attheu.utah.edu">[The U]</a><span class="citation-popover" role="note"><span class="citation-popover-source">attheu.utah.edu</span><span class="citation-popover-title">The UThe West is best to spot UFOs</span><span class="citation-popover-snippet">The UThe West is best to spot UFOs</span></span></span>
 
-
 <img src="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-overview.webp" | relative_url }}" alt="Overview image for Sky Clues" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Utah’s dark skies create more reports
 
@@ -290,8 +289,7 @@ A dark sky can make these common objects look more impressive:
 
 The key point is not that Utah witnesses are careless. It is that Utah gives witnesses unusually good viewing conditions while still denying them the one thing they most need: reliable scale.
 
-
-<img src="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-Illustration-1-light.svg" | relative_url }}" alt="Sky Clues illustration 1" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-Illustration-1-dark.svg" | relative_url }}" alt="Sky Clues illustration 1" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Wide horizons make distance and scale treacherous
 
 Many UFO reports turn on a witness’s estimate of size, speed and altitude. In Utah, those estimates can be especially difficult. The state’s open basins, salt flats, desert highways and mountain valleys often give a vast view with few nearby objects in the same line of sight. Without a building, tree, hilltop or known aircraft beside the object, a small nearby light and a large distant object can look deceptively similar.
@@ -311,7 +309,6 @@ Starlink trains are almost perfectly designed to trigger UFO reports. They can a
 Satellites also produce less dramatic but still confusing sightings. A single satellite can brighten suddenly, fade out, or seem to vanish when it enters Earth’s shadow. The International Space Station can look like an unusually bright, steady light crossing the sky. Iridium-style flares are less common than they once were, but reflective satellite glints remain a source of surprise. The object may be real, moving and bright, yet still entirely human-made.
 
 For Utah UFO history, this creates a modern filter. A recent report of multiple lights in a straight line, especially shortly after sunset or before dawn, should be checked against satellite predictions before it is treated as anomalous. This does not dismiss the witness; it tests the easiest explanation first.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-KKlsOpZhM4" title="Watch the complete &#x27;Hunting UFOs: The Desert Sky Mystery,&#x27; a NewsNation special report | NewsNation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-KKlsOpZhM4" target="_blank" rel="noopener noreferrer">Watch the complete &#x27;Hunting UFOs: The Desert Sky Mystery,&#x27; a NewsNation special report | NewsNation</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 2.0M &middot; Uploaded: May 2025 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-KKlsOpZhM4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-KKlsOpZhM4">Open on YouTube</a></p></div></div></div>
 
@@ -335,8 +332,7 @@ Military activity complicates the picture further. Flares, training flights and 
 
 This is one reason Utah’s sky conditions matter within the state’s UFO record. A place can be both a genuine hotspot for reports and a poor place for quick conclusions. The same geography that makes Utah excellent for skywatching also makes it a place where ordinary aerial activity is easier to notice.
 
-
-<img src="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-Illustration-2-light.svg" | relative_url }}" alt="Sky Clues illustration 2" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-Illustration-2-dark.svg" | relative_url }}" alt="Sky Clues illustration 2" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Drones have made low-level lights harder to interpret
 
 Drones are a newer source of confusion, and Utah has had locally relevant examples. In December 2024, Hill Air Force Base confirmed that unmanned aerial vehicles had been spotted near the base in Davis County, with officials saying they were monitoring the situation and working with local authorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kuer.org/politics-government/2024-12-16/utahs-hill-air-force-base-confirms-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kuer.org">[KUER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kuer.org</span><span class="citation-popover-title">Utah&#x27;s Hill Air Force Base confirms drone sightings</span><span class="citation-popover-snippet">Utah&#x27;s Hill Air Force Base confirms drone sightings</span></span></span> FOX 13 also reported the confirmation during a wider national period of concern about mysterious drone sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox13now.com">[FOX 13 News Utah (KSTU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox13now.com</span><span class="citation-popover-title">utahns report unusual sight in night sky but its probably not a ufo</span><span class="citation-popover-snippet">utahns report unusual sight in night sky but its probably not a ufo</span></span></span>
@@ -346,7 +342,6 @@ Drones are difficult for witnesses because they blur categories. They are aircra
 Regulation itself can make drones look strange. FAA-linked rules for night operations require anti-collision lighting visible from a long distance, which means a compliant drone may display a conspicuous strobe that looks more dramatic than the object carrying it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jrupprechtlaw.com/section-107-29-operations-at-night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jrupprechtlaw.com">[Rupprecht Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jrupprechtlaw.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In rural or suburban Utah, a flashing drone over a field, reservoir, road, construction site or base perimeter can easily become a UFO report if the operator is unknown to the observer.
 
 For investigators, the useful questions are practical: Was the object below normal aircraft altitude? Did it hover or pivot? Was there a buzzing sound? Was it near a base, event, inspection site or emergency response? Did flight-tracking tools show aircraft in the area? Was there local drone activity reported by officials? A drone explanation should not be guessed casually, but it now belongs near the top of the checklist.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qiQEXcBhC9o" title="Bright fireball streaks across Utah sky, dropping debris" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qiQEXcBhC9o" target="_blank" rel="noopener noreferrer">Bright fireball streaks across Utah sky, dropping debris</a></p><p class="youtube-embed-meta">Channel: KSL News Utah &middot; Views: 42.2K &middot; Uploaded: April 2026 &middot; Length: 2 minutes 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qiQEXcBhC9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qiQEXcBhC9o">Open on YouTube</a></p></div></div></div>
 
@@ -360,7 +355,6 @@ Phone cameras add modern complications. Autofocus can turn points of light into 
 
 The strongest daylight reports are those with multiple independent witnesses from different positions, clear landmarks, known camera settings, original files, and enough angular information to test distance and movement. Without those anchors, Utah’s bright open skies can produce compelling-looking but weak evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AdCCF3DhdfY" title="I Saw Strange Lights Moving Over Southern Utah" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AdCCF3DhdfY" target="_blank" rel="noopener noreferrer">I Saw Strange Lights Moving Over Southern Utah</a></p><p class="youtube-embed-meta">Channel: The Trek Planner &middot; Views: 161.7K &middot; Uploaded: October 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AdCCF3DhdfY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AdCCF3DhdfY">Open on YouTube</a></p></div></div></div>
 
 ## How to read a Utah sighting without dismissing it
@@ -368,7 +362,6 @@ The strongest daylight reports are those with multiple independent witnesses fro
 The balanced approach is not to laugh off reports, but to separate “unidentified to the witness” from “unexplained after investigation”. NASA’s UAP work makes the same basic point: there is no conclusive peer-reviewed evidence for an extraterrestrial origin for UAP, and many reports lack the quality of data needed for firm scientific conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 For Utah sightings, the first-pass questions should be local and concrete:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -383,8 +376,7 @@ For Utah sightings, the first-pass questions should be local and concrete:
 
 This method protects both sides of the question. It avoids forcing every sighting into a debunking category, but it also avoids treating every unknown light as evidence of something extraordinary.
 
-
-<img src="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-Illustration-3-light.svg" | relative_url }}" alt="Sky Clues illustration 3" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-Illustration-3-dark.svg" | relative_url }}" alt="Sky Clues illustration 3" data-theme-src-dark="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Utah_2ff606_utah_sky_misidentifi_a4c459-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this matters for Utah’s UFO history
 
 Utah’s sky conditions help explain why the state keeps producing UFO stories. They also help explain why many of those stories remain hard to resolve. The same features that make Utah memorable — dark skies, open landscapes, desert roads, mountain horizons, military ranges and active aviation — create a steady supply of sincere sightings with limited evidence.
@@ -815,140 +807,140 @@ The result is a more useful middle ground. Utah is not simply a place where peop
 1. <a id="endnote-1"></a>
    Source: attheu.utah.edu  
    Title: The UThe West is best to spot UFOs  
-   Link: [https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/](https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/)  
+   Link: <a href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/</a>  
 
 2. <a id="endnote-2"></a>
    Source: stateparks.utah.gov  
-   Link: [https://stateparks.utah.gov/activities/dark-sky/](https://stateparks.utah.gov/activities/dark-sky/)  
+   Link: <a href="https://stateparks.utah.gov/activities/dark-sky/" target="_blank" rel="noopener noreferrer nofollow">https://stateparks.utah.gov/activities/dark-sky/</a>  
 
 3. <a id="endnote-3"></a>
    Source: files.ncas.org  
    Title: PDF Directory Condon Report, Case 49: Tremonton, Utah  
-   Link: [https://files.ncas.org/condon/text/case49.htm](https://files.ncas.org/condon/text/case49.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case49.htm</a>  
 
 4. <a id="endnote-4"></a>
    Source: ksl.com  
-   Link: [https://www.ksl.com/article/news/utah/nope-not-ufos-this-time-either-lights-seen-in-night-sky-by-utahns-are-starlink-satellites/50160830](https://www.ksl.com/article/news/utah/nope-not-ufos-this-time-either-lights-seen-in-night-sky-by-utahns-are-starlink-satellites/50160830)  
+   Link: <a href="https://www.ksl.com/article/news/utah/nope-not-ufos-this-time-either-lights-seen-in-night-sky-by-utahns-are-starlink-satellites/50160830" target="_blank" rel="noopener noreferrer nofollow">https://www.ksl.com/article/news/utah/nope-not-ufos-this-time-either-lights-seen-in-night-sky-by-utahns-are-starlink-satellites/50160830</a>  
 
 5. <a id="endnote-5"></a>
    Source: kuer.org  
    Title: Utah's Hill Air Force Base confirms drone sightings  
-   Link: [https://www.kuer.org/politics-government/2024-12-16/utahs-hill-air-force-base-confirms-drone-sightings](https://www.kuer.org/politics-government/2024-12-16/utahs-hill-air-force-base-confirms-drone-sightings)  
+   Link: <a href="https://www.kuer.org/politics-government/2024-12-16/utahs-hill-air-force-base-confirms-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.kuer.org/politics-government/2024-12-16/utahs-hill-air-force-base-confirms-drone-sightings</a>  
 
 6. <a id="endnote-6"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/2021-08/RemoteID_Final_Rule.pdf](https://www.faa.gov/sites/faa.gov/files/2021-08/RemoteID_Final_Rule.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/2021-08/RemoteID_Final_Rule.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/2021-08/RemoteID_Final_Rule.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 9. <a id="endnote-9"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
 10. <a id="endnote-10"></a>
    Source: nightsky.jpl.nasa.gov  
-   Link: [https://nightsky.jpl.nasa.gov/news/39/](https://nightsky.jpl.nasa.gov/news/39/)  
+   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
 
 11. <a id="endnote-11"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
 12. <a id="endnote-12"></a>
    Source: earth.com  
    Title: ufo sightings are influenced by the environment  
-   Link: [https://www.earth.com/news/ufo-sightings-are-influenced-by-the-environment/](https://www.earth.com/news/ufo-sightings-are-influenced-by-the-environment/)  
+   Link: <a href="https://www.earth.com/news/ufo-sightings-are-influenced-by-the-environment/" target="_blank" rel="noopener noreferrer nofollow">https://www.earth.com/news/ufo-sightings-are-influenced-by-the-environment/</a>  
 
 13. <a id="endnote-13"></a>
    Source: fox13now.com  
    Title: utahns report unusual sight in night sky but its probably not a ufo  
-   Link: [https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo](https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo)  
+   Link: <a href="https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13now.com/news/local-news/utahns-report-unusual-sight-in-night-sky-but-its-probably-not-a-ufo</a>  
 
 14. <a id="endnote-14"></a>
    Source: skyatnightmagazine.com  
    Title: Sky at Night Magazine17 things commonly mistaken for UFOs  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
 
 15. <a id="endnote-15"></a>
    Source: fox13now.com  
    Title: FOX 13 News Utah (KSTU)Comet? Fireball? UFO? What was that flash of light above  
-   Link: [https://www.fox13now.com/news/local-news/northern-utah/comet-fireball-ufo-what-was-that-flash-of-light-seen-above-utah-skies-last-night](https://www.fox13now.com/news/local-news/northern-utah/comet-fireball-ufo-what-was-that-flash-of-light-seen-above-utah-skies-last-night)  
+   Link: <a href="https://www.fox13now.com/news/local-news/northern-utah/comet-fireball-ufo-what-was-that-flash-of-light-seen-above-utah-skies-last-night" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13now.com/news/local-news/northern-utah/comet-fireball-ufo-what-was-that-flash-of-light-seen-above-utah-skies-last-night</a>  
 
 16. <a id="endnote-16"></a>
    Source: independent.co.uk  
    Title: The Independent Mysterious, meteor-like flashes appear across the Utah sky  
-   Link: [https://www.independent.co.uk/news/science/meteor-chinese-rocket-utah-bright-lights-night-sky-aliens-mystery-a7159751.html](https://www.independent.co.uk/news/science/meteor-chinese-rocket-utah-bright-lights-night-sky-aliens-mystery-a7159751.html)  
+   Link: <a href="https://www.independent.co.uk/news/science/meteor-chinese-rocket-utah-bright-lights-night-sky-aliens-mystery-a7159751.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/science/meteor-chinese-rocket-utah-bright-lights-night-sky-aliens-mystery-a7159751.html</a>  
 
 17. <a id="endnote-17"></a>
    Source: fox13now.com  
-   Link: [https://www.fox13now.com/news/local-news/unmanned-drones-spotted-in-vicinity-of-hill-air-force-base](https://www.fox13now.com/news/local-news/unmanned-drones-spotted-in-vicinity-of-hill-air-force-base)  
+   Link: <a href="https://www.fox13now.com/news/local-news/unmanned-drones-spotted-in-vicinity-of-hill-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13now.com/news/local-news/unmanned-drones-spotted-in-vicinity-of-hill-air-force-base</a>  
 
 18. <a id="endnote-18"></a>
    Source: apnews.com  
    Title: AP News Is that a drone or a plane? Experts help explain the differences  
-   Link: [https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175](https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175)  
+   Link: <a href="https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/57a0d051a2a94d21787089ceaf47b175</a>  
 
 19. <a id="endnote-19"></a>
    Source: jrupprechtlaw.com  
-   Link: [https://jrupprechtlaw.com/section-107-29-operations-at-night/](https://jrupprechtlaw.com/section-107-29-operations-at-night/)  
+   Link: <a href="https://jrupprechtlaw.com/section-107-29-operations-at-night/" target="_blank" rel="noopener noreferrer nofollow">https://jrupprechtlaw.com/section-107-29-operations-at-night/</a>  
 
 20. <a id="endnote-20"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/tremonton.htm](https://ufologie.patrickgross.org/htm/tremonton.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/tremonton.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/tremonton.htm</a>  
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: livescience.com  
-   Link: [https://www.livescience.com/space/meteoroids/brilliant-green-fireball-meteor-explodes-over-erupting-volcano-in-the-philippines](https://www.livescience.com/space/meteoroids/brilliant-green-fireball-meteor-explodes-over-erupting-volcano-in-the-philippines)  
+   Link: <a href="https://www.livescience.com/space/meteoroids/brilliant-green-fireball-meteor-explodes-over-erupting-volcano-in-the-philippines" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/meteoroids/brilliant-green-fireball-meteor-explodes-over-erupting-volcano-in-the-philippines</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mount Mayon, located in Albay, Luzon, has been erupting since early January. Had the meteor impacted the volcano, scientists estimated it...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=-KKlsOpZhM4](https://www.youtube.com/watch?v=-KKlsOpZhM4)  
+   Link: <a href="https://www.youtube.com/watch?v=-KKlsOpZhM4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-KKlsOpZhM4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 SKY FULL OF LIGHTS! Analyzing a #Satellite Train &amp; The Truth About &quot;No-Fly Zone&quot; #UFOs...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: UFO & UAP. Your Astronomy Sucks #3  
-   Link: [https://www.youtube.com/watch?v=keDI4dNX9tg](https://www.youtube.com/watch?v=keDI4dNX9tg)  
+   Link: <a href="https://www.youtube.com/watch?v=keDI4dNX9tg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=keDI4dNX9tg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Utah sky UFO common misidentifications satellites drones UFO making cloud to hide in Bountiful, Utah Sept 19, 2025 UAP sighting news 👽 al...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Strange lights seen in Illinois sky explained  
-   Link: [https://www.youtube.com/watch?v=Lv1bf0fmAvU](https://www.youtube.com/watch?v=Lv1bf0fmAvU)  
+   Link: <a href="https://www.youtube.com/watch?v=Lv1bf0fmAvU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lv1bf0fmAvU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Watch the complete &#x27;Hunting UFOs: The Desert Sky Mystery,&#x27; a NewsNation special report...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=R3Z_tmsY3fk](https://www.youtube.com/watch?v=R3Z_tmsY3fk)  
+   Link: <a href="https://www.youtube.com/watch?v=R3Z_tmsY3fk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R3Z_tmsY3fk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 UFO &amp; UAP. Your Astronomy Sucks #3...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/13abc/posts/star-shaped-ufo-spotted-in-newly-released-video-/1449944543828108/](https://www.facebook.com/13abc/posts/star-shaped-ufo-spotted-in-newly-released-video-/1449944543828108/)  
+   Link: <a href="https://www.facebook.com/13abc/posts/star-shaped-ufo-spotted-in-newly-released-video-/1449944543828108/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/13abc/posts/star-shaped-ufo-spotted-in-newly-released-video-/1449944543828108/</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TweakTown/posts/a-united-airlines-flight-over-utah-was-hit-by-a-mysterious-object-from-space-%EF%B8%8F/1334944605343705/](https://www.facebook.com/TweakTown/posts/a-united-airlines-flight-over-utah-was-hit-by-a-mysterious-object-from-space-%EF%B8%8F/1334944605343705/)  
+   Link: <a href="https://www.facebook.com/TweakTown/posts/a-united-airlines-flight-over-utah-was-hit-by-a-mysterious-object-from-space-%EF%B8%8F/1334944605343705/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TweakTown/posts/a-united-airlines-flight-over-utah-was-hit-by-a-mysterious-object-from-space-%EF%B8%8F/1334944605343705/</a>  
 
 28. <a id="endnote-28"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DWKYQrIlIDM/](https://www.instagram.com/p/DWKYQrIlIDM/)  
+   Link: <a href="https://www.instagram.com/p/DWKYQrIlIDM/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWKYQrIlIDM/</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/](https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/)  
+   Link: <a href="https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/a-new-analysis-of-ufo-reports-found-the-cities-where-people-are-most-likely-to-s/1333219522004362/</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox13newsutah/posts/an-early-morning-fireball-could-be-seen-shooting-across-the-sky-in-northern-utah/1529871125405012/](https://www.facebook.com/fox13newsutah/posts/an-early-morning-fireball-could-be-seen-shooting-across-the-sky-in-northern-utah/1529871125405012/)  
+   Link: <a href="https://www.facebook.com/fox13newsutah/posts/an-early-morning-fireball-could-be-seen-shooting-across-the-sky-in-northern-utah/1529871125405012/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox13newsutah/posts/an-early-morning-fireball-could-be-seen-shooting-across-the-sky-in-northern-utah/1529871125405012/</a>

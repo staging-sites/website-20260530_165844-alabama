@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-new-yorks-ufo/
 nav_short_title: Indian Point
 title: Did a UFO Visit Indian Point?
-title_full: Did a UFO Visit Indian Point? | New York UFOs
+title_full: Did a UFO Visit Indian Point?
 display_title_short: Indian Point
 display_title: Indian Point
 heading_title: Did a UFO Visit Indian Point?
@@ -268,12 +268,10 @@ image: /assets/images/New_York_c7ef6c_indian_point_claims_db72db-overview-social
 
 ## Introduction
 
-The Indian Point story is one of the most striking but also most fragile claims within [New York]({{ 'what-really-happened-in-new-yorks-ufo/' | relative_url }})’s Hudson Valley UFO wave. In its dramatic version, security personnel at the Indian Point nuclear power station in Buchanan, Westchester County, saw a huge [boomerang]({{ 'boomerang/' | relative_url }})- or triangle-shaped object near Reactor 3 in the summer of 1984, close enough to raise security concerns. The reason it matters is obvious: a UFO report near an ordinary field is one thing; a report near a nuclear plant just north of New York City carries a very different emotional charge.
-
+The Indian Point story is one of the most striking but also most fragile claims within New York’s Hudson Valley UFO wave. In its dramatic version, security personnel at the Indian Point nuclear power station in Buchanan, Westchester County, saw a huge [boomerang]({{ 'boomerang/' | relative_url }})- or triangle-shaped object near Reactor 3 in the summer of 1984, close enough to raise security concerns. The reason it matters is obvious: a UFO report near an ordinary field is one thing; a report near a nuclear plant just north of New York City carries a very different emotional charge.
 
 <img src="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db-overview.webp" | relative_url }}" alt="Overview image for Indian Point" loading="eager" decoding="sync" fetchpriority="high">
 The best reading is cautious. There were indeed widely reported Hudson Valley sightings in 1983–84, and Indian Point became a powerful sub-claim within that wave. But the Indian Point case is not strongly documented in the public record. The surviving paper trail includes a Freedom of Information Act request describing a dramatic event, followed by a Nuclear Regulatory Commission response saying no responsive documents were found. Later reporting also [records]({{ 'records-637b5f/' | relative_url }}) denials and sceptical explanations involving small aircraft using the plant as a visible landmark. That does not prove witnesses saw nothing unusual, but it does mean the strongest version of the story remains disputed and thinly evidenced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/ufos/nrc-ufo-2021.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/syZ9cXHutAU" title="Hudson Valley Boomerangs - A 1980&#x27;s UFO sightings occurring over Indian Point" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=syZ9cXHutAU" target="_blank" rel="noopener noreferrer">Hudson Valley Boomerangs - A 1980&#x27;s UFO sightings occurring over Indian Point</a></p><p class="youtube-embed-meta">Channel: Peekskill Today &middot; Views: 2.9K &middot; Uploaded: October 2017 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=syZ9cXHutAU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=syZ9cXHutAU">Open on YouTube</a></p></div></div></div>
 
@@ -289,8 +287,7 @@ The most dramatic surviving description is found in a 1984 FOIA request from Cit
 
 That distinction is central. The FOIA request shows that the story was circulating by late 1984 in a detailed form. It does not show that the alleged events happened as described.
 
-
-<img src="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db-Illustration-1-light.svg" | relative_url }}" alt="Indian Point illustration 1" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db-Illustration-1-dark.svg" | relative_url }}" alt="Indian Point illustration 1" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What documentation is missing
 
 The strongest doubt about the Indian Point claim is not that it sounds strange. It is that a case of this supposed seriousness ought to have left a clearer administrative trail. A large unidentified object near a nuclear reactor, with security-system effects and a possible military helicopter call-out, would normally be expected to generate incident logs, internal security records, regulatory reports, or at least consistent references in later official correspondence.
@@ -302,7 +299,6 @@ This missing documentation weakens the most dramatic parts of the account. It do
 There is also a date problem. Later summaries often cite 14 June and 24 July 1984, while the 1984 FOIA request describes an incident on 14 July 1984. That may reflect a clerical error, conflation of multiple nights, or a chain of retellings in which dates shifted. For a public-facing case page, the safest wording is therefore “summer 1984 Indian Point claims” rather than a single confidently fixed incident date. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
 The human source chain also needs care. Imbrogno helped popularise the Hudson Valley material through *Night Siege*, co-authored with J. Allen Hynek and Bob Pratt, and his work remains central to how many readers first encounter the Indian Point story. However, later controversy over Imbrogno’s claimed credentials has made some researchers more cautious about relying on his unsupported assertions. That does not erase every witness account associated with him, but it does make independent documentation more important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Indian_Point_Energy_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Indian Point Energy Center</span><span class="citation-popover-snippet">Indian Point Energy Center</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tbsxZBmGMBA" title="UFOs at Nuclear Sites? | Ancient Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tbsxZBmGMBA" target="_blank" rel="noopener noreferrer">UFOs at Nuclear Sites? | Ancient Aliens</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 201.1K &middot; Uploaded: March 2026 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tbsxZBmGMBA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tbsxZBmGMBA">Open on YouTube</a></p></div></div></div>
 
@@ -316,8 +312,7 @@ This matters because night formation flying can produce exactly the kind of perc
 
 The nuclear-plant setting, however, raises the stakes in both directions. For believers, the idea that trained security guards saw something near restricted infrastructure gives the claim extra credibility. For sceptics, the plant’s visibility makes it more likely that ordinary aircraft would pass near it or use it as a landmark, especially before post-9/11 aviation caution around critical infrastructure became more prominent. Modern FAA notices strongly advise pilots to avoid or not loiter near power plants and similar facilities, but that later national-security framing should not be casually projected back onto every 1984 overflight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/us_restrictions/fdc_notams/pdf/fdc%20notams%204-4386%20and%204-0811.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">fdc notams 4 4386 and 4 0811</span><span class="citation-popover-snippet">fdc notams 4 4386 and 4 0811</span></span></span>
 
-
-<img src="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db-Illustration-2-light.svg" | relative_url }}" alt="Indian Point illustration 2" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db-Illustration-2-dark.svg" | relative_url }}" alt="Indian Point illustration 2" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What can and cannot be fairly concluded
 
 The Indian Point story is best treated as a disputed case family rather than a single settled incident. There are three layers to separate.
@@ -330,7 +325,6 @@ Third, the public record does not verify the dramatic version. The NRC found no 
 
 For readers trying to assess the case, the most useful conclusion is not “debunked” or “confirmed”. The stronger conclusion is narrower: Indian Point is compelling because it links the Hudson Valley UFO wave to a nuclear site, but it is weak as documentary evidence. Its importance is historical and interpretive rather than evidentially decisive. It shows how a regional UFO wave can absorb a high-stakes location, how nuclear infrastructure can amplify public concern, and how a spectacular claim can remain culturally durable even when the official paper trail is thin.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XKEf24q6adc" title="A UFO Hotspot in New York (Season 18) | Ancient Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XKEf24q6adc" target="_blank" rel="noopener noreferrer">A UFO Hotspot in New York (Season 18) | Ancient Aliens</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 84.5K &middot; Uploaded: February 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XKEf24q6adc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XKEf24q6adc">Open on YouTube</a></p></div></div></div>
 
 ## Why the Indian Point claim still matters in New York UFO history
@@ -341,8 +335,7 @@ Its value is as a cautionary case. A reader can see why witnesses and UFO invest
 
 That tension is the point. Indian Point is not one of New York’s best-documented UFO incidents. It is one of its best examples of how a dramatic setting can make a thinly documented report feel much stronger than the records allow.
 
-
-<img src="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db-Illustration-3-light.svg" | relative_url }}" alt="Indian Point illustration 3" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db-Illustration-3-dark.svg" | relative_url }}" alt="Indian Point illustration 3" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_indian_point_claims_db72db-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -430,7 +423,7 @@ That tension is the point. Indian Point is not one of New York’s best-document
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -440,111 +433,36 @@ That tension is the point. Indian Point is not one of New York’s best-document
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/o-YAAOSwKopk5fnY/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/eae0332ee79d8e3a197d.jpg' | relative_url }}" alt="Listing image for Giant UFOs Over Futuristic Sci Fi City Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Giant UFOs Over Futuristic Sci Fi City Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -552,15 +470,15 @@ That tension is the point. Indian Point is not one of New York’s best-document
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S"><img src="https://i.ebayimg.com/images/g/yRcAAOSwWhdmw231/s-l225.jpg" alt="Listing image for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -568,15 +486,15 @@ That tension is the point. Indian Point is not one of New York’s best-document
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth"><img src="https://i.ebayimg.com/images/g/VF0AAeSwVpBpJZso/s-l225.jpg" alt="Listing image for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -584,15 +502,15 @@ That tension is the point. Indian Point is not one of New York’s best-document
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -600,7 +518,7 @@ That tension is the point. Indian Point is not one of New York’s best-document
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=indian-point-did-a-ufo-visit-indian-point-new-york-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="did-a-ufo-visit-indian-point-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -677,17 +595,31 @@ That tension is the point. Indian Point is not one of New York’s best-document
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -700,42 +632,73 @@ That tension is the point. Indian Point is not one of New York’s best-document
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -750,12 +713,17 @@ That tension is the point. Indian Point is not one of New York’s best-document
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -766,99 +734,99 @@ That tension is the point. Indian Point is not one of New York’s best-document
 1. <a id="endnote-1"></a>
    Source: documents2.theblackvault.com  
    Title: The Black Vault  
-   Link: [https://documents2.theblackvault.com/documents/ufos/nrc-ufo-2021.pdf](https://documents2.theblackvault.com/documents/ufos/nrc-ufo-2021.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/ufos/nrc-ufo-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/ufos/nrc-ufo-2021.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: 1984 Hudson Valley UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings](https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings</a>  
 
 3. <a id="endnote-3"></a>
    Source: nrc.gov  
-   Link: [https://www.nrc.gov/info-finder/reactors/ip2](https://www.nrc.gov/info-finder/reactors/ip2)  
+   Link: <a href="https://www.nrc.gov/info-finder/reactors/ip2" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/info-finder/reactors/ip2</a>  
 
 4. <a id="endnote-4"></a>
    Source: faa.gov  
    Title: fdc notams 4 4386 and 4 0811  
-   Link: [https://www.faa.gov/air_traffic/publications/us_restrictions/fdc_notams/pdf/fdc%20notams%204-4386%20and%204-0811.pdf](https://www.faa.gov/air_traffic/publications/us_restrictions/fdc_notams/pdf/fdc%20notams%204-4386%20and%204-0811.pdf)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/us_restrictions/fdc_notams/pdf/fdc%20notams%204-4386%20and%204-0811.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/us_restrictions/fdc_notams/pdf/fdc%20notams%204-4386%20and%204-0811.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Indian Point Energy Center  
-   Link: [https://en.wikipedia.org/wiki/Indian_Point_Energy_Center](https://en.wikipedia.org/wiki/Indian_Point_Energy_Center)  
+   Link: <a href="https://en.wikipedia.org/wiki/Indian_Point_Energy_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Indian_Point_Energy_Center</a>  
 
 6. <a id="endnote-6"></a>
    Source: nrc.gov  
-   Link: [https://www.nrc.gov/docs/ML2117/ML21179A021.pdf](https://www.nrc.gov/docs/ML2117/ML21179A021.pdf)  
+   Link: <a href="https://www.nrc.gov/docs/ML2117/ML21179A021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2117/ML21179A021.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: nrc.gov  
-   Link: [https://www.nrc.gov/docs/ML0322/ML032200098.pdf](https://www.nrc.gov/docs/ML0322/ML032200098.pdf)  
+   Link: <a href="https://www.nrc.gov/docs/ML0322/ML032200098.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML0322/ML032200098.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: faa.gov  
    Title: us restrictions  
-   Link: [https://www.faa.gov/air_traffic/publications/us_restrictions](https://www.faa.gov/air_traffic/publications/us_restrictions)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/us_restrictions" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/us_restrictions</a>  
 
 9. <a id="endnote-9"></a>
    Source: history.com  
    Title: ufos near nuclear facilities uss roosevelt rendlesham  
-   Link: [https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham](https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham)  
+   Link: <a href="https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufos-near-nuclear-facilities-uss-roosevelt-rendlesham</a>  
 
 10. <a id="endnote-10"></a>
    Source: timesunion.com  
    Title: ufo sightings westchester pine bush mystery 19363246  
-   Link: [https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php](https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php)  
+   Link: <a href="https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php" target="_blank" rel="noopener noreferrer nofollow">https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php</a>  
 
 11. <a id="endnote-11"></a>
    Source: theecologist.org  
    Title: Indian Point  
-   Link: [https://theecologist.org/2015/may/12/indian-point-nuclear-bombshell-new-york-citys-backyard](https://theecologist.org/2015/may/12/indian-point-nuclear-bombshell-new-york-citys-backyard)  
+   Link: <a href="https://theecologist.org/2015/may/12/indian-point-nuclear-bombshell-new-york-citys-backyard" target="_blank" rel="noopener noreferrer nofollow">https://theecologist.org/2015/may/12/indian-point-nuclear-bombshell-new-york-citys-backyard</a>  
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Ancient Aliens: UFO Invasion in New York's Hudson Valley (Season 19) | History  
-   Link: [https://www.youtube.com/watch?v=3tmIQmUDVtY](https://www.youtube.com/watch?v=3tmIQmUDVtY)  
+   Link: <a href="https://www.youtube.com/watch?v=3tmIQmUDVtY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3tmIQmUDVtY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 285 - The Hudson Valley UFO Sightings...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: A UFO Hotspot in New York (Season 18) | Ancient Aliens  
-   Link: [https://www.youtube.com/watch?v=XKEf24q6adc](https://www.youtube.com/watch?v=XKEf24q6adc)  
+   Link: <a href="https://www.youtube.com/watch?v=XKEf24q6adc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XKEf24q6adc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: UFO Invasion in New York&#x27;s Hudson Valley (Season 19) | History...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: federalregister.gov  
-   Link: [https://www.federalregister.gov/documents/2026/05/06/2026-08943/designation-restrict-the-operation-of-unmanned-aircraft-in-close-proximity-to-a-fixed-site-facility](https://www.federalregister.gov/documents/2026/05/06/2026-08943/designation-restrict-the-operation-of-unmanned-aircraft-in-close-proximity-to-a-fixed-site-facility)  
+   Link: <a href="https://www.federalregister.gov/documents/2026/05/06/2026-08943/designation-restrict-the-operation-of-unmanned-aircraft-in-close-proximity-to-a-fixed-site-facility" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2026/05/06/2026-08943/designation-restrict-the-operation-of-unmanned-aircraft-in-close-proximity-to-a-fixed-site-facility</a>  
 
 16. <a id="endnote-16"></a>
    Source: federalregister.gov  
-   Link: [https://www.federalregister.gov/documents/2021/07/15/2021-15068/holtec-decommissioning-international-llc-indian-point-nuclear-generating-unit-nos-1-2-and-3](https://www.federalregister.gov/documents/2021/07/15/2021-15068/holtec-decommissioning-international-llc-indian-point-nuclear-generating-unit-nos-1-2-and-3)  
+   Link: <a href="https://www.federalregister.gov/documents/2021/07/15/2021-15068/holtec-decommissioning-international-llc-indian-point-nuclear-generating-unit-nos-1-2-and-3" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2021/07/15/2021-15068/holtec-decommissioning-international-llc-indian-point-nuclear-generating-unit-nos-1-2-and-3</a>  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: UFOs at Nuclear Sites? | Ancient Aliens  
-   Link: [https://www.youtube.com/watch?v=tbsxZBmGMBA](https://www.youtube.com/watch?v=tbsxZBmGMBA)  
+   Link: <a href="https://www.youtube.com/watch?v=tbsxZBmGMBA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tbsxZBmGMBA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why UFOs Were Seen Near America&#x27;s Most Secure Nuclear Facility | WION Podcast...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/enigmalabsuap/posts/a-wave-of-ufo-sightings-swept-through-new-yorks-hudson-valley-in-the-1980s-seen-/760580063461913/](https://www.facebook.com/enigmalabsuap/posts/a-wave-of-ufo-sightings-swept-through-new-yorks-hudson-valley-in-the-1980s-seen-/760580063461913/)  
+   Link: <a href="https://www.facebook.com/enigmalabsuap/posts/a-wave-of-ufo-sightings-swept-through-new-yorks-hudson-valley-in-the-1980s-seen-/760580063461913/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/enigmalabsuap/posts/a-wave-of-ufo-sightings-swept-through-new-yorks-hudson-valley-in-the-1980s-seen-/760580063461913/</a>  
 
 19. <a id="endnote-19"></a>
    Source: newengland.com  
-   Link: [https://newengland.com/yankee/history/ufo-sightings-alien-sightings/](https://newengland.com/yankee/history/ufo-sightings-alien-sightings/)  
+   Link: <a href="https://newengland.com/yankee/history/ufo-sightings-alien-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://newengland.com/yankee/history/ufo-sightings-alien-sightings/</a>  
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/4585999861/posts/10159560064879862/](https://www.facebook.com/groups/4585999861/posts/10159560064879862/)  
+   Link: <a href="https://www.facebook.com/groups/4585999861/posts/10159560064879862/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/4585999861/posts/10159560064879862/</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/903879063054302/posts/25271910139157855/](https://www.facebook.com/groups/903879063054302/posts/25271910139157855/)  
+   Link: <a href="https://www.facebook.com/groups/903879063054302/posts/25271910139157855/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/903879063054302/posts/25271910139157855/</a>

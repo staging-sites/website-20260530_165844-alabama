@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /hawaii-a1be95-hawaii-sky-clues-4b6aed/
 description: Focused pages that expand on Sky Clues.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Hawaii_a1be95_hawaii_sky_clues_4b6aed
-parent_title: Sky Clues | What Really Happened in Hawaii's UFO...
+parent_title: Sky Clues
 parent_nav_short_title: Sky Clues
 parent_permalink: /sky-clues/
 ---

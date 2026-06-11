@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /banner-plane/
 nav_short_title: Solved Trail
 title: How a strange object became a banner plane
-title_full: How a strange object became a banner plane | Banner Plane
+title_full: How a strange object became a banner plane
 display_title_short: Solved Trail
 display_title: Solved Trail
 heading_title: How a strange object became a banner plane
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:09:05'
-parent_title: The Rhode Island UFO That Was Probably A Banner | Rhode Island UFOs
+parent_title: The Rhode Island UFO That Was Probably A Banner
 parent_permalink: /banner-plane/
 parent_nav_short_title: Banner Plane
 parent_heading_title: The Rhode Island UFO That Was Probably A Banner
@@ -250,10 +250,9 @@ image: /assets/images/Rhode_Island_b30a18_banner_plane_case_503c86_block_island_
 
 ## Introduction
 
-A daylight sighting off Block Island in September 2012 began as a seemingly strong UFO report and ended as one of [Rhode Island]({{ 'what-rhode-islands-ufo-reports-really/' | relative_url }})’s clearest examples of a local mystery being solved through careful checking rather than speculation. The witness, Chip Taylor, watched a distant object through binoculars for several minutes and initially saw what looked like a large, wingless, shape-changing craft moving along the shoreline. What changed the case was not a dramatic new photograph or government disclosure. It was a series of practical corrections: better estimates of distance, a closer look at the geography, and conversations with local airports. By the end of the investigation, the most convincing explanation was a large advertising banner being towed by a small aircraft that was difficult to see from Block Island. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/investigating-the-rhode-island-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">investigating the rhode island ufo</span><span class="citation-popover-snippet">An advertisement banner in tow behind an airplane. “What you saw was most likely a large advertising banner...Read more...</span></span></span>
+A daylight sighting off Block Island in September 2012 began as a seemingly strong UFO report and ended as one of Rhode Island’s clearest examples of a local mystery being solved through careful checking rather than speculation. The witness, Chip Taylor, watched a distant object through binoculars for several minutes and initially saw what looked like a large, wingless, shape-changing craft moving along the shoreline. What changed the case was not a dramatic new photograph or government disclosure. It was a series of practical corrections: better estimates of distance, a closer look at the geography, and conversations with local airports. By the end of the investigation, the most convincing explanation was a large advertising banner being towed by a small aircraft that was difficult to see from Block Island. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/investigating-the-rhode-island-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">investigating the rhode island ufo</span><span class="citation-popover-snippet">An advertisement banner in tow behind an airplane. “What you saw was most likely a large advertising banner...Read more...</span></span></span>
 
-
-<img src="{{ "/assets/images/Rhode_Island_b30a18_banner_plane_case_503c86_block_island_solved_d35779-Illustration-1-light.svg" | relative_url }}" alt="Solved Trail illustration 1" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_banner_plane_case_503c86_block_island_solved_d35779-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_banner_plane_case_503c86_block_island_solved_d35779-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Rhode_Island_b30a18_banner_plane_case_503c86_block_island_solved_d35779-Illustration-1-dark.svg" | relative_url }}" alt="Solved Trail illustration 1" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_banner_plane_case_503c86_block_island_solved_d35779-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_banner_plane_case_503c86_block_island_solved_d35779-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The case remains useful within Rhode Island UFO history because it shows how a sincere observer can gather real details, make reasonable assumptions, and still be misled by scale, distance and viewing angle. Rather than exposing a hoax or proving an extraordinary event, the investigation demonstrated how an apparently puzzling object could become understandable once the local aviation context was reconstructed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/investigating-the-rhode-island-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">investigating the rhode island ufo</span><span class="citation-popover-snippet">An advertisement banner in tow behind an airplane. “What you saw was most likely a large advertising banner...Read more...</span></span></span>
 
 ## What Chip Taylor first reported from Block Island
@@ -261,7 +260,6 @@ The case remains useful within Rhode Island UFO history because it shows how a s
 Taylor's observation did not fit the stereotype of a fleeting light in the night sky. He was on Block Island during a ham-radio event and was already paying close attention to the surrounding airspace and coastline. Through binoculars, he watched an object moving roughly parallel to the distant mainland shoreline. It appeared as a large parallelogram-shaped form with no visible wings, engine, propeller or towing aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/investigating-the-rhode-island-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">investigating the rhode island ufo</span><span class="citation-popover-snippet">An advertisement banner in tow behind an airplane. “What you saw was most likely a large advertising banner...Read more...</span></span></span>
 
 Several features made the sighting seem unusual at first:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -274,7 +272,6 @@ Several features made the sighting seem unusual at first:
 </div>
 
 Those details are important because they explain why the sighting initially resisted an easy explanation. The report was not built around a single ambiguous photograph. It included a prolonged visual observation and a witness trying to analyse what he was seeing in real time. That gave the case a degree of credibility while also creating opportunities for mistaken interpretation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ovb2uMYstwY" title="Alderney UFO sighting explained | Why it&#x27;s one of the most incredible ever recorded | This Is Why" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ovb2uMYstwY" target="_blank" rel="noopener noreferrer">Alderney UFO sighting explained | Why it&#x27;s one of the most incredible ever recorded | This Is Why</a></p><p class="youtube-embed-meta">Channel: 7NEWS Australia &middot; Views: 723.2K &middot; Uploaded: January 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ovb2uMYstwY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ovb2uMYstwY">Open on YouTube</a></p></div></div></div>
 
@@ -292,8 +289,7 @@ The geography of the sighting also started to matter. Taylor checked where the o
 
 This was a crucial investigative change. Many UFO reports remain focused on the object itself. In this case, the investigation increasingly focused on the viewing conditions, shoreline positions and aviation activity in the area.
 
-
-<img src="{{ "/assets/images/Rhode_Island_b30a18_banner_plane_case_503c86_block_island_solved_d35779-Illustration-2-light.svg" | relative_url }}" alt="Solved Trail illustration 2" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_banner_plane_case_503c86_block_island_solved_d35779-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_banner_plane_case_503c86_block_island_solved_d35779-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Rhode_Island_b30a18_banner_plane_case_503c86_block_island_solved_d35779-Illustration-2-dark.svg" | relative_url }}" alt="Solved Trail illustration 2" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_banner_plane_case_503c86_block_island_solved_d35779-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_banner_plane_case_503c86_block_island_solved_d35779-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Block Island Airport lead mattered
 
 The first airport enquiries did not immediately solve the mystery.
@@ -307,7 +303,6 @@ That suggestion succeeded because it addressed several puzzles at once.
 A banner could explain the apparent rectangular or parallelogram shape. A towing aircraft could be present without being obvious from a long distance. The changing appearance could result from shifts in viewing angle as the banner twisted or altered its orientation relative to the observer. The final disappearance could be explained by terrain and perspective rather than a dramatic manoeuvre. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/investigating-the-rhode-island-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">investigating the rhode island ufo</span><span class="citation-popover-snippet">An advertisement banner in tow behind an airplane. “What you saw was most likely a large advertising banner...Read more...</span></span></span>
 
 The explanation also fit local aviation practices. Follow-up enquiries found that banner-towing operations did work from the area around Westerly Airport. Taylor learned that such aircraft can tow very large banners, that the towing plane may be surprisingly difficult to see at a distance, and that banner movement can create the impression of changing shapes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/investigating-the-rhode-island-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">investigating the rhode island ufo</span><span class="citation-popover-snippet">An advertisement banner in tow behind an airplane. “What you saw was most likely a large advertising banner...Read more...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_YIS16GfzfQ" title="My UFO Mistake" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_YIS16GfzfQ" target="_blank" rel="noopener noreferrer">My UFO Mistake</a></p><p class="youtube-embed-meta">Channel: Hank Green &middot; Views: 330.4K &middot; Uploaded: January 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_YIS16GfzfQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_YIS16GfzfQ">Open on YouTube</a></p></div></div></div>
 
@@ -323,14 +318,12 @@ The arrangement can also create misleading impressions of movement. If the aircr
 
 That insight solved one of the strongest parts of the original report. The shape-shifting behaviour was no longer evidence against a conventional explanation. It became evidence supporting one.
 
-
-<img src="{{ "/assets/images/Rhode_Island_b30a18_banner_plane_case_503c86_block_island_solved_d35779-Illustration-3-light.svg" | relative_url }}" alt="Solved Trail illustration 3" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_banner_plane_case_503c86_block_island_solved_d35779-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_banner_plane_case_503c86_block_island_solved_d35779-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Rhode_Island_b30a18_banner_plane_case_503c86_block_island_solved_d35779-Illustration-3-dark.svg" | relative_url }}" alt="Solved Trail illustration 3" data-theme-src-dark="{{ "/assets/images/Rhode_Island_b30a18_banner_plane_case_503c86_block_island_solved_d35779-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Rhode_Island_b30a18_banner_plane_case_503c86_block_island_solved_d35779-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case shows about solved UFO reports
 
 The Block Island sighting is valuable because it was not dismissed with a casual explanation. The banner-plane solution emerged only after the witness investigated his own report, corrected distance estimates, checked local geography and followed aviation leads. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/newsletter/investigating-the-rhode-island-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">investigating the rhode island ufo</span><span class="citation-popover-snippet">An advertisement banner in tow behind an airplane. “What you saw was most likely a large advertising banner...Read more...</span></span></span>
 
 Several lessons stand out:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -344,9 +337,7 @@ Several lessons stand out:
 
 Within Rhode Island's UFO record, the 2012 Block Island case is therefore notable not because it remained unexplained, but because it did not. The investigation followed a path from uncertainty to a specific, locally grounded answer. That makes it one of the state's better examples of how a seemingly strong UFO report can weaken as more contextual information becomes available, without requiring anyone to accuse the witness of fabrication or bad faith.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wbSU7GBlb7Y" title="Banner plane in Orange Beach pulls ad for OnlyFans account; mayor and beachgoers furious" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wbSU7GBlb7Y" target="_blank" rel="noopener noreferrer">Banner plane in Orange Beach pulls ad for OnlyFans account; mayor and beachgoers furious</a></p><p class="youtube-embed-meta">Channel: WKRG &middot; Views: 1.5K &middot; Uploaded: June 2024 &middot; Length: 1 minute 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wbSU7GBlb7Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wbSU7GBlb7Y">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -434,7 +425,7 @@ Within Rhode Island's UFO record, the 2012 Block Island case is therefore notabl
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -444,111 +435,36 @@ Within Rhode Island's UFO record, the 2012 Block Island case is therefore notabl
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-strange-object-became-a-banner-plane-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="how-a-strange-object-became-a-banner-plane-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOEING PLANE MODEL 80A-1 GLOSSY POSTER PICTURE PHOTO PRINT BANNER 9629"><img src="https://i.ebayimg.com/images/g/aSoAAOSwO4JmYoUs/s-l225.jpg" alt="Listing image for BOEING PLANE MODEL 80A-1 GLOSSY POSTER PICTURE PHOTO PRINT BANNER 9629" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-strange-object-became-a-banner-plane-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="how-a-strange-object-became-a-banner-plane-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer">BOEING PLANE MODEL 80A-1 GLOSSY POSTER PICTURE PHOTO PRINT BANNER 9629</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-strange-object-became-a-banner-plane-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="how-a-strange-object-became-a-banner-plane-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for banner plane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: banner plane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-strange-object-became-a-banner-plane-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="how-a-strange-object-became-a-banner-plane-banner-plane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,15 +472,15 @@ Within Rhode Island's UFO record, the 2012 Block Island case is therefore notabl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-strange-object-became-a-banner-plane-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="how-a-strange-object-became-a-banner-plane-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airplane Garland Colored Paper Plane Banner 3D Air Force Streamers Aviation Airp"><img src="https://i.ebayimg.com/images/g/fWkAAeSwSCJqHiVo/s-l225.jpg" alt="Listing image for Airplane Garland Colored Paper Plane Banner 3D Air Force Streamers Aviation Airp" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-strange-object-became-a-banner-plane-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="how-a-strange-object-became-a-banner-plane-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer">Airplane Garland Colored Paper Plane Banner 3D Air Force Streamers Aviation Airp</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-strange-object-became-a-banner-plane-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="how-a-strange-object-became-a-banner-plane-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for banner plane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: banner plane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-strange-object-became-a-banner-plane-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="how-a-strange-object-became-a-banner-plane-banner-plane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -572,15 +488,15 @@ Within Rhode Island's UFO record, the 2012 Block Island case is therefore notabl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-strange-object-became-a-banner-plane-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="how-a-strange-object-became-a-banner-plane-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOEING PLANE MODEL 95 GLOSSY POSTER PICTURE PHOTO PRINT BANNER 9630"><img src="https://i.ebayimg.com/images/g/2JoAAOSwsmNmYoUn/s-l225.jpg" alt="Listing image for BOEING PLANE MODEL 95 GLOSSY POSTER PICTURE PHOTO PRINT BANNER 9630" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-strange-object-became-a-banner-plane-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="how-a-strange-object-became-a-banner-plane-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer">BOEING PLANE MODEL 95 GLOSSY POSTER PICTURE PHOTO PRINT BANNER 9630</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-strange-object-became-a-banner-plane-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="how-a-strange-object-became-a-banner-plane-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for banner plane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: banner plane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-strange-object-became-a-banner-plane-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="how-a-strange-object-became-a-banner-plane-banner-plane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -588,15 +504,15 @@ Within Rhode Island's UFO record, the 2012 Block Island case is therefore notabl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-strange-object-became-a-banner-plane-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="how-a-strange-object-became-a-banner-plane-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disney Pixar Cars And Plane Lot Lightning Diecast Model Toys Gift Loose Car"><img src="https://i.ebayimg.com/images/g/eqgAAOSwRqJhfSb8/s-l225.jpg" alt="Listing image for Disney Pixar Cars And Plane Lot Lightning Diecast Model Toys Gift Loose Car" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-strange-object-became-a-banner-plane-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="how-a-strange-object-became-a-banner-plane-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer">Disney Pixar Cars And Plane Lot Lightning Diecast Model Toys Gift Loose Car</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-strange-object-became-a-banner-plane-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="how-a-strange-object-became-a-banner-plane-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for banner plane model">Search <span data-ebay-domain-label>eBay.co.uk</span>: banner plane model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-strange-object-became-a-banner-plane-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="how-a-strange-object-became-a-banner-plane-banner-plane-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -604,7 +520,7 @@ Within Rhode Island's UFO record, the 2012 Block Island case is therefore notabl
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solved-trail-how-a-strange-object-became-a-banner-plane-rhode-island-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=banner+plane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-a-strange-object-became-a-banner-plane-banner-plane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="banner plane model" data-ebay-reference="how-a-strange-object-became-a-banner-plane-banner-plane-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -681,17 +597,31 @@ Within Rhode Island's UFO record, the 2012 Block Island case is therefore notabl
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -704,42 +634,73 @@ Within Rhode Island's UFO record, the 2012 Block Island case is therefore notabl
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -754,12 +715,17 @@ Within Rhode Island's UFO record, the 2012 Block Island case is therefore notabl
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -770,33 +736,33 @@ Within Rhode Island's UFO record, the 2012 Block Island case is therefore notabl
 1. <a id="endnote-1"></a>
    Source: skepticalinquirer.org  
    Title: investigating the rhode island ufo  
-   Link: [https://skepticalinquirer.org/newsletter/investigating-the-rhode-island-ufo/](https://skepticalinquirer.org/newsletter/investigating-the-rhode-island-ufo/)  
+   Link: <a href="https://skepticalinquirer.org/newsletter/investigating-the-rhode-island-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/investigating-the-rhode-island-ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An advertisement banner in tow behind an airplane. “What you saw was most likely a large advertising banner...Read more...</p></details>
 
 ### Additional References
 
 2. <a id="endnote-2"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=eJJCHOMajGo](https://www.youtube.com/watch?v=eJJCHOMajGo)  
+   Link: <a href="https://www.youtube.com/watch?v=eJJCHOMajGo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eJJCHOMajGo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alderney UFO sighting explained | Why it&#x27;s one of the most incredible ever recorded | This Is Why...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Ovb2uMYstwY](https://www.youtube.com/watch?v=Ovb2uMYstwY)  
+   Link: <a href="https://www.youtube.com/watch?v=Ovb2uMYstwY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ovb2uMYstwY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The SHOCKING Math Error Behind Viral UFO Videos | Mick West...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=wbSU7GBlb7Y](https://www.youtube.com/watch?v=wbSU7GBlb7Y)  
+   Link: <a href="https://www.youtube.com/watch?v=wbSU7GBlb7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wbSU7GBlb7Y</a>  
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: My UFO Mistake  
-   Link: [https://www.youtube.com/watch?v=_YIS16GfzfQ](https://www.youtube.com/watch?v=_YIS16GfzfQ)  
+   Link: <a href="https://www.youtube.com/watch?v=_YIS16GfzfQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_YIS16GfzfQ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Banner plane](&amp;#123;&amp;#123; &#x27;banner-plane/&#x27; | relative_url &amp;#125;&amp;#125;) in Orange Beach pulls ad for OnlyFans account; mayor and beachgoers furious...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: The SHOCKING Math Error Behind Viral UFO Videos | Mick West  
-   Link: [https://www.youtube.com/watch?v=ypfbhfEXnBo](https://www.youtube.com/watch?v=ypfbhfEXnBo)  
+   Link: <a href="https://www.youtube.com/watch?v=ypfbhfEXnBo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ypfbhfEXnBo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>My UFO Mistake...</p></details>

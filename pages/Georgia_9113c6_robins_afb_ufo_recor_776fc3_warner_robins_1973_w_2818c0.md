@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /military-cases/
 nav_short_title: 1973 Wave
 title: What Really Happened During the 1973 Warner Robins UFO Wave?
-title_full: What Really Happened During the 1973 Warner Robins UFO Wave? | Military Cases
+title_full: What Really Happened During the 1973 Warner Robins UFO Wave?
 display_title_short: 1973 Wave
 display_title: 1973 Wave
 heading_title: What Really Happened During the 1973 Warner Robins UFO Wave?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:14:56'
-parent_title: How Georgia Air Bases Entered UFO History | Georgia UFOs
+parent_title: How Georgia Air Bases Entered UFO History
 parent_permalink: /military-cases/
 parent_nav_short_title: Military Cases
 parent_heading_title: How Georgia Air Bases Entered UFO History
@@ -250,10 +250,9 @@ image: /assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_warner_robins_1
 
 ## Introduction
 
-The Warner Robins UFO wave of 1973 was part of a much larger surge of sightings that swept across [Georgia]({{ 'what-really-happened-in-georgias-most/' | relative_url }}) and the American South during the autumn of that year. Around Warner Robins, witnesses reported strange coloured lights, cigar-shaped objects and hovering aerial phenomena, often near areas already associated with heavy military and [aviation]({{ 'aviation/' | relative_url }}) activity because of nearby Robins Air Force Base. What made the local reports notable was not a single dramatic encounter, but the combination of multiple witnesses, police involvement and the speed with which stories spread through regional newspapers and UFO reporting networks. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macon.com">[Macon Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macon.com</span><span class="citation-popover-snippet">31, 1973, UFO sightings were reported across the South, including vast stretches of Middle Georgia. Macon police...Read more...</span></span></span>
+The Warner Robins UFO wave of 1973 was part of a much larger surge of sightings that swept across Georgia and the American South during the autumn of that year. Around Warner Robins, witnesses reported strange coloured lights, cigar-shaped objects and hovering aerial phenomena, often near areas already associated with heavy military and [aviation]({{ 'aviation/' | relative_url }}) activity because of nearby Robins Air Force Base. What made the local reports notable was not a single dramatic encounter, but the combination of multiple witnesses, police involvement and the speed with which stories spread through regional newspapers and UFO reporting networks. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macon.com">[Macon Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macon.com</span><span class="citation-popover-snippet">31, 1973, UFO sightings were reported across the South, including vast stretches of Middle Georgia. Macon police...Read more...</span></span></span>
 
-
-<img src="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_warner_robins_1973_w_2818c0-Illustration-1-light.svg" | relative_url }}" alt="1973 Wave illustration 1" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_warner_robins_1973_w_2818c0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_warner_robins_1973_w_2818c0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_warner_robins_1973_w_2818c0-Illustration-1-dark.svg" | relative_url }}" alt="1973 Wave illustration 1" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_warner_robins_1973_w_2818c0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_warner_robins_1973_w_2818c0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Most of the Warner Robins incidents remain unresolved only in the limited sense that no definitive explanation was attached to every report. At the same time, sceptics and later investigators pointed out that the 1973 UFO flap coincided with intense media attention, heightened public fascination with UFOs, unusual atmospheric conditions and widespread misidentifications of aircraft, planets and meteors. The Warner Robins cases therefore sit in an important middle ground within Georgia UFO history: memorable enough to become part of state folklore, but not strong enough to produce hard evidence of anything extraordinary.
 
 ## Why 1973 Became Georgia’s Peak UFO Year
@@ -261,7 +260,6 @@ Most of the Warner Robins incidents remain unresolved only in the limited sense 
 Georgia experienced a dramatic increase in UFO reporting during 1973, especially between late summer and October. Warner Robins and nearby Macon became part of a regional corridor of reports stretching across Middle Georgia. Newspapers from the period described police dispatches warning officers to watch the skies for unidentified lights moving between towns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macon.com">[Macon Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macon.com</span><span class="citation-popover-snippet">31, 1973, UFO sightings were reported across the South, including vast stretches of Middle Georgia. Macon police...Read more...</span></span></span>
 
 Several factors helped create the atmosphere behind the wave:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -276,12 +274,11 @@ The result was a classic UFO “flap”: a short period in which reports multipl
 
 ## Key Warner Robins Sightings in October 1973
 
-The most widely repeated Warner Robins incidents occurred on 17 October 1973. According to later summaries preserved in UFO reporting archives, two major sightings were reported within roughly half an hour and within about a mile of each other. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=110892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 110892August 20, 2023 — 4 Jul 2014 — The massive UFO “flap” reached Warner Robins on the night of October 17 wh...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+The most widely repeated Warner Robins incidents occurred on 17 October 1973. According to later summaries preserved in UFO reporting archives, two major sightings were reported within roughly half an hour and within about a mile of each other. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=110892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 110892August 20, 2023 — 4 Jul 2014 — The massive UFO “flap” reached Warner Robins on the night of October 17 wh...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 One account described witnesses seeing a large cigar-shaped object hovering only around 100 feet above the ground. The object reportedly carried bright lights and appeared silent or nearly silent as it moved across the area. Witnesses included several civilians who claimed the object remained visible long enough for careful observation rather than a brief flash in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=e197310" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for Month 197310NUFORC Reports for Month 197310; Open, 10/17/1973 23:30, Montgomery, AL, USA; Open, 10/17/1973 21:30, Wa...</span></span></span>
 
 Other reports from the Warner Robins area described:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -294,8 +291,7 @@ Other reports from the Warner Robins area described:
 
 Although later retellings sometimes exaggerated the scale of the events, contemporary reporting suggests the actual sightings were fragmented rather than a single continuous mass event. Different groups saw different lights at different times, often interpreting them through the rapidly growing UFO excitement of October 1973. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macon.com">[Macon Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macon.com</span><span class="citation-popover-snippet">31, 1973, UFO sightings were reported across the South, including vast stretches of Middle Georgia. Macon police...Read more...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aSISgAgdyH0" title="Jimmy Carter Actually Filed a UFO Report with NASA Before Becoming President" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aSISgAgdyH0" target="_blank" rel="noopener noreferrer">Jimmy Carter Actually Filed a UFO Report with NASA Before Becoming President</a></p><p class="youtube-embed-meta">Channel: Inside Edition &middot; Views: 66.7K &middot; Uploaded: September 2016 &middot; Length: 1 minute 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aSISgAgdyH0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aSISgAgdyH0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/127_zN40nIM" title="Pascagoula UFO Abduction (1973, Calvin Parker, Charles Hickson) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=127_zN40nIM" target="_blank" rel="noopener noreferrer">Pascagoula UFO Abduction (1973, Calvin Parker, Charles Hickson) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 9.4K &middot; Uploaded: November 2020 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=127_zN40nIM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=127_zN40nIM">Open on YouTube</a></p></div></div></div>
 
 ## Police, Civilian and Multiple-Witness Accounts
 
@@ -313,13 +309,11 @@ Robins Air Force Base formed an unavoidable backdrop to the Warner Robins sighti
 
 For believers, this created two possibilities:
 
-
-<img src="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_warner_robins_1973_w_2818c0-Illustration-2-light.svg" | relative_url }}" alt="1973 Wave illustration 2" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_warner_robins_1973_w_2818c0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_warner_robins_1973_w_2818c0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_warner_robins_1973_w_2818c0-Illustration-2-dark.svg" | relative_url }}" alt="1973 Wave illustration 2" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_warner_robins_1973_w_2818c0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_warner_robins_1973_w_2818c0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 1. Genuine unknown objects were supposedly interested in military sites.
 2. Military personnel might possess radar or observational data unavailable to the public.
 
 For sceptics, the same environment pointed toward more ordinary explanations:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -333,15 +327,13 @@ For sceptics, the same environment pointed toward more ordinary explanations:
 
 Importantly, there is no strong public evidence that Robins AFB released extraordinary radar findings tied to the Warner Robins 1973 sightings. Unlike some famous Cold War UFO cases, no widely cited military document has emerged showing confirmed unidentified craft operating over the base during the flap.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/127_zN40nIM" title="Pascagoula UFO Abduction (1973, Calvin Parker, Charles Hickson) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=127_zN40nIM" target="_blank" rel="noopener noreferrer">Pascagoula UFO Abduction (1973, Calvin Parker, Charles Hickson) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 9.4K &middot; Uploaded: November 2020 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=127_zN40nIM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=127_zN40nIM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aSISgAgdyH0" title="Jimmy Carter Actually Filed a UFO Report with NASA Before Becoming President" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aSISgAgdyH0" target="_blank" rel="noopener noreferrer">Jimmy Carter Actually Filed a UFO Report with NASA Before Becoming President</a></p><p class="youtube-embed-meta">Channel: Inside Edition &middot; Views: 66.7K &middot; Uploaded: September 2016 &middot; Length: 1 minute 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aSISgAgdyH0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aSISgAgdyH0">Open on YouTube</a></p></div></div></div>
 
 ## Later Sceptical Explanations for the Light Reports
 
 As the excitement faded, most investigators settled on more conventional explanations for many of the Warner Robins and Middle Georgia sightings. These explanations did not necessarily solve every report individually, but they weakened the idea of a single mysterious phenomenon.
 
 Common sceptical interpretations included:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -357,12 +349,10 @@ The wider southern UFO wave of 1973 also demonstrated how quickly stories could 
 
 Even some UFO researchers later acknowledged that many 1973 reports across the South probably mixed ordinary stimuli with sincere but exaggerated interpretation. Warner Robins fits that broader pattern well: numerous honest witnesses, intense local excitement, but little hard physical evidence.
 
-
-<img src="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_warner_robins_1973_w_2818c0-Illustration-3-light.svg" | relative_url }}" alt="1973 Wave illustration 3" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_warner_robins_1973_w_2818c0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_warner_robins_1973_w_2818c0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_warner_robins_1973_w_2818c0-Illustration-3-dark.svg" | relative_url }}" alt="1973 Wave illustration 3" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_warner_robins_1973_w_2818c0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_robins_afb_ufo_recor_776fc3_warner_robins_1973_w_2818c0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Warner Robins Wave Still Matters in Georgia UFO History
 
 The 1973 Warner Robins sightings remain important less because of any single spectacular encounter and more because they reveal how UFO waves develop in real communities. The reports combined several recurring ingredients found throughout Georgia’s UFO history:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -379,9 +369,7 @@ The episode also illustrates the difference between unresolved and unexplainable
 
 Within the broader Georgia UFO story, the Warner Robins flap therefore stands as a representative example of the early 1970s UFO boom: a moment when local sightings, military associations and public fascination combined to create one of the state’s busiest periods of UFO reporting.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a3upjYAi1tw" title="Journalist recalls Jimmy Carter&#x27;s &#x27;openness&#x27; when talking about UFOs | NewsNation Prime" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a3upjYAi1tw" target="_blank" rel="noopener noreferrer">Journalist recalls Jimmy Carter&#x27;s &#x27;openness&#x27; when talking about UFOs | NewsNation Prime</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 42.8K &middot; Uploaded: February 2025 &middot; Length: 4 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a3upjYAi1tw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a3upjYAi1tw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -469,7 +457,7 @@ Within the broader Georgia UFO story, the Warner Robins flap therefore stands as
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -479,111 +467,36 @@ Within the broader Georgia UFO story, the Warner Robins flap therefore stands as
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -591,15 +504,15 @@ Within the broader Georgia UFO story, the Warner Robins flap therefore stands as
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -607,15 +520,15 @@ Within the broader Georgia UFO story, the Warner Robins flap therefore stands as
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -623,15 +536,15 @@ Within the broader Georgia UFO story, the Warner Robins flap therefore stands as
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -639,7 +552,7 @@ Within the broader Georgia UFO story, the Warner Robins flap therefore stands as
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-wave-what-really-happened-during-the-1973-warner-robins-ufo-wave-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-during-the-1973-warner-robins-ufo-wave-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -716,17 +629,31 @@ Within the broader Georgia UFO story, the Warner Robins flap therefore stands as
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -739,42 +666,73 @@ Within the broader Georgia UFO story, the Warner Robins flap therefore stands as
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -789,12 +747,17 @@ Within the broader Georgia UFO story, the Warner Robins flap therefore stands as
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -804,124 +767,124 @@ Within the broader Georgia UFO story, the Warner Robins flap therefore stands as
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=110892](https://nuforc.org/sighting/?id=110892)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 110892August 20, 2023 — 4 Jul 2014 — The massive UFO “flap” reached Warner Robins on the night of October 17 wh...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=110892" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=110892</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 110892August 20, 2023 — 4 Jul 2014 — The massive UFO “flap” reached Warner Robins on the night of October 17 wh...</p></details>
    Published: August 20, 2023  
 
 2. <a id="endnote-2"></a>
    Source: macon.com  
-   Link: [https://www.macon.com/news/local/article229804369.html](https://www.macon.com/news/local/article229804369.html)  
+   Link: <a href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow">https://www.macon.com/news/local/article229804369.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>31, 1973, UFO sightings were reported across the South, including vast stretches of Middle Georgia. Macon police...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Pascagoula incident  
-   Link: [https://en.wikipedia.org/wiki/Pascagoula_incident](https://en.wikipedia.org/wiki/Pascagoula_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pascagoula_incident</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Jimmy Carter UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident](https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident</a>  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=e197310](https://nuforc.org/subndx/?id=e197310)  
+   Link: <a href="https://nuforc.org/subndx/?id=e197310" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=e197310</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for Month 197310NUFORC Reports for Month 197310; Open, 10/17/1973 23:30, Montgomery, AL, USA; Open, 10/17/1973 21:30, Wa...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: macon.com  
-   Link: [https://www.macon.com/news/local/article229959549.html](https://www.macon.com/news/local/article229959549.html)  
+   Link: <a href="https://www.macon.com/news/local/article229959549.html" target="_blank" rel="noopener noreferrer nofollow">https://www.macon.com/news/local/article229959549.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Macon TelegraphMacon cops, firefighters report seeing UFO (Video)3 May 2019 — In the wee hours of Aug. 31, 1973, UFO sightings were repor...</p></details>
    Published: May 2019  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Daily Sun (Warner Robins, Georgia)  
-   Link: [https://en.wikipedia.org/wiki/Daily_Sun_%28Warner_Robins%2C_Georgia%29](https://en.wikipedia.org/wiki/Daily_Sun_%28Warner_Robins%2C_Georgia%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Daily_Sun_%28Warner_Robins%2C_Georgia%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Daily_Sun_%28Warner_Robins%2C_Georgia%29</a>  
 
 9. <a id="endnote-9"></a>
    Source: news.sky.com  
    Title: ufo abductee still haunted 40 years on 10431808  
-   Link: [https://news.sky.com/story/ufo-abductee-still-haunted-40-years-on-10431808](https://news.sky.com/story/ufo-abductee-still-haunted-40-years-on-10431808)  
+   Link: <a href="https://news.sky.com/story/ufo-abductee-still-haunted-40-years-on-10431808" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-abductee-still-haunted-40-years-on-10431808</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It sparked hundreds of reports of sightings, jokes and...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Belgian UFO wave  
-   Link: [https://en.wikipedia.org/wiki/Belgian_UFO_wave](https://en.wikipedia.org/wiki/Belgian_UFO_wave)  
+   Link: <a href="https://en.wikipedia.org/wiki/Belgian_UFO_wave" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Belgian_UFO_wave</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Belgian UFO waveThe Belgian UFO wave was a series of sightings of triangular UFOs in Belgium, which lasted from 29 November 1989 to Ap...</p></details>
    Published: November 1989  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings in the United States  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings in the United StatesList of reported UFO sightings in the United States; October 11, 1973, Pascagoula...</p></details>
    Published: October 11, 1973  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1711228479141303/posts/3933593440238118/](https://www.facebook.com/groups/1711228479141303/posts/3933593440238118/)  
+   Link: <a href="https://www.facebook.com/groups/1711228479141303/posts/3933593440238118/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1711228479141303/posts/3933593440238118/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s Albany, GA 1973 Mysterious lights were seen in...Fascinating - UFO&#x27;s Albany, GA 1973 Mysterious lights were seen in the sky over W...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/091%20OCTOBER%201973.pdf](https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/091%20OCTOBER%201973.pdf)  
+   Link: <a href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/091%20OCTOBER%201973.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/091%20OCTOBER%201973.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesWAVE OF REPORTS HITS GEORGIAWarner Robins indicated an official probe annah, Dr. Julius Benton, an astronomer. Jack...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: abcnews4.com  
-   Link: [https://abcnews4.com/news/local/there-have-been-more-than-2600-reported-ufo-sightings-in-georgia-heres-where-in-middle-georgia](https://abcnews4.com/news/local/there-have-been-more-than-2600-reported-ufo-sightings-in-georgia-heres-where-in-middle-georgia)  
+   Link: <a href="https://abcnews4.com/news/local/there-have-been-more-than-2600-reported-ufo-sightings-in-georgia-heres-where-in-middle-georgia" target="_blank" rel="noopener noreferrer nofollow">https://abcnews4.com/news/local/there-have-been-more-than-2600-reported-ufo-sightings-in-georgia-heres-where-in-middle-georgia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There have been more than 2600 reported UFO sightings...8 Aug 2023 — In 1973, the city&#x27;s first report, suggests two UFOs sighted by thou...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: wgxa.tv  
-   Link: [https://wgxa.tv/news/local/there-have-been-more-than-2600-reported-ufo-sightings-in-georgia-heres-where-in-middle-georgia](https://wgxa.tv/news/local/there-have-been-more-than-2600-reported-ufo-sightings-in-georgia-heres-where-in-middle-georgia)  
+   Link: <a href="https://wgxa.tv/news/local/there-have-been-more-than-2600-reported-ufo-sightings-in-georgia-heres-where-in-middle-georgia" target="_blank" rel="noopener noreferrer nofollow">https://wgxa.tv/news/local/there-have-been-more-than-2600-reported-ufo-sightings-in-georgia-heres-where-in-middle-georgia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Aug 2023 — In 1973, the city&#x27;s first report, suggests two UFOs sighted by thousands in Warner Robins. A report submitted in 2019 reveal...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: in 1973 two men went to the police claiming to have been abducted by aliensin oc  
-   Link: [https://www.facebook.com/historyfeels/posts/in-1973-two-men-went-to-the-police-claiming-to-have-been-abducted-by-aliensin-oc/1272439101345766/](https://www.facebook.com/historyfeels/posts/in-1973-two-men-went-to-the-police-claiming-to-have-been-abducted-by-aliensin-oc/1272439101345766/)  
+   Link: <a href="https://www.facebook.com/historyfeels/posts/in-1973-two-men-went-to-the-police-claiming-to-have-been-abducted-by-aliensin-oc/1272439101345766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/historyfeels/posts/in-1973-two-men-went-to-the-police-claiming-to-have-been-abducted-by-aliensin-oc/1272439101345766/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1973, two men went to the police claiming to have been...The Pascagoula Abduction was an UFO sighting and alien abduction in 1973, in...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: onthisday 1973 nationwide cameras captured incontrovertible proof of the existen  
-   Link: [https://www.facebook.com/BBCArchive/posts/onthisday-1973-nationwide-cameras-captured-incontrovertible-proof-of-the-existen/1439902209716138/](https://www.facebook.com/BBCArchive/posts/onthisday-1973-nationwide-cameras-captured-incontrovertible-proof-of-the-existen/1439902209716138/)  
+   Link: <a href="https://www.facebook.com/BBCArchive/posts/onthisday-1973-nationwide-cameras-captured-incontrovertible-proof-of-the-existen/1439902209716138/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/posts/onthisday-1973-nationwide-cameras-captured-incontrovertible-proof-of-the-existen/1439902209716138/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nationwide cameras captured incontrovertible proof of the...OnThisDay 1973: Nationwide cameras captured incontrovertible proof of the ex...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: granger.com  
    Title: 0100399 ufo 1973 an ufo photographed at night in the state of georg image  
-   Link: [https://www.granger.com/0100399-ufo-1973-an-ufo-photographed-at-night-in-the-state-of-georg-image.html](https://www.granger.com/0100399-ufo-1973-an-ufo-photographed-at-night-in-the-state-of-georg-image.html)  
+   Link: <a href="https://www.granger.com/0100399-ufo-1973-an-ufo-photographed-at-night-in-the-state-of-georg-image.html" target="_blank" rel="noopener noreferrer nofollow">https://www.granger.com/0100399-ufo-1973-an-ufo-photographed-at-night-in-the-state-of-georg-image.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An UFO photographed at night in the state of...In 1973, a mysterious UFO is captured in a nighttime photograph in the state of Georgia...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: mississippifreepress.org  
    Title: man says 1973 ufo incident turned life upside down  
-   Link: [https://www.mississippifreepress.org/man-says-1973-ufo-incident-turned-life-upside-down/](https://www.mississippifreepress.org/man-says-1973-ufo-incident-turned-life-upside-down/)  
+   Link: <a href="https://www.mississippifreepress.org/man-says-1973-ufo-incident-turned-life-upside-down/" target="_blank" rel="noopener noreferrer nofollow">https://www.mississippifreepress.org/man-says-1973-ufo-incident-turned-life-upside-down/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>11, 1973, turned his life upside down. “This is something I really didn&#x27;t want to happen,” Parker told The...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Jimmy Carter Actually Filed a UFO Report with NASA Before Becoming President  
-   Link: [https://www.youtube.com/watch?v=aSISgAgdyH0](https://www.youtube.com/watch?v=aSISgAgdyH0)  
+   Link: <a href="https://www.youtube.com/watch?v=aSISgAgdyH0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aSISgAgdyH0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pascagoula UFO Abduction (1973, Calvin Parker, Charles Hickson) - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=127_zN40nIM](https://www.youtube.com/watch?v=127_zN40nIM)  
+   Link: <a href="https://www.youtube.com/watch?v=127_zN40nIM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=127_zN40nIM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PASCAGOULA 73 Official Trailer (2025) Alien Abduction Documentary Film 4K...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=a3upjYAi1tw](https://www.youtube.com/watch?v=a3upjYAi1tw)  
+   Link: <a href="https://www.youtube.com/watch?v=a3upjYAi1tw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a3upjYAi1tw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Carter Actually Filed a UFO Report with NASA Before Becoming President...</p></details>

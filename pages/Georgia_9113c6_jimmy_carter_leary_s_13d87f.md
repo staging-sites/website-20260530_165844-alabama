@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-georgias-most/
 nav_short_title: Carter Case
 title: Did Jimmy Carter Really See a UFO in Georgia?
-title_full: Did Jimmy Carter Really See a UFO in Georgia? | Georgia UFOs
+title_full: Did Jimmy Carter Really See a UFO in Georgia?
 display_title_short: Carter Case
 display_title: Carter Case
 heading_title: Did Jimmy Carter Really See a UFO in Georgia?
@@ -268,13 +268,12 @@ image: /assets/images/Georgia_9113c6_jimmy_carter_leary_s_13d87f-overview-social
 
 ## Introduction
 
-Jimmy Carter almost certainly saw something unusual to him in the sky near Leary, [Georgia]({{ 'what-really-happened-in-georgias-most/' | relative_url }}); the harder question is whether it remains unexplained. His own 1973 report described a bright, colour-changing light seen by a small group before a Lions Club meeting, and the National Archives treats the report as a genuine Carter-era UFO record held in presidential-library material. Yet the case is not strong evidence for an alien craft. The two leading conventional explanations are Venus, proposed by sceptical UFO investigator Robert Sheaffer, and a high-altitude barium cloud from a rocket experiment at Eglin Air Force Base, argued later by physicist C. G. “Jere” Justus. The barium-cloud explanation now fits more details than Venus, but it depends on correcting Carter’s remembered date from October 1969 to 6 January 1969. That is why the Leary sighting remains famous in Georgia UFO history: not because it proves the extraordinary, but because it shows how a credible witness, an archival document, and later technical reconstruction can still leave room for dispute. Debunker <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Do Records Show Proof of UFOs? | National Archives</span><span class="citation-popover-snippet">National Archives Do Records Show Proof of UFOs? | National Archives</span></span></span>
-
+Jimmy Carter almost certainly saw something unusual to him in the sky near Leary, Georgia; the harder question is whether it remains unexplained. His own 1973 report described a bright, colour-changing light seen by a small group before a Lions Club meeting, and the National Archives treats the report as a genuine Carter-era UFO record held in presidential-library material. Yet the case is not strong evidence for an alien craft. The two leading conventional explanations are Venus, proposed by sceptical UFO investigator Robert Sheaffer, and a high-altitude barium cloud from a rocket experiment at Eglin Air Force Base, argued later by physicist C. G. “Jere” Justus. The barium-cloud explanation now fits more details than Venus, but it depends on correcting Carter’s remembered date from October 1969 to 6 January 1969. That is why the Leary sighting remains famous in Georgia UFO history: not because it proves the extraordinary, but because it shows how a credible witness, an archival document, and later technical reconstruction can still leave room for dispute. Debunker <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Do Records Show Proof of UFOs? &#124; National Archives</span><span class="citation-popover-snippet">National Archives Do Records Show Proof of UFOs? &#124; National Archives</span></span></span>
 
 <img src="{{ "/assets/images/Georgia_9113c6_jimmy_carter_leary_s_13d87f-overview.webp" | relative_url }}" alt="Overview image for Carter Case" loading="eager" decoding="sync" fetchpriority="high">
 ## The original Leary sighting account
 
-Carter’s report became part of UFO history because of who filed it. He was not yet president when the sighting happened, but he later became a nationally known political figure, then governor of Georgia, and eventually president of the United States. The National Archives states that the Jimmy Carter Presidential Museum and Library holds the full report Carter submitted to the International UFO Bureau, and it also notes a National Investigations Committee on Aerial Phenomena report connected with Carter’s request for investigation of the Leary object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Do Records Show Proof of UFOs? | National Archives</span><span class="citation-popover-snippet">National Archives Do Records Show Proof of UFOs? | National Archives</span></span></span>
+Carter’s report became part of UFO history because of who filed it. He was not yet president when the sighting happened, but he later became a nationally known political figure, then governor of Georgia, and eventually president of the United States. The National Archives states that the Jimmy Carter Presidential Museum and Library holds the full report Carter submitted to the International UFO Bureau, and it also notes a National Investigations Committee on Aerial Phenomena report connected with Carter’s request for investigation of the Leary object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Do Records Show Proof of UFOs? &#124; National Archives</span><span class="citation-popover-snippet">National Archives Do Records Show Proof of UFOs? &#124; National Archives</span></span></span>
 
 The event took place in Leary, a small town in south-west Georgia. In Carter’s filed form, the location is given as Leary, Georgia; the date is entered as October 1969; and the time is around 7:15 p.m. Eastern Standard Time. The scanned report identifies Carter as governor at the time of filing and gives his background as including nuclear physics and service in the U.S. Navy, details that later made the report attractive to writers who wanted to present him as an unusually careful witness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">Carter UFO</span><span class="citation-popover-snippet">Carter UFO</span></span></span>
 
@@ -282,8 +281,7 @@ The sighting description is more modest than many retellings suggest. Carter did
 
 Those details matter because they cut both ways. For believers, the report has the appeal of a named, sober witness and multiple bystanders. For sceptics, it has the classic weaknesses of many night-light UFO cases: no photograph, no instrument record, uncertain distance, uncertain size, and a report filed years after the event. Carter’s estimate that the object may have been 300 to 1,000 yards away is especially fragile, because a bright light in a dark sky can appear near or far depending on assumptions about size and brightness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-title">Carter UFO</span><span class="citation-popover-snippet">Carter UFO</span></span></span>
 
-
-<img src="{{ "/assets/images/Georgia_9113c6_jimmy_carter_leary_s_13d87f-Illustration-1-light.svg" | relative_url }}" alt="Carter Case illustration 1" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_jimmy_carter_leary_s_13d87f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_jimmy_carter_leary_s_13d87f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Georgia_9113c6_jimmy_carter_leary_s_13d87f-Illustration-1-dark.svg" | relative_url }}" alt="Carter Case illustration 1" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_jimmy_carter_leary_s_13d87f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_jimmy_carter_leary_s_13d87f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the date is the hinge of the case
 
 The biggest complication is that Carter’s written report says October 1969, but later investigators argued that the actual date was 6 January 1969. This is not a small clerical issue. The sky, Venus’s position, and possible rocket-related explanations all depend on the correct date. If the October date is treated as fixed, some conventional reconstructions weaken. If the January date is accepted, both the Venus and barium-cloud explanations become much more plausible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/oasd.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
@@ -292,8 +290,7 @@ Justus’s 2020 analysis explains the January argument in practical terms. Carte
 
 The January date is usually linked to Lions Club [records]({{ 'records-fa21b1/' | relative_url }}) and Carter’s role as a district Lions Club governor. The argument is that Carter’s Leary Lions Club appearance fits 6 January 1969 rather than October, and that October is difficult because Carter’s district role had ended and the relevant Leary Lions Club context no longer fits as neatly. This does not prove every detail of the sighting, but it gives sceptical and technical investigators a specific evening to test against astronomical and rocket records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.debunker.com/texts/What%20Jimmy%20Carter%20Saw.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[Debunker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">What Jimmy Carter Saw</span><span class="citation-popover-snippet">What Jimmy Carter Saw</span></span></span>
 
-That makes the Carter case a useful warning about famous UFO stories. The most repeated version is not always the most testable version. A single remembered month, written several years later, can change the whole assessment. In Georgia’s state-level UFO history, the Leary case therefore sits between witness testimony and archival detective work: the report is real, but the report’s own date may not be the event’s real date. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Do Records Show Proof of UFOs? | National Archives</span><span class="citation-popover-snippet">National Archives Do Records Show Proof of UFOs? | National Archives</span></span></span>
-
+That makes the Carter case a useful warning about famous UFO stories. The most repeated version is not always the most testable version. A single remembered month, written several years later, can change the whole assessment. In Georgia’s state-level UFO history, the Leary case therefore sits between witness testimony and archival detective work: the report is real, but the report’s own date may not be the event’s real date. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Do Records Show Proof of UFOs? &#124; National Archives</span><span class="citation-popover-snippet">National Archives Do Records Show Proof of UFOs? &#124; National Archives</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JsBXXVN4vyk" title="President Jimmy Carter Spots a U.F.O. | NASA&#x27;s Unexplained Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JsBXXVN4vyk" target="_blank" rel="noopener noreferrer">President Jimmy Carter Spots a U.F.O. | NASA&#x27;s Unexplained Files</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 170.5K &middot; Uploaded: June 2022 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JsBXXVN4vyk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JsBXXVN4vyk">Open on YouTube</a></p></div></div></div>
 
@@ -309,8 +306,7 @@ The physical mechanism also fits Carter’s colour language better than Venus. N
 
 The barium-cloud theory is not the same as saying Carter saw a secret spacecraft or a hidden military vehicle. It is a mundane scientific explanation involving a visible upper-atmosphere experiment. Its main vulnerability is dependency: it needs the January date, the Eglin record, and the line-of-sight geometry all to be right. Its strength is that it explains several details at once: a luminous, non-solid appearance; colour changes; an apparent size comparable to the Moon; and a direction and elevation broadly matching Carter’s report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.debunker.com/texts/200829%20barium-carter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[Debunker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">200829 barium carter</span><span class="citation-popover-snippet">200829 barium carter</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.debunker.com/texts/200829%20barium-carter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[Debunker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">200829 barium carter</span><span class="citation-popover-snippet">200829 barium carter</span></span></span>
 
-
-<img src="{{ "/assets/images/Georgia_9113c6_jimmy_carter_leary_s_13d87f-Illustration-2-light.svg" | relative_url }}" alt="Carter Case illustration 2" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_jimmy_carter_leary_s_13d87f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_jimmy_carter_leary_s_13d87f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Georgia_9113c6_jimmy_carter_leary_s_13d87f-Illustration-2-dark.svg" | relative_url }}" alt="Carter Case illustration 2" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_jimmy_carter_leary_s_13d87f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_jimmy_carter_leary_s_13d87f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What weakens the extraordinary reading
 
 The Carter case is often introduced as “a president saw a UFO”, which is true only in the literal sense that he reported an unidentified flying object. Carter himself did not treat the sighting as proof of extraterrestrial visitation. In a 2005 GQ interview, he said he had seen an unidentified object but rejected the idea that it came from Mars or represented a tangible vehicle travelling back and forth from another planet. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gq.com/story/jimmy-carter-ted-kennedy-ufo-republicans" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq.com">[GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq.com</span><span class="citation-popover-title">The Gospel According to Jimmy</span><span class="citation-popover-snippet">Carter reflects on his presidency, emphasizing his commitment to honesty and the challenges he faced from liberal Democrats and political...</span></span></span>
@@ -321,24 +317,21 @@ There is also a witness-memory problem. The filed form says ten to twelve men wa
 
 The strongest sceptical point is not that Carter was unreliable as a person. It is that good-faith observers can misinterpret rare-looking sky phenomena, especially at night, and especially when reporting them years later. The case’s evidential value comes from the document and the later reconstruction, not from any physical trace. Once Venus and barium-cloud explanations are on the table, the extraordinary reading has to do more work than the available evidence can support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.debunker.com/texts/200829%20barium-carter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[Debunker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">200829 barium carter</span><span class="citation-popover-snippet">200829 barium carter</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.debunker.com/texts/200829%20barium-carter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[Debunker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">200829 barium carter</span><span class="citation-popover-snippet">200829 barium carter</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aSISgAgdyH0" title="Jimmy Carter Actually Filed a UFO Report with NASA Before Becoming President" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aSISgAgdyH0" target="_blank" rel="noopener noreferrer">Jimmy Carter Actually Filed a UFO Report with NASA Before Becoming President</a></p><p class="youtube-embed-meta">Channel: Inside Edition &middot; Views: 66.7K &middot; Uploaded: September 2016 &middot; Length: 1 minute 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aSISgAgdyH0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aSISgAgdyH0">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a3upjYAi1tw" title="Journalist recalls Jimmy Carter&#x27;s &#x27;openness&#x27; when talking about UFOs | NewsNation Prime" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a3upjYAi1tw" target="_blank" rel="noopener noreferrer">Journalist recalls Jimmy Carter&#x27;s &#x27;openness&#x27; when talking about UFOs | NewsNation Prime</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 42.8K &middot; Uploaded: February 2025 &middot; Length: 4 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a3upjYAi1tw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a3upjYAi1tw">Open on YouTube</a></p></div></div></div>
 
 ## Why the case still matters in Georgia UFO history
 
-The Leary sighting remains Georgia’s most nationally famous UFO case because it links a small south-west Georgia town to presidential history. Many states have local UFO waves, newspaper flaps, military-base rumours, and witness clusters; Georgia has all of those, but the Carter report gave the state a case that moved from local memory into national archives, presidential-library holdings, campaign-era discussion, sceptical literature, and later UAP-era retrospectives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Do Records Show Proof of UFOs? | National Archives</span><span class="citation-popover-snippet">National Archives Do Records Show Proof of UFOs? | National Archives</span></span></span>
+The Leary sighting remains Georgia’s most nationally famous UFO case because it links a small south-west Georgia town to presidential history. Many states have local UFO waves, newspaper flaps, military-base rumours, and witness clusters; Georgia has all of those, but the Carter report gave the state a case that moved from local memory into national archives, presidential-library holdings, campaign-era discussion, sceptical literature, and later UAP-era retrospectives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Do Records Show Proof of UFOs? &#124; National Archives</span><span class="citation-popover-snippet">National Archives Do Records Show Proof of UFOs? &#124; National Archives</span></span></span>
 
 Its importance is not that it is the best unexplained case. In some ways, it is almost the opposite: it is famous enough to be repeatedly tested. The more investigators checked the date, sky position, and possible experimental sources, the more the story shifted from mystery towards plausible explanation. That makes it a useful anchor for readers trying to understand Georgia UFO history without either credulity or dismissal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.debunker.com/texts/200829%20barium-carter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[Debunker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">200829 barium carter</span><span class="citation-popover-snippet">200829 barium carter</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.debunker.com/texts/200829%20barium-carter.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunker.com">[Debunker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunker.com</span><span class="citation-popover-title">200829 barium carter</span><span class="citation-popover-snippet">200829 barium carter</span></span></span>
 
-The case also shows why “competing explanations” are not all equal. Venus is simple and historically important as a sceptical explanation, but it leaves awkward descriptive details. The barium-cloud theory is more complex, yet it addresses the colour, shape, altitude, direction, and non-solid appearance more directly. The best current reading is therefore not “Carter saw aliens” or “nothing happened”, but “Carter probably saw a real sky phenomenon that was unfamiliar to him, and a barium vapour release is the strongest conventional candidate if the January 1969 date is accepted.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2023/03/sp-4401.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">sp 4401</span><span class="citation-popover-snippet">sp 4401</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/oasd.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/oasd.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Open source on theblackvault.com.</span></span></span>
+The case also shows why “competing explanations” are not all equal. Venus is simple and historically important as a sceptical explanation, but it leaves awkward descriptive details. The barium-cloud theory is more complex, yet it addresses the colour, shape, altitude, direction, and non-solid appearance more directly. The best current reading is therefore not “Carter saw aliens” or “nothing happened”, but “Carter probably saw a real sky phenomenon that was unfamiliar to him, and a barium vapour release is the strongest conventional candidate if the January 1969 date is accepted.” [NASA+3documents.theblackvault.com+3documents.theblackvault.com]
 
 For Georgia’s wider UFO record, the Leary sighting is a model case in how to handle a famous report responsibly. Start with the witness claim. Check the original document. Ask whether the date, direction, duration, and appearance match ordinary astronomical or aerospace activity. Separate “unidentified at the time” from “unexplainable now”. Carter’s sighting still matters because it is memorable, well documented as a report, and humanly believable — but later research has weakened, rather than strengthened, the case for anything exotic.
 
-
-<img src="{{ "/assets/images/Georgia_9113c6_jimmy_carter_leary_s_13d87f-Illustration-3-light.svg" | relative_url }}" alt="Carter Case illustration 3" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_jimmy_carter_leary_s_13d87f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_jimmy_carter_leary_s_13d87f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Georgia_9113c6_jimmy_carter_leary_s_13d87f-Illustration-3-dark.svg" | relative_url }}" alt="Carter Case illustration 3" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_jimmy_carter_leary_s_13d87f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_jimmy_carter_leary_s_13d87f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -426,7 +419,7 @@ For Georgia’s wider UFO record, the Leary sighting is a model case in how to h
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -436,111 +429,36 @@ For Georgia’s wider UFO record, the Leary sighting is a model case in how to h
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=jimmy+carter+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jimmy carter memorabilia" data-ebay-reference="did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage ‘I Buy Jimmy Carter Memorabilia’ T Shirt Mens As Is Yellow Y2K 90s"><img src="https://i.ebayimg.com/images/g/AdIAAeSwkVZpaVfb/s-l225.jpg" alt="Listing image for Vintage ‘I Buy Jimmy Carter Memorabilia’ T Shirt Mens As Is Yellow Y2K 90s" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=jimmy+carter+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jimmy carter memorabilia" data-ebay-reference="did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Vintage ‘I Buy Jimmy Carter Memorabilia’ T Shirt Mens As Is Yellow Y2K 90s</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=jimmy+carter+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jimmy carter memorabilia" data-ebay-reference="did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for jimmy carter memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: jimmy carter memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=jimmy+carter+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jimmy carter memorabilia" data-ebay-reference="did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -548,15 +466,15 @@ For Georgia’s wider UFO record, the Leary sighting is a model case in how to h
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=jimmy+carter+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jimmy carter memorabilia" data-ebay-reference="did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for JImmy Carter &quot;INSTANT COLLECTION&quot; 1976 political memorabilia postcard"><img src="https://i.ebayimg.com/images/g/GEUAAOSwWBBnjFx0/s-l225.jpg" alt="Listing image for JImmy Carter &quot;INSTANT COLLECTION&quot; 1976 political memorabilia postcard" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=jimmy+carter+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jimmy carter memorabilia" data-ebay-reference="did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia" target="_blank" rel="sponsored noopener noreferrer">JImmy Carter &quot;INSTANT COLLECTION&quot; 1976 political memorabilia postcard</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=jimmy+carter+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jimmy carter memorabilia" data-ebay-reference="did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for jimmy carter memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: jimmy carter memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=jimmy+carter+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jimmy carter memorabilia" data-ebay-reference="did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -564,15 +482,15 @@ For Georgia’s wider UFO record, the Leary sighting is a model case in how to h
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=jimmy+carter+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jimmy carter memorabilia" data-ebay-reference="did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jimmy Carter (Book) Mini Size Cutout"><img src="https://i.ebayimg.com/images/g/TPMAAeSwEZ5pzWan/s-l225.jpg" alt="Listing image for Jimmy Carter (Book) Mini Size Cutout" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=jimmy+carter+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jimmy carter memorabilia" data-ebay-reference="did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Jimmy Carter (Book) Mini Size Cutout</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=jimmy+carter+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jimmy carter memorabilia" data-ebay-reference="did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for jimmy carter memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: jimmy carter memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=jimmy+carter+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jimmy carter memorabilia" data-ebay-reference="did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -580,15 +498,15 @@ For Georgia’s wider UFO record, the Leary sighting is a model case in how to h
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=jimmy+carter+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jimmy carter memorabilia" data-ebay-reference="did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jimmy Carter PRIVATE LUNCHEON PHOTOBOOK Original Photos Rare Memorabilia RV2"><img src="https://i.ebayimg.com/images/g/78MAAOSwWAtnGWQ9/s-l225.jpg" alt="Listing image for Jimmy Carter PRIVATE LUNCHEON PHOTOBOOK Original Photos Rare Memorabilia RV2" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=jimmy+carter+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jimmy carter memorabilia" data-ebay-reference="did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Jimmy Carter PRIVATE LUNCHEON PHOTOBOOK Original Photos Rare Memorabilia RV2</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=jimmy+carter+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jimmy carter memorabilia" data-ebay-reference="did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for jimmy carter memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: jimmy carter memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=jimmy+carter+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jimmy carter memorabilia" data-ebay-reference="did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -596,7 +514,7 @@ For Georgia’s wider UFO record, the Leary sighting is a model case in how to h
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-case-did-jimmy-carter-really-see-a-ufo-in-georgia-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=jimmy+carter+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="jimmy carter memorabilia" data-ebay-reference="did-jimmy-carter-really-see-a-ufo-in-georgia-jimmy-carter-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -673,17 +591,31 @@ For Georgia’s wider UFO record, the Leary sighting is a model case in how to h
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -696,42 +628,73 @@ For Georgia’s wider UFO record, the Leary sighting is a model case in how to h
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -746,12 +709,17 @@ For Georgia’s wider UFO record, the Leary sighting is a model case in how to h
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -762,70 +730,70 @@ For Georgia’s wider UFO record, the Leary sighting is a model case in how to h
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Do Records Show Proof of UFOs? | National Archives  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
 2. <a id="endnote-2"></a>
    Source: documents.theblackvault.com  
    Title: Carter UFO  
-   Link: [https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf](https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/CarterUFO.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: debunker.com  
    Title: President Jimmy Carter's Sighting of a UFO (and Rosalynn's of a Ghost)  
-   Link: [https://www.debunker.com/texts/carter_ufo.html](https://www.debunker.com/texts/carter_ufo.html)  
+   Link: <a href="https://www.debunker.com/texts/carter_ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.debunker.com/texts/carter_ufo.html</a>  
 
 4. <a id="endnote-4"></a>
    Source: debunker.com  
    Title: What Jimmy Carter Saw  
-   Link: [https://www.debunker.com/texts/What%20Jimmy%20Carter%20Saw.pdf](https://www.debunker.com/texts/What%20Jimmy%20Carter%20Saw.pdf)  
+   Link: <a href="https://www.debunker.com/texts/What%20Jimmy%20Carter%20Saw.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.debunker.com/texts/What%20Jimmy%20Carter%20Saw.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/presidential-libraries](https://www.archives.gov/research/topics/uaps/presidential-libraries)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
 
 6. <a id="endnote-6"></a>
    Source: nasa.gov  
    Title: about vapor tracers  
-   Link: [https://www.nasa.gov/soundingrockets/about-vapor-tracers/](https://www.nasa.gov/soundingrockets/about-vapor-tracers/)  
+   Link: <a href="https://www.nasa.gov/soundingrockets/about-vapor-tracers/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/soundingrockets/about-vapor-tracers/</a>  
 
 7. <a id="endnote-7"></a>
    Source: debunker.com  
    Title: 200829 barium carter  
-   Link: [https://www.debunker.com/texts/200829%20barium-carter.pdf](https://www.debunker.com/texts/200829%20barium-carter.pdf)  
+   Link: <a href="https://www.debunker.com/texts/200829%20barium-carter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.debunker.com/texts/200829%20barium-carter.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: prologue.blogs.archives.gov  
    Title: american archives month ryan rutkowski carter presidential library  
-   Link: [https://prologue.blogs.archives.gov/2013/10/29/american-archives-month-ryan-rutkowski-carter-presidential-library/](https://prologue.blogs.archives.gov/2013/10/29/american-archives-month-ryan-rutkowski-carter-presidential-library/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2013/10/29/american-archives-month-ryan-rutkowski-carter-presidential-library/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2013/10/29/american-archives-month-ryan-rutkowski-carter-presidential-library/</a>  
 
 9. <a id="endnote-9"></a>
    Source: history.com  
    Title: carter files report on ufo sighting  
-   Link: [https://www.history.com/this-day-in-history/september-18/carter-files-report-on-ufo-sighting](https://www.history.com/this-day-in-history/september-18/carter-files-report-on-ufo-sighting)  
+   Link: <a href="https://www.history.com/this-day-in-history/september-18/carter-files-report-on-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/september-18/carter-files-report-on-ufo-sighting</a>  
 
 10. <a id="endnote-10"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/oasd.pdf](https://documents.theblackvault.com/documents/ufos/oasd.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/oasd.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/oasd.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: nasa.gov  
    Title: sp 4401  
-   Link: [https://www.nasa.gov/wp-content/uploads/2023/03/sp-4401.pdf](https://www.nasa.gov/wp-content/uploads/2023/03/sp-4401.pdf)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/03/sp-4401.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/03/sp-4401.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: science.nasa.gov  
    Title: a barrage of a launch 77526  
-   Link: [https://science.nasa.gov/earth/earth-observatory/a-barrage-of-a-launch-77526/](https://science.nasa.gov/earth/earth-observatory/a-barrage-of-a-launch-77526/)  
+   Link: <a href="https://science.nasa.gov/earth/earth-observatory/a-barrage-of-a-launch-77526/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/a-barrage-of-a-launch-77526/</a>  
 
 13. <a id="endnote-13"></a>
    Source: nasa.gov  
    Title: Aeronautics and Space Report  
-   Link: [https://www.nasa.gov/wp-content/uploads/2024/01/presrep1969.pdf?emrc=68240bccd33fc](https://www.nasa.gov/wp-content/uploads/2024/01/presrep1969.pdf?emrc=68240bccd33fc)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2024/01/presrep1969.pdf?emrc=68240bccd33fc" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2024/01/presrep1969.pdf?emrc=68240bccd33fc</a>  
 
 14. <a id="endnote-14"></a>
    Source: gq.com  
    Title: The Gospel According to Jimmy  
-   Link: [https://www.gq.com/story/jimmy-carter-ted-kennedy-ufo-republicans](https://www.gq.com/story/jimmy-carter-ted-kennedy-ufo-republicans)  
+   Link: <a href="https://www.gq.com/story/jimmy-carter-ted-kennedy-ufo-republicans" target="_blank" rel="noopener noreferrer nofollow">https://www.gq.com/story/jimmy-carter-ted-kennedy-ufo-republicans</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Carter reflects on his presidency, emphasizing his commitment to honesty and the challenges he faced from liberal Democrats and political...</p></details>
 
 ### Additional References
@@ -833,46 +801,46 @@ For Georgia’s wider UFO record, the Leary sighting is a model case in how to h
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Jimmy Carter Actually Filed a UFO Report with NASA Before Becoming President  
-   Link: [https://www.youtube.com/watch?v=aSISgAgdyH0](https://www.youtube.com/watch?v=aSISgAgdyH0)  
+   Link: <a href="https://www.youtube.com/watch?v=aSISgAgdyH0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aSISgAgdyH0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Journalist recalls Jimmy Carter&#x27;s &#x27;openness&#x27; when talking about UFOs | NewsNation Prime...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=a3upjYAi1tw](https://www.youtube.com/watch?v=a3upjYAi1tw)  
+   Link: <a href="https://www.youtube.com/watch?v=a3upjYAi1tw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a3upjYAi1tw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>President Jimmy Carter Spots a U.F.O. | NASA&#x27;s Unexplained Files...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Quick Drive Through Leary, Georgia | Where Jimmy Carter Saw A UFO  
-   Link: [https://www.youtube.com/watch?v=cSi0lDrPK50](https://www.youtube.com/watch?v=cSi0lDrPK50)  
+   Link: <a href="https://www.youtube.com/watch?v=cSi0lDrPK50" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cSi0lDrPK50</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What we know about UFOs: Jimmy Carter sighting to close encounters...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: President Jimmy Carter Spots a U.F.O. | NASA's Unexplained Files  
-   Link: [https://www.youtube.com/watch?v=JsBXXVN4vyk](https://www.youtube.com/watch?v=JsBXXVN4vyk)  
+   Link: <a href="https://www.youtube.com/watch?v=JsBXXVN4vyk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JsBXXVN4vyk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Quick Drive Through Leary, Georgia | Where Jimmy Carter Saw A UFO...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WFMYNews2/posts/i-saw-no-evidence-during-my-presidency-that-extraterrestrials-have-made-contact-/1338906084947110/](https://www.facebook.com/WFMYNews2/posts/i-saw-no-evidence-during-my-presidency-that-extraterrestrials-have-made-contact-/1338906084947110/)  
+   Link: <a href="https://www.facebook.com/WFMYNews2/posts/i-saw-no-evidence-during-my-presidency-that-extraterrestrials-have-made-contact-/1338906084947110/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WFMYNews2/posts/i-saw-no-evidence-during-my-presidency-that-extraterrestrials-have-made-contact-/1338906084947110/</a>  
 
 20. <a id="endnote-20"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2011/03/p57.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2011/03/p57.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2011/03/p57.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2011/03/p57.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/463786557152746/posts/2589805697884144/](https://www.facebook.com/groups/463786557152746/posts/2589805697884144/)  
+   Link: <a href="https://www.facebook.com/groups/463786557152746/posts/2589805697884144/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/463786557152746/posts/2589805697884144/</a>  
 
 22. <a id="endnote-22"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYG66WsMTbx/](https://www.instagram.com/reel/DYG66WsMTbx/)  
+   Link: <a href="https://www.instagram.com/reel/DYG66WsMTbx/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYG66WsMTbx/</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/josephlindsley/posts/did-you-know-that-jimmy-carter-in-reply-to-a-question-about-ufos-said-his-admini/10107677047836447/](https://www.facebook.com/josephlindsley/posts/did-you-know-that-jimmy-carter-in-reply-to-a-question-about-ufos-said-his-admini/10107677047836447/)  
+   Link: <a href="https://www.facebook.com/josephlindsley/posts/did-you-know-that-jimmy-carter-in-reply-to-a-question-about-ufos-said-his-admini/10107677047836447/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/josephlindsley/posts/did-you-know-that-jimmy-carter-in-reply-to-a-question-about-ufos-said-his-admini/10107677047836447/</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ABCNews/posts/during-a-lightning-round-of-questions-with-podcast-host-brian-tylor-cohen-former/1331911302129080/](https://www.facebook.com/ABCNews/posts/during-a-lightning-round-of-questions-with-podcast-host-brian-tylor-cohen-former/1331911302129080/)  
+   Link: <a href="https://www.facebook.com/ABCNews/posts/during-a-lightning-round-of-questions-with-podcast-host-brian-tylor-cohen-former/1331911302129080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/during-a-lightning-round-of-questions-with-podcast-host-brian-tylor-cohen-former/1331911302129080/</a>

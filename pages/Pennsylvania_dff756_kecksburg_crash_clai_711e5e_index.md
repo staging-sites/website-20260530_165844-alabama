@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /pennsylvania-dff756-kecksburg-crash/
 description: Focused pages that expand on Kecksburg.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Pennsylvania_dff756_kecksburg_crash_clai_711e5e
-parent_title: Kecksburg | What Really Happened in Pennsylvania's UFO...
+parent_title: Kecksburg
 parent_nav_short_title: Kecksburg
 parent_permalink: /kecksburg/
 ---

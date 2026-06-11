@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /sightings-map-a1af37/
 nav_short_title: Big sky clues
 title: When Wyoming UFOs Look Like Fireballs
-title_full: When Wyoming UFOs Look Like Fireballs | Sightings Map
+title_full: When Wyoming UFOs Look Like Fireballs
 display_title_short: Big sky clues
 display_title: Big sky clues
 heading_title: When Wyoming UFOs Look Like Fireballs
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:33:59'
-parent_title: Where Do Wyoming UFO Reports Cluster? | Wyoming UFOs
+parent_title: Where Do Wyoming UFO Reports Cluster?
 parent_permalink: /sightings-map-a1af37/
 parent_nav_short_title: Sightings Map
 parent_heading_title: Where Do Wyoming UFO Reports Cluster?
@@ -250,10 +250,9 @@ image: /assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_casper_laramie_
 
 ## Introduction
 
-Casper and Laramie sit near the top of [Wyoming]({{ 'what-really-happened-in-wyoming-skies/' | relative_url }})’s modern UFO reporting lists, but they also illustrate one of the most important lessons in the state’s sighting history: dramatic skies can produce dramatic reports without requiring a dramatic explanation. Many entries from these cities involve brief lights, green flashes, apparent fireballs or fast-moving points seen for only a few seconds. In a state with wide horizons, thin air, relatively dark skies and long sightlines, ordinary atmospheric and astronomical events can look far stranger than they would in more crowded landscapes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lWY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC Reports for State WYAugust 20, 2023 — Laramie, WY, USA, Fireball, Fireball ascends straight up in air, and comes right... F...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+Casper and Laramie sit near the top of Wyoming’s modern UFO reporting lists, but they also illustrate one of the most important lessons in the state’s sighting history: dramatic skies can produce dramatic reports without requiring a dramatic explanation. Many entries from these cities involve brief lights, green flashes, apparent fireballs or fast-moving points seen for only a few seconds. In a state with wide horizons, thin air, relatively dark skies and long sightlines, ordinary atmospheric and astronomical events can look far stranger than they would in more crowded landscapes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lWY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State WYAugust 20, 2023 — Laramie, WY, USA, Fireball, Fireball ascends straight up in air, and comes right... F...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_casper_laramie_fireb_462251-Illustration-1-light.svg" | relative_url }}" alt="Big sky clues illustration 1" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_casper_laramie_fireb_462251-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_casper_laramie_fireb_462251-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_casper_laramie_fireb_462251-Illustration-1-dark.svg" | relative_url }}" alt="Big sky clues illustration 1" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_casper_laramie_fireb_462251-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_casper_laramie_fireb_462251-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That does not mean every report is trivial or dishonest. Most appear to be sincere observations. The challenge is that short-duration sightings often leave too little information to distinguish between meteors, aircraft lights, satellites, re-entry debris, atmospheric effects and genuinely unexplained events. Casper and Laramie are useful case studies because they show how easily a striking visual experience can become part of a UFO database while remaining difficult to verify years later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=68658" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 68658NUFORC UFO Sighting 68658... A green ball of gas, somewhat resemblant of a meteor, fell through the sky 2 days...</span></span></span>
 
 ## Why Casper and Laramie Rank Near the Top
@@ -262,7 +261,7 @@ The simplest explanation for the prominence of Casper and Laramie in modern Wyom
 
 Casper is one of Wyoming’s largest population centres and sits in an open basin where distant lights and atmospheric events can be visible for long periods. Laramie lies along major travel routes and near an airport, while its high-elevation setting provides broad views of the horizon. People spend time outdoors, drive long distances at night and regularly observe skies that would be heavily obscured by buildings or light pollution elsewhere.
 
-Researchers studying tens of thousands of public UAP reports across the United States have found strong links between sighting frequency and what they call “opportunity to see”. Reports increase where people have clearer views of the sky and where airports, military activity and other aerial traffic provide more potential objects to observe. Wyoming fits that pattern closely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few invest...</span></span></span>
+Researchers studying tens of thousands of public UAP reports across the United States have found strong links between sighting frequency and what they call “opportunity to see”. Reports increase where people have clearer views of the sky and where airports, military activity and other aerial traffic provide more potential objects to observe. Wyoming fits that pattern closely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few invest...</span></span></span>
 
 The result is a reporting environment where unusual-looking lights are more likely to be noticed and remembered. A bright meteor over a large city may vanish behind buildings. The same object over southeastern Wyoming can remain visible across a huge stretch of horizon and generate reports from multiple towns at once.
 
@@ -273,7 +272,6 @@ Many Wyoming reports that initially sound mysterious share characteristics commo
 The NUFORC archive contains numerous Wyoming entries describing green objects, bright descending lights, sudden flashes and brief streaks. Examples include reports from Laramie, [Cheyenne]({{ 'cheyenne/' | relative_url }}), Sheridan, Gillette and other communities describing neon-green or blue-green objects moving rapidly across the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=20002" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 20002NUFORC UFO Sighting 20002; Occurred: 2001-10-28 21:00 Local; Reported: 2001-10-29 09:27 Pacific; Duration: 35...</span><span class="citation-popover-meta">Published: October 28, 2001</span></span></span>
 
 Several details repeatedly appear:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -290,8 +288,7 @@ Those features closely match known meteor behaviour. Bright fireballs frequently
 
 Recent Wyoming examples demonstrate how quickly these events can trigger UFO speculation before a more ordinary explanation emerges. In April 2026, a large green fireball was reported across Wyoming and neighbouring states, generating numerous eyewitness accounts and security-camera recordings. Reports spread rapidly through local media and social networks before being broadly interpreted as a meteor event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fireball.amsmeteors.org/members/imo_view/event/2026/2610" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fireball.amsmeteors.org">[fireball.amsmeteors.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fireball.amsmeteors.org</span><span class="citation-popover-snippet">#2026-26109 Apr 2026 — We received 39 reports about a fireball seen over CO, MT, NE, SD and WY on Thursday, April 9th 2026 around 02:25 U...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2026/04/09/giant-green-fireball-exploded-over-northeastern-wyoming-on-wednesday-night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">giant green fireball exploded over northeastern wyoming on wednesday night</span><span class="citation-popover-snippet">Giant Green Fireball Explodes Over Northeastern Wyoming...9 Apr 2026 — The American Meteor Society (AMS) has received over 30 eyewitness...</span></span></span>
 
-The same pattern has appeared repeatedly in Casper-area discussions. Local residents have shared footage of bright streaking objects, while meteor-tracking organisations and weather observers have often pointed toward fireball explanations rather than evidence of structured craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/oilcitywyo/posts/hey-casper-and-neighbors-did-you-see-a-fireball-in-the-sky-around-825-pm-share-p/1517775177022257/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookHey, Casper (and neighbors)! Did you see a fireball in the...We spoke with the NWS, and they hadn&#x27;t heard any reports of sky obj...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/oilcitywyo/videos/katarina-edwards-shared-this-doorbell-camera-footage-of-what-appears-to-be-an-ob/1989668045287815/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">e an object streaking above the skies of Casper shortly after 8:25...</span></span></span>
-
+The same pattern has appeared repeatedly in Casper-area discussions. Local residents have shared footage of bright streaking objects, while meteor-tracking organisations and weather observers have often pointed toward fireball explanations rather than evidence of structured craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/oilcitywyo/posts/hey-casper-and-neighbors-did-you-see-a-fireball-in-the-sky-around-825-pm-share-p/1517775177022257/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Hey, Casper (and neighbors)! Did you see a fireball in the...We spoke with the NWS, and they hadn&#x27;t heard any reports of sky obj...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/oilcitywyo/videos/katarina-edwards-shared-this-doorbell-camera-footage-of-what-appears-to-be-an-ob/1989668045287815/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">e an object streaking above the skies of Casper shortly after 8:25...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SHbHcNFm4EE" title="Bright green fireball lights up skies over Northeast US states" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SHbHcNFm4EE" target="_blank" rel="noopener noreferrer">Bright green fireball lights up skies over Northeast US states</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 15.8K &middot; Uploaded: June 2025 &middot; Length: 1 minute 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SHbHcNFm4EE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SHbHcNFm4EE">Open on YouTube</a></p></div></div></div>
 
@@ -299,10 +296,9 @@ The same pattern has appeared repeatedly in Casper-area discussions. Local resid
 
 Some of the most frequently cited Laramie and Casper reports become less persuasive when examined as evidence rather than experiences.
 
-A typical entry might describe a bright light that appeared, hovered briefly, accelerated or vanished. Another may describe a fireball that seemed to reverse direction or rise upward. Several Laramie reports in the NUFORC archive fit this pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lWY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC Reports for State WYAugust 20, 2023 — Laramie, WY, USA, Fireball, Fireball ascends straight up in air, and comes right... F...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+A typical entry might describe a bright light that appeared, hovered briefly, accelerated or vanished. Another may describe a fireball that seemed to reverse direction or rise upward. Several Laramie reports in the NUFORC archive fit this pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lWY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State WYAugust 20, 2023 — Laramie, WY, USA, Fireball, Fireball ascends straight up in air, and comes right... F...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 The difficulty is that human perception struggles with distance, speed and direction when there are few visual reference points. At night, a witness may see:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -319,8 +315,7 @@ Under those conditions, an object can appear to stop, reverse, hover or accelera
 
 This is especially relevant in Wyoming because many reports come from highways, open countryside or suburban edges where observers have unusually large fields of view but relatively few fixed reference points. A witness may accurately report what they saw while still reaching an incorrect conclusion about what caused it.
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_casper_laramie_fireb_462251-Illustration-2-light.svg" | relative_url }}" alt="Big sky clues illustration 2" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_casper_laramie_fireb_462251-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_casper_laramie_fireb_462251-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_casper_laramie_fireb_462251-Illustration-2-dark.svg" | relative_url }}" alt="Big sky clues illustration 2" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_casper_laramie_fireb_462251-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_casper_laramie_fireb_462251-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Airport and Flight-Corridor Factor
 
 Laramie and Casper both sit within environments where aircraft can contribute to confusing observations.
@@ -331,8 +326,7 @@ These cases rarely make dramatic headlines because they are difficult to prove a
 
 That uncertainty matters because a report can remain listed as “unidentified” simply because there is insufficient information, not because investigators ruled out ordinary explanations.
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_casper_laramie_fireb_462251-Illustration-3-light.svg" | relative_url }}" alt="Big sky clues illustration 3" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_casper_laramie_fireb_462251-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_casper_laramie_fireb_462251-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_casper_laramie_fireb_462251-Illustration-3-dark.svg" | relative_url }}" alt="Big sky clues illustration 3" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_casper_laramie_fireb_462251-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_wyoming_nuforc_clust_b43e6f_casper_laramie_fireb_462251-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Read Short NUFORC Reports Fairly
 
 Casper and Laramie highlight a broader issue in modern UFO databases: the difference between an unexplained report and an unexplained object.
@@ -367,20 +361,17 @@ Camera footage, radar data or independent documentation can strengthen a case su
 
 Many Casper and Laramie reports score well on sincerity but poorly on corroboration. That does not make them worthless. Instead, they reveal how Wyoming’s environment produces compelling sightings that are memorable to witnesses yet difficult to verify afterwards.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PLyEO0jNt6M" title="Explained: &quot;Go Fast&quot; UFO Video - Not Low and Not Fast - Like a Balloon!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PLyEO0jNt6M" target="_blank" rel="noopener noreferrer">Explained: &quot;Go Fast&quot; UFO Video - Not Low and Not Fast - Like a Balloon!</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 154.2K &middot; Uploaded: June 2019 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PLyEO0jNt6M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PLyEO0jNt6M">Open on YouTube</a></p></div></div></div>
 
 ## Big-Sky Clues Rather Than Big-Sky Mysteries
 
 The most useful way to view the Casper and Laramie clusters is not as evidence for a hidden hotspot but as evidence for how UFO reporting works in Wyoming.
 
-The state’s geography encourages observation. Clear air, dark horizons and long sightlines make meteors, aircraft lights and atmospheric effects more noticeable than they are in many urban regions. Short-lived events can look extraordinary, especially when they appear unexpectedly over an otherwise empty landscape. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few invest...</span></span></span>
+The state’s geography encourages observation. Clear air, dark horizons and long sightlines make meteors, aircraft lights and atmospheric effects more noticeable than they are in many urban regions. Short-lived events can look extraordinary, especially when they appear unexpectedly over an otherwise empty landscape. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few invest...</span></span></span>
 
-That does not eliminate every unresolved sighting. Some reports remain difficult to explain because too little information survives. Yet the overall pattern in Casper and Laramie points toward a recurring mechanism rather than a recurring craft: people encountering brief sky events under unusually good viewing conditions and recording them as UFOs before enough evidence exists to determine exactly what they saw. In that sense, these cities are among Wyoming’s best examples of how impressive “big-sky” sightings can become convincing stories while still fitting ordinary explanations such as fireballs, meteors and distant aircraft. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few invest...</span></span></span>
-
+That does not eliminate every unresolved sighting. Some reports remain difficult to explain because too little information survives. Yet the overall pattern in Casper and Laramie points toward a recurring mechanism rather than a recurring craft: people encountering brief sky events under unusually good viewing conditions and recording them as UFOs before enough evidence exists to determine exactly what they saw. In that sense, these cities are among Wyoming’s best examples of how impressive “big-sky” sightings can become convincing stories while still fitting ordinary explanations such as fireballs, meteors and distant aircraft. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few invest...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q7jcBGLIpus" title="Explained: New Navy UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q7jcBGLIpus" target="_blank" rel="noopener noreferrer">Explained: New Navy UFO Videos</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 281.7K &middot; Uploaded: April 2020 &middot; Length: 2 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q7jcBGLIpus" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q7jcBGLIpus">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -803,122 +794,122 @@ That does not eliminate every unresolved sighting. Some reports remain difficult
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lWY](https://nuforc.org/subndx/?id=lWY)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports for State WYAugust 20, 2023 — Laramie, WY, USA, Fireball, Fireball ascends straight up in air, and comes right... F...</p></details>
+   Link: <a href="https://nuforc.org/subndx/?id=lWY" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lWY</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State WYAugust 20, 2023 — Laramie, WY, USA, Fireball, Fireball ascends straight up in air, and comes right... F...</p></details>
    Published: August 20, 2023  
 
 2. <a id="endnote-2"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-023-49527-x](https://www.nature.com/articles/s41598-023-49527-x)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureAn environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few invest...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 24 — This analysis is one of few invest...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: fireball.amsmeteors.org  
-   Link: [https://fireball.amsmeteors.org/members/imo_view/event/2026/2610](https://fireball.amsmeteors.org/members/imo_view/event/2026/2610)  
+   Link: <a href="https://fireball.amsmeteors.org/members/imo_view/event/2026/2610" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/members/imo_view/event/2026/2610</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>#2026-26109 Apr 2026 — We received 39 reports about a fireball seen over CO, MT, NE, SD and WY on Thursday, April 9th 2026 around 02:25 U...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/oilcitywyo/posts/hey-casper-and-neighbors-did-you-see-a-fireball-in-the-sky-around-825-pm-share-p/1517775177022257/](https://www.facebook.com/oilcitywyo/posts/hey-casper-and-neighbors-did-you-see-a-fireball-in-the-sky-around-825-pm-share-p/1517775177022257/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookHey, Casper (and neighbors)! Did you see a fireball in the...We spoke with the NWS, and they hadn&#x27;t heard any reports of sky obj...</p></details>
+   Link: <a href="https://www.facebook.com/oilcitywyo/posts/hey-casper-and-neighbors-did-you-see-a-fireball-in-the-sky-around-825-pm-share-p/1517775177022257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/oilcitywyo/posts/hey-casper-and-neighbors-did-you-see-a-fireball-in-the-sky-around-825-pm-share-p/1517775177022257/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hey, Casper (and neighbors)! Did you see a fireball in the...We spoke with the NWS, and they hadn&#x27;t heard any reports of sky obj...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/oilcitywyo/videos/katarina-edwards-shared-this-doorbell-camera-footage-of-what-appears-to-be-an-ob/1989668045287815/](https://www.facebook.com/oilcitywyo/videos/katarina-edwards-shared-this-doorbell-camera-footage-of-what-appears-to-be-an-ob/1989668045287815/)  
+   Link: <a href="https://www.facebook.com/oilcitywyo/videos/katarina-edwards-shared-this-doorbell-camera-footage-of-what-appears-to-be-an-ob/1989668045287815/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/oilcitywyo/videos/katarina-edwards-shared-this-doorbell-camera-footage-of-what-appears-to-be-an-ob/1989668045287815/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>e an object streaking above the skies of Casper shortly after 8:25...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/capcitywyo/posts/according-to-the-american-meteor-society-website-the-object-was-reportedly-seen-/1539781151485602/](https://www.facebook.com/capcitywyo/posts/according-to-the-american-meteor-society-website-the-object-was-reportedly-seen-/1539781151485602/)  
+   Link: <a href="https://www.facebook.com/capcitywyo/posts/according-to-the-american-meteor-society-website-the-object-was-reportedly-seen-/1539781151485602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/capcitywyo/posts/according-to-the-american-meteor-society-website-the-object-was-reportedly-seen-/1539781151485602/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>t before 8:30 p.m. Mountain time by residents in Wyoming...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: amsmeteors.org  
    Title: fireball report  
-   Link: [https://www.amsmeteors.org/fireballs/fireball-report/](https://www.amsmeteors.org/fireballs/fireball-report/)  
+   Link: <a href="https://www.amsmeteors.org/fireballs/fireball-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/fireball-report/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball LogsEach year since 2005, the American Meteor Society receives hundreds of fireball reports. Browse the a...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=68658](https://nuforc.org/sighting/?id=68658)  
+   Link: <a href="https://nuforc.org/sighting/?id=68658" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=68658</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 68658NUFORC UFO Sighting 68658... A green ball of gas, somewhat resemblant of a meteor, fell through the sky 2 days...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=20002](https://nuforc.org/sighting/?id=20002)  
+   Link: <a href="https://nuforc.org/sighting/?id=20002" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=20002</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 20002NUFORC UFO Sighting 20002; Occurred: 2001-10-28 21:00 Local; Reported: 2001-10-29 09:27 Pacific; Duration: 35...</p></details>
    Published: October 28, 2001  
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
    Title: Where in the U.S  
-   Link: [https://www.facebook.com/RTBHughRoss/posts/where-in-the-us-are-people-sighting-uapsufos-as-this-map-from-the-nuforc-dataset/1277653890389754/](https://www.facebook.com/RTBHughRoss/posts/where-in-the-us-are-people-sighting-uapsufos-as-this-map-from-the-nuforc-dataset/1277653890389754/)  
+   Link: <a href="https://www.facebook.com/RTBHughRoss/posts/where-in-the-us-are-people-sighting-uapsufos-as-this-map-from-the-nuforc-dataset/1277653890389754/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RTBHughRoss/posts/where-in-the-us-are-people-sighting-uapsufos-as-this-map-from-the-nuforc-dataset/1277653890389754/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>are people sighting UAPs/UFOs? As...Where in the U.S. are people sighting UAPs/UFOs? As this map from the NUFORC dataset of sightings pe...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/CheyenneCommunityConnections/posts/26834422766153276/](https://www.facebook.com/groups/CheyenneCommunityConnections/posts/26834422766153276/)  
+   Link: <a href="https://www.facebook.com/groups/CheyenneCommunityConnections/posts/26834422766153276/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/CheyenneCommunityConnections/posts/26834422766153276/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d to be in the area of Rocking Star Ranch...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cowboystatedaily.com  
    Title: giant green fireball exploded over northeastern wyoming on wednesday night  
-   Link: [https://cowboystatedaily.com/2026/04/09/giant-green-fireball-exploded-over-northeastern-wyoming-on-wednesday-night/](https://cowboystatedaily.com/2026/04/09/giant-green-fireball-exploded-over-northeastern-wyoming-on-wednesday-night/)  
+   Link: <a href="https://cowboystatedaily.com/2026/04/09/giant-green-fireball-exploded-over-northeastern-wyoming-on-wednesday-night/" target="_blank" rel="noopener noreferrer nofollow">https://cowboystatedaily.com/2026/04/09/giant-green-fireball-exploded-over-northeastern-wyoming-on-wednesday-night/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Giant Green Fireball Explodes Over Northeastern Wyoming...9 Apr 2026 — The American Meteor Society (AMS) has received over 30 eyewitness...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+   Link: <a href="https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue</a>  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SHbHcNFm4EE](https://www.youtube.com/watch?v=SHbHcNFm4EE)  
+   Link: <a href="https://www.youtube.com/watch?v=SHbHcNFm4EE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SHbHcNFm4EE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bright green fireball lights up skies over Northeast US statesA bright fireball streaks across the skies over Connecticut, New Jersey and...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nypost.com  
    Title: dramatic moment massive green fireball streaks across the skies in uk  
-   Link: [https://nypost.com/2026/04/13/world-news/dramatic-moment-massive-green-fireball-streaks-across-the-skies-in-uk/](https://nypost.com/2026/04/13/world-news/dramatic-moment-massive-green-fireball-streaks-across-the-skies-in-uk/)  
+   Link: <a href="https://nypost.com/2026/04/13/world-news/dramatic-moment-massive-green-fireball-streaks-across-the-skies-in-uk/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/04/13/world-news/dramatic-moment-massive-green-fireball-streaks-across-the-skies-in-uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dramatic footage of massive green fireball streaking across...13 Apr 2026 — Video captured by one resident showed a bright green glow, f...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: county10.com  
    Title: many wyoming residents report seeing fireball in wednesday night sky  
-   Link: [https://county10.com/many-wyoming-residents-report-seeing-fireball-in-wednesday-night-sky/](https://county10.com/many-wyoming-residents-report-seeing-fireball-in-wednesday-night-sky/)  
+   Link: <a href="https://county10.com/many-wyoming-residents-report-seeing-fireball-in-wednesday-night-sky/" target="_blank" rel="noopener noreferrer nofollow">https://county10.com/many-wyoming-residents-report-seeing-fireball-in-wednesday-night-sky/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Many Wyoming residents report seeing &quot;fireball&quot; in...9 Apr 2026 — What was most likely a meteor has yet to be officially reported by ent...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: science.gc.ca  
-   Link: [https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada](https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada)  
+   Link: <a href="https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada" target="_blank" rel="noopener noreferrer nofollow">https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>recommendations to enhance transparency and scientific inquiry on UAP issues...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: aerospace.csis.org  
    Title: 230414 Bingen SpaceThreatAssessment 2023 UPDATED min  
-   Link: [https://aerospace.csis.org/wp-content/uploads/2023/04/230414_Bingen_SpaceThreatAssessment_2023_UPDATED-min.pdf](https://aerospace.csis.org/wp-content/uploads/2023/04/230414_Bingen_SpaceThreatAssessment_2023_UPDATED-min.pdf)  
+   Link: <a href="https://aerospace.csis.org/wp-content/uploads/2023/04/230414_Bingen_SpaceThreatAssessment_2023_UPDATED-min.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.csis.org/wp-content/uploads/2023/04/230414_Bingen_SpaceThreatAssessment_2023_UPDATED-min.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THREAT ASSESSMENT 20232 Apr 2023 — This iteration of the Space Threat Assessment provides a framework that describes different types of c...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: phys.org  
    Title: Green fireball spotted over western skies  
-   Link: [https://phys.org/news/2025-05-green-fireball-western-skies.html](https://phys.org/news/2025-05-green-fireball-western-skies.html)  
+   Link: <a href="https://phys.org/news/2025-05-green-fireball-western-skies.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2025-05-green-fireball-western-skies.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Never seen...6 May 2025 — Hundreds of people reported seeing a fireball over several western US states, especially over Utah, where it...</p></details>
    Published: May 2025  
 
 20. <a id="endnote-20"></a>
    Source: scirp.org  
-   Link: [https://www.scirp.org/journal/paperinformation?paperid=135539](https://www.scirp.org/journal/paperinformation?paperid=135539)  
+   Link: <a href="https://www.scirp.org/journal/paperinformation?paperid=135539" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=135539</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>te Park (RMSP) on the south shore of Long Island, NY.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DJVhh_IKRUP/?hl=en-gb](https://www.instagram.com/reel/DJVhh_IKRUP/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/reel/DJVhh_IKRUP/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DJVhh_IKRUP/?hl=en-gb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ined that this was a Wyoming fireball. This meteor entered...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: 3af.fr  
    Title: 2025165747 2025 01 27 new uap science  
-   Link: [https://www.3af.fr/docs/2025165747_2025-01-27-new-uap-science.pdf](https://www.3af.fr/docs/2025165747_2025-01-27-new-uap-science.pdf)  
+   Link: <a href="https://www.3af.fr/docs/2025165747_2025-01-27-new-uap-science.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.3af.fr/docs/2025165747_2025-01-27-new-uap-science.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Science of Unidentified Aerospace-Undersea...27 Jan 2025 — UAP, formerly known as UFOs, are a long-standing global phenomenon, w...</p></details>

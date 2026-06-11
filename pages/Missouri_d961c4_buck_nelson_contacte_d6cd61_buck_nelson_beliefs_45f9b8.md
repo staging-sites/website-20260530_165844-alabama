@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /buck-nelson/
 nav_short_title: Beliefs
 title: The Strange Politics Behind Buck Nelson's Space Messages
-title_full: The Strange Politics Behind Buck Nelson's Space Messages | Buck Nelson
+title_full: The Strange Politics Behind Buck Nelson's Space Messages
 display_title_short: Beliefs
 display_title: Beliefs
 heading_title: The Strange Politics Behind Buck Nelson's Space Messages
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:31:32'
-parent_title: Why Buck Nelson Became Missouri's Contactee Figure | Missouri UFOs
+parent_title: Why Buck Nelson Became Missouri's Contactee Figure
 parent_permalink: /buck-nelson/
 parent_nav_short_title: Buck Nelson
 parent_heading_title: Why Buck Nelson Became Missouri's Contactee Figure
@@ -250,12 +250,10 @@ image: /assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_buck_nelson_be
 
 ## Introduction
 
-[Buck Nelson]({{ 'buck-nelson/' | relative_url }})’s UFO stories were never only about spaceships. The [Missouri]({{ 'what-really-happened-in-missouris-ufo/' | relative_url }}) contactee claimed that visitors from Venus, Mars and the Moon gave him warnings about atomic weapons, offered lessons about how a better society should be organised, and revealed what he presented as higher cosmic truths. Those themes helped make his story popular during the Cold War, when fears about nuclear war shaped public imagination across the United States. Yet Nelson’s message also contained a darker side. Alongside appeals for peace, he promoted segregationist ideas and described alien societies that reflected racial hierarchies common in mid-twentieth-century America. Rather than treating those contradictions as a minor detail, they help explain what contactee culture actually was: a movement that often projected contemporary political hopes and prejudices onto imagined worlds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Buck_Nelson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Buck Nelson</span><span class="citation-popover-snippet">Buck Nelson</span></span></span>
+[Buck Nelson]({{ 'buck-nelson/' | relative_url }})’s UFO stories were never only about spaceships. The Missouri contactee claimed that visitors from Venus, Mars and the Moon gave him warnings about atomic weapons, offered lessons about how a better society should be organised, and revealed what he presented as higher cosmic truths. Those themes helped make his story popular during the Cold War, when fears about nuclear war shaped public imagination across the United States. Yet Nelson’s message also contained a darker side. Alongside appeals for peace, he promoted segregationist ideas and described alien societies that reflected racial hierarchies common in mid-twentieth-century America. Rather than treating those contradictions as a minor detail, they help explain what contactee culture actually was: a movement that often projected contemporary political hopes and prejudices onto imagined worlds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Buck_Nelson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Buck Nelson</span><span class="citation-popover-snippet">Buck Nelson</span></span></span>
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_buck_nelson_beliefs_45f9b8-Illustration-1-light.svg" | relative_url }}" alt="Beliefs illustration 1" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_buck_nelson_beliefs_45f9b8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_buck_nelson_beliefs_45f9b8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_buck_nelson_beliefs_45f9b8-Illustration-1-dark.svg" | relative_url }}" alt="Beliefs illustration 1" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_buck_nelson_beliefs_45f9b8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_buck_nelson_beliefs_45f9b8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For Missouri UFO history, that matters because Nelson’s Mountain View stories reveal how flying-saucer beliefs could become vehicles for wider social messages. His claims about Venus were not simply descriptions of alien civilisation. They were moral and political arguments disguised as reports from space. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Buck_Nelson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Buck Nelson</span><span class="citation-popover-snippet">Buck Nelson</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UNuFALVFU0Y" title="Ozarks Alive: Buck Nelson in Space" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UNuFALVFU0Y" target="_blank" rel="noopener noreferrer">Ozarks Alive: Buck Nelson in Space</a></p><p class="youtube-embed-meta">Channel: Ozarks First &middot; Views: 469 &middot; Uploaded: January 2023 &middot; Length: 3 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UNuFALVFU0Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UNuFALVFU0Y">Open on YouTube</a></p></div></div></div>
 
@@ -269,7 +267,6 @@ This was not unique to Missouri. Contactee literature across the United States o
 
 The anti-nuclear theme also helped make contactee claims appear socially useful. Readers did not have to accept every detail of a trip to Venus to find the warning about atomic war emotionally plausible. In that sense, the message worked as a cultural bridge between extraordinary UFO claims and ordinary public concerns. The spaceships provided the drama, but the bomb provided the urgency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Buck_Nelson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Buck Nelson</span><span class="citation-popover-snippet">Buck Nelson</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BvxIy7kh-Tc" title="Buck Nelson&#x27;s out of this world trip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BvxIy7kh-Tc" target="_blank" rel="noopener noreferrer">Buck Nelson&#x27;s out of this world trip</a></p><p class="youtube-embed-meta">Channel: KY3 News - Springfield, Mo. &middot; Views: 369 &middot; Uploaded: February 2024 &middot; Length: 3 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BvxIy7kh-Tc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BvxIy7kh-Tc">Open on YouTube</a></p></div></div></div>
 
 ## How Venus became a model society in Nelson's stories
@@ -282,8 +279,7 @@ Yet the society Nelson described was never politically neutral. Like many contac
 
 That mechanism helps explain why contactee literature often says more about the culture that produced it than about the extraterrestrials it claimed to describe. The imagined planets functioned as mirrors. Writers projected fears, hopes, religious ideas and political beliefs onto distant worlds, then reported those projections back as revelations. Nelson’s Venus was one of the clearest Missouri examples of that pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-snippet">Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — There&#x27;s a troubling passage in My Trip to Mar...</span></span></span>
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_buck_nelson_beliefs_45f9b8-Illustration-2-light.svg" | relative_url }}" alt="Beliefs illustration 2" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_buck_nelson_beliefs_45f9b8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_buck_nelson_beliefs_45f9b8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_buck_nelson_beliefs_45f9b8-Illustration-2-dark.svg" | relative_url }}" alt="Beliefs illustration 2" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_buck_nelson_beliefs_45f9b8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_buck_nelson_beliefs_45f9b8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Racism, segregation and the limits of the contactee image
 
 The most troubling aspect of Nelson’s message was the way it combined universal peace rhetoric with explicit support for racial segregation. While presenting extraterrestrials as morally advanced beings, he also claimed that Venus practised what he described as “absolute segregation of all races and nationalities”. Reports from a 1956 church appearance in Washington, D.C., recorded him making that claim publicly. The reaction was negative enough that church representatives later stated he had been invited in error. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-snippet">Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — There&#x27;s a troubling passage in My Trip to Mar...</span></span></span>
@@ -293,7 +289,6 @@ The contradiction is striking. Nelson warned against planetary destruction and p
 Passages from his published material point in the same direction. In discussing Mars, Nelson wrote that he was taken to an area where the people were most like those he was accustomed to seeing. On its own, that wording could be interpreted in several ways. Taken together with his later public comments about racial separation, however, many historians and local researchers see it as part of a broader segregationist worldview rather than an isolated phrase. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-snippet">Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — There&#x27;s a troubling passage in My Trip to Mar...</span></span></span>
 
 Evidence also suggests that Nelson used his UFO celebrity to circulate racial material beyond his spacecraft stories. Researchers examining contactee publications from the early 1960s found advertisements for pamphlets associated with segregationist themes being printed and sold alongside his UFO literature. That indicates that his racial views were not merely hidden assumptions embedded in the Venus narrative. They became part of the wider publishing activity that grew around his [conventions]({{ 'conventions/' | relative_url }}) and public persona. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelibrary.org">[Springfield-Greene County Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelibrary.org</span><span class="citation-popover-snippet">Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — There&#x27;s a troubling passage in My Trip to Mar...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9wQVN0atWLw" title="The Alien Abduction Phenomenon of the Mid-20th Century | STUFF YOU SHOULD KNOW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9wQVN0atWLw" target="_blank" rel="noopener noreferrer">The Alien Abduction Phenomenon of the Mid-20th Century | STUFF YOU SHOULD KNOW</a></p><p class="youtube-embed-meta">Channel: Stuff You Should Know &middot; Views: 21.0K &middot; Uploaded: March 2024 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9wQVN0atWLw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9wQVN0atWLw">Open on YouTube</a></p></div></div></div>
 
@@ -305,8 +300,7 @@ For historians of Missouri UFO culture, this makes Nelson valuable as a cultural
 
 Seen this way, Nelson’s Venus was not merely a fantasy planet. It was a political imagination of the future shaped by the era in which he lived. The result is one of the most revealing aspects of Missouri’s contactee history: a story that preached peace between planets while exposing the social boundaries that many Americans still accepted on Earth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Buck_Nelson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Buck Nelson</span><span class="citation-popover-snippet">Buck Nelson</span></span></span>
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_buck_nelson_beliefs_45f9b8-Illustration-3-light.svg" | relative_url }}" alt="Beliefs illustration 3" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_buck_nelson_beliefs_45f9b8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_buck_nelson_beliefs_45f9b8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_buck_nelson_beliefs_45f9b8-Illustration-3-dark.svg" | relative_url }}" alt="Beliefs illustration 3" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_buck_nelson_beliefs_45f9b8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_buck_nelson_contacte_d6cd61_buck_nelson_beliefs_45f9b8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -730,74 +724,74 @@ Seen this way, Nelson’s Venus was not merely a fantasy planet. It was a politi
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Buck Nelson  
-   Link: [https://en.wikipedia.org/wiki/Buck_Nelson](https://en.wikipedia.org/wiki/Buck_Nelson)  
+   Link: <a href="https://en.wikipedia.org/wiki/Buck_Nelson" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Buck_Nelson</a>  
 
 2. <a id="endnote-2"></a>
    Source: thelibrary.org  
-   Link: [https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts](https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts)  
+   Link: <a href="https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts" target="_blank" rel="noopener noreferrer nofollow">https://www.thelibrary.org/post/the-ozarks-spaceman-buck-nelson-in-10-facts</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springfield-Greene County LibraryThe Ozarks Spaceman: Buck Nelson in 10 Facts11 Sept 2025 — There&#x27;s a troubling passage in My Trip to Mar...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: era.ed.ac.uk  
    Title: ed.ac.uk Constructing Ambiguous Identities: Negotiating Race  
-   Link: [https://era.ed.ac.uk/bitstream/1842/2084/1/Final%20thesis.pdf](https://era.ed.ac.uk/bitstream/1842/2084/1/Final%20thesis.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ERASouth African social relations in the second decade of democracy remain framed by race. Spatial and social lived realities, the contin...</p></details>
+   Link: <a href="https://era.ed.ac.uk/bitstream/1842/2084/1/Final%20thesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://era.ed.ac.uk/bitstream/1842/2084/1/Final%20thesis.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>South African social relations in the second decade of democracy remain framed by race. Spatial and social lived realities, the contin...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: scribd.com  
    Title: Buck Nelson  
-   Link: [https://www.scribd.com/document/90648001/Buck-Nelson-My-Trip-to-Mars-the-Moon-and-Venus](https://www.scribd.com/document/90648001/Buck-Nelson-My-Trip-to-Mars-the-Moon-and-Venus)  
+   Link: <a href="https://www.scribd.com/document/90648001/Buck-Nelson-My-Trip-to-Mars-the-Moon-and-Venus" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/90648001/Buck-Nelson-My-Trip-to-Mars-the-Moon-and-Venus</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;I wish to express my deep appreciation and thanks to all those whose encouragement has helped make...Read more...</p></details>
 
 ### Additional References
 
 5. <a id="endnote-5"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/content/pdf/oa_book_monograph/j.ctt5vjdcf](https://www.jstor.org/content/pdf/oa_book_monograph/j.ctt5vjdcf)  
+   Link: <a href="https://www.jstor.org/content/pdf/oa_book_monograph/j.ctt5vjdcf" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/content/pdf/oa_book_monograph/j.ctt5vjdcf</a>  
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/nytimes/posts/after-the-new-york-times-magazine-published-a-list-of-the-30-greatest-living-ame/1365218195460640/](https://www.facebook.com/nytimes/posts/after-the-new-york-times-magazine-published-a-list-of-the-30-greatest-living-ame/1365218195460640/)  
+   Link: <a href="https://www.facebook.com/nytimes/posts/after-the-new-york-times-magazine-published-a-list-of-the-30-greatest-living-ame/1365218195460640/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nytimes/posts/after-the-new-york-times-magazine-published-a-list-of-the-30-greatest-living-ame/1365218195460640/</a>  
 
 7. <a id="endnote-7"></a>
    Source: nasa.gov  
    Title: Not Yet Imagined: A Study of Hubble Space Telescope  
-   Link: [https://www.nasa.gov/wp-content/uploads/2020/12/not_yet_imagined_tagged.pdf](https://www.nasa.gov/wp-content/uploads/2020/12/not_yet_imagined_tagged.pdf)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2020/12/not_yet_imagined_tagged.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2020/12/not_yet_imagined_tagged.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Venus revolutionized humanity&#x27;s view of the universe and inspired many others to create telescopes of their own. In the 1660s, Isaac Newt...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/CHRG-115shrg89104817/html/CHRG-115shrg89104817.htm](https://www.govinfo.gov/content/pkg/CHRG-115shrg89104817/html/CHRG-115shrg89104817.htm)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-115shrg89104817/html/CHRG-115shrg89104817.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-115shrg89104817/html/CHRG-115shrg89104817.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>s Appropriations Subcommittee to support increased fiscal year...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: commons.wikimedia.org  
    Title: File:My Trip to Mars, the Moon and Venus by Buck Nelson.jpg  
-   Link: [https://commons.wikimedia.org/wiki/File%3AMy_Trip_to_Mars%2C_the_Moon_and_Venus_by_Buck_Nelson.jpg](https://commons.wikimedia.org/wiki/File%3AMy_Trip_to_Mars%2C_the_Moon_and_Venus_by_Buck_Nelson.jpg)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AMy_Trip_to_Mars%2C_the_Moon_and_Venus_by_Buck_Nelson.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AMy_Trip_to_Mars%2C_the_Moon_and_Venus_by_Buck_Nelson.jpg</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:My Trip to Mars, the Moon and Venus by Buck Nelson.jpg3 Jul 2025 — English: Cover of pamphlet issued by Buck Nelson in...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: scholarsbank.uoregon.edu  
-   Link: [https://scholarsbank.uoregon.edu/bitstreams/da54c7ea-77da-4951-a657-4a63503b935e/download](https://scholarsbank.uoregon.edu/bitstreams/da54c7ea-77da-4951-a657-4a63503b935e/download)  
+   Link: <a href="https://scholarsbank.uoregon.edu/bitstreams/da54c7ea-77da-4951-a657-4a63503b935e/download" target="_blank" rel="noopener noreferrer nofollow">https://scholarsbank.uoregon.edu/bitstreams/da54c7ea-77da-4951-a657-4a63503b935e/download</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>something besides a baby: race, gender, and reproductive2019 · Cited by 2 — herald of racial rebirth and regeneration or the embodied thr...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: booksforunderstanding.org  
-   Link: [https://www.booksforunderstanding.org/race/listcomplete.html](https://www.booksforunderstanding.org/race/listcomplete.html)  
+   Link: <a href="https://www.booksforunderstanding.org/race/listcomplete.html" target="_blank" rel="noopener noreferrer nofollow">https://www.booksforunderstanding.org/race/listcomplete.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jr. ISBN-10: 0822328518 (cloth) ISBN-10...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: search.proquest.com  
-   Link: [https://search.proquest.com/openview/27ec6ce003f40bc1d12d3b6fe9b48c3b/1?cbl=51922&diss=y&pq-origsite=gscholar](https://search.proquest.com/openview/27ec6ce003f40bc1d12d3b6fe9b48c3b/1?cbl=51922&diss=y&pq-origsite=gscholar)  
+   Link: <a href="https://search.proquest.com/openview/27ec6ce003f40bc1d12d3b6fe9b48c3b/1?cbl=51922&amp;diss=y&amp;pq-origsite=gscholar" target="_blank" rel="noopener noreferrer nofollow">https://search.proquest.com/openview/27ec6ce003f40bc1d12d3b6fe9b48c3b/1?cbl=51922&amp;diss=y&amp;pq-origsite=gscholar</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ideology, has also been demonstrated by Durrell, 1959; Haraway, 2003; Rowlands, 2002. 22 The point of separation between humans and nonhu...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ozarksalive.com  
-   Link: [https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc](https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc)  
+   Link: <a href="https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc" target="_blank" rel="noopener noreferrer nofollow">https://www.ozarksalive.com/stories/2iepyyzyl2rk6jkohdpf633ftjaaoc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Buck Nelson traveled to Mars, Venus, the Moon27 Dec 2022 — Buck Nelson, of Mountain View, Mo., became famous in the 1950s after he shared...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: dumas.ccsd.cnrs.fr  
    Title: UFR2 2023 PAVLOVA Yuliia M2 4  
-   Link: [https://dumas.ccsd.cnrs.fr/dumas-04321759v1/file/UFR2_2023_PAVLOVA%20Yuliia%20_M2_4.pdf](https://dumas.ccsd.cnrs.fr/dumas-04321759v1/file/UFR2_2023_PAVLOVA%20Yuliia%20_M2_4.pdf)  
+   Link: <a href="https://dumas.ccsd.cnrs.fr/dumas-04321759v1/file/UFR2_2023_PAVLOVA%20Yuliia%20_M2_4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dumas.ccsd.cnrs.fr/dumas-04321759v1/file/UFR2_2023_PAVLOVA%20Yuliia%20_M2_4.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for the Moon: the U.S. Space Program in Amerika4 Dec 2023 — The origins of the Space Race can be traced back to the International Geophys...</p></details>

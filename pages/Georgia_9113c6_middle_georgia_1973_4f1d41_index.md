@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /georgia-9113c6-middle-georgia-1973/
 description: Focused pages that expand on 1973 Flap.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Georgia_9113c6_middle_georgia_1973_4f1d41
-parent_title: 1973 Flap | What Really Happened in Georgia's Most...
+parent_title: 1973 Flap
 parent_nav_short_title: 1973 Flap
 parent_permalink: /1973-flap/
 ---

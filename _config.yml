@@ -1,9 +1,9 @@
-title: 'UAP State Files'
-short_title: 'UAP State Files'
+title: 'UFOs and UAP by State'
+short_title: 'UFOs and UAP by State'
 brand_name: 'Branchoria'
 brand_domain: 'branchoria.com'
-description: 'State-by-state guides to UFO and UAP cases, records, explanations, and evidence checks.'
-tagline: 'State-by-state UFO cases, records, explanations, and evidence checks.'
+description: 'State-by-state guides to UFO and UAP reports, records, and explanations across the United States.'
+tagline: 'Compare sightings, records, and explanations across U.S. states.'
 encoding: utf-8
 lang: 'en'
 locale: 'en'
@@ -36,7 +36,9 @@ homepage_copy_policy: 'polished'
 home_layout_mode: 'vertical'
 auto_home_layout_mode: 'catalog'
 hierarchy_viz_mode: 'hybrid'
-ui_bundle_version: 'build-1780173228'
+ui_bundle_version: 'build-1781201655'
+google_site_verification: ''
+draft_noindex: false
 theme: minima
 plugins:
   - jekyll-feed

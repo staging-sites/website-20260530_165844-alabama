@@ -262,7 +262,7 @@ sibling_links:
   short_title: Michigan UFOs
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Alabama_d1f92d
   title: Alabama UFOs
@@ -277,9 +277,9 @@ sibling_links:
   permalink: /what-keeps-tennessees-ufo-stories-alive/
   short_title: Tennessee UFOs
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Idaho_18334c
   title: Idaho UFOs
   permalink: /what-makes-idaho-a-key-ufo-hotspot/
@@ -289,9 +289,9 @@ sibling_links:
   permalink: /what-makes-indianas-ufo-history-unique/
   short_title: Indiana UFOs
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: South_Carolina_11d001
   title: South Carolina UFOs
   permalink: /what-makes-south-carolinas-ufo-story/
@@ -481,7 +481,6 @@ image: /assets/images/Wyoming_ed190c-overview-social.jpg
 
 Wyoming has two qualities that make UFO reports more likely to be noticed and more difficult to interpret. First, the state has large areas with low light pollution, open horizons and fewer obstructions than heavily urbanised regions. That makes ordinary celestial events, aircraft, satellites, meteors and drones easier to see. Secondly, Wyoming is not empty sky: it contains military aviation, community airports, missile fields and energy infrastructure, all of which can generate unusual lights, movements and restricted information. A University of Wyoming planetarium coordinator, discussing a long-delayed Cheyenne witness account, made exactly this point: rural darkness can make sky phenomena more visible, while military exercises and irregular flights can also be mistaken for something stranger. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2025/01/01/cheyenne-reports-more-ufo-sightings-than-anywhere-else-in-wyoming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Wyoming_ed190c-overview.webp" | relative_url }}" alt="Overview image for What Really Happened in Wyoming Skies?" loading="eager" decoding="sync" fetchpriority="high">
 That does not make every report easy to dismiss. It means Wyoming is a place where the first question should usually be “what else was in the sky?” rather than “was it alien?” The University of Utah’s wider research on public UAP reports found that sightings are shaped by sky-viewing conditions and by the likelihood of ordinary objects being present, including proximity to airports and military installations. That framework fits Wyoming well: a state can have many sincere reports without those reports all pointing to the same cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ess.utah.edu/blog/posts/2024-2025/11-2024-uap-sightings.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ess.utah.edu">[ess.utah.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ess.utah.edu</span><span class="citation-popover-title">11 2024 uap sightings</span><span class="citation-popover-snippet">11 2024 uap sightings</span></span></span>
 
@@ -495,20 +494,16 @@ Project Blue Book itself also needs careful handling. The Air Force programme ra
 
 For Wyoming, then, the Cheyenne case is significant because it is a genuine archival marker, not because it proves a dramatic conclusion. It shows that the state was present in the official Cold War-era UFO record, but it also shows the limits of that record: brief military witness summaries can preserve a mystery without resolving it.
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c-Illustration-1-light.svg" | relative_url }}" alt="What Really Happened in Wyoming Skies? illustration 1" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wyoming_ed190c-Illustration-1-dark.svg" | relative_url }}" alt="What Really Happened in Wyoming Skies? illustration 1" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## F.E. Warren Air Force Base and the Nuclear-Missile Question
 
 Any serious Wyoming UFO page has to address F.E. Warren Air Force Base, because it is the state’s central military UFO reference point. The base is home to the 90th Missile Wing, and its Minuteman III missiles are spread across a 9,600-square-mile complex in eastern Wyoming, western Nebraska and northern Colorado. Launch facilities, underground alert centres, security operations and communications systems make this region one of the most sensitive military landscapes in the country. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.warren.af.mil/About-Us/Fact-Sheets/Display/Article/331275/90th-missile-wing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warren.af.mil">[Warren Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warren.af.mil</span><span class="citation-popover-snippet">90th Missile Wing &gt; F.E. Warren Air Force Base &gt; Display...</span></span></span>
 
 That strategic setting has encouraged a recurring UFO theme: claims that unusual aerial objects are attracted to nuclear weapons sites. Wyoming appears in that broader national story because of F.E. Warren, just as Montana’s Malmstrom and North Dakota’s Minot appear in other missile-related UFO narratives. The attraction of the idea is obvious. If unusual objects were repeatedly observed near nuclear assets, the national-security implications would be serious. But the evidence varies widely, from official missile-field facts and known technical incidents to anecdotal claims, local reports and later retellings.
 
-One important example is not, by itself, a UFO case: in October 2010, 50 F.E. Warren missiles were temporarily taken offline because of a hardware failure. WyoHistory.org describes the outage in that conventional technical frame, and Wired likewise reported a communication and monitoring disruption caused by a hardware problem, with backup systems remaining in place. UFO writers have sometimes folded the [2010 outage]({{ '2010-outage/' | relative_url }}) into broader missile-site speculation, but the available mainstream and historical accounts do not require an anomalous object to explain it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyohistory.org/education/toolkit/missiles-and-f-e-warren-air-force-base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyohistory.org">[wyohistory.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyohistory.org</span><span class="citation-popover-title">Missiles and the F. E. Warren Air Force Base Education Toolkit | Wyo History.org</span><span class="citation-popover-snippet">Missiles and the F. E. Warren Air Force Base Education Toolkit | Wyo History.org</span></span></span>
+One important example is not, by itself, a UFO case: in October 2010, 50 F.E. Warren missiles were temporarily taken offline because of a hardware failure. WyoHistory.org describes the outage in that conventional technical frame, and Wired likewise reported a communication and monitoring disruption caused by a hardware problem, with backup systems remaining in place. UFO writers have sometimes folded the [2010 outage]({{ '2010-outage/' | relative_url }}) into broader missile-site speculation, but the available mainstream and historical accounts do not require an anomalous object to explain it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wyohistory.org/education/toolkit/missiles-and-f-e-warren-air-force-base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wyohistory.org">[wyohistory.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wyohistory.org</span><span class="citation-popover-title">Missiles and the F. E. Warren Air Force Base Education Toolkit &#124; Wyo History.org</span><span class="citation-popover-snippet">Missiles and the F. E. Warren Air Force Base Education Toolkit &#124; Wyo History.org</span></span></span>
 
 This distinction is crucial. F.E. Warren gives Wyoming UFO stories a serious backdrop, but seriousness of setting is not the same as strength of evidence. Reports near missile sites deserve careful documentation because the stakes are high; they also deserve extra scepticism because military secrecy, technical systems, restricted airspace and later myth-making can blur the line between event, rumour and interpretation.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2rVvvu7aMQQ" title="Terrifying Account of Alien Abduction | Ghost Adventures | Discovery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2rVvvu7aMQQ" target="_blank" rel="noopener noreferrer">Terrifying Account of Alien Abduction | Ghost Adventures | Discovery</a></p><p class="youtube-embed-meta">Channel: Discovery &middot; Views: 11.1K &middot; Uploaded: November 2025 &middot; Length: 3 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2rVvvu7aMQQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2rVvvu7aMQQ">Open on YouTube</a></p></div></div></div>
 
 ## Modern Sightings: Cheyenne, Casper, Laramie and the NUFORC Record
 
@@ -520,8 +515,7 @@ The pattern is not surprising. Cheyenne is Wyoming’s largest city and sits nex
 
 The best way to read these reports is as a map of claims, not a map of confirmed unknown craft. Some will be misidentified planets, aircraft, satellites, meteors, balloons or drones. Some may remain unresolved because the original report lacks enough information to test. A few may be genuinely puzzling. Wyoming’s value as a UFO study area is not that every report is extraordinary, but that its geography lets ordinary and unusual causes overlap in particularly visible ways.
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c-Illustration-2-light.svg" | relative_url }}" alt="What Really Happened in Wyoming Skies? illustration 2" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wyoming_ed190c-Illustration-2-dark.svg" | relative_url }}" alt="What Really Happened in Wyoming Skies? illustration 2" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Barrett Account and the Problem of Late Testimony
 
 One of the more human Wyoming cases is the account given by Richard Barrett about an April 1991 sighting he says he shared with his father, James Barrett, a former Wyoming attorney general and federal judge. According to Cowboy State Daily, Richard Barrett said the object began as a bright star-like light in the western and south-eastern sky before appearing above them while they were travelling on Wyoming 59 between Gillette and Wright. The two men reportedly did not make a public report at the time because they feared ridicule. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2025/01/01/cheyenne-reports-more-ufo-sightings-than-anywhere-else-in-wyoming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -538,8 +532,7 @@ This is a different kind of UFO story from the 1950s “flying saucer” archive
 
 The Sweetwater reports matter because they show how the meaning of “UFO” has changed. In earlier decades, “unidentified” often meant a mysterious light, disc or structured object seen by eye. In the 2020s, an unidentified aerial object near infrastructure may be treated first as an airspace, security or drone-enforcement issue. The mystery can be real without being exotic.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ApuwmZjHGu4" title="Project Blue Book | Trailer | Watch On SBS On Demand" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ApuwmZjHGu4" target="_blank" rel="noopener noreferrer">Project Blue Book | Trailer | Watch On SBS On Demand</a></p><p class="youtube-embed-meta">Channel: SBS On Demand &middot; Views: 39.7K &middot; Uploaded: March 2019 &middot; Length: 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ApuwmZjHGu4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ApuwmZjHGu4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2rVvvu7aMQQ" title="Terrifying Account of Alien Abduction | Ghost Adventures | Discovery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2rVvvu7aMQQ" target="_blank" rel="noopener noreferrer">Terrifying Account of Alien Abduction | Ghost Adventures | Discovery</a></p><p class="youtube-embed-meta">Channel: Discovery &middot; Views: 11.1K &middot; Uploaded: November 2025 &middot; Length: 3 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2rVvvu7aMQQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2rVvvu7aMQQ">Open on YouTube</a></p></div></div></div>
 
 ## What Sceptics and Investigators Usually Look For
 
@@ -555,8 +548,7 @@ Official and scientific sources now tend to stress data quality. NASA’s indepe
 
 For Wyoming, that points to a practical standard. A strong future case would need more than a sincere story: exact time and location, multiple independent witnesses, photographs or video with metadata, radar or flight-tracking correlation, weather and astronomical checks, and a clear chain of reporting. Without those, even a striking account usually remains a story rather than a finding.
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c-Illustration-3-light.svg" | relative_url }}" alt="What Really Happened in Wyoming Skies? illustration 3" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wyoming_ed190c-Illustration-3-dark.svg" | relative_url }}" alt="What Really Happened in Wyoming Skies? illustration 3" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Wyoming Adds to the Wider UFO Picture
 
 Wyoming’s UFO history is modest in volume compared with states such as California, Washington or Arizona, but it has a distinctive character. It sits at the intersection of dark rural visibility, Cold War nuclear infrastructure, military aviation, energy sites and modern drone uncertainty. That mix makes it a useful state-level case study in why UFO reports persist even when many individual sightings are likely to have ordinary causes.
@@ -564,10 +556,6 @@ Wyoming’s UFO history is modest in volume compared with states such as Califor
 The state’s best-known threads also show the limits of UFO evidence. Project Blue Book preserved a Cheyenne unknown, but not enough detail to settle it. F.E. Warren gives missile-site claims national-security weight, but known technical incidents can be misread when detached from their engineering context. NUFORC reports show continuing public interest, but self-reported databases are not verification systems. Recent drone-like sightings may be genuinely unidentified to local observers while still fitting a modern aviation or infrastructure-security problem.
 
 Wyoming therefore belongs in UFO history not because it offers a clean answer, but because it illustrates the real shape of the subject: credible witnesses can be puzzled, official records can be incomplete, military settings can magnify uncertainty, and “unidentified” can mean anything from insufficient data to a genuinely resistant anomaly. The most honest reading is neither dismissal nor belief. Wyoming’s UFO record is a set of unresolved sky stories in a state where the sky is unusually easy to watch and unusually complicated to interpret.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mww3arniyt0" title="UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer">UFO Mysteries That Defy Explanation | Unidentified: Inside America&#x27;s UFO Investigation</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 260.4K &middot; Uploaded: May 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mww3arniyt0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -655,300 +643,606 @@ Wyoming therefore belongs in UFO history not because it offers a clean answer, b
   </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-wyoming-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-wyoming-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-wyoming-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-wyoming-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-wyoming-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-wyoming-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-wyoming-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-wyoming-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-wyoming-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-wyoming-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-wyoming-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-wyoming-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-wyoming-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-wyoming-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-wyoming-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-wyoming-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-wyoming-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-wyoming-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-wyoming-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-wyoming-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-wyoming-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-wyoming-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-wyoming-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-wyoming-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-wyoming-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-wyoming-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-wyoming-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-wyoming-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-wyoming-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-wyoming-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-wyoming-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-wyoming-skies-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-in-wyoming-skies-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-really-happened-in-wyoming-skies-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: nicap.org  
    Title: The Project Bluebook "Unknowns"  
-   Link: [https://www.nicap.org/bluebook/unknowns.htm](https://www.nicap.org/bluebook/unknowns.htm)  
+   Link: <a href="https://www.nicap.org/bluebook/unknowns.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bluebook/unknowns.htm</a>  
 
 2. <a id="endnote-2"></a>
    Source: warren.af.mil  
    Title: Warren Air Force Base  
-   Link: [https://www.warren.af.mil/About-Us/Fact-Sheets/Display/Article/331275/90th-missile-wing/](https://www.warren.af.mil/About-Us/Fact-Sheets/Display/Article/331275/90th-missile-wing/)  
+   Link: <a href="https://www.warren.af.mil/About-Us/Fact-Sheets/Display/Article/331275/90th-missile-wing/" target="_blank" rel="noopener noreferrer nofollow">https://www.warren.af.mil/About-Us/Fact-Sheets/Display/Article/331275/90th-missile-wing/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>90th Missile Wing &gt; F.E. Warren Air Force Base &gt; Display...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ess.utah.edu  
    Title: 11 2024 uap sightings  
-   Link: [https://ess.utah.edu/blog/posts/2024-2025/11-2024-uap-sightings.php](https://ess.utah.edu/blog/posts/2024-2025/11-2024-uap-sightings.php)  
+   Link: <a href="https://ess.utah.edu/blog/posts/2024-2025/11-2024-uap-sightings.php" target="_blank" rel="noopener noreferrer nofollow">https://ess.utah.edu/blog/posts/2024-2025/11-2024-uap-sightings.php</a>  
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 5. <a id="endnote-5"></a>
    Source: wyohistory.org  
    Title: Missiles and the F. E. Warren Air Force Base Education Toolkit | Wyo History.org  
-   Link: [https://www.wyohistory.org/education/toolkit/missiles-and-f-e-warren-air-force-base](https://www.wyohistory.org/education/toolkit/missiles-and-f-e-warren-air-force-base)  
+   Link: <a href="https://www.wyohistory.org/education/toolkit/missiles-and-f-e-warren-air-force-base" target="_blank" rel="noopener noreferrer nofollow">https://www.wyohistory.org/education/toolkit/missiles-and-f-e-warren-air-force-base</a>  
 
 6. <a id="endnote-6"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu](https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu)  
+   Link: <a href="https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/10/communications-dropped-to-50-nuke-missiles-in-icbm-snafu</a>  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lWY](https://nuforc.org/subndx/?id=lWY)  
+   Link: <a href="https://nuforc.org/subndx/?id=lWY" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lWY</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 9. <a id="endnote-9"></a>
    Source: faa.gov  
    Title: what know about drones  
-   Link: [https://www.faa.gov/newsroom/what-know-about-drones](https://www.faa.gov/newsroom/what-know-about-drones)  
+   Link: <a href="https://www.faa.gov/newsroom/what-know-about-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/what-know-about-drones</a>  
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 12. <a id="endnote-12"></a>
    Source: attheu.utah.edu  
    Title: the west is best to spot ufos  
-   Link: [https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/](https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/)  
+   Link: <a href="https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://attheu.utah.edu/facultystaff/the-west-is-best-to-spot-ufos/</a>  
 
 13. <a id="endnote-13"></a>
    Source: magazine.utah.edu  
    Title: the truth is out there  
-   Link: [https://magazine.utah.edu/issues/fall-2024/the-truth-is-out-there/](https://magazine.utah.edu/issues/fall-2024/the-truth-is-out-there/)  
+   Link: <a href="https://magazine.utah.edu/issues/fall-2024/the-truth-is-out-there/" target="_blank" rel="noopener noreferrer nofollow">https://magazine.utah.edu/issues/fall-2024/the-truth-is-out-there/</a>  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=59142](https://nuforc.org/sighting/?id=59142)  
+   Link: <a href="https://nuforc.org/sighting/?id=59142" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=59142</a>  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=67710](https://nuforc.org/sighting/?id=67710)  
+   Link: <a href="https://nuforc.org/sighting/?id=67710" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=67710</a>  
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=197722](https://nuforc.org/sighting/?id=197722)  
+   Link: <a href="https://nuforc.org/sighting/?id=197722" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=197722</a>  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=151116](https://nuforc.org/sighting/?id=151116)  
+   Link: <a href="https://nuforc.org/sighting/?id=151116" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=151116</a>  
 
 19. <a id="endnote-19"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
 
 20. <a id="endnote-20"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/ATpubs/ATC/atc0908.html](https://www.faa.gov/air_traffic/publications/ATpubs/ATC/atc0908.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/ATpubs/ATC/atc0908.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ATpubs/ATC/atc0908.html</a>  
 
 21. <a id="endnote-21"></a>
    Source: archives.gov  
    Title: nara documents2  
-   Link: [https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2](https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2)  
+   Link: <a href="https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/foreign-policy/cold-war/1961-berlin-crisis/nara-documents2</a>  
 
 22. <a id="endnote-22"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: aliens at the archives  
-   Link: [https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/](https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/</a>  
 
 23. <a id="endnote-23"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download](https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download)  
+   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
 
 24. <a id="endnote-24"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/photographs](https://www.archives.gov/research/topics/uaps/photographs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
 
 25. <a id="endnote-25"></a>
    Source: archives.gov  
    Title: still pictures guide  
-   Link: [https://www.archives.gov/research/guides/still-pictures-guide](https://www.archives.gov/research/guides/still-pictures-guide)  
+   Link: <a href="https://www.archives.gov/research/guides/still-pictures-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guides/still-pictures-guide</a>  
 
 26. <a id="endnote-26"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/moving-images-and-sound](https://www.archives.gov/research/topics/uaps/moving-images-and-sound)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
 27. <a id="endnote-27"></a>
    Source: prologue.blogs.archives.gov  
    Title: saucers over washington the history of project blue book  
-   Link: [https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/](https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
 
 28. <a id="endnote-28"></a>
    Source: archives.gov  
    Title: textual and microfilm  
-   Link: [https://www.archives.gov/research/topics/uaps/textual-and-microfilm](https://www.archives.gov/research/topics/uaps/textual-and-microfilm)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
 
 29. <a id="endnote-29"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 30. <a id="endnote-30"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 31. <a id="endnote-31"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/presidential-libraries](https://www.archives.gov/research/topics/uaps/presidential-libraries)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
 
 32. <a id="endnote-32"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: project blue book ufos in home movies  
-   Link: [https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/](https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/</a>  
 
 33. <a id="endnote-33"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-collections](https://www.archives.gov/research/topics/uaps/rg-collections)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
 
 34. <a id="endnote-34"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
 35. <a id="endnote-35"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/foia/ufos.html](https://www.archives.gov/foia/ufos.html)  
+   Link: <a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
 
 36. <a id="endnote-36"></a>
    Source: prologue.blogs.archives.gov  
-   Link: [https://prologue.blogs.archives.gov/tag/ufo/](https://prologue.blogs.archives.gov/tag/ufo/)  
+   Link: <a href="https://prologue.blogs.archives.gov/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/tag/ufo/</a>  
 
 37. <a id="endnote-37"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: project blue book looking to the film record  
-   Link: [https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/](https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/</a>  
 
 38. <a id="endnote-38"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/publications](https://www.archives.gov/research/topics/uaps/publications)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/publications" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/publications</a>  
 
 39. <a id="endnote-39"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 40. <a id="endnote-40"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 41. <a id="endnote-41"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/ufo/](https://www.war.gov/ufo/)  
+   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
 42. <a id="endnote-42"></a>
    Source: history.com  
    Title: skinwalker ranch paranormal ufos mutilation  
-   Link: [https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation](https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation)  
+   Link: <a href="https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/skinwalker-ranch-paranormal-ufos-mutilation</a>  
 
 43. <a id="endnote-43"></a>
    Source: history.com  
    Title: Project Blue Book  
-   Link: [https://www.history.com/articles/project-blue-book](https://www.history.com/articles/project-blue-book)  
+   Link: <a href="https://www.history.com/articles/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/project-blue-book</a>  
 
 44. <a id="endnote-44"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: [https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf](https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
 
 45. <a id="endnote-45"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Mww3arniyt0](https://www.youtube.com/watch?v=Mww3arniyt0)  
+   Link: <a href="https://www.youtube.com/watch?v=Mww3arniyt0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Mww3arniyt0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book | Trailer | Watch On SBS On Demand...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: youtube.com  
    Title: Project Blue Book | Trailer | Watch On SBS On Demand  
-   Link: [https://www.youtube.com/watch?v=ApuwmZjHGu4](https://www.youtube.com/watch?v=ApuwmZjHGu4)  
+   Link: <a href="https://www.youtube.com/watch?v=ApuwmZjHGu4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ApuwmZjHGu4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New series: Project Blue Book | Watch Now...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: cowboystatedaily.com  
-   Link: [https://cowboystatedaily.com/2025/01/01/cheyenne-reports-more-ufo-sightings-than-anywhere-else-in-wyoming/](https://cowboystatedaily.com/2025/01/01/cheyenne-reports-more-ufo-sightings-than-anywhere-else-in-wyoming/)  
+   Link: <a href="https://cowboystatedaily.com/2025/01/01/cheyenne-reports-more-ufo-sightings-than-anywhere-else-in-wyoming/" target="_blank" rel="noopener noreferrer nofollow">https://cowboystatedaily.com/2025/01/01/cheyenne-reports-more-ufo-sightings-than-anywhere-else-in-wyoming/</a>  
 
 48. <a id="endnote-48"></a>
    Source: cowboystatedaily.com  
-   Link: [https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-cheyenne-man-still-trying-to-figure-out-what-he-saw/](https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-cheyenne-man-still-trying-to-figure-out-what-he-saw/)  
+   Link: <a href="https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-cheyenne-man-still-trying-to-figure-out-what-he-saw/" target="_blank" rel="noopener noreferrer nofollow">https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-cheyenne-man-still-trying-to-figure-out-what-he-saw/</a>  
 
 49. <a id="endnote-49"></a>
    Source: cowboystatedaily.com  
    Title: Cowboy State Daily Mystery Drones, Or Maybe UFOs, Over Sweetwater County  
-   Link: [https://cowboystatedaily.com/2025/12/15/mystery-drones-or-maybe-ufos-over-sweetwater-county-are-the-new-normal/](https://cowboystatedaily.com/2025/12/15/mystery-drones-or-maybe-ufos-over-sweetwater-county-are-the-new-normal/)  
+   Link: <a href="https://cowboystatedaily.com/2025/12/15/mystery-drones-or-maybe-ufos-over-sweetwater-county-are-the-new-normal/" target="_blank" rel="noopener noreferrer nofollow">https://cowboystatedaily.com/2025/12/15/mystery-drones-or-maybe-ufos-over-sweetwater-county-are-the-new-normal/</a>  
 
 50. <a id="endnote-50"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 51. <a id="endnote-51"></a>
    Source: Wikipedia  
    Title: National UFO Reporting Center  
-   Link: [https://en.wikipedia.org/wiki/National_UFO_Reporting_Center](https://en.wikipedia.org/wiki/National_UFO_Reporting_Center)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_UFO_Reporting_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_UFO_Reporting_Center</a>  
 
 52. <a id="endnote-52"></a>
    Source: public.tableau.com  
    Title: National UFOReporting Center NUFORCdata  
-   Link: [https://public.tableau.com/app/profile/chandler.kaiden/viz/NationalUFOReportingCenterNUFORCdata/NationalUFOReportingCenterNUFORCdata](https://public.tableau.com/app/profile/chandler.kaiden/viz/NationalUFOReportingCenterNUFORCdata/NationalUFOReportingCenterNUFORCdata)  
+   Link: <a href="https://public.tableau.com/app/profile/chandler.kaiden/viz/NationalUFOReportingCenterNUFORCdata/NationalUFOReportingCenterNUFORCdata" target="_blank" rel="noopener noreferrer nofollow">https://public.tableau.com/app/profile/chandler.kaiden/viz/NationalUFOReportingCenterNUFORCdata/NationalUFOReportingCenterNUFORCdata</a>  
 
 53. <a id="endnote-53"></a>
    Source: dronelaunchacademy.com  
-   Link: [https://dronelaunchacademy.com/drone-laws-by-state/wyoming/](https://dronelaunchacademy.com/drone-laws-by-state/wyoming/)  
+   Link: <a href="https://dronelaunchacademy.com/drone-laws-by-state/wyoming/" target="_blank" rel="noopener noreferrer nofollow">https://dronelaunchacademy.com/drone-laws-by-state/wyoming/</a>  
 
 54. <a id="endnote-54"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 55. <a id="endnote-55"></a>
    Source: vetfriends.com  
    Title: 90th missile wing  
-   Link: [https://www.vetfriends.com/branches/air-force/units/90th-missile-wing](https://www.vetfriends.com/branches/air-force/units/90th-missile-wing)  
+   Link: <a href="https://www.vetfriends.com/branches/air-force/units/90th-missile-wing" target="_blank" rel="noopener noreferrer nofollow">https://www.vetfriends.com/branches/air-force/units/90th-missile-wing</a>  
 
 ### Additional References
 
 56. <a id="endnote-56"></a>
    Source: nypost.com  
    Title: New York Post Wyoming power plant booming with suspected UFO, drone sightings  
-   Link: [https://nypost.com/2025/12/18/us-news/wyoming-power-plant-booming-with-suspected-ufo-drone-sightings-but-still-no-answers-after-a-year/](https://nypost.com/2025/12/18/us-news/wyoming-power-plant-booming-with-suspected-ufo-drone-sightings-but-still-no-answers-after-a-year/)  
+   Link: <a href="https://nypost.com/2025/12/18/us-news/wyoming-power-plant-booming-with-suspected-ufo-drone-sightings-but-still-no-answers-after-a-year/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/12/18/us-news/wyoming-power-plant-booming-with-suspected-ufo-drone-sightings-but-still-no-answers-after-a-year/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Similar drone sightings occurred in Niobrara County and other states such as New Jersey, prompting national concern in previous years. Th...</p></details>
 
 57. <a id="endnote-57"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 58. <a id="endnote-58"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/cowboystatedaily/posts/a-cheyenne-attorney-and-his-father-a-former-wyoming-attorney-general-saw-what-th/1425824292893602/](https://www.facebook.com/cowboystatedaily/posts/a-cheyenne-attorney-and-his-father-a-former-wyoming-attorney-general-saw-what-th/1425824292893602/)  
+   Link: <a href="https://www.facebook.com/cowboystatedaily/posts/a-cheyenne-attorney-and-his-father-a-former-wyoming-attorney-general-saw-what-th/1425824292893602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cowboystatedaily/posts/a-cheyenne-attorney-and-his-father-a-former-wyoming-attorney-general-saw-what-th/1425824292893602/</a>  
 
 59. <a id="endnote-59"></a>
    Source: aiaa.org  
-   Link: [https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf](https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf)  
+   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
 
 60. <a id="endnote-60"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/13news/posts/according-to-a-recent-study-led-by-university-of-utah-geographers-the-best-place/790341786463269/](https://www.facebook.com/13news/posts/according-to-a-recent-study-led-by-university-of-utah-geographers-the-best-place/790341786463269/)  
+   Link: <a href="https://www.facebook.com/13news/posts/according-to-a-recent-study-led-by-university-of-utah-geographers-the-best-place/790341786463269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/13news/posts/according-to-a-recent-study-led-by-university-of-utah-geographers-the-best-place/790341786463269/</a>  
 
 61. <a id="endnote-61"></a>
    Source: northernsentry.com  
-   Link: [https://northernsentry.com/2026/05/28/are-ufos-the-real-deal/](https://northernsentry.com/2026/05/28/are-ufos-the-real-deal/)  
+   Link: <a href="https://northernsentry.com/2026/05/28/are-ufos-the-real-deal/" target="_blank" rel="noopener noreferrer nofollow">https://northernsentry.com/2026/05/28/are-ufos-the-real-deal/</a>  
 
 62. <a id="endnote-62"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BroBible/posts/for-more-than-13-months-swarms-of-ufos-have-been-appearing-over-a-wyoming-power-/1331379789029146/](https://www.facebook.com/BroBible/posts/for-more-than-13-months-swarms-of-ufos-have-been-appearing-over-a-wyoming-power-/1331379789029146/)  
+   Link: <a href="https://www.facebook.com/BroBible/posts/for-more-than-13-months-swarms-of-ufos-have-been-appearing-over-a-wyoming-power-/1331379789029146/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BroBible/posts/for-more-than-13-months-swarms-of-ufos-have-been-appearing-over-a-wyoming-power-/1331379789029146/</a>  
 
 63. <a id="endnote-63"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox6news/posts/heres-where-people-are-reporting-the-most-ufo-sightings-in-the-us-according-to-t/953905559656268/](https://www.facebook.com/fox6news/posts/heres-where-people-are-reporting-the-most-ufo-sightings-in-the-us-according-to-t/953905559656268/)  
+   Link: <a href="https://www.facebook.com/fox6news/posts/heres-where-people-are-reporting-the-most-ufo-sightings-in-the-us-according-to-t/953905559656268/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox6news/posts/heres-where-people-are-reporting-the-most-ufo-sightings-in-the-us-according-to-t/953905559656268/</a>  
 
 64. <a id="endnote-64"></a>
    Source: sohp.us  
-   Link: [https://sohp.us/history-of-the-usaf-ufo-programs/8-turning-point.php](https://sohp.us/history-of-the-usaf-ufo-programs/8-turning-point.php)  
+   Link: <a href="https://sohp.us/history-of-the-usaf-ufo-programs/8-turning-point.php" target="_blank" rel="noopener noreferrer nofollow">https://sohp.us/history-of-the-usaf-ufo-programs/8-turning-point.php</a>  
 
 65. <a id="endnote-65"></a>
    Source: jrupprechtlaw.com  
-   Link: [https://jrupprechtlaw.com/section-107-29-operations-at-night/](https://jrupprechtlaw.com/section-107-29-operations-at-night/)  
+   Link: <a href="https://jrupprechtlaw.com/section-107-29-operations-at-night/" target="_blank" rel="noopener noreferrer nofollow">https://jrupprechtlaw.com/section-107-29-operations-at-night/</a>

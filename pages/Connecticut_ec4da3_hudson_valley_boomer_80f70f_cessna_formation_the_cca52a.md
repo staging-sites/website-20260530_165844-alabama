@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /hudson-valley-flap/
 nav_short_title: Flight Theory
 title: Could Small Aircraft Really Explain The Boomerang Sightings?
-title_full: Could Small Aircraft Really Explain The Boomerang Sightings? | Hudson Valley Flap
+title_full: Could Small Aircraft Really Explain The Boomerang Sightings?
 display_title_short: Flight Theory
 display_title: Flight Theory
 heading_title: Could Small Aircraft Really Explain The Boomerang Sightings?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:08:10'
-parent_title: 'Fairfield County UFOs: The Hudson Valley Boomerang Flap | Connecticut UFOs'
+parent_title: 'Fairfield County UFOs: The Hudson Valley Boomerang Flap'
 parent_permalink: /hudson-valley-flap/
 parent_nav_short_title: Hudson Valley Flap
 parent_heading_title: 'Fairfield County UFOs: The Hudson Valley Boomerang Flap'
@@ -250,10 +250,9 @@ image: /assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f_cessna_form
 
 ## Introduction
 
-One of the most persistent explanations for the famous “boomerang” UFO reports seen around Fairfield County during the [Hudson Valley flap]({{ 'hudson-valley-flap/' | relative_url }}) was surprisingly ordinary: small civilian aircraft flying in formation at night. During 1983 and 1984, investigators, police officers and some aviation officials argued that groups of light aircraft — particularly Cessna planes equipped with bright lights — could account for many of the giant V-shaped objects reported over western [Connecticut]({{ 'connecticut-ufos-from-colonial-legends/' | relative_url }}) and neighbouring New York. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
+One of the most persistent explanations for the famous “boomerang” UFO reports seen around Fairfield County during the [Hudson Valley flap]({{ 'hudson-valley-flap/' | relative_url }}) was surprisingly ordinary: small civilian aircraft flying in formation at night. During 1983 and 1984, investigators, police officers and some aviation officials argued that groups of light aircraft — particularly Cessna planes equipped with bright lights — could account for many of the giant V-shaped objects reported over western Connecticut and neighbouring New York. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
 
-
-<img src="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f_cessna_formation_the_cca52a-Illustration-1-light.svg" | relative_url }}" alt="Flight Theory illustration 1" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f_cessna_formation_the_cca52a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f_cessna_formation_the_cca52a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f_cessna_formation_the_cca52a-Illustration-1-dark.svg" | relative_url }}" alt="Flight Theory illustration 1" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f_cessna_formation_the_cca52a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f_cessna_formation_the_cca52a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The theory mattered because the Fairfield County sightings were among the most dramatic in the wider Hudson Valley wave. Witnesses described enormous silent craft hovering above roads, reservoirs and suburban neighbourhoods. If a handful of hobby pilots really could create those impressions, it would offer a powerful example of how night-time perception, distance and coordinated lighting can transform ordinary aircraft into something apparently extraordinary. Yet many witnesses and civilian UFO investigators insisted the explanation only covered part of the flap, not the most puzzling reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black triangle (UFO</span><span class="citation-popover-snippet">Black triangle (UFO</span></span></span>
 
 ## How Pilots Recreated V-Shaped Light Formations
@@ -263,7 +262,6 @@ The central sceptical argument was that multiple aircraft flying close together 
 According to accounts later repeated in newspapers, sceptical investigations and aviation commentary, the pilots used light aircraft such as Cessna 152s fitted with bright landing lights and coloured navigation lights. The aircraft allegedly flew in coordinated formations — V shapes, crescents, diamonds and straight lines — which observers on the ground interpreted as the illuminated edges of one gigantic craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_flap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO flap</span><span class="citation-popover-snippet">UFO flap</span></span></span>
 
 Several factors made the illusion plausible:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -289,7 +287,6 @@ Some pilots interviewed during the flap openly admitted practising formation fly
 
 Sceptics later argued that once media attention intensified, pilots may have deliberately leaned into the UFO mythology. Stories circulated that some of them enjoyed the confusion and jokingly referred to themselves as “Martians”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_flap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO flap</span><span class="citation-popover-snippet">UFO flap</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hzlWWXDXcIw" title="Western Connecticut UFO Conference 2022 - Linda Zimmermann &quot;Hudson Valley Sightings: 40 Years Later&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hzlWWXDXcIw" target="_blank" rel="noopener noreferrer">Western Connecticut UFO Conference 2022 - Linda Zimmermann &quot;Hudson Valley Sightings: 40 Years Later&quot;</a></p><p class="youtube-embed-meta">Channel: Danbury Public Library &middot; Views: 23.0K &middot; Uploaded: October 2022 &middot; Length: 1 hour 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hzlWWXDXcIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hzlWWXDXcIw">Open on YouTube</a></p></div></div></div>
 
 ## Why Many Witnesses Rejected The Aircraft Explanation
@@ -301,7 +298,6 @@ Witnesses repeatedly insisted the objects were silent even when apparently close
 Others claimed they could see a solid dark structure connecting the lights. Some described a triangular or boomerang-shaped body blocking out stars. If accurate, that would be difficult to reconcile with separated aircraft. One witness cited in reporting described a “rigid” triangular form rather than disconnected points of light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_flap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO flap</span><span class="citation-popover-snippet">UFO flap</span></span></span>
 
 There were also reports of unusual motion:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -316,14 +312,12 @@ Sceptics responded that eyewitnesses often misjudge motion at night, particularl
 
 Still, many witnesses remained unconvinced because they believed they observed something physically unified rather than scattered lights.
 
-
-<img src="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f_cessna_formation_the_cca52a-Illustration-2-light.svg" | relative_url }}" alt="Flight Theory illustration 2" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f_cessna_formation_the_cca52a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f_cessna_formation_the_cca52a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f_cessna_formation_the_cca52a-Illustration-2-dark.svg" | relative_url }}" alt="Flight Theory illustration 2" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f_cessna_formation_the_cca52a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f_cessna_formation_the_cca52a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The “Silent Giant” Problem
 
 The strongest challenge to the Cessna theory was probably the repeated claim of total silence. Some sightings in the Fairfield County area allegedly occurred low enough that witnesses expected engine noise but heard nothing beyond insects or wind.
 
 Defenders of the aircraft explanation offered several counterarguments:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -335,7 +329,6 @@ Defenders of the aircraft explanation offered several counterarguments:
 </div>
 
 Even so, silence remained a major dividing line between sceptics and believers. For many residents, the lack of audible engine noise was the reason the sightings felt extraordinary in the first place.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Os2KocEJ7mE" title="Episode 285 - The Hudson Valley UFO Sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Os2KocEJ7mE" target="_blank" rel="noopener noreferrer">Episode 285 - The Hudson Valley UFO Sightings</a></p><p class="youtube-embed-meta">Channel: Chilluminati Podcast &middot; Views: 9.2K &middot; Uploaded: February 2025 &middot; Length: 1 hour 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Os2KocEJ7mE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Os2KocEJ7mE">Open on YouTube</a></p></div></div></div>
 
@@ -349,7 +342,6 @@ Prominent UFO writers including J. Allen Hynek and Philip Imbrogno also resisted
 
 Sceptical writers took the opposite view. Later commentators argued that once the flap gained publicity, expectation and repetition amplified the phenomenon. In this interpretation:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Early aircraft sightings triggered widespread local attention.
@@ -362,13 +354,11 @@ Sceptical writers took the opposite view. Later commentators argued that once th
 
 This explanation fits a classic “UFO flap” pattern, where publicity itself increases reports and encourages reinterpretation of ambiguous sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_flap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO flap</span><span class="citation-popover-snippet">UFO flap</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mHA6Blu_dFY" title="Hudson Valley UFO Sightings Revisited presentation by Michael Schratt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mHA6Blu_dFY" target="_blank" rel="noopener noreferrer">Hudson Valley UFO Sightings Revisited presentation by Michael Schratt</a></p><p class="youtube-embed-meta">Channel: Danbury Public Library &middot; Views: 18.6K &middot; Uploaded: June 2017 &middot; Length: 1 hour 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mHA6Blu_dFY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mHA6Blu_dFY">Open on YouTube</a></p></div></div></div>
 
 ## What The Flight Theory Explains — And What It Does Not
 
 The Cessna formation theory remains the leading conventional explanation for the Fairfield County boomerang sightings because it accounts for several recurring features at once:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -386,8 +376,7 @@ Yet the theory does not fully settle the historical debate. Some witness descrip
 
 That ambiguity is one reason the Hudson Valley flap continues to occupy an unusual place in Connecticut UFO history. Unlike many famous cases, it produced a plausible and technically grounded sceptical explanation while still leaving a residue of disagreement among witnesses, investigators and later commentators. The Fairfield County reports became less a single mystery than a dispute over perception itself: how easily groups of lights in the night sky can become, to different observers, either ordinary aircraft or something far stranger.
 
-
-<img src="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f_cessna_formation_the_cca52a-Illustration-3-light.svg" | relative_url }}" alt="Flight Theory illustration 3" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f_cessna_formation_the_cca52a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f_cessna_formation_the_cca52a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f_cessna_formation_the_cca52a-Illustration-3-dark.svg" | relative_url }}" alt="Flight Theory illustration 3" data-theme-src-dark="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f_cessna_formation_the_cca52a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Connecticut_ec4da3_hudson_valley_boomer_80f70f_cessna_formation_the_cca52a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -811,88 +800,88 @@ That ambiguity is one reason the Hudson Valley flap continues to occupy an unusu
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: 1984 Hudson Valley UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings](https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Black triangle (UFO)  
-   Link: [https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29](https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Black_triangle_%28UFO%29</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO photographs  
-   Link: [https://en.wikipedia.org/wiki/UFO_photographs](https://en.wikipedia.org/wiki/UFO_photographs)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
 
 4. <a id="endnote-4"></a>
    Source: skeptoid.com  
-   Link: [https://skeptoid.com/episodes/598](https://skeptoid.com/episodes/598)  
+   Link: <a href="https://skeptoid.com/episodes/598" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/598</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hudson Valley UFO Mystery21 Nov 2017 — Hundreds of people watched this UFO over the Hudson River Valley many times between 1983 and 1984...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: UFO flap  
-   Link: [https://en.wikipedia.org/wiki/UFO_flap](https://en.wikipedia.org/wiki/UFO_flap)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_flap" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_flap</a>  
 
 6. <a id="endnote-6"></a>
    Source: planeandpilotmag.com  
    Title: ufo swarms of the hudson valley  
-   Link: [https://planeandpilotmag.com/ufo-swarms-of-the-hudson-valley/](https://planeandpilotmag.com/ufo-swarms-of-the-hudson-valley/)  
+   Link: <a href="https://planeandpilotmag.com/ufo-swarms-of-the-hudson-valley/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/ufo-swarms-of-the-hudson-valley/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Plane &amp; Pilot MagazineUFO Swarms Of The Hudson Valley24 Feb 2021 — Mystery. In the 1980s, thousands of witnesses observed an eerily silen...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: sleepyhollowcountry.com  
-   Link: [https://sleepyhollowcountry.com/ufos-invade-tarrytown/](https://sleepyhollowcountry.com/ufos-invade-tarrytown/)  
+   Link: <a href="https://sleepyhollowcountry.com/ufos-invade-tarrytown/" target="_blank" rel="noopener noreferrer nofollow">https://sleepyhollowcountry.com/ufos-invade-tarrytown/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Invade Tarrytown!Throughout the evening residents of Westchester County and the western side of Fairfield County, Connecticut report...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/wczg9n/the_hudson_valley_ufo_sightings/](https://www.reddit.com/r/UnresolvedMysteries/comments/wczg9n/the_hudson_valley_ufo_sightings/)  
+   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/wczg9n/the_hudson_valley_ufo_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/wczg9n/the_hudson_valley_ufo_sightings/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hudson Valley UFO Sightings: r/UnresolvedMysteriesThe explanation given by authorities at the time was that the UFO was in fact ultr...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/thehudsonvalley/posts/4092590704358175/](https://www.facebook.com/groups/thehudsonvalley/posts/4092590704358175/)  
+   Link: <a href="https://www.facebook.com/groups/thehudsonvalley/posts/4092590704358175/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/thehudsonvalley/posts/4092590704358175/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in the Hudson Valley AreaHudson Valley has a distinct history of triangle UFO sightings (rumored name is TR3Bs), dating bac...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
    Title: brewster site of the largest ufo meeting ever held in the ushenry wells middle s  
-   Link: [https://www.facebook.com/SoutheastHistorian/posts/brewster-site-of-the-largest-ufo-meeting-ever-held-in-the-ushenry-wells-middle-s/122196330890229844/](https://www.facebook.com/SoutheastHistorian/posts/brewster-site-of-the-largest-ufo-meeting-ever-held-in-the-ushenry-wells-middle-s/122196330890229844/)  
+   Link: <a href="https://www.facebook.com/SoutheastHistorian/posts/brewster-site-of-the-largest-ufo-meeting-ever-held-in-the-ushenry-wells-middle-s/122196330890229844/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SoutheastHistorian/posts/brewster-site-of-the-largest-ufo-meeting-ever-held-in-the-ushenry-wells-middle-s/122196330890229844/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hudson Valley UFO sightings in 1984... UFOs were ultralight aircraft flying from tiny Stormville airstrip. Those mini-aircraft are noisie...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: thedebrief.org  
    Title: the hudson valley ufos how the media reacted to a 1980s ufo flap  
-   Link: [https://thedebrief.org/the-hudson-valley-ufos-how-the-media-reacted-to-a-1980s-ufo-flap/](https://thedebrief.org/the-hudson-valley-ufos-how-the-media-reacted-to-a-1980s-ufo-flap/)  
+   Link: <a href="https://thedebrief.org/the-hudson-valley-ufos-how-the-media-reacted-to-a-1980s-ufo-flap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-hudson-valley-ufos-how-the-media-reacted-to-a-1980s-ufo-flap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hudson Valley UFOs: How the Media Reacted to a...11 Jul 2022 — Jazz Shaw revisits an odd series of sightings of aerial objects in up...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: discoveryuk.com  
-   Link: [https://www.discoveryuk.com/mysteries/hudson-valley-ufo-americas-ufo-hotspot/](https://www.discoveryuk.com/mysteries/hudson-valley-ufo-americas-ufo-hotspot/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/hudson-valley-ufo-americas-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/hudson-valley-ufo-americas-ufo-hotspot/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hudson Valley UFO: America&#x27;s UFO Hotspot - Discovery UK15 Jan 2026 — Today, most explanations for the Hudson Valley UFO wave fall into th...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=hzlWWXDXcIw](https://www.youtube.com/watch?v=hzlWWXDXcIw)  
+   Link: <a href="https://www.youtube.com/watch?v=hzlWWXDXcIw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hzlWWXDXcIw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hudson Valley UFO Sightings Revisited presentation by Michael Schratt...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: matt-haycox.com  
    Title: Close Encounters of the Fourth Kind  
-   Link: [https://matt-haycox.com/close-encounters-of-the-fourth-kind-ufo-sightings-in-the-hudson-valley-in-1984/](https://matt-haycox.com/close-encounters-of-the-fourth-kind-ufo-sightings-in-the-hudson-valley-in-1984/)  
+   Link: <a href="https://matt-haycox.com/close-encounters-of-the-fourth-kind-ufo-sightings-in-the-hudson-valley-in-1984/" target="_blank" rel="noopener noreferrer nofollow">https://matt-haycox.com/close-encounters-of-the-fourth-kind-ufo-sightings-in-the-hudson-valley-in-1984/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in the...21 May 2021 — It appears that UFO sightings are being taken more seriously now than ever before...</p></details>
    Published: May 2021  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: Have you ever encountered a UFO in the Hudson Valley?SOUND OFF  
-   Link: [https://www.facebook.com/News12HV/posts/sound-off-have-you-ever-encountered-a-ufo-in-the-hudson-valley/10159566378200786/](https://www.facebook.com/News12HV/posts/sound-off-have-you-ever-encountered-a-ufo-in-the-hudson-valley/10159566378200786/)  
+   Link: <a href="https://www.facebook.com/News12HV/posts/sound-off-have-you-ever-encountered-a-ufo-in-the-hudson-valley/10159566378200786/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News12HV/posts/sound-off-have-you-ever-encountered-a-ufo-in-the-hudson-valley/10159566378200786/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Have you ever encountered a UFO in the Hudson Valley?...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Hudson Valley UFO Sightings Revisited presentation by Michael Schratt  
-   Link: [https://www.youtube.com/watch?v=mHA6Blu_dFY](https://www.youtube.com/watch?v=mHA6Blu_dFY)  
+   Link: <a href="https://www.youtube.com/watch?v=mHA6Blu_dFY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mHA6Blu_dFY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Magical Mystery Tour with Michael Schratt...</p></details>

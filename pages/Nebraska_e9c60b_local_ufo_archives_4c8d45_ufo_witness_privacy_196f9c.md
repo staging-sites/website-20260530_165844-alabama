@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /local-archives/
 nav_short_title: Witness privacy
 title: Why Nebraska UFO Witnesses Needed Privacy
-title_full: Why Nebraska UFO Witnesses Needed Privacy | Local Archives
+title_full: Why Nebraska UFO Witnesses Needed Privacy
 display_title_short: Witness privacy
 display_title: Witness privacy
 heading_title: Why Nebraska UFO Witnesses Needed Privacy
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:45:16'
-parent_title: What Nebraska's UFO Archives Can Still Reveal | Nebraska UFOs
+parent_title: What Nebraska's UFO Archives Can Still Reveal
 parent_permalink: /local-archives/
 parent_nav_short_title: Local Archives
 parent_heading_title: What Nebraska's UFO Archives Can Still Reveal
@@ -250,10 +250,9 @@ image: /assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_ufo_witness_priv
 
 ## Introduction
 
-The opening of E. A. “Earl” Kral’s [Nebraska]({{ 'what-really-happened-in-nebraskas-ufo/' | relative_url }}) UFO investigation files after a long privacy restriction highlighted a rarely discussed part of UFO history: many witnesses were willing to describe unusual sightings only if their identities remained protected. In Nebraska, as in much of the United States, fear of ridicule, professional embarrassment and unwanted publicity shaped what investigators could collect, preserve and eventually archive. The delayed release of the Kral material was not simply an administrative decision. It reflected a belief that people who reported strange aerial events needed protection if civilian researchers wanted honest testimony at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nebraskapublicmedia.org">[Nebraska Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nebraskapublicmedia.org</span><span class="citation-popover-title">Nebraska Public Media Flying saucers over the Sandhills?</span><span class="citation-popover-snippet">UFO investigations now...8 May 2026 — Kral&#x27;s files are now available to the public. The materials, donated to the archive at the Univers...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+The opening of E. A. “Earl” Kral’s Nebraska UFO investigation files after a long privacy restriction highlighted a rarely discussed part of UFO history: many witnesses were willing to describe unusual sightings only if their identities remained protected. In Nebraska, as in much of the United States, fear of ridicule, professional embarrassment and unwanted publicity shaped what investigators could collect, preserve and eventually archive. The delayed release of the Kral material was not simply an administrative decision. It reflected a belief that people who reported strange aerial events needed protection if civilian researchers wanted honest testimony at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nebraskapublicmedia.org">[Nebraska Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nebraskapublicmedia.org</span><span class="citation-popover-title">Nebraska Public Media Flying saucers over the Sandhills?</span><span class="citation-popover-snippet">UFO investigations now...8 May 2026 — Kral&#x27;s files are now available to the public. The materials, donated to the archive at the Univers...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-
-<img src="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_ufo_witness_privacy_196f9c-Illustration-1-light.svg" | relative_url }}" alt="Witness privacy illustration 1" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_ufo_witness_privacy_196f9c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_ufo_witness_privacy_196f9c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_ufo_witness_privacy_196f9c-Illustration-1-dark.svg" | relative_url }}" alt="Witness privacy illustration 1" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_ufo_witness_privacy_196f9c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_ufo_witness_privacy_196f9c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That makes witness privacy an important historical issue rather than a side note. The records preserved in Nebraska archives are partly the result of confidentiality agreements, restricted access policies and investigator promises that names would not immediately become public. Those choices affected which reports survived, which details were recorded and how later researchers can evaluate Nebraska's UFO history.
 
 ## Why the Kral Reports Stayed Closed Until 2025
@@ -270,7 +269,6 @@ Third, the delayed opening shows how archival preservation and public transparen
 
 Former Nebraska MUFON figures interviewed about the archive indicated that the decision was viewed as reasonable, reflecting the sensitivity attached to many reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nebraskapublicmedia.org">[Nebraska Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nebraskapublicmedia.org</span><span class="citation-popover-title">Nebraska Public Media Flying saucers over the Sandhills?</span><span class="citation-popover-snippet">UFO investigations now...8 May 2026 — Kral&#x27;s files are now available to the public. The materials, donated to the archive at the Univers...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-GqxWAQ4LgY" title="Why This Nebraska Crop Circle Still Has No Answers | Nebraska Stories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-GqxWAQ4LgY" target="_blank" rel="noopener noreferrer">Why This Nebraska Crop Circle Still Has No Answers | Nebraska Stories</a></p><p class="youtube-embed-meta">Channel: Nebraska Public Media &middot; Views: 23.7K &middot; Uploaded: January 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-GqxWAQ4LgY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-GqxWAQ4LgY">Open on YouTube</a></p></div></div></div>
 
 ## How Stigma Shaped Nebraska UFO Reporting
@@ -280,7 +278,6 @@ The strongest evidence for the importance of privacy is not necessarily found in
 During the late Cold War period, UFO claims carried significant social stigma. Witnesses risked being portrayed as gullible, dishonest or mentally unstable. This problem was not unique to Nebraska, but local conditions could intensify it. In rural communities, social networks were often close-knit, making anonymity difficult once a story became public.
 
 For investigators, this created a practical challenge. If witnesses expected ridicule, the reporting system would become distorted:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -295,8 +292,7 @@ The result is a historical record that may underrepresent the true number of unu
 
 Interestingly, this concern existed even among investigators who were not convinced every report represented something extraordinary. Nebraska Public Media's review of the Kral archive noted that most cases eventually received conventional explanations and only a small number remained unidentified. The desire to protect witnesses therefore was not dependent on belief in extraterrestrial visitation. It was tied to the social consequences of reporting unusual experiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nebraskapublicmedia.org">[Nebraska Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nebraskapublicmedia.org</span><span class="citation-popover-title">Nebraska Public Media Flying saucers over the Sandhills?</span><span class="citation-popover-snippet">UFO investigations now...8 May 2026 — Kral&#x27;s files are now available to the public. The materials, donated to the archive at the Univers...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-
-<img src="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_ufo_witness_privacy_196f9c-Illustration-2-light.svg" | relative_url }}" alt="Witness privacy illustration 2" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_ufo_witness_privacy_196f9c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_ufo_witness_privacy_196f9c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_ufo_witness_privacy_196f9c-Illustration-2-dark.svg" | relative_url }}" alt="Witness privacy illustration 2" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_ufo_witness_privacy_196f9c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_ufo_witness_privacy_196f9c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Investigator's Dilemma: Verification Versus Protection
 
 Privacy also complicated the question of credibility.
@@ -308,7 +304,6 @@ Nebraska investigators faced the same dilemma seen in national UFO research prog
 The [Kral files]({{ 'kral-files/' | relative_url }}) appear to show an attempt to balance these competing needs. Reports were documented systematically, often using standardised forms and follow-up correspondence, while long-term public access remained restricted. This approach allowed investigators to preserve evidence internally while delaying wider exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nebraskapublicmedia.org">[Nebraska Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nebraskapublicmedia.org</span><span class="citation-popover-title">Nebraska Public Media Flying saucers over the Sandhills?</span><span class="citation-popover-snippet">UFO investigations now...8 May 2026 — Kral&#x27;s files are now available to the public. The materials, donated to the archive at the Univers...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 For historians, this creates an unusual situation. The existence of confidential files may increase confidence that some reports were gathered seriously and contemporaneously. Yet privacy restrictions can also limit independent verification because outside researchers cannot immediately examine every identifying detail.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8OzqxxSyMjI" title="Exploring Nebraska&#x27;s Weird Folklore: Myths and Legends of the United States" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8OzqxxSyMjI" target="_blank" rel="noopener noreferrer">Exploring Nebraska&#x27;s Weird Folklore: Myths and Legends of the United States</a></p><p class="youtube-embed-meta">Channel: T’s Storytime &middot; Views: 45.8K &middot; Uploaded: April 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8OzqxxSyMjI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8OzqxxSyMjI">Open on YouTube</a></p></div></div></div>
 
@@ -322,8 +317,7 @@ Three consequences stand out.
 
 Without privacy guarantees, many witnesses might never have contacted investigators. The archive's existence may therefore depend partly on the protections attached to it. This means that privacy was not merely a barrier to research; it was one reason the material was collected in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nebraskapublicmedia.org">[Nebraska Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nebraskapublicmedia.org</span><span class="citation-popover-title">Nebraska Public Media Flying saucers over the Sandhills?</span><span class="citation-popover-snippet">UFO investigations now...8 May 2026 — Kral&#x27;s files are now available to the public. The materials, donated to the archive at the Univers...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-
-<img src="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_ufo_witness_privacy_196f9c-Illustration-3-light.svg" | relative_url }}" alt="Witness privacy illustration 3" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_ufo_witness_privacy_196f9c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_ufo_witness_privacy_196f9c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_ufo_witness_privacy_196f9c-Illustration-3-dark.svg" | relative_url }}" alt="Witness privacy illustration 3" data-theme-src-dark="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_ufo_witness_privacy_196f9c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nebraska_e9c60b_local_ufo_archives_4c8d45_ufo_witness_privacy_196f9c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The archive reflects reporting culture as much as sightings
 
 The files document more than strange lights in the sky. They also preserve evidence of how Nebraskans reacted to social pressure, scepticism and public embarrassment. The records reveal the environment in which witnesses made decisions about whether to speak.
@@ -340,9 +334,7 @@ Whether a report ultimately turns out to be a planet, aircraft, atmospheric effe
 
 For that reason, witness privacy is not just an archival policy. In Nebraska's UFO history, it was one of the mechanisms that determined which stories entered the record and which disappeared before investigators could examine them. The long-sealed Kral files demonstrate that preserving UFO history sometimes required protecting the people who created it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nebraskapublicmedia.org">[Nebraska Public Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nebraskapublicmedia.org</span><span class="citation-popover-title">Nebraska Public Media Flying saucers over the Sandhills?</span><span class="citation-popover-snippet">UFO investigations now...8 May 2026 — Kral&#x27;s files are now available to the public. The materials, donated to the archive at the Univers...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yVWV500bke0" title="UFOs, Monsters and Other Nebraska Oddities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yVWV500bke0" target="_blank" rel="noopener noreferrer">UFOs, Monsters and Other Nebraska Oddities</a></p><p class="youtube-embed-meta">Channel: Nebraska State Historical Society &middot; Views: 17.1K &middot; Uploaded: December 2013 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yVWV500bke0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yVWV500bke0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -430,7 +422,7 @@ For that reason, witness privacy is not just an archival policy. In Nebraska's U
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -440,111 +432,36 @@ For that reason, witness privacy is not just an archival policy. In Nebraska's U
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -552,15 +469,15 @@ For that reason, witness privacy is not just an archival policy. In Nebraska's U
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/o-YAAOSwKopk5fnY/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -568,15 +485,15 @@ For that reason, witness privacy is not just an archival policy. In Nebraska's U
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -584,15 +501,15 @@ For that reason, witness privacy is not just an archival policy. In Nebraska's U
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -600,7 +517,7 @@ For that reason, witness privacy is not just an archival policy. In Nebraska's U
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-privacy-why-nebraska-ufo-witnesses-needed-privacy-nebraska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-nebraska-ufo-witnesses-needed-privacy-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -677,17 +594,31 @@ For that reason, witness privacy is not just an archival policy. In Nebraska's U
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -700,42 +631,73 @@ For that reason, witness privacy is not just an archival policy. In Nebraska's U
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -750,12 +712,17 @@ For that reason, witness privacy is not just an archival policy. In Nebraska's U
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -766,95 +733,95 @@ For that reason, witness privacy is not just an archival policy. In Nebraska's U
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — 25 Jun 2024 — Finding aids for these records include a...</p></details>
    Published: August 15, 2016  
 
 2. <a id="endnote-2"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: [https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/](https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial release of new, neve...</p></details>
    Published: May 2026  
 
 3. <a id="endnote-3"></a>
    Source: nebraskapublicmedia.org  
    Title: Nebraska Public Media Flying saucers over the Sandhills?  
-   Link: [https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/](https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/)  
+   Link: <a href="https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/" target="_blank" rel="noopener noreferrer nofollow">https://nebraskapublicmedia.org/en/news/news-articles/flying-saucers-over-the-sandhills-ufo-investigations-now-public-in-university-of-nebraska-archives/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO investigations now...8 May 2026 — Kral&#x27;s files are now available to the public. The materials, donated to the archive at the Univers...</p></details>
    Published: May 2026  
 
 4. <a id="endnote-4"></a>
    Source: mediaplayer.whro.org  
-   Link: [https://mediaplayer.whro.org/program/radiolab/archive](https://mediaplayer.whro.org/program/radiolab/archive)  
+   Link: <a href="https://mediaplayer.whro.org/program/radiolab/archive" target="_blank" rel="noopener noreferrer nofollow">https://mediaplayer.whro.org/program/radiolab/archive</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHRO is Hampton Roads&#x27; local NPR / PBS Station. Dedicated to enhancing the lives of the citizens in the communities it serves by respondi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/Politics/pentagon-begins-release-decades-unresolved-ufo-files/story?id=132780534](https://abcnews.com/Politics/pentagon-begins-release-decades-unresolved-ufo-files/story?id=132780534)  
+   Link: <a href="https://abcnews.com/Politics/pentagon-begins-release-decades-unresolved-ufo-files/story?id=132780534" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/pentagon-begins-release-decades-unresolved-ufo-files/story?id=132780534</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases declassified UFO files from various...8 May 2026 — The Pentagon on Friday released declassified UFO files from various...</p></details>
    Published: May 2026  
 
 6. <a id="endnote-6"></a>
    Source: media.nationalarchives.gov.uk  
-   Link: [https://media.nationalarchives.gov.uk/index.php/ufo-files-released-in-july-2012/](https://media.nationalarchives.gov.uk/index.php/ufo-files-released-in-july-2012/)  
+   Link: <a href="https://media.nationalarchives.gov.uk/index.php/ufo-files-released-in-july-2012/" target="_blank" rel="noopener noreferrer nofollow">https://media.nationalarchives.gov.uk/index.php/ufo-files-released-in-july-2012/</a>  
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: marcsoucymusic.blog  
-   Link: [https://marcsoucymusic.blog/7en6dq60wi](https://marcsoucymusic.blog/7en6dq60wi)  
+   Link: <a href="https://marcsoucymusic.blog/7en6dq60wi" target="_blank" rel="noopener noreferrer nofollow">https://marcsoucymusic.blog/7en6dq60wi</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>johanna matintalo nude Updated Media ContentAfter Kral stepped away from MUFON, he told a reporter with the Omaha World-Herald that inves...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: available for record store day 2026tv girl the night in question french exit out  
-   Link: [https://www.facebook.com/allmediasupply/posts/available-for-record-store-day-2026tv-girl-the-night-in-question-french-exit-out/913244261201966/](https://www.facebook.com/allmediasupply/posts/available-for-record-store-day-2026tv-girl-the-night-in-question-french-exit-out/913244261201966/)  
+   Link: <a href="https://www.facebook.com/allmediasupply/posts/available-for-record-store-day-2026tv-girl-the-night-in-question-french-exit-out/913244261201966/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/allmediasupply/posts/available-for-record-store-day-2026tv-girl-the-night-in-question-french-exit-out/913244261201966/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TV Girl: &quot;The Night...A collection of unfinished songs considered and abandoned during the legendary &quot;French Exit&quot; sessions. Lightly mas...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: govinfo.gov  
    Title: CRECB 2000 pt7 issue 2000 06 06  
-   Link: [https://www.govinfo.gov/content/pkg/CRECB-2000-pt7/html/CRECB-2000-pt7-issue-2000-06-06.htm](https://www.govinfo.gov/content/pkg/CRECB-2000-pt7/html/CRECB-2000-pt7-issue-2000-06-06.htm)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/CRECB-2000-pt7/html/CRECB-2000-pt7-issue-2000-06-06.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CRECB-2000-pt7/html/CRECB-2000-pt7-issue-2000-06-06.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nebraska but in the State of Nebraska is an effort and an organization known as STRATCOM. STRATCOM&#x27;s entire mission is to operate the str...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nlp.biu.ac.il  
-   Link: [https://nlp.biu.ac.il/~ravfogs/resources/embeddings-alignment/glove_vocab.250k.txt](https://nlp.biu.ac.il/~ravfogs/resources/embeddings-alignment/glove_vocab.250k.txt)  
+   Link: <a href="https://nlp.biu.ac.il/~ravfogs/resources/embeddings-alignment/glove_vocab.250k.txt" target="_blank" rel="noopener noreferrer nofollow">https://nlp.biu.ac.il/~ravfogs/resources/embeddings-alignment/glove_vocab.250k.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rojects break edition dead apr cancer skills...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nludelhi.ac.in  
-   Link: [https://nludelhi.ac.in/download/library/a-zebooks.pdf?OBW9L8Zxw6os1=S2rBfaHHZRcLxx](https://nludelhi.ac.in/download/library/a-zebooks.pdf?OBW9L8Zxw6os1=S2rBfaHHZRcLxx)  
+   Link: <a href="https://nludelhi.ac.in/download/library/a-zebooks.pdf?OBW9L8Zxw6os1=S2rBfaHHZRcLxx" target="_blank" rel="noopener noreferrer nofollow">https://nludelhi.ac.in/download/library/a-zebooks.pdf?OBW9L8Zxw6os1=S2rBfaHHZRcLxx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>y and Terrorism. Davis, Paul K.; O&#x27;Mahony...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: mlc-wels.edu  
    Title: 2016 17 Catalog Website 10.25.2016  
-   Link: [https://mlc-wels.edu/undergraduate-catalog/wp-content/uploads/sites/27/2016/10/2016-17-Catalog-Website-10.25.2016.pdf](https://mlc-wels.edu/undergraduate-catalog/wp-content/uploads/sites/27/2016/10/2016-17-Catalog-Website-10.25.2016.pdf)  
+   Link: <a href="https://mlc-wels.edu/undergraduate-catalog/wp-content/uploads/sites/27/2016/10/2016-17-Catalog-Website-10.25.2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mlc-wels.edu/undergraduate-catalog/wp-content/uploads/sites/27/2016/10/2016-17-Catalog-Website-10.25.2016.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Table of ContentsENG3330 Film and Mass Media Literacy. 3 credits. A critical overview of the rhetorical uses and impact of film and mass...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: cbsnews.com  
    Title: pentagon begins release ufo files  
-   Link: [https://www.cbsnews.com/news/pentagon-begins-release-ufo-files/](https://www.cbsnews.com/news/pentagon-begins-release-ufo-files/)  
+   Link: <a href="https://www.cbsnews.com/news/pentagon-begins-release-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-begins-release-ufo-files/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon begins releasing new UFO files, unveiling...8 May 2026 — The documents contain eyewitness testimony, photos and reports of sigh...</p></details>
    Published: May 2026  
 
 14. <a id="endnote-14"></a>
    Source: wired.com  
    Title: pentagon drops new ufo files  
-   Link: [https://www.wired.com/story/pentagon-drops-new-ufo-files/](https://www.wired.com/story/pentagon-drops-new-ufo-files/)  
+   Link: <a href="https://www.wired.com/story/pentagon-drops-new-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/pentagon-drops-new-ufo-files/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 — The Defense Department has released a new trove of declassified documents about government UFO sightings. Image may contain...</p></details>
    Published: May 2026  
 
 15. <a id="endnote-15"></a>
    Source: calameo.com  
-   Link: [https://www.calameo.com/books/00000925617407f4d5786](https://www.calameo.com/books/00000925617407f4d5786)  
+   Link: <a href="https://www.calameo.com/books/00000925617407f4d5786" target="_blank" rel="noopener noreferrer nofollow">https://www.calameo.com/books/00000925617407f4d5786</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>KC STUDIO MARCH/APRIL 202316 Apr 2023 — This special offering features pencil signed lithographs inspired by the artist&#x27;s love of America...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: chss.gmu.edu  
    Title: faculty publications  
-   Link: [https://chss.gmu.edu/research/faculty-publications](https://chss.gmu.edu/research/faculty-publications)  
+   Link: <a href="https://chss.gmu.edu/research/faculty-publications" target="_blank" rel="noopener noreferrer nofollow">https://chss.gmu.edu/research/faculty-publications</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research Interests &amp; PublicationsResearch Interests: Psychosocial aspects of adapting to chronic disease and/or traumatic injury; HIV ris...</p></details>

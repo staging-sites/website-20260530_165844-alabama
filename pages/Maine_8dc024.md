@@ -76,9 +76,9 @@ heading_title: What Makes Maine a Hotspot for UFO Sightings?
 page_heading_title: What Makes Maine a Hotspot for UFO Sightings?
 source_count: 44
 infographic_count: 3
-page_website_name: MaineUFOs
+page_website_name: Maine UFOs
 page_banner_line: Exploring Maine's most intriguing UFO sightings and reports
-site_website_name: MaineUFOs
+site_website_name: Maine UFOs
 site_banner_line: Exploring Maine's most intriguing UFO sightings and reports
 site_image_description: A clear night sky over Maine's forested wilderness with a bright, unidentified light hovering above a lake, reflected in the water.
 output_language: English
@@ -262,7 +262,7 @@ sibling_links:
   short_title: Michigan UFOs
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Alabama_d1f92d
   title: Alabama UFOs
@@ -277,9 +277,9 @@ sibling_links:
   permalink: /what-keeps-tennessees-ufo-stories-alive/
   short_title: Tennessee UFOs
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Idaho_18334c
   title: Idaho UFOs
   permalink: /what-makes-idaho-a-key-ufo-hotspot/
@@ -481,24 +481,21 @@ image: /assets/images/Maine_8dc024-overview-social.jpg
 
 Sightings in Maine have been recorded in databases such as the National UFO Reporting Center (NUFORC) and by local investigative groups. These reports span several decades and vary greatly in description and reliability. NUFORC’s publicly accessible data lists numerous sightings from across the state, including recent entries describing unusual lights, silent aerial objects or triangular shapes reported at night — for example, a March 2025 report from Freeport described a silent, triangular object with red lights, seen outside normal flight paths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoindex.com/maine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[UFO Index]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">UFO Index Maine UFO Reports</span><span class="citation-popover-snippet">UFO IndexMaine UFO Reports - Latest UFO Sightings in Maine...</span></span></span>
 
-
 <img src="{{ "/assets/images/Maine_8dc024-overview.webp" | relative_url }}" alt="Overview image for What Makes Maine a Hotspot for UFO..." loading="eager" decoding="sync" fetchpriority="high">
 Analyses of long‑term reporting place Maine above the national average on sightings [per capita]({{ 'per-capita/' | relative_url }}). One recent summary suggested roughly one report for every 1 358 residents, indicating a relatively high incidence compared with other states; Maine’s clear night skies and coastal and inland observation points are often cited as contributing factors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://countryherald.com/news/maine-u-s-ufo-rate-at-1-in-1358-residents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countryherald.com">[Country Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countryherald.com</span><span class="citation-popover-title">Country Herald Maine, U.S. – UFO Rate at 1 in 1,358 Residents</span><span class="citation-popover-snippet">Country HeraldMaine, U.S. – UFO Rate at 1 in 1,358 Residents - Country Herald...</span></span></span>
 
 Sightings are not confined to a single part of the state. Reports in 2024, for instance, included towns such as Eastport, Portland, Boothbay and Waterboro, hinting at a broad geographic spread rather than a single “hotspot”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://1019therock.com/maine-ufos-reported-sightings-2024/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: 1019therock.com">[101.9 The Rock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">1019therock.com</span><span class="citation-popover-title">maine ufos reported sightings 2024</span><span class="citation-popover-snippet">101.9 The RockHere&#x27;s Where the 30 UFO Sightings Were in Maine in 2024December 10, 2024...</span><span class="citation-popover-meta">Published: December 10, 2024</span></span></span>
 
-Unofficial local reporting and social media narratives sometimes add colour to this picture, with anecdotal accounts shared by residents from Bangor or other rural areas describing fast‑moving lights or unexpected aerial behaviour. However, such anecdotal sources lack verification and are susceptible to misidentification of conventional aircraft, satellites (including Starlink trains), astronomical objects, or optical illusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Maine/comments/17uo38u" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Maine carrying the Eastern US in UFO sightings</span><span class="citation-popover-snippet">RedditMaine carrying the Eastern US in UFO sightingsNovember 13, 2023...</span><span class="citation-popover-meta">Published: November 13, 2023</span></span></span>
+Unofficial local reporting and social media narratives sometimes add colour to this picture, with anecdotal accounts shared by residents from Bangor or other rural areas describing fast‑moving lights or unexpected aerial behaviour. However, such anecdotal sources lack verification and are susceptible to misidentification of conventional aircraft, satellites (including Starlink trains), astronomical objects, or optical illusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Maine/comments/17uo38u" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Maine carrying the Eastern US in UFO sightings</span><span class="citation-popover-snippet">Maine carrying the Eastern US in UFO sightingsNovember 13, 2023...</span><span class="citation-popover-meta">Published: November 13, 2023</span></span></span>
 
-
-<img src="{{ "/assets/images/Maine_8dc024-Illustration-1-light.svg" | relative_url }}" alt="What Makes Maine a Hotspot for UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Maine_8dc024-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maine_8dc024-Illustration-1-dark.svg" | relative_url }}" alt="What Makes Maine a Hotspot for UFO... illustration 1" data-theme-src-dark="{{ "/assets/images/Maine_8dc024-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Allagash Wilderness Case: A Notable Incident
 
-Among Maine’s UFO‑related episodes, the “[Allagash Abductions]({{ 'allagash-case/' | relative_url }})” of 1976 is arguably the most prominent and most controversial. Four friends — brothers Jack and Jim Weiner, Chuck Rak and Charlie Foltz — on a camping trip in the remote Allagash Wilderness Waterway reported seeing a bright object in the night sky above Eagle Lake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/articles/podcast-allagash-abductions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura The Allagash Abductions: This State Park&#x27;s Most Famous</span><span class="citation-popover-snippet">In 1976, four men saw a UFO while visiting the Allagash Wilderness Waterway. A decade later they started remembering more details.Read more...</span></span></span>
+Among Maine’s UFO‑related episodes, the “Allagash Abductions” of 1976 is arguably the most prominent and most controversial. Four friends — brothers Jack and Jim Weiner, Chuck Rak and Charlie Foltz — on a camping trip in the remote Allagash Wilderness Waterway reported seeing a bright object in the night sky above Eagle Lake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/articles/podcast-allagash-abductions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura The Allagash Abductions: This State Park&#x27;s Most Famous</span><span class="citation-popover-snippet">In 1976, four men saw a UFO while visiting the Allagash Wilderness Waterway. A decade later they started remembering more details.Read more...</span></span></span>
 
 According to their accounts, shortly after a bonfire and night fishing, an intensely bright sphere of coloured light hovered and appeared to shine a beam across the water. They claimed to have experienced “lost time” and, years later, underwent hypnotic regression sessions in which all four described being taken aboard a craft and subjected to examinations by non‑human beings. UFO author Raymond E. Fowler investigated the case and published their narrative in a 1993 book, noting that the men passed polygraph tests and produced consistent sketches of their memories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/articles/podcast-allagash-abductions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura The Allagash Abductions: This State Park&#x27;s Most Famous</span><span class="citation-popover-snippet">In 1976, four men saw a UFO while visiting the Allagash Wilderness Waterway. A decade later they started remembering more details.Read more...</span></span></span>
 
 Despite its notoriety, the [Allagash case]({{ 'allagash-case/' | relative_url }}) remains unresolved and highly contested. Skeptics have argued that regressive hypnosis is an unreliable method for establishing historical reality, susceptible to suggestion and cultural imagery common in science fiction. In 2016, co‑witness Chuck Rak publicly stated that although he and the others saw strange lights, the more dramatic elements of the abduction story were exaggerated or fabricated for personal and financial reasons. Other participants have defended their accounts; no physical evidence beyond their testimony exists to substantiate extraterrestrial involvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mysterydelver.com/aliens-at-allagash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mysterydelver.com">[The Mystery Delver]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mysterydelver.com</span><span class="citation-popover-title">The Mystery Delver Aghast at Allagash</span><span class="citation-popover-snippet">The Mystery DelverAghast at AllagashAugust 6, 2023 — 6 Aug 2023 — UFO researcher Ray Fowler was convinced the men had been abducted by al...</span><span class="citation-popover-meta">Published: August 6, 2023</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lpu7gZnKfK4" title="The Allagash Encounter: A TERRIFYING UFO Abduction Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lpu7gZnKfK4" target="_blank" rel="noopener noreferrer">The Allagash Encounter: A TERRIFYING UFO Abduction Story</a></p><p class="youtube-embed-meta">Channel: Scary Mysteries &middot; Views: 256.6K &middot; Uploaded: March 2024 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lpu7gZnKfK4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lpu7gZnKfK4">Open on YouTube</a></p></div></div></div>
 
@@ -508,17 +505,14 @@ Maine sightings, like those elsewhere in the U.S., are generally collected by ci
 
 At the federal level, recent attention to UAPs by the U.S. Department of Defense and intelligence agencies has produced declassified reports and acknowledgement of unidentified phenomena without confirming any extraterrestrial hypothesis. These broader investigations focus on aerial safety and sensor data interpretation, emphasising that many unexplained cases likely have prosaic explanations once better data is available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">Department of Defense released a second batch of UFO-related files, bringing the total number of newly declassified documents to 162. Spa...</span></span></span>
 
-
-<img src="{{ "/assets/images/Maine_8dc024-Illustration-2-light.svg" | relative_url }}" alt="What Makes Maine a Hotspot for UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Maine_8dc024-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maine_8dc024-Illustration-2-dark.svg" | relative_url }}" alt="What Makes Maine a Hotspot for UFO... illustration 2" data-theme-src-dark="{{ "/assets/images/Maine_8dc024-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sceptical Perspectives and Explanations
 
 Most reported sightings in Maine, as in other states, can be plausibly explained by known phenomena. Atmospheric effects, aircraft, satellites, meteors, and astronomical bodies often account for bright lights or unusual movement patterns perceived by observers. Constellations of satellites, particularly from large megaconstellations, are now frequently misidentified as mysterious airborne objects in low‑light conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://countryherald.com/news/maine-u-s-ufo-rate-at-1-in-1358-residents/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: countryherald.com">[Country Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">countryherald.com</span><span class="citation-popover-title">Country Herald Maine, U.S. – UFO Rate at 1 in 1,358 Residents</span><span class="citation-popover-snippet">Country HeraldMaine, U.S. – UFO Rate at 1 in 1,358 Residents - Country Herald...</span></span></span>
 
 Psychological and cultural factors also shape how people interpret ambiguous visual stimuli. In high‑attention environments or during periods of increased media interest in UAPs, reports can rise as ordinary phenomena are framed through an extraterrestrial lens. The Allagash incident illustrates this interplay clearly — where initial sighting reports became entwined with hypnotic recollections and later contested narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mysterydelver.com/aliens-at-allagash/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mysterydelver.com">[The Mystery Delver]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mysterydelver.com</span><span class="citation-popover-title">The Mystery Delver Aghast at Allagash</span><span class="citation-popover-snippet">The Mystery DelverAghast at AllagashAugust 6, 2023 — 6 Aug 2023 — UFO researcher Ray Fowler was convinced the men had been abducted by al...</span><span class="citation-popover-meta">Published: August 6, 2023</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0_7gUUI1Cm0" title="Maine one of states with most UFO sightings, analysis finds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0_7gUUI1Cm0" target="_blank" rel="noopener noreferrer">Maine one of states with most UFO sightings, analysis finds</a></p><p class="youtube-embed-meta">Channel: WMTW-TV &middot; Views: 4.7K &middot; Uploaded: June 2019 &middot; Length: 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0_7gUUI1Cm0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0_7gUUI1Cm0">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qa9ZiG2mgaY" title="UFO sightings in Maine are &#x27;way up&#x27; despite official count, says expert" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qa9ZiG2mgaY" target="_blank" rel="noopener noreferrer">UFO sightings in Maine are &#x27;way up&#x27; despite official count, says expert</a></p><p class="youtube-embed-meta">Channel: CBS 13 News &middot; Views: 3.8K &middot; Uploaded: January 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qa9ZiG2mgaY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qa9ZiG2mgaY">Open on YouTube</a></p></div></div></div>
 
@@ -526,8 +520,7 @@ Psychological and cultural factors also shape how people interpret ambiguous vis
 
 Maine’s UFO history reflects a rich tapestry of sightings reported by residents and visitors over many decades. From everyday unexplained lights in the sky to one of the nation’s best‑known alleged abduction stories, the state provides an illustrative case study of how human observation, environmental context, and cultural narratives intersect in the phenomenology of unidentified aerial phenomena. While no conclusive evidence supports extraterrestrial origin for any Maine sighting, the documented reports and debates highlight the importance of careful investigation, [sceptical analysis]({{ 'sceptical-analysis/' | relative_url }}) and an understanding of both atmospheric science and human perception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoindex.com/maine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoindex.com">[UFO Index]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoindex.com</span><span class="citation-popover-title">UFO Index Maine UFO Reports</span><span class="citation-popover-snippet">UFO IndexMaine UFO Reports - Latest UFO Sightings in Maine...</span></span></span>
 
-
-<img src="{{ "/assets/images/Maine_8dc024-Illustration-3-light.svg" | relative_url }}" alt="What Makes Maine a Hotspot for UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Maine_8dc024-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maine_8dc024-Illustration-3-dark.svg" | relative_url }}" alt="What Makes Maine a Hotspot for UFO... illustration 3" data-theme-src-dark="{{ "/assets/images/Maine_8dc024-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -615,7 +608,7 @@ Maine’s UFO history reflects a rich tapestry of sightings reported by resident
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -625,111 +618,36 @@ Maine’s UFO history reflects a rich tapestry of sightings reported by resident
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -737,15 +655,15 @@ Maine’s UFO history reflects a rich tapestry of sightings reported by resident
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -753,15 +671,15 @@ Maine’s UFO history reflects a rich tapestry of sightings reported by resident
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -769,15 +687,15 @@ Maine’s UFO history reflects a rich tapestry of sightings reported by resident
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -785,7 +703,7 @@ Maine’s UFO history reflects a rich tapestry of sightings reported by resident
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-what-makes-maine-a-hotspot-for-ufo-sightings-maine-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-makes-maine-a-hotspot-for-ufo-sightings-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -862,17 +780,31 @@ Maine’s UFO history reflects a rich tapestry of sightings reported by resident
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -885,42 +817,73 @@ Maine’s UFO history reflects a rich tapestry of sightings reported by resident
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -935,12 +898,17 @@ Maine’s UFO history reflects a rich tapestry of sightings reported by resident
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -951,132 +919,132 @@ Maine’s UFO history reflects a rich tapestry of sightings reported by resident
 1. <a id="endnote-1"></a>
    Source: 1019therock.com  
    Title: maine ufos reported sightings 2024  
-   Link: [https://1019therock.com/maine-ufos-reported-sightings-2024/](https://1019therock.com/maine-ufos-reported-sightings-2024/)  
+   Link: <a href="https://1019therock.com/maine-ufos-reported-sightings-2024/" target="_blank" rel="noopener noreferrer nofollow">https://1019therock.com/maine-ufos-reported-sightings-2024/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>101.9 The RockHere&#x27;s Where the 30 UFO Sightings Were in Maine in 2024December 10, 2024...</p></details>
    Published: December 10, 2024  
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
    Title: Maine carrying the Eastern US in UFO sightings  
-   Link: [https://www.reddit.com/r/Maine/comments/17uo38u](https://www.reddit.com/r/Maine/comments/17uo38u)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditMaine carrying the Eastern US in UFO sightingsNovember 13, 2023...</p></details>
+   Link: <a href="https://www.reddit.com/r/Maine/comments/17uo38u" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Maine/comments/17uo38u</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Maine carrying the Eastern US in UFO sightingsNovember 13, 2023...</p></details>
    Published: November 13, 2023  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: For 25 years, it ha  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</p></details>
    Published: September 6, 2021  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: in 1976 four men witnessed a ufo while visiting  
-   Link: [https://www.reddit.com/r/UrbanMyths/comments/1loc5nj/in_1976_four_men_witnessed_a_ufo_while_visiting/](https://www.reddit.com/r/UrbanMyths/comments/1loc5nj/in_1976_four_men_witnessed_a_ufo_while_visiting/)  
+   Link: <a href="https://www.reddit.com/r/UrbanMyths/comments/1loc5nj/in_1976_four_men_witnessed_a_ufo_while_visiting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UrbanMyths/comments/1loc5nj/in_1976_four_men_witnessed_a_ufo_while_visiting/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1976, four men witnessed a UFO while visiting the...... 1976 Allagash UFO encounter &amp; abduction experience · r/aliens - Jim Weiner an...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ufoindex.com  
    Title: UFO Index [Maine UFO Reports](&#123;&#123; 'per-capita/' | relative_url &#125;&#125;)  
-   Link: [https://www.ufoindex.com/maine](https://www.ufoindex.com/maine)  
+   Link: <a href="https://www.ufoindex.com/maine" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/maine</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO IndexMaine UFO Reports - Latest UFO Sightings in Maine...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: countryherald.com  
    Title: Country Herald Maine, U.S. – UFO Rate at 1 in 1,358 Residents  
-   Link: [https://countryherald.com/news/maine-u-s-ufo-rate-at-1-in-1358-residents/](https://countryherald.com/news/maine-u-s-ufo-rate-at-1-in-1358-residents/)  
+   Link: <a href="https://countryherald.com/news/maine-u-s-ufo-rate-at-1-in-1358-residents/" target="_blank" rel="noopener noreferrer nofollow">https://countryherald.com/news/maine-u-s-ufo-rate-at-1-in-1358-residents/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Country HeraldMaine, U.S. – UFO Rate at 1 in 1,358 Residents - Country Herald...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: atlasobscura.com  
    Title: Atlas Obscura The Allagash Abductions: This State Park's Most Famous  
-   Link: [https://www.atlasobscura.com/articles/podcast-allagash-abductions](https://www.atlasobscura.com/articles/podcast-allagash-abductions)  
+   Link: <a href="https://www.atlasobscura.com/articles/podcast-allagash-abductions" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/articles/podcast-allagash-abductions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1976, four men saw a UFO while visiting the Allagash Wilderness Waterway. A decade later they started remembering more details.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Raymond E. Fowler  
-   Link: [https://en.wikipedia.org/wiki/Raymond_E._Fowler](https://en.wikipedia.org/wiki/Raymond_E._Fowler)  
+   Link: <a href="https://en.wikipedia.org/wiki/Raymond_E._Fowler" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Raymond_E._Fowler</a>  
 
 9. <a id="endnote-9"></a>
    Source: mysterydelver.com  
    Title: The Mystery Delver Aghast at Allagash  
-   Link: [https://mysterydelver.com/aliens-at-allagash/](https://mysterydelver.com/aliens-at-allagash/)  
+   Link: <a href="https://mysterydelver.com/aliens-at-allagash/" target="_blank" rel="noopener noreferrer nofollow">https://mysterydelver.com/aliens-at-allagash/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery DelverAghast at AllagashAugust 6, 2023 — 6 Aug 2023 — UFO researcher Ray Fowler was convinced the men had been abducted by al...</p></details>
    Published: August 6, 2023  
 
 10. <a id="endnote-10"></a>
    Source: mainepublic.org  
-   Link: [https://www.mainepublic.org/maine/2021-06-28/its-a-big-step-maine-ufo-enthusiasts-react-to-congressional-report](https://www.mainepublic.org/maine/2021-06-28/its-a-big-step-maine-ufo-enthusiasts-react-to-congressional-report)  
+   Link: <a href="https://www.mainepublic.org/maine/2021-06-28/its-a-big-step-maine-ufo-enthusiasts-react-to-congressional-report" target="_blank" rel="noopener noreferrer nofollow">https://www.mainepublic.org/maine/2021-06-28/its-a-big-step-maine-ufo-enthusiasts-react-to-congressional-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 28, 2021...</p></details>
    Published: June 28, 2021  
 
 11. <a id="endnote-11"></a>
    Source: livescience.com  
-   Link: [https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts](https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts)  
+   Link: <a href="https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense released a second batch of UFO-related files, bringing the total number of newly declassified documents to 162. Spa...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: unsolvedmysteries.fandom.com  
-   Link: [https://unsolvedmysteries.fandom.com/wiki/The_Allagash_Abductions](https://unsolvedmysteries.fandom.com/wiki/The_Allagash_Abductions)  
+   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/The_Allagash_Abductions" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/The_Allagash_Abductions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Allagash Abductions | Unsolved Mysteries Wiki - FandomThey each described, in frightening detail, about how they were abducted and then p...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/news/topics/ufos](https://www.archives.gov/news/topics/ufos)  
+   Link: <a href="https://www.archives.gov/news/topics/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/topics/ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hivesApril 24, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED ANOMALOUS PHENOMENA (UAPS) AT THE NATIONAL A...</p></details>
    Published: April 24, 2025  
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-collections](https://www.archives.gov/research/topics/uaps/rg-collections)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ecord Group or Collection | National ArchivesDecember 12, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED A...</p></details>
    Published: December 12, 2025  
 
 15. <a id="endnote-15"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/textual-and-microfilm](https://www.archives.gov/research/topics/uaps/textual-and-microfilm)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>icrofilm | National ArchivesApril 24, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED ANOMALOUS PHENOMENA (...</p></details>
    Published: April 24, 2025  
 
 16. <a id="endnote-16"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-615](https://www.archives.gov/research/topics/uaps/rg-615)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-615" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-615</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>February 20, 2026 — RECORD GROUP 615: UNIDENTIFIED ANOMALOUS PHENOMENA RECORDS COLLECTION The National Archives “Unidentified Anomalous P...</p></details>
    Published: February 20, 2026  
 
 17. <a id="endnote-17"></a>
    Source: mysteriousharbortours.com  
-   Link: [https://mysteriousharbortours.com/allagash-abductions/](https://mysteriousharbortours.com/allagash-abductions/)  
+   Link: <a href="https://mysteriousharbortours.com/allagash-abductions/" target="_blank" rel="noopener noreferrer nofollow">https://mysteriousharbortours.com/allagash-abductions/</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ExploringLegends/posts/newenglandlegends-podcast-244-the-allagash-ufo-abduction-incident-we-hike-into-t/540026590823915/](https://www.facebook.com/ExploringLegends/posts/newenglandlegends-podcast-244-the-allagash-ufo-abduction-incident-we-hike-into-t/540026590823915/)  
+   Link: <a href="https://www.facebook.com/ExploringLegends/posts/newenglandlegends-podcast-244-the-allagash-ufo-abduction-incident-we-hike-into-t/540026590823915/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ExploringLegends/posts/newenglandlegends-podcast-244-the-allagash-ufo-abduction-incident-we-hike-into-t/540026590823915/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NewEnglandLegends Podcast 244 – The Allagash UFO...Under hypnosis, they recalled being taken aboard the UFO, where they were subjected t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: usufocenter.com  
-   Link: [https://www.usufocenter.com/ufologist/booth/loring-air-force-base-UFO.html](https://www.usufocenter.com/ufologist/booth/loring-air-force-base-UFO.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOlogist: Maine UFOs Over Loring Air Force BaseLORING AIR FORCE BASE UFOS UAPS [MAINE UFO SIGHTINGS](&amp;#123;&amp;#123; &#x27;sightings-map/&#x27; | relative_url &amp;#125;&amp;#125;) * * * US UFO CENTER ARTICLES ON CLOSE...</p></details>
+   Link: <a href="https://www.usufocenter.com/ufologist/booth/loring-air-force-base-UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufologist/booth/loring-air-force-base-UFO.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOlogist: Maine UFOs Over Loring Air Force BaseLORING AIR FORCE BASE UFOS UAPS MAINE UFO SIGHTINGS * * * US UFO CENTER ARTICLES ON CLOSE...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ufodossier.com  
    Title: UF O Dossier — Declassified UAP Archive EVERY UAP INCIDENT IN THE U.S  
-   Link: [https://www.ufodossier.com/](https://www.ufodossier.com/)  
+   Link: <a href="https://www.ufodossier.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufodossier.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GOVERNMENT&#x27;S DECLASSIFIED FILES. A searchable archive of 480 incidents extracted from 117 source documents spanning 1890–2025. Every clai...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: travelmaine.com  
    Title: UF O Sightings & Abductions in Maine | Travel Maine.com  
-   Link: [https://travelmaine.com/attractions/strange-maine/maine-ufo-sightings/](https://travelmaine.com/attractions/strange-maine/maine-ufo-sightings/)  
+   Link: <a href="https://travelmaine.com/attractions/strange-maine/maine-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://travelmaine.com/attractions/strange-maine/maine-ufo-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings &amp; Abductions in Maine | TravelMaine.comMay 2, 2012 — UFO SIGHTINGS &amp; ABDUCTIONS IN MAINE By The Maine Explorer May 2, 2012...</p></details>
    Published: May 2, 2012  
 
 22. <a id="endnote-22"></a>
    Source: ufoinsight.com  
    Title: Bizarre Encounters From The Woodlands Of Elliot, Maine  
-   Link: [https://www.ufoinsight.com/ufos/close-encounters/encounters-woodlands-elliot-maine](https://www.ufoinsight.com/ufos/close-encounters/encounters-woodlands-elliot-maine)  
+   Link: <a href="https://www.ufoinsight.com/ufos/close-encounters/encounters-woodlands-elliot-maine" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/encounters-woodlands-elliot-maine</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightNovember 5, 2018 — BIZARRE ENCOUNTERS FROM THE WOODLANDS OF ELLIOT, MAINE By Marcus Lowth Image: Published Date November 5, 20...</p></details>
-   Published: November 5, 2018  
+   Published: November 5, 2018

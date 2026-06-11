@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-colorados-ufo/
 nav_short_title: Sightings
 title: Why Colorado Sightings Are Hard to Prove
-title_full: Why Colorado Sightings Are Hard to Prove | Colorado UFOs
+title_full: Why Colorado Sightings Are Hard to Prove
 display_title_short: Sightings
 display_title: Sightings
 heading_title: Why Colorado Sightings Are Hard to Prove
@@ -264,7 +264,6 @@ image: /assets/images/Colorado_d28817_colorado_sighting_pa_2fa505-overview-socia
 
 [Colorado]({{ 'what-really-happened-in-colorados-ufo/' | relative_url }}) has many memorable UFO stories, but the recurring pattern is not a steady trail of hard proof. It is a patchwork of brief sightings, night-time lights, open-sky observation points, self-reported databases, media bursts and a few clusters that become famous because people keep looking there. The useful question is therefore not simply “are Colorado UFOs real?” but “why do some places in Colorado produce repeated reports while the evidence remains thin?” The best answer is that Colorado combines dark skies, mountain horizons, military and aviation activity, drone-era confusion, and a strong local UFO culture, especially around the [San Luis Valley]({{ 'san-luis-valley/' | relative_url }}). NUFORC lists thousands of Colorado reports, yet even official and scientific reviews repeatedly warn that most UAP evidence lacks the calibrated data needed to prove distance, size, speed or origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location</span><span class="citation-popover-snippet">Reports by Location</span></span></span>
 
-
 <img src="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505-overview.webp" | relative_url }}" alt="Overview image for Sightings" loading="eager" decoding="sync" fetchpriority="high">
 ## Why clusters form without becoming proof
 
@@ -274,8 +273,7 @@ That distinction matters because the state’s apparent hotspots are uneven. The
 
 The older Colorado lesson is the same one that shaped official UFO history. The University of Colorado’s Condon project argued in 1968 that, after years of collected sightings, there was no “verified and fully satisfactory evidence” of a case clearly outside known science and technology. The US Air Force later cited the Colorado report when ending Project Blue Book, while noting that 701 of 12,618 Blue Book cases remained unidentified. The key point for Colorado clusters is not that every report was explained, but that “unidentified” did not automatically mean extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Section II</span><span class="citation-popover-snippet">Files Condon Report, Section II</span></span></span>
 
-
-<img src="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505-Illustration-1-light.svg" | relative_url }}" alt="Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505-Illustration-1-dark.svg" | relative_url }}" alt="Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Modern hotspots and recurring report settings
 
 Colorado’s modern report settings fall into a few recognisable types: tourist viewing areas, high mountain or valley horizons, metro-edge skies, and the eastern plains. Each setting changes what witnesses can see, how long they can watch it, and what information is missing afterwards.
@@ -290,7 +288,6 @@ Rural and mountain reports often sound more dramatic because there are fewer vis
 
 Colorado parks and reservoirs also generate reports of lights near dawn or dusk, when ordinary objects can look unfamiliar. A 2011 NUFORC report from Eleven Mile State Park described two bright white lights with a translucent veil moving before dawn for three to five minutes, with the crescent Moon recently risen. That does not prove a conventional explanation, but it shows a familiar weak-evidence pattern: a striking visual impression, short duration, limited context, and no independent measurement of distance, speed or physical structure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=93793" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">Open source on nuforc.org.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JFX11X18Nfg" title="Mystery drone flights over Colorado, Nebraska" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JFX11X18Nfg" target="_blank" rel="noopener noreferrer">Mystery drone flights over Colorado, Nebraska</a></p><p class="youtube-embed-meta">Channel: CBS Mornings &middot; Views: 136.5K &middot; Uploaded: January 2020 &middot; Length: 2 minutes 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JFX11X18Nfg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JFX11X18Nfg">Open on YouTube</a></p></div></div></div>
 
 ## The eastern plains drone flap showed how uncertainty multiplies
@@ -303,8 +300,7 @@ The lesson is not that every witness was wrong. It is that a public wave can com
 
 The same problem appeared nationally during later drone scares. In 2024, a joint federal statement said the FBI had received more than 5,000 reported drone sightings in a few weeks, but only about 100 had generated investigative leads. That wider case is not Colorado-specific, but it helps interpret the Colorado pattern: a high volume of reports can quickly outgrow the available evidence, especially when the objects are seen at night and described mainly as lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505-Illustration-2-light.svg" | relative_url }}" alt="Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505-Illustration-2-dark.svg" | relative_url }}" alt="Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Witness memory, photos and fleeting lights
 
 Most Colorado sighting clusters are built from witness observation rather than strong physical evidence. Multiple witnesses help, but they do not solve the central problem: people standing near each other often share the same viewing angle, the same assumptions, and the same lack of distance information. If an object is several miles away rather than half a mile away, its apparent size and speed can change completely.
@@ -314,7 +310,6 @@ This is why the Red Rocks report is both interesting and limited. Twelve people 
 Modern phone cameras have not removed the problem. NASA has said there are only a limited number of high-quality UAP observations, making firm scientific conclusions impossible. A 2023 scientific paper on multimodal UAP observatories makes a similar point: internet photos and videos often lack context, provenance and chain of custody, and many striking images can be affected by reflections, lens artefacts, sensors or software processing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">to Release, Discuss Unidentified Anomalous Phenomena Report</span><span class="citation-popover-snippet">to Release, Discuss Unidentified Anomalous Phenomena Report</span></span></span>
 
 The practical consequence for Colorado reports is simple. A blurry light over the foothills, a slow point above the eastern plains, or a bright object seen from a valley floor may be sincere and still weak. A good report would need time, location, direction, elevation, weather, camera metadata, nearby flight tracks, satellite passes, astronomical checks and, ideally, more than one independent observation point. Most reports arrive after the moment has passed, when the best evidence has already disappeared.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QJipEE-bqiI" title="FBI investigating mysterious drones over Colorado" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QJipEE-bqiI" target="_blank" rel="noopener noreferrer">FBI investigating mysterious drones over Colorado</a></p><p class="youtube-embed-meta">Channel: CBS Evening News &middot; Views: 89.6K &middot; Uploaded: January 2020 &middot; Length: 1 minute 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QJipEE-bqiI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QJipEE-bqiI">Open on YouTube</a></p></div></div></div>
 
@@ -328,17 +323,14 @@ The unresolved residue still matters. It includes reports with multiple witnesse
 
 For readers trying to judge a Colorado sighting, the strongest cases usually have several features at once: independent witnesses in different locations, precise timing, stable direction and elevation data, original unedited images or video, known camera settings, flight and satellite exclusions, weather records, and a report made quickly before memory shifts. The weakest cases usually rely on dramatic size estimates, phrases such as “it vanished”, no reference points, no original media, delayed reporting, or a setting already famous for UFO expectations.
 
-
-<img src="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505-Illustration-3-light.svg" | relative_url }}" alt="Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505-Illustration-3-dark.svg" | relative_url }}" alt="Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colorado_d28817_colorado_sighting_pa_2fa505-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Colorado’s pattern really tells us
 
 Colorado’s sighting history is valuable because it shows the gap between experience and proof. Red Rocks gives a vivid modern multiple-witness story. The San Luis Valley shows how landscape, dark skies and folklore can create a durable hotspot. The [eastern plains drone]({{ 'drone-flap/' | relative_url }}) flap shows how official attention can still end in mixed mundane explanations and a small unresolved remainder. Together, these cases make Colorado a useful test bed for a more careful kind of UFO history.
 
 The fairest reading is neither blanket dismissal nor belief-by-accumulation. Colorado has persistent sighting clusters, but their evidential weight is usually limited by the same problems: fleeting observation, poor distance estimates, weak images, reporting bias and post-event investigation. The interesting residue is real enough to document, but too thin to carry the stronger claims often attached to it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x05mwnUFrWg" title="UFO Watchtower | San Luis Valley, Colorado" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x05mwnUFrWg" target="_blank" rel="noopener noreferrer">UFO Watchtower | San Luis Valley, Colorado</a></p><p class="youtube-embed-meta">Channel: Slone&#x27;s Wilderness Expeditions &middot; Views: 7.8K &middot; Uploaded: August 2020 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x05mwnUFrWg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x05mwnUFrWg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -762,228 +754,228 @@ The fairest reading is neither blanket dismissal nor belief-by-accumulation. Col
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
    Title: Reports by Location  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
    Title: to Release, Discuss Unidentified Anomalous Phenomena Report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
 3. <a id="endnote-3"></a>
    Source: axios.com  
    Title: Colorado's UFO sightings, mapped  
-   Link: [https://www.axios.com/local/denver/2024/02/12/colorado-ufo-sightings](https://www.axios.com/local/denver/2024/02/12/colorado-ufo-sightings)  
+   Link: <a href="https://www.axios.com/local/denver/2024/02/12/colorado-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/denver/2024/02/12/colorado-ufo-sightings</a>  
 
 4. <a id="endnote-4"></a>
    Source: files.ncas.org  
    Title: Files [Condon Report](&#123;&#123; 'condon-report/' | relative_url &#125;&#125;), Section II  
-   Link: [https://files.ncas.org/condon/text/sec-ii.htm](https://files.ncas.org/condon/text/sec-ii.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/sec-ii.htm</a>  
 
 5. <a id="endnote-5"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: alamosa.org  
-   Link: [https://www.alamosa.org/listing/ufo-watchtower/](https://www.alamosa.org/listing/ufo-watchtower/)  
+   Link: <a href="https://www.alamosa.org/listing/ufo-watchtower/" target="_blank" rel="noopener noreferrer nofollow">https://www.alamosa.org/listing/ufo-watchtower/</a>  
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=181776](https://nuforc.org/sighting/?id=181776)  
+   Link: <a href="https://nuforc.org/sighting/?id=181776" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=181776</a>  
 
 8. <a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=46069](https://nuforc.org/sighting/?id=46069)  
+   Link: <a href="https://nuforc.org/sighting/?id=46069" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=46069</a>  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=81582](https://nuforc.org/sighting/?id=81582)  
+   Link: <a href="https://nuforc.org/sighting/?id=81582" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=81582</a>  
 
 10. <a id="endnote-10"></a>
    Source: koaa.com  
    Title: News 5Colorado to ‘scale back’ investigation into mystery drones  
-   Link: [https://www.koaa.com/news/local-news/officials-to-scale-back-operations-investigating-mystery-drones-over-northeastern-colorado](https://www.koaa.com/news/local-news/officials-to-scale-back-operations-investigating-mystery-drones-over-northeastern-colorado)  
+   Link: <a href="https://www.koaa.com/news/local-news/officials-to-scale-back-operations-investigating-mystery-drones-over-northeastern-colorado" target="_blank" rel="noopener noreferrer nofollow">https://www.koaa.com/news/local-news/officials-to-scale-back-operations-investigating-mystery-drones-over-northeastern-colorado</a>  
 
 11. <a id="endnote-11"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings](https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings)  
+   Link: <a href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings</a>  
 
 12. <a id="endnote-12"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=93793](https://nuforc.org/sighting/?id=93793)  
+   Link: <a href="https://nuforc.org/sighting/?id=93793" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=93793</a>  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://www.nuforc.org/webreports/082/S82723.html](https://www.nuforc.org/webreports/082/S82723.html)  
+   Link: <a href="https://www.nuforc.org/webreports/082/S82723.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nuforc.org/webreports/082/S82723.html</a>  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://www.nuforc.org/webreports/165/S165639.html](https://www.nuforc.org/webreports/165/S165639.html)  
+   Link: <a href="https://www.nuforc.org/webreports/165/S165639.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nuforc.org/webreports/165/S165639.html</a>  
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=21823](https://nuforc.org/sighting/?id=21823)  
+   Link: <a href="https://nuforc.org/sighting/?id=21823" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=21823</a>  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/webreports/reports/134/S134469.html](https://nuforc.org/webreports/reports/134/S134469.html)  
+   Link: <a href="https://nuforc.org/webreports/reports/134/S134469.html" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/webreports/reports/134/S134469.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=20728](https://nuforc.org/sighting/?id=20728)  
+   Link: <a href="https://nuforc.org/sighting/?id=20728" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=20728</a>  
 
 19. <a id="endnote-19"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=74044](https://nuforc.org/sighting/?id=74044)  
+   Link: <a href="https://nuforc.org/sighting/?id=74044" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=74044</a>  
 
 20. <a id="endnote-20"></a>
    Source: nuforc.org  
    Title: drone flap  
-   Link: [https://nuforc.org/drone_flap/](https://nuforc.org/drone_flap/)  
+   Link: <a href="https://nuforc.org/drone_flap/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/drone_flap/</a>  
 
 21. <a id="endnote-21"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lCO](https://nuforc.org/subndx/?id=lCO)  
+   Link: <a href="https://nuforc.org/subndx/?id=lCO" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lCO</a>  
 
 22. <a id="endnote-22"></a>
    Source: colorado.edu  
    Title: condon report cu boulders historic ufo study  
-   Link: [https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study](https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study)  
+   Link: <a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
 
 23. <a id="endnote-23"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 25. <a id="endnote-25"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt](https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt)  
+   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
 
 26. <a id="endnote-26"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf](https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf)  
+   Link: <a href="https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/aliensinskies00unit/aliensinskies00unit.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 28. <a id="endnote-28"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
 29. <a id="endnote-29"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
 30. <a id="endnote-30"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
 31. <a id="endnote-31"></a>
    Source: time.com  
    Title: drones colorado nebraska  
-   Link: [https://time.com/5757819/drones-colorado-nebraska/](https://time.com/5757819/drones-colorado-nebraska/)  
+   Link: <a href="https://time.com/5757819/drones-colorado-nebraska/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5757819/drones-colorado-nebraska/</a>  
 
 32. <a id="endnote-32"></a>
    Source: colorado.com  
-   Link: [https://www.colorado.com/alamosa/attractions-entertainment/tours/ufo-watchtower](https://www.colorado.com/alamosa/attractions-entertainment/tours/ufo-watchtower)  
+   Link: <a href="https://www.colorado.com/alamosa/attractions-entertainment/tours/ufo-watchtower" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.com/alamosa/attractions-entertainment/tours/ufo-watchtower</a>  
 
 33. <a id="endnote-33"></a>
    Source: uncovercolorado.com  
    Title: Uncover Colorado The San Luis Valley’s Weird Legacy of UFO Sightings  
-   Link: [https://www.uncovercolorado.com/ufo-sightings-san-luis-valley/](https://www.uncovercolorado.com/ufo-sightings-san-luis-valley/)  
+   Link: <a href="https://www.uncovercolorado.com/ufo-sightings-san-luis-valley/" target="_blank" rel="noopener noreferrer nofollow">https://www.uncovercolorado.com/ufo-sightings-san-luis-valley/</a>  
 
 34. <a id="endnote-34"></a>
    Source: twz.com  
-   Link: [https://www.twz.com/32310/internal-air-force-emails-show-confusion-and-concern-over-colorados-mystery-drones](https://www.twz.com/32310/internal-air-force-emails-show-confusion-and-concern-over-colorados-mystery-drones)  
+   Link: <a href="https://www.twz.com/32310/internal-air-force-emails-show-confusion-and-concern-over-colorados-mystery-drones" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/32310/internal-air-force-emails-show-confusion-and-concern-over-colorados-mystery-drones</a>  
 
 35. <a id="endnote-35"></a>
    Source: goodmorningamerica.com  
-   Link: [https://www.goodmorningamerica.com/news/story/high-tech-plane-joins-search-mysterious-drones-colorado-68128257](https://www.goodmorningamerica.com/news/story/high-tech-plane-joins-search-mysterious-drones-colorado-68128257)  
+   Link: <a href="https://www.goodmorningamerica.com/news/story/high-tech-plane-joins-search-mysterious-drones-colorado-68128257" target="_blank" rel="noopener noreferrer nofollow">https://www.goodmorningamerica.com/news/story/high-tech-plane-joins-search-mysterious-drones-colorado-68128257</a>  
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/552059654373970/posts/555402627373006/](https://www.facebook.com/groups/552059654373970/posts/555402627373006/)  
+   Link: <a href="https://www.facebook.com/groups/552059654373970/posts/555402627373006/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/552059654373970/posts/555402627373006/</a>  
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2313452548896384/posts/3661006707474288/](https://www.facebook.com/groups/2313452548896384/posts/3661006707474288/)  
+   Link: <a href="https://www.facebook.com/groups/2313452548896384/posts/3661006707474288/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2313452548896384/posts/3661006707474288/</a>  
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/552059654373970/posts/564498316463437/](https://www.facebook.com/groups/552059654373970/posts/564498316463437/)  
+   Link: <a href="https://www.facebook.com/groups/552059654373970/posts/564498316463437/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/552059654373970/posts/564498316463437/</a>  
 
 39. <a id="endnote-39"></a>
    Source: Wikipedia  
    Title: UFO Watchtower  
-   Link: [https://en.wikipedia.org/wiki/UFO_Watchtower](https://en.wikipedia.org/wiki/UFO_Watchtower)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_Watchtower" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_Watchtower</a>  
 
 40. <a id="endnote-40"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/1725090](https://www.jstor.org/stable/1725090)  
+   Link: <a href="https://www.jstor.org/stable/1725090" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1725090</a>  
 
 41. <a id="endnote-41"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 ### Additional References
 
 42. <a id="endnote-42"></a>
    Source: youtube.com  
    Title: This reported Colorado drone sighting turned out to be a car, authorities said  
-   Link: [https://www.youtube.com/watch?v=WpMrZ6odDlY](https://www.youtube.com/watch?v=WpMrZ6odDlY)  
+   Link: <a href="https://www.youtube.com/watch?v=WpMrZ6odDlY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WpMrZ6odDlY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Colorado UFO investigator talks upcoming report to Congress...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2305.18566](https://arxiv.org/pdf/2305.18566)  
+   Link: <a href="https://arxiv.org/pdf/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18566</a>  
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
    Title: Mystery drone flights over Colorado, Nebraska  
-   Link: [https://www.youtube.com/watch?v=JFX11X18Nfg](https://www.youtube.com/watch?v=JFX11X18Nfg)  
+   Link: <a href="https://www.youtube.com/watch?v=JFX11X18Nfg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JFX11X18Nfg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RAW: Mysterious drones flying nighttime patterns over northeast Colorado...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox6news/posts/a-colorado-man-wanted-on-a-felony-warrant-was-arrested-after-police-used-a-drone/1522197469493738/](https://www.facebook.com/fox6news/posts/a-colorado-man-wanted-on-a-felony-warrant-was-arrested-after-police-used-a-drone/1522197469493738/)  
+   Link: <a href="https://www.facebook.com/fox6news/posts/a-colorado-man-wanted-on-a-felony-warrant-was-arrested-after-police-used-a-drone/1522197469493738/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox6news/posts/a-colorado-man-wanted-on-a-felony-warrant-was-arrested-after-police-used-a-drone/1522197469493738/</a>  
 
 46. <a id="endnote-46"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox6news/posts/a-ufo-sighting-at-red-rocks-was-reported-to-the-national-ufo-reporting-center-wi/1036137688099721/](https://www.facebook.com/fox6news/posts/a-ufo-sighting-at-red-rocks-was-reported-to-the-national-ufo-reporting-center-wi/1036137688099721/)  
+   Link: <a href="https://www.facebook.com/fox6news/posts/a-ufo-sighting-at-red-rocks-was-reported-to-the-national-ufo-reporting-center-wi/1036137688099721/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox6news/posts/a-ufo-sighting-at-red-rocks-was-reported-to-the-national-ufo-reporting-center-wi/1036137688099721/</a>  
 
 47. <a id="endnote-47"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wsls10/posts/a-rash-of-drone-sightings-during-the-colorado-rockies-first-homestand-of-the-sea/1267813625506130/](https://www.facebook.com/wsls10/posts/a-rash-of-drone-sightings-during-the-colorado-rockies-first-homestand-of-the-sea/1267813625506130/)  
+   Link: <a href="https://www.facebook.com/wsls10/posts/a-rash-of-drone-sightings-during-the-colorado-rockies-first-homestand-of-the-sea/1267813625506130/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wsls10/posts/a-rash-of-drone-sightings-during-the-colorado-rockies-first-homestand-of-the-sea/1267813625506130/</a>  
 
 48. <a id="endnote-48"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/aigkenham/posts/are-ufos-real-yes-okay-what-do-i-mean-by-that-well-ufo-of-course-stands-for-unid/4469030786460576/](https://www.facebook.com/aigkenham/posts/are-ufos-real-yes-okay-what-do-i-mean-by-that-well-ufo-of-course-stands-for-unid/4469030786460576/)  
+   Link: <a href="https://www.facebook.com/aigkenham/posts/are-ufos-real-yes-okay-what-do-i-mean-by-that-well-ufo-of-course-stands-for-unid/4469030786460576/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aigkenham/posts/are-ufos-real-yes-okay-what-do-i-mean-by-that-well-ufo-of-course-stands-for-unid/4469030786460576/</a>  
 
 49. <a id="endnote-49"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40davidheitz50/colorados-107-ufo-sightings-disc-shaped-crafts-and-unexplained-lights-2697d60c9c00](https://medium.com/%40davidheitz50/colorados-107-ufo-sightings-disc-shaped-crafts-and-unexplained-lights-2697d60c9c00)  
+   Link: <a href="https://medium.com/%40davidheitz50/colorados-107-ufo-sightings-disc-shaped-crafts-and-unexplained-lights-2697d60c9c00" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40davidheitz50/colorados-107-ufo-sightings-disc-shaped-crafts-and-unexplained-lights-2697d60c9c00</a>  
 
 50. <a id="endnote-50"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/a255a907-d10f-49f2-89e0-13e57b0e006a](https://enigmalabs.io/library/a255a907-d10f-49f2-89e0-13e57b0e006a)  
+   Link: <a href="https://enigmalabs.io/library/a255a907-d10f-49f2-89e0-13e57b0e006a" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/a255a907-d10f-49f2-89e0-13e57b0e006a</a>  
 
 51. <a id="endnote-51"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/311954409884871/posts/1164597327953904/](https://www.facebook.com/groups/311954409884871/posts/1164597327953904/)  
+   Link: <a href="https://www.facebook.com/groups/311954409884871/posts/1164597327953904/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/311954409884871/posts/1164597327953904/</a>

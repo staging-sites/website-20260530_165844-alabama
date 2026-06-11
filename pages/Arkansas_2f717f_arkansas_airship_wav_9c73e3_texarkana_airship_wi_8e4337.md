@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /airship-wave/
 nav_short_title: Texarkana
 title: Did Texarkana really host a landed airship?
-title_full: Did Texarkana really host a landed airship? | Airship Wave
+title_full: Did Texarkana really host a landed airship?
 display_title_short: Texarkana
 display_title: Texarkana
 heading_title: Did Texarkana really host a landed airship?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:00:55'
-parent_title: Were Arkansas's Airships Real Machines? | Arkansas UFOs
+parent_title: Were Arkansas's Airships Real Machines?
 parent_permalink: /airship-wave/
 parent_nav_short_title: Airship Wave
 parent_heading_title: Were Arkansas's Airships Real Machines?
@@ -250,14 +250,12 @@ image: /assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airs
 
 ## Introduction
 
-In April 1897, Texarkana briefly became part of America’s strange “mystery airship” craze when a railroad conductor named Captain Jim Hooton claimed he had stumbled across a landed flying craft in a field outside town. The story quickly entered [Arkansas]({{ 'what-really-happened-in-arkansas-skies/' | relative_url }}) folklore because it combined several elements that made late nineteenth-century readers pay attention: a named witness, mechanical details, and a supposedly sober observer connected to the rail industry. Yet the case also illustrates why many historians now treat the 1897 [airship wave]({{ 'airship-wave/' | relative_url }}) as a mixture of rumour, publicity, exaggeration and tall tales rather than evidence of a genuine technological breakthrough or extraterrestrial visitation.
+In April 1897, Texarkana briefly became part of America’s strange “mystery airship” craze when a railroad conductor named Captain Jim Hooton claimed he had stumbled across a landed flying craft in a field outside town. The story quickly entered Arkansas folklore because it combined several elements that made late nineteenth-century readers pay attention: a named witness, mechanical details, and a supposedly sober observer connected to the rail industry. Yet the case also illustrates why many historians now treat the 1897 [airship wave]({{ 'airship-wave/' | relative_url }}) as a mixture of rumour, publicity, exaggeration and tall tales rather than evidence of a genuine technological breakthrough or extraterrestrial visitation.
 
-
-<img src="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-1-light.svg" | relative_url }}" alt="Texarkana illustration 1" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-1-dark.svg" | relative_url }}" alt="Texarkana illustration 1" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What keeps the Texarkana account interesting is not hard proof, because none survives, but the tension between Hooton’s apparent credibility and the complete absence of corroboration. The case sits at the centre of a broader question in Arkansas UFO history: when does a vivid witness story become folklore rather than evidence? <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO SightingsMarch 19, 2019 — 22 Oct 2025 — By the spring, the phenomenon moved into Arkansas. According to newsp...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mq0pmfgeAt4" title="Secret Origin of the Mystery Airships! (Phantom Airships, UFO, 1897) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mq0pmfgeAt4" target="_blank" rel="noopener noreferrer">Secret Origin of the Mystery Airships! (Phantom Airships, UFO, 1897) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 15.2K &middot; Uploaded: October 2023 &middot; Length: 1 hour 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mq0pmfgeAt4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mq0pmfgeAt4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DeWmfXB3U1c" title="Why did a Texas town bury an alien visitor in 1897?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DeWmfXB3U1c" target="_blank" rel="noopener noreferrer">Why did a Texas town bury an alien visitor in 1897?</a></p><p class="youtube-embed-meta">Channel: Unscaled Stories &middot; Views: 218 &middot; Uploaded: November 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DeWmfXB3U1c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DeWmfXB3U1c">Open on YouTube</a></p></div></div></div>
 
 ## What Hooton claimed happened in April 1897
 
@@ -267,8 +265,7 @@ The surviving descriptions vary slightly between later retellings, but the centr
 
 The craft was described in familiar “mystery airship” language of the era: elongated, mechanical and technologically advanced but still recognisably human-made. That detail matters because the 1896–97 wave occurred decades before modern flying saucer imagery. Witnesses generally imagined secret inventors, experimental aircraft or eccentric engineers rather than alien spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
 
-One reason the Texarkana report endured longer than many other [Arkansas airship]({{ 'airship-wave/' | relative_url }}) stories is that newspapers said Hooton produced a sketch of the craft for reporters. Even though the original drawing appears lost, the claim gave the story an air of concreteness and technical observation rather than pure fantasy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arkansasstatearchives.blogspot.com/2015/08/ufos-and-arkansas.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arkansasstatearchives.blogspot.com">[Arkansas State Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arkansasstatearchives.blogspot.com</span><span class="citation-popover-title">Arkansas State Archives Arkansas History&#x27;s Mysteries</span><span class="citation-popover-snippet">Perhaps the most prominent of the sightings in Arkansas...</span></span></span>
-
+One reason the Texarkana report endured longer than many other Arkansas airship stories is that newspapers said Hooton produced a sketch of the craft for reporters. Even though the original drawing appears lost, the claim gave the story an air of concreteness and technical observation rather than pure fantasy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arkansasstatearchives.blogspot.com/2015/08/ufos-and-arkansas.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arkansasstatearchives.blogspot.com">[Arkansas State Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arkansasstatearchives.blogspot.com</span><span class="citation-popover-title">Arkansas State Archives Arkansas History&#x27;s Mysteries</span><span class="citation-popover-snippet">Perhaps the most prominent of the sightings in Arkansas...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ULpFYmQon8g" title="Dirigibles, Airships, &amp; Zeppelins: Lighter-Than-Air Travel. Mystery Panic of 1896. Antiquitech(?)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ULpFYmQon8g" target="_blank" rel="noopener noreferrer">Dirigibles, Airships, &amp; Zeppelins: Lighter-Than-Air Travel. Mystery Panic of 1896. Antiquitech(?)</a></p><p class="youtube-embed-meta">Channel: Jarid Boosters &middot; Views: 130.8K &middot; Uploaded: July 2022 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ULpFYmQon8g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ULpFYmQon8g">Open on YouTube</a></p></div></div></div>
 
@@ -276,16 +273,15 @@ One reason the Texarkana report endured longer than many other [Arkansas airship
 
 Hooton’s occupation strongly shaped how readers interpreted the story. In 1897, railroad men were associated with machinery, schedules and practical engineering. A conductor was not viewed as an eccentric dreamer but as someone accustomed to engines, pressure systems and industrial technology. That social status gave Hooton a degree of credibility unavailable to anonymous witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO SightingsMarch 19, 2019 — 22 Oct 2025 — By the spring, the phenomenon moved into Arkansas. According to newsp...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span>
 
-The report also sounded believable to contemporaries because the late nineteenth century was filled with real technological experimentation. Americans had already seen rapid advances in railways, electricity and telegraphy. Newspapers regularly reported inventors claiming they were close to conquering powered flight. Readers therefore did not necessarily interpret an “airship” as impossible. Instead, many assumed some unknown inventor had secretly succeeded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readex.com">[Readex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readex.com</span><span class="citation-popover-title">ufo fever americas historical newspapers mysterious airships 1896 97</span><span class="citation-popover-snippet">ReadexThe Mysterious Airships of 1896-9712 Sept 2014 — Presumably in hopes of dissuading their readers of the notion the story was simply...</span></span></span>
+The report also sounded believable to contemporaries because the late nineteenth century was filled with real technological experimentation. Americans had already seen rapid advances in railways, electricity and telegraphy. Newspapers regularly reported inventors claiming they were close to conquering powered flight. Readers therefore did not necessarily interpret an “airship” as impossible. Instead, many assumed some unknown inventor had secretly succeeded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readex.com">[Readex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readex.com</span><span class="citation-popover-title">ufo fever americas historical newspapers mysterious airships 1896 97</span><span class="citation-popover-snippet">The Mysterious Airships of 1896-9712 Sept 2014 — Presumably in hopes of dissuading their readers of the notion the story was simply...</span></span></span>
 
-Hooton’s familiarity with mechanical sounds added another layer of plausibility. Later summaries emphasised that he recognised noises similar to railway air brakes or compressed-air systems. To readers in an industrial age, that detail sounded grounded in practical experience rather than fantasy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podscan.fm/podcasts/disturbing-history/episodes/the-phantom-airships-of-the-1890s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-title">the phantom airships of the 1890s</span><span class="citation-popover-snippet">PodscanThe Phantom Airships of the 1890&#x27;s - Disturbing History23 Mar 2026 — We cover Captain Jim Hooton&#x27;s April 20, 1897, encounter near...</span><span class="citation-popover-meta">Published: April 20, 1897</span></span></span>
+Hooton’s familiarity with mechanical sounds added another layer of plausibility. Later summaries emphasised that he recognised noises similar to railway air brakes or compressed-air systems. To readers in an industrial age, that detail sounded grounded in practical experience rather than fantasy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podscan.fm/podcasts/disturbing-history/episodes/the-phantom-airships-of-the-1890s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-title">the phantom airships of the 1890s</span><span class="citation-popover-snippet">The Phantom Airships of the 1890&#x27;s - Disturbing History23 Mar 2026 — We cover Captain Jim Hooton&#x27;s April 20, 1897, encounter near...</span><span class="citation-popover-meta">Published: April 20, 1897</span></span></span>
 
-At the same time, modern historians note an irony: railway culture may also have helped spread the airship craze itself. Telegraph networks, travelling crews and newspaper exchanges allowed dramatic stories to circulate rapidly across the country. Some researchers have even suggested that railroad workers participated in spreading embellished airship stories as jokes or publicity stunts. A widely discussed theory linked parts of the Texas airship wave to railway men exchanging tales between towns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas | TX AlmanacMany explanations have been given for the rash of airship sightings. One holds that it...</span></span></span>
+At the same time, modern historians note an irony: railway culture may also have helped spread the airship craze itself. Telegraph networks, travelling crews and newspaper exchanges allowed dramatic stories to circulate rapidly across the country. Some researchers have even suggested that railroad workers participated in spreading embellished airship stories as jokes or publicity stunts. A widely discussed theory linked parts of the Texas airship wave to railway men exchanging tales between towns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas &#124; TX AlmanacMany explanations have been given for the rash of airship sightings. One holds that it...</span></span></span>
 
 That does not prove Hooton invented his story, but it weakens the assumption that his profession automatically made the account reliable.
 
-
-<img src="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-2-light.svg" | relative_url }}" alt="Texarkana illustration 2" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-2-dark.svg" | relative_url }}" alt="Texarkana illustration 2" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What is missing from the surviving evidence
 
 The strongest argument against taking the Texarkana encounter literally is how little evidence survives beyond newspaper reporting. No photograph, physical trace, engineering drawing, signed affidavit or independent witness testimony has been verified. The original newspaper sketches appear lost, and there is no known official investigation from the time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO SightingsMarch 19, 2019 — 22 Oct 2025 — By the spring, the phenomenon moved into Arkansas. According to newsp...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span>
@@ -293,7 +289,6 @@ The strongest argument against taking the Texarkana encounter literally is how l
 The story also fits a broader pattern seen throughout the 1896–97 airship wave. Across the United States, newspapers published colourful accounts of landed craft, conversations with pilots and strange technological marvels. Many stories contradicted each other, and some were openly satirical or later exposed as hoaxes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO-related hoaxes</span><span class="citation-popover-snippet">List of UFO-related hoaxes</span></span></span>
 
 Several warning signs stand out when the Texarkana report is compared with stronger historical evidence standards:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -308,12 +303,11 @@ These gaps matter because the story involved extraordinary claims. A working pow
 
 Another problem is that later retellings sometimes expanded or dramatised the original account. As the story entered UFO folklore during the twentieth century, details about propulsion systems, crew behaviour and dialogue occasionally became more elaborate. That makes it difficult to separate the earliest newspaper version from decades of retelling and embellishment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO SightingsMarch 19, 2019 — 22 Oct 2025 — By the spring, the phenomenon moved into Arkansas. According to newsp...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_KWnz9JZkVA" title="Phantom Airships of the 19th Century | The Dark Histories Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_KWnz9JZkVA" target="_blank" rel="noopener noreferrer">Phantom Airships of the 19th Century | The Dark Histories Podcast</a></p><p class="youtube-embed-meta">Channel: Dark Histories &middot; Views: 12.4K &middot; Uploaded: March 2021 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_KWnz9JZkVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_KWnz9JZkVA">Open on YouTube</a></p></div></div></div>
 
 ## Why the Texarkana case still matters in Arkansas UFO history
 
-Despite its weaknesses, the Hooton story remains important because it captures the transitional moment between nineteenth-century technological fantasy and modern UFO mythology. The Texarkana report was not originally framed as alien visitation. It reflected an era when Americans expected secret inventors to unveil astonishing machines at any moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readex.com">[Readex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readex.com</span><span class="citation-popover-title">ufo fever americas historical newspapers mysterious airships 1896 97</span><span class="citation-popover-snippet">ReadexThe Mysterious Airships of 1896-9712 Sept 2014 — Presumably in hopes of dissuading their readers of the notion the story was simply...</span></span></span>
+Despite its weaknesses, the Hooton story remains important because it captures the transitional moment between nineteenth-century technological fantasy and modern UFO mythology. The Texarkana report was not originally framed as alien visitation. It reflected an era when Americans expected secret inventors to unveil astonishing machines at any moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readex.com">[Readex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readex.com</span><span class="citation-popover-title">ufo fever americas historical newspapers mysterious airships 1896 97</span><span class="citation-popover-snippet">The Mysterious Airships of 1896-9712 Sept 2014 — Presumably in hopes of dissuading their readers of the notion the story was simply...</span></span></span>
 
 The case also demonstrates how witness credibility can become culturally powerful even when hard evidence is absent. Hooton’s status as a railway conductor made the story memorable enough to survive in Arkansas folklore long after many similar reports disappeared. In later decades, Arkansas UFO writers and local historians repeatedly returned to the incident because it offered a named witness and a concrete narrative rather than a distant light in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofarkansas.net">[Encyclopedia of Arkansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofarkansas.net</span><span class="citation-popover-title">Encyclopedia of Arkansas UFO Sightings</span><span class="citation-popover-snippet">Encyclopedia of ArkansasUFO SightingsMarch 19, 2019 — 22 Oct 2025 — By the spring, the phenomenon moved into Arkansas. According to newsp...</span><span class="citation-popover-meta">Published: March 19, 2019</span></span></span>
 
@@ -321,8 +315,7 @@ Within the broader “1897 Arkansas Airship Wave and Its Tall-Tale Evidence”, 
 
 For modern readers, the most reasonable conclusion is cautious rather than dismissive or believing. Something may have inspired Hooton’s account, whether misunderstanding, embellishment, local humour or sincere misinterpretation. But the surviving evidence is far too thin to support claims that Texarkana truly hosted a landed unknown aircraft in 1897.
 
-
-<img src="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-3-light.svg" | relative_url }}" alt="Texarkana illustration 3" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-3-dark.svg" | relative_url }}" alt="Texarkana illustration 3" data-theme-src-dark="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arkansas_2f717f_arkansas_airship_wav_9c73e3_texarkana_airship_wi_8e4337-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -746,110 +739,110 @@ For modern readers, the most reasonable conclusion is cautious rather than dismi
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Mystery airship  
-   Link: [https://en.wikipedia.org/wiki/Mystery_airship](https://en.wikipedia.org/wiki/Mystery_airship)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
 
 2. <a id="endnote-2"></a>
    Source: podscan.fm  
    Title: the phantom airships of the 1890s  
-   Link: [https://podscan.fm/podcasts/disturbing-history/episodes/the-phantom-airships-of-the-1890s](https://podscan.fm/podcasts/disturbing-history/episodes/the-phantom-airships-of-the-1890s)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PodscanThe Phantom Airships of the 1890&#x27;s - Disturbing History23 Mar 2026 — We cover Captain Jim Hooton&#x27;s April 20, 1897, encounter near...</p></details>
+   Link: <a href="https://podscan.fm/podcasts/disturbing-history/episodes/the-phantom-airships-of-the-1890s" target="_blank" rel="noopener noreferrer nofollow">https://podscan.fm/podcasts/disturbing-history/episodes/the-phantom-airships-of-the-1890s</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phantom Airships of the 1890&#x27;s - Disturbing History23 Mar 2026 — We cover Captain Jim Hooton&#x27;s April 20, 1897, encounter near...</p></details>
    Published: April 20, 1897  
 
 3. <a id="endnote-3"></a>
    Source: readex.com  
    Title: ufo fever americas historical newspapers mysterious airships 1896 97  
-   Link: [https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97](https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReadexThe Mysterious Airships of 1896-9712 Sept 2014 — Presumably in hopes of dissuading their readers of the notion the story was simply...</p></details>
+   Link: <a href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97" target="_blank" rel="noopener noreferrer nofollow">https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Airships of 1896-9712 Sept 2014 — Presumably in hopes of dissuading their readers of the notion the story was simply...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: List of UFO-related hoaxes  
-   Link: [https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes](https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes</a>  
 
 5. <a id="endnote-5"></a>
    Source: encyclopediaofarkansas.net  
    Title: Encyclopedia of Arkansas UFO Sightings  
-   Link: [https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/](https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/)  
+   Link: <a href="https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofarkansas.net/entries/ufo-sightings-8576/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia of ArkansasUFO SightingsMarch 19, 2019 — 22 Oct 2025 — By the spring, the phenomenon moved into Arkansas. According to newsp...</p></details>
    Published: March 19, 2019  
 
 6. <a id="endnote-6"></a>
    Source: explorepinebluff.com  
    Title: Pine Bluff UFO Sightings in Arkansas  
-   Link: [https://www.explorepinebluff.com/post/ufo-sightings-in-arkansas](https://www.explorepinebluff.com/post/ufo-sightings-in-arkansas)  
+   Link: <a href="https://www.explorepinebluff.com/post/ufo-sightings-in-arkansas" target="_blank" rel="noopener noreferrer nofollow">https://www.explorepinebluff.com/post/ufo-sightings-in-arkansas</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings in Arkansas - Explore Pine Bluff28 Sept 2022 — An article in the Arkansas Gazette printed on April 20, 1897, reported that...</p></details>
    Published: April 20, 1897  
 
 7. <a id="endnote-7"></a>
    Source: arkansasstatearchives.blogspot.com  
    Title: Arkansas State Archives Arkansas History's Mysteries  
-   Link: [https://arkansasstatearchives.blogspot.com/2015/08/ufos-and-arkansas.html](https://arkansasstatearchives.blogspot.com/2015/08/ufos-and-arkansas.html)  
+   Link: <a href="https://arkansasstatearchives.blogspot.com/2015/08/ufos-and-arkansas.html" target="_blank" rel="noopener noreferrer nofollow">https://arkansasstatearchives.blogspot.com/2015/08/ufos-and-arkansas.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Perhaps the most prominent of the sightings in Arkansas...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: texasalmanac.com  
-   Link: [https://www.texasalmanac.com/articles/when-airships-invaded-texas](https://www.texasalmanac.com/articles/when-airships-invaded-texas)  
+   Link: <a href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow">https://www.texasalmanac.com/articles/when-airships-invaded-texas</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TX AlmanacWhen Airships Invaded Texas | TX AlmanacMany explanations have been given for the rash of airship sightings. One holds that it...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: magoniamagazine.blogspot.com  
-   Link: [https://magoniamagazine.blogspot.com/2013/11/once-upon-time-in-west.html](https://magoniamagazine.blogspot.com/2013/11/once-upon-time-in-west.html)  
+   Link: <a href="https://magoniamagazine.blogspot.com/2013/11/once-upon-time-in-west.html" target="_blank" rel="noopener noreferrer nofollow">https://magoniamagazine.blogspot.com/2013/11/once-upon-time-in-west.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Once upon a Time in The West&#x27;Truthful&#x27; Scully, a Forth Worth freight conductor for the Texas and Pacific Railroad who was chosen to intro...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/nehistorical/posts/in-1897-numerous-reports-of-an-unusual-phenomenon-in-the-sky-described-what-some/1215514023951049/](https://www.facebook.com/nehistorical/posts/in-1897-numerous-reports-of-an-unusual-phenomenon-in-the-sky-described-what-some/1215514023951049/)  
+   Link: <a href="https://www.facebook.com/nehistorical/posts/in-1897-numerous-reports-of-an-unusual-phenomenon-in-the-sky-described-what-some/1215514023951049/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nehistorical/posts/in-1897-numerous-reports-of-an-unusual-phenomenon-in-the-sky-described-what-some/1215514023951049/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nebraska State Historical SocietyBy the spring, the phenomenon moved into Arkansas. According to newspaper reports, on April 20, 1897, Ca...</p></details>
    Published: April 20, 1897  
 
 11. <a id="endnote-11"></a>
    Source: weirdhistorian.com  
-   Link: [https://www.weirdhistorian.com/martians-hoaxers-and-ufos-at-the-turn-of-the-century-the-great-airship-flap-of-1896-and-1897/](https://www.weirdhistorian.com/martians-hoaxers-and-ufos-at-the-turn-of-the-century-the-great-airship-flap-of-1896-and-1897/)  
+   Link: <a href="https://www.weirdhistorian.com/martians-hoaxers-and-ufos-at-the-turn-of-the-century-the-great-airship-flap-of-1896-and-1897/" target="_blank" rel="noopener noreferrer nofollow">https://www.weirdhistorian.com/martians-hoaxers-and-ufos-at-the-turn-of-the-century-the-great-airship-flap-of-1896-and-1897/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It has had new airship fakes every day, each introduced with “scare heads,” assuring the trustworthiness of the story.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: reports of ufo sightings in arkansas can be traced back well over a century in l  
-   Link: [https://www.facebook.com/ayisaboutyou/posts/reports-of-ufo-sightings-in-arkansas-can-be-traced-back-well-over-a-century-in-l/4060034940679448/](https://www.facebook.com/ayisaboutyou/posts/reports-of-ufo-sightings-in-arkansas-can-be-traced-back-well-over-a-century-in-l/4060034940679448/)  
+   Link: <a href="https://www.facebook.com/ayisaboutyou/posts/reports-of-ufo-sightings-in-arkansas-can-be-traced-back-well-over-a-century-in-l/4060034940679448/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ayisaboutyou/posts/reports-of-ufo-sightings-in-arkansas-can-be-traced-back-well-over-a-century-in-l/4060034940679448/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports of UFO sightings in Arkansas can be traced back...In late 1896 and early 1897, the country experienced a rash of “airship” sight...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-friday-april-16-1897-during-th/1511031263717011/](https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-friday-april-16-1897-during-th/1511031263717011/)  
+   Link: <a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-friday-april-16-1897-during-th/1511031263717011/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-friday-april-16-1897-during-th/1511031263717011/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 16, 1897, during the 1896-1897 wave of “Mystery Airship” sightings...</p></details>
    Published: April 16, 1897  
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
    Title: mystery airship sightings for 8 months between  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/i6e7yn/mystery_airship_sightings_for_8_months_between/](https://www.reddit.com/r/HighStrangeness/comments/i6e7yn/mystery_airship_sightings_for_8_months_between/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/i6e7yn/mystery_airship_sightings_for_8_months_between/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/i6e7yn/mystery_airship_sightings_for_8_months_between/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mystery Airship&quot; Sightings: For 8 months between 1896-97...On April 16, 1897 a C. G. Williams of Greenville, Texas claimed he was asked...</p></details>
    Published: April 16, 1897  
 
 15. <a id="endnote-15"></a>
    Source: history.nebraska.gov  
    Title: doc publications NH1979UFOs  
-   Link: [https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf](https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf)  
+   Link: <a href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</p></details>
    Published: February 1897  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: On today's date 129 years ago, Monday, April  
-   Link: [https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-monday-april-19-1897-during-th/1513674570119347/](https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-monday-april-19-1897-during-th/1513674570119347/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookAccording to newspaper reports, on April 20, 1897, Captain Jim Hooton... Hooton told the Arkansas Gazette that he saw the airshi...</p></details>
+   Link: <a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-monday-april-19-1897-during-th/1513674570119347/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-monday-april-19-1897-during-th/1513674570119347/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to newspaper reports, on April 20, 1897, Captain Jim Hooton... Hooton told the Arkansas Gazette that he saw the airshi...</p></details>
    Published: April 20, 1897  
 
 17. <a id="endnote-17"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/838955243/Ufos-and-Intelligence](https://www.scribd.com/document/838955243/Ufos-and-Intelligence)  
+   Link: <a href="https://www.scribd.com/document/838955243/Ufos-and-Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/838955243/Ufos-and-Intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ke. Investigating, he discovers an airship undergoing...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: On today's date 129 years ago, Tuesday,  
-   Link: [https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-tuesday-april-13-1897-during-t/1508580773962060/](https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-tuesday-april-13-1897-during-t/1508580773962060/)  
+   Link: <a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-tuesday-april-13-1897-during-t/1508580773962060/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-tuesday-april-13-1897-during-t/1508580773962060/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 13, 1897...Most sightings have been isolated events, but there have been a few events in Arkansas&#x27;s recorded history in which sev...</p></details>
-   Published: April 13, 1897  
+   Published: April 13, 1897

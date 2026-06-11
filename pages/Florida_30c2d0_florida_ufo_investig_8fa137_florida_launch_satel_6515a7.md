@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /investigations/
 nav_short_title: Launch effects
 title: When Florida launches look like UFOs
-title_full: When Florida launches look like UFOs | Investigations
+title_full: When Florida launches look like UFOs
 display_title_short: Launch effects
 display_title: Launch effects
 heading_title: When Florida launches look like UFOs
@@ -200,15 +200,15 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:12:40'
-parent_title: 'Investigating Florida UFO Sightings: Fact vs Hoax | FloridaUFOs'
+parent_title: 'Investigating Florida UFO Sightings: Fact vs Hoax'
 parent_permalink: /investigations/
 parent_nav_short_title: Investigations
 parent_heading_title: 'Investigating Florida UFO Sightings: Fact vs Hoax'
 ancestor_links:
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Florida_30c2d0_florida_ufo_investig_8fa137
   title: Investigations | What Makes Florida a Hotspot for UFO Sightings?
   permalink: /investigations/
@@ -216,9 +216,9 @@ ancestor_links:
   heading_title: 'Investigating Florida UFO Sightings: Fact vs Hoax'
 breadcrumb_links:
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Florida_30c2d0_florida_ufo_investig_8fa137
   title: Investigations | What Makes Florida a Hotspot for UFO Sightings?
   permalink: /investigations/
@@ -250,41 +250,37 @@ image: /assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_florida_launch_
 
 ## Introduction
 
-[Florida]({{ 'what-makes-florida-a-hotspot-for-ufo/' | relative_url }})’s decades‑long connection with spaceflight means that unusual lights and shapes in the sky often have straightforward aerospace explanations. Cape Canaveral and the Space Coast are among the world’s busiest space‑access corridors, with regular rocket launches and satellite deployments that, to many casual observers, look astonishing or unexplained. What local UFO reports sometimes describe as “strange lights” or “mystery objects” in the sky are frequently **rocket exhaust plumes, stage separations or lines of newly‑released satellites**, especially during twilight when atmospheric lighting enhances visibility. This page explains why these phenomena recur in Florida, how they can be mistaken for unidentified aerial objects, and what checks can help separate routine space activity from genuinely unknown cases.
+Florida’s decades‑long connection with spaceflight means that unusual lights and shapes in the sky often have straightforward aerospace explanations. Cape Canaveral and the Space Coast are among the world’s busiest space‑access corridors, with regular rocket launches and satellite deployments that, to many casual observers, look astonishing or unexplained. What local UFO reports sometimes describe as “strange lights” or “mystery objects” in the sky are frequently **rocket exhaust plumes, stage separations or lines of newly‑released satellites**, especially during twilight when atmospheric lighting enhances visibility. This page explains why these phenomena recur in Florida, how they can be mistaken for unidentified aerial objects, and what checks can help separate routine space activity from genuinely unknown cases.
 
-
-<img src="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_florida_launch_satel_6515a7-Illustration-1-light.svg" | relative_url }}" alt="Launch effects illustration 1" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_florida_launch_satel_6515a7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_florida_launch_satel_6515a7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_florida_launch_satel_6515a7-Illustration-1-dark.svg" | relative_url }}" alt="Launch effects illustration 1" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_florida_launch_satel_6515a7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_florida_launch_satel_6515a7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Florida’s spaceflight corridor produces striking sky effects
 
 Cape Canaveral on Florida’s east coast is home to **numerous orbital launch facilities**, including NASA’s Kennedy Space Center and Space Force Station complexes. Rockets are launched eastward over the Atlantic to reach polar and equatorial orbits, meaning a wide swathe of Florida and the eastern U.S. can visually register their ascent and evolving exhaust patterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/miami/news/not-a-ufo-bright-light-was-rocket-launch-from-cape-canaveral/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News Not A UFO, Bright Light Was Rocket Launch From Cape Canaveral</span><span class="citation-popover-snippet">CBS NewsNot A UFO, Bright Light Was Rocket Launch From Cape Canaveral - CBS MiamiAugust 8, 2019...</span><span class="citation-popover-meta">Published: August 8, 2019</span></span></span>
 
 Under the right conditions—especially **just after sunset or before sunrise**—a plume of rocket exhaust at high altitude catches sunlight long after the ground is in darkness. This can produce **bulbous, iridescent or halo‑like clouds**, sometimes described as “jellyfish” effects because of their shape and glow against a dark sky. These are caused by sunlight reflecting off rocket exhaust (primarily water vapour and carbon dioxide) at high altitudes where the atmosphere is thin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-40-b1080-ccsfs-asog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">The effect resulted from the sunlight illuminating the Falcon 9 rocket&#x27;s high-altitude exhaust plume before sunrise, producing a bulbous...</span></span></span>
 
-Such effects are not confined to a single rocket type but are common with **SpaceX Falcon 9 launches** carrying satellites—including the frequent Starlink missions that launch from Florida. The visual spectacle from these missions can stretch hundreds of miles across the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceX Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports (Video) | SpaceSeptember 30, 2013 — SPACEX ROCKET LAUNCH SPARKS &#x27;UFO&#x27; SIGHTINGS: REP...</span><span class="citation-popover-meta">Published: September 30, 2013</span></span></span>
-
+Such effects are not confined to a single rocket type but are common with **SpaceX Falcon 9 launches** carrying satellites—including the frequent Starlink missions that launch from Florida. The visual spectacle from these missions can stretch hundreds of miles across the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">X Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports (Video) &#124; SpaceSeptember 30, 2013 — SPACEX ROCKET LAUNCH SPARKS &#x27;UFO&#x27; SIGHTINGS: REP...</span><span class="citation-popover-meta">Published: September 30, 2013</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xd_7t43WL78" title="SpaceX launch lights up the sky in an unbelievable way" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xd_7t43WL78" target="_blank" rel="noopener noreferrer">SpaceX launch lights up the sky in an unbelievable way</a></p><p class="youtube-embed-meta">Channel: News4JAX The Local Station &middot; Views: 63.5K &middot; Uploaded: May 2022 &middot; Length: 2 minutes 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xd_7t43WL78" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xd_7t43WL78">Open on YouTube</a></p></div></div></div>
 
 ## Satellite trains and staggered lights mistaken for UFOs
 
-Another common trigger for UFO reports in Florida and beyond is the sight of **satellite “trains”**—groups of satellites launched together that have not yet spread into their individual orbits. Most famously, **SpaceX’s Starlink constellation** has led to long strings of bright points moving in tight formation across the night sky shortly after deployment. Sightings of these trains can look like a string of lights moving in unison—sometimes reported as “unusual formations” or unidentified craft by witnesses unacquainted with the phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">Popular Science What that UFO might actually be | Popular Science</span><span class="citation-popover-snippet">Popular ScienceWhat that UFO might actually be | Popular ScienceSeptember 10, 2023...</span><span class="citation-popover-meta">Published: September 10, 2023</span></span></span>
+Another common trigger for UFO reports in Florida and beyond is the sight of **satellite “trains”**—groups of satellites launched together that have not yet spread into their individual orbits. Most famously, **SpaceX’s Starlink constellation** has led to long strings of bright points moving in tight formation across the night sky shortly after deployment. Sightings of these trains can look like a string of lights moving in unison—sometimes reported as “unusual formations” or unidentified craft by witnesses unacquainted with the phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">Popular Science What that UFO might actually be &#124; Popular Science</span><span class="citation-popover-snippet">Popular ScienceWhat that UFO might actually be &#124; Popular ScienceSeptember 10, 2023...</span><span class="citation-popover-meta">Published: September 10, 2023</span></span></span>
 
-This kind of misidentification has also been documented more formally outside Florida; research on aviation sightings notes that recently launched satellites can be misreported as UAP by pilots and lay observers alike because of changing reflectivity and orbital evolution shortly after launch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+This kind of misidentification has also been documented more formally outside Florida; research on aviation sightings notes that recently launched satellites can be misreported as UAP by pilots and lay observers alike because of changing reflectivity and orbital evolution shortly after launch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 The pattern is predictable: from Earth’s surface, the satellites reflect sunlight as they catch the sun’s rays, creating a **moving line of bright lights** that can last minutes depending on the angle of observation and the satellites’ orbital track. This effect is most vivid at dawn or dusk, which coincides with many scheduled launches from Florida’s facilities.
 
-
-<img src="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_florida_launch_satel_6515a7-Illustration-2-light.svg" | relative_url }}" alt="Launch effects illustration 2" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_florida_launch_satel_6515a7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_florida_launch_satel_6515a7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_florida_launch_satel_6515a7-Illustration-2-dark.svg" | relative_url }}" alt="Launch effects illustration 2" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_florida_launch_satel_6515a7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_florida_launch_satel_6515a7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common misidentifications around Florida
 
 Across years of eyewitness reports, recurring rocket‑and‑satellite phenomena show up in forms that often resemble classic UFO descriptions:
 
 * **Slowly moving bright dots or streaks** across the night or twilight sky, later correlated with the launch of a **Falcon 9 rocket** and deployment of satellites. Thousands of observers along the eastern seaboard have reported “UFOs” that aligned in time and direction with Florida launches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ibtimes.com/ufo-spotted-thousands-east-coast-strange-light-just-falcon-9-3616905" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibtimes.com">[International Business Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibtimes.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **Unusual cloud‑like shapes** following a launch, such as a glowing halo or bulbous form far above the horizon, produced when a rocket’s upper stage vents fuel or when sunlight highlights the high‑altitude plume at sunset. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">Popular Science What that UFO might actually be | Popular Science</span><span class="citation-popover-snippet">Popular ScienceWhat that UFO might actually be | Popular ScienceSeptember 10, 2023...</span><span class="citation-popover-meta">Published: September 10, 2023</span></span></span>
+* **Unusual cloud‑like shapes** following a launch, such as a glowing halo or bulbous form far above the horizon, produced when a rocket’s upper stage vents fuel or when sunlight highlights the high‑altitude plume at sunset. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">Popular Science What that UFO might actually be &#124; Popular Science</span><span class="citation-popover-snippet">Popular ScienceWhat that UFO might actually be &#124; Popular ScienceSeptember 10, 2023...</span><span class="citation-popover-meta">Published: September 10, 2023</span></span></span>
 * **Sightings reported far from Florida**, including across other states and even in Europe, that later traced back to a Cape Canaveral launch whose exhaust or reflective contrails became visible under night‑side lighting conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">The Washington PostStrange blue spiral over Europe likely linked to SpaceX rocket launch - The Washington PostMarch 25, 2025...</span><span class="citation-popover-meta">Published: March 25, 2025</span></span></span>
 
-Witness reports collected on social platforms and UFO‑reporting forums frequently show confusion about these events’ origins, with observers unaware of the *when and where* of routine space launches in Florida. That lack of timing and context often makes an unfamiliar spectacle appear inexplicable at first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/florida/comments/1cr9sbq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Is this a rocket launch?</span><span class="citation-popover-snippet">RedditIs this a rocket launch?May 13, 2024...</span><span class="citation-popover-meta">Published: May 13, 2024</span></span></span>
-
+Witness reports collected on social platforms and UFO‑reporting forums frequently show confusion about these events’ origins, with observers unaware of the *when and where* of routine space launches in Florida. That lack of timing and context often makes an unfamiliar spectacle appear inexplicable at first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/florida/comments/1cr9sbq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Is this a rocket launch?</span><span class="citation-popover-snippet">Is this a rocket launch?May 13, 2024...</span><span class="citation-popover-meta">Published: May 13, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vdBnNySeqm4" title="The Cause Of Apparent UFO With Blue Orb Hovering Over Airport Revealed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vdBnNySeqm4" target="_blank" rel="noopener noreferrer">The Cause Of Apparent UFO With Blue Orb Hovering Over Airport Revealed</a></p><p class="youtube-embed-meta">Channel: Inside Edition &middot; Views: 473.7K &middot; Uploaded: July 2016 &middot; Length: 1 minute 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vdBnNySeqm4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vdBnNySeqm4">Open on YouTube</a></p></div></div></div>
 
@@ -292,24 +288,21 @@ Witness reports collected on social platforms and UFO‑reporting forums frequen
 
 When evaluating whether a sighting is genuinely unexplained, a few straightforward checks can greatly reduce misclassification:
 
-* **Timing against official launch schedules:** Launch times from Cape Canaveral and nearby complexes are publicly posted well in advance. Cross‑checking sighting times with confirmed launches can explain many reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/florida/comments/1cr9sbq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Is this a rocket launch?</span><span class="citation-popover-snippet">RedditIs this a rocket launch?May 13, 2024...</span><span class="citation-popover-meta">Published: May 13, 2024</span></span></span>
-* **Direction and movement:** Rockets travel on predictable eastward or orbital insertion trajectories. A sighting moving in a straight, gradual, east‑west or west‑east arc, especially visible around twilight, is often a satellite train rather than a closer airborne object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">Popular Science What that UFO might actually be | Popular Science</span><span class="citation-popover-snippet">Popular ScienceWhat that UFO might actually be | Popular ScienceSeptember 10, 2023...</span><span class="citation-popover-meta">Published: September 10, 2023</span></span></span>
-* **Appearance of multiple lights:** A line of lights moving in formation over several seconds or minutes matches the signature of recently released satellites (e.g. Starlink) rather than an isolated craft with propulsion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">Popular Science What that UFO might actually be | Popular Science</span><span class="citation-popover-snippet">Popular ScienceWhat that UFO might actually be | Popular ScienceSeptember 10, 2023...</span><span class="citation-popover-meta">Published: September 10, 2023</span></span></span>
+* **Timing against official launch schedules:** Launch times from Cape Canaveral and nearby complexes are publicly posted well in advance. Cross‑checking sighting times with confirmed launches can explain many reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/florida/comments/1cr9sbq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Is this a rocket launch?</span><span class="citation-popover-snippet">Is this a rocket launch?May 13, 2024...</span><span class="citation-popover-meta">Published: May 13, 2024</span></span></span>
+* **Direction and movement:** Rockets travel on predictable eastward or orbital insertion trajectories. A sighting moving in a straight, gradual, east‑west or west‑east arc, especially visible around twilight, is often a satellite train rather than a closer airborne object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">Popular Science What that UFO might actually be &#124; Popular Science</span><span class="citation-popover-snippet">Popular ScienceWhat that UFO might actually be &#124; Popular ScienceSeptember 10, 2023...</span><span class="citation-popover-meta">Published: September 10, 2023</span></span></span>
+* **Appearance of multiple lights:** A line of lights moving in formation over several seconds or minutes matches the signature of recently released satellites (e.g. Starlink) rather than an isolated craft with propulsion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">Popular Science What that UFO might actually be &#124; Popular Science</span><span class="citation-popover-snippet">Popular ScienceWhat that UFO might actually be &#124; Popular ScienceSeptember 10, 2023...</span><span class="citation-popover-meta">Published: September 10, 2023</span></span></span>
 * **Meteorological lighting effects:** Unusual glows or cloud shapes at high altitude that pivot with the sun’s position are consistent with atmospheric illumination of rocket plumes, especially around dawn or dusk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-40-b1080-ccsfs-asog" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">The effect resulted from the sunlight illuminating the Falcon 9 rocket&#x27;s high-altitude exhaust plume before sunrise, producing a bulbous...</span></span></span>
 
 These criteria do not dismiss witness reports but provide a practical framework for distinguishing **aerospace phenomena associated with Florida’s launch activity** from genuinely unidentified aerial anomalies.
 
-
-<img src="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_florida_launch_satel_6515a7-Illustration-3-light.svg" | relative_url }}" alt="Launch effects illustration 3" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_florida_launch_satel_6515a7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_florida_launch_satel_6515a7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_florida_launch_satel_6515a7-Illustration-3-dark.svg" | relative_url }}" alt="Launch effects illustration 3" data-theme-src-dark="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_florida_launch_satel_6515a7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Florida_30c2d0_florida_ufo_investig_8fa137_florida_launch_satel_6515a7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How this fits into Florida’s broader UFO pattern
 
-Florida’s prominence in space access makes aerospace phenomena a regular feature of its skywatching experience. Unlike isolated reports in less active aerospace zones, many of the state’s UFO reports coincide with **visible rocket launches or satellite deployments**, and experts emphasise that familiarity with these events can dramatically reduce misinterpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">EarthSkyIs that a UFO?! There&#x27;s probably an explanation | Human World | EarthSkyDecember 15, 2020...</span><span class="citation-popover-meta">Published: December 15, 2020</span></span></span>
+Florida’s prominence in space access makes aerospace phenomena a regular feature of its skywatching experience. Unlike isolated reports in less active aerospace zones, many of the state’s UFO reports coincide with **visible rocket launches or satellite deployments**, and experts emphasise that familiarity with these events can dramatically reduce misinterpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">Is that a UFO?! There&#x27;s probably an explanation &#124; Human World &#124; EarthSkyDecember 15, 2020...</span><span class="citation-popover-meta">Published: December 15, 2020</span></span></span>
 
-Recognising these mechanisms helps place many remarkable sky sightings within a **natural and traceable framework** of human spaceflight rather than mysterious or unexplained anomalies. When a thorough timing, trajectory and appearance assessment aligns with Florida’s regular launch schedule, the most striking UFO reports often become well‑understood aerospace events. This doesn’t negate all unidentified reports, but it does explain a substantial subset of sightings that would otherwise seem anomalous to casual observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">EarthSkyIs that a UFO?! There&#x27;s probably an explanation | Human World | EarthSkyDecember 15, 2020...</span><span class="citation-popover-meta">Published: December 15, 2020</span></span></span>
-
+Recognising these mechanisms helps place many remarkable sky sightings within a **natural and traceable framework** of human spaceflight rather than mysterious or unexplained anomalies. When a thorough timing, trajectory and appearance assessment aligns with Florida’s regular launch schedule, the most striking UFO reports often become well‑understood aerospace events. This doesn’t negate all unidentified reports, but it does explain a substantial subset of sightings that would otherwise seem anomalous to casual observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">Is that a UFO?! There&#x27;s probably an explanation &#124; Human World &#124; EarthSkyDecember 15, 2020...</span><span class="citation-popover-meta">Published: December 15, 2020</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3saCf6xJ2gk" title="Spectacular pulsing plumes from the Inspiration4 rocket" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3saCf6xJ2gk" target="_blank" rel="noopener noreferrer">Spectacular pulsing plumes from the Inspiration4 rocket</a></p><p class="youtube-embed-meta">Channel: Spaceflight Now &middot; Views: 16.3K &middot; Uploaded: September 2021 &middot; Length: 2 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3saCf6xJ2gk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3saCf6xJ2gk">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -732,80 +725,80 @@ Recognising these mechanisms helps place many remarkable sky sightings within a 
 
 1. <a id="endnote-1"></a>
    Source: space.com  
-   Link: [https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-40-b1080-ccsfs-asog](https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-40-b1080-ccsfs-asog)  
+   Link: <a href="https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-40-b1080-ccsfs-asog" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-40-b1080-ccsfs-asog</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect resulted from the sunlight illuminating the Falcon 9 rocket&#x27;s high-altitude exhaust plume before sunrise, producing a bulbous...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: Is this a rocket launch?  
-   Link: [https://www.reddit.com/r/florida/comments/1cr9sbq](https://www.reddit.com/r/florida/comments/1cr9sbq)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditIs this a rocket launch?May 13, 2024...</p></details>
+   Link: <a href="https://www.reddit.com/r/florida/comments/1cr9sbq" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/florida/comments/1cr9sbq</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is this a rocket launch?May 13, 2024...</p></details>
    Published: May 13, 2024  
 
 4. <a id="endnote-4"></a>
    Source: earthsky.org  
-   Link: [https://earthsky.org/space/if-its-not-a-ufo-what-is-it/](https://earthsky.org/space/if-its-not-a-ufo-what-is-it/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthSkyIs that a UFO?! There&#x27;s probably an explanation | Human World | EarthSkyDecember 15, 2020...</p></details>
+   Link: <a href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/if-its-not-a-ufo-what-is-it/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is that a UFO?! There&#x27;s probably an explanation | Human World | EarthSkyDecember 15, 2020...</p></details>
    Published: December 15, 2020  
 
 5. <a id="endnote-5"></a>
    Source: earthsky.org  
    Title: Starlink satellites can look like a plume or train of light  
-   Link: [https://earthsky.org/space/spacex-starlink-satellites-explained/](https://earthsky.org/space/spacex-starlink-satellites-explained/)  
+   Link: <a href="https://earthsky.org/space/spacex-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/spacex-starlink-satellites-explained/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 12, 2022 — STARLINK SATELLITES CAN LOOK LIKE A PLUME OR TRAIN OF LIGHT Posted by Lia De La Cruz and Image September 12, 2022 Im...</p></details>
    Published: September 12, 2022  
 
 6. <a id="endnote-6"></a>
    Source: space.com  
-   Link: [https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html](https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports (Video) | SpaceSeptember 30, 2013 — SPACEX ROCKET LAUNCH SPARKS &#x27;UFO&#x27; SIGHTINGS: REP...</p></details>
+   Link: <a href="https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/23013-spacex-falcon-9-rocket-ufo.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>X Rocket Launch Sparks &#x27;UFO&#x27; Sightings: Reports (Video) | SpaceSeptember 30, 2013 — SPACEX ROCKET LAUNCH SPARKS &#x27;UFO&#x27; SIGHTINGS: REP...</p></details>
    Published: September 30, 2013  
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Space X launch lights up the sky in an unbelievable way  
-   Link: [https://www.youtube.com/watch?v=xd_7t43WL78](https://www.youtube.com/watch?v=xd_7t43WL78)  
+   Link: <a href="https://www.youtube.com/watch?v=xd_7t43WL78" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xd_7t43WL78</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO overhead? No, stunning #SpaceX #Starlink pass (2/13/23)...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cbsnews.com  
    Title: CBS News Not A UFO, Bright Light Was Rocket Launch From Cape Canaveral  
-   Link: [https://www.cbsnews.com/miami/news/not-a-ufo-bright-light-was-rocket-launch-from-cape-canaveral/](https://www.cbsnews.com/miami/news/not-a-ufo-bright-light-was-rocket-launch-from-cape-canaveral/)  
+   Link: <a href="https://www.cbsnews.com/miami/news/not-a-ufo-bright-light-was-rocket-launch-from-cape-canaveral/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/miami/news/not-a-ufo-bright-light-was-rocket-launch-from-cape-canaveral/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsNot A UFO, Bright Light Was Rocket Launch From Cape Canaveral - CBS MiamiAugust 8, 2019...</p></details>
    Published: August 8, 2019  
 
 9. <a id="endnote-9"></a>
    Source: popsci.com  
    Title: Popular Science What that UFO might actually be | Popular Science  
-   Link: [https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/](https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/)  
+   Link: <a href="https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/science/ufo-sightings-explained-rocket-satellite-venus/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular ScienceWhat that UFO might actually be | Popular ScienceSeptember 10, 2023...</p></details>
    Published: September 10, 2023  
 
 10. <a id="endnote-10"></a>
    Source: ibtimes.com  
-   Link: [https://www.ibtimes.com/ufo-spotted-thousands-east-coast-strange-light-just-falcon-9-3616905](https://www.ibtimes.com/ufo-spotted-thousands-east-coast-strange-light-just-falcon-9-3616905)  
+   Link: <a href="https://www.ibtimes.com/ufo-spotted-thousands-east-coast-strange-light-just-falcon-9-3616905" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.com/ufo-spotted-thousands-east-coast-strange-light-just-falcon-9-3616905</a>  
 
 11. <a id="endnote-11"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/](https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/)  
+   Link: <a href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostStrange blue spiral over Europe likely linked to SpaceX rocket launch - The Washington PostMarch 25, 2025...</p></details>
    Published: March 25, 2025  
 
 12. <a id="endnote-12"></a>
    Source: sciencetimes.com  
-   Link: [https://www.sciencetimes.com/articles/42120/20230130/elon-musks-spacex-causes-mysterious-blue-spiral-hawaiian-skies-baffles.htm](https://www.sciencetimes.com/articles/42120/20230130/elon-musks-spacex-causes-mysterious-blue-spiral-hawaiian-skies-baffles.htm)  
+   Link: <a href="https://www.sciencetimes.com/articles/42120/20230130/elon-musks-spacex-causes-mysterious-blue-spiral-hawaiian-skies-baffles.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencetimes.com/articles/42120/20230130/elon-musks-spacex-causes-mysterious-blue-spiral-hawaiian-skies-baffles.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Starlink Produces Noctilucent Clouds in Florida After Launching 56 SatellitesJanuary 30, 2023 — SPACEX STARLINK PRODUCES NOCTILUCE...</p></details>
    Published: January 30, 2023  
 
 13. <a id="endnote-13"></a>
    Source: newsweek.com  
    Title: Space X Falcon 9 Starlink Launch Mistaken for Comet Shooting Across the Sky  
-   Link: [https://www.newsweek.com/spacex-starlink-launch-trail-1576109](https://www.newsweek.com/spacex-starlink-launch-trail-1576109)  
+   Link: <a href="https://www.newsweek.com/spacex-starlink-launch-trail-1576109" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/spacex-starlink-launch-trail-1576109</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Falcon 9 Starlink Launch Mistaken for Comet Shooting Across the Sky - NewsweekMarch 15, 2021 — SPACEX FALCON 9 STARLINK LAUNCH MIS...</p></details>
    Published: March 15, 2021  
 
@@ -813,64 +806,64 @@ Recognising these mechanisms helps place many remarkable sky sightings within a 
 
 14. <a id="endnote-14"></a>
    Source: independent.co.uk  
-   Link: [https://www.independent.co.uk/space/spiral-sky-night-spacex-rocket-launch-b2721481.html](https://www.independent.co.uk/space/spiral-sky-night-spacex-rocket-launch-b2721481.html)  
+   Link: <a href="https://www.independent.co.uk/space/spiral-sky-night-spacex-rocket-launch-b2721481.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/space/spiral-sky-night-spacex-rocket-launch-b2721481.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 25, 2025 — HUGE, EERIE SPIRAL LIGHTS UP THE SKY – BUT THERE IS AN OFFICIAL EXPLANATION Frozen exhaust fumes caused strange spectacl...</p></details>
    Published: March 25, 2025  
 
 15. <a id="endnote-15"></a>
    Source: fox29.com  
-   Link: [https://www.fox29.com/news/no-ufo-no-meteor-seen-in-delaware-valley-skies-but-a-florida-rocket-launch](https://www.fox29.com/news/no-ufo-no-meteor-seen-in-delaware-valley-skies-but-a-florida-rocket-launch)  
+   Link: <a href="https://www.fox29.com/news/no-ufo-no-meteor-seen-in-delaware-valley-skies-but-a-florida-rocket-launch" target="_blank" rel="noopener noreferrer nofollow">https://www.fox29.com/news/no-ufo-no-meteor-seen-in-delaware-valley-skies-but-a-florida-rocket-launch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>September 24, 2022 — NO UFO, NO METEOR SEEN IN DELAWARE VALLEY SKIES BUT A FLORIDA ROCKET LAUNCH By Drew Anderson Published September 24...</p></details>
    Published: September 24, 2022  
 
 16. <a id="endnote-16"></a>
    Source: smithsonianmag.com  
-   Link: [https://www.smithsonianmag.com/air-space-magazine/the-great-soviet-crescent-180964339/](https://www.smithsonianmag.com/air-space-magazine/the-great-soviet-crescent-180964339/)  
+   Link: <a href="https://www.smithsonianmag.com/air-space-magazine/the-great-soviet-crescent-180964339/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/the-great-soviet-crescent-180964339/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James Oberg September 2017 Image: The Soviet nuclear missiles The Soviet nuclear missiles that produced the crescent...</p></details>
    Published: September 2017  
 
 17. <a id="endnote-17"></a>
    Source: nottinghammd.com  
    Title: Mysterious light in East Coast skies identified as secret rocket launch  
-   Link: [https://nottinghammd.com/2025/08/13/mysterious-light-in-east-coast-skies-identified-as-secret-rocket-launch/](https://nottinghammd.com/2025/08/13/mysterious-light-in-east-coast-skies-identified-as-secret-rocket-launch/)  
+   Link: <a href="https://nottinghammd.com/2025/08/13/mysterious-light-in-east-coast-skies-identified-as-secret-rocket-launch/" target="_blank" rel="noopener noreferrer nofollow">https://nottinghammd.com/2025/08/13/mysterious-light-in-east-coast-skies-identified-as-secret-rocket-launch/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 13, 2025 — Image: East Coast UFO Rocket Launch 20250812 MYSTERIOUS LIGHT IN EAST COAST SKIES IDENTIFIED AS SECRET ROCKET LAUNCH *...</p></details>
    Published: August 13, 2025  
 
 18. <a id="endnote-18"></a>
    Source: arstechnica.com  
    Title: A lot of people are mistaking Elon Musk’s Starlink satellites for UAPs  
-   Link: [https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/](https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/)  
+   Link: <a href="https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ars TechnicaNovember 15, 2024 — A LOT OF PEOPLE ARE MISTAKING ELON MUSK’S STARLINK SATELLITES FOR UAPS “We were able to assess that they...</p></details>
    Published: November 15, 2024  
 
 19. <a id="endnote-19"></a>
    Source: ufoindex.com  
    Title: Browse the reports below. 157 documented sightings in Flori  
-   Link: [https://www.ufoindex.com/florida](https://www.ufoindex.com/florida)  
+   Link: <a href="https://www.ufoindex.com/florida" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/florida</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Florida UFO ReportsFLORIDA UFO REPORTS Witnesses have reported strange lights, unidentified flying objects, and unexplained aerial phenom...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: skyatnightmagazine.com  
    Title: 17 things commonly mistaken for UFOs | BBC Sky at Night Magazine  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Consider the following possibilities... Get monthly inspiration to your door with BBC Sky At Night Magazine - subscribe toda...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: myuap.report  
    Title: Known Objects: Space X Starlink Satellite Deployment  
-   Link: [https://myuap.report/reporting-toolbox/known-objects/spacex-starlink-satellites](https://myuap.report/reporting-toolbox/known-objects/spacex-starlink-satellites)  
+   Link: <a href="https://myuap.report/reporting-toolbox/known-objects/spacex-starlink-satellites" target="_blank" rel="noopener noreferrer nofollow">https://myuap.report/reporting-toolbox/known-objects/spacex-starlink-satellites</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Known Objects: SpaceX Starlink Satellite DeploymentFebruary 26, 2023 — ImageWatch the video KNOWN OBJECTS: SPACEX STARLINK SATELLITE DEPL...</p></details>
    Published: February 26, 2023  
 
 22. <a id="endnote-22"></a>
    Source: rt.com  
    Title: ‘Nuclear alien UFO from N  
-   Link: [https://www.rt.com/news/414078-rocket-launches-ufo-rumors/](https://www.rt.com/news/414078-rocket-launches-ufo-rumors/)  
+   Link: <a href="https://www.rt.com/news/414078-rocket-launches-ufo-rumors/" target="_blank" rel="noopener noreferrer nofollow">https://www.rt.com/news/414078-rocket-launches-ufo-rumors/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Korea!’ 5 times rocket launches triggered UFO frenzy (VIDEOS) — RT World NewsDecember 23, 2017 — ‘NUCLEAR ALIEN UFO FROM N. KOREA!’ 5 TIM...</p></details>
    Published: December 23, 2017  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Nighttime Space X launch from Florida creates sensation along entire East coast  
-   Link: [https://www.youtube.com/watch?v=L5vfvaQxrpk](https://www.youtube.com/watch?v=L5vfvaQxrpk)  
+   Link: <a href="https://www.youtube.com/watch?v=L5vfvaQxrpk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L5vfvaQxrpk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cause Of Apparent UFO With Blue Orb Hovering Over Airport Revealed...</p></details>

@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-arizona-became-a-ufo-state/
 nav_short_title: Military Skies
 title: How Military Flights Shape Arizona UFO Reports
-title_full: How Military Flights Shape Arizona UFO Reports | Arizona UFOs
+title_full: How Military Flights Shape Arizona UFO Reports
 display_title_short: Military Skies
 display_title: Military Skies
 heading_title: How Military Flights Shape Arizona UFO Reports
@@ -268,20 +268,17 @@ image: /assets/images/Arizona_104fd3_military_ranges_004e92-overview-social.jpg
 
 ## Introduction
 
-[Arizona]({{ 'why-arizona-became-a-ufo-state/' | relative_url }})’s vast expanses of restricted airspace and military training ranges are woven deeply into the state’s UFO reporting history. In areas such as the Barry M. Goldwater Air Force Range — a 1.6‑1.7 million‑acre military use area in the south‑west of the state — routine fighter pilot training, illumination flares and aircraft manoeuvres have repeatedly been mistaken for unidentified aerial phenomena by residents and observers. Understanding this military backdrop helps explain why some of the state’s most intense and enduring “UFO” reports have, upon investigation, been linked to human activity rather than unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Barry_M._Goldwater_Air_Force_Range" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Barry M. Goldwater Air Force Range</span><span class="citation-popover-snippet">Barry M. Goldwater Air Force Range</span></span></span>
-
+Arizona’s vast expanses of restricted airspace and military training ranges are woven deeply into the state’s UFO reporting history. In areas such as the Barry M. Goldwater Air Force Range — a 1.6‑1.7 million‑acre military use area in the south‑west of the state — routine fighter pilot training, illumination flares and aircraft manoeuvres have repeatedly been mistaken for unidentified aerial phenomena by residents and observers. Understanding this military backdrop helps explain why some of the state’s most intense and enduring “UFO” reports have, upon investigation, been linked to human activity rather than unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Barry_M._Goldwater_Air_Force_Range" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Barry M. Goldwater Air Force Range</span><span class="citation-popover-snippet">Barry M. Goldwater Air Force Range</span></span></span>
 
 <img src="{{ "/assets/images/Arizona_104fd3_military_ranges_004e92-overview.webp" | relative_url }}" alt="Overview image for Military Skies" loading="eager" decoding="sync" fetchpriority="high">
 ## How Military Flight Activity Shows Up as Strange Lights
 
 Arizona hosts extensive military training airspace used by multiple Air Force and Marine aviation units. This airspace includes not just the Barry M. Goldwater Range used by A‑10s, F‑16s and F‑35s, but numerous Military Operating Areas (MOAs) and Special Use Airspace zones where pilots practise combat manoeuvres, tactics and night training. Restricted zones like those adjacent to Luke Air Force Base or Marine Corps Air Station Yuma see frequent activity that can appear mysterious from ground level. Observers unfamiliar with these operations often interpret bright lights, rapid motion, or unusual [formations]({{ 'formations/' | relative_url }}) as unexplained aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cf.org/news/pilots-are-seeing-some-very-strange-things-in-arizonas-military-training-ranges/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cf.org">[CF.ORG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cf.org</span><span class="citation-popover-title">Pilots Are Seeing Some Very Strange Things in Arizona’s Military Training Ranges</span><span class="citation-popover-snippet">August 4, 2023...</span><span class="citation-popover-meta">Published: August 4, 2023</span></span></span>
 
-
-<img src="{{ "/assets/images/Arizona_104fd3_military_ranges_004e92-Illustration-1-light.svg" | relative_url }}" alt="Military Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_military_ranges_004e92-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_military_ranges_004e92-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arizona_104fd3_military_ranges_004e92-Illustration-1-dark.svg" | relative_url }}" alt="Military Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_military_ranges_004e92-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_military_ranges_004e92-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Flares and Illumination Exercises
 
-One of the clearest mechanisms for mistaken sightings is the use of illumination flares during night training. Military jets such as A‑10 “Warthog” aircraft routinely practise by dropping LUU‑2B/B parachute flares. These are bright, slow‑descending pyrotechnic devices designed to light a ground area, and when released at altitude they can be visible for miles and appear as stationary or slowly moving lights against a dark sky. From distant vantage points in cities or desert roads, these descending flares can easily be misinterpreted as unusual or inexplicable aerial objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://moleopedia.com/famous-paranormal-cases/phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moleopedia.com">[Moleopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moleopedia.com</span><span class="citation-popover-title">The Phoenix Lights: UFOs or Flares?</span><span class="citation-popover-snippet">MoleopediaThe Phoenix Lights: UFOs or Flares? - MoleopediaJune 21, 2025...</span><span class="citation-popover-meta">Published: June 21, 2025</span></span></span>
-
+One of the clearest mechanisms for mistaken sightings is the use of illumination flares during night training. Military jets such as A‑10 “Warthog” aircraft routinely practise by dropping LUU‑2B/B parachute flares. These are bright, slow‑descending pyrotechnic devices designed to light a ground area, and when released at altitude they can be visible for miles and appear as stationary or slowly moving lights against a dark sky. From distant vantage points in cities or desert roads, these descending flares can easily be misinterpreted as unusual or inexplicable aerial objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://moleopedia.com/famous-paranormal-cases/phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moleopedia.com">[Moleopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moleopedia.com</span><span class="citation-popover-title">The Phoenix Lights: UFOs or Flares?</span><span class="citation-popover-snippet">The Phoenix Lights: UFOs or Flares? - MoleopediaJune 21, 2025...</span><span class="citation-popover-meta">Published: June 21, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Vg_qU69Hj1w" title="SCARY ALIEN INVASION CONSPIRACY THEORY || NOT ALONE || Ep.4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Vg_qU69Hj1w" target="_blank" rel="noopener noreferrer">SCARY ALIEN INVASION CONSPIRACY THEORY || NOT ALONE || Ep.4</a></p><p class="youtube-embed-meta">Channel: FING &middot; Views: 767.6K &middot; Uploaded: March 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Vg_qU69Hj1w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Vg_qU69Hj1w">Open on YouTube</a></p></div></div></div>
 
@@ -289,8 +286,7 @@ One of the clearest mechanisms for mistaken sightings is the use of illumination
 
 Separate from flares, coordinated flight operations — whether air combat manoeuvres, pairs of jets or squadrons in formation — may look unconventional when seen from the ground without context. Lights along a line or distinct patterns of movement are more easily interpreted as enigmas than as tactical formation flying. Over time, such formations have entered public lore as “mystery craft” when in fact they reflect disciplined training routines of military aviation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cf.org/news/pilots-are-seeing-some-very-strange-things-in-arizonas-military-training-ranges/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cf.org">[CF.ORG]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cf.org</span><span class="citation-popover-title">Pilots Are Seeing Some Very Strange Things in Arizona’s Military Training Ranges</span><span class="citation-popover-snippet">August 4, 2023...</span><span class="citation-popover-meta">Published: August 4, 2023</span></span></span>
 
-
-<img src="{{ "/assets/images/Arizona_104fd3_military_ranges_004e92-Illustration-2-light.svg" | relative_url }}" alt="Military Skies illustration 2" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_military_ranges_004e92-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_military_ranges_004e92-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arizona_104fd3_military_ranges_004e92-Illustration-2-dark.svg" | relative_url }}" alt="Military Skies illustration 2" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_military_ranges_004e92-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_military_ranges_004e92-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Case Study: Phoenix Lights and the Goldwater Range
 
 The classic mass‑sighting event known as the [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) (13 March 1997) dramatically illustrates how military training can shape UFO reporting in Arizona.
@@ -298,7 +294,6 @@ The classic mass‑sighting event known as the [Phoenix Lights]({{ 'phoenix-ligh
 On that night, thousands across Phoenix and beyond saw two distinct aerial events: a large V‑shaped formation of lights moving silently early in the evening, and later a line of bright, stationary lights. The later set corresponded in time and appearance to flares dropped by A‑10 aircraft conducting exercises at the Barry M. Goldwater Range about 60 miles south‑west of the city. Military spokespeople from the Maryland Air National Guard confirmed that flares were released during training, and their characteristics — bright, descending slowly under parachutes — align with video and location evidence. From Phoenix, these distant flares would have appeared as hovering lights that faded sequentially as they sank behind the Sierra Estrella mountains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says?_amp=true" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News Flares, not UFOs, caused light show, military says – Deseret News</span><span class="citation-popover-snippet">Deseret NewsFlares, not UFOs, caused light show, military says – Deseret NewsJuly 26, 1997...</span><span class="citation-popover-meta">Published: July 26, 1997</span></span></span>
 
 It’s important to note that this explanation addresses the later stationary lights, not all aspects of the Phoenix Lights accounts. The earlier reports — describing a solid, silent, V‑shaped formation traversing the night sky — remain debated and without a definitive conventional explanation. Many analysts distinguish these as separate phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://uapinvestigations.com/the-phoenix-lights-what-thousands-saw-over-arizona-in-1997/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapinvestigations.com">[UAP Investigations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapinvestigations.com</span><span class="citation-popover-title">the phoenix lights what thousands saw over arizona in 1997</span><span class="citation-popover-snippet">UAP InvestigationsThe Phoenix Lights: What Thousands Saw Over Arizona in 1997 -April 3, 2026...</span><span class="citation-popover-meta">Published: April 3, 2026</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8SUJTh6Hs-I" title="The Phoenix Lights - 17 years later" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8SUJTh6Hs-I" target="_blank" rel="noopener noreferrer">The Phoenix Lights - 17 years later</a></p><p class="youtube-embed-meta">Channel: FOX 10 Phoenix &middot; Views: 22.9K &middot; Uploaded: March 2014 &middot; Length: 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8SUJTh6Hs-I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8SUJTh6Hs-I">Open on YouTube</a></p></div></div></div>
 
@@ -308,15 +303,12 @@ In recent years, discussions of military airspace in Arizona have extended beyon
 
 This pattern illustrates how active training airspace — with fast jets, drone incursions, formation flying and restricted zones — can generate a mix of conventional, misidentified and genuinely uncertain sightings that fuel public interest and reporting.
 
-
-<img src="{{ "/assets/images/Arizona_104fd3_military_ranges_004e92-Illustration-3-light.svg" | relative_url }}" alt="Military Skies illustration 3" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_military_ranges_004e92-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_military_ranges_004e92-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Arizona_104fd3_military_ranges_004e92-Illustration-3-dark.svg" | relative_url }}" alt="Military Skies illustration 3" data-theme-src-dark="{{ "/assets/images/Arizona_104fd3_military_ranges_004e92-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Arizona_104fd3_military_ranges_004e92-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Military Misidentification Matters in Arizona’s UFO Record
 
 Arizona’s unique combination of vast, clear skies and dense military aviation activity makes it a particularly fertile ground for mistaken UFO reports. Bright flares, high‑speed manoeuvres, night training and restricted airspace all contribute to sightings that attract attention and speculation. Analysing these patterns helps separate reports with conventional explanations from those that remain genuinely unresolved, and underscores that not all unusual sightings imply the unknown. Within the state’s broader UFO history, recognisable military mechanisms such as illumination flares and air combat training are indispensable context for interpreting many public reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Barry_M._Goldwater_Air_Force_Range" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Barry M. Goldwater Air Force Range</span><span class="citation-popover-snippet">Barry M. Goldwater Air Force Range</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mI2wGIdRPjI" title="Mass UFO Sightings in Arizona | Alien Investigation Documentary | Full Movie | UFOs Over Phoenix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mI2wGIdRPjI" target="_blank" rel="noopener noreferrer">Mass UFO Sightings in Arizona | Alien Investigation Documentary | Full Movie | UFOs Over Phoenix</a></p><p class="youtube-embed-meta">Channel: THE STREAM - Movies and More &middot; Views: 4.1K &middot; Uploaded: May 2026 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mI2wGIdRPjI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mI2wGIdRPjI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -404,7 +396,7 @@ Arizona’s unique combination of vast, clear skies and dense military aviation 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -414,111 +406,36 @@ Arizona’s unique combination of vast, clear skies and dense military aviation 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display"><img src="{{ '/assets/images/marketplace-covers/27c78e3de724e607809d.jpg' | relative_url }}" alt="Listing image for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-military-flights-shape-arizona-ufo-reports-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="how-military-flights-shape-arizona-ufo-reports-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16cm American B777 Aircraft Model Plane 1:400 Alloy Model With Display Stand F"><img src="https://i.ebayimg.com/images/g/v9wAAOSwg7Fmxqf3/s-l225.jpg" alt="Listing image for 16cm American B777 Aircraft Model Plane 1:400 Alloy Model With Display Stand F" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-military-flights-shape-arizona-ufo-reports-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="how-military-flights-shape-arizona-ufo-reports-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">16cm American B777 Aircraft Model Plane 1:400 Alloy Model With Display Stand F</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-military-flights-shape-arizona-ufo-reports-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="how-military-flights-shape-arizona-ufo-reports-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT"><img src="{{ '/assets/images/marketplace-covers/c4fa2fd111d52b7bddcf.jpg' | relative_url }}" alt="Listing image for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-military-flights-shape-arizona-ufo-reports-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="how-military-flights-shape-arizona-ufo-reports-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,15 +443,15 @@ Arizona’s unique combination of vast, clear skies and dense military aviation 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-military-flights-shape-arizona-ufo-reports-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="how-military-flights-shape-arizona-ufo-reports-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snap Fit BAe 146-200 British European 1:150 Scale Model Aircraft"><img src="https://i.ebayimg.com/images/g/WNcAAeSwOVZqJ0pE/s-l225.jpg" alt="Listing image for Snap Fit BAe 146-200 British European 1:150 Scale Model Aircraft" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-military-flights-shape-arizona-ufo-reports-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="how-military-flights-shape-arizona-ufo-reports-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Snap Fit BAe 146-200 British European 1:150 Scale Model Aircraft</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-military-flights-shape-arizona-ufo-reports-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="how-military-flights-shape-arizona-ufo-reports-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-military-flights-shape-arizona-ufo-reports-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="how-military-flights-shape-arizona-ufo-reports-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -542,15 +459,15 @@ Arizona’s unique combination of vast, clear skies and dense military aviation 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-military-flights-shape-arizona-ufo-reports-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="how-military-flights-shape-arizona-ufo-reports-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EMIRATES A380 20CM AIRBUS WHEELS METAL AIRCRAFT DIECAST PLANE MODEL GIFT 1:400"><img src="https://i.ebayimg.com/images/g/CyYAAeSwZThpmDJg/s-l225.jpg" alt="Listing image for EMIRATES A380 20CM AIRBUS WHEELS METAL AIRCRAFT DIECAST PLANE MODEL GIFT 1:400" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-military-flights-shape-arizona-ufo-reports-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="how-military-flights-shape-arizona-ufo-reports-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">EMIRATES A380 20CM AIRBUS WHEELS METAL AIRCRAFT DIECAST PLANE MODEL GIFT 1:400</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-military-flights-shape-arizona-ufo-reports-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="how-military-flights-shape-arizona-ufo-reports-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-military-flights-shape-arizona-ufo-reports-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="how-military-flights-shape-arizona-ufo-reports-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -558,15 +475,15 @@ Arizona’s unique combination of vast, clear skies and dense military aviation 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-military-flights-shape-arizona-ufo-reports-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="how-military-flights-shape-arizona-ufo-reports-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 16CM Concorde British Airways Metal Die Cast Plane Model Aircraft Toy Aeroplane"><img src="https://i.ebayimg.com/images/g/yS0AAeSw65JpLa~Y/s-l225.jpg" alt="Listing image for 16CM Concorde British Airways Metal Die Cast Plane Model Aircraft Toy Aeroplane" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-military-flights-shape-arizona-ufo-reports-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="how-military-flights-shape-arizona-ufo-reports-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">16CM Concorde British Airways Metal Die Cast Plane Model Aircraft Toy Aeroplane</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-military-flights-shape-arizona-ufo-reports-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="how-military-flights-shape-arizona-ufo-reports-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: aircraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-military-flights-shape-arizona-ufo-reports-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="how-military-flights-shape-arizona-ufo-reports-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -574,7 +491,7 @@ Arizona’s unique combination of vast, clear skies and dense military aviation 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-skies-how-military-flights-shape-arizona-ufo-reports-arizona-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-military-flights-shape-arizona-ufo-reports-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aircraft model" data-ebay-reference="how-military-flights-shape-arizona-ufo-reports-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -651,17 +568,31 @@ Arizona’s unique combination of vast, clear skies and dense military aviation 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -674,42 +605,73 @@ Arizona’s unique combination of vast, clear skies and dense military aviation 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -724,12 +686,17 @@ Arizona’s unique combination of vast, clear skies and dense military aviation 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -740,73 +707,73 @@ Arizona’s unique combination of vast, clear skies and dense military aviation 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Barry M. Goldwater Air Force Range  
-   Link: [https://en.wikipedia.org/wiki/Barry_M._Goldwater_Air_Force_Range](https://en.wikipedia.org/wiki/Barry_M._Goldwater_Air_Force_Range)  
+   Link: <a href="https://en.wikipedia.org/wiki/Barry_M._Goldwater_Air_Force_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barry_M._Goldwater_Air_Force_Range</a>  
 
 2. <a id="endnote-2"></a>
    Source: cf.org  
    Title: Pilots Are Seeing Some Very Strange Things in Arizona’s Military Training Ranges  
-   Link: [https://www.cf.org/news/pilots-are-seeing-some-very-strange-things-in-arizonas-military-training-ranges/](https://www.cf.org/news/pilots-are-seeing-some-very-strange-things-in-arizonas-military-training-ranges/)  
+   Link: <a href="https://www.cf.org/news/pilots-are-seeing-some-very-strange-things-in-arizonas-military-training-ranges/" target="_blank" rel="noopener noreferrer nofollow">https://www.cf.org/news/pilots-are-seeing-some-very-strange-things-in-arizonas-military-training-ranges/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 4, 2023...</p></details>
    Published: August 4, 2023  
 
 3. <a id="endnote-3"></a>
    Source: moleopedia.com  
    Title: The Phoenix Lights: UFOs or Flares?  
-   Link: [https://moleopedia.com/famous-paranormal-cases/phoenix-lights/](https://moleopedia.com/famous-paranormal-cases/phoenix-lights/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MoleopediaThe Phoenix Lights: UFOs or Flares? - MoleopediaJune 21, 2025...</p></details>
+   Link: <a href="https://moleopedia.com/famous-paranormal-cases/phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://moleopedia.com/famous-paranormal-cases/phoenix-lights/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights: UFOs or Flares? - MoleopediaJune 21, 2025...</p></details>
    Published: June 21, 2025  
 
 4. <a id="endnote-4"></a>
    Source: deseret.com  
    Title: News Flares, not UFOs, caused light show, military says – Deseret News  
-   Link: [https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says?_amp=true](https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says?_amp=true)  
+   Link: <a href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says?_amp=true" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says?_amp=true</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deseret NewsFlares, not UFOs, caused light show, military says – Deseret NewsJuly 26, 1997...</p></details>
    Published: July 26, 1997  
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: SCARY ALIEN INVASION CONSPIRACY THEORY || NOT ALONE || Ep. 4  
-   Link: [https://www.youtube.com/watch?v=Vg_qU69Hj1w](https://www.youtube.com/watch?v=Vg_qU69Hj1w)  
+   Link: <a href="https://www.youtube.com/watch?v=Vg_qU69Hj1w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Vg_qU69Hj1w</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights - 17 years later...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Phoenix Lights  
-   Link: [https://www.youtube.com/watch?v=8SUJTh6Hs-I](https://www.youtube.com/watch?v=8SUJTh6Hs-I)  
+   Link: <a href="https://www.youtube.com/watch?v=8SUJTh6Hs-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8SUJTh6Hs-I</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Barry M. Goldwater Range Celebrates 75 Years...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: thisunexplaineduniverse.com  
    Title: phoenix lights  
-   Link: [https://www.thisunexplaineduniverse.com/articles/phoenix-lights](https://www.thisunexplaineduniverse.com/articles/phoenix-lights)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| This Unexplained UniverseFebruary 19, 2026 — THE MILITARY FLARES EXPLANATION The official explanation came from the U.S. Air Force and...</p></details>
+   Link: <a href="https://www.thisunexplaineduniverse.com/articles/phoenix-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.thisunexplaineduniverse.com/articles/phoenix-lights</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>This Unexplained UniverseFebruary 19, 2026 — THE MILITARY FLARES EXPLANATION The official explanation came from the U.S. Air Force and...</p></details>
    Published: February 19, 2026  
 
 8. <a id="endnote-8"></a>
    Source: uapinvestigations.com  
    Title: the phoenix lights what thousands saw over arizona in 1997  
-   Link: [https://uapinvestigations.com/the-phoenix-lights-what-thousands-saw-over-arizona-in-1997/](https://uapinvestigations.com/the-phoenix-lights-what-thousands-saw-over-arizona-in-1997/)  
+   Link: <a href="https://uapinvestigations.com/the-phoenix-lights-what-thousands-saw-over-arizona-in-1997/" target="_blank" rel="noopener noreferrer nofollow">https://uapinvestigations.com/the-phoenix-lights-what-thousands-saw-over-arizona-in-1997/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP InvestigationsThe Phoenix Lights: What Thousands Saw Over Arizona in 1997 -April 3, 2026...</p></details>
    Published: April 3, 2026  
 
 9. <a id="endnote-9"></a>
    Source: slashlore.com  
    Title: phoenix lights  
-   Link: [https://www.slashlore.com/phoenix-lights/](https://www.slashlore.com/phoenix-lights/)  
+   Link: <a href="https://www.slashlore.com/phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.slashlore.com/phoenix-lights/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO: Eyewitness Stories from 1997 - SlashLoreJuly 29, 2025 — THE SKEPTICS AND ALTERNATIVE EXPLANATIONS While thousands of witnesses repor...</p></details>
    Published: July 29, 2025  
 
 10. <a id="endnote-10"></a>
    Source: globalsecurity.org  
    Title: Barry M  
-   Link: [https://www.globalsecurity.org/military/facility/goldwater.htm](https://www.globalsecurity.org/military/facility/goldwater.htm)  
+   Link: <a href="https://www.globalsecurity.org/military/facility/goldwater.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/facility/goldwater.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Goldwater RangeMay 7, 2011 — BARRY M. GOLDWATER RANGE The Barry M. Goldwater Range is operated by the 56th Fighter Wing Range Management...</p></details>
    Published: May 7, 2011  
 
 11. <a id="endnote-11"></a>
    Source: ufology.wikidot.com  
    Title: phoenix lights  
-   Link: [https://ufology.wikidot.com/phoenix-lights](https://ufology.wikidot.com/phoenix-lights)  
+   Link: <a href="https://ufology.wikidot.com/phoenix-lights" target="_blank" rel="noopener noreferrer nofollow">https://ufology.wikidot.com/phoenix-lights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lights - UfologyJanuary 1, 2008 — SKEPTICISM Skeptics agree with the USAF explanation that the lights were simply slow falling, long burn...</p></details>
    Published: January 1, 2008  
 
@@ -814,63 +781,63 @@ Arizona’s unique combination of vast, clear skies and dense military aviation 
 
 12. <a id="endnote-12"></a>
    Source: sciencealert.com  
-   Link: [https://www.sciencealert.com/something-just-passed-over-us-2-separate-airliners-encounter-strange-ufo-in-arizona-pilots-faa](https://www.sciencealert.com/something-just-passed-over-us-2-separate-airliners-encounter-strange-ufo-in-arizona-pilots-faa)  
+   Link: <a href="https://www.sciencealert.com/something-just-passed-over-us-2-separate-airliners-encounter-strange-ufo-in-arizona-pilots-faa" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencealert.com/something-just-passed-over-us-2-separate-airliners-encounter-strange-ufo-in-arizona-pilots-faa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nobody Can Explain This Strange UFO Encountered by 2 Separate Airliners in Arizona: ScienceAlertMarch 29, 2018 — NOBODY CAN EXPLAIN THIS...</p></details>
    Published: March 29, 2018  
 
 13. <a id="endnote-13"></a>
    Source: twz.com  
    Title: Pilots Are Seeing Some Very Strange Things In Arizona's Military Training Ranges  
-   Link: [https://www.twz.com/pilots-are-seeing-some-very-strange-things-in-arizonas-military-training-ranges](https://www.twz.com/pilots-are-seeing-some-very-strange-things-in-arizonas-military-training-ranges)  
+   Link: <a href="https://www.twz.com/pilots-are-seeing-some-very-strange-things-in-arizonas-military-training-ranges" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/pilots-are-seeing-some-very-strange-things-in-arizonas-military-training-ranges</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fighter jets are having worrisome aerial encounters in Arizona&#x27;s restricted air combat training areas, which fit...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theyknew.io  
    Title: Phoenix Lights: Military Changed Story After Initial Denials  
-   Link: [https://theyknew.io/claims/phoenix-lights-military-flares-explanation-came-five-months-after-initial-denial-mn98aktv](https://theyknew.io/claims/phoenix-lights-military-flares-explanation-came-five-months-after-initial-denial-mn98aktv)  
+   Link: <a href="https://theyknew.io/claims/phoenix-lights-military-flares-explanation-came-five-months-after-initial-denial-mn98aktv" target="_blank" rel="noopener noreferrer nofollow">https://theyknew.io/claims/phoenix-lights-military-flares-explanation-came-five-months-after-initial-denial-mn98aktv</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 13, 1997 — Image: Phoenix Lights Military Flares Explanation Came Five Months After Initial Denials — documented evidence DISPUTED...</p></details>
    Published: March 13, 1997  
 
 15. <a id="endnote-15"></a>
    Source: ufoinsight.com  
    Title: a case study the 1997 phoenix lights  
-   Link: [https://www.ufoinsight.com/a-case-study-the-1997-phoenix-lights/](https://www.ufoinsight.com/a-case-study-the-1997-phoenix-lights/)  
+   Link: <a href="https://www.ufoinsight.com/a-case-study-the-1997-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/a-case-study-the-1997-phoenix-lights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1997 Phoenix Lights Incident - UFO InsightSeptember 30, 2018 — THE 1997 PHOENIX LIGHTS INCIDENT By Marcus Lowth Image: Published Date...</p></details>
    Published: September 30, 2018  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Mass UFO Sightings in Arizona | Alien Investigation Documentary | Full Movie  
-   Link: [https://www.youtube.com/watch?v=mI2wGIdRPjI](https://www.youtube.com/watch?v=mI2wGIdRPjI)  
+   Link: <a href="https://www.youtube.com/watch?v=mI2wGIdRPjI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mI2wGIdRPjI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights and UFO Sightings Investigative Documentary - PART 2 | Mysteries Decoded | The CW...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: astronomyufo.com  
-   Link: [https://www.astronomyufo.com/UFO/azflares.htm](https://www.astronomyufo.com/UFO/azflares.htm)  
+   Link: <a href="https://www.astronomyufo.com/UFO/azflares.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/azflares.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The flares and the Maryland Air National GuardSeptember 1, 2014 — The flares and the Maryland Air National Guard By Tim Printy Ó 1998 Las...</p></details>
    Published: September 1, 2014  
 
 18. <a id="endnote-18"></a>
    Source: newspaceeconomy.ca  
    Title: This is the image most pe  
-   Link: [https://newspaceeconomy.ca/2025/09/13/examining-discredited-ufo-sightings/](https://newspaceeconomy.ca/2025/09/13/examining-discredited-ufo-sightings/)  
+   Link: <a href="https://newspaceeconomy.ca/2025/09/13/examining-discredited-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/09/13/examining-discredited-ufo-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining Discredited UFO Sightings - New Space EconomyMay 17, 2026 — This involved a string of bright, stationary orbs that appeared in...</p></details>
    Published: May 17, 2026  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Phoenix Lights and UFO Sightings Investigative Documentary  
-   Link: [https://www.youtube.com/watch?v=AfzducPDYjM](https://www.youtube.com/watch?v=AfzducPDYjM)  
+   Link: <a href="https://www.youtube.com/watch?v=AfzducPDYjM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AfzducPDYjM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SCARY ALIEN INVASION CONSPIRACY THEORY || NOT ALONE || Ep. 4...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: projectunredacted.com  
    Title: phoenix lights 1997  
-   Link: [https://www.projectunredacted.com/cases/phoenix-lights-1997](https://www.projectunredacted.com/cases/phoenix-lights-1997)  
+   Link: <a href="https://www.projectunredacted.com/cases/phoenix-lights-1997" target="_blank" rel="noopener noreferrer nofollow">https://www.projectunredacted.com/cases/phoenix-lights-1997</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights (1997) — UFO sighting Explained | Project UnredactedCASE FILE UFO Plausible THE PHOENIX LIGHTS 1997 Phoenix, Arizona...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: conspiracytheorize.com  
-   Link: [https://conspiracytheorize.com/content/the-phoenix-lights-military-pilots-the-barry-g](https://conspiracytheorize.com/content/the-phoenix-lights-military-pilots-the-barry-g)  
+   Link: <a href="https://conspiracytheorize.com/content/the-phoenix-lights-military-pilots-the-barry-g" target="_blank" rel="noopener noreferrer nofollow">https://conspiracytheorize.com/content/the-phoenix-lights-military-pilots-the-barry-g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights: Military Pilots, the Barry Goldwater Range, and Lingering Questions - ConspiracyTheorizeOctober 1, 2025 — Government...</p></details>
-   Published: October 1, 2025  
+   Published: October 1, 2025

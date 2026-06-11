@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /official-investigations/
 nav_short_title: UAP channels
 title: When Does a Maine Sighting Go Federal?
-title_full: When Does a Maine Sighting Go Federal? | Official Investigations
+title_full: When Does a Maine Sighting Go Federal?
 display_title_short: UAP channels
 display_title: UAP channels
 heading_title: When Does a Maine Sighting Go Federal?
@@ -200,15 +200,15 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:34:16'
-parent_title: How Authorities Have Investigated Maine's UFOs | MaineUFOs
+parent_title: How Authorities Have Investigated Maine's UFOs
 parent_permalink: /official-investigations/
 parent_nav_short_title: Official Investigations
 parent_heading_title: How Authorities Have Investigated Maine's UFOs
 ancestor_links:
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: Maine_8dc024_maine_official_ufo_i_02830e
   title: Official Investigations | What Makes Maine a Hotspot for UFO Sightings?
   permalink: /official-investigations/
@@ -216,9 +216,9 @@ ancestor_links:
   heading_title: How Authorities Have Investigated Maine's UFOs
 breadcrumb_links:
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: Maine_8dc024_maine_official_ufo_i_02830e
   title: Official Investigations | What Makes Maine a Hotspot for UFO Sightings?
   permalink: /official-investigations/
@@ -250,16 +250,14 @@ image: /assets/images/Maine_8dc024_maine_official_ufo_i_02830e_maine_federal_uap
 
 ## Introduction
 
-In the contemporary United States context, sightings of unidentified aerial phenomena (UAP) — the modern government term replacing “UFO” — move into federal investigative channels only under specific reporting regimes established in the last few years. For most civilian reports, including those from [Maine]({{ 'what-makes-maine-a-hotspot-for-ufo/' | relative_url }}) residents, there is *no automatic path* that brings a sighting before a federal office such as the Pentagon’s All‑domain Anomaly Resolution Office (AARO). Instead, federal engagement depends on who saw the phenomenon, how it was observed, and whether it intersects with aviation safety, military operations or national security concerns. This arrangement shapes which Maine sightings ever enter the “federal UAP” sphere and why many stay documented only in civilian systems such as NUFORC or MUFON.
+In the contemporary United States context, sightings of unidentified aerial phenomena (UAP) — the modern government term replacing “UFO” — move into federal investigative channels only under specific reporting regimes established in the last few years. For most civilian reports, including those from Maine residents, there is *no automatic path* that brings a sighting before a federal office such as the Pentagon’s All‑domain Anomaly Resolution Office (AARO). Instead, federal engagement depends on who saw the phenomenon, how it was observed, and whether it intersects with aviation safety, military operations or national security concerns. This arrangement shapes which Maine sightings ever enter the “federal UAP” sphere and why many stay documented only in civilian systems such as NUFORC or MUFON.
 
-
-<img src="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_maine_federal_uap_ch_1a77a4-Illustration-1-light.svg" | relative_url }}" alt="UAP channels illustration 1" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_maine_federal_uap_ch_1a77a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_maine_federal_uap_ch_1a77a4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_maine_federal_uap_ch_1a77a4-Illustration-1-dark.svg" | relative_url }}" alt="UAP channels illustration 1" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_maine_federal_uap_ch_1a77a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_maine_federal_uap_ch_1a77a4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Distinguishing Civilian Reports from Federal UAP Channels
 
 For ordinary observers in Maine — hikers, drivers, police, amateur astronomers or coastal residents — the standard federal mechanism for UAP reporting does *not* accept direct civilian sighting claims in the way that dedicated civilian networks do. Civilian organisations like the National UFO Reporting Center and the Mutual UFO Network collect and preserve witness accounts, but they *are not government investigative channels*. They exist outside the federal framework and do not feed sightings directly into AARO or other U.S. government investigatory bodies without an additional trigger such as an aviation incident or military involvement.
 
-Under existing federal practice, there is no general public “send us your sky sighting” portal on the official UAP office website for unverified civilian sightings. AARO’s current online reporting form is focused on collecting information from current or former U.S. government employees, service members, or contractor personnel with direct knowledge of U.S. government related activities or programs associated with UAP phenomena, not first‑hand civilian eyewitness accounts from the general population. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Submit A Report</span><span class="citation-popover-snippet">AAROAARO Submit A Report...</span></span></span>
-
+Under existing federal practice, there is no general public “send us your sky sighting” portal on the official UAP office website for unverified civilian sightings. AARO’s current online reporting form is focused on collecting information from current or former U.S. government employees, service members, or contractor personnel with direct knowledge of U.S. government related activities or programs associated with UAP phenomena, not first‑hand civilian eyewitness accounts from the general population. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Submit A Report</span><span class="citation-popover-snippet">AARO Submit A Report...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S7RQecHwGAM" title="Strange High-Altitude Encounters Get Stranger - Episode 288" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S7RQecHwGAM" target="_blank" rel="noopener noreferrer">Strange High-Altitude Encounters Get Stranger - Episode 288</a></p><p class="youtube-embed-meta">Channel: Flight Safety Detectives &middot; Views: 22.0K &middot; Uploaded: August 2025 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S7RQecHwGAM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S7RQecHwGAM">Open on YouTube</a></p></div></div></div>
 
@@ -269,7 +267,6 @@ One of the clearest routes by which UAP observations tie into federal channels i
 
 Civilian pilots in Maine, for example, who see an unidentified object while flying can file such pilot reports (PIREPs) to air traffic control. Those reports then become part of the aviation safety data that may be shared with AARO or other federal bodies responsible for analysing UAP in support of aviation safety and national security. This channel exists because UAP in controlled airspace can present flight hazards and because aviation authorities have rigorous reporting requirements not present in general civilian reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeAll-domain Anomaly Resolution Office Welcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of exp...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wjFHqzrnUhA" title="Ryan Graves: Recent pilot UAP sightings point to aviation reporting challenges. Who’s to blame?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wjFHqzrnUhA" target="_blank" rel="noopener noreferrer">Ryan Graves: Recent pilot UAP sightings point to aviation reporting challenges. Who’s to blame?</a></p><p class="youtube-embed-meta">Channel: Rebelliously Curious with Chrissy Newton &middot; Views: 3.5K &middot; Uploaded: February 2023 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wjFHqzrnUhA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wjFHqzrnUhA">Open on YouTube</a></p></div></div></div>
 
 ## The Role of AARO and Federal UAP Policy
@@ -278,14 +275,12 @@ At the federal level, the primary office tasked with collecting and analysing UA
 
 However, the rules on *who* can currently report directly to AARO are narrow. The online AARO reporting form on the official website is intended primarily for government personnel with direct knowledge of government programs or activities connected to UAP, rather than the broader public. After initial submission, AARO staff may follow up for more detail, but there is no broadly public federal portal equivalent to, say, a police reporting website for civilian sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO FAQFREQUENTLY ASKED QUESTIONS [Button: Expand All] * How can I share information with AARO or report a UAP? * Military and DoW civil...</span></span></span>
 
-This design reflects a federal focus on structured, verifiable data — often tied to aviation or defence contexts — that can be rigorously analysed. It also stems from legislative requirements that AARO submit annual and semi‑annual briefings on incidents and related data to congressional committees, emphasising systemic review over open crowd‑sourced narrative collecting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/uscode/text/50/3373" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-snippet">Legal Information Institute50 U.S. Code § 3373 - Establishment of All-domain Anomaly Resolution Office | U.S. Code | US Law | LII / Legal...</span></span></span>
+This design reflects a federal focus on structured, verifiable data — often tied to aviation or defence contexts — that can be rigorously analysed. It also stems from legislative requirements that AARO submit annual and semi‑annual briefings on incidents and related data to congressional committees, emphasising systemic review over open crowd‑sourced narrative collecting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/uscode/text/50/3373" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-snippet">Legal Information Institute50 U.S. Code § 3373 - Establishment of All-domain Anomaly Resolution Office &#124; U.S. Code &#124; US Law &#124; LII / Legal...</span></span></span>
 
-
-<img src="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_maine_federal_uap_ch_1a77a4-Illustration-2-light.svg" | relative_url }}" alt="UAP channels illustration 2" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_maine_federal_uap_ch_1a77a4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_maine_federal_uap_ch_1a77a4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_maine_federal_uap_ch_1a77a4-Illustration-2-dark.svg" | relative_url }}" alt="UAP channels illustration 2" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_maine_federal_uap_ch_1a77a4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_maine_federal_uap_ch_1a77a4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Many Maine Sightings Never Reach Federal Review
 
 Because direct public reporting to federal UAP channels is limited, most Maine sightings remain within civilian UFO/UAP reporting systems unless they include specific characteristics that meet aviation, military, or national security reporting criteria. For example:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -297,19 +292,16 @@ Because direct public reporting to federal UAP channels is limited, most Maine s
 
 In contrast, a pilot in Maine who files a PIREP with detailed operational data creates a trail that can enter federal aviation safety logs and potentially feed into interagency UAP analyses. Similarly, military personnel observing an anomalous event in the course of duty have clear internal reporting paths that flow into the structured federal system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap4_section_7.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Section 7. Reports</span><span class="citation-popover-snippet">Federal Aviation Administration Section 7. Reports</span></span></span>
 
-
-<img src="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_maine_federal_uap_ch_1a77a4-Illustration-3-light.svg" | relative_url }}" alt="UAP channels illustration 3" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_maine_federal_uap_ch_1a77a4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_maine_federal_uap_ch_1a77a4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_maine_federal_uap_ch_1a77a4-Illustration-3-dark.svg" | relative_url }}" alt="UAP channels illustration 3" data-theme-src-dark="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_maine_federal_uap_ch_1a77a4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maine_8dc024_maine_official_ufo_i_02830e_maine_federal_uap_ch_1a77a4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Implications for Maine’s UFO Record
 
-The effect of these policies and reporting architectures is that the vast majority of civilian sightings in Maine remain documented primarily by NUFORC, MUFON or other civilian observers, rather than in federal UAP inventories. Only a small subset — generally those that intersect with aviation or military contexts or that include detailed technical metadata — are likely to ascend into the federal UAP reporting and investigative realm. Understanding this distinction helps clarify why Maine sightings overwhelmingly populate civilian databases and why only select reports ever reach offices such as AARO for federal analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Submit A Report</span><span class="citation-popover-snippet">AAROAARO Submit A Report...</span></span></span>
+The effect of these policies and reporting architectures is that the vast majority of civilian sightings in Maine remain documented primarily by NUFORC, MUFON or other civilian observers, rather than in federal UAP inventories. Only a small subset — generally those that intersect with aviation or military contexts or that include detailed technical metadata — are likely to ascend into the federal UAP reporting and investigative realm. Understanding this distinction helps clarify why Maine sightings overwhelmingly populate civilian databases and why only select reports ever reach offices such as AARO for federal analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Submit A Report</span><span class="citation-popover-snippet">AARO Submit A Report...</span></span></span>
 
 ## Looking Ahead
 
 Federal UAP reporting systems continue to evolve. Agencies like AARO have signalled plans to expand accessible reporting mechanisms more broadly beyond government personnel, though formal public channels have not yet been fully realised. If such mechanisms are established in the future, the criteria for what constitutes a report worthy of federal review may shift, potentially incorporating a wider range of civilian data. For now, however, the current regime keeps Maine’s rich civilian sighting record largely outside direct federal channels unless specific conditions are met. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">August 31, 2023...</span><span class="citation-popover-meta">Published: August 31, 2023</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lTGJt7Gho0w" title="Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer">Inside the Data: What 1,000+ Pilot Reports Reveal About UAP | iConnections Webinar with Ryan Graves</a></p><p class="youtube-embed-meta">Channel: iConnections &middot; Views: 262 &middot; Uploaded: April 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lTGJt7Gho0w">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bi0H_mkwTW0" title="All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer">All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)</a></p><p class="youtube-embed-meta">Channel: National Capital Area Skeptics (NCAS) &middot; Views: 2.6K &middot; Uploaded: April 2026 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bi0H_mkwTW0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -733,128 +725,128 @@ Federal UAP reporting systems continue to evolve. Agencies like AARO have signal
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Submit A Report  
-   Link: [https://www.aaro.mil/Submit-A-Report/](https://www.aaro.mil/Submit-A-Report/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO Submit A Report...</p></details>
+   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Submit A Report...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Section 7. Reports  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap4_section_7.html](https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap4_section_7.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap4_section_7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/foa_html/chap4_section_7.html</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: All-domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
 4. <a id="endnote-4"></a>
    Source: defense.gov  
-   Link: [https://www.defense.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/](https://www.defense.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/)  
+   Link: <a href="https://www.defense.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 31, 2023...</p></details>
    Published: August 31, 2023  
 
 5. <a id="endnote-5"></a>
    Source: defense.gov  
    Title: DO D Examining Unidentified Anomalous Phenomena > U.S  
-   Link: [https://www.defense.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.defense.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.defense.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense &gt; Defense Department NewsNovember 14, 2024 — DOD EXAMINING UNIDENTIFIED ANOMALOUS PHENOMENA Nov. 14, 2024 | By Davi...</p></details>
    Published: November 14, 2024  
 
 6. <a id="endnote-6"></a>
    Source: defense.gov  
-   Link: [https://www.defense.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.defense.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.defense.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense &gt; ReleaseNovember 14, 2024 — Release Immediate Release DEPARTMENT OF DEFENSE RELEASES THE ANNUAL REPORT ON UNIDENTI...</p></details>
    Published: November 14, 2024  
 
 7. <a id="endnote-7"></a>
    Source: defense.gov  
    Title: DO D Unidentified Anomalous Phenomena Office Launches New Reporting Tool > U.S  
-   Link: [https://www.defense.gov/News/News-Stories/Article/Article/3575511/dod-unidentified-anomalous-phenomena-office-launches-new-reporting-tool/](https://www.defense.gov/News/News-Stories/Article/Article/3575511/dod-unidentified-anomalous-phenomena-office-launches-new-reporting-tool/)  
+   Link: <a href="https://www.defense.gov/News/News-Stories/Article/Article/3575511/dod-unidentified-anomalous-phenomena-office-launches-new-reporting-tool/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/News-Stories/Article/Article/3575511/dod-unidentified-anomalous-phenomena-office-launches-new-reporting-tool/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense &gt; Defense Department NewsOctober 31, 2023 — DOD UNIDENTIFIED ANOMALOUS PHENOMENA OFFICE LAUNCHES NEW REPORTING TOOL...</p></details>
    Published: October 31, 2023  
 
 8. <a id="endnote-8"></a>
    Source: space.com  
    Title: Pentagon UFO office unveils official website for reporting sightings | Space  
-   Link: [https://www.space.com/pentagon-ufo-office-new-website-report-sighting](https://www.space.com/pentagon-ufo-office-new-website-report-sighting)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-new-website-report-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-new-website-report-sighting</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 31, 2023 — PENTAGON UFO OFFICE UNVEILS OFFICIAL WEBSITE FOR US GOVERNMENT PERSONNEL TO REPORT SIGHTINGS News By Brett Tingley publ...</p></details>
    Published: August 31, 2023  
 
 9. <a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeAll-domain Anomaly Resolution Office Welcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of exp...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/FAQ/](https://www.aaro.mil/FAQ/)  
+   Link: <a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO FAQFREQUENTLY ASKED QUESTIONS [Button: Expand All] * How can I share information with AARO or report a UAP? * Military and DoW civil...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: law.cornell.edu  
-   Link: [https://www.law.cornell.edu/uscode/text/50/3373](https://www.law.cornell.edu/uscode/text/50/3373)  
+   Link: <a href="https://www.law.cornell.edu/uscode/text/50/3373" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/uscode/text/50/3373</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Legal Information Institute50 U.S. Code § 3373 - Establishment of All-domain Anomaly Resolution Office | U.S. Code | US Law | LII / Legal...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: executivegov.com  
-   Link: [https://www.executivegov.com/2023/11/dod-all-domain-anomaly-resolution-office-unveils-new-uap-reporting-form/](https://www.executivegov.com/2023/11/dod-all-domain-anomaly-resolution-office-unveils-new-uap-reporting-form/)  
+   Link: <a href="https://www.executivegov.com/2023/11/dod-all-domain-anomaly-resolution-office-unveils-new-uap-reporting-form/" target="_blank" rel="noopener noreferrer nofollow">https://www.executivegov.com/2023/11/dod-all-domain-anomaly-resolution-office-unveils-new-uap-reporting-form/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD All-domain Anomaly Resolution Office Unveils New UAP Reporting Form – Executive GovNovember 1, 2023 — Image: Immersive Commercial, Ac...</p></details>
    Published: November 1, 2023  
 
 13. <a id="endnote-13"></a>
    Source: uapedia.ai  
-   Link: [https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/](https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/)  
+   Link: <a href="https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/nuforc-mufon-civilian-data-sources/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC &amp; MUFON: Civilian Data Sources - UAPediaNovember 7, 2025 — NUFORC &amp; MUFON: CIVILIAN DATA SOURCES Civilian reporting pipelines are...</p></details>
    Published: November 7, 2025  
 
 14. <a id="endnote-14"></a>
    Source: popsci.com  
-   Link: [https://www.popsci.com/technology/uap-official-report-form/](https://www.popsci.com/technology/uap-official-report-form/)  
+   Link: <a href="https://www.popsci.com/technology/uap-official-report-form/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/technology/uap-official-report-form/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US GOVERNMENT WORKERS CAN NOW USE THIS WEBSITE. &#x27;We want to hear from you.&#x27; By Andrew Paul Published Nov 2, 2023 11:00 AM EDT Image: Nigh...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: narcap.org  
-   Link: [https://www.narcap.org/faa-reporting-recommendation](https://www.narcap.org/faa-reporting-recommendation)  
+   Link: <a href="https://www.narcap.org/faa-reporting-recommendation" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/faa-reporting-recommendation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Platte, John-Michael Guttierez, Ted Roe, Ryan Graves, 2023&lt;br/&gt; — National Aviation Reporting Center on Anomalous PhenomenaJune 14, 2023...</p></details>
    Published: June 14, 2023  
 
 16. <a id="endnote-16"></a>
    Source: executivegov.com  
    Title: DO D All-domain Anomaly Resolution Office Unveils New UAP Reporting Form  
-   Link: [https://www.executivegov.com/articles/dod-all-domain-anomaly-resolution-office-unveils-new-uap-reporting-form](https://www.executivegov.com/articles/dod-all-domain-anomaly-resolution-office-unveils-new-uap-reporting-form)  
+   Link: <a href="https://www.executivegov.com/articles/dod-all-domain-anomaly-resolution-office-unveils-new-uap-reporting-form" target="_blank" rel="noopener noreferrer nofollow">https://www.executivegov.com/articles/dod-all-domain-anomaly-resolution-office-unveils-new-uap-reporting-form</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD All-domain Anomaly Resolution Office Unveils New UAP Reporting FormJune 28, 2024 — DOD ALL-DOMAIN ANOMALY RESOLUTION OFFICE UNVEILS N...</p></details>
    Published: June 28, 2024  
 
 17. <a id="endnote-17"></a>
    Source: axios.com  
    Title: Pentagon unveils new UAP reporting form for troops and federal employees  
-   Link: [https://www.axios.com/2023/11/01/pentagon-uap-reporting-federal-form](https://www.axios.com/2023/11/01/pentagon-uap-reporting-federal-form)  
+   Link: <a href="https://www.axios.com/2023/11/01/pentagon-uap-reporting-federal-form" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/11/01/pentagon-uap-reporting-federal-form</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 1, 2023 — Nov 1, 2023 - Politics &amp; Policy PENTAGON UNVEILS NEW UAP REPORTING FORM FOR TROOPS AND FEDERAL EMPLOYEES Image * Jacob...</p></details>
    Published: November 1, 2023  
 
 18. <a id="endnote-18"></a>
    Source: cbsnews.com  
    Title: Read the Pentagon UFO report newly released by the Department of Defense  
-   Link: [https://www.cbsnews.com/amp/news/pentagon-ufo-uap-report-full-text-march-2024/](https://www.cbsnews.com/amp/news/pentagon-ufo-uap-report-full-text-march-2024/)  
+   Link: <a href="https://www.cbsnews.com/amp/news/pentagon-ufo-uap-report-full-text-march-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/amp/news/pentagon-ufo-uap-report-full-text-march-2024/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsMarch 8, 2024 — READ THE PENTAGON UFO REPORT NEWLY RELEASED BY THE DEPARTMENT OF DEFENSE Updated on: March 8, 2024 / 12:19 PM EST...</p></details>
    Published: March 8, 2024  
 
 19. <a id="endnote-19"></a>
    Source: forbes.com  
    Title: Suzanne Rowan Kelleher covers travel for Forbes. Follow Author Jun 2  
-   Link: [https://www.forbes.com/sites/suzannerowankelleher/2021/06/26/faa-ufo-uap-sightings-pilots/](https://www.forbes.com/sites/suzannerowankelleher/2021/06/26/faa-ufo-uap-sightings-pilots/)  
+   Link: <a href="https://www.forbes.com/sites/suzannerowankelleher/2021/06/26/faa-ufo-uap-sightings-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/suzannerowankelleher/2021/06/26/faa-ufo-uap-sightings-pilots/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The FAA Does Not Track UFO Sightings By Commercial Airline Pilots—But Here’s Who DoesJune 26, 2021 — THE FAA DOES NOT TRACK UFO SIGHTINGS...</p></details>
    Published: June 26, 2021  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=lTGJt7Gho0w](https://www.youtube.com/watch?v=lTGJt7Gho0w)  
+   Link: <a href="https://www.youtube.com/watch?v=lTGJt7Gho0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lTGJt7Gho0w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: scienceinsights.org  
    Title: How to Report a UFO Sighting to AARO or MUFON  
-   Link: [https://scienceinsights.org/how-to-report-a-ufo-sighting-to-aaro-or-mufon/](https://scienceinsights.org/how-to-report-a-ufo-sighting-to-aaro-or-mufon/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceInsightsMarch 20, 2026 — HOW TO REPORT A UFO SIGHTING TO AARO OR MUFON * March 20, 2026 If you’ve seen something in the sky you ca...</p></details>
-   Published: March 20, 2026  
+   Link: <a href="https://scienceinsights.org/how-to-report-a-ufo-sighting-to-aaro-or-mufon/" target="_blank" rel="noopener noreferrer nofollow">https://scienceinsights.org/how-to-report-a-ufo-sighting-to-aaro-or-mufon/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 20, 2026 — HOW TO REPORT A UFO SIGHTING TO AARO OR MUFON * March 20, 2026 If you’ve seen something in the sky you ca...</p></details>
+   Published: March 20, 2026

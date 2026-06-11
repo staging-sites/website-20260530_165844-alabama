@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /piedmont-1973/
 nav_short_title: Lake Lights
 title: What Were the Lights Seen Over Clearwater Lake?
-title_full: What Were the Lights Seen Over Clearwater Lake? | Piedmont 1973
+title_full: What Were the Lights Seen Over Clearwater Lake?
 display_title_short: Lake Lights
 display_title: Lake Lights
 heading_title: What Were the Lights Seen Over Clearwater Lake?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:31:13'
-parent_title: Why Piedmont Became Missouri's UFO Capital | Missouri UFOs
+parent_title: Why Piedmont Became Missouri's UFO Capital
 parent_permalink: /piedmont-1973/
 parent_nav_short_title: Piedmont 1973
 parent_heading_title: Why Piedmont Became Missouri's UFO Capital
@@ -252,15 +252,14 @@ image: /assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_clearwater_lake_
 
 The most frequently reported feature of the 1973 Piedmont–Ozark UFO flap was not a landed craft or a single dramatic encounter. It was a series of recurring lights seen around Clearwater Lake in Wayne County. Witnesses described bright points of light, glowing objects, beams, and luminous displays appearing over the lake and surrounding hills, often on repeated nights. These reports became the core of the wider Piedmont story because they were observed by large numbers of people over an extended period rather than during one isolated incident. Hundreds of reports reached local authorities and newspapers during the spring of 1973, drawing regional and eventually national attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sos.mo.gov/symbol/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sos.mo.gov">[Missouri Secretary of State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sos.mo.gov</span><span class="citation-popover-snippet">Missouri Secretary of StateState UFO Capitals of MissouriBetween February and April 1973, residents of Piedmont and the surrounding area...</span><span class="citation-popover-meta">Published: April 1973</span></span></span>
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_clearwater_lake_ligh_1d1d1b-Illustration-1-light.svg" | relative_url }}" alt="Lake Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_clearwater_lake_ligh_1d1d1b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_clearwater_lake_ligh_1d1d1b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What makes the Clearwater Lake sightings significant within [Missouri]({{ 'what-really-happened-in-missouris-ufo/' | relative_url }}) UFO history is not that they were conclusively identified as extraordinary objects. Rather, they generated a sustained effort to determine what witnesses were actually seeing. The resulting debate between unusual observations and conventional explanations remains central to how the case is viewed today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaticanobservatory.org">[Vatican Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaticanobservatory.org</span><span class="citation-popover-title">Vatican Observatory MO UFOs</span><span class="citation-popover-snippet">and Miracles - Vatican...11 Oct 2025 — But in 1973, when residents in and around Piedmont, Missouri, began reporting lights in the sky...</span></span></span>
+<img src="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_clearwater_lake_ligh_1d1d1b-Illustration-1-dark.svg" | relative_url }}" alt="Lake Lights illustration 1" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_clearwater_lake_ligh_1d1d1b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_clearwater_lake_ligh_1d1d1b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+What makes the Clearwater Lake sightings significant within Missouri UFO history is not that they were conclusively identified as extraordinary objects. Rather, they generated a sustained effort to determine what witnesses were actually seeing. The resulting debate between unusual observations and conventional explanations remains central to how the case is viewed today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaticanobservatory.org">[Vatican Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaticanobservatory.org</span><span class="citation-popover-title">Vatican Observatory MO UFOs</span><span class="citation-popover-snippet">and Miracles - Vatican...11 Oct 2025 — But in 1973, when residents in and around Piedmont, Missouri, began reporting lights in the sky...</span></span></span>
 
 ## Key Witness Reports from the Lake
 
 Many of the reports centred on bright lights appearing above or beyond Clearwater Lake after dark. Witnesses commonly described lights that seemed unusually bright, appeared to hover, changed position abruptly, or remained visible for extended periods. Some observers reported multiple lights, while others described single luminous objects that seemed brighter than ordinary aircraft or stars. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaticanobservatory.org">[Vatican Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaticanobservatory.org</span><span class="citation-popover-title">Vatican Observatory MO UFOs</span><span class="citation-popover-snippet">and Miracles - Vatican...11 Oct 2025 — But in 1973, when residents in and around Piedmont, Missouri, began reporting lights in the sky...</span></span></span>
 
-One reason the sightings attracted attention was the diversity of witnesses. Accounts came from local residents, motorists, school groups and visitors who travelled to the area after publicity increased. Contemporary recollections describe roads becoming crowded with people hoping to witness the phenomenon themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.missourinet.com/2024/06/14/greetings-earthlings-piedmont-opens-ufo-capital-of-missouri-park/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: missourinet.com">[Missourinet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">missourinet.com</span><span class="citation-popover-snippet">MissourinetGreetings, Earthlings: Piedmont opens UFO Capital of...June 14, 2024 — 14 Jun 2024 — It includes a 16 foot UFO, a six foot ta...</span><span class="citation-popover-meta">Published: June 14, 2024</span></span></span>
+One reason the sightings attracted attention was the diversity of witnesses. Accounts came from local residents, motorists, school groups and visitors who travelled to the area after publicity increased. Contemporary recollections describe roads becoming crowded with people hoping to witness the phenomenon themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.missourinet.com/2024/06/14/greetings-earthlings-piedmont-opens-ufo-capital-of-missouri-park/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: missourinet.com">[Missourinet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">missourinet.com</span><span class="citation-popover-snippet">Greetings, Earthlings: Piedmont opens UFO Capital of...June 14, 2024 — 14 Jun 2024 — It includes a 16 foot UFO, a six foot ta...</span><span class="citation-popover-meta">Published: June 14, 2024</span></span></span>
 
 The reports varied considerably in detail. Some observers saw distant lights near the horizon. Others claimed to see lights moving across the sky or appearing over the water. Such variation complicates attempts to treat all the sightings as a single event. It is possible that witnesses were observing different phenomena under the broad label of “the lights over Clearwater Lake”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Harley Rutledge</span><span class="citation-popover-snippet">Harley Rutledge</span></span></span>
 
@@ -271,7 +270,6 @@ Clearwater Lake offered conditions that naturally encouraged observation. The la
 The concentration of reports also attracted the attention of Southeast Missouri State University physicist Harley Rutledge. Disturbed by what he regarded as dismissive treatment of local witnesses, he organised what became known as Project Identification, a long-running field investigation that attempted to observe and measure the reported lights directly. The project logged hundreds of hours of observations around the Piedmont and Clearwater Lake area. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_flap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO flap</span><span class="citation-popover-snippet">UFO flap</span></span></span>
 
 Rutledge's involvement gave the sightings an unusual degree of documentation compared with many local UFO reports. Instead of relying solely on recollections after the fact, investigators attempted to observe the lights while reports were still occurring. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Harley Rutledge</span><span class="citation-popover-snippet">Harley Rutledge</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9Wk9l0mkwTg" title="UFO Captured LIVE On Camera In Missouri “Planes Don’t Stop In Midair” | Alien Highway" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9Wk9l0mkwTg" target="_blank" rel="noopener noreferrer">UFO Captured LIVE On Camera In Missouri “Planes Don’t Stop In Midair” | Alien Highway</a></p><p class="youtube-embed-meta">Channel: Discovery UK &middot; Views: 21.4K &middot; Uploaded: December 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9Wk9l0mkwTg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9Wk9l0mkwTg">Open on YouTube</a></p></div></div></div>
 
@@ -287,8 +285,7 @@ Several recurring themes appear in descriptions of the Clearwater Lake lights.
 
 **Repeated observations.** Unlike many one-night UFO incidents, reports continued for weeks. This persistence encouraged the belief that a genuine local phenomenon was occurring, but it also increased the possibility that publicity itself influenced what observers expected to see. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sos.mo.gov/symbol/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sos.mo.gov">[Missouri Secretary of State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sos.mo.gov</span><span class="citation-popover-snippet">Missouri Secretary of StateState UFO Capitals of MissouriBetween February and April 1973, residents of Piedmont and the surrounding area...</span><span class="citation-popover-meta">Published: April 1973</span></span></span>
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_clearwater_lake_ligh_1d1d1b-Illustration-2-light.svg" | relative_url }}" alt="Lake Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_clearwater_lake_ligh_1d1d1b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_clearwater_lake_ligh_1d1d1b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_clearwater_lake_ligh_1d1d1b-Illustration-2-dark.svg" | relative_url }}" alt="Lake Lights illustration 2" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_clearwater_lake_ligh_1d1d1b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_clearwater_lake_ligh_1d1d1b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Natural, Aviation and Other Explanations
 
 The debate over Clearwater Lake has always revolved around whether one explanation can account for all the reports. Most researchers, including sceptical commentators, argue that multiple causes are more likely.
@@ -298,7 +295,6 @@ The debate over Clearwater Lake has always revolved around whether one explanati
 One of the strongest conventional explanations involves aircraft viewed under unusual conditions. At night, landing lights can appear stationary when an aircraft is travelling towards an observer. Changes in direction or brightness can create the illusion of sudden movement. The Ozark terrain around Clearwater Lake can also obscure reference points, making distance and speed difficult to judge accurately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_flap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO flap</span><span class="citation-popover-snippet">UFO flap</span></span></span>
 
 Rutledge himself acknowledged that many reported UFOs could be explained as ordinary aircraft or atmospheric effects. His position was not that every sighting represented an unknown object but that a smaller subset deserved further study. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_flap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO flap</span><span class="citation-popover-snippet">UFO flap</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LHWxWNy6VO0" title="Investigators Visit The Site Of The 1973 Clearwater Lake UFO Sighting | Alien Highway" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LHWxWNy6VO0" target="_blank" rel="noopener noreferrer">Investigators Visit The Site Of The 1973 Clearwater Lake UFO Sighting | Alien Highway</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 68.9K &middot; Uploaded: July 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LHWxWNy6VO0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LHWxWNy6VO0">Open on YouTube</a></p></div></div></div>
 
@@ -316,8 +312,7 @@ Another explanation focuses less on the lights themselves and more on how report
 
 This does not mean witnesses fabricated their observations. Rather, it suggests that genuine but ambiguous sights may have been interpreted as part of a larger mystery because the region was already primed to expect unusual activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_flap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO flap</span><span class="citation-popover-snippet">UFO flap</span></span></span>
 
-
-<img src="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_clearwater_lake_ligh_1d1d1b-Illustration-3-light.svg" | relative_url }}" alt="Lake Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_clearwater_lake_ligh_1d1d1b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_clearwater_lake_ligh_1d1d1b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_clearwater_lake_ligh_1d1d1b-Illustration-3-dark.svg" | relative_url }}" alt="Lake Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_clearwater_lake_ligh_1d1d1b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Missouri_d961c4_piedmont_1973_flap_e9b7d5_clearwater_lake_ligh_1d1d1b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Did Investigation Strengthen or Weaken the Mystery?
 
 The Clearwater Lake lights occupy an unusual position in Missouri UFO history because investigation neither fully solved nor decisively validated the claims.
@@ -328,9 +323,7 @@ On the other hand, the persistence of reports, the number of witnesses and the w
 
 The result is a case that remains unresolved rather than proven. The strongest historical conclusion is that Clearwater Lake became the focal point of a genuine wave of unusual light reports in 1973. Whether those reports reflected a mixture of aircraft, astronomical objects, atmospheric effects and heightened public attention, or included a smaller number of genuinely unidentified phenomena, remains a matter of interpretation. Within the broader [Piedmont 1973]({{ 'piedmont-1973/' | relative_url }}) sightings and the Ozark UFO flap, the lake lights continue to represent the central mystery that gave the episode its lasting place in Missouri folklore and UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sos.mo.gov/symbol/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sos.mo.gov">[Missouri Secretary of State]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sos.mo.gov</span><span class="citation-popover-snippet">Missouri Secretary of StateState UFO Capitals of MissouriBetween February and April 1973, residents of Piedmont and the surrounding area...</span><span class="citation-popover-meta">Published: April 1973</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaticanobservatory.org">[Vatican Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaticanobservatory.org</span><span class="citation-popover-title">Vatican Observatory MO UFOs</span><span class="citation-popover-snippet">and Miracles - Vatican...11 Oct 2025 — But in 1973, when residents in and around Piedmont, Missouri, began reporting lights in the sky...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cmyTdIUMP4A" title="Ribbon cutting for &quot;UFO Capital of Missouri&quot; Park in Piedmont" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cmyTdIUMP4A" target="_blank" rel="noopener noreferrer">Ribbon cutting for &quot;UFO Capital of Missouri&quot; Park in Piedmont</a></p><p class="youtube-embed-meta">Channel: KFVS12 | Heartland News, Weather &amp; Sports &middot; Views: 169 &middot; Uploaded: May 2024 &middot; Length: 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cmyTdIUMP4A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cmyTdIUMP4A">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -418,7 +411,7 @@ The result is a case that remains unresolved rather than proven. The strongest h
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -428,111 +421,36 @@ The result is a case that remains unresolved rather than proven. The strongest h
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-were-the-lights-seen-over-clearwater-lake-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-were-the-lights-seen-over-clearwater-lake-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-were-the-lights-seen-over-clearwater-lake-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-were-the-lights-seen-over-clearwater-lake-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-were-the-lights-seen-over-clearwater-lake-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-were-the-lights-seen-over-clearwater-lake-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-were-the-lights-seen-over-clearwater-lake-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-were-the-lights-seen-over-clearwater-lake-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,15 +458,15 @@ The result is a case that remains unresolved rather than proven. The strongest h
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-were-the-lights-seen-over-clearwater-lake-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-were-the-lights-seen-over-clearwater-lake-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-were-the-lights-seen-over-clearwater-lake-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-were-the-lights-seen-over-clearwater-lake-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-were-the-lights-seen-over-clearwater-lake-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-were-the-lights-seen-over-clearwater-lake-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-were-the-lights-seen-over-clearwater-lake-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-were-the-lights-seen-over-clearwater-lake-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,15 +474,15 @@ The result is a case that remains unresolved rather than proven. The strongest h
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-were-the-lights-seen-over-clearwater-lake-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-were-the-lights-seen-over-clearwater-lake-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-were-the-lights-seen-over-clearwater-lake-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-were-the-lights-seen-over-clearwater-lake-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-were-the-lights-seen-over-clearwater-lake-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-were-the-lights-seen-over-clearwater-lake-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-were-the-lights-seen-over-clearwater-lake-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-were-the-lights-seen-over-clearwater-lake-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -572,15 +490,15 @@ The result is a case that remains unresolved rather than proven. The strongest h
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-were-the-lights-seen-over-clearwater-lake-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-were-the-lights-seen-over-clearwater-lake-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-were-the-lights-seen-over-clearwater-lake-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-were-the-lights-seen-over-clearwater-lake-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-were-the-lights-seen-over-clearwater-lake-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-were-the-lights-seen-over-clearwater-lake-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-were-the-lights-seen-over-clearwater-lake-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-were-the-lights-seen-over-clearwater-lake-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -588,7 +506,7 @@ The result is a case that remains unresolved rather than proven. The strongest h
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lake-lights-what-were-the-lights-seen-over-clearwater-lake-missouri-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-were-the-lights-seen-over-clearwater-lake-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-were-the-lights-seen-over-clearwater-lake-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -665,17 +583,31 @@ The result is a case that remains unresolved rather than proven. The strongest h
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -688,42 +620,73 @@ The result is a case that remains unresolved rather than proven. The strongest h
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -738,12 +701,17 @@ The result is a case that remains unresolved rather than proven. The strongest h
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -754,29 +722,29 @@ The result is a case that remains unresolved rather than proven. The strongest h
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Harley Rutledge  
-   Link: [https://en.wikipedia.org/wiki/Harley_Rutledge](https://en.wikipedia.org/wiki/Harley_Rutledge)  
+   Link: <a href="https://en.wikipedia.org/wiki/Harley_Rutledge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harley_Rutledge</a>  
 
 2. <a id="endnote-2"></a>
    Source: missourinet.com  
-   Link: [https://www.missourinet.com/2024/06/14/greetings-earthlings-piedmont-opens-ufo-capital-of-missouri-park/](https://www.missourinet.com/2024/06/14/greetings-earthlings-piedmont-opens-ufo-capital-of-missouri-park/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MissourinetGreetings, Earthlings: Piedmont opens UFO Capital of...June 14, 2024 — 14 Jun 2024 — It includes a 16 foot UFO, a six foot ta...</p></details>
+   Link: <a href="https://www.missourinet.com/2024/06/14/greetings-earthlings-piedmont-opens-ufo-capital-of-missouri-park/" target="_blank" rel="noopener noreferrer nofollow">https://www.missourinet.com/2024/06/14/greetings-earthlings-piedmont-opens-ufo-capital-of-missouri-park/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Greetings, Earthlings: Piedmont opens UFO Capital of...June 14, 2024 — 14 Jun 2024 — It includes a 16 foot UFO, a six foot ta...</p></details>
    Published: June 14, 2024  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO flap  
-   Link: [https://en.wikipedia.org/wiki/UFO_flap](https://en.wikipedia.org/wiki/UFO_flap)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_flap" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_flap</a>  
 
 4. <a id="endnote-4"></a>
    Source: sos.mo.gov  
-   Link: [https://www.sos.mo.gov/symbol/ufo](https://www.sos.mo.gov/symbol/ufo)  
+   Link: <a href="https://www.sos.mo.gov/symbol/ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.sos.mo.gov/symbol/ufo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missouri Secretary of StateState UFO Capitals of MissouriBetween February and April 1973, residents of Piedmont and the surrounding area...</p></details>
    Published: April 1973  
 
 5. <a id="endnote-5"></a>
    Source: vaticanobservatory.org  
    Title: Vatican Observatory MO UFOs  
-   Link: [https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/](https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/)  
+   Link: <a href="https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaticanobservatory.org/sacred-space-astronomy/mo-ufos-and-miracles/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Miracles - Vatican...11 Oct 2025 — But in 1973, when residents in and around Piedmont, Missouri, began reporting lights in the sky...</p></details>
 
 ### Additional References
@@ -784,58 +752,58 @@ The result is a case that remains unresolved rather than proven. The strongest h
 6. <a id="endnote-6"></a>
    Source: facebook.com  
    Title: how piedmont became the ufo capitol of missouri living st louis  
-   Link: [https://www.facebook.com/NinePBS/videos/how-piedmont-became-the-ufo-capitol-of-missouri-living-st-louis/1210535040154211/](https://www.facebook.com/NinePBS/videos/how-piedmont-became-the-ufo-capitol-of-missouri-living-st-louis/1210535040154211/)  
+   Link: <a href="https://www.facebook.com/NinePBS/videos/how-piedmont-became-the-ufo-capitol-of-missouri-living-st-louis/1210535040154211/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NinePBS/videos/how-piedmont-became-the-ufo-capitol-of-missouri-living-st-louis/1210535040154211/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Piedmont became the UFO Capitol of Missouri | Living St...Harley Rutledge, came to the area around May 1973. - And he set up a group...</p></details>
    Published: May 1973  
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
    Title: Get ready for a spine-tingling story this pre-Halloween eve!  
-   Link: [https://www.facebook.com/littlerockusace/posts/get-ready-for-a-spine-tingling-story-this-pre-halloween-eve-did-you-know-that-cl/963087559192582/](https://www.facebook.com/littlerockusace/posts/get-ready-for-a-spine-tingling-story-this-pre-halloween-eve-did-you-know-that-cl/963087559192582/)  
+   Link: <a href="https://www.facebook.com/littlerockusace/posts/get-ready-for-a-spine-tingling-story-this-pre-halloween-eve-did-you-know-that-cl/963087559192582/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/littlerockusace/posts/get-ready-for-a-spine-tingling-story-this-pre-halloween-eve-did-you-know-that-cl/963087559192582/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Oct 2024 — In 1973, two men went to the police claiming to have been abducted by aliens. In October 1973, one of America&#x27;s most famous...</p></details>
    Published: October 1973  
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: on their drive home one chilly night in 1973 high school basketball coach reggie  
-   Link: [https://www.facebook.com/NinePBS/posts/on-their-drive-home-one-chilly-night-in-1973-high-school-basketball-coach-reggie/1066055045522517/](https://www.facebook.com/NinePBS/posts/on-their-drive-home-one-chilly-night-in-1973-high-school-basketball-coach-reggie/1066055045522517/)  
+   Link: <a href="https://www.facebook.com/NinePBS/posts/on-their-drive-home-one-chilly-night-in-1973-high-school-basketball-coach-reggie/1066055045522517/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NinePBS/posts/on-their-drive-home-one-chilly-night-in-1973-high-school-basketball-coach-reggie/1066055045522517/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>On their drive home one chilly night in 1973, high school...Rutledge led a seven- year study of the 1973 sightings at Clearwater Lake ne...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: amazon.co.uk  
    Title: 50th Anniversary of the SE Missouri Ozarks UFO Flap  
-   Link: [https://www.amazon.co.uk/50th-Anniversary-Missouri-Ozarks-Flap/dp/1737899663](https://www.amazon.co.uk/50th-Anniversary-Missouri-Ozarks-Flap/dp/1737899663)  
+   Link: <a href="https://www.amazon.co.uk/50th-Anniversary-Missouri-Ozarks-Flap/dp/1737899663" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/50th-Anniversary-Missouri-Ozarks-Flap/dp/1737899663</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missouri Ozarks UFO Flap: Piedmont, Clearwater Lake, Farmington, Wayne County... sightings and experiences which include sightings of UF...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FOX2Now/posts/piedmont-missouri-has-been-named-the-state-ufo-capital-of-missouri-due-to-numero/1019168393133124/](https://www.facebook.com/FOX2Now/posts/piedmont-missouri-has-been-named-the-state-ufo-capital-of-missouri-due-to-numero/1019168393133124/)  
+   Link: <a href="https://www.facebook.com/FOX2Now/posts/piedmont-missouri-has-been-named-the-state-ufo-capital-of-missouri-due-to-numero/1019168393133124/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX2Now/posts/piedmont-missouri-has-been-named-the-state-ufo-capital-of-missouri-due-to-numero/1019168393133124/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>work &quot;Project Identification.&quot; Authors and investigators...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Ribbon cutting for "UFO Capital of Missouri" Park in Piedmont  
-   Link: [https://www.youtube.com/watch?v=cmyTdIUMP4A](https://www.youtube.com/watch?v=cmyTdIUMP4A)  
+   Link: <a href="https://www.youtube.com/watch?v=cmyTdIUMP4A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cmyTdIUMP4A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This documentary segment on the Clearwater Lake sighting follows modern investigative teams re-examining the location of the 1973 flap to...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
    Title: the 1973 piedmont missouri ufo flap  
-   Link: [https://www.reddit.com/r/UFOs/comments/1mlz5h7/the_1973_piedmont_missouri_ufo_flap/](https://www.reddit.com/r/UFOs/comments/1mlz5h7/the_1973_piedmont_missouri_ufo_flap/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1mlz5h7/the_1973_piedmont_missouri_ufo_flap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1mlz5h7/the_1973_piedmont_missouri_ufo_flap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1973 Piedmont, Missouri UFO FlapIn 1973, a school bus sighting in Piedmont, Missouri sparked weeks of UAP reports — hundreds of light...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=LHWxWNy6VO0](https://www.youtube.com/watch?v=LHWxWNy6VO0)  
+   Link: <a href="https://www.youtube.com/watch?v=LHWxWNy6VO0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LHWxWNy6VO0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Missouri Mysteries, Chapter Two - Unexplained Lights Near Piedmont, Missouri...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=9Wk9l0mkwTg](https://www.youtube.com/watch?v=9Wk9l0mkwTg)  
+   Link: <a href="https://www.youtube.com/watch?v=9Wk9l0mkwTg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9Wk9l0mkwTg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ribbon cutting for &quot;UFO Capital of Missouri&quot; Park in Piedmont...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: How Piedmont became the UFO Capitol of Missouri | Living St. Louis  
-   Link: [https://www.youtube.com/watch?v=JDTIqTJMBZ0](https://www.youtube.com/watch?v=JDTIqTJMBZ0)  
+   Link: <a href="https://www.youtube.com/watch?v=JDTIqTJMBZ0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JDTIqTJMBZ0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Captured LIVE On Camera In Missouri “Planes Don&#x27;t Stop In Midair” | Alien Highway...</p></details>

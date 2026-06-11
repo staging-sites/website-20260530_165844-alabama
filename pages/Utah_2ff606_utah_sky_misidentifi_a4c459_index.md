@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /utah-2ff606-utah-sky-misidentifi/
 description: Focused pages that expand on Sky Clues.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Utah_2ff606_utah_sky_misidentifi_a4c459
-parent_title: Sky Clues | What Makes Utah's UFO History So Persistent?
+parent_title: Sky Clues
 parent_nav_short_title: Sky Clues
 parent_permalink: /sky-clues-c0959c/
 ---

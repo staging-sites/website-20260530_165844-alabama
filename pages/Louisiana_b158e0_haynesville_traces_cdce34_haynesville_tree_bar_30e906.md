@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /haynesville/
 nav_short_title: Tree Bark Analysis
 title: How Scientists Studied Burned Trees from Haynesville 1966
-title_full: How Scientists Studied Burned Trees from Haynesville 1966 | Haynesville
+title_full: How Scientists Studied Burned Trees from Haynesville 1966
 display_title_short: Tree Bark Analysis
 display_title: Tree Bark Analysis
 heading_title: How Scientists Studied Burned Trees from Haynesville 1966
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:32:22'
-parent_title: Why Haynesville Became Louisiana's Hardest Case | Louisiana UFOs
+parent_title: Why Haynesville Became Louisiana's Hardest Case
 parent_permalink: /haynesville/
 parent_nav_short_title: Haynesville
 parent_heading_title: Why Haynesville Became Louisiana's Hardest Case
@@ -250,16 +250,14 @@ image: /assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_tre
 
 ## Introduction
 
-The 1966 **[Haynesville]({{ 'haynesville/' | relative_url }}) incident** in northwest [Louisiana]({{ 'what-really-happened-in-louisianas-ufo/' | relative_url }}) remains distinctive in the state’s catalogue of UFO‑related reports partly because of **physical traces** claimed at the site – notably **blackened and burned tree bark**. Unlike many sightings that rest entirely on witness accounts, this case has been revisited by scientists decades later using modern methods aimed at understanding the **nature and origin of the tree damage** and what, if anything, it might reveal about the energy involved in the event. This page focuses specifically on the **scientific analysis of the burned bark samples**, how researchers have interpreted them, and what limitations remain in drawing firm conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
+The 1966 **[Haynesville]({{ 'haynesville/' | relative_url }}) incident** in northwest Louisiana remains distinctive in the state’s catalogue of UFO‑related reports partly because of **physical traces** claimed at the site – notably **blackened and burned tree bark**. Unlike many sightings that rest entirely on witness accounts, this case has been revisited by scientists decades later using modern methods aimed at understanding the **nature and origin of the tree damage** and what, if anything, it might reveal about the energy involved in the event. This page focuses specifically on the **scientific analysis of the burned bark samples**, how researchers have interpreted them, and what limitations remain in drawing firm conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_tree_bar_30e906-Illustration-1-light.svg" | relative_url }}" alt="Tree Bark Analysis illustration 1" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_tree_bar_30e906-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_tree_bar_30e906-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_tree_bar_30e906-Illustration-1-dark.svg" | relative_url }}" alt="Tree Bark Analysis illustration 1" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_tree_bar_30e906-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_tree_bar_30e906-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Investigators and the Site Return
 
 Soon after the original **December 30, 1966** sighting by Professor Louie A. Galloway and his family, early investigators struggled to relocate the exact clearing described in reports. According to the **1969 Condon Report**, although infrared aerial photographs and other data were collected, the ground team could not at that time find clear physical evidence described by the witness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
 
 Later civilian researchers, including one of the authors of recent analyses, returned to the described location, **identified the specific clearing**, and documented the pattern of bark damage around its perimeter. In this clearing, the **tree bark was observed to be blackened toward the centre**, unlike surrounding unaffected forest – suggesting an environmental effect consistent with intense light exposure rather than a simple surface fire.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l8QJ3hXynMA" title="Jacques Vallee reveals the true origins of UFO Disclosure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l8QJ3hXynMA" target="_blank" rel="noopener noreferrer">Jacques Vallee reveals the true origins of UFO Disclosure</a></p><p class="youtube-embed-meta">Channel: Jason Samosa &middot; Views: 287.8K &middot; Uploaded: November 2025 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l8QJ3hXynMA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l8QJ3hXynMA">Open on YouTube</a></p></div></div></div>
 
@@ -271,8 +269,7 @@ In these analyses, experimental comparison was made between the **burned bark fr
 
 Although the full technical details of the published results are behind paywalls, the study reported that **visible and measurable differences** were found between the burned and unburned specimens in controlled analyses. These differences were interpreted by the authors as indicative of exposure to **intense radiative energy** rather than a conventional combustion process alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_tree_bar_30e906-Illustration-2-light.svg" | relative_url }}" alt="Tree Bark Analysis illustration 2" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_tree_bar_30e906-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_tree_bar_30e906-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_tree_bar_30e906-Illustration-2-dark.svg" | relative_url }}" alt="Tree Bark Analysis illustration 2" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_tree_bar_30e906-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_tree_bar_30e906-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Thermal Modelling and Energy Estimates
 
 To place the observed bark damage into a physical context, the research team incorporated **thermal diffusion modelling** into their analysis. By simulating how heat might propagate through a tree’s bark and wood from a high‑intensity light source, they could estimate the **magnitude of energy** needed to produce the patterns seen at the site.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
@@ -281,8 +278,7 @@ The results suggested that the light or radiative output responsible for the bar
 
 It’s important to stress that these figures are **model‑dependent**: they assume specific source characteristics, distance to the trees, exposure duration, and environmental conditions such as fog and cloud cover. The original investigators and later authors alike note significant uncertainties in translating observed burn patterns into precise energy outputs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eze1ikq-sMQ" title="The New Era in UFO Research with Jacques Vallée" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eze1ikq-sMQ" target="_blank" rel="noopener noreferrer">The New Era in UFO Research with Jacques Vallée</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 43.6K &middot; Uploaded: January 2023 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eze1ikq-sMQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eze1ikq-sMQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6We0GMqqoko" title="Implications of UFO Phenomena with Jacques Vallée" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6We0GMqqoko" target="_blank" rel="noopener noreferrer">Implications of UFO Phenomena with Jacques Vallée</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 15.7K &middot; Uploaded: December 2025 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6We0GMqqoko" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6We0GMqqoko">Open on YouTube</a></p></div></div></div>
 
 ## Interpreting the Physical Evidence
 
@@ -290,21 +286,18 @@ The Haynesville bark analysis has become a focal point for debates about physica
 
 However, several key caveats apply:
 
-* **Environmental context matters**: Tree bark can blacken or char from a variety of heat and light exposures. Forest fires, reflected sunlight, or even human‑created heat sources can leave patterns that superficially resemble radiative burns. Caution is needed in attributing such patterns to an anomalous aerial phenomenon without excluding mundane causes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jof/article/62/11/799/4672208" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicHeating of Tree Trunks in Surface Fires | Journal of Forestry | Oxford AcademicNovember 1, 1964...</span><span class="citation-popover-meta">Published: November 1, 1964</span></span></span>
+* **Environmental context matters**: Tree bark can blacken or char from a variety of heat and light exposures. Forest fires, reflected sunlight, or even human‑created heat sources can leave patterns that superficially resemble radiative burns. Caution is needed in attributing such patterns to an anomalous aerial phenomenon without excluding mundane causes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jof/article/62/11/799/4672208" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicHeating of Tree Trunks in Surface Fires &#124; Journal of Forestry &#124; Oxford AcademicNovember 1, 1964...</span><span class="citation-popover-meta">Published: November 1, 1964</span></span></span>
 * **Sample provenance and preservation**: The quality and chain of custody of the bark samples are critical in any analysis. In the decades since 1966, environmental degradation and contamination can alter physical attributes, complicating retrospective interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
 * **Model uncertainty**: The thermal modelling used to estimate energy output relies on assumptions about source characteristics and exposure that are not independently verified. Estimates in the literature vary, and even the published peer‑reviewed figures acknowledge substantial error bounds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
 
-
-<img src="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_tree_bar_30e906-Illustration-3-light.svg" | relative_url }}" alt="Tree Bark Analysis illustration 3" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_tree_bar_30e906-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_tree_bar_30e906-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_tree_bar_30e906-Illustration-3-dark.svg" | relative_url }}" alt="Tree Bark Analysis illustration 3" data-theme-src-dark="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_tree_bar_30e906-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Louisiana_b158e0_haynesville_traces_cdce34_haynesville_tree_bar_30e906-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the Evidence Stands Now
 
 The scientific analysis of the burned tree bark at Haynesville is noteworthy within the wider catalog of alleged physical trace reports because it incorporates **controlled laboratory comparison and formal energy modelling** – rather than purely descriptive field notes. Such work has expanded interest among researchers seeking to apply rigorous methods to what have historically been anecdote‑rich, data‑poor cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dnus.dk/publications" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dnus.dk">[dnus.dk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dnus.dk</span><span class="citation-popover-snippet">Danish Network for UAP Studies...</span></span></span>
 
 Yet, while the analyses suggest that the bark damage is **not trivially explained by ordinary heat sources**, they **do not confirm** that the cause was an extraterrestrial craft or any specific type of engineered object. The results point to **unusual radiative effects**, but disentangling those from mundane explanations remains a central challenge. The scientific community generally treats the Haynesville bark evidence as **intriguing but inconclusive** – an example of how physical trace cases can be studied rigorously, but how complex environmental and analytical variables make definitive attribution elusive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimates of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data -...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iugx8r1_K8Q" title="Jacques Vallée Exposes the UFO Truth Already in Plain Sight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iugx8r1_K8Q" target="_blank" rel="noopener noreferrer">Jacques Vallée Exposes the UFO Truth Already in Plain Sight</a></p><p class="youtube-embed-meta">Channel: THE HANNIBAL TV &middot; Views: 409 &middot; Uploaded: January 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iugx8r1_K8Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iugx8r1_K8Q">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -727,118 +720,118 @@ Yet, while the analyses suggest that the bark damage is **not trivially explaine
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0376042125000247](https://www.sciencedirect.com/science/article/pii/S0376042125000247)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0376042125000247" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0376042125000247</a>  
 
 2. <a id="endnote-2"></a>
    Source: dnus.dk  
-   Link: [https://dnus.dk/publications](https://dnus.dk/publications)  
+   Link: <a href="https://dnus.dk/publications" target="_blank" rel="noopener noreferrer nofollow">https://dnus.dk/publications</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Danish Network for UAP Studies...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/jof/article/62/11/799/4672208](https://academic.oup.com/jof/article/62/11/799/4672208)  
+   Link: <a href="https://academic.oup.com/jof/article/62/11/799/4672208" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jof/article/62/11/799/4672208</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicHeating of Tree Trunks in Surface Fires | Journal of Forestry | Oxford AcademicNovember 1, 1964...</p></details>
    Published: November 1, 1964  
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: The new science of Unidentified Aerospace-Undersea Phenomena (UAP)  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0376042125000235](https://www.sciencedirect.com/science/article/pii/S0376042125000235)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectJune 1, 2025 — PROGRESS IN AEROSPACE SCIENCES Volume 156, 1 June 2025, 101097 THE NEW SCIENCE OF UNIDENTIFIED AEROSPACE-UNDE...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0376042125000235" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0376042125000235</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 1, 2025 — PROGRESS IN AEROSPACE SCIENCES Volume 156, 1 June 2025, 101097 THE NEW SCIENCE OF UNIDENTIFIED AEROSPACE-UNDE...</p></details>
    Published: June 1, 2025  
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0376042125000259](https://www.sciencedirect.com/science/article/abs/pii/S0376042125000259)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectJune 1, 2025 — PROGRESS IN AEROSPACE SCIENCES Volume 156, 1 June 2025, 101099 INITIAL RESULTS FROM THE FIRST FIELD EXPEDITIO...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0376042125000259" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0376042125000259</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 1, 2025 — PROGRESS IN AEROSPACE SCIENCES Volume 156, 1 June 2025, 101099 INITIAL RESULTS FROM THE FIRST FIELD EXPEDITIO...</p></details>
    Published: June 1, 2025  
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0376042125000259](https://www.sciencedirect.com/science/article/pii/S0376042125000259)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectJune 1, 2025 — PROGRESS IN AEROSPACE SCIENCES Volume 156, 1 June 2025, 101099 INITIAL RESULTS FROM THE FIRST FIELD EXPEDITIO...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0376042125000259" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0376042125000259</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 1, 2025 — PROGRESS IN AEROSPACE SCIENCES Volume 156, 1 June 2025, 101099 INITIAL RESULTS FROM THE FIRST FIELD EXPEDITIO...</p></details>
    Published: June 1, 2025  
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
    Title: Extraterrestrial impacts and wildfires  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0031018200001759](https://www.sciencedirect.com/science/article/abs/pii/S0031018200001759)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectDecember 1, 2000 — PALAEOGEOGRAPHY, PALAEOCLIMATOLOGY, PALAEOECOLOGY Volume 164, Issues 1–4, December 2000, Pages 57-66 EXTR...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031018200001759" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0031018200001759</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 1, 2000 — PALAEOGEOGRAPHY, PALAEOCLIMATOLOGY, PALAEOECOLOGY Volume 164, Issues 1–4, December 2000, Pages 57-66 EXTR...</p></details>
    Published: December 1, 2000  
 
 8. <a id="endnote-8"></a>
    Source: academic.oup.com  
    Title: Salisbury Frank B. Salisbury Utah State University Search for other works by thi  
-   Link: [https://academic.oup.com/bioscience/article/17/1/15/326133](https://academic.oup.com/bioscience/article/17/1/15/326133)  
+   Link: <a href="https://academic.oup.com/bioscience/article/17/1/15/326133" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/bioscience/article/17/1/15/326133</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and the UFO | BioScience | Oxford AcademicJanuary 1, 1967 — Volume 17 Issue 1 January 1967 ARTICLE CONTENTS Journal Article THE SCIENTIST...</p></details>
    Published: January 1, 1967  
 
 9. <a id="endnote-9"></a>
    Source: jglobal.jst.go.jp  
-   Link: [https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202502213896265296](https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202502213896265296)  
+   Link: <a href="https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202502213896265296" target="_blank" rel="noopener noreferrer nofollow">https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202502213896265296</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data | Article Information | J...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: jglobal.jst.go.jp  
-   Link: [https://jglobal.jst.go.jp/en/public/202502213896265296](https://jglobal.jst.go.jp/en/public/202502213896265296)  
+   Link: <a href="https://jglobal.jst.go.jp/en/public/202502213896265296" target="_blank" rel="noopener noreferrer nofollow">https://jglobal.jst.go.jp/en/public/202502213896265296</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of radiative energy values in ground-level observations of an unidentified aerial phenomenon: New physical data | Article Information | J...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/casefiles/analysis-tree-branches-purportedly-came-contact-ufo-centerville-ohio-march-6-2004/](https://www.theblackvault.com/casefiles/analysis-tree-branches-purportedly-came-contact-ufo-centerville-ohio-march-6-2004/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/analysis-tree-branches-purportedly-came-contact-ufo-centerville-ohio-march-6-2004/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/analysis-tree-branches-purportedly-came-contact-ufo-centerville-ohio-march-6-2004/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 6, 2004) - The Black Vault Case FilesNovember 7, 2016 — ANALYSIS OF TREE BRANCHES WHICH PURPORTEDLY CAME INTO CONTACT WITH A UFO (C...</p></details>
    Published: March 6, 2004  
 
 12. <a id="endnote-12"></a>
    Source: ovniologia.com.br  
-   Link: [https://ovniologia.com.br/2025/08/for-the-first-time-in-history-a-peer-reviewed-scientific-article-on-a-ufo-case-is-accepted-in-progress-in-aerospace-sciences.html](https://ovniologia.com.br/2025/08/for-the-first-time-in-history-a-peer-reviewed-scientific-article-on-a-ufo-case-is-accepted-in-progress-in-aerospace-sciences.html)  
+   Link: <a href="https://ovniologia.com.br/2025/08/for-the-first-time-in-history-a-peer-reviewed-scientific-article-on-a-ufo-case-is-accepted-in-progress-in-aerospace-sciences.html" target="_blank" rel="noopener noreferrer nofollow">https://ovniologia.com.br/2025/08/for-the-first-time-in-history-a-peer-reviewed-scientific-article-on-a-ufo-case-is-accepted-in-progress-in-aerospace-sciences.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 24, 2025 — FOR THE FIRST TIME IN HISTORY, A PEER-REVIEWED SCIENTIFIC ARTICLE ON A UFO CASE IS ACCEPTED IN ‘PROGRESS IN AEROSPACE S...</p></details>
    Published: August 24, 2025  
 
 13. <a id="endnote-13"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2218-1997/11/10/326](https://www.mdpi.com/2218-1997/11/10/326)  
+   Link: <a href="https://www.mdpi.com/2218-1997/11/10/326" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2218-1997/11/10/326</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DISCUSSION The objective of this paper is to prioritize truly difficult-to-explain UAP observations so that researchers can focus more ef...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchconnect.suny.edu  
    Title: the new science of unidentified aerospace undersea phenomena uap  
-   Link: [https://researchconnect.suny.edu/en/publications/the-new-science-of-unidentified-aerospace-undersea-phenomena-uap/](https://researchconnect.suny.edu/en/publications/the-new-science-of-unidentified-aerospace-undersea-phenomena-uap/)  
+   Link: <a href="https://researchconnect.suny.edu/en/publications/the-new-science-of-unidentified-aerospace-undersea-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://researchconnect.suny.edu/en/publications/the-new-science-of-unidentified-aerospace-undersea-phenomena-uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>new science of Unidentified Aerospace-Undersea Phenomena (UAP) - SUNY Research ConnectJune 1, 2025 — ABSTRACT After decades of dismissal...</p></details>
    Published: June 1, 2025  
 
 15. <a id="endnote-15"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/997](https://journalofscientificexploration.org/index.php/jse/article/view/997)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/997" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/997</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Krupke^{+} William F. Krupke WFK Lasers, LLC PDF HOW TO CITE Krupke, W. F. (2016). Sonic...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nichiyouban.spfile.work  
    Title: haynesville case  
-   Link: [https://nichiyouban.spfile.work/els/haynesville_case/](https://nichiyouban.spfile.work/els/haynesville_case/)  
+   Link: <a href="https://nichiyouban.spfile.work/els/haynesville_case/" target="_blank" rel="noopener noreferrer nofollow">https://nichiyouban.spfile.work/els/haynesville_case/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spfile.work史上初めて、UFO事件に関する査読付き科学論文が学術誌に掲載される | 日曜版September 2, 2025 — 史上初めて、UFO事件に関する査読付き科学論文が学術誌に掲載される BY日曜版 編集部 2025年9月2日 Image: Haynes...</p></details>
    Published: September 2, 2025  
 
 17. <a id="endnote-17"></a>
    Source: decur.org  
    Title: Research Hub  
-   Link: [https://decur.org/research](https://decur.org/research)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DECURTOWARD A RELIABILITY SCALE FOR ASSESSING REPORTS OF UNIDENTIFIED ANOMALOUS PHENOMENA (UAP) Dirk Schulze-Makuch, Tony Reichhardt · Un...</p></details>
+   Link: <a href="https://decur.org/research" target="_blank" rel="noopener noreferrer nofollow">https://decur.org/research</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>TOWARD A RELIABILITY SCALE FOR ASSESSING REPORTS OF UNIDENTIFIED ANOMALOUS PHENOMENA (UAP) Dirk Schulze-Makuch, Tony Reichhardt · Un...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: philpapers.org  
    Title: William F  
-   Link: [https://philpapers.org/rec/KRUSAO-2](https://philpapers.org/rec/KRUSAO-2)  
+   Link: <a href="https://philpapers.org/rec/KRUSAO-2" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/KRUSAO-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Krupke, Sonic Analysis of the Redlands UFO Tape Recording - PhilPapersSONIC ANALYSIS OF THE REDLANDS UFO TAPE RECORDING William F. Krupke...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/s3chap03.htm](https://files.ncas.org/condon/text/s3chap03.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/s3chap03.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap03.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction 1. Markings Allegedly Made By UFOs 2. Material Allegedly Deposited by UFOs 3. Parts of UFOs, or UFO Equipment 4. Conclusion...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: jglobal.jst.go.jp  
-   Link: [https://jglobal.jst.go.jp/public/202502213896265296](https://jglobal.jst.go.jp/public/202502213896265296)  
+   Link: <a href="https://jglobal.jst.go.jp/public/202502213896265296" target="_blank" rel="noopener noreferrer nofollow">https://jglobal.jst.go.jp/public/202502213896265296</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>jst.go.jp未確認空中現象の地上レベル観測における放射エネルギー値の推定:新しい物理データ〖JST機械翻訳〗 | 文献情報 | J-GLOBAL 科学技術総合リンクセンター文献 J-GLOBAL ID：202502213896265296 整理番号：25A169263...</p></details>

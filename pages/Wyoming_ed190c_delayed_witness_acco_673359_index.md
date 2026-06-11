@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /wyoming-ed190c-delayed-witness-acco/
 description: Focused pages that expand on Late Testimony.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Wyoming_ed190c_delayed_witness_acco_673359
-parent_title: Late Testimony | What Really Happened in Wyoming Skies?
+parent_title: Late Testimony
 parent_nav_short_title: Late Testimony
 parent_permalink: /late-testimony/
 ---

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /minnesota-60590f-common-explanations/
 description: Focused pages that expand on Explanations.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Minnesota_60590f_common_explanations_72fcca
-parent_title: Explanations | What Really Happened in Minnesota's Skies?
+parent_title: Explanations
 parent_nav_short_title: Explanations
 parent_permalink: /explanations-2d29c0/
 ---

@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /city-sightings/
 nav_short_title: Ocean City lights
 title: Why are Ocean City lights hard to verify?
-title_full: Why are Ocean City lights hard to verify? | City Sightings
+title_full: Why are Ocean City lights hard to verify?
 display_title_short: Ocean City lights
 display_title: Ocean City lights
 heading_title: Why are Ocean City lights hard to verify?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:35:54'
-parent_title: Where Are UFOs Most Reported in Maryland Today? | Maryland UFOs
+parent_title: Where Are UFOs Most Reported in Maryland Today?
 parent_permalink: /city-sightings/
 parent_nav_short_title: City Sightings
 parent_heading_title: Where Are UFOs Most Reported in Maryland Today?
@@ -250,20 +250,18 @@ image: /assets/images/Maryland_1ac107_maryland_civilian_re_80cc01_ocean_city_lig
 
 ## Introduction
 
-Over the past few years, **Ocean City, [Maryland]({{ 'marylands-ufo-mysteries-close-encounters/' | relative_url }})** has emerged in civilian report databases as a recurrent location for sightings of unusual coastal lights, especially bright amber or coloured orbs seen over the Atlantic or Delaware Bay at night. These reports illustrate a broader challenge in evaluating modern **unidentified aerial phenomena (UAP)**: verifying what witnesses see when the event occurs over open water. Without corroborative tracking data from radar, aviation systems, or multiple sensor networks, lights seen from the shore often remain *unidentified* even when described in detail by observers. The following examines what witnesses described, why confirming these sightings against aviation or radar data is difficult near the coast, and what plausible explanations remain alongside the unresolved elements in these coastal reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=192170" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 192170September 16, 2025...</span><span class="citation-popover-meta">Published: September 16, 2025</span></span></span>
+Over the past few years, **Ocean City, Maryland** has emerged in civilian report databases as a recurrent location for sightings of unusual coastal lights, especially bright amber or coloured orbs seen over the Atlantic or Delaware Bay at night. These reports illustrate a broader challenge in evaluating modern **unidentified aerial phenomena (UAP)**: verifying what witnesses see when the event occurs over open water. Without corroborative tracking data from radar, aviation systems, or multiple sensor networks, lights seen from the shore often remain *unidentified* even when described in detail by observers. The following examines what witnesses described, why confirming these sightings against aviation or radar data is difficult near the coast, and what plausible explanations remain alongside the unresolved elements in these coastal reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=192170" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 192170September 16, 2025...</span><span class="citation-popover-meta">Published: September 16, 2025</span></span></span>
 
-
-<img src="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01_ocean_city_lights_fb1da6-Illustration-1-light.svg" | relative_url }}" alt="Ocean City lights illustration 1" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01_ocean_city_lights_fb1da6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01_ocean_city_lights_fb1da6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01_ocean_city_lights_fb1da6-Illustration-1-dark.svg" | relative_url }}" alt="Ocean City lights illustration 1" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01_ocean_city_lights_fb1da6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01_ocean_city_lights_fb1da6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Witnesses Reported Over the Ocean
 
 Civilian reporting platforms like the **National UFO Reporting Center (NUFORC)** contain several recent entries from Ocean City that focus on bright lights over water, often described as amber or multicoloured and showing behaviour not immediately matching conventional aircraft patterns.
 
-* In late **August 2025**, a group of observers — including someone who described themselves as an aviation‑aware witness — reported **dozens of bright amber lights** making apparent counter‑clockwise passes over the ocean, visible for more than 30 minutes. The report noted that Automatic Dependent Surveillance–Broadcast (ADS‑B) checks revealed *no aircraft within 50 miles* that could match what was seen. Some lights appeared to stop and disappear, and others varied between slow and fast motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=192191" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 192191...</span></span></span>
-* Around **22 August 2025**, another report from the same area described a **stationary flashing orb** far out over the water, seen for at least half an hour. The witness speculated it might be a drone but noted it did not move for the duration; they also saw separate flashing green lights another night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=161098" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 161098December 23, 2020...</span><span class="citation-popover-meta">Published: December 23, 2020</span></span></span>
+* In late **August 2025**, a group of observers — including someone who described themselves as an aviation‑aware witness — reported **dozens of bright amber lights** making apparent counter‑clockwise passes over the ocean, visible for more than 30 minutes. The report noted that Automatic Dependent Surveillance–Broadcast (ADS‑B) checks revealed *no aircraft within 50 miles* that could match what was seen. Some lights appeared to stop and disappear, and others varied between slow and fast motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=192191" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 192191...</span></span></span>
+* Around **22 August 2025**, another report from the same area described a **stationary flashing orb** far out over the water, seen for at least half an hour. The witness speculated it might be a drone but noted it did not move for the duration; they also saw separate flashing green lights another night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=161098" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 161098December 23, 2020...</span><span class="citation-popover-meta">Published: December 23, 2020</span></span></span>
 * Previous entries include sightings of **red and white hovering lights near the inlet (2020)** and **multiple coloured lights appearing and vanishing in the same area (2024)**. These accounts share a common theme: persistent lights over or near the horizon, often with changing brightness or colour patterns that the witness cannot immediately align with known aircraft or celestial objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=185634" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 185634December 19, 2024 — NUFORC UFO SIGHTING 185634 Occurred: 2024-12-19 17:10 Local Reported: 2024-12-19 15:43 Paci...</span><span class="citation-popover-meta">Published: December 19, 2024</span></span></span>
 
 These reports tend to emphasise duration and unusual motion (hovering, appearing/disappearing), which fuels interest and speculation, yet they are also grounded in line‑of‑sight observations without independent corroboration by structured sensors.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4Av-1ETlJzw" title="Oregon pilot puzzled by mysterious, bright lights in sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4Av-1ETlJzw" target="_blank" rel="noopener noreferrer">Oregon pilot puzzled by mysterious, bright lights in sky</a></p><p class="youtube-embed-meta">Channel: KGW News &middot; Views: 83.8K &middot; Uploaded: December 2024 &middot; Length: 1 minute 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4Av-1ETlJzw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4Av-1ETlJzw">Open on YouTube</a></p></div></div></div>
 
@@ -272,15 +270,14 @@ These reports tend to emphasise duration and unusual motion (hovering, appearing
 One of the core verification problems for coastal sightings like those in Ocean City is the *inherent limitations in radar and civil aviation surveillance over water*. Primary radar and ground‑based ADS‑B receivers become progressively less effective over open ocean due to line‑of‑sight limits and the lack of infrastructure:
 
 * **Radar coverage** from land‑based installations typically extends to a limited radius; beyond that, especially over water, there can be gaps or reduced signal strength. Systems are optimised for controlled airspace nearer runways and air corridors, not for indefinite detection over remote stretches of sea. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popsci.com/airplane-tracking-mh370-adsb/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popsci.com">[Popular Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popsci.com</span><span class="citation-popover-title">Starting about 15 years ago, air traffic control started using ADS-B</span><span class="citation-popover-snippet">Popular ScienceSoon we&#x27;ll actually know where planes are as they fly over...March 20, 2017 — 20 Mar 2017 — Radar doesn&#x27;t work over long...</span><span class="citation-popover-meta">Published: March 20, 2017</span></span></span>
-* **ADS‑B data**, which relies on aircraft broadcasting their GPS positions, can also be sparse or difficult to access over ocean regions unless satellite ADS‑C (contract) services are incorporated. Even with satellite augmentation, oceanic traffic data have historically been less complete than over continental airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.06254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivOpenSky Report 2025: Improving Crowdsourced Flight Trajectories with ADS-C DataMay 1, 2025...</span><span class="citation-popover-meta">Published: May 1, 2025</span></span></span>
-* Public flight tracking services that claim to show all aircraft over water are not equivalent to official controlled‑airspace surveillance; they can have intermittent coverage and delays, meaning that absence of a track on a civilian app does not categorically prove there was no aviation activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ADSB/comments/18rk3f3/very_little_activity_over_water/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">very little activity over water</span><span class="citation-popover-snippet">RedditVery little activity over water: r/ADSBDecember 26, 2023 — There is full ADS-B coverage over all oceans globally. A private compan...</span><span class="citation-popover-meta">Published: December 26, 2023</span></span></span>
+* **ADS‑B data**, which relies on aircraft broadcasting their GPS positions, can also be sparse or difficult to access over ocean regions unless satellite ADS‑C (contract) services are incorporated. Even with satellite augmentation, oceanic traffic data have historically been less complete than over continental airspace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.06254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">OpenSky Report 2025: Improving Crowdsourced Flight Trajectories with ADS-C DataMay 1, 2025...</span><span class="citation-popover-meta">Published: May 1, 2025</span></span></span>
+* Public flight tracking services that claim to show all aircraft over water are not equivalent to official controlled‑airspace surveillance; they can have intermittent coverage and delays, meaning that absence of a track on a civilian app does not categorically prove there was no aviation activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ADSB/comments/18rk3f3/very_little_activity_over_water/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">very little activity over water</span><span class="citation-popover-snippet">Very little activity over water: r/ADSBDecember 26, 2023 — There is full ADS-B coverage over all oceans globally. A private compan...</span><span class="citation-popover-meta">Published: December 26, 2023</span></span></span>
 
 For civilian witnesses relying on hand‑held apps or public ADS‑B feeds, these technical limitations mean that **a lack of detectable aircraft does not necessarily rule out conventional explanations** such as distant airliners, military flights not broadcasting ADS‑B, or other traffic beyond the ground infrastructure’s reliable reach.
 
+<img src="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01_ocean_city_lights_fb1da6-Illustration-3-dark.svg" | relative_url }}" alt="Ocean City lights illustration 3" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01_ocean_city_lights_fb1da6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01_ocean_city_lights_fb1da6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-<img src="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01_ocean_city_lights_fb1da6-Illustration-3-light.svg" | relative_url }}" alt="Ocean City lights illustration 3" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01_ocean_city_lights_fb1da6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01_ocean_city_lights_fb1da6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-<img src="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01_ocean_city_lights_fb1da6-Illustration-2-light.svg" | relative_url }}" alt="Ocean City lights illustration 2" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01_ocean_city_lights_fb1da6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01_ocean_city_lights_fb1da6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01_ocean_city_lights_fb1da6-Illustration-2-dark.svg" | relative_url }}" alt="Ocean City lights illustration 2" data-theme-src-dark="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01_ocean_city_lights_fb1da6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maryland_1ac107_maryland_civilian_re_80cc01_ocean_city_lights_fb1da6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Likely Explanations and What Remains Uncertain
 
 When evaluating reports of unusual lights offshore, there are several commonplace phenomena that can mimic unexplained aerial patterns — especially when viewed against the complex backdrop of the ocean horizon:
@@ -294,12 +291,9 @@ Despite these plausible categories, some features of the Ocean City amber light 
 
 Civilians reporting such events often provide valuable witness testimony, but without corroboration by multiple independent sensors — optical, radar, or instrumental — these coastal sightings illustrate a key difficulty in UFO/UAP studies: **the verification gap**. Sightings are recorded and intriguing, yet they often remain unresolved because the systems needed to confirm or rule out conventional explanations are not aligned to capture every event occurring over remote or expansive environments like open water. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">UF Os and Radar: Targets, Clutter, Safety, and False Certainty</span><span class="citation-popover-snippet">UFOs and Radar: Targets, Clutter, Safety, and False CertaintyMarch 31, 2026 — From Washington 1952 to the Nimitz encounter, this story ex...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mZWrqWgOAeU" title="Former Gov. Larry Hogan reports seeing drones outside his Maryland home" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mZWrqWgOAeU" target="_blank" rel="noopener noreferrer">Former Gov. Larry Hogan reports seeing drones outside his Maryland home</a></p><p class="youtube-embed-meta">Channel: WUSA9 &middot; Views: 63.9K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mZWrqWgOAeU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mZWrqWgOAeU">Open on YouTube</a></p></div></div></div>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3bepozDGheY" title="See all the UFO videos that the U.S. government just released" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3bepozDGheY" target="_blank" rel="noopener noreferrer">See all the UFO videos that the U.S. government just released</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 193.0K &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3bepozDGheY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3bepozDGheY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -722,99 +716,99 @@ Civilians reporting such events often provide valuable witness testimony, but wi
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=192170](https://nuforc.org/sighting/?id=192170)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 192170September 16, 2025...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=192170" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=192170</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 192170September 16, 2025...</p></details>
    Published: September 16, 2025  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=192191](https://nuforc.org/sighting/?id=192191)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 192191...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=192191" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=192191</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 192191...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=161098](https://nuforc.org/sighting/?id=161098)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 161098December 23, 2020...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=161098" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=161098</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 161098December 23, 2020...</p></details>
    Published: December 23, 2020  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=185634](https://nuforc.org/sighting/?id=185634)  
+   Link: <a href="https://nuforc.org/sighting/?id=185634" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=185634</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 185634December 19, 2024 — NUFORC UFO SIGHTING 185634 Occurred: 2024-12-19 17:10 Local Reported: 2024-12-19 15:43 Paci...</p></details>
    Published: December 19, 2024  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2505.06254](https://arxiv.org/abs/2505.06254)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivOpenSky Report 2025: Improving Crowdsourced Flight Trajectories with ADS-C DataMay 1, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2505.06254" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.06254</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenSky Report 2025: Improving Crowdsourced Flight Trajectories with ADS-C DataMay 1, 2025...</p></details>
    Published: May 1, 2025  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: very little activity over water  
-   Link: [https://www.reddit.com/r/ADSB/comments/18rk3f3/very_little_activity_over_water/](https://www.reddit.com/r/ADSB/comments/18rk3f3/very_little_activity_over_water/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditVery little activity over water: r/ADSBDecember 26, 2023 — There is full ADS-B coverage over all oceans globally. A private compan...</p></details>
+   Link: <a href="https://www.reddit.com/r/ADSB/comments/18rk3f3/very_little_activity_over_water/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/18rk3f3/very_little_activity_over_water/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Very little activity over water: r/ADSBDecember 26, 2023 — There is full ADS-B coverage over all oceans globally. A private compan...</p></details>
    Published: December 26, 2023  
 
 7. <a id="endnote-7"></a>
    Source: svs.gsfc.nasa.gov  
-   Link: [https://svs.gsfc.nasa.gov/11409](https://svs.gsfc.nasa.gov/11409)  
+   Link: <a href="https://svs.gsfc.nasa.gov/11409" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/11409</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Scientific Visualization StudioMystery LightsNovember 26, 2013 — 26 Nov 2013 — The lamps that night fishermen use to attract catch s...</p></details>
    Published: November 26, 2013  
 
 8. <a id="endnote-8"></a>
    Source: medium.com  
    Title: UF Os and Radar: Targets, Clutter, Safety, and False Certainty  
-   Link: [https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad](https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad)  
+   Link: <a href="https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Radar: Targets, Clutter, Safety, and False CertaintyMarch 31, 2026 — From Washington 1952 to the Nimitz encounter, this story ex...</p></details>
    Published: March 31, 2026  
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=190107](https://nuforc.org/sighting/?id=190107)  
+   Link: <a href="https://nuforc.org/sighting/?id=190107" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=190107</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 190107June 17, 2025 — NUFORC UFO SIGHTING 190107 Occurred: 2022-08-30 09:30 Local - Approximate Reported: 2025-06-05...</p></details>
    Published: August 30, 2022  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=178474](https://nuforc.org/sighting/?id=178474)  
+   Link: <a href="https://nuforc.org/sighting/?id=178474" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=178474</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 178474October 28, 2023 — NUFORC UFO SIGHTING 178474 Occurred: 2023-09-21 21:30 Local Reported: 2023-09-25 20:15 Pacif...</p></details>
    Published: September 21, 2023  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=166912](https://nuforc.org/sighting/?id=166912)  
+   Link: <a href="https://nuforc.org/sighting/?id=166912" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=166912</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 166912March 4, 2022 — NUFORC UFO SIGHTING 166912 Occurred: 2022-02-27 21:00 Local Reported: 2022-02-28 12:06 Pacific...</p></details>
    Published: February 27, 2022  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=42174](https://nuforc.org/sighting/?id=42174)  
+   Link: <a href="https://nuforc.org/sighting/?id=42174" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=42174</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 42174April 16, 2005 — NUFORC UFO SIGHTING 42174 Occurred: 1970-06-10 21:00 Local - Approximate Reported: 2005-02-24 1...</p></details>
    Published: February 24, 2005  
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/z18rc4/strange_lights_over_the_north_atlantic/](https://www.reddit.com/r/space/comments/z18rc4/strange_lights_over_the_north_atlantic/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/z18rc4/strange_lights_over_the_north_atlantic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/z18rc4/strange_lights_over_the_north_atlantic/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange lights over the north Atlantic: r/spaceThere&#x27;s been some strange lights over the Atlantic the last few weeks. Always when flying...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: avi-loeb.medium.com  
    Title: city lights in our sky and plastic in our oceans be7f05be926d  
-   Link: [https://avi-loeb.medium.com/city-lights-in-our-sky-and-plastic-in-our-oceans-be7f05be926d](https://avi-loeb.medium.com/city-lights-in-our-sky-and-plastic-in-our-oceans-be7f05be926d)  
+   Link: <a href="https://avi-loeb.medium.com/city-lights-in-our-sky-and-plastic-in-our-oceans-be7f05be926d" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/city-lights-in-our-sky-and-plastic-in-our-oceans-be7f05be926d</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For example, the forthcoming Legacy...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: popsci.com  
    Title: Starting about 15 years ago, air traffic control started using ADS-B  
-   Link: [https://www.popsci.com/airplane-tracking-mh370-adsb/](https://www.popsci.com/airplane-tracking-mh370-adsb/)  
+   Link: <a href="https://www.popsci.com/airplane-tracking-mh370-adsb/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/airplane-tracking-mh370-adsb/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular ScienceSoon we&#x27;ll actually know where planes are as they fly over...March 20, 2017 — 20 Mar 2017 — Radar doesn&#x27;t work over long...</p></details>
    Published: March 20, 2017  
 
 16. <a id="endnote-16"></a>
    Source: skyatnightmagazine.com  
    Title: Sky at Night Magazine17 things commonly mistaken for UFOs  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026 — 11 May 2026 — Reports often feature lights zipping across the sky, changing direction in manoeuvres that seem to defy the...</p></details>
    Published: May 11, 2026  
 
@@ -822,58 +816,58 @@ Civilians reporting such events often provide valuable witness testimony, but wi
 
 17. <a id="endnote-17"></a>
    Source: noc.ac.uk  
-   Link: [https://www.noc.ac.uk/our-work/marine-technology/observing-networks-and-systems/satellite-and-airborne-remote-sensing](https://www.noc.ac.uk/our-work/marine-technology/observing-networks-and-systems/satellite-and-airborne-remote-sensing)  
+   Link: <a href="https://www.noc.ac.uk/our-work/marine-technology/observing-networks-and-systems/satellite-and-airborne-remote-sensing" target="_blank" rel="noopener noreferrer nofollow">https://www.noc.ac.uk/our-work/marine-technology/observing-networks-and-systems/satellite-and-airborne-remote-sensing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite and Airborne Remote SensingSatellite and airborne remote sensing gives us vital ocean observations. They measure properties lik...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: vansairforce.net  
-   Link: [https://vansairforce.net/threads/the-ads-b-system-is-flawed.116633/](https://vansairforce.net/threads/the-ads-b-system-is-flawed.116633/)  
+   Link: <a href="https://vansairforce.net/threads/the-ads-b-system-is-flawed.116633/" target="_blank" rel="noopener noreferrer nofollow">https://vansairforce.net/threads/the-ads-b-system-is-flawed.116633/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The ADS-B System is flawedTo a pilot, it all looks like intermittent ADS-B outages. For those who see the icon lit continuously, like Bra...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: medianews48.com  
-   Link: [https://medianews48.com/marylands-ufo-mystery-nearly-2000-bizarre-sky-sightings-reported-since-1995-fuel-questions-about-states-ufo-hotspot-status-sangthu/](https://medianews48.com/marylands-ufo-mystery-nearly-2000-bizarre-sky-sightings-reported-since-1995-fuel-questions-about-states-ufo-hotspot-status-sangthu/)  
+   Link: <a href="https://medianews48.com/marylands-ufo-mystery-nearly-2000-bizarre-sky-sightings-reported-since-1995-fuel-questions-about-states-ufo-hotspot-status-sangthu/" target="_blank" rel="noopener noreferrer nofollow">https://medianews48.com/marylands-ufo-mystery-nearly-2000-bizarre-sky-sightings-reported-since-1995-fuel-questions-about-states-ufo-hotspot-status-sangthu/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Maryland’s UFO Mystery: Nearly 2,000 Bizarre Sky Sightings Reported Since 1995 Fuel Questions About State’s UFO Hotspot Status – Media Ne...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=4Av-1ETlJzw](https://www.youtube.com/watch?v=4Av-1ETlJzw)  
+   Link: <a href="https://www.youtube.com/watch?v=4Av-1ETlJzw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4Av-1ETlJzw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oregon pilot puzzled by mysterious, bright lights in skyAt least four commercial pilots encountered mysterious lights darting through the...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: sciencetimes.com  
    Title: marylands unexplained skies ufo hotspot 2 000 sightings 1990s  
-   Link: [https://www.sciencetimes.com/articles/46387/20231006/marylands-unexplained-skies-ufo-hotspot-2-000-sightings-1990s.htm](https://www.sciencetimes.com/articles/46387/20231006/marylands-unexplained-skies-ufo-hotspot-2-000-sightings-1990s.htm)  
+   Link: <a href="https://www.sciencetimes.com/articles/46387/20231006/marylands-unexplained-skies-ufo-hotspot-2-000-sightings-1990s.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencetimes.com/articles/46387/20231006/marylands-unexplained-skies-ufo-hotspot-2-000-sightings-1990s.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Maryland&#x27;s Unexplained Skies: UFO Hotspot With 2,000 Sightings Since the 1990sOctober 6, 2023 — MARYLAND’S UNEXPLAINED SKIES: UFO HOTSPOT...</p></details>
    Published: October 6, 2023  
 
 22. <a id="endnote-22"></a>
    Source: universemagazine.com  
    Title: known flying objects sky phenomena we often mistake for ufos  
-   Link: [https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOopEOcKDGFN__1BUDCd-aWlp19IGNUqIPpgolO4wth41AJ9NFUQz](https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOopEOcKDGFN__1BUDCd-aWlp19IGNUqIPpgolO4wth41AJ9NFUQz)  
+   Link: <a href="https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOopEOcKDGFN__1BUDCd-aWlp19IGNUqIPpgolO4wth41AJ9NFUQz" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOopEOcKDGFN__1BUDCd-aWlp19IGNUqIPpgolO4wth41AJ9NFUQz</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Known Flying Objects: Sky Phenomena We Often Mistake...12 Oct 2024 — In this article, we delve into the subject of UFOs, particularly th...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: forbes.com  
-   Link: [https://www.forbes.com/sites/jamiecartereurope/2024/12/16/new-jersey-drones-what-the-bright-lights-in-the-sky-might-really-be/](https://www.forbes.com/sites/jamiecartereurope/2024/12/16/new-jersey-drones-what-the-bright-lights-in-the-sky-might-really-be/)  
+   Link: <a href="https://www.forbes.com/sites/jamiecartereurope/2024/12/16/new-jersey-drones-what-the-bright-lights-in-the-sky-might-really-be/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jamiecartereurope/2024/12/16/new-jersey-drones-what-the-bright-lights-in-the-sky-might-really-be/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Jersey Drones: What The Bright Lights In The Sky...16 Dec 2024 — Mysterious flying objects overhead are often satellites, not drones...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: ufoindex.com  
    Title: Browse the reports below. 28 documented sightings in Mary  
-   Link: [https://www.ufoindex.com/maryland](https://www.ufoindex.com/maryland)  
+   Link: <a href="https://www.ufoindex.com/maryland" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoindex.com/maryland</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Maryland UFO ReportsMARYLAND UFO REPORTS Witnesses have reported strange lights, unidentified flying objects, and unexplained aerial phen...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: sojo1049.com  
    Title: UF Os Reported in Ocean City, Vineland, and Manahawkin  
-   Link: [https://sojo1049.com/ufos-reported-in-ocean-city-vineland-and-manahawkin-nj/](https://sojo1049.com/ufos-reported-in-ocean-city-vineland-and-manahawkin-nj/)  
+   Link: <a href="https://sojo1049.com/ufos-reported-in-ocean-city-vineland-and-manahawkin-nj/" target="_blank" rel="noopener noreferrer nofollow">https://sojo1049.com/ufos-reported-in-ocean-city-vineland-and-manahawkin-nj/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Reported in Ocean City, Vineland, and ManahawkinAugust 18, 2021 — Image: UFOs Reported in Ocean City, Vineland, and Manahawkin NJ UF...</p></details>
    Published: August 18, 2021  
 
 26. <a id="endnote-26"></a>
    Source: washingtonpost.com  
    Title: 3 -- The mysterious silvery balls came first--pre  
-   Link: [https://www.washingtonpost.com/archive/local/2000/08/04/in-sky-over-ocean-city-multiple-mysteries/dc8dd90a-8f94-444d-bb49-90e92c7f77dd/](https://www.washingtonpost.com/archive/local/2000/08/04/in-sky-over-ocean-city-multiple-mysteries/dc8dd90a-8f94-444d-bb49-90e92c7f77dd/)  
+   Link: <a href="https://www.washingtonpost.com/archive/local/2000/08/04/in-sky-over-ocean-city-multiple-mysteries/dc8dd90a-8f94-444d-bb49-90e92c7f77dd/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/archive/local/2000/08/04/in-sky-over-ocean-city-multiple-mysteries/dc8dd90a-8f94-444d-bb49-90e92c7f77dd/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In Sky Over Ocean City, Multiple Mysteries - The Washington PostAugust 3, 2000 — IN SKY OVER OCEAN CITY, MULTIPLE MYSTERIES August 3, 200...</p></details>
-   Published: August 3, 2000  
+   Published: August 3, 2000

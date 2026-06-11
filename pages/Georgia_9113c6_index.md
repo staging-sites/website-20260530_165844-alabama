@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /georgia-9113c6-index/
 description: Focused pages that expand on What Really Happened in Georgia's Most....
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Georgia_9113c6
 parent_title: What Really Happened in Georgia's Most...

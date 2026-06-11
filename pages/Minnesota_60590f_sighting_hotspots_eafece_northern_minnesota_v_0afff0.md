@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /hotspots-f7f5aa/
 nav_short_title: Northern Skies
 title: Why northern Minnesota reports are hard to verify
-title_full: Why northern Minnesota reports are hard to verify | Hotspots
+title_full: Why northern Minnesota reports are hard to verify
 display_title_short: Northern Skies
 display_title: Northern Skies
 heading_title: Why northern Minnesota reports are hard to verify
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:41:29'
-parent_title: Where Minnesota UFO Reports Cluster | Minnesota UAP
+parent_title: Where Minnesota UFO Reports Cluster
 parent_permalink: /hotspots-f7f5aa/
 parent_nav_short_title: Hotspots
 parent_heading_title: Where Minnesota UFO Reports Cluster
@@ -252,40 +252,35 @@ image: /assets/images/Minnesota_60590f_sighting_hotspots_eafece_northern_minneso
 
 Northern Minnesota — from the Duluth area up through the Iron Range and across lake‑country townships — regularly appears in state UFO/UAP reporting logs, not only because its skies are broad and dark, but because fewer people, clear horizons and limited ancillary data often make what’s reported hard to verify. Within the broader “Minnesota [sighting hotspots]({{ 'hotspots-f7f5aa/' | relative_url }}) and reporting trends” context, this pattern contrasts with the [Twin Cities]({{ 'twin-cities/' | relative_url }}) and other population centres: northern reports can be vivid yet thinly substantiated, and they expose the *rural verification problem* — the difficulty of turning a local sighting into an analysis grounded in independent checks, multiple sensors or corroborating data.
 
-
-<img src="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_northern_minnesota_v_0afff0-Illustration-1-light.svg" | relative_url }}" alt="Northern Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_northern_minnesota_v_0afff0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_northern_minnesota_v_0afff0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_northern_minnesota_v_0afff0-Illustration-1-dark.svg" | relative_url }}" alt="Northern Skies illustration 1" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_northern_minnesota_v_0afff0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_northern_minnesota_v_0afff0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Duluth, Iron Range and Lakes: Reporting Patterns
 
-Across northern [Minnesota]({{ 'what-really-happened-in-minnesotas-skies/' | relative_url }}), anecdotal sightings have come from a scatter of communities rather than concentrated urban clusters. Mountain Iron, on the Iron Range about an hour inland from Duluth, featured a 2023 report shared on local media that cited multiple observers seeing unusual lights in the sky; though local reportage suggested “credibility” because more than one citizen witnessed the event, these accounts are only as strong as the original testimonies themselves — there is no independent tracking or official follow‑up recorded in public archives.[B105]
+Across northern Minnesota, anecdotal sightings have come from a scatter of communities rather than concentrated urban clusters. Mountain Iron, on the Iron Range about an hour inland from Duluth, featured a 2023 report shared on local media that cited multiple observers seeing unusual lights in the sky; though local reportage suggested “credibility” because more than one citizen witnessed the event, these accounts are only as strong as the original testimonies themselves — there is no independent tracking or official follow‑up recorded in public archives.[B105]
 
 Similarly, Duluth and the Lake Superior North Shore figure in state sighting lists. Reports pass through databases like the National UFO Reporting Center (NUFORC), which logs sightings from across Minnesota, including Duluth, the Iron Range and Silver Bay among other towns. For example, 2025 NUFORC data show multiple northern‑region reports alongside those from the Twin Cities and other areas.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mix108.com/minnesota-ufo-sightings-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mix108.com">[MIX 108]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mix108.com</span><span class="citation-popover-title">minnesota ufo sightings 2025</span><span class="citation-popover-snippet">MIX 108Minnesota Had 59 UFO Sightings Reported In 2025 - Here&#x27;s WhereJanuary 27, 2026...</span><span class="citation-popover-meta">Published: January 27, 2026</span></span></span>
 
 Yet what appears striking at first glance often turns out to be common phenomena with mundane [explanations]({{ 'explanations-2d29c0/' | relative_url }}) on closer inspection. A January 2025 Duluth sighting posted to NUFORC described lights moving across the sky for an hour and a half, but the reporting centre pointed out that the planet Venus was particularly bright at the time and can *appear* to move relative to a driven vehicle — a very common misidentification in rural observations with few controls on viewing conditions.[B105]
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0sM8WSkv7aM" title="Explained or Unexplained? Inside Minnesota&#x27;s recent UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0sM8WSkv7aM" target="_blank" rel="noopener noreferrer">Explained or Unexplained? Inside Minnesota&#x27;s recent UFO sightings</a></p><p class="youtube-embed-meta">Channel: KARE 11 &middot; Views: 22.7K &middot; Uploaded: August 2021 &middot; Length: 4 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0sM8WSkv7aM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0sM8WSkv7aM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SQo2BP4FvhY" title="Minnesota Historia - Episode 6: The Ope Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SQo2BP4FvhY" target="_blank" rel="noopener noreferrer">Minnesota Historia - Episode 6: The Ope Files</a></p><p class="youtube-embed-meta">Channel: PBS North &middot; Views: 3.9K &middot; Uploaded: June 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SQo2BP4FvhY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SQo2BP4FvhY">Open on YouTube</a></p></div></div></div>
 
 ## Dark Skies and the Verification Gap
 
-Rural and northern parts of Minnesota are precisely where low levels of light pollution and broad horizon views make [sky phenomena]({{ 'sky-phenomena/' | relative_url }}) easier to see — *and easier to misinterpret*. A 2023 review of public UAP reporting concluded that environmental and observational conditions such as darkness and unobstructed sky views strongly shape whether and how witnesses perceive something as unusual. In other words, heavy sky visibility correlates with high opportunity for both identification *and* misidentification, but it does not by itself validate anomalous craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn environmental analysis of public UAP sightings and sky view potential | Scientific ReportsDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
+Rural and northern parts of Minnesota are precisely where low levels of light pollution and broad horizon views make [sky phenomena]({{ 'sky-phenomena/' | relative_url }}) easier to see — *and easier to misinterpret*. A 2023 review of public UAP reporting concluded that environmental and observational conditions such as darkness and unobstructed sky views strongly shape whether and how witnesses perceive something as unusual. In other words, heavy sky visibility correlates with high opportunity for both identification *and* misidentification, but it does not by itself validate anomalous craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An environmental analysis of public UAP sightings and sky view potential &#124; Scientific ReportsDecember 14, 2023...</span><span class="citation-popover-meta">Published: December 14, 2023</span></span></span>
 
 Iron Range, lake‑country, and Duluth reports sit in a data vacuum: unlike metropolitan areas where multiple cameras, air‑traffic radars and busy flight paths can provide auxiliary data to check against witness claims, northern reports often lack corroborative datasets. Most come from individual observers with limited observational metadata — no radar tracks, no high‑resolution imaging, no instrument logs. Sightings that might in an urban or military context be cross‑checked remain “standalone” entries in a database, because there simply aren’t nearby independent sensors or formal investigations triggered by these reports.
 
 That said, organisations such as the Northland chapter of the Mutual UFO Network (MUFON) exist to encourage systematic reporting and investigation across northern Minnesota and neighbouring states. MUFON volunteers conduct interviews and collect details that go beyond an unstructured online report, but their reach is voluntary and uneven across rural territory.<span class="citation-chip-wrap"><a class="citation-chip" href="https://northlandmufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: northlandmufon.com">[Northland MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">northlandmufon.com</span><span class="citation-popover-title">Northland MUFONUFO and Paranormal Research</span><span class="citation-popover-snippet">Northland MUFONOctober 27, 2017...</span><span class="citation-popover-meta">Published: October 27, 2017</span></span></span>
 
-
-<img src="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_northern_minnesota_v_0afff0-Illustration-2-light.svg" | relative_url }}" alt="Northern Skies illustration 2" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_northern_minnesota_v_0afff0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_northern_minnesota_v_0afff0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_northern_minnesota_v_0afff0-Illustration-2-dark.svg" | relative_url }}" alt="Northern Skies illustration 2" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_northern_minnesota_v_0afff0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_northern_minnesota_v_0afff0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Rural Reports Can Be Vivid but Thinly Documented
 
 Two factors merge in the rural verification problem. First, the *witness environment* tends to favour striking sensory impressions — long dark nights, wide horizons, and the absence of competing bright lights can make planets, meteors, satellites or conventional aircraft seem unfamiliar or even uncanny. In one local Duluth case, strong atmospheric effects and vehicle motion were enough to prompt reports of “fast‑moving” objects that subsequent commentary traced to common celestial bodies.[B105]
 
 Second, the *data environment* is lean. Observations from Iron Range townships and lakeside cabins typically aren’t backed by simultaneous radar data, reliable timestamps, multi‑angle video, or sensor arrays that could confirm size, altitude, speed or trajectory. This is not a matter of secrecy — it is a practical gap: census data and telecommunications infrastructure are sparse in these areas compared with the metropolitan south, meaning fewer cameras, fewer witnesses per unit area, and more temporal gaps in recording details. Even when reports are vivid and sustained, without technical cross‑checks they remain unresolved testimonies in a public database rather than analyzable cases.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A8pQKq4vzeo" title="The Val Johnson UFO Incident #UFO #uap #ValJohnson #alien" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A8pQKq4vzeo" target="_blank" rel="noopener noreferrer">The Val Johnson UFO Incident #UFO #uap #ValJohnson #alien</a></p><p class="youtube-embed-meta">Channel: My Dark Path &middot; Views: 243 &middot; Uploaded: December 2023 &middot; Length: 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A8pQKq4vzeo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A8pQKq4vzeo">Open on YouTube</a></p></div></div></div>
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kH5wsaqGq-Y" title="Feds investigate after Minnesota police officer says they saw a UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kH5wsaqGq-Y" target="_blank" rel="noopener noreferrer">Feds investigate after Minnesota police officer says they saw a UFO</a></p><p class="youtube-embed-meta">Channel: WCCO - CBS Minnesota &middot; Views: 162.0K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kH5wsaqGq-Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kH5wsaqGq-Y">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SQo2BP4FvhY" title="Minnesota Historia - Episode 6: The Ope Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SQo2BP4FvhY" target="_blank" rel="noopener noreferrer">Minnesota Historia - Episode 6: The Ope Files</a></p><p class="youtube-embed-meta">Channel: PBS North &middot; Views: 3.9K &middot; Uploaded: June 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SQo2BP4FvhY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SQo2BP4FvhY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0sM8WSkv7aM" title="Explained or Unexplained? Inside Minnesota&#x27;s recent UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0sM8WSkv7aM" target="_blank" rel="noopener noreferrer">Explained or Unexplained? Inside Minnesota&#x27;s recent UFO sightings</a></p><p class="youtube-embed-meta">Channel: KARE 11 &middot; Views: 22.7K &middot; Uploaded: August 2021 &middot; Length: 4 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0sM8WSkv7aM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0sM8WSkv7aM">Open on YouTube</a></p></div></div></div>
 
 ## What This Means for State UFO History
 
@@ -293,8 +288,7 @@ Within Minnesota’s UFO history, northern sightings contribute breadth but also
 
 This pattern underlines why the state’s reported hotspot map often places the highest *counts* in metro areas organised around population and aviation infrastructure, even as the *highest per‑capita visibility* appears in rural regions where sky conditions and human presence combine to produce memorable but poorly corroborated reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mix108.com/minnesota-ufo-sightings-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mix108.com">[MIX 108]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mix108.com</span><span class="citation-popover-title">minnesota ufo sightings 2025</span><span class="citation-popover-snippet">MIX 108Minnesota Had 59 UFO Sightings Reported In 2025 - Here&#x27;s WhereJanuary 27, 2026...</span><span class="citation-popover-meta">Published: January 27, 2026</span></span></span>
 
-
-<img src="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_northern_minnesota_v_0afff0-Illustration-3-light.svg" | relative_url }}" alt="Northern Skies illustration 3" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_northern_minnesota_v_0afff0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_northern_minnesota_v_0afff0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_northern_minnesota_v_0afff0-Illustration-3-dark.svg" | relative_url }}" alt="Northern Skies illustration 3" data-theme-src-dark="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_northern_minnesota_v_0afff0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Minnesota_60590f_sighting_hotspots_eafece_northern_minnesota_v_0afff0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -382,7 +376,7 @@ This pattern underlines why the state’s reported hotspot map often places the 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -392,111 +386,36 @@ This pattern underlines why the state’s reported hotspot map often places the 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-northern-minnesota-reports-are-hard-to-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-northern-minnesota-reports-are-hard-to-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-northern-minnesota-reports-are-hard-to-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-northern-minnesota-reports-are-hard-to-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-northern-minnesota-reports-are-hard-to-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-northern-minnesota-reports-are-hard-to-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-northern-minnesota-reports-are-hard-to-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-northern-minnesota-reports-are-hard-to-verify-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -504,15 +423,15 @@ This pattern underlines why the state’s reported hotspot map often places the 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-northern-minnesota-reports-are-hard-to-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-northern-minnesota-reports-are-hard-to-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-northern-minnesota-reports-are-hard-to-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-northern-minnesota-reports-are-hard-to-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-northern-minnesota-reports-are-hard-to-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-northern-minnesota-reports-are-hard-to-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-northern-minnesota-reports-are-hard-to-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-northern-minnesota-reports-are-hard-to-verify-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -520,15 +439,15 @@ This pattern underlines why the state’s reported hotspot map often places the 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-northern-minnesota-reports-are-hard-to-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-northern-minnesota-reports-are-hard-to-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-northern-minnesota-reports-are-hard-to-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-northern-minnesota-reports-are-hard-to-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-northern-minnesota-reports-are-hard-to-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-northern-minnesota-reports-are-hard-to-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-northern-minnesota-reports-are-hard-to-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-northern-minnesota-reports-are-hard-to-verify-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -536,15 +455,15 @@ This pattern underlines why the state’s reported hotspot map often places the 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-northern-minnesota-reports-are-hard-to-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-northern-minnesota-reports-are-hard-to-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-northern-minnesota-reports-are-hard-to-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-northern-minnesota-reports-are-hard-to-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-northern-minnesota-reports-are-hard-to-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-northern-minnesota-reports-are-hard-to-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-northern-minnesota-reports-are-hard-to-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-northern-minnesota-reports-are-hard-to-verify-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -552,7 +471,7 @@ This pattern underlines why the state’s reported hotspot map often places the 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=northern-skies-why-northern-minnesota-reports-are-hard-to-verify-minnesota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-northern-minnesota-reports-are-hard-to-verify-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-northern-minnesota-reports-are-hard-to-verify-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -629,17 +548,31 @@ This pattern underlines why the state’s reported hotspot map often places the 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -652,42 +585,73 @@ This pattern underlines why the state’s reported hotspot map often places the 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -702,12 +666,17 @@ This pattern underlines why the state’s reported hotspot map often places the 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -718,109 +687,109 @@ This pattern underlines why the state’s reported hotspot map often places the 
 1. <a id="endnote-1"></a>
    Source: mix108.com  
    Title: minnesota ufo sightings 2025  
-   Link: [https://mix108.com/minnesota-ufo-sightings-2025/](https://mix108.com/minnesota-ufo-sightings-2025/)  
+   Link: <a href="https://mix108.com/minnesota-ufo-sightings-2025/" target="_blank" rel="noopener noreferrer nofollow">https://mix108.com/minnesota-ufo-sightings-2025/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIX 108Minnesota Had 59 UFO Sightings Reported In 2025 - Here&#x27;s WhereJanuary 27, 2026...</p></details>
    Published: January 27, 2026  
 
 2. <a id="endnote-2"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-023-49527-x](https://www.nature.com/articles/s41598-023-49527-x)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureAn environmental analysis of public UAP sightings and sky view potential | Scientific ReportsDecember 14, 2023...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-023-49527-x" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-49527-x</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky view potential | Scientific ReportsDecember 14, 2023...</p></details>
    Published: December 14, 2023  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
    Title: For 25 years, it ha  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — THE NATIONAL UFO REPORTING CENTER ONLINE DATABASE Image The NUFORC Databank...</p></details>
    Published: September 6, 2021  
 
 4. <a id="endnote-4"></a>
    Source: mix108.com  
    Title: Was There A UFO Sighting In Duluth Or Just A Hoax?  
-   Link: [https://mix108.com/was-there-a-ufo-sighting-in-duluth-or-just-a-hoax-video/](https://mix108.com/was-there-a-ufo-sighting-in-duluth-or-just-a-hoax-video/)  
+   Link: <a href="https://mix108.com/was-there-a-ufo-sighting-in-duluth-or-just-a-hoax-video/" target="_blank" rel="noopener noreferrer nofollow">https://mix108.com/was-there-a-ufo-sighting-in-duluth-or-just-a-hoax-video/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[VIDEO]May 1, 2017 — Image: Was There A UFO Sighting In Duluth Or Just A Hoax? [VIDEO] WAS THERE A UFO SIGHTING IN DULUTH OR JUST A HOAX?...</p></details>
    Published: May 1, 2017  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 6. <a id="endnote-6"></a>
    Source: northlandmufon.com  
    Title: Northland MUFONUFO and Paranormal Research  
-   Link: [https://northlandmufon.com/](https://northlandmufon.com/)  
+   Link: <a href="https://northlandmufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://northlandmufon.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Northland MUFONOctober 27, 2017...</p></details>
    Published: October 27, 2017  
 
 7. <a id="endnote-7"></a>
    Source: northlandmufon.com  
-   Link: [https://northlandmufon.com/about/](https://northlandmufon.com/about/)  
+   Link: <a href="https://northlandmufon.com/about/" target="_blank" rel="noopener noreferrer nofollow">https://northlandmufon.com/about/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>READ ABOUT EACH! NORTHLAND MUFON NORTHLAND MUFON SERVICES ALL OF NORTH DAKOTA AND THE NORTHERN HALF OF MI...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: fox9.com  
-   Link: [https://www.fox9.com/news/fbi-files-ufo-sighting-anoka-police-department.amp](https://www.fox9.com/news/fbi-files-ufo-sighting-anoka-police-department.amp)  
+   Link: <a href="https://www.fox9.com/news/fbi-files-ufo-sighting-anoka-police-department.amp" target="_blank" rel="noopener noreferrer nofollow">https://www.fox9.com/news/fbi-files-ufo-sighting-anoka-police-department.amp</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul3 days ago — FBI DOCUMENTS DETAIL REPORTED UFO SIGHTING INVOLVING ANOKA POLICE OFFICERS By Katie Wermus Published May 26, 2026 2:26 P...</p></details>
    Published: May 26, 2026  
 
 9. <a id="endnote-9"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/amp/politics/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades](https://www.pbs.org/newshour/amp/politics/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades)  
+   Link: <a href="https://www.pbs.org/newshour/amp/politics/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/amp/politics/pentagon-study-finds-no-sign-of-alien-life-in-reported-ufo-sightings-going-back-decades</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 2011. Photo by Staff/AFP via Getty Images PENTAGON STUDY FINDS NO SIGN OF ALIEN LIFE IN REPORTED UFO SIGHTINGS GOING BACK DECADES By —...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cbsnews.com  
    Title: Declassified FBI documents detail UFO sighting by Minnesota police officers  
-   Link: [https://www.cbsnews.com/minnesota/news/minnesota-ufo-sighting-anoka-police-fbi/](https://www.cbsnews.com/minnesota/news/minnesota-ufo-sighting-anoka-police-fbi/)  
+   Link: <a href="https://www.cbsnews.com/minnesota/news/minnesota-ufo-sighting-anoka-police-fbi/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/minnesota/news/minnesota-ufo-sighting-anoka-police-fbi/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS Minnesota2 days ago — DECLASSIFIED FBI DOCUMENTS DETAIL UFO SIGHTING BY MINNESOTA POLICE OFFICERS By Conor Wight Conor Wight Reporter...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: boreal.org  
    Title: Mysterious UFOs: A look at sightings in Minnesota | Boreal Community Media  
-   Link: [https://www.boreal.org/2022/09/16/411828/mysterious-ufos-a-look-at-sightings-in-minnesota](https://www.boreal.org/2022/09/16/411828/mysterious-ufos-a-look-at-sightings-in-minnesota)  
+   Link: <a href="https://www.boreal.org/2022/09/16/411828/mysterious-ufos-a-look-at-sightings-in-minnesota" target="_blank" rel="noopener noreferrer nofollow">https://www.boreal.org/2022/09/16/411828/mysterious-ufos-a-look-at-sightings-in-minnesota</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>September 16, 2022 — MYSTERIOUS UFOS: A LOOK AT SIGHTINGS IN MINNESOTA Sep 16, 2022 10:36AM ● By Content Editor Image Photo: A photo from...</p></details>
    Published: September 16, 2022  
 
 12. <a id="endnote-12"></a>
    Source: northlandfan.com  
    Title: National UFO Reporting Center Debunks Recent Duluth, MN Sighting  
-   Link: [https://northlandfan.com/ixp/150/p/ufo-sighting-duluth-debunk/](https://northlandfan.com/ixp/150/p/ufo-sighting-duluth-debunk/)  
+   Link: <a href="https://northlandfan.com/ixp/150/p/ufo-sighting-duluth-debunk/" target="_blank" rel="noopener noreferrer nofollow">https://northlandfan.com/ixp/150/p/ufo-sighting-duluth-debunk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 7, 2025 — NATIONAL UFO REPORTING CENTER DEBUNKS RECENT DULUTH SIGHTING Lauren WellsPublished: March 7, 2025 pixbox77 Here&#x27;s some we...</p></details>
    Published: March 7, 2025  
 
 13. <a id="endnote-13"></a>
    Source: axios.com  
    Title: Here's where UFO sightings were reported in Minnesota  
-   Link: [https://www.axios.com/local/twin-cities/2024/02/21/ufo-sightings-minnesota-map-airport-aliens](https://www.axios.com/local/twin-cities/2024/02/21/ufo-sightings-minnesota-map-airport-aliens)  
+   Link: <a href="https://www.axios.com/local/twin-cities/2024/02/21/ufo-sightings-minnesota-map-airport-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/twin-cities/2024/02/21/ufo-sightings-minnesota-map-airport-aliens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Axios Twin CitiesFebruary 21, 2024 — Feb 21, 2024 - News HERE&#x27;S WHERE UFO SIGHTINGS WERE REPORTED IN MINNESOTA Image * Torey Van Oot * em...</p></details>
    Published: February 21, 2024  
 
 14. <a id="endnote-14"></a>
    Source: y105music.com  
    Title: UF Os Spotted Launching from Duluth, Minnesota  
-   Link: [https://y105music.com/ufo-duluth-lake-superior/](https://y105music.com/ufo-duluth-lake-superior/)  
+   Link: <a href="https://y105music.com/ufo-duluth-lake-superior/" target="_blank" rel="noopener noreferrer nofollow">https://y105music.com/ufo-duluth-lake-superior/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Spotted Launching from Duluth, MinnesotaAugust 15, 2021 — Image: UFOs Spotted Launching from Duluth, Minnesota and Across Lake Super...</p></details>
    Published: August 15, 2021  
 
 15. <a id="endnote-15"></a>
    Source: countryherald.com  
    Title: Minnesota Reports UFO Sightings at 1 in 2,457  
-   Link: [https://countryherald.com/news/minnesota-reports-ufo-sightings-at-1-in-2457/](https://countryherald.com/news/minnesota-reports-ufo-sightings-at-1-in-2457/)  
+   Link: <a href="https://countryherald.com/news/minnesota-reports-ufo-sightings-at-1-in-2457/" target="_blank" rel="noopener noreferrer nofollow">https://countryherald.com/news/minnesota-reports-ufo-sightings-at-1-in-2457/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Country HeraldMarch 24, 2026 — MINNESOTA REPORTS UFO SIGHTINGS AT 1 IN 2,457 By Country Herald National - March 24, 2026 0 -Advertisement...</p></details>
    Published: March 24, 2026  
 
 16. <a id="endnote-16"></a>
    Source: uapreport.net  
    Title: UAP Report This is a fully app-based platform  
-   Link: [https://uapreport.net/](https://uapreport.net/)  
+   Link: <a href="https://uapreport.net/" target="_blank" rel="noopener noreferrer nofollow">https://uapreport.net/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your email is used only for account verification, password resets, and being added as a verified user — we never send marketing email or...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: cbsnews.com  
    Title: He primarily covers breaking news  
-   Link: [https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/](https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/)  
+   Link: <a href="https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/minnesota/news/a-brief-history-of-ufo-sightings-in-minnesota/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A brief history of UFO sightings in Minnesota - CBS MinnesotaJuly 2, 2024 — A BRIEF HISTORY OF UFO SIGHTINGS IN MINNESOTA By Anthony Bett...</p></details>
-   Published: July 2, 2024  
+   Published: July 2, 2024

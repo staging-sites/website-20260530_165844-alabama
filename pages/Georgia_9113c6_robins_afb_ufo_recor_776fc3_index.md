@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /georgia-9113c6-robins-afb-ufo-recor/
 description: Focused pages that expand on Military Cases.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Georgia_9113c6_robins_afb_ufo_recor_776fc3
-parent_title: Military Cases | What Really Happened in Georgia's Most...
+parent_title: Military Cases
 parent_nav_short_title: Military Cases
 parent_permalink: /military-cases/
 ---

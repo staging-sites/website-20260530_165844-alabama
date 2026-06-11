@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /secret-aircraft/
 nav_short_title: Night exercises
 title: When Nevada training lights look like UFOs
-title_full: When Nevada training lights look like UFOs | Secret Aircraft
+title_full: When Nevada training lights look like UFOs
 display_title_short: Night exercises
 display_title: Night exercises
 heading_title: When Nevada training lights look like UFOs
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:48:05'
-parent_title: When Secret Aircraft Looked Like UFOs | Nevada UFOs
+parent_title: When Secret Aircraft Looked Like UFOs
 parent_permalink: /secret-aircraft/
 parent_nav_short_title: Secret Aircraft
 parent_heading_title: When Secret Aircraft Looked Like UFOs
@@ -252,8 +252,7 @@ image: /assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc_nevada_night_exe
 
 Nevada’s UFO history is often linked to [secret aircraft]({{ 'secret-aircraft/' | relative_url }}), but many dramatic reports come from a simpler mechanism: people seeing real military activity at night without enough context to identify it. The Nevada Test and Training Range, the [Tonopah]({{ 'tonopah/' | relative_url }}) Test Range and the vast restricted airspace around Nellis Air Force Base host some of the most intensive military exercises in the world. Aircraft fly in darkness, use flares, operate in formation, switch lights on and off, and conduct missions over remote terrain where distance is difficult to judge. Under those conditions, ordinary training events can look extraordinary.
 
-
-<img src="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc_nevada_night_exercis_c36c89-Illustration-1-light.svg" | relative_url }}" alt="Night exercises illustration 1" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc_nevada_night_exercis_c36c89-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc_nevada_night_exercis_c36c89-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc_nevada_night_exercis_c36c89-Illustration-1-dark.svg" | relative_url }}" alt="Night exercises illustration 1" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc_nevada_night_exercis_c36c89-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc_nevada_night_exercis_c36c89-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This does not mean witnesses are inventing what they saw. In many cases they are accurately describing unusual lights, strange motion or unexpected formations. The problem is that the human eye struggles with scale, speed and distance at night. [Nevada]({{ 'why-nevada-became-ufo-country/' | relative_url }})’s military ranges create exactly the conditions where those errors become common. Understanding that environment helps explain why some reports were later linked to exercises, while others remained unresolved.
 
 ## Why flares and afterburners confuse distance and motion
@@ -268,7 +267,6 @@ Nevada's dry desert air often makes these effects more dramatic. Lights can rema
 
 Accounts from night-time Red Flag exercises illustrate how unusual these scenes can appear even to experienced aviation observers. Reports from the range describe bombers entering training areas with afterburners blazing and aircraft releasing repeated flares during simulated combat operations. From outside the exercise area, such activity can resemble the classic pattern of glowing lights appearing, hovering and disappearing into darkness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theaviationist.com/2014/08/14/night-red-flag-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theaviationist.com">[The Aviationist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theaviationist.com</span><span class="citation-popover-title">The Aviationist An unusual view of Exercise Red Flag at Night, from</span><span class="citation-popover-snippet">The AviationistAn unusual view of Exercise Red Flag at Night, from...August 14, 2014 — 14 Aug 2014 — At medium altitude two B-1B&#x27;s in tr...</span><span class="citation-popover-meta">Published: August 14, 2014</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UsyJzqVeGCw" title="The Flyover: Red Flag, Las Vegas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UsyJzqVeGCw" target="_blank" rel="noopener noreferrer">The Flyover: Red Flag, Las Vegas</a></p><p class="youtube-embed-meta">Channel: Eurofighter Typhoon &middot; Views: 296.1K &middot; Uploaded: March 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UsyJzqVeGCw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UsyJzqVeGCw">Open on YouTube</a></p></div></div></div>
 
 ## How restricted ranges shape what witnesses can know
@@ -276,7 +274,6 @@ Accounts from night-time Red Flag exercises illustrate how unusual these scenes 
 Nevada differs from many other states because witnesses are often observing activity occurring inside restricted military airspace. The Nevada Test and Training Range covers thousands of square miles and supports a wide variety of training and testing operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nevada Test and Training Range</span><span class="citation-popover-snippet">Nevada Test and Training Range</span></span></span>
 
 That matters because the observer usually lacks crucial information:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -296,8 +293,7 @@ The same dynamic helped shape [Area 51]({{ 'area-51/' | relative_url }}) folklor
 
 Night exercises create a similar, though usually less dramatic, version of that process. The witness may be seeing nothing more exotic than training aircraft, but the lack of context makes confident identification difficult.
 
-
-<img src="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc_nevada_night_exercis_c36c89-Illustration-2-light.svg" | relative_url }}" alt="Night exercises illustration 2" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc_nevada_night_exercis_c36c89-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc_nevada_night_exercis_c36c89-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc_nevada_night_exercis_c36c89-Illustration-2-dark.svg" | relative_url }}" alt="Night exercises illustration 2" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc_nevada_night_exercis_c36c89-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc_nevada_night_exercis_c36c89-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why formations look stranger in darkness
 
 Formation flying is one of the most common sources of apparent UFO patterns.
@@ -305,7 +301,6 @@ Formation flying is one of the most common sources of apparent UFO patterns.
 At night, observers often cannot see the aircraft themselves. They see only navigation lights, flare releases or bright engine exhausts. Without the aircraft body visible, the brain tends to interpret the lights as independent objects.
 
 Several visual effects can follow:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -322,7 +317,6 @@ The famous Phoenix Lights event in neighbouring Arizona is often discussed in th
 
 For Nevada observers, similar visual conditions regularly occur during training periods.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Fv6_d_VMb-8" title="HIMARS Exercise • Nevada Test and Training Range" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Fv6_d_VMb-8" target="_blank" rel="noopener noreferrer">HIMARS Exercise • Nevada Test and Training Range</a></p><p class="youtube-embed-meta">Channel: AIRBOYD &middot; Views: 2.0K &middot; Uploaded: December 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Fv6_d_VMb-8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Fv6_d_VMb-8">Open on YouTube</a></p></div></div></div>
 
 ## Why witnesses sometimes report impossible movement
@@ -336,7 +330,6 @@ A bright light against a dark sky provides few reference points. If an aircraft 
 Mountainous terrain around Nevada's training ranges adds another complication. Lights can disappear behind ridges and reappear elsewhere, making movement seem discontinuous. A flare extinguishing at the same moment another aircraft becomes visible can create the impression that an object has jumped position.
 
 These explanations do not automatically solve every report. They do, however, show why apparent motion alone is often weaker evidence than many witnesses assume.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N1fW1l1sh-A" title="Phoenix Lights - The Dark Truth?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N1fW1l1sh-A" target="_blank" rel="noopener noreferrer">Phoenix Lights - The Dark Truth?</a></p><p class="youtube-embed-meta">Channel: Found And Explained &middot; Views: 316.8K &middot; Uploaded: December 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N1fW1l1sh-A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N1fW1l1sh-A">Open on YouTube</a></p></div></div></div>
 
@@ -358,8 +351,7 @@ Several clues tend to point toward exercises rather than stronger unknowns:
 
 On the other hand, some reports contain features that investigators consider more difficult to explain through ordinary training activity. These might include multiple independent witnesses from different locations, corroborating radar information, detailed photographic evidence or observations occurring far from known exercise areas. Those cases do not automatically become evidence of extraordinary craft, but they usually require deeper examination.
 
-
-<img src="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc_nevada_night_exercis_c36c89-Illustration-3-light.svg" | relative_url }}" alt="Night exercises illustration 3" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc_nevada_night_exercis_c36c89-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc_nevada_night_exercis_c36c89-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc_nevada_night_exercis_c36c89-Illustration-3-dark.svg" | relative_url }}" alt="Night exercises illustration 3" data-theme-src-dark="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc_nevada_night_exercis_c36c89-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nevada_b93191_secret_aircraft_sigh_d83bdc_nevada_night_exercis_c36c89-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this means for Nevada's UFO record
 
 Night military exercises are one of the most important reasons Nevada produces so many unusual aerial reports. The state combines enormous restricted ranges, advanced aircraft, classified programmes and some of the darkest skies in the American West. Those ingredients naturally generate sightings.
@@ -790,124 +782,124 @@ Nevada's history repeatedly shows how secrecy, distance and darkness can turn ro
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Nevada Test and Training Range  
-   Link: [https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range](https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range)  
+   Link: <a href="https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range</a>  
 
 2. <a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — The report noted that UFO reports would spike when th...</p></details>
    Published: March 9, 2024  
 
 3. <a id="endnote-3"></a>
    Source: military.com  
-   Link: [https://www.military.com/base-guide/area-51](https://www.military.com/base-guide/area-51)  
+   Link: <a href="https://www.military.com/base-guide/area-51" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/base-guide/area-51</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>llation. Conspiracy theories...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nellis.af.mil  
    Title: Red Flag 25-1 to bring increased noise Jan  
-   Link: [https://www.nellis.af.mil/News/News-Releases/Display/Article/4041791/red-flag-25-1-to-bring-increased-noise-jan-27-feb-6/](https://www.nellis.af.mil/News/News-Releases/Display/Article/4041791/red-flag-25-1-to-bring-increased-noise-jan-27-feb-6/)  
+   Link: <a href="https://www.nellis.af.mil/News/News-Releases/Display/Article/4041791/red-flag-25-1-to-bring-increased-noise-jan-27-feb-6/" target="_blank" rel="noopener noreferrer nofollow">https://www.nellis.af.mil/News/News-Releases/Display/Article/4041791/red-flag-25-1-to-bring-increased-noise-jan-27-feb-6/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>27 – Feb. 6January 27, 2025 — 27 Jan 2025 — Southern Nevada residents may notice increased noise from military aircraft as the Air Force...</p></details>
    Published: January 27, 2025  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Phoenix Lights  
-   Link: [https://en.wikipedia.org/wiki/Phoenix_Lights](https://en.wikipedia.org/wiki/Phoenix_Lights)  
+   Link: <a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Tonopah Test Range  
-   Link: [https://en.wikipedia.org/wiki/Tonopah_Test_Range](https://en.wikipedia.org/wiki/Tonopah_Test_Range)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tonopah_Test_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tonopah_Test_Range</a>  
 
 7. <a id="endnote-7"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Nov 2024 — Some background on UAP naming convention: In 1952, the Air Force used the term unidentified flying objects, or UFO, which m...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Flyover: Red Flag, [Las Vegas](&#123;&#123; 'las-vegas/' | relative_url &#125;&#125;)  
-   Link: [https://www.youtube.com/watch?v=UsyJzqVeGCw](https://www.youtube.com/watch?v=UsyJzqVeGCw)  
+   Link: <a href="https://www.youtube.com/watch?v=UsyJzqVeGCw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UsyJzqVeGCw</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights - The Dark Truth?...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Phoenix Lights  
-   Link: [https://www.youtube.com/watch?v=N1fW1l1sh-A](https://www.youtube.com/watch?v=N1fW1l1sh-A)  
+   Link: <a href="https://www.youtube.com/watch?v=N1fW1l1sh-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N1fW1l1sh-A</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Area 51: Secrets the Government Won&#x27;t Reveal | History&#x27;s Greatest Mysteries (S4)...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: theaviationist.com  
    Title: The Aviationist An unusual view of Exercise Red Flag at Night, from  
-   Link: [https://theaviationist.com/2014/08/14/night-red-flag-report/](https://theaviationist.com/2014/08/14/night-red-flag-report/)  
+   Link: <a href="https://theaviationist.com/2014/08/14/night-red-flag-report/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationist.com/2014/08/14/night-red-flag-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The AviationistAn unusual view of Exercise Red Flag at Night, from...August 14, 2014 — 14 Aug 2014 — At medium altitude two B-1B&#x27;s in tr...</p></details>
    Published: August 14, 2014  
 
 11. <a id="endnote-11"></a>
    Source: theaviationist.com  
    Title: interesting video shows nighttime operations near area 51  
-   Link: [https://theaviationist.com/2020/11/30/interesting-video-shows-nighttime-operations-near-area-51/](https://theaviationist.com/2020/11/30/interesting-video-shows-nighttime-operations-near-area-51/)  
+   Link: <a href="https://theaviationist.com/2020/11/30/interesting-video-shows-nighttime-operations-near-area-51/" target="_blank" rel="noopener noreferrer nofollow">https://theaviationist.com/2020/11/30/interesting-video-shows-nighttime-operations-near-area-51/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Nov 2020 — Video filmed from outside Area 51 seems to show IR flares released during possible nighttime Special Operations training.Re...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: forcesnews.com  
-   Link: [https://www.forcesnews.com/services/raf/three-allies-150-aircraft-and-12000-sq-mi-clear-skies-exercise-red-flag-takes-nevada](https://www.forcesnews.com/services/raf/three-allies-150-aircraft-and-12000-sq-mi-clear-skies-exercise-red-flag-takes-nevada)  
+   Link: <a href="https://www.forcesnews.com/services/raf/three-allies-150-aircraft-and-12000-sq-mi-clear-skies-exercise-red-flag-takes-nevada" target="_blank" rel="noopener noreferrer nofollow">https://www.forcesnews.com/services/raf/three-allies-150-aircraft-and-12000-sq-mi-clear-skies-exercise-red-flag-takes-nevada</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex Red Flag ends 50th anniversary year18 Feb 2026 — Exercise Red Flag was established in 1975 by the US after its loss in the Vietnam War...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KOTATerritoryNews/posts/ufo-sighting-a-newly-released-military-video-is-fueling-fresh-debate-after-appea/1426427052858617/](https://www.facebook.com/KOTATerritoryNews/posts/ufo-sighting-a-newly-released-military-video-is-fueling-fresh-debate-after-appea/1426427052858617/)  
+   Link: <a href="https://www.facebook.com/KOTATerritoryNews/posts/ufo-sighting-a-newly-released-military-video-is-fueling-fresh-debate-after-appea/1426427052858617/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KOTATerritoryNews/posts/ufo-sighting-a-newly-released-military-video-is-fueling-fresh-debate-after-appea/1426427052858617/</a>  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: declassified documents raise intrigueus air force document cites 12618 ufo sight  
-   Link: [https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/](https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Declassified documents raise intrigue US Air Force...A spike in UFO sightings in the 1950s and 60s was caused by tests of advanced US sp...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The AARO report points out that UAP sightings and beliefs tha...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Abovethenormnews/posts/-something-went-down-near-area-51-in-september-%EF%B8%8Fon-the-night-of-september-23-202/809075298592799/](https://www.facebook.com/Abovethenormnews/posts/-something-went-down-near-area-51-in-september-%EF%B8%8Fon-the-night-of-september-23-202/809075298592799/)  
+   Link: <a href="https://www.facebook.com/Abovethenormnews/posts/-something-went-down-near-area-51-in-september-%EF%B8%8Fon-the-night-of-september-23-202/809075298592799/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/-something-went-down-near-area-51-in-september-%EF%B8%8Fon-the-night-of-september-23-202/809075298592799/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>September 23, 2025, residents near the Nevada Test Range saw a flash low over the mountains followed by a rolling...Read more...</p></details>
    Published: September 23, 2025  
 
 17. <a id="endnote-17"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/539836509530743/posts/2918733911640979/](https://www.facebook.com/groups/539836509530743/posts/2918733911640979/)  
+   Link: <a href="https://www.facebook.com/groups/539836509530743/posts/2918733911640979/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/539836509530743/posts/2918733911640979/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Online speculation: UFO could be military flares from Nellis Air Force Base (close to...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: defence.gov.au  
    Title: air force deploys nevada exercises united states united kingdom  
-   Link: [https://www.defence.gov.au/news-events/releases/2026-02-02/air-force-deploys-nevada-exercises-united-states-united-kingdom](https://www.defence.gov.au/news-events/releases/2026-02-02/air-force-deploys-nevada-exercises-united-states-united-kingdom)  
+   Link: <a href="https://www.defence.gov.au/news-events/releases/2026-02-02/air-force-deploys-nevada-exercises-united-states-united-kingdom" target="_blank" rel="noopener noreferrer nofollow">https://www.defence.gov.au/news-events/releases/2026-02-02/air-force-deploys-nevada-exercises-united-states-united-kingdom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force deploys to Nevada for exercises with United States...2 Feb 2026 — Established in 1975, Exercise Red Flag Nellis focuses on hig...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HiddenFactsss/posts/a-man-got-closer-than-anyone-else-has-to-a-ufo-at-nellis-air-force-base-usa-for-/1621390949987538/](https://www.facebook.com/HiddenFactsss/posts/a-man-got-closer-than-anyone-else-has-to-a-ufo-at-nellis-air-force-base-usa-for-/1621390949987538/)  
+   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/a-man-got-closer-than-anyone-else-has-to-a-ufo-at-nellis-air-force-base-usa-for-/1621390949987538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/a-man-got-closer-than-anyone-else-has-to-a-ufo-at-nellis-air-force-base-usa-for-/1621390949987538/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There are dozens of UFO sightings these days, and they have been for a while. In...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYNDOPMAwts/](https://www.instagram.com/reel/DYNDOPMAwts/)  
+   Link: <a href="https://www.instagram.com/reel/DYNDOPMAwts/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYNDOPMAwts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ruestory #factbased #realstories #zonesixbroadcast. more. View 1...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: static.e-publishing.af.mil  
-   Link: [https://static.e-publishing.af.mil/production/1/nellisafb/publication/afi13-212v1_accsup_nttrsup_add_a/afman13-212v1_nttr_add_a.pdf](https://static.e-publishing.af.mil/production/1/nellisafb/publication/afi13-212v1_accsup_nttrsup_add_a/afman13-212v1_nttr_add_a.pdf)  
+   Link: <a href="https://static.e-publishing.af.mil/production/1/nellisafb/publication/afi13-212v1_accsup_nttrsup_add_a/afman13-212v1_nttr_add_a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.e-publishing.af.mil/production/1/nellisafb/publication/afi13-212v1_accsup_nttrsup_add_a/afman13-212v1_nttr_add_a.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>af.milafman13-212v1_nttr_add_a.pdf - Air Force - USAF24 Jul 2020 — It governs operations on the Nevada Test and. Training Range (NTTR) an...</p></details>

@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /airspace-0d99f1/
 nav_short_title: Shaw flares
 title: Are coastal UFO lights really Shaw flares?
-title_full: Are coastal UFO lights really Shaw flares? | Airspace
+title_full: Are coastal UFO lights really Shaw flares?
 display_title_short: Shaw flares
 display_title: Shaw flares
 heading_title: Are coastal UFO lights really Shaw flares?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:11:32'
-parent_title: When UFO Reports Meet Military Airspace | South Carolina UFOs
+parent_title: When UFO Reports Meet Military Airspace
 parent_permalink: /airspace-0d99f1/
 parent_nav_short_title: Airspace
 parent_heading_title: When UFO Reports Meet Military Airspace
@@ -250,10 +250,9 @@ image: /assets/images/South_Carolina_11d001_military_airspace_3226fe_shaw_flares
 
 ## Introduction
 
-Many [South Carolina]({{ 'what-makes-south-carolinas-ufo-story/' | relative_url }}) coastal UFO reports share a striking pattern: orange, red or yellow lights appearing over the Atlantic, seeming to hover in place, brighten and fade, split into formations, or vanish abruptly. Around [Myrtle Beach]({{ 'myrtle-beach/' | relative_url }}) and North Myrtle Beach, witnesses often describe the lights as silent and strangely stationary, especially when viewed over dark water at night.
+Many South Carolina coastal UFO reports share a striking pattern: orange, red or yellow lights appearing over the Atlantic, seeming to hover in place, brighten and fade, split into formations, or vanish abruptly. Around [Myrtle Beach]({{ 'myrtle-beach/' | relative_url }}) and North Myrtle Beach, [witnesses]({{ 'witnesses-e3b4f1/' | relative_url }}) often describe the lights as silent and strangely stationary, especially when viewed over dark water at night.
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_military_airspace_3226fe_shaw_flares_coastal_63cf3a-Illustration-1-light.svg" | relative_url }}" alt="Shaw flares illustration 1" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_military_airspace_3226fe_shaw_flares_coastal_63cf3a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_military_airspace_3226fe_shaw_flares_coastal_63cf3a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/South_Carolina_11d001_military_airspace_3226fe_shaw_flares_coastal_63cf3a-Illustration-1-dark.svg" | relative_url }}" alt="Shaw flares illustration 1" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_military_airspace_3226fe_shaw_flares_coastal_63cf3a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_military_airspace_3226fe_shaw_flares_coastal_63cf3a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 One of the most common explanations links these sightings to military activity associated with Shaw Air Force Base and the training [airspace]({{ 'airspace-0d99f1/' | relative_url }}) extending offshore from the South Carolina coast. That does not mean every coastal report is automatically solved. Some cases lack enough detail to identify a cause with confidence. However, the combination of Shaw-linked fighter operations, offshore warning areas and military flare use provides an important reality check before treating distant lights as unexplained craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shaw.af.mil/News/Features/Display/Article/664583/poinsett-range-the-environmental-mission/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shaw.af.mil">[Shaw Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shaw.af.mil</span><span class="citation-popover-title">Shaw Air Force Base Poinsett Range: the environmental mission</span><span class="citation-popover-snippet">Shaw Air Force BasePoinsett Range: the environmental missionNovember 4, 2014 — 4 Nov 2014 — The 12,500 acre training range, just 20 minut...</span><span class="citation-popover-meta">Published: November 4, 2014</span></span></span>
 
 ## What witnesses report along the coast
@@ -261,7 +260,6 @@ One of the most common explanations links these sightings to military activity a
 The reports are often surprisingly similar despite occurring years apart.
 
 Common descriptions include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -274,12 +272,11 @@ Common descriptions include:
 
 </div>
 
-A North Myrtle Beach report submitted to the National UFO Reporting Center in 2014 described four bright orange lights offshore that appeared to change shape before disappearing suddenly. The [witnesses]({{ 'witnesses-e3b4f1/' | relative_url }}) initially assumed they were aircraft but became uncertain because of their appearance and abrupt disappearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sentientorbs.com/explore/sightings/NUFORC-114377" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-snippet">Sentient OrbsRound Orange Glowing Lights over Atlantic off shore of North...October 8, 2014 — 8 Oct 2014 — Four bright lights over Atlan...</span><span class="citation-popover-meta">Published: October 8, 2014</span></span></span>
+A North Myrtle Beach report submitted to the National UFO Reporting Center in 2014 described four bright orange lights offshore that appeared to change shape before disappearing suddenly. The witnesses initially assumed they were aircraft but became uncertain because of their appearance and abrupt disappearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sentientorbs.com/explore/sightings/NUFORC-114377" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentientorbs.com">[Sentient Orbs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentientorbs.com</span><span class="citation-popover-snippet">Sentient OrbsRound Orange Glowing Lights over Atlantic off shore of North...October 8, 2014 — 8 Oct 2014 — Four bright lights over Atlan...</span><span class="citation-popover-meta">Published: October 8, 2014</span></span></span>
 
-Similar descriptions appear repeatedly in local social-media discussions, witness databases and regional news coverage. Myrtle Beach-area residents have for years reported glowing lights offshore that seem difficult to reconcile with ordinary aircraft navigation lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/KFDMNews/posts/myrtle-beach-has-had-several-reports-of-unidentified-lights-over-the-years-many-/10156820245103756/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">myrtle beach has had several reports of unidentified lights over the years many</span><span class="citation-popover-snippet">FacebookMyrtle Beach has had several reports of unidentified lights...8 Oct 2018 — Myrtle Beach has had several reports of unidentified...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/wchstv/posts/ufos-in-myrtle-beach-video-shot-back-in-august-prompts-conversation-about-strang/10156960794992845/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">UFOs in Myrtle Beach? Video shot back in August prompts...UFOs in Myrtle Beach? Video shot back in August prompts conversation about str...</span></span></span>
+Similar descriptions appear repeatedly in local social-media discussions, witness databases and regional news coverage. Myrtle Beach-area residents have for years reported glowing lights offshore that seem difficult to reconcile with ordinary aircraft navigation lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/KFDMNews/posts/myrtle-beach-has-had-several-reports-of-unidentified-lights-over-the-years-many-/10156820245103756/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">myrtle beach has had several reports of unidentified lights over the years many</span><span class="citation-popover-snippet">Myrtle Beach has had several reports of unidentified lights...8 Oct 2018 — Myrtle Beach has had several reports of unidentified...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/wchstv/posts/ufos-in-myrtle-beach-video-shot-back-in-august-prompts-conversation-about-strang/10156960794992845/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">UFOs in Myrtle Beach? Video shot back in August prompts...UFOs in Myrtle Beach? Video shot back in August prompts conversation about str...</span></span></span>
 
 What makes these reports memorable is not usually extreme manoeuvring. Instead, it is the combination of apparent hovering, unusual colour and sudden disappearance against a dark ocean backdrop.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b_jI-7cuoIQ" title="Mysterious lights off San Diego coast light up social media on Monday night" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b_jI-7cuoIQ" target="_blank" rel="noopener noreferrer">Mysterious lights off San Diego coast light up social media on Monday night</a></p><p class="youtube-embed-meta">Channel: CBS 8 San Diego &middot; Views: 56.5K &middot; Uploaded: June 2022 &middot; Length: 1 minute 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b_jI-7cuoIQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b_jI-7cuoIQ">Open on YouTube</a></p></div></div></div>
 
@@ -291,7 +288,7 @@ Shaw Air Force Base manages access to extensive special-use airspace and militar
 
 From a beach observer's perspective, military flares can produce several effects that resemble classic UFO reports:
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/MyrtleBeach/comments/8xsv4k/unusual_lights_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[**They can appear stationary.**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Unusual lights in the sky: r/MyrtleBeachThree orange pulsating lights appear over the ocean. They grew in size and then seemed to fade a...</span></span></span>
+**They can appear stationary.** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/MyrtleBeach/comments/8xsv4k/unusual_lights_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Unusual lights in the sky: r/MyrtleBeachThree orange pulsating lights appear over the ocean. They grew in size and then seemed to fade a...</span></span></span>
 
 Many military illumination or countermeasure flares descend slowly beneath parachutes or drift at distances that make motion difficult to perceive.
 
@@ -313,8 +310,7 @@ At offshore distances, observers may see the light source long before hearing an
 
 These characteristics closely match many of the recurring descriptions from Myrtle Beach and other South Carolina coastal sighting clusters.
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_military_airspace_3226fe_shaw_flares_coastal_63cf3a-Illustration-2-light.svg" | relative_url }}" alt="Shaw flares illustration 2" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_military_airspace_3226fe_shaw_flares_coastal_63cf3a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_military_airspace_3226fe_shaw_flares_coastal_63cf3a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Carolina_11d001_military_airspace_3226fe_shaw_flares_coastal_63cf3a-Illustration-2-dark.svg" | relative_url }}" alt="Shaw flares illustration 2" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_military_airspace_3226fe_shaw_flares_coastal_63cf3a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_military_airspace_3226fe_shaw_flares_coastal_63cf3a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the ocean makes ordinary lights look stranger
 
 The South Carolina coast creates viewing conditions that can exaggerate uncertainty.
@@ -333,15 +329,13 @@ A widely circulated 2019 video from North Carolina's Outer Banks showed a line o
 
 The importance of that case for South Carolina is not that it directly involved Shaw aircraft. Rather, it demonstrated how distant coastal lights can rapidly acquire a UFO reputation even when a military explanation fits many of the observed details.
 
-Local Myrtle Beach discussions often reach similar conclusions. Residents familiar with regional airspace frequently point to military operations, offshore warning areas and flare activity when videos of orange lights circulate online. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/18ioo6n/just_seen_off_myrtle_beach/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditJust seen off Myrtle Beach: r/UFOsIf you&#x27;re in Myrtle Beach those are almost certainly flares off a military aircraft operating in...</span></span></span>
-
+Local Myrtle Beach discussions often reach similar conclusions. Residents familiar with regional airspace frequently point to military operations, offshore warning areas and flare activity when videos of orange lights circulate online. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/18ioo6n/just_seen_off_myrtle_beach/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Just seen off Myrtle Beach: r/UFOsIf you&#x27;re in Myrtle Beach those are almost certainly flares off a military aircraft operating in...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fzDA4e7UI9Y" title="F-16C Fighting Falcon Departs Shaw AFB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fzDA4e7UI9Y" target="_blank" rel="noopener noreferrer">F-16C Fighting Falcon Departs Shaw AFB</a></p><p class="youtube-embed-meta">Channel: AIRBOYD &middot; Views: 2.7K &middot; Uploaded: January 2023 &middot; Length: 1 minute 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fzDA4e7UI9Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fzDA4e7UI9Y">Open on YouTube</a></p></div></div></div>
 
 ## When the flare explanation fits well
 
 The flare explanation is strongest when several indicators appear together:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -358,14 +352,12 @@ When these features are present, military flares become a serious candidate expl
 
 This is especially true when the report lacks radar data, photographs with useful metadata or multiple observation points that could establish distance and movement.
 
-
-<img src="{{ "/assets/images/South_Carolina_11d001_military_airspace_3226fe_shaw_flares_coastal_63cf3a-Illustration-3-light.svg" | relative_url }}" alt="Shaw flares illustration 3" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_military_airspace_3226fe_shaw_flares_coastal_63cf3a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_military_airspace_3226fe_shaw_flares_coastal_63cf3a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/South_Carolina_11d001_military_airspace_3226fe_shaw_flares_coastal_63cf3a-Illustration-3-dark.svg" | relative_url }}" alt="Shaw flares illustration 3" data-theme-src-dark="{{ "/assets/images/South_Carolina_11d001_military_airspace_3226fe_shaw_flares_coastal_63cf3a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Carolina_11d001_military_airspace_3226fe_shaw_flares_coastal_63cf3a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When the flare explanation does not fit
 
 Not every coastal report can be dismissed as a flare.
 
 The explanation becomes weaker when witnesses report:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -382,7 +374,6 @@ In such cases, investigators need more information before reaching conclusions.
 
 A recurring problem in South Carolina UFO history is that many reports emerge from brief observations with limited documentation. Witnesses may sincerely report unusual lights, yet there is often insufficient evidence to determine whether the source was a flare, aircraft, drone, atmospheric effect or something genuinely unresolved.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qsEjV8DdSbs" title="Gimbal UFO - A New Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer">Gimbal UFO - A New Analysis</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 203.9K &middot; Uploaded: March 2022 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qsEjV8DdSbs">Open on YouTube</a></p></div></div></div>
 
 ## Why this matters for South Carolina UFO history
@@ -391,7 +382,7 @@ Shaw-linked flare explanations occupy an important middle ground between belief 
 
 They show how a real military activity can generate sightings that look extraordinary from the ground. Witnesses are not necessarily imagining anything. They may be accurately describing lights that genuinely appeared unusual. The question is whether the unusual appearance requires an extraordinary explanation.
 
-For South Carolina's coastal UFO record, the answer is often less dramatic but more useful. The state's combination of offshore [military airspace]({{ 'airspace-0d99f1/' | relative_url }}), fighter training activity, dark Atlantic horizons and long-distance viewing conditions creates an environment where flare-related misidentifications are entirely plausible.
+For South Carolina's coastal UFO record, the answer is often less dramatic but more useful. The state's combination of offshore military airspace, fighter training activity, dark Atlantic horizons and long-distance viewing conditions creates an environment where flare-related misidentifications are entirely plausible.
 
 That does not solve every case. It does explain why coastal light reports near Myrtle Beach and other shoreline communities should be checked against Shaw-linked military activity before being treated as evidence of something unknown. In many instances, the flare hypothesis matches the observed behaviour remarkably well. In others, the available evidence remains too limited for certainty, leaving the sighting unresolved rather than definitively explained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shaw.af.mil/News/Features/Display/Article/664583/poinsett-range-the-environmental-mission/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shaw.af.mil">[Shaw Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shaw.af.mil</span><span class="citation-popover-title">Shaw Air Force Base Poinsett Range: the environmental mission</span><span class="citation-popover-snippet">Shaw Air Force BasePoinsett Range: the environmental missionNovember 4, 2014 — 4 Nov 2014 — The 12,500 acre training range, just 20 minut...</span><span class="citation-popover-meta">Published: November 4, 2014</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UnresolvedMysteries/comments/dwke61/unexplained_phenomenaunexplained_lights_off_north/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">ft during targeting exercises. This is in fact a widely...</span></span></span>
 
@@ -481,7 +472,7 @@ That does not solve every case. It does explain why coastal light reports near M
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -491,111 +482,36 @@ That does not solve every case. It does explain why coastal light reports near M
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT"><img src="{{ '/assets/images/marketplace-covers/c4fa2fd111d52b7bddcf.jpg' | relative_url }}" alt="Listing image for UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth"><img src="https://i.ebayimg.com/images/g/VF0AAeSwVpBpJZso/s-l225.jpg" alt="Listing image for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO. Rock memorabilia. First print VG rare flyer handbill. 70&#x27;s. NM+ /MT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display"><img src="{{ '/assets/images/marketplace-covers/27c78e3de724e607809d.jpg' | relative_url }}" alt="Listing image for Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Miniature Guitar For UFO MICHAEL SCHENKER Memorabilia FREE Stand GIFT Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.com</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -603,15 +519,15 @@ That does not solve every case. It does explain why coastal light reports near M
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop"><img src="{{ '/assets/images/marketplace-covers/183496016ebe9190ac36.jpg' | relative_url }}" alt="Listing image for UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/o-YAAOSwKopk5fnY/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Walk On Water Sticker Decal Music Memorabilia Rock Pop</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -619,15 +535,15 @@ That does not solve every case. It does explain why coastal light reports near M
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="https://i.ebayimg.com/images/g/B7QAAeSw73loHdMA/s-l225.jpg" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -635,15 +551,15 @@ That does not solve every case. It does explain why coastal light reports near M
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥"><img src="{{ '/assets/images/marketplace-covers/3d1cb53e423d90dd8ac5.jpg' | relative_url }}" alt="Listing image for Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 , UFO , Size XL , Band Tee Memorabilia , 70’s , 80’s T Shirt 🔥🔥</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -651,7 +567,7 @@ That does not solve every case. It does explain why coastal light reports near M
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shaw-flares-are-coastal-ufo-lights-really-shaw-flares-south-carolina-ufo-memorabilia-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="are-coastal-ufo-lights-really-shaw-flares-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -728,17 +644,31 @@ That does not solve every case. It does explain why coastal light reports near M
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -751,42 +681,73 @@ That does not solve every case. It does explain why coastal light reports near M
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -801,12 +762,17 @@ That does not solve every case. It does explain why coastal light reports near M
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -816,137 +782,137 @@ That does not solve every case. It does explain why coastal light reports near M
 
 1. <a id="endnote-1"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/18ioo6n/just_seen_off_myrtle_beach/](https://www.reddit.com/r/UFOs/comments/18ioo6n/just_seen_off_myrtle_beach/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditJust seen off Myrtle Beach: r/UFOsIf you&#x27;re in Myrtle Beach those are almost certainly flares off a military aircraft operating in...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/18ioo6n/just_seen_off_myrtle_beach/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18ioo6n/just_seen_off_myrtle_beach/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Just seen off Myrtle Beach: r/UFOsIf you&#x27;re in Myrtle Beach those are almost certainly flares off a military aircraft operating in...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: facebook.com  
    Title: myrtle beach has had several reports of unidentified lights over the years many  
-   Link: [https://www.facebook.com/KFDMNews/posts/myrtle-beach-has-had-several-reports-of-unidentified-lights-over-the-years-many-/10156820245103756/](https://www.facebook.com/KFDMNews/posts/myrtle-beach-has-had-several-reports-of-unidentified-lights-over-the-years-many-/10156820245103756/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookMyrtle Beach has had several reports of unidentified lights...8 Oct 2018 — Myrtle Beach has had several reports of unidentified...</p></details>
+   Link: <a href="https://www.facebook.com/KFDMNews/posts/myrtle-beach-has-had-several-reports-of-unidentified-lights-over-the-years-many-/10156820245103756/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KFDMNews/posts/myrtle-beach-has-had-several-reports-of-unidentified-lights-over-the-years-many-/10156820245103756/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Myrtle Beach has had several reports of unidentified lights...8 Oct 2018 — Myrtle Beach has had several reports of unidentified...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wchstv/posts/ufos-in-myrtle-beach-video-shot-back-in-august-prompts-conversation-about-strang/10156960794992845/](https://www.facebook.com/wchstv/posts/ufos-in-myrtle-beach-video-shot-back-in-august-prompts-conversation-about-strang/10156960794992845/)  
+   Link: <a href="https://www.facebook.com/wchstv/posts/ufos-in-myrtle-beach-video-shot-back-in-august-prompts-conversation-about-strang/10156960794992845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wchstv/posts/ufos-in-myrtle-beach-video-shot-back-in-august-prompts-conversation-about-strang/10156960794992845/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs in Myrtle Beach? Video shot back in August prompts...UFOs in Myrtle Beach? Video shot back in August prompts conversation about str...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: fox35orlando.com  
-   Link: [https://www.fox35orlando.com/news/viral-video-of-unidentified-lights-off-ncs-outer-banks-has-people-questioning-aliens-or-military](https://www.fox35orlando.com/news/viral-video-of-unidentified-lights-off-ncs-outer-banks-has-people-questioning-aliens-or-military)  
+   Link: <a href="https://www.fox35orlando.com/news/viral-video-of-unidentified-lights-off-ncs-outer-banks-has-people-questioning-aliens-or-military" target="_blank" rel="noopener noreferrer nofollow">https://www.fox35orlando.com/news/viral-video-of-unidentified-lights-off-ncs-outer-banks-has-people-questioning-aliens-or-military</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Viral video of unidentified lights off NC&#x27;s Outer Banks has...7 Oct 2019 — Video of a mysterious group of lights in the sky captured off...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/267822101295445/posts/1221166609294318/](https://www.facebook.com/groups/267822101295445/posts/1221166609294318/)  
+   Link: <a href="https://www.facebook.com/groups/267822101295445/posts/1221166609294318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/267822101295445/posts/1221166609294318/</a>  
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/officialmyrtlebeach/posts/10160321608348533/](https://www.facebook.com/groups/officialmyrtlebeach/posts/10160321608348533/)  
+   Link: <a href="https://www.facebook.com/groups/officialmyrtlebeach/posts/10160321608348533/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/officialmyrtlebeach/posts/10160321608348533/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Also you may hear them flying along the coast...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/shawfloors/](https://www.facebook.com/shawfloors/)  
+   Link: <a href="https://www.facebook.com/shawfloors/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/shawfloors/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ts stains, scuffs, and moisture—so it&#x27;s easier...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: the unexplained 1973 ufo sighting over myrtle beachduring the summer of 1973 res  
-   Link: [https://www.facebook.com/TheLanternNewsandMediaGroup/posts/the-unexplained-1973-ufo-sighting-over-myrtle-beachduring-the-summer-of-1973-res/1308466011278191/](https://www.facebook.com/TheLanternNewsandMediaGroup/posts/the-unexplained-1973-ufo-sighting-over-myrtle-beachduring-the-summer-of-1973-res/1308466011278191/)  
+   Link: <a href="https://www.facebook.com/TheLanternNewsandMediaGroup/posts/the-unexplained-1973-ufo-sighting-over-myrtle-beachduring-the-summer-of-1973-res/1308466011278191/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheLanternNewsandMediaGroup/posts/the-unexplained-1973-ufo-sighting-over-myrtle-beachduring-the-summer-of-1973-res/1308466011278191/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>They darted back and forth very fast across...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/dwke61/unexplained_phenomenaunexplained_lights_off_north/](https://www.reddit.com/r/UnresolvedMysteries/comments/dwke61/unexplained_phenomenaunexplained_lights_off_north/)  
+   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/dwke61/unexplained_phenomenaunexplained_lights_off_north/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/dwke61/unexplained_phenomenaunexplained_lights_off_north/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ft during targeting exercises. This is in fact a widely...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/MyrtleBeach/comments/8xsv4k/unusual_lights_in_the_sky/](https://www.reddit.com/r/MyrtleBeach/comments/8xsv4k/unusual_lights_in_the_sky/)  
+   Link: <a href="https://www.reddit.com/r/MyrtleBeach/comments/8xsv4k/unusual_lights_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MyrtleBeach/comments/8xsv4k/unusual_lights_in_the_sky/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unusual lights in the sky: r/MyrtleBeachThree orange pulsating lights appear over the ocean. They grew in size and then seemed to fade a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/fvqun0/orange_lights_at_myrtle_beach/](https://www.reddit.com/r/UFOs/comments/fvqun0/orange_lights_at_myrtle_beach/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/fvqun0/orange_lights_at_myrtle_beach/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/fvqun0/orange_lights_at_myrtle_beach/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Orange Lights at Myrtle Beach: r/UFOsPretty sure they do alot of coast guard flight training off the coast of myrtle Beach probably flai...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: shaw.af.mil  
    Title: Shaw Air Force Base Poinsett Range: the environmental mission  
-   Link: [https://www.shaw.af.mil/News/Features/Display/Article/664583/poinsett-range-the-environmental-mission/](https://www.shaw.af.mil/News/Features/Display/Article/664583/poinsett-range-the-environmental-mission/)  
+   Link: <a href="https://www.shaw.af.mil/News/Features/Display/Article/664583/poinsett-range-the-environmental-mission/" target="_blank" rel="noopener noreferrer nofollow">https://www.shaw.af.mil/News/Features/Display/Article/664583/poinsett-range-the-environmental-mission/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Shaw Air Force BasePoinsett Range: the environmental missionNovember 4, 2014 — 4 Nov 2014 — The 12,500 acre training range, just 20 minut...</p></details>
    Published: November 4, 2014  
 
 13. <a id="endnote-13"></a>
    Source: sentientorbs.com  
-   Link: [https://sentientorbs.com/explore/sightings/NUFORC-114377](https://sentientorbs.com/explore/sightings/NUFORC-114377)  
+   Link: <a href="https://sentientorbs.com/explore/sightings/NUFORC-114377" target="_blank" rel="noopener noreferrer nofollow">https://sentientorbs.com/explore/sightings/NUFORC-114377</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sentient OrbsRound Orange Glowing Lights over Atlantic off shore of North...October 8, 2014 — 8 Oct 2014 — Four bright lights over Atlan...</p></details>
    Published: October 8, 2014  
 
 14. <a id="endnote-14"></a>
    Source: skepticalinquirer.org  
    Title: real ufos in north carolina shown to be flares  
-   Link: [https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/](https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/)  
+   Link: <a href="https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/real-ufos-in-north-carolina-shown-to-be-flares/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical Inquirer&#x27;Real&#x27; UFOs in North Carolina Shown to be Flares11 Dec 2019 — The video, which is thirty seconds long, shows fourteen b...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: charlotteobserver.com  
-   Link: [https://www.charlotteobserver.com/news/local/article235790617.html](https://www.charlotteobserver.com/news/local/article235790617.html)  
+   Link: <a href="https://www.charlotteobserver.com/news/local/article235790617.html" target="_blank" rel="noopener noreferrer nofollow">https://www.charlotteobserver.com/news/local/article235790617.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO debate in NC after odd lights spotted off Outer Banks4 Oct 2019 — A fleet of lights recorded off North Carolina&#x27;s Outer Banks has ign...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/shaw](https://www.merriam-webster.com/dictionary/shaw)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/shaw" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/shaw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SHAW Definition &amp; Meaningnoun (1) ˈshȯ dialect: copse, thicket shaw 2 of 2 noun (2) chiefly British: the tops and stalks of a cultivate...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: shawcontract.com  
-   Link: [https://www.shawcontract.com/en-us](https://www.shawcontract.com/en-us)  
+   Link: <a href="https://www.shawcontract.com/en-us" target="_blank" rel="noopener noreferrer nofollow">https://www.shawcontract.com/en-us</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Shaw ContractShaw Contract&#x27;s USA-made luxury vinyl tile &amp; carpet tile pair design flexibility and durability with vast in-stock inventory...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: broadwaycarpets.com  
-   Link: [https://www.broadwaycarpets.com/flooring/brands/shaw/](https://www.broadwaycarpets.com/flooring/brands/shaw/)  
+   Link: <a href="https://www.broadwaycarpets.com/flooring/brands/shaw/" target="_blank" rel="noopener noreferrer nofollow">https://www.broadwaycarpets.com/flooring/brands/shaw/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Shaw Flooring | Broadway Carpet &amp; FlooringShaw flooring blends durability and style. Discover premium carpet, vinyl, and more at Broadway...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: shawfloors.com  
-   Link: [https://shawfloors.com/en-us?srsltid=AfmBOoqeJD94H3ioQbCdbK5yMpK8KTDz7Wrj6gwsdnz8ZRetqqTuTJJI](https://shawfloors.com/en-us?srsltid=AfmBOoqeJD94H3ioQbCdbK5yMpK8KTDz7Wrj6gwsdnz8ZRetqqTuTJJI)  
+   Link: <a href="https://shawfloors.com/en-us?srsltid=AfmBOoqeJD94H3ioQbCdbK5yMpK8KTDz7Wrj6gwsdnz8ZRetqqTuTJJI" target="_blank" rel="noopener noreferrer nofollow">https://shawfloors.com/en-us?srsltid=AfmBOoqeJD94H3ioQbCdbK5yMpK8KTDz7Wrj6gwsdnz8ZRetqqTuTJJI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Shaw Floors: Beautiful, Durable Flooring for Every RoomBrowse stylish, long-lasting flooring for every space. Browse hardwood, carpet, lu...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: shawinc.com  
-   Link: [https://shawinc.com/](https://shawinc.com/)  
+   Link: <a href="https://shawinc.com/" target="_blank" rel="noopener noreferrer nofollow">https://shawinc.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Shaw Industries Group, Inc. | HomeShaw Industries Group, Inc. is a leader in flooring and other surface solutions designed for residentia...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: sfgate.com  
    Title: Mysterious glowing orbs off N C coast UFOs 14493713  
-   Link: [https://www.sfgate.com/nation/article/Mysterious-glowing-orbs-off-N-C-coast-UFOs-14493713.php](https://www.sfgate.com/nation/article/Mysterious-glowing-orbs-off-N-C-coast-UFOs-14493713.php)  
+   Link: <a href="https://www.sfgate.com/nation/article/Mysterious-glowing-orbs-off-N-C-coast-UFOs-14493713.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfgate.com/nation/article/Mysterious-glowing-orbs-off-N-C-coast-UFOs-14493713.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious glowing orbs seen off N.C. coast — UFOs?4 Oct 2019 — So far there is no explanation for the glowing orbs filmed last week hove...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: wmbfnews.com  
-   Link: [https://www.wmbfnews.com/story/24910277/myrtle-beach-man-shares-ufo-experience-with/](https://www.wmbfnews.com/story/24910277/myrtle-beach-man-shares-ufo-experience-with/)  
+   Link: <a href="https://www.wmbfnews.com/story/24910277/myrtle-beach-man-shares-ufo-experience-with/" target="_blank" rel="noopener noreferrer nofollow">https://www.wmbfnews.com/story/24910277/myrtle-beach-man-shares-ufo-experience-with/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.wmbfnews.comMyrtle](https://www.wmbfnews.comMyrtle) Beach man shares UFO experience on national TV6 Mar 2014 — Travis&#x27;s has witnessed UFOs five times as a pil...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: shaws.com  
    Title: Shaw's: Grocery Delivery Near You  
-   Link: [https://www.shaws.com/?srsltid=AfmBOor1ELbt6Ud_1JF1IxxGLGxRwfk39_P3UB7t8U-yAOFWqlsut8Ha](https://www.shaws.com/?srsltid=AfmBOor1ELbt6Ud_1JF1IxxGLGxRwfk39_P3UB7t8U-yAOFWqlsut8Ha)  
+   Link: <a href="https://www.shaws.com/?srsltid=AfmBOor1ELbt6Ud_1JF1IxxGLGxRwfk39_P3UB7t8U-yAOFWqlsut8Ha" target="_blank" rel="noopener noreferrer nofollow">https://www.shaws.com/?srsltid=AfmBOor1ELbt6Ud_1JF1IxxGLGxRwfk39_P3UB7t8U-yAOFWqlsut8Ha</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Shop at Shaw&#x27;s online store and get grocery delivered to your doorstep. Use Shaw&#x27;s for U rewards &amp; coupons to save money on...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: newsobserver.com  
    Title: A UFO or 'space junk'?  
-   Link: [https://www.newsobserver.com/news/state/north-carolina/article248416385.html](https://www.newsobserver.com/news/state/north-carolina/article248416385.html)  
+   Link: <a href="https://www.newsobserver.com/news/state/north-carolina/article248416385.html" target="_blank" rel="noopener noreferrer nofollow">https://www.newsobserver.com/news/state/north-carolina/article248416385.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debate erupts over Outer Banks video13 Jan 2021 — Experts believe some of the suspected UFOs reported off the coast were actually militar...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Brown Mountain lights  
-   Link: [https://en.wikipedia.org/wiki/Brown_Mountain_lights](https://en.wikipedia.org/wiki/Brown_Mountain_lights)  
+   Link: <a href="https://en.wikipedia.org/wiki/Brown_Mountain_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brown_Mountain_lights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brown Mountain lightsThe Brown Mountain lights are purported ghost lights near Brown Mountain in North Carolina.... In July 1916, a f...</p></details>
-   Published: July 1916  
+   Published: July 1916

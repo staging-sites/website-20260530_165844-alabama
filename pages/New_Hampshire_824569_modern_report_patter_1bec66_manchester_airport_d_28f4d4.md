@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /report-patterns/
 nav_short_title: Airport lights
 title: When airport lights look like UFOs
-title_full: When airport lights look like UFOs | Report Patterns
+title_full: When airport lights look like UFOs
 display_title_short: Airport lights
 display_title: Airport lights
 heading_title: When airport lights look like UFOs
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:49:48'
-parent_title: Are New Hampshire UFO Reports a Pattern? | New Hampshire UFOs
+parent_title: Are New Hampshire UFO Reports a Pattern?
 parent_permalink: /report-patterns/
 parent_nav_short_title: Report Patterns
 parent_heading_title: Are New Hampshire UFO Reports a Pattern?
@@ -252,8 +252,7 @@ image: /assets/images/New_Hampshire_824569_modern_report_patter_1bec66_mancheste
 
 Around Manchester and the southern [New Hampshire]({{ 'why-new-hampshire-became-ufo-country/' | relative_url }}) corridor, some of the most commonly reported “UFO” sightings are also among the easiest to misread. Bright approach lights, aircraft lining up for Manchester-Boston Regional Airport, helicopters, advertising aircraft, satellites and, increasingly, consumer drones can all produce unusual night-time displays. That does not mean every report is worthless. It means that Manchester is one of the places where aviation context matters most before a sighting can be treated as a stronger unidentified case.
 
-
-<img src="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_manchester_airport_d_28f4d4-Illustration-1-light.svg" | relative_url }}" alt="Airport lights illustration 1" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_manchester_airport_d_28f4d4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_manchester_airport_d_28f4d4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_manchester_airport_d_28f4d4-Illustration-1-dark.svg" | relative_url }}" alt="Airport lights illustration 1" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_manchester_airport_d_28f4d4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_manchester_airport_d_28f4d4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The area combines a busy airport, dense suburban observation, major roads, and a population accustomed to looking at the sky from back gardens, car parks and motorways. In modern reporting databases, Manchester and nearby towns appear repeatedly in UFO logs, but many reports involve lights, hovering objects or distant glowing shapes that are difficult to separate from normal air traffic without detailed timing and location checks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lNH" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State NHAugust 20, 2023 — NUFORC Reports for State NH.; Open, 03/25/2025 09:00, Bristol, NH, USA; Open. 03/24/2025...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 ## Why Manchester sightings need aviation context
@@ -270,7 +269,6 @@ The geography of the region contributes to the confusion. Sightings from Manches
 
 Several recurring visual effects appear in reports from the Manchester area:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Stationary bright lights:** Aircraft approaching directly towards an observer can appear fixed in place for long periods.
@@ -284,7 +282,6 @@ Several recurring visual effects appear in reports from the Manchester area:
 These effects are not unique to New Hampshire, but Manchester's airport environment makes them especially common. Investigators who work with civilian sighting reports frequently treat airport proximity as one of the first variables to examine rather than as an afterthought.
 
 This does not automatically debunk a report. It simply means that a sighting near Manchester begins with a higher burden of verification than a report from a remote area with little air traffic.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/z-aMGfCurBY" title="Multiple drone sightings reported in Mass. and NH" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=z-aMGfCurBY" target="_blank" rel="noopener noreferrer">Multiple drone sightings reported in Mass. and NH</a></p><p class="youtube-embed-meta">Channel: NBC10 Boston &middot; Views: 297.6K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=z-aMGfCurBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=z-aMGfCurBY">Open on YouTube</a></p></div></div></div>
 
@@ -302,15 +299,14 @@ First, some sightings genuinely are drones. Consumer quadcopters can hover, chan
 
 Second, public awareness of drones changes witness interpretation. Once people begin expecting drones, reports can spread rapidly through social media, causing observers to reinterpret ordinary aircraft as suspicious objects.
 
-
-<img src="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_manchester_airport_d_28f4d4-Illustration-2-light.svg" | relative_url }}" alt="Airport lights illustration 2" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_manchester_airport_d_28f4d4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_manchester_airport_d_28f4d4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_manchester_airport_d_28f4d4-Illustration-2-dark.svg" | relative_url }}" alt="Airport lights illustration 2" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_manchester_airport_d_28f4d4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_manchester_airport_d_28f4d4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 2024 drone wave and southern New Hampshire
 
 The drone panic that spread across parts of the eastern United States in late 2024 offers a useful example of how modern reporting environments work.
 
-As reports of mysterious drones circulated in New Jersey and neighbouring states, similar claims began appearing in New Hampshire. Local media reported emerging sightings while state officials said there were no credible indications of the same kind of activity being reported elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wmur.com/article/new-hampshire-drone-activity-121524/63195715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wmur.com">[WMUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wmur.com</span><span class="citation-popover-title">new hampshire drone activity 121524</span><span class="citation-popover-snippet">WMURNo credible reports of drone activity similar to NJ in NH15 Dec 2024 — Multiple reports of alleged drone sightings in New Hampshire a...</span></span></span>
+As reports of mysterious drones circulated in New Jersey and neighbouring states, similar claims began appearing in New Hampshire. Local media reported emerging sightings while state officials said there were no credible indications of the same kind of activity being reported elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wmur.com/article/new-hampshire-drone-activity-121524/63195715" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wmur.com">[WMUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wmur.com</span><span class="citation-popover-title">new hampshire drone activity 121524</span><span class="citation-popover-snippet">No credible reports of drone activity similar to NJ in NH15 Dec 2024 — Multiple reports of alleged drone sightings in New Hampshire a...</span></span></span>
 
-Online discussions quickly focused on southern New Hampshire locations, including areas near Manchester. Some local observers pointed out that many reported objects appeared to be located along normal airport approach routes. A widely shared discussion among New Hampshire residents specifically noted that reported sightings in south Manchester coincided with the Manchester airport flight path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/newhampshire/comments/1hdf37r/found_on_facebook_apparently_the_drones_in_nj_and/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditFound on Facebook. Apparently the drones in NJ and NY...People were reporting sightings in South Manchester and their locations we...</span></span></span>
+Online discussions quickly focused on southern New Hampshire locations, including areas near Manchester. Some local observers pointed out that many reported objects appeared to be located along normal airport approach routes. A widely shared discussion among New Hampshire residents specifically noted that reported sightings in south Manchester coincided with the Manchester airport flight path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/newhampshire/comments/1hdf37r/found_on_facebook_apparently_the_drones_in_nj_and/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Found on Facebook. Apparently the drones in NJ and NY...People were reporting sightings in South Manchester and their locations we...</span></span></span>
 
 Nationally, federal officials received thousands of tips during the 2024 drone scare, yet only a small fraction were considered worthy of further investigation. Officials and aviation specialists repeatedly stated that many reports involved ordinary aircraft, helicopters, stars or legally operated drones rather than unknown technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2024/dec/16/mystery-us-drone-sightings-what-we-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Mystery US drone sightings: what we know</span><span class="citation-popover-snippet">Reports include sightings in residential areas, near military facilities, and above significant landmarks such as one of Donald Trump&#x27;s g...</span></span></span>
 
@@ -319,7 +315,6 @@ The episode demonstrated how quickly aviation lights, social media attention and
 ## Checks that separate leads from stronger cases
 
 Most Manchester-area reports become more useful when investigators can answer a few basic questions.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zj657dofKOQ" title="Officials in NH urge safe, legal operation of drones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zj657dofKOQ" target="_blank" rel="noopener noreferrer">Officials in NH urge safe, legal operation of drones</a></p><p class="youtube-embed-meta">Channel: WMUR-TV &middot; Views: 918 &middot; Uploaded: November 2021 &middot; Length: 3 minutes 15 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zj657dofKOQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zj657dofKOQ">Open on YouTube</a></p></div></div></div>
 
@@ -341,8 +336,7 @@ A strong case usually benefits from independent observers, photographs, video, r
 
 Many Manchester reports rely on a single observer's memory of a brief event. That does not make the witness unreliable, but it limits what investigators can conclude.
 
-
-<img src="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_manchester_airport_d_28f4d4-Illustration-3-light.svg" | relative_url }}" alt="Airport lights illustration 3" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_manchester_airport_d_28f4d4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_manchester_airport_d_28f4d4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_manchester_airport_d_28f4d4-Illustration-3-dark.svg" | relative_url }}" alt="Airport lights illustration 3" data-theme-src-dark="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_manchester_airport_d_28f4d4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Hampshire_824569_modern_report_patter_1bec66_manchester_airport_d_28f4d4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Does the report survive reconstruction?
 
 The most useful sightings are those that remain unusual after checks for aircraft movements, satellite passes, astronomy, weather conditions and drone activity.
@@ -359,9 +353,7 @@ The broader lesson is that a Manchester sighting becomes more valuable when it i
 
 Within the wider pattern of modern New Hampshire reports, Manchester therefore serves as a reminder that the most interesting question is often not whether a witness saw something strange, but whether investigators can successfully separate aviation illusions, drone activity and genuinely unresolved observations.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HAJyZ2Zs7Wo" title="Manchester Airport UAP UFO sighting from inside the cockpit A spherical UAP of some kind maybe drone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HAJyZ2Zs7Wo" target="_blank" rel="noopener noreferrer">Manchester Airport UAP UFO sighting from inside the cockpit A spherical UAP of some kind maybe drone</a></p><p class="youtube-embed-meta">Channel: Will Brown &middot; Views: 12.3K &middot; Uploaded: November 2024 &middot; Length: 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HAJyZ2Zs7Wo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HAJyZ2Zs7Wo">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -784,57 +776,57 @@ Within the wider pattern of modern New Hampshire reports, Manchester therefore s
 
 1. <a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lNH](https://nuforc.org/subndx/?id=lNH)  
+   Link: <a href="https://nuforc.org/subndx/?id=lNH" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNH</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State NHAugust 20, 2023 — NUFORC Reports for State NH.; Open, 03/25/2025 09:00, Bristol, NH, USA; Open. 03/24/2025...</p></details>
    Published: August 20, 2023  
 
 2. <a id="endnote-2"></a>
    Source: wmur.com  
    Title: Manchester airport introduces new drone guidelines  
-   Link: [https://www.wmur.com/article/manchester-airport-introduces-new-drone-guidelines/5087508](https://www.wmur.com/article/manchester-airport-introduces-new-drone-guidelines/5087508)  
+   Link: <a href="https://www.wmur.com/article/manchester-airport-introduces-new-drone-guidelines/5087508" target="_blank" rel="noopener noreferrer nofollow">https://www.wmur.com/article/manchester-airport-introduces-new-drone-guidelines/5087508</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Manchester-Boston Regional Airport is announcing a new policy regarding its air space. Manchester airport introduces new drone guidelines...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: wmur.com  
    Title: new hampshire drone activity 121524  
-   Link: [https://www.wmur.com/article/new-hampshire-drone-activity-121524/63195715](https://www.wmur.com/article/new-hampshire-drone-activity-121524/63195715)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WMURNo credible reports of drone activity similar to NJ in NH15 Dec 2024 — Multiple reports of alleged drone sightings in New Hampshire a...</p></details>
+   Link: <a href="https://www.wmur.com/article/new-hampshire-drone-activity-121524/63195715" target="_blank" rel="noopener noreferrer nofollow">https://www.wmur.com/article/new-hampshire-drone-activity-121524/63195715</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>No credible reports of drone activity similar to NJ in NH15 Dec 2024 — Multiple reports of alleged drone sightings in New Hampshire a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/newhampshire/comments/1hdf37r/found_on_facebook_apparently_the_drones_in_nj_and/](https://www.reddit.com/r/newhampshire/comments/1hdf37r/found_on_facebook_apparently_the_drones_in_nj_and/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditFound on Facebook. Apparently the drones in NJ and NY...People were reporting sightings in South Manchester and their locations we...</p></details>
+   Link: <a href="https://www.reddit.com/r/newhampshire/comments/1hdf37r/found_on_facebook_apparently_the_drones_in_nj_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/newhampshire/comments/1hdf37r/found_on_facebook_apparently_the_drones_in_nj_and/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Found on Facebook. Apparently the drones in NJ and NY...People were reporting sightings in South Manchester and their locations we...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=124802](https://nuforc.org/sighting/?id=124802)  
+   Link: <a href="https://nuforc.org/sighting/?id=124802" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=124802</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 124802We saw a stationary triangular shape in the sky with red, green, and white lights. We assumed it was a plane at...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/xh44ot/possible_ufo_sighting_in_manchesternh_any_ideas/](https://www.reddit.com/r/UFOs/comments/xh44ot/possible_ufo_sighting_in_manchesternh_any_ideas/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/xh44ot/possible_ufo_sighting_in_manchesternh_any_ideas/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/xh44ot/possible_ufo_sighting_in_manchesternh_any_ideas/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>y ago. &quot;Drone&quot; at Manchester airport captured up close at ground...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: faa.gov  
    Title: uas sightings report  
-   Link: [https://www.faa.gov/uas/resources/public_records/uas_sightings_report](https://www.faa.gov/uas/resources/public_records/uas_sightings_report)  
+   Link: <a href="https://www.faa.gov/uas/resources/public_records/uas_sightings_report" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/uas/resources/public_records/uas_sightings_report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationDrone Sightings Near Airports7 Jan 2026 — The agency wants to send out a clear message that operating dron...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: theguardian.com  
    Title: The Guardian Mystery US drone sightings: what we know  
-   Link: [https://www.theguardian.com/technology/2024/dec/16/mystery-us-drone-sightings-what-we-know](https://www.theguardian.com/technology/2024/dec/16/mystery-us-drone-sightings-what-we-know)  
+   Link: <a href="https://www.theguardian.com/technology/2024/dec/16/mystery-us-drone-sightings-what-we-know" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/dec/16/mystery-us-drone-sightings-what-we-know</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports include sightings in residential areas, near military facilities, and above significant landmarks such as one of Donald Trump&#x27;s g...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/2024/dec/21/drones-new-jersey-experts](https://www.theguardian.com/technology/2024/dec/21/drones-new-jersey-experts)  
+   Link: <a href="https://www.theguardian.com/technology/2024/dec/21/drones-new-jersey-experts" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/dec/21/drones-new-jersey-experts</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beginning in New Jersey, reports have accumulated from multiple states, causing lawmakers and the public to suspect a swarm of drones, po...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: adip.faa.gov  
-   Link: [https://adip.faa.gov/agis/public/](https://adip.faa.gov/agis/public/)  
+   Link: <a href="https://adip.faa.gov/agis/public/" target="_blank" rel="noopener noreferrer nofollow">https://adip.faa.gov/agis/public/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>faa.govEffective: May 14, 2026Login to ADIP application to make changes to airport data. Instructions can be found here. (MHT) MANCHESTER...</p></details>
 
 ### Additional References
@@ -842,51 +834,51 @@ Within the wider pattern of modern New Hampshire reports, Manchester therefore s
 11. <a id="endnote-11"></a>
    Source: federalregister.gov  
    Title: amendment of class c airspace description manchester boston regional airport nh  
-   Link: [https://www.federalregister.gov/documents/2024/06/06/2024-12151/amendment-of-class-c-airspace-description-manchester-boston-regional-airport-nh](https://www.federalregister.gov/documents/2024/06/06/2024-12151/amendment-of-class-c-airspace-description-manchester-boston-regional-airport-nh)  
+   Link: <a href="https://www.federalregister.gov/documents/2024/06/06/2024-12151/amendment-of-class-c-airspace-description-manchester-boston-regional-airport-nh" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2024/06/06/2024-12151/amendment-of-class-c-airspace-description-manchester-boston-regional-airport-nh</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amendment of Class C Airspace Description; Manchester...6 Jun 2024 — This action amends the Manchester Boston Regional Airport (MHT), NH...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/465189970756446/posts/1585338408741591/](https://www.facebook.com/groups/465189970756446/posts/1585338408741591/)  
+   Link: <a href="https://www.facebook.com/groups/465189970756446/posts/1585338408741591/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/465189970756446/posts/1585338408741591/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Drone Sighting in Nashua, NH with Bright LightsThe flash of light you saw in the sky was not a UFO. Swamp gas from a weather b...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nhpr.org  
-   Link: [https://www.nhpr.org/2024-12-15/as-drone-sightings-spread-across-east-coast-federal-officials-still-dont-know-much](https://www.nhpr.org/2024-12-15/as-drone-sightings-spread-across-east-coast-federal-officials-still-dont-know-much)  
+   Link: <a href="https://www.nhpr.org/2024-12-15/as-drone-sightings-spread-across-east-coast-federal-officials-still-dont-know-much" target="_blank" rel="noopener noreferrer nofollow">https://www.nhpr.org/2024-12-15/as-drone-sightings-spread-across-east-coast-federal-officials-still-dont-know-much</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As drone sightings spread across East Coast, federal...15 Dec 2024 — Reports of drone sightings have spread from New Jersey to other sta...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: manchester.inklink.news  
-   Link: [https://manchester.inklink.news/whats-up-with-drones-faa-weighs-in/](https://manchester.inklink.news/whats-up-with-drones-faa-weighs-in/)  
+   Link: <a href="https://manchester.inklink.news/whats-up-with-drones-faa-weighs-in/" target="_blank" rel="noopener noreferrer nofollow">https://manchester.inklink.news/whats-up-with-drones-faa-weighs-in/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Manchester Ink LinkWhat&#x27;s up with drones? FAA weighs in - Manchester Ink Link14 Dec 2024 — &quot;Mystery&quot; drone sightings up and down the East...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: patch.com  
    Title: ufos arrive news see latest londonderry sighting  
-   Link: [https://patch.com/new-hampshire/londonderry/ufos-arrive-news-see-latest-londonderry-sighting](https://patch.com/new-hampshire/londonderry/ufos-arrive-news-see-latest-londonderry-sighting)  
+   Link: <a href="https://patch.com/new-hampshire/londonderry/ufos-arrive-news-see-latest-londonderry-sighting" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/new-hampshire/londonderry/ufos-arrive-news-see-latest-londonderry-sighting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As UFOs &#x27;Arrive&#x27; In News, See Latest Londonderry Sighting8 Jul 2019 — After reports that Navy pilots were encountering UFOs at hypersonic...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wmur9/posts/the-new-hampshire-department-of-safety-said-there-are-no-concerns-at-this-time-r/607923711735347/](https://www.facebook.com/wmur9/posts/the-new-hampshire-department-of-safety-said-there-are-no-concerns-at-this-time-r/607923711735347/)  
+   Link: <a href="https://www.facebook.com/wmur9/posts/the-new-hampshire-department-of-safety-said-there-are-no-concerns-at-this-time-r/607923711735347/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wmur9/posts/the-new-hampshire-department-of-safety-said-there-are-no-concerns-at-this-time-r/607923711735347/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>regarding drone sightings in the Granite State that have been...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=zj657dofKOQ](https://www.youtube.com/watch?v=zj657dofKOQ)  
+   Link: <a href="https://www.youtube.com/watch?v=zj657dofKOQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zj657dofKOQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hampton Law &amp;middot; 260K views; How the FAA is Catching Drone Pilots. Geeksvana &amp;middot; 394K views...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/QueenCityAlerts/videos/video-of-a-2nd-smaller-drone-over-293-friday-morning-courtesy-paige/926870359543957/](https://www.facebook.com/QueenCityAlerts/videos/video-of-a-2nd-smaller-drone-over-293-friday-morning-courtesy-paige/926870359543957/)  
+   Link: <a href="https://www.facebook.com/QueenCityAlerts/videos/video-of-a-2nd-smaller-drone-over-293-friday-morning-courtesy-paige/926870359543957/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/QueenCityAlerts/videos/video-of-a-2nd-smaller-drone-over-293-friday-morning-courtesy-paige/926870359543957/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in Manchester, New Hampshire.; Dave Atkinson. That&#x27;s on airport runway...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=HAJyZ2Zs7Wo](https://www.youtube.com/watch?v=HAJyZ2Zs7Wo)  
+   Link: <a href="https://www.youtube.com/watch?v=HAJyZ2Zs7Wo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HAJyZ2Zs7Wo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(4K) 20 MINUTES of MANCHESTER PLANESPOTTING! - Manchester-Boston Regional [KMHT/MHT]...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/465189970756446/posts/1584846758790756/](https://www.facebook.com/groups/465189970756446/posts/1584846758790756/)  
+   Link: <a href="https://www.facebook.com/groups/465189970756446/posts/1584846758790756/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/465189970756446/posts/1584846758790756/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Wednesday night and there were two drones over the...</p></details>

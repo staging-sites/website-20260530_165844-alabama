@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /delaware-5861e4-wilmington-1952-wave/
 description: Focused pages that expand on 1952 Wave.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Delaware_5861e4_wilmington_1952_wave_ff9c96
-parent_title: 1952 Wave | What Really Happened in Delaware's UFO...
+parent_title: 1952 Wave
 parent_nav_short_title: 1952 Wave
 parent_permalink: /1952-wave/
 ---

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /tennessee-1f4d4c-modern-report-patter/
 description: Focused pages that expand on Report Patterns.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Tennessee_1f4d4c_modern_report_patter_1bec66
-parent_title: Report Patterns | What Keeps Tennessee's UFO Stories Alive?
+parent_title: Report Patterns
 parent_nav_short_title: Report Patterns
 parent_permalink: /report-patterns-677669/
 ---

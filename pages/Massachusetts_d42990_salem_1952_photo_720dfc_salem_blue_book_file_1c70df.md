@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /salem-photo/
 nav_short_title: Blue Book
 title: Why did Blue Book leave Salem unresolved?
-title_full: Why did Blue Book leave Salem unresolved? | Salem Photo
+title_full: Why did Blue Book leave Salem unresolved?
 display_title_short: Blue Book
 display_title: Blue Book
 heading_title: Why did Blue Book leave Salem unresolved?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:37:21'
-parent_title: Why the Salem UFO Photo Still Divides Readers | Massachusetts UFOs
+parent_title: Why the Salem UFO Photo Still Divides Readers
 parent_permalink: /salem-photo/
 parent_nav_short_title: Salem Photo
 parent_heading_title: Why the Salem UFO Photo Still Divides Readers
@@ -252,14 +252,12 @@ image: /assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_blue_bo
 
 The **Salem 1952 photograph** — a grainy image showing four luminous shapes in a “V”‑formation above *Salem, [Massachusetts]({{ 'what-really-happened-in-massachusetts/' | relative_url }})* — holds a small but notable place in the history of UFO research in the United States because of **how it was treated by the U.S. Air Force’s official investigation programme, Project Blue Book**. Taken through a window by U.S. Coast Guard photographer Shell R. Alpert on **16 July 1952**, the photo was unusual for its era as a daytime image allegedly capturing unidentified aerial phenomena and quickly entered the federal UFO record. Yet what truly makes it significant in state‑level UFO history is the **evidence‑led way Blue Book processed, critiqued, and ultimately left the case unresolved**, illustrating both early investigative practice and the limits of photographic evidence in the 1950s.[ufologie.patrickgross.org]
 
-
-<img src="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_blue_book_file_1c70df-Illustration-1-light.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_blue_book_file_1c70df-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_blue_book_file_1c70df-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_blue_book_file_1c70df-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_blue_book_file_1c70df-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_blue_book_file_1c70df-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How the Photograph Entered Official Files
 
 When Alpert snapped the image from the photographic lab window at the Coast Guard Air Station in Salem on a clear July morning, he reported witnessing four bright objects roughly aligned above nearby structures. He and one colleague, Thomas E. Flaherty, later discussed what they saw, though accounts differ on exactly what each man observed. The original print and the negative were quickly sent upward through the Coast Guard chain of command, flown to Coast Guard Headquarters in Washington, and then forwarded to the **Air Force Intelligence Technical Officer at Wright‑Patterson Air Force Base** — the hub of *Project Blue Book’s* investigative effort.[ufologie.patrickgross.org]
 
-Project Blue Book logged this as **Case No. 1501** in its microfilmed archive at the **National Archives**. In the context of 1952 — a peak year for sightings that also included the famous Washington, D.C., radar‑visual events — even an ambiguous photograph grabbed attention because photographic records were comparatively rare and potentially concrete evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
-
+Project Blue Book logged this as **Case No. 1501** in its microfilmed archive at the **National Archives**. In the context of 1952 — a peak year for sightings that also included the famous Washington, D.C., radar‑visual events — even an ambiguous photograph grabbed attention because photographic records were comparatively rare and potentially concrete evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v9wUHdXmgQU" title="1952 UFO Sighting is Oldest Caught on Camera | The Proof Is Out There (Season 4) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer">1952 UFO Sighting is Oldest Caught on Camera | The Proof Is Out There (Season 4) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 84.7K &middot; Uploaded: October 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v9wUHdXmgQU">Open on YouTube</a></p></div></div></div>
 
@@ -272,28 +270,21 @@ Blue Book investigators initially treated the photo with sceptical scrutiny rath
 
 These alternative assessments did not treat the photograph as straightforward evidence of an aerial object distinct from mundane sources, but instead tested it against known photographic phenomena and practical optics. Both explanations were catalogued within the case file, reflecting the investigative practice of considering multiple conventional scenarios before declaring a sighting inexplicable.[RR0]
 
-
-<img src="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_blue_book_file_1c70df-Illustration-2-light.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_blue_book_file_1c70df-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_blue_book_file_1c70df-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_blue_book_file_1c70df-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_blue_book_file_1c70df-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_blue_book_file_1c70df-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What “Unexplained” Meant in Blue Book’s Conclusion
 
 Despite these provisional findings, Project Blue Book did **not issue a definitive identification** for the Salem photograph. After the 1952 analyses and in at least one later review, the Air Force officially classified the case as **“unexplained.”** This label did not constitute an affirmation of extraterrestrial origin, nor did it imply anything beyond saying that — within the limits of the available evidence — none of the tested mundane explanations was conclusively proven.[ufologie.patrickgross.org]
 
-For Blue Book, “unexplained” typically meant one of two things: either the evidence was too thin or ambiguous to warrant a confident identification, or the data set lacked sufficient corroborative detail (for example, radar tracking, multiple independent witnesses, or sequential imagery) to rule out conventional causes. As a single, static photograph taken through a window — where artefacts and reflections could not be technically ruled out — the Salem image fit this category. It remained archived among the small minority of cases Blue Book never fully resolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+For Blue Book, “unexplained” typically meant one of two things: either the evidence was too thin or ambiguous to warrant a confident identification, or the data set lacked sufficient corroborative detail (for example, radar tracking, multiple independent witnesses, or sequential imagery) to rule out conventional causes. As a single, static photograph taken through a window — where artefacts and reflections could not be technically ruled out — the Salem image fit this category. It remained archived among the small minority of cases Blue Book never fully resolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1cO5K1np2Ig" title="Project Blue Book Exposed (2020) [Documentary]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer">Project Blue Book Exposed (2020) [Documentary]</a></p><p class="youtube-embed-meta">Channel: CiNENET - Full movies in English &middot; Views: 16.8K &middot; Uploaded: January 2025 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1cO5K1np2Ig">Open on YouTube</a></p></div></div></div>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W89jh2C2Ry8" title="&#x27;Project Blue Book&#x27; Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W89jh2C2Ry8" target="_blank" rel="noopener noreferrer">&#x27;Project Blue Book&#x27; Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series</a></p><p class="youtube-embed-meta">Channel: SHOWTIME &middot; Views: 290.8K &middot; Uploaded: August 2021 &middot; Length: 1 minute 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W89jh2C2Ry8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W89jh2C2Ry8">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_blue_book_file_1c70df-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_blue_book_file_1c70df-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_blue_book_file_1c70df-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Project Blue Book’s Handling Still Matters
 
 The way Project Blue Book approached the Salem photograph offers insight into both **mid‑century investigative standards** and the **limitations of photographic UFO evidence**. Analysts went beyond simple acceptance of the witness’s account, tested technical explanations grounded in optics and camera effects, and were willing to shift hypotheses entirely in the face of uncertain evidence — ultimately stopping short of an identification not because they affirmed the photo’s extraterrestrial nature, but because the evidence could not conclusively settle on any explanation.[ufologie.patrickgross.org]
 
-This process underscores a recurring theme in UFO history: photographic records alone, especially those taken through intervening layers such as windows, often lack the contextual detail necessary to rule in or out mundane causes. In *Massachusetts*’ UFO record, the Salem case serves as a clear example of how fleeting visual evidence intersects with official scrutiny and why some cases — even when handled methodically — resist tidy closure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
+This process underscores a recurring theme in UFO history: photographic records alone, especially those taken through intervening layers such as windows, often lack the contextual detail necessary to rule in or out mundane causes. In *Massachusetts*’ UFO record, the Salem case serves as a clear example of how fleeting visual evidence intersects with official scrutiny and why some cases — even when handled methodically — resist tidy closure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National ArchivesJune 25, 2024...</span><span class="citation-popover-meta">Published: June 25, 2024</span></span></span>
 
-
-<img src="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_blue_book_file_1c70df-Illustration-3-light.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_blue_book_file_1c70df-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Massachusetts_d42990_salem_1952_photo_720dfc_salem_blue_book_file_1c70df-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W89jh2C2Ry8" title="&#x27;Project Blue Book&#x27; Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W89jh2C2Ry8" target="_blank" rel="noopener noreferrer">&#x27;Project Blue Book&#x27; Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series</a></p><p class="youtube-embed-meta">Channel: SHOWTIME &middot; Views: 290.8K &middot; Uploaded: August 2021 &middot; Length: 1 minute 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W89jh2C2Ry8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W89jh2C2Ry8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -716,61 +707,61 @@ This process underscores a recurring theme in UFO history: photographic records 
 
 1. <a id="endnote-1"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/bluebookpics1501.htm](https://ufologie.patrickgross.org/htm/bluebookpics1501.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/bluebookpics1501.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluebookpics1501.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ufo - UFOs at close sight: Project Blue Book case 1501, Salem, July 16, 1952...</p></details>
    Published: July 16, 1952  
 
 2. <a id="endnote-2"></a>
    Source: rr0.org  
    Title: UFO Sighting ‑ Salem, Massachusetts  
-   Link: [https://rr0.org/time/1/9/5/2/07/17/SalemReport/index.html](https://rr0.org/time/1/9/5/2/07/17/SalemReport/index.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RR0UFO Sighting ‑ Salem, Massachusetts...</p></details>
+   Link: <a href="https://rr0.org/time/1/9/5/2/07/17/SalemReport/index.html" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/time/1/9/5/2/07/17/SalemReport/index.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting ‑ Salem, Massachusetts...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National ArchivesJune 25, 2024...</p></details>
    Published: June 25, 2024  
 
 4. <a id="endnote-4"></a>
    Source: rr0.org  
-   Link: [https://rr0.org/science/crypto/ufo/enquete/dossier/Salem/](https://rr0.org/science/crypto/ufo/enquete/dossier/Salem/)  
+   Link: <a href="https://rr0.org/science/crypto/ufo/enquete/dossier/Salem/" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/science/crypto/ufo/enquete/dossier/Salem/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>La photographie de SalemApril 27, 2026 — LA PHOTOGRAPHIE DE SALEM La photographie de Salem le 16 juillet, prise à travers une fenêtre, do...</p></details>
    Published: April 27, 2026  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 5, 2019 — PUBLIC INTEREST IN UFOS PERSISTS 50 YEARS AFTER PROJECT BLUE BOOK TERMINATION By Jonathan Marker | National Archives N...</p></details>
    Published: December 5, 2019  
 
 6. <a id="endnote-6"></a>
    Source: ufology.patrickgross.org  
    Title: A 09:35 du matin, le témoin, Shell Alpert, a pris cette photogra  
-   Link: [https://ufology.patrickgross.org/htm/bluebookpics1501f.htm](https://ufology.patrickgross.org/htm/bluebookpics1501f.htm)  
+   Link: <a href="https://ufology.patrickgross.org/htm/bluebookpics1501f.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufology.patrickgross.org/htm/bluebookpics1501f.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Les OVNIS vus de près: Le cas 1501 du Projet Blue Book, Salem, 16 juillet 1952LE CAS 1501 DU PROJET BLUE BOOK: SALEM, 16 JUILLET 1952: Le...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ufology.patrickgross.org  
-   Link: [https://ufology.patrickgross.org/htm/bluepicsdiv.htm](https://ufology.patrickgross.org/htm/bluepicsdiv.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| Pre-Blue Book pictures, 1950 - 1951. | The McMinnville photographs by Paul Trent. | The Lubboc...</p></details>
+   Link: <a href="https://ufology.patrickgross.org/htm/bluepicsdiv.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufology.patrickgross.org/htm/bluepicsdiv.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pre-Blue Book pictures, 1950 - 1951. | The McMinnville photographs by Paul Trent. | The Lubboc...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ufologie.patrickgross.org  
    Title: For the US Air Force who conducted Project  
-   Link: [https://ufologie.patrickgross.org/htm/bluebooku52.htm](https://ufologie.patrickgross.org/htm/bluebooku52.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/bluebooku52.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluebooku52.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Project Blue Book unexplained cases summaries with witnesses names, 1952PROJECT BLUE BOOK UNEXPLAINED CASES SUMMARIE...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/bluepics51.htm](https://ufologie.patrickgross.org/htm/bluepics51.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/bluepics51.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/bluepics51.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: pictures from Project Blue Book Files, 1950-1951PROJECT BLUE BOOK: PICTURES FROM PROJECT BLUE BOOK: BLUE BOOK PHOTOG...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: britannica.com  
    Title: * Why was Project Blue Book started  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book | Definition, History, Aliens, UFOs, &amp; Facts | BritannicaPROJECT BLUE BOOK United States Air Force program Written by M...</p></details>
 
 ### Additional References
@@ -778,60 +769,60 @@ This process underscores a recurring theme in UFO history: photographic records 
 11. <a id="endnote-11"></a>
    Source: commons.wikimedia.org  
    Title: File:Project Blue Book report 1952 07 7274460 Salem Massachusetts 1501  
-   Link: [https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-07-7274460-Salem-Massachusetts-1501-.pdf](https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-07-7274460-Salem-Massachusetts-1501-.pdf)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-07-7274460-Salem-Massachusetts-1501-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1952-07-7274460-Salem-Massachusetts-1501-.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Project Blue Book report - 1952-07-7274460-Salem-Massachusetts-1501-.pdf - Wikimedia CommonsFILE:PROJECT BLUE BOOK REPO...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: todaysufovideos.com  
    Title: At 09:35 A.M., the witness, Shell Alpert, took this pic  
-   Link: [https://www.todaysufovideos.com/salem-massachusetts-ufo-july-16-1952-mobile.html](https://www.todaysufovideos.com/salem-massachusetts-ufo-july-16-1952-mobile.html)  
+   Link: <a href="https://www.todaysufovideos.com/salem-massachusetts-ufo-july-16-1952-mobile.html" target="_blank" rel="noopener noreferrer nofollow">https://www.todaysufovideos.com/salem-massachusetts-ufo-july-16-1952-mobile.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Salem Massachusetts UFO July 16,1952 | Today&#x27;s UFO VideosImage: Salem Massachusetts UFO July 16,1952 Project Blue Book case 1501: The cas...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: spiegel.de  
    Title: Project Blue Book: US-Wissenschaftler auf Ufo-Jagd  
-   Link: [https://www.spiegel.de/fotostrecke/project-blue-book-us-wissenschaftler-auf-ufo-jagd-fotostrecke-107598.html](https://www.spiegel.de/fotostrecke/project-blue-book-us-wissenschaftler-auf-ufo-jagd-fotostrecke-107598.html)  
+   Link: <a href="https://www.spiegel.de/fotostrecke/project-blue-book-us-wissenschaftler-auf-ufo-jagd-fotostrecke-107598.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spiegel.de/fotostrecke/project-blue-book-us-wissenschaftler-auf-ufo-jagd-fotostrecke-107598.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DER SPIEGELOctober 8, 2012 — &quot;PROJECT BLUE BOOK&quot; &quot;ICH WILL DIE ANTWORT AUF DIESE UNTERTASSEN-FRAGE!&quot; Sie jagten Marsmännchen nach wissens...</p></details>
    Published: October 8, 2012  
 
 14. <a id="endnote-14"></a>
    Source: spiegel.de  
    Title: Project Blue Book: US-Wissenschaftler auf Ufo-Jagd  
-   Link: [https://www.spiegel.de/geschichte/project-blue-book-us-wissenschaftler-auf-ufo-jagd-a-947746.html](https://www.spiegel.de/geschichte/project-blue-book-us-wissenschaftler-auf-ufo-jagd-a-947746.html)  
+   Link: <a href="https://www.spiegel.de/geschichte/project-blue-book-us-wissenschaftler-auf-ufo-jagd-a-947746.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spiegel.de/geschichte/project-blue-book-us-wissenschaftler-auf-ufo-jagd-a-947746.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DER SPIEGELOctober 8, 2012 — 16 Bilder &quot;Project Blue Book&quot;: &quot;Ich will die Antwort auf diese Untertassen-Frage!&quot; Image 1 / 16 Fliegende Un...</p></details>
    Published: October 8, 2012  
 
 15. <a id="endnote-15"></a>
    Source: eldritchoculum.com  
    Title: Salem UFO Sighting Original Photograph, c  
-   Link: [https://www.eldritchoculum.com/inventory/p/salem-ufo-sighting-original-photograph-c-1952](https://www.eldritchoculum.com/inventory/p/salem-ufo-sighting-original-photograph-c-1952)  
+   Link: <a href="https://www.eldritchoculum.com/inventory/p/salem-ufo-sighting-original-photograph-c-1952" target="_blank" rel="noopener noreferrer nofollow">https://www.eldritchoculum.com/inventory/p/salem-ufo-sighting-original-photograph-c-1952</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1952 — ELDRITCH OCULUM ANTIQUARIANImage: 22.png Image: IMG_5574.jpeg Image: IMG_5563.jpeg Image: IMG_5568.jpeg [Button: ] [Button: ] Imag...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: spookyvalley.com  
    Title: The Salem Coast Guard Photograph | Spooky Valley  
-   Link: [https://spookyvalley.com/events/salem-coast-guard-photo-1952](https://spookyvalley.com/events/salem-coast-guard-photo-1952)  
+   Link: <a href="https://spookyvalley.com/events/salem-coast-guard-photo-1952" target="_blank" rel="noopener noreferrer nofollow">https://spookyvalley.com/events/salem-coast-guard-photo-1952</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alpert captured four bright objects in V-formation through his window at the Coast Guard Air Station. The photograp...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: osi.af.mil  
    Title: (U.S. Air Force Projects Grudge  
-   Link: [https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/](https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/)  
+   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book Part 1 (UFO Reports) &gt; Office of Special Investigations &gt; DisplayAugust 6, 2020 — * Image: Reports 1-12 were monthly classified...</p></details>
    Published: August 6, 2020  
 
 18. <a id="endnote-18"></a>
    Source: theufodatabase.com  
    Title: 1952 salem ufo photo  
-   Link: [https://theufodatabase.com/incidents/1952-salem-ufo-photo](https://theufodatabase.com/incidents/1952-salem-ufo-photo)  
+   Link: <a href="https://theufodatabase.com/incidents/1952-salem-ufo-photo" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/incidents/1952-salem-ufo-photo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Coast Guard photographer, Shell Alpert. He spotted four luminous objects in a &quot;V&quot; formation outside of his photo lab window...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=v9wUHdXmgQU](https://www.youtube.com/watch?v=v9wUHdXmgQU)  
+   Link: <a href="https://www.youtube.com/watch?v=v9wUHdXmgQU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v9wUHdXmgQU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GcOCIabFnLE](https://www.youtube.com/watch?v=GcOCIabFnLE)  
+   Link: <a href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GcOCIabFnLE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Project Blue Book&#x27; Ep. 1 Official Clip | UFO | SHOWTIME Documentary Series...</p></details>

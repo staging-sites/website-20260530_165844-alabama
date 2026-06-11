@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-california-became-a-ufo-hotspot/
 nav_short_title: Records
 title: What Do California UFO Records Really Show?
-title_full: What Do California UFO Records Really Show? | California UFOs
+title_full: What Do California UFO Records Really Show?
 display_title_short: Records
 display_title: Records
 heading_title: What Do California UFO Records Really Show?
@@ -268,8 +268,7 @@ image: /assets/images/California_cf386e_california_ufo_recor_35af44-overview-soc
 
 ## Introduction
 
-[California]({{ 'why-california-became-a-ufo-hotspot/' | relative_url }}) UFO records show a real reporting pattern, but not a simple proof of unusual activity. The state appears heavily in federal files and civilian sighting databases because it has a large population, busy skies, a Pacific coastline, major military and aerospace activity, and a long history of media attention around unexplained lights. The important question is therefore not “does California have many UFO reports?” It does. The better question is what those records can and cannot tell us. Official archives preserve California cases as part of the historical UFO record, while modern databases collect thousands of public reports that vary widely in quality. Read carefully, the pattern points to a mixture of misidentifications, weakly documented sightings, hoaxes, aviation or space activity, and a smaller residue of cases that remain unidentified because the evidence is incomplete rather than because an extraordinary answer has been proved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
+California UFO records show a real reporting pattern, but not a simple proof of unusual activity. The state appears heavily in federal files and civilian sighting databases because it has a large population, busy skies, a Pacific coastline, major military and aerospace activity, and a long history of media attention around unexplained lights. The important question is therefore not “does California have many UFO reports?” It does. The better question is what those records can and cannot tell us. Official archives preserve California cases as part of the historical UFO record, while modern databases collect thousands of public reports that vary widely in quality. Read carefully, the pattern points to a mixture of misidentifications, weakly documented sightings, hoaxes, aviation or space activity, and a smaller residue of cases that remain unidentified because the evidence is incomplete rather than because an extraordinary answer has been proved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44-overview.webp" | relative_url }}" alt="Overview image for Records" loading="eager" decoding="sync" fetchpriority="high">
 ## Why California looks so large in UFO records
@@ -292,8 +291,7 @@ Blue Book’s own official summary is also important for reading California mate
 
 For California, the key lesson is that federal preservation does not equal validation. A file may matter because it documents a witness claim, a photograph, an interview, a radar note, a press clipping, or an official investigative decision. It does not automatically mean the event was anomalous.
 
-
-<img src="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44-Illustration-1-light.svg" | relative_url }}" alt="Records illustration 1" data-theme-src-dark="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44-Illustration-1-dark.svg" | relative_url }}" alt="Records illustration 1" data-theme-src-dark="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Federal case files: what a California example teaches
 
 A useful California example comes from Riverside in 1951. According to a National Archives discussion of Blue Book files, a man in Riverside took a photograph on 23 November 1951 and sold it to the Los Angeles Bureau of Acme News Pictures. The Air Force did not begin with a direct witness report; it opened the investigation after a newspaper article drew attention to the photograph. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">Pieces of History UFOs: Man-Made, Made Up, and Unknown – Pieces of History</span><span class="citation-popover-snippet">Pieces of History UFOs: Man-Made, Made Up, and Unknown – Pieces of History</span></span></span>
@@ -314,7 +312,6 @@ But the same features make the data hazardous if treated as a clean scientific s
 
 For California, the best use of civilian totals is comparative and diagnostic: Where are reports clustering? Do they follow population centres? Do they line up with rocket launches, military activity, airports, coastlines, or tourist areas? Are many reports short-duration lights, fireballs, triangles, or orbs? Are there multiple independent witnesses, images, radar, pilot reports, or official follow-up? The raw count is only the first clue.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YdD7Tw2sHfQ" title="US releases files on UFOs, decades of sightings revealed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YdD7Tw2sHfQ" target="_blank" rel="noopener noreferrer">US releases files on UFOs, decades of sightings revealed</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 63.8K &middot; Uploaded: May 2026 &middot; Length: 1 minute 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YdD7Tw2sHfQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YdD7Tw2sHfQ">Open on YouTube</a></p></div></div></div>
 
 ## The three strongest patterns in California reports
@@ -329,15 +326,15 @@ California’s report pattern is best understood as an interaction between peopl
 
 A good California records page therefore has to resist two opposite mistakes. One mistake is to say the numbers prove extraordinary activity. The other is to say large numbers are meaningless. They are meaningful, but mainly as a map of reporting conditions, not as a direct measurement of alien visitation or exotic technology.
 
-
-<img src="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44-Illustration-2-light.svg" | relative_url }}" alt="Records illustration 2" data-theme-src-dark="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44-Illustration-2-dark.svg" | relative_url }}" alt="Records illustration 2" data-theme-src-dark="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why “unidentified” is not the same as “extraordinary”
 
 The word “unidentified” does a lot of misleading work in UFO culture. In an archive, it often means that investigators did not have enough reliable information to reach a conventional identification. That is different from showing that no conventional explanation is possible.
 
 The National Archives’ own discussion of Blue Book makes this point plainly. It notes that some cases were explained by natural phenomena, man-made objects, fabrications, or weak evidence, while a smaller remainder stayed unknown. It also stresses that “unidentified” does not mean alien and does not mean impossible; it means the object was not readily identifiable from the available record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">Pieces of History UFOs: Man-Made, Made Up, and Unknown – Pieces of History</span><span class="citation-popover-snippet">Pieces of History UFOs: Man-Made, Made Up, and Unknown – Pieces of History</span></span></span>
 
-Modern UAP offices face a similar problem. In a 2024 media roundtable, AARO’s director said the office had received more than 1,600 UAP reports, resolved hundreds to commonplace objects such as balloons, birds, drones, satellites, and aircraft, and retained more than 900 reports because they lacked sufficient scientific data for analysis. He also said AARO had found no verifiable evidence of extraterrestrial beings, activity, or technology, while noting a geographic bias in reports near U.S. military assets and sensors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript ||
+Modern UAP offices face a similar problem. In a 2024 media roundtable, AARO’s director said the office had received more than 1,600 UAP reports, resolved hundreds to commonplace objects such as balloons, birds, drones, satellites, and aircraft, and retained more than 900 reports because they lacked sufficient scientific data for analysis. He also said AARO had found no verifiable evidence of extraterrestrial beings, activity, or technology, while noting a geographic bias in reports near U.S. military assets and sensors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript &#124;...</span></span></span>(#endnote-8 "Snippet: Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP > U.S. Department of War > Transcript |...")
+
 That modern statement is highly relevant to California. The state has the very conditions likely to create both good reports and biased report clusters: military assets, sensors, aviation activity, coastline, and public attention. A cluster near a base may reflect something genuinely worth investigating, but it may also reflect where trained observers, restricted airspace, and detection systems are concentrated.
 
 ## How to read California UFO records without being fooled
@@ -347,7 +344,6 @@ A useful California UFO record is not simply the most dramatic one. It is the on
 A weak record may still be sincere, but it is hard to use. Reports such as “a bright orb moved fast over Los Angeles” or “a triangle hovered near the coast” may sound striking, yet without timing, direction, altitude estimate, camera metadata, or comparison objects, they can be impossible to separate from aircraft, drones, balloons, satellites, meteors, or optical effects.
 
 Several quick tests help:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -361,7 +357,6 @@ Several quick tests help:
 
 NASA’s UAP work points in the same direction. Its public FAQ says the independent study was aimed at how UAP should be evaluated using data, technology, and the tools of science, not at reviewing old incidents. That is a useful standard for California archives: old records can be historically important, but many were not collected with today’s expectations for calibrated sensors, metadata, and repeatable analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bvMMzkJAr_A" title="Thousands of UFOs spotted off US coastlines | ChicagoLIVE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bvMMzkJAr_A" target="_blank" rel="noopener noreferrer">Thousands of UFOs spotted off US coastlines | ChicagoLIVE</a></p><p class="youtube-embed-meta">Channel: FOX 32 Chicago &middot; Views: 23.7K &middot; Uploaded: November 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bvMMzkJAr_A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bvMMzkJAr_A">Open on YouTube</a></p></div></div></div>
 
 ## What California records strengthen and what they weaken
@@ -374,8 +369,7 @@ They also weaken blanket scepticism. Some reports are hoaxes or obvious misident
 
 That distinction matters for California’s wider UFO history. The archives are not a trophy cabinet of solved mysteries or proof texts. They are a record of how claims moved through witnesses, media, military offices, civilian databases, and later reinterpretation. Read that way, California becomes one of the best states for studying not just UFO sightings, but the machinery of UFO reporting itself.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHeZjJgO9Ns" title="UFO Project Blue Book at National Archives Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer">UFO Project Blue Book at National Archives Museum</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 352.6K &middot; Uploaded: December 2019 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHeZjJgO9Ns">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_taOmWSRZMc" title="Montebello, California, 12/01/1957" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_taOmWSRZMc" target="_blank" rel="noopener noreferrer">Montebello, California, 12/01/1957</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 92.5K &middot; Uploaded: October 2013 &middot; Length: 1 minute 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_taOmWSRZMc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_taOmWSRZMc">Open on YouTube</a></p></div></div></div>
 
 ## The bottom line for California UFO records
 
@@ -383,8 +377,7 @@ California UFO records really show three things at once. First, the state is a m
 
 The most reliable approach is therefore neither credulous nor dismissive. Start with the archive. Check the report path. Look for original evidence. Compare the sighting with aircraft, satellites, launches, balloons, drones, weather, and astronomy. Give more weight to cases with independent witnesses and data. Treat “unidentified” as a status of evidence, not a conclusion about origin.
 
-
-<img src="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44-Illustration-3-light.svg" | relative_url }}" alt="Records illustration 3" data-theme-src-dark="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44-Illustration-3-dark.svg" | relative_url }}" alt="Records illustration 3" data-theme-src-dark="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/California_cf386e_california_ufo_recor_35af44-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -472,7 +465,7 @@ The most reliable approach is therefore neither credulous nor dismissive. Start 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -482,111 +475,36 @@ The most reliable approach is therefore neither credulous nor dismissive. Start 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fantastic Universe: UFOs in New York Poster Print"><img src="{{ '/assets/images/marketplace-covers/05757915e541985e0d09.jpg' | relative_url }}" alt="Listing image for Fantastic Universe: UFOs in New York Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-california-ufo-records-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-california-ufo-records-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Fantastic Universe: UFOs in New York Poster Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-california-ufo-records-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-california-ufo-records-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-california-ufo-records-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-california-ufo-records-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos Are Real Movie Poster 24in x 36in"><img src="{{ '/assets/images/marketplace-covers/57c2ef8a8cf67dcf7d90.jpg' | relative_url }}" alt="Listing image for Ufos Are Real Movie Poster 24in x 36in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos Are Real Movie Poster 24in x 36in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/b49d39f7c3d71bb9db4c.jpg' | relative_url }}" alt="Listing image for Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Alien Invasion - UFOs, Sci-Fi Concept Art, Futuristic Scene Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank"><img src="{{ '/assets/images/marketplace-covers/6ece6b51848014fd2ddd.jpg' | relative_url }}" alt="Listing image for UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFOs EXIST Flying Saucer X-Files Conspiracy Poster/Print signed by artist Frank</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.com</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-california-ufo-records-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-california-ufo-records-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -594,15 +512,15 @@ The most reliable approach is therefore neither credulous nor dismissive. Start 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-california-ufo-records-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-california-ufo-records-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-california-ufo-records-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-california-ufo-records-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-california-ufo-records-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-california-ufo-records-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-california-ufo-records-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-california-ufo-records-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -610,15 +528,15 @@ The most reliable approach is therefore neither credulous nor dismissive. Start 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-california-ufo-records-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-california-ufo-records-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-california-ufo-records-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-california-ufo-records-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-california-ufo-records-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-california-ufo-records-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-california-ufo-records-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-california-ufo-records-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -626,15 +544,15 @@ The most reliable approach is therefore neither credulous nor dismissive. Start 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16e01fe64ac4e2fea2e8.jpg' | relative_url }}" alt="Listing image for remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-california-ufo-records-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-california-ufo-records-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">remendous Interest - UFOs Are Real Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-california-ufo-records-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-california-ufo-records-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-california-ufo-records-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-california-ufo-records-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-california-ufo-records-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-california-ufo-records-really-show-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -642,7 +560,7 @@ The most reliable approach is therefore neither credulous nor dismissive. Start 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-what-do-california-ufo-records-really-show-california-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-california-ufo-records-really-show-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-do-california-ufo-records-really-show-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -719,17 +637,31 @@ The most reliable approach is therefore neither credulous nor dismissive. Start 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -742,42 +674,73 @@ The most reliable approach is therefore neither credulous nor dismissive. Start 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -792,12 +755,17 @@ The most reliable approach is therefore neither credulous nor dismissive. Start 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -807,268 +775,268 @@ The most reliable approach is therefore neither credulous nor dismissive. Start 
 
 1. <a id="endnote-1"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download](https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download)  
+   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 3. <a id="endnote-3"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lCA](https://nuforc.org/subndx/?id=lCA)  
+   Link: <a href="https://nuforc.org/subndx/?id=lCA" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lCA</a>  
 
 4. <a id="endnote-4"></a>
    Source: census.gov  
    Title: U.S. Census Bureau Quick Facts: California  
-   Link: [https://www.census.gov/quickfacts/fact/table/CA/PST045225](https://www.census.gov/quickfacts/fact/table/CA/PST045225)  
+   Link: <a href="https://www.census.gov/quickfacts/fact/table/CA/PST045225" target="_blank" rel="noopener noreferrer nofollow">https://www.census.gov/quickfacts/fact/table/CA/PST045225</a>  
 
 5. <a id="endnote-5"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/by_the_numbers](https://www.faa.gov/air_traffic/by_the_numbers)  
+   Link: <a href="https://www.faa.gov/air_traffic/by_the_numbers" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/by_the_numbers</a>  
 
 6. <a id="endnote-6"></a>
    Source: prologue.blogs.archives.gov  
    Title: Pieces of History UFOs: Man-Made, Made Up, and Unknown – Pieces of History  
-   Link: [https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/](https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/23/ufos-man-made-made-up-and-unknown/</a>  
 
 7. <a id="endnote-7"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html](https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/atc_html/chap9_section_8.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Jon Kosloski, Director, AARO, Media Roundtable on the FY24 Consolidated Annual Report on UAP &gt; U.S. Department of War &gt; Transcript |...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 11. <a id="endnote-11"></a>
    Source: prologue.blogs.archives.gov  
    Title: ufos natural explanations  
-   Link: [https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/](https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
 
 12. <a id="endnote-12"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/foia/ufos.html](https://www.archives.gov/foia/ufos.html)  
+   Link: <a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/moving-images-and-sound](https://www.archives.gov/research/topics/uaps/moving-images-and-sound)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
 15. <a id="endnote-15"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/photographs](https://www.archives.gov/research/topics/uaps/photographs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
 
 16. <a id="endnote-16"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: project blue book ufos in home movies  
-   Link: [https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/](https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/10/28/project-blue-book-ufos-in-home-movies/</a>  
 
 17. <a id="endnote-17"></a>
    Source: prologue.blogs.archives.gov  
    Title: invasion of privacy  
-   Link: [https://prologue.blogs.archives.gov/2018/04/09/invasion-of-privacy/](https://prologue.blogs.archives.gov/2018/04/09/invasion-of-privacy/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/09/invasion-of-privacy/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/09/invasion-of-privacy/</a>  
 
 18. <a id="endnote-18"></a>
    Source: archives.gov  
    Title: textual and microfilm  
-   Link: [https://www.archives.gov/research/topics/uaps/textual-and-microfilm](https://www.archives.gov/research/topics/uaps/textual-and-microfilm)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
 
 19. <a id="endnote-19"></a>
    Source: prologue.blogs.archives.gov  
    Title: saucers over washington the history of project blue book  
-   Link: [https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/](https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
 
 20. <a id="endnote-20"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-collections](https://www.archives.gov/research/topics/uaps/rg-collections)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
 
 21. <a id="endnote-21"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/news/articles](https://www.archives.gov/news/articles)  
+   Link: <a href="https://www.archives.gov/news/articles" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles</a>  
 
 22. <a id="endnote-22"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/presidential-libraries](https://www.archives.gov/research/topics/uaps/presidential-libraries)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
 
 23. <a id="endnote-23"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 24. <a id="endnote-24"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 26. <a id="endnote-26"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Submit-A-Report/](https://www.aaro.mil/Submit-A-Report/)  
+   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
 
 27. <a id="endnote-27"></a>
    Source: faa.gov  
    Title: document ID  
-   Link: [https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304](https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304)  
+   Link: <a href="https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/orders_notices/index.cfm/go/document.information/documentID/1044304</a>  
 
 28. <a id="endnote-28"></a>
    Source: faa.gov  
    Title: air traffic by the numbers FY2024  
-   Link: [https://www.faa.gov/air_traffic/by_the_numbers/air-traffic-by-the-numbers-FY2024.pdf](https://www.faa.gov/air_traffic/by_the_numbers/air-traffic-by-the-numbers-FY2024.pdf)  
+   Link: <a href="https://www.faa.gov/air_traffic/by_the_numbers/air-traffic-by-the-numbers-FY2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/by_the_numbers/air-traffic-by-the-numbers-FY2024.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lNV](https://nuforc.org/subndx/?id=lNV)  
+   Link: <a href="https://nuforc.org/subndx/?id=lNV" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lNV</a>  
 
 30. <a id="endnote-30"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
 
 31. <a id="endnote-31"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/map/](https://nuforc.org/map/)  
+   Link: <a href="https://nuforc.org/map/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/map/</a>  
 
 32. <a id="endnote-32"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=51321](https://nuforc.org/sighting/?id=51321)  
+   Link: <a href="https://nuforc.org/sighting/?id=51321" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=51321</a>  
 
 33. <a id="endnote-33"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=51166](https://nuforc.org/sighting/?id=51166)  
+   Link: <a href="https://nuforc.org/sighting/?id=51166" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=51166</a>  
 
 34. <a id="endnote-34"></a>
    Source: nuforc.org  
    Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   Link: <a href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/databank/</a>  
 
 35. <a id="endnote-35"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=all](https://nuforc.org/subndx/?id=all)  
+   Link: <a href="https://nuforc.org/subndx/?id=all" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=all</a>  
 
 36. <a id="endnote-36"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=188813](https://nuforc.org/sighting/?id=188813)  
+   Link: <a href="https://nuforc.org/sighting/?id=188813" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=188813</a>  
 
 37. <a id="endnote-37"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
+   Link: <a href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/</a>  
 
 38. <a id="endnote-38"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 39. <a id="endnote-39"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 40. <a id="endnote-40"></a>
    Source: space.com  
    Title: nasa astronaut scott kelly ufos uap worth investigating  
-   Link: [https://www.space.com/nasa-astronaut-scott-kelly-ufos-uap-worth-investigating](https://www.space.com/nasa-astronaut-scott-kelly-ufos-uap-worth-investigating)  
+   Link: <a href="https://www.space.com/nasa-astronaut-scott-kelly-ufos-uap-worth-investigating" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-astronaut-scott-kelly-ufos-uap-worth-investigating</a>  
 
 41. <a id="endnote-41"></a>
    Source: space.com  
    Title: 39200 spacex rocket launch not ufo spectactular photos  
-   Link: [https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html](https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html)  
+   Link: <a href="https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39200-spacex-rocket-launch-not-ufo-spectactular-photos.html</a>  
 
 42. <a id="endnote-42"></a>
    Source: independent.com  
-   Link: [https://www.independent.com/2025/12/28/in-new-doc-the-age-of-disclosure-military-servicemen-expose-more-details-about-ufos-at-vandenberg/](https://www.independent.com/2025/12/28/in-new-doc-the-age-of-disclosure-military-servicemen-expose-more-details-about-ufos-at-vandenberg/)  
+   Link: <a href="https://www.independent.com/2025/12/28/in-new-doc-the-age-of-disclosure-military-servicemen-expose-more-details-about-ufos-at-vandenberg/" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.com/2025/12/28/in-new-doc-the-age-of-disclosure-military-servicemen-expose-more-details-about-ufos-at-vandenberg/</a>  
 
 43. <a id="endnote-43"></a>
    Source: sfchronicle.com  
    Title: San Francisco Chronicle Space X launch lights up Bay Area skies  
-   Link: [https://www.sfchronicle.com/bayarea/article/spacex-falcon-9-starlink-launch-20053824.php](https://www.sfchronicle.com/bayarea/article/spacex-falcon-9-starlink-launch-20053824.php)  
+   Link: <a href="https://www.sfchronicle.com/bayarea/article/spacex-falcon-9-starlink-launch-20053824.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfchronicle.com/bayarea/article/spacex-falcon-9-starlink-launch-20053824.php</a>  
 
 44. <a id="endnote-44"></a>
    Source: gis.data.ca.gov  
-   Link: [https://gis.data.ca.gov/datasets/082f0a402b354e53a7df995de3317fe2_0/about](https://gis.data.ca.gov/datasets/082f0a402b354e53a7df995de3317fe2_0/about)  
+   Link: <a href="https://gis.data.ca.gov/datasets/082f0a402b354e53a7df995de3317fe2_0/about" target="_blank" rel="noopener noreferrer nofollow">https://gis.data.ca.gov/datasets/082f0a402b354e53a7df995de3317fe2_0/about</a>  
 
 45. <a id="endnote-45"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 46. <a id="endnote-46"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 47. <a id="endnote-47"></a>
    Source: catalog.hathitrust.org  
-   Link: [https://catalog.hathitrust.org/Record/102562668](https://catalog.hathitrust.org/Record/102562668)  
+   Link: <a href="https://catalog.hathitrust.org/Record/102562668" target="_blank" rel="noopener noreferrer nofollow">https://catalog.hathitrust.org/Record/102562668</a>  
 
 48. <a id="endnote-48"></a>
    Source: aviationacrossamerica.org  
-   Link: [https://aviationacrossamerica.org/economic-impact/california/](https://aviationacrossamerica.org/economic-impact/california/)  
+   Link: <a href="https://aviationacrossamerica.org/economic-impact/california/" target="_blank" rel="noopener noreferrer nofollow">https://aviationacrossamerica.org/economic-impact/california/</a>  
 
 49. <a id="endnote-49"></a>
    Source: usafacts.org  
-   Link: [https://usafacts.org/answers/how-many-people-live-in-the-us/state/california/](https://usafacts.org/answers/how-many-people-live-in-the-us/state/california/)  
+   Link: <a href="https://usafacts.org/answers/how-many-people-live-in-the-us/state/california/" target="_blank" rel="noopener noreferrer nofollow">https://usafacts.org/answers/how-many-people-live-in-the-us/state/california/</a>  
 
 ### Additional References
 
 50. <a id="endnote-50"></a>
    Source: youtube.com  
    Title: Government Breaks Silence: Strange Encounters | UFO's Investigating the Unknown  
-   Link: [https://www.youtube.com/watch?v=4214_Nation](https://www.youtube.com/watch?v=4214_Nation)  
+   Link: <a href="https://www.youtube.com/watch?v=4214_Nation" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4214_Nation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book&#x27;s J. Allen Hynek&#x27;s Son Paul On His Famous Father | Talking Strange...</p></details>
 
 51. <a id="endnote-51"></a>
    Source: youtube.com  
    Title: Thousands of UFOs spotted off US coastlines | Chicago LIVE  
-   Link: [https://www.youtube.com/watch?v=bvMMzkJAr_A](https://www.youtube.com/watch?v=bvMMzkJAr_A)  
+   Link: <a href="https://www.youtube.com/watch?v=bvMMzkJAr_A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bvMMzkJAr_A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Breaks Silence: Strange Encounters | UFO&#x27;s Investigating the Unknown...</p></details>
 
 52. <a id="endnote-52"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 53. <a id="endnote-53"></a>
    Source: youtube.com  
    Title: US releases files on UFOs, decades of sightings revealed  
-   Link: [https://www.youtube.com/watch?v=YdD7Tw2sHfQ](https://www.youtube.com/watch?v=YdD7Tw2sHfQ)  
+   Link: <a href="https://www.youtube.com/watch?v=YdD7Tw2sHfQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YdD7Tw2sHfQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of UFOs spotted off US coastlines | ChicagoLIVE...</p></details>
 
 54. <a id="endnote-54"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
 55. <a id="endnote-55"></a>
    Source: aiaa.org  
-   Link: [https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf](https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf)  
+   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
 
 56. <a id="endnote-56"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/deepuniversee/posts/an-alleged-fbi-sketch-claiming-to-show-a-massive-ufo-measuring-130-to-195-feet-a/962706433193912/](https://www.facebook.com/deepuniversee/posts/an-alleged-fbi-sketch-claiming-to-show-a-massive-ufo-measuring-130-to-195-feet-a/962706433193912/)  
+   Link: <a href="https://www.facebook.com/deepuniversee/posts/an-alleged-fbi-sketch-claiming-to-show-a-massive-ufo-measuring-130-to-195-feet-a/962706433193912/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/an-alleged-fbi-sketch-claiming-to-show-a-massive-ufo-measuring-130-to-195-feet-a/962706433193912/</a>  
 
 57. <a id="endnote-57"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WJBKFox2Detroit/posts/california-and-florida-lead-in-coastal-ufo-reports-as-experts-question-governmen/1233605595481342/](https://www.facebook.com/WJBKFox2Detroit/posts/california-and-florida-lead-in-coastal-ufo-reports-as-experts-question-governmen/1233605595481342/)  
+   Link: <a href="https://www.facebook.com/WJBKFox2Detroit/posts/california-and-florida-lead-in-coastal-ufo-reports-as-experts-question-governmen/1233605595481342/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WJBKFox2Detroit/posts/california-and-florida-lead-in-coastal-ufo-reports-as-experts-question-governmen/1233605595481342/</a>  
 
 58. <a id="endnote-58"></a>
    Source: transportation.org  
-   Link: [https://transportation.org/aviation/wp-content/uploads/sites/11/2023/04/California-UAS-Operations-Gary-Cathey1.pdf](https://transportation.org/aviation/wp-content/uploads/sites/11/2023/04/California-UAS-Operations-Gary-Cathey1.pdf)  
+   Link: <a href="https://transportation.org/aviation/wp-content/uploads/sites/11/2023/04/California-UAS-Operations-Gary-Cathey1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://transportation.org/aviation/wp-content/uploads/sites/11/2023/04/California-UAS-Operations-Gary-Cathey1.pdf</a>  
 
 59. <a id="endnote-59"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SFGate/posts/cancellations-at-major-calif-airports-top-130-on-first-day-of-faa-flight-cutsrea/1296458489193222/](https://www.facebook.com/SFGate/posts/cancellations-at-major-calif-airports-top-130-on-first-day-of-faa-flight-cutsrea/1296458489193222/)  
+   Link: <a href="https://www.facebook.com/SFGate/posts/cancellations-at-major-calif-airports-top-130-on-first-day-of-faa-flight-cutsrea/1296458489193222/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SFGate/posts/cancellations-at-major-calif-airports-top-130-on-first-day-of-faa-flight-cutsrea/1296458489193222/</a>

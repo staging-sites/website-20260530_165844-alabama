@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /portage-chase/
 nav_short_title: Buchert photo
 title: Did the Buchert photo prove anything?
-title_full: Did the Buchert photo prove anything? | Portage Chase
+title_full: Did the Buchert photo prove anything?
 display_title_short: Buchert photo
 display_title: Buchert photo
 heading_title: Did the Buchert photo prove anything?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:01:34'
-parent_title: Why Did Police Chase a UFO? | Ohio UFOs
+parent_title: Why Did Police Chase a UFO?
 parent_permalink: /portage-chase/
 parent_nav_short_title: Portage Chase
 parent_heading_title: Why Did Police Chase a UFO?
@@ -252,21 +252,18 @@ image: /assets/images/Ohio_d318c1_portage_county_chase_c51786_buchert_photo_limi
 
 The Portage County police chase is often remembered as a story of officers pursuing a strange light across Ohio and into Pennsylvania. Yet one reason the case remained famous is that it seemed to offer something more than eyewitness testimony. Mantua police chief Gerald Buchert said he saw the same object and photographed it. For supporters of the case, the photograph suggested independent evidence from a separate witness. For sceptics, it demonstrated a recurring problem in UFO history: a photograph can appear important simply because it exists, even when the image itself is too unclear to settle anything.
 
-
-<img src="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_buchert_photo_limits_f1d552-Illustration-1-light.svg" | relative_url }}" alt="Buchert photo illustration 1" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_buchert_photo_limits_f1d552-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_buchert_photo_limits_f1d552-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_buchert_photo_limits_f1d552-Illustration-1-dark.svg" | relative_url }}" alt="Buchert photo illustration 1" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_buchert_photo_limits_f1d552-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_buchert_photo_limits_f1d552-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The Buchert photograph occupies an awkward middle ground. It is not usually dismissed as a complete invention, but neither is it regarded as strong proof of an extraordinary object. Instead, it has become an example of how visual evidence can strengthen a case without resolving it.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WJP8OxZr2kE" title="UFO Case Review - Portage County UFO Chase, 1966" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WJP8OxZr2kE" target="_blank" rel="noopener noreferrer">UFO Case Review - Portage County UFO Chase, 1966</a></p><p class="youtube-embed-meta">Channel: UFOCaseReview &middot; Views: 23.4K &middot; Uploaded: August 2013 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WJP8OxZr2kE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WJP8OxZr2kE">Open on YouTube</a></p></div></div></div>
 
 ## What Buchert said he photographed
 
-During the early-morning events of 17 April 1966, reports of an unusual object were spreading through police radio channels in north-eastern Ohio. Gerald Buchert, chief of police in Mantua, later said he observed the object and took photographs of it from near his home. Contemporary and later accounts place his sighting within the same broad time frame as the Portage County chase. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.clevescene.com/news/strangers-in-the-night-1485939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clevescene.com">[Cleveland Scene]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clevescene.com</span><span class="citation-popover-title">strangers in the night 1485939</span><span class="citation-popover-snippet">Cleveland SceneStrangers in the Night31 Mar 2004 — In 1966, Ohio cops chased a UFO into Pennsylvania. Then the government got involved, a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/the-portager/seeing-a-ufo-ruined-dale-spaurs-life-f86bab152368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">MediumSeeing a UFO ruined Dale Spaur&#x27;s life | by Ben WolfordHe thought the “UFO buffs” were manipulating politicians and the press to sto...</span></span></span> Buchert's importance to the story comes from the fact that he was not simply repeating what Deputies Dale Spaur and Wilbur Neff had reported. He claimed his own observation. Later retellings describe him saying that the object appeared round when viewed from below and more saucer-like when seen from the side. He also argued that it showed movement relative to fixed landmarks, including telephone wires, which was one reason he rejected later explanations that centred on a distant astronomical object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.clevescene.com/news/strangers-in-the-night-1485939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clevescene.com">[Cleveland Scene]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clevescene.com</span><span class="citation-popover-title">strangers in the night 1485939</span><span class="citation-popover-snippet">Cleveland SceneStrangers in the Night31 Mar 2004 — In 1966, Ohio cops chased a UFO into Pennsylvania. Then the government got involved, a...</span></span></span>
+During the early-morning events of 17 April 1966, reports of an unusual object were spreading through police radio channels in north-eastern Ohio. Gerald Buchert, chief of police in Mantua, later said he observed the object and took photographs of it from near his home. Contemporary and later accounts place his sighting within the same broad time frame as the Portage County chase. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.clevescene.com/news/strangers-in-the-night-1485939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clevescene.com">[Cleveland Scene]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clevescene.com</span><span class="citation-popover-title">strangers in the night 1485939</span><span class="citation-popover-snippet">Cleveland SceneStrangers in the Night31 Mar 2004 — In 1966, Ohio cops chased a UFO into Pennsylvania. Then the government got involved, a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/the-portager/seeing-a-ufo-ruined-dale-spaurs-life-f86bab152368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Seeing a UFO ruined Dale Spaur&#x27;s life &#124; by Ben WolfordHe thought the “UFO buffs” were manipulating politicians and the press to sto...</span></span></span> Buchert's importance to the story comes from the fact that he was not simply repeating what Deputies Dale Spaur and Wilbur Neff had reported. He claimed his own observation. Later retellings describe him saying that the object appeared round when viewed from below and more saucer-like when seen from the side. He also argued that it showed movement relative to fixed landmarks, including telephone wires, which was one reason he rejected later explanations that centred on a distant astronomical object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.clevescene.com/news/strangers-in-the-night-1485939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clevescene.com">[Cleveland Scene]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clevescene.com</span><span class="citation-popover-title">strangers in the night 1485939</span><span class="citation-popover-snippet">Cleveland SceneStrangers in the Night31 Mar 2004 — In 1966, Ohio cops chased a UFO into Pennsylvania. Then the government got involved, a...</span></span></span>
 
 Only one image from Buchert's attempt at photography is usually discussed. Reports describe most of the photographs as overexposed or unusable, leaving a single indistinct image that UFO researchers and sceptics have debated ever since. The surviving reproduction generally appears as a blurry bright form against a dark background rather than a detailed picture of a structured craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weirddarkness.com/portage-county-ufo-chase-1966/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weirddarkness.com">[Weird Darkness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weirddarkness.com</span><span class="citation-popover-title">portage county ufo chase 1966</span><span class="citation-popover-snippet">Weird DarknessThe 1966 Portage County UFO Chase: What Five Officers SawMantua Police Chief Gerald Buchert, whose photographs of the craft...</span></span></span>
 
 That immediately created a tension familiar in many UFO cases. The existence of a photograph sounds impressive, but the value of a photograph depends on what it actually shows. A blurred light can document that a witness pointed a camera at something. It does not necessarily identify what that thing was.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9tws_LsIQkk" title="The Portage County Ohio UFO Chase &amp; Police Encounter in 1966 - FindingUFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9tws_LsIQkk" target="_blank" rel="noopener noreferrer">The Portage County Ohio UFO Chase &amp; Police Encounter in 1966 - FindingUFO</a></p><p class="youtube-embed-meta">Channel: FindingUFO &middot; Views: 16.7K &middot; Uploaded: September 2016 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9tws_LsIQkk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9tws_LsIQkk">Open on YouTube</a></p></div></div></div>
 
@@ -278,14 +275,12 @@ From the Air Force perspective, this was a straightforward evidential issue. If 
 
 Critics of Blue Book often found this unsatisfying because they believed the witness testimony deserved greater weight. Yet even many researchers sympathetic to the officers acknowledged that the photograph itself was weak. The dispute therefore shifted away from the image and back towards the credibility of the witnesses.
 
-
-<img src="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_buchert_photo_limits_f1d552-Illustration-2-light.svg" | relative_url }}" alt="Buchert photo illustration 2" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_buchert_photo_limits_f1d552-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_buchert_photo_limits_f1d552-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_buchert_photo_limits_f1d552-Illustration-2-dark.svg" | relative_url }}" alt="Buchert photo illustration 2" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_buchert_photo_limits_f1d552-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_buchert_photo_limits_f1d552-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What a weak UFO photograph can and cannot prove
 
 The Buchert image remains useful because it illustrates a broader problem in evaluating UFO evidence.
 
 A photograph can establish several limited points:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -297,7 +292,6 @@ A photograph can establish several limited points:
 </div>
 
 However, a weak photograph usually cannot establish:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -311,7 +305,6 @@ However, a weak photograph usually cannot establish:
 
 The Buchert photograph falls into precisely this category. It is stronger than having no image at all, but it does not provide the kind of detail needed to determine what was photographed. The result is that both believers and sceptics can point to it without decisively winning the argument.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KPKe-Ibw-NI" title="The Uncover Up Tapes: The Portage UFO Chase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KPKe-Ibw-NI" target="_blank" rel="noopener noreferrer">The Uncover Up Tapes: The Portage UFO Chase</a></p><p class="youtube-embed-meta">Channel: The Uncover Up &middot; Views: 2.3K &middot; Uploaded: February 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KPKe-Ibw-NI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KPKe-Ibw-NI">Open on YouTube</a></p></div></div></div>
 
 ## Why the image still matters in the Portage case
@@ -324,8 +317,7 @@ That is why discussions of the chase continue to mention Buchert. His photograph
 
 In that sense, the Buchert photograph may be one of the most revealing pieces of evidence in the entire Portage County story. It demonstrates how UFO cases can possess more than testimony while still falling short of proof. The picture gives the incident a tangible artefact that researchers can examine decades later, but it also shows the limits of visual evidence when image quality is poor and independent corroboration is scarce. That unresolved gap between witness confidence and photographic ambiguity remains one of the defining features of the 1966 Ohio chase.
 
-
-<img src="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_buchert_photo_limits_f1d552-Illustration-3-light.svg" | relative_url }}" alt="Buchert photo illustration 3" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_buchert_photo_limits_f1d552-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_buchert_photo_limits_f1d552-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_buchert_photo_limits_f1d552-Illustration-3-dark.svg" | relative_url }}" alt="Buchert photo illustration 3" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_buchert_photo_limits_f1d552-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_portage_county_chase_c51786_buchert_photo_limits_f1d552-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -748,97 +740,97 @@ In that sense, the Buchert photograph may be one of the most revealing pieces of
 
 1. <a id="endnote-1"></a>
    Source: medium.com  
-   Link: [https://medium.com/the-portager/seeing-a-ufo-ruined-dale-spaurs-life-f86bab152368](https://medium.com/the-portager/seeing-a-ufo-ruined-dale-spaurs-life-f86bab152368)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumSeeing a UFO ruined Dale Spaur&#x27;s life | by Ben WolfordHe thought the “UFO buffs” were manipulating politicians and the press to sto...</p></details>
+   Link: <a href="https://medium.com/the-portager/seeing-a-ufo-ruined-dale-spaurs-life-f86bab152368" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-portager/seeing-a-ufo-ruined-dale-spaurs-life-f86bab152368</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Seeing a UFO ruined Dale Spaur&#x27;s life | by Ben WolfordHe thought the “UFO buffs” were manipulating politicians and the press to sto...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Avvistamento della contea di Portage  
-   Link: [https://it.wikipedia.org/wiki/Avvistamento_della_contea_di_Portage](https://it.wikipedia.org/wiki/Avvistamento_della_contea_di_Portage)  
+   Link: <a href="https://it.wikipedia.org/wiki/Avvistamento_della_contea_di_Portage" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Avvistamento_della_contea_di_Portage</a>  
 
 3. <a id="endnote-3"></a>
    Source: documents2.theblackvault.com  
    Title: ProjectBlueBook April171966 Ravenna Mantua Ohio  
-   Link: [https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-April171966-Ravenna-Mantua-Ohio.pdf](https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-April171966-Ravenna-Mantua-Ohio.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-April171966-Ravenna-Mantua-Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-April171966-Ravenna-Mantua-Ohio.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>p,.-v-cFf,, 7-r&#x27;&gt;&#x27;· --/f·l·f&#x27;Mr. Tom Schley, B~aver County Times, called 0815 hours 18 Apr 66 requesting info on UFO. He mentioned tha...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 5. <a id="endnote-5"></a>
    Source: ufohistoryfiles.com  
-   Link: [https://ufohistoryfiles.com/wp-content/uploads/2014/08/145C.pdf](https://ufohistoryfiles.com/wp-content/uploads/2014/08/145C.pdf)  
+   Link: <a href="https://ufohistoryfiles.com/wp-content/uploads/2014/08/145C.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufohistoryfiles.com/wp-content/uploads/2014/08/145C.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Portage County material - The UFO History GroupUFO• s are probably;, processing defects due· to old.t&#x27;ogged film and p~or...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: clevescene.com  
    Title: strangers in the night 1485939  
-   Link: [https://www.clevescene.com/news/strangers-in-the-night-1485939/](https://www.clevescene.com/news/strangers-in-the-night-1485939/)  
+   Link: <a href="https://www.clevescene.com/news/strangers-in-the-night-1485939/" target="_blank" rel="noopener noreferrer nofollow">https://www.clevescene.com/news/strangers-in-the-night-1485939/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cleveland SceneStrangers in the Night31 Mar 2004 — In 1966, Ohio cops chased a UFO into Pennsylvania. Then the government got involved, a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: weirddarkness.com  
    Title: portage county ufo chase 1966  
-   Link: [https://weirddarkness.com/portage-county-ufo-chase-1966/](https://weirddarkness.com/portage-county-ufo-chase-1966/)  
+   Link: <a href="https://weirddarkness.com/portage-county-ufo-chase-1966/" target="_blank" rel="noopener noreferrer nofollow">https://weirddarkness.com/portage-county-ufo-chase-1966/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weird DarknessThe 1966 Portage County UFO Chase: What Five Officers SawMantua Police Chief Gerald Buchert, whose photographs of the craft...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/12117541695/posts/10161336608271696/](https://www.facebook.com/groups/12117541695/posts/10161336608271696/)  
+   Link: <a href="https://www.facebook.com/groups/12117541695/posts/10161336608271696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/12117541695/posts/10161336608271696/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Police chase cone shaped UFO across state linesThere are several possible explanations: 1) The object was an alien craft. 2) Portage Coun...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: in 1966 3 police officers chased a ufo for 86  
-   Link: [https://www.reddit.com/r/nonmurdermysteries/comments/pg6wss/in_1966_3_police_officers_chased_a_ufo_for_86/](https://www.reddit.com/r/nonmurdermysteries/comments/pg6wss/in_1966_3_police_officers_chased_a_ufo_for_86/)  
+   Link: <a href="https://www.reddit.com/r/nonmurdermysteries/comments/pg6wss/in_1966_3_police_officers_chased_a_ufo_for_86/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nonmurdermysteries/comments/pg6wss/in_1966_3_police_officers_chased_a_ufo_for_86/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1966, 3 police officers chased a UFO for 86 miles, across...A creepy unsolved and true story of a police officer who chased a ufo for...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: thislocallife.com  
-   Link: [https://www.thislocallife.com/5-ufo-cases-in-ohio](https://www.thislocallife.com/5-ufo-cases-in-ohio)  
+   Link: <a href="https://www.thislocallife.com/5-ufo-cases-in-ohio" target="_blank" rel="noopener noreferrer nofollow">https://www.thislocallife.com/5-ufo-cases-in-ohio</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ed in our own backyard and several of which involved...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: unwritten-record.blogs.archives.gov  
    Title: aliens at the archives  
-   Link: [https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/](https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2017/04/26/aliens-at-the-archives/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>at the Archives - The Unwritten Record26 Apr 2017 — The report lists unidentifiable occurrences as the least frequent result of a UFO inv...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
    Title: rare photo of ufo from 1966 police chase  
-   Link: [https://www.reddit.com/r/UFOs/comments/wr5q9m/rare_photo_of_ufo_from_1966_police_chase/](https://www.reddit.com/r/UFOs/comments/wr5q9m/rare_photo_of_ufo_from_1966_police_chase/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/wr5q9m/rare_photo_of_ufo_from_1966_police_chase/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wr5q9m/rare_photo_of_ufo_from_1966_police_chase/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Was this a UFO? · Strangers in the Night: &quot;In 1966, Ohio cops chased a UFO into Pennsylvania. · 2/24/17: Drawing mailed to WLFI Reporter...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: [https://origins.osu.edu/read/air-force-investigation-ufos](https://origins.osu.edu/read/air-force-investigation-ufos)  
+   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Investigation into UFOs | Origins22 Dec 2024 — The project had investigated some 12,618 UFO sightings, and of those 701 remain...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ohiomysteries.com  
    Title: 1966 the great ufo chase  
-   Link: [https://ohiomysteries.com/ohio%20mysteries/1966-the-great-ufo-chase](https://ohiomysteries.com/ohio%20mysteries/1966-the-great-ufo-chase)  
+   Link: <a href="https://ohiomysteries.com/ohio%20mysteries/1966-the-great-ufo-chase" target="_blank" rel="noopener noreferrer nofollow">https://ohiomysteries.com/ohio%20mysteries/1966-the-great-ufo-chase</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1966: The Great UFO Chase28 Oct 2018 — Photo taken by Mantua Police Chief Gerald Buchert in 1966 (lightened). ---. ufochasemap. UFO chase...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Uncover Up Tapes: The Portage UFO Chase  
-   Link: [https://www.youtube.com/watch?v=KPKe-Ibw-NI](https://www.youtube.com/watch?v=KPKe-Ibw-NI)  
+   Link: <a href="https://www.youtube.com/watch?v=KPKe-Ibw-NI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KPKe-Ibw-NI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Portage County UFO chase 1966 The Portage County Ohio UFO Chase &amp; Police Encounter in 1966 - FindingUFO FindingUFO...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Parajournal: UFO chase from Portage, Ohio, to Conway, Pa  
-   Link: [https://www.youtube.com/watch?v=CImntZnz45Y](https://www.youtube.com/watch?v=CImntZnz45Y)  
+   Link: <a href="https://www.youtube.com/watch?v=CImntZnz45Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CImntZnz45Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Portage County Ohio UFO Chase &amp; Police Encounter in 1966 - FindingUFO...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=9tws_LsIQkk](https://www.youtube.com/watch?v=9tws_LsIQkk)  
+   Link: <a href="https://www.youtube.com/watch?v=9tws_LsIQkk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9tws_LsIQkk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Portage County UFO Chase April 17 1966...</p></details>

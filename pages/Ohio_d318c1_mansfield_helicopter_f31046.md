@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-ohio-became-a-ufo-state/
 nav_short_title: Mansfield
 title: The Helicopter Case That Still Puzzles Ohio
-title_full: The Helicopter Case That Still Puzzles Ohio | Ohio UFOs
+title_full: The Helicopter Case That Still Puzzles Ohio
 display_title_short: Mansfield
 display_title: Mansfield
 heading_title: The Helicopter Case That Still Puzzles Ohio
@@ -270,7 +270,6 @@ image: /assets/images/Ohio_d318c1_mansfield_helicopter_f31046-overview-social.jp
 
 The Mansfield helicopter encounter, usually called the Coyne incident, is one of Ohio’s most discussed UFO cases because it was not a casual roadside sighting. On 18 October 1973, a four-man US Army Reserve helicopter crew flying from Columbus to Cleveland reported a near mid-air encounter with a lighted, cigar-shaped object near Mansfield, followed by radio trouble, a strange green illumination and an unexpected climb. The case matters because it sits at the crossroads of witness credibility, aviation safety and disputed explanation: it has multiple trained airborne witnesses, some claimed ground corroboration, and a later technical report, but no photograph, radar confirmation or recovered physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
-
 <img src="{{ "/assets/images/Ohio_d318c1_mansfield_helicopter_f31046-overview.webp" | relative_url }}" alt="Overview image for Mansfield" loading="eager" decoding="sync" fetchpriority="high">
 Within Ohio UFO history, this is the state’s strongest aviation-centred case after the closure of Project [Blue Book]({{ 'blue-book-a06dab/' | relative_url }}). It does not prove an extraterrestrial craft. It does, however, remain difficult to compress into a simple “strange light” report, because the crew described an apparent collision course, evasive action, cockpit effects and post-event investigation by UFO researchers who treated the flight details as central rather than decorative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
@@ -284,8 +283,7 @@ The most dramatic part of the story is the reported moment of closest approach. 
 
 This is why the Mansfield case remains more aviation-specific than many famous UFO stories. The important details are not just shape and colour, but heading, altitude, descent rate, communications, cockpit workload and the possibility of a near mid-air collision. A report that says “we saw lights” is hard to assess. A report that says “we took evasive action, queried air traffic, lost communications, saw an object at close range, and then found the aircraft climbing” creates a more demanding set of questions.
 
-
-<img src="{{ "/assets/images/Ohio_d318c1_mansfield_helicopter_f31046-Illustration-1-light.svg" | relative_url }}" alt="Mansfield illustration 1" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_mansfield_helicopter_f31046-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_mansfield_helicopter_f31046-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Ohio_d318c1_mansfield_helicopter_f31046-Illustration-1-dark.svg" | relative_url }}" alt="Mansfield illustration 1" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_mansfield_helicopter_f31046-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_mansfield_helicopter_f31046-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the crew’s credibility still matters
 
 The Coyne case has lasted largely because of who made the report. Captain Coyne was a 36-year-old Army Reserve officer with long flying experience and ratings in fixed-wing aircraft, helicopters and seaplanes. The other three men were not anonymous thrill-seekers either: Jezzi was a helicopter-rated co-pilot, Healey was both flight medic and Cleveland police detective, and Yanacsek had served as a helicopter crew chief in Vietnam. That does not make them infallible, but it does make the case harder to dismiss as a simple misunderstanding by untrained observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
@@ -303,7 +301,6 @@ Zeidman’s report says Coyne later checked with the FAA and found no record of 
 The reported compass and radio effects are among the most intriguing claims, but also among the hardest to use as proof. Zeidman’s report discusses the radio issue in detail: the crew believed the radios were keying and changing frequencies, but they were not getting useful contact back. The report also describes the magnetic compass behaviour and notes a later technical comment that a local magnetic field could in principle affect part of the system, while also raising the difficulty that the reported continued compass rotation into the next day would not be explained simply by a transient external field. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 That is the right level of caution. Instrument anomalies make the case more interesting, but the surviving public record does not let a reader distinguish cleanly between equipment fault, cockpit confusion, interference, maintenance issue and extraordinary external cause. The compass story is evidence of an anomaly in the report; it is not, by itself, evidence of what caused the anomaly.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vRzzRa8yAUE" title="Top 10 Most Convincing UFO Discoveries Ever Recorded" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vRzzRa8yAUE" target="_blank" rel="noopener noreferrer">Top 10 Most Convincing UFO Discoveries Ever Recorded</a></p><p class="youtube-embed-meta">Channel: MostAmazingTop10 &middot; Views: 42.4K &middot; Uploaded: March 2023 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vRzzRa8yAUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vRzzRa8yAUE">Open on YouTube</a></p></div></div></div>
 
@@ -327,8 +324,7 @@ The aircraft explanation has a different problem. The Mansfield area had militar
 
 A helicopter or other low-flying aircraft is not a perfect fit either. A helicopter can hover, but not at the high forward speeds reported. A fixed-wing aircraft can be fast, but cannot stop or hover in front of another aircraft in the way the crew described. This does not prove the object was extraordinary; it shows that any ordinary-aircraft explanation has to lean heavily on witness error, distance misjudgement, or incorrect reconstruction of the object’s path. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
-
-<img src="{{ "/assets/images/Ohio_d318c1_mansfield_helicopter_f31046-Illustration-2-light.svg" | relative_url }}" alt="Mansfield illustration 2" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_mansfield_helicopter_f31046-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_mansfield_helicopter_f31046-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Ohio_d318c1_mansfield_helicopter_f31046-Illustration-2-dark.svg" | relative_url }}" alt="Mansfield illustration 2" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_mansfield_helicopter_f31046-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_mansfield_helicopter_f31046-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The aviation questions that keep the case alive
 
 The Mansfield encounter remains useful because it asks practical questions that go beyond belief or disbelief. If the crew’s account is even partly accurate, what should pilots do when an unidentified light appears to be converging? Coyne’s reported response was aviation-first: take control, descend, and call the tower to ask about traffic. That is one reason the case has aged better than stories built only around exotic interpretation. The behaviour described is consistent with a pilot treating the object as a collision hazard before treating it as a mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
@@ -337,8 +333,7 @@ The case also shows why aviation UFO reports are unusually difficult to evaluate
 
 At the same time, training cannot simply be waved away. Coyne and the crew knew aircraft lighting conventions, radio procedures and the feel of their machine. They were also exposed to the event from different positions inside the helicopter. A fair assessment should therefore avoid two lazy conclusions: “trained witnesses cannot be wrong” and “all UFO witnesses are unreliable”. The stronger reading is that trained witnesses can still misperceive, but their detailed operational claims deserve closer scrutiny than an ordinary anonymous light-in-the-sky report.
 
-
-<img src="{{ "/assets/images/Ohio_d318c1_mansfield_helicopter_f31046-Illustration-3-light.svg" | relative_url }}" alt="Mansfield illustration 3" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_mansfield_helicopter_f31046-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_mansfield_helicopter_f31046-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Ohio_d318c1_mansfield_helicopter_f31046-Illustration-3-dark.svg" | relative_url }}" alt="Mansfield illustration 3" data-theme-src-dark="{{ "/assets/images/Ohio_d318c1_mansfield_helicopter_f31046-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ohio_d318c1_mansfield_helicopter_f31046-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What later reporting strengthened and weakened
 
 Later reporting has strengthened the case’s place in Ohio memory more than it has strengthened the physical evidence. Local retrospectives by Ohio Magazine and north-central Ohio outlets keep the case alive because it is vivid, well-located and attached to named witnesses rather than anonymous rumour. These accounts also preserve details that readers care about: the Charles Mill Lake area, the Army Reserve crew, the reported green beam, the damaged or replaced compass, and the crew’s later public recognition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[ohiomagazine.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-snippet">The Case of Ohio&#x27;s Best Documented UFOCoyne took evasive action, diving the helicopter, but the other aircraft followed...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://richlandcountyhistory.com/2019/09/02/ufos-over-richland-county-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richlandcountyhistory.com">[Richland County History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richlandcountyhistory.com</span><span class="citation-popover-title">ufos over richland county 1973</span><span class="citation-popover-snippet">ufos over richland county 1973</span></span></span>
@@ -346,7 +341,6 @@ Later reporting has strengthened the case’s place in Ohio memory more than it 
 What later reporting has not supplied is the kind of independent data that would transform the case. There is no widely cited photograph of the object, no recovered material, no public radar plot that cleanly maps the encounter, and no modern official re-investigation that settles the flight path. The best pro-case material is still Zeidman’s reconstruction and the witness interviews. The best sceptical pressure is still the possibility that a meteor, aircraft, instrument issue and stressful cockpit perception were combined into a more extraordinary narrative after the fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
 That leaves the Coyne incident in a middle category: stronger than most UFO anecdotes, weaker than proof of an extraordinary craft. Its durability comes from the aviation detail, the named crew, the claimed ground witnesses and the fact that simple explanations do not fit all reported features neatly. Its weakness is the absence of decisive independent records and the unavoidable uncertainty of reconstructing a night-time, high-stress event from human testimony.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9AkQ29QyycU" title="Top 10 Unsettling Signs Of UFO&#x27;s Found In Ohio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9AkQ29QyycU" target="_blank" rel="noopener noreferrer">Top 10 Unsettling Signs Of UFO&#x27;s Found In Ohio</a></p><p class="youtube-embed-meta">Channel: MostAmazingTop10 &middot; Views: 14.8K &middot; Uploaded: July 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9AkQ29QyycU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9AkQ29QyycU">Open on YouTube</a></p></div></div></div>
 
@@ -356,9 +350,7 @@ For Ohio’s UFO history, the Mansfield helicopter case is not important because
 
 The most responsible conclusion is that the Mansfield helicopter encounter remains unresolved in public evidence. A bright meteor during the Orionid season is a plausible challenge to parts of the story, and an aircraft or cockpit-perception explanation cannot be ruled out completely. Yet the full report as described by the crew — near collision, rapid deceleration, green illumination, radio trouble, compass anomaly and unexpected climb — is not comfortably explained by any one ordinary cause. That tension is exactly why the Coyne case still puzzles Ohio.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vf7xZ5vMMfk" title="Green beam from a UFO lifts up Army helicopter, observed by Lawrence Coyne and John Healy in 1973" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vf7xZ5vMMfk" target="_blank" rel="noopener noreferrer">Green beam from a UFO lifts up Army helicopter, observed by Lawrence Coyne and John Healy in 1973</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 17.4K &middot; Uploaded: June 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vf7xZ5vMMfk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vf7xZ5vMMfk">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -782,143 +774,143 @@ The most responsible conclusion is that the Mansfield helicopter encounter remai
 1. <a id="endnote-1"></a>
    Source: cufos.org  
    Title: Center for UFO Studies  
-   Link: [https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf](https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf)  
+   Link: <a href="https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: nicap.org  
    Title: UF O Report Jennie Zeidman  
-   Link: [https://www.nicap.org/731018mansfield_dir.htm](https://www.nicap.org/731018mansfield_dir.htm)  
+   Link: <a href="https://www.nicap.org/731018mansfield_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/731018mansfield_dir.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportJennie Zeidman: October 18, 1973; Mansfield, Ohio 11:05 p.m. Army Reserve helicopter encountered domed, craft-like object that...</p></details>
    Published: October 18, 1973  
 
 3. <a id="endnote-3"></a>
    Source: ohiomagazine.com  
-   Link: [https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo](https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo)  
+   Link: <a href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Case of Ohio&#x27;s Best Documented UFOCoyne took evasive action, diving the helicopter, but the other aircraft followed...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: wmfd.com  
    Title: october 18th marks 50th anniversary of mansfield area ufo encounter  
-   Link: [https://www.wmfd.com/article/october-18th-marks-50th-anniversary-of-mansfield-area-ufo-encounter/17797](https://www.wmfd.com/article/october-18th-marks-50th-anniversary-of-mansfield-area-ufo-encounter/17797)  
+   Link: <a href="https://www.wmfd.com/article/october-18th-marks-50th-anniversary-of-mansfield-area-ufo-encounter/17797" target="_blank" rel="noopener noreferrer nofollow">https://www.wmfd.com/article/october-18th-marks-50th-anniversary-of-mansfield-area-ufo-encounter/17797</a>  
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/solar-system/meteors-meteorites/orionids/](https://science.nasa.gov/solar-system/meteors-meteorites/orionids/)  
+   Link: <a href="https://science.nasa.gov/solar-system/meteors-meteorites/orionids/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/meteors-meteorites/orionids/</a>  
 
 6. <a id="endnote-6"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN5_2.pdf](https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN5_2.pdf)  
+   Link: <a href="https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN5_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/CUFOS_Associate_Newsletter/AN5_2.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2013%20No.%206%20Nov.-Dec.%201988.pdf](https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2013%20No.%206%20Nov.-Dec.%201988.pdf)  
+   Link: <a href="https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2013%20No.%206%20Nov.-Dec.%201988.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2013%20No.%206%20Nov.-Dec.%201988.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/CUFOS_Bulletin/Bulletin017.pdf](https://cufos.org/PDFs/CUFOS_Bulletin/Bulletin017.pdf)  
+   Link: <a href="https://cufos.org/PDFs/CUFOS_Bulletin/Bulletin017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/CUFOS_Bulletin/Bulletin017.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: cufos.org  
    Title: Phenomena in USSR A 548  
-   Link: [https://cufos.org/PDFs/pdfs/Phenomena_in_USSR_A-548.pdf](https://cufos.org/PDFs/pdfs/Phenomena_in_USSR_A-548.pdf)  
+   Link: <a href="https://cufos.org/PDFs/pdfs/Phenomena_in_USSR_A-548.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/pdfs/Phenomena_in_USSR_A-548.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2014%20No.%202%20March-April%201989.pdf](https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2014%20No.%202%20March-April%201989.pdf)  
+   Link: <a href="https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2014%20No.%202%20March-April%201989.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2014%20No.%202%20March-April%201989.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/books/Ufos_And_The_Extraterrestrial_Contact_Movement_v1.pdf](https://cufos.org/PDFs/books/Ufos_And_The_Extraterrestrial_Contact_Movement_v1.pdf)  
+   Link: <a href="https://cufos.org/PDFs/books/Ufos_And_The_Extraterrestrial_Contact_Movement_v1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/books/Ufos_And_The_Extraterrestrial_Contact_Movement_v1.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: cufos.org  
    Title: IUR Vol. 17 No. 3 May June 1992  
-   Link: [https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2017%20No.%203%20May-June%201992.pdf](https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2017%20No.%203%20May-June%201992.pdf)  
+   Link: <a href="https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2017%20No.%203%20May-June%201992.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/IUR%20issues/IUR%20Vol.%2017%20No.%203%20May-June%201992.pdf</a>  
    Published: June 1992  
 
 13. <a id="endnote-13"></a>
    Source: ashlandsource.com  
    Title: coyne incident over charles mill lake was most credible ufo sighting of 1973  
-   Link: [https://www.ashlandsource.com/2020/10/04/coyne-incident-over-charles-mill-lake-was-most-credible-ufo-sighting-of-1973/](https://www.ashlandsource.com/2020/10/04/coyne-incident-over-charles-mill-lake-was-most-credible-ufo-sighting-of-1973/)  
+   Link: <a href="https://www.ashlandsource.com/2020/10/04/coyne-incident-over-charles-mill-lake-was-most-credible-ufo-sighting-of-1973/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashlandsource.com/2020/10/04/coyne-incident-over-charles-mill-lake-was-most-credible-ufo-sighting-of-1973/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ashland SourceCoyne Incident over Charles Mill Lake was most credible...4 Oct 2020 — According to the Center for UFO Studies, the Coyne...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: clevelandufo.com  
-   Link: [https://clevelandufo.com/?page_id=18](https://clevelandufo.com/?page_id=18)  
+   Link: <a href="https://clevelandufo.com/?page_id=18" target="_blank" rel="noopener noreferrer nofollow">https://clevelandufo.com/?page_id=18</a>  
 
 15. <a id="endnote-15"></a>
    Source: richlandcountyhistory.com  
    Title: ufos over richland county 1973  
-   Link: [https://richlandcountyhistory.com/2019/09/02/ufos-over-richland-county-1973/](https://richlandcountyhistory.com/2019/09/02/ufos-over-richland-county-1973/)  
+   Link: <a href="https://richlandcountyhistory.com/2019/09/02/ufos-over-richland-county-1973/" target="_blank" rel="noopener noreferrer nofollow">https://richlandcountyhistory.com/2019/09/02/ufos-over-richland-county-1973/</a>  
 
 16. <a id="endnote-16"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/coyne.htm](https://ufologie.patrickgross.org/htm/coyne.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/coyne.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/coyne.htm</a>  
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Philip J. Klass  
-   Link: [https://en.wikipedia.org/wiki/Philip_J._Klass](https://en.wikipedia.org/wiki/Philip_J._Klass)  
+   Link: <a href="https://en.wikipedia.org/wiki/Philip_J._Klass" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Philip_J._Klass</a>  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Orionids](https://en.wikipedia.org/wiki/Orionids)  
+   Link: <a href="https://en.wikipedia.org/wiki/Orionids" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Orionids</a>  
 
 19. <a id="endnote-19"></a>
    Source: spacecentre.co.uk  
    Title: orionid meteor shower  
-   Link: [https://www.spacecentre.co.uk/news/space-now-blog/orionid-meteor-shower/](https://www.spacecentre.co.uk/news/space-now-blog/orionid-meteor-shower/)  
+   Link: <a href="https://www.spacecentre.co.uk/news/space-now-blog/orionid-meteor-shower/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacecentre.co.uk/news/space-now-blog/orionid-meteor-shower/</a>  
 
 20. <a id="endnote-20"></a>
    Source: clevelandufo.com  
-   Link: [https://clevelandufo.com/?page_id=277](https://clevelandufo.com/?page_id=277)  
+   Link: <a href="https://clevelandufo.com/?page_id=277" target="_blank" rel="noopener noreferrer nofollow">https://clevelandufo.com/?page_id=277</a>  
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: OVO je postalo smiješno!?  
-   Link: [https://www.youtube.com/watch?v=HPHcD8mJpOs](https://www.youtube.com/watch?v=HPHcD8mJpOs)  
+   Link: <a href="https://www.youtube.com/watch?v=HPHcD8mJpOs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HPHcD8mJpOs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This video highlights Top 10 Most Convincing UFO Discoveries Ever Recorded because it breaks down the specific technical details of the 1...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: COYNE UFO INCIDENT: "Igrao se s vojnim helikopterom poput igračke"!  
-   Link: [https://www.youtube.com/watch?v=otzw9k15Oac](https://www.youtube.com/watch?v=otzw9k15Oac)  
+   Link: <a href="https://www.youtube.com/watch?v=otzw9k15Oac" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=otzw9k15Oac</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SYND 15/10/73 UFO SPOTTED IN THE SKIES OVER OHIO...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Top 10 Unsettling Signs Of UFO's Found In Ohio  
-   Link: [https://www.youtube.com/watch?v=9AkQ29QyycU](https://www.youtube.com/watch?v=9AkQ29QyycU)  
+   Link: <a href="https://www.youtube.com/watch?v=9AkQ29QyycU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9AkQ29QyycU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>COYNE UFO INCIDENT: &quot;Igrao se s vojnim helikopterom poput igračke&quot;...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Top 10 Most Convincing UFO Discoveries Ever Recorded  
-   Link: [https://www.youtube.com/watch?v=vRzzRa8yAUE](https://www.youtube.com/watch?v=vRzzRa8yAUE)  
+   Link: <a href="https://www.youtube.com/watch?v=vRzzRa8yAUE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vRzzRa8yAUE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Unsettling Signs Of UFO&#x27;s Found In Ohio...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: thislocallife.com  
-   Link: [https://www.thislocallife.com/5-ufo-cases-in-ohio](https://www.thislocallife.com/5-ufo-cases-in-ohio)  
+   Link: <a href="https://www.thislocallife.com/5-ufo-cases-in-ohio" target="_blank" rel="noopener noreferrer nofollow">https://www.thislocallife.com/5-ufo-cases-in-ohio</a>  
 
 26. <a id="endnote-26"></a>
    Source: amsmeteors.org  
-   Link: [https://www.amsmeteors.org/index.html](https://www.amsmeteors.org/index.html)  
+   Link: <a href="https://www.amsmeteors.org/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/index.html</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/RichlandSource/posts/capt-lawrence-j-coyne-described-himself-as-a-skeptic-of-ufos-but-admitted-he-cou/3438125879567233/](https://www.facebook.com/RichlandSource/posts/capt-lawrence-j-coyne-described-himself-as-a-skeptic-of-ufos-but-admitted-he-cou/3438125879567233/)  
+   Link: <a href="https://www.facebook.com/RichlandSource/posts/capt-lawrence-j-coyne-described-himself-as-a-skeptic-of-ufos-but-admitted-he-cou/3438125879567233/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RichlandSource/posts/capt-lawrence-j-coyne-described-himself-as-a-skeptic-of-ufos-but-admitted-he-cou/3438125879567233/</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/lowellobservatory/posts/every-october-earth-crosses-paths-with-dust-left-behind-by-halleys-comet-those-t/1233516725477945/](https://www.facebook.com/lowellobservatory/posts/every-october-earth-crosses-paths-with-dust-left-behind-by-halleys-comet-those-t/1233516725477945/)  
+   Link: <a href="https://www.facebook.com/lowellobservatory/posts/every-october-earth-crosses-paths-with-dust-left-behind-by-halleys-comet-those-t/1233516725477945/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lowellobservatory/posts/every-october-earth-crosses-paths-with-dust-left-behind-by-halleys-comet-those-t/1233516725477945/</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/sandraboynton/posts/every-october-earth-passes-through-the-debris-of-halleys-comet-giving-us-ta-daaa/1385637706256989/](https://www.facebook.com/sandraboynton/posts/every-october-earth-passes-through-the-debris-of-halleys-comet-giving-us-ta-daaa/1385637706256989/)  
+   Link: <a href="https://www.facebook.com/sandraboynton/posts/every-october-earth-passes-through-the-debris-of-halleys-comet-giving-us-ta-daaa/1385637706256989/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sandraboynton/posts/every-october-earth-passes-through-the-debris-of-halleys-comet-giving-us-ta-daaa/1385637706256989/</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NASA/posts/keep-an-eye-on-the-night-sky-in-octoberyou-might-catch-a-falling-starthe-orionid/1347647323397307/](https://www.facebook.com/NASA/posts/keep-an-eye-on-the-night-sky-in-octoberyou-might-catch-a-falling-starthe-orionid/1347647323397307/)  
+   Link: <a href="https://www.facebook.com/NASA/posts/keep-an-eye-on-the-night-sky-in-octoberyou-might-catch-a-falling-starthe-orionid/1347647323397307/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASA/posts/keep-an-eye-on-the-night-sky-in-octoberyou-might-catch-a-falling-starthe-orionid/1347647323397307/</a>

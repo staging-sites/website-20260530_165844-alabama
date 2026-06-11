@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /late-testimony/
 nav_short_title: Barrett case
 title: How strong is the Barrett Highway 59 story?
-title_full: How strong is the Barrett Highway 59 story? | Late Testimony
+title_full: How strong is the Barrett Highway 59 story?
 display_title_short: Barrett case
 display_title: Barrett case
 heading_title: How strong is the Barrett Highway 59 story?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:33:31'
-parent_title: Can Decades Late UFO Testimony Be Trusted? | Wyoming UFOs
+parent_title: Can Decades Late UFO Testimony Be Trusted?
 parent_permalink: /late-testimony/
 parent_nav_short_title: Late Testimony
 parent_heading_title: Can Decades Late UFO Testimony Be Trusted?
@@ -250,10 +250,9 @@ image: /assets/images/Wyoming_ed190c_delayed_witness_acco_673359_barrett_highway
 
 ## Introduction
 
-The Barrett Highway 59 story is one of the more intriguing late-reported UFO accounts connected to [Wyoming]({{ 'what-really-happened-in-wyoming-skies/' | relative_url }}). According to attorney Richard Barrett, he and his father, former Wyoming attorney general and federal appeals judge James Barrett, encountered a large illuminated object while driving between Gillette and Wright on Wyoming Highway 59 in April 1991. The account did not become widely known until decades later, which immediately creates a tension familiar in Wyoming UFO history: the witnesses appear serious and identifiable, yet the delay sharply limits what can be verified. Rather than settling the question of what happened, the case highlights how credible testimony can preserve a remarkable claim while still leaving investigators with major evidential gaps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-[cheyenne" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-snippet">Cowboy State Daily35 Years After UFO Encounter, Cheyenne Man Still Trying...May 16, 2026 — 16 May 2026 — Wyoming 59 between Gillette and...</span><span class="citation-popover-meta">Published: May 16, 2026</span></span></span>
+The Barrett Highway 59 story is one of the more intriguing late-reported UFO accounts connected to Wyoming. According to attorney Richard Barrett, he and his father, former Wyoming attorney general and federal appeals judge James Barrett, encountered a large illuminated object while driving between Gillette and Wright on Wyoming Highway 59 in April 1991. The account did not become widely known until decades later, which immediately creates a tension familiar in Wyoming UFO history: the witnesses appear serious and identifiable, yet the delay sharply limits what can be verified. Rather than settling the question of what happened, the case highlights how credible testimony can preserve a remarkable claim while still leaving investigators with major evidential gaps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-[cheyenne" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-snippet">Cowboy State Daily35 Years After UFO Encounter, Cheyenne Man Still Trying...May 16, 2026 — 16 May 2026 — Wyoming 59 between Gillette and...</span><span class="citation-popover-meta">Published: May 16, 2026</span></span></span>
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_barrett_highway_59_d_63e38f-Illustration-1-light.svg" | relative_url }}" alt="Barrett case illustration 1" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_barrett_highway_59_d_63e38f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_barrett_highway_59_d_63e38f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_barrett_highway_59_d_63e38f-Illustration-1-dark.svg" | relative_url }}" alt="Barrett case illustration 1" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_barrett_highway_59_d_63e38f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_barrett_highway_59_d_63e38f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Barretts said happened on Wyoming 59
 
 Richard Barrett's public account describes a late-night drive south from Gillette after a speaking engagement. He said that he and his father first noticed a bright light in the western sky around 11 p.m. What initially seemed like a star or distant light reportedly became more unusual as the journey continued. According to Barrett, the object appeared to shift position, grow brighter and eventually seem much closer to the vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-[cheyenne" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-snippet">Cowboy State Daily35 Years After UFO Encounter, Cheyenne Man Still Trying...May 16, 2026 — 16 May 2026 — Wyoming 59 between Gillette and...</span><span class="citation-popover-meta">Published: May 16, 2026</span></span></span>
@@ -263,7 +262,6 @@ Barrett later described the object as enormous, silent and metallic in appearanc
 The setting matters. Highway 59 runs through sparsely populated country with long sightlines, limited ambient lighting and wide-open horizons. Those conditions can make distant lights appear unusually prominent and can complicate judgments of size, distance and motion, especially at night. That does not explain the Barrett account by itself, but it is one reason later investigators have difficulty treating a remembered visual impression as a precise measurement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-[cheyenne" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-snippet">Cowboy State Daily35 Years After UFO Encounter, Cheyenne Man Still Trying...May 16, 2026 — 16 May 2026 — Wyoming 59 between Gillette and...</span><span class="citation-popover-meta">Published: May 16, 2026</span></span></span>
 
 A detail that gives the story some additional weight is Barrett's claim that he wrote down notes about the experience and conversations surrounding it shortly after the event. If such notes accurately survive from 1991, they would be more valuable than recollections recorded decades later because they would capture what the witnesses believed at the time rather than what memory reconstructed years afterwards. Public reporting on the case has referred to such contemporaneous notes, although they have not become part of a widely examined public evidential record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-[cheyenne" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-snippet">Cowboy State Daily35 Years After UFO Encounter, Cheyenne Man Still Trying...May 16, 2026 — 16 May 2026 — Wyoming 59 between Gillette and...</span><span class="citation-popover-meta">Published: May 16, 2026</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_PaQmnq_nAc" title="5 Bizarre Accounts From History of UFO Sightings (74 BC - 1896) // Primary Sources" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_PaQmnq_nAc" target="_blank" rel="noopener noreferrer">5 Bizarre Accounts From History of UFO Sightings (74 BC - 1896) // Primary Sources</a></p><p class="youtube-embed-meta">Channel: Voices of the Past &middot; Views: 1.3M &middot; Uploaded: November 2021 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_PaQmnq_nAc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_PaQmnq_nAc">Open on YouTube</a></p></div></div></div>
 
@@ -279,8 +277,7 @@ The story also appears to lack obvious signs of a publicity campaign. According 
 
 For supporters of the case, these factors create a persuasive impression. The witnesses were identifiable, professionally accomplished and apparently willing to attach their names to the account. Within Wyoming UFO history, that makes the story harder to dismiss than a rumour passed from person to person without documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-[cheyenne" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-snippet">Cowboy State Daily35 Years After UFO Encounter, Cheyenne Man Still Trying...May 16, 2026 — 16 May 2026 — Wyoming 59 between Gillette and...</span><span class="citation-popover-meta">Published: May 16, 2026</span></span></span>
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_barrett_highway_59_d_63e38f-Illustration-2-light.svg" | relative_url }}" alt="Barrett case illustration 2" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_barrett_highway_59_d_63e38f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_barrett_highway_59_d_63e38f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_barrett_highway_59_d_63e38f-Illustration-2-dark.svg" | relative_url }}" alt="Barrett case illustration 2" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_barrett_highway_59_d_63e38f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_barrett_highway_59_d_63e38f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the delay still leaves major gaps
 
 The central weakness of the Barrett encounter is not necessarily the witnesses. It is time.
@@ -296,8 +293,7 @@ Memory also becomes a larger issue as decades pass. Psychological research has r
 
 Those are not necessarily the same question.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.3K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hN1d7xlSxDo" title="UFO Eyewitnesses Examine Rare UFO Video Footage | UFO Witness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hN1d7xlSxDo" target="_blank" rel="noopener noreferrer">UFO Eyewitnesses Examine Rare UFO Video Footage | UFO Witness</a></p><p class="youtube-embed-meta">Channel: Discovery UK &middot; Views: 285.4K &middot; Uploaded: December 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hN1d7xlSxDo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hN1d7xlSxDo">Open on YouTube</a></p></div></div></div>
 
 ## Why witness credibility cannot replace evidence
 
@@ -309,8 +305,7 @@ That framework fits the Barrett case unusually well. The account gains strength 
 
 Supporters can reasonably argue that two experienced legal professionals reported an event that clearly affected them for decades. Sceptics can reasonably point out that extraordinary details emerged publicly long after opportunities for independent verification had vanished. Both observations can be true at the same time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-[cheyenne" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-snippet">Cowboy State Daily35 Years After UFO Encounter, Cheyenne Man Still Trying...May 16, 2026 — 16 May 2026 — Wyoming 59 between Gillette and...</span><span class="citation-popover-meta">Published: May 16, 2026</span></span></span>
 
-
-<img src="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_barrett_highway_59_d_63e38f-Illustration-3-light.svg" | relative_url }}" alt="Barrett case illustration 3" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_barrett_highway_59_d_63e38f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_barrett_highway_59_d_63e38f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_barrett_highway_59_d_63e38f-Illustration-3-dark.svg" | relative_url }}" alt="Barrett case illustration 3" data-theme-src-dark="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_barrett_highway_59_d_63e38f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Wyoming_ed190c_delayed_witness_acco_673359_barrett_highway_59_d_63e38f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Barrett case contributes to Wyoming UFO history
 
 The lasting importance of the Barrett Highway 59 encounter is less about proving an unexplained craft crossed northeastern Wyoming and more about illustrating how delayed testimony changes the quality of evidence.
@@ -319,9 +314,7 @@ Within Wyoming's broader record of sightings, the case shows how a report can be
 
 That combination makes the Barrett encounter a useful example in discussions of delayed Wyoming witness accounts. It demonstrates that credibility is not a simple yes-or-no category. A witness can be serious, identifiable and apparently sincere, yet still leave investigators unable to determine exactly what was seen. The Highway 59 story remains memorable for that reason: it is one of Wyoming's better-known modern UFO narratives, but its strongest feature and its biggest weakness are ultimately the same thing — the testimony itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-[cheyenne" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-snippet">Cowboy State Daily35 Years After UFO Encounter, Cheyenne Man Still Trying...May 16, 2026 — 16 May 2026 — Wyoming 59 between Gillette and...</span><span class="citation-popover-meta">Published: May 16, 2026</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hN1d7xlSxDo" title="UFO Eyewitnesses Examine Rare UFO Video Footage | UFO Witness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hN1d7xlSxDo" target="_blank" rel="noopener noreferrer">UFO Eyewitnesses Examine Rare UFO Video Footage | UFO Witness</a></p><p class="youtube-embed-meta">Channel: Discovery UK &middot; Views: 285.4K &middot; Uploaded: December 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hN1d7xlSxDo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hN1d7xlSxDo">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZMl6NxC1Y3U" title="3 Eyewitness Accounts of Alien Encounters | Ancient Aliens | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZMl6NxC1Y3U" target="_blank" rel="noopener noreferrer">3 Eyewitness Accounts of Alien Encounters | Ancient Aliens | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 218.5K &middot; Uploaded: January 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZMl6NxC1Y3U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZMl6NxC1Y3U">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -409,7 +402,7 @@ That combination makes the Barrett encounter a useful example in discussions of 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -419,111 +412,36 @@ That combination makes the Barrett encounter a useful example in discussions of 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-barrett-highway-59-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-barrett-highway-59-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-barrett-highway-59-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-barrett-highway-59-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-barrett-highway-59-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-barrett-highway-59-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-barrett-highway-59-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-barrett-highway-59-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,15 +449,15 @@ That combination makes the Barrett encounter a useful example in discussions of 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-barrett-highway-59-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-barrett-highway-59-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-barrett-highway-59-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-barrett-highway-59-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-barrett-highway-59-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-barrett-highway-59-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-barrett-highway-59-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-barrett-highway-59-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,15 +465,15 @@ That combination makes the Barrett encounter a useful example in discussions of 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-barrett-highway-59-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-barrett-highway-59-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-barrett-highway-59-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-barrett-highway-59-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-barrett-highway-59-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-barrett-highway-59-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-barrett-highway-59-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-barrett-highway-59-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,15 +481,15 @@ That combination makes the Barrett encounter a useful example in discussions of 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-barrett-highway-59-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-barrett-highway-59-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-barrett-highway-59-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-barrett-highway-59-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-barrett-highway-59-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-barrett-highway-59-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-barrett-highway-59-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-barrett-highway-59-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -579,7 +497,7 @@ That combination makes the Barrett encounter a useful example in discussions of 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=barrett-case-how-strong-is-the-barrett-highway-59-story-wyoming-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-barrett-highway-59-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-barrett-highway-59-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -656,17 +574,31 @@ That combination makes the Barrett encounter a useful example in discussions of 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -679,42 +611,73 @@ That combination makes the Barrett encounter a useful example in discussions of 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -729,12 +692,17 @@ That combination makes the Barrett encounter a useful example in discussions of 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -744,116 +712,116 @@ That combination makes the Barrett encounter a useful example in discussions of 
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team Reportwitness reports should be considered along with corroborating sensor data in the study of UAP as...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 — 5. Are there any data supporting the idea that UAP are evidence of alien technologies? No. Most UAP sightings result in very...</p></details>
    Published: May 2026  
 
 4. <a id="endnote-4"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933](https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933)  
+   Link: <a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report - live: Scientists release Unidentified...14 Sept 2023 — NASA has released a report on Unidentified Anomalous Phenomena - com...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: 5 Bizarre Accounts From History of UFO Sightings (74 BC  
-   Link: [http://www.youtube.com/watch?v=_PaQmnq_nAc](http://www.youtube.com/watch?v=_PaQmnq_nAc)  
+   Link: <a href="http://www.youtube.com/watch?v=_PaQmnq_nAc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_PaQmnq_nAc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Cowboy State Daily&quot; &quot;UFO&quot; Cowboy State Daily Show with Jake - Thursday, May 28, 2026 Cowboy State Daily...</p></details>
    Published: May 28, 2026  
 
 6. <a id="endnote-6"></a>
    Source: cowboystatedaily.com  
-   Link: [https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-[cheyenne](https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-[cheyenne)  
+   Link: <a href="https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-[cheyenne" target="_blank" rel="noopener noreferrer nofollow">https://cowboystatedaily.com/2026/05/16/35-years-after-ufo-encounter-[cheyenne</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cowboy State Daily35 Years After UFO Encounter, Cheyenne Man Still Trying...May 16, 2026 — 16 May 2026 — Wyoming 59 between Gillette and...</p></details>
    Published: May 16, 2026  
 
 7. <a id="endnote-7"></a>
    Source: cowboystatedaily.com  
    Title: a pilot died flying wyomings attorney general and he had to take the controls  
-   Link: [https://cowboystatedaily.com/2025/10/04/a-pilot-died-flying-wyomings-attorney-general-and-he-had-to-take-the-controls/](https://cowboystatedaily.com/2025/10/04/a-pilot-died-flying-wyomings-attorney-general-and-he-had-to-take-the-controls/)  
+   Link: <a href="https://cowboystatedaily.com/2025/10/04/a-pilot-died-flying-wyomings-attorney-general-and-he-had-to-take-the-controls/" target="_blank" rel="noopener noreferrer nofollow">https://cowboystatedaily.com/2025/10/04/a-pilot-died-flying-wyomings-attorney-general-and-he-had-to-take-the-controls/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>When His Pilot Died Mid-Flight, Wyoming Attorney General...4 Oct 2025 — Not a pilot himself, Barrett had to take the controls. He buzzed...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement](https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement)  
+   Link: <a href="https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative aims to collect and analyze data, demystify sightings, and promote a science-based perspective. The use of AI and machine...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: popsci.com  
    Title: nasa uap report findings  
-   Link: [https://www.popsci.com/technology/nasa-uap-report-findings/](https://www.popsci.com/technology/nasa-uap-report-findings/)  
+   Link: <a href="https://www.popsci.com/technology/nasa-uap-report-findings/" target="_blank" rel="noopener noreferrer nofollow">https://www.popsci.com/technology/nasa-uap-report-findings/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular ScienceNASA wants to use AI to study unidentified aerial...14 Sept 2023 — “Existing data and eyewitness reports alone are insuff...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: x.com  
-   Link: [https://x.com/daily_cowboy/status/2055679763629613130](https://x.com/daily_cowboy/status/2055679763629613130)  
+   Link: <a href="https://x.com/daily_cowboy/status/2055679763629613130" target="_blank" rel="noopener noreferrer nofollow">https://x.com/daily_cowboy/status/2055679763629613130</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Cheyenne attorney and his father, a former Wyoming...... UFO while driving on Highway 59 in 1991. Now 35 years later, Richard Barrett...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/](https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/)  
+   Link: <a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...DOD and NASA now both say there are objects in the air that they can&#x27;t identify. This UAP...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: forms.bedford.gov.uk  
-   Link: [https://forms.bedford.gov.uk/chicksands/rafchicksands.aspx](https://forms.bedford.gov.uk/chicksands/rafchicksands.aspx)  
+   Link: <a href="https://forms.bedford.gov.uk/chicksands/rafchicksands.aspx" target="_blank" rel="noopener noreferrer nofollow">https://forms.bedford.gov.uk/chicksands/rafchicksands.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alumni and FriendsWelcome to the RAF Chicksands Alumni Notice Board. These pages are intended as a means for service personnel formerly s...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: a cheyenne attorney and his father a former wyoming attorney general saw what th  
-   Link: [https://www.facebook.com/cowboystatedaily/posts/a-cheyenne-attorney-and-his-father-a-former-wyoming-attorney-general-saw-what-th/1425824292893602/](https://www.facebook.com/cowboystatedaily/posts/a-cheyenne-attorney-and-his-father-a-former-wyoming-attorney-general-saw-what-th/1425824292893602/)  
+   Link: <a href="https://www.facebook.com/cowboystatedaily/posts/a-cheyenne-attorney-and-his-father-a-former-wyoming-attorney-general-saw-what-th/1425824292893602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cowboystatedaily/posts/a-cheyenne-attorney-and-his-father-a-former-wyoming-attorney-general-saw-what-th/1425824292893602/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Cheyenne attorney and his father, a former Wyoming...ufo case report: Bob White Alien Artifact Date:, 1985 Location: Near Grand Junct...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/86Jm2lHebT8](https://www.youtube.com/shorts/86Jm2lHebT8)  
+   Link: <a href="https://www.youtube.com/shorts/86Jm2lHebT8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/86Jm2lHebT8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wyoming Highway UFO Unexplained Sky Object SightingWyoming Highway UFO Unexplained Sky Object Sighting. Like... Wyoming Attorney General...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: arxiv.org  
    Title: Data curation and FAIR data practices are  
-   Link: [https://arxiv.org/pdf/2403.15368](https://arxiv.org/pdf/2403.15368)  
+   Link: <a href="https://arxiv.org/pdf/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.15368</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Closing the Information Gap in Unidentified Anomalous...by GR Stahlman · 2024 · Cited by 8 — As emphasized by NASA [6], UAP-related data...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...The team&#x27;s report was released on September 14, 2023, and did not find evidence t...</p></details>
    Published: September 14, 2023  
 
 18. <a id="endnote-18"></a>
    Source: scientificamerican.com  
    Title: bad data not aliens may be behind ufo surge nasa team says  
-   Link: [https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/](https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/)  
+   Link: <a href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Data, Not Aliens, May Be behind UFO Surge, NASA...9 Jun 2023 — He concurs with those taking part in the NASA UAP study who see eyewi...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nextgov.com  
    Title: nasa teams plan decode ufo sightings hinges better data  
-   Link: [https://www.nextgov.com/digital-government/2023/05/nasa-teams-plan-decode-ufo-sightings-hinges-better-data/386954/](https://www.nextgov.com/digital-government/2023/05/nasa-teams-plan-decode-ufo-sightings-hinges-better-data/386954/)  
+   Link: <a href="https://www.nextgov.com/digital-government/2023/05/nasa-teams-plan-decode-ufo-sightings-hinges-better-data/386954/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2023/05/nasa-teams-plan-decode-ufo-sightings-hinges-better-data/386954/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA team&#x27;s plan to decode UFO sightings hinges on...31 May 2023 — The space agency is convening an independent panel to publish a repor...</p></details>
    Published: May 2023  
 
 20. <a id="endnote-20"></a>
    Source: telegraph.co.uk  
    Title: nasa announcement publish ufo report aliens 2023 live  
-   Link: [https://www.telegraph.co.uk/world-news/2023/09/14/nasa-announcement-publish-ufo-report-aliens-2023-live/](https://www.telegraph.co.uk/world-news/2023/09/14/nasa-announcement-publish-ufo-report-aliens-2023-live/)  
+   Link: <a href="https://www.telegraph.co.uk/world-news/2023/09/14/nasa-announcement-publish-ufo-report-aliens-2023-live/" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/world-news/2023/09/14/nasa-announcement-publish-ufo-report-aliens-2023-live/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa UFO report: Unexplained objects could pose threat...14 Sept 2023 — The US Space Agency released a new report today following a 15-m...</p></details>

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /maryland-1ac107-loch-raven-1958-eb1469/
 description: Focused pages that expand on Loch Raven 1958.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Maryland_1ac107_loch_raven_1958_eb1469
-parent_title: 'Loch Raven 1958 | Maryland’s UFO Mysteries: Close Encounters...'
+parent_title: Loch Raven 1958
 parent_nav_short_title: Loch Raven 1958
 parent_permalink: /loch-raven-1958/
 ---

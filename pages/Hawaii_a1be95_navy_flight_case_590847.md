@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-hawaiis-ufo/
 nav_short_title: Navy Flight
 title: The Navy Flight Case That Still Raises Questions
-title_full: The Navy Flight Case That Still Raises Questions | Hawaii UFOs
+title_full: The Navy Flight Case That Still Raises Questions
 display_title_short: Navy Flight
 display_title: Navy Flight
 heading_title: The Navy Flight Case That Still Raises Questions
@@ -268,8 +268,7 @@ image: /assets/images/Hawaii_a1be95_navy_flight_case_590847-overview-social.jpg
 
 ## Introduction
 
-The Pearl Harbor to Guam Navy flight case is one of the more unusual [Hawaii]({{ 'what-really-happened-in-hawaiis-ufo/' | relative_url }})-linked UFO stories from the early Cold War: not because it proves anything extraordinary, but because the claim involved aircraft carrying senior US Navy figures and because later researchers could not find a clean official paper trail. The usual version places the incident in March 1952, on a night flight across the Pacific, when pilots in one Navy aircraft carrying Secretary of the Navy Dan A. Kimball reportedly saw a disc-like object near their plane. A second aircraft, said in later accounts to have carried Admiral Arthur W. Radford, then reported a similar close encounter. The story matters for Hawaii’s UFO history because it sits on a military route anchored at Pearl Harbor, yet it remains weakened by uncertain dating, second-hand public reporting, [missing records]({{ 'missing-records/' | relative_url }}) and the fact that the senior passengers apparently were not the direct visual witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1952a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS 1952...</span></span></span>
-
+The Pearl Harbor to Guam Navy flight case is one of the more unusual Hawaii-linked UFO stories from the early Cold War: not because it proves anything extraordinary, but because the claim involved aircraft carrying senior US Navy figures and because later researchers could not find a clean official paper trail. The usual version places the incident in March 1952, on a night flight across the Pacific, when pilots in one Navy aircraft carrying Secretary of the Navy Dan A. Kimball reportedly saw a disc-like object near their plane. A second aircraft, said in later accounts to have carried Admiral Arthur W. Radford, then reported a similar close encounter. The story matters for Hawaii’s UFO history because it sits on a military route anchored at Pearl Harbor, yet it remains weakened by uncertain dating, second-hand public reporting, [missing records]({{ 'missing-records/' | relative_url }}) and the fact that the senior passengers apparently were not the direct visual witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1952a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS 1952...</span></span></span>
 
 <img src="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847-overview.webp" | relative_url }}" alt="Overview image for Navy Flight" loading="eager" decoding="sync" fetchpriority="high">
 ## The reported Pearl Harbor to Guam encounter
@@ -282,18 +281,16 @@ Later summaries sharpened the story into a two-aircraft, high-status witness cas
 
 That distinction is crucial. The case is often remembered as though Kimball and Radford personally saw the objects. The more careful version is narrower: pilots or crew in aircraft carrying senior Navy officials reportedly saw something, and the senior officials later became associated with the claim because of their presence, their authority and their alleged follow-up interest. That still makes the case notable, but it reduces its weight as direct testimony from named civilian and military leaders.
 
-
-<img src="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847-Illustration-1-light.svg" | relative_url }}" alt="Navy Flight illustration 1" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847-Illustration-1-dark.svg" | relative_url }}" alt="Navy Flight illustration 1" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why senior witnesses made the story stand out
 
-Dan A. Kimball was not a casual traveller. The Truman Library’s biographical sketch lists him as Assistant Secretary of the Navy for Air in 1949, Under Secretary of the Navy from 1949 to 1951, and Secretary of the Navy from 1951 to 1953. His papers include material from his Navy Department work, trips abroad and speeches, placing him squarely in the official world that a strong UFO report would be expected to pass through. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.trumanlibrary.gov/library/personal-papers/dan-kimball-papers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trumanlibrary.gov">[Harry S. Truman Presidential Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trumanlibrary.gov</span><span class="citation-popover-title">Harry S. Truman Presidential Library Kimball, Dan A. Papers | Harry S. Truman</span><span class="citation-popover-snippet">Harry S. Truman Presidential Library Kimball, Dan A. Papers | Harry S. Truman</span></span></span>
+Dan A. Kimball was not a casual traveller. The Truman Library’s biographical sketch lists him as Assistant Secretary of the Navy for Air in 1949, Under Secretary of the Navy from 1949 to 1951, and Secretary of the Navy from 1951 to 1953. His papers include material from his Navy Department work, trips abroad and speeches, placing him squarely in the official world that a strong UFO report would be expected to pass through. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.trumanlibrary.gov/library/personal-papers/dan-kimball-papers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trumanlibrary.gov">[Harry S. Truman Presidential Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trumanlibrary.gov</span><span class="citation-popover-title">Harry S. Truman Presidential Library Kimball, Dan A. Papers &#124; Harry S. Truman</span><span class="citation-popover-snippet">Harry S. Truman Presidential Library Kimball, Dan A. Papers &#124; Harry S. Truman</span></span></span>
 
 That background made the story harder to dismiss as ordinary rumour. A report from an aircraft carrying the Secretary of the Navy, on a Pacific military route connected to Pearl Harbor, was different from a civilian report from a roadside or beach. It involved trained pilots, official aircraft, long-distance military travel and the command culture of the early 1950s. In Hawaii’s UFO history, that gives the case a distinctive place: it is less a local island sighting than a Pearl Harbor-linked military aviation claim, tied to the geography of the US Pacific defence network.
 
-The timing also matters. The Air Force’s [Project Blue Book]({{ 'blue-book-6b1d39/' | relative_url }}) began in March 1952, after earlier Air Force efforts known as Project Sign and Project Grudge. The National Archives describes [Blue Book]({{ 'blue-book-6b1d39/' | relative_url }}) as the Air Force’s declassified UFO investigation record set, with individual sighting files arranged chronologically and available on microfilm; the Air Force later said 12,618 sightings were reported between 1947 and 1969, of which 701 remained “unidentified”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The timing also matters. The Air Force’s Project [Blue Book]({{ 'blue-book-6b1d39/' | relative_url }}) began in March 1952, after earlier Air Force efforts known as Project Sign and Project Grudge. The National Archives describes Blue Book as the Air Force’s declassified UFO investigation record set, with individual sighting files arranged chronologically and available on microfilm; the Air Force later said 12,618 sightings were reported between 1947 and 1969, of which 701 remained “unidentified”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This was the period sometimes called the 1952 UFO wave. Reports from military personnel, radar operators, pilots and newspapers were receiving national attention. Project 1947’s 1952 file places the Kimball story among wider reporting on Korea, Washington radar sightings and official anxiety about how to handle “flying saucer” claims. That setting does not validate the Pearl Harbor to Guam story, but it explains why such a report could have drawn interest inside the Navy rather than being treated as a simple curiosity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1952a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS 1952...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TsblbywraW0" title="The Mysterious Washington D.C. UFO Sightings in 1952" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TsblbywraW0" target="_blank" rel="noopener noreferrer">The Mysterious Washington D.C. UFO Sightings in 1952</a></p><p class="youtube-embed-meta">Channel: FindingUFO &middot; Views: 27.4K &middot; Uploaded: March 2017 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TsblbywraW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TsblbywraW0">Open on YouTube</a></p></div></div></div>
 
@@ -307,8 +304,7 @@ This is suggestive, but not conclusive. The evidence for the alleged Navy study 
 
 That absence cuts both ways. For UFO advocates, missing files can look like a sign that something important was handled outside normal channels. For cautious historians, missing files usually mean the evidential base is weaker, not stronger. Without a surviving original flight report, radio log, crew statement, investigation file or technical analysis, the case cannot be treated as a well-documented official finding. It remains a historically interesting claim with an awkward archival gap.
 
-
-<img src="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847-Illustration-2-light.svg" | relative_url }}" alt="Navy Flight illustration 2" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847-Illustration-2-dark.svg" | relative_url }}" alt="Navy Flight illustration 2" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What uncertain dates and sourcing weaken
 
 The date is one of the first problems. The commonly repeated date is 14 March 1952, but even UFO catalogues sometimes mark it with uncertainty. NICAP’s case directory lists “March 14 (?), 1952” between Pearl Harbor and Guam, notes that Major Donald Keyhoe had given April but that this was considered incorrect, and says the event involved two Navy aircraft, two crews, no radar contact and no electromagnetic interference. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/520314hawaii_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">520314hawaii dir</span><span class="citation-popover-snippet">520314hawaii dir</span></span></span>
@@ -318,7 +314,6 @@ The direction of travel is also not always handled consistently in secondary ret
 The witness chain is another weakness. The public story comes through Kimball’s reported remarks at Pensacola, then through a journalist or columnist, then through later UFO researchers. The pilots are central, yet the most accessible accounts do not provide full signed statements from them. Radford’s association matters historically, but Project 1947’s later summary says the senior passengers were not the people who observed the objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/1952a.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - UFO REPORTS 1952...</span></span></span>
 
 There is also no known radar confirmation in the standard case summaries. NICAP’s directory explicitly lists no radar contact. That does not disprove the pilots’ report, especially over the Pacific in 1952, but it means the case depends heavily on human perception under night-flight conditions: distance, speed, altitude, size and trajectory would all have been difficult to judge without instrumental corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/Intel/UFOsandIntelligence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFOsand Intelligence</span><span class="citation-popover-snippet">UFOsand Intelligence</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GghBcZcw0nA" title="UFO Friend, Foe, or Fantasy - 1966 Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GghBcZcw0nA" target="_blank" rel="noopener noreferrer">UFO Friend, Foe, or Fantasy - 1966 Documentary</a></p><p class="youtube-embed-meta">Channel: ZxrAlienWarrior &middot; Views: 51.9K &middot; Uploaded: July 2014 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GghBcZcw0nA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GghBcZcw0nA">Open on YouTube</a></p></div></div></div>
 
@@ -332,8 +327,7 @@ The more dramatic interpretation is that trained Navy pilots saw a genuinely ano
 
 That balance is why the case remains unresolved rather than evidentially strong. It is not a debunked hoax in the ordinary sense. It is also not a documented proof case. The most responsible conclusion is that something was reported by Navy aircrew on a Pacific route tied to Pearl Harbor, but the surviving record is too thin to establish what they saw.
 
-
-<img src="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847-Illustration-3-light.svg" | relative_url }}" alt="Navy Flight illustration 3" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847-Illustration-3-dark.svg" | relative_url }}" alt="Navy Flight illustration 3" data-theme-src-dark="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hawaii_a1be95_navy_flight_case_590847-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case still matters in Hawaii’s UFO history
 
 This case belongs in Hawaii’s UFO history because Pearl Harbor was not just a departure point. It was a military hub in the Pacific, and the story reflects the kind of aviation environment that makes Hawaii-linked UFO reports distinctive: long over-water routes, strategic bases, aircraft crews, night skies and limited external reference points. Unlike many island sightings reported from shore, this one is rooted in official travel between major Pacific military nodes.
@@ -342,8 +336,7 @@ It also helps explain a recurring pattern in Hawaii-linked UFO cases. Reports co
 
 The Pearl Harbor to Guam story is therefore best read as a cautionary flagship case. It shows why high-status association can keep a UFO account alive for decades, but also why historians need to separate three things: who was on the aircraft, who actually saw the object, and what records survive. In this case, those three layers do not line up cleanly.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iFpZToN6yU" title="UFO Report Project Blue Book 1952" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iFpZToN6yU" target="_blank" rel="noopener noreferrer">UFO Report Project Blue Book 1952</a></p><p class="youtube-embed-meta">Channel: tvdays &middot; Views: 968 &middot; Uploaded: July 2021 &middot; Length: 4 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iFpZToN6yU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iFpZToN6yU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0JGDKGtykO4" title="The 1952 Washington D.C. UFO Incident | Radar, Jets &amp; An Unsolved Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0JGDKGtykO4" target="_blank" rel="noopener noreferrer">The 1952 Washington D.C. UFO Incident | Radar, Jets &amp; An Unsolved Mystery</a></p><p class="youtube-embed-meta">Channel: STM Daily News &middot; Views: 3.6K &middot; Uploaded: August 2025 &middot; Length: 1 minute 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0JGDKGtykO4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0JGDKGtykO4">Open on YouTube</a></p></div></div></div>
 
 ## A fair reading today
 
@@ -774,217 +767,217 @@ For readers following Hawaii’s UFO record, the value of the Pearl Harbor to Gu
 
 1. <a id="endnote-1"></a>
    Source: project1947.com  
-   Link: [https://www.project1947.com/fig/1952a.htm](https://www.project1947.com/fig/1952a.htm)  
+   Link: <a href="https://www.project1947.com/fig/1952a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/1952a.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947PROJECT 1947 - UFO REPORTS 1952...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: project1947.com  
-   Link: [https://www.project1947.com/fig/lifememo52a.htm](https://www.project1947.com/fig/lifememo52a.htm)  
+   Link: <a href="https://www.project1947.com/fig/lifememo52a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/lifememo52a.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947PROJECT 1947: Jan Aldrich - The Secret Story Behind the April 7, 1952 LIFE Magazine UFO Article...</p></details>
    Published: April 7, 1952  
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 4. <a id="endnote-4"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nicap.org  
    Title: 520314hawaii dir  
-   Link: [https://www.nicap.org/520314hawaii_dir.htm](https://www.nicap.org/520314hawaii_dir.htm)  
+   Link: <a href="https://www.nicap.org/520314hawaii_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/520314hawaii_dir.htm</a>  
 
 6. <a id="endnote-6"></a>
    Source: history.navy.mil  
    Title: u2s ufos and operation blue book  
-   Link: [https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html](https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html)  
+   Link: <a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/u2s-ufos-and-operation-blue-book.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: history.navy.mil  
-   Link: [https://www.history.navy.mil/our-collections/photography/us-people/k/kimball-dan-a.html](https://www.history.navy.mil/our-collections/photography/us-people/k/kimball-dan-a.html)  
+   Link: <a href="https://www.history.navy.mil/our-collections/photography/us-people/k/kimball-dan-a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/our-collections/photography/us-people/k/kimball-dan-a.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: history.navy.mil  
    Title: nh 77354 kn  
-   Link: [https://www.history.navy.mil/our-collections/photography/us-people/k/kimball-dan-a/nh-77354-kn.html](https://www.history.navy.mil/our-collections/photography/us-people/k/kimball-dan-a/nh-77354-kn.html)  
+   Link: <a href="https://www.history.navy.mil/our-collections/photography/us-people/k/kimball-dan-a/nh-77354-kn.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/our-collections/photography/us-people/k/kimball-dan-a/nh-77354-kn.html</a>  
 
 9. <a id="endnote-9"></a>
    Source: history.navy.mil  
    Title: mil Secretaries of the Navy  
-   Link: [https://www.history.navy.mil/browse-by-topic/people/sec-nav.html](https://www.history.navy.mil/browse-by-topic/people/sec-nav.html)  
+   Link: <a href="https://www.history.navy.mil/browse-by-topic/people/sec-nav.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/people/sec-nav.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: history.navy.mil  
    Title: secretaries of the navy and key united states naval officers 1950 1975  
-   Link: [https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/b/by-sea-air-land-marolda/secretaries-of-the-navy-and-key-united-states-naval-officers-1950-1975.html](https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/b/by-sea-air-land-marolda/secretaries-of-the-navy-and-key-united-states-naval-officers-1950-1975.html)  
+   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/b/by-sea-air-land-marolda/secretaries-of-the-navy-and-key-united-states-naval-officers-1950-1975.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/b/by-sea-air-land-marolda/secretaries-of-the-navy-and-key-united-states-naval-officers-1950-1975.html</a>  
 
 11. <a id="endnote-11"></a>
    Source: history.navy.mil  
    Title: mil People  
-   Link: [https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/korean-war/korea-people-awards.html](https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/korean-war/korea-people-awards.html)  
+   Link: <a href="https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/korean-war/korea-people-awards.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/korean-war/korea-people-awards.html</a>  
 
 12. <a id="endnote-12"></a>
    Source: history.navy.mil  
    Title: mil J. Daniel Howard  
-   Link: [https://www.history.navy.mil/content/history/nhhc/browse-by-topic/people/sec-nav/howard/daniel-howard.html](https://www.history.navy.mil/content/history/nhhc/browse-by-topic/people/sec-nav/howard/daniel-howard.html)  
+   Link: <a href="https://www.history.navy.mil/content/history/nhhc/browse-by-topic/people/sec-nav/howard/daniel-howard.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/content/history/nhhc/browse-by-topic/people/sec-nav/howard/daniel-howard.html</a>  
 
 13. <a id="endnote-13"></a>
    Source: history.navy.mil  
    Title: mil Josephus Daniels  
-   Link: [https://www.history.navy.mil/content/history/nhhc/browse-by-topic/people/sec-nav/daniels/josephus-daniels.html](https://www.history.navy.mil/content/history/nhhc/browse-by-topic/people/sec-nav/daniels/josephus-daniels.html)  
+   Link: <a href="https://www.history.navy.mil/content/history/nhhc/browse-by-topic/people/sec-nav/daniels/josephus-daniels.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/content/history/nhhc/browse-by-topic/people/sec-nav/daniels/josephus-daniels.html</a>  
 
 14. <a id="endnote-14"></a>
    Source: history.navy.mil  
    Title: john phelan  
-   Link: [https://www.history.navy.mil/browse-by-topic/people/sec-nav/john-phelan.html](https://www.history.navy.mil/browse-by-topic/people/sec-nav/john-phelan.html)  
+   Link: <a href="https://www.history.navy.mil/browse-by-topic/people/sec-nav/john-phelan.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/people/sec-nav/john-phelan.html</a>  
 
 15. <a id="endnote-15"></a>
    Source: history.navy.mil  
    Title: mil William L. Ball  
-   Link: [https://www.history.navy.mil/content/history/nhhc/browse-by-topic/people/sec-nav/ball/william-ball.html](https://www.history.navy.mil/content/history/nhhc/browse-by-topic/people/sec-nav/ball/william-ball.html)  
+   Link: <a href="https://www.history.navy.mil/content/history/nhhc/browse-by-topic/people/sec-nav/ball/william-ball.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/content/history/nhhc/browse-by-topic/people/sec-nav/ball/william-ball.html</a>  
 
 16. <a id="endnote-16"></a>
    Source: history.navy.mil  
    Title: harry s truman library museum  
-   Link: [https://www.history.navy.mil/research/library/research-guides/source-guide-entry-by-state/missouri/harry-s-truman-library-museum.html](https://www.history.navy.mil/research/library/research-guides/source-guide-entry-by-state/missouri/harry-s-truman-library-museum.html)  
+   Link: <a href="https://www.history.navy.mil/research/library/research-guides/source-guide-entry-by-state/missouri/harry-s-truman-library-museum.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/research-guides/source-guide-entry-by-state/missouri/harry-s-truman-library-museum.html</a>  
 
 17. <a id="endnote-17"></a>
    Source: archives.gov  
    Title: moving images and sound  
-   Link: [https://www.archives.gov/research/topics/uaps/moving-images-and-sound](https://www.archives.gov/research/topics/uaps/moving-images-and-sound)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
 18. <a id="endnote-18"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 19. <a id="endnote-19"></a>
    Source: nicap.org  
    Title: UFOsand Intelligence  
-   Link: [https://www.nicap.org/Intel/UFOsandIntelligence.pdf](https://www.nicap.org/Intel/UFOsandIntelligence.pdf)  
+   Link: <a href="https://www.nicap.org/Intel/UFOsandIntelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/Intel/UFOsandIntelligence.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=TsblbywraW0](http://www.youtube.com/watch?v=TsblbywraW0)  
+   Link: <a href="http://www.youtube.com/watch?v=TsblbywraW0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TsblbywraW0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Declassified - The True Story of the D.C. UFO Sightings | History...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified  
-   Link: [http://www.youtube.com/watch?v=UKzI3uu_oTQ](http://www.youtube.com/watch?v=UKzI3uu_oTQ)  
+   Link: <a href="http://www.youtube.com/watch?v=UKzI3uu_oTQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=UKzI3uu_oTQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report Project Blue Book 1952...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: trumanlibrary.gov  
    Title: Harry S. Truman Presidential Library Kimball, Dan A. Papers | Harry S. Truman  
-   Link: [https://www.trumanlibrary.gov/library/personal-papers/dan-kimball-papers](https://www.trumanlibrary.gov/library/personal-papers/dan-kimball-papers)  
+   Link: <a href="https://www.trumanlibrary.gov/library/personal-papers/dan-kimball-papers" target="_blank" rel="noopener noreferrer nofollow">https://www.trumanlibrary.gov/library/personal-papers/dan-kimball-papers</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Dan A. Kimball  
-   Link: [https://en.wikipedia.org/wiki/Dan_A._Kimball](https://en.wikipedia.org/wiki/Dan_A._Kimball)  
+   Link: <a href="https://en.wikipedia.org/wiki/Dan_A._Kimball" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dan_A._Kimball</a>  
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 25. <a id="endnote-25"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR11 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf](https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
 27. <a id="endnote-27"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf](https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: the ufo files extract  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf](https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: scribd.com  
    Title: Project Blue Book, Top Secret UFO Files  
-   Link: [https://www.scribd.com/document/498639520/Project-Blue-Book-Top-Secret-UFO-Files-the-Untold-Truth-PDFDrive](https://www.scribd.com/document/498639520/Project-Blue-Book-Top-Secret-UFO-Files-the-Untold-Truth-PDFDrive)  
+   Link: <a href="https://www.scribd.com/document/498639520/Project-Blue-Book-Top-Secret-UFO-Files-the-Untold-Truth-PDFDrive" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/498639520/Project-Blue-Book-Top-Secret-UFO-Files-the-Untold-Truth-PDFDrive</a>  
 
 30. <a id="endnote-30"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/456301001/Project-Blue-Book-Top-Secret-UFO-Files-The-Untold-Truth-by-John-Scott-Chace-pdf](https://www.scribd.com/document/456301001/Project-Blue-Book-Top-Secret-UFO-Files-The-Untold-Truth-by-John-Scott-Chace-pdf)  
+   Link: <a href="https://www.scribd.com/document/456301001/Project-Blue-Book-Top-Secret-UFO-Files-The-Untold-Truth-by-John-Scott-Chace-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/456301001/Project-Blue-Book-Top-Secret-UFO-Files-The-Untold-Truth-by-John-Scott-Chace-pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/427182434/Ufo](https://www.scribd.com/document/427182434/Ufo)  
+   Link: <a href="https://www.scribd.com/document/427182434/Ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/427182434/Ufo</a>  
 
 32. <a id="endnote-32"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 33. <a id="endnote-33"></a>
    Source: docsteach.org  
-   Link: [https://docsteach.org/document/project-blue-book-status-report-number-eight/](https://docsteach.org/document/project-blue-book-status-report-number-eight/)  
+   Link: <a href="https://docsteach.org/document/project-blue-book-status-report-number-eight/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/project-blue-book-status-report-number-eight/</a>  
 
 34. <a id="endnote-34"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 35. <a id="endnote-35"></a>
    Source: time.graphics  
-   Link: [https://time.graphics/period/3345872](https://time.graphics/period/3345872)  
+   Link: <a href="https://time.graphics/period/3345872" target="_blank" rel="noopener noreferrer nofollow">https://time.graphics/period/3345872</a>  
 
 ### Additional References
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=0JGDKGtykO4](http://www.youtube.com/watch?v=0JGDKGtykO4)  
+   Link: <a href="http://www.youtube.com/watch?v=0JGDKGtykO4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0JGDKGtykO4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Saucers Over Washington, DC ~ The Great UFO Flap of 1952...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=9iFpZToN6yU](http://www.youtube.com/watch?v=9iFpZToN6yU)  
+   Link: <a href="http://www.youtube.com/watch?v=9iFpZToN6yU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=9iFpZToN6yU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Kimball UFO encounter 1952 NASA ROVER SPOTS ALIENS | The Proof Is Out There | #Shorts | History HISTORY...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: energy.gov  
-   Link: [https://www.energy.gov/sites/prod/files/2013/08/f2/HewlettandDuncanNuclearNavyComplete.pdf](https://www.energy.gov/sites/prod/files/2013/08/f2/HewlettandDuncanNuclearNavyComplete.pdf)  
+   Link: <a href="https://www.energy.gov/sites/prod/files/2013/08/f2/HewlettandDuncanNuclearNavyComplete.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/sites/prod/files/2013/08/f2/HewlettandDuncanNuclearNavyComplete.pdf</a>  
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
    Title: UFO Friend, Foe, or Fantasy  
-   Link: [http://www.youtube.com/watch?v=GghBcZcw0nA](http://www.youtube.com/watch?v=GghBcZcw0nA)  
+   Link: <a href="http://www.youtube.com/watch?v=GghBcZcw0nA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=GghBcZcw0nA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1952 Washington D.C. UFO Incident | Radar, Jets &amp; An Unsolved Mystery...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=Rk5Z4CqIzy0](http://www.youtube.com/watch?v=Rk5Z4CqIzy0)  
+   Link: <a href="http://www.youtube.com/watch?v=Rk5Z4CqIzy0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Rk5Z4CqIzy0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Washington D.C. UFO Sightings in 1952...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/405037194947887/posts/494909789293960/](https://www.facebook.com/groups/405037194947887/posts/494909789293960/)  
+   Link: <a href="https://www.facebook.com/groups/405037194947887/posts/494909789293960/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/405037194947887/posts/494909789293960/</a>  
 
 42. <a id="endnote-42"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/centerforufostudies/posts/on-this-day-in-1952-march-14-1952-evening-us-secretary-of-the-navy-dan-a-kimball/649421841141468/](https://www.facebook.com/centerforufostudies/posts/on-this-day-in-1952-march-14-1952-evening-us-secretary-of-the-navy-dan-a-kimball/649421841141468/)  
+   Link: <a href="https://www.facebook.com/centerforufostudies/posts/on-this-day-in-1952-march-14-1952-evening-us-secretary-of-the-navy-dan-a-kimball/649421841141468/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/centerforufostudies/posts/on-this-day-in-1952-march-14-1952-evening-us-secretary-of-the-navy-dan-a-kimball/649421841141468/</a>  
 
 44. <a id="endnote-44"></a>
    Source: sdonline.org  
-   Link: [https://sdonline.org/issue/42/flying-saucers-are-real-us-navy-unidentified-flying-objects-and-national-security-state](https://sdonline.org/issue/42/flying-saucers-are-real-us-navy-unidentified-flying-objects-and-national-security-state)  
+   Link: <a href="https://sdonline.org/issue/42/flying-saucers-are-real-us-navy-unidentified-flying-objects-and-national-security-state" target="_blank" rel="noopener noreferrer nofollow">https://sdonline.org/issue/42/flying-saucers-are-real-us-navy-unidentified-flying-objects-and-national-security-state</a>  
 
 45. <a id="endnote-45"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/allhands3833unit/allhands3833unit_djvu.txt](https://archive.org/stream/allhands3833unit/allhands3833unit_djvu.txt)  
+   Link: <a href="https://archive.org/stream/allhands3833unit/allhands3833unit_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/allhands3833unit/allhands3833unit_djvu.txt</a>

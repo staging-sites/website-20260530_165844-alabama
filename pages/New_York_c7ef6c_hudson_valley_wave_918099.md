@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-new-yorks-ufo/
 nav_short_title: Hudson Wave
 title: Was the Hudson Valley Boomerang a UFO?
-title_full: Was the Hudson Valley Boomerang a UFO? | New York UFOs
+title_full: Was the Hudson Valley Boomerang a UFO?
 display_title_short: Hudson Wave
 display_title: Hudson Wave
 heading_title: Was the Hudson Valley Boomerang a UFO?
@@ -262,8 +262,7 @@ image: /assets/images/New_York_c7ef6c_hudson_valley_wave_918099-overview-social.
 
 ## Introduction
 
-The Hudson Valley wave is [New York]({{ 'what-really-happened-in-new-yorks-ufo/' | relative_url }})’s defining UFO story because it has two unusually strong ingredients at once: vivid mass testimony and a serious ordinary explanation. From 1983 into 1984, residents across Westchester, Putnam, Dutchess and nearby western Connecticut reported enormous silent lights, often in a V, triangle, circle or [boomerang]({{ 'boomerang/' | relative_url }}) shape, moving slowly over roads, neighbourhoods and police jurisdictions. Some witnesses described a single dark craft “as large as a football field”; others saw a formation of lights that could plausibly have been aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
-
+The Hudson Valley wave is New York’s defining UFO story because it has two unusually strong ingredients at once: vivid mass testimony and a serious ordinary explanation. From 1983 into 1984, residents across Westchester, Putnam, Dutchess and nearby western Connecticut reported enormous silent lights, often in a V, triangle, circle or [boomerang]({{ 'boomerang/' | relative_url }}) shape, moving slowly over roads, neighbourhoods and police jurisdictions. Some witnesses described a single dark craft “as large as a football field”; others saw a formation of lights that could plausibly have been aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span>
 
 <img src="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099-overview.webp" | relative_url }}" alt="Overview image for Hudson Wave" loading="eager" decoding="sync" fetchpriority="high">
 The best reading is not that every witness was fooled, nor that the case proves an exotic craft. The strongest conventional explanation is that small aircraft, including Cessna-type planes flying in tight night formation from local airports, generated many of the reports. The reason the case still divides readers is that some close-range witnesses, investigators and later retellings insist the aircraft explanation fits only part of the wave. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Hudson_River_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Hudson River UFO</span><span class="citation-popover-snippet">Hudson River UFO</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Hudson_River_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[Unsolved Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Hudson River UFO</span><span class="citation-popover-snippet">Hudson River UFO</span></span></span>
@@ -278,8 +277,7 @@ The March 1983 reports are central to the case. Retrospective coverage in the Ti
 
 That witness volume matters, but it does not settle the case. A mass sighting can show that many people saw something real in the sky, without proving that they saw one extraordinary craft. The same formation of aircraft, seen from different distances and angles, can look like a rigid body to one observer, a moving arc of lights to another and ordinary planes to a third. The Hudson Valley wave is valuable precisely because those interpretations collided in real time.
 
-
-<img src="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099-Illustration-1-light.svg" | relative_url }}" alt="Hudson Wave illustration 1" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099-Illustration-1-dark.svg" | relative_url }}" alt="Hudson Wave illustration 1" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The aircraft-formation explanation
 
 The main sceptical explanation is not a vague claim that people “imagined it”. It is more specific: groups of local pilots were said to have flown small aircraft in tight formation at night, using lights that made the formation appear like one giant object. One account says a state police officer followed the lights to Stormville Airport and reported that they were light planes flying in formation, with dark undersides and bright lights that helped create the UFO shape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1984 Hudson Valley UFO sightings</span><span class="citation-popover-snippet">1984 Hudson Valley UFO sightings</span></span></span>
@@ -291,7 +289,6 @@ It also fits aviation rules better than many readers assume. Formation flight is
 The most damaging detail for the exotic-craft interpretation is that some witnesses and officials believed they had identified the source. CT Insider reports that a Stewart International Airport spokesman told the Associated Press in 1988 that most Westchester Boomerang sightings were caused by pranking pilots flying in formation, adding that the practice was not illegal but was annoying. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctinsider.com">[CT Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctinsider.com</span><span class="citation-popover-title">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span><span class="citation-popover-snippet">CT Insider Examining some of Connecticut&#x27;s most spectacular UFO sightings</span></span></span> Plane + Pilot likewise summarises the conventional account: an officer allegedly traced the lights to Stormville Airport, where small single-engine planes with dark undersides and alternating bright lights were seen in formation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://planeandpilotmag.com/ufo-swarms-of-the-hudson-valley/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planeandpilotmag.com">[planeandpilotmag.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planeandpilotmag.com</span><span class="citation-popover-title">UF O Swarms Of The Hudson Valley</span><span class="citation-popover-snippet">UF O Swarms Of The Hudson Valley</span></span></span>
 
 The aircraft explanation is therefore strong, but it is not the same as a complete, case-by-case resolution. It accounts best for repeated night-time light formations seen from a distance, especially where witnesses later heard engines or where the lights behaved like separate aircraft. It is weaker for reports claiming a very close, silent, solid structure directly overhead, because those reports depend heavily on subjective estimates of distance, size and sound.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XKEf24q6adc" title="A UFO Hotspot in New York (Season 18) | Ancient Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XKEf24q6adc" target="_blank" rel="noopener noreferrer">A UFO Hotspot in New York (Season 18) | Ancient Aliens</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 84.5K &middot; Uploaded: February 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XKEf24q6adc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XKEf24q6adc">Open on YouTube</a></p></div></div></div>
 
@@ -305,8 +302,7 @@ The difficulty is that those claims are not the same as independent proof. Video
 
 There is also a social reason the case endured. Local newspapers and television did not treat the story simply as a joke. The Debrief’s review of contemporary coverage notes that regional reporting followed witnesses, investigators, police comments and public meetings, including a 1984 UFO convention attended by more than 500 people with J. Allen Hynek as keynote speaker. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/the-hudson-valley-ufos-how-the-media-reacted-to-a-1980s-ufo-flap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">the hudson valley ufos how the media reacted to a 1980s ufo flap</span><span class="citation-popover-snippet">the hudson valley ufos how the media reacted to a 1980s ufo flap</span></span></span> Once a sighting wave becomes a shared local event, each new report is no longer an isolated observation; it is interpreted through a story the whole region is already telling.
 
-
-<img src="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099-Illustration-2-light.svg" | relative_url }}" alt="Hudson Wave illustration 2" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099-Illustration-2-dark.svg" | relative_url }}" alt="Hudson Wave illustration 2" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Indian Point made the stakes feel higher
 
 The most sensitive claims in the Hudson Valley wave concern Indian Point, the nuclear power station on the Hudson River in Westchester County. Reports associated with 14 June and 24 July 1984 described a large object or lights near the reactors, with some accounts saying guards saw a huge structured object and that security responses escalated. Discovery UK summarises the contested version: multiple witnesses, including plant guards, reportedly described a large object hovering or moving slowly near the reactors, while power authority and police sources said the incident was again consistent with Cessna pilots using the plant as a visible landmark. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/hudson-valley-ufo-americas-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKHudson Valley UFO: America’s UFO Hotspot</span><span class="citation-popover-snippet">Discovery UKHudson Valley UFO: America’s UFO Hotspot</span></span></span>
@@ -314,7 +310,6 @@ The most sensitive claims in the Hudson Valley wave concern Indian Point, the nu
 This is where the wave’s evidential problem becomes clearest. Nuclear-site claims naturally feel more important than suburban road sightings, because they suggest a potential security issue. But the available public record is contested. Some UFO accounts emphasise guards, shotguns and calls for military support; sceptical or official-facing accounts dispute those details and point back to aircraft. A Nuclear Regulatory Commission search result for a later FOIA response refers to records requested about a July 1984 UFO sighting by Power Authority police at Indian Point and states that a file search found no responsive record, which weakens the strongest versions of the incident but does not prove that no one saw anything. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nrc.gov/docs/ML2117/ML21179A021.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nrc.gov">[Nuclear Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nrc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The cautious conclusion is that Indian Point should not be used as a trump card. It is an important part of the Hudson Valley story because it shows how quickly a light-formation mystery can become a public-safety narrative. It is not, on the open evidence, a confirmed case of an unknown craft over a nuclear plant.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NBiYdJkD6bk" title="Unsolved Mysteries with Robert Stack - Season 5, Episode 1 - Full Episode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NBiYdJkD6bk" target="_blank" rel="noopener noreferrer">Unsolved Mysteries with Robert Stack - Season 5, Episode 1 - Full Episode</a></p><p class="youtube-embed-meta">Channel: Unsolved Mysteries - Full Episodes &middot; Views: 1.2M &middot; Uploaded: March 2019 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NBiYdJkD6bk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NBiYdJkD6bk">Open on YouTube</a></p></div></div></div>
 
@@ -328,8 +323,7 @@ The weakest evidence is the material that depends on dramatic size and altitude 
 
 The most unresolved evidence lies in the middle: reports where several observers described a single solid body, very low speed, little or no sound and behaviour that seemed unlike a group of aircraft. Those accounts prevent a tidy dismissal, but they do not by themselves overturn the aircraft explanation. They leave a narrower question: whether the Hudson Valley wave was almost entirely aircraft formations and misperception, or whether a smaller number of genuinely unexplained sightings became mixed into a much larger explained flap.
 
-
-<img src="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099-Illustration-3-light.svg" | relative_url }}" alt="Hudson Wave illustration 3" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099-Illustration-3-dark.svg" | relative_url }}" alt="Hudson Wave illustration 3" data-theme-src-dark="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_York_c7ef6c_hudson_valley_wave_918099-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The best balanced assessment
 
 The Hudson Valley Boomerang was a real New York UFO wave in the historical sense: many people genuinely reported unidentified aerial phenomena over a specific region, and the reports became part of the state’s public UFO record. It was not, however, a clean evidential case for an alien craft or secret aircraft. The most defensible explanation is that small aircraft flying in night formation explain a large share of the reports, especially the recurring V-shaped and circular light patterns seen across the lower Hudson Valley in 1983 and 1984.
@@ -338,9 +332,7 @@ What remains interesting is not that the explanation fails completely, but that 
 
 Within New York’s UFO history, the Hudson Valley wave matters because it sits between folklore and investigation. It is more substantial than a single anecdote, but less decisive than believers often claim. Its lesson is not “case closed” or “proof at last”. It is that the most durable UFO stories often survive because the evidence points in two directions at once: enough ordinary explanation to make the mystery smaller, and enough unresolved testimony to keep the question alive.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3tmIQmUDVtY" title="Ancient Aliens: UFO Invasion in New York&#x27;s Hudson Valley (Season 19) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3tmIQmUDVtY" target="_blank" rel="noopener noreferrer">Ancient Aliens: UFO Invasion in New York&#x27;s Hudson Valley (Season 19) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 360.7K &middot; Uploaded: February 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3tmIQmUDVtY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3tmIQmUDVtY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -428,7 +420,7 @@ Within New York’s UFO history, the Hudson Valley wave matters because it sits 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -438,111 +430,36 @@ Within New York’s UFO history, the Hudson Valley wave matters because it sits 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grateful Dead Bertha UFO Maxi Poster"><img src="https://i.ebayimg.com/images/g/pM4AAeSwvQporxeM/s-l225.jpg" alt="Listing image for Grateful Dead Bertha UFO Maxi Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Grateful Dead Bertha UFO Maxi Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,15 +467,15 @@ Within New York’s UFO history, the Hudson Valley wave matters because it sits 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -566,15 +483,15 @@ Within New York’s UFO history, the Hudson Valley wave matters because it sits 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="https://i.ebayimg.com/images/g/B7QAAeSw73loHdMA/s-l225.jpg" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -582,15 +499,15 @@ Within New York’s UFO history, the Hudson Valley wave matters because it sits 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -598,7 +515,7 @@ Within New York’s UFO history, the Hudson Valley wave matters because it sits 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hudson-wave-was-the-hudson-valley-boomerang-a-ufo-new-york-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="was-the-hudson-valley-boomerang-a-ufo-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-tic" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -675,17 +592,31 @@ Within New York’s UFO history, the Hudson Valley wave matters because it sits 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -698,42 +629,73 @@ Within New York’s UFO history, the Hudson Valley wave matters because it sits 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -748,12 +710,17 @@ Within New York’s UFO history, the Hudson Valley wave matters because it sits 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -764,124 +731,124 @@ Within New York’s UFO history, the Hudson Valley wave matters because it sits 
 1. <a id="endnote-1"></a>
    Source: unsolved.com  
    Title: Mysteries Hudson Valley UFO  
-   Link: [https://unsolved.com/gallery/hudson-valley-ufo/](https://unsolved.com/gallery/hudson-valley-ufo/)  
+   Link: <a href="https://unsolved.com/gallery/hudson-valley-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://unsolved.com/gallery/hudson-valley-ufo/</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: 1984 Hudson Valley UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings](https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1984_Hudson_Valley_UFO_sightings</a>  
 
 3. <a id="endnote-3"></a>
    Source: ecfr.gov  
-   Link: [https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.111](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.111)  
+   Link: <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.111" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.111</a>  
 
 4. <a id="endnote-4"></a>
    Source: ecfr.gov  
-   Link: [https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.119](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.119)  
+   Link: <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.119" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-91/subpart-B/subject-group-ECFRe4c59b5f5506932/section-91.119</a>  
 
 5. <a id="endnote-5"></a>
    Source: planeandpilotmag.com  
    Title: UF O Swarms Of The Hudson Valley  
-   Link: [https://planeandpilotmag.com/ufo-swarms-of-the-hudson-valley/](https://planeandpilotmag.com/ufo-swarms-of-the-hudson-valley/)  
+   Link: <a href="https://planeandpilotmag.com/ufo-swarms-of-the-hudson-valley/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/ufo-swarms-of-the-hudson-valley/</a>  
 
 6. <a id="endnote-6"></a>
    Source: discoveryuk.com  
    Title: Discovery UKHudson Valley UFO: America’s UFO Hotspot  
-   Link: [https://www.discoveryuk.com/mysteries/hudson-valley-ufo-americas-ufo-hotspot/](https://www.discoveryuk.com/mysteries/hudson-valley-ufo-americas-ufo-hotspot/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/hudson-valley-ufo-americas-ufo-hotspot/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/hudson-valley-ufo-americas-ufo-hotspot/</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Visual flight rules  
-   Link: [https://en.wikipedia.org/wiki/Visual_flight_rules](https://en.wikipedia.org/wiki/Visual_flight_rules)  
+   Link: <a href="https://en.wikipedia.org/wiki/Visual_flight_rules" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Visual_flight_rules</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: UFO photographs  
-   Link: [https://en.wikipedia.org/wiki/UFO_photographs](https://en.wikipedia.org/wiki/UFO_photographs)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Unsolved Mysteries with Robert Stack  
-   Link: [https://www.youtube.com/watch?v=NBiYdJkD6bk](https://www.youtube.com/watch?v=NBiYdJkD6bk)  
+   Link: <a href="https://www.youtube.com/watch?v=NBiYdJkD6bk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NBiYdJkD6bk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hudson Valley UFO Sightings, 1982 - 1986...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ctinsider.com  
    Title: CT Insider Examining some of Connecticut's most spectacular UFO sightings  
-   Link: [https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php](https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php)  
+   Link: <a href="https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php" target="_blank" rel="noopener noreferrer nofollow">https://www.ctinsider.com/connecticutmagazine/news-people/article/Examining-some-of-Connecticut-s-most-spectacular-17046013.php</a>  
 
 11. <a id="endnote-11"></a>
    Source: timesunion.com  
    Title: Times Union The mysterious history of the Hudson Valley UFO sightings  
-   Link: [https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php](https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php)  
+   Link: <a href="https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php" target="_blank" rel="noopener noreferrer nofollow">https://www.timesunion.com/hudsonvalley/history/article/ufo-sightings-westchester-pine-bush-mystery-19363246.php</a>  
 
 12. <a id="endnote-12"></a>
    Source: thedebrief.org  
    Title: the hudson valley ufos how the media reacted to a 1980s ufo flap  
-   Link: [https://thedebrief.org/the-hudson-valley-ufos-how-the-media-reacted-to-a-1980s-ufo-flap/](https://thedebrief.org/the-hudson-valley-ufos-how-the-media-reacted-to-a-1980s-ufo-flap/)  
+   Link: <a href="https://thedebrief.org/the-hudson-valley-ufos-how-the-media-reacted-to-a-1980s-ufo-flap/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-hudson-valley-ufos-how-the-media-reacted-to-a-1980s-ufo-flap/</a>  
 
 13. <a id="endnote-13"></a>
    Source: nrc.gov  
-   Link: [https://www.nrc.gov/docs/ML2117/ML21179A021.pdf](https://www.nrc.gov/docs/ML2117/ML21179A021.pdf)  
+   Link: <a href="https://www.nrc.gov/docs/ML2117/ML21179A021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/docs/ML2117/ML21179A021.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Hudson River UFO  
-   Link: [https://unsolvedmysteries.fandom.com/wiki/Hudson_River_UFO](https://unsolvedmysteries.fandom.com/wiki/Hudson_River_UFO)  
+   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Hudson_River_UFO" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Hudson_River_UFO</a>  
 
 15. <a id="endnote-15"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/media/12831](https://www.faa.gov/media/12831)  
+   Link: <a href="https://www.faa.gov/media/12831" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/media/12831</a>  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1900475900244078/posts/3863460610612254/](https://www.facebook.com/groups/1900475900244078/posts/3863460610612254/)  
+   Link: <a href="https://www.facebook.com/groups/1900475900244078/posts/3863460610612254/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1900475900244078/posts/3863460610612254/</a>  
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: A UFO Hotspot in New York (Season 18) | Ancient Aliens  
-   Link: [https://www.youtube.com/watch?v=XKEf24q6adc](https://www.youtube.com/watch?v=XKEf24q6adc)  
+   Link: <a href="https://www.youtube.com/watch?v=XKEf24q6adc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XKEf24q6adc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hudson Valley UFO wave Unsolved Mysteries Cessna aircraft Hudson Valley UFO Sightings, 1982 - 1986 Think Anomalous...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Ancient Aliens: UFO Invasion in New York's Hudson Valley (Season 19) | History  
-   Link: [https://www.youtube.com/watch?v=3tmIQmUDVtY](https://www.youtube.com/watch?v=3tmIQmUDVtY)  
+   Link: <a href="https://www.youtube.com/watch?v=3tmIQmUDVtY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3tmIQmUDVtY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hudson Valley UFO Sightings Revisited presentation by Michael Schratt...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Hudson Valley UFO Sightings Revisited presentation by Michael Schratt  
-   Link: [https://www.youtube.com/watch?v=mHA6Blu_dFY](https://www.youtube.com/watch?v=mHA6Blu_dFY)  
+   Link: <a href="https://www.youtube.com/watch?v=mHA6Blu_dFY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mHA6Blu_dFY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO Hotspot in New York (Season 18) | Ancient Aliens...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/CFR-2011-title14-vol2/pdf/CFR-2011-title14-vol2-sec91-113.pdf](https://www.govinfo.gov/content/pkg/CFR-2011-title14-vol2/pdf/CFR-2011-title14-vol2-sec91-113.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/CFR-2011-title14-vol2/pdf/CFR-2011-title14-vol2-sec91-113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CFR-2011-title14-vol2/pdf/CFR-2011-title14-vol2-sec91-113.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/media/29701](https://www.faa.gov/media/29701)  
+   Link: <a href="https://www.faa.gov/media/29701" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/media/29701</a>  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=syj1T11xFMA](https://www.youtube.com/watch?v=syj1T11xFMA)  
+   Link: <a href="https://www.youtube.com/watch?v=syj1T11xFMA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=syj1T11xFMA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: UFO Invasion in New York&#x27;s Hudson Valley (Season 19) | History...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html](https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html)  
+   Link: <a href="https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/bad-ufos-critical-thinking-about-ufo-claims-1519260849-9781519260840.html</a>  
 
 24. <a id="endnote-24"></a>
    Source: mzeroa.com  
-   Link: [https://www.mzeroa.com/airplanes/cfr-91-119-minimumu-safe-altitude/?srsltid=AfmBOop5njS4NWBQ928FaemSnJYTmG2wAfKw8hlDk652GPihkpXV0jY-](https://www.mzeroa.com/airplanes/cfr-91-119-minimumu-safe-altitude/?srsltid=AfmBOop5njS4NWBQ928FaemSnJYTmG2wAfKw8hlDk652GPihkpXV0jY-)  
+   Link: <a href="https://www.mzeroa.com/airplanes/cfr-91-119-minimumu-safe-altitude/?srsltid=AfmBOop5njS4NWBQ928FaemSnJYTmG2wAfKw8hlDk652GPihkpXV0jY-" target="_blank" rel="noopener noreferrer nofollow">https://www.mzeroa.com/airplanes/cfr-91-119-minimumu-safe-altitude/?srsltid=AfmBOop5njS4NWBQ928FaemSnJYTmG2wAfKw8hlDk652GPihkpXV0jY-</a>  
 
 25. <a id="endnote-25"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/524768923/cross-country-flight-planning-d-federal-aviation-regulations-part-91-flash-cards/](https://quizlet.com/524768923/cross-country-flight-planning-d-federal-aviation-regulations-part-91-flash-cards/)  
+   Link: <a href="https://quizlet.com/524768923/cross-country-flight-planning-d-federal-aviation-regulations-part-91-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/524768923/cross-country-flight-planning-d-federal-aviation-regulations-part-91-flash-cards/</a>  
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/unl1e9/did_anyone_witness_the_hudson_valley_boomerang/](https://www.reddit.com/r/UFOs/comments/unl1e9/did_anyone_witness_the_hudson_valley_boomerang/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/unl1e9/did_anyone_witness_the_hudson_valley_boomerang/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/unl1e9/did_anyone_witness_the_hudson_valley_boomerang/</a>

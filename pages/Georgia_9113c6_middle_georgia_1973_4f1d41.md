@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-georgias-most/
 nav_short_title: 1973 Flap
 title: Why Georgia's 1973 UFO Wave Drew Police Attention
-title_full: Why Georgia's 1973 UFO Wave Drew Police Attention | Georgia UFOs
+title_full: Why Georgia's 1973 UFO Wave Drew Police Attention
 display_title_short: 1973 Flap
 display_title: 1973 Flap
 heading_title: Why Georgia's 1973 UFO Wave Drew Police Attention
@@ -262,8 +262,7 @@ image: /assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41-overview-social.
 
 ## Introduction
 
-The 1973 Middle [Georgia]({{ 'what-really-happened-in-georgias-most/' | relative_url }}) UFO flap matters because it was not just a private “I saw something” story. In late August and early September 1973, reports of strange lights moved through Macon, Cordele, Albany, Dawson, Adel and nearby communities, reaching police radios, fire crews, local newspapers and wire-service coverage. The best-known Macon episode began in the early hours of 31 August, when Cordele police reportedly warned Macon officers that a UFO was “heading toward Macon”; within hours, Macon officers and firefighters were describing multicoloured lights over the city. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macon.com">[Macon Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macon.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
+The 1973 Middle Georgia UFO flap matters because it was not just a private “I saw something” story. In late August and early September 1973, reports of strange lights moved through Macon, Cordele, Albany, Dawson, Adel and nearby communities, reaching police radios, fire crews, local newspapers and wire-service coverage. The best-known Macon episode began in the early hours of 31 August, when Cordele police reportedly warned Macon officers that a UFO was “heading toward Macon”; within hours, Macon officers and firefighters were describing multicoloured lights over the city. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macon.com">[Macon Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macon.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41-overview.webp" | relative_url }}" alt="Overview image for 1973 Flap" loading="eager" decoding="sync" fetchpriority="high">
 That official attention is what gives the flap its place in Georgia UFO history. It does not prove that an exotic craft crossed Middle Georgia. It does show how quickly a cluster of ambiguous night-sky observations could become a regional news event when police, firefighters, military personnel and reporters were among the witnesses. The case is best read as a compact example of 1970s UFO culture: sincere witnesses, incomplete evidence, busy police dispatches, vivid press accounts, and plausible but unconfirmed explanations such as balloons, aircraft, satellites, re-entering debris or misread ordinary lights.
@@ -276,8 +275,7 @@ That detail is important. Many UFO stories enter the record through private rete
 
 The wider Georgia press soon framed the episode as part of a “rash” of reports across the South. A 15 September 1973 Griffin Daily News story said the “plague of UFO’s” had moved into high gear in late August, with police in four south and central Georgia cities reporting blinking, multicoloured lights moving silently on 31 August. The same article placed those Georgia reports alongside sightings in Tennessee and Savannah, showing how local incidents were being connected into a broader southern wave. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gahistoricnewspapers.galileo.usg.edu/lccn/sn83009936/1973-09-15/ed-1/seq-1/ocr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gahistoricnewspapers.galileo.usg.edu">[gahistoricnewspapers.galileo.usg.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gahistoricnewspapers.galileo.usg.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41-Illustration-1-light.svg" | relative_url }}" alt="1973 Flap illustration 1" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41-Illustration-1-dark.svg" | relative_url }}" alt="1973 Flap illustration 1" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Cordele and Macon sighting reports
 
 The most useful way to understand the Middle Georgia flap is to follow the route of the reports rather than imagine one confirmed object travelling across the state. The Cordele-to-Macon alert gave the story a dramatic shape: something had been seen to the south, and Macon officers were told to look up. Cordele sits on Interstate 75 south of Macon, so the warning also mapped neatly onto a familiar travel corridor, making the report easy for readers to picture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macon.com">[Macon Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macon.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -287,7 +285,6 @@ In Macon, the central account involved officers Robert Michael Barreth and H. E.
 The description is vivid but not technically precise. Barreth reportedly said there was no way to judge the height of the lights, that they looked “just below the stars”, and that four lights formed a baseball-diamond shape with three more forming a tail. That is exactly the sort of testimony that keeps UFO cases interesting while also limiting what can be concluded from them. The geometry sounds distinctive, but without reliable distance, altitude, speed, duration, photographs, radar correlation or astronomical checks, the report remains an eyewitness account of lights, not a confirmed structured craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macon.com">[Macon Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macon.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Firefighters added to the sense of a shared event. A Macon Fire Department unit reportedly saw the same phenomenon and chased it as far as Interstate 75 near Hartley Bridge Road before losing it. That chase element made the story memorable, but it also illustrates a common problem in night-sky sightings: when distance is unknown, a light can appear to move with or ahead of observers even if it is much farther away than assumed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macon.com">[Macon Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macon.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_ldhiji54-s" title="The UFO abduction I believe... Pascagoula 1973 | SOUTHVESTIGATIONS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_ldhiji54-s" target="_blank" rel="noopener noreferrer">The UFO abduction I believe... Pascagoula 1973 | SOUTHVESTIGATIONS</a></p><p class="youtube-embed-meta">Channel: The Crafsman Steady Craftin &middot; Views: 46.6K &middot; Uploaded: November 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_ldhiji54-s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_ldhiji54-s">Open on YouTube</a></p></div></div></div>
 
@@ -306,8 +303,7 @@ Several features recur across the accounts:
 * **Multiple locations:** Reports from Cordele, Macon, Albany, Dawson, Adel and nearby towns created the impression of a regional event, though not necessarily a single object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspapers.com">[Newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspapers.com</span><span class="citation-popover-title">tallahassee democrat south georgia ufo 1</span><span class="citation-popover-snippet">tallahassee democrat south georgia ufo 1</span></span></span>
 * **Weak measurement:** The accounts rarely provide the kind of data needed for firm reconstruction: exact bearings, angular size, elevation, time synchronisation, weather conditions, radar tracks or photographs with identifiable reference points.
 
-
-<img src="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41-Illustration-2-light.svg" | relative_url }}" alt="1973 Flap illustration 2" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41-Illustration-2-dark.svg" | relative_url }}" alt="1973 Flap illustration 2" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What investigators and sceptics could actually test
 
 The obvious question is whether anyone checked the reports against conventional explanations. The available public record suggests a mixed answer: newspapers asked questions and quoted experts, but the case did not receive a robust official investigation of the sort Project [Blue Book]({{ 'blue-book-3e2869/' | relative_url }}) might once have attempted. That gap partly reflects timing. The US Air Force had ended Project Blue Book in December 1969, and the National Archives notes that after the project’s closure, Wright-Patterson personnel no longer received, documented or investigated UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -317,7 +313,6 @@ That institutional vacuum matters. By 1973, local police might log calls and new
 The main sceptical possibilities were ordinary aerial or astronomical phenomena. The Telegraph’s later archive story notes that weather balloons were a possible explanation for the Macon lights, though it also says the origin of that night’s sightings was never explained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macon.com">[Macon Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macon.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A Griffin Daily News article quoted Dr Ralph Buice, an astronomer and satellite-tracking expert at Atlanta’s Fernbank Science Center, suggesting that some flashing-light reports might involve space debris burning up on re-entry; he noted that thousands of pieces of debris were in orbit and that such destruction could produce spectacular aerial phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gahistoricnewspapers.galileo.usg.edu/lccn/sn83009936/1973-09-15/ed-1/seq-1/ocr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gahistoricnewspapers.galileo.usg.edu">[gahistoricnewspapers.galileo.usg.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gahistoricnewspapers.galileo.usg.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Those explanations are plausible in broad terms, but they do not neatly solve every report. Weather balloons can account for some slowly drifting lights, especially when illuminated or carrying instrument packages. Re-entering debris can produce striking, multicoloured, fragmenting displays, but usually over a limited time window and along a trajectory. Aircraft can explain lights that appear to move, blink, hover or change colour, especially near populated corridors. Stars and planets can be misread when witnesses are primed by news reports or police alerts. The difficulty is that the Middle Georgia flap was a cluster, not a single well-documented observation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cSi0lDrPK50" title="Quick Drive Through Leary, Georgia | Where Jimmy Carter Saw A UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cSi0lDrPK50" target="_blank" rel="noopener noreferrer">Quick Drive Through Leary, Georgia | Where Jimmy Carter Saw A UFO</a></p><p class="youtube-embed-meta">Channel: Build The Dream &middot; Views: 881 &middot; Uploaded: July 2022 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cSi0lDrPK50" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cSi0lDrPK50">Open on YouTube</a></p></div></div></div>
 
@@ -331,8 +326,7 @@ The Griffin Daily News article shows the same effect in real time. It moved from
 
 This does not mean witnesses imagined everything. It means interpretation was socially contagious. In a flap, the threshold for reporting drops. A light that might ordinarily be ignored becomes evidence. A police call encourages other officers to scan the sky. A newspaper article encourages residents in other towns to connect their own observations. The phenomenon being studied is therefore partly aerial and partly cultural.
 
-
-<img src="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41-Illustration-3-light.svg" | relative_url }}" alt="1973 Flap illustration 3" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41-Illustration-3-dark.svg" | relative_url }}" alt="1973 Flap illustration 3" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Middle Georgia reports remain unresolved but limited
 
 The fairest assessment is that the 1973 Middle Georgia flap is unresolved at the level of some individual reports, but weak as evidence for anything extraordinary. The case has several credibility markers: named police witnesses, fire department involvement, multi-city calls, contemporary newspaper coverage and at least one journalist observing lights with police. Those features make it more substantial than a late, anonymous anecdote. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macon.com">[Macon Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macon.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -342,7 +336,6 @@ The limitations are just as important. The surviving accounts describe lights fa
 The phrase “police reports” can also mislead modern readers. It may sound like a formal investigative file with measurements, diagrams and conclusions. In the 1973 Middle Georgia context, the public record is closer to police dispatches, officer sightings and press-reported law-enforcement testimony. That is still historically valuable, but it is not the same as a completed investigative case file.
 
 Within Georgia UFO history, the flap’s value is therefore comparative. Jimmy Carter’s Leary sighting is famous because of who later reported it. The Middle Georgia flap is important because it shows a wider public episode: ordinary civic systems briefly treating UFO calls as urgent, newsworthy events. It is one of the clearest Georgia examples of a 1970s UFO wave becoming local infrastructure — radio calls, patrol cars, fire trucks, newspapers and public conversation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v9JFSGr6NKo" title="Pascagoula UFO Abduction 1973 News Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v9JFSGr6NKo" target="_blank" rel="noopener noreferrer">Pascagoula UFO Abduction 1973 News Story</a></p><p class="youtube-embed-meta">Channel: Foywonder &middot; Views: 7.6K &middot; Uploaded: September 2015 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v9JFSGr6NKo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v9JFSGr6NKo">Open on YouTube</a></p></div></div></div>
 
@@ -442,7 +435,7 @@ The lasting lesson is modest but useful: the 1973 flap is strongest as a study o
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -452,111 +445,36 @@ The lasting lesson is modest but useful: the 1973 flap is strongest as a study o
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -564,15 +482,15 @@ The lasting lesson is modest but useful: the 1973 flap is strongest as a study o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -580,15 +498,15 @@ The lasting lesson is modest but useful: the 1973 flap is strongest as a study o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -596,15 +514,15 @@ The lasting lesson is modest but useful: the 1973 flap is strongest as a study o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -612,7 +530,7 @@ The lasting lesson is modest but useful: the 1973 flap is strongest as a study o
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=1973-flap-why-georgia-s-1973-ufo-wave-drew-police-attention-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="why-georgia-s-1973-ufo-wave-drew-police-attention-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -689,17 +607,31 @@ The lasting lesson is modest but useful: the 1973 flap is strongest as a study o
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -712,42 +644,73 @@ The lasting lesson is modest but useful: the 1973 flap is strongest as a study o
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -762,12 +725,17 @@ The lasting lesson is modest but useful: the 1973 flap is strongest as a study o
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -777,107 +745,107 @@ The lasting lesson is modest but useful: the 1973 flap is strongest as a study o
 
 1. <a id="endnote-1"></a>
    Source: macon.com  
-   Link: [https://www.macon.com/news/local/article229804369.html](https://www.macon.com/news/local/article229804369.html)  
+   Link: <a href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow">https://www.macon.com/news/local/article229804369.html</a>  
 
 2. <a id="endnote-2"></a>
    Source: gahistoricnewspapers.galileo.usg.edu  
-   Link: [https://gahistoricnewspapers.galileo.usg.edu/lccn/sn83009936/1973-09-15/ed-1/seq-1/ocr/](https://gahistoricnewspapers.galileo.usg.edu/lccn/sn83009936/1973-09-15/ed-1/seq-1/ocr/)  
+   Link: <a href="https://gahistoricnewspapers.galileo.usg.edu/lccn/sn83009936/1973-09-15/ed-1/seq-1/ocr/" target="_blank" rel="noopener noreferrer nofollow">https://gahistoricnewspapers.galileo.usg.edu/lccn/sn83009936/1973-09-15/ed-1/seq-1/ocr/</a>  
 
 3. <a id="endnote-3"></a>
    Source: newspapers.com  
    Title: tallahassee democrat south georgia ufo 1  
-   Link: [https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/](https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/)  
+   Link: <a href="https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/</a>  
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 5. <a id="endnote-5"></a>
    Source: macon.com  
-   Link: [https://www.macon.com/news/local/article229959549.html](https://www.macon.com/news/local/article229959549.html)  
+   Link: <a href="https://www.macon.com/news/local/article229959549.html" target="_blank" rel="noopener noreferrer nofollow">https://www.macon.com/news/local/article229959549.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: dlg.usg.edu  
    Title: dlg ggpd i ga ba400 b pp1 bf2 b71 s25  
-   Link: [https://dlg.usg.edu/record/dlg_ggpd_i-ga-ba400-b-pp1-bf2-b71-s25](https://dlg.usg.edu/record/dlg_ggpd_i-ga-ba400-b-pp1-bf2-b71-s25)  
+   Link: <a href="https://dlg.usg.edu/record/dlg_ggpd_i-ga-ba400-b-pp1-bf2-b71-s25" target="_blank" rel="noopener noreferrer nofollow">https://dlg.usg.edu/record/dlg_ggpd_i-ga-ba400-b-pp1-bf2-b71-s25</a>  
 
 7. <a id="endnote-7"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt](https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt)  
+   Link: <a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
 
 8. <a id="endnote-8"></a>
    Source: news.sky.com  
    Title: ufo abductee still haunted 40 years on 10431808  
-   Link: [https://news.sky.com/story/ufo-abductee-still-haunted-40-years-on-10431808](https://news.sky.com/story/ufo-abductee-still-haunted-40-years-on-10431808)  
+   Link: <a href="https://news.sky.com/story/ufo-abductee-still-haunted-40-years-on-10431808" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-abductee-still-haunted-40-years-on-10431808</a>  
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=110892](https://nuforc.org/sighting/?id=110892)  
+   Link: <a href="https://nuforc.org/sighting/?id=110892" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=110892</a>  
 
 12. <a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
 13. <a id="endnote-13"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=j4r1dAm-LtQ](https://www.youtube.com/watch?v=j4r1dAm-LtQ)  
+   Link: <a href="https://www.youtube.com/watch?v=j4r1dAm-LtQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j4r1dAm-LtQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Quick Drive Through Leary, Georgia | Where Jimmy Carter Saw A UFO...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: The night UFOs dazzled Georgia with an unforgettable light show  
-   Link: [https://www.youtube.com/watch?v=X1MysDRbARY](https://www.youtube.com/watch?v=X1MysDRbARY)  
+   Link: <a href="https://www.youtube.com/watch?v=X1MysDRbARY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1MysDRbARY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hunter Army Airfield Close UFO Encounter By Military Police (1973)...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=v9JFSGr6NKo](https://www.youtube.com/watch?v=v9JFSGr6NKo)  
+   Link: <a href="https://www.youtube.com/watch?v=v9JFSGr6NKo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v9JFSGr6NKo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pascagoula UFO Abduction (1973, Calvin Parker, Charles Hickson) - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/GOVPUB-GP3-9c091fa810711c3ebfafefe00421c565/pdf/GOVPUB-GP3-9c091fa810711c3ebfafefe00421c565.pdf](https://www.govinfo.gov/content/pkg/GOVPUB-GP3-9c091fa810711c3ebfafefe00421c565/pdf/GOVPUB-GP3-9c091fa810711c3ebfafefe00421c565.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/GOVPUB-GP3-9c091fa810711c3ebfafefe00421c565/pdf/GOVPUB-GP3-9c091fa810711c3ebfafefe00421c565.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-GP3-9c091fa810711c3ebfafefe00421c565/pdf/GOVPUB-GP3-9c091fa810711c3ebfafefe00421c565.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 19. <a id="endnote-19"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Quick Drive Through Leary, Georgia | Where Jimmy Carter Saw A UFO  
-   Link: [https://www.youtube.com/watch?v=cSi0lDrPK50](https://www.youtube.com/watch?v=cSi0lDrPK50)  
+   Link: <a href="https://www.youtube.com/watch?v=cSi0lDrPK50" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cSi0lDrPK50</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pascagoula UFO Abduction 1973 News Story...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/](https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/)  
+   Link: <a href="https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/</a>  
 
 23. <a id="endnote-23"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>

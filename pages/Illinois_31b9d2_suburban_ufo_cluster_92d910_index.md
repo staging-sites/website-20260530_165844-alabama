@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /illinois-31b9d2-suburban-ufo-cluster/
 description: Focused pages that expand on Suburban Clusters.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Illinois_31b9d2_suburban_ufo_cluster_92d910
-parent_title: Suburban Clusters | Illinois
+parent_title: Suburban Clusters
 parent_nav_short_title: Suburban Clusters
 parent_permalink: /suburban-clusters/
 ---

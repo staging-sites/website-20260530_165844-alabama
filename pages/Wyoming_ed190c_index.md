@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /wyoming-ed190c-index/
 description: Focused pages that expand on What Really Happened in Wyoming Skies?.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Wyoming_ed190c
 parent_title: What Really Happened in Wyoming Skies?

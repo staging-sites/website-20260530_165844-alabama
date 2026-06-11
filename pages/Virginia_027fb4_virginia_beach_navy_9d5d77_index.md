@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /virginia-027fb4-virginia-beach-navy/
 description: Focused pages that expand on Navy UAP.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Virginia_027fb4_virginia_beach_navy_9d5d77
-parent_title: Navy UAP | What Really Happened Over Virginia?
+parent_title: Navy UAP
 parent_nav_short_title: Navy UAP
 parent_permalink: /navy-uap/
 ---

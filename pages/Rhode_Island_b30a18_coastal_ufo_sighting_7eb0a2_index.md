@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /rhode-island-b30a18-coastal-ufo/
 description: Focused pages that expand on Coastal Lights.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Rhode_Island_b30a18_coastal_ufo_sighting_7eb0a2
-parent_title: Coastal Lights | What Rhode Island's UFO Reports Really Show
+parent_title: Coastal Lights
 parent_nav_short_title: Coastal Lights
 parent_permalink: /coastal-lights-f14302/
 ---

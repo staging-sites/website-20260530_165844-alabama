@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /triangle/
 nav_short_title: Sighting claims
 title: Why are Triangle UFO claims so slippery?
-title_full: Why are Triangle UFO claims so slippery? | Triangle
+title_full: Why are Triangle UFO claims so slippery?
 display_title_short: Sighting claims
 display_title: Sighting claims
 heading_title: Why are Triangle UFO claims so slippery?
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 14:56:42'
-parent_title: Is the Alaska Triangle a UFO Hotspot? | Alaska UFOs
+parent_title: Is the Alaska Triangle a UFO Hotspot?
 parent_permalink: /triangle/
 parent_nav_short_title: Triangle
 parent_heading_title: Is the Alaska Triangle a UFO Hotspot?
@@ -250,16 +250,14 @@ image: /assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_triangle_sightin
 
 ## Introduction
 
-Stories about UFOs in the [Alaska]({{ 'what-really-happened-in-alaskas-ufo/' | relative_url }}) [Triangle]({{ 'triangle/' | relative_url }}) often sound dramatic: silent triangular craft gliding over forests, glowing lights above isolated mountains, or strange objects seen by pilots at night. Yet when researchers try to confirm these reports, the evidence usually turns out to be thin, fragmented or impossible to test properly. That does not automatically mean witnesses invented what they saw. Instead, the problem is that Alaska’s geography, weather and sparse population make reliable verification unusually difficult.
+Stories about UFOs in the Alaska [Triangle]({{ 'triangle/' | relative_url }}) often sound dramatic: silent triangular craft gliding over forests, glowing lights above isolated mountains, or strange objects seen by pilots at night. Yet when researchers try to confirm these reports, the evidence usually turns out to be thin, fragmented or impossible to test properly. That does not automatically mean witnesses invented what they saw. Instead, the problem is that Alaska’s geography, weather and sparse population make reliable verification unusually difficult.
 
-
-<img src="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_triangle_sighting_ve_7fd6dc-Illustration-1-light.svg" | relative_url }}" alt="Sighting claims illustration 1" data-theme-src-dark="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_triangle_sighting_ve_7fd6dc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_triangle_sighting_ve_7fd6dc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader mythology of the Alaska Triangle, UFO claims sit in an awkward middle ground between folklore, aviation mystery and genuine witness confusion. Some reports involve experienced observers, including pilots, but many others survive only as retold anecdotes in television programmes, podcasts or internet compilations. Unlike famous UFO waves in parts of the continental United States, there is no well-maintained public database dedicated specifically to Alaska Triangle sightings. Much of the material comes from scattered civilian reports, secondary retellings or modern paranormal media rather than contemporaneous investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">mystery at the edge of the map alaska ufos</span><span class="citation-popover-snippet">Discovery UKMystery at the Edge of the Map: Alaska UFOs13 May 2026 — Is the Alaska UFO phenomenon real? How many UFOs in Alaska have been...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lAK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC Reports for State AKNUFORC Reports for State AK.; Open, 12/28/2024 08:01, Meadow Lakes; Open. 12/20/2024 16:45, Anchorage...</span></span></span>
+<img src="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_triangle_sighting_ve_7fd6dc-Illustration-1-dark.svg" | relative_url }}" alt="Sighting claims illustration 1" data-theme-src-dark="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_triangle_sighting_ve_7fd6dc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_triangle_sighting_ve_7fd6dc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+Within the broader mythology of the Alaska Triangle, UFO claims sit in an awkward middle ground between folklore, aviation mystery and genuine witness confusion. Some reports involve experienced observers, including pilots, but many others survive only as retold anecdotes in television programmes, podcasts or internet compilations. Unlike famous UFO waves in parts of the continental United States, there is no well-maintained public database dedicated specifically to Alaska Triangle sightings. Much of the material comes from scattered civilian reports, secondary retellings or modern paranormal media rather than contemporaneous investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">mystery at the edge of the map alaska ufos</span><span class="citation-popover-snippet">Discovery UKMystery at the Edge of the Map: Alaska UFOs13 May 2026 — Is the Alaska UFO phenomenon real? How many UFOs in Alaska have been...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/subndx/?id=lAK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports for State AKNUFORC Reports for State AK.; Open, 12/28/2024 08:01, Meadow Lakes; Open. 12/20/2024 16:45, Anchorage...</span></span></span>
 
 ## Common report patterns: lights, silent craft and triangular shapes
 
 Most Alaska Triangle UFO stories follow a fairly narrow set of patterns. Witnesses commonly describe:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -275,7 +273,7 @@ These patterns are familiar across wider UFO culture, but Alaska adds special co
 
 The “triangle” aspect of many reports can itself be misleading. Human perception naturally connects separate points of light into geometric forms. Three lights on an aircraft, or separate lights moving in formation, can appear to become a single triangular object under poor visibility conditions. This problem becomes worse when witnesses observe something briefly while driving, hiking or flying at night.
 
-Public UFO databases illustrate another difficulty: reports are inconsistent in quality. Alaska entries in the National UFO Reporting Center archive range from detailed pilot accounts to single-observer stories with no photographs, radar data or corroborating testimony. Some incidents were reported decades after the alleged sighting occurred, making independent verification almost impossible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=105503" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCNUFORC UFO Sighting 105503NUFORC UFO Sighting 105503. Occurred: 1949-07-01 11:00 Local - Approximate Reported: 2013-12-22 18:36 Pac...</span><span class="citation-popover-meta">Published: December 22, 2013</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=125023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 125023NUFORC UFO Sighting 125023. Occurred: 2015-12-31 23:55 Local Reported: 2016-01-01 18:52 Pacific Duration: 20 mi...</span><span class="citation-popover-meta">Published: December 31, 2015</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location USA</span><span class="citation-popover-snippet">NUFORC Reports by LocationUSA - Alaska... Deborah Wedonit on 97 New UFO Reports Posted. Copyright 2026 National UFO Reporting Center, Da...</span></span></span>
+Public UFO databases illustrate another difficulty: reports are inconsistent in quality. Alaska entries in the National UFO Reporting Center archive range from detailed pilot accounts to single-observer stories with no photographs, radar data or corroborating testimony. Some incidents were reported decades after the alleged sighting occurred, making independent verification almost impossible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=105503" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 105503NUFORC UFO Sighting 105503. Occurred: 1949-07-01 11:00 Local - Approximate Reported: 2013-12-22 18:36 Pac...</span><span class="citation-popover-meta">Published: December 22, 2013</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=125023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 125023NUFORC UFO Sighting 125023. Occurred: 2015-12-31 23:55 Local Reported: 2016-01-01 18:52 Pacific Duration: 20 mi...</span><span class="citation-popover-meta">Published: December 31, 2015</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Reports by Location USA</span><span class="citation-popover-snippet">NUFORC Reports by LocationUSA - Alaska... Deborah Wedonit on 97 New UFO Reports Posted. Copyright 2026 National UFO Reporting Center, Da...</span></span></span>
 
 ## Why darkness, aurora and aircraft can confuse witnesses
 
@@ -286,7 +284,6 @@ Alaska’s environment is unusually good at producing strange visual experiences
 The aurora borealis is one of the most obvious sources of confusion. Although most people imagine aurora as slow-moving green curtains, intense displays can produce rapid shifting lights, arcs and luminous shapes that appear unfamiliar to inexperienced viewers. Reflections through thin cloud or ice crystals can create especially unusual effects.
 
 People who already expect mystery in the Alaska Triangle may interpret ambiguous lights through that cultural lens. Once a region becomes associated with UFO folklore, ordinary atmospheric phenomena are more likely to be framed as anomalous.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nMHFwKk243Q" title="Missing Aircrafts and Flying Objects | The Alaska Triangle | Travel Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nMHFwKk243Q" target="_blank" rel="noopener noreferrer">Missing Aircrafts and Flying Objects | The Alaska Triangle | Travel Channel</a></p><p class="youtube-embed-meta">Channel: Travel Channel &middot; Views: 558.2K &middot; Uploaded: June 2025 &middot; Length: 1 hour 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nMHFwKk243Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nMHFwKk243Q">Open on YouTube</a></p></div></div></div>
 
@@ -300,7 +297,7 @@ Military activity also contributes to speculation. Alaska hosts major air operat
 
 ### Satellites and orbital objects increasingly complicate sightings
 
-Modern satellite constellations have introduced another source of confusion. Academic work on recent UAP reports has shown that Starlink satellite trains and unusual reflection angles can generate startling aerial displays even for trained pilots. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+Modern satellite constellations have introduced another source of confusion. Academic work on recent UAP reports has shown that Starlink satellite trains and unusual reflection angles can generate startling aerial displays even for trained pilots. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 In Alaska’s dark skies, bright satellite reflections can appear especially dramatic. A witness with no awareness of current launches or orbital visibility may honestly report something extraordinary. This helps explain why newer UFO reports often include descriptions of glowing moving lines, grouped lights or objects that seem to change formation.
 
@@ -308,12 +305,10 @@ In Alaska’s dark skies, bright satellite reflections can appear especially dra
 
 The biggest weakness in Alaska Triangle UFO stories is usually not the sighting itself but the absence of supporting evidence afterward.
 
-
-<img src="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_triangle_sighting_ve_7fd6dc-Illustration-2-light.svg" | relative_url }}" alt="Sighting claims illustration 2" data-theme-src-dark="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_triangle_sighting_ve_7fd6dc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_triangle_sighting_ve_7fd6dc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_triangle_sighting_ve_7fd6dc-Illustration-2-dark.svg" | relative_url }}" alt="Sighting claims illustration 2" data-theme-src-dark="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_triangle_sighting_ve_7fd6dc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_triangle_sighting_ve_7fd6dc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Few cases have multiple independent records
 
 Strong UFO investigations typically rely on several kinds of evidence appearing together:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -329,10 +324,9 @@ Strong UFO investigations typically rely on several kinds of evidence appearing 
 
 Most Alaska Triangle stories have only one or two of these elements. A witness may remember a strange light vividly but have no recording, exact location or corroboration. In remote wilderness areas, there may be no nearby observers at all.
 
-Even relatively famous Alaskan aviation UFO incidents remain disputed because the underlying evidence is incomplete. The 1986 Japan Air Lines Flight 1628 encounter over Alaska is often cited as one of the strongest pilot UFO cases because it involved radar discussion and experienced crew testimony. However, later FAA analysis did not conclusively confirm an extraordinary craft despite extensive review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Archives/1987/03/06/Final-FAA-report-cant-explain-UFO-sighting/4541542005200/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Final FAA report can&#x27;t explain UFO sighting</span><span class="citation-popover-snippet">UPIFinal FAA report can&#x27;t explain UFO sighting - UPI Archives6 Mar 1987 — An extensive investigation by the Federal Aviation Administrati...</span></span></span>
+Even relatively famous Alaskan aviation UFO incidents remain disputed because the underlying evidence is incomplete. The 1986 Japan Air Lines Flight 1628 encounter over Alaska is often cited as one of the strongest pilot UFO cases because it involved radar discussion and experienced crew testimony. However, later FAA analysis did not conclusively confirm an extraordinary craft despite extensive review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.upi.com/Archives/1987/03/06/Final-FAA-report-cant-explain-UFO-sighting/4541542005200/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Final FAA report can&#x27;t explain UFO sighting</span><span class="citation-popover-snippet">Final FAA report can&#x27;t explain UFO sighting - UPI Archives6 Mar 1987 — An extensive investigation by the Federal Aviation Administrati...</span></span></span>
 
 That illustrates a broader problem: even unusually well-documented cases often stop short of proving anything clearly anomalous.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pRtZqKrl9Yc" title="Unsolved Mysteries | The Alaska Triangle | Travel Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pRtZqKrl9Yc" target="_blank" rel="noopener noreferrer">Unsolved Mysteries | The Alaska Triangle | Travel Channel</a></p><p class="youtube-embed-meta">Channel: Travel Channel &middot; Views: 71.1K &middot; Uploaded: November 2025 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pRtZqKrl9Yc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pRtZqKrl9Yc">Open on YouTube</a></p></div></div></div>
 
@@ -344,13 +338,11 @@ The repeated claim that thousands of disappearances and UFO sightings form part 
 
 This folklore effect creates a feedback loop. New witnesses may already know the Alaska Triangle legend before interpreting an unusual sight. That does not make their report dishonest, but it can shape expectations and memory.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-I_zwRH-sB4" title="UFO Witnessed By Military Radar Operators | Aliens In Alaska" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-I_zwRH-sB4" target="_blank" rel="noopener noreferrer">UFO Witnessed By Military Radar Operators | Aliens In Alaska</a></p><p class="youtube-embed-meta">Channel: Discovery UK &middot; Views: 226.1K &middot; Uploaded: May 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-I_zwRH-sB4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-I_zwRH-sB4">Open on YouTube</a></p></div></div></div>
 
 ### There is no dedicated verified “Triangle” database
 
 One of the clearest problems is organisational. UFO reports connected specifically to the Alaska Triangle are scattered across:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -367,7 +359,6 @@ No official or scientific body maintains a curated Alaska Triangle archive separ
 
 As a result, researchers often struggle to answer basic questions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * How many Triangle sightings are actually documented?
@@ -380,8 +371,7 @@ As a result, researchers often struggle to answer basic questions:
 
 Without that structure, the mythology becomes easier to spread than to evaluate.
 
-
-<img src="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_triangle_sighting_ve_7fd6dc-Illustration-3-light.svg" | relative_url }}" alt="Sighting claims illustration 3" data-theme-src-dark="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_triangle_sighting_ve_7fd6dc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_triangle_sighting_ve_7fd6dc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_triangle_sighting_ve_7fd6dc-Illustration-3-dark.svg" | relative_url }}" alt="Sighting claims illustration 3" data-theme-src-dark="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_triangle_sighting_ve_7fd6dc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alaska_7288f7_alaska_triangle_patt_2f5a4a_triangle_sighting_ve_7fd6dc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Alaska Triangle remains more folklore than proven hotspot
 
 The Alaska Triangle persists because it combines genuine isolation with compelling storytelling. Alaska’s terrain already feels extreme and difficult to understand. Add long darkness, aviation history, military activity and occasional strange lights in the sky, and the setting naturally encourages mystery narratives.
@@ -478,7 +468,7 @@ That distinction matters in Alaska’s UFO history. The Alaska Triangle is best 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -488,111 +478,36 @@ That distinction matters in Alaska’s UFO history. The Alaska Triangle is best 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-triangle-ufo-claims-so-slippery-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo poster" data-ebay-reference="why-are-triangle-ufo-claims-so-slippery-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Poster. 11x17. High Quality. Signed. [Flying Saucer, Aliens, Pyramid]"><img src="https://i.ebayimg.com/images/g/nhcAAeSwvthpCubt/s-l225.jpg" alt="Listing image for UFO Poster. 11x17. High Quality. Signed. [Flying Saucer, Aliens, Pyramid]" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-triangle-ufo-claims-so-slippery-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo poster" data-ebay-reference="why-are-triangle-ufo-claims-so-slippery-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Poster. 11x17. High Quality. Signed. [Flying Saucer, Aliens, Pyramid]</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-triangle-ufo-claims-so-slippery-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo poster" data-ebay-reference="why-are-triangle-ufo-claims-so-slippery-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangle ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangle ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fccc160e3c45b2ae010e.jpg' | relative_url }}" alt="Listing image for Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Jacques Vallee - UFOs The Psychic S Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-triangle-ufo-claims-so-slippery-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo poster" data-ebay-reference="why-are-triangle-ufo-claims-so-slippery-triangle-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -600,47 +515,15 @@ That distinction matters in Alaska’s UFO history. The Alaska Triangle is best 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7cd5132add4653c5d8ab.jpg' | relative_url }}" alt="Listing image for Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-triangle-ufo-claims-so-slippery-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo poster" data-ebay-reference="why-are-triangle-ufo-claims-so-slippery-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 Phoenix Lights UFO UAP Black Triangle Boomerang Wall Art Poster"><img src="https://i.ebayimg.com/images/g/iXUAAeSwv2hp5TB5/s-l225.jpg" alt="Listing image for Large A0 Phoenix Lights UFO UAP Black Triangle Boomerang Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos In Ancient Art. The Annunciati Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-triangle-ufo-claims-so-slippery-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo poster" data-ebay-reference="why-are-triangle-ufo-claims-so-slippery-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 Phoenix Lights UFO UAP Black Triangle Boomerang Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-triangle-ufo-claims-so-slippery-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo poster" data-ebay-reference="why-are-triangle-ufo-claims-so-slippery-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for triangle ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: triangle ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE"><img src="{{ '/assets/images/marketplace-covers/2625fc54595a579b8c72.jpg' | relative_url }}" alt="Listing image for TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TRIPPY UFOS SOLDIER POSTER PRINT IMAGE PSYCHEDELIC BRIGHT ART SIZE A3 A4 SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e68f5757be56876783ae.jpg' | relative_url }}" alt="Listing image for Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Ufos on the sky Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufos poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufos poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufos-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-triangle-ufo-claims-so-slippery-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo poster" data-ebay-reference="why-are-triangle-ufo-claims-so-slippery-triangle-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -648,7 +531,7 @@ That distinction matters in Alaska’s UFO history. The Alaska Triangle is best 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufos+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-claims-why-are-triangle-ufo-claims-so-slippery-alaska-ufos-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=triangle+ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-are-triangle-ufo-claims-so-slippery-triangle-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="triangle ufo poster" data-ebay-reference="why-are-triangle-ufo-claims-so-slippery-triangle-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -725,17 +608,31 @@ That distinction matters in Alaska’s UFO history. The Alaska Triangle is best 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -748,42 +645,73 @@ That distinction matters in Alaska’s UFO history. The Alaska Triangle is best 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -798,12 +726,17 @@ That distinction matters in Alaska’s UFO history. The Alaska Triangle is best 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -814,141 +747,141 @@ That distinction matters in Alaska’s UFO history. The Alaska Triangle is best 
 1. <a id="endnote-1"></a>
    Source: discoveryuk.com  
    Title: mystery at the edge of the map alaska ufos  
-   Link: [https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/](https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/mystery-at-the-edge-of-the-map-alaska-ufos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UKMystery at the Edge of the Map: Alaska UFOs13 May 2026 — Is the Alaska UFO phenomenon real? How many UFOs in Alaska have been...</p></details>
    Published: May 2026  
 
 2. <a id="endnote-2"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/subndx/?id=lAK](https://nuforc.org/subndx/?id=lAK)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC Reports for State AKNUFORC Reports for State AK.; Open, 12/28/2024 08:01, Meadow Lakes; Open. 12/20/2024 16:45, Anchorage...</p></details>
+   Link: <a href="https://nuforc.org/subndx/?id=lAK" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/subndx/?id=lAK</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports for State AKNUFORC Reports for State AK.; Open, 12/28/2024 08:01, Meadow Lakes; Open. 12/20/2024 16:45, Anchorage...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: discoveryuk.com  
    Title: vanishing point legends and lore of the alaska triangle  
-   Link: [https://www.discoveryuk.com/mysteries/vanishing-point-legends-and-lore-of-the-alaska-triangle/](https://www.discoveryuk.com/mysteries/vanishing-point-legends-and-lore-of-the-alaska-triangle/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/vanishing-point-legends-and-lore-of-the-alaska-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/vanishing-point-legends-and-lore-of-the-alaska-triangle/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alaska reports a greater number of UFO sightings when compared with other US states. Believers argue that...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=105503](https://nuforc.org/sighting/?id=105503)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCNUFORC UFO Sighting 105503NUFORC UFO Sighting 105503. Occurred: 1949-07-01 11:00 Local - Approximate Reported: 2013-12-22 18:36 Pac...</p></details>
+   Link: <a href="https://nuforc.org/sighting/?id=105503" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=105503</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 105503NUFORC UFO Sighting 105503. Occurred: 1949-07-01 11:00 Local - Approximate Reported: 2013-12-22 18:36 Pac...</p></details>
    Published: December 22, 2013  
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=125023](https://nuforc.org/sighting/?id=125023)  
+   Link: <a href="https://nuforc.org/sighting/?id=125023" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=125023</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 125023NUFORC UFO Sighting 125023. Occurred: 2015-12-31 23:55 Local Reported: 2016-01-01 18:52 Pacific Duration: 20 mi...</p></details>
    Published: December 31, 2015  
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
    Title: Reports by Location USA  
-   Link: [https://nuforc.org/ndx/?id=loc](https://nuforc.org/ndx/?id=loc)  
+   Link: <a href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/ndx/?id=loc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reports by LocationUSA - Alaska... Deborah Wedonit on 97 New UFO Reports Posted. Copyright 2026 National UFO Reporting Center, Da...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: upi.com  
    Title: Final FAA report can't explain UFO sighting  
-   Link: [https://www.upi.com/Archives/1987/03/06/Final-FAA-report-cant-explain-UFO-sighting/4541542005200/](https://www.upi.com/Archives/1987/03/06/Final-FAA-report-cant-explain-UFO-sighting/4541542005200/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPIFinal FAA report can&#x27;t explain UFO sighting - UPI Archives6 Mar 1987 — An extensive investigation by the Federal Aviation Administrati...</p></details>
+   Link: <a href="https://www.upi.com/Archives/1987/03/06/Final-FAA-report-cant-explain-UFO-sighting/4541542005200/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1987/03/06/Final-FAA-report-cant-explain-UFO-sighting/4541542005200/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Final FAA report can&#x27;t explain UFO sighting - UPI Archives6 Mar 1987 — An extensive investigation by the Federal Aviation Administrati...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: mystery of alaska triangle where 20000 have  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16qejxl/mystery_of_alaska_triangle_where_20000_have/](https://www.reddit.com/r/HighStrangeness/comments/16qejxl/mystery_of_alaska_triangle_where_20000_have/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16qejxl/mystery_of_alaska_triangle_where_20000_have/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16qejxl/mystery_of_alaska_triangle_where_20000_have/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>creatures have been reported in the so-called Alaska triangle – but... Yeah I wonder why people go missing there; aliens and Bigfoot are...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/research/](https://mufon.com/research/)  
+   Link: <a href="https://mufon.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/research/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon&#x27;s Ufo, Et Research Tracking ToolsExplore UFO sightings and more with these advanced tools designed for scientific tracking and anal...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: mufon.com  
-   Link: [https://mufon.com/](https://mufon.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON: HomeOur extensive database is a powerhouse of credible UFO research, keeping you informed with reports of sightings, expert analys...</p></details>
+   Link: <a href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeOur extensive database is a powerhouse of credible UFO research, keeping you informed with reports of sightings, expert analys...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=195870](https://nuforc.org/sighting/?id=195870)  
+   Link: <a href="https://nuforc.org/sighting/?id=195870" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=195870</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1958703 Feb 2026 — NUFORC UFO Sighting 195870 · Occurred: 2026-01-30 04:20 Local · Reported: 2026-01-30 10:52 Pacific...</p></details>
    Published: January 30, 2026  
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/1b0bdof/so_the_black_triangle_ufos_are_ours_right/](https://www.reddit.com/r/HighStrangeness/comments/1b0bdof/so_the_black_triangle_ufos_are_ours_right/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1b0bdof/so_the_black_triangle_ufos_are_ours_right/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1b0bdof/so_the_black_triangle_ufos_are_ours_right/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sightings in 2008. It seems to me it that it has been pretty...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/](https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I analyzed 80000 UFO sightings from the NUFORC database... sightings reported increased over time. 1994-2014 seems stable. r/aliens - Par...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: faa.gov  
    Title: b chron  
-   Link: [https://www.faa.gov/sites/faa.gov/files/about/history/chronolog_history/b-chron.pdf](https://www.faa.gov/sites/faa.gov/files/about/history/chronolog_history/b-chron.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/about/history/chronolog_history/b-chron.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/about/history/chronolog_history/b-chron.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Historical Chronology, 1926-1996... Federal Aviation Administration began a one-year study of the causes of near-collisions in the ai...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: the-sun.com  
-   Link: [https://www.the-sun.com/news/9181012/mystery-alaska-triangle-strange-disappearance-bigfoot-ufos/](https://www.the-sun.com/news/9181012/mystery-alaska-triangle-strange-disappearance-bigfoot-ufos/)  
+   Link: <a href="https://www.the-sun.com/news/9181012/mystery-alaska-triangle-strange-disappearance-bigfoot-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/9181012/mystery-alaska-triangle-strange-disappearance-bigfoot-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Desde la década de 1970, se han asociado más de 20,000 desapariciones con esta área, compuesta de bosques boreales, tundra y picos helado...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: spyscape.com  
-   Link: [https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings](https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings)  
+   Link: <a href="https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/alaska-object-isnt-the-only-mysterious-ufo-top-10-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Mysterious UFO Sightings That Still Haunt WitnessesSome believe that the sightings were genuine encounters with extraterrestrial c...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nbi.dk  
-   Link: [https://www.nbi.dk/~petersen/Teaching/Stat2016/Project2/UFOdata.txt](https://www.nbi.dk/~petersen/Teaching/Stat2016/Project2/UFOdata.txt)  
+   Link: <a href="https://www.nbi.dk/~petersen/Teaching/Stat2016/Project2/UFOdata.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.nbi.dk/~petersen/Teaching/Stat2016/Project2/UFOdata.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOdata.txt... WITNESS)) My name is ((deleted)). I submitted a sighting about 10 minutes ago. I made an error in the submission--the numb...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: huggingface.co  
-   Link: [https://huggingface.co/datasets/kcimc/NUFORC](https://huggingface.co/datasets/kcimc/NUFORC)  
+   Link: <a href="https://huggingface.co/datasets/kcimc/NUFORC" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/datasets/kcimc/NUFORC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>kcimc/NUFORC · Datasets at Hugging FaceNUFORC. 147,890 UFO sightings from NUFORC, scraped on January 16, 2024. The best representation of...</p></details>
    Published: January 16, 2024  
 
 20. <a id="endnote-20"></a>
    Source: medium.com  
-   Link: [https://medium.com/the-mystery-box/the-alaska-triangle-ce04b186ff82](https://medium.com/the-mystery-box/the-alaska-triangle-ce04b186ff82)  
+   Link: <a href="https://medium.com/the-mystery-box/the-alaska-triangle-ce04b186ff82" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-mystery-box/the-alaska-triangle-ce04b186ff82</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alaska Triangle. Is it real? | by Robin BarefieldOn January 29, 1987, the crew of Alaska Airlines Flight 53 sighted a fast-moving obj...</p></details>
    Published: January 29, 1987  
 
 21. <a id="endnote-21"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/33470102/Is_UFO_UAP_Sighting_Frequency_in_Specific_Locales_Consistent_with_Global_Trends_Evidence_Against_Traditional_Models_for_Alaska_in_Two_Databases](https://www.academia.edu/33470102/Is_UFO_UAP_Sighting_Frequency_in_Specific_Locales_Consistent_with_Global_Trends_Evidence_Against_Traditional_Models_for_Alaska_in_Two_Databases)  
+   Link: <a href="https://www.academia.edu/33470102/Is_UFO_UAP_Sighting_Frequency_in_Specific_Locales_Consistent_with_Global_Trends_Evidence_Against_Traditional_Models_for_Alaska_in_Two_Databases" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/33470102/Is_UFO_UAP_Sighting_Frequency_in_Specific_Locales_Consistent_with_Global_Trends_Evidence_Against_Traditional_Models_for_Alaska_in_Two_Databases</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in Alaska is inconsistent with the general global sighting frequency...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/](https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/)  
+   Link: <a href="https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bs, discs and fireballs&#x27;. A few of the objects seem to...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thenatlinterest/posts/rumors-about-the-existence-of-the-sr-91-aurora-kicked-off-in-march-1990/775262764629371/](https://www.facebook.com/thenatlinterest/posts/rumors-about-the-existence-of-the-sr-91-aurora-kicked-off-in-march-1990/775262764629371/)  
+   Link: <a href="https://www.facebook.com/thenatlinterest/posts/rumors-about-the-existence-of-the-sr-91-aurora-kicked-off-in-march-1990/775262764629371/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thenatlinterest/posts/rumors-about-the-existence-of-the-sr-91-aurora-kicked-off-in-march-1990/775262764629371/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s of what may or may not have been an SR-91. The most “well-known...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: vocal.media  
    Title: Horror in the Alaska Triangle: | Futurism  
-   Link: [https://vocal.media/futurism/horror-in-the-alaska-triangle](https://vocal.media/futurism/horror-in-the-alaska-triangle)  
+   Link: <a href="https://vocal.media/futurism/horror-in-the-alaska-triangle" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/horror-in-the-alaska-triangle</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The disappearance of 20000 people in the Alaska Triangle, from 1970 until now - and the appearance of unidentified flying objects...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: thisawfulawesomelife.com  
    Title: the alaska triangle by robin barefield  
-   Link: [https://www.thisawfulawesomelife.com/home/2024/10/1/the-alaska-triangle-by-robin-barefield](https://www.thisawfulawesomelife.com/home/2024/10/1/the-alaska-triangle-by-robin-barefield)  
+   Link: <a href="https://www.thisawfulawesomelife.com/home/2024/10/1/the-alaska-triangle-by-robin-barefield" target="_blank" rel="noopener noreferrer nofollow">https://www.thisawfulawesomelife.com/home/2024/10/1/the-alaska-triangle-by-robin-barefield</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Oct 2024 — On January 30, 1987, a U.S. Air Force KC-135 jet traveling from Anchorage to Fairbanks sighted a huge UFO. Still, other than...</p></details>
-   Published: January 30, 1987  
+   Published: January 30, 1987

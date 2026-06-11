@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /texas-98125d-cash-landrum-injury/
 description: Focused pages that expand on Cash Landrum.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Texas_98125d_cash_landrum_injury_2c62a5
-parent_title: Cash Landrum | Why Texas Became a UFO Archive
+parent_title: Cash Landrum
 parent_nav_short_title: Cash Landrum
 parent_permalink: /cash-landrum/
 ---

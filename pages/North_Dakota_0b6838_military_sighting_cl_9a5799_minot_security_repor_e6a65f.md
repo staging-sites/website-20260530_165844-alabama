@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /base-clusters/
 nav_short_title: Minot reports
 title: How Minot sightings became official records
-title_full: How Minot sightings became official records | Base Clusters
+title_full: How Minot sightings became official records
 display_title_short: Minot reports
 display_title: Minot reports
 heading_title: How Minot sightings became official records
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:59:50'
-parent_title: Why UFO Reports Cluster Near Air Bases | North Dakota UFOs
+parent_title: Why UFO Reports Cluster Near Air Bases
 parent_permalink: /base-clusters/
 parent_nav_short_title: Base Clusters
 parent_heading_title: Why UFO Reports Cluster Near Air Bases
@@ -250,13 +250,12 @@ image: /assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_minot_secu
 
 ## Introduction
 
-The Minot Air Force Base UFO incident of 24 October 1968 became one of [North Dakota]({{ 'why-north-dakota-matters-in-ufo-history/' | relative_url }})’s most discussed military UFO cases not simply because people reported unusual lights, but because those reports moved through formal Cold War reporting systems. Security policemen in missile-field locations, aircrew aboard a B-52 bomber, radar operators and senior officers all generated records that survived in Strategic Air Command (SAC) and Project [Blue Book]({{ 'blue-book-d5f241/' | relative_url }}) files. That paper trail is the reason the case remains visible decades later. Rather than relying on a single witness telling a story years afterwards, researchers can compare duty logs, witness statements, reporting forms, radar-related material and official correspondence. The surviving records do not prove what the witnesses saw. They do show how military personnel reacted when an unusual report appeared near one of the United States’ most sensitive nuclear installations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation | The Minot AFB UFO caseDocuments related to the UFO sighting at Minot Air Force Base on October 24, 1968...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">ZenodoThe Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span>
+The Minot Air Force Base UFO incident of 24 October 1968 became one of North Dakota’s most discussed military UFO cases not simply because people reported unusual lights, but because those reports moved through formal Cold War reporting systems. Security policemen in missile-field locations, aircrew aboard a B-52 bomber, radar operators and senior officers all generated records that survived in Strategic Air Command (SAC) and Project [Blue Book]({{ 'blue-book-d5f241/' | relative_url }}) files. That paper trail is the reason the case remains visible decades later. Rather than relying on a single witness telling a story years afterwards, researchers can compare duty logs, witness statements, reporting forms, radar-related material and official correspondence. The surviving records do not prove what the witnesses saw. They do show how military personnel reacted when an unusual report appeared near one of the United States’ most sensitive nuclear installations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO caseDocuments related to the UFO sighting at Minot Air Force Base on October 24, 1968...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span>
 
-
-<img src="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_minot_security_repor_e6a65f-Illustration-1-light.svg" | relative_url }}" alt="Minot reports illustration 1" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_minot_security_repor_e6a65f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_minot_security_repor_e6a65f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_minot_security_repor_e6a65f-Illustration-1-dark.svg" | relative_url }}" alt="Minot reports illustration 1" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_minot_security_repor_e6a65f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_minot_security_repor_e6a65f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Who saw what around Minot Air Force Base
 
-The Minot incident unfolded across several locations rather than in one dramatic encounter. Security personnel stationed in the missile-field network north and west of Minot reported unusual lights during the early hours of 24 October 1968. Some reports described bright objects appearing low on the horizon or hovering near the ground. These observations were passed through command channels because the witnesses were guarding nuclear missile facilities, where unidentified activity automatically carried security implications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation | The Minot AFB UFO caseDocuments related to the UFO sighting at Minot Air Force Base on October 24, 1968...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/minotafbufo1968.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[2ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">1968-Minot Air Force Base, UFO Hovers, Seen by B-52 crewMINOT AIR FORCE BASE - Project Blue Book case dated October 24, 1968, when missil...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span>
+The Minot incident unfolded across several locations rather than in one dramatic encounter. Security personnel stationed in the missile-field network north and west of Minot reported unusual lights during the early hours of 24 October 1968. Some reports described bright objects appearing low on the horizon or hovering near the ground. These observations were passed through command channels because the witnesses were guarding nuclear missile facilities, where unidentified activity automatically carried security implications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO caseDocuments related to the UFO sighting at Minot Air Force Base on October 24, 1968...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/minotafbufo1968.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[2ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">1968-Minot Air Force Base, UFO Hovers, Seen by B-52 crewMINOT AIR FORCE BASE - Project Blue Book case dated October 24, 1968, when missil...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span>
 
 What makes the witness record unusual is the variety of observers involved. The case file eventually included:
 
@@ -264,16 +263,15 @@ What makes the witness record unusual is the variety of observers involved. The 
 * Base operations staff receiving reports.
 * Radar personnel monitoring air activity.
 * A B-52 crew that later reported seeing an unusual light while airborne.
-* Command officers responsible for evaluating whether the reports represented a security threat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation | The Minot AFB UFO caseDocuments related to the UFO sighting at Minot Air Force Base on October 24, 1968...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">ZenodoThe Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span> The B-52 element became especially important because it appeared to provide an independent line of observation. According to surviving accounts, the bomber crew was informed of unusual activity and later reported a bright object during flight. Radar-scope photographs and crew statements became part of the documentation preserved after the incident. Researchers continue to debate exactly what the radar images show, but the existence of the photographs strengthened the perception that the case involved more than a single visual sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation | The Minot AFB UFO caseDocuments related to the UFO sighting at Minot Air Force Base on October 24, 1968...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation | The Minot AFB UFO caseDocuments related to the UFO sighting at Minot Air Force Base on October 24, 1968...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span>
+* Command officers responsible for evaluating whether the reports represented a security threat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO caseDocuments related to the UFO sighting at Minot Air Force Base on October 24, 1968...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span> The B-52 element became especially important because it appeared to provide an independent line of observation. According to surviving accounts, the bomber crew was informed of unusual activity and later reported a bright object during flight. Radar-scope photographs and crew statements became part of the documentation preserved after the incident. Researchers continue to debate exactly what the radar images show, but the existence of the photographs strengthened the perception that the case involved more than a single visual sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO caseDocuments related to the UFO sighting at Minot Air Force Base on October 24, 1968...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO caseDocuments related to the UFO sighting at Minot Air Force Base on October 24, 1968...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span>
 
-One reason the Minot witnesses continue to attract attention is that they were not casual observers. Security teams, aircrew and controllers worked within highly structured military environments. UFO advocates often point to this professional background as a reason to take the reports seriously. Sceptics counter that training does not eliminate the possibility of misidentification, especially during night operations where distance, speed and altitude can be difficult to judge. The records show that witnesses were considered credible enough to trigger reporting procedures; they do not automatically establish that their interpretations were correct. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">ZenodoThe Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span> [2U.S. Air Force]
-
+One reason the Minot witnesses continue to attract attention is that they were not casual observers. Security teams, aircrew and controllers worked within highly structured military environments. UFO advocates often point to this professional background as a reason to take the reports seriously. Sceptics counter that training does not eliminate the possibility of misidentification, especially during night operations where distance, speed and altitude can be difficult to judge. The records show that witnesses were considered credible enough to trigger reporting procedures; they do not automatically establish that their interpretations were correct. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span> [2U.S. Air Force]
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S4vvZ4uyIyI" title="J. Allen Hynek: the Man behind UFO &quot;Project Blue Book&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S4vvZ4uyIyI" target="_blank" rel="noopener noreferrer">J. Allen Hynek: the Man behind UFO &quot;Project Blue Book&quot;</a></p><p class="youtube-embed-meta">Channel: Think Anomalous &middot; Views: 138.2K &middot; Uploaded: November 2017 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S4vvZ4uyIyI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S4vvZ4uyIyI">Open on YouTube</a></p></div></div></div>
 
 ## How SAC and Blue Book paperwork preserved the case
 
-Many UFO reports disappeared because nobody recorded them beyond a local conversation. Minot followed a different path. Once reports reached command channels, officers began collecting statements and preparing formal documentation. Strategic Air Command treated the incident as something requiring review, at least initially, because it involved military personnel and activity near strategic nuclear assets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">ZenodoThe Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span>
+Many UFO reports disappeared because nobody recorded them beyond a local conversation. Minot followed a different path. Once reports reached command channels, officers began collecting statements and preparing formal documentation. Strategic Air Command treated the incident as something requiring review, at least initially, because it involved military personnel and activity near strategic nuclear assets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span>
 
 The surviving archive shows several layers of paperwork:
 
@@ -284,30 +282,25 @@ The surviving archive shows several layers of paperwork:
 
 The timing matters. The incident occurred during the final years of Project Blue Book, the Air Force programme responsible for collecting and analysing UFO reports. Blue Book’s official role was to determine whether reports affected national security and whether they could be scientifically explained. By 1968 the programme was already under criticism for limited staffing and inconsistent investigative standards, yet it still provided a bureaucratic destination for cases such as Minot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
-Researchers who have examined the Minot documentation often note that SAC appears to have shown significant interest before Blue Book became fully involved. Accounts of the investigation describe immediate debriefings after the B-52 landed and the activation of local investigative procedures before information was formally transmitted into the Blue Book system. That sequence is important because it suggests the earliest records were generated for operational reasons rather than public-relations purposes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">ZenodoThe Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span>
+Researchers who have examined the Minot documentation often note that SAC appears to have shown significant interest before Blue Book became fully involved. Accounts of the investigation describe immediate debriefings after the B-52 landed and the activation of local investigative procedures before information was formally transmitted into the Blue Book system. That sequence is important because it suggests the earliest records were generated for operational reasons rather than public-relations purposes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span>
 
-The official record trail also illustrates how Cold War military bureaucracy worked. A sighting did not remain a personal experience. It moved through chains of command, generated memoranda, acquired classifications and eventually entered archival systems. Even people who reject extraordinary explanations often regard the paperwork itself as historically valuable because it documents how the Air Force handled uncertainty around sensitive installations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation | The Minot AFB UFO caseDocuments related to the UFO sighting at Minot Air Force Base on October 24, 1968...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — Pro-UFO researchers claim that an extraterrestrial spacecra...</span></span></span>
+The official record trail also illustrates how Cold War military bureaucracy worked. A sighting did not remain a personal experience. It moved through chains of command, generated memoranda, acquired classifications and eventually entered archival systems. Even people who reject extraordinary explanations often regard the paperwork itself as historically valuable because it documents how the Air Force handled uncertainty around sensitive installations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO caseDocuments related to the UFO sighting at Minot Air Force Base on October 24, 1968...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — Pro-UFO researchers claim that an extraterrestrial spacecra...</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yxDaiXEW8ho" title="1968 🇺🇸 #UFOB [CASE] Minot AFB incident in North Dakota." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yxDaiXEW8ho" target="_blank" rel="noopener noreferrer">1968 🇺🇸 #UFOB [CASE] Minot AFB incident in North Dakota.</a></p><p class="youtube-embed-meta">Channel: UFOB | Your UAP Library &middot; Views: 865 &middot; Uploaded: September 2022 &middot; Length: 2 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yxDaiXEW8ho" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yxDaiXEW8ho">Open on YouTube</a></p></div></div></div>
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jWoJ7UMfVLY" title="B-52 and missile crews witnessed a UFO at the vicinity of Minot Air Force Base, October 24, 1968" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jWoJ7UMfVLY" target="_blank" rel="noopener noreferrer">B-52 and missile crews witnessed a UFO at the vicinity of Minot Air Force Base, October 24, 1968</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 17.5K &middot; Uploaded: June 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jWoJ7UMfVLY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jWoJ7UMfVLY">Open on YouTube</a></p></div></div></div>
-
-
-<img src="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_minot_security_repor_e6a65f-Illustration-2-light.svg" | relative_url }}" alt="Minot reports illustration 2" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_minot_security_repor_e6a65f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_minot_security_repor_e6a65f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_minot_security_repor_e6a65f-Illustration-2-dark.svg" | relative_url }}" alt="Minot reports illustration 2" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_minot_security_repor_e6a65f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_minot_security_repor_e6a65f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the report trail matters more than any single witness
 
-The strongest aspect of the Minot case is not one dramatic testimony but the convergence of multiple reporting channels. Historians and UFO researchers repeatedly return to the incident because different parts of the military system appear in the surviving archive. Ground-security observations, airborne observations and command-level responses can all be compared against one another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation | The Minot AFB UFO caseDocuments related to the UFO sighting at Minot Air Force Base on October 24, 1968...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span> Academia That does not mean all pieces fit neatly together. Some accounts were written after events had already unfolded. Witness recollections change <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">A Narrative of UFO Events at Minot Air Force Base North Dakota</span><span class="citation-popover-snippet">AcademiaA Narrative of UFO Events at Minot Air Force Base, North...The events of 24 October 1968 made a lasting impression on 22 B-52 ra...</span><span class="citation-popover-meta">Published: October 1968</span></span></span> d over time. Later retellings sometimes introduced details not clearly present in the earliest documentation. As with many famous UFO cases, the historical record is a mixture of contemporaneous reports and later interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation | The Minot AFB UFO caseDocuments related to the UFO sighting at Minot Air Force Base on October 24, 1968...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">ZenodoThe Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span> The Minot file therefore occupies an unusual middle ground. It is stronger than many UFO stories because official records exist. It is weaker than a definitive military incident because those records do not establish a clear identification of the object or objects involved. The value of the case lies less in proving an extraordinary claim than in showing how multiple military witnesses generated a durable documentary trail that survived long after Project Blue Book itself disappeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span> [2U.S. Air Force]
+The strongest aspect of the Minot case is not one dramatic testimony but the convergence of multiple reporting channels. Historians and UFO researchers repeatedly return to the incident because different parts of the military system appear in the surviving archive. Ground-security observations, airborne observations and command-level responses can all be compared against one another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO caseDocuments related to the UFO sighting at Minot Air Force Base on October 24, 1968...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span> Academia That does not mean all pieces fit neatly together. Some accounts were written after events had already unfolded. Witness recollections change <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">A Narrative of UFO Events at Minot Air Force Base North Dakota</span><span class="citation-popover-snippet">A Narrative of UFO Events at Minot Air Force Base, North...The events of 24 October 1968 made a lasting impression on 22 B-52 ra...</span><span class="citation-popover-meta">Published: October 1968</span></span></span> d over time. Later retellings sometimes introduced details not clearly present in the earliest documentation. As with many famous UFO cases, the historical record is a mixture of contemporaneous reports and later interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO caseDocuments related to the UFO sighting at Minot Air Force Base on October 24, 1968...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span> The Minot file therefore occupies an unusual middle ground. It is stronger than many UFO stories because official records exist. It is weaker than a definitive military incident because those records do not establish a clear identification of the object or objects involved. The value of the case lies less in proving an extraordinary claim than in showing how multiple military witnesses generated a durable documentary trail that survived long after Project Blue Book itself disappeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span> [2U.S. Air Force]
 
-
-<img src="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_minot_security_repor_e6a65f-Illustration-3-light.svg" | relative_url }}" alt="Minot reports illustration 3" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_minot_security_repor_e6a65f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_minot_security_repor_e6a65f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_minot_security_repor_e6a65f-Illustration-3-dark.svg" | relative_url }}" alt="Minot reports illustration 3" data-theme-src-dark="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_minot_security_repor_e6a65f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Dakota_0b6838_military_sighting_cl_9a5799_minot_security_repor_e6a65f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the witness record can and cannot prove
 
-The Minot witness record demonstrates several things with reasonable confidence. Military personnel reported unusual lights. Command authorities took the reports seriously enough to document them. Aircrew and ground personnel both contributed testimony. Formal reporting procedures were activated, creating a substantial archive. Those points are supported by surviving documents rather than later legend alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation | The Minot AFB UFO caseDocuments related to the UFO sighting at Minot Air Force Base on October 24, 1968...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">ZenodoThe Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span> The records cannot conclusively establish the nature of the object. The surviving paperwork does not provide an uncontested explanation, but neither does it provide proof of an extraterrestrial craft or any other extraordinary technology. Radar-related evidence remains debated. Witnesses disagreed on details. Distance and lighting conditions were imperfect. Some researchers argue that conventional aircraft, celestial objects or misinterpreted ground lights could explain parts of the event, while others believe the combination of reports leaves important questions unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/681024minot_hynek.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO ReportThe B-52 confirmed having sighted a bright light of some type that appeared to be hovering just over or on the ground. The Blue...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation | The Minot AFB UFO caseDocuments related to the UFO sighting at Minot Air Force Base on October 24, 1968...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorescu.org">[The SCU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorescu.org</span><span class="citation-popover-snippet">The SCUAnalysis of Radar and Air-Visual UFO Observations on 24...1 Aug 2005 — Analysis of Radar and Air-Visual UFO Observations on 24 Oc...</span></span></span>
+The Minot witness record demonstrates several things with reasonable confidence. Military personnel reported unusual lights. Command authorities took the reports seriously enough to document them. Aircrew and ground personnel both contributed testimony. Formal reporting procedures were activated, creating a substantial archive. Those points are supported by surviving documents rather than later legend alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO caseDocuments related to the UFO sighting at Minot Air Force Base on October 24, 1968...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span> The records cannot conclusively establish the nature of the object. The surviving paperwork does not provide an uncontested explanation, but neither does it provide proof of an extraterrestrial craft or any other extraordinary technology. Radar-related evidence remains debated. Witnesses disagreed on details. Distance and lighting conditions were imperfect. Some researchers argue that conventional aircraft, celestial objects or misinterpreted ground lights could explain parts of the event, while others believe the combination of reports leaves important questions unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/681024minot_hynek.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO ReportThe B-52 confirmed having sighted a bright light of some type that appeared to be hovering just over or on the ground. The Blue...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO caseDocuments related to the UFO sighting at Minot Air Force Base on October 24, 1968...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: explorescu.org">[The SCU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">explorescu.org</span><span class="citation-popover-snippet">The SCUAnalysis of Radar and Air-Visual UFO Observations on 24...1 Aug 2005 — Analysis of Radar and Air-Visual UFO Observations on 24 Oc...</span></span></span>
 
-Within North Dakota’s UFO history, that uncertainty is precisely why Minot remains important. The case is remembered not because it delivered a final answer, but because security personnel, flight crews and command officers transformed a night of unusual observations into one of the most extensive military UFO paper trails associated with the state. The enduring significance of Minot lies in the records themselves: a rare opportunity to see how an unexplained report moved through the machinery of the Cold War Air Force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation | The Minot AFB UFO caseDocuments related to the UFO sighting at Minot Air Force Base on October 24, 1968...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">ZenodoThe Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span>
-
+Within North Dakota’s UFO history, that uncertainty is precisely why Minot remains important. The case is remembered not because it delivered a final answer, but because security personnel, flight crews and command officers transformed a night of unusual observations into one of the most extensive military UFO paper trails associated with the state. The enduring significance of Minot lies in the records themselves: a rare opportunity to see how an unexplained report moved through the machinery of the Cold War Air Force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minotb52ufo.com">[Minot AFB UFO Case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minotb52ufo.com</span><span class="citation-popover-snippet">Minot AFB UFO CaseDocumentation &#124; The Minot AFB UFO caseDocuments related to the UFO sighting at Minot Air Force Base on October 24, 1968...</span><span class="citation-popover-meta">Published: October 24, 1968</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-snippet">The Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r8lINLDPnQg" title="AudioBlog: A 1968 UFO Incident at Minot AFB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r8lINLDPnQg" target="_blank" rel="noopener noreferrer">AudioBlog: A 1968 UFO Incident at Minot AFB</a></p><p class="youtube-embed-meta">Channel: Podcast UFO Live Shows &middot; Views: 1.5K &middot; Uploaded: November 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r8lINLDPnQg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r8lINLDPnQg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -395,7 +388,7 @@ Within North Dakota’s UFO history, that uncertainty is precisely why Minot rem
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -405,111 +398,36 @@ Within North Dakota’s UFO history, that uncertainty is precisely why Minot rem
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-minot-sightings-became-official-records-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="how-minot-sightings-became-official-records-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:200 B-52 Stratofortress Diecast Model US Strategic Bomber Aircraft Collectible"><img src="https://i.ebayimg.com/images/g/IrIAAeSwbANoZ69r/s-l225.jpg" alt="Listing image for 1:200 B-52 Stratofortress Diecast Model US Strategic Bomber Aircraft Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-minot-sightings-became-official-records-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="how-minot-sightings-became-official-records-b-52-model" target="_blank" rel="sponsored noopener noreferrer">1:200 B-52 Stratofortress Diecast Model US Strategic Bomber Aircraft Collectible</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-minot-sightings-became-official-records-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="how-minot-sightings-became-official-records-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for B-52 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: B-52 model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-minot-sightings-became-official-records-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="how-minot-sightings-became-official-records-b-52-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -517,15 +435,15 @@ Within North Dakota’s UFO history, that uncertainty is precisely why Minot rem
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-minot-sightings-became-official-records-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="how-minot-sightings-became-official-records-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alloy 1:200 USAF B-52H Stratofortress Heavy Bomber Simulation Aircraft Model"><img src="https://i.ebayimg.com/images/g/KuwAAeSw7XdqGAef/s-l225.jpg" alt="Listing image for Alloy 1:200 USAF B-52H Stratofortress Heavy Bomber Simulation Aircraft Model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-minot-sightings-became-official-records-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="how-minot-sightings-became-official-records-b-52-model" target="_blank" rel="sponsored noopener noreferrer">Alloy 1:200 USAF B-52H Stratofortress Heavy Bomber Simulation Aircraft Model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-minot-sightings-became-official-records-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="how-minot-sightings-became-official-records-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for B-52 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: B-52 model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-minot-sightings-became-official-records-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="how-minot-sightings-became-official-records-b-52-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -533,15 +451,15 @@ Within North Dakota’s UFO history, that uncertainty is precisely why Minot rem
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-minot-sightings-became-official-records-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="how-minot-sightings-became-official-records-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Boeing B-52H Stratofortress Die-cast Model Barksdale Air Force Base"><img src="https://i.ebayimg.com/images/g/vVMAAeSwzrlp-jbZ/s-l225.jpg" alt="Listing image for USAF Boeing B-52H Stratofortress Die-cast Model Barksdale Air Force Base" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-minot-sightings-became-official-records-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="how-minot-sightings-became-official-records-b-52-model" target="_blank" rel="sponsored noopener noreferrer">USAF Boeing B-52H Stratofortress Die-cast Model Barksdale Air Force Base</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-minot-sightings-became-official-records-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="how-minot-sightings-became-official-records-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for B-52 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: B-52 model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-minot-sightings-became-official-records-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="how-minot-sightings-became-official-records-b-52-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -549,15 +467,15 @@ Within North Dakota’s UFO history, that uncertainty is precisely why Minot rem
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-minot-sightings-became-official-records-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="how-minot-sightings-became-official-records-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1/200 Scale American Army B-52H Strategic Bomber Aircraft Model"><img src="https://i.ebayimg.com/images/g/BbQAAeSwrQ5poZ4n/s-l225.jpg" alt="Listing image for 1/200 Scale American Army B-52H Strategic Bomber Aircraft Model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-minot-sightings-became-official-records-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="how-minot-sightings-became-official-records-b-52-model" target="_blank" rel="sponsored noopener noreferrer">1/200 Scale American Army B-52H Strategic Bomber Aircraft Model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-minot-sightings-became-official-records-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="how-minot-sightings-became-official-records-b-52-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for B-52 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: B-52 model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-minot-sightings-became-official-records-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="how-minot-sightings-became-official-records-b-52-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -565,7 +483,7 @@ Within North Dakota’s UFO history, that uncertainty is precisely why Minot rem
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minot-reports-how-minot-sightings-became-official-records-north-dakota-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=B-52+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-minot-sightings-became-official-records-b-52-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="B-52 model" data-ebay-reference="how-minot-sightings-became-official-records-b-52-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -642,17 +560,31 @@ Within North Dakota’s UFO history, that uncertainty is precisely why Minot rem
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -665,42 +597,73 @@ Within North Dakota’s UFO history, that uncertainty is precisely why Minot rem
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -715,12 +678,17 @@ Within North Dakota’s UFO history, that uncertainty is precisely why Minot rem
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -730,153 +698,153 @@ Within North Dakota’s UFO history, that uncertainty is precisely why Minot rem
 
 1. <a id="endnote-1"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/8331502](https://zenodo.org/records/8331502)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ZenodoThe Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</p></details>
+   Link: <a href="https://zenodo.org/records/8331502" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/8331502</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Investigation of UFO Events at Minot Air Force Base...7 Sept 2024 — Following the UFO events in the early morning on 24 Octob...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports/681024minot_hynek.htm](https://www.nicap.org/reports/681024minot_hynek.htm)  
+   Link: <a href="https://www.nicap.org/reports/681024minot_hynek.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/681024minot_hynek.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportThe B-52 confirmed having sighted a bright light of some type that appeared to be hovering just over or on the ground. The Blue...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ufocasebook.com  
-   Link: [https://www.ufocasebook.com/minotafbufo1968.html](https://www.ufocasebook.com/minotafbufo1968.html)  
+   Link: <a href="https://www.ufocasebook.com/minotafbufo1968.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/minotafbufo1968.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1968-Minot Air Force Base, UFO Hovers, Seen by B-52 crewMINOT AIR FORCE BASE - Project Blue Book case dated October 24, 1968, when missil...</p></details>
    Published: October 24, 1968  
 
 4. <a id="endnote-4"></a>
    Source: academia.edu  
    Title: A Narrative of UFO Events at Minot Air Force Base North Dakota  
-   Link: [https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota](https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaA Narrative of UFO Events at Minot Air Force Base, North...The events of 24 October 1968 made a lasting impression on 22 B-52 ra...</p></details>
+   Link: <a href="https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69394036/A_Narrative_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Narrative of UFO Events at Minot Air Force Base, North...The events of 24 October 1968 made a lasting impression on 22 B-52 ra...</p></details>
    Published: October 1968  
 
 5. <a id="endnote-5"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: academia.edu  
    Title: The Investigation of UFO Events at Minot Air Force Base,  
-   Link: [https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota](https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota)  
+   Link: <a href="https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/104599778/The_Investigation_of_UFO_Events_at_Minot_Air_Force_Base_North_Dakota</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Minot AFB ordered immediate debriefings and investigations. These inquiries occurred before notifying Project Blue Book of the UFO events...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: yumpu.com  
    Title: Basic Reporting Data and Format  
-   Link: [https://www.yumpu.com/en/document/view/44651740/basic-reporting-data-and-format-the-minot-afb-ufo-case](https://www.yumpu.com/en/document/view/44651740/basic-reporting-data-and-format-the-minot-afb-ufo-case)  
+   Link: <a href="https://www.yumpu.com/en/document/view/44651740/basic-reporting-data-and-format-the-minot-afb-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/44651740/basic-reporting-data-and-format-the-minot-afb-ufo-case</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOCAT database listings for North Dakota - The Minot AFB UFO case. Historical...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects25 Jun 2024 — Pro-UFO researchers claim that an extraterrestrial spacecra...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: explorescu.org  
-   Link: [https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa](https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa)  
+   Link: <a href="https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa" target="_blank" rel="noopener noreferrer nofollow">https://www.explorescu.org/post/analysis-of-radar-and-air-visual-ufo-observations-on-24-october-1968-at-minot-afb-north-dakota-usa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The SCUAnalysis of Radar and Air-Visual UFO Observations on 24...1 Aug 2005 — Analysis of Radar and Air-Visual UFO Observations on 24 Oc...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force documentation on better quality Unexplained UFO cases, not to present here the &quot;proof&quot; of UFO reality nor...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: minotb52ufo.com  
-   Link: [https://minotb52ufo.com/doc.php](https://minotb52ufo.com/doc.php)  
+   Link: <a href="https://minotb52ufo.com/doc.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/doc.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Minot AFB UFO CaseDocumentation | The Minot AFB UFO caseDocuments related to the UFO sighting at Minot Air Force Base on October 24, 1968...</p></details>
    Published: October 24, 1968  
 
 13. <a id="endnote-13"></a>
    Source: minotb52ufo.com  
-   Link: [https://minotb52ufo.com/poher/pdf/POHER_Report.pdf](https://minotb52ufo.com/poher/pdf/POHER_Report.pdf)  
+   Link: <a href="https://minotb52ufo.com/poher/pdf/POHER_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/poher/pdf/POHER_Report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There appear to be several UFO echoes of variable sizes in photos 771, 776, 777, and possibly in 781. These...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: minotb52ufo.com  
    Title: Minot AFB UFO Case Part 2  
-   Link: [https://minotb52ufo.com/poher/cp-part2.php](https://minotb52ufo.com/poher/cp-part2.php)  
+   Link: <a href="https://minotb52ufo.com/poher/cp-part2.php" target="_blank" rel="noopener noreferrer nofollow">https://minotb52ufo.com/poher/cp-part2.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>General Descriptions of the B-52 Radarscope...Scholarly examination of a UFO sighting at Minot Air Force Base on October 24, 1968. Inclu...</p></details>
    Published: October 24, 1968  
 
 15. <a id="endnote-15"></a>
    Source: uk.forceswarrecords.com  
-   Link: [https://uk.forceswarrecords.com/document/7170595](https://uk.forceswarrecords.com/document/7170595)  
+   Link: <a href="https://uk.forceswarrecords.com/document/7170595" target="_blank" rel="noopener noreferrer nofollow">https://uk.forceswarrecords.com/document/7170595</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Records and case files relating to investigations of sightings of unidentified flying objects (UFOs). For a comprehensive view of...Read...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO) part 1 of 1UFOs by the Air. Force iswarranted. In view of the consider- able Air. Force commitment of resources in the pa...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: fold3.com  
-   Link: [https://www.fold3.com/document/7170648/minot-afb-north-dakota-blank-page-72-us-project-blue-book-ufo-investigations-1947-1969](https://www.fold3.com/document/7170648/minot-afb-north-dakota-blank-page-72-us-project-blue-book-ufo-investigations-1947-1969)  
+   Link: <a href="https://www.fold3.com/document/7170648/minot-afb-north-dakota-blank-page-72-us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/7170648/minot-afb-north-dakota-blank-page-72-us-project-blue-book-ufo-investigations-1947-1969</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 72: US, Project Blue Book, 1947-196926 Feb 2007 — US, Project Blue Book - UFO Investigations, 1947-1969 · 1968 · October · Minot AFB...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: documentary brings ufos to a close encounterformer minot afb officer remembers s  
-   Link: [https://www.facebook.com/MinotDailyNews/posts/documentary-brings-ufos-to-a-close-encounterformer-minot-afb-officer-remembers-s/1093516612787248/](https://www.facebook.com/MinotDailyNews/posts/documentary-brings-ufos-to-a-close-encounterformer-minot-afb-officer-remembers-s/1093516612787248/)  
+   Link: <a href="https://www.facebook.com/MinotDailyNews/posts/documentary-brings-ufos-to-a-close-encounterformer-minot-afb-officer-remembers-s/1093516612787248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MinotDailyNews/posts/documentary-brings-ufos-to-a-close-encounterformer-minot-afb-officer-remembers-s/1093516612787248/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Documentary brings UFOs to a CLOSE ENCOUNTERAnd there&#x27;s more—back in October 1968, at the same Air Force base, ground-based personnel rep...</p></details>
    Published: October 1968  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: in 1968 minot air force base faced a ufo encounter that still leaves questions u  
-   Link: [https://www.facebook.com/Abovethenormnews/posts/in-1968-minot-air-force-base-faced-a-ufo-encounter-that-still-leaves-questions-u/504458105721188/](https://www.facebook.com/Abovethenormnews/posts/in-1968-minot-air-force-base-faced-a-ufo-encounter-that-still-leaves-questions-u/504458105721188/)  
+   Link: <a href="https://www.facebook.com/Abovethenormnews/posts/in-1968-minot-air-force-base-faced-a-ufo-encounter-that-still-leaves-questions-u/504458105721188/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/in-1968-minot-air-force-base-faced-a-ufo-encounter-that-still-leaves-questions-u/504458105721188/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1968, Minot Air Force Base faced a UFO encounter that...Ground radar tracks an unidentified target correlated with a visual orange gl...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: tvi.show  
    Title: the 1968 minot afb ufo encounter detailed report and lasting implications  
-   Link: [https://www.tvi.show/skywatch-files/the-1968-minot-afb-ufo-encounter-detailed-report-and-lasting-implications](https://www.tvi.show/skywatch-files/the-1968-minot-afb-ufo-encounter-detailed-report-and-lasting-implications)  
+   Link: <a href="https://www.tvi.show/skywatch-files/the-1968-minot-afb-ufo-encounter-detailed-report-and-lasting-implications" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/the-1968-minot-afb-ufo-encounter-detailed-report-and-lasting-implications</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1968 Minot AFB UFO Encounter: In-Depth Report &amp;...2 May 2025 — Explore the detailed 1968 Minot Air Force Base UFO encounter, where a...</p></details>
    Published: May 2025  
 
 21. <a id="endnote-21"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/456301001/Project-Blue-Book-Top-Secret-UFO-Files-The-Untold-Truth-by-John-Scott-Chace-pdf](https://www.scribd.com/document/456301001/Project-Blue-Book-Top-Secret-UFO-Files-The-Untold-Truth-by-John-Scott-Chace-pdf)  
+   Link: <a href="https://www.scribd.com/document/456301001/Project-Blue-Book-Top-Secret-UFO-Files-The-Untold-Truth-by-John-Scott-Chace-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/456301001/Project-Blue-Book-Top-Secret-UFO-Files-The-Untold-Truth-by-John-Scott-Chace-pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AIRSPACE: HARD EVIDENCE&quot; and “The Invasion of Earth: UFO and. Extraterrestrial Contact.”...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOB/comments/q6ioew/a_ufo_interacted_intelligently_with_the_crew_of_a/](https://www.reddit.com/r/UFOB/comments/q6ioew/a_ufo_interacted_intelligently_with_the_crew_of_a/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/q6ioew/a_ufo_interacted_intelligently_with_the_crew_of_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/q6ioew/a_ufo_interacted_intelligently_with_the_crew_of_a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>multi-layered UFO cases which goes on for multiple decades. 3hr deep... UFOs disarmed multiple nuclear missiles around a Montana Air For...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
    Title: the october 24 1968 minot ufo case is remarkable  
-   Link: [https://www.reddit.com/r/skeptic/comments/j6zlb/the_october_24_1968_minot_ufo_case_is_remarkable/](https://www.reddit.com/r/skeptic/comments/j6zlb/the_october_24_1968_minot_ufo_case_is_remarkable/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/j6zlb/the_october_24_1968_minot_ufo_case_is_remarkable/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/j6zlb/the_october_24_1968_minot_ufo_case_is_remarkable/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The October, 24 1968 Minot UFO case is remarkable...David Schindele testified he saw 10 nuclear missiles go offline at the time his air...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
    Title: 130000 pages of 10000 project blue book case  
-   Link: [https://www.reddit.com/r/UFOs/comments/2s6l7c/130000_pages_of_10000_project_blue_book_case/](https://www.reddit.com/r/UFOs/comments/2s6l7c/130000_pages_of_10000_project_blue_book_case/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/2s6l7c/130000_pages_of_10000_project_blue_book_case/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/2s6l7c/130000_pages_of_10000_project_blue_book_case/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>130000 Pages of 10000+ Project Blue Book case files now...r/UFOs - Project BLUE BOOK files: USAF pilots observe UFO over Pacific Ocean...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: vault.fbi.gov  
    Title: Project Blue Book (UFO)  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO)Project Blue Book Originally Project Blue Book was the Air Force name for a project that investigated UFO reports between...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: J. Allen Hynek: the Man behind UFO "Project Blue Book"  
-   Link: [http://www.youtube.com/watch?v=S4vvZ4uyIyI](http://www.youtube.com/watch?v=S4vvZ4uyIyI)  
+   Link: <a href="http://www.youtube.com/watch?v=S4vvZ4uyIyI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=S4vvZ4uyIyI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Minot AFB UFO incident 1968 B-52 B-52 and missile crews witnessed a UFO at the vicinity of Minot Air Force Base, October 24, 1968 Eyes On...</p></details>
-   Published: October 24, 1968  
+   Published: October 24, 1968

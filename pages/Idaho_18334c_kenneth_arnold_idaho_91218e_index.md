@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /idaho-18334c-kenneth-arnold-idaho/
 description: Focused pages that expand on Kenneth Arnold.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Idaho_18334c_kenneth_arnold_idaho_91218e
-parent_title: Kenneth Arnold | What Makes Idaho a Key UFO Hotspot?
+parent_title: Kenneth Arnold
 parent_nav_short_title: Kenneth Arnold
 parent_permalink: /kenneth-arnold/
 ---

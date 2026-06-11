@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /iowa-08a48b-blue-book-iowa-a16367-index/
 description: Focused pages that expand on Blue Book.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Iowa_08a48b_blue_book_iowa_a16367
-parent_title: Blue Book | What Really Happened in Iowa's UFO Cases?
+parent_title: Blue Book
 parent_nav_short_title: Blue Book
 parent_permalink: /blue-book-4c1811/
 ---

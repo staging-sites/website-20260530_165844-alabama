@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /report-clusters/
 nav_short_title: Starlink flaps
 title: When Starlink becomes a Washington UFO flap
-title_full: When Starlink becomes a Washington UFO flap | Report Clusters
+title_full: When Starlink becomes a Washington UFO flap
 display_title_short: Starlink flaps
 display_title: Starlink flaps
 heading_title: When Starlink becomes a Washington UFO flap
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 16:25:28'
-parent_title: Why Washington Keeps Reporting UFOs | Washington UFOs
+parent_title: Why Washington Keeps Reporting UFOs
 parent_permalink: /report-clusters/
 parent_nav_short_title: Report Clusters
 parent_heading_title: Why Washington Keeps Reporting UFOs
@@ -250,18 +250,16 @@ image: /assets/images/Washington_a27a66_washington_reporting_6bcbd0_starlink_was
 
 ## Introduction
 
-Starlink satellite trains have become one of the clearest modern examples of how a genuine sky phenomenon can trigger a sudden UFO reporting wave in [Washington]({{ 'why-washington-shaped-ufo-history/' | relative_url }}). Since SpaceX began launching large groups of Starlink satellites, witnesses across the state have repeatedly reported long lines of bright lights moving silently across the night sky. To someone unfamiliar with satellite deployments, the sight can look extraordinary: dozens of evenly spaced lights travelling in formation, sometimes appearing and disappearing without obvious explanation. Yet many of these reports can be matched closely to launch schedules, orbital tracking data and known satellite visibility windows. The result is a useful case study in how Washington's civilian UFO databases record real public reactions to unusual sights while also helping investigators identify likely explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceStarlink satellites: Facts, tracking and impact on astronomyApril 14, 2022 — 5 May 2026 — The satellites can appear as a string of p...</span><span class="citation-popover-meta">Published: April 14, 2022</span></span></span>
+Starlink satellite trains have become one of the clearest modern examples of how a genuine sky phenomenon can trigger a sudden UFO reporting wave in Washington. Since SpaceX began launching large groups of Starlink satellites, witnesses across the state have repeatedly reported long lines of bright lights moving silently across the night sky. To someone unfamiliar with satellite deployments, the sight can look extraordinary: dozens of evenly spaced lights travelling in formation, sometimes appearing and disappearing without obvious explanation. Yet many of these reports can be matched closely to launch schedules, orbital tracking data and known satellite visibility windows. The result is a useful case study in how Washington's civilian UFO databases record real public reactions to unusual sights while also helping investigators identify likely explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Starlink satellites: Facts, tracking and impact on astronomyApril 14, 2022 — 5 May 2026 — The satellites can appear as a string of p...</span><span class="citation-popover-meta">Published: April 14, 2022</span></span></span>
 
-
-<img src="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0_starlink_washington_333bad-Illustration-1-light.svg" | relative_url }}" alt="Starlink flaps illustration 1" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0_starlink_washington_333bad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0_starlink_washington_333bad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0_starlink_washington_333bad-Illustration-1-dark.svg" | relative_url }}" alt="Starlink flaps illustration 1" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0_starlink_washington_333bad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0_starlink_washington_333bad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In a state with a long UFO reporting tradition and one of the highest per-capita reporting rates in the United States, Starlink sightings show how quickly a recognisable astronomical event can create what researchers call a flap: a short-term surge of reports triggered by a common stimulus rather than a single mysterious object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/local/seattle/2022/07/28/washington-state-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Washington is No</span><span class="citation-popover-snippet">1 state for UFO sightingsJuly 28, 2022 — Washington state ranks number one in the U.S. for UFO sightings per capita, according to data fr...</span><span class="citation-popover-meta">Published: July 28, 2022</span></span></span>
 
 ## Why satellite trains fool witnesses
 
-The confusion begins with the way Starlink satellites are launched. Instead of immediately spreading into separate orbital positions, newly deployed satellites often travel in a compact line. For several days after launch they can appear as a bright procession of lights crossing the sky in near-perfect formation. Observers frequently describe them as a string of pearls, a convoy or a train. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceStarlink satellite train: how to see and track it in the night sky5 May 2026 — The Starlink satellite train is often mistaken for UF...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+The confusion begins with the way Starlink satellites are launched. Instead of immediately spreading into separate orbital positions, newly deployed satellites often travel in a compact line. For several days after launch they can appear as a bright procession of lights crossing the sky in near-perfect formation. Observers frequently describe them as a string of pearls, a convoy or a train. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Starlink satellite train: how to see and track it in the night sky5 May 2026 — The Starlink satellite train is often mistaken for UF...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 Several characteristics make the sight unusual to people who do not follow satellite launches:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -274,10 +272,9 @@ Several characteristics make the sight unusual to people who do not follow satel
 
 </div>
 
-Those features overlap with descriptions commonly found in UFO reports. Witnesses often expect satellites to appear as single faint points of light. Seeing twenty or thirty bright objects moving together can therefore feel inconsistent with ordinary expectations even when the explanation is entirely conventional. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceStarlink satellites: Facts, tracking and impact on astronomyApril 14, 2022 — 5 May 2026 — The satellites can appear as a string of p...</span><span class="citation-popover-meta">Published: April 14, 2022</span></span></span>
+Those features overlap with descriptions commonly found in UFO reports. Witnesses often expect satellites to appear as single faint points of light. Seeing twenty or thirty bright objects moving together can therefore feel inconsistent with ordinary expectations even when the explanation is entirely conventional. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Starlink satellites: Facts, tracking and impact on astronomyApril 14, 2022 — 5 May 2026 — The satellites can appear as a string of p...</span><span class="citation-popover-meta">Published: April 14, 2022</span></span></span>
 
 The effect was strong enough that the National UFO Reporting Center (NUFORC), headquartered in Washington State, eventually placed a warning directly on its reporting page advising witnesses that lines of lights moving together are probably Starlink satellites rather than unidentified craft. The organisation specifically notes that multiple bright objects travelling on the same course at the same speed are a key indicator. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">nd not UFOs, so please do not report them.Read more...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pDKMtUFt9S4" title="SpaceX Starlink satellites spotted in the night sky over western Washington" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pDKMtUFt9S4" target="_blank" rel="noopener noreferrer">SpaceX Starlink satellites spotted in the night sky over western Washington</a></p><p class="youtube-embed-meta">Channel: KING 5 Seattle &middot; Views: 91.0K &middot; Uploaded: May 2021 &middot; Length: 1 minute 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pDKMtUFt9S4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pDKMtUFt9S4">Open on YouTube</a></p></div></div></div>
 
@@ -286,7 +283,6 @@ The effect was strong enough that the National UFO Reporting Center (NUFORC), he
 One of the most visible Washington examples occurred on 4 May 2021. Residents across western Washington reported a striking line of lights moving across the evening sky. Social media quickly filled with videos and speculation, and some observers initially wondered whether they were seeing UFOs. Local reporting later connected the sight to a Starlink launch that had taken place earlier that day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenewstribune.com/news/local/article251187834.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenewstribune.com">[Tacoma News Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenewstribune.com</span><span class="citation-popover-title">Tacoma News Tribune UFO?</span><span class="citation-popover-snippet">Starlink satellites over Washington night sky (Video)5 May 2021 — Skywatchers in Washington were mesmerized by a string of lights in the...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
 
 The episode followed a familiar pattern seen elsewhere in North America:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -302,8 +298,7 @@ Because so many people witnessed the same event, it generated the impression of 
 
 For Washington researchers, the incident is important not because it remained unexplained, but because it demonstrates how a reporting cluster forms. A dramatic sight appears, witnesses independently file reports, and databases suddenly record a spike that can resemble a UFO flap until the underlying cause is examined.
 
-
-<img src="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0_starlink_washington_333bad-Illustration-2-light.svg" | relative_url }}" alt="Starlink flaps illustration 2" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0_starlink_washington_333bad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0_starlink_washington_333bad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0_starlink_washington_333bad-Illustration-2-dark.svg" | relative_url }}" alt="Starlink flaps illustration 2" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0_starlink_washington_333bad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0_starlink_washington_333bad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Starlink reports look like inside UFO databases
 
 Washington's civilian reporting culture makes these events especially visible. NUFORC archives contain numerous reports describing formations, fleets or strings of lights that investigators later suspected were Starlink satellites. Some entries even include editorial notes indicating a likely Starlink explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=151048" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 151048Lights on object. Mysterious lights moving from the western sky to the eastern sky, 2 groups of 10, ((NUFORC No...</span></span></span>
@@ -311,7 +306,6 @@ Washington's civilian reporting culture makes these events especially visible. N
 An Olympia report from November 2019, for example, described two groups of lights travelling eastward in formation. NUFORC attached a note suggesting the sighting may have involved Starlink satellites. Similar reports appeared across the United States as the constellation expanded and public awareness lagged behind launches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=151052" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 151052Saw a fleet of UFO&#x27;s/Lights appearing out of the sky and then traveling East for 10+ minutes. This morning as I...</span></span></span>
 
 This does not mean every report involving multiple lights is automatically explained. Database investigators generally look at several factors together:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -325,10 +319,9 @@ This does not mean every report involving multiple lights is automatically expla
 
 </div>
 
-When those details align with a known Starlink pass, confidence in the explanation increases significantly. When timing or movement does not match, the report may remain unresolved or require other explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/722-new-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">722 new ufo reports</span><span class="citation-popover-snippet">Posted | NUFORCJul 10, 2023 — We classify each explanation as Possible, Probable or Certain. The most common misidentifications are Starl...</span></span></span>
+When those details align with a known Starlink pass, confidence in the explanation increases significantly. When timing or movement does not match, the report may remain unresolved or require other explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/722-new-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">722 new ufo reports</span><span class="citation-popover-snippet">Posted &#124; NUFORCJul 10, 2023 — We classify each explanation as Possible, Probable or Certain. The most common misidentifications are Starl...</span></span></span>
 
 The value of the database is therefore not simply that it collects reports. It preserves enough contextual information to compare witness accounts with known aerospace activity.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hZ0qZ5T9bCg" title="Line of lights in the sky: Starlink satellite train seen over south-central Pa." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hZ0qZ5T9bCg" target="_blank" rel="noopener noreferrer">Line of lights in the sky: Starlink satellite train seen over south-central Pa.</a></p><p class="youtube-embed-meta">Channel: FOX43 News &middot; Views: 55.2K &middot; Uploaded: June 2023 &middot; Length: 1 minute 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hZ0qZ5T9bCg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hZ0qZ5T9bCg">Open on YouTube</a></p></div></div></div>
 
@@ -339,7 +332,6 @@ A notable development in recent years has been the growing willingness of civili
 This reflects a broader shift in UFO investigation. Rather than treating every unexplained-looking sight as potentially extraordinary, investigators increasingly begin with known objects that can produce unusual appearances.
 
 For Starlink cases, useful tools include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -355,8 +347,7 @@ Websites dedicated to satellite visibility can often show whether a Starlink tra
 
 The existence of these tools does not eliminate uncertainty in every case, but it has substantially reduced the number of long-lasting mysteries involving linear formations of lights.
 
-
-<img src="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0_starlink_washington_333bad-Illustration-3-light.svg" | relative_url }}" alt="Starlink flaps illustration 3" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0_starlink_washington_333bad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0_starlink_washington_333bad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0_starlink_washington_333bad-Illustration-3-dark.svg" | relative_url }}" alt="Starlink flaps illustration 3" data-theme-src-dark="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0_starlink_washington_333bad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_a27a66_washington_reporting_6bcbd0_starlink_washington_333bad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Starlink matters to Washington's UFO history
 
 The significance of Starlink within Washington's UFO history is not that it created a new unexplained phenomenon. Rather, it exposed how reporting systems behave when thousands of people encounter something unfamiliar at the same time.
@@ -365,13 +356,11 @@ Washington already had strong conditions for UFO reporting: a large population, 
 
 The resulting reports offer a useful reminder that a flap is not necessarily evidence of a mysterious object. Sometimes it is evidence of a shared observation whose explanation has not yet reached the witnesses. Starlink trains demonstrate how quickly a genuine but unfamiliar aerospace event can be transformed into a temporary UFO wave.
 
-That lesson has become increasingly important as satellite constellations grow larger and more visible. Researchers examining Washington's reporting clusters now have to consider not only aircraft, planets, meteors and atmospheric effects, but also the changing appearance of large satellite networks. Several recent studies and aviation analyses have noted that even experienced observers, including pilots, have occasionally mistaken newly launched Starlink formations for unidentified aerial phenomena before orbital data resolved the sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
+That lesson has become increasingly important as satellite constellations grow larger and more visible. Researchers examining Washington's reporting clusters now have to consider not only aircraft, planets, meteors and atmospheric effects, but also the changing appearance of large satellite networks. Several recent studies and aviation analyses have noted that even experienced observers, including pilots, have occasionally mistaken newly launched Starlink formations for unidentified aerial phenomena before orbital data resolved the sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</span></span></span>
 
 In that sense, Starlink flaps are part of the continuing evolution of Washington's UFO record. They show how civilian databases capture public perception in real time, while also demonstrating why investigation, timing checks and comparison with known aerospace activity remain essential before treating a dramatic sighting as genuinely unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=154082" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 154082NUFORC UFO Sighting 154082. Occurred: 2020-03-05 22:00 Local Reported: 2020-03-06 15:23 Pacific Duration: 2 min...</span><span class="citation-popover-meta">Published: March 5, 2020</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aiCEg-O7Tww" title="CityStream: UFOs: Do you believe?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aiCEg-O7Tww" target="_blank" rel="noopener noreferrer">CityStream: UFOs: Do you believe?</a></p><p class="youtube-embed-meta">Channel: Seattle Channel &middot; Views: 7.4M &middot; Uploaded: October 2019 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aiCEg-O7Tww" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aiCEg-O7Tww">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -459,7 +448,7 @@ In that sense, Starlink flaps are part of the continuing evolution of Washington
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -469,111 +458,36 @@ In that sense, Starlink flaps are part of the continuing evolution of Washington
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX"><img src="https://i.ebayimg.com/images/g/D6YAAeSwgIhqJsph/s-l225.jpg" alt="Listing image for UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">UFO - Obsession - 1978 UK Chrysalis - Early Issue with Large Poster - EX/EX</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -581,15 +495,15 @@ In that sense, Starlink flaps are part of the continuing evolution of Washington
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="https://i.ebayimg.com/images/g/B7QAAeSw73loHdMA/s-l225.jpg" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -597,15 +511,15 @@ In that sense, Starlink flaps are part of the continuing evolution of Washington
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/o-YAAOSwKopk5fnY/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -613,15 +527,15 @@ In that sense, Starlink flaps are part of the continuing evolution of Washington
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -629,7 +543,7 @@ In that sense, Starlink flaps are part of the continuing evolution of Washington
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-flaps-when-starlink-becomes-a-washington-ufo-flap-washington-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="when-starlink-becomes-a-washington-ufo-flap-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-alb" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -706,17 +620,31 @@ In that sense, Starlink flaps are part of the continuing evolution of Washington
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -729,42 +657,73 @@ In that sense, Starlink flaps are part of the continuing evolution of Washington
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -779,12 +738,17 @@ In that sense, Starlink flaps are part of the continuing evolution of Washington
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -794,178 +758,178 @@ In that sense, Starlink flaps are part of the continuing evolution of Washington
 
 1. <a id="endnote-1"></a>
    Source: space.com  
-   Link: [https://www.space.com/spacex-starlink-satellites.html](https://www.space.com/spacex-starlink-satellites.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceStarlink satellites: Facts, tracking and impact on astronomyApril 14, 2022 — 5 May 2026 — The satellites can appear as a string of p...</p></details>
+   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites: Facts, tracking and impact on astronomyApril 14, 2022 — 5 May 2026 — The satellites can appear as a string of p...</p></details>
    Published: April 14, 2022  
 
 2. <a id="endnote-2"></a>
    Source: space.com  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceStarlink satellite train: how to see and track it in the night sky5 May 2026 — The Starlink satellite train is often mistaken for UF...</p></details>
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellite train: how to see and track it in the night sky5 May 2026 — The Starlink satellite train is often mistaken for UF...</p></details>
    Published: May 2026  
 
 3. <a id="endnote-3"></a>
    Source: axios.com  
    Title: Washington is No  
-   Link: [https://www.axios.com/local/seattle/2022/07/28/washington-state-ufo-sightings](https://www.axios.com/local/seattle/2022/07/28/washington-state-ufo-sightings)  
+   Link: <a href="https://www.axios.com/local/seattle/2022/07/28/washington-state-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/seattle/2022/07/28/washington-state-ufo-sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 state for UFO sightingsJuly 28, 2022 — Washington state ranks number one in the U.S. for UFO sightings per capita, according to data fr...</p></details>
    Published: July 28, 2022  
 
 4. <a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
+   Link: <a href="https://nuforc.org/report-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/report-a-ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd not UFOs, so please do not report them.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=151048](https://nuforc.org/sighting/?id=151048)  
+   Link: <a href="https://nuforc.org/sighting/?id=151048" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=151048</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 151048Lights on object. Mysterious lights moving from the western sky to the eastern sky, 2 groups of 10, ((NUFORC No...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=151052](https://nuforc.org/sighting/?id=151052)  
+   Link: <a href="https://nuforc.org/sighting/?id=151052" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=151052</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 151052Saw a fleet of UFO&#x27;s/Lights appearing out of the sky and then traveling East for 10+ minutes. This morning as I...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nuforc.org  
    Title: 722 new ufo reports  
-   Link: [https://nuforc.org/722-new-ufo-reports/](https://nuforc.org/722-new-ufo-reports/)  
+   Link: <a href="https://nuforc.org/722-new-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/722-new-ufo-reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Posted | NUFORCJul 10, 2023 — We classify each explanation as Possible, Probable or Certain. The most common misidentifications are Starl...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=164134](https://nuforc.org/sighting/?id=164134)  
+   Link: <a href="https://nuforc.org/sighting/?id=164134" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=164134</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 164134NUFORC UFO Sighting 164134. Occurred: 2021-05-05 02:15 Local Reported: 2021-07-22 16:07 Pacific Duration: 2 min...</p></details>
    Published: May 5, 2021  
 
 10. <a id="endnote-10"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=154082](https://nuforc.org/sighting/?id=154082)  
+   Link: <a href="https://nuforc.org/sighting/?id=154082" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=154082</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 154082NUFORC UFO Sighting 154082. Occurred: 2020-03-05 22:00 Local Reported: 2020-03-06 15:23 Pacific Duration: 2 min...</p></details>
    Published: March 5, 2020  
 
 11. <a id="endnote-11"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=179990](https://nuforc.org/sighting/?id=179990)  
+   Link: <a href="https://nuforc.org/sighting/?id=179990" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=179990</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 179990NUFORC UFO Sighting 179990; Occurred: 2024-01-07 18:09 Local; Reported: 2024-01-08 09:47 Pacific; Duration...</p></details>
    Published: January 7, 2024  
 
 12. <a id="endnote-12"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/post230409/](https://nuforc.org/post230409/)  
+   Link: <a href="https://nuforc.org/post230409/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/post230409/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>333 New Reports PostedApr 9, 2023 — I just observed a long line of starlink satellites over Sacramento, California.... We saw a straight...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=191332](https://nuforc.org/sighting/?id=191332)  
+   Link: <a href="https://nuforc.org/sighting/?id=191332" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=191332</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 191332Jul 30, 2025 — NUFORC UFO Sighting 191332. Occurred: 2025-06-29 12:55 Local Reported: 2025-07-29 02:38 Pacific...</p></details>
    Published: June 29, 2025  
 
 14. <a id="endnote-14"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=163220](https://nuforc.org/sighting/?id=163220)  
+   Link: <a href="https://nuforc.org/sighting/?id=163220" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=163220</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 163220NUFORC UFO Sighting 163220. Occurred: 2021-05-15 22:36 Local Reported: 2021-05-17 01:36 Pacific Duration: 4 min...</p></details>
    Published: May 15, 2021  
 
 15. <a id="endnote-15"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=150997](https://nuforc.org/sighting/?id=150997)  
+   Link: <a href="https://nuforc.org/sighting/?id=150997" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=150997</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 150997NUFORC UFO Sighting 150997. Occurred: 2019-11-24 04:40 Local Reported: 2019-11-24 04:26 Pacific Duration: 15. N...</p></details>
    Published: November 24, 2019  
 
 16. <a id="endnote-16"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/webreports/reports/176/S176754.html](https://nuforc.org/webreports/reports/176/S176754.html)  
+   Link: <a href="https://nuforc.org/webreports/reports/176/S176754.html" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/webreports/reports/176/S176754.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 176754NUFORC UFO Sighting 176754; Occurred: 2023-06-21 22:55 Local; Reported: 2023-07-13 21:04 Pacific; Duration...</p></details>
    Published: June 21, 2023  
 
 17. <a id="endnote-17"></a>
    Source: nuforc.org  
-   Link: [https://nuforc.org/sighting/?id=184489](https://nuforc.org/sighting/?id=184489)  
+   Link: <a href="https://nuforc.org/sighting/?id=184489" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=184489</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 1844897 Dec 2024 — NUFORC UFO Sighting 184489. Occurred: 2024-11-25 05:00 Local Reported... Very high up in sky, occ...</p></details>
    Published: November 25, 2024  
 
 18. <a id="endnote-18"></a>
    Source: thenewstribune.com  
    Title: Tacoma News Tribune UFO?  
-   Link: [https://www.thenewstribune.com/news/local/article251187834.html](https://www.thenewstribune.com/news/local/article251187834.html)  
+   Link: <a href="https://www.thenewstribune.com/news/local/article251187834.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thenewstribune.com/news/local/article251187834.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites over Washington night sky (Video)5 May 2021 — Skywatchers in Washington were mesmerized by a string of lights in the...</p></details>
    Published: May 2021  
 
 19. <a id="endnote-19"></a>
    Source: foxnews.com  
-   Link: [https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report](https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report)  
+   Link: <a href="https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/spacex-starlink-satellites-not-ufos-spotted-in-night-sky-over-washington-state-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Starlink satellites, not UFOs, spotted in night sky...5 May 2021 — It turns out the lights in the night sky over western Washingt...</p></details>
    Published: May 2021  
 
 20. <a id="endnote-20"></a>
    Source: findstarlink.com  
-   Link: [https://findstarlink.com/](https://findstarlink.com/)  
+   Link: <a href="https://findstarlink.com/" target="_blank" rel="noopener noreferrer nofollow">https://findstarlink.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Find StarlinkStarlink Satellites Tracker - Check when you can see it!Calculate when you can see the Starlink satellites above your location...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: independent.co.uk  
-   Link: [https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html](https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html)  
+   Link: <a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceXstarlinkUFOs. Join our commenting forum. Join thought-...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pDKMtUFt9S4](https://www.youtube.com/watch?v=pDKMtUFt9S4)  
+   Link: <a href="https://www.youtube.com/watch?v=pDKMtUFt9S4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pDKMtUFt9S4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Starlink satellites spotted in the night sky over western...What we actually saw was the 6d starlink satellites that had just bee...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: wgal.com  
-   Link: [https://www.wgal.com/article/what-are-those-lights-in-sky/65013787](https://www.wgal.com/article/what-are-those-lights-in-sky/65013787)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WGALPeople report line of lights in the night skyIdentify if you saw Starlink by visiting findstarlink.com. Enter your zip code to find w...</p></details>
+   Link: <a href="https://www.wgal.com/article/what-are-those-lights-in-sky/65013787" target="_blank" rel="noopener noreferrer nofollow">https://www.wgal.com/article/what-are-those-lights-in-sky/65013787</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>People report line of lights in the night skyIdentify if you saw Starlink by visiting findstarlink.com. Enter your zip code to find w...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40noahhradek/starlink-satellites-do-not-cause-ufo-reports-07b1ec515d5c](https://medium.com/%40noahhradek/starlink-satellites-do-not-cause-ufo-reports-07b1ec515d5c)  
+   Link: <a href="https://medium.com/%40noahhradek/starlink-satellites-do-not-cause-ufo-reports-07b1ec515d5c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40noahhradek/starlink-satellites-do-not-cause-ufo-reports-07b1ec515d5c</a>  
 
 25. <a id="endnote-25"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DVQqOdbAqy8/](https://www.instagram.com/reel/DVQqOdbAqy8/)  
+   Link: <a href="https://www.instagram.com/reel/DVQqOdbAqy8/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVQqOdbAqy8/</a>  
 
 26. <a id="endnote-26"></a>
    Source: forbes.com  
-   Link: [https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/](https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/)  
+   Link: <a href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space by the...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100089701716225/posts/another-invisible-ufo-is-spotted-this-time-in-washington-state-the-cloaked-ufo-a/874562452210471/](https://www.facebook.com/100089701716225/posts/another-invisible-ufo-is-spotted-this-time-in-washington-state-the-cloaked-ufo-a/874562452210471/)  
+   Link: <a href="https://www.facebook.com/100089701716225/posts/another-invisible-ufo-is-spotted-this-time-in-washington-state-the-cloaked-ufo-a/874562452210471/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100089701716225/posts/another-invisible-ufo-is-spotted-this-time-in-washington-state-the-cloaked-ufo-a/874562452210471/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>may help resolve or understand reports by both the public and in military settings.Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: starwalk.space  
-   Link: [https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide](https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide)  
+   Link: <a href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow">https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The weird-looking moving lights in the sky may be Starlink satellites, not aliens!Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: nypost.com  
    Title: elon musks satellites triggers uptick in ufo sightings  
-   Link: [https://nypost.com/2023/03/20/elon-musks-satellites-triggers-uptick-in-ufo-sightings/](https://nypost.com/2023/03/20/elon-musks-satellites-triggers-uptick-in-ufo-sightings/)  
+   Link: <a href="https://nypost.com/2023/03/20/elon-musks-satellites-triggers-uptick-in-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2023/03/20/elon-musks-satellites-triggers-uptick-in-ufo-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Elon Musks&#x27; satellites triggers uptick in UFO sightings20 Mar 2023 — Researchers found that Elon Musk&#x27;s Starlink satellites were responsi...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CarlowWeather/posts/i-often-get-reports-of-line-of-lights-moving-in-the-sky-like-shown-in-video-capt/1315467433957037/](https://www.facebook.com/CarlowWeather/posts/i-often-get-reports-of-line-of-lights-moving-in-the-sky-like-shown-in-video-capt/1315467433957037/)  
+   Link: <a href="https://www.facebook.com/CarlowWeather/posts/i-often-get-reports-of-line-of-lights-moving-in-the-sky-like-shown-in-video-capt/1315467433957037/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CarlowWeather/posts/i-often-get-reports-of-line-of-lights-moving-in-the-sky-like-shown-in-video-capt/1315467433957037/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tes being launched in groups, and they travel in a line – a Starlink train...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: skepticalinquirer.org  
    Title: the great starlink racetrack ufo flap of 2022  
-   Link: [https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/](https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/)  
+   Link: <a href="https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eventually, the Starlink trains became a rare but familiar sight for regular skywatchers, and “UFO” reports involving long strings of lig...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DXPAJp4DffH/](https://www.instagram.com/reel/DXPAJp4DffH/)  
+   Link: <a href="https://www.instagram.com/reel/DXPAJp4DffH/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXPAJp4DffH/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ny little light. Center frame. Awesome. Just keeps going. OCR...</p></details>

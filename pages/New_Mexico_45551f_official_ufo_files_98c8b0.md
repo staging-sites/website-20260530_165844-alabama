@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /why-new-mexico-became-ufo-country/
 nav_short_title: Official Files
 title: What the Official Files Actually Show
-title_full: What the Official Files Actually Show | New Mexico UFOs
+title_full: What the Official Files Actually Show
 display_title_short: Official Files
 display_title: Official Files
 heading_title: What the Official Files Actually Show
@@ -268,8 +268,7 @@ image: /assets/images/New_Mexico_45551f_official_ufo_files_98c8b0-overview-socia
 
 ## Introduction
 
-Official UFO files do not make [New Mexico]({{ 'why-new-mexico-became-ufo-country/' | relative_url }})’s most famous cases simple, but they do make them more legible. Project [Blue Book]({{ 'blue-book-12faa9/' | relative_url }}), the Government Accountability Office search for Roswell records, the Air Force’s Roswell reports, FBI material and later Pentagon historical reviews show a consistent pattern: some claims were explained as balloons, aircraft, research equipment or later memory-conflation; some records were missing or never created; and a small number of cases, especially Socorro in 1964, remained difficult enough to matter historically. The best use of these files is not to treat them as a final courtroom verdict on every story. It is to ask what was actually investigated, what documents survive, what explanations were offered, and where the paper trail is too thin to support confident claims.
-
+Official UFO files do not make New Mexico’s most famous cases simple, but they do make them more legible. Project [Blue Book]({{ 'blue-book-12faa9/' | relative_url }}), the Government Accountability Office search for [Roswell]({{ 'roswell/' | relative_url }}) records, the Air Force’s Roswell reports, FBI material and later Pentagon historical reviews show a consistent pattern: some claims were explained as balloons, aircraft, research equipment or later memory-conflation; some records were missing or never created; and a small number of cases, especially Socorro in 1964, remained difficult enough to matter historically. The best use of these files is not to treat them as a final courtroom verdict on every story. It is to ask what was actually investigated, what documents survive, what explanations were offered, and where the paper trail is too thin to support confident claims.
 
 <img src="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0-overview.webp" | relative_url }}" alt="Overview image for Official Files" loading="eager" decoding="sync" fetchpriority="high">
 ## Why official files matter in New Mexico
@@ -278,7 +277,7 @@ New Mexico’s UFO history sits unusually close to official record-keeping becau
 
 Project Blue Book is the central public archive for older Air Force UFO investigations. The National Archives states that Project Blue Book covered Air Force UFO investigations from 1947 to 1969, received 12,618 sighting reports, and left 701 listed as “unidentified”. It also records the Air Force’s official conclusion that no investigated UFO showed evidence of a national-security threat, unknown advanced technology, or extraterrestrial vehicles. The same National Archives page makes a crucial archival point: Blue Book documentation was transferred for public review, but the project closed in 1969 and did not continue receiving or investigating later reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">briefing guide 12 07 12</span><span class="citation-popover-snippet">briefing guide 12 07 12</span></span></span>
 
-For New Mexico, that means Blue Book is a strong starting point but not a complete state UFO ledger. It helps with cases that entered the Air Force system, such as [Socorro]({{ 'socorro/' | relative_url }}). It is less useful for cases that became famous later, were handled through other agencies, or were never documented as UFO investigations in the first place. [Roswell]({{ 'roswell/' | relative_url }}) is the clearest example: it became the world’s best-known UFO story, yet the key official record trail sits more in GAO, Air Force, FBI and unit-history material than in a neat Blue Book case file.
+For New Mexico, that means Blue Book is a strong starting point but not a complete state UFO ledger. It helps with cases that entered the Air Force system, such as [Socorro]({{ 'socorro/' | relative_url }}). It is less useful for cases that became famous later, were handled through other agencies, or were never documented as UFO investigations in the first place. Roswell is the clearest example: it became the world’s best-known UFO story, yet the key official record trail sits more in GAO, Air Force, FBI and unit-history material than in a neat Blue Book case file.
 
 ## Project Blue Book and New Mexico cases
 
@@ -290,8 +289,7 @@ Socorro also shows the limits of official investigation. The files can document 
 
 New Mexico’s administrative role was also larger than its case list. The Air Force Office of Special Investigations notes that, after the early Air Force UFO projects began, many reports were investigated by District 17 at Kirtland Air Force Base in Albuquerque. That places New Mexico inside the machinery of federal UFO handling, not just at the receiving end of famous sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[osi.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-title">Project Blue Book Part 1 (UFO Reports</span><span class="citation-popover-snippet">Project Blue Book Part 1 (UFO Reports</span></span></span>
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0-Illustration-1-light.svg" | relative_url }}" alt="Official Files illustration 1" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0-Illustration-1-dark.svg" | relative_url }}" alt="Official Files illustration 1" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Roswell record trail actually says
 
 Roswell is often discussed as though there must be one sealed file that would settle everything. The official record is messier and more revealing than that. The Government Accountability Office investigated the records question in the 1990s after a request connected to Representative Steven Schiff of New Mexico. Its report began with the basic contemporary sequence: on 8 July 1947, Roswell Army Air Field announced the recovery of a “flying disc”; the following day, press reports said the object was a radar-tracking weather balloon rather than a flying disc. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS NSIAD 95 187</span><span class="citation-popover-snippet">GAOREPORTS NSIAD 95 187</span></span></span>
@@ -303,7 +301,6 @@ GAO also found a gap that continues to matter. Some Roswell Army Air Field admin
 The Air Force’s own Roswell review went further by connecting the debris to Project Mogul, a balloon-borne research project designed to help detect Soviet nuclear activity. In its public summary of The Roswell Report: Case Closed, the Air Force says the 1994 review concluded that the material recovered in 1947 came from an Army Air Forces balloon-borne research project code-named Mogul. The later “alien bodies” stories, according to the Air Force, were most likely a mixture of memories of high-altitude dummy tests, balloon recovery operations, fatal or injurious Air Force accidents, and events from the 1950s that were later compressed into the July 1947 story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">The Roswell Report...</span></span></span>
 
 A modern Pentagon historical review reached a similar broad conclusion. The All-domain Anomaly Resolution Office, in its 2024 historical report, described Project Mogul as a 1947–49 Army Air Force programme using high-altitude balloons and sensors for long-range detection of weapons tests or missiles, and assessed that a crashed Mogul balloon outside Roswell was the source of early UFO claims. The same section notes that Project High Dive in the 1950s used large balloons and test dummies, a detail relevant to later body-recovery narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-47 "Endnote 47")
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eS1eM6WFCjo" title="Roswell crash, UFO coverups and other unanswered questions | Mystery Wire" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eS1eM6WFCjo" target="_blank" rel="noopener noreferrer">Roswell crash, UFO coverups and other unanswered questions | Mystery Wire</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 99.8K &middot; Uploaded: May 2026 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eS1eM6WFCjo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eS1eM6WFCjo">Open on YouTube</a></p></div></div></div>
 
@@ -317,8 +314,7 @@ The official files therefore weaken the most dramatic Roswell claims in three wa
 
 But the files also explain why Roswell did not simply disappear. GAO acknowledged destroyed Roswell base records. The first Army press statement really did use “flying disc” language. The later official explanation changed from a generic weather balloon to a classified Mogul-related balloon. Those facts created a durable trust problem, even though they do not supply positive evidence for alien recovery.
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0-Illustration-2-light.svg" | relative_url }}" alt="Official Files illustration 2" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0-Illustration-2-dark.svg" | relative_url }}" alt="Official Files illustration 2" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The FBI file is small but often overread
 
 The FBI’s Roswell material is useful precisely because it is not a sprawling secret dossier. The FBI Vault describes the Roswell UFO file as a single-page serial from a larger UFO release, concerning a 1947 report of a “flying disc” resembling a high-altitude weather balloon found near Roswell, New Mexico. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-snippet">Open source on fbi.gov.</span></span></span>
@@ -327,8 +323,7 @@ That short file is often circulated online as if it were a dramatic confirmation
 
 This is a recurring problem with New Mexico UFO records. A real file can be treated as proof of a much larger claim than the file actually supports. A teletype, memo or case card may prove that officials received a report, not that the reported object was extraordinary. The distinction is essential for reading official UFO material honestly.
 
-
-<img src="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0-Illustration-3-light.svg" | relative_url }}" alt="Official Files illustration 3" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0-Illustration-3-dark.svg" | relative_url }}" alt="Official Files illustration 3" data-theme-src-dark="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Mexico_45551f_official_ufo_files_98c8b0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What archives can and cannot settle
 
 Official records are strongest when they answer narrow questions. Did the Air Force investigate a report? Was a case entered into Blue Book? Did GAO find relevant 1947 records? Did the Air Force identify a specific military programme as the likely source of debris? On those questions, the New Mexico record is substantial.
@@ -336,7 +331,6 @@ Official records are strongest when they answer narrow questions. Did the Air Fo
 They are weaker when asked to answer broad cultural questions such as whether every witness remembered correctly, whether every record was preserved, or whether every later rumour can be disproved. Government archives are not perfect truth machines. They reflect the habits, assumptions, priorities and blind spots of the agencies that created them.
 
 A practical reading of New Mexico’s official UFO files should separate cases into three broad categories:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -348,7 +342,6 @@ A practical reading of New Mexico’s official UFO files should separate cases i
 
 This is why official files are most valuable as a sorting tool. They do not remove the mystery from every New Mexico story, but they do stop all stories from being treated equally. A police officer’s promptly investigated report, a base unit history from 1947, a GAO records search and a decades-later anecdote are not the same kind of evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VuKlJuXRtqg" title="Ben Analyses Historic UFO Sighting Described by Policeman | UFO Witness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VuKlJuXRtqg" target="_blank" rel="noopener noreferrer">Ben Analyses Historic UFO Sighting Described by Policeman | UFO Witness</a></p><p class="youtube-embed-meta">Channel: DMAX UK &middot; Views: 24.4K &middot; Uploaded: November 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VuKlJuXRtqg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VuKlJuXRtqg">Open on YouTube</a></p></div></div></div>
 
 ## How the files reshape New Mexico’s UFO history
@@ -359,9 +352,7 @@ Roswell shows how a brief 1947 news cycle, classified Cold War balloon work, mis
 
 The most balanced conclusion is therefore neither “the files prove aliens” nor “the files explain everything”. They show that New Mexico’s UFO record is a layered archive: some claims shrink under documentation, some survive as genuinely unresolved reports, and some remain famous mainly because later culture filled gaps that the records themselves do not fill.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1cO5K1np2Ig" title="Project Blue Book Exposed (2020) [Documentary]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer">Project Blue Book Exposed (2020) [Documentary]</a></p><p class="youtube-embed-meta">Channel: CiNENET - Full movies in English &middot; Views: 16.8K &middot; Uploaded: January 2025 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1cO5K1np2Ig">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nusOwVx_k-8" title="Mỹ vừa công bố tài liệu UFO mật: 162 hồ sơ chấn động lộ diện, điều gì đã bị che giấu suốt nhiều năm?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nusOwVx_k-8" target="_blank" rel="noopener noreferrer">Mỹ vừa công bố tài liệu UFO mật: 162 hồ sơ chấn động lộ diện, điều gì đã bị che giấu suốt nhiều năm?</a></p><p class="youtube-embed-meta">Channel: Tin24h &middot; Views: 13.3K &middot; Uploaded: May 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nusOwVx_k-8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nusOwVx_k-8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -785,287 +776,287 @@ The most balanced conclusion is therefore neither “the files prove aliens” n
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 2. <a id="endnote-2"></a>
    Source: fold3.com  
    Title: socorro new mexico 8766 page 1 us project blue book ufo investigations 1947 1969  
-   Link: [https://www.fold3.com/document/6977589/socorro-new-mexico-8766-page-1-us-project-blue-book-ufo-investigations-1947-1969](https://www.fold3.com/document/6977589/socorro-new-mexico-8766-page-1-us-project-blue-book-ufo-investigations-1947-1969)  
+   Link: <a href="https://www.fold3.com/document/6977589/socorro-new-mexico-8766-page-1-us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/6977589/socorro-new-mexico-8766-page-1-us-project-blue-book-ufo-investigations-1947-1969</a>  
 
 3. <a id="endnote-3"></a>
    Source: osi.af.mil  
    Title: Project Blue Book Part 1 (UFO Reports)  
-   Link: [https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/](https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/)  
+   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
 
 4. <a id="endnote-4"></a>
    Source: govinfo.gov  
    Title: GAOREPORTS NSIAD 95 187  
-   Link: [https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm](https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm</a>  
 
 5. <a id="endnote-5"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/The-Roswell-Report/](https://www.af.mil/The-Roswell-Report/)  
+   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Roswell%20UFO](https://vault.fbi.gov/Roswell%20UFO)  
+   Link: <a href="https://vault.fbi.gov/Roswell%20UFO" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Roswell%20UFO</a>  
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
    Title: Federal Records Guide: Alphabetical Index  
-   Link: [https://www.archives.gov/research/guide-fed-records/index-alpha/s.html](https://www.archives.gov/research/guide-fed-records/index-alpha/s.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/index-alpha/s.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/s.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html](https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html)  
+   Link: <a href="https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/genealogy.html</a>  
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
    Title: foreign affairs  
-   Link: [https://www.archives.gov/research/alic/periodicals/nara-citations/foreign-affairs.html](https://www.archives.gov/research/alic/periodicals/nara-citations/foreign-affairs.html)  
+   Link: <a href="https://www.archives.gov/research/alic/periodicals/nara-citations/foreign-affairs.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/foreign-affairs.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/alic/periodicals/nara-citations/old-army.html](https://www.archives.gov/research/alic/periodicals/nara-citations/old-army.html)  
+   Link: <a href="https://www.archives.gov/research/alic/periodicals/nara-citations/old-army.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/alic/periodicals/nara-citations/old-army.html</a>  
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
    Title: 1995 annual1.txt  
-   Link: [https://www.archives.gov/files/federal-register/the-federal-register/1995-annual1.txt](https://www.archives.gov/files/federal-register/the-federal-register/1995-annual1.txt)  
+   Link: <a href="https://www.archives.gov/files/federal-register/the-federal-register/1995-annual1.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/federal-register/the-federal-register/1995-annual1.txt</a>  
 
 12. <a id="endnote-12"></a>
    Source: archives.gov  
    Title: 2012 annual1.txt  
-   Link: [https://www.archives.gov/files/federal-register/the-federal-register/2012-annual1.txt](https://www.archives.gov/files/federal-register/the-federal-register/2012-annual1.txt)  
+   Link: <a href="https://www.archives.gov/files/federal-register/the-federal-register/2012-annual1.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/federal-register/the-federal-register/2012-annual1.txt</a>  
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/federal-register/the-federal-register/2007-annual3.txt](https://www.archives.gov/files/federal-register/the-federal-register/2007-annual3.txt)  
+   Link: <a href="https://www.archives.gov/files/federal-register/the-federal-register/2007-annual3.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/federal-register/the-federal-register/2007-annual3.txt</a>  
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
    Title: 2010 annual3.txt  
-   Link: [https://www.archives.gov/files/federal-register/the-federal-register/2010-annual3.txt](https://www.archives.gov/files/federal-register/the-federal-register/2010-annual3.txt)  
+   Link: <a href="https://www.archives.gov/files/federal-register/the-federal-register/2010-annual3.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/federal-register/the-federal-register/2010-annual3.txt</a>  
 
 15. <a id="endnote-15"></a>
    Source: archives.gov  
    Title: 2000 annual3.txt  
-   Link: [https://www.archives.gov/files/federal-register/the-federal-register/2000-annual3.txt](https://www.archives.gov/files/federal-register/the-federal-register/2000-annual3.txt)  
+   Link: <a href="https://www.archives.gov/files/federal-register/the-federal-register/2000-annual3.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/federal-register/the-federal-register/2000-annual3.txt</a>  
 
 16. <a id="endnote-16"></a>
    Source: archives.gov  
    Title: 2002 annual3.txt  
-   Link: [https://www.archives.gov/files/federal-register/the-federal-register/2002-annual3.txt](https://www.archives.gov/files/federal-register/the-federal-register/2002-annual3.txt)  
+   Link: <a href="https://www.archives.gov/files/federal-register/the-federal-register/2002-annual3.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/federal-register/the-federal-register/2002-annual3.txt</a>  
 
 17. <a id="endnote-17"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
 18. <a id="endnote-18"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/foia/ufos.html](https://www.archives.gov/foia/ufos.html)  
+   Link: <a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
 
 19. <a id="endnote-19"></a>
    Source: archives.gov  
    Title: moving images and sound  
-   Link: [https://www.archives.gov/research/topics/uaps/moving-images-and-sound](https://www.archives.gov/research/topics/uaps/moving-images-and-sound)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
 20. <a id="endnote-20"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf](https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: govinfo.gov  
    Title: GAOREPORTS NSIAD 95 187  
-   Link: [https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/pdf/GAOREPORTS-NSIAD-95-187.pdf](https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/pdf/GAOREPORTS-NSIAD-95-187.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/pdf/GAOREPORTS-NSIAD-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/pdf/GAOREPORTS-NSIAD-95-187.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/FR-1996-07-19/pdf/FR-1996-07-19.pdf](https://www.govinfo.gov/content/pkg/FR-1996-07-19/pdf/FR-1996-07-19.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/FR-1996-07-19/pdf/FR-1996-07-19.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/FR-1996-07-19/pdf/FR-1996-07-19.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: govinfo.gov  
    Title: GOVPUB GS 3bbc2f92628790ade003d2ae127529c8  
-   Link: [https://www.govinfo.gov/content/pkg/GOVPUB-GS-3bbc2f92628790ade003d2ae127529c8/pdf/GOVPUB-GS-3bbc2f92628790ade003d2ae127529c8.pdf](https://www.govinfo.gov/content/pkg/GOVPUB-GS-3bbc2f92628790ade003d2ae127529c8/pdf/GOVPUB-GS-3bbc2f92628790ade003d2ae127529c8.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/GOVPUB-GS-3bbc2f92628790ade003d2ae127529c8/pdf/GOVPUB-GS-3bbc2f92628790ade003d2ae127529c8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-GS-3bbc2f92628790ade003d2ae127529c8/pdf/GOVPUB-GS-3bbc2f92628790ade003d2ae127529c8.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: govinfo.gov  
    Title: CHRG 118hhrg57440  
-   Link: [https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf](https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/FR-1975-08-28/pdf/FR-1975-08-28.pdf](https://www.govinfo.gov/content/pkg/FR-1975-08-28/pdf/FR-1975-08-28.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/FR-1975-08-28/pdf/FR-1975-08-28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/FR-1975-08-28/pdf/FR-1975-08-28.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/GPO-CRECB-1959-pt5/pdf/GPO-CRECB-1959-pt5-1-1.pdf](https://www.govinfo.gov/content/pkg/GPO-CRECB-1959-pt5/pdf/GPO-CRECB-1959-pt5-1-1.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/GPO-CRECB-1959-pt5/pdf/GPO-CRECB-1959-pt5-1-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GPO-CRECB-1959-pt5/pdf/GPO-CRECB-1959-pt5-1-1.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm](https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm</a>  
 
 28. <a id="endnote-28"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf](https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo92195/pdf/GOVPUB-D301-PURL-gpo92195.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: gao.gov  
    Title: nsiad 95 187  
-   Link: [https://www.gao.gov/products/nsiad-95-187](https://www.gao.gov/products/nsiad-95-187)  
+   Link: <a href="https://www.gao.gov/products/nsiad-95-187" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/nsiad-95-187</a>  
 
 30. <a id="endnote-30"></a>
    Source: gao.gov  
    Title: nsiad 95 187  
-   Link: [https://www.gao.gov/assets/nsiad-95-187.pdf](https://www.gao.gov/assets/nsiad-95-187.pdf)  
+   Link: <a href="https://www.gao.gov/assets/nsiad-95-187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/nsiad-95-187.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: gao.gov  
-   Link: [https://www.gao.gov/assets/b-119600-108404.pdf](https://www.gao.gov/assets/b-119600-108404.pdf)  
+   Link: <a href="https://www.gao.gov/assets/b-119600-108404.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/b-119600-108404.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: gao.gov  
-   Link: [https://www.gao.gov/assets/a157449.html](https://www.gao.gov/assets/a157449.html)  
+   Link: <a href="https://www.gao.gov/assets/a157449.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/a157449.html</a>  
 
 33. <a id="endnote-33"></a>
    Source: gao.gov  
-   Link: [https://www.gao.gov/](https://www.gao.gov/)  
+   Link: <a href="https://www.gao.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/</a>  
 
 34. <a id="endnote-34"></a>
    Source: gao.gov  
-   Link: [https://www.gao.gov/products/154832](https://www.gao.gov/products/154832)  
+   Link: <a href="https://www.gao.gov/products/154832" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/154832</a>  
 
 35. <a id="endnote-35"></a>
    Source: gao.gov  
-   Link: [https://www.gao.gov/assets/a307997.html](https://www.gao.gov/assets/a307997.html)  
+   Link: <a href="https://www.gao.gov/assets/a307997.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/a307997.html</a>  
 
 36. <a id="endnote-36"></a>
    Source: gao.gov  
-   Link: [https://www.gao.gov/assets/a246743.html](https://www.gao.gov/assets/a246743.html)  
+   Link: <a href="https://www.gao.gov/assets/a246743.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/a246743.html</a>  
 
 37. <a id="endnote-37"></a>
    Source: gao.gov  
-   Link: [https://www.gao.gov/assets/a301955.html](https://www.gao.gov/assets/a301955.html)  
+   Link: <a href="https://www.gao.gov/assets/a301955.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/a301955.html</a>  
 
 38. <a id="endnote-38"></a>
    Source: gao.gov  
-   Link: [https://www.gao.gov/assets/a305169.html](https://www.gao.gov/assets/a305169.html)  
+   Link: <a href="https://www.gao.gov/assets/a305169.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/a305169.html</a>  
 
 39. <a id="endnote-39"></a>
    Source: archive.org  
    Title: 1964 04 8694587 Socorro NewMexico djvu.txt  
-   Link: [https://archive.org/stream/1964-04-8694587-Socorro-NewMexico/1964-04-8694587-Socorro-NewMexico_djvu.txt](https://archive.org/stream/1964-04-8694587-Socorro-NewMexico/1964-04-8694587-Socorro-NewMexico_djvu.txt)  
+   Link: <a href="https://archive.org/stream/1964-04-8694587-Socorro-NewMexico/1964-04-8694587-Socorro-NewMexico_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1964-04-8694587-Socorro-NewMexico/1964-04-8694587-Socorro-NewMexico_djvu.txt</a>  
 
 40. <a id="endnote-40"></a>
    Source: ia601607.us.archive.org  
    Title: DTIC ADA326148  
-   Link: [https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf](https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf)  
+   Link: <a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
 
 41. <a id="endnote-41"></a>
    Source: archive.org  
    Title: gov.archives.341 roswell 1  
-   Link: [https://archive.org/details/gov.archives.341-roswell-1](https://archive.org/details/gov.archives.341-roswell-1)  
+   Link: <a href="https://archive.org/details/gov.archives.341-roswell-1" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/gov.archives.341-roswell-1</a>  
 
 42. <a id="endnote-42"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
 43. <a id="endnote-43"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 10  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_10.pdf</a>  
 
 44. <a id="endnote-44"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf</a>  
 
 45. <a id="endnote-45"></a>
    Source: fbi.gov  
-   Link: [https://www.fbi.gov/video-repository/inside-the-fbi-ufos-102921.mp4/view](https://www.fbi.gov/video-repository/inside-the-fbi-ufos-102921.mp4/view)  
+   Link: <a href="https://www.fbi.gov/video-repository/inside-the-fbi-ufos-102921.mp4/view" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/video-repository/inside-the-fbi-ufos-102921.mp4/view</a>  
 
 46. <a id="endnote-46"></a>
    Source: fold3.com  
-   Link: [https://www.fold3.com/pdf/T1206.pdf](https://www.fold3.com/pdf/T1206.pdf)  
+   Link: <a href="https://www.fold3.com/pdf/T1206.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/pdf/T1206.pdf</a>  
 
 47. <a id="endnote-47"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 48. <a id="endnote-48"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Government](https://en.wikipedia.org/wiki/Government)  
+   Link: <a href="https://en.wikipedia.org/wiki/Government" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Government</a>  
 
 49. <a id="endnote-49"></a>
    Source: Wikipedia  
    Title: Roswell, New Mexico  
-   Link: [https://en.wikipedia.org/wiki/Roswell%2C_New_Mexico](https://en.wikipedia.org/wiki/Roswell%2C_New_Mexico)  
+   Link: <a href="https://en.wikipedia.org/wiki/Roswell%2C_New_Mexico" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell%2C_New_Mexico</a>  
 
 50. <a id="endnote-50"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 51. <a id="endnote-51"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf](https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
 52. <a id="endnote-52"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/us/dictionary/english/government](https://dictionary.cambridge.org/us/dictionary/english/government)  
+   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/government" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/government</a>  
 
 53. <a id="endnote-53"></a>
    Source: sgp.fas.org  
-   Link: [https://sgp.fas.org/othergov/roswell.html](https://sgp.fas.org/othergov/roswell.html)  
+   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
 
 ### Additional References
 
 54. <a id="endnote-54"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=nusOwVx_k-8](https://www.youtube.com/watch?v=nusOwVx_k-8)  
+   Link: <a href="https://www.youtube.com/watch?v=nusOwVx_k-8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nusOwVx_k-8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ben Analyses Historic UFO Sighting Described by Policeman | UFO Witness...</p></details>
 
 55. <a id="endnote-55"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=1cO5K1np2Ig](https://www.youtube.com/watch?v=1cO5K1np2Ig)  
+   Link: <a href="https://www.youtube.com/watch?v=1cO5K1np2Ig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1cO5K1np2Ig</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The US has just released classified UFO documents: 162 shocking files revealed, what has been hid...</p></details>
 
 56. <a id="endnote-56"></a>
    Source: youtube.com  
    Title: Roswell crash, UFO coverups and other unanswered questions | Mystery Wire  
-   Link: [https://www.youtube.com/watch?v=eS1eM6WFCjo](https://www.youtube.com/watch?v=eS1eM6WFCjo)  
+   Link: <a href="https://www.youtube.com/watch?v=eS1eM6WFCjo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eS1eM6WFCjo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs...</p></details>
 
 57. <a id="endnote-57"></a>
    Source: gpo.gov  
-   Link: [https://www.gpo.gov/](https://www.gpo.gov/)  
+   Link: <a href="https://www.gpo.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.gpo.gov/</a>  
 
 58. <a id="endnote-58"></a>
    Source: nsa.gov  
    Title: United States Air Force Fact Sheet 95-03United States Air Force Fact Sheet 95-03  
-   Link: [https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/](https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/)  
+   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/</a>  
 
 59. <a id="endnote-59"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/](https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/)  
+   Link: <a href="https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cspanhistory/posts/aliens-or-crash-test-dummies-the-roswell-reports-1997-us-air-force-film-on-the-1/3259805804132944/</a>  
 
 60. <a id="endnote-60"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/Technology/fbi-vault-reveals-ufo-roswell-files/story?id=13347754](https://abcnews.com/Technology/fbi-vault-reveals-ufo-roswell-files/story?id=13347754)  
+   Link: <a href="https://abcnews.com/Technology/fbi-vault-reveals-ufo-roswell-files/story?id=13347754" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/fbi-vault-reveals-ufo-roswell-files/story?id=13347754</a>  
 
 61. <a id="endnote-61"></a>
    Source: govexec.com  
-   Link: [https://www.govexec.com/](https://www.govexec.com/)  
+   Link: <a href="https://www.govexec.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.govexec.com/</a>  
 
 62. <a id="endnote-62"></a>
    Source: nasw.org  
-   Link: [https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm](https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm)  
+   Link: <a href="https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nasw.org/sites/default/files/sciencewriters/html/sum00tex/aliens.htm</a>  
 
 63. <a id="endnote-63"></a>
    Source: seeroswell.com  
-   Link: [https://seeroswell.com/](https://seeroswell.com/)  
+   Link: <a href="https://seeroswell.com/" target="_blank" rel="noopener noreferrer nofollow">https://seeroswell.com/</a>

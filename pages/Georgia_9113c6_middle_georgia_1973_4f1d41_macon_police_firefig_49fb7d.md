@@ -24,7 +24,7 @@ sidebar_expanded_urls:
 - /1973-flap/
 nav_short_title: Macon Sightings
 title: What Macon Police and Firefighters Saw on 31 August 1973
-title_full: What Macon Police and Firefighters Saw on 31 August 1973 | 1973 Flap
+title_full: What Macon Police and Firefighters Saw on 31 August 1973
 display_title_short: Macon Sightings
 display_title: Macon Sightings
 heading_title: What Macon Police and Firefighters Saw on 31 August 1973
@@ -200,7 +200,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-30 15:13:49'
-parent_title: Why Georgia's 1973 UFO Wave Drew Police Attention | Georgia UFOs
+parent_title: Why Georgia's 1973 UFO Wave Drew Police Attention
 parent_permalink: /1973-flap/
 parent_nav_short_title: 1973 Flap
 parent_heading_title: Why Georgia's 1973 UFO Wave Drew Police Attention
@@ -250,22 +250,20 @@ image: /assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_macon_police_fir
 
 ## Introduction
 
-In the early hours of 31 August 1973, police officers and firefighters in Macon, [Georgia]({{ 'what-really-happened-in-georgias-most/' | relative_url }}) became part of one of the most discussed episodes in the wider Middle Georgia UFO flap. The case stood out because the witnesses were not isolated civilians describing a distant light days later. Patrol officers, dispatchers and fire crews were reportedly communicating in real time as unusual lights moved across the sky above Macon and along the Interstate 75 corridor. Local newspapers treated the sightings seriously enough to publish detailed witness descriptions within hours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macon.com">[Macon Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macon.com</span><span class="citation-popover-snippet">Macon TelegraphUFOs, flying saucers reported in Macon, Georgia in 1970s7 May 2019 — In the wee hours of August 31, 1973, police in Cordel...</span><span class="citation-popover-meta">Published: August 31, 1973</span></span></span>
+In the early hours of 31 August 1973, police officers and firefighters in Macon, Georgia became part of one of the most discussed episodes in the wider Middle Georgia UFO flap. The case stood out because the witnesses were not isolated civilians describing a distant light days later. Patrol officers, dispatchers and fire crews were reportedly communicating in real time as unusual lights moved across the sky above Macon and along the Interstate 75 corridor. Local newspapers treated the sightings seriously enough to publish detailed witness descriptions within hours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macon.com">[Macon Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macon.com</span><span class="citation-popover-snippet">Macon TelegraphUFOs, flying saucers reported in Macon, Georgia in 1970s7 May 2019 — In the wee hours of August 31, 1973, police in Cordel...</span><span class="citation-popover-meta">Published: August 31, 1973</span></span></span>
 
-
-<img src="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_macon_police_firefig_49fb7d-Illustration-1-light.svg" | relative_url }}" alt="Macon Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_macon_police_firefig_49fb7d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_macon_police_firefig_49fb7d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_macon_police_firefig_49fb7d-Illustration-1-dark.svg" | relative_url }}" alt="Macon Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_macon_police_firefig_49fb7d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_macon_police_firefig_49fb7d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The incident remains unresolved rather than solved. No photographs, radar confirmations or physical evidence emerged, and many details survive mainly through newspaper reporting and later retellings. Even so, the Macon sightings became one of the clearest examples of how the 1973 southern UFO wave reached official channels in Georgia. The event also shows how quickly police observations, radio traffic and public calls could transform a cluster of ambiguous night-sky sightings into a regional news story.
 
 ## Cordele-to-Macon radio alert and the first sightings
 
 The most memorable detail in the Macon case was the reported warning sent north from Cordele during the night. According to later archive reporting in the Macon Telegraph, Cordele police radioed Macon officers at about 2.25 a.m. with a striking message: a UFO was “heading toward Macon”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macon.com">[Macon Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macon.com</span><span class="citation-popover-snippet">Macon TelegraphUFOs, flying saucers reported in Macon, Georgia in 1970s7 May 2019 — In the wee hours of August 31, 1973, police in Cordel...</span><span class="citation-popover-meta">Published: August 31, 1973</span></span></span>
 
-That radio alert gave the episode a narrative shape that later retellings preserved. Cordele lies south of Macon along Interstate 75, so witnesses and reporters alike could imagine an object moving up a familiar transport corridor through Middle Georgia. Reports that same night were also emerging from Albany, Dawson, Adel and other south Georgia communities, suggesting not one clearly identified craft but a regional wave of sightings involving bright, moving lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspapers.com">[Newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspapers.com</span><span class="citation-popover-title">tallahassee democrat south georgia ufo 1</span><span class="citation-popover-snippet">NewspapersSouth Georgia UFO 197331 Aug 1973 — Reports of the mysterious flying objects came from police in Albany, Dawson, Cordele, and A...</span></span></span>
+That radio alert gave the episode a narrative shape that later retellings preserved. Cordele lies south of Macon along Interstate 75, so witnesses and reporters alike could imagine an object moving up a familiar transport corridor through Middle Georgia. Reports that same night were also emerging from Albany, Dawson, Adel and other south Georgia communities, suggesting not one clearly identified craft but a regional wave of sightings involving bright, moving lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newspapers.com">[Newspapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newspapers.com</span><span class="citation-popover-title">tallahassee democrat south georgia ufo 1</span><span class="citation-popover-snippet">South Georgia UFO 197331 Aug 1973 — Reports of the mysterious flying objects came from police in Albany, Dawson, Cordele, and A...</span></span></span>
 
 In Macon itself, officers Robert Michael Barreth and H. E. Hathaway became the best-known police witnesses. The officers were reportedly patrolling near Central High School after hearing radio traffic about UFO reports elsewhere in the region. Hathaway looked skyward and pointed out one of the lights to his partner. The officers then radioed in their observation and heard reports from other patrol cars, including officers near Westgate Mall. Within a short time, several officers were reportedly watching the same display. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macon.com">[Macon Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macon.com</span><span class="citation-popover-snippet">Macon TelegraphUFOs, flying saucers reported in Macon, Georgia in 1970s7 May 2019 — In the wee hours of August 31, 1973, police in Cordel...</span><span class="citation-popover-meta">Published: August 31, 1973</span></span></span>
 
 One reason the case remained notable in Georgia UFO history was the apparent coordination among witnesses. Officers in different parts of the city claimed to be looking at similar lights at roughly the same time. That did not prove the objects were extraordinary, but it reduced the likelihood of a single mistaken observer inventing a story after the fact.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QoXoYetbsds" title="Jimmy Carter May Have Seen A UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QoXoYetbsds" target="_blank" rel="noopener noreferrer">Jimmy Carter May Have Seen A UFO</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 65.6K &middot; Uploaded: October 2016 &middot; Length: 4 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QoXoYetbsds" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QoXoYetbsds">Open on YouTube</a></p></div></div></div>
 
@@ -276,7 +274,6 @@ Descriptions of the lights were vivid but imprecise, which is typical of many ni
 The most repeated description concerned the arrangement of the lights. According to newspaper accounts, four lights formed what Barreth described as a “perfect baseball diamond”, while three additional lights appeared behind them like a tail. Witnesses also described the lights as blinking and multicoloured. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macon.com">[Macon Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macon.com</span><span class="citation-popover-snippet">Macon TelegraphUFOs, flying saucers reported in Macon, Georgia in 1970s7 May 2019 — In the wee hours of August 31, 1973, police in Cordel...</span><span class="citation-popover-meta">Published: August 31, 1973</span></span></span>
 
 Several features made the reports unusual to the witnesses themselves:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -289,8 +286,7 @@ Several features made the reports unusual to the witnesses themselves:
 
 At the same time, the descriptions also reveal the limits of the evidence. Witnesses could not reliably estimate size, speed, altitude or distance. Nighttime lights without clear reference points are notoriously difficult to judge accurately. Astronomical objects, aircraft viewed under unusual atmospheric conditions, helicopters, satellites or even scattered ground lights can appear strange when seen against a dark sky, especially during periods of heightened public attention.
 
-
-<img src="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_macon_police_firefig_49fb7d-Illustration-2-light.svg" | relative_url }}" alt="Macon Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_macon_police_firefig_49fb7d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_macon_police_firefig_49fb7d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_macon_police_firefig_49fb7d-Illustration-2-dark.svg" | relative_url }}" alt="Macon Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_macon_police_firefig_49fb7d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_macon_police_firefig_49fb7d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The fire department chase along Interstate 75
 
 The firefighter accounts gave the Macon incident much of its local drama. Newspaper reports stated that a Macon Fire Department crew saw the same lights observed by police officers and attempted to follow them southward. According to the Macon Telegraph’s archive summary, the firefighters pursued the object along Interstate 75 as far as the Hartley Bridge Road area before losing sight of it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: macon.com">[Macon Telegraph]</a><span class="citation-popover" role="note"><span class="citation-popover-source">macon.com</span><span class="citation-popover-snippet">Macon TelegraphUFOs, flying saucers reported in Macon, Georgia in 1970s7 May 2019 — In the wee hours of August 31, 1973, police in Cordel...</span><span class="citation-popover-meta">Published: August 31, 1973</span></span></span>
@@ -301,8 +297,7 @@ Yet the pursuit introduces further ambiguity. Human observers tend to interpret 
 
 The fire crews nevertheless seem to have treated the event seriously in the moment. Reports suggest the witnesses were communicating with police and reacting to ongoing sightings across the region rather than inventing an isolated local story. That real-time coordination is one reason the Macon incident still receives attention in discussions of Georgia UFO history.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X1MysDRbARY" title="The night UFOs dazzled Georgia with an unforgettable light show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X1MysDRbARY" target="_blank" rel="noopener noreferrer">The night UFOs dazzled Georgia with an unforgettable light show</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 6.6K &middot; Uploaded: May 2019 &middot; Length: 2 minutes 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X1MysDRbARY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X1MysDRbARY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wg5NbZI3qFs" title="The untold story of the alleged 1973 Mississippi alien abduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wg5NbZI3qFs" target="_blank" rel="noopener noreferrer">The untold story of the alleged 1973 Mississippi alien abduction</a></p><p class="youtube-embed-meta">Channel: Sun Herald &middot; Views: 65.8K &middot; Uploaded: October 2018 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wg5NbZI3qFs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wg5NbZI3qFs">Open on YouTube</a></p></div></div></div>
 
 ## Why the Macon case mattered during the 1973 UFO wave
 
@@ -314,8 +309,7 @@ The incident also demonstrated how local media amplified UFO waves in the pre-in
 
 The Macon case therefore mattered less because it produced proof of an unknown craft and more because it showed how an entire regional network of observers reacted during a concentrated UFO flap.
 
-
-<img src="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_macon_police_firefig_49fb7d-Illustration-3-light.svg" | relative_url }}" alt="Macon Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_macon_police_firefig_49fb7d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_macon_police_firefig_49fb7d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_macon_police_firefig_49fb7d-Illustration-3-dark.svg" | relative_url }}" alt="Macon Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_macon_police_firefig_49fb7d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Georgia_9113c6_middle_georgia_1973_4f1d41_macon_police_firefig_49fb7d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Later explanations and unresolved questions
 
 No definitive explanation for the Macon sightings was ever established. Later summaries often mentioned possibilities such as aircraft, helicopters, weather balloons or astronomical misidentifications. The National Investigations Committee on Aerial Phenomena, or NICAP, discussed the wider Georgia wave in its October 1973 publication UFO Investigator. That report noted that some sightings in the region could probably be explained by stars and planets viewed under unusual conditions, although other reports remained uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/091%20OCTOBER%201973.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesWAVE OF REPORTS HITS GEORGIAOne report from Macon though reports from nearby states con-. San Francisco Chronicle o...</span></span></span>
@@ -326,9 +320,7 @@ Another issue is the absence of corroborating technical evidence. No known radar
 
 Even so, the sightings retain historical importance within Georgia UFO research because they involved multiple official witnesses acting independently but apparently observing similar things at the same time. For historians of UFO culture, the Macon incident captures the atmosphere of the [1973 wave]({{ '1973-wave/' | relative_url }}): police radios alive with alerts, emergency crews scanning the sky, newspapers rushing dramatic reports into print, and communities trying to decide whether they were seeing extraordinary craft or ordinary lights interpreted through an extraordinary moment.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wg5NbZI3qFs" title="The untold story of the alleged 1973 Mississippi alien abduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wg5NbZI3qFs" target="_blank" rel="noopener noreferrer">The untold story of the alleged 1973 Mississippi alien abduction</a></p><p class="youtube-embed-meta">Channel: Sun Herald &middot; Views: 65.8K &middot; Uploaded: October 2018 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wg5NbZI3qFs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wg5NbZI3qFs">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j4r1dAm-LtQ" title="The Hunter Army Airfield Close UFO Encounter By Military Police ( 1973 )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j4r1dAm-LtQ" target="_blank" rel="noopener noreferrer">The Hunter Army Airfield Close UFO Encounter By Military Police ( 1973 )</a></p><p class="youtube-embed-meta">Channel: The Spiderman &middot; Views: 1.2K &middot; Uploaded: March 2020 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j4r1dAm-LtQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j4r1dAm-LtQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -416,7 +408,7 @@ Even so, the sightings retain historical importance within Georgia UFO research 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -426,111 +418,36 @@ Even so, the sightings retain historical importance within Georgia UFO research 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter patch" data-ebay-reference="what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Contact Left Thin Red Line Union Jack Patch Firefighter Morale Badge Hook Backed"><img src="https://i.ebayimg.com/images/g/0qAAAeSwJy5p9djx/s-l225.jpg" alt="Listing image for Contact Left Thin Red Line Union Jack Patch Firefighter Morale Badge Hook Backed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter patch" data-ebay-reference="what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch" target="_blank" rel="sponsored noopener noreferrer">Contact Left Thin Red Line Union Jack Patch Firefighter Morale Badge Hook Backed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter patch" data-ebay-reference="what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for firefighter patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: firefighter patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Poster Neon Colors 18x24in"><img src="{{ '/assets/images/marketplace-covers/6769eb577e29593d60a3.jpg' | relative_url }}" alt="Listing image for UFO Alien Poster Neon Colors 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Poster Neon Colors 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/6d1a63fe39905708d7e0.jpg' | relative_url }}" alt="Listing image for UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO Over Forest - Alien Spaceship, Sci-Fi Art Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter patch" data-ebay-reference="what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,15 +455,15 @@ Even so, the sightings retain historical importance within Georgia UFO research 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter patch" data-ebay-reference="what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom NAME Patch Embroidery Text ID TAC Vest Airsoft Military Paintball Army"><img src="https://i.ebayimg.com/images/g/65EAAOSwyftjG5Vt/s-l225.jpg" alt="Listing image for Custom NAME Patch Embroidery Text ID TAC Vest Airsoft Military Paintball Army" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter patch" data-ebay-reference="what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch" target="_blank" rel="sponsored noopener noreferrer">Custom NAME Patch Embroidery Text ID TAC Vest Airsoft Military Paintball Army</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter patch" data-ebay-reference="what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for firefighter patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: firefighter patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter patch" data-ebay-reference="what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,15 +471,15 @@ Even so, the sightings retain historical importance within Georgia UFO research 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter patch" data-ebay-reference="what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wildland Firefighter Patch Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/3woAAeSwyQppZjKG/s-l225.jpg" alt="Listing image for Wildland Firefighter Patch Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter patch" data-ebay-reference="what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch" target="_blank" rel="sponsored noopener noreferrer">Wildland Firefighter Patch Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter patch" data-ebay-reference="what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for firefighter patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: firefighter patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter patch" data-ebay-reference="what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -570,15 +487,15 @@ Even so, the sightings retain historical importance within Georgia UFO research 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter patch" data-ebay-reference="what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Firefighter Patch NY Engine 54 Battalion 9 Firefighter Firefighter USA"><img src="https://i.ebayimg.com/images/g/yi4AAOSwHMloLwCM/s-l225.jpg" alt="Listing image for Firefighter Patch NY Engine 54 Battalion 9 Firefighter Firefighter USA" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter patch" data-ebay-reference="what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch" target="_blank" rel="sponsored noopener noreferrer">Firefighter Patch NY Engine 54 Battalion 9 Firefighter Firefighter USA</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter patch" data-ebay-reference="what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for firefighter patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: firefighter patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter patch" data-ebay-reference="what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -586,7 +503,7 @@ Even so, the sightings retain historical importance within Georgia UFO research 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=macon-sightings-what-macon-police-and-firefighters-saw-on-31-august-1973-georgia-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter patch" data-ebay-reference="what-macon-police-and-firefighters-saw-on-31-august-1973-firefighter-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -663,17 +580,31 @@ Even so, the sightings retain historical importance within Georgia UFO research 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -686,42 +617,73 @@ Even so, the sightings retain historical importance within Georgia UFO research 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -736,12 +698,17 @@ Even so, the sightings retain historical importance within Georgia UFO research 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -751,87 +718,87 @@ Even so, the sightings retain historical importance within Georgia UFO research 
 
 1. <a id="endnote-1"></a>
    Source: macon.com  
-   Link: [https://www.macon.com/news/local/article229804369.html](https://www.macon.com/news/local/article229804369.html)  
+   Link: <a href="https://www.macon.com/news/local/article229804369.html" target="_blank" rel="noopener noreferrer nofollow">https://www.macon.com/news/local/article229804369.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Macon TelegraphUFOs, flying saucers reported in Macon, Georgia in 1970s7 May 2019 — In the wee hours of August 31, 1973, police in Cordel...</p></details>
    Published: August 31, 1973  
 
 2. <a id="endnote-2"></a>
    Source: newspapers.com  
    Title: tallahassee democrat south georgia ufo 1  
-   Link: [https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/](https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NewspapersSouth Georgia UFO 197331 Aug 1973 — Reports of the mysterious flying objects came from police in Albany, Dawson, Cordele, and A...</p></details>
+   Link: <a href="https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/tallahassee-democrat-south-georgia-ufo-1/35888701/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>South Georgia UFO 197331 Aug 1973 — Reports of the mysterious flying objects came from police in Albany, Dawson, Cordele, and A...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Pascagoula incident  
-   Link: [https://en.wikipedia.org/wiki/Pascagoula_incident](https://en.wikipedia.org/wiki/Pascagoula_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pascagoula_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pascagoula_incident</a>  
 
 4. <a id="endnote-4"></a>
    Source: macon.com  
-   Link: [https://www.macon.com/news/local/article229959549.html](https://www.macon.com/news/local/article229959549.html)  
+   Link: <a href="https://www.macon.com/news/local/article229959549.html" target="_blank" rel="noopener noreferrer nofollow">https://www.macon.com/news/local/article229959549.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Macon cops, firefighters report seeing UFO (Video)3 May 2019 — In the wee hours of Aug. 31, 1973, UFO sightings were reported across the...</p></details>
    Published: May 2019  
 
 5. <a id="endnote-5"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/091%20OCTOBER%201973.pdf](https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/091%20OCTOBER%201973.pdf)  
+   Link: <a href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/091%20OCTOBER%201973.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/091%20OCTOBER%201973.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesWAVE OF REPORTS HITS GEORGIAOne report from Macon though reports from nearby states con-. San Francisco Chronicle o...</p></details>
 
 ### Additional References
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/679528593379841/posts/1148778973121465/](https://www.facebook.com/groups/679528593379841/posts/1148778973121465/)  
+   Link: <a href="https://www.facebook.com/groups/679528593379841/posts/1148778973121465/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/679528593379841/posts/1148778973121465/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 4, 1973 UFO Sighting Unexplained Several local residents and a motorist on Bypass 28 reported seeing unidentified flying...Read...</p></details>
    Published: October 4, 1973  
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
    Title: explored in recent documentaries on Netflix and the BBC  
-   Link: [https://www.facebook.com/havensportssurf/posts/landing-this-week-touching-on-a-bit-of-local-history-with-the-1977-ufo-sightings/1217379710389433/](https://www.facebook.com/havensportssurf/posts/landing-this-week-touching-on-a-bit-of-local-history-with-the-1977-ufo-sightings/1217379710389433/)  
+   Link: <a href="https://www.facebook.com/havensportssurf/posts/landing-this-week-touching-on-a-bit-of-local-history-with-the-1977-ufo-sightings/1217379710389433/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/havensportssurf/posts/landing-this-week-touching-on-a-bit-of-local-history-with-the-1977-ufo-sightings/1217379710389433/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the sky. In 1973, a woman reported her encounter with a landed UFO and strange beings in the forest outside of Macon. And in 1973, a rash...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: Do You Remember The90sand00s Fan Club  
-   Link: [https://www.facebook.com/groups/DoYouRememberThe90sand00sFanClub/posts/26003831469269100/](https://www.facebook.com/groups/DoYouRememberThe90sand00sFanClub/posts/26003831469269100/)  
+   Link: <a href="https://www.facebook.com/groups/DoYouRememberThe90sand00sFanClub/posts/26003831469269100/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/DoYouRememberThe90sand00sFanClub/posts/26003831469269100/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo sightings in 1973 increaseIt&#x27;s late 1973 and it seems we&#x27;re in the middle of a big and increasing trend of UFO sightings! A couple of...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
    Title: 1973 nationwide ufo  
-   Link: [https://www.facebook.com/BBCArchive/videos/1973-nationwide-ufo/455433208163048/](https://www.facebook.com/BBCArchive/videos/1973-nationwide-ufo/455433208163048/)  
+   Link: <a href="https://www.facebook.com/BBCArchive/videos/1973-nationwide-ufo/455433208163048/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/videos/1973-nationwide-ufo/455433208163048/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>#OnThisDay 1973: Nationwide cameras captured...OnThisDay 1973: Nationwide cameras captured incontrovertible proof of the existence of UF...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/telegraphGA/posts/in-the-wee-hours-of-august-31-1973-police-in-cordele-radioed-cops-60-miles-away-/2384129721608187/](https://www.facebook.com/telegraphGA/posts/in-the-wee-hours-of-august-31-1973-police-in-cordele-radioed-cops-60-miles-away-/2384129721608187/)  
+   Link: <a href="https://www.facebook.com/telegraphGA/posts/in-the-wee-hours-of-august-31-1973-police-in-cordele-radioed-cops-60-miles-away-/2384129721608187/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/telegraphGA/posts/in-the-wee-hours-of-august-31-1973-police-in-cordele-radioed-cops-60-miles-away-/2384129721608187/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 31, 1973, police in Cordele...In the wee hours of August 31, 1973, police in Cordele radioed cops 60 miles away in Macon: Be on t...</p></details>
    Published: August 31, 1973  
 
 11. <a id="endnote-11"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/FR-1969-12-05/pdf/FR-1969-12-05.pdf](https://www.govinfo.gov/content/pkg/FR-1969-12-05/pdf/FR-1969-12-05.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/FR-1969-12-05/pdf/FR-1969-12-05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/FR-1969-12-05/pdf/FR-1969-12-05.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FEDERAL REGISTER27 Apr 1970 — Annual volumes containing the public messages and statements, news conferences, and other selected papers r...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: The night UFOs dazzled Georgia with an unforgettable light show  
-   Link: [https://www.youtube.com/watch?v=X1MysDRbARY](https://www.youtube.com/watch?v=X1MysDRbARY)  
+   Link: <a href="https://www.youtube.com/watch?v=X1MysDRbARY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X1MysDRbARY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hunter Army Airfield Close UFO Encounter By Military Police (1973)...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Wg5NbZI3qFs](https://www.youtube.com/watch?v=Wg5NbZI3qFs)  
+   Link: <a href="https://www.youtube.com/watch?v=Wg5NbZI3qFs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wg5NbZI3qFs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Case You Never Heard Of - The Fort Benning Incident...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: fraser.stlouisfed.org  
-   Link: [https://fraser.stlouisfed.org/title/commercial-financial-chronicle-1339/november-7-1914-518169/fulltext](https://fraser.stlouisfed.org/title/commercial-financial-chronicle-1339/november-7-1914-518169/fulltext)  
+   Link: <a href="https://fraser.stlouisfed.org/title/commercial-financial-chronicle-1339/november-7-1914-518169/fulltext" target="_blank" rel="noopener noreferrer nofollow">https://fraser.stlouisfed.org/title/commercial-financial-chronicle-1339/november-7-1914-518169/fulltext</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>text of Commercial and Financial Chronicle - FRASERThe full text on this page is automatically extracted from the file linked above and m...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Jimmy Carter May Have Seen A UFO  
-   Link: [https://www.youtube.com/watch?v=QoXoYetbsds](https://www.youtube.com/watch?v=QoXoYetbsds)  
+   Link: <a href="https://www.youtube.com/watch?v=QoXoYetbsds" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QoXoYetbsds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The untold story of the alleged 1973 Mississippi alien abduction...</p></details>

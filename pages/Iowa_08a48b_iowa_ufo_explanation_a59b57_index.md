@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /iowa-08a48b-iowa-ufo-explanation/
 description: Focused pages that expand on Explanations.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: Iowa_08a48b_iowa_ufo_explanation_a59b57
-parent_title: Explanations | What Really Happened in Iowa's UFO Cases?
+parent_title: Explanations
 parent_nav_short_title: Explanations
 parent_permalink: /explanations/
 ---

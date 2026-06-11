@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /new-hampshire-824569-exeter-incident/
 description: Focused pages that expand on Exeter Case.
-date: '2026-05-30'
+date: '2026-06-11'
 layout: default
 parent_basename: New_Hampshire_824569_exeter_incident_9bd9a0
-parent_title: Exeter Case | Why New Hampshire Became UFO Country
+parent_title: Exeter Case
 parent_nav_short_title: Exeter Case
 parent_permalink: /exeter-case/
 ---

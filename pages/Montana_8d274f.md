@@ -262,7 +262,7 @@ sibling_links:
   short_title: Michigan UFOs
 - basename: Mississippi_cba267
   title: Mississippi UFOs
-  permalink: /mississippi/
+  permalink: /mississippi-cba-267/
   short_title: Mississippi UFOs
 - basename: Alabama_d1f92d
   title: Alabama UFOs
@@ -277,9 +277,9 @@ sibling_links:
   permalink: /what-keeps-tennessees-ufo-stories-alive/
   short_title: Tennessee UFOs
 - basename: Florida_30c2d0
-  title: FloridaUFOs
+  title: Florida UFOs
   permalink: /what-makes-florida-a-hotspot-for-ufo/
-  short_title: FloridaUFOs
+  short_title: Florida UFOs
 - basename: Idaho_18334c
   title: Idaho UFOs
   permalink: /what-makes-idaho-a-key-ufo-hotspot/
@@ -289,9 +289,9 @@ sibling_links:
   permalink: /what-makes-indianas-ufo-history-unique/
   short_title: Indiana UFOs
 - basename: Maine_8dc024
-  title: MaineUFOs
+  title: Maine UFOs
   permalink: /what-makes-maine-a-hotspot-for-ufo/
-  short_title: MaineUFOs
+  short_title: Maine UFOs
 - basename: South_Carolina_11d001
   title: South Carolina UFOs
   permalink: /what-makes-south-carolinas-ufo-story/
@@ -481,7 +481,6 @@ image: /assets/images/Montana_8d274f-overview-social.jpg
 
 Montana’s UFO reputation is not built on one isolated rumour. It rests on geography, military infrastructure, and a few cases that kept being reopened by investigators, journalists, sceptics, and local historians. Great Falls was close to what became [Malmstrom]({{ 'malmstrom/' | relative_url }}) Air Force Base, a major Cold War installation; central Montana also hosted air-defence and missile facilities, making the region a natural place for both genuine military aviation and anxious sky-watching. The Great Falls Air Defense Sector, based at Malmstrom in the early 1960s, coordinated interceptor and radar units across Montana and neighbouring areas, including radar stations at places such as Lewistown, Kalispell, Havre, Opheim, Miles City, and Malmstrom itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Great_Falls_Air_Defense_Sector" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Great Falls Air Defense Sector</span><span class="citation-popover-snippet">Great Falls Air Defense Sector</span></span></span>
 
-
 <img src="{{ "/assets/images/Montana_8d274f-overview.webp" | relative_url }}" alt="Overview image for Why Montana Became a UFO Landmark" loading="eager" decoding="sync" fetchpriority="high">
 That setting matters because many UFO reports are not just “strange lights”; they are reports made in [airspace]({{ 'airspace/' | relative_url }}) already busy with aircraft, radar systems, military exercises, missile fields, and later high-altitude surveillance concerns. The All-domain Anomaly Resolution Office, or AARO, now leads the US government’s UAP work and describes its approach as scientific and data-driven; its 2024 historical review also stressed a recurring problem across decades of investigations: many cases remain unresolved not because they are clearly extraordinary, but because the data are too thin to establish speed, altitude, size, or identity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-4 "Endnote 4")
 
@@ -493,22 +492,20 @@ The Mariana film is Montana’s signature UFO case. In 1950, Nick Mariana, manag
 
 The strongest reason the case endured is simple: it had film, witnesses, and official attention. The Condon Report’s Case 47, a major late-1960s scientific review of UFO cases, identified the location as Great Falls, dated the case to August 1950 while noting uncertainty about the exact day, and summarised the core claim: two witnesses observed two white lights, Mariana filmed them on 16 mm motion picture film, and the case remained unexplained after analysis. The same report said aircraft could not be entirely ruled out, which is the central tension in the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
 
-The film’s evidential value is mixed. On the positive side, the Condon analysis did not simply dismiss the witnesses. It described Mariana as reliable and respected in the community, and the second witness as a person of sound judgement. It also stated that the images were difficult to reconcile with birds, [balloons]({{ 'balloons/' | relative_url }}), meteors, or straightforward [aircraft reflections]({{ 'jet-reflections/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
+The film’s evidential value is mixed. On the positive side, the Condon analysis did not simply dismiss the witnesses. It described Mariana as reliable and respected in the community, and the second witness as a person of sound judgement. It also stated that the images were difficult to reconcile with birds, [balloons]({{ 'balloons/' | relative_url }}), meteors, or straightforward aircraft reflections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
 
-The doubts are equally important. The same Condon account noted uncertainty over the sighting date, inconsistencies in later recollections, and the claim that early frames of the film were missing after Air Force handling. Mariana maintained that those missing frames showed more clearly disk-like, rotating objects, but the missing material was never recovered. That turns a potentially strong film case into a frustrating one: the surviving film is significant, but the most dramatic claim concerns footage that cannot now be tested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
+The doubts are equally important. The same Condon account noted uncertainty over the sighting date, inconsistencies in later recollections, and the claim that early frames of the film were missing after Air Force handling. Mariana maintained that those [missing frames]({{ 'missing-frames/' | relative_url }}) showed more clearly disk-like, rotating objects, but the missing material was never recovered. That turns a potentially strong film case into a frustrating one: the surviving film is significant, but the most dramatic claim concerns footage that cannot now be tested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
 
 The Air Force’s early explanation leaned towards reflections from F-94 jets in the area, but the case did not settle neatly. NICAP’s archived treatment notes that the objects appear as bright circular forms moving past a building and water tower, while the Condon analysis concluded that aircraft remained the main working hypothesis but could not be proved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/mariana.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Great Falls (Montana) UFO Film</span><span class="citation-popover-snippet">The Great Falls (Montana) UFO Film</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
 
-
-<img src="{{ "/assets/images/Montana_8d274f-Illustration-1-light.svg" | relative_url }}" alt="Why Montana Became a UFO Landmark illustration 1" data-theme-src-dark="{{ "/assets/images/Montana_8d274f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Montana_8d274f-Illustration-1-dark.svg" | relative_url }}" alt="Why Montana Became a UFO Landmark illustration 1" data-theme-src-dark="{{ "/assets/images/Montana_8d274f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Great Falls as memory, myth, and local identity
 
-The Mariana case did more than enter UFO files; it became part of Great Falls’ public identity. The History Museum in Great Falls notes that the city has had more than 100 reported UFO sightings and that the local baseball team was renamed the Great Falls Voyagers in 2008 in honour of the Mariana incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatfallshistorymuseum.org">[The History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatfallshistorymuseum.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Mariana case did more than enter UFO files; it became part of Great Falls’ public identity. The History Museum in Great Falls notes that the city has had more than 100 reported UFO sightings and that the local baseball team was renamed the Great Falls [Voyagers]({{ 'voyagers/' | relative_url }}) in 2008 in honour of the Mariana incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatfallshistorymuseum.org">[The History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatfallshistorymuseum.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That does not make Great Falls a proven UFO hotspot in any scientific sense. Public reporting databases are shaped by population, media attention, reporting habits, and cultural expectation. But the local memory matters because UFO history is partly archival and partly social. Once a place becomes associated with a famous case, later sightings are more likely to be noticed, reported, compared, and retold.
 
 For readers trying to weigh Great Falls claims, the useful distinction is between three different kinds of evidence:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -519,7 +516,6 @@ For readers trying to weigh Great Falls claims, the useful distinction is betwee
 </div>
 
 This is why the Mariana film remains the centre of Montana UFO history. It is not just a strange old film; it is the anchor around which much of the state’s UFO reputation later formed.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JwYluPcW08A" title="Video seems to show Chinese spy balloon over U.S." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JwYluPcW08A" target="_blank" rel="noopener noreferrer">Video seems to show Chinese spy balloon over U.S.</a></p><p class="youtube-embed-meta">Channel: Reuters &middot; Views: 106.8K &middot; Uploaded: February 2023 &middot; Length: 1 minute 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JwYluPcW08A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JwYluPcW08A">Open on YouTube</a></p></div></div></div>
 
@@ -535,8 +531,7 @@ The case has also been affected by later national debate about secrecy and disin
 
 The fairest summary is that Malmstrom is a serious historical controversy, not a settled alien-contact case. The missile malfunction is real. The UFO connection remains contested. The gap between official records and veteran testimony is exactly why the story persists.
 
-
-<img src="{{ "/assets/images/Montana_8d274f-Illustration-2-light.svg" | relative_url }}" alt="Why Montana Became a UFO Landmark illustration 2" data-theme-src-dark="{{ "/assets/images/Montana_8d274f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Montana_8d274f-Illustration-2-dark.svg" | relative_url }}" alt="Why Montana Became a UFO Landmark illustration 2" data-theme-src-dark="{{ "/assets/images/Montana_8d274f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What official investigations add, and what they do not
 
 Montana’s major cases sit inside a larger US official-investigation history. Project Blue Book, the best-known Air Force UFO programme, ran from 1952 to 1969 after earlier projects such as Sign and Grudge. National Archives commentary explains that Blue Book had two main goals: to determine whether UFO reports were a threat to national security and to analyse whether they suggested useful technology. By the end, the Air Force’s final statement said no evaluated UFO report indicated a threat to national security, no evidence showed technology beyond known science, and no evidence indicated extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unwritten-record.blogs.archives.gov">[The Unwritten Record]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unwritten-record.blogs.archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -544,7 +539,6 @@ Montana’s major cases sit inside a larger US official-investigation history. P
 That official conclusion is not the same as saying “every case was solved”. The Air Force acknowledged hundreds of unexplained cases. The key distinction is that “unexplained” means the available evidence did not permit a firm identification; it does not, by itself, identify an extraordinary craft or origin. AARO’s 2024 historical report makes the same point in modern language: many cases remain unresolved, but past investigations generally found that most reports were ordinary objects, natural phenomena, optical illusions, or misidentifications, while poor data repeatedly limited scientific resolution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-4 "Endnote 4")
 
 For Montana, this means official records are useful but not magical. They can confirm dates, locations, interviews, weather, aircraft possibilities, and investigative conclusions. They cannot reconstruct missing film frames, remove all witness-memory problems, or prove what a light was when no reliable distance, size, speed, or radar track exists.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yGIH7ufiBII" title="Nick Mariana UFO Footage 1950 Great Falls Montana" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yGIH7ufiBII" target="_blank" rel="noopener noreferrer">Nick Mariana UFO Footage 1950 Great Falls Montana</a></p><p class="youtube-embed-meta">Channel: parkerdonaldmusic &middot; Views: 35.8K &middot; Uploaded: September 2012 &middot; Length: 4 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yGIH7ufiBII" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yGIH7ufiBII">Open on YouTube</a></p></div></div></div>
 
@@ -556,14 +550,13 @@ That episode is a useful modern counterpoint to the older UFO cases. It shows th
 
 The balloon episode does not explain the Mariana film or the Malmstrom claims. It does, however, sharpen the way readers should approach them. “Unidentified” is a temporary status, not a final category. A sighting can begin as a UFO story and end as a balloon, aircraft, sensor anomaly, planet, drone, military test, or unresolved file.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DJ2vKHj8rVM" title="The Montana Film: The First Recorded UFO Sighting in the US" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DJ2vKHj8rVM" target="_blank" rel="noopener noreferrer">The Montana Film: The First Recorded UFO Sighting in the US</a></p><p class="youtube-embed-meta">Channel: Montana Historical Society &middot; Views: 3.5K &middot; Uploaded: February 2025 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DJ2vKHj8rVM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DJ2vKHj8rVM">Open on YouTube</a></p></div></div></div>
 
 ## How to judge Montana UFO claims fairly
 
 The best Montana UFO cases deserve more than ridicule, but they also deserve more than belief. A practical reading of the evidence uses a few simple tests.
 
-**First, separate the event from the interpretation.** Mariana filmed something; that is stronger than “someone later heard a story”. [Malmstrom missiles]({{ 'malmstrom/' | relative_url }}) went offline; that is stronger than the claim that a UFO caused it. The event may be well supported while the interpretation remains disputed.
+**First, separate the event from the interpretation.** Mariana filmed something; that is stronger than “someone later heard a story”. Malmstrom missiles went offline; that is stronger than the claim that a UFO caused it. The event may be well supported while the interpretation remains disputed.
 
 **Second, ask whether the case has independent data.** Film, radar, photographs, air-traffic records, weather data, military logs, and multiple independent witnesses all matter. The Mariana case has surviving film and formal analysis, but its best alleged frames are missing. Malmstrom has official records of missile failure and later testimony, but the causal connection is contested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -571,8 +564,7 @@ The best Montana UFO cases deserve more than ridicule, but they also deserve mor
 
 **Fourth, treat Montana’s UFO culture as evidence of interest, not proof of origin.** Great Falls’ Voyagers branding and recurring local stories show that the Mariana case entered civic memory. They do not prove what the 1950 objects were. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatfallshistorymuseum.org">[The History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatfallshistorymuseum.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
-<img src="{{ "/assets/images/Montana_8d274f-Illustration-3-light.svg" | relative_url }}" alt="Why Montana Became a UFO Landmark illustration 3" data-theme-src-dark="{{ "/assets/images/Montana_8d274f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Montana_8d274f-Illustration-3-dark.svg" | relative_url }}" alt="Why Montana Became a UFO Landmark illustration 3" data-theme-src-dark="{{ "/assets/images/Montana_8d274f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Montana_8d274f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What remains unresolved
 
 Montana’s UFO history is strongest where it is specific. The Mariana film remains a genuinely interesting early film case because official and scientific reviewers did not reduce it confidently to birds, balloons, meteors, or aircraft, even though aircraft could not be ruled out. The Malmstrom missile controversy remains historically important because it links UFO testimony to nuclear-weapons infrastructure, but the evidence for a direct UFO cause is much weaker than the evidence for a missile-system incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[files.ncas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -665,7 +657,7 @@ The broader pattern is not that Montana proves UFOs are alien craft. It is that 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -675,111 +667,36 @@ The broader pattern is not that Montana proves UFOs are alien craft. It is that 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/b2b89193447127e82cdb.jpg' | relative_url }}" alt="Listing image for Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth"><img src="https://i.ebayimg.com/images/g/VF0AAeSwVpBpJZso/s-l225.jpg" alt="Listing image for Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desert Visit UFO Print – Vintage Atomic Age Mid Century Wall Art Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Pink Floyd poster - Hapshash Screen print UFO club 1967 signed by Nigel Waymouth</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/77e85507e42719e2222e.jpg' | relative_url }}" alt="Listing image for Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar &quot;They&#x27;re Here&quot; S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Poster UFO Artwork Alien 16x24"><img src="{{ '/assets/images/marketplace-covers/2d96053693161e408727.jpg' | relative_url }}" alt="Listing image for I Want To Believe Poster UFO Artwork Alien 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Poster UFO Artwork Alien 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="{{ '/assets/images/marketplace-covers/948ded752837c03cada1.jpg' | relative_url }}" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.com</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -787,15 +704,15 @@ The broader pattern is not that Montana proves UFOs are alien craft. It is that 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque"><img src="https://i.ebayimg.com/images/g/B7QAAeSw73loHdMA/s-l225.jpg" alt="Listing image for Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Aliens Exist Funny UFO Metal Poster Wall Tin Sign Man Cave Shed Home Plaque</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -803,15 +720,15 @@ The broader pattern is not that Montana proves UFOs are alien craft. It is that 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S"><img src="https://i.ebayimg.com/images/g/yRcAAOSwWhdmw231/s-l225.jpg" alt="Listing image for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -819,15 +736,15 @@ The broader pattern is not that Montana proves UFOs are alien craft. It is that 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT"><img src="https://i.ebayimg.com/images/g/o-YAAOSwKopk5fnY/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -DEEP FRAMED CANVAS WALL ART PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -835,7 +752,7 @@ The broader pattern is not that Montana proves UFOs are alien craft. It is that 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-montana-ufo-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="why-montana-became-a-ufo-landmark-ufo-poster-book-books-series-television-gerry-anderson-band-concert-tour-album-ticket" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -912,17 +829,31 @@ The broader pattern is not that Montana proves UFOs are alien craft. It is that 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -935,42 +866,73 @@ The broader pattern is not that Montana proves UFOs are alien craft. It is that 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -985,12 +947,17 @@ The broader pattern is not that Montana proves UFOs are alien craft. It is that 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -1000,203 +967,203 @@ The broader pattern is not that Montana proves UFOs are alien craft. It is that 
 
 1. <a id="endnote-1"></a>
    Source: unwritten-record.blogs.archives.gov  
-   Link: [https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/](https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/)  
+   Link: <a href="https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/" target="_blank" rel="noopener noreferrer nofollow">https://unwritten-record.blogs.archives.gov/2013/09/30/project-blue-book-looking-to-the-film-record/</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Great Falls Air Defense Sector  
-   Link: [https://en.wikipedia.org/wiki/Great_Falls_Air_Defense_Sector](https://en.wikipedia.org/wiki/Great_Falls_Air_Defense_Sector)  
+   Link: <a href="https://en.wikipedia.org/wiki/Great_Falls_Air_Defense_Sector" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Great_Falls_Air_Defense_Sector</a>  
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 5. <a id="endnote-5"></a>
    Source: krtv.com  
-   Link: [https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release](https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release)  
+   Link: <a href="https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release" target="_blank" rel="noopener noreferrer nofollow">https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release</a>  
 
 6. <a id="endnote-6"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/case47.htm](https://files.ncas.org/condon/text/case47.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case47.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Case 47: Great Falls Movie Film...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nicap.org  
    Title: The Great Falls (Montana) UFO Film  
-   Link: [https://www.nicap.org/mariana.htm](https://www.nicap.org/mariana.htm)  
+   Link: <a href="https://www.nicap.org/mariana.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/mariana.htm</a>  
 
 8. <a id="endnote-8"></a>
    Source: reuters.com  
    Title: spy balloon witness thought it might have been star or ufo 2023 02 03  
-   Link: [https://www.reuters.com/world/us/spy-balloon-witness-thought-it-might-have-been-star-or-ufo-2023-02-03/](https://www.reuters.com/world/us/spy-balloon-witness-thought-it-might-have-been-star-or-ufo-2023-02-03/)  
+   Link: <a href="https://www.reuters.com/world/us/spy-balloon-witness-thought-it-might-have-been-star-or-ufo-2023-02-03/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/spy-balloon-witness-thought-it-might-have-been-star-or-ufo-2023-02-03/</a>  
 
 9. <a id="endnote-9"></a>
    Source: reuters.com  
    Title: Montana airspace briefly closed, FAA blames radar anomaly  
-   Link: [https://www.reuters.com/world/us/us-faa-closes-some-airspace-montana-defense-department-activities-2023-02-12/](https://www.reuters.com/world/us/us-faa-closes-some-airspace-montana-defense-department-activities-2023-02-12/)  
+   Link: <a href="https://www.reuters.com/world/us/us-faa-closes-some-airspace-montana-defense-department-activities-2023-02-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/us-faa-closes-some-airspace-montana-defense-department-activities-2023-02-12/</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Malmstrom UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Malmstrom_UFO_incident](https://en.wikipedia.org/wiki/Malmstrom_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Malmstrom_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Malmstrom_UFO_incident</a>  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Mariana UFO film  
-   Link: [https://en.wikipedia.org/wiki/Mariana_UFO_film](https://en.wikipedia.org/wiki/Mariana_UFO_film)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mariana_UFO_film" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mariana_UFO_film</a>  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: [https://en.wikipedia.org/wiki/UFO_reports_and_disinformation](https://en.wikipedia.org/wiki/UFO_reports_and_disinformation)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: 2023 Chinese balloon incident  
-   Link: [https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident](https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2023_Chinese_balloon_incident</a>  
 
 16. <a id="endnote-16"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/presidential-libraries](https://www.archives.gov/research/topics/uaps/presidential-libraries)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
 
 17. <a id="endnote-17"></a>
    Source: archives.gov  
    Title: still pictures guide  
-   Link: [https://www.archives.gov/research/guides/still-pictures-guide](https://www.archives.gov/research/guides/still-pictures-guide)  
+   Link: <a href="https://www.archives.gov/research/guides/still-pictures-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guides/still-pictures-guide</a>  
 
 18. <a id="endnote-18"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 19. <a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 20. <a id="endnote-20"></a>
    Source: reuters.com  
    Title: suspected chinese spy balloon flying over united states us officials 2023 02 02  
-   Link: [https://www.reuters.com/world/suspected-chinese-spy-balloon-flying-over-united-states-us-officials-2023-02-02/](https://www.reuters.com/world/suspected-chinese-spy-balloon-flying-over-united-states-us-officials-2023-02-02/)  
+   Link: <a href="https://www.reuters.com/world/suspected-chinese-spy-balloon-flying-over-united-states-us-officials-2023-02-02/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/suspected-chinese-spy-balloon-flying-over-united-states-us-officials-2023-02-02/</a>  
 
 21. <a id="endnote-21"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/us/us-officials-believe-flying-objects-over-alaska-canada-were-balloons-schumer-2023-02-12/](https://www.reuters.com/world/us/us-officials-believe-flying-objects-over-alaska-canada-were-balloons-schumer-2023-02-12/)  
+   Link: <a href="https://www.reuters.com/world/us/us-officials-believe-flying-objects-over-alaska-canada-were-balloons-schumer-2023-02-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/us-officials-believe-flying-objects-over-alaska-canada-were-balloons-schumer-2023-02-12/</a>  
 
 22. <a id="endnote-22"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports/mariana.htm](https://www.nicap.org/reports/mariana.htm)  
+   Link: <a href="https://www.nicap.org/reports/mariana.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/mariana.htm</a>  
 
 23. <a id="endnote-23"></a>
    Source: war.gov  
    Title: Department of War Releases Unidentified Anomalous  
-   Link: [https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/](https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
 
 24. <a id="endnote-24"></a>
    Source: greatfallshistorymuseum.org  
-   Link: [https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers](https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers)  
+   Link: <a href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow">https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers</a>  
 
 25. <a id="endnote-25"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf](https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: abcnews.com  
    Title: ABC News Former Airmen to Govt.: Come Clean on UFOs  
-   Link: [https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715](https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715)  
+   Link: <a href="https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/airmen-govt-clean-ufos/story?id=11738715</a>  
 
 27. <a id="endnote-27"></a>
    Source: wsj.com  
-   Link: [https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e](https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e)  
+   Link: <a href="https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e</a>  
 
 28. <a id="endnote-28"></a>
    Source: theblackvault.com  
    Title: ufo case malmstrom afb ufomissile incident march 16 1967  
-   Link: [https://www.theblackvault.com/documentarchive/ufo-case-malmstrom-afb-ufomissile-incident-march-16-1967/](https://www.theblackvault.com/documentarchive/ufo-case-malmstrom-afb-ufomissile-incident-march-16-1967/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/ufo-case-malmstrom-afb-ufomissile-incident-march-16-1967/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/ufo-case-malmstrom-afb-ufomissile-incident-march-16-1967/</a>  
 
 29. <a id="endnote-29"></a>
    Source: theblackvault.com  
    Title: unidentified flying objects over malmstrom afb november 1975  
-   Link: [https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/](https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/</a>  
    Published: november 1975  
 
 30. <a id="endnote-30"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/oasd.pdf](https://documents.theblackvault.com/documents/ufos/oasd.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/oasd.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/oasd.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: excelexercises.com  
-   Link: [https://excelexercises.com/UFOData.xlsx](https://excelexercises.com/UFOData.xlsx)  
+   Link: <a href="https://excelexercises.com/UFOData.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://excelexercises.com/UFOData.xlsx</a>  
 
 32. <a id="endnote-32"></a>
    Source: news.sportslogos.net  
-   Link: [https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/](https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/)  
+   Link: <a href="https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/" target="_blank" rel="noopener noreferrer nofollow">https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/</a>  
 
 33. <a id="endnote-33"></a>
    Source: mhs-mt.libcal.com  
-   Link: [https://mhs-mt.libcal.com/event/14003735?hs=a](https://mhs-mt.libcal.com/event/14003735?hs=a)  
+   Link: <a href="https://mhs-mt.libcal.com/event/14003735?hs=a" target="_blank" rel="noopener noreferrer nofollow">https://mhs-mt.libcal.com/event/14003735?hs=a</a>  
 
 ### Additional References
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: The Malmstrom Incident | Episode 6 | When UFOs Shut Down Nuclear Missiles  
-   Link: [https://www.youtube.com/watch?v=cFJehKkZOVU](https://www.youtube.com/watch?v=cFJehKkZOVU)  
+   Link: <a href="https://www.youtube.com/watch?v=cFJehKkZOVU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cFJehKkZOVU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the Malmstrom Incident! How a UFO Disabled 10 Nuclear Missiles...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: Inside the Malmstrom Incident! How a UFO Disabled 10 Nuclear Missiles!  
-   Link: [https://www.youtube.com/watch?v=J59QIrR5OTY](https://www.youtube.com/watch?v=J59QIrR5OTY)  
+   Link: <a href="https://www.youtube.com/watch?v=J59QIrR5OTY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J59QIrR5OTY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Montana Alien Footage Revealed | Redgate | Real Alien Video Documentary...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: UFO Over Montana: The Mariana Incident & The Great Falls Mystery  
-   Link: [https://www.youtube.com/watch?v=MBPYf7wT40w](https://www.youtube.com/watch?v=MBPYf7wT40w)  
+   Link: <a href="https://www.youtube.com/watch?v=MBPYf7wT40w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MBPYf7wT40w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Malmstrom Incident | Episode 6 | When UFOs Shut Down Nuclear Missiles...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
    Title: The Montana Film: The First Recorded UFO Sighting in the US  
-   Link: [https://www.youtube.com/watch?v=DJ2vKHj8rVM](https://www.youtube.com/watch?v=DJ2vKHj8rVM)  
+   Link: <a href="https://www.youtube.com/watch?v=DJ2vKHj8rVM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DJ2vKHj8rVM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Over Montana: The Mariana Incident &amp; The Great Falls Mystery...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/1cfco1m/richard_dolan_12_government_documents_that_take/](https://www.reddit.com/r/skeptic/comments/1cfco1m/richard_dolan_12_government_documents_that_take/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/1cfco1m/richard_dolan_12_government_documents_that_take/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1cfco1m/richard_dolan_12_government_documents_that_take/</a>  
 
 39. <a id="endnote-39"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/](https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g9mjfo/967_malmstrom_afb_ufo_incident_how_do_i_balance/</a>  
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/popularmechanics/posts/a-missile-mysteriously-collided-with-a-ufo-an-expert-finally-reveals-the-truth-a/1196138629040038/](https://www.facebook.com/popularmechanics/posts/a-missile-mysteriously-collided-with-a-ufo-an-expert-finally-reveals-the-truth-a/1196138629040038/)  
+   Link: <a href="https://www.facebook.com/popularmechanics/posts/a-missile-mysteriously-collided-with-a-ufo-an-expert-finally-reveals-the-truth-a/1196138629040038/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/popularmechanics/posts/a-missile-mysteriously-collided-with-a-ufo-an-expert-finally-reveals-the-truth-a/1196138629040038/</a>  
 
 41. <a id="endnote-41"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fossbytes/posts/a-wall-street-journal-investigation-has-revealed-that-the-us-defense-department-/1147102957457747/](https://www.facebook.com/fossbytes/posts/a-wall-street-journal-investigation-has-revealed-that-the-us-defense-department-/1147102957457747/)  
+   Link: <a href="https://www.facebook.com/fossbytes/posts/a-wall-street-journal-investigation-has-revealed-that-the-us-defense-department-/1147102957457747/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fossbytes/posts/a-wall-street-journal-investigation-has-revealed-that-the-us-defense-department-/1147102957457747/</a>  
 
 42. <a id="endnote-42"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FOX7Austin/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1476726257826958/](https://www.facebook.com/FOX7Austin/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1476726257826958/)  
+   Link: <a href="https://www.facebook.com/FOX7Austin/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1476726257826958/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX7Austin/posts/a-newly-declassified-video-shown-in-infrared-depicts-an-object-appearing-to-be-a/1476726257826958/</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/abc7chicago/posts/a-temporary-flight-restriction-was-put-in-place-over-montana-saturday-after-a-ra/10161153220856162/](https://www.facebook.com/abc7chicago/posts/a-temporary-flight-restriction-was-put-in-place-over-montana-saturday-after-a-ra/10161153220856162/)  
+   Link: <a href="https://www.facebook.com/abc7chicago/posts/a-temporary-flight-restriction-was-put-in-place-over-montana-saturday-after-a-ra/10161153220856162/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abc7chicago/posts/a-temporary-flight-restriction-was-put-in-place-over-montana-saturday-after-a-ra/10161153220856162/</a>
